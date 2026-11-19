@@ -1,6 +1,6 @@
 # xirui-li/DrAttack
 
-⭐ 74 · JavaScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/xirui-li/DrAttack) · [官网](https://xirui-li.github.io/DrAttack/) · 组织维护
+⭐ 75 · JavaScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/xirui-li/DrAttack) · [官网](https://xirui-li.github.io/DrAttack/) · 组织维护
 
 **论文官方实现：通过提示分解重构对 LLM 实施越狱攻击**
 
@@ -45,12 +45,12 @@ DrAttack 论文的官方代码与数据仓库，实现一种提示分解式越�
 ```mermaid
 xychart-beta
     title "xirui-li/DrAttack 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 69 --> 75
-    line [70, 72, 73, 72, 74, 74]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 69 --> 76
+    line [70, 72, 73, 72, 74, 75]
 ```
 
-2026-10-18 70 → 2026-11-18 74（+4）
+2026-10-18 70 → 2026-11-19 75（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Machine-Learning-MLS-C01-Practice-Tests-Exams-Question
 
-⭐ 84 · 推送 2026-03-20 · [GitHub](https://github.com/Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Machine-Learning-MLS-C01-Practice-Tests-Exams-Question) · [官网](https://education.ditectrev.com) · 组织维护
+⭐ 85 · 推送 2026-03-20 · [GitHub](https://github.com/Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Machine-Learning-MLS-C01-Practice-Tests-Exams-Question) · [官网](https://education.ditectrev.com) · 组织维护
 
 **AWS 机器学习认证 MLS-C01 模拟题库（137 题）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Machine-Learning-MLS-C01-Practice-Tests-Exams-Question 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 83 --> 86
+    line [84, 85]
 ```
 
-2026-10-18 84 → 2026-11-18 84（+0）
+2026-10-18 84 → 2026-11-19 85（+1）
 
 
 ---

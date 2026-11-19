@@ -1,6 +1,6 @@
 # sillog-admin/SILLOG
 
-⭐ 27 · Swift · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/sillog-admin/SILLOG) · [官网](https://sillog.app) · 组织维护 · 中文 README
+⭐ 27 · Swift · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/sillog-admin/SILLOG) · [官网](https://sillog.app) · 组织维护 · 中文 README
 
 **macOS 个人工作记录应用：自动记录活动并用 AI 整理成业务图谱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sillog-admin/SILLOG 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    title "sillog-admin/SILLOG 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 4 --> 29
-    line [6, 8, 15, 24, 27]
+    line [6, 8, 15, 24, 27, 27]
 ```
 
-2026-11-13 6 → 2026-11-18 27（+21）
+2026-11-13 6 → 2026-11-19 27（+21）
 
 
 ---

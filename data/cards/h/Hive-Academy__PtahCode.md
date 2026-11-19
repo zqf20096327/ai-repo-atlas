@@ -1,6 +1,6 @@
 # Hive-Academy/PtahCode
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Hive-Academy/PtahCode) · [官网](https://ptah.live) · 组织维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Hive-Academy/PtahCode) · [官网](https://ptah.live) · 组织维护
 
 **Electron 桌面端 AI 编排中枢：统一调度 Claude、Codex 等编码 CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Hive-Academy/PtahCode 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-19"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-11-08 34 → 2026-11-18 34（+0）
+2026-11-08 34 → 2026-11-19 34（+0）
 
 
 ---

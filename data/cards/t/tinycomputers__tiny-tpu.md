@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinycomputers/tiny-tpu 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-18"]
+    title "tinycomputers/tiny-tpu 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-19"]
     y-axis "stars" 17 --> 21
-    line [18, 20]
+    line [18, 20, 20]
 ```
 
-2026-10-26 18 → 2026-11-18 20（+2）
+2026-10-26 18 → 2026-11-19 20（+2）
 
 
 ---

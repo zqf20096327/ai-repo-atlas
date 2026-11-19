@@ -1,6 +1,6 @@
 # veerps57/memento
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/veerps57/memento) · [官网](https://runmemento.com/) · 个人维护
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/veerps57/memento) · [官网](https://runmemento.com/) · 个人维护
 
 **给 AI 助手的本地优先、LLM 无关的记忆层**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "veerps57/memento 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-11-18 24（+0）
+2026-10-18 24 → 2026-11-19 25（+1）
 
 
 ---

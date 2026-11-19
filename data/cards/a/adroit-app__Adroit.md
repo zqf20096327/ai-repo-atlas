@@ -1,6 +1,6 @@
 # adroit-app/Adroit
 
-⭐ 15 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/adroit-app/Adroit) · [官网](https://adroit-app.github.io/) · 组织维护
+⭐ 15 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/adroit-app/Adroit) · [官网](https://adroit-app.github.io/) · 组织维护
 
 **Vim 用户的编码 agent 工作区：并排管理多个 Claude Code/Codex 会话**
 
@@ -40,6 +40,18 @@
 > L5: An Agent Workspace for people who live in Vim: drive any coding agent in its own
 > L11: Claude Code, Codex, Pi and OpenCode sessions stand side by side in one window,
 > L41: Adroit needs git and at least one supported agent on `PATH`. The macOS app
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "adroit-app/Adroit 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-18 15 → 2026-11-19 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # open-software-network/os-clovy
 
-⭐ 359 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/open-software-network/os-clovy) · [官网](https://opensoftware.co/clovy) · 组织维护
+⭐ 360 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/open-software-network/os-clovy) · [官网](https://opensoftware.co/clovy) · 组织维护
 
 **Mac 本地优先的私密 AI 工作台：聊天/听写/会议笔记/本地 agent**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "open-software-network/os-clovy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 355 --> 360
-    line [357, 356, 357, 358, 359, 359]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 355 --> 361
+    line [357, 356, 357, 358, 359, 360]
 ```
 
-2026-10-18 357 → 2026-11-18 359（+2）
+2026-10-18 357 → 2026-11-19 360（+3）
 
 
 ---

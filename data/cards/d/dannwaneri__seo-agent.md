@@ -1,6 +1,6 @@
 # dannwaneri/seo-agent
 
-⭐ 58 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/dannwaneri/seo-agent) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/dannwaneri/seo-agent) · 个人维护
 
 **本地 SEO 审计 agent：真实浏览器巡检与多引擎 AI 引用追踪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dannwaneri/seo-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 53 --> 59
-    line [54, 55, 54, 57, 58, 58]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 53 --> 60
+    line [54, 55, 54, 57, 58, 59]
 ```
 
-2026-10-18 54 → 2026-11-18 58（+4）
+2026-10-18 54 → 2026-11-19 59（+5）
 
 
 ---

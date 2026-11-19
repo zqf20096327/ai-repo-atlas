@@ -1,6 +1,6 @@
 # BAMresearch/automatic-sem-image-segmentation
 
-⭐ 82 · Jupyter Notebook · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/BAMresearch/automatic-sem-image-segmentation) · 组织维护
+⭐ 83 · Jupyter Notebook · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/BAMresearch/automatic-sem-image-segmentation) · 组织维护
 
 **电镜颗粒图像自动语义分割工作流（CycleGAN+UNet）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BAMresearch/automatic-sem-image-segmentation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 81 --> 84
+    line [82, 83]
 ```
 
-2026-10-18 82 → 2026-11-18 82（+0）
+2026-10-18 82 → 2026-11-19 83（+1）
 
 
 ---

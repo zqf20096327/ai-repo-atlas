@@ -1,6 +1,6 @@
 # momo2young/humanize-academic-writing
 
-⭐ 30 · Python · MIT · 推送 2026-01-25 · [GitHub](https://github.com/momo2young/humanize-academic-writing) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-01-25 · [GitHub](https://github.com/momo2young/humanize-academic-writing) · 个人维护 · 中文 README
 
 **面向社科学者的 AI 技能：将 AI 生成的学术文本改写为自然学术写作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "momo2young/humanize-academic-writing 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 25 --> 31
-    line [26, 28, 26, 28, 29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 25 --> 34
+    line [26, 28, 26, 28, 29, 30, 33]
 ```
 
-2026-10-18 26 → 2026-11-18 30（+4）
+2026-10-18 26 → 2026-11-19 33（+7）
 
 
 ---

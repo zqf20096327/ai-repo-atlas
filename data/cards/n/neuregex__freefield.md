@@ -1,6 +1,6 @@
 # neuregex/freefield
 
-⭐ 1,549 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/neuregex/freefield) · [官网](https://youtu.be/N7mv2v3Txeo) · 个人维护
+⭐ 1,591 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/neuregex/freefield) · [官网](https://youtu.be/N7mv2v3Txeo) · 个人维护
 
 **开源 Higgsfield 复刻：120 个图像/视频/VFX/音频生成应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "neuregex/freefield 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 1146 --> 1585
-    line [1182, 1273, 1353, 1430, 1497, 1549]
+    title "neuregex/freefield 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 1142 --> 1631
+    line [1182, 1273, 1353, 1430, 1497, 1549, 1591]
 ```
 
-2026-11-12 1,182 → 2026-11-18 1,549（+367）
+2026-11-12 1,182 → 2026-11-19 1,591（+409）
 
 
 ---

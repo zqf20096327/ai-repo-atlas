@@ -1,6 +1,6 @@
 # albertosca/moonlighter
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/albertosca/moonlighter) · [官网](https://albertosca.github.io/moonlighter/) · 个人维护
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/albertosca/moonlighter) · [官网](https://albertosca.github.io/moonlighter/) · 个人维护
 
 **自托管求职助手：扫描职位、按简历打分并起草答题表**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "albertosca/moonlighter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

@@ -45,12 +45,12 @@ P2PCLAW 网络的前端仓库：基于 Next.js 16（App Router）、Gun.js P2P m
 ```mermaid
 xychart-beta
     title "Agnuxo1/p2pclaw-unified 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

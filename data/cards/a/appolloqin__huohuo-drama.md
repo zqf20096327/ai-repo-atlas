@@ -1,6 +1,6 @@
 # appolloqin/huohuo-drama
 
-⭐ 13 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/appolloqin/huohuo-drama) · [官网](https://www.seeddrama.com/) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/appolloqin/huohuo-drama) · [官网](https://www.seeddrama.com/) · 个人维护 · 中文 README
 
 **面向创作者的开源全栈 AI 短剧与 AI 小说创作平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "appolloqin/huohuo-drama 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-18"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-19"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-10-18 11 → 2026-11-18 13（+2）
+2026-10-18 11 → 2026-11-19 14（+3）
 
 
 ---

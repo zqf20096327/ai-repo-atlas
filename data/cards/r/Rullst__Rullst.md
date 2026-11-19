@@ -1,6 +1,6 @@
 # Rullst/Rullst
 
-⭐ 21 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Rullst/Rullst) · [官网](https://rullst.win) · 个人维护
+⭐ 21 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Rullst/Rullst) · [官网](https://rullst.win) · 个人维护
 
 **面向人类与 AI 辅助编码设计的 Rust 全栈 Web 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Rullst/Rullst 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-19"]
     y-axis "stars" 18 --> 22
     line [19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-18 21（+2）
+2026-10-18 19 → 2026-11-19 21（+2）
 
 
 ---

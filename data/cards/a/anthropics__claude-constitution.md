@@ -1,6 +1,6 @@
 # anthropics/claude-constitution
 
-⭐ 151 · CC0-1.0 · 推送 2026-01-29 · [GitHub](https://github.com/anthropics/claude-constitution) · 组织维护
+⭐ 152 · CC0-1.0 · 推送 2026-01-29 · [GitHub](https://github.com/anthropics/claude-constitution) · 组织维护
 
 **Anthropic 发布的 Claude 价值观与行为准则文档**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/claude-constitution 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 147 --> 152
-    line [148, 149, 148, 149, 151, 151]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 147 --> 153
+    line [148, 149, 148, 149, 151, 152]
 ```
 
-2026-10-18 148 → 2026-11-18 151（+3）
+2026-10-18 148 → 2026-11-19 152（+4）
 
 
 ---

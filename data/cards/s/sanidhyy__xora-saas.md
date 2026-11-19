@@ -1,6 +1,6 @@
 # sanidhyy/xora-saas
 
-⭐ 29 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/sanidhyy/xora-saas) · [官网](https://xora-saas.netlify.app) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/sanidhyy/xora-saas) · [官网](https://xora-saas.netlify.app) · 个人维护
 
 **AI 视频剪辑 SaaS 的动画落地页模板（React）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sanidhyy/xora-saas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-18 29（+0）
+2026-10-18 29 → 2026-11-19 29（+0）
 
 
 ---

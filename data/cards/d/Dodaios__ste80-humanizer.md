@@ -1,6 +1,6 @@
 # Dodaios/ste80-humanizer
 
-⭐ 765 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Dodaios/ste80-humanizer) · [官网](https://skills.sh/Dodaios/ste80-humanizer) · 组织维护
+⭐ 855 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Dodaios/ste80-humanizer) · [官网](https://skills.sh/Dodaios/ste80-humanizer) · 组织维护
 
 **去除 AI 文风特征并按 STE80 重写文本的 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dodaios/ste80-humanizer 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 246 --> 812
-    line [293, 395, 454, 488, 564, 684, 738, 765]
+    title "Dodaios/ste80-humanizer 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 237 --> 911
+    line [293, 395, 454, 488, 564, 684, 738, 765, 855]
 ```
 
-2026-11-10 293 → 2026-11-18 765（+472）
+2026-11-10 293 → 2026-11-19 855（+562）
 
 
 ---

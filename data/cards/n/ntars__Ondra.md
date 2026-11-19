@@ -1,6 +1,6 @@
 # ntars/Ondra
 
-⭐ 11 · Dart · 推送 2026-11-17 · [GitHub](https://github.com/ntars/Ondra) · [官网](https://ai.ntars.cn/) · 个人维护 · 中文 README
+⭐ 11 · Dart · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/ntars/Ondra) · [官网](https://ai.ntars.cn/) · 个人维护 · 中文 README
 
 **本地数据、插件化架构的桌面 AI 陪伴体**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ntars/Ondra 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 8 --> 12
     line [9, 10, 11, 11]
 ```
 
-2026-11-13 9 → 2026-11-18 11（+2）
+2026-11-13 9 → 2026-11-19 11（+2）
 
 
 ---

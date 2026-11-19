@@ -1,6 +1,6 @@
 # cocoonstack/sandbox
 
-⭐ 89 · Go · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/cocoonstack/sandbox) · [官网](https://cocoonstack.github.io/sandbox/) · 组织维护
+⭐ 90 · Go · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/cocoonstack/sandbox) · [官网](https://cocoonstack.github.io/sandbox/) · 组织维护
 
 **面向 AI agent 的快速冷启动 MicroVM 沙箱运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cocoonstack/sandbox 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 84 --> 90
-    line [85, 87, 88, 89, 89]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 84 --> 91
+    line [85, 87, 88, 89, 90]
 ```
 
-2026-10-18 85 → 2026-11-18 89（+4）
+2026-10-18 85 → 2026-11-19 90（+5）
 
 
 ---

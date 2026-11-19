@@ -1,6 +1,6 @@
 # TobiasMue91/tobiasmue91.github.io
 
-⭐ 59 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TobiasMue91/tobiasmue91.github.io) · [官网](https://www.gptgames.dev/) · 个人维护
+⭐ 59 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/TobiasMue91/tobiasmue91.github.io) · [官网](https://www.gptgames.dev/) · 个人维护
 
 **110+ 浏览器游戏与 200+ 工具集合，代码几乎全部由 AI 编写**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TobiasMue91/tobiasmue91.github.io 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
     y-axis "stars" 57 --> 60
     line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-18 59（+1）
+2026-10-18 58 → 2026-11-19 59（+1）
 
 
 ---

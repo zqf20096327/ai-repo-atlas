@@ -1,6 +1,6 @@
 # JetXu-LLM/llama-github
 
-⭐ 290 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/JetXu-LLM/llama-github) · [官网](https://pypi.org/project/llama-github/) · 个人维护
+⭐ 289 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/JetXu-LLM/llama-github) · [官网](https://pypi.org/project/llama-github/) · 个人维护
 
 **面向 LLM Chatbot 与 Agent 的 GitHub Agentic RAG 上下文检索库**
 
@@ -45,12 +45,12 @@ Python 库，供 LLM Chatbot、AI Agent 和 Auto-dev 方案从 GitHub 公开项�
 ```mermaid
 xychart-beta
     title "JetXu-LLM/llama-github 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 288 --> 292
-    line [291, 290, 291, 289, 290, 290]
+    line [291, 290, 291, 289, 290, 289]
 ```
 
-2026-10-18 291 → 2026-11-18 290（-1）
+2026-10-18 291 → 2026-11-19 289（-2）
 
 
 ---

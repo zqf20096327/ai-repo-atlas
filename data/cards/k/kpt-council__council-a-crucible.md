@@ -44,13 +44,13 @@ Council — A Crucible 是一套结构化提示/对话框架，以文档（Runti
 
 ```mermaid
 xychart-beta
-    title "kpt-council/council-a-crucible 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "kpt-council/council-a-crucible 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-18 16（+1）
+2026-10-18 15 → 2026-11-19 16（+1）
 
 
 ---

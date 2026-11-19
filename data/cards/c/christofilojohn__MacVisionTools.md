@@ -1,6 +1,6 @@
 # christofilojohn/MacVisionTools
 
-⭐ 12 · Swift · Apache-2.0 · 推送 2026-05-02 · [GitHub](https://github.com/christofilojohn/MacVisionTools) · [官网](https://macvisiontools.pages.dev/) · 个人维护
+⭐ 13 · Swift · Apache-2.0 · 推送 2026-05-02 · [GitHub](https://github.com/christofilojohn/MacVisionTools) · [官网](https://macvisiontools.pages.dev/) · 个人维护
 
 **macOS 菜单栏应用：本地运行视觉模型做检测、情绪、隐私与专注跟踪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "christofilojohn/MacVisionTools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 13（+1）
 
 
 ---

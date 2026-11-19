@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude 星数(近 10 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
+    title "bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude 星数(近 11 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 1 --> 105
-    line [9, 13, 53, 73, 87, 92, 97, 96, 93, 94]
+    line [9, 13, 53, 73, 87, 92, 97, 96, 93, 94, 94]
 ```
 
-2026-10-31 9 → 2026-11-18 94（+85）
+2026-10-31 9 → 2026-11-19 94（+85）
 
 
 ---

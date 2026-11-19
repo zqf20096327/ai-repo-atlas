@@ -1,6 +1,6 @@
 # dlebech/diffusers-streamlit
 
-⭐ 27 · Python · CC0-1.0 · 推送 2026-11-14 · [GitHub](https://github.com/dlebech/diffusers-streamlit) · 个人维护
+⭐ 27 · Python · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/dlebech/diffusers-streamlit) · 个人维护
 
 **用 Streamlit 玩开源文生图模型的极简 Web 界面**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dlebech/diffusers-streamlit 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-18"]
+    x-axis ["2026-11-14", "2026-11-19"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-11-14 27 → 2026-11-18 27（+0）
+2026-11-14 27 → 2026-11-19 27（+0）
 
 
 ---

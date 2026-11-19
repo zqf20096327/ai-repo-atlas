@@ -1,6 +1,6 @@
 # gladia-research-group/perseus
 
-⭐ 25 · Rust · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/gladia-research-group/perseus) · [官网](https://arxiv.org/pdf/2611.04488) · 组织维护
+⭐ 28 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/gladia-research-group/perseus) · [官网](https://arxiv.org/pdf/2611.04488) · 组织维护
 
 **GPU 上全同态加密的 transformer 推理框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gladia-research-group/perseus 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 18 --> 26
-    line [19, 20, 21, 24, 25, 25]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 18 --> 29
+    line [19, 20, 21, 24, 25, 28]
 ```
 
-2026-11-08 19 → 2026-11-18 25（+6）
+2026-11-08 19 → 2026-11-19 28（+9）
 
 
 ---

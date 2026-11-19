@@ -1,6 +1,6 @@
 # hongsong-wang/AI_arXiv_Portal
 
-⭐ 66 · 推送 2026-07-19 · [GitHub](https://github.com/hongsong-wang/AI_arXiv_Portal) · [官网](https://hongsong-wang.github.io/AI_arXiv_Portal/) · 个人维护 · 中文 README
+⭐ 68 · 推送 2026-07-19 · [GitHub](https://github.com/hongsong-wang/AI_arXiv_Portal) · [官网](https://hongsong-wang.github.io/AI_arXiv_Portal/) · 个人维护 · 中文 README
 
 **面向研究者的 arXiv AI 论文主题门户（网页汇总）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hongsong-wang/AI_arXiv_Portal 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 61 --> 67
-    line [62, 63, 64, 65, 66, 64, 66, 66]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 61 --> 69
+    line [62, 63, 64, 65, 66, 64, 66, 68]
 ```
 
-2026-10-18 62 → 2026-11-18 66（+4）
+2026-10-18 62 → 2026-11-19 68（+6）
 
 
 ---

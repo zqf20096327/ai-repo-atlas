@@ -1,6 +1,6 @@
 # gokulsvision/Crewm8-Social-Media-Manager-Skill-Graph
 
-⭐ 26 · MIT · 推送 2026-05-01 · [GitHub](https://github.com/gokulsvision/Crewm8-Social-Media-Manager-Skill-Graph) · [官网](https://crewm8.ai) · 组织维护
+⭐ 27 · MIT · 推送 2026-05-01 · [GitHub](https://github.com/gokulsvision/Crewm8-Social-Media-Manager-Skill-Graph) · [官网](https://crewm8.ai) · 组织维护
 
 **37 个社交媒体运营 agent 技能包，覆盖 4 平台 12 类职能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gokulsvision/Crewm8-Social-Media-Manager-Skill-Graph 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 16 --> 27
-    line [17, 18, 19, 18, 19, 23, 24, 25, 26]
+    title "gokulsvision/Crewm8-Social-Media-Manager-Skill-Graph 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 28
+    line [17, 18, 19, 18, 19, 23, 24, 25, 26, 27]
 ```
 
-2026-10-18 17 → 2026-11-18 26（+9）
+2026-10-18 17 → 2026-11-19 27（+10）
 
 
 ---

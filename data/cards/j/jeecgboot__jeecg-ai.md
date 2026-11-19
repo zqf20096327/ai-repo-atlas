@@ -1,6 +1,6 @@
 # jeecgboot/jeecg-ai
 
-⭐ 102 · Java · Apache-2.0 · 推送 2026-03-20 · [GitHub](https://github.com/jeecgboot/jeecg-ai) · [官网](https://jeecg.com/aigcIndex) · 组织维护 · 中文 README
+⭐ 103 · Java · Apache-2.0 · 推送 2026-03-20 · [GitHub](https://github.com/jeecgboot/jeecg-ai) · [官网](https://jeecg.com/aigcIndex) · 组织维护 · 中文 README
 
 **面向企业的 AI 应用平台 + 零代码搭建平台（Java/Vue3）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jeecgboot/jeecg-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 97 --> 103
-    line [98, 100, 101, 102, 102]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 97 --> 104
+    line [98, 100, 101, 102, 103]
 ```
 
-2026-10-18 98 → 2026-11-18 102（+4）
+2026-10-18 98 → 2026-11-19 103（+5）
 
 
 ---

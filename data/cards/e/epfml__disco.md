@@ -1,6 +1,6 @@
 # epfml/disco
 
-⭐ 193 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/epfml/disco) · [官网](https://discolab.ai) · 组织维护
+⭐ 193 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/epfml/disco) · [官网](https://discolab.ai) · 组织维护
 
 **浏览器端联邦/去中心化协作训练平台，无需代码与安装**
 
@@ -46,12 +46,12 @@ DISCO 是运行于浏览器的分布式协作机器学习平台，面向非技�
 ```mermaid
 xychart-beta
     title "epfml/disco 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-19"]
     y-axis "stars" 190 --> 194
     line [191, 192, 193, 193]
 ```
 
-2026-10-18 191 → 2026-11-18 193（+2）
+2026-10-18 191 → 2026-11-19 193（+2）
 
 
 ---

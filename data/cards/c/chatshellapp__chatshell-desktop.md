@@ -1,6 +1,6 @@
 # chatshellapp/chatshell-desktop
 
-⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/chatshellapp/chatshell-desktop) · [官网](https://chatshell.app) · 组织维护 · 中文 README
+⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/chatshellapp/chatshell-desktop) · [官网](https://chatshell.app) · 组织维护 · 中文 README
 
 **桌面 AI agent：内置 9 种工具，开箱即用的自主任务执行客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chatshellapp/chatshell-desktop 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-31", "2026-11-12", "2026-11-19"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-31 25 → 2026-11-18 26（+1）
+2026-10-31 25 → 2026-11-19 26（+1）
 
 
 ---

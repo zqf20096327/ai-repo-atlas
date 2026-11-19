@@ -1,6 +1,6 @@
 # nugget/thane-ai-agent
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/nugget/thane-ai-agent) · 个人维护
+⭐ 13 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/nugget/thane-ai-agent) · 个人维护
 
 **Home Assistant 的自主 AI 代理：感知家居数据并自主执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nugget/thane-ai-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-18 13（+1）
+2026-10-18 12 → 2026-11-19 13（+1）
 
 
 ---

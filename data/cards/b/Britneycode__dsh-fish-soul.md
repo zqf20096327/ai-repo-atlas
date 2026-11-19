@@ -1,6 +1,6 @@
 # Britneycode/dsh-fish-soul
 
-⭐ 33 · JavaScript · 推送 2026-11-17 · [GitHub](https://github.com/Britneycode/dsh-fish-soul) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · 推送 2026-11-18 · [GitHub](https://github.com/Britneycode/dsh-fish-soul) · 个人维护 · 中文 README
 
 **DSH 插件：给 QQ 小号装上单角色人格与按人记忆**
 
@@ -45,13 +45,13 @@ DSH 宿主的单角色人格插件（角色 feiyu）：让一个 QQ 小号以固
 
 ```mermaid
 xychart-beta
-    title "Britneycode/dsh-fish-soul 星数(近 9 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
+    title "Britneycode/dsh-fish-soul 星数(近 10 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 0 --> 36
-    line [3, 21, 24, 26, 27, 28, 30, 32, 33]
+    line [3, 21, 24, 26, 27, 28, 30, 32, 33, 33]
 ```
 
-2026-11-02 3 → 2026-11-18 33（+30）
+2026-11-02 3 → 2026-11-19 33（+30）
 
 
 ---

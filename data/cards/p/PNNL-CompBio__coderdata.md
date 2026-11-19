@@ -1,6 +1,6 @@
 # PNNL-CompBio/coderdata
 
-⭐ 22 · Jupyter Notebook · BSD-2-Clause · 推送 2026-11-17 · [GitHub](https://github.com/PNNL-CompBio/coderdata) · [官网](https://pnnl-compbio.github.io/coderdata/) · 组织维护
+⭐ 22 · Jupyter Notebook · BSD-2-Clause · 推送 2026-11-18 · [GitHub](https://github.com/PNNL-CompBio/coderdata) · [官网](https://pnnl-compbio.github.io/coderdata/) · 组织维护
 
 **癌症模型药敏基准数据集包：供机器学习训练测试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PNNL-CompBio/coderdata 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-18 22（+1）
+2026-10-18 21 → 2026-11-19 22（+1）
 
 
 ---

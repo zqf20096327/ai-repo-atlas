@@ -1,6 +1,6 @@
 # MaxonT/awesome-agent-workflows
 
-⭐ 39 · HTML · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/MaxonT/awesome-agent-workflows) · 个人维护 · 中文 README
+⭐ 40 · HTML · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/MaxonT/awesome-agent-workflows) · 个人维护 · 中文 README
 
 **按星标排名的 AI agent 框架与工作流项目清单（中英双语）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MaxonT/awesome-agent-workflows 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 0 --> 42
-    line [3, 22, 30, 31, 34, 37, 39, 39]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 0 --> 43
+    line [3, 22, 30, 31, 34, 37, 39, 40]
 ```
 
-2026-10-18 3 → 2026-11-18 39（+36）
+2026-10-18 3 → 2026-11-19 40（+37）
 
 
 ---

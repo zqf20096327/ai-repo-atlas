@@ -1,6 +1,6 @@
 # ysunyang4/webagent
 
-⭐ 145 · JavaScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/ysunyang4/webagent) · [官网](https://blog.ycu.de5.net/) · 个人维护 · 中文 README
+⭐ 158 · JavaScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ysunyang4/webagent) · [官网](https://github.com/ysunyang4/webagent/blob/main/USAGE.md) · 个人维护 · 中文 README
 
 **让网页版大模型通过 MCP 调用本地工具的浏览器扩展**
 
@@ -40,6 +40,18 @@
 > L5: WebAgent 是一个专为网页端大模型（DeepSeek、Gemini、智谱 BigModel/清言/Z.ai、Google AI Studio、ChatGPT、Kimi、通义千问、豆包、Duck.ai、Dola 等）打造的浏览器
 > L58: - **本地 MCP 桥接**：支持标准 MCP 工具调用（文件读写、命令行运行、网页快照等）。
 > L67: 默认服务基址为 `http://127.0.0.1:8787`，请求使用 `/mcp`；也支持配置允许的本机 18080 / 21888 端口。先运行 Nexus 并注册项目，在弹窗填写实际项目 ID，再检测连接。网页端账号由用户
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ysunyang4/webagent 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 144 --> 159
+    line [145, 158]
+```
+
+2026-11-18 145 → 2026-11-19 158（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # certeu/vigilo
 
-⭐ 54 · Python · EUPL-1.2 · 推送 2026-11-16 · [GitHub](https://github.com/certeu/vigilo) · 组织维护
+⭐ 56 · Python · EUPL-1.2 · 推送 2026-11-18 · [GitHub](https://github.com/certeu/vigilo) · 组织维护
 
 **安全团队对自有 Web 应用跑可复现的 AI 渗透测试流水线**
 
@@ -44,13 +44,13 @@ CERT-EU 开发的 AI 驱动渗透测试流水线：专用 agent 分别负责侦�
 
 ```mermaid
 xychart-beta
-    title "certeu/vigilo 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 7 --> 58
-    line [11, 17, 28, 44, 54]
+    title "certeu/vigilo 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 7 --> 60
+    line [11, 17, 28, 44, 54, 56]
 ```
 
-2026-11-13 11 → 2026-11-18 54（+43）
+2026-11-13 11 → 2026-11-19 56（+45）
 
 
 ---

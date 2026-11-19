@@ -1,6 +1,6 @@
 # StreamIntelligenceLab/Kolibrie
 
-⭐ 64 · Rust · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/StreamIntelligenceLab/Kolibrie) · [官网](https://streamintelligencelab.github.io/Kolibrie-website/) · 组织维护
+⭐ 65 · Rust · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/StreamIntelligenceLab/Kolibrie) · [官网](https://streamintelligencelab.github.io/Kolibrie-website/) · 组织维护
 
 **Rust 实现的 SPARQL/RDF 数据库与流推理引擎，供知识图谱应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "StreamIntelligenceLab/Kolibrie 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 61 --> 65
-    line [62, 63, 64]
+    title "StreamIntelligenceLab/Kolibrie 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 61 --> 66
+    line [62, 63, 64, 65]
 ```
 
-2026-10-18 62 → 2026-11-18 64（+2）
+2026-10-18 62 → 2026-11-19 65（+3）
 
 
 ---

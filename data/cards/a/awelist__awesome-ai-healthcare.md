@@ -40,6 +40,18 @@
 > L11: > A curated list of tools, frameworks, applications, datasets, and resources for **AI in Healthcare**. This list co
 > L71: - **MIMIC-III** - A publicly available dataset of anonymized health records.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "awelist/awesome-ai-healthcare 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-18 11 → 2026-11-19 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `4eac03124783` · [字段定义](../../DATASET.md)*

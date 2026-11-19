@@ -1,6 +1,6 @@
 # cboxdk/statamic-mcp
 
-⭐ 40 · PHP · MIT · 推送 2026-11-10 · [GitHub](https://github.com/cboxdk/statamic-mcp) · [官网](https://cbox.dk/packages/statamic-mcp) · 个人维护
+⭐ 40 · PHP · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cboxdk/statamic-mcp) · [官网](https://cbox.dk/packages/statamic-mcp) · 个人维护
 
 **给 AI 助手接入 Statamic CMS 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cboxdk/statamic-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-19"]
     y-axis "stars" 36 --> 41
     line [37, 38, 40, 40]
 ```
 
-2026-10-18 37 → 2026-11-18 40（+3）
+2026-10-18 37 → 2026-11-19 40（+3）
 
 
 ---

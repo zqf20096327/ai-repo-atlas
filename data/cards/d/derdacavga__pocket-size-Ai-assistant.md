@@ -1,6 +1,6 @@
 # derdacavga/pocket-size-Ai-assistant
 
-⭐ 11 · C++ · GPL-3.0 · 推送 2025-11-22 · [GitHub](https://github.com/derdacavga/pocket-size-Ai-assistant) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **ESP32-C3 硬件 DIY AI 语音助手，云端模型实时应答**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

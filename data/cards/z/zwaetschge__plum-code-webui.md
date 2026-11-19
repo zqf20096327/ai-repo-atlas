@@ -1,6 +1,6 @@
 # zwaetschge/plum-code-webui
 
-⭐ 28 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zwaetschge/plum-code-webui) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zwaetschge/plum-code-webui) · 个人维护
 
 **自托管的多 CLI 编码 agent Web 控制台（含原生 Android 客户端）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zwaetschge/plum-code-webui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 27, 28, 29]
 ```
 
-2026-10-18 27 → 2026-11-18 28（+1）
+2026-10-18 27 → 2026-11-19 29（+2）
 
 
 ---

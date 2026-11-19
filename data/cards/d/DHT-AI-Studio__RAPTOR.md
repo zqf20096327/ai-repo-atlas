@@ -1,6 +1,6 @@
 # DHT-AI-Studio/RAPTOR
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/DHT-AI-Studio/RAPTOR) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/DHT-AI-Studio/RAPTOR) · 组织维护
 
 **构建多模态智能体应用的企业级开源 AI 运行时框架**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "DHT-AI-Studio/RAPTOR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-11-18 22（+0）
+2026-10-18 22 → 2026-11-19 23（+1）
 
 
 ---

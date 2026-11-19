@@ -1,6 +1,6 @@
 # sergeyb-code2096g0/Cursor-Quota-Unlimited-2026
 
-⭐ 120 · Python · 推送 2026-08-31 · [GitHub](https://github.com/sergeyb-code2096g0/Cursor-Quota-Unlimited-2026) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Cursor 用户的 Windows 会话管理与提示优化桌面工具**
 

@@ -1,6 +1,6 @@
 # cloudsecnetwork/phishintel
 
-⭐ 20 · JavaScript · GPL-3.0 · 推送 2026-03-15 · [GitHub](https://github.com/cloudsecnetwork/phishintel) · [官网](https://phishintel.com/) · 组织维护
+⭐ 21 · JavaScript · GPL-3.0 · 推送 2026-03-15 · [GitHub](https://github.com/cloudsecnetwork/phishintel) · [官网](https://phishintel.com/) · 组织维护
 
 **面向企业的 AI 钓鱼模拟工具：安全意识培训**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cloudsecnetwork/phishintel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-11-18 20（+0）
+2026-10-18 20 → 2026-11-19 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Antoine-Thomas/UH-Universal-Harness
 
-⭐ 21 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Antoine-Thomas/UH-Universal-Harness) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Antoine-Thomas/UH-Universal-Harness) · 个人维护
 
 **给桌面用户的本地优先 provider 无关 agent 运行框架**
 
@@ -45,13 +45,13 @@ Python 编写的 provider 无关 agent harness：提供同步 run_turn 工具循
 
 ```mermaid
 xychart-beta
-    title "Antoine-Thomas/UH-Universal-Harness 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    title "Antoine-Thomas/UH-Universal-Harness 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 12 --> 22
-    line [13, 16, 18, 21]
+    line [13, 16, 18, 21, 21]
 ```
 
-2026-11-14 13 → 2026-11-18 21（+8）
+2026-11-14 13 → 2026-11-19 21（+8）
 
 
 ---

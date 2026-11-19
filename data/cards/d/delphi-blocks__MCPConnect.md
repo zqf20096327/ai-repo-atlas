@@ -1,6 +1,6 @@
 # delphi-blocks/MCPConnect
 
-⭐ 47 · Pascal · MIT · 推送 2026-11-14 · [GitHub](https://github.com/delphi-blocks/MCPConnect) · [官网](https://mcpconnect.delphiblocks.dev/) · 组织维护
+⭐ 48 · Pascal · MIT · 推送 2026-11-18 · [GitHub](https://github.com/delphi-blocks/MCPConnect) · [官网](https://mcpconnect.delphiblocks.dev/) · 组织维护
 
 **Delphi 的 MCP 服务器构建框架：属性驱动生成 Tools/Resources/Prompts**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "delphi-blocks/MCPConnect 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 42 --> 48
-    line [43, 44, 45, 43, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 42 --> 49
+    line [43, 44, 45, 43, 46, 47, 48]
 ```
 
-2026-10-18 43 → 2026-11-18 47（+4）
+2026-10-18 43 → 2026-11-19 48（+5）
 
 
 ---

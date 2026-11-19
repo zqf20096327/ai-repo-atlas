@@ -1,6 +1,6 @@
 # iqbalmh18/abigail
 
-⭐ 16 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/iqbalmh18/abigail) · [官网](https://pypi.org/project/abigail) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/iqbalmh18/abigail) · [官网](https://pypi.org/project/abigail) · 个人维护
 
 **免 API key 调用免费 Web AI 服务的 CLI 与 Python 库**
 
@@ -46,12 +46,12 @@ Abigail 是命令行工具与异步 Python 库，通过第三方公共 Web AI �
 ```mermaid
 xychart-beta
     title "iqbalmh18/abigail 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-18 16 → 2026-11-18 16（+0）
+2026-10-18 16 → 2026-11-19 15（-1）
 
 
 ---

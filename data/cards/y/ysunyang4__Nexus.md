@@ -1,6 +1,6 @@
 # ysunyang4/Nexus
 
-⭐ 374 · TypeScript · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/ysunyang4/Nexus) · [官网](https://blog.ycu.de5.net/) · 个人维护 · 中文 README
+⭐ 406 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ysunyang4/Nexus) · [官网](https://github.com/ysunyang4/Nexus) · 个人维护 · 中文 README
 
 **本地 AI 控制中枢：让网页版 AI 经 MCP 隧道操作本地工作站**
 
@@ -40,6 +40,18 @@
 > L20: **Nexus** is an enterprise-grade Local AI Control Plane designed specifically for ChatGPT, DeepSeek, and modern AI 
 > L33: #### 1. 332 Canonical MCP Tools
 > L109: **Standard MCP Client Configuration (`mcp_config.json` / Client Settings)**:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ysunyang4/Nexus 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 371 --> 409
+    line [374, 406]
+```
+
+2026-11-18 374 → 2026-11-19 406（+32）
 
 
 ---

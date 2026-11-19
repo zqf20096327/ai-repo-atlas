@@ -1,10 +1,10 @@
 # kazim768/manus--ai
 
-⭐ 202 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/kazim768/manus--ai) · 个人维护
+⭐ 202 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/kazim768/manus--ai) · 个人维护
 
-**自主执行代码与控制浏览器的通用 AI Agent 系统**
+**面向个人用户的自主 AI Agent：代跑代码与浏览器任务**
 
-README 描述的 Manus 是面向家庭、学习与轻量办公场景的自主 AI Agent：代表用户编写并执行脚本、控制浏览器（导航网页、填表、采集信息），并可跨会话复用任务模式执行多步骤自动化。仓库描述称其支持在沙箱环境中运行多种工具与操作。README 仅给出功能宣传与硬件兼容表（双核 CPU / 4GB RAM 起步），未提供代码结构、模型接入方式或安装运行命令，工程实现细节无法从可见文本验证。
+一款面向个人的自主 AI Agent 产品：可自行编写并执行脚本、控制浏览器导航网页/填表/采集信息，把多步骤指令转为完成的动作，并在会话间保持任务模式记忆。定位为家用、学习与轻量办公的助手，非企业级平台；README 未提供源码安装或命令行使用方式，仅给出下载入口，兼容性表要求 64 位系统、4GB 起内存及浏览器控制权限。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@ README 描述的 Manus 是面向家庭、学习与轻量办公场景的自主 AI
 
 ## 能力要点
 
-- 自主编写并执行代码完成任务
-- 浏览器控制：导航、填表、信息采集
-- 跨会话记住任务模式并复用
-- 面向多步骤任务的低监督执行
+- 自主执行代码完成任务（code automation）
+- 浏览器控制：导航网页、填写表单、采集信息
+- 多步骤自主任务与跨会话的模式记忆
+- 面向家庭/学习/轻办公场景的小规模定位
 
 ## 适用场景
 
-- 让学生整理研究笔记、运行小型计算
-- 自动检查网页更新或填写重复表单
-- 跨多个页面收集数据并准备摘要
-- 远程排障时重排诊断步骤与检查系统页面
+- 让 Agent 自动整理研究笔记并运行小脚本
+- 自动从多个网页采集数据填表
+- 把日常重复小任务交给后台 Agent 处理
 
 ## 场景标签
 
-`浏览器自动化` `编码 Agent` `AI 助手` · 领域:效率与自动化
+`浏览器自动化` `编码 Agent` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
+> L39: |**Operating System**|Modern 64-bit system|Current OS with updated runtime|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "kazim768/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 134 --> 286
     line [146, 274, 202, 202]
 ```
 
-2026-11-13 146 → 2026-11-18 202（+56）
+2026-11-13 146 → 2026-11-19 202（+56）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 low · 依据 README sha `c06e59c45084` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `2ff41025d9ff` · [字段定义](../../DATASET.md)*

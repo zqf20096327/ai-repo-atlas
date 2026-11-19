@@ -1,6 +1,6 @@
 # MuLiuSaMa/MeowCode
 
-⭐ 32 · TypeScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/MuLiuSaMa/MeowCode) · [官网](https://meowcode.cn) · 个人维护 · 中文 README
+⭐ 34 · TypeScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/MuLiuSaMa/MeowCode) · [官网](https://meowcode.cn) · 个人维护 · 中文 README
 
 **架构可自由修改的本地编程 Agent 桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MuLiuSaMa/MeowCode 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 13 --> 33
-    line [14, 21, 25, 26, 29, 30, 32]
+    title "MuLiuSaMa/MeowCode 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 12 --> 36
+    line [14, 21, 25, 26, 29, 30, 32, 34]
 ```
 
-2026-11-08 14 → 2026-11-18 32（+18）
+2026-11-08 14 → 2026-11-19 34（+20）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aapatel09/handson-unsupervised-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    title "aapatel09/handson-unsupervised-learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-19"]
     y-axis "stars" 703 --> 708
-    line [706, 707, 704]
+    line [706, 707, 704, 704]
 ```
 
-2026-10-18 706 → 2026-11-18 704（-2）
+2026-10-18 706 → 2026-11-19 704（-2）
 
 
 ---

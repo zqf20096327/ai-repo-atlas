@@ -1,6 +1,6 @@
 # songguomix/ConeCode
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/songguomix/ConeCode) · [官网](https://github.com/songguomix/ConeCode/releases/latest) · 个人维护 · 中文 README
+⭐ 33 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/songguomix/ConeCode) · [官网](https://github.com/songguomix/ConeCode/releases/latest) · 个人维护 · 中文 README
 
 **面向 AI 编码代理的桌面工作台，含受限证据驱动的自我改进（RSI）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "songguomix/ConeCode 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    title "songguomix/ConeCode 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 9 --> 35
-    line [11, 13, 14, 17, 18, 19, 14, 24, 25, 27, 32, 33]
+    line [11, 13, 14, 17, 18, 19, 14, 24, 25, 27, 32, 33, 33]
 ```
 
-2026-10-18 11 → 2026-11-18 33（+22）
+2026-10-18 11 → 2026-11-19 33（+22）
 
 
 ---

@@ -1,6 +1,6 @@
 # L-Trunks/ai-film-skills
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/L-Trunks/ai-film-skills) · 个人维护 · 中文 README
+⭐ 32 · Python · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/L-Trunks/ai-film-skills) · 个人维护 · 中文 README
 
 **本地 AI 短片创作方法论技能套件：决策知识+踩坑档案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "L-Trunks/ai-film-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 24 --> 32
-    line [25, 26, 28, 29, 26, 30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 24 --> 33
+    line [25, 26, 28, 29, 26, 30, 31, 32]
 ```
 
-2026-10-18 25 → 2026-11-18 31（+6）
+2026-10-18 25 → 2026-11-19 32（+7）
 
 
 ---

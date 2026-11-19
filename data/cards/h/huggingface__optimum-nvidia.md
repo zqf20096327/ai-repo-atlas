@@ -1,6 +1,6 @@
 # huggingface/optimum-nvidia
 
-⭐ 1,038 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/optimum-nvidia) · 组织维护
+⭐ 1,039 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/optimum-nvidia) · 组织维护
 
 **面向 NVIDIA GPU 的 Hugging Face transformers 推理加速库**
 
@@ -46,12 +46,12 @@ Hugging Face 维护的推理加速库：通过替换 transformers 代码中的�
 ```mermaid
 xychart-beta
     title "huggingface/optimum-nvidia 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-10", "2026-11-19"]
     y-axis "stars" 1037 --> 1040
-    line [1039, 1038, 1039, 1038, 1038]
+    line [1039, 1038, 1039, 1038, 1039]
 ```
 
-2026-10-18 1,039 → 2026-11-18 1,038（-1）
+2026-10-18 1,039 → 2026-11-19 1,039（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # andrisasuke/gemini-sql
 
-⭐ 17 · TypeScript · MIT · 推送 2026-01-28 · [GitHub](https://github.com/andrisasuke/gemini-sql) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-01-28 · [GitHub](https://github.com/andrisasuke/gemini-sql) · 个人维护
 
 **带 AI 查询生成功能的跨平台 SQL 编辑器（Tauri + React + Rust）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "andrisasuke/gemini-sql 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-18 17（+0）
+2026-10-18 17 → 2026-11-19 18（+1）
 
 
 ---

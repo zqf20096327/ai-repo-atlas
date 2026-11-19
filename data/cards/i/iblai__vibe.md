@@ -1,6 +1,6 @@
 # iblai/vibe
 
-⭐ 234 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/iblai/vibe) · [官网](https://ibl.ai/join) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 ibl.ai 平台的 AI 应用脚手架与 agent 技能工具集**
 
@@ -11,7 +11,7 @@ ibl.ai 团队维护的开发者工具集：通过 Claude Code/Cursor/Copilot 等
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # isdk/web-fetcher.js
 
-⭐ 23 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/isdk/web-fetcher.js) · 组织维护 · 中文 README
+⭐ 24 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/isdk/web-fetcher.js) · 组织维护 · 中文 README
 
 **供 AI agent 用的声明式网页自动化库，双引擎抓取与反检测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "isdk/web-fetcher.js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-18 23（+0）
+2026-10-18 23 → 2026-11-19 24（+1）
 
 
 ---

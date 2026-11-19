@@ -1,6 +1,6 @@
 # andykear/FileMaker-XMLsnippet-Layout-Claude-Skill
 
-⭐ 15 · CC-BY-4.0 · 推送 2026-10-03 · [GitHub](https://github.com/andykear/FileMaker-XMLsnippet-Layout-Claude-Skill) · [官网](https://clockworkct.co.uk) · 个人维护
+⭐ 15 · CC-BY-4.0 · 推送 2026-11-18 · [GitHub](https://github.com/andykear/FileMaker-XMLsnippet-Layout-Claude-Skill) · [官网](https://clockworkct.co.uk) · 个人维护
 
 **为 Claude 提供 FileMaker 布局 XML 格式逆向规范的技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "andykear/FileMaker-XMLsnippet-Layout-Claude-Skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-18 15（+0）
+2026-10-18 15 → 2026-11-19 15（+0）
 
 
 ---

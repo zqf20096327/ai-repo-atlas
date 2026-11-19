@@ -1,6 +1,6 @@
 # saghosh8/AI-For-DevOps
 
-⭐ 40 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/saghosh8/AI-For-DevOps) · 个人维护
+⭐ 41 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/saghosh8/AI-For-DevOps) · 个人维护
 
 **面向 DevOps 工程师的 21 天 AI/GenAI 实战课程（付费电子书导流）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "saghosh8/AI-For-DevOps 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 35 --> 41
-    line [36, 37, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 35 --> 42
+    line [36, 37, 39, 40, 41]
 ```
 
-2026-10-18 36 → 2026-11-18 40（+4）
+2026-10-18 36 → 2026-11-19 41（+5）
 
 
 ---

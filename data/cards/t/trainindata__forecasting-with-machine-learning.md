@@ -43,13 +43,13 @@ Train in Data 在线课程 Forecasting with Machine Learning 的配套代码仓�
 
 ```mermaid
 xychart-beta
-    title "trainindata/forecasting-with-machine-learning 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-18"]
+    title "trainindata/forecasting-with-machine-learning 星数(近 3 点)"
+    x-axis ["2026-11-11", "2026-11-18", "2026-11-19"]
     y-axis "stars" 30 --> 33
-    line [31, 32]
+    line [31, 32, 32]
 ```
 
-2026-11-11 31 → 2026-11-18 32（+1）
+2026-11-11 31 → 2026-11-19 32（+1）
 
 
 ---

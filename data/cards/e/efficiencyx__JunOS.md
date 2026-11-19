@@ -1,6 +1,6 @@
 # efficiencyx/JunOS
 
-⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/efficiencyx/JunOS) · [官网](https://junos.andrealab.it) · 个人维护
+⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/efficiencyx/JunOS) · [官网](https://junos.andrealab.it) · 个人维护
 
 **自托管 AI 伴侣：与游戏角色 Jun 对话、语音与养成互动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "efficiencyx/JunOS 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 10 --> 17
-    line [11, 13, 14, 15, 16]
+    title "efficiencyx/JunOS 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 19
+    line [11, 13, 14, 15, 16, 18]
 ```
 
-2026-11-08 11 → 2026-11-18 16（+5）
+2026-11-08 11 → 2026-11-19 18（+7）
 
 
 ---

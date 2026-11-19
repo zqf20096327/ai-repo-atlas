@@ -1,6 +1,6 @@
 # cmer81/open-meteo-mcp
 
-⭐ 73 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/cmer81/open-meteo-mcp) · [官网](https://www.npmjs.com/package/open-meteo-mcp-server) · 个人维护
+⭐ 74 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/cmer81/open-meteo-mcp) · [官网](https://www.npmjs.com/package/open-meteo-mcp-server) · 个人维护
 
 **为 LLM 提供天气数据的 MCP 服务器（17 个工具）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cmer81/open-meteo-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 70 --> 74
-    line [71, 72, 73, 72, 73, 73]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 70 --> 75
+    line [71, 72, 73, 72, 73, 74]
 ```
 
-2026-10-18 71 → 2026-11-18 73（+2）
+2026-10-18 71 → 2026-11-19 74（+3）
 
 
 ---

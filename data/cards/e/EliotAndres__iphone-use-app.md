@@ -1,6 +1,6 @@
 # EliotAndres/iphone-use-app
 
-⭐ 45 · C · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/EliotAndres/iphone-use-app) · 个人维护
+⭐ 47 · C · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/EliotAndres/iphone-use-app) · 个人维护
 
 **在 iPhone 本机运行的 LLM 手机操控 Agent 应用**
 
@@ -44,13 +44,13 @@ iOS 应用，让视觉语言模型操控其所在的 iPhone：通过开发者镜
 
 ```mermaid
 xychart-beta
-    title "EliotAndres/iphone-use-app 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 38 --> 47
-    line [39, 41, 43, 44, 46, 45]
+    title "EliotAndres/iphone-use-app 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 38 --> 48
+    line [39, 41, 43, 44, 46, 45, 47]
 ```
 
-2026-11-10 39 → 2026-11-18 45（+6）
+2026-11-10 39 → 2026-11-19 47（+8）
 
 
 ---

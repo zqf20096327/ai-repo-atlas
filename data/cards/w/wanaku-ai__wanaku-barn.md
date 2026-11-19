@@ -1,6 +1,6 @@
 # wanaku-ai/wanaku-barn
 
-⭐ 46 · Java · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/wanaku-ai/wanaku-barn) · [官网](https://wanaku.ai) · 组织维护
+⭐ 46 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/wanaku-ai/wanaku-barn) · [官网](https://wanaku.ai) · 组织维护
 
 **Wanaku 治理执行代理的企业工具集：CLI、K8s Operator、管理后端**
 
@@ -45,12 +45,12 @@ Wanaku Barn 是面向 Wanaku（AI agent 的治理动作代理）的企业工具�
 ```mermaid
 xychart-beta
     title "wanaku-ai/wanaku-barn 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 18 --> 48
     line [20, 27, 46, 46]
 ```
 
-2026-11-13 20 → 2026-11-18 46（+26）
+2026-11-13 20 → 2026-11-19 46（+26）
 
 
 ---

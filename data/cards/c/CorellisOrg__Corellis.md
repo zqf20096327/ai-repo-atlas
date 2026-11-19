@@ -1,6 +1,6 @@
 # CorellisOrg/Corellis
 
-⭐ 31 · Shell · MIT · 推送 2026-04-13 · [GitHub](https://github.com/CorellisOrg/Corellis) · [官网](https://corellis.ai) · 组织维护
+⭐ 30 · Shell · MIT · 推送 2026-04-13 · [GitHub](https://github.com/CorellisOrg/Corellis) · [官网](https://corellis.ai) · 组织维护
 
 **把单个 OpenClaw 助手编排成自管理多智能体团队的开源系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CorellisOrg/Corellis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 29 --> 32
+    line [31, 30]
 ```
 
-2026-10-18 31 → 2026-11-18 31（+0）
+2026-10-18 31 → 2026-11-19 30（-1）
 
 
 ---

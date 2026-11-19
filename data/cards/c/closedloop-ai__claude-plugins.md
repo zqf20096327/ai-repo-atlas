@@ -1,6 +1,6 @@
 # closedloop-ai/claude-plugins
 
-⭐ 124 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/closedloop-ai/claude-plugins) · 组织维护
+⭐ 124 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/closedloop-ai/claude-plugins) · 组织维护
 
 **面向开发团队的开源 Claude Code 多智能体 SDLC 插件集**
 
@@ -45,12 +45,12 @@ ClosedLoop.AI 公司开源的 Claude Code 插件集合，覆盖项目引导、�
 ```mermaid
 xychart-beta
     title "closedloop-ai/claude-plugins 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-19"]
     y-axis "stars" 121 --> 125
     line [122, 123, 124, 124]
 ```
 
-2026-10-18 122 → 2026-11-18 124（+2）
+2026-10-18 122 → 2026-11-19 124（+2）
 
 
 ---

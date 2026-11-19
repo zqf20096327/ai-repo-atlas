@@ -1,6 +1,6 @@
 # pensarai/argus-validation-benchmarks
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pensarai/argus-validation-benchmarks) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pensarai/argus-validation-benchmarks) · 组织维护
 
 **面向 AI 渗透测试 agent 的评测基准集（71 渗透 + 10 威胁建模）**
 
@@ -45,12 +45,12 @@ Pensar 开源的攻防安全评测基准套件：71 个自包含 Docker 化渗�
 ```mermaid
 xychart-beta
     title "pensarai/argus-validation-benchmarks 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 65 --> 69
-    line [66, 67, 66, 67, 68, 68]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 65 --> 70
+    line [66, 67, 66, 67, 68, 69]
 ```
 
-2026-10-18 66 → 2026-11-18 68（+2）
+2026-10-18 66 → 2026-11-19 69（+3）
 
 
 ---

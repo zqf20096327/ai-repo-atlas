@@ -1,6 +1,6 @@
 # yegor256/jinka
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/yegor256/jinka) · [官网](https://www.npmjs.com/package/@yegor256/jinka) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yegor256/jinka) · [官网](https://www.npmjs.com/package/@yegor256/jinka) · 个人维护
 
 **命令行 agent 编排器：以愿望文件驱动 Claude Code 执行**
 
@@ -43,12 +43,12 @@ jinka 是一个 npm 全局安装的命令行工具，用于编排 agent 完成�
 ```mermaid
 xychart-beta
     title "yegor256/jinka 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 8 --> 19
-    line [9, 13, 14, 17, 18, 18]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 8 --> 20
+    line [9, 13, 14, 17, 18, 19]
 ```
 
-2026-11-08 9 → 2026-11-18 18（+9）
+2026-11-08 9 → 2026-11-19 19（+10）
 
 
 ---

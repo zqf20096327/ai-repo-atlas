@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mbelsis/Claude-Fleet 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    title "mbelsis/Claude-Fleet 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 47 --> 50
-    line [48, 49]
+    line [48, 49, 49]
 ```
 
-2026-11-16 48 → 2026-11-18 49（+1）
+2026-11-16 48 → 2026-11-19 49（+1）
 
 
 ---

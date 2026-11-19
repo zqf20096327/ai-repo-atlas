@@ -1,6 +1,6 @@
 # AIStarterKit/ai-saas-starter-kit-nextjs
 
-⭐ 46 · TypeScript · MIT · 推送 2026-04-02 · [GitHub](https://github.com/AIStarterKit/ai-saas-starter-kit-nextjs) · [官网](https://nextjstemplates.com/templates/ai-starter-kit) · 组织维护
+⭐ 46 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/AIStarterKit/ai-saas-starter-kit-nextjs) · [官网](https://nextjstemplates.com/templates/ai-starter-kit) · 组织维护
 
 **构建 AI SaaS 的 Next.js 全栈启动模板（免费开源版）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIStarterKit/ai-saas-starter-kit-nextjs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 43 --> 47
     line [44, 45, 44, 46, 46]
 ```
 
-2026-10-18 44 → 2026-11-18 46（+2）
+2026-10-18 44 → 2026-11-19 46（+2）
 
 
 ---

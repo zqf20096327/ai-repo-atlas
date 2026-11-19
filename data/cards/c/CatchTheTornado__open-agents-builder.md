@@ -1,6 +1,6 @@
 # CatchTheTornado/open-agents-builder
 
-⭐ 181 · TypeScript · MIT · 推送 2025-12-08 · [GitHub](https://github.com/CatchTheTornado/open-agents-builder) · [官网](https://openagentsbuilder.com/) · 组织维护
+⭐ 180 · TypeScript · MIT · 推送 2025-12-08 · [GitHub](https://github.com/CatchTheTornado/open-agents-builder) · [官网](https://openagentsbuilder.com/) · 组织维护
 
 **面向企业的多 Agent 可视化开发平台与后端**
 
@@ -47,12 +47,12 @@ Open Agents Builder 是一个用于构建业务 AI Agent 的开发平台：可�
 ```mermaid
 xychart-beta
     title "CatchTheTornado/open-agents-builder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
     y-axis "stars" 179 --> 182
-    line [180, 181, 181]
+    line [180, 181, 180]
 ```
 
-2026-10-18 180 → 2026-11-18 181（+1）
+2026-10-18 180 → 2026-11-19 180（+0）
 
 
 ---

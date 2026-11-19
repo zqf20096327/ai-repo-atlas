@@ -1,6 +1,6 @@
 # brycewang-stanford/lit-review-agent-tools
 
-⭐ 53 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/brycewang-stanford/lit-review-agent-tools) · [官网](https://brycewang-stanford.github.io/lit-review-agent-tools/) · 个人维护 · 中文 README
+⭐ 54 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/brycewang-stanford/lit-review-agent-tools) · [官网](https://brycewang-stanford.github.io/lit-review-agent-tools/) · 个人维护 · 中文 README
 
 **面向文献综述的开源 AI agent 工具策展清单（70+ 工具、11 类）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "brycewang-stanford/lit-review-agent-tools 星数(近 15 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 34 --> 54
-    line [35, 36, 37, 39, 40, 41, 42, 39, 46, 48, 50, 51, 52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 34 --> 55
+    line [35, 36, 37, 39, 40, 41, 42, 39, 46, 48, 50, 51, 52, 53, 54]
 ```
 
-2026-10-18 35 → 2026-11-18 53（+18）
+2026-10-18 35 → 2026-11-19 54（+19）
 
 
 ---

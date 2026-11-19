@@ -44,13 +44,13 @@ yetone/magpie 的原生 Apple 客户端：用 SwiftUI 实现，无 WebView 壳�
 
 ```mermaid
 xychart-beta
-    title "zxfccmm4/magpie-remote 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    title "zxfccmm4/magpie-remote 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 1 --> 56
-    line [5, 52]
+    line [5, 52, 52]
 ```
 
-2026-11-16 5 → 2026-11-18 52（+47）
+2026-11-16 5 → 2026-11-19 52（+47）
 
 
 ---

@@ -1,6 +1,6 @@
 # sybil-solutions/inference-optimisation-skill
 
-⭐ 886 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sybil-solutions/inference-optimisation-skill) · 组织维护
+⭐ 1,071 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sybil-solutions/inference-optimisation-skill) · 组织维护
 
 **供 Agent 使用的本地 LLM 推理提速调优技能包**
 
@@ -41,6 +41,18 @@
 > L3: An agent skill for **hill-climbing the speed of a local LLM server** on any hardware and any quantization. It covers
 > L22: It works with Claude Code and any agent that loads `SKILL.md`-style skills. Any model can also follow it from `PROM
 > L79: **`scripts/`: a small, engine-agnostic harness.** It is standard-library Python plus bash.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sybil-solutions/inference-optimisation-skill 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 868 --> 1089
+    line [886, 1071]
+```
+
+2026-11-18 886 → 2026-11-19 1,071（+185）
 
 
 ---

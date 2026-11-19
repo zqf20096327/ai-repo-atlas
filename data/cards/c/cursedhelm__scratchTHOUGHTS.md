@@ -40,12 +40,12 @@ README 仅包含 ASCII 艺术图与一行说明“2023 - SEPT 2025 BLOG ARCHIVE�
 ```mermaid
 xychart-beta
     title "cursedhelm/scratchTHOUGHTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-18 15（+0）
+2026-10-18 15 → 2026-11-19 15（+0）
 
 
 ---

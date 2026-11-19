@@ -1,6 +1,6 @@
 # jpoindexter/design-md-extractor
 
-⭐ 70 · TypeScript · MIT · 推送 2026-06-07 · [GitHub](https://github.com/jpoindexter/design-md-extractor) · 个人维护
+⭐ 71 · TypeScript · MIT · 推送 2026-06-07 · [GitHub](https://github.com/jpoindexter/design-md-extractor) · 个人维护
 
 **从网站提取设计系统并生成 DESIGN.md 与设计 tokens 的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jpoindexter/design-md-extractor 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 64 --> 71
-    line [65, 67, 68, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 64 --> 72
+    line [65, 67, 68, 69, 70, 71]
 ```
 
-2026-10-18 65 → 2026-11-18 70（+5）
+2026-10-18 65 → 2026-11-19 71（+6）
 
 
 ---

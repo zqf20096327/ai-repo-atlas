@@ -1,6 +1,6 @@
 # nullpointexception-i/agent-sphere
 
-⭐ 78 · Java · MIT · 推送 2026-11-13 · [GitHub](https://github.com/nullpointexception-i/agent-sphere) · [官网](https://as.buukle.top) · 个人维护 · 中文 README
+⭐ 78 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/nullpointexception-i/agent-sphere) · [官网](https://as.buukle.top) · 个人维护 · 中文 README
 
 **面向开发者的 Java 版 AI Agent 编排平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nullpointexception-i/agent-sphere 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 74 --> 79
     line [75, 76, 77, 76, 78, 78]
 ```
 
-2026-10-18 75 → 2026-11-18 78（+3）
+2026-10-18 75 → 2026-11-19 78（+3）
 
 
 ---

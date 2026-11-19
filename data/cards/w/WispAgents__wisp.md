@@ -1,6 +1,6 @@
 # WispAgents/wisp
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/WispAgents/wisp) · [官网](https://trywisp.dev/) · 组织维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/WispAgents/wisp) · [官网](https://trywisp.dev/) · 组织维护
 
 **在后台并行运行编码 Agent，交付一屏报告而非完整转录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WispAgents/wisp 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19"]
     y-axis "stars" 8 --> 13
     line [9, 10, 11, 12, 12]
 ```
 
-2026-11-10 9 → 2026-11-18 12（+3）
+2026-11-10 9 → 2026-11-19 12（+3）
 
 
 ---

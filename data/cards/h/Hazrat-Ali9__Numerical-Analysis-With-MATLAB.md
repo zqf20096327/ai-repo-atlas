@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Numerical-Analysis-With-MATLAB
 
-⭐ 57 · MIT · 推送 2025-12-31 · [GitHub](https://github.com/Hazrat-Ali9/Numerical-Analysis-With-MATLAB) · [官网](https://github.com/Hazrat-Ali9/Numerical-Analysis-With-MATLAB) · 个人维护
+⭐ 59 · MIT · 推送 2025-12-31 · [GitHub](https://github.com/Hazrat-Ali9/Numerical-Analysis-With-MATLAB) · [官网](https://github.com/Hazrat-Ali9/Numerical-Analysis-With-MATLAB) · 个人维护
 
 **MATLAB 数值分析算法代码集：欧拉法、Simpson、龙格-库塔等**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/Numerical-Analysis-With-MATLAB 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 42 --> 58
-    line [43, 45, 46, 45, 51, 55, 57]
+    title "Hazrat-Ali9/Numerical-Analysis-With-MATLAB 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 42 --> 60
+    line [43, 45, 46, 45, 51, 55, 57, 59]
 ```
 
-2026-10-18 43 → 2026-11-18 57（+14）
+2026-10-18 43 → 2026-11-19 59（+16）
 
 
 ---

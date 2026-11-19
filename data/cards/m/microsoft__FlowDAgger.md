@@ -1,6 +1,6 @@
 # microsoft/FlowDAgger
 
-⭐ 92 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/FlowDAgger) · [官网](https://microsoft.github.io/FlowDAgger) · 组织维护
+⭐ 93 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/FlowDAgger) · [官网](https://microsoft.github.io/FlowDAgger) · 组织维护
 
 **机器人生成式策略的潜空间人机协同适应方法参考实现**
 
@@ -44,12 +44,12 @@ CoRL 2026 论文 FlowDAgger 的官方实现：针对流匹配与扩散类机器�
 ```mermaid
 xychart-beta
     title "microsoft/FlowDAgger 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 86 --> 93
-    line [87, 88, 89, 90, 91, 88, 90, 91, 92, 92]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 86 --> 94
+    line [87, 88, 89, 90, 91, 88, 90, 91, 92, 93]
 ```
 
-2026-10-18 87 → 2026-11-18 92（+5）
+2026-10-18 87 → 2026-11-19 93（+6）
 
 
 ---

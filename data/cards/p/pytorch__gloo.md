@@ -1,6 +1,6 @@
 # pytorch/gloo
 
-⭐ 1,467 · C++ · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/pytorch/gloo) · [官网](https://pytorch.org/docs/stable/distributed.html) · 组织维护
+⭐ 1,468 · C++ · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/pytorch/gloo) · [官网](https://pytorch.org/docs/stable/distributed.html) · 组织维护
 
 **面向多机训练的集合通信库：提供 barrier/broadcast/allreduce 等原语**
 
@@ -45,13 +45,13 @@ Gloo 是用于机器学习多机训练的集合通信库，提供 barrier、broa
 
 ```mermaid
 xychart-beta
-    title "pytorch/gloo 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 1458 --> 1468
-    line [1459, 1460, 1461, 1462, 1463, 1459, 1464, 1465, 1466, 1467]
+    title "pytorch/gloo 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 1458 --> 1469
+    line [1459, 1460, 1461, 1462, 1463, 1459, 1464, 1465, 1466, 1467, 1468]
 ```
 
-2026-10-18 1,459 → 2026-11-18 1,467（+8）
+2026-10-18 1,459 → 2026-11-19 1,468（+9）
 
 
 ---

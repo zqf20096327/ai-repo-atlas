@@ -1,6 +1,6 @@
 # Devinterview-io/computer-vision-interview-questions
 
-⭐ 131 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/computer-vision-interview-questions) · 组织维护
+⭐ 130 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/computer-vision-interview-questions) · 组织维护
 
 **面向求职者的 54 道计算机视觉面试问答集（2026）**
 
@@ -46,12 +46,12 @@ Devinterview.io 维护的计算机视觉面试题合集，收录 54 道基础问
 ```mermaid
 xychart-beta
     title "Devinterview-io/computer-vision-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
     y-axis "stars" 129 --> 132
-    line [130, 131, 131]
+    line [130, 131, 130]
 ```
 
-2026-10-18 130 → 2026-11-18 131（+1）
+2026-10-18 130 → 2026-11-19 130（+0）
 
 
 ---

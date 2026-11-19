@@ -1,6 +1,6 @@
 # rhysha/claude-security-research-skill
 
-⭐ 22 · Shell · MIT · 推送 2026-04-08 · [GitHub](https://github.com/rhysha/claude-security-research-skill) · 个人维护
+⭐ 23 · Shell · MIT · 推送 2026-04-08 · [GitHub](https://github.com/rhysha/claude-security-research-skill) · 个人维护
 
 **给 Claude Code 的安全研究技能：结构化渗透测试工作流编排**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rhysha/claude-security-research-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-11-18 22（+0）
+2026-10-18 22 → 2026-11-19 23（+1）
 
 
 ---

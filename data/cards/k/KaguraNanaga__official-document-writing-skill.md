@@ -1,6 +1,6 @@
 # KaguraNanaga/official-document-writing-skill
 
-⭐ 317 · MIT · 推送 2026-01-26 · [GitHub](https://github.com/KaguraNanaga/official-document-writing-skill) · 个人维护 · 中文 README
+⭐ 316 · MIT · 推送 2026-01-26 · [GitHub](https://github.com/KaguraNanaga/official-document-writing-skill) · 个人维护 · 中文 README
 
 **面向公文写作者的中文公文写作 AI Skill 工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KaguraNanaga/official-document-writing-skill 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18"]
+    title "KaguraNanaga/official-document-writing-skill 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 300 --> 318
-    line [301, 303, 308, 309, 308, 309, 308, 310, 312, 313, 315, 317]
+    line [301, 303, 308, 309, 308, 309, 308, 310, 312, 313, 315, 317, 316]
 ```
 
-2026-10-18 301 → 2026-11-18 317（+16）
+2026-10-18 301 → 2026-11-19 316（+15）
 
 
 ---

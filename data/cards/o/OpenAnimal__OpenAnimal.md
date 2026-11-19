@@ -1,6 +1,6 @@
 # OpenAnimal/OpenAnimal
 
-⭐ 13 · C++ · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/OpenAnimal/OpenAnimal) · 个人维护
+⭐ 15 · C++ · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/OpenAnimal/OpenAnimal) · 个人维护
 
 **虚幻引擎动物行为模拟框架，带神经网络感知与情感建模**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OpenAnimal/OpenAnimal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 15]
 ```
 
-2026-10-18 12 → 2026-11-18 13（+1）
+2026-10-18 12 → 2026-11-19 15（+3）
 
 
 ---

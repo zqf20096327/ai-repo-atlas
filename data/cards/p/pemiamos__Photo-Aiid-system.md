@@ -1,6 +1,6 @@
 # pemiamos/Photo-Aiid-system
 
-⭐ 15 · Python · 推送 2026-06-30 · [GitHub](https://github.com/pemiamos/Photo-Aiid-system) · 组织维护 · 中文 README
+⭐ 29 · Python · 推送 2026-06-30 · [GitHub](https://github.com/pemiamos/Photo-Aiid-system) · 组织维护 · 中文 README
 
 **桌面 AI 照片管理与多人网页征稿协作系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pemiamos/Photo-Aiid-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 14 --> 30
+    line [15, 29]
 ```
 
-2026-10-18 15 → 2026-11-18 15（+0）
+2026-10-18 15 → 2026-11-19 29（+14）
 
 
 ---

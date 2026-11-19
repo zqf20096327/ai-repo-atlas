@@ -1,6 +1,6 @@
 # ymcrcat/rgpu
 
-⭐ 79 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ymcrcat/rgpu) · [官网](https://rgpu.dev) · 个人维护
+⭐ 80 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ymcrcat/rgpu) · [官网](https://rgpu.dev) · 个人维护
 
 **远程 GPU 运行时：本机 Python/PyTorch 程序在远端 NVIDIA GPU 上执行**
 
@@ -45,12 +45,12 @@ rGPU 让客户端程序（如在无 CUDA 的 Mac 上）将 GPU 计算卸载到�
 ```mermaid
 xychart-beta
     title "ymcrcat/rgpu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 76 --> 80
-    line [77, 78, 79, 78, 79, 79]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 76 --> 81
+    line [77, 78, 79, 78, 79, 80]
 ```
 
-2026-10-18 77 → 2026-11-18 79（+2）
+2026-10-18 77 → 2026-11-19 80（+3）
 
 
 ---

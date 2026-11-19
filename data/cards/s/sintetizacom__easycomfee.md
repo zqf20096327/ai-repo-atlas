@@ -1,6 +1,6 @@
 # sintetizacom/easycomfee
 
-⭐ 22 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sintetizacom/easycomfee) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sintetizacom/easycomfee) · 组织维护
 
 **面向创作者的 ComfyUI 一键式图像/视频/音频生成工作室**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sintetizacom/easycomfee 星数(近 7 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 23
-    line [3, 18, 19, 20, 21, 22, 22]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 1 --> 25
+    line [3, 18, 19, 20, 21, 22, 23]
 ```
 
-2026-10-31 3 → 2026-11-18 22（+19）
+2026-10-31 3 → 2026-11-19 23（+20）
 
 
 ---

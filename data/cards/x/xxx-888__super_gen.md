@@ -1,6 +1,6 @@
 # xxx-888/super_gen
 
-⭐ 20 · Python · 推送 2026-11-03 · [GitHub](https://github.com/xxx-888/super_gen) · [官网](https://ai.sdprcq.cc:8443) · 组织维护 · 中文 README
+⭐ 20 · Python · 推送 2026-11-18 · [GitHub](https://github.com/xxx-888/super_gen) · [官网](https://ai.sdprcq.cc:8443) · 组织维护 · 中文 README
 
 **面向短剧创作团队的 AI 短剧生成平台：剧本到成片全流程**
 
@@ -46,12 +46,12 @@ SceneGen 是一套 Web 端 AI 短剧生产平台，覆盖 LLM 剧本解析拆分
 ```mermaid
 xychart-beta
     title "xxx-888/super_gen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-18 20（+1）
+2026-10-18 19 → 2026-11-19 20（+1）
 
 
 ---

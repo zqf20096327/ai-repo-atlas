@@ -1,6 +1,6 @@
 # ardoco/lissa
 
-⭐ 18 · Java · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ardoco/lissa) · [官网](https://ardoco.de/approaches/lissa/) · 组织维护
+⭐ 18 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ardoco/lissa) · [官网](https://ardoco.de/approaches/lissa/) · 组织维护
 
 **用 LLM+RAG 恢复软件制品间追踪链接的框架，面向科研与工程**
 
@@ -46,12 +46,12 @@ LiSSA 是一个基于 Java 的框架，通过 LLM 与检索增强生成（RAG）
 ```mermaid
 xychart-beta
     title "ardoco/lissa 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 16 --> 19
     line [17, 18, 17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-18 18（+1）
+2026-10-18 17 → 2026-11-19 18（+1）
 
 
 ---

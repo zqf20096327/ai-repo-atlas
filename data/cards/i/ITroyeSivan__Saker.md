@@ -45,13 +45,13 @@ Saker 是 DeepSeek Harness Desktop 的安全测试插件，面向 SRC 挖掘、�
 
 ```mermaid
 xychart-beta
-    title "ITroyeSivan/Saker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    title "ITroyeSivan/Saker 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18", "2026-11-19"]
     y-axis "stars" 6 --> 13
-    line [7, 8, 12]
+    line [7, 8, 12, 12]
 ```
 
-2026-10-18 7 → 2026-11-18 12（+5）
+2026-10-18 7 → 2026-11-19 12（+5）
 
 
 ---

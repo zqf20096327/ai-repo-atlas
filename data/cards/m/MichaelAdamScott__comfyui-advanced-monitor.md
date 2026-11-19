@@ -1,6 +1,6 @@
 # MichaelAdamScott/comfyui-advanced-monitor
 
-⭐ 12 · JavaScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/MichaelAdamScott/comfyui-advanced-monitor) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/MichaelAdamScott/comfyui-advanced-monitor) · 个人维护
 
 **ComfyUI 工具栏资源监控插件：CPU/RAM/GPU/VRAM/温度实时显示**
 
@@ -45,12 +45,12 @@ ComfyUI 的 custom_nodes 插件，在顶部工具栏以"pill"形式实时显示 
 ```mermaid
 xychart-beta
     title "MichaelAdamScott/comfyui-advanced-monitor 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 10, 12, 12]
+    line [10, 11, 12, 10, 12, 11]
 ```
 
-2026-10-24 10 → 2026-11-18 12（+2）
+2026-10-24 10 → 2026-11-19 11（+1）
 
 
 ---

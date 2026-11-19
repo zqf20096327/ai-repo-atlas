@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/all-rl-algorithms 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    title "FareedKhan-dev/all-rl-algorithms 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 2002 --> 2005
-    line [2003, 2004]
+    line [2003, 2004, 2004]
 ```
 
-2026-11-16 2,003 → 2026-11-18 2,004（+1）
+2026-11-16 2,003 → 2026-11-19 2,004（+1）
 
 
 ---

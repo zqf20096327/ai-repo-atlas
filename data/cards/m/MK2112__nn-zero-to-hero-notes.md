@@ -1,6 +1,6 @@
 # MK2112/nn-zero-to-hero-notes
 
-⭐ 253 · Jupyter Notebook · MIT · 推送 2026-11-09 · [GitHub](https://github.com/MK2112/nn-zero-to-hero-notes) · 个人维护
+⭐ 252 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/MK2112/nn-zero-to-hero-notes) · 个人维护
 
 **Karpathy 神经网络课程的 Jupyter 学习笔记汇编**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MK2112/nn-zero-to-hero-notes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
     y-axis "stars" 251 --> 254
-    line [252, 253, 253]
+    line [252, 253, 252]
 ```
 
-2026-10-18 252 → 2026-11-18 253（+1）
+2026-10-18 252 → 2026-11-19 252（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # M9nx/CodexA
 
-⭐ 35 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/M9nx/CodexA) · [官网](https://codex-a.dev) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/M9nx/CodexA) · [官网](https://codex-a.dev) · 个人维护
 
 **本地语义代码搜索与索引引擎，供 AI 助手调用理解大型代码库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "M9nx/CodexA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-18 35（+0）
+2026-10-18 35 → 2026-11-19 35（+0）
 
 
 ---

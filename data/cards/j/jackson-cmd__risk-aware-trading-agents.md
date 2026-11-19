@@ -1,6 +1,6 @@
 # jackson-cmd/risk-aware-trading-agents
 
-⭐ 225 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jackson-cmd/risk-aware-trading-agents) · [官网](https://jackson-cmd.github.io/risk-aware-trading-agents/) · 个人维护 · 中文 README
+⭐ 242 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jackson-cmd/risk-aware-trading-agents) · [官网](https://jackson-cmd.github.io/risk-aware-trading-agents/) · 个人维护 · 中文 README
 
 **美股 LLM 交易智能体基准与排行榜，附带可回测的交易智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jackson-cmd/risk-aware-trading-agents 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 26 --> 243
-    line [44, 108, 121, 147, 203, 225]
+    title "jackson-cmd/risk-aware-trading-agents 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 25 --> 261
+    line [44, 108, 121, 147, 203, 225, 242]
 ```
 
-2026-11-12 44 → 2026-11-18 225（+181）
+2026-11-12 44 → 2026-11-19 242（+198）
 
 
 ---

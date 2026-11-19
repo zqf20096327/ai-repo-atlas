@@ -1,6 +1,6 @@
 # airboxlab/rllib-energyplus
 
-⭐ 62 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/airboxlab/rllib-energyplus) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **EnergyPlus 建筑模拟的 Gym 环境，用于强化学习控制优化**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

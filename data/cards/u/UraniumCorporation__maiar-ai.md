@@ -1,6 +1,6 @@
 # UraniumCorporation/maiar-ai
 
-⭐ 87 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/UraniumCorporation/maiar-ai) · [官网](https://maiar.dev) · 组织维护
+⭐ 86 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/UraniumCorporation/maiar-ai) · [官网](https://maiar.dev) · 组织维护
 
 **插件式可组合 AI Agent 框架，供开发者构建智能体应用**
 
@@ -45,12 +45,12 @@ Node.js/TypeScript 的 AI Agent 框架，将智能体抽象为数据摄取触发
 ```mermaid
 xychart-beta
     title "UraniumCorporation/maiar-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 85 --> 88
+    line [87, 86]
 ```
 
-2026-10-18 87 → 2026-11-18 87（+0）
+2026-10-18 87 → 2026-11-19 86（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ishabdullah/Aigentik-CLI
 
-⭐ 14 · JavaScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Ishabdullah/Aigentik-CLI) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Ishabdullah/Aigentik-CLI) · 个人维护
 
 **跑在手机/迷你主机上的本地邮件 AI 助理，自动回复 Gmail**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ishabdullah/Aigentik-CLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-18 14（+0）
+2026-10-18 14 → 2026-11-19 15（+1）
 
 
 ---

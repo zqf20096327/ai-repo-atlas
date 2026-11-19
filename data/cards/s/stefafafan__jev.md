@@ -1,6 +1,6 @@
 # stefafafan/jev
 
-⭐ 15 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/stefafafan/jev) · [官网](https://github.com/stefafafan/jev) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/stefafafan/jev) · [官网](https://github.com/stefafafan/jev) · 个人维护
 
 **Jev 评估模型的非官方多提供商 Unix 命令行客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stefafafan/jev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-18 15（+0）
+2026-10-18 15 → 2026-11-19 15（+0）
 
 
 ---

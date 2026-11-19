@@ -1,6 +1,6 @@
 # google-ai-edge/litert-samples
 
-⭐ 498 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google-ai-edge/litert-samples) · [官网](https://developers.google.com/edge/litert) · 组织维护
+⭐ 499 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google-ai-edge/litert-samples) · [官网](https://developers.google.com/edge/litert) · 组织维护
 
 **Google AI Edge 官方端侧 ML/GenAI 示例应用、模型转换配方与 agent 技能库**
 
@@ -47,12 +47,12 @@ Google AI Edge 团队维护的 LiteRT 与 LiteRT-LM 中央开发者仓库：提�
 ```mermaid
 xychart-beta
     title "google-ai-edge/litert-samples 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 490 --> 499
-    line [491, 492, 494, 495, 496, 498, 498]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 490 --> 500
+    line [491, 492, 494, 495, 496, 498, 499]
 ```
 
-2026-11-10 491 → 2026-11-18 498（+7）
+2026-11-10 491 → 2026-11-19 499（+8）
 
 
 ---

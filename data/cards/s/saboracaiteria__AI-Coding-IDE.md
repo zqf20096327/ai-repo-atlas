@@ -1,6 +1,6 @@
 # saboracaiteria/AI-Coding-IDE
 
-⭐ 11 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/saboracaiteria/AI-Coding-IDE) · [官网](https://saboracaiteria.github.io/AI-Coding-IDE/) · 个人维护
+⭐ 12 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/saboracaiteria/AI-Coding-IDE) · [官网](https://saboracaiteria.github.io/AI-Coding-IDE/) · 个人维护
 
 **在 Android 手机上编译并安装 APK 的 AI 编码 IDE**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "saboracaiteria/AI-Coding-IDE 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 5 --> 12
-    line [6, 7, 8, 7, 10, 11]
+    title "saboracaiteria/AI-Coding-IDE 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 5 --> 13
+    line [6, 7, 8, 7, 10, 11, 12]
 ```
 
-2026-10-18 6 → 2026-11-18 11（+5）
+2026-10-18 6 → 2026-11-19 12（+6）
 
 
 ---

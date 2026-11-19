@@ -1,6 +1,6 @@
 # kyegomez/Gemini
 
-⭐ 468 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/kyegomez/Gemini) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 469 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/kyegomez/Gemini) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **Google Gemini 模型的开源复现尝试（PyTorch）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/Gemini 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 466 --> 469
-    line [467, 468, 468]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 466 --> 470
+    line [467, 468, 469]
 ```
 
-2026-10-18 467 → 2026-11-18 468（+1）
+2026-10-18 467 → 2026-11-19 469（+2）
 
 
 ---

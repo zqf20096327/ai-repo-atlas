@@ -1,6 +1,6 @@
 # askads/mcp-vk-ads
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/askads/mcp-vk-ads) · [官网](https://www.npmjs.com/package/mcp-vk-ads) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/askads/mcp-vk-ads) · [官网](https://www.npmjs.com/package/mcp-vk-ads) · 组织维护
 
 **把 VK Ads 广告账户接入 AI 应用的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "askads/mcp-vk-ads 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-10-18 11 → 2026-11-18 13（+2）
+2026-10-18 11 → 2026-11-19 14（+3）
 
 
 ---

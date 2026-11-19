@@ -1,6 +1,6 @@
 # bytedance/axion1_0
 
-⭐ 92 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/bytedance/axion1_0) · [官网](https://axion1-0.github.io) · 组织维护 · 中文 README
+⭐ 97 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/bytedance/axion1_0) · [官网](https://axion1-0.github.io) · 组织维护 · 中文 README
 
 **开源 agent 基础模型及完整训练配方（2 SFT+RL）**
 
@@ -45,13 +45,13 @@ Axion 1.0 发布 35B/122B 两档开源 agent 基础模型（基于 Qwen MoE 底�
 
 ```mermaid
 xychart-beta
-    title "bytedance/axion1_0 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 59 --> 95
-    line [62, 68, 70, 72, 74, 79, 82, 92]
+    title "bytedance/axion1_0 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 59 --> 100
+    line [62, 68, 70, 72, 74, 79, 82, 92, 97]
 ```
 
-2026-11-08 62 → 2026-11-18 92（+30）
+2026-11-08 62 → 2026-11-19 97（+35）
 
 
 ---

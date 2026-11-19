@@ -1,6 +1,6 @@
 # Veloresearch/kinetic
 
-⭐ 90 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Veloresearch/kinetic) · [官网](https://veloresearch.com/research/kinetic) · 组织维护
+⭐ 91 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Veloresearch/kinetic) · [官网](https://veloresearch.com/research/kinetic) · 组织维护
 
 **本地运行 GGUF 模型的开源推理引擎，单一二进制跨 CPU/GPU**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Veloresearch/kinetic 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 59 --> 92
-    line [61, 84, 87, 89, 90, 90]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 58 --> 94
+    line [61, 84, 87, 89, 90, 91]
 ```
 
-2026-11-11 61 → 2026-11-18 90（+29）
+2026-11-11 61 → 2026-11-19 91（+30）
 
 
 ---

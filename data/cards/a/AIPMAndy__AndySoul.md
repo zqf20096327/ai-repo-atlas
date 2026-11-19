@@ -1,6 +1,6 @@
 # AIPMAndy/AndySoul
 
-⭐ 112 · MIT · 推送 2026-11-12 · [GitHub](https://github.com/AIPMAndy/AndySoul) · [官网](https://github.com/AIPMAndy/AndySoul) · 个人维护 · 中文 README
+⭐ 113 · MIT · 推送 2026-11-12 · [GitHub](https://github.com/AIPMAndy/AndySoul) · [官网](https://github.com/AIPMAndy/AndySoul) · 个人维护 · 中文 README
 
 **放入项目根目录的 CLAUDE.md/AGENTS.md 规则模板，约束 AI 编码代理行为**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/AndySoul 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 100 --> 113
-    line [101, 105, 106, 110, 106, 111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 100 --> 114
+    line [101, 105, 106, 110, 106, 111, 112, 113]
 ```
 
-2026-10-18 101 → 2026-11-18 112（+11）
+2026-10-18 101 → 2026-11-19 113（+12）
 
 
 ---

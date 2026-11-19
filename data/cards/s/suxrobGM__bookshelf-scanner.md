@@ -1,6 +1,6 @@
 # suxrobGM/bookshelf-scanner
 
-⭐ 21 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/suxrobGM/bookshelf-scanner) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/suxrobGM/bookshelf-scanner) · 个人维护
 
 **从书架照片识别书籍名称与作者的 Web 应用（YOLO+Moondream2）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "suxrobGM/bookshelf-scanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-18 21（+0）
+2026-10-18 21 → 2026-11-19 22（+1）
 
 
 ---

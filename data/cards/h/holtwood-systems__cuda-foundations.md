@@ -1,6 +1,6 @@
 # holtwood-systems/cuda-foundations
 
-⭐ 12 · C++ · MIT · 推送 2026-11-11 · [GitHub](https://github.com/holtwood-systems/cuda-foundations) · [官网](https://open-infra-ai.github.io/cuda-foundations/) · 组织维护 · 中文 README
+⭐ 12 · C++ · MIT · 推送 2026-11-11 · [GitHub](https://github.com/holtwood-systems/cuda-foundations) · [官网](https://holtwood-systems.github.io/cuda-foundations/) · 组织维护 · 中文 README
 
 **CUDA 算子工程学习仓库：SGEMM 优化阶梯到轻量推理组件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "holtwood-systems/cuda-foundations 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-11-08 11 → 2026-11-18 12（+1）
+2026-11-08 11 → 2026-11-19 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # RoboticWorx/PolyCast5
 
-⭐ 23 · C · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/RoboticWorx/PolyCast5) · [官网](https://www.polycast5.com) · 组织维护
+⭐ 23 · C · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/RoboticWorx/PolyCast5) · [官网](https://www.polycast5.com) · 组织维护
 
 **ESP32 开源多协议无线遥控器固件，AI 语音键盘与红外/LoRa 控制一体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RoboticWorx/PolyCast5 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-19"]
     y-axis "stars" 19 --> 24
     line [20, 21, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-18 23（+3）
+2026-10-18 20 → 2026-11-19 23（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # docsector/docsector-reader
 
-⭐ 21 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/docsector/docsector-reader) · [官网](https://docsector.com) · 组织维护
+⭐ 21 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/docsector/docsector-reader) · [官网](https://docsector.com) · 组织维护
 
 **面向 AI 的文档渲染引擎：Markdown 文档站 + LLM/Agent 友好层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "docsector/docsector-reader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-18 21（+0）
+2026-10-18 21 → 2026-11-19 21（+0）
 
 
 ---

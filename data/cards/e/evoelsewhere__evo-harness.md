@@ -1,6 +1,6 @@
 # evoelsewhere/evo-harness
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/evoelsewhere/evo-harness) · [官网](https://evoelsewhere.asia) · 组织维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/evoelsewhere/evo-harness) · [官网](https://evoelsewhere.asia) · 组织维护
 
 **本地优先的 AI agent 桌面工作区，聚合聊天、文件、终端与浏览器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "evoelsewhere/evo-harness 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    title "evoelsewhere/evo-harness 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19"]
     y-axis "stars" 12 --> 17
-    line [13, 14, 15, 16]
+    line [13, 14, 15, 16, 16]
 ```
 
-2026-11-08 13 → 2026-11-18 16（+3）
+2026-11-08 13 → 2026-11-19 16（+3）
 
 
 ---

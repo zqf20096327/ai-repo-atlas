@@ -1,6 +1,6 @@
 # sam-david/clawtalk-ios
 
-⭐ 39 · Swift · 推送 2026-05-15 · [GitHub](https://github.com/sam-david/clawtalk-ios) · [官网](https://clawtalkapp.com/) · 个人维护
+⭐ 40 · Swift · 推送 2026-05-15 · [GitHub](https://github.com/sam-david/clawtalk-ios) · [官网](https://clawtalkapp.com/) · 个人维护
 
 **通过语音/文字与自托管 OpenClaw agent 对话的 iOS 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sam-david/clawtalk-ios 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-18 39 → 2026-11-18 39（+0）
+2026-10-18 39 → 2026-11-19 40（+1）
 
 
 ---

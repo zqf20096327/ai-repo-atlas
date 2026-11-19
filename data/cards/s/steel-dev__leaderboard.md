@@ -1,6 +1,6 @@
 # steel-dev/leaderboard
 
-⭐ 49 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/steel-dev/leaderboard) · [官网](https://leaderboard.steel.dev) · 组织维护
+⭐ 48 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/steel-dev/leaderboard) · [官网](https://leaderboard.steel.dev) · 组织维护
 
 **浏览器/计算机使用/编程 agent 公开基准排行榜参考**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "steel-dev/leaderboard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 48 --> 51
-    line [50, 49, 49]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 47 --> 51
+    line [50, 49, 48]
 ```
 
-2026-10-18 50 → 2026-11-18 49（-1）
+2026-10-18 50 → 2026-11-19 48（-2）
 
 
 ---

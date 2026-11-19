@@ -1,6 +1,6 @@
 # pidifa/code-trace-tree-vscode
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/pidifa/code-trace-tree-vscode) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/pidifa/code-trace-tree-vscode) · 个人维护
 
 **带 AI agent 技能的 VS Code/JetBrains 代码追踪树插件**
 
@@ -46,12 +46,12 @@ VS Code/JetBrains 插件，以嵌套树结构记录代码工作流：可对行�
 ```mermaid
 xychart-beta
     title "pidifa/code-trace-tree-vscode 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-11-08", "2026-11-19"]
+    y-axis "stars" 12 --> 15
+    line [14, 13]
 ```
 
-2026-11-08 14 → 2026-11-18 14（+0）
+2026-11-08 14 → 2026-11-19 13（-1）
 
 
 ---

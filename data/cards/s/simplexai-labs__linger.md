@@ -1,6 +1,6 @@
 # simplexai-labs/linger
 
-⭐ 421 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/simplexai-labs/linger) · 组织维护
+⭐ 454 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/simplexai-labs/linger) · [官网](heylinger.com) · 组织维护
 
 **在个人电脑上本地运行的开源个人 agent，含记忆与主动提醒**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "simplexai-labs/linger 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 460
-    line [30, 68, 117, 182, 251, 342, 397, 421]
+    title "simplexai-labs/linger 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 496
+    line [30, 68, 117, 182, 251, 342, 397, 421, 454]
 ```
 
-2026-11-10 30 → 2026-11-18 421（+391）
+2026-11-10 30 → 2026-11-19 454（+424）
 
 
 ---

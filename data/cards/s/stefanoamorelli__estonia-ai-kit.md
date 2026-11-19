@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stefanoamorelli/estonia-ai-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "stefanoamorelli/estonia-ai-kit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 80 --> 83
-    line [81, 82]
+    line [81, 82, 82]
 ```
 
-2026-10-18 81 → 2026-11-18 82（+1）
+2026-10-18 81 → 2026-11-19 82（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # shannonbay/Quarterdeck
 
-⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/shannonbay/Quarterdeck) · 个人维护
+⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/shannonbay/Quarterdeck) · 个人维护
 
 **把 Claude Code 变成后台常驻个人助理的插件：目标式定时代理**
 
@@ -45,13 +45,13 @@ Quarterdeck 是一个 Claude Code 插件集（含一个 MCP server、quarterdeck
 
 ```mermaid
 xychart-beta
-    title "shannonbay/Quarterdeck 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 13 --> 39
-    line [15, 20, 21, 23, 24, 31, 37]
+    title "shannonbay/Quarterdeck 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 13 --> 40
+    line [15, 20, 21, 23, 24, 31, 37, 38]
 ```
 
-2026-11-10 15 → 2026-11-18 37（+22）
+2026-11-10 15 → 2026-11-19 38（+23）
 
 
 ---

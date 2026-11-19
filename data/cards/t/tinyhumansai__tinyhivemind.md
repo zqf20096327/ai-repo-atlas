@@ -1,6 +1,6 @@
 # tinyhumansai/tinyhivemind
 
-⭐ 20 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/tinyhumansai/tinyhivemind) · [官网](https://github.com/tinyhumansai/tinyhivemind/wiki) · 个人维护
+⭐ 21 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/tinyhumansai/tinyhivemind) · [官网](https://github.com/tinyhumansai/tinyhivemind/wiki) · 个人维护
 
 **Rust 多智能体群体决策协调库：法定人数、印记衰减等机制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tinyhumansai/tinyhivemind 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 19, 20, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 19, 20, 19, 20, 21]
 ```
 
-2026-10-18 16 → 2026-11-18 20（+4）
+2026-10-18 16 → 2026-11-19 21（+5）
 
 
 ---

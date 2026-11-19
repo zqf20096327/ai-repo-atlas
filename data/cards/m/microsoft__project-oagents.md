@@ -1,6 +1,6 @@
 # microsoft/project-oagents
 
-⭐ 310 · C# · CC-BY-4.0 · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/project-oagents) · 组织维护
+⭐ 309 · C# · CC-BY-4.0 · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/project-oagents) · 组织维护
 
 **构建事件驱动 AI Agent 的 .NET 框架**
 
@@ -43,12 +43,12 @@ Microsoft 维护的实验性 .NET 框架，基于 Semantic Kernel 与 Orleans �
 ```mermaid
 xychart-beta
     title "microsoft/project-oagents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 309 --> 311
-    line [310, 310]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 308 --> 311
+    line [310, 309]
 ```
 
-2026-10-18 310 → 2026-11-18 310（+0）
+2026-10-18 310 → 2026-11-19 309（-1）
 
 
 ---

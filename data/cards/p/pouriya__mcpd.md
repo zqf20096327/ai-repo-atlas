@@ -1,6 +1,6 @@
 # pouriya/mcpd
 
-⭐ 13 · Rust · BSD-3-Clause · 推送 2026-02-13 · [GitHub](https://github.com/pouriya/mcpd) · 个人维护
+⭐ 14 · Rust · BSD-3-Clause · 推送 2026-02-13 · [GitHub](https://github.com/pouriya/mcpd) · 个人维护
 
 **将任意可执行脚本暴露为 MCP 工具的轻量守护进程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pouriya/mcpd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 14（+1）
 
 
 ---

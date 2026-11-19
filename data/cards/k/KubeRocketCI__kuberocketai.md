@@ -1,6 +1,6 @@
 # KubeRocketCI/kuberocketai
 
-⭐ 34 · Go · Apache-2.0 · 推送 2026-01-15 · [GitHub](https://github.com/KubeRocketCI/kuberocketai) · [官网](https://krci-ai.kuberocketci.io) · 组织维护
+⭐ 33 · Go · Apache-2.0 · 推送 2026-01-15 · [GitHub](https://github.com/KubeRocketCI/kuberocketai) · [官网](https://krci-ai.kuberocketci.io) · 组织维护
 
 **AI-as-Code 框架：以版本化 Markdown 定义、校验并分发 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KubeRocketCI/kuberocketai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
     y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    line [33, 34, 33]
 ```
 
-2026-10-18 33 → 2026-11-18 34（+1）
+2026-10-18 33 → 2026-11-19 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # LostOxygen/llm-confidentiality
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/LostOxygen/llm-confidentiality) · 组织维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/LostOxygen/llm-confidentiality) · 组织维护
 
 **论文配套框架：评测 LLM Agent 系统中提示注入的保密性风险**
 
@@ -46,12 +46,12 @@ DIMVA 2026 论文 Whispers in the Machine 的代码仓库：将敏感数据抽�
 ```mermaid
 xychart-beta
     title "LostOxygen/llm-confidentiality 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
-    y-axis "stars" 44 --> 48
-    line [47, 45, 45]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
+    y-axis "stars" 43 --> 48
+    line [47, 45, 44]
 ```
 
-2026-10-18 47 → 2026-11-18 45（-2）
+2026-10-18 47 → 2026-11-19 44（-3）
 
 
 ---

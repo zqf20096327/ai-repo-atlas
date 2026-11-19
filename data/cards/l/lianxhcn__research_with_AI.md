@@ -1,6 +1,6 @@
 # lianxhcn/research_with_AI
 
-⭐ 32 · Jupyter Notebook · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lianxhcn/research_with_AI) · [官网](https://lianxhcn.github.io/research_with_AI/) · 个人维护 · 中文 README
+⭐ 33 · Jupyter Notebook · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lianxhcn/research_with_AI) · [官网](https://lianxhcn.github.io/research_with_AI/) · 个人维护 · 中文 README
 
 **面向实证研究者的 AI 工具使用讲义（在线书籍）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lianxhcn/research_with_AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-11-18 32（+0）
+2026-10-18 32 → 2026-11-19 33（+1）
 
 
 ---

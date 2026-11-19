@@ -1,6 +1,6 @@
 # thePloggy/CreatorOS-Studio
 
-⭐ 83 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/thePloggy/CreatorOS-Studio) · [官网](https://forge.taila06702.ts.net:8443) · 个人维护
+⭐ 85 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/thePloggy/CreatorOS-Studio) · [官网](https://forge.taila06702.ts.net:8443) · 个人维护
 
 **本地 GPU 角色视频工作室：训练固定角色并产出成片**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "thePloggy/CreatorOS-Studio 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 65 --> 84
-    line [66, 73, 75, 77, 78, 79, 80, 82, 83]
+    title "thePloggy/CreatorOS-Studio 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 65 --> 86
+    line [66, 73, 75, 77, 78, 79, 80, 82, 83, 85]
 ```
 
-2026-11-08 66 → 2026-11-18 83（+17）
+2026-11-08 66 → 2026-11-19 85（+19）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ABDULMUNAFZ/Hyperlocal-Intelligence-for-Flash-Flood-Prediction-Risk--Response 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 19 --> 23
     line [21, 20, 21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-18 22（+1）
+2026-10-18 21 → 2026-11-19 22（+1）
 
 
 ---

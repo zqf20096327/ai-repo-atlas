@@ -1,6 +1,6 @@
 # dhsakilkhan503-a11y/claude-haiku-5-5-high-volume-billing
 
-⭐ 40 · 推送 2026-11-09 · [GitHub](https://github.com/dhsakilkhan503-a11y/claude-haiku-5-5-high-volume-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 44 · 推送 2026-11-09 · [GitHub](https://github.com/dhsakilkhan503-a11y/claude-haiku-5-5-high-volume-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向 Claude Haiku 5.5 高频扣费用户的 CoreGold 虚拟卡推广指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "dhsakilkhan503-a11y/claude-haiku-5-5-high-volume-billing 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 11 --> 42
-    line [13, 27, 32, 38, 37, 36, 40]
+    title "dhsakilkhan503-a11y/claude-haiku-5-5-high-volume-billing 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 47
+    line [13, 27, 32, 38, 37, 36, 40, 44]
 ```
 
-2026-11-10 13 → 2026-11-18 40（+27）
+2026-11-10 13 → 2026-11-19 44（+31）
 
 
 ---

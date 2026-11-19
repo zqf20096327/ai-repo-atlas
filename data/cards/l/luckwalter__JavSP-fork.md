@@ -1,6 +1,6 @@
 # luckwalter/JavSP-fork
 
-⭐ 37 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/luckwalter/JavSP-fork) · 个人维护 · 中文 README
+⭐ 35 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/luckwalter/JavSP-fork) · 个人维护 · 中文 README
 
 **带 Web 界面的 AV 元数据刮削器，多站点汇总并生成媒体库 NFO**
 
@@ -45,12 +45,12 @@ Yuukiy/JavSP 的派生分支：汇总 19 个刮削源的数据自动识别番号
 ```mermaid
 xychart-beta
     title "luckwalter/JavSP-fork 星数(近 7 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19"]
     y-axis "stars" 21 --> 38
-    line [22, 23, 27, 34, 36, 37, 37]
+    line [22, 23, 27, 34, 36, 37, 35]
 ```
 
-2026-10-26 22 → 2026-11-18 37（+15）
+2026-10-26 22 → 2026-11-19 35（+13）
 
 
 ---

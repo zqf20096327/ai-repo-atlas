@@ -1,6 +1,6 @@
 # chmouel/liseur-sync
 
-⭐ 22 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/chmouel/liseur-sync) · [官网](https://chmouel.github.io/liseur-sync/) · 个人维护
+⭐ 23 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/chmouel/liseur-sync) · [官网](https://chmouel.github.io/liseur-sync/) · 个人维护
 
 **自托管的电子书阅读进度同步与统计服务器**
 
@@ -46,12 +46,12 @@ Go 编写的单体二进制服务器，为 Liseur 提供配套服务，并为 KO
 ```mermaid
 xychart-beta
     title "chmouel/liseur-sync 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 17 --> 23
-    line [18, 19, 20, 18, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 20, 18, 21, 22, 23]
 ```
 
-2026-10-18 18 → 2026-11-18 22（+4）
+2026-10-18 18 → 2026-11-19 23（+5）
 
 
 ---

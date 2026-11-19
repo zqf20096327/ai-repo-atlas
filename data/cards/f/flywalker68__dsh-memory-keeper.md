@@ -1,6 +1,6 @@
 # flywalker68/dsh-memory-keeper
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/flywalker68/dsh-memory-keeper) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/flywalker68/dsh-memory-keeper) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的长期记忆检索插件：md 记忆双路检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "flywalker68/dsh-memory-keeper 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 10 --> 18
-    line [11, 13, 15, 16, 17]
+    title "flywalker68/dsh-memory-keeper 星数(近 6 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 20
+    line [11, 13, 15, 16, 17, 19]
 ```
 
-2026-11-11 11 → 2026-11-18 17（+6）
+2026-11-11 11 → 2026-11-19 19（+8）
 
 
 ---

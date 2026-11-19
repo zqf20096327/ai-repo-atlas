@@ -1,6 +1,6 @@
 # akashshrx/OpenSpecter
 
-⭐ 37 · TypeScript · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/akashshrx/OpenSpecter) · [官网](https://www.openspecter.com/) · 组织维护
+⭐ 42 · TypeScript · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/akashshrx/OpenSpecter) · [官网](https://www.openspecter.com/) · 组织维护
 
 **面向法律团队的开源自托管 AI 工作区**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "akashshrx/OpenSpecter 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 31 --> 38
-    line [32, 33, 34, 35, 33, 35, 36, 37]
+    title "akashshrx/OpenSpecter 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 31 --> 43
+    line [32, 33, 34, 35, 33, 35, 36, 37, 42]
 ```
 
-2026-10-18 32 → 2026-11-18 37（+5）
+2026-10-18 32 → 2026-11-19 42（+10）
 
 
 ---

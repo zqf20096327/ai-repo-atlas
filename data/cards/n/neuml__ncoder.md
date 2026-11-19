@@ -1,6 +1,6 @@
 # neuml/ncoder
 
-⭐ 25 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/neuml/ncoder) · 组织维护
+⭐ 26 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/neuml/ncoder) · 组织维护
 
 **集成 Jupyter Notebook 的开源 AI 编码代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neuml/ncoder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-11-18 25（+1）
+2026-10-18 24 → 2026-11-19 26（+2）
 
 
 ---

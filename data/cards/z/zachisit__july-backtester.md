@@ -44,13 +44,13 @@ Python 编写的美股股票策略回测引擎（Python 3.10+，MIT 许可）。
 
 ```mermaid
 xychart-beta
-    title "zachisit/july-backtester 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-18"]
+    title "zachisit/july-backtester 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-18", "2026-11-19"]
     y-axis "stars" 10 --> 15
-    line [11, 12, 14]
+    line [11, 12, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-18 14（+3）
+2026-10-18 11 → 2026-11-19 14（+3）
 
 
 ---

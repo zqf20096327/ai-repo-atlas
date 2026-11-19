@@ -1,6 +1,6 @@
 # meta-llama/llama-api-python
 
-⭐ 64 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/meta-llama/llama-api-python) · 组织维护
+⭐ 65 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/meta-llama/llama-api-python) · 组织维护
 
 **Meta Llama API 官方 Python 客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "meta-llama/llama-api-python 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 62 --> 65
-    line [64, 63, 64, 64]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 62 --> 66
+    line [64, 63, 64, 65]
 ```
 
-2026-10-18 64 → 2026-11-18 64（+0）
+2026-10-18 64 → 2026-11-19 65（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # XR-stb/DQN_WUKONG
 
-⭐ 93 · Python · 推送 2026-09-14 · [GitHub](https://github.com/XR-stb/DQN_WUKONG) · 个人维护 · 中文 README
+⭐ 94 · Python · 推送 2026-09-14 · [GitHub](https://github.com/XR-stb/DQN_WUKONG) · 个人维护 · 中文 README
 
 **用 DQN 强化学习玩黑神话悟空的 AI 项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "XR-stb/DQN_WUKONG 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-18"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    x-axis ["2026-11-02", "2026-11-19"]
+    y-axis "stars" 92 --> 95
+    line [93, 94]
 ```
 
-2026-11-02 93 → 2026-11-18 93（+0）
+2026-11-02 93 → 2026-11-19 94（+1）
 
 
 ---

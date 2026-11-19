@@ -1,6 +1,6 @@
 # sidiangongyuan/codex-skills-library
 
-⭐ 24 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/sidiangongyuan/codex-skills-library) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/sidiangongyuan/codex-skills-library) · 个人维护 · 中文 README
 
 **18 个可安装的 Codex 工作流技能库：科研写作与开发运维**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sidiangongyuan/codex-skills-library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
     y-axis "stars" 23 --> 26
-    line [25, 24, 24]
+    line [25, 24, 25]
 ```
 
-2026-10-18 25 → 2026-11-18 24（-1）
+2026-10-18 25 → 2026-11-19 25（+0）
 
 
 ---

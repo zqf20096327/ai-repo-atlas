@@ -44,13 +44,13 @@ Talus Network 维护的 Nexus SDK 开源工具集，简化开发者基于 Nexus�
 
 ```mermaid
 xychart-beta
-    title "Talus-Network/nexus-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "Talus-Network/nexus-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 176 --> 180
-    line [179, 177]
+    line [179, 177, 177]
 ```
 
-2026-10-18 179 → 2026-11-18 177（-2）
+2026-10-18 179 → 2026-11-19 177（-2）
 
 
 ---

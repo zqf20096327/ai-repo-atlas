@@ -1,6 +1,6 @@
 # sideshowroberto/vfx-agent-toolkit
 
-⭐ 18 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/sideshowroberto/vfx-agent-toolkit) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/sideshowroberto/vfx-agent-toolkit) · 个人维护
 
 **面向 Claude Code 的 VFX 制作技能与 MCP 连接器工具集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sideshowroberto/vfx-agent-toolkit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 11 --> 19
-    line [12, 13, 15, 12, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 11 --> 20
+    line [12, 13, 15, 12, 17, 18, 19]
 ```
 
-2026-10-18 12 → 2026-11-18 18（+6）
+2026-10-18 12 → 2026-11-19 19（+7）
 
 
 ---

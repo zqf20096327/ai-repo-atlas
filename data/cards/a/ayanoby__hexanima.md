@@ -1,6 +1,6 @@
 # ayanoby/hexanima
 
-⭐ 25 · C++ · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/ayanoby/hexanima) · 个人维护
+⭐ 27 · C++ · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/ayanoby/hexanima) · 个人维护
 
 **在骁龙 8 Gen 1 NPU 上离线生成动漫图像的安卓应用**
 
@@ -45,13 +45,13 @@ Android 应用，在 Snapdragon 8 Gen 1 / 8+ Gen 1 的 Hexagon V69 NPU 上本地
 
 ```mermaid
 xychart-beta
-    title "ayanoby/hexanima 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 7 --> 26
-    line [8, 16, 17, 19, 21, 24, 25]
+    title "ayanoby/hexanima 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 7 --> 28
+    line [8, 16, 17, 19, 21, 24, 25, 27]
 ```
 
-2026-11-08 8 → 2026-11-18 25（+17）
+2026-11-08 8 → 2026-11-19 27（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # yogthos/chiasmus
 
-⭐ 218 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/yogthos/chiasmus) · 个人维护
+⭐ 220 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/yogthos/chiasmus) · 个人维护
 
 **为 LLM 提供形式化验证能力的 MCP 服务器（Z3/Prolog）**
 
@@ -46,12 +46,12 @@ MCP 服务器，向语言模型开放形式化验证与代码分析工具：Z3�
 ```mermaid
 xychart-beta
     title "yogthos/chiasmus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
-    y-axis "stars" 214 --> 219
-    line [215, 218, 218]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    y-axis "stars" 214 --> 221
+    line [215, 218, 220]
 ```
 
-2026-10-18 215 → 2026-11-18 218（+3）
+2026-10-18 215 → 2026-11-19 220（+5）
 
 
 ---

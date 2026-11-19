@@ -1,6 +1,6 @@
 # Minnzen/claude-code-kit
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Minnzen/claude-code-kit) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Minnzen/claude-code-kit) · 个人维护 · 中文 README
 
 **React 终端组件与无头 Agent 框架工具包，用于构建 CLI 与 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Minnzen/claude-code-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
-    y-axis "stars" 28 --> 32
-    line [29, 30, 31]
+    title "Minnzen/claude-code-kit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 31, 32]
 ```
 
-2026-10-18 29 → 2026-11-18 31（+2）
+2026-10-18 29 → 2026-11-19 32（+3）
 
 
 ---

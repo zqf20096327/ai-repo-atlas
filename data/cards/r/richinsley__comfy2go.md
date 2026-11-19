@@ -1,6 +1,6 @@
 # richinsley/comfy2go
 
-⭐ 78 · Go · MIT · 推送 2026-01-13 · [GitHub](https://github.com/richinsley/comfy2go) · 个人维护
+⭐ 79 · Go · MIT · 推送 2026-01-13 · [GitHub](https://github.com/richinsley/comfy2go) · 个人维护
 
 **Go 库：桥接 ComfyUI 后端，提供工作流访问 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "richinsley/comfy2go 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 77 --> 80
-    line [79, 78, 78]
+    line [79, 78, 79]
 ```
 
-2026-10-18 79 → 2026-11-18 78（-1）
+2026-10-18 79 → 2026-11-19 79（+0）
 
 
 ---

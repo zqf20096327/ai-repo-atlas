@@ -1,6 +1,6 @@
 # igorls/comfyui-h3-editor
 
-⭐ 97 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/igorls/comfyui-h3-editor) · [官网](https://igorls.github.io/comfyui-h3-editor/) · 个人维护
+⭐ 103 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/igorls/comfyui-h3-editor) · [官网](https://igorls.github.io/comfyui-h3-editor/) · 个人维护
 
 **ComfyUI 内的 MiniMax H3 时间线 AI 视频编辑器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "igorls/comfyui-h3-editor 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 6 --> 105
-    line [14, 26, 36, 40, 42, 50, 89, 97]
+    title "igorls/comfyui-h3-editor 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 6 --> 111
+    line [14, 26, 36, 40, 42, 50, 89, 97, 103]
 ```
 
-2026-11-10 14 → 2026-11-18 97（+83）
+2026-11-10 14 → 2026-11-19 103（+89）
 
 
 ---

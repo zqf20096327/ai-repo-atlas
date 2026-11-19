@@ -1,6 +1,6 @@
 # igeng/awesome-drl-cloud-scheduling
 
-⭐ 12 · 推送 2026-08-27 · [GitHub](https://github.com/igeng/awesome-drl-cloud-scheduling) · 个人维护
+⭐ 13 · 推送 2026-08-27 · [GitHub](https://github.com/igeng/awesome-drl-cloud-scheduling) · 个人维护
 
 **DRL 云资源调度与弹性伸缩研究的论文与代码策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "igeng/awesome-drl-cloud-scheduling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 13（+1）
 
 
 ---

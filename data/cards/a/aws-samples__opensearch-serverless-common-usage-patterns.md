@@ -1,6 +1,6 @@
 # aws-samples/opensearch-serverless-common-usage-patterns
 
-⭐ 18 · Python · MIT-0 · 推送 2026-03-26 · [GitHub](https://github.com/aws-samples/opensearch-serverless-common-usage-patterns) · 组织维护
+⭐ 19 · Python · MIT-0 · 推送 2026-03-26 · [GitHub](https://github.com/aws-samples/opensearch-serverless-common-usage-patterns) · 组织维护
 
 **Amazon OpenSearch Serverless 常见使用模式的示例项目集合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/opensearch-serverless-common-usage-patterns 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 19（+1）
 
 
 ---

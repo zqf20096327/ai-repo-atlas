@@ -1,6 +1,6 @@
 # Pro-GenAI/Index-RAG
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-03-07 · [GitHub](https://github.com/Pro-GenAI/Index-RAG) · [官网](https://www.researchgate.net/publication/397745877_Index-RAG_Storing_Text_Location_in_Vector_Databases_for_QA_tasks) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在向量库中存储文本位置的引用精确 RAG 系统**
 
@@ -11,7 +11,7 @@ i-RAG 是一种 RAG 检索方案：对文档按段落切分，用 LLM 为每段�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

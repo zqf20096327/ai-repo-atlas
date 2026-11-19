@@ -46,12 +46,12 @@ Iteron 是一个用 Rust 编写的开源平台，为特定领域 AI agent 的 ha
 ```mermaid
 xychart-beta
     title "Plantcore-AI/Iteron 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-18"]
+    x-axis ["2026-10-19", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-18 11（+0）
+2026-10-19 11 → 2026-11-19 11（+0）
 
 
 ---

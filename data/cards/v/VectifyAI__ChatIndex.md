@@ -1,6 +1,6 @@
 # VectifyAI/ChatIndex
 
-⭐ 178 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/VectifyAI/ChatIndex) · 组织维护
+⭐ 179 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/VectifyAI/ChatIndex) · 组织维护
 
 **面向长对话的分层树索引与检索系统（Context Tree）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VectifyAI/ChatIndex 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 173 --> 179
-    line [174, 175, 176, 177, 178, 178]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 173 --> 180
+    line [174, 175, 176, 177, 178, 179]
 ```
 
-2026-10-18 174 → 2026-11-18 178（+4）
+2026-10-18 174 → 2026-11-19 179（+5）
 
 
 ---

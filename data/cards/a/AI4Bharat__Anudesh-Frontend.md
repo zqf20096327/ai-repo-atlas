@@ -1,6 +1,6 @@
 # AI4Bharat/Anudesh-Frontend
 
-⭐ 14 · JavaScript · 推送 2026-11-10 · [GitHub](https://github.com/AI4Bharat/Anudesh-Frontend) · [官网](https://anudesh.ai4bharat.org/) · 组织维护
+⭐ 14 · JavaScript · 推送 2026-11-18 · [GitHub](https://github.com/AI4Bharat/Anudesh-Frontend) · [官网](https://anudesh.ai4bharat.org/) · 组织维护
 
 **开源数据标注与打标平台 Anudesh 的前端应用**
 
@@ -42,12 +42,12 @@ AI4Bharat 开源的数据规模化标注与打标平台 Anudesh 的前端仓库�
 ```mermaid
 xychart-beta
     title "AI4Bharat/Anudesh-Frontend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-18 14（+0）
+2026-10-18 14 → 2026-11-19 14（+0）
 
 
 ---

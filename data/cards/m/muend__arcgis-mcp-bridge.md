@@ -1,6 +1,6 @@
 # muend/arcgis-mcp-bridge
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/muend/arcgis-mcp-bridge) · [官网](https://pypi.org/project/arcgis-mcp-bridge/) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/muend/arcgis-mcp-bridge) · [官网](https://pypi.org/project/arcgis-mcp-bridge/) · 个人维护
 
 **面向 Claude Desktop 等 MCP 主机的 ArcGIS Pro ArcPy 桥接服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "muend/arcgis-mcp-bridge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 21 --> 26
-    line [22, 23, 24, 23, 25, 25]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 23, 25, 26]
 ```
 
-2026-10-18 22 → 2026-11-18 25（+3）
+2026-10-18 22 → 2026-11-19 26（+4）
 
 
 ---

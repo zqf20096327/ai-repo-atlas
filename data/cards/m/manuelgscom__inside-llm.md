@@ -1,6 +1,6 @@
 # manuelgscom/inside-llm
 
-⭐ 96 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/manuelgscom/inside-llm) · [官网](https://manuelgs.com/en/inside-llm/) · 个人维护
+⭐ 105 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/manuelgscom/inside-llm) · [官网](https://manuelgs.com/en/inside-llm/) · 个人维护
 
 **浏览器中逐 token 观察两个 GGUF 量化模型分歧的可视化工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "manuelgscom/inside-llm 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 84 --> 97
-    line [85, 96]
+    title "manuelgscom/inside-llm 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 83 --> 107
+    line [85, 96, 105]
 ```
 
-2026-11-16 85 → 2026-11-18 96（+11）
+2026-11-16 85 → 2026-11-19 105（+20）
 
 
 ---

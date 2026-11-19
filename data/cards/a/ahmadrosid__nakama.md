@@ -1,6 +1,6 @@
 # ahmadrosid/nakama
 
-⭐ 829 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ahmadrosid/nakama) · [官网](https://ahmadrosid.github.io/nakama) · 个人维护
+⭐ 831 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ahmadrosid/nakama) · [官网](https://ahmadrosid.github.io/nakama) · 个人维护
 
 **团队共享的 AI agent 平台：聊天界面运行多代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahmadrosid/nakama 星数(近 10 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 749 --> 836
-    line [756, 789, 801, 807, 820, 823, 825, 826, 827, 829]
+    title "ahmadrosid/nakama 星数(近 11 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 749 --> 838
+    line [756, 789, 801, 807, 820, 823, 825, 826, 827, 829, 831]
 ```
 
-2026-11-02 756 → 2026-11-18 829（+73）
+2026-11-02 756 → 2026-11-19 831（+75）
 
 
 ---

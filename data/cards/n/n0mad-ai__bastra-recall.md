@@ -1,6 +1,6 @@
 # n0mad-ai/bastra-recall
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/n0mad-ai/bastra-recall) · [官网](https://bastra.io) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/n0mad-ai/bastra-recall) · [官网](https://bastra.io) · 组织维护
 
 **面向 AI 编码助手的本地优先持久记忆，Markdown 存储**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "n0mad-ai/bastra-recall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

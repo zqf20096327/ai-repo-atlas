@@ -1,6 +1,6 @@
 # fotedev/Masar-x-next
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/fotedev/Masar-x-next) · [官网](https://masarx.vercel.app) · 组织维护
+⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/fotedev/Masar-x-next) · [官网](https://masarx.vercel.app) · 组织维护
 
 **面向大学生的双语 AI 学习平台：资料、测验与 AI 辅导**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fotedev/Masar-x-next 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-16", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-16 12 → 2026-11-18 12（+0）
+2026-11-16 12 → 2026-11-19 12（+0）
 
 
 ---

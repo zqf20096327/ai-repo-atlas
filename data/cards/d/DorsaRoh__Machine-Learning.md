@@ -1,6 +1,6 @@
 # DorsaRoh/Machine-Learning
 
-⭐ 2,446 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/DorsaRoh/Machine-Learning) · 个人维护
+⭐ 2,445 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/DorsaRoh/Machine-Learning) · 个人维护
 
 **仅用 numpy 从零实现神经网络与 Transformer 的教学仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DorsaRoh/Machine-Learning 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 2445 --> 2449
-    line [2448, 2447, 2446, 2446]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 2444 --> 2449
+    line [2448, 2447, 2446, 2445]
 ```
 
-2026-11-11 2,448 → 2026-11-18 2,446（-2）
+2026-11-11 2,448 → 2026-11-19 2,445（-3）
 
 
 ---

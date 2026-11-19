@@ -1,6 +1,6 @@
 # plurnk/plurnk
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/plurnk/plurnk) · [官网](https://www.npmjs.com/package/@plurnk/plurnk) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/plurnk/plurnk) · [官网](https://www.npmjs.com/package/@plurnk/plurnk) · 个人维护
 
 **给开发者的终端编码 Agent：模型自策上下文与可组合工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "plurnk/plurnk 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-11-08 10 → 2026-11-18 12（+2）
+2026-11-08 10 → 2026-11-19 12（+2）
 
 
 ---

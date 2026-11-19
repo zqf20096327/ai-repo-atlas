@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bojieli/checkpoint-forensics 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18"]
+    title "bojieli/checkpoint-forensics 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 5 --> 12
-    line [6, 8, 11]
+    line [6, 8, 11, 11]
 ```
 
-2026-11-15 6 → 2026-11-18 11（+5）
+2026-11-15 6 → 2026-11-19 11（+5）
 
 
 ---

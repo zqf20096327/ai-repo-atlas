@@ -1,6 +1,6 @@
 # kylepelham/Drift
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kylepelham/Drift) · [官网](https://driftagent.dev) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kylepelham/Drift) · [官网](https://driftagent.dev) · 个人维护
 
 **Windows 桌面 AI 编码代理：Rust 引擎管理多模型编码会话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kylepelham/Drift 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
     y-axis "stars" 15 --> 19
     line [18, 16, 17, 16, 18, 17, 18, 18]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 18（+0）
 
 
 ---

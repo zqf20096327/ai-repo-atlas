@@ -1,6 +1,6 @@
 # chihumyum/Drifting
 
-⭐ 63 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/chihumyum/Drifting) · [官网](https://drifting.cc) · 个人维护 · 中文 README
+⭐ 66 · Rust · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/chihumyum/Drifting) · [官网](https://drifting.cc) · 个人维护 · 中文 README
 
 **本地优先的 AI 原生小说写作应用，带全书 AI Agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "chihumyum/Drifting 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 28 --> 66
-    line [31, 34, 38, 41, 44, 49, 54, 57, 63]
+    title "chihumyum/Drifting 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 28 --> 69
+    line [31, 34, 38, 41, 44, 49, 54, 57, 63, 66]
 ```
 
-2026-11-08 31 → 2026-11-18 63（+32）
+2026-11-08 31 → 2026-11-19 66（+35）
 
 
 ---

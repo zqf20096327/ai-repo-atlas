@@ -1,6 +1,6 @@
 # sebytzr16/on-device-llm
 
-⭐ 24 · Dart · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/sebytzr16/on-device-llm) · [官网](https://github.com/sebytzr16/on-device-llm/releases/latest) · 个人维护
+⭐ 25 · Dart · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/sebytzr16/on-device-llm) · [官网](https://github.com/sebytzr16/on-device-llm/releases/latest) · 个人维护
 
 **Android/Windows 本地离线 AI 助手：手机或 PC 上运行 GGUF 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sebytzr16/on-device-llm 星数(近 15 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 26
-    line [4, 5, 7, 8, 9, 11, 12, 4, 18, 19, 20, 21, 22, 23, 24]
+    title "sebytzr16/on-device-llm 星数(近 16 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 2 --> 27
+    line [4, 5, 7, 8, 9, 11, 12, 4, 18, 19, 20, 21, 22, 23, 24, 25]
 ```
 
-2026-10-23 4 → 2026-11-18 24（+20）
+2026-10-23 4 → 2026-11-19 25（+21）
 
 
 ---

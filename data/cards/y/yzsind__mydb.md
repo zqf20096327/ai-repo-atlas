@@ -1,6 +1,6 @@
 # yzsind/mydb
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/yzsind/mydb) · 个人维护
+⭐ 53 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/yzsind/mydb) · 个人维护
 
 **Rust 编写的 MySQL 兼容 HTAP 数据库，内置向量检索与 AI 调用**
 
@@ -39,6 +39,18 @@
 
 > L11: MyDB is a general-purpose database built in Rust for **HTAP (hybrid
 > L238: - **Local and remote services**: configure SQL connection and model objects for Ollama, OpenAI Responses, Chat Com
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yzsind/mydb 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 56
+    line [19, 53]
+```
+
+2026-11-18 19 → 2026-11-19 53（+34）
 
 
 ---

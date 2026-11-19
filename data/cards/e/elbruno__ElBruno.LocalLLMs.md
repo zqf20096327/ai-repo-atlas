@@ -1,6 +1,6 @@
 # elbruno/ElBruno.LocalLLMs
 
-⭐ 26 · C# · MIT · 推送 2026-11-14 · [GitHub](https://github.com/elbruno/ElBruno.LocalLLMs) · 个人维护
+⭐ 26 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/elbruno/ElBruno.LocalLLMs) · 个人维护
 
 **.NET 本地 LLM 聊天库：经 IChatClient 运行 ONNX 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elbruno/ElBruno.LocalLLMs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-19"]
     y-axis "stars" 22 --> 27
     line [23, 24, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-18 26（+3）
+2026-10-18 23 → 2026-11-19 26（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # saturncloud/examples
 
-⭐ 18 · Python · BSD-3-Clause · 推送 2026-06-23 · [GitHub](https://github.com/saturncloud/examples) · [官网](https://saturncloud.io/docs/examples/) · 组织维护
+⭐ 18 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/saturncloud/examples) · [官网](https://saturncloud.io/docs/examples/) · 组织维护
 
 **Saturn Cloud 平台的示例项目与默认模板资源合集**
 
@@ -45,12 +45,12 @@ Saturn Cloud 官方维护的示例项目仓库，其中多数示例被用作每�
 ```mermaid
 xychart-beta
     title "saturncloud/examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 18（+0）
 
 
 ---

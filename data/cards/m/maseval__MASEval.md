@@ -1,6 +1,6 @@
 # maseval/MASEval
 
-⭐ 42 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/maseval/MASEval) · [官网](https://maseval.github.io/MASEval/) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/maseval/MASEval) · [官网](https://maseval.github.io/MASEval/) · 组织维护
 
 **多智能体系统评测基准框架：统一接口跑基准测试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "maseval/MASEval 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 39 --> 43
-    line [40, 41, 40, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 39 --> 44
+    line [40, 41, 40, 41, 42, 43]
 ```
 
-2026-10-18 40 → 2026-11-18 42（+2）
+2026-10-18 40 → 2026-11-19 43（+3）
 
 
 ---

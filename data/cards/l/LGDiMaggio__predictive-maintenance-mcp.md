@@ -1,6 +1,6 @@
 # LGDiMaggio/predictive-maintenance-mcp
 
-⭐ 117 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/LGDiMaggio/predictive-maintenance-mcp) · [官网](https://lgdimaggio.github.io/predictive-maintenance-mcp/) · 个人维护
+⭐ 117 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/LGDiMaggio/predictive-maintenance-mcp) · [官网](https://lgdimaggio.github.io/predictive-maintenance-mcp/) · 个人维护
 
 **面向可靠性工程师的振动诊断 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LGDiMaggio/predictive-maintenance-mcp 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
+    title "LGDiMaggio/predictive-maintenance-mcp 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19"]
     y-axis "stars" 101 --> 118
-    line [102, 105, 106, 107, 106, 110, 113, 114, 117]
+    line [102, 105, 106, 107, 106, 110, 113, 114, 117, 117]
 ```
 
-2026-10-18 102 → 2026-11-18 117（+15）
+2026-10-18 102 → 2026-11-19 117（+15）
 
 
 ---

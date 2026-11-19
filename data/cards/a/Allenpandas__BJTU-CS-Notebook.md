@@ -1,6 +1,6 @@
 # Allenpandas/BJTU-CS-Notebook
 
-⭐ 404 · Jupyter Notebook · NOASSERTION · 推送 2025-12-23 · [GitHub](https://github.com/Allenpandas/BJTU-CS-Notebook) · 个人维护 · 中文 README
+⭐ 405 · Jupyter Notebook · NOASSERTION · 推送 2025-12-23 · [GitHub](https://github.com/Allenpandas/BJTU-CS-Notebook) · 个人维护 · 中文 README
 
 **北交大计算机学院研究生课程资料与考试整理合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Allenpandas/BJTU-CS-Notebook 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 390 --> 405
-    line [391, 393, 394, 391, 397, 399, 400, 401, 402, 403, 404]
+    title "Allenpandas/BJTU-CS-Notebook 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 390 --> 406
+    line [391, 393, 394, 391, 397, 399, 400, 401, 402, 403, 404, 405]
 ```
 
-2026-10-18 391 → 2026-11-18 404（+13）
+2026-10-18 391 → 2026-11-19 405（+14）
 
 
 ---

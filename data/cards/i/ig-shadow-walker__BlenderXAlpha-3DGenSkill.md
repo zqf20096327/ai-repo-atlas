@@ -1,6 +1,6 @@
 # ig-shadow-walker/BlenderXAlpha-3DGenSkill
 
-⭐ 31 · JavaScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/ig-shadow-walker/BlenderXAlpha-3DGenSkill) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/ig-shadow-walker/BlenderXAlpha-3DGenSkill) · 个人维护
 
 **让 AI 编码 agent 在 Blender 中按英文描述生成并布置 3D 场景**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ig-shadow-walker/BlenderXAlpha-3DGenSkill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32]
 ```
 
-2026-10-18 30 → 2026-11-18 31（+1）
+2026-10-18 30 → 2026-11-19 32（+2）
 
 
 ---

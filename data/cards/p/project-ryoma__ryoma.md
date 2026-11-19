@@ -1,6 +1,6 @@
 # project-ryoma/ryoma
 
-⭐ 405 · Python · Apache-2.0 · 推送 2026-02-01 · [GitHub](https://github.com/project-ryoma/ryoma) · [官网](https://project-ryoma.github.io/ryoma/) · 组织维护
+⭐ 404 · Python · Apache-2.0 · 推送 2026-02-01 · [GitHub](https://github.com/project-ryoma/ryoma) · [官网](https://project-ryoma.github.io/ryoma/) · 组织维护
 
 **面向数据分析/工程/可视化的 AI 数据 Agent 框架**
 
@@ -46,12 +46,12 @@ Ryoma 是一个 Python AI 数据 Agent 框架，提供 SQL Agent 等能力：连
 ```mermaid
 xychart-beta
     title "project-ryoma/ryoma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 404 --> 406
-    line [405, 405]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 403 --> 406
+    line [405, 404]
 ```
 
-2026-10-18 405 → 2026-11-18 405（+0）
+2026-10-18 405 → 2026-11-19 404（-1）
 
 
 ---

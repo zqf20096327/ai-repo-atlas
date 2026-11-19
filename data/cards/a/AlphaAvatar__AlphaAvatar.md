@@ -1,6 +1,6 @@
 # AlphaAvatar/AlphaAvatar
 
-⭐ 823 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/AlphaAvatar/AlphaAvatar) · [官网](https://www.alphaavatar.ai) · 组织维护
+⭐ 823 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/AlphaAvatar/AlphaAvatar) · [官网](https://www.alphaavatar.ai) · 组织维护
 
 **自托管全模态实时个人 AI 助手框架，面向所有人**
 
@@ -44,13 +44,13 @@ AlphaAvatar 是一个可自托管的 Omni 个人助手框架，围绕插件化�
 
 ```mermaid
 xychart-beta
-    title "AlphaAvatar/AlphaAvatar 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-18"]
+    title "AlphaAvatar/AlphaAvatar 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 817 --> 824
-    line [818, 819, 821, 822, 823]
+    line [818, 819, 821, 822, 823, 823]
 ```
 
-2026-10-18 818 → 2026-11-18 823（+5）
+2026-10-18 818 → 2026-11-19 823（+5）
 
 
 ---

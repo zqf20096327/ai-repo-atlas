@@ -1,6 +1,6 @@
 # black-roland/homeassistant-cloud-ru-ai
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/black-roland/homeassistant-cloud-ru-ai) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/black-roland/homeassistant-cloud-ru-ai) · 个人维护
 
 **将 Cloud.ru 基础模型接入 Home Assistant 的 AI 助手集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "black-roland/homeassistant-cloud-ru-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-18 12（+2）
+2026-10-18 10 → 2026-11-19 12（+2）
 
 
 ---

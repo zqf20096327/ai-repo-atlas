@@ -1,6 +1,6 @@
 # ALPERDURUKAN/LiveFacer
 
-⭐ 28 · Python · 推送 2026-10-31 · [GitHub](https://github.com/ALPERDURUKAN/LiveFacer) · [官网](https://durq.gumroad.com/l/livefacer) · 个人维护
+⭐ 26 · Python · 推送 2026-10-31 · [GitHub](https://github.com/ALPERDURUKAN/LiveFacer) · [官网](https://durq.gumroad.com/l/livefacer) · 个人维护
 
 **实时人脸换脸应用：面向主播、创作者与视频通话用户**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ALPERDURUKAN/LiveFacer 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 27 --> 33
-    line [30, 31, 32, 31, 32, 31, 30, 29, 28]
+    title "ALPERDURUKAN/LiveFacer 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 25 --> 33
+    line [30, 31, 32, 31, 32, 31, 30, 29, 28, 26]
 ```
 
-2026-10-18 30 → 2026-11-18 28（-2）
+2026-10-18 30 → 2026-11-19 26（-4）
 
 
 ---

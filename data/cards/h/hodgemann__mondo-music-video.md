@@ -1,6 +1,6 @@
 # hodgemann/mondo-music-video
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/hodgemann/mondo-music-video) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/hodgemann/mondo-music-video) · 个人维护
 
 **把歌曲转成完整音乐视频的应用：节拍感知规划+LLM 写提示词+渲染合成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hodgemann/mondo-music-video 星数(近 8 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 9 --> 18
-    line [10, 11, 12, 14, 15, 16, 17, 17]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 9 --> 19
+    line [10, 11, 12, 14, 15, 16, 17, 18]
 ```
 
-2026-10-31 10 → 2026-11-18 17（+7）
+2026-10-31 10 → 2026-11-19 18（+8）
 
 
 ---

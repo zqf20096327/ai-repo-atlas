@@ -1,6 +1,6 @@
 # cyberofficial/Synthalingua
 
-⭐ 425 · Python · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/cyberofficial/Synthalingua) · [官网](https://x.com/SynthalinguaGH) · 个人维护
+⭐ 424 · Python · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/cyberofficial/Synthalingua) · [官网](https://x.com/SynthalinguaGH) · 个人维护
 
 **自托管的近实时语音翻译与转录工具（直播/麦克风/文件）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyberofficial/Synthalingua 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
     y-axis "stars" 417 --> 426
-    line [418, 419, 420, 419, 423, 424, 425, 425]
+    line [418, 419, 420, 419, 423, 424, 425, 424]
 ```
 
-2026-10-18 418 → 2026-11-18 425（+7）
+2026-10-18 418 → 2026-11-19 424（+6）
 
 
 ---

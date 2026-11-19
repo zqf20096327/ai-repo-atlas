@@ -1,6 +1,6 @@
 # adybag14-cyber/Abliteration
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/adybag14-cyber/Abliteration) · [官网](https://adybag14-cyber.github.io/Abliteration/) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/adybag14-cyber/Abliteration) · [官网](https://adybag14-cyber.github.io/Abliteration/) · 个人维护
 
 **LLM abliteration（拒绝方向消除）方法手册与配套脚本合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adybag14-cyber/Abliteration 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 9 --> 16
     line [10, 11, 12, 14, 15, 15]
 ```
 
-2026-10-26 10 → 2026-11-18 15（+5）
+2026-10-26 10 → 2026-11-19 15（+5）
 
 
 ---

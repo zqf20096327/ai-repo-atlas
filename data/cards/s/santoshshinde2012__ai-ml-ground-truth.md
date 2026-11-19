@@ -1,6 +1,6 @@
 # santoshshinde2012/ai-ml-ground-truth
 
-⭐ 41 · JavaScript · CC-BY-4.0 · 推送 2026-11-13 · [GitHub](https://github.com/santoshshinde2012/ai-ml-ground-truth) · [官网](https://santoshshinde2012.github.io/ai-ml-ground-truth/) · 个人维护
+⭐ 42 · JavaScript · CC-BY-4.0 · 推送 2026-11-13 · [GitHub](https://github.com/santoshshinde2012/ai-ml-ground-truth) · [官网](https://santoshshinde2012.github.io/ai-ml-ground-truth/) · 个人维护
 
 **面向在职开发者的 AI/ML 交互式电子书与实践指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "santoshshinde2012/ai-ml-ground-truth 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 38 --> 42
-    line [39, 41, 41]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 38 --> 43
+    line [39, 41, 42]
 ```
 
-2026-10-31 39 → 2026-11-18 41（+2）
+2026-10-31 39 → 2026-11-19 42（+3）
 
 
 ---

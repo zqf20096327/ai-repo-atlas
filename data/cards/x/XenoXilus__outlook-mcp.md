@@ -1,6 +1,6 @@
 # XenoXilus/outlook-mcp
 
-⭐ 32 · JavaScript · 推送 2026-11-03 · [GitHub](https://github.com/XenoXilus/outlook-mcp) · 个人维护
+⭐ 33 · JavaScript · 推送 2026-11-03 · [GitHub](https://github.com/XenoXilus/outlook-mcp) · 个人维护
 
 **让 AI 助手经 Microsoft Graph 读写 Outlook 邮件日历的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "XenoXilus/outlook-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-13", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 28 --> 34
+    line [29, 30, 31, 32, 33]
 ```
 
-2026-10-18 29 → 2026-11-18 32（+3）
+2026-10-18 29 → 2026-11-19 33（+4）
 
 
 ---

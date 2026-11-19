@@ -1,6 +1,6 @@
 # OpenMontageInc/OpenMontage
 
-⭐ 81,338 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/OpenMontageInc/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护 · 中文 README
+⭐ 81,552 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/OpenMontageInc/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护 · 中文 README
 
 **把 AI 编程助手变成完整视频制作工作室的开源系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenMontageInc/OpenMontage 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 78324 --> 81612
-    line [78598, 79400, 79672, 80001, 80260, 80468, 80675, 81001, 81338]
+    title "OpenMontageInc/OpenMontage 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 78303 --> 81847
+    line [78598, 79400, 79672, 80001, 80260, 80468, 80675, 81001, 81338, 81552]
 ```
 
-2026-11-08 78,598 → 2026-11-18 81,338（+2,740）
+2026-11-08 78,598 → 2026-11-19 81,552（+2,954）
 
 
 ---

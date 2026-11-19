@@ -1,6 +1,6 @@
 # open-edge-platform/datumaro
 
-⭐ 701 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/open-edge-platform/datumaro) · [官网](https://open-edge-platform.github.io/datumaro) · 组织维护
+⭐ 701 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/open-edge-platform/datumaro) · [官网](https://open-edge-platform.github.io/datumaro) · 组织维护
 
 **构建、转换、分析计算机视觉数据集的 Python 库与 CLI**
 
@@ -44,13 +44,13 @@ Dataset Management Framework (Datumaro) 是一个 Python 库加 CLI 工具，用
 
 ```mermaid
 xychart-beta
-    title "open-edge-platform/datumaro 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    title "open-edge-platform/datumaro 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
     y-axis "stars" 691 --> 702
-    line [692, 695, 696, 695, 698, 700, 701]
+    line [692, 695, 696, 695, 698, 700, 701, 701]
 ```
 
-2026-10-18 692 → 2026-11-18 701（+9）
+2026-10-18 692 → 2026-11-19 701（+9）
 
 
 ---

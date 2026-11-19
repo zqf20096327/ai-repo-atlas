@@ -1,6 +1,6 @@
 # molly554/whiteboard-ai-tutor
 
-⭐ 220 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/molly554/whiteboard-ai-tutor) · [官网](https://molly554.github.io/whiteboard-ai-tutor/) · 个人维护 · 中文 README
+⭐ 256 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/molly554/whiteboard-ai-tutor) · [官网](https://molly554.github.io/whiteboard-ai-tutor/) · 个人维护 · 中文 README
 
 **白板 AI 导师参考实现与六大模型教学能力基准**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "molly554/whiteboard-ai-tutor 星数(近 7 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 240
-    line [14, 53, 95, 137, 183, 208, 220]
+    title "molly554/whiteboard-ai-tutor 星数(近 8 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 280
+    line [14, 53, 95, 137, 183, 208, 220, 256]
 ```
 
-2026-11-11 14 → 2026-11-18 220（+206）
+2026-11-11 14 → 2026-11-19 256（+242）
 
 
 ---

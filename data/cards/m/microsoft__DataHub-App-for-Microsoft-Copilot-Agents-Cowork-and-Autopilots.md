@@ -1,6 +1,6 @@
 # microsoft/DataHub-App-for-Microsoft-Copilot-Agents-Cowork-and-Autopilots
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/DataHub-App-for-Microsoft-Copilot-Agents-Cowork-and-Autopilots) · 组织维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/DataHub-App-for-Microsoft-Copilot-Agents-Cowork-and-Autopilots) · 组织维护
 
 **分析组织内 Microsoft 365 Copilot 与 agent 使用量及价值估算的报表应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/DataHub-App-for-Microsoft-Copilot-Agents-Cowork-and-Autopilots 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-08 10 → 2026-11-18 12（+2）
+2026-11-08 10 → 2026-11-19 13（+3）
 
 
 ---

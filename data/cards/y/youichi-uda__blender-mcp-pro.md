@@ -1,6 +1,6 @@
 # youichi-uda/blender-mcp-pro
 
-⭐ 33 · Python · 推送 2026-04-15 · [GitHub](https://github.com/youichi-uda/blender-mcp-pro) · [官网](https://blender-mcp-pro.abyo.net) · 个人维护
+⭐ 34 · Python · 推送 2026-04-15 · [GitHub](https://github.com/youichi-uda/blender-mcp-pro) · [官网](https://blender-mcp-pro.abyo.net) · 个人维护
 
 **付费 MCP 服务器：让 Claude/Cursor 等 AI 助手控制 Blender**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "youichi-uda/blender-mcp-pro 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 31, 33, 33]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 31, 33, 34]
 ```
 
-2026-10-18 31 → 2026-11-18 33（+2）
+2026-10-18 31 → 2026-11-19 34（+3）
 
 
 ---

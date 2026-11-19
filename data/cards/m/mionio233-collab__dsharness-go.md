@@ -1,6 +1,6 @@
 # mionio233-collab/dsharness-go
 
-⭐ 14 · Kotlin · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/mionio233-collab/dsharness-go) · [官网](https://dsharnessgo.top/) · 组织维护 · 中文 README
+⭐ 16 · Kotlin · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/mionio233-collab/dsharness-go) · [官网](https://dsharnessgo.top/) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的原生 Android 客户端，可本地或 API 跑模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mionio233-collab/dsharness-go 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 15
-    line [3, 5, 6, 5, 10, 13, 14, 14]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 2 --> 17
+    line [3, 5, 6, 5, 10, 13, 14, 16]
 ```
 
-2026-10-22 3 → 2026-11-18 14（+11）
+2026-10-22 3 → 2026-11-19 16（+13）
 
 
 ---

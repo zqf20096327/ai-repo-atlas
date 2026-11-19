@@ -1,6 +1,6 @@
 # CaviraOSS/SecuPrompt
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2025-11-22 · [GitHub](https://github.com/CaviraOSS/SecuPrompt) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **LLM 提示词防火墙：在输入到达模型前拦截注入与越狱**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |

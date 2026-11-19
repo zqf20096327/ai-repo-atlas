@@ -1,6 +1,6 @@
 # nestjs/ai
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nestjs/ai) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/nestjs/ai) · 组织维护
 
 **Nest 框架的 AI 模块：依赖注入方式接入语言模型与构建 agent**
 
@@ -46,12 +46,12 @@ NestJS 官方生态的 AI 集成模块，基于 Vercel AI SDK 构建：通过命
 ```mermaid
 xychart-beta
     title "nestjs/ai 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-19"]
     y-axis "stars" 16 --> 22
     line [17, 19, 20, 21, 21]
 ```
 
-2026-11-08 17 → 2026-11-18 21（+4）
+2026-11-08 17 → 2026-11-19 21（+4）
 
 
 ---

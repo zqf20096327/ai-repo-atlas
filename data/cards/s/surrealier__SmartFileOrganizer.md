@@ -1,6 +1,6 @@
 # surrealier/SmartFileOrganizer
 
-⭐ 12 · Shell · 推送 2026-10-19 · [GitHub](https://github.com/surrealier/SmartFileOrganizer) · 个人维护
+⭐ 13 · Shell · 推送 2026-10-19 · [GitHub](https://github.com/surrealier/SmartFileOrganizer) · 个人维护
 
 **让 AI agent 按文件内容重命名并整理文档的技能**
 
@@ -41,6 +41,18 @@
 > L5:  AI agent skill that renames files based on what's inside them — PDF, Word, Excel, PowerPoint and Korean HWP/HWPX do
 > L20: - Dry-run approval flow — iterates until user explicitly approves.
 > L83: Works with skills.sh-compatible agents, including Kiro CLI, Claude Code, Cursor, Windsurf, Cline, and others.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "surrealier/SmartFileOrganizer 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
+```
+
+2026-11-18 12 → 2026-11-19 13（+1）
 
 
 ---

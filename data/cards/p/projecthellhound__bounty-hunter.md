@@ -1,6 +1,6 @@
 # projecthellhound/bounty-hunter
 
-⭐ 12 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/projecthellhound/bounty-hunter) · 组织维护
+⭐ 12 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/projecthellhound/bounty-hunter) · 组织维护
 
 **自主漏洞赏金/渗透测试 AI agent：从侦察到利用到报告**
 
@@ -40,6 +40,18 @@
 
 > L40: **Bounty Hunter** (nickname **"Beast"**) is an **autonomous AI agent for bug bounty and penetration testing**, buil
 > L7:  Point it at a target in plain English. It runs the recon, finds and exploits the bug — XSS proven by a real <code>a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "projecthellhound/bounty-hunter 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-18 12 → 2026-11-19 12（+0）
 
 
 ---

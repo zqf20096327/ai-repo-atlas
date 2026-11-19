@@ -1,6 +1,6 @@
 # pgsty/vchord
 
-⭐ 14 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/pgsty/vchord) · [官网](https://vchord.pgsty.com/docs/vchord) · 组织维护
+⭐ 15 · Rust · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/pgsty/vchord) · [官网](https://vchord.pgsty.com/docs/vchord) · 组织维护
 
 **PostgreSQL 向量相似度检索扩展：磁盘友好的大规模 ANN 索引**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pgsty/vchord 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 3 --> 15
-    line [4, 11, 12, 13, 14, 14]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 3 --> 16
+    line [4, 11, 12, 13, 14, 15]
 ```
 
-2026-11-02 4 → 2026-11-18 14（+10）
+2026-11-02 4 → 2026-11-19 15（+11）
 
 
 ---

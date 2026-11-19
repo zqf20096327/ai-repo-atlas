@@ -1,6 +1,6 @@
 # kianakaslana20/astrbot_plugin_pojia
 
-⭐ 13 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kianakaslana20/astrbot_plugin_pojia) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kianakaslana20/astrbot_plugin_pojia) · 个人维护 · 中文 README
 
 **AstrBot 插件：注入提示词并重试拒绝，绕开模型拒答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kianakaslana20/astrbot_plugin_pojia 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 3 --> 14
-    line [4, 11, 12, 13, 13]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 3 --> 15
+    line [4, 11, 12, 13, 14]
 ```
 
-2026-11-02 4 → 2026-11-18 13（+9）
+2026-11-02 4 → 2026-11-19 14（+10）
 
 
 ---

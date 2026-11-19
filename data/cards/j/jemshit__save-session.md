@@ -1,6 +1,6 @@
 # jemshit/save-session
 
-⭐ 60 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jemshit/save-session) · 个人维护
+⭐ 220 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jemshit/save-session) · 个人维护
 
 **给 AI 编码代理用户：按项目名保存、查找并恢复会话的技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jemshit/save-session 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    x-axis ["2026-11-08", "2026-11-19"]
+    y-axis "stars" 44 --> 236
+    line [60, 220]
 ```
 
-2026-11-08 60 → 2026-11-18 60（+0）
+2026-11-08 60 → 2026-11-19 220（+160）
 
 
 ---

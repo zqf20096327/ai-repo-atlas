@@ -1,6 +1,6 @@
 # Igualguana/AUTOCAD-ELECTRICAL-MCP
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-04-15 · [GitHub](https://github.com/Igualguana/AUTOCAD-ELECTRICAL-MCP) · 个人维护
+⭐ 24 · Python · AGPL-3.0 · 推送 2026-04-15 · [GitHub](https://github.com/Igualguana/AUTOCAD-ELECTRICAL-MCP) · 个人维护
 
 **用自然语言控制 AutoCAD Electrical 的 MCP 服务器与本地 Web 控制台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Igualguana/AUTOCAD-ELECTRICAL-MCP 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 18 --> 24
-    line [19, 20, 21, 23, 23]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 21, 23, 24]
 ```
 
-2026-10-18 19 → 2026-11-18 23（+4）
+2026-10-18 19 → 2026-11-19 24（+5）
 
 
 ---

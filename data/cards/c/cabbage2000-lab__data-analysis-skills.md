@@ -1,6 +1,6 @@
 # cabbage2000-lab/data-analysis-skills
 
-⭐ 24 · HTML · MIT · 推送 2026-10-10 · [GitHub](https://github.com/cabbage2000-lab/data-analysis-skills) · 个人维护 · 中文 README
+⭐ 25 · HTML · MIT · 推送 2026-10-10 · [GitHub](https://github.com/cabbage2000-lab/data-analysis-skills) · 个人维护 · 中文 README
 
 **装进编程智能体的数据分析 skill：数据文件变交互式 HTML 分析报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cabbage2000-lab/data-analysis-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 19 --> 25
-    line [20, 21, 22, 24, 21, 24, 24]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 19 --> 26
+    line [20, 21, 22, 24, 21, 24, 25]
 ```
 
-2026-10-18 20 → 2026-11-18 24（+4）
+2026-10-18 20 → 2026-11-19 25（+5）
 
 
 ---

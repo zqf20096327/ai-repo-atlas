@@ -1,6 +1,6 @@
 # kristopolous/dyva
 
-⭐ 32 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kristopolous/dyva) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kristopolous/dyva) · 个人维护
 
 **动态 AI 代理：将公网扫描到的模型主机聚合成统一路由池**
 
@@ -45,12 +45,12 @@ Dyva 是一个动态代理，从 Shodan、ZoomEye、Censys、hunter.how、FOFA �
 ```mermaid
 xychart-beta
     title "kristopolous/dyva 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 27 --> 33
-    line [28, 29, 30, 31, 32, 29, 32, 32]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 30, 31, 32, 29, 32, 33]
 ```
 
-2026-10-18 28 → 2026-11-18 32（+4）
+2026-10-18 28 → 2026-11-19 33（+5）
 
 
 ---

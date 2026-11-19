@@ -1,10 +1,10 @@
 # stancaedy10-glitch/ai--manus
 
-⭐ 202 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/stancaedy10-glitch/ai--manus) · 个人维护
+⭐ 202 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/stancaedy10-glitch/ai--manus) · 个人维护
 
-**面向日常任务的自主 AI Agent：代用户运行代码与操控浏览器**
+**通用 AI Agent 系统：代用户执行代码与浏览器操作**
 
-自主式 AI Agent 应用，面向家庭、学习与轻量办公场景的用户：代理执行代码编写与运行、浏览器操作（导航网页、填表、采集信息）及多步骤任务，可在后台作为个人助理待命，跨会话记忆工作流模式。README 未给出具体的安装命令、模型接入方式或技术栈细节，仅提供兼容性硬件参考（最低双核 CPU、4GB 内存）与使用步骤说明。定位为小规模任务的专注助手，非企业平台。
+自称通用 AI Agent 系统，在沙盒环境中运行工具与操作：自主执行代码、控制浏览器导航/填表/收集信息、处理多步骤任务，并提供后台个人助理模式。README 未给出安装命令、代码结构或接口说明，仅提供兼容性要求（64 位系统、4GB 内存、8GB 推荐）与从准备、配置、测试到维护的六步使用流程。面向家庭、学习与轻量办公场景的用户，强调无需开发者背景即可使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 自主执行代码与脚本完成多步任务
-- 浏览器控制：导航网页、填写表单、采集信息
-- 后台待命的个人助理模式，跨会话复用工作流
-- 代码与浏览器操作可在一个流程中衔接
+- 在沙盒环境中自主执行代码完成任务
+- 浏览器控制：导航网页、填写表单、收集信息
+- 多步骤自主任务与跨会话的流程记忆
+- 面向家庭/学习/轻量办公的小规模任务定位
 
 ## 适用场景
 
-- 让学生整理研究笔记、跑快速计算
-- 让代理代替我在多个网页间收集数据并汇总
-- 把重复性的小型任务委托给后台代理处理
+- 让 agent 代为抓取多个网页的信息并汇总
+- 自动完成整理研究笔记、运行小脚本等重复工作
+- 日常轻度办公任务的多标签页信息收集与摘要准备
 
 ## 场景标签
 
@@ -37,21 +37,21 @@
 
 ## 证据(README 行号)
 
-> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
+> L39: |**Operating System**|Modern 64-bit system|Current OS with updated runtime|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "stancaedy10-glitch/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 134 --> 286
     line [146, 274, 202, 202]
 ```
 
-2026-11-13 146 → 2026-11-18 202（+56）
+2026-11-13 146 → 2026-11-19 202（+56）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `32e48e22fb91` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `50abd95065e7` · [字段定义](../../DATASET.md)*

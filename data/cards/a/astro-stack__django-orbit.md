@@ -1,6 +1,6 @@
 # astro-stack/django-orbit
 
-⭐ 181 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/astro-stack/django-orbit) · [官网](https://labs.wearehik.com/django-orbit) · 组织维护
+⭐ 181 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/astro-stack/django-orbit) · [官网](https://labs.wearehik.com/django-orbit) · 组织维护
 
 **面向 AI agent 的 Django 运行时证据记录与调试工具**
 
@@ -47,12 +47,12 @@ Django 中间件/应用，捕获 HTTP 请求、SQL、慢查询与 N+1 候选、�
 ```mermaid
 xychart-beta
     title "astro-stack/django-orbit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
     y-axis "stars" 179 --> 182
     line [180, 181, 181]
 ```
 
-2026-10-18 180 → 2026-11-18 181（+1）
+2026-10-18 180 → 2026-11-19 181（+1）
 
 
 ---

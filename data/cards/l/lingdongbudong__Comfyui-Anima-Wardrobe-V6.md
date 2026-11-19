@@ -1,6 +1,6 @@
 # lingdongbudong/Comfyui-Anima-Wardrobe-V6
 
-⭐ 32 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V6) · 个人维护 · 中文 README
+⭐ 33 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V6) · 个人维护 · 中文 README
 
 **给 ComfyUI/Anima 出图用户的提示词随机生成节点（含 NSFW 分级）**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点插件，面向 Anima 底模的出图工作流：按五�
 
 ```mermaid
 xychart-beta
-    title "lingdongbudong/Comfyui-Anima-Wardrobe-V6 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 34
-    line [4, 9, 11, 16, 21, 25, 32]
+    title "lingdongbudong/Comfyui-Anima-Wardrobe-V6 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 2 --> 35
+    line [4, 9, 11, 16, 21, 25, 32, 33]
 ```
 
-2026-11-08 4 → 2026-11-18 32（+28）
+2026-11-08 4 → 2026-11-19 33（+29）
 
 
 ---

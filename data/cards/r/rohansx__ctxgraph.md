@@ -1,6 +1,6 @@
 # rohansx/ctxgraph
 
-⭐ 39 · Rust · MIT · 推送 2026-06-23 · [GitHub](https://github.com/rohansx/ctxgraph) · [官网](https://ctxgraph.io) · 个人维护
+⭐ 40 · Rust · MIT · 推送 2026-06-23 · [GitHub](https://github.com/rohansx/ctxgraph) · [官网](https://ctxgraph.io) · 个人维护
 
 **面向 AI agent 的本地优先类型化知识图谱引擎（Rust 单二进制）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohansx/ctxgraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 39]
+    title "rohansx/ctxgraph 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 36 --> 41
+    line [37, 38, 39, 40]
 ```
 
-2026-10-18 37 → 2026-11-18 39（+2）
+2026-10-18 37 → 2026-11-19 40（+3）
 
 
 ---

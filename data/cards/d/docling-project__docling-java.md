@@ -1,6 +1,6 @@
 # docling-project/docling-java
 
-⭐ 144 · Java · MIT · 推送 2026-11-17 · [GitHub](https://github.com/docling-project/docling-java) · [官网](https://docling-project.github.io/docling-java/) · 组织维护
+⭐ 144 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/docling-project/docling-java) · [官网](https://docling-project.github.io/docling-java/) · 组织维护
 
 **Docling 文档转换能力的 Java API 与客户端库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "docling-project/docling-java 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 140 --> 145
     line [141, 142, 141, 144, 144]
 ```
 
-2026-10-18 141 → 2026-11-18 144（+3）
+2026-10-18 141 → 2026-11-19 144（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # openminion/openminion
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/openminion/openminion) · 组织维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/openminion/openminion) · 组织维护
 
 **本地优先的 Python 工具调用 AI agent 运行时**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "openminion/openminion 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 27 --> 39
-    line [28, 29, 30, 33, 37, 38]
+    title "openminion/openminion 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 27 --> 41
+    line [28, 29, 30, 33, 37, 38, 40]
 ```
 
-2026-11-12 28 → 2026-11-18 38（+10）
+2026-11-12 28 → 2026-11-19 40（+12）
 
 
 ---

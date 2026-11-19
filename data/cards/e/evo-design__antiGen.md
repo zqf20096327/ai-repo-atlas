@@ -1,6 +1,6 @@
 # evo-design/antiGen
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/evo-design/antiGen) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/evo-design/antiGen) · 组织维护
 
 **基于系统发生树预测病毒蛋白未来突变的科研模型**
 
@@ -46,13 +46,13 @@ antiGen 从带突变注释的系统发生树生成训练数据，训练后输出
 
 ```mermaid
 xychart-beta
-    title "evo-design/antiGen 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-18"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "evo-design/antiGen 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-31 10 → 2026-11-18 11（+1）
+2026-10-31 10 → 2026-11-19 12（+2）
 
 
 ---

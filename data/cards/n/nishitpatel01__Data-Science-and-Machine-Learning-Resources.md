@@ -1,6 +1,6 @@
 # nishitpatel01/Data-Science-and-Machine-Learning-Resources
 
-⭐ 78 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/nishitpatel01/Data-Science-and-Machine-Learning-Resources) · 个人维护
+⭐ 78 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/nishitpatel01/Data-Science-and-Machine-Learning-Resources) · 个人维护
 
 **个人维护的数据科学与机器学习学习资源链接清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "nishitpatel01/Data-Science-and-Machine-Learning-Resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 76 --> 79
     line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-11-18 78（+1）
+2026-10-18 77 → 2026-11-19 78（+1）
 
 
 ---

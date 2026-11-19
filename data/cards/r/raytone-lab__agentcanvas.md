@@ -1,6 +1,6 @@
 # raytone-lab/agentcanvas
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/raytone-lab/agentcanvas) · 组织维护 · 中文 README
+⭐ 27 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/raytone-lab/agentcanvas) · 组织维护 · 中文 README
 
 **可视化配置并导出 Agent 前端 React 工程的生成器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raytone-lab/agentcanvas 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 17 --> 27
-    line [18, 19, 22, 19, 26, 26]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 17 --> 28
+    line [18, 19, 22, 19, 26, 27]
 ```
 
-2026-10-18 18 → 2026-11-18 26（+8）
+2026-10-18 18 → 2026-11-19 27（+9）
 
 
 ---

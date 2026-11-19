@@ -1,6 +1,6 @@
 # seangalliher/ProbOS
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/seangalliher/ProbOS) · [官网](https://probos.dev) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/seangalliher/ProbOS) · [官网](https://probos.dev) · 个人维护
 
 **以自主 agent 为组件的实验性操作系统运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "seangalliher/ProbOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-18 14（+1）
+2026-10-18 13 → 2026-11-19 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # 8hjkkwikl8/ai-portfolio
 
-⭐ 105 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/8hjkkwikl8/ai-portfolio) · [官网](https://8hjkkwikl8.github.io/ai-portfolio/) · 个人维护 · 中文 README
+⭐ 106 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/8hjkkwikl8/ai-portfolio) · [官网](https://8hjkkwikl8.github.io/ai-portfolio/) · 个人维护 · 中文 README
 
 **AI 应用工程师求职作品集：可追溯 RAG、提示词评测与安全 NL2SQL 三个项目**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "8hjkkwikl8/ai-portfolio 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 33 --> 111
-    line [39, 81, 100, 101, 105, 105]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 33 --> 112
+    line [39, 81, 100, 101, 105, 106]
 ```
 
-2026-11-11 39 → 2026-11-18 105（+66）
+2026-11-11 39 → 2026-11-19 106（+67）
 
 
 ---

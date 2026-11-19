@@ -1,6 +1,6 @@
 # cascade-protocol/agentbox
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/cascade-protocol/agentbox) · [官网](https://agentbox.fyi) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/cascade-protocol/agentbox) · [官网](https://agentbox.fyi) · 组织维护
 
 **供给并管理 OpenClaw VM 实例的运维面板与后端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cascade-protocol/agentbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 14（+1）
 
 
 ---

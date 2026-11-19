@@ -1,6 +1,6 @@
 # qdrant/video-anomaly-edge
 
-⭐ 16 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/qdrant/video-anomaly-edge) · 组织维护
+⭐ 17 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/qdrant/video-anomaly-edge) · 组织维护
 
 **边缘到云的实时视频异常检测参考架构（Qdrant）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qdrant/video-anomaly-edge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-18 16（+1）
+2026-10-18 15 → 2026-11-19 17（+2）
 
 
 ---

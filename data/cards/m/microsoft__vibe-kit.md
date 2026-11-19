@@ -1,6 +1,6 @@
 # microsoft/vibe-kit
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/microsoft/vibe-kit) · 组织维护
+⭐ 37 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/microsoft/vibe-kit) · 组织维护
 
 **微软研究院 AI 编程助手技能合集（6 项）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/vibe-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-11-18 36（+0）
+2026-10-18 36 → 2026-11-19 37（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # 99Like-wjj/ai-testing-ego-lite
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/99Like-wjj/ai-testing-ego-lite) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/99Like-wjj/ai-testing-ego-lite) · 个人维护 · 中文 README
 
 **面向 Web 应用的 AI 自动化测试 Skill：AI 自主设计用例、执行并留证**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "99Like-wjj/ai-testing-ego-lite 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-11-08 15 → 2026-11-18 16（+1）
+2026-11-08 15 → 2026-11-19 17（+2）
 
 
 ---

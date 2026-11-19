@@ -1,6 +1,6 @@
 # aws-samples/aws-ml-enablement-workshop
 
-⭐ 551 · Jupyter Notebook · MIT-0 · 推送 2026-10-09 · [GitHub](https://github.com/aws-samples/aws-ml-enablement-workshop) · 组织维护 · 中文 README
+⭐ 551 · Jupyter Notebook · MIT-0 · 推送 2026-11-18 · [GitHub](https://github.com/aws-samples/aws-ml-enablement-workshop) · 组织维护 · 中文 README
 
 **AWS 维护的 ML/生成 AI 产品开发工作坊资料集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/aws-ml-enablement-workshop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 549 --> 552
     line [550, 551, 550, 551, 551]
 ```
 
-2026-10-18 550 → 2026-11-18 551（+1）
+2026-10-18 550 → 2026-11-19 551（+1）
 
 
 ---

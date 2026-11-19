@@ -1,6 +1,6 @@
 # boromat/polanon
 
-⭐ 37 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/boromat/polanon) · [官网](https://boromat.pl/polanon/) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/boromat/polanon) · [官网](https://boromat.pl/polanon/) · 个人维护
 
 **面向波兰语场景的可逆 PII 掩码库：LLM 调用与 RAG 前后脱敏还原**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "boromat/polanon 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 23 --> 38
-    line [24, 26, 29, 35, 37]
+    title "boromat/polanon 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 23 --> 39
+    line [24, 26, 29, 35, 37, 38]
 ```
 
-2026-11-13 24 → 2026-11-18 37（+13）
+2026-11-13 24 → 2026-11-19 38（+14）
 
 
 ---

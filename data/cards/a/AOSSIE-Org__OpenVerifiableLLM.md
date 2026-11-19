@@ -1,6 +1,6 @@
 # AOSSIE-Org/OpenVerifiableLLM
 
-⭐ 26 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/AOSSIE-Org/OpenVerifiableLLM) · [官网](https://huggingface.co/datasets/AOSSIE/openverifiable-enwiki-20260901-20260918-r1-evidence) · 组织维护
+⭐ 26 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/AOSSIE-Org/OpenVerifiableLLM) · [官网](https://huggingface.co/datasets/AOSSIE/openverifiable-enwiki-20260901-20260918-r1-evidence) · 组织维护
 
 **可逐段复算训练过程的开放权重 LLM 项目（含 23.1M 模型与验证工具）**
 
@@ -46,12 +46,12 @@ AOSSIE 维护的可验证 LLM 项目：发布一个 23.1M 参数、在英文 Wik
 ```mermaid
 xychart-beta
     title "AOSSIE-Org/OpenVerifiableLLM 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 21 --> 27
     line [22, 23, 25, 26, 26]
 ```
 
-2026-11-11 22 → 2026-11-18 26（+4）
+2026-11-11 22 → 2026-11-19 26（+4）
 
 
 ---

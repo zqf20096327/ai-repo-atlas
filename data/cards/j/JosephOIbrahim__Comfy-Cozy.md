@@ -1,6 +1,6 @@
 # JosephOIbrahim/Comfy-Cozy
 
-⭐ 24 · Python · MIT · 推送 2026-07-19 · [GitHub](https://github.com/JosephOIbrahim/Comfy-Cozy) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-07-19 · [GitHub](https://github.com/JosephOIbrahim/Comfy-Cozy) · 个人维护
 
 **ComfyUI 的自然语言副驾驶：对话编辑/运行生图工作流，全部可撤销**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "JosephOIbrahim/Comfy-Cozy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 23 --> 26
-    line [25, 24, 24]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 22 --> 26
+    line [25, 24, 23]
 ```
 
-2026-10-18 25 → 2026-11-18 24（-1）
+2026-10-18 25 → 2026-11-19 23（-2）
 
 
 ---

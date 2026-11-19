@@ -1,6 +1,6 @@
 # zzir/agents-go
 
-⭐ 13 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zzir/agents-go) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/zzir/agents-go) · 个人维护
 
 **本地单二进制的多 agent 开发工作台：查看、重放、分叉 agent 会话**
 
@@ -46,12 +46,12 @@ Go 语言实现的 agent 工作台与 agents 运行时包：下载单个二进�
 ```mermaid
 xychart-beta
     title "zzir/agents-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

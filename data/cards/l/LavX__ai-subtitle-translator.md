@@ -1,6 +1,6 @@
 # LavX/ai-subtitle-translator
 
-⭐ 13 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/LavX/ai-subtitle-translator) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/LavX/ai-subtitle-translator) · 个人维护
 
 **为 Bazarr 打造的 SRT 字幕 LLM 翻译 API 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LavX/ai-subtitle-translator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 10 --> 14
     line [11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-18 13（+2）
+2026-10-18 11 → 2026-11-19 13（+2）
 
 
 ---

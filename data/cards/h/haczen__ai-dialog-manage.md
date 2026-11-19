@@ -1,6 +1,6 @@
 # haczen/ai-dialog-manage
 
-⭐ 13 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/haczen/ai-dialog-manage) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/haczen/ai-dialog-manage) · 个人维护 · 中文 README
 
 **统一管理 9 种 AI 编程工具聊天记录的桌面工具**
 
@@ -41,6 +41,18 @@ PyQt6 桌面应用，扫描本机 Claude Code、Codex、OpenCode、Gemini CLI、
 > L7: 统一浏览 / 搜索 / 编辑 **9 种 AI 工具**的会话,还能把任意一段对话
 > L95: 1. 选目标工具(Claude / Codex / OpenCode / Gemini / Qwen / Goose / Cline / Roo / JSON)
 > L140: |**Claude Code**|`~/.claude/projects/<路径>/<id>.jsonl`|✅|`claude --resume <id>`|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "haczen/ai-dialog-manage 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 11 --> 43
+    line [13, 41]
+```
+
+2026-11-18 13 → 2026-11-19 41（+28）
 
 
 ---

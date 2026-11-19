@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/UniCom
 
-⭐ 34 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/Tencent-Hunyuan/UniCom) · 组织维护 · 中文 README
+⭐ 35 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/Tencent-Hunyuan/UniCom) · 组织维护 · 中文 README
 
 **统一多模态模型：在压缩视觉嵌入上做文生图与图像编辑**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/UniCom 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 32 --> 35
-    line [34, 33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 32 --> 36
+    line [34, 33, 34, 35]
 ```
 
-2026-10-18 34 → 2026-11-18 34（+0）
+2026-10-18 34 → 2026-11-19 35（+1）
 
 
 ---

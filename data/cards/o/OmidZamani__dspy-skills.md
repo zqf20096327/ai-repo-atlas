@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OmidZamani/dspy-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "OmidZamani/dspy-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 123 --> 126
-    line [124, 125]
+    line [124, 125, 125]
 ```
 
-2026-10-18 124 → 2026-11-18 125（+1）
+2026-10-18 124 → 2026-11-19 125（+1）
 
 
 ---

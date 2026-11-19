@@ -41,6 +41,18 @@ Replyze 维护的仓库，内容为如何在自己网站上部署由自有页面
 > L13: The examples use Replyze, AI customer support for websites: an AI agent that answers from your website and knowledg
 > L38: "Trained on your pages" doesn't mean a model is retrained on your site. The chatbot reads your pages ahead of time,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Replyze/ai-chatbot-for-website 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-18 17 → 2026-11-19 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `425919820379` · [字段定义](../../DATASET.md)*

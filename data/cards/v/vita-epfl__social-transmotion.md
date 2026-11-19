@@ -1,6 +1,6 @@
 # vita-epfl/social-transmotion
 
-⭐ 64 · Python · AGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/vita-epfl/social-transmotion) · 组织维护
+⭐ 65 · Python · AGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/vita-epfl/social-transmotion) · 组织维护
 
 **ICLR 2024 行人轨迹预测模型的官方 PyTorch 实现**
 
@@ -45,12 +45,12 @@ Social-Transmotion 是 ICLR 2024 论文的官方实现：基于 Transformer 的�
 ```mermaid
 xychart-beta
     title "vita-epfl/social-transmotion 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-02", "2026-11-16", "2026-11-19"]
     y-axis "stars" 63 --> 66
-    line [65, 64, 64]
+    line [65, 64, 65]
 ```
 
-2026-11-02 65 → 2026-11-18 64（-1）
+2026-11-02 65 → 2026-11-19 65（+0）
 
 
 ---

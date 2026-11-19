@@ -1,6 +1,6 @@
 # ThousandBirdsInc/chidori
 
-⭐ 1,373 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ThousandBirdsInc/chidori) · [官网](https://thousandbirdsinc.github.io/chidori/) · 组织维护
+⭐ 1,372 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ThousandBirdsInc/chidori) · [官网](https://thousandbirdsinc.github.io/chidori/) · 组织维护
 
 **默认可持久化、可重放、可恢复的 TypeScript agent 运行时框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ThousandBirdsInc/chidori 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 1366 --> 1374
-    line [1367, 1368, 1369, 1370, 1368, 1372, 1373, 1373]
+    line [1367, 1368, 1369, 1370, 1368, 1372, 1373, 1372]
 ```
 
-2026-10-18 1,367 → 2026-11-18 1,373（+6）
+2026-10-18 1,367 → 2026-11-19 1,372（+5）
 
 
 ---

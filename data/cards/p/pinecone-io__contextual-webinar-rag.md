@@ -1,6 +1,6 @@
 # pinecone-io/contextual-webinar-rag
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/pinecone-io/contextual-webinar-rag) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/pinecone-io/contextual-webinar-rag) · 组织维护
 
 **基于 Claude/Pinecone/AWS 的网络研讨会视频 RAG 问答应用**
 
@@ -43,12 +43,12 @@ Pinecone 官方的 Contextual Video RAG 示例实现：将用户放入 data/vide
 ```mermaid
 xychart-beta
     title "pinecone-io/contextual-webinar-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-18 23（+0）
+2026-10-18 23 → 2026-11-19 24（+1）
 
 
 ---

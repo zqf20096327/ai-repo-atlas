@@ -1,6 +1,6 @@
 # Xayan/Rules.txt
 
-⭐ 111 · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/Xayan/Rules.txt) · [官网](https://xayan.nu/posts/ex-machina/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=repo) · 个人维护
+⭐ 112 · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/Xayan/Rules.txt) · [官网](https://xayan.nu/posts/ex-machina/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=repo) · 个人维护
 
 **一套用于改变 LLM 回答风格的提示规则文本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xayan/Rules.txt 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 107 --> 112
-    line [108, 109, 110, 108, 110, 111]
+    title "Xayan/Rules.txt 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 107 --> 113
+    line [108, 109, 110, 108, 110, 111, 112]
 ```
 
-2026-10-18 108 → 2026-11-18 111（+3）
+2026-10-18 108 → 2026-11-19 112（+4）
 
 
 ---

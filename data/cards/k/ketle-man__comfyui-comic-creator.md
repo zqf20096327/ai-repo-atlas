@@ -1,6 +1,6 @@
 # ketle-man/comfyui-comic-creator
 
-⭐ 30 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ketle-man/comfyui-comic-creator) · 个人维护 · 中文 README
+⭐ 31 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ketle-man/comfyui-comic-creator) · 个人维护 · 中文 README
 
 **运行在 ComfyUI 上的漫画页面制作 SPA 自定义节点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ketle-man/comfyui-comic-creator 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-18"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-11-02", "2026-11-19"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-11-02 30 → 2026-11-18 30（+0）
+2026-11-02 30 → 2026-11-19 31（+1）
 
 
 ---

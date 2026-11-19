@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/ComfyUI-TurboQuant 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    title "Scottcjn/ComfyUI-TurboQuant 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 42 --> 45
-    line [44, 43]
+    line [44, 43, 43]
 ```
 
-2026-11-08 44 → 2026-11-18 43（-1）
+2026-11-08 44 → 2026-11-19 43（-1）
 
 
 ---

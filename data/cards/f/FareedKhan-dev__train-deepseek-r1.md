@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/train-deepseek-r1 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    title "FareedKhan-dev/train-deepseek-r1 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 806 --> 809
-    line [807, 808]
+    line [807, 808, 808]
 ```
 
-2026-11-16 807 → 2026-11-18 808（+1）
+2026-11-16 807 → 2026-11-19 808（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # andrew-shwetzer/recruiter-plugin
 
-⭐ 17 · Python · 推送 2026-04-28 · [GitHub](https://github.com/andrew-shwetzer/recruiter-plugin) · 个人维护
+⭐ 18 · Python · 推送 2026-04-28 · [GitHub](https://github.com/andrew-shwetzer/recruiter-plugin) · 个人维护
 
 **面向招聘者的 Claude Code 插件：22 个招聘技能装进终端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "andrew-shwetzer/recruiter-plugin 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 16, 17, 18]
 ```
 
-2026-10-18 15 → 2026-11-18 17（+2）
+2026-10-18 15 → 2026-11-19 18（+3）
 
 
 ---

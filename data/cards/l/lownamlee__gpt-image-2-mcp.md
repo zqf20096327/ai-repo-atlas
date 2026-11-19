@@ -44,13 +44,13 @@ TypeScript 编写的 stdio MCP 服务器，向任意 MCP 兼容客户端暴露 g
 
 ```mermaid
 xychart-beta
-    title "lownamlee/gpt-image-2-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "lownamlee/gpt-image-2-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 93 --> 96
-    line [94, 95]
+    line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-11-18 95（+1）
+2026-10-18 94 → 2026-11-19 95（+1）
 
 
 ---

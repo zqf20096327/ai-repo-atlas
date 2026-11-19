@@ -1,6 +1,6 @@
 # contextforge-org/cpex
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/contextforge-org/cpex) · [官网](https://contextforge-org.github.io/cpex) · 组织维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/contextforge-org/cpex) · [官网](https://contextforge-org.github.io/cpex) · 组织维护
 
 **给 AI agent 开发者的策略执行运行时（Rust/Python/Go）**
 
@@ -45,12 +45,12 @@ CPEX 是面向 AI agent 的策略执行运行时，充当 agent 与其调用的�
 ```mermaid
 xychart-beta
     title "contextforge-org/cpex 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 14 --> 17
     line [15, 16, 15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-18 16（+1）
+2026-10-18 15 → 2026-11-19 16（+1）
 
 
 ---

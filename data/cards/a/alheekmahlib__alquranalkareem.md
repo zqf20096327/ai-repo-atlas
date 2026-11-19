@@ -1,6 +1,6 @@
 # alheekmahlib/alquranalkareem
 
-⭐ 156 · Dart · 推送 2026-11-08 · [GitHub](https://github.com/alheekmahlib/alquranalkareem) · [官网](https://alhikmah.vexaltech.dev/download/quran) · 组织维护
+⭐ 157 · Dart · 推送 2026-11-08 · [GitHub](https://github.com/alheekmahlib/alquranalkareem) · [官网](https://alhikmah.vexaltech.dev/download/quran) · 组织维护
 
 **Flutter 跨平台古兰经阅读与背诵应用，含 AI 背诵核验与助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "alheekmahlib/alquranalkareem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 152 --> 157
-    line [153, 155, 156, 156]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 152 --> 158
+    line [153, 155, 156, 157]
 ```
 
-2026-10-18 153 → 2026-11-18 156（+3）
+2026-10-18 153 → 2026-11-19 157（+4）
 
 
 ---

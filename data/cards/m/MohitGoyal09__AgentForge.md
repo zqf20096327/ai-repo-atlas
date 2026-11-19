@@ -1,6 +1,6 @@
 # MohitGoyal09/AgentForge
 
-⭐ 66 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MohitGoyal09/AgentForge) · [官网](https://pypi.org/project/agentforge-harness/) · 个人维护
+⭐ 67 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MohitGoyal09/AgentForge) · [官网](https://pypi.org/project/agentforge-harness/) · 个人维护
 
 **面向学习者的终端 AI 编码 agent 框架，研究 agent 循环与安全机制**
 
@@ -46,13 +46,13 @@ Python 编写的终端 AI coding-agent harness，定位为学习现代编码 age
 
 ```mermaid
 xychart-beta
-    title "MohitGoyal09/AgentForge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 61 --> 67
-    line [62, 63, 64, 62, 65, 66]
+    title "MohitGoyal09/AgentForge 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 61 --> 68
+    line [62, 63, 64, 62, 65, 66, 67]
 ```
 
-2026-10-18 62 → 2026-11-18 66（+4）
+2026-10-18 62 → 2026-11-19 67（+5）
 
 
 ---

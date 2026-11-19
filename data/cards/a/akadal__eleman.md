@@ -1,6 +1,6 @@
 # akadal/eleman
 
-⭐ 11 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/akadal/eleman) · [官网](https://eleman.akadal.tr) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/akadal/eleman) · [官网](https://eleman.akadal.tr) · 个人维护
 
 **为 AI 助手提供个人长期记忆的 markdown+git 仓库模板**
 
@@ -46,12 +46,12 @@ eleman 是一个供 AI 助手读写个人长期记忆的仓库模板，而非可
 ```mermaid
 xychart-beta
     title "akadal/eleman 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-08 10 → 2026-11-18 11（+1）
+2026-11-08 10 → 2026-11-19 12（+2）
 
 
 ---

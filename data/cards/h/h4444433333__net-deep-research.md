@@ -1,6 +1,6 @@
 # h4444433333/net-deep-research
 
-⭐ 73 · Python · MIT-0 · 推送 2026-08-25 · [GitHub](https://github.com/h4444433333/net-deep-research) · 个人维护 · 中文 README
+⭐ 72 · Python · MIT-0 · 推送 2026-08-25 · [GitHub](https://github.com/h4444433333/net-deep-research) · 个人维护 · 中文 README
 
 **给 AI agent 的网络深度研究技能包：来源核验与证据结构化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "h4444433333/net-deep-research 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    x-axis ["2026-11-08", "2026-11-19"]
+    y-axis "stars" 71 --> 74
+    line [73, 72]
 ```
 
-2026-11-08 73 → 2026-11-18 73（+0）
+2026-11-08 73 → 2026-11-19 72（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # buqi-code/buqi-minimax-h3-multigpu
 
-⭐ 38 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/buqi-code/buqi-minimax-h3-multigpu) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/buqi-code/buqi-minimax-h3-multigpu) · 个人维护 · 中文 README
 
 **ComfyUI 节点：MiniMax H3 多卡 Ulysses 序列并行推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "buqi-code/buqi-minimax-h3-multigpu 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 32 --> 39
-    line [33, 35, 36, 35, 36, 37, 38, 36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 32 --> 40
+    line [33, 35, 36, 35, 36, 37, 38, 36, 37, 38, 39]
 ```
 
-2026-10-18 33 → 2026-11-18 38（+5）
+2026-10-18 33 → 2026-11-19 39（+6）
 
 
 ---

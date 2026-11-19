@@ -1,6 +1,6 @@
 # NeoTheCapt/RedteamAgent
 
-⭐ 162 · Python · 推送 2026-08-02 · [GitHub](https://github.com/NeoTheCapt/RedteamAgent) · [官网](https://github.com/NeoTheCapt/RedteamAgent#quick-start) · 个人维护 · 中文 README
+⭐ 163 · Python · 推送 2026-08-02 · [GitHub](https://github.com/NeoTheCapt/RedteamAgent) · [官网](https://github.com/NeoTheCapt/RedteamAgent#quick-start) · 个人维护 · 中文 README
 
 **面向授权实验环境的自动化 AI 红队渗透测试 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NeoTheCapt/RedteamAgent 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 146 --> 163
-    line [147, 152, 153, 154, 155, 156, 154, 161, 162, 162]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 146 --> 164
+    line [147, 152, 153, 154, 155, 156, 154, 161, 162, 163]
 ```
 
-2026-10-18 147 → 2026-11-18 162（+15）
+2026-10-18 147 → 2026-11-19 163（+16）
 
 
 ---

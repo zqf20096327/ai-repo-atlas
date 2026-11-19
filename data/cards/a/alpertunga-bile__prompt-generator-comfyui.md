@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alpertunga-bile/prompt-generator-comfyui 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-19"]
     y-axis "stars" 117 --> 119
     line [118, 118]
 ```
 
-2026-11-08 118 → 2026-11-18 118（+0）
+2026-11-08 118 → 2026-11-19 118（+0）
 
 
 ---

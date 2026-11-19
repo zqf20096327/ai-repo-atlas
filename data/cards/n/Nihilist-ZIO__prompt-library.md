@@ -1,6 +1,6 @@
 # Nihilist-ZIO/prompt-library
 
-⭐ 121 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Nihilist-ZIO/prompt-library) · 个人维护 · 中文 README
+⭐ 125 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Nihilist-ZIO/prompt-library) · 个人维护 · 中文 README
 
 **AI 图像/视频提示词库：124 条八大类，含索引与入库脚本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nihilist-ZIO/prompt-library 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 53 --> 127
-    line [59, 65, 71, 84, 95, 98, 105, 109, 121]
+    title "Nihilist-ZIO/prompt-library 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 53 --> 131
+    line [59, 65, 71, 84, 95, 98, 105, 109, 121, 125]
 ```
 
-2026-11-08 59 → 2026-11-18 121（+62）
+2026-11-08 59 → 2026-11-19 125（+66）
 
 
 ---

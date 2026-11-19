@@ -1,6 +1,6 @@
 # ferretgeek/prokbot-plus
 
-⭐ 70 · JavaScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/ferretgeek/prokbot-plus) · 个人维护 · 中文 README
+⭐ 87 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/ferretgeek/prokbot-plus) · 个人维护 · 中文 README
 
 **自托管运行 Grok Bot 的服务端与客户端补丁，模型自选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ferretgeek/prokbot-plus 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 3 --> 76
-    line [9, 12, 20, 38, 49, 52, 64, 70]
+    title "ferretgeek/prokbot-plus 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 2 --> 94
+    line [9, 12, 20, 38, 49, 52, 64, 70, 87]
 ```
 
-2026-11-10 9 → 2026-11-18 70（+61）
+2026-11-10 9 → 2026-11-19 87（+78）
 
 
 ---

@@ -1,6 +1,6 @@
 # Boulea7/agy-mcp
 
-⭐ 26 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Boulea7/agy-mcp) · [官网](https://pypi.org/project/agy-mcp/) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Boulea7/agy-mcp) · [官网](https://pypi.org/project/agy-mcp/) · 个人维护 · 中文 README
 
 **把 Google Antigravity CLI 包装成 MCP 工具供任意 MCP 客户端调用**
 
@@ -45,12 +45,12 @@ Python 编写的 MCP server，将 Google Antigravity CLI（agy）包装为 11 �
 ```mermaid
 xychart-beta
     title "Boulea7/agy-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
     y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    line [25, 26, 25]
 ```
 
-2026-10-18 25 → 2026-11-18 26（+1）
+2026-10-18 25 → 2026-11-19 25（+0）
 
 
 ---

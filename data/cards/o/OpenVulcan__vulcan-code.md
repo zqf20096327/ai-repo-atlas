@@ -1,6 +1,6 @@
 # OpenVulcan/vulcan-code
 
-⭐ 44 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/OpenVulcan/vulcan-code) · [官网](https://openvulcan.com) · 组织维护 · 中文 README
+⭐ 51 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/OpenVulcan/vulcan-code) · [官网](https://openvulcan.com) · 组织维护 · 中文 README
 
 **开源 AI 编程工作台：桌面 GUI 与终端 TUI 双客户端**
 
@@ -44,13 +44,13 @@ Rust 编写、MIT 许可的 AI Coding 应用，含 Electron 桌面应用与 rata
 
 ```mermaid
 xychart-beta
-    title "OpenVulcan/vulcan-code 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 7 --> 47
-    line [10, 12, 15, 19, 21, 22, 38, 44]
+    title "OpenVulcan/vulcan-code 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 6 --> 55
+    line [10, 12, 15, 19, 21, 22, 38, 44, 51]
 ```
 
-2026-11-10 10 → 2026-11-18 44（+34）
+2026-11-10 10 → 2026-11-19 51（+41）
 
 
 ---

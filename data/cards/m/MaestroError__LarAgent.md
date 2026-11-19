@@ -1,6 +1,6 @@
 # MaestroError/LarAgent
 
-⭐ 645 · PHP · MIT · 推送 2026-08-20 · [GitHub](https://github.com/MaestroError/LarAgent) · [官网](https://laragent.ai/) · 组织维护
+⭐ 644 · PHP · MIT · 推送 2026-08-20 · [GitHub](https://github.com/MaestroError/LarAgent) · [官网](https://laragent.ai/) · 组织维护
 
 **Laravel 项目的 AI Agent 开发框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MaestroError/LarAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 643 --> 646
-    line [644, 645, 644, 645, 645]
+    line [644, 645, 644, 645, 644]
 ```
 
-2026-10-18 644 → 2026-11-18 645（+1）
+2026-10-18 644 → 2026-11-19 644（+0）
 
 
 ---

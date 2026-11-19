@@ -1,6 +1,6 @@
 # wanglinsaputra/OmniPost-AI
 
-⭐ 53 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/wanglinsaputra/OmniPost-AI) · [官网](https://s.id/x1w4R) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/wanglinsaputra/OmniPost-AI) · [官网](https://s.id/x1w4R) · 个人维护
 
 **AI 生成内容并一键发布到多个社交平台的 Chrome 扩展**
 
@@ -45,12 +45,12 @@ Chrome 扩展（MV3，Vite+CRXJS 构建，TypeScript）：用户描述主题后�
 ```mermaid
 xychart-beta
     title "wanglinsaputra/OmniPost-AI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 49 --> 54
-    line [50, 51, 52, 53, 52, 53, 53]
+    line [50, 51, 52, 53, 52, 53, 52]
 ```
 
-2026-10-18 50 → 2026-11-18 53（+3）
+2026-10-18 50 → 2026-11-19 52（+2）
 
 
 ---

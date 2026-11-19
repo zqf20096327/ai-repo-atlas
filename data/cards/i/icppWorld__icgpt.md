@@ -1,6 +1,6 @@
 # icppWorld/icgpt
 
-⭐ 17 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/icppWorld/icgpt) · [官网](https://icgpt.icpp.world) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/icppWorld/icgpt) · [官网](https://icgpt.onicai.com) · 组织维护
 
 **链上 LLM 提示词工作室：在 IC 容器内运行推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "icppWorld/icgpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-18 17（+0）
+2026-10-18 17 → 2026-11-19 17（+0）
 
 
 ---

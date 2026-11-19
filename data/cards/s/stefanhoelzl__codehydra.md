@@ -1,6 +1,6 @@
 # stefanhoelzl/codehydra
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/stefanhoelzl/codehydra) · [官网](https://codehydra.stho.net) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/stefanhoelzl/codehydra) · [官网](https://codehydra.stho.net) · 个人维护
 
 **多工作区 IDE：用 git worktrees 并行运行多个 AI 编码代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stefanhoelzl/codehydra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-18 20（+0）
+2026-10-18 20 → 2026-11-19 20（+0）
 
 
 ---

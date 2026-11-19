@@ -1,6 +1,6 @@
 # SAXEM1997/dsh-ppt-master-wrapper
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/SAXEM1997/dsh-ppt-master-wrapper) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/SAXEM1997/dsh-ppt-master-wrapper) · 个人维护 · 中文 README
 
 **把 ppt-master 技能集封装为 DeepSeek Harness 插件，供 agent 生成 PPTX**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SAXEM1997/dsh-ppt-master-wrapper 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
+    title "SAXEM1997/dsh-ppt-master-wrapper 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 2 --> 12
-    line [3, 4, 5, 6, 3, 7, 8, 9, 10, 11]
+    line [3, 4, 5, 6, 3, 7, 8, 9, 10, 11, 11]
 ```
 
-2026-10-25 3 → 2026-11-18 11（+8）
+2026-10-25 3 → 2026-11-19 11（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # elRadix/daikin_cycle_ml
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/elRadix/daikin_cycle_ml) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/elRadix/daikin_cycle_ml) · 个人维护
 
 **Home Assistant 用户检测并学习大金热泵循环异常的本地 ML 集成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elRadix/daikin_cycle_ml 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-13", "2026-11-19"]
     y-axis "stars" 4 --> 12
     line [5, 6, 11, 11]
 ```
 
-2026-10-29 5 → 2026-11-18 11（+6）
+2026-10-29 5 → 2026-11-19 11（+6）
 
 
 ---

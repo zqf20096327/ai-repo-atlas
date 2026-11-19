@@ -1,6 +1,6 @@
 # apimeister/gguf-runner
 
-⭐ 17 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/apimeister/gguf-runner) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/apimeister/gguf-runner) · 个人维护
 
 **本地 GGUF 模型运行器：CPU 推理，终端问答/视觉/转录**
 
@@ -47,12 +47,12 @@ Rust 编写的命令行工具，加载本地 .gguf 模型文件在终端生成�
 ```mermaid
 xychart-beta
     title "apimeister/gguf-runner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-11-18 17（+1）
+2026-10-18 16 → 2026-11-19 18（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # taliove/HandwritingPrint
 
-⭐ 12 · JavaScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/taliove/HandwritingPrint) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/taliove/HandwritingPrint) · 个人维护 · 中文 README
 
 **为小学生家长/教师生成带 AI 拼音标注的汉字练习卡 PDF**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "taliove/HandwritingPrint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 13（+1）
 
 
 ---

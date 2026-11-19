@@ -1,6 +1,6 @@
 # YuChenLiao/dsh-comfyui-workbench
 
-⭐ 35 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/YuChenLiao/dsh-comfyui-workbench) · 个人维护 · 中文 README
+⭐ 36 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/YuChenLiao/dsh-comfyui-workbench) · 个人维护 · 中文 README
 
 **DSH 插件：让模型调用本机 ComfyUI 工作流并管理生图资产**
 
@@ -45,13 +45,13 @@ DSH 宿主的 ComfyUI 工作台插件，把本机 ComfyUI 工作流交给模型�
 
 ```mermaid
 xychart-beta
-    title "YuChenLiao/dsh-comfyui-workbench 星数(近 11 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 1 --> 38
-    line [4, 6, 17, 20, 22, 23, 26, 28, 31, 32, 35]
+    title "YuChenLiao/dsh-comfyui-workbench 星数(近 12 点)"
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 1 --> 39
+    line [4, 6, 17, 20, 22, 23, 26, 28, 31, 32, 35, 36]
 ```
 
-2026-10-31 4 → 2026-11-18 35（+31）
+2026-10-31 4 → 2026-11-19 36（+32）
 
 
 ---

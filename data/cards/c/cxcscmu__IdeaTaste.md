@@ -44,13 +44,13 @@ IdeaTaste 是一个评测研究品味的 benchmark：LLM agent 阅读冻结在 2
 
 ```mermaid
 xychart-beta
-    title "cxcscmu/IdeaTaste 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18"]
+    title "cxcscmu/IdeaTaste 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
     y-axis "stars" 30 --> 34
-    line [31, 32, 33]
+    line [31, 32, 33, 33]
 ```
 
-2026-11-08 31 → 2026-11-18 33（+2）
+2026-11-08 31 → 2026-11-19 33（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # morning-cml/paper-translator
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/morning-cml/paper-translator) · 个人维护 · 中文 README
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/morning-cml/paper-translator) · 个人维护 · 中文 README
 
 **保留排版的文档翻译工具：PDF/Word/PPT/Markdown/字幕双击即用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "morning-cml/paper-translator 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19"]
     y-axis "stars" 14 --> 22
-    line [15, 18, 19, 20, 21, 21]
+    line [15, 18, 19, 20, 21, 20]
 ```
 
-2026-10-18 15 → 2026-11-18 21（+6）
+2026-10-18 15 → 2026-11-19 20（+5）
 
 
 ---

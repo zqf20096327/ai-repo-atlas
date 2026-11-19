@@ -1,6 +1,6 @@
 # UAMCAntwerpen/2040FBDBIC
 
-⭐ 11 · Jupyter Notebook · 推送 2026-11-17 · [GitHub](https://github.com/UAMCAntwerpen/2040FBDBIC) · 组织维护
+⭐ 11 · Jupyter Notebook · 推送 2026-11-18 · [GitHub](https://github.com/UAMCAntwerpen/2040FBDBIC) · 组织维护
 
 **安特卫普大学化学信息学与计算药物设计课程材料**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "UAMCAntwerpen/2040FBDBIC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

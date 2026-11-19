@@ -1,6 +1,6 @@
 # makimoto-ai/kawa
 
-⭐ 18 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/makimoto-ai/kawa) · [官网](https://www.makimoto.ai/) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/makimoto-ai/kawa) · [官网](https://www.makimoto.ai/) · 组织维护
 
 **新加坡托管的亚太多语言语音转文字转录 API**
 
@@ -45,12 +45,12 @@ Makimoto 公司运营的托管转录服务：提交录音后轮询作业，返�
 ```mermaid
 xychart-beta
     title "makimoto-ai/kawa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-guard-dev/eslint-plugin-ai-guard
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ai-guard-dev/eslint-plugin-ai-guard) · [官网](https://getaiguard.dev) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ai-guard-dev/eslint-plugin-ai-guard) · [官网](https://getaiguard.dev) · 组织维护
 
 **检测 AI 辅助代码缺陷模式的 ESLint 插件与 CI 守护工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-guard-dev/eslint-plugin-ai-guard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-11-18 20（+2）
+2026-10-18 18 → 2026-11-19 21（+3）
 
 
 ---

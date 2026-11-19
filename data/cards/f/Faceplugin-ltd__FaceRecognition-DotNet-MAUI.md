@@ -45,12 +45,12 @@ FacePlugin 面向 .NET MAUI（原 Xamarin）的端上人脸识别示例应用，
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceRecognition-DotNet-MAUI 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-19"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-11-13 53 → 2026-11-18 53（+0）
+2026-11-13 53 → 2026-11-19 53（+0）
 
 
 ---

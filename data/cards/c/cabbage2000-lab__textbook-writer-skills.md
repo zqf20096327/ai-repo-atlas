@@ -1,6 +1,6 @@
 # cabbage2000-lab/textbook-writer-skills
 
-⭐ 49 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cabbage2000-lab/textbook-writer-skills) · [官网](https://github.com/cabbage2000-lab/textbook-writer-skills#readme) · 个人维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cabbage2000-lab/textbook-writer-skills) · [官网](https://github.com/cabbage2000-lab/textbook-writer-skills#readme) · 个人维护 · 中文 README
 
 **装进编程智能体的教材写作 skill 组合，覆盖设计到定稿五阶段**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cabbage2000-lab/textbook-writer-skills 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19"]
     y-axis "stars" 35 --> 50
-    line [36, 37, 38, 39, 42, 43, 37, 45, 46, 47, 48, 49, 49]
+    line [36, 37, 38, 39, 42, 43, 37, 45, 46, 47, 48, 49, 48]
 ```
 
-2026-10-18 36 → 2026-11-18 49（+13）
+2026-10-18 36 → 2026-11-19 48（+12）
 
 
 ---

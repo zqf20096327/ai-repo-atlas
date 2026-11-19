@@ -1,6 +1,6 @@
 # LingyunStudio/AgnesStudio
 
-⭐ 56 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/LingyunStudio/AgnesStudio) · 组织维护 · 中文 README
+⭐ 58 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/LingyunStudio/AgnesStudio) · 组织维护 · 中文 README
 
 **Agnes 图像/视频生成模型的 Windows 桌面客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LingyunStudio/AgnesStudio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 53 --> 57
-    line [54, 55, 54, 56, 56]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 53 --> 59
+    line [54, 55, 54, 56, 58]
 ```
 
-2026-10-18 54 → 2026-11-18 56（+2）
+2026-10-18 54 → 2026-11-19 58（+4）
 
 
 ---

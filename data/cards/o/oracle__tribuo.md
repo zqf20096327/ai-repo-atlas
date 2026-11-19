@@ -1,6 +1,6 @@
 # oracle/tribuo
 
-⭐ 1,418 · Java · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/oracle/tribuo) · [官网](https://tribuo.org) · 组织维护
+⭐ 1,420 · Java · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/oracle/tribuo) · [官网](https://tribuo.org) · 组织维护
 
 **Java 机器学习库：分类/回归/聚类等预测任务统一框架**
 
@@ -45,12 +45,12 @@ Oracle Labs 主导开发的纯 Java 机器学习库，覆盖多分类、多标�
 ```mermaid
 xychart-beta
     title "oracle/tribuo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-12", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 1415 --> 1419
-    line [1418, 1416, 1417, 1418, 1418]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-12", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 1415 --> 1421
+    line [1418, 1416, 1417, 1418, 1420]
 ```
 
-2026-10-18 1,418 → 2026-11-18 1,418（+0）
+2026-10-18 1,418 → 2026-11-19 1,420（+2）
 
 
 ---

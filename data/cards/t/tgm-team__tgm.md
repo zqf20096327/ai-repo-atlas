@@ -1,6 +1,6 @@
 # tgm-team/tgm
 
-⭐ 127 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/tgm-team/tgm) · [官网](https://tgm.readthedocs.io/en/latest/) · 组织维护
+⭐ 126 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/tgm-team/tgm) · [官网](https://tgm.readthedocs.io/en/latest/) · 组织维护
 
 **时序图机器学习研究库：动态图上高效训练与原型开发**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tgm-team/tgm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    title "tgm-team/tgm 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 123 --> 128
-    line [124, 125, 126, 125, 126, 127]
+    line [124, 125, 126, 125, 126, 127, 126]
 ```
 
-2026-10-18 124 → 2026-11-18 127（+3）
+2026-10-18 124 → 2026-11-19 126（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kenza-AI/sagify
 
-⭐ 443 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/Kenza-AI/sagify) · [官网](https://kenza-ai.github.io/sagify/) · 组织维护
+⭐ 442 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/Kenza-AI/sagify) · [官网](https://kenza-ai.github.io/sagify/) · 组织维护
 
 **AWS SageMaker 上的 ML/LLM 工作流管理与统一 LLM 网关工具**
 
@@ -46,12 +46,12 @@ Sagify 提供简化接口管理 AWS SageMaker 上的机器学习工作流，核�
 ```mermaid
 xychart-beta
     title "Kenza-AI/sagify 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19"]
     y-axis "stars" 441 --> 445
-    line [442, 443, 442, 444, 443, 443]
+    line [442, 443, 442, 444, 443, 442]
 ```
 
-2026-10-18 442 → 2026-11-18 443（+1）
+2026-10-18 442 → 2026-11-19 442（+0）
 
 
 ---

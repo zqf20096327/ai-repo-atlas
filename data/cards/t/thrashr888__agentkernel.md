@@ -1,6 +1,6 @@
 # thrashr888/agentkernel
 
-⭐ 62 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/thrashr888/agentkernel) · [官网](https://thrashr888.github.io/agentkernel/) · 个人维护
+⭐ 62 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/thrashr888/agentkernel) · [官网](https://thrashr888.github.io/agentkernel/) · 个人维护
 
 **在隔离 microVM/沙箱中运行 AI 编程 agent 的安全执行框架**
 
@@ -47,12 +47,12 @@ Rust 编写的沙箱执行框架：以 Firecracker microVM（宣称低于 125ms 
 ```mermaid
 xychart-beta
     title "thrashr888/agentkernel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 58 --> 63
     line [59, 61, 62, 62]
 ```
 
-2026-10-18 59 → 2026-11-18 62（+3）
+2026-10-18 59 → 2026-11-19 62（+3）
 
 
 ---

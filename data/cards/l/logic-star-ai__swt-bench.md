@@ -1,6 +1,6 @@
 # logic-star-ai/swt-bench
 
-⭐ 92 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/logic-star-ai/swt-bench) · [官网](https://swtbench.com/) · 组织维护
+⭐ 93 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/logic-star-ai/swt-bench) · [官网](https://swtbench.com/) · 组织维护
 
 **评测 LLM 仓库级测试生成能力的基准与 Docker 评测框架**
 
@@ -46,12 +46,12 @@ NeurIPS 2024 论文的基准与评测框架：给定代码库与 GitHub issue，
 ```mermaid
 xychart-beta
     title "logic-star-ai/swt-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
-    y-axis "stars" 90 --> 93
-    line [91, 92, 92]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
+    y-axis "stars" 90 --> 94
+    line [91, 92, 93]
 ```
 
-2026-10-18 91 → 2026-11-18 92（+1）
+2026-10-18 91 → 2026-11-19 93（+2）
 
 
 ---

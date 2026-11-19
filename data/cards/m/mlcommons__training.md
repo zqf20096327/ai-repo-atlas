@@ -1,6 +1,6 @@
 # mlcommons/training
 
-⭐ 1,779 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlcommons/training) · [官网](https://mlcommons.org/en/groups/training) · 组织维护
+⭐ 1,780 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlcommons/training) · [官网](https://mlcommons.org/en/groups/training) · 组织维护
 
 **MLPerf Training 基准测试的参考实现集合**
 
@@ -46,12 +46,12 @@ MLCommons 维护的 MLPerf Training 基准参考实现仓库，覆盖 v4.0 至 v
 ```mermaid
 xychart-beta
     title "mlcommons/training 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 1775 --> 1780
-    line [1776, 1777, 1778, 1779, 1778, 1779, 1778, 1779, 1779]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 1775 --> 1781
+    line [1776, 1777, 1778, 1779, 1778, 1779, 1778, 1779, 1780]
 ```
 
-2026-10-18 1,776 → 2026-11-18 1,779（+3）
+2026-10-18 1,776 → 2026-11-19 1,780（+4）
 
 
 ---

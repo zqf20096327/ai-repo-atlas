@@ -1,6 +1,6 @@
 # caseclose/cma-harness
 
-⭐ 15 · HTML · 推送 2026-09-02 · [GitHub](https://github.com/caseclose/cma-harness) · [官网](https://caseclose.github.io/cma-harness/) · 组织维护 · 中文 README
+⭐ 16 · Python · 推送 2026-11-18 · [GitHub](https://github.com/caseclose/cma-harness) · [官网](https://caseclose.github.io/cma-harness/) · 组织维护 · 中文 README
 
 **面向长程多模态理解/生成/编辑的记忆中心 agent 及其基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "caseclose/cma-harness 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-11-18 15（+1）
+2026-10-18 14 → 2026-11-19 16（+2）
 
 
 ---

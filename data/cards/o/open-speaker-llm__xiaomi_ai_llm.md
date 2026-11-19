@@ -1,6 +1,6 @@
 # open-speaker-llm/xiaomi_ai_llm
 
-⭐ 66 · Shell · MIT · 推送 2026-11-10 · [GitHub](https://github.com/open-speaker-llm/xiaomi_ai_llm) · 个人维护 · 中文 README
+⭐ 67 · Shell · MIT · 推送 2026-11-10 · [GitHub](https://github.com/open-speaker-llm/xiaomi_ai_llm) · 个人维护 · 中文 README
 
 **让老款小爱音箱直连云端大模型问答的客户端**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-speaker-llm/xiaomi_ai_llm 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 59 --> 67
-    line [60, 61, 62, 63, 64, 65, 66]
+    title "open-speaker-llm/xiaomi_ai_llm 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 59 --> 68
+    line [60, 61, 62, 63, 64, 65, 66, 67]
 ```
 
-2026-11-08 60 → 2026-11-18 66（+6）
+2026-11-08 60 → 2026-11-19 67（+7）
 
 
 ---

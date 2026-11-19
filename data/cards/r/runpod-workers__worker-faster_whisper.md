@@ -1,6 +1,6 @@
 # runpod-workers/worker-faster_whisper
 
-⭐ 144 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/runpod-workers/worker-faster_whisper) · [官网](https://runpod.io) · 组织维护
+⭐ 145 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/runpod-workers/worker-faster_whisper) · [官网](https://runpod.io) · 组织维护
 
 **将 faster-whisper 封装为 RunPod serverless 端点的转录 worker**
 
@@ -45,12 +45,12 @@ RunPod 官方 worker 仓库之一，把 faster-whisper 语音转录封装为 ser
 ```mermaid
 xychart-beta
     title "runpod-workers/worker-faster_whisper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 143 --> 145
-    line [144, 144]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 143 --> 146
+    line [144, 145]
 ```
 
-2026-10-18 144 → 2026-11-18 144（+0）
+2026-10-18 144 → 2026-11-19 145（+1）
 
 
 ---

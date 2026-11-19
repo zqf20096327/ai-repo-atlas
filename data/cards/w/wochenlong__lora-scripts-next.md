@@ -1,6 +1,6 @@
 # wochenlong/lora-scripts-next
 
-⭐ 287 · Python · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/wochenlong/lora-scripts-next) · 个人维护 · 中文 README
+⭐ 287 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/wochenlong/lora-scripts-next) · 个人维护 · 中文 README
 
 **多引擎 LoRA 本地训练工作台：一站式数据准备与模型训练**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wochenlong/lora-scripts-next 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
+    title "wochenlong/lora-scripts-next 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19"]
     y-axis "stars" 282 --> 288
-    line [283, 285, 286, 287]
+    line [283, 285, 286, 287, 287]
 ```
 
-2026-11-08 283 → 2026-11-18 287（+4）
+2026-11-08 283 → 2026-11-19 287（+4）
 
 
 ---

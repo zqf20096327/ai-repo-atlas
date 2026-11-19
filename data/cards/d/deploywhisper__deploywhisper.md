@@ -1,6 +1,6 @@
 # deploywhisper/deploywhisper
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/deploywhisper/deploywhisper) · [官网](https://deploywhisper.dev) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/deploywhisper/deploywhisper) · [官网](https://deploywhisper.dev) · 组织维护
 
 **给平台/DevOps 团队的部署前基础设施变更风险审查平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deploywhisper/deploywhisper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-18 11（+1）
+2026-10-18 10 → 2026-11-19 11（+1）
 
 
 ---

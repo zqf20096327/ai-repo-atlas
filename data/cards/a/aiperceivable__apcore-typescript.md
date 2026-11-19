@@ -1,6 +1,6 @@
 # aiperceivable/apcore-typescript
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/aiperceivable/apcore-typescript) · [官网](https://aipartnerup.com/) · 组织维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/aiperceivable/apcore-typescript) · [官网](https://aipartnerup.com/) · 组织维护
 
 **TypeScript 的 AI 可感知模块开发框架：让接口可被 AI 调用并受治理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aiperceivable/apcore-typescript 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
     y-axis "stars" 16 --> 19
     line [18, 17, 17]
 ```
 
-2026-10-18 18 → 2026-11-18 17（-1）
+2026-10-18 18 → 2026-11-19 17（-1）
 
 
 ---

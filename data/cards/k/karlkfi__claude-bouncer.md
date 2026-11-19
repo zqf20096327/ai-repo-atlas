@@ -1,6 +1,6 @@
 # karlkfi/claude-bouncer
 
-⭐ 13 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/karlkfi/claude-bouncer) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/karlkfi/claude-bouncer) · 个人维护
 
 **为 Claude Code 提供 PreToolUse 钩子防护的插件市场**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "karlkfi/claude-bouncer 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-08 13 → 2026-11-18 13（+0）
+2026-11-08 13 → 2026-11-19 13（+0）
 
 
 ---

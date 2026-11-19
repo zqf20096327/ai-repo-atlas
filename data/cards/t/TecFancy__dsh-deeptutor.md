@@ -1,6 +1,6 @@
 # TecFancy/dsh-deeptutor
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TecFancy/dsh-deeptutor) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/TecFancy/dsh-deeptutor) · 个人维护
 
 **把 DeepTutor 辅导能力接入 agent 的插件：讲解、自测、RAG**
 
@@ -46,12 +46,12 @@ DeepSeek Harness (dsh) 与 Claude Code 的学习辅助扩展，通过四个 agen
 ```mermaid
 xychart-beta
     title "TecFancy/dsh-deeptutor 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-18 11（+1）
+2026-11-08 10 → 2026-11-19 11（+1）
 
 
 ---

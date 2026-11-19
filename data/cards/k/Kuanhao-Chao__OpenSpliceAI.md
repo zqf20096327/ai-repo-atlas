@@ -1,6 +1,6 @@
 # Kuanhao-Chao/OpenSpliceAI
 
-⭐ 56 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Kuanhao-Chao/OpenSpliceAI) · [官网](https://khchao.com/OpenSpliceAI/) · 组织维护
+⭐ 57 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Kuanhao-Chao/OpenSpliceAI) · [官网](https://khchao.com/OpenSpliceAI/) · 组织维护
 
 **剪接位点预测框架：跨物种预测剪接与变异影响**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kuanhao-Chao/OpenSpliceAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
-    y-axis "stars" 53 --> 57
-    line [54, 55, 56]
+    title "Kuanhao-Chao/OpenSpliceAI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 53 --> 58
+    line [54, 55, 56, 57]
 ```
 
-2026-10-18 54 → 2026-11-18 56（+2）
+2026-10-18 54 → 2026-11-19 57（+3）
 
 
 ---

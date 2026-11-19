@@ -1,6 +1,6 @@
 # zeekk0/OpenAmika
 
-⭐ 671 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/zeekk0/OpenAmika) · [官网](https://www.mekahime.com/openamika) · 组织维护 · 中文 README
+⭐ 677 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/zeekk0/OpenAmika) · [官网](https://www.mekahime.com/openamika) · 组织维护 · 中文 README
 
 **开源 Live2D AI 陪伴角色：实时语音、长期记忆、本地运行**
 
@@ -44,13 +44,13 @@ MekaHime 开源的 Live2D 动漫角色 Amika，与用户进行实时语音和文
 
 ```mermaid
 xychart-beta
-    title "zeekk0/OpenAmika 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 524 --> 684
-    line [537, 592, 603, 617, 624, 637, 648, 666, 671]
+    title "zeekk0/OpenAmika 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 523 --> 691
+    line [537, 592, 603, 617, 624, 637, 648, 666, 671, 677]
 ```
 
-2026-11-08 537 → 2026-11-18 671（+134）
+2026-11-08 537 → 2026-11-19 677（+140）
 
 
 ---

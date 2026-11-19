@@ -1,6 +1,6 @@
 # Electricitysheep/ai-agent-playbook
 
-⭐ 33 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/Electricitysheep/ai-agent-playbook) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/Electricitysheep/ai-agent-playbook) · 个人维护 · 中文 README
 
 **AI Agent 工程×量化金融的原创调研知识库（106 篇+16 实验）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Electricitysheep/ai-agent-playbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-11-18 33（+1）
+2026-10-18 32 → 2026-11-19 34（+2）
 
 
 ---

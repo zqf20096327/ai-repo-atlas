@@ -1,6 +1,6 @@
 # nishtha-agarwal-211/Smart-Medicines
 
-⭐ 13 · JavaScript · 推送 2026-07-25 · [GitHub](https://github.com/nishtha-agarwal-211/Smart-Medicines) · 个人维护
+⭐ 14 · JavaScript · 推送 2026-07-25 · [GitHub](https://github.com/nishtha-agarwal-211/Smart-Medicines) · 个人维护
 
 **面向老年患者的 AI 用药管理助手：处方扫描、相互作用检测与提醒**
 
@@ -40,6 +40,18 @@
 > L18: |**📸 Prescription Scanner**|Upload a photo → Gemini Vision extracts drug name, dosage, frequency, warnings|
 > L140: 3. Gemini reasons over the drug name, timing, and half-life
 > L165: > ⚠️ **Note:** For a production healthcare app, you would need Firestore security rules, end-to-end encryption, an
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nishtha-agarwal-211/Smart-Medicines 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
+```
+
+2026-11-18 13 → 2026-11-19 14（+1）
 
 
 ---

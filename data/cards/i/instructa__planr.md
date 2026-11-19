@@ -1,6 +1,6 @@
 # instructa/planr
 
-⭐ 74 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/instructa/planr) · [官网](https://planr.so) · 组织维护
+⭐ 75 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/instructa/planr) · [官网](https://planr.so) · 组织维护
 
 **给多 coding agent 协作的规划层：Git 内 Markdown 任务与依赖**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "instructa/planr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-18 74 → 2026-11-18 74（+0）
+2026-10-18 74 → 2026-11-19 75（+1）
 
 
 ---

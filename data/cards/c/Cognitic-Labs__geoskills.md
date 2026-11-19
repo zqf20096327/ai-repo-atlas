@@ -1,6 +1,6 @@
 # Cognitic-Labs/geoskills
 
-⭐ 32 · JavaScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/Cognitic-Labs/geoskills) · [官网](https://aivsrank.com) · 组织维护
+⭐ 33 · JavaScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/Cognitic-Labs/geoskills) · [官网](https://aivsrank.com) · 组织维护
 
 **面向网站运营者的 GEO Agent 技能套件：审计与修复 AI 可见性**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Cognitic-Labs/geoskills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-18 31 → 2026-11-18 32（+1）
+2026-10-18 31 → 2026-11-19 33（+2）
 
 
 ---

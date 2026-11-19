@@ -46,12 +46,12 @@ pnpm workspaces + Turborepo 的 monorepo GitHub 模板，用 Next.js 16 Web 应�
 ```mermaid
 xychart-beta
     title "jamesjlundin/full-stack-web-and-mobile-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-18 35（+1）
+2026-10-18 34 → 2026-11-19 35（+1）
 
 
 ---

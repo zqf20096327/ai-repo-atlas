@@ -1,6 +1,6 @@
 # Ultra-Guru/Android-Guru-Agent
 
-⭐ 17 · Kotlin · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Ultra-Guru/Android-Guru-Agent) · [官网](https://ultra-guru.github.io/Android-Guru-Agent/) · 个人维护 · 中文 README
+⭐ 18 · Kotlin · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Ultra-Guru/Android-Guru-Agent) · [官网](https://ultra-guru.github.io/Android-Guru-Agent/) · 个人维护 · 中文 README
 
 **完全运行在 Android 手机上的 AI 编码智能体应用**
 
@@ -45,12 +45,12 @@ Kotlin/Compose 编写的 Android 端 AI 编码工作台：OpenAI 兼容流式 LL
 ```mermaid
 xychart-beta
     title "Ultra-Guru/Android-Guru-Agent 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 9 --> 19
-    line [11, 10, 11, 12, 14, 15, 11, 18, 17, 17]
+    line [11, 10, 11, 12, 14, 15, 11, 18, 17, 18]
 ```
 
-2026-10-18 11 → 2026-11-18 17（+6）
+2026-10-18 11 → 2026-11-19 18（+7）
 
 
 ---

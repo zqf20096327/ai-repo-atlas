@@ -1,6 +1,6 @@
 # intel/ScalableVectorSearch
 
-⭐ 242 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/intel/ScalableVectorSearch) · [官网](https://intel.github.io/ScalableVectorSearch/) · 组织维护
+⭐ 242 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/intel/ScalableVectorSearch) · [官网](https://intel.github.io/ScalableVectorSearch/) · 组织维护
 
 **面向十亿级高维向量的相似度检索性能库**
 
@@ -46,12 +46,12 @@ Intel 维护的 C++ 向量相似度检索库，提供 Python API，支持欧氏�
 ```mermaid
 xychart-beta
     title "intel/ScalableVectorSearch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
     y-axis "stars" 238 --> 243
     line [239, 240, 241, 239, 241, 242, 242]
 ```
 
-2026-10-18 239 → 2026-11-18 242（+3）
+2026-10-18 239 → 2026-11-19 242（+3）
 
 
 ---

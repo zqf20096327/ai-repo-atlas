@@ -1,6 +1,6 @@
 # clivedsouza1010/rudra-js
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/clivedsouza1010/rudra-js) · [官网](https://rudrajs.com) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/clivedsouza1010/rudra-js) · [官网](https://rudrajs.com) · 个人维护
 
 **让 LLM 设计推荐文案、以目录校验防编造的电商 React 推荐库**
 
@@ -40,6 +40,18 @@ TypeScript 库（MIT，多包组成）：LLM 仅输出受限的 spec（无价格
 > L3: rudra-js is an open-source TypeScript library for generating dynamic product recommendations.
 > L13: return a spec instead: a short description of the block, made up only of fields rudra-js defines. It
 > L63: You will need React 18 or 19, but not Server Components. `@rudra-js/react` is just plain React with
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "clivedsouza1010/rudra-js 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 11 --> 15
+    line [12, 14]
+```
+
+2026-11-18 12 → 2026-11-19 14（+2）
 
 
 ---

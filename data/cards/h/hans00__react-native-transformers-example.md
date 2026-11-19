@@ -1,6 +1,6 @@
 # hans00/react-native-transformers-example
 
-⭐ 77 · TypeScript · 推送 2026-01-29 · [GitHub](https://github.com/hans00/react-native-transformers-example) · 个人维护
+⭐ 76 · TypeScript · 推送 2026-01-29 · [GitHub](https://github.com/hans00/react-native-transformers-example) · 个人维护
 
 **transformers.js 在 React Native 上运行的示例工程**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "hans00/react-native-transformers-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 75 --> 78
+    line [77, 76]
 ```
 
-2026-10-18 77 → 2026-11-18 77（+0）
+2026-10-18 77 → 2026-11-19 76（-1）
 
 
 ---

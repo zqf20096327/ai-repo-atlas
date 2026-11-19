@@ -1,6 +1,6 @@
 # knecht-works/knecht-cloud
 
-⭐ 53 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/knecht-works/knecht-cloud) · [官网](https://knecht.works) · 组织维护
+⭐ 55 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/knecht-works/knecht-cloud) · [官网](https://knecht.works) · 组织维护
 
 **自托管平台：让 AI agent 在隔离沙箱中复现并修复 DDEV 项目 bug**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "knecht-works/knecht-cloud 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 43 --> 54
-    line [48, 47, 46, 44, 49, 53]
+    title "knecht-works/knecht-cloud 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 43 --> 56
+    line [48, 47, 46, 44, 49, 53, 55]
 ```
 
-2026-10-18 48 → 2026-11-18 53（+5）
+2026-10-18 48 → 2026-11-19 55（+7）
 
 
 ---

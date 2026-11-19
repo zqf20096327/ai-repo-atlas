@@ -1,6 +1,6 @@
 # albegosu/second-brain
 
-⭐ 16 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/albegosu/second-brain) · [官网](https://albegosu.github.io/second-brain/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/albegosu/second-brain) · [官网](https://albegosu.github.io/second-brain/) · 个人维护
 
 **把 UI 灵感收藏自动整理为私有 wiki 与 DESIGN.md 的个人工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "albegosu/second-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-18 16（+1）
+2026-10-18 15 → 2026-11-19 17（+2）
 
 
 ---

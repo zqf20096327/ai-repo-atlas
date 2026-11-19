@@ -1,6 +1,6 @@
 # thousandflowers/skillreaper
 
-⭐ 66 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/thousandflowers/skillreaper) · 个人维护
+⭐ 66 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/thousandflowers/skillreaper) · 个人维护
 
 **测量并清理 AI agent 技能/MCP/子代理的上下文冗余项**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thousandflowers/skillreaper 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
     y-axis "stars" 59 --> 67
     line [60, 62, 64, 65, 66, 66]
 ```
 
-2026-10-18 60 → 2026-11-18 66（+6）
+2026-10-18 60 → 2026-11-19 66（+6）
 
 
 ---

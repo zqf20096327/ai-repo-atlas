@@ -1,6 +1,6 @@
 # NERVsystems/llm9p
 
-⭐ 51 · Go · MIT · 推送 2026-09-01 · [GitHub](https://github.com/NERVsystems/llm9p) · 个人维护
+⭐ 52 · Go · MIT · 推送 2026-09-01 · [GitHub](https://github.com/NERVsystems/llm9p) · 个人维护
 
 **把 LLM 暴露为 9P 文件系统：写文件即提问、读文件得回答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NERVsystems/llm9p 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52]
 ```
 
-2026-10-18 50 → 2026-11-18 51（+1）
+2026-10-18 50 → 2026-11-19 52（+2）
 
 
 ---

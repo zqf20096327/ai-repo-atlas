@@ -1,6 +1,6 @@
 # slax-lab/slax-reader
 
-⭐ 85 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/slax-lab/slax-reader) · [官网](https://slax.com/reader/) · 组织维护 · 中文 README
+⭐ 85 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/slax-lab/slax-reader) · [官网](https://slax.com/reader/) · 组织维护 · 中文 README
 
 **开源自托管的稍后读应用，网页存档+标注讨论+AI阅读辅助**
 
@@ -45,12 +45,12 @@ Slax Reader 是一个 read-it-later 类阅读应用：保存网页生成永久�
 ```mermaid
 xychart-beta
     title "slax-lab/slax-reader 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 80 --> 86
     line [81, 82, 83, 84, 83, 84, 85, 85]
 ```
 
-2026-10-18 81 → 2026-11-18 85（+4）
+2026-10-18 81 → 2026-11-19 85（+4）
 
 
 ---

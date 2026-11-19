@@ -1,6 +1,6 @@
 # aakashg/awesome-ai-pm
 
-⭐ 29 · MIT · 推送 2026-03-03 · [GitHub](https://github.com/aakashg/awesome-ai-pm) · [官网](https://www.news.aakashg.com) · 个人维护
+⭐ 30 · MIT · 推送 2026-03-03 · [GitHub](https://github.com/aakashg/awesome-ai-pm) · [官网](https://www.news.aakashg.com) · 个人维护
 
 **AI 产品经理策展知识清单：框架、工具、技能与资源**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aakashg/awesome-ai-pm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-18"]
-    y-axis "stars" 25 --> 30
-    line [26, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-19"]
+    y-axis "stars" 25 --> 31
+    line [26, 28, 29, 30]
 ```
 
-2026-10-18 26 → 2026-11-18 29（+3）
+2026-10-18 26 → 2026-11-19 30（+4）
 
 
 ---

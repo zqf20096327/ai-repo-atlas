@@ -1,6 +1,6 @@
 # adamzhang1987/kingdee-k3cloud-skill
 
-⭐ 40 · Makefile · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/adamzhang1987/kingdee-k3cloud-skill) · [官网](https://adamzhang1987.github.io/kingdee-k3cloud-skill/) · 个人维护 · 中文 README
+⭐ 41 · Makefile · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/adamzhang1987/kingdee-k3cloud-skill) · [官网](https://adamzhang1987.github.io/kingdee-k3cloud-skill/) · 个人维护 · 中文 README
 
 **为 Claude Code 等 Agent 注入金蝶云星空 ERP 查询知识的 Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adamzhang1987/kingdee-k3cloud-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 34 --> 41
-    line [35, 36, 37, 36, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 34 --> 42
+    line [35, 36, 37, 36, 39, 40, 41]
 ```
 
-2026-10-18 35 → 2026-11-18 40（+5）
+2026-10-18 35 → 2026-11-19 41（+6）
 
 
 ---

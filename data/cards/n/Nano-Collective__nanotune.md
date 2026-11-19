@@ -1,6 +1,6 @@
 # Nano-Collective/nanotune
 
-⭐ 42 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Nano-Collective/nanotune) · [官网](https://nanocollective.org) · 组织维护
+⭐ 42 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Nano-Collective/nanotune) · [官网](https://nanocollective.org) · 组织维护
 
 **面向开发者的 Apple Silicon 小模型交互式微调 CLI**
 
@@ -45,12 +45,12 @@ Nano Collective 开发的命令行工具，用于在 Apple Silicon 上微调小�
 ```mermaid
 xychart-beta
     title "Nano-Collective/nanotune 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
     y-axis "stars" 37 --> 43
     line [39, 38, 39, 40, 42, 42]
 ```
 
-2026-10-18 39 → 2026-11-18 42（+3）
+2026-10-18 39 → 2026-11-19 42（+3）
 
 
 ---

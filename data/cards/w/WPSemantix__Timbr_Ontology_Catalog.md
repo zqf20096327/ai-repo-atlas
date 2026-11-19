@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WPSemantix/Timbr_Ontology_Catalog 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-18"]
+    title "WPSemantix/Timbr_Ontology_Catalog 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 21 --> 25
-    line [22, 23, 24]
+    line [22, 23, 24, 24]
 ```
 
-2026-11-02 22 → 2026-11-18 24（+2）
+2026-11-02 22 → 2026-11-19 24（+2）
 
 
 ---

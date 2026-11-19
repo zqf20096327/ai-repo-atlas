@@ -1,6 +1,6 @@
 # getzipzi/zipzi-2d
 
-⭐ 12 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/getzipzi/zipzi-2d) · [官网](https://zipzi2d.com) · 个人维护 · 中文 README
+⭐ 13 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/getzipzi/zipzi-2d) · [官网](https://zipzi2d.com) · 个人维护 · 中文 README
 
 **与 AI Agent 协作的开源 2D 建模与动画工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "getzipzi/zipzi-2d 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 4 --> 13
-    line [5, 6, 8, 9, 11, 12, 12]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 4 --> 14
+    line [5, 6, 8, 9, 11, 12, 13]
 ```
 
-2026-11-08 5 → 2026-11-18 12（+7）
+2026-11-08 5 → 2026-11-19 13（+8）
 
 
 ---

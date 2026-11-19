@@ -41,6 +41,18 @@
 > L81: ## All 49 skills
 > L221: - Each skill is a folder with a `SKILL.md`, plain Markdown your agent reads when your request matches it. Nothing 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "off-grid-ai/skills 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 174 --> 176
+    line [175, 175]
+```
+
+2026-11-18 175 → 2026-11-19 175（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `e5cd57521758` · [字段定义](../../DATASET.md)*

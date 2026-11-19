@@ -1,6 +1,6 @@
 # RhinoDevel/mt_llm
 
-⭐ 16 · C++ · MIT · 推送 2026-11-13 · [GitHub](https://github.com/RhinoDevel/mt_llm) · 个人维护
+⭐ 16 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/RhinoDevel/mt_llm) · 个人维护
 
 **封装 llama.cpp 的纯 C 接口库，用于单用户 LLM 推理**
 
@@ -45,12 +45,12 @@ C++ 编写、对外提供纯 C 接口的库，封装 llama.cpp 推理引擎，�
 ```mermaid
 xychart-beta
     title "RhinoDevel/mt_llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-18 16（+1）
+2026-10-18 15 → 2026-11-19 16（+1）
 
 
 ---

@@ -45,13 +45,13 @@ Ritemark 是 macOS/Windows 桌面 Markdown 编辑器，三窗格布局：中央�
 
 ```mermaid
 xychart-beta
-    title "jarmo-productory/ritemark-public 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "jarmo-productory/ritemark-public 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 15 --> 18
-    line [16, 17]
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-18 17（+1）
+2026-10-18 16 → 2026-11-19 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/best-route-llm
 
-⭐ 70 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/best-route-llm) · 组织维护
+⭐ 71 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/best-route-llm) · 组织维护
 
 **面向研究者的 LLM 查询路由训练代码：按难度选模型与采样数**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/best-route-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
-    y-axis "stars" 68 --> 71
-    line [69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 71]
 ```
 
-2026-10-18 69 → 2026-11-18 70（+1）
+2026-10-18 69 → 2026-11-19 71（+2）
 
 
 ---

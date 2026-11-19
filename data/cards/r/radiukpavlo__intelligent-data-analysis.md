@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "radiukpavlo/intelligent-data-analysis 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-18"]
+    x-axis ["2026-10-19", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-18 13（+0）
+2026-10-19 13 → 2026-11-19 13（+0）
 
 
 ---

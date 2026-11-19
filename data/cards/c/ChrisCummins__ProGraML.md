@@ -1,6 +1,6 @@
 # ChrisCummins/ProGraML
 
-⭐ 333 · C++ · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/ChrisCummins/ProGraML) · 个人维护
+⭐ 332 · C++ · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/ChrisCummins/ProGraML) · 个人维护
 
 **将程序表示为图供机器学习模型使用的 Python 库**
 
@@ -45,12 +45,12 @@ ProGraML 提供语言无关的程序图表示，把 C、C++、LLVM-IR（3.8/6.0/
 ```mermaid
 xychart-beta
     title "ChrisCummins/ProGraML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 332 --> 334
-    line [333, 333]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 331 --> 334
+    line [333, 332]
 ```
 
-2026-10-18 333 → 2026-11-18 333（+0）
+2026-10-18 333 → 2026-11-19 332（-1）
 
 
 ---

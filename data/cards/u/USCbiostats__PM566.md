@@ -1,6 +1,6 @@
 # USCbiostats/PM566
 
-⭐ 18 · R · 推送 2026-11-13 · [GitHub](https://github.com/USCbiostats/PM566) · [官网](https://uscbiostats.github.io/PM566/) · 组织维护
+⭐ 18 · R · 推送 2026-11-18 · [GitHub](https://github.com/USCbiostats/PM566) · [官网](https://uscbiostats.github.io/PM566/) · 组织维护
 
 **南加州大学健康数据科学课程（PM566）教学资料仓库**
 
@@ -44,12 +44,12 @@ USC 生物统计系 PM566《健康数据科学导论》的课程材料仓库，�
 ```mermaid
 xychart-beta
     title "USCbiostats/PM566 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 18（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sspaeti/obsidian-note-taking-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    title "sspaeti/obsidian-note-taking-assistant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18", "2026-11-19"]
     y-axis "stars" 66 --> 70
-    line [67, 68, 69]
+    line [67, 68, 69, 69]
 ```
 
-2026-10-18 67 → 2026-11-18 69（+2）
+2026-10-18 67 → 2026-11-19 69（+2）
 
 
 ---

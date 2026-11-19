@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MeRay-dev/awesome-ecommerce-retail-tools 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-11", "2026-11-18"]
+    title "MeRay-dev/awesome-ecommerce-retail-tools 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19"]
     y-axis "stars" 17 --> 23
-    line [18, 20, 21, 22]
+    line [18, 20, 21, 22, 22]
 ```
 
-2026-10-28 18 → 2026-11-18 22（+4）
+2026-10-28 18 → 2026-11-19 22（+4）
 
 
 ---

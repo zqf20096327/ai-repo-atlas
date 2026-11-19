@@ -1,6 +1,6 @@
 # cdavid817/AI-Infra-Tutorial
 
-⭐ 17 · JavaScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/cdavid817/AI-Infra-Tutorial) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/cdavid817/AI-Infra-Tutorial) · 个人维护 · 中文 README
 
 **面向平台建设方的中文 AI 基础设施书稿（31 章+附录+估算器）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cdavid817/AI-Infra-Tutorial 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 15, 17, 17]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 16, 17, 15, 17, 18]
 ```
 
-2026-10-18 14 → 2026-11-18 17（+3）
+2026-10-18 14 → 2026-11-19 18（+4）
 
 
 ---

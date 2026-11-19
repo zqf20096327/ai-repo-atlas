@@ -1,6 +1,6 @@
 # Canvixel-Eloweny/ai-bot-groupmate
 
-⭐ 102 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Canvixel-Eloweny/ai-bot-groupmate) · [官网](https://github.com/Canvixel-Eloweny/ai-bot-groupmate) · 个人维护 · 中文 README
+⭐ 102 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Canvixel-Eloweny/ai-bot-groupmate) · [官网](https://github.com/Canvixel-Eloweny/ai-bot-groupmate) · 个人维护 · 中文 README
 
 **把 QQ 小号接给大模型、让 AI 像群友一样聊天的机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Canvixel-Eloweny/ai-bot-groupmate 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-19"]
     y-axis "stars" 77 --> 106
     line [79, 86, 91, 92, 94, 95, 96, 94, 102, 104, 103, 102, 102]
 ```
 
-2026-10-18 79 → 2026-11-18 102（+23）
+2026-10-18 79 → 2026-11-19 102（+23）
 
 
 ---

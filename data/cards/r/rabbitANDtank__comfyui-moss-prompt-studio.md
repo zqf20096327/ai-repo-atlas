@@ -1,6 +1,6 @@
 # rabbitANDtank/comfyui-moss-prompt-studio
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/rabbitANDtank/comfyui-moss-prompt-studio) · 个人维护 · 中文 README
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/rabbitANDtank/comfyui-moss-prompt-studio) · 个人维护 · 中文 README
 
 **ComfyUI 插件：中文提示词可视化编辑、LLM 翻译与 MOSS-Image 编译**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rabbitANDtank/comfyui-moss-prompt-studio 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 5 --> 13
-    line [6, 7, 9, 10, 11, 12]
+    title "rabbitANDtank/comfyui-moss-prompt-studio 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 5 --> 14
+    line [6, 7, 9, 10, 11, 12, 13]
 ```
 
-2026-11-08 6 → 2026-11-18 12（+6）
+2026-11-08 6 → 2026-11-19 13（+7）
 
 
 ---

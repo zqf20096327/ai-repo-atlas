@@ -45,13 +45,13 @@ MiniMax Code 团队提出的 BYOB Table Protocol v0.1 及其 TypeScript 参考�
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/mcode-agent-table 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
+    title "MiniMax-AI/mcode-agent-table 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19"]
     y-axis "stars" 53 --> 57
-    line [55, 54, 55, 56]
+    line [55, 54, 55, 56, 56]
 ```
 
-2026-11-08 55 → 2026-11-18 56（+1）
+2026-11-08 55 → 2026-11-19 56（+1）
 
 
 ---

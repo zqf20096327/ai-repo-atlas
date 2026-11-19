@@ -1,6 +1,6 @@
 # Jaasssoooonnnnn/FirstLight-Zero
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Jaasssoooonnnnn/FirstLight-Zero) · 个人维护 · 中文 README
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Jaasssoooonnnnn/FirstLight-Zero) · 个人维护 · 中文 README
 
 **纯自博弈训练的 Clash Royale PPO 模型，胜过模仿学习模型**
 
@@ -45,13 +45,13 @@ AlphaZero 风格的 Clash Royale AI 项目：1.17M 参数的 PPO 模型完全通
 
 ```mermaid
 xychart-beta
-    title "Jaasssoooonnnnn/FirstLight-Zero 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 13 --> 30
-    line [14, 15, 17, 18, 20, 21, 23, 26, 29]
+    title "Jaasssoooonnnnn/FirstLight-Zero 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 12 --> 38
+    line [14, 15, 17, 18, 20, 21, 23, 26, 29, 36]
 ```
 
-2026-11-08 14 → 2026-11-18 29（+15）
+2026-11-08 14 → 2026-11-19 36（+22）
 
 
 ---

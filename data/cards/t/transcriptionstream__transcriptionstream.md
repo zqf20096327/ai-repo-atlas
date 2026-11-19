@@ -1,6 +1,6 @@
 # transcriptionstream/transcriptionstream
 
-⭐ 948 · Python · GPL-3.0 · 推送 2026-01-18 · [GitHub](https://github.com/transcriptionstream/transcriptionstream) · 组织维护
+⭐ 949 · Python · GPL-3.0 · 推送 2026-01-18 · [GitHub](https://github.com/transcriptionstream/transcriptionstream) · 组织维护
 
 **自托管离线转写与说话人分离服务，含 LLM 摘要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "transcriptionstream/transcriptionstream 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 944 --> 949
-    line [947, 946, 945, 946, 945, 946, 947, 948, 948]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 944 --> 950
+    line [947, 946, 945, 946, 945, 946, 947, 948, 949]
 ```
 
-2026-10-18 947 → 2026-11-18 948（+1）
+2026-10-18 947 → 2026-11-19 949（+2）
 
 
 ---

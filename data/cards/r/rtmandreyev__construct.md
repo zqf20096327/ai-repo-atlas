@@ -1,6 +1,6 @@
 # rtmandreyev/construct
 
-⭐ 142 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/rtmandreyev/construct) · [官网](https://rtmandreyev.github.io/construct/) · 个人维护
+⭐ 153 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/rtmandreyev/construct) · [官网](https://rtmandreyev.github.io/construct/) · 个人维护
 
 **让任意 AI agent 从自然语言生成全息 3D 模型及部件的技能与 MCP 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rtmandreyev/construct 星数(近 11 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 6 --> 154
-    line [18, 42, 53, 95, 118, 120, 121, 123, 134, 137, 142]
+    title "rtmandreyev/construct 星数(近 12 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 5 --> 166
+    line [18, 42, 53, 95, 118, 120, 121, 123, 134, 137, 142, 153]
 ```
 
-2026-10-30 18 → 2026-11-18 142（+124）
+2026-10-30 18 → 2026-11-19 153（+135）
 
 
 ---

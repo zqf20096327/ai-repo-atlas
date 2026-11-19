@@ -1,6 +1,6 @@
 # AdaptInfer/Contextualized
 
-⭐ 76 · Python · GPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/AdaptInfer/Contextualized) · [官网](http://contextualized.ml/) · 组织维护
+⭐ 77 · Python · GPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/AdaptInfer/Contextualized) · [官网](http://contextualized.ml/) · 组织维护
 
 **SKLearn 风格的上下文特定参数统计建模工具箱**
 
@@ -46,12 +46,12 @@ Python 工具箱，将线性回归、逻辑回归、贝叶斯网络、相关性�
 ```mermaid
 xychart-beta
     title "AdaptInfer/Contextualized 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 75 --> 78
+    line [76, 77]
 ```
 
-2026-10-18 76 → 2026-11-18 76（+0）
+2026-10-18 76 → 2026-11-19 77（+1）
 
 
 ---

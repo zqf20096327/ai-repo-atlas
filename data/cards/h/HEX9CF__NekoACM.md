@@ -1,6 +1,6 @@
 # HEX9CF/NekoACM
 
-⭐ 34 · Go · LGPL-3.0 · 推送 2025-11-22 · [GitHub](https://github.com/HEX9CF/NekoACM) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 ACM-ICPC 竞赛的大模型工具包：自动出题与题解生成**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | LGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

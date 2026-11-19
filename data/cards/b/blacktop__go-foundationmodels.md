@@ -1,6 +1,6 @@
 # blacktop/go-foundationmodels
 
-⭐ 26 · Go · MIT · 推送 2026-02-23 · [GitHub](https://github.com/blacktop/go-foundationmodels) · 个人维护
+⭐ 27 · Go · MIT · 推送 2026-02-23 · [GitHub](https://github.com/blacktop/go-foundationmodels) · 个人维护
 
 **Apple Foundation Models 的纯 Go 封装库与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "blacktop/go-foundationmodels 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27]
 ```
 
-2026-10-18 25 → 2026-11-18 26（+1）
+2026-10-18 25 → 2026-11-19 27（+2）
 
 
 ---

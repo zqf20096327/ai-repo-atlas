@@ -1,6 +1,6 @@
 # coder/blink
 
-⭐ 165 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/coder/blink) · [官网](https://blink.coder.com/docs) · 组织维护
+⭐ 165 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/coder/blink) · [官网](https://blink.coder.com/docs) · 组织维护
 
 **自托管平台：构建并通过 Slack/GitHub/Web 运行团队 AI agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "coder/blink 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 164 --> 166
     line [165, 165]
 ```
 
-2026-10-18 165 → 2026-11-18 165（+0）
+2026-10-18 165 → 2026-11-19 165（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mixedbread-ai/skills
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/mixedbread-ai/skills) · [官网](https://www.mixedbread.com/docs/skills) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/mixedbread-ai/skills) · [官网](https://www.mixedbread.com/docs/skills) · 组织维护
 
 **Mixedbread 官方 agent 技能包：搜索、RAG、文档解析五项技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mixedbread-ai/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-18 14（+0）
+2026-10-18 14 → 2026-11-19 14（+0）
 
 
 ---

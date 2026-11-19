@@ -1,6 +1,6 @@
 # AlephantAI/AIephant-AI-Agent-Gateway
 
-⭐ 118 · Rust · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/AlephantAI/AIephant-AI-Agent-Gateway) · [官网](https://openany.si) · 组织维护 · 中文 README
+⭐ 119 · Rust · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/AlephantAI/AIephant-AI-Agent-Gateway) · [官网](https://openany.si) · 组织维护 · 中文 README
 
 **自托管/托管的 OpenAI 兼容 AI 网关：路由、管控与观测多提供商 LLM 流量**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AlephantAI/AIephant-AI-Agent-Gateway 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 113 --> 119
-    line [114, 116, 114, 118, 118]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 113 --> 120
+    line [114, 116, 114, 118, 119]
 ```
 
-2026-10-18 114 → 2026-11-18 118（+4）
+2026-10-18 114 → 2026-11-19 119（+5）
 
 
 ---

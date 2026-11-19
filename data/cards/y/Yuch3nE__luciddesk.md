@@ -1,6 +1,6 @@
 # Yuch3nE/luciddesk
 
-⭐ 21 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Yuch3nE/luciddesk) · [官网](https://luciddesk.bbkingdom365.com) · 个人维护 · 中文 README
+⭐ 22 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Yuch3nE/luciddesk) · [官网](https://luciddesk.bbkingdom365.com) · 个人维护 · 中文 README
 
 **Windows 桌面图标整理工具：面板分组、文件夹浏览、搜索预览与 Agent 联动**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yuch3nE/luciddesk 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 14 --> 22
-    line [15, 16, 17, 18, 16, 19, 21, 21]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 14 --> 23
+    line [15, 16, 17, 18, 16, 19, 21, 22]
 ```
 
-2026-10-18 15 → 2026-11-18 21（+6）
+2026-10-18 15 → 2026-11-19 22（+7）
 
 
 ---

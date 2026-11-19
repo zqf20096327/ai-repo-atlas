@@ -1,6 +1,6 @@
 # YerbaPage/Awesome-Repo-Level-Code-Generation
 
-⭐ 339 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation) · 组织维护
+⭐ 340 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation) · 组织维护
 
 **仓库级代码生成与议题修复论文策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YerbaPage/Awesome-Repo-Level-Code-Generation 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 333 --> 340
-    line [334, 335, 336, 334, 336, 337, 338, 339, 339]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 333 --> 341
+    line [334, 335, 336, 334, 336, 337, 338, 339, 340]
 ```
 
-2026-10-18 334 → 2026-11-18 339（+5）
+2026-10-18 334 → 2026-11-19 340（+6）
 
 
 ---

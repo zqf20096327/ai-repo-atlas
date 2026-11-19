@@ -1,6 +1,6 @@
 # agnilem/parley-astro
 
-⭐ 20 · CSS · MIT · 推送 2026-10-13 · [GitHub](https://github.com/agnilem/parley-astro) · [官网](https://parley.startfrom.co) · 组织维护
+⭐ 21 · CSS · MIT · 推送 2026-10-13 · [GitHub](https://github.com/agnilem/parley-astro) · [官网](https://parley.startfrom.co) · 组织维护
 
 **面向 AI/SaaS 初创的网站模板（Astro 与 Next.js 双版本）**
 
@@ -45,12 +45,12 @@ MIT 许可的静态网站模板，为 AI agent 与 SaaS 产品提供落地页、
 ```mermaid
 xychart-beta
     title "agnilem/parley-astro 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 14 --> 21
-    line [15, 16, 17, 18, 19, 20, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 14 --> 22
+    line [15, 16, 17, 18, 19, 20, 19, 20, 21]
 ```
 
-2026-10-18 15 → 2026-11-18 20（+5）
+2026-10-18 15 → 2026-11-19 21（+6）
 
 
 ---

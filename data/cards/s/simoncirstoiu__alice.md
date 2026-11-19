@@ -1,6 +1,6 @@
 # simoncirstoiu/alice
 
-⭐ 412 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/simoncirstoiu/alice) · 个人维护
+⭐ 413 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/simoncirstoiu/alice) · 个人维护
 
 **面向 Frigate 摄像头的 YOLO 数据集标注、训练与管理工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "simoncirstoiu/alice 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 408 --> 413
-    line [409, 410, 411, 412, 412]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 408 --> 414
+    line [409, 410, 411, 412, 413]
 ```
 
-2026-10-18 409 → 2026-11-18 412（+3）
+2026-10-18 409 → 2026-11-19 413（+4）
 
 
 ---

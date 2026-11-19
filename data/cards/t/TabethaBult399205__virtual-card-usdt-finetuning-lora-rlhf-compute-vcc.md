@@ -1,6 +1,6 @@
 # TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc
 
-⭐ 25 · 推送 2026-11-13 · [GitHub](https://github.com/TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 29 · 推送 2026-11-13 · [GitHub](https://github.com/TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡+USDT 为 AI 训练算力付费设预算上限**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 1 --> 27
-    line [3, 8, 20, 25]
+    title "TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc 星数(近 5 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 1 --> 31
+    line [3, 8, 20, 25, 29]
 ```
 
-2026-11-13 3 → 2026-11-18 25（+22）
+2026-11-13 3 → 2026-11-19 29（+26）
 
 
 ---

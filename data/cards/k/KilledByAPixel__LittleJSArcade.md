@@ -1,6 +1,6 @@
 # KilledByAPixel/LittleJSArcade
 
-⭐ 18 · HTML · MIT · 推送 2026-10-15 · [GitHub](https://github.com/KilledByAPixel/LittleJSArcade) · [官网](https://killedbyapixel.github.io/LittleJSArcade/) · 个人维护
+⭐ 19 · HTML · MIT · 推送 2026-10-15 · [GitHub](https://github.com/KilledByAPixel/LittleJSArcade) · [官网](https://killedbyapixel.github.io/LittleJSArcade/) · 个人维护
 
 **基于 LittleJS 引擎的经典街机游戏合集，浏览器即开即玩**
 
@@ -44,12 +44,12 @@ LittleJS 引擎作者维护的街机游戏集合：射击、解谜、棋牌、�
 ```mermaid
 xychart-beta
     title "KilledByAPixel/LittleJSArcade 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 17, 18, 19]
 ```
 
-2026-10-18 16 → 2026-11-18 18（+2）
+2026-10-18 16 → 2026-11-19 19（+3）
 
 
 ---

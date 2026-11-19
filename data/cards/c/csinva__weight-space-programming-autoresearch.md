@@ -1,6 +1,6 @@
 # csinva/weight-space-programming-autoresearch
 
-⭐ 80 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/csinva/weight-space-programming-autoresearch) · [官网](https://arxiv.org/abs/2611.18114) · 组织维护
+⭐ 92 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/csinva/weight-space-programming-autoresearch) · [官网](https://arxiv.org/abs/2611.18114) · 组织维护
 
 **LLM agent 直接编写模型权重的可解释建模研究代码库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "csinva/weight-space-programming-autoresearch 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 34 --> 84
-    line [38, 42, 43, 48, 57, 61, 64, 67, 80]
+    title "csinva/weight-space-programming-autoresearch 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 33 --> 97
+    line [38, 42, 43, 48, 57, 61, 64, 67, 80, 92]
 ```
 
-2026-11-08 38 → 2026-11-18 80（+42）
+2026-11-08 38 → 2026-11-19 92（+54）
 
 
 ---

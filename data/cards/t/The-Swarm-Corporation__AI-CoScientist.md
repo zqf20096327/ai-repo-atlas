@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Swarm-Corporation/AI-CoScientist 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    title "The-Swarm-Corporation/AI-CoScientist 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-19"]
     y-axis "stars" 131 --> 136
-    line [132, 134, 135]
+    line [132, 134, 135, 135]
 ```
 
-2026-10-18 132 → 2026-11-18 135（+3）
+2026-10-18 132 → 2026-11-19 135（+3）
 
 
 ---

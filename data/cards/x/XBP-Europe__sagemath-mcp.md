@@ -1,6 +1,6 @@
 # XBP-Europe/sagemath-mcp
 
-⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/XBP-Europe/sagemath-mcp) · [官网](https://pypi.org/project/sagemath-mcp/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/XBP-Europe/sagemath-mcp) · [官网](https://pypi.org/project/sagemath-mcp/) · 组织维护
 
 **给 LLM 提供沙箱化 SageMath 数学能力的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "XBP-Europe/sagemath-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-11-18 20（+2）
+2026-10-18 18 → 2026-11-19 21（+3）
 
 
 ---

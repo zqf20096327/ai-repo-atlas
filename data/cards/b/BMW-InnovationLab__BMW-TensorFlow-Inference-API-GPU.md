@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-16", "2026-11-19"]
     y-axis "stars" 311 --> 313
     line [312, 312]
 ```
 
-2026-11-16 312 → 2026-11-18 312（+0）
+2026-11-16 312 → 2026-11-19 312（+0）
 
 
 ---

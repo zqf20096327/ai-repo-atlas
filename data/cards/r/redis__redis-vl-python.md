@@ -1,6 +1,6 @@
 # redis/redis-vl-python
 
-⭐ 437 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/redis/redis-vl-python) · [官网](https://docs.redisvl.com) · 组织维护
+⭐ 437 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/redis/redis-vl-python) · [官网](https://docs.redisvl.com) · 组织维护
 
 **面向 AI 应用的 Redis Python 客户端与向量检索库**
 
@@ -47,12 +47,12 @@ Redis 官方维护的 Python 客户端库（Python>=3.10），在 Redis 之上�
 ```mermaid
 xychart-beta
     title "redis/redis-vl-python 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
     y-axis "stars" 431 --> 438
     line [432, 434, 436, 437, 437]
 ```
 
-2026-10-18 432 → 2026-11-18 437（+5）
+2026-10-18 432 → 2026-11-19 437（+5）
 
 
 ---

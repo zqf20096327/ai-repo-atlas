@@ -1,6 +1,6 @@
 # vllm-project/tml-fa4
 
-⭐ 18 · Python · BSD-3-Clause · 推送 2026-09-11 · [GitHub](https://github.com/vllm-project/tml-fa4) · 组织维护
+⭐ 18 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/vllm-project/tml-fa4) · 组织维护
 
 **FlashAttention-4 前向注意力 CUDA 内核库（CuTeDSL）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vllm-project/tml-fa4 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 18（+0）
 
 
 ---

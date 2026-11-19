@@ -1,6 +1,6 @@
 # beckettlab/beckett-godot-mcp
 
-⭐ 51 · GDScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/beckettlab/beckett-godot-mcp) · [官网](https://beckettlabs.itch.io/beckett-godot-mcp) · 个人维护
+⭐ 52 · GDScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/beckettlab/beckett-godot-mcp) · [官网](https://beckettlabs.itch.io/beckett-godot-mcp) · 个人维护
 
 **嵌入 Godot 编辑器的零 sidecar MCP 服务器，供 AI agent 开发游戏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "beckettlab/beckett-godot-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 45 --> 52
-    line [46, 47, 48, 47, 48, 50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 45 --> 53
+    line [46, 47, 48, 47, 48, 50, 51, 52]
 ```
 
-2026-10-18 46 → 2026-11-18 51（+5）
+2026-10-18 46 → 2026-11-19 52（+6）
 
 
 ---

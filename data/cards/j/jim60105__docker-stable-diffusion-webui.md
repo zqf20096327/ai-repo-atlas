@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jim60105/docker-stable-diffusion-webui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    title "jim60105/docker-stable-diffusion-webui 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 37 --> 40
-    line [38, 39, 38]
+    line [38, 39, 38, 38]
 ```
 
-2026-10-18 38 → 2026-11-18 38（+0）
+2026-10-18 38 → 2026-11-19 38（+0）
 
 
 ---

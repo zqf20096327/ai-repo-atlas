@@ -1,6 +1,6 @@
 # Jane-o-O-o-O/Agent-CAD
 
-⭐ 13 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Jane-o-O-o-O/Agent-CAD) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Jane-o-O-o-O/Agent-CAD) · 个人维护 · 中文 README
 
 **把机械设计需求转成参数化3D实体与可编辑2D工程图的 AI CAD agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jane-o-O-o-O/Agent-CAD 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    title "Jane-o-O-o-O/Agent-CAD 星数(近 5 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14]
 ```
 
-2026-11-10 10 → 2026-11-18 13（+3）
+2026-11-10 10 → 2026-11-19 14（+4）
 
 
 ---

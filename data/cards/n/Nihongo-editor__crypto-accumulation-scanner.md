@@ -1,6 +1,6 @@
 # Nihongo-editor/crypto-accumulation-scanner
 
-⭐ 153 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/Nihongo-editor/crypto-accumulation-scanner) · 个人维护
+⭐ 153 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/Nihongo-editor/crypto-accumulation-scanner) · 个人维护
 
 **给加密货币交易者的吸筹形态扫描机器人，定时推送排名候选清单**
 
@@ -39,6 +39,18 @@
 
 > L7: Crypto Accumulation Scanner is a community-built tool that quietly watches market for coiling in long, flat bases be
 > L151: Every alert is logged and checked 3, 7, and 14 days later. stats command shows how past actually performed, so you
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Nihongo-editor/crypto-accumulation-scanner 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 152 --> 154
+    line [153, 153]
+```
+
+2026-11-18 153 → 2026-11-19 153（+0）
 
 
 ---

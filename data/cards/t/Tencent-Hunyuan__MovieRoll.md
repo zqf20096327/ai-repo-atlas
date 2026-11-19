@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/MovieRoll
 
-⭐ 55 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Tencent-Hunyuan/MovieRoll) · 组织维护 · 中文 README
+⭐ 88 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Tencent-Hunyuan/MovieRoll) · 组织维护 · 中文 README
 
 **长视频生成模型框架：从文本/图像提示持续生成480p长视频**
 
@@ -39,6 +39,18 @@
 
 > L41: MovieRoll is a systematic framework for rolling out long-form videos, from a supervised Base model to a few-step Di
 > L53: |MovieRoll-Base|T2V (text-to-video), I2V (image-to-video)|480p (arbitrary aspect ratios)|50|AnnealCFG|base|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tencent-Hunyuan/MovieRoll 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 52 --> 91
+    line [55, 88]
+```
+
+2026-11-18 55 → 2026-11-19 88（+33）
 
 
 ---

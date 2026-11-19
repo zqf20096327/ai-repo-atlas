@@ -1,6 +1,6 @@
 # Shayanthn/AI-Agent-Architectures
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2025-11-22 · [GitHub](https://github.com/Shayanthn/AI-Agent-Architectures) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI Agent 架构教学仓库：17+ 种模式的可运行 Jupyter 实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

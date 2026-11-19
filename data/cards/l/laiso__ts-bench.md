@@ -1,6 +1,6 @@
 # laiso/ts-bench
 
-⭐ 243 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/laiso/ts-bench) · [官网](https://laiso.github.io/ts-bench/) · 个人维护
+⭐ 242 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/laiso/ts-bench) · [官网](https://laiso.github.io/ts-bench/) · 个人维护
 
 **在 TypeScript 工作负载上对比 AI 编码 agent 的基准 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "laiso/ts-bench 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 241 --> 244
-    line [242, 243, 242, 243, 243]
+    line [242, 243, 242, 243, 242]
 ```
 
-2026-10-18 242 → 2026-11-18 243（+1）
+2026-10-18 242 → 2026-11-19 242（+0）
 
 
 ---

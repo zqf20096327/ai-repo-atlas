@@ -1,6 +1,6 @@
 # GainSec/LeakScope
 
-⭐ 66 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/GainSec/LeakScope) · [官网](https://gainsec.com) · 组织维护
+⭐ 68 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/GainSec/LeakScope) · [官网](https://gainsec.com) · 组织维护
 
 **自托管外部暴露面发现与监控平台，聚合 20+ 服务取证**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GainSec/LeakScope 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 62 --> 67
-    line [63, 66]
+    title "GainSec/LeakScope 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 62 --> 69
+    line [63, 66, 68]
 ```
 
-2026-11-16 63 → 2026-11-18 66（+3）
+2026-11-16 63 → 2026-11-19 68（+5）
 
 
 ---

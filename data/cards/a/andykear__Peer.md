@@ -1,6 +1,6 @@
 # andykear/Peer
 
-⭐ 27 · Python · CC-BY-4.0 · 推送 2026-11-15 · [GitHub](https://github.com/andykear/Peer) · [官网](https://www.clockworkct.co.uk) · 个人维护
+⭐ 28 · Python · CC-BY-4.0 · 推送 2026-11-15 · [GitHub](https://github.com/andykear/Peer) · [官网](https://www.clockworkct.co.uk) · 个人维护
 
 **让 Claude 像独立思考同事的提示词技能，抑制附和与空话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "andykear/Peer 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 16 --> 28
-    line [17, 21, 26, 27]
+    title "andykear/Peer 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 29
+    line [17, 21, 26, 27, 28]
 ```
 
-2026-11-14 17 → 2026-11-18 27（+10）
+2026-11-14 17 → 2026-11-19 28（+11）
 
 
 ---

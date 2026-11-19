@@ -1,6 +1,6 @@
 # incredible404-rgb/Colab-yoga
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/incredible404-rgb/Colab-yoga) · 个人维护 · 中文 README
+⭐ 38 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/incredible404-rgb/Colab-yoga) · 个人维护 · 中文 README
 
 **系统托盘的 Colab GPU 管理台：唤醒/释放大模型实例并自动关停**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "incredible404-rgb/Colab-yoga 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 11 --> 39
-    line [13, 30, 31, 32, 35, 37]
+    title "incredible404-rgb/Colab-yoga 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 11 --> 40
+    line [13, 30, 31, 32, 35, 37, 38]
 ```
 
-2026-11-12 13 → 2026-11-18 37（+24）
+2026-11-12 13 → 2026-11-19 38（+25）
 
 
 ---

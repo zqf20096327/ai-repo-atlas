@@ -1,6 +1,6 @@
 # alibaba/obz-cli
 
-⭐ 29 · Rust · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/alibaba/obz-cli) · 组织维护 · 中文 README
+⭐ 30 · Rust · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/alibaba/obz-cli) · 组织维护 · 中文 README
 
 **统一查询 10+ 可观测性后端的 Rust CLI，面向 AI Agent**
 
@@ -45,12 +45,12 @@ Rust 编写的多后端可观测性命令行工具：用一组统一命令查询
 ```mermaid
 xychart-beta
     title "alibaba/obz-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 28, 29, 30]
 ```
 
-2026-10-18 28 → 2026-11-18 29（+1）
+2026-10-18 28 → 2026-11-19 30（+2）
 
 
 ---

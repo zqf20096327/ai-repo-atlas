@@ -1,6 +1,6 @@
 # SASUKE40/pi-daemon
 
-⭐ 33 · TypeScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/SASUKE40/pi-daemon) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/SASUKE40/pi-daemon) · 个人维护
 
 **把 Pi 编程 agent 跑成持久会话并通过移动 PWA 安全远程使用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SASUKE40/pi-daemon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33]
+    title "SASUKE40/pi-daemon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34]
 ```
 
-2026-10-18 31 → 2026-11-18 33（+2）
+2026-10-18 31 → 2026-11-19 34（+3）
 
 
 ---

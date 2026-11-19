@@ -1,6 +1,6 @@
 # smaramwbc/statewave-multi-agent-shared-context
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/smaramwbc/statewave-multi-agent-shared-context) · [官网](https://statewave.ai) · 个人维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/smaramwbc/statewave-multi-agent-shared-context) · [官网](https://statewave.ai) · 个人维护
 
 **演示共享上下文层防止并行 Agent 冲突的三角色 CLI 示例**
 
@@ -46,12 +46,12 @@ Statewave 生态的示例仓库：用 Planner/Coder/Reviewer 三个 Python CLI A
 ```mermaid
 xychart-beta
     title "smaramwbc/statewave-multi-agent-shared-context 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-15", "2026-11-19"]
     y-axis "stars" 33 --> 39
-    line [36, 37, 38, 35, 34, 35, 36, 37, 37]
+    line [36, 37, 38, 35, 34, 35, 36, 37, 36]
 ```
 
-2026-10-18 36 → 2026-11-18 37（+1）
+2026-10-18 36 → 2026-11-19 36（+0）
 
 
 ---

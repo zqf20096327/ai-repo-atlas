@@ -1,6 +1,6 @@
 # scikit-learn-contrib/hdbscan
 
-⭐ 3,161 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/scikit-learn-contrib/hdbscan) · [官网](http://hdbscan.readthedocs.io/en/latest/) · 组织维护
+⭐ 3,161 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/scikit-learn-contrib/hdbscan) · [官网](http://hdbscan.readthedocs.io/en/latest/) · 组织维护
 
 **HDBSCAN 密度聚类算法的 Python 高性能实现**
 
@@ -45,12 +45,12 @@ scikit-learn-contrib 下的层次密度聚类库：在变化的 epsilon 值上�
 ```mermaid
 xychart-beta
     title "scikit-learn-contrib/hdbscan 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-19"]
     y-axis "stars" 3155 --> 3162
     line [3156, 3157, 3156, 3157, 3158, 3157, 3158, 3159, 3160, 3161, 3161]
 ```
 
-2026-10-18 3,156 → 2026-11-18 3,161（+5）
+2026-10-18 3,156 → 2026-11-19 3,161（+5）
 
 
 ---

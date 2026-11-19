@@ -1,6 +1,6 @@
 # xishanp/Linuxhub
 
-⭐ 65 · C · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/xishanp/Linuxhub) · 个人维护 · 中文 README
+⭐ 66 · C · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/xishanp/Linuxhub) · 个人维护 · 中文 README
 
 **在 Android 上运行 Ubuntu 桌面并供本机 Agent 调用的环境**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xishanp/Linuxhub 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 58 --> 66
-    line [59, 64, 63, 64, 65, 65]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 58 --> 67
+    line [59, 64, 63, 64, 65, 66]
 ```
 
-2026-11-02 59 → 2026-11-18 65（+6）
+2026-11-02 59 → 2026-11-19 66（+7）
 
 
 ---

@@ -1,10 +1,10 @@
 # jsabguy1-cpu/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/jsabguy1-cpu/manus--ai) · 个人维护
+⭐ 197 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/jsabguy1-cpu/manus--ai) · 个人维护
 
-**自主 AI Agent：代替用户执行代码与控制浏览器完成多步任务**
+**面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 
-Manus 是一个自主 AI Agent 系统，在描述中声明可自行编写并执行脚本、控制浏览器（导航网页、填表、采集信息）并完成多步任务，面向家庭、学习与轻量办公场景的非开发者用户；描述还提及沙箱环境中运行各类工具。README 未提供安装命令、技术架构或接入的模型服务细节，仅给出下载入口（含 PROMO2026 字样）、兼容性表（最低 4GB 内存、双核 CPU）与使用步骤，内容以宣传式功能罗列为主。
+README 将 Manus 描述为一个通用自主 AI Agent：代表用户运行代码脚本、控制浏览器（打开网页、填写表单、收集信息），并执行多步骤任务。定位为家庭、学习与轻量办公场景的个人助手，强调后台常驻、跨会话保持任务模式。README 提供最低系统配置表（64 位系统、双核 CPU、4 GB 内存）与启动前的准备/配置/测试步骤，但未给出具体安装命令、下载链接的技术细节或架构说明。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ Manus 是一个自主 AI Agent 系统，在描述中声明可自行编写并执�
 
 ## 能力要点
 
-- 自主执行代码与脚本以完成任务
-- 浏览器控制：导航、填表、采集信息
-- 代码与浏览器动作在同一工作流中衔接
-- 跨会话保持任务模式，支持多步任务
+- 自主执行代码脚本完成任务
+- 浏览器控制：导航网页、填写表单、收集信息
+- 多步骤自主任务与后台常驻助手
+- 提供最低系统配置要求表
 
 ## 适用场景
 
-- 让 Agent 代为执行网页信息采集与表单填写
-- 用自然语言委托重复性脚本与小任务
-- 学生整理研究笔记、远程工作者多页数据汇总
+- 让 Agent 代为收集多个网页的信息做研究整理
+- 自动化填写重复性表单等日常琐事
+- 运行小脚本做快速计算与实验
 
 ## 场景标签
 
-`浏览器自动化` · 领域:效率与自动化
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
+> L41: |**Memory (RAM)**|4 GB|8 GB or more for heavy Manus autonomous tasks|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "jsabguy1-cpu/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 125 --> 282
     line [138, 269, 197, 197]
 ```
 
-2026-11-13 138 → 2026-11-18 197（+59）
+2026-11-13 138 → 2026-11-19 197（+59）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `c06e59c45084` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `c06c32a8c955` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-ppt
 
-⭐ 38 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/STARDUSTLC666/dsh-ppt) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 41 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/STARDUSTLC666/dsh-ppt) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的演示文稿生成与编辑插件**
 
@@ -39,6 +39,18 @@
 
 > L5: **在 DeepSeek Harness 中将材料整理为有审美品味、可直接交付的演示文稿，导出离线 HTML、可编辑 PPTX 与工程包，内置可切换五套明亮风格的工作台界面。**
 > L15: - **零品味负担自动导演**：无需懂排版配色，一句话或文档自动匹配 **18 套大师主题**（12 套明亮投影友好 + 6 套沉浸深色）与 **6 套差异化母版骨架**（麦肯锡直角 / Apple 空间留白 / 杂志社论书脊 /
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "STARDUSTLC666/dsh-ppt 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 37 --> 42
+    line [38, 41]
+```
+
+2026-11-18 38 → 2026-11-19 41（+3）
 
 
 ---

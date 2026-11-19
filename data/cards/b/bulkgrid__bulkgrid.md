@@ -44,13 +44,13 @@ Bulkgrid 托管服务的公开开发工具仓库：提供 TypeScript/Python SDK�
 
 ```mermaid
 xychart-beta
-    title "bulkgrid/bulkgrid 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-18"]
+    title "bulkgrid/bulkgrid 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-19"]
     y-axis "stars" 0 --> 72
-    line [3, 66]
+    line [3, 66, 66]
 ```
 
-2026-10-24 3 → 2026-11-18 66（+63）
+2026-10-24 3 → 2026-11-19 66（+63）
 
 
 ---

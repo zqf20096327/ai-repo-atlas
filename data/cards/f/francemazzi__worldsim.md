@@ -45,12 +45,12 @@ WorldSim 是面向 Node.js/TypeScript 的可嵌入多智能体模拟引擎，无
 ```mermaid
 xychart-beta
     title "francemazzi/worldsim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

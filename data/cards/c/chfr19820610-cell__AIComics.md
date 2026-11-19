@@ -1,6 +1,6 @@
 # chfr19820610-cell/AIComics
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/chfr19820610-cell/AIComics) · [官网](https://chfr1982.gumroad.com) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/chfr19820610-cell/AIComics) · [官网](https://chfr1982.gumroad.com) · 个人维护 · 中文 README
 
 **全本地运行的 AI 漫剧自动生成系统：故事到成片发布一站式**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "chfr19820610-cell/AIComics 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
     y-axis "stars" 23 --> 26
-    line [24, 25, 24, 24]
+    line [24, 25, 24, 25]
 ```
 
-2026-10-18 24 → 2026-11-18 24（+0）
+2026-10-18 24 → 2026-11-19 25（+1）
 
 
 ---

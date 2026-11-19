@@ -1,6 +1,6 @@
 # AndrewDryga/emisar
 
-⭐ 430 · Elixir · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/AndrewDryga/emisar) · [官网](https://emisar.dev/) · 组织维护
+⭐ 474 · Elixir · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/AndrewDryga/emisar) · [官网](https://emisar.dev/) · 组织维护
 
 **让 AI agent 经策略约束以声明式动作操作基础设施的 MCP 平台**
 
@@ -45,13 +45,13 @@ emisar 向 MCP 客户端的 AI agent 提供声明式基础设施动作目录而�
 
 ```mermaid
 xychart-beta
-    title "AndrewDryga/emisar 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 320 --> 440
-    line [338, 339, 331, 330, 392, 375, 376, 430]
+    title "AndrewDryga/emisar 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 316 --> 488
+    line [338, 339, 331, 330, 392, 375, 376, 430, 474]
 ```
 
-2026-10-18 338 → 2026-11-18 430（+92）
+2026-10-18 338 → 2026-11-19 474（+136）
 
 
 ---

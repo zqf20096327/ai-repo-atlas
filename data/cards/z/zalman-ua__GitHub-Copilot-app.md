@@ -1,6 +1,6 @@
 # zalman-ua/GitHub-Copilot-app
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/zalman-ua/GitHub-Copilot-app) · 组织维护
+⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/zalman-ua/GitHub-Copilot-app) · 组织维护
 
 **管理 GitHub Copilot agent 软件工作的桌面应用**
 
@@ -40,6 +40,18 @@ GitHub, Inc. 的桌面应用，作为管理软件工作的单一控制中心：�
 > L3: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software wo
 > L13: The GitHub Copilot app is an agent-native desktop experience for managing software work from idea to pull request. 
 > L26: - A GitHub Copilot plan — any plan works, including Copilot Free and GitHub Copilot Student. No Copilot plan? You c
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zalman-ua/GitHub-Copilot-app 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-11-18 62 → 2026-11-19 62（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tier4/autoware-ml
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/tier4/autoware-ml) · [官网](https://tier4.github.io/autoware-ml/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/tier4/autoware-ml) · [官网](https://tier4.github.io/autoware-ml/) · 组织维护
 
 **面向 Autoware 的机器学习框架：覆盖训练到部署全流程**
 
@@ -43,12 +43,12 @@ Autoware-ML 是 Autoware 自动驾驶开源栈配套的机器学习框架，支�
 ```mermaid
 xychart-beta
     title "tier4/autoware-ml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-18 18（+1）
+2026-10-18 17 → 2026-11-19 18（+1）
 
 
 ---

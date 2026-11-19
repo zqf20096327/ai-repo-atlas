@@ -1,6 +1,6 @@
 # liangci-ai/MOSS-YXBOX
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/liangci-ai/MOSS-YXBOX) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/liangci-ai/MOSS-YXBOX) · 个人维护 · 中文 README
 
 **给 ComfyUI 用户的中文画布排版节点：统一生成布局框与提示词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liangci-ai/MOSS-YXBOX 星数(近 7 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    title "liangci-ai/MOSS-YXBOX 星数(近 8 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19"]
     y-axis "stars" 4 --> 14
-    line [5, 6, 7, 9, 10, 11, 13]
+    line [5, 6, 7, 9, 10, 11, 13, 13]
 ```
 
-2026-10-31 5 → 2026-11-18 13（+8）
+2026-10-31 5 → 2026-11-19 13（+8）
 
 
 ---

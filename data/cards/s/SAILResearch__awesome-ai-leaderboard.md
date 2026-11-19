@@ -1,6 +1,6 @@
 # SAILResearch/awesome-ai-leaderboard
 
-⭐ 384 · 推送 2026-11-16 · [GitHub](https://github.com/SAILResearch/awesome-ai-leaderboard) · [官网](https://sailresearch.github.io/awesome-ai-leaderboard/) · 组织维护
+⭐ 383 · 推送 2026-11-16 · [GitHub](https://github.com/SAILResearch/awesome-ai-leaderboard) · [官网](https://sailresearch.github.io/awesome-ai-leaderboard/) · 组织维护
 
 **AI 榜单资源策展清单：收录排行榜、工具与评测组织**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SAILResearch/awesome-ai-leaderboard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-18"]
-    y-axis "stars" 383 --> 387
-    line [386, 385, 384, 384]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-19"]
+    y-axis "stars" 382 --> 387
+    line [386, 385, 384, 383]
 ```
 
-2026-10-18 386 → 2026-11-18 384（-2）
+2026-10-18 386 → 2026-11-19 383（-3）
 
 
 ---

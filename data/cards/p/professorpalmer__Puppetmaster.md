@@ -1,6 +1,6 @@
 # professorpalmer/Puppetmaster
 
-⭐ 476 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/professorpalmer/Puppetmaster) · 个人维护
+⭐ 476 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/professorpalmer/Puppetmaster) · 个人维护
 
 **为开发者编排既有 agent CLI 的持久状态作业控制平面**
 
@@ -46,12 +46,12 @@ Puppetmaster 是一个监督者与作业存储层：通过 Cursor、Claude Code�
 ```mermaid
 xychart-beta
     title "professorpalmer/Puppetmaster 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19"]
     y-axis "stars" 467 --> 477
     line [468, 470, 471, 472, 475, 476, 476]
 ```
 
-2026-10-18 468 → 2026-11-18 476（+8）
+2026-10-18 468 → 2026-11-19 476（+8）
 
 
 ---

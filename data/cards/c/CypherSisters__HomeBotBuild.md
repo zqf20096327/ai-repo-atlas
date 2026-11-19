@@ -1,6 +1,6 @@
 # CypherSisters/HomeBotBuild
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/CypherSisters/HomeBotBuild) · [官网](https://www.puffpai.com) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/CypherSisters/HomeBotBuild) · [官网](https://www.puffpai.com) · 组织维护
 
 **Windows/Linux PC 上的私有离线家庭 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CypherSisters/HomeBotBuild 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 3 --> 13
-    line [4, 5, 9, 10, 9, 10, 11, 12]
+    title "CypherSisters/HomeBotBuild 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 3 --> 14
+    line [4, 5, 9, 10, 9, 10, 11, 12, 13]
 ```
 
-2026-10-19 4 → 2026-11-18 12（+8）
+2026-10-19 4 → 2026-11-19 13（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # qingshihuan/pingyi
 
-⭐ 15 · C# · MIT · 推送 2026-11-05 · [GitHub](https://github.com/qingshihuan/pingyi) · 个人维护 · 中文 README
+⭐ 16 · C# · MIT · 推送 2026-11-05 · [GitHub](https://github.com/qingshihuan/pingyi) · 个人维护 · 中文 README
 
 **隐私优先的离线截图 OCR 与翻译桌面工具（Windows/Ubuntu）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qingshihuan/pingyi 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 12 --> 16
-    line [14, 15, 14, 13, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 12 --> 17
+    line [14, 15, 14, 13, 14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-11-18 15（+1）
+2026-10-18 14 → 2026-11-19 16（+2）
 
 
 ---

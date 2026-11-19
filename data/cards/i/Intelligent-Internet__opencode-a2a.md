@@ -1,6 +1,6 @@
 # Intelligent-Internet/opencode-a2a
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Intelligent-Internet/opencode-a2a) · 组织维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Intelligent-Internet/opencode-a2a) · 组织维护
 
 **将 OpenCode 接入 A2A 协议的适配服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Intelligent-Internet/opencode-a2a 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 33 --> 41
-    line [34, 35, 37, 38, 37, 38, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 33 --> 43
+    line [34, 35, 37, 38, 37, 38, 39, 40, 42]
 ```
 
-2026-10-18 34 → 2026-11-18 40（+6）
+2026-10-18 34 → 2026-11-19 42（+8）
 
 
 ---

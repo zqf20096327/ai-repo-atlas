@@ -1,6 +1,6 @@
 # benseverndev-oss/goldenmatch
 
-⭐ 139 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/benseverndev-oss/goldenmatch) · [官网](https://docs.bensevern.dev/) · 个人维护
+⭐ 139 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/benseverndev-oss/goldenmatch) · [官网](https://docs.bensevern.dev/) · 个人维护
 
 **零配置实体消解工具：把杂乱记录合并为带溯源的金色实体**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "benseverndev-oss/goldenmatch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18"]
+    title "benseverndev-oss/goldenmatch 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19"]
     y-axis "stars" 132 --> 140
-    line [133, 134, 135, 133, 135, 136, 138, 139]
+    line [133, 134, 135, 133, 135, 136, 138, 139, 139]
 ```
 
-2026-10-18 133 → 2026-11-18 139（+6）
+2026-10-18 133 → 2026-11-19 139（+6）
 
 
 ---

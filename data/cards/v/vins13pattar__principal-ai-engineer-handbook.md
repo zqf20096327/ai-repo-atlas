@@ -1,6 +1,6 @@
 # vins13pattar/principal-ai-engineer-handbook
 
-⭐ 98 · MDX · MIT · 推送 2026-11-15 · [GitHub](https://github.com/vins13pattar/principal-ai-engineer-handbook) · [官网](https://handbook.vinodspattar.in) · 个人维护
+⭐ 98 · MDX · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vins13pattar/principal-ai-engineer-handbook) · [官网](https://handbook.vinodspattar.in) · 个人维护
 
 **面向 Principal/Staff AI 工程师的生产级 AI 系统参考手册**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vins13pattar/principal-ai-engineer-handbook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 94 --> 99
     line [95, 96, 97, 98, 98]
 ```
 
-2026-10-18 95 → 2026-11-18 98（+3）
+2026-10-18 95 → 2026-11-19 98（+3）
 
 
 ---

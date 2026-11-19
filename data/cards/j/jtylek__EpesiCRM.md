@@ -1,6 +1,6 @@
 # jtylek/EpesiCRM
 
-⭐ 43 · PHP · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jtylek/EpesiCRM) · [官网](https://epesicrm.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Laravel 的开源模块化 CRM，可作自建 ERP 起点**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

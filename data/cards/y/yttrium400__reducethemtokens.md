@@ -1,6 +1,6 @@
 # yttrium400/reducethemtokens
 
-⭐ 11 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/yttrium400/reducethemtokens) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/yttrium400/reducethemtokens) · 个人维护
 
 **把代码仓库压缩成结构骨架，降低 LLM token 消耗的 CLI 工具**
 
@@ -46,12 +46,12 @@ rtt 用 tree-sitter 解析仓库每个文件，抽取 imports、函数签名、�
 ```mermaid
 xychart-beta
     title "yttrium400/reducethemtokens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 12（+1）
 
 
 ---

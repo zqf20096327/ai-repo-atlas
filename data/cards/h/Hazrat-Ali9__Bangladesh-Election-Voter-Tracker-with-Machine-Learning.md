@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Bangladesh-Election-Voter-Tracker-with-Machine-Learning
 
-⭐ 34 · 推送 2026-03-11 · [GitHub](https://github.com/Hazrat-Ali9/Bangladesh-Election-Voter-Tracker-with-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/Bangladesh-Election-Voter-Tracker-with-Machine-Learning) · 个人维护
+⭐ 36 · 推送 2026-03-11 · [GitHub](https://github.com/Hazrat-Ali9/Bangladesh-Election-Voter-Tracker-with-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/Bangladesh-Election-Voter-Tracker-with-Machine-Learning) · 个人维护
 
 **分析孟加拉国选民与选举数据的机器学习数据科学项目**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/Bangladesh-Election-Voter-Tracker-with-Machine-Learning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 19 --> 35
-    line [20, 22, 23, 22, 28, 32, 34]
+    title "Hazrat-Ali9/Bangladesh-Election-Voter-Tracker-with-Machine-Learning 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 19 --> 37
+    line [20, 22, 23, 22, 28, 32, 34, 36]
 ```
 
-2026-10-18 20 → 2026-11-18 34（+14）
+2026-10-18 20 → 2026-11-19 36（+16）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "brayandiazc/project-starter-template-es-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "brayandiazc/project-starter-template-es-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 14 --> 18
-    line [15, 17]
+    line [15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-18 17（+2）
+2026-10-18 15 → 2026-11-19 17（+2）
 
 
 ---

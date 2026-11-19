@@ -1,6 +1,6 @@
 # earayu/treadstone
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/earayu/treadstone) · [官网](https://treadstone-ai.dev/) · 个人维护 · 中文 README
+⭐ 35 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/earayu/treadstone) · [官网](https://treadstone-ai.dev/) · 个人维护 · 中文 README
 
 **面向 agent 的沙箱基础设施：在 Kubernetes 上运行隔离的全能运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "earayu/treadstone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-11-18 34（+0）
+2026-10-18 34 → 2026-11-19 35（+1）
 
 
 ---

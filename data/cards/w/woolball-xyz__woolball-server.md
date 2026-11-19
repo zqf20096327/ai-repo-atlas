@@ -1,6 +1,6 @@
 # woolball-xyz/woolball-server
 
-⭐ 68 · C# · AGPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/woolball-xyz/woolball-server) · [官网](https://open.woolball.xyz) · 组织维护
+⭐ 68 · C# · AGPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/woolball-xyz/woolball-server) · 组织维护
 
 **把空闲浏览器组成分布式算力网络的 AI 推理服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "woolball-xyz/woolball-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-11-18 68（+0）
+2026-10-18 68 → 2026-11-19 68（+0）
 
 
 ---

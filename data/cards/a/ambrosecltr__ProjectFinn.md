@@ -45,12 +45,12 @@ Finn 是部署在 iMessage 中的个人 AI 伴侣，通过 Spectrum 网关收发
 ```mermaid
 xychart-beta
     title "ambrosecltr/ProjectFinn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

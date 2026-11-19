@@ -1,6 +1,6 @@
 # fragshq/frags
 
-⭐ 19 · Go · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/fragshq/frags) · 组织维护
+⭐ 19 · Go · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/fragshq/frags) · 组织维护
 
 **面向工程师的 Go AI Agent：执行复杂数据检索/转换/提取/聚合工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fragshq/frags 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-18 19（+1）
+2026-10-18 18 → 2026-11-19 19（+1）
 
 
 ---

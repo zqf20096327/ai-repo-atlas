@@ -1,6 +1,6 @@
 # AgusRdz/chop
 
-⭐ 47 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AgusRdz/chop) · [官网](https://getchop.run/) · 个人维护
+⭐ 48 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AgusRdz/chop) · [官网](https://getchop.run/) · 个人维护
 
 **AI coding agent 的 CLI 输出压缩器，减少 token 消耗**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgusRdz/chop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 45 --> 49
+    line [46, 47, 46, 47, 48]
 ```
 
-2026-10-18 46 → 2026-11-18 47（+1）
+2026-10-18 46 → 2026-11-19 48（+2）
 
 
 ---

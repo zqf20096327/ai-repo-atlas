@@ -46,12 +46,12 @@ AE 是一个开源框架，从规格、文档或 git 仓库中提取领域知识
 ```mermaid
 xychart-beta
     title "fluent-meaning-symbiotic/agentic_executables 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

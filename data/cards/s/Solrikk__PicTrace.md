@@ -1,6 +1,6 @@
 # Solrikk/PicTrace
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-06-28 · [GitHub](https://github.com/Solrikk/PicTrace) · [官网](https://tapeflow.ru/) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-06-28 · [GitHub](https://github.com/Solrikk/PicTrace) · [官网](https://tapeflow.ru/) · 个人维护
 
 **上传图片后在照片档案中查找视觉相似图片的 Python Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Solrikk/PicTrace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-11-18 28（+0）
+2026-10-18 28 → 2026-11-19 29（+1）
 
 
 ---

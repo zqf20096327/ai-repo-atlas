@@ -1,6 +1,6 @@
 # DjibrilM/MagicVoiceAI
 
-⭐ 38 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/DjibrilM/MagicVoiceAI) · 个人维护
+⭐ 39 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/DjibrilM/MagicVoiceAI) · 个人维护
 
 **离线本地多说话人 TTS 桌面工作室（CosyVoice 3）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DjibrilM/MagicVoiceAI 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 25 --> 39
-    line [26, 32, 33, 35, 37, 38]
+    title "DjibrilM/MagicVoiceAI 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 25 --> 40
+    line [26, 32, 33, 35, 37, 38, 39]
 ```
 
-2026-11-08 26 → 2026-11-18 38（+12）
+2026-11-08 26 → 2026-11-19 39（+13）
 
 
 ---

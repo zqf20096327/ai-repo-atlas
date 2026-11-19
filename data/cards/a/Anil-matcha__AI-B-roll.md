@@ -1,6 +1,6 @@
 # Anil-matcha/AI-B-roll
 
-⭐ 19 · Jupyter Notebook · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Anil-matcha/AI-B-roll) · [官网](https://www.vadoo.tv/b-roll) · 个人维护
+⭐ 20 · Jupyter Notebook · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Anil-matcha/AI-B-roll) · [官网](https://www.vadoo.tv/b-roll) · 个人维护
 
 **用 AI 为视频生成 B-roll 素材的工具，依赖 MuAPI**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/AI-B-roll 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 12 --> 20
-    line [13, 14, 15, 16, 15, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 12 --> 21
+    line [13, 14, 15, 16, 15, 18, 19, 20]
 ```
 
-2026-10-18 13 → 2026-11-18 19（+6）
+2026-10-18 13 → 2026-11-19 20（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Productive-Superintelligence/lllm
 
-⭐ 99 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Productive-Superintelligence/lllm) · [官网](https://lllm.one/) · 组织维护
+⭐ 99 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Productive-Superintelligence/lllm) · [官网](https://lllm.one/) · 组织维护
 
 **构建可复用 LLM agent 战术（Tactic）的轻量协议与服务层框架**
 
@@ -46,12 +46,12 @@ LLLM 是一个小型协议与服务层，核心抽象为 Tactic：类型化、�
 ```mermaid
 xychart-beta
     title "Productive-Superintelligence/lllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 98 --> 100
     line [99, 99]
 ```
 
-2026-10-18 99 → 2026-11-18 99（+0）
+2026-10-18 99 → 2026-11-19 99（+0）
 
 
 ---

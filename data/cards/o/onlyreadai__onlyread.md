@@ -1,6 +1,6 @@
 # onlyreadai/onlyread
 
-⭐ 94 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/onlyreadai/onlyread) · [官网](https://onlyread.ai) · 组织维护
+⭐ 104 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/onlyreadai/onlyread) · [官网](https://onlyread.ai) · 组织维护
 
 **让 AI 浏览器代理只读的 Chrome 扩展：拦截发送前的写操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "onlyreadai/onlyread 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 15 --> 101
-    line [22, 55, 87, 91, 94, 93, 94]
+    title "onlyreadai/onlyread 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 14 --> 112
+    line [22, 55, 87, 91, 94, 93, 94, 104]
 ```
 
-2026-11-08 22 → 2026-11-18 94（+72）
+2026-11-08 22 → 2026-11-19 104（+82）
 
 
 ---

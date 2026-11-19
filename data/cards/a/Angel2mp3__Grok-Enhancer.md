@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Angel2mp3/Grok-Enhancer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "Angel2mp3/Grok-Enhancer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 31 --> 34
-    line [32, 33]
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-18 33（+1）
+2026-10-18 32 → 2026-11-19 33（+1）
 
 
 ---

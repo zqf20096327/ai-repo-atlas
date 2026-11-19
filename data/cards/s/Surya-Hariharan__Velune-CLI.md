@@ -1,6 +1,6 @@
 # Surya-Hariharan/Velune-CLI
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Surya-Hariharan/Velune-CLI) · [官网](https://velune-cli.vercel.app/) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Surya-Hariharan/Velune-CLI) · [官网](https://velune-cli.vercel.app/) · 个人维护
 
 **本地优先的终端 AI 编程助手：多智能体协作改代码**
 
@@ -39,6 +39,18 @@
 
 > L7:  An open-source, local-first AI engineer for your terminal.
 > L60: Velune CLI at the centre, connecting to 18 model providers (4 local and 14 cloud), to opt-in application integratio
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Surya-Hariharan/Velune-CLI 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-18 17 → 2026-11-19 17（+0）
 
 
 ---

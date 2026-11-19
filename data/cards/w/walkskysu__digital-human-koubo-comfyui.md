@@ -1,6 +1,6 @@
 # walkskysu/digital-human-koubo-comfyui
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/walkskysu/digital-human-koubo-comfyui) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/walkskysu/digital-human-koubo-comfyui) · 个人维护 · 中文 README
 
 **一张照片本地生成 AI 数字人口播成片的 Agent Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "walkskysu/digital-human-koubo-comfyui 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 11 --> 38
-    line [13, 34, 35, 36]
+    title "walkskysu/digital-human-koubo-comfyui 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 11 --> 39
+    line [13, 34, 35, 36, 37]
 ```
 
-2026-11-14 13 → 2026-11-18 36（+23）
+2026-11-14 13 → 2026-11-19 37（+24）
 
 
 ---

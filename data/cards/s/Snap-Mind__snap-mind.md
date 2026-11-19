@@ -1,6 +1,6 @@
 # Snap-Mind/snap-mind
 
-⭐ 48 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Snap-Mind/snap-mind) · [官网](https://snap-mind.github.io/) · 组织维护 · 中文 README
+⭐ 48 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Snap-Mind/snap-mind) · [官网](https://snap-mind.github.io/) · 组织维护 · 中文 README
 
 **桌面快捷键 AI 助手：划词即翻译、改写、总结**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Snap-Mind/snap-mind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-11-18 48（+0）
+2026-10-18 48 → 2026-11-19 48（+0）
 
 
 ---

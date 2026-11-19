@@ -1,6 +1,6 @@
 # sign-protocol/sign-lang
 
-⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/sign-protocol/sign-lang) · [官网](https://sign-protocol.github.io/sign-lang/) · 组织维护
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/sign-protocol/sign-lang) · [官网](https://sign-protocol.github.io/sign-lang/) · 组织维护
 
 **面向 agent 的知识表示规范：强类型知识图契约层，令牌优化**
 
@@ -45,12 +45,12 @@ SIGN 是一个开放规范（Apache 2.0），定义供 LLM agent 消费的知识
 ```mermaid
 xychart-beta
     title "sign-protocol/sign-lang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-18 22（+0）
+2026-10-18 22 → 2026-11-19 22（+0）
 
 
 ---

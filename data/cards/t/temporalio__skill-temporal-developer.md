@@ -1,6 +1,6 @@
 # temporalio/skill-temporal-developer
 
-⭐ 239 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/temporalio/skill-temporal-developer) · [官网](https://temporal.io) · 组织维护
+⭐ 239 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/temporalio/skill-temporal-developer) · [官网](https://temporal.io) · 组织维护
 
 **面向编码代理的 Temporal 开发技能包（SKILL 知识资产）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "temporalio/skill-temporal-developer 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19"]
     y-axis "stars" 231 --> 240
     line [232, 233, 235, 236, 235, 236, 237, 238, 239, 239]
 ```
 
-2026-10-18 232 → 2026-11-18 239（+7）
+2026-10-18 232 → 2026-11-19 239（+7）
 
 
 ---

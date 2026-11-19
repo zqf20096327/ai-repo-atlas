@@ -1,6 +1,6 @@
 # PixelCookie-zyf/TAAC-2026-SeRankMixer
 
-⭐ 46 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/PixelCookie-zyf/TAAC-2026-SeRankMixer) · 组织维护
+⭐ 47 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/PixelCookie-zyf/TAAC-2026-SeRankMixer) · 组织维护
 
 **TAAC 2026 腾讯 UNI-REC 赛道单模型 pCVR 排序网络**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PixelCookie-zyf/TAAC-2026-SeRankMixer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 40 --> 47
-    line [41, 43, 44, 45, 46]
+    title "PixelCookie-zyf/TAAC-2026-SeRankMixer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 40 --> 48
+    line [41, 43, 44, 45, 46, 47]
 ```
 
-2026-10-18 41 → 2026-11-18 46（+5）
+2026-10-18 41 → 2026-11-19 47（+6）
 
 
 ---

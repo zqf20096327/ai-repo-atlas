@@ -1,6 +1,6 @@
 # MorvanZhou/agentup
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/MorvanZhou/agentup) · [官网](https://agentup.me) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/MorvanZhou/agentup) · [官网](https://agentup.me) · 个人维护 · 中文 README
 
 **本地优先的桌面 IM：像加好友一样添加并协作使用 AI 助手**
 
@@ -44,13 +44,13 @@ AgentUp 是开源桌面应用（Electron + Vue）加本地 Node supervisor 运�
 
 ```mermaid
 xychart-beta
-    title "MorvanZhou/agentup 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 3 --> 22
-    line [4, 5, 7, 8, 9, 10, 20, 21]
+    title "MorvanZhou/agentup 星数(近 9 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 3 --> 23
+    line [4, 5, 7, 8, 9, 10, 20, 21, 22]
 ```
 
-2026-10-30 4 → 2026-11-18 21（+17）
+2026-10-30 4 → 2026-11-19 22（+18）
 
 
 ---

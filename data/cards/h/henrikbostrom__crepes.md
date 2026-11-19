@@ -1,6 +1,6 @@
 # henrikbostrom/crepes
 
-⭐ 586 · Python · BSD-3-Clause · 推送 2026-07-08 · [GitHub](https://github.com/henrikbostrom/crepes) · 个人维护
+⭐ 587 · Python · BSD-3-Clause · 推送 2026-07-08 · [GitHub](https://github.com/henrikbostrom/crepes) · 个人维护
 
 **共形预测 Python 库：把分类/回归模型输出转为带覆盖保证的预测集与区间**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "henrikbostrom/crepes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 583 --> 587
-    line [584, 585, 586, 585, 586, 586]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 583 --> 588
+    line [584, 585, 586, 585, 586, 587]
 ```
 
-2026-10-18 584 → 2026-11-18 586（+2）
+2026-10-18 584 → 2026-11-19 587（+3）
 
 
 ---

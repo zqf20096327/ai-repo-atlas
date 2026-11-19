@@ -1,6 +1,6 @@
 # anton-jeran/FAST-RIR
 
-⭐ 184 · Python · AGPL-3.0 · 推送 2026-03-19 · [GitHub](https://github.com/anton-jeran/FAST-RIR) · [官网](https://anton-jeran.github.io/FRIR/) · 个人维护
+⭐ 184 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/anton-jeran/FAST-RIR) · [官网](https://anton-jeran.github.io/FRIR/) · 个人维护
 
 **神经网络房间脉冲响应生成器：给定房间参数快速生成 RIR**
 
@@ -45,12 +45,12 @@ ICASSP 2022 论文的官方实现，基于 StackGAN 架构的生成对抗网络�
 ```mermaid
 xychart-beta
     title "anton-jeran/FAST-RIR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 183 --> 185
     line [184, 184]
 ```
 
-2026-10-18 184 → 2026-11-18 184（+0）
+2026-10-18 184 → 2026-11-19 184（+0）
 
 
 ---

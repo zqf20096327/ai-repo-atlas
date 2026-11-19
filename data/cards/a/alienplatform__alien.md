@@ -1,6 +1,6 @@
 # alienplatform/alien
 
-⭐ 255 · Rust · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/alienplatform/alien) · [官网](https://alien.dev) · 组织维护
+⭐ 255 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/alienplatform/alien) · [官网](https://alien.dev) · 组织维护
 
 **把产品数据面部署到客户云/本地环境的托管自托管基础设施**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alienplatform/alien 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    title "alienplatform/alien 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19"]
     y-axis "stars" 248 --> 256
-    line [249, 250, 252, 250, 252, 253, 254, 255]
+    line [249, 250, 252, 250, 252, 253, 254, 255, 255]
 ```
 
-2026-10-18 249 → 2026-11-18 255（+6）
+2026-10-18 249 → 2026-11-19 255（+6）
 
 
 ---

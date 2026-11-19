@@ -1,6 +1,6 @@
 # srpadmanabhuni/agentest
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/srpadmanabhuni/agentest) · [官网](https://srpadmanabhuni.github.io/agentest/) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/srpadmanabhuni/agentest) · [官网](https://srpadmanabhuni.github.io/agentest/) · 组织维护
 
 **对 AI agent 已记录轨迹运行 130 项可执行测试的离线工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "srpadmanabhuni/agentest 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-18"]
-    y-axis "stars" 4 --> 15
-    line [5, 14]
+    title "srpadmanabhuni/agentest 星数(近 3 点)"
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 4 --> 16
+    line [5, 14, 15]
 ```
 
-2026-11-15 5 → 2026-11-18 14（+9）
+2026-11-15 5 → 2026-11-19 15（+10）
 
 
 ---

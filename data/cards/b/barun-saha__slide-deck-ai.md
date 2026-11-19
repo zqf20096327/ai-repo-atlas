@@ -1,6 +1,6 @@
 # barun-saha/slide-deck-ai
 
-⭐ 379 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/barun-saha/slide-deck-ai) · [官网](https://barunsaha-slide-deck-ai.hf.space/) · 个人维护
+⭐ 380 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/barun-saha/slide-deck-ai) · [官网](https://barunsaha-slide-deck-ai.hf.space/) · 个人维护
 
 **面向演示者的 AI 助手：根据主题生成 PowerPoint 幻灯片**
 
@@ -45,12 +45,12 @@ SlideDeck AI 是用 LLM 生成 PowerPoint 演示文稿的工具：用户提供�
 ```mermaid
 xychart-beta
     title "barun-saha/slide-deck-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 375 --> 380
-    line [376, 377, 376, 378, 379, 379]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 375 --> 381
+    line [376, 377, 376, 378, 379, 380]
 ```
 
-2026-10-18 376 → 2026-11-18 379（+3）
+2026-10-18 376 → 2026-11-19 380（+4）
 
 
 ---

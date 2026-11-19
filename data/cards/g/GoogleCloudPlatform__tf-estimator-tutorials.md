@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/tf-estimator-tutorials
 
-⭐ 669 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials) · [官网](https://www.tensorflow.org/programmers_guide/estimators) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **TensorFlow Estimator API 系统化教程仓库，覆盖多种机器学习任务**
 
@@ -11,7 +11,7 @@ GoogleCloudPlatform 维护的 TF estimator 教程集合：以标准化、系统�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

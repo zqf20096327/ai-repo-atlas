@@ -1,6 +1,6 @@
 # slayerlabs/slayer
 
-⭐ 48 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/slayerlabs/slayer) · [官网](https://slayer.fabryka.ai/) · 组织维护
+⭐ 48 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/slayerlabs/slayer) · [官网](https://slayer.fabryka.ai/) · 组织维护
 
 **波兰语 LLM 实验室：低成本微调 Qwen 基座做波兰语专用模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "slayerlabs/slayer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 46 --> 49
     line [47, 48, 47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-18 48（+1）
+2026-10-18 47 → 2026-11-19 48（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # facebookresearch/BenchMARL
 
-⭐ 687 · Python · MIT · 推送 2026-02-07 · [GitHub](https://github.com/facebookresearch/BenchMARL) · [官网](https://benchmarl.readthedocs.io) · 组织维护
+⭐ 688 · Python · MIT · 推送 2026-02-07 · [GitHub](https://github.com/facebookresearch/BenchMARL) · [官网](https://benchmarl.readthedocs.io) · 组织维护
 
 **多智能体强化学习（MARL）训练与基准测试库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/BenchMARL 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 674 --> 688
-    line [675, 676, 677, 678, 676, 686, 685, 686, 687]
+    title "facebookresearch/BenchMARL 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 674 --> 689
+    line [675, 676, 677, 678, 676, 686, 685, 686, 687, 688]
 ```
 
-2026-10-18 675 → 2026-11-18 687（+12）
+2026-10-18 675 → 2026-11-19 688（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # psinetron/opencode-visualiser
 
-⭐ 187 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/psinetron/opencode-visualiser) · [官网](https://github.com/psinetron/opencode-visualiser/blob/main/README.md) · 个人维护
+⭐ 188 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/psinetron/opencode-visualiser) · [官网](https://github.com/psinetron/opencode-visualiser/blob/main/README.md) · 个人维护
 
 **把 OpenCode 终端日志可视化为 2D 像素办公室的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "psinetron/opencode-visualiser 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 174 --> 188
-    line [175, 176, 178, 179, 178, 181, 183, 184, 185, 186, 187, 187]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 174 --> 189
+    line [175, 176, 178, 179, 178, 181, 183, 184, 185, 186, 187, 188]
 ```
 
-2026-10-18 175 → 2026-11-18 187（+12）
+2026-10-18 175 → 2026-11-19 188（+13）
 
 
 ---

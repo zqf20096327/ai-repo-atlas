@@ -1,6 +1,6 @@
 # qdrant/qdrant-edge-demo
 
-⭐ 63 · Python · 推送 2026-10-24 · [GitHub](https://github.com/qdrant/qdrant-edge-demo) · [官网](https://qdrant.tech/edge/ ) · 组织维护
+⭐ 64 · Python · 推送 2026-10-24 · [GitHub](https://github.com/qdrant/qdrant-edge-demo) · [官网](https://qdrant.tech/edge/ ) · 组织维护
 
 **智能眼镜离线视觉记忆 POC：CLIP 向量化本地检索找物品**
 
@@ -45,12 +45,12 @@ qdrant 维护的概念验证项目，演示智能眼镜在无网络连接时记�
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-edge-demo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 62, 63, 64]
 ```
 
-2026-10-18 62 → 2026-11-18 63（+1）
+2026-10-18 62 → 2026-11-19 64（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Abolfazlrwm/Machine-Learning
 
-⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Abolfazlrwm/Machine-Learning) · [官网](https://huggingface.co/spaces/Abol0pati/farsi-rag-assistant) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Abolfazlrwm/Machine-Learning) · [官网](https://huggingface.co/spaces/Abol0pati/farsi-rag-assistant) · 个人维护
 
 **机器学习作品集：从零实现的 GPT、波斯语 RAG、推荐系统等端到端项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Abolfazlrwm/Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-19"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-08 14 → 2026-11-18 14（+0）
+2026-11-08 14 → 2026-11-19 14（+0）
 
 
 ---

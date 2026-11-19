@@ -1,6 +1,6 @@
 # DerpZhenjun/RxSentinel
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/DerpZhenjun/RxSentinel) · 个人维护 · 中文 README
+⭐ 16 · Python · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/DerpZhenjun/RxSentinel) · 个人维护 · 中文 README
 
 **处方类灰产情报全链路管线：采集/清洗/LLM结构化/入库展示**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DerpZhenjun/RxSentinel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 16 --> 20
-    line [19, 17, 18, 17, 17]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 15 --> 20
+    line [19, 17, 18, 17, 16]
 ```
 
-2026-10-18 19 → 2026-11-18 17（-2）
+2026-10-18 19 → 2026-11-19 16（-3）
 
 
 ---

@@ -45,12 +45,12 @@ GitHub 模板仓库：将 Vite + React 19 + TypeScript 前端与 `/api/*` Worker
 ```mermaid
 xychart-beta
     title "henkisdabro/cloudflare-workers-react-boilerplate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-18 13（+1）
+2026-10-18 12 → 2026-11-19 13（+1）
 
 
 ---

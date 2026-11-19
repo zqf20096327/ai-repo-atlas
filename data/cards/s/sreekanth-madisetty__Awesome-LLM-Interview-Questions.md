@@ -1,6 +1,6 @@
 # sreekanth-madisetty/Awesome-LLM-Interview-Questions
 
-⭐ 21 · Apache-2.0 · 推送 2026-07-12 · [GitHub](https://github.com/sreekanth-madisetty/Awesome-LLM-Interview-Questions) · [官网](https://github.com/sreekanth-madisetty/Awesome-LLM-Interview-Questions) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **LLM 面试题与专家答案的策展清单，供求职者备考**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

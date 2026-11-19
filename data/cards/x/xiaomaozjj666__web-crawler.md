@@ -1,6 +1,6 @@
 # xiaomaozjj666/web-crawler
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/xiaomaozjj666/web-crawler) · [官网](https://xiaomaozjj666.github.io/web-crawler/) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/xiaomaozjj666/web-crawler) · [官网](https://xiaomaozjj666.github.io/web-crawler/) · 个人维护 · 中文 README
 
 **面向开发者的隐身网页采集与授权安全测试工具集**
 
@@ -40,6 +40,18 @@ Scrapling 风格的 Python 爬虫库，核心能力包括：基于 lxml 的自�
 > L12: Scrapling 风格的隐身网页爬虫库：**自适应选择器**、**TLS 指纹隐身 HTTP**、**JS 渲染**与**回调式 Spider 框架**，另附一套应用层资源下载器与本地 Web UI。
 > L82: - **JS 逆向 Agent** — `ReverseAgent` 通过 **观察 → 思考 → 行动** 循环（`CamoufoxFetcher` + DeepSeek-V4.1-Flash）逆向目标站点的加密逻辑：注入 JS
 > L102: 本库是**面向开发者的隐身网页采集与安全研究工具集**，把两套能力放在同一个包里，方便做端到端的研究与自动化：
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xiaomaozjj666/web-crawler 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-18 11 → 2026-11-19 11（+0）
 
 
 ---

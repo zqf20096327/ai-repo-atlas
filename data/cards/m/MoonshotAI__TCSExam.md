@@ -1,6 +1,6 @@
 # MoonshotAI/TCSExam
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/MoonshotAI/TCSExam) · [官网](https://moonshotai.github.io/TCSExam/) · 组织维护 · 中文 README
+⭐ 47 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/MoonshotAI/TCSExam) · [官网](https://moonshotai.github.io/TCSExam/) · 组织维护 · 中文 README
 
 **评测模型–智能体系统在理论计算机科学研究任务上的基准**
 
@@ -44,13 +44,13 @@ MoonshotAI 维护的理论计算机科学（TCS）研究基准：包含 100 个�
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/TCSExam 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 23 --> 48
-    line [25, 34, 37, 40, 43, 44, 46]
+    title "MoonshotAI/TCSExam 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 23 --> 49
+    line [25, 34, 37, 40, 43, 44, 46, 47]
 ```
 
-2026-11-08 25 → 2026-11-18 46（+21）
+2026-11-08 25 → 2026-11-19 47（+22）
 
 
 ---

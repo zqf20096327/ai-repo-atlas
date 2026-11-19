@@ -1,6 +1,6 @@
 # N1nEmAn/nvwabase
 
-⭐ 64 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/N1nEmAn/nvwabase) · [官网](https://github.com/N1nEmAn/sapper-v2) · 个人维护 · 中文 README
+⭐ 74 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/N1nEmAn/nvwabase) · [官网](https://github.com/N1nEmAn/sapper-v2) · 个人维护 · 中文 README
 
 **给多智能体的分层事实-意图图谱共享记忆基础设施**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "N1nEmAn/nvwabase 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 52 --> 65
-    line [53, 54, 56, 58, 57, 64]
+    title "N1nEmAn/nvwabase 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 51 --> 76
+    line [53, 54, 56, 58, 57, 64, 74]
 ```
 
-2026-11-12 53 → 2026-11-18 64（+11）
+2026-11-12 53 → 2026-11-19 74（+21）
 
 
 ---

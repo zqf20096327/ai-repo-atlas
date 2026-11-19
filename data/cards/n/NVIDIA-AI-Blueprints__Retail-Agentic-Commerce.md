@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/Retail-Agentic-Commerce
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce) · 组织维护
+⭐ 88 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce) · 组织维护
 
 **NVIDIA 参考实现：ACP/UCP 协议下的商家可控 AI 结账与支付**
 
@@ -46,12 +46,12 @@ NVIDIA AI Blueprints 出品的 Agentic Commerce Protocol（ACP）与 Universal C
 ```mermaid
 xychart-beta
     title "NVIDIA-AI-Blueprints/Retail-Agentic-Commerce 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 80 --> 87
-    line [81, 82, 83, 81, 86, 86]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 80 --> 89
+    line [81, 82, 83, 81, 86, 88]
 ```
 
-2026-10-18 81 → 2026-11-18 86（+5）
+2026-10-18 81 → 2026-11-19 88（+7）
 
 
 ---

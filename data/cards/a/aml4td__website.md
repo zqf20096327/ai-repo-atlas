@@ -1,6 +1,6 @@
 # aml4td/website
 
-⭐ 169 · HTML · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/aml4td/website) · [官网](https://aml4td.org/) · 个人维护
+⭐ 169 · HTML · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/aml4td/website) · [官网](https://aml4td.org/) · 个人维护
 
 **面向表格数据预测建模的开放教材（书稿源文件）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aml4td/website 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 168 --> 172
     line [171, 170, 169, 169]
 ```
 
-2026-10-18 171 → 2026-11-18 169（-2）
+2026-10-18 171 → 2026-11-19 169（-2）
 
 
 ---

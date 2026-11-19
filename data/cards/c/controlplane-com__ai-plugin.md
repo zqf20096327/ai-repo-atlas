@@ -1,6 +1,6 @@
 # controlplane-com/ai-plugin
 
-⭐ 11 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/controlplane-com/ai-plugin) · [官网](https://controlplane.com) · 组织维护
+⭐ 11 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/controlplane-com/ai-plugin) · [官网](https://controlplane.com) · 组织维护
 
 **给 Claude Code/Codex 等 AI 助手的 Control Plane 云工作负载管理插件**
 
@@ -46,12 +46,12 @@ Control Plane 官方发布的 AI 助手插件：将领域技能、生产护栏�
 ```mermaid
 xychart-beta
     title "controlplane-com/ai-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lanl/hippynn
 
-⭐ 98 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/lanl/hippynn) · [官网](https://lanl.github.io/hippynn/) · 组织维护
+⭐ 98 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/lanl/hippynn) · [官网](https://lanl.github.io/hippynn/) · 组织维护
 
 **基于 PyTorch 的原子体系机器学习库，训练分子/材料模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lanl/hippynn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-11-18 98（+0）
+2026-10-18 98 → 2026-11-19 98（+0）
 
 
 ---

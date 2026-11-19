@@ -1,6 +1,6 @@
 # Geocene/trainset
 
-⭐ 181 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Geocene/trainset) · [官网](https://trainset.geocene.com/) · 组织维护
+⭐ 182 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Geocene/trainset) · [官网](https://trainset.geocene.com/) · 组织维护
 
 **给机器学习开发者的时间序列数据标注 Web 应用**
 
@@ -44,12 +44,12 @@ TRAINSET 是一个用于标注时间序列数据的图形化 Web 应用：上传
 ```mermaid
 xychart-beta
     title "Geocene/trainset 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-18"]
-    y-axis "stars" 180 --> 182
-    line [181, 181]
+    x-axis ["2026-11-10", "2026-11-19"]
+    y-axis "stars" 180 --> 183
+    line [181, 182]
 ```
 
-2026-11-10 181 → 2026-11-18 181（+0）
+2026-11-10 181 → 2026-11-19 182（+1）
 
 
 ---

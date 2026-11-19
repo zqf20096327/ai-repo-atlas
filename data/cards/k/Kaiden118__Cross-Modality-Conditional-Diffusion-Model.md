@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kaiden118/Cross-Modality-Conditional-Diffusion-Model 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-18 29（+1）
+2026-10-18 28 → 2026-11-19 29（+1）
 
 
 ---

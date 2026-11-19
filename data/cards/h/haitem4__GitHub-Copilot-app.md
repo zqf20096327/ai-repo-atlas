@@ -41,6 +41,18 @@ GitHub 官方的 agent-native 桌面应用，用于跨仓库查找、运行、�
 > L13: The GitHub Copilot app is an agent-native desktop experience for managing software work from idea to pull request. 
 > L15: The app is built for parallel agent-driven development. Each local session runs in its own isolated git worktree, a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "haitem4/GitHub-Copilot-app 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-11-18 62 → 2026-11-19 62（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `ef82cf6db0cd` · [字段定义](../../DATASET.md)*

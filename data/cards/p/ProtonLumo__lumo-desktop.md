@@ -1,6 +1,6 @@
 # ProtonLumo/lumo-desktop
 
-⭐ 29 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ProtonLumo/lumo-desktop) · [官网](https://proton.me/blog/lumo-desktop-features) · 组织维护
+⭐ 58 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ProtonLumo/lumo-desktop) · [官网](https://proton.me/blog/lumo-desktop-features) · 组织维护
 
 **Proton 隐私优先 AI 助手 Lumo 的桌面客户端**
 
@@ -40,6 +40,18 @@
 > L5:  The desktop app for Lumo, Proton's privacy-first AI assistant.
 > L8: Lumo Desktop wraps the Lumo web app in a native Tauri shell and gives it access to your
 > L11: - **Connectors**: let Lumo read and edit local files, run shell commands, and use Proton Mail, Luminance, and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ProtonLumo/lumo-desktop 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 27 --> 60
+    line [29, 58]
+```
+
+2026-11-18 29 → 2026-11-19 58（+29）
 
 
 ---

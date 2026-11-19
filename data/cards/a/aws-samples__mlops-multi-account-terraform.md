@@ -1,6 +1,6 @@
 # aws-samples/mlops-multi-account-terraform
 
-⭐ 49 · Jupyter Notebook · MIT-0 · 推送 2026-03-11 · [GitHub](https://github.com/aws-samples/mlops-multi-account-terraform) · 组织维护
+⭐ 48 · Jupyter Notebook · MIT-0 · 推送 2026-03-11 · [GitHub](https://github.com/aws-samples/mlops-multi-account-terraform) · 组织维护
 
 **用 Terraform 与 GitHub 在 AWS 上构建企业级 MLOps 平台的参考方案**
 
@@ -45,12 +45,12 @@ AWS 官方示例仓库，演示如何用 Terraform 与 GitHub Actions 构建多�
 ```mermaid
 xychart-beta
     title "aws-samples/mlops-multi-account-terraform 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 47 --> 50
+    line [49, 48]
 ```
 
-2026-10-18 49 → 2026-11-18 49（+0）
+2026-10-18 49 → 2026-11-19 48（-1）
 
 
 ---

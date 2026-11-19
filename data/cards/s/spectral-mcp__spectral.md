@@ -1,6 +1,6 @@
 # spectral-mcp/spectral
 
-⭐ 124 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/spectral-mcp/spectral) · [官网](https://www.getspectral.sh/) · 组织维护
+⭐ 125 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/spectral-mcp/spectral) · [官网](https://www.getspectral.sh/) · 组织维护
 
 **捕获应用流量并生成 MCP 工具，让 AI agent 直接调用私有 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spectral-mcp/spectral 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 120 --> 125
-    line [121, 124, 124]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 120 --> 126
+    line [121, 124, 125]
 ```
 
-2026-10-18 121 → 2026-11-18 124（+3）
+2026-10-18 121 → 2026-11-19 125（+4）
 
 
 ---

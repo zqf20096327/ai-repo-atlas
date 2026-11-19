@@ -1,6 +1,6 @@
 # SourceShift/mini-ork
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/SourceShift/mini-ork) · [官网](https://miniork.dev) · 个人维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/SourceShift/mini-ork) · [官网](https://miniork.dev) · 个人维护
 
 **面向 AI agent 的验证门控任务运行时，证明修复确实修了 bug**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SourceShift/mini-ork 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
     y-axis "stars" 31 --> 36
     line [32, 35, 35]
 ```
 
-2026-10-18 32 → 2026-11-18 35（+3）
+2026-10-18 32 → 2026-11-19 35（+3）
 
 
 ---

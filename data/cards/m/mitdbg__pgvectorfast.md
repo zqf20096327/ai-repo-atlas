@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mitdbg/pgvectorfast 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    title "mitdbg/pgvectorfast 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 10 --> 18
-    line [11, 17]
+    line [11, 17, 17]
 ```
 
-2026-11-16 11 → 2026-11-18 17（+6）
+2026-11-16 11 → 2026-11-19 17（+6）
 
 
 ---

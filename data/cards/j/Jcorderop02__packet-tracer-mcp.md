@@ -1,6 +1,6 @@
 # Jcorderop02/packet-tracer-mcp
 
-⭐ 16 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/Jcorderop02/packet-tracer-mcp) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Jcorderop02/packet-tracer-mcp) · 个人维护
 
 **控制 Cisco Packet Tracer 9 的 MCP 服务器，供 Claude 等 AI 客户端搭建网络拓扑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jcorderop02/packet-tracer-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-18 16（+2）
+2026-10-18 14 → 2026-11-19 16（+2）
 
 
 ---

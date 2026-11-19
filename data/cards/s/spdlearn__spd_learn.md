@@ -1,6 +1,6 @@
 # spdlearn/spd_learn
 
-⭐ 42 · Python · BSD-3-Clause · 推送 2026-11-10 · [GitHub](https://github.com/spdlearn/spd_learn) · [官网](http://spdlearn.org/) · 组织维护
+⭐ 42 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/spdlearn/spd_learn) · [官网](http://spdlearn.org/) · 组织维护
 
 **面向 BCI/EEG 神经解码的 SPD 矩阵几何深度学习 PyTorch 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spdlearn/spd_learn 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 39 --> 43
     line [40, 41, 40, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-18 42（+2）
+2026-10-18 40 → 2026-11-19 42（+2）
 
 
 ---

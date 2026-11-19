@@ -1,6 +1,6 @@
 # mylamour/blog
 
-⭐ 64 · JavaScript · 推送 2026-10-19 · [GitHub](https://github.com/mylamour/blog) · [官网](https://fz.cool) · 个人维护 · 中文 README
+⭐ 64 · JavaScript · 推送 2026-11-18 · [GitHub](https://github.com/mylamour/blog) · [官网](https://fz.cool) · 个人维护 · 中文 README
 
 **个人双语技术博客（Hexo 静态站，安全/机器学习主题）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mylamour/blog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-11-18 64（+0）
+2026-10-18 64 → 2026-11-19 64（+0）
 
 
 ---

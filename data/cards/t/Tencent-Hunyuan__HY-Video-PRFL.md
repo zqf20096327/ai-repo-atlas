@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-Video-PRFL
 
-⭐ 97 · Python · NOASSERTION · 推送 2026-01-13 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Video-PRFL) · 组织维护 · 中文 README
+⭐ 96 · Python · NOASSERTION · 推送 2026-01-13 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Video-PRFL) · 组织维护 · 中文 README
 
 **视频生成模型隐空间过程奖励反馈学习（PRFL）训练与推理代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HY-Video-PRFL 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-19"]
     y-axis "stars" 94 --> 98
-    line [95, 96, 97, 97]
+    line [95, 96, 97, 96]
 ```
 
-2026-10-18 95 → 2026-11-18 97（+2）
+2026-10-18 95 → 2026-11-19 96（+1）
 
 
 ---

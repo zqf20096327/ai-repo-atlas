@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Coolgiserz/Awesome-Traffic-Prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 166 --> 168
     line [167, 167]
 ```
 
-2026-10-18 167 → 2026-11-18 167（+0）
+2026-10-18 167 → 2026-11-19 167（+0）
 
 
 ---

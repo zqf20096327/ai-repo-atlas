@@ -1,6 +1,6 @@
 # PriorLabs/tabpfn-client
 
-⭐ 256 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/PriorLabs/tabpfn-client) · [官网](https://www.priorlabs.ai) · 组织维护
+⭐ 256 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PriorLabs/tabpfn-client) · [官网](https://www.priorlabs.ai) · 组织维护
 
 **表格基础模型 TabPFN 云端推理 API 的 Python 客户端**
 
@@ -45,12 +45,12 @@ PriorLabs 官方的 tabpfn-client：以 scikit-learn 兼容的 TabPFNClassifier/
 ```mermaid
 xychart-beta
     title "PriorLabs/tabpfn-client 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-19"]
     y-axis "stars" 251 --> 257
     line [252, 253, 252, 253, 255, 256, 256]
 ```
 
-2026-10-18 252 → 2026-11-18 256（+4）
+2026-10-18 252 → 2026-11-19 256（+4）
 
 
 ---

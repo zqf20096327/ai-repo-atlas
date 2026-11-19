@@ -1,6 +1,6 @@
 # wink-wink-wink555/WordNest
 
-⭐ 94 · HTML · MIT · 推送 2026-05-26 · [GitHub](https://github.com/wink-wink-wink555/WordNest) · 个人维护 · 中文 README
+⭐ 95 · HTML · MIT · 推送 2026-05-26 · [GitHub](https://github.com/wink-wink-wink555/WordNest) · 个人维护 · 中文 README
 
 **基于 Flask 的个人生词本 Web 应用，配 AI 例句与词汇知识图谱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wink-wink-wink555/WordNest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 93 --> 96
+    line [94, 95]
 ```
 
-2026-10-18 94 → 2026-11-18 94（+0）
+2026-10-18 94 → 2026-11-19 95（+1）
 
 
 ---

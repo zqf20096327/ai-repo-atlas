@@ -1,6 +1,6 @@
 # duckxy166/among-us-ai
 
-⭐ 23 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/duckxy166/among-us-ai) · [官网](https://www.youtube.com/@LDuckxy) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/duckxy166/among-us-ai) · [官网](https://www.youtube.com/@LDuckxy) · 个人维护 · 中文 README
 
 **让多个 LLM 互相对战 Among Us 社交推理游戏的竞技场**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "duckxy166/among-us-ai 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 1 --> 25
-    line [3, 9, 12, 14, 17, 19, 21, 23]
+    title "duckxy166/among-us-ai 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 1 --> 27
+    line [3, 9, 12, 14, 17, 19, 21, 23, 25]
 ```
 
-2026-11-10 3 → 2026-11-18 23（+20）
+2026-11-10 3 → 2026-11-19 25（+22）
 
 
 ---

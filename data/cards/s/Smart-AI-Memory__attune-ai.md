@@ -1,6 +1,6 @@
 # Smart-AI-Memory/attune-ai
 
-⭐ 11 · HTML · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Smart-AI-Memory/attune-ai) · [官网](https://attune-ai.dev) · 组织维护
+⭐ 11 · HTML · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Smart-AI-Memory/attune-ai) · [官网](https://attune-ai.dev) · 组织维护
 
 **为 Claude Code 提供持久记忆与凭证验证工作流的插件/CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Smart-AI-Memory/attune-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-18 11（+1）
+2026-10-18 10 → 2026-11-19 11（+1）
 
 
 ---

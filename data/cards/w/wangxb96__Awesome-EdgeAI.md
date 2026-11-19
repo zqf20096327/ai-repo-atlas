@@ -1,6 +1,6 @@
 # wangxb96/Awesome-EdgeAI
 
-⭐ 122 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/wangxb96/Awesome-EdgeAI) · 组织维护 · 中文 README
+⭐ 122 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/wangxb96/Awesome-EdgeAI) · 组织维护 · 中文 README
 
 **边缘 AI 综述论文配套资源清单：数据/模型/系统优化文献策展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wangxb96/Awesome-EdgeAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-19"]
     y-axis "stars" 118 --> 123
     line [119, 120, 122, 122]
 ```
 
-2026-10-18 119 → 2026-11-18 122（+3）
+2026-10-18 119 → 2026-11-19 122（+3）
 
 
 ---

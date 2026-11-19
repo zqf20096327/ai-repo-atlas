@@ -1,6 +1,6 @@
 # goldener-data/goldener
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/goldener-data/goldener) · [官网](https://www.goldener.ai/) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/goldener-data/goldener) · [官网](https://www.goldener.ai/) · 组织维护
 
 **面向 AI 全生命周期的数据编排 Python 库**
 
@@ -46,12 +46,12 @@ Apache 2 许可的开源 Python 库，基于预训练/基础模型提取的嵌�
 ```mermaid
 xychart-beta
     title "goldener-data/goldener 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 18, 19, 20]
 ```
 
-2026-10-18 15 → 2026-11-18 19（+4）
+2026-10-18 15 → 2026-11-19 20（+5）
 
 
 ---

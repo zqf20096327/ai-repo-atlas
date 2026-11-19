@@ -1,6 +1,6 @@
 # logitcai/tinybrain
 
-⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/logitcai/tinybrain) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/logitcai/tinybrain) · 个人维护 · 中文 README
 
 **从零实现的中文小语言模型全流程项目：数据、分词器、训练到强化学习**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "logitcai/tinybrain 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 4 --> 15
-    line [5, 8, 14]
+    title "logitcai/tinybrain 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 4 --> 16
+    line [5, 8, 14, 15]
 ```
 
-2026-11-15 5 → 2026-11-18 14（+9）
+2026-11-15 5 → 2026-11-19 15（+10）
 
 
 ---

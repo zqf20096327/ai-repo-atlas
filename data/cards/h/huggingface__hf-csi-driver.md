@@ -1,6 +1,6 @@
 # huggingface/hf-csi-driver
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/huggingface/hf-csi-driver) · 组织维护
+⭐ 17 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/huggingface/hf-csi-driver) · 组织维护
 
 **将 HF Hub 仓库/存储桶以 FUSE 卷挂载进 K8s Pod 的 CSI 驱动**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/hf-csi-driver 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 14, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 14, 15, 16, 17]
 ```
 
-2026-10-18 14 → 2026-11-18 16（+2）
+2026-10-18 14 → 2026-11-19 17（+3）
 
 
 ---

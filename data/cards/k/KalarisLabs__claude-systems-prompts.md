@@ -1,6 +1,6 @@
 # KalarisLabs/claude-systems-prompts
 
-⭐ 234 · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/KalarisLabs/claude-systems-prompts) · 个人维护
+⭐ 235 · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/KalarisLabs/claude-systems-prompts) · 个人维护
 
 **Anthropic 官方 Claude 系统提示词存档库（23 个模型）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "KalarisLabs/claude-systems-prompts 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 224 --> 235
-    line [225, 227, 228, 232, 233, 234]
+    title "KalarisLabs/claude-systems-prompts 星数(近 7 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 224 --> 236
+    line [225, 227, 228, 232, 233, 234, 235]
 ```
 
-2026-11-11 225 → 2026-11-18 234（+9）
+2026-11-11 225 → 2026-11-19 235（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # leonxger/deepseek-colab
 
-⭐ 59 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/leonxger/deepseek-colab) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/leonxger/deepseek-colab) · 个人维护
 
 **在 Colab G4 GPU 上部署 DeepSeek V4.1 Flash 无审查模型的启动器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leonxger/deepseek-colab 星数(近 7 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-19"]
     y-axis "stars" 0 --> 65
-    line [3, 8, 56, 59, 60, 59, 59]
+    line [3, 8, 56, 59, 60, 59, 60]
 ```
 
-2026-11-01 3 → 2026-11-18 59（+56）
+2026-11-01 3 → 2026-11-19 60（+57）
 
 
 ---

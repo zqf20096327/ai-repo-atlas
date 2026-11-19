@@ -1,6 +1,6 @@
 # acnlabs/MetaSpec
 
-⭐ 55 · Jinja · MIT · 推送 2025-11-22 · [GitHub](https://github.com/acnlabs/MetaSpec) · [官网](https://mataspec.figma.site/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 AI Agent 生成规格驱动工具包的元规格框架**
 
@@ -11,7 +11,7 @@ MetaSpec 是一个 Python 元规格框架，用于自动生成生产可用的 sp
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

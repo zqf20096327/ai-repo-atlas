@@ -1,6 +1,6 @@
 # martidu4/honey-ai
 
-⭐ 17 · JavaScript · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/martidu4/honey-ai) · 个人维护
+⭐ 17 · JavaScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/martidu4/honey-ai) · 个人维护
 
 **本地 LLM 驱动的多协议蜜罐，欺骗攻击者并上报威胁情报**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "martidu4/honey-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-19"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-18 17（+2）
+2026-10-18 15 → 2026-11-19 17（+2）
 
 
 ---

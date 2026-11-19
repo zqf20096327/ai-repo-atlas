@@ -1,1 +1,80 @@
-{"fn": "OrderG-X/dsh-mac-computer-use", "sha": "dd2e9cd46b71", "source": "readme", "identity": {"one_liner": "DSH 插件：让模型看屏幕截图操作 Mac 桌面", "review": "DeepSeek Harness（DSH）的 macOS computer use 插件，通过 11 个 desktop_* 工具让模型依据截图操作桌面：列窗口、截图、OCR 按文字定位、元素编号点击、打字、按键、滚动、拖拽、启动应用。视觉优先路线，不依赖无障碍树（AX），在锁屏等 AX 失效场景下仍可用。安装包自带预编译通用二进制（Apple 芯片与 Intel，macOS 11+），无需编译；首次使用需授予屏幕录制与辅助功能权限。仅支持 macOS，需已安装 DSH。", "highlights": ["11 个 desktop_* 工具：窗口列表、截图、OCR 找字、点击、输入、按键、滚动、拖拽、启动应用", "OCR 用 macOS 自带 Vision 框架本地运行，desktop_observe 给可点元素编号供模型按序号点击", "屏幕上有可操作的桌面光标浮层，60 秒空闲自退，不留常驻进程", "预编译通用二进制分发，无需 clone 仓库或安装 Xcode"], "use_cases": ["让 AI 助手操作只有图形界面、没有命令行的 Mac 软件", "对无障碍树失效或受限的环境做桌面自动化", "通过自然语言查看屏幕内容并执行点击输入操作"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["computer-use", "桌面自动化", "macOS", "AI-agent 工具"], "domain": "桌面自动化/AI agent 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "npm 国内镜像（npmmirror）自动回退"]}, "trust": {"confidence": "high", "evidence": ["L8: **给 DSH 的 Mac 桌面操作能力（computer use）。视觉优先，不依赖无障碍树。**", "L10: > **一句话**：DeepSeek Harness（DSH）插件，让模型看着屏幕操作你的 Mac：列窗口、截图、OCR 找字、点击、打字、按键、滚动、拖拽、打开应用。", "L14: > **安装**：DSH「插件」页 →「添加插件」，填 `dsh-mac-computer-use`（npm 包，连不上 npm 会自动换国内镜像），重启 DSH。安装包自带编好的程序（Apple 芯片和 Intel 都能用，macOS 1"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-18", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "OrderG-X/dsh-mac-computer-use",
+ "sha": "dd2e9cd46b71",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DSH 插件：让模型看屏幕截图操作 Mac 桌面",
+  "review": "DeepSeek Harness（DSH）的 macOS computer use 插件，通过 11 个 desktop_* 工具让模型依据截图操作桌面：列窗口、截图、OCR 按文字定位、元素编号点击、打字、按键、滚动、拖拽、启动应用。视觉优先路线，不依赖无障碍树（AX），在锁屏等 AX 失效场景下仍可用。安装包自带预编译通用二进制（Apple 芯片与 Intel，macOS 11+），无需编译；首次使用需授予屏幕录制与辅助功能权限。仅支持 macOS，需已安装 DSH。",
+  "highlights": [
+   "11 个 desktop_* 工具：窗口列表、截图、OCR 找字、点击、输入、按键、滚动、拖拽、启动应用",
+   "OCR 用 macOS 自带 Vision 框架本地运行，desktop_observe 给可点元素编号供模型按序号点击",
+   "屏幕上有可操作的桌面光标浮层，60 秒空闲自退，不留常驻进程",
+   "预编译通用二进制分发，无需 clone 仓库或安装 Xcode"
+  ],
+  "use_cases": [
+   "让 AI 助手操作只有图形界面、没有命令行的 Mac 软件",
+   "对无障碍树失效或受限的环境做桌面自动化",
+   "通过自然语言查看屏幕内容并执行点击输入操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "computer-use",
+   "桌面自动化",
+   "macOS",
+   "AI-agent 工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "npm 国内镜像（npmmirror）自动回退"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **给 DSH 的 Mac 桌面操作能力（computer use）。视觉优先，不依赖无障碍树。**",
+   "L10: > **一句话**：DeepSeek Harness（DSH）插件，让模型看着屏幕操作你的 Mac：列窗口、截图、OCR 找字、点击、打字、按键、滚动、拖拽、打开应用。",
+   "L14: > **安装**：DSH「插件」页 →「添加插件」，填 `dsh-mac-computer-use`（npm 包，连不上 npm 会自动换国内镜像），重启 DSH。安装包自带编好的程序（Apple 芯片和 Intel 都能用，macOS 1"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-18",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

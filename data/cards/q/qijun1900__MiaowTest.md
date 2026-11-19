@@ -1,6 +1,6 @@
 # qijun1900/MiaowTest
 
-⭐ 81 · Vue · MIT · 推送 2026-08-01 · [GitHub](https://github.com/qijun1900/MiaowTest) · [官网](https://github.com/qijun1900/MiaoTest) · 个人维护 · 中文 README
+⭐ 82 · Vue · MIT · 推送 2026-08-01 · [GitHub](https://github.com/qijun1900/MiaowTest) · [官网](https://github.com/qijun1900/MiaoTest) · 个人维护 · 中文 README
 
 **跨平台智能刷题系统：多题型练习+AI 对话与学习工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qijun1900/MiaowTest 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 77 --> 82
-    line [78, 79, 80, 78, 80, 81, 81]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 77 --> 83
+    line [78, 79, 80, 78, 80, 81, 82]
 ```
 
-2026-10-18 78 → 2026-11-18 81（+3）
+2026-10-18 78 → 2026-11-19 82（+4）
 
 
 ---

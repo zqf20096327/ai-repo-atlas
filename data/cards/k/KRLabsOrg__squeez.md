@@ -1,6 +1,6 @@
 # KRLabsOrg/squeez
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/KRLabsOrg/squeez) · [官网](https://krlabsorg.github.io/squeez) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/KRLabsOrg/squeez) · [官网](https://krlabsorg.github.io/squeez) · 组织维护
 
 **给 LLM 编码代理的工具输出剪枝器：只留相关行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KRLabsOrg/squeez 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 22 --> 26
-    line [24, 23, 24, 25]
+    title "KRLabsOrg/squeez 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 22 --> 27
+    line [24, 23, 24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-11-18 25（+1）
+2026-10-18 24 → 2026-11-19 26（+2）
 
 
 ---

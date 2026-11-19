@@ -1,6 +1,6 @@
 # nghorbani/homogenus
 
-⭐ 133 · Python · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/nghorbani/homogenus) · [官网](https://smpl-x.is.tue.mpg.de/) · 组织维护
+⭐ 134 · Python · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/nghorbani/homogenus) · [官网](https://smpl-x.is.tue.mpg.de/) · 组织维护
 
 **基于全身图像与 OpenPose 关键点的人像性别分类器**
 
@@ -44,12 +44,12 @@ CVPR 2019 论文 Expressive Body Capture 的官方推理代码：输入全身人
 ```mermaid
 xychart-beta
     title "nghorbani/homogenus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 132 --> 134
-    line [133, 133]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 132 --> 135
+    line [133, 134]
 ```
 
-2026-10-18 133 → 2026-11-18 133（+0）
+2026-10-18 133 → 2026-11-19 134（+1）
 
 
 ---

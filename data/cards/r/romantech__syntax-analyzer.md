@@ -1,6 +1,6 @@
 # romantech/syntax-analyzer
 
-⭐ 16 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/romantech/syntax-analyzer) · [官网](https://syntax-analyzer.romantech.net) · 个人维护
+⭐ 16 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/romantech/syntax-analyzer) · [官网](https://syntax-analyzer.romantech.net) · 个人维护
 
 **面向英语学习者的英语句子句法分析与编辑 Web 应用**
 
@@ -45,12 +45,12 @@ React+TypeScript 编写的 Web 应用：输入英语句子后由自行微调的 
 ```mermaid
 xychart-beta
     title "romantech/syntax-analyzer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-18 16（+1）
+2026-10-18 15 → 2026-11-19 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # openai/redcard
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/openai/redcard) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/openai/redcard) · 组织维护
 
 **举起红牌即自动退出工作的 Codex 摄像头技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/redcard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 42 --> 47
-    line [43, 45, 46, 46]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 42 --> 48
+    line [43, 45, 46, 47]
 ```
 
-2026-10-18 43 → 2026-11-18 46（+3）
+2026-10-18 43 → 2026-11-19 47（+4）
 
 
 ---

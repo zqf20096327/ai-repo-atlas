@@ -1,6 +1,6 @@
 # jkmaina/LangGraphProjects
 
-⭐ 223 · Python · NOASSERTION · 推送 2026-01-10 · [GitHub](https://github.com/jkmaina/LangGraphProjects) · [官网](https://www.amazon.com/Complete-LangGraph-Blueprint-Business-Success-ebook/dp/B0DP69QV7K) · 个人维护
+⭐ 222 · Python · NOASSERTION · 推送 2026-01-10 · [GitHub](https://github.com/jkmaina/LangGraphProjects) · [官网](https://www.amazon.com/Complete-LangGraph-Blueprint-Business-Success-ebook/dp/B0DP69QV7K) · 个人维护
 
 **LangGraph 图书配套代码库：50+ AI agent 分章示例与教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jkmaina/LangGraphProjects 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
     y-axis "stars" 217 --> 224
-    line [218, 219, 221, 222, 223, 223]
+    line [218, 219, 221, 222, 223, 222]
 ```
 
-2026-10-18 218 → 2026-11-18 223（+5）
+2026-10-18 218 → 2026-11-19 222（+4）
 
 
 ---

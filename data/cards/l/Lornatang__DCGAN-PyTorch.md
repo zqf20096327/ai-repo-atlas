@@ -1,6 +1,6 @@
 # Lornatang/DCGAN-PyTorch
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/Lornatang/DCGAN-PyTorch) · 个人维护 · 中文 README
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Lornatang/DCGAN-PyTorch) · 个人维护 · 中文 README
 
 **DCGAN 的 PyTorch 复现：图像生成对抗网络的训练与测试实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lornatang/DCGAN-PyTorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 18（+0）
 
 
 ---

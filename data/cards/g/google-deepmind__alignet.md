@@ -1,6 +1,6 @@
 # google-deepmind/alignet
 
-⭐ 83 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/google-deepmind/alignet) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/google-deepmind/alignet) · 组织维护
 
 **对齐机器与人类视觉表征的训练代码、数据集与模型检查点**
 
@@ -46,12 +46,12 @@ DeepMind 论文 "Aligning Machine and Human Visual Representations across Abstra
 ```mermaid
 xychart-beta
     title "google-deepmind/alignet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-18"]
-    y-axis "stars" 78 --> 84
-    line [79, 81, 82, 83, 83]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-19"]
+    y-axis "stars" 78 --> 85
+    line [79, 81, 82, 83, 84]
 ```
 
-2026-10-18 79 → 2026-11-18 83（+4）
+2026-10-18 79 → 2026-11-19 84（+5）
 
 
 ---

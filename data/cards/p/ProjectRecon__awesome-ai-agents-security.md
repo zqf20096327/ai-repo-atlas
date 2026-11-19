@@ -1,6 +1,6 @@
 # ProjectRecon/awesome-ai-agents-security
 
-⭐ 80 · NOASSERTION · 推送 2026-06-12 · [GitHub](https://github.com/ProjectRecon/awesome-ai-agents-security) · 组织维护
+⭐ 81 · NOASSERTION · 推送 2026-06-12 · [GitHub](https://github.com/ProjectRecon/awesome-ai-agents-security) · 组织维护
 
 **AI agent 安全工具与资源的策展清单（awesome list）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ProjectRecon/awesome-ai-agents-security 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 75 --> 81
-    line [76, 77, 78, 79, 77, 79, 80, 79, 80, 80]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 75 --> 82
+    line [76, 77, 78, 79, 77, 79, 80, 79, 80, 81]
 ```
 
-2026-10-18 76 → 2026-11-18 80（+4）
+2026-10-18 76 → 2026-11-19 81（+5）
 
 
 ---

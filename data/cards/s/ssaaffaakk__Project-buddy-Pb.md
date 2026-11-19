@@ -47,12 +47,12 @@ ProjectBuddy 是面向大学生的项目组队 Web 平台，基于 Flask + Postg
 ```mermaid
 xychart-beta
     title "ssaaffaakk/Project-buddy-Pb 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 20 --> 30
     line [29, 21, 21]
 ```
 
-2026-11-08 29 → 2026-11-18 21（-8）
+2026-11-08 29 → 2026-11-19 21（-8）
 
 
 ---

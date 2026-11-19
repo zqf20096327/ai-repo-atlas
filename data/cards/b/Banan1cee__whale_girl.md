@@ -1,6 +1,6 @@
 # Banan1cee/whale_girl
 
-⭐ 719 · JavaScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Banan1cee/whale_girl) · [官网](https://github.com/Banan1cee/whale_gril) · 个人维护 · 中文 README
+⭐ 746 · JavaScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Banan1cee/whale_girl) · [官网](https://github.com/Banan1cee/whale_gril) · 个人维护 · 中文 README
 
 **让 DeepSeek 等模型用你的微信账号群聊陪聊的 Windows 桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Banan1cee/whale_girl 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 330 --> 754
-    line [365, 459, 502, 548, 579, 607, 643, 680, 719]
+    title "Banan1cee/whale_girl 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 327 --> 784
+    line [365, 459, 502, 548, 579, 607, 643, 680, 719, 746]
 ```
 
-2026-11-08 365 → 2026-11-18 719（+354）
+2026-11-08 365 → 2026-11-19 746（+381）
 
 
 ---

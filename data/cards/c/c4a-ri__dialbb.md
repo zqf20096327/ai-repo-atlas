@@ -1,6 +1,6 @@
 # c4a-ri/dialbb
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/c4a-ri/dialbb) · [官网](https://c4a-ri.github.io/dialbb/) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/c4a-ri/dialbb) · [官网](https://c4a-ri.github.io/dialbb/) · 组织维护
 
 **对话系统开发框架：面向教学，含 LLM/DST/RAG 内置模块**
 
@@ -46,12 +46,12 @@ C4A 研究所开发的对话系统构建框架（v2.0.2），定位为教学材�
 ```mermaid
 xychart-beta
     title "c4a-ri/dialbb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-18 20（+0）
+2026-10-18 20 → 2026-11-19 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Pangu-Immortal/MagicWX
 
-⭐ 863 · Kotlin · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/Pangu-Immortal/MagicWX) · 个人维护 · 中文 README
+⭐ 864 · Kotlin · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/Pangu-Immortal/MagicWX) · 个人维护 · 中文 README
 
 **Android 端侧离线 LLM 聊天与本地生图应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Pangu-Immortal/MagicWX 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 856 --> 864
-    line [857, 858, 859, 860, 858, 863, 863]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 856 --> 865
+    line [857, 858, 859, 860, 858, 863, 864]
 ```
 
-2026-10-18 857 → 2026-11-18 863（+6）
+2026-10-18 857 → 2026-11-19 864（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # nicuk/docsflow
 
-⭐ 20 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/nicuk/docsflow) · [官网](https://docsflow.app/?utm_source=github&utm_medium=social&utm_campaign=readme_link) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/nicuk/docsflow) · [官网](https://docsflow.app/?utm_source=github&utm_medium=social&utm_campaign=readme_link) · 个人维护
 
 **多租户 RAG 文档问答平台：每团队独立工作区与带引用的回答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nicuk/docsflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-11-18 20（+1）
+2026-10-18 19 → 2026-11-19 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # michikora/ComfyUI-Autocomplete-Plus-Plus
 
-⭐ 16 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/michikora/ComfyUI-Autocomplete-Plus-Plus) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/michikora/ComfyUI-Autocomplete-Plus-Plus) · 个人维护 · 中文 README
 
 **ComfyUI 提示词输入的自动补全与动态扩展扩展**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点扩展：为文本输入框提供 Danbooru/e621 标签补
 ```mermaid
 xychart-beta
     title "michikora/ComfyUI-Autocomplete-Plus-Plus 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 8 --> 17
-    line [9, 10, 12, 13, 14, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 8 --> 18
+    line [9, 10, 12, 13, 14, 15, 16, 17]
 ```
 
-2026-10-18 9 → 2026-11-18 16（+7）
+2026-10-18 9 → 2026-11-19 17（+8）
 
 
 ---

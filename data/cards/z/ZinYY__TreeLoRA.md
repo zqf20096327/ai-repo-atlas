@@ -1,6 +1,6 @@
 # ZinYY/TreeLoRA
 
-⭐ 350 · Python · 推送 2025-12-15 · [GitHub](https://github.com/ZinYY/TreeLoRA) · [官网](https://arxiv.org/abs/2506.10355) · 组织维护
+⭐ 351 · Python · 推送 2025-12-15 · [GitHub](https://github.com/ZinYY/TreeLoRA) · [官网](https://arxiv.org/abs/2506.10355) · 组织维护
 
 **ICML 2025 论文 TreeLoRA 的 PyTorch 官方实现：LLM 高效持续学习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZinYY/TreeLoRA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 349 --> 351
-    line [350, 350]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 349 --> 352
+    line [350, 351]
 ```
 
-2026-10-18 350 → 2026-11-18 350（+0）
+2026-10-18 350 → 2026-11-19 351（+1）
 
 
 ---

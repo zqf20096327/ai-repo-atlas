@@ -1,6 +1,6 @@
 # ModelEngine-Group/fit-framework
 
-⭐ 2,118 · Java · MIT · 推送 2026-03-13 · [GitHub](https://github.com/ModelEngine-Group/fit-framework) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
+⭐ 2,117 · Java · MIT · 推送 2026-03-13 · [GitHub](https://github.com/ModelEngine-Group/fit-framework) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
 
 **面向 Java 开发者的企业级 AI 开发框架**
 
@@ -45,12 +45,12 @@ Java 企业级 AI 开发框架，包含三个部分：FIT Core 多语言函数�
 ```mermaid
 xychart-beta
     title "ModelEngine-Group/fit-framework 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 2115 --> 2119
-    line [2116, 2118, 2117, 2118, 2117, 2118, 2118]
+    line [2116, 2118, 2117, 2118, 2117, 2118, 2117]
 ```
 
-2026-10-18 2,116 → 2026-11-18 2,118（+2）
+2026-10-18 2,116 → 2026-11-19 2,117（+1）
 
 
 ---

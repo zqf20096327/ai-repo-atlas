@@ -1,6 +1,6 @@
 # wdm0006/elote
 
-⭐ 34 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/wdm0006/elote) · [官网](https://wdm0006.github.io/elote/) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/wdm0006/elote) · [官网](https://wdm0006.github.io/elote/) · 个人维护
 
 **统一 Python 接口下比较多种评分排序算法的库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wdm0006/elote 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-11-18 34（+1）
+2026-10-18 33 → 2026-11-19 35（+2）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openreachtech/hora-boilerplate 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-19"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-11-08 62 → 2026-11-18 62（+0）
+2026-11-08 62 → 2026-11-19 62（+0）
 
 
 ---

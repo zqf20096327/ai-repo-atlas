@@ -1,6 +1,6 @@
 # El-12stu/RelaMind
 
-⭐ 212 · Java · MIT · 推送 2025-12-14 · [GitHub](https://github.com/El-12stu/RelaMind) · 个人维护 · 中文 README
+⭐ 213 · Java · MIT · 推送 2025-12-14 · [GitHub](https://github.com/El-12stu/RelaMind) · 个人维护 · 中文 README
 
 **面向个人用户的 AI 成长陪伴系统：对话、日记、任务智能体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "El-12stu/RelaMind 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 210 --> 213
-    line [211, 212, 212]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 210 --> 214
+    line [211, 212, 213]
 ```
 
-2026-10-18 211 → 2026-11-18 212（+1）
+2026-10-18 211 → 2026-11-19 213（+2）
 
 
 ---

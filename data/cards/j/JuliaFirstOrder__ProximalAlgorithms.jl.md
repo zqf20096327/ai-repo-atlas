@@ -44,13 +44,13 @@ Julia 语言的开源数值优化包，提供针对含非光滑项目标函数�
 
 ```mermaid
 xychart-beta
-    title "JuliaFirstOrder/ProximalAlgorithms.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    title "JuliaFirstOrder/ProximalAlgorithms.jl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18", "2026-11-19"]
     y-axis "stars" 140 --> 144
-    line [141, 142, 143]
+    line [141, 142, 143, 143]
 ```
 
-2026-10-18 141 → 2026-11-18 143（+2）
+2026-10-18 141 → 2026-11-19 143（+2）
 
 
 ---

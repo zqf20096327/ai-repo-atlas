@@ -1,6 +1,6 @@
 # davidrpugh/machine-learning-for-tabular-data
 
-⭐ 54 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-28 · [GitHub](https://github.com/davidrpugh/machine-learning-for-tabular-data) · 个人维护
+⭐ 54 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/davidrpugh/machine-learning-for-tabular-data) · 个人维护
 
 **面向表格数据的机器学习多日课程教材仓库（Scikit-Learn/XGBoost）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "davidrpugh/machine-learning-for-tabular-data 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-11-18 54（+0）
+2026-10-18 54 → 2026-11-19 54（+0）
 
 
 ---

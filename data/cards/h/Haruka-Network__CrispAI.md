@@ -1,6 +1,6 @@
 # Haruka-Network/CrispAI
 
-⭐ 25 · TypeScript · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/Haruka-Network/CrispAI) · [官网](https://ai.haruka.cloud/) · 组织维护 · 中文 README
+⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/Haruka-Network/CrispAI) · [官网](https://ai.haruka.cloud/) · 组织维护 · 中文 README
 
 **Crisp 客服助手的自部署版：自动回复+AI 知识库+Telegram 同步**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Haruka-Network/CrispAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-18"]
-    y-axis "stars" 20 --> 26
-    line [21, 22, 24, 25, 24, 25]
+    title "Haruka-Network/CrispAI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 24, 25, 24, 25, 26]
 ```
 
-2026-10-18 21 → 2026-11-18 25（+4）
+2026-10-18 21 → 2026-11-19 26（+5）
 
 
 ---

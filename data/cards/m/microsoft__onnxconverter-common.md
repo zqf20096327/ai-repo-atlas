@@ -1,6 +1,6 @@
 # microsoft/onnxconverter-common
 
-⭐ 309 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/onnxconverter-common) · [官网](https://pypi.org/project/onnxconverter-common) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI 框架转 ONNX 模型转换器的通用工具库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

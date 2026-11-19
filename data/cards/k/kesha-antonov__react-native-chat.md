@@ -1,6 +1,6 @@
 # kesha-antonov/react-native-chat
 
-⭐ 89 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kesha-antonov/react-native-chat) · [官网](https://kesha-antonov.com/react-native-chat/) · 个人维护
+⭐ 90 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kesha-antonov/react-native-chat) · [官网](https://kesha-antonov.com/react-native-chat) · 个人维护
 
 **React Native 与 Web 的聊天 UI 组件库，含流式 AI 消息渲染**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kesha-antonov/react-native-chat 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 70 --> 90
-    line [71, 72, 73, 74, 73, 79, 85, 87, 88, 89]
+    title "kesha-antonov/react-native-chat 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 70 --> 91
+    line [71, 72, 73, 74, 73, 79, 85, 87, 88, 89, 90]
 ```
 
-2026-10-18 71 → 2026-11-18 89（+18）
+2026-10-18 71 → 2026-11-19 90（+19）
 
 
 ---

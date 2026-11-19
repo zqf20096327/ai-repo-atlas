@@ -45,12 +45,12 @@ VS Code 扩展，作为 Editor Code Assistant (ECA) 的前端客户端：连接�
 ```mermaid
 xychart-beta
     title "editor-code-assistant/eca-vscode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
     y-axis "stars" 15 --> 18
     line [17, 16, 16]
 ```
 
-2026-10-18 17 → 2026-11-18 16（-1）
+2026-10-18 17 → 2026-11-19 16（-1）
 
 
 ---

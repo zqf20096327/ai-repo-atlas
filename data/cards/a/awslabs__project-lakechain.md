@@ -1,6 +1,6 @@
 # awslabs/project-lakechain
 
-⭐ 190 · TypeScript · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/awslabs/project-lakechain) · [官网](https://awslabs.github.io/project-lakechain/) · 组织维护
+⭐ 190 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/awslabs/project-lakechain) · [官网](https://awslabs.github.io/project-lakechain/) · 组织维护
 
 **AWS 上构建可扩展文档处理管线的 CDK 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "awslabs/project-lakechain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 189 --> 191
     line [190, 190]
 ```
 
-2026-10-18 190 → 2026-11-18 190（+0）
+2026-10-18 190 → 2026-11-19 190（+0）
 
 
 ---

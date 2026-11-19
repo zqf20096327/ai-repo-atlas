@@ -1,6 +1,6 @@
 # MuaraAI/FluxCode
 
-⭐ 101 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/MuaraAI/FluxCode) · [官网](https://fluxcode.muaraai.com) · 组织维护
+⭐ 108 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/MuaraAI/FluxCode) · [官网](https://fluxcode.muaraai.com) · 组织维护
 
 **Rust 编写的轻量原生代码编辑器，内置 AI agent 面板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MuaraAI/FluxCode 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 110
-    line [9, 14, 19, 23, 24, 58, 93, 101]
+    title "MuaraAI/FluxCode 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 117
+    line [9, 14, 19, 23, 24, 58, 93, 101, 108]
 ```
 
-2026-11-10 9 → 2026-11-18 101（+92）
+2026-11-10 9 → 2026-11-19 108（+99）
 
 
 ---

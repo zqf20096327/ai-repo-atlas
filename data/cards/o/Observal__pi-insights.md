@@ -1,6 +1,6 @@
 # Observal/pi-insights
 
-⭐ 62 · TypeScript · AGPL-3.0 · 推送 2026-05-27 · [GitHub](https://github.com/Observal/pi-insights) · [官网](https://www.npmjs.com/package/@observal/pi-insights) · 组织维护
+⭐ 63 · TypeScript · AGPL-3.0 · 推送 2026-05-27 · [GitHub](https://github.com/Observal/pi-insights) · [官网](https://www.npmjs.com/package/@observal/pi-insights) · 组织维护
 
 **Pi 编码代理的个人使用分析扩展：扫描会话生成洞察报告**
 
@@ -46,12 +46,12 @@ Observal 团队开发的 Pi coding agent 扩展，扫描用户的会话历史日
 ```mermaid
 xychart-beta
     title "Observal/pi-insights 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 61 --> 64
+    line [62, 63]
 ```
 
-2026-10-18 62 → 2026-11-18 62（+0）
+2026-10-18 62 → 2026-11-19 63（+1）
 
 
 ---

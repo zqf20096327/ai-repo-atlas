@@ -1,6 +1,6 @@
 # fzliu/radient
 
-⭐ 281 · Python · BSD-2-Clause · 推送 2026-03-02 · [GitHub](https://github.com/fzliu/radient) · 个人维护
+⭐ 280 · Python · BSD-2-Clause · 推送 2026-03-02 · [GitHub](https://github.com/fzliu/radient) · 个人维护
 
 **多模态向量化与向量 ETL 工作流库：文本/音频/图像/图/分子转向量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fzliu/radient 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 280 --> 282
-    line [281, 281]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 279 --> 282
+    line [281, 280]
 ```
 
-2026-10-18 281 → 2026-11-18 281（+0）
+2026-10-18 281 → 2026-11-19 280（-1）
 
 
 ---

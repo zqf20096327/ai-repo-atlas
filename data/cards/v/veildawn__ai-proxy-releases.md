@@ -1,6 +1,6 @@
 # veildawn/ai-proxy-releases
 
-⭐ 12 · Ruby · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/veildawn/ai-proxy-releases) · [官网](https://github.com/veildawn/ai-proxy-releases/releases/latest) · 个人维护 · 中文 README
+⭐ 13 · Ruby · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/veildawn/ai-proxy-releases) · [官网](https://github.com/veildawn/ai-proxy-releases/releases/latest) · 个人维护 · 中文 README
 
 **自托管 AI 网关：把多上游账号汇成团队共享端点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "veildawn/ai-proxy-releases 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-11-02 11 → 2026-11-18 12（+1）
+2026-11-02 11 → 2026-11-19 13（+2）
 
 
 ---

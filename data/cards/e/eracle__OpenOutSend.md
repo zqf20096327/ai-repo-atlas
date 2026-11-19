@@ -1,6 +1,6 @@
 # eracle/OpenOutSend
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/eracle/OpenOutSend) · [官网](https://openoutreach.app) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/eracle/OpenOutSend) · [官网](https://openoutreach.app) · 个人维护
 
 **面向 B2B 冷邮件外联的发送端 CLI：接收线索并按节奏发送**
 
@@ -46,12 +46,12 @@ OpenOutreach 双件中的发送半部：通过管道读取 OpenOutFind 产出的
 ```mermaid
 xychart-beta
     title "eracle/OpenOutSend 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 17, 18, 19, 19]
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 17, 18, 19, 20]
 ```
 
-2026-10-23 15 → 2026-11-18 19（+4）
+2026-10-23 15 → 2026-11-19 20（+5）
 
 
 ---

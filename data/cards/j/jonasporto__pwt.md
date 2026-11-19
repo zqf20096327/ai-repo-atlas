@@ -1,6 +1,6 @@
 # jonasporto/pwt
 
-⭐ 13 · Shell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jonasporto/pwt) · [官网](https://jonasporto.github.io/pwt/) · 个人维护
+⭐ 16 · Shell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jonasporto/pwt) · [官网](https://jonasporto.github.io/pwt/) · 个人维护
 
 **面向多项目与 AI agent 的 Git worktree 工作流 CLI：端口分配与生命周期管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jonasporto/pwt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-18"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 13, 13]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-19"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 13, 16]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 16（+3）
 
 
 ---

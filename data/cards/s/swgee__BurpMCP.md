@@ -1,6 +1,6 @@
 # swgee/BurpMCP
 
-⭐ 57 · Java · MIT · 推送 2026-01-21 · [GitHub](https://github.com/swgee/BurpMCP) · 个人维护
+⭐ 58 · Java · MIT · 推送 2026-01-21 · [GitHub](https://github.com/swgee/BurpMCP) · 个人维护
 
 **Burp Suite 的 MCP Server 扩展：让 LLM 代替人工做 Web 安全测试**
 
@@ -45,12 +45,12 @@ Burp Suite 扩展，内置 MCP Server 对接 Burp 扩展 API，使 Claude Deskto
 ```mermaid
 xychart-beta
     title "swgee/BurpMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
-    y-axis "stars" 54 --> 58
-    line [55, 57, 57]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    y-axis "stars" 54 --> 59
+    line [55, 57, 58]
 ```
 
-2026-10-18 55 → 2026-11-18 57（+2）
+2026-10-18 55 → 2026-11-19 58（+3）
 
 
 ---

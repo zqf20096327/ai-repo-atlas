@@ -44,13 +44,13 @@ Julia 生态的通用核函数包，提供创建与操作核函数的框架及�
 
 ```mermaid
 xychart-beta
-    title "JuliaGaussianProcesses/KernelFunctions.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "JuliaGaussianProcesses/KernelFunctions.jl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 275 --> 278
-    line [276, 277]
+    line [276, 277, 277]
 ```
 
-2026-10-18 276 → 2026-11-18 277（+1）
+2026-10-18 276 → 2026-11-19 277（+1）
 
 
 ---

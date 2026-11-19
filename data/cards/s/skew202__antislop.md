@@ -1,6 +1,6 @@
 # skew202/antislop
 
-⭐ 17 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/skew202/antislop) · 个人维护
+⭐ 17 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/skew202/antislop) · 个人维护
 
 **检测 AI 生成代码遗留问题的多语言 linter，供开发者使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skew202/antislop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-18 17（+1）
+2026-10-18 16 → 2026-11-19 17（+1）
 
 
 ---

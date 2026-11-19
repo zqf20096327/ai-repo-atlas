@@ -1,6 +1,6 @@
 # zhangxjohn/LLM-Agent-Benchmark-List
 
-⭐ 175 · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) · 个人维护
+⭐ 175 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) · 个人维护
 
 **LLM 与 Agent 评测基准的文献综述清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhangxjohn/LLM-Agent-Benchmark-List 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
     y-axis "stars" 171 --> 176
     line [172, 173, 172, 173, 174, 175, 175]
 ```
 
-2026-10-18 172 → 2026-11-18 175（+3）
+2026-10-18 172 → 2026-11-19 175（+3）
 
 
 ---

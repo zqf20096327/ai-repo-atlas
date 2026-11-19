@@ -1,6 +1,6 @@
 # Vela-Research/think-reason-learn
 
-⭐ 22 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Vela-Research/think-reason-learn) · [官网](https://thinkreasonlearn.com/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Vela-Research/think-reason-learn) · [官网](https://thinkreasonlearn.com/) · 组织维护
 
 **以 LLM 为推理函数重写经典 ML 算法的 Python 库**
 
@@ -46,12 +46,12 @@ TRL 扩展传统机器学习：将决策树、随机森林等核心算法重新�
 ```mermaid
 xychart-beta
     title "Vela-Research/think-reason-learn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-19"]
     y-axis "stars" 19 --> 23
     line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-18 22（+2）
+2026-10-18 20 → 2026-11-19 22（+2）
 
 
 ---

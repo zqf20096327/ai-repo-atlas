@@ -1,6 +1,6 @@
 # openyida/openyida
 
-⭐ 233 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/openyida/openyida) · [官网](https://demo.aliwork.com/o/openyida/helpCenter) · 组织维护 · 中文 README
+⭐ 233 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/openyida/openyida) · [官网](https://demo.aliwork.com/o/openyida/helpCenter) · 组织维护 · 中文 README
 
 **让 AI 编码代理通过 CLI 构建钉钉宜搭低代码应用的工具**
 
@@ -45,12 +45,12 @@ OpenYida 是连接 AI 编码代理与钉钉宜搭低代码平台的 CLI：提供
 ```mermaid
 xychart-beta
     title "openyida/openyida 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-19"]
     y-axis "stars" 223 --> 234
     line [224, 227, 228, 229, 230, 228, 231, 232, 233, 233]
 ```
 
-2026-10-18 224 → 2026-11-18 233（+9）
+2026-10-18 224 → 2026-11-19 233（+9）
 
 
 ---

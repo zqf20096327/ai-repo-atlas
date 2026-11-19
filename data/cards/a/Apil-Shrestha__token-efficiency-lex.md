@@ -1,6 +1,6 @@
 # Apil-Shrestha/token-efficiency-lex
 
-⭐ 116 · HTML · 推送 2026-11-17 · [GitHub](https://github.com/Apil-Shrestha/token-efficiency-lex) · 个人维护
+⭐ 116 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/Apil-Shrestha/token-efficiency-lex) · 个人维护
 
 **量化 14 种语言表达同一语义所需 token 差异的基准与计算工具**
 
@@ -46,12 +46,12 @@ EchoLingua 是一个开源的多语言 token 效率基准框架：基于 10,000+
 ```mermaid
 xychart-beta
     title "Apil-Shrestha/token-efficiency-lex 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 114 --> 117
     line [116, 115, 116, 115, 116, 116]
 ```
 
-2026-10-18 116 → 2026-11-18 116（+0）
+2026-10-18 116 → 2026-11-19 116（+0）
 
 
 ---

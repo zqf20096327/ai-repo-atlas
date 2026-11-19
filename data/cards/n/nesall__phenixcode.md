@@ -1,6 +1,6 @@
 # nesall/phenixcode
 
-⭐ 21 · C++ · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nesall/phenixcode) · 个人维护
+⭐ 21 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/nesall/phenixcode) · 个人维护
 
 **自托管的代码库 RAG 问答助手，隐私优先，本地或云端模型可选**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nesall/phenixcode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-18 21（+0）
+2026-10-18 21 → 2026-11-19 21（+0）
 
 
 ---

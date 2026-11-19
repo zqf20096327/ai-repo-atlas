@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thekaifansari01/Jarvis-OS-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    title "thekaifansari01/Jarvis-OS-Agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18", "2026-11-19"]
     y-axis "stars" 9 --> 14
-    line [10, 11, 13]
+    line [10, 11, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-18 13（+3）
+2026-10-18 10 → 2026-11-19 13（+3）
 
 
 ---

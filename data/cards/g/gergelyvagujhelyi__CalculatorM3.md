@@ -1,6 +1,6 @@
 # gergelyvagujhelyi/CalculatorM3
 
-⭐ 42 · Kotlin · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/gergelyvagujhelyi/CalculatorM3) · 个人维护
+⭐ 44 · Kotlin · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/gergelyvagujhelyi/CalculatorM3) · 个人维护
 
 **带离线 AI 手写数学求解器的 Android 计算器应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gergelyvagujhelyi/CalculatorM3 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 33 --> 43
-    line [34, 36, 34, 37, 38, 40, 39, 42, 42]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 33 --> 45
+    line [34, 36, 34, 37, 38, 40, 39, 42, 44]
 ```
 
-2026-10-18 34 → 2026-11-18 42（+8）
+2026-10-18 34 → 2026-11-19 44（+10）
 
 
 ---

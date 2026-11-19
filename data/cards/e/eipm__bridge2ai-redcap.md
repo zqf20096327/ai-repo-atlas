@@ -1,6 +1,6 @@
 # eipm/bridge2ai-redcap
 
-⭐ 18 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/eipm/bridge2ai-redcap) · [官网](https://b2ai-voice.org/) · 组织维护
+⭐ 19 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/eipm/bridge2ai-redcap) · [官网](https://b2ai-voice.org/) · 组织维护
 
 **Bridge2AI-Voice 语音健康研究协议与 REDCap 数据采集资源库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eipm/bridge2ai-redcap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 19（+1）
 
 
 ---

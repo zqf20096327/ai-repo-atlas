@@ -1,6 +1,6 @@
 # jihe520/mindpocket
 
-⭐ 355 · TypeScript · 推送 2026-07-28 · [GitHub](https://github.com/jihe520/mindpocket) · [官网](https://mindpocket.top) · 个人维护 · 中文 README
+⭐ 356 · TypeScript · 推送 2026-07-28 · [GitHub](https://github.com/jihe520/mindpocket) · [官网](https://mindpocket.top) · 个人维护 · 中文 README
 
 **开源多端个人收藏夹系统，集成 RAG 与 AI Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jihe520/mindpocket 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 350 --> 356
-    line [351, 352, 351, 352, 353, 352, 353, 355]
+    title "jihe520/mindpocket 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 350 --> 357
+    line [351, 352, 351, 352, 353, 352, 353, 355, 356]
 ```
 
-2026-10-18 351 → 2026-11-18 355（+4）
+2026-10-18 351 → 2026-11-19 356（+5）
 
 
 ---

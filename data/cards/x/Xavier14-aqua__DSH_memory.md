@@ -1,6 +1,6 @@
 # Xavier14-aqua/DSH_memory
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Xavier14-aqua/DSH_memory) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Xavier14-aqua/DSH_memory) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness/QQbridge 提供长期记忆的本地插件与 worker**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Xavier14-aqua/DSH_memory 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-18"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-11-13", "2026-11-19"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-11-13 18 → 2026-11-18 18（+0）
+2026-11-13 18 → 2026-11-19 19（+1）
 
 
 ---

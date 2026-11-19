@@ -1,6 +1,6 @@
 # trymoe/pricing
 
-⭐ 24 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/trymoe/pricing) · [官网](https://try.moe/) · 组织维护 · 中文 README
+⭐ 26 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/trymoe/pricing) · [官网](https://try.moe/) · 组织维护 · 中文 README
 
 **零依赖的 AI API token 成本估算 TypeScript 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "trymoe/pricing 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 10 --> 25
-    line [11, 13, 19, 24]
+    title "trymoe/pricing 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 27
+    line [11, 13, 19, 24, 26]
 ```
 
-2026-11-14 11 → 2026-11-18 24（+13）
+2026-11-14 11 → 2026-11-19 26（+15）
 
 
 ---

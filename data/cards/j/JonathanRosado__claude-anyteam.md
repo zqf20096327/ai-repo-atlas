@@ -1,6 +1,6 @@
 # JonathanRosado/claude-anyteam
 
-⭐ 21 · Python · 推送 2026-05-12 · [GitHub](https://github.com/JonathanRosado/claude-anyteam) · [官网](https://github.com/JonathanRosado/claude-anyteam) · 个人维护
+⭐ 22 · Python · 推送 2026-05-12 · [GitHub](https://github.com/JonathanRosado/claude-anyteam) · [官网](https://github.com/JonathanRosado/claude-anyteam) · 个人维护
 
 **让外部 agent CLI 以原生队友身份加入 Claude Code 团队**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JonathanRosado/claude-anyteam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-18 21（+0）
+2026-10-18 21 → 2026-11-19 22（+1）
 
 
 ---

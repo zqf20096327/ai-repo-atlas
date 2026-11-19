@@ -1,6 +1,6 @@
 # piyook/llm-mock
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/piyook/llm-mock) · [官网](https://www.npmjs.com/package/llmock) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/piyook/llm-mock) · [官网](https://www.npmjs.com/package/llmock) · 个人维护
 
 **本地模拟 LLM API 的测试服务器，OpenAI/Claude 格式兼容**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "piyook/llm-mock 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 20 --> 25
-    line [21, 22, 23, 22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 23, 22, 23, 24, 26]
 ```
 
-2026-10-18 21 → 2026-11-18 24（+3）
+2026-10-18 21 → 2026-11-19 26（+5）
 
 
 ---

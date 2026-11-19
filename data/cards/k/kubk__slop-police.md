@@ -1,6 +1,6 @@
 # kubk/slop-police
 
-⭐ 15 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/kubk/slop-police) · [官网](https://www.npmjs.com/package/slop-police) · 个人维护
+⭐ 16 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/kubk/slop-police) · [官网](https://www.npmjs.com/package/slop-police) · 个人维护
 
 **检测 LLM 生成代码坏味道的 TypeScript 静态分析工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kubk/slop-police 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-11-12", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-11-12 14 → 2026-11-18 15（+1）
+2026-11-12 14 → 2026-11-19 16（+2）
 
 
 ---

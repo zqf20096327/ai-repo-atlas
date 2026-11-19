@@ -1,6 +1,6 @@
 # citizenhicks/mobius
 
-⭐ 614 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/citizenhicks/mobius) · [官网](https://mobius.thinkingsand.dev) · 个人维护
+⭐ 624 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/citizenhicks/mobius) · [官网](https://mobius.thinkingsand.dev) · 个人维护
 
 **给开发者的 Rust 编码 agent 运行时框架**
 
@@ -44,13 +44,13 @@ möbius 是一个开源的编码 agent 运行时，包含四部分：Rust agent 
 
 ```mermaid
 xychart-beta
-    title "citizenhicks/mobius 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 460 --> 628
-    line [474, 508, 523, 534, 546, 563, 594, 614]
+    title "citizenhicks/mobius 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 459 --> 639
+    line [474, 508, 523, 534, 546, 563, 594, 614, 624]
 ```
 
-2026-11-10 474 → 2026-11-18 614（+140）
+2026-11-10 474 → 2026-11-19 624（+150）
 
 
 ---

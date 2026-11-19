@@ -1,6 +1,6 @@
 # matlab/matlab-ai-agent-sdk
 
-⭐ 60 · MATLAB · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/matlab/matlab-ai-agent-sdk) · [官网](https://www.mathworks.com/matlabcentral/discussions/ai/) · 组织维护
+⭐ 61 · MATLAB · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/matlab/matlab-ai-agent-sdk) · [官网](https://www.mathworks.com/matlabcentral/discussions/ai/) · 组织维护
 
 **MATLAB 中构建与运行 AI agent 的 SDK**
 
@@ -47,12 +47,12 @@ MathWorks 官方的 MATLAB 附加工具，用于在 MATLAB 环境中构建和运
 ```mermaid
 xychart-beta
     title "matlab/matlab-ai-agent-sdk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-19"]
     y-axis "stars" 56 --> 62
-    line [57, 60, 61, 60, 60]
+    line [57, 60, 61, 60, 61]
 ```
 
-2026-10-18 57 → 2026-11-18 60（+3）
+2026-10-18 57 → 2026-11-19 61（+4）
 
 
 ---

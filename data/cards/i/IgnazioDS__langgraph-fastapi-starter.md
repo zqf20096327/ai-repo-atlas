@@ -1,6 +1,6 @@
 # IgnazioDS/langgraph-fastapi-starter
 
-⭐ 16 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/IgnazioDS/langgraph-fastapi-starter) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/IgnazioDS/langgraph-fastapi-starter) · 个人维护
 
 **给 AI 工程师的 LangGraph+FastAPI 有状态 agent 后端脚手架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IgnazioDS/langgraph-fastapi-starter 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 15, 16, 17]
 ```
 
-2026-10-18 14 → 2026-11-18 16（+2）
+2026-10-18 14 → 2026-11-19 17（+3）
 
 
 ---

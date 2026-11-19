@@ -1,6 +1,6 @@
 # XucroYuri/how-to-make-script
 
-⭐ 22 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/XucroYuri/how-to-make-script) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/XucroYuri/how-to-make-script) · 个人维护 · 中文 README
 
 **面向写作者与 AI agent 的剧本创作知识基础设施**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "XucroYuri/how-to-make-script 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21]
 ```
 
-2026-10-18 21 → 2026-11-18 22（+1）
+2026-10-18 21 → 2026-11-19 21（+0）
 
 
 ---

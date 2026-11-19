@@ -1,6 +1,6 @@
 # theopenconversationkit/tock
 
-⭐ 613 · Kotlin · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/theopenconversationkit/tock) · [官网](https://doc.tock.ai) · 组织维护
+⭐ 613 · Kotlin · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/theopenconversationkit/tock) · [官网](https://doc.tock.ai) · 组织维护
 
 **开源对话式 AI 平台：构建带 RAG 与 NLP 的聊天机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "theopenconversationkit/tock 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19"]
     y-axis "stars" 610 --> 614
     line [611, 612, 611, 612, 611, 612, 613, 613]
 ```
 
-2026-10-18 611 → 2026-11-18 613（+2）
+2026-10-18 611 → 2026-11-19 613（+2）
 
 
 ---

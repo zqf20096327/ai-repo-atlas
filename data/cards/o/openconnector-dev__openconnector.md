@@ -1,6 +1,6 @@
 # openconnector-dev/openconnector
 
-⭐ 29 · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/openconnector-dev/openconnector) · [官网](https://openconnector.dev) · 组织维护
+⭐ 30 · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/openconnector-dev/openconnector) · [官网](https://openconnector.dev) · 组织维护
 
 **面向 AI agent 的自托管连接器平台（源码待发布）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "openconnector-dev/openconnector 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 18 --> 30
-    line [19, 20, 21, 24, 20, 25, 26, 27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 18 --> 31
+    line [19, 20, 21, 24, 20, 25, 26, 27, 28, 29, 30]
 ```
 
-2026-10-18 19 → 2026-11-18 29（+10）
+2026-10-18 19 → 2026-11-19 30（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # ceilf6/FrontAgent
 
-⭐ 125 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ceilf6/FrontAgent) · [官网](https://marketplace.visualstudio.com/items?itemName=ceilf6.frontagent) · 个人维护 · 中文 README
+⭐ 125 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ceilf6/FrontAgent) · [官网](https://marketplace.visualstudio.com/items?itemName=ceilf6.frontagent) · 个人维护 · 中文 README
 
 **面向前端工程的 AI 编码 Agent 平台，SDD 约束下生成并验证 Web 代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ceilf6/FrontAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
     y-axis "stars" 119 --> 127
     line [120, 124, 126, 125, 125]
 ```
 
-2026-10-18 120 → 2026-11-18 125（+5）
+2026-10-18 120 → 2026-11-19 125（+5）
 
 
 ---

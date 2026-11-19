@@ -1,6 +1,6 @@
 # thedhruvhegde/cudackpt
 
-⭐ 16 · Go · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/thedhruvhegde/cudackpt) · [官网](https://github.com/DDVHegde100/cudackpt#readme) · 个人维护
+⭐ 15 · Go · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/thedhruvhegde/cudackpt) · [官网](https://github.com/DDVHegde100/cudackpt#readme) · 个人维护
 
 **Linux 上单 GPU CUDA 进程的检查点与恢复工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thedhruvhegde/cudackpt 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-12", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-12", "2026-11-13", "2026-11-19"]
     y-axis "stars" 12 --> 17
-    line [13, 14, 13, 15, 16, 16]
+    line [13, 14, 13, 15, 16, 15]
 ```
 
-2026-10-18 13 → 2026-11-18 16（+3）
+2026-10-18 13 → 2026-11-19 15（+2）
 
 
 ---

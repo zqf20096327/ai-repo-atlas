@@ -1,6 +1,6 @@
 # Tushargupta9800/hinterview
 
-⭐ 15 · TypeScript · 推送 2026-04-06 · [GitHub](https://github.com/Tushargupta9800/hinterview) · 个人维护
+⭐ 14 · TypeScript · 推送 2026-04-06 · [GitHub](https://github.com/Tushargupta9800/hinterview) · 个人维护
 
 **练习 HLD/LLD 系统设计面试的应用：AI 提示与打分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tushargupta9800/hinterview 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 10 --> 16
-    line [11, 13, 14, 15, 15]
+    line [11, 13, 14, 15, 14]
 ```
 
-2026-10-18 11 → 2026-11-18 15（+4）
+2026-10-18 11 → 2026-11-19 14（+3）
 
 
 ---

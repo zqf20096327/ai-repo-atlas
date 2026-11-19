@@ -1,6 +1,6 @@
 # branover/hexgraph
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/branover/hexgraph) · 个人维护
+⭐ 22 · Python · AGPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/branover/hexgraph) · 个人维护
 
 **自托管 AI 漏洞研究工作台：对二进制/固件做分析并记录到类型化图谱**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "branover/hexgraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-18 21（+0）
+2026-10-18 21 → 2026-11-19 22（+1）
 
 
 ---

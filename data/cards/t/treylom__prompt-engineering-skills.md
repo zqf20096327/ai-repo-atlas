@@ -1,6 +1,6 @@
 # treylom/prompt-engineering-skills
 
-⭐ 194 · JavaScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/treylom/prompt-engineering-skills) · 个人维护
+⭐ 194 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/treylom/prompt-engineering-skills) · 个人维护
 
 **跨平台（Claude Code/GPTs/Gems）通用提示工程技能合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "treylom/prompt-engineering-skills 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
     y-axis "stars" 186 --> 196
     line [187, 189, 190, 193, 190, 193, 195, 194, 194]
 ```
 
-2026-10-18 187 → 2026-11-18 194（+7）
+2026-10-18 187 → 2026-11-19 194（+7）
 
 
 ---

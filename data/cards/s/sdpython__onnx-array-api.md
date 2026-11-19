@@ -1,6 +1,6 @@
 # sdpython/onnx-array-api
 
-⭐ 11 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/sdpython/onnx-array-api) · [官网](https://sdpython.github.io/doc/onnx-array-api/dev/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用于创建自定义 ONNX 图的 Python API 集合，加速转换器库开发**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

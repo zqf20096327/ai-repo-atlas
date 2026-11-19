@@ -1,6 +1,6 @@
 # lalulali/vespyr
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lalulali/vespyr) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lalulali/vespyr) · 个人维护 · 中文 README
 
 **文件式多智能体引擎：向仓库安装 20 个协作 AI 角色**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lalulali/vespyr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

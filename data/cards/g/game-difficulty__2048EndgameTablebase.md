@@ -1,6 +1,6 @@
 # game-difficulty/2048EndgameTablebase
 
-⭐ 164 · C++ · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/game-difficulty/2048EndgameTablebase) · [官网](https://2048tables.online/) · 个人维护 · 中文 README
+⭐ 165 · C++ · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/game-difficulty/2048EndgameTablebase) · [官网](https://2048tables.online/) · 个人维护 · 中文 README
 
 **2048 残局表库 AI 引擎与表生成器，供玩家训练与自动对弈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "game-difficulty/2048EndgameTablebase 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 160 --> 165
-    line [161, 162, 163, 164, 164]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 160 --> 166
+    line [161, 162, 163, 164, 165]
 ```
 
-2026-10-18 161 → 2026-11-18 164（+3）
+2026-10-18 161 → 2026-11-19 165（+4）
 
 
 ---

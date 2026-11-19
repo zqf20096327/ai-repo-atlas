@@ -1,6 +1,6 @@
 # joeynyc/spark-doctor
 
-⭐ 166 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/joeynyc/spark-doctor) · 个人维护
+⭐ 166 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/joeynyc/spark-doctor) · 个人维护
 
 **NVIDIA DGX Spark 本地诊断 CLI：定位硬件/运行时问题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joeynyc/spark-doctor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-19"]
     y-axis "stars" 161 --> 167
     line [163, 162, 164, 166, 166]
 ```
 
-2026-10-18 163 → 2026-11-18 166（+3）
+2026-10-18 163 → 2026-11-19 166（+3）
 
 
 ---

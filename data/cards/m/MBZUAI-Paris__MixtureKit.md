@@ -1,6 +1,6 @@
 # MBZUAI-Paris/MixtureKit
 
-⭐ 39 · Python · BSD-3-Clause · 推送 2026-10-15 · [GitHub](https://github.com/MBZUAI-Paris/MixtureKit) · [官网](https://mbzuai-paris.github.io/MixtureKit/) · 组织维护
+⭐ 40 · Python · BSD-3-Clause · 推送 2026-10-15 · [GitHub](https://github.com/MBZUAI-Paris/MixtureKit) · [官网](https://mbzuai-paris.github.io/MixtureKit/) · 组织维护
 
 **把多个微调模型组合成 MoE 模型并训练路由的框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MBZUAI-Paris/MixtureKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-18 38 → 2026-11-18 39（+1）
+2026-10-18 38 → 2026-11-19 40（+2）
 
 
 ---

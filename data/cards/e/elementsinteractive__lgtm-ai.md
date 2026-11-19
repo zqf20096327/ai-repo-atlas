@@ -1,6 +1,6 @@
 # elementsinteractive/lgtm-ai
 
-⭐ 26 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/elementsinteractive/lgtm-ai) · [官网](https://www.elements.nl) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/elementsinteractive/lgtm-ai) · [官网](https://www.elements.nl) · 组织维护
 
 **用 LLM 生成代码审查与审查指南的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elementsinteractive/lgtm-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-18 26（+1）
+2026-10-18 25 → 2026-11-19 26（+1）
 
 
 ---

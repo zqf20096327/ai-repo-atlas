@@ -1,6 +1,6 @@
 # deivid11/tide-commander
 
-⭐ 75 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/deivid11/tide-commander) · [官网](https://tidecommander.com/) · 个人维护
+⭐ 75 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/deivid11/tide-commander) · [官网](https://tidecommander.com/) · 个人维护
 
 **多 AI agent CLI 的可视化管理与编排工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deivid11/tide-commander 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
     y-axis "stars" 73 --> 76
     line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-11-18 75（+1）
+2026-10-18 74 → 2026-11-19 75（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # guangxiangdebizi/TradingAgents-MCPmode
 
-⭐ 342 · Python · 推送 2025-11-22 · [GitHub](https://github.com/guangxiangdebizi/TradingAgents-MCPmode) · [官网](http://47.79.147.241:8501/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向个人投资者的多智能体股票分析与决策系统**
 

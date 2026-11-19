@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Amey-Thakur/DEEPFAKE-AUDIO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "Amey-Thakur/DEEPFAKE-AUDIO 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 75 --> 78
-    line [76, 77]
+    line [76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-11-18 77（+1）
+2026-10-18 76 → 2026-11-19 77（+1）
 
 
 ---

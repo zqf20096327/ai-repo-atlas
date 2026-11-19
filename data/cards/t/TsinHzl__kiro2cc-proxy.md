@@ -1,6 +1,6 @@
 # TsinHzl/kiro2cc-proxy
 
-⭐ 355 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TsinHzl/kiro2cc-proxy) · 个人维护 · 中文 README
+⭐ 356 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/TsinHzl/kiro2cc-proxy) · 个人维护 · 中文 README
 
 **把 Kiro 账号模型代理给 Claude Code/Codex 的 Rust 代理服务**
 
@@ -40,6 +40,18 @@ Rust 编写的本地/服务器代理服务：将标准 Anthropic Claude API 及 
 > L3: **将 Anthropic Claude API 请求转换为 Kiro API 请求的 Rust 代理服务**
 > L44: kiro2cc-proxy 是一个代理服务。它把标准的 Anthropic Claude API 请求转发给 Kiro（AWS 的 AI 编程工具），让你可以用 Claude Code使用Kiro账号的模型。
 > L28: |**🧬 OpenAI 兼容 / Codex CLI**|提供 `/v1/chat/completions` 与 `/v1/responses` 端点，可直接接入 Codex CLI 及任意 OpenAI SDK 客户端|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TsinHzl/kiro2cc-proxy 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 354 --> 357
+    line [355, 356]
+```
+
+2026-11-18 355 → 2026-11-19 356（+1）
 
 
 ---

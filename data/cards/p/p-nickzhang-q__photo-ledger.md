@@ -1,6 +1,6 @@
 # p-nickzhang-q/photo-ledger
 
-⭐ 15 · Kotlin · MIT · 推送 2026-11-04 · [GitHub](https://github.com/p-nickzhang-q/photo-ledger) · 个人维护 · 中文 README
+⭐ 15 · Kotlin · MIT · 推送 2026-11-18 · [GitHub](https://github.com/p-nickzhang-q/photo-ledger) · 个人维护 · 中文 README
 
 **离线端侧识别支付截图生成账目的 Android 记账应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "p-nickzhang-q/photo-ledger 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-16", "2026-11-18"]
+    title "p-nickzhang-q/photo-ledger 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 2 --> 16
-    line [3, 6, 13, 14, 15]
+    line [3, 6, 13, 14, 15, 15]
 ```
 
-2026-10-19 3 → 2026-11-18 15（+12）
+2026-10-19 3 → 2026-11-19 15（+12）
 
 
 ---

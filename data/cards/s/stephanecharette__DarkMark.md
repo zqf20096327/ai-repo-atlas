@@ -1,6 +1,6 @@
 # stephanecharette/DarkMark
 
-⭐ 234 · C++ · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/stephanecharette/DarkMark) · [官网](https://www.ccoderun.ca/darkmark/Summary.html) · 个人维护
+⭐ 234 · C++ · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/stephanecharette/DarkMark) · [官网](https://www.ccoderun.ca/darkmark/Summary.html) · 个人维护
 
 **为 Darknet/YOLO 标注图像的 C++ 桌面工具**
 
@@ -45,12 +45,12 @@ C++ GUI 图像标注工具，面向使用 Darknet 神经网络框架的用户：
 ```mermaid
 xychart-beta
     title "stephanecharette/DarkMark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 233 --> 235
     line [234, 234]
 ```
 
-2026-10-18 234 → 2026-11-18 234（+0）
+2026-10-18 234 → 2026-11-19 234（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nemesisprime1/maplestorybot
 
-⭐ 18 · 推送 2026-08-01 · [GitHub](https://github.com/nemesisprime1/maplestorybot) · 组织维护
+⭐ 18 · 推送 2026-11-18 · [GitHub](https://github.com/nemesisprime1/maplestorybot) · 组织维护
 
 **MapleStory 游戏机器人：自动刷怪与日常，支持远程控制**
 
@@ -45,12 +45,12 @@ MapleStory 的外部式自动化机器人：通过截屏识别与键盘模拟运
 ```mermaid
 xychart-beta
     title "nemesisprime1/maplestorybot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-18 18（+1）
+2026-10-18 17 → 2026-11-19 18（+1）
 
 
 ---

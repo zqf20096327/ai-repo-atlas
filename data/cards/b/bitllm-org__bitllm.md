@@ -1,6 +1,6 @@
 # bitllm-org/bitllm
 
-⭐ 25 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bitllm-org/bitllm) · [官网](https://bitllm.org) · 组织维护 · 中文 README
+⭐ 26 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bitllm-org/bitllm) · [官网](https://bitllm.org) · 组织维护 · 中文 README
 
 **P2P 网络共享本地 LLM 推理的节点与网关二进制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bitllm-org/bitllm 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 1 --> 27
-    line [3, 20, 24, 23, 24, 25, 25]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 1 --> 28
+    line [3, 20, 24, 23, 24, 25, 26]
 ```
 
-2026-11-08 3 → 2026-11-18 25（+22）
+2026-11-08 3 → 2026-11-19 26（+23）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "UmerrAli/YouTube-Summarizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "UmerrAli/YouTube-Summarizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 14 --> 17
-    line [16, 15]
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-18 15（-1）
+2026-10-18 16 → 2026-11-19 15（-1）
 
 
 ---

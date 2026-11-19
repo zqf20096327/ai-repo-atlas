@@ -1,6 +1,6 @@
 # magicwubiao/go-magic
 
-⭐ 35 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/magicwubiao/go-magic) · [官网](https://magictech.cc/) · 个人维护 · 中文 README
+⭐ 36 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/magicwubiao/go-magic) · [官网](https://magictech.cc/) · 个人维护 · 中文 README
 
 **Go 编写的 AI Agent 框架，含 TUI 与 Web 仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "magicwubiao/go-magic 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 31 --> 36
-    line [32, 33, 34, 35, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 31 --> 37
+    line [32, 33, 34, 35, 34, 35, 36]
 ```
 
-2026-10-18 32 → 2026-11-18 35（+3）
+2026-10-18 32 → 2026-11-19 36（+4）
 
 
 ---

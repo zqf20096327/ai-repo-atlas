@@ -1,6 +1,6 @@
 # LofiSu/deepseek-super-agent
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/LofiSu/deepseek-super-agent) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **TypeScript 个人 Agent 运行时：Router/Worker 双角色与触发驱动**
 
@@ -11,7 +11,7 @@ MIT 许可的独立开源项目（非 DeepSeek 官方产品），用 TypeScript/
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

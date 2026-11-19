@@ -41,6 +41,18 @@ GitHub 官方发布的桌面应用，定位为 agent-native 的软件工作管�
 > L15: The app is built for parallel agent-driven development. Each local session runs in its own isolated git worktree, a
 > L76: © GitHub, Inc. All rights reserved.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "maksdergacev546-collab/GitHub-Copilot-app 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-11-18 62 → 2026-11-19 62（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `ef82cf6db0cd` · [字段定义](../../DATASET.md)*

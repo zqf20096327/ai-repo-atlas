@@ -1,6 +1,6 @@
 # bodo-ai/PyDough
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/bodo-ai/PyDough) · 组织维护
+⭐ 45 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/bodo-ai/PyDough) · 组织维护
 
 **Python 分析型 DSL：以逻辑文档模型表达问题并翻译为 SQL 执行**
 
@@ -44,13 +44,13 @@ PyDough 是一种嵌入 Python 的分析 DSL，基于知识图谱语义层（含
 
 ```mermaid
 xychart-beta
-    title "bodo-ai/PyDough 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
+    title "bodo-ai/PyDough 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 41 --> 46
-    line [42, 43, 42, 44, 45]
+    line [42, 43, 42, 44, 45, 45]
 ```
 
-2026-10-18 42 → 2026-11-18 45（+3）
+2026-10-18 42 → 2026-11-19 45（+3）
 
 
 ---

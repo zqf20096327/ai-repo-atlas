@@ -1,6 +1,6 @@
 # aryaminus/controlkeel
 
-⭐ 11 · Elixir · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/aryaminus/controlkeel) · [官网](https://controlkeel.com) · 个人维护
+⭐ 11 · Elixir · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/aryaminus/controlkeel) · [官网](https://controlkeel.com) · 个人维护
 
 **给 AI 编码 agent 提供治理控制面：校验输出、执行策略门禁**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aryaminus/controlkeel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-18 11（+1）
+2026-10-18 10 → 2026-11-19 11（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Ramannoodle 是用于从第一性原理计算结果计算拉曼光谱的 Python 
 ```mermaid
 xychart-beta
     title "wolearyc/ramannoodle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DocumentAtom/DocumentAtom
 
-⭐ 54 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/DocumentAtom/DocumentAtom) · 组织维护
+⭐ 54 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/DocumentAtom/DocumentAtom) · 组织维护
 
 **将多格式文档解析为原子并分块的 C# 库/服务器，服务 RAG**
 
@@ -46,12 +46,12 @@ DocumentAtom 是一套 .NET 库与服务器：把 CSV、JSON、XML、HTML、Mark
 ```mermaid
 xychart-beta
     title "DocumentAtom/DocumentAtom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-11-18 54（+0）
+2026-10-18 54 → 2026-11-19 54（+0）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EndLess728/react-native-mediapipe-posedetection 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-10", "2026-11-19"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-11-10 30 → 2026-11-18 30（+0）
+2026-11-10 30 → 2026-11-19 30（+0）
 
 
 ---

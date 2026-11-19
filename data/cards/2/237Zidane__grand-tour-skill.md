@@ -1,6 +1,6 @@
 # 237Zidane/grand-tour-skill
 
-⭐ 153 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/237Zidane/grand-tour-skill) · 个人维护
+⭐ 153 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/237Zidane/grand-tour-skill) · 个人维护
 
 **代码库导览技能：让 agent 阅读仓库并测验你的理解**
 
@@ -39,6 +39,18 @@
 
 > L7: Grand Tour Skill is a comprehension skill that conducts an and over a repository. It reads the full project, traces 
 > L28: - **Three output modes:** `live` (default) emits a guided-tour page then runs a six-round chat scavenger hunt. `pri
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "237Zidane/grand-tour-skill 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 152 --> 154
+    line [153, 153]
+```
+
+2026-11-18 153 → 2026-11-19 153（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tawgroup/taw-computer
 
-⭐ 13 · TypeScript · MIT · 推送 2026-05-16 · [GitHub](https://github.com/tawgroup/taw-computer) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-05-16 · [GitHub](https://github.com/tawgroup/taw-computer) · 组织维护
 
 **给 AI agent 提供 Docker 内 Ubuntu 桌面沙箱的开源 MCP 服务器**
 
@@ -46,12 +46,12 @@ MCP 服务器，通过 stdio 为 AI 客户端提供 Docker 容器内的完整 Ub
 ```mermaid
 xychart-beta
     title "tawgroup/taw-computer 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-11-10", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    x-axis ["2026-10-22", "2026-10-25", "2026-11-10", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14]
 ```
 
-2026-10-22 10 → 2026-11-18 13（+3）
+2026-10-22 10 → 2026-11-19 14（+4）
 
 
 ---

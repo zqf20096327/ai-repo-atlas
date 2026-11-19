@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "teconomix/local-transcriber 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-18"]
+    title "teconomix/local-transcriber 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-18", "2026-11-19"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-10-26 10 → 2026-11-18 12（+2）
+2026-10-26 10 → 2026-11-19 12（+2）
 
 
 ---

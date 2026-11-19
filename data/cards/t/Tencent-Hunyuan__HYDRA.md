@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HYDRA
 
-⭐ 72 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Tencent-Hunyuan/HYDRA) · [官网](https://bollossom.github.io/HYDRA/) · 组织维护 · 中文 README
+⭐ 81 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Tencent-Hunyuan/HYDRA) · [官网](https://bollossom.github.io/HYDRA/) · 组织维护 · 中文 README
 
 **统一多模态理解与文生图生成的模型及 tokenizer（NeurIPS 2026）**
 
@@ -45,13 +45,13 @@ HYDRA 提出一个纯 ViT、无量化的 tokenizer（HYDRA-TOK），通过 Gen-V
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HYDRA 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 8 --> 77
-    line [13, 19, 32, 39, 42, 49, 57, 68, 72]
+    title "Tencent-Hunyuan/HYDRA 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 7 --> 87
+    line [13, 19, 32, 39, 42, 49, 57, 68, 72, 81]
 ```
 
-2026-11-08 13 → 2026-11-18 72（+59）
+2026-11-08 13 → 2026-11-19 81（+68）
 
 
 ---

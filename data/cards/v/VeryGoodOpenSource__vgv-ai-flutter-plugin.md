@@ -1,6 +1,6 @@
 # VeryGoodOpenSource/vgv-ai-flutter-plugin
 
-⭐ 180 · Shell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin) · 组织维护
+⭐ 180 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin) · 组织维护
 
 **给 Flutter/Dart 开发者的 Claude Code 最佳实践技能插件**
 
@@ -46,12 +46,12 @@ Very Good Ventures 开发的 Claude Code 插件：以技能（skills）、子代
 ```mermaid
 xychart-beta
     title "VeryGoodOpenSource/vgv-ai-flutter-plugin 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
     y-axis "stars" 171 --> 181
     line [172, 173, 174, 175, 173, 176, 177, 180, 180]
 ```
 
-2026-10-18 172 → 2026-11-18 180（+8）
+2026-10-18 172 → 2026-11-19 180（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # sherazbuilds/agentic-os
 
-⭐ 33 · GPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/sherazbuilds/agentic-os) · [官网](https://agentiqueos.com) · 个人维护
+⭐ 34 · GPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/sherazbuilds/agentic-os) · [官网](https://agentiqueos.com) · 个人维护
 
 **面向 AI agent 的专用操作系统项目（未发布，候补名单阶段）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sherazbuilds/agentic-os 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 14 --> 34
-    line [15, 17, 18, 21, 24, 27, 31, 32, 33]
+    title "sherazbuilds/agentic-os 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 14 --> 35
+    line [15, 17, 18, 21, 24, 27, 31, 32, 33, 34]
 ```
 
-2026-11-08 15 → 2026-11-18 33（+18）
+2026-11-08 15 → 2026-11-19 34（+19）
 
 
 ---

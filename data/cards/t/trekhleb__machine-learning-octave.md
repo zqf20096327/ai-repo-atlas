@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "trekhleb/machine-learning-octave 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
+    title "trekhleb/machine-learning-octave 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 899 --> 904
-    line [900, 901, 903]
+    line [900, 901, 903, 903]
 ```
 
-2026-10-18 900 → 2026-11-18 903（+3）
+2026-10-18 900 → 2026-11-19 903（+3）
 
 
 ---

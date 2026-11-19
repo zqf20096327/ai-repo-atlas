@@ -1,6 +1,6 @@
 # gcostantino/kito
 
-⭐ 34 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/gcostantino/kito) · [官网](https://kito.readthedocs.io/en/latest/) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/gcostantino/kito) · [官网](https://kito.readthedocs.io/en/latest/) · 个人维护
 
 **面向科研实验的 PyTorch 训练库：写模型和配置即可自动跑训练**
 
@@ -44,13 +44,13 @@ Kito 是简化深度学习（科研）实验流程的 PyTorch 训练库。用户
 
 ```mermaid
 xychart-beta
-    title "gcostantino/kito 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 20 --> 35
-    line [21, 31, 33, 34]
+    title "gcostantino/kito 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 20 --> 36
+    line [21, 31, 33, 34, 35]
 ```
 
-2026-11-14 21 → 2026-11-18 34（+13）
+2026-11-14 21 → 2026-11-19 35（+14）
 
 
 ---

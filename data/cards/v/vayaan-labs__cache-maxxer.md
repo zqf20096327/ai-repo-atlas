@@ -1,6 +1,6 @@
 # vayaan-labs/cache-maxxer
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/vayaan-labs/cache-maxxer) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/vayaan-labs/cache-maxxer) · 组织维护
 
 **为 Claude Code 用户保持提示缓存温热的插件，降低重读会话成本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vayaan-labs/cache-maxxer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 7 --> 12
-    line [8, 10, 11, 11]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 7 --> 13
+    line [8, 10, 11, 12]
 ```
 
-2026-10-18 8 → 2026-11-18 11（+3）
+2026-10-18 8 → 2026-11-19 12（+4）
 
 
 ---

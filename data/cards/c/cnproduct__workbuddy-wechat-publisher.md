@@ -1,6 +1,6 @@
 # cnproduct/workbuddy-wechat-publisher
 
-⭐ 82 · TypeScript · 推送 2026-03-29 · [GitHub](https://github.com/cnproduct/workbuddy-wechat-publisher) · 组织维护 · 中文 README
+⭐ 83 · TypeScript · 推送 2026-03-29 · [GitHub](https://github.com/cnproduct/workbuddy-wechat-publisher) · 组织维护 · 中文 README
 
 **微信公众号内容生产技能包：写作→配图→排版→发布草稿箱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cnproduct/workbuddy-wechat-publisher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 81 --> 84
+    line [82, 83]
 ```
 
-2026-10-18 82 → 2026-11-18 82（+0）
+2026-10-18 82 → 2026-11-19 83（+1）
 
 
 ---

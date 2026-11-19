@@ -1,6 +1,6 @@
 # sheldonrrr/ask_grok
 
-⭐ 24 · Python · GPL-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/sheldonrrr/ask_grok) · [官网](https://ask-ai-blog.pages.dev/) · 个人维护 · 中文 README
+⭐ 24 · Python · GPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/sheldonrrr/ask_grok) · [官网](https://ask-ai-blog.pages.dev/) · 个人维护 · 中文 README
 
 **calibre 书库 AI 问答插件：对选中书直接提问**
 
@@ -47,12 +47,12 @@ calibre 电子书管理器的插件，选中一本书或多本书后直接向 AI
 ```mermaid
 xychart-beta
     title "sheldonrrr/ask_grok 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-18 24（+0）
+2026-10-18 24 → 2026-11-19 24（+0）
 
 
 ---

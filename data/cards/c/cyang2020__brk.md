@@ -1,6 +1,6 @@
 # cyang2020/brk
 
-⭐ 21 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/cyang2020/brk) · [官网](https://cyang2020.github.io/brk/) · 个人维护
+⭐ 24 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cyang2020/brk) · [官网](https://cyang2020.github.io/brk/) · 个人维护
 
 **用 Swift 重建的 macOS 原生 Arc 浏览器，带本地 AI 功能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cyang2020/brk 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 9 --> 22
-    line [10, 13, 15, 20, 21, 21]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 9 --> 25
+    line [10, 13, 15, 20, 21, 24]
 ```
 
-2026-11-11 10 → 2026-11-18 21（+11）
+2026-11-11 10 → 2026-11-19 24（+14）
 
 
 ---

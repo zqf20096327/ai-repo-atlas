@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sniklaus/softmax-splatting 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    title "sniklaus/softmax-splatting 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 512 --> 515
-    line [514, 513]
+    line [514, 513, 513]
 ```
 
-2026-11-16 514 → 2026-11-18 513（-1）
+2026-11-16 514 → 2026-11-19 513（-1）
 
 
 ---

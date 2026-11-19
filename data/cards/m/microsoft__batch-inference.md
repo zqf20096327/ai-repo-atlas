@@ -1,6 +1,6 @@
 # microsoft/batch-inference
 
-⭐ 106 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/batch-inference) · [官网](https://microsoft.github.io/batch-inference/) · 组织维护
+⭐ 107 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/batch-inference) · [官网](https://microsoft.github.io/batch-inference/) · 组织维护
 
 **深度学习推理的动态批处理库，提升服务吞吐量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/batch-inference 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 105 --> 108
+    line [106, 107]
 ```
 
-2026-10-18 106 → 2026-11-18 106（+0）
+2026-10-18 106 → 2026-11-19 107（+1）
 
 
 ---

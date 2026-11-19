@@ -1,6 +1,6 @@
 # NVIDIA/local-ai-inference-recipes
 
-⭐ 30 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/NVIDIA/local-ai-inference-recipes) · [官网](https://nvidia.github.io/local-ai-inference-recipes/) · 组织维护
+⭐ 30 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/local-ai-inference-recipes) · [官网](https://nvidia.github.io/local-ai-inference-recipes/) · 组织维护
 
 **NVIDIA 本地硬件上运行模型的推荐配方清单**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的本地 AI 推理配方（recipes）集合：每条配方给出�
 ```mermaid
 xychart-beta
     title "NVIDIA/local-ai-inference-recipes 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19"]
     y-axis "stars" 12 --> 31
     line [13, 15, 16, 17, 19, 20, 21, 16, 23, 25, 26, 27, 30, 30]
 ```
 
-2026-10-18 13 → 2026-11-18 30（+17）
+2026-10-18 13 → 2026-11-19 30（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # LawDigital/redink
 
-⭐ 104 · Visual Basic .NET · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/LawDigital/redink) · [官网](https://vischer.com/redink) · 组织维护
+⭐ 104 · Visual Basic .NET · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/LawDigital/redink) · [官网](https://vischer.com/redink) · 组织维护
 
 **Windows Office 加载项：在 Word/Excel/Outlook 内接入自选 LLM API**
 
@@ -47,12 +47,12 @@ Red Ink 是运行于 Windows 版 Microsoft Office 的加载项（Word/Excel/Outl
 ```mermaid
 xychart-beta
     title "LawDigital/redink 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 101 --> 105
     line [102, 104, 104]
 ```
 
-2026-10-18 102 → 2026-11-18 104（+2）
+2026-10-18 102 → 2026-11-19 104（+2）
 
 
 ---

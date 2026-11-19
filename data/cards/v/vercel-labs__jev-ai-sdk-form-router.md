@@ -1,6 +1,6 @@
 # vercel-labs/jev-ai-sdk-form-router
 
-⭐ 18 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/vercel-labs/jev-ai-sdk-form-router) · [官网](https://vercel.com/kb/guide/jev-ai-sdk-form-router) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/vercel-labs/jev-ai-sdk-form-router) · [官网](https://vercel.com/kb/guide/jev-ai-sdk-form-router) · 组织维护
 
 **用 Jev+AI SDK 按内容将表单提交路由给对应团队的应用模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/jev-ai-sdk-form-router 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 11 --> 19
-    line [12, 13, 14, 13, 17, 18]
+    title "vercel-labs/jev-ai-sdk-form-router 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 11 --> 20
+    line [12, 13, 14, 13, 17, 18, 19]
 ```
 
-2026-10-18 12 → 2026-11-18 18（+6）
+2026-10-18 12 → 2026-11-19 19（+7）
 
 
 ---

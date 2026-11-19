@@ -1,6 +1,6 @@
 # dongjb741280/ai-call-center
 
-⭐ 113 · Java · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/dongjb741280/ai-call-center) · [官网](https://dongjb741280.github.io/ai-call-center/) · 个人维护 · 中文 README
+⭐ 113 · Java · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/dongjb741280/ai-call-center) · [官网](https://dongjb741280.github.io/ai-call-center/) · 个人维护 · 中文 README
 
 **企业开源呼叫中心系统：人工呼入呼出与智能路由**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dongjb741280/ai-call-center 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    title "dongjb741280/ai-call-center 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
     y-axis "stars" 0 --> 123
-    line [10, 23, 26, 93, 100, 101, 100, 113]
+    line [10, 23, 26, 93, 100, 101, 100, 113, 113]
 ```
 
-2026-11-08 10 → 2026-11-18 113（+103）
+2026-11-08 10 → 2026-11-19 113（+103）
 
 
 ---

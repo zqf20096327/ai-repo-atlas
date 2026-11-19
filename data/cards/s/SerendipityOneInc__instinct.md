@@ -1,6 +1,6 @@
 # SerendipityOneInc/instinct
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/SerendipityOneInc/instinct) · [官网](https://instinct.zoowork.ai) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/SerendipityOneInc/instinct) · [官网](https://instinct.zoowork.ai) · 组织维护
 
 **开放决策模型家族：单次前向输出候选概率，不生成文本**
 
@@ -46,12 +46,12 @@ ZooWork 团队（Serendipity One Inc.）发布的开放决策模型家族，包�
 ```mermaid
 xychart-beta
     title "SerendipityOneInc/instinct 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 16, 17, 18]
 ```
 
-2026-10-18 15 → 2026-11-18 17（+2）
+2026-10-18 15 → 2026-11-19 18（+3）
 
 
 ---

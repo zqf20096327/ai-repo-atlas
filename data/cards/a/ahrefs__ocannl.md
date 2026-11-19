@@ -1,6 +1,6 @@
 # ahrefs/ocannl
 
-⭐ 117 · OCaml · BSD-2-Clause · 推送 2026-11-16 · [GitHub](https://github.com/ahrefs/ocannl) · [官网](https://ahrefs.github.io/ocannl/docs/) · 组织维护
+⭐ 117 · OCaml · BSD-2-Clause · 推送 2026-11-18 · [GitHub](https://github.com/ahrefs/ocannl) · [官网](https://ahrefs.github.io/ocannl/docs/) · 组织维护
 
 **从零实现的 OCaml 编译型深度学习框架**
 
@@ -45,12 +45,12 @@ OCANNL 是以 OCaml 编写、从零实现的编译型深度学习框架，实现
 ```mermaid
 xychart-beta
     title "ahrefs/ocannl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
     y-axis "stars" 116 --> 119
     line [118, 117, 117]
 ```
 
-2026-10-18 118 → 2026-11-18 117（-1）
+2026-10-18 118 → 2026-11-19 117（-1）
 
 
 ---

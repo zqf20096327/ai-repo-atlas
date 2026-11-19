@@ -1,6 +1,6 @@
 # MusaIslamFahad/python-for-ai-engineers
 
-⭐ 31 · Jupyter Notebook · MIT · 推送 2026-06-06 · [GitHub](https://github.com/MusaIslamFahad/python-for-ai-engineers) · 个人维护
+⭐ 32 · Jupyter Notebook · MIT · 推送 2026-06-06 · [GitHub](https://github.com/MusaIslamFahad/python-for-ai-engineers) · 个人维护
 
 **面向 AI 工程师的 Python 实践课程：80+ 交互式 Jupyter 笔记本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MusaIslamFahad/python-for-ai-engineers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 30, 31, 32]
 ```
 
-2026-10-18 28 → 2026-11-18 31（+3）
+2026-10-18 28 → 2026-11-19 32（+4）
 
 
 ---

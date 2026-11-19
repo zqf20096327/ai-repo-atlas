@@ -1,6 +1,6 @@
 # patrasc237/EEG-DL
 
-⭐ 50 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/patrasc237/EEG-DL) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/patrasc237/EEG-DL) · 个人维护
 
 **给科研者的 EEG 信号分类深度学习库（TensorFlow，26 种网络）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "patrasc237/EEG-DL 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-11-08", "2026-11-19"]
+    y-axis "stars" 48 --> 51
+    line [50, 49]
 ```
 
-2026-11-08 50 → 2026-11-18 50（+0）
+2026-11-08 50 → 2026-11-19 49（-1）
 
 
 ---

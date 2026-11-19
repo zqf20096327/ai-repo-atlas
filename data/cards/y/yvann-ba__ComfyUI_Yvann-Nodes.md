@@ -1,6 +1,6 @@
 # yvann-ba/ComfyUI_Yvann-Nodes
 
-⭐ 715 · Python · GPL-3.0 · 推送 2026-02-21 · [GitHub](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) · [官网](https://youtube.com/@yvann_ba) · 个人维护
+⭐ 714 · Python · GPL-3.0 · 推送 2026-02-21 · [GitHub](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) · [官网](https://youtube.com/@yvann_ba) · 个人维护
 
 **ComfyUI 音频反应节点包：生成随音乐同步的 AI 动画**
 
@@ -45,12 +45,12 @@ ComfyUI 的自定义节点包，提供音频分析、音源分离、峰值检测
 ```mermaid
 xychart-beta
     title "yvann-ba/ComfyUI_Yvann-Nodes 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-16", "2026-11-19"]
     y-axis "stars" 712 --> 716
-    line [714, 713, 714, 715, 714, 715, 715]
+    line [714, 713, 714, 715, 714, 715, 714]
 ```
 
-2026-10-18 714 → 2026-11-18 715（+1）
+2026-10-18 714 → 2026-11-19 714（+0）
 
 
 ---

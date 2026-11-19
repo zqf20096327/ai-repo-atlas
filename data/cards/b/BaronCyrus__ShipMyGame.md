@@ -1,6 +1,6 @@
 # BaronCyrus/ShipMyGame
 
-⭐ 15 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BaronCyrus/ShipMyGame) · 个人维护 · 中文 README
+⭐ 17 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BaronCyrus/ShipMyGame) · 个人维护 · 中文 README
 
 **AI Agent 用的 Unity 游戏上架操作手册：一句话完成全渠道发布**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BaronCyrus/ShipMyGame 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 10 --> 16
-    line [11, 14, 15, 15]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 10 --> 18
+    line [11, 14, 15, 17]
 ```
 
-2026-11-08 11 → 2026-11-18 15（+4）
+2026-11-08 11 → 2026-11-19 17（+6）
 
 
 ---

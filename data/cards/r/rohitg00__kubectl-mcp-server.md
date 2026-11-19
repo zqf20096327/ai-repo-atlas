@@ -1,6 +1,6 @@
 # rohitg00/kubectl-mcp-server
 
-⭐ 974 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rohitg00/kubectl-mcp-server) · [官网](https://hub.docker.com/mcp/server/kubectl-mcp-server/overview) · 个人维护
+⭐ 975 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rohitg00/kubectl-mcp-server) · [官网](https://hub.docker.com/mcp/server/kubectl-mcp-server/overview) · 个人维护
 
 **用自然语言管理 Kubernetes 的 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rohitg00/kubectl-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 963 --> 975
-    line [964, 965, 966, 964, 969, 972, 974, 974]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 963 --> 976
+    line [964, 965, 966, 964, 969, 972, 974, 975]
 ```
 
-2026-10-18 964 → 2026-11-18 974（+10）
+2026-10-18 964 → 2026-11-19 975（+11）
 
 
 ---

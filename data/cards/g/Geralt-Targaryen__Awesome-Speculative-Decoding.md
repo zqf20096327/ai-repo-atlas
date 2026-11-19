@@ -1,6 +1,6 @@
 # Geralt-Targaryen/Awesome-Speculative-Decoding
 
-⭐ 50 · 推送 2026-06-02 · [GitHub](https://github.com/Geralt-Targaryen/Awesome-Speculative-Decoding) · 个人维护
+⭐ 51 · 推送 2026-06-02 · [GitHub](https://github.com/Geralt-Targaryen/Awesome-Speculative-Decoding) · 个人维护
 
 **Speculative Decoding 论文阅读清单（按会议与年份组织）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Geralt-Targaryen/Awesome-Speculative-Decoding 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51]
 ```
 
-2026-10-18 49 → 2026-11-18 50（+1）
+2026-10-18 49 → 2026-11-19 51（+2）
 
 
 ---

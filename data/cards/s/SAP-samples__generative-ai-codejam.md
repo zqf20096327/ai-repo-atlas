@@ -1,6 +1,6 @@
 # SAP-samples/generative-ai-codejam
 
-⭐ 60 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/SAP-samples/generative-ai-codejam) · 组织维护
+⭐ 60 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/SAP-samples/generative-ai-codejam) · 组织维护
 
 **SAP Generative AI Hub 上手教程：RAG 与 LLM 部署练习材料**
 
@@ -45,12 +45,12 @@ SAP 开发者布道团队维护的 CodeJam 课程仓库，内容为在 SAP AI Co
 ```mermaid
 xychart-beta
     title "SAP-samples/generative-ai-codejam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-11-18 60（+0）
+2026-10-18 60 → 2026-11-19 60（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # LudwigKienle/ai-video-production-editor
 
-⭐ 185 · TypeScript · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/LudwigKienle/ai-video-production-editor) · [官网](https://github.com/LudwigKienle/ai-video-production-editor/releases/latest) · 个人维护
+⭐ 189 · TypeScript · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/LudwigKienle/ai-video-production-editor) · [官网](https://github.com/LudwigKienle/ai-video-production-editor/releases/latest) · 个人维护
 
 **本地优先的开源 AI 视频制作桌面工作站，覆盖剧本到成片**
 
@@ -45,13 +45,13 @@ Electron + React 构建的桌面应用（GPL-3.0），把 AI 视频制作流程�
 
 ```mermaid
 xychart-beta
-    title "LudwigKienle/ai-video-production-editor 星数(近 19 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 53 --> 197
-    line [65, 68, 140, 142, 144, 148, 150, 152, 153, 157, 142, 170, 174, 177, 178, 181, 183, 184, 185]
+    title "LudwigKienle/ai-video-production-editor 星数(近 20 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 53 --> 201
+    line [65, 68, 140, 142, 144, 148, 150, 152, 153, 157, 142, 170, 174, 177, 178, 181, 183, 184, 185, 189]
 ```
 
-2026-10-18 65 → 2026-11-18 185（+120）
+2026-10-18 65 → 2026-11-19 189（+124）
 
 
 ---

@@ -1,6 +1,6 @@
 # BieleckiLtd/IosScreenCaptureTool
 
-⭐ 17 · C# · MIT · 推送 2026-03-07 · [GitHub](https://github.com/BieleckiLtd/IosScreenCaptureTool) · 组织维护
+⭐ 18 · C# · MIT · 推送 2026-03-07 · [GitHub](https://github.com/BieleckiLtd/IosScreenCaptureTool) · 组织维护
 
 **Windows 桌面工具：USB 镜像 iOS 屏幕并提供命令行截图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BieleckiLtd/IosScreenCaptureTool 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 15, 17, 17]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 15, 17, 18]
 ```
 
-2026-10-18 15 → 2026-11-18 17（+2）
+2026-10-18 15 → 2026-11-19 18（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # elbruno/ElBruno.VibeVoiceTTS
 
-⭐ 16 · C# · MIT · 推送 2026-11-14 · [GitHub](https://github.com/elbruno/ElBruno.VibeVoiceTTS) · 个人维护
+⭐ 16 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/elbruno/ElBruno.VibeVoiceTTS) · 个人维护
 
 **.NET 文本转语音库：纯 C# ONNX 推理运行 VibeVoice 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elbruno/ElBruno.VibeVoiceTTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-18 16（+0）
+2026-10-18 16 → 2026-11-19 16（+0）
 
 
 ---

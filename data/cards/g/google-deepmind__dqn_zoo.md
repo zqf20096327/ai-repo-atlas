@@ -1,6 +1,6 @@
 # google-deepmind/dqn_zoo
 
-⭐ 515 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/google-deepmind/dqn_zoo) · 组织维护
+⭐ 513 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/google-deepmind/dqn_zoo) · 组织维护
 
 **DeepMind DQN 系列强化学习 agent 的参考实现集合，供研究复现与二次开发**
 
@@ -46,12 +46,12 @@ DeepMind 维护的 DQN 变体参考实现集合，收录 DQN、Double Q、优先
 ```mermaid
 xychart-beta
     title "google-deepmind/dqn_zoo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 513 --> 517
-    line [515, 516, 515, 514, 515, 515]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 512 --> 517
+    line [515, 516, 515, 514, 515, 513]
 ```
 
-2026-10-18 515 → 2026-11-18 515（+0）
+2026-10-18 515 → 2026-11-19 513（-2）
 
 
 ---

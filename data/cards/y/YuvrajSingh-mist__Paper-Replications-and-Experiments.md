@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YuvrajSingh-mist/Paper-Replications-and-Experiments 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 428 --> 431
     line [429, 430, 430]
 ```
 
-2026-11-08 429 → 2026-11-18 430（+1）
+2026-11-08 429 → 2026-11-19 430（+1）
 
 
 ---

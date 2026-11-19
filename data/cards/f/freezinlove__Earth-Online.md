@@ -1,6 +1,6 @@
 # freezinlove/Earth-Online
 
-⭐ 22 · JavaScript · 推送 2026-05-24 · [GitHub](https://github.com/freezinlove/Earth-Online) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · 推送 2026-05-24 · [GitHub](https://github.com/freezinlove/Earth-Online) · 个人维护 · 中文 README
 
 **给旅行者：AI 自动整理照片并在 3D 地球上可视化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "freezinlove/Earth-Online 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 11 --> 23
-    line [12, 18, 21, 12, 21, 22, 22]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 11 --> 24
+    line [12, 18, 21, 12, 21, 22, 23]
 ```
 
-2026-10-25 12 → 2026-11-18 22（+10）
+2026-10-25 12 → 2026-11-19 23（+11）
 
 
 ---

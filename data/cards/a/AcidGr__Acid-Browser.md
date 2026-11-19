@@ -1,6 +1,6 @@
 # AcidGr/Acid-Browser
 
-⭐ 12 · Java · MIT · 推送 2026-11-17 · [GitHub](https://github.com/AcidGr/Acid-Browser) · 个人维护 · 中文 README
+⭐ 13 · Java · MIT · 推送 2026-11-17 · [GitHub](https://github.com/AcidGr/Acid-Browser) · 个人维护 · 中文 README
 
 **超轻量 Android AI 浏览器：内置 Agent 循环、MCP 网关与广告拦截**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AcidGr/Acid-Browser 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 5 --> 13
-    line [6, 10, 11, 12, 12]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 5 --> 14
+    line [6, 10, 11, 12, 13]
 ```
 
-2026-11-08 6 → 2026-11-18 12（+6）
+2026-11-08 6 → 2026-11-19 13（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # opensearch-project/observability-stack
 
-⭐ 44 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/opensearch-project/observability-stack) · [官网](https://observability.opensearch.org/) · 组织维护
+⭐ 45 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/opensearch-project/observability-stack) · [官网](https://observability.opensearch.org/) · 组织维护
 
 **面向微服务与 AI agent 的 OpenSearch 可观测性全家桶**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "opensearch-project/observability-stack 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 43, 44, 45]
 ```
 
-2026-10-18 43 → 2026-11-18 44（+1）
+2026-10-18 43 → 2026-11-19 45（+2）
 
 
 ---

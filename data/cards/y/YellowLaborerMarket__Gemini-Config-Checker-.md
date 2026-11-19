@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YellowLaborerMarket/Gemini-Config-Checker- 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18"]
+    title "YellowLaborerMarket/Gemini-Config-Checker- 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 473 --> 476
-    line [475, 474, 475]
+    line [475, 474, 475, 475]
 ```
 
-2026-11-15 475 → 2026-11-18 475（+0）
+2026-11-15 475 → 2026-11-19 475（+0）
 
 
 ---

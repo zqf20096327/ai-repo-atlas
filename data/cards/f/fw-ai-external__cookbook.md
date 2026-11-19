@@ -1,6 +1,6 @@
 # fw-ai-external/cookbook
 
-⭐ 244 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/fw-ai-external/cookbook) · [官网](https://fireworks.ai/docs) · 组织维护
+⭐ 244 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/fw-ai-external/cookbook) · [官网](https://fireworks.ai/docs) · 组织维护
 
 **Fireworks 平台的模型训练教程与示例代码集**
 
@@ -44,13 +44,13 @@ Fireworks AI 官方 cookbook：提供 RL（GRPO/IGPO/SAO/PPO）、偏好优化�
 
 ```mermaid
 xychart-beta
-    title "fw-ai-external/cookbook 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18"]
+    title "fw-ai-external/cookbook 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 239 --> 245
-    line [240, 241, 242, 243, 244]
+    line [240, 241, 242, 243, 244, 244]
 ```
 
-2026-11-08 240 → 2026-11-18 244（+4）
+2026-11-08 240 → 2026-11-19 244（+4）
 
 
 ---

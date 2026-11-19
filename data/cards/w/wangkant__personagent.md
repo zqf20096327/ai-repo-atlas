@@ -1,6 +1,6 @@
 # wangkant/personagent
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/wangkant/personagent) · 个人维护 · 中文 README
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/wangkant/personagent) · 个人维护 · 中文 README
 
 **会看时机发言、能从纠正中学习的群聊角色机器人**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wangkant/personagent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 17 --> 24
     line [18, 19, 20, 22, 20, 22, 23, 23]
 ```
 
-2026-10-18 18 → 2026-11-18 23（+5）
+2026-10-18 18 → 2026-11-19 23（+5）
 
 
 ---

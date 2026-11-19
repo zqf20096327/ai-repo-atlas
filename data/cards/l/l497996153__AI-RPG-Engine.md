@@ -1,6 +1,6 @@
 # l497996153/AI-RPG-Engine
 
-⭐ 19 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/l497996153/AI-RPG-Engine) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/l497996153/AI-RPG-Engine) · 个人维护 · 中文 README
 
 **LLM 驱动的模块化 RPG 引擎：跑团与视觉小说主持**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "l497996153/AI-RPG-Engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-18 19（+0）
+2026-10-18 19 → 2026-11-19 20（+1）
 
 
 ---

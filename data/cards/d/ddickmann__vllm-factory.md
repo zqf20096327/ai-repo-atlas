@@ -1,6 +1,6 @@
 # ddickmann/vllm-factory
 
-⭐ 87 · Python · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/ddickmann/vllm-factory) · 个人维护
+⭐ 88 · Python · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/ddickmann/vllm-factory) · 个人维护
 
 **以 vLLM 插件形式生产化部署编码器模型（ColBERT/GLiNER/ColPali 等）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ddickmann/vllm-factory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
-    y-axis "stars" 85 --> 88
-    line [86, 87, 87]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
+    y-axis "stars" 85 --> 89
+    line [86, 87, 88]
 ```
 
-2026-10-18 86 → 2026-11-18 87（+1）
+2026-10-18 86 → 2026-11-19 88（+2）
 
 
 ---

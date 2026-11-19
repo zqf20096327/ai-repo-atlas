@@ -1,6 +1,6 @@
 # levy-street/pokemon-claude-red
 
-⭐ 77 · JavaScript · 推送 2026-09-30 · [GitHub](https://github.com/levy-street/pokemon-claude-red) · [官网](https://claudered.dev) · 组织维护
+⭐ 78 · JavaScript · 推送 2026-09-30 · [GitHub](https://github.com/levy-street/pokemon-claude-red) · [官网](https://claudered.dev) · 组织维护
 
 **浏览器里运行的 Pokémon Red 复刻，全部由代码生成像素与音乐**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "levy-street/pokemon-claude-red 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 66 --> 78
-    line [67, 69, 70, 74, 75, 76, 77]
+    title "levy-street/pokemon-claude-red 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 66 --> 79
+    line [67, 69, 70, 74, 75, 76, 77, 78]
 ```
 
-2026-10-18 67 → 2026-11-18 77（+10）
+2026-10-18 67 → 2026-11-19 78（+11）
 
 
 ---

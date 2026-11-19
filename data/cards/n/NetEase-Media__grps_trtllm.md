@@ -1,6 +1,6 @@
 # NetEase-Media/grps_trtllm
 
-⭐ 161 · Python · Apache-2.0 · 推送 2025-12-08 · [GitHub](https://github.com/NetEase-Media/grps_trtllm) · 组织维护 · 中文 README
+⭐ 160 · Python · Apache-2.0 · 推送 2025-12-08 · [GitHub](https://github.com/NetEase-Media/grps_trtllm) · 组织维护 · 中文 README
 
 **面向开发者的纯 C++ OpenAI 协议 LLM 推理服务框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NetEase-Media/grps_trtllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 160 --> 162
-    line [161, 161]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 159 --> 162
+    line [161, 160]
 ```
 
-2026-10-18 161 → 2026-11-18 161（+0）
+2026-10-18 161 → 2026-11-19 160（-1）
 
 
 ---

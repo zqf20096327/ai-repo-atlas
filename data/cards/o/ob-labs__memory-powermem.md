@@ -1,6 +1,6 @@
 # ob-labs/memory-powermem
 
-⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/ob-labs/memory-powermem) · 组织维护 · 中文 README
+⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/ob-labs/memory-powermem) · 组织维护 · 中文 README
 
 **为 OpenClaw bot 接入 PowerMem 长期记忆的插件**
 
@@ -45,12 +45,12 @@ OpenClaw 插件，将 PowerMem 长期记忆系统接入 OpenClaw agent：提供�
 ```mermaid
 xychart-beta
     title "ob-labs/memory-powermem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-11-18 30（+0）
+2026-10-18 30 → 2026-11-19 31（+1）
 
 
 ---

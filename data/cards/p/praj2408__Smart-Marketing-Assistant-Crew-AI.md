@@ -1,6 +1,6 @@
 # praj2408/Smart-Marketing-Assistant-Crew-AI
 
-⭐ 37 · Python · 推送 2026-06-29 · [GitHub](https://github.com/praj2408/Smart-Marketing-Assistant-Crew-AI) · 个人维护
+⭐ 36 · Python · 推送 2026-06-29 · [GitHub](https://github.com/praj2408/Smart-Marketing-Assistant-Crew-AI) · 个人维护
 
 **用 CrewAI 多智能体自动化 Instagram 营销流程的项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "praj2408/Smart-Marketing-Assistant-Crew-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 35 --> 38
+    line [37, 36]
 ```
 
-2026-10-18 37 → 2026-11-18 37（+0）
+2026-10-18 37 → 2026-11-19 36（-1）
 
 
 ---

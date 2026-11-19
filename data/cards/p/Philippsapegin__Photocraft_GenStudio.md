@@ -1,6 +1,6 @@
 # Philippsapegin/Photocraft_GenStudio
 
-⭐ 19 · Python · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/Philippsapegin/Photocraft_GenStudio) · 个人维护
+⭐ 20 · Python · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/Philippsapegin/Photocraft_GenStudio) · 个人维护
 
 **为 PhotoCraft 增加 AI 生成/填充/抠图等工具的插件套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Philippsapegin/Photocraft_GenStudio 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 17, 19, 19]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 17, 19, 20]
 ```
 
-2026-11-11 15 → 2026-11-18 19（+4）
+2026-11-11 15 → 2026-11-19 20（+5）
 
 
 ---

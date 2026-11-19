@@ -1,6 +1,6 @@
 # tangchunwu/IdeaScan
 
-⭐ 42 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/tangchunwu/IdeaScan) · [官网](https://ideascan.lovable.app) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/tangchunwu/IdeaScan) · [官网](https://ideascan.lovable.app) · 个人维护 · 中文 README
 
 **AI 创业点子验证平台：抓社媒痛点与竞品数据生成验证报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tangchunwu/IdeaScan 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 41, 42, 43]
 ```
 
-2026-10-18 41 → 2026-11-18 42（+1）
+2026-10-18 41 → 2026-11-19 43（+2）
 
 
 ---

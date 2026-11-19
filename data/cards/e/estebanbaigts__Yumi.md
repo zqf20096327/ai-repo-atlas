@@ -1,6 +1,6 @@
 # estebanbaigts/Yumi
 
-⭐ 20 · Swift · MIT · 推送 2026-10-15 · [GitHub](https://github.com/estebanbaigts/Yumi) · [官网](https://estebanbaigts.github.io/Yumi/) · 个人维护
+⭐ 20 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/estebanbaigts/Yumi) · [官网](https://estebanbaigts.github.io/Yumi/) · 个人维护
 
 **驻留 Mac 刘海区的 AI 伴侣应用：先请示后行动**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "estebanbaigts/Yumi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-19"]
     y-axis "stars" 19 --> 22
     line [20, 21, 20, 20]
 ```
 
-2026-10-18 20 → 2026-11-18 20（+0）
+2026-10-18 20 → 2026-11-19 20（+0）
 
 
 ---

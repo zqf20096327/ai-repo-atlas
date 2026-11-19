@@ -1,6 +1,6 @@
 # SinapsisHub/sinapsis-hub
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/SinapsisHub/sinapsis-hub) · [官网](https://sinapsis.tech/) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/SinapsisHub/sinapsis-hub) · [官网](https://sinapsis.tech/) · 组织维护
 
 **统一契约组装 AI 系统的开源框架：模板组合模型与框架**
 
@@ -40,6 +40,18 @@ Sinapsis 是一个用统一计算契约组装 AI 系统的 Python 框架：能�
 > L14: Compose and build AI systems from reusable components. Combine models, frameworks, APIs, data, and custom code thro
 > L95: Sinapsis brings different technologies together through a common computational contract, reducing the need to repea
 > L126: Templates compose into **Agents** — computational systems that combine different technologies through a common int
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SinapsisHub/sinapsis-hub 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 41 --> 54
+    line [42, 53]
+```
+
+2026-11-18 42 → 2026-11-19 53（+11）
 
 
 ---

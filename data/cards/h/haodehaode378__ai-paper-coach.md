@@ -1,6 +1,6 @@
 # haodehaode378/ai-paper-coach
 
-⭐ 43 · Python · 推送 2026-07-29 · [GitHub](https://github.com/haodehaode378/ai-paper-coach) · 个人维护 · 中文 README
+⭐ 44 · Python · 推送 2026-07-29 · [GitHub](https://github.com/haodehaode378/ai-paper-coach) · 个人维护 · 中文 README
 
 **给学生和研究者的 AI 论文阅读与复现助手**
 
@@ -47,12 +47,12 @@ Web 应用（Vue 3 前端 + FastAPI 后端）：输入 arXiv/PDF 链接或上传
 ```mermaid
 xychart-beta
     title "haodehaode378/ai-paper-coach 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-11-18 43（+0）
+2026-10-18 43 → 2026-11-19 44（+1）
 
 
 ---

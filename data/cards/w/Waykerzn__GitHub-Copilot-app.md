@@ -1,10 +1,10 @@
 # Waykerzn/GitHub-Copilot-app
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Waykerzn/GitHub-Copilot-app) · 组织维护
+⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Waykerzn/GitHub-Copilot-app) · 组织维护
 
-**开发者用的 agent 驱动桌面端：跨仓库运行与托管 Copilot 代理**
+**面向开发者的 agent 原生桌面端 GitHub 工作管理中心**
 
-GitHub 官方的桌面应用（本仓库为其公开主页，© GitHub, Inc. 保留所有权利），定位为 agent-native 的软件工作管理端：查找待做工作、启动并引导本地与云端 Copilot 代理会话、通过 Canvas 查看与编辑代理工作、用 My Work 汇总会话/issue/PR、以 Automations 调度重复任务、用 Agent Merge 推进 PR 合并。本地会话运行于隔离的 git worktree。前置要求为 Git 与任一 Copilot 订阅，也支持自带密钥（BYOK）接入自有模型提供方。仓库本身仅用于下载发布版、报 bug 与讨论，不包含源代码构建说明。
+GitHub 官方发布的桌面应用，作为管理软件工作的单一控制中心：从发现任务、启动并引导 agent、审查进度到落地变更，覆盖从想法到 pull request 的流程。本地会话在独立 git worktree 中运行，云会话使用 GitHub 托管的隔离环境，支持并行 agent 开发；Canvas 展示 agent 工作状态，My Work 聚合会话、issue 与 PR，Automations 将提示词转为定时/后台任务，Agent Merge 协助走完 PR 审查与合并。需 Git 与任一 Copilot 计划，或以 BYOK 自带 key 接入自己的模型提供方。发行版通过下载链接与 Releases 页分发，仓库标注 © GitHub 保留所有权利，并声明收集使用数据与对话数据。
 
 ## 筛选速览
 
@@ -20,27 +20,39 @@ GitHub 官方的桌面应用（本仓库为其公开主页，© GitHub, Inc. 保
 
 ## 能力要点
 
-- 本地会话各自运行在隔离的 git worktree，云端会话运行在 GitHub 托管的隔离环境
-- Canvas 将代理的计划、终端、diff 与工作流状态呈现为可检查、可编辑的界面
-- Automations 将重复提示与工作流转为定时/后台任务；Agent Merge 推进 PR 审查与合并
-- 无 Copilot 订阅时支持 BYOK 接入自有模型提供方
+- 本地会话在独立 git worktree、云会话在 GitHub 托管隔离环境中运行
+- Canvas 将 agent 的计划、diff、工作流状态转为可检视的共享界面
+- Automations 将可复用提示词转为定时或后台任务，Agent Merge 协助 PR 合并
+- 支持 Copilot 计划或 BYOK 自带 key 接入自己的模型提供方
 
 ## 适用场景
 
-- 并行让多个 Copilot 代理分别调查 bug、实现 issue、处理审查意见
-- 在同一控制中心跨仓库管理会话、issue 与 pull request
-- 把重复性提示和工作流设为定时后台任务自动执行
+- 并行启动多个 agent 处理 bug 修复、issue 实现与评审反馈
+- 在一个界面中管理跨仓库的会话、issue 与 pull request
+- 把重复性工作流配置为定时或后台自动化任务
 
 ## 场景标签
 
-`编码 Agent` `工作流自动化` · 领域:效率与自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software wo
-> L15: The app is built for parallel agent-driven development. Each local session runs in its own isolated git worktree, a
 > L13: The GitHub Copilot app is an agent-native desktop experience for managing software work from idea to pull request. 
+> L15: The app is built for parallel agent-driven development. Each local session runs in its own isolated git worktree, a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Waykerzn/GitHub-Copilot-app 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-11-18 62 → 2026-11-19 62（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `ef82cf6db0cd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `db7fa9f8df45` · [字段定义](../../DATASET.md)*

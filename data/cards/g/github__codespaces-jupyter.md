@@ -1,6 +1,6 @@
 # github/codespaces-jupyter
 
-⭐ 925 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/github/codespaces-jupyter) · 组织维护
+⭐ 926 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/github/codespaces-jupyter) · 组织维护
 
 **GitHub Codespaces 的 Jupyter 笔记本起步模板**
 
@@ -42,13 +42,13 @@ GitHub 官方提供的 Codespaces 起步模板仓库，预配置 Python 与 Jupy
 
 ```mermaid
 xychart-beta
-    title "github/codespaces-jupyter 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 911 --> 926
-    line [912, 913, 916, 917, 918, 919, 921, 922, 923, 925]
+    title "github/codespaces-jupyter 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 911 --> 927
+    line [912, 913, 916, 917, 918, 919, 921, 922, 923, 925, 926]
 ```
 
-2026-10-18 912 → 2026-11-18 925（+13）
+2026-10-18 912 → 2026-11-19 926（+14）
 
 
 ---

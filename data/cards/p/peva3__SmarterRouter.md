@@ -1,6 +1,6 @@
 # peva3/SmarterRouter
 
-⭐ 158 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/peva3/SmarterRouter) · 个人维护
+⭐ 164 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/peva3/SmarterRouter) · 个人维护
 
 **多后端 LLM 网关与 VRAM 感知路由器，自动为每条查询选模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "peva3/SmarterRouter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 153 --> 159
-    line [154, 155, 154, 158, 158]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 153 --> 165
+    line [154, 155, 154, 158, 164]
 ```
 
-2026-10-18 154 → 2026-11-18 158（+4）
+2026-10-18 154 → 2026-11-19 164（+10）
 
 
 ---

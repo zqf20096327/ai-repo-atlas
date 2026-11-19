@@ -1,6 +1,6 @@
 # microsoft/moodle-local_copilot
 
-⭐ 13 · PHP · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/moodle-local_copilot) · 组织维护
+⭐ 13 · PHP · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/moodle-local_copilot) · 组织维护
 
 **将 Moodle 接入 Microsoft 365 Copilot 的插件与声明式 Agent 样例**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/moodle-local_copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

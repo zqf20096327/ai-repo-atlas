@@ -1,6 +1,6 @@
 # DanielHou315/overleaf-mcp-rt
 
-⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/DanielHou315/overleaf-mcp-rt) · [官网](https://www.npmjs.com/package/overleaf-mcp-rt) · 个人维护
+⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/DanielHou315/overleaf-mcp-rt) · [官网](https://www.npmjs.com/package/overleaf-mcp-rt) · 个人维护
 
 **让 AI 编码 agent 实时协同编辑 Overleaf LaTeX 项目的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DanielHou315/overleaf-mcp-rt 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-18"]
+    title "DanielHou315/overleaf-mcp-rt 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-19"]
     y-axis "stars" 9 --> 17
-    line [10, 11, 13, 14, 15, 16]
+    line [10, 11, 13, 14, 15, 16, 16]
 ```
 
-2026-10-22 10 → 2026-11-18 16（+6）
+2026-10-22 10 → 2026-11-19 16（+6）
 
 
 ---

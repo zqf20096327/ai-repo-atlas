@@ -1,6 +1,6 @@
 # yeyupiaoling/MASR
 
-⭐ 728 · Python · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/yeyupiaoling/MASR) · 个人维护 · 中文 README
+⭐ 729 · Python · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/yeyupiaoling/MASR) · 个人维护 · 中文 README
 
 **PyTorch 语音识别框架：流式/非流式 ASR 训练与部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yeyupiaoling/MASR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
-    y-axis "stars" 726 --> 729
-    line [727, 728, 728]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    y-axis "stars" 726 --> 730
+    line [727, 728, 729]
 ```
 
-2026-10-18 727 → 2026-11-18 728（+1）
+2026-10-18 727 → 2026-11-19 729（+2）
 
 
 ---

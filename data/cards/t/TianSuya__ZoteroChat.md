@@ -1,6 +1,6 @@
 # TianSuya/ZoteroChat
 
-⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/TianSuya/ZoteroChat) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/TianSuya/ZoteroChat) · 个人维护 · 中文 README
 
 **Zotero 阅读器侧边栏论文问答插件：PDF 全文常驻上下文**
 
@@ -45,12 +45,12 @@ Zotero 7-9 的阅读器侧边栏聊天插件：打开的 PDF 全文与元数据�
 ```mermaid
 xychart-beta
     title "TianSuya/ZoteroChat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18]
 ```
 
-2026-10-18 15 → 2026-11-18 17（+2）
+2026-10-18 15 → 2026-11-19 18（+3）
 
 
 ---

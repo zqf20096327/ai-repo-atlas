@@ -1,6 +1,6 @@
 # KenjiIra5580/openai-o3-deep-research-applepay-vcc
 
-⭐ 39 · 推送 2026-11-11 · [GitHub](https://github.com/KenjiIra5580/openai-o3-deep-research-applepay-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 43 · 推送 2026-11-11 · [GitHub](https://github.com/KenjiIra5580/openai-o3-deep-research-applepay-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **付费推广文：用 CoreGold 虚拟卡开通 OpenAI o3 订阅的教程**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "KenjiIra5580/openai-o3-deep-research-applepay-vcc 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 11 --> 41
-    line [13, 18, 25, 24, 35, 39]
+    title "KenjiIra5580/openai-o3-deep-research-applepay-vcc 星数(近 7 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 46
+    line [13, 18, 25, 24, 35, 39, 43]
 ```
 
-2026-11-11 13 → 2026-11-18 39（+26）
+2026-11-11 13 → 2026-11-19 43（+30）
 
 
 ---

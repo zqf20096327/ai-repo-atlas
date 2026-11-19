@@ -1,6 +1,6 @@
 # tlentali/pycht
 
-⭐ 25 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/tlentali/pycht) · [官网](https://tlentali.github.io/pycht/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/tlentali/pycht) · [官网](https://tlentali.github.io/pycht/) · 个人维护
 
 **用聚类把照片转成多色喷漆模板的 Python 库**
 
@@ -45,12 +45,12 @@ pycht 读取输入图片，用 Scikit-Learn 的 K-Means 对像素按颜色聚类
 ```mermaid
 xychart-beta
     title "tlentali/pycht 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-11-18 25（+0）
+2026-10-18 25 → 2026-11-19 26（+1）
 
 
 ---

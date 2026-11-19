@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/llama-cpp-tigerleopard 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-18"]
+    title "Scottcjn/llama-cpp-tigerleopard 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-19"]
     y-axis "stars" 67 --> 71
-    line [70, 68]
+    line [70, 68, 68]
 ```
 
-2026-10-29 70 → 2026-11-18 68（-2）
+2026-10-29 70 → 2026-11-19 68（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kihara777/NixKits
 
-⭐ 28 · Nix · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Kihara777/NixKits) · 个人维护 · 中文 README
+⭐ 29 · Nix · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Kihara777/NixKits) · 个人维护 · 中文 README
 
 **Nix 打包合集：软件、补丁、NixOS 模块与 AI 编码助手技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kihara777/NixKits 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-19"]
     y-axis "stars" 27 --> 30
-    line [28, 29, 28, 28]
+    line [28, 29, 28, 29]
 ```
 
-2026-10-18 28 → 2026-11-18 28（+0）
+2026-10-18 28 → 2026-11-19 29（+1）
 
 
 ---

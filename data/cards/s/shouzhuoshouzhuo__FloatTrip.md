@@ -1,6 +1,6 @@
 # shouzhuoshouzhuo/FloatTrip
 
-⭐ 81 · Python · 推送 2026-09-26 · [GitHub](https://github.com/shouzhuoshouzhuo/FloatTrip) · 个人维护 · 中文 README
+⭐ 80 · Python · 推送 2026-09-26 · [GitHub](https://github.com/shouzhuoshouzhuo/FloatTrip) · 个人维护 · 中文 README
 
 **对话式旅行规划 Agent：POI 数据+约束求解生成逐日行程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shouzhuoshouzhuo/FloatTrip 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18"]
+    title "shouzhuoshouzhuo/FloatTrip 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-19"]
     y-axis "stars" 70 --> 82
-    line [71, 72, 71, 72, 73, 71, 77, 79, 80, 81]
+    line [71, 72, 71, 72, 73, 71, 77, 79, 80, 81, 80]
 ```
 
-2026-10-18 71 → 2026-11-18 81（+10）
+2026-10-18 71 → 2026-11-19 80（+9）
 
 
 ---

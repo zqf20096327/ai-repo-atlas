@@ -1,6 +1,6 @@
 # PerryLink/dsh-talk
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PerryLink/dsh-talk) · [官网](https://www.npmjs.com/package/dsh-talk) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PerryLink/dsh-talk) · [官网](https://www.npmjs.com/package/dsh-talk) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的语音会话插件：说话输入、语音答复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-talk 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 17, 18, 16, 19, 19]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 14 --> 22
+    line [15, 16, 17, 18, 16, 19, 21]
 ```
 
-2026-10-18 15 → 2026-11-18 19（+4）
+2026-10-18 15 → 2026-11-19 21（+6）
 
 
 ---

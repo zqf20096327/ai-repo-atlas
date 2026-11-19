@@ -1,6 +1,6 @@
 # MidraLab/uDesktopMascot
 
-⭐ 359 · C# · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/MidraLab/uDesktopMascot) · 组织维护
+⭐ 360 · C# · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/MidraLab/uDesktopMascot) · 组织维护
 
 **Unity 桌面宠物应用：VRM 模型显示与离线语音 AI 聊天**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MidraLab/uDesktopMascot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 355 --> 360
-    line [356, 357, 358, 359, 358, 359, 359]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 355 --> 361
+    line [356, 357, 358, 359, 358, 359, 360]
 ```
 
-2026-10-18 356 → 2026-11-18 359（+3）
+2026-10-18 356 → 2026-11-19 360（+4）
 
 
 ---

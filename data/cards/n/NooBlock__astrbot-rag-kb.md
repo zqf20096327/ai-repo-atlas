@@ -1,6 +1,6 @@
 # NooBlock/astrbot-rag-kb
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/NooBlock/astrbot-rag-kb) · 个人维护 · 中文 README
+⭐ 15 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/NooBlock/astrbot-rag-kb) · 个人维护 · 中文 README
 
 **中文互联网梗/黑话 RAG 语料库（4544 chunk）附 AstrBot 导入工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NooBlock/astrbot-rag-kb 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 3 --> 15
-    line [4, 10, 11, 12, 14, 14]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 3 --> 16
+    line [4, 10, 11, 12, 14, 15]
 ```
 
-2026-10-26 4 → 2026-11-18 14（+10）
+2026-10-26 4 → 2026-11-19 15（+11）
 
 
 ---

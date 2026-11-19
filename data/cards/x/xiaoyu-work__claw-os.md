@@ -1,6 +1,6 @@
 # xiaoyu-work/claw-os
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/xiaoyu-work/claw-os) · 组织维护 · 中文 README
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/xiaoyu-work/claw-os) · 组织维护 · 中文 README
 
 **将 AI agent 作为系统层的实验性 Linux 操作系统**
 
@@ -46,12 +46,12 @@ Claw OS 是一个处于活跃开发期、架构可能大幅变动的 agent-nativ
 ```mermaid
 xychart-beta
     title "xiaoyu-work/claw-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # waleed-sh/neuraLQX
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/waleed-sh/neuraLQX) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/waleed-sh/neuraLQX) · 个人维护
 
 **圈量子引力的变分蒙特卡洛模拟 Python 库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "waleed-sh/neuraLQX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

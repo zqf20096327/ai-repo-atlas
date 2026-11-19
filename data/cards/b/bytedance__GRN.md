@@ -1,6 +1,6 @@
 # bytedance/GRN
 
-⭐ 169 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/bytedance/GRN) · [官网](https://bytedance.github.io/GRN/) · 组织维护 · 中文 README
+⭐ 170 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/bytedance/GRN) · [官网](https://bytedance.github.io/GRN/) · 组织维护 · 中文 README
 
 **视觉生成新范式 GRN 官方实现：文生图/类生图/文生视频/图生视频**
 
@@ -46,12 +46,12 @@ ECCV 2026 论文 Generative Refinement Networks 的官方 PyTorch 实现。GRN �
 ```mermaid
 xychart-beta
     title "bytedance/GRN 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 166 --> 170
-    line [167, 168, 169, 168, 169, 169]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 166 --> 171
+    line [167, 168, 169, 168, 169, 170]
 ```
 
-2026-10-18 167 → 2026-11-18 169（+2）
+2026-10-18 167 → 2026-11-19 170（+3）
 
 
 ---

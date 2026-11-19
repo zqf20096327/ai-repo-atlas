@@ -1,6 +1,6 @@
 # jkitchin/crucible
 
-⭐ 12 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jkitchin/crucible) · [官网](http://kitchingroup.cheme.cmu.edu/crucible/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jkitchin/crucible) · [官网](http://kitchingroup.cheme.cmu.edu/crucible/) · 个人维护
 
 **科研人员用 LLM 将论文、笔记、数据蒸馏成互联 org-mode 知识库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jkitchin/crucible 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-18"]
+    x-axis ["2026-10-28", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-28 12 → 2026-11-18 12（+0）
+2026-10-28 12 → 2026-11-19 12（+0）
 
 
 ---

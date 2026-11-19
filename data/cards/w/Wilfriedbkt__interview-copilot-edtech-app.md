@@ -1,6 +1,6 @@
 # Wilfriedbkt/interview-copilot-edtech-app
 
-⭐ 153 · HTML · 推送 2026-11-17 · [GitHub](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) · 个人维护
+⭐ 153 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) · 个人维护
 
 **面试实时辅导应用：转录问题并生成答题提示**
 
@@ -40,6 +40,18 @@
 > L7: Interview Copilot is an EdTech application built to close the distance between learning and landing the job you actu
 > L18: 🎙️ **Live question capture:** Interview Copilot listens to interview audio and transcribes questions in real time, 
 > L20: - 🧠 **Context-aware answer guidance:** Instead of canned responses, it generates structured talking points, hints, 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Wilfriedbkt/interview-copilot-edtech-app 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 152 --> 154
+    line [153, 153]
+```
+
+2026-11-18 153 → 2026-11-19 153（+0）
 
 
 ---

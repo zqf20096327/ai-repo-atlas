@@ -1,6 +1,6 @@
 # mirabarukaso/character_select_stand_alone_app
 
-⭐ 658 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mirabarukaso/character_select_stand_alone_app) · 个人维护
+⭐ 660 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mirabarukaso/character_select_stand_alone_app) · 个人维护
 
 **面向 ComfyUI/Forge 的角色选择与提示词构建桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirabarukaso/character_select_stand_alone_app 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 635 --> 660
-    line [637, 638, 639, 640, 641, 642, 644, 640, 651, 652, 653, 655, 656, 658]
+    title "mirabarukaso/character_select_stand_alone_app 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 635 --> 662
+    line [637, 638, 639, 640, 641, 642, 644, 640, 651, 652, 653, 655, 656, 658, 660]
 ```
 
-2026-10-18 637 → 2026-11-18 658（+21）
+2026-10-18 637 → 2026-11-19 660（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # parallax-labs/context-harness
 
-⭐ 43 · Rust · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/parallax-labs/context-harness) · 组织维护
+⭐ 44 · Rust · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/parallax-labs/context-harness) · 组织维护
 
 **本地优先的知识摄取与检索运行时，服务 Cursor/Claude 等 AI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "parallax-labs/context-harness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44]
 ```
 
-2026-10-18 42 → 2026-11-18 43（+1）
+2026-10-18 42 → 2026-11-19 44（+2）
 
 
 ---

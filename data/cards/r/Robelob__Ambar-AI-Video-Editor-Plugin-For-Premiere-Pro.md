@@ -1,6 +1,6 @@
 # Robelob/Ambar-AI-Video-Editor-Plugin-For-Premiere-Pro
 
-⭐ 19 · JavaScript · 推送 2026-05-21 · [GitHub](https://github.com/Robelob/Ambar-AI-Video-Editor-Plugin-For-Premiere-Pro) · 个人维护
+⭐ 20 · JavaScript · 推送 2026-05-21 · [GitHub](https://github.com/Robelob/Ambar-AI-Video-Editor-Plugin-For-Premiere-Pro) · 个人维护
 
 **Premiere Pro AI 插件：自动剪辑口播视频并加字幕**
 
@@ -46,12 +46,12 @@ Ambar 是 Premiere Pro 的 UXP+CEP 混合插件，面向口播/vlog 剪辑流程
 ```mermaid
 xychart-beta
     title "Robelob/Ambar-AI-Video-Editor-Plugin-For-Premiere-Pro 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 17, 15, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 17, 15, 18, 19, 20]
 ```
 
-2026-10-18 15 → 2026-11-18 19（+4）
+2026-10-18 15 → 2026-11-19 20（+5）
 
 
 ---

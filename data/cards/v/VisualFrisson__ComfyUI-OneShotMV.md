@@ -1,6 +1,6 @@
 # VisualFrisson/ComfyUI-OneShotMV
 
-⭐ 27 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/VisualFrisson/ComfyUI-OneShotMV) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/VisualFrisson/ComfyUI-OneShotMV) · 个人维护
 
 **ComfyUI 本地音乐视频生成工具：一首歌加一句话产出对嘴型 MV**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "VisualFrisson/ComfyUI-OneShotMV 星数(近 11 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 1 --> 29
-    line [3, 4, 5, 7, 15, 20, 21, 22, 24, 25, 27]
+    title "VisualFrisson/ComfyUI-OneShotMV 星数(近 12 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 1 --> 31
+    line [3, 4, 5, 7, 15, 20, 21, 22, 24, 25, 27, 29]
 ```
 
-2026-11-01 3 → 2026-11-18 27（+24）
+2026-11-01 3 → 2026-11-19 29（+26）
 
 
 ---

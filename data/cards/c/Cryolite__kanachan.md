@@ -1,6 +1,6 @@
 # Cryolite/kanachan
 
-⭐ 347 · Python · 推送 2026-11-14 · [GitHub](https://github.com/Cryolite/kanachan) · 个人维护 · 中文 README
+⭐ 348 · Python · 推送 2026-11-14 · [GitHub](https://github.com/Cryolite/kanachan) · 个人维护 · 中文 README
 
 **日本立直麻将 AI 训练框架（含标注、模拟器与训练程序）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Cryolite/kanachan 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 346 --> 348
-    line [347, 347]
+    x-axis ["2026-11-16", "2026-11-19"]
+    y-axis "stars" 346 --> 349
+    line [347, 348]
 ```
 
-2026-11-16 347 → 2026-11-18 347（+0）
+2026-11-16 347 → 2026-11-19 348（+1）
 
 
 ---

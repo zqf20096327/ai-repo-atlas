@@ -1,6 +1,6 @@
 # aovestdipaperino/laya-rust
 
-⭐ 17 · Rust · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/aovestdipaperino/laya-rust) · 个人维护
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/aovestdipaperino/laya-rust) · 个人维护
 
 **Laya 类型化决策模型的纯 Rust 推理实现（candle）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aovestdipaperino/laya-rust 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-18 17（+0）
+2026-10-18 17 → 2026-11-19 17（+0）
 
 
 ---

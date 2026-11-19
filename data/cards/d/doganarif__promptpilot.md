@@ -45,12 +45,12 @@ Python 库与 CLI 工具，面向使用 LLM API 的开发者：以 YAML 文件�
 ```mermaid
 xychart-beta
     title "doganarif/promptpilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-11-18 78（+0）
+2026-10-18 78 → 2026-11-19 78（+0）
 
 
 ---

@@ -44,12 +44,12 @@ NeuroData 组开发的渐进学习（Progressive Learning）算法包，提供�
 ```mermaid
 xychart-beta
     title "neurodata/ProgLearn 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-10", "2026-11-19"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-11-10 39 → 2026-11-18 39（+0）
+2026-11-10 39 → 2026-11-19 39（+0）
 
 
 ---

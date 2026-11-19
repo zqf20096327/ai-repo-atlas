@@ -1,6 +1,6 @@
 # mdiri-ai/SoduWork
 
-⭐ 1,681 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mdiri-ai/SoduWork) · [官网](https://www.soduwork.ai) · 组织维护 · 中文 README
+⭐ 2,834 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/mdiri-ai/SoduWork) · [官网](https://www.soduwork.ai) · 组织维护 · 中文 README
 
 **面向团队的自托管多 harness 多 agent AI 工作引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mdiri-ai/SoduWork 星数(近 7 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 178 --> 1817
-    line [314, 410, 665, 774, 943, 1056, 1681]
+    title "mdiri-ai/SoduWork 星数(近 8 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 62 --> 3086
+    line [314, 410, 665, 774, 943, 1056, 1681, 2834]
 ```
 
-2026-11-11 314 → 2026-11-18 1,681（+1,367）
+2026-11-11 314 → 2026-11-19 2,834（+2,520）
 
 
 ---

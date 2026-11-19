@@ -46,12 +46,12 @@ Sleepwalker 提供两大工作流：AI Visibility（在 ChatGPT、Perplexity、G
 ```mermaid
 xychart-beta
     title "followanton/sleepwalker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
     y-axis "stars" 23 --> 26
     line [25, 24, 24]
 ```
 
-2026-10-18 25 → 2026-11-18 24（-1）
+2026-10-18 25 → 2026-11-19 24（-1）
 
 
 ---

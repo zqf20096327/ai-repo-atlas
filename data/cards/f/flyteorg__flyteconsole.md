@@ -1,6 +1,6 @@
 # flyteorg/flyteconsole
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/flyteorg/flyteconsole) · [官网](https://github.com/flyteorg/flyte) · 组织维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/flyteorg/flyteconsole) · [官网](https://github.com/flyteorg/flyte) · 组织维护
 
 **Flyte 机器学习工作流平台的 Web 管理界面**
 
@@ -45,12 +45,12 @@ Flyte 平台的 Web 前端控制台：从 FlyteAdmin API 读取数据，展示�
 ```mermaid
 xychart-beta
     title "flyteorg/flyteconsole 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-11-18 45（+0）
+2026-10-18 45 → 2026-11-19 45（+0）
 
 
 ---

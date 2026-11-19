@@ -1,6 +1,6 @@
 # WenjieDu/TSDB
 
-⭐ 242 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/WenjieDu/TSDB) · [官网](https://pypots.com/ecosystem/#TSDB) · 个人维护
+⭐ 243 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/WenjieDu/TSDB) · [官网](https://pypots.com/ecosystem/#TSDB) · 个人维护
 
 **一行代码加载 173 个公开时间序列数据集的 Python 工具箱**
 
@@ -45,12 +45,12 @@ TSDB 是面向研究者与工程师的时间序列数据集加载工具箱，从
 ```mermaid
 xychart-beta
     title "WenjieDu/TSDB 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 239 --> 243
-    line [240, 241, 242, 241, 242, 242]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 239 --> 244
+    line [240, 241, 242, 241, 242, 243]
 ```
 
-2026-10-18 240 → 2026-11-18 242（+2）
+2026-10-18 240 → 2026-11-19 243（+3）
 
 
 ---

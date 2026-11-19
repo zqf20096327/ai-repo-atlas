@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SENATOROVAI/Normal-equations-scalar-form-solver-simple-linear-regression-course 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    title "SENATOROVAI/Normal-equations-scalar-form-solver-simple-linear-regression-course 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 34 --> 37
-    line [36, 35, 36, 35, 36]
+    line [36, 35, 36, 35, 36, 36]
 ```
 
-2026-10-18 36 → 2026-11-18 36（+0）
+2026-10-18 36 → 2026-11-19 36（+0）
 
 
 ---

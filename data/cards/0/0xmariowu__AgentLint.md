@@ -1,6 +1,6 @@
 # 0xmariowu/AgentLint
 
-⭐ 66 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/0xmariowu/AgentLint) · [官网](https://agentlint.app) · 个人维护 · 中文 README
+⭐ 67 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/0xmariowu/AgentLint) · [官网](https://agentlint.app) · 个人维护 · 中文 README
 
 **面向 AI 编码代理的 harness 配置检查工具（58 项检查）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xmariowu/AgentLint 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 59 --> 67
-    line [60, 61, 60, 63, 64, 65, 66]
+    title "0xmariowu/AgentLint 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 59 --> 68
+    line [60, 61, 60, 63, 64, 65, 66, 67]
 ```
 
-2026-10-18 60 → 2026-11-18 66（+6）
+2026-10-18 60 → 2026-11-19 67（+7）
 
 
 ---

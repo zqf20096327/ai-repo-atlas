@@ -1,6 +1,6 @@
 # BankkRoll/repo2pdf
 
-⭐ 383 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/BankkRoll/repo2pdf) · [官网](https://repo2pdf.vercel.app/) · 个人维护
+⭐ 383 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/BankkRoll/repo2pdf) · [官网](https://repo2pdf.vercel.app/) · 个人维护
 
 **把 GitHub 仓库克隆并转换为格式化 PDF 的 CLI 工具**
 
@@ -44,12 +44,12 @@ Node.js 命令行工具：克隆或读取本地仓库，解析文本类代码文
 ```mermaid
 xychart-beta
     title "BankkRoll/repo2pdf 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-19"]
     y-axis "stars" 381 --> 385
     line [382, 384, 383, 383]
 ```
 
-2026-10-18 382 → 2026-11-18 383（+1）
+2026-10-18 382 → 2026-11-19 383（+1）
 
 
 ---

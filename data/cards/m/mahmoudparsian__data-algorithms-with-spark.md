@@ -45,13 +45,13 @@ O'Reilly 出版图书 Data Algorithms with Spark（Mahmoud Parsian 著，2022 �
 
 ```mermaid
 xychart-beta
-    title "mahmoudparsian/data-algorithms-with-spark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    title "mahmoudparsian/data-algorithms-with-spark 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 228 --> 231
-    line [229, 230, 229]
+    line [229, 230, 229, 229]
 ```
 
-2026-10-18 229 → 2026-11-18 229（+0）
+2026-10-18 229 → 2026-11-19 229（+0）
 
 
 ---

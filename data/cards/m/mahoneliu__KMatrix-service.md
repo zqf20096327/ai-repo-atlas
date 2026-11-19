@@ -1,6 +1,6 @@
 # mahoneliu/KMatrix-service
 
-⭐ 27 · Java · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/mahoneliu/KMatrix-service) · [官网](http://kmatrix.kykms.cn) · 个人维护 · 中文 README
+⭐ 26 · Java · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/mahoneliu/KMatrix-service) · [官网](http://kmatrix.kykms.cn) · 个人维护 · 中文 README
 
 **面向企业的 RAG 知识库与 LLM 工作流平台，可搭建问答助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mahoneliu/KMatrix-service 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 25 --> 28
+    line [27, 26]
 ```
 
-2026-10-18 27 → 2026-11-18 27（+0）
+2026-10-18 27 → 2026-11-19 26（-1）
 
 
 ---

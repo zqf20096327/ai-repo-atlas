@@ -1,6 +1,6 @@
 # aymen94/NeuronDump
 
-⭐ 20 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/aymen94/NeuronDump) · [官网](http://aymen.xyz/NeuronDump/) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/aymen94/NeuronDump) · [官网](http://aymen.xyz/NeuronDump/) · 个人维护
 
 **本地 GGUF 模型内部结构检视、干预与瘦身工具**
 
@@ -47,12 +47,12 @@ Rust 编写的 GGUF 模型检视工具：读取 Ollama、LM Studio、Hugging Fac
 ```mermaid
 xychart-beta
     title "aymen94/NeuronDump 星数(近 9 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
     y-axis "stars" 7 --> 21
     line [8, 9, 11, 13, 15, 17, 18, 20, 20]
 ```
 
-2026-10-26 8 → 2026-11-18 20（+12）
+2026-10-26 8 → 2026-11-19 20（+12）
 
 
 ---

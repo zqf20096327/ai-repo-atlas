@@ -1,6 +1,6 @@
 # SDNNetSim/FUSION
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SDNNetSim/FUSION) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/SDNNetSim/FUSION) · 组织维护
 
 **面向科研者的 SD-EON 光网络离散事件仿真框架，支持强化学习集成**
 
@@ -45,12 +45,12 @@ FUSION 是一个开源的软件定义弹性光网络（SD-EON）离散事件仿�
 ```mermaid
 xychart-beta
     title "SDNNetSim/FUSION 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-18 16（+0）
+2026-10-18 16 → 2026-11-19 16（+0）
 
 
 ---

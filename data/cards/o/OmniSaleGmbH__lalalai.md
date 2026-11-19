@@ -1,6 +1,6 @@
 # OmniSaleGmbH/lalalai
 
-⭐ 200 · Python · 推送 2026-09-29 · [GitHub](https://github.com/OmniSaleGmbH/lalalai) · [官网](https://www.lalal.ai/) · 组织维护
+⭐ 201 · Python · 推送 2026-09-29 · [GitHub](https://github.com/OmniSaleGmbH/lalalai) · [官网](https://www.lalal.ai/) · 组织维护
 
 **LALAL.AI 官方 API 示例库：音轨分离与人声处理服务接入**
 
@@ -46,12 +46,12 @@ OmniSale GmbH 维护的 LALAL.AI API 官方 Python 示例仓库，覆盖 stem �
 ```mermaid
 xychart-beta
     title "OmniSaleGmbH/lalalai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 196 --> 201
-    line [197, 198, 199, 200, 199, 200, 200]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 196 --> 202
+    line [197, 198, 199, 200, 199, 200, 201]
 ```
 
-2026-10-18 197 → 2026-11-18 200（+3）
+2026-10-18 197 → 2026-11-19 201（+4）
 
 
 ---

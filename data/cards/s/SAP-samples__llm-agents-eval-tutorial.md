@@ -1,6 +1,6 @@
 # SAP-samples/llm-agents-eval-tutorial
 
-⭐ 21 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/SAP-samples/llm-agents-eval-tutorial) · 组织维护
+⭐ 22 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/SAP-samples/llm-agents-eval-tutorial) · 组织维护
 
 **KDD 2025 LLM Agent 评测综述教程材料（SAP）**
 
@@ -45,12 +45,12 @@ SAP Labs 四位研究者发表的 KDD 2025 教程“Evaluation & Benchmarking of
 ```mermaid
 xychart-beta
     title "SAP-samples/llm-agents-eval-tutorial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-18 21（+0）
+2026-10-18 21 → 2026-11-19 22（+1）
 
 
 ---

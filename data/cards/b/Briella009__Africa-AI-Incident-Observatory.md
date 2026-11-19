@@ -1,6 +1,6 @@
 # Briella009/Africa-AI-Incident-Observatory
 
-⭐ 17 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Briella009/Africa-AI-Incident-Observatory) · [官网](https://aaio-africa.streamlit.app/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Briella009/Africa-AI-Incident-Observatory) · [官网](https://aaio-africa.streamlit.app/) · 个人维护
 
 **记录非洲 AI 事件的开源数据集：可溯源的结构化证据**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Briella009/Africa-AI-Incident-Observatory 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-18"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-19"]
     y-axis "stars" 11 --> 18
     line [12, 16, 17, 17]
 ```
 
-2026-10-26 12 → 2026-11-18 17（+5）
+2026-10-26 12 → 2026-11-19 17（+5）
 
 
 ---

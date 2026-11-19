@@ -1,6 +1,6 @@
 # rsynnot/magic-lists-for-navidrome
 
-⭐ 247 · Python · 推送 2026-11-12 · [GitHub](https://github.com/rsynnot/magic-lists-for-navidrome) · 个人维护
+⭐ 246 · Python · 推送 2026-11-12 · [GitHub](https://github.com/rsynnot/magic-lists-for-navidrome) · 个人维护
 
 **自建 Navidrome 音乐库的 AI 歌单生成器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rsynnot/magic-lists-for-navidrome 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-18"]
-    y-axis "stars" 246 --> 249
-    line [247, 248, 247, 247]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-19"]
+    y-axis "stars" 245 --> 249
+    line [247, 248, 247, 246]
 ```
 
-2026-10-18 247 → 2026-11-18 247（+0）
+2026-10-18 247 → 2026-11-19 246（-1）
 
 
 ---

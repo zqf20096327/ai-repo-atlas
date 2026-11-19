@@ -1,6 +1,6 @@
 # charlesnchr/VSR-SIM
 
-⭐ 11 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/charlesnchr/VSR-SIM) · [官网](https://arxiv.org/abs/2203.00030) · 个人维护
+⭐ 12 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/charlesnchr/VSR-SIM) · [官网](https://arxiv.org/abs/2203.00030) · 个人维护
 
 **面向活细胞SIM显微成像者的运动鲁棒超分辨重建网络**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "charlesnchr/VSR-SIM 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-16", "2026-11-19"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-11-16 11 → 2026-11-18 11（+0）
+2026-11-16 11 → 2026-11-19 12（+1）
 
 
 ---

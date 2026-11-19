@@ -1,6 +1,6 @@
 # rin-yato/opencode-simulator
 
-⭐ 40 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/rin-yato/opencode-simulator) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/rin-yato/opencode-simulator) · 个人维护
 
 **在 OpenCode Desktop 内嵌入 iOS 模拟器并供 agent 驱动的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rin-yato/opencode-simulator 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 35 --> 41
-    line [36, 40, 40]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 35 --> 42
+    line [36, 40, 41]
 ```
 
-2026-11-11 36 → 2026-11-18 40（+4）
+2026-11-11 36 → 2026-11-19 41（+5）
 
 
 ---

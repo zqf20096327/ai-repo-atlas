@@ -1,6 +1,6 @@
 # quarkiverse/quarkus-flow
 
-⭐ 126 · Java · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/quarkiverse/quarkus-flow) · [官网](https://docs.quarkiverse.io/quarkus-flow/dev) · 组织维护
+⭐ 126 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/quarkiverse/quarkus-flow) · [官网](https://docs.quarkiverse.io/quarkus-flow/dev) · 组织维护
 
 **面向 Quarkus 的 Agentic AI 工作流运行时引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "quarkiverse/quarkus-flow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-18"]
+    title "quarkiverse/quarkus-flow 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19"]
     y-axis "stars" 119 --> 127
-    line [120, 121, 122, 124, 125, 126]
+    line [120, 121, 122, 124, 125, 126, 126]
 ```
 
-2026-10-18 120 → 2026-11-18 126（+6）
+2026-10-18 120 → 2026-11-19 126（+6）
 
 
 ---

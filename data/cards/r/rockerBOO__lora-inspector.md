@@ -1,6 +1,6 @@
 # rockerBOO/lora-inspector
 
-⭐ 101 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/rockerBOO/lora-inspector) · 个人维护
+⭐ 102 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/rockerBOO/lora-inspector) · 个人维护
 
 **Stable Diffusion LoRA 文件元数据与权重检查工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rockerBOO/lora-inspector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 100 --> 103
+    line [101, 102]
 ```
 
-2026-10-18 101 → 2026-11-18 101（+0）
+2026-10-18 101 → 2026-11-19 102（+1）
 
 
 ---

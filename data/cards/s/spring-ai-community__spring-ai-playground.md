@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "spring-ai-community/spring-ai-playground 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    title "spring-ai-community/spring-ai-playground 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 144 --> 148
-    line [145, 146, 147]
+    line [145, 146, 147, 147]
 ```
 
-2026-10-18 145 → 2026-11-18 147（+2）
+2026-10-18 145 → 2026-11-19 147（+2）
 
 
 ---

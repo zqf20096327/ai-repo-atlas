@@ -1,6 +1,6 @@
 # boscocp/game-ai-kit
 
-⭐ 27 · GDScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/boscocp/game-ai-kit) · 个人维护
+⭐ 28 · GDScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/boscocp/game-ai-kit) · 个人维护
 
 **游戏 AI 教学套件：Godot 4 插件与可读小游戏演示决策算法**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "boscocp/game-ai-kit 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 16 --> 28
-    line [17, 22, 25, 26, 27, 27]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 16 --> 29
+    line [17, 22, 25, 26, 27, 28]
 ```
 
-2026-11-08 17 → 2026-11-18 27（+10）
+2026-11-08 17 → 2026-11-19 28（+11）
 
 
 ---

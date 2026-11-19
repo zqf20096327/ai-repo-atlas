@@ -1,6 +1,6 @@
 # Papr-ai/memory-opensource
 
-⭐ 73 · Python · AGPL-3.0 · 推送 2026-04-16 · [GitHub](https://github.com/Papr-ai/memory-opensource) · [官网](https://papr.ai) · 组织维护
+⭐ 74 · Python · AGPL-3.0 · 推送 2026-04-16 · [GitHub](https://github.com/Papr-ai/memory-opensource) · [官网](https://papr.ai) · 组织维护
 
 **面向 AI agent 的预测性记忆层，存储/检索/关联记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Papr-ai/memory-opensource 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 72 --> 75
-    line [74, 73, 73]
+    line [74, 73, 74]
 ```
 
-2026-10-18 74 → 2026-11-18 73（-1）
+2026-10-18 74 → 2026-11-19 74（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Fame510/SHACKLE
 
-⭐ 18 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Fame510/SHACKLE) · [官网](https://fame510.github.io/SHACKLE/) · 个人维护
+⭐ 18 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Fame510/SHACKLE) · [官网](https://fame510.github.io/SHACKLE/) · 个人维护
 
 **自治 AI agent 的治理守护库：限制循环、预算与超时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Fame510/SHACKLE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 18（+0）
 
 
 ---

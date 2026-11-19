@@ -1,6 +1,6 @@
 # Moloch-AI/uncensored-ai
 
-⭐ 17 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Moloch-AI/uncensored-ai) · [官网](https://molochai.dev/uncensored-ai?utm_source=github&utm_medium=oss&utm_campaign=uncensored-ai) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Moloch-AI/uncensored-ai) · [官网](https://molochai.dev/uncensored-ai?utm_source=github&utm_medium=oss&utm_campaign=uncensored-ai) · 组织维护
 
 **低拒绝（uncensored）语言模型的开发者参考指南与模型比较工具**
 
@@ -41,6 +41,18 @@
 > L6: A developer's reference for uncensored (less-restricted) language models: what they are, how they get that way, how 
 > L10: "Uncensored" is what people search for; "refusal-reduced" is what it means. This guide explains the concepts withou
 > L136: `tools/compare_models.py` sends each prompt in a text or JSONL file to several models on any OpenAI-compatible end
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Moloch-AI/uncensored-ai 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
+```
+
+2026-11-18 17 → 2026-11-19 18（+1）
 
 
 ---

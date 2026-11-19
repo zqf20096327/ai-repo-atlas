@@ -1,6 +1,6 @@
 # be-wise-be-kind/thai-lint
 
-⭐ 25 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/be-wise-be-kind/thai-lint) · [官网](https://thai-lint.readthedocs.io/) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/be-wise-be-kind/thai-lint) · [官网](https://thai-lint.readthedocs.io/) · 组织维护
 
 **多语言 linter：检测 AI 生成代码的常见反模式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "be-wise-be-kind/thai-lint 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-11-18 25（+1）
+2026-10-18 24 → 2026-11-19 26（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline
 
-⭐ 37 · 推送 2026-11-10 · [GitHub](https://github.com/pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 40 · 推送 2026-11-10 · [GitHub](https://github.com/pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **教程：用 CoreGold 虚拟卡经 Apple Pay 订阅 Runway/Sora**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 40
-    line [3, 17, 22, 29, 28, 33, 37]
+    title "pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 43
+    line [3, 17, 22, 29, 28, 33, 37, 40]
 ```
 
-2026-11-10 3 → 2026-11-18 37（+34）
+2026-11-10 3 → 2026-11-19 40（+37）
 
 
 ---

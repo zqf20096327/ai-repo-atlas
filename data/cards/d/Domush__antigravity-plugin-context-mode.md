@@ -1,6 +1,6 @@
 # Domush/antigravity-plugin-context-mode
 
-⭐ 58 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Domush/antigravity-plugin-context-mode) · [官网](https://domush.github.io/antigravity-plugin-context-mode/) · 个人维护
+⭐ 67 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Domush/antigravity-plugin-context-mode) · [官网](https://domush.github.io/antigravity-plugin-context-mode/) · 个人维护
 
 **Google Antigravity 的本地上下文压缩插件：拦截大输出省 token**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Domush/antigravity-plugin-context-mode 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 50 --> 59
-    line [51, 58]
+    title "Domush/antigravity-plugin-context-mode 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 50 --> 68
+    line [51, 58, 67]
 ```
 
-2026-11-16 51 → 2026-11-18 58（+7）
+2026-11-16 51 → 2026-11-19 67（+16）
 
 
 ---

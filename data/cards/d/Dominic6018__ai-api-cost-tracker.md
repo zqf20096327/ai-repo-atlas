@@ -1,6 +1,6 @@
 # Dominic6018/ai-api-cost-tracker
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Dominic6018/ai-api-cost-tracker) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Dominic6018/ai-api-cost-tracker) · 个人维护
 
 **自托管 AI API 成本记账工具：按项目/客户/模型追踪开销**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dominic6018/ai-api-cost-tracker 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-08 10 → 2026-11-18 12（+2）
+2026-11-08 10 → 2026-11-19 13（+3）
 
 
 ---

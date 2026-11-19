@@ -1,6 +1,6 @@
 # Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability
 
-⭐ 22 · 推送 2026-08-18 · [GitHub](https://github.com/Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability) · [官网](https://github.com/Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability) · 个人维护
+⭐ 25 · 推送 2026-08-18 · [GitHub](https://github.com/Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability) · [官网](https://github.com/Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability) · 个人维护
 
 **药物发现 AI 平台：分子预测、生成与可解释决策**
 
@@ -45,13 +45,13 @@ Python 实现的计算药物发现项目，整合分子属性预测（生物活�
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 9 --> 23
-    line [10, 11, 15, 22]
+    title "Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 26
+    line [10, 11, 15, 22, 25]
 ```
 
-2026-11-08 10 → 2026-11-18 22（+12）
+2026-11-08 10 → 2026-11-19 25（+15）
 
 
 ---

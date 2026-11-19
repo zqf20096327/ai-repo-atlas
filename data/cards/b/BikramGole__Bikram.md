@@ -1,6 +1,6 @@
 # BikramGole/Bikram
 
-⭐ 12 · HTML · 推送 2026-10-15 · [GitHub](https://github.com/BikramGole/Bikram) · [官网](https://bikramgole.com.np) · 个人维护
+⭐ 12 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/BikramGole/Bikram) · [官网](https://bikramgole.com.np) · 个人维护
 
 **个人作品集网站：多页导航、多主题与互动终端小游戏**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "BikramGole/Bikram 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

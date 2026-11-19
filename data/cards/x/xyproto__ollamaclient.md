@@ -1,6 +1,6 @@
 # xyproto/ollamaclient
 
-⭐ 35 · Go · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/xyproto/ollamaclient) · 个人维护
+⭐ 36 · Go · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/xyproto/ollamaclient) · 个人维护
 
 **Go 语言的 Ollama/LLM 客户端库及示例工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "xyproto/ollamaclient 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-11-18 35（+0）
+2026-10-18 35 → 2026-11-19 36（+1）
 
 
 ---

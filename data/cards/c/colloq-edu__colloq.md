@@ -1,6 +1,6 @@
 # colloq-edu/colloq
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/colloq-edu/colloq) · [官网](https://colloq.cc) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/colloq-edu/colloq) · [官网](https://colloq.cc) · 个人维护
 
 **自托管的 Python/数据科学/ML 共享课堂，浏览器一键加入**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "colloq-edu/colloq 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 19 --> 25
-    line [20, 22, 24, 24]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 19 --> 28
+    line [20, 22, 24, 27]
 ```
 
-2026-11-08 20 → 2026-11-18 24（+4）
+2026-11-08 20 → 2026-11-19 27（+7）
 
 
 ---

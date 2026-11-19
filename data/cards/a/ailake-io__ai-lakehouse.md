@@ -1,6 +1,6 @@
 # ailake-io/ai-lakehouse
 
-⭐ 46 · Rust · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/ailake-io/ai-lakehouse) · 组织维护
+⭐ 46 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/ailake-io/ai-lakehouse) · 组织维护
 
 **Rust 编写的向量化湖仓格式：单文件融合 Parquet 表数据、向量与 HNSW 索引**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ailake-io/ai-lakehouse 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
+    title "ailake-io/ai-lakehouse 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 43 --> 47
-    line [44, 45, 44, 45, 46]
+    line [44, 45, 44, 45, 46, 46]
 ```
 
-2026-10-18 44 → 2026-11-18 46（+2）
+2026-10-18 44 → 2026-11-19 46（+2）
 
 
 ---

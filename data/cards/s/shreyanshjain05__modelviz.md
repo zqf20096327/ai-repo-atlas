@@ -1,6 +1,6 @@
 # shreyanshjain05/modelviz
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/shreyanshjain05/modelviz) · [官网](https://shreyanshjain05.github.io/modelviz/) · 个人维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/shreyanshjain05/modelviz) · [官网](https://shreyanshjain05.github.io/modelviz/) · 个人维护
 
 **把 PyTorch/Keras 网络结构渲染成 2D 图与交互式 3D 的可视化库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shreyanshjain05/modelviz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-11-18 26（+0）
+2026-10-18 26 → 2026-11-19 27（+1）
 
 
 ---

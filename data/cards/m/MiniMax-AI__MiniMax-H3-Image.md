@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-H3-Image
 
-⭐ 411 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3-Image) · 组织维护 · 中文 README
+⭐ 419 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3-Image) · 组织维护 · 中文 README
 
 **开源权重图像生成与编辑模型，支持16MP文生图与多图编辑**
 
@@ -45,13 +45,13 @@ MiniMax 公司发布的开源权重图像模型，单一 checkpoint 同时支持
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MiniMax-H3-Image 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 448
-    line [33, 197, 299, 339, 362, 378, 402, 411]
+    title "MiniMax-AI/MiniMax-H3-Image 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 457
+    line [33, 197, 299, 339, 362, 378, 402, 411, 419]
 ```
 
-2026-11-10 33 → 2026-11-18 411（+378）
+2026-11-10 33 → 2026-11-19 419（+386）
 
 
 ---

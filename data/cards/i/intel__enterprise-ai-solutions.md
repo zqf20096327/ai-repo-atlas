@@ -1,6 +1,6 @@
 # intel/enterprise-ai-solutions
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/intel/enterprise-ai-solutions) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/intel/enterprise-ai-solutions) · 组织维护
 
 **给企业在 Xeon 上一键部署 Kubernetes LLM 推理平台**
 
@@ -45,13 +45,13 @@ Toolkit Manager 是 Intel 维护的安装器仓库：一条脚本完成 Kubernet
 
 ```mermaid
 xychart-beta
-    title "intel/enterprise-ai-solutions 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-18"]
+    title "intel/enterprise-ai-solutions 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-10-19 10 → 2026-11-18 12（+2）
+2026-10-19 10 → 2026-11-19 12（+2）
 
 
 ---

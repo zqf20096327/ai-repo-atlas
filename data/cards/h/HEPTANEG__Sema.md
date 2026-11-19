@@ -46,12 +46,12 @@ Windows 优先的实验性 AI agent，核心是自研 Memory Engine：Event Stre
 ```mermaid
 xychart-beta
     title "HEPTANEG/Sema 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-19"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-11-08 23 → 2026-11-18 23（+0）
+2026-11-08 23 → 2026-11-19 23（+0）
 
 
 ---

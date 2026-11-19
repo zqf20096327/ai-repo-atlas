@@ -1,6 +1,6 @@
 # kayas881/WanGP-Kaggle
 
-⭐ 19 · Jupyter Notebook · 推送 2025-12-30 · [GitHub](https://github.com/kayas881/WanGP-Kaggle) · 个人维护
+⭐ 20 · Jupyter Notebook · 推送 2025-12-30 · [GitHub](https://github.com/kayas881/WanGP-Kaggle) · 个人维护
 
 **在 Kaggle 免费 T4 上运行 WanGP 视频生成模型的笔记本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kayas881/WanGP-Kaggle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-11-18 19（+1）
+2026-10-18 18 → 2026-11-19 20（+2）
 
 
 ---

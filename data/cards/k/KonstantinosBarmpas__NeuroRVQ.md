@@ -1,6 +1,6 @@
 # KonstantinosBarmpas/NeuroRVQ
 
-⭐ 56 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/KonstantinosBarmpas/NeuroRVQ) · [官网](https://neurorvq.github.io) · 组织维护
+⭐ 57 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/KonstantinosBarmpas/NeuroRVQ) · [官网](https://neurorvq.github.io) · 组织维护
 
 **面向 EEG/EMG/ECG/PPG 的多尺度生物信号分词器与基础模型**
 
@@ -46,12 +46,12 @@ NeuroRVQ 是官方实现的多尺度生物信号分词器家族：将 EEG/EMG/EC
 ```mermaid
 xychart-beta
     title "KonstantinosBarmpas/NeuroRVQ 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 53 --> 57
-    line [54, 56, 56]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 53 --> 58
+    line [54, 56, 57]
 ```
 
-2026-10-18 54 → 2026-11-18 56（+2）
+2026-10-18 54 → 2026-11-19 57（+3）
 
 
 ---

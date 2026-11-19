@@ -1,6 +1,6 @@
 # Muhib-Mehdi/ASL-Recognition-System
 
-⭐ 12 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/Muhib-Mehdi/ASL-Recognition-System) · [官网](https://asl-recognition-web.vercel.app/) · 个人维护
+⭐ 13 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/Muhib-Mehdi/ASL-Recognition-System) · [官网](https://asl-recognition-web.vercel.app/) · 个人维护
 
 **实时美国手语字母手势识别应用：摄像头手势转文本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Muhib-Mehdi/ASL-Recognition-System 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-18 12（+1）
+2026-10-18 11 → 2026-11-19 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # BlockRunAI/blockrun-mcp
 
-⭐ 390 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BlockRunAI/blockrun-mcp) · [官网](https://www.npmjs.com/package/@blockrun/mcp) · 组织维护
+⭐ 390 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/BlockRunAI/blockrun-mcp) · [官网](https://www.npmjs.com/package/@blockrun/mcp) · 组织维护
 
 **面向 AI agent 的实时数据与交易 MCP 服务器，按调用付费**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BlockRunAI/blockrun-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 388 --> 393
     line [391, 392, 391, 392, 389, 390, 390]
 ```
 
-2026-10-18 391 → 2026-11-18 390（-1）
+2026-10-18 391 → 2026-11-19 390（-1）
 
 
 ---

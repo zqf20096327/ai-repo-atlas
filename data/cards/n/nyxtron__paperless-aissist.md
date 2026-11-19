@@ -1,6 +1,6 @@
 # nyxtron/paperless-aissist
 
-⭐ 83 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/nyxtron/paperless-aissist) · [官网](https://nyxtron.github.io/paperless-aissist/) · 个人维护
+⭐ 83 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/nyxtron/paperless-aissist) · [官网](https://nyxtron.github.io/paperless-aissist/) · 个人维护
 
 **给 Paperless-ngx 用户的 LLM 文档处理 Web 应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nyxtron/paperless-aissist 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
     y-axis "stars" 77 --> 84
     line [78, 79, 78, 81, 82, 83, 83]
 ```
 
-2026-10-18 78 → 2026-11-18 83（+5）
+2026-10-18 78 → 2026-11-19 83（+5）
 
 
 ---

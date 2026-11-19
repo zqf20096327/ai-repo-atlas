@@ -1,6 +1,6 @@
 # TingsongYu/PyTorch-Tutorial-2nd
 
-⭐ 4,639 · Jupyter Notebook · 推送 2026-11-15 · [GitHub](https://github.com/TingsongYu/PyTorch-Tutorial-2nd) · [官网](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) · 个人维护 · 中文 README
+⭐ 4,640 · Jupyter Notebook · 推送 2026-11-15 · [GitHub](https://github.com/TingsongYu/PyTorch-Tutorial-2nd) · [官网](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) · 个人维护 · 中文 README
 
 **面向深度学习工程师的《PyTorch实用教程》（第二版）开源书与配套代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TingsongYu/PyTorch-Tutorial-2nd 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 4627 --> 4640
-    line [4630, 4631, 4632, 4630, 4628, 4629, 4632, 4634, 4635, 4634, 4636, 4637, 4639]
+    title "TingsongYu/PyTorch-Tutorial-2nd 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 4627 --> 4641
+    line [4630, 4631, 4632, 4630, 4628, 4629, 4632, 4634, 4635, 4634, 4636, 4637, 4639, 4640]
 ```
 
-2026-10-18 4,630 → 2026-11-18 4,639（+9）
+2026-10-18 4,630 → 2026-11-19 4,640（+10）
 
 
 ---

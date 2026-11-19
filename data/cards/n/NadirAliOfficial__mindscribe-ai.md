@@ -1,6 +1,6 @@
 # NadirAliOfficial/mindscribe-ai
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/NadirAliOfficial/mindscribe-ai) · 组织维护
+⭐ 11 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/NadirAliOfficial/mindscribe-ai) · 组织维护
 
 **网页文本框的 AI 智能回复与文本增强 Chrome 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NadirAliOfficial/mindscribe-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 10 --> 13
+    line [12, 11]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 11（-1）
 
 
 ---

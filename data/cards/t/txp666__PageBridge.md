@@ -1,6 +1,6 @@
 # txp666/PageBridge
 
-⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/txp666/PageBridge) · [官网](https://pagebridge.modusignal.cn/) · 个人维护 · 中文 README
+⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/txp666/PageBridge) · [官网](https://pagebridge.modusignal.cn/) · 个人维护 · 中文 README
 
 **Mac/Windows 原生 PDF 翻译、阅读批注与文档助手应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "txp666/PageBridge 星数(近 8 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18"]
+    title "txp666/PageBridge 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-19"]
     y-axis "stars" 2 --> 18
-    line [3, 4, 7, 11, 12, 14, 15, 17]
+    line [3, 4, 7, 11, 12, 14, 15, 17, 17]
 ```
 
-2026-10-26 3 → 2026-11-18 17（+14）
+2026-10-26 3 → 2026-11-19 17（+14）
 
 
 ---

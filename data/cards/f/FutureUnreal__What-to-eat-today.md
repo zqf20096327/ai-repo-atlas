@@ -1,6 +1,6 @@
 # FutureUnreal/What-to-eat-today
 
-⭐ 238 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/FutureUnreal/What-to-eat-today) · [官网](https://datawhalechina.github.io/all-in-rag/) · 个人维护 · 中文 README
+⭐ 239 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/FutureUnreal/What-to-eat-today) · [官网](https://datawhalechina.github.io/all-in-rag/) · 个人维护 · 中文 README
 
 **给美食选择困难者的图RAG烹饪推荐与指导助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FutureUnreal/What-to-eat-today 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 235 --> 239
-    line [236, 237, 236, 237, 238, 237, 238, 238]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 235 --> 240
+    line [236, 237, 236, 237, 238, 237, 238, 239]
 ```
 
-2026-10-18 236 → 2026-11-18 238（+2）
+2026-10-18 236 → 2026-11-19 239（+3）
 
 
 ---

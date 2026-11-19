@@ -1,6 +1,6 @@
 # automagik-si/genie
 
-⭐ 354 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/automagik-si/genie) · [官网](https://docs.automagik.dev/genie) · 组织维护
+⭐ 354 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/automagik-si/genie) · [官网](https://docs.automagik.dev/genie) · 组织维护
 
 **面向编码 agent 的任务交付框架：一次 /wish 直达可合并 PR**
 
@@ -45,13 +45,13 @@ Genie 是围绕 Claude Code、Codex 等编码 agent 的技能与工作流框架�
 
 ```mermaid
 xychart-beta
-    title "automagik-si/genie 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-18"]
+    title "automagik-si/genie 星数(近 4 点)"
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19"]
     y-axis "stars" 351 --> 355
-    line [352, 353, 354]
+    line [352, 353, 354, 354]
 ```
 
-2026-11-10 352 → 2026-11-18 354（+2）
+2026-11-10 352 → 2026-11-19 354（+2）
 
 
 ---

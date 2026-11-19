@@ -43,13 +43,13 @@ hls4ml 项目的教程仓库，以 Jupyter 笔记本形式提供机器学习模�
 
 ```mermaid
 xychart-beta
-    title "fastmachinelearning/hls4ml-tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    title "fastmachinelearning/hls4ml-tutorial 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 451 --> 455
-    line [452, 453, 454]
+    line [452, 453, 454, 454]
 ```
 
-2026-10-18 452 → 2026-11-18 454（+2）
+2026-10-18 452 → 2026-11-19 454（+2）
 
 
 ---

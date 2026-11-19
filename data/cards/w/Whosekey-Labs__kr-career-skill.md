@@ -1,6 +1,6 @@
 # Whosekey-Labs/kr-career-skill
 
-⭐ 18 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Whosekey-Labs/kr-career-skill) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Whosekey-Labs/kr-career-skill) · 个人维护
 
 **韩国求职者用的 AI 代理技能：找岗位、分析公司、写自荐书**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Whosekey-Labs/kr-career-skill 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 11 --> 19
-    line [12, 13, 18, 18]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 11 --> 21
+    line [12, 13, 18, 20]
 ```
 
-2026-11-13 12 → 2026-11-18 18（+6）
+2026-11-13 12 → 2026-11-19 20（+8）
 
 
 ---

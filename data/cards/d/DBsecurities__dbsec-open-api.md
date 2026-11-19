@@ -1,6 +1,6 @@
 # DBsecurities/dbsec-open-api
 
-⭐ 18 · Python · 推送 2026-08-20 · [GitHub](https://github.com/DBsecurities/dbsec-open-api) · [官网](https://openapi.dbsec.co.kr/) · 组织维护
+⭐ 19 · Python · 推送 2026-08-20 · [GitHub](https://github.com/DBsecurities/dbsec-open-api) · [官网](https://openapi.dbsec.co.kr/) · 组织维护
 
 **DB证券官方 Open API 的 Python SDK、示例与 MCP 服务集合**
 
@@ -46,12 +46,12 @@ DB证券官方提供的 Open API Python 库与示例集合：异步客户端 DBS
 ```mermaid
 xychart-beta
     title "DBsecurities/dbsec-open-api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 14 --> 19
-    line [15, 17, 15, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 14 --> 20
+    line [15, 17, 15, 17, 18, 19]
 ```
 
-2026-10-18 15 → 2026-11-18 18（+3）
+2026-10-18 15 → 2026-11-19 19（+4）
 
 
 ---

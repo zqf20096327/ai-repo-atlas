@@ -1,6 +1,6 @@
 # david-xinyuwei/david-share
 
-⭐ 451 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/david-xinyuwei/david-share) · 个人维护 · 中文 README
+⭐ 450 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/david-xinyuwei/david-share) · 个人维护 · 中文 README
 
 **个人 AI Agents 与深度学习实战项目集合：代码、基准与讲解**
 
@@ -45,12 +45,12 @@ Microsoft 系统工程师魏新宇的个人仓库，汇集 AI Agent 与深度学
 ```mermaid
 xychart-beta
     title "david-xinyuwei/david-share 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 449 --> 452
-    line [450, 451, 451]
+    line [450, 451, 450]
 ```
 
-2026-11-14 450 → 2026-11-18 451（+1）
+2026-11-14 450 → 2026-11-19 450（+0）
 
 
 ---

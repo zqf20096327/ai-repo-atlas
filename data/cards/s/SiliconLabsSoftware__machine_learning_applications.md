@@ -1,6 +1,6 @@
 # SiliconLabsSoftware/machine_learning_applications
 
-⭐ 12 · C · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/SiliconLabsSoftware/machine_learning_applications) · 组织维护
+⭐ 13 · C · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/SiliconLabsSoftware/machine_learning_applications) · 组织维护
 
 **Silicon Labs 设备的嵌入式 TinyML 应用示例合集**
 
@@ -45,12 +45,12 @@ Silicon Labs 维护的嵌入式机器学习应用集合，按用例类别组织�
 ```mermaid
 xychart-beta
     title "SiliconLabsSoftware/machine_learning_applications 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 13（+1）
 
 
 ---

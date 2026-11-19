@@ -1,6 +1,6 @@
 # harshithsunku/learn-jev-end-to-end
 
-⭐ 21 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/harshithsunku/learn-jev-end-to-end) · [官网](https://harshithsunku.github.io/learn-jev-end-to-end/) · 个人维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/harshithsunku/learn-jev-end-to-end) · [官网](https://harshithsunku.github.io/learn-jev-end-to-end/) · 个人维护
 
 **免费动手课程：用 Jev 决策模型与 LLM 构建 13 个 AI agent 用例**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "harshithsunku/learn-jev-end-to-end 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 16 --> 22
-    line [17, 18, 19, 20, 21, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 16 --> 23
+    line [17, 18, 19, 20, 21, 20, 21, 22]
 ```
 
-2026-10-18 17 → 2026-11-18 21（+4）
+2026-10-18 17 → 2026-11-19 22（+5）
 
 
 ---

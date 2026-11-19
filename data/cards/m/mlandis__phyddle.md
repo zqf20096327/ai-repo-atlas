@@ -1,6 +1,6 @@
 # mlandis/phyddle
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/mlandis/phyddle) · [官网](https://phyddle.org) · 组织维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/mlandis/phyddle) · [官网](https://phyddle.org) · 组织维护
 
 **用深度学习探索系统发育模型的科研流水线工具**
 
@@ -45,12 +45,12 @@ phyddle 是一套用深度学习做系统发育（phylogenetic）模型推断的
 ```mermaid
 xychart-beta
     title "mlandis/phyddle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

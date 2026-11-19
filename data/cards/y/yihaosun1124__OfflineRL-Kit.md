@@ -1,6 +1,6 @@
 # yihaosun1124/OfflineRL-Kit
 
-⭐ 393 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/yihaosun1124/OfflineRL-Kit) · 组织维护
+⭐ 394 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/yihaosun1124/OfflineRL-Kit) · 组织维护
 
 **面向科研人员的 PyTorch 离线强化学习算法库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yihaosun1124/OfflineRL-Kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 392 --> 394
-    line [393, 393]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 392 --> 395
+    line [393, 394]
 ```
 
-2026-10-18 393 → 2026-11-18 393（+0）
+2026-10-18 393 → 2026-11-19 394（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # TurboKach/claude-code-setup
 
-⭐ 11 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/TurboKach/claude-code-setup) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/TurboKach/claude-code-setup) · 个人维护
 
 **Claude Code 多智能体编排配置套件：规划→执行→评审→合并流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TurboKach/claude-code-setup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

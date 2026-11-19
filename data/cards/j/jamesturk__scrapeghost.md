@@ -1,6 +1,6 @@
 # jamesturk/scrapeghost
 
-⭐ 1,441 · Python · NOASSERTION · 推送 2026-01-14 · [GitHub](https://github.com/jamesturk/scrapeghost) · [官网](https://jamesturk.github.io/scrapeghost/) · 个人维护
+⭐ 1,440 · Python · NOASSERTION · 推送 2026-01-14 · [GitHub](https://github.com/jamesturk/scrapeghost) · [官网](https://jamesturk.github.io/scrapeghost/) · 个人维护
 
 **用 GPT API 抓取网页并结构化提取数据的 Python 库（已停止维护）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jamesturk/scrapeghost 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
+    title "jamesturk/scrapeghost 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-19"]
     y-axis "stars" 1438 --> 1443
-    line [1439, 1440, 1439, 1441, 1442, 1441]
+    line [1439, 1440, 1439, 1441, 1442, 1441, 1440]
 ```
 
-2026-10-18 1,439 → 2026-11-18 1,441（+2）
+2026-10-18 1,439 → 2026-11-19 1,440（+1）
 
 
 ---

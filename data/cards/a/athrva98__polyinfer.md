@@ -46,12 +46,12 @@ PolyInfer 提供 Python API 与 CLI，通过统一接口在同一代码下调用
 ```mermaid
 xychart-beta
     title "athrva98/polyinfer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

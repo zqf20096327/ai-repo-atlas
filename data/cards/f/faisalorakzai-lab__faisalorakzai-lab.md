@@ -1,6 +1,6 @@
 # faisalorakzai-lab/faisalorakzai-lab
 
-⭐ 11 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/faisalorakzai-lab/faisalorakzai-lab) · [官网](https://orakzai-group.github.io) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人 GitHub 主页：计算机科学家/企业家的研究兴趣与项目档案**
 
@@ -11,7 +11,7 @@ Muhammad Faisal Orakzai（Orakzai Group 创始人）的 GitHub 个人主页 READ
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

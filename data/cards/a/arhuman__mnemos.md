@@ -1,6 +1,6 @@
 # arhuman/mnemos
 
-⭐ 19 · Go · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/arhuman/mnemos) · [官网](https://www.doolta.com/en/project/mnemos/) · 个人维护
+⭐ 19 · Go · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/arhuman/mnemos) · [官网](https://www.doolta.com/en/project/mnemos/) · 个人维护
 
 **本地优先的 MCP 记忆服务器：为 AI agent 提供可引用出处的项目记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arhuman/mnemos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-18 19（+1）
+2026-10-18 18 → 2026-11-19 19（+1）
 
 
 ---

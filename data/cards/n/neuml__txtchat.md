@@ -1,6 +1,6 @@
 # neuml/txtchat
 
-⭐ 340 · Python · Apache-2.0 · 推送 2026-02-13 · [GitHub](https://github.com/neuml/txtchat) · 个人维护
+⭐ 339 · Python · Apache-2.0 · 推送 2026-02-13 · [GitHub](https://github.com/neuml/txtchat) · 个人维护
 
 **构建接入聊天平台的本地 AI 对话助手框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neuml/txtchat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
     y-axis "stars" 338 --> 341
-    line [339, 340, 340]
+    line [339, 340, 339]
 ```
 
-2026-10-18 339 → 2026-11-18 340（+1）
+2026-10-18 339 → 2026-11-19 339（+0）
 
 
 ---

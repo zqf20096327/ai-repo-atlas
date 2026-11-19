@@ -1,6 +1,6 @@
 # urmsandeep/DevOps-Lab-Manual
 
-⭐ 12 · 推送 2025-11-22 · [GitHub](https://github.com/urmsandeep/DevOps-Lab-Manual) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向本科生的 DevOps 课程实验手册与练习集**
 

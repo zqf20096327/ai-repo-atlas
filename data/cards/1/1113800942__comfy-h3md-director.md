@@ -1,6 +1,6 @@
 # 1113800942/comfy-h3md-director
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/1113800942/comfy-h3md-director) · [官网](https://registry.comfy.org/nodes/comfyui-h3md-director) · 个人维护 · 中文 README
+⭐ 26 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/1113800942/comfy-h3md-director) · [官网](https://registry.comfy.org/nodes/comfyui-h3md-director) · 个人维护 · 中文 README
 
 **ComfyUI 节点集：用 MiniMax H3 一次生成 2 分钟以上多镜头长视频**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "1113800942/comfy-h3md-director 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 7 --> 25
-    line [8, 17, 20, 21, 23, 24, 24]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 7 --> 27
+    line [8, 17, 20, 21, 23, 24, 26]
 ```
 
-2026-11-02 8 → 2026-11-18 24（+16）
+2026-11-02 8 → 2026-11-19 26（+18）
 
 
 ---

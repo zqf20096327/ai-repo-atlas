@@ -1,6 +1,6 @@
 # sinanuozdemir/building-agentic-ai
 
-⭐ 98 · Jupyter Notebook · 推送 2026-02-05 · [GitHub](https://github.com/sinanuozdemir/building-agentic-ai) · [官网](https://a.co/d/eaTeURV) · 个人维护
+⭐ 99 · Jupyter Notebook · 推送 2026-02-05 · [GitHub](https://github.com/sinanuozdemir/building-agentic-ai) · [官网](https://a.co/d/eaTeURV) · 个人维护
 
 **《Applied AI》图书配套代码仓库：LLM/Agent/RAG 实战案例集**
 
@@ -46,12 +46,12 @@ Sinan Ozdemir 所著《Applied AI》（O'Reilly/Pearson）的官方代码仓库�
 ```mermaid
 xychart-beta
     title "sinanuozdemir/building-agentic-ai 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 91 --> 99
-    line [92, 93, 94, 95, 97, 94, 97, 98, 98]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 91 --> 100
+    line [92, 93, 94, 95, 97, 94, 97, 98, 99]
 ```
 
-2026-10-18 92 → 2026-11-18 98（+6）
+2026-10-18 92 → 2026-11-19 99（+7）
 
 
 ---

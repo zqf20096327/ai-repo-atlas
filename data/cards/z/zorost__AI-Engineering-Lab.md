@@ -1,6 +1,6 @@
 # zorost/AI-Engineering-Lab
 
-⭐ 320 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zorost/AI-Engineering-Lab) · [官网](https://zorost.com/ai-engineering-lab) · 组织维护
+⭐ 321 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zorost/AI-Engineering-Lab) · [官网](https://zorost.com/ai-engineering-lab) · 组织维护
 
 **24 周 AI 工程自学课程：从 Python 到 LLM、Agent 与云平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zorost/AI-Engineering-Lab 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 313 --> 321
-    line [318, 317, 318, 319, 314, 315, 316, 318, 315, 318, 319, 320]
+    title "zorost/AI-Engineering-Lab 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 313 --> 322
+    line [318, 317, 318, 319, 314, 315, 316, 318, 315, 318, 319, 320, 321]
 ```
 
-2026-10-18 318 → 2026-11-18 320（+2）
+2026-10-18 318 → 2026-11-19 321（+3）
 
 
 ---

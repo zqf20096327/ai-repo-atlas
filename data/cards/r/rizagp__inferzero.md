@@ -1,6 +1,6 @@
 # rizagp/inferzero
 
-⭐ 36 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/rizagp/inferzero) · [官网](https://rizagp.github.io/inferzero/) · 个人维护
+⭐ 53 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/rizagp/inferzero) · [官网](https://rizagp.github.io/inferzero/) · 个人维护
 
 **面向 Intel 核显的从零编写的本地 LLM 推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rizagp/inferzero 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 3 --> 39
-    line [6, 11, 13, 14, 15, 16, 23, 36]
+    title "rizagp/inferzero 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 2 --> 57
+    line [6, 11, 13, 14, 15, 16, 23, 36, 53]
 ```
 
-2026-11-10 6 → 2026-11-18 36（+30）
+2026-11-10 6 → 2026-11-19 53（+47）
 
 
 ---

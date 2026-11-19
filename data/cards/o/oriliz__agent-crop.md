@@ -1,6 +1,6 @@
 # oriliz/agent-crop
 
-⭐ 18 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/oriliz/agent-crop) · 个人维护 · 中文 README
+⭐ 61 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/oriliz/agent-crop) · 个人维护 · 中文 README
 
 **AI 编程助手的时间观测与自改进插件：本地记录时间去向并写回改进**
 
@@ -39,6 +39,18 @@
 
 > L92: - **起点**：会话开始。探针先往上下文里注一句——**创建 / 绑定工作项**，然后才开始记东西。
 > L97: - **超时**：到点先记一次超时提醒，再注入一句鞭策（图上红色那一对，鞭策带个小鞭子）；被抽完，AI 要**反思与上报**——调 `crop_update` 写下 `cause` / `verdict` / `category`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "oriliz/agent-crop 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 14 --> 65
+    line [18, 61]
+```
+
+2026-11-18 18 → 2026-11-19 61（+43）
 
 
 ---

@@ -45,12 +45,12 @@ Hugging Face 维护的部署决策工具：给定一组带趋势分数（trendin
 ```mermaid
 xychart-beta
     title "huggingface/trending-deploy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

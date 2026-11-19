@@ -1,6 +1,6 @@
 # Nbill27/muse-opencode
 
-⭐ 18 · Python · 推送 2026-11-04 · [GitHub](https://github.com/Nbill27/muse-opencode) · 个人维护
+⭐ 17 · Python · 推送 2026-11-04 · [GitHub](https://github.com/Nbill27/muse-opencode) · 个人维护
 
 **把 muse.ai 网页聊天封装成 OpenAI 兼容 API 的本地中继**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Nbill27/muse-opencode 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
     y-axis "stars" 14 --> 19
-    line [15, 17, 18, 18]
+    line [15, 17, 18, 17]
 ```
 
-2026-11-08 15 → 2026-11-18 18（+3）
+2026-11-08 15 → 2026-11-19 17（+2）
 
 
 ---

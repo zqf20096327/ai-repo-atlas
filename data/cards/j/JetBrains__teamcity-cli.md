@@ -1,6 +1,6 @@
 # JetBrains/teamcity-cli
 
-⭐ 131 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/JetBrains/teamcity-cli) · [官网](https://jb.gg/tc/docs) · 组织维护
+⭐ 131 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/JetBrains/teamcity-cli) · [官网](https://jb.gg/tc/docs) · 组织维护
 
 **JetBrains 官方 TeamCity 命令行客户端，含 AI agent 技能**
 
@@ -45,12 +45,12 @@ Go 编写的 TeamCity 官方 CLI，覆盖构建运行与查看、日志跟踪、
 ```mermaid
 xychart-beta
     title "JetBrains/teamcity-cli 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 126 --> 132
     line [127, 128, 129, 130, 128, 130, 131, 131]
 ```
 
-2026-10-18 127 → 2026-11-18 131（+4）
+2026-10-18 127 → 2026-11-19 131（+4）
 
 
 ---

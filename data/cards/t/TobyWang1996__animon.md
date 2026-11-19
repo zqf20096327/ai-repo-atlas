@@ -1,6 +1,6 @@
 # TobyWang1996/animon
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/TobyWang1996/animon) · 组织维护 · 中文 README
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TobyWang1996/animon) · 组织维护 · 中文 README
 
 **带角色、长期记忆与关系状态的 AI 陪伴对话原型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TobyWang1996/animon 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 4 --> 24
-    line [5, 19, 23]
+    title "TobyWang1996/animon 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 3 --> 33
+    line [5, 19, 23, 31]
 ```
 
-2026-11-15 5 → 2026-11-18 23（+18）
+2026-11-15 5 → 2026-11-19 31（+26）
 
 
 ---

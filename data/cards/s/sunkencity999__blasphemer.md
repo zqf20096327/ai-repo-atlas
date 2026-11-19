@@ -1,6 +1,6 @@
 # sunkencity999/blasphemer
 
-⭐ 35 · Python · AGPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/sunkencity999/blasphemer) · 个人维护
+⭐ 36 · Python · AGPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/sunkencity999/blasphemer) · 个人维护
 
 **macOS 优化版 LLM 去审查工具：abliteration+LoRA+断点续跑**
 
@@ -46,12 +46,12 @@ Heretic 的增强分支，面向 macOS（Apple Silicon）用户：通过方向�
 ```mermaid
 xychart-beta
     title "sunkencity999/blasphemer 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 30 --> 36
-    line [31, 32, 33, 34, 35, 33, 35, 35]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 30 --> 37
+    line [31, 32, 33, 34, 35, 33, 35, 36]
 ```
 
-2026-10-18 31 → 2026-11-18 35（+4）
+2026-10-18 31 → 2026-11-19 36（+5）
 
 
 ---

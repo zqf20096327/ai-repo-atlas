@@ -1,6 +1,6 @@
 # zxpmail/ReqForge
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/zxpmail/ReqForge) · [官网](https://github.com/zxpmail/ReqForge#readme) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/zxpmail/ReqForge) · [官网](https://github.com/zxpmail/ReqForge#readme) · 个人维护 · 中文 README
 
 **面向创始人与独立开发者的 Agent Harness：约束 Claude Code 等 AI 客户端按 Spec→Plan→Build 交付产品**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zxpmail/ReqForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # innocommerce/innoshop
 
-⭐ 671 · PHP · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/innocommerce/innoshop) · [官网](https://www.innoshop.com) · 组织维护 · 中文 README
+⭐ 671 · PHP · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/innocommerce/innoshop) · [官网](https://www.innoshop.com) · 组织维护 · 中文 README
 
 **基于 Laravel 13 的开源电商系统，集成多 AI 模型与原生 MCP**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "innocommerce/innoshop 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 662 --> 672
     line [663, 664, 665, 667, 664, 670, 671, 671]
 ```
 
-2026-10-18 663 → 2026-11-18 671（+8）
+2026-10-18 663 → 2026-11-19 671（+8）
 
 
 ---

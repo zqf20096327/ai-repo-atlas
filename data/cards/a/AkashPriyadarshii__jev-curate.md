@@ -1,6 +1,6 @@
 # AkashPriyadarshii/jev-curate
 
-⭐ 112 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/AkashPriyadarshii/jev-curate) · [官网](https://jev-curate.vercel.app) · 个人维护
+⭐ 114 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/AkashPriyadarshii/jev-curate) · [官网](https://jev-curate.vercel.app) · 个人维护
 
 **开发者用的高吞吐合成/预训练数据集筛选 CLI 与 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AkashPriyadarshii/jev-curate 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 107 --> 113
-    line [108, 110, 111, 112, 112]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 107 --> 115
+    line [108, 110, 111, 112, 114]
 ```
 
-2026-11-08 108 → 2026-11-18 112（+4）
+2026-11-08 108 → 2026-11-19 114（+6）
 
 
 ---

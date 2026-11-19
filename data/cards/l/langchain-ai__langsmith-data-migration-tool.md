@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-data-migration-tool
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/langchain-ai/langsmith-data-migration-tool) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/langchain-ai/langsmith-data-migration-tool) · 组织维护
 
 **LangSmith 实例间数据迁移 CLI：迁移用户/数据集/实验/提示词等**
 
@@ -45,12 +45,12 @@ Python 命令行工具，面向 LangSmith 云端与自部署工作区用户，�
 ```mermaid
 xychart-beta
     title "langchain-ai/langsmith-data-migration-tool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/AzureDataRetrievalAugmentedGenerationSamples 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-19"]
     y-axis "stars" 176 --> 178
     line [177, 177]
 ```
 
-2026-11-13 177 → 2026-11-18 177（+0）
+2026-11-13 177 → 2026-11-19 177（+0）
 
 
 ---

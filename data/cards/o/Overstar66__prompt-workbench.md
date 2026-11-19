@@ -1,6 +1,6 @@
 # Overstar66/prompt-workbench
 
-⭐ 49 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Overstar66/prompt-workbench) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Overstar66/prompt-workbench) · 个人维护 · 中文 README
 
 **本地动漫提示词工作台：图反推、AI 扩写、标签拼装**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Overstar66/prompt-workbench 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 53
-    line [3, 6, 15, 25, 32, 38, 43, 49]
+    title "Overstar66/prompt-workbench 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 61
+    line [3, 6, 15, 25, 32, 38, 43, 49, 56]
 ```
 
-2026-11-10 3 → 2026-11-18 49（+46）
+2026-11-10 3 → 2026-11-19 56（+53）
 
 
 ---

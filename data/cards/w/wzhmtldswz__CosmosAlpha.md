@@ -1,6 +1,6 @@
 # wzhmtldswz/CosmosAlpha
 
-⭐ 11 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/wzhmtldswz/CosmosAlpha) · [官网](https://arxiv.org/abs/2611.04555) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/wzhmtldswz/CosmosAlpha) · [官网](https://arxiv.org/abs/2611.04555) · 个人维护 · 中文 README
 
 **面向量化研究者，用 LLM 挖掘 Alpha 因子的框架**
 
@@ -45,12 +45,12 @@ CosmosAlpha 将因子池组织为多关系图（生成谱系、表达式结构�
 ```mermaid
 xychart-beta
     title "wzhmtldswz/CosmosAlpha 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 4 --> 12
-    line [5, 8, 10, 11, 11]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 4 --> 13
+    line [5, 8, 10, 11, 12]
 ```
 
-2026-11-08 5 → 2026-11-18 11（+6）
+2026-11-08 5 → 2026-11-19 12（+7）
 
 
 ---

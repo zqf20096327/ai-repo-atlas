@@ -1,6 +1,6 @@
 # mathLab/ATHENA
 
-⭐ 55 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/mathLab/ATHENA) · [官网](https://mathlab.github.io/ATHENA/) · 组织维护
+⭐ 56 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/mathLab/ATHENA) · [官网](https://mathlab.github.io/ATHENA/) · 组织维护
 
 **数值分析中高维参数空间降维的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mathLab/ATHENA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 56]
 ```
 
-2026-10-18 54 → 2026-11-18 55（+1）
+2026-10-18 54 → 2026-11-19 56（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ldclabs/anda-db
 
-⭐ 33 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ldclabs/anda-db) · [官网](https://anda.ai) · 组织维护 · 中文 README
+⭐ 33 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ldclabs/anda-db) · [官网](https://anda.ai) · 组织维护 · 中文 README
 
 **面向 AI Agent 记忆的 Rust 嵌入式数据库与 KIP 协议引擎**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ldclabs/anda-db 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 30 --> 34
     line [31, 33, 31, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-18 33（+2）
+2026-10-18 31 → 2026-11-19 33（+2）
 
 
 ---

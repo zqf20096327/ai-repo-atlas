@@ -1,6 +1,6 @@
 # modelscope/DiffSynth-ComfyUI
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/modelscope/DiffSynth-ComfyUI) · 组织维护 · 中文 README
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/modelscope/DiffSynth-ComfyUI) · 组织维护 · 中文 README
 
 **将 DiffSynth-Studio 生成能力接入 ComfyUI 的自定义节点插件**
 
@@ -45,12 +45,12 @@ ModelScope 维护的 ComfyUI 自定义节点插件：把 DiffSynth-Studio 的模
 ```mermaid
 xychart-beta
     title "modelscope/DiffSynth-ComfyUI 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 11, 12, 12]
+    line [10, 11, 12, 13, 11, 12, 13]
 ```
 
-2026-10-22 10 → 2026-11-18 12（+2）
+2026-10-22 10 → 2026-11-19 13（+3）
 
 
 ---

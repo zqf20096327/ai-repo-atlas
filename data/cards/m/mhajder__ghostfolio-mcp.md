@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mhajder/ghostfolio-mcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-18"]
+    title "mhajder/ghostfolio-mcp 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-18", "2026-11-19"]
     y-axis "stars" 20 --> 23
-    line [22, 21]
+    line [22, 21, 21]
 ```
 
-2026-10-19 22 → 2026-11-18 21（-1）
+2026-10-19 22 → 2026-11-19 21（-1）
 
 
 ---

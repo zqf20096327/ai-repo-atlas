@@ -1,6 +1,6 @@
 # hotchpotch/open_provence
 
-⭐ 70 · Python · MIT · 推送 2025-11-22 · [GitHub](https://github.com/hotchpotch/open_provence) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **开源上下文剪枝重排模型：为 RAG 删除无关上下文并打相关性分**
 
@@ -11,7 +11,7 @@ Provence 式 reranker–pruner 模型的开源实现：在检索增强生成流�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

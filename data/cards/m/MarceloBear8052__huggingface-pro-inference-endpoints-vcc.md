@@ -1,6 +1,6 @@
 # MarceloBear8052/huggingface-pro-inference-endpoints-vcc
 
-⭐ 36 · 推送 2026-11-11 · [GitHub](https://github.com/MarceloBear8052/huggingface-pro-inference-endpoints-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 40 · 推送 2026-11-11 · [GitHub](https://github.com/MarceloBear8052/huggingface-pro-inference-endpoints-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **CoreGold 虚拟卡开通 Hugging Face Pro 与推理端点的付费指南**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarceloBear8052/huggingface-pro-inference-endpoints-vcc 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 9 --> 38
-    line [11, 16, 22, 21, 32, 36]
+    title "MarceloBear8052/huggingface-pro-inference-endpoints-vcc 星数(近 7 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 42
+    line [11, 16, 22, 21, 32, 36, 40]
 ```
 
-2026-11-11 11 → 2026-11-18 36（+25）
+2026-11-11 11 → 2026-11-19 40（+29）
 
 
 ---

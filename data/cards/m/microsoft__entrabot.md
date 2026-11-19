@@ -1,6 +1,6 @@
 # microsoft/entrabot
 
-⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/entrabot) · [官网](https://microsoft.github.io/entrabot/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/entrabot) · [官网](https://microsoft.github.io/entrabot/) · 组织维护
 
 **给设备本地 AI agent 分配 Microsoft Entra 身份的 MCP 服务器参考实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/entrabot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

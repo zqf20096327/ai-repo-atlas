@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-gen-py
 
-⭐ 116 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/langchain-ai/langgraph-gen-py) · 组织维护
+⭐ 117 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/langchain-ai/langgraph-gen-py) · 组织维护
 
 **从 YAML 规格生成 LangGraph 存根代码的 CLI 工具**
 
@@ -43,12 +43,12 @@ LangChain 官方组织下的命令行工具：读取 YAML 规格文件（如定�
 ```mermaid
 xychart-beta
     title "langchain-ai/langgraph-gen-py 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 113 --> 117
-    line [114, 115, 116, 116]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 113 --> 118
+    line [114, 115, 116, 117]
 ```
 
-2026-10-18 114 → 2026-11-18 116（+2）
+2026-10-18 114 → 2026-11-19 117（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # pjmbatman/ml4sci
 
-⭐ 18 · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/pjmbatman/ml4sci) · [官网](https://ml4sci.com) · 个人维护
+⭐ 18 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/pjmbatman/ml4sci) · [官网](https://ml4sci.com) · 个人维护
 
 **面向科研人员的机器学习入门交互式教材（226章，浏览器运行）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pjmbatman/ml4sci 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19"]
     y-axis "stars" 8 --> 19
     line [9, 15, 18, 18]
 ```
 
-2026-11-11 9 → 2026-11-18 18（+9）
+2026-11-11 9 → 2026-11-19 18（+9）
 
 
 ---

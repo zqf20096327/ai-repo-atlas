@@ -1,6 +1,6 @@
 # pardnchiu/ToriiDB
 
-⭐ 31 · Go · MIT · 推送 2026-10-06 · [GitHub](https://github.com/pardnchiu/ToriiDB) · [官网](https://toriidb.pardn.io) · 个人维护 · 中文 README
+⭐ 36 · Go · MIT · 推送 2026-10-06 · [GitHub](https://github.com/pardnchiu/ToriiDB) · [官网](https://toriidb.pardn.io) · 个人维护 · 中文 README
 
 **Go 嵌入式 JSON KV 数据库，带向量搜索与 Redis 风格命令**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pardnchiu/ToriiDB 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 11 --> 32
-    line [12, 15, 17, 20, 22, 25, 27, 31]
+    title "pardnchiu/ToriiDB 星数(近 9 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 38
+    line [12, 15, 17, 20, 22, 25, 27, 31, 36]
 ```
 
-2026-11-02 12 → 2026-11-18 31（+19）
+2026-11-02 12 → 2026-11-19 36（+24）
 
 
 ---

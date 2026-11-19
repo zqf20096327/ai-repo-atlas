@@ -1,6 +1,6 @@
 # roboflow/roboflow-python
 
-⭐ 641 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/roboflow/roboflow-python) · [官网](https://docs.roboflow.com/python) · 组织维护
+⭐ 642 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/roboflow/roboflow-python) · [官网](https://docs.roboflow.com/python) · 组织维护
 
 **Roboflow 官方 Python 包：管理视觉数据集、模型训练与推理部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "roboflow/roboflow-python 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
     y-axis "stars" 633 --> 643
-    line [634, 635, 636, 637, 638, 636, 641, 642, 641, 641]
+    line [634, 635, 636, 637, 638, 636, 641, 642, 641, 642]
 ```
 
-2026-10-18 634 → 2026-11-18 641（+7）
+2026-10-18 634 → 2026-11-19 642（+8）
 
 
 ---

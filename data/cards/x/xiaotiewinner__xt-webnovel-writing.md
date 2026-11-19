@@ -1,6 +1,6 @@
 # xiaotiewinner/xt-webnovel-writing
 
-⭐ 24 · TypeScript · 推送 2026-04-30 · [GitHub](https://github.com/xiaotiewinner/xt-webnovel-writing) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · 推送 2026-04-30 · [GitHub](https://github.com/xiaotiewinner/xt-webnovel-writing) · 个人维护 · 中文 README
 
 **中文网文写作 agent skill：从拆解参考到长篇连载的流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiaotiewinner/xt-webnovel-writing 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-18"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-19"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-18 22 → 2026-11-18 24（+2）
+2026-10-18 22 → 2026-11-19 25（+3）
 
 
 ---

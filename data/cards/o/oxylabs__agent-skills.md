@@ -1,6 +1,6 @@
 # oxylabs/agent-skills
 
-⭐ 878 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/oxylabs/agent-skills) · 组织维护
+⭐ 878 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/oxylabs/agent-skills) · 组织维护
 
 **Oxylabs 官方 AI agent 技能集：让 agent 接入代理与采集服务**
 
@@ -45,12 +45,12 @@ Oxylabs 官方维护的 agent 技能仓库，包含 5 个技能：Proxies（住�
 ```mermaid
 xychart-beta
     title "oxylabs/agent-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-19"]
     y-axis "stars" 875 --> 879
     line [876, 877, 878, 876, 877, 878, 878]
 ```
 
-2026-10-18 876 → 2026-11-18 878（+2）
+2026-10-18 876 → 2026-11-19 878（+2）
 
 
 ---

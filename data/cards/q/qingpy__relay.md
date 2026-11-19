@@ -1,6 +1,6 @@
 # qingpy/relay
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/qingpy/relay) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/qingpy/relay) · 个人维护 · 中文 README
 
 **浏览器中运行的个人 LLM 聊天界面，自托管、数据单文件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qingpy/relay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-18 14（+0）
+2026-10-18 14 → 2026-11-19 14（+0）
 
 
 ---

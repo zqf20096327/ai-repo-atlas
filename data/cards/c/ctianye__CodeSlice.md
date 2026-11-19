@@ -1,6 +1,6 @@
 # ctianye/CodeSlice
 
-⭐ 25 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ctianye/CodeSlice) · [官网](https://github.com/ctianye/CodeSlice/releases/latest) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ctianye/CodeSlice) · [官网](https://github.com/ctianye/CodeSlice/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的 AI 代码阅读桌面应用，回答带可点击源码引用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ctianye/CodeSlice 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18"]
+    title "ctianye/CodeSlice 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19"]
     y-axis "stars" 6 --> 26
-    line [7, 15, 18, 20, 22, 24, 25]
+    line [7, 15, 18, 20, 22, 24, 25, 25]
 ```
 
-2026-11-08 7 → 2026-11-18 25（+18）
+2026-11-08 7 → 2026-11-19 25（+18）
 
 
 ---

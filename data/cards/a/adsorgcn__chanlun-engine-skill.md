@@ -1,6 +1,6 @@
 # adsorgcn/chanlun-engine-skill
 
-⭐ 20 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/adsorgcn/chanlun-engine-skill) · [官网](https://ilang.app) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/adsorgcn/chanlun-engine-skill) · [官网](https://ilang.app) · 个人维护 · 中文 README
 
 **让 AI 助手对 A 股做缠论结构分析与买卖点判定的技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adsorgcn/chanlun-engine-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-11-18 20（+2）
+2026-10-18 18 → 2026-11-19 21（+3）
 
 
 ---

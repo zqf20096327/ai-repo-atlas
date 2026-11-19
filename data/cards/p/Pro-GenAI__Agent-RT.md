@@ -1,6 +1,6 @@
 # Pro-GenAI/Agent-RT
 
-⭐ 25 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Pro-GenAI/Agent-RT) · [官网](https://agent-rt.pro-genai.com) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Pro-GenAI/Agent-RT) · [官网](https://agent-rt.pro-genai.com) · 组织维护
 
 **Python/TypeScript 的轻量 AI agent 运行时，内置安全与生产控制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Pro-GenAI/Agent-RT 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-29", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-19"]
     y-axis "stars" 2 --> 27
-    line [4, 6, 14, 25, 25]
+    line [4, 6, 14, 25, 23]
 ```
 
-2026-10-29 4 → 2026-11-18 25（+21）
+2026-10-29 4 → 2026-11-19 23（+19）
 
 
 ---

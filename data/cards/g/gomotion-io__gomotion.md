@@ -1,6 +1,6 @@
 # gomotion-io/gomotion
 
-⭐ 12 · TypeScript · 推送 2026-10-06 · [GitHub](https://github.com/gomotion-io/gomotion) · [官网](https://www.gomotion.io/) · 组织维护
+⭐ 13 · TypeScript · 推送 2026-10-06 · [GitHub](https://github.com/gomotion-io/gomotion) · [官网](https://www.gomotion.io/) · 组织维护
 
 **从单条提示词生成动画视频的动效设计 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gomotion-io/gomotion 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 10 --> 13
-    line [11, 12]
+    title "gomotion-io/gomotion 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-11-16 11 → 2026-11-18 12（+1）
+2026-11-16 11 → 2026-11-19 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # shadok-ai/shadok-ai
 
-⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/shadok-ai/shadok-ai) · [官网](https://shadok.ai) · 组织维护
+⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/shadok-ai/shadok-ai) · [官网](https://shadok.ai) · 组织维护
 
 **并行运行与管控多个 Claude Code agent 的驾驶舱工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shadok-ai/shadok-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 15
     line [10, 11, 12, 13, 11, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-18 14（+4）
+2026-10-18 10 → 2026-11-19 14（+4）
 
 
 ---

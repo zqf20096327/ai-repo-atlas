@@ -1,6 +1,6 @@
 # Teycir/ArxivExplorer
 
-⭐ 37 · TypeScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/Teycir/ArxivExplorer) · [官网](https://arxivexplorer.arxivexplorer.workers.dev/) · 个人维护
+⭐ 37 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Teycir/ArxivExplorer) · [官网](https://arxivexplorer.arxivexplorer.workers.dev/) · 个人维护
 
 **arXiv 论文语义检索引擎：混合搜索与 AI 摘要，免登录**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Teycir/ArxivExplorer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-18 37（+0）
+2026-10-18 37 → 2026-11-19 37（+0）
 
 
 ---

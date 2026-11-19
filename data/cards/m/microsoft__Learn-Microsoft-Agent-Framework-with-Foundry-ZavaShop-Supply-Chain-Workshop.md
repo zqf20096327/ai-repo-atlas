@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Learn-Microsoft-Agent-Framework-with-Foundry-ZavaShop-Supply-Chain-Workshop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 46 --> 49
     line [47, 48, 47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-18 48（+1）
+2026-10-18 47 → 2026-11-19 48（+1）
 
 
 ---

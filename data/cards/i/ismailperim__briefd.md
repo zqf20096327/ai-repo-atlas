@@ -1,6 +1,6 @@
 # ismailperim/briefd
 
-⭐ 31 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ismailperim/briefd) · 个人维护
+⭐ 31 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/ismailperim/briefd) · 个人维护
 
 **给 AI 编程团队的自托管上下文编译器，经 MCP 供给编码智能体**
 
@@ -46,12 +46,12 @@ briefd 以 git 仓库中的 Markdown 为知识源，索引为 SQLite（FTS5 BM25
 ```mermaid
 xychart-beta
     title "ismailperim/briefd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-18 31（+0）
+2026-10-18 31 → 2026-11-19 31（+0）
 
 
 ---

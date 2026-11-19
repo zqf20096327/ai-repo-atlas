@@ -1,6 +1,6 @@
 # HnDK0/MiruTime
 
-⭐ 14 · Kotlin · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/HnDK0/MiruTime) · [官网](https://github.com/HnDK0/MiruTime/releases) · 个人维护
+⭐ 16 · Kotlin · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/HnDK0/MiruTime) · [官网](https://github.com/HnDK0/MiruTime/releases) · 个人维护
 
 **Android 上的开源小说/漫画/视频阅读器，支持 Lua 插件源与内置翻译**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "HnDK0/MiruTime 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 4 --> 15
-    line [5, 6, 9, 12, 13, 14]
+    title "HnDK0/MiruTime 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 4 --> 17
+    line [5, 6, 9, 12, 13, 14, 16]
 ```
 
-2026-11-12 5 → 2026-11-18 14（+9）
+2026-11-12 5 → 2026-11-19 16（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # PyTorchKR/tutorials-kr
 
-⭐ 374 · Jupyter Notebook · BSD-3-Clause · 推送 2026-07-28 · [GitHub](https://github.com/PyTorchKR/tutorials-kr) · [官网](http://tutorials.pytorch.kr) · 组织维护
+⭐ 375 · Jupyter Notebook · BSD-3-Clause · 推送 2026-07-28 · [GitHub](https://github.com/PyTorchKR/tutorials-kr) · [官网](http://tutorials.pytorch.kr) · 组织维护
 
 **PyTorch 官方教程的韩语翻译仓库**
 
@@ -45,12 +45,12 @@ PyTorchKR 维护的社区仓库，将 PyTorch 官方教程（基于 pytorch/tuto
 ```mermaid
 xychart-beta
     title "PyTorchKR/tutorials-kr 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 372 --> 378
-    line [377, 373, 377, 374, 374]
+    line [377, 373, 377, 374, 375]
 ```
 
-2026-10-18 377 → 2026-11-18 374（-3）
+2026-10-18 377 → 2026-11-19 375（-2）
 
 
 ---

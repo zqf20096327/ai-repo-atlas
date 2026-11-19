@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/swarms-rs
 
-⭐ 196 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/The-Swarm-Corporation/swarms-rs) · [官网](https://docs.rs/swarms-rs/latest/swarms_rs/) · 组织维护
+⭐ 197 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/The-Swarm-Corporation/swarms-rs) · [官网](https://docs.rs/swarms-rs/latest/swarms_rs/) · 组织维护
 
 **Rust 编写的多 Agent 编排框架，供开发者构建 LLM Agent 系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-Swarm-Corporation/swarms-rs 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 183 --> 197
-    line [184, 185, 187, 189, 191, 185, 193, 194, 195, 196, 196]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 183 --> 198
+    line [184, 185, 187, 189, 191, 185, 193, 194, 195, 196, 197]
 ```
 
-2026-10-18 184 → 2026-11-18 196（+12）
+2026-10-18 184 → 2026-11-19 197（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # 28AXE/etsy-store-full-auto
 
-⭐ 15 · Python · 推送 2026-05-09 · [GitHub](https://github.com/28AXE/etsy-store-full-auto) · 个人维护
+⭐ 16 · Python · 推送 2026-05-09 · [GitHub](https://github.com/28AXE/etsy-store-full-auto) · 个人维护
 
 **Etsy 数字产品多 agent 自动化系统：抓取→分析→生成 PDF→追踪**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "28AXE/etsy-store-full-auto 星数(近 6 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 12, 14, 15, 15]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 12, 14, 15, 16]
 ```
 
-2026-10-31 10 → 2026-11-18 15（+5）
+2026-10-31 10 → 2026-11-19 16（+6）
 
 
 ---

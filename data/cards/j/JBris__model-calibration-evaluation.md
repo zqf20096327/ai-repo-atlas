@@ -1,6 +1,6 @@
 # JBris/model-calibration-evaluation
 
-⭐ 16 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/JBris/model-calibration-evaluation) · [官网](https://jbris.github.io/model-calibration-evaluation/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/JBris/model-calibration-evaluation) · [官网](https://jbris.github.io/model-calibration-evaluation/) · 个人维护
 
 **模型校准方法评测代码：面向灵敏度与贝叶斯推断等任务**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "JBris/model-calibration-evaluation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-18 16（+0）
+2026-10-18 16 → 2026-11-19 16（+0）
 
 
 ---

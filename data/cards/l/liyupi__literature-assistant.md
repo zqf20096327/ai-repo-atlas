@@ -1,6 +1,6 @@
 # liyupi/literature-assistant
 
-⭐ 156 · Java · 推送 2025-12-10 · [GitHub](https://github.com/liyupi/literature-assistant) · [官网](https://www.bilibili.com/video/BV1MnpVzdETW) · 个人维护 · 中文 README
+⭐ 157 · Java · 推送 2025-12-10 · [GitHub](https://github.com/liyupi/literature-assistant) · [官网](https://www.bilibili.com/video/BV1MnpVzdETW) · 个人维护 · 中文 README
 
 **Spring Boot 3 + Vue 的 AI 文献阅读助手后端服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/literature-assistant 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 154 --> 158
-    line [155, 156, 157, 156, 156]
+    line [155, 156, 157, 156, 157]
 ```
 
-2026-10-18 155 → 2026-11-18 156（+1）
+2026-10-18 155 → 2026-11-19 157（+2）
 
 
 ---

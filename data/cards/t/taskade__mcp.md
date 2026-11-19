@@ -1,6 +1,6 @@
 # taskade/mcp
 
-⭐ 170 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/taskade/mcp) · [官网](https://www.taskade.com/docs/mcp) · 组织维护
+⭐ 170 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/taskade/mcp) · [官网](https://www.taskade.com/docs/mcp) · 组织维护
 
 **Taskade 官方 MCP 服务器与 OpenAPI 转 MCP 代码生成器**
 
@@ -46,12 +46,12 @@ Taskade 官方仓库，含两个包：本地 stdio 服务器 @taskade/mcp-server
 ```mermaid
 xychart-beta
     title "taskade/mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-15", "2026-11-19"]
     y-axis "stars" 168 --> 171
     line [169, 170, 169, 170, 170]
 ```
 
-2026-10-18 169 → 2026-11-18 170（+1）
+2026-10-18 169 → 2026-11-19 170（+1）
 
 
 ---

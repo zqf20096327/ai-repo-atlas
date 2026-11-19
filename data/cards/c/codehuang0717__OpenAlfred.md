@@ -1,6 +1,6 @@
 # codehuang0717/OpenAlfred
 
-⭐ 23 · Python · 推送 2026-11-17 · [GitHub](https://github.com/codehuang0717/OpenAlfred) · 个人维护 · 中文 README
+⭐ 23 · Python · 推送 2026-11-18 · [GitHub](https://github.com/codehuang0717/OpenAlfred) · 个人维护 · 中文 README
 
 **自托管的学生 AI 学习助手：笔记问答、主动提醒、长期记忆**
 
@@ -41,6 +41,18 @@
 > L3:  面向学生与自学者的开源 AI 学习助手：主动提醒、记住学习偏好、结合笔记原图答疑
 > L8: **OpenAlfred is an open-source, self-hosted AI study assistant and proactive personal AI agent for students and self
 > L40: 如果你在找 **学生 AI 助手、大学生学习助手、AI study assistant、study companion**，OpenAlfred 把个人笔记问答、学习任务和主动提醒放进同一个助理。适用于课程学习、自学与复习，也可用
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "codehuang0717/OpenAlfred 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-18 23 → 2026-11-19 23（+0）
 
 
 ---

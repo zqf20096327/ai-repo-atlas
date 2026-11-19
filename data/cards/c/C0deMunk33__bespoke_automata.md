@@ -1,6 +1,6 @@
 # C0deMunk33/bespoke_automata
 
-⭐ 223 · JavaScript · GPL-3.0 · 推送 2026-02-23 · [GitHub](https://github.com/C0deMunk33/bespoke_automata) · 个人维护
+⭐ 222 · JavaScript · GPL-3.0 · 推送 2026-02-23 · [GitHub](https://github.com/C0deMunk33/bespoke_automata) · 个人维护
 
 **本地离线设计与部署 AI Agent 的图形化工具（MCP 暴露）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "C0deMunk33/bespoke_automata 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 222 --> 224
-    line [223, 223]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 221 --> 224
+    line [223, 222]
 ```
 
-2026-10-18 223 → 2026-11-18 223（+0）
+2026-10-18 223 → 2026-11-19 222（-1）
 
 
 ---

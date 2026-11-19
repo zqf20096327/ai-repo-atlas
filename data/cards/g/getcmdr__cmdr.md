@@ -1,6 +1,6 @@
 # getcmdr/cmdr
 
-⭐ 137 · Rust · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/getcmdr/cmdr) · [官网](https://getcmdr.com) · 个人维护
+⭐ 137 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/getcmdr/cmdr) · [官网](https://getcmdr.com) · 个人维护
 
 **macOS 键盘驱动双栏文件管理器，AI 功能可选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "getcmdr/cmdr 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18"]
+    title "getcmdr/cmdr 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 127 --> 138
-    line [128, 129, 130, 132, 135, 137]
+    line [128, 129, 130, 132, 135, 137, 137]
 ```
 
-2026-11-10 128 → 2026-11-18 137（+9）
+2026-11-10 128 → 2026-11-19 137（+9）
 
 
 ---

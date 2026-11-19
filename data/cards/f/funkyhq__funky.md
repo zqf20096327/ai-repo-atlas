@@ -1,6 +1,6 @@
 # funkyhq/funky
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/funkyhq/funky) · [官网](https://funky.dev) · 组织维护
+⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/funkyhq/funky) · [官网](https://funky.dev) · 组织维护
 
 **面向 AI agent 的并行批量任务运行时引擎**
 
@@ -46,12 +46,12 @@ Funky 是运行并行、长生命周期 agent 工作负载的批处理引擎：�
 ```mermaid
 xychart-beta
     title "funkyhq/funky 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 22 --> 29
-    line [23, 24, 26, 27, 26, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 22 --> 30
+    line [23, 24, 26, 27, 26, 28, 29]
 ```
 
-2026-10-18 23 → 2026-11-18 28（+5）
+2026-10-18 23 → 2026-11-19 29（+6）
 
 
 ---

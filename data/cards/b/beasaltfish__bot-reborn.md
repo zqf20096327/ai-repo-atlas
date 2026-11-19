@@ -1,6 +1,6 @@
 # beasaltfish/bot-reborn
 
-⭐ 59 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/beasaltfish/bot-reborn) · [官网](https://bot-reborn.agentlenshq.com) · 个人维护 · 中文 README
+⭐ 62 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/beasaltfish/bot-reborn) · [官网](https://bot-reborn.agentlenshq.com) · 个人维护 · 中文 README
 
 **把 AI 玩具机器人从想法做到硬件的工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "beasaltfish/bot-reborn 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 39 --> 60
-    line [40, 49, 55, 56, 58, 59]
+    title "beasaltfish/bot-reborn 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 38 --> 64
+    line [40, 49, 55, 56, 58, 59, 62]
 ```
 
-2026-11-08 40 → 2026-11-18 59（+19）
+2026-11-08 40 → 2026-11-19 62（+22）
 
 
 ---

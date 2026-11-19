@@ -1,6 +1,6 @@
 # massive-com/mcp_massive
 
-⭐ 404 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/massive-com/mcp_massive) · 组织维护
+⭐ 405 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/massive-com/mcp_massive) · 组织维护
 
 **面向 LLM 的 Massive.com 金融市场数据 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "massive-com/mcp_massive 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 397 --> 405
-    line [398, 399, 398, 401, 402, 404, 404]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 397 --> 406
+    line [398, 399, 398, 401, 402, 404, 405]
 ```
 
-2026-10-18 398 → 2026-11-18 404（+6）
+2026-10-18 398 → 2026-11-19 405（+7）
 
 
 ---

@@ -40,6 +40,18 @@
 > L7: > A curated list of uncensored and locally-runnable AI: coding agents, SDKs,
 > L14: Everything here is open source or self-hostable unless marked **hosted**.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TartarusAIDev/awesome-uncensored-ai 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 17 --> 19
+    line [18, 18]
+```
+
+2026-11-18 18 → 2026-11-19 18（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `e87051dd93d7` · [字段定义](../../DATASET.md)*

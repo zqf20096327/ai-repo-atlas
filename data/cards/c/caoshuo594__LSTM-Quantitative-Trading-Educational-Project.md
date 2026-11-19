@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "caoshuo594/LSTM-Quantitative-Trading-Educational-Project 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 13 --> 17
     line [14, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-18 16（+2）
+2026-10-18 14 → 2026-11-19 16（+2）
 
 
 ---

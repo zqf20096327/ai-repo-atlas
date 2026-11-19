@@ -47,12 +47,12 @@ Microsoft AI for Good Lab 的 notebook 与脚本草稿仓库（前身为 Pytorch
 ```mermaid
 xychart-beta
     title "microsoft/SPARROW-Playground 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-18"]
+    x-axis ["2026-11-12", "2026-11-19"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-12 17 → 2026-11-18 17（+0）
+2026-11-12 17 → 2026-11-19 17（+0）
 
 
 ---

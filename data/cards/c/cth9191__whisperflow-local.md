@@ -45,13 +45,13 @@ Windows 全局热key听写工具：Ctrl+Win 切换录音，麦克风采集后用
 
 ```mermaid
 xychart-beta
-    title "cth9191/whisperflow-local 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "cth9191/whisperflow-local 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 12 --> 15
-    line [13, 14]
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-18 14（+1）
+2026-10-18 13 → 2026-11-19 14（+1）
 
 
 ---

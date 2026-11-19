@@ -1,6 +1,6 @@
 # teddyli18000/mimo-web2api
 
-⭐ 15 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/teddyli18000/mimo-web2api) · 个人维护 · 中文 README
+⭐ 16 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/teddyli18000/mimo-web2api) · 个人维护 · 中文 README
 
 **将小米 MiMo 网页端反代为 OpenAI/Anthropic 兼容 API 的本地网关**
 
@@ -44,13 +44,13 @@ Go 编译的单二进制本地网关，把 aistudio.xiaomimimo.com 网页对话�
 
 ```mermaid
 xychart-beta
-    title "teddyli18000/mimo-web2api 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 13, 14, 15]
+    title "teddyli18000/mimo-web2api 星数(近 6 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 13, 14, 15, 16]
 ```
 
-2026-10-31 10 → 2026-11-18 15（+5）
+2026-10-31 10 → 2026-11-19 16（+6）
 
 
 ---

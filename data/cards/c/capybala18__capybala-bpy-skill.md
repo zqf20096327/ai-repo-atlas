@@ -1,6 +1,6 @@
 # capybala18/capybala-bpy-skill
 
-⭐ 11 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/capybala18/capybala-bpy-skill) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/capybala18/capybala-bpy-skill) · 个人维护 · 中文 README
 
 **驱动 AI agent 无头操作 Blender 建模渲染的技能文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "capybala18/capybala-bpy-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 8 --> 12
-    line [9, 10, 9, 10, 11, 11]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 8 --> 13
+    line [9, 10, 9, 10, 11, 12]
 ```
 
-2026-10-18 9 → 2026-11-18 11（+2）
+2026-10-18 9 → 2026-11-19 12（+3）
 
 
 ---

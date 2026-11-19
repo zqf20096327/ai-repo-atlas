@@ -1,6 +1,6 @@
 # litegraphdb/litegraph
 
-⭐ 133 · C# · 推送 2026-11-17 · [GitHub](https://github.com/litegraphdb/litegraph) · [官网](https://litegraphdb.com) · 组织维护
+⭐ 133 · C# · 推送 2026-11-18 · [GitHub](https://github.com/litegraphdb/litegraph) · [官网](https://litegraphdb.com) · 组织维护
 
 **面向 AI 应用的多模态属性图数据库：图+JSON+向量+MCP 一体化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "litegraphdb/litegraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 131 --> 134
     line [132, 133, 133]
 ```
 
-2026-10-18 132 → 2026-11-18 133（+1）
+2026-10-18 132 → 2026-11-19 133（+1）
 
 
 ---

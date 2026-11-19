@@ -1,6 +1,6 @@
 # langfuse/langfuse-examples
 
-⭐ 43 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/langfuse/langfuse-examples) · [官网](https://langfuse.com/docs) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/langfuse/langfuse-examples) · [官网](https://langfuse.com/docs) · 组织维护
 
 **Langfuse 部署与使用示例及社区 SDK 汇编**
 
@@ -45,12 +45,12 @@ Langfuse 官方维护的示例仓库，收录社区贡献者与合作伙伴的�
 ```mermaid
 xychart-beta
     title "langfuse/langfuse-examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 41 --> 44
     line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-18 43（+1）
+2026-10-18 42 → 2026-11-19 43（+1）
 
 
 ---

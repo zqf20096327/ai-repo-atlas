@@ -1,6 +1,6 @@
 # ever-works/awesome-vector-databases
 
-⭐ 29 · CC-BY-SA-4.0 · 推送 2026-11-13 · [GitHub](https://github.com/ever-works/awesome-vector-databases) · [官网](https://vectordb.ever.works) · 组织维护
+⭐ 29 · CC-BY-SA-4.0 · 推送 2026-11-18 · [GitHub](https://github.com/ever-works/awesome-vector-databases) · [官网](https://vectordb.ever.works) · 组织维护
 
 **面向 AI 应用的向量数据库方案与资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ever-works/awesome-vector-databases 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-18 29（+0）
+2026-10-18 29 → 2026-11-19 29（+0）
 
 
 ---

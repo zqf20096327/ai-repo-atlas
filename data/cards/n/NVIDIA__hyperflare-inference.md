@@ -1,6 +1,6 @@
 # NVIDIA/hyperflare-inference
 
-⭐ 815 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/NVIDIA/hyperflare-inference) · 组织维护
+⭐ 821 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/hyperflare-inference) · 组织维护
 
 **面向 NVIDIA SM120/SM121 GPU 的本地推理服务器，服务长对话与编码 agent**
 
@@ -44,13 +44,13 @@ Hyperflare 是运行于 NVIDIA SM120/SM121 GPU（如 DGX Spark 工作站）的�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/hyperflare-inference 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 799 --> 816
-    line [801, 800, 803, 807, 812, 815]
+    title "NVIDIA/hyperflare-inference 星数(近 7 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 798 --> 823
+    line [801, 800, 803, 807, 812, 815, 821]
 ```
 
-2026-11-11 801 → 2026-11-18 815（+14）
+2026-11-11 801 → 2026-11-19 821（+20）
 
 
 ---

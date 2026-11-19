@@ -1,6 +1,6 @@
 # hakaru-dev/hakaru
 
-⭐ 317 · Haskell · BSD-3-Clause · 推送 2026-03-31 · [GitHub](https://github.com/hakaru-dev/hakaru) · 组织维护
+⭐ 318 · Haskell · BSD-3-Clause · 推送 2026-03-31 · [GitHub](https://github.com/hakaru-dev/hakaru) · 组织维护
 
 **简单类型概率编程语言，用于指定概率模型与推断算法**
 
@@ -44,12 +44,12 @@ Hakaru 是一门简单类型的概率编程语言，面向概率模型与推断�
 ```mermaid
 xychart-beta
     title "hakaru-dev/hakaru 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
     y-axis "stars" 316 --> 320
-    line [319, 317, 317]
+    line [319, 317, 318]
 ```
 
-2026-10-18 319 → 2026-11-18 317（-2）
+2026-10-18 319 → 2026-11-19 318（-1）
 
 
 ---

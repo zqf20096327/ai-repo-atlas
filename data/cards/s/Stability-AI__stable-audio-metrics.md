@@ -1,6 +1,6 @@
 # Stability-AI/stable-audio-metrics
 
-⭐ 306 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Stability-AI/stable-audio-metrics) · 组织维护
+⭐ 307 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Stability-AI/stable-audio-metrics) · 组织维护
 
 **面向长篇全频段立体声生成模型的音频评测指标集**
 
@@ -45,12 +45,12 @@ Stability-AI 维护的音乐/音频生成模型评测工具：将既有序列适
 ```mermaid
 xychart-beta
     title "Stability-AI/stable-audio-metrics 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 303 --> 307
-    line [305, 304, 305, 306, 306]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 303 --> 308
+    line [305, 304, 305, 306, 307]
 ```
 
-2026-10-18 305 → 2026-11-18 306（+1）
+2026-10-18 305 → 2026-11-19 307（+2）
 
 
 ---

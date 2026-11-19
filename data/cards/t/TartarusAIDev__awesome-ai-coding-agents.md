@@ -41,6 +41,18 @@
 > L16: Every row has a verified date. The data lives in `data/agents.json`
 > L217: Everything above is generated from `data/agents.json`. The
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TartarusAIDev/awesome-ai-coding-agents 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-18 20 → 2026-11-19 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `bf865348a404` · [字段定义](../../DATASET.md)*

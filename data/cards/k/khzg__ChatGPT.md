@@ -1,6 +1,6 @@
 # khzg/ChatGPT
 
-⭐ 32 · JavaScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/khzg/ChatGPT) · [官网](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-everywhere/) · 个人维护
+⭐ 32 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/khzg/ChatGPT) · [官网](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-everywhere/) · 个人维护
 
 **在任意网页侧边调用多家 AI 服务的 Firefox 扩展**
 
@@ -44,12 +44,12 @@ Firefox 浏览器扩展：在 Gmail、Google 等任意网页旁以扩展窗口�
 ```mermaid
 xychart-beta
     title "khzg/ChatGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-18 32（+0）
+2026-10-18 32 → 2026-11-19 32（+0）
 
 
 ---

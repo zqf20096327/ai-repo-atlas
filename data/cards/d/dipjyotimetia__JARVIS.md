@@ -1,6 +1,6 @@
 # dipjyotimetia/JARVIS
 
-⭐ 14 · Go · 推送 2026-11-16 · [GitHub](https://github.com/dipjyotimetia/JARVIS) · 个人维护
+⭐ 14 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dipjyotimetia/JARVIS) · 个人维护
 
 **面向开发测试者的 AI 驱动 API 测试与流量检查 CLI**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dipjyotimetia/JARVIS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-18 14（+0）
+2026-10-18 14 → 2026-11-19 14（+0）
 
 
 ---

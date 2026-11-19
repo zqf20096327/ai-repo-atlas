@@ -1,6 +1,6 @@
 # WebCoderT/olua
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/WebCoderT/olua) · [官网](http://yimw.cn) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/WebCoderT/olua) · [官网](http://yimw.cn) · 个人维护 · 中文 README
 
 **AI 全程编写代码的 2D 网页 RPG 三端开源实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WebCoderT/olua 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19"]
     y-axis "stars" 1 --> 28
     line [3, 18, 24, 25, 26, 26]
 ```
 
-2026-11-02 3 → 2026-11-18 26（+23）
+2026-11-02 3 → 2026-11-19 26（+23）
 
 
 ---

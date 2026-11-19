@@ -1,6 +1,6 @@
 # sagentic-ai/sagentic-af
 
-⭐ 79 · TypeScript · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/sagentic-ai/sagentic-af) · [官网](https://sagentic.ai) · 组织维护
+⭐ 78 · TypeScript · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/sagentic-ai/sagentic-af) · [官网](https://sagentic.ai) · 组织维护
 
 **TypeScript 自主 Agent 框架：构建、运行与扩展 Agent 应用**
 
@@ -45,12 +45,12 @@ Sagentic.ai Agent Framework 是面向 TypeScript 开发者的自主 Agent 开发
 ```mermaid
 xychart-beta
     title "sagentic-ai/sagentic-af 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 77 --> 80
+    line [79, 78]
 ```
 
-2026-10-18 79 → 2026-11-18 79（+0）
+2026-10-18 79 → 2026-11-19 78（-1）
 
 
 ---

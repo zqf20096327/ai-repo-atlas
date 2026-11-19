@@ -1,6 +1,6 @@
 # openapi/discussions
 
-⭐ 13 · MIT · 推送 2026-09-09 · [GitHub](https://github.com/openapi/discussions) · 组织维护
+⭐ 14 · MIT · 推送 2026-09-09 · [GitHub](https://github.com/openapi/discussions) · 组织维护
 
 **面向 API 开发者的社区讨论空间：提问、展示作品、交流想法**
 
@@ -44,12 +44,12 @@ Openapi 组织的社区讨论仓库，定位为其 SDK、工具与集成代码�
 ```mermaid
 xychart-beta
     title "openapi/discussions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 14（+1）
 
 
 ---

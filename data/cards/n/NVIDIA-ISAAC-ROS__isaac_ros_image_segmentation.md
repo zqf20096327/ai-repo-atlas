@@ -1,6 +1,6 @@
 # NVIDIA-ISAAC-ROS/isaac_ros_image_segmentation
 
-⭐ 128 · C++ · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_segmentation) · 组织维护
+⭐ 128 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_segmentation) · 组织维护
 
 **NVIDIA 加速的深度学习语义图像分割 ROS 2 软件包集**
 
@@ -45,12 +45,12 @@ Isaac ROS Image Segmentation 提供 ROS 2 语义图像分割软件包，在 GPU 
 ```mermaid
 xychart-beta
     title "NVIDIA-ISAAC-ROS/isaac_ros_image_segmentation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 127 --> 129
     line [128, 128]
 ```
 
-2026-10-18 128 → 2026-11-18 128（+0）
+2026-10-18 128 → 2026-11-19 128（+0）
 
 
 ---

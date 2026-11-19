@@ -1,6 +1,6 @@
 # microsoft/dragon-copilot-extension-samples
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/dragon-copilot-extension-samples) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/dragon-copilot-extension-samples) · 组织维护
 
 **为 Dragon Copilot 开发扩展与临床连接器的示例和 CLI 工具集**
 
@@ -46,12 +46,12 @@ Microsoft 维护的 Dragon Copilot 产品家族扩展开发资源库：包含 Ph
 ```mermaid
 xychart-beta
     title "microsoft/dragon-copilot-extension-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 18（+0）
 
 
 ---

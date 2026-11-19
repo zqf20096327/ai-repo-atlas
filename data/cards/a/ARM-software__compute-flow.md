@@ -1,6 +1,6 @@
 # ARM-software/compute-flow
 
-⭐ 16 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ARM-software/compute-flow) · 组织维护
+⭐ 16 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/ARM-software/compute-flow) · 组织维护
 
 **Arm 边缘设备端 AI 应用的 SDK：跨运行时的可复用积木式构建**
 
@@ -46,12 +46,12 @@ Arm 官方的端侧 AI/GenAI 应用 SDK：将 LiteRT、ExecuTorch、ONNX Runtime
 ```mermaid
 xychart-beta
     title "ARM-software/compute-flow 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-02", "2026-11-10", "2026-11-19"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-11-02 15 → 2026-11-18 16（+1）
+2026-11-02 15 → 2026-11-19 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Qy-Wen/loom
 
-⭐ 39 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Qy-Wen/loom) · [官网](https://loom.sanzang.site) · 个人维护 · 中文 README
+⭐ 52 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Qy-Wen/loom) · [官网](https://loom.sanzang.site) · 个人维护 · 中文 README
 
 **本地优先的素材库桌面应用：用对话浏览、搜索和整理文件**
 
@@ -46,12 +46,12 @@ Electron 桌面应用，把本地文件夹变为素材库：浏览预览图片/�
 ```mermaid
 xychart-beta
     title "Qy-Wen/loom 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 13 --> 41
-    line [15, 39, 39]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 12 --> 55
+    line [15, 39, 52]
 ```
 
-2026-11-15 15 → 2026-11-18 39（+24）
+2026-11-15 15 → 2026-11-19 52（+37）
 
 
 ---

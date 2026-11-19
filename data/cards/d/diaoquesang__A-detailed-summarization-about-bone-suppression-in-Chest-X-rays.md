@@ -1,6 +1,6 @@
 # diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays
 
-⭐ 17 · MIT · 推送 2026-11-04 · [GitHub](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays) · 个人维护 · 中文 README
+⭐ 18 · MIT · 推送 2026-11-04 · [GitHub](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays) · 个人维护 · 中文 README
 
 **胸部 X 光骨抑制论文/代码/数据集综述清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-11-18 17（+1）
+2026-10-18 16 → 2026-11-19 18（+2）
 
 
 ---

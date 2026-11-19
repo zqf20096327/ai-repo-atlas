@@ -1,6 +1,6 @@
 # pykale/pykale
 
-⭐ 494 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/pykale/pykale) · [官网](https://pykale.github.io/) · 组织维护
+⭐ 494 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/pykale/pykale) · [官网](https://pykale.github.io/) · 组织维护
 
 **面向跨学科研究的多模态与迁移学习 PyTorch 库**
 
@@ -45,12 +45,12 @@ PyTorch 生态下的 Python 机器学习库，采用 pipeline 式统一 API（lo
 ```mermaid
 xychart-beta
     title "pykale/pykale 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-19"]
     y-axis "stars" 489 --> 495
     line [490, 491, 492, 493, 494, 494]
 ```
 
-2026-10-18 490 → 2026-11-18 494（+4）
+2026-10-18 490 → 2026-11-19 494（+4）
 
 
 ---

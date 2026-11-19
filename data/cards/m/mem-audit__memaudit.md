@@ -1,6 +1,6 @@
 # mem-audit/memaudit
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/mem-audit/memaudit) · [官网](https://ansh200516.github.io/memaudit-site/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/mem-audit/memaudit) · [官网](https://ansh200516.github.io/memaudit-site/) · 组织维护
 
 **微调 LLM 训练数据记忆审计插件：金丝雀成员推断+复述检测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mem-audit/memaudit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-18 13（+1）
+2026-10-18 12 → 2026-11-19 14（+2）
 
 
 ---

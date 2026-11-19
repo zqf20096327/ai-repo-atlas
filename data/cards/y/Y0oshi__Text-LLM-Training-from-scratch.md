@@ -1,6 +1,6 @@
 # Y0oshi/Text-LLM-Training-from-scratch
 
-⭐ 14 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Y0oshi/Text-LLM-Training-from-scratch) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Y0oshi/Text-LLM-Training-from-scratch) · 个人维护
 
 **从零实现 LLM 训练全流程的 PyTorch 教学项目**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Y0oshi/Text-LLM-Training-from-scratch 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 13, 14, 14]
+    line [10, 11, 13, 14, 13]
 ```
 
-2026-10-24 10 → 2026-11-18 14（+4）
+2026-10-24 10 → 2026-11-19 13（+3）
 
 
 ---

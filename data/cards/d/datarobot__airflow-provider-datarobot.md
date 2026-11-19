@@ -1,6 +1,6 @@
 # datarobot/airflow-provider-datarobot
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/datarobot/airflow-provider-datarobot) · [官网](https://pypi.org/project/airflow-provider-datarobot/) · 组织维护
+⭐ 30 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/datarobot/airflow-provider-datarobot) · [官网](https://pypi.org/project/airflow-provider-datarobot/) · 组织维护
 
 **将 DataRobot 接入 Apache Airflow 的算子与传感器集成包**
 
@@ -45,12 +45,12 @@ DataRobot 官方维护的 Apache Airflow provider 包，提供 operators、senso
 ```mermaid
 xychart-beta
     title "datarobot/airflow-provider-datarobot 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-18"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-29", "2026-11-19"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-29 29 → 2026-11-18 29（+0）
+2026-10-29 29 → 2026-11-19 30（+1）
 
 
 ---

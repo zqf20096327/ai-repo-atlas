@@ -1,6 +1,6 @@
 # jacbz/Lofi
 
-⭐ 461 · TypeScript · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/jacbz/Lofi) · [官网](https://lofi.jacobzhang.de/) · 个人维护
+⭐ 462 · TypeScript · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/jacbz/Lofi) · [官网](https://lofi.jacobzhang.de/) · 个人维护
 
 **面向听者的 lo-fi 音乐生成器：VAE 模型生成曲目参数**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jacbz/Lofi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 457 --> 462
-    line [458, 460, 461, 461]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 457 --> 463
+    line [458, 460, 461, 462]
 ```
 
-2026-10-18 458 → 2026-11-18 461（+3）
+2026-10-18 458 → 2026-11-19 462（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Axia-Growth/OperationKit
 
-⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Axia-Growth/OperationKit) · [官网](https://operationkit.com) · 组织维护
+⭐ 57 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Axia-Growth/OperationKit) · [官网](https://operationkit.com) · 组织维护
 
 **给企业/顾问的自托管 AI 落地基座：知识库+任务板+MCP 接入**
 
@@ -41,6 +41,18 @@
 > L31: |**Knowledge base**|Drop in Excel, CSV, PDF and Word files; they become organized, linked notes you can ask questio
 > L32: |**AI workers on a board**|Anything that takes more than a few minutes becomes a card: *queue → working → review → 
 > L34: |**Connect any AI app (MCP)**|Claude, ChatGPT, Grok, Codex, Cursor and other MCP apps connect with a named, limited
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Axia-Growth/OperationKit 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 40 --> 58
+    line [41, 57]
+```
+
+2026-11-18 41 → 2026-11-19 57（+16）
 
 
 ---

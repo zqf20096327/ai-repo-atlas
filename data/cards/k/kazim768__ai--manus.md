@@ -1,10 +1,10 @@
 # kazim768/ai--manus
 
-⭐ 202 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/kazim768/ai--manus) · 个人维护
+⭐ 202 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/kazim768/ai--manus) · 个人维护
 
-**自主执行代码与浏览器的通用 AI Agent 系统**
+**面向个人用户的自主 AI Agent：代为执行代码与浏览器任务**
 
-README 以宣传性文字描述 Manus 自主 AI Agent：代替用户编写并执行脚本、控制浏览器（导航网页、填表、采集信息）、执行多步任务，定位为家庭、学习与轻量办公场景的个人助手，而非企业平台。文中给出硬件兼容表（最低 4GB 内存、双核 CPU）与使用步骤说明，但未提供任何安装命令、代码结构、依赖说明或 API 接入方式，实现层面信息缺失。
+README 描述 Manus 为通用自主 AI Agent：可自行编写并执行脚本、控制浏览器导航网页/填表/收集信息、执行多步任务，并跨会话记忆工作流。定位为面向家庭、学习与轻量办公场景的个人助手，面向学生、远程工作者等非开发者用户。README 未给出源码、依赖、API 配置或可验证的安装命令，仅提供下载入口与使用步骤说明。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ README 以宣传性文字描述 Manus 自主 AI Agent：代替用户编写并执
 
 ## 能力要点
 
-- 自主执行代码完成多步任务
-- 浏览器控制：导航、填表、信息采集
-- 面向家庭/学习/轻办公的小规模场景定位
-- 给出硬件兼容性表（最低 4GB RAM/双核 CPU）
+- 自主执行代码与控制浏览器完成多步任务
+- 跨会话保持工作流记忆与一致行为
+- 面向非开发者的低门槛任务委托
 
 ## 适用场景
 
-- 让 Agent 代为执行脚本与浏览器操作
-- 整理研究资料与日常小任务自动化
-- 远程支持中重排诊断步骤与检查系统页面
+- 收集网页资料并整理研究笔记
+- 自动填写重复表单或检查页面更新
+- 运行小脚本做快速实验与文件整理
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` `编码 Agent` · 领域:效率与自动化
+`AI 助手` `编码 Agent` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
+> L22: Manus is not a heavy studio suite or a complex enterprise platform. It is a focused helper built for home, study, a
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "kazim768/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 134 --> 286
     line [146, 274, 202, 202]
 ```
 
-2026-11-13 146 → 2026-11-18 202（+56）
+2026-11-13 146 → 2026-11-19 202（+56）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 low · 依据 README sha `c06e59c45084` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `2ff41025d9ff` · [字段定义](../../DATASET.md)*

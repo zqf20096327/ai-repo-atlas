@@ -1,6 +1,6 @@
 # openai/birdingpal
 
-⭐ 74 · Kotlin · MIT · 推送 2026-07-09 · [GitHub](https://github.com/openai/birdingpal) · 组织维护
+⭐ 75 · Kotlin · MIT · 推送 2026-07-09 · [GitHub](https://github.com/openai/birdingpal) · 组织维护
 
 **毛绒鸟类观察伴侣：ChatGPT 语音交互辅助识鸟与记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openai/birdingpal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
-    y-axis "stars" 72 --> 75
-    line [73, 74, 74]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
+    y-axis "stars" 72 --> 76
+    line [73, 74, 75]
 ```
 
-2026-10-18 73 → 2026-11-18 74（+1）
+2026-10-18 73 → 2026-11-19 75（+2）
 
 
 ---

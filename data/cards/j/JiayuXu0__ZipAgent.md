@@ -1,6 +1,6 @@
 # JiayuXu0/ZipAgent
 
-⭐ 112 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/JiayuXu0/ZipAgent) · [官网](https://github.com/JiayuXu0/ZipAgent) · 个人维护 · 中文 README
+⭐ 111 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/JiayuXu0/ZipAgent) · [官网](https://github.com/JiayuXu0/ZipAgent) · 个人维护 · 中文 README
 
 **轻量级 Python AI Agent 框架，700 行核心代码构建智能助手**
 
@@ -45,12 +45,12 @@ Python 编写的 AI Agent 框架，以约 700 行核心代码实现 Agent 引擎
 ```mermaid
 xychart-beta
     title "JiayuXu0/ZipAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 110 --> 114
-    line [112, 113, 111, 112, 112]
+    line [112, 113, 111, 112, 111]
 ```
 
-2026-10-18 112 → 2026-11-18 112（+0）
+2026-10-18 112 → 2026-11-19 111（-1）
 
 
 ---

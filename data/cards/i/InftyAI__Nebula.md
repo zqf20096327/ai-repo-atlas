@@ -1,6 +1,6 @@
 # InftyAI/Nebula
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/InftyAI/Nebula) · 组织维护
+⭐ 13 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/InftyAI/Nebula) · 组织维护
 
 **GPUaaS 控制平面：跨 NeoCloud/超大规模云统一供给 GPU Pod**
 
@@ -45,12 +45,12 @@ Kubernetes operator 形式的 GPU 容量控制平面：通过 NodePool/NodeClaim
 ```mermaid
 xychart-beta
     title "InftyAI/Nebula 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

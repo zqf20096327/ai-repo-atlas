@@ -1,6 +1,6 @@
 # satiricalguru/RVC-Voicechanger
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/satiricalguru/RVC-Voicechanger) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **基于 RVC 的实时 AI 变声桌面应用，含 DSP 效果链**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | MIT |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

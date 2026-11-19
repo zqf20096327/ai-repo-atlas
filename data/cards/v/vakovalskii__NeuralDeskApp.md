@@ -1,6 +1,6 @@
 # vakovalskii/NeuralDeskApp
 
-⭐ 331 · TypeScript · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/vakovalskii/NeuralDeskApp) · [官网](https://t.me/neuraldeep) · 个人维护
+⭐ 332 · TypeScript · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/vakovalskii/NeuralDeskApp) · [官网](https://t.me/neuraldeep) · 个人维护
 
 **跨平台桌面 AI 助手，支持本地模型与工具调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vakovalskii/NeuralDeskApp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-19"]
     y-axis "stars" 330 --> 333
-    line [331, 332, 331, 331]
+    line [331, 332, 331, 332]
 ```
 
-2026-10-18 331 → 2026-11-18 331（+0）
+2026-10-18 331 → 2026-11-19 332（+1）
 
 
 ---

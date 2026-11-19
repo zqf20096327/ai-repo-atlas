@@ -46,12 +46,12 @@ Magos Digital Studio 开发的 ComfyUI 自定义节点包，面向需要精细�
 ```mermaid
 xychart-beta
     title "MagosDigitalStudio/ComfyUI-Magos-Nodes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 21 --> 24
     line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-18 22（-1）
+2026-10-18 23 → 2026-11-19 22（-1）
 
 
 ---

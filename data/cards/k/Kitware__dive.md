@@ -1,6 +1,6 @@
 # Kitware/dive
 
-⭐ 111 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Kitware/dive) · [官网](https://kitware.github.io/dive) · 组织维护
+⭐ 111 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Kitware/dive) · [官网](https://kitware.github.io/dive) · 组织维护
 
 **面向视频/图像标注与 VIAME 算法运行的 Web 界面**
 
@@ -46,12 +46,12 @@ DIVE 是 Kitware 维护的 Web 数据管理与标注界面：支持视频、单�
 ```mermaid
 xychart-beta
     title "Kitware/dive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 109 --> 112
     line [110, 111, 111]
 ```
 
-2026-10-18 110 → 2026-11-18 111（+1）
+2026-10-18 110 → 2026-11-19 111（+1）
 
 
 ---

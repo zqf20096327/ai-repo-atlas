@@ -1,6 +1,6 @@
 # manglu097/Thoth
 
-⭐ 20 · Python · MIT · 推送 2026-01-30 · [GitHub](https://github.com/manglu097/Thoth) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-01-30 · [GitHub](https://github.com/manglu097/Thoth) · 组织维护
 
 **生成生物实验protocol的模型与数据集（ICLR 2026）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "manglu097/Thoth 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-11-18 20（+0）
+2026-10-18 20 → 2026-11-19 21（+1）
 
 
 ---

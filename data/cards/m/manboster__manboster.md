@@ -1,6 +1,6 @@
 # manboster/manboster
 
-⭐ 22 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/manboster/manboster) · [官网](https://manboster.dev) · 个人维护 · 中文 README
+⭐ 23 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/manboster/manboster) · [官网](https://manboster.dev) · 个人维护 · 中文 README
 
 **个人 AI 助手：带插件与安全守卫的聊天 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "manboster/manboster 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
     y-axis "stars" 21 --> 24
-    line [23, 22, 22]
+    line [23, 22, 23]
 ```
 
-2026-10-18 23 → 2026-11-18 22（-1）
+2026-10-18 23 → 2026-11-19 23（+0）
 
 
 ---

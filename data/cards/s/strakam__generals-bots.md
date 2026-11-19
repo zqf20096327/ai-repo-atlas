@@ -1,6 +1,6 @@
 # strakam/generals-bots
 
-⭐ 129 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/strakam/generals-bots) · 个人维护
+⭐ 130 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/strakam/generals-bots) · 个人维护
 
 **给 RL 研究者的 generals.io 游戏模拟器与 bot 开发平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "strakam/generals-bots 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 124 --> 130
-    line [125, 126, 127, 128, 125, 129, 129]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 124 --> 131
+    line [125, 126, 127, 128, 125, 129, 130]
 ```
 
-2026-10-18 125 → 2026-11-18 129（+4）
+2026-10-18 125 → 2026-11-19 130（+5）
 
 
 ---

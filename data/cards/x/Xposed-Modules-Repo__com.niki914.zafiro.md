@@ -1,6 +1,6 @@
 # Xposed-Modules-Repo/com.niki914.zafiro
 
-⭐ 172 · 推送 2026-11-15 · [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) · 个人维护 · 中文 README
+⭐ 172 · 推送 2026-11-18 · [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) · 个人维护 · 中文 README
 
 **Android 原生 Agent：读屏控机、跨应用完成任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xposed-Modules-Repo/com.niki914.zafiro 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
+    title "Xposed-Modules-Repo/com.niki914.zafiro 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 164 --> 174
-    line [165, 166, 165, 168, 169, 170, 171, 173, 172]
+    line [165, 166, 165, 168, 169, 170, 171, 173, 172, 172]
 ```
 
-2026-10-18 165 → 2026-11-18 172（+7）
+2026-10-18 165 → 2026-11-19 172（+7）
 
 
 ---

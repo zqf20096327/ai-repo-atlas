@@ -1,6 +1,6 @@
 # Coff0xc/Github-API-scan
 
-⭐ 86 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Coff0xc/Github-API-scan) · 个人维护 · 中文 README
+⭐ 87 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Coff0xc/Github-API-scan) · 个人维护 · 中文 README
 
 **扫描 GitHub 组织/仓库或本地 git，检测泄露的 AI API 密钥**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Coff0xc/Github-API-scan 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-18"]
-    y-axis "stars" 84 --> 87
-    line [85, 86]
+    title "Coff0xc/Github-API-scan 星数(近 3 点)"
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 84 --> 88
+    line [85, 86, 87]
 ```
 
-2026-11-15 85 → 2026-11-18 86（+1）
+2026-11-15 85 → 2026-11-19 87（+2）
 
 
 ---

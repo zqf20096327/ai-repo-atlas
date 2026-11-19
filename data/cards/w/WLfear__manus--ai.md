@@ -1,10 +1,10 @@
 # WLfear/manus--ai
 
-⭐ 202 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/WLfear/manus--ai) · 个人维护
+⭐ 202 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/WLfear/manus--ai) · 个人维护
 
-**面向个人用户的自主 AI Agent：自动执行代码与浏览器操作**
+**面向个人用户的自主 AI Agent：代用户运行代码与操作浏览器**
 
-README 描述的 Manus 是一个自主 AI agent，定位为家庭、学习与轻量办公场景的个人助手：用户以自然语言下达指令，agent 自行编写并执行脚本、打开网页、与页面元素交互、完成多步任务，并可跨会话复用已学到的流程模式。README 以功能宣传与使用建议为主，未给出任何安装命令、技术架构、模型接入方式或源码入口，仅有 'Download Manus' 字样与一张软硬件兼容性表（4GB 内存起步）。描述中提及的沙箱环境执行工具未在 README 正文展开。
+一个通用自主 AI Agent 系统，核心能力为自主执行代码与控制浏览器完成多步骤任务：导航网页、填写表单、收集信息、运行脚本等。定位为家庭、学习与轻量办公场景的个人助手，面向非开发者用户，强调后台持续运行与跨会话一致性。README 提供桌面安装获取方式与最低硬件配置表（双核 CPU、4 GB 内存），安装步骤仅为启动与配置的流程性说明，未给出具体命令或依赖清单。
 
 ## 筛选速览
 
@@ -20,37 +20,39 @@ README 描述的 Manus 是一个自主 AI agent，定位为家庭、学习与轻
 
 ## 能力要点
 
-- 自主执行代码与控制浏览器，完成多步任务
-- 面向非开发者，定位家庭、学习与轻量办公场景
-- README 给出软硬件兼容性表（双核 CPU / 4GB RAM 起步）
+- 自主代码执行：代用户运行脚本完成任务
+- 浏览器控制：导航网页、填写表单、收集信息
+- 后台运行的个人助手模式，跨会话保持任务模式
+- 提供最低硬件配置表（4 GB 内存起步）
 
 ## 适用场景
 
-- 让 agent 代为执行重复性的脚本运行与网页操作
-- 整理研究笔记、收集多页参考资料
-- 远程排障时快速检查系统页面与整理诊断步骤
+- 让 Agent 代为收集多个网页的研究资料
+- 自动填写重复性表单等日常事务
+- 学习场景中整理笔记与运行小脚本
+- 轻量办公中汇总多标签页信息做小结
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` `编码 Agent` · 领域:效率与自动化
+`AI 助手` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
+> L39: |**Operating System**|Modern 64-bit system|Current OS with updated runtime|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "WLfear/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 134 --> 286
     line [146, 274, 202, 202]
 ```
 
-2026-11-13 146 → 2026-11-18 202（+56）
+2026-11-13 146 → 2026-11-19 202（+56）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `c06e59c45084` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `c06c32a8c955` · [字段定义](../../DATASET.md)*

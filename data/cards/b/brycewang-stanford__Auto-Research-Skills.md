@@ -1,6 +1,6 @@
 # brycewang-stanford/Auto-Research-Skills
 
-⭐ 261 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/brycewang-stanford/Auto-Research-Skills) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **自主科研技能与智能体精选清单（6,089 skills/110 仓库）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

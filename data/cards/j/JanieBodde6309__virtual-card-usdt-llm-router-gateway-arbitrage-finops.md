@@ -1,6 +1,6 @@
 # JanieBodde6309/virtual-card-usdt-llm-router-gateway-arbitrage-finops
 
-⭐ 33 · 推送 2026-11-13 · [GitHub](https://github.com/JanieBodde6309/virtual-card-usdt-llm-router-gateway-arbitrage-finops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护
+⭐ 37 · 推送 2026-11-13 · [GitHub](https://github.com/JanieBodde6309/virtual-card-usdt-llm-router-gateway-arbitrage-finops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护
 
 **面向多路由 LLM 网关付费环节的虚拟卡架构指南（CoreGold 推广文档）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JanieBodde6309/virtual-card-usdt-llm-router-gateway-arbitrage-finops 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 11 --> 35
-    line [13, 18, 29, 33]
+    title "JanieBodde6309/virtual-card-usdt-llm-router-gateway-arbitrage-finops 星数(近 5 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 11 --> 39
+    line [13, 18, 29, 33, 37]
 ```
 
-2026-11-13 13 → 2026-11-18 33（+20）
+2026-11-13 13 → 2026-11-19 37（+24）
 
 
 ---

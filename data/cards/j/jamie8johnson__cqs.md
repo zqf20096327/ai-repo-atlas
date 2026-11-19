@@ -1,6 +1,6 @@
 # jamie8johnson/cqs
 
-⭐ 18 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jamie8johnson/cqs) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jamie8johnson/cqs) · 个人维护
 
 **面向 AI agent 的代码智能与 RAG 工具：语义搜索+调用图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jamie8johnson/cqs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-18 18（+1）
+2026-10-18 17 → 2026-11-19 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ChenDarYen/NitroFusion2
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/ChenDarYen/NitroFusion2) · [官网](https://chendaryen.github.io/NitroFusion2.github.io/) · 组织维护
+⭐ 68 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/ChenDarYen/NitroFusion2) · [官网](https://chendaryen.github.io/NitroFusion2.github.io/) · 组织维护
 
 **1–2 步文生图扩散模型，将对抗损失施加于 MMDiT 文本流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChenDarYen/NitroFusion2 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 39 --> 67
-    line [41, 57, 59, 61, 63, 65, 65]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 39 --> 70
+    line [41, 57, 59, 61, 63, 65, 68]
 ```
 
-2026-11-08 41 → 2026-11-18 65（+24）
+2026-11-08 41 → 2026-11-19 68（+27）
 
 
 ---

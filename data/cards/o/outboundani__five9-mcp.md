@@ -1,6 +1,6 @@
 # outboundani/five9-mcp
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/outboundani/five9-mcp) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/outboundani/five9-mcp) · 个人维护
 
 **连接 Five9 呼叫中心的零依赖 MCP 服务器（77 个工具）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "outboundani/five9-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-11-18 18（+1）
+2026-10-18 17 → 2026-11-19 19（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # billpsomas/rscir
 
-⭐ 88 · Python · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/billpsomas/rscir) · [官网](https://arxiv.org/abs/2405.15587) · 组织维护
+⭐ 89 · Python · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/billpsomas/rscir) · [官网](https://arxiv.org/abs/2405.15587) · 组织维护
 
 **遥感组合图像检索（RSCIR）论文官方实现与基准数据集**
 
@@ -46,12 +46,12 @@ IGARSS 2024 ORAL 论文的 PyTorch 官方实现：提出遥感组合图像检索
 ```mermaid
 xychart-beta
     title "billpsomas/rscir 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 86 --> 89
-    line [87, 88, 88]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 86 --> 90
+    line [87, 88, 89]
 ```
 
-2026-10-18 87 → 2026-11-18 88（+1）
+2026-10-18 87 → 2026-11-19 89（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # norika1207-lab/llm-neuron-atlas
 
-⭐ 21 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/norika1207-lab/llm-neuron-atlas) · 个人维护
+⭐ 22 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/norika1207-lab/llm-neuron-atlas) · 个人维护
 
 **给可解释性研究者：3D 逐神经元探索 transformer 内部结构**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "norika1207-lab/llm-neuron-atlas 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 19, 21, 21]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 19, 21, 22]
 ```
 
-2026-10-18 19 → 2026-11-18 21（+2）
+2026-10-18 19 → 2026-11-19 22（+3）
 
 
 ---

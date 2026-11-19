@@ -1,6 +1,6 @@
 # axisvela/peiravela-open
 
-⭐ 11 · HTML · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/axisvela/peiravela-open) · 组织维护
+⭐ 12 · HTML · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/axisvela/peiravela-open) · 组织维护
 
 **自主系统实验控制平面的开源 SDK/UI 层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "axisvela/peiravela-open 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-18"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-25", "2026-11-19"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-25 11 → 2026-11-18 11（+0）
+2026-10-25 11 → 2026-11-19 12（+1）
 
 
 ---

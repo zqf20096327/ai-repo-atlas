@@ -1,6 +1,6 @@
 # Bioinformatics-UM6P/MLOSSRF
 
-⭐ 39 · Jupyter Notebook · 推送 2026-03-17 · [GitHub](https://github.com/Bioinformatics-UM6P/MLOSSRF) · [官网](https://doi.org/10.1016/j.atech.2026.101823) · 组织维护
+⭐ 38 · Jupyter Notebook · 推送 2026-03-17 · [GitHub](https://github.com/Bioinformatics-UM6P/MLOSSRF) · [官网](https://doi.org/10.1016/j.atech.2026.101823) · 组织维护
 
 **论文伴生代码：ML 优化摩洛哥麦田氮磷钾施肥推荐**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bioinformatics-UM6P/MLOSSRF 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 38 --> 55
-    line [54, 49, 39, 39]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 37 --> 55
+    line [54, 49, 39, 38]
 ```
 
-2026-10-18 54 → 2026-11-18 39（-15）
+2026-10-18 54 → 2026-11-19 38（-16）
 
 
 ---

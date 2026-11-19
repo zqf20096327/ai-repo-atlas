@@ -1,6 +1,6 @@
 # whtsky/copilot2api
 
-⭐ 37 · Go · MIT · 推送 2026-08-21 · [GitHub](https://github.com/whtsky/copilot2api) · 个人维护
+⭐ 38 · Go · MIT · 推送 2026-08-21 · [GitHub](https://github.com/whtsky/copilot2api) · 个人维护
 
 **把 GitHub Copilot 代理为 OpenAI/Anthropic/Gemini 兼容 API 的 Go 代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "whtsky/copilot2api 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 34 --> 38
-    line [35, 37, 36, 37, 36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 34 --> 39
+    line [35, 37, 36, 37, 36, 37, 38]
 ```
 
-2026-10-18 35 → 2026-11-18 37（+2）
+2026-10-18 35 → 2026-11-19 38（+3）
 
 
 ---

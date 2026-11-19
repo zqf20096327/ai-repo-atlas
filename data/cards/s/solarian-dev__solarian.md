@@ -1,6 +1,6 @@
 # solarian-dev/solarian
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/solarian-dev/solarian) · [官网](https://solarian.dev) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/solarian-dev/solarian) · [官网](https://solarian.dev) · 组织维护
 
 **给机器人开发者的开源 Python 框架：构建、仿真、训练并部署 AI 机器人**
 
@@ -40,6 +40,18 @@
 > L9: **Open-source Python framework to build, simulate, train and deploy AI robots, with open hardware that runs UMI poli
 > L20: **Solarian** is an open-source robotics framework designed to build, simulate, teleoperate, train, and deploy robot
 > L22: Solarian brings the developer experience of a modern Python library to robotics, and it is built around low level c
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "solarian-dev/solarian 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 16
+    line [11, 15]
+```
+
+2026-11-18 11 → 2026-11-19 15（+4）
 
 
 ---

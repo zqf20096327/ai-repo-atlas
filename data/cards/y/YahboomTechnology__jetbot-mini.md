@@ -45,12 +45,12 @@ Yahboom 推出的基于 NVIDIA Jetson Nano 2GB 开发板的 ROS 人工智能机�
 ```mermaid
 xychart-beta
     title "YahboomTechnology/jetbot-mini 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

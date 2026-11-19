@@ -1,6 +1,6 @@
 # Roberth-Souza/wallfliper
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Roberth-Souza/wallfliper) · 个人维护
+⭐ 15 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Roberth-Souza/wallfliper) · 个人维护
 
 **Wayland 桌面的极简键盘操作壁纸选择器（图片/视频）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Roberth-Souza/wallfliper 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 11, 13, 14]
+    title "Roberth-Souza/wallfliper 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 16
+    line [11, 12, 11, 13, 14, 15]
 ```
 
-2026-10-18 11 → 2026-11-18 14（+3）
+2026-10-18 11 → 2026-11-19 15（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # cypress-io/ai-toolkit
 
-⭐ 49 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/cypress-io/ai-toolkit) · [官网](https://www.cypress.io) · 组织维护
+⭐ 49 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cypress-io/ai-toolkit) · [官网](https://www.cypress.io) · 组织维护
 
 **Cypress 官方 AI 技能包：让 AI 编码工具正确使用 Cypress**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cypress-io/ai-toolkit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-16", "2026-11-19"]
     y-axis "stars" 45 --> 50
     line [46, 47, 46, 47, 48, 49, 49]
 ```
 
-2026-10-18 46 → 2026-11-18 49（+3）
+2026-10-18 46 → 2026-11-19 49（+3）
 
 
 ---

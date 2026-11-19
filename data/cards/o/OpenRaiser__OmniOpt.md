@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenRaiser/OmniOpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "OpenRaiser/OmniOpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 37 --> 40
-    line [38, 39]
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-18 39（+1）
+2026-10-18 38 → 2026-11-19 39（+1）
 
 
 ---

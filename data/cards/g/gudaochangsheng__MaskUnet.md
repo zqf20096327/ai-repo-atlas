@@ -1,6 +1,6 @@
 # gudaochangsheng/MaskUnet
 
-⭐ 109 · Python · 推送 2026-05-19 · [GitHub](https://github.com/gudaochangsheng/MaskUnet) · [官网](https://gudaochangsheng.github.io/MaskUnet-Page/) · 组织维护 · 中文 README
+⭐ 108 · Python · 推送 2026-05-19 · [GitHub](https://github.com/gudaochangsheng/MaskUnet) · [官网](https://gudaochangsheng.github.io/MaskUnet-Page/) · 组织维护 · 中文 README
 
 **CVPR 2025 论文官方实现：掩码 U-Net 参数提升扩散生成质量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gudaochangsheng/MaskUnet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 107 --> 137
-    line [135, 134, 124, 109, 109]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 106 --> 137
+    line [135, 134, 124, 109, 108]
 ```
 
-2026-10-18 135 → 2026-11-18 109（-26）
+2026-10-18 135 → 2026-11-19 108（-27）
 
 
 ---

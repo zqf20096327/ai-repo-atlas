@@ -1,6 +1,6 @@
 # 7-e1even/learn-agent
 
-⭐ 290 · JavaScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/7-e1even/learn-agent) · 个人维护 · 中文 README
+⭐ 291 · JavaScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/7-e1even/learn-agent) · 个人维护 · 中文 README
 
 **AI Agent 开发学习笔记库：拆解 coding agent 内部机制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "7-e1even/learn-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 286 --> 291
-    line [287, 289, 290, 289, 290, 290]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 286 --> 292
+    line [287, 289, 290, 289, 290, 291]
 ```
 
-2026-10-18 287 → 2026-11-18 290（+3）
+2026-10-18 287 → 2026-11-19 291（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # sh4den/ComfyUI-AMD
 
-⭐ 28 · PowerShell · 推送 2026-07-06 · [GitHub](https://github.com/sh4den/ComfyUI-AMD) · [官网](https://comfyui-amd.github.io) · 个人维护
+⭐ 29 · PowerShell · 推送 2026-07-06 · [GitHub](https://github.com/sh4den/ComfyUI-AMD) · [官网](https://comfyui-amd.github.io) · 个人维护
 
 **AMD RDNA GPU 上安装运行 ComfyUI 的 PowerShell 一键脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sh4den/ComfyUI-AMD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-18 27 → 2026-11-18 28（+1）
+2026-10-18 27 → 2026-11-19 29（+2）
 
 
 ---

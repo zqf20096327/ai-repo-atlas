@@ -1,6 +1,6 @@
 # RustingStudio/RustingStrata
 
-⭐ 267 · Rust · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/RustingStudio/RustingStrata) · 个人维护
+⭐ 285 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/RustingStudio/RustingStrata) · 个人维护
 
 **纯 Rust 的 Qwen GGUF 模型推理引擎，支持 CPU+GPU 混合专家**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RustingStudio/RustingStrata 星数(近 11 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 293
-    line [3, 10, 145, 195, 214, 226, 228, 230, 249, 260, 267]
+    title "RustingStudio/RustingStrata 星数(近 12 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 313
+    line [3, 10, 145, 195, 214, 226, 228, 230, 249, 260, 267, 285]
 ```
 
-2026-11-01 3 → 2026-11-18 267（+264）
+2026-11-01 3 → 2026-11-19 285（+282）
 
 
 ---

@@ -1,6 +1,6 @@
 # EmilianoMJ11/transformers-training-recipes
 
-⭐ 53 · HTML · 推送 2026-11-17 · [GitHub](https://github.com/EmilianoMJ11/transformers-training-recipes) · 个人维护
+⭐ 53 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/EmilianoMJ11/transformers-training-recipes) · 个人维护
 
 **Hugging Face Trainer 训练示例与微调配方参考合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EmilianoMJ11/transformers-training-recipes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-18 53（+0）
+2026-10-18 53 → 2026-11-19 53（+0）
 
 
 ---

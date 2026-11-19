@@ -1,6 +1,6 @@
 # XTOGENY/ComfyUI-NovelAI-GENYTOOLS
 
-⭐ 19 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/XTOGENY/ComfyUI-NovelAI-GENYTOOLS) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/XTOGENY/ComfyUI-NovelAI-GENYTOOLS) · 个人维护 · 中文 README
 
 **ComfyUI 的 NovelAI 图像生成节点包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "XTOGENY/ComfyUI-NovelAI-GENYTOOLS 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-19"]
     y-axis "stars" 18 --> 22
-    line [21, 20, 19, 20, 19, 19]
+    line [21, 20, 19, 20, 19, 20]
 ```
 
-2026-10-18 21 → 2026-11-18 19（-2）
+2026-10-18 21 → 2026-11-19 20（-1）
 
 
 ---

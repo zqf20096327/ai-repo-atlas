@@ -1,6 +1,6 @@
 # tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-
 
-⭐ 21 · Python · LGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-) · [官网](https://mustatil.de) · 个人维护
+⭐ 20 · Python · LGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer-) · [官网](https://mustatil.de) · 个人维护
 
 **GIS 级 AI 视觉工作台：标注、训练、检测与 GIS 导出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tarekwasfy01/Mustatil-YOLO-AI-Model-Trainer- 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
     y-axis "stars" 16 --> 22
-    line [19, 17, 18, 17, 19, 20, 21, 21]
+    line [19, 17, 18, 17, 19, 20, 21, 20]
 ```
 
-2026-10-18 19 → 2026-11-18 21（+2）
+2026-10-18 19 → 2026-11-19 20（+1）
 
 
 ---

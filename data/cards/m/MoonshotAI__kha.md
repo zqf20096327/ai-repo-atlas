@@ -41,6 +41,18 @@ MoonshotAI 官方出品的 Go SDK 和命令行工具，用于接入 Kimi Hosted 
 > L17: - **Zero-dependency Go SDK** (`github.com/MoonshotAI/kha`): Strongly typed models and resource clients generated fr
 > L29: > **Note:** KHA is a client for the hosted platform, not a local agent runtime. Model inference, sandbox execution,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MoonshotAI/kha 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-18 17 → 2026-11-19 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `c7b423510983` · [字段定义](../../DATASET.md)*

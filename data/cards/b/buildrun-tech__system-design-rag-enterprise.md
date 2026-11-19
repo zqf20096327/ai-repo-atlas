@@ -1,6 +1,6 @@
 # buildrun-tech/system-design-rag-enterprise
 
-⭐ 16 · Java · 推送 2026-11-10 · [GitHub](https://github.com/buildrun-tech/system-design-rag-enterprise) · [官网](https://tinyurl.com/434by77r) · 组织维护
+⭐ 16 · Java · 推送 2026-11-17 · [GitHub](https://github.com/buildrun-tech/system-design-rag-enterprise) · [官网](https://tinyurl.com/434by77r) · 组织维护
 
 **企业级 NotebookLM 简化克隆：笔记本式 RAG 对话平台（Java/AWS）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "buildrun-tech/system-design-rag-enterprise 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-18 16（+0）
+2026-10-18 16 → 2026-11-19 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # fundamental-research-labs/langdag
 
-⭐ 34 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/fundamental-research-labs/langdag) · [官网](https://langdag.com) · 个人维护
+⭐ 34 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/fundamental-research-labs/langdag) · [官网](https://langdag.com) · 个人维护
 
 **把 LLM 对话持久化为 DAG 的 Go 工具与 API 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fundamental-research-labs/langdag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-18 34（+1）
+2026-10-18 33 → 2026-11-19 34（+1）
 
 
 ---

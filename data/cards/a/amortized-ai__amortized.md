@@ -1,6 +1,6 @@
 # amortized-ai/amortized
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/amortized-ai/amortized) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/amortized-ai/amortized) · 组织维护
 
 **为 agent 任务微调小型模型的编排平台**
 
@@ -45,12 +45,12 @@ Amortized 是一个微调任务模型的编排工具：用户描述任务后，�
 ```mermaid
 xychart-beta
     title "amortized-ai/amortized 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

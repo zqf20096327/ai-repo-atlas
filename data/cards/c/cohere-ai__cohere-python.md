@@ -1,6 +1,6 @@
 # cohere-ai/cohere-python
 
-⭐ 409 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/cohere-ai/cohere-python) · [官网](https://docs.cohere.ai) · 组织维护
+⭐ 409 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cohere-ai/cohere-python) · [官网](https://docs.cohere.ai) · 组织维护
 
 **Cohere 官方 Python SDK：跨平台接入 Cohere 模型 API**
 
@@ -45,12 +45,12 @@ Cohere 官方 Python 库，提供 ClientV2 接入 Cohere 平台的 Chat、Embed�
 ```mermaid
 xychart-beta
     title "cohere-ai/cohere-python 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19"]
     y-axis "stars" 404 --> 411
     line [405, 406, 407, 406, 407, 409, 410, 409, 409]
 ```
 
-2026-10-18 405 → 2026-11-18 409（+4）
+2026-10-18 405 → 2026-11-19 409（+4）
 
 
 ---

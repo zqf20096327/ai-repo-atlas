@@ -1,6 +1,6 @@
 # aws-samples/sagemaker-custom-project-templates
 
-⭐ 241 · Python · MIT-0 · 推送 2026-04-21 · [GitHub](https://github.com/aws-samples/sagemaker-custom-project-templates) · [官网](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-whatis.html) · 组织维护
+⭐ 240 · Python · MIT-0 · 推送 2026-04-21 · [GitHub](https://github.com/aws-samples/sagemaker-custom-project-templates) · [官网](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-whatis.html) · 组织维护
 
 **为 SageMaker AI Projects 提供自定义 MLOps 项目模板集合**
 
@@ -44,12 +44,12 @@ aws-samples 仓库，收录用于 Amazon SageMaker AI Projects 的自定义项�
 ```mermaid
 xychart-beta
     title "aws-samples/sagemaker-custom-project-templates 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 238 --> 242
-    line [239, 240, 239, 240, 241, 241]
+    line [239, 240, 239, 240, 241, 240]
 ```
 
-2026-10-18 239 → 2026-11-18 241（+2）
+2026-10-18 239 → 2026-11-19 240（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # TommySun630/awesome-kuajing-ai-tools
 
-⭐ 14 · CC0-1.0 · 推送 2026-07-05 · [GitHub](https://github.com/TommySun630/awesome-kuajing-ai-tools) · 个人维护 · 中文 README
+⭐ 15 · CC0-1.0 · 推送 2026-07-05 · [GitHub](https://github.com/TommySun630/awesome-kuajing-ai-tools) · 个人维护 · 中文 README
 
 **给跨境卖家的 AI 工具分类清单：选品/文案/素材/客服等 7 类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TommySun630/awesome-kuajing-ai-tools 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 13, 14, 14]
+    x-axis ["2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 13, 14, 15]
 ```
 
-2026-10-22 10 → 2026-11-18 14（+4）
+2026-10-22 10 → 2026-11-19 15（+5）
 
 
 ---

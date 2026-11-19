@@ -45,12 +45,12 @@ PacificDB Community 是自托管的多模型数据库引擎，用 C++17 编写�
 ```mermaid
 xychart-beta
     title "hitesh-reddy-k/pacificdb-community 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-18"]
+    x-axis ["2026-11-14", "2026-11-19"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-11-14 15 → 2026-11-18 15（+0）
+2026-11-14 15 → 2026-11-19 15（+0）
 
 
 ---

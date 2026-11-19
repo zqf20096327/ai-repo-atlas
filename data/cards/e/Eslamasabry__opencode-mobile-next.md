@@ -1,6 +1,6 @@
 # Eslamasabry/opencode-mobile-next
 
-⭐ 129 · Kotlin · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Eslamasabry/opencode-mobile-next) · [官网](https://eslamasabry.github.io/opencode-mobile-next/) · 个人维护
+⭐ 134 · Kotlin · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Eslamasabry/opencode-mobile-next) · [官网](https://eslamasabry.github.io/opencode-mobile-next/) · 个人维护
 
 **在 Android 手机上运行编码 agent 的 Flutter 客户端**
 
@@ -45,13 +45,13 @@ Flutter 编写的 Android 应用（含 Kotlin 原生部分），让用户在手�
 
 ```mermaid
 xychart-beta
-    title "Eslamasabry/opencode-mobile-next 星数(近 16 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 141
-    line [8, 11, 13, 14, 15, 17, 18, 13, 73, 84, 92, 97, 100, 109, 117, 129]
+    title "Eslamasabry/opencode-mobile-next 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 146
+    line [8, 11, 13, 14, 15, 17, 18, 13, 73, 84, 92, 97, 100, 109, 117, 129, 134]
 ```
 
-2026-10-18 8 → 2026-11-18 129（+121）
+2026-10-18 8 → 2026-11-19 134（+126）
 
 
 ---

@@ -1,6 +1,6 @@
 # strongdm/leash
 
-⭐ 599 · Go · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/strongdm/leash) · [官网](https://leash.strongdm.ai/) · 组织维护
+⭐ 600 · Go · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/strongdm/leash) · [官网](https://leash.strongdm.ai/) · 组织维护
 
 **容器化并监控 AI 编码 agent 的策略执行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "strongdm/leash 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 592 --> 600
-    line [593, 596, 597, 598, 599, 599]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 592 --> 601
+    line [593, 596, 597, 598, 599, 600]
 ```
 
-2026-10-18 593 → 2026-11-18 599（+6）
+2026-10-18 593 → 2026-11-19 600（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # archie0732/healthy-diet-ai-agent
 
-⭐ 609 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/archie0732/healthy-diet-ai-agent) · 个人维护 · 中文 README
+⭐ 608 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/archie0732/healthy-diet-ai-agent) · 个人维护 · 中文 README
 
 **营养建议 AI agent 与版本感知 RAG 检索研究后端**
 
@@ -45,12 +45,12 @@ Bun + TypeScript 的营养问答 AI agent 后端，含食物图像 YOLO 识别�
 ```mermaid
 xychart-beta
     title "archie0732/healthy-diet-ai-agent 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-12", "2026-11-15", "2026-11-19"]
     y-axis "stars" 607 --> 610
-    line [608, 609, 609]
+    line [608, 609, 608]
 ```
 
-2026-11-12 608 → 2026-11-18 609（+1）
+2026-11-12 608 → 2026-11-19 608（+0）
 
 
 ---

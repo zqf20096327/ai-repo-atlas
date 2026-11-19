@@ -1,6 +1,6 @@
 # juyterman1000/entroly
 
-⭐ 488 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/juyterman1000/entroly) · [官网](https://juyterman1000.github.io/entroly/docs/index.html) · 个人维护 · 中文 README
+⭐ 488 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/juyterman1000/entroly) · [官网](https://juyterman1000.github.io/entroly/docs/index.html) · 个人维护 · 中文 README
 
 **AI 编码工具的上下文选择与压缩层，附带可审计回执**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "juyterman1000/entroly 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-19"]
     y-axis "stars" 476 --> 489
     line [477, 479, 480, 483, 479, 483, 485, 486, 488, 488]
 ```
 
-2026-10-18 477 → 2026-11-18 488（+11）
+2026-10-18 477 → 2026-11-19 488（+11）
 
 
 ---

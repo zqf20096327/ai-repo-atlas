@@ -1,6 +1,6 @@
 # BenAIOS/benai-skills
 
-⭐ 85 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/BenAIOS/benai-skills) · 个人维护
+⭐ 85 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/BenAIOS/benai-skills) · 个人维护
 
 **面向 Claude Code 的按部门组织的业务自动化技能集**
 
@@ -40,6 +40,18 @@
 > L3: Expert automation skills for Claude Code, organized by department.
 > L8: # Add marketplace
 > L134: Everything after the edit: five publish-prep stages with four human checkpoints, then repurposing every published 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BenAIOS/benai-skills 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 84 --> 86
+    line [85, 85]
+```
+
+2026-11-18 85 → 2026-11-19 85（+0）
 
 
 ---

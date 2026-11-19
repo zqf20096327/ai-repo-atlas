@@ -1,6 +1,6 @@
 # opensearch-project/flow-framework
 
-⭐ 63 · Java · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/opensearch-project/flow-framework) · 组织维护
+⭐ 63 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/opensearch-project/flow-framework) · 组织维护
 
 **OpenSearch 插件：低代码构建 AI 增强的查询与摄取工作流**
 
@@ -45,12 +45,12 @@ OpenSearch Flow Framework 是一个 OpenSearch 插件，面向在 OpenSearch 上
 ```mermaid
 xychart-beta
     title "opensearch-project/flow-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
     y-axis "stars" 61 --> 64
     line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-18 63（+1）
+2026-10-18 62 → 2026-11-19 63（+1）
 
 
 ---

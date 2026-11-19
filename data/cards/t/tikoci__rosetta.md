@@ -1,6 +1,6 @@
 # tikoci/rosetta
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tikoci/rosetta) · [官网](https://tikoci.github.io/p/rosetta) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tikoci/rosetta) · [官网](https://tikoci.github.io/p/rosetta) · 个人维护
 
 **让 AI 助手检索 MikroTik RouterOS 文档的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tikoci/rosetta 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 48 --> 57
-    line [49, 50, 51, 52, 54, 50, 54, 55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 48 --> 58
+    line [49, 50, 51, 52, 54, 50, 54, 55, 56, 57]
 ```
 
-2026-10-18 49 → 2026-11-18 56（+7）
+2026-10-18 49 → 2026-11-19 57（+8）
 
 
 ---

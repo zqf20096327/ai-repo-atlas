@@ -1,6 +1,6 @@
 # CUG-EMI/EFDO
 
-⭐ 76 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/CUG-EMI/EFDO) · 组织维护
+⭐ 77 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/CUG-EMI/EFDO) · 组织维护
 
 **大地电磁快速正演的神经网络算子，面向地球物理科研**
 
@@ -45,12 +45,12 @@ EFDO 是扩展 Fourier DeepONet 神经算子网络，用于复杂连续介质中
 ```mermaid
 xychart-beta
     title "CUG-EMI/EFDO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 76]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 77]
 ```
 
-2026-10-18 75 → 2026-11-18 76（+1）
+2026-10-18 75 → 2026-11-19 77（+2）
 
 
 ---

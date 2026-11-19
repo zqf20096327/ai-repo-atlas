@@ -1,6 +1,6 @@
 # aphp/edsnlp
 
-⭐ 168 · Python · BSD-3-Clause · 推送 2026-11-14 · [GitHub](https://github.com/aphp/edsnlp) · [官网](https://aphp.github.io/edsnlp/) · 组织维护
+⭐ 168 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/aphp/edsnlp) · [官网](https://aphp.github.io/edsnlp/) · 组织维护
 
 **从法语临床病历中抽取信息的模块化 NLP 框架**
 
@@ -45,12 +45,12 @@ EDS-NLP 是面向法语临床笔记信息抽取的协作式 NLP 框架，核心�
 ```mermaid
 xychart-beta
     title "aphp/edsnlp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-19"]
     y-axis "stars" 165 --> 169
     line [166, 167, 168, 168]
 ```
 
-2026-10-18 166 → 2026-11-18 168（+2）
+2026-10-18 166 → 2026-11-19 168（+2）
 
 
 ---

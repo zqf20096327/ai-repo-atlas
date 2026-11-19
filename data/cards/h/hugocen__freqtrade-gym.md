@@ -1,6 +1,6 @@
 # hugocen/freqtrade-gym
 
-⭐ 228 · Python · GPL-3.0 · 推送 2026-01-08 · [GitHub](https://github.com/hugocen/freqtrade-gym) · 个人维护
+⭐ 229 · Python · GPL-3.0 · 推送 2026-01-08 · [GitHub](https://github.com/hugocen/freqtrade-gym) · 个人维护
 
 **基于 freqtrade 的加密货币交易强化学习 gym 环境**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hugocen/freqtrade-gym 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-19"]
     y-axis "stars" 227 --> 231
-    line [230, 229, 228, 228]
+    line [230, 229, 228, 229]
 ```
 
-2026-10-18 230 → 2026-11-18 228（-2）
+2026-10-18 230 → 2026-11-19 229（-1）
 
 
 ---

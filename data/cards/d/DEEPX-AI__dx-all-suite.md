@@ -1,6 +1,6 @@
 # DEEPX-AI/dx-all-suite
 
-⭐ 79 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/DEEPX-AI/dx-all-suite) · [官网](https://developer.deepx.ai/) · 组织维护
+⭐ 79 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/DEEPX-AI/dx-all-suite) · [官网](https://developer.deepx.ai/) · 组织维护
 
 **DEEPX NPU 官方 SDK：编译、量化并在 DEEPX NPU 上部署 ONNX 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DEEPX-AI/dx-all-suite 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    title "DEEPX-AI/dx-all-suite 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19"]
     y-axis "stars" 75 --> 80
-    line [76, 77, 78, 79]
+    line [76, 77, 78, 79, 79]
 ```
 
-2026-11-08 76 → 2026-11-18 79（+3）
+2026-11-08 76 → 2026-11-19 79（+3）
 
 
 ---

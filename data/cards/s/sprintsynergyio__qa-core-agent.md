@@ -1,6 +1,6 @@
 # sprintsynergyio/qa-core-agent
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sprintsynergyio/qa-core-agent) · [官网](https://sprintsynergy.com) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/sprintsynergyio/qa-core-agent) · [官网](https://sprintsynergy.com) · 组织维护
 
 **用 Claude 驱动真实浏览器探索并生成已验证通过的 Playwright 测试**
 
@@ -47,12 +47,12 @@ QA-Core 是基于 Claude 的 Playwright 测试生成 AI agent，通过 OpenClaw 
 ```mermaid
 xychart-beta
     title "sprintsynergyio/qa-core-agent 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-16", "2026-11-19"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-11-16 26 → 2026-11-18 26（+0）
+2026-11-16 26 → 2026-11-19 26（+0）
 
 
 ---

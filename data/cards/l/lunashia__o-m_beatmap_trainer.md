@@ -1,6 +1,6 @@
 # lunashia/o-m_beatmap_trainer
 
-⭐ 32 · Python · 推送 2026-05-06 · [GitHub](https://github.com/lunashia/o-m_beatmap_trainer) · 个人维护
+⭐ 31 · Python · 推送 2026-05-06 · [GitHub](https://github.com/lunashia/o-m_beatmap_trainer) · 个人维护
 
 **训练 osu!mania 7k next-event 模型的流水线（音频驱动谱面生成上游）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lunashia/o-m_beatmap_trainer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 31 --> 47
-    line [46, 42, 32, 32]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 30 --> 47
+    line [46, 42, 32, 31]
 ```
 
-2026-10-18 46 → 2026-11-18 32（-14）
+2026-10-18 46 → 2026-11-19 31（-15）
 
 
 ---

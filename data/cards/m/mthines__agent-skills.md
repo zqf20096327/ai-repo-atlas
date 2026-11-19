@@ -1,6 +1,6 @@
 # mthines/agent-skills
 
-⭐ 21 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mthines/agent-skills) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/mthines/agent-skills) · 个人维护
 
 **个人维护的 AI 编程助手技能集：工作流、评审与调试技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mthines/agent-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-18"]
+    title "mthines/agent-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-18", "2026-11-19"]
     y-axis "stars" 15 --> 22
-    line [16, 19, 20, 21]
+    line [16, 19, 20, 21, 21]
 ```
 
-2026-10-18 16 → 2026-11-18 21（+5）
+2026-10-18 16 → 2026-11-19 21（+5）
 
 
 ---

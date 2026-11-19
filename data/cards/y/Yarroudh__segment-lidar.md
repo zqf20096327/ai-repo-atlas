@@ -1,6 +1,6 @@
 # Yarroudh/segment-lidar
 
-⭐ 369 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/Yarroudh/segment-lidar) · [官网](https://yarroudh.github.io/segment-lidar/) · 组织维护
+⭐ 370 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/Yarroudh/segment-lidar) · [官网](https://yarroudh.github.io/segment-lidar/) · 组织维护
 
 **用 Meta SAM 3 对航空 LiDAR 点云做实例分割的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Yarroudh/segment-lidar 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 365 --> 370
-    line [366, 367, 368, 369, 369]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 365 --> 371
+    line [366, 367, 368, 369, 370]
 ```
 
-2026-10-24 366 → 2026-11-18 369（+3）
+2026-10-24 366 → 2026-11-19 370（+4）
 
 
 ---

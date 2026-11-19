@@ -1,6 +1,6 @@
 # jyh20030112/dsh-visual-plugin
 
-⭐ 22 · JavaScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/jyh20030112/dsh-visual-plugin) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/jyh20030112/dsh-visual-plugin) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本地优先视觉媒体插件：图像/视频理解与历史记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jyh20030112/dsh-visual-plugin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 15 --> 23
-    line [16, 20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 15 --> 24
+    line [16, 20, 21, 22, 23]
 ```
 
-2026-10-18 16 → 2026-11-18 22（+6）
+2026-10-18 16 → 2026-11-19 23（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # nengong/download-anything
 
-⭐ 251 · Python · 推送 2026-11-08 · [GitHub](https://github.com/nengong/download-anything) · [官网](https://github.com/nengong/download-anything#readme) · 个人维护 · 中文 README
+⭐ 255 · Python · 推送 2026-11-08 · [GitHub](https://github.com/nengong/download-anything) · [官网](https://github.com/nengong/download-anything#readme) · 个人维护 · 中文 README
 
 **个人与 AI Agent 用的全能下载与结构化归档 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nengong/download-anything 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 97 --> 265
-    line [111, 218, 219, 221, 227, 233, 241, 247, 251]
+    title "nengong/download-anything 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 97 --> 269
+    line [111, 218, 219, 221, 227, 233, 241, 247, 251, 255]
 ```
 
-2026-11-08 111 → 2026-11-18 251（+140）
+2026-11-08 111 → 2026-11-19 255（+144）
 
 
 ---

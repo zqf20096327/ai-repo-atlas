@@ -1,6 +1,6 @@
 # pdsuwwz/nextjs-nextra-starter
 
-⭐ 320 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/pdsuwwz/nextjs-nextra-starter) · [官网](https://nextra.likemashang.com/zh) · 个人维护 · 中文 README
+⭐ 321 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/pdsuwwz/nextjs-nextra-starter) · [官网](https://nextra.likemashang.com/zh) · 个人维护 · 中文 README
 
 **面向独立开发者与小团队的 Next.js 博客/文档/AI SaaS 落地页模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pdsuwwz/nextjs-nextra-starter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 317 --> 321
-    line [318, 319, 320, 320]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 317 --> 322
+    line [318, 319, 320, 321]
 ```
 
-2026-10-18 318 → 2026-11-18 320（+2）
+2026-10-18 318 → 2026-11-19 321（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # VeloceAI/agent-adapter
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/VeloceAI/agent-adapter) · [官网](https://agent-adapter.veloceai.in) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/VeloceAI/agent-adapter) · [官网](https://agent-adapter.veloceai.in) · 组织维护
 
 **让工具写一次即可在多 agent 框架安全运行的 Python SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VeloceAI/agent-adapter 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-19"]
     y-axis "stars" 8 --> 14
     line [9, 12, 13, 13]
 ```
 
-2026-11-10 9 → 2026-11-18 13（+4）
+2026-11-10 9 → 2026-11-19 13（+4）
 
 
 ---

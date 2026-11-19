@@ -43,12 +43,12 @@ A.I.M.（Actual Intelligent Memory）原为长期运行的 Gemini CLI / ChatGPT 
 ```mermaid
 xychart-beta
     title "BrianV1981/aim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

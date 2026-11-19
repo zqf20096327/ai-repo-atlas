@@ -1,6 +1,6 @@
 # Nahomi055/medical-risk-screening-bot
 
-⭐ 153 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Nahomi055/medical-risk-screening-bot) · 个人维护
+⭐ 153 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Nahomi055/medical-risk-screening-bot) · 个人维护
 
 **社区驱动的 Telegram 机器人：糖尿病与心脏病早期风险初筛**
 
@@ -39,6 +39,18 @@
 
 > L7: Medical Risk Screening Bot is a friendly, community-driven Telegram companion for quick and informal early risk chec
 > L20: - **📊 XGBoost under the hood** — both screenings run on trained gradient-boosted models, so you get a probability e
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Nahomi055/medical-risk-screening-bot 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 152 --> 154
+    line [153, 153]
+```
+
+2026-11-18 153 → 2026-11-19 153（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # RBLN-SW/torch-rbln
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/RBLN-SW/torch-rbln) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/RBLN-SW/torch-rbln) · 组织维护
 
 **让 PyTorch 在 Rebellions NPU 上运行的 PyTorch 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RBLN-SW/torch-rbln 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-18 15（+1）
+2026-10-18 14 → 2026-11-19 15（+1）
 
 
 ---

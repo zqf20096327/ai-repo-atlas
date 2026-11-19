@@ -1,6 +1,6 @@
 # foreverse-app/character-card-skills
 
-⭐ 40 · Python · NOASSERTION · 推送 2026-07-26 · [GitHub](https://github.com/foreverse-app/character-card-skills) · [官网](https://foreverse.app) · 组织维护 · 中文 README
+⭐ 41 · Python · NOASSERTION · 推送 2026-07-26 · [GitHub](https://github.com/foreverse-app/character-card-skills) · [官网](https://foreverse.app) · 组织维护 · 中文 README
 
 **角色卡作者的 agent 技能包、原创角色卡与 AI 腔调检测工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "foreverse-app/character-card-skills 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 21 --> 41
-    line [22, 25, 26, 28, 29, 31, 32, 26, 33, 36, 38, 40]
+    title "foreverse-app/character-card-skills 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 21 --> 42
+    line [22, 25, 26, 28, 29, 31, 32, 26, 33, 36, 38, 40, 41]
 ```
 
-2026-10-18 22 → 2026-11-18 40（+18）
+2026-10-18 22 → 2026-11-19 41（+19）
 
 
 ---

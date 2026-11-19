@@ -1,6 +1,6 @@
 # jamesdffgy-source/DBQuill
 
-⭐ 30 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/jamesdffgy-source/DBQuill) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jamesdffgy-source/DBQuill) · 个人维护 · 中文 README
 
 **本地优先的 Windows AI 数据库代理：自然语言查询与安全写入 SQLite/MySQL/PostgreSQL**
 
@@ -46,12 +46,12 @@ Windows 桌面 AI 数据库代理，将自然语言请求转换为经过审查�
 ```mermaid
 xychart-beta
     title "jamesdffgy-source/DBQuill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
     y-axis "stars" 29 --> 33
     line [32, 31, 30, 30]
 ```
 
-2026-10-18 32 → 2026-11-18 30（-2）
+2026-10-18 32 → 2026-11-19 30（-2）
 
 
 ---

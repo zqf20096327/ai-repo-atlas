@@ -1,6 +1,6 @@
 # neteye-platform/cc-split-diff-view
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/neteye-platform/cc-split-diff-view) · 组织维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/neteye-platform/cc-split-diff-view) · 组织维护
 
 **Claude Code 插件：以双栏并排形式显示 Edit/Write 的 diff**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neteye-platform/cc-split-diff-view 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 6 --> 20
     line [7, 10, 12, 13, 14, 15, 16, 14, 19, 19]
 ```
 
-2026-10-18 7 → 2026-11-18 19（+12）
+2026-10-18 7 → 2026-11-19 19（+12）
 
 
 ---

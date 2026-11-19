@@ -1,6 +1,6 @@
 # somastllc/nlp-for-machine-learning-bootcamp
 
-⭐ 113 · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/somastllc/nlp-for-machine-learning-bootcamp) · [官网](https://www.somast.so) · 组织维护
+⭐ 118 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/somastllc/nlp-for-machine-learning-bootcamp) · [官网](https://www.somast.so) · 组织维护
 
 **面向有 ML 基础学员的 NLP 训练营课程仓库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "somastllc/nlp-for-machine-learning-bootcamp 星数(近 16 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 5 --> 122
-    line [14, 25, 31, 32, 41, 45, 55, 14, 65, 93, 101, 103, 106, 109, 111, 113]
+    title "somastllc/nlp-for-machine-learning-bootcamp 星数(近 17 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 4 --> 128
+    line [14, 25, 31, 32, 41, 45, 55, 14, 65, 93, 101, 103, 106, 109, 111, 113, 118]
 ```
 
-2026-10-25 14 → 2026-11-18 113（+99）
+2026-10-25 14 → 2026-11-19 118（+104）
 
 
 ---

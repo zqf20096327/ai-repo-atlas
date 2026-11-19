@@ -1,6 +1,6 @@
 # shanevcantwell/langgraph-agentic-scaffold
 
-⭐ 12 · Python · 推送 2026-09-19 · [GitHub](https://github.com/shanevcantwell/langgraph-agentic-scaffold) · 个人维护
+⭐ 11 · Python · 推送 2026-09-19 · [GitHub](https://github.com/shanevcantwell/langgraph-agentic-scaffold) · 个人维护
 
 **个人研究型 LangGraph 多模型 agent 编排脚手架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shanevcantwell/langgraph-agentic-scaffold 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 10 --> 13
+    line [12, 11]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 11（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Agentic-System-Lab/agent-loop-visualizer
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/Agentic-System-Lab/agent-loop-visualizer) · [官网](https://agentic-system-lab.github.io/agent-loop-visualizer/) · 组织维护 · 中文 README
+⭐ 57 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/Agentic-System-Lab/agent-loop-visualizer) · [官网](https://agentic-system-lab.github.io/agent-loop-visualizer/) · 组织维护 · 中文 README
 
 **可视化展示 agent 循环内部机制的教学交互应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Agentic-System-Lab/agent-loop-visualizer 星数(近 9 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 29 --> 58
-    line [31, 32, 37, 46, 50, 52, 54, 56, 56]
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 29 --> 59
+    line [31, 32, 37, 46, 50, 52, 54, 56, 57]
 ```
 
-2026-10-29 31 → 2026-11-18 56（+25）
+2026-10-29 31 → 2026-11-19 57（+26）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danielrosehill/System-Prompt-Generation-Configurations 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-19"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-11-08 23 → 2026-11-18 24（+1）
+2026-11-08 23 → 2026-11-19 24（+1）
 
 
 ---

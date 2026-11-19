@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "murtiunlimited/face-emotion-recognition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-11-18 55（+0）
+2026-10-18 55 → 2026-11-19 55（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Audio-Edit-Benchmark
 
-⭐ 21 · Python · 推送 2025-11-22 · [GitHub](https://github.com/stepfun-ai/Step-Audio-Edit-Benchmark) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **可控语音编辑的评测基准：数据集+Gemini 自动评分**
 

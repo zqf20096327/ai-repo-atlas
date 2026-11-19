@@ -45,12 +45,12 @@ Design Guard 是一个 monorepo，含核心库 @design-guard/core 与 design-gua
 ```mermaid
 xychart-beta
     title "FReptar0/design-guard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

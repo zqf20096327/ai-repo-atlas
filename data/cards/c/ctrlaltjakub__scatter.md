@@ -1,6 +1,6 @@
 # ctrlaltjakub/scatter
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ctrlaltjakub/scatter) · [官网](https://scatter.study) · 个人维护
+⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ctrlaltjakub/scatter) · [官网](https://scatter.study) · 个人维护
 
 **自带 API key 的 AI 思维导图知识探索 Web 应用**
 
@@ -40,6 +40,18 @@
 > L5:  Explore any topic with AI-powered mind maps .
 > L9: **Free** and **source-available**. Bring **your own API keys** for **cloud** or **local models**. Projects **stay in
 > L85: |**Model providers**|OpenRouter, OpenAI, Anthropic, or a local server such as Ollama|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ctrlaltjakub/scatter 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 14 --> 18
+    line [15, 17]
+```
+
+2026-11-18 15 → 2026-11-19 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kingcharleslzy-ai/sentetrader
 
-⭐ 179 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kingcharleslzy-ai/sentetrader) · [官网](https://qilinshuzhi.com/trader/download) · 组织维护 · 中文 README
+⭐ 197 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kingcharleslzy-ai/sentetrader) · [官网](https://qilinshuzhi.com/trader/download) · 组织维护 · 中文 README
 
 **面向个人期货交易者的 AI 交易助理（模拟盘）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "kingcharleslzy-ai/sentetrader 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 43 --> 191
-    line [55, 76, 94, 109, 118, 131, 146, 159, 179]
+    title "kingcharleslzy-ai/sentetrader 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 41 --> 211
+    line [55, 76, 94, 109, 118, 131, 146, 159, 179, 197]
 ```
 
-2026-11-08 55 → 2026-11-18 179（+124）
+2026-11-08 55 → 2026-11-19 197（+142）
 
 
 ---

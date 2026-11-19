@@ -1,6 +1,6 @@
 # karem505/claudecodex
 
-⭐ 35 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/karem505/claudecodex) · [官网](https://aboelmakarem.pro) · 个人维护
+⭐ 36 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/karem505/claudecodex) · [官网](https://aboelmakarem.pro) · 个人维护
 
 **让 Claude Code 以 ChatGPT 订阅驱动的 GPT-5.6 为引擎的启动器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "karem505/claudecodex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-11-18 35（+1）
+2026-10-18 34 → 2026-11-19 36（+2）
 
 
 ---

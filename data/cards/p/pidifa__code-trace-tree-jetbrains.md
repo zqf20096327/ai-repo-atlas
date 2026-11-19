@@ -1,6 +1,6 @@
 # pidifa/code-trace-tree-jetbrains
 
-⭐ 16 · Kotlin · MIT · 推送 2026-11-07 · [GitHub](https://github.com/pidifa/code-trace-tree-jetbrains) · 个人维护
+⭐ 15 · Kotlin · MIT · 推送 2026-11-07 · [GitHub](https://github.com/pidifa/code-trace-tree-jetbrains) · 个人维护
 
 **JetBrains 代码追踪插件：以树形追踪点记录代码流程，可配合 AI agent**
 
@@ -46,12 +46,12 @@ JetBrains（兼 VS Code 描述）IDE 插件，以嵌套追踪点（行、文件�
 ```mermaid
 xychart-beta
     title "pidifa/code-trace-tree-jetbrains 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-11-08", "2026-11-19"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-11-08 16 → 2026-11-18 16（+0）
+2026-11-08 16 → 2026-11-19 15（-1）
 
 
 ---

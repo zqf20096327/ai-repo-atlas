@@ -1,6 +1,6 @@
 # hirokawaguchi/open-genai
 
-⭐ 141 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hirokawaguchi/open-genai) · 个人维护
+⭐ 142 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hirokawaguchi/open-genai) · 个人维护
 
 **将日本政府 AI「源内」完全本地化部署的非官方项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hirokawaguchi/open-genai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 133 --> 142
-    line [134, 138, 139, 138, 139, 140, 141]
+    title "hirokawaguchi/open-genai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 133 --> 143
+    line [134, 138, 139, 138, 139, 140, 141, 142]
 ```
 
-2026-10-18 134 → 2026-11-18 141（+7）
+2026-10-18 134 → 2026-11-19 142（+8）
 
 
 ---

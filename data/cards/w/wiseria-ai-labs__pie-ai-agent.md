@@ -1,6 +1,6 @@
 # wiseria-ai-labs/pie-ai-agent
 
-⭐ 94 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/wiseria-ai-labs/pie-ai-agent) · [官网](https://pie.chat) · 组织维护 · 中文 README
+⭐ 94 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/wiseria-ai-labs/pie-ai-agent) · [官网](https://pie.chat) · 组织维护 · 中文 README
 
 **Chrome 侧边栏 AI 浏览器代理：读页面、填表单、自动化任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wiseria-ai-labs/pie-ai-agent 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 86 --> 95
     line [87, 88, 87, 88, 90, 91, 87, 93, 94, 94]
 ```
 
-2026-10-18 87 → 2026-11-18 94（+7）
+2026-10-18 87 → 2026-11-19 94（+7）
 
 
 ---

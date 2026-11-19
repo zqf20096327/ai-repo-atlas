@@ -45,13 +45,13 @@ SwiftUI 编写的 macOS 原生应用，作为 opencode 引擎（官方 @opencode
 
 ```mermaid
 xychart-beta
-    title "serhatandic/kuvo 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-18"]
+    title "serhatandic/kuvo 星数(近 3 点)"
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-19"]
     y-axis "stars" 73 --> 76
-    line [74, 75]
+    line [74, 75, 75]
 ```
 
-2026-11-14 74 → 2026-11-18 75（+1）
+2026-11-14 74 → 2026-11-19 75（+1）
 
 
 ---

@@ -46,12 +46,12 @@ IWBF'20 论文 Deepfakes Detection with Metric Learning 的官方 Python 实现�
 ```mermaid
 xychart-beta
     title "AKASH2907/deepfakes_video_classification 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 66 --> 69
     line [67, 68, 68]
 ```
 
-2026-10-18 67 → 2026-11-18 68（+1）
+2026-10-18 67 → 2026-11-19 68（+1）
 
 
 ---

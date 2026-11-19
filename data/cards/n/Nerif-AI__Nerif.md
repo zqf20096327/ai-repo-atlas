@@ -1,6 +1,6 @@
 # Nerif-AI/Nerif
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-04-08 · [GitHub](https://github.com/Nerif-AI/Nerif) · [官网](https://nerif-ai.com) · 组织维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Nerif-AI/Nerif) · [官网](https://nerif-ai.com) · 组织维护
 
 **在 Python 中编排 LLM 的编程框架：自然语言与代码混用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nerif-AI/Nerif 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-18 16（+0）
+2026-10-18 16 → 2026-11-19 16（+0）
 
 
 ---

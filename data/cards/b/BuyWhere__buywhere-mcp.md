@@ -1,6 +1,6 @@
 # BuyWhere/buywhere-mcp
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/BuyWhere/buywhere-mcp) · [官网](https://buywhere.ai) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/BuyWhere/buywhere-mcp) · [官网](https://buywhere.ai) · 组织维护
 
 **供 AI agent 搜索比价 3 亿+商品 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BuyWhere/buywhere-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-18 15 → 2026-11-18 15（+0）
+2026-10-18 15 → 2026-11-19 14（-1）
 
 
 ---

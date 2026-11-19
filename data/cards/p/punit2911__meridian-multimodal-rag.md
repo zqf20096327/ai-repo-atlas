@@ -1,6 +1,6 @@
 # punit2911/meridian-multimodal-rag
 
-⭐ 45 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/punit2911/meridian-multimodal-rag) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/punit2911/meridian-multimodal-rag) · 个人维护
 
 **工业维护文档多模态 RAG 系统：带引用、逐声明验证与拒答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "punit2911/meridian-multimodal-rag 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 16 --> 47
-    line [18, 45]
+    title "punit2911/meridian-multimodal-rag 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 15 --> 55
+    line [18, 45, 52]
 ```
 
-2026-11-16 18 → 2026-11-18 45（+27）
+2026-11-16 18 → 2026-11-19 52（+34）
 
 
 ---

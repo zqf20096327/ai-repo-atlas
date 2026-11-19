@@ -1,6 +1,6 @@
 # HanKuCha/DSH-Fujiang-Unrestricted
 
-⭐ 21 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/HanKuCha/DSH-Fujiang-Unrestricted) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/HanKuCha/DSH-Fujiang-Unrestricted) · 个人维护 · 中文 README
 
 **为 DSH Desktop 用户提供富江人格预设与随包技能的一键安装器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HanKuCha/DSH-Fujiang-Unrestricted 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 22
-    line [3, 10, 12, 14, 15, 18, 19, 21]
+    title "HanKuCha/DSH-Fujiang-Unrestricted 星数(近 9 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 1 --> 26
+    line [3, 10, 12, 14, 15, 18, 19, 21, 24]
 ```
 
-2026-11-02 3 → 2026-11-18 21（+18）
+2026-11-02 3 → 2026-11-19 24（+21）
 
 
 ---

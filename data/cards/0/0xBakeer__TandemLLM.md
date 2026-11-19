@@ -1,6 +1,6 @@
 # 0xBakeer/TandemLLM
 
-⭐ 79 · Python · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/0xBakeer/TandemLLM) · [官网](https://tandemllm.0xbakeer.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **单台 NVIDIA DGX Spark 上的本地推理引擎：自起草自验证的投机解码**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

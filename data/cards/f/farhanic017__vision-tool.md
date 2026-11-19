@@ -1,6 +1,6 @@
 # farhanic017/vision-tool
 
-⭐ 17 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/farhanic017/vision-tool) · [官网](https://github.com/farhanic017/vision-tool) · 个人维护
+⭐ 18 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/farhanic017/vision-tool) · [官网](https://github.com/farhanic017/vision-tool) · 个人维护
 
 **为 AI 编码助手和本地 LLM 提供图像/视频理解的 MCP 视觉服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "farhanic017/vision-tool 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-11-18 17（+1）
+2026-10-18 16 → 2026-11-19 18（+2）
 
 
 ---

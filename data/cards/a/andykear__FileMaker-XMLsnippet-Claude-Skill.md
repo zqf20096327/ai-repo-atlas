@@ -1,6 +1,6 @@
 # andykear/FileMaker-XMLsnippet-Claude-Skill
 
-⭐ 19 · CC-BY-4.0 · 推送 2026-10-03 · [GitHub](https://github.com/andykear/FileMaker-XMLsnippet-Claude-Skill) · [官网](https://clockworkct.co.uk) · 组织维护
+⭐ 20 · CC-BY-4.0 · 推送 2026-11-18 · [GitHub](https://github.com/andykear/FileMaker-XMLsnippet-Claude-Skill) · [官网](https://clockworkct.co.uk) · 组织维护
 
 **FileMaker 脚本 XML 粘贴规范的逆向文档与 Claude 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "andykear/FileMaker-XMLsnippet-Claude-Skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-18 19（+0）
+2026-10-18 19 → 2026-11-19 20（+1）
 
 
 ---

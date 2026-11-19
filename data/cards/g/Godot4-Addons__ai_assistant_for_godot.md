@@ -1,6 +1,6 @@
 # Godot4-Addons/ai_assistant_for_godot
 
-⭐ 35 · GDScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/Godot4-Addons/ai_assistant_for_godot) · 个人维护
+⭐ 36 · GDScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/Godot4-Addons/ai_assistant_for_godot) · 个人维护
 
 **Godot 4 编辑器内的 AI 编程助手插件**
 
@@ -46,12 +46,12 @@ Godot 4 编辑器插件，在编辑器 dock 中提供多工具 Agent 系统：�
 ```mermaid
 xychart-beta
     title "Godot4-Addons/ai_assistant_for_godot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-19"]
     y-axis "stars" 34 --> 37
-    line [35, 36, 35, 35]
+    line [35, 36, 35, 36]
 ```
 
-2026-10-18 35 → 2026-11-18 35（+0）
+2026-10-18 35 → 2026-11-19 36（+1）
 
 
 ---

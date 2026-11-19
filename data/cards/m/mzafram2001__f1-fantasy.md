@@ -1,6 +1,6 @@
 # mzafram2001/f1-fantasy
 
-⭐ 16 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mzafram2001/f1-fantasy) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/mzafram2001/f1-fantasy) · 个人维护
 
 **自动化更新的 F1 Fantasy 历史数据集（JSON 格式）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mzafram2001/f1-fantasy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-18"]
+    title "mzafram2001/f1-fantasy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-19"]
     y-axis "stars" 10 --> 17
-    line [11, 14, 15, 16]
+    line [11, 14, 15, 16, 16]
 ```
 
-2026-10-18 11 → 2026-11-18 16（+5）
+2026-10-18 11 → 2026-11-19 16（+5）
 
 
 ---

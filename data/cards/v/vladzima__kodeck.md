@@ -1,6 +1,6 @@
 # vladzima/kodeck
 
-⭐ 47 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/vladzima/kodeck) · [官网](https://kodeck.dev) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/vladzima/kodeck) · [官网](https://kodeck.dev) · 个人维护
 
 **浏览器端开源 IDE：为 Claude Code 提供多项目工作区**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vladzima/kodeck 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 45 --> 70
-    line [68, 60, 47, 47]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 44 --> 70
+    line [68, 60, 47, 46]
 ```
 
-2026-10-18 68 → 2026-11-18 47（-21）
+2026-10-18 68 → 2026-11-19 46（-22）
 
 
 ---

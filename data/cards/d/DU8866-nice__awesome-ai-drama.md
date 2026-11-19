@@ -1,6 +1,6 @@
 # DU8866-nice/awesome-ai-drama
 
-⭐ 18 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/DU8866-nice/awesome-ai-drama) · 个人维护 · 中文 README
+⭐ 22 · Python · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/DU8866-nice/awesome-ai-drama) · 个人维护 · 中文 README
 
 **AI 短剧/漫剧全流程开源工具清单，供创作选型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DU8866-nice/awesome-ai-drama 星数(近 4 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 6 --> 19
-    line [7, 8, 16, 18]
+    title "DU8866-nice/awesome-ai-drama 星数(近 5 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 6 --> 23
+    line [7, 8, 16, 18, 22]
 ```
 
-2026-11-12 7 → 2026-11-18 18（+11）
+2026-11-12 7 → 2026-11-19 22（+15）
 
 
 ---

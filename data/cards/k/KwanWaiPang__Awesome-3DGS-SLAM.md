@@ -1,6 +1,6 @@
 # KwanWaiPang/Awesome-3DGS-SLAM
 
-⭐ 299 · 推送 2026-02-18 · [GitHub](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM) · [官网](https://kwanwaipang.github.io/3DGS-SLAM/) · 个人维护 · 中文 README
+⭐ 300 · 推送 2026-02-18 · [GitHub](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM) · [官网](https://kwanwaipang.github.io/3DGS-SLAM/) · 个人维护 · 中文 README
 
 **3DGS SLAM 论文与资源策展清单（图像/事件/激光雷达）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "KwanWaiPang/Awesome-3DGS-SLAM 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 295 --> 300
-    line [296, 297, 298, 299, 299]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 295 --> 301
+    line [296, 297, 298, 299, 300]
 ```
 
-2026-10-18 296 → 2026-11-18 299（+3）
+2026-10-18 296 → 2026-11-19 300（+4）
 
 
 ---

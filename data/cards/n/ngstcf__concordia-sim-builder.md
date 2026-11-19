@@ -1,6 +1,6 @@
 # ngstcf/concordia-sim-builder
 
-⭐ 11 · HTML · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ngstcf/concordia-sim-builder) · [官网](https://c3.unu.edu/projects/ai/simulator) · 组织维护
+⭐ 12 · HTML · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ngstcf/concordia-sim-builder) · [官网](https://c3.unu.edu/projects/ai/simulator) · 组织维护
 
 **给社科研究者提供无代码 Web UI 来配置和运行 LLM 多智能体社会仿真**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ngstcf/concordia-sim-builder 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-10 10 → 2026-11-18 11（+1）
+2026-11-10 10 → 2026-11-19 12（+2）
 
 
 ---

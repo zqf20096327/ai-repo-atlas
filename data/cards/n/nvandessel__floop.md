@@ -1,6 +1,6 @@
 # nvandessel/floop
 
-⭐ 26 · Go · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/nvandessel/floop) · 个人维护
+⭐ 25 · Go · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/nvandessel/floop) · 个人维护
 
 **AI 编码 agent 的记忆工具：把纠错固化为可复用行为**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nvandessel/floop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 24 --> 27
+    line [26, 25]
 ```
 
-2026-10-18 26 → 2026-11-18 26（+0）
+2026-10-18 26 → 2026-11-19 25（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # pyk-boo/ai-interview-helper
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/pyk-boo/ai-interview-helper) · [官网](https://pyk-boo.github.io/ai-interview-helper/) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/pyk-boo/ai-interview-helper) · [官网](https://pyk-boo.github.io/ai-interview-helper/) · 个人维护
 
 **开源 AI 面试助手：语音与截图实时生成答题**
 
@@ -45,13 +45,13 @@ Electron 桌面应用，站在求职者一侧的面试副驾驶：通过 Whisper
 
 ```mermaid
 xychart-beta
-    title "pyk-boo/ai-interview-helper 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 4 --> 21
-    line [5, 6, 7, 8, 9, 10, 11, 12, 6, 15, 17, 18, 19, 20]
+    title "pyk-boo/ai-interview-helper 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 4 --> 22
+    line [5, 6, 7, 8, 9, 10, 11, 12, 6, 15, 17, 18, 19, 20, 21]
 ```
 
-2026-10-18 5 → 2026-11-18 20（+15）
+2026-10-18 5 → 2026-11-19 21（+16）
 
 
 ---

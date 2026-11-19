@@ -1,6 +1,6 @@
 # carolinacherry/local-ai
 
-⭐ 24 · Swift · MIT · 推送 2026-03-14 · [GitHub](https://github.com/carolinacherry/local-ai) · 个人维护
+⭐ 25 · Swift · MIT · 推送 2026-03-14 · [GitHub](https://github.com/carolinacherry/local-ai) · 个人维护
 
 **在 iPhone 上离线运行 Qwen3.5 对话的应用，零云端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "carolinacherry/local-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-18 22 → 2026-11-18 24（+2）
+2026-10-18 22 → 2026-11-19 25（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # hoangsonww/Agentic-AI-Pipeline
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/Agentic-AI-Pipeline) · [官网](https://hoangsonww.github.io/Agentic-AI-Pipeline) · 个人维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/Agentic-AI-Pipeline) · [官网](https://hoangsonww.github.io/Agentic-AI-Pipeline) · 个人维护
 
 **多阶段研究外联 AI agent：规划-检索-推理后生成引用简报与邮件草稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hoangsonww/Agentic-AI-Pipeline 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 85 --> 91
-    line [86, 87, 88, 89, 90]
+    title "hoangsonww/Agentic-AI-Pipeline 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 85 --> 92
+    line [86, 87, 88, 89, 90, 91]
 ```
 
-2026-10-18 86 → 2026-11-18 90（+4）
+2026-10-18 86 → 2026-11-19 91（+5）
 
 
 ---

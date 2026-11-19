@@ -1,6 +1,6 @@
 # awaescher/llmaid
 
-⭐ 26 · C# · MIT · 推送 2026-06-02 · [GitHub](https://github.com/awaescher/llmaid) · 个人维护
+⭐ 27 · C# · MIT · 推送 2026-06-02 · [GitHub](https://github.com/awaescher/llmaid) · 个人维护
 
 **用 LLM 批量改写/审查整个代码库文件的命令行工具**
 
@@ -45,12 +45,12 @@ llmaid 是 .NET 编写的命令行工具：遍历指定路径下的每个文本�
 ```mermaid
 xychart-beta
     title "awaescher/llmaid 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-11-18 26（+0）
+2026-10-18 26 → 2026-11-19 27（+1）
 
 
 ---

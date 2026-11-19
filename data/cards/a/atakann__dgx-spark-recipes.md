@@ -1,6 +1,6 @@
 # atakann/dgx-spark-recipes
 
-⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/atakann/dgx-spark-recipes) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/atakann/dgx-spark-recipes) · 个人维护
 
 **NVIDIA DGX Spark 实测运行配方集：LLM/图像/视频/语音/视觉任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "atakann/dgx-spark-recipes 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 6 --> 21
-    line [7, 8, 9, 10, 14, 18, 20]
+    title "atakann/dgx-spark-recipes 星数(近 8 点)"
+    x-axis ["2026-11-02", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 6 --> 22
+    line [7, 8, 9, 10, 14, 18, 20, 21]
 ```
 
-2026-11-02 7 → 2026-11-18 20（+13）
+2026-11-02 7 → 2026-11-19 21（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Viggle-Animate-H3
 
-⭐ 144 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3) · [官网](https://huggingface.co/drbaph/Viggle-Animate-ComfyUI) · 个人维护 · 中文 README
+⭐ 145 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3) · [官网](https://huggingface.co/drbaph/Viggle-Animate-ComfyUI) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：用参考图替换视频中角色的换装/换人视频生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/ComfyUI-Viggle-Animate-H3 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 129 --> 145
-    line [130, 131, 132, 133, 134, 135, 132, 138, 139, 140, 144]
+    title "Saganaki22/ComfyUI-Viggle-Animate-H3 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 129 --> 146
+    line [130, 131, 132, 133, 134, 135, 132, 138, 139, 140, 144, 145]
 ```
 
-2026-10-18 130 → 2026-11-18 144（+14）
+2026-10-18 130 → 2026-11-19 145（+15）
 
 
 ---

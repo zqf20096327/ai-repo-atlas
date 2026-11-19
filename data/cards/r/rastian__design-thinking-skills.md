@@ -1,6 +1,6 @@
 # rastian/design-thinking-skills
 
-⭐ 19 · 推送 2026-08-31 · [GitHub](https://github.com/rastian/design-thinking-skills) · 个人维护
+⭐ 20 · 推送 2026-08-31 · [GitHub](https://github.com/rastian/design-thinking-skills) · 个人维护
 
 **Claude Code 设计思维技能包：引导团队完成六阶段设计流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rastian/design-thinking-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 17 --> 20
-    line [19, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 17 --> 21
+    line [19, 18, 19, 20]
 ```
 
-2026-10-18 19 → 2026-11-18 19（+0）
+2026-10-18 19 → 2026-11-19 20（+1）
 
 
 ---

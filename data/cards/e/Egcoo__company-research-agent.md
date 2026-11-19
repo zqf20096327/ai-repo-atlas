@@ -1,6 +1,6 @@
 # Egcoo/company-research-agent
 
-⭐ 43 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Egcoo/company-research-agent) · 个人维护 · 中文 README
+⭐ 52 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Egcoo/company-research-agent) · 个人维护 · 中文 README
 
 **输入代码与研究问题，自动生成中文投资研究报告的 Agent 系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Egcoo/company-research-agent 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 1 --> 46
-    line [4, 15, 19, 24, 34, 43]
+    title "Egcoo/company-research-agent 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 56
+    line [4, 15, 19, 24, 34, 43, 52]
 ```
 
-2026-11-12 4 → 2026-11-18 43（+39）
+2026-11-12 4 → 2026-11-19 52（+48）
 
 
 ---

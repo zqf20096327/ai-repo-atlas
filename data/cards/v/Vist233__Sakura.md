@@ -1,6 +1,6 @@
 # Vist233/Sakura
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Vist233/Sakura) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Vist233/Sakura) · [官网](https://sakura.zhangyvjing.com) · 个人维护 · 中文 README
 
 **用 TypeScript 代码构建 Codex 风格编码 agent 的库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vist233/Sakura 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-19"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-11-08 22 → 2026-11-18 23（+1）
+2026-11-08 22 → 2026-11-19 23（+1）
 
 
 ---

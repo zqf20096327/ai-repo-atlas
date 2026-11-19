@@ -1,6 +1,6 @@
 # stong/gradscii-art
 
-⭐ 271 · Python · AGPL-3.0 · 推送 2026-01-24 · [GitHub](https://github.com/stong/gradscii-art) · [官网](https://bad.apple.zellic.io) · 个人维护
+⭐ 272 · Python · AGPL-3.0 · 推送 2026-01-24 · [GitHub](https://github.com/stong/gradscii-art) · [官网](https://bad.apple.zellic.io) · 个人维护
 
 **用梯度下降生成 ASCII 艺术图的工具，面向图像转字符画用户**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stong/gradscii-art 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 268 --> 272
-    line [269, 270, 271, 271]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 268 --> 273
+    line [269, 270, 271, 272]
 ```
 
-2026-10-18 269 → 2026-11-18 271（+2）
+2026-10-18 269 → 2026-11-19 272（+3）
 
 
 ---

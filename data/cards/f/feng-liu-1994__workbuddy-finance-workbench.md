@@ -1,6 +1,6 @@
 # feng-liu-1994/workbuddy-finance-workbench
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/feng-liu-1994/workbuddy-finance-workbench) · [官网](https://github.com/feng-liu-1994/workbuddy-finance-workbench/releases/latest) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/feng-liu-1994/workbuddy-finance-workbench) · [官网](https://github.com/feng-liu-1994/workbuddy-finance-workbench/releases/latest) · 个人维护 · 中文 README
 
 **面向财务人员的可视化财务工作台：20 模块、25 个 AI 工作流与异常闭环**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "feng-liu-1994/workbuddy-finance-workbench 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 9 --> 17
-    line [10, 11, 12, 10, 12, 13, 14, 16]
+    title "feng-liu-1994/workbuddy-finance-workbench 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 18
+    line [10, 11, 12, 10, 12, 13, 14, 16, 17]
 ```
 
-2026-10-22 10 → 2026-11-18 16（+6）
+2026-10-22 10 → 2026-11-19 17（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/speech-compass
 
-⭐ 18 · Java · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/google-deepmind/speech-compass) · 组织维护
+⭐ 19 · Java · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/google-deepmind/speech-compass) · 组织维护
 
 **移动语音转文字的实时说话人定位与方向指引系统（听障无障碍）**
 
@@ -46,12 +46,12 @@ CHI 2025 论文的官方代码发布：面向听障用户的移动字幕增强�
 ```mermaid
 xychart-beta
     title "google-deepmind/speech-compass 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-11-18 18（+1）
+2026-10-18 17 → 2026-11-19 19（+2）
 
 
 ---

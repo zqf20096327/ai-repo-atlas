@@ -1,6 +1,6 @@
 # yubozhao/isoform
 
-⭐ 31 · Go · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/yubozhao/isoform) · [官网](https://www.isoform.ai) · 个人维护 · 中文 README
+⭐ 31 · Go · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/yubozhao/isoform) · [官网](https://www.isoform.ai) · 个人维护 · 中文 README
 
 **本地优先的主动式个人 AI 助手：观察电脑使用并生成简报与任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yubozhao/isoform 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19"]
     y-axis "stars" 14 --> 32
     line [15, 22, 24, 30, 31, 31]
 ```
 
-2026-11-08 15 → 2026-11-18 31（+16）
+2026-11-08 15 → 2026-11-19 31（+16）
 
 
 ---

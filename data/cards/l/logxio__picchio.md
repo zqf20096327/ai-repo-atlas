@@ -1,6 +1,6 @@
 # logxio/picchio
 
-⭐ 17 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/logxio/picchio) · [官网](https://logxio.github.io/picchio/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/logxio/picchio) · [官网](https://logxio.github.io/picchio/) · 个人维护
 
 **本地 LLM 推理层放置诊断工具：一次运行给出 GPU/CPU 分层与速度证据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "logxio/picchio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-19"]
     y-axis "stars" 16 --> 19
     line [17, 18, 17, 17]
 ```
 
-2026-10-18 17 → 2026-11-18 17（+0）
+2026-10-18 17 → 2026-11-19 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kevinwu901113/dsh-dot
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Kevinwu901113/dsh-dot) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Kevinwu901113/dsh-dot) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 装一个住自己手机的有记忆角色插件**
 
@@ -44,13 +44,13 @@ dsh-dot 是 DeepSeek Harness（dsh）的插件：在指定会话中替换系统�
 
 ```mermaid
 xychart-beta
-    title "Kevinwu901113/dsh-dot 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 6 --> 16
-    line [7, 8, 11, 12, 14, 15]
+    title "Kevinwu901113/dsh-dot 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 6 --> 17
+    line [7, 8, 11, 12, 14, 15, 16]
 ```
 
-2026-11-08 7 → 2026-11-18 15（+8）
+2026-11-08 7 → 2026-11-19 16（+9）
 
 
 ---

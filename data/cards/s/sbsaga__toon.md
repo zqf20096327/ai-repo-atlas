@@ -1,6 +1,6 @@
 # sbsaga/toon
 
-⭐ 69 · PHP · MIT · 推送 2026-04-19 · [GitHub](https://github.com/sbsaga/toon) · [官网](https://packagist.org/packages/sbsaga/toon) · 个人维护
+⭐ 70 · PHP · MIT · 推送 2026-04-19 · [GitHub](https://github.com/sbsaga/toon) · [官网](https://packagist.org/packages/sbsaga/toon) · 个人维护
 
 **Laravel 包：JSON ⇄ TOON 紧凑格式转换，压缩 AI 提示词 token**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sbsaga/toon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 68 --> 71
+    line [69, 70]
 ```
 
-2026-10-18 69 → 2026-11-18 69（+0）
+2026-10-18 69 → 2026-11-19 70（+1）
 
 
 ---

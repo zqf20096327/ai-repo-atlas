@@ -1,6 +1,6 @@
 # nguyenduytan/codex-context-optimizer
 
-⭐ 12 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nguyenduytan/codex-context-optimizer) · 个人维护 · 中文 README
+⭐ 14 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nguyenduytan/codex-context-optimizer) · 个人维护 · 中文 README
 
 **为 Codex CLI 本地编译上下文与执行预算的开发者工具**
 
@@ -45,13 +45,13 @@ Rust 编写的 CLI 工具（ctxc），将编码任务编译为可检查的执行
 
 ```mermaid
 xychart-beta
-    title "nguyenduytan/codex-context-optimizer 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-18"]
-    y-axis "stars" 9 --> 13
-    line [10, 12]
+    title "nguyenduytan/codex-context-optimizer 星数(近 3 点)"
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 15
+    line [10, 12, 14]
 ```
 
-2026-11-15 10 → 2026-11-18 12（+2）
+2026-11-15 10 → 2026-11-19 14（+4）
 
 
 ---

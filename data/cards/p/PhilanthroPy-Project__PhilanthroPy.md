@@ -45,12 +45,12 @@ Python 库，直接嵌入 sklearn.pipeline.Pipeline，覆盖非营利与学术�
 ```mermaid
 xychart-beta
     title "PhilanthroPy-Project/PhilanthroPy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-11", "2026-11-19"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-18 13（+2）
+2026-10-18 11 → 2026-11-19 13（+2）
 
 
 ---

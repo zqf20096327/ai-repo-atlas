@@ -45,12 +45,12 @@ Python 桌面应用，读取 Excel 与 CSV 文件，对指定行列区间的单�
 ```mermaid
 xychart-beta
     title "georgekhananaev/excel-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-19"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-11-08 76 → 2026-11-18 76（+0）
+2026-11-08 76 → 2026-11-19 76（+0）
 
 
 ---

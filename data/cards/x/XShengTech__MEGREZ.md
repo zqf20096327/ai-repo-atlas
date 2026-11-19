@@ -1,6 +1,6 @@
 # XShengTech/MEGREZ
 
-⭐ 127 · Go · AGPL-3.0 · 推送 2025-12-07 · [GitHub](https://github.com/XShengTech/MEGREZ) · [官网](http://docs.megrez.xsheng-ai.com) · 组织维护 · 中文 README
+⭐ 127 · Go · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/XShengTech/MEGREZ) · [官网](http://docs.megrez.xsheng-ai.com) · 组织维护 · 中文 README
 
 **开源多节点/多 GPU 容器化高性能计算管理平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "XShengTech/MEGREZ 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 126 --> 128
     line [127, 127]
 ```
 
-2026-10-18 127 → 2026-11-18 127（+0）
+2026-10-18 127 → 2026-11-19 127（+0）
 
 
 ---

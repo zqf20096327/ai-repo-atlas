@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Quantum-Classical-Hybrid-Machine-Learning
 
-⭐ 22 · 推送 2026-08-27 · [GitHub](https://github.com/Hazrat-Ali9/Quantum-Classical-Hybrid-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/Quantum-Classical-Hybrid-Machine-Learning) · 个人维护
+⭐ 24 · 推送 2026-08-27 · [GitHub](https://github.com/Hazrat-Ali9/Quantum-Classical-Hybrid-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/Quantum-Classical-Hybrid-Machine-Learning) · 个人维护
 
 **量子-经典混合机器学习的研究探索项目（提案型）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/Quantum-Classical-Hybrid-Machine-Learning 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 9 --> 23
-    line [10, 11, 15, 22]
+    title "Hazrat-Ali9/Quantum-Classical-Hybrid-Machine-Learning 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 25
+    line [10, 11, 15, 22, 24]
 ```
 
-2026-11-08 10 → 2026-11-18 22（+12）
+2026-11-08 10 → 2026-11-19 24（+14）
 
 
 ---

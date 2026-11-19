@@ -1,6 +1,6 @@
 # prooflinedev/session-recorder-chrome-extension
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/prooflinedev/session-recorder-chrome-extension) · [官网](https://proofline.sh/session-recorder-chrome-extension/) · 组织维护
+⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/prooflinedev/session-recorder-chrome-extension) · [官网](https://proofline.sh/session-recorder-chrome-extension/) · 组织维护
 
 **开源 Chrome 扩展：录制浏览器 bug 会话并生成 GitHub issue**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "prooflinedev/session-recorder-chrome-extension 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 9 --> 20
-    line [10, 11, 16, 17, 18, 19]
+    title "prooflinedev/session-recorder-chrome-extension 星数(近 7 点)"
+    x-axis ["2026-10-28", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 21
+    line [10, 11, 16, 17, 18, 19, 20]
 ```
 
-2026-10-28 10 → 2026-11-18 19（+9）
+2026-10-28 10 → 2026-11-19 20（+10）
 
 
 ---

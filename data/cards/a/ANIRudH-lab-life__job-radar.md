@@ -1,6 +1,6 @@
 # ANIRudH-lab-life/job-radar
 
-⭐ 13 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ANIRudH-lab-life/job-radar) · [官网](https://anirudh-lab-life.github.io/job-radar/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ANIRudH-lab-life/job-radar) · [官网](https://anirudh-lab-life.github.io/job-radar/) · 个人维护
 
 **本地 LLM 打分的求职搜索 CLI，聚合 8 个免费职位源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ANIRudH-lab-life/job-radar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 14（+1）
 
 
 ---

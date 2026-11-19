@@ -1,6 +1,6 @@
 # jlt-commons/lev
 
-⭐ 31 · Clojure · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/jlt-commons/lev) · 组织维护
+⭐ 31 · Clojure · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/jlt-commons/lev) · 组织维护
 
 **System 1 决策引擎：对状态回答带校准概率的类型化问题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jlt-commons/lev 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-15", "2026-11-19"]
     y-axis "stars" 27 --> 32
     line [28, 29, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-18 31（+3）
+2026-10-18 28 → 2026-11-19 31（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # sarabesh/HybridRAG
 
-⭐ 55 · Jupyter Notebook · 推送 2026-11-13 · [GitHub](https://github.com/sarabesh/HybridRAG) · 个人维护
+⭐ 54 · Jupyter Notebook · 推送 2026-11-13 · [GitHub](https://github.com/sarabesh/HybridRAG) · 个人维护
 
 **对比向量检索与图检索效果的 RAG 实验 notebook**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sarabesh/HybridRAG 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-18"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-11-13", "2026-11-19"]
+    y-axis "stars" 53 --> 56
+    line [55, 54]
 ```
 
-2026-11-13 55 → 2026-11-18 55（+0）
+2026-11-13 55 → 2026-11-19 54（-1）
 
 
 ---

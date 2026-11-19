@@ -1,6 +1,6 @@
 # punit2911/Hirepanel
 
-⭐ 60 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/punit2911/Hirepanel) · [官网](https://hirepanel.onrender.com/) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/punit2911/Hirepanel) · [官网](https://hirepanel.onrender.com/) · 个人维护
 
 **多智能体简历筛选系统：每个评分须有简历原文引证**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "punit2911/Hirepanel 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    title "punit2911/Hirepanel 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 24 --> 63
-    line [27, 49, 56, 59, 60]
+    line [27, 49, 56, 59, 60, 59]
 ```
 
-2026-11-13 27 → 2026-11-18 60（+33）
+2026-11-13 27 → 2026-11-19 59（+32）
 
 
 ---

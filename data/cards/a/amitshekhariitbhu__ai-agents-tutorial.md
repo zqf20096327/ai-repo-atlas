@@ -1,6 +1,6 @@
 # amitshekhariitbhu/ai-agents-tutorial
 
-⭐ 213 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/amitshekhariitbhu/ai-agents-tutorial) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 214 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/amitshekhariitbhu/ai-agents-tutorial) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **AI Agent 从零到多智能体的分步教程合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amitshekhariitbhu/ai-agents-tutorial 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 190 --> 215
-    line [192, 193, 199, 203, 204, 205, 206, 199, 211, 212, 213, 213]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 190 --> 216
+    line [192, 193, 199, 203, 204, 205, 206, 199, 211, 212, 213, 214]
 ```
 
-2026-10-18 192 → 2026-11-18 213（+21）
+2026-10-18 192 → 2026-11-19 214（+22）
 
 
 ---

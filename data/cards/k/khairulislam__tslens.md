@@ -1,6 +1,6 @@
 # khairulislam/tslens
 
-⭐ 12 · Jupyter Notebook · MIT · 推送 2026-08-25 · [GitHub](https://github.com/khairulislam/tslens) · [官网](https://khairulislam.github.io/tslens/) · 个人维护
+⭐ 13 · Jupyter Notebook · MIT · 推送 2026-08-25 · [GitHub](https://github.com/khairulislam/tslens) · [官网](https://khairulislam.github.io/tslens/) · 个人维护
 
 **面向时间序列 PyTorch 模型的可解释性/归因工具库**
 
@@ -45,12 +45,12 @@ Captum 兼容的时间序列模型解释框架：对任意接收 (batch, seq_len
 ```mermaid
 xychart-beta
     title "khairulislam/tslens 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
     y-axis "stars" 11 --> 14
-    line [13, 12, 12]
+    line [13, 12, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 12（-1）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

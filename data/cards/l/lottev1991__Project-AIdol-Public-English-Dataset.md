@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lottev1991/Project-AIdol-Public-English-Dataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "lottev1991/Project-AIdol-Public-English-Dataset 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 16 --> 19
-    line [17, 18]
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-18 18（+1）
+2026-10-18 17 → 2026-11-19 18（+1）
 
 
 ---

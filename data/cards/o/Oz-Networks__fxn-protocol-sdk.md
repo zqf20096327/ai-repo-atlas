@@ -45,12 +45,12 @@ TypeScript SDK，封装 FXN 协议在 Solana 链上的合约调用，供 AI agen
 ```mermaid
 xychart-beta
     title "Oz-Networks/fxn-protocol-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-18 22（+0）
+2026-10-18 22 → 2026-11-19 22（+0）
 
 
 ---

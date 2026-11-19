@@ -1,6 +1,6 @@
 # KuudoAI/amazon-ads-mcp
 
-⭐ 73 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/KuudoAI/amazon-ads-mcp) · [官网](https://www.kuudo.com/features/amazon-ads-mcp/) · 组织维护
+⭐ 75 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/KuudoAI/amazon-ads-mcp) · [官网](https://www.kuudo.com/features/amazon-ads-mcp/) · 组织维护
 
 **开源 Amazon Ads MCP 服务器：让 AI 客户端调用广告 API**
 
@@ -39,6 +39,18 @@
 
 > L13: > **Kuudo's Amazon Ads MCP server gives Claude, ChatGPT, Cursor and any MCP client 711 Amazon Ads API operations ac
 > L54: ## What Are MCP Tools?
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KuudoAI/amazon-ads-mcp 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 72 --> 76
+    line [73, 75]
+```
+
+2026-11-18 73 → 2026-11-19 75（+2）
 
 
 ---

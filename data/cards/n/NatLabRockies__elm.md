@@ -1,6 +1,6 @@
 # NatLabRockies/elm
 
-⭐ 69 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/NatLabRockies/elm) · [官网](https://natlabrockies.github.io/elm/) · 组织维护
+⭐ 69 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/NatLabRockies/elm) · [官网](https://natlabrockies.github.io/elm/) · 组织维护
 
 **面向能源研究的 LLM 应用工具库：PDF 转文本、嵌入、摘要与数据抽取**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NatLabRockies/elm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-11-18 69（+0）
+2026-10-18 69 → 2026-11-19 69（+0）
 
 
 ---

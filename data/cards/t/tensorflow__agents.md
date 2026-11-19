@@ -1,6 +1,6 @@
 # tensorflow/agents
 
-⭐ 3,035 · Python · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/tensorflow/agents) · 组织维护
+⭐ 3,034 · Python · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/tensorflow/agents) · 组织维护
 
 **面向开发者的 TensorFlow 强化学习与 Contextual Bandits 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tensorflow/agents 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 3030 --> 3036
-    line [3031, 3032, 3031, 3032, 3035, 3035]
+    line [3031, 3032, 3031, 3032, 3035, 3034]
 ```
 
-2026-10-18 3,031 → 2026-11-18 3,035（+4）
+2026-10-18 3,031 → 2026-11-19 3,034（+3）
 
 
 ---

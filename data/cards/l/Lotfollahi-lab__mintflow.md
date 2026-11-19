@@ -1,6 +1,6 @@
 # Lotfollahi-lab/mintflow
 
-⭐ 29 · Python · BSD-3-Clause · 推送 2026-07-03 · [GitHub](https://github.com/Lotfollahi-lab/mintflow) · [官网](https://mintflow.readthedocs.io) · 组织维护
+⭐ 30 · Python · BSD-3-Clause · 推送 2026-07-03 · [GitHub](https://github.com/Lotfollahi-lab/mintflow) · [官网](https://mintflow.readthedocs.io) · 组织维护
 
 **从空间转录组数据生成微环境诱导与内源基因表达向量**
 
@@ -45,12 +45,12 @@ MintFlow 是一个 Python 包，基于流匹配与图神经网络，从空间转
 ```mermaid
 xychart-beta
     title "Lotfollahi-lab/mintflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30]
 ```
 
-2026-10-18 28 → 2026-11-18 29（+1）
+2026-10-18 28 → 2026-11-19 30（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # airesearch-official/Z-Image-Turbo-Windows
 
-⭐ 127 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/airesearch-official/Z-Image-Turbo-Windows) · 组织维护
+⭐ 128 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/airesearch-official/Z-Image-Turbo-Windows) · 组织维护
 
 **给 Windows 低显存用户的 Z-Image Turbo 本地文生图一键安装包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "airesearch-official/Z-Image-Turbo-Windows 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 119 --> 128
-    line [120, 121, 122, 123, 124, 122, 125, 126, 127, 127]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 119 --> 129
+    line [120, 121, 122, 123, 124, 122, 125, 126, 127, 128]
 ```
 
-2026-10-18 120 → 2026-11-18 127（+7）
+2026-10-18 120 → 2026-11-19 128（+8）
 
 
 ---

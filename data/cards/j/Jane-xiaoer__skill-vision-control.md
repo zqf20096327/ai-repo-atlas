@@ -1,6 +1,6 @@
 # Jane-xiaoer/skill-vision-control
 
-⭐ 66 · TypeScript · MIT · 推送 2026-04-21 · [GitHub](https://github.com/Jane-xiaoer/skill-vision-control) · 个人维护 · 中文 README
+⭐ 67 · TypeScript · MIT · 推送 2026-04-21 · [GitHub](https://github.com/Jane-xiaoer/skill-vision-control) · 个人维护 · 中文 README
 
 **MCP Skill 版本管理器：检测更新、安全扫描与智能合并**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Jane-xiaoer/skill-vision-control 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-18 66 → 2026-11-18 66（+0）
+2026-10-18 66 → 2026-11-19 67（+1）
 
 
 ---

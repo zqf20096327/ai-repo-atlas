@@ -1,6 +1,6 @@
 # Safiullah-Rahu/knowledge-intelligence
 
-⭐ 342 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Safiullah-Rahu/knowledge-intelligence) · [官网](https://csv-ai.streamlit.app/) · 个人维护
+⭐ 341 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Safiullah-Rahu/knowledge-intelligence) · [官网](https://csv-ai.streamlit.app/) · 个人维护
 
 **多租户权限感知的企业 RAG 平台，带引用的回答与 Text-to-SQL**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Safiullah-Rahu/knowledge-intelligence 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-02", "2026-11-10", "2026-11-19"]
     y-axis "stars" 340 --> 343
-    line [341, 342, 342]
+    line [341, 342, 341]
 ```
 
-2026-11-02 341 → 2026-11-18 342（+1）
+2026-11-02 341 → 2026-11-19 341（+0）
 
 
 ---

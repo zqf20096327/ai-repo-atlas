@@ -1,6 +1,6 @@
 # jchristn/SharpAI
 
-⭐ 11 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jchristn/SharpAI) · 个人维护
+⭐ 11 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jchristn/SharpAI) · 个人维护
 
 **.NET 本地推理平台：GGUF 模型服务 + Ollama/OpenAI 兼容 API**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jchristn/SharpAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-18 11（+1）
+2026-10-18 10 → 2026-11-19 11（+1）
 
 
 ---

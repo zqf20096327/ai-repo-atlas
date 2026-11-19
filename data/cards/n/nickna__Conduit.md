@@ -1,6 +1,6 @@
 # nickna/Conduit
 
-⭐ 13 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nickna/Conduit) · 个人维护
+⭐ 14 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nickna/Conduit) · 个人维护
 
 **多 LLM 供应商统一网关：OpenAI 兼容 API 与计费路由**
 
@@ -45,12 +45,12 @@ ConduitLLM 是用 .NET 构建的 LLM 网关：以一套 OpenAI 兼容 REST API �
 ```mermaid
 xychart-beta
     title "nickna/Conduit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 12, 13, 14]
 ```
 
-2026-10-18 11 → 2026-11-18 13（+2）
+2026-10-18 11 → 2026-11-19 14（+3）
 
 
 ---

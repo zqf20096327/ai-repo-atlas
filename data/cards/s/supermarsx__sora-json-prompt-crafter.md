@@ -1,6 +1,6 @@
 # supermarsx/sora-json-prompt-crafter
 
-⭐ 49 · TypeScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/supermarsx/sora-json-prompt-crafter) · [官网](https://sora-json-prompt-crafter.lovable.app) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/supermarsx/sora-json-prompt-crafter) · [官网](https://sora-json-prompt-crafter.lovable.app) · 个人维护
 
 **浏览器端 Sora 视频 JSON 提示词构建工具，本地生成不留痕**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "supermarsx/sora-json-prompt-crafter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 47 --> 50
+    line [49, 48]
 ```
 
-2026-10-18 49 → 2026-11-18 49（+0）
+2026-10-18 49 → 2026-11-19 48（-1）
 
 
 ---

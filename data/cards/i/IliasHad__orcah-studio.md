@@ -1,6 +1,6 @@
 # IliasHad/orcah-studio
 
-⭐ 1,837 · TypeScript · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/IliasHad/orcah-studio) · [官网](https://orcah.app) · 个人维护
+⭐ 1,837 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/IliasHad/orcah-studio) · [官网](https://orcah.app) · 个人维护
 
 **本地自托管视频知识库：索引视频并用自然语言搜索**
 
@@ -39,6 +39,18 @@
 
 > L3: **Orcah Studio** (formerly **Edit Mind**) is a self-hosted video knowledge base. It indexes your videos — including 
 > L35: * **AI-Powered Video Analysis:** Extracts metadata like face recognition, transcription, object & text detection, s
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "IliasHad/orcah-studio 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 1836 --> 1838
+    line [1837, 1837]
+```
+
+2026-11-18 1,837 → 2026-11-19 1,837（+0）
 
 
 ---

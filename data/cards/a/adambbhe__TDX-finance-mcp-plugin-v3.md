@@ -1,6 +1,6 @@
 # adambbhe/TDX-finance-mcp-plugin-v3
 
-⭐ 44 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/adambbhe/TDX-finance-mcp-plugin-v3) · 个人维护 · 中文 README
+⭐ 45 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/adambbhe/TDX-finance-mcp-plugin-v3) · 个人维护 · 中文 README
 
 **为 OpenClaw 提供通达信 A 股金融数据的 MCP 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adambbhe/TDX-finance-mcp-plugin-v3 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 38 --> 45
-    line [39, 40, 41, 42, 43, 41, 43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 38 --> 46
+    line [39, 40, 41, 42, 43, 41, 43, 44, 45]
 ```
 
-2026-10-18 39 → 2026-11-18 44（+5）
+2026-10-18 39 → 2026-11-19 45（+6）
 
 
 ---

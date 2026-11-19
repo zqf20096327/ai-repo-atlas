@@ -1,6 +1,6 @@
 # Azornes/Comfyui-Model-Resolver
 
-⭐ 51 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Azornes/Comfyui-Model-Resolver) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Azornes/Comfyui-Model-Resolver) · 个人维护
 
 **ComfyUI 扩展：自动定位工作流缺失模型并下载更新路径**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Azornes/Comfyui-Model-Resolver 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 40 --> 52
-    line [41, 43, 46, 47, 48, 46, 49, 50, 51]
+    title "Azornes/Comfyui-Model-Resolver 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 40 --> 53
+    line [41, 43, 46, 47, 48, 46, 49, 50, 51, 52]
 ```
 
-2026-10-18 41 → 2026-11-18 51（+10）
+2026-10-18 41 → 2026-11-19 52（+11）
 
 
 ---

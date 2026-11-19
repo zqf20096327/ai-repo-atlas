@@ -1,6 +1,6 @@
 # billpsomas/efficient-probing
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/billpsomas/efficient-probing) · [官网](https://arxiv.org/abs/2506.10178) · 组织维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/billpsomas/efficient-probing) · [官网](https://arxiv.org/abs/2506.10178) · 组织维护
 
 **冻结视觉编码器探测基准：k-NN/线性/高效探测对比评测**
 
@@ -46,12 +46,12 @@ ICLR 2026 论文 Attention, Please! 的官方 PyTorch 实现，并发展为持�
 ```mermaid
 xychart-beta
     title "billpsomas/efficient-probing 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 41, 42, 43]
 ```
 
-2026-10-18 41 → 2026-11-18 42（+1）
+2026-10-18 41 → 2026-11-19 43（+2）
 
 
 ---

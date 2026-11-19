@@ -1,6 +1,6 @@
 # darkautism/rkllm-rs
 
-⭐ 13 · Rust · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/darkautism/rkllm-rs) · [官网](https://github.com/darkautism/rkllm-rs) · 个人维护
+⭐ 13 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/darkautism/rkllm-rs) · [官网](https://github.com/darkautism/rkllm-rs) · 个人维护
 
 **RKLLM Runtime 的 Rust FFI 绑定：在 RK3588 上运行本地 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "darkautism/rkllm-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # stellarfeline/delvewright
 
-⭐ 14 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/stellarfeline/delvewright) · 个人维护 · 中文 README
+⭐ 15 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/stellarfeline/delvewright) · 个人维护 · 中文 README
 
 **AI 生成 Minecraft 冒险地图的 Claude Code 技能：提示词进，可玩 RPG 地牢数据包出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stellarfeline/delvewright 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-11-18 14（+1）
+2026-10-18 13 → 2026-11-19 15（+2）
 
 
 ---

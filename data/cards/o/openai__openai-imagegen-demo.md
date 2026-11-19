@@ -1,6 +1,6 @@
 # openai/openai-imagegen-demo
 
-⭐ 94 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/openai/openai-imagegen-demo) · 组织维护
+⭐ 95 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/openai/openai-imagegen-demo) · 组织维护
 
 **OpenAI 官方 Next.js 照片亭 Demo：用 Image API 生成人像风格**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/openai-imagegen-demo 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 83 --> 95
-    line [84, 86, 87, 88, 90, 87, 92, 94, 94]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 83 --> 96
+    line [84, 86, 87, 88, 90, 87, 92, 94, 95]
 ```
 
-2026-10-18 84 → 2026-11-18 94（+10）
+2026-10-18 84 → 2026-11-19 95（+11）
 
 
 ---

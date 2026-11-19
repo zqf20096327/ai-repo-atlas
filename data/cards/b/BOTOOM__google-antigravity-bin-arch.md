@@ -1,6 +1,6 @@
 # BOTOOM/google-antigravity-bin-arch
 
-⭐ 70 · Shell · 推送 2026-11-17 · [GitHub](https://github.com/BOTOOM/google-antigravity-bin-arch) · [官网](https://antigravity-arch.edwardiaz.dev/) · 个人维护
+⭐ 71 · Shell · 推送 2026-11-18 · [GitHub](https://github.com/BOTOOM/google-antigravity-bin-arch) · [官网](https://antigravity-arch.edwardiaz.dev/) · 个人维护
 
 **Google Antigravity IDE 的 Arch Linux 自动安装/打包脚本**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "BOTOOM/google-antigravity-bin-arch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 68 --> 71
-    line [69, 70]
+    title "BOTOOM/google-antigravity-bin-arch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 71]
 ```
 
-2026-10-18 69 → 2026-11-18 70（+1）
+2026-10-18 69 → 2026-11-19 71（+2）
 
 
 ---

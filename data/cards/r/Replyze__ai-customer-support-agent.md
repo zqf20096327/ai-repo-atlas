@@ -40,6 +40,18 @@
 > L9: A small, readable Python reference implementation of an AI customer support agent. It answers only from a folder of 
 > L67: 1. **Rules** (`rules.py`) catch the cases that always go to a person, with regular expressions, before any model ca
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Replyze/ai-customer-support-agent 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-18 19 → 2026-11-19 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `6b10cf34ae98` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # datalab-to/surya
 
-⭐ 21,600 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/datalab-to/surya) · [官网](https://www.datalab.to) · 组织维护
+⭐ 21,606 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/datalab-to/surya) · [官网](https://www.datalab.to) · 组织维护
 
 **面向开发者的多语言文档 OCR 与版面分析模型工具包**
 
@@ -39,6 +39,18 @@ Surya 是一个 689M 参数的文档 OCR 与版面视觉语言模型，用单一
 
 > L19: Surya is a 689M param document OCR and layout VLM with these features:
 > L24: - Layout analysis (`Table`, `Picture`, `SectionHeader`, `Equation`, `Form`, etc.) with reading order and token-coun
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datalab-to/surya 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 21599 --> 21607
+    line [21600, 21606]
+```
+
+2026-11-18 21,600 → 2026-11-19 21,606（+6）
 
 
 ---

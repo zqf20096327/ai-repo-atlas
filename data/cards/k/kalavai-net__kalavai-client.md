@@ -1,6 +1,6 @@
 # kalavai-net/kalavai-client
 
-⭐ 224 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/kalavai-net/kalavai-client) · [官网](https://kalavai-net.github.io/kalavai-client/) · 组织维护
+⭐ 224 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/kalavai-net/kalavai-client) · [官网](https://kalavai-net.github.io/kalavai-client/) · 组织维护
 
 **聚合闲置 GPU 算力并统一调度部署 AI 工作负载的开源平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kalavai-net/kalavai-client 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    title "kalavai-net/kalavai-client 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
     y-axis "stars" 221 --> 226
-    line [222, 223, 224, 223, 224, 225, 224]
+    line [222, 223, 224, 223, 224, 225, 224, 224]
 ```
 
-2026-10-18 222 → 2026-11-18 224（+2）
+2026-10-18 222 → 2026-11-19 224（+2）
 
 
 ---

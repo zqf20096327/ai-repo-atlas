@@ -1,6 +1,6 @@
 # arman-jalili/rigorix-oss
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/arman-jalili/rigorix-oss) · [官网](https://rigorix.eu) · 个人维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/arman-jalili/rigorix-oss) · [官网](https://rigorix.eu) · 个人维护
 
 **AI coding agent 的确定性执行边界：计划审批与审计**
 
@@ -47,12 +47,12 @@ Rust 实现的 agent 执行治理层：将意图编译为可审查的执行计�
 ```mermaid
 xychart-beta
     title "arman-jalili/rigorix-oss 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-18 19（+1）
+2026-10-18 18 → 2026-11-19 19（+1）
 
 
 ---

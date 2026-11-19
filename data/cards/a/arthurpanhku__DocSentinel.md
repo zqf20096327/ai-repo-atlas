@@ -1,6 +1,6 @@
 # arthurpanhku/DocSentinel
 
-⭐ 90 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/arthurpanhku/DocSentinel) · 个人维护 · 中文 README
+⭐ 90 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/arthurpanhku/DocSentinel) · 个人维护 · 中文 README
 
 **面向安全团队的 AI SSDLC 平台：自动评估安全文档与合规**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arthurpanhku/DocSentinel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 87 --> 91
     line [88, 89, 88, 90, 90]
 ```
 
-2026-10-18 88 → 2026-11-18 90（+2）
+2026-10-18 88 → 2026-11-19 90（+2）
 
 
 ---

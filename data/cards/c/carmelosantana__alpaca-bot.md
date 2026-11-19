@@ -1,6 +1,6 @@
 # carmelosantana/alpaca-bot
 
-⭐ 13 · PHP · GPL-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/carmelosantana/alpaca-bot) · [官网](https://alpaca.bot) · 个人维护
+⭐ 13 · PHP · GPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/carmelosantana/alpaca-bot) · [官网](https://alpaca.bot) · 个人维护
 
 **WordPress 后台私有 AI 聊天插件：对接自托管模型**
 
@@ -46,12 +46,12 @@ WordPress 插件，在 wp-admin 内提供聊天屏幕、抽屉与区块编辑器
 ```mermaid
 xychart-beta
     title "carmelosantana/alpaca-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/kernels-community
 
-⭐ 158 · C++ · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/kernels-community) · 组织维护
+⭐ 158 · C++ · 推送 2026-11-18 · [GitHub](https://github.com/huggingface/kernels-community) · 组织维护
 
 **Hugging Face Kernel Hub 的内核源码仓库**
 
@@ -43,12 +43,12 @@ Hugging Face 维护的 kernels-community 组织下计算内核（compute kernels
 ```mermaid
 xychart-beta
     title "huggingface/kernels-community 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
     y-axis "stars" 149 --> 159
     line [150, 153, 154, 155, 154, 157, 158, 158]
 ```
 
-2026-10-18 150 → 2026-11-18 158（+8）
+2026-10-18 150 → 2026-11-19 158（+8）
 
 
 ---

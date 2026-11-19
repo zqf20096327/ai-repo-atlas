@@ -1,10 +1,10 @@
 # kamesha12/manus--ai
 
-⭐ 179 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/kamesha12/manus--ai) · 个人维护
+⭐ 179 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/kamesha12/manus--ai) · 个人维护
 
-**宣称可自主执行代码与控制浏览器的通用 AI Agent**
+**通用 AI Agent 助手：代用户执行代码与浏览器操作**
 
-README 描述一个名为 Manus 的自主 AI 代理：代替用户编写并执行脚本、打开网页、填写表单、执行多步骤任务，定位为面向家庭、学习与轻量办公的个人助手，而非企业平台。给出硬件兼容性表格（最低双核 CPU、4 GB 内存）与六步上手流程，但未提供任何安装命令、代码入口或依赖说明，内容以功能宣传与搜索关键词罗列为主。
+定位为通用自主 AI Agent 系统，核心机制包括自主代码执行（代写并运行脚本）、浏览器控制（导航网页、填写表单、采集信息）与多步骤任务自动化，可在沙盒环境中运行各类工具。目标用户为学生、远程办公者及处理多个小项目的普通用户，强调无需深度技术背景，适用于家庭、学习与轻量办公场景。README 以介绍性内容为主，未给出具体安装命令或源码构建说明，仅提示下载入口。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ README 描述一个名为 Manus 的自主 AI 代理：代替用户编写并执�
 
 ## 能力要点
 
-- 宣称支持自主编写并执行代码
-- 宣称支持浏览器控制（导航、填表、抓取信息）
-- 面向小规模场景：学习、家庭项目与轻量办公
+- 自主代码执行：代写并运行脚本完成任务
+- 浏览器控制：导航网页、填写表单、采集信息
+- 多步骤自主任务自动化，跨会话保持任务模式
+- 面向家庭、学习与轻量办公的小规模任务设计
 
 ## 适用场景
 
-- 让代理代办重复性的小脚本与网页操作
-- 收集多页网页信息并整理摘要
-- 作为后台个人助手处理日常小任务
+- 收集资料并整理学习研究笔记
+- 自动填写重复表单、从多个网页采集数据
+- 将日常重复性小任务交给后台助手处理
 
 ## 场景标签
 
@@ -36,21 +37,21 @@ README 描述一个名为 Manus 的自主 AI 代理：代替用户编写并执�
 
 ## 证据(README 行号)
 
-> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
+> L22: Manus is not a heavy studio suite or a complex enterprise platform. It is a focused helper built for home, study, a
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "kamesha12/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 106 --> 264
     line [119, 251, 179, 179]
 ```
 
-2026-11-13 119 → 2026-11-18 179（+60）
+2026-11-13 119 → 2026-11-19 179（+60）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 low · 依据 README sha `c06e59c45084` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `c06c32a8c955` · [字段定义](../../DATASET.md)*

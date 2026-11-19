@@ -1,6 +1,6 @@
 # chatsci/Aeiva
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/chatsci/Aeiva) · [官网](https://chatsci.github.io/Aeiva/) · 组织维护 · 中文 README
+⭐ 158 · Python · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/chatsci/Aeiva) · [官网](https://chatsci.github.io/Aeiva/) · 组织维护 · 中文 README
 
 **以人为中心的终身 AI 代理运行时，多渠道交互**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chatsci/Aeiva 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 158 --> 160
-    line [159, 159]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 157 --> 160
+    line [159, 158]
 ```
 
-2026-10-18 159 → 2026-11-18 159（+0）
+2026-10-18 159 → 2026-11-19 158（-1）
 
 
 ---

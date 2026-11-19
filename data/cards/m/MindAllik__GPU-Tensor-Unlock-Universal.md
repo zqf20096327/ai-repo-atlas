@@ -1,6 +1,6 @@
 # MindAllik/GPU-Tensor-Unlock-Universal
 
-⭐ 28 · C · GPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/MindAllik/GPU-Tensor-Unlock-Universal) · 个人维护
+⭐ 30 · C · GPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/MindAllik/GPU-Tensor-Unlock-Universal) · 个人维护
 
 **消费级 RTX 显卡 Tensor Core FMLA32 限速解锁与基准测试工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MindAllik/GPU-Tensor-Unlock-Universal 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 16 --> 29
-    line [17, 22, 25, 26, 27, 28]
+    title "MindAllik/GPU-Tensor-Unlock-Universal 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 31
+    line [17, 22, 25, 26, 27, 28, 30]
 ```
 
-2026-11-08 17 → 2026-11-18 28（+11）
+2026-11-08 17 → 2026-11-19 30（+13）
 
 
 ---

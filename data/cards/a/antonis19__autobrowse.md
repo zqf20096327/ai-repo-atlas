@@ -1,6 +1,6 @@
 # antonis19/autobrowse
 
-⭐ 114 · Python · 推送 2026-08-29 · [GitHub](https://github.com/antonis19/autobrowse) · 个人维护
+⭐ 115 · Python · 推送 2026-08-29 · [GitHub](https://github.com/antonis19/autobrowse) · 个人维护
 
 **自主 AI agent：接收任务后自动操作浏览器完成网页操作**
 
@@ -45,12 +45,12 @@ AutoBrowse 是一个自主网页浏览 agent：用户给出自然语言任务（
 ```mermaid
 xychart-beta
     title "antonis19/autobrowse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 112 --> 115
-    line [113, 114, 114]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 112 --> 116
+    line [113, 114, 115]
 ```
 
-2026-10-18 113 → 2026-11-18 114（+1）
+2026-10-18 113 → 2026-11-19 115（+2）
 
 
 ---

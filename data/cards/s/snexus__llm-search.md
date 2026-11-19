@@ -1,6 +1,6 @@
 # snexus/llm-search
 
-⭐ 663 · Jupyter Notebook · MIT · 推送 2026-01-17 · [GitHub](https://github.com/snexus/llm-search) · 个人维护
+⭐ 662 · Jupyter Notebook · MIT · 推送 2026-01-17 · [GitHub](https://github.com/snexus/llm-search) · 个人维护
 
 **面向本地文档问答的进阶 RAG 系统（YAML 配置）**
 
@@ -45,12 +45,12 @@ pyLLMSearch 提供基于 YAML 配置的本地文档问答（RAG）系统：解�
 ```mermaid
 xychart-beta
     title "snexus/llm-search 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 661 --> 664
-    line [663, 662, 663, 663]
+    line [663, 662, 663, 662]
 ```
 
-2026-10-18 663 → 2026-11-18 663（+0）
+2026-10-18 663 → 2026-11-19 662（-1）
 
 
 ---

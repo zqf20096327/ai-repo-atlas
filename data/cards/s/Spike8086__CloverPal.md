@@ -1,6 +1,6 @@
 # Spike8086/CloverPal
 
-⭐ 23 · HTML · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/Spike8086/CloverPal) · 个人维护 · 中文 README
+⭐ 24 · HTML · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/Spike8086/CloverPal) · 个人维护 · 中文 README
 
 **安卓全离线 LLM 客户端，支持多角色角色扮演与语音输入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Spike8086/CloverPal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-11-18 23（+2）
+2026-10-18 21 → 2026-11-19 24（+3）
 
 
 ---

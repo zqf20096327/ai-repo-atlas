@@ -1,6 +1,6 @@
 # elchemista/vettore
 
-⭐ 25 · Elixir · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/elchemista/vettore) · [官网](https://hex.pm/packages/vettore) · 个人维护
+⭐ 26 · Elixir · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/elchemista/vettore) · [官网](https://hex.pm/packages/vettore) · 个人维护
 
 **面向 Elixir 开发者的向量检索工具包，ETS 存储 + Rust 加速**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elchemista/vettore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-11-18 25（+0）
+2026-10-18 25 → 2026-11-19 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/RAS
 
-⭐ 157 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/microsoft/RAS) · [官网](https://aka.ms/ras-dit) · 组织维护
+⭐ 157 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/RAS) · [官网](https://aka.ms/ras-dit) · 组织维护
 
 **扩散 Transformer 的区域自适应采样库：加速推理**
 
@@ -45,12 +45,12 @@ CVPR 2026 论文 Region-Adaptive Sampling 的开源实现。它不再对图像�
 ```mermaid
 xychart-beta
     title "microsoft/RAS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 156 --> 158
     line [157, 157]
 ```
 
-2026-10-18 157 → 2026-11-18 157（+0）
+2026-10-18 157 → 2026-11-19 157（+0）
 
 
 ---

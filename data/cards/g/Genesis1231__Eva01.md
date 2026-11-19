@@ -1,6 +1,6 @@
 # Genesis1231/Eva01
 
-⭐ 23 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/Genesis1231/Eva01) · [官网](https://genesis1231.github.io/Eva01/journal) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/Genesis1231/Eva01) · [官网](https://genesis1231.github.io/Eva01/journal) · 个人维护
 
 **拥有自主内在状态的多模态 AI 存在体实验项目**
 
@@ -45,12 +45,12 @@ Eva01 是一个持续运行的自主 agent 实验项目，定位为非助手型 
 ```mermaid
 xychart-beta
     title "Genesis1231/Eva01 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-11-18 23（+1）
+2026-10-18 22 → 2026-11-19 24（+2）
 
 
 ---

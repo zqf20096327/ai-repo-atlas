@@ -1,6 +1,6 @@
 # miantiao-me/hacker-podcast
 
-⭐ 2,605 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/miantiao-me/hacker-podcast) · [官网](https://hacker-podcast.agi.li) · 个人维护 · 中文 README
+⭐ 2,606 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/miantiao-me/hacker-podcast) · [官网](https://hacker-podcast.agi.li) · 个人维护 · 中文 README
 
 **AI 自动生成的 Hacker News 中文播客站，每日更新**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "miantiao-me/hacker-podcast 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 2596 --> 2606
-    line [2597, 2599, 2600, 2601, 2599, 2603, 2605, 2605]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 2596 --> 2607
+    line [2597, 2599, 2600, 2601, 2599, 2603, 2605, 2606]
 ```
 
-2026-10-18 2,597 → 2026-11-18 2,605（+8）
+2026-10-18 2,597 → 2026-11-19 2,606（+9）
 
 
 ---

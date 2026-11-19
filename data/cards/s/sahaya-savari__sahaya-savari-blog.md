@@ -1,6 +1,6 @@
 # sahaya-savari/sahaya-savari-blog
 
-⭐ 59 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/sahaya-savari/sahaya-savari-blog) · [官网](https://blog.sahayasavari.dev) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/sahaya-savari/sahaya-savari-blog) · [官网](https://blog.sahayasavari.dev) · 个人维护
 
 **个人技术博客与作品集网站（React/Vite 静态站）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sahaya-savari/sahaya-savari-blog 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-11", "2026-11-19"]
     y-axis "stars" 57 --> 61
-    line [59, 58, 60, 58, 59, 59]
+    line [59, 58, 60, 58, 59, 58]
 ```
 
-2026-10-18 59 → 2026-11-18 59（+0）
+2026-10-18 59 → 2026-11-19 58（-1）
 
 
 ---

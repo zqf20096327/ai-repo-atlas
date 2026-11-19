@@ -1,6 +1,6 @@
 # OpenSauce/nam-rs
 
-⭐ 14 · Rust · MIT · 推送 2026-08-24 · [GitHub](https://github.com/OpenSauce/nam-rs) · [官网](https://docs.rs/nam-rs) · 组织维护
+⭐ 15 · Rust · MIT · 推送 2026-08-24 · [GitHub](https://github.com/OpenSauce/nam-rs) · [官网](https://docs.rs/nam-rs) · 组织维护
 
 **给音频开发者的纯 Rust 实时 NAM 模型推理库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenSauce/nam-rs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 12, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 12, 13, 14, 15]
 ```
 
-2026-10-18 12 → 2026-11-18 14（+2）
+2026-10-18 12 → 2026-11-19 15（+3）
 
 
 ---

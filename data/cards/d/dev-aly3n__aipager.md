@@ -1,6 +1,6 @@
 # dev-aly3n/aipager
 
-⭐ 21 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dev-aly3n/aipager) · [官网](https://aipager.run) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dev-aly3n/aipager) · [官网](https://aipager.run) · 个人维护
 
 **通过 Telegram 远程操控本机 Claude Code 会话的工具**
 
@@ -44,13 +44,13 @@ aipager 把运行在用户自己电脑上的 Claude Code 终端会话接入 Tele
 
 ```mermaid
 xychart-beta
-    title "dev-aly3n/aipager 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
+    title "dev-aly3n/aipager 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19"]
     y-axis "stars" 12 --> 22
-    line [13, 14, 15, 16, 14, 19, 20, 21]
+    line [13, 14, 15, 16, 14, 19, 20, 21, 21]
 ```
 
-2026-10-22 13 → 2026-11-18 21（+8）
+2026-10-22 13 → 2026-11-19 21（+8）
 
 
 ---

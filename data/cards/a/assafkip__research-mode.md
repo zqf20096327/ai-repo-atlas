@@ -1,6 +1,6 @@
 # assafkip/research-mode
 
-⭐ 154 · 推送 2026-04-16 · [GitHub](https://github.com/assafkip/research-mode) · 个人维护
+⭐ 155 · 推送 2026-04-16 · [GitHub](https://github.com/assafkip/research-mode) · 个人维护
 
 **Claude Code 的防幻觉开关插件：强制引用与来源落地**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "assafkip/research-mode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
-    y-axis "stars" 151 --> 155
-    line [152, 154, 154]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    y-axis "stars" 151 --> 156
+    line [152, 154, 155]
 ```
 
-2026-10-18 152 → 2026-11-18 154（+2）
+2026-10-18 152 → 2026-11-19 155（+3）
 
 
 ---

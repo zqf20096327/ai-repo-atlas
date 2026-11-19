@@ -1,6 +1,6 @@
 # madcodeorg/nota
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/madcodeorg/nota) · [官网](https://thenota.app) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/madcodeorg/nota) · [官网](https://thenota.app) · 组织维护
 
 **本地优先的笔记/白板/会议转写桌面工作区**
 
@@ -44,13 +44,13 @@ Nota 是基于 Electron 的本地优先桌面应用，整合文档、白板、�
 
 ```mermaid
 xychart-beta
-    title "madcodeorg/nota 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
+    title "madcodeorg/nota 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 6 --> 13
-    line [7, 9, 10, 11, 10, 11, 12]
+    line [7, 9, 10, 11, 10, 11, 12, 12]
 ```
 
-2026-10-18 7 → 2026-11-18 12（+5）
+2026-10-18 7 → 2026-11-19 12（+5）
 
 
 ---

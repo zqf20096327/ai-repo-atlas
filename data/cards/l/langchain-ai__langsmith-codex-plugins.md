@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-codex-plugins
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/langchain-ai/langsmith-codex-plugins) · [官网](https://langchain.com) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/langchain-ai/langsmith-codex-plugins) · [官网](https://langchain.com) · 组织维护
 
 **把 OpenAI Codex 的会话与工具调用发送到 LangSmith 的追踪插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langsmith-codex-plugins 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    title "langchain-ai/langsmith-codex-plugins 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 12 --> 15
-    line [14, 13, 14, 13, 14]
+    line [14, 13, 14, 13, 14, 14]
 ```
 
-2026-10-18 14 → 2026-11-18 14（+0）
+2026-10-18 14 → 2026-11-19 14（+0）
 
 
 ---

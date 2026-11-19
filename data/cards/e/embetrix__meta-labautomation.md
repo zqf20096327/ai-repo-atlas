@@ -46,13 +46,13 @@ OpenEmbedded/Yocto 层，用于构建面向实验室自动化与硬件在环（H
 
 ```mermaid
 xychart-beta
-    title "embetrix/meta-labautomation 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-18"]
+    title "embetrix/meta-labautomation 星数(近 3 点)"
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-19"]
     y-axis "stars" 17 --> 29
-    line [18, 28]
+    line [18, 28, 28]
 ```
 
-2026-11-15 18 → 2026-11-18 28（+10）
+2026-11-15 18 → 2026-11-19 28（+10）
 
 
 ---

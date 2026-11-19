@@ -1,6 +1,6 @@
 # omarperacha/ps4-dataset
 
-⭐ 15 · Python · CC0-1.0 · 推送 2026-09-11 · [GitHub](https://github.com/omarperacha/ps4-dataset) · [官网](https://www.future-science.com/doi/10.2144/btn-2023-0024) · 个人维护
+⭐ 16 · Python · CC0-1.0 · 推送 2026-09-11 · [GitHub](https://github.com/omarperacha/ps4-dataset) · [官网](https://www.future-science.com/doi/10.2144/btn-2023-0024) · 个人维护
 
 **蛋白质单序列二级结构预测的最大开源数据集及配套模型工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "omarperacha/ps4-dataset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-11-18 15（+1）
+2026-10-18 14 → 2026-11-19 16（+2）
 
 
 ---

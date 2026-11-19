@@ -1,6 +1,6 @@
 # cjh-solver/MathModeling-Skills-Arsenal
 
-⭐ 105 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/cjh-solver/MathModeling-Skills-Arsenal) · 个人维护 · 中文 README
+⭐ 106 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/cjh-solver/MathModeling-Skills-Arsenal) · 个人维护 · 中文 README
 
 **数学建模竞赛的 AI Agent 技能集与本地工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cjh-solver/MathModeling-Skills-Arsenal 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 5 --> 114
-    line [14, 15, 59, 81, 105]
+    title "cjh-solver/MathModeling-Skills-Arsenal 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 5 --> 115
+    line [14, 15, 59, 81, 105, 106]
 ```
 
-2026-11-08 14 → 2026-11-18 105（+91）
+2026-11-08 14 → 2026-11-19 106（+92）
 
 
 ---

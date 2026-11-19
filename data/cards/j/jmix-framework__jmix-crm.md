@@ -1,6 +1,6 @@
 # jmix-framework/jmix-crm
 
-⭐ 30 · Java · 推送 2026-11-10 · [GitHub](https://github.com/jmix-framework/jmix-crm) · [官网](https://demo.jmix.io/b2b-crm) · 组织维护
+⭐ 30 · Java · 推送 2026-11-18 · [GitHub](https://github.com/jmix-framework/jmix-crm) · [官网](https://demo.jmix.io/b2b-crm) · 组织维护
 
 **基于 Jmix 的企业 B2B CRM 示例应用，内置 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jmix-framework/jmix-crm 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
     y-axis "stars" 26 --> 31
     line [27, 28, 29, 27, 29, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-18 30（+3）
+2026-10-18 27 → 2026-11-19 30（+3）
 
 
 ---

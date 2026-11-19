@@ -1,6 +1,6 @@
 # meta-llama/llama-api-typescript
 
-⭐ 39 · TypeScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/meta-llama/llama-api-typescript) · 组织维护
+⭐ 40 · TypeScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/meta-llama/llama-api-typescript) · 组织维护
 
 **Meta 官方 Llama API 的 TypeScript/JavaScript 客户端 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "meta-llama/llama-api-typescript 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-18 38 → 2026-11-18 39（+1）
+2026-10-18 38 → 2026-11-19 40（+2）
 
 
 ---

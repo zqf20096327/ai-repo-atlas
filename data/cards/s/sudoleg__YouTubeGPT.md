@@ -1,6 +1,6 @@
 # sudoleg/YouTubeGPT
 
-⭐ 16 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sudoleg/YouTubeGPT) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/sudoleg/YouTubeGPT) · 个人维护
 
 **本地可运行的 YouTube 视频摘要与问答 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sudoleg/YouTubeGPT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 15 --> 18
     line [17, 16, 17, 16, 16]
 ```
 
-2026-10-18 17 → 2026-11-18 16（-1）
+2026-10-18 17 → 2026-11-19 16（-1）
 
 
 ---

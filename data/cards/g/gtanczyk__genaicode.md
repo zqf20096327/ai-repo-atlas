@@ -1,6 +1,6 @@
 # gtanczyk/genaicode
 
-⭐ 65 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/gtanczyk/genaicode) · [官网](https://grzegorz.tanczyk.pl/genaicode/) · 个人维护
+⭐ 65 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/gtanczyk/genaicode) · [官网](https://grzegorz.tanczyk.pl/genaicode/) · 个人维护
 
 **TypeScript 后端调用 LLM 的轻量工具包：可移植提示词与多供应商适配器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gtanczyk/genaicode 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 46 --> 66
     line [47, 51, 52, 47, 65, 65]
 ```
 
-2026-10-18 47 → 2026-11-18 65（+18）
+2026-10-18 47 → 2026-11-19 65（+18）
 
 
 ---

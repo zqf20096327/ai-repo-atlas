@@ -1,6 +1,6 @@
 # rjcuff/Woolly
 
-⭐ 12 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/rjcuff/Woolly) · [官网](https://usewoolly.com) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rjcuff/Woolly) · [官网](https://usewoolly.com) · 个人维护
 
 **本地共享的项目记忆服务器：让多个 AI 编码工具共用记忆**
 
@@ -45,12 +45,12 @@ Woolly 为 Claude Code、Cursor、Codex 等编码 agent 提供运行在本机的
 ```mermaid
 xychart-beta
     title "rjcuff/Woolly 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19"]
     y-axis "stars" 5 --> 13
     line [6, 8, 11, 12, 12]
 ```
 
-2026-11-11 6 → 2026-11-18 12（+6）
+2026-11-11 6 → 2026-11-19 12（+6）
 
 
 ---

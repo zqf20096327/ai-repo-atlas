@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "virtualsteve-star/chat-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "virtualsteve-star/chat-playground 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 40 --> 43
-    line [41, 42]
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-18 42（+1）
+2026-10-18 41 → 2026-11-19 42（+1）
 
 
 ---

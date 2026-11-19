@@ -1,6 +1,6 @@
 # raphaelDkhn/miroir
 
-⭐ 40 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/raphaelDkhn/miroir) · [官网](https://raphaeldkhn.github.io/miroir/) · 个人维护
+⭐ 41 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/raphaelDkhn/miroir) · [官网](miroir.mintlify.site) · 个人维护
 
 **把真实产品打包成 Agent 强化学习环境的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "raphaelDkhn/miroir 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 36 --> 41
-    line [37, 40]
+    title "raphaelDkhn/miroir 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 36 --> 42
+    line [37, 40, 41]
 ```
 
-2026-11-16 37 → 2026-11-18 40（+3）
+2026-11-16 37 → 2026-11-19 41（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Bader-Aloqily/claude-code-stock-picker
 
-⭐ 13 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Bader-Aloqily/claude-code-stock-picker) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Bader-Aloqily/claude-code-stock-picker) · 个人维护
 
 **在 Claude Code 内运行的每周美股 AI 选股命令系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bader-Aloqily/claude-code-stock-picker 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 3 --> 14
-    line [4, 5, 6, 8, 9, 5, 11, 12, 13]
+    title "Bader-Aloqily/claude-code-stock-picker 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 3 --> 15
+    line [4, 5, 6, 8, 9, 5, 11, 12, 13, 14]
 ```
 
-2026-10-22 4 → 2026-11-18 13（+9）
+2026-10-22 4 → 2026-11-19 14（+10）
 
 
 ---

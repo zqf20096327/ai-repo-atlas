@@ -1,6 +1,6 @@
 # jfrog/agent-belt
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/jfrog/agent-belt) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/jfrog/agent-belt) · 组织维护
 
 **AI 编程 agent CLI 的可复现多轮场景评测工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jfrog/agent-belt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-18 19（+0）
+2026-10-18 19 → 2026-11-19 19（+0）
 
 
 ---

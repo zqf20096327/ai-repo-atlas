@@ -1,6 +1,6 @@
 # jaedync/crucible-strix-halo
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/jaedync/crucible-strix-halo) · [官网](https://srv.jaedyn.me/strix-halo-engine-optimization/index.html) · 个人维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/jaedync/crucible-strix-halo) · [官网](https://srv.jaedyn.me/strix-halo-engine-optimization/index.html) · 个人维护
 
 **在 AMD Strix Halo 上运行 Qwen3.8-Flash-Next EXL3 的 C++20 推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jaedync/crucible-strix-halo 星数(近 15 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 37
-    line [3, 5, 7, 10, 11, 13, 14, 7, 19, 20, 21, 26, 32, 33, 34]
+    title "jaedync/crucible-strix-halo 星数(近 16 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 38
+    line [3, 5, 7, 10, 11, 13, 14, 7, 19, 20, 21, 26, 32, 33, 34, 35]
 ```
 
-2026-10-22 3 → 2026-11-18 34（+31）
+2026-10-22 3 → 2026-11-19 35（+32）
 
 
 ---

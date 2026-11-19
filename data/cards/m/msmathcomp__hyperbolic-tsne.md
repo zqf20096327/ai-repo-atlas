@@ -45,12 +45,12 @@ IEEE TVCG 2024 论文《Accelerating hyperbolic t-SNE》的官方代码仓库，
 ```mermaid
 xychart-beta
     title "msmathcomp/hyperbolic-tsne 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-18 19（+0）
+2026-10-18 19 → 2026-11-19 19（+0）
 
 
 ---

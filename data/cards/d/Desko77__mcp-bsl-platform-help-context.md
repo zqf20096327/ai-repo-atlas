@@ -1,6 +1,6 @@
 # Desko77/mcp-bsl-platform-help-context
 
-⭐ 18 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Desko77/mcp-bsl-platform-help-context) · [官网](https://github.com/DitriXNew/mcp-bsl-platform-context) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Desko77/mcp-bsl-platform-help-context) · [官网](https://github.com/DitriXNew/mcp-bsl-platform-context) · 个人维护
 
 **为 AI 助手提供 1С 平台 API 文档检索的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Python 实现的 MCP 服务器（Kotlin 版 mcp-bsl-platform-context 的移植�
 ```mermaid
 xychart-beta
     title "Desko77/mcp-bsl-platform-help-context 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 19（+1）
 
 
 ---

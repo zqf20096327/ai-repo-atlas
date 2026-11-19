@@ -1,6 +1,6 @@
 # callstackincubator/cali
 
-⭐ 992 · TypeScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/callstackincubator/cali) · 组织维护
+⭐ 993 · TypeScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/callstackincubator/cali) · 组织维护
 
 **面向 React Native 团队的 AI agent CLI：QA、代码审查与实现流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "callstackincubator/cali 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 989 --> 993
-    line [991, 990, 991, 992, 990, 992, 992]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 989 --> 994
+    line [991, 990, 991, 992, 990, 992, 993]
 ```
 
-2026-10-18 991 → 2026-11-18 992（+1）
+2026-10-18 991 → 2026-11-19 993（+2）
 
 
 ---

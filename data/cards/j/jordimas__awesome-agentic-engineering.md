@@ -1,6 +1,6 @@
 # jordimas/awesome-agentic-engineering
 
-⭐ 116 · CC0-1.0 · 推送 2026-06-27 · [GitHub](https://github.com/jordimas/awesome-agentic-engineering) · 个人维护
+⭐ 117 · CC0-1.0 · 推送 2026-06-27 · [GitHub](https://github.com/jordimas/awesome-agentic-engineering) · 个人维护
 
 **面向工程团队的 Agentic Engineering 实践资源策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jordimas/awesome-agentic-engineering 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 111 --> 117
-    line [112, 113, 114, 115, 112, 114, 115, 116, 116]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 111 --> 118
+    line [112, 113, 114, 115, 112, 114, 115, 116, 117]
 ```
 
-2026-10-18 112 → 2026-11-18 116（+4）
+2026-10-18 112 → 2026-11-19 117（+5）
 
 
 ---

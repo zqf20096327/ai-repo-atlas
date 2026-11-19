@@ -1,6 +1,6 @@
 # Jason1008Jia/Dojao
 
-⭐ 12 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Jason1008Jia/Dojao) · 个人维护
+⭐ 53 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Jason1008Jia/Dojao) · 个人维护
 
 **给数据分析师/科学家的跨源分布式 SQL 计算引擎，带 AI 问数 Agent**
 
@@ -46,13 +46,13 @@ Java 实现的分布式 MPP 计算引擎：一条 SQL 跨 MySQL/TiDB/Doris/Postg
 
 ```mermaid
 xychart-beta
-    title "Jason1008Jia/Dojao 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 13
-    line [3, 7, 8, 11, 12]
+    title "Jason1008Jia/Dojao 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 58
+    line [3, 7, 8, 11, 12, 53]
 ```
 
-2026-11-13 3 → 2026-11-18 12（+9）
+2026-11-13 3 → 2026-11-19 53（+50）
 
 
 ---

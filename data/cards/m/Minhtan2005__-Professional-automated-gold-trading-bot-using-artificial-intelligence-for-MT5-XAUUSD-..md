@@ -1,6 +1,6 @@
 # Minhtan2005/-Professional-automated-gold-trading-bot-using-artificial-intelligence-for-MT5-XAUUSD-.
 
-⭐ 27 · Python · 推送 2026-02-03 · [GitHub](https://github.com/Minhtan2005/-Professional-automated-gold-trading-bot-using-artificial-intelligence-for-MT5-XAUUSD-.) · 个人维护 · 中文 README
+⭐ 28 · Python · 推送 2026-02-03 · [GitHub](https://github.com/Minhtan2005/-Professional-automated-gold-trading-bot-using-artificial-intelligence-for-MT5-XAUUSD-.) · 个人维护 · 中文 README
 
 **面向 MT5 黄金交易的随机森林自动交易机器人（标准版）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Minhtan2005/-Professional-automated-gold-trading-bot-using-artificial-intelligence-for-MT5-XAUUSD-. 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 27, 28]
 ```
 
-2026-10-18 24 → 2026-11-18 27（+3）
+2026-10-18 24 → 2026-11-19 28（+4）
 
 
 ---

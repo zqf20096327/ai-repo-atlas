@@ -1,6 +1,6 @@
 # samhoon000/Oribi
 
-⭐ 13 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/samhoon000/Oribi) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/samhoon000/Oribi) · 个人维护
 
 **为 LLM 等下游工具生成 DataFrame 结构化画像的 Python 库**
 
@@ -39,6 +39,18 @@
 
 > L3: Oribi profiles a pandas DataFrame and returns a structured, evidence-backed snapshot of its shape, column statistics
 > L84: Additional data sources, configurable semantic rules, cross-table foreign-key analysis, and richer profiling option
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "samhoon000/Oribi 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-18 13 → 2026-11-19 13（+0）
 
 
 ---

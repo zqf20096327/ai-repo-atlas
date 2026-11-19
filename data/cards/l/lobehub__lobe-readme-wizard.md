@@ -45,12 +45,12 @@ LobeHub 维护的 README 生成器：按 Hero、Features、Installation、Develo
 ```mermaid
 xychart-beta
     title "lobehub/lobe-readme-wizard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-18 32（+1）
+2026-10-18 31 → 2026-11-19 32（+1）
 
 
 ---

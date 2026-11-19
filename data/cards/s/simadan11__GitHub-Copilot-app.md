@@ -1,16 +1,16 @@
 # simadan11/GitHub-Copilot-app
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/simadan11/GitHub-Copilot-app) · 组织维护
+⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/simadan11/GitHub-Copilot-app) · 组织维护
 
-**GitHub Copilot 官方桌面应用：跨仓库调度 agent 完成开发工作**
+**面向 GitHub 仓库的桌面端 Agent 开发工作管理应用**
 
-GitHub 官方发布的 agent 化桌面应用，面向在多仓库间进行软件开发的用户：提供查找待办工作、启动与引导 Copilot agent、通过 Canvas 查看与干预 agent 进度、以 Agent Merge 推动拉取请求走完评审与合并的统一控制中心。本地会话在隔离 git worktree 中运行，云会话运行于 GitHub 托管环境；支持自带密钥（BYOK）接入自有模型提供商，无 Copilot 订阅也可使用。通过 Releases 页面下载安装包。
+GitHub 官方的桌面应用，定位为管理从想法到 pull request 全流程的 Agent 原生控制中心：查找工作、启动与引导编码 Agent、审查进度并落地变更。本地会话运行在隔离的 git worktree 中，云端会话在 GitHub 托管环境运行；提供 Canvases 展示 Agent 工作状态、My Work 聚合会话/issue/PR、Automations 定时任务与 Agent Merge 合并流程。需 Git 与 GitHub Copilot 订阅，无订阅时可通过 BYOK 自带模型 provider 使用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@ GitHub 官方发布的 agent 化桌面应用，面向在多仓库间进行软件
 
 ## 能力要点
 
-- 本地会话各自运行在隔离 git worktree，云会话运行于 GitHub 托管环境
-- Canvas 将 agent 的计划、终端、diff 与工作流状态呈现为可检查界面
-- Automations 将可重复提示与工作流转为定时/后台任务，Agent Merge 协助评审与合并
-- 支持 BYOK 接入自有模型提供商，无 Copilot 计划也可使用
+- 本地会话在隔离 git worktree 中并行运行多个 Agent
+- 云端会话在隔离的 GitHub 托管环境运行并可随处接续
+- Canvases 提供 Agent 计划、终端、diff、工作流状态的可视化面板
+- 无 Copilot 订阅时支持 BYOK 自带模型 provider
 
 ## 适用场景
 
-- 并行调度多个 Copilot agent 处理缺陷、issue 与评审反馈
-- 在单一界面内管理多仓库的会话、issue 与拉取请求
-- 以定时自动化任务执行重复性工作流
+- 同时让多个 Agent 并行调查 bug、实现 issue、处理 review 反馈
+- 在单一界面聚合管理会话、issue、pull request
+- 把重复性提示词变成定时或后台自动化任务
 
 ## 场景标签
 
@@ -41,6 +41,18 @@ GitHub 官方发布的 agent 化桌面应用，面向在多仓库间进行软件
 > L13: The GitHub Copilot app is an agent-native desktop experience for managing software work from idea to pull request. 
 > L15: The app is built for parallel agent-driven development. Each local session runs in its own isolated git worktree, a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "simadan11/GitHub-Copilot-app 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-11-18 62 → 2026-11-19 62（+0）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `ef82cf6db0cd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `f27c6eaa47bb` · [字段定义](../../DATASET.md)*

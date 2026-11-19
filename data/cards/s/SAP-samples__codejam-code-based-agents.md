@@ -1,6 +1,6 @@
 # SAP-samples/codejam-code-based-agents
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SAP-samples/codejam-code-based-agents) · 组织维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/SAP-samples/codejam-code-based-agents) · 组织维护
 
 **面向开发者的 SAP BTP 代码式 AI Agent 开发教程（三套技术栈）**
 
@@ -46,12 +46,12 @@ SAP Developer Advocates 维护的 CodeJam 培训材料仓库：指导学员用 P
 ```mermaid
 xychart-beta
     title "SAP-samples/codejam-code-based-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
-    y-axis "stars" 67 --> 70
-    line [68, 69, 69]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    y-axis "stars" 67 --> 71
+    line [68, 69, 70]
 ```
 
-2026-10-18 68 → 2026-11-18 69（+1）
+2026-10-18 68 → 2026-11-19 70（+2）
 
 
 ---

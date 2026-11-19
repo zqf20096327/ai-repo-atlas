@@ -1,6 +1,6 @@
 # rgoerwit/ai-investment-agent
 
-⭐ 70 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/rgoerwit/ai-investment-agent) · [官网](https://medium.com/p/172783ed6961) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/rgoerwit/ai-investment-agent) · [官网](https://medium.com/p/172783ed6961) · 个人维护
 
 **面向美股以外小中盘价值股的多 agent 股票研究系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rgoerwit/ai-investment-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
     y-axis "stars" 69 --> 72
-    line [71, 70, 70]
+    line [71, 70, 71]
 ```
 
-2026-10-18 71 → 2026-11-18 70（-1）
+2026-10-18 71 → 2026-11-19 71（+0）
 
 
 ---

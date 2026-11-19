@@ -44,13 +44,13 @@ DeepMind 发布的基于 LLM 的模拟开发平台：采用 Entity-Component-Sys
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/simulation_streams 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "google-deepmind/simulation_streams 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 27 --> 31
-    line [28, 30]
+    line [28, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-18 30（+2）
+2026-10-18 28 → 2026-11-19 30（+2）
 
 
 ---

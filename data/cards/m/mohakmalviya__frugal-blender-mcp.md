@@ -1,6 +1,6 @@
 # mohakmalviya/frugal-blender-mcp
 
-⭐ 17 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/mohakmalviya/frugal-blender-mcp) · [官网](https://pypi.org/project/frugal-blender-mcp/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/mohakmalviya/frugal-blender-mcp) · [官网](https://pypi.org/project/frugal-blender-mcp/) · 个人维护
 
 **让 AI 代理用 4 个 MCP 工具操控 Blender 建场景**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mohakmalviya/frugal-blender-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 12 --> 18
-    line [13, 14, 15, 14, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 12 --> 19
+    line [13, 14, 15, 14, 16, 17, 18]
 ```
 
-2026-10-18 13 → 2026-11-18 17（+4）
+2026-10-18 13 → 2026-11-19 18（+5）
 
 
 ---

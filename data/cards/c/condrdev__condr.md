@@ -1,6 +1,6 @@
 # condrdev/condr
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/condrdev/condr) · [官网](https://condr.dev) · 个人维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/condrdev/condr) · [官网](https://condr.dev) · 个人维护
 
 **统一窗口运行与管理多个 AI 编码 agent 的应用**
 
@@ -46,12 +46,12 @@ Condr 由 Server 与 Client 两部分组成：Server 后台托管终端进程与
 ```mermaid
 xychart-beta
     title "condrdev/condr 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-18"]
+    x-axis ["2026-11-11", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-11 13 → 2026-11-18 13（+0）
+2026-11-11 13 → 2026-11-19 13（+0）
 
 
 ---

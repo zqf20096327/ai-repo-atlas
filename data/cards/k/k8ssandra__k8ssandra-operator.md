@@ -1,6 +1,6 @@
 # k8ssandra/k8ssandra-operator
 
-⭐ 244 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/k8ssandra/k8ssandra-operator) · [官网](https://k8ssandra.io/) · 组织维护
+⭐ 244 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/k8ssandra/k8ssandra-operator) · [官网](https://k8ssandra.io/) · 组织维护
 
 **在 Kubernetes 上部署管理多集群 Apache Cassandra/DSE 的 Operator**
 
@@ -45,12 +45,12 @@ K8ssandra Operator 是管理 Apache Cassandra 与 DataStax Enterprise（DSE）�
 ```mermaid
 xychart-beta
     title "k8ssandra/k8ssandra-operator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
     y-axis "stars" 242 --> 245
     line [243, 244, 244]
 ```
 
-2026-10-18 243 → 2026-11-18 244（+1）
+2026-10-18 243 → 2026-11-19 244（+1）
 
 
 ---

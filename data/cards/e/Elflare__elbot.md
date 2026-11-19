@@ -1,6 +1,6 @@
 # Elflare/elbot
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Elflare/elbot) · [官网](https://elfreese.github.io/elbot-landing/) · 个人维护 · 中文 README
+⭐ 12 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Elflare/elbot) · [官网](https://elfreese.github.io/elbot-landing/) · 个人维护 · 中文 README
 
 **轻量 Go 语言 Agent/Chatbot 框架**
 
@@ -46,12 +46,12 @@ Go 编写的轻量 Agent/Chatbot 框架，目标是最小化运行成本、上�
 ```mermaid
 xychart-beta
     title "Elflare/elbot 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-19 10 → 2026-11-18 12（+2）
+2026-10-19 10 → 2026-11-19 12（+2）
 
 
 ---

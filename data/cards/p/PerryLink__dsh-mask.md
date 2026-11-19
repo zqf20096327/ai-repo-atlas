@@ -1,6 +1,6 @@
 # PerryLink/dsh-mask
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PerryLink/dsh-mask) · [官网](https://www.npmjs.com/package/dsh-mask) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PerryLink/dsh-mask) · [官网](https://www.npmjs.com/package/dsh-mask) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 PII 脱敏插件：模型边界前置匿名化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-mask 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-19"]
     y-axis "stars" 13 --> 19
-    line [14, 15, 14, 15, 17, 18, 17, 17]
+    line [14, 15, 14, 15, 17, 18, 17, 18]
 ```
 
-2026-10-18 14 → 2026-11-18 17（+3）
+2026-10-18 14 → 2026-11-19 18（+4）
 
 
 ---

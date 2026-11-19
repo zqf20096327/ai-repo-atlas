@@ -1,6 +1,6 @@
 # moudrkat/brainscope
 
-⭐ 54 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/moudrkat/brainscope) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/moudrkat/brainscope) · 个人维护
 
 **OpenAI 兼容推理服务器：实时观测与操控 HF 模型内部激活**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "moudrkat/brainscope 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 55]
 ```
 
-2026-10-18 53 → 2026-11-18 54（+1）
+2026-10-18 53 → 2026-11-19 55（+2）
 
 
 ---

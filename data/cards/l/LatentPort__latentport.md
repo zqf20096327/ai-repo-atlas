@@ -1,6 +1,6 @@
 # LatentPort/latentport
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/LatentPort/latentport) · [官网](https://latentport.com) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/LatentPort/latentport) · [官网](https://latentport.com) · 个人维护
 
 **让 LLM 推理内部状态可编程：迁移、压缩、分叉上下文**
 
@@ -47,12 +47,12 @@ Python 运行时库，将模型推理状态（KV/循环记忆/位置）变为可
 ```mermaid
 xychart-beta
     title "LatentPort/latentport 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 9 --> 13
-    line [10, 12, 12]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 9 --> 14
+    line [10, 12, 13]
 ```
 
-2026-11-14 10 → 2026-11-18 12（+2）
+2026-11-14 10 → 2026-11-19 13（+3）
 
 
 ---

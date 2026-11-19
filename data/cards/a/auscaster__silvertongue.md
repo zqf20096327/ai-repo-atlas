@@ -1,6 +1,6 @@
 # auscaster/silvertongue
 
-⭐ 115 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/auscaster/silvertongue) · [官网](https://silvertongue.dev) · 个人维护
+⭐ 114 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/auscaster/silvertongue) · [官网](https://silvertongue.dev) · 个人维护
 
 **65+ 名人写作风格档案库，供 agent/MCP/PR 审查使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "auscaster/silvertongue 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19"]
     y-axis "stars" 100 --> 116
-    line [101, 114, 115, 115]
+    line [101, 114, 115, 114]
 ```
 
-2026-11-11 101 → 2026-11-18 115（+14）
+2026-11-11 101 → 2026-11-19 114（+13）
 
 
 ---

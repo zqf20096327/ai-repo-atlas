@@ -1,6 +1,6 @@
 # kangraemin/ai-paper-digest
 
-⭐ 13 · TypeScript · 推送 2026-11-09 · [GitHub](https://github.com/kangraemin/ai-paper-digest) · [官网](https://ai-paper-delta.vercel.app) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/kangraemin/ai-paper-digest) · [官网](https://ai-paper-delta.vercel.app) · 个人维护
 
 **每日筛选 arXiv 等来源并以韩语总结 LLM 论文的自动化摘要站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kangraemin/ai-paper-digest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

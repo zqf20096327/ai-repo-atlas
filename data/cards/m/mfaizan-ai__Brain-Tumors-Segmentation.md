@@ -1,6 +1,6 @@
 # mfaizan-ai/Brain-Tumors-Segmentation
 
-⭐ 104 · Python · MIT · 推送 2026-03-23 · [GitHub](https://github.com/mfaizan-ai/Brain-Tumors-Segmentation) · 个人维护
+⭐ 105 · Python · MIT · 推送 2026-03-23 · [GitHub](https://github.com/mfaizan-ai/Brain-Tumors-Segmentation) · 个人维护
 
 **基于 BraTS 数据集的脑肿瘤 MRI 分割训练框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mfaizan-ai/Brain-Tumors-Segmentation 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-18"]
-    y-axis "stars" 101 --> 105
-    line [102, 103, 104, 103, 104]
+    title "mfaizan-ai/Brain-Tumors-Segmentation 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 101 --> 106
+    line [102, 103, 104, 103, 104, 105]
 ```
 
-2026-10-18 102 → 2026-11-18 104（+2）
+2026-10-18 102 → 2026-11-19 105（+3）
 
 
 ---

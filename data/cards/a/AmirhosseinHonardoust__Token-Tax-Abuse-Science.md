@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Token-Tax-Abuse-Science
 
-⭐ 16 · MIT · 推送 2025-11-22 · [GitHub](https://github.com/AmirhosseinHonardoust/Token-Tax-Abuse-Science) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向审计者的 ERC-20 代币税收滥用技术研究文章**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

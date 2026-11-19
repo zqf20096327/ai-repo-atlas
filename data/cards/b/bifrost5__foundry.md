@@ -1,6 +1,6 @@
 # bifrost5/foundry
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/bifrost5/foundry) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/bifrost5/foundry) · 个人维护
 
 **AI 编码 agent 的持久化编排控制面，管理长周期任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bifrost5/foundry 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-08 12 → 2026-11-18 12（+0）
+2026-11-08 12 → 2026-11-19 12（+0）
 
 
 ---

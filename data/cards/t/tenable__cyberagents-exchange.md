@@ -1,6 +1,6 @@
 # tenable/cyberagents-exchange
 
-⭐ 24 · Python · 推送 2026-11-17 · [GitHub](https://github.com/tenable/cyberagents-exchange) · [官网](https://exchange.tenable.com) · 组织维护
+⭐ 24 · Python · 推送 2026-11-18 · [GitHub](https://github.com/tenable/cyberagents-exchange) · [官网](https://exchange.tenable.com) · 组织维护
 
 **网络安全 AI agent 社区目录：索引 agent/技能/MCP 服务器/剧本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tenable/cyberagents-exchange 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19"]
     y-axis "stars" 19 --> 25
     line [20, 21, 22, 20, 23, 24, 24]
 ```
 
-2026-10-18 20 → 2026-11-18 24（+4）
+2026-10-18 20 → 2026-11-19 24（+4）
 
 
 ---

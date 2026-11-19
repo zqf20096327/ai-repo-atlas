@@ -1,6 +1,6 @@
 # Rjxshr1/idea-to-print
 
-⭐ 17 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Rjxshr1/idea-to-print) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Rjxshr1/idea-to-print) · 个人维护 · 中文 README
 
 **Agent 技能集：从文字或图片生成可打印的 3D 雕塑并完成切片交付**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rjxshr1/idea-to-print 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-18 17（+0）
+2026-10-18 17 → 2026-11-19 18（+1）
 
 
 ---

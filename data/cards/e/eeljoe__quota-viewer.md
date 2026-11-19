@@ -45,13 +45,13 @@ Go + Wails 编写的 Windows 桌面工具（约 11.1 MB 单文件、约 66 MB �
 
 ```mermaid
 xychart-beta
-    title "eeljoe/quota-viewer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "eeljoe/quota-viewer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 9 --> 12
-    line [11, 10]
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-18 10（-1）
+2026-10-18 11 → 2026-11-19 10（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # crit-labs/crit
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/crit-labs/crit) · [官网](https://crit-hub.dev) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/crit-labs/crit) · [官网](https://crit-hub.dev) · 组织维护
 
 **给编码 agent 用的推理引擎构建与优化工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "crit-labs/crit 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18"]
+    title "crit-labs/crit 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
     y-axis "stars" 43 --> 49
-    line [45, 44, 45, 47, 48, 47]
+    line [45, 44, 45, 47, 48, 47, 47]
 ```
 
-2026-11-10 45 → 2026-11-18 47（+2）
+2026-11-10 45 → 2026-11-19 47（+2）
 
 
 ---

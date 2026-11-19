@@ -1,6 +1,6 @@
 # vuepont/ai-elements-vue
 
-⭐ 1,203 · Vue · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/vuepont/ai-elements-vue) · [官网](https://www.ai-elements-vue.com) · 组织维护
+⭐ 1,202 · Vue · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/vuepont/ai-elements-vue) · [官网](https://www.ai-elements-vue.com) · 组织维护
 
 **面向 Vue/Nuxt 的 AI 应用 UI 组件库（基于 shadcn-vue）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vuepont/ai-elements-vue 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
+    title "vuepont/ai-elements-vue 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19"]
     y-axis "stars" 1190 --> 1204
-    line [1191, 1192, 1194, 1196, 1197, 1194, 1200, 1201, 1202, 1203]
+    line [1191, 1192, 1194, 1196, 1197, 1194, 1200, 1201, 1202, 1203, 1202]
 ```
 
-2026-10-18 1,191 → 2026-11-18 1,203（+12）
+2026-10-18 1,191 → 2026-11-19 1,202（+11）
 
 
 ---

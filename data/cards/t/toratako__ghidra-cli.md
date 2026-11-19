@@ -1,6 +1,6 @@
 # toratako/ghidra-cli
 
-⭐ 16 · Rust · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/toratako/ghidra-cli) · 个人维护
+⭐ 16 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/toratako/ghidra-cli) · 个人维护
 
 **面向 AI agent 的 Ghidra 无头逆向 CLI，输出结构化 JSON**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "toratako/ghidra-cli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 12 --> 17
     line [13, 14, 13, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-18 16（+3）
+2026-10-18 13 → 2026-11-19 16（+3）
 
 
 ---

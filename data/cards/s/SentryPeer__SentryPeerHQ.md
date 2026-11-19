@@ -1,6 +1,6 @@
 # SentryPeer/SentryPeerHQ
 
-⭐ 24 · Elixir · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/SentryPeer/SentryPeerHQ) · [官网](https://sentrypeer.com) · 组织维护
+⭐ 24 · Elixir · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/SentryPeer/SentryPeerHQ) · [官网](https://sentrypeer.com) · 组织维护
 
 **管理 SentryPeer 节点数据的 Web 应用与 API（VoIP 欺诈检测）**
 
@@ -44,12 +44,12 @@ Elixir/Phoenix 编写的 Web 应用与 RESTful API，用于管理和查询用户
 ```mermaid
 xychart-beta
     title "SentryPeer/SentryPeerHQ 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-18 24（+0）
+2026-10-18 24 → 2026-11-19 24（+0）
 
 
 ---

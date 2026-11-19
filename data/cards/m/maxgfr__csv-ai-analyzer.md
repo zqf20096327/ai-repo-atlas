@@ -1,6 +1,6 @@
 # maxgfr/csv-ai-analyzer
 
-⭐ 86 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/maxgfr/csv-ai-analyzer) · [官网](https://maxgfr.github.io/csv-ai-analyzer) · 个人维护
+⭐ 86 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/maxgfr/csv-ai-analyzer) · [官网](https://maxgfr.github.io/csv-ai-analyzer) · 个人维护
 
 **自托管浏览器端 AI CSV/Excel 分析应用：多 LLM 生成洞察与图表**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "maxgfr/csv-ai-analyzer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 85 --> 88
     line [87, 86, 86]
 ```
 
-2026-10-18 87 → 2026-11-18 86（-1）
+2026-10-18 87 → 2026-11-19 86（-1）
 
 
 ---

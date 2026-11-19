@@ -1,6 +1,6 @@
 # ginuim/skill-base
 
-⭐ 122 · Vue · 推送 2026-11-17 · [GitHub](https://github.com/ginuim/skill-base) · [官网](https://skillbase.reaidea.com/) · 个人维护 · 中文 README
+⭐ 123 · Vue · 推送 2026-11-18 · [GitHub](https://github.com/ginuim/skill-base) · [官网](https://skillbase.reaidea.com/) · 个人维护 · 中文 README
 
 **团队私有 Agent 技能分发平台：跨 Cursor/Claude Code 等发布安装技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ginuim/skill-base 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 120 --> 123
-    line [121, 122, 122]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 120 --> 124
+    line [121, 122, 123]
 ```
 
-2026-10-18 121 → 2026-11-18 122（+1）
+2026-10-18 121 → 2026-11-19 123（+2）
 
 
 ---

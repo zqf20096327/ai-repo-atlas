@@ -1,6 +1,6 @@
 # metavert-io/llmopt
 
-⭐ 11 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/metavert-io/llmopt) · 组织维护
+⭐ 11 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/metavert-io/llmopt) · 组织维护
 
 **面向品牌方分析 LLM 与 AI 搜索如何引用推荐自己的平台**
 
@@ -46,12 +46,12 @@ Go 后端 + React 前端的平台，围绕品牌在生成式引擎中的可见�
 ```mermaid
 xychart-beta
     title "metavert-io/llmopt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-18 11（+1）
+2026-10-18 10 → 2026-11-19 11（+1）
 
 
 ---

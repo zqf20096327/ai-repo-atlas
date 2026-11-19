@@ -1,6 +1,6 @@
 # aadisang/hand-wave
 
-⭐ 23 · Swift · MIT · 推送 2026-10-08 · [GitHub](https://github.com/aadisang/hand-wave) · [官网](https://handwave.sh) · 个人维护
+⭐ 23 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/aadisang/hand-wave) · [官网](https://handwave.sh) · 个人维护
 
 **基于智能眼镜与美国手语手指拼写的手势识别转语音应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aadisang/hand-wave 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 20 --> 24
     line [21, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-18 23（+2）
+2026-10-18 21 → 2026-11-19 23（+2）
 
 
 ---

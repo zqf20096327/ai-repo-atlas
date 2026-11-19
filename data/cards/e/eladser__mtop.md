@@ -41,6 +41,18 @@
 > L1: mtop - htop for your local AI
 > L9: One terminal window for whatever you're running locally (Ollama, llama.cpp, LM Studio, vLLM, llama-swap, Lemonade, S
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eladser/mtop 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-18 13 → 2026-11-19 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `4e263095bd29` · [字段定义](../../DATASET.md)*

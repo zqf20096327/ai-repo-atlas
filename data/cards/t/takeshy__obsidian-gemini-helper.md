@@ -1,6 +1,6 @@
 # takeshy/obsidian-gemini-helper
 
-⭐ 117 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/takeshy/obsidian-gemini-helper) · 个人维护
+⭐ 117 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/takeshy/obsidian-gemini-helper) · 个人维护
 
 **Obsidian 的 Gemini AI 助手插件：对话、工作流与 RAG**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "takeshy/obsidian-gemini-helper 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-14", "2026-11-19"]
     y-axis "stars" 116 --> 119
     line [118, 117, 118, 117, 117]
 ```
 
-2026-10-18 118 → 2026-11-18 117（-1）
+2026-10-18 118 → 2026-11-19 117（-1）
 
 
 ---

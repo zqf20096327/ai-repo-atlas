@@ -1,6 +1,6 @@
 # erweixin/rego
 
-⭐ 22 · Go · MIT · 推送 2025-12-30 · [GitHub](https://github.com/erweixin/rego) · 个人维护 · 中文 README
+⭐ 23 · Go · MIT · 推送 2025-12-30 · [GitHub](https://github.com/erweixin/rego) · 个人维护 · 中文 README
 
 **Go 语言的组件式声明 TUI 框架，支持 Hooks 风格开发**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "erweixin/rego 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-11-18 22（+0）
+2026-10-18 22 → 2026-11-19 23（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kurojs/wayland-mcp
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/kurojs/wayland-mcp) · [官网](https://pypi.org/project/wayland-mcp-kurojs/) · 个人维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/kurojs/wayland-mcp) · [官网](https://pypi.org/project/wayland-mcp-kurojs/) · 个人维护
 
 **Wayland 桌面自动化 MCP 服务器：截屏 VLM 分析与键鼠控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kurojs/wayland-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-11-18 15（+1）
+2026-10-18 14 → 2026-11-19 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # heurist-network/heurist-agent-framework
 
-⭐ 829 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/heurist-network/heurist-agent-framework) · [官网](https://agent.heurist.ai/) · 组织维护
+⭐ 828 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/heurist-network/heurist-agent-framework) · [官网](https://agent.heurist.ai/) · 组织维护
 
 **多接口 AI agent 框架：构建带推理、工具与记忆的智能体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "heurist-network/heurist-agent-framework 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 825 --> 830
-    line [829, 827, 826, 828, 826, 828, 829, 829]
+    line [829, 827, 826, 828, 826, 828, 829, 828]
 ```
 
-2026-10-18 829 → 2026-11-18 829（+0）
+2026-10-18 829 → 2026-11-19 828（-1）
 
 
 ---

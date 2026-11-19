@@ -1,6 +1,6 @@
 # tensorflow/model-analysis
 
-⭐ 1,270 · Python · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/tensorflow/model-analysis) · 组织维护
+⭐ 1,271 · Python · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/tensorflow/model-analysis) · 组织维护
 
 **评估 TensorFlow 模型的库：分布式计算分片指标并可视化**
 
@@ -45,12 +45,12 @@ TensorFlow Model Analysis (TFMA) 是用于评估 TensorFlow 模型的 Python 库
 ```mermaid
 xychart-beta
     title "tensorflow/model-analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 1269 --> 1271
-    line [1270, 1270]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 1269 --> 1272
+    line [1270, 1271]
 ```
 
-2026-10-18 1,270 → 2026-11-18 1,270（+0）
+2026-10-18 1,270 → 2026-11-19 1,271（+1）
 
 
 ---

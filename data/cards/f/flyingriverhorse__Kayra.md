@@ -46,12 +46,12 @@ Kayra 是由 Skyulf 提供的自托管 Web 应用，用户上传 CSV/Excel/JSON/
 ```mermaid
 xychart-beta
     title "flyingriverhorse/Kayra 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 46 --> 49
     line [47, 48, 48]
 ```
 
-2026-11-08 47 → 2026-11-18 48（+1）
+2026-11-08 47 → 2026-11-19 48（+1）
 
 
 ---

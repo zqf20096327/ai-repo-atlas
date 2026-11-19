@@ -1,6 +1,6 @@
 # 2witstudios/PurePoint
 
-⭐ 27 · Swift · MIT · 推送 2026-11-11 · [GitHub](https://github.com/2witstudios/PurePoint) · [官网](https://PurePoint.dev) · 组织维护
+⭐ 27 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/2witstudios/PurePoint) · [官网](https://PurePoint.dev) · 组织维护
 
 **macOS 上并行管理多个编码 agent 的终端工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "2witstudios/PurePoint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-18 27（+0）
+2026-10-18 27 → 2026-11-19 27（+0）
 
 
 ---

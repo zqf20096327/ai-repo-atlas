@@ -1,6 +1,6 @@
 # koba-jon/pytorch_cpp
 
-⭐ 314 · C++ · MIT · 推送 2026-01-22 · [GitHub](https://github.com/koba-jon/pytorch_cpp) · 个人维护
+⭐ 315 · C++ · MIT · 推送 2026-01-22 · [GitHub](https://github.com/koba-jon/pytorch_cpp) · 个人维护
 
 **用 C++/LibTorch 实现深度学习模型的开源示例代码集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "koba-jon/pytorch_cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 312 --> 315
-    line [313, 314, 314]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 312 --> 316
+    line [313, 314, 315]
 ```
 
-2026-10-18 313 → 2026-11-18 314（+1）
+2026-10-18 313 → 2026-11-19 315（+2）
 
 
 ---

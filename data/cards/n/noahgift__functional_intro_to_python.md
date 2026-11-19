@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "noahgift/functional_intro_to_python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    title "noahgift/functional_intro_to_python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-19"]
     y-axis "stars" 315 --> 319
-    line [316, 317, 318]
+    line [316, 317, 318, 318]
 ```
 
-2026-10-18 316 → 2026-11-18 318（+2）
+2026-10-18 316 → 2026-11-19 318（+2）
 
 
 ---

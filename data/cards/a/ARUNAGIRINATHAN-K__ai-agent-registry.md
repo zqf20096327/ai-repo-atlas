@@ -41,6 +41,18 @@
 > L14: AI Agent Registry is an open-source, community-driven directory designed to make the rapidly growing AI agent ecosy
 > L22: Interactive Next.js 14 web application for searching, filtering, and exploring AI agents, frameworks, and infrastru
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ARUNAGIRINATHAN-K/ai-agent-registry 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 357 --> 359
+    line [358, 358]
+```
+
+2026-11-18 358 → 2026-11-19 358（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `5fac7811434e` · [字段定义](../../DATASET.md)*

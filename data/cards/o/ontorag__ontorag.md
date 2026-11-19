@@ -1,6 +1,6 @@
 # ontorag/ontorag
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/ontorag/ontorag) · [官网](https://ontorag.github.io) · 组织维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/ontorag/ontorag) · [官网](https://ontorag.github.io) · 组织维护
 
 **本体优先的 RAG 框架：从文档构建可治理的 RDF 知识图谱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ontorag/ontorag 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 29 --> 37
-    line [30, 31, 32, 33, 31, 35, 36, 36]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    y-axis "stars" 29 --> 38
+    line [30, 31, 32, 33, 31, 35, 36, 37]
 ```
 
-2026-10-18 30 → 2026-11-18 36（+6）
+2026-10-18 30 → 2026-11-19 37（+7）
 
 
 ---

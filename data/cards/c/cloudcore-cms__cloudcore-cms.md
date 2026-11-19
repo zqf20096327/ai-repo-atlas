@@ -1,6 +1,6 @@
 # cloudcore-cms/cloudcore-cms
 
-⭐ 11 · TypeScript · MIT · 推送 2026-05-17 · [GitHub](https://github.com/cloudcore-cms/cloudcore-cms) · [官网](https://cloudcore-cms.github.io/) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-05-17 · [GitHub](https://github.com/cloudcore-cms/cloudcore-cms) · [官网](https://cloudcore-cms.github.io/) · 个人维护
 
 **给开发者的 Cloudflare Workers 无头 CMS**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cloudcore-cms/cloudcore-cms 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-19"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10]
 ```
 
-2026-10-26 10 → 2026-11-18 11（+1）
+2026-10-26 10 → 2026-11-19 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ratherlegit/environmental-impact-tracker
 
-⭐ 16 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ratherlegit/environmental-impact-tracker) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ratherlegit/environmental-impact-tracker) · 个人维护
 
 **Claude Code 技能：将 token 用量换算为能耗与水耗并出报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ratherlegit/environmental-impact-tracker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-18 16（+0）
+2026-10-18 16 → 2026-11-19 16（+0）
 
 
 ---

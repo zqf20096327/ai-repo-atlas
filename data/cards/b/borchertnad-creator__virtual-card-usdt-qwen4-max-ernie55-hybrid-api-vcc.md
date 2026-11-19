@@ -1,6 +1,6 @@
 # borchertnad-creator/virtual-card-usdt-qwen4-max-ernie55-hybrid-api-vcc
 
-⭐ 14 · 推送 2026-11-16 · [GitHub](https://github.com/borchertnad-creator/virtual-card-usdt-qwen4-max-ernie55-hybrid-api-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 18 · 推送 2026-11-16 · [GitHub](https://github.com/borchertnad-creator/virtual-card-usdt-qwen4-max-ernie55-hybrid-api-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向出海 AI 开发者的虚拟卡（VCC）支付服务推广文**
 
@@ -44,13 +44,13 @@ README 以混合路由网关（国产开源模型为主力、ChatGPT/Claude 兜�
 
 ```mermaid
 xychart-beta
-    title "borchertnad-creator/virtual-card-usdt-qwen4-max-ernie55-hybrid-api-vcc 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 8 --> 15
-    line [9, 14]
+    title "borchertnad-creator/virtual-card-usdt-qwen4-max-ernie55-hybrid-api-vcc 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 8 --> 19
+    line [9, 14, 18]
 ```
 
-2026-11-16 9 → 2026-11-18 14（+5）
+2026-11-16 9 → 2026-11-19 18（+9）
 
 
 ---

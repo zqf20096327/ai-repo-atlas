@@ -1,6 +1,6 @@
 # CooperCyberCoffee/opencti_mcp_server
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/CooperCyberCoffee/opencti_mcp_server) · [官网](https://coopercybercoffee.com) · 个人维护
+⭐ 28 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/CooperCyberCoffee/opencti_mcp_server) · [官网](https://coopercybercoffee.com) · 个人维护
 
 **把 Claude Desktop 接入 OpenCTI 的 MCP 服务器，自然语言查威胁情报**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CooperCyberCoffee/opencti_mcp_server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 27 --> 30
+    line [29, 28]
 ```
 
-2026-10-18 29 → 2026-11-18 29（+0）
+2026-10-18 29 → 2026-11-19 28（-1）
 
 
 ---

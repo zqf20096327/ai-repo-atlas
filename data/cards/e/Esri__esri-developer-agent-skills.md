@@ -1,6 +1,6 @@
 # Esri/esri-developer-agent-skills
 
-⭐ 26 · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Esri/esri-developer-agent-skills) · [官网](https://github.com/Esri/esri-agent-skills) · 组织维护
+⭐ 30 · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Esri/esri-developer-agent-skills) · [官网](https://github.com/Esri/esri-agent-skills) · 组织维护
 
 **为 AI agent 提供 ArcGIS 开发技能与官方文档 MCP 服务的插件**
 
@@ -44,13 +44,13 @@ Esri 维护的 agent 插件仓库，包含可安装插件（arcgis-sdks-and-apis
 
 ```mermaid
 xychart-beta
-    title "Esri/esri-developer-agent-skills 星数(近 8 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 28
-    line [4, 5, 10, 11, 16, 18, 23, 26]
+    title "Esri/esri-developer-agent-skills 星数(近 9 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 2 --> 32
+    line [4, 5, 10, 11, 16, 18, 23, 26, 30]
 ```
 
-2026-10-31 4 → 2026-11-18 26（+22）
+2026-10-31 4 → 2026-11-19 30（+26）
 
 
 ---

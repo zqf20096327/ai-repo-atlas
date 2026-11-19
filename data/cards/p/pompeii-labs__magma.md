@@ -1,6 +1,6 @@
 # pompeii-labs/magma
 
-⭐ 99 · TypeScript · 推送 2026-08-03 · [GitHub](https://github.com/pompeii-labs/magma) · [官网](https://magmadeploy.com) · 组织维护
+⭐ 98 · TypeScript · 推送 2026-08-03 · [GitHub](https://github.com/pompeii-labs/magma) · [官网](https://magmadeploy.com) · 组织维护
 
 **TypeScript AI agent 框架：用类与装饰器构建可部署的对话代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pompeii-labs/magma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 97 --> 100
+    line [99, 98]
 ```
 
-2026-10-18 99 → 2026-11-18 99（+0）
+2026-10-18 99 → 2026-11-19 98（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # fraware/leanverifier
 
-⭐ 88 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/fraware/leanverifier) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/fraware/leanverifier) · 个人维护
 
 **用 Lean 4 形式化验证仿射二分类器性质的框架**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "fraware/leanverifier 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 85 --> 89
     line [86, 87, 88, 87, 88, 88]
 ```
 
-2026-10-18 86 → 2026-11-18 88（+2）
+2026-10-18 86 → 2026-11-19 88（+2）
 
 
 ---

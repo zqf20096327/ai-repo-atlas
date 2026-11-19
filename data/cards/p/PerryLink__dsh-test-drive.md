@@ -1,6 +1,6 @@
 # PerryLink/dsh-test-drive
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PerryLink/dsh-test-drive) · [官网](https://www.npmjs.com/package/dsh-test-drive) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PerryLink/dsh-test-drive) · [官网](https://www.npmjs.com/package/dsh-test-drive) · 个人维护 · 中文 README
 
 **DSH 插件的隔离安装冒烟测试工具，输出 pass/fail 结果矩阵**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-test-drive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-18 13（+1）
+2026-10-18 12 → 2026-11-19 14（+2）
 
 
 ---

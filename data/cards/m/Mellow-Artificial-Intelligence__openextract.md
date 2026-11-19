@@ -1,6 +1,6 @@
 # Mellow-Artificial-Intelligence/openextract
 
-⭐ 18 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Mellow-Artificial-Intelligence/openextract) · [官网](https://mellow-artificial-intelligence.github.io/openextract/) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Mellow-Artificial-Intelligence/openextract) · [官网](https://mellow-artificial-intelligence.github.io/openextract/) · 组织维护
 
 **Python 库：用 LLM 从文档/图像/音视频中抽取结构化数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mellow-Artificial-Intelligence/openextract 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 18（+0）
 
 
 ---

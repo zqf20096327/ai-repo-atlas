@@ -1,6 +1,6 @@
 # huyedits/Symbio
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/huyedits/Symbio) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/huyedits/Symbio) · 个人维护
 
 **Mac 本地自微调 AI agent：从纠错中学习并回滚变差的 LoRA**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huyedits/Symbio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-18 33（+0）
+2026-10-18 33 → 2026-11-19 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # everruns/everruns
 
-⭐ 70 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/everruns/everruns) · [官网](https://everruns.com/) · 组织维护
+⭐ 71 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/everruns/everruns) · [官网](https://everruns.com/) · 组织维护
 
 **Rust 构建与运行 AI agent 的框架及自托管平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "everruns/everruns 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 59 --> 71
-    line [60, 61, 62, 61, 66, 67, 68, 70]
+    title "everruns/everruns 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 59 --> 72
+    line [60, 61, 62, 61, 66, 67, 68, 70, 71]
 ```
 
-2026-10-18 60 → 2026-11-18 70（+10）
+2026-10-18 60 → 2026-11-19 71（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # 14790897/tg-voice-ai
 
-⭐ 243 · TypeScript · 推送 2026-06-14 · [GitHub](https://github.com/14790897/tg-voice-ai) · [官网](https://t.me/tg_voice_ai_bot) · 个人维护 · 中文 README
+⭐ 242 · TypeScript · 推送 2026-06-14 · [GitHub](https://github.com/14790897/tg-voice-ai) · [官网](https://t.me/tg_voice_ai_bot) · 个人维护 · 中文 README
 
 **Telegram 语音对话机器人：语音/文字进，语音+文字回复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "14790897/tg-voice-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 241 --> 252
-    line [251, 250, 242, 243, 243]
+    line [251, 250, 242, 243, 242]
 ```
 
-2026-10-18 251 → 2026-11-18 243（-8）
+2026-10-18 251 → 2026-11-19 242（-9）
 
 
 ---

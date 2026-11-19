@@ -1,6 +1,6 @@
 # Dgeloe4-yb/market-pilot
 
-⭐ 39 · JavaScript · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Dgeloe4-yb/market-pilot) · [官网](https://marketpilot.worldon.ai/) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Dgeloe4-yb/market-pilot) · [官网](https://marketpilot.worldon.ai/) · 个人维护 · 中文 README
 
 **证据可溯源的市场研究原型：公开信号转为可核查报告**
 
@@ -46,12 +46,12 @@ React 前端加 FastAPI 后端的市场研究产品原型：从收集的公开�
 ```mermaid
 xychart-beta
     title "Dgeloe4-yb/market-pilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-18 39 → 2026-11-18 39（+0）
+2026-10-18 39 → 2026-11-19 40（+1）
 
 
 ---

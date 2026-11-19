@@ -43,12 +43,12 @@ Jupyter Notebook/Google Colab 项目：加载预训练 Mask R-CNN 模型对视�
 ```mermaid
 xychart-beta
     title "AsadiAhmad/Object-Tracking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 13（+0）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

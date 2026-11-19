@@ -1,6 +1,6 @@
 # DaoyuanLi2816/RepoGuardBench
 
-⭐ 75 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/DaoyuanLi2816/RepoGuardBench) · [官网](https://openreview.net/forum?id=58AGMTgU3L) · 个人维护
+⭐ 74 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/DaoyuanLi2816/RepoGuardBench) · [官网](https://openreview.net/forum?id=58AGMTgU3L) · 个人维护
 
 **评测本地编码 agent 抗仓库内提示注入能力的基准**
 
@@ -46,12 +46,12 @@ ICML 2026 DL4C 工作坊论文配套基准：在 README、issue 文本、代码�
 ```mermaid
 xychart-beta
     title "DaoyuanLi2816/RepoGuardBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
     y-axis "stars" 72 --> 76
-    line [73, 75, 75]
+    line [73, 75, 74]
 ```
 
-2026-10-18 73 → 2026-11-18 75（+2）
+2026-10-18 73 → 2026-11-19 74（+1）
 
 
 ---

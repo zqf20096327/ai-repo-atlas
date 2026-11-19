@@ -1,6 +1,6 @@
 # nyroway/nyro
 
-⭐ 199 · Rust · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/nyroway/nyro) · 组织维护 · 中文 README
+⭐ 200 · Rust · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/nyroway/nyro) · 组织维护 · 中文 README
 
 **本地 AI 网关：让 Claude Code 等工具接入任意模型提供商**
 
@@ -45,12 +45,12 @@ Nyro 是运行在本地的 AI 网关，位于 AI 编程工具与模型提供商�
 ```mermaid
 xychart-beta
     title "nyroway/nyro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 196 --> 200
-    line [197, 198, 199, 199]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 196 --> 201
+    line [197, 198, 199, 200]
 ```
 
-2026-10-18 197 → 2026-11-18 199（+2）
+2026-10-18 197 → 2026-11-19 200（+3）
 
 
 ---

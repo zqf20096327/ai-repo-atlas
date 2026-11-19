@@ -1,6 +1,6 @@
 # vigneshv1cky/harness-studio
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vigneshv1cky/harness-studio) · [官网](https://github.com/vigneshv1cky/harness-studio/releases/latest) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vigneshv1cky/harness-studio) · [官网](https://github.com/vigneshv1cky/harness-studio/releases/latest) · 个人维护
 
 **macOS/Linux 桌面编码 Agent 应用，任意模型操作代码与 UI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vigneshv1cky/harness-studio 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-18"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-23", "2026-11-19"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-23 18 → 2026-11-18 18（+0）
+2026-10-23 18 → 2026-11-19 19（+1）
 
 
 ---

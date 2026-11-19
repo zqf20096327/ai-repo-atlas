@@ -1,6 +1,6 @@
 # Julian-dev28/pathiel
 
-⭐ 36 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Julian-dev28/pathiel) · [官网](https://julian-dev28.github.io/pathiel/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Julian-dev28/pathiel) · [官网](https://julian-dev28.github.io/pathiel/) · 个人维护
 
 **让 Claude 在 Hyperliquid 交易永续合约的 MCP 服务器插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Julian-dev28/pathiel 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-19"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-11-13 36 → 2026-11-18 36（+0）
+2026-11-13 36 → 2026-11-19 36（+0）
 
 
 ---

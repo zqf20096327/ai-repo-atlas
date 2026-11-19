@@ -1,6 +1,6 @@
 # ProjectOpenSea/opensea-mcp-next-sample
 
-⭐ 11 · TypeScript · MIT · 推送 2026-02-07 · [GitHub](https://github.com/ProjectOpenSea/opensea-mcp-next-sample) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-02-07 · [GitHub](https://github.com/ProjectOpenSea/opensea-mcp-next-sample) · 组织维护
 
 **连接 OpenSea MCP 服务构建 NFT 市场问答应用的 Next.js 示例**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ProjectOpenSea/opensea-mcp-next-sample 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-19 10 → 2026-11-18 11（+1）
+2026-10-19 10 → 2026-11-19 12（+2）
 
 
 ---

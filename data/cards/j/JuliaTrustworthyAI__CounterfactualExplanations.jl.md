@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuliaTrustworthyAI/CounterfactualExplanations.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
+    title "JuliaTrustworthyAI/CounterfactualExplanations.jl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-18", "2026-11-19"]
     y-axis "stars" 128 --> 132
-    line [129, 130, 131]
+    line [129, 130, 131, 131]
 ```
 
-2026-10-18 129 → 2026-11-18 131（+2）
+2026-10-18 129 → 2026-11-19 131（+2）
 
 
 ---

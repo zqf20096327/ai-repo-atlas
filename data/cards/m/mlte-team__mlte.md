@@ -1,6 +1,6 @@
 # mlte-team/mlte
 
-⭐ 22 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mlte-team/mlte) · [官网](http://mlte.rtfd.io/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/mlte-team/mlte) · [官网](http://mlte.rtfd.io/) · 组织维护
 
 **机器学习模型测试与评估框架（Python 库+Web UI）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mlte-team/mlte 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-18 22（+1）
+2026-10-18 21 → 2026-11-19 22（+1）
 
 
 ---

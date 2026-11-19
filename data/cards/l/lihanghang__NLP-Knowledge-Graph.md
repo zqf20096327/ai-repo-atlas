@@ -1,6 +1,6 @@
 # lihanghang/NLP-Knowledge-Graph
 
-⭐ 1,777 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lihanghang/NLP-Knowledge-Graph) · [官网](kg.lihanghang.top) · 个人维护 · 中文 README
+⭐ 1,778 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lihanghang/NLP-Knowledge-Graph) · [官网](kg.lihanghang.top) · 个人维护 · 中文 README
 
 **知识图谱与 NLP/LLM 领域的个人研究整理与资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lihanghang/NLP-Knowledge-Graph 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 1771 --> 1778
-    line [1772, 1773, 1774, 1776, 1777, 1777]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 1771 --> 1779
+    line [1772, 1773, 1774, 1776, 1777, 1778]
 ```
 
-2026-10-18 1,772 → 2026-11-18 1,777（+5）
+2026-10-18 1,772 → 2026-11-19 1,778（+6）
 
 
 ---

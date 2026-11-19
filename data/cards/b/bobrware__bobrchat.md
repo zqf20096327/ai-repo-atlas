@@ -1,6 +1,6 @@
 # bobrware/bobrchat
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/bobrware/bobrchat) · [官网](https://bobrchat.com) · 组织维护
+⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/bobrware/bobrchat) · [官网](https://bobrchat.com) · 组织维护
 
 **按 token 付费的多模型 AI 聊天界面，支持 200+ 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bobrware/bobrchat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

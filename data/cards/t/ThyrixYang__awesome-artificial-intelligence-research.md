@@ -1,6 +1,6 @@
 # ThyrixYang/awesome-artificial-intelligence-research
 
-⭐ 133 · 推送 2026-10-12 · [GitHub](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) · 个人维护
+⭐ 134 · 推送 2026-10-12 · [GitHub](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) · 个人维护
 
 **AI 研究资源元清单：聚合论文清单、基准与学习资源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThyrixYang/awesome-artificial-intelligence-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 132 --> 134
-    line [133, 133]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 132 --> 135
+    line [133, 134]
 ```
 
-2026-10-18 133 → 2026-11-18 133（+0）
+2026-10-18 133 → 2026-11-19 134（+1）
 
 
 ---

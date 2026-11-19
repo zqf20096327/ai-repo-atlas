@@ -1,6 +1,6 @@
 # ThetaCursed/TinyLuma
 
-⭐ 50 · Rust · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/ThetaCursed/TinyLuma) · 个人维护
+⭐ 51 · Rust · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/ThetaCursed/TinyLuma) · 个人维护
 
 **面向 AI 生成图像的原生轻量后期处理与批量编辑器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThetaCursed/TinyLuma 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 46 --> 51
-    line [47, 48, 47, 50, 50]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 46 --> 52
+    line [47, 48, 47, 50, 51]
 ```
 
-2026-10-18 47 → 2026-11-18 50（+3）
+2026-10-18 47 → 2026-11-19 51（+4）
 
 
 ---

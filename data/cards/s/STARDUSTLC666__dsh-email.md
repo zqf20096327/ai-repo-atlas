@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-email
 
-⭐ 48 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/STARDUSTLC666/dsh-email) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 49 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/STARDUSTLC666/dsh-email) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的邮件工作台插件：收发邮件、草稿确认后发送**
 
@@ -39,6 +39,18 @@ DSH（DeepSeek Harness）的邮件插件：支持 IMAP/POP3/SMTP、Google/Outloo
 
 > L5: **DeepSeek Harness 邮件工作台：收发邮件、编辑图文草稿、核对后再定时或立即发送，支持五种界面主题实时切换。**
 > L48: 3. 搜索并打开邮件，核对正文与附件；可让助手“准备回复，先不要发送”。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "STARDUSTLC666/dsh-email 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 47 --> 50
+    line [48, 49]
+```
+
+2026-11-18 48 → 2026-11-19 49（+1）
 
 
 ---

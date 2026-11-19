@@ -1,6 +1,6 @@
 # IBazylchuk/paparats-mcp
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/IBazylchuk/paparats-mcp) · [官网](https://www.npmjs.com/package/@paparats/cli) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/IBazylchuk/paparats-mcp) · [官网](https://www.npmjs.com/package/@paparats/cli) · 个人维护
 
 **自托管语义代码搜索 MCP 服务器：让 AI 编码 agent 跨仓库按含义查代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IBazylchuk/paparats-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 9 --> 37
     line [11, 34, 35, 11, 34, 35, 35]
 ```
 
-2026-10-18 11 → 2026-11-18 35（+24）
+2026-10-18 11 → 2026-11-19 35（+24）
 
 
 ---

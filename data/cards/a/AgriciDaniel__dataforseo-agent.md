@@ -1,6 +1,6 @@
 # AgriciDaniel/dataforseo-agent
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AgriciDaniel/dataforseo-agent) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AgriciDaniel/dataforseo-agent) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **终端里的 SEO 问答 agent：自然语言查 DataForSEO 数据并出图表**
 
@@ -39,6 +39,18 @@
 
 > L15: **DataForSEO Agent turns an SEO question into the right DataForSEO API calls, asks before it spends, and shows the 
 > L21: - **All of DataForSEO:** 576 active v3 endpoints across 12 APIs, every one live-tested, with a specialist agent per
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AgriciDaniel/dataforseo-agent 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 23
+    line [17, 22]
+```
+
+2026-11-18 17 → 2026-11-19 22（+5）
 
 
 ---

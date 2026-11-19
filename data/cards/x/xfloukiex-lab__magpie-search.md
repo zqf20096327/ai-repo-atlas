@@ -1,6 +1,6 @@
 # xfloukiex-lab/magpie-search
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/xfloukiex-lab/magpie-search) · [官网](https://vektorgeist.com) · 组织维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/xfloukiex-lab/magpie-search) · [官网](https://vektorgeist.com) · 组织维护
 
 **本地优先的联邦搜索引擎：一次查询检索 AI 会话、文件、图谱、向量与网页**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xfloukiex-lab/magpie-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-11-18 28（+0）
+2026-10-18 28 → 2026-11-19 29（+1）
 
 
 ---

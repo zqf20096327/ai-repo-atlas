@@ -1,6 +1,6 @@
 # IsaacEryn/humanizer-ko
 
-⭐ 32 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/IsaacEryn/humanizer-ko) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/IsaacEryn/humanizer-ko) · 个人维护
 
 **去除韩语文本中 AI 写作痕迹的 Claude Code 代理技能**
 
@@ -40,6 +40,18 @@
 > L3: 한국어 텍스트에서 AI 생성 글의 티를 찾아 제거하는 에이전트 스킬입니다. blader/humanizer를 바탕으로 패턴 전체를 한국어에 맞게 다시 설계했고, 지금은 37개 패턴을 다룹니다. 순수 Markdo
 > L5: **English:** A portable agent skill that removes signs of AI-generated writing from **Korean** text. Derived from bl
 > L60: 런타임 산출물이 `SKILL.md` 하나라서 어떤 하네스에서도 직접 쓸 수 있습니다. 하네스가 스킬 디렉터리를 찾는 곳에 저장소를 두면 됩니다:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "IsaacEryn/humanizer-ko 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 31 --> 41
+    line [32, 40]
+```
+
+2026-11-18 32 → 2026-11-19 40（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # mritd/gitflow-toolkit
 
-⭐ 230 · Go · MIT · 推送 2026-09-10 · [GitHub](https://github.com/mritd/gitflow-toolkit) · 个人维护 · 中文 README
+⭐ 229 · Go · MIT · 推送 2026-09-10 · [GitHub](https://github.com/mritd/gitflow-toolkit) · 个人维护 · 中文 README
 
 **Go 编写的 GitFlow CLI：交互式生成 Conventional Commits 提交信息**
 
@@ -45,12 +45,12 @@ GitFlow Toolkit 是用 Go 编写的 CLI 工具，按 Conventional Commits 1.0.0 
 ```mermaid
 xychart-beta
     title "mritd/gitflow-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-18"]
-    y-axis "stars" 229 --> 232
-    line [230, 231, 230, 230]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-19"]
+    y-axis "stars" 228 --> 232
+    line [230, 231, 230, 229]
 ```
 
-2026-10-18 230 → 2026-11-18 230（+0）
+2026-10-18 230 → 2026-11-19 229（-1）
 
 
 ---

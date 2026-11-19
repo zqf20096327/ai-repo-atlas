@@ -1,6 +1,6 @@
 # bogdanticu88/ApexHunter
 
-⭐ 11 · Python · MIT · 推送 2026-03-04 · [GitHub](https://github.com/bogdanticu88/ApexHunter) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-03-04 · [GitHub](https://github.com/bogdanticu88/ApexHunter) · 个人维护
 
 **为 SOC/DFIR 分析师执行 YAML 威胁狩猎剧本的本地 LLM 工具**
 
@@ -41,6 +41,18 @@
 > L16: **ApexHunter** is an autonomous, agentic threat hunting playbook executor designed for senior SOC analysts and DFIR
 > L22: - **Agentic Reasoning**: Uses local Ollama models (Mistral, Llama3) to autonomously generate SQL queries and triage
 > L28: - **🛡️ Multi-Engine Execution**: Run SQL-standard queries via **DuckDB** for blazing-fast in-memory analysis.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bogdanticu88/ApexHunter 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
+```
+
+2026-11-18 11 → 2026-11-19 12（+1）
 
 
 ---

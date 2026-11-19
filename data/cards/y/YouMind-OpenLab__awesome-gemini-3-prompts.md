@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-gemini-3-prompts
 
-⭐ 525 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) · [官网](https://youmind.com/gemini-3-prompts) · 组织维护 · 中文 README
+⭐ 526 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) · [官网](https://youmind.com/gemini-3-prompts) · 组织维护 · 中文 README
 
 **Gemini 3 创意提示词策展清单：49 条多语言提示词配图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YouMind-OpenLab/awesome-gemini-3-prompts 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 519 --> 526
-    line [520, 522, 523, 522, 523, 522, 523, 522, 524, 525, 525]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 519 --> 527
+    line [520, 522, 523, 522, 523, 522, 523, 522, 524, 525, 526]
 ```
 
-2026-10-18 520 → 2026-11-18 525（+5）
+2026-10-18 520 → 2026-11-19 526（+6）
 
 
 ---

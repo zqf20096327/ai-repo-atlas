@@ -42,12 +42,12 @@ Paperspace 官方 CLI：通过终端命令 pspace [command] [flags] 管理和操
 ```mermaid
 xychart-beta
     title "Paperspace/cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

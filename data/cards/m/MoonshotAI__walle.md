@@ -1,6 +1,6 @@
 # MoonshotAI/walle
 
-⭐ 29 · Go · MIT · 推送 2026-09-15 · [GitHub](https://github.com/MoonshotAI/walle) · 组织维护
+⭐ 29 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/MoonshotAI/walle) · 组织维护
 
 **面向开发者：Moonshot AI 风格的 JSON Schema 校验库（Go/Python）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MoonshotAI/walle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-18 29（+0）
+2026-10-18 29 → 2026-11-19 29（+0）
 
 
 ---

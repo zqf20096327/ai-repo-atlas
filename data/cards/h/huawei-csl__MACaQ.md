@@ -1,6 +1,6 @@
 # huawei-csl/MACaQ
 
-⭐ 355 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huawei-csl/MACaQ) · [官网](https://huawei-csl.com/blog/macaq/) · 组织维护 · 中文 README
+⭐ 366 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huawei-csl/MACaQ) · [官网](https://huawei-csl.com/blog/macaq/) · 组织维护 · 中文 README
 
 **模型无关的校准量化工具：压缩文本/图像/音频模型供本地推理**
 
@@ -45,13 +45,13 @@ MACaQ 提供跨模态（文本、图像、视频、音频、语音）模型的�
 
 ```mermaid
 xychart-beta
-    title "huawei-csl/MACaQ 星数(近 7 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 13 --> 386
-    line [44, 195, 229, 248, 311, 338, 355]
+    title "huawei-csl/MACaQ 星数(近 8 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 12 --> 398
+    line [44, 195, 229, 248, 311, 338, 355, 366]
 ```
 
-2026-11-11 44 → 2026-11-18 355（+311）
+2026-11-11 44 → 2026-11-19 366（+322）
 
 
 ---

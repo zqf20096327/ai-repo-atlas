@@ -1,6 +1,6 @@
 # jieliu2000/anyi
 
-⭐ 38 · Go · Apache-2.0 · 推送 2026-03-10 · [GitHub](https://github.com/jieliu2000/anyi) · 个人维护 · 中文 README
+⭐ 37 · Go · Apache-2.0 · 推送 2026-03-10 · [GitHub](https://github.com/jieliu2000/anyi) · 个人维护 · 中文 README
 
 **Go 语言自主 AI agent 框架：统一接口接入多家 LLM 构建工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jieliu2000/anyi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 36 --> 39
+    line [38, 37]
 ```
 
-2026-10-18 38 → 2026-11-18 38（+0）
+2026-10-18 38 → 2026-11-19 37（-1）
 
 
 ---

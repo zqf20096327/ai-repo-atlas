@@ -1,6 +1,6 @@
 # adsorgcn/DeepSeekHarness
 
-⭐ 15 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/adsorgcn/DeepSeekHarness) · [官网](https://dsh.ilang.guide/) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/adsorgcn/DeepSeekHarness) · [官网](https://dsh.ilang.guide/) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户装本地记忆、技能与一键安装的工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adsorgcn/DeepSeekHarness 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 6 --> 16
-    line [7, 11, 12, 13, 14, 15]
+    title "adsorgcn/DeepSeekHarness 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 6 --> 17
+    line [7, 11, 12, 13, 14, 15, 16]
 ```
 
-2026-11-08 7 → 2026-11-18 15（+8）
+2026-11-08 7 → 2026-11-19 16（+9）
 
 
 ---

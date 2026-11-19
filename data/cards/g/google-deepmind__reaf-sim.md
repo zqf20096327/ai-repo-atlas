@@ -1,6 +1,6 @@
 # google-deepmind/reaf-sim
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google-deepmind/reaf-sim) · [官网](https://reaf-sim.readthedocs.io/) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google-deepmind/reaf-sim) · [官网](https://reaf-sim.readthedocs.io/) · 组织维护
 
 **面向 sim-to-real 机器人工作流的 MuJoCo 仿真环境编写框架**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/reaf-sim 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 13 --> 23
-    line [14, 17, 19, 20, 22]
+    title "google-deepmind/reaf-sim 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 13 --> 24
+    line [14, 17, 19, 20, 22, 23]
 ```
 
-2026-11-08 14 → 2026-11-18 22（+8）
+2026-11-08 14 → 2026-11-19 23（+9）
 
 
 ---

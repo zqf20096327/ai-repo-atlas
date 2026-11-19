@@ -1,6 +1,6 @@
 # aibtcdev/skills
 
-⭐ 11 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/aibtcdev/skills) · [官网](https://aibtc.com/skills) · 组织维护
+⭐ 11 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/aibtcdev/skills) · [官网](https://aibtc.com/skills) · 组织维护
 
 **给 Claude Code agent 的 Bitcoin/Stacks/DeFi 技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aibtcdev/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-18 11（+1）
+2026-10-18 10 → 2026-11-19 11（+1）
 
 
 ---

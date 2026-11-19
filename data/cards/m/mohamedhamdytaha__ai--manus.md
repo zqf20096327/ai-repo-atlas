@@ -1,10 +1,10 @@
 # mohamedhamdytaha/ai--manus
 
-⭐ 180 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/mohamedhamdytaha/ai--manus) · 个人维护
+⭐ 180 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/mohamedhamdytaha/ai--manus) · 个人维护
 
-**自主 AI Agent：代用户执行代码并控制浏览器完成多步任务**
+**面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 
-面向个人用户（学生、远程工作者）的自主 AI agent 应用：按用户指令自主编写并执行脚本、打开网页、操作页面元素、执行多步任务，代码执行与浏览器控制可在同一流程内衔接。定位为家庭、学习与轻量工作场景的小型助手，不面向企业级平台场景。README 提供兼容性表（最低 4 GB 内存、双核 CPU）与使用步骤说明，但未给出具体安装命令、下载渠道或模型接入方式。
+README 描述 Manus 为一个通用自主 AI Agent，可自行编写并执行脚本、控制浏览器完成填表、信息收集等多步骤任务，定位为面向学生、远程办公者与家庭场景的个人助理类工具。内容覆盖功能亮点、系统兼容性表（CPU/RAM/存储/权限）与六步使用流程。README 未提供源码安装方式、架构说明或 API/模型接入细节，仅描述'下载 Manus'及配置与使用步骤。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 自主编写并执行代码完成任务
-- 浏览器控制：导航网页、填表、收集信息
-- 代码执行与浏览器操作在同一工作流中衔接
-- 跨会话保持任务模式，支持后台常驻
+- 自主执行代码与控制浏览器，支持多步骤任务
+- 浏览器自动化：导航网页、填写表单、收集信息
+- 跨会话记忆任务模式并复用
+- 提供操作系统/CPU/内存/存储最低配置表
 
 ## 适用场景
 
-- 让学生整理研究资料、运行小脚本
-- 远程工作者从多个网页收集数据并汇总
-- 把脚本任务与网页操作衔接的日常小项目自动化
+- 收集资料并整理学习研究笔记
+- 自动填写重复性网页表单与多页面信息汇总
+- 日常小任务（提醒、文件整理）的自动化
 
 ## 场景标签
 
-`浏览器自动化` `编码 Agent` `AI 助手` · 领域:效率与自动化
+`浏览器自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
+> L35: ## Compatibility
+> L41: |**Memory (RAM)**|4 GB|8 GB or more for heavy Manus autonomous tasks|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mohamedhamdytaha/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
     y-axis "stars" 107 --> 265
     line [120, 252, 180, 180]
 ```
 
-2026-11-13 120 → 2026-11-18 180（+60）
+2026-11-13 120 → 2026-11-19 180（+60）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `0eccc6fbe733` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `fe52f87302d9` · [字段定义](../../DATASET.md)*

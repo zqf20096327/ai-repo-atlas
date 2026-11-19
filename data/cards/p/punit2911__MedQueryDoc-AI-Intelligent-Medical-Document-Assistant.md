@@ -1,6 +1,6 @@
 # punit2911/MedQueryDoc-AI-Intelligent-Medical-Document-Assistant
 
-⭐ 60 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/punit2911/MedQueryDoc-AI-Intelligent-Medical-Document-Assistant) · 个人维护
+⭐ 59 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/punit2911/MedQueryDoc-AI-Intelligent-Medical-Document-Assistant) · 个人维护
 
 **面向医疗 PDF 文档的 RAG 问答机器人（LLaMA-2+Pinecone）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "punit2911/MedQueryDoc-AI-Intelligent-Medical-Document-Assistant 星数(近 7 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19"]
     y-axis "stars" 31 --> 64
-    line [33, 43, 54, 57, 62, 60, 60]
+    line [33, 43, 54, 57, 62, 60, 59]
 ```
 
-2026-11-11 33 → 2026-11-18 60（+27）
+2026-11-11 33 → 2026-11-19 59（+26）
 
 
 ---

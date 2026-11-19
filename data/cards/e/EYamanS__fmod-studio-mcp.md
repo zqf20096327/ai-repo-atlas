@@ -1,6 +1,6 @@
 # EYamanS/fmod-studio-mcp
 
-⭐ 16 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/EYamanS/fmod-studio-mcp) · [官网](https://pypi.org/project/fmod-studio-mcp/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/EYamanS/fmod-studio-mcp) · [官网](https://pypi.org/project/fmod-studio-mcp/) · 个人维护
 
 **供 AI agent 实时操控 FMOD Studio 音频制作的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EYamanS/fmod-studio-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
     y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 15, 17, 16, 16]
+    line [14, 15, 16, 17, 15, 17, 16, 17]
 ```
 
-2026-10-18 14 → 2026-11-18 16（+2）
+2026-10-18 14 → 2026-11-19 17（+3）
 
 
 ---

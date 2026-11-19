@@ -44,13 +44,13 @@ AIcademy 是一个类似 Udemy 的 LMS 平台的前端仓库：学生可购买�
 
 ```mermaid
 xychart-beta
-    title "abhiram-ar/aicademy-fontend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    title "abhiram-ar/aicademy-fontend 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
     y-axis "stars" 17 --> 20
-    line [19, 18]
+    line [19, 18, 18]
 ```
 
-2026-10-18 19 → 2026-11-18 18（-1）
+2026-10-18 19 → 2026-11-19 18（-1）
 
 
 ---

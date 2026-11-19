@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "abdullahalsaidi16/wsn-localization-tracking 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-18"]
+    x-axis ["2026-11-02", "2026-11-19"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-11-02 15 → 2026-11-18 15（+0）
+2026-11-02 15 → 2026-11-19 15（+0）
 
 
 ---

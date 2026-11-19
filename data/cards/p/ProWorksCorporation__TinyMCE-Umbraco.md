@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "ProWorksCorporation/TinyMCE-Umbraco 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-10", "2026-11-19"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-10 14 → 2026-11-18 14（+0）
+2026-11-10 14 → 2026-11-19 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # shen-shanshan/vllm-dev-skills
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/shen-shanshan/vllm-dev-skills) · 个人维护 · 中文 README
+⭐ 33 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/shen-shanshan/vllm-dev-skills) · 个人维护 · 中文 README
 
 **面向 vLLM 开发全流程的 Claude Code 技能集（17 个）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shen-shanshan/vllm-dev-skills 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-16", "2026-11-19"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-11-16 33 → 2026-11-18 33（+0）
+2026-11-16 33 → 2026-11-19 33（+0）
 
 
 ---

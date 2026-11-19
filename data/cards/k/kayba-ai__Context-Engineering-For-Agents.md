@@ -1,6 +1,6 @@
 # kayba-ai/Context-Engineering-For-Agents
 
-⭐ 11 · 推送 2025-12-02 · [GitHub](https://github.com/kayba-ai/Context-Engineering-For-Agents) · [官网](https://kayba.ai/) · 组织维护
+⭐ 12 · 推送 2025-12-02 · [GitHub](https://github.com/kayba-ai/Context-Engineering-For-Agents) · [官网](https://kayba.ai/) · 组织维护
 
 **为 agent 开发者讲解上下文工程原理与实践的教程指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kayba-ai/Context-Engineering-For-Agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-18 10 → 2026-11-18 11（+1）
+2026-10-18 10 → 2026-11-19 12（+2）
 
 
 ---

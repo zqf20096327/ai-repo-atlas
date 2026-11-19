@@ -1,6 +1,6 @@
 # theaisocietyasu/sparky
 
-⭐ 11 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/theaisocietyasu/sparky) · [官网](https://sparky.ais-asu.com) · 组织维护
+⭐ 11 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/theaisocietyasu/sparky) · [官网](https://sparky.ais-asu.com) · 组织维护
 
 **面向 ASU 学生的 Discord/Web 校园问答助手**
 
@@ -45,12 +45,12 @@ SparkyAI 是亚利桑那州立大学学生的开源非官方助手，提供 Disc
 ```mermaid
 xychart-beta
     title "theaisocietyasu/sparky 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-19"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-19 10 → 2026-11-18 11（+1）
+2026-10-19 10 → 2026-11-19 11（+1）
 
 
 ---

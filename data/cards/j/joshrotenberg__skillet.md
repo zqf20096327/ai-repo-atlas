@@ -1,6 +1,6 @@
 # joshrotenberg/skillet
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/joshrotenberg/skillet) · 个人维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/joshrotenberg/skillet) · 个人维护
 
 **MCP 技能发现服务器：将 SKILL.md 技能以 MCP prompts 提供给 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joshrotenberg/skillet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-18 10 → 2026-11-18 12（+2）
+2026-10-18 10 → 2026-11-19 13（+3）
 
 
 ---

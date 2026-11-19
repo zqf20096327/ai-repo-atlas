@@ -1,6 +1,6 @@
 # juspay/neurolink
 
-⭐ 169 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/juspay/neurolink) · [官网](https://neurolink.ink) · 组织维护
+⭐ 169 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/juspay/neurolink) · [官网](https://neurolink.ink) · 组织维护
 
 **TypeScript AI 管道层：统一接口接入多提供商与三类推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "juspay/neurolink 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 156 --> 170
     line [157, 168, 169, 169]
 ```
 
-2026-10-18 157 → 2026-11-18 169（+12）
+2026-10-18 157 → 2026-11-19 169（+12）
 
 
 ---

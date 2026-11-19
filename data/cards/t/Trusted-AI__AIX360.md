@@ -1,6 +1,6 @@
 # Trusted-AI/AIX360
 
-⭐ 1,809 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/Trusted-AI/AIX360) · [官网](https://aix360.res.ibm.com/) · 组织维护
+⭐ 1,810 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/Trusted-AI/AIX360) · [官网](https://aix360.res.ibm.com/) · 组织维护
 
 **IBM 的机器学习模型与数据可解释性算法工具库**
 
@@ -45,12 +45,12 @@ AI Explainability 360 是 IBM Research 开源的可解释性/可解释度 Python
 ```mermaid
 xychart-beta
     title "Trusted-AI/AIX360 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 1807 --> 1810
-    line [1809, 1808, 1809, 1808, 1809, 1809]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 1807 --> 1811
+    line [1809, 1808, 1809, 1808, 1809, 1810]
 ```
 
-2026-10-18 1,809 → 2026-11-18 1,809（+0）
+2026-10-18 1,809 → 2026-11-19 1,810（+1）
 
 
 ---

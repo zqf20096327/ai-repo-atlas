@@ -1,6 +1,6 @@
 # helixml/kodit
 
-⭐ 127 · Go · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/helixml/kodit) · [官网](https://docs.helix.ml/kodit/) · 组织维护
+⭐ 127 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/helixml/kodit) · [官网](https://docs.helix.ml/kodit/) · 组织维护
 
 **索引 Git 仓库与文档、供 AI 助手检索的 MCP/REST 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "helixml/kodit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 124 --> 128
     line [126, 125, 126, 125, 127, 127]
 ```
 
-2026-10-18 126 → 2026-11-18 127（+1）
+2026-10-18 126 → 2026-11-19 127（+1）
 
 
 ---

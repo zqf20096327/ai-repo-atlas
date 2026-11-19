@@ -1,6 +1,6 @@
 # PhamHuynhAnh16/Vietnamese-RVC
 
-⭐ 35 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/PhamHuynhAnh16/Vietnamese-RVC) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/PhamHuynhAnh16/Vietnamese-RVC) · 个人维护
 
 **面向越南语用户的 RVC 语音转换工具：训练、转换与实时变声**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PhamHuynhAnh16/Vietnamese-RVC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-11-18 35（+0）
+2026-10-18 35 → 2026-11-19 36（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # open-rollout/tokin
 
-⭐ 104 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/open-rollout/tokin) · 组织维护
+⭐ 104 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/open-rollout/tokin) · 组织维护
 
 **把任意 agent harness 变成 token 级的网关，供 RL 采集 rollout**
 
@@ -45,13 +45,13 @@ tokin 是一个置于 agent harness 与推理引擎之间的网关：harness 侧
 
 ```mermaid
 xychart-beta
-    title "open-rollout/tokin 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    title "open-rollout/tokin 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
     y-axis "stars" 1 --> 113
-    line [10, 22, 61, 66, 72, 84, 95, 104]
+    line [10, 22, 61, 66, 72, 84, 95, 104, 104]
 ```
 
-2026-11-08 10 → 2026-11-18 104（+94）
+2026-11-08 10 → 2026-11-19 104（+94）
 
 
 ---

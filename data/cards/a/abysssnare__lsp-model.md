@@ -1,6 +1,6 @@
 # abysssnare/lsp-model
 
-⭐ 13 · Kotlin · 推送 2026-07-23 · [GitHub](https://github.com/abysssnare/lsp-model) · [官网](https://aceguru-mjh.github.io/LSPatch-Noroot-modle) · 个人维护 · 中文 README
+⭐ 14 · Kotlin · 推送 2026-07-23 · [GitHub](https://github.com/abysssnare/lsp-model) · [官网](https://aceguru-mjh.github.io/LSPatch-Noroot-modle) · 个人维护 · 中文 README
 
 **20 个 Android Xposed 模块合集仓库，附 AI 开发指南与体检脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "abysssnare/lsp-model 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 9 --> 14
-    line [10, 12, 10, 12, 13]
+    title "abysssnare/lsp-model 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 9 --> 15
+    line [10, 12, 10, 12, 13, 14]
 ```
 
-2026-10-25 10 → 2026-11-18 13（+3）
+2026-10-25 10 → 2026-11-19 14（+4）
 
 
 ---

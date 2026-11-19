@@ -1,6 +1,6 @@
 # budna-marketplace/recommerce
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/budna-marketplace/recommerce) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/budna-marketplace/recommerce) · 组织维护
 
 **二手与新品比价采购的便携 agent 技能包（6 个技能）**
 
@@ -47,12 +47,12 @@ Budna 维护的 Agent Skills 集合，覆盖新品与二手市场商品的发现
 ```mermaid
 xychart-beta
     title "budna-marketplace/recommerce 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 9 --> 16
-    line [10, 13, 14, 15, 15]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 9 --> 17
+    line [10, 13, 14, 15, 16]
 ```
 
-2026-10-30 10 → 2026-11-18 15（+5）
+2026-10-30 10 → 2026-11-19 16（+6）
 
 
 ---

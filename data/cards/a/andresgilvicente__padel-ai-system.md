@@ -1,6 +1,6 @@
 # andresgilvicente/padel-ai-system
 
-⭐ 12 · Jupyter Notebook · 推送 2026-10-29 · [GitHub](https://github.com/andresgilvicente/padel-ai-system) · 个人维护
+⭐ 13 · Jupyter Notebook · 推送 2026-10-29 · [GitHub](https://github.com/andresgilvicente/padel-ai-system) · 个人维护
 
 **用手机摄像头的板式网球自动主裁与几何图案门禁系统**
 
@@ -45,12 +45,12 @@ Universidad Pontificia Comillas 计算机视觉课程的双模块项目，运行
 ```mermaid
 xychart-beta
     title "andresgilvicente/padel-ai-system 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-18 12（+1）
+2026-10-18 11 → 2026-11-19 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # bentoml/BentoVLLM
 
-⭐ 176 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/bentoml/BentoVLLM) · 组织维护
+⭐ 175 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/bentoml/BentoVLLM) · 组织维护
 
 **BentoML 官方 vLLM 部署示例集：自托管开源 LLM 服务**
 
@@ -44,12 +44,12 @@ BentoML 组织维护的示例项目集合，演示如何用 vLLM 推理引擎通
 ```mermaid
 xychart-beta
     title "bentoml/BentoVLLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
     y-axis "stars" 174 --> 177
-    line [175, 176, 176]
+    line [175, 176, 175]
 ```
 
-2026-10-18 175 → 2026-11-18 176（+1）
+2026-10-18 175 → 2026-11-19 175（+0）
 
 
 ---

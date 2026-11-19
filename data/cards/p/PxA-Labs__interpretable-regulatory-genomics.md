@@ -1,6 +1,6 @@
 # PxA-Labs/interpretable-regulatory-genomics
 
-⭐ 12 · Jupyter Notebook · MIT · 推送 2026-09-21 · [GitHub](https://github.com/PxA-Labs/interpretable-regulatory-genomics) · 组织维护
+⭐ 12 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/PxA-Labs/interpretable-regulatory-genomics) · 组织维护
 
 **用可解释 ML 从 ENCODE 数据识别非编码 DNA 调控开关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PxA-Labs/interpretable-regulatory-genomics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 12（+0）
 
 
 ---

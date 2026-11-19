@@ -1,6 +1,6 @@
 # clauseo-ai/stetdoc
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/clauseo-ai/stetdoc) · [官网](https://stetdoc.clauseo.chat) · 组织维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/clauseo-ai/stetdoc) · [官网](https://stetdoc.clauseo.chat) · 组织维护
 
 **让 AI agent 以修订模式编辑 Word .docx 的 CLI/MCP 工具**
 
@@ -46,13 +46,13 @@ stetdoc 提供 CLI、MCP 服务器与库三种形态，供 AI agent 编辑 Word 
 
 ```mermaid
 xychart-beta
-    title "clauseo-ai/stetdoc 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 13
-    line [3, 8, 9, 10, 11, 12]
+    title "clauseo-ai/stetdoc 星数(近 7 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 2 --> 14
+    line [3, 8, 9, 10, 11, 12, 13]
 ```
 
-2026-11-02 3 → 2026-11-18 12（+9）
+2026-11-02 3 → 2026-11-19 13（+10）
 
 
 ---

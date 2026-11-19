@@ -45,12 +45,12 @@ PlugLink 是一套 Windows 桌面端自动化工作流框架：前端 layui、�
 ```mermaid
 xychart-beta
     title "zhengqia/PlugLink 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-18"]
+    x-axis ["2026-11-02", "2026-11-19"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-11-02 28 → 2026-11-18 28（+0）
+2026-11-02 28 → 2026-11-19 28（+0）
 
 
 ---

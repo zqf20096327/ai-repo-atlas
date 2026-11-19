@@ -47,12 +47,12 @@ Dakera agent 记忆平台的官方部署仓库，提供 Docker Compose、Kuberne
 ```mermaid
 xychart-beta
     title "Dakera-AI/dakera-deploy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-18 19（+0）
+2026-10-18 19 → 2026-11-19 19（+0）
 
 
 ---

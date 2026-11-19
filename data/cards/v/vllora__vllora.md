@@ -1,6 +1,6 @@
 # vllora/vllora
 
-⭐ 811 · Rust · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/vllora/vllora) · [官网](https://vllora.dev) · 组织维护
+⭐ 810 · Rust · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/vllora/vllora) · [官网](https://vllora.dev) · 组织维护
 
 **AI Agent 实时调试网关：OpenAI 兼容代理收集调用追踪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vllora/vllora 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-15", "2026-11-19"]
     y-axis "stars" 809 --> 812
-    line [811, 810, 811, 811]
+    line [811, 810, 811, 810]
 ```
 
-2026-10-18 811 → 2026-11-18 811（+0）
+2026-10-18 811 → 2026-11-19 810（-1）
 
 
 ---

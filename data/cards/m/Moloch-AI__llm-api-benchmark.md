@@ -1,6 +1,6 @@
 # Moloch-AI/llm-api-benchmark
 
-⭐ 17 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Moloch-AI/llm-api-benchmark) · [官网](https://molochai.dev/?utm_source=github&utm_medium=oss&utm_campaign=llm-api-benchmark) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Moloch-AI/llm-api-benchmark) · [官网](https://molochai.dev/?utm_source=github&utm_medium=oss&utm_campaign=llm-api-benchmark) · 组织维护
 
 **测量 OpenAI 兼容 LLM API 延迟与成本的开发者基准工具**
 
@@ -41,6 +41,18 @@
 > L10: `llm-bench` measures what your application would experience when it calls an LLM API. It reports
 > L16: It works with any endpoint that speaks the OpenAI Chat Completions format: hosted APIs, gateways,
 > L17: and local servers. It is a measurement tool for comparing endpoints from the client's side. It is
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Moloch-AI/llm-api-benchmark 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-18 17 → 2026-11-19 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # manuelgscom/dale
 
-⭐ 51 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/manuelgscom/dale) · [官网](https://manuelgs.com/en/dale/) · 个人维护
+⭐ 53 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/manuelgscom/dale) · [官网](https://manuelgs.com/en/dale/) · 个人维护
 
 **离线自然语言转 Linux 命令的原生 CLI 二进制**
 
@@ -44,13 +44,13 @@ dale 把英文或西班牙语请求转换成一条 bash 命令：内置专为该
 
 ```mermaid
 xychart-beta
-    title "manuelgscom/dale 星数(近 7 点)"
-    x-axis ["2026-10-31", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 0 --> 55
-    line [3, 31, 40, 41, 45, 50, 51]
+    title "manuelgscom/dale 星数(近 8 点)"
+    x-axis ["2026-10-31", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 58
+    line [3, 31, 40, 41, 45, 50, 51, 53]
 ```
 
-2026-10-31 3 → 2026-11-18 51（+48）
+2026-10-31 3 → 2026-11-19 53（+50）
 
 
 ---

@@ -1,6 +1,6 @@
 # lyracode-app/Lyra-Code
 
-⭐ 59 · Kotlin · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/lyracode-app/Lyra-Code) · [官网](https://lyracode.app) · 组织维护 · 中文 README
+⭐ 59 · Kotlin · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/lyracode-app/Lyra-Code) · [官网](https://lyracode.app) · 组织维护 · 中文 README
 
 **Android 上的 AI 全栈开发环境：PRoot Linux + Termux + 编程 Agent**
 
@@ -44,13 +44,13 @@ Android 应用，内置 Agent 在应用管理的 PRoot Linux 环境或已有 Ter
 
 ```mermaid
 xychart-beta
-    title "lyracode-app/Lyra-Code 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18"]
+    title "lyracode-app/Lyra-Code 星数(近 11 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19"]
     y-axis "stars" 48 --> 60
-    line [49, 50, 51, 52, 49, 56, 55, 56, 57, 59]
+    line [49, 50, 51, 52, 49, 56, 55, 56, 57, 59, 59]
 ```
 
-2026-10-22 49 → 2026-11-18 59（+10）
+2026-10-22 49 → 2026-11-19 59（+10）
 
 
 ---

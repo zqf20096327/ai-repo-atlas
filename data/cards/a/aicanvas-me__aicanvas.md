@@ -1,6 +1,6 @@
 # aicanvas-me/aicanvas
 
-⭐ 70 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/aicanvas-me/aicanvas) · [官网](https://aicanvas.me) · 组织维护
+⭐ 72 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/aicanvas-me/aicanvas) · [官网](https://aicanvas.me) · 组织维护
 
 **动效 React 组件注册表：shadcn CLI 或 AI 编辑器经 MCP 安装真实源码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aicanvas-me/aicanvas 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 68, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 67 --> 73
+    line [68, 69, 68, 69, 70, 72]
 ```
 
-2026-10-18 68 → 2026-11-18 70（+2）
+2026-10-18 68 → 2026-11-19 72（+4）
 
 
 ---

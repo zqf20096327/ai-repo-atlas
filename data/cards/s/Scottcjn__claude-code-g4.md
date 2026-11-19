@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/claude-code-g4 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-18"]
+    title "Scottcjn/claude-code-g4 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-19"]
     y-axis "stars" 73 --> 77
-    line [76, 74]
+    line [76, 74, 74]
 ```
 
-2026-10-29 76 → 2026-11-18 74（-2）
+2026-10-29 76 → 2026-11-19 74（-2）
 
 
 ---

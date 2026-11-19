@@ -1,6 +1,6 @@
 # OpenByteInc/QuantDinger
 
-⭐ 13,827 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/OpenByteInc/QuantDinger) · [官网](https://ai.quantdinger.com) · 组织维护 · 中文 README
+⭐ 13,851 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/OpenByteInc/QuantDinger) · [官网](https://ai.quantdinger.com) · 组织维护 · 中文 README
 
 **自托管开源 AI 量化交易 OS：研究、回测到实盘执行一体化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenByteInc/QuantDinger 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 13616 --> 13846
-    line [13635, 13679, 13699, 13725, 13736, 13761, 13786, 13806, 13827]
+    title "OpenByteInc/QuantDinger 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 13614 --> 13872
+    line [13635, 13679, 13699, 13725, 13736, 13761, 13786, 13806, 13827, 13851]
 ```
 
-2026-11-08 13,635 → 2026-11-18 13,827（+192）
+2026-11-08 13,635 → 2026-11-19 13,851（+216）
 
 
 ---

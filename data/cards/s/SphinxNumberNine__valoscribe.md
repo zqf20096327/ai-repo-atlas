@@ -1,6 +1,6 @@
 # SphinxNumberNine/valoscribe
 
-⭐ 17 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/SphinxNumberNine/valoscribe) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/SphinxNumberNine/valoscribe) · 个人维护
 
 **用计算机视觉与 OCR 从 Valorant 比赛视频提取结构化事件与选手状态**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SphinxNumberNine/valoscribe 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 15, 16, 17, 18]
 ```
 
-2026-10-18 15 → 2026-11-18 17（+2）
+2026-10-18 15 → 2026-11-19 18（+3）
 
 
 ---

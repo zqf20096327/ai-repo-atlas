@@ -46,13 +46,13 @@ Nobler Works 维护的 AI 知识仓库，由六大指南板块组成：Learn（�
 
 ```mermaid
 xychart-beta
-    title "PatrickWiloak/ai-zero-to-hero 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-18"]
+    title "PatrickWiloak/ai-zero-to-hero 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 9 --> 18
-    line [10, 14, 17]
+    line [10, 14, 17, 17]
 ```
 
-2026-11-02 10 → 2026-11-18 17（+7）
+2026-11-02 10 → 2026-11-19 17（+7）
 
 
 ---

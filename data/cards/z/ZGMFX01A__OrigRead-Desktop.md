@@ -1,6 +1,6 @@
 # ZGMFX01A/OrigRead-Desktop
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/ZGMFX01A/OrigRead-Desktop) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ZGMFX01A/OrigRead-Desktop) · 个人维护 · 中文 README
 
 **面向 RSS 读者的桌面应用，提供可核验的 AI 引用阅读**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZGMFX01A/OrigRead-Desktop 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-18 11（+1）
+2026-11-08 10 → 2026-11-19 11（+1）
 
 
 ---

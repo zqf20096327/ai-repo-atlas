@@ -1,6 +1,6 @@
 # 333-wg/pi-wm
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/333-wg/pi-wm) · [官网](https://wuming-official.pages.dev/) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/333-wg/pi-wm) · [官网](https://wuming-official.pages.dev/) · 个人维护 · 中文 README
 
 **本地优先的 AI 编程 Agent 桌面工作台（Windows/macOS）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "333-wg/pi-wm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-18"]
-    y-axis "stars" 26 --> 30
-    line [27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-19"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 29, 30]
 ```
 
-2026-10-18 27 → 2026-11-18 29（+2）
+2026-10-18 27 → 2026-11-19 30（+3）
 
 
 ---

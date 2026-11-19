@@ -1,6 +1,6 @@
 # google-marketing-solutions/negative_keyword_cleaner
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-marketing-solutions/negative_keyword_cleaner) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-marketing-solutions/negative_keyword_cleaner) · 组织维护
 
 **用 LLM 识别并清理 Google Ads 账户中的否定关键词**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "google-marketing-solutions/negative_keyword_cleaner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 34 --> 37
+    line [36, 35]
 ```
 
-2026-10-18 36 → 2026-11-18 36（+0）
+2026-10-18 36 → 2026-11-19 35（-1）
 
 
 ---

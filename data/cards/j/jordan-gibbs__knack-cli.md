@@ -1,6 +1,6 @@
 # jordan-gibbs/knack-cli
 
-⭐ 22 · Rust · MIT · 推送 2026-07-27 · [GitHub](https://github.com/jordan-gibbs/knack-cli) · [官网](https://getknack.ai) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-07-27 · [GitHub](https://github.com/jordan-gibbs/knack-cli) · [官网](https://getknack.ai) · 个人维护
 
 **面向 agent 的技能创作/版本管理/运行观测 CLI**
 
@@ -45,12 +45,12 @@ Knack 是一个用 Rust 编写的命令行工具，用于对 agent 技能（SKIL
 ```mermaid
 xychart-beta
     title "jordan-gibbs/knack-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-11-18 22（+0）
+2026-10-18 22 → 2026-11-19 23（+1）
 
 
 ---

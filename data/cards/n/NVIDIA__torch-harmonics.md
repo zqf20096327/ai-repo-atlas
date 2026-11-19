@@ -1,6 +1,6 @@
 # NVIDIA/torch-harmonics
 
-⭐ 729 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/NVIDIA/torch-harmonics) · 组织维护
+⭐ 729 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/torch-harmonics) · 组织维护
 
 **球面可微信号处理库：为 PyTorch 提供球谐变换等算子**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的 PyTorch 库，提供球面上可微信号算子：球谐变换�
 ```mermaid
 xychart-beta
     title "NVIDIA/torch-harmonics 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 717 --> 730
     line [718, 719, 720, 721, 720, 727, 729, 729]
 ```
 
-2026-10-18 718 → 2026-11-18 729（+11）
+2026-10-18 718 → 2026-11-19 729（+11）
 
 
 ---

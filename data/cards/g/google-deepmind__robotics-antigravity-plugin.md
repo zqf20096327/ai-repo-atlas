@@ -1,6 +1,6 @@
 # google-deepmind/robotics-antigravity-plugin
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google-deepmind/robotics-antigravity-plugin) · [官网](https://deepmind.google/models/gemini-robotics/) · 组织维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google-deepmind/robotics-antigravity-plugin) · [官网](https://deepmind.google/models/gemini-robotics/) · 组织维护
 
 **Google Antigravity 机器人插件：让 agent 编写控制并在仿真与真机上运行**
 
@@ -40,6 +40,18 @@ Google DeepMind 维护的 Google Antigravity 机器人技能插件：agent 可�
 > L5: The Robotics plugin brings frontier spatial reasoning, multimodal perception,
 > L62:     agy plugin install https://github.com/google-deepmind/robotics-antigravity-plugin
 > L114:     └── robotics/                # Unified robotics plugin (perception, planning, control, sim2real, MuJoCo Studio
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-deepmind/robotics-antigravity-plugin 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 14 --> 69
+    line [18, 65]
+```
+
+2026-11-18 18 → 2026-11-19 65（+47）
 
 
 ---

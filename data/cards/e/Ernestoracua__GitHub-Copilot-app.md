@@ -1,10 +1,10 @@
 # Ernestoracua/GitHub-Copilot-app
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Ernestoracua/GitHub-Copilot-app) · 组织维护
+⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Ernestoracua/GitHub-Copilot-app) · 组织维护
 
-**官方 GitHub Copilot 桌面应用：跨仓库运行与管控 AI agent 开发工作**
+**面向开发者的 GitHub 仓库智能体工作管理桌面应用**
 
-GitHub 官方发布的桌面应用，为开发者提供从想法到 PR 的单一控制中心：查找待办工作、启动与引导 Copilot agent、审查进度并落地变更。每个本地会话运行在独立 git worktree 中，云会话运行在 GitHub 托管的隔离环境。提供 Canvas 可视化 agent 工作面、My Work 汇总会话/issue/PR、Automations 定时任务与 Agent Merge 辅助合并。需 Git 与任意 Copilot 订阅（支持 BYOK 自带模型密钥），从发布页下载安装。
+GitHub 官方的桌面应用，覆盖从想法到 pull request 的软件工作流：查找可认领的工作、启动并引导智能体会话、审阅进展并落地变更。每个本地会话运行在独立的 git worktree 中，云会话运行在 GitHub 托管的隔离环境。提供 Canvases 可视化智能体工作、My Work 汇聚会话/issue/PR、Automations 定时或后台任务、Agent Merge 协助推进评审与合并。需要 Git 与任一 GitHub Copilot 计划，或通过 BYOK 携带自己的模型密钥。
 
 ## 筛选速览
 
@@ -20,26 +20,39 @@ GitHub 官方发布的桌面应用，为开发者提供从想法到 PR 的单一
 
 ## 能力要点
 
-- 本地会话运行于隔离 git worktree，云会话运行于 GitHub 托管环境
-- Canvas 将 agent 的计划、终端、diff 与工作流状态呈现为可检查可编辑界面
-- Automations 将可重复的提示与工作流转为定时/后台任务，Agent Merge 辅助 PR 审查与合并
-- 无 Copilot 订阅时可通过 BYOK 使用自有模型提供商
+- 本地会话以隔离 git worktree 运行，云会话在 GitHub 托管环境中运行
+- Canvases 将计划、终端、diff、工作流状态呈现为可查看与可编辑的界面
+- Automations 将可重复的提示词与工作流转为定时/后台任务
+- Agent Merge 协助推进 PR 评审、检查与合并条件
 
 ## 适用场景
 
-- 并行让多个 agent 处理 bug 修复、issue 实现与评审反馈
-- 在一个界面里管理跨仓库的会话、issue 与 PR 工作队列
-- 将重复性开发流程转为定时自动化任务
+- 并行运行多个智能体会话处理 bug、issue、评审反馈而互不冲突
+- 在单一控制中心管理跨仓库的会话、issue 与 pull request
+- 把常用提示词与工作流配置为定时或后台自动化任务
 
 ## 场景标签
 
-`编码 Agent` `代码审查` · 领域:编码与开发
+`编码 Agent` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L13: The GitHub Copilot app is an agent-native desktop experience for managing software work from idea to pull request. 
 > L15: The app is built for parallel agent-driven development. Each local session runs in its own isolated git worktree, a
+> L26: - A GitHub Copilot plan — any plan works, including Copilot Free and GitHub Copilot Student. No Copilot plan? You c
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ernestoracua/GitHub-Copilot-app 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-11-18 62 → 2026-11-19 62（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `ef82cf6db0cd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `f27c6eaa47bb` · [字段定义](../../DATASET.md)*

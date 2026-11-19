@@ -1,6 +1,6 @@
 # gensecaihq/Wazuh-Autopilot
 
-⭐ 66 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/gensecaihq/Wazuh-Autopilot) · [官网](https://wazuh-mcp-openclaw.netlify.app/) · 组织维护
+⭐ 67 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/gensecaihq/Wazuh-Autopilot) · [官网](https://wazuh-mcp-openclaw.netlify.app/) · 组织维护
 
 **面向 Wazuh 的自治 SOC 平台：13 个 agent 处理告警并规划响应**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gensecaihq/Wazuh-Autopilot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 58 --> 67
-    line [59, 60, 61, 60, 63, 64, 66]
+    title "gensecaihq/Wazuh-Autopilot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 58 --> 68
+    line [59, 60, 61, 60, 63, 64, 66, 67]
 ```
 
-2026-10-18 59 → 2026-11-18 66（+7）
+2026-10-18 59 → 2026-11-19 67（+8）
 
 
 ---

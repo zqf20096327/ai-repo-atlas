@@ -1,6 +1,6 @@
 # dashscope/dashscope-sdk-java
 
-⭐ 84 · Java · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/dashscope/dashscope-sdk-java) · [官网](https://modelstudio.console.alibabacloud.com/) · 组织维护 · 中文 README
+⭐ 84 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/dashscope/dashscope-sdk-java) · [官网](https://modelstudio.console.alibabacloud.com/) · 组织维护 · 中文 README
 
 **阿里云百炼 DashScope 模型的 Java SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dashscope/dashscope-sdk-java 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-18"]
+    title "dashscope/dashscope-sdk-java 星数(近 3 点)"
+    x-axis ["2026-11-11", "2026-11-18", "2026-11-19"]
     y-axis "stars" 82 --> 85
-    line [83, 84]
+    line [83, 84, 84]
 ```
 
-2026-11-11 83 → 2026-11-18 84（+1）
+2026-11-11 83 → 2026-11-19 84（+1）
 
 
 ---

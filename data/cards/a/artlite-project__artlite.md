@@ -1,6 +1,6 @@
 # artlite-project/artlite
 
-⭐ 13 · Python · LGPL-2.1 · 推送 2026-11-17 · [GitHub](https://github.com/artlite-project/artlite) · 个人维护
+⭐ 15 · Python · LGPL-2.1 · 推送 2026-11-18 · [GitHub](https://github.com/artlite-project/artlite) · 个人维护
 
 **在 AMD Ryzen AI NPU 上运行 LLM 与图像生成的轻量推理运行时**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "artlite-project/artlite 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 14
-    line [3, 4, 5, 4, 6, 8, 9, 13]
+    title "artlite-project/artlite 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 2 --> 16
+    line [3, 4, 5, 4, 6, 8, 9, 13, 15]
 ```
 
-2026-10-19 3 → 2026-11-18 13（+10）
+2026-10-19 3 → 2026-11-19 15（+12）
 
 
 ---

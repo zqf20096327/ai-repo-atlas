@@ -1,6 +1,6 @@
 # Moxxkidd/foam
 
-⭐ 39 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/Moxxkidd/foam) · 个人维护 · 中文 README
+⭐ 80 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/Moxxkidd/foam) · 个人维护 · 中文 README
 
 **Kali 上的 LLM 渗透测试 harness：模型自主驱动安全工具链**
 
@@ -40,6 +40,18 @@
 > L3: Kali 原生的 LLM 渗透测试 harness:让大模型直接使用 Kali 的完整工具链,
 > L6: 模型自行规划攻击路径、选择并驱动工具、处理输出、管理交互会话;
 > L27: - **自由 bash + 智能输出层**:LLM 通过 bash 使用 Kali 任意已装工具,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Moxxkidd/foam 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 35 --> 84
+    line [39, 80]
+```
+
+2026-11-18 39 → 2026-11-19 80（+41）
 
 
 ---

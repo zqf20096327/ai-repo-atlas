@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EnzoGitHub27/datapizza-streamlit-interface 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-18"]
+    x-axis ["2026-11-08", "2026-11-19"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-11-08 42 → 2026-11-18 42（+0）
+2026-11-08 42 → 2026-11-19 42（+0）
 
 
 ---

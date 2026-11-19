@@ -1,6 +1,6 @@
 # openops-cloud/openops
 
-⭐ 1,081 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/openops-cloud/openops) · [官网](https://www.openops.com) · 组织维护
+⭐ 1,082 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/openops-cloud/openops) · [官网](https://www.openops.com) · 组织维护
 
 **无代码 FinOps 自动化平台：帮组织降低云成本并自动化财务运营流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openops-cloud/openops 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-18"]
+    title "openops-cloud/openops 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-19"]
     y-axis "stars" 1076 --> 1084
-    line [1077, 1078, 1079, 1080, 1079, 1082, 1083, 1082, 1081]
+    line [1077, 1078, 1079, 1080, 1079, 1082, 1083, 1082, 1081, 1082]
 ```
 
-2026-10-18 1,077 → 2026-11-18 1,081（+4）
+2026-10-18 1,077 → 2026-11-19 1,082（+5）
 
 
 ---

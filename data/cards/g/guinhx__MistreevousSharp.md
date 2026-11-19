@@ -1,6 +1,6 @@
 # guinhx/MistreevousSharp
 
-⭐ 15 · C# · 推送 2025-11-22 · [GitHub](https://github.com/guinhx/MistreevousSharp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **C# 行为树库：用 JSON/DSL 定义游戏 AI 决策逻辑**
 

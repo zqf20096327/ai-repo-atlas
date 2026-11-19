@@ -1,6 +1,6 @@
 # xbsheng/lakala-cs80
 
-⭐ 12 · Python · 推送 2026-11-17 · [GitHub](https://github.com/xbsheng/lakala-cs80) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-11-17 · [GitHub](https://github.com/xbsheng/lakala-cs80) · 个人维护 · 中文 README
 
 **把拉卡拉 CS80 客显屏改造成本地副屏，显示画布与 Agent 状态**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xbsheng/lakala-cs80 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 2 --> 13
-    line [3, 12]
+    title "xbsheng/lakala-cs80 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 2 --> 14
+    line [3, 12, 13]
 ```
 
-2026-11-16 3 → 2026-11-18 12（+9）
+2026-11-16 3 → 2026-11-19 13（+10）
 
 
 ---

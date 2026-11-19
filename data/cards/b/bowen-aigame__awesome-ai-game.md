@@ -1,6 +1,6 @@
 # bowen-aigame/awesome-ai-game
 
-⭐ 111 · MIT · 推送 2026-06-13 · [GitHub](https://github.com/bowen-aigame/awesome-ai-game) · 个人维护
+⭐ 112 · MIT · 推送 2026-06-13 · [GitHub](https://github.com/bowen-aigame/awesome-ai-game) · 个人维护
 
 **可玩的 AI 游戏策展清单：AI 即玩法本身的游戏收录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bowen-aigame/awesome-ai-game 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
-    y-axis "stars" 109 --> 112
-    line [110, 111, 111]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    y-axis "stars" 109 --> 113
+    line [110, 111, 112]
 ```
 
-2026-10-18 110 → 2026-11-18 111（+1）
+2026-10-18 110 → 2026-11-19 112（+2）
 
 
 ---

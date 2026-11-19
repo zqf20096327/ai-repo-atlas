@@ -1,6 +1,6 @@
 # GetStream/Agents
 
-⭐ 8,215 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/GetStream/Agents) · [官网](https://visionagents.ai) · 组织维护
+⭐ 8,215 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/GetStream/Agents) · [官网](https://visionagents.ai) · 组织维护
 
 **Go 后端多语言 SDK，快速构建文本/语音/视频 AI agent**
 
@@ -40,6 +40,18 @@ Stream Agents 是用 Go 实现的 agent 后端，配套 Python/Go/Node/Ruby/PHP/
 > L6: Stream Agents is a Go backend for building text, voice and video agents.
 > L11: 1. Agents are defined in a folder structure + YAML
 > L124: * Routing for LLM and STT
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GetStream/Agents 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 8214 --> 8216
+    line [8215, 8215]
+```
+
+2026-11-18 8,215 → 2026-11-19 8,215（+0）
 
 
 ---

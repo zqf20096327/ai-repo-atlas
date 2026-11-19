@@ -1,6 +1,6 @@
 # OpenCSGs/csghub-server
 
-⭐ 1,041 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/OpenCSGs/csghub-server) · [官网](https://opencsg.com/models) · 组织维护 · 中文 README
+⭐ 1,042 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/OpenCSGs/csghub-server) · [官网](https://opencsg.com/models) · 组织维护 · 中文 README
 
 **面向开发者的开源大模型资产平台 CSGHub 的后端服务**
 
@@ -45,12 +45,12 @@ CSGHub Server 是开源大模型资产管理平台 CSGHub 的后端组件，通�
 ```mermaid
 xychart-beta
     title "OpenCSGs/csghub-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 1036 --> 1042
-    line [1037, 1039, 1040, 1039, 1041, 1040, 1041, 1041]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 1036 --> 1043
+    line [1037, 1039, 1040, 1039, 1041, 1040, 1041, 1042]
 ```
 
-2026-10-18 1,037 → 2026-11-18 1,041（+4）
+2026-10-18 1,037 → 2026-11-19 1,042（+5）
 
 
 ---

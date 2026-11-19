@@ -1,6 +1,6 @@
 # vinkius-labs/mcp-database
 
-⭐ 16 · 推送 2026-10-09 · [GitHub](https://github.com/vinkius-labs/mcp-database) · [官网](https://vinkius.com) · 组织维护
+⭐ 17 · 推送 2026-10-09 · [GitHub](https://github.com/vinkius-labs/mcp-database) · [官网](https://vinkius.com) · 组织维护
 
 **MCP 连接器开放数据目录：11,088 个连接器元数据**
 
@@ -45,12 +45,12 @@ Vinkius 公司维护的开放数据仓库，自动同步其连接器目录：收
 ```mermaid
 xychart-beta
     title "vinkius-labs/mcp-database 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 13 --> 17
-    line [14, 16, 16]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 13 --> 18
+    line [14, 16, 17]
 ```
 
-2026-10-18 14 → 2026-11-18 16（+2）
+2026-10-18 14 → 2026-11-19 17（+3）
 
 
 ---

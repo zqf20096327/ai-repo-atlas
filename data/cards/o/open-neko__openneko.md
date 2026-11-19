@@ -1,6 +1,6 @@
 # open-neko/openneko
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/open-neko/openneko) · [官网](https://openneko.app) · 个人维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/open-neko/openneko) · [官网](https://openneko.app) · 个人维护
 
 **自托管商业运营智能平台：读业务数据、答疑并按规则执行动作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "open-neko/openneko 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 21, 22]
 ```
 
-2026-10-18 18 → 2026-11-18 21（+3）
+2026-10-18 18 → 2026-11-19 22（+4）
 
 
 ---

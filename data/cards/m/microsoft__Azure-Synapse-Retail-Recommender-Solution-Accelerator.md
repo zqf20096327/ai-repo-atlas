@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Azure-Synapse-Retail-Recommender-Solution-Accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-18 44（+0）
+2026-10-18 44 → 2026-11-19 44（+0）
 
 
 ---

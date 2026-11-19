@@ -1,6 +1,6 @@
 # bcgov/crow
 
-⭐ 13 · PowerShell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bcgov/crow) · 组织维护
+⭐ 13 · PowerShell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/bcgov/crow) · 组织维护
 
 **面向开发者的 agentic 软件开发 agents/skills 软件包**
 
@@ -47,12 +47,12 @@ CROW（Continuous Remediation & Optimization Workflows）是 bcgov（不列颠�
 ```mermaid
 xychart-beta
     title "bcgov/crow 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-11-12", "2026-11-16", "2026-11-19"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-11-12 12 → 2026-11-18 13（+1）
+2026-11-12 12 → 2026-11-19 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Golden-66/agentic-rag-kb
 
-⭐ 17 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Golden-66/agentic-rag-kb) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Golden-66/agentic-rag-kb) · 个人维护 · 中文 README
 
 **企业级 Agentic RAG 知识库：混合检索+重排+Agent 流式问答**
 
@@ -41,6 +41,18 @@
 > L3: 基于 **Agentic RAG** 的企业级智能知识库：文档解析 → 标题层级父子分块 → Dense + Sparse + BM25 混合检索 → Reranker 重排 → LangGraph 路由 Agent（意图识别 / 
 > L27: |LangGraph Agent (路由/拆解/HyDE/纠错)|`backend/app/agent/graph.py`|
 > L43: 首次启动后端会下载 BGE-M3 与 BGE-Reranker 模型（数 GB），请耐心等待；国内网络可在 `.env` 中加 `HF_ENDPOINT=https://hf-mirror.com`。纯 CPU 可运行但较慢，有 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Golden-66/agentic-rag-kb 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 16 --> 26
+    line [17, 25]
+```
+
+2026-11-18 17 → 2026-11-19 25（+8）
 
 
 ---

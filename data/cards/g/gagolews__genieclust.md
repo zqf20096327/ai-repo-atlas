@@ -1,6 +1,6 @@
 # gagolews/genieclust
 
-⭐ 75 · C++ · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/gagolews/genieclust) · [官网](https://genieclust.gagolewski.com/) · 个人维护
+⭐ 74 · C++ · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/gagolews/genieclust) · [官网](https://genieclust.gagolewski.com/) · 个人维护
 
 **R/Python 双语言的鲁棒层次聚类算法库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gagolews/genieclust 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 73 --> 76
+    line [75, 74]
 ```
 
-2026-10-18 75 → 2026-11-18 75（+0）
+2026-10-18 75 → 2026-11-19 74（-1）
 
 
 ---

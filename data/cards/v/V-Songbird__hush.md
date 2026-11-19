@@ -1,6 +1,6 @@
 # V-Songbird/hush
 
-⭐ 54 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/V-Songbird/hush) · [官网](https://github.com/V-Songbird/foundry) · 个人维护
+⭐ 54 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/V-Songbird/hush) · [官网](https://github.com/V-Songbird/foundry) · 个人维护
 
 **Claude Code 插件：减少过程解说、缩短工具输出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "V-Songbird/hush 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
     y-axis "stars" 52 --> 55
     line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-18 54（+1）
+2026-10-18 53 → 2026-11-19 54（+1）
 
 
 ---

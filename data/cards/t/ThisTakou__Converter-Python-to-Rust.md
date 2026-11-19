@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThisTakou/Converter-Python-to-Rust 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    title "ThisTakou/Converter-Python-to-Rust 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 33 --> 38
-    line [37, 34, 35]
+    line [37, 34, 35, 35]
 ```
 
-2026-10-18 37 → 2026-11-18 35（-2）
+2026-10-18 37 → 2026-11-19 35（-2）
 
 
 ---

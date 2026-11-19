@@ -1,6 +1,6 @@
 # tum-pbs/tadpole
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/tum-pbs/tadpole) · [官网](https://tum-pbs.github.io/tadpole/) · 组织维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/tum-pbs/tadpole) · [官网](https://tum-pbs.github.io/tadpole/) · 组织维护
 
 **三维偏微分方程的自动编码器科学基础模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tum-pbs/tadpole 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 23 --> 31
-    line [24, 29, 30, 30]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 23 --> 32
+    line [24, 29, 30, 31]
 ```
 
-2026-10-26 24 → 2026-11-18 30（+6）
+2026-10-26 24 → 2026-11-19 31（+7）
 
 
 ---

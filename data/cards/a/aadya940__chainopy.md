@@ -1,6 +1,6 @@
 # aadya940/chainopy
 
-⭐ 23 · Python · BSD-2-Clause · 推送 2026-09-09 · [GitHub](https://github.com/aadya940/chainopy) · [官网](https://chainopy.readthedocs.io/en/latest/) · 个人维护
+⭐ 23 · Python · BSD-2-Clause · 推送 2026-11-18 · [GitHub](https://github.com/aadya940/chainopy) · [官网](https://chainopy.readthedocs.io/en/latest/) · 个人维护
 
 **离散时间马尔可夫链随机分析的 Python 库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aadya940/chainopy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-18 23（+0）
+2026-10-18 23 → 2026-11-19 23（+0）
 
 
 ---

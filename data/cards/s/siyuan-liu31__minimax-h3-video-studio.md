@@ -1,6 +1,6 @@
 # siyuan-liu31/minimax-h3-video-studio
 
-⭐ 29 · Python · 推送 2026-10-24 · [GitHub](https://github.com/siyuan-liu31/minimax-h3-video-studio) · 个人维护 · 中文 README
+⭐ 30 · Python · 推送 2026-10-24 · [GitHub](https://github.com/siyuan-liu31/minimax-h3-video-studio) · 个人维护 · 中文 README
 
 **面向 MiniMax H3 的自托管 AI 视频创作工作台（浏览器 + CLI）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "siyuan-liu31/minimax-h3-video-studio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 22 --> 30
-    line [23, 24, 25, 26, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 22 --> 31
+    line [23, 24, 25, 26, 28, 29, 30]
 ```
 
-2026-10-18 23 → 2026-11-18 29（+6）
+2026-10-18 23 → 2026-11-19 30（+7）
 
 
 ---

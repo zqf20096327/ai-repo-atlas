@@ -1,6 +1,6 @@
 # sib-swiss/sparql-llm
 
-⭐ 134 · Jupyter Notebook · MIT · 推送 2026-11-05 · [GitHub](https://github.com/sib-swiss/sparql-llm) · [官网](https://chat.expasy.org) · 组织维护
+⭐ 135 · Jupyter Notebook · MIT · 推送 2026-11-05 · [GitHub](https://github.com/sib-swiss/sparql-llm) · [官网](https://chat.expasy.org) · 组织维护
 
 **帮 LLM 生成 SPARQL 查询的 MCP 服务器、聊天系统与组件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sib-swiss/sparql-llm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 128 --> 135
-    line [129, 130, 132, 133, 134, 134]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 128 --> 136
+    line [129, 130, 132, 133, 134, 135]
 ```
 
-2026-10-18 129 → 2026-11-18 134（+5）
+2026-10-18 129 → 2026-11-19 135（+6）
 
 
 ---

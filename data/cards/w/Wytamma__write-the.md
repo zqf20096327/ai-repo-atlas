@@ -1,6 +1,6 @@
 # Wytamma/write-the
 
-⭐ 119 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/Wytamma/write-the) · [官网](http://write-the.wytamma.com) · 个人维护
+⭐ 118 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/Wytamma/write-the) · [官网](http://write-the.wytamma.com) · 个人维护
 
 **给开发者的 Python 代码文档与测试自动生成 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Wytamma/write-the 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 117 --> 120
+    line [119, 118]
 ```
 
-2026-10-18 119 → 2026-11-18 119（+0）
+2026-10-18 119 → 2026-11-19 118（-1）
 
 
 ---

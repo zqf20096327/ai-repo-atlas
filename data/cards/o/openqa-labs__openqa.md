@@ -1,6 +1,6 @@
 # openqa-labs/openqa
 
-⭐ 28 · JavaScript · 推送 2026-05-25 · [GitHub](https://github.com/openqa-labs/openqa) · [官网](https://www.openqa.io/) · 组织维护
+⭐ 29 · JavaScript · 推送 2026-05-25 · [GitHub](https://github.com/openqa-labs/openqa) · [官网](https://www.openqa.io/) · 组织维护
 
 **用自然语言写浏览器端到端测试的 agent 测试框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openqa-labs/openqa 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-18"]
-    y-axis "stars" 24 --> 29
-    line [25, 26, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-19"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 27, 28, 29]
 ```
 
-2026-10-18 25 → 2026-11-18 28（+3）
+2026-10-18 25 → 2026-11-19 29（+4）
 
 
 ---

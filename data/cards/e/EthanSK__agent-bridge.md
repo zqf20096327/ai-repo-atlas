@@ -46,12 +46,12 @@ agent-bridge 让运行中的 agent harness 会话（Claude Code、OpenClaw、Cod
 ```mermaid
 xychart-beta
     title "EthanSK/agent-bridge 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-12", "2026-11-19"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-22 10 → 2026-11-18 12（+2）
+2026-10-22 10 → 2026-11-19 12（+2）
 
 
 ---

@@ -40,6 +40,18 @@
 > L6: A plugin for omp. Before each model request it asks
 > L7: Jev, TypeSafe's small decision model, which old tool results the agent still
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jerryfane/omp-jev-compaction 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-18 15 → 2026-11-19 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `4c81a64bdc31` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@ Vir Multiplicis 随 Medium 系列 Web 文章开发的提示词框架仓库：以
 
 ```mermaid
 xychart-beta
-    title "Vir-Multiplicis/ai-frameworks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
+    title "Vir-Multiplicis/ai-frameworks 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
     y-axis "stars" 27 --> 32
-    line [28, 29, 30, 31]
+    line [28, 29, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-18 31（+3）
+2026-10-18 28 → 2026-11-19 31（+3）
 
 
 ---

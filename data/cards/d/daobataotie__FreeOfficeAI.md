@@ -1,6 +1,6 @@
 # daobataotie/FreeOfficeAI
 
-⭐ 32 · C# · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/daobataotie/FreeOfficeAI) · 个人维护 · 中文 README
+⭐ 33 · C# · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/daobataotie/FreeOfficeAI) · 个人维护 · 中文 README
 
 **集成到 Word/Excel 的免费 Office AI 助手插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daobataotie/FreeOfficeAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-11-18 32（+0）
+2026-10-18 32 → 2026-11-19 33（+1）
 
 
 ---

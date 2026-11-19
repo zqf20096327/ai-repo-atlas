@@ -1,6 +1,6 @@
 # steph-dove/klaussy-desktop
 
-⭐ 14 · JavaScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/steph-dove/klaussy-desktop) · [官网](https://klaussy.com) · 组织维护
+⭐ 14 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/steph-dove/klaussy-desktop) · [官网](https://klaussy.com) · 组织维护
 
 **多智能体编码 IDE：并行运行编码 agent 并在提交前审查**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "steph-dove/klaussy-desktop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 12 --> 15
     line [13, 14, 13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-18 14（+1）
+2026-10-18 13 → 2026-11-19 14（+1）
 
 
 ---

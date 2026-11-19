@@ -1,6 +1,6 @@
 # lfoppiano/grobid-quantities
 
-⭐ 86 · JavaScript · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/lfoppiano/grobid-quantities) · [官网](https://grobid-quantities.readthedocs.io) · 组织维护
+⭐ 85 · JavaScript · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/lfoppiano/grobid-quantities) · [官网](https://grobid-quantities.readthedocs.io) · 组织维护
 
 **GROBID 扩展：从科技文献中识别并归一化物理量测量表达**
 
@@ -45,12 +45,12 @@ GROBID 的扩展模块，面向技术与科学文献和专利（支持文本、X
 ```mermaid
 xychart-beta
     title "lfoppiano/grobid-quantities 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 84 --> 87
+    line [86, 85]
 ```
 
-2026-10-18 86 → 2026-11-18 86（+0）
+2026-10-18 86 → 2026-11-19 85（-1）
 
 
 ---

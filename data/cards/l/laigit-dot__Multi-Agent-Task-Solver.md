@@ -1,6 +1,6 @@
 # laigit-dot/Multi-Agent-Task-Solver
 
-⭐ 21 · Python · 推送 2026-05-23 · [GitHub](https://github.com/laigit-dot/Multi-Agent-Task-Solver) · 个人维护
+⭐ 20 · Python · 推送 2026-05-23 · [GitHub](https://github.com/laigit-dot/Multi-Agent-Task-Solver) · 个人维护
 
 **多智能体协作编排系统：DAG 工作流调度专用 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "laigit-dot/Multi-Agent-Task-Solver 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    line [20, 21, 20]
 ```
 
-2026-10-18 20 → 2026-11-18 21（+1）
+2026-10-18 20 → 2026-11-19 20（+0）
 
 
 ---

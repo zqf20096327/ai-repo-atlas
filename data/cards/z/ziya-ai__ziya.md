@@ -1,6 +1,6 @@
 # ziya-ai/ziya
 
-⭐ 42 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ziya-ai/ziya) · [官网](https://github.com/ziya-ai/ziya) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ziya-ai/ziya) · [官网](https://github.com/ziya-ai/ziya) · 个人维护
 
 **自托管本地 AI 技术工作台：聊天 UI 与编码 agent 合一**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ziya-ai/ziya 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-19"]
     y-axis "stars" 39 --> 43
     line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-18 42（+2）
+2026-10-18 40 → 2026-11-19 42（+2）
 
 
 ---

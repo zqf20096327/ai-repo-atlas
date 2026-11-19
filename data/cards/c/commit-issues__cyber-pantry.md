@@ -1,6 +1,6 @@
 # commit-issues/cyber-pantry
 
-⭐ 40 · HTML · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/commit-issues/cyber-pantry) · [官网](https://www.cyberpantry.org) · 个人维护
+⭐ 43 · HTML · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/commit-issues/cyber-pantry) · [官网](https://www.cyberpantry.org) · 个人维护
 
 **325+ 条免费网络安全学习资源清单，按初学到进阶组织**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "commit-issues/cyber-pantry 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 23 --> 41
-    line [24, 26, 31, 33, 34, 38, 40]
+    title "commit-issues/cyber-pantry 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 23 --> 44
+    line [24, 26, 31, 33, 34, 38, 40, 43]
 ```
 
-2026-11-10 24 → 2026-11-18 40（+16）
+2026-11-10 24 → 2026-11-19 43（+19）
 
 
 ---

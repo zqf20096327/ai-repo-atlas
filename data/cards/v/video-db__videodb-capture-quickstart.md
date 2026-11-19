@@ -1,6 +1,6 @@
 # video-db/videodb-capture-quickstart
 
-⭐ 29 · Python · ISC · 推送 2026-08-12 · [GitHub](https://github.com/video-db/videodb-capture-quickstart) · [官网](https://docs.videodb.io/pages/ingest/capture-sdks/overview) · 组织维护
+⭐ 29 · Python · ISC · 推送 2026-11-18 · [GitHub](https://github.com/video-db/videodb-capture-quickstart) · [官网](https://docs.videodb.io/pages/ingest/capture-sdks/overview) · 组织维护
 
 **给 AI agent 提供实时桌面感知的屏幕/音频采集 SDK**
 
@@ -45,12 +45,12 @@ VideoDB Capture SDK 提供桌面屏幕、麦克风与系统音频的实时采集
 ```mermaid
 xychart-beta
     title "video-db/videodb-capture-quickstart 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-19"]
     y-axis "stars" 27 --> 30
     line [29, 28, 29, 29]
 ```
 
-2026-10-18 29 → 2026-11-18 29（+0）
+2026-10-18 29 → 2026-11-19 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-ffmpeg
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/STARDUSTLC666/dsh-ffmpeg) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/STARDUSTLC666/dsh-ffmpeg) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本机 FFmpeg 音视频处理插件**
 
@@ -39,6 +39,18 @@
 
 > L7: DeepSeek Harness（`>=0.2.2-rc.3`）本机音视频处理插件：封装 FFmpeg / FFprobe 进行媒体探测、剪辑拼接、预设转码、字幕烧录、分镜总览图与 GIF 导出，兼容 Windows 滤镜路径转义。
 > L33: 1. 安装 FFmpeg/ffprobe，并在 DSH 中运行 ffmpeg_health 检查可执行文件。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "STARDUSTLC666/dsh-ffmpeg 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-11-18 16 → 2026-11-19 16（+0）
 
 
 ---

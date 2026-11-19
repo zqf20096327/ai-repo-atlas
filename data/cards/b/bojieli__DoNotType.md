@@ -1,6 +1,6 @@
 # bojieli/DoNotType
 
-⭐ 55 · Swift · MIT · 推送 2026-11-01 · [GitHub](https://github.com/bojieli/DoNotType) · 个人维护
+⭐ 56 · Swift · MIT · 推送 2026-11-01 · [GitHub](https://github.com/bojieli/DoNotType) · 个人维护
 
 **开源语音听写工具：结合屏幕上下文正确拼写专有名词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bojieli/DoNotType 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 54 --> 57
+    line [55, 56]
 ```
 
-2026-10-18 55 → 2026-11-18 55（+0）
+2026-10-18 55 → 2026-11-19 56（+1）
 
 
 ---

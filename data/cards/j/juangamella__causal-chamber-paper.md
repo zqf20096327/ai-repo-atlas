@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "juangamella/causal-chamber-paper 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-18"]
+    x-axis ["2026-11-10", "2026-11-19"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-11-10 20 → 2026-11-18 20（+0）
+2026-11-10 20 → 2026-11-19 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tteon/seocho
 
-⭐ 60 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/tteon/seocho) · [官网](https://seocho.blog/) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tteon/seocho) · [官网](https://seocho.blog/) · 个人维护
 
 **本体对齐的 agent 图记忆中间件：SDK+运行时+可复现实验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tteon/seocho 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 58 --> 61
     line [59, 60, 59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-18 60（+1）
+2026-10-18 59 → 2026-11-19 60（+1）
 
 
 ---

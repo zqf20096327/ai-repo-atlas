@@ -1,6 +1,6 @@
 # jupyterlab/jupyter-ai
 
-⭐ 4,447 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/jupyterlab/jupyter-ai) · [官网](https://jupyter-ai.readthedocs.io/) · 组织维护
+⭐ 4,448 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/jupyterlab/jupyter-ai) · [官网](https://jupyter-ai.readthedocs.io/) · 组织维护
 
 **为 JupyterLab 接入 AI agent 的官方聊天扩展**
 
@@ -45,12 +45,12 @@ JupyterLab 的开源扩展，通过 Agent Client Protocol (ACP) 将 Claude、Cod
 ```mermaid
 xychart-beta
     title "jupyterlab/jupyter-ai 星数(近 4 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18"]
-    y-axis "stars" 4444 --> 4448
-    line [4445, 4446, 4447, 4447]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19"]
+    y-axis "stars" 4444 --> 4449
+    line [4445, 4446, 4447, 4448]
 ```
 
-2026-11-12 4,445 → 2026-11-18 4,447（+2）
+2026-11-12 4,445 → 2026-11-19 4,448（+3）
 
 
 ---

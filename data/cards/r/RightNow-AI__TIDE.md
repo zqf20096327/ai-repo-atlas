@@ -1,6 +1,6 @@
 # RightNow-AI/TIDE
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/TIDE) · [官网](https://www.rightnowai.co/) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/TIDE) · [官网](https://www.rightnowai.co/) · 组织维护
 
 **LLM 推理逐 token 提前退出加速库：跳过 token 不需要的层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RightNow-AI/TIDE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-11-18 34（+0）
+2026-10-18 34 → 2026-11-19 35（+1）
 
 
 ---

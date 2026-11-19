@@ -1,6 +1,6 @@
 # zhenhanchen1-cyber/minimax-h3-nvidia-uncensored
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/zhenhanchen1-cyber/minimax-h3-nvidia-uncensored) · [官网](https://gitcode.com/nxxwjbl/minimax-h3-ascend-uncensored) · 个人维护 · 中文 README
+⭐ 22 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/zhenhanchen1-cyber/minimax-h3-nvidia-uncensored) · [官网](https://gitcode.com/nxxwjbl/minimax-h3-ascend-uncensored) · 个人维护 · 中文 README
 
 **MiniMax-H3 视频模型在 NVIDIA 卡（8GB 显存起）的本地部署脚本与工作流包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhenhanchen1-cyber/minimax-h3-nvidia-uncensored 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 3 --> 20
-    line [4, 5, 9, 10, 11, 9, 14, 15, 16, 17, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
+    y-axis "stars" 3 --> 23
+    line [4, 5, 9, 10, 11, 9, 14, 15, 16, 17, 18, 19, 22]
 ```
 
-2026-10-18 4 → 2026-11-18 19（+15）
+2026-10-18 4 → 2026-11-19 22（+18）
 
 
 ---

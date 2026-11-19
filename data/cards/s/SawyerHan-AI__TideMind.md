@@ -1,6 +1,6 @@
 # SawyerHan-AI/TideMind
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SawyerHan-AI/TideMind) · [官网](https://tidemind.ai/) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/SawyerHan-AI/TideMind) · [官网](https://tidemind.ai/) · 个人维护 · 中文 README
 
 **跨 AI 工具与笔记的本地优先记忆层/知识图谱**
 
@@ -46,12 +46,12 @@ TideMind 是一个运行在本机的记忆层：将多个 AI 工具的对话、O
 ```mermaid
 xychart-beta
     title "SawyerHan-AI/TideMind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

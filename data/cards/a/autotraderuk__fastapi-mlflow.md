@@ -44,12 +44,12 @@ Python 库，提供 build_app 函数将已加载的 MLflow pyfunc 模型包装�
 ```mermaid
 xychart-beta
     title "autotraderuk/fastapi-mlflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-18 20（+0）
+2026-10-18 20 → 2026-11-19 20（+0）
 
 
 ---

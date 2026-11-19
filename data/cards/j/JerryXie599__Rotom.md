@@ -1,6 +1,6 @@
 # JerryXie599/Rotom
 
-⭐ 14 · Python · 推送 2026-11-11 · [GitHub](https://github.com/JerryXie599/Rotom) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-11-11 · [GitHub](https://github.com/JerryXie599/Rotom) · 个人维护 · 中文 README
 
 **CTF 比赛自动化解题 Agent harness：调度多 agent 并发答题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JerryXie599/Rotom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13]
 ```
 
-2026-10-18 13 → 2026-11-18 14（+1）
+2026-10-18 13 → 2026-11-19 13（+0）
 
 
 ---

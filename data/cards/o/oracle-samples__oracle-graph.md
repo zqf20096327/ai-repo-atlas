@@ -1,6 +1,6 @@
 # oracle-samples/oracle-graph
 
-⭐ 59 · PLSQL · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/oracle-samples/oracle-graph) · [官网](https://www.oracle.com/database/integrated-graph-database/) · 组织维护
+⭐ 59 · PLSQL · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/oracle-samples/oracle-graph) · [官网](https://www.oracle.com/database/integrated-graph-database/) · 组织维护
 
 **Oracle Graph 官方示例库：属性图/RDF/知识图与 GraphRAG 演示**
 
@@ -45,13 +45,13 @@ Oracle 官方维护的 Oracle Graph 示例与演示仓库，按 property-graph�
 
 ```mermaid
 xychart-beta
-    title "oracle-samples/oracle-graph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    title "oracle-samples/oracle-graph 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-19"]
     y-axis "stars" 56 --> 60
-    line [57, 58, 59]
+    line [57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-18 59（+2）
+2026-10-18 57 → 2026-11-19 59（+2）
 
 
 ---

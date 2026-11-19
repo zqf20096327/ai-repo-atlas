@@ -1,6 +1,6 @@
 # realspqrk/autorename-pdf
 
-⭐ 124 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/realspqrk/autorename-pdf) · 个人维护
+⭐ 125 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/realspqrk/autorename-pdf) · 个人维护
 
 **用 LLM 按内容批量重命名发票与论文 PDF 的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "realspqrk/autorename-pdf 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 121 --> 125
-    line [122, 123, 122, 123, 124, 124]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 121 --> 126
+    line [122, 123, 122, 123, 124, 125]
 ```
 
-2026-10-18 122 → 2026-11-18 124（+2）
+2026-10-18 122 → 2026-11-19 125（+3）
 
 
 ---

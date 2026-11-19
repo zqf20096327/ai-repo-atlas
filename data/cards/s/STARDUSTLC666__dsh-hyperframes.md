@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-hyperframes
 
-⭐ 36 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/STARDUSTLC666/dsh-hyperframes) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 36 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/STARDUSTLC666/dsh-hyperframes) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：用 HTML 创作视频并导出 MP4**
 
@@ -39,6 +39,18 @@
 
 > L5: **在 DeepSeek Harness 中用 HTML 创作并导出视频，内置可切换五套明亮风格的工作台界面。**
 > L28: 在 DSH 桌面版「插件」面板安装 `dsh-hyperframes`。已配置命令行时也可使用：
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "STARDUSTLC666/dsh-hyperframes 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 35 --> 37
+    line [36, 36]
+```
+
+2026-11-18 36 → 2026-11-19 36（+0）
 
 
 ---

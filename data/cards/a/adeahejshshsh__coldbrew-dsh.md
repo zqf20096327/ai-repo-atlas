@@ -1,6 +1,6 @@
 # adeahejshshsh/coldbrew-dsh
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/adeahejshshsh/coldbrew-dsh) · [官网](https://github.com/adeahejshshsh/coldbrew-dsh#readme) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/adeahejshshsh/coldbrew-dsh) · [官网](https://github.com/adeahejshshsh/coldbrew-dsh#readme) · 个人维护 · 中文 README
 
 **DeepSeekHarness 插件：三档强度提示词执行核与 86 条技能路由**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adeahejshshsh/coldbrew-dsh 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-19"]
     y-axis "stars" 2 --> 14
-    line [3, 4, 8, 10, 11, 12, 3, 12, 13, 12, 12]
+    line [3, 4, 8, 10, 11, 12, 3, 12, 13, 12, 13]
 ```
 
-2026-10-24 3 → 2026-11-18 12（+9）
+2026-10-24 3 → 2026-11-19 13（+10）
 
 
 ---

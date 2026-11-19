@@ -1,6 +1,6 @@
 # jellyheadandrew/autoresearch-robotics
 
-⭐ 18 · Python · 推送 2026-03-10 · [GitHub](https://github.com/jellyheadandrew/autoresearch-robotics) · [官网](https://jellyheadandrew.github.io) · 个人维护
+⭐ 19 · Python · 推送 2026-03-10 · [GitHub](https://github.com/jellyheadandrew/autoresearch-robotics) · [官网](https://jellyheadandrew.github.io) · 个人维护
 
 **让编码 agent 自主迭代机器人 RL 实验的实验框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jellyheadandrew/autoresearch-robotics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-18 18（+0）
+2026-10-18 18 → 2026-11-19 19（+1）
 
 
 ---

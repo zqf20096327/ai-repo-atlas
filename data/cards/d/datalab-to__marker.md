@@ -1,6 +1,6 @@
 # datalab-to/marker
 
-⭐ 40,961 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/datalab-to/marker) · [官网](https://www.datalab.to) · 组织维护
+⭐ 40,980 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/datalab-to/marker) · [官网](https://www.datalab.to) · 组织维护
 
 **将 PDF/Office/EPUB 等文档转为 Markdown/JSON 的深度学习解析工具**
 
@@ -42,6 +42,18 @@
 > L19: Marker converts documents to markdown, JSON, chunks, and HTML quickly and accurately.
 > L21: - Converts PDF, image, PPTX, DOCX, XLSX, HTML, EPUB files in all languages
 > L118:  - `balanced` (default on **GPU**) uses smart routing: `pdftext` + Indra ONNX layout on clean Latin prose pages, a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datalab-to/marker 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 40960 --> 40981
+    line [40961, 40980]
+```
+
+2026-11-18 40,961 → 2026-11-19 40,980（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl
 
-⭐ 148 · Julia · MIT · 推送 2026-11-06 · [GitHub](https://github.com/JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl) · [官网](https://juliadecisionfocusedlearning.github.io/ImplicitDifferentiation.jl/) · 组织维护
+⭐ 148 · Julia · MIT · 推送 2026-11-18 · [GitHub](https://github.com/JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl) · [官网](https://juliadecisionfocusedlearning.github.io/ImplicitDifferentiation.jl/) · 组织维护
 
 **Julia 库：对隐函数定义的映射做自动微分**
 
@@ -45,12 +45,12 @@ Julia 包，为隐式定义的前向映射 y(x)（由条件 c(x,y(x))=0 确定�
 ```mermaid
 xychart-beta
     title "JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 145 --> 149
     line [146, 147, 148, 148]
 ```
 
-2026-10-18 146 → 2026-11-18 148（+2）
+2026-10-18 146 → 2026-11-19 148（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # scriptology/open-course-cli
 
-⭐ 17 · Rust · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/scriptology/open-course-cli) · [官网](https://open-course.eu) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **终端语言学习 AI 导师：LLM 生成课程、练习与答案分析**
 
@@ -11,7 +11,7 @@ Rust 编写的终端（TUI）语言学习应用：用户配置母语/目标语�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

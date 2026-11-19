@@ -1,6 +1,6 @@
 # ldblckrs-258/novel-studio
 
-⭐ 21 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ldblckrs-258/novel-studio) · [官网](https://novel-studio-kappa.vercel.app) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ldblckrs-258/novel-studio) · [官网](https://novel-studio-kappa.vercel.app) · 个人维护
 
 **面向越南语作者与译者的本地优先 AI 小说创作工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ldblckrs-258/novel-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 19 --> 22
+    line [21, 20]
 ```
 
-2026-10-18 21 → 2026-11-18 21（+0）
+2026-10-18 21 → 2026-11-19 20（-1）
 
 
 ---

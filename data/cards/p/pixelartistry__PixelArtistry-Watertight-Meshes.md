@@ -1,6 +1,6 @@
 # pixelartistry/PixelArtistry-Watertight-Meshes
 
-⭐ 104 · Batchfile · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/pixelartistry/PixelArtistry-Watertight-Meshes) · 组织维护
+⭐ 106 · Batchfile · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/pixelartistry/PixelArtistry-Watertight-Meshes) · 组织维护
 
 **单图生成水密 3D 模型与游戏低模的 ComfyUI 工作流集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pixelartistry/PixelArtistry-Watertight-Meshes 星数(近 17 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 74 --> 106
-    line [76, 80, 82, 83, 86, 87, 89, 90, 92, 93, 82, 97, 100, 101, 102, 103, 104]
+    title "pixelartistry/PixelArtistry-Watertight-Meshes 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 73 --> 109
+    line [76, 80, 82, 83, 86, 87, 89, 90, 92, 93, 82, 97, 100, 101, 102, 103, 104, 106]
 ```
 
-2026-10-18 76 → 2026-11-18 104（+28）
+2026-10-18 76 → 2026-11-19 106（+30）
 
 
 ---

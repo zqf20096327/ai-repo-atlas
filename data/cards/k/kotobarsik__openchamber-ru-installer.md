@@ -1,6 +1,6 @@
 # kotobarsik/openchamber-ru-installer
 
-⭐ 12 · TypeScript · 推送 2026-11-06 · [GitHub](https://github.com/kotobarsik/openchamber-ru-installer) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/kotobarsik/openchamber-ru-installer) · 个人维护
 
 **为 OpenChamber Desktop 安装俄语界面翻译的 Windows 脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kotobarsik/openchamber-ru-installer 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-23 10 → 2026-11-18 12（+2）
+2026-10-23 10 → 2026-11-19 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DeHor-Labs/mcp-agro-brasil
 
-⭐ 71 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/DeHor-Labs/mcp-agro-brasil) · [官网](https://dehor.dev) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/DeHor-Labs/mcp-agro-brasil) · [官网](https://dehor.dev) · 个人维护
 
 **巴西农业数据的 MCP 服务器：牛/大豆/玉米/奶价与汇率等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DeHor-Labs/mcp-agro-brasil 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-11", "2026-11-19"]
     y-axis "stars" 68 --> 72
     line [69, 70, 71, 71]
 ```
 
-2026-10-29 69 → 2026-11-18 71（+2）
+2026-10-29 69 → 2026-11-19 71（+2）
 
 
 ---

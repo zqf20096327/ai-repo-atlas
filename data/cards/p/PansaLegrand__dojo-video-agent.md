@@ -1,6 +1,6 @@
 # PansaLegrand/dojo-video-agent
 
-⭐ 59 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/PansaLegrand/dojo-video-agent) · [官网](https://github.com/PansaLegrand/dojo-video-engine) · 组织维护
+⭐ 62 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/PansaLegrand/dojo-video-agent) · [官网](https://github.com/PansaLegrand/dojo-video-engine) · 组织维护
 
 **开源本地视频编辑器：人与 AI agent 共用同一条时间线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PansaLegrand/dojo-video-agent 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 55 --> 60
-    line [56, 59]
+    title "PansaLegrand/dojo-video-agent 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 55 --> 63
+    line [56, 59, 62]
 ```
 
-2026-11-16 56 → 2026-11-18 59（+3）
+2026-11-16 56 → 2026-11-19 62（+6）
 
 
 ---

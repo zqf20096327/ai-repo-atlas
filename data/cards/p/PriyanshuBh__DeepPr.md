@@ -1,6 +1,6 @@
 # PriyanshuBh/DeepPr
 
-⭐ 47 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/PriyanshuBh/DeepPr) · [官网](https://deeppr.d1i2c97iv74gio.amplifyapp.com/) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/PriyanshuBh/DeepPr) · [官网](https://deeppr.d1i2c97iv74gio.amplifyapp.com/) · 个人维护
 
 **GitHub PR 自动评审工具：多模型 + 向量 RAG + 持久记忆**
 
@@ -44,13 +44,13 @@ DeepPR 是接入 GitHub webhook 的自动化 Pull Request 评审服务：基于 
 
 ```mermaid
 xychart-beta
-    title "PriyanshuBh/DeepPr 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-18"]
-    y-axis "stars" 30 --> 48
-    line [31, 47]
+    title "PriyanshuBh/DeepPr 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 29 --> 60
+    line [31, 47, 58]
 ```
 
-2026-11-16 31 → 2026-11-18 47（+16）
+2026-11-16 31 → 2026-11-19 58（+27）
 
 
 ---

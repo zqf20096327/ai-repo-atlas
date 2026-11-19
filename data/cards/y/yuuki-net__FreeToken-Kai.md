@@ -1,6 +1,6 @@
 # yuuki-net/FreeToken-Kai
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/yuuki-net/FreeToken-Kai) · 个人维护 · 中文 README
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/yuuki-net/FreeToken-Kai) · 个人维护 · 中文 README
 
 **FreeToken 非官方分支：消费级 GPU 本地跑大模型并自动调参**
 
@@ -47,12 +47,12 @@ FlashML-org/FreeToken 的非官方分支（Apache-2.0，与上游无关联），
 ```mermaid
 xychart-beta
     title "yuuki-net/FreeToken-Kai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-08", "2026-11-19"]
     y-axis "stars" 6 --> 12
     line [7, 10, 11, 11]
 ```
 
-2026-10-18 7 → 2026-11-18 11（+4）
+2026-10-18 7 → 2026-11-19 11（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # SultanAlfaifi/mustakshif
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/SultanAlfaifi/mustakshif) · [官网](https://github.com/SultanAlfaifi/mustakshif/releases/latest) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/SultanAlfaifi/mustakshif) · [官网](https://github.com/SultanAlfaifi/mustakshif/releases/latest) · 个人维护
 
 **为 Windows PC 扫描硬件并推荐可运行的本地模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SultanAlfaifi/mustakshif 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

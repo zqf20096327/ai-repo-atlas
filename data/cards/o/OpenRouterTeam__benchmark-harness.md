@@ -1,6 +1,6 @@
 # OpenRouterTeam/benchmark-harness
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/OpenRouterTeam/benchmark-harness) · [官网](https://openrouter.ai) · 组织维护
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/OpenRouterTeam/benchmark-harness) · [官网](https://openrouter.ai) · 组织维护
 
 **OpenRouter 的 LLM 基准评测运行框架，用于可复现测试**
 
@@ -46,12 +46,12 @@ OpenRouter 将其内部基准测试框架开源以保持透明：把各类基准
 ```mermaid
 xychart-beta
     title "OpenRouterTeam/benchmark-harness 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-19"]
     y-axis "stars" 21 --> 28
     line [22, 23, 24, 23, 24, 25, 26, 27, 27]
 ```
 
-2026-10-18 22 → 2026-11-18 27（+5）
+2026-10-18 22 → 2026-11-19 27（+5）
 
 
 ---

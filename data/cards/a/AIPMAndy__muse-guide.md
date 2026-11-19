@@ -1,6 +1,6 @@
 # AIPMAndy/muse-guide
 
-⭐ 13 · HTML · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AIPMAndy/muse-guide) · [官网](https://aipmandy.github.io/muse-guide/) · 个人维护 · 中文 README
+⭐ 14 · HTML · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AIPMAndy/muse-guide) · [官网](https://aipmandy.github.io/muse-guide/) · 个人维护 · 中文 README
 
 **Meta Muse 个人 AI Agent 的非官方中文实战手册**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/muse-guide 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 6 --> 14
-    line [7, 8, 9, 10, 8, 13, 13]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 6 --> 15
+    line [7, 8, 9, 10, 8, 13, 14]
 ```
 
-2026-10-23 7 → 2026-11-18 13（+6）
+2026-10-23 7 → 2026-11-19 14（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # reacher-z/HarnessBench
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/reacher-z/HarnessBench) · [官网](https://pypi.org/project/harness-bench/) · 组织维护 · 中文 README
+⭐ 65 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/reacher-z/HarnessBench) · [官网](https://pypi.org/project/harness-bench/) · 组织维护 · 中文 README
 
 **固定基座模型、对比 6 种 agent harness 的评测基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "reacher-z/HarnessBench 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 61 --> 65
-    line [62, 63, 64, 62, 64, 64]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 61 --> 66
+    line [62, 63, 64, 62, 64, 65]
 ```
 
-2026-10-18 62 → 2026-11-18 64（+2）
+2026-10-18 62 → 2026-11-19 65（+3）
 
 
 ---

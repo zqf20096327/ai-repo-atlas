@@ -1,6 +1,6 @@
 # humansys/raise
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/humansys/raise) · [官网](https://raiseframework.ai) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/humansys/raise) · [官网](https://raiseframework.ai) · 组织维护
 
 **AI 辅助软件工程的确定性治理层：门禁+状态机+溯源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "humansys/raise 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
     y-axis "stars" 70 --> 73
     line [72, 71, 72, 71, 71]
 ```
 
-2026-10-18 72 → 2026-11-18 71（-1）
+2026-10-18 72 → 2026-11-19 71（-1）
 
 
 ---

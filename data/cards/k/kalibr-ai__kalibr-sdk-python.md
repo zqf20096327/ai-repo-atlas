@@ -1,6 +1,6 @@
 # kalibr-ai/kalibr-sdk-python
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/kalibr-ai/kalibr-sdk-python) · [官网](https://kalibr.systems) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/kalibr-ai/kalibr-sdk-python) · [官网](https://kalibr.systems) · 组织维护
 
 **面向开发者：为 agent 管道做模型/执行路径路由与自动修复的 Python SDK**
 
@@ -47,12 +47,12 @@ Kalibr Python SDK 在应用与 LLM 提供商之间提供路由层：按目标（
 ```mermaid
 xychart-beta
     title "kalibr-ai/kalibr-sdk-python 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-11-18 33（+1）
+2026-10-18 32 → 2026-11-19 34（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # milvus-io/milvus-docs
 
-⭐ 104 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/milvus-io/milvus-docs) · 组织维护
+⭐ 104 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/milvus-io/milvus-docs) · 组织维护
 
 **Milvus 向量数据库的官方技术文档仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "milvus-io/milvus-docs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    title "milvus-io/milvus-docs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18", "2026-11-19"]
     y-axis "stars" 101 --> 105
-    line [102, 103, 104]
+    line [102, 103, 104, 104]
 ```
 
-2026-10-18 102 → 2026-11-18 104（+2）
+2026-10-18 102 → 2026-11-19 104（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # 7sen1ot/ClawGod_Y
 
-⭐ 157 · JavaScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/7sen1ot/ClawGod_Y) · [官网](https://github.com/7sen1ot/ClawGod_Y) · 个人维护 · 中文 README
+⭐ 157 · JavaScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/7sen1ot/ClawGod_Y) · [官网](https://github.com/7sen1ot/ClawGod_Y) · 个人维护 · 中文 README
 
 **给渗透测试者的 Claude Code 运行时补丁：绕过权限与安全限制**
 
@@ -44,13 +44,13 @@ Claude Code 官方 CLI 的运行时补丁项目（0Chencc/clawgod 的分支）�
 
 ```mermaid
 xychart-beta
-    title "7sen1ot/ClawGod_Y 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    title "7sen1ot/ClawGod_Y 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
     y-axis "stars" 150 --> 160
-    line [151, 158, 157, 158, 159, 158, 157]
+    line [151, 158, 157, 158, 159, 158, 157, 157]
 ```
 
-2026-11-08 151 → 2026-11-18 157（+6）
+2026-11-08 151 → 2026-11-19 157（+6）
 
 
 ---

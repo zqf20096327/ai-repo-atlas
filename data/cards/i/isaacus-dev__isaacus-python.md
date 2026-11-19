@@ -1,6 +1,6 @@
 # isaacus-dev/isaacus-python
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/isaacus-dev/isaacus-python) · [官网](https://docs.isaacus.com) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/isaacus-dev/isaacus-python) · [官网](https://docs.isaacus.com) · 组织维护
 
 **面向 Isaacus 法律 AI API 的 Python SDK，供开发者接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "isaacus-dev/isaacus-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 10 --> 13
+    line [12, 11]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 11（-1）
 
 
 ---

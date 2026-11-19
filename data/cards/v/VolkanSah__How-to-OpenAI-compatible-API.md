@@ -40,6 +40,18 @@ GPTChat 是一个极简的聊天组件（PHP + 原生 JS，无 Composer/npm/构�
 > L3: A minimal, dependency-free chat widget (PHP + vanilla JS) that works with **any OpenAI-compatible API**: OpenAI, Ope
 > L64: browser ──POST {messages}──▶ gptchat.php ──POST /chat/completions (stream)──▶ provider
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "VolkanSah/How-to-OpenAI-compatible-API 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 84 --> 86
+    line [85, 85]
+```
+
+2026-11-18 85 → 2026-11-19 85（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `85fac72ca9fe` · [字段定义](../../DATASET.md)*

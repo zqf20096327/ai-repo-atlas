@@ -1,6 +1,6 @@
 # mftnakrsu/Comparison-of-OCR
 
-⭐ 63 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/mftnakrsu/Comparison-of-OCR) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/mftnakrsu/Comparison-of-OCR) · 个人维护
 
 **OCR 引擎对比评测工具：同一图像跑多个引擎并报告结果**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mftnakrsu/Comparison-of-OCR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-11-18 63（+0）
+2026-10-18 63 → 2026-11-19 63（+0）
 
 
 ---

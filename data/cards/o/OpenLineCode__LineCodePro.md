@@ -1,6 +1,6 @@
 # OpenLineCode/LineCodePro
 
-⭐ 113 · Java · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/OpenLineCode/LineCodePro) · 个人维护 · 中文 README
+⭐ 113 · Java · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/OpenLineCode/LineCodePro) · 个人维护 · 中文 README
 
 **Android 端的 AI 编程工作台，手机上对话改代码、执行命令**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenLineCode/LineCodePro 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-18"]
+    title "OpenLineCode/LineCodePro 星数(近 3 点)"
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-19"]
     y-axis "stars" 110 --> 114
-    line [111, 113]
+    line [111, 113, 113]
 ```
 
-2026-11-14 111 → 2026-11-18 113（+2）
+2026-11-14 111 → 2026-11-19 113（+2）
 
 
 ---

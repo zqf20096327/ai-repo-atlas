@@ -39,6 +39,18 @@
 > L11: > A curated list of resources, tools, papers, and platforms for prompt engineering in large language models (LLMs) 
 > L15: ## Contents
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "awelist/awesome-prompt-engineering 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 254 --> 256
+    line [255, 255]
+```
+
+2026-11-18 255 → 2026-11-19 255（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `056d4ee7645f` · [字段定义](../../DATASET.md)*

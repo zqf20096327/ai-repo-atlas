@@ -1,6 +1,6 @@
 # unicity-sphere/sphere-sdk
 
-⭐ 5,389 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/unicity-sphere/sphere-sdk) · [官网](https://unicity.ai) · 组织维护
+⭐ 5,388 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/unicity-sphere/sphere-sdk) · [官网](https://unicity.ai) · 组织维护
 
 **给自主经济 Agent 提供钱包、支付与协商能力的 TypeScript SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "unicity-sphere/sphere-sdk 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-19"]
     y-axis "stars" 5384 --> 5390
-    line [5385, 5386, 5387, 5386, 5387, 5388, 5389, 5389]
+    line [5385, 5386, 5387, 5386, 5387, 5388, 5389, 5388]
 ```
 
-2026-10-18 5,385 → 2026-11-18 5,389（+4）
+2026-10-18 5,385 → 2026-11-19 5,388（+3）
 
 
 ---

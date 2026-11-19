@@ -1,6 +1,6 @@
 # yeuxuan/Ace-Mcp-Node
 
-⭐ 361 · TypeScript · 推送 2026-04-20 · [GitHub](https://github.com/yeuxuan/Ace-Mcp-Node) · 个人维护 · 中文 README
+⭐ 360 · TypeScript · 推送 2026-04-20 · [GitHub](https://github.com/yeuxuan/Ace-Mcp-Node) · 个人维护 · 中文 README
 
 **为 AI 助手提供代码库索引与语义搜索的 MCP Server**
 
@@ -46,12 +46,12 @@ Acemcp 的 Node.js/TypeScript 实现，作为 MCP 服务器向 Claude、GPT 等 
 ```mermaid
 xychart-beta
     title "yeuxuan/Ace-Mcp-Node 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-16", "2026-11-18"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-16", "2026-11-19"]
     y-axis "stars" 358 --> 362
-    line [359, 360, 361, 361]
+    line [359, 360, 361, 360]
 ```
 
-2026-10-29 359 → 2026-11-18 361（+2）
+2026-10-29 359 → 2026-11-19 360（+1）
 
 
 ---

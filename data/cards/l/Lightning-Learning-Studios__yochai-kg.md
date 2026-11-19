@@ -1,6 +1,6 @@
 # Lightning-Learning-Studios/yochai-kg
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Lightning-Learning-Studios/yochai-kg) · [官网](https://yochai.lightningstudios.ai/open-kg) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Lightning-Learning-Studios/yochai-kg) · [官网](https://yochai.lightningstudios.ai/open-kg) · 组织维护
 
 **犹太文本传统知识图谱的只读 MCP 网关，供 AI agent 查询**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Lightning-Learning-Studios/yochai-kg 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 13 --> 17
-    line [15, 14, 15, 14, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 13 --> 18
+    line [15, 14, 15, 14, 15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-18 16（+1）
+2026-10-18 15 → 2026-11-19 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # lantianbaicai/ai-night-patrol
 
-⭐ 12 · Python · 推送 2026-08-23 · [GitHub](https://github.com/lantianbaicai/ai-night-patrol) · [官网](https://lantianbaicai.github.io/ai-night-patrol/) · 个人维护 · 中文 README
+⭐ 11 · Python · 推送 2026-08-23 · [GitHub](https://github.com/lantianbaicai/ai-night-patrol) · [官网](https://lantianbaicai.github.io/ai-night-patrol/) · 个人维护 · 中文 README
 
 **独立开发者的可信机会情报与决策代理工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lantianbaicai/ai-night-patrol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 10 --> 13
+    line [12, 11]
 ```
 
-2026-10-18 12 → 2026-11-18 12（+0）
+2026-10-18 12 → 2026-11-19 11（-1）
 
 
 ---

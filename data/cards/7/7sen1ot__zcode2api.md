@@ -1,6 +1,6 @@
 # 7sen1ot/zcode2api
 
-⭐ 149 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/7sen1ot/zcode2api) · [官网](https://github.com/7sen1ot/zcode2api) · 个人维护 · 中文 README
+⭐ 152 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/7sen1ot/zcode2api) · [官网](https://github.com/7sen1ot/zcode2api) · 个人维护 · 中文 README
 
 **ZCode 免费账号的反向代理网关，兼容 OpenAI/Anthropic 协议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "7sen1ot/zcode2api 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 121 --> 151
-    line [123, 128, 129, 130, 133, 135, 145, 149]
+    title "7sen1ot/zcode2api 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 121 --> 154
+    line [123, 128, 129, 130, 133, 135, 145, 149, 152]
 ```
 
-2026-11-08 123 → 2026-11-18 149（+26）
+2026-11-08 123 → 2026-11-19 152（+29）
 
 
 ---

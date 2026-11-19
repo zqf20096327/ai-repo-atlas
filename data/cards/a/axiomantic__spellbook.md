@@ -1,6 +1,6 @@
 # axiomantic/spellbook
 
-⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/axiomantic/spellbook) · [官网](https://axiomantic.github.io/spellbook/latest/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/axiomantic/spellbook) · [官网](https://axiomantic.github.io/spellbook/latest/) · 个人维护
 
 **为 AI 编码助手跨平台提供技能、命令与共享 MCP 服务器的增强层**
 
@@ -46,12 +46,12 @@ Spellbook 以安装脚本形式部署，向 Claude Code、OpenCode、Codex、Gem
 ```mermaid
 xychart-beta
     title "axiomantic/spellbook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-19"]
     y-axis "stars" 9 --> 14
     line [10, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-18 13（+3）
+2026-10-18 10 → 2026-11-19 13（+3）
 
 
 ---

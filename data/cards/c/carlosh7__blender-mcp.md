@@ -1,6 +1,6 @@
 # carlosh7/blender-mcp
 
-⭐ 20 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/carlosh7/blender-mcp) · [官网](https://github.com/carlosh7/blender-mcp/releases/latest) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/carlosh7/blender-mcp) · [官网](https://github.com/carlosh7/blender-mcp/releases/latest) · 个人维护
 
 **让 AI agent 用自然语言操控 Blender 建模渲染的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "carlosh7/blender-mcp 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18"]
-    y-axis "stars" 12 --> 21
-    line [13, 14, 15, 16, 17, 15, 18, 19, 20, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19"]
+    y-axis "stars" 12 --> 22
+    line [13, 14, 15, 16, 17, 15, 18, 19, 20, 19, 20, 21]
 ```
 
-2026-10-18 13 → 2026-11-18 20（+7）
+2026-10-18 13 → 2026-11-19 21（+8）
 
 
 ---

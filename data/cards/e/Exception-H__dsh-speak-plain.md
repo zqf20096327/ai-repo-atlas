@@ -1,6 +1,6 @@
 # Exception-H/dsh-speak-plain
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Exception-H/dsh-speak-plain) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Exception-H/dsh-speak-plain) · 个人维护 · 中文 README
 
 **DSH 插件：把你选模型的最终回答润色成大白话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Exception-H/dsh-speak-plain 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
-    y-axis "stars" 3 --> 15
-    line [4, 10, 12, 14, 14]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
+    y-axis "stars" 3 --> 16
+    line [4, 10, 12, 14, 15]
 ```
 
-2026-11-02 4 → 2026-11-18 14（+10）
+2026-11-02 4 → 2026-11-19 15（+11）
 
 
 ---

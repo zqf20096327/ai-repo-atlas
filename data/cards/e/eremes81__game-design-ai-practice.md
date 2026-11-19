@@ -1,6 +1,6 @@
 # eremes81/game-design-ai-practice
 
-⭐ 114 · HTML · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/eremes81/game-design-ai-practice) · [官网](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703) · 个人维护
+⭐ 117 · HTML · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/eremes81/game-design-ai-practice) · [官网](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703) · 个人维护
 
 **韩国语图书原稿：游戏策划实务中使用 Claude Code 的方法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eremes81/game-design-ai-practice 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 99 --> 115
-    line [100, 108, 109, 110, 111, 114]
+    title "eremes81/game-design-ai-practice 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 99 --> 118
+    line [100, 108, 109, 110, 111, 114, 117]
 ```
 
-2026-11-08 100 → 2026-11-18 114（+14）
+2026-11-08 100 → 2026-11-19 117（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # shiplaone2q/Llamadeck
 
-⭐ 50 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/shiplaone2q/Llamadeck) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **统一管理与路由 llama.cpp/MLX/vLLM 模型的 CLI 工具**
 
@@ -11,7 +11,7 @@ Go 编写的模型服务管理工具：用单一 CLI 与 Web 仪表盘管理 lla
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

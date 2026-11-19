@@ -40,6 +40,18 @@
 > L3: OpenAPI-like voice generation server based on fish-speech-1.5.
 > L76: curl http://localhost:8000/audio/speech \
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EvilFreelancer/docker-fish-speech-server 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
+```
+
+2026-11-18 33 → 2026-11-19 33（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `536c1b27519d` · [字段定义](../../DATASET.md)*

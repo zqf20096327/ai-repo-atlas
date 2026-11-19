@@ -1,6 +1,6 @@
 # praxis-proxy/grid
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/praxis-proxy/grid) · 组织维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/praxis-proxy/grid) · 组织维护
 
 **跨 Kubernetes 集群连接推理提供方的路由网络操作器**
 
@@ -45,13 +45,13 @@ AI Grid Network (AGN) 是一个 Rust 编写的 Kubernetes 操作器，跨集群�
 
 ```mermaid
 xychart-beta
-    title "praxis-proxy/grid 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
+    title "praxis-proxy/grid 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
     y-axis "stars" 10 --> 15
-    line [11, 12, 11, 13, 14]
+    line [11, 12, 11, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-18 14（+3）
+2026-10-18 11 → 2026-11-19 14（+3）
 
 
 ---

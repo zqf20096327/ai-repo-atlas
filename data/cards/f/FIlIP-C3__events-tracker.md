@@ -1,6 +1,6 @@
 # FIlIP-C3/events-tracker
 
-⭐ 153 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/FIlIP-C3/events-tracker) · 个人维护
+⭐ 153 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/FIlIP-C3/events-tracker) · 个人维护
 
 **团队日历与活动管理 Web 应用，AI 解析转发消息生成活动**
 
@@ -39,6 +39,18 @@
 
 > L42: **AI & Integrations** — A conversational assistant powered by a leading language model interprets forwarded invites
 > L68: Not at all. The calendar, week and month views, forums, statuses, filters, and communication history work entirely 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FIlIP-C3/events-tracker 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-19"]
+    y-axis "stars" 152 --> 154
+    line [153, 153]
+```
+
+2026-11-18 153 → 2026-11-19 153（+0）
 
 
 ---

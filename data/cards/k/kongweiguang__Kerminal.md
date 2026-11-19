@@ -1,6 +1,6 @@
 # kongweiguang/Kerminal
 
-⭐ 34 · Rust · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/kongweiguang/Kerminal) · 个人维护 · 中文 README
+⭐ 34 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/kongweiguang/Kerminal) · 个人维护 · 中文 README
 
 **带 AI Agent 集成的本地与远程终端运维桌面工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kongweiguang/Kerminal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-19"]
     y-axis "stars" 31 --> 35
     line [32, 33, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-18 34（+2）
+2026-10-18 32 → 2026-11-19 34（+2）
 
 
 ---

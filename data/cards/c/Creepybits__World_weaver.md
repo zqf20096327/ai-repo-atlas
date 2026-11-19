@@ -1,6 +1,6 @@
 # Creepybits/World_weaver
 
-⭐ 33 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Creepybits/World_weaver) · [官网](https://zanno.se/creating-consistent-ai-characters-without-loras-or-reactor/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Creepybits/World_weaver) · [官网](https://zanno.se/creating-consistent-ai-characters-without-loras-or-reactor/) · 个人维护
 
 **ComfyUI 一致性角色生成系统：文本 DNA 跨场景保持角色形象**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Creepybits/World_weaver 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 31 --> 34
-    line [33, 32, 33]
+    title "Creepybits/World_weaver 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 31 --> 35
+    line [33, 32, 33, 34]
 ```
 
-2026-10-18 33 → 2026-11-18 33（+0）
+2026-10-18 33 → 2026-11-19 34（+1）
 
 
 ---

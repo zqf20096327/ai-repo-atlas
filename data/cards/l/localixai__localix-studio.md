@@ -1,6 +1,6 @@
 # localixai/localix-studio
 
-⭐ 70 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/localixai/localix-studio) · [官网](https://studio.localix.ai) · 组织维护
+⭐ 75 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/localixai/localix-studio) · [官网](https://studio.localix.ai) · 组织维护
 
 **桌面端 agent 开发环境：自带 agent 与子 agent，任意模型**
 
@@ -45,13 +45,13 @@ macOS 桌面应用（Tauri + Bun + Rust），核心是一个 AI agent 及其可�
 
 ```mermaid
 xychart-beta
-    title "localixai/localix-studio 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 63 --> 71
-    line [64, 65, 67, 70]
+    title "localixai/localix-studio 星数(近 5 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 63 --> 76
+    line [64, 65, 67, 70, 75]
 ```
 
-2026-11-13 64 → 2026-11-18 70（+6）
+2026-11-13 64 → 2026-11-19 75（+11）
 
 
 ---

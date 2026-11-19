@@ -1,6 +1,6 @@
 # aidreamy/co-sh
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/aidreamy/co-sh) · [官网](https://www.co-sh.com) · 个人维护 · 中文 README
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/aidreamy/co-sh) · [官网](https://www.co-sh.com) · 个人维护 · 中文 README
 
 **终端多 agent 编排器：在 Rust TUI 中协调多个编程 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aidreamy/co-sh 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-18"]
+    x-axis ["2026-11-15", "2026-11-19"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-15 14 → 2026-11-18 14（+0）
+2026-11-15 14 → 2026-11-19 14（+0）
 
 
 ---

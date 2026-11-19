@@ -45,12 +45,12 @@ Pattern Pal 是一款免费的 WordPress 插件，接入 OpenAI 的 GPT-4o 模�
 ```mermaid
 xychart-beta
     title "WebDevStudios/pattern-pal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-19"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-18 11（+0）
+2026-10-18 11 → 2026-11-19 11（+0）
 
 
 ---

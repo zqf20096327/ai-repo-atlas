@@ -1,6 +1,6 @@
 # oxbshw/LLM-Agents-Ecosystem-Handbook
 
-⭐ 558 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook) · 个人维护
+⭐ 559 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook) · 个人维护
 
 **面向 LLM Agent 构建者的实战手册：教程、模板与策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oxbshw/LLM-Agents-Ecosystem-Handbook 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 554 --> 559
-    line [555, 556, 557, 558, 555, 558, 558]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 554 --> 560
+    line [555, 556, 557, 558, 555, 558, 559]
 ```
 
-2026-10-18 555 → 2026-11-18 558（+3）
+2026-10-18 555 → 2026-11-19 559（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/bdh-cq
 
-⭐ 38 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/lucidrains/bdh-cq) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/lucidrains/bdh-cq) · 个人维护
 
 **BDH-CQ 循环潜在推理 Transformer 的 PyTorch 实现**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/bdh-cq 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39]
 ```
 
-2026-10-18 37 → 2026-11-18 38（+1）
+2026-10-18 37 → 2026-11-19 39（+2）
 
 
 ---

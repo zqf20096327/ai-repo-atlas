@@ -1,6 +1,6 @@
 # bytedance/InfiniStore
 
-⭐ 456 · C++ · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/bytedance/InfiniStore) · [官网](https://bytedance.github.io/InfiniStore/) · 组织维护
+⭐ 457 · C++ · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/bytedance/InfiniStore) · [官网](https://bytedance.github.io/InfiniStore/) · 组织维护
 
 **面向 LLM 推理集群的分布式 KV cache 存储与传输服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bytedance/InfiniStore 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
-    y-axis "stars" 448 --> 457
-    line [449, 451, 449, 450, 453, 455, 456, 456]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19"]
+    y-axis "stars" 448 --> 458
+    line [449, 451, 449, 450, 453, 455, 456, 457]
 ```
 
-2026-10-18 449 → 2026-11-18 456（+7）
+2026-10-18 449 → 2026-11-19 457（+8）
 
 
 ---

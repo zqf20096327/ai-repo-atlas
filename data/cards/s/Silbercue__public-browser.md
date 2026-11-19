@@ -1,6 +1,6 @@
 # Silbercue/public-browser
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Silbercue/public-browser) · [官网](https://www.npmjs.com/package/public-browser) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Silbercue/public-browser) · [官网](https://www.npmjs.com/package/public-browser) · 个人维护
 
 **让 Claude Code/Cursor 等 MCP 客户端驱动 Chrome 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Silbercue/public-browser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
     y-axis "stars" 18 --> 23
     line [19, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-18 22（+3）
+2026-10-18 19 → 2026-11-19 22（+3）
 
 
 ---

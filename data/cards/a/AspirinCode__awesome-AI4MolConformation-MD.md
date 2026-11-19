@@ -1,6 +1,6 @@
 # AspirinCode/awesome-AI4MolConformation-MD
 
-⭐ 308 · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) · 个人维护
+⭐ 310 · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) · 个人维护
 
 **AI 分子构象生成与分子动力学研究的论文/数据集清单**
 
@@ -43,13 +43,13 @@ AspirinCode 维护的 awesome 类策展清单，收录用生成式 AI 与深度�
 
 ```mermaid
 xychart-beta
-    title "AspirinCode/awesome-AI4MolConformation-MD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
-    y-axis "stars" 305 --> 309
-    line [306, 307, 308]
+    title "AspirinCode/awesome-AI4MolConformation-MD 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 305 --> 311
+    line [306, 307, 308, 310]
 ```
 
-2026-10-18 306 → 2026-11-18 308（+2）
+2026-10-18 306 → 2026-11-19 310（+4）
 
 
 ---

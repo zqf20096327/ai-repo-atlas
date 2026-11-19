@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/claude-code-power8 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-18"]
+    title "Scottcjn/claude-code-power8 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-19"]
     y-axis "stars" 86 --> 90
-    line [89, 87]
+    line [89, 87, 87]
 ```
 
-2026-10-29 89 → 2026-11-18 87（-2）
+2026-10-29 89 → 2026-11-19 87（-2）
 
 
 ---

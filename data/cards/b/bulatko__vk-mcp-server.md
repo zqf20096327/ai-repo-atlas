@@ -1,6 +1,6 @@
 # bulatko/vk-mcp-server
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/bulatko/vk-mcp-server) · [官网](https://www.npmjs.com/package/vk-mcp-server) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/bulatko/vk-mcp-server) · [官网](https://www.npmjs.com/package/vk-mcp-server) · 个人维护
 
 **让 Claude 等 AI 助手操作 VK 社交网络 API 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bulatko/vk-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 19]
 ```
 
-2026-10-18 16 → 2026-11-18 17（+1）
+2026-10-18 16 → 2026-11-19 19（+3）
 
 
 ---

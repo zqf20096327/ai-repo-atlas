@@ -1,6 +1,6 @@
 # xu20060420fan-cell/workbuddy2api-trae-qoder-minimax-panel
 
-⭐ 91 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/xu20060420fan-cell/workbuddy2api-trae-qoder-minimax-panel) · 个人维护 · 中文 README
+⭐ 105 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/xu20060420fan-cell/workbuddy2api-trae-qoder-minimax-panel) · 个人维护 · 中文 README
 
 **多平台 AI 编程账号合集的 OpenAI 兼容网关与 Web 管理面板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xu20060420fan-cell/workbuddy2api-trae-qoder-minimax-panel 星数(近 12 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
-    y-axis "stars" 0 --> 99
-    line [3, 5, 7, 41, 44, 51, 55, 62, 68, 77, 81, 91]
+    title "xu20060420fan-cell/workbuddy2api-trae-qoder-minimax-panel 星数(近 13 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    y-axis "stars" 0 --> 115
+    line [3, 5, 7, 41, 44, 51, 55, 62, 68, 77, 81, 91, 105]
 ```
 
-2026-10-31 3 → 2026-11-18 91（+88）
+2026-10-31 3 → 2026-11-19 105（+102）
 
 
 ---

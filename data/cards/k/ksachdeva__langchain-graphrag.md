@@ -1,6 +1,6 @@
 # ksachdeva/langchain-graphrag
 
-⭐ 173 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/ksachdeva/langchain-graphrag) · [官网](https://langchain-graphrag.readthedocs.io/en/latest/) · 个人维护
+⭐ 174 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/ksachdeva/langchain-graphrag) · [官网](https://langchain-graphrag.readthedocs.io/en/latest/) · 个人维护
 
 **基于 LangChain 的 GraphRAG 论文开源实现库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ksachdeva/langchain-graphrag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-18"]
-    y-axis "stars" 172 --> 174
-    line [173, 173]
+    x-axis ["2026-10-18", "2026-11-19"]
+    y-axis "stars" 172 --> 175
+    line [173, 174]
 ```
 
-2026-10-18 173 → 2026-11-18 173（+0）
+2026-10-18 173 → 2026-11-19 174（+1）
 
 
 ---
