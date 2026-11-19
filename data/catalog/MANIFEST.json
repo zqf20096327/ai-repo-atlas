@@ -1,56 +1,56 @@
 {
- "total": 42711,
+ "total": 43282,
  "shard_key": "crc32(fn)%8",
  "sort": "fn 字典序(片内)",
- "generated_at": "2026-11-19 11:22:28",
+ "generated_at": "2026-11-19 21:29:30",
  "parts": [
   {
    "file": "part00.jsonl",
-   "cards": 5341,
-   "bytes": 14334030,
-   "sha256": "e38a59a5bb1f8830"
+   "cards": 5406,
+   "bytes": 14509779,
+   "sha256": "65fd3e03bd36e1a8"
   },
   {
    "file": "part01.jsonl",
-   "cards": 5404,
-   "bytes": 14518002,
-   "sha256": "da9b6f7d494565e0"
+   "cards": 5481,
+   "bytes": 14725775,
+   "sha256": "d08139747bee251d"
   },
   {
    "file": "part02.jsonl",
-   "cards": 5252,
-   "bytes": 14119100,
-   "sha256": "37fb8fc53eb64907"
+   "cards": 5317,
+   "bytes": 14291321,
+   "sha256": "711019fa91a6637f"
   },
   {
    "file": "part03.jsonl",
-   "cards": 5274,
-   "bytes": 14190436,
-   "sha256": "db0b4172c9462b21"
+   "cards": 5335,
+   "bytes": 14353969,
+   "sha256": "840467d1f825e986"
   },
   {
    "file": "part04.jsonl",
-   "cards": 5385,
-   "bytes": 14501810,
-   "sha256": "c9da6d5f7198c2c1"
+   "cards": 5470,
+   "bytes": 14730617,
+   "sha256": "8ac87c98e4713d80"
   },
   {
    "file": "part05.jsonl",
-   "cards": 5410,
-   "bytes": 14536834,
-   "sha256": "e24e9b9b04ad8395"
+   "cards": 5474,
+   "bytes": 14709851,
+   "sha256": "22cb22e4792354c9"
   },
   {
    "file": "part06.jsonl",
-   "cards": 5317,
-   "bytes": 14294289,
-   "sha256": "ce4a795918c89802"
+   "cards": 5388,
+   "bytes": 14483731,
+   "sha256": "62728649116b22df"
   },
   {
    "file": "part07.jsonl",
-   "cards": 5328,
-   "bytes": 14348881,
-   "sha256": "5094451a8d783f19"
+   "cards": 5411,
+   "bytes": 14570963,
+   "sha256": "54d4feaade723924"
   }
  ]
 }
