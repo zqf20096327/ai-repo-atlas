@@ -34,7 +34,7 @@ Python 框架，用于构建 MCP-first、Agent-first 应用：开发者声明 SQ
 
 ## 场景标签
 
- · 领域:LLM 基础设施/应用框架
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
