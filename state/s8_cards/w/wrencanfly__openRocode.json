@@ -1,1 +1,84 @@
-{"fn": "wrencanfly/openRocode", "sha": "fabeb05351d9", "source": "readme", "identity": {"one_liner": "让多模态模型以像素点击和代码驱动机器人的 agent harness", "review": "openRocode 是一个开源 agent harness，把机器人控制转化为'3D computer use'：模型在相机图像上点击抓取点、给出可见方向或写 run_code 程序，harness 负责深度、标定、逆运动学等几何计算，并做力防护、工作区检查与紧急停止。支持浮夹爪、Franka Panda、ALOHA 双臂与 LEAP 手，可运行 robosuite 与 Meta-World 任务；每次运行为版本化 trace，带 dashboard 与 rocode bench 模型对比。约 5,300 行 Python，pip 安装，无专用 GPU，macOS/Linux，状态为 alpha。", "highlights": ["模型以像素点击/厘米方向操作，几何与标定不进入模型上下文", "run_code 程序与直接调用同受安全门与紧急停止约束", "任务以 TOML 数据定义，成功条件逐条判定", "每次运行为版本化 trace，dashboard 提供 Compare 页对比模型"], "use_cases": ["在 MuJoCo 仿真中让多模态模型执行桌面操作任务", "对比不同模型在同一任务多个种子布局上的成功率", "运行中随时暂停、纠偏或紧急停止模型控制", "自定义 TOML 任务并复用 bench/trace/dashboard 全套工具链"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [10], "note": "Status: alpha"}}, "links": {"scenario_tags": ["embodied-ai", "机器人控制", "code-as-policy", "模型评测", "仿真"], "domain": "机器人/具身智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L23: openRocode is an open agent harness that turns robot control into **3D computer use**. The model looks at camera picture", "L32: 2. **Our own small agent loop.** The core (loop, hooks, events, operator channel) is about 700 lines and talks to model ", "L34: 4. **Evaluation is part of the harness, not an afterthought.** A task is data: a scene, an instruction, and a success ch"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-20", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wrencanfly/openRocode",
+ "sha": "fabeb05351d9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让多模态模型以像素点击和代码驱动机器人的 agent harness",
+  "review": "openRocode 是一个开源 agent harness，把机器人控制转化为'3D computer use'：模型在相机图像上点击抓取点、给出可见方向或写 run_code 程序，harness 负责深度、标定、逆运动学等几何计算，并做力防护、工作区检查与紧急停止。支持浮夹爪、Franka Panda、ALOHA 双臂与 LEAP 手，可运行 robosuite 与 Meta-World 任务；每次运行为版本化 trace，带 dashboard 与 rocode bench 模型对比。约 5,300 行 Python，pip 安装，无专用 GPU，macOS/Linux，状态为 alpha。",
+  "highlights": [
+   "模型以像素点击/厘米方向操作，几何与标定不进入模型上下文",
+   "run_code 程序与直接调用同受安全门与紧急停止约束",
+   "任务以 TOML 数据定义，成功条件逐条判定",
+   "每次运行为版本化 trace，dashboard 提供 Compare 页对比模型"
+  ],
+  "use_cases": [
+   "在 MuJoCo 仿真中让多模态模型执行桌面操作任务",
+   "对比不同模型在同一任务多个种子布局上的成功率",
+   "运行中随时暂停、纠偏或紧急停止模型控制",
+   "自定义 TOML 任务并复用 bench/trace/dashboard 全套工具链"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    10
+   ],
+   "note": "Status: alpha"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "embodied-ai",
+   "机器人控制",
+   "code-as-policy",
+   "模型评测",
+   "仿真"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: openRocode is an open agent harness that turns robot control into **3D computer use**. The model looks at camera picture",
+   "L32: 2. **Our own small agent loop.** The core (loop, hooks, events, operator channel) is about 700 lines and talks to model ",
+   "L34: 4. **Evaluation is part of the harness, not an afterthought.** A task is data: a scene, an instruction, and a success ch"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-20",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

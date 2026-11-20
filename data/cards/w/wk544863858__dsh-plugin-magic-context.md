@@ -33,7 +33,7 @@ DeepSeek Harness（DSH）桌面端的插件：将项目知识沉淀到插件自�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 记忆与上下文工程
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

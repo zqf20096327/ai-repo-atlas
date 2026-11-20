@@ -34,7 +34,7 @@ openRocode 是一个开源 agent harness，把机器人控制转化为'3D comput
 
 ## 场景标签
 
- · 领域:机器人/具身智能
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

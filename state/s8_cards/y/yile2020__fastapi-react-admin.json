@@ -1,1 +1,84 @@
-{"fn": "yile2020/fastapi-react-admin", "sha": "dc5eb54c04c2", "source": "readme", "identity": {"one_liner": "FastAPI+React 19 管理后台基座：RBAC/审批流/权限受限 AI 助手", "review": "将登录、权限、组织架构、审批、文件、通知等系统开发重复部分固化为可复用基座。单仓 monorepo 包含 FastAPI+Celery 后端、React 19 Web 管理台、Electron 桌面模板与 Expo 移动模板。关键机制：模型列上的行级数据权限、React 19 `<Activity>` 保状态多标签、审批流设计器、权限绑定的 AI 助手（写入预览确认+审计+MCP 网关）、AK/SK 开放 API。需 Node ≥22.13、Python ≥3.11、uv 与 Docker，切换 SQL Server/MySQL 等见 CONTRIBUTING.md。", "highlights": ["行级数据权限：同表按部门数据范围控制可见行", "权限受限 AI 助手：工具调用绑定用户权限与数据范围，写操作预览确认后执行并审计", "支持 PostgreSQL/SQL Server/MySQL 三库同代码切换", "1600+ 真实数据库与真实浏览器测试，CI 全量运行并公开 E2E 报告"], "use_cases": ["为新业务系统搭建带权限与审批的管理后台底座", "重写多年运行的旧 Java+Vue 系统时复用基座", "需要桌面端（静默打印/本地硬件/自动更新）的管理系统", "需要通过开放 API 与 webhook 对外同步数据的企业系统"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["管理后台", "RBAC权限", "审批工作流", "AI助手/Agent", "monorepo"], "domain": "企业应用/管理后台框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "飞书风格审批流设计器", "飞书/钉钉/企业微信群机器人通知集成", "阿里云/腾讯云短信"]}, "trust": {"confidence": "mid", "evidence": ["L7: **A batteries-included admin foundation · FastAPI + React 19 + shadcn/ui**", "L9: Row-level permissions · multi-tab that keeps state · approval workflow · an AI assistant that can't overreach · S3 stora", "L69: - **An AI assistant that can't overreach** — it can do exactly what the signed-in user can do; write actions are preview"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-20", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yile2020/fastapi-react-admin",
+ "sha": "dc5eb54c04c2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "FastAPI+React 19 管理后台基座：RBAC/审批流/权限受限 AI 助手",
+  "review": "将登录、权限、组织架构、审批、文件、通知等系统开发重复部分固化为可复用基座。单仓 monorepo 包含 FastAPI+Celery 后端、React 19 Web 管理台、Electron 桌面模板与 Expo 移动模板。关键机制：模型列上的行级数据权限、React 19 `<Activity>` 保状态多标签、审批流设计器、权限绑定的 AI 助手（写入预览确认+审计+MCP 网关）、AK/SK 开放 API。需 Node ≥22.13、Python ≥3.11、uv 与 Docker，切换 SQL Server/MySQL 等见 CONTRIBUTING.md。",
+  "highlights": [
+   "行级数据权限：同表按部门数据范围控制可见行",
+   "权限受限 AI 助手：工具调用绑定用户权限与数据范围，写操作预览确认后执行并审计",
+   "支持 PostgreSQL/SQL Server/MySQL 三库同代码切换",
+   "1600+ 真实数据库与真实浏览器测试，CI 全量运行并公开 E2E 报告"
+  ],
+  "use_cases": [
+   "为新业务系统搭建带权限与审批的管理后台底座",
+   "重写多年运行的旧 Java+Vue 系统时复用基座",
+   "需要桌面端（静默打印/本地硬件/自动更新）的管理系统",
+   "需要通过开放 API 与 webhook 对外同步数据的企业系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "管理后台",
+   "RBAC权限",
+   "审批工作流",
+   "AI助手/Agent",
+   "monorepo"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "飞书风格审批流设计器",
+   "飞书/钉钉/企业微信群机器人通知集成",
+   "阿里云/腾讯云短信"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: **A batteries-included admin foundation · FastAPI + React 19 + shadcn/ui**",
+   "L9: Row-level permissions · multi-tab that keeps state · approval workflow · an AI assistant that can't overreach · S3 stora",
+   "L69: - **An AI assistant that can't overreach** — it can do exactly what the signed-in user can do; write actions are preview"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-20",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

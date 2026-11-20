@@ -34,7 +34,7 @@ Nectar 以单个进程在同一仓库中并行运行多个编码 agent（Codex�
 
 ## 场景标签
 
- · 领域:开发者工具/AI agent 基础设施
+`编码 Agent` `多智能体` `聊天机器人` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

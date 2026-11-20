@@ -1,1 +1,82 @@
-{"fn": "wk544863858/dsh-plugin-magic-context", "sha": "ad46c61a711e", "source": "readme", "identity": {"one_liner": "为 DSH 会话提供持久记忆与上下文回收的插件", "review": "DeepSeek Harness（DSH）桌面端的插件：将项目知识沉淀到插件自有的 SQLite 语料库，提供全文 0.7 / 本地向量 0.3 的混合检索，并在模型读取位置重注入；同时把上下文窗口作为资产管理——工具输出打 `§N§` 标签后可逆回收（ctx_reduce 只排队、ctx_expand 还原原文），历史经 historian 摘要为 p1–p4 分层替换，压缩走可选的 compaction 接缝且默认关闭。要求 Node ≥ 22.19 与 DSH 0.2.x，包发布于 npm，含中文版 README。", "highlights": ["SQLite 项目记忆库 + 全文/向量混合检索（MiniLM 经 WASM 本地运行，无原生构建、无 API key）", "可逆上下文回收：占位符 `[dropped §N§]` 与 ctx_expand 原文还原，不破坏 KV-cache 前缀", "historian 带外摘要：单次 LLM 调用生成 p1–p4 四级总结，只写存储不动主链路", "发布门禁：全局域 staging 可自动化，publishing 必须人工审批"], "use_cases": ["长会话跨天重启后找回已敲定的项目结论", "控制工具输出导致的上下文膨胀而不丢失原文", "多会话间共享项目记忆并保持缓存前缀稳定"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent-memory", "上下文管理", "插件", "DeepSeek生态"], "domain": "LLM 基础设施/agent 记忆与上下文工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供完整中文翻译 README.zh-CN.md", "GitHub 用户 wk544863858"]}, "trust": {"confidence": "high", "evidence": ["L16: > persist, context should be managed.** This plugin gives **DeepSeek Harness (DSH)**", "L19: > re-injected right where the model reads it — while the context window itself is run as", "L90: |**Compaction seam**|`registerCompactionEngine` can take over `ctx.compaction` (real `compaction/start\\|summary\\|replace"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-20", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wk544863858/dsh-plugin-magic-context",
+ "sha": "ad46c61a711e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 DSH 会话提供持久记忆与上下文回收的插件",
+  "review": "DeepSeek Harness（DSH）桌面端的插件：将项目知识沉淀到插件自有的 SQLite 语料库，提供全文 0.7 / 本地向量 0.3 的混合检索，并在模型读取位置重注入；同时把上下文窗口作为资产管理——工具输出打 `§N§` 标签后可逆回收（ctx_reduce 只排队、ctx_expand 还原原文），历史经 historian 摘要为 p1–p4 分层替换，压缩走可选的 compaction 接缝且默认关闭。要求 Node ≥ 22.19 与 DSH 0.2.x，包发布于 npm，含中文版 README。",
+  "highlights": [
+   "SQLite 项目记忆库 + 全文/向量混合检索（MiniLM 经 WASM 本地运行，无原生构建、无 API key）",
+   "可逆上下文回收：占位符 `[dropped §N§]` 与 ctx_expand 原文还原，不破坏 KV-cache 前缀",
+   "historian 带外摘要：单次 LLM 调用生成 p1–p4 四级总结，只写存储不动主链路",
+   "发布门禁：全局域 staging 可自动化，publishing 必须人工审批"
+  ],
+  "use_cases": [
+   "长会话跨天重启后找回已敲定的项目结论",
+   "控制工具输出导致的上下文膨胀而不丢失原文",
+   "多会话间共享项目记忆并保持缓存前缀稳定"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent-memory",
+   "上下文管理",
+   "插件",
+   "DeepSeek生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供完整中文翻译 README.zh-CN.md",
+   "GitHub 用户 wk544863858"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: > persist, context should be managed.** This plugin gives **DeepSeek Harness (DSH)**",
+   "L19: > re-injected right where the model reads it — while the context window itself is run as",
+   "L90: |**Compaction seam**|`registerCompactionEngine` can take over `ctx.compaction` (real `compaction/start\\|summary\\|replace"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-20",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

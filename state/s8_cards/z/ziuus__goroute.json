@@ -1,1 +1,85 @@
-{"fn": "ziuus/goroute", "sha": "536596077e16", "source": "readme", "identity": {"one_liner": "面向编码代理的单二进制 LLM 网关与多账户路由器", "review": "Go 编写的单二进制 LLM 网关，部署在开发工具/编码代理与上游模型之间：聚合多个实验室与推理平台的账户，做流量均衡、协议转换（OpenAI Chat Completions、Anthropic Messages、Gemini 格式互桥）与自动故障转移；支持递归嵌套的 Combo 级联与 OAuth 账户池轮询。内嵌 Web 控制台（go:embed）提供提供商管理、级联编排与聊天测试。提供 npm、安装脚本、Homebrew、Go install、AUR 五种安装方式，声称零外部依赖。作者给出的基准数据（内存、延迟）为自测结果，采用时需自行验证。", "highlights": ["单静态二进制，README 声称 <5 MB 空闲内存、零外部依赖", "桥接 OpenAI / Anthropic / Gemini 三种协议格式", "多账户 OAuth 池与 HTTP 429/宕机自动故障转移的 Combo 级联", "一条命令为 Claude Code、Cursor、Codex、OpenCode 等 35 个工具生成配置"], "use_cases": ["为多个编码代理统一配置本地网关接入点", "聚合多个上游账户做轮询与限流兜底", "从 OmniRoute 迁移已有的账户池与级联配置"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM网关", "代理路由", "编码代理工具", "故障转移"], "domain": "LLM 基础设施/网关代理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "groq", "together", "anthropic", "openrouter", "ollama", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L36: GoRoute is a single-binary LLM gateway engineered to sit between your developer tools, coding agents, and upstream AI mo", "L44: - **Universal Protocol Translation**: Transparently bridges OpenAI Chat Completions, Anthropic Messages (`/v1/messages`)", "L174: goroute setup all        # Auto-configures all 35 supported developer tools"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-20", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ziuus/goroute",
+ "sha": "536596077e16",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编码代理的单二进制 LLM 网关与多账户路由器",
+  "review": "Go 编写的单二进制 LLM 网关，部署在开发工具/编码代理与上游模型之间：聚合多个实验室与推理平台的账户，做流量均衡、协议转换（OpenAI Chat Completions、Anthropic Messages、Gemini 格式互桥）与自动故障转移；支持递归嵌套的 Combo 级联与 OAuth 账户池轮询。内嵌 Web 控制台（go:embed）提供提供商管理、级联编排与聊天测试。提供 npm、安装脚本、Homebrew、Go install、AUR 五种安装方式，声称零外部依赖。作者给出的基准数据（内存、延迟）为自测结果，采用时需自行验证。",
+  "highlights": [
+   "单静态二进制，README 声称 <5 MB 空闲内存、零外部依赖",
+   "桥接 OpenAI / Anthropic / Gemini 三种协议格式",
+   "多账户 OAuth 池与 HTTP 429/宕机自动故障转移的 Combo 级联",
+   "一条命令为 Claude Code、Cursor、Codex、OpenCode 等 35 个工具生成配置"
+  ],
+  "use_cases": [
+   "为多个编码代理统一配置本地网关接入点",
+   "聚合多个上游账户做轮询与限流兜底",
+   "从 OmniRoute 迁移已有的账户池与级联配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM网关",
+   "代理路由",
+   "编码代理工具",
+   "故障转移"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq",
+   "together",
+   "anthropic",
+   "openrouter",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: GoRoute is a single-binary LLM gateway engineered to sit between your developer tools, coding agents, and upstream AI mo",
+   "L44: - **Universal Protocol Translation**: Transparently bridges OpenAI Chat Completions, Anthropic Messages (`/v1/messages`)",
+   "L174: goroute setup all        # Auto-configures all 35 supported developer tools"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-20",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

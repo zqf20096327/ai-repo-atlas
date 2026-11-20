@@ -1,1 +1,82 @@
-{"fn": "zgsndzq/qwen38-27b-flash-mtp", "sha": "48dd421eb2d0", "source": "readme", "identity": {"one_liner": "在 8 GB 显存笔记本 GPU 上本地运行 27B 三值量化代码模型的运行包", "review": "一个将三值量化（PTQ1_0）27B 代码模型与 MTP 自投机草稿头合并打包为单一 gguf 的运行包：权重 5.79 GB，配合 fork 版 llama.cpp 引擎在 8 GB 消费级显卡上整模型驻留。提供 Windows 预编译二进制（含 CUDA 运行时）、llmserver.bat 启动脚本、features.ini fork 专属开关及命令行聊天客户端，通过 OpenAI 风格 HTTP API（127.0.0.1:18080）提供服务。权重为衍生作品（基于 Qwen3.8-27B 等多层合并，未重新训练），Apache 2.0 许可并要求 Bonsai 署名。", "highlights": ["权重 5.79 GB，8 GB 显存显卡可整模型驻留，README 给出 RTX 4060 Laptop 上的分场景速度数据", "MTP 草稿头烘在同一个 gguf 内，依赖 PrismML-Eng/llama.cpp 的 fork（官方 llama.cpp 无法加载该格式）", "预编译 zip 与源码编译两条获取路径，附 nvcc 静默失败等编译排障说明", "features.ini 提供 KV 显存分配、稀疏读取、chunk prefill 等 fork 专属配置项"], "use_cases": ["在 8 GB 显存笔记本 GPU 上本地跑 27B 代码模型", "通过本地 HTTP API 接入自己的客户端调用模型", "需要 128K 上下文且显存受限的本地推理部署"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": "gpu-8g", "install_friction": "high", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地推理", "量化模型", "llama.cpp", "Windows", "代码生成"], "domain": "本地 LLM 推理/模型运行包", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README"]}, "trust": {"confidence": "mid", "evidence": ["L3: 三值量化（`PTQ1_0`）的 27B 代码模型，MTP 自投机草稿头**烘在同一个 gguf 里**。", "L6: 引擎是对 `PrismML-Eng/llama.cpp` 的 fork —— 官方 llama.cpp **跑不了这个模型**", "L38: **不需要编译**，双击 `llmserver.bat`。看到这两行就成了：", "L48: curl http://127.0.0.1:18080/v1/chat/completions \\"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-20", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zgsndzq/qwen38-27b-flash-mtp",
+ "sha": "48dd421eb2d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 8 GB 显存笔记本 GPU 上本地运行 27B 三值量化代码模型的运行包",
+  "review": "一个将三值量化（PTQ1_0）27B 代码模型与 MTP 自投机草稿头合并打包为单一 gguf 的运行包：权重 5.79 GB，配合 fork 版 llama.cpp 引擎在 8 GB 消费级显卡上整模型驻留。提供 Windows 预编译二进制（含 CUDA 运行时）、llmserver.bat 启动脚本、features.ini fork 专属开关及命令行聊天客户端，通过 OpenAI 风格 HTTP API（127.0.0.1:18080）提供服务。权重为衍生作品（基于 Qwen3.8-27B 等多层合并，未重新训练），Apache 2.0 许可并要求 Bonsai 署名。",
+  "highlights": [
+   "权重 5.79 GB，8 GB 显存显卡可整模型驻留，README 给出 RTX 4060 Laptop 上的分场景速度数据",
+   "MTP 草稿头烘在同一个 gguf 内，依赖 PrismML-Eng/llama.cpp 的 fork（官方 llama.cpp 无法加载该格式）",
+   "预编译 zip 与源码编译两条获取路径，附 nvcc 静默失败等编译排障说明",
+   "features.ini 提供 KV 显存分配、稀疏读取、chunk prefill 等 fork 专属配置项"
+  ],
+  "use_cases": [
+   "在 8 GB 显存笔记本 GPU 上本地跑 27B 代码模型",
+   "通过本地 HTTP API 接入自己的客户端调用模型",
+   "需要 128K 上下文且显存受限的本地推理部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "量化模型",
+   "llama.cpp",
+   "Windows",
+   "代码生成"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 三值量化（`PTQ1_0`）的 27B 代码模型，MTP 自投机草稿头**烘在同一个 gguf 里**。",
+   "L6: 引擎是对 `PrismML-Eng/llama.cpp` 的 fork —— 官方 llama.cpp **跑不了这个模型**",
+   "L38: **不需要编译**，双击 `llmserver.bat`。看到这两行就成了：",
+   "L48: curl http://127.0.0.1:18080/v1/chat/completions \\"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-20",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
