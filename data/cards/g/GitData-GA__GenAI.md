@@ -1,0 +1,57 @@
+# GitData-GA/GenAI
+
+⭐ 10 · R · CC-BY-4.0 · 推送 2026-05-26 · [GitHub](https://github.com/GitData-GA/GenAI) · [官网](http://genai.gd.edu.kg/) · 组织维护 · 中文 README
+
+**R/Python 用户的 GPT-4 与 Gemini 多会话文本生成与聊天工具箱**
+
+一个封装 OpenAI（ChatGPT/GPT-4）与 Google（Gemini Pro）API 的 R 包（Python 包开发中），提供文本生成、代码解释/语法修正/优化、文生图、聊天编辑与多会话聊天等功能。用户需自备所选服务商的 API key 并联网使用。附带 API 代理服务，将请求经中转服务器转发至 Google/OpenAI 官方端点，供 API 使用地受限地区用户替换官方 URL 调用；README 提示代理服务速度无保证、需自担风险。许可为 CC BY 4.0。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `viral` | CC-BY-4.0 |
+| 部署形态 | `None` |  |
+| 模型依赖 | locked-api |  |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | `idea` | |
+
+## 能力要点
+
+- 统一封装 Google 与 OpenAI 的生成式模型 API，支持多会话聊天
+- 提供文本生成、代码优化、语法修正、文生图、图像解读等函数
+- 提供 DeepSeek/Google/OpenAI 请求的 API 代理转发服务
+- R 包已可用，Python 包处于开发阶段
+
+## 适用场景
+
+- 在 R 环境中调用 GPT-4/Gemini 生成文本与聊天
+- 所在地区无法直连 OpenAI/Google API 时经代理 URL 转发请求
+- 用自然语言函数完成代码解释、语法修正与代码优化
+
+## 场景标签
+
+`图像生成` `AI 写作` `聊天机器人` · 领域:对话与助手
+
+## 证据(README 行号)
+
+> L25: GenAI harnesses the power of advanced models like GPT-4 and Gemini Pro to serve as versatile coding and writing ass
+> L59: - GenAI package in R: Set TRUE to parameter proxy in function connect.genai and use the model parameter for text ge
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GitData-GA/GenAI 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-10-18 10 → 2026-11-20 10（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `b58a3b2ebdae` · [字段定义](../../DATASET.md)*

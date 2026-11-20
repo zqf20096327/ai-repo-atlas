@@ -1,1 +1,77 @@
-{"fn": "PrzeChoj/gips", "sha": "19c2bb8dc105", "source": "readme", "identity": {"one_liner": "高斯变量置换对称性发现与协方差估计的 R 包", "review": "面向统计学与数据分析用户的 R 包，在多元高斯样本中搜索变量间的置换对称性，并利用对称约束降低协方差估计的样本量要求。核心机制是基于贝叶斯模型（find_MAP）量化近似对称是否成立，再通过 project_matrix 将协方差矩阵投影到对称约束下，得到可用于 n<p 情形的估计量；支持探索性数据分析与建模两类用途，支持多独立样本共享对称性的情形。发布于 CRAN，另有配套 JSS 论文。", "highlights": ["find_MAP 以贝叶斯模型量化变量间近似对称关系", "对称约束降低 MLE 存在所需的样本量条件（n<p 场景可用）", "project_matrix 生成受约束的协方差估计", "支持多独立样本共享置换对称性"], "use_cases": ["探索性数据分析中寻找变量间的隐藏对称结构", "变量数多于观测数时的协方差估计", "对高维小样本数据做降维建模"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.18637/jss.v112.i07", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["统计建模", "协方差估计", "探索性数据分析", "R包"], "domain": "统计/机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: `gips` is an R package that looks for permutation symmetries in the", "L22: 1. Finding hidden symmetries between the variables. `gips` can be used", "L26: 2. Covariance estimation. For an i.i.d. sample from a nondegenerate"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-20", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "PrzeChoj/gips",
+ "sha": "19c2bb8dc105",
+ "source": "readme",
+ "identity": {
+  "one_liner": "高斯变量置换对称性发现与协方差估计的 R 包",
+  "review": "面向统计学与数据分析用户的 R 包，在多元高斯样本中搜索变量间的置换对称性，并利用对称约束降低协方差估计的样本量要求。核心机制是基于贝叶斯模型（find_MAP）量化近似对称是否成立，再通过 project_matrix 将协方差矩阵投影到对称约束下，得到可用于 n<p 情形的估计量；支持探索性数据分析与建模两类用途，支持多独立样本共享对称性的情形。发布于 CRAN，另有配套 JSS 论文。",
+  "highlights": [
+   "find_MAP 以贝叶斯模型量化变量间近似对称关系",
+   "对称约束降低 MLE 存在所需的样本量条件（n<p 场景可用）",
+   "project_matrix 生成受约束的协方差估计",
+   "支持多独立样本共享置换对称性"
+  ],
+  "use_cases": [
+   "探索性数据分析中寻找变量间的隐藏对称结构",
+   "变量数多于观测数时的协方差估计",
+   "对高维小样本数据做降维建模"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.18637/jss.v112.i07",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "统计建模",
+   "协方差估计",
+   "探索性数据分析",
+   "R包"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: `gips` is an R package that looks for permutation symmetries in the",
+   "L22: 1. Finding hidden symmetries between the variables. `gips` can be used",
+   "L26: 2. Covariance estimation. For an i.i.d. sample from a nondegenerate"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-20",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
