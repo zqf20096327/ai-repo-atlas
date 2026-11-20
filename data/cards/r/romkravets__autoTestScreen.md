@@ -1,6 +1,6 @@
 # romkravets/autoTestScreen
 
-⭐ 16 · JavaScript · 推送 2026-06-24 · [GitHub](https://github.com/romkravets/autoTestScreen) · 个人维护
+⭐ 14 · JavaScript · 推送 2026-06-24 · [GitHub](https://github.com/romkravets/autoTestScreen) · 个人维护
 
 **面向 vseosvita.ua 教师的 AI 试题生成与自动填站工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "romkravets/autoTestScreen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 15 --> 19
-    line [18, 17, 16, 16]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 13 --> 19
+    line [18, 17, 16, 14]
 ```
 
-2026-10-18 18 → 2026-11-19 16（-2）
+2026-10-18 18 → 2026-11-20 14（-4）
 
 
 ---

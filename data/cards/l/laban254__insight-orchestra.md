@@ -1,6 +1,6 @@
 # laban254/insight-orchestra
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/laban254/insight-orchestra) · [官网](https://insight-orchestra.vercel.app/) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/laban254/insight-orchestra) · [官网](https://insight-orchestra.vercel.app/) · 个人维护
 
 **可自托管的多智能体 AI 数据分析师，自然语言查询本地数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "laban254/insight-orchestra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 13（+0）
 
 
 ---

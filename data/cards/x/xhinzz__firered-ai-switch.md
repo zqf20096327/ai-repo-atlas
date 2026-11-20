@@ -1,6 +1,6 @@
 # xhinzz/firered-ai-switch
 
-⭐ 8 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xhinzz/firered-ai-switch) · [官网](https://xhinzz.github.io/firered-ai-switch/) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xhinzz/firered-ai-switch) · [官网](https://xhinzz.github.io/firered-ai-switch/) · 个人维护
 
 **在真实 Switch 硬件上自动游玩宝可梦火红的视觉 AI agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xhinzz/firered-ai-switch 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 7 --> 17
-    line [13, 15, 16, 15, 8, 8]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 6 --> 17
+    line [13, 15, 16, 15, 8, 7]
 ```
 
-2026-10-24 13 → 2026-11-19 8（-5）
+2026-10-24 13 → 2026-11-20 7（-6）
 
 
 ---

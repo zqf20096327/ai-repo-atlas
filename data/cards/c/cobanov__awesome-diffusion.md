@@ -1,6 +1,6 @@
 # cobanov/awesome-diffusion
 
-⭐ 219 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/cobanov/awesome-diffusion) · 个人维护
+⭐ 220 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/cobanov/awesome-diffusion) · 个人维护
 
 **扩散模型资源策展清单：notebook、工具、教程与论文链接**
 
@@ -44,12 +44,12 @@ awesome-list 形式的扩散模型资源聚合：按 Colab Notebooks、Diffusion
 ```mermaid
 xychart-beta
     title "cobanov/awesome-diffusion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
-    y-axis "stars" 217 --> 220
-    line [218, 219, 219]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-20"]
+    y-axis "stars" 217 --> 221
+    line [218, 219, 220]
 ```
 
-2026-10-18 218 → 2026-11-19 219（+1）
+2026-10-18 218 → 2026-11-20 220（+2）
 
 
 ---

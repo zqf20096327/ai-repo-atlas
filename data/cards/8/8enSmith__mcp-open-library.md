@@ -1,6 +1,6 @@
 # 8enSmith/mcp-open-library
 
-⭐ 102 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/8enSmith/mcp-open-library) · 个人维护
+⭐ 103 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/8enSmith/mcp-open-library) · 个人维护
 
 **为 AI 助手提供 Open Library 图书/作者检索的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "8enSmith/mcp-open-library 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 95 --> 103
-    line [96, 97, 99, 100, 99, 100, 102, 102]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 95 --> 104
+    line [96, 97, 99, 100, 99, 100, 102, 103]
 ```
 
-2026-10-18 96 → 2026-11-19 102（+6）
+2026-10-18 96 → 2026-11-20 103（+7）
 
 
 ---

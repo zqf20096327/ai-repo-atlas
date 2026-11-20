@@ -1,6 +1,6 @@
 # poco-ai/agentero-dsh-plugin
 
-⭐ 237 · TypeScript · 推送 2026-11-12 · [GitHub](https://github.com/poco-ai/agentero-dsh-plugin) · [官网](https://agentero.app) · 组织维护 · 中文 README
+⭐ 242 · TypeScript · 推送 2026-11-12 · [GitHub](https://github.com/poco-ai/agentero-dsh-plugin) · [官网](https://agentero.app) · 组织维护 · 中文 README
 
 **给 DeepSeek Harness 的科研文献库插件：论文搜索、引用与笔记**
 
@@ -44,13 +44,13 @@ Agentero 是本地优先的科研工作台，此插件将其文献库、PDF 阅�
 
 ```mermaid
 xychart-beta
-    title "poco-ai/agentero-dsh-plugin 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 107 --> 248
-    line [118, 179, 192, 209, 216, 220, 227, 231, 232, 237]
+    title "poco-ai/agentero-dsh-plugin 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 106 --> 254
+    line [118, 179, 192, 209, 216, 220, 227, 231, 232, 237, 242]
 ```
 
-2026-11-08 118 → 2026-11-19 237（+119）
+2026-11-08 118 → 2026-11-20 242（+124）
 
 
 ---

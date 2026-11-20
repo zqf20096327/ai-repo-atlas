@@ -1,6 +1,6 @@
 # polaris-smart/mcd-agent-gourmet
 
-⭐ 148 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/polaris-smart/mcd-agent-gourmet) · [官网](https://polaris-smart.github.io/mcd-agent-gourmet/) · 个人维护 · 中文 README
+⭐ 147 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/polaris-smart/mcd-agent-gourmet) · [官网](https://polaris-smart.github.io/mcd-agent-gourmet/) · 个人维护 · 中文 README
 
 **麦当劳点餐决策工具：用官方核价算清这一餐怎么点最划算**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "polaris-smart/mcd-agent-gourmet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 26 --> 161
-    line [37, 48, 90, 150, 90, 148, 148]
+    line [37, 48, 90, 150, 90, 148, 147]
 ```
 
-2026-10-18 37 → 2026-11-19 148（+111）
+2026-10-18 37 → 2026-11-20 147（+110）
 
 
 ---

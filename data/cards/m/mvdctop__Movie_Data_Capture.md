@@ -1,6 +1,6 @@
 # mvdctop/Movie_Data_Capture
 
-⭐ 7,451 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/mvdctop/Movie_Data_Capture) · [官网](https://www.mvdc.top) · 组织维护 · 中文 README
+⭐ 7,450 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/mvdctop/Movie_Data_Capture) · [官网](https://www.mvdc.top) · 组织维护 · 中文 README
 
 **整理本地影视媒体库的元数据刮削工具，带 AI 网页解析**
 
@@ -45,12 +45,12 @@ Movie Data Crawler（原 Movie Data Capture）用于整理本地电影和电视�
 ```mermaid
 xychart-beta
     title "mvdctop/Movie_Data_Capture 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
     y-axis "stars" 7445 --> 7452
-    line [7446, 7448, 7450, 7448, 7449, 7450, 7451, 7451]
+    line [7446, 7448, 7450, 7448, 7449, 7450, 7451, 7450]
 ```
 
-2026-11-02 7,446 → 2026-11-19 7,451（+5）
+2026-11-02 7,446 → 2026-11-20 7,450（+4）
 
 
 ---

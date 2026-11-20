@@ -1,6 +1,6 @@
 # fotedev/Masar-x-next
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/fotedev/Masar-x-next) · [官网](https://masarx.vercel.app) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向大学生的双语 AI 学习平台：资料、测验与 AI 辅导**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

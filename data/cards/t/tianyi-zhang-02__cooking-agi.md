@@ -1,6 +1,6 @@
 # tianyi-zhang-02/cooking-agi
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/tianyi-zhang-02/cooking-agi) · [官网](https://tianyi-zhang-02.github.io/cooking-agi/) · 个人维护 · 中文 README
+⭐ 36 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/tianyi-zhang-02/cooking-agi) · [官网](https://tianyi-zhang-02.github.io/cooking-agi/) · 个人维护 · 中文 README
 
 **中英双语 ML/LLM 学习与面试准备笔记站**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tianyi-zhang-02/cooking-agi 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20"]
     y-axis "stars" 23 --> 37
     line [24, 25, 27, 31, 32, 33, 27, 35, 36, 36]
 ```
 
-2026-10-18 24 → 2026-11-19 36（+12）
+2026-10-18 24 → 2026-11-20 36（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # SJTU-DMTai/Awesome-Data-Agent-Papers
 
-⭐ 65 · Python · 推送 2026-07-31 · [GitHub](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) · 组织维护 · 中文 README
+⭐ 66 · Python · 推送 2026-07-31 · [GitHub](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) · 组织维护 · 中文 README
 
 **LLM 数据 agent 论文策展清单：306 篇，覆盖数据全生命周期**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SJTU-DMTai/Awesome-Data-Agent-Papers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 60 --> 66
-    line [61, 62, 64, 65, 65]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 60 --> 67
+    line [61, 62, 64, 65, 66]
 ```
 
-2026-10-18 61 → 2026-11-19 65（+4）
+2026-10-18 61 → 2026-11-20 66（+5）
 
 
 ---

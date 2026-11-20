@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy4-flash
 
-⭐ 54 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4-flash) · 组织维护 · 中文 README
+⭐ 70 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4-flash) · 组织维护 · 中文 README
 
 **腾讯开源的多模态 MoE 模型：文本图像输入、文本生成**
 
@@ -39,6 +39,18 @@
 
 > L21: **Hy4 flash** is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram pa
 > L184: Use Transformers to load the model for local inference, or deploy a server and access it through the OpenAI-compat
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tencent-Hunyuan/Hy4-flash 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 53 --> 71
+    line [54, 70]
+```
+
+2026-11-19 54 → 2026-11-20 70（+16）
 
 
 ---

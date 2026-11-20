@@ -1,6 +1,6 @@
 # alexturkey/ozel-uzak-masaustu
 
-⭐ 35 · PowerShell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/alexturkey/ozel-uzak-masaustu) · 个人维护
+⭐ 44 · PowerShell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/alexturkey/ozel-uzak-masaustu) · 个人维护
 
 **面向非开发者的私有远程桌面分步设置指南，由 AI 代理执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexturkey/ozel-uzak-masaustu 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 16 --> 36
-    line [17, 26, 27, 28, 33, 35]
+    title "alexturkey/ozel-uzak-masaustu 星数(近 7 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 15 --> 46
+    line [17, 26, 27, 28, 33, 35, 44]
 ```
 
-2026-11-11 17 → 2026-11-19 35（+18）
+2026-11-11 17 → 2026-11-20 44（+27）
 
 
 ---

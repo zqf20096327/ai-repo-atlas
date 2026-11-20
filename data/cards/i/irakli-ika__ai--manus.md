@@ -1,6 +1,6 @@
 # irakli-ika/ai--manus
 
-⭐ 186 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/irakli-ika/ai--manus) · 个人维护
+⭐ 185 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/irakli-ika/ai--manus) · 个人维护
 
 **自主执行代码与浏览器操作的通用 AI Agent 系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "irakli-ika/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 113 --> 271
-    line [126, 258, 186, 186]
+    line [126, 258, 186, 185]
 ```
 
-2026-11-13 126 → 2026-11-19 186（+60）
+2026-11-13 126 → 2026-11-20 185（+59）
 
 
 ---

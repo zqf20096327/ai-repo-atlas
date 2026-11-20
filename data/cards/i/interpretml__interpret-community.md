@@ -1,6 +1,6 @@
 # interpretml/interpret-community
 
-⭐ 445 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/interpretml/interpret-community) · [官网](https://interpret-community.readthedocs.io/en/latest/index.html) · 组织维护
+⭐ 444 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/interpretml/interpret-community) · [官网](https://interpret-community.readthedocs.io/en/latest/index.html) · 组织维护
 
 **扩展 Interpret 的表格数据模型可解释性 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "interpretml/interpret-community 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-29", "2026-11-10", "2026-11-20"]
     y-axis "stars" 443 --> 446
-    line [444, 445, 445]
+    line [444, 445, 444]
 ```
 
-2026-10-29 444 → 2026-11-19 445（+1）
+2026-10-29 444 → 2026-11-20 444（+0）
 
 
 ---

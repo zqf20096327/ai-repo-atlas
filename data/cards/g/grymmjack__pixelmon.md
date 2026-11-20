@@ -1,6 +1,6 @@
 # grymmjack/pixelmon
 
-⭐ 61 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/grymmjack/pixelmon) · 个人维护
+⭐ 64 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/grymmjack/pixelmon) · 个人维护
 
 **面向游戏开发者的像素画精灵生成 CLI（SDXL + Pixel Art XL）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "grymmjack/pixelmon 星数(近 8 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 5 --> 66
-    line [10, 11, 10, 45, 47, 56, 60, 61]
+    title "grymmjack/pixelmon 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 5 --> 69
+    line [10, 11, 10, 45, 47, 56, 60, 61, 64]
 ```
 
-2026-10-26 10 → 2026-11-19 61（+51）
+2026-10-26 10 → 2026-11-20 64（+54）
 
 
 ---

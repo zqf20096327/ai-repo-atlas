@@ -1,6 +1,6 @@
 # irinabuht12-oss/n8n-google-meta-ads
 
-⭐ 13 · 推送 2026-09-09 · [GitHub](https://github.com/irinabuht12-oss/n8n-google-meta-ads) · [官网](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp) · 组织维护
+⭐ 14 · 推送 2026-09-09 · [GitHub](https://github.com/irinabuht12-oss/n8n-google-meta-ads) · [官网](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp) · 组织维护
 
 **在 n8n 中通过 Ryze MCP 让 AI agent 读取并操作 Google/Meta 广告账户**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "irinabuht12-oss/n8n-google-meta-ads 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    title "irinabuht12-oss/n8n-google-meta-ads 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-11-08 11 → 2026-11-19 13（+2）
+2026-11-08 11 → 2026-11-20 14（+3）
 
 
 ---

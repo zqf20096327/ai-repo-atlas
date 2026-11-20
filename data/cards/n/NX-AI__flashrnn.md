@@ -45,12 +45,12 @@ NX-AI 出品（Pöppel、Beck、Hochreiter）的 PyTorch 扩展库，以 CUDA �
 ```mermaid
 xychart-beta
     title "NX-AI/flashrnn 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-20"]
     y-axis "stars" 189 --> 191
     line [190, 190]
 ```
 
-2026-11-02 190 → 2026-11-19 190（+0）
+2026-11-02 190 → 2026-11-20 190（+0）
 
 
 ---

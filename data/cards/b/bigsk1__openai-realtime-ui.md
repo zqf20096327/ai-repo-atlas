@@ -1,6 +1,6 @@
 # bigsk1/openai-realtime-ui
 
-⭐ 20 · JavaScript · MIT · 推送 2026-03-24 · [GitHub](https://github.com/bigsk1/openai-realtime-ui) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **与 OpenAI Realtime API 对话的 Web UI，带工具与 webhook 扩展**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

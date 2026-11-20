@@ -1,6 +1,6 @@
 # lightbearco/tupper
 
-⭐ 82 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/lightbearco/tupper) · 组织维护
+⭐ 80 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/lightbearco/tupper) · 组织维护
 
 **自托管的 AI agent 代码执行沙箱，Apple Containers 隔离不可信代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lightbearco/tupper 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 81 --> 92
-    line [91, 88, 89, 82, 82]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 79 --> 92
+    line [91, 88, 89, 82, 80]
 ```
 
-2026-10-18 91 → 2026-11-19 82（-9）
+2026-10-18 91 → 2026-11-20 80（-11）
 
 
 ---

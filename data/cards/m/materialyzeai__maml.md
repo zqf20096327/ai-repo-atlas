@@ -1,6 +1,6 @@
 # materialyzeai/maml
 
-⭐ 468 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/materialyzeai/maml) · 组织维护
+⭐ 467 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/materialyzeai/maml) · 组织维护
 
 **材料科学机器学习 Python 库：材料特征、力场与性质预测**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "materialyzeai/maml 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-20"]
     y-axis "stars" 465 --> 469
-    line [466, 467, 468, 468]
+    line [466, 467, 468, 467]
 ```
 
-2026-10-18 466 → 2026-11-19 468（+2）
+2026-10-18 466 → 2026-11-20 467（+1）
 
 
 ---

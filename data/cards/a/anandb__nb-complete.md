@@ -44,13 +44,13 @@ BeanBot 是一个 NetBeans 插件，通过 Agent Client Protocol（JSON-RPC over
 
 ```mermaid
 xychart-beta
-    title "anandb/nb-complete 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-15", "2026-11-19"]
+    title "anandb/nb-complete 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-15", "2026-11-19", "2026-11-20"]
     y-axis "stars" 24 --> 29
-    line [25, 26, 27, 28]
+    line [25, 26, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-19 28（+3）
+2026-10-18 25 → 2026-11-20 28（+3）
 
 
 ---

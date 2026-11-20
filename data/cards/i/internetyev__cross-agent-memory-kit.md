@@ -41,6 +41,18 @@
 > L17: 1. **`mcp-memory-service`** running locally as a stdio MCP server. SQLite-vec storage. Persists facts, decisions, c
 > L19: 3. A **post-session distillation hook** that, after each Claude Code session, sends the transcript to a chosen LLM 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "internetyev/cross-agent-memory-kit 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `550bd3a8ca38` · [字段定义](../../DATASET.md)*

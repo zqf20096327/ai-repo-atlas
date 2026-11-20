@@ -1,6 +1,6 @@
 # TadMSTR/searxng-mcp
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TadMSTR/searxng-mcp) · [官网](https://www.npmjs.com/package/@tadmstr/searxng-mcp) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/TadMSTR/searxng-mcp) · [官网](https://www.npmjs.com/package/@tadmstr/searxng-mcp) · 个人维护
 
 **基于自托管 SearXNG 的私有网络搜索 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TadMSTR/searxng-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 23 --> 30
-    line [25, 24, 25, 26, 27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 23 --> 31
+    line [25, 24, 25, 26, 27, 28, 29, 30]
 ```
 
-2026-10-18 25 → 2026-11-19 29（+4）
+2026-10-18 25 → 2026-11-20 30（+5）
 
 
 ---

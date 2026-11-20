@@ -41,6 +41,18 @@
 > L7: 162 agent skills · 63 slash commands · 6 subagents · MCP templates. Written on React, Next.js, and Supabase projects
 > L71: A profile install is a merge: skills you installed earlier stay. Add `--prune` to remove this pack's skills that ar
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kensaurus/skills 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `de1e40903536` · [字段定义](../../DATASET.md)*

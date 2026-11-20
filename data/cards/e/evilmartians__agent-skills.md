@@ -1,6 +1,6 @@
 # evilmartians/agent-skills
 
-⭐ 65 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/evilmartians/agent-skills) · [官网](https://evilmartians.com/agent-skills) · 组织维护
+⭐ 66 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/evilmartians/agent-skills) · [官网](https://evilmartians.com/agent-skills) · 组织维护
 
 **Evil Martians 出品的 AI 编程 agent 技能集合（6 个 SKILL.md）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "evilmartians/agent-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 48 --> 66
-    line [49, 50, 51, 49, 61, 64, 65, 65]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 48 --> 67
+    line [49, 50, 51, 49, 61, 64, 65, 66]
 ```
 
-2026-10-18 49 → 2026-11-19 65（+16）
+2026-10-18 49 → 2026-11-20 66（+17）
 
 
 ---

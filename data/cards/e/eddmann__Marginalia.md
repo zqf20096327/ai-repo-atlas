@@ -1,6 +1,6 @@
 # eddmann/Marginalia
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-03-25 · [GitHub](https://github.com/eddmann/Marginalia) · 个人维护
+⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-03-25 · [GitHub](https://github.com/eddmann/Marginalia) · 个人维护
 
 **给读书人的桌面电子书阅读器：划选即可与 AI 对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eddmann/Marginalia 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-25 10 → 2026-11-19 11（+1）
+2026-10-25 10 → 2026-11-20 12（+2）
 
 
 ---

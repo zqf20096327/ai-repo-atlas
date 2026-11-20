@@ -45,12 +45,12 @@ GitHub Action，供用户在 CI 工作流中向 GitHub Models 发送提示词并
 ```mermaid
 xychart-beta
     title "v-fidelusaleksander/prompt-action 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-19 13（+1）
+2026-10-18 12 → 2026-11-20 13（+1）
 
 
 ---

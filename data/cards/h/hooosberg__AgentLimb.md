@@ -1,6 +1,6 @@
 # hooosberg/AgentLimb
 
-⭐ 81 · JavaScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/hooosberg/AgentLimb) · [官网](https://hooosberg.com/apps/agentlimb/) · 个人维护 · 中文 README
+⭐ 80 · JavaScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/hooosberg/AgentLimb) · [官网](https://hooosberg.com/apps/agentlimb/) · 个人维护 · 中文 README
 
 **让任意 MCP AI agent 操控本机 Chrome 的浏览器控制扩展**
 
@@ -45,13 +45,13 @@ Chrome 扩展加本地 MCP host 的组合：MCP 客户端经 stdio 连接本地 
 
 ```mermaid
 xychart-beta
-    title "hooosberg/AgentLimb 星数(近 15 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    title "hooosberg/AgentLimb 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 53 --> 83
-    line [55, 57, 56, 57, 58, 56, 64, 67, 68, 69, 71, 75, 77, 78, 81]
+    line [55, 57, 56, 57, 58, 56, 64, 67, 68, 69, 71, 75, 77, 78, 81, 80]
 ```
 
-2026-10-18 55 → 2026-11-19 81（+26）
+2026-10-18 55 → 2026-11-20 80（+25）
 
 
 ---

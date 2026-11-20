@@ -1,6 +1,6 @@
 # OceanOver/Tomechat
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/OceanOver/Tomechat) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/OceanOver/Tomechat) · 个人维护 · 中文 README
 
 **基于 LangChain 与远程 LLM API 的 RAG 知识库聊天应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OceanOver/Tomechat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
     y-axis "stars" 21 --> 25
     line [24, 22, 22]
 ```
 
-2026-10-18 24 → 2026-11-19 22（-2）
+2026-10-18 24 → 2026-11-20 22（-2）
 
 
 ---

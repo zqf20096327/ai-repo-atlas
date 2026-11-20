@@ -1,6 +1,6 @@
 # ajaykuma/GenAI_GCP_HF_OpenAI_Databricks
 
-⭐ 16 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/ajaykuma/GenAI_GCP_HF_OpenAI_Databricks) · 个人维护
+⭐ 17 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/ajaykuma/GenAI_GCP_HF_OpenAI_Databricks) · 个人维护
 
 **个人 GenAI 学习笔记与代码示例仓库（GCP/Databricks/HF/OpenAI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ajaykuma/GenAI_GCP_HF_OpenAI_Databricks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-19 16（+1）
+2026-10-18 15 → 2026-11-20 17（+2）
 
 
 ---

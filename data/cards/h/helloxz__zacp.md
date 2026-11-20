@@ -1,6 +1,6 @@
 # helloxz/zacp
 
-⭐ 123 · Go · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/helloxz/zacp) · [官网](https://note.xiaoz.top/doc/zacp) · 个人维护 · 中文 README
+⭐ 124 · Go · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/helloxz/zacp) · [官网](https://note.xiaoz.top/doc/zacp) · 个人维护 · 中文 README
 
 **基于 ACP 协议的多 Agent Web 网关，浏览器使用 CLI Agent**
 
@@ -45,12 +45,12 @@ Zacp 是用 Go（Gin + acp-go-sdk + SQLite）与 Vue 3 构建的 Web 网关，�
 ```mermaid
 xychart-beta
     title "helloxz/zacp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 120 --> 124
-    line [121, 122, 121, 122, 123, 123]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 120 --> 125
+    line [121, 122, 121, 122, 123, 124]
 ```
 
-2026-10-18 121 → 2026-11-19 123（+2）
+2026-10-18 121 → 2026-11-20 124（+3）
 
 
 ---

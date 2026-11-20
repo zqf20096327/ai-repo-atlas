@@ -1,6 +1,6 @@
 # stellar-experimental/stellar-raven
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/stellar-experimental/stellar-raven) · [官网](https://raven.stellar.org) · 组织维护
+⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stellar-experimental/stellar-raven) · [官网](https://raven.stellar.org) · 组织维护
 
 **面向 AI agent 的 Stellar 生态远程 MCP 服务器（文档与数据网关）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stellar-experimental/stellar-raven 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20"]
     y-axis "stars" 10 --> 18
     line [11, 12, 13, 14, 13, 15, 16, 17, 17]
 ```
 
-2026-10-18 11 → 2026-11-19 17（+6）
+2026-10-18 11 → 2026-11-20 17（+6）
 
 
 ---

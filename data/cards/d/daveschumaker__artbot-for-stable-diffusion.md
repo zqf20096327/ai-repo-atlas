@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "daveschumaker/artbot-for-stable-diffusion 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-19"]
+    x-axis ["2026-11-12", "2026-11-20"]
     y-axis "stars" 186 --> 188
     line [187, 187]
 ```
 
-2026-11-12 187 → 2026-11-19 187（+0）
+2026-11-12 187 → 2026-11-20 187（+0）
 
 
 ---

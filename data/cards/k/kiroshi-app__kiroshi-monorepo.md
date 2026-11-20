@@ -1,6 +1,6 @@
 # kiroshi-app/kiroshi-monorepo
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kiroshi-app/kiroshi-monorepo) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/kiroshi-app/kiroshi-monorepo) · 个人维护
 
 **给 Claude Code 用户的桌面多 Agent 编队应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kiroshi-app/kiroshi-monorepo 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
+    title "kiroshi-app/kiroshi-monorepo 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 9 --> 15
-    line [10, 13, 14]
+    line [10, 13, 14, 14]
 ```
 
-2026-11-02 10 → 2026-11-19 14（+4）
+2026-11-02 10 → 2026-11-20 14（+4）
 
 
 ---

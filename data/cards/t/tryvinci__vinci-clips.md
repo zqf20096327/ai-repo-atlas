@@ -1,6 +1,6 @@
 # tryvinci/vinci-clips
 
-⭐ 163 · TypeScript · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/tryvinci/vinci-clips) · [官网](https://tryvinci.com/clips) · 组织维护
+⭐ 164 · TypeScript · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/tryvinci/vinci-clips) · [官网](https://tryvinci.com/clips) · 组织维护
 
 **开源 AI 视频剪辑平台：长视频自动转社交媒体短视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tryvinci/vinci-clips 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 155 --> 164
-    line [156, 157, 158, 156, 158, 159, 161, 163, 163]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 155 --> 165
+    line [156, 157, 158, 156, 158, 159, 161, 163, 164]
 ```
 
-2026-10-18 156 → 2026-11-19 163（+7）
+2026-10-18 156 → 2026-11-20 164（+8）
 
 
 ---

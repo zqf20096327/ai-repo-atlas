@@ -41,6 +41,18 @@
 > L4: 输入政策文本，分别生成意图与要点、政策空缺、积极影响、消极影响与风险四部分报告。
 > L12: - 三个分析 Agent 并发执行，汇总为固定结构的 Markdown 报告。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "guangxiangdebizi/PolicyAgents 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `05cd491d9ff8` · [字段定义](../../DATASET.md)*

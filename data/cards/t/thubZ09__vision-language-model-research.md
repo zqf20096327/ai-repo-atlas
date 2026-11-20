@@ -1,6 +1,6 @@
 # thubZ09/vision-language-model-research
 
-⭐ 67 · MIT · 推送 2026-03-24 · [GitHub](https://github.com/thubZ09/vision-language-model-research) · 个人维护
+⭐ 66 · MIT · 推送 2026-03-24 · [GitHub](https://github.com/thubZ09/vision-language-model-research) · 个人维护
 
 **视觉-语言模型研究资源清单：模型、数据集、基准与工具聚合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "thubZ09/vision-language-model-research 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 64 --> 68
-    line [65, 66, 67, 66, 67, 67]
+    line [65, 66, 67, 66, 67, 66]
 ```
 
-2026-10-18 65 → 2026-11-19 67（+2）
+2026-10-18 65 → 2026-11-20 66（+1）
 
 
 ---

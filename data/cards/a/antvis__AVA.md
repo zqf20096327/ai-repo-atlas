@@ -1,6 +1,6 @@
 # antvis/AVA
 
-⭐ 1,663 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/antvis/AVA) · [官网](https://ava.antv.vision) · 组织维护 · 中文 README
+⭐ 1,666 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/antvis/AVA) · [官网](https://ava.antv.vision) · 组织维护 · 中文 README
 
 **面向 Agent 的 JavaScript 自然语言数据分析与可视化框架**
 
@@ -45,13 +45,13 @@ AntV 维护的 TypeScript/Node.js 框架，README 自称 "JavaScript 版 PandasA
 
 ```mermaid
 xychart-beta
-    title "antvis/AVA 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 1607 --> 1668
-    line [1612, 1616, 1623, 1628, 1632, 1633, 1637, 1659, 1663]
+    title "antvis/AVA 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 1607 --> 1671
+    line [1612, 1616, 1623, 1628, 1632, 1633, 1637, 1659, 1663, 1666]
 ```
 
-2026-11-08 1,612 → 2026-11-19 1,663（+51）
+2026-11-08 1,612 → 2026-11-20 1,666（+54）
 
 
 ---

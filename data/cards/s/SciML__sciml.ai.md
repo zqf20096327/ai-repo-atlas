@@ -1,6 +1,6 @@
 # SciML/sciml.ai
 
-⭐ 76 · CSS · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SciML/sciml.ai) · [官网](https://sciml.ai/) · 组织维护
+⭐ 76 · CSS · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SciML/sciml.ai) · [官网](https://sciml.ai/) · 组织维护
 
 **SciML 科学机器学习组织的官网，展示生态内各软件包与动态**
 
@@ -43,12 +43,12 @@ SciML 开源组织的展示型网站：用于展示组织内各软件包并发�
 ```mermaid
 xychart-beta
     title "SciML/sciml.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-11-19 76（+0）
+2026-10-18 76 → 2026-11-20 76（+0）
 
 
 ---

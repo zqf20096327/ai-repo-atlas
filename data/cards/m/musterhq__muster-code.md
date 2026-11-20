@@ -1,6 +1,6 @@
 # musterhq/muster-code
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/musterhq/muster-code) · [官网](https://themuster.dev) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/musterhq/muster-code) · [官网](https://themuster.dev) · 组织维护
 
 **带长期记忆的 AI 编码 Agent 桌面客户端，聚合多家代理与模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "musterhq/muster-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 4 --> 11
-    line [5, 10, 10]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 4 --> 12
+    line [5, 10, 11]
 ```
 
-2026-10-18 5 → 2026-11-19 10（+5）
+2026-10-18 5 → 2026-11-20 11（+6）
 
 
 ---

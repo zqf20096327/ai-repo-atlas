@@ -1,6 +1,6 @@
 # TissueImageAnalytics/tiatoolbox
 
-⭐ 569 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/TissueImageAnalytics/tiatoolbox) · [官网](https://warwick.ac.uk/tia) · 组织维护
+⭐ 568 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/TissueImageAnalytics/tiatoolbox) · [官网](https://warwick.ac.uk/tia) · 组织维护
 
 **计算病理学图像分析工具箱：病理切片的端到端处理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TissueImageAnalytics/tiatoolbox 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
     y-axis "stars" 559 --> 570
-    line [560, 561, 565, 568, 569, 569]
+    line [560, 561, 565, 568, 569, 568]
 ```
 
-2026-10-18 560 → 2026-11-19 569（+9）
+2026-10-18 560 → 2026-11-20 568（+8）
 
 
 ---

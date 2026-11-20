@@ -1,6 +1,6 @@
 # hihumanzone/Gemini-Discord-Bot
 
-⭐ 105 · JavaScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/hihumanzone/Gemini-Discord-Bot) · 个人维护
+⭐ 106 · JavaScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/hihumanzone/Gemini-Discord-Bot) · 个人维护
 
 **基于 Google Gemini 的多模态 AI Discord 机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hihumanzone/Gemini-Discord-Bot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 101 --> 106
-    line [102, 103, 104, 105, 105]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 101 --> 107
+    line [102, 103, 104, 105, 106]
 ```
 
-2026-10-18 102 → 2026-11-19 105（+3）
+2026-10-18 102 → 2026-11-20 106（+4）
 
 
 ---

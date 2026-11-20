@@ -1,6 +1,6 @@
 # Intradyne/AnyLoom-AnythingLLM-Local-AI-agentic-DyTopo-swarm
 
-⭐ 11 · Python · MIT · 推送 2026-02-21 · [GitHub](https://github.com/Intradyne/AnyLoom-AnythingLLM-Local-AI-agentic-DyTopo-swarm) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-02-21 · [GitHub](https://github.com/Intradyne/AnyLoom-AnythingLLM-Local-AI-agentic-DyTopo-swarm) · 个人维护
 
 **单 GPU 全本地运行的多 agent AI 助手栈：隐私问答与文档 RAG**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Intradyne/AnyLoom-AnythingLLM-Local-AI-agentic-DyTopo-swarm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 12（+2）
 
 
 ---

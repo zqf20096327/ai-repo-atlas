@@ -1,6 +1,6 @@
 # netresearch/github-project-skill
 
-⭐ 11 · Shell · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/netresearch/github-project-skill) · 组织维护
+⭐ 11 · Shell · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/netresearch/github-project-skill) · 组织维护
 
 **给 AI agent 用的 GitHub 仓库配置与平台功能技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "netresearch/github-project-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

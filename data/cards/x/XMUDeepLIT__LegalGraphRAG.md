@@ -1,6 +1,6 @@
 # XMUDeepLIT/LegalGraphRAG
 
-⭐ 73 · Python · 推送 2026-10-31 · [GitHub](https://github.com/XMUDeepLIT/LegalGraphRAG) · [官网](https://arxiv.org/abs/2605.28120) · 组织维护 · 中文 README
+⭐ 74 · Python · 推送 2026-10-31 · [GitHub](https://github.com/XMUDeepLIT/LegalGraphRAG) · [官网](https://arxiv.org/abs/2605.28120) · 组织维护 · 中文 README
 
 **法律判决预测的多智能体图 RAG 评测框架（论文官方代码）**
 
@@ -45,13 +45,13 @@ ACL'26 论文 LegalGraphRAG 的官方实现：面向法律推理的评测框架�
 
 ```mermaid
 xychart-beta
-    title "XMUDeepLIT/LegalGraphRAG 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 60 --> 74
-    line [61, 62, 64, 65, 66, 67, 64, 70, 71, 73]
+    title "XMUDeepLIT/LegalGraphRAG 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 60 --> 75
+    line [61, 62, 64, 65, 66, 67, 64, 70, 71, 73, 74]
 ```
 
-2026-10-18 61 → 2026-11-19 73（+12）
+2026-10-18 61 → 2026-11-20 74（+13）
 
 
 ---

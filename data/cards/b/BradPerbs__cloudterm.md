@@ -1,6 +1,6 @@
 # BradPerbs/cloudterm
 
-⭐ 71 · JavaScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/BradPerbs/cloudterm) · [官网](https://cloudblast.io/terminal) · 组织维护 · 中文 README
+⭐ 72 · JavaScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/BradPerbs/cloudterm) · [官网](https://cloudblast.io/terminal) · 组织维护 · 中文 README
 
 **集成 AI agent 的多协议终端：SSH/SFTP/Telnet/RDP 同窗**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BradPerbs/cloudterm 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-20"]
     y-axis "stars" 62 --> 73
-    line [63, 64, 66, 68, 69, 70, 71, 66, 71, 72, 71, 71]
+    line [63, 64, 66, 68, 69, 70, 71, 66, 71, 72, 71, 72]
 ```
 
-2026-10-18 63 → 2026-11-19 71（+8）
+2026-10-18 63 → 2026-11-20 72（+9）
 
 
 ---

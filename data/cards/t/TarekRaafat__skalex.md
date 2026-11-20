@@ -1,6 +1,6 @@
 # TarekRaafat/skalex
 
-⭐ 21 · JavaScript · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/TarekRaafat/skalex) · [官网](https://tarekraafat.github.io/skalex) · 个人维护
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/TarekRaafat/skalex) · [官网](https://tarekraafat.github.io/skalex) · 个人维护
 
 **零依赖 JavaScript 本地优先数据库，内置向量搜索与 agent 记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TarekRaafat/skalex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-19 21（+0）
+2026-10-18 21 → 2026-11-20 22（+1）
 
 
 ---

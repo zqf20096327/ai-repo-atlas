@@ -1,6 +1,6 @@
 # combust/mleap
 
-⭐ 1,545 · Scala · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/combust/mleap) · [官网](https://combust.github.io/mleap-docs/) · 组织维护
+⭐ 1,544 · Scala · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/combust/mleap) · [官网](https://combust.github.io/mleap-docs/) · 组织维护
 
 **把 Spark/Scikit-learn 训练的 ML 管道导出为可移植格式并在 JVM 上离线执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "combust/mleap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
-    y-axis "stars" 1544 --> 1547
-    line [1546, 1545, 1545]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
+    y-axis "stars" 1543 --> 1547
+    line [1546, 1545, 1544]
 ```
 
-2026-10-18 1,546 → 2026-11-19 1,545（-1）
+2026-10-18 1,546 → 2026-11-20 1,544（-2）
 
 
 ---

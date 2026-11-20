@@ -1,6 +1,6 @@
 # valohai/conduit
 
-⭐ 13 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/valohai/conduit) · [官网](https://docs.valohai.com/) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/valohai/conduit) · [官网](https://docs.valohai.com/) · 组织维护
 
 **本地 LLM API 代理：拦截调用并记录各供应商 token 用量与成本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "valohai/conduit 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-20"]
     y-axis "stars" 9 --> 14
     line [10, 13, 13]
 ```
 
-2026-11-08 10 → 2026-11-19 13（+3）
+2026-11-08 10 → 2026-11-20 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhanghang1989/PyTorch-Encoding
 
-⭐ 2,044 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/zhanghang1989/PyTorch-Encoding) · [官网](https://hangzhang.org/PyTorch-Encoding/) · 个人维护
+⭐ 2,043 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/zhanghang1989/PyTorch-Encoding) · [官网](https://hangzhang.org/PyTorch-Encoding/) · 个人维护
 
 **PyTorch 计算机视觉工具包：论文模型与同步 BatchNorm 等层**
 
@@ -45,12 +45,12 @@ Hang Zhang 维护的 PyTorch 扩展工具包，收录其系列论文的实现：
 ```mermaid
 xychart-beta
     title "zhanghang1989/PyTorch-Encoding 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 2043 --> 2046
-    line [2044, 2045, 2044, 2045, 2044, 2044]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 2042 --> 2046
+    line [2044, 2045, 2044, 2045, 2044, 2043]
 ```
 
-2026-10-18 2,044 → 2026-11-19 2,044（+0）
+2026-10-18 2,044 → 2026-11-20 2,043（-1）
 
 
 ---

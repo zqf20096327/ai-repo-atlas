@@ -1,6 +1,6 @@
 # yusong652/flac-mcp
 
-⭐ 42 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/yusong652/flac-mcp) · [官网](https://pypi.org/project/flac-mcp/) · 个人维护 · 中文 README
+⭐ 43 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/yusong652/flac-mcp) · [官网](https://pypi.org/project/flac-mcp/) · 个人维护 · 中文 README
 
 **连接 AI 代理与 ITASCA FLAC 的 MCP 服务器（已弃用冻结）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yusong652/flac-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 39 --> 43
-    line [40, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 39 --> 44
+    line [40, 41, 42, 43]
 ```
 
-2026-10-18 40 → 2026-11-19 42（+2）
+2026-10-18 40 → 2026-11-20 43（+3）
 
 
 ---

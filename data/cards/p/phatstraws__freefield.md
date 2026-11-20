@@ -46,13 +46,13 @@ FreeField 将 Higgsfield 式的一键视频特效做成开放文件：每个预�
 
 ```mermaid
 xychart-beta
-    title "phatstraws/freefield 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
+    title "phatstraws/freefield 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 10 --> 14
-    line [11, 13]
+    line [11, 13, 13]
 ```
 
-2026-11-16 11 → 2026-11-19 13（+2）
+2026-11-16 11 → 2026-11-20 13（+2）
 
 
 ---

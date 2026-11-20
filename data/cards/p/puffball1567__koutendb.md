@@ -1,6 +1,6 @@
 # puffball1567/koutendb
 
-⭐ 19 · Nim · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/puffball1567/koutendb) · [官网](https://puffball1567.github.io/koutendb/) · 个人维护
+⭐ 20 · Nim · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/puffball1567/koutendb) · [官网](https://puffball1567.github.io/koutendb/) · 个人维护
 
 **面向 RAG/AI 检索的局部性优先文档+向量数据库**
 
@@ -46,12 +46,12 @@ KoutenDB 是用 Nim 编写的嵌入式/自托管文档与向量数据库：应�
 ```mermaid
 xychart-beta
     title "puffball1567/koutendb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-19 19（+0）
+2026-10-18 19 → 2026-11-20 20（+1）
 
 
 ---

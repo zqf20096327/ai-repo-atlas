@@ -1,6 +1,6 @@
 # Derrors/iphone-control
 
-⭐ 44 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Derrors/iphone-control) · [官网](https://derrors.github.io/iphone-control/) · 个人维护 · 中文 README
+⭐ 45 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Derrors/iphone-control) · [官网](https://derrors.github.io/iphone-control/) · 个人维护 · 中文 README
 
 **让 AI 代理通过 MCP 操作真实 USB 连接的 iPhone/iPad**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Derrors/iphone-control 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 33 --> 45
-    line [34, 37, 39, 40, 41, 42, 44]
+    title "Derrors/iphone-control 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 33 --> 46
+    line [34, 37, 39, 40, 41, 42, 44, 45]
 ```
 
-2026-11-08 34 → 2026-11-19 44（+10）
+2026-11-08 34 → 2026-11-20 45（+11）
 
 
 ---

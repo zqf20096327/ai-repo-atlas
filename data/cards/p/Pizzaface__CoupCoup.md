@@ -1,6 +1,6 @@
 # Pizzaface/CoupCoup
 
-⭐ 18 · Python · 推送 2025-11-23 · [GitHub](https://github.com/Pizzaface/CoupCoup) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 驱动的超市优惠券自动匹配与购物路线规划工具**
 

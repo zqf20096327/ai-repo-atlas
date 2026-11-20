@@ -1,6 +1,6 @@
 # marvelefe/machinelearning101
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/marvelefe/machinelearning101) · [官网](https://machinelearning101.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **浏览器内交互式机器学习入门教学平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

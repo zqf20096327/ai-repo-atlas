@@ -1,6 +1,6 @@
 # cofin/litestar-mcp
 
-⭐ 13 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/cofin/litestar-mcp) · [官网](https://cofin.github.io/litestar-mcp/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cofin/litestar-mcp) · [官网](https://cofin.github.io/litestar-mcp/) · 个人维护
 
 **把 Litestar 路由暴露为 MCP 工具/资源/提示词的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cofin/litestar-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 13（+0）
 
 
 ---

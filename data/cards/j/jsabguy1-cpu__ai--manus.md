@@ -1,10 +1,10 @@
 # jsabguy1-cpu/ai--manus
 
-⭐ 199 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/jsabguy1-cpu/ai--manus) · 个人维护
+⭐ 198 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jsabguy1-cpu/ai--manus) · 个人维护
 
-**面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
+**自主 AI Agent 助手：代用户运行代码并控制浏览器完成任务**
 
-一个自主运行 AI Agent 系统的描述页：Agent 可自动执行代码、控制浏览器导航网页、填写表单、收集信息，并处理多步骤任务，定位为面向家庭、学习与轻量办公的个人助手场景。README 提供最低软硬件要求表（64 位系统、双核 CPU、4 GB 内存）与六步使用流程说明，但页面未给出实际的下载链接、安装命令或源码入口，仅有推广码文字。
+README 将其描述为通用自主 AI Agent，可代替用户编写并执行脚本、导航网页、填写表单、收集信息并执行多步任务。定位为面向家庭、学习与轻度办公场景的个人助手，跨会话记忆工作模式。README 未提供安装命令、源码构建说明或具体依赖配置，仅给出最低/推荐硬件兼容性表（64 位系统、双核 CPU、4 GB 内存）与 6 步启动流程（准备/配置/测试/调整/应用/维护）。
 
 ## 筛选速览
 
@@ -20,15 +20,17 @@
 
 ## 能力要点
 
-- 自主执行代码与控制浏览器完成多步骤任务
-- 跨会话保持任务模式并重复应用
-- 标注最低硬件要求（双核 CPU、4 GB 内存）
+- 自主代码执行：Agent 自行运行脚本完成任务
+- 浏览器控制：导航网站、填写表单、收集信息
+- 多步自主任务与跨会话模式记忆
+- 提供最低/推荐硬件兼容性表
 
 ## 适用场景
 
-- 让学生代为整理研究笔记和运行快速计算
-- 让 Agent 从多个网页收集数据并汇总
-- 把重复的文件检查和页面核对交给后台运行
+- 让 Agent 代为收集多个网页的资料并汇总
+- 自动执行整理文件、检查页面等重复性事务
+- 学习研究时整理参考文献与运行小脚本
+- 轻量办公场景中从多个标签页汇总信息
 
 ## 场景标签
 
@@ -37,21 +39,20 @@
 ## 证据(README 行号)
 
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
-> L37: |Component|Minimum|Recommended|
-> L45: ## Starting with Manus
+> L41: |**Memory (RAM)**|4 GB|8 GB or more for heavy Manus autonomous tasks|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "jsabguy1-cpu/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 130 --> 283
-    line [142, 271, 199, 199]
+    line [142, 271, 199, 198]
 ```
 
-2026-11-13 142 → 2026-11-19 199（+57）
+2026-11-13 142 → 2026-11-20 198（+56）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `c06c32a8c955` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `19fda3aae8b8` · [字段定义](../../DATASET.md)*

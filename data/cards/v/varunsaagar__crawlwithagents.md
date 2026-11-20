@@ -1,6 +1,6 @@
 # varunsaagar/crawlwithagents
 
-⭐ 18 · Python · 推送 2026-11-18 · [GitHub](https://github.com/varunsaagar/crawlwithagents) · 个人维护
+⭐ 18 · Python · 推送 2026-11-19 · [GitHub](https://github.com/varunsaagar/crawlwithagents) · 个人维护
 
 **用 Ollama+Crawl4AI 从网页抽取并分析元数据的工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "varunsaagar/crawlwithagents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-19 18（+0）
+2026-10-18 18 → 2026-11-20 18（+0）
 
 
 ---

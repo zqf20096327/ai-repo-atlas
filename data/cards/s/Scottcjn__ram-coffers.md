@@ -1,6 +1,6 @@
 # Scottcjn/ram-coffers
 
-⭐ 172 · Python · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/Scottcjn/ram-coffers) · [官网](https://rustchain.org) · 个人维护
+⭐ 170 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Scottcjn/ram-coffers) · [官网](https://rustchain.org) · 个人维护
 
 **基于 NUMA 内存分柜的 LLM 推理优化架构，面向自托管旧硬件**
 
@@ -46,12 +46,12 @@ RAM Coffers 是一套 C 头文件形式的 NUMA 感知条件内存架构：将�
 ```mermaid
 xychart-beta
     title "Scottcjn/ram-coffers 星数(近 6 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-01", "2026-11-10", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 170 --> 175
-    line [171, 172, 173, 174, 172, 172]
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-01", "2026-11-10", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 169 --> 175
+    line [171, 172, 173, 174, 172, 170]
 ```
 
-2026-10-29 171 → 2026-11-19 172（+1）
+2026-10-29 171 → 2026-11-20 170（-1）
 
 
 ---

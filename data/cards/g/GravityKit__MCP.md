@@ -1,6 +1,6 @@
 # GravityKit/MCP
 
-⭐ 24 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/GravityKit/MCP) · [官网](https://www.gravitykit.com/mcp/) · 组织维护
+⭐ 25 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/GravityKit/MCP) · [官网](https://www.gravitykit.com/mcp/) · 组织维护
 
 **MCP 服务器：让 AI 客户端操作 WordPress Gravity Forms 表单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GravityKit/MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-11-19 24（+0）
+2026-10-18 24 → 2026-11-20 25（+1）
 
 
 ---

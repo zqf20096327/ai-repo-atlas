@@ -1,6 +1,6 @@
 # Flow-Research/learn
 
-⭐ 12 · Python · 推送 2026-07-29 · [GitHub](https://github.com/Flow-Research/learn) · [官网](https://learn.flowresearch.tech) · 组织维护
+⭐ 13 · Python · 推送 2026-07-29 · [GitHub](https://github.com/Flow-Research/learn) · [官网](https://learn.flowresearch.tech) · 组织维护
 
 **面向工程师的 Flow Research 学习与知识库资源仓库**
 
@@ -45,12 +45,12 @@ Flow Research 维护的教育资源仓库，服务希望参与其产品（面向
 ```mermaid
 xychart-beta
     title "Flow-Research/learn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-19 12（+0）
+2026-10-18 12 → 2026-11-20 13（+1）
 
 
 ---

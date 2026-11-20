@@ -1,6 +1,6 @@
 # ZhiningLiu1998/awesome-imbalanced-learning
 
-⭐ 1,532 · CC0-1.0 · 推送 2026-06-09 · [GitHub](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) · 个人维护 · 中文 README
+⭐ 1,531 · CC0-1.0 · 推送 2026-06-09 · [GitHub](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) · 个人维护 · 中文 README
 
 **类别不平衡/长尾学习领域的论文、代码与库的策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZhiningLiu1998/awesome-imbalanced-learning 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 1528 --> 1533
-    line [1529, 1530, 1529, 1531, 1532, 1532]
+    line [1529, 1530, 1529, 1531, 1532, 1531]
 ```
 
-2026-10-18 1,529 → 2026-11-19 1,532（+3）
+2026-10-18 1,529 → 2026-11-20 1,531（+2）
 
 
 ---

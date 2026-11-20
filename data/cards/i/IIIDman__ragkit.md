@@ -1,6 +1,6 @@
 # IIIDman/ragkit
 
-⭐ 34 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/IIIDman/ragkit) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/IIIDman/ragkit) · 个人维护
 
 **本地优先的轻量级 RAG 框架，构建文档问答应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IIIDman/ragkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 31 --> 35
+    line [34, 32]
 ```
 
-2026-10-18 34 → 2026-11-19 34（+0）
+2026-10-18 34 → 2026-11-20 32（-2）
 
 
 ---

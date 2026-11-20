@@ -1,6 +1,6 @@
 # doyle-lab-ucla/auto-qchem
 
-⭐ 133 · Python · GPL-3.0 · 推送 2026-01-14 · [GitHub](https://github.com/doyle-lab-ucla/auto-qchem) · [官网](https://doyle-lab-ucla.github.io/auto-qchem/) · 组织维护
+⭐ 134 · Python · GPL-3.0 · 推送 2026-01-14 · [GitHub](https://github.com/doyle-lab-ucla/auto-qchem) · [官网](https://doyle-lab-ucla.github.io/auto-qchem/) · 组织维护
 
 **有机分子 DFT 计算自动化生成与存储的工作流**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "doyle-lab-ucla/auto-qchem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 132 --> 134
-    line [133, 133]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 132 --> 135
+    line [133, 134]
 ```
 
-2026-10-18 133 → 2026-11-19 133（+0）
+2026-10-18 133 → 2026-11-20 134（+1）
 
 
 ---

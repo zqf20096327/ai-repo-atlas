@@ -1,6 +1,6 @@
 # SilkePilon/KnowledgeBook
 
-⭐ 58 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/SilkePilon/KnowledgeBook) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/SilkePilon/KnowledgeBook) · 个人维护
 
 **Minecraft 机器人管理平台：用 Web 界面和节点流创建控制机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SilkePilon/KnowledgeBook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
     y-axis "stars" 56 --> 59
-    line [57, 58, 58]
+    line [57, 58, 57]
 ```
 
-2026-10-18 57 → 2026-11-19 58（+1）
+2026-10-18 57 → 2026-11-20 57（+0）
 
 
 ---

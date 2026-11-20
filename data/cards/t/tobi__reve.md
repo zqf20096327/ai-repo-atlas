@@ -1,6 +1,6 @@
 # tobi/reve
 
-⭐ 11 · Rust · MIT · 推送 2026-08-22 · [GitHub](https://github.com/tobi/reve) · [官网](https://github.com/tobi/reve) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-08-22 · [GitHub](https://github.com/tobi/reve) · [官网](https://github.com/tobi/reve) · 个人维护
 
 **以目录为载体的 Ruby/Rust 编码代理，命令强制运行在 microVM 沙箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tobi/reve 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vlwkaos/ir
 
-⭐ 81 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vlwkaos/ir) · 个人维护 · 中文 README
+⭐ 81 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/vlwkaos/ir) · 个人维护 · 中文 README
 
 **本地 Markdown 知识库语义搜索引擎，支持 CJK 分词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vlwkaos/ir 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-20"]
     y-axis "stars" 80 --> 83
     line [81, 82, 81, 81]
 ```
 
-2026-10-18 81 → 2026-11-19 81（+0）
+2026-10-18 81 → 2026-11-20 81（+0）
 
 
 ---

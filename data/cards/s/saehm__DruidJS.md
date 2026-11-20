@@ -40,6 +40,18 @@
 > L3: Project high-dimensional data down to two or three dimensions while preserving the structure each method is designed
 > L4: DruidJS gives you 20 dimensionality reduction methods, 7 nearest-neighbor indices and 7 clustering algorithms behind
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "saehm/DruidJS 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 126 --> 128
+    line [127, 127]
+```
+
+2026-11-19 127 → 2026-11-20 127（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `261ae16a2dd7` · [字段定义](../../DATASET.md)*

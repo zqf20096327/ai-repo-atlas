@@ -1,6 +1,6 @@
 # kamjin3086/chatless
 
-⭐ 309 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kamjin3086/chatless) · [官网](https://kamjin3086.github.io/chatless) · 个人维护 · 中文 README
+⭐ 311 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/kamjin3086/chatless) · [官网](https://kamjin3086.github.io/chatless) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 聊天客户端，数据全存本地**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kamjin3086/chatless 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 300 --> 310
-    line [301, 303, 305, 306, 308, 309, 309]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 300 --> 312
+    line [301, 303, 305, 306, 308, 309, 311]
 ```
 
-2026-10-18 301 → 2026-11-19 309（+8）
+2026-10-18 301 → 2026-11-20 311（+10）
 
 
 ---

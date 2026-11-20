@@ -46,12 +46,12 @@ GitHub, Inc. 发布的桌面应用，面向使用 GitHub Copilot 的开发者，
 ```mermaid
 xychart-beta
     title "smartrouteknife/GitHub-Copilot-app 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 47 --> 98
     line [94, 51, 51]
 ```
 
-2026-11-14 94 → 2026-11-19 51（-43）
+2026-11-14 94 → 2026-11-20 51（-43）
 
 
 ---

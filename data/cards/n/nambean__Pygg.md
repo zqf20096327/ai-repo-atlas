@@ -1,6 +1,6 @@
 # nambean/Pygg
 
-⭐ 11 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/nambean/Pygg) · [官网](http://inviv.vn) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/nambean/Pygg) · [官网](http://inviv.vn) · 个人维护
 
 **为编程 agent 提供本地网关：路由多模型并记录请求成本**
 
@@ -40,6 +40,18 @@
 > L19: Pygg runs on your computer. Connect your providers once (API keys, coding plans, a local Ollama, even an AI website
 > L48: 1. **Gateway.** The agent calls `127.0.0.1:8741` with its own Pygg API key, in OpenAI Chat Completions, OpenAI Resp
 > L147: - **One Rust crate** (Tauri 2): the gateway (axum), the SQLite store, the OS credential store, web-session windows
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nambean/Pygg 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-19 11 → 2026-11-20 11（+0）
 
 
 ---

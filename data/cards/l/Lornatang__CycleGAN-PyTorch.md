@@ -39,6 +39,18 @@
 > L5: This repository contains an op-for-op PyTorch reimplementation of Unpaired Image-to-Image Translation using Cycle-Co
 > L24: python3 train.py --config_path ./configs/CYCLEGAN.yaml
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lornatang/CycleGAN-PyTorch 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 166 --> 168
+    line [167, 167]
+```
+
+2026-11-19 167 → 2026-11-20 167（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `9c6da07d0c84` · [字段定义](../../DATASET.md)*

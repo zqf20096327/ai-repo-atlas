@@ -1,6 +1,6 @@
 # VincentAuriau/Tennis-Prediction
 
-⭐ 74 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/VincentAuriau/Tennis-Prediction) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/VincentAuriau/Tennis-Prediction) · 个人维护
 
 **用机器学习预测网球比赛胜负的项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VincentAuriau/Tennis-Prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 71 --> 75
+    line [74, 72]
 ```
 
-2026-10-18 74 → 2026-11-19 74（+0）
+2026-10-18 74 → 2026-11-20 72（-2）
 
 
 ---

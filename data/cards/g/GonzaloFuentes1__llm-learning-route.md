@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GonzaloFuentes1/llm-learning-route 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-19"]
+    x-axis ["2026-10-23", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-19 11（+0）
+2026-10-23 11 → 2026-11-20 11（+0）
 
 
 ---

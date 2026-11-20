@@ -43,12 +43,12 @@ Kartograph 定位为企业级属性图平台，主题为解锁机构知识、以
 ```mermaid
 xychart-beta
     title "openshift-hyperfleet/kartograph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

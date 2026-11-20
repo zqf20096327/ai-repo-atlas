@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ungaaaabungaaa/predictive-maintenance 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-19"]
+    x-axis ["2026-10-28", "2026-11-20"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-28 18 → 2026-11-19 18（+0）
+2026-10-28 18 → 2026-11-20 18（+0）
 
 
 ---

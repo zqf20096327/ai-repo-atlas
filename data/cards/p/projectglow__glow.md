@@ -1,6 +1,6 @@
 # projectglow/glow
 
-⭐ 311 · Scala · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/projectglow/glow) · [官网](https://projectglow.io) · 组织维护
+⭐ 310 · Scala · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/projectglow/glow) · [官网](https://projectglow.io) · 组织维护
 
 **面向生物银行规模的基因组学分析开源工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "projectglow/glow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
     y-axis "stars" 308 --> 312
-    line [309, 310, 309, 310, 311, 311]
+    line [309, 310, 309, 310, 311, 310]
 ```
 
-2026-10-18 309 → 2026-11-19 311（+2）
+2026-10-18 309 → 2026-11-20 310（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NicoKhaghani/nexus-ai-sdk
 
-⭐ 110 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/NicoKhaghani/nexus-ai-sdk) · 个人维护
+⭐ 96 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/NicoKhaghani/nexus-ai-sdk) · 个人维护
 
 **TypeScript 的 Quest 式 AI 执行编排运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NicoKhaghani/nexus-ai-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 109 --> 119
-    line [118, 113, 110, 110]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 94 --> 120
+    line [118, 113, 110, 96]
 ```
 
-2026-10-18 118 → 2026-11-19 110（-8）
+2026-10-18 118 → 2026-11-20 96（-22）
 
 
 ---

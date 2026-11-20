@@ -1,6 +1,6 @@
 # codemistake/human-writing
 
-⭐ 17 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/codemistake/human-writing) · [官网](https://apexs.tech) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/codemistake/human-writing) · [官网](https://apexs.tech) · 个人维护 · 中文 README
 
 **面向 AI agent 的俄语优先写作技能，去除 chatbot 腔与官腔**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "codemistake/human-writing 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 3 --> 18
-    line [4, 11, 12, 13, 14, 15, 16, 17]
+    title "codemistake/human-writing 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 3 --> 21
+    line [4, 11, 12, 13, 14, 15, 16, 17, 20]
 ```
 
-2026-10-18 4 → 2026-11-19 17（+13）
+2026-10-18 4 → 2026-11-20 20（+16）
 
 
 ---

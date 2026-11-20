@@ -1,6 +1,6 @@
 # WyrmClimberManacle/Gemini-Config-Checker-
 
-⭐ 473 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-) · 个人维护
+⭐ 472 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-) · 个人维护
 
 **扫描代理配置能否进入 Google AI Studio 与 Gemini 的桌面/CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WyrmClimberManacle/Gemini-Config-Checker- 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 472 --> 476
-    line [475, 473, 473]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 471 --> 476
+    line [475, 473, 472]
 ```
 
-2026-11-15 475 → 2026-11-19 473（-2）
+2026-11-15 475 → 2026-11-20 472（-3）
 
 
 ---

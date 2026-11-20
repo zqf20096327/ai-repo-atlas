@@ -1,6 +1,6 @@
 # jamescazzetta/moire
 
-⭐ 11 · Shell · MIT · 推送 2026-08-25 · [GitHub](https://github.com/jamescazzetta/moire) · 个人维护
+⭐ 10 · Shell · MIT · 推送 2026-08-25 · [GitHub](https://github.com/jamescazzetta/moire) · 个人维护
 
 **检测并行 AI 编程 agent 间未提交工作冲突的 git 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jamescazzetta/moire 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 10 --> 17
-    line [16, 15, 12, 11, 11]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 9 --> 17
+    line [16, 15, 12, 11, 10]
 ```
 
-2026-10-18 16 → 2026-11-19 11（-5）
+2026-10-18 16 → 2026-11-20 10（-6）
 
 
 ---

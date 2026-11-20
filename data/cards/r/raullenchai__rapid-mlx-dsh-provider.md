@@ -1,6 +1,6 @@
 # raullenchai/rapid-mlx-dsh-provider
 
-⭐ 70 · JavaScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/raullenchai/rapid-mlx-dsh-provider) · [官网](https://github.com/raullenchai/Rapid-MLX) · 个人维护
+⭐ 69 · JavaScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/raullenchai/rapid-mlx-dsh-provider) · [官网](https://github.com/raullenchai/Rapid-MLX) · 个人维护
 
 **DeepSeek Harness 的 Rapid-MLX 原生 provider 插件**
 
@@ -46,12 +46,12 @@ npm 发布的 dsh 插件，为 DeepSeek Harness 注册原生 rapid-mlx provider�
 ```mermaid
 xychart-beta
     title "raullenchai/rapid-mlx-dsh-provider 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 68 --> 71
+    line [70, 69]
 ```
 
-2026-10-18 70 → 2026-11-19 70（+0）
+2026-10-18 70 → 2026-11-20 69（-1）
 
 
 ---

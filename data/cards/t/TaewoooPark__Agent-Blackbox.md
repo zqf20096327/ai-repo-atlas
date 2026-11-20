@@ -1,6 +1,6 @@
 # TaewoooPark/Agent-Blackbox
 
-⭐ 84 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/TaewoooPark/Agent-Blackbox) · [官网](https://www.npmjs.com/package/@taewooopark/agent-blackbox) · 个人维护 · 中文 README
+⭐ 85 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/TaewoooPark/Agent-Blackbox) · [官网](https://www.npmjs.com/package/@taewooopark/agent-blackbox) · 个人维护 · 中文 README
 
 **编程 agent 的本地飞行记录器：回放运行图并评分上下文开销**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TaewoooPark/Agent-Blackbox 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 77 --> 85
-    line [78, 79, 80, 81, 79, 83, 84, 84]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 77 --> 86
+    line [78, 79, 80, 81, 79, 83, 84, 85]
 ```
 
-2026-10-18 78 → 2026-11-19 84（+6）
+2026-10-18 78 → 2026-11-20 85（+7）
 
 
 ---

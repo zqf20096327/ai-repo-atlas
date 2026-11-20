@@ -1,6 +1,6 @@
 # cdslaborg/paramonte
 
-⭐ 308 · Fortran · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/cdslaborg/paramonte) · [官网](https://www.cdslab.org/paramonte) · 组织维护
+⭐ 307 · Fortran · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/cdslaborg/paramonte) · [官网](https://www.cdslab.org/paramonte) · 组织维护
 
 **多语言串行/并行 Monte Carlo 采样与机器学习科学推断库**
 
@@ -45,12 +45,12 @@ ParaMonte 是面向科学推断的 Monte Carlo 采样与机器学习库，提供
 ```mermaid
 xychart-beta
     title "cdslaborg/paramonte 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 306 --> 309
-    line [307, 308, 308]
+    line [307, 308, 307]
 ```
 
-2026-10-18 307 → 2026-11-19 308（+1）
+2026-10-18 307 → 2026-11-20 307（+0）
 
 
 ---

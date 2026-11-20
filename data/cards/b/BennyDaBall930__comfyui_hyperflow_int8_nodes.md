@@ -1,6 +1,6 @@
 # BennyDaBall930/comfyui_hyperflow_int8_nodes
 
-⭐ 17 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/BennyDaBall930/comfyui_hyperflow_int8_nodes) · 个人维护
+⭐ 19 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/BennyDaBall930/comfyui_hyperflow_int8_nodes) · 个人维护
 
 **ComfyUI 加载 HyperFlow H3 Flash INT8 检查点的自定义节点包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BennyDaBall930/comfyui_hyperflow_int8_nodes 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 2 --> 18
-    line [3, 6, 10, 11, 12, 14, 16, 17, 17]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 2 --> 20
+    line [3, 6, 10, 11, 12, 14, 16, 17, 19]
 ```
 
-2026-11-08 3 → 2026-11-19 17（+14）
+2026-11-08 3 → 2026-11-20 19（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # FareedKhan-dev/claude-code-staff-engineer
 
-⭐ 95 · Shell · MIT · 推送 2026-04-13 · [GitHub](https://github.com/FareedKhan-dev/claude-code-staff-engineer) · [官网](https://medium.com/@fareedkhandev/building-a-senior-staff-engineer-with-sub-agent-teams-in-claude-code-771298151392) · 个人维护
+⭐ 96 · Shell · MIT · 推送 2026-04-13 · [GitHub](https://github.com/FareedKhan-dev/claude-code-staff-engineer) · [官网](https://medium.com/@fareedkhandev/building-a-senior-staff-engineer-with-sub-agent-teams-in-claude-code-771298151392) · 个人维护
 
 **教程/博文：用 Claude Code 构建带子代理团队的高级工程师代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/claude-code-staff-engineer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 92 --> 96
-    line [93, 94, 95, 95]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 92 --> 97
+    line [93, 94, 95, 96]
 ```
 
-2026-10-18 93 → 2026-11-19 95（+2）
+2026-10-18 93 → 2026-11-20 96（+3）
 
 
 ---

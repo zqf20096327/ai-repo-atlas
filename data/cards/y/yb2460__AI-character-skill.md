@@ -1,6 +1,6 @@
 # yb2460/AI-character-skill
 
-⭐ 11 · Java · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/yb2460/AI-character-skill) · 个人维护 · 中文 README
+⭐ 12 · Java · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/yb2460/AI-character-skill) · 个人维护 · 中文 README
 
 **将公众人物蒸馏为 Claude Code 对话智能体的角色技能合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yb2460/AI-character-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 12（+2）
 
 
 ---

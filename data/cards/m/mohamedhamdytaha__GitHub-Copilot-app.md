@@ -1,6 +1,6 @@
 # mohamedhamdytaha/GitHub-Copilot-app
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/mohamedhamdytaha/GitHub-Copilot-app) · 组织维护
+⭐ 57 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mohamedhamdytaha/GitHub-Copilot-app) · 组织维护
 
 **GitHub 官方桌面端：管理跨仓库的 agent 开发工作流**
 
@@ -46,12 +46,12 @@ GitHub 官方提供的桌面应用，作为从想法到 pull request 的单一�
 ```mermaid
 xychart-beta
     title "mohamedhamdytaha/GitHub-Copilot-app 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-11-18", "2026-11-20"]
+    y-axis "stars" 56 --> 63
+    line [62, 57]
 ```
 
-2026-11-18 62 → 2026-11-19 62（+0）
+2026-11-18 62 → 2026-11-20 57（-5）
 
 
 ---

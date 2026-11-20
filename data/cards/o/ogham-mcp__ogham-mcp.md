@@ -1,6 +1,6 @@
 # ogham-mcp/ogham-mcp
 
-⭐ 116 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ogham-mcp/ogham-mcp) · [官网](https://ogham-mcp.dev) · 组织维护
+⭐ 116 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ogham-mcp/ogham-mcp) · [官网](https://ogham-mcp.dev) · 组织维护
 
 **给 AI 编码代理的持久共享记忆 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ogham-mcp/ogham-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
     y-axis "stars" 114 --> 117
     line [115, 116, 116]
 ```
 
-2026-10-18 115 → 2026-11-19 116（+1）
+2026-10-18 115 → 2026-11-20 116（+1）
 
 
 ---

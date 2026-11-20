@@ -1,6 +1,6 @@
 # guillaume-be/rust-tokenizers
 
-⭐ 345 · Rust · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/guillaume-be/rust-tokenizers) · 个人维护
+⭐ 344 · Rust · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/guillaume-be/rust-tokenizers) · 个人维护
 
 **Rust 实现的 Transformer 分词器库，供 rust-bert 使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guillaume-be/rust-tokenizers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 344 --> 346
-    line [345, 345]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 343 --> 346
+    line [345, 344]
 ```
 
-2026-10-18 345 → 2026-11-19 345（+0）
+2026-10-18 345 → 2026-11-20 344（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator
 
-⭐ 897 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) · 组织维护
+⭐ 897 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) · 组织维护
 
 **面向企业的多 AI Agent 任务自动化参考应用（Azure 部署模板）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19"]
+    title "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-20"]
     y-axis "stars" 887 --> 899
-    line [888, 890, 891, 892, 895, 897, 898, 897]
+    line [888, 890, 891, 892, 895, 897, 898, 897, 897]
 ```
 
-2026-10-18 888 → 2026-11-19 897（+9）
+2026-10-18 888 → 2026-11-20 897（+9）
 
 
 ---

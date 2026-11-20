@@ -1,6 +1,6 @@
 # machuangtao/LLM-KG4QA
 
-⭐ 168 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/machuangtao/LLM-KG4QA) · [官网](https://machuangtao.github.io/LLM-KG4QA/survey-emnlp25) · 组织维护
+⭐ 167 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/machuangtao/LLM-KG4QA) · [官网](https://machuangtao.github.io/LLM-KG4QA/survey-emnlp25) · 组织维护
 
 **LLM+知识图谱问答方向的论文综述清单（EMNLP2025）**
 
@@ -46,12 +46,12 @@ EMNLP2025 主会综述《Large Language Models Meet Knowledge Graphs for Questio
 ```mermaid
 xychart-beta
     title "machuangtao/LLM-KG4QA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-20"]
     y-axis "stars" 165 --> 169
-    line [166, 167, 168, 168]
+    line [166, 167, 168, 167]
 ```
 
-2026-10-18 166 → 2026-11-19 168（+2）
+2026-10-18 166 → 2026-11-20 167（+1）
 
 
 ---

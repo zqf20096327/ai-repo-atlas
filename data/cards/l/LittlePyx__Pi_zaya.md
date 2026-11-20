@@ -41,6 +41,18 @@
 > L81: |Evidence-based QA|Searches the indexed library, builds a RAG prompt from retrieved snippets, and returns grounded 
 > L88: |Research Agent|Applies planning, source policy, tool-use tracing, evidence sufficiency, and sentence-level citatio
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LittlePyx/Pi_zaya 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 101 --> 103
+    line [102, 102]
+```
+
+2026-11-19 102 → 2026-11-20 102（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `5a6bbc3977e5` · [字段定义](../../DATASET.md)*

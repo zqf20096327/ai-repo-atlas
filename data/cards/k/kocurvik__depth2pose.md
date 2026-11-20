@@ -1,6 +1,6 @@
 # kocurvik/depth2pose
 
-⭐ 10 · Python · 推送 2026-11-18 · [GitHub](https://github.com/kocurvik/depth2pose) · [官网](https://kocurvik.github.io/depth2pose/) · 组织维护
+⭐ 11 · Python · 推送 2026-11-18 · [GitHub](https://github.com/kocurvik/depth2pose) · [官网](https://kocurvik.github.io/depth2pose/) · 组织维护
 
 **科研评测基准：无需深度真值即可评估单目深度估计模型**
 
@@ -46,12 +46,12 @@ NeurIPS 2026 论文的评测代码库，提供 D2P 基准：借助 RePoseD 框�
 ```mermaid
 xychart-beta
     title "kocurvik/depth2pose 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

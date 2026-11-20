@@ -1,6 +1,6 @@
 # lancedb/vectordb-recipes
 
-⭐ 990 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/lancedb/vectordb-recipes) · 组织维护
+⭐ 991 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/lancedb/vectordb-recipes) · 组织维护
 
 **面向 GenAI 开发者的多模态/RAG/Agent 示例与教程合集**
 
@@ -46,12 +46,12 @@ LanceDB 团队维护的示例与教程仓库：以 LanceDB（开源无服务器�
 ```mermaid
 xychart-beta
     title "lancedb/vectordb-recipes 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 981 --> 991
-    line [982, 983, 984, 985, 984, 987, 989, 990, 990]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 981 --> 992
+    line [982, 983, 984, 985, 984, 987, 989, 990, 991]
 ```
 
-2026-10-18 982 → 2026-11-19 990（+8）
+2026-10-18 982 → 2026-11-20 991（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mohil-Wankar/meetai
 
-⭐ 18 · TypeScript · 推送 2026-06-06 · [GitHub](https://github.com/Mohil-Wankar/meetai) · [官网](https://meetai-ten-lake.vercel.app) · 个人维护
+⭐ 19 · TypeScript · 推送 2026-06-06 · [GitHub](https://github.com/Mohil-Wankar/meetai) · [官网](https://meetai-ten-lake.vercel.app) · 个人维护
 
 **与专项 AI 角色实时语音对话的对话平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Mohil-Wankar/meetai 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 16, 14, 18, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 16, 14, 18, 17, 18, 19]
 ```
 
-2026-10-18 14 → 2026-11-19 18（+4）
+2026-10-18 14 → 2026-11-20 19（+5）
 
 
 ---

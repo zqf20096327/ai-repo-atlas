@@ -1,6 +1,6 @@
 # crit-labs/crit-hub
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/crit-labs/crit-hub) · [官网](https://crit-hub.dev) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/crit-labs/crit-hub) · [官网](https://crit-hub.dev) · 组织维护
 
 **按 GPU 与模型组织的定制推理引擎注册表，供查找现成引擎**
 
@@ -45,12 +45,12 @@ crit-labs 维护的推理引擎注册表：按目标 GPU 和模型组织条目�
 ```mermaid
 xychart-beta
     title "crit-labs/crit-hub 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-11-10", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-11-10 14 → 2026-11-19 15（+1）
+2026-11-10 14 → 2026-11-20 16（+2）
 
 
 ---

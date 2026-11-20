@@ -1,6 +1,6 @@
 # eddiearc/larkin
 
-⭐ 113 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/eddiearc/larkin) · [官网](https://idanlin.cc/work/larkin/) · 个人维护 · 中文 README
+⭐ 113 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/eddiearc/larkin) · [官网](https://idanlin.cc/work/larkin/) · 个人维护 · 中文 README
 
 **把本地 Coding Agent 运行时接入飞书的本地运行时宿主**
 
@@ -45,12 +45,12 @@ Larkin 是运行在用户本机的 Runtime Host，将外部安装的 Codex、Cla
 ```mermaid
 xychart-beta
     title "eddiearc/larkin 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-20"]
     y-axis "stars" 112 --> 115
     line [114, 113, 113]
 ```
 
-2026-10-31 114 → 2026-11-19 113（-1）
+2026-10-31 114 → 2026-11-20 113（-1）
 
 
 ---

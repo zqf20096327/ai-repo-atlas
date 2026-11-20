@@ -1,6 +1,6 @@
 # Azure99/BlossomLM
 
-⭐ 183 · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/Azure99/BlossomLM) · 个人维护 · 中文 README
+⭐ 182 · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/Azure99/BlossomLM) · 个人维护 · 中文 README
 
 **开源权重多模态大模型家族，面向本地部署**
 
@@ -47,12 +47,12 @@ Blossom-V7.1 是一组开放权重（Apache 2.0）的通用多模态模型，基
 ```mermaid
 xychart-beta
     title "Azure99/BlossomLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 182 --> 184
-    line [183, 183]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 181 --> 184
+    line [183, 182]
 ```
 
-2026-10-18 183 → 2026-11-19 183（+0）
+2026-10-18 183 → 2026-11-20 182（-1）
 
 
 ---

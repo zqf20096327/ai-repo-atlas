@@ -1,6 +1,6 @@
 # CGCL-codes/naturalcc
 
-⭐ 321 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/CGCL-codes/naturalcc) · [官网](http://xcodemind.github.io) · 组织维护 · 中文 README
+⭐ 320 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/CGCL-codes/naturalcc) · [官网](http://xcodemind.github.io) · 组织维护 · 中文 README
 
 **面向科研者的代码智能工具包：训练/评测代码大模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CGCL-codes/naturalcc 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 319 --> 322
-    line [320, 321, 320, 321, 321]
+    line [320, 321, 320, 321, 320]
 ```
 
-2026-10-18 320 → 2026-11-19 321（+1）
+2026-10-18 320 → 2026-11-20 320（+0）
 
 
 ---

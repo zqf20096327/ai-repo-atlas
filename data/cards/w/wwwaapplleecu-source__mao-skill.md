@@ -1,6 +1,6 @@
 # wwwaapplleecu-source/mao-skill
 
-⭐ 112 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/wwwaapplleecu-source/mao-skill) · 个人维护 · 中文 README
+⭐ 113 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/wwwaapplleecu-source/mao-skill) · 个人维护 · 中文 README
 
 **面向 Claude Code/OpenClaw 的毛泽东方法论分析技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wwwaapplleecu-source/mao-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 108 --> 113
-    line [109, 110, 111, 112, 111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 108 --> 114
+    line [109, 110, 111, 112, 111, 112, 113]
 ```
 
-2026-10-18 109 → 2026-11-19 112（+3）
+2026-10-18 109 → 2026-11-20 113（+4）
 
 
 ---

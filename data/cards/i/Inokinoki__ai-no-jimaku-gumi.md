@@ -1,6 +1,6 @@
 # Inokinoki/ai-no-jimaku-gumi
 
-⭐ 194 · Rust · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Inokinoki/ai-no-jimaku-gumi) · 个人维护 · 中文 README
+⭐ 195 · Rust · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Inokinoki/ai-no-jimaku-gumi) · 个人维护 · 中文 README
 
 **用 AI 为视频生成翻译字幕的 CLI 工具**
 
@@ -46,12 +46,12 @@ Rust 编写的命令行工具：读取视频，用 Whisper（whisper.cpp 模型�
 ```mermaid
 xychart-beta
     title "Inokinoki/ai-no-jimaku-gumi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 193 --> 196
-    line [195, 194, 194]
+    line [195, 194, 195]
 ```
 
-2026-10-18 195 → 2026-11-19 194（-1）
+2026-10-18 195 → 2026-11-20 195（+0）
 
 
 ---

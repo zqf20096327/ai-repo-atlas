@@ -1,6 +1,6 @@
 # Clod/llmwiki-marimo
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Clod/llmwiki-marimo) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Clod/llmwiki-marimo) · 个人维护
 
 **本地优先的个人 LLM 维基：把文档编成可阅读可对话的知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Clod/llmwiki-marimo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-19 24（+1）
+2026-10-18 23 → 2026-11-20 24（+1）
 
 
 ---

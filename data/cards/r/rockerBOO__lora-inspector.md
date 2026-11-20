@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rockerBOO/lora-inspector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "rockerBOO/lora-inspector 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 100 --> 103
-    line [101, 102]
+    line [101, 102, 102]
 ```
 
-2026-10-18 101 → 2026-11-19 102（+1）
+2026-10-18 101 → 2026-11-20 102（+1）
 
 
 ---

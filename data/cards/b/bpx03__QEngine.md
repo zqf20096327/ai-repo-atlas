@@ -1,6 +1,6 @@
 # bpx03/QEngine
 
-⭐ 71 · Cuda · MIT · 推送 2026-11-15 · [GitHub](https://github.com/bpx03/QEngine) · 个人维护
+⭐ 74 · Cuda · MIT · 推送 2026-11-15 · [GitHub](https://github.com/bpx03/QEngine) · 个人维护
 
 **面向 RTX 30-50 系多卡的 C++/CUDA 本地 LLM 推理引擎**
 
@@ -46,12 +46,12 @@ MIT 许可的本地推理引擎，用 C++/CUDA 共享库加 Python 服务器运�
 ```mermaid
 xychart-beta
     title "bpx03/QEngine 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 68 --> 72
-    line [69, 71, 71]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 68 --> 75
+    line [69, 71, 74]
 ```
 
-2026-11-16 69 → 2026-11-19 71（+2）
+2026-11-16 69 → 2026-11-20 74（+5）
 
 
 ---

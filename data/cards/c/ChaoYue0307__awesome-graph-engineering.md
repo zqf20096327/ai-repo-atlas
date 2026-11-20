@@ -1,6 +1,6 @@
 # ChaoYue0307/awesome-graph-engineering
 
-⭐ 45 · Python · CC0-1.0 · 推送 2026-11-03 · [GitHub](https://github.com/ChaoYue0307/awesome-graph-engineering) · [官网](https://chaoyue0307.github.io/awesome-graph-engineering/) · 个人维护
+⭐ 46 · Python · CC0-1.0 · 推送 2026-11-03 · [GitHub](https://github.com/ChaoYue0307/awesome-graph-engineering) · [官网](https://chaoyue0307.github.io/awesome-graph-engineering/) · 个人维护
 
 **图结构多智能体系统策展清单：620 条资源与 9 层设计分类**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChaoYue0307/awesome-graph-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 41 --> 46
-    line [42, 43, 45]
+    title "ChaoYue0307/awesome-graph-engineering 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 41 --> 47
+    line [42, 43, 45, 46]
 ```
 
-2026-10-18 42 → 2026-11-19 45（+3）
+2026-10-18 42 → 2026-11-20 46（+4）
 
 
 ---

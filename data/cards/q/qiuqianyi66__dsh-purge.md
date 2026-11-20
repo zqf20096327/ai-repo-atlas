@@ -1,6 +1,6 @@
 # qiuqianyi66/dsh-purge
 
-⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/qiuqianyi66/dsh-purge) · [官网](https://github.com/qiuqianyi66/dsh-purge#readme) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/qiuqianyi66/dsh-purge) · [官网](https://github.com/qiuqianyi66/dsh-purge#readme) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本机红队评测插件：82 条宿主补丁，可一键还原**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qiuqianyi66/dsh-purge 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 3 --> 17
-    line [4, 6, 10, 16, 16]
+    x-axis ["2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 3 --> 18
+    line [4, 6, 10, 16, 17]
 ```
 
-2026-11-10 4 → 2026-11-19 16（+12）
+2026-11-10 4 → 2026-11-20 17（+13）
 
 
 ---

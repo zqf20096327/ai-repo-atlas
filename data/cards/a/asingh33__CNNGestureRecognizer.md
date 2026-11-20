@@ -1,6 +1,6 @@
 # asingh33/CNNGestureRecognizer
 
-⭐ 1,042 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/asingh33/CNNGestureRecognizer) · 个人维护
+⭐ 1,041 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/asingh33/CNNGestureRecognizer) · 个人维护
 
 **用 CNN 识别手部手势的开发者项目：摄像头输入，5 类手势预测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "asingh33/CNNGestureRecognizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 1041 --> 1043
-    line [1042, 1042]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 1040 --> 1043
+    line [1042, 1041]
 ```
 
-2026-10-18 1,042 → 2026-11-19 1,042（+0）
+2026-10-18 1,042 → 2026-11-20 1,041（-1）
 
 
 ---

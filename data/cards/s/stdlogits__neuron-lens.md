@@ -1,6 +1,6 @@
 # stdlogits/neuron-lens
 
-⭐ 54 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/stdlogits/neuron-lens) · [官网](https://neuron-lens.com) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/stdlogits/neuron-lens) · [官网](https://neuron-lens.com) · 组织维护
 
 **Qwen3-8B 等模型的 MLP 神经元与注意力头含义编目数据集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stdlogits/neuron-lens 星数(近 9 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 21 --> 57
-    line [24, 28, 44, 45, 47, 51, 52, 53, 54]
+    title "stdlogits/neuron-lens 星数(近 10 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 21 --> 60
+    line [24, 28, 44, 45, 47, 51, 52, 53, 54, 57]
 ```
 
-2026-11-01 24 → 2026-11-19 54（+30）
+2026-11-01 24 → 2026-11-20 57（+33）
 
 
 ---

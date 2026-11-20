@@ -1,6 +1,6 @@
 # LUOSHUI319/astrbot_plugin_congling
 
-⭐ 13 · Python · 推送 2026-11-15 · [GitHub](https://github.com/LUOSHUI319/astrbot_plugin_congling) · [官网](https://github.com/LUOSHUI319/astrbot_plugin_congling) · 个人维护 · 中文 README
+⭐ 14 · Python · 推送 2026-11-15 · [GitHub](https://github.com/LUOSHUI319/astrbot_plugin_congling) · [官网](https://github.com/LUOSHUI319/astrbot_plugin_congling) · 个人维护 · 中文 README
 
 **AstrBot 插件：让 QQ 陪伴机器人聊得像人、会记会睡会做梦**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LUOSHUI319/astrbot_plugin_congling 星数(近 8 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 3 --> 14
-    line [4, 6, 9, 8, 11, 12, 13, 13]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 3 --> 15
+    line [4, 6, 9, 8, 11, 12, 13, 14]
 ```
 
-2026-10-26 4 → 2026-11-19 13（+9）
+2026-10-26 4 → 2026-11-20 14（+10）
 
 
 ---

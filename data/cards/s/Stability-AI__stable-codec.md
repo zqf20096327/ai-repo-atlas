@@ -1,6 +1,6 @@
 # Stability-AI/stable-codec
 
-⭐ 446 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Stability-AI/stable-codec) · [官网](https://stability-ai.github.io/stable-codec-demo/) · 组织维护
+⭐ 447 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Stability-AI/stable-codec) · [官网](https://stability-ai.github.io/stable-codec-demo/) · 组织维护
 
 **低码率高音质语音编解码 Transformer 模型的训练与推理代码库**
 
@@ -45,12 +45,12 @@ Stability AI 的 Stable Codec 系列模型官方仓库，提供 stable-codec-spe
 ```mermaid
 xychart-beta
     title "Stability-AI/stable-codec 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 444 --> 447
-    line [445, 446, 445, 446, 446]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 444 --> 448
+    line [445, 446, 445, 446, 447]
 ```
 
-2026-10-18 445 → 2026-11-19 446（+1）
+2026-10-18 445 → 2026-11-20 447（+2）
 
 
 ---

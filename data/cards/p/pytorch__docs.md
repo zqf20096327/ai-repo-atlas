@@ -1,6 +1,6 @@
 # pytorch/docs
 
-⭐ 13 · HTML · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/pytorch/docs) · 组织维护
+⭐ 13 · HTML · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/pytorch/docs) · 组织维护
 
 **PyTorch 官方文档网站的自动生成源码仓库**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "pytorch/docs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-19 13（+1）
+2026-10-18 12 → 2026-11-20 13（+1）
 
 
 ---

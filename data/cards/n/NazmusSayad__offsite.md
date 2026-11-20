@@ -1,6 +1,6 @@
 # NazmusSayad/offsite
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/NazmusSayad/offsite) · [官网](https://offsite.sayad.dev) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/NazmusSayad/offsite) · [官网](https://offsite.sayad.dev) · 个人维护
 
 **在浏览器中运行 Claude Code/Codex/OpenCode 并与 CLI 共享会话**
 
@@ -45,12 +45,12 @@ OffSite 把 Claude Code、Codex 与 OpenCode 三款编码代理 CLI 的会话带
 ```mermaid
 xychart-beta
     title "NazmusSayad/offsite 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-18", "2026-11-20"]
     y-axis "stars" 6 --> 12
     line [7, 9, 10, 11, 11]
 ```
 
-2026-10-18 7 → 2026-11-19 11（+4）
+2026-10-18 7 → 2026-11-20 11（+4）
 
 
 ---

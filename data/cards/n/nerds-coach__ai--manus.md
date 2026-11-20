@@ -1,6 +1,6 @@
 # nerds-coach/ai--manus
 
-⭐ 184 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/nerds-coach/ai--manus) · 个人维护
+⭐ 183 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/nerds-coach/ai--manus) · 个人维护
 
 **自主 AI Agent：代用户执行代码与控制浏览器完成任务**
 
@@ -45,12 +45,12 @@ README 以宣传口吻描述 Manus：一个自主 AI agent，代用户编写并�
 ```mermaid
 xychart-beta
     title "nerds-coach/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 111 --> 269
-    line [124, 256, 184, 184]
+    line [124, 256, 184, 183]
 ```
 
-2026-11-13 124 → 2026-11-19 184（+60）
+2026-11-13 124 → 2026-11-20 183（+59）
 
 
 ---

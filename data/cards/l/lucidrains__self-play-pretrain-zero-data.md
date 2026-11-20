@@ -1,6 +1,6 @@
 # lucidrains/self-play-pretrain-zero-data
 
-⭐ 11 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/lucidrains/self-play-pretrain-zero-data) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lucidrains/self-play-pretrain-zero-data) · 个人维护
 
 **Self-Play Pretraining with Zero Data 论文的 PyTorch 实现库**
 
@@ -46,12 +46,12 @@ lucidrains 维护的论文复现库，实现 Self-Play Pretraining with Zero Dat
 ```mermaid
 xychart-beta
     title "lucidrains/self-play-pretrain-zero-data 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

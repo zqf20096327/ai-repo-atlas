@@ -1,6 +1,6 @@
 # Skull-boy/agent-contracts
 
-⭐ 25 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Skull-boy/agent-contracts) · [官网](https://pypi.org/project/scyvera/) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Skull-boy/agent-contracts) · [官网](https://pypi.org/project/scyvera/) · 个人维护
 
 **AI agent 运行前治理层：机器可读契约定义权限边界并强制执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Skull-boy/agent-contracts 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-20"]
     y-axis "stars" 21 --> 26
     line [22, 23, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-19 25（+3）
+2026-10-18 22 → 2026-11-20 25（+3）
 
 
 ---

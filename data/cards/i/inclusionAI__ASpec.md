@@ -1,6 +1,6 @@
 # inclusionAI/ASpec
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/inclusionAI/ASpec) · [官网](https://github.com/inclusionAI/ASpec) · 组织维护 · 中文 README
+⭐ 57 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/inclusionAI/ASpec) · [官网](https://github.com/inclusionAI/ASpec) · 组织维护 · 中文 README
 
 **面向投机采样草稿模型的高吞吐训练框架**
 
@@ -46,12 +46,12 @@ ASpec 是用于投机采样（speculative decoding）Draft 模型的训练框架
 ```mermaid
 xychart-beta
     title "inclusionAI/ASpec 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20"]
     y-axis "stars" 46 --> 58
     line [47, 53, 54, 57, 57]
 ```
 
-2026-11-08 47 → 2026-11-19 57（+10）
+2026-11-08 47 → 2026-11-20 57（+10）
 
 
 ---

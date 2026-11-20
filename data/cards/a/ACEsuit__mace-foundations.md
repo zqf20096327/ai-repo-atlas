@@ -1,6 +1,6 @@
 # ACEsuit/mace-foundations
 
-⭐ 325 · Shell · MIT · 推送 2026-08-26 · [GitHub](https://github.com/ACEsuit/mace-foundations) · [官网](https://mace-docs.readthedocs.io/en/latest/guide/foundation_models.html) · 组织维护
+⭐ 326 · Shell · MIT · 推送 2026-08-26 · [GitHub](https://github.com/ACEsuit/mace-foundations) · [官网](https://mace-docs.readthedocs.io/en/latest/guide/foundation_models.html) · 组织维护
 
 **材料化学预训练机器学习势模型集合：覆盖 89 种元素**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ACEsuit/mace-foundations 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 314 --> 326
-    line [315, 316, 317, 318, 316, 324, 325, 325]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 314 --> 327
+    line [315, 316, 317, 318, 316, 324, 325, 326]
 ```
 
-2026-10-18 315 → 2026-11-19 325（+10）
+2026-10-18 315 → 2026-11-20 326（+11）
 
 
 ---

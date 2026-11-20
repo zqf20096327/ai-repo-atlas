@@ -1,6 +1,6 @@
 # master5d/claude-design-skills
 
-⭐ 42 · 推送 2026-03-28 · [GitHub](https://github.com/master5d/claude-design-skills) · 个人维护
+⭐ 43 · 推送 2026-03-28 · [GitHub](https://github.com/master5d/claude-design-skills) · 个人维护
 
 **给 Claude Code 工程师的三层 UI/UX 设计技能工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "master5d/claude-design-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 34 --> 43
-    line [35, 36, 37, 38, 36, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 34 --> 44
+    line [35, 36, 37, 38, 36, 41, 42, 43]
 ```
 
-2026-10-18 35 → 2026-11-19 42（+7）
+2026-10-18 35 → 2026-11-20 43（+8）
 
 
 ---

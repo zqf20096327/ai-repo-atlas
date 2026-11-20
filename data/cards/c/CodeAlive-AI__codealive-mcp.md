@@ -1,6 +1,6 @@
 # CodeAlive-AI/codealive-mcp
 
-⭐ 91 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/CodeAlive-AI/codealive-mcp) · [官网](https://www.codealive.ai/) · 组织维护
+⭐ 90 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/CodeAlive-AI/codealive-mcp) · [官网](https://www.codealive.ai/) · 组织维护
 
 **面向大型代码库的 MCP 上下文引擎：给 AI 编程代理提供精确仓库上下文**
 
@@ -45,12 +45,12 @@ CodeAlive 是基于图谱检索的代码库上下文引擎，通过 MCP 服务�
 ```mermaid
 xychart-beta
     title "CodeAlive-AI/codealive-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
     y-axis "stars" 89 --> 92
-    line [90, 91, 91]
+    line [90, 91, 90]
 ```
 
-2026-10-18 90 → 2026-11-19 91（+1）
+2026-10-18 90 → 2026-11-20 90（+0）
 
 
 ---

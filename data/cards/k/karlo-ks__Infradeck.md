@@ -1,6 +1,6 @@
 # karlo-ks/Infradeck
 
-⭐ 156 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/karlo-ks/Infradeck) · 个人维护
+⭐ 159 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/karlo-ks/Infradeck) · 个人维护
 
 **自托管家庭实验室监控面板，含可选 AI 事件诊断代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "karlo-ks/Infradeck 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 96 --> 161
-    line [101, 138, 147, 156]
+    title "karlo-ks/Infradeck 星数(近 5 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 96 --> 164
+    line [101, 138, 147, 156, 159]
 ```
 
-2026-11-15 101 → 2026-11-19 156（+55）
+2026-11-15 101 → 2026-11-20 159（+58）
 
 
 ---

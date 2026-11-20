@@ -41,6 +41,18 @@
 > L5: This agent is designed to work alongside the Customer Cowork Estimator. The estimator handles the core maths once yo
 > L42: |**Prompt**|Any user with a Copilot licence|Individual|You want to run the assessment immediately by pasting a prom
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/cowork-investment-assessment 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `fe0255cd1a76` · [字段定义](../../DATASET.md)*

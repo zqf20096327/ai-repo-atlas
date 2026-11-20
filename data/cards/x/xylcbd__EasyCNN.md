@@ -1,6 +1,6 @@
 # xylcbd/EasyCNN
 
-⭐ 167 · C++ · 推送 2025-12-25 · [GitHub](https://github.com/xylcbd/EasyCNN) · 个人维护 · 中文 README
+⭐ 166 · C++ · 推送 2025-12-25 · [GitHub](https://github.com/xylcbd/EasyCNN) · 个人维护 · 中文 README
 
 **纯 C++ 实现的小型 CNN 框架，供学习与训练测试**
 
@@ -46,12 +46,12 @@ EasyCNN 是一个纯 C++ 实现、无第三方依赖的卷积神经网络框架�
 ```mermaid
 xychart-beta
     title "xylcbd/EasyCNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 166 --> 168
-    line [167, 167]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 165 --> 168
+    line [167, 166]
 ```
 
-2026-10-18 167 → 2026-11-19 167（+0）
+2026-10-18 167 → 2026-11-20 166（-1）
 
 
 ---

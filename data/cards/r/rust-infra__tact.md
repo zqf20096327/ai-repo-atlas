@@ -1,6 +1,6 @@
 # rust-infra/tact
 
-⭐ 17 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rust-infra/tact) · [官网](https://github.com/rust-infra/tact#readme) · 个人维护 · 中文 README
+⭐ 17 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rust-infra/tact) · [官网](https://github.com/rust-infra/tact#readme) · 个人维护 · 中文 README
 
 **Rust 编写的终端与桌面 AI 编程 agent，自托管无账号**
 
@@ -45,12 +45,12 @@ tact 是用 Rust 实现的 AI coding agent，提供终端 TUI（tact-ui）与 GP
 ```mermaid
 xychart-beta
     title "rust-infra/tact 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-15", "2026-11-20"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-15 17 → 2026-11-19 17（+0）
+2026-11-15 17 → 2026-11-20 17（+0）
 
 
 ---

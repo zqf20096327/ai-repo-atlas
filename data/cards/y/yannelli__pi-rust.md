@@ -1,6 +1,6 @@
 # yannelli/pi-rust
 
-⭐ 14 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yannelli/pi-rust) · [官网](https://ryanyannelli.com/projects/pi-rust/) · 个人维护
+⭐ 15 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/yannelli/pi-rust) · [官网](https://ryanyannelli.com/projects/pi-rust/) · 个人维护
 
 **pi 编码 agent 的 Rust 移植：CLI 编码助手与 LLM 流式库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yannelli/pi-rust 星数(近 9 点)"
-    x-axis ["2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 2 --> 15
-    line [3, 4, 8, 9, 10, 12, 13, 14, 14]
+    x-axis ["2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 2 --> 16
+    line [3, 4, 8, 9, 10, 12, 13, 14, 15]
 ```
 
-2026-10-28 3 → 2026-11-19 14（+11）
+2026-10-28 3 → 2026-11-20 15（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease
 
-⭐ 99 · 推送 2026-10-29 · [GitHub](https://github.com/thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 100 · 推送 2026-10-29 · [GitHub](https://github.com/thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **CoreGold 虚拟信用卡服务的订阅付款教程（含 AI 工具付费）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease 星数(近 11 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
     y-axis "stars" 0 --> 110
-    line [6, 17, 21, 57, 77, 90, 95, 100, 101, 99, 99]
+    line [6, 17, 21, 57, 77, 90, 95, 100, 101, 99, 100]
 ```
 
-2026-10-30 6 → 2026-11-19 99（+93）
+2026-10-30 6 → 2026-11-20 100（+94）
 
 
 ---

@@ -1,6 +1,6 @@
 # DilawarShafiq/nietzschian-debugger
 
-⭐ 561 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DilawarShafiq/nietzschian-debugger) · [官网](https://pypi.org/project/nietzschian-debugger/) · 个人维护
+⭐ 562 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DilawarShafiq/nietzschian-debugger) · [官网](https://pypi.org/project/nietzschian-debugger/) · 个人维护
 
 **只提问不给答案的 CLI 调试教练，逼开发者自己找到 bug**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DilawarShafiq/nietzschian-debugger 星数(近 14 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 0 --> 613
-    line [34, 410, 490, 520, 531, 532, 539, 554, 557, 558, 559, 560, 559, 561]
+    title "DilawarShafiq/nietzschian-debugger 星数(近 15 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 0 --> 614
+    line [34, 410, 490, 520, 531, 532, 539, 554, 557, 558, 559, 560, 559, 561, 562]
 ```
 
-2026-10-26 34 → 2026-11-19 561（+527）
+2026-10-26 34 → 2026-11-20 562（+528）
 
 
 ---

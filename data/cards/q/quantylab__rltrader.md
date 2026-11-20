@@ -1,6 +1,6 @@
 # quantylab/rltrader
 
-⭐ 366 · Jupyter Notebook · MIT · 推送 2026-07-25 · [GitHub](https://github.com/quantylab/rltrader) · [官网](https://quantylab.com/) · 个人维护
+⭐ 365 · Jupyter Notebook · MIT · 推送 2026-07-25 · [GitHub](https://github.com/quantylab/rltrader) · [官网](https://quantylab.com/) · 个人维护
 
 **强化学习股票投资模拟程序的书籍配套代码（韩文）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "quantylab/rltrader 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 364 --> 367
-    line [366, 365, 366, 366]
+    line [366, 365, 366, 365]
 ```
 
-2026-10-18 366 → 2026-11-19 366（+0）
+2026-10-18 366 → 2026-11-20 365（-1）
 
 
 ---

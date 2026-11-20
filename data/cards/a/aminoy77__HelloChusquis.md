@@ -1,6 +1,6 @@
 # aminoy77/HelloChusquis
 
-⭐ 12 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/aminoy77/HelloChusquis) · [官网](https://aminoy77.github.io/HelloChusquis/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/aminoy77/HelloChusquis) · [官网](https://aminoy77.github.io/HelloChusquis/) · 个人维护
 
 **本地优先的终端 AI agent：对话、工具执行与记忆一体的工作台**
 
@@ -41,6 +41,18 @@
 > L3: > **Terminal AI agent that builds its own tools — 48 integrations, local-first.**
 > L9: HelloChusquis brings conversation, tools, memory, web access, code execution, and integrations into one developer-co
 > L287: core/provider.py              Provider pool and fallback behavior
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aminoy77/HelloChusquis 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
+```
+
+2026-11-19 12 → 2026-11-20 13（+1）
 
 
 ---

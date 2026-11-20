@@ -1,6 +1,6 @@
 # htin1/toktop
 
-⭐ 174 · Rust · MIT · 推送 2025-12-07 · [GitHub](https://github.com/htin1/toktop) · [官网](https://crates.io/crates/toktop) · 个人维护
+⭐ 173 · Rust · MIT · 推送 2025-12-07 · [GitHub](https://github.com/htin1/toktop) · [官网](https://crates.io/crates/toktop) · 个人维护
 
 **终端中监控 OpenAI/Anthropic token 用量与成本的 TUI 面板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "htin1/toktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 173 --> 175
-    line [174, 174]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 172 --> 175
+    line [174, 173]
 ```
 
-2026-10-18 174 → 2026-11-19 174（+0）
+2026-10-18 174 → 2026-11-20 173（-1）
 
 
 ---

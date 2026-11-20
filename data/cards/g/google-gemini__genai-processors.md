@@ -1,6 +1,6 @@
 # google-gemini/genai-processors
 
-⭐ 2,124 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/google-gemini/genai-processors) · [官网](https://google-gemini.github.io/genai-processors/) · 组织维护
+⭐ 2,125 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/google-gemini/genai-processors) · [官网](https://google-gemini.github.io/genai-processors/) · 组织维护
 
 **开发者用 Python 库：构建模块化异步多模态 LLM 处理管线**
 
@@ -46,12 +46,12 @@ Google Gemini 团队维护的轻量 Python 库，用于构建模块化、异步�
 ```mermaid
 xychart-beta
     title "google-gemini/genai-processors 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 2118 --> 2125
-    line [2121, 2120, 2119, 2120, 2121, 2119, 2120, 2121, 2122, 2123, 2124, 2124]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 2118 --> 2126
+    line [2121, 2120, 2119, 2120, 2121, 2119, 2120, 2121, 2122, 2123, 2124, 2125]
 ```
 
-2026-10-18 2,121 → 2026-11-19 2,124（+3）
+2026-10-18 2,121 → 2026-11-20 2,125（+4）
 
 
 ---

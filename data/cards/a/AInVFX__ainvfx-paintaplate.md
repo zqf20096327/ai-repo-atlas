@@ -1,6 +1,6 @@
 # AInVFX/ainvfx-paintaplate
 
-⭐ 155 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/AInVFX/ainvfx-paintaplate) · [官网](www.ainvfx.com/open-source/) · 组织维护
+⭐ 156 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AInVFX/ainvfx-paintaplate) · [官网](www.ainvfx.com/open-source/) · 组织维护
 
 **给视效合成师的 ComfyUI 节点包：首帧涂绘擦除/添加/重光并贯穿整镜头**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AInVFX/ainvfx-paintaplate 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 75 --> 162
-    line [82, 104, 121, 128, 136, 138, 146, 150, 155]
+    title "AInVFX/ainvfx-paintaplate 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 75 --> 163
+    line [82, 104, 121, 128, 136, 138, 146, 150, 155, 156]
 ```
 
-2026-11-10 82 → 2026-11-19 155（+73）
+2026-11-10 82 → 2026-11-20 156（+74）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyshipit/eai-rk3588
 
-⭐ 21 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kyshipit/eai-rk3588) · 个人维护 · 中文 README
+⭐ 22 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kyshipit/eai-rk3588) · 个人维护 · 中文 README
 
 **RK3588 边缘推理平台：视觉检测+本地对话+TTS 全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyshipit/eai-rk3588 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 18 --> 22
-    line [19, 21, 21]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 18 --> 23
+    line [19, 21, 22]
 ```
 
-2026-11-08 19 → 2026-11-19 21（+2）
+2026-11-08 19 → 2026-11-20 22（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # PatBall1/detectree2
 
-⭐ 274 · Python · MIT · 推送 2026-03-16 · [GitHub](https://github.com/PatBall1/detectree2) · [官网](https://patball1.github.io/detectree2/) · 组织维护 · 中文 README
+⭐ 276 · Python · MIT · 推送 2026-03-16 · [GitHub](https://github.com/PatBall1/detectree2) · [官网](https://patball1.github.io/detectree2/) · 组织维护 · 中文 README
 
 **基于 Mask R-CNN 的树冠自动检测与分割 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PatBall1/detectree2 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 267 --> 275
-    line [268, 270, 271, 272, 273, 274, 274]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 267 --> 277
+    line [268, 270, 271, 272, 273, 274, 276]
 ```
 
-2026-10-18 268 → 2026-11-19 274（+6）
+2026-10-18 268 → 2026-11-20 276（+8）
 
 
 ---

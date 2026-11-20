@@ -46,12 +46,12 @@ TensorKrowch 是构建在 PyTorch 之上的 Python 库，提供 Nodes、Edges、
 ```mermaid
 xychart-beta
     title "joserapa98/tensorkrowch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
     y-axis "stars" 51 --> 54
     line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-19 53（+1）
+2026-10-18 52 → 2026-11-20 53（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # asddasqa23/terminal-oa
 
-⭐ 51 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/asddasqa23/terminal-oa) · [官网](https://x.com/alien_terminal_) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/asddasqa23/terminal-oa) · [官网](https://x.com/alien_terminal_) · 个人维护
 
 **以外星生物学家人设自主观察人类新闻并发推的 LLM agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "asddasqa23/terminal-oa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 31 --> 52
+    line [51, 32]
 ```
 
-2026-10-18 51 → 2026-11-19 51（+0）
+2026-10-18 51 → 2026-11-20 32（-19）
 
 
 ---

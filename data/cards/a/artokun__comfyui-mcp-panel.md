@@ -1,6 +1,6 @@
 # artokun/comfyui-mcp-panel
 
-⭐ 142 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/artokun/comfyui-mcp-panel) · [官网](https://comfyui-mcp.artokun.io/docs/panel) · 个人维护
+⭐ 141 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/artokun/comfyui-mcp-panel) · [官网](https://comfyui-mcp.artokun.io/docs/panel) · 个人维护
 
 **嵌入 ComfyUI 侧边栏的本地 AI agent 面板，自然语言驱动画布**
 
@@ -46,12 +46,12 @@ comfyui-mcp 项目的面板 UI：作为 ComfyUI 自定义节点安装后在侧�
 ```mermaid
 xychart-beta
     title "artokun/comfyui-mcp-panel 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20"]
     y-axis "stars" 128 --> 143
-    line [129, 130, 131, 132, 133, 134, 129, 138, 139, 140, 142, 142]
+    line [129, 130, 131, 132, 133, 134, 129, 138, 139, 140, 142, 141]
 ```
 
-2026-10-18 129 → 2026-11-19 142（+13）
+2026-10-18 129 → 2026-11-20 141（+12）
 
 
 ---

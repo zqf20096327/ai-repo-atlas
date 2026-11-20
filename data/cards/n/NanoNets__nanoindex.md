@@ -1,6 +1,6 @@
 # NanoNets/nanoindex
 
-⭐ 72 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/NanoNets/nanoindex) · [官网](https://nanoindex.nanonets.com) · 组织维护
+⭐ 73 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/NanoNets/nanoindex) · [官网](https://nanoindex.nanonets.com) · 组织维护
 
 **长文档 Agentic RAG 框架：树与实体图导航，答案精确到像素级引用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NanoNets/nanoindex 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 69 --> 73
-    line [70, 71, 70, 71, 72, 72]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 69 --> 74
+    line [70, 71, 70, 71, 72, 73]
 ```
 
-2026-10-18 70 → 2026-11-19 72（+2）
+2026-10-18 70 → 2026-11-20 73（+3）
 
 
 ---

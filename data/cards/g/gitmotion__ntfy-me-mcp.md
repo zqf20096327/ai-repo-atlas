@@ -44,13 +44,13 @@ TypeScript 实现的 Model Context Protocol 服务器，供 AI 助手向 ntfy.sh
 
 ```mermaid
 xychart-beta
-    title "gitmotion/ntfy-me-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-19"]
+    title "gitmotion/ntfy-me-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-19", "2026-11-20"]
     y-axis "stars" 74 --> 78
-    line [76, 75, 76, 77]
+    line [76, 75, 76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-11-19 77（+1）
+2026-10-18 76 → 2026-11-20 77（+1）
 
 
 ---

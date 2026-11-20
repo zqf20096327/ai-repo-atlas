@@ -1,6 +1,6 @@
 # alexvilelabah/bah-browser
 
-⭐ 109 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/alexvilelabah/bah-browser) · 个人维护
+⭐ 108 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/alexvilelabah/bah-browser) · 个人维护
 
 **开源 AI 浏览器：自然语言命令让 AI 代你操作网页**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alexvilelabah/bah-browser 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-20"]
     y-axis "stars" 106 --> 110
-    line [107, 108, 109, 109]
+    line [107, 108, 109, 108]
 ```
 
-2026-10-18 107 → 2026-11-19 109（+2）
+2026-10-18 107 → 2026-11-20 108（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AzmxAI/azmx
 
-⭐ 130 · TypeScript · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/AzmxAI/azmx) · [官网](https://azmx.ai) · 组织维护
+⭐ 119 · TypeScript · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/AzmxAI/azmx) · [官网](https://azmx.ai) · 组织维护
 
 **本地优先的 AI 终端/Agent 桌面应用，BYOK 或本地模型直连**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AzmxAI/azmx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 129 --> 131
-    line [130, 130]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 118 --> 131
+    line [130, 119]
 ```
 
-2026-10-18 130 → 2026-11-19 130（+0）
+2026-10-18 130 → 2026-11-20 119（-11）
 
 
 ---

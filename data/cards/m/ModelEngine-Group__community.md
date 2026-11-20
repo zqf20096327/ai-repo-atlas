@@ -1,6 +1,6 @@
 # ModelEngine-Group/community
 
-⭐ 51 · Python · 推送 2026-11-11 · [GitHub](https://github.com/ModelEngine-Group/community) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
+⭐ 50 · Python · 推送 2026-11-11 · [GitHub](https://github.com/ModelEngine-Group/community) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
 
 **ModelEngine 项目群的社区管理与成员名录仓库**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "ModelEngine-Group/community 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
     y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    line [50, 51, 50]
 ```
 
-2026-10-18 50 → 2026-11-19 51（+1）
+2026-10-18 50 → 2026-11-20 50（+0）
 
 
 ---

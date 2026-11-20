@@ -1,6 +1,6 @@
 # colonelwatch/abstracts-search
 
-⭐ 105 · C · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/colonelwatch/abstracts-search) · [官网](https://huggingface.co/spaces/colonelwatch/abstracts-index) · 个人维护
+⭐ 103 · C · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/colonelwatch/abstracts-search) · [官网](https://huggingface.co/spaces/colonelwatch/abstracts-index) · 个人维护
 
 **索引 2 亿+学术文献摘要的语义搜索引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "colonelwatch/abstracts-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 102 --> 106
+    line [105, 103]
 ```
 
-2026-10-18 105 → 2026-11-19 105（+0）
+2026-10-18 105 → 2026-11-20 103（-2）
 
 
 ---

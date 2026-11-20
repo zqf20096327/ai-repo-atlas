@@ -1,6 +1,6 @@
 # boona13/image-extender
 
-⭐ 1,120 · TypeScript · MIT · 推送 2026-05-31 · [GitHub](https://github.com/boona13/image-extender) · [官网](https://github.com/boona13/image-extender) · 个人维护
+⭐ 1,121 · TypeScript · MIT · 推送 2026-05-31 · [GitHub](https://github.com/boona13/image-extender) · [官网](https://github.com/boona13/image-extender) · 个人维护
 
 **AI 图像外扩与 2D 游戏美术生成的开源 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "boona13/image-extender 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 1116 --> 1121
-    line [1117, 1119, 1120, 1118, 1119, 1120, 1120]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 1116 --> 1122
+    line [1117, 1119, 1120, 1118, 1119, 1120, 1121]
 ```
 
-2026-10-18 1,117 → 2026-11-19 1,120（+3）
+2026-10-18 1,117 → 2026-11-20 1,121（+4）
 
 
 ---

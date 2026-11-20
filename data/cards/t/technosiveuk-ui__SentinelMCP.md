@@ -1,6 +1,6 @@
 # technosiveuk-ui/SentinelMCP
 
-⭐ 14 · Go · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/technosiveuk-ui/SentinelMCP) · [官网](https://technosive.co.uk/sentinelmcp) · 组织维护
+⭐ 13 · Go · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/technosiveuk-ui/SentinelMCP) · [官网](https://technosive.co.uk/sentinelmcp) · 组织维护
 
 **面向 MCP 的 AI Agent 安全网关：拦截工具调用做检查/脱敏/审批**
 
@@ -45,12 +45,12 @@ MCP（Model Context Protocol）安全执行引擎，部署在 AI Agent 与其调
 ```mermaid
 xychart-beta
     title "technosiveuk-ui/SentinelMCP 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-20"]
     y-axis "stars" 10 --> 15
-    line [11, 12, 13, 14, 14]
+    line [11, 12, 13, 14, 13]
 ```
 
-2026-10-18 11 → 2026-11-19 14（+3）
+2026-10-18 11 → 2026-11-20 13（+2）
 
 
 ---

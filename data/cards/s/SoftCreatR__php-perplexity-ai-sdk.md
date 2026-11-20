@@ -1,6 +1,6 @@
 # SoftCreatR/php-perplexity-ai-sdk
 
-⭐ 14 · PHP · ISC · 推送 2026-10-23 · [GitHub](https://github.com/SoftCreatR/php-perplexity-ai-sdk) · [官网](https://packagist.org/packages/softcreatr/php-perplexity-ai-sdk) · 个人维护
+⭐ 14 · PHP · ISC · 推送 2026-11-19 · [GitHub](https://github.com/SoftCreatR/php-perplexity-ai-sdk) · [官网](https://packagist.org/packages/softcreatr/php-perplexity-ai-sdk) · 个人维护
 
 **接入 Perplexity API 的 PHP SDK，覆盖 Agent/搜索/嵌入等端点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SoftCreatR/php-perplexity-ai-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 14（+0）
 
 
 ---

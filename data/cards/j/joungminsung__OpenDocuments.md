@@ -1,6 +1,6 @@
 # joungminsung/OpenDocuments
 
-⭐ 127 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/joungminsung/OpenDocuments) · [官网](https://joungminsung.github.io/OpenDocuments/) · 个人维护 · 中文 README
+⭐ 126 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/joungminsung/OpenDocuments) · [官网](https://joungminsung.github.io/OpenDocuments/) · 个人维护 · 中文 README
 
 **自托管 RAG 平台：对组织文档做带引用的 AI 搜索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joungminsung/OpenDocuments 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20"]
     y-axis "stars" 115 --> 128
-    line [116, 118, 121, 122, 121, 123, 126, 127, 127]
+    line [116, 118, 121, 122, 121, 123, 126, 127, 126]
 ```
 
-2026-10-18 116 → 2026-11-19 127（+11）
+2026-10-18 116 → 2026-11-20 126（+10）
 
 
 ---

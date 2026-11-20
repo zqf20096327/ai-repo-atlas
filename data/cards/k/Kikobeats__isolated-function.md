@@ -1,6 +1,6 @@
 # Kikobeats/isolated-function
 
-⭐ 23 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Kikobeats/isolated-function) · [官网](https://isolated-function.js.org/) · 个人维护
+⭐ 23 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Kikobeats/isolated-function) · [官网](https://isolated-function.js.org/) · 个人维护
 
 **在独立 Node.js 进程中受控执行用户自定义 JavaScript 的沙箱库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kikobeats/isolated-function 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-19 23（+0）
+2026-10-18 23 → 2026-11-20 23（+0）
 
 
 ---

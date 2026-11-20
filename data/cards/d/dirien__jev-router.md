@@ -1,6 +1,6 @@
 # dirien/jev-router
 
-⭐ 19 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dirien/jev-router) · 个人维护
+⭐ 20 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dirien/jev-router) · 个人维护
 
 **本地模型路由代理：为 Claude Code/Codex 按轮次选模型层级**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dirien/jev-router 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 16 --> 20
-    line [17, 19, 19]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 16 --> 21
+    line [17, 19, 20]
 ```
 
-2026-10-18 17 → 2026-11-19 19（+2）
+2026-10-18 17 → 2026-11-20 20（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ccch713/deepddw
 
-⭐ 11 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ccch713/deepddw) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ccch713/deepddw) · 个人维护 · 中文 README
 
 **给 DSH 补记忆/知识库/文档搜索，局域网多设备可用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ccch713/deepddw 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-22 10 → 2026-11-19 11（+1）
+2026-10-22 10 → 2026-11-20 11（+1）
 
 
 ---

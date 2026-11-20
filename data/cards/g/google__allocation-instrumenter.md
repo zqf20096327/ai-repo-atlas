@@ -1,6 +1,6 @@
 # google/allocation-instrumenter
 
-⭐ 492 · Java · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/google/allocation-instrumenter) · 组织维护
+⭐ 491 · Java · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/google/allocation-instrumenter) · 组织维护
 
 **Java 字节码插桩库：记录程序中每次对象分配并回调**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "google/allocation-instrumenter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
     y-axis "stars" 490 --> 493
-    line [491, 492, 492]
+    line [491, 492, 491]
 ```
 
-2026-10-18 491 → 2026-11-19 492（+1）
+2026-10-18 491 → 2026-11-20 491（+0）
 
 
 ---

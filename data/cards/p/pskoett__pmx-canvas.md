@@ -1,6 +1,6 @@
 # pskoett/pmx-canvas
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pskoett/pmx-canvas) · [官网](https://www.npmjs.com/package/pmx-canvas) · 个人维护
+⭐ 32 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pskoett/pmx-canvas) · [官网](https://www.npmjs.com/package/pmx-canvas) · 个人维护
 
 **人与 AI agent 共用的共享画板：收集证据、策展上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pskoett/pmx-canvas 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 30, 31, 32]
 ```
 
-2026-10-18 28 → 2026-11-19 31（+3）
+2026-10-18 28 → 2026-11-20 32（+4）
 
 
 ---

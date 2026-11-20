@@ -1,6 +1,6 @@
 # firstbatchxyz/dkn-compute-node
 
-⭐ 228 · Rust · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/firstbatchxyz/dkn-compute-node) · [官网](https://dria.co/edge-ai) · 组织维护
+⭐ 229 · Rust · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/firstbatchxyz/dkn-compute-node) · [官网](https://dria.co/edge-ai) · 组织维护
 
 **Dria 网络的计算节点：用本机跑推理模型赚取奖励**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "firstbatchxyz/dkn-compute-node 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 227 --> 230
-    line [229, 228, 229, 228, 228]
+    line [229, 228, 229, 228, 229]
 ```
 
-2026-10-18 229 → 2026-11-19 228（-1）
+2026-10-18 229 → 2026-11-20 229（+0）
 
 
 ---

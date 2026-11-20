@@ -1,6 +1,6 @@
 # swadhinbiswas/Mervelas
 
-⭐ 49 · TypeScript · 推送 2026-04-03 · [GitHub](https://github.com/swadhinbiswas/Mervelas) · 个人维护
+⭐ 48 · TypeScript · 推送 2026-04-03 · [GitHub](https://github.com/swadhinbiswas/Mervelas) · 个人维护
 
 **本地优先的开源 AI 编码 CLI，支持多 LLM 提供商**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "swadhinbiswas/Mervelas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 47 --> 50
+    line [49, 48]
 ```
 
-2026-10-18 49 → 2026-11-19 49（+0）
+2026-10-18 49 → 2026-11-20 48（-1）
 
 
 ---

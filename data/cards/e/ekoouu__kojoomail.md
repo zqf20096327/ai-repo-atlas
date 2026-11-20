@@ -1,6 +1,6 @@
 # ekoouu/kojoomail
 
-⭐ 53 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ekoouu/kojoomail) · [官网](https://mail.songxxai.com/kojoomail/) · 个人维护 · 中文 README
+⭐ 55 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ekoouu/kojoomail) · [官网](https://mail.songxxai.com/kojoomail/) · 个人维护 · 中文 README
 
 **多账号合一收件箱的本地优先桌面邮件客户端，带 AI 批注与起草**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ekoouu/kojoomail 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 17 --> 56
-    line [20, 42, 50, 51, 52, 53, 53]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 17 --> 58
+    line [20, 42, 50, 51, 52, 53, 55]
 ```
 
-2026-11-08 20 → 2026-11-19 53（+33）
+2026-11-08 20 → 2026-11-20 55（+35）
 
 
 ---

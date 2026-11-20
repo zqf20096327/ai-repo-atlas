@@ -1,6 +1,6 @@
 # openaudr/audr
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/openaudr/audr) · [官网](https://openaudr.dev/) · 组织维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openaudr/audr) · [官网](https://openaudr.dev/) · 组织维护
 
 **记录与核算 Agent 运行成本的开放 JSON 标准（AUDR）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openaudr/audr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    title "openaudr/audr 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19", "2026-11-20"]
     y-axis "stars" 13 --> 18
-    line [14, 15, 17]
+    line [14, 15, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-19 17（+3）
+2026-10-18 14 → 2026-11-20 17（+3）
 
 
 ---

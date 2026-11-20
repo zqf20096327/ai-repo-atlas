@@ -45,12 +45,12 @@ MiSTerClaw 是面向 MiSTer-FPGA 的 MCP 服务器，让 Claude、ChatGPT、Curs
 ```mermaid
 xychart-beta
     title "catallo/misterclaw 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-19 10（+0）
+2026-11-02 10 → 2026-11-20 10（+0）
 
 
 ---

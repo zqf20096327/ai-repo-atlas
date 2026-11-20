@@ -1,6 +1,6 @@
 # aarora79/my-ai-assets
 
-⭐ 23 · HTML · MIT-0 · 推送 2026-11-18 · [GitHub](https://github.com/aarora79/my-ai-assets) · 个人维护
+⭐ 24 · HTML · MIT-0 · 推送 2026-11-18 · [GitHub](https://github.com/aarora79/my-ai-assets) · 个人维护
 
 **面向 Claude 等 LLM 的提示词模板与 Agent 技能合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aarora79/my-ai-assets 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-11-19 23（+1）
+2026-10-18 22 → 2026-11-20 24（+2）
 
 
 ---

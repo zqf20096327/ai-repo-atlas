@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ksachdeva/langchain-graphrag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "ksachdeva/langchain-graphrag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 172 --> 175
-    line [173, 174]
+    line [173, 174, 174]
 ```
 
-2026-10-18 173 → 2026-11-19 174（+1）
+2026-10-18 173 → 2026-11-20 174（+1）
 
 
 ---

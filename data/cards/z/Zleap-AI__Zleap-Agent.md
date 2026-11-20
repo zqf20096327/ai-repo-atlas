@@ -1,6 +1,6 @@
 # Zleap-AI/Zleap-Agent
 
-⭐ 221 · TypeScript · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Zleap-AI/Zleap-Agent) · [官网](https://zleap.com) · 组织维护 · 中文 README
+⭐ 222 · TypeScript · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Zleap-AI/Zleap-Agent) · [官网](https://zleap.com) · 组织维护 · 中文 README
 
 **面向本地小参数模型的 workspace 优先 agent 运行框架**
 
@@ -45,12 +45,12 @@ Node.js 编写的 agent harness，面向本地与 OpenAI 兼容模型。核心�
 ```mermaid
 xychart-beta
     title "Zleap-AI/Zleap-Agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 218 --> 222
-    line [219, 220, 219, 221, 220, 221, 221]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 218 --> 223
+    line [219, 220, 219, 221, 220, 221, 222]
 ```
 
-2026-10-18 219 → 2026-11-19 221（+2）
+2026-10-18 219 → 2026-11-20 222（+3）
 
 
 ---

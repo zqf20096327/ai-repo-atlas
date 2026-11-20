@@ -1,6 +1,6 @@
 # starfall-org/generative
 
-⭐ 10 · Kotlin · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/starfall-org/generative) · [官网](https://starfall-org.github.io/generative/) · 组织维护
+⭐ 10 · Kotlin · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/starfall-org/generative) · [官网](https://starfall-org.github.io/generative/) · 组织维护
 
 **Android 原生 AI 客户端：BYOK 接入多家模型服务**
 
@@ -40,6 +40,18 @@
 > L28: Generative is a native Android AI client for your own models, tools, and remote machines. Bring your own API key or
 > L32: - **Models on your terms:** Connect OpenAI-compatible APIs, OpenAI Responses, Anthropic, Gemini, Ollama, or support
 > L34: - **MCP tools with control:** Connect remote MCP servers over Streamable HTTP or SSE, manage tool access, and choos
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "starfall-org/generative 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
 
 
 ---

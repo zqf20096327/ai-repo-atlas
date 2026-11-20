@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/WebsiteBench
 
-⭐ 534 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TIGER-AI-Lab/WebsiteBench) · [官网](https://website-bench.com/) · 组织维护
+⭐ 547 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TIGER-AI-Lab/WebsiteBench) · [官网](https://website-bench.com/) · 组织维护
 
 **评测 AI agent 通过浏览器探索重建网站能力的基准**
 
@@ -45,13 +45,13 @@ WebsiteBench 是一个网站重建基准：给定可经浏览器探索的生产�
 
 ```mermaid
 xychart-beta
-    title "TIGER-AI-Lab/WebsiteBench 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 80 --> 575
-    line [121, 195, 235, 278, 336, 373, 416, 476, 509, 534]
+    title "TIGER-AI-Lab/WebsiteBench 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 79 --> 589
+    line [121, 195, 235, 278, 336, 373, 416, 476, 509, 534, 547]
 ```
 
-2026-11-08 121 → 2026-11-19 534（+413）
+2026-11-08 121 → 2026-11-20 547（+426）
 
 
 ---

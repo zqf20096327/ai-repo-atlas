@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sarva-20/LLM-Observability-FOSS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "sarva-20/LLM-Observability-FOSS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 34 --> 37
-    line [36, 35]
+    line [36, 35, 35]
 ```
 
-2026-10-18 36 → 2026-11-19 35（-1）
+2026-10-18 36 → 2026-11-20 35（-1）
 
 
 ---

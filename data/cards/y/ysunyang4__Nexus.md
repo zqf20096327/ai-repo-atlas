@@ -1,6 +1,6 @@
 # ysunyang4/Nexus
 
-⭐ 406 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ysunyang4/Nexus) · [官网](https://github.com/ysunyang4/Nexus) · 个人维护 · 中文 README
+⭐ 431 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ysunyang4/Nexus) · [官网](https://github.com/ysunyang4/Nexus) · 个人维护 · 中文 README
 
 **本地 AI 控制中枢：让网页版 AI 经 MCP 隧道操作本地工作站**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ysunyang4/Nexus 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 371 --> 409
-    line [374, 406]
+    title "ysunyang4/Nexus 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 369 --> 436
+    line [374, 406, 431]
 ```
 
-2026-11-18 374 → 2026-11-19 406（+32）
+2026-11-18 374 → 2026-11-20 431（+57）
 
 
 ---

@@ -1,6 +1,6 @@
 # ACiDekCZ/strom-research
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ACiDekCZ/strom-research) · [官网](https://stromapp.info) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ACiDekCZ/strom-research) · [官网](https://stromapp.info) · 个人维护 · 中文 README
 
 **把 AI agent 变成家谱研究员：查教区档案、留证据、生成 GEDCOM**
 
@@ -46,12 +46,12 @@ strom 是一个 CLI 工具，把用户已有的编程 agent（Claude Code、Open
 ```mermaid
 xychart-beta
     title "ACiDekCZ/strom-research 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20"]
     y-axis "stars" 5 --> 23
     line [6, 7, 6, 19, 21, 22, 22]
 ```
 
-2026-10-18 6 → 2026-11-19 22（+16）
+2026-10-18 6 → 2026-11-20 22（+16）
 
 
 ---

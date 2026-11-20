@@ -1,6 +1,6 @@
 # mollendorff-ai/forge
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/mollendorff-ai/forge) · [官网](https://mollendorff-ai.github.io/forge/) · 组织维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mollendorff-ai/forge) · [官网](https://mollendorff-ai.github.io/forge/) · 组织维护
 
 **面向 FP&A 与 AI agent 的纯文本财务建模引擎**
 
@@ -41,6 +41,18 @@ Rust 编写的财务建模引擎：读取 YAML 格式的模型（输入、公式
 > L12: Forge reads a financial model written in YAML (inputs, formulas, tables, scenarios) and calculates it with 203 Exce
 > L36: 1. **A person alone.** A model is a text file: change an input, `forge calculate`, and `git diff` shows every resul
 > L39: 4. **A pipeline with AI.** An agent reads a new report and writes or updates the model, Forge checks and calculates
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mollendorff-ai/forge 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
 
 
 ---

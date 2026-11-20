@@ -1,6 +1,6 @@
 # khadinakbarlabs/ai-brand-monitor-mcp
 
-⭐ 24 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/khadinakbarlabs/ai-brand-monitor-mcp) · [官网](https://apify.com/khadinakbar/ai-search-brand-monitor) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/khadinakbarlabs/ai-brand-monitor-mcp) · [官网](https://apify.com/khadinakbar/ai-search-brand-monitor) · 个人维护
 
 **MCP 服务器：让 AI agent 追踪品牌在四大 AI 搜索中的可见度**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "khadinakbarlabs/ai-brand-monitor-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 23 --> 29
-    line [28, 27, 24, 24]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 22 --> 29
+    line [28, 27, 24, 23]
 ```
 
-2026-10-18 28 → 2026-11-19 24（-4）
+2026-10-18 28 → 2026-11-20 23（-5）
 
 
 ---

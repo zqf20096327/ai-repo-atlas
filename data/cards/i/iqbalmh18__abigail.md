@@ -45,13 +45,13 @@ Abigail 是命令行工具与异步 Python 库，通过第三方公共 Web AI �
 
 ```mermaid
 xychart-beta
-    title "iqbalmh18/abigail 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "iqbalmh18/abigail 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 14 --> 17
-    line [16, 15]
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-19 15（-1）
+2026-10-18 16 → 2026-11-20 15（-1）
 
 
 ---

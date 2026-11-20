@@ -1,6 +1,6 @@
 # djcopley/ShellOracle
 
-⭐ 355 · Python · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/djcopley/ShellOracle) · 个人维护
+⭐ 354 · Python · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/djcopley/ShellOracle) · 个人维护
 
 **终端 AI 工具：从自然语言描述生成 shell 命令**
 
@@ -45,12 +45,12 @@ ShellOracle 是面向命令行用户的 shell 命令生成工具，以 BASH/ZSH/
 ```mermaid
 xychart-beta
     title "djcopley/ShellOracle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
     y-axis "stars" 353 --> 356
-    line [354, 355, 355]
+    line [354, 355, 354]
 ```
 
-2026-10-18 354 → 2026-11-19 355（+1）
+2026-10-18 354 → 2026-11-20 354（+0）
 
 
 ---

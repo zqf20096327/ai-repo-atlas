@@ -1,6 +1,6 @@
 # vortico/flama
 
-⭐ 307 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/vortico/flama) · [官网](https://flama.dev) · 组织维护
+⭐ 306 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/vortico/flama) · [官网](https://flama.dev) · 组织维护
 
 **把预测与生成模型打包为生产 API 的 Python 服务框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "vortico/flama 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 303 --> 308
-    line [304, 306, 307, 307]
+    line [304, 306, 307, 306]
 ```
 
-2026-10-18 304 → 2026-11-19 307（+3）
+2026-10-18 304 → 2026-11-20 306（+2）
 
 
 ---

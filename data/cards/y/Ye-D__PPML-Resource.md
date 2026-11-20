@@ -1,6 +1,6 @@
 # Ye-D/PPML-Resource
 
-⭐ 265 · 推送 2026-02-02 · [GitHub](https://github.com/Ye-D/PPML-Resource) · 个人维护
+⭐ 264 · 推送 2026-02-02 · [GitHub](https://github.com/Ye-D/PPML-Resource) · 个人维护
 
 **隐私保护机器学习论文清单：收录 2025 年起相关文献**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "Ye-D/PPML-Resource 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 264 --> 266
-    line [265, 265]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 263 --> 266
+    line [265, 264]
 ```
 
-2026-10-18 265 → 2026-11-19 265（+0）
+2026-10-18 265 → 2026-11-20 264（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microblink/blinkid-android
 
-⭐ 469 · Kotlin · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/microblink/blinkid-android) · [官网](http://microblink.github.io/blinkid-android/) · 组织维护
+⭐ 468 · Kotlin · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/microblink/blinkid-android) · [官网](http://microblink.github.io/blinkid-android/) · 组织维护
 
 **面向 Android 原生应用的 AI 证件扫描与数据提取 SDK**
 
@@ -45,12 +45,12 @@ Microblink 公司提供的 Android 证件扫描 SDK：通过相机扫描各类�
 ```mermaid
 xychart-beta
     title "microblink/blinkid-android 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 466 --> 470
-    line [467, 468, 469, 469]
+    line [467, 468, 469, 468]
 ```
 
-2026-10-18 467 → 2026-11-19 469（+2）
+2026-10-18 467 → 2026-11-20 468（+1）
 
 
 ---

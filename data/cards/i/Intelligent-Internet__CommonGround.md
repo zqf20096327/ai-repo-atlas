@@ -1,6 +1,6 @@
 # Intelligent-Internet/CommonGround
 
-⭐ 153 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/Intelligent-Internet/CommonGround) · 组织维护 · 中文 README
+⭐ 152 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/Intelligent-Internet/CommonGround) · 组织维护 · 中文 README
 
 **人机与多智能体协作的持久公共工作记录账本内核**
 
@@ -45,12 +45,12 @@ CommonGround Kernel 是一个开源的“账本内核”，为人-智能体与�
 ```mermaid
 xychart-beta
     title "Intelligent-Internet/CommonGround 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 152 --> 154
-    line [153, 153]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 151 --> 154
+    line [153, 152]
 ```
 
-2026-10-18 153 → 2026-11-19 153（+0）
+2026-10-18 153 → 2026-11-20 152（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # marketing-factory/ai-filemetadata
 
-⭐ 14 · PHP · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/marketing-factory/ai-filemetadata) · [官网](https://www.marketing-factory.de) · 组织维护
+⭐ 14 · PHP · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/marketing-factory/ai-filemetadata) · [官网](https://www.marketing-factory.de) · 组织维护
 
 **TYPO3 扩展：用 OpenAI 自动为图片生成替代文本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "marketing-factory/ai-filemetadata 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # eclaire-labs/eclaire
 
-⭐ 928 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/eclaire-labs/eclaire) · [官网](https://eclaire.co) · 组织维护
+⭐ 927 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/eclaire-labs/eclaire) · [官网](https://eclaire.co) · 组织维护
 
 **本地优先的自托管 AI 助手：统一管理任务、笔记、文档、照片与书签**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "eclaire-labs/eclaire 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 925 --> 929
-    line [927, 926, 927, 928, 928]
+    line [927, 926, 927, 928, 927]
 ```
 
-2026-10-18 927 → 2026-11-19 928（+1）
+2026-10-18 927 → 2026-11-20 927（+0）
 
 
 ---

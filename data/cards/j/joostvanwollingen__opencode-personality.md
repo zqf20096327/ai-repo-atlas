@@ -44,13 +44,13 @@ OpenCode 编辑器的第三方插件，通过 JSON 配置文件定义多个性�
 
 ```mermaid
 xychart-beta
-    title "joostvanwollingen/opencode-personality 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    title "joostvanwollingen/opencode-personality 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 35 --> 39
-    line [36, 37, 38]
+    line [36, 37, 38, 38]
 ```
 
-2026-10-18 36 → 2026-11-19 38（+2）
+2026-10-18 36 → 2026-11-20 38（+2）
 
 
 ---

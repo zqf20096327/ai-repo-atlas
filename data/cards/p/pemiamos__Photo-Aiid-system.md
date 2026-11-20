@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pemiamos/Photo-Aiid-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "pemiamos/Photo-Aiid-system 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 14 --> 30
-    line [15, 29]
+    line [15, 29, 29]
 ```
 
-2026-10-18 15 → 2026-11-19 29（+14）
+2026-10-18 15 → 2026-11-20 29（+14）
 
 
 ---

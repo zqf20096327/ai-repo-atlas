@@ -1,6 +1,6 @@
 # punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links
 
-⭐ 49 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links) · [官网](https://phishprobeai.streamlit.app/) · 个人维护
+⭐ 64 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links) · [官网](https://phishprobeai.streamlit.app/) · 个人维护
 
 **面向安全研究者的钓鱼 URL 机器学习检测原型与演示**
 
@@ -40,6 +40,18 @@
 > L7: A Streamlit application and a set of Jupyter notebooks for extracting URL
 > L18: recreates the selected Random Forest model as a pipeline with MinMax scaling.
 > L20: checked-in `model.pkl` for inference.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 48 --> 65
+    line [49, 64]
+```
+
+2026-11-19 49 → 2026-11-20 64（+15）
 
 
 ---

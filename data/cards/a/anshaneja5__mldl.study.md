@@ -1,6 +1,6 @@
 # anshaneja5/mldl.study
 
-⭐ 382 · JavaScript · MIT · 推送 2026-08-21 · [GitHub](https://github.com/anshaneja5/mldl.study) · [官网](https://www.mldl.study/) · 个人维护
+⭐ 382 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/anshaneja5/mldl.study) · [官网](https://www.mldl.study/) · 个人维护
 
 **面向学生的 ML/DL 学习路线图与资源策展平台**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "anshaneja5/mldl.study 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 378 --> 383
     line [379, 380, 381, 382, 382]
 ```
 
-2026-10-18 379 → 2026-11-19 382（+3）
+2026-10-18 379 → 2026-11-20 382（+3）
 
 
 ---

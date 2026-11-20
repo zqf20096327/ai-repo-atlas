@@ -1,6 +1,6 @@
 # Tsai1030/Full-multi-agent
 
-⭐ 26 · Python · 推送 2026-06-10 · [GitHub](https://github.com/Tsai1030/Full-multi-agent) · 个人维护 · 中文 README
+⭐ 25 · Python · 推送 2026-06-10 · [GitHub](https://github.com/Tsai1030/Full-multi-agent) · 个人维护 · 中文 README
 
 **紫微斗數 AI 算命 SaaS：真實排盤+LangGraph 多代理解盤**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Tsai1030/Full-multi-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
     y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    line [25, 26, 25]
 ```
 
-2026-10-18 25 → 2026-11-19 26（+1）
+2026-10-18 25 → 2026-11-20 25（+0）
 
 
 ---

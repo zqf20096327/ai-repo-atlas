@@ -1,6 +1,6 @@
 # ruanchaves/hashformers
 
-⭐ 78 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/ruanchaves/hashformers) · 个人维护
+⭐ 79 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/ruanchaves/hashformers) · 个人维护
 
 **给 NLP 开发者：Transformer+beam search 的本地标签/标识符分词库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ruanchaves/hashformers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 77 --> 80
+    line [78, 79]
 ```
 
-2026-10-18 78 → 2026-11-19 78（+0）
+2026-10-18 78 → 2026-11-20 79（+1）
 
 
 ---

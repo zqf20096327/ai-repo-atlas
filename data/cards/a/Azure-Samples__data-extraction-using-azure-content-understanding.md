@@ -46,12 +46,12 @@ Azure-Samples 官方示例项目：用 Azure Content Understanding 从文档中�
 ```mermaid
 xychart-beta
     title "Azure-Samples/data-extraction-using-azure-content-understanding 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
     y-axis "stars" 27 --> 31
     line [28, 29, 28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-19 30（+2）
+2026-10-18 28 → 2026-11-20 30（+2）
 
 
 ---

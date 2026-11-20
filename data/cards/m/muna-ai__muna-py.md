@@ -1,6 +1,6 @@
 # muna-ai/muna-py
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/muna-ai/muna-py) · [官网](https://docs.muna.ai) · 组织维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/muna-ai/muna-py) · [官网](https://docs.muna.ai) · 组织维护
 
 **本地与云端编译运行 AI 模型的 Python 客户端与 CLI**
 
@@ -45,12 +45,12 @@ Muna 的 Python 分发包，含 Python 客户端与命令行界面，通过 pip 
 ```mermaid
 xychart-beta
     title "muna-ai/muna-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-18 86 → 2026-11-19 86（+0）
+2026-10-18 86 → 2026-11-20 86（+0）
 
 
 ---

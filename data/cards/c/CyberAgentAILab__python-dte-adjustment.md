@@ -44,12 +44,12 @@ dte_adj 是一个用于估计分布处理效应（distributional treatment effec
 ```mermaid
 xychart-beta
     title "CyberAgentAILab/python-dte-adjustment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

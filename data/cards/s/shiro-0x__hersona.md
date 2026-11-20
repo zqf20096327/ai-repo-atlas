@@ -1,6 +1,6 @@
 # shiro-0x/hersona
 
-⭐ 58 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/shiro-0x/hersona) · [官网](https://shiro-0x.github.io/hersona/) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/shiro-0x/hersona) · [官网](https://shiro-0x.github.io/hersona/) · 个人维护 · 中文 README
 
 **AI agent 人格模板库：346 个可组合角色属性，一次构建多端移植**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shiro-0x/hersona 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 53 --> 59
-    line [54, 55, 56, 57, 54, 58, 58]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 53 --> 60
+    line [54, 55, 56, 57, 54, 58, 59]
 ```
 
-2026-10-18 54 → 2026-11-19 58（+4）
+2026-10-18 54 → 2026-11-20 59（+5）
 
 
 ---

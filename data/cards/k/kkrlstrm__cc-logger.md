@@ -1,6 +1,6 @@
 # kkrlstrm/cc-logger
 
-⭐ 12 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/kkrlstrm/cc-logger) · 个人维护
+⭐ 13 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/kkrlstrm/cc-logger) · 个人维护
 
 **Claude Code 会话观测工具：把 agent 运行全程记录进 Postgres**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kkrlstrm/cc-logger 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-19 12（+1）
+2026-10-18 11 → 2026-11-20 13（+2）
 
 
 ---

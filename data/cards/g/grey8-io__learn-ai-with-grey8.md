@@ -1,6 +1,6 @@
 # grey8-io/learn-ai-with-grey8
 
-⭐ 10 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/grey8-io/learn-ai-with-grey8) · [官网](https://grey8-io.github.io/learn-ai-with-grey8) · 组织维护
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/grey8-io/learn-ai-with-grey8) · [官网](https://grey8-io.github.io/learn-ai-with-grey8) · 组织维护
 
 **本地 LLM 导师驱动的自学 AI 训练营（15 个项目、12 阶段）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "grey8-io/learn-ai-with-grey8 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
     y-axis "stars" 9 --> 12
-    line [11, 10, 10]
+    line [11, 10, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 10（-1）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Ming-3-tts
 
-⭐ 32 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Saganaki22/ComfyUI-Ming-3-tts) · [官网](https://huggingface.co/drbaph/Ming-3.0-tts-ComfyUI) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Saganaki22/ComfyUI-Ming-3-tts) · [官网](https://huggingface.co/drbaph/Ming-3.0-tts-ComfyUI) · 个人维护 · 中文 README
 
 **ComfyUI 的 Ming-3.0-tts 语音生成节点，支持 0.5B 与 Tiny 9B**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Saganaki22/ComfyUI-Ming-3-tts 星数(近 13 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 14 --> 33
-    line [15, 19, 20, 21, 22, 24, 25, 27, 19, 28, 31, 32, 32]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 14 --> 34
+    line [15, 19, 20, 21, 22, 24, 25, 27, 19, 28, 31, 32, 33]
 ```
 
-2026-10-22 15 → 2026-11-19 32（+17）
+2026-10-22 15 → 2026-11-20 33（+18）
 
 
 ---

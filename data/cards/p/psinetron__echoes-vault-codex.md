@@ -1,6 +1,6 @@
 # psinetron/echoes-vault-codex
 
-⭐ 127 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/psinetron/echoes-vault-codex) · 个人维护
+⭐ 86 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/psinetron/echoes-vault-codex) · 个人维护
 
 **给编码 agent 的仓库本地持久记忆插件与可移植协议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "psinetron/echoes-vault-codex 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 126 --> 133
-    line [132, 131, 132, 131, 127, 127]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 82 --> 136
+    line [132, 131, 132, 131, 127, 86]
 ```
 
-2026-10-18 132 → 2026-11-19 127（-5）
+2026-10-18 132 → 2026-11-20 86（-46）
 
 
 ---

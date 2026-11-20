@@ -1,6 +1,6 @@
 # bunkerlab-net/mempalace
 
-⭐ 66 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/bunkerlab-net/mempalace) · 组织维护
+⭐ 65 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/bunkerlab-net/mempalace) · 组织维护
 
 **Rust 实现的本地优先 AI 助手记忆库（MCP 记忆服务器）**
 
@@ -46,12 +46,12 @@ MemPalace 的 Rust 重实现：以单个约 13MB 静态二进制提供本地记�
 ```mermaid
 xychart-beta
     title "bunkerlab-net/mempalace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 62 --> 67
-    line [63, 66, 66]
+    line [63, 66, 65]
 ```
 
-2026-10-18 63 → 2026-11-19 66（+3）
+2026-10-18 63 → 2026-11-20 65（+2）
 
 
 ---

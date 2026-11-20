@@ -1,6 +1,6 @@
 # CommonstackAI/UncommonRoute
 
-⭐ 704 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/CommonstackAI/UncommonRoute) · 组织维护 · 中文 README
+⭐ 703 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/CommonstackAI/UncommonRoute) · 组织维护 · 中文 README
 
 **本地 LLM 路由代理：按请求难度自动选模型以降低 API 费用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CommonstackAI/UncommonRoute 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
     y-axis "stars" 698 --> 705
-    line [699, 701, 699, 703, 704, 704]
+    line [699, 701, 699, 703, 704, 703]
 ```
 
-2026-10-18 699 → 2026-11-19 704（+5）
+2026-10-18 699 → 2026-11-20 703（+4）
 
 
 ---

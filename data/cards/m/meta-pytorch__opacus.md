@@ -1,6 +1,6 @@
 # meta-pytorch/opacus
 
-⭐ 1,971 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/meta-pytorch/opacus) · [官网](https://opacus.ai) · 组织维护
+⭐ 1,969 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/meta-pytorch/opacus) · [官网](https://opacus.ai) · 组织维护
 
 **PyTorch 差分隐私训练库：最少代码改动实现 DP-SGD**
 
@@ -45,12 +45,12 @@ Opacus 是用于以差分隐私方式训练 PyTorch 模型的库：实例化 Pri
 ```mermaid
 xychart-beta
     title "meta-pytorch/opacus 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
     y-axis "stars" 1966 --> 1972
-    line [1967, 1968, 1969, 1968, 1970, 1971, 1971]
+    line [1967, 1968, 1969, 1968, 1970, 1971, 1969]
 ```
 
-2026-10-18 1,967 → 2026-11-19 1,971（+4）
+2026-10-18 1,967 → 2026-11-20 1,969（+2）
 
 
 ---

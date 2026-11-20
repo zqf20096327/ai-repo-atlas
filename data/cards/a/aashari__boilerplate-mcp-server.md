@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aashari/boilerplate-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
+    title "aashari/boilerplate-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-19", "2026-11-20"]
     y-axis "stars" 72 --> 75
-    line [73, 74, 73]
+    line [73, 74, 73, 73]
 ```
 
-2026-10-18 73 → 2026-11-19 73（+0）
+2026-10-18 73 → 2026-11-20 73（+0）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "yangalan123/TemporalPointProcessPapers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 123 --> 125
     line [124, 124]
 ```
 
-2026-10-18 124 → 2026-11-19 124（+0）
+2026-10-18 124 → 2026-11-20 124（+0）
 
 
 ---

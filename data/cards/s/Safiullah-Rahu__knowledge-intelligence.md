@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Safiullah-Rahu/knowledge-intelligence 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-10", "2026-11-19"]
+    title "Safiullah-Rahu/knowledge-intelligence 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-10", "2026-11-19", "2026-11-20"]
     y-axis "stars" 340 --> 343
-    line [341, 342, 341]
+    line [341, 342, 341, 341]
 ```
 
-2026-11-02 341 → 2026-11-19 341（+0）
+2026-11-02 341 → 2026-11-20 341（+0）
 
 
 ---

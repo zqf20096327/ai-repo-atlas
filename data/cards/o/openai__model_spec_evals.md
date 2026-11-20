@@ -1,6 +1,6 @@
 # openai/model_spec_evals
 
-⭐ 22 · Python · MIT · 推送 2026-03-24 · [GitHub](https://github.com/openai/model_spec_evals) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-03-24 · [GitHub](https://github.com/openai/model_spec_evals) · 组织维护
 
 **评测模型对 OpenAI Model Spec 合规度的套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/model_spec_evals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-11-19 22（+1）
+2026-10-18 21 → 2026-11-20 23（+2）
 
 
 ---

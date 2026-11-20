@@ -45,13 +45,13 @@ SAP 官方 CodeJam 工作坊材料，围绕 SAP Integration Suite 的 AI 功能�
 
 ```mermaid
 xychart-beta
-    title "SAP-samples/ai-enabled-integrations-codejam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "SAP-samples/ai-enabled-integrations-codejam 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

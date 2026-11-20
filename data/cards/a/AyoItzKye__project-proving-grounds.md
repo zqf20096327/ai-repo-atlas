@@ -1,6 +1,6 @@
 # AyoItzKye/project-proving-grounds
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/AyoItzKye/project-proving-grounds) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 Halo MCC 玩家的离线自定义对局 PvP 机器人模组**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

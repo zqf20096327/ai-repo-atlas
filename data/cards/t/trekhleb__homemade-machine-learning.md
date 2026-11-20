@@ -1,6 +1,6 @@
 # trekhleb/homemade-machine-learning
 
-⭐ 24,860 · Jupyter Notebook · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/homemade-machine-learning) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为学习者提供从零实现的经典机器学习算法示例与交互演示**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

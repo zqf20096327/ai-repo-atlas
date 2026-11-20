@@ -1,6 +1,6 @@
 # dcsnak/GitHub-Copilot-app
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/dcsnak/GitHub-Copilot-app) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **管理 GitHub Copilot agent 工作流的桌面应用**
 
@@ -11,7 +11,7 @@ GitHub 官方的桌面应用，面向开发者管理从想法到 pull request �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

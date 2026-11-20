@@ -1,6 +1,6 @@
 # duthaho/claudekit
 
-⭐ 97 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/duthaho/claudekit) · [官网](https://claudekit.duthaho.dev/) · 个人维护
+⭐ 98 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/duthaho/claudekit) · [官网](https://claudekit.duthaho.dev/) · 个人维护
 
 **面向资深工程师的 Claude Code 验证优先工程工具集（15 技能+8 agent）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "duthaho/claudekit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-19"]
-    y-axis "stars" 95 --> 98
-    line [97, 96, 97, 97]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-20"]
+    y-axis "stars" 95 --> 99
+    line [97, 96, 97, 98]
 ```
 
-2026-10-18 97 → 2026-11-19 97（+0）
+2026-10-18 97 → 2026-11-20 98（+1）
 
 
 ---

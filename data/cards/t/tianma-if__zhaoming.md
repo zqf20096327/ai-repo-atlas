@@ -1,6 +1,6 @@
 # tianma-if/zhaoming
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/tianma-if/zhaoming) · [官网](https://zhaoming.app) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/tianma-if/zhaoming) · [官网](https://zhaoming.app) · 个人维护 · 中文 README
 
 **面向命理爱好者的 AI 排盘与流式解盘工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tianma-if/zhaoming 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-18 10 → 2026-11-19 12（+2）
+2026-10-18 10 → 2026-11-20 13（+3）
 
 
 ---

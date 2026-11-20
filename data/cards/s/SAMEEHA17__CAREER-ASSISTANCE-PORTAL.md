@@ -43,12 +43,12 @@ Next.js 全栈项目，README 主体为 create-next-app 生成的脚手架文档
 ```mermaid
 xychart-beta
     title "SAMEEHA17/CAREER-ASSISTANCE-PORTAL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-19 18（+1）
+2026-10-18 17 → 2026-11-20 18（+1）
 
 
 ---

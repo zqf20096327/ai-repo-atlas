@@ -1,6 +1,6 @@
 # OpenSpace-Dev/gittomd
 
-⭐ 15 · TypeScript · 推送 2026-04-29 · [GitHub](https://github.com/OpenSpace-Dev/gittomd) · [官网](https://gittomd.com) · 组织维护
+⭐ 16 · TypeScript · 推送 2026-04-29 · [GitHub](https://github.com/OpenSpace-Dev/gittomd) · [官网](https://gittomd.com) · 组织维护
 
 **把 GitHub 仓库打包成单个 Markdown 文件的 Web 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenSpace-Dev/gittomd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-19 15（+0）
+2026-10-18 15 → 2026-11-20 16（+1）
 
 
 ---

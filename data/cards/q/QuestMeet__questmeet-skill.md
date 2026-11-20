@@ -1,6 +1,6 @@
 # QuestMeet/questmeet-skill
 
-⭐ 24 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/QuestMeet/questmeet-skill) · [官网](https://questmeet.ai) · 组织维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/QuestMeet/questmeet-skill) · [官网](https://questmeet.ai) · 组织维护 · 中文 README
 
 **让 AI 代理接入 QuestMeet 机会网络撮合人脉的技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QuestMeet/questmeet-skill 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-20"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-11-08 23 → 2026-11-19 24（+1）
+2026-11-08 23 → 2026-11-20 24（+1）
 
 
 ---

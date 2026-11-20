@@ -1,6 +1,6 @@
 # inoue0426/awesome-computational-biology
 
-⭐ 161 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/inoue0426/awesome-computational-biology) · 个人维护
+⭐ 163 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/inoue0426/awesome-computational-biology) · 个人维护
 
 **计算生物学资源清单：数据库、软件与论文策展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inoue0426/awesome-computational-biology 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 159 --> 162
-    line [160, 161, 160, 161, 161]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 159 --> 164
+    line [160, 161, 160, 161, 163]
 ```
 
-2026-10-18 160 → 2026-11-19 161（+1）
+2026-10-18 160 → 2026-11-20 163（+3）
 
 
 ---

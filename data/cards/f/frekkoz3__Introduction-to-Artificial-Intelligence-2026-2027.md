@@ -44,13 +44,13 @@ University of Trieste 2026/2027 学年《人工智能导论》课程的辅导材
 
 ```mermaid
 xychart-beta
-    title "frekkoz3/Introduction-to-Artificial-Intelligence-2026-2027 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    title "frekkoz3/Introduction-to-Artificial-Intelligence-2026-2027 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-19 13（+2）
+2026-10-18 11 → 2026-11-20 13（+2）
 
 
 ---

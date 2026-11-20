@@ -1,6 +1,6 @@
 # naver-ai/eccv-caption
 
-⭐ 56 · Python · NOASSERTION · 推送 2026-07-07 · [GitHub](https://github.com/naver-ai/eccv-caption) · 组织维护
+⭐ 57 · Python · NOASSERTION · 推送 2026-07-07 · [GitHub](https://github.com/naver-ai/eccv-caption) · 组织维护
 
 **扩展 COCO 图文检索评测数据集与指标计算库（ECCV 2022）**
 
@@ -46,12 +46,12 @@ NAVER AI Lab 发布的 Extended COCO Validation (ECCV) Caption 数据集及配�
 ```mermaid
 xychart-beta
     title "naver-ai/eccv-caption 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
 ```
 
-2026-10-18 56 → 2026-11-19 56（+0）
+2026-10-18 56 → 2026-11-20 57（+1）
 
 
 ---

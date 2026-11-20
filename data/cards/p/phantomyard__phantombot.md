@@ -41,6 +41,18 @@ Phantombot 为 AI harness 提供持久身份与长期记忆（日志、决策、
 > L13: remembers. It ships with a native harness and can also drive your existing Pi,
 > L40: - **Bring your own brain** — native harness or Pi, Claude Code, and Codex, with
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "phantomyard/phantombot 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 17 --> 19
+    line [18, 18]
+```
+
+2026-11-19 18 → 2026-11-20 18（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `588c4e7303f5` · [字段定义](../../DATASET.md)*

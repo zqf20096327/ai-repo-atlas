@@ -1,6 +1,6 @@
 # Furox-Art/scientific-computing-system
 
-⭐ 23 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Furox-Art/scientific-computing-system) · [官网](https://furox-art.github.io/scientific-computing-system/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Furox-Art/scientific-computing-system) · [官网](https://furox-art.github.io/scientific-computing-system/) · 个人维护
 
 **零依赖纯 Python 科学计算库，覆盖数值方法到量子模拟 35 个模块**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Furox-Art/scientific-computing-system 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 17 --> 24
     line [18, 20, 22, 18, 23, 23]
 ```
 
-2026-10-18 18 → 2026-11-19 23（+5）
+2026-10-18 18 → 2026-11-20 23（+5）
 
 
 ---

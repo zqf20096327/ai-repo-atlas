@@ -1,6 +1,6 @@
 # Scottcjn/langchain-rustchain
 
-⭐ 12 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/Scottcjn/langchain-rustchain) · [官网](https://rustchain.org) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/Scottcjn/langchain-rustchain) · [官网](https://rustchain.org) · 个人维护
 
 **让 LangChain agent 只读查询 RustChain 链上数据的工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Scottcjn/langchain-rustchain 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-19"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-29", "2026-11-20"]
+    y-axis "stars" 10 --> 13
+    line [12, 11]
 ```
 
-2026-10-29 12 → 2026-11-19 12（+0）
+2026-10-29 12 → 2026-11-20 11（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Colin-XKL/FeedCraft
 
-⭐ 314 · Go · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/Colin-XKL/FeedCraft) · [官网](https://feed-craft.colinx.one/start.html) · 个人维护 · 中文 README
+⭐ 314 · Go · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Colin-XKL/FeedCraft) · [官网](https://feed-craft-doc.vercel.app/) · 个人维护 · 中文 README
 
 **RSS 中间件：为订阅源加全文、翻译、AI 摘要与筛选**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Colin-XKL/FeedCraft 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20"]
     y-axis "stars" 310 --> 315
     line [311, 312, 313, 314, 313, 314, 314]
 ```
 
-2026-10-18 311 → 2026-11-19 314（+3）
+2026-10-18 311 → 2026-11-20 314（+3）
 
 
 ---

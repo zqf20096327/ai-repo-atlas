@@ -1,6 +1,6 @@
 # aliasgharebrahimi/Axiom
 
-⭐ 88 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/aliasgharebrahimi/Axiom) · 个人维护
+⭐ 88 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/aliasgharebrahimi/Axiom) · 个人维护
 
 **深度学习数学基础教程：概念讲解配 PyTorch 实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aliasgharebrahimi/Axiom 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-12", "2026-11-20"]
     y-axis "stars" 13 --> 94
     line [19, 83, 84, 87, 88, 88]
 ```
 
-2026-10-28 19 → 2026-11-19 88（+69）
+2026-10-28 19 → 2026-11-20 88（+69）
 
 
 ---

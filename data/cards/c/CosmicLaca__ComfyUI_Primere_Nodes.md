@@ -40,6 +40,18 @@
 > L24: Primere Nodes is not a collection of individual utility nodes. It's a **consistent full-system solution** architect
 > L56: **Central Orchestrator:** **Primiere Model Control** node reads selected checkpoint, auto-loads saved settings (sam
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CosmicLaca/ComfyUI_Primere_Nodes 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 152 --> 154
+    line [153, 153]
+```
+
+2026-11-19 153 → 2026-11-20 153（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `221302eed8aa` · [字段定义](../../DATASET.md)*

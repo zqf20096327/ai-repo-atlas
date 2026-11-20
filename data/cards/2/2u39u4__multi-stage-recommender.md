@@ -46,12 +46,12 @@ NeoRec 是一个端到端的多阶段推荐系统项目，在 MovieLens-1M 上�
 ```mermaid
 xychart-beta
     title "2u39u4/multi-stage-recommender 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

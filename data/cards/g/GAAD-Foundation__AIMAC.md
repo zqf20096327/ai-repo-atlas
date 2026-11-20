@@ -45,12 +45,12 @@ AIMAC 通过 OpenRouter API 调用多个 LLM 生成 HTML 页面，用 Playwright
 ```mermaid
 xychart-beta
     title "GAAD-Foundation/AIMAC 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 24 --> 29
     line [25, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-19 28（+3）
+2026-10-18 25 → 2026-11-20 28（+3）
 
 
 ---

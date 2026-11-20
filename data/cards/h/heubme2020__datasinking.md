@@ -1,6 +1,6 @@
 # heubme2020/datasinking
 
-⭐ 23 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/heubme2020/datasinking) · [官网](https://datasink.ing) · 组织维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/heubme2020/datasinking) · [官网](https://datasink.ing) · 组织维护 · 中文 README
 
 **为 LLM/RAG 提供多市场财报全文 Markdown 的 API 与 MCP 服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "heubme2020/datasinking 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-11-19 23（+2）
+2026-10-18 21 → 2026-11-20 24（+3）
 
 
 ---

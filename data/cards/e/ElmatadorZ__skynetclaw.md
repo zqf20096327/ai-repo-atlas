@@ -1,6 +1,6 @@
 # ElmatadorZ/skynetclaw
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/ElmatadorZ/skynetclaw) · [官网](https://github.com/ElmatadorZ/skynetclaw/wiki) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/ElmatadorZ/skynetclaw) · [官网](https://github.com/ElmatadorZ/skynetclaw/wiki) · 个人维护
 
 **本地优先的多智能体议会系统：14 个 agent 持久记忆、自评与治理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ElmatadorZ/skynetclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-19 16（+1）
+2026-10-18 15 → 2026-11-20 17（+2）
 
 
 ---

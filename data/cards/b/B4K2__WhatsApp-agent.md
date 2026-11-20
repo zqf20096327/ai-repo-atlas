@@ -41,6 +41,18 @@
 > L25: * **Python MCP Server** → exposes standardized tools (send, search, list).
 > L26: * **Google ADK Agent** → orchestrates message crafting + disclaimer + sending.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "B4K2/WhatsApp-agent 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-19 11 → 2026-11-20 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `aaf3a4c6b3f2` · [字段定义](../../DATASET.md)*

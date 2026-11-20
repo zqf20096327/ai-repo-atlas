@@ -1,6 +1,6 @@
 # etairl/parallel-browser-mcp
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/etairl/parallel-browser-mcp) · 个人维护
+⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/etairl/parallel-browser-mcp) · 个人维护
 
 **供 AI agent 并行多会话浏览器自动化的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "etairl/parallel-browser-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 40 --> 45
+    line [42, 43, 44, 43, 44, 41]
 ```
 
-2026-10-18 42 → 2026-11-19 44（+2）
+2026-10-18 42 → 2026-11-20 41（-1）
 
 
 ---

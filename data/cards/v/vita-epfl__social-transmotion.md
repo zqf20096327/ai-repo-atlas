@@ -44,13 +44,13 @@ Social-Transmotion 是 ICLR 2024 论文的官方实现：基于 Transformer 的�
 
 ```mermaid
 xychart-beta
-    title "vita-epfl/social-transmotion 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-16", "2026-11-19"]
+    title "vita-epfl/social-transmotion 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 63 --> 66
-    line [65, 64, 65]
+    line [65, 64, 65, 65]
 ```
 
-2026-11-02 65 → 2026-11-19 65（+0）
+2026-11-02 65 → 2026-11-20 65（+0）
 
 
 ---

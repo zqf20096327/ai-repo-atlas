@@ -1,6 +1,6 @@
 # maximtrp/tmplot
 
-⭐ 23 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/maximtrp/tmplot) · [官网](https://tmplot.readthedocs.org) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/maximtrp/tmplot) · [官网](https://tmplot.readthedocs.org) · 个人维护
 
 **主题模型分析与可视化 Python 库，供数据科学家使用**
 
@@ -45,12 +45,12 @@ tmplot 是一个 Python 包，用于主题模型的分析、可视化与比较�
 ```mermaid
 xychart-beta
     title "maximtrp/tmplot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-19 23（+0）
+2026-10-18 23 → 2026-11-20 23（+0）
 
 
 ---

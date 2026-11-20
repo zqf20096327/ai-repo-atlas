@@ -1,6 +1,6 @@
 # paperfoot/autoresearch-cli
 
-⭐ 34 · Rust · MIT · 推送 2026-04-17 · [GitHub](https://github.com/paperfoot/autoresearch-cli) · 个人维护
+⭐ 35 · Rust · MIT · 推送 2026-04-17 · [GitHub](https://github.com/paperfoot/autoresearch-cli) · 个人维护
 
 **让任意 AI 编程代理通宵跑自主实验循环的 Rust CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "paperfoot/autoresearch-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-11-19 34（+1）
+2026-10-18 33 → 2026-11-20 35（+2）
 
 
 ---

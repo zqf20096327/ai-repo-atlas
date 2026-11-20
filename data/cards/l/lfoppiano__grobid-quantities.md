@@ -44,13 +44,13 @@ GROBID 的扩展模块，面向技术与科学文献和专利（支持文本、X
 
 ```mermaid
 xychart-beta
-    title "lfoppiano/grobid-quantities 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "lfoppiano/grobid-quantities 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 84 --> 87
-    line [86, 85]
+    line [86, 85, 85]
 ```
 
-2026-10-18 86 → 2026-11-19 85（-1）
+2026-10-18 86 → 2026-11-20 85（-1）
 
 
 ---

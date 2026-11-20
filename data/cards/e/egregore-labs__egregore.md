@@ -1,6 +1,6 @@
 # egregore-labs/egregore
 
-⭐ 293 · Shell · MIT · 推送 2026-11-07 · [GitHub](https://github.com/egregore-labs/egregore) · [官网](https://egregore.xyz/) · 组织维护
+⭐ 294 · Shell · MIT · 推送 2026-11-07 · [GitHub](https://github.com/egregore-labs/egregore) · [官网](https://egregore.xyz/) · 组织维护
 
 **给团队与其 AI 编码 agent 的共享组织记忆层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "egregore-labs/egregore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
-    y-axis "stars" 291 --> 294
-    line [292, 293, 293]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
+    y-axis "stars" 291 --> 295
+    line [292, 293, 294]
 ```
 
-2026-10-18 292 → 2026-11-19 293（+1）
+2026-10-18 292 → 2026-11-20 294（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # tensorly/tensorly
 
-⭐ 1,693 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/tensorly/tensorly) · [官网](http://tensorly.org) · 组织维护
+⭐ 1,692 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/tensorly/tensorly) · [官网](http://tensorly.org) · 组织维护
 
 **Python 张量学习库：张量分解、张量代数与多后端计算**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tensorly/tensorly 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 1692 --> 1695
-    line [1693, 1694, 1693, 1694, 1693, 1693]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 1691 --> 1695
+    line [1693, 1694, 1693, 1694, 1693, 1692]
 ```
 
-2026-10-18 1,693 → 2026-11-19 1,693（+0）
+2026-10-18 1,693 → 2026-11-20 1,692（-1）
 
 
 ---

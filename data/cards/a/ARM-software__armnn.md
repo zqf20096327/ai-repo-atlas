@@ -1,6 +1,6 @@
 # ARM-software/armnn
 
-⭐ 1,319 · C++ · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ARM-software/armnn) · [官网](https://developer.arm.com/products/processors/machine-learning/arm-nn) · 组织维护
+⭐ 1,318 · C++ · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ARM-software/armnn) · [官网](https://developer.arm.com/products/processors/machine-learning/arm-nn) · 组织维护
 
 **面向 Arm CPU/GPU/NPU 的开源 ML 推理引擎 SDK（已停止维护）**
 
@@ -46,12 +46,12 @@ Arm 官方开源的 C++ 机器学习推理引擎 SDK，用于在 Arm Cortex-A CP
 ```mermaid
 xychart-beta
     title "ARM-software/armnn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 1318 --> 1321
-    line [1319, 1320, 1319, 1319]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 1317 --> 1321
+    line [1319, 1320, 1319, 1318]
 ```
 
-2026-10-18 1,319 → 2026-11-19 1,319（+0）
+2026-10-18 1,319 → 2026-11-20 1,318（-1）
 
 
 ---

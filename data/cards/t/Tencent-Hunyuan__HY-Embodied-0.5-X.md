@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-Embodied-0.5-X
 
-⭐ 67 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Embodied-0.5-X) · [官网](https://tairos.tencent.com/openSourceModels/hy-embodied) · 组织维护 · 中文 README
+⭐ 66 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Embodied-0.5-X) · [官网](https://tairos.tencent.com/openSourceModels/hy-embodied) · 组织维护 · 中文 README
 
 **腾讯开源的具身智能多模态基础模型，面向真实机器人理解-推理-行动**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HY-Embodied-0.5-X 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18", "2026-11-20"]
     y-axis "stars" 65 --> 68
-    line [67, 66, 67, 67]
+    line [67, 66, 67, 66]
 ```
 
-2026-10-18 67 → 2026-11-19 67（+0）
+2026-10-18 67 → 2026-11-20 66（-1）
 
 
 ---

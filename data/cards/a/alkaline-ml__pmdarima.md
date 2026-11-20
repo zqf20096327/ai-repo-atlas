@@ -1,6 +1,6 @@
 # alkaline-ml/pmdarima
 
-⭐ 1,742 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/alkaline-ml/pmdarima) · [官网](https://www.alkaline-ml.com/pmdarima) · 组织维护
+⭐ 1,741 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/alkaline-ml/pmdarima) · [官网](https://www.alkaline-ml.com/pmdarima) · 组织维护
 
 **Python 时间序列统计库：提供 R auto.arima 等价功能与 ARIMA 建模**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alkaline-ml/pmdarima 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 1736 --> 1743
-    line [1737, 1738, 1739, 1738, 1740, 1742, 1742]
+    line [1737, 1738, 1739, 1738, 1740, 1742, 1741]
 ```
 
-2026-10-18 1,737 → 2026-11-19 1,742（+5）
+2026-10-18 1,737 → 2026-11-20 1,741（+4）
 
 
 ---

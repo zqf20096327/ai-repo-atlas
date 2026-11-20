@@ -1,6 +1,6 @@
 # DoubleML/doubleml-for-py
 
-⭐ 800 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/DoubleML/doubleml-for-py) · [官网](https://docs.doubleml.org) · 组织维护
+⭐ 802 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/DoubleML/doubleml-for-py) · [官网](https://docs.doubleml.org) · 组织维护
 
 **Python 双重/去偏机器学习因果推断库：估计处理效应并做统计推断**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DoubleML/doubleml-for-py 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 793 --> 801
-    line [794, 795, 798, 799, 800, 800]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 793 --> 803
+    line [794, 795, 798, 799, 800, 802]
 ```
 
-2026-10-18 794 → 2026-11-19 800（+6）
+2026-10-18 794 → 2026-11-20 802（+8）
 
 
 ---

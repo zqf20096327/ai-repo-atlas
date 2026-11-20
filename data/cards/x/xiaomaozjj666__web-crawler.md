@@ -1,6 +1,6 @@
 # xiaomaozjj666/web-crawler
 
-⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/xiaomaozjj666/web-crawler) · [官网](https://xiaomaozjj666.github.io/web-crawler/) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xiaomaozjj666/web-crawler) · [官网](https://xiaomaozjj666.github.io/web-crawler/) · 个人维护 · 中文 README
 
 **面向开发者的隐身网页采集与授权安全测试工具集**
 
@@ -46,12 +46,12 @@ Scrapling 风格的 Python 爬虫库，核心能力包括：基于 lxml 的自�
 ```mermaid
 xychart-beta
     title "xiaomaozjj666/web-crawler 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-18 11 → 2026-11-19 11（+0）
+2026-11-18 11 → 2026-11-20 11（+0）
 
 
 ---

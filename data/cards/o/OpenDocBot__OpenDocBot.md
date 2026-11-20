@@ -1,6 +1,6 @@
 # OpenDocBot/OpenDocBot
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/OpenDocBot/OpenDocBot) · [官网](https://opendocbot.com/) · 组织维护 · 中文 README
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/OpenDocBot/OpenDocBot) · [官网](https://opendocbot.com/) · 组织维护 · 中文 README
 
 **面向 M365 用户的客户端 AI Office 加载项，BYOK 可自托管**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OpenDocBot/OpenDocBot 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 9 --> 14
     line [10, 12, 13, 13]
 ```
 
-2026-10-29 10 → 2026-11-19 13（+3）
+2026-10-29 10 → 2026-11-20 13（+3）
 
 
 ---

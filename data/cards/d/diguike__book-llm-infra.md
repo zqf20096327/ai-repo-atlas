@@ -1,6 +1,6 @@
 # diguike/book-llm-infra
 
-⭐ 19 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/diguike/book-llm-infra) · [官网](https://inferloop.dev/llm-infra) · 个人维护 · 中文 README
+⭐ 21 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/diguike/book-llm-infra) · [官网](https://inferloop.dev/llm-infra) · 个人维护 · 中文 README
 
 **面向应用层工程师的 LLM 基础设施实战书（含代码示例）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "diguike/book-llm-infra 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 19, 18, 19, 21]
 ```
 
-2026-10-18 17 → 2026-11-19 19（+2）
+2026-10-18 17 → 2026-11-20 21（+4）
 
 
 ---

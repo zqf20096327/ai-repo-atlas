@@ -1,6 +1,6 @@
 # ThisTakou/Converter-Python-to-Rust
 
-⭐ 35 · Rust · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ThisTakou/Converter-Python-to-Rust) · 个人维护
+⭐ 32 · Rust · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ThisTakou/Converter-Python-to-Rust) · 个人维护
 
 **用 LLM 把 Python 项目自动迁移为 Rust 的桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThisTakou/Converter-Python-to-Rust 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 33 --> 38
-    line [37, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 31 --> 38
+    line [37, 34, 35, 32]
 ```
 
-2026-10-18 37 → 2026-11-19 35（-2）
+2026-10-18 37 → 2026-11-20 32（-5）
 
 
 ---

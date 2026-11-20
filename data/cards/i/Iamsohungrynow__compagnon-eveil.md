@@ -1,6 +1,6 @@
 # Iamsohungrynow/compagnon-eveil
 
-⭐ 18 · HTML · 推送 2026-07-07 · [GitHub](https://github.com/Iamsohungrynow/compagnon-eveil) · [官网](https://compagnon-eveil.vercel.app/) · 个人维护
+⭐ 19 · HTML · 推送 2026-07-07 · [GitHub](https://github.com/Iamsohungrynow/compagnon-eveil) · [官网](https://compagnon-eveil.vercel.app/) · 个人维护
 
 **学习陪伴与情绪打卡的 AI 伴侣演示应用（Next.js）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Iamsohungrynow/compagnon-eveil 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-19"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-26", "2026-11-20"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-26 18 → 2026-11-19 18（+0）
+2026-10-26 18 → 2026-11-20 19（+1）
 
 
 ---

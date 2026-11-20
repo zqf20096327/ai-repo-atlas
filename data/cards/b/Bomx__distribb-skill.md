@@ -1,6 +1,6 @@
 # Bomx/distribb-skill
 
-⭐ 204 · Python · 推送 2026-10-11 · [GitHub](https://github.com/Bomx/distribb-skill) · [官网](https://distribb.io) · 组织维护
+⭐ 203 · Python · 推送 2026-10-11 · [GitHub](https://github.com/Bomx/distribb-skill) · [官网](https://distribb.io) · 组织维护
 
 **面向 AI agent 的 SEO 自动化技能包，接入 Distribb 数据与发布网络**
 
@@ -46,12 +46,12 @@ Distribb 提供的 agent 技能包，可安装到 Claude Code、Codex、OpenClaw
 ```mermaid
 xychart-beta
     title "Bomx/distribb-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 199 --> 205
-    line [200, 201, 202, 201, 203, 204, 204]
+    line [200, 201, 202, 201, 203, 204, 203]
 ```
 
-2026-10-18 200 → 2026-11-19 204（+4）
+2026-10-18 200 → 2026-11-20 203（+3）
 
 
 ---

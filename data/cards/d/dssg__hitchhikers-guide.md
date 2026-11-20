@@ -1,6 +1,6 @@
 # dssg/hitchhikers-guide
 
-⭐ 1,054 · Jupyter Notebook · 推送 2026-07-16 · [GitHub](https://github.com/dssg/hitchhikers-guide) · [官网](https://dssg.github.io/hitchhikers-guide/) · 组织维护
+⭐ 1,053 · Jupyter Notebook · 推送 2026-07-16 · [GitHub](https://github.com/dssg/hitchhikers-guide) · [官网](https://dssg.github.io/hitchhikers-guide/) · 组织维护
 
 **面向社会公益的数据科学训练营课程与教程合集**
 
@@ -45,12 +45,12 @@ DSSG（Data Science for Social Good）项目的培训资料库：介绍该项目
 ```mermaid
 xychart-beta
     title "dssg/hitchhikers-guide 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 1051 --> 1056
-    line [1052, 1053, 1054, 1055, 1053, 1054, 1054]
+    line [1052, 1053, 1054, 1055, 1053, 1054, 1053]
 ```
 
-2026-10-18 1,052 → 2026-11-19 1,054（+2）
+2026-10-18 1,052 → 2026-11-20 1,053（+1）
 
 
 ---

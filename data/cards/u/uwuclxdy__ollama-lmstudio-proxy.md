@@ -1,6 +1,6 @@
 # uwuclxdy/ollama-lmstudio-proxy
 
-⭐ 34 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/uwuclxdy/ollama-lmstudio-proxy) · 个人维护
+⭐ 34 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/uwuclxdy/ollama-lmstudio-proxy) · 个人维护
 
 **将 LM Studio 模型通过 Ollama API 暴露的 Rust 代理**
 
@@ -46,12 +46,12 @@ Rust 编写的代理服务器：对外提供全套 Ollama API 端点（chat/gene
 ```mermaid
 xychart-beta
     title "uwuclxdy/ollama-lmstudio-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-19 34（+1）
+2026-10-18 33 → 2026-11-20 34（+1）
 
 
 ---

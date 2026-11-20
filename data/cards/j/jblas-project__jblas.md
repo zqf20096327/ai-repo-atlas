@@ -1,6 +1,6 @@
 # jblas-project/jblas
 
-⭐ 605 · Java · BSD-3-Clause · 推送 2026-11-04 · [GitHub](https://github.com/jblas-project/jblas) · [官网](http://jblas.org) · 组织维护
+⭐ 604 · Java · BSD-3-Clause · 推送 2026-11-04 · [GitHub](https://github.com/jblas-project/jblas) · [官网](http://jblas.org) · 组织维护
 
 **Java 线性代数矩阵库：封装 BLAS/LAPACK 原生库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jblas-project/jblas 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 603 --> 606
-    line [604, 605, 605]
+    line [604, 605, 604]
 ```
 
-2026-11-08 604 → 2026-11-19 605（+1）
+2026-11-08 604 → 2026-11-20 604（+0）
 
 
 ---

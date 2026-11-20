@@ -1,6 +1,6 @@
 # CipherNoct/douyin-cli
 
-⭐ 306 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/CipherNoct/douyin-cli) · 个人维护 · 中文 README
+⭐ 307 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/CipherNoct/douyin-cli) · 个人维护 · 中文 README
 
 **给抖音账号运营者的评论管理 CLI：抓评论并用 AI 生成回复**
 
@@ -41,6 +41,18 @@
 > L8: > 抖音评论运营 CLI 工具。基于 Bridge Framework（Bridge Server + 油猴脚本），支持视频搜索、评论获取、**AI 人格化回复**、**ReplyEngine 独立生成**、**草稿管理**、运营仪
 > L32: |🤖 **AI 人格化回复**|7 种人格自动轮换，A-F 六类回复策略，避免"AI 味"|
 > L268: - `lib/llm.js` — LLM 客户端（OpenAI + Anthropic 双 Provider，A-F 策略，Token 追踪）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CipherNoct/douyin-cli 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 305 --> 308
+    line [306, 307]
+```
+
+2026-11-19 306 → 2026-11-20 307（+1）
 
 
 ---

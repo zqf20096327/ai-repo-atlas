@@ -1,6 +1,6 @@
 # msu-denver/bili-core
 
-⭐ 15 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/msu-denver/bili-core) · [官网](https://c3-lab.org/) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/msu-denver/bili-core) · [官网](https://c3-lab.org/) · 组织维护
 
 **构建与测试 LLM 应用的框架：单智能体/多智能体编排+对抗安全测试**
 
@@ -47,12 +47,12 @@ MSU Denver C3 实验室开发、NSF 与 NAIRR Pilot 资助的开源 LLM 应用�
 ```mermaid
 xychart-beta
     title "msu-denver/bili-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-19 15（+0）
+2026-10-18 15 → 2026-11-20 15（+0）
 
 
 ---

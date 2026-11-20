@@ -1,6 +1,6 @@
 # Rikorose/DeepFilterNet
 
-⭐ 5,048 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/Rikorose/DeepFilterNet) · [官网](https://huggingface.co/spaces/hshr/DeepFilterNet2) · 组织维护
+⭐ 5,055 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/Rikorose/DeepFilterNet) · [官网](https://huggingface.co/spaces/hshr/DeepFilterNet2) · 组织维护
 
 **全频带音频（48kHz）实时语音降噪框架，基于深度滤波**
 
@@ -44,13 +44,13 @@ DeepFilterNet 是面向全频带音频（48kHz）的低复杂度语音增强框�
 
 ```mermaid
 xychart-beta
-    title "Rikorose/DeepFilterNet 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 4975 --> 5054
-    line [4981, 4994, 4999, 5007, 5011, 5020, 5025, 5037, 5042, 5048]
+    title "Rikorose/DeepFilterNet 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 4974 --> 5062
+    line [4981, 4994, 4999, 5007, 5011, 5020, 5025, 5037, 5042, 5048, 5055]
 ```
 
-2026-11-08 4,981 → 2026-11-19 5,048（+67）
+2026-11-08 4,981 → 2026-11-20 5,055（+74）
 
 
 ---

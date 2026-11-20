@@ -1,6 +1,6 @@
 # TovTechOrg/Tov-learn
 
-⭐ 36 · PowerShell · MIT · 推送 2026-09-29 · [GitHub](https://github.com/TovTechOrg/Tov-learn) · [官网](https://tovtech.org) · 组织维护
+⭐ 36 · PowerShell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/TovTechOrg/Tov-learn) · [官网](https://tovtech.org) · 组织维护
 
 **基于 Claude Code 的交互式 AI 教学 skill，用间隔重复学习编程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TovTechOrg/Tov-learn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-19 36（+0）
+2026-10-18 36 → 2026-11-20 36（+0）
 
 
 ---

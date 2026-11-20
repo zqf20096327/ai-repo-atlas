@@ -1,6 +1,6 @@
 # JonathanRiche/verde
 
-⭐ 35 · Zig · MIT · 推送 2026-11-13 · [GitHub](https://github.com/JonathanRiche/verde) · [官网](https://verdeai.dev) · 个人维护
+⭐ 36 · Zig · MIT · 推送 2026-11-19 · [GitHub](https://github.com/JonathanRiche/verde) · [官网](https://verdeai.dev) · 个人维护
 
 **在桌面平铺窗口中并排运行各编码 agent 的本地工作区**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JonathanRiche/verde 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 31 --> 36
-    line [32, 34, 35, 35]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 31 --> 37
+    line [32, 34, 35, 36]
 ```
 
-2026-11-08 32 → 2026-11-19 35（+3）
+2026-11-08 32 → 2026-11-20 36（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # hybroai/hybro
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/hybroai/hybro) · [官网](https://hybro.ai) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/hybroai/hybro) · [官网](https://hybro.ai) · 组织维护
 
 **开源多智能体互操作平台：编排本地与远程 AI Agent 协同**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hybroai/hybro 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
     y-axis "stars" 10 --> 21
     line [11, 18, 19, 20, 20]
 ```
 
-2026-10-29 11 → 2026-11-19 20（+9）
+2026-10-29 11 → 2026-11-20 20（+9）
 
 
 ---

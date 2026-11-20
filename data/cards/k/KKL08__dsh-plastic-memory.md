@@ -1,6 +1,6 @@
 # KKL08/dsh-plastic-memory
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/KKL08/dsh-plastic-memory) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/KKL08/dsh-plastic-memory) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 提供自动沉淀、检索与治理的长期记忆插件**
 
@@ -39,6 +39,18 @@
 
 > L17: 这是一款面向 DeepSeek Harness 的长期记忆插件，集记忆的自动沉淀、按需唤起与质量维护于一体。它能在日常对话与任务中记下值得保存的关键信息，在后续协作中适时提供上下文背景，并通过健康监测机制持续维护记忆内容质量。
 > L88: |基本架构和工具|记忆怎么写入、带入、治理，以及模型能用的九个工具|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KKL08/dsh-plastic-memory 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-19 14 → 2026-11-20 14（+0）
 
 
 ---

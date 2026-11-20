@@ -1,6 +1,6 @@
 # CONSTELLATION-ENGINE/constellation-engine
 
-⭐ 72 · JavaScript · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/CONSTELLATION-ENGINE/constellation-engine) · [官网](https://constellation-engine.com) · 个人维护
+⭐ 71 · JavaScript · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/CONSTELLATION-ENGINE/constellation-engine) · [官网](https://constellation-engine.com) · 个人维护
 
 **为长周期 AI agent 提供持久记忆拓扑运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CONSTELLATION-ENGINE/constellation-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "CONSTELLATION-ENGINE/constellation-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 70 --> 73
-    line [71, 72]
+    line [71, 72, 71]
 ```
 
-2026-10-18 71 → 2026-11-19 72（+1）
+2026-10-18 71 → 2026-11-20 71（+0）
 
 
 ---

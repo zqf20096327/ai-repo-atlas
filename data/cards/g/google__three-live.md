@@ -1,6 +1,6 @@
 # google/three-live
 
-⭐ 446 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google/three-live) · [官网](https://google.github.io/three-live/) · 组织维护
+⭐ 462 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google/three-live) · [官网](https://google.github.io/three-live/) · 组织维护
 
 **把 Three.js 代码 JIT 编译为原生 3D/XR 渲染的开发工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "google/three-live 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 190 --> 469
-    line [213, 322, 338, 374, 390, 403, 422, 432, 446]
+    title "google/three-live 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 189 --> 486
+    line [213, 322, 338, 374, 390, 403, 422, 432, 446, 462]
 ```
 
-2026-11-08 213 → 2026-11-19 446（+233）
+2026-11-08 213 → 2026-11-20 462（+249）
 
 
 ---

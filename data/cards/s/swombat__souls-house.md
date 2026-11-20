@@ -1,6 +1,6 @@
 # swombat/souls-house
 
-⭐ 47 · Ruby · MIT · 推送 2026-11-18 · [GitHub](https://github.com/swombat/souls-house) · [官网](https://souls.house) · 个人维护
+⭐ 47 · Ruby · MIT · 推送 2026-11-19 · [GitHub](https://github.com/swombat/souls-house) · [官网](https://souls.house) · 个人维护
 
 **自托管平台：让 AI 角色拥有持久记忆、日志与自有环境地“生活**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "swombat/souls-house 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20"]
     y-axis "stars" 44 --> 48
     line [45, 46, 45, 46, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-19 47（+2）
+2026-10-18 45 → 2026-11-20 47（+2）
 
 
 ---

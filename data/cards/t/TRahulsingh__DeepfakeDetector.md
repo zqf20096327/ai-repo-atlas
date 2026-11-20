@@ -1,6 +1,6 @@
 # TRahulsingh/DeepfakeDetector
 
-⭐ 40 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/TRahulsingh/DeepfakeDetector) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/TRahulsingh/DeepfakeDetector) · 个人维护
 
 **基于 EfficientNet-B0 的深度伪造图像/视频检测系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TRahulsingh/DeepfakeDetector 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 38 --> 41
-    line [39, 40, 39, 40, 40]
+    line [39, 40, 39, 40, 39]
 ```
 
-2026-10-18 39 → 2026-11-19 40（+1）
+2026-10-18 39 → 2026-11-20 39（+0）
 
 
 ---

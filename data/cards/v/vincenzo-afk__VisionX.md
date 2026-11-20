@@ -1,6 +1,6 @@
 # vincenzo-afk/VisionX
 
-⭐ 34 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/vincenzo-afk/VisionX) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/vincenzo-afk/VisionX) · 个人维护
 
 **实时目标检测、跟踪与视频分析平台（YOLOv8+FastAPI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vincenzo-afk/VisionX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-11-19 34（+0）
+2026-10-18 34 → 2026-11-20 35（+1）
 
 
 ---

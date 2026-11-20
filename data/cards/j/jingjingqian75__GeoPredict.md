@@ -45,12 +45,12 @@ GeoPredict 是一个 geometry-aware 的 vision-language-action（VLA）机器人
 ```mermaid
 xychart-beta
     title "jingjingqian75/GeoPredict 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 31 --> 36
     line [32, 34, 35, 35]
 ```
 
-2026-10-18 32 → 2026-11-19 35（+3）
+2026-10-18 32 → 2026-11-20 35（+3）
 
 
 ---

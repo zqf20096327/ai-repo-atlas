@@ -1,6 +1,6 @@
 # eightBEC/fastapi-ml-skeleton
 
-⭐ 602 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/eightBEC/fastapi-ml-skeleton) · 个人维护
+⭐ 601 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/eightBEC/fastapi-ml-skeleton) · 个人维护
 
 **FastAPI 机器学习模型服务脚手架，含房价预测示例**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eightBEC/fastapi-ml-skeleton 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 600 --> 603
-    line [601, 602, 602]
+    line [601, 602, 601]
 ```
 
-2026-10-18 601 → 2026-11-19 602（+1）
+2026-10-18 601 → 2026-11-20 601（+0）
 
 
 ---

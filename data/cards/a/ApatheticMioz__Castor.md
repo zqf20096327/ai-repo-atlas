@@ -1,6 +1,6 @@
 # ApatheticMioz/Castor
 
-⭐ 14 · Rust · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ApatheticMioz/Castor) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **连接云端编排与本地执行模型的 Rust MCP 微内核**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

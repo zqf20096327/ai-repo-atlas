@@ -1,6 +1,6 @@
 # buptlg/fireagent
 
-⭐ 77 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/buptlg/fireagent) · 组织维护 · 中文 README
+⭐ 76 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/buptlg/fireagent) · 组织维护 · 中文 README
 
 **消防隐患图像分析多模态智能体：证据约束的风险判断**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "buptlg/fireagent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 75 --> 78
+    line [77, 76]
 ```
 
-2026-10-18 77 → 2026-11-19 77（+0）
+2026-10-18 77 → 2026-11-20 76（-1）
 
 
 ---

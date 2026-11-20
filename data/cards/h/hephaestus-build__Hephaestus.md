@@ -40,6 +40,18 @@
 > L18: It reviews pull requests, issues, code reviews and team discussions as the work happens.
 > L54:  Your own model provider: OpenAI, Azure OpenAI, or any OpenAI-compatible endpoint.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hephaestus-build/Hephaestus 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-19 23 → 2026-11-20 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `5712a73a79a0` · [字段定义](../../DATASET.md)*

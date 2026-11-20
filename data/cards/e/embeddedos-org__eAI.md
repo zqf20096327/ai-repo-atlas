@@ -40,6 +40,18 @@ eAI 是 EmbeddedOS 生态的端侧 AI 层，C 语言编写，提供模型加载�
 > L10: written in C. It provides a runtime contract for loading and running models plus
 > L11: several build-selectable runtimes: **EAI-Min**, a lightweight agent runtime for
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "embeddedos-org/eAI 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `26d47a518439` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@ Swift 编写的 macOS 桌面 AI 助手，面向不使用命令行的普通用户
 
 ```mermaid
 xychart-beta
-    title "SyntheticAutonomicMind/SAM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
+    title "SyntheticAutonomicMind/SAM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-19", "2026-11-20"]
     y-axis "stars" 131 --> 135
-    line [132, 133, 134]
+    line [132, 133, 134, 134]
 ```
 
-2026-10-18 132 → 2026-11-19 134（+2）
+2026-10-18 132 → 2026-11-20 134（+2）
 
 
 ---

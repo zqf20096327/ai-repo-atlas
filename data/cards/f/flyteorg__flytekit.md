@@ -1,6 +1,6 @@
 # flyteorg/flytekit
 
-⭐ 323 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/flyteorg/flytekit) · [官网](https://docs.flyte.org/en/latest/api/flytekit/docs_index.html) · 组织维护
+⭐ 322 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/flyteorg/flytekit) · [官网](https://docs.flyte.org/en/latest/api/flytekit/docs_index.html) · 组织维护
 
 **面向 Flyte 平台的 Python SDK：编写、测试与部署任务和工作流**
 
@@ -44,12 +44,12 @@ Flytekit 是构建在 Flyte 之上的 Python 库，用于编写、测试、部�
 ```mermaid
 xychart-beta
     title "flyteorg/flytekit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
     y-axis "stars" 319 --> 324
-    line [320, 321, 322, 323, 323]
+    line [320, 321, 322, 323, 322]
 ```
 
-2026-10-18 320 → 2026-11-19 323（+3）
+2026-10-18 320 → 2026-11-20 322（+2）
 
 
 ---

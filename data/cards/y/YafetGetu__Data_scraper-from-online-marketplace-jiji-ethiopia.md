@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "YafetGetu/Data_scraper-from-online-marketplace-jiji-ethiopia 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-22", "2026-11-11", "2026-11-20"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-22 14 → 2026-11-19 15（+1）
+2026-10-22 14 → 2026-11-20 15（+1）
 
 
 ---

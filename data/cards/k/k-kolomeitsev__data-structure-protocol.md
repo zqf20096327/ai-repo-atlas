@@ -1,6 +1,6 @@
 # k-kolomeitsev/data-structure-protocol
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/k-kolomeitsev/data-structure-protocol) · 个人维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/k-kolomeitsev/data-structure-protocol) · 个人维护
 
 **给 AI 编码 agent 的图结构长期记忆技能，减少重复扫描**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "k-kolomeitsev/data-structure-protocol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 66 --> 69
+    line [68, 67]
 ```
 
-2026-10-18 68 → 2026-11-19 68（+0）
+2026-10-18 68 → 2026-11-20 67（-1）
 
 
 ---

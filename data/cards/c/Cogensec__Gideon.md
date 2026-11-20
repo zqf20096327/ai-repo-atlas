@@ -1,6 +1,6 @@
 # Cogensec/Gideon
 
-⭐ 37 · TypeScript · 推送 2026-06-25 · [GitHub](https://github.com/Cogensec/Gideon) · [官网](http://gideon.cogensec.com) · 组织维护
+⭐ 38 · TypeScript · 推送 2026-06-25 · [GitHub](https://github.com/Cogensec/Gideon) · [官网](http://gideon.cogensec.com) · 组织维护
 
 **自主安全运营与红队 agent：威胁调查、漏洞分析与 IOC 评估**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Cogensec/Gideon 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 34 --> 38
-    line [36, 35, 36, 37, 35, 37, 37]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 34 --> 39
+    line [36, 35, 36, 37, 35, 37, 38]
 ```
 
-2026-10-18 36 → 2026-11-19 37（+1）
+2026-10-18 36 → 2026-11-20 38（+2）
 
 
 ---

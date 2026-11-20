@@ -1,6 +1,6 @@
 # w1251788888-web/moxi-drama-studio
 
-⭐ 30 · JavaScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/w1251788888-web/moxi-drama-studio) · 个人维护 · 中文 README
+⭐ 31 · JavaScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/w1251788888-web/moxi-drama-studio) · 个人维护 · 中文 README
 
 **给短剧编剧的本地创作工作台：一句话故事到可导出剧本**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "w1251788888-web/moxi-drama-studio 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 15 --> 31
-    line [16, 21, 23, 29, 30, 30]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 15 --> 32
+    line [16, 21, 23, 29, 30, 31]
 ```
 
-2026-11-08 16 → 2026-11-19 30（+14）
+2026-11-08 16 → 2026-11-20 31（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # arnaumarin/InterpAgent
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/arnaumarin/InterpAgent) · [官网](https://arxiv.org/abs/2605.01555) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/arnaumarin/InterpAgent) · [官网](https://arxiv.org/abs/2605.01555) · 个人维护
 
 **用 AI Agent 自动化语言模型可解释性与特征发现的框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arnaumarin/InterpAgent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 16, 16]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 16, 17]
 ```
 
-2026-10-18 12 → 2026-11-19 16（+4）
+2026-10-18 12 → 2026-11-20 17（+5）
 
 
 ---

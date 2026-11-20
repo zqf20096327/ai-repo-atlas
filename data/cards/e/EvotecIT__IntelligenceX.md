@@ -1,6 +1,6 @@
 # EvotecIT/IntelligenceX
 
-⭐ 11 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/EvotecIT/IntelligenceX) · [官网](http://intelligencex.dev/) · 组织维护
+⭐ 11 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/EvotecIT/IntelligenceX) · [官网](http://intelligencex.dev/) · 组织维护
 
 **.NET 零信任 AI 平台：PR 审查、桌面聊天与工具包**
 
@@ -46,12 +46,12 @@ IntelligenceX 是面向 .NET 的工具集与平台，包含 GitHub Actions AI PR
 ```mermaid
 xychart-beta
     title "EvotecIT/IntelligenceX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

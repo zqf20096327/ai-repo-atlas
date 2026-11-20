@@ -1,6 +1,6 @@
 # EqualifyEverything/equalify-iris
 
-⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/EqualifyEverything/equalify-iris) · [官网](https://philosophers.group/iris-beyond-solving-blindness/) · 组织维护
+⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/EqualifyEverything/equalify-iris) · [官网](https://philosophers.group/iris-beyond-solving-blindness/) · 组织维护
 
 **将 PDF 页面经视觉模型转为 WCAG 2.2 AA 可访问 HTML**
 
@@ -45,12 +45,12 @@ Iris 把 PDF 各页交给视觉模型读取，结合可改进的提示词生成�
 ```mermaid
 xychart-beta
     title "EqualifyEverything/equalify-iris 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 10 --> 14
-    line [11, 13, 11, 13, 13]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 10 --> 16
+    line [11, 13, 11, 13, 15]
 ```
 
-2026-10-18 11 → 2026-11-19 13（+2）
+2026-10-18 11 → 2026-11-20 15（+4）
 
 
 ---

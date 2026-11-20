@@ -1,6 +1,6 @@
 # oracle-samples/oracle-aidp-samples
 
-⭐ 61 · Python · UPL-1.0 · 推送 2026-11-17 · [GitHub](https://github.com/oracle-samples/oracle-aidp-samples) · [官网](https://docs.oracle.com/en/cloud/paas/ai-data-platform/index.html) · 组织维护
+⭐ 61 · Python · UPL-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/oracle-samples/oracle-aidp-samples) · [官网](https://docs.oracle.com/en/cloud/paas/ai-data-platform/index.html) · 组织维护
 
 **Oracle AI 数据平台工作台示例笔记本集（数据工程/ML/AI）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "oracle-samples/oracle-aidp-samples 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
     y-axis "stars" 55 --> 62
     line [56, 57, 56, 59, 60, 61, 61]
 ```
 
-2026-10-18 56 → 2026-11-19 61（+5）
+2026-10-18 56 → 2026-11-20 61（+5）
 
 
 ---

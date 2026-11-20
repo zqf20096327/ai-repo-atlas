@@ -1,6 +1,6 @@
 # aapatel09/handson-unsupervised-learning
 
-⭐ 704 · Jupyter Notebook · 推送 2026-03-01 · [GitHub](https://github.com/aapatel09/handson-unsupervised-learning) · 个人维护
+⭐ 703 · Jupyter Notebook · 推送 2026-03-01 · [GitHub](https://github.com/aapatel09/handson-unsupervised-learning) · 个人维护
 
 **O'Reilly 无监督学习图书配套代码仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aapatel09/handson-unsupervised-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 703 --> 708
-    line [706, 707, 704, 704]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 702 --> 708
+    line [706, 707, 704, 703]
 ```
 
-2026-10-18 706 → 2026-11-19 704（-2）
+2026-10-18 706 → 2026-11-20 703（-3）
 
 
 ---

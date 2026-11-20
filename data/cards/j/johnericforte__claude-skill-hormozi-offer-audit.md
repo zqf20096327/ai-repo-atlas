@@ -1,6 +1,6 @@
 # johnericforte/claude-skill-hormozi-offer-audit
 
-⭐ 11 · MIT · 推送 2026-05-13 · [GitHub](https://github.com/johnericforte/claude-skill-hormozi-offer-audit) · 个人维护
+⭐ 12 · MIT · 推送 2026-05-13 · [GitHub](https://github.com/johnericforte/claude-skill-hormozi-offer-audit) · 个人维护
 
 **基于 Hormozi 框架为营销者审计销售方案的 Claude 技能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "johnericforte/claude-skill-hormozi-offer-audit 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-31 10 → 2026-11-19 11（+1）
+2026-10-31 10 → 2026-11-20 12（+2）
 
 
 ---

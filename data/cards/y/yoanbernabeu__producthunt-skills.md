@@ -1,6 +1,6 @@
 # yoanbernabeu/producthunt-skills
 
-⭐ 25 · MIT · 推送 2026-01-30 · [GitHub](https://github.com/yoanbernabeu/producthunt-skills) · 个人维护
+⭐ 26 · MIT · 推送 2026-01-30 · [GitHub](https://github.com/yoanbernabeu/producthunt-skills) · 个人维护
 
 **31 个 Product Hunt 发布向 AI Agent 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yoanbernabeu/producthunt-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 20 --> 26
-    line [21, 22, 23, 22, 25, 25]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 23, 22, 25, 26]
 ```
 
-2026-10-18 21 → 2026-11-19 25（+4）
+2026-10-18 21 → 2026-11-20 26（+5）
 
 
 ---

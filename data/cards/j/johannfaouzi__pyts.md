@@ -1,6 +1,6 @@
 # johannfaouzi/pyts
 
-⭐ 1,882 · Python · BSD-3-Clause · 推送 2026-11-02 · [GitHub](https://github.com/johannfaouzi/pyts) · [官网](https://pyts.readthedocs.io) · 个人维护
+⭐ 1,880 · Python · BSD-3-Clause · 推送 2026-11-02 · [GitHub](https://github.com/johannfaouzi/pyts) · [官网](https://pyts.readthedocs.io) · 个人维护
 
 **时间序列分类的 Python 机器学习库**
 
@@ -45,12 +45,12 @@ pyts 是面向时间序列分类的 Python 包，提供预处理与实用工具�
 ```mermaid
 xychart-beta
     title "johannfaouzi/pyts 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20"]
     y-axis "stars" 1877 --> 1883
-    line [1879, 1878, 1880, 1881, 1882, 1882]
+    line [1879, 1878, 1880, 1881, 1882, 1880]
 ```
 
-2026-10-18 1,879 → 2026-11-19 1,882（+3）
+2026-10-18 1,879 → 2026-11-20 1,880（+1）
 
 
 ---

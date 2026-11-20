@@ -46,12 +46,12 @@ ComfyUI 自定义节点，基于 three.js 与 three-vrm 在浏览器中加载 VR
 ```mermaid
 xychart-beta
     title "ketle-man/comfyui-vrm-pose-editor 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
     y-axis "stars" 17 --> 20
     line [19, 18, 18]
 ```
 
-2026-11-02 19 → 2026-11-19 18（-1）
+2026-11-02 19 → 2026-11-20 18（-1）
 
 
 ---

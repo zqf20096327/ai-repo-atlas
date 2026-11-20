@@ -1,6 +1,6 @@
 # garayzueva87-gif/cursor-agent-windsurf-pro-pay
 
-⭐ 48 · 推送 2026-11-06 · [GitHub](https://github.com/garayzueva87-gif/cursor-agent-windsurf-pro-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 55 · 推送 2026-11-06 · [GitHub](https://github.com/garayzueva87-gif/cursor-agent-windsurf-pro-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡用于支付 Cursor/Windsurf 订阅的营销页**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "garayzueva87-gif/cursor-agent-windsurf-pro-pay 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 2 --> 55
-    line [6, 28, 40, 45, 51, 48, 48]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 2 --> 59
+    line [6, 28, 40, 45, 51, 48, 55]
 ```
 
-2026-11-08 6 → 2026-11-19 48（+42）
+2026-11-08 6 → 2026-11-20 55（+49）
 
 
 ---

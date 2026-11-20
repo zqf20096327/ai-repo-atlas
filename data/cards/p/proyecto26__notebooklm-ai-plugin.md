@@ -1,6 +1,6 @@
 # proyecto26/notebooklm-ai-plugin
 
-⭐ 66 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/proyecto26/notebooklm-ai-plugin) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/proyecto26/notebooklm-ai-plugin) · 个人维护
 
 **让 Claude Code 等 AI agent 操作 NotebookLM 的技能插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "proyecto26/notebooklm-ai-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 64 --> 69
+    line [65, 66, 68]
 ```
 
-2026-10-18 65 → 2026-11-19 66（+1）
+2026-10-18 65 → 2026-11-20 68（+3）
 
 
 ---

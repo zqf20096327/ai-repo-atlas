@@ -1,6 +1,6 @@
 # dbisina/relay
 
-⭐ 31 · Go · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/dbisina/relay) · 个人维护
+⭐ 29 · Go · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/dbisina/relay) · 个人维护
 
 **多 AI 编程 agent 间的任务轮换与交接编排器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dbisina/relay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 28 --> 32
+    line [31, 29]
 ```
 
-2026-10-18 31 → 2026-11-19 31（+0）
+2026-10-18 31 → 2026-11-20 29（-2）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "parallax-labs/context-harness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
+    title "parallax-labs/context-harness 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-19", "2026-11-20"]
     y-axis "stars" 41 --> 45
-    line [42, 43, 44]
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-19 44（+2）
+2026-10-18 42 → 2026-11-20 44（+2）
 
 
 ---

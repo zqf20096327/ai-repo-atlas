@@ -40,6 +40,18 @@
 > L13: ## What to compare
 > L15: |Need|Pick|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fujc683/qwen4-max-alternatives 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-19 11 → 2026-11-20 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `c4ed5ba9c028` · [字段定义](../../DATASET.md)*

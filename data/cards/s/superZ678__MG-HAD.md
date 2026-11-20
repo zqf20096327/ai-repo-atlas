@@ -45,12 +45,12 @@ ACM MM '24 论文 Multi-Granularity Hand Action Detection 的官方仓库：发�
 ```mermaid
 xychart-beta
     title "superZ678/MG-HAD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # iesahin/xvc
 
-⭐ 78 · Rust · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/iesahin/xvc) · 个人维护
+⭐ 79 · Rust · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/iesahin/xvc) · 个人维护
 
 **Rust 编写的 Git 内数据与管道版本管理命令行工具（MLOps）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iesahin/xvc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 76 --> 79
-    line [77, 78, 78]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 76 --> 80
+    line [77, 78, 79]
 ```
 
-2026-10-18 77 → 2026-11-19 78（+1）
+2026-10-18 77 → 2026-11-20 79（+2）
 
 
 ---

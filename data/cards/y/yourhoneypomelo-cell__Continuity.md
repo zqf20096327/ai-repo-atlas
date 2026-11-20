@@ -42,6 +42,18 @@ Continuity 在项目 docs/state/ 下用纯 Markdown 文件保存需求、决策�
 > L51: Every agent tool loads one root contract, `AGENTS.md`, through a thin adapter. The agent runs
 > L124: - **`ws.py`** is the CLI tool that validates writes, assigns IDs, runs acceptance tests, and seals
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yourhoneypomelo-cell/Continuity 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
+```
+
+2026-11-19 22 → 2026-11-20 22（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `1f15734bc1ce` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # helsome/tinycode
 
-⭐ 12 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/helsome/tinycode) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/helsome/tinycode) · 个人维护
 
 **约6千行的可通读 Coding Agent 教学框架，基于 Pi 运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "helsome/tinycode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-19 12（+1）
+2026-10-18 11 → 2026-11-20 13（+2）
 
 
 ---

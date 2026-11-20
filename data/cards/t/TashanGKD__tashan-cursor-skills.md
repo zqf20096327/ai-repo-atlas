@@ -1,6 +1,6 @@
 # TashanGKD/tashan-cursor-skills
 
-⭐ 24 · Shell · MIT · 推送 2026-04-01 · [GitHub](https://github.com/TashanGKD/tashan-cursor-skills) · 个人维护 · 中文 README
+⭐ 25 · Shell · MIT · 推送 2026-04-01 · [GitHub](https://github.com/TashanGKD/tashan-cursor-skills) · 个人维护 · 中文 README
 
 **面向 Cursor 的自进化 Agent Skill 体系（95 Skills/32 Rules/18 SubAgents）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TashanGKD/tashan-cursor-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-18 22 → 2026-11-19 24（+2）
+2026-10-18 22 → 2026-11-20 25（+3）
 
 
 ---

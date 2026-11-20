@@ -1,6 +1,6 @@
 # joelhooks/opencode-vibe
 
-⭐ 180 · TypeScript · 推送 2026-07-27 · [GitHub](https://github.com/joelhooks/opencode-vibe) · [官网](https://opencode.ai) · 个人维护
+⭐ 179 · TypeScript · 推送 2026-07-27 · [GitHub](https://github.com/joelhooks/opencode-vibe) · [官网](https://opencode.ai) · 个人维护
 
 **OpenCode 的 Next.js 16 Web 聊天界面，流式显示与多进程发现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "joelhooks/opencode-vibe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-20"]
     y-axis "stars" 178 --> 181
-    line [180, 179, 180, 180]
+    line [180, 179, 180, 179]
 ```
 
-2026-10-18 180 → 2026-11-19 180（+0）
+2026-10-18 180 → 2026-11-20 179（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # liguozheng-ac/Lingbo-Desk
 
-⭐ 217 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/liguozheng-ac/Lingbo-Desk) · 个人维护 · 中文 README
+⭐ 217 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/liguozheng-ac/Lingbo-Desk) · 个人维护 · 中文 README
 
 **Windows 桌面语音 Agent：对话发起任务，后台执行并交付文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liguozheng-ac/Lingbo-Desk 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-16", "2026-11-20"]
     y-axis "stars" 216 --> 218
     line [217, 217]
 ```
 
-2026-11-16 217 → 2026-11-19 217（+0）
+2026-11-16 217 → 2026-11-20 217（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # wcipriano/pretty-print-confusion-matrix
 
-⭐ 538 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/wcipriano/pretty-print-confusion-matrix) · [官网](https://pypi.org/project/pretty-confusion-matrix/) · 个人维护
+⭐ 537 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/wcipriano/pretty-print-confusion-matrix) · [官网](https://pypi.org/project/pretty-confusion-matrix/) · 个人维护
 
 **用 seaborn/matplotlib 绘制 Matlab 风格混淆矩阵的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wcipriano/pretty-print-confusion-matrix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 536 --> 539
-    line [537, 538, 538]
+    line [537, 538, 537]
 ```
 
-2026-10-18 537 → 2026-11-19 538（+1）
+2026-10-18 537 → 2026-11-20 537（+0）
 
 
 ---

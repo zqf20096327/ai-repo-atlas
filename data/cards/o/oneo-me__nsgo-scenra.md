@@ -1,6 +1,6 @@
 # oneo-me/nsgo-scenra
 
-⭐ 19 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/oneo-me/nsgo-scenra) · [官网](https://oneo-me.github.io/nsgo-scenra/) · 个人维护 · 中文 README
+⭐ 22 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/oneo-me/nsgo-scenra) · [官网](https://oneo-me.github.io/nsgo-scenra/) · 个人维护 · 中文 README
 
 **对话式设计桌面应用：AI 助手按你的确认绘制界面与流程图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oneo-me/nsgo-scenra 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 7 --> 20
-    line [8, 9, 17, 19]
+    title "oneo-me/nsgo-scenra 星数(近 5 点)"
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 7 --> 23
+    line [8, 9, 17, 19, 22]
 ```
 
-2026-11-13 8 → 2026-11-19 19（+11）
+2026-11-13 8 → 2026-11-20 22（+14）
 
 
 ---

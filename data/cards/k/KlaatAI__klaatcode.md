@@ -1,6 +1,6 @@
 # KlaatAI/klaatcode
 
-⭐ 353 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/KlaatAI/klaatcode) · [官网](https://klaatai.com) · 组织维护
+⭐ 352 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/KlaatAI/klaatcode) · [官网](https://klaatai.com) · 组织维护
 
 **终端 AI 编程代理，按任务难度自动路由模型档位以降成本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KlaatAI/klaatcode 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 351 --> 360
-    line [359, 353, 352, 353, 353]
+    line [359, 353, 352, 353, 352]
 ```
 
-2026-10-18 359 → 2026-11-19 353（-6）
+2026-10-18 359 → 2026-11-20 352（-7）
 
 
 ---

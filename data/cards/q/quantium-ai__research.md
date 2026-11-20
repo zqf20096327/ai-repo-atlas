@@ -1,6 +1,6 @@
 # quantium-ai/research
 
-⭐ 69 · Jupyter Notebook · MIT · 推送 2025-12-19 · [GitHub](https://github.com/quantium-ai/research) · 个人维护
+⭐ 68 · Jupyter Notebook · MIT · 推送 2025-12-19 · [GitHub](https://github.com/quantium-ai/research) · 个人维护
 
 **量化交易策略研究实验集合（Jupyter notebook 形式）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "quantium-ai/research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 67 --> 70
+    line [69, 68]
 ```
 
-2026-10-18 69 → 2026-11-19 69（+0）
+2026-10-18 69 → 2026-11-20 68（-1）
 
 
 ---

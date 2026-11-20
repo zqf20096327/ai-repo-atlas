@@ -46,13 +46,13 @@ MultiMind SDK 是一个 Python AI agent 框架，以单一异步接口接入 Ope
 
 ```mermaid
 xychart-beta
-    title "multimindlab/multimind-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "multimindlab/multimind-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 96 --> 99
-    line [97, 98]
+    line [97, 98, 98]
 ```
 
-2026-10-18 97 → 2026-11-19 98（+1）
+2026-10-18 97 → 2026-11-20 98（+1）
 
 
 ---

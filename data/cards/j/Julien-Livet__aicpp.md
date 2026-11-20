@@ -1,6 +1,6 @@
 # Julien-Livet/aicpp
 
-⭐ 21 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Julien-Livet/aicpp) · [官网](https://julien-livet.github.io/aicpp/) · 个人维护
+⭐ 22 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Julien-Livet/aicpp) · [官网](https://julien-livet.github.io/aicpp/) · 个人维护
 
 **LLM 引导的确定性符号程序合成引擎，求解 ARC 任务**
 
@@ -46,12 +46,12 @@ C++23 编写的神经符号程序合成引擎：LLM 不直接生成答案，而�
 ```mermaid
 xychart-beta
     title "Julien-Livet/aicpp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 18 --> 22
-    line [20, 19, 20, 21, 19, 21, 21]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 18 --> 23
+    line [20, 19, 20, 21, 19, 21, 22]
 ```
 
-2026-10-18 20 → 2026-11-19 21（+1）
+2026-10-18 20 → 2026-11-20 22（+2）
 
 
 ---

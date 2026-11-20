@@ -1,6 +1,6 @@
 # zjunlp/OneDayAgent
 
-⭐ 38 · HTML · MIT · 推送 2026-08-15 · [GitHub](https://github.com/zjunlp/OneDayAgent) · 组织维护 · 中文 README
+⭐ 39 · HTML · MIT · 推送 2026-08-15 · [GitHub](https://github.com/zjunlp/OneDayAgent) · 组织维护 · 中文 README
 
 **长时程自主 agent harness：分解多小时任务并验证修复产出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zjunlp/OneDayAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 37, 38, 39]
 ```
 
-2026-10-18 37 → 2026-11-19 38（+1）
+2026-10-18 37 → 2026-11-20 39（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # coffeecoproject/layermap
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/coffeecoproject/layermap) · [官网](https://www.npmjs.com/package/layermap) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/coffeecoproject/layermap) · [官网](https://www.npmjs.com/package/layermap) · 组织维护
 
 **为编码 agent 提供代码调用图谱的 MCP 服务器与 CLI**
 
@@ -46,12 +46,12 @@ LayerMap 以各语言的编译器/类型检查器解析调用关系（非 tree-s
 ```mermaid
 xychart-beta
     title "coffeecoproject/layermap 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-14", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-14", "2026-11-16", "2026-11-20"]
     y-axis "stars" 5 --> 11
     line [6, 7, 8, 9, 10, 10]
 ```
 
-2026-10-18 6 → 2026-11-19 10（+4）
+2026-10-18 6 → 2026-11-20 10（+4）
 
 
 ---

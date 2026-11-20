@@ -1,6 +1,6 @@
 # Dayotter/dayotter
 
-⭐ 50 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Dayotter/dayotter) · [官网](https://dayotter.com) · 组织维护
+⭐ 50 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Dayotter/dayotter) · [官网](https://dayotter.com) · 组织维护
 
 **开源自托管日历与预约平台，内置 AI 助手 Otter**
 
@@ -45,12 +45,12 @@ TypeScript/Next.js 编写的日历聚合与预约排程应用：连接 Google、
 ```mermaid
 xychart-beta
     title "Dayotter/dayotter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-18", "2026-11-20"]
     y-axis "stars" 46 --> 51
     line [47, 48, 49, 50, 50]
 ```
 
-2026-10-18 47 → 2026-11-19 50（+3）
+2026-10-18 47 → 2026-11-20 50（+3）
 
 
 ---

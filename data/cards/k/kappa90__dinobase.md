@@ -1,6 +1,6 @@
 # kappa90/dinobase
 
-⭐ 264 · Python · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/kappa90/dinobase) · 组织维护
+⭐ 265 · Python · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/kappa90/dinobase) · 组织维护
 
 **面向 AI agent 的数据平台：统一接入 100+ 数据源并以 SQL 查询**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kappa90/dinobase 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
-    y-axis "stars" 262 --> 265
-    line [263, 264, 264]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
+    y-axis "stars" 262 --> 266
+    line [263, 264, 265]
 ```
 
-2026-10-18 263 → 2026-11-19 264（+1）
+2026-10-18 263 → 2026-11-20 265（+2）
 
 
 ---

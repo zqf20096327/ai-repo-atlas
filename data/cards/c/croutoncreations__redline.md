@@ -1,6 +1,6 @@
 # croutoncreations/redline
 
-⭐ 27 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/croutoncreations/redline) · [官网](https://croutoncreations.com/blog/introducing-redline) · 个人维护
+⭐ 28 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/croutoncreations/redline) · [官网](https://croutoncreations.com/blog/introducing-redline) · 个人维护
 
 **macOS 菜单栏调度器：监控 Codex/Claude 配额并自动执行排队任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "croutoncreations/redline 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 14 --> 28
-    line [15, 23, 24, 27, 27]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 14 --> 29
+    line [15, 23, 24, 27, 28]
 ```
 
-2026-11-12 15 → 2026-11-19 27（+12）
+2026-11-12 15 → 2026-11-20 28（+13）
 
 
 ---

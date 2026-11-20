@@ -1,6 +1,6 @@
 # arnobt78/Website-URL-RAG-Chatbot-NextJS
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-08-30 · [GitHub](https://github.com/arnobt78/Website-URL-RAG-Chatbot-NextJS) · [官网](https://scraper-rag-chatbot.vercel.app/www.wikipedia.org) · 个人维护
+⭐ 23 · TypeScript · NOASSERTION · 推送 2026-08-30 · [GitHub](https://github.com/arnobt78/Website-URL-RAG-Chatbot-NextJS) · [官网](https://scraper-rag-chatbot.vercel.app/www.wikipedia.org) · 个人维护
 
 **粘贴网站 URL 即可与该站内容对话的 Next.js RAG 聊天应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arnobt78/Website-URL-RAG-Chatbot-NextJS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    line [23, 24, 23]
 ```
 
-2026-10-18 23 → 2026-11-19 24（+1）
+2026-10-18 23 → 2026-11-20 23（+0）
 
 
 ---

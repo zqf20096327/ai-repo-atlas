@@ -1,6 +1,6 @@
 # cybertechajju/LLM-PROMPT-INJECTION-PAYLOAD-S
 
-⭐ 24 · 推送 2025-11-23 · [GitHub](https://github.com/cybertechajju/LLM-PROMPT-INJECTION-PAYLOAD-S) · [官网](https://youtu.be/DZHgmuB-N1I?si=Z67S_cLEwcdnoZ9W) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向道德黑客与 AI 红队的提示注入教学与测试指南**
 

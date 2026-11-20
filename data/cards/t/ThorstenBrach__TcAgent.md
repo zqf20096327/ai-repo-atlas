@@ -1,6 +1,6 @@
 # ThorstenBrach/TcAgent
 
-⭐ 11 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ThorstenBrach/TcAgent) · 个人维护
+⭐ 12 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ThorstenBrach/TcAgent) · 个人维护
 
 **让 AI 编码代理操作 TwinCAT 3 IDE 的 MCP 服务器与 VS 扩展**
 
@@ -40,6 +40,18 @@
 > L3:  TcAgent – TwinCAT 3 for AI coding agents
 > L5: Let Claude, GitHub Copilot, Gemini or ChatGPT/Codex work inside your running TwinCAT 3 IDE :
 > L11: MCP
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ThorstenBrach/TcAgent 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
+```
+
+2026-11-19 11 → 2026-11-20 12（+1）
 
 
 ---

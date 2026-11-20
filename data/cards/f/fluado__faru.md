@@ -1,6 +1,6 @@
 # fluado/faru
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/fluado/faru) · [官网](https://fluado.com) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/fluado/faru) · [官网](https://fluado.com) · 个人维护
 
 **面向 AI agent 团队的 git 原生看板：卡片即 markdown 文件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fluado/faru 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-11-19 17（+1）
+2026-10-18 16 → 2026-11-20 18（+2）
 
 
 ---

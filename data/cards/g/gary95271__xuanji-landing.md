@@ -1,6 +1,6 @@
 # gary95271/xuanji-landing
 
-⭐ 85 · HTML · 推送 2026-06-14 · [GitHub](https://github.com/gary95271/xuanji-landing) · [官网](https://xuanji.dev) · 组织维护 · 中文 README
+⭐ 86 · HTML · 推送 2026-06-14 · [GitHub](https://github.com/gary95271/xuanji-landing) · [官网](https://xuanji.dev) · 组织维护 · 中文 README
 
 **国内直连 Claude/DeepSeek 的办公 AI 客户端服务平台宣传页**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gary95271/xuanji-landing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 84 --> 87
+    line [85, 86]
 ```
 
-2026-10-18 85 → 2026-11-19 85（+0）
+2026-10-18 85 → 2026-11-20 86（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Saganaki22/FireRedTTS3-ComfyUI
 
-⭐ 23 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Saganaki22/FireRedTTS3-ComfyUI) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Saganaki22/FireRedTTS3-ComfyUI) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：本地运行 FireRedTTS3 语音克隆、语音设计与编辑**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Saganaki22/FireRedTTS3-ComfyUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-19 23（+0）
+2026-10-18 23 → 2026-11-20 24（+1）
 
 
 ---

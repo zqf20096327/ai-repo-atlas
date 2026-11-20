@@ -46,12 +46,12 @@ Python 实现的自主 AI agent 编排框架，提供 Agent 基类创建与管�
 ```mermaid
 xychart-beta
     title "theonlyamos/cognitrix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-19 12（+0）
+2026-10-18 12 → 2026-11-20 12（+0）
 
 
 ---

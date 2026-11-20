@@ -1,6 +1,6 @@
 # sniklaus/pytorch-liteflownet
 
-⭐ 434 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/sniklaus/pytorch-liteflownet) · 个人维护
+⭐ 432 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/sniklaus/pytorch-liteflownet) · 个人维护
 
 **LiteFlowNet 光流估计神经网络的 PyTorch 复现实现**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "sniklaus/pytorch-liteflownet 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
-    y-axis "stars" 433 --> 435
-    line [434, 434]
+    x-axis ["2026-11-16", "2026-11-20"]
+    y-axis "stars" 431 --> 435
+    line [434, 432]
 ```
 
-2026-11-16 434 → 2026-11-19 434（+0）
+2026-11-16 434 → 2026-11-20 432（-2）
 
 
 ---

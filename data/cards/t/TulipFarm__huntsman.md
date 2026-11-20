@@ -1,6 +1,6 @@
 # TulipFarm/huntsman
 
-⭐ 14 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TulipFarm/huntsman) · [官网](https://huntsman.tulipfarm.ai) · 个人维护
+⭐ 15 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TulipFarm/huntsman) · [官网](https://huntsman.tulipfarm.ai) · 个人维护
 
 **自托管网页抓取服务：把任意页面转为干净 Markdown 供 LLM/agent 使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TulipFarm/huntsman 星数(近 6 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 2 --> 15
-    line [3, 4, 11, 12, 13, 14]
+    title "TulipFarm/huntsman 星数(近 7 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 2 --> 16
+    line [3, 4, 11, 12, 13, 14, 15]
 ```
 
-2026-11-01 3 → 2026-11-19 14（+11）
+2026-11-01 3 → 2026-11-20 15（+12）
 
 
 ---

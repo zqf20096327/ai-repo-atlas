@@ -1,6 +1,6 @@
 # 2aronS/Duel-Agents
 
-⭐ 716 · TypeScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/2aronS/Duel-Agents) · [官网](https://duelagents.com) · 个人维护
+⭐ 687 · TypeScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/2aronS/Duel-Agents) · [官网](https://duelagents.com) · 个人维护
 
 **多模型路由代理的官方集成包：CLI/SDK/IDE 插件接入 Duel API**
 
@@ -45,12 +45,12 @@ duelagents.com 的官方集成仓库，提供将多个 IDE/CLI 工具（Claude C
 ```mermaid
 xychart-beta
     title "2aronS/Duel-Agents 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 712 --> 748
-    line [745, 735, 734, 733, 734, 718, 715, 716, 716]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 682 --> 750
+    line [745, 735, 734, 733, 734, 718, 715, 716, 687]
 ```
 
-2026-10-18 745 → 2026-11-19 716（-29）
+2026-10-18 745 → 2026-11-20 687（-58）
 
 
 ---

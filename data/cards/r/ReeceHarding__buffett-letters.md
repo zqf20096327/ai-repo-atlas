@@ -1,6 +1,6 @@
 # ReeceHarding/buffett-letters
 
-⭐ 13 · Python · 推送 2026-03-21 · [GitHub](https://github.com/ReeceHarding/buffett-letters) · 个人维护
+⭐ 14 · Python · 推送 2026-03-21 · [GitHub](https://github.com/ReeceHarding/buffett-letters) · 个人维护
 
 **巴菲特致股东信全集（1977–2024）的 Markdown 格式档案**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ReeceHarding/buffett-letters 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-19 13（+1）
+2026-10-18 12 → 2026-11-20 14（+2）
 
 
 ---

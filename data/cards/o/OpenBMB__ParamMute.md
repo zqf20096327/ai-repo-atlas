@@ -1,6 +1,6 @@
 # OpenBMB/ParamMute
 
-⭐ 64 · Python · 推送 2026-10-24 · [GitHub](https://github.com/OpenBMB/ParamMute) · [官网](https://passionate11.github.io/ParamMute-project-page/) · 组织维护 · 中文 README
+⭐ 64 · Python · 推送 2026-11-19 · [GitHub](https://github.com/OpenBMB/ParamMute) · [官网](https://passionate11.github.io/ParamMute-project-page/) · 组织维护 · 中文 README
 
 **抑制关键FFN提升RAG忠实性的训练方法与模型（NeurIPS 2025）**
 
@@ -45,12 +45,12 @@ NeurIPS 2025 研究工作（曾用名 PIP-KAG）：定位模型忽略检索证�
 ```mermaid
 xychart-beta
     title "OpenBMB/ParamMute 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-19"]
+    x-axis ["2026-10-19", "2026-11-20"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-19 64 → 2026-11-19 64（+0）
+2026-10-19 64 → 2026-11-20 64（+0）
 
 
 ---

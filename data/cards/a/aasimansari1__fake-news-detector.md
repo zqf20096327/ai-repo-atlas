@@ -1,6 +1,6 @@
 # aasimansari1/fake-news-detector
 
-⭐ 59 · Jupyter Notebook · MIT · 推送 2026-08-23 · [GitHub](https://github.com/aasimansari1/fake-news-detector) · [官网](https://github.com/aasimansari1/fake-news-detector) · 个人维护
+⭐ 67 · Jupyter Notebook · MIT · 推送 2026-08-23 · [GitHub](https://github.com/aasimansari1/fake-news-detector) · [官网](https://github.com/aasimansari1/fake-news-detector) · 个人维护
 
 **输入新闻文本即输出真假判定与置信度的 NLP 分类器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aasimansari1/fake-news-detector 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 6 --> 63
-    line [10, 23, 22, 59, 59]
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 5 --> 72
+    line [10, 23, 22, 59, 67]
 ```
 
-2026-10-23 10 → 2026-11-19 59（+49）
+2026-10-23 10 → 2026-11-20 67（+57）
 
 
 ---

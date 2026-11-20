@@ -45,12 +45,12 @@ ICLR 2026 论文 "Tokenizing Single-Channel EEG with Time-Frequency Motif Learni
 ```mermaid
 xychart-beta
     title "Jathurshan0330/TFM-Tokenizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-19 39（+1）
+2026-10-18 38 → 2026-11-20 39（+1）
 
 
 ---

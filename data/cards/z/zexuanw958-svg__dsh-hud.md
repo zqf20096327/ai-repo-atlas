@@ -1,6 +1,6 @@
 # zexuanw958-svg/dsh-hud
 
-⭐ 11 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/zexuanw958-svg/dsh-hud) · [官网](https://github.com/zexuanw958-svg/dsh-hud#readme) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/zexuanw958-svg/dsh-hud) · [官网](https://github.com/zexuanw958-svg/dsh-hud#readme) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的只读 Agent 运行态观测插件（HUD）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zexuanw958-svg/dsh-hud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 12（+1）
 
 
 ---

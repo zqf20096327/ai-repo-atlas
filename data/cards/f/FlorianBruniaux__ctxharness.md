@@ -1,6 +1,6 @@
 # FlorianBruniaux/ctxharness
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/FlorianBruniaux/ctxharness) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/FlorianBruniaux/ctxharness) · [官网](https://ctxharness.bruniaux.com/) · 个人维护
 
 **检测 AI 指令文件中文档漂移的 CLI/TypeScript 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlorianBruniaux/ctxharness 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-11", "2026-11-18", "2026-11-19"]
+    title "FlorianBruniaux/ctxharness 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 25 --> 30
-    line [26, 27, 26, 27, 28, 29]
+    line [26, 27, 26, 27, 28, 29, 29]
 ```
 
-2026-10-18 26 → 2026-11-19 29（+3）
+2026-10-18 26 → 2026-11-20 29（+3）
 
 
 ---

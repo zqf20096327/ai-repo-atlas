@@ -1,6 +1,6 @@
 # quqxui/dsh-memgas
 
-⭐ 26 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/quqxui/dsh-memgas) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/quqxui/dsh-memgas) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 代理的长期记忆插件，跨会话记忆四通道检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "quqxui/dsh-memgas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27]
 ```
 
-2026-10-18 25 → 2026-11-19 26（+1）
+2026-10-18 25 → 2026-11-20 27（+2）
 
 
 ---

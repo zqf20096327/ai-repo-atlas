@@ -47,12 +47,12 @@ Bash 安装脚本，在 Ubuntu/Debian/AlmaLinux/Rocky/CentOS/RHEL/Fedora 上自�
 ```mermaid
 xychart-beta
     title "hwdsl2/whisper-install 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

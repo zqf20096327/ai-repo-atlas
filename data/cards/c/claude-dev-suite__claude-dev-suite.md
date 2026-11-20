@@ -1,6 +1,6 @@
 # claude-dev-suite/claude-dev-suite
 
-⭐ 49 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/claude-dev-suite/claude-dev-suite) · 组织维护
+⭐ 49 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/claude-dev-suite/claude-dev-suite) · 组织维护
 
 **为 AI 编程助手生成项目配置的工具箱：agents、skills、MCP、规则**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "claude-dev-suite/claude-dev-suite 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
+    title "claude-dev-suite/claude-dev-suite 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-20"]
     y-axis "stars" 41 --> 50
-    line [42, 43, 45, 46, 45, 47, 48, 49]
+    line [42, 43, 45, 46, 45, 47, 48, 49, 49]
 ```
 
-2026-10-18 42 → 2026-11-19 49（+7）
+2026-10-18 42 → 2026-11-20 49（+7）
 
 
 ---

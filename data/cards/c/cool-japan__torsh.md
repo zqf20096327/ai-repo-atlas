@@ -45,12 +45,12 @@ ToRSh（Tensor Operations in Rust with Sharding）是以 Rust 实现的深度学
 ```mermaid
 xychart-beta
     title "cool-japan/torsh 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-19"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-23 10 → 2026-11-19 11（+1）
+2026-10-23 10 → 2026-11-20 11（+1）
 
 
 ---

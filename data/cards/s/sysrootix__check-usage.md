@@ -1,6 +1,6 @@
 # sysrootix/check-usage
 
-⭐ 32 · Swift · MIT · 推送 2026-09-16 · [GitHub](https://github.com/sysrootix/check-usage) · [官网](https://github.com/sysrootix/check-usage) · 个人维护 · 中文 README
+⭐ 22 · Swift · MIT · 推送 2026-09-16 · [GitHub](https://github.com/sysrootix/check-usage) · [官网](https://github.com/sysrootix/check-usage) · 个人维护 · 中文 README
 
 **macOS 菜单栏/屏幕边缘小组件：集中显示各 AI 工具剩余用量**
 
@@ -46,12 +46,12 @@ Swift 6 原生 macOS 应用（需 macOS 14+），在菜单栏与屏幕边缘以�
 ```mermaid
 xychart-beta
     title "sysrootix/check-usage 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 31 --> 51
-    line [50, 33, 32, 32]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 20 --> 52
+    line [50, 33, 32, 22]
 ```
 
-2026-10-18 50 → 2026-11-19 32（-18）
+2026-10-18 50 → 2026-11-20 22（-28）
 
 
 ---

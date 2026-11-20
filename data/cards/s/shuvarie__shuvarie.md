@@ -1,6 +1,6 @@
 # shuvarie/shuvarie
 
-⭐ 10 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/shuvarie/shuvarie) · [官网](https://shuvarie.org) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/shuvarie/shuvarie) · [官网](https://shuvarie.org) · 个人维护
 
 **终端里的 AI 编程 Agent：Rust TUI，读写文件与运行命令需用户许可**
 
@@ -41,6 +41,18 @@
 > L20: > In the plain tongue of innkeepers — the one that runs without dice — Shuvarie is a terminal-based AI coding agent
 > L28: - **Send a fully armed knight** — it reads and writes scrolls (files), forges patches, scrys with grep and glob, hu
 > L29: - **Rule by the code of chivalry** — every tool call passes the permission wards: allowed, denied, or brought befor
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shuvarie/shuvarie 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
 
 
 ---

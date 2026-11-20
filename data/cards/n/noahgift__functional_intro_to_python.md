@@ -1,6 +1,6 @@
 # noahgift/functional_intro_to_python
 
-⭐ 318 · Jupyter Notebook · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/noahgift/functional_intro_to_python) · [官网](https://noahgift.github.io/functional_intro_to_python/) · 个人维护
+⭐ 315 · Jupyter Notebook · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/noahgift/functional_intro_to_python) · [官网](https://noahgift.github.io/functional_intro_to_python/) · 个人维护
 
 **面向数据科学的 Python 函数式入门教学仓库（含 Rust 转译）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "noahgift/functional_intro_to_python 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 315 --> 319
-    line [316, 317, 318, 318]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 314 --> 319
+    line [316, 317, 318, 315]
 ```
 
-2026-10-18 316 → 2026-11-19 318（+2）
+2026-10-18 316 → 2026-11-20 315（-1）
 
 
 ---

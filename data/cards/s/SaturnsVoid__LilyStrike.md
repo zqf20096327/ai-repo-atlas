@@ -1,6 +1,6 @@
 # SaturnsVoid/LilyStrike
 
-⭐ 15 · C++ · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/SaturnsVoid/LilyStrike) · [官网](https://saturnsvoid.github.io/LilyStrike/flasher/) · 个人维护
+⭐ 16 · C++ · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/SaturnsVoid/LilyStrike) · [官网](https://saturnsvoid.github.io/LilyStrike/flasher/) · 个人维护
 
 **LILYGO T-Dongle-S3 渗透测试与 BadUSB 固件工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SaturnsVoid/LilyStrike 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-08", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 6 --> 16
-    line [7, 10, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-08", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 6 --> 17
+    line [7, 10, 14, 15, 16]
 ```
 
-2026-10-18 7 → 2026-11-19 15（+8）
+2026-10-18 7 → 2026-11-20 16（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # Yomguithereal/talisman
 
-⭐ 734 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Yomguithereal/talisman) · [官网](https://yomguithereal.github.io/talisman/) · 个人维护
+⭐ 733 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Yomguithereal/talisman) · [官网](https://yomguithereal.github.io/talisman/) · 个人维护
 
 **JavaScript 的模糊匹配、信息检索与 NLP 算法库**
 
@@ -45,12 +45,12 @@ Talisman 是一个 JavaScript 库，收集模糊匹配、信息检索与自然�
 ```mermaid
 xychart-beta
     title "Yomguithereal/talisman 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 732 --> 735
-    line [733, 734, 734]
+    line [733, 734, 733]
 ```
 
-2026-11-08 733 → 2026-11-19 734（+1）
+2026-11-08 733 → 2026-11-20 733（+0）
 
 
 ---

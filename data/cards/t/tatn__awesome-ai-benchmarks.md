@@ -1,6 +1,6 @@
 # tatn/awesome-ai-benchmarks
 
-⭐ 10 · 推送 2026-10-06 · [GitHub](https://github.com/tatn/awesome-ai-benchmarks) · 个人维护
+⭐ 11 · 推送 2026-10-06 · [GitHub](https://github.com/tatn/awesome-ai-benchmarks) · 个人维护
 
 **面向 AI 使用者的模型基准测试与排行榜精选清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tatn/awesome-ai-benchmarks 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-13", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-13 10 → 2026-11-19 10（+0）
+2026-11-13 10 → 2026-11-20 11（+1）
 
 
 ---

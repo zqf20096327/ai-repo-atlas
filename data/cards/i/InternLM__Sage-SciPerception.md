@@ -1,6 +1,6 @@
 # InternLM/Sage-SciPerception
 
-⭐ 13 · JavaScript · 推送 2026-11-06 · [GitHub](https://github.com/InternLM/Sage-SciPerception) · [官网](https://huggingface.co/internlm/Sage-SciPerception) · 组织维护 · 中文 README
+⭐ 14 · JavaScript · 推送 2026-11-06 · [GitHub](https://github.com/InternLM/Sage-SciPerception) · [官网](https://huggingface.co/internlm/Sage-SciPerception) · 组织维护 · 中文 README
 
 **通过任务专用投影器把科学数据接入语言模型做分析预测**
 
@@ -47,12 +47,12 @@ Sage Sci Perception 将科学编码器状态、光谱片段与科学读出量映
 ```mermaid
 xychart-beta
     title "InternLM/Sage-SciPerception 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14]
 ```
 
-2026-11-10 10 → 2026-11-19 13（+3）
+2026-11-10 10 → 2026-11-20 14（+4）
 
 
 ---

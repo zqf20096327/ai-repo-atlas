@@ -1,6 +1,6 @@
 # scikit-learn-contrib/metric-learn
 
-⭐ 1,430 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/scikit-learn-contrib/metric-learn) · [官网](http://contrib.scikit-learn.org/metric-learn/) · 组织维护
+⭐ 1,429 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/scikit-learn-contrib/metric-learn) · [官网](http://contrib.scikit-learn.org/metric-learn/) · 组织维护
 
 **Python 度量学习算法库：多种监督/弱监督度量学习实现**
 
@@ -44,12 +44,12 @@ scikit-learn-contrib 下的 Python 库，提供 LMNN、ITML、NCA、LFDA 等十�
 ```mermaid
 xychart-beta
     title "scikit-learn-contrib/metric-learn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
-    y-axis "stars" 1429 --> 1432
-    line [1431, 1430, 1430]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
+    y-axis "stars" 1428 --> 1432
+    line [1431, 1430, 1429]
 ```
 
-2026-10-18 1,431 → 2026-11-19 1,430（-1）
+2026-10-18 1,431 → 2026-11-20 1,429（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vijaymasand/PyChem-Pro
 
-⭐ 405 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/vijaymasand/PyChem-Pro) · 个人维护
+⭐ 406 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/vijaymasand/PyChem-Pro) · 个人维护
 
 **纯 Python 实现的化学桌面应用与化学信息学库**
 
@@ -44,13 +44,13 @@ PyChem-Pro 是基于 Python 3.10+ 与 PySide6/NumPy 的桌面化学应用及 Pyt
 
 ```mermaid
 xychart-beta
-    title "vijaymasand/PyChem-Pro 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 393 --> 406
-    line [394, 396, 401, 396, 400, 402, 403, 404, 405]
+    title "vijaymasand/PyChem-Pro 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 393 --> 407
+    line [394, 396, 401, 396, 400, 402, 403, 404, 405, 406]
 ```
 
-2026-10-18 394 → 2026-11-19 405（+11）
+2026-10-18 394 → 2026-11-20 406（+12）
 
 
 ---

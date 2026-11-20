@@ -1,6 +1,6 @@
 # pedrol2b/react-native-vision-camera-mlkit
 
-⭐ 58 · TypeScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/pedrol2b/react-native-vision-camera-mlkit) · [官网](https://www.npmjs.com/package/react-native-vision-camera-mlkit) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/pedrol2b/react-native-vision-camera-mlkit) · [官网](https://www.npmjs.com/package/react-native-vision-camera-mlkit) · 个人维护
 
 **React Native 相机插件：接入 Google ML Kit 做 OCR 与条码识别**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pedrol2b/react-native-vision-camera-mlkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-11-19 58（+0）
+2026-10-18 58 → 2026-11-20 58（+0）
 
 
 ---

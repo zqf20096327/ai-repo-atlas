@@ -1,6 +1,6 @@
 # vulpy-io/vulpy-commerce-core
 
-⭐ 126 · JavaScript · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/vulpy-io/vulpy-commerce-core) · [官网](https://vulpy.io/commerce) · 组织维护
+⭐ 127 · JavaScript · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/vulpy-io/vulpy-commerce-core) · [官网](https://vulpy.io/commerce) · 组织维护
 
 **AI 助手 Fox 运营的开源电商全栈（Medusa v2 + Next.js + Payload CMS）**
 
@@ -46,12 +46,12 @@ Medusa v2 后端、Next.js 店面、Payload CMS 与自托管 Matomo 分析组成
 ```mermaid
 xychart-beta
     title "vulpy-io/vulpy-commerce-core 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 120 --> 127
-    line [121, 122, 123, 124, 125, 126, 126]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 120 --> 128
+    line [121, 122, 123, 124, 125, 126, 127]
 ```
 
-2026-10-18 121 → 2026-11-19 126（+5）
+2026-10-18 121 → 2026-11-20 127（+6）
 
 
 ---

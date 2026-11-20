@@ -1,6 +1,6 @@
 # triton-inference-server/model_analyzer
 
-⭐ 532 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/triton-inference-server/model_analyzer) · 组织维护
+⭐ 531 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/triton-inference-server/model_analyzer) · 组织维护
 
 **CLI 工具：为 Triton 推理服务模型搜索最优配置并生成报告**
 
@@ -45,12 +45,12 @@ NVIDIA Triton 生态的命令行工具，面向在 Triton Inference Server 上�
 ```mermaid
 xychart-beta
     title "triton-inference-server/model_analyzer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-20"]
     y-axis "stars" 529 --> 533
-    line [530, 531, 532, 532]
+    line [530, 531, 532, 531]
 ```
 
-2026-10-18 530 → 2026-11-19 532（+2）
+2026-10-18 530 → 2026-11-20 531（+1）
 
 
 ---

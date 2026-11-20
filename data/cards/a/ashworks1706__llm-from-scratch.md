@@ -1,6 +1,6 @@
 # ashworks1706/llm-from-scratch
 
-⭐ 16 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/ashworks1706/llm-from-scratch) · [官网](https://colab.research.google.com/github/ashworks1706/llm-from-scratch/blob/main/tutorial.ipynb) · 个人维护
+⭐ 16 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/ashworks1706/llm-from-scratch) · [官网](https://colab.research.google.com/github/ashworks1706/llm-from-scratch/blob/main/tutorial.ipynb) · 个人维护
 
 **从零实现主流 LLM 架构与训练技术的学习型代码库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ashworks1706/llm-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-19 16（+1）
+2026-10-18 15 → 2026-11-20 16（+1）
 
 
 ---

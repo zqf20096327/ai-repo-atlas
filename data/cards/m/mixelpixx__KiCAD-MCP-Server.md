@@ -1,6 +1,6 @@
 # mixelpixx/KiCAD-MCP-Server
 
-⭐ 3,421 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mixelpixx/KiCAD-MCP-Server) · [官网](https://kicad.orchis.ai) · 个人维护 · 中文 README
+⭐ 3,437 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mixelpixx/KiCAD-MCP-Server) · [官网](https://kicad.orchis.ai) · 个人维护 · 中文 README
 
 **让 Claude 等 AI 助手直接操作 KiCAD 做 PCB 设计的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mixelpixx/KiCAD-MCP-Server 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 3298 --> 3432
-    line [3309, 3325, 3349, 3389, 3406, 3421]
+    title "mixelpixx/KiCAD-MCP-Server 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 3297 --> 3449
+    line [3309, 3325, 3349, 3389, 3406, 3421, 3437]
 ```
 
-2026-11-13 3,309 → 2026-11-19 3,421（+112）
+2026-11-13 3,309 → 2026-11-20 3,437（+128）
 
 
 ---

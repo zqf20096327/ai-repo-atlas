@@ -1,6 +1,6 @@
 # BrightRaider/universal-gpu-unlock
 
-⭐ 22 · C · GPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/BrightRaider/universal-gpu-unlock) · [官网](https://www.igorslab.de/community/threads/community-projekt-universal-1-klick-uefi-booter-ada-4090-rate-limiter-unlock-40-tensor-compute-212-tflops-%E2%80%93-ram-only-kein-vbios-flash.15158/) · 个人维护
+⭐ 27 · C · GPL-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/BrightRaider/universal-gpu-unlock) · [官网](https://www.igorslab.de/community/threads/community-projekt-universal-1-klick-uefi-booter-ada-4090-rate-limiter-unlock-40-tensor-compute-212-tflops-%E2%80%93-ram-only-kein-vbios-flash.15158/) · 个人维护
 
 **解除 NVIDIA RTX 40/30/20 系 Tensor Core 固件限速的 UEFI 一键工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BrightRaider/universal-gpu-unlock 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 10 --> 23
-    line [11, 12, 13, 14, 16, 18, 19, 22]
+    title "BrightRaider/universal-gpu-unlock 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 28
+    line [11, 12, 13, 14, 16, 18, 19, 22, 27]
 ```
 
-2026-11-08 11 → 2026-11-19 22（+11）
+2026-11-08 11 → 2026-11-20 27（+16）
 
 
 ---

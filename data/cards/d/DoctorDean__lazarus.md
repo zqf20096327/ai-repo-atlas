@@ -1,6 +1,6 @@
 # DoctorDean/lazarus
 
-⭐ 68 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/DoctorDean/lazarus) · 组织维护
+⭐ 67 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/DoctorDean/lazarus) · 组织维护
 
 **把废弃科研仓库复活为可调用流水线组件的 agent 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DoctorDean/lazarus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
     y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    line [67, 68, 67]
 ```
 
-2026-10-18 67 → 2026-11-19 68（+1）
+2026-10-18 67 → 2026-11-20 67（+0）
 
 
 ---

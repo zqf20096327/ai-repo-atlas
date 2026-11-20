@@ -1,6 +1,6 @@
 # SignalLayerLabs/Marginal
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/SignalLayerLabs/Marginal) · [官网](https://signallayerlabs.github.io/Marginal/) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/SignalLayerLabs/Marginal) · [官网](https://signallayerlabs.github.io/Marginal/) · 组织维护
 
 **AI 编码 agent 的运行时治理器：检测并拦截无进展的重复操作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SignalLayerLabs/Marginal 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-11-19 18（+1）
+2026-10-18 17 → 2026-11-20 19（+2）
 
 
 ---

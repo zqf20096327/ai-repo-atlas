@@ -1,6 +1,6 @@
 # Capta1nRaj/goshipit
 
-⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Capta1nRaj/goshipit) · [官网](https://www.npmjs.com/package/goshipit) · 个人维护
+⭐ 33 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Capta1nRaj/goshipit) · [官网](https://www.npmjs.com/package/goshipit) · 个人维护
 
 **面向 AI 编程工具的上线前代码库审计技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Capta1nRaj/goshipit 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19"]
+    title "Capta1nRaj/goshipit 星数(近 5 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19", "2026-11-20"]
     y-axis "stars" 28 --> 35
-    line [29, 31, 33, 34]
+    line [29, 31, 33, 34, 33]
 ```
 
-2026-11-10 29 → 2026-11-19 34（+5）
+2026-11-10 29 → 2026-11-20 33（+4）
 
 
 ---

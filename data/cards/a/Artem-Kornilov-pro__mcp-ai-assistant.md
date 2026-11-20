@@ -1,6 +1,6 @@
 # Artem-Kornilov-pro/mcp-ai-assistant
 
-⭐ 20 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Artem-Kornilov-pro/mcp-ai-assistant) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Artem-Kornilov-pro/mcp-ai-assistant) · 个人维护
 
 **Docker 化 MCP 服务器集合：134 个工具供任意 MCP 客户端调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Artem-Kornilov-pro/mcp-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 16 --> 21
+    line [20, 17]
 ```
 
-2026-10-18 20 → 2026-11-19 20（+0）
+2026-10-18 20 → 2026-11-20 17（-3）
 
 
 ---

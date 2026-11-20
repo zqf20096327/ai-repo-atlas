@@ -1,6 +1,6 @@
 # eli-labz/Agent-Execution-Partnership
 
-⭐ 128 · Python · NOASSERTION · 推送 2026-07-22 · [GitHub](https://github.com/eli-labz/Agent-Execution-Partnership) · [官网](https://aee.eli-labz.com/) · 个人维护
+⭐ 122 · Python · NOASSERTION · 推送 2026-07-22 · [GitHub](https://github.com/eli-labz/Agent-Execution-Partnership) · [官网](https://aee.eli-labz.com/) · 个人维护
 
 **AI agent 行动的控制平面：执行前授权、执行中可观测、执行后可验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eli-labz/Agent-Execution-Partnership 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 127 --> 148
-    line [147, 144, 141, 128, 128]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 120 --> 149
+    line [147, 144, 141, 128, 122]
 ```
 
-2026-10-18 147 → 2026-11-19 128（-19）
+2026-10-18 147 → 2026-11-20 122（-25）
 
 
 ---

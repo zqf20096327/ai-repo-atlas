@@ -1,6 +1,6 @@
 # oliver-zehentleitner/maity
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/oliver-zehentleitner/maity) · [官网](https://maity.dev) · 个人维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/oliver-zehentleitner/maity) · [官网](https://maity.dev) · 个人维护
 
 **让多个 AI 编码代理与人协作的协调中枢**
 
@@ -46,12 +46,12 @@ Maity 是一个人与 AI 编码代理协作的开源枢纽（control plane，非
 ```mermaid
 xychart-beta
     title "oliver-zehentleitner/maity 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 7 --> 14
-    line [11, 8, 11, 12, 13, 13]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 7 --> 17
+    line [11, 8, 11, 12, 13, 16]
 ```
 
-2026-11-08 11 → 2026-11-19 13（+2）
+2026-11-08 11 → 2026-11-20 16（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # neucine/affon
 
-⭐ 20 · TypeScript · MPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/neucine/affon) · [官网](https://affon.ai) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/neucine/affon) · [官网](https://affon.ai) · 个人维护 · 中文 README
 
 **面向科研计算与机器学习的 TypeScript 运行时**
 
@@ -40,6 +40,18 @@
 > L7:  A TypeScript runtime for scientific computing and machine learning
 > L9: Affon is a TypeScript runtime for scientific computing and machine learning.
 > L99: - **Declarative compute Programs** with typed tensor roles, explicit state, differentiation, optimization, and comp
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "neucine/affon 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
+```
+
+2026-11-19 20 → 2026-11-20 21（+1）
 
 
 ---

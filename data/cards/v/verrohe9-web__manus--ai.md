@@ -1,6 +1,6 @@
 # verrohe9-web/manus--ai
 
-⭐ 194 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/verrohe9-web/manus--ai) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/verrohe9-web/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码与操控浏览器**
 
@@ -45,12 +45,12 @@ Manus 是一个自主 AI Agent，定位为家庭、学习与轻量办公场景�
 ```mermaid
 xychart-beta
     title "verrohe9-web/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 122 --> 279
-    line [135, 266, 194, 194]
+    line [135, 266, 194, 193]
 ```
 
-2026-11-13 135 → 2026-11-19 194（+59）
+2026-11-13 135 → 2026-11-20 193（+58）
 
 
 ---

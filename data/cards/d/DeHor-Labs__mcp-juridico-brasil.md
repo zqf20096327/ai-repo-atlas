@@ -1,6 +1,6 @@
 # DeHor-Labs/mcp-juridico-brasil
 
-⭐ 141 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DeHor-Labs/mcp-juridico-brasil) · [官网](https://juridico.dehor.dev) · 组织维护
+⭐ 143 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DeHor-Labs/mcp-juridico-brasil) · [官网](https://juridico.dehor.dev) · 组织维护
 
 **MCP 服务器：让 AI 助手接入巴西 DataJud 司法数据查询**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DeHor-Labs/mcp-juridico-brasil 星数(近 9 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 119 --> 143
-    line [121, 123, 124, 133, 136, 139, 140, 141, 141]
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 119 --> 145
+    line [121, 123, 124, 133, 136, 139, 140, 141, 143]
 ```
 
-2026-10-29 121 → 2026-11-19 141（+20）
+2026-10-29 121 → 2026-11-20 143（+22）
 
 
 ---

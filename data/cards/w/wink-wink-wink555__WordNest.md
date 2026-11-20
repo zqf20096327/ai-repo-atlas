@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wink-wink-wink555/WordNest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "wink-wink-wink555/WordNest 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 93 --> 96
-    line [94, 95]
+    line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-11-19 95（+1）
+2026-10-18 94 → 2026-11-20 95（+1）
 
 
 ---

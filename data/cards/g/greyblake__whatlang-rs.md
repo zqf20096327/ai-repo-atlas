@@ -1,6 +1,6 @@
 # greyblake/whatlang-rs
 
-⭐ 1,088 · Rust · MIT · 推送 2025-12-24 · [GitHub](https://github.com/greyblake/whatlang-rs) · [官网](https://whatlang.org/) · 个人维护
+⭐ 1,087 · Rust · MIT · 推送 2025-12-24 · [GitHub](https://github.com/greyblake/whatlang-rs) · [官网](https://whatlang.org/) · 个人维护
 
 **Rust 自然语言检测库：识别文本的语言与书写系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "greyblake/whatlang-rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
     y-axis "stars" 1086 --> 1089
-    line [1087, 1088, 1088]
+    line [1087, 1088, 1087]
 ```
 
-2026-10-18 1,087 → 2026-11-19 1,088（+1）
+2026-10-18 1,087 → 2026-11-20 1,087（+0）
 
 
 ---

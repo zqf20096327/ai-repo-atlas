@@ -1,6 +1,6 @@
 # Zettelgarden/Zettelgarden
 
-⭐ 170 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/Zettelgarden/Zettelgarden) · [官网](https://zettelgarden.com) · 个人维护
+⭐ 171 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/Zettelgarden/Zettelgarden) · [官网](https://zettelgarden.com) · 个人维护
 
 **自托管的 zettelkasten 知识管理系统，附 AI 辅助摘要与语义搜索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Zettelgarden/Zettelgarden 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 169 --> 171
-    line [170, 170]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 169 --> 172
+    line [170, 171]
 ```
 
-2026-10-18 170 → 2026-11-19 170（+0）
+2026-10-18 170 → 2026-11-20 171（+1）
 
 
 ---

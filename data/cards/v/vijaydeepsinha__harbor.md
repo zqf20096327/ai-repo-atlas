@@ -46,12 +46,12 @@ TypeScript 实现的 Model Context Protocol 网关，在 AI 客户端（Cursor�
 ```mermaid
 xychart-beta
     title "vijaydeepsinha/harbor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dend/guildbridge
 
-⭐ 16 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/dend/guildbridge) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dend/guildbridge) · 个人维护
 
 **部署在 Cloudflare Workers 上的 Discord 远程 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dend/guildbridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-19 16（+0）
+2026-10-18 16 → 2026-11-20 16（+0）
 
 
 ---

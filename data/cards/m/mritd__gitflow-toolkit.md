@@ -44,13 +44,13 @@ GitFlow Toolkit 是用 Go 编写的 CLI 工具，按 Conventional Commits 1.0.0 
 
 ```mermaid
 xychart-beta
-    title "mritd/gitflow-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-19"]
+    title "mritd/gitflow-toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-19", "2026-11-20"]
     y-axis "stars" 228 --> 232
-    line [230, 231, 230, 229]
+    line [230, 231, 230, 229, 229]
 ```
 
-2026-10-18 230 → 2026-11-19 229（-1）
+2026-10-18 230 → 2026-11-20 229（-1）
 
 
 ---

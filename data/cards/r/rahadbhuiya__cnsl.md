@@ -1,6 +1,6 @@
 # rahadbhuiya/cnsl
 
-⭐ 14 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/rahadbhuiya/cnsl) · [官网](https://pypi.org/project/cnsl) · 个人维护
+⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/rahadbhuiya/cnsl) · [官网](https://pypi.org/project/cnsl) · 个人维护
 
 **面向 Linux 的自托管 SIEM：跨日志关联检测攻击并自动封禁**
 
@@ -11,7 +11,7 @@ CNSL 是一个自托管的 Linux 安全监控与响应系统：同时读取 SSH�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ CNSL 是一个自托管的 Linux 安全监控与响应系统：同时读取 SSH�
 ```mermaid
 xychart-beta
     title "rahadbhuiya/cnsl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 14（+0）
 
 
 ---

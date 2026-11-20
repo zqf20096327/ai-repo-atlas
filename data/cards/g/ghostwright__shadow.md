@@ -1,6 +1,6 @@
 # ghostwright/shadow
 
-⭐ 93 · Swift · MIT · 推送 2026-03-16 · [GitHub](https://github.com/ghostwright/shadow) · [官网](https://ghostwright.dev/shadow) · 组织维护
+⭐ 94 · Swift · MIT · 推送 2026-03-16 · [GitHub](https://github.com/ghostwright/shadow) · [官网](https://ghostwright.dev/shadow) · 组织维护
 
 **macOS 本地个人智能引擎：全量记录电脑行为并主动提供 AI 辅助**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "ghostwright/shadow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 90 --> 94
-    line [91, 92, 93, 92, 93, 93]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 90 --> 95
+    line [91, 92, 93, 92, 93, 94]
 ```
 
-2026-10-18 91 → 2026-11-19 93（+2）
+2026-10-18 91 → 2026-11-20 94（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # renee-jia/trading-bot
 
-⭐ 97 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/renee-jia/trading-bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多因子选股与动量组合的宏观交易机器人，接入 Alpaca 实盘**
 
@@ -11,7 +11,7 @@ Python 编写的量化交易系统：多个分析模块（技术、趋势、宏�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

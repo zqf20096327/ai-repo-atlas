@@ -1,6 +1,6 @@
 # datawhalechina/code-your-own-llm
 
-⭐ 227 · NOASSERTION · 推送 2026-01-15 · [GitHub](https://github.com/datawhalechina/code-your-own-llm) · 组织维护 · 中文 README
+⭐ 229 · NOASSERTION · 推送 2026-01-15 · [GitHub](https://github.com/datawhalechina/code-your-own-llm) · 组织维护 · 中文 README
 
 **从零训练大语言模型的全栈式教学参考指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datawhalechina/code-your-own-llm 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 224 --> 228
-    line [225, 226, 227, 226, 227, 226, 227, 227]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 224 --> 230
+    line [225, 226, 227, 226, 227, 226, 227, 229]
 ```
 
-2026-10-18 225 → 2026-11-19 227（+2）
+2026-10-18 225 → 2026-11-20 229（+4）
 
 
 ---

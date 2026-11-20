@@ -48,12 +48,12 @@ Saguaro 是本地运行的代码审查工具：以 markdown+YAML frontmatter 形
 ```mermaid
 xychart-beta
     title "mesa-dot-dev/saguaro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-19 27（+1）
+2026-10-18 26 → 2026-11-20 27（+1）
 
 
 ---

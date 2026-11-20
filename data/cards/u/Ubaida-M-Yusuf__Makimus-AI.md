@@ -1,6 +1,6 @@
 # Ubaida-M-Yusuf/Makimus-AI
 
-⭐ 108 · Python · NOASSERTION · 推送 2026-07-07 · [GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) · 个人维护
+⭐ 107 · Python · NOASSERTION · 推送 2026-07-07 · [GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) · 个人维护
 
 **本地 AI 媒体搜索：用文字或图片搜图库与视频库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ubaida-M-Yusuf/Makimus-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-20"]
     y-axis "stars" 104 --> 109
-    line [105, 107, 108, 108]
+    line [105, 107, 108, 107]
 ```
 
-2026-10-18 105 → 2026-11-19 108（+3）
+2026-10-18 105 → 2026-11-20 107（+2）
 
 
 ---

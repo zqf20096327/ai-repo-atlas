@@ -1,6 +1,6 @@
 # PrasannaPulakurthi/really-awesome-sfda
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/PrasannaPulakurthi/really-awesome-sfda) · 个人维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/PrasannaPulakurthi/really-awesome-sfda) · 个人维护
 
 **面向研究者的源Free域适应论文清单：收录论文/代码/基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PrasannaPulakurthi/really-awesome-sfda 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-20"]
     y-axis "stars" 9 --> 14
     line [10, 11, 10, 11, 12, 13, 13]
 ```
 
-2026-10-23 10 → 2026-11-19 13（+3）
+2026-10-23 10 → 2026-11-20 13（+3）
 
 
 ---

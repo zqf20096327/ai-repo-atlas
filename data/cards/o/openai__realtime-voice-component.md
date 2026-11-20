@@ -1,6 +1,6 @@
 # openai/realtime-voice-component
 
-⭐ 891 · TypeScript · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/openai/realtime-voice-component) · 组织维护
+⭐ 890 · TypeScript · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/openai/realtime-voice-component) · 组织维护
 
 **基于 OpenAI Realtime 的 React 语音控制 UI 组件，给浏览器应用加语音操作**
 
@@ -46,12 +46,12 @@ OpenAI 维护的 React/浏览器层组件，用于在应用中嵌入基于 Realt
 ```mermaid
 xychart-beta
     title "openai/realtime-voice-component 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
     y-axis "stars" 884 --> 893
-    line [886, 885, 886, 887, 889, 886, 891, 892, 891, 891]
+    line [886, 885, 886, 887, 889, 886, 891, 892, 891, 890]
 ```
 
-2026-10-18 886 → 2026-11-19 891（+5）
+2026-10-18 886 → 2026-11-20 890（+4）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mindfiredigital/AUTOTEST 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "mindfiredigital/AUTOTEST 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 41 --> 44
-    line [42, 43]
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-19 43（+1）
+2026-10-18 42 → 2026-11-20 43（+1）
 
 
 ---

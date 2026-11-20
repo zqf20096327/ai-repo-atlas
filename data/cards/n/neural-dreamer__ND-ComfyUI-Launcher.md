@@ -1,6 +1,6 @@
 # neural-dreamer/ND-ComfyUI-Launcher
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/neural-dreamer/ND-ComfyUI-Launcher) · 组织维护
+⭐ 17 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/neural-dreamer/ND-ComfyUI-Launcher) · 组织维护
 
 **Windows 便携版 ComfyUI 的一窗口启动器：预设、更新、节点与模型管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "neural-dreamer/ND-ComfyUI-Launcher 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 6 --> 16
-    line [7, 8, 9, 7, 9, 11, 12, 15]
+    title "neural-dreamer/ND-ComfyUI-Launcher 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 6 --> 18
+    line [7, 8, 9, 7, 9, 11, 12, 15, 17]
 ```
 
-2026-10-25 7 → 2026-11-19 15（+8）
+2026-10-25 7 → 2026-11-20 17（+10）
 
 
 ---

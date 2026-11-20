@@ -1,10 +1,10 @@
 # WLfear/manus--ai
 
-⭐ 202 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/WLfear/manus--ai) · 个人维护
+⭐ 201 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/WLfear/manus--ai) · 个人维护
 
-**面向个人用户的自主 AI Agent：代用户运行代码与操作浏览器**
+**面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 
-一个通用自主 AI Agent 系统，核心能力为自主执行代码与控制浏览器完成多步骤任务：导航网页、填写表单、收集信息、运行脚本等。定位为家庭、学习与轻量办公场景的个人助手，面向非开发者用户，强调后台持续运行与跨会话一致性。README 提供桌面安装获取方式与最低硬件配置表（双核 CPU、4 GB 内存），安装步骤仅为启动与配置的流程性说明，未给出具体命令或依赖清单。
+一个通用自主 AI Agent，运行在沙盒环境中，可自主执行代码、控制浏览器（导航网页、填写表单、收集信息）并完成多步骤任务。定位为面向家庭、学习与轻量办公的个人助手，强调无需深度编程知识即可委托重复性任务，跨会话保持行为一致。README 仅提供最低硬件配置（64 位系统、双核 CPU、4 GB 内存）与使用步骤说明，未给出源码获取、安装命令或许可证信息，下载入口为独立安装包形式。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 自主代码执行：代用户运行脚本完成任务
-- 浏览器控制：导航网页、填写表单、收集信息
-- 后台运行的个人助手模式，跨会话保持任务模式
-- 提供最低硬件配置表（4 GB 内存起步）
+- 自主执行代码与控制浏览器的多步骤任务 Agent
+- 沙盒环境中运行各类工具与操作
+- 面向家庭、学习与轻量办公场景的自动化
+- README 给出系统/CPU/内存/权限的最低配置表
 
 ## 适用场景
 
-- 让 Agent 代为收集多个网页的研究资料
-- 自动填写重复性表单等日常事务
-- 学习场景中整理笔记与运行小脚本
-- 轻量办公中汇总多标签页信息做小结
+- 让 Agent 代为收集多个网页的信息并汇总
+- 自动整理研究笔记、运行小脚本和计算
+- 把填表、文件整理等重复性任务交给后台助手
+- 开发测试中快速运行小实验而无需搭建完整环境
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 
 ## 证据(README 行号)
 
+> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
-> L39: |**Operating System**|Modern 64-bit system|Current OS with updated runtime|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "WLfear/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 134 --> 286
-    line [146, 274, 202, 202]
+    line [146, 274, 202, 201]
 ```
 
-2026-11-13 146 → 2026-11-19 202（+56）
+2026-11-13 146 → 2026-11-20 201（+55）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `c06c32a8c955` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 low · 依据 README sha `148cfe63626f` · [字段定义](../../DATASET.md)*

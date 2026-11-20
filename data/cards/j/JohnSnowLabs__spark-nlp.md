@@ -1,6 +1,6 @@
 # JohnSnowLabs/spark-nlp
 
-⭐ 4,163 · Scala · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/JohnSnowLabs/spark-nlp) · [官网](https://sparknlp.org/) · 组织维护
+⭐ 4,162 · Scala · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/JohnSnowLabs/spark-nlp) · [官网](https://sparknlp.org/) · 组织维护
 
 **基于 Apache Spark 的 NLP 与 LLM 库：给 Python/JVM 开发者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JohnSnowLabs/spark-nlp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-16", "2026-11-19"]
+    title "JohnSnowLabs/spark-nlp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 4158 --> 4165
-    line [4160, 4159, 4160, 4159, 4160, 4163, 4164, 4163]
+    line [4160, 4159, 4160, 4159, 4160, 4163, 4164, 4163, 4162]
 ```
 
-2026-10-18 4,160 → 2026-11-19 4,163（+3）
+2026-10-18 4,160 → 2026-11-20 4,162（+2）
 
 
 ---

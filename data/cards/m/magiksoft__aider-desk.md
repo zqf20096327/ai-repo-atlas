@@ -1,6 +1,6 @@
 # magiksoft/aider-desk
 
-⭐ 1,471 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/magiksoft/aider-desk) · [官网](https://aiderdesk.dev) · 组织维护
+⭐ 1,472 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/magiksoft/aider-desk) · [官网](https://aiderdesk.dev) · 组织维护
 
 **面向专业软件工程师的 AI 编排桌面平台（Aider GUI 演化）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "magiksoft/aider-desk 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 1466 --> 1472
-    line [1467, 1469, 1471, 1470, 1471, 1471]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 1466 --> 1473
+    line [1467, 1469, 1471, 1470, 1471, 1472]
 ```
 
-2026-11-08 1,467 → 2026-11-19 1,471（+4）
+2026-11-08 1,467 → 2026-11-20 1,472（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # eth-siplab/egoPPG
 
-⭐ 14 · Python · 推送 2026-03-20 · [GitHub](https://github.com/eth-siplab/egoPPG) · [官网](https://siplab.org/projects/egoPPG) · 组织维护
+⭐ 15 · Python · 推送 2026-03-20 · [GitHub](https://github.com/eth-siplab/egoPPG) · [官网](https://siplab.org/projects/egoPPG) · 组织维护
 
 **ICCV 2025 论文官方代码：从眼动追踪相机估计心率**
 
@@ -45,12 +45,12 @@ ETH Zürich 团队发布的 ICCV 2025 论文官方实现：提出 egoPPG 任务�
 ```mermaid
 xychart-beta
     title "eth-siplab/egoPPG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 15（+1）
 
 
 ---

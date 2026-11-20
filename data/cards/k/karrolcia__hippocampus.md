@@ -1,6 +1,6 @@
 # karrolcia/hippocampus
 
-⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/karrolcia/hippocampus) · 个人维护
+⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/karrolcia/hippocampus) · 个人维护
 
 **自托管 MCP 记忆服务器：让各 AI 平台共享同一持久记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "karrolcia/hippocampus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 13（+0）
 
 
 ---

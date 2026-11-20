@@ -1,6 +1,6 @@
 # mrtinkz/ai-charter
 
-⭐ 51 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/mrtinkz/ai-charter) · [官网](https://mrtinkz.github.io/ai-charter/) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/mrtinkz/ai-charter) · [官网](https://mrtinkz.github.io/ai-charter/) · 个人维护
 
 **通用 AI 宪章与模型认证登记公开站点**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mrtinkz/ai-charter 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 46 --> 113
-    line [108, 101, 99, 57, 51, 51]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 42 --> 114
+    line [108, 101, 99, 57, 51, 48]
 ```
 
-2026-10-18 108 → 2026-11-19 51（-57）
+2026-10-18 108 → 2026-11-20 48（-60）
 
 
 ---

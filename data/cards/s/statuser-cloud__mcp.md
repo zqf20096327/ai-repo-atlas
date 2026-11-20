@@ -1,6 +1,6 @@
 # statuser-cloud/mcp
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/statuser-cloud/mcp) · [官网](https://statuser.cloud) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/statuser-cloud/mcp) · [官网](https://statuser.cloud) · 组织维护
 
 **Statuser 监控服务的官方 MCP 服务器，供 AI 客户端管理服务器与状态页**
 
@@ -45,12 +45,12 @@ Statuser 官方发布的 Model Context Protocol 服务器，使 Claude Code、Cu
 ```mermaid
 xychart-beta
     title "statuser-cloud/mcp 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-20"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-11-08 24 → 2026-11-19 24（+0）
+2026-11-08 24 → 2026-11-20 24（+0）
 
 
 ---

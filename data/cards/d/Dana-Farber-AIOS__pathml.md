@@ -1,6 +1,6 @@
 # Dana-Farber-AIOS/pathml
 
-⭐ 470 · Python · GPL-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/Dana-Farber-AIOS/pathml) · [官网](https://pathml.org) · 组织维护
+⭐ 469 · Python · GPL-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/Dana-Farber-AIOS/pathml) · [官网](https://pathml.org) · 组织维护
 
 **面向研究者的计算病理学工具包：全切片图像分析与建模**
 
@@ -46,12 +46,12 @@ Dana-Farber 维护的开源 Python 研究工具包，目标是降低数字病理
 ```mermaid
 xychart-beta
     title "Dana-Farber-AIOS/pathml 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 464 --> 471
-    line [465, 466, 467, 468, 470, 470]
+    line [465, 466, 467, 468, 470, 469]
 ```
 
-2026-10-18 465 → 2026-11-19 470（+5）
+2026-10-18 465 → 2026-11-20 469（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # open-webui/tether
 
-⭐ 175 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/open-webui/tether) · [官网](https://docs.openwebui.com/ecosystem/tether) · 组织维护
+⭐ 180 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/open-webui/tether) · [官网](https://docs.openwebui.com/ecosystem/tether) · 组织维护
 
 **Open WebUI 的桌面伴侣应用，从桌面直连你的 AI**
 
@@ -44,13 +44,13 @@ Tether 是 Open WebUI 的桌面客户端，将浏览器中的 Open WebUI 体验�
 
 ```mermaid
 xychart-beta
-    title "open-webui/tether 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 39 --> 187
-    line [51, 114, 132, 137, 139, 142, 146, 151, 162, 175]
+    title "open-webui/tether 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 39 --> 192
+    line [51, 114, 132, 137, 139, 142, 146, 151, 162, 175, 180]
 ```
 
-2026-11-08 51 → 2026-11-19 175（+124）
+2026-11-08 51 → 2026-11-20 180（+129）
 
 
 ---

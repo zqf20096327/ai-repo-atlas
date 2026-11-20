@@ -1,6 +1,6 @@
 # bnww/dart-sense
 
-⭐ 75 · Python · NOASSERTION · 推送 2026-06-06 · [GitHub](https://github.com/bnww/dart-sense) · 个人维护
+⭐ 76 · Python · NOASSERTION · 推送 2026-06-06 · [GitHub](https://github.com/bnww/dart-sense) · 个人维护
 
 **用手机摄像头自动计分飞镖比赛的计算机视觉应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bnww/dart-sense 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 72 --> 76
-    line [73, 74, 75, 75]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 72 --> 77
+    line [73, 74, 75, 76]
 ```
 
-2026-10-18 73 → 2026-11-19 75（+2）
+2026-10-18 73 → 2026-11-20 76（+3）
 
 
 ---

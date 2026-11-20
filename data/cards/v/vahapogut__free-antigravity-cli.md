@@ -1,6 +1,6 @@
 # vahapogut/free-antigravity-cli
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/vahapogut/free-antigravity-cli) · [官网](https://www.npmjs.com/package/free-antigravity-cli) · 个人维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/vahapogut/free-antigravity-cli) · [官网](https://www.npmjs.com/package/free-antigravity-cli) · 个人维护
 
 **为官方 Antigravity CLI 接入自定义 AI 模型的本地代理包装器**
 
@@ -44,13 +44,13 @@ npm 分发的 CLI 工具，包装官方 Antigravity CLI（agy）：启动本地 
 
 ```mermaid
 xychart-beta
-    title "vahapogut/free-antigravity-cli 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 10, 11, 12, 13, 14]
+    title "vahapogut/free-antigravity-cli 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 10, 11, 12, 13, 14, 15]
 ```
 
-2026-10-19 10 → 2026-11-19 14（+4）
+2026-10-19 10 → 2026-11-20 15（+5）
 
 
 ---

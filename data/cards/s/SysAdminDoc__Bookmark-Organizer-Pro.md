@@ -1,6 +1,6 @@
 # SysAdminDoc/Bookmark-Organizer-Pro
 
-⭐ 11 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/SysAdminDoc/Bookmark-Organizer-Pro) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SysAdminDoc/Bookmark-Organizer-Pro) · 个人维护
 
 **本地优先的书签与研究资料管理桌面工具，AI 分类可选启用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SysAdminDoc/Bookmark-Organizer-Pro 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-08 11 → 2026-11-19 11（+0）
+2026-11-08 11 → 2026-11-20 11（+0）
 
 
 ---

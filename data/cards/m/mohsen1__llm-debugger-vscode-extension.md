@@ -1,6 +1,6 @@
 # mohsen1/llm-debugger-vscode-extension
 
-⭐ 361 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mohsen1/llm-debugger-vscode-extension) · 个人维护
+⭐ 362 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mohsen1/llm-debugger-vscode-extension) · 个人维护
 
 **VSCode 扩展：LLM 驱动真实调试器逐步定位并修复 bug**
 
@@ -46,12 +46,12 @@ VSCode 调试扩展，通过驱动真实调试器（设断点、单步、读取�
 ```mermaid
 xychart-beta
     title "mohsen1/llm-debugger-vscode-extension 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 360 --> 362
-    line [361, 361]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 360 --> 363
+    line [361, 362]
 ```
 
-2026-10-18 361 → 2026-11-19 361（+0）
+2026-10-18 361 → 2026-11-20 362（+1）
 
 
 ---

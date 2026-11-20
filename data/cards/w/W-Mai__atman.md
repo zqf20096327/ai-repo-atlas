@@ -1,6 +1,6 @@
 # W-Mai/atman
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/W-Mai/atman) · [官网](https://atman.run) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/W-Mai/atman) · [官网](https://atman.run) · 个人维护
 
 **为开发者提供流驱动的 AI 编码 Agent 运行时与 .at 工作流 DSL**
 
@@ -46,12 +46,12 @@ atman 是一个以 Rust 编写的终端 TUI 应用与运行时，用户用 .at D
 ```mermaid
 xychart-beta
     title "W-Mai/atman 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 12（+2）
 
 
 ---

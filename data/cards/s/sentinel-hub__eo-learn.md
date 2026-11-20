@@ -1,6 +1,6 @@
 # sentinel-hub/eo-learn
 
-⭐ 1,259 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/sentinel-hub/eo-learn) · [官网](https://eo-learn.readthedocs.io/en/latest/) · 组织维护
+⭐ 1,257 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/sentinel-hub/eo-learn) · [官网](https://eo-learn.readthedocs.io/en/latest/) · 组织维护
 
 **面向遥感卫星影像与机器学习的 Python 地球观测处理框架**
 
@@ -46,12 +46,12 @@ eo-learn 是一组开源 Python 包，将卫星影像等时空数据以 NumPy �
 ```mermaid
 xychart-beta
     title "sentinel-hub/eo-learn 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
     y-axis "stars" 1253 --> 1260
-    line [1254, 1255, 1256, 1255, 1258, 1259, 1259]
+    line [1254, 1255, 1256, 1255, 1258, 1259, 1257]
 ```
 
-2026-10-18 1,254 → 2026-11-19 1,259（+5）
+2026-10-18 1,254 → 2026-11-20 1,257（+3）
 
 
 ---

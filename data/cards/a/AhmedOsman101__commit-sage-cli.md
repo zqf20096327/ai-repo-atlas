@@ -1,6 +1,6 @@
 # AhmedOsman101/commit-sage-cli
 
-⭐ 64 · TypeScript · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/AhmedOsman101/commit-sage-cli) · 个人维护
+⭐ 65 · TypeScript · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/AhmedOsman101/commit-sage-cli) · 个人维护
 
 **用 AI 从 git diff 生成提交信息的跨平台 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AhmedOsman101/commit-sage-cli 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 60 --> 65
-    line [61, 62, 61, 62, 63, 64, 64]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 60 --> 66
+    line [61, 62, 61, 62, 63, 64, 65]
 ```
 
-2026-10-18 61 → 2026-11-19 64（+3）
+2026-10-18 61 → 2026-11-20 65（+4）
 
 
 ---

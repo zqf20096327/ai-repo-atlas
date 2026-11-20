@@ -40,6 +40,18 @@
 > L9: **A personal assistant that runs on your own machine, with a memory you can inspect.**
 > L10: It plans, executes, recovers, verifies and delivers multi-step personal tasks; everyday conversation is supporting 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ChrisVip001/Jeeves 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 111 --> 113
+    line [112, 112]
+```
+
+2026-11-19 112 → 2026-11-20 112（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `ff991d434629` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # awesome-algorand/awesome-algorand
 
-⭐ 217 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/awesome-algorand/awesome-algorand) · [官网](https://awesomealgo.com) · 组织维护
+⭐ 216 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/awesome-algorand/awesome-algorand) · [官网](https://awesomealgo.com) · 组织维护
 
 **Algorand 区块链生态资源策展清单，面向开发者**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "awesome-algorand/awesome-algorand 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 216 --> 219
-    line [218, 217, 217]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 215 --> 219
+    line [218, 217, 216]
 ```
 
-2026-10-18 218 → 2026-11-19 217（-1）
+2026-10-18 218 → 2026-11-20 216（-2）
 
 
 ---

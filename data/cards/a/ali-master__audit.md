@@ -1,6 +1,6 @@
 # ali-master/audit
 
-⭐ 25 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/ali-master/audit) · [官网](https://audit.usestrict.dev) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/ali-master/audit) · [官网](https://audit.usestrict.dev) · 个人维护
 
 **给安全工程师的 8 阶段 AI 漏洞挖掘 agent 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ali-master/audit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-11-19 25（+0）
+2026-10-18 25 → 2026-11-20 26（+1）
 
 
 ---

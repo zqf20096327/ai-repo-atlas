@@ -1,6 +1,6 @@
 # mcp-shark/mcp-shark
 
-⭐ 180 · JavaScript · NOASSERTION · 推送 2026-04-26 · [GitHub](https://github.com/mcp-shark/mcp-shark) · [官网](https://mcpshark.sh/) · 组织维护
+⭐ 179 · JavaScript · NOASSERTION · 推送 2026-04-26 · [GitHub](https://github.com/mcp-shark/mcp-shark) · [官网](https://mcpshark.sh/) · 组织维护
 
 **面向安全工程师的 MCP 配置与流量取证扫描器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mcp-shark/mcp-shark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
     y-axis "stars" 178 --> 181
-    line [179, 180, 180]
+    line [179, 180, 179]
 ```
 
-2026-10-18 179 → 2026-11-19 180（+1）
+2026-10-18 179 → 2026-11-20 179（+0）
 
 
 ---

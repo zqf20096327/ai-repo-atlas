@@ -1,6 +1,6 @@
 # oniani/covid-19-chatbot
 
-⭐ 21 · Python · 推送 2025-11-23 · [GitHub](https://github.com/oniani/covid-19-chatbot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 COVID-19 论文语料微调 GPT-2 的问答聊天机器人（论文代码）**
 

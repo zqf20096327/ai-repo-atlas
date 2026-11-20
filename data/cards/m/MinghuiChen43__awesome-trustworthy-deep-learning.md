@@ -1,6 +1,6 @@
 # MinghuiChen43/awesome-trustworthy-deep-learning
 
-⭐ 395 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) · 个人维护
+⭐ 394 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) · 个人维护
 
 **可信深度学习论文策展清单：覆盖对抗、后门、隐私等方向**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "MinghuiChen43/awesome-trustworthy-deep-learning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-13", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-13", "2026-11-15", "2026-11-20"]
     y-axis "stars" 393 --> 397
-    line [394, 395, 396, 395, 394, 395, 395]
+    line [394, 395, 396, 395, 394, 395, 394]
 ```
 
-2026-10-18 394 → 2026-11-19 395（+1）
+2026-10-18 394 → 2026-11-20 394（+0）
 
 
 ---

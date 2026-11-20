@@ -1,6 +1,6 @@
 # soycodetrail/vibe-coding-gallery
 
-⭐ 10 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/soycodetrail/vibe-coding-gallery) · [官网](https://soycodetrail.top/vibe-coding) · 个人维护 · 中文 README
+⭐ 10 · HTML · 推送 2026-11-19 · [GitHub](https://github.com/soycodetrail/vibe-coding-gallery) · [官网](https://soycodetrail.top/vibe-coding) · 个人维护 · 中文 README
 
 **AI 辅助开发作品的中文策展清单（783 条 / 15 分类）**
 
@@ -39,6 +39,18 @@
 > L7: > 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-18 22:16:17 UTC
 > L15: ## 📑 内容导航（783 个条目 / 15 个分类）
 > L19: ### 📁 Web 应用
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "soycodetrail/vibe-coding-gallery 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
 
 
 ---

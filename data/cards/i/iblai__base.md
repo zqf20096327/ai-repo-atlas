@@ -1,6 +1,6 @@
 # iblai/base
 
-⭐ 234 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
+⭐ 222 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
 
 **在 ibl.ai 平台上快速搭建 AI 应用的开发者工具包**
 
@@ -40,6 +40,18 @@ ibl.ai 官方提供的脚手架工具包：通过 npx 安装一组 Claude Code /
 > L5: Ship AI-powered apps fast — and run the platform behind them. Backend included.
 > L27: **1. Install the skills** in the agent you already use.
 > L48: - `/iblai-vibe-connect` -- connects the project to an ibl.ai organization via a one-click browser flow, writing the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iblai/base 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 221 --> 235
+    line [234, 222]
+```
+
+2026-11-19 234 → 2026-11-20 222（-12）
 
 
 ---

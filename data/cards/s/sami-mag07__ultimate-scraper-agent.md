@@ -1,6 +1,6 @@
 # sami-mag07/ultimate-scraper-agent
 
-⭐ 41 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/sami-mag07/ultimate-scraper-agent) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/sami-mag07/ultimate-scraper-agent) · 个人维护
 
 **给 Claude Code 的研究技能与子代理：多引擎搜索加引用核验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sami-mag07/ultimate-scraper-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
-    y-axis "stars" 40 --> 44
-    line [43, 41, 41]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
+    y-axis "stars" 35 --> 44
+    line [43, 41, 36]
 ```
 
-2026-10-18 43 → 2026-11-19 41（-2）
+2026-10-18 43 → 2026-11-20 36（-7）
 
 
 ---

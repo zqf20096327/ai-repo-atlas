@@ -1,6 +1,6 @@
 # TimeCopilot/foundationforecast
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/TimeCopilot/foundationforecast) · [官网](https://docs.timecopilot.dev/foundationforecast) · 组织维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/TimeCopilot/foundationforecast) · [官网](https://docs.timecopilot.dev/foundationforecast) · 组织维护
 
 **统一 API 调用多家时间序列基础模型的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TimeCopilot/foundationforecast 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19"]
+    title "TimeCopilot/foundationforecast 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-20"]
     y-axis "stars" 8 --> 39
-    line [10, 11, 12, 13, 14, 16, 11, 26, 28, 30, 32, 34, 36, 37]
+    line [10, 11, 12, 13, 14, 16, 11, 26, 28, 30, 32, 34, 36, 37, 37]
 ```
 
-2026-10-18 10 → 2026-11-19 37（+27）
+2026-10-18 10 → 2026-11-20 37（+27）
 
 
 ---

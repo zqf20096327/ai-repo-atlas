@@ -1,6 +1,6 @@
 # tecmie/rettiwt
 
-⭐ 74 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/tecmie/rettiwt) · [官网](https://www.tecmie.xyz/research#rettiwt) · 个人维护
+⭐ 73 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/tecmie/rettiwt) · [官网](https://www.tecmie.xyz/research#rettiwt) · 个人维护
 
 **AI 驱动的 Twitter 社交媒体模拟沙盒：模拟可信人类代理互动**
 
@@ -45,12 +45,12 @@ XIMS（X-Interactive Media Simulation）是一个基于 Next.js 的 Twitter 模�
 ```mermaid
 xychart-beta
     title "tecmie/rettiwt 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 73 --> 84
-    line [83, 82, 75, 74, 75, 74, 74]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 72 --> 84
+    line [83, 82, 75, 74, 75, 74, 73]
 ```
 
-2026-10-18 83 → 2026-11-19 74（-9）
+2026-10-18 83 → 2026-11-20 73（-10）
 
 
 ---

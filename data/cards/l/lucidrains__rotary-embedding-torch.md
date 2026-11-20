@@ -1,6 +1,6 @@
 # lucidrains/rotary-embedding-torch
 
-⭐ 827 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/lucidrains/rotary-embedding-torch) · 个人维护
+⭐ 828 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/lucidrains/rotary-embedding-torch) · 个人维护
 
 **PyTorch 旋转位置编码（RoPE）独立实现库，供 Transformer 使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/rotary-embedding-torch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-20"]
     y-axis "stars" 826 --> 830
-    line [829, 828, 827, 827]
+    line [829, 828, 827, 828]
 ```
 
-2026-10-18 829 → 2026-11-19 827（-2）
+2026-10-18 829 → 2026-11-20 828（-1）
 
 
 ---

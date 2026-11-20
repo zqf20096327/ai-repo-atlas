@@ -1,6 +1,6 @@
 # jfilter/split-folders
 
-⭐ 425 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jfilter/split-folders) · 个人维护
+⭐ 423 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jfilter/split-folders) · 个人维护
 
 **把含文件的文件夹按比例切分为训练/验证/测试集的 Python 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jfilter/split-folders 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 423 --> 426
-    line [424, 425, 425]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 422 --> 426
+    line [424, 425, 423]
 ```
 
-2026-10-18 424 → 2026-11-19 425（+1）
+2026-10-18 424 → 2026-11-20 423（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # talgent-work/workbench
 
-⭐ 43 · Go · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/talgent-work/workbench) · [官网](https://talgent.work) · 组织维护
+⭐ 45 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/talgent-work/workbench) · [官网](https://talgent.work) · 组织维护
 
 **自托管的托管式 AI Agent 平台，每个任务独立沙箱运行**
 
@@ -45,13 +45,13 @@ Talgent Workbench 是一个部署在自有 Kubernetes 集群上的托管 Agent �
 
 ```mermaid
 xychart-beta
-    title "talgent-work/workbench 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 0 --> 47
-    line [3, 18, 22, 25, 35, 43]
+    title "talgent-work/workbench 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 0 --> 49
+    line [3, 18, 22, 25, 35, 43, 45]
 ```
 
-2026-11-13 3 → 2026-11-19 43（+40）
+2026-11-13 3 → 2026-11-20 45（+42）
 
 
 ---

@@ -1,6 +1,6 @@
 # iver56/torch-audiomentations
 
-⭐ 1,176 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/iver56/torch-audiomentations) · 个人维护
+⭐ 1,175 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/iver56/torch-audiomentations) · 个人维护
 
 **PyTorch 音频数据增强库：为深度学习训练提供 GPU 加速的波形变换**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iver56/torch-audiomentations 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
     y-axis "stars" 1173 --> 1178
-    line [1174, 1175, 1177, 1176, 1176]
+    line [1174, 1175, 1177, 1176, 1175]
 ```
 
-2026-10-18 1,174 → 2026-11-19 1,176（+2）
+2026-10-18 1,174 → 2026-11-20 1,175（+1）
 
 
 ---

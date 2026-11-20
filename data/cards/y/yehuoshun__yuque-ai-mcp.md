@@ -42,6 +42,18 @@
 > L21: - **Skill layer** — 67 usage guides for AI agents
 > L18: - **Dual transport** — stdio + HTTP SSE, shared registry, zero downtime on reload
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yehuoshun/yuque-ai-mcp 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `50073d5e4025` · [字段定义](../../DATASET.md)*

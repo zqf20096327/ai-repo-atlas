@@ -1,6 +1,6 @@
 # amitshekhariitbhu/forward-deployed-engineer-roadmap
 
-⭐ 460 · Markdown · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 486 · Markdown · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **面向 Forward Deployed Engineer 的 AI 工程学习路线图**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/forward-deployed-engineer-roadmap 星数(近 13 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 0 --> 503
-    line [21, 81, 99, 259, 302, 333, 350, 354, 363, 382, 410, 429, 460]
+    title "amitshekhariitbhu/forward-deployed-engineer-roadmap 星数(近 14 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 0 --> 532
+    line [21, 81, 99, 259, 302, 333, 350, 354, 363, 382, 410, 429, 460, 486]
 ```
 
-2026-10-31 21 → 2026-11-19 460（+439）
+2026-10-31 21 → 2026-11-20 486（+465）
 
 
 ---

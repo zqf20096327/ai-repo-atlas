@@ -1,6 +1,6 @@
 # fikrilal/burnly
 
-⭐ 29 · Rust · 推送 2026-10-12 · [GitHub](https://github.com/fikrilal/burnly) · [官网](https://burnly.dev/) · 个人维护
+⭐ 28 · Rust · 推送 2026-10-12 · [GitHub](https://github.com/fikrilal/burnly) · [官网](https://burnly.dev/) · 个人维护
 
 **本地托盘应用：追踪 AI 编程工具的 token 用量与成本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fikrilal/burnly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 27 --> 30
+    line [29, 28]
 ```
 
-2026-10-18 29 → 2026-11-19 29（+0）
+2026-10-18 29 → 2026-11-20 28（-1）
 
 
 ---

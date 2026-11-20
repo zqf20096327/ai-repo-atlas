@@ -41,6 +41,18 @@
 > L40: |Sheet|Use it when|Main deliverable|
 > L53: Missing a primary source or spotted a stale claim? Open a resource or correction request or follow the focused cont
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sraodev/awesome-opensource-ai-cheat-sheets 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-19 11 → 2026-11-20 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `5e177fff2c13` · [字段定义](../../DATASET.md)*

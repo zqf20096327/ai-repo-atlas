@@ -1,6 +1,6 @@
 # zapsyq/tracord_release
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/zapsyq/tracord_release) · 个人维护 · 中文 README
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/zapsyq/tracord_release) · 个人维护 · 中文 README
 
 **本地小模型多智能体的移动端旅行规划助手**
 
@@ -47,12 +47,12 @@ Flutter 移动端 + FastAPI 后端的旅行应用：地图点亮去过城市、�
 ```mermaid
 xychart-beta
     title "zapsyq/tracord_release 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 14, 15, 14, 14]
+    line [14, 15, 14, 15, 14, 15]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 15（+1）
 
 
 ---

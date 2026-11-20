@@ -1,6 +1,6 @@
 # KenKaiii/king
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/KenKaiii/king) · [官网](https://www.kenkais.com) · 个人维护
+⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/KenKaiii/king) · [官网](https://www.kenkais.com) · 个人维护
 
 **电商卖家的桌面创作工具：生成产品图并管理店铺与广告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KenKaiii/king 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 15 --> 21
+    line [16, 17, 18, 19, 20]
 ```
 
-2026-10-18 16 → 2026-11-19 19（+3）
+2026-10-18 16 → 2026-11-20 20（+4）
 
 
 ---

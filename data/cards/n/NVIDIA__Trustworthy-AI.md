@@ -1,6 +1,6 @@
 # NVIDIA/Trustworthy-AI
 
-⭐ 70 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/NVIDIA/Trustworthy-AI) · 组织维护
+⭐ 72 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/NVIDIA/Trustworthy-AI) · 组织维护
 
 **NVIDIA 可信 AI 文档模板与社区工具集合**
 
@@ -44,12 +44,12 @@ NVIDIA 维护的可信 AI（Trustworthy AI）文档仓库：提供 Model Card++�
 ```mermaid
 xychart-beta
     title "NVIDIA/Trustworthy-AI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 66 --> 71
-    line [67, 68, 69, 70, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 66 --> 73
+    line [67, 68, 69, 70, 69, 70, 72]
 ```
 
-2026-10-18 67 → 2026-11-19 70（+3）
+2026-10-18 67 → 2026-11-20 72（+5）
 
 
 ---

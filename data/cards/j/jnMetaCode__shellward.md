@@ -1,6 +1,6 @@
 # jnMetaCode/shellward
 
-⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/jnMetaCode/shellward) · [官网](https://jnmetacode.github.io/shellward/) · 个人维护 · 中文 README
+⭐ 140 · TypeScript · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/jnMetaCode/shellward) · [官网](https://jnmetacode.github.io/shellward/) · 个人维护 · 中文 README
 
 **面向中国监管的 AI Agent 安全合规网关与扫描器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jnMetaCode/shellward 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 137 --> 140
-    line [139, 138, 139, 139]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 137 --> 141
+    line [139, 138, 139, 140]
 ```
 
-2026-10-18 139 → 2026-11-19 139（+0）
+2026-10-18 139 → 2026-11-20 140（+1）
 
 
 ---

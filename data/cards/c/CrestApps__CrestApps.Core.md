@@ -1,6 +1,6 @@
 # CrestApps/CrestApps.Core
 
-⭐ 13 · C# · 推送 2026-11-17 · [GitHub](https://github.com/CrestApps/CrestApps.Core) · [官网](https://core.crestapps.com) · 个人维护
+⭐ 13 · C# · 推送 2026-11-18 · [GitHub](https://github.com/CrestApps/CrestApps.Core) · [官网](https://core.crestapps.com) · 个人维护
 
 **.NET 的组合式 AI 应用与管理框架：聊天、Agent、RAG、MCP、A2A 构建块**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CrestApps/CrestApps.Core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 13（+0）
 
 
 ---

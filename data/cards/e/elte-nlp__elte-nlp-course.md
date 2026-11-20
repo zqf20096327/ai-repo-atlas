@@ -1,6 +1,6 @@
 # elte-nlp/elte-nlp-course
 
-⭐ 45 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-11-14 · [GitHub](https://github.com/elte-nlp/elte-nlp-course) · [官网](https://drive.google.com/drive/u/1/folders/1S_WgFtfvz-Tw1a7TMupgg0s2GoO_0ZHv) · 组织维护
+⭐ 45 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/elte-nlp/elte-nlp-course) · [官网](https://drive.google.com/drive/u/1/folders/1S_WgFtfvz-Tw1a7TMupgg0s2GoO_0ZHv) · 组织维护
 
 **ELTE 大学 NLP 与基础模型课程的讲义幻灯片**
 
@@ -44,12 +44,12 @@ Eötvös Loránd 大学《自然语言处理与语言基础模型》课程（IPM
 ```mermaid
 xychart-beta
     title "elte-nlp/elte-nlp-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-11-19 45（+0）
+2026-10-18 45 → 2026-11-20 45（+0）
 
 
 ---

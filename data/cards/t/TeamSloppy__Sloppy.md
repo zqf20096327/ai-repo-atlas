@@ -1,6 +1,6 @@
 # TeamSloppy/Sloppy
 
-⭐ 28 · Swift · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/TeamSloppy/Sloppy) · [官网](https://sloppy.team) · 组织维护
+⭐ 28 · Swift · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/TeamSloppy/Sloppy) · [官网](https://sloppy.team) · 组织维护
 
 **Swift 编写的多 agent 运行时与可视化控制平面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TeamSloppy/Sloppy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-19 28（+1）
+2026-10-18 27 → 2026-11-20 28（+1）
 
 
 ---

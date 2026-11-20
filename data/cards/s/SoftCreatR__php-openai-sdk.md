@@ -1,6 +1,6 @@
 # SoftCreatR/php-openai-sdk
 
-⭐ 13 · PHP · ISC · 推送 2026-10-12 · [GitHub](https://github.com/SoftCreatR/php-openai-sdk) · [官网](https://packagist.org/packages/softcreatr/php-openai-sdk) · 个人维护
+⭐ 13 · PHP · ISC · 推送 2026-11-19 · [GitHub](https://github.com/SoftCreatR/php-openai-sdk) · [官网](https://packagist.org/packages/softcreatr/php-openai-sdk) · 个人维护
 
 **PHP 开发者的 OpenAI API 客户端 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SoftCreatR/php-openai-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 13（+0）
 
 
 ---

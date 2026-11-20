@@ -1,6 +1,6 @@
 # dataflowr/notebooks
 
-⭐ 1,271 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/dataflowr/notebooks) · [官网](https://dataflowr.github.io/website/) · 个人维护
+⭐ 1,269 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/dataflowr/notebooks) · [官网](https://dataflowr.github.io/website/) · 个人维护
 
 **深度学习课程配套代码与 Jupyter notebook 集合**
 
@@ -45,12 +45,12 @@ Dataflowr 深度学习课程的代码与 notebook 仓库，按 école polytechni
 ```mermaid
 xychart-beta
     title "dataflowr/notebooks 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 1270 --> 1273
-    line [1271, 1272, 1271, 1272, 1271, 1271]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 1268 --> 1273
+    line [1271, 1272, 1271, 1272, 1271, 1269]
 ```
 
-2026-10-18 1,271 → 2026-11-19 1,271（+0）
+2026-10-18 1,271 → 2026-11-20 1,269（-2）
 
 
 ---

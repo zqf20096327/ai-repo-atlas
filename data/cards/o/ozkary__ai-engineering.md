@@ -1,6 +1,6 @@
 # ozkary/ai-engineering
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/ozkary/ai-engineering) · [官网](https://www.ozkary.com) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/ozkary/ai-engineering) · [官网](https://www.ozkary.com) · 个人维护
 
 **面向开发者的 AI 工程示例库：LLM、Agent 与治理用例代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ozkary/ai-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-19 14（+1）
+2026-10-18 13 → 2026-11-20 14（+1）
 
 
 ---

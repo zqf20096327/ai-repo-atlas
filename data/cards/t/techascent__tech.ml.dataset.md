@@ -1,6 +1,6 @@
 # techascent/tech.ml.dataset
 
-⭐ 764 · Clojure · EPL-1.0 · 推送 2026-10-02 · [GitHub](https://github.com/techascent/tech.ml.dataset) · 组织维护
+⭐ 762 · Clojure · EPL-1.0 · 推送 2026-10-02 · [GitHub](https://github.com/techascent/tech.ml.dataset) · 组织维护
 
 **Clojure 表格数据处理库：JVM 上的列式数据集与 ETL**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "techascent/tech.ml.dataset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 762 --> 765
-    line [763, 764, 764]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 761 --> 765
+    line [763, 764, 762]
 ```
 
-2026-10-18 763 → 2026-11-19 764（+1）
+2026-10-18 763 → 2026-11-20 762（-1）
 
 
 ---

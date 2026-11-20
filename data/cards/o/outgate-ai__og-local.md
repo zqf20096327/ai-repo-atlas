@@ -1,6 +1,6 @@
 # outgate-ai/og-local
 
-⭐ 13 · Go · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/outgate-ai/og-local) · [官网](https://outgate.ai) · 组织维护
+⭐ 14 · Go · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/outgate-ai/og-local) · [官网](https://outgate.ai) · 组织维护
 
 **本地隐私代理：在编程 agent 请求出站前检出并脱敏 PII/密钥**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "outgate-ai/og-local 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-19 13（+1）
+2026-10-18 12 → 2026-11-20 14（+2）
 
 
 ---

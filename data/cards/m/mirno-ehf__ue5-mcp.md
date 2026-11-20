@@ -1,6 +1,6 @@
 # mirno-ehf/ue5-mcp
 
-⭐ 79 · C++ · MIT · 推送 2026-05-27 · [GitHub](https://github.com/mirno-ehf/ue5-mcp) · 组织维护
+⭐ 80 · C++ · MIT · 推送 2026-05-27 · [GitHub](https://github.com/mirno-ehf/ue5-mcp) · 组织维护
 
 **让 AI agent 读写 UE5 蓝图的 MCP 服务器插件**
 
@@ -45,12 +45,12 @@ Unreal Engine 5 编辑器插件，通过编辑器内本地 HTTP 服务器暴露�
 ```mermaid
 xychart-beta
     title "mirno-ehf/ue5-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 76 --> 80
-    line [77, 78, 79, 79]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 76 --> 81
+    line [77, 78, 79, 80]
 ```
 
-2026-10-18 77 → 2026-11-19 79（+2）
+2026-10-18 77 → 2026-11-20 80（+3）
 
 
 ---

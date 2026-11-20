@@ -1,6 +1,6 @@
 # ai-runway/airunway
 
-⭐ 104 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/ai-runway/airunway) · [官网](https://ai-runway.github.io/airunway/) · 组织维护
+⭐ 103 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/ai-runway/airunway) · [官网](https://ai-runway.github.io/airunway/) · 组织维护
 
 **Kubernetes 上部署管理 LLM 推理的平台：Web UI + 统一 CRD**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-runway/airunway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 101 --> 105
-    line [102, 104, 104]
+    line [102, 104, 103]
 ```
 
-2026-10-18 102 → 2026-11-19 104（+2）
+2026-10-18 102 → 2026-11-20 103（+1）
 
 
 ---

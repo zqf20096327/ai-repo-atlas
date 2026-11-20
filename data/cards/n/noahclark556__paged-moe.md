@@ -1,6 +1,6 @@
 # noahclark556/paged-moe
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/noahclark556/paged-moe) · 个人维护
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/noahclark556/paged-moe) · 个人维护
 
 **Apple Silicon 上按需从 SSD 流式加载 MoE 专家的推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "noahclark556/paged-moe 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 3 --> 21
-    line [4, 10, 16, 17, 18, 20]
+    title "noahclark556/paged-moe 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 3 --> 22
+    line [4, 10, 16, 17, 18, 20, 21]
 ```
 
-2026-10-18 4 → 2026-11-19 20（+16）
+2026-10-18 4 → 2026-11-20 21（+17）
 
 
 ---

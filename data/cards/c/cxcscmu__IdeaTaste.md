@@ -1,6 +1,6 @@
 # cxcscmu/IdeaTaste
 
-⭐ 33 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/cxcscmu/IdeaTaste) · [官网](https://cxcscmu.github.io/IdeaTaste) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/cxcscmu/IdeaTaste) · [官网](https://cxcscmu.github.io/IdeaTaste) · 组织维护
 
 **评测 LLM agent 科研品味的研究基准：以次年真实论文对照打分**
 
@@ -45,12 +45,12 @@ IdeaTaste 是一个评测研究品味的 benchmark：LLM agent 阅读冻结在 2
 ```mermaid
 xychart-beta
     title "cxcscmu/IdeaTaste 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34]
 ```
 
-2026-11-08 31 → 2026-11-19 33（+2）
+2026-11-08 31 → 2026-11-20 34（+3）
 
 
 ---

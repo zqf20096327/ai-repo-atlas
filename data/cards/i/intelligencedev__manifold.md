@@ -1,6 +1,6 @@
 # intelligencedev/manifold
 
-⭐ 503 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/intelligencedev/manifold) · [官网](https://intelligence.dev) · 个人维护
+⭐ 504 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/intelligencedev/manifold) · [官网](https://intelligence.dev) · 个人维护
 
 **实验性 AI 助手团队平台：面向长周期多步工作流自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "intelligencedev/manifold 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 501 --> 504
-    line [502, 503, 503]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 501 --> 505
+    line [502, 503, 504]
 ```
 
-2026-10-18 502 → 2026-11-19 503（+1）
+2026-10-18 502 → 2026-11-20 504（+2）
 
 
 ---

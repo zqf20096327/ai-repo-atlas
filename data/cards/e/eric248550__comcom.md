@@ -1,6 +1,6 @@
 # eric248550/comcom
 
-⭐ 30 · TypeScript · MIT · 推送 2026-06-17 · [GitHub](https://github.com/eric248550/comcom) · [官网](https://comcomweb.vercel.app/) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-06-17 · [GitHub](https://github.com/eric248550/comcom) · [官网](https://comcomweb.vercel.app/) · 个人维护
 
 **Gmail/Slack 内的 AI 文本改写工具栏：选中文本选模式即改写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eric248550/comcom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 28 --> 31
+    line [30, 29]
 ```
 
-2026-10-18 30 → 2026-11-19 30（+0）
+2026-10-18 30 → 2026-11-20 29（-1）
 
 
 ---

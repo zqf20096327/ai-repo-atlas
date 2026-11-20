@@ -1,6 +1,6 @@
 # Raymondlol/Faster-WeatherNext
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/Raymondlol/Faster-WeatherNext) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/Raymondlol/Faster-WeatherNext) · 个人维护
 
 **在消费级 GPU 上以 0.25° 运行 WeatherNext 2 天气集合预报**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Raymondlol/Faster-WeatherNext 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 4 --> 15
-    line [5, 6, 7, 8, 9, 6, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 4 --> 16
+    line [5, 6, 7, 8, 9, 6, 13, 14, 15]
 ```
 
-2026-10-18 5 → 2026-11-19 14（+9）
+2026-10-18 5 → 2026-11-20 15（+10）
 
 
 ---

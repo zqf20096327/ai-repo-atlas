@@ -1,6 +1,6 @@
 # parisi-labs/forecastops
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/parisi-labs/forecastops) · [官网](https://pypi.org/project/forecastops/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/parisi-labs/forecastops) · [官网](https://pypi.org/project/forecastops/) · 组织维护
 
 **本地优先的预测（forecast）评测与可观测层：捕获、验证、比对预测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "parisi-labs/forecastops 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 17 --> 21
+    line [19, 20, 19, 18]
 ```
 
-2026-10-18 19 → 2026-11-19 19（+0）
+2026-10-18 19 → 2026-11-20 18（-1）
 
 
 ---

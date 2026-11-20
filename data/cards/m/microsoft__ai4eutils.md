@@ -1,6 +1,6 @@
 # microsoft/ai4eutils
 
-⭐ 47 · Jupyter Notebook · MIT · 推送 2026-04-20 · [GitHub](https://github.com/microsoft/ai4eutils) · 组织维护
+⭐ 48 · Jupyter Notebook · MIT · 推送 2026-04-20 · [GitHub](https://github.com/microsoft/ai4eutils) · 组织维护
 
 **微软 AI for Earth 团队的共享工具脚本集合**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ai4eutils 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-11-19 47（+0）
+2026-10-18 47 → 2026-11-20 48（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cel-ai/celai
 
-⭐ 28 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/cel-ai/celai) · [官网](https://cel-ai.github.io/celai/) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cel-ai/celai) · [官网](https://cel-ai.github.io/celai/) · 组织维护
 
 **面向开发者的全渠道 AI 虚拟助手构建框架**
 
@@ -46,12 +46,12 @@ Cel.ai 是一个自托管的 AI 通信平台框架，用于加速构建全渠道
 ```mermaid
 xychart-beta
     title "cel-ai/celai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
     y-axis "stars" 27 --> 30
     line [29, 28, 28]
 ```
 
-2026-10-18 29 → 2026-11-19 28（-1）
+2026-10-18 29 → 2026-11-20 28（-1）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jane-xiaoer/skill-vision-control 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "Jane-xiaoer/skill-vision-control 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 65 --> 68
-    line [66, 67]
+    line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-19 67（+1）
+2026-10-18 66 → 2026-11-20 67（+1）
 
 
 ---

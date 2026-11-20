@@ -1,6 +1,6 @@
 # l8cv/BusterX
 
-⭐ 53 · Python · BSD-3-Clause · 推送 2026-11-13 · [GitHub](https://github.com/l8cv/BusterX) · 组织维护
+⭐ 54 · Python · BSD-3-Clause · 推送 2026-11-13 · [GitHub](https://github.com/l8cv/BusterX) · 组织维护
 
 **面向科研者的 MLLM 跨模态 AIGC 内容检测与解释方法族**
 
@@ -46,12 +46,12 @@ BusterX / BusterX++ 是基于多模态大模型（MLLM）的 AI 生成内容检�
 ```mermaid
 xychart-beta
     title "l8cv/BusterX 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 51, 52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 50 --> 55
+    line [51, 52, 51, 52, 53, 54]
 ```
 
-2026-10-18 51 → 2026-11-19 53（+2）
+2026-10-18 51 → 2026-11-20 54（+3）
 
 
 ---

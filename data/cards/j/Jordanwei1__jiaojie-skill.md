@@ -1,6 +1,6 @@
 # Jordanwei1/jiaojie-skill
 
-⭐ 91 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Jordanwei1/jiaojie-skill) · [官网](https://jordanwei1.github.io/jiaojie-skill/) · 个人维护 · 中文 README
+⭐ 92 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Jordanwei1/jiaojie-skill) · [官网](https://jordanwei1.github.io/jiaojie-skill/) · 个人维护 · 中文 README
 
 **跨窗口/模型/设备/语言的 AI 上下文交接 Skill，让新 AI 从停止点继续**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jordanwei1/jiaojie-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 89 --> 92
-    line [90, 91, 91]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 89 --> 93
+    line [90, 91, 92]
 ```
 
-2026-10-18 90 → 2026-11-19 91（+1）
+2026-10-18 90 → 2026-11-20 92（+2）
 
 
 ---

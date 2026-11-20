@@ -1,6 +1,6 @@
 # 100yenadmin/fish-audio-hermes
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/100yenadmin/fish-audio-hermes) · [官网](https://fish.audio) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **给 Hermes Agent 接入 Fish Audio 的语音/转录插件**
 
@@ -11,7 +11,7 @@ Electric Sheep 维护的 Hermes Agent 官方 Fish Audio 插件，在 Hermes CLI�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # ccao-data/model-condo-avm
 
-⭐ 15 · R · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/ccao-data/model-condo-avm) · 组织维护
+⭐ 14 · R · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/ccao-data/model-condo-avm) · 组织维护
 
 **库克县公寓自动估价模型：为全部公寓生成初步评估值**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ccao-data/model-condo-avm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 14, 15, 15]
+    line [14, 15, 14, 15, 14]
 ```
 
-2026-10-18 14 → 2026-11-19 15（+1）
+2026-10-18 14 → 2026-11-20 14（+0）
 
 
 ---

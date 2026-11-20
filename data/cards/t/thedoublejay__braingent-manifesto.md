@@ -1,6 +1,6 @@
 # thedoublejay/braingent-manifesto
 
-⭐ 10 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/thedoublejay/braingent-manifesto) · [官网](https://braingent.dev/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/thedoublejay/braingent-manifesto) · [官网](https://braingent.dev/) · 个人维护
 
 **面向开发者的 Markdown+Git AI 编码 agent 记忆库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thedoublejay/braingent-manifesto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # trackersnailgrip/ai--manus2.0
 
-⭐ 372 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/trackersnailgrip/ai--manus2.0) · 个人维护
+⭐ 371 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/trackersnailgrip/ai--manus2.0) · 个人维护
 
 **自主执行代码与控制浏览器的通用 AI Agent 系统**
 
@@ -45,12 +45,12 @@ README 描述的自主 AI Agent：用户以自然语言下达任务，agent 自�
 ```mermaid
 xychart-beta
     title "trackersnailgrip/ai--manus2.0 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 371 --> 374
-    line [373, 372, 372]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 370 --> 374
+    line [373, 372, 371]
 ```
 
-2026-11-15 373 → 2026-11-19 372（-1）
+2026-11-15 373 → 2026-11-20 371（-2）
 
 
 ---

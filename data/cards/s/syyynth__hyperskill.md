@@ -45,12 +45,12 @@ Hyperskill（JetBrains 旗下教育平台）Python 项目解题代码的个人�
 ```mermaid
 xychart-beta
     title "syyynth/hyperskill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

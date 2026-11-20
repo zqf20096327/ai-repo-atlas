@@ -1,6 +1,6 @@
 # kchander/magix-extension
 
-⭐ 21 · JavaScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/kchander/magix-extension) · [官网](https://chromewebstore.google.com/detail/magix/ebfhenlkpdngcofiegobedbahdeemgjo) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用自然语言修改任意网页的 AI Chrome 扩展**
 
@@ -11,7 +11,7 @@ Chrome 浏览器扩展：用户以对话描述想要的网页改动（如加暗�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

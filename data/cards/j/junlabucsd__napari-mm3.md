@@ -45,12 +45,12 @@ Jun Lab 开发的 napari 插件，用于母机（mother machine）显微图像�
 ```mermaid
 xychart-beta
     title "junlabucsd/napari-mm3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # agimx-ai/seedagent-tia-programming
 
-⭐ 15 · 推送 2026-10-12 · [GitHub](https://github.com/agimx-ai/seedagent-tia-programming) · 组织维护 · 中文 README
+⭐ 16 · 推送 2026-10-12 · [GitHub](https://github.com/agimx-ai/seedagent-tia-programming) · 组织维护 · 中文 README
 
 **西门子 TIA Portal 工控 AI 编程智能体：自然语言生成 SCL 并编译下载**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agimx-ai/seedagent-tia-programming 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 13, 14, 13, 14, 15]
+    title "agimx-ai/seedagent-tia-programming 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 14, 13, 14, 13, 14, 15, 16]
 ```
 
-2026-10-18 12 → 2026-11-19 15（+3）
+2026-10-18 12 → 2026-11-20 16（+4）
 
 
 ---

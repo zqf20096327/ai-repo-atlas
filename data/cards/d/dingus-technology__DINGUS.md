@@ -1,6 +1,6 @@
 # dingus-technology/DINGUS
 
-⭐ 23 · Python · GPL-3.0 · 推送 2025-11-23 · [GitHub](https://github.com/dingus-technology/DINGUS) · [官网](https://www.dingusai.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **把生产日志编译为可读修复建议的运维调试工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

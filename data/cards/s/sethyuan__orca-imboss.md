@@ -1,6 +1,6 @@
 # sethyuan/orca-imboss
 
-⭐ 23 · TypeScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/sethyuan/orca-imboss) · [官网](https://orca-studio.com/imboss/) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/sethyuan/orca-imboss) · [官网](https://orca-studio.com/imboss/) · 个人维护 · 中文 README
 
 **单人公司 AI 团队桌面应用：聊天指挥 AI 员工协作完成工作**
 
@@ -46,12 +46,12 @@ Electron 桌面应用，用户与内置 Assistant（编排者）对话，Assista
 ```mermaid
 xychart-beta
     title "sethyuan/orca-imboss 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 10 --> 24
-    line [11, 12, 15, 16, 18, 19, 16, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 10 --> 25
+    line [11, 12, 15, 16, 18, 19, 16, 22, 23, 24]
 ```
 
-2026-10-18 11 → 2026-11-19 23（+12）
+2026-10-18 11 → 2026-11-20 24（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # atharvnaik1/ipaship-audit
 
-⭐ 102 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/atharvnaik1/ipaship-audit) · 个人维护
+⭐ 70 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/atharvnaik1/ipaship-audit) · 个人维护
 
 **iOS 应用提交前的 App Store 合规 AI 审计工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "atharvnaik1/ipaship-audit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 101 --> 109
-    line [108, 104, 102, 102]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 67 --> 111
+    line [108, 104, 102, 70]
 ```
 
-2026-10-18 108 → 2026-11-19 102（-6）
+2026-10-18 108 → 2026-11-20 70（-38）
 
 
 ---

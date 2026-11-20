@@ -1,6 +1,6 @@
 # chuxuan861119/zhichan-xiaozhan-work
 
-⭐ 28 · TypeScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/chuxuan861119/zhichan-xiaozhan-work) · [官网](https://zcxzz.cn/work/) · 组织维护 · 中文 README
+⭐ 71 · TypeScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/chuxuan861119/zhichan-xiaozhan-work) · [官网](https://zcxzz.cn/work/) · 组织维护 · 中文 README
 
 **面向专利代理师的中国专利五书撰写与文档管理桌面工作台**
 
@@ -40,6 +40,18 @@ Electron/React/TypeScript 构建的 Windows 桌面软件，围绕发明专利与
 > L7: 知产小栈 Work 是面向中国专利撰写场景的桌面软件，围绕发明专利与实用新型专利，提供专利库管理、专利五书编辑、附图制作、二维 CAD 标注、本地规则检查、AI 辅助，以及 Word、PDF 等格式的导入导出能力。
 > L163: 本版本对接用户自行配置的 DeepSeek 官方 API，需用户自行取得并填写 API Key，服务费用与使用条件以服务商规定为准。AI 连接默认关闭；启用后，任务所需内容会发送至所配置的服务商。请自行判断未公开技术资料的提交范
 > L171: 软件不随附 API Key 或免费调用额度，本版本暂不支持任意自定义接口或 Ollama。AI 是可选辅助，关闭连接后仍可进行本地撰写。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chuxuan861119/zhichan-xiaozhan-work 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 24 --> 75
+    line [28, 71]
+```
+
+2026-11-19 28 → 2026-11-20 71（+43）
 
 
 ---

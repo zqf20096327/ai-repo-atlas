@@ -1,6 +1,6 @@
 # Frosty-Jackal/ArtiControlNet
 
-⭐ 21 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Frosty-Jackal/ArtiControlNet) · 组织维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Frosty-Jackal/ArtiControlNet) · 组织维护 · 中文 README
 
 **面向设计场景的 AIGC 系统：文生图、线稿上色、图像问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Frosty-Jackal/ArtiControlNet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-13", "2026-11-20"]
     y-axis "stars" 19 --> 22
-    line [21, 20, 21, 21]
+    line [21, 20, 21, 20]
 ```
 
-2026-10-18 21 → 2026-11-19 21（+0）
+2026-10-18 21 → 2026-11-20 20（-1）
 
 
 ---

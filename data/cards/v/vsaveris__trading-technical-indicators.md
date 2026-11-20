@@ -1,6 +1,6 @@
 # vsaveris/trading-technical-indicators
 
-⭐ 153 · Python · MIT · 推送 2025-11-23 · [GitHub](https://github.com/vsaveris/trading-technical-indicators) · [官网](https://trading-technical-indicators.readthedocs.io/en/latest/index.html) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向交易者的 Python 技术指标库（62 个指标+信号+模拟）**
 
@@ -11,7 +11,7 @@ Python 库 tti，提供 62 个传统技术指标（RSI、MACD、布林带等）�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # yilecoding/fastapi-react-admin
 
-⭐ 233 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yilecoding/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **FastAPI + React 19 中后台底座：细粒度权限、审批流与受控 AI 助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

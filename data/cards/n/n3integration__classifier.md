@@ -1,6 +1,6 @@
 # n3integration/classifier
 
-⭐ 43 · Go · Apache-2.0 · 推送 2026-03-11 · [GitHub](https://github.com/n3integration/classifier) · 个人维护
+⭐ 43 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/n3integration/classifier) · 个人维护
 
 **Go 通用文本分类库（naïve bayes、kNN）**
 
@@ -43,12 +43,12 @@ Go 语言通用文本分类库，提供 naïve bayes 与 k-nearest neighbors 两
 ```mermaid
 xychart-beta
     title "n3integration/classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-19 43（+0）
+2026-10-18 43 → 2026-11-20 43（+0）
 
 
 ---

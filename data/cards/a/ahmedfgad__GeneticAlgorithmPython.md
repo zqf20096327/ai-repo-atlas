@@ -1,6 +1,6 @@
 # ahmedfgad/GeneticAlgorithmPython
 
-⭐ 2,237 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/ahmedfgad/GeneticAlgorithmPython) · [官网](https://pygad.readthedocs.io) · 个人维护
+⭐ 2,234 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/ahmedfgad/GeneticAlgorithmPython) · [官网](https://pygad.readthedocs.io) · 个人维护
 
 **Python 遗传算法库：用 GA 优化问题并训练 Keras/PyTorch 模型**
 
@@ -45,12 +45,12 @@ PyGAD 是 Python 3 的遗传算法构建与优化库：支持多种交叉、变�
 ```mermaid
 xychart-beta
     title "ahmedfgad/GeneticAlgorithmPython 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
     y-axis "stars" 2230 --> 2238
-    line [2232, 2231, 2232, 2233, 2234, 2233, 2235, 2237, 2237]
+    line [2232, 2231, 2232, 2233, 2234, 2233, 2235, 2237, 2234]
 ```
 
-2026-10-18 2,232 → 2026-11-19 2,237（+5）
+2026-10-18 2,232 → 2026-11-20 2,234（+2）
 
 
 ---

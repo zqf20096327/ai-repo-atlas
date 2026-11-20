@@ -46,12 +46,12 @@ LAiSER 是一个 Python 包，将职位描述、课程大纲等非结构化文�
 ```mermaid
 xychart-beta
     title "LAiSER-Software/extract-module 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

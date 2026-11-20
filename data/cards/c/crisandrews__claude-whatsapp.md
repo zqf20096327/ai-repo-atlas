@@ -1,6 +1,6 @@
 # crisandrews/claude-whatsapp
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/crisandrews/claude-whatsapp) · [官网](https://github.com/crisandrews/claude-whatsapp#quick-setup) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/crisandrews/claude-whatsapp) · [官网](https://github.com/crisandrews/claude-whatsapp#quick-setup) · 个人维护
 
 **把 WhatsApp 号码接入 Claude Code 的通道插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "crisandrews/claude-whatsapp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 15 --> 20
-    line [16, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 15 --> 21
+    line [16, 18, 19, 20]
 ```
 
-2026-10-18 16 → 2026-11-19 19（+3）
+2026-10-18 16 → 2026-11-20 20（+4）
 
 
 ---

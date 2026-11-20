@@ -1,6 +1,6 @@
 # leochlon/tiny-bayes
 
-⭐ 24 · Lean · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/leochlon/tiny-bayes) · [官网](https://doi.org/10.5281/zenodo.24346623) · 组织维护
+⭐ 25 · Lean · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/leochlon/tiny-bayes) · [官网](https://doi.org/10.5281/zenodo.24346623) · 组织维护
 
 **用 Lean 4 为语言模型与神经 PDE 求解器提供核验证证明的科研库**
 
@@ -39,6 +39,18 @@
 
 > L3: **Theorems, not tests.**
 > L12: A trained checkpoint is a finite list of numbers, and those numbers determine one mathematical function. tiny-bayes
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "leochlon/tiny-bayes 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
+```
+
+2026-11-19 24 → 2026-11-20 25（+1）
 
 
 ---

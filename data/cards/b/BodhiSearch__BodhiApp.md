@@ -1,6 +1,6 @@
 # BodhiSearch/BodhiApp
 
-⭐ 138 · TypeScript · 推送 2026-09-20 · [GitHub](https://github.com/BodhiSearch/BodhiApp) · [官网](https://getbodhi.app/) · 组织维护
+⭐ 139 · TypeScript · 推送 2026-09-20 · [GitHub](https://github.com/BodhiSearch/BodhiApp) · [官网](https://getbodhi.app/) · 组织维护
 
 **本地运行开源 LLM 的应用：OpenAI 兼容 API 与内置聊天界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BodhiSearch/BodhiApp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-20"]
     y-axis "stars" 137 --> 140
-    line [138, 139, 138, 138]
+    line [138, 139, 138, 139]
 ```
 
-2026-10-18 138 → 2026-11-19 138（+0）
+2026-10-18 138 → 2026-11-20 139（+1）
 
 
 ---

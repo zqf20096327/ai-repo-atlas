@@ -1,6 +1,6 @@
 # Shitsuten/clwd-handoff-protocol
 
-⭐ 20 · JavaScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Shitsuten/clwd-handoff-protocol) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Shitsuten/clwd-handoff-protocol) · 个人维护 · 中文 README
 
 **聊天会话向隔离工作区异步派发任务并可选择回流的协议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Shitsuten/clwd-handoff-protocol 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-11-19 20（+2）
+2026-10-18 18 → 2026-11-20 21（+3）
 
 
 ---

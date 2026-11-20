@@ -1,6 +1,6 @@
 # ivyfan-toowell/IvyClaw
 
-⭐ 17 · Python · 推送 2026-10-11 · [GitHub](https://github.com/ivyfan-toowell/IvyClaw) · 个人维护 · 中文 README
+⭐ 17 · Python · 推送 2026-11-19 · [GitHub](https://github.com/ivyfan-toowell/IvyClaw) · 个人维护 · 中文 README
 
 **面向软件研发任务的多智能体 Agent 工程系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ivyfan-toowell/IvyClaw 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 15 --> 36
     line [35, 16, 17, 16, 17, 17]
 ```
 
-2026-10-18 35 → 2026-11-19 17（-18）
+2026-10-18 35 → 2026-11-20 17（-18）
 
 
 ---

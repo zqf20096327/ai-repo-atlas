@@ -1,6 +1,6 @@
 # spacesky-cell/TwinFix
 
-⭐ 132 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/spacesky-cell/TwinFix) · 个人维护 · 中文 README
+⭐ 137 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/spacesky-cell/TwinFix) · 个人维护 · 中文 README
 
 **在一次性孪生环境中自动诊断、复现并修复线上故障的 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "spacesky-cell/TwinFix 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 26 --> 141
-    line [35, 64, 109, 130, 131, 132]
+    title "spacesky-cell/TwinFix 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 25 --> 147
+    line [35, 64, 109, 130, 131, 132, 137]
 ```
 
-2026-11-13 35 → 2026-11-19 132（+97）
+2026-11-13 35 → 2026-11-20 137（+102）
 
 
 ---

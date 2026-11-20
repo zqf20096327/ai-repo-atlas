@@ -1,6 +1,6 @@
 # WeWorker/WeWorker
 
-⭐ 266 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/WeWorker/WeWorker) · [官网](https://www.weworker.cc) · 组织维护 · 中文 README
+⭐ 266 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/WeWorker/WeWorker) · [官网](https://www.weworker.cc) · 组织维护 · 中文 README
 
 **让 AI Agent 通过浏览器扩展实际操作网站的开源桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WeWorker/WeWorker 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 148 --> 276
     line [158, 199, 200, 258, 266, 266]
 ```
 
-2026-11-02 158 → 2026-11-19 266（+108）
+2026-11-02 158 → 2026-11-20 266（+108）
 
 
 ---

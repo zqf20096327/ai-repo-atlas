@@ -1,6 +1,6 @@
 # liyupi/niulai-video-generator
 
-⭐ 38 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/liyupi/niulai-video-generator) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/liyupi/niulai-video-generator) · 个人维护 · 中文 README
 
 **输入小故事生成《牛来》风格 3D 抽象动画的命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/niulai-video-generator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
     y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    line [37, 38, 37]
 ```
 
-2026-10-18 37 → 2026-11-19 38（+1）
+2026-10-18 37 → 2026-11-20 37（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # leyna64/companella
 
-⭐ 26 · C# · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/leyna64/companella) · [官网](https://erdbee.re) · 个人维护
+⭐ 26 · C# · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/leyna64/companella) · [官网](https://erdbee.re) · 个人维护
 
 **osu!mania 玩家与谱师的练习辅助桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "leyna64/companella 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
     y-axis "stars" 23 --> 27
     line [24, 25, 24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-19 26（+2）
+2026-10-18 24 → 2026-11-20 26（+2）
 
 
 ---

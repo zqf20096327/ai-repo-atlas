@@ -1,6 +1,6 @@
 # chan4lk/specclaw
 
-⭐ 14 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/chan4lk/specclaw) · [官网](https://chan4lk.github.io/specclaw/) · 个人维护
+⭐ 14 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/chan4lk/specclaw) · [官网](https://chan4lk.github.io/specclaw/) · 个人维护
 
 **面向 Claude Code/Codex 的规格驱动开发插件工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chan4lk/specclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-19 14（+1）
+2026-10-18 13 → 2026-11-20 14（+1）
 
 
 ---

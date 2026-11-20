@@ -41,6 +41,18 @@ docs.token173.net 的 GitHub 镜像文档仓库，内容为 Token173.net 中转 
 > L15: |OpenAI 兼容（GPT / Gemini / Grok / 国产模型）|`https://token173.net/v1`|必须带 `/v1`|
 > L67: `docs/` 下按接口分文件，每个文件是一份 OpenAPI 描述，可以直接导入 Postman 或 Apifox。想看某个接口的参数和返回结构，找对应的 md 文件即可。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Token173/doc-token173-api 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
+```
+
+2026-11-19 29 → 2026-11-20 29（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `a3efaee37c11` · [字段定义](../../DATASET.md)*

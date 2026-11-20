@@ -1,6 +1,6 @@
 # google-research/language
 
-⭐ 1,828 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/google-research/language) · [官网](https://ai.google/research/teams/language/) · 组织维护
+⭐ 1,827 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/google-research/language) · [官网](https://ai.google/research/teams/language/) · 组织维护
 
 **Google 语言研究团队开源项目的共享代码仓库**
 
@@ -42,13 +42,13 @@ Google Research Language 团队的开源项目共享仓库，汇集该团队在�
 
 ```mermaid
 xychart-beta
-    title "google-research/language 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19"]
+    title "google-research/language 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 1818 --> 1829
-    line [1819, 1820, 1821, 1822, 1821, 1823, 1825, 1826, 1827, 1828]
+    line [1819, 1820, 1821, 1822, 1821, 1823, 1825, 1826, 1827, 1828, 1827]
 ```
 
-2026-10-18 1,819 → 2026-11-19 1,828（+9）
+2026-10-18 1,819 → 2026-11-20 1,827（+8）
 
 
 ---

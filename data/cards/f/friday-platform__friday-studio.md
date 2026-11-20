@@ -1,6 +1,6 @@
 # friday-platform/friday-studio
 
-⭐ 104 · TypeScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/friday-platform/friday-studio) · [官网](https://docs.hellofriday.ai) · 组织维护
+⭐ 103 · TypeScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/friday-platform/friday-studio) · [官网](https://docs.hellofriday.ai) · 组织维护
 
 **自托管 agent 工作流平台：对话生成可版本化的自动化工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "friday-platform/friday-studio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-18", "2026-11-20"]
     y-axis "stars" 101 --> 105
-    line [104, 103, 102, 103, 104, 104]
+    line [104, 103, 102, 103, 104, 103]
 ```
 
-2026-10-18 104 → 2026-11-19 104（+0）
+2026-10-18 104 → 2026-11-20 103（-1）
 
 
 ---

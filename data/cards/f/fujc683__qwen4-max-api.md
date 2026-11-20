@@ -41,6 +41,18 @@
 > L13: ## Endpoint
 > L56: |`tools`|function calling, OpenAI schema|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fujc683/qwen4-max-api 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-19 14 → 2026-11-20 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `79e8cfc3a35e` · [字段定义](../../DATASET.md)*

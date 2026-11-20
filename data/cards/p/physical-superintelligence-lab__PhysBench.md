@@ -1,6 +1,6 @@
 # physical-superintelligence-lab/PhysBench
 
-⭐ 93 · Python · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/physical-superintelligence-lab/PhysBench) · [官网](https://physbench.github.io/) · 组织维护
+⭐ 94 · Python · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/physical-superintelligence-lab/PhysBench) · [官网](https://physbench.github.io/) · 组织维护
 
 **评测视觉语言模型物理世界理解能力的基准数据集与评测代码**
 
@@ -45,12 +45,12 @@ ICLR 2025 论文 PhysBench 的官方仓库：提供 10,002 条测试条目与 20
 ```mermaid
 xychart-beta
     title "physical-superintelligence-lab/PhysBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 92 --> 95
+    line [93, 94]
 ```
 
-2026-10-18 93 → 2026-11-19 93（+0）
+2026-10-18 93 → 2026-11-20 94（+1）
 
 
 ---

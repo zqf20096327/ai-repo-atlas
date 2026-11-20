@@ -1,6 +1,6 @@
 # Milos5611/hoply
 
-⭐ 19 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Milos5611/hoply) · [官网](https://hoply.dev) · 个人维护
+⭐ 19 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Milos5611/hoply) · [官网](https://hoply.dev) · 个人维护
 
 **macOS 菜单栏应用：监控多个 AI 编码 agent 的会话、费用与限额**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Milos5611/hoply 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
     y-axis "stars" 10 --> 20
     line [11, 16, 19, 19]
 ```
 
-2026-11-15 11 → 2026-11-19 19（+8）
+2026-11-15 11 → 2026-11-20 19（+8）
 
 
 ---

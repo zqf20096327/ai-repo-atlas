@@ -44,13 +44,13 @@ Sanofi 公开的深度学习模型代码，读取 mRNA 序列（5'UTR/CDS/3'UTR 
 
 ```mermaid
 xychart-beta
-    title "Sanofi-Public/RiboNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "Sanofi-Public/RiboNN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 68 --> 71
-    line [69, 70]
+    line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-11-19 70（+1）
+2026-10-18 69 → 2026-11-20 70（+1）
 
 
 ---

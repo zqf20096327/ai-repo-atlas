@@ -1,6 +1,6 @@
 # AlmogBaku/visual-plan
 
-⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/AlmogBaku/visual-plan) · 个人维护
+⭐ 28 · JavaScript · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/AlmogBaku/visual-plan) · 个人维护
 
 **Agent 技能：把一次变更的设计写成单页可交互决策页并锁定**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlmogBaku/visual-plan 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 22 --> 28
-    line [23, 25, 26, 27]
+    title "AlmogBaku/visual-plan 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 22 --> 29
+    line [23, 25, 26, 27, 28]
 ```
 
-2026-11-08 23 → 2026-11-19 27（+4）
+2026-11-08 23 → 2026-11-20 28（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # LingFengGold/STReasoner
 
-⭐ 59 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/LingFengGold/STReasoner) · [官网](https://arxiv.org/pdf/2601.03248) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/LingFengGold/STReasoner) · [官网](https://arxiv.org/pdf/2601.03248) · 组织维护
 
 **面向时序时空推理的 LLM 训练框架（SFT+RL 三阶段）**
 
@@ -45,12 +45,12 @@ ACL 2026 Oral 论文的官方实现：通过三阶段流程（时序对齐 SFT�
 ```mermaid
 xychart-beta
     title "LingFengGold/STReasoner 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 55 --> 60
-    line [56, 57, 58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 55 --> 62
+    line [56, 57, 58, 59, 61]
 ```
 
-2026-10-18 56 → 2026-11-19 59（+3）
+2026-10-18 56 → 2026-11-20 61（+5）
 
 
 ---

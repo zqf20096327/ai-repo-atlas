@@ -1,6 +1,6 @@
 # dsh-plugin-lab/dsh-plugin-debugging
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/dsh-plugin-lab/dsh-plugin-debugging) · [官网](https://zl-vertex.feishu.cn/wiki/Qj80wE0AriasrNklQrUc43VNnQb) · 组织维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dsh-plugin-lab/dsh-plugin-debugging) · [官网](https://zl-vertex.feishu.cn/wiki/Qj80wE0AriasrNklQrUc43VNnQb) · 组织维护 · 中文 README
 
 **DSH 插件排障工具箱：让 Agent 自检自修运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dsh-plugin-lab/dsh-plugin-debugging 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-19"]
+    title "dsh-plugin-lab/dsh-plugin-debugging 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 4 --> 11
-    line [5, 6, 7, 9, 10]
+    line [5, 6, 7, 9, 10, 10]
 ```
 
-2026-10-18 5 → 2026-11-19 10（+5）
+2026-10-18 5 → 2026-11-20 10（+5）
 
 
 ---

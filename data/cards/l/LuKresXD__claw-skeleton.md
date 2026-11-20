@@ -1,6 +1,6 @@
 # LuKresXD/claw-skeleton
 
-⭐ 22 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/LuKresXD/claw-skeleton) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/LuKresXD/claw-skeleton) · 个人维护
 
 **Telegram 个人 AI 助理骨架：每个话题一个独立 Claude Code agent**
 
@@ -46,12 +46,12 @@ TypeScript 实现的 Telegram 机器人：通过 grammY 路由，把超级群的
 ```mermaid
 xychart-beta
     title "LuKresXD/claw-skeleton 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 21 --> 27
-    line [26, 24, 22, 22]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 20 --> 27
+    line [26, 24, 22, 21]
 ```
 
-2026-10-18 26 → 2026-11-19 22（-4）
+2026-10-18 26 → 2026-11-20 21（-5）
 
 
 ---

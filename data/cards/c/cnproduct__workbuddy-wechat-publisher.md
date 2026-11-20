@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cnproduct/workbuddy-wechat-publisher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "cnproduct/workbuddy-wechat-publisher 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 81 --> 84
-    line [82, 83]
+    line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-11-19 83（+1）
+2026-10-18 82 → 2026-11-20 83（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # LightningRAG/LightningRAG
 
-⭐ 456 · Go · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/LightningRAG/LightningRAG) · [官网](https://LightningRAG.com) · 组织维护 · 中文 README
+⭐ 455 · Go · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/LightningRAG/LightningRAG) · [官网](https://LightningRAG.com) · 组织维护 · 中文 README
 
 **Vue+Gin 全栈 RAG 起始框架：知识库、检索与 Agent 编排**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LightningRAG/LightningRAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 453 --> 457
-    line [454, 455, 456, 456]
+    line [454, 455, 456, 455]
 ```
 
-2026-10-18 454 → 2026-11-19 456（+2）
+2026-10-18 454 → 2026-11-20 455（+1）
 
 
 ---

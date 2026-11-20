@@ -1,6 +1,6 @@
 # iblai/higher-education-agents
 
-⭐ 14 · MIT · 推送 2026-06-08 · [GitHub](https://github.com/iblai/higher-education-agents) · [官网](https://ibl.ai/solutions/higher-education) · 组织维护
+⭐ 15 · MIT · 推送 2026-06-08 · [GitHub](https://github.com/iblai/higher-education-agents) · [官网](https://ibl.ai/solutions/higher-education) · 组织维护
 
 **面向高校的 OpenClaw/NemoClaw 多 agent 配置包：1 个编排者加 16 个专业子 agent**
 
@@ -45,12 +45,12 @@ ibl.ai 维护的高等教育 agent 配置目录：包含一个 Campus Assistant 
 ```mermaid
 xychart-beta
     title "iblai/higher-education-agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 11 --> 15
-    line [12, 14, 12, 14, 14]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 11 --> 16
+    line [12, 14, 12, 14, 15]
 ```
 
-2026-10-18 12 → 2026-11-19 14（+2）
+2026-10-18 12 → 2026-11-20 15（+3）
 
 
 ---

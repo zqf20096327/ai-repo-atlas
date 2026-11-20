@@ -1,6 +1,6 @@
 # teacherabdulloh1-dev/manus--ai
 
-⭐ 180 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/teacherabdulloh1-dev/manus--ai) · 个人维护
+⭐ 179 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/teacherabdulloh1-dev/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：自动执行代码与浏览器操作**
 
@@ -45,12 +45,12 @@ README 描述 Manus 为自主 AI 代理，可代用户编写并执行脚本、�
 ```mermaid
 xychart-beta
     title "teacherabdulloh1-dev/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 107 --> 265
-    line [120, 252, 180, 180]
+    line [120, 252, 180, 179]
 ```
 
-2026-11-13 120 → 2026-11-19 180（+60）
+2026-11-13 120 → 2026-11-20 179（+59）
 
 
 ---

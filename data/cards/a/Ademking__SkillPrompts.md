@@ -1,6 +1,6 @@
 # Ademking/SkillPrompts
 
-⭐ 173 · TypeScript · MIT · 推送 2026-05-17 · [GitHub](https://github.com/Ademking/SkillPrompts) · [官网](https://skillprompts.surge.sh) · 个人维护
+⭐ 174 · TypeScript · MIT · 推送 2026-05-17 · [GitHub](https://github.com/Ademking/SkillPrompts) · [官网](https://skillprompts.surge.sh) · 个人维护
 
 **跨 AI 聊天平台复用提示词的浏览器扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ademking/SkillPrompts 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 172 --> 175
-    line [173, 174, 173, 174, 173, 173]
+    line [173, 174, 173, 174, 173, 174]
 ```
 
-2026-10-18 173 → 2026-11-19 173（+0）
+2026-10-18 173 → 2026-11-20 174（+1）
 
 
 ---

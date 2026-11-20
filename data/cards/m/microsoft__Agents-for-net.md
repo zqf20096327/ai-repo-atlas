@@ -1,6 +1,6 @@
 # microsoft/Agents-for-net
 
-⭐ 184 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Agents-for-net) · 组织维护
+⭐ 186 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/Agents-for-net) · 组织维护
 
 **.NET 构建 M365/Teams 等平台多渠道 agent 的 SDK**
 
@@ -44,13 +44,13 @@ Microsoft 365 Agent SDK 的 C#/.NET 实现，用于构建覆盖 M365、Teams、C
 
 ```mermaid
 xychart-beta
-    title "microsoft/Agents-for-net 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 181 --> 185
-    line [182, 183, 184, 183, 184, 183, 184]
+    title "microsoft/Agents-for-net 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 181 --> 187
+    line [182, 183, 184, 183, 184, 183, 184, 186]
 ```
 
-2026-10-18 182 → 2026-11-19 184（+2）
+2026-10-18 182 → 2026-11-20 186（+4）
 
 
 ---

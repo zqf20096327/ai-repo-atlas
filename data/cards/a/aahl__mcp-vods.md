@@ -1,6 +1,6 @@
 # aahl/mcp-vods
 
-⭐ 26 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/aahl/mcp-vods) · [官网](https://zread.ai/aahl/mcp-vods) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/aahl/mcp-vods) · [官网](https://zread.ai/aahl/mcp-vods) · 个人维护 · 中文 README
 
 **影视搜索 MCP 服务器：为 AI 提供追剧播放地址检索与电视播放**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aahl/mcp-vods 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 25 --> 28
-    line [27, 26, 26]
+    line [27, 26, 27]
 ```
 
-2026-10-18 27 → 2026-11-19 26（-1）
+2026-10-18 27 → 2026-11-20 27（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yohannesjoya/toolreceipt
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/yohannesjoya/toolreceipt) · [官网](https://toolreceipt-demo.onrender.com) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/yohannesjoya/toolreceipt) · [官网](https://toolreceipt-demo.onrender.com) · 个人维护
 
 **为 LangGraph agent 核验工具调用声明的审计库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yohannesjoya/toolreceipt 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-22", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-22 10 → 2026-11-19 10（+0）
+2026-10-22 10 → 2026-11-20 11（+1）
 
 
 ---

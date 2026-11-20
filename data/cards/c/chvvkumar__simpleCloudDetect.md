@@ -1,6 +1,6 @@
 # chvvkumar/simpleCloudDetect
 
-⭐ 34 · Python · 推送 2026-10-12 · [GitHub](https://github.com/chvvkumar/simpleCloudDetect) · 个人维护
+⭐ 35 · Python · 推送 2026-10-12 · [GitHub](https://github.com/chvvkumar/simpleCloudDetect) · 个人维护
 
 **给天文摄影者的全天候相机云量 ML 检测服务（MQTT/ASCOM）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chvvkumar/simpleCloudDetect 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-11-19 34（+1）
+2026-10-18 33 → 2026-11-20 35（+2）
 
 
 ---

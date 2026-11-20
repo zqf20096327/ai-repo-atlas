@@ -1,6 +1,6 @@
 # SantanderAI/autoguardrails
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/autoguardrails) · [官网](https://github.com/SantanderAI) · 组织维护
+⭐ 128 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/autoguardrails) · [官网](https://github.com/SantanderAI) · 组织维护
 
 **面向研究者的 LLM 护栏策略搜索评测脚手架**
 
@@ -45,12 +45,12 @@ Santander AI Lab 开源的护栏研究库/评测框架，借鉴 autoresearch 思
 ```mermaid
 xychart-beta
     title "SantanderAI/autoguardrails 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 128 --> 130
-    line [129, 129]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 127 --> 130
+    line [129, 128]
 ```
 
-2026-10-18 129 → 2026-11-19 129（+0）
+2026-10-18 129 → 2026-11-20 128（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # CJRodriguez1919/Neurex
 
-⭐ 17 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/CJRodriguez1919/Neurex) · [官网](https://neurex.health/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/CJRodriguez1919/Neurex) · [官网](https://neurex.health/) · 个人维护
 
 **消费级 EEG 硬件与上层应用间的脑机接口解码软件栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CJRodriguez1919/Neurex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 10 --> 18
+    line [17, 11]
 ```
 
-2026-10-18 17 → 2026-11-19 17（+0）
+2026-10-18 17 → 2026-11-20 11（-6）
 
 
 ---

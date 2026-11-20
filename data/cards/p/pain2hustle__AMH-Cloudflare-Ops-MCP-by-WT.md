@@ -1,6 +1,6 @@
 # pain2hustle/AMH-Cloudflare-Ops-MCP-by-WT
 
-⭐ 10 · HTML · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/pain2hustle/AMH-Cloudflare-Ops-MCP-by-WT) · [官网](https://mcp.artificialmindhive.com) · 个人维护
+⭐ 10 · HTML · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/pain2hustle/AMH-Cloudflare-Ops-MCP-by-WT) · [官网](https://mcp.artificialmindhive.com) · 个人维护
 
 **让 AI 在审批门控下安全操作你的 Cloudflare 站点的 MCP 工具集**
 
@@ -46,12 +46,12 @@ WT 是一套面向 AI agent 的 Cloudflare/GitHub 工具集（MCP server），�
 ```mermaid
 xychart-beta
     title "pain2hustle/AMH-Cloudflare-Ops-MCP-by-WT 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-19 10（+0）
+2026-11-08 10 → 2026-11-20 10（+0）
 
 
 ---

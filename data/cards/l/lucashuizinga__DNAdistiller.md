@@ -1,6 +1,6 @@
 # lucashuizinga/DNAdistiller
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/lucashuizinga/DNAdistiller) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/lucashuizinga/DNAdistiller) · 个人维护
 
 **本地解析消费级 DNA 文件生成 12 项长寿基因概要的 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lucashuizinga/DNAdistiller 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-18 15 → 2026-11-19 15（+0）
+2026-10-18 15 → 2026-11-20 14（-1）
 
 
 ---

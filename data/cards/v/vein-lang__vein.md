@@ -1,6 +1,6 @@
 # vein-lang/vein
 
-⭐ 89 · C# · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/vein-lang/vein) · [官网](https://vein-lang.org) · 组织维护
+⭐ 74 · C# · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/vein-lang/vein) · [官网](https://vein-lang.org) · 组织维护
 
 **面向量子计算与通用开发的高层次强类型编程语言**
 
@@ -43,12 +43,12 @@ Vein 是一门开源高层次强类型编程语言，定位为量子计算与通
 ```mermaid
 xychart-beta
     title "vein-lang/vein 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 73 --> 90
+    line [89, 74]
 ```
 
-2026-10-18 89 → 2026-11-19 89（+0）
+2026-10-18 89 → 2026-11-20 74（-15）
 
 
 ---

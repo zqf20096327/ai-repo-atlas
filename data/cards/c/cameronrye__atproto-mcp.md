@@ -1,6 +1,6 @@
 # cameronrye/atproto-mcp
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/cameronrye/atproto-mcp) · [官网](https://cameronrye.github.io/atproto-mcp/) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cameronrye/atproto-mcp) · [官网](https://cameronrye.github.io/atproto-mcp/) · 个人维护
 
 **让 LLM 客户端访问 AT Protocol/Bluesky 的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cameronrye/atproto-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

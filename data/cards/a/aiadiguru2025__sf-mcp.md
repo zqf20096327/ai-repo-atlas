@@ -1,6 +1,6 @@
 # aiadiguru2025/sf-mcp
 
-⭐ 15 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/aiadiguru2025/sf-mcp) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/aiadiguru2025/sf-mcp) · 个人维护
 
 **连接 Claude 与 SAP SuccessFactors 的 MCP 服务器：62 个 HR 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aiadiguru2025/sf-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 13, 15, 15]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 13, 15, 16]
 ```
 
-2026-10-18 13 → 2026-11-19 15（+2）
+2026-10-18 13 → 2026-11-20 16（+3）
 
 
 ---

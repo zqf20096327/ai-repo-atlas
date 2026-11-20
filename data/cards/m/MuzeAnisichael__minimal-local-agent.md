@@ -1,6 +1,6 @@
 # MuzeAnisichael/minimal-local-agent
 
-⭐ 120 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/MuzeAnisichael/minimal-local-agent) · [官网](https://github.com/MuzeAnisichael/minimal-local-agent/tree/main/docs#readme) · 个人维护 · 中文 README
+⭐ 121 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/MuzeAnisichael/minimal-local-agent) · [官网](https://github.com/MuzeAnisichael/minimal-local-agent/tree/main/docs#readme) · 个人维护 · 中文 README
 
 **本地优先的小型 agent 内核：受限工具、可撤销编辑、可审计运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MuzeAnisichael/minimal-local-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-20"]
     y-axis "stars" 119 --> 123
-    line [122, 121, 120, 120]
+    line [122, 121, 120, 121]
 ```
 
-2026-10-18 122 → 2026-11-19 120（-2）
+2026-10-18 122 → 2026-11-20 121（-1）
 
 
 ---

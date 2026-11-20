@@ -1,6 +1,6 @@
 # BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU
 
-⭐ 312 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU) · 组织维护
+⭐ 311 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU) · 组织维护
 
 **面向开发者的 TensorFlow GPU 目标检测推理 REST API（含 OCR）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
-    y-axis "stars" 311 --> 313
-    line [312, 312]
+    x-axis ["2026-11-16", "2026-11-20"]
+    y-axis "stars" 310 --> 313
+    line [312, 311]
 ```
 
-2026-11-16 312 → 2026-11-19 312（+0）
+2026-11-16 312 → 2026-11-20 311（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lobehub/streamdown
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/lobehub/streamdown) · [官网](https://streamdown.lobehub.com) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lobehub/streamdown) · [官网](https://streamdown.lobehub.com) · 组织维护
 
 **面向 LLM 流式输出的 React 无头 Markdown 渲染引擎**
 
@@ -46,12 +46,12 @@ LobeHub 维护的无头 React 组件库，用于渲染 LLM 持续流式到达的
 ```mermaid
 xychart-beta
     title "lobehub/streamdown 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20"]
     y-axis "stars" 14 --> 22
     line [15, 16, 18, 19, 20, 16, 20, 21, 21]
 ```
 
-2026-10-18 15 → 2026-11-19 21（+6）
+2026-10-18 15 → 2026-11-20 21（+6）
 
 
 ---

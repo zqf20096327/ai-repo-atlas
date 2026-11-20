@@ -1,6 +1,6 @@
 # MiniMax-AI/OpenRoom
 
-⭐ 1,274 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/MiniMax-AI/OpenRoom) · [官网](https://www.openroom.ai) · 组织维护 · 中文 README
+⭐ 1,273 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/MiniMax-AI/OpenRoom) · [官网](https://www.openroom.ai) · 组织维护 · 中文 README
 
 **浏览器内桌面环境，AI Agent 用自然语言操作各应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/OpenRoom 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
+    title "MiniMax-AI/OpenRoom 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20"]
     y-axis "stars" 1269 --> 1275
-    line [1270, 1271, 1272, 1271, 1273, 1272, 1273, 1274]
+    line [1270, 1271, 1272, 1271, 1273, 1272, 1273, 1274, 1273]
 ```
 
-2026-10-18 1,270 → 2026-11-19 1,274（+4）
+2026-10-18 1,270 → 2026-11-20 1,273（+3）
 
 
 ---

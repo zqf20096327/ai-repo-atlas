@@ -1,6 +1,6 @@
 # andy6804tw/crazyai-xai
 
-⭐ 18 · Jupyter Notebook · 推送 2025-11-23 · [GitHub](https://github.com/andy6804tw/crazyai-xai) · [官网](https://andy6804tw.github.io/crazyai-xai/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **可解释AI（XAI）30天系列教程与配套代码**
 

@@ -1,6 +1,6 @@
 # felixbfx/MuleCreate
 
-⭐ 43 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/felixbfx/MuleCreate) · 个人维护
+⭐ 56 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/felixbfx/MuleCreate) · 个人维护
 
 **3D 线稿草图工具，导出简报交 AI 在 Houdini/Blender 重建**
 
@@ -40,6 +40,18 @@ Mule Create 是独立的 3D 技术草图程序：在空间中放置平面并绘�
 > L17: Mule Create (short: Mule) is a standalone program for technical sketching in 3D. You draw lines on planes that you
 > L20: pictures, notes, a USD file of the scene and working rules, from which an AI (for example Claude Code or Codex)
 > L21: rebuilds the object in Houdini or Blender. While Mule is open, the AI can also look at the scene directly through a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "felixbfx/MuleCreate 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 42 --> 57
+    line [43, 56]
+```
+
+2026-11-19 43 → 2026-11-20 56（+13）
 
 
 ---

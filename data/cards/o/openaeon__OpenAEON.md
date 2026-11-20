@@ -1,6 +1,6 @@
 # openaeon/OpenAEON
 
-⭐ 90 · TypeScript · MIT · 推送 2026-07-30 · [GitHub](https://github.com/openaeon/OpenAEON) · [官网](http://docs.openaeon.ai) · 组织维护 · 中文 README
+⭐ 89 · TypeScript · MIT · 推送 2026-07-30 · [GitHub](https://github.com/openaeon/OpenAEON) · [官网](http://docs.openaeon.ai) · 组织维护 · 中文 README
 
 **自研认知循环架构的自主 agent 运行时：推理、记忆蒸馏与可观测控制台**
 
@@ -46,12 +46,12 @@ AEON Protocol 的开源实现，围绕 FCA Core（多层认知架构）构建：
 ```mermaid
 xychart-beta
     title "openaeon/OpenAEON 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 88 --> 91
+    line [90, 89]
 ```
 
-2026-10-18 90 → 2026-11-19 90（+0）
+2026-10-18 90 → 2026-11-20 89（-1）
 
 
 ---

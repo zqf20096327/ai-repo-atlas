@@ -1,6 +1,6 @@
 # python-adaptive/adaptive
 
-⭐ 1,232 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/python-adaptive/adaptive) · [官网](http://adaptive.readthedocs.io/) · 组织维护
+⭐ 1,231 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/python-adaptive/adaptive) · [官网](http://adaptive.readthedocs.io/) · 组织维护
 
 **数学函数的自适应并行采样/主动学习 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "python-adaptive/adaptive 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-20"]
     y-axis "stars" 1228 --> 1234
-    line [1229, 1230, 1231, 1230, 1232, 1233, 1232, 1232]
+    line [1229, 1230, 1231, 1230, 1232, 1233, 1232, 1231]
 ```
 
-2026-10-18 1,229 → 2026-11-19 1,232（+3）
+2026-10-18 1,229 → 2026-11-20 1,231（+2）
 
 
 ---

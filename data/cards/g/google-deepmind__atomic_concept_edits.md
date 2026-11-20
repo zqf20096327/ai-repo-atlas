@@ -1,6 +1,6 @@
 # google-deepmind/atomic_concept_edits
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/google-deepmind/atomic_concept_edits) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/google-deepmind/atomic_concept_edits) · 组织维护
 
 **面向研究者的提示词原子级概念编辑探索与优化框架**
 
@@ -46,12 +46,12 @@ ACE 将提示词分解为单个概念并生成增删改的原子突变，通过�
 ```mermaid
 xychart-beta
     title "google-deepmind/atomic_concept_edits 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

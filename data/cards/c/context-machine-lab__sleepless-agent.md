@@ -1,6 +1,6 @@
 # context-machine-lab/sleepless-agent
 
-⭐ 839 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/context-machine-lab/sleepless-agent) · [官网](https://context-machine-lab.github.io/sleepless-agent/) · 组织维护 · 中文 README
+⭐ 840 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/context-machine-lab/sleepless-agent) · [官网](https://context-machine-lab.github.io/sleepless-agent/) · 组织维护 · 中文 README
 
 **让 Claude Code Pro 24/7 后台处理任务的 Slack/CLI 守护进程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "context-machine-lab/sleepless-agent 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    title "context-machine-lab/sleepless-agent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
     y-axis "stars" 832 --> 841
-    line [834, 833, 835, 836, 835, 833, 838, 840, 839]
+    line [834, 833, 835, 836, 835, 833, 838, 840, 839, 840]
 ```
 
-2026-10-18 834 → 2026-11-19 839（+5）
+2026-10-18 834 → 2026-11-20 840（+6）
 
 
 ---

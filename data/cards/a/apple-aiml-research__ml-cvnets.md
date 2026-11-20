@@ -1,6 +1,6 @@
 # apple-aiml-research/ml-cvnets
 
-⭐ 1,995 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-cvnets) · [官网](https://apple-aiml-research.github.io/ml-cvnets/) · 组织维护
+⭐ 1,996 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-cvnets) · [官网](https://apple-aiml-research.github.io/ml-cvnets/) · 组织维护
 
 **训练计算机视觉网络的 PyTorch 工具库**
 
@@ -45,12 +45,12 @@ Apple 维护的计算机视觉训练工具库：面向研究人员和工程师�
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-cvnets 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 1994 --> 1998
-    line [1995, 1996, 1997, 1996, 1995, 1995]
+    line [1995, 1996, 1997, 1996, 1995, 1996]
 ```
 
-2026-10-18 1,995 → 2026-11-19 1,995（+0）
+2026-10-18 1,995 → 2026-11-20 1,996（+1）
 
 
 ---

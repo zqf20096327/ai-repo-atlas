@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hive-intel/awesome-crypto-mcp-servers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    title "hive-intel/awesome-crypto-mcp-servers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 11 --> 15
-    line [12, 13, 14]
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-19 14（+2）
+2026-10-18 12 → 2026-11-20 14（+2）
 
 
 ---

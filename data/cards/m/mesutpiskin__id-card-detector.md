@@ -1,6 +1,6 @@
 # mesutpiskin/id-card-detector
 
-⭐ 332 · Python · MIT · 推送 2026-05-16 · [GitHub](https://github.com/mesutpiskin/id-card-detector) · 个人维护
+⭐ 330 · Python · MIT · 推送 2026-05-16 · [GitHub](https://github.com/mesutpiskin/id-card-detector) · 个人维护
 
 **深度学习身份证件信息区域检测与 OCR 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mesutpiskin/id-card-detector 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 331 --> 334
-    line [332, 333, 332, 332]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 329 --> 334
+    line [332, 333, 332, 330]
 ```
 
-2026-10-18 332 → 2026-11-19 332（+0）
+2026-10-18 332 → 2026-11-20 330（-2）
 
 
 ---

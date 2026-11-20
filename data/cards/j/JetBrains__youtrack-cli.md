@@ -1,6 +1,6 @@
 # JetBrains/youtrack-cli
 
-⭐ 15 · Go · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/JetBrains/youtrack-cli) · 组织维护
+⭐ 15 · Go · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/JetBrains/youtrack-cli) · 组织维护
 
 **YouTrack 官方命令行客户端，供终端用户与 AI agent 驱动项目管理**
 
@@ -46,12 +46,12 @@ JetBrains 官方维护的 YouTrack 命令行客户端，用 Go 编写，覆盖 i
 ```mermaid
 xychart-beta
     title "JetBrains/youtrack-cli 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-11", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20"]
     y-axis "stars" 10 --> 16
     line [11, 12, 14, 15, 15]
 ```
 
-2026-11-11 11 → 2026-11-19 15（+4）
+2026-11-11 11 → 2026-11-20 15（+4）
 
 
 ---

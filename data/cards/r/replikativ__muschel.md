@@ -1,6 +1,6 @@
 # replikativ/muschel
 
-⭐ 21 · Clojure · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/replikativ/muschel) · [官网](https://simm.is) · 组织维护
+⭐ 22 · Clojure · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/replikativ/muschel) · [官网](https://simm.is) · 组织维护
 
 **为 LLM agent 沙箱化执行 bash 的 Clojure(Script) 解释器库**
 
@@ -45,12 +45,12 @@ Clojure(Script) 库，将 bash/POSIX shell 源码解析为结构化 AST，按 al
 ```mermaid
 xychart-beta
     title "replikativ/muschel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-19 21（+0）
+2026-10-18 21 → 2026-11-20 22（+1）
 
 
 ---

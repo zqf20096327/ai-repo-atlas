@@ -1,6 +1,6 @@
 # capstone-insper/drone-swarm-search
 
-⭐ 86 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/capstone-insper/drone-swarm-search) · [官网](https://capstone-insper.github.io/drone-swarm-search/) · 组织维护
+⭐ 87 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/capstone-insper/drone-swarm-search) · [官网](https://capstone-insper.github.io/drone-swarm-search/) · 组织维护
 
 **面向无人机集群搜救的多智能体强化学习仿真环境库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "capstone-insper/drone-swarm-search 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 83 --> 87
-    line [84, 85, 86, 84, 86, 86]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 83 --> 88
+    line [84, 85, 86, 84, 86, 87]
 ```
 
-2026-10-18 84 → 2026-11-19 86（+2）
+2026-10-18 84 → 2026-11-20 87（+3）
 
 
 ---

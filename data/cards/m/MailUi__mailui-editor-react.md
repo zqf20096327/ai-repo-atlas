@@ -1,6 +1,6 @@
 # MailUi/mailui-editor-react
 
-⭐ 20 · TypeScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/MailUi/mailui-editor-react) · [官网](https://mailui.co) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **React 邮件编辑器组件：为应用嵌入拖拽式邮件设计器**
 
@@ -11,7 +11,7 @@ MailUi 提供的 React 封装组件，将拖拽式邮件设计编辑器嵌入 Re
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

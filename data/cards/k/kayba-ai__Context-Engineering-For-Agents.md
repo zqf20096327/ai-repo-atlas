@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kayba-ai/Context-Engineering-For-Agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
+    title "kayba-ai/Context-Engineering-For-Agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-19 12（+2）
+2026-10-18 10 → 2026-11-20 12（+2）
 
 
 ---

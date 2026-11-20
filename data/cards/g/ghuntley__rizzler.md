@@ -1,6 +1,6 @@
 # ghuntley/rizzler
 
-⭐ 68 · Rust · MIT · 推送 2026-04-23 · [GitHub](https://github.com/ghuntley/rizzler) · [官网](https://ghuntley.com/) · 个人维护
+⭐ 69 · Rust · MIT · 推送 2026-04-23 · [GitHub](https://github.com/ghuntley/rizzler) · [官网](https://ghuntley.com/) · 个人维护
 
 **给开发者的 CLI：用 LLM 自动解决 Git 合并冲突**
 
@@ -45,12 +45,12 @@ Rust 编写的 Git merge driver：注册为 Git 自定义合并驱动后，在 m
 ```mermaid
 xychart-beta
     title "ghuntley/rizzler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-18 68 → 2026-11-19 68（+0）
+2026-10-18 68 → 2026-11-20 69（+1）
 
 
 ---

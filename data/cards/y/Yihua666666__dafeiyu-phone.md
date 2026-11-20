@@ -1,6 +1,6 @@
 # Yihua666666/dafeiyu-phone
 
-⭐ 79 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Yihua666666/dafeiyu-phone) · [官网](https://github.com/Yihua666666/dafeiyu-phone/releases/tag/v1.0.0) · 个人维护 · 中文 README
+⭐ 81 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Yihua666666/dafeiyu-phone) · [官网](https://github.com/Yihua666666/dafeiyu-phone/releases/tag/v1.0.0) · 个人维护 · 中文 README
 
 **跑在闲置安卓手机上的自主陪伴鲸鱼娘 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yihua666666/dafeiyu-phone 星数(近 11 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 0 --> 86
-    line [7, 13, 24, 56, 62, 66, 70, 71, 73, 76, 79]
+    title "Yihua666666/dafeiyu-phone 星数(近 12 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 0 --> 88
+    line [7, 13, 24, 56, 62, 66, 70, 71, 73, 76, 79, 81]
 ```
 
-2026-10-31 7 → 2026-11-19 79（+72）
+2026-10-31 7 → 2026-11-20 81（+74）
 
 
 ---

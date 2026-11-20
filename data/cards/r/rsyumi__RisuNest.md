@@ -1,6 +1,6 @@
 # rsyumi/RisuNest
 
-⭐ 10 · TypeScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/rsyumi/RisuNest) · 组织维护
+⭐ 11 · TypeScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/rsyumi/RisuNest) · 组织维护
 
 **面向桌面与移动端的本地 AI 角色扮演聊天应用**
 
@@ -39,6 +39,18 @@
 
 > L19: RisuNest is an AI chat application forked from RisuAI, available for Windows, macOS, Linux, Android, and iOS. Chat 
 > L65: - **Desktop and Mobile:** Use the app on Windows, macOS, Linux, Android, and iOS.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rsyumi/RisuNest 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-19 10 → 2026-11-20 11（+1）
 
 
 ---

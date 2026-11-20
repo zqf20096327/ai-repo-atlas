@@ -1,6 +1,6 @@
 # Itachi-1824/goblin-ai
 
-⭐ 21 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Itachi-1824/goblin-ai) · 个人维护
+⭐ 20 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Itachi-1824/goblin-ai) · 个人维护
 
 **免注册免费 AI 生图 Python 库，支持 30+ 模型与本地 UI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Itachi-1824/goblin-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "Itachi-1824/goblin-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 19 --> 22
-    line [20, 21]
+    line [20, 21, 20]
 ```
 
-2026-10-18 20 → 2026-11-19 21（+1）
+2026-10-18 20 → 2026-11-20 20（+0）
 
 
 ---

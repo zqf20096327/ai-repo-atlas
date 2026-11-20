@@ -1,6 +1,6 @@
 # bnymnDev/shopware-mcp
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/bnymnDev/shopware-mcp) · [官网](https://www.npmjs.com/package/shopware-mcp) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/bnymnDev/shopware-mcp) · [官网](https://www.npmjs.com/package/shopware-mcp) · 个人维护
 
 **面向 Shopware 6 商店的 MCP server：AI 助手运维电商后台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bnymnDev/shopware-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 18 --> 45
-    line [43, 38, 37, 21, 20, 20]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 16 --> 45
+    line [43, 38, 37, 21, 20, 18]
 ```
 
-2026-10-18 43 → 2026-11-19 20（-23）
+2026-10-18 43 → 2026-11-20 18（-25）
 
 
 ---

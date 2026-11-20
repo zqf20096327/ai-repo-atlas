@@ -1,6 +1,6 @@
 # Schwi-AI/DiffusionCreamPy
 
-⭐ 38 · CC-BY-4.0 · 推送 2026-05-13 · [GitHub](https://github.com/Schwi-AI/DiffusionCreamPy) · 个人维护
+⭐ 39 · CC-BY-4.0 · 推送 2026-05-13 · [GitHub](https://github.com/Schwi-AI/DiffusionCreamPy) · 个人维护
 
 **用 SDXL+ControlNet 去除 Hentai 马赛克/条形遮挡的 ComfyUI 工作流模板集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Schwi-AI/DiffusionCreamPy 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 30 --> 39
-    line [31, 34, 35, 36, 35, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 30 --> 40
+    line [31, 34, 35, 36, 35, 37, 38, 39]
 ```
 
-2026-10-18 31 → 2026-11-19 38（+7）
+2026-10-18 31 → 2026-11-20 39（+8）
 
 
 ---

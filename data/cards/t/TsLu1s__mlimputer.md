@@ -1,0 +1,57 @@
+# TsLu1s/mlimputer
+
+⭐ 10 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/TsLu1s/mlimputer) · 个人维护
+
+**给数据科学者的表格数据缺失值 ML 插补框架**
+
+MLimputer 是一个 Python 框架，用监督学习算法自动化处理表格数据中的缺失值：自动检测缺失模式，对每个含缺失的数值列分别拟合一个模型（从 RandomForest/ExtraTrees/GBR/KNN/XGBoost/CatBoost 六种策略中选择），预测并写入缺失单元。提供 scikit-learn transformer 接口，可嵌入 Pipeline 与 GridSearchCV；Evaluator 按折拟合以避免数据泄漏，ModelSerializer 支持 joblib 持久化部署。通过 PyPI 安装，MIT 许可。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 6 种 ML 插补策略（RandomForest/ExtraTrees/GBR/KNN/XGBoost/CatBoost）
+- 逐列独立建模，分类/布尔列仅作特征，数值列作为插补目标
+- scikit-learn transformer 兼容，支持 Pipeline 与 GridSearchCV
+- Evaluator 逐折拟合的防泄漏评估，输出带均值±标准差的排行
+
+## 适用场景
+
+- 表格数据集建模前自动填补缺失值
+- 对比多种插补策略并选出最适合当前数据的方案
+- 将拟合好的插补器序列化后部署到生产流程
+
+## 场景标签
+
+ · 领域:机器学习/数据预处理
+
+## 证据(README 行号)
+
+> L12: The `MLimputer` project provides a comprehensive and integrated framework to automate the handling of missing value
+> L25: * **Multiple imputation strategies**: Choose from 6 different ML algorithms (`RandomForest`, `ExtraTrees`, `GBR`, `
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TsLu1s/mlimputer 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-10-18 10 → 2026-11-20 10（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `65afe31340bf` · [字段定义](../../DATASET.md)*

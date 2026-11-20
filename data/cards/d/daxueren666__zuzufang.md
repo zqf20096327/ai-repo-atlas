@@ -1,6 +1,6 @@
 # daxueren666/zuzufang
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/daxueren666/zuzufang) · 个人维护 · 中文 README
+⭐ 13 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/daxueren666/zuzufang) · 个人维护 · 中文 README
 
 **国内租房咨询的 Agent Skill：采集多平台口碑生成尽调报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daxueren666/zuzufang 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 10, 12, 12]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 12, 13]
 ```
 
-2026-10-18 10 → 2026-11-19 12（+2）
+2026-10-18 10 → 2026-11-20 13（+3）
 
 
 ---

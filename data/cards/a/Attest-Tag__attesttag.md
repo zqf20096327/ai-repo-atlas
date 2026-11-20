@@ -1,6 +1,6 @@
 # Attest-Tag/attesttag
 
-⭐ 21 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Attest-Tag/attesttag) · [官网](https://attesttag.com) · 组织维护
+⭐ 21 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Attest-Tag/attesttag) · [官网](https://attesttag.com) · 组织维护
 
 **面向 Slack/Teams 的可自托管 AI 队友，跑开源权重模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Attest-Tag/attesttag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-19 21（+0）
+2026-10-18 21 → 2026-11-20 21（+0）
 
 
 ---

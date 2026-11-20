@@ -44,13 +44,13 @@ TypeScript 实现的静态 MCP 服务器，向 Claude Desktop 与 Claude Code �
 
 ```mermaid
 xychart-beta
-    title "doobidoo/MCP-Context-Provider 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    title "doobidoo/MCP-Context-Provider 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 29 --> 32
-    line [31, 30, 31]
+    line [31, 30, 31, 31]
 ```
 
-2026-10-18 31 → 2026-11-19 31（+0）
+2026-10-18 31 → 2026-11-20 31（+0）
 
 
 ---

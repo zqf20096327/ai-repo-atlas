@@ -1,6 +1,6 @@
 # SAP-samples/codejam-cap-llm
 
-⭐ 33 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/SAP-samples/codejam-cap-llm) · 组织维护
+⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SAP-samples/codejam-cap-llm) · 组织维护
 
 **SAP CAP + Generative AI Hub 培训课程仓库（CodeJam 练习材料）**
 
@@ -46,12 +46,12 @@ SAP 官方 samples 账号下的 CodeJam 培训内容仓库：通过 10 个顺序
 ```mermaid
 xychart-beta
     title "SAP-samples/codejam-cap-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-11-19 33（+0）
+2026-10-18 33 → 2026-11-20 34（+1）
 
 
 ---

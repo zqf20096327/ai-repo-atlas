@@ -1,6 +1,6 @@
 # vixhal-baraiya/qwenFS
 
-⭐ 97 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/vixhal-baraiya/qwenFS) · 个人维护
+⭐ 98 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/vixhal-baraiya/qwenFS) · 个人维护
 
 **把文件系统直接编译进 Qwen3.5-2B 权重的实验性模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vixhal-baraiya/qwenFS 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 93 --> 98
-    line [94, 96, 97, 97]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 93 --> 99
+    line [94, 96, 97, 98]
 ```
 
-2026-11-08 94 → 2026-11-19 97（+3）
+2026-11-08 94 → 2026-11-20 98（+4）
 
 
 ---

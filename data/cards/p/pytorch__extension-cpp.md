@@ -1,6 +1,6 @@
 # pytorch/extension-cpp
 
-⭐ 1,204 · Python · 推送 2026-11-10 · [GitHub](https://github.com/pytorch/extension-cpp) · 组织维护
+⭐ 1,202 · Python · 推送 2026-11-10 · [GitHub](https://github.com/pytorch/extension-cpp) · 组织维护
 
 **PyTorch 官方 C++/CUDA 扩展编写示例仓库**
 
@@ -45,12 +45,12 @@ pytorch 组织维护的示例工程，含两个 C++/CUDA 扩展示例：extensio
 ```mermaid
 xychart-beta
     title "pytorch/extension-cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 1202 --> 1205
-    line [1203, 1204, 1204]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 1201 --> 1205
+    line [1203, 1204, 1202]
 ```
 
-2026-10-18 1,203 → 2026-11-19 1,204（+1）
+2026-10-18 1,203 → 2026-11-20 1,202（-1）
 
 
 ---

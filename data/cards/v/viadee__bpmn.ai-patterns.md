@@ -1,6 +1,6 @@
 # viadee/bpmn.ai-patterns
 
-⭐ 35 · BSD-3-Clause · 推送 2026-09-28 · [GitHub](https://github.com/viadee/bpmn.ai-patterns) · 组织维护
+⭐ 36 · BSD-3-Clause · 推送 2026-09-28 · [GitHub](https://github.com/viadee/bpmn.ai-patterns) · 组织维护
 
 **在 BPMN 业务流程中编排 AI 服务的集成模式目录**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "viadee/bpmn.ai-patterns 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-11-19 35（+0）
+2026-10-18 35 → 2026-11-20 36（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # JamesANZ/us-legal-mcp
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/JamesANZ/us-legal-mcp) · [官网](https://glama.ai/mcp/servers/@JamesANZ/us-legal-mcp) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/JamesANZ/us-legal-mcp) · [官网](https://glama.ai/mcp/servers/@JamesANZ/us-legal-mcp) · 个人维护
 
 **向 AI 工作流提供美国法律检索的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JamesANZ/us-legal-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-11-19 38（+0）
+2026-10-18 38 → 2026-11-20 39（+1）
 
 
 ---

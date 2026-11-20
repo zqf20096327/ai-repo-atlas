@@ -1,6 +1,6 @@
 # Mattral/rlpost
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Mattral/rlpost) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Mattral/rlpost) · 个人维护
 
 **LLM 后训练代码集：SFT、奖励模型、PPO、DPO 的训练实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mattral/rlpost 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-19"]
+    x-axis ["2026-10-31", "2026-11-20"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-31 28 → 2026-11-19 28（+0）
+2026-10-31 28 → 2026-11-20 28（+0）
 
 
 ---

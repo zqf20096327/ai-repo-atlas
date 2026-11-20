@@ -1,6 +1,6 @@
 # Wendystar0628/AI-High-Pressure-Challenge
 
-⭐ 42 · JavaScript · 推送 2026-11-18 · [GitHub](https://github.com/Wendystar0628/AI-High-Pressure-Challenge) · [官网](https://octathlon.wendystars.com) · 个人维护 · 中文 README
+⭐ 61 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Wendystar0628/AI-High-Pressure-Challenge) · [官网](https://octathlon.wendystars.com) · 个人维护 · 中文 README
 
 **面向 AI 编程智能体的限时评测基准：10 类 13 题**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -40,6 +40,18 @@
 > L13: - **是什么**：给 AI 编程智能体做的限时评测。题目从 Lean 形式化证明、竞赛数学、性能优化、鲁班锁拆解和机械结构重建，一直到整件网页作品和桌面系统的设计与开发。
 > L14: - **测谁**：模型连同它自己的智能体工具一起测，例如 Claude Code、Codex，推理强度默认 `xhigh`。
 > L17: - **谁来评**：主动设计题由 Claude Opus 5.5 和 GPT 6.1 Sol 各评一次、取平均；标准评判题由程序校验生成分数。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Wendystar0628/AI-High-Pressure-Challenge 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 41 --> 62
+    line [42, 61]
+```
+
+2026-11-19 42 → 2026-11-20 61（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # lxgicstudios/lxgic-clipper
 
-⭐ 14 · Shell · MIT · 推送 2026-02-16 · [GitHub](https://github.com/lxgicstudios/lxgic-clipper) · 组织维护
+⭐ 15 · Shell · MIT · 推送 2026-02-16 · [GitHub](https://github.com/lxgicstudios/lxgic-clipper) · 组织维护
 
 **给主播自动剪辑直播集锦并分发到社媒的 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lxgicstudios/lxgic-clipper 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 9 --> 15
-    line [10, 14]
+    title "lxgicstudios/lxgic-clipper 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 16
+    line [10, 14, 15]
 ```
 
-2026-11-18 10 → 2026-11-19 14（+4）
+2026-11-18 10 → 2026-11-20 15（+5）
 
 
 ---

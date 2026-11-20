@@ -1,6 +1,6 @@
 # atulkapoor/fde-framework
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/atulkapoor/fde-framework) · [官网](https://atulkapoor.github.io/fde-framework/) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/atulkapoor/fde-framework) · [官网](https://atulkapoor.github.io/fde-framework/) · 个人维护
 
 **给前置部署工程师的 AI 项目决策框架：证据不足即拒绝开工**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "atulkapoor/fde-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-19 12（+1）
+2026-10-18 11 → 2026-11-20 13（+2）
 
 
 ---

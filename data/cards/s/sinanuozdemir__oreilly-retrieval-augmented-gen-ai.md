@@ -1,6 +1,6 @@
 # sinanuozdemir/oreilly-retrieval-augmented-gen-ai
 
-⭐ 168 · Jupyter Notebook · 推送 2026-02-17 · [GitHub](https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai) · [官网](https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-agents-using-llms/0642572007797) · 个人维护
+⭐ 169 · Jupyter Notebook · 推送 2026-02-17 · [GitHub](https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai) · [官网](https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-agents-using-llms/0642572007797) · 个人维护
 
 **RAG 与 Agent 的教学代码仓库（O'Reilly 视频配套）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sinanuozdemir/oreilly-retrieval-augmented-gen-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 167 --> 170
+    line [168, 169]
 ```
 
-2026-10-18 168 → 2026-11-19 168（+0）
+2026-10-18 168 → 2026-11-20 169（+1）
 
 
 ---

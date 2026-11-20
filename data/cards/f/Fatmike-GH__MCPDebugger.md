@@ -1,6 +1,6 @@
 # Fatmike-GH/MCPDebugger
 
-⭐ 14 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Fatmike-GH/MCPDebugger) · 个人维护
+⭐ 14 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Fatmike-GH/MCPDebugger) · 个人维护
 
 **面向 Windows 可执行文件的 MCP 调试器服务器，供 AI 客户端做动静分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Fatmike-GH/MCPDebugger 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-19 14（+1）
+2026-10-18 13 → 2026-11-20 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # HumphreySun98/Smart-Study-Agent
 
-⭐ 60 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/HumphreySun98/Smart-Study-Agent) · [官网](https://huggingface.co/spaces/HumphreySun98/smart-study-agent) · 个人维护 · 中文 README
+⭐ 59 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/HumphreySun98/Smart-Study-Agent) · [官网](https://huggingface.co/spaces/HumphreySun98/smart-study-agent) · 个人维护 · 中文 README
 
 **自适应学习 agent：RL 决定学什么、FSRS 排复习、LLM 出题**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "HumphreySun98/Smart-Study-Agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20"]
     y-axis "stars" 56 --> 61
-    line [57, 58, 59, 60, 60]
+    line [57, 58, 59, 60, 59]
 ```
 
-2026-10-18 57 → 2026-11-19 60（+3）
+2026-10-18 57 → 2026-11-20 59（+2）
 
 
 ---

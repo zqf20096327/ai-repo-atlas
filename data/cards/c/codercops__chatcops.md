@@ -1,6 +1,6 @@
 # codercops/chatcops
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/codercops/chatcops) · [官网](https://chat.codercops.com) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/codercops/chatcops) · [官网](https://chat.codercops.com) · 组织维护
 
 **网站可嵌入的通用 AI 聊天挂件，一行 script 接入多模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codercops/chatcops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 13 --> 16
     line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-19 14（-1）
+2026-10-18 15 → 2026-11-20 14（-1）
 
 
 ---

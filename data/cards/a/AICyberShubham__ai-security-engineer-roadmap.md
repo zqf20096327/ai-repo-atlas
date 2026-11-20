@@ -1,6 +1,6 @@
 # AICyberShubham/ai-security-engineer-roadmap
 
-⭐ 39 · NOASSERTION · 推送 2025-11-25 · [GitHub](https://github.com/AICyberShubham/ai-security-engineer-roadmap) · [官网](https://www.linkedin.com/in/shubham-kumar-pandey-iitp/) · 个人维护
+⭐ 41 · NOASSERTION · 推送 2025-11-25 · [GitHub](https://github.com/AICyberShubham/ai-security-engineer-roadmap) · [官网](https://www.linkedin.com/in/shubham-kumar-pandey-iitp/) · 个人维护
 
 **AI 安全工程师从零到进阶的 12 个月学习路线图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AICyberShubham/ai-security-engineer-roadmap 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 35 --> 41
-    line [36, 37, 38, 39, 37, 40, 39, 39]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 35 --> 42
+    line [36, 37, 38, 39, 37, 40, 39, 41]
 ```
 
-2026-10-18 36 → 2026-11-19 39（+3）
+2026-10-18 36 → 2026-11-20 41（+5）
 
 
 ---

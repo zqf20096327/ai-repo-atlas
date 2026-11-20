@@ -1,6 +1,6 @@
 # swarm-ai-research/swarm
 
-⭐ 52 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/swarm-ai-research/swarm) · [官网](https://www.swarm-ai.org/) · 组织维护
+⭐ 52 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/swarm-ai-research/swarm) · [官网](https://www.swarm-ai.org/) · 组织维护
 
 **多智能体系统涌现风险评测框架：测量交互层面的安全性**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "swarm-ai-research/swarm 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 47 --> 53
     line [48, 49, 48, 49, 50, 51, 52, 52]
 ```
 
-2026-10-18 48 → 2026-11-19 52（+4）
+2026-10-18 48 → 2026-11-20 52（+4）
 
 
 ---

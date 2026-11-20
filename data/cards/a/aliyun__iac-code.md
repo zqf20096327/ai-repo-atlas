@@ -1,6 +1,6 @@
 # aliyun/iac-code
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/aliyun/iac-code) · [官网](https://aliyun.github.io/iac-code/) · 组织维护 · 中文 README
+⭐ 29 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/aliyun/iac-code) · [官网](https://aliyun.github.io/iac-code/) · 组织维护 · 中文 README
 
 **阿里云基础设施即代码 AI 助手：自然语言生成与部署 ROS/Terraform**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aliyun/iac-code 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 26 --> 30
     line [27, 28, 29, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-19 29（+2）
+2026-10-18 27 → 2026-11-20 29（+2）
 
 
 ---

@@ -45,12 +45,12 @@ HyperBO（Prior Discovery）是 JMLR 论文《Pre-trained Gaussian processes for
 ```mermaid
 xychart-beta
     title "google-research/hyperbo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
     y-axis "stars" 106 --> 110
     line [107, 108, 109, 109]
 ```
 
-2026-10-18 107 → 2026-11-19 109（+2）
+2026-10-18 107 → 2026-11-20 109（+2）
 
 
 ---

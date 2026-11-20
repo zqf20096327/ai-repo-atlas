@@ -1,6 +1,6 @@
 # riesbri/dshline
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/riesbri/dshline) · [官网](https://dshline.xyz) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/riesbri/dshline) · [官网](https://dshline.xyz) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的终端原生 TUI 前端，带真实滚动回显**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "riesbri/dshline 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-20"]
     y-axis "stars" 20 --> 28
     line [21, 22, 23, 26, 27, 27]
 ```
 
-2026-10-18 21 → 2026-11-19 27（+6）
+2026-10-18 21 → 2026-11-20 27（+6）
 
 
 ---

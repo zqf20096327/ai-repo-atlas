@@ -1,6 +1,6 @@
 # joyozhang333-lgtm/human-design-llm
 
-⭐ 16 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/joyozhang333-lgtm/human-design-llm) · [官网](https://humandesign.guichu.chat) · 组织维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/joyozhang333-lgtm/human-design-llm) · [官网](https://humandesign.guichu.chat) · 组织维护 · 中文 README
 
 **开源人类图 AI：排盘、BodyGraph、全盘解读与 Agent Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joyozhang333-lgtm/human-design-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-19 16（+1）
+2026-10-18 15 → 2026-11-20 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # TurquoiseConsultant/GitHub-Copilot-app
 
-⭐ 377 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TurquoiseConsultant/GitHub-Copilot-app) · 组织维护
+⭐ 376 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TurquoiseConsultant/GitHub-Copilot-app) · 组织维护
 
 **面向开发者的 GitHub Copilot 桌面应用：跨仓库查找、运行与交付软件工作**
 
@@ -46,12 +46,12 @@ GitHub 官方维护的 agent 桌面应用，用于管理从想法到拉取请求
 ```mermaid
 xychart-beta
     title "TurquoiseConsultant/GitHub-Copilot-app 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 376 --> 379
-    line [378, 377, 377]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 375 --> 379
+    line [378, 377, 376]
 ```
 
-2026-11-15 378 → 2026-11-19 377（-1）
+2026-11-15 378 → 2026-11-20 376（-2）
 
 
 ---

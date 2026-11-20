@@ -1,6 +1,6 @@
 # justin13601/ACES
 
-⭐ 51 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/justin13601/ACES) · [官网](https://eventstreamaces.readthedocs.io/en/latest/) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/justin13601/ACES) · [官网](https://eventstreamaces.readthedocs.io/en/latest/) · 个人维护
 
 **从事件流 EHR 数据中按 YAML 配置提取任务队列的 Python 库**
 
@@ -45,12 +45,12 @@ ACES 是一个 Python 库，面向研究人员与开发者，用于从事件流�
 ```mermaid
 xychart-beta
     title "justin13601/ACES 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-20"]
     y-axis "stars" 48 --> 52
     line [49, 50, 51, 51]
 ```
 
-2026-10-18 49 → 2026-11-19 51（+2）
+2026-10-18 49 → 2026-11-20 51（+2）
 
 
 ---

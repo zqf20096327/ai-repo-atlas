@@ -1,6 +1,6 @@
 # zhuangzhaoyeye/llm_course
 
-⭐ 45 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zhuangzhaoyeye/llm_course) · [官网](https://zhuangzhaoyeye.github.io/llm-course/) · 个人维护 · 中文 README
+⭐ 65 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zhuangzhaoyeye/llm_course) · [官网](https://zhuangzhaoyeye.github.io/llm-course/) · 个人维护 · 中文 README
 
 **写给传统算法工程师的大模型课程：每课用具体数字算一遍机制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhuangzhaoyeye/llm_course 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 0 --> 49
-    line [3, 42, 43, 44, 45, 45]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 0 --> 71
+    line [3, 42, 43, 44, 45, 65]
 ```
 
-2026-11-02 3 → 2026-11-19 45（+42）
+2026-11-02 3 → 2026-11-20 65（+62）
 
 
 ---

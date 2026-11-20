@@ -1,6 +1,6 @@
 # iPythoning/b2b-sdr-agent-template
 
-⭐ 191 · Shell · MIT · 推送 2026-09-29 · [GitHub](https://github.com/iPythoning/b2b-sdr-agent-template) · [官网](https://pulseagent.io) · 个人维护 · 中文 README
+⭐ 192 · Shell · MIT · 推送 2026-09-29 · [GitHub](https://github.com/iPythoning/b2b-sdr-agent-template) · [官网](https://pulseagent.io) · 个人维护 · 中文 README
 
 **面向 B2B 外贸企业的开源 AI 销售代表（SDR）部署模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iPythoning/b2b-sdr-agent-template 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 189 --> 192
-    line [190, 191, 191]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 189 --> 193
+    line [190, 191, 192]
 ```
 
-2026-11-13 190 → 2026-11-19 191（+1）
+2026-11-13 190 → 2026-11-20 192（+2）
 
 
 ---

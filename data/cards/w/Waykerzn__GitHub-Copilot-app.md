@@ -1,6 +1,6 @@
 # Waykerzn/GitHub-Copilot-app
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Waykerzn/GitHub-Copilot-app) · 组织维护
+⭐ 57 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Waykerzn/GitHub-Copilot-app) · 组织维护
 
 **面向开发者的 agent 原生桌面端 GitHub 工作管理中心**
 
@@ -46,12 +46,12 @@ GitHub 官方发布的桌面应用，作为管理软件工作的单一控制中�
 ```mermaid
 xychart-beta
     title "Waykerzn/GitHub-Copilot-app 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-11-18", "2026-11-20"]
+    y-axis "stars" 56 --> 63
+    line [62, 57]
 ```
 
-2026-11-18 62 → 2026-11-19 62（+0）
+2026-11-18 62 → 2026-11-20 57（-5）
 
 
 ---

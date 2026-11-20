@@ -1,6 +1,6 @@
 # f-amine/vibe-stack
 
-⭐ 20 · TypeScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/f-amine/vibe-stack) · [官网](https://vibestack.salzier.com) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/f-amine/vibe-stack) · [官网](https://vibestack.salzier.com) · 个人维护
 
 **面向 Claude Code 工作流的全栈 SaaS 启动模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "f-amine/vibe-stack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
-    y-axis "stars" 19 --> 22
-    line [21, 20, 20]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
+    y-axis "stars" 18 --> 22
+    line [21, 20, 19]
 ```
 
-2026-10-18 21 → 2026-11-19 20（-1）
+2026-10-18 21 → 2026-11-20 19（-2）
 
 
 ---

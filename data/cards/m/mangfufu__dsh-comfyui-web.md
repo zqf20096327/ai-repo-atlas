@@ -1,6 +1,6 @@
 # mangfufu/dsh-comfyui-web
 
-⭐ 24 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/mangfufu/dsh-comfyui-web) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/mangfufu/dsh-comfyui-web) · 个人维护 · 中文 README
 
 **在 dsh 网页内嵌 ComfyUI 并让 AI 经 MCP 操作工作流的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mangfufu/dsh-comfyui-web 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    title "mangfufu/dsh-comfyui-web 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 19 --> 25
-    line [20, 22, 23, 22, 23, 24]
+    line [20, 22, 23, 22, 23, 24, 24]
 ```
 
-2026-10-18 20 → 2026-11-19 24（+4）
+2026-10-18 20 → 2026-11-20 24（+4）
 
 
 ---

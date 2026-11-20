@@ -1,6 +1,6 @@
 # ydsgangge-ux/StoryCanvas
 
-⭐ 18 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/ydsgangge-ux/StoryCanvas) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/ydsgangge-ux/StoryCanvas) · 个人维护 · 中文 README
 
 **画布式叙事创作系统：作者在自由画布上组织故事结构，AI 生成正文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ydsgangge-ux/StoryCanvas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-19 18（+0）
+2026-10-18 18 → 2026-11-20 18（+0）
 
 
 ---

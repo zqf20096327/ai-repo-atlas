@@ -1,6 +1,6 @@
 # tia-forge/awesome-plc-ai
 
-⭐ 14 · Shell · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/tia-forge/awesome-plc-ai) · 组织维护 · 中文 README
+⭐ 16 · Shell · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/tia-forge/awesome-plc-ai) · 组织维护 · 中文 README
 
 **给 PLC 工程师的 AI 工具/MCP 桥接精选清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tia-forge/awesome-plc-ai 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 3 --> 15
-    line [4, 13, 14, 14]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 3 --> 17
+    line [4, 13, 14, 16]
 ```
 
-2026-11-02 4 → 2026-11-19 14（+10）
+2026-11-02 4 → 2026-11-20 16（+12）
 
 
 ---

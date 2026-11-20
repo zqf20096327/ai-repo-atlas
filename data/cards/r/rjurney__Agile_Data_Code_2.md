@@ -1,6 +1,6 @@
 # rjurney/Agile_Data_Code_2
 
-⭐ 461 · Jupyter Notebook · MIT · 推送 2026-02-11 · [GitHub](https://github.com/rjurney/Agile_Data_Code_2) · [官网](http://bit.ly/agile_data_science) · 个人维护
+⭐ 460 · Jupyter Notebook · MIT · 推送 2026-02-11 · [GitHub](https://github.com/rjurney/Agile_Data_Code_2) · [官网](http://bit.ly/agile_data_science) · 个人维护
 
 **《Agile Data Science 2.0》书籍配套示例代码库**
 
@@ -45,12 +45,12 @@ O'Reilly 2017 年《Agile Data Science 2.0》一书的配套源代码仓库。�
 ```mermaid
 xychart-beta
     title "rjurney/Agile_Data_Code_2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 459 --> 462
-    line [461, 460, 461, 461]
+    line [461, 460, 461, 460]
 ```
 
-2026-10-18 461 → 2026-11-19 461（+0）
+2026-10-18 461 → 2026-11-20 460（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # exiw-ai/proofloop
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/exiw-ai/proofloop) · 组织维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/exiw-ai/proofloop) · 组织维护
 
 **编排编码 agent 自主运行至验证完成的 CLI 编排器**
 
@@ -46,12 +46,12 @@ Proofloop 是一个 Python 3.12+ 的 AI agent 编排器，用于长时间编码�
 ```mermaid
 xychart-beta
     title "exiw-ai/proofloop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 36 --> 39
+    line [38, 37]
 ```
 
-2026-10-18 38 → 2026-11-19 38（+0）
+2026-10-18 38 → 2026-11-20 37（-1）
 
 
 ---

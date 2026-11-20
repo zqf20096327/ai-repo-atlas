@@ -44,13 +44,13 @@ ProGraML 提供语言无关的程序图表示，把 C、C++、LLVM-IR（3.8/6.0/
 
 ```mermaid
 xychart-beta
-    title "ChrisCummins/ProGraML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "ChrisCummins/ProGraML 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 331 --> 334
-    line [333, 332]
+    line [333, 332, 332]
 ```
 
-2026-10-18 333 → 2026-11-19 332（-1）
+2026-10-18 333 → 2026-11-20 332（-1）
 
 
 ---

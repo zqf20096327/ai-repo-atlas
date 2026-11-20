@@ -45,13 +45,13 @@ Ryoma 是一个 Python AI 数据 Agent 框架，提供 SQL Agent 等能力：连
 
 ```mermaid
 xychart-beta
-    title "project-ryoma/ryoma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "project-ryoma/ryoma 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 403 --> 406
-    line [405, 404]
+    line [405, 404, 404]
 ```
 
-2026-10-18 405 → 2026-11-19 404（-1）
+2026-10-18 405 → 2026-11-20 404（-1）
 
 
 ---

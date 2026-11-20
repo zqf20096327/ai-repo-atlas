@@ -1,6 +1,6 @@
 # microsoft/LLM-Rubric
 
-⭐ 45 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/microsoft/LLM-Rubric) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/microsoft/LLM-Rubric) · 组织维护
 
 **面向研究者的 LLM 文本多维评估框架（ACL 2024 论文代码）**
 
@@ -45,12 +45,12 @@ LLM-Rubric 论文的官方代码库：用人工构建的 rubric 描述多维度�
 ```mermaid
 xychart-beta
     title "microsoft/LLM-Rubric 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
     y-axis "stars" 44 --> 47
-    line [46, 45, 45]
+    line [46, 45, 46]
 ```
 
-2026-10-18 46 → 2026-11-19 45（-1）
+2026-10-18 46 → 2026-11-20 46（+0）
 
 
 ---

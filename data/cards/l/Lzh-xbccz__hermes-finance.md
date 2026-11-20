@@ -1,6 +1,6 @@
 # Lzh-xbccz/hermes-finance
 
-⭐ 30 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/Lzh-xbccz/hermes-finance) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/Lzh-xbccz/hermes-finance) · 个人维护 · 中文 README
 
 **面向 AI Agent 的多市场金融分析框架（MCP+Skills）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lzh-xbccz/hermes-finance 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 29, 30]
+    title "Lzh-xbccz/hermes-finance 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 30, 29, 30, 31]
 ```
 
-2026-10-18 28 → 2026-11-19 30（+2）
+2026-10-18 28 → 2026-11-20 31（+3）
 
 
 ---

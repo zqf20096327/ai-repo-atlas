@@ -1,6 +1,6 @@
 # tensorflow/cloud
 
-⭐ 380 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/tensorflow/cloud) · [官网](https://github.com/tensorflow/cloud) · 组织维护
+⭐ 379 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/tensorflow/cloud) · [官网](https://github.com/tensorflow/cloud) · 组织维护
 
 **把本地 Keras/TF 训练代码一键转为 GCP 分布式云训练的 API**
 
@@ -45,12 +45,12 @@ TensorFlow 官方仓库（已声明 DEPRECATED）提供的 Python API：通过 r
 ```mermaid
 xychart-beta
     title "tensorflow/cloud 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
     y-axis "stars" 378 --> 381
-    line [379, 380, 380]
+    line [379, 380, 379]
 ```
 
-2026-10-18 379 → 2026-11-19 380（+1）
+2026-10-18 379 → 2026-11-20 379（+0）
 
 
 ---

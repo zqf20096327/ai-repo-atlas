@@ -1,6 +1,6 @@
 # SIMARSINGHRAYAT/LINUX-SHORTCUT-CENTER
 
-⭐ 71 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/SIMARSINGHRAYAT/LINUX-SHORTCUT-CENTER) · [官网](https://linux-shortcut-center.vercel.app) · 个人维护
+⭐ 72 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/SIMARSINGHRAYAT/LINUX-SHORTCUT-CENTER) · [官网](https://linux-shortcut-center.vercel.app) · 个人维护
 
 **Linux 终端命令与 AI 桌面应用安装指引的策展中心**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SIMARSINGHRAYAT/LINUX-SHORTCUT-CENTER 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 54 --> 72
-    line [55, 65, 66, 67, 68, 69, 70, 71, 71]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 54 --> 73
+    line [55, 65, 66, 67, 68, 69, 70, 71, 72]
 ```
 
-2026-11-08 55 → 2026-11-19 71（+16）
+2026-11-08 55 → 2026-11-20 72（+17）
 
 
 ---

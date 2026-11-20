@@ -1,6 +1,6 @@
 # elbruno/weekly-ai-news-digest
 
-⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/elbruno/weekly-ai-news-digest) · [官网](https://elbruno.github.io/weekly-ai-news-digest) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/elbruno/weekly-ai-news-digest) · [官网](https://elbruno.github.io/weekly-ai-news-digest) · 个人维护
 
 **用 GitHub Agentic Workflows 每日自动生成的 AI 新闻摘要站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elbruno/weekly-ai-news-digest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

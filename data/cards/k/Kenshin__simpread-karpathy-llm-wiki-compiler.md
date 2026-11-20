@@ -1,6 +1,6 @@
 # Kenshin/simpread-karpathy-llm-wiki-compiler
 
-⭐ 35 · HTML · MIT · 推送 2026-06-12 · [GitHub](https://github.com/Kenshin/simpread-karpathy-llm-wiki-compiler) · [官网](https://simpread.pro) · 个人维护 · 中文 README
+⭐ 36 · HTML · MIT · 推送 2026-06-12 · [GitHub](https://github.com/Kenshin/simpread-karpathy-llm-wiki-compiler) · [官网](https://simpread.pro) · 个人维护 · 中文 README
 
 **把本地 Markdown 剪藏编译为个人结构化 Wiki 的 AI 协议方案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kenshin/simpread-karpathy-llm-wiki-compiler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-11-19 35（+1）
+2026-10-18 34 → 2026-11-20 36（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # TalEliyahu/awesome-business-of-cybersecurity
 
-⭐ 97 · 推送 2026-05-04 · [GitHub](https://github.com/TalEliyahu/awesome-business-of-cybersecurity) · [官网](https://cyber-biz.com/) · 个人维护
+⭐ 96 · 推送 2026-05-04 · [GitHub](https://github.com/TalEliyahu/awesome-business-of-cybersecurity) · [官网](https://cyber-biz.com/) · 个人维护
 
 **网络安全市场商业分析策展清单：上市公司、投资与并购**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TalEliyahu/awesome-business-of-cybersecurity 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 94 --> 98
-    line [95, 97, 97]
+    line [95, 97, 96]
 ```
 
-2026-10-18 95 → 2026-11-19 97（+2）
+2026-10-18 95 → 2026-11-20 96（+1）
 
 
 ---

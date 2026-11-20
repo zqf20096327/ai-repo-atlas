@@ -1,6 +1,6 @@
 # tomkam1702/OCR-Translator
 
-⭐ 81 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/tomkam1702/OCR-Translator) · [官网](https://tomkam1702.github.io/OCR-Translator/) · 个人维护
+⭐ 82 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/tomkam1702/OCR-Translator) · [官网](https://tomkam1702.github.io/OCR-Translator/) · 个人维护
 
 **给玩家的实时屏幕字幕翻译与离线 AI 配音桌面应用**
 
@@ -46,12 +46,12 @@ Game-Changing Translator (GCT) 是面向游戏/影视内容的桌面应用：通
 ```mermaid
 xychart-beta
     title "tomkam1702/OCR-Translator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 78 --> 83
-    line [79, 81, 82, 81, 81]
+    line [79, 81, 82, 81, 82]
 ```
 
-2026-10-18 79 → 2026-11-19 81（+2）
+2026-10-18 79 → 2026-11-20 82（+3）
 
 
 ---

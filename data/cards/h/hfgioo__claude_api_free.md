@@ -1,6 +1,6 @@
 # hfgioo/claude_api_free
 
-⭐ 11 · Python · MIT · 推送 2025-12-21 · [GitHub](https://github.com/hfgioo/claude_api_free) · [官网](https://api.qidianai.xyz) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向国内用户的 AI API 中转服务：免费/付费模型接口**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Endrx2008/skorpion_os
 
-⭐ 16 · 推送 2026-11-05 · [GitHub](https://github.com/Endrx2008/skorpion_os) · [官网](https://skossite.pages.dev) · 个人维护
+⭐ 16 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Endrx2008/skorpion_os) · [官网](https://skossite.pages.dev) · 个人维护
 
 **内置本地 AI 助手的轻量级 Linux 发行版**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-8g` | |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Endrx2008/skorpion_os 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-11-02 15 → 2026-11-19 16（+1）
+2026-11-02 15 → 2026-11-20 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/modular-workshops
 
-⭐ 14 · Jupyter Notebook · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/modular-workshops) · 组织维护
+⭐ 15 · Jupyter Notebook · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/modular-workshops) · 组织维护
 
 **LangChain/LangGraph/DeepAgents 实操教程仓库（模块化工作坊）**
 
@@ -45,12 +45,12 @@ LangChain 官方团队维护的动手教程仓库，是 LangChain Academy 的精
 ```mermaid
 xychart-beta
     title "langchain-ai/modular-workshops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 15（+1）
 
 
 ---

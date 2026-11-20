@@ -1,6 +1,6 @@
 # NeoLabs-Systems/NeoAgent
 
-⭐ 27 · JavaScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/NeoLabs-Systems/NeoAgent) · [官网](https://neolabs-systems.github.io/NeoAgent/) · 组织维护
+⭐ 27 · JavaScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/NeoLabs-Systems/NeoAgent) · [官网](https://neolabs-systems.github.io/NeoAgent/) · 组织维护
 
 **自托管的个人 AI agent：自动化、消息、设备控制**
 
@@ -47,12 +47,12 @@ NeoLabs Systems 开发的自托管个人 AI agent，运行在用户自有硬件�
 ```mermaid
 xychart-beta
     title "NeoLabs-Systems/NeoAgent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
     y-axis "stars" 22 --> 28
     line [23, 24, 23, 26, 27, 27]
 ```
 
-2026-10-18 23 → 2026-11-19 27（+4）
+2026-10-18 23 → 2026-11-20 27（+4）
 
 
 ---

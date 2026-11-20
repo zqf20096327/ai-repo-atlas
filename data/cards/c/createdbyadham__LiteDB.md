@@ -42,6 +42,18 @@ Tauri + Rust + React 构建的桌面数据库客户端，支持 SQLite 原生读
 > L56: - **AI Agent (Text-to-SQL)**: Turn natural language into SQL queries.
 > L59: - **MCP**: Settings → **Agents**, or the status-bar **MCP** chip. Claude Desktop / Claude Code / Cursor / OpenCode 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "createdbyadham/LiteDB 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `65a36bde5fa5` · [字段定义](../../DATASET.md)*

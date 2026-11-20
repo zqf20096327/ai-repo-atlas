@@ -1,6 +1,6 @@
 # loli/medpy
 
-⭐ 625 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/loli/medpy) · [官网](http://loli.github.io/medpy/) · 个人维护
+⭐ 623 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/loli/medpy) · [官网](http://loli.github.io/medpy/) · 个人维护
 
 **面向医学高维图像的 Python 图像处理库与脚本集**
 
@@ -43,12 +43,12 @@ MedPy 是针对医学（高维）图像的图像处理库，附带一组处理�
 ```mermaid
 xychart-beta
     title "loli/medpy 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-19"]
-    y-axis "stars" 624 --> 626
-    line [625, 625]
+    x-axis ["2026-11-14", "2026-11-20"]
+    y-axis "stars" 622 --> 626
+    line [625, 623]
 ```
 
-2026-11-14 625 → 2026-11-19 625（+0）
+2026-11-14 625 → 2026-11-20 623（-2）
 
 
 ---

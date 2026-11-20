@@ -1,6 +1,6 @@
 # delltrak/wamcp
 
-⭐ 29 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/delltrak/wamcp) · 个人维护
+⭐ 30 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/delltrak/wamcp) · 个人维护
 
 **让 AI agent 通过 MCP 接入 WhatsApp 的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "delltrak/wamcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 24 --> 30
-    line [25, 26, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 28, 29, 30]
 ```
 
-2026-10-18 25 → 2026-11-19 29（+4）
+2026-10-18 25 → 2026-11-20 30（+5）
 
 
 ---

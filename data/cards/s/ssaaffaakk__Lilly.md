@@ -1,6 +1,6 @@
 # ssaaffaakk/Lilly
 
-⭐ 102 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ssaaffaakk/Lilly) · [官网](https://github.com/ssaaffaakk/Lilly) · 个人维护
+⭐ 94 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ssaaffaakk/Lilly) · [官网](https://github.com/ssaaffaakk/Lilly) · 个人维护
 
 **离线波斯尼亚语–英语双向翻译助手：打字/语音/拍照输入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ssaaffaakk/Lilly 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 96 --> 177
-    line [171, 159, 158, 105, 102, 102]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 87 --> 178
+    line [171, 159, 158, 105, 102, 94]
 ```
 
-2026-10-18 171 → 2026-11-19 102（-69）
+2026-10-18 171 → 2026-11-20 94（-77）
 
 
 ---

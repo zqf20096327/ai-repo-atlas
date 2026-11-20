@@ -1,6 +1,6 @@
 # lavishguptaa/llm-architecture-atlas
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lavishguptaa/llm-architecture-atlas) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lavishguptaa/llm-architecture-atlas) · 个人维护
 
 **96 个 LLM 架构的从零 PyTorch 实现合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lavishguptaa/llm-architecture-atlas 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-14", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-14 10 → 2026-11-19 10（+0）
+2026-11-14 10 → 2026-11-20 11（+1）
 
 
 ---

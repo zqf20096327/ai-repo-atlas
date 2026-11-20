@@ -1,6 +1,6 @@
 # agentteamhq/agentteam-email
 
-⭐ 58 · TypeScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/agentteamhq/agentteam-email) · [官网](https://www.agentteam.email) · 组织维护
+⭐ 51 · TypeScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/agentteamhq/agentteam-email) · [官网](https://www.agentteam.email) · 组织维护
 
 **为 AI agent 提供专属邮箱与收发邮件基础设施的自托管平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agentteamhq/agentteam-email 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 57 --> 61
-    line [60, 59, 58, 58]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 50 --> 61
+    line [60, 59, 58, 51]
 ```
 
-2026-10-18 60 → 2026-11-19 58（-2）
+2026-10-18 60 → 2026-11-20 51（-9）
 
 
 ---

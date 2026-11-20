@@ -1,6 +1,6 @@
 # sherwinvishesh/SurrogateShield
 
-⭐ 1,055 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/sherwinvishesh/SurrogateShield) · [官网](https://sherwinvishesh.github.io/SurrogateShield/) · 个人维护
+⭐ 984 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/sherwinvishesh/SurrogateShield) · [官网](https://sherwinvishesh.github.io/SurrogateShield/) · 个人维护
 
 **LLM/RAG 管道的 PII 防护栏：检测、替换、还原敏感数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sherwinvishesh/SurrogateShield 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 354 --> 1118
-    line [417, 626, 702, 784, 862, 926, 1055, 1055]
+    line [417, 626, 702, 784, 862, 926, 1055, 984]
 ```
 
-2026-11-08 417 → 2026-11-19 1,055（+638）
+2026-11-08 417 → 2026-11-20 984（+567）
 
 
 ---

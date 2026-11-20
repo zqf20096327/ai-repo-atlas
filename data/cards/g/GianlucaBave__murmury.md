@@ -1,6 +1,6 @@
 # GianlucaBave/murmury
 
-⭐ 27 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/GianlucaBave/murmury) · [官网](https://murmury.pages.dev) · 个人维护
+⭐ 27 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/GianlucaBave/murmury) · [官网](https://murmury.pages.dev) · 个人维护
 
 **视频通话期间从自有文档实时生成答案、屏幕共享不可见的 Mac 工具**
 
@@ -45,13 +45,13 @@ macOS（Apple Silicon）桌面应用：通过 ScreenCaptureKit 在本机捕获�
 
 ```mermaid
 xychart-beta
-    title "GianlucaBave/murmury 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    title "GianlucaBave/murmury 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 9 --> 28
-    line [10, 15, 17, 18, 20, 24, 25, 27]
+    line [10, 15, 17, 18, 20, 24, 25, 27, 27]
 ```
 
-2026-11-08 10 → 2026-11-19 27（+17）
+2026-11-08 10 → 2026-11-20 27（+17）
 
 
 ---

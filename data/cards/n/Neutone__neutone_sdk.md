@@ -1,6 +1,6 @@
 # Neutone/neutone_sdk
 
-⭐ 636 · Python · LGPL-2.1 · 推送 2025-12-05 · [GitHub](https://github.com/Neutone/neutone_sdk) · 组织维护
+⭐ 637 · Python · LGPL-2.1 · 推送 2025-12-05 · [GitHub](https://github.com/Neutone/neutone_sdk) · 组织维护
 
 **将 PyTorch 神经音频模型封装为 VST 插件可加载格式的 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Neutone/neutone_sdk 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 632 --> 637
-    line [634, 633, 634, 635, 636, 636]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 632 --> 638
+    line [634, 633, 634, 635, 636, 637]
 ```
 
-2026-10-18 634 → 2026-11-19 636（+2）
+2026-10-18 634 → 2026-11-20 637（+3）
 
 
 ---

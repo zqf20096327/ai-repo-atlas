@@ -1,6 +1,6 @@
 # TrapBladesmith/ai--manus2.0
 
-⭐ 369 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TrapBladesmith/ai--manus2.0) · 个人维护
+⭐ 368 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TrapBladesmith/ai--manus2.0) · 个人维护
 
 **面向日常任务的自主 AI 代理：自动执行代码与浏览器操作**
 
@@ -45,12 +45,12 @@ README 描述一个名为 Manus 的自主 AI 代理，宣称可自行编写并�
 ```mermaid
 xychart-beta
     title "TrapBladesmith/ai--manus2.0 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 368 --> 371
-    line [370, 369, 369]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 367 --> 371
+    line [370, 369, 368]
 ```
 
-2026-11-15 370 → 2026-11-19 369（-1）
+2026-11-15 370 → 2026-11-20 368（-2）
 
 
 ---

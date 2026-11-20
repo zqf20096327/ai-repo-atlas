@@ -1,6 +1,6 @@
 # oil-oil/codex
 
-⭐ 105 · PowerShell · 推送 2026-11-18 · [GitHub](https://github.com/oil-oil/codex) · 个人维护 · 中文 README
+⭐ 107 · PowerShell · 推送 2026-11-18 · [GitHub](https://github.com/oil-oil/codex) · 个人维护 · 中文 README
 
 **让其他 Agent 把 Codex CLI 作为可持续会话的编码子 Agent 的 Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oil-oil/codex 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-19"]
-    y-axis "stars" 103 --> 106
-    line [104, 105]
+    title "oil-oil/codex 星数(近 3 点)"
+    x-axis ["2026-11-14", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 103 --> 108
+    line [104, 105, 107]
 ```
 
-2026-11-14 104 → 2026-11-19 105（+1）
+2026-11-14 104 → 2026-11-20 107（+3）
 
 
 ---

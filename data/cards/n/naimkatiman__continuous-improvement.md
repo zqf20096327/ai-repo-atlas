@@ -41,6 +41,18 @@
 > L30: > **What this is *not*:** a prompt template, a `CLAUDE.md`, or a vibes-based reminder. It is a runtime hook (`hooks
 > L34: Claude Code is powerful but leaves intelligence on the table: it edits before reading, guesses instead of checking,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "naimkatiman/continuous-improvement 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `0522b4cc4ac7` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # bastion-soft/pi-detector-bench
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/bastion-soft/pi-detector-bench) · 组织维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/bastion-soft/pi-detector-bench) · 组织维护
 
 **提示注入检测器的双轴开源基准：测捕获率与误报**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bastion-soft/pi-detector-bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

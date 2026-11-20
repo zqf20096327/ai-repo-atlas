@@ -1,6 +1,6 @@
 # argonne-lcf/ChemGraph
 
-⭐ 172 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/argonne-lcf/ChemGraph) · [官网](https://argonne-lcf.github.io/ChemGraph/) · 组织维护
+⭐ 172 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/argonne-lcf/ChemGraph) · [官网](https://argonne-lcf.github.io/ChemGraph/) · 组织维护
 
 **计算化学与材料科学的 Agent 框架：自然语言驱动分子构建、模拟与分析**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "argonne-lcf/ChemGraph 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20"]
     y-axis "stars" 165 --> 174
     line [166, 167, 168, 169, 167, 171, 172, 173, 172, 172]
 ```
 
-2026-10-18 166 → 2026-11-19 172（+6）
+2026-10-18 166 → 2026-11-20 172（+6）
 
 
 ---

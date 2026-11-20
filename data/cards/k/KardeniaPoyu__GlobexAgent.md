@@ -1,6 +1,6 @@
 # KardeniaPoyu/GlobexAgent
 
-⭐ 17 · Python · 推送 2026-08-30 · [GitHub](https://github.com/KardeniaPoyu/GlobexAgent) · 个人维护 · 中文 README
+⭐ 17 · Python · 推送 2026-11-19 · [GitHub](https://github.com/KardeniaPoyu/GlobexAgent) · 个人维护 · 中文 README
 
 **基于 AgentScope 2.0 的跨境电商多 Agent 对话购物系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KardeniaPoyu/GlobexAgent 星数(近 8 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
     y-axis "stars" 9 --> 18
     line [10, 11, 12, 13, 15, 16, 17, 17]
 ```
 
-2026-10-26 10 → 2026-11-19 17（+7）
+2026-10-26 10 → 2026-11-20 17（+7）
 
 
 ---

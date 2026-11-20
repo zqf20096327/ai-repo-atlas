@@ -1,6 +1,6 @@
 # turtlesoupy/this-word-does-not-exist
 
-⭐ 1,023 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/turtlesoupy/this-word-does-not-exist) · [官网](https://www.thisworddoesnotexist.com) · 个人维护
+⭐ 1,022 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/turtlesoupy/this-word-does-not-exist) · [官网](https://www.thisworddoesnotexist.com) · 个人维护
 
 **训练 GPT-2 变体从零生成虚构单词、定义与例句**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "turtlesoupy/this-word-does-not-exist 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 1022 --> 1026
-    line [1025, 1024, 1025, 1024, 1023, 1023]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 1021 --> 1026
+    line [1025, 1024, 1025, 1024, 1023, 1022]
 ```
 
-2026-10-18 1,025 → 2026-11-19 1,023（-2）
+2026-10-18 1,025 → 2026-11-20 1,022（-3）
 
 
 ---

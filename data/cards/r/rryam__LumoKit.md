@@ -1,6 +1,6 @@
 # rryam/LumoKit
 
-⭐ 131 · Swift · MIT · 推送 2026-08-31 · [GitHub](https://github.com/rryam/LumoKit) · 个人维护 · 中文 README
+⭐ 130 · Swift · MIT · 推送 2026-08-31 · [GitHub](https://github.com/rryam/LumoKit) · 个人维护 · 中文 README
 
 **Swift 端上 RAG 管线库：文档解析→分块→向量索引→语义搜索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rryam/LumoKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 129 --> 132
+    line [131, 130]
 ```
 
-2026-10-18 131 → 2026-11-19 131（+0）
+2026-10-18 131 → 2026-11-20 130（-1）
 
 
 ---

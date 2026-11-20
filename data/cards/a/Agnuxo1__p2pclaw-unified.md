@@ -1,6 +1,6 @@
 # Agnuxo1/p2pclaw-unified
 
-⭐ 13 · TypeScript · 推送 2026-11-11 · [GitHub](https://github.com/Agnuxo1/p2pclaw-unified) · [官网](https://www.p2pclaw.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **去中心化 AI 科研网络 P2PCLAW 的统一前端应用**
 

@@ -1,6 +1,6 @@
 # SAP/agent-quality-inspect
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/SAP/agent-quality-inspect) · [官网](https://sap.github.io/agent-quality-inspect/) · 组织维护
+⭐ 79 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/SAP/agent-quality-inspect) · [官网](https://sap.github.io/agent-quality-inspect/) · 组织维护
 
 **面向用户画像的 agent 评测与自动错误分析工具包**
 
@@ -45,13 +45,13 @@ SAP 开源的 TED（Talk, Evaluate, Diagnose）实现：以自然语言子目标
 
 ```mermaid
 xychart-beta
-    title "SAP/agent-quality-inspect 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-19"]
+    title "SAP/agent-quality-inspect 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 77 --> 81
-    line [79, 78, 79, 80]
+    line [79, 78, 79, 80, 79]
 ```
 
-2026-10-18 79 → 2026-11-19 80（+1）
+2026-10-18 79 → 2026-11-20 79（+0）
 
 
 ---

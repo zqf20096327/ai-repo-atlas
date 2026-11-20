@@ -1,6 +1,6 @@
 # raskr/rust-autograd
 
-⭐ 505 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/raskr/rust-autograd) · 个人维护
+⭐ 503 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/raskr/rust-autograd) · 个人维护
 
 **Rust 张量与反向自动微分库，用于训练神经网络**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raskr/rust-autograd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-20"]
     y-axis "stars" 502 --> 506
-    line [503, 504, 505, 505]
+    line [503, 504, 505, 503]
 ```
 
-2026-10-18 503 → 2026-11-19 505（+2）
+2026-10-18 503 → 2026-11-20 503（+0）
 
 
 ---

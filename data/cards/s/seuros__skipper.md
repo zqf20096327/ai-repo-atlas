@@ -1,6 +1,6 @@
 # seuros/skipper
 
-⭐ 23 · Rust · BSD-2-Clause · 推送 2026-11-17 · [GitHub](https://github.com/seuros/skipper) · 个人维护
+⭐ 24 · Rust · BSD-2-Clause · 推送 2026-11-19 · [GitHub](https://github.com/seuros/skipper) · 个人维护
 
 **面向 agent 的 git/代码托管 MCP 服务器，本地 git 加四大 forge**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seuros/skipper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-19 23（+0）
+2026-10-18 23 → 2026-11-20 24（+1）
 
 
 ---

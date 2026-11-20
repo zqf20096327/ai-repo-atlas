@@ -1,6 +1,6 @@
 # aws/sagemaker-python-sdk
 
-⭐ 2,272 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/aws/sagemaker-python-sdk) · [官网](https://sagemaker.readthedocs.io/) · 组织维护
+⭐ 2,272 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/aws/sagemaker-python-sdk) · [官网](https://sagemaker.readthedocs.io/) · 组织维护
 
 **AWS 官方 Python 库：在 Amazon SageMaker 上训练与部署 ML 模型**
 
@@ -46,12 +46,12 @@ Amazon 维护的开源 Python SDK，用于在 Amazon SageMaker 托管服务上�
 ```mermaid
 xychart-beta
     title "aws/sagemaker-python-sdk 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 2268 --> 2273
     line [2269, 2270, 2269, 2270, 2271, 2272, 2272]
 ```
 
-2026-10-18 2,269 → 2026-11-19 2,272（+3）
+2026-10-18 2,269 → 2026-11-20 2,272（+3）
 
 
 ---

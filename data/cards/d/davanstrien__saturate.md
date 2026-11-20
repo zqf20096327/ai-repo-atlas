@@ -1,6 +1,6 @@
 # davanstrien/saturate
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/davanstrien/saturate) · 个人维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/davanstrien/saturate) · 个人维护
 
 **数据集批量推理工具：行输入、任意 OpenAI 兼容端点、可恢复 parquet 输出**
 
@@ -46,12 +46,12 @@ Python 库 saturate：把数据集每行（或存储桶每文件）送入任意 
 ```mermaid
 xychart-beta
     title "davanstrien/saturate 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20"]
     y-axis "stars" 10 --> 60
     line [14, 43, 49, 53, 54, 55, 56, 56]
 ```
 
-2026-11-02 14 → 2026-11-19 56（+42）
+2026-11-02 14 → 2026-11-20 56（+42）
 
 
 ---

@@ -1,6 +1,6 @@
 # pic-standard/pic-standard
 
-⭐ 75 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/pic-standard/pic-standard) · [官网](https://madeinpluto.com/pic) · 组织维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/pic-standard/pic-standard) · [官网](https://madeinpluto.com/pic) · 组织维护
 
 **AI agent 工具调用前的意图与证据验证标准及参考实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pic-standard/pic-standard 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19"]
+    title "pic-standard/pic-standard 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-20"]
     y-axis "stars" 67 --> 76
-    line [68, 69, 68, 71, 72, 74, 75]
+    line [68, 69, 68, 71, 72, 74, 75, 74]
 ```
 
-2026-10-18 68 → 2026-11-19 75（+7）
+2026-10-18 68 → 2026-11-20 74（+6）
 
 
 ---

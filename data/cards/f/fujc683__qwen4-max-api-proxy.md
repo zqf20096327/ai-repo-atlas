@@ -40,6 +40,18 @@
 > L26: curl -X POST https://api.apimart.ai/v1/chat/completions \
 > L32: OpenAI-compatible: change `base_url` and `model`, keep the rest.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fujc683/qwen4-max-api-proxy 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-19 15 → 2026-11-20 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `83cf53c6a6c6` · [字段定义](../../DATASET.md)*

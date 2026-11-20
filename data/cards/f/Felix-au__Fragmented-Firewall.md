@@ -1,6 +1,6 @@
 # Felix-au/Fragmented-Firewall
 
-⭐ 19 · TypeScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/Felix-au/Fragmented-Firewall) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/Felix-au/Fragmented-Firewall) · 个人维护
 
 **有状态 AI 入侵防御系统：重组 TCP 分片并用深度学习拦截恶意载荷**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Felix-au/Fragmented-Firewall 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
     y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    line [18, 19, 18]
 ```
 
-2026-10-18 18 → 2026-11-19 19（+1）
+2026-10-18 18 → 2026-11-20 18（+0）
 
 
 ---

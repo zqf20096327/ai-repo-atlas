@@ -1,6 +1,6 @@
 # xiaoyiweb/YiAi
 
-⭐ 157 · Vue · MIT · 推送 2026-05-11 · [GitHub](https://github.com/xiaoyiweb/YiAi) · 个人维护 · 中文 README
+⭐ 156 · Vue · MIT · 推送 2026-05-11 · [GitHub](https://github.com/xiaoyiweb/YiAi) · 个人维护 · 中文 README
 
 **自托管 AI 对话平台：聚合 GPT/Claude/MJ 等模型的 ChatWeb**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiaoyiweb/YiAi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 156 --> 158
-    line [157, 157]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 155 --> 158
+    line [157, 156]
 ```
 
-2026-10-18 157 → 2026-11-19 157（+0）
+2026-10-18 157 → 2026-11-20 156（-1）
 
 
 ---

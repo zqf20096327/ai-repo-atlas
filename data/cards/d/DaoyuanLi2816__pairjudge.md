@@ -1,6 +1,6 @@
 # DaoyuanLi2816/pairjudge
 
-⭐ 170 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/DaoyuanLi2816/pairjudge) · [官网](https://pypi.org/project/pairjudge/) · 个人维护
+⭐ 171 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/DaoyuanLi2816/pairjudge) · [官网](https://pypi.org/project/pairjudge/) · 个人维护
 
 **成对偏好评判库：判定 A 胜/B 胜/平局并做位置偏差校正**
 
@@ -46,12 +46,12 @@ Python 库与 CLI，输入一个 prompt 与两个回答，输出 A/B/tie 三类�
 ```mermaid
 xychart-beta
     title "DaoyuanLi2816/pairjudge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 169 --> 171
-    line [170, 170]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 169 --> 172
+    line [170, 171]
 ```
 
-2026-10-18 170 → 2026-11-19 170（+0）
+2026-10-18 170 → 2026-11-20 171（+1）
 
 
 ---

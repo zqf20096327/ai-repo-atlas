@@ -1,6 +1,6 @@
 # L01nki1/extend-slides
 
-⭐ 18 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/L01nki1/extend-slides) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/L01nki1/extend-slides) · 个人维护 · 中文 README
 
 **把课件/讲义/录音转写扩展成中文复习讲解文档的 agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "L01nki1/extend-slides 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 14 --> 20
+    line [15, 16, 17, 18, 19]
 ```
 
-2026-10-18 15 → 2026-11-19 18（+3）
+2026-10-18 15 → 2026-11-20 19（+4）
 
 
 ---

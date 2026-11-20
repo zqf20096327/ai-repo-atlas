@@ -1,6 +1,6 @@
 # SENATOROVAI/gradient-descent-sgd-solver-course
 
-⭐ 15 · Jupyter Notebook · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/gradient-descent-sgd-solver-course) · [官网](https://SenatorovAI.com) · 个人维护
+⭐ 16 · Jupyter Notebook · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/gradient-descent-sgd-solver-course) · [官网](https://SenatorovAI.com) · 个人维护
 
 **教学项目：用 Python 从零实现梯度下降与 SGD 求解器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SENATOROVAI/gradient-descent-sgd-solver-course 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 14 --> 17
-    line [16, 15, 16, 15, 15]
+    line [16, 15, 16, 15, 16]
 ```
 
-2026-10-18 16 → 2026-11-19 15（-1）
+2026-10-18 16 → 2026-11-20 16（+0）
 
 
 ---

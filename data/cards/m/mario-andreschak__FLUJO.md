@@ -1,6 +1,6 @@
 # mario-andreschak/FLUJO
 
-⭐ 675 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mario-andreschak/FLUJO) · [官网](https://try.flujo.com.co) · 个人维护
+⭐ 676 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mario-andreschak/FLUJO) · [官网](https://try.flujo.com.co) · 个人维护
 
 **可视化构建并本地运行私有 AI agent 的开源工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mario-andreschak/FLUJO 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 662 --> 676
-    line [663, 665, 668, 669, 670, 665, 673, 675, 675]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 662 --> 677
+    line [663, 665, 668, 669, 670, 665, 673, 675, 676]
 ```
 
-2026-10-18 663 → 2026-11-19 675（+12）
+2026-10-18 663 → 2026-11-20 676（+13）
 
 
 ---

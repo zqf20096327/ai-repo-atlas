@@ -1,6 +1,6 @@
 # gfernandf/agent-skills
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/gfernandf/agent-skills) · [官网](https://gfernandf.github.io/agent-skills/) · 个人维护
+⭐ 88 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/gfernandf/agent-skills) · [官网](https://gfernandf.github.io/agent-skills/) · 个人维护
 
 **把 agent 推理逻辑封装为可执行技能的运行时（ORCA 参考实现）**
 
@@ -46,13 +46,13 @@ Agent Skills Runtime 是 ORCA（Open Cognitive Runtime Architecture）的参考�
 
 ```mermaid
 xychart-beta
-    title "gfernandf/agent-skills 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 72 --> 87
-    line [73, 74, 75, 73, 79, 81, 82, 84, 85, 86]
+    title "gfernandf/agent-skills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 72 --> 89
+    line [73, 74, 75, 73, 79, 81, 82, 84, 85, 86, 88]
 ```
 
-2026-10-18 73 → 2026-11-19 86（+13）
+2026-10-18 73 → 2026-11-20 88（+15）
 
 
 ---

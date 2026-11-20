@@ -1,6 +1,6 @@
 # tonikriegers14-hue/ai--manus
 
-⭐ 194 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tonikriegers14-hue/ai--manus) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tonikriegers14-hue/ai--manus) · 个人维护
 
 **自主 AI Agent：代用户执行代码与控制浏览器完成任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tonikriegers14-hue/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 135 --> 269
-    line [146, 258, 194, 194]
+    line [146, 258, 194, 193]
 ```
 
-2026-11-13 146 → 2026-11-19 194（+48）
+2026-11-13 146 → 2026-11-20 193（+47）
 
 
 ---

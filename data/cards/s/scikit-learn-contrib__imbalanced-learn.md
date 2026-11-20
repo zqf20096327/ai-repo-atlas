@@ -1,6 +1,6 @@
 # scikit-learn-contrib/imbalanced-learn
 
-⭐ 7,141 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/scikit-learn-contrib/imbalanced-learn) · [官网](https://imbalanced-learn.org) · 组织维护
+⭐ 7,139 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/scikit-learn-contrib/imbalanced-learn) · [官网](https://imbalanced-learn.org) · 组织维护
 
 **处理类别不平衡数据的 Python 重采样工具箱**
 
@@ -45,12 +45,12 @@ imbalanced-learn 是 scikit-learn-contrib 下的 Python 包，提供针对类别
 ```mermaid
 xychart-beta
     title "scikit-learn-contrib/imbalanced-learn 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-20"]
     y-axis "stars" 7128 --> 7142
-    line [7129, 7130, 7131, 7132, 7135, 7134, 7131, 7137, 7139, 7140, 7141, 7141]
+    line [7129, 7130, 7131, 7132, 7135, 7134, 7131, 7137, 7139, 7140, 7141, 7139]
 ```
 
-2026-10-18 7,129 → 2026-11-19 7,141（+12）
+2026-10-18 7,129 → 2026-11-20 7,139（+10）
 
 
 ---

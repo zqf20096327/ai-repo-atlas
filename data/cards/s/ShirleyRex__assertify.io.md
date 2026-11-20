@@ -1,6 +1,6 @@
 # ShirleyRex/assertify.io
 
-⭐ 121 · TypeScript · 推送 2026-03-15 · [GitHub](https://github.com/ShirleyRex/assertify.io) · [官网](https://assertify.io) · 个人维护
+⭐ 120 · TypeScript · 推送 2026-03-15 · [GitHub](https://github.com/ShirleyRex/assertify.io) · [官网](https://assertify.io) · 个人维护
 
 **输入项目描述，AI 生成测试策略与多框架样板代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ShirleyRex/assertify.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 119 --> 122
+    line [121, 120]
 ```
 
-2026-10-18 121 → 2026-11-19 121（+0）
+2026-10-18 121 → 2026-11-20 120（-1）
 
 
 ---

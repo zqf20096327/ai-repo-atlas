@@ -1,6 +1,6 @@
 # oblien/mindwire
 
-⭐ 45 · Swift · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/oblien/mindwire) · [官网](https://mindwire.sh) · 组织维护
+⭐ 46 · Swift · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/oblien/mindwire) · [官网](https://mindwire.sh) · 组织维护
 
 **给产品开发者的白标 agent harness 集成 SDK 与运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oblien/mindwire 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 16 --> 47
-    line [18, 43, 44, 45, 45]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 16 --> 48
+    line [18, 43, 44, 45, 46]
 ```
 
-2026-11-02 18 → 2026-11-19 45（+27）
+2026-11-02 18 → 2026-11-20 46（+28）
 
 
 ---

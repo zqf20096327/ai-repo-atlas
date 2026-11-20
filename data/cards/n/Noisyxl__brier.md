@@ -1,6 +1,6 @@
 # Noisyxl/brier
 
-⭐ 116 · HTML · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Noisyxl/brier) · [官网](brier.watch) · 个人维护
+⭐ 111 · HTML · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Noisyxl/brier) · [官网](brier.watch) · 个人维护
 
 **面向 LLM 的预测记账本：事前密封概率、事后按评分规则判分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Noisyxl/brier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 115 --> 117
-    line [116, 116]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 110 --> 117
+    line [116, 111]
 ```
 
-2026-10-18 116 → 2026-11-19 116（+0）
+2026-10-18 116 → 2026-11-20 111（-5）
 
 
 ---

@@ -1,6 +1,6 @@
 # AlayaDB-AI/AlayaLite
 
-⭐ 211 · C++ · AGPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/AlayaDB-AI/AlayaLite) · [官网](http://www.alayadb.tech/) · 组织维护
+⭐ 210 · C++ · AGPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/AlayaDB-AI/AlayaLite) · [官网](http://www.alayadb.tech/) · 组织维护
 
 **面向所有人的轻量级 Python 向量数据库，含内存与磁盘双索引路径**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AlayaDB-AI/AlayaLite 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 208 --> 212
-    line [209, 210, 211, 210, 211, 211]
+    line [209, 210, 211, 210, 211, 210]
 ```
 
-2026-10-18 209 → 2026-11-19 211（+2）
+2026-10-18 209 → 2026-11-20 210（+1）
 
 
 ---

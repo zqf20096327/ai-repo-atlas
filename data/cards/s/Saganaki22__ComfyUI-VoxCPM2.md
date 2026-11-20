@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-VoxCPM2
 
-⭐ 206 · Python · Apache-2.0 · 推送 2026-04-12 · [GitHub](https://github.com/Saganaki22/ComfyUI-VoxCPM2) · [官网](https://huggingface.co/openbmb/VoxCPM2) · 个人维护 · 中文 README
+⭐ 207 · Python · Apache-2.0 · 推送 2026-04-12 · [GitHub](https://github.com/Saganaki22/ComfyUI-VoxCPM2) · [官网](https://huggingface.co/openbmb/VoxCPM2) · 个人维护 · 中文 README
 
 **ComfyUI 的 VoxCPM2 文本转语音节点：30 语言合成、克隆与 LoRA 训练**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Saganaki22/ComfyUI-VoxCPM2 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 201 --> 207
-    line [202, 204, 205, 206, 206]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 201 --> 208
+    line [202, 204, 205, 206, 207]
 ```
 
-2026-10-18 202 → 2026-11-19 206（+4）
+2026-10-18 202 → 2026-11-20 207（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # kh0pper/crow
 
-⭐ 27 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kh0pper/crow) · [官网](https://maestro.press/software/crow/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管的模块化 Agent 框架与 MCP 平台，连接自有 AI 客户端**
 
@@ -11,7 +11,7 @@ Crow 是可自托管的开源 agentic 框架兼 MCP 平台，基于 Model Contex
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

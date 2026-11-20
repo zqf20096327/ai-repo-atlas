@@ -1,6 +1,6 @@
 # Zulko/easyAI
 
-⭐ 664 · Python · NOASSERTION · 推送 2026-01-20 · [GitHub](https://github.com/Zulko/easyAI) · [官网](http://zulko.github.io/easyAI/) · 个人维护
+⭐ 663 · Python · NOASSERTION · 推送 2026-01-20 · [GitHub](https://github.com/Zulko/easyAI) · [官网](http://zulko.github.io/easyAI/) · 个人维护
 
 **双人抽象博弈的 Python AI 框架：定义游戏规则并对抗/求解**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Zulko/easyAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-20"]
     y-axis "stars" 662 --> 667
-    line [666, 663, 664, 664]
+    line [666, 663, 664, 663]
 ```
 
-2026-10-18 666 → 2026-11-19 664（-2）
+2026-10-18 666 → 2026-11-20 663（-3）
 
 
 ---

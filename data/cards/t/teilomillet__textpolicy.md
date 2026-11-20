@@ -45,12 +45,12 @@ TextPolicy 是面向 Apple Silicon MLX 框架的文本生成强化学习工具�
 ```mermaid
 xychart-beta
     title "teilomillet/textpolicy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 14（+0）
 
 
 ---

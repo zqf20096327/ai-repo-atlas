@@ -1,6 +1,6 @@
 # janosh/pymatviz
 
-⭐ 341 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/janosh/pymatviz) · [官网](https://janosh.github.io/pymatviz) · 个人维护
+⭐ 341 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/janosh/pymatviz) · [官网](https://janosh.github.io/pymatviz) · 个人维护
 
 **材料信息学可视化 Python 工具库，覆盖元素周期表到晶体结构**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "janosh/pymatviz 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 338 --> 342
     line [339, 340, 339, 340, 341, 341]
 ```
 
-2026-10-18 339 → 2026-11-19 341（+2）
+2026-10-18 339 → 2026-11-20 341（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Dawncoral/wallaby-agent-rules
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/Dawncoral/wallaby-agent-rules) · 个人维护 · 中文 README
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Dawncoral/wallaby-agent-rules) · 个人维护 · 中文 README
 
 **给 AI 编码工具的文件式长期记忆与项目地图系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dawncoral/wallaby-agent-rules 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 14（+0）
 
 
 ---

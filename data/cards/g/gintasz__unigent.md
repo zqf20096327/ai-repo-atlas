@@ -1,6 +1,6 @@
 # gintasz/unigent
 
-⭐ 103 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/gintasz/unigent) · 个人维护
+⭐ 100 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/gintasz/unigent) · 个人维护
 
 **TypeScript 跨 CLI 的有状态 agent 工作流 SDK**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gintasz/unigent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 101 --> 104
-    line [103, 102, 103, 103]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 99 --> 104
+    line [103, 102, 103, 100]
 ```
 
-2026-10-18 103 → 2026-11-19 103（+0）
+2026-10-18 103 → 2026-11-20 100（-3）
 
 
 ---

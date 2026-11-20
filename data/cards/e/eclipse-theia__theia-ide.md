@@ -1,6 +1,6 @@
 # eclipse-theia/theia-ide
 
-⭐ 620 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/eclipse-theia/theia-ide) · [官网](https://theia-ide.org/) · 组织维护
+⭐ 620 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/eclipse-theia/theia-ide) · [官网](https://theia-ide.org/) · 组织维护
 
 **面向云与桌面的开源 AI IDE，支持自带 LLM 密钥**
 
@@ -39,6 +39,18 @@ Eclipse Theia IDE 是基于 Theia 平台构建的开源 IDE，提供桌面安装
 > L24: The Eclipse Theia IDE is a modern and open IDE for cloud and desktop. The Theia IDE is based on the Theia platform.
 > L25: The Theia IDE is available as a downloadable desktop application. You can also try the latest version of the Theia 
 > L27: The Eclipse Theia IDE also serves as a **template** for building desktop-based products based on the Eclipse Theia 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eclipse-theia/theia-ide 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 619 --> 621
+    line [620, 620]
+```
+
+2026-11-19 620 → 2026-11-20 620（+0）
 
 
 ---

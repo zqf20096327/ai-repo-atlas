@@ -1,6 +1,6 @@
 # derBelonix/manus--ai
 
-⭐ 192 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/derBelonix/manus--ai) · 个人维护
+⭐ 191 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/derBelonix/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 
@@ -45,12 +45,12 @@ README 描述的 Manus 是面向家庭、学习与轻量办公场景的自主 AI
 ```mermaid
 xychart-beta
     title "derBelonix/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 119 --> 277
-    line [132, 264, 192, 192]
+    line [132, 264, 192, 191]
 ```
 
-2026-11-13 132 → 2026-11-19 192（+60）
+2026-11-13 132 → 2026-11-20 191（+59）
 
 
 ---

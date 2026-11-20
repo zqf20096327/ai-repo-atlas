@@ -1,6 +1,6 @@
 # viztor/dsh-opencode-patch
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/viztor/dsh-opencode-patch) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/viztor/dsh-opencode-patch) · 个人维护
 
 **DSH 插件：让 OpenCode Zen/Go 模型在 DeepSeek Harness 中正常工作**
 
@@ -45,13 +45,13 @@ dsh-opencode-patch 是 DeepSeek Harness（DSH）的宿主插件，修复 DSH 直
 
 ```mermaid
 xychart-beta
-    title "viztor/dsh-opencode-patch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    title "viztor/dsh-opencode-patch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 4 --> 11
-    line [5, 6, 7, 8, 6, 9, 10]
+    line [5, 6, 7, 8, 6, 9, 10, 10]
 ```
 
-2026-10-18 5 → 2026-11-19 10（+5）
+2026-10-18 5 → 2026-11-20 10（+5）
 
 
 ---

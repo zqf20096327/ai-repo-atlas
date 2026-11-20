@@ -1,6 +1,6 @@
 # gfo-project/Gradient-Free-Optimizers
 
-⭐ 1,279 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/gfo-project/Gradient-Free-Optimizers) · [官网](https://gradient-free-optimizers.readthedocs.io/en/latest/) · 个人维护
+⭐ 1,277 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/gfo-project/Gradient-Free-Optimizers) · [官网](https://gradient-free-optimizers.readthedocs.io/en/latest/) · 个人维护
 
 **黑盒函数无梯度优化库：23 种算法统一接口调参/寻优**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gfo-project/Gradient-Free-Optimizers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-20"]
     y-axis "stars" 1276 --> 1280
-    line [1277, 1278, 1279, 1279]
+    line [1277, 1278, 1279, 1277]
 ```
 
-2026-10-18 1,277 → 2026-11-19 1,279（+2）
+2026-10-18 1,277 → 2026-11-20 1,277（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AhsanAyaz/ossclip
 
-⭐ 59 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/AhsanAyaz/ossclip) · [官网](https://ahsanayaz.github.io/ossclip/) · 个人维护
+⭐ 59 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/AhsanAyaz/ossclip) · [官网](https://ahsanayaz.github.io/ossclip/) · 个人维护
 
 **本地优先的 CLI 短视频制作工具：去静音、逐词字幕、LLM 规划图形**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AhsanAyaz/ossclip 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-20"]
     y-axis "stars" 55 --> 60
     line [56, 57, 56, 57, 58, 59, 59]
 ```
 
-2026-10-18 56 → 2026-11-19 59（+3）
+2026-10-18 56 → 2026-11-20 59（+3）
 
 
 ---

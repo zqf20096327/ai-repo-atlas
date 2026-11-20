@@ -1,6 +1,6 @@
 # shangguanyunji663/Aegis-agent
 
-⭐ 100 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/shangguanyunji663/Aegis-agent) · 个人维护 · 中文 README
+⭐ 101 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/shangguanyunji663/Aegis-agent) · 个人维护 · 中文 README
 
 **校园心理支持多 Agent 平台：学生倾诉、风险识别与管理端干预闭环**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shangguanyunji663/Aegis-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 99 --> 102
+    line [100, 101]
 ```
 
-2026-10-18 100 → 2026-11-19 100（+0）
+2026-10-18 100 → 2026-11-20 101（+1）
 
 
 ---

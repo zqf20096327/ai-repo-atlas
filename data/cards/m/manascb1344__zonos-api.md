@@ -41,6 +41,18 @@
 > L9: This service is built on the Zonos models created by Zyphra. The models provide zero-shot voice cloning, more than 1
 > L101: - `POST /v1/audio/speech`: OpenAI-compatible speech generation
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "manascb1344/zonos-api 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 41 --> 43
+    line [42, 42]
+```
+
+2026-11-19 42 → 2026-11-20 42（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `9e636e2bf33f` · [字段定义](../../DATASET.md)*

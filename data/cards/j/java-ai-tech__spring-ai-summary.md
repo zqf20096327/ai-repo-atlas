@@ -1,6 +1,6 @@
 # java-ai-tech/spring-ai-summary
 
-⭐ 375 · Java · NOASSERTION · 推送 2026-03-12 · [GitHub](https://github.com/java-ai-tech/spring-ai-summary) · [官网](http://www.glmapper.com/) · 个人维护 · 中文 README
+⭐ 376 · Java · NOASSERTION · 推送 2026-03-12 · [GitHub](https://github.com/java-ai-tech/spring-ai-summary) · [官网](http://www.glmapper.com/) · 个人维护 · 中文 README
 
 **Spring AI 框架的模块化示例工程与学习资源集合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "java-ai-tech/spring-ai-summary 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 371 --> 376
-    line [373, 372, 374, 375, 375]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 371 --> 377
+    line [373, 372, 374, 375, 376]
 ```
 
-2026-10-18 373 → 2026-11-19 375（+2）
+2026-10-18 373 → 2026-11-20 376（+3）
 
 
 ---

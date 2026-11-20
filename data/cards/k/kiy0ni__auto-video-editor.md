@@ -1,6 +1,6 @@
 # kiy0ni/auto-video-editor
 
-⭐ 11 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kiy0ni/auto-video-editor) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kiy0ni/auto-video-editor) · 个人维护
 
 **为视频创作者自动生成集锦短片与竖版字幕短视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kiy0ni/auto-video-editor 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-13", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-13 10 → 2026-11-19 11（+1）
+2026-11-13 10 → 2026-11-20 12（+2）
 
 
 ---

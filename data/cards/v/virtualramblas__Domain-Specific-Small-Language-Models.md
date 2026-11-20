@@ -44,12 +44,12 @@ Manning Publications《Domain-Specific Small Language Models》书籍的配套�
 ```mermaid
 xychart-beta
     title "virtualramblas/Domain-Specific-Small-Language-Models 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20"]
     y-axis "stars" 96 --> 108
     line [97, 98, 97, 106, 107, 107]
 ```
 
-2026-10-18 97 → 2026-11-19 107（+10）
+2026-10-18 97 → 2026-11-20 107（+10）
 
 
 ---

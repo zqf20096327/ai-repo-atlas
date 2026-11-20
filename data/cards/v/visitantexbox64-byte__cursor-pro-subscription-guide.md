@@ -1,6 +1,6 @@
 # visitantexbox64-byte/cursor-pro-subscription-guide
 
-⭐ 71 · 推送 2026-11-03 · [GitHub](https://github.com/visitantexbox64-byte/cursor-pro-subscription-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 72 · 推送 2026-11-03 · [GitHub](https://github.com/visitantexbox64-byte/cursor-pro-subscription-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **教用户用 CoreGold 虚拟卡订阅 Cursor Pro/Business 的图文教程**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "visitantexbox64-byte/cursor-pro-subscription-guide 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
     y-axis "stars" 24 --> 78
-    line [28, 49, 63, 68, 74, 73, 71, 71]
+    line [28, 49, 63, 68, 74, 73, 71, 72]
 ```
 
-2026-11-08 28 → 2026-11-19 71（+43）
+2026-11-08 28 → 2026-11-20 72（+44）
 
 
 ---

@@ -1,6 +1,6 @@
 # chenfjm/social-agent
 
-⭐ 14 · 推送 2026-05-13 · [GitHub](https://github.com/chenfjm/social-agent) · [官网](https://www.xant.top/) · 个人维护 · 中文 README
+⭐ 15 · 推送 2026-05-13 · [GitHub](https://github.com/chenfjm/social-agent) · [官网](https://www.xant.top/) · 个人维护 · 中文 README
 
 **面向博主与企业的 AI 社媒运营 SaaS：小红书/抖音内容创作与自动获客**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chenfjm/social-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-11-19 14（+1）
+2026-10-18 13 → 2026-11-20 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # webagent-cloud/webagent
 
-⭐ 18 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/webagent-cloud/webagent) · [官网](https://webagent.cloud) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/webagent-cloud/webagent) · [官网](https://webagent.cloud) · 组织维护
 
 **自托管的 AI 浏览器自动化 Agent，用提示词构建可复用工作流**
 
@@ -45,12 +45,12 @@ WebAgent 是一个可自托管的 AI 浏览器代理服务：通过 API 接收�
 ```mermaid
 xychart-beta
     title "webagent-cloud/webagent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 17 --> 20
-    line [19, 18, 18]
+    line [19, 18, 19]
 ```
 
-2026-10-18 19 → 2026-11-19 18（-1）
+2026-10-18 19 → 2026-11-20 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zRICGao/ZRIC-AI-TRPG-Engine
 
-⭐ 26 · HTML · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/zRICGao/ZRIC-AI-TRPG-Engine) · [官网](https://github.com/zRICGao/ZRIC-AI-TRPG-Engine) · 个人维护 · 中文 README
+⭐ 27 · HTML · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/zRICGao/ZRIC-AI-TRPG-Engine) · [官网](https://github.com/zRICGao/ZRIC-AI-TRPG-Engine) · 个人维护 · 中文 README
 
 **大模型驱动的 AI 跑团/文字冒险推演引擎，供 GM 与玩家**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zRICGao/ZRIC-AI-TRPG-Engine 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 25, 26, 27]
 ```
 
-2026-10-18 24 → 2026-11-19 26（+2）
+2026-10-18 24 → 2026-11-20 27（+3）
 
 
 ---

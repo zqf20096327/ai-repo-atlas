@@ -1,6 +1,6 @@
 # jerry609/PaperBot
 
-⭐ 108 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/jerry609/PaperBot) · [官网](https://paper-bot-git-test-milestone-v12-jerrys-projects-bfbe8245.vercel.app/studio) · 个人维护 · 中文 README
+⭐ 107 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/jerry609/PaperBot) · [官网](https://paper-bot-git-test-milestone-v12-jerrys-projects-bfbe8245.vercel.app/studio) · 个人维护 · 中文 README
 
 **个人学术 AI 基础设施：论文发现、LLM 评审、追踪与 Paper2Code 一体化**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jerry609/PaperBot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 106 --> 109
+    line [108, 107]
 ```
 
-2026-10-18 108 → 2026-11-19 108（+0）
+2026-10-18 108 → 2026-11-20 107（-1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "2389-research/breakaway-agent 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-19"]
+    title "2389-research/breakaway-agent 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-19", "2026-11-20"]
     y-axis "stars" 9 --> 13
-    line [10, 12]
+    line [10, 12, 12]
 ```
 
-2026-10-22 10 → 2026-11-19 12（+2）
+2026-10-22 10 → 2026-11-20 12（+2）
 
 
 ---

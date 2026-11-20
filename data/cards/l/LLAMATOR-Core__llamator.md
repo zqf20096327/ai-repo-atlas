@@ -1,6 +1,6 @@
 # LLAMATOR-Core/llamator
 
-⭐ 227 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/LLAMATOR-Core/llamator) · [官网](https://llamator-core.github.io/llamator/) · 组织维护
+⭐ 229 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/LLAMATOR-Core/llamator) · [官网](https://llamator-core.github.io/llamator/) · 组织维护
 
 **测试聊天机器人与生成式 AI 系统的红队 Python 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LLAMATOR-Core/llamator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 223 --> 228
-    line [224, 225, 226, 227]
+    title "LLAMATOR-Core/llamator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 223 --> 230
+    line [224, 225, 226, 227, 229]
 ```
 
-2026-10-18 224 → 2026-11-19 227（+3）
+2026-10-18 224 → 2026-11-20 229（+5）
 
 
 ---

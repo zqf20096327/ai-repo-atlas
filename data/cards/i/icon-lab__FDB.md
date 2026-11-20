@@ -1,6 +1,6 @@
 # icon-lab/FDB
 
-⭐ 42 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/icon-lab/FDB) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/icon-lab/FDB) · 组织维护
 
 **傅里叶约束扩散桥（FDB）MRI 重建的官方 PyTorch 实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "icon-lab/FDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-18 42 → 2026-11-19 42（+0）
+2026-10-18 42 → 2026-11-20 43（+1）
 
 
 ---

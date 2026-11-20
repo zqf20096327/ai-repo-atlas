@@ -1,6 +1,6 @@
 # hiruhiru2005/sync-strata
 
-⭐ 16 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hiruhiru2005/sync-strata) · 个人维护
+⭐ 61 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hiruhiru2005/sync-strata) · 个人维护
 
 **在单台家用 PC 上一键运行 125B MoE 模型的本地 LLM 应用**
 
@@ -39,6 +39,18 @@
 
 > L6: The engine is a fork of Strata, and the models, **Sync-XS, Sync-S and Sync-M**, are re-quantized to run faster than 
 > L73: - **API**: `http://127.0.0.1:8080/v1` (8080 is the default port; if another program is using it, the app moves to a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hiruhiru2005/sync-strata 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 12 --> 65
+    line [16, 61]
+```
+
+2026-11-19 16 → 2026-11-20 61（+45）
 
 
 ---

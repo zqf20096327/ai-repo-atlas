@@ -1,6 +1,6 @@
 # gquthier/shorts-factory
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/gquthier/shorts-factory) · [官网](https://gquthier.github.io/shorts-factory/) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/gquthier/shorts-factory) · [官网](https://gquthier.github.io/shorts-factory/) · 个人维护 · 中文 README
 
 **把自有长视频转为竖版短视频并完成发布复盘的 Mac 工作室**
 
@@ -46,12 +46,12 @@ Electron 桌面应用，将自有长视频经导入、转录、选段、剪辑�
 ```mermaid
 xychart-beta
     title "gquthier/shorts-factory 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 7 --> 11
-    line [8, 9, 10, 10]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 7 --> 12
+    line [8, 9, 10, 11]
 ```
 
-2026-11-08 8 → 2026-11-19 10（+2）
+2026-11-08 8 → 2026-11-20 11（+3）
 
 
 ---

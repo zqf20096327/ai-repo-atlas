@@ -1,6 +1,6 @@
 # NanoFlow-io/engram
 
-⭐ 70 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/NanoFlow-io/engram) · 组织维护
+⭐ 65 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/NanoFlow-io/engram) · 组织维护
 
 **OpenClaw agent 的混合长期记忆插件：SQLite+FTS5 与 LanceDB 双存储**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NanoFlow-io/engram 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 69 --> 80
-    line [79, 75, 70, 70]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 64 --> 80
+    line [79, 75, 70, 65]
 ```
 
-2026-10-18 79 → 2026-11-19 70（-9）
+2026-10-18 79 → 2026-11-20 65（-14）
 
 
 ---

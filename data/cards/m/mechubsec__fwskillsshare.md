@@ -1,6 +1,6 @@
 # mechubsec/fwskillsshare
 
-⭐ 12 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/mechubsec/fwskillsshare) · [官网](https://mechub.org) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/mechubsec/fwskillsshare) · [官网](https://mechub.org) · 组织维护
 
 **面向防火墙/网络安全工程师的 34 个 agent 技能合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mechubsec/fwskillsshare 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 10, 11, 12, 12]
+    line [10, 11, 10, 11, 12, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 12（+2）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

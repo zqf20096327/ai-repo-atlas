@@ -1,6 +1,6 @@
 # AgaMiko/data-augmentation-review
 
-⭐ 1,637 · 推送 2026-11-03 · [GitHub](https://github.com/AgaMiko/data-augmentation-review) · 个人维护
+⭐ 1,636 · 推送 2026-11-03 · [GitHub](https://github.com/AgaMiko/data-augmentation-review) · 个人维护
 
 **数据增强方法与资源策展清单：覆盖图像/音频/NLP/时序等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AgaMiko/data-augmentation-review 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
-    y-axis "stars" 1636 --> 1638
-    line [1637, 1637]
+    x-axis ["2026-11-08", "2026-11-20"]
+    y-axis "stars" 1635 --> 1638
+    line [1637, 1636]
 ```
 
-2026-11-08 1,637 → 2026-11-19 1,637（+0）
+2026-11-08 1,637 → 2026-11-20 1,636（-1）
 
 
 ---

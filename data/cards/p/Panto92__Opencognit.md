@@ -1,6 +1,6 @@
 # Panto92/Opencognit
 
-⭐ 51 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Panto92/Opencognit) · [官网](https://opencognit.com) · 组织维护
+⭐ 51 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Panto92/Opencognit) · [官网](https://opencognit.com) · 组织维护
 
 **桌面应用：在同一窗口并行编排多个编程 CLI agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Panto92/Opencognit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-20"]
     y-axis "stars" 46 --> 52
     line [47, 49, 50, 51, 51]
 ```
 
-2026-10-18 47 → 2026-11-19 51（+4）
+2026-10-18 47 → 2026-11-20 51（+4）
 
 
 ---

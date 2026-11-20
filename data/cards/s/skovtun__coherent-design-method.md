@@ -1,6 +1,6 @@
 # skovtun/coherent-design-method
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/skovtun/coherent-design-method) · [官网](https://getcoherent.design) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/skovtun/coherent-design-method) · [官网](https://getcoherent.design) · 个人维护
 
 **治理 AI 编码 agent 前端编辑的验证层：圈定范围、浏览器验证、回滚**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skovtun/coherent-design-method 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-19 22（+1）
+2026-10-18 21 → 2026-11-20 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # topmindspace/dsh-super-kanban
 
-⭐ 127 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/topmindspace/dsh-super-kanban) · [官网](https://topmindspace.github.io/dsh-super-kanban/) · 组织维护 · 中文 README
+⭐ 133 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/topmindspace/dsh-super-kanban) · [官网](https://topmindspace.github.io/dsh-super-kanban/) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的 AI 任务看板插件：从会话提炼任务与进度**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "topmindspace/dsh-super-kanban 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 2 --> 138
-    line [13, 14, 33, 46, 65, 101, 113, 125, 127]
+    title "topmindspace/dsh-super-kanban 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 1 --> 145
+    line [13, 14, 33, 46, 65, 101, 113, 125, 127, 133]
 ```
 
-2026-11-08 13 → 2026-11-19 127（+114）
+2026-11-08 13 → 2026-11-20 133（+120）
 
 
 ---

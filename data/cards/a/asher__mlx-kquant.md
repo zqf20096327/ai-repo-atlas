@@ -1,6 +1,6 @@
 # asher/mlx-kquant
 
-⭐ 11 · C++ · MIT · 推送 2026-11-15 · [GitHub](https://github.com/asher/mlx-kquant) · 个人维护
+⭐ 11 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/asher/mlx-kquant) · 个人维护
 
 **为 MLX 增加 K-quant 量化与微调工具链，面向 Apple Silicon**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "asher/mlx-kquant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

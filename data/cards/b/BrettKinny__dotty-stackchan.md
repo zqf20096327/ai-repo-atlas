@@ -1,6 +1,6 @@
 # BrettKinny/dotty-stackchan
 
-⭐ 131 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/BrettKinny/dotty-stackchan) · [官网](https://www.youtube.com/@dotty-stackchan) · 个人维护 · 中文 README
+⭐ 130 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/BrettKinny/dotty-stackchan) · [官网](https://www.youtube.com/@dotty-stackchan) · 个人维护 · 中文 README
 
 **M5Stack StackChan 桌面机器人的全自托管语音助手栈**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BrettKinny/dotty-stackchan 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19"]
+    title "BrettKinny/dotty-stackchan 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 113 --> 132
-    line [114, 117, 118, 119, 120, 121, 122, 120, 127, 128, 129, 130, 131]
+    line [114, 117, 118, 119, 120, 121, 122, 120, 127, 128, 129, 130, 131, 130]
 ```
 
-2026-10-18 114 → 2026-11-19 131（+17）
+2026-10-18 114 → 2026-11-20 130（+16）
 
 
 ---

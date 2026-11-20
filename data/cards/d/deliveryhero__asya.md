@@ -1,6 +1,6 @@
 # deliveryhero/asya
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/deliveryhero/asya) · [官网](https://asya.sh) · 组织维护
+⭐ 60 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/deliveryhero/asya) · [官网](https://asya.sh) · 组织维护
 
 **K8s 上的分布式 actor mesh，承载异步 AI/ML 管道**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deliveryhero/asya 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 58 --> 61
+    line [59, 60]
 ```
 
-2026-10-18 59 → 2026-11-19 59（+0）
+2026-10-18 59 → 2026-11-20 60（+1）
 
 
 ---

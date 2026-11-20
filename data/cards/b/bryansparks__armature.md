@@ -1,6 +1,6 @@
 # bryansparks/armature
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bryansparks/armature) · [官网](https://armature.now) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/bryansparks/armature) · [官网](https://armature.now) · 个人维护
 
 **面向开发者的 YAML 声明式多智能体工作流执行引擎**
 
@@ -47,12 +47,12 @@ Armature 以 Python 库和 CLI 形式提供：用户将多智能体工作流写�
 ```mermaid
 xychart-beta
     title "bryansparks/armature 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-19"]
+    x-axis ["2026-11-01", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-01 10 → 2026-11-19 10（+0）
+2026-11-01 10 → 2026-11-20 10（+0）
 
 
 ---

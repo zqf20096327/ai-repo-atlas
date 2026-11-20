@@ -1,6 +1,6 @@
 # msertdev/deadweight
 
-⭐ 12 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/msertdev/deadweight) · [官网](https://github.com/msertdev/deadweight) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/msertdev/deadweight) · [官网](https://github.com/msertdev/deadweight) · 个人维护
 
 **为 Claude Code 用户审计并清理每请求 token 开销**
 
@@ -40,6 +40,18 @@
 > L5: Every plugin, skill, MCP server and hook you install adds text to *every single request* Claude Code sends, before y
 > L63: ## Use it from inside Claude Code
 > L77: Claude Code keeps a transcript of every session in `~/.claude/projects/`. Alongside the conversation it records wha
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "msertdev/deadweight 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 11 --> 15
+    line [12, 14]
+```
+
+2026-11-19 12 → 2026-11-20 14（+2）
 
 
 ---

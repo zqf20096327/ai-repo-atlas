@@ -1,6 +1,6 @@
 # feenkcom/gt4llm
 
-⭐ 17 · Smalltalk · MIT · 推送 2026-11-18 · [GitHub](https://github.com/feenkcom/gt4llm) · 组织维护
+⭐ 17 · Smalltalk · MIT · 推送 2026-11-19 · [GitHub](https://github.com/feenkcom/gt4llm) · 组织维护
 
 **Pharo/Glamorous Toolkit 环境下调用 LLM 的客户端库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "feenkcom/gt4llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-19 17（+1）
+2026-10-18 16 → 2026-11-20 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # maxoliverbr/eia-api-ts
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/maxoliverbr/eia-api-ts) · [官网](https://maxoliverbr.github.io/eia-api-ts/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/maxoliverbr/eia-api-ts) · [官网](https://maxoliverbr.github.io/eia-api-ts/) · 个人维护
 
 **为 AI agent 封装美国 EIA 能源 APIv2 的本地服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maxoliverbr/eia-api-ts 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19"]
+    title "maxoliverbr/eia-api-ts 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 5 --> 12
-    line [6, 10, 11]
+    line [6, 10, 11, 11]
 ```
 
-2026-11-15 6 → 2026-11-19 11（+5）
+2026-11-15 6 → 2026-11-20 11（+5）
 
 
 ---

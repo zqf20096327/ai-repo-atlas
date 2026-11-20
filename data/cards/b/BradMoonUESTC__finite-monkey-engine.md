@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BradMoonUESTC/finite-monkey-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "BradMoonUESTC/finite-monkey-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 359 --> 362
-    line [360, 361]
+    line [360, 361, 361]
 ```
 
-2026-10-18 360 → 2026-11-19 361（+1）
+2026-10-18 360 → 2026-11-20 361（+1）
 
 
 ---

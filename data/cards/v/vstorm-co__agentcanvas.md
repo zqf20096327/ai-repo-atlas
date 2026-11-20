@@ -1,6 +1,6 @@
 # vstorm-co/agentcanvas
 
-⭐ 85 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/vstorm-co/agentcanvas) · [官网](https://vstorm.co) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/vstorm-co/agentcanvas) · [官网](https://vstorm.co) · 组织维护
 
 **将 Logfire 中的 Pydantic AI agent 运行轨迹渲染为交互式 HTML 图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vstorm-co/agentcanvas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 84 --> 87
-    line [85, 86, 85, 85]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 83 --> 87
+    line [85, 86, 85, 84]
 ```
 
-2026-10-18 85 → 2026-11-19 85（+0）
+2026-10-18 85 → 2026-11-20 84（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Borys520/gpt-image-2-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/Borys520/gpt-image-2-mcp) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/Borys520/gpt-image-2-mcp) · 个人维护
 
 **把 OpenAI gpt-image-2 图像生成/编辑暴露给 MCP 客户端的服务器**
 
@@ -46,12 +46,12 @@ TypeScript 编写的 MCP server，向 Claude Desktop、Claude Code、Cursor 等 
 ```mermaid
 xychart-beta
     title "Borys520/gpt-image-2-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-19 13（+1）
+2026-10-18 12 → 2026-11-20 14（+2）
 
 
 ---

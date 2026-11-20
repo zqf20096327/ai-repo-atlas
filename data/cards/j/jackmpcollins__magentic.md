@@ -1,6 +1,6 @@
 # jackmpcollins/magentic
 
-⭐ 2,429 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/jackmpcollins/magentic) · [官网](https://magentic.dev/) · 个人维护
+⭐ 2,430 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/jackmpcollins/magentic) · [官网](https://magentic.dev/) · 个人维护
 
 **将 LLM 集成为 Python 函数的装饰器框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jackmpcollins/magentic 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 2426 --> 2430
-    line [2428, 2427, 2428, 2427, 2429]
+    title "jackmpcollins/magentic 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 2426 --> 2431
+    line [2428, 2427, 2428, 2427, 2429, 2430]
 ```
 
-2026-10-18 2,428 → 2026-11-19 2,429（+1）
+2026-10-18 2,428 → 2026-11-20 2,430（+2）
 
 
 ---

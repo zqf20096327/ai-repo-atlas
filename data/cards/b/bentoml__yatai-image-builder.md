@@ -1,6 +1,6 @@
 # bentoml/yatai-image-builder
 
-⭐ 17 · Go · 推送 2026-10-23 · [GitHub](https://github.com/bentoml/yatai-image-builder) · 组织维护
+⭐ 17 · Go · 推送 2026-11-19 · [GitHub](https://github.com/bentoml/yatai-image-builder) · 组织维护
 
 **在 k8s 中为 Bento 构建 OCI 镜像的 Yatai 组件**
 
@@ -44,12 +44,12 @@ BentoML Yatai 生态的 Kubernetes 组件：作为 BentoRequest CRD 的 operator
 ```mermaid
 xychart-beta
     title "bentoml/yatai-image-builder 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 16 --> 19
     line [18, 17, 18, 17, 17]
 ```
 
-2026-10-18 18 → 2026-11-19 17（-1）
+2026-10-18 18 → 2026-11-20 17（-1）
 
 
 ---

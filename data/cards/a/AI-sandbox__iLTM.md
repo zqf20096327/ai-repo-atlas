@@ -1,6 +1,6 @@
 # AI-sandbox/iLTM
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/AI-sandbox/iLTM) · [官网](https://arxiv.org/abs/2511.15941) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/AI-sandbox/iLTM) · [官网](https://arxiv.org/abs/2511.15941) · 组织维护
 
 **表格数据基础模型：开箱即用的分类与回归预测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AI-sandbox/iLTM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32]
 ```
 
-2026-10-18 30 → 2026-11-19 31（+1）
+2026-10-18 30 → 2026-11-20 32（+2）
 
 
 ---

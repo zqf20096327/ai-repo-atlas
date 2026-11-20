@@ -47,12 +47,12 @@ React + TypeScript + Supabase 构建的全栈 Web 应用，面向农民提供土
 ```mermaid
 xychart-beta
     title "lewiii254/agro-regen-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

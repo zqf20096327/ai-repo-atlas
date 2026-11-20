@@ -1,6 +1,6 @@
 # ethbak/icon-composer-mcp
 
-⭐ 73 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ethbak/icon-composer-mcp) · [官网](https://www.npmjs.com/package/icon-composer-mcp) · 个人维护
+⭐ 74 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ethbak/icon-composer-mcp) · [官网](https://www.npmjs.com/package/icon-composer-mcp) · 个人维护
 
 **为 AI agent 与开发者生成 .icon 图标包的 CLI 和 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ethbak/icon-composer-mcp 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 60 --> 74
-    line [61, 62, 63, 65, 62, 68, 69, 71, 73, 73]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 60 --> 75
+    line [61, 62, 63, 65, 62, 68, 69, 71, 73, 74]
 ```
 
-2026-10-18 61 → 2026-11-19 73（+12）
+2026-10-18 61 → 2026-11-20 74（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # lhlizdabezt/NhapMonAI
 
-⭐ 23 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/lhlizdabezt/NhapMonAI) · [官网](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) · 个人维护
+⭐ 24 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/lhlizdabezt/NhapMonAI) · [官网](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) · 个人维护
 
 **越南车牌识别学术原型：YOLO 检测 + OCR 桌面推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lhlizdabezt/NhapMonAI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 20, 23, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 20, 23, 22, 23, 24]
 ```
 
-2026-10-18 20 → 2026-11-19 23（+3）
+2026-10-18 20 → 2026-11-20 24（+4）
 
 
 ---

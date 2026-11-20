@@ -1,6 +1,6 @@
 # EliFuzz/awesome-system-prompts
 
-⭐ 287 · JavaScript · GPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/EliFuzz/awesome-system-prompts) · [官网](https://elifuzz.github.io/awesome-system-prompts/) · 个人维护
+⭐ 289 · JavaScript · GPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/EliFuzz/awesome-system-prompts) · [官网](https://elifuzz.github.io/awesome-system-prompts/) · 个人维护
 
 **各 AI 编码助手与 LLM 产品系统提示词的收集清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "EliFuzz/awesome-system-prompts 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 276 --> 288
-    line [277, 278, 280, 281, 282, 281, 283, 284, 285, 286, 287, 287]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 276 --> 290
+    line [277, 278, 280, 281, 282, 281, 283, 284, 285, 286, 287, 289]
 ```
 
-2026-10-18 277 → 2026-11-19 287（+10）
+2026-10-18 277 → 2026-11-20 289（+12）
 
 
 ---

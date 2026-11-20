@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-grok-imagine-prompts
 
-⭐ 62 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts) · [官网](https://youmind.com/grok-imagine-prompts) · 组织维护 · 中文 README
+⭐ 62 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts) · [官网](https://youmind.com/grok-imagine-prompts) · 组织维护 · 中文 README
 
 **Grok Imagine 视频生成提示词策展清单（3198 条）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YouMind-OpenLab/awesome-grok-imagine-prompts 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-20"]
     y-axis "stars" 55 --> 63
     line [56, 57, 59, 60, 61, 62, 62]
 ```
 
-2026-10-18 56 → 2026-11-19 62（+6）
+2026-10-18 56 → 2026-11-20 62（+6）
 
 
 ---

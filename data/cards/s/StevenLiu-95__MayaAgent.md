@@ -1,6 +1,6 @@
 # StevenLiu-95/MayaAgent
 
-⭐ 21 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/StevenLiu-95/MayaAgent) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/StevenLiu-95/MayaAgent) · 个人维护 · 中文 README
 
 **面向 Maya 游戏开发管线的自然语言 AI Agent 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "StevenLiu-95/MayaAgent 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-20"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-11-08 20 → 2026-11-19 21（+1）
+2026-11-08 20 → 2026-11-20 21（+1）
 
 
 ---

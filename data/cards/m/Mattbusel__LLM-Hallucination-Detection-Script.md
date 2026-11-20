@@ -1,6 +1,6 @@
 # Mattbusel/LLM-Hallucination-Detection-Script
 
-⭐ 19 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mattbusel/LLM-Hallucination-Detection-Script) · [官网](https://mattbusel.github.io/LLM-Hallucination-Detection-Script/) · 个人维护 · 中文 README
+⭐ 19 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Mattbusel/LLM-Hallucination-Detection-Script) · [官网](https://mattbusel.github.io/LLM-Hallucination-Detection-Script/) · 个人维护 · 中文 README
 
 **从 token logprobs 标记 LLM 回答低置信片段的 Rust CLI/库**
 
@@ -46,12 +46,12 @@ Rust 编写的 CLI 与库（crate 名 llm-token-visualizer）：读取模型自�
 ```mermaid
 xychart-beta
     title "Mattbusel/LLM-Hallucination-Detection-Script 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-20"]
     y-axis "stars" 17 --> 21
     line [18, 19, 20, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-19 19（+1）
+2026-10-18 18 → 2026-11-20 19（+1）
 
 
 ---

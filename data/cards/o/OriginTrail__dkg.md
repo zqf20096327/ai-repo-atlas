@@ -1,6 +1,6 @@
 # OriginTrail/dkg
 
-⭐ 136 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/OriginTrail/dkg) · [官网](https://origintrail.io) · 组织维护
+⭐ 133 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/OriginTrail/dkg) · [官网](https://origintrail.io) · 组织维护
 
 **面向多智能体的去中心化知识图谱共享记忆节点**
 
@@ -46,12 +46,12 @@ OriginTrail DKG V10 是一个 monorepo，包含节点软件、CLI、仪表盘 UI
 ```mermaid
 xychart-beta
     title "OriginTrail/dkg 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 134 --> 142
-    line [141, 135, 136, 136]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 132 --> 142
+    line [141, 135, 136, 133]
 ```
 
-2026-10-30 141 → 2026-11-19 136（-5）
+2026-10-30 141 → 2026-11-20 133（-8）
 
 
 ---

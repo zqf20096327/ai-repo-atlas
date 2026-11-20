@@ -41,6 +41,18 @@ AWS 官方示例项目，演示通过 SageMaker 推理端点托管 ComfyUI，用
 > L19: There is a Lambda function to invoke SageMaker inference endpoint (which is running ComfyUI) for generating images.
 > L46: git clone https://github.com/aws-samples/comfyui-on-amazon-sagemaker.git
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aws-samples/comfyui-on-amazon-sagemaker 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 66 --> 68
+    line [67, 67]
+```
+
+2026-11-19 67 → 2026-11-20 67（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `fdd48cb656eb` · [字段定义](../../DATASET.md)*

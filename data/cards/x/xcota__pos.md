@@ -1,6 +1,6 @@
 # xcota/pos
 
-⭐ 32 · Python · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/xcota/pos) · 个人维护 · 中文 README
+⭐ 28 · Python · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/xcota/pos) · 个人维护 · 中文 README
 
 **给 Claude Code 加持久记忆的本地 Markdown 文件夹（面向普通用户）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xcota/pos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
-    y-axis "stars" 31 --> 34
-    line [33, 32, 32]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
+    y-axis "stars" 27 --> 34
+    line [33, 32, 28]
 ```
 
-2026-10-18 33 → 2026-11-19 32（-1）
+2026-10-18 33 → 2026-11-20 28（-5）
 
 
 ---

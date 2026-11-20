@@ -1,6 +1,6 @@
 # imsai-sh/fish-pocket
 
-⭐ 365 · Swift · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/imsai-sh/fish-pocket) · [官网](https://apps.apple.com/cn/app/fish-pocket/id6830703602) · 个人维护 · 中文 README
+⭐ 382 · Swift · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/imsai-sh/fish-pocket) · [官网](https://apps.apple.com/cn/app/fish-pocket/id6830703602) · 个人维护 · 中文 README
 
 **在 iPhone/iPad 上本机运行 DSH 智能体引擎的原生 App**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "imsai-sh/fish-pocket 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 127 --> 386
-    line [148, 185, 205, 226, 245, 262, 274, 288, 321, 365]
+    title "imsai-sh/fish-pocket 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 125 --> 405
+    line [148, 185, 205, 226, 245, 262, 274, 288, 321, 365, 382]
 ```
 
-2026-11-08 148 → 2026-11-19 365（+217）
+2026-11-08 148 → 2026-11-20 382（+234）
 
 
 ---

@@ -1,6 +1,6 @@
 # TensorOpsAI/LLMstudio
 
-⭐ 391 · Python · MPL-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/TensorOpsAI/LLMstudio) · [官网](https://tensorops.ai) · 组织维护
+⭐ 390 · Python · MPL-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/TensorOpsAI/LLMstudio) · [官网](https://tensorops.ai) · 组织维护
 
 **帮助开发者将 LLM 应用推向生产的框架与工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TensorOpsAI/LLMstudio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 389 --> 392
-    line [390, 391, 391]
+    line [390, 391, 390]
 ```
 
-2026-10-18 390 → 2026-11-19 391（+1）
+2026-10-18 390 → 2026-11-20 390（+0）
 
 
 ---

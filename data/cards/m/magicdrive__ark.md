@@ -1,6 +1,6 @@
 # magicdrive/ark
 
-⭐ 26 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/magicdrive/ark) · 个人维护 · 中文 README
+⭐ 26 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/magicdrive/ark) · 个人维护 · 中文 README
 
 **面向 AI 编码 agent 的代码智能引擎（MCP 服务器）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "magicdrive/ark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-20"]
     y-axis "stars" 23 --> 27
     line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-19 26（+2）
+2026-10-18 24 → 2026-11-20 26（+2）
 
 
 ---

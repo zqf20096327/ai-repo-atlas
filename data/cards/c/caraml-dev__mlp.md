@@ -41,6 +41,18 @@ MLP 是一组面向机器学习生命周期各阶段的系统与服务集合，�
 > L7: MLP Products are systems and services that are specifically built to solve one or multiple stages of the machine lea
 > L10: * **Merlin** - For deploying, serving, and monitoring machine learning models.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "caraml-dev/mlp 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 48 --> 50
+    line [49, 49]
+```
+
+2026-11-19 49 → 2026-11-20 49（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `a4d24b10cf8d` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # paperswithbacktest/pwb-toolbox
 
-⭐ 84 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/paperswithbacktest/pwb-toolbox) · [官网](https://paperswithbacktest.com/) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/paperswithbacktest/pwb-toolbox) · [官网](https://paperswithbacktest.com/) · 组织维护
 
 **为量化交易开发者提供数据集与策略回测/实盘工具的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "paperswithbacktest/pwb-toolbox 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
     y-axis "stars" 81 --> 85
     line [82, 83, 82, 83, 84, 84]
 ```
 
-2026-10-18 82 → 2026-11-19 84（+2）
+2026-10-18 82 → 2026-11-20 84（+2）
 
 
 ---

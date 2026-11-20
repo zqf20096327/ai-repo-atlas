@@ -46,12 +46,12 @@ ACL 2025 Findings 论文 Tandem 的官方实现：LLM 生成少量关键推理�
 ```mermaid
 xychart-beta
     title "Fzkuji/Ensemble-Hub 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-15", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-15 11 → 2026-11-19 11（+0）
+2026-11-15 11 → 2026-11-20 11（+0）
 
 
 ---

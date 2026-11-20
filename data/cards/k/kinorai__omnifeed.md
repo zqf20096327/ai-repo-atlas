@@ -1,6 +1,6 @@
 # kinorai/omnifeed
 
-⭐ 11 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kinorai/omnifeed) · [官网](https://kinorai.github.io/omnifeed/) · 个人维护
+⭐ 11 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kinorai/omnifeed) · [官网](https://kinorai.github.io/omnifeed/) · 个人维护
 
 **自托管 web 搜索+抓取 MCP 服务，含专用 Reddit 引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kinorai/omnifeed 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

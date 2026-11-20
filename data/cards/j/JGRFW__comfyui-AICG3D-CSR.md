@@ -1,6 +1,6 @@
 # JGRFW/comfyui-AICG3D-CSR
 
-⭐ 42 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/JGRFW/comfyui-AICG3D-CSR) · 个人维护 · 中文 README
+⭐ 45 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/JGRFW/comfyui-AICG3D-CSR) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：MiniMax H3 人物/场景/产品替换的视频流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JGRFW/comfyui-AICG3D-CSR 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 17 --> 44
-    line [19, 28, 29, 30, 31, 33, 35, 38, 42]
+    title "JGRFW/comfyui-AICG3D-CSR 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 17 --> 47
+    line [19, 28, 29, 30, 31, 33, 35, 38, 42, 45]
 ```
 
-2026-11-08 19 → 2026-11-19 42（+23）
+2026-11-08 19 → 2026-11-20 45（+26）
 
 
 ---

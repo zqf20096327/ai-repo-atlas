@@ -1,6 +1,6 @@
 # ReffWu/toknotch
 
-⭐ 29 · Swift · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ReffWu/toknotch) · [官网](https://github.com/ReffWu/toknotch) · 个人维护
+⭐ 29 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ReffWu/toknotch) · [官网](https://github.com/ReffWu/toknotch) · 个人维护
 
 **Mac 刘海区显示 AI 订阅回本倍数与 token 用量的工具**
 
@@ -45,12 +45,12 @@ SwiftUI 编写的 macOS 菜单栏/屏幕边缘应用：读取本机编码工具�
 ```mermaid
 xychart-beta
     title "ReffWu/toknotch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-20"]
     y-axis "stars" 26 --> 30
     line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-19 29（+2）
+2026-10-18 27 → 2026-11-20 29（+2）
 
 
 ---

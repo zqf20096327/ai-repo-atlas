@@ -1,6 +1,6 @@
 # satkynovilgiz/FIFA-World-Cup-Predictor
 
-⭐ 16 · Jupyter Notebook · 推送 2026-09-28 · [GitHub](https://github.com/satkynovilgiz/FIFA-World-Cup-Predictor) · [官网](https://satkynovilgiz.github.io/FIFA-World-Cup-Predictor/) · 个人维护
+⭐ 17 · Jupyter Notebook · 推送 2026-09-28 · [GitHub](https://github.com/satkynovilgiz/FIFA-World-Cup-Predictor) · [官网](https://satkynovilgiz.github.io/FIFA-World-Cup-Predictor/) · 个人维护
 
 **用机器学习与蒙特卡洛模拟预测世界杯赛果的开源项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "satkynovilgiz/FIFA-World-Cup-Predictor 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-11-16 15 → 2026-11-19 16（+1）
+2026-11-16 15 → 2026-11-20 17（+2）
 
 
 ---

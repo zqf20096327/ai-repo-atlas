@@ -1,6 +1,6 @@
 # entropy-cloud/nop-chaos-flux
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/entropy-cloud/nop-chaos-flux) · 组织维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/entropy-cloud/nop-chaos-flux) · 组织维护 · 中文 README
 
 **Schema 驱动的低代码渲染与运行时框架，面向平台团队**
 
@@ -45,12 +45,12 @@ NOP Chaos Flux 是一个基于七原语（Template/ScopeRef/Value/Resource/React
 ```mermaid
 xychart-beta
     title "entropy-cloud/nop-chaos-flux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
     y-axis "stars" 39 --> 42
     line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-19 41（+1）
+2026-10-18 40 → 2026-11-20 41（+1）
 
 
 ---

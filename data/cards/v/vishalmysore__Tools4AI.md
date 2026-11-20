@@ -1,6 +1,6 @@
 # vishalmysore/Tools4AI
 
-⭐ 191 · Java · MIT · 推送 2026-11-08 · [GitHub](https://github.com/vishalmysore/Tools4AI) · 个人维护
+⭐ 190 · Java · MIT · 推送 2026-11-08 · [GitHub](https://github.com/vishalmysore/Tools4AI) · 个人维护
 
 **Java 版 Agentic AI 框架：把自然语言转为 Java 方法/REST/Shell 调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vishalmysore/Tools4AI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 189 --> 192
-    line [190, 191, 190, 191, 191]
+    line [190, 191, 190, 191, 190]
 ```
 
-2026-10-18 190 → 2026-11-19 191（+1）
+2026-10-18 190 → 2026-11-20 190（+0）
 
 
 ---

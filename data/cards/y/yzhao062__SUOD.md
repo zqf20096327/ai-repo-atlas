@@ -1,6 +1,6 @@
 # yzhao062/SUOD
 
-⭐ 395 · Python · BSD-2-Clause · 推送 2026-09-08 · [GitHub](https://github.com/yzhao062/SUOD) · [官网](https://www.andrew.cmu.edu/user/yuezhao2/papers/20-preprint-suod.pdf) · 个人维护
+⭐ 394 · Python · BSD-2-Clause · 推送 2026-09-08 · [GitHub](https://github.com/yzhao062/SUOD) · [官网](https://www.andrew.cmu.edu/user/yuezhao2/papers/20-preprint-suod.pdf) · 个人维护
 
 **大规模无监督异构异常检测加速框架（MLSys'21）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yzhao062/SUOD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 394 --> 396
-    line [395, 395]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 393 --> 396
+    line [395, 394]
 ```
 
-2026-10-18 395 → 2026-11-19 395（+0）
+2026-10-18 395 → 2026-11-20 394（-1）
 
 
 ---

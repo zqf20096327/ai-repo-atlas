@@ -1,6 +1,6 @@
 # state-alchemists/zrb
 
-⭐ 19 · Python · 推送 2026-11-18 · [GitHub](https://github.com/state-alchemists/zrb) · [官网](https://pypi.org/project/zrb/) · 个人维护
+⭐ 19 · Python · 推送 2026-11-19 · [GitHub](https://github.com/state-alchemists/zrb) · [官网](https://pypi.org/project/zrb/) · 个人维护
 
 **可编程进任务流水线的终端编码 agent 与构建系统**
 
@@ -46,12 +46,12 @@ Zrb 是以 Python 编写的终端编码 agent 与任务运行器：`zrb llm chat
 ```mermaid
 xychart-beta
     title "state-alchemists/zrb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-19 19（+1）
+2026-10-18 18 → 2026-11-20 19（+1）
 
 
 ---

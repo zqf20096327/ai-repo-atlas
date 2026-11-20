@@ -1,6 +1,6 @@
 # erdogant/bnlearn
 
-⭐ 648 · Jupyter Notebook · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/erdogant/bnlearn) · [官网](https://erdogant.github.io/bnlearn) · 个人维护
+⭐ 647 · Jupyter Notebook · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/erdogant/bnlearn) · [官网](https://erdogant.github.io/bnlearn) · 个人维护
 
 **贝叶斯网络因果发现 Python 库：结构学习与推断**
 
@@ -45,12 +45,12 @@ Python 库 bnlearn，面向因果发现任务：从数据或专家知识学习�
 ```mermaid
 xychart-beta
     title "erdogant/bnlearn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-20"]
     y-axis "stars" 644 --> 649
-    line [645, 646, 648, 648]
+    line [645, 646, 648, 647]
 ```
 
-2026-10-18 645 → 2026-11-19 648（+3）
+2026-10-18 645 → 2026-11-20 647（+2）
 
 
 ---

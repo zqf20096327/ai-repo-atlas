@@ -1,6 +1,6 @@
 # cropandweed/releaf
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/cropandweed/releaf) · 组织维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/cropandweed/releaf) · 组织维护
 
 **植物叶片实例分割框架：统一训练评测多架构模型，附基准数据集**
 
@@ -45,12 +45,12 @@ CVPR 2026 Agriculture-Vision Workshop 论文配套框架，提供叶片级实例
 ```mermaid
 xychart-beta
     title "cropandweed/releaf 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 21, 22, 23]
 ```
 
-2026-10-18 20 → 2026-11-19 22（+2）
+2026-10-18 20 → 2026-11-20 23（+3）
 
 
 ---

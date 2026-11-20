@@ -1,6 +1,6 @@
 # Greebbie/LLM-Agent-Core_Concept_Code
 
-⭐ 12 · Jupyter Notebook · 推送 2026-05-06 · [GitHub](https://github.com/Greebbie/LLM-Agent-Core_Concept_Code) · 个人维护 · 中文 README
+⭐ 12 · Jupyter Notebook · 推送 2026-11-19 · [GitHub](https://github.com/Greebbie/LLM-Agent-Core_Concept_Code) · 个人维护 · 中文 README
 
 **中文 LLM 与 Agent 实战教程：从 Transformer 原理到可运行 Agent 系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Greebbie/LLM-Agent-Core_Concept_Code 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-19 12（+1）
+2026-10-18 11 → 2026-11-20 12（+1）
 
 
 ---

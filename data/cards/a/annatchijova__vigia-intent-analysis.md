@@ -1,6 +1,6 @@
 # annatchijova/vigia-intent-analysis
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/annatchijova/vigia-intent-analysis) · [官网](https://annatchijova.github.io/vigia/vigia.html) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/annatchijova/vigia-intent-analysis) · [官网](https://annatchijova.github.io/vigia/vigia.html) · 个人维护
 
 **面向 DFIR 的溯因推理与意图分析引擎：判定证据解释背后的获益方**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "annatchijova/vigia-intent-analysis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-20"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-19 19（+2）
+2026-10-18 17 → 2026-11-20 19（+2）
 
 
 ---

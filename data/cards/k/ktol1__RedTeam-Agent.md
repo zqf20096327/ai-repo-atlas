@@ -1,6 +1,6 @@
 # ktol1/RedTeam-Agent
 
-⭐ 82 · C · 推送 2026-04-24 · [GitHub](https://github.com/ktol1/RedTeam-Agent) · [官网](https://github.com/ktol1/RedTeam-MCP) · 个人维护 · 中文 README
+⭐ 83 · C · 推送 2026-04-24 · [GitHub](https://github.com/ktol1/RedTeam-Agent) · [官网](https://github.com/ktol1/RedTeam-MCP) · 个人维护 · 中文 README
 
 **AI 驱动的自动化红队/内网渗透框架，经 MCP 与技能文件编排 15+ 渗透工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ktol1/RedTeam-Agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 77 --> 83
-    line [78, 79, 80, 81, 82, 82]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 77 --> 84
+    line [78, 79, 80, 81, 82, 83]
 ```
 
-2026-10-18 78 → 2026-11-19 82（+4）
+2026-10-18 78 → 2026-11-20 83（+5）
 
 
 ---

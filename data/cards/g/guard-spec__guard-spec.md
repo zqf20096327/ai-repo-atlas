@@ -1,6 +1,6 @@
 # guard-spec/guard-spec
 
-⭐ 18 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/guard-spec/guard-spec) · [官网](https://guardspec.io) · 组织维护
+⭐ 18 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/guard-spec/guard-spec) · [官网](https://guardspec.io) · 组织维护
 
 **自托管提示注入防火墙：LLM 应用前的 OpenAI 兼容网关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "guard-spec/guard-spec 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-20"]
     y-axis "stars" 2 --> 19
     line [3, 15, 16, 18, 18]
 ```
 
-2026-11-08 3 → 2026-11-19 18（+15）
+2026-11-08 3 → 2026-11-20 18（+15）
 
 
 ---

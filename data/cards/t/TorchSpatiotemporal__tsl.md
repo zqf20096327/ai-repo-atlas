@@ -1,6 +1,6 @@
 # TorchSpatiotemporal/tsl
 
-⭐ 393 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TorchSpatiotemporal/tsl) · [官网](https://torch-spatiotemporal.readthedocs.io/) · 组织维护
+⭐ 394 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TorchSpatiotemporal/tsl) · [官网](https://torch-spatiotemporal.readthedocs.io/) · 组织维护
 
 **面向研究的 PyTorch 时空（图神经网络）预测库**
 
@@ -45,12 +45,12 @@ Torch Spatiotemporal（tsl）是基于 PyTorch、PyG 与 PyTorch Lightning 构�
 ```mermaid
 xychart-beta
     title "TorchSpatiotemporal/tsl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 387 --> 394
-    line [388, 389, 392, 393, 393]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 387 --> 395
+    line [388, 389, 392, 393, 394]
 ```
 
-2026-10-18 388 → 2026-11-19 393（+5）
+2026-10-18 388 → 2026-11-20 394（+6）
 
 
 ---

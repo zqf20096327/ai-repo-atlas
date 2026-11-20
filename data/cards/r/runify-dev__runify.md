@@ -1,6 +1,6 @@
 # runify-dev/runify
 
-⭐ 40 · Java · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/runify-dev/runify) · [官网](https://runify.cn) · 组织维护 · 中文 README
+⭐ 41 · Java · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/runify-dev/runify) · [官网](https://runify.cn) · 组织维护 · 中文 README
 
 **轻量白盒多智能体平台：可视化编排工作流与知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "runify-dev/runify 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 38, 40, 40]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 38, 40, 41]
 ```
 
-2026-10-18 38 → 2026-11-19 40（+2）
+2026-10-18 38 → 2026-11-20 41（+3）
 
 
 ---

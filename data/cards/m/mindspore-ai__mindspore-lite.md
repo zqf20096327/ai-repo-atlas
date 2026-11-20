@@ -1,6 +1,6 @@
 # mindspore-ai/mindspore-lite
 
-⭐ 14 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/mindspore-ai/mindspore-lite) · 组织维护 · 中文 README
+⭐ 14 · C++ · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mindspore-ai/mindspore-lite) · 组织维护 · 中文 README
 
 **面向端边云的轻量级 AI 推理引擎，支持多硬件部署**
 
@@ -46,12 +46,12 @@ MindSpore Lite 为不同硬件设备提供轻量级推理加速：将 MindSpore/
 ```mermaid
 xychart-beta
     title "mindspore-ai/mindspore-lite 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 9 --> 15
     line [10, 12, 14, 14]
 ```
 
-2026-10-31 10 → 2026-11-19 14（+4）
+2026-10-31 10 → 2026-11-20 14（+4）
 
 
 ---

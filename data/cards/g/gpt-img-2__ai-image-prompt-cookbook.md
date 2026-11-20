@@ -1,6 +1,6 @@
 # gpt-img-2/ai-image-prompt-cookbook
 
-⭐ 112 · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/gpt-img-2/ai-image-prompt-cookbook) · [官网](https://gptimg2.art/zh/prompts/gpt-image-2) · 个人维护 · 中文 README
+⭐ 111 · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/gpt-img-2/ai-image-prompt-cookbook) · [官网](https://gptimg2.art/zh/prompts/gpt-image-2) · 个人维护 · 中文 README
 
 **面向电商与内容创作的中文 AI 图片提示词模板库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gpt-img-2/ai-image-prompt-cookbook 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20"]
     y-axis "stars" 104 --> 113
-    line [105, 106, 107, 108, 110, 111, 112, 112]
+    line [105, 106, 107, 108, 110, 111, 112, 111]
 ```
 
-2026-10-18 105 → 2026-11-19 112（+7）
+2026-10-18 105 → 2026-11-20 111（+6）
 
 
 ---

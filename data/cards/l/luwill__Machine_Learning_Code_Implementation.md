@@ -1,6 +1,6 @@
 # luwill/Machine_Learning_Code_Implementation
 
-⭐ 1,553 · Jupyter Notebook · 推送 2026-04-29 · [GitHub](https://github.com/luwill/Machine_Learning_Code_Implementation) · 个人维护 · 中文 README
+⭐ 1,552 · Jupyter Notebook · 推送 2026-04-29 · [GitHub](https://github.com/luwill/Machine_Learning_Code_Implementation) · 个人维护 · 中文 README
 
 **《机器学习 公式推导与代码实现》一书配套算法代码库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "luwill/Machine_Learning_Code_Implementation 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 1552 --> 1558
-    line [1557, 1556, 1555, 1556, 1555, 1554, 1553, 1553]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 1551 --> 1558
+    line [1557, 1556, 1555, 1556, 1555, 1554, 1553, 1552]
 ```
 
-2026-10-18 1,557 → 2026-11-19 1,553（-4）
+2026-10-18 1,557 → 2026-11-20 1,552（-5）
 
 
 ---

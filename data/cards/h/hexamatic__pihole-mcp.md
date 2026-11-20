@@ -1,6 +1,6 @@
 # hexamatic/pihole-mcp
 
-⭐ 13 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hexamatic/pihole-mcp) · 个人维护
+⭐ 14 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hexamatic/pihole-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 管理 Pi-hole v6 DNS 的 Go 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hexamatic/pihole-mcp 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 9 --> 14
-    line [10, 12, 13, 13]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 9 --> 15
+    line [10, 12, 13, 14]
 ```
 
-2026-10-31 10 → 2026-11-19 13（+3）
+2026-10-31 10 → 2026-11-20 14（+4）
 
 
 ---

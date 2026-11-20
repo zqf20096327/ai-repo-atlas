@@ -46,12 +46,12 @@ cliany-site 通过 Chrome CDP 观察页面 AXTree，借助 LLM（Claude/GPT-4o�
 ```mermaid
 xychart-beta
     title "pearjelly/cliany.site 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

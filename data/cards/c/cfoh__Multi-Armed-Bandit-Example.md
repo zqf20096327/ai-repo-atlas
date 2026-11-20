@@ -1,6 +1,6 @@
 # cfoh/Multi-Armed-Bandit-Example
 
-⭐ 49 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/cfoh/Multi-Armed-Bandit-Example) · 个人维护
+⭐ 50 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/cfoh/Multi-Armed-Bandit-Example) · 个人维护
 
 **多臂老虎机（MAB）强化学习教程：以广告投放为例分章讲解并配代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cfoh/Multi-Armed-Bandit-Example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-18 49 → 2026-11-19 49（+0）
+2026-10-18 49 → 2026-11-20 50（+1）
 
 
 ---

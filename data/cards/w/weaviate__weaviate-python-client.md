@@ -1,6 +1,6 @@
 # weaviate/weaviate-python-client
 
-⭐ 230 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/weaviate/weaviate-python-client) · [官网](https://weaviate.io/developers/weaviate/client-libraries/python) · 组织维护
+⭐ 230 · Python · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/weaviate/weaviate-python-client) · [官网](https://weaviate.io/developers/weaviate/client-libraries/python) · 组织维护
 
 **Weaviate 向量数据库的官方 Python 客户端库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-python-client 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 227 --> 231
     line [228, 229, 228, 229, 230, 230]
 ```
 
-2026-10-18 228 → 2026-11-19 230（+2）
+2026-10-18 228 → 2026-11-20 230（+2）
 
 
 ---

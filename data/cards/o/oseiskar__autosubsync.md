@@ -1,6 +1,6 @@
 # oseiskar/autosubsync
 
-⭐ 470 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/oseiskar/autosubsync) · 个人维护
+⭐ 469 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/oseiskar/autosubsync) · 个人维护
 
 **自动同步字幕与音频的命令行工具（ML 语音检测）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oseiskar/autosubsync 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-19"]
-    y-axis "stars" 469 --> 471
-    line [470, 470]
+    x-axis ["2026-11-14", "2026-11-20"]
+    y-axis "stars" 468 --> 471
+    line [470, 469]
 ```
 
-2026-11-14 470 → 2026-11-19 470（+0）
+2026-11-14 470 → 2026-11-20 469（-1）
 
 
 ---

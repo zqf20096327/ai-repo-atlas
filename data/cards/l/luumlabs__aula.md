@@ -1,6 +1,6 @@
 # luumlabs/aula
 
-⭐ 67 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/luumlabs/aula) · [官网](https://github.com/luumlabs/aula/releases/latest) · 组织维护
+⭐ 68 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/luumlabs/aula) · [官网](https://github.com/luumlabs/aula/releases/latest) · 组织维护
 
 **免费开源 AI 家教与学习应用：把笔记课件变成课程与测验**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "luumlabs/aula 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 15 --> 71
-    line [19, 24, 41, 52, 54, 59, 65, 66, 67]
+    title "luumlabs/aula 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 15 --> 72
+    line [19, 24, 41, 52, 54, 59, 65, 66, 67, 68]
 ```
 
-2026-11-10 19 → 2026-11-19 67（+48）
+2026-11-10 19 → 2026-11-20 68（+49）
 
 
 ---

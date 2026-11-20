@@ -1,6 +1,6 @@
 # Blink-h/agent-startup-kit
 
-⭐ 205 · MIT · 推送 2026-07-22 · [GitHub](https://github.com/Blink-h/agent-startup-kit) · 个人维护
+⭐ 204 · MIT · 推送 2026-07-22 · [GitHub](https://github.com/Blink-h/agent-startup-kit) · 个人维护
 
 **面向 Claude Code/VS Code 的 SaaS 开发可复用 AI 编码工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Blink-h/agent-startup-kit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
     y-axis "stars" 202 --> 207
-    line [205, 204, 203, 206, 205, 205]
+    line [205, 204, 203, 206, 205, 204]
 ```
 
-2026-10-18 205 → 2026-11-19 205（+0）
+2026-10-18 205 → 2026-11-20 204（-1）
 
 
 ---

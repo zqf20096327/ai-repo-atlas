@@ -1,6 +1,6 @@
 # raphaelstolt/llms-txt-php
 
-⭐ 33 · PHP · MIT · 推送 2026-10-30 · [GitHub](https://github.com/raphaelstolt/llms-txt-php) · 个人维护
+⭐ 33 · PHP · MIT · 推送 2026-11-19 · [GitHub](https://github.com/raphaelstolt/llms-txt-php) · 个人维护
 
 **PHP 库：创建/解析/校验/发现/展开 llms.txt 文件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "raphaelstolt/llms-txt-php 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-19 33（+0）
+2026-10-18 33 → 2026-11-20 33（+0）
 
 
 ---

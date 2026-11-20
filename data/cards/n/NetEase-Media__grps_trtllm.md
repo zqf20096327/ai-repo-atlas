@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NetEase-Media/grps_trtllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "NetEase-Media/grps_trtllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 159 --> 162
-    line [161, 160]
+    line [161, 160, 160]
 ```
 
-2026-10-18 161 → 2026-11-19 160（-1）
+2026-10-18 161 → 2026-11-20 160（-1）
 
 
 ---

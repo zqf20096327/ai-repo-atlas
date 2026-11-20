@@ -1,6 +1,6 @@
 # SchlossLab/mikropml
 
-⭐ 65 · R · NOASSERTION · 推送 2026-08-29 · [GitHub](https://github.com/SchlossLab/mikropml) · [官网](http://www.schlosslab.org/mikropml) · 组织维护
+⭐ 65 · R · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/SchlossLab/mikropml) · [官网](http://www.schlosslab.org/mikropml) · 组织维护
 
 **面向监督学习的 R 语言机器学习流水线工具包**
 
@@ -45,12 +45,12 @@ R 包，为分类与回归问题构建机器学习模型，实现 Topçuoğlu �
 ```mermaid
 xychart-beta
     title "SchlossLab/mikropml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-11-19 65（+0）
+2026-10-18 65 → 2026-11-20 65（+0）
 
 
 ---

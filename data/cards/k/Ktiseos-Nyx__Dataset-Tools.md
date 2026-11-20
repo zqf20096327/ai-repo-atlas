@@ -1,6 +1,6 @@
 # Ktiseos-Nyx/Dataset-Tools
 
-⭐ 84 · TypeScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Ktiseos-Nyx/Dataset-Tools) · [官网](https://dataset-tools-three.vercel.app) · 个人维护
+⭐ 84 · TypeScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Ktiseos-Nyx/Dataset-Tools) · [官网](https://dataset-tools-three.vercel.app) · 个人维护
 
 **查看 AI 生成图片与照片 EXIF 元数据的本地优先 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ktiseos-Nyx/Dataset-Tools 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
+    title "Ktiseos-Nyx/Dataset-Tools 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 82 --> 85
-    line [83, 84]
+    line [83, 84, 84]
 ```
 
-2026-11-16 83 → 2026-11-19 84（+1）
+2026-11-16 83 → 2026-11-20 84（+1）
 
 
 ---

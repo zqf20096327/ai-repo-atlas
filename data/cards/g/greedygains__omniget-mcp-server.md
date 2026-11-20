@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "greedygains/omniget-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    title "greedygains/omniget-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-19", "2026-11-20"]
     y-axis "stars" 5 --> 12
-    line [6, 10, 11]
+    line [6, 10, 11, 11]
 ```
 
-2026-10-18 6 → 2026-11-19 11（+5）
+2026-10-18 6 → 2026-11-20 11（+5）
 
 
 ---

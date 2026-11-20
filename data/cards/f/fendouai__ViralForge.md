@@ -1,6 +1,6 @@
 # fendouai/ViralForge
 
-⭐ 321 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/fendouai/ViralForge) · 个人维护 · 中文 README
+⭐ 377 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/fendouai/ViralForge) · 个人维护 · 中文 README
 
 **爆款短视频一键复刻工作室：拆解脚本结构并产出10个变体**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fendouai/ViralForge 星数(近 7 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 9 --> 349
-    line [37, 101, 152, 205, 236, 276, 321]
+    title "fendouai/ViralForge 星数(近 8 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 3 --> 411
+    line [37, 101, 152, 205, 236, 276, 321, 377]
 ```
 
-2026-11-12 37 → 2026-11-19 321（+284）
+2026-11-12 37 → 2026-11-20 377（+340）
 
 
 ---

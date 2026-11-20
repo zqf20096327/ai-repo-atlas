@@ -1,6 +1,6 @@
 # johnsonhk88/qwen3-tts-hk-cantonese-finetune
 
-⭐ 36 · Jupyter Notebook · 推送 2026-08-02 · [GitHub](https://github.com/johnsonhk88/qwen3-tts-hk-cantonese-finetune) · 个人维护 · 中文 README
+⭐ 36 · Jupyter Notebook · 推送 2026-11-19 · [GitHub](https://github.com/johnsonhk88/qwen3-tts-hk-cantonese-finetune) · 个人维护 · 中文 README
 
 **面向香港粤语的 Qwen3-TTS 微调工作流：克隆与多说话人语音生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "johnsonhk88/qwen3-tts-hk-cantonese-finetune 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-20"]
     y-axis "stars" 29 --> 37
     line [30, 32, 33, 32, 34, 35, 36, 36]
 ```
 
-2026-10-18 30 → 2026-11-19 36（+6）
+2026-10-18 30 → 2026-11-20 36（+6）
 
 
 ---

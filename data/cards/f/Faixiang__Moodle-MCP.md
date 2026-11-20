@@ -1,6 +1,6 @@
 # Faixiang/Moodle-MCP
 
-⭐ 208 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Faixiang/Moodle-MCP) · 个人维护 · 中文 README
+⭐ 209 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Faixiang/Moodle-MCP) · 个人维护 · 中文 README
 
 **连接 Moodle API 的零依赖只读 MCP 服务器，供 AI 客户端调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Faixiang/Moodle-MCP 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 0 --> 228
-    line [4, 204, 205, 206, 208, 208]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 0 --> 229
+    line [4, 204, 205, 206, 208, 209]
 ```
 
-2026-11-02 4 → 2026-11-19 208（+204）
+2026-11-02 4 → 2026-11-20 209（+205）
 
 
 ---

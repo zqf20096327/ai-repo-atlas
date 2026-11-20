@@ -1,6 +1,6 @@
 # hotosm/fAIr
 
-⭐ 162 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/hotosm/fAIr) · [官网](https://hotosm.github.io/fAIr/) · 组织维护
+⭐ 162 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/hotosm/fAIr) · [官网](https://hotosm.github.io/fAIr/) · 组织维护
 
 **人道主义制图者用的 AI 辅助地图服务：从影像检测建筑/道路等**
 
@@ -45,12 +45,12 @@ HOT（人道主义 OpenStreetMap 团队）开发的开源 AI 辅助制图服务�
 ```mermaid
 xychart-beta
     title "hotosm/fAIr 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 148 --> 163
     line [149, 154, 161, 162, 162]
 ```
 
-2026-10-18 149 → 2026-11-19 162（+13）
+2026-10-18 149 → 2026-11-20 162（+13）
 
 
 ---

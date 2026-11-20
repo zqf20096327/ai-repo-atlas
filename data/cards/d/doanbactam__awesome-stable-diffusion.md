@@ -1,6 +1,6 @@
 # doanbactam/awesome-stable-diffusion
 
-⭐ 83 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/doanbactam/awesome-stable-diffusion) · 个人维护
+⭐ 84 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/doanbactam/awesome-stable-diffusion) · 个人维护
 
 **Stable Diffusion 及扩散模型工具资源的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "doanbactam/awesome-stable-diffusion 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 82, 83, 82, 83]
+    title "doanbactam/awesome-stable-diffusion 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 82, 83, 82, 83, 84]
 ```
 
-2026-10-18 82 → 2026-11-19 83（+1）
+2026-10-18 82 → 2026-11-20 84（+2）
 
 
 ---

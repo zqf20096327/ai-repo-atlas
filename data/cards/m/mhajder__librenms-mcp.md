@@ -1,6 +1,6 @@
 # mhajder/librenms-mcp
 
-⭐ 43 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/mhajder/librenms-mcp) · [官网](https://pypi.org/project/librenms-mcp/) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mhajder/librenms-mcp) · [官网](https://pypi.org/project/librenms-mcp/) · 个人维护
 
 **让 AI agent 通过 MCP 查询和管理 LibreNMS 网络监控的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mhajder/librenms-mcp 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44]
 ```
 
-2026-10-19 42 → 2026-11-19 43（+1）
+2026-10-19 42 → 2026-11-20 44（+2）
 
 
 ---

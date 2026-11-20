@@ -46,12 +46,12 @@ AKA Security 出品的 Claude Code 安全加固套件：通过独立隔离的 pr
 ```mermaid
 xychart-beta
     title "akasecurity/aka-claude-tools 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-19"]
+    x-axis ["2026-10-28", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-28 11 → 2026-11-19 11（+0）
+2026-10-28 11 → 2026-11-20 11（+0）
 
 
 ---

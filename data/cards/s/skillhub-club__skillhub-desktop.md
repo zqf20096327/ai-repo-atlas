@@ -1,6 +1,6 @@
 # skillhub-club/skillhub-desktop
 
-⭐ 606 · TypeScript · 推送 2026-03-07 · [GitHub](https://github.com/skillhub-club/skillhub-desktop) · 组织维护 · 中文 README
+⭐ 602 · TypeScript · 推送 2026-03-07 · [GitHub](https://github.com/skillhub-club/skillhub-desktop) · 组织维护 · 中文 README
 
 **管理 AI 编程工具技能的桌面应用：浏览、安装与多工具同步**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skillhub-club/skillhub-desktop 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 598 --> 607
-    line [599, 600, 601, 603, 599, 605, 606, 606]
+    line [599, 600, 601, 603, 599, 605, 606, 602]
 ```
 
-2026-10-18 599 → 2026-11-19 606（+7）
+2026-10-18 599 → 2026-11-20 602（+3）
 
 
 ---

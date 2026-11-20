@@ -1,6 +1,6 @@
 # atopos31/agent-rss
 
-⭐ 12 · Go · MIT · 推送 2026-03-15 · [GitHub](https://github.com/atopos31/agent-rss) · 个人维护 · 中文 README
+⭐ 13 · Go · MIT · 推送 2026-03-15 · [GitHub](https://github.com/atopos31/agent-rss) · 个人维护 · 中文 README
 
 **面向 AI agent 的 CLI RSS 订阅与抓取工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "atopos31/agent-rss 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-19 12（+1）
+2026-10-18 11 → 2026-11-20 13（+2）
 
 
 ---

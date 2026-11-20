@@ -1,6 +1,6 @@
 # agent-substrate/always-on-agent
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/agent-substrate/always-on-agent) · [官网](https://www.youtube.com/watch?v=D5a9tyPkaPY) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/agent-substrate/always-on-agent) · [官网](https://www.youtube.com/watch?v=D5a9tyPkaPY) · 组织维护
 
 **在 GKE 上以可挂起 actor 形式运行常驻消息 agent 的参考实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agent-substrate/always-on-agent 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 23 --> 35
-    line [24, 25, 27, 25, 28, 30, 32, 33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 23 --> 36
+    line [24, 25, 27, 25, 28, 30, 32, 33, 34, 35]
 ```
 
-2026-10-18 24 → 2026-11-19 34（+10）
+2026-10-18 24 → 2026-11-20 35（+11）
 
 
 ---

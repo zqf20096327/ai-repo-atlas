@@ -1,6 +1,6 @@
 # ssaaffaakk/Project-buddy-Pb
 
-⭐ 21 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ssaaffaakk/Project-buddy-Pb) · [官网](https://project-buddy-pb.onrender.com) · 个人维护
+⭐ 19 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ssaaffaakk/Project-buddy-Pb) · [官网](https://project-buddy-pb.onrender.com) · 个人维护
 
 **面向大学生的组队平台：语义匹配队友与项目、信誉体系、RAG 助手**
 
@@ -47,12 +47,12 @@ ProjectBuddy 是面向大学生的项目组队 Web 平台，基于 Flask + Postg
 ```mermaid
 xychart-beta
     title "ssaaffaakk/Project-buddy-Pb 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 20 --> 30
-    line [29, 21, 21]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 18 --> 30
+    line [29, 21, 19]
 ```
 
-2026-11-08 29 → 2026-11-19 21（-8）
+2026-11-08 29 → 2026-11-20 19（-10）
 
 
 ---

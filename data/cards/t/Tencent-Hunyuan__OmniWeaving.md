@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/OmniWeaving
 
-⭐ 808 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Tencent-Hunyuan/OmniWeaving) · [官网](https://omniweaving.github.io/) · 组织维护 · 中文 README
+⭐ 807 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Tencent-Hunyuan/OmniWeaving) · [官网](https://omniweaving.github.io/) · 组织维护 · 中文 README
 
 **腾讯混元统一视频生成模型：文/图/视频输入生成视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/OmniWeaving 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-16", "2026-11-20"]
     y-axis "stars" 806 --> 810
-    line [808, 807, 808, 809, 807, 808, 808]
+    line [808, 807, 808, 809, 807, 808, 807]
 ```
 
-2026-10-18 808 → 2026-11-19 808（+0）
+2026-10-18 808 → 2026-11-20 807（-1）
 
 
 ---

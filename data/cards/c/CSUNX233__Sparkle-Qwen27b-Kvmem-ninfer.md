@@ -1,6 +1,6 @@
 # CSUNX233/Sparkle-Qwen27b-Kvmem-ninfer
 
-⭐ 104 · C++ · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/CSUNX233/Sparkle-Qwen27b-Kvmem-ninfer) · 个人维护 · 中文 README
+⭐ 104 · C++ · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/CSUNX233/Sparkle-Qwen27b-Kvmem-ninfer) · 个人维护 · 中文 README
 
 **在 12GB 笔记本显卡上本地运行 Qwen 27B Agent 的推理栈**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CSUNX233/Sparkle-Qwen27b-Kvmem-ninfer 星数(近 8 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    title "CSUNX233/Sparkle-Qwen27b-Kvmem-ninfer 星数(近 9 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 93 --> 105
-    line [94, 96, 97, 99, 101, 102, 103, 104]
+    line [94, 96, 97, 99, 101, 102, 103, 104, 104]
 ```
 
-2026-11-11 94 → 2026-11-19 104（+10）
+2026-11-11 94 → 2026-11-20 104（+10）
 
 
 ---

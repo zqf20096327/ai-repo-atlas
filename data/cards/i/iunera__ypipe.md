@@ -1,6 +1,6 @@
 # iunera/ypipe
 
-⭐ 14 · PowerShell · 推送 2026-08-31 · [GitHub](https://github.com/iunera/ypipe) · [官网](https://ypipe.ai) · 组织维护
+⭐ 15 · PowerShell · 推送 2026-08-31 · [GitHub](https://github.com/iunera/ypipe) · [官网](https://ypipe.ai) · 组织维护
 
 **企业本地 AI 客户端与 MCP 编排引擎（Java 单体）**
 
@@ -46,12 +46,12 @@ iunera 开发的本地桌面应用：内置自带的推理引擎，在 CPU/GPU �
 ```mermaid
 xychart-beta
     title "iunera/ypipe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 15（+1）
 
 
 ---

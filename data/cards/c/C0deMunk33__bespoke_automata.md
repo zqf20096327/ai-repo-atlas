@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "C0deMunk33/bespoke_automata 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "C0deMunk33/bespoke_automata 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 221 --> 224
-    line [223, 222]
+    line [223, 222, 222]
 ```
 
-2026-10-18 223 → 2026-11-19 222（-1）
+2026-10-18 223 → 2026-11-20 222（-1）
 
 
 ---

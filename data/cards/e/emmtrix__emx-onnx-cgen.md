@@ -1,6 +1,6 @@
 # emmtrix/emx-onnx-cgen
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/emmtrix/emx-onnx-cgen) · [官网](https://www.emmtrix.com/wiki/emmtrix_ONNX-to-C_Code_Generator) · 组织维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/emmtrix/emx-onnx-cgen) · [官网](https://www.emmtrix.com/wiki/emmtrix_ONNX-to-C_Code_Generator) · 组织维护
 
 **把 ONNX 模型编译为可审计 C 代码的嵌入式 AI 编译器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "emmtrix/emx-onnx-cgen 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 38 --> 44
-    line [39, 40, 42, 43, 43]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 38 --> 45
+    line [39, 40, 42, 43, 44]
 ```
 
-2026-10-18 39 → 2026-11-19 43（+4）
+2026-10-18 39 → 2026-11-20 44（+5）
 
 
 ---

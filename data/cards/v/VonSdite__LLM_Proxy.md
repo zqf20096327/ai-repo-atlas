@@ -1,6 +1,6 @@
 # VonSdite/LLM_Proxy
 
-⭐ 71 · Python · 推送 2026-11-18 · [GitHub](https://github.com/VonSdite/LLM_Proxy) · 个人维护 · 中文 README
+⭐ 73 · Python · 推送 2026-11-18 · [GitHub](https://github.com/VonSdite/LLM_Proxy) · 个人维护 · 中文 README
 
 **统一 LLM 接入层：多上游多协议代理与凭据池管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VonSdite/LLM_Proxy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 48 --> 73
-    line [50, 54, 55, 56, 57, 71]
+    title "VonSdite/LLM_Proxy 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 48 --> 75
+    line [50, 54, 55, 56, 57, 71, 73]
 ```
 
-2026-10-18 50 → 2026-11-19 71（+21）
+2026-10-18 50 → 2026-11-20 73（+23）
 
 
 ---

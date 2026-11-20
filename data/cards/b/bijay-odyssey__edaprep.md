@@ -1,6 +1,6 @@
 # bijay-odyssey/edaprep
 
-⭐ 16 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/bijay-odyssey/edaprep) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/bijay-odyssey/edaprep) · 个人维护
 
 **面向 pandas 的防泄漏 EDA 与 ML 预处理库，带可解释规划器**
 
@@ -46,12 +46,12 @@ Python 库，为表格数据提供数据剖析、EDA 报告（quick/standard/dee
 ```mermaid
 xychart-beta
     title "bijay-odyssey/edaprep 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-18 16 → 2026-11-19 16（+0）
+2026-10-18 16 → 2026-11-20 15（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ptrefall/fluid-hierarchical-task-network
 
-⭐ 463 · C# · MIT · 推送 2026-03-18 · [GitHub](https://github.com/ptrefall/fluid-hierarchical-task-network) · 个人维护
+⭐ 462 · C# · MIT · 推送 2026-03-18 · [GitHub](https://github.com/ptrefall/fluid-hierarchical-task-network) · 个人维护
 
 **C# 的 HTN 规划器库：为游戏 AI 生成任务执行计划**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ptrefall/fluid-hierarchical-task-network 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
     y-axis "stars" 456 --> 464
-    line [457, 458, 459, 457, 459, 461, 463, 463]
+    line [457, 458, 459, 457, 459, 461, 463, 462]
 ```
 
-2026-10-18 457 → 2026-11-19 463（+6）
+2026-10-18 457 → 2026-11-20 462（+5）
 
 
 ---

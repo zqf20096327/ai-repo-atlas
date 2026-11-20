@@ -1,6 +1,6 @@
 # dznass-cmd/RadarRSS
 
-⭐ 69 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/dznass-cmd/RadarRSS) · 个人维护 · 中文 README
+⭐ 69 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dznass-cmd/RadarRSS) · 个人维护 · 中文 README
 
 **带 Gemini AI 摘要的实时 RSS 新闻聚合器（Windows/Android）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dznass-cmd/RadarRSS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-20"]
     y-axis "stars" 58 --> 70
     line [59, 60, 66, 69, 69]
 ```
 
-2026-10-18 59 → 2026-11-19 69（+10）
+2026-10-18 59 → 2026-11-20 69（+10）
 
 
 ---

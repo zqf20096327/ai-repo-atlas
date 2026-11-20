@@ -1,6 +1,6 @@
 # theaiautomators/insights-lm-public
 
-⭐ 659 · TypeScript · MIT · 推送 2026-01-16 · [GitHub](https://github.com/theaiautomators/insights-lm-public) · [官网](https://www.theaiautomators.com/) · 组织维护
+⭐ 660 · TypeScript · MIT · 推送 2026-01-16 · [GitHub](https://github.com/theaiautomators/insights-lm-public) · [官网](https://www.theaiautomators.com/) · 组织维护
 
 **可自托管的 NotebookLM 替代品：文档问答与音频摘要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "theaiautomators/insights-lm-public 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 656 --> 660
-    line [659, 657, 658, 659, 659]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 656 --> 661
+    line [659, 657, 658, 659, 660]
 ```
 
-2026-10-18 659 → 2026-11-19 659（+0）
+2026-10-18 659 → 2026-11-20 660（+1）
 
 
 ---

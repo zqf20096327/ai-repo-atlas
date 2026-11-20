@@ -1,6 +1,6 @@
 # codiceSpaghetti/numpyGPT
 
-⭐ 22 · Python · 推送 2025-11-23 · [GitHub](https://github.com/codiceSpaghetti/numpyGPT) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **仅用 NumPy 从零实现 GPT 的教育性项目：手写前向/反向传播**
 

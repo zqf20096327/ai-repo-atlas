@@ -1,6 +1,6 @@
 # bimwright/nwd-mcp
 
-⭐ 10 · C# · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/bimwright/nwd-mcp) · 组织维护 · 中文 README
+⭐ 11 · C# · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/bimwright/nwd-mcp) · 组织维护 · 中文 README
 
 **让 AI agent 通过 MCP 查询与脚本化操作 Navisworks 的网关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bimwright/nwd-mcp 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-19 10（+0）
+2026-11-08 10 → 2026-11-20 11（+1）
 
 
 ---

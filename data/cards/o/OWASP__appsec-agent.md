@@ -1,6 +1,6 @@
 # OWASP/appsec-agent
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/OWASP/appsec-agent) · [官网](https://owasp.org/appsec-agent/) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/OWASP/appsec-agent) · [官网](https://owasp.org/appsec-agent/) · 组织维护
 
 **OWASP 维护的应用安全 AI Agent 工具：代码审查与威胁建模**
 
@@ -47,12 +47,12 @@ TypeScript/npm 包，提供面向应用安全（AppSec）任务的 AI agent：�
 ```mermaid
 xychart-beta
     title "OWASP/appsec-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 18, 19, 17, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 18, 19, 17, 19, 20, 21]
 ```
 
-2026-10-18 16 → 2026-11-19 20（+4）
+2026-10-18 16 → 2026-11-20 21（+5）
 
 
 ---

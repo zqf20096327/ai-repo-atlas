@@ -1,6 +1,6 @@
 # AgenticGoKit/AgenticGoKit
 
-⭐ 183 · Go · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/AgenticGoKit/AgenticGoKit) · [官网](https://docs.agenticgokit.com/) · 组织维护
+⭐ 182 · Go · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/AgenticGoKit/AgenticGoKit) · [官网](https://docs.agenticgokit.com/) · 组织维护
 
 **Go 语言多智能体 AI 应用开发框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AgenticGoKit/AgenticGoKit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
     y-axis "stars" 180 --> 184
-    line [181, 182, 181, 182, 183, 183]
+    line [181, 182, 181, 182, 183, 182]
 ```
 
-2026-10-18 181 → 2026-11-19 183（+2）
+2026-10-18 181 → 2026-11-20 182（+1）
 
 
 ---

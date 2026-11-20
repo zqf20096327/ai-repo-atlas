@@ -1,6 +1,6 @@
 # keon/deep-q-learning
 
-⭐ 1,334 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/keon/deep-q-learning) · [官网](https://keon.kim/writing/deep-q-learning/) · 个人维护
+⭐ 1,332 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/keon/deep-q-learning) · [官网](https://keon.kim/writing/deep-q-learning/) · 个人维护
 
 **Keras 实现的极简 DQN/DDQN 深度强化学习示例代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "keon/deep-q-learning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 1330 --> 1335
-    line [1331, 1332, 1333, 1334, 1332, 1334, 1334]
+    line [1331, 1332, 1333, 1334, 1332, 1334, 1332]
 ```
 
-2026-10-18 1,331 → 2026-11-19 1,334（+3）
+2026-10-18 1,331 → 2026-11-20 1,332（+1）
 
 
 ---

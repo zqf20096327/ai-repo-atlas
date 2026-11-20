@@ -1,6 +1,6 @@
 # musicinformationretrieval/musicinformationretrieval.com
 
-⭐ 1,311 · Jupyter Notebook · MIT · 推送 2026-05-19 · [GitHub](https://github.com/musicinformationretrieval/musicinformationretrieval.com) · [官网](http://musicinformationretrieval.com) · 组织维护
+⭐ 1,309 · Jupyter Notebook · MIT · 推送 2026-05-19 · [GitHub](https://github.com/musicinformationretrieval/musicinformationretrieval.com) · [官网](http://musicinformationretrieval.com) · 组织维护
 
 **音乐信息检索（MIR）教学笔记本合集网站**
 
@@ -45,12 +45,12 @@ musicinformationretrieval.com 的源码仓库，收录 Jupyter 教学笔记本�
 ```mermaid
 xychart-beta
     title "musicinformationretrieval/musicinformationretrieval.com 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 1289 --> 1313
-    line [1291, 1292, 1293, 1294, 1299, 1304, 1293, 1311, 1311]
+    line [1291, 1292, 1293, 1294, 1299, 1304, 1293, 1311, 1309]
 ```
 
-2026-10-18 1,291 → 2026-11-19 1,311（+20）
+2026-10-18 1,291 → 2026-11-20 1,309（+18）
 
 
 ---

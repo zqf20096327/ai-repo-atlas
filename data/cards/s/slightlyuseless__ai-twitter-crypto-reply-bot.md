@@ -1,6 +1,6 @@
 # slightlyuseless/ai-twitter-crypto-reply-bot
 
-⭐ 26 · JavaScript · MIT · 推送 2026-06-25 · [GitHub](https://github.com/slightlyuseless/ai-twitter-crypto-reply-bot) · 个人维护
+⭐ 24 · JavaScript · MIT · 推送 2026-06-25 · [GitHub](https://github.com/slightlyuseless/ai-twitter-crypto-reply-bot) · 个人维护
 
 **自动回复 Crypto Twitter 的 AI 回复机器人（Claude/OpenAI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "slightlyuseless/ai-twitter-crypto-reply-bot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 25 --> 42
-    line [41, 37, 38, 37, 28, 26, 26]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 23 --> 42
+    line [41, 37, 38, 37, 28, 26, 24]
 ```
 
-2026-10-18 41 → 2026-11-19 26（-15）
+2026-10-18 41 → 2026-11-20 24（-17）
 
 
 ---

@@ -1,6 +1,6 @@
 # programmersd21/frame_studio
 
-⭐ 10 · TypeScript · 推送 2026-07-28 · [GitHub](https://github.com/programmersd21/frame_studio) · [官网](https://frame-studio-eta.vercel.app) · 个人维护
+⭐ 11 · TypeScript · 推送 2026-07-28 · [GitHub](https://github.com/programmersd21/frame_studio) · [官网](https://frame-studio-eta.vercel.app) · 个人维护
 
 **输入提示词生成 Remotion 动效视频的 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "programmersd21/frame_studio 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-15", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-15 10 → 2026-11-19 10（+0）
+2026-11-15 10 → 2026-11-20 11（+1）
 
 
 ---

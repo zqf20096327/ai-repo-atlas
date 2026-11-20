@@ -1,6 +1,6 @@
 # nalinbhardwaj/botscent
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/nalinbhardwaj/botscent) · [官网](https://botscent.nibnalin.me) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/nalinbhardwaj/botscent) · [官网](https://botscent.nibnalin.me) · 个人维护
 
 **网站检测 AI agent 访问并识别其身份的前端/服务端库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nalinbhardwaj/botscent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 32 --> 81
-    line [77, 74, 38, 36, 36]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 30 --> 81
+    line [77, 74, 38, 36, 34]
 ```
 
-2026-10-18 77 → 2026-11-19 36（-41）
+2026-10-18 77 → 2026-11-20 34（-43）
 
 
 ---

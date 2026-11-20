@@ -1,6 +1,6 @@
 # dend/brick-mcp-app
 
-⭐ 30 · TypeScript · MIT · 推送 2026-03-16 · [GitHub](https://github.com/dend/brick-mcp-app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MCP App：让 AI 通过自然语言在 3D 场景中搭积木**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

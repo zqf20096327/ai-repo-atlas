@@ -1,6 +1,6 @@
 # xenith-ai/xenith
 
-⭐ 31 · JavaScript · 推送 2026-03-03 · [GitHub](https://github.com/xenith-ai/xenith) · [官网](https://xenith.ai) · 组织维护
+⭐ 28 · JavaScript · 推送 2026-03-03 · [GitHub](https://github.com/xenith-ai/xenith) · [官网](https://xenith.ai) · 组织维护
 
 **浏览器内本地运行的 LLM 语音助手，数据不出设备**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xenith-ai/xenith 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 30 --> 40
-    line [39, 36, 32, 31, 31]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 27 --> 40
+    line [39, 36, 32, 31, 28]
 ```
 
-2026-10-18 39 → 2026-11-19 31（-8）
+2026-10-18 39 → 2026-11-20 28（-11）
 
 
 ---

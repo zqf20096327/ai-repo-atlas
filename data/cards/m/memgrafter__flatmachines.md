@@ -1,6 +1,6 @@
 # memgrafter/flatmachines
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/memgrafter/flatmachines) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/memgrafter/flatmachines) · 个人维护
 
 **用 YAML 状态机网络编排 AI agent 的运行时框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "memgrafter/flatmachines 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-18 37 → 2026-11-19 37（+0）
+2026-10-18 37 → 2026-11-20 38（+1）
 
 
 ---

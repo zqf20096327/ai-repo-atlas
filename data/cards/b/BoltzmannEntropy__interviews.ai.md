@@ -1,6 +1,6 @@
 # BoltzmannEntropy/interviews.ai
 
-⭐ 4,899 · 推送 2026-11-18 · [GitHub](https://github.com/BoltzmannEntropy/interviews.ai) · [官网](https://interviews.ai) · 个人维护
+⭐ 4,900 · 推送 2026-11-19 · [GitHub](https://github.com/BoltzmannEntropy/interviews.ai) · [官网](https://interviews.ai) · 个人维护
 
 **面向研究生与求职者的深度学习面试题解书（数百道完整解答）**
 
@@ -40,6 +40,18 @@
 > L1: Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in A
 > L95: This book (www.interviews.ai) was written for you: an aspiring data scientist with a quantitative background, facin
 > L100: The second edition of Deep Learning Interviews (The Amazon Softcover is printed in B&W) is home to hundreds of ful
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BoltzmannEntropy/interviews.ai 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 4898 --> 4901
+    line [4899, 4900]
+```
+
+2026-11-19 4,899 → 2026-11-20 4,900（+1）
 
 
 ---

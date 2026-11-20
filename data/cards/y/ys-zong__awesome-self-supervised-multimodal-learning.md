@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ys-zong/awesome-self-supervised-multimodal-learning 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-20"]
     y-axis "stars" 278 --> 280
     line [279, 279]
 ```
 
-2026-11-08 279 → 2026-11-19 279（+0）
+2026-11-08 279 → 2026-11-20 279（+0）
 
 
 ---

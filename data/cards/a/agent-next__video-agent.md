@@ -1,6 +1,6 @@
 # agent-next/video-agent
 
-⭐ 118 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/agent-next/video-agent) · [官网](https://open-video.ai) · 组织维护
+⭐ 123 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/agent-next/video-agent) · [官网](https://open-video.ai) · 组织维护
 
 **本地视频生成运行时：在自己 GPU 上跑 MiniMax H3**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agent-next/video-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 115 --> 120
-    line [119, 118, 116, 117, 118, 118]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 115 --> 124
+    line [119, 118, 116, 117, 118, 123]
 ```
 
-2026-10-18 119 → 2026-11-19 118（-1）
+2026-10-18 119 → 2026-11-20 123（+4）
 
 
 ---

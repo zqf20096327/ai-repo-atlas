@@ -1,6 +1,6 @@
 # huggingface/hf-agents
 
-⭐ 444 · Shell · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/huggingface/hf-agents) · 组织维护
+⭐ 445 · Shell · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/huggingface/hf-agents) · 组织维护
 
 **HF CLI 扩展：检测硬件推荐模型并启动本地编码 agent**
 
@@ -45,12 +45,12 @@ huggingface 官方的 `hf` CLI 扩展：调用 llmfit 检测用户硬件并推�
 ```mermaid
 xychart-beta
     title "huggingface/hf-agents 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 438 --> 445
-    line [439, 441, 442, 443, 444, 444]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 438 --> 446
+    line [439, 441, 442, 443, 444, 445]
 ```
 
-2026-10-18 439 → 2026-11-19 444（+5）
+2026-10-18 439 → 2026-11-20 445（+6）
 
 
 ---

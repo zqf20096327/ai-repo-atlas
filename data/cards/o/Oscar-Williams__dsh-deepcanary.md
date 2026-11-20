@@ -1,6 +1,6 @@
 # Oscar-Williams/dsh-deepcanary
 
-⭐ 182 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Oscar-Williams/dsh-deepcanary) · [官网](https://www.npmjs.com/package/dsh-deepcanary) · 个人维护 · 中文 README
+⭐ 183 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Oscar-Williams/dsh-deepcanary) · [官网](https://www.npmjs.com/package/dsh-deepcanary) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的任务收件箱与本地通知插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Oscar-Williams/dsh-deepcanary 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 110 --> 188
-    line [116, 131, 141, 154, 160, 169, 182, 182]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 110 --> 189
+    line [116, 131, 141, 154, 160, 169, 182, 183]
 ```
 
-2026-11-08 116 → 2026-11-19 182（+66）
+2026-11-08 116 → 2026-11-20 183（+67）
 
 
 ---

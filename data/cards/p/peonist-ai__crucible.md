@@ -1,6 +1,6 @@
 # peonist-ai/crucible
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/peonist-ai/crucible) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/peonist-ai/crucible) · 组织维护
 
 **MoE 大模型专家压缩工具：剪枝/合并并评测，供消费级硬件本地推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "peonist-ai/crucible 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-19 14（+1）
+2026-10-18 13 → 2026-11-20 14（+1）
 
 
 ---

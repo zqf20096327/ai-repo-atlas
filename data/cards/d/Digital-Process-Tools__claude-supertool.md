@@ -1,6 +1,6 @@
 # Digital-Process-Tools/claude-supertool
 
-⭐ 26 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Digital-Process-Tools/claude-supertool) · [官网](https://github.com/Digital-Process-Tools/claude-marketplace) · 组织维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Digital-Process-Tools/claude-supertool) · [官网](https://github.com/Digital-Process-Tools/claude-marketplace) · 组织维护
 
 **Claude Code 的批量操作插件：合并文件/git/看板调用减少轮次**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Digital-Process-Tools/claude-supertool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-19 26（+0）
+2026-10-18 26 → 2026-11-20 26（+0）
 
 
 ---

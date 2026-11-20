@@ -1,6 +1,6 @@
 # Ariestar/agent-runbook
 
-⭐ 14 · Rust · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Ariestar/agent-runbook) · [官网](https://agent-runbook.pages.dev/) · 个人维护 · 中文 README
+⭐ 13 · Rust · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Ariestar/agent-runbook) · [官网](https://agent-runbook.pages.dev/) · 个人维护 · 中文 README
 
 **AI 编码 agent 的本地操作契约 CLI：扫描项目与机器环境生成工具选择与护栏**
 
@@ -45,12 +45,12 @@ Rust 编写的命令行工具，在 AI 编码 agent 修改文件前执行预检�
 ```mermaid
 xychart-beta
     title "Ariestar/agent-runbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 12 --> 15
+    line [14, 13]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 13（-1）
 
 
 ---

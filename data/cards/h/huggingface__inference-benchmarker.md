@@ -46,12 +46,12 @@ Hugging Face 维护的 Rust 命令行基准测试工具，面向暴露 OpenAI �
 ```mermaid
 xychart-beta
     title "huggingface/inference-benchmarker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
     y-axis "stars" 175 --> 178
     line [176, 177, 177]
 ```
 
-2026-10-18 176 → 2026-11-19 177（+1）
+2026-10-18 176 → 2026-11-20 177（+1）
 
 
 ---

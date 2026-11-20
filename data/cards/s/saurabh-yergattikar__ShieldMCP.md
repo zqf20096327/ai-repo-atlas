@@ -1,6 +1,6 @@
 # saurabh-yergattikar/ShieldMCP
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/saurabh-yergattikar/ShieldMCP) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/saurabh-yergattikar/ShieldMCP) · 个人维护
 
 **面向 MCP 的透明安全代理：校验工具元数据、调用与响应**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "saurabh-yergattikar/ShieldMCP 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-10", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 13]
 ```
 
-2026-11-10 10 → 2026-11-19 11（+1）
+2026-11-10 10 → 2026-11-20 13（+3）
 
 
 ---

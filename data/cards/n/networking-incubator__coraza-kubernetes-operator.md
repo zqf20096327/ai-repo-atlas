@@ -1,6 +1,6 @@
 # networking-incubator/coraza-kubernetes-operator
 
-⭐ 23 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/networking-incubator/coraza-kubernetes-operator) · 组织维护
+⭐ 23 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/networking-incubator/coraza-kubernetes-operator) · 组织维护
 
 **Kubernetes 网关的 WAF 管理算子：声明式部署 Coraza 防火墙**
 
@@ -44,13 +44,13 @@ Coraza Kubernetes Operator（CKO）在 Kubernetes 集群上以声明式方式管
 
 ```mermaid
 xychart-beta
-    title "networking-incubator/coraza-kubernetes-operator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19"]
+    title "networking-incubator/coraza-kubernetes-operator 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20"]
     y-axis "stars" 18 --> 24
-    line [19, 20, 21, 22, 23]
+    line [19, 20, 21, 22, 23, 23]
 ```
 
-2026-10-18 19 → 2026-11-19 23（+4）
+2026-10-18 19 → 2026-11-20 23（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # jrullan/ducklab
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/jrullan/ducklab) · 个人维护
+⭐ 11 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jrullan/ducklab) · 个人维护
 
 **自托管多 LLM 开发流水线：以测试门禁约束模型写码全程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jrullan/ducklab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

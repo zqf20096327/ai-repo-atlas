@@ -1,6 +1,6 @@
 # SamurAIGPT/muapi-comfyui
 
-⭐ 83 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/SamurAIGPT/muapi-comfyui) · [官网](https://muapi.ai/playground/nano-banana) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/SamurAIGPT/muapi-comfyui) · [官网](https://muapi.ai/playground/nano-banana) · 组织维护
 
 **ComfyUI 节点包：经 muapi.ai 单一 API 调用 600+ 生成模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/muapi-comfyui 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 77 --> 84
-    line [78, 80, 81, 80, 81, 82, 83]
+    title "SamurAIGPT/muapi-comfyui 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 77 --> 85
+    line [78, 80, 81, 80, 81, 82, 83, 84]
 ```
 
-2026-10-18 78 → 2026-11-19 83（+5）
+2026-10-18 78 → 2026-11-20 84（+6）
 
 
 ---

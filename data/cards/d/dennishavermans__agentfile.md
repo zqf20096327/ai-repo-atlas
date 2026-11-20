@@ -1,6 +1,6 @@
 # dennishavermans/agentfile
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dennishavermans/agentfile) · [官网](https://www.npmjs.com/package/@agentfile/cli) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dennishavermans/agentfile) · [官网](https://www.npmjs.com/package/@agentfile/cli) · 个人维护
 
 **CLI 工具：检测仓库中 AI agent 配置的漂移与风险**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dennishavermans/agentfile 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 10 --> 14
+    line [11, 13]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 13（+2）
 
 
 ---

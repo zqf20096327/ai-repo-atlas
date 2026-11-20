@@ -1,6 +1,6 @@
 # xuxufei12/awesome-ai-creative-skills
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/xuxufei12/awesome-ai-creative-skills) · 个人维护 · 中文 README
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/xuxufei12/awesome-ai-creative-skills) · 个人维护 · 中文 README
 
 **AI 创意生成技能与提示词的双语策展清单（2,109 条预览）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xuxufei12/awesome-ai-creative-skills 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 2 --> 11
-    line [3, 4, 3, 4, 6, 7, 8, 9, 10, 10]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 2 --> 12
+    line [3, 4, 3, 4, 6, 7, 8, 9, 10, 11]
 ```
 
-2026-10-24 3 → 2026-11-19 10（+7）
+2026-10-24 3 → 2026-11-20 11（+8）
 
 
 ---

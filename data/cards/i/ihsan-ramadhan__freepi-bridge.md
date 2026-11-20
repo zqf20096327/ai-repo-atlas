@@ -1,6 +1,6 @@
 # ihsan-ramadhan/freepi-bridge
 
-⭐ 22 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ihsan-ramadhan/freepi-bridge) · 个人维护 · 中文 README
+⭐ 22 · Rust · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ihsan-ramadhan/freepi-bridge) · 个人维护 · 中文 README
 
 **把 FreePi 账号转成 OpenAI 兼容 API 的单二进制 Rust 网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ihsan-ramadhan/freepi-bridge 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20"]
     y-axis "stars" 5 --> 23
     line [6, 21, 22, 22]
 ```
 
-2026-11-14 6 → 2026-11-19 22（+16）
+2026-11-14 6 → 2026-11-20 22（+16）
 
 
 ---

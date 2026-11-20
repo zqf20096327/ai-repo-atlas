@@ -1,6 +1,6 @@
 # BelyaevAD/boosty-it-catalog
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BelyaevAD/boosty-it-catalog) · [官网](https://belyaevad.github.io/boosty-it-catalog/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **俄语 IT 付费频道开放目录：发现与比较 Boosty 上的订阅制频道**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

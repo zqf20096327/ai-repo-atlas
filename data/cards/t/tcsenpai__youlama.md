@@ -1,6 +1,6 @@
 # tcsenpai/youlama
 
-⭐ 75 · Python · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/youlama) · 个人维护
+⭐ 76 · Python · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/youlama) · 个人维护
 
 **用 Whisper+Ollama 转录并摘要 YouTube 视频的 Web 应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tcsenpai/youlama 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 73 --> 76
-    line [75, 74, 75, 74, 75, 75]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 73 --> 77
+    line [75, 74, 75, 74, 75, 76]
 ```
 
-2026-10-18 75 → 2026-11-19 75（+0）
+2026-10-18 75 → 2026-11-20 76（+1）
 
 
 ---

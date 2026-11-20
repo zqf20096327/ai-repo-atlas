@@ -1,6 +1,6 @@
 # Nikita3005/taintgate
 
-⭐ 44 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Nikita3005/taintgate) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Nikita3005/taintgate) · 个人维护
 
 **给 AI agent 开发者的运行时安全层：按数据来源对工具调用做 ALLOW/REVIEW/BLOCK 裁决**
 
@@ -45,12 +45,12 @@ Python 库形式的 agent 运行时防护层：在工具调用执行边界标记
 ```mermaid
 xychart-beta
     title "Nikita3005/taintgate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 11 --> 97
-    line [18, 90, 18, 44, 44]
+    line [18, 90, 18, 44, 38]
 ```
 
-2026-10-18 18 → 2026-11-19 44（+26）
+2026-10-18 18 → 2026-11-20 38（+20）
 
 
 ---

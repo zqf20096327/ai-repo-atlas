@@ -1,6 +1,6 @@
 # astercloud/aster
 
-⭐ 63 · Go · MIT · 推送 2025-12-29 · [GitHub](https://github.com/astercloud/aster) · [官网](https://astercloud.github.io/aster/) · 组织维护 · 中文 README
+⭐ 62 · Go · MIT · 推送 2025-12-29 · [GitHub](https://github.com/astercloud/aster) · [官网](https://astercloud.github.io/aster/) · 组织维护 · 中文 README
 
 **Go 构建的生产级 AI Agent 框架，面向企业级应用**
 
@@ -45,12 +45,12 @@ Aster（星尘云枢）是用 Go 语言构建的 AI Agent 框架，面向生产�
 ```mermaid
 xychart-beta
     title "astercloud/aster 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 62 --> 65
-    line [64, 63, 63]
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 61 --> 65
+    line [64, 63, 62]
 ```
 
-2026-10-18 64 → 2026-11-19 63（-1）
+2026-10-18 64 → 2026-11-20 62（-2）
 
 
 ---

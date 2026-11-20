@@ -1,6 +1,6 @@
 # SemiAnalysisAI/InferenceX-app
 
-⭐ 50 · TypeScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX-app) · [官网](https://inferencex.com) · 组织维护 · 中文 README
+⭐ 50 · TypeScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX-app) · [官网](https://inferencex.com) · 组织维护 · 中文 README
 
 **LLM 推理基准数据的可视化仪表板（Next.js）**
 
@@ -46,12 +46,12 @@ InferenceX 的开源前端与数据层 monorepo：以 Next.js 16 + TypeScript �
 ```mermaid
 xychart-beta
     title "SemiAnalysisAI/InferenceX-app 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20"]
     y-axis "stars" 46 --> 52
     line [47, 48, 49, 50, 47, 51, 50, 50]
 ```
 
-2026-10-18 47 → 2026-11-19 50（+3）
+2026-10-18 47 → 2026-11-20 50（+3）
 
 
 ---

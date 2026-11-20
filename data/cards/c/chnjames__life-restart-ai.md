@@ -1,6 +1,6 @@
 # chnjames/life-restart-ai
 
-⭐ 28 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/chnjames/life-restart-ai) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/chnjames/life-restart-ai) · 个人维护 · 中文 README
 
 **纯前端 AI 人生重开模拟器：事件与配图均由 AI 生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chnjames/life-restart-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 27 --> 30
-    line [29, 28, 28]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 26 --> 30
+    line [29, 28, 27]
 ```
 
-2026-10-18 29 → 2026-11-19 28（-1）
+2026-10-18 29 → 2026-11-20 27（-2）
 
 
 ---

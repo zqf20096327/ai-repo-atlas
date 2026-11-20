@@ -1,6 +1,6 @@
 # smarttechlabs-projects/strix-halo-comfyui
 
-⭐ 12 · Shell · 推送 2025-12-14 · [GitHub](https://github.com/smarttechlabs-projects/strix-halo-comfyui) · [官网](https://www.smarttechlabs.de) · 组织维护
+⭐ 13 · Shell · 推送 2025-12-14 · [GitHub](https://github.com/smarttechlabs-projects/strix-halo-comfyui) · [官网](https://www.smarttechlabs.de) · 组织维护
 
 **AMD Ryzen AI Max 395 上 GPU 加速运行 ComfyUI 的安装脚本与文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smarttechlabs-projects/strix-halo-comfyui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-19 12（+0）
+2026-10-18 12 → 2026-11-20 13（+1）
 
 
 ---

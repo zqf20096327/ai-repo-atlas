@@ -1,6 +1,6 @@
 # athrael-soju/Snappy
 
-⭐ 92 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/athrael-soju/Snappy) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/athrael-soju/Snappy) · 个人维护
 
 **区域级文档检索系统：ColPali 相关性传播过滤 OCR 区域**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "athrael-soju/Snappy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 90 --> 93
-    line [91, 92, 91, 92, 92]
+    line [91, 92, 91, 92, 91]
 ```
 
-2026-10-18 91 → 2026-11-19 92（+1）
+2026-10-18 91 → 2026-11-20 91（+0）
 
 
 ---

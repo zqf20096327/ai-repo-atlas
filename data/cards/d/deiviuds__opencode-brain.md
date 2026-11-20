@@ -46,12 +46,12 @@ OpenCode 的 npm 插件，基于 memvid（Rust 核心）将工具输出、会话
 ```mermaid
 xychart-beta
     title "deiviuds/opencode-brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yeyupiaoling/PaddlePaddle-DeepSpeech
 
-⭐ 765 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) · [官网](https://yeyupiaoling.blog.csdn.net/article/details/102904306) · 个人维护 · 中文 README
+⭐ 764 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) · [官网](https://yeyupiaoling.blog.csdn.net/article/details/102904306) · 个人维护 · 中文 README
 
 **基于 PaddlePaddle 的 DeepSpeech2 中文语音识别训练与预测引擎**
 
@@ -46,12 +46,12 @@ DeepSpeech2 论文的 PaddlePaddle 实现，提供端到端 ASR 训练与推理�
 ```mermaid
 xychart-beta
     title "yeyupiaoling/PaddlePaddle-DeepSpeech 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20"]
     y-axis "stars" 762 --> 766
-    line [763, 764, 763, 764, 765, 765]
+    line [763, 764, 763, 764, 765, 764]
 ```
 
-2026-10-18 763 → 2026-11-19 765（+2）
+2026-10-18 763 → 2026-11-20 764（+1）
 
 
 ---

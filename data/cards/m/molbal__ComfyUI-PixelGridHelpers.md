@@ -41,6 +41,18 @@
 > L3: A suite of custom nodes for ComfyUI to clean up pixel art, reduce color counts,
 > L34: Find the nodes under **Pixel Grid Helpers** in the node menu.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "molbal/ComfyUI-PixelGridHelpers 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `5b880fcfa5da` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide
 
-⭐ 96 · 推送 2026-10-30 · [GitHub](https://github.com/tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 97 · 推送 2026-10-30 · [GitHub](https://github.com/tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **CoreGold 海外虚拟卡开卡充值的三步图文指南**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide 星数(近 9 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20"]
     y-axis "stars" 3 --> 107
-    line [11, 15, 54, 75, 89, 94, 99, 96, 96]
+    line [11, 15, 54, 75, 89, 94, 99, 96, 97]
 ```
 
-2026-10-31 11 → 2026-11-19 96（+85）
+2026-10-31 11 → 2026-11-20 97（+86）
 
 
 ---

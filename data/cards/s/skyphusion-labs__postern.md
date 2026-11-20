@@ -1,6 +1,6 @@
 # skyphusion-labs/postern
 
-⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/skyphusion-labs/postern) · [官网](https://demo.posternonline.com) · 组织维护
+⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/skyphusion-labs/postern) · [官网](https://demo.posternonline.com) · 组织维护
 
 **自托管邮箱服务：给人类和 agent 各自独立地址与凭证**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "skyphusion-labs/postern 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20"]
     y-axis "stars" 9 --> 14
     line [10, 11, 12, 13, 13]
 ```
 
-2026-11-02 10 → 2026-11-19 13（+3）
+2026-11-02 10 → 2026-11-20 13（+3）
 
 
 ---

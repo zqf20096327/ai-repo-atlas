@@ -1,6 +1,6 @@
 # flutterclaw/flutterclaw
 
-⭐ 57 · Dart · MIT · 推送 2026-06-13 · [GitHub](https://github.com/flutterclaw/flutterclaw) · [官网](https://flutterclaw.ai) · 组织维护
+⭐ 58 · Dart · MIT · 推送 2026-06-13 · [GitHub](https://github.com/flutterclaw/flutterclaw) · [官网](https://flutterclaw.ai) · 组织维护
 
 **在手机上独立运行的 OpenClaw 移植 AI 助手（Android/iOS）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "flutterclaw/flutterclaw 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 53 --> 58
-    line [54, 55, 56, 55, 56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 53 --> 59
+    line [54, 55, 56, 55, 56, 57, 58]
 ```
 
-2026-10-18 54 → 2026-11-19 57（+3）
+2026-10-18 54 → 2026-11-20 58（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # kts982/mcp-sap-gui
 
-⭐ 51 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kts982/mcp-sap-gui) · [官网](https://pypi.org/project/mcp-sap-gui/) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kts982/mcp-sap-gui) · [官网](https://pypi.org/project/mcp-sap-gui/) · 个人维护
 
 **让 AI 助手通过 MCP 操作 SAP GUI 的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kts982/mcp-sap-gui 星数(近 8 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 40 --> 52
-    line [41, 42, 47, 48, 49, 50, 51, 51]
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 40 --> 54
+    line [41, 42, 47, 48, 49, 50, 51, 53]
 ```
 
-2026-10-29 41 → 2026-11-19 51（+10）
+2026-10-29 41 → 2026-11-20 53（+12）
 
 
 ---

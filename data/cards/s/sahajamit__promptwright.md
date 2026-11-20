@@ -45,13 +45,13 @@ Electron 桌面应用加 CLI 形式的 AI QA 代理：用户用自然语言描�
 
 ```mermaid
 xychart-beta
-    title "sahajamit/promptwright 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "sahajamit/promptwright 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 119 --> 122
-    line [120, 121]
+    line [120, 121, 121]
 ```
 
-2026-10-18 120 → 2026-11-19 121（+1）
+2026-10-18 120 → 2026-11-20 121（+1）
 
 
 ---

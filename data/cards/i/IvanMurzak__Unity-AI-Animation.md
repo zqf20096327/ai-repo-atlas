@@ -1,6 +1,6 @@
 # IvanMurzak/Unity-AI-Animation
 
-⭐ 122 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-Animation) · [官网](https://ai-game.dev) · 个人维护
+⭐ 123 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-Animation) · [官网](https://ai-game.dev) · 个人维护
 
 **通过 MCP/RQL 用自然语言编辑 Unity 动画与 Animator 的工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IvanMurzak/Unity-AI-Animation 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 115 --> 123
-    line [116, 118, 119, 120, 121, 119, 121, 122, 122]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 115 --> 124
+    line [116, 118, 119, 120, 121, 119, 121, 122, 123]
 ```
 
-2026-10-18 116 → 2026-11-19 122（+6）
+2026-10-18 116 → 2026-11-20 123（+7）
 
 
 ---

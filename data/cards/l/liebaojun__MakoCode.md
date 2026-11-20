@@ -1,6 +1,6 @@
 # liebaojun/MakoCode
 
-⭐ 158 · HTML · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/liebaojun/MakoCode) · 个人维护 · 中文 README
+⭐ 157 · HTML · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/liebaojun/MakoCode) · 个人维护 · 中文 README
 
 **Galgame 风格桌面 AI Agent：以视觉小说界面封装 Claude Code CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liebaojun/MakoCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 157 --> 159
-    line [158, 158]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 156 --> 159
+    line [158, 157]
 ```
 
-2026-10-18 158 → 2026-11-19 158（+0）
+2026-10-18 158 → 2026-11-20 157（-1）
 
 
 ---

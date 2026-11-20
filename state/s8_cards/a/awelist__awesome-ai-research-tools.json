@@ -1,1 +1,75 @@
-{"fn": "awelist/awesome-ai-research-tools", "sha": "b3a8689ca24e", "source": "readme", "identity": {"one_liner": "AI/ML 研究工具的策展清单，按研究环节分类", "review": "面向 AI 与机器学习研究者的工具聚合清单：将工具、平台、库与资源按实验笔记本、模型训练、评测基准、可视化与可解释性、文献检索、数据集工具、实验追踪与复现、学习资源等类别组织收录。条目为一句话式简介链接，覆盖从 PyTorch、Weights & Biases 到 arXiv、HuggingFace Datasets 等工具。接受社区贡献，要求遵循 CONTRIBUTING.md 的格式与类别规范，以 CC0 许可发布，并接受 GitHub Sponsors 等渠道赞助。", "highlights": ["按研究环节组织的 8 个分类（笔记本/训练/评测/可视化/文献/数据集/复现/学习）", "覆盖训练框架、评测套件、追踪工具与文献工具等多类资源", "CC0 许可，接受社区贡献并有贡献规范"], "use_cases": ["为 ML 研究挑选训练、评测与实验追踪工具", "按研究环节浏览相关工具与学习资源"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "AI研究", "工具聚合", "机器学习"], "domain": "AI/ML 研究/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: > A curated list of tools, platforms, libraries, and resources to support AI and machine learning research — including e", "L16: ## Contents"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-19", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "awelist/awesome-ai-research-tools",
+ "sha": "b3a8689ca24e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI/ML 研究工具的策展清单，按研究环节分类",
+  "review": "面向 AI 与机器学习研究者的工具聚合清单：将工具、平台、库与资源按实验笔记本、模型训练、评测基准、可视化与可解释性、文献检索、数据集工具、实验追踪与复现、学习资源等类别组织收录。条目为一句话式简介链接，覆盖从 PyTorch、Weights & Biases 到 arXiv、HuggingFace Datasets 等工具。接受社区贡献，要求遵循 CONTRIBUTING.md 的格式与类别规范，以 CC0 许可发布，并接受 GitHub Sponsors 等渠道赞助。",
+  "highlights": [
+   "按研究环节组织的 8 个分类（笔记本/训练/评测/可视化/文献/数据集/复现/学习）",
+   "覆盖训练框架、评测套件、追踪工具与文献工具等多类资源",
+   "CC0 许可，接受社区贡献并有贡献规范"
+  ],
+  "use_cases": [
+   "为 ML 研究挑选训练、评测与实验追踪工具",
+   "按研究环节浏览相关工具与学习资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI研究",
+   "工具聚合",
+   "机器学习"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: > A curated list of tools, platforms, libraries, and resources to support AI and machine learning research — including e",
+   "L16: ## Contents"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-19",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

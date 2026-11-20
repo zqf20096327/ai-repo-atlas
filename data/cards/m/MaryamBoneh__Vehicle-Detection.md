@@ -1,6 +1,6 @@
 # MaryamBoneh/Vehicle-Detection
 
-⭐ 286 · Python · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/MaryamBoneh/Vehicle-Detection) · 个人维护
+⭐ 285 · Python · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/MaryamBoneh/Vehicle-Detection) · 个人维护
 
 **用 YOLOv5 微调实现车辆检测与计数的训练检测项目**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MaryamBoneh/Vehicle-Detection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-18", "2026-11-20"]
     y-axis "stars" 283 --> 287
-    line [284, 285, 286, 286]
+    line [284, 285, 286, 285]
 ```
 
-2026-10-18 284 → 2026-11-19 286（+2）
+2026-10-18 284 → 2026-11-20 285（+1）
 
 
 ---

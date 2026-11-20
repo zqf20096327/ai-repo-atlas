@@ -1,6 +1,6 @@
 # Axia-Growth/OperationKit
 
-⭐ 57 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Axia-Growth/OperationKit) · [官网](https://operationkit.com) · 组织维护
+⭐ 69 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Axia-Growth/OperationKit) · [官网](https://operationkit.com) · 组织维护
 
 **给企业/顾问的自托管 AI 落地基座：知识库+任务板+MCP 接入**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Axia-Growth/OperationKit 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 40 --> 58
-    line [41, 57]
+    title "Axia-Growth/OperationKit 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 39 --> 71
+    line [41, 57, 69]
 ```
 
-2026-11-18 41 → 2026-11-19 57（+16）
+2026-11-18 41 → 2026-11-20 69（+28）
 
 
 ---

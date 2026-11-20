@@ -1,6 +1,6 @@
 # catex-lab/opc-agent
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/catex-lab/opc-agent) · 组织维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/catex-lab/opc-agent) · 组织维护 · 中文 README
 
 **把本机多个 Agent CLI 收进一个 IM 界面的桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "catex-lab/opc-agent 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19"]
+    title "catex-lab/opc-agent 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20"]
     y-axis "stars" 2 --> 19
-    line [3, 5, 6, 12, 13, 16, 18]
+    line [3, 5, 6, 12, 13, 16, 18, 18]
 ```
 
-2026-11-08 3 → 2026-11-19 18（+15）
+2026-11-08 3 → 2026-11-20 18（+15）
 
 
 ---

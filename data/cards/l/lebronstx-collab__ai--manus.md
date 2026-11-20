@@ -1,6 +1,6 @@
 # lebronstx-collab/ai--manus
 
-⭐ 202 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/lebronstx-collab/ai--manus) · 组织维护
+⭐ 201 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/lebronstx-collab/ai--manus) · 组织维护
 
 **面向日常任务的自主 AI Agent：代用户执行代码与控制浏览器**
 
@@ -45,12 +45,12 @@ Manus 是一个自主 AI Agent 系统，可在沙箱环境中运行各类工具�
 ```mermaid
 xychart-beta
     title "lebronstx-collab/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 134 --> 286
-    line [146, 274, 202, 202]
+    line [146, 274, 202, 201]
 ```
 
-2026-11-13 146 → 2026-11-19 202（+56）
+2026-11-13 146 → 2026-11-20 201（+55）
 
 
 ---

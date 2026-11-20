@@ -1,6 +1,6 @@
 # dzkchen/oh-my-diff
 
-⭐ 19 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dzkchen/oh-my-diff) · [官网](https://www.ohmydiff.me) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dzkchen/oh-my-diff) · [官网](https://www.ohmydiff.me) · 个人维护
 
 **Codex CLI 的 TypeScript 模组宿主：不改习惯即可扩展命令与工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dzkchen/oh-my-diff 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-20"]
     y-axis "stars" 3 --> 20
     line [4, 6, 8, 14, 16, 18, 19, 19]
 ```
 
-2026-10-19 4 → 2026-11-19 19（+15）
+2026-10-19 4 → 2026-11-20 19（+15）
 
 
 ---

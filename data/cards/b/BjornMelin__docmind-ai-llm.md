@@ -1,6 +1,6 @@
 # BjornMelin/docmind-ai-llm
 
-⭐ 155 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/BjornMelin/docmind-ai-llm) · [官网](https://github.com/BjornMelin/docmind-ai-llm) · 个人维护
+⭐ 154 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/BjornMelin/docmind-ai-llm) · [官网](https://github.com/BjornMelin/docmind-ai-llm) · 个人维护
 
 **本地优先的文档分析应用：本地 LLM 加持的解析、检索与多智能体问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BjornMelin/docmind-ai-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
-    y-axis "stars" 154 --> 157
-    line [156, 155, 155]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
+    y-axis "stars" 153 --> 157
+    line [156, 155, 154]
 ```
 
-2026-10-18 156 → 2026-11-19 155（-1）
+2026-10-18 156 → 2026-11-20 154（-2）
 
 
 ---

@@ -45,12 +45,12 @@ agency-agents 的阿拉伯语社区翻译版本：完整翻译上游184个AI代�
 ```mermaid
 xychart-beta
     title "jnMetaCode/agency-agents-ar 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-19 10（+0）
+2026-11-08 10 → 2026-11-20 10（+0）
 
 
 ---

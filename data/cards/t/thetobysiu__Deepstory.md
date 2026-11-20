@@ -1,6 +1,6 @@
 # thetobysiu/Deepstory
 
-⭐ 103 · Python · 推送 2025-11-23 · [GitHub](https://github.com/thetobysiu/Deepstory) · [官网](https://blog.thetobysiu.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把文本变成角色说话视频的应用（GPT-2 生成+TTS+动画）**
 

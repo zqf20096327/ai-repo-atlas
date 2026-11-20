@@ -46,12 +46,12 @@ Santander AI Lab 与比萨大学论文《Mutatis Mutandis: Revisiting the Compar
 ```mermaid
 xychart-beta
     title "SantanderAI/mutatis-mutandis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 24 --> 27
     line [26, 25, 25]
 ```
 
-2026-10-18 26 → 2026-11-19 25（-1）
+2026-10-18 26 → 2026-11-20 25（-1）
 
 
 ---

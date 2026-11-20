@@ -1,6 +1,6 @@
 # QuantClimate/GPJax
 
-⭐ 674 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/QuantClimate/GPJax) · [官网](https://gpjax.quantclimate.com) · 组织维护
+⭐ 676 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/QuantClimate/GPJax) · [官网](https://gpjax.quantclimate.com) · 组织维护
 
 **面向研究者的 JAX 高斯过程建模库**
 
@@ -46,12 +46,12 @@ GPJax 提供基于 JAX 与 Equinox 的高斯过程（GP）低层接口，代码�
 ```mermaid
 xychart-beta
     title "QuantClimate/GPJax 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-11", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 668 --> 675
-    line [669, 670, 669, 670, 672, 674, 674]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-11", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 668 --> 677
+    line [669, 670, 669, 670, 672, 674, 676]
 ```
 
-2026-10-18 669 → 2026-11-19 674（+5）
+2026-10-18 669 → 2026-11-20 676（+7）
 
 
 ---

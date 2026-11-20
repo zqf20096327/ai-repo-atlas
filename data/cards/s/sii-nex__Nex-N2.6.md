@@ -1,6 +1,6 @@
 # sii-nex/Nex-N2.6
 
-⭐ 25 · 推送 2026-11-11 · [GitHub](https://github.com/sii-nex/Nex-N2.6) · [官网](https://openrouter.ai/nex-agi/nex-n2.6) · 组织维护
+⭐ 26 · 推送 2026-11-11 · [GitHub](https://github.com/sii-nex/Nex-N2.6) · [官网](https://openrouter.ai/nex-agi/nex-n2.6) · 组织维护
 
 **面向计算机操作与长程工作流的多模态 Agent 模型权重**
 
@@ -45,12 +45,12 @@ Nex-AGI 发布的多模态 agentic 模型 Nex-N2.6，基于 GLM-5.3-Flash 构建
 ```mermaid
 xychart-beta
     title "sii-nex/Nex-N2.6 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 10 --> 26
-    line [11, 20, 23, 24, 25, 25]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 10 --> 27
+    line [11, 20, 23, 24, 25, 26]
 ```
 
-2026-11-11 11 → 2026-11-19 25（+14）
+2026-11-11 11 → 2026-11-20 26（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # hypermemory-ai/hypermemory-sdk
 
-⭐ 14 · TypeScript · MIT · 推送 2026-05-14 · [GitHub](https://github.com/hypermemory-ai/hypermemory-sdk) · [官网](https://www.hypermemory.io) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-05-14 · [GitHub](https://github.com/hypermemory-ai/hypermemory-sdk) · [官网](https://www.hypermemory.io) · 组织维护
 
 **HyperMemory 长期记忆平台的 TypeScript SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hypermemory-ai/hypermemory-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 11 --> 15
+    line [14, 12]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 12（-2）
 
 
 ---

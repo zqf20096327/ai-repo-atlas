@@ -1,6 +1,6 @@
 # AwesomeDog/soma
 
-⭐ 17 · Java · MIT · 推送 2026-11-07 · [GitHub](https://github.com/AwesomeDog/soma) · [官网](https://awesomedog.github.io/soma/) · 个人维护
+⭐ 17 · Java · MIT · 推送 2026-11-19 · [GitHub](https://github.com/AwesomeDog/soma) · [官网](https://awesomedog.github.io/soma/) · 个人维护
 
 **本地优先的文件语义搜索引擎：离线索引文档与多媒体**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AwesomeDog/soma 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 14 --> 18
     line [15, 16, 15, 17, 17]
 ```
 
-2026-10-22 15 → 2026-11-19 17（+2）
+2026-10-22 15 → 2026-11-20 17（+2）
 
 
 ---

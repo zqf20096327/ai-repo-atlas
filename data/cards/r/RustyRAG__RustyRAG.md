@@ -1,6 +1,6 @@
 # RustyRAG/RustyRAG
 
-⭐ 142 · Rust · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/RustyRAG/RustyRAG) · [官网](https://rustyrag.ai) · 个人维护
+⭐ 139 · Rust · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/RustyRAG/RustyRAG) · [官网](https://rustyrag.ai) · 个人维护
 
 **Rust 实现的自托管 RAG API：混合检索+重排+流式生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RustyRAG/RustyRAG 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 140 --> 154
-    line [153, 148, 142, 141, 142, 142]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 138 --> 154
+    line [153, 148, 142, 141, 142, 139]
 ```
 
-2026-10-18 153 → 2026-11-19 142（-11）
+2026-10-18 153 → 2026-11-20 139（-14）
 
 
 ---

@@ -1,6 +1,6 @@
 # hasscc/ai-conversation
 
-⭐ 18 · Python · 推送 2026-04-09 · [GitHub](https://github.com/hasscc/ai-conversation) · 个人维护 · 中文 README
+⭐ 18 · Python · 推送 2026-11-19 · [GitHub](https://github.com/hasscc/ai-conversation) · 个人维护 · 中文 README
 
 **Home Assistant 的 AI 对话组件：接入 OpenAI 格式 LLM，支持 STT/TTS**
 
@@ -45,12 +45,12 @@ Home Assistant 自定义组件，通过配置服务与模型接入任意 OpenAI 
 ```mermaid
 xychart-beta
     title "hasscc/ai-conversation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-19 18（+0）
+2026-10-18 18 → 2026-11-20 18（+0）
 
 
 ---

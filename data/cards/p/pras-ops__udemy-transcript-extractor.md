@@ -1,6 +1,6 @@
 # pras-ops/udemy-transcript-extractor
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/pras-ops/udemy-transcript-extractor) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/pras-ops/udemy-transcript-extractor) · 组织维护
 
 **离线提取网课字幕转笔记的浏览器扩展，含高亮/搜索/导出**
 
@@ -46,12 +46,12 @@ Chrome 扩展，从 Udemy、Coursera、YouTube 及通用 HTML5 播放器（Panop
 ```mermaid
 xychart-beta
     title "pras-ops/udemy-transcript-extractor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-11-19 25（+1）
+2026-10-18 24 → 2026-11-20 26（+2）
 
 
 ---

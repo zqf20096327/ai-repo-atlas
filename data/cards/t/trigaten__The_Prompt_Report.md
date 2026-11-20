@@ -1,6 +1,6 @@
 # trigaten/The_Prompt_Report
 
-⭐ 402 · HTML · MIT · 推送 2026-02-25 · [GitHub](https://github.com/trigaten/The_Prompt_Report) · [官网](https://trigaten.github.io/Prompt_Survey_Site/) · 组织维护
+⭐ 403 · HTML · MIT · 推送 2026-02-25 · [GitHub](https://github.com/trigaten/The_Prompt_Report) · [官网](https://trigaten.github.io/Prompt_Survey_Site/) · 组织维护
 
 **The Prompt Report 研究代码：提示技术的系统性综述与实验**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "trigaten/The_Prompt_Report 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 398 --> 403
-    line [399, 400, 401, 402, 402]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 398 --> 404
+    line [399, 400, 401, 402, 403]
 ```
 
-2026-10-18 399 → 2026-11-19 402（+3）
+2026-10-18 399 → 2026-11-20 403（+4）
 
 
 ---

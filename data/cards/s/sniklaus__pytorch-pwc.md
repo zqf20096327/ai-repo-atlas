@@ -1,6 +1,6 @@
 # sniklaus/pytorch-pwc
 
-⭐ 661 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/sniklaus/pytorch-pwc) · 个人维护
+⭐ 660 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/sniklaus/pytorch-pwc) · 个人维护
 
 **PWC-Net 光流估计的 PyTorch 复现，复刻官方 Caffe 版性能**
 
@@ -45,12 +45,12 @@ Simon Niklaus 个人维护的 PWC-Net（CVPR 2018 光流网络）PyTorch 复现�
 ```mermaid
 xychart-beta
     title "sniklaus/pytorch-pwc 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
-    y-axis "stars" 660 --> 662
-    line [661, 661]
+    x-axis ["2026-11-16", "2026-11-20"]
+    y-axis "stars" 659 --> 662
+    line [661, 660]
 ```
 
-2026-11-16 661 → 2026-11-19 661（+0）
+2026-11-16 661 → 2026-11-20 660（-1）
 
 
 ---

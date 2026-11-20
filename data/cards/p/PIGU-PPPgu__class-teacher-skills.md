@@ -1,6 +1,6 @@
 # PIGU-PPPgu/class-teacher-skills
 
-⭐ 12 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/PIGU-PPPgu/class-teacher-skills) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/PIGU-PPPgu/class-teacher-skills) · 个人维护 · 中文 README
 
 **给班主任的 AI 技能仓库：43 个班务场景模板与脚本**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PIGU-PPPgu/class-teacher-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 10, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 11, 12, 13]
 ```
 
-2026-10-18 10 → 2026-11-19 12（+2）
+2026-10-18 10 → 2026-11-20 13（+3）
 
 
 ---

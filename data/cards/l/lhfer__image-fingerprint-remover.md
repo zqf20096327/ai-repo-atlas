@@ -1,6 +1,6 @@
 # lhfer/image-fingerprint-remover
 
-⭐ 32 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/lhfer/image-fingerprint-remover) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/lhfer/image-fingerprint-remover) · 个人维护 · 中文 README
 
 **离线清除图像元数据与 AI 指纹的 CLI + 桌面工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lhfer/image-fingerprint-remover 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 28 --> 33
-    line [29, 31, 32, 31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 28 --> 34
+    line [29, 31, 32, 31, 32, 33]
 ```
 
-2026-10-18 29 → 2026-11-19 32（+3）
+2026-10-18 29 → 2026-11-20 33（+4）
 
 
 ---

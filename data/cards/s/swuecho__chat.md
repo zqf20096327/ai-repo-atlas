@@ -1,6 +1,6 @@
 # swuecho/chat
 
-⭐ 574 · Go · MIT · 推送 2026-10-11 · [GitHub](https://github.com/swuecho/chat) · 个人维护 · 中文 README
+⭐ 573 · Go · MIT · 推送 2026-10-11 · [GitHub](https://github.com/swuecho/chat) · 个人维护 · 中文 README
 
 **面向团队的 ChatGPT 式聊天 Web 应用，含用户管理与限流**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "swuecho/chat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 573 --> 576
-    line [574, 575, 574, 574]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 572 --> 576
+    line [574, 575, 574, 573]
 ```
 
-2026-10-18 574 → 2026-11-19 574（+0）
+2026-10-18 574 → 2026-11-20 573（-1）
 
 
 ---

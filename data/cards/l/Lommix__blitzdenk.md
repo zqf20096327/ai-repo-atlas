@@ -1,6 +1,6 @@
 # Lommix/blitzdenk
 
-⭐ 13 · Zig · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Lommix/blitzdenk) · [官网](https://blitzdenk.com) · 个人维护
+⭐ 13 · Zig · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Lommix/blitzdenk) · [官网](https://blitzdenk.com) · 个人维护
 
 **用 Lua 编写的可自我改写的极简编码 agent harness**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lommix/blitzdenk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 13（+0）
 
 
 ---

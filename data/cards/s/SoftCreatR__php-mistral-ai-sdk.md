@@ -1,6 +1,6 @@
 # SoftCreatR/php-mistral-ai-sdk
 
-⭐ 19 · PHP · ISC · 推送 2026-10-23 · [GitHub](https://github.com/SoftCreatR/php-mistral-ai-sdk) · [官网](https://packagist.org/packages/softcreatr/php-mistral-ai-sdk) · 组织维护
+⭐ 19 · PHP · ISC · 推送 2026-11-19 · [GitHub](https://github.com/SoftCreatR/php-mistral-ai-sdk) · [官网](https://packagist.org/packages/softcreatr/php-mistral-ai-sdk) · 组织维护
 
 **面向 PHP 开发者的 Mistral AI API 官方风格 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SoftCreatR/php-mistral-ai-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-19 19（+0）
+2026-10-18 19 → 2026-11-20 19（+0）
 
 
 ---

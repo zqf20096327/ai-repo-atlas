@@ -1,6 +1,6 @@
 # humanoiseLABS/plus62
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/humanoiseLABS/plus62) · [官网](https://humanoise.vercel.app/) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/humanoiseLABS/plus62) · [官网](https://humanoise.vercel.app/) · 组织维护
 
 **给编码 Agent 装印尼语开发者人设与输出规范层的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "humanoiseLABS/plus62 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 9 --> 17
-    line [10, 12, 13, 15, 16, 16]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 9 --> 18
+    line [10, 12, 13, 15, 16, 17]
 ```
 
-2026-11-10 10 → 2026-11-19 16（+6）
+2026-11-10 10 → 2026-11-20 17（+7）
 
 
 ---

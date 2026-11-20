@@ -45,12 +45,12 @@ Rust 编写的向量数据库库：以 λτ（lambda-tau，Rayleigh-Laplacian �
 ```mermaid
 xychart-beta
     title "tuned-org-uk/arrowspace-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-19 43（+0）
+2026-10-18 43 → 2026-11-20 43（+0）
 
 
 ---

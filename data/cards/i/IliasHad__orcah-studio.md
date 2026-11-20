@@ -1,6 +1,6 @@
 # IliasHad/orcah-studio
 
-⭐ 1,837 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/IliasHad/orcah-studio) · [官网](https://orcah.app) · 个人维护
+⭐ 1,838 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/IliasHad/orcah-studio) · [官网](https://orcah.app) · 个人维护
 
 **本地自托管视频知识库：索引视频并用自然语言搜索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IliasHad/orcah-studio 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 1836 --> 1838
-    line [1837, 1837]
+    x-axis ["2026-11-18", "2026-11-20"]
+    y-axis "stars" 1836 --> 1839
+    line [1837, 1838]
 ```
 
-2026-11-18 1,837 → 2026-11-19 1,837（+0）
+2026-11-18 1,837 → 2026-11-20 1,838（+1）
 
 
 ---

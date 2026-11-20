@@ -1,6 +1,6 @@
 # YellowLaborerMarket/Gemini-Config-Checker-
 
-⭐ 475 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) · 个人维护
+⭐ 474 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) · 个人维护
 
 **检测代理配置能否真正进入 Google AI Studio 与 Gemini 的扫描工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YellowLaborerMarket/Gemini-Config-Checker- 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
     y-axis "stars" 473 --> 476
-    line [475, 474, 475, 475]
+    line [475, 474, 475, 474]
 ```
 
-2026-11-15 475 → 2026-11-19 475（+0）
+2026-11-15 475 → 2026-11-20 474（-1）
 
 
 ---

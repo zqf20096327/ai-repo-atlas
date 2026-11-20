@@ -1,6 +1,6 @@
 # spotozkin/threepio
 
-⭐ 31 · Python · 推送 2026-04-28 · [GitHub](https://github.com/spotozkin/threepio) · [官网](https://www.youtube.com/watch?v=wB2CJm4sHcM) · 个人维护
+⭐ 32 · Python · 推送 2026-04-28 · [GitHub](https://github.com/spotozkin/threepio) · [官网](https://www.youtube.com/watch?v=wB2CJm4sHcM) · 个人维护
 
 **运行于树莓派的实时语音对话机器人：麦克风到扬声器全链路**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spotozkin/threepio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-11-19 31（+0）
+2026-10-18 31 → 2026-11-20 32（+1）
 
 
 ---

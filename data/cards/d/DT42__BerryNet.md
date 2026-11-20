@@ -1,6 +1,6 @@
 # DT42/BerryNet
 
-⭐ 1,614 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/DT42/BerryNet) · [官网](https://dt42.io) · 组织维护
+⭐ 1,613 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/DT42/BerryNet) · [官网](https://dt42.io) · 组织维护
 
 **树莓派等边缘设备上的深度学习智能网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DT42/BerryNet 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-19"]
-    y-axis "stars" 1613 --> 1615
-    line [1614, 1614]
+    x-axis ["2026-10-31", "2026-11-20"]
+    y-axis "stars" 1612 --> 1615
+    line [1614, 1613]
 ```
 
-2026-10-31 1,614 → 2026-11-19 1,614（+0）
+2026-10-31 1,614 → 2026-11-20 1,613（-1）
 
 
 ---

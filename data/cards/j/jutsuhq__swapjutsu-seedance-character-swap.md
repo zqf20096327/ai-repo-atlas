@@ -1,6 +1,6 @@
 # jutsuhq/swapjutsu-seedance-character-swap
 
-⭐ 11 · Swift · MIT · 推送 2026-11-14 · [GitHub](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) · [官网](https://jutsustudio.com/swapjutsu/) · 组织维护
+⭐ 11 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) · [官网](https://jutsustudio.com/swapjutsu/) · 组织维护
 
 **Mac 上的视频角色替换应用：本地预处理，云端或自有 GPU 渲染**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jutsuhq/swapjutsu-seedance-character-swap 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-20"]
     y-axis "stars" 2 --> 12
     line [3, 5, 6, 7, 3, 7, 10, 11, 11]
 ```
 
-2026-10-23 3 → 2026-11-19 11（+8）
+2026-10-23 3 → 2026-11-20 11（+8）
 
 
 ---

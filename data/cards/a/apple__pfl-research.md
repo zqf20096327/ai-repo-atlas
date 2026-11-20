@@ -1,6 +1,6 @@
 # apple/pfl-research
 
-⭐ 359 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/apple/pfl-research) · [官网](http://apple.github.io/pfl-research/) · 组织维护
+⭐ 357 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/apple/pfl-research) · [官网](http://apple.github.io/pfl-research/) · 组织维护
 
 **Apple 出品的隐私保护联邦学习仿真研究框架**
 
@@ -45,12 +45,12 @@ Python 框架 pfl，供研究人员在隐私保护联邦学习（PFL）场景下
 ```mermaid
 xychart-beta
     title "apple/pfl-research 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 356 --> 360
-    line [357, 358, 357, 359, 359]
+    line [357, 358, 357, 359, 357]
 ```
 
-2026-10-18 357 → 2026-11-19 359（+2）
+2026-10-18 357 → 2026-11-20 357（+0）
 
 
 ---

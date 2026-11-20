@@ -1,6 +1,6 @@
 # pkalivas/radiate
 
-⭐ 257 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/pkalivas/radiate) · [官网](https://radiate.rs) · 个人维护
+⭐ 258 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/pkalivas/radiate) · [官网](https://radiate.rs) · 个人维护
 
 **面向开发者的遗传算法与神经进化引擎（Rust 核心 + Python 绑定）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pkalivas/radiate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 255 --> 258
-    line [256, 257, 256, 257, 257]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 255 --> 259
+    line [256, 257, 256, 257, 258]
 ```
 
-2026-10-18 256 → 2026-11-19 257（+1）
+2026-10-18 256 → 2026-11-20 258（+2）
 
 
 ---

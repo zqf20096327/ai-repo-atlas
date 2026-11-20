@@ -1,6 +1,6 @@
 # mmeyerlein/meclaw
 
-⭐ 45 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/mmeyerlein/meclaw) · [官网](https://meclaw.ai) · 个人维护
+⭐ 45 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mmeyerlein/meclaw) · [官网](https://meclaw.ai) · 个人维护
 
 **Rust 编写的多智能体系统构建框架，单二进制交付**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mmeyerlein/meclaw 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20"]
     y-axis "stars" 39 --> 46
     line [40, 41, 43, 44, 45, 45]
 ```
 
-2026-10-18 40 → 2026-11-19 45（+5）
+2026-10-18 40 → 2026-11-20 45（+5）
 
 
 ---

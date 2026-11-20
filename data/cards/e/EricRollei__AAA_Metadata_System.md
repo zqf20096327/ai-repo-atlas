@@ -1,6 +1,6 @@
 # EricRollei/AAA_Metadata_System
 
-⭐ 14 · Python · NOASSERTION · 推送 2025-12-19 · [GitHub](https://github.com/EricRollei/AAA_Metadata_System) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/EricRollei/AAA_Metadata_System) · 个人维护
 
 **ComfyUI 图像元数据管理与多格式存取自定义节点集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EricRollei/AAA_Metadata_System 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-19 14（+0）
+2026-10-18 14 → 2026-11-20 14（+0）
 
 
 ---

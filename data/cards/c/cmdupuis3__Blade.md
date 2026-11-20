@@ -1,6 +1,6 @@
 # cmdupuis3/Blade
 
-⭐ 10 · F# · LGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/cmdupuis3/Blade) · 个人维护
+⭐ 10 · F# · LGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/cmdupuis3/Blade) · 个人维护
 
 **面向科学与统计计算的数组函数式编程语言**
 
@@ -45,12 +45,12 @@ Blade 是一门通用数组函数式编程语言，主要面向复杂网格结�
 ```mermaid
 xychart-beta
     title "cmdupuis3/Blade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # FindAny/ghfind
 
-⭐ 286 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/FindAny/ghfind) · [官网](https://ghfind.com) · 个人维护 · 中文 README
+⭐ 287 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/FindAny/ghfind) · [官网](https://ghfind.com) · 个人维护 · 中文 README
 
 **基于公开 GitHub 数据的开发者 0–100 评分与发现平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FindAny/ghfind 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 282 --> 287
-    line [283, 285, 286, 285, 286, 286]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 282 --> 288
+    line [283, 285, 286, 285, 286, 287]
 ```
 
-2026-11-08 283 → 2026-11-19 286（+3）
+2026-11-08 283 → 2026-11-20 287（+4）
 
 
 ---

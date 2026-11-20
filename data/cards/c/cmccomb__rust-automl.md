@@ -1,6 +1,6 @@
 # cmccomb/rust-automl
 
-⭐ 39 · Rust · MIT · 推送 2026-09-20 · [GitHub](https://github.com/cmccomb/rust-automl) · [官网](https://crates.io/crates/automl) · 个人维护
+⭐ 40 · Rust · MIT · 推送 2026-09-20 · [GitHub](https://github.com/cmccomb/rust-automl) · [官网](https://crates.io/crates/automl) · 个人维护
 
 **Rust 自动化机器学习库：训练、比较模型并预测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cmccomb/rust-automl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-18 39 → 2026-11-19 39（+0）
+2026-10-18 39 → 2026-11-20 40（+1）
 
 
 ---

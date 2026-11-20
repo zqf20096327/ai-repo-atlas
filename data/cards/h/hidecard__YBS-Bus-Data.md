@@ -1,6 +1,6 @@
 # hidecard/YBS-Bus-Data
 
-⭐ 12 · 推送 2026-11-17 · [GitHub](https://github.com/hidecard/YBS-Bus-Data) · 个人维护
+⭐ 15 · 推送 2026-11-17 · [GitHub](https://github.com/hidecard/YBS-Bus-Data) · 个人维护
 
 **仰光 YBS 公交线路与站点静态 JSON 开放数据集**
 
@@ -40,6 +40,18 @@
 > L1: # YBS Bus Data (Yangon Bus Service)
 > L5: > **သတိပြုရန်:** ဤ repository သည် static data files များပေးထားခြင်းသာဖြစ်ပြီး hosted API server, live bus tracking သ
 > L9: - `ybs_*_data.json` — bus route တစ်ခုစီအတွက် JSON data (အောက်ပါ catalog တွင် လက်ရှိဖိုင် 147 ခုစာရင်းပြုထားသည်)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hidecard/YBS-Bus-Data 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 11 --> 16
+    line [12, 15]
+```
+
+2026-11-19 12 → 2026-11-20 15（+3）
 
 
 ---

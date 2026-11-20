@@ -1,6 +1,6 @@
 # bamler-lab/constriction
 
-⭐ 112 · Rust · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/bamler-lab/constriction) · [官网](https://bamler-lab.github.io/constriction/) · 组织维护
+⭐ 113 · Rust · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/bamler-lab/constriction) · [官网](https://bamler-lab.github.io/constriction/) · 组织维护
 
 **面向研究与生产的可组合熵编码库（Python/Rust）**
 
@@ -45,12 +45,12 @@ constriction 提供一组可组合的熵编码算法（ANS、Range Coding、实�
 ```mermaid
 xychart-beta
     title "bamler-lab/constriction 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 110 --> 113
-    line [111, 112, 112]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 110 --> 114
+    line [111, 112, 113]
 ```
 
-2026-10-18 111 → 2026-11-19 112（+1）
+2026-10-18 111 → 2026-11-20 113（+2）
 
 
 ---

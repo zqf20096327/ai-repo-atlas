@@ -1,6 +1,6 @@
 # smarter-sh/smarter
 
-⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/smarter-sh/smarter) · [官网](https://smarter.sh/) · 组织维护
+⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/smarter-sh/smarter) · [官网](https://smarter.sh/) · 组织维护
 
 **YAML 声明式构建 AI 应用与资源管理的云原生平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smarter-sh/smarter 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
     y-axis "stars" 12 --> 18
     line [13, 15, 13, 15, 16, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-19 17（+4）
+2026-10-18 13 → 2026-11-20 17（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # oil-oil/agy-fast-io
 
-⭐ 134 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/oil-oil/agy-fast-io) · 个人维护 · 中文 README
+⭐ 138 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/oil-oil/agy-fast-io) · 个人维护 · 中文 README
 
 **非官方 Antigravity 规则插件：减少 Agent 回合与云端审查等待**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oil-oil/agy-fast-io 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 61 --> 140
-    line [67, 103, 114, 123, 126, 134]
+    title "oil-oil/agy-fast-io 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 60 --> 145
+    line [67, 103, 114, 123, 126, 134, 138]
 ```
 
-2026-11-13 67 → 2026-11-19 134（+67）
+2026-11-13 67 → 2026-11-20 138（+71）
 
 
 ---

@@ -1,6 +1,6 @@
 # Dappit-io/birdsnest
 
-⭐ 21 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/Dappit-io/birdsnest) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/Dappit-io/birdsnest) · 组织维护
 
 **面向 Mac 的非 Transformer 本地 AI 聊天与生成工具集**
 
@@ -47,12 +47,12 @@ macOS 本地 AI 应用：以浏览器界面（localhost:7861）运行 RWKV、Mam
 ```mermaid
 xychart-beta
     title "Dappit-io/birdsnest 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 20 --> 26
-    line [25, 24, 23, 21, 21]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 17 --> 26
+    line [25, 24, 23, 21, 18]
 ```
 
-2026-10-18 25 → 2026-11-19 21（-4）
+2026-10-18 25 → 2026-11-20 18（-7）
 
 
 ---

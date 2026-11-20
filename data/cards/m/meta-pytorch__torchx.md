@@ -1,6 +1,6 @@
 # meta-pytorch/torchx
 
-⭐ 429 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/meta-pytorch/torchx) · [官网](https://pytorch.org/torchx) · 组织维护
+⭐ 429 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/meta-pytorch/torchx) · [官网](https://pytorch.org/torchx) · 组织维护
 
 **面向 PyTorch 应用的通用作业启动器，覆盖训练到生产管线**
 
@@ -45,12 +45,12 @@ Meta/PyTorch 团队维护的 PyTorch 应用通用作业启动器：将训练与�
 ```mermaid
 xychart-beta
     title "meta-pytorch/torchx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 427 --> 430
     line [428, 429, 429]
 ```
 
-2026-10-18 428 → 2026-11-19 429（+1）
+2026-10-18 428 → 2026-11-20 429（+1）
 
 
 ---

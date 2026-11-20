@@ -42,6 +42,18 @@
 > L28: - 🛠 **41 个内置 SAP 工具**：对象搜索 / 源码读取 / where-used / ATC 质量门禁 / 单元测试 / SQL 查询 / 传输请求 / 版本历史 / ST22 dump 分析 / DDIC 管理（表/
 > L31: - 🔀 **多模型**：DeepSeek / OpenAI / Anthropic / Qwen 等（pi 生态）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gxx950224/SapBuddy 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `419ae92f545e` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # xifanz42/nl2sql_agent
 
-⭐ 17 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/xifanz42/nl2sql_agent) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xifanz42/nl2sql_agent) · 个人维护 · 中文 README
 
 **自然语言查询 PostgreSQL 的轻量智能体，输出 SQL 并执行分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xifanz42/nl2sql_agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-19 17（+1）
+2026-10-18 16 → 2026-11-20 17（+1）
 
 
 ---

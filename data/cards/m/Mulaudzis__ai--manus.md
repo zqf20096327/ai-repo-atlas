@@ -1,6 +1,6 @@
 # Mulaudzis/ai--manus
 
-⭐ 180 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Mulaudzis/ai--manus) · 个人维护
+⭐ 179 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Mulaudzis/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码与控制浏览器**
 
@@ -44,12 +44,12 @@ README 描述 Manus 为自主 AI 代理，可在用户授权下编写并执行�
 ```mermaid
 xychart-beta
     title "Mulaudzis/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 107 --> 265
-    line [120, 252, 180, 180]
+    line [120, 252, 180, 179]
 ```
 
-2026-11-13 120 → 2026-11-19 180（+60）
+2026-11-13 120 → 2026-11-20 179（+59）
 
 
 ---

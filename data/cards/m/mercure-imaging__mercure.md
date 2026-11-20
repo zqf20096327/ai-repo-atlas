@@ -1,6 +1,6 @@
 # mercure-imaging/mercure
 
-⭐ 105 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mercure-imaging/mercure) · [官网](https://mercure-imaging.org) · 组织维护
+⭐ 106 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mercure-imaging/mercure) · [官网](https://mercure-imaging.org) · 组织维护
 
 **医学影像科用的 DICOM 路由与处理编排系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mercure-imaging/mercure 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 102 --> 106
-    line [103, 104, 103, 105, 105]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 102 --> 107
+    line [103, 104, 103, 105, 106]
 ```
 
-2026-10-18 103 → 2026-11-19 105（+2）
+2026-10-18 103 → 2026-11-20 106（+3）
 
 
 ---

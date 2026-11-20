@@ -1,6 +1,6 @@
 # cited-cc/cited
 
-⭐ 60 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/cited-cc/cited) · [官网](https://cited.cc) · 组织维护
+⭐ 55 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/cited-cc/cited) · [官网](https://cited.cc) · 组织维护
 
 **自托管的开源 AI 引用监测平台：追踪品牌在 AI 回答中的引用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cited-cc/cited 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 54 --> 132
-    line [126, 121, 65, 60, 60]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 48 --> 133
+    line [126, 121, 65, 60, 55]
 ```
 
-2026-10-18 126 → 2026-11-19 60（-66）
+2026-10-18 126 → 2026-11-20 55（-71）
 
 
 ---

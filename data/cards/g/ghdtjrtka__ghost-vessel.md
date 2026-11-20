@@ -1,6 +1,6 @@
 # ghdtjrtka/ghost-vessel
 
-⭐ 24 · JavaScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ghdtjrtka/ghost-vessel) · 个人维护
+⭐ 25 · JavaScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ghdtjrtka/ghost-vessel) · 个人维护
 
 **为本地 LLM agent 提供视频通话式虚拟形象前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ghdtjrtka/ghost-vessel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-11-19 24（+1）
+2026-10-18 23 → 2026-11-20 25（+2）
 
 
 ---

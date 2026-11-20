@@ -1,6 +1,6 @@
 # moss-site/moss-trade-bot-skills
 
-⭐ 397 · Python · MIT-0 · 推送 2026-10-20 · [GitHub](https://github.com/moss-site/moss-trade-bot-skills) · [官网](https://moss.site/) · 组织维护
+⭐ 393 · Python · MIT-0 · 推送 2026-10-20 · [GitHub](https://github.com/moss-site/moss-trade-bot-skills) · [官网](https://moss.site/) · 组织维护
 
 **用自然语言生成并进化加密货币交易 agent 的策略工厂**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "moss-site/moss-trade-bot-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-20"]
     y-axis "stars" 388 --> 398
-    line [389, 390, 393, 394, 393, 396, 397, 397]
+    line [389, 390, 393, 394, 393, 396, 397, 393]
 ```
 
-2026-10-18 389 → 2026-11-19 397（+8）
+2026-10-18 389 → 2026-11-20 393（+4）
 
 
 ---

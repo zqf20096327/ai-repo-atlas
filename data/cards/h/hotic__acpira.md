@@ -1,6 +1,6 @@
 # hotic/acpira
 
-⭐ 19 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hotic/acpira) · [官网](acpira.com) · 个人维护 · 中文 README
+⭐ 19 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hotic/acpira) · [官网](acpira.com) · 个人维护 · 中文 README
 
 **跨多个编码 Agent 的原生工作台（Rust 内核，基于 ACP）**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "hotic/acpira 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19"]
+    title "hotic/acpira 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 11 --> 20
-    line [12, 15, 16, 17, 18, 19]
+    line [12, 15, 16, 17, 18, 19, 19]
 ```
 
-2026-11-08 12 → 2026-11-19 19（+7）
+2026-11-08 12 → 2026-11-20 19（+7）
 
 
 ---

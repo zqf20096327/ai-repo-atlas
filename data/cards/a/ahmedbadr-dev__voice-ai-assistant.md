@@ -1,6 +1,6 @@
 # ahmedbadr-dev/voice-ai-assistant
 
-⭐ 26 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ahmedbadr-dev/voice-ai-assistant) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ahmedbadr-dev/voice-ai-assistant) · 个人维护
 
 **语音对话 AI 助手：麦克风识别→Gemini 回答→离线 TTS 播报**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ahmedbadr-dev/voice-ai-assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 25 --> 29
-    line [28, 27, 26, 26]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 1 --> 30
+    line [28, 27, 26, 3]
 ```
 
-2026-10-18 28 → 2026-11-19 26（-2）
+2026-10-18 28 → 2026-11-20 3（-25）
 
 
 ---

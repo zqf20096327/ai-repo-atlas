@@ -1,6 +1,6 @@
 # makr-code/ThemisDB
 
-⭐ 10 · C++ · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/makr-code/ThemisDB) · [官网](https:\\www.themisdb.org) · 组织维护
+⭐ 10 · C++ · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/makr-code/ThemisDB) · [官网](https:\\www.themisdb.org) · 组织维护
 
 **C++ 多模型数据库：图/向量/关系/文档等多负载统一存储**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "makr-code/ThemisDB 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-19 10（+0）
+2026-11-08 10 → 2026-11-20 10（+0）
 
 
 ---

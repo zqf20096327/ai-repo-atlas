@@ -1,6 +1,6 @@
 # Samopal88/nextlevel
 
-⭐ 37 · Python · 推送 2026-09-20 · [GitHub](https://github.com/Samopal88/nextlevel) · [官网](https://t.me/nextlvlgm) · 个人维护
+⭐ 28 · Python · 推送 2026-09-20 · [GitHub](https://github.com/Samopal88/nextlevel) · [官网](https://t.me/nextlvlgm) · 个人维护
 
 **自托管的 Telegram 游戏动漫 RSS 自动发布器，可选 LLM 改写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Samopal88/nextlevel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 36 --> 42
-    line [41, 38, 37, 37]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 27 --> 42
+    line [41, 38, 37, 28]
 ```
 
-2026-10-18 41 → 2026-11-19 37（-4）
+2026-10-18 41 → 2026-11-20 28（-13）
 
 
 ---

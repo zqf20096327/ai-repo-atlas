@@ -1,6 +1,6 @@
 # Xin-YuXiao/Awesome-AI-for-Astronomy
 
-⭐ 381 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 个人维护
+⭐ 398 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 个人维护
 
 **天文与天体物理 AI 论文/模型/基准策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xin-YuXiao/Awesome-AI-for-Astronomy 星数(近 8 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 10 --> 414
-    line [43, 95, 155, 182, 216, 280, 329, 381]
+    title "Xin-YuXiao/Awesome-AI-for-Astronomy 星数(近 9 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 8 --> 433
+    line [43, 95, 155, 182, 216, 280, 329, 381, 398]
 ```
 
-2026-11-11 43 → 2026-11-19 381（+338）
+2026-11-11 43 → 2026-11-20 398（+355）
 
 
 ---

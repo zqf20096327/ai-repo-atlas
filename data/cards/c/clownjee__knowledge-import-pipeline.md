@@ -1,6 +1,6 @@
 # clownjee/knowledge-import-pipeline
 
-⭐ 19 · Java · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/clownjee/knowledge-import-pipeline) · [官网](https://clownjee.top:1443) · 个人维护 · 中文 README
+⭐ 20 · Java · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/clownjee/knowledge-import-pipeline) · [官网](https://clownjee.top:1443) · 个人维护 · 中文 README
 
 **面向义务教育教材的 AI 知识抽取与知识图谱平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "clownjee/knowledge-import-pipeline 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-11-19 19（+1）
+2026-10-18 18 → 2026-11-20 20（+2）
 
 
 ---

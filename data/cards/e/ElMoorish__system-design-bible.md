@@ -1,6 +1,6 @@
 # ElMoorish/system-design-bible
 
-⭐ 15 · MIT · 推送 2026-03-17 · [GitHub](https://github.com/ElMoorish/system-design-bible) · 个人维护
+⭐ 16 · MIT · 推送 2026-03-17 · [GitHub](https://github.com/ElMoorish/system-design-bible) · 个人维护
 
 **面向 AI 时代的系统设计参考手册：经典模式加 LLM/RAG/Agent 新内容**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ElMoorish/system-design-bible 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 12, 13, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 12, 13, 14, 15, 16]
 ```
 
-2026-10-18 11 → 2026-11-19 15（+4）
+2026-10-18 11 → 2026-11-20 16（+5）
 
 
 ---

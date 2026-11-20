@@ -1,6 +1,6 @@
 # cruxwell/pcode
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cruxwell/pcode) · [官网](https://cruxwell.github.io/pcode/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cruxwell/pcode) · [官网](https://cruxwell.github.io/pcode/) · 个人维护
 
 **终端原生 AI 编码代理：后台任务、并行 worktree、可分叉会话**
 
@@ -47,12 +47,12 @@ pcode 是运行在终端中的编码代理，用户通过对话驱动其编辑�
 ```mermaid
 xychart-beta
     title "cruxwell/pcode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

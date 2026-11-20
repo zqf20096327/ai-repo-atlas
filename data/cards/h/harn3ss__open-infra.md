@@ -1,6 +1,6 @@
 # harn3ss/open-infra
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/harn3ss/open-infra) · 个人维护
+⭐ 16 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/harn3ss/open-infra) · 个人维护
 
 **自托管 AWS 兼容云平台：用自有硬件运行 25+ AWS 风格服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "harn3ss/open-infra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-11-19 15（+1）
+2026-10-18 14 → 2026-11-20 16（+2）
 
 
 ---

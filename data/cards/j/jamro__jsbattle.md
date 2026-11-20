@@ -1,6 +1,6 @@
 # jamro/jsbattle
 
-⭐ 112 · JavaScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/jamro/jsbattle) · [官网](http://jsbattle.jmrlab.com) · 个人维护
+⭐ 111 · JavaScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/jamro/jsbattle) · [官网](http://jsbattle.jmrlab.com) · 个人维护
 
 **用 JavaScript 编写坦克 AI 并对战的游戏平台**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "jamro/jsbattle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-20"]
     y-axis "stars" 110 --> 113
-    line [111, 112, 112]
+    line [111, 112, 111]
 ```
 
-2026-10-18 111 → 2026-11-19 112（+1）
+2026-10-18 111 → 2026-11-20 111（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hulibuld/dsh-get-it-for-free
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hulibuld/dsh-get-it-for-free) · [官网](https://www.npmjs.com/package/dsh-get-it-for-free) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hulibuld/dsh-get-it-for-free) · [官网](https://www.npmjs.com/package/dsh-get-it-for-free) · 个人维护 · 中文 README
 
 **把免费/签到型大模型账号渠道接入 DeepSeek Harness 的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hulibuld/dsh-get-it-for-free 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 5 --> 12
-    line [6, 7, 8, 9, 10, 11]
+    title "hulibuld/dsh-get-it-for-free 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 5 --> 15
+    line [6, 7, 8, 9, 10, 11, 14]
 ```
 
-2026-11-08 6 → 2026-11-19 11（+5）
+2026-11-08 6 → 2026-11-20 14（+8）
 
 
 ---

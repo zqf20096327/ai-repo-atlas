@@ -1,6 +1,6 @@
 # k7cfo/remove-your-data
 
-⭐ 178 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/k7cfo/remove-your-data) · [官网](https://github.com/k7cfo/remove-your-data) · 个人维护
+⭐ 185 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/k7cfo/remove-your-data) · [官网](https://github.com/k7cfo/remove-your-data) · 个人维护
 
 **让 AI agent 免费替你向数据经纪商提交删除请求的技能仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "k7cfo/remove-your-data 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 136 --> 181
-    line [139, 152, 171, 177, 178]
+    title "k7cfo/remove-your-data 星数(近 6 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 135 --> 189
+    line [139, 152, 171, 177, 178, 185]
 ```
 
-2026-11-14 139 → 2026-11-19 178（+39）
+2026-11-14 139 → 2026-11-20 185（+46）
 
 
 ---

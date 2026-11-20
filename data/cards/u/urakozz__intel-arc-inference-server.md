@@ -1,6 +1,6 @@
 # urakozz/intel-arc-inference-server
 
-⭐ 11 · C++ · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/urakozz/intel-arc-inference-server) · 个人维护
+⭐ 12 · C++ · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/urakozz/intel-arc-inference-server) · 个人维护
 
 **面向 Intel Arc Pro B70 显卡的本地 LLM 推理服务器**
 
@@ -40,6 +40,18 @@
 > L3: **A fast LLM server for one or two Intel Arc Pro B70 cards, written from scratch.** Hand-crafted GPU kernels,
 > L4: optimised for each model it runs - no PyTorch, no vLLM underneath - and an OpenAI-compatible API built for long codi
 > L86: You need Linux with the `xe` driver, Intel's compute runtime with `ocloc` and the Level Zero loader, GCC 16 (`g++-1
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "urakozz/intel-arc-inference-server 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
+```
+
+2026-11-19 11 → 2026-11-20 12（+1）
 
 
 ---

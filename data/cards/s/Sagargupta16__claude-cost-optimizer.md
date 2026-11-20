@@ -1,6 +1,6 @@
 # Sagargupta16/claude-cost-optimizer
 
-⭐ 45 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Sagargupta16/claude-cost-optimizer) · [官网](https://sagargupta.online/claude-cost-optimizer/) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Sagargupta16/claude-cost-optimizer) · [官网](https://sagargupta.online/claude-cost-optimizer/) · 个人维护
 
 **降低 Claude Code 使用成本的技能与工具箱：定价杠杆、成本计算与项目评分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sagargupta16/claude-cost-optimizer 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 37 --> 46
-    line [38, 39, 40, 41, 42, 40, 44, 45]
+    title "Sagargupta16/claude-cost-optimizer 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 37 --> 47
+    line [38, 39, 40, 41, 42, 40, 44, 45, 46]
 ```
 
-2026-10-18 38 → 2026-11-19 45（+7）
+2026-10-18 38 → 2026-11-20 46（+8）
 
 
 ---

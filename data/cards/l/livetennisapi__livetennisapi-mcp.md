@@ -1,6 +1,6 @@
 # livetennisapi/livetennisapi-mcp
 
-⭐ 135 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/livetennisapi/livetennisapi-mcp) · [官网](https://docs.livetennisapi.com) · 组织维护
+⭐ 129 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/livetennisapi/livetennisapi-mcp) · [官网](https://docs.livetennisapi.com) · 组织维护
 
 **给 LLM agent 提供实时网球比分与数据的 MCP 服务器**
 
@@ -46,12 +46,12 @@ Live Tennis API 的官方 MCP server，向 Claude、Cursor、Zed、Codex 等 MCP
 ```mermaid
 xychart-beta
     title "livetennisapi/livetennisapi-mcp 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 133 --> 149
-    line [147, 148, 136, 134, 135, 135]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 128 --> 149
+    line [147, 148, 136, 134, 135, 129]
 ```
 
-2026-10-26 147 → 2026-11-19 135（-12）
+2026-10-26 147 → 2026-11-20 129（-18）
 
 
 ---

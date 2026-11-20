@@ -1,6 +1,6 @@
 # zhgqcn/awesome-NILM-with-code
 
-⭐ 150 · CC-BY-4.0 · 推送 2026-09-15 · [GitHub](https://github.com/zhgqcn/awesome-NILM-with-code) · 个人维护
+⭐ 149 · CC-BY-4.0 · 推送 2026-09-15 · [GitHub](https://github.com/zhgqcn/awesome-NILM-with-code) · 个人维护
 
 **NILM 论文与代码策展清单：能源分解研究一站式索引**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhgqcn/awesome-NILM-with-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 146 --> 151
-    line [147, 150, 150]
+    line [147, 150, 149]
 ```
 
-2026-10-18 147 → 2026-11-19 150（+3）
+2026-10-18 147 → 2026-11-20 149（+2）
 
 
 ---

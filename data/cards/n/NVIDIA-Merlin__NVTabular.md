@@ -1,6 +1,6 @@
 # NVIDIA-Merlin/NVTabular
 
-⭐ 1,154 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/NVIDIA-Merlin/NVTabular) · 组织维护
+⭐ 1,153 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/NVIDIA-Merlin/NVTabular) · 组织维护
 
 **面向推荐系统的表格数据 GPU 特征工程与预处理库**
 
@@ -45,12 +45,12 @@ NVIDIA Merlin 框架的组件之一，为深度学习推荐系统提供 TB 级�
 ```mermaid
 xychart-beta
     title "NVIDIA-Merlin/NVTabular 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
     y-axis "stars" 1152 --> 1155
-    line [1153, 1154, 1154]
+    line [1153, 1154, 1153]
 ```
 
-2026-10-18 1,153 → 2026-11-19 1,154（+1）
+2026-10-18 1,153 → 2026-11-20 1,153（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # acogood/diffmode_free
 
-⭐ 166 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/acogood/diffmode_free) · 个人维护
+⭐ 167 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/acogood/diffmode_free) · 个人维护
 
 **面向初创创始人的增长策略研究工具：产出竞品分析与众筹式战术**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "acogood/diffmode_free 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 164 --> 167
-    line [165, 166, 165, 166, 166]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 164 --> 168
+    line [165, 166, 165, 166, 167]
 ```
 
-2026-10-18 165 → 2026-11-19 166（+1）
+2026-10-18 165 → 2026-11-20 167（+2）
 
 
 ---

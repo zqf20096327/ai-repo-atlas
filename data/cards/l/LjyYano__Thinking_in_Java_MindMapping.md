@@ -1,6 +1,6 @@
 # LjyYano/Thinking_in_Java_MindMapping
 
-⭐ 1,694 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/LjyYano/Thinking_in_Java_MindMapping) · [官网](https://yano-nankai.notion.site/Yano-Space-ff42bde7acd1467eb3ae63dc0d4a9f8c) · 个人维护 · 中文 README
+⭐ 1,693 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/LjyYano/Thinking_in_Java_MindMapping) · [官网](https://yano-nankai.notion.site/Yano-Space-ff42bde7acd1467eb3ae63dc0d4a9f8c) · 个人维护 · 中文 README
 
 **个人知识库：编程、AI、书影音与生活笔记的长期沉淀仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LjyYano/Thinking_in_Java_MindMapping 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-20"]
     y-axis "stars" 1687 --> 1695
-    line [1688, 1689, 1691, 1692, 1693, 1691, 1693, 1692, 1693, 1694, 1694]
+    line [1688, 1689, 1691, 1692, 1693, 1691, 1693, 1692, 1693, 1694, 1693]
 ```
 
-2026-10-18 1,688 → 2026-11-19 1,694（+6）
+2026-10-18 1,688 → 2026-11-20 1,693（+5）
 
 
 ---

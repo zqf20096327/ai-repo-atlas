@@ -1,6 +1,6 @@
 # microsoft/interwhen
 
-⭐ 50 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/microsoft/interwhen) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/microsoft/interwhen) · 组织维护
 
 **语言模型测试时验证框架：生成过程中核验推理轨迹合规性**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/interwhen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 46 --> 51
-    line [47, 49, 50, 50]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 46 --> 52
+    line [47, 49, 50, 51]
 ```
 
-2026-10-18 47 → 2026-11-19 50（+3）
+2026-10-18 47 → 2026-11-20 51（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # MarkIvor/datasearcher
 
-⭐ 23 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/MarkIvor/datasearcher) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/MarkIvor/datasearcher) · 个人维护
 
 **对话式数据分析平台：自然语言问数据，产出图表与公开仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MarkIvor/datasearcher 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 22 --> 31
-    line [30, 23, 23]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 12 --> 31
+    line [30, 23, 13]
 ```
 
-2026-11-02 30 → 2026-11-19 23（-7）
+2026-11-02 30 → 2026-11-20 13（-17）
 
 
 ---

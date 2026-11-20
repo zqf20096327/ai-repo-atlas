@@ -1,6 +1,6 @@
 # autonomous-ai/Personal-AI-Computer
 
-⭐ 1,588 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/autonomous-ai/Personal-AI-Computer) · [官网](https://autonomous.ai/computer) · 组织维护
+⭐ 1,600 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/autonomous-ai/Personal-AI-Computer) · [官网](https://autonomous.ai/computer) · 组织维护
 
 **开源硬件仓库：2-8 GPU 本地 AI 计算机的设计与搭建指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "autonomous-ai/Personal-AI-Computer 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 1560 --> 1590
-    line [1562, 1564, 1569, 1576, 1577, 1581, 1588]
+    title "autonomous-ai/Personal-AI-Computer 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 1559 --> 1603
+    line [1562, 1564, 1569, 1576, 1577, 1581, 1588, 1600]
 ```
 
-2026-11-08 1,562 → 2026-11-19 1,588（+26）
+2026-11-08 1,562 → 2026-11-20 1,600（+38）
 
 
 ---

@@ -1,6 +1,6 @@
 # nbn07/agent-tracedown
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/nbn07/agent-tracedown) · [官网](https://tracedown-demo.onrender.com/) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/nbn07/agent-tracedown) · [官网](https://tracedown-demo.onrender.com/) · 个人维护
 
 **诊断 AI agent 失败根因的工具：定位致错步骤并回放验证修复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nbn07/agent-tracedown 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-10", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 12 --> 18
-    line [13, 16, 17, 17]
+    x-axis ["2026-11-02", "2026-11-10", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 12 --> 19
+    line [13, 16, 17, 18]
 ```
 
-2026-11-02 13 → 2026-11-19 17（+4）
+2026-11-02 13 → 2026-11-20 18（+5）
 
 
 ---

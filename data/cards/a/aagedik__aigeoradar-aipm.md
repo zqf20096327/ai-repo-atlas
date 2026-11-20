@@ -1,6 +1,6 @@
 # aagedik/aigeoradar-aipm
 
-⭐ 13 · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/aagedik/aigeoradar-aipm) · [官网](https://aigeoradar.com/specifications/aipm) · 个人维护
+⭐ 10 · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/aagedik/aigeoradar-aipm) · [官网](https://aigeoradar.com/specifications/aipm) · 个人维护
 
 **开放规范：为每个网页定义 .ai.json 元数据供 AI 爬虫读取**
 
@@ -46,12 +46,12 @@ AI Page Manifest (AIPM) 是一个由 AigeoRadar 维护的开放规范（v1.2.0�
 ```mermaid
 xychart-beta
     title "aagedik/aigeoradar-aipm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 9 --> 14
+    line [12, 13, 12, 13, 10]
 ```
 
-2026-10-18 12 → 2026-11-19 13（+1）
+2026-10-18 12 → 2026-11-20 10（-2）
 
 
 ---

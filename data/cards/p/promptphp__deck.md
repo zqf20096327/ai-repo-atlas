@@ -1,6 +1,6 @@
 # promptphp/deck
 
-⭐ 116 · PHP · MIT · 推送 2026-11-18 · [GitHub](https://github.com/promptphp/deck) · [官网](https://deck.promptphp.com/) · 个人维护
+⭐ 116 · PHP · MIT · 推送 2026-11-19 · [GitHub](https://github.com/promptphp/deck) · [官网](https://deck.promptphp.com/) · 个人维护
 
 **Laravel/PHP 的 AI 提示词版本管理包：模板变量、A/B 测试**
 
@@ -45,12 +45,12 @@ Deck（原 Prompt Deck）是面向 Laravel/PHP 开发者的 AI 提示词管理 C
 ```mermaid
 xychart-beta
     title "promptphp/deck 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
     y-axis "stars" 114 --> 118
     line [115, 116, 115, 116, 117, 116, 117, 116, 116]
 ```
 
-2026-10-18 115 → 2026-11-19 116（+1）
+2026-10-18 115 → 2026-11-20 116（+1）
 
 
 ---

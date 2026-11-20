@@ -1,6 +1,6 @@
 # erdogan-deniz/school-21
 
-⭐ 13 · Jupyter Notebook · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/erdogan-deniz/school-21) · [官网](https://21-school.ru) · 个人维护
+⭐ 13 · Jupyter Notebook · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/erdogan-deniz/school-21) · [官网](https://21-school.ru) · 个人维护
 
 **School 21（42 网络）已完成课程项目集合：C/C++/Python/ML/DevOps**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "erdogan-deniz/school-21 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 13（+0）
 
 
 ---

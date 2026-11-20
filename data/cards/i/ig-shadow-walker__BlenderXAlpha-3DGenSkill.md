@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ig-shadow-walker/BlenderXAlpha-3DGenSkill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    title "ig-shadow-walker/BlenderXAlpha-3DGenSkill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 29 --> 33
-    line [30, 31, 32]
+    line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-19 32（+2）
+2026-10-18 30 → 2026-11-20 32（+2）
 
 
 ---

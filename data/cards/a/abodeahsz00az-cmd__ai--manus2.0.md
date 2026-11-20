@@ -1,6 +1,6 @@
 # abodeahsz00az-cmd/ai--manus2.0
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/abodeahsz00az-cmd/ai--manus2.0) · 个人维护
+⭐ 57 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/abodeahsz00az-cmd/ai--manus2.0) · 个人维护
 
 **面向个人用户的自主 AI Agent，自动执行代码与浏览器任务**
 
@@ -46,12 +46,12 @@ README 将其描述为一个自主运行的 AI Agent：可自行编写并执行�
 ```mermaid
 xychart-beta
     title "abodeahsz00az-cmd/ai--manus2.0 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-11-18", "2026-11-20"]
+    y-axis "stars" 56 --> 63
+    line [62, 57]
 ```
 
-2026-11-18 62 → 2026-11-19 62（+0）
+2026-11-18 62 → 2026-11-20 57（-5）
 
 
 ---

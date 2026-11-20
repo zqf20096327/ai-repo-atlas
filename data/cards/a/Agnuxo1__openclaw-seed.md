@@ -1,6 +1,6 @@
 # Agnuxo1/openclaw-seed
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Agnuxo1/openclaw-seed) · [官网](https://github.com/Agnuxo1/OpenCLAW-P2P) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自我进化的自主研究 agent：从论文数据持续 LoRA 训练自身**
 
@@ -11,7 +11,7 @@ P2PCLAW 生态中的自进化研究 agent 仓库：包含数据采集器（ArXiv
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

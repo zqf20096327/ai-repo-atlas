@@ -1,6 +1,6 @@
 # TSPstudio/kotensor
 
-⭐ 13 · Kotlin · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/TSPstudio/kotensor) · [官网](https://tspstudio.github.io/kotensor/) · 个人维护
+⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/TSPstudio/kotensor) · [官网](https://tspstudio.github.io/kotensor/) · 个人维护
 
 **在 JVM/Android 上纯 Kotlin 训练、微调并运行 Transformer LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TSPstudio/kotensor 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 13, 13]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 13, 14]
 ```
 
-2026-11-13 10 → 2026-11-19 13（+3）
+2026-11-13 10 → 2026-11-20 14（+4）
 
 
 ---

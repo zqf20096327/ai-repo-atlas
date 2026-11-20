@@ -1,6 +1,6 @@
 # KenKaiii/blobbies
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/KenKaiii/blobbies) · [官网](https://www.kenkais.com) · 个人维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/KenKaiii/blobbies) · [官网](https://www.kenkais.com) · 个人维护
 
 **本地优先的多 AI 助手桌面应用，数据不出本机**
 
@@ -46,12 +46,12 @@ macOS/Windows/Linux 桌面应用，用户可创建多个名为 Blob 的 AI 助�
 ```mermaid
 xychart-beta
     title "KenKaiii/blobbies 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-02 10 → 2026-11-19 11（+1）
+2026-11-02 10 → 2026-11-20 11（+1）
 
 
 ---

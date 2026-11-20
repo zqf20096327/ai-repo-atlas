@@ -1,6 +1,6 @@
 # Neuraxio/Neuraxle
 
-⭐ 613 · Python · Apache-2.0 · 推送 2026-02-20 · [GitHub](https://github.com/Neuraxio/Neuraxle) · [官网](https://www.neuraxle.org/) · 组织维护
+⭐ 612 · Python · Apache-2.0 · 推送 2026-02-20 · [GitHub](https://github.com/Neuraxio/Neuraxle) · [官网](https://www.neuraxle.org/) · 组织维护
 
 **给 ML 开发者的流水线框架：组件化构建与调参生产管线**
 
@@ -45,12 +45,12 @@ Neuraxle 是一个 Python 机器学习库，提供组件化的流水线抽象：
 ```mermaid
 xychart-beta
     title "Neuraxio/Neuraxle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 611 --> 614
-    line [612, 613, 613]
+    line [612, 613, 612]
 ```
 
-2026-10-18 612 → 2026-11-19 613（+1）
+2026-10-18 612 → 2026-11-20 612（+0）
 
 
 ---

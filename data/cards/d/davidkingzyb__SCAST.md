@@ -1,6 +1,6 @@
 # davidkingzyb/SCAST
 
-⭐ 39 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/davidkingzyb/SCAST) · [官网](https://davidkingzyb.github.io/scast/SCAST.html) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/davidkingzyb/SCAST) · [官网](https://davidkingzyb.github.io/scast/SCAST.html) · 个人维护 · 中文 README
 
 **静态代码分析可视化工具：代码转 UML/流程图并用 AI 解释**
 
@@ -46,12 +46,12 @@ SCAST 将源代码解析为抽象语法树（AST）并做静态分析，用 Merm
 ```mermaid
 xychart-beta
     title "davidkingzyb/SCAST 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-18 39 → 2026-11-19 39（+0）
+2026-10-18 39 → 2026-11-20 40（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gobuildwp/wordpress-mcp-ai-gobuildwp
 
-⭐ 65 · PHP · GPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/gobuildwp/wordpress-mcp-ai-gobuildwp) · [官网](https://gobuildwp.com) · 组织维护
+⭐ 65 · PHP · GPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/gobuildwp/wordpress-mcp-ai-gobuildwp) · [官网](https://gobuildwp.com) · 组织维护
 
 **把 WordPress 站点变成 MCP 服务器，供 AI 客户端建站改站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gobuildwp/wordpress-mcp-ai-gobuildwp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
     y-axis "stars" 61 --> 70
     line [67, 68, 69, 62, 63, 64, 65, 65]
 ```
 
-2026-10-18 67 → 2026-11-19 65（-2）
+2026-10-18 67 → 2026-11-20 65（-2）
 
 
 ---

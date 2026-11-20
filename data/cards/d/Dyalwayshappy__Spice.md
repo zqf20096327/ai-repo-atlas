@@ -1,6 +1,6 @@
 # Dyalwayshappy/Spice
 
-⭐ 246 · Python · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/Dyalwayshappy/Spice) · [官网](https://pypi.org/project/spice-runtime/) · 个人维护 · 中文 README
+⭐ 245 · Python · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/Dyalwayshappy/Spice) · [官网](https://pypi.org/project/spice-runtime/) · 个人维护 · 中文 README
 
 **Agent 系统的决策层运行时：感知上下文、比较选项、审批后委托执行**
 
@@ -46,12 +46,12 @@ Spice 是面向 agentic AI 系统的决策运行时，运行 perception → stat
 ```mermaid
 xychart-beta
     title "Dyalwayshappy/Spice 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 245 --> 249
-    line [248, 247, 246, 248, 247, 246, 246]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 244 --> 249
+    line [248, 247, 246, 248, 247, 246, 245]
 ```
 
-2026-10-18 248 → 2026-11-19 246（-2）
+2026-10-18 248 → 2026-11-20 245（-3）
 
 
 ---

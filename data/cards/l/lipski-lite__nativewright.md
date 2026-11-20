@@ -1,6 +1,6 @@
 # lipski-lite/nativewright
 
-⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/lipski-lite/nativewright) · 个人维护
+⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/lipski-lite/nativewright) · 个人维护
 
 **给 AI 编码 agent 用的持久化浏览器守护进程**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lipski-lite/nativewright 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-23 10 → 2026-11-19 11（+1）
+2026-10-23 10 → 2026-11-20 12（+2）
 
 
 ---

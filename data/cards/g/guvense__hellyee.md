@@ -40,6 +40,18 @@
 > L14: MCP
 > L67: Claude launches `hellyee` as a subprocess and talks to it over MCP. hellyee
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "guvense/hellyee 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `7ea709902b09` · [字段定义](../../DATASET.md)*

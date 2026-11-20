@@ -1,6 +1,6 @@
 # KeyID-AI/sdk-py
 
-⭐ 303 · Python · 推送 2026-03-13 · [GitHub](https://github.com/KeyID-AI/sdk-py) · [官网](https://keyid.ai) · 组织维护
+⭐ 297 · Python · 推送 2026-03-13 · [GitHub](https://github.com/KeyID-AI/sdk-py) · [官网](https://keyid.ai) · 组织维护
 
 **为 AI agent 提供免注册免费邮箱的 Python SDK**
 
@@ -46,12 +46,12 @@ KeyID.ai 官方 Python SDK：agent 生成 Ed25519 密钥对后调用 provision()
 ```mermaid
 xychart-beta
     title "KeyID-AI/sdk-py 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 300 --> 304
-    line [301, 302, 301, 302, 303, 303]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 296 --> 304
+    line [301, 302, 301, 302, 303, 297]
 ```
 
-2026-10-18 301 → 2026-11-19 303（+2）
+2026-10-18 301 → 2026-11-20 297（-4）
 
 
 ---

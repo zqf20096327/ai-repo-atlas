@@ -1,6 +1,6 @@
 # myna-recorder/Myna-Macro-Recorder-Auto-Clicker
 
-⭐ 60 · 推送 2026-11-15 · [GitHub](https://github.com/myna-recorder/Myna-Macro-Recorder-Auto-Clicker) · [官网](https://mynarecorder.com) · 组织维护
+⭐ 29 · 推送 2026-11-15 · [GitHub](https://github.com/myna-recorder/Myna-Macro-Recorder-Auto-Clicker) · [官网](https://mynarecorder.com) · 组织维护
 
 **可读可编辑的 Windows 宏录制器，附带 AI 写宏助手与自动连点器**
 
@@ -46,12 +46,12 @@ Windows 桌面自动化工具：录制键盘鼠标操作并回放，宏以步骤
 ```mermaid
 xychart-beta
     title "myna-recorder/Myna-Macro-Recorder-Auto-Clicker 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 59 --> 74
-    line [73, 61, 60, 60]
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 25 --> 77
+    line [73, 61, 60, 29]
 ```
 
-2026-10-23 73 → 2026-11-19 60（-13）
+2026-10-23 73 → 2026-11-20 29（-44）
 
 
 ---

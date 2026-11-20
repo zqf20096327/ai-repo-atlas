@@ -1,6 +1,6 @@
 # tzachbon/claude-model-router-hook
 
-⭐ 113 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/tzachbon/claude-model-router-hook) · [官网](https://tzachbon.github.io/claude-model-router-hook/) · 个人维护
+⭐ 114 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/tzachbon/claude-model-router-hook) · [官网](https://tzachbon.github.io/claude-model-router-hook/) · 个人维护
 
 **按任务复杂度为 Claude Code 自动切换模型档位的 hooks**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tzachbon/claude-model-router-hook 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 104 --> 114
-    line [105, 106, 105, 110, 111, 112, 113, 113]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 104 --> 115
+    line [105, 106, 105, 110, 111, 112, 113, 114]
 ```
 
-2026-10-18 105 → 2026-11-19 113（+8）
+2026-10-18 105 → 2026-11-20 114（+9）
 
 
 ---

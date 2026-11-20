@@ -1,6 +1,6 @@
 # srmorete/mobile-device-mcp
 
-⭐ 53 · TypeScript · MIT · 推送 2026-08-02 · [GitHub](https://github.com/srmorete/mobile-device-mcp) · [官网](https://www.npmjs.com/package/@srmorete/mobile-device-mcp) · 个人维护
+⭐ 54 · TypeScript · MIT · 推送 2026-08-02 · [GitHub](https://github.com/srmorete/mobile-device-mcp) · [官网](https://www.npmjs.com/package/@srmorete/mobile-device-mcp) · 个人维护
 
 **让 AI agent 控制 iOS/Android 设备的 MCP 服务器，支持多设备并行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "srmorete/mobile-device-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 49 --> 55
-    line [50, 52, 53, 52, 54, 53, 53]
+    line [50, 52, 53, 52, 54, 53, 54]
 ```
 
-2026-10-18 50 → 2026-11-19 53（+3）
+2026-10-18 50 → 2026-11-20 54（+4）
 
 
 ---

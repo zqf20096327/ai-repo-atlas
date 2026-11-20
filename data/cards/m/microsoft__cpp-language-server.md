@@ -1,6 +1,6 @@
 # microsoft/cpp-language-server
 
-⭐ 62 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/microsoft/cpp-language-server) · 组织维护
+⭐ 63 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/microsoft/cpp-language-server) · 组织维护
 
 **微软 C++ 语言服务器：为 GitHub Copilot CLI 提供 C++ 代码智能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/cpp-language-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 53 --> 63
-    line [54, 55, 54, 55, 56, 59, 62, 62]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 53 --> 64
+    line [54, 55, 54, 55, 56, 59, 62, 63]
 ```
 
-2026-10-18 54 → 2026-11-19 62（+8）
+2026-10-18 54 → 2026-11-20 63（+9）
 
 
 ---

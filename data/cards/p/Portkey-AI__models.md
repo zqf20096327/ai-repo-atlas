@@ -1,6 +1,6 @@
 # Portkey-AI/models
 
-⭐ 146 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Portkey-AI/models) · [官网](https://portkey.ai/models) · 组织维护
+⭐ 146 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Portkey-AI/models) · [官网](https://portkey.ai/models) · 组织维护
 
 **2,000+ LLM 的定价与配置开放数据库，免费 API 提供**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Portkey-AI/models 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 142 --> 147
     line [143, 144, 143, 146, 146]
 ```
 
-2026-10-18 143 → 2026-11-19 146（+3）
+2026-10-18 143 → 2026-11-20 146（+3）
 
 
 ---

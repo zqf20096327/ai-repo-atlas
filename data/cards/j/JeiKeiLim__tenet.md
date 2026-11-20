@@ -1,6 +1,6 @@
 # JeiKeiLim/tenet
 
-⭐ 95 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/JeiKeiLim/tenet) · 个人维护
+⭐ 93 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/JeiKeiLim/tenet) · 个人维护
 
 **面向 12+ 小时自主开发周期的跨平台 AI agent 编排框架**
 
@@ -46,12 +46,12 @@ Tenet 是包裹在 AI 编码 agent（Claude Code、OpenCode、Codex）外层的 
 ```mermaid
 xychart-beta
     title "JeiKeiLim/tenet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-11", "2026-11-20"]
     y-axis "stars" 92 --> 96
-    line [95, 94, 93, 94, 95, 95]
+    line [95, 94, 93, 94, 95, 93]
 ```
 
-2026-10-18 95 → 2026-11-19 95（+0）
+2026-10-18 95 → 2026-11-20 93（-2）
 
 
 ---

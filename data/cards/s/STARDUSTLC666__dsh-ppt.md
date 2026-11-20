@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-ppt
 
-⭐ 41 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/STARDUSTLC666/dsh-ppt) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 42 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/STARDUSTLC666/dsh-ppt) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的演示文稿生成与编辑插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "STARDUSTLC666/dsh-ppt 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 37 --> 42
-    line [38, 41]
+    title "STARDUSTLC666/dsh-ppt 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 37 --> 43
+    line [38, 41, 42]
 ```
 
-2026-11-18 38 → 2026-11-19 41（+3）
+2026-11-18 38 → 2026-11-20 42（+4）
 
 
 ---

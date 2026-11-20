@@ -1,6 +1,6 @@
 # KeyID-AI/agent-kit
 
-⭐ 663 · JavaScript · 推送 2026-03-13 · [GitHub](https://github.com/KeyID-AI/agent-kit) · [官网](https://keyid.ai) · 组织维护
+⭐ 653 · JavaScript · 推送 2026-03-13 · [GitHub](https://github.com/KeyID-AI/agent-kit) · [官网](https://keyid.ai) · 组织维护
 
 **给 Claude/Cursor 等 MCP 客户端接入真实邮箱的 27 个工具服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KeyID-AI/agent-kit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 659 --> 664
-    line [660, 661, 660, 661, 662, 663, 663]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 652 --> 664
+    line [660, 661, 660, 661, 662, 663, 653]
 ```
 
-2026-10-18 660 → 2026-11-19 663（+3）
+2026-10-18 660 → 2026-11-20 653（-7）
 
 
 ---

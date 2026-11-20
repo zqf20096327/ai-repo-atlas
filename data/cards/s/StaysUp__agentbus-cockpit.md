@@ -1,6 +1,6 @@
 # StaysUp/agentbus-cockpit
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/StaysUp/agentbus-cockpit) · [官网](https://agentbus.art) · 个人维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/StaysUp/agentbus-cockpit) · [官网](https://agentbus.art) · 个人维护
 
 **AgentBus 的自托管浏览器驾驶舱：查看会话、轮次与模型调用成本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "StaysUp/agentbus-cockpit 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-20"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-11-10 18 → 2026-11-19 19（+1）
+2026-11-10 18 → 2026-11-20 19（+1）
 
 
 ---

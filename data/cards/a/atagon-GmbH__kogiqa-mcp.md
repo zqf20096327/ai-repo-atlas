@@ -1,6 +1,6 @@
 # atagon-GmbH/kogiqa-mcp
 
-⭐ 88 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/atagon-GmbH/kogiqa-mcp) · [官网](https://www.npmjs.com/package/kogiqa-mcp) · 组织维护
+⭐ 87 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/atagon-GmbH/kogiqa-mcp) · [官网](https://www.npmjs.com/package/kogiqa-mcp) · 组织维护
 
 **供 LLM agent 使用的无选择器浏览器自动化 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "atagon-GmbH/kogiqa-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 87 --> 97
-    line [96, 93, 91, 88, 88]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 86 --> 97
+    line [96, 93, 91, 88, 87]
 ```
 
-2026-10-18 96 → 2026-11-19 88（-8）
+2026-10-18 96 → 2026-11-20 87（-9）
 
 
 ---

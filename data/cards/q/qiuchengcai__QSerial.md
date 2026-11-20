@@ -1,6 +1,6 @@
 # qiuchengcai/QSerial
 
-⭐ 20 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/qiuchengcai/QSerial) · [官网](https://qserial.echomcp.cn) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/qiuchengcai/QSerial) · [官网](https://qserial.echomcp.cn) · 个人维护 · 中文 README
 
 **带内置 MCP 服务器的跨平台串口/SSH/Telnet 终端工具，供 AI agent 操控设备**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qiuchengcai/QSerial 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 18, 19, 20]
+    title "qiuchengcai/QSerial 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 18, 19, 20, 21]
 ```
 
-2026-10-18 16 → 2026-11-19 20（+4）
+2026-10-18 16 → 2026-11-20 21（+5）
 
 
 ---

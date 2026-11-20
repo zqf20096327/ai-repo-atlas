@@ -1,6 +1,6 @@
 # aartiq/nowaikit
 
-⭐ 18 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/aartiq/nowaikit) · [官网](https://nowaikit.com) · 组织维护
+⭐ 18 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/aartiq/nowaikit) · [官网](https://nowaikit.com) · 组织维护
 
 **连接 AI 客户端与 ServiceNow 的 MCP 服务器（500+ 工具）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aartiq/nowaikit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-19 18（+1）
+2026-10-18 17 → 2026-11-20 18（+1）
 
 
 ---

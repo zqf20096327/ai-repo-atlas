@@ -1,6 +1,6 @@
 # winci-ai/resa
 
-⭐ 27 · Python · Apache-2.0 · 推送 2025-11-23 · [GitHub](https://github.com/winci-ai/resa) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ICML 2025 论文 ReSA 正反馈自监督学习方法的官方实现**
 
@@ -11,7 +11,7 @@ ICML 2025 论文 ReSA 的官方代码实现：一种正反馈自监督学习框�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

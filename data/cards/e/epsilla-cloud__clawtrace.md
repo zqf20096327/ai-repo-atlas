@@ -1,6 +1,6 @@
 # epsilla-cloud/clawtrace
 
-⭐ 47 · TypeScript · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/epsilla-cloud/clawtrace) · [官网](https://www.clawtrace.ai/) · 组织维护
+⭐ 48 · TypeScript · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/epsilla-cloud/clawtrace) · [官网](https://www.clawtrace.ai/) · 组织维护
 
 **OpenClaw agent 的成本感知追踪与技能蒸馏平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "epsilla-cloud/clawtrace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-11-19 47（+0）
+2026-10-18 47 → 2026-11-20 48（+1）
 
 
 ---

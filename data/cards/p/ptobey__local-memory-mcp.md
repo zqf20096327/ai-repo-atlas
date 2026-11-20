@@ -46,12 +46,12 @@ local-memory-mcp 是一个本地 MCP 服务器，通过 ChromaDB 向量检索为
 ```mermaid
 xychart-beta
     title "ptobey/local-memory-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

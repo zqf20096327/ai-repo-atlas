@@ -1,6 +1,6 @@
 # slmonker/ComfyUI-OpenH3Regenerate2KIC
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/slmonker/ComfyUI-OpenH3Regenerate2KIC) · [官网](https://huggingface.co/slmonker/Open-H3-Regenerate-2K-IC-ComfyUI) · 个人维护 · 中文 README
+⭐ 53 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/slmonker/ComfyUI-OpenH3Regenerate2KIC) · [官网](https://huggingface.co/slmonker/Open-H3-Regenerate-2K-IC-ComfyUI) · 个人维护 · 中文 README
 
 **在 ComfyUI 中运行 Open-H3-Regenerate-2K 视频精修的节点与工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "slmonker/ComfyUI-OpenH3Regenerate2KIC 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 40 --> 53
-    line [41, 42, 48, 49, 50, 51, 52]
+    title "slmonker/ComfyUI-OpenH3Regenerate2KIC 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 40 --> 54
+    line [41, 42, 48, 49, 50, 51, 52, 53]
 ```
 
-2026-11-10 41 → 2026-11-19 52（+11）
+2026-11-10 41 → 2026-11-20 53（+12）
 
 
 ---

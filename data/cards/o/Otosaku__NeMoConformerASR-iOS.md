@@ -1,6 +1,6 @@
 # Otosaku/NeMoConformerASR-iOS
 
-⭐ 16 · Swift · 推送 2026-06-04 · [GitHub](https://github.com/Otosaku/NeMoConformerASR-iOS) · 个人维护
+⭐ 13 · Swift · 推送 2026-06-04 · [GitHub](https://github.com/Otosaku/NeMoConformerASR-iOS) · 个人维护
 
 **iOS/macOS 端侧语音转文字 Swift 库（NeMo Conformer CTC）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Otosaku/NeMoConformerASR-iOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 15 --> 20
-    line [19, 16, 16]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 12 --> 20
+    line [19, 16, 13]
 ```
 
-2026-10-18 19 → 2026-11-19 16（-3）
+2026-10-18 19 → 2026-11-20 13（-6）
 
 
 ---

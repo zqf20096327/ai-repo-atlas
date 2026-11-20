@@ -1,6 +1,6 @@
 # hamedghaderi/review
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hamedghaderi/review) · [官网](https://review-code.dev/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hamedghaderi/review) · [官网](https://review-code.dev/) · 个人维护
 
 **本地桌面代码审查工具：审 Git 分支与 GitHub PR，可选 AI 审查**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hamedghaderi/review 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

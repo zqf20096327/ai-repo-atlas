@@ -1,6 +1,6 @@
 # Maru-Yasa/tayang-studio
 
-⭐ 63 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/Maru-Yasa/tayang-studio) · [官网](https://studio.tayang.app) · 个人维护
+⭐ 65 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/Maru-Yasa/tayang-studio) · [官网](https://studio.tayang.app) · 个人维护
 
 **帮创作者用自有 AI agent 自动制作动态视频的桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Maru-Yasa/tayang-studio 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 19 --> 67
-    line [23, 31, 37, 41, 47, 51, 58, 59, 63]
+    title "Maru-Yasa/tayang-studio 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 19 --> 69
+    line [23, 31, 37, 41, 47, 51, 58, 59, 63, 65]
 ```
 
-2026-11-10 23 → 2026-11-19 63（+40）
+2026-11-10 23 → 2026-11-20 65（+42）
 
 
 ---

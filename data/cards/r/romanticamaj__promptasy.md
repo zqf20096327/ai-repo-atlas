@@ -1,6 +1,6 @@
 # romanticamaj/promptasy
 
-⭐ 42 · JavaScript · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/romanticamaj/promptasy) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/romanticamaj/promptasy) · 个人维护 · 中文 README
 
 **浏览器游戏：在离线 3D 世界中通过解谜学习提示工程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "romanticamaj/promptasy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 41 --> 44
-    line [43, 42, 43, 42, 42]
+    line [43, 42, 43, 42, 43]
 ```
 
-2026-10-18 43 → 2026-11-19 42（-1）
+2026-10-18 43 → 2026-11-20 43（+0）
 
 
 ---

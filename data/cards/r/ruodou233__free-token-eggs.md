@@ -1,6 +1,6 @@
 # ruodou233/free-token-eggs
 
-⭐ 11 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ruodou233/free-token-eggs) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ruodou233/free-token-eggs) · 个人维护 · 中文 README
 
 **帮开发者筛选并领取值得领的免费 AI 模型额度**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ruodou233/free-token-eggs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

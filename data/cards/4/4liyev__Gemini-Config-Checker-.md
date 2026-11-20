@@ -1,16 +1,16 @@
 # 4liyev/Gemini-Config-Checker-
 
-⭐ 62 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/4liyev/Gemini-Config-Checker-) · 个人维护
+⭐ 57 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/4liyev/Gemini-Config-Checker-) · 个人维护
 
-**给需要访问 Google AI Studio 与 Gemini 的用户：检测代理配置能否过区域限制**
+**为需要访问 Google AI Studio/Gemini 的用户检测可用代理配置**
 
-桌面/Web/Android 应用，通过已登录浏览器逐一测试代理配置（vless/vmess/trojan/ss 链接、订阅 URL 或 base64）能否进入 AI Studio 与 Gemini，读取 Google 对登录账号展示的区域判定，而非仅做连通性探测。提供 Simple（检测自有配置）与 Advanced（把免费配置链接到可用基础配置后链式测试）两种模式，内置可编辑的 anti-DPI（fragment/fingerprint/ALPN/cipher）配置，输出健康状态、区域封锁详情与延迟，支持导出链接、base64 与 Xray 配置。应用内嵌 Xray-core 引擎。仅 Windows 经过实测，macOS/Linux/Android 构建未经真机验证。
+桌面/Web 应用，通过真实登录浏览器的路径逐一测试代理配置能否进入 AI Studio 与 Gemini，输出每个配置的区域可用性与延迟。提供 Simple/Advanced 两种模式：前者直接批量测试用户已有配置，后者将免费配置串联到基础配置之后测试其他出口。内置 anti-DPI 配置（fragment 分片、指纹、ALPN、加密套件）与本地分片转发器，导出支持链接、base64 与 Xray 配置。区域检查依赖 Chrome/Edge/Brave，Android 仅支持连通性模式。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 以登录浏览器读取 Google 区域判定，而非仅 HTTP 连通性探测
-- Simple/Advanced 两种模式，Advanced 支持免费配置链式到基础配置
-- 可编辑的 anti-DPI 配置（Finalmask fragment、fingerprint、ALPN、cipher suites）
-- 导出链接、base64 或完整/链式 Xray 配置
+- 以登录账号的浏览器路径读取 Google 的真实区域判定（20–40 秒/配置）
+- Simple/Advanced 双模式，支持 base→free 的链式出口测试
+- 可编辑的 anti-DPI 配置与本地 fragment 分片转发器
+- 多平台分发：Windows/macOS/Linux 桌面与 Web server 构建、Android APK
 
 ## 适用场景
 
-- 批量检测手头的代理配置哪些能进入 AI Studio 与 Gemini
-- Cloudflare 配置连通但出口被 Google 封锁时，寻找可用出口
-- 依赖代理访问 Gemini 前先验证配置可用性
+- 批量检测手中的代理配置哪些能进 AI Studio/Gemini
+- Cloudflare 配置能连通但出口被 Google 拦时寻找替代出口
+- 依赖某配置前先验证其真实可用性
 
 ## 场景标签
 
- · 领域:网络工具/代理检测
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L9: # Gemini Config Checker
 > L11: Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person
-> L14: > **Version 0.1.0, early pre-release.** It works end to end on Windows (the only platform it has been run on so far
+> L64: |Platform|Desktop app (native window)|Web server (UI in your browser)|Region check|
+> L155: |Check type|Region with signed-in browser|**Region**: opens AI Studio and Gemini and reads Google's verdict (accur
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "4liyev/Gemini-Config-Checker- 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-11-18", "2026-11-20"]
+    y-axis "stars" 56 --> 63
+    line [62, 57]
 ```
 
-2026-11-18 62 → 2026-11-19 62（+0）
+2026-11-18 62 → 2026-11-20 57（-5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `7119c240ac42` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `08aa4405fbe0` · [字段定义](../../DATASET.md)*

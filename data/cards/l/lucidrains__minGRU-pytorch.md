@@ -1,6 +1,6 @@
 # lucidrains/minGRU-pytorch
 
-⭐ 328 · Python · MIT · 推送 2025-12-10 · [GitHub](https://github.com/lucidrains/minGRU-pytorch) · 个人维护
+⭐ 329 · Python · MIT · 推送 2025-12-10 · [GitHub](https://github.com/lucidrains/minGRU-pytorch) · 个人维护
 
 **论文 minGRU 的 PyTorch 实现（log-space 数值稳定版）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/minGRU-pytorch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 326 --> 329
-    line [327, 328, 327, 328, 328]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 326 --> 330
+    line [327, 328, 327, 328, 329]
 ```
 
-2026-10-18 327 → 2026-11-19 328（+1）
+2026-10-18 327 → 2026-11-20 329（+2）
 
 
 ---

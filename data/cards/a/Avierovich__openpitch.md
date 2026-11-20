@@ -1,6 +1,6 @@
 # Avierovich/openpitch
 
-⭐ 13 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Avierovich/openpitch) · [官网](https://avierovich.github.io/openpitch/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Avierovich/openpitch) · [官网](https://avierovich.github.io/openpitch/) · 个人维护
 
 **给投资人与 agent 使用的开源 AI 创业公司情报数据源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Avierovich/openpitch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 13]
+    title "Avierovich/openpitch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 13, 14]
 ```
 
-2026-10-18 10 → 2026-11-19 13（+3）
+2026-10-18 10 → 2026-11-20 14（+4）
 
 
 ---

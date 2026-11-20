@@ -1,6 +1,6 @@
 # mhajder/zabbix-mcp
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mhajder/zabbix-mcp) · [官网](https://pypi.org/project/zabbix-mcp/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mhajder/zabbix-mcp) · [官网](https://pypi.org/project/zabbix-mcp/) · 个人维护
 
 **让 AI agent 通过 MCP 查询和管理 Zabbix 监控的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mhajder/zabbix-mcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-19", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-19 10 → 2026-11-19 10（+0）
+2026-10-19 10 → 2026-11-20 11（+1）
 
 
 ---

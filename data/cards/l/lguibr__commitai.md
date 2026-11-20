@@ -46,12 +46,12 @@ Python 编写的命令行工具：运行 commitai 后读取 git diff --staged，
 ```mermaid
 xychart-beta
     title "lguibr/commitai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jim60105/docker-stable-diffusion-webui
 
-⭐ 38 · Dockerfile · AGPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/jim60105/docker-stable-diffusion-webui) · 个人维护 · 中文 README
+⭐ 39 · Dockerfile · AGPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/jim60105/docker-stable-diffusion-webui) · 个人维护 · 中文 README
 
 **Stable Diffusion WebUI 的 Docker 镜像封装：小型化并遵循最佳实践**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jim60105/docker-stable-diffusion-webui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-20"]
     y-axis "stars" 37 --> 40
-    line [38, 39, 38, 38]
+    line [38, 39, 38, 39]
 ```
 
-2026-10-18 38 → 2026-11-19 38（+0）
+2026-10-18 38 → 2026-11-20 39（+1）
 
 
 ---

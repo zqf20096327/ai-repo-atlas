@@ -1,6 +1,6 @@
 # vevenom/pytorchgeonodes
 
-⭐ 54 · Python · NOASSERTION · 推送 2025-11-23 · [GitHub](https://github.com/vevenom/pytorchgeonodes) · [官网](https://vevenom.github.io/pytorchgeonodes/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **将 Blender 几何节点模型转为可微分 PyTorch 代码的 3D 重建库**
 
@@ -11,7 +11,7 @@ PyTorch 库，把 Blender Geometry Nodes 设计的程序化形状模型转译为
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

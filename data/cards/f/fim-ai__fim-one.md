@@ -1,6 +1,6 @@
 # fim-ai/fim-one
 
-⭐ 1,588 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fim-ai/fim-one) · [官网](https://one.fim.ai) · 组织维护 · 中文 README
+⭐ 1,589 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/fim-ai/fim-one) · [官网](https://one.fim.ai) · 组织维护 · 中文 README
 
 **面向全球化与国内系统互联的自托管一体化 Agent 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fim-ai/fim-one 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 1584 --> 1589
-    line [1585, 1586, 1587, 1586, 1588]
+    title "fim-ai/fim-one 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 1584 --> 1590
+    line [1585, 1586, 1587, 1586, 1588, 1589]
 ```
 
-2026-10-18 1,585 → 2026-11-19 1,588（+3）
+2026-10-18 1,585 → 2026-11-20 1,589（+4）
 
 
 ---

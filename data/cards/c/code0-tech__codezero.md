@@ -1,6 +1,6 @@
 # code0-tech/codezero
 
-⭐ 69 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/code0-tech/codezero) · [官网](https://codezero.build) · 组织维护
+⭐ 67 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/code0-tech/codezero) · [官网](https://codezero.build) · 组织维护
 
 **面向团队的开源可视化自动化/无代码后端平台，AI 辅助搭建流程**
 
@@ -46,12 +46,12 @@ CodeZero 提供可视化节点画布构建 flow，用于服务集成、暴露自
 ```mermaid
 xychart-beta
     title "code0-tech/codezero 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
     y-axis "stars" 55 --> 70
-    line [56, 69, 69]
+    line [56, 69, 67]
 ```
 
-2026-10-18 56 → 2026-11-19 69（+13）
+2026-10-18 56 → 2026-11-20 67（+11）
 
 
 ---

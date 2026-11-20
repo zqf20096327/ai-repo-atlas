@@ -1,6 +1,6 @@
 # yashraj-n/tenet
 
-⭐ 12 · TypeScript · ISC · 推送 2026-08-22 · [GitHub](https://github.com/yashraj-n/tenet) · [官网](https://tenet.yashrajn.com) · 个人维护
+⭐ 10 · TypeScript · ISC · 推送 2026-08-22 · [GitHub](https://github.com/yashraj-n/tenet) · [官网](https://tenet.yashrajn.com) · 个人维护
 
 **自动解决 GitHub issue 并审查 PR 的 AI agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yashraj-n/tenet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [12, 10]
 ```
 
-2026-10-18 12 → 2026-11-19 12（+0）
+2026-10-18 12 → 2026-11-20 10（-2）
 
 
 ---

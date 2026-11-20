@@ -1,6 +1,6 @@
 # awkoy/notion-mcp-server
 
-⭐ 181 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/awkoy/notion-mcp-server) · [官网](https://www.npmjs.com/package/notion-mcp-server) · 个人维护
+⭐ 182 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/awkoy/notion-mcp-server) · [官网](https://www.npmjs.com/package/notion-mcp-server) · 个人维护
 
 **MCP 服务器：用单个 Notion token 让各类 AI 客户端读写 Notion**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "awkoy/notion-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 176 --> 182
-    line [177, 178, 179, 180, 181, 181]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 176 --> 183
+    line [177, 178, 179, 180, 181, 182]
 ```
 
-2026-10-18 177 → 2026-11-19 181（+4）
+2026-10-18 177 → 2026-11-20 182（+5）
 
 
 ---

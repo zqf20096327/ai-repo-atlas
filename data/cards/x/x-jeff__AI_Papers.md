@@ -1,6 +1,6 @@
 # x-jeff/AI_Papers
 
-⭐ 40 · 推送 2026-11-11 · [GitHub](https://github.com/x-jeff/AI_Papers) · 个人维护 · 中文 README
+⭐ 40 · 推送 2026-11-19 · [GitHub](https://github.com/x-jeff/AI_Papers) · 个人维护 · 中文 README
 
 **AI 经典论文中英链接清单（104 篇）配博客讲解**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "x-jeff/AI_Papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-19 40（+0）
+2026-10-18 40 → 2026-11-20 40（+0）
 
 
 ---

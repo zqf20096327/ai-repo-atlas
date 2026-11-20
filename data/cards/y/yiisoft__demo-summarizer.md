@@ -1,6 +1,6 @@
 # yiisoft/demo-summarizer
 
-⭐ 10 · PHP · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/yiisoft/demo-summarizer) · 组织维护
+⭐ 10 · PHP · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/yiisoft/demo-summarizer) · 组织维护
 
 **Yii3 文档摘要演示应用：上传文档并生成 LLM 摘要**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yiisoft/demo-summarizer 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-19"]
+    x-axis ["2026-10-28", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-28 10 → 2026-11-19 10（+0）
+2026-10-28 10 → 2026-11-20 10（+0）
 
 
 ---

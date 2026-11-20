@@ -1,6 +1,6 @@
 # jisungk/deepjazz
 
-⭐ 2,894 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/jisungk/deepjazz) · [官网](http://deepjazz.io) · 个人维护
+⭐ 2,893 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/jisungk/deepjazz) · [官网](http://deepjazz.io) · 个人维护
 
 **用 Keras/Theano LSTM 从 MIDI 学习并生成爵士乐的项目**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "jisungk/deepjazz 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 2893 --> 2897
-    line [2895, 2896, 2895, 2894, 2894]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 2892 --> 2897
+    line [2895, 2896, 2895, 2894, 2893]
 ```
 
-2026-10-18 2,895 → 2026-11-19 2,894（-1）
+2026-10-18 2,895 → 2026-11-20 2,893（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # cnighswonger/claude-code-cache-fix
 
-⭐ 450 · JavaScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/cnighswonger/claude-code-cache-fix) · [官网](https://github.com/cnighswonger/claude-code-cache-fix) · 个人维护
+⭐ 451 · JavaScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/cnighswonger/claude-code-cache-fix) · [官网](https://github.com/cnighswonger/claude-code-cache-fix) · 个人维护
 
 **Claude Code 提示词缓存修复代理，降低配额消耗**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cnighswonger/claude-code-cache-fix 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    title "cnighswonger/claude-code-cache-fix 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
     y-axis "stars" 441 --> 452
-    line [442, 444, 442, 443, 444, 445, 446, 448, 444, 450, 451, 450]
+    line [442, 444, 442, 443, 444, 445, 446, 448, 444, 450, 451, 450, 451]
 ```
 
-2026-10-18 442 → 2026-11-19 450（+8）
+2026-10-18 442 → 2026-11-20 451（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/FastTrack
 
-⭐ 231 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/FastTrack) · [官网](https://microsoft.github.io/FastTrack/) · 组织维护
+⭐ 231 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/FastTrack) · [官网](https://microsoft.github.io/FastTrack/) · 组织维护
 
 **微软 FastTrack 的 M365 Copilot 部署指南、代理与脚本资源库**
 
@@ -46,12 +46,12 @@ Microsoft FastTrack 团队开源的资源目录仓库，收录规划指南、决
 ```mermaid
 xychart-beta
     title "microsoft/FastTrack 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-11", "2026-11-20"]
     y-axis "stars" 229 --> 233
     line [230, 232, 231, 231]
 ```
 
-2026-10-30 230 → 2026-11-19 231（+1）
+2026-10-30 230 → 2026-11-20 231（+1）
 
 
 ---

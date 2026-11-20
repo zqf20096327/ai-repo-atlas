@@ -1,6 +1,6 @@
 # Edutzuu2001/ai--manus
 
-⭐ 182 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Edutzuu2001/ai--manus) · 个人维护
+⭐ 181 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Edutzuu2001/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI Agent，代跑代码并操控浏览器**
 
@@ -45,12 +45,12 @@ README 描述的 Manus 是一个自主运行的 AI agent：用户以指令委托
 ```mermaid
 xychart-beta
     title "Edutzuu2001/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 109 --> 267
-    line [122, 254, 182, 182]
+    line [122, 254, 182, 181]
 ```
 
-2026-11-13 122 → 2026-11-19 182（+60）
+2026-11-13 122 → 2026-11-20 181（+59）
 
 
 ---

@@ -1,6 +1,6 @@
 # Martossien/transcria
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/Martossien/transcria) · 个人维护
+⭐ 48 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/Martossien/transcria) · 个人维护
 
 **自托管会议转录门户：GPU 上产出校正稿、纪要与 Word 会议记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Martossien/transcria 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-11-19 47（+0）
+2026-10-18 47 → 2026-11-20 48（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # KenKaiii/brah
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/KenKaiii/brah) · [官网](https://www.kenkais.com) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/KenKaiii/brah) · [官网](https://www.kenkais.com) · 个人维护
 
 **实时桌面语音助手：看屏幕、控电脑、免手动完成任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KenKaiii/brah 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

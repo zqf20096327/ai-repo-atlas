@@ -1,6 +1,6 @@
 # wgt19861219/godot-mcp-enhanced
 
-⭐ 104 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/wgt19861219/godot-mcp-enhanced) · [官网](https://godotengine.org/asset-library/asset?user=wgt19861219) · 个人维护 · 中文 README
+⭐ 105 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/wgt19861219/godot-mcp-enhanced) · [官网](https://godotengine.org/asset-library/asset?user=wgt19861219) · 个人维护 · 中文 README
 
 **面向 AI 客户端的 Godot 4.5-4.7 MCP 工具服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wgt19861219/godot-mcp-enhanced 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 99 --> 105
-    line [100, 101, 102, 103, 104, 104]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 99 --> 106
+    line [100, 101, 102, 103, 104, 105]
 ```
 
-2026-10-18 100 → 2026-11-19 104（+4）
+2026-10-18 100 → 2026-11-20 105（+5）
 
 
 ---

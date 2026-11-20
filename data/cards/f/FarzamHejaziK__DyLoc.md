@@ -46,12 +46,12 @@ IEEE INFOCOM 2021 论文 DyLoc 的配套代码仓库：用 MATLAB 生成基于 D
 ```mermaid
 xychart-beta
     title "FarzamHejaziK/DyLoc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

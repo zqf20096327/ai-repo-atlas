@@ -46,12 +46,12 @@ ICLR 2026 论文 CAT-LVDM 的参考代码：通过嵌入级（BCNI/SACN/Gaussian
 ```mermaid
 xychart-beta
     title "chikap421/catlvdm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # uber/petastorm
 
-⭐ 1,895 · Python · Apache-2.0 · 推送 2026-01-02 · [GitHub](https://github.com/uber/petastorm) · 组织维护
+⭐ 1,894 · Python · Apache-2.0 · 推送 2026-01-02 · [GitHub](https://github.com/uber/petastorm) · 组织维护
 
 **供深度学习训练直接读取 Parquet 数据集的数据访问库**
 
@@ -46,12 +46,12 @@ Uber ATG 开发的开源数据访问库：将 Apache Parquet 格式数据集直�
 ```mermaid
 xychart-beta
     title "uber/petastorm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 1894 --> 1896
-    line [1895, 1895]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 1893 --> 1896
+    line [1895, 1894]
 ```
 
-2026-10-18 1,895 → 2026-11-19 1,895（+0）
+2026-10-18 1,895 → 2026-11-20 1,894（-1）
 
 
 ---

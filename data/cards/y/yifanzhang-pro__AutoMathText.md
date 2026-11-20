@@ -1,6 +1,6 @@
 # yifanzhang-pro/AutoMathText
 
-⭐ 94 · Python · CC-BY-4.0 · 推送 2025-11-23 · [GitHub](https://github.com/yifanzhang-pro/AutoMathText) · [官网](https://auto-data-selection.github.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **约 200GB 数学文本数据集，Qwen-72B 打分筛选**
 
@@ -11,7 +11,7 @@ ACL 2025 Findings 论文 Autonomous Data Selection 的官方实现，同时发�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC-BY-4.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

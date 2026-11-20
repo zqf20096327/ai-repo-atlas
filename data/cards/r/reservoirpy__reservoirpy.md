@@ -1,6 +1,6 @@
 # reservoirpy/reservoirpy
 
-⭐ 664 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/reservoirpy/reservoirpy) · [官网](https://reservoirpy.readthedocs.io/) · 组织维护
+⭐ 663 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/reservoirpy/reservoirpy) · [官网](https://reservoirpy.readthedocs.io/) · 组织维护
 
 **Python 储备计算库：构建回声状态网络做时间序列预测与分类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "reservoirpy/reservoirpy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-10", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-10", "2026-11-12", "2026-11-20"]
     y-axis "stars" 658 --> 665
-    line [659, 660, 662, 663, 664, 664]
+    line [659, 660, 662, 663, 664, 663]
 ```
 
-2026-10-18 659 → 2026-11-19 664（+5）
+2026-10-18 659 → 2026-11-20 663（+4）
 
 
 ---

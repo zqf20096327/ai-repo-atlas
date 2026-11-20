@@ -1,6 +1,6 @@
 # the-protobuf-project/mcp
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/the-protobuf-project/mcp) · 组织维护
+⭐ 12 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/the-protobuf-project/mcp) · 组织维护
 
 **protoc 插件：从 .proto 生成 Go/Rust/C++ 的 MCP 服务器**
 
@@ -40,6 +40,18 @@ spec-first 的 protoc-gen-mcp 插件，读取带 MCP 注解的 .proto 文件，�
 > L3:  One schema, every surface. mcp is a spec-first
 > L23: Annotate your `.proto` files with MCP options and `protoc-gen-mcp` generates a
 > L89: 1. **Annotate** your `.proto` services with MCP options (tools, prompts, resources, elicitation).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "the-protobuf-project/mcp 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-19 12 → 2026-11-20 12（+0）
 
 
 ---

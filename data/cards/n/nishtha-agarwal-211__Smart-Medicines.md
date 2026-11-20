@@ -1,6 +1,6 @@
 # nishtha-agarwal-211/Smart-Medicines
 
-⭐ 14 · JavaScript · 推送 2026-07-25 · [GitHub](https://github.com/nishtha-agarwal-211/Smart-Medicines) · 个人维护
+⭐ 15 · JavaScript · 推送 2026-07-25 · [GitHub](https://github.com/nishtha-agarwal-211/Smart-Medicines) · 个人维护
 
 **面向老年患者的 AI 用药管理助手：处方扫描、相互作用检测与提醒**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nishtha-agarwal-211/Smart-Medicines 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 12 --> 15
-    line [13, 14]
+    title "nishtha-agarwal-211/Smart-Medicines 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-11-18 13 → 2026-11-19 14（+1）
+2026-11-18 13 → 2026-11-20 15（+2）
 
 
 ---

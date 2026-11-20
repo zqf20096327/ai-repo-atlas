@@ -1,6 +1,6 @@
 # sniklaus/sepconv-slomo
 
-⭐ 1,021 · Python · 推送 2026-11-15 · [GitHub](https://github.com/sniklaus/sepconv-slomo) · 个人维护
+⭐ 1,020 · Python · 推送 2026-11-15 · [GitHub](https://github.com/sniklaus/sepconv-slomo) · 个人维护
 
 **自适应可分离卷积视频帧插值的 PyTorch 参考实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sniklaus/sepconv-slomo 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
-    y-axis "stars" 1020 --> 1022
-    line [1021, 1021]
+    x-axis ["2026-11-16", "2026-11-20"]
+    y-axis "stars" 1019 --> 1022
+    line [1021, 1020]
 ```
 
-2026-11-16 1,021 → 2026-11-19 1,021（+0）
+2026-11-16 1,021 → 2026-11-20 1,020（-1）
 
 
 ---

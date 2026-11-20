@@ -1,6 +1,6 @@
 # herdodp/snapgent-connector
 
-⭐ 279 · JavaScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/herdodp/snapgent-connector) · [官网](https://herdodp.github.io/snapgent-connector/) · 个人维护
+⭐ 299 · JavaScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/herdodp/snapgent-connector) · [官网](https://herdodp.github.io/snapgent-connector/) · 个人维护
 
 **让任意 AI 聊天网站直接操作 VS Code 工作区的浏览器扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "herdodp/snapgent-connector 星数(近 13 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 31 --> 301
-    line [53, 62, 66, 70, 74, 83, 85, 88, 107, 153, 188, 254, 279]
+    title "herdodp/snapgent-connector 星数(近 14 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 29 --> 323
+    line [53, 62, 66, 70, 74, 83, 85, 88, 107, 153, 188, 254, 279, 299]
 ```
 
-2026-10-29 53 → 2026-11-19 279（+226）
+2026-10-29 53 → 2026-11-20 299（+246）
 
 
 ---

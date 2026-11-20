@@ -1,6 +1,6 @@
 # Eldergenix/Proofloop
 
-⭐ 39 · TypeScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/Eldergenix/Proofloop) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/Eldergenix/Proofloop) · 个人维护
 
 **驱动 Claude/Codex 结对运行的证明式 agent 循环 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Eldergenix/Proofloop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 38 --> 41
-    line [40, 39, 39]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 35 --> 41
+    line [40, 39, 36]
 ```
 
-2026-10-18 40 → 2026-11-19 39（-1）
+2026-10-18 40 → 2026-11-20 36（-4）
 
 
 ---

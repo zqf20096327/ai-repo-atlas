@@ -1,6 +1,6 @@
 # hamzalafsioui/python_4_all
 
-⭐ 23 · Jupyter Notebook · 推送 2026-10-11 · [GitHub](https://github.com/hamzalafsioui/python_4_all) · 个人维护
+⭐ 23 · Jupyter Notebook · 推送 2026-11-19 · [GitHub](https://github.com/hamzalafsioui/python_4_all) · 个人维护
 
 **从 Python 基础到 AI 工程数学的动手学习课程库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hamzalafsioui/python_4_all 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-19 23（+0）
+2026-10-18 23 → 2026-11-20 23（+0）
 
 
 ---

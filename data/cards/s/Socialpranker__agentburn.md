@@ -1,6 +1,6 @@
 # Socialpranker/agentburn
 
-⭐ 113 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Socialpranker/agentburn) · [官网](https://socialpranker.github.io/agentburn/) · 个人维护
+⭐ 81 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Socialpranker/agentburn) · [官网](https://socialpranker.github.io/agentburn/) · 个人维护
 
 **本地 AI agent 用量剖析器：定位限额窗口与花费去向**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Socialpranker/agentburn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 112 --> 114
-    line [113, 113]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 78 --> 116
+    line [113, 81]
 ```
 
-2026-10-18 113 → 2026-11-19 113（+0）
+2026-10-18 113 → 2026-11-20 81（-32）
 
 
 ---

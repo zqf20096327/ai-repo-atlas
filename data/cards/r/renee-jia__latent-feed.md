@@ -1,6 +1,6 @@
 # renee-jia/latent-feed
 
-⭐ 194 · Python · 推送 2026-03-21 · [GitHub](https://github.com/renee-jia/latent-feed) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **每日 AI 资讯聚合工具：抓取多源内容生成摘要送入 Obsidian 或邮箱**
 

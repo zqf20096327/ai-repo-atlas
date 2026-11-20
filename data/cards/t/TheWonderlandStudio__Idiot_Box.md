@@ -1,6 +1,6 @@
 # TheWonderlandStudio/Idiot_Box
 
-⭐ 14 · JavaScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/TheWonderlandStudio/Idiot_Box) · [官网](https://thewonderlandstudio.github.io/Idiot_Box/) · 组织维护
+⭐ 14 · JavaScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/TheWonderlandStudio/Idiot_Box) · [官网](https://thewonderlandstudio.github.io/Idiot_Box/) · 组织维护
 
 **开源桌面 IDE：编辑、预览、终端与模拟器合一工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheWonderlandStudio/Idiot_Box 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-10", "2026-11-11", "2026-11-19"]
+    title "TheWonderlandStudio/Idiot_Box 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-20"]
     y-axis "stars" 9 --> 15
-    line [10, 12, 13, 14]
+    line [10, 12, 13, 14, 14]
 ```
 
-2026-11-02 10 → 2026-11-19 14（+4）
+2026-11-02 10 → 2026-11-20 14（+4）
 
 
 ---

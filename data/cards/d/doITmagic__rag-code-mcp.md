@@ -1,6 +1,6 @@
 # doITmagic/rag-code-mcp
 
-⭐ 56 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/doITmagic/rag-code-mcp) · [官网](https://doitmagic.github.io/rag-code-mcp/) · 组织维护
+⭐ 56 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/doITmagic/rag-code-mcp) · [官网](https://doitmagic.github.io/rag-code-mcp/) · 组织维护
 
 **本地优先的语义代码导航 MCP 服务器，让 AI IDE 理解整个代码库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "doITmagic/rag-code-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
     y-axis "stars" 54 --> 57
     line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-19 56（+1）
+2026-10-18 55 → 2026-11-20 56（+1）
 
 
 ---

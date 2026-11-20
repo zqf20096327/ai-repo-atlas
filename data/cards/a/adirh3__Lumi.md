@@ -1,6 +1,6 @@
 # adirh3/Lumi
 
-⭐ 30 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/adirh3/Lumi) · [官网](https://letlumi.com) · 个人维护
+⭐ 30 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/adirh3/Lumi) · [官网](https://letlumi.com) · 个人维护
 
 **开源桌面 AI agent 应用，接入自有 AI 账号处理代码、文件与网络任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adirh3/Lumi 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-15", "2026-11-19"]
+    title "adirh3/Lumi 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-20"]
     y-axis "stars" 8 --> 32
-    line [10, 28, 29, 30]
+    line [10, 28, 29, 30, 30]
 ```
 
-2026-11-02 10 → 2026-11-19 30（+20）
+2026-11-02 10 → 2026-11-20 30（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # ejaasaari/lorann
 
-⭐ 52 · C++ · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ejaasaari/lorann) · [官网](http://eliasjaasaari.com/lorann/) · 个人维护
+⭐ 51 · C++ · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ejaasaari/lorann) · [官网](http://eliasjaasaari.com/lorann/) · 个人维护
 
 **基于降秩回归的近似最近邻搜索库（NeurIPS'24）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ejaasaari/lorann 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 50 --> 53
+    line [52, 51]
 ```
 
-2026-10-18 52 → 2026-11-19 52（+0）
+2026-10-18 52 → 2026-11-20 51（-1）
 
 
 ---

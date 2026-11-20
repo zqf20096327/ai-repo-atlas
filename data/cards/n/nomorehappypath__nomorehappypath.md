@@ -1,6 +1,6 @@
 # nomorehappypath/nomorehappypath
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/nomorehappypath/nomorehappypath) · [官网](https://nomorehappypath.com) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/nomorehappypath/nomorehappypath) · [官网](https://nomorehappypath.com) · 个人维护
 
 **用你已有的 AI 订阅运行多 agent 软件交付流水线**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nomorehappypath/nomorehappypath 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 21 --> 27
-    line [22, 25, 26, 26]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 21 --> 30
+    line [22, 25, 26, 29]
 ```
 
-2026-11-15 22 → 2026-11-19 26（+4）
+2026-11-15 22 → 2026-11-20 29（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # vinjivani777/awesome-free-ai
 
-⭐ 11 · 推送 2026-11-18 · [GitHub](https://github.com/vinjivani777/awesome-free-ai) · [官网](https://www.freeairepo.com) · 个人维护 · 中文 README
+⭐ 11 · 推送 2026-11-19 · [GitHub](https://github.com/vinjivani777/awesome-free-ai) · [官网](https://www.freeairepo.com) · 个人维护 · 中文 README
 
 **免费开源自托管 AI 工具策展清单：标注安装难度/商用许可/硬件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vinjivani777/awesome-free-ai 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-14", "2026-11-19"]
+    title "vinjivani777/awesome-free-ai 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-14", "2026-11-19", "2026-11-20"]
     y-axis "stars" 8 --> 12
-    line [9, 10, 11]
+    line [9, 10, 11, 11]
 ```
 
-2026-11-02 9 → 2026-11-19 11（+2）
+2026-11-02 9 → 2026-11-20 11（+2）
 
 
 ---

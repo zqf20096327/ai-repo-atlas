@@ -1,6 +1,6 @@
 # juliensimon/ocel-generator
 
-⭐ 16 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/juliensimon/ocel-generator) · [官网](https://huggingface.co/datasets/juliensimon/open-agent-traces) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/juliensimon/ocel-generator) · [官网](https://huggingface.co/datasets/juliensimon/open-agent-traces) · 个人维护
 
 **生成多智能体工作流 OCEL 2.0 轨迹数据的 Python 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "juliensimon/ocel-generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-11-19 16（+0）
+2026-10-18 16 → 2026-11-20 17（+1）
 
 
 ---

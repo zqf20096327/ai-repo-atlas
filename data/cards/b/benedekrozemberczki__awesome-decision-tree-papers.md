@@ -1,6 +1,6 @@
 # benedekrozemberczki/awesome-decision-tree-papers
 
-⭐ 2,481 · Python · CC0-1.0 · 推送 2025-12-28 · [GitHub](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) · 个人维护
+⭐ 2,480 · Python · CC0-1.0 · 推送 2025-12-28 · [GitHub](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) · 个人维护
 
 **决策/分类/回归树研究论文策展清单，附实现链接**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/awesome-decision-tree-papers 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 2476 --> 2482
-    line [2477, 2478, 2479, 2478, 2480, 2481, 2481]
+    line [2477, 2478, 2479, 2478, 2480, 2481, 2480]
 ```
 
-2026-10-18 2,477 → 2026-11-19 2,481（+4）
+2026-10-18 2,477 → 2026-11-20 2,480（+3）
 
 
 ---

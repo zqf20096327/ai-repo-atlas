@@ -1,6 +1,6 @@
 # Daemoniorum-LLC/haagenti
 
-⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Daemoniorum-LLC/haagenti) · 组织维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Daemoniorum-LLC/haagenti) · 组织维护
 
 **Rust 压缩库：用张量压缩在单消费级 GPU 上跑 70B+ 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Daemoniorum-LLC/haagenti 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-19 23（+0）
+2026-10-18 23 → 2026-11-20 23（+0）
 
 
 ---

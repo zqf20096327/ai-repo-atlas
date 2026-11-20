@@ -1,6 +1,6 @@
 # pagraf/Seabed-Net
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/pagraf/Seabed-Net) · [官网](https://www.magicbathy.eu) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/pagraf/Seabed-Net) · [官网](https://www.magicbathy.eu) · 组织维护
 
 **多任务网络：从浅水遥感影像同时估计水深与海底分类**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pagraf/Seabed-Net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

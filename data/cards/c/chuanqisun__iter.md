@@ -1,6 +1,6 @@
 # chuanqisun/iter
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/chuanqisun/iter) · [官网](https://chuanqisun.github.io/iter/) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/chuanqisun/iter) · [官网](https://chuanqisun.github.io/iter/) · 个人维护
 
 **面向提示词快速迭代的 Gen AI 聊天前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chuanqisun/iter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 17]
 ```
 
-2026-10-18 14 → 2026-11-19 15（+1）
+2026-10-18 14 → 2026-11-20 17（+3）
 
 
 ---

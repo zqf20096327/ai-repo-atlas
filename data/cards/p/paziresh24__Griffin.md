@@ -1,6 +1,6 @@
 # paziresh24/Griffin
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/paziresh24/Griffin) · [官网](https://griffin.paziresh24.com/) · 组织维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/paziresh24/Griffin) · [官网](https://griffin.paziresh24.com/) · 组织维护
 
 **自托管 AI agent 团队平台：定义 agent、工具权限与委托**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "paziresh24/Griffin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 6 --> 11
-    line [7, 8, 10, 10]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 6 --> 12
+    line [7, 8, 10, 11]
 ```
 
-2026-10-18 7 → 2026-11-19 10（+3）
+2026-10-18 7 → 2026-11-20 11（+4）
 
 
 ---

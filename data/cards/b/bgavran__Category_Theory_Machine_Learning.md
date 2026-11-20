@@ -1,6 +1,6 @@
 # bgavran/Category_Theory_Machine_Learning
 
-⭐ 1,558 · Python · 推送 2026-10-02 · [GitHub](https://github.com/bgavran/Category_Theory_Machine_Learning) · 个人维护
+⭐ 1,555 · Python · 推送 2026-10-02 · [GitHub](https://github.com/bgavran/Category_Theory_Machine_Learning) · 个人维护
 
 **范畴论视角研究机器学习的论文清单，按领域分组**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "bgavran/Category_Theory_Machine_Learning 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19"]
+    title "bgavran/Category_Theory_Machine_Learning 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 1549 --> 1559
-    line [1551, 1550, 1551, 1553, 1554, 1556, 1557, 1558]
+    line [1551, 1550, 1551, 1553, 1554, 1556, 1557, 1558, 1555]
 ```
 
-2026-10-18 1,551 → 2026-11-19 1,558（+7）
+2026-10-18 1,551 → 2026-11-20 1,555（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # ParisNeo/lollms
 
-⭐ 105 · Vue · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/ParisNeo/lollms) · [官网](https://lollms.com) · 个人维护
+⭐ 105 · Vue · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/ParisNeo/lollms) · [官网](https://lollms.com) · 个人维护
 
 **多用户 Web 聊天应用：通过 lollms_client 接入多种 LLM 后端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ParisNeo/lollms 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
+    title "ParisNeo/lollms 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 100 --> 107
-    line [101, 102, 103, 104, 102, 106, 105]
+    line [101, 102, 103, 104, 102, 106, 105, 105]
 ```
 
-2026-10-18 101 → 2026-11-19 105（+4）
+2026-10-18 101 → 2026-11-20 105（+4）
 
 
 ---

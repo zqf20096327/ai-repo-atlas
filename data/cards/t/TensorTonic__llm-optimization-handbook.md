@@ -1,6 +1,6 @@
 # TensorTonic/llm-optimization-handbook
 
-⭐ 42 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/TensorTonic/llm-optimization-handbook) · [官网](https://www.tensortonic.com) · 个人维护
+⭐ 76 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/TensorTonic/llm-optimization-handbook) · [官网](https://www.tensortonic.com) · 个人维护
 
 **LLM 推理优化学习路线图：48 主题、7 阶段、配套练习**
 
@@ -39,6 +39,18 @@
 
 > L7: This is a roadmap for making large language models faster, cheaper and smaller to run. It covers 48 topics across se
 > L9: Every topic links to a short explanation and to practice problems where you implement the idea in Python, CUDA or Tr
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TensorTonic/llm-optimization-handbook 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 39 --> 79
+    line [42, 76]
+```
+
+2026-11-19 42 → 2026-11-20 76（+34）
 
 
 ---

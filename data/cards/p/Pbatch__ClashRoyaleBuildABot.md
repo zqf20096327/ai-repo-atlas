@@ -1,6 +1,6 @@
 # Pbatch/ClashRoyaleBuildABot
 
-⭐ 387 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Pbatch/ClashRoyaleBuildABot) · 组织维护
+⭐ 388 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Pbatch/ClashRoyaleBuildABot) · 组织维护
 
 **用计算机视觉生成游戏状态、创建 Clash Royale 游戏机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pbatch/ClashRoyaleBuildABot 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 372 --> 388
-    line [373, 375, 376, 375, 381, 382, 383, 387]
+    title "Pbatch/ClashRoyaleBuildABot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 372 --> 389
+    line [373, 375, 376, 375, 381, 382, 383, 387, 388]
 ```
 
-2026-10-18 373 → 2026-11-19 387（+14）
+2026-10-18 373 → 2026-11-20 388（+15）
 
 
 ---

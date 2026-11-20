@@ -46,12 +46,12 @@ LangStar 是一个可视化 no-code/low-code 平台，用户通过拖拽节点�
 ```mermaid
 xychart-beta
     title "SurvivorsStudio/langstar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

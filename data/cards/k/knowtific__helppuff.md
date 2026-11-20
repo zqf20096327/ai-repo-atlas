@@ -1,6 +1,6 @@
 # knowtific/helppuff
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/knowtific/helppuff) · [官网](https://knowtific.github.io/helppuff/) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/knowtific/helppuff) · [官网](https://knowtific.github.io/helppuff/) · 组织维护
 
 **部署在自有 Cloudflare 账号上的网站 AI 聊天助手与 CRM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "knowtific/helppuff 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 7 --> 16
-    line [8, 15, 15]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 7 --> 17
+    line [8, 15, 16]
 ```
 
-2026-11-02 8 → 2026-11-19 15（+7）
+2026-11-02 8 → 2026-11-20 16（+8）
 
 
 ---

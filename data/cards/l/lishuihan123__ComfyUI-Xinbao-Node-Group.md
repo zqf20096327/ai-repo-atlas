@@ -1,6 +1,6 @@
 # lishuihan123/ComfyUI-Xinbao-Node-Group
 
-⭐ 11 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lishuihan123/ComfyUI-Xinbao-Node-Group) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lishuihan123/ComfyUI-Xinbao-Node-Group) · 个人维护 · 中文 README
 
 **为 ComfyUI 用户提供图片标准化、构图与提示词组合的节点集合**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lishuihan123/ComfyUI-Xinbao-Node-Group 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-16", "2026-11-19"]
+    title "lishuihan123/ComfyUI-Xinbao-Node-Group 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 6 --> 12
-    line [7, 8, 9, 10, 11]
+    line [7, 8, 9, 10, 11, 11]
 ```
 
-2026-10-18 7 → 2026-11-19 11（+4）
+2026-10-18 7 → 2026-11-20 11（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/cadgenbench
 
-⭐ 156 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/cadgenbench) · [官网](https://huggingface.co/spaces/HuggingAI4Engineering/cadgenbench-leaderboard) · 组织维护
+⭐ 157 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/cadgenbench) · [官网](https://huggingface.co/spaces/HuggingAI4Engineering/cadgenbench-leaderboard) · 组织维护
 
 **评测 AI 生成与编辑 CAD 机械零件能力的基准**
 
@@ -45,12 +45,12 @@ HuggingFace 维护的 CAD 生成基准：包含从工程图生成几何正确的
 ```mermaid
 xychart-beta
     title "huggingface/cadgenbench 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 140 --> 157
-    line [141, 143, 144, 145, 146, 147, 149, 146, 152, 153, 154, 155, 156, 156]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 140 --> 158
+    line [141, 143, 144, 145, 146, 147, 149, 146, 152, 153, 154, 155, 156, 157]
 ```
 
-2026-10-18 141 → 2026-11-19 156（+15）
+2026-10-18 141 → 2026-11-20 157（+16）
 
 
 ---

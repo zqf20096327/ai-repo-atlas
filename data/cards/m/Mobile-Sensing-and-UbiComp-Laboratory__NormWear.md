@@ -1,6 +1,6 @@
 # Mobile-Sensing-and-UbiComp-Laboratory/NormWear
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear) · 组织维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear) · 组织维护
 
 **面向可穿戴生理信号的基础模型，支持下游评估与零样本推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mobile-Sensing-and-UbiComp-Laboratory/NormWear 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 72]
 ```
 
-2026-10-18 70 → 2026-11-19 71（+1）
+2026-10-18 70 → 2026-11-20 72（+2）
 
 
 ---

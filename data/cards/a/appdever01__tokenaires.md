@@ -1,6 +1,6 @@
 # appdever01/tokenaires
 
-⭐ 36 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/appdever01/tokenaires) · [官网](https://tokenaires.cc) · 个人维护
+⭐ 37 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/appdever01/tokenaires) · [官网](https://tokenaires.cc) · 个人维护
 
 **按 AI token 消耗量给开发者排名的 CLI 与榜单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "appdever01/tokenaires 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 34 --> 38
+    line [35, 36, 37]
 ```
 
-2026-11-13 35 → 2026-11-19 36（+1）
+2026-11-13 35 → 2026-11-20 37（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # praxhna/Markerless_Motion_Pose_Face_detection_tracking_and_3D_reconstruction
 
-⭐ 43 · 推送 2025-11-23 · [GitHub](https://github.com/praxhna/Markerless_Motion_Pose_Face_detection_tracking_and_3D_reconstruction) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **无标记动作/姿态/人脸检测与3D重建项目，README 为学习资源清单**
 

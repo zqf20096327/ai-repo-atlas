@@ -1,6 +1,6 @@
 # sanidhyy/imaginify
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/sanidhyy/imaginify) · [官网](https://ai-imaginify.netlify.app/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sanidhyy/imaginify) · [官网](https://ai-imaginify.netlify.app/) · 个人维护
 
 **面向用户的 AI 图像生成 Web 应用（Next.js）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sanidhyy/imaginify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mobile-IoT-Security-Lab/LLMObfuscDetection 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-19"]
+    x-axis ["2026-11-12", "2026-11-20"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-11-12 23 → 2026-11-19 23（+0）
+2026-11-12 23 → 2026-11-20 23（+0）
 
 
 ---

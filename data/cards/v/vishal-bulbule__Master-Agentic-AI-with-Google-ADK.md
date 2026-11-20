@@ -44,13 +44,13 @@ Google Agent Development Kit（ADK）的代码示例仓库，含 100+ 个可直�
 
 ```mermaid
 xychart-beta
-    title "vishal-bulbule/Master-Agentic-AI-with-Google-ADK 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19"]
+    title "vishal-bulbule/Master-Agentic-AI-with-Google-ADK 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-20"]
     y-axis "stars" 26 --> 32
-    line [27, 28, 27, 29, 30, 31]
+    line [27, 28, 27, 29, 30, 31, 31]
 ```
 
-2026-10-18 27 → 2026-11-19 31（+4）
+2026-10-18 27 → 2026-11-20 31（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # adn-dan/taxonero
 
-⭐ 29 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/adn-dan/taxonero) · 个人维护
+⭐ 29 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/adn-dan/taxonero) · 个人维护
 
 **自托管照片物种识别工具：接入 Immich 等相册并写回标签**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adn-dan/taxonero 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-20"]
     y-axis "stars" 25 --> 30
     line [26, 27, 28, 29, 29]
 ```
 
-2026-11-08 26 → 2026-11-19 29（+3）
+2026-11-08 26 → 2026-11-20 29（+3）
 
 
 ---

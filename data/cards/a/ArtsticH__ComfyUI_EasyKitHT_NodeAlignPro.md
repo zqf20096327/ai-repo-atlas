@@ -1,6 +1,6 @@
 # ArtsticH/ComfyUI_EasyKitHT_NodeAlignPro
 
-⭐ 67 · JavaScript · GPL-3.0 · 推送 2026-03-05 · [GitHub](https://github.com/ArtsticH/ComfyUI_EasyKitHT_NodeAlignPro) · [官网](https://registry.comfy.org/nodes/easykit-node-align) · 个人维护 · 中文 README
+⭐ 67 · JavaScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ArtsticH/ComfyUI_EasyKitHT_NodeAlignPro) · [官网](https://registry.comfy.org/nodes/easykit-node-align) · 个人维护 · 中文 README
 
 **ComfyUI 节点对齐与上色插件，管理节点布局和配色**
 
@@ -45,12 +45,12 @@ EasyKit-NodeAlign-Pro 是一款 ComfyUI 自定义节点插件，面向使用 Com
 ```mermaid
 xychart-beta
     title "ArtsticH/ComfyUI_EasyKitHT_NodeAlignPro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 65 --> 68
     line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-19 67（+1）
+2026-10-18 66 → 2026-11-20 67（+1）
 
 
 ---

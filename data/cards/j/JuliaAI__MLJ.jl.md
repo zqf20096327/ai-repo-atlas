@@ -1,6 +1,6 @@
 # JuliaAI/MLJ.jl
 
-⭐ 1,948 · Julia · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/JuliaAI/MLJ.jl) · [官网](https://juliaml.ai) · 组织维护
+⭐ 1,947 · Julia · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/JuliaAI/MLJ.jl) · [官网](https://juliaml.ai) · 组织维护
 
 **Julia 机器学习工具箱：统一接口组织 200+ 模型的调参与评估**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuliaAI/MLJ.jl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-19"]
+    title "JuliaAI/MLJ.jl 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-19", "2026-11-20"]
     y-axis "stars" 1944 --> 1950
-    line [1945, 1946, 1948, 1949, 1948]
+    line [1945, 1946, 1948, 1949, 1948, 1947]
 ```
 
-2026-10-18 1,945 → 2026-11-19 1,948（+3）
+2026-10-18 1,945 → 2026-11-20 1,947（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # VincentGranville/Machine-Learning
 
-⭐ 124 · Python · 推送 2026-09-23 · [GitHub](https://github.com/VincentGranville/Machine-Learning) · [官网](https://mltechniques.com/product/intuitive-machine-learning/) · 个人维护
+⭐ 123 · Python · 推送 2026-09-23 · [GitHub](https://github.com/VincentGranville/Machine-Learning) · [官网](https://mltechniques.com/product/intuitive-machine-learning/) · 个人维护
 
 **《Intuitive Machine Learning》书籍配套的 Python 代码与电子表格**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "VincentGranville/Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 123 --> 125
-    line [124, 124]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 122 --> 125
+    line [124, 123]
 ```
 
-2026-10-18 124 → 2026-11-19 124（+0）
+2026-10-18 124 → 2026-11-20 123（-1）
 
 
 ---

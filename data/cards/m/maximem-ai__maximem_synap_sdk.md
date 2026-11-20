@@ -1,6 +1,6 @@
 # maximem-ai/maximem_synap_sdk
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/maximem-ai/maximem_synap_sdk) · [官网](https://www.maximem.ai/synap) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/maximem-ai/maximem_synap_sdk) · [官网](https://www.maximem.ai/synap) · 组织维护
 
 **为生产 AI agent 提供跨会话持久记忆的 SDK 与托管服务**
 
@@ -46,12 +46,12 @@ Synap 是面向生产级 AI agent 的记忆层：开源 Python/JS SDK、24 个�
 ```mermaid
 xychart-beta
     title "maximem-ai/maximem_synap_sdk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20"]
     y-axis "stars" 76 --> 82
     line [77, 79, 80, 81, 81]
 ```
 
-2026-10-18 77 → 2026-11-19 81（+4）
+2026-10-18 77 → 2026-11-20 81（+4）
 
 
 ---

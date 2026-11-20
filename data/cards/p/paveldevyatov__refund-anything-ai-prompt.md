@@ -1,6 +1,6 @@
 # paveldevyatov/refund-anything-ai-prompt
 
-⭐ 103 · MIT · 推送 2026-10-06 · [GitHub](https://github.com/paveldevyatov/refund-anything-ai-prompt) · 个人维护
+⭐ 104 · MIT · 推送 2026-10-06 · [GitHub](https://github.com/paveldevyatov/refund-anything-ai-prompt) · 个人维护
 
 **把 AI 变成个人退款助手的提示词/agent 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "paveldevyatov/refund-anything-ai-prompt 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 94 --> 104
-    line [95, 96, 99, 101, 102, 103, 103]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 94 --> 105
+    line [95, 96, 99, 101, 102, 103, 104]
 ```
 
-2026-10-18 95 → 2026-11-19 103（+8）
+2026-10-18 95 → 2026-11-20 104（+9）
 
 
 ---

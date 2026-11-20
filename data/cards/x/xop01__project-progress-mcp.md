@@ -1,6 +1,6 @@
 # xop01/project-progress-mcp
 
-⭐ 32 · Zig · 推送 2026-10-04 · [GitHub](https://github.com/xop01/project-progress-mcp) · 个人维护
+⭐ 16 · Zig · 推送 2026-10-04 · [GitHub](https://github.com/xop01/project-progress-mcp) · 个人维护
 
 **Zig 编写的 MCP 服务器：让编码 agent 持久化项目进度并检测漂移**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xop01/project-progress-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 28 --> 78
-    line [74, 33, 34, 33, 32, 32]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 11 --> 79
+    line [74, 33, 34, 33, 32, 16]
 ```
 
-2026-10-18 74 → 2026-11-19 32（-42）
+2026-10-18 74 → 2026-11-20 16（-58）
 
 
 ---

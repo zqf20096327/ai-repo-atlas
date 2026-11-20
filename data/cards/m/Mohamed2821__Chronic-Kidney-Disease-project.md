@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Mohamed2821/Chronic-Kidney-Disease-project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-19 20（+0）
+2026-10-18 20 → 2026-11-20 20（+0）
 
 
 ---

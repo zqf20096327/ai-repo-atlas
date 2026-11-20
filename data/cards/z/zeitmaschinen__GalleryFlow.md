@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeitmaschinen/GalleryFlow 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
+    title "zeitmaschinen/GalleryFlow 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 37 --> 40
-    line [38, 39]
+    line [38, 39, 39]
 ```
 
-2026-11-08 38 → 2026-11-19 39（+1）
+2026-11-08 38 → 2026-11-20 39（+1）
 
 
 ---

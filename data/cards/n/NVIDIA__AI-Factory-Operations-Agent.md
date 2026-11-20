@@ -1,6 +1,6 @@
 # NVIDIA/AI-Factory-Operations-Agent
 
-⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/AI-Factory-Operations-Agent) · [官网](https://nvidia.github.io/AI-Factory-Operations-Agent/) · 组织维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/AI-Factory-Operations-Agent) · [官网](https://nvidia.github.io/AI-Factory-Operations-Agent/) · 组织维护
 
 **部署 AI agent 排查集群问题的 NVIDIA 运维蓝图**
 
@@ -45,12 +45,12 @@ NVIDIA 出品的 AI 工厂运维蓝图：基于 NemoClaw 构建可扩展的 agen
 ```mermaid
 xychart-beta
     title "NVIDIA/AI-Factory-Operations-Agent 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 24 --> 44
-    line [25, 28, 29, 28, 37, 38, 41, 43, 43]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 23 --> 47
+    line [25, 28, 29, 28, 37, 38, 41, 43, 45]
 ```
 
-2026-10-18 25 → 2026-11-19 43（+18）
+2026-10-18 25 → 2026-11-20 45（+20）
 
 
 ---

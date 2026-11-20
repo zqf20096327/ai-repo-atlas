@@ -1,6 +1,6 @@
 # TartarusAIDev/awesome-uncensored-ai
 
-⭐ 18 · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/TartarusAIDev/awesome-uncensored-ai) · [官网](https://tartarusai.dev/?utm_source=github&utm_medium=repo-homepage&utm_campaign=awesome-uncensored-ai&utm_content=about) · 组织维护
+⭐ 19 · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/TartarusAIDev/awesome-uncensored-ai) · [官网](https://tartarusai.dev/?utm_source=github&utm_medium=repo-homepage&utm_campaign=awesome-uncensored-ai&utm_content=about) · 组织维护
 
 **无审查、可本地运行的 AI 工具策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TartarusAIDev/awesome-uncensored-ai 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-11-18", "2026-11-20"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-11-18 18 → 2026-11-19 18（+0）
+2026-11-18 18 → 2026-11-20 19（+1）
 
 
 ---

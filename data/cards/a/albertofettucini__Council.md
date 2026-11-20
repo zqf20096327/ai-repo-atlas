@@ -1,6 +1,6 @@
 # albertofettucini/Council
 
-⭐ 117 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/albertofettucini/Council) · 个人维护
+⭐ 117 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/albertofettucini/Council) · 个人维护
 
 **macOS 原生多模型评议应用：多 AI 并行作答、盲评互审并标出分歧**
 
@@ -46,12 +46,12 @@ SwiftUI 编写的 macOS 14+ 原生应用：同一提问并行发给最多三个�
 ```mermaid
 xychart-beta
     title "albertofettucini/Council 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 116 --> 118
     line [117, 117]
 ```
 
-2026-10-18 117 → 2026-11-19 117（+0）
+2026-10-18 117 → 2026-11-20 117（+0）
 
 
 ---

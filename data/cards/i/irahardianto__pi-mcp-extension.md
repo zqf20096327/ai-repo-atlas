@@ -45,12 +45,12 @@ TypeScript 编写的 Model Context Protocol 客户端扩展，供 Pi coding agen
 ```mermaid
 xychart-beta
     title "irahardianto/pi-mcp-extension 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-19 10 → 2026-11-19 11（+1）
+2026-10-19 10 → 2026-11-20 11（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazenix/interview-prep-skills 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-19"]
+    title "Hazenix/interview-prep-skills 星数(近 3 点)"
+    x-axis ["2026-11-13", "2026-11-19", "2026-11-20"]
     y-axis "stars" 242 --> 247
-    line [243, 246]
+    line [243, 246, 246]
 ```
 
-2026-11-13 243 → 2026-11-19 246（+3）
+2026-11-13 243 → 2026-11-20 246（+3）
 
 
 ---

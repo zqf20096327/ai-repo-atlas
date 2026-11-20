@@ -1,6 +1,6 @@
 # VectorInstitute/fed-rag
 
-⭐ 151 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/VectorInstitute/fed-rag) · [官网](https://vectorinstitute.github.io/fed-rag/) · 组织维护
+⭐ 150 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/VectorInstitute/fed-rag) · [官网](https://vectorinstitute.github.io/fed-rag/) · 组织维护
 
 **面向研究者的 RAG 系统微调框架，支持集中式与联邦式架构**
 
@@ -46,12 +46,12 @@ FedRAG 是由 Vector Institute 维护的开源框架，用于在集中式或联�
 ```mermaid
 xychart-beta
     title "VectorInstitute/fed-rag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
     y-axis "stars" 149 --> 152
-    line [150, 151, 151]
+    line [150, 151, 150]
 ```
 
-2026-10-18 150 → 2026-11-19 151（+1）
+2026-10-18 150 → 2026-11-20 150（+0）
 
 
 ---

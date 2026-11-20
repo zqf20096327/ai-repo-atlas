@@ -1,6 +1,6 @@
 # roampal-ai/roampal-core
 
-⭐ 54 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/roampal-ai/roampal-core) · [官网](https://roampal.ai) · 个人维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/roampal-ai/roampal-core) · [官网](https://roampal.ai) · 个人维护
 
 **为 AI 编程助手提供基于结果评分的持久记忆 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "roampal-ai/roampal-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 52 --> 55
+    line [54, 53]
 ```
 
-2026-10-18 54 → 2026-11-19 54（+0）
+2026-10-18 54 → 2026-11-20 53（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # fyrr-ai/fyrr
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/fyrr-ai/fyrr) · [官网](https://fyrr.dev) · 组织维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/fyrr-ai/fyrr) · [官网](https://fyrr.dev) · 组织维护
 
 **给 AI agent 提供权限感知检索的无服务器上下文层**
 
@@ -41,6 +41,18 @@
 > L3:  The serverless, permission-aware context layer for AI agents. No database. Just a bucket.
 > L18: - **Find: works in the AI you already use.** Plug fyrr into Claude, Cursor or
 > L20:  over stdio or Streamable HTTP (MCP tools).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fyrr-ai/fyrr 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
 
 
 ---

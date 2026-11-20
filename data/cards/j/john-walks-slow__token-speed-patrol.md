@@ -1,6 +1,6 @@
 # john-walks-slow/token-speed-patrol
 
-⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/john-walks-slow/token-speed-patrol) · [官网](https://john-walks-slow.github.io/token-speed-patrol/) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/john-walks-slow/token-speed-patrol) · [官网](https://john-walks-slow.github.io/token-speed-patrol/) · 个人维护 · 中文 README
 
 **跑在 GitHub Actions 上的 LLM API 测速巡检与静态看板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "john-walks-slow/token-speed-patrol 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 8 --> 12
     line [9, 11, 9, 11, 11]
 ```
 
-2026-10-18 9 → 2026-11-19 11（+2）
+2026-10-18 9 → 2026-11-20 11（+2）
 
 
 ---

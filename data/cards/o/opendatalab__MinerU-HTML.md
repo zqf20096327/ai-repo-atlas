@@ -1,6 +1,6 @@
 # opendatalab/MinerU-HTML
 
-⭐ 301 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/opendatalab/MinerU-HTML) · [官网](https://opendatalab.com/ai-ready/AICC#playground) · 组织维护 · 中文 README
+⭐ 302 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/opendatalab/MinerU-HTML) · [官网](https://opendatalab.com/ai-ready/AICC#playground) · 组织维护 · 中文 README
 
 **基于 LLM 的 HTML 主体内容抽取工具，输出干净 HTML 正文**
 
@@ -45,12 +45,12 @@ MinerU-HTML(Dripper) 使用基于 Qwen3 微调的 LLM 与状态机引导的 logi
 ```mermaid
 xychart-beta
     title "opendatalab/MinerU-HTML 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
     y-axis "stars" 294 --> 303
-    line [295, 296, 297, 298, 299, 297, 300, 302, 301, 301]
+    line [295, 296, 297, 298, 299, 297, 300, 302, 301, 302]
 ```
 
-2026-10-18 295 → 2026-11-19 301（+6）
+2026-10-18 295 → 2026-11-20 302（+7）
 
 
 ---

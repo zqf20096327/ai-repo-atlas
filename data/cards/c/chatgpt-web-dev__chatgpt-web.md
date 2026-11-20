@@ -1,6 +1,6 @@
 # chatgpt-web-dev/chatgpt-web
 
-⭐ 1,870 · Vue · MIT · 推送 2026-03-04 · [GitHub](https://github.com/chatgpt-web-dev/chatgpt-web) · [官网](https://chatgpt-web.dev) · 组织维护 · 中文 README
+⭐ 1,869 · Vue · MIT · 推送 2026-03-04 · [GitHub](https://github.com/chatgpt-web-dev/chatgpt-web) · [官网](https://chatgpt-web.dev) · 组织维护 · 中文 README
 
 **带用户系统与多后端的第三方 ChatGPT Web 前端**
 
@@ -45,12 +45,12 @@ Fork 自 Chanzhaoyu/chatgpt-web 的 Express + Vue3 对话应用，通过 OpenAI 
 ```mermaid
 xychart-beta
     title "chatgpt-web-dev/chatgpt-web 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-20"]
     y-axis "stars" 1868 --> 1872
-    line [1871, 1869, 1870, 1869, 1870, 1870]
+    line [1871, 1869, 1870, 1869, 1870, 1869]
 ```
 
-2026-10-18 1,871 → 2026-11-19 1,870（-1）
+2026-10-18 1,871 → 2026-11-20 1,869（-2）
 
 
 ---

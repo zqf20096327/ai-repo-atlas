@@ -1,6 +1,6 @@
 # waynesutton/opensync
 
-⭐ 414 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/waynesutton/opensync) · [官网](https://www.opensync.dev/) · 个人维护
+⭐ 413 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/waynesutton/opensync) · [官网](https://www.opensync.dev/) · 个人维护
 
 **面向 AI 编码会话的云同步仪表盘与评测数据集导出工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "waynesutton/opensync 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
     y-axis "stars" 409 --> 416
-    line [410, 412, 413, 412, 414, 415, 414, 414]
+    line [410, 412, 413, 412, 414, 415, 414, 413]
 ```
 
-2026-10-18 410 → 2026-11-19 414（+4）
+2026-10-18 410 → 2026-11-20 413（+3）
 
 
 ---

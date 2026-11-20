@@ -47,12 +47,12 @@ pixelsrc 是一种 JSON5 文本格式及 Rust 编写的编译器（CLI 工具 px
 ```mermaid
 xychart-beta
     title "scbrown/pixelsrc 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-16", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-19 10（+0）
+2026-11-16 10 → 2026-11-20 10（+0）
 
 
 ---

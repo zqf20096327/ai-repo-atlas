@@ -1,6 +1,6 @@
 # rokoss21/iosm-cli
 
-⭐ 143 · TypeScript · MIT · 推送 2026-04-11 · [GitHub](https://github.com/rokoss21/iosm-cli) · [官网](https://www.npmjs.com/package/iosm-cli) · 个人维护
+⭐ 135 · TypeScript · MIT · 推送 2026-04-11 · [GitHub](https://github.com/rokoss21/iosm-cli) · [官网](https://www.npmjs.com/package/iosm-cli) · 个人维护
 
 **面向专业开发者的终端 AI 编码运行时与 IOSM 工程方法论**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rokoss21/iosm-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 142 --> 144
-    line [143, 143]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 134 --> 144
+    line [143, 135]
 ```
 
-2026-10-18 143 → 2026-11-19 143（+0）
+2026-10-18 143 → 2026-11-20 135（-8）
 
 
 ---

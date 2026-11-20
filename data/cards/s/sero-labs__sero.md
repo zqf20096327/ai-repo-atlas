@@ -1,6 +1,6 @@
 # sero-labs/sero
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/sero-labs/sero) · [官网](https://sero-ai.dev/) · 组织维护
+⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/sero-labs/sero) · [官网](https://sero-ai.dev/) · 组织维护
 
 **本地优先的 AI agent 桌面工作区，承载 Pi 编码代理运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sero-labs/sero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 25 --> 29
-    line [26, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 28, 29]
 ```
 
-2026-10-18 26 → 2026-11-19 28（+2）
+2026-10-18 26 → 2026-11-20 29（+3）
 
 
 ---

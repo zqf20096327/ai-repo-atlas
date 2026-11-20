@@ -1,6 +1,6 @@
 # flashserve/RAGPulse
 
-⭐ 43 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/flashserve/RAGPulse) · [官网](https://arxiv.org/abs/2511.12979) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/flashserve/RAGPulse) · [官网](https://arxiv.org/abs/2511.12979) · 组织维护
 
 **真实校园问答服务的 RAG 负载轨迹数据集（3.5 万条）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "flashserve/RAGPulse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 39 --> 44
-    line [40, 41, 43, 43]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 39 --> 46
+    line [40, 41, 43, 45]
 ```
 
-2026-10-18 40 → 2026-11-19 43（+3）
+2026-10-18 40 → 2026-11-20 45（+5）
 
 
 ---

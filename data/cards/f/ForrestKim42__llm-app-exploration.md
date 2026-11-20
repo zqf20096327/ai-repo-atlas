@@ -1,6 +1,6 @@
 # ForrestKim42/llm-app-exploration
 
-⭐ 23 · MIT · 推送 2026-04-08 · [GitHub](https://github.com/ForrestKim42/llm-app-exploration) · 个人维护
+⭐ 24 · MIT · 推送 2026-04-08 · [GitHub](https://github.com/ForrestKim42/llm-app-exploration) · 个人维护
 
 **LLM Agent 系统化探索与操控任意 App 的模式文档（idea file）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ForrestKim42/llm-app-exploration 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 21 --> 24
-    line [23, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 21 --> 25
+    line [23, 22, 23, 24]
 ```
 
-2026-10-18 23 → 2026-11-19 23（+0）
+2026-10-18 23 → 2026-11-20 24（+1）
 
 
 ---

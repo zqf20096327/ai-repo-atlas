@@ -1,6 +1,6 @@
 # rizavelioglu/tryoffdiff
 
-⭐ 150 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/rizavelioglu/tryoffdiff) · [官网](https://rizavelioglu.github.io/tryoffdiff/) · 个人维护
+⭐ 151 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/rizavelioglu/tryoffdiff) · [官网](https://rizavelioglu.github.io/tryoffdiff/) · 个人维护
 
 **从人物照片重建平铺服装图像的扩散模型（Virtual Try-Off）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rizavelioglu/tryoffdiff 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 149 --> 153
-    line [152, 150, 150]
+    line [152, 150, 151]
 ```
 
-2026-10-18 152 → 2026-11-19 150（-2）
+2026-10-18 152 → 2026-11-20 151（-1）
 
 
 ---

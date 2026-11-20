@@ -1,6 +1,6 @@
 # apache/pinot
 
-⭐ 6,177 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/apache/pinot) · [官网](https://pinot.apache.org/) · 组织维护
+⭐ 6,178 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/apache/pinot) · [官网](https://pinot.apache.org/) · 组织维护
 
 **实时分布式 OLAP 数据库，支持低延迟 SQL 与向量检索**
 
@@ -46,12 +46,12 @@ Apache Pinot 是 LinkedIn 与 Uber 工程师构建的实时分布式 OLAP 数据
 ```mermaid
 xychart-beta
     title "apache/pinot 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 6170 --> 6178
-    line [6171, 6175, 6176, 6177, 6177]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 6170 --> 6179
+    line [6171, 6175, 6176, 6177, 6178]
 ```
 
-2026-11-08 6,171 → 2026-11-19 6,177（+6）
+2026-11-08 6,171 → 2026-11-20 6,178（+7）
 
 
 ---

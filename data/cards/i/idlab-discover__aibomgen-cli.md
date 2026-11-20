@@ -1,6 +1,6 @@
 # idlab-discover/aibomgen-cli
 
-⭐ 13 · Go · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/idlab-discover/aibomgen-cli) · [官网](https://pkg.go.dev/github.com/idlab-discover/aibomgen-cli) · 组织维护
+⭐ 13 · Go · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/idlab-discover/aibomgen-cli) · [官网](https://pkg.go.dev/github.com/idlab-discover/aibomgen-cli) · 组织维护
 
 **扫描仓库中 Hugging Face 模型/数据集使用并生成 CycloneDX AIBoM 的 Go CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "idlab-discover/aibomgen-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 14
     line [10, 11, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-19 13（+3）
+2026-10-18 10 → 2026-11-20 13（+3）
 
 
 ---

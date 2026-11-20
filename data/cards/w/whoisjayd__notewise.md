@@ -1,6 +1,6 @@
 # whoisjayd/notewise
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/whoisjayd/notewise) · [官网](https://www.notewise.click/) · 个人维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/whoisjayd/notewise) · [官网](https://www.notewise.click/) · 个人维护
 
 **给学习者的终端工具：把 YouTube 视频转成本地学习笔记**
 
@@ -47,12 +47,12 @@ NoteWise 是命令行工具，输入 YouTube 视频或播放列表 URL，生成�
 ```mermaid
 xychart-beta
     title "whoisjayd/notewise 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

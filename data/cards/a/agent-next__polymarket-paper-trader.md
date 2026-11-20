@@ -1,6 +1,6 @@
 # agent-next/polymarket-paper-trader
 
-⭐ 509 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/agent-next/polymarket-paper-trader) · [官网](https://polymarket-leaderboard.com) · 组织维护
+⭐ 510 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/agent-next/polymarket-paper-trader) · [官网](https://polymarket-leaderboard.com) · 组织维护
 
 **面向 AI agent 的 Polymarket 模拟盘交易环境与评测工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agent-next/polymarket-paper-trader 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19"]
+    title "agent-next/polymarket-paper-trader 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 491 --> 511
-    line [501, 503, 492, 493, 494, 492, 502, 504, 506, 507, 508, 509, 510, 509]
+    line [501, 503, 492, 493, 494, 492, 502, 504, 506, 507, 508, 509, 510, 509, 510]
 ```
 
-2026-10-18 501 → 2026-11-19 509（+8）
+2026-10-18 501 → 2026-11-20 510（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # dl-cv/labelme-ai
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/dl-cv/labelme-ai) · 组织维护 · 中文 README
+⭐ 43 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/dl-cv/labelme-ai) · 组织维护 · 中文 README
 
 **基于 LabelMe 深度重开发的图像标注工具，面向数据集构建**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dl-cv/labelme-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 41 --> 44
     line [42, 43, 42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-19 43（+1）
+2026-10-18 42 → 2026-11-20 43（+1）
 
 
 ---

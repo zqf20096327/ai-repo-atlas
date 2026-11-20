@@ -1,6 +1,6 @@
 # tensorflow/data-validation
 
-⭐ 787 · Python · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/tensorflow/data-validation) · 组织维护
+⭐ 786 · Python · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/tensorflow/data-validation) · 组织维护
 
 **机器学习数据的统计探索与数据校验 Python 库**
 
@@ -46,12 +46,12 @@ TensorFlow Data Validation (TFDV) 是面向机器学习数据管线的探索与�
 ```mermaid
 xychart-beta
     title "tensorflow/data-validation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 785 --> 788
-    line [786, 787, 787]
+    line [786, 787, 786]
 ```
 
-2026-10-18 786 → 2026-11-19 787（+1）
+2026-10-18 786 → 2026-11-20 786（+0）
 
 
 ---

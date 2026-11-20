@@ -1,6 +1,6 @@
 # pirateface/pirateface_cli
 
-⭐ 26 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/pirateface/pirateface_cli) · [官网](https://pirateface.co) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/pirateface/pirateface_cli) · [官网](https://pirateface.co) · 个人维护
 
 **面向 AI 模型的 BitTorrent P2P 下载 CLI 工具**
 
@@ -39,6 +39,18 @@ pirateface_cli 提供 pf 命令行，通过 BitTorrent 从 Pirate Face 种子网
 
 > L3: Downloads HF models over BitTorrent from Pirate Face seeders. Your code stays the same.
 > L17: Anything that downloads through HF (transformers, diffusers, `hf download`) now pulls from the swarm. Every file is
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pirateface/pirateface_cli 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 25 --> 30
+    line [26, 29]
+```
+
+2026-11-19 26 → 2026-11-20 29（+3）
 
 
 ---

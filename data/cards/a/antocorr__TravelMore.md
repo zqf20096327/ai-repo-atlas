@@ -1,6 +1,6 @@
 # antocorr/TravelMore
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/antocorr/TravelMore) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/antocorr/TravelMore) · 个人维护
 
 **本地自托管的 AI 旅行规划器：行程树、地图与机票价格监控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "antocorr/TravelMore 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 8 --> 17
-    line [9, 12, 13, 14, 15, 16, 16]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 8 --> 18
+    line [9, 12, 13, 14, 15, 16, 17]
 ```
 
-2026-11-08 9 → 2026-11-19 16（+7）
+2026-11-08 9 → 2026-11-20 17（+8）
 
 
 ---

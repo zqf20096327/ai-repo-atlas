@@ -1,6 +1,6 @@
 # gabipintea/ha-ai-brain
 
-⭐ 16 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/gabipintea/ha-ai-brain) · [官网](https://github.com/gabipintea/ha-ai-brain) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/gabipintea/ha-ai-brain) · [官网](https://github.com/gabipintea/ha-ai-brain) · 个人维护
 
 **Home Assistant 的自学习自动化大脑：本地习惯挖掘 + 多智能体 LLM 辅助**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gabipintea/ha-ai-brain 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-20"]
     y-axis "stars" 11 --> 17
     line [12, 14, 15, 16, 16]
 ```
 
-2026-11-08 12 → 2026-11-19 16（+4）
+2026-11-08 12 → 2026-11-20 16（+4）
 
 
 ---

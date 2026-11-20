@@ -1,6 +1,6 @@
 # samestrin/llm-newsletter-generator
 
-⭐ 15 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/samestrin/llm-newsletter-generator) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/samestrin/llm-newsletter-generator) · 个人维护
 
 **用 LLM 从 RSS/Atom 源生成带事实核查的 Newsletter**
 
@@ -46,12 +46,12 @@ Python 包：读取 RSS/Atom 订阅源（也可配网页和 Hacker News），用
 ```mermaid
 xychart-beta
     title "samestrin/llm-newsletter-generator 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-20"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-11-02 15 → 2026-11-19 15（+0）
+2026-11-02 15 → 2026-11-20 15（+0）
 
 
 ---

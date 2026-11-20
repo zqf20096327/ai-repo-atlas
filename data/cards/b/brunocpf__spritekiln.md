@@ -1,6 +1,6 @@
 # brunocpf/spritekiln
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/brunocpf/spritekiln) · 个人维护
+⭐ 22 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/brunocpf/spritekiln) · 个人维护
 
 **本地生成 2D 游戏美术的 ComfyUI 节点包与工作流套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brunocpf/spritekiln 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 6 --> 17
-    line [7, 10, 12, 13, 15, 16]
+    title "brunocpf/spritekiln 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 6 --> 23
+    line [7, 10, 12, 13, 15, 16, 22]
 ```
 
-2026-11-08 7 → 2026-11-19 16（+9）
+2026-11-08 7 → 2026-11-20 22（+15）
 
 
 ---

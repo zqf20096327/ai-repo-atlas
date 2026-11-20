@@ -1,6 +1,6 @@
 # di37/animated-machine-learning-algorithm
 
-⭐ 19 · Python · 推送 2026-11-17 · [GitHub](https://github.com/di37/animated-machine-learning-algorithm) · [官网](https://di37.github.io/animated-machine-learning-algorithm/) · 个人维护
+⭐ 28 · Python · 推送 2026-11-17 · [GitHub](https://github.com/di37/animated-machine-learning-algorithm) · [官网](https://di37.github.io/animated-machine-learning-algorithm/) · 个人维护
 
 **面向 ML 学习者：动画展示 scikit-learn 模型真实训练与预测过程的教学视频集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "di37/animated-machine-learning-algorithm 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 7 --> 20
-    line [8, 19]
+    title "di37/animated-machine-learning-algorithm 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 6 --> 30
+    line [8, 19, 28]
 ```
 
-2026-11-18 8 → 2026-11-19 19（+11）
+2026-11-18 8 → 2026-11-20 28（+20）
 
 
 ---

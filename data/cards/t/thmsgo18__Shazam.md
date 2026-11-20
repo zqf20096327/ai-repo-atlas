@@ -1,6 +1,6 @@
 # thmsgo18/Shazam
 
-⭐ 13 · Python · 推送 2026-05-26 · [GitHub](https://github.com/thmsgo18/Shazam) · 个人维护
+⭐ 12 · Python · 推送 2026-05-26 · [GitHub](https://github.com/thmsgo18/Shazam) · 个人维护
 
 **Shazam 式音乐识别系统：FAISS 向量检索+频谱指纹**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thmsgo18/Shazam 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-14", "2026-11-20"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    line [11, 12, 13, 12]
 ```
 
-2026-10-18 11 → 2026-11-19 13（+2）
+2026-10-18 11 → 2026-11-20 12（+1）
 
 
 ---

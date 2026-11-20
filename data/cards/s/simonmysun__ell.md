@@ -1,6 +1,6 @@
 # simonmysun/ell
 
-⭐ 430 · Shell · MIT · 推送 2026-09-26 · [GitHub](https://github.com/simonmysun/ell) · 个人维护
+⭐ 429 · Shell · MIT · 推送 2026-09-26 · [GitHub](https://github.com/simonmysun/ell) · 个人维护
 
 **Bash 编写的 LLM 命令行客户端，在终端提问与对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "simonmysun/ell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 429 --> 431
-    line [430, 430]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 428 --> 431
+    line [430, 429]
 ```
 
-2026-10-18 430 → 2026-11-19 430（+0）
+2026-10-18 430 → 2026-11-20 429（-1）
 
 
 ---

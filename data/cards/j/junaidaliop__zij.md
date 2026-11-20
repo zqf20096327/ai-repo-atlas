@@ -1,6 +1,6 @@
 # junaidaliop/zij
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/junaidaliop/zij) · [官网](https://junaidaliop.github.io/zij/) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/junaidaliop/zij) · [官网](https://junaidaliop.github.io/zij/) · 个人维护
 
 **深度学习优化器合集：740 个方法的目录加 106 个可运行 PyTorch 实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "junaidaliop/zij 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-11-19 23（+1）
+2026-10-18 22 → 2026-11-20 24（+2）
 
 
 ---

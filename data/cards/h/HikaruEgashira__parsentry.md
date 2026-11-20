@@ -1,6 +1,6 @@
 # HikaruEgashira/parsentry
 
-⭐ 48 · Rust · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/HikaruEgashira/parsentry) · [官网](https://hikaruegashira.github.io/parsentry/) · 个人维护
+⭐ 48 · Rust · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/HikaruEgashira/parsentry) · [官网](https://hikaruegashira.github.io/parsentry/) · 个人维护
 
 **为 CLI AI 代理编排安全扫描的工具，生成威胁模型与并行分析提示**
 
@@ -45,12 +45,12 @@ Rust 实现的安全扫描编排器：读取仓库结构与源代码，枚举攻
 ```mermaid
 xychart-beta
     title "HikaruEgashira/parsentry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 46 --> 49
     line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-19 48（+1）
+2026-10-18 47 → 2026-11-20 48（+1）
 
 
 ---

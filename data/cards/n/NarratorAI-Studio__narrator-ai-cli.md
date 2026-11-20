@@ -1,6 +1,6 @@
 # NarratorAI-Studio/narrator-ai-cli
 
-⭐ 148 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/NarratorAI-Studio/narrator-ai-cli) · 组织维护 · 中文 README
+⭐ 147 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/NarratorAI-Studio/narrator-ai-cli) · 组织维护 · 中文 README
 
 **电影解说视频生成平台的 CLI 客户端：一句话生成解说成片**
 
@@ -46,12 +46,12 @@ Narrator AI 平台的命令行客户端：通过自然语言指令或命令调�
 ```mermaid
 xychart-beta
     title "NarratorAI-Studio/narrator-ai-cli 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 140 --> 149
-    line [141, 142, 144, 145, 146, 144, 148, 148]
+    line [141, 142, 144, 145, 146, 144, 148, 147]
 ```
 
-2026-10-18 141 → 2026-11-19 148（+7）
+2026-10-18 141 → 2026-11-20 147（+6）
 
 
 ---

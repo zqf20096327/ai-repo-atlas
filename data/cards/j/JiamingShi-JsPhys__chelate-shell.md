@@ -1,6 +1,6 @@
 # JiamingShi-JsPhys/chelate-shell
 
-⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/JiamingShi-JsPhys/chelate-shell) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/JiamingShi-JsPhys/chelate-shell) · 个人维护 · 中文 README
 
 **把 25 个本地 agent 技能编排为确定性流水线的研究/工程插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JiamingShi-JsPhys/chelate-shell 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-14", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-02 10 → 2026-11-19 11（+1）
+2026-11-02 10 → 2026-11-20 11（+1）
 
 
 ---

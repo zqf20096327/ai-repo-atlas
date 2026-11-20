@@ -1,6 +1,6 @@
 # sanidhyy/meet-ai
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sanidhyy/meet-ai) · [官网](https://app-meetai.vercel.app) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sanidhyy/meet-ai) · [官网](https://app-meetai.vercel.app) · 个人维护
 
 **给需要视频会议与纪要的用户提供 AI 聊天助手与会议摘要应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sanidhyy/meet-ai 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-19"]
+    x-axis ["2026-11-11", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-19 10（+0）
+2026-11-11 10 → 2026-11-20 10（+0）
 
 
 ---

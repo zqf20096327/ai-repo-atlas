@@ -1,6 +1,6 @@
 # LAMDA-NeSy/OpenAgent
 
-⭐ 13 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/LAMDA-NeSy/OpenAgent) · [官网](https://wuwm109.github.io/OpenAgent-Page/) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/LAMDA-NeSy/OpenAgent) · [官网](https://wuwm109.github.io/OpenAgent-Page/) · 组织维护 · 中文 README
 
 **评测工具使用 agent 开放世界泛化能力的沙盒基准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LAMDA-NeSy/OpenAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ProtonLumo/lumo-desktop
 
-⭐ 58 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ProtonLumo/lumo-desktop) · [官网](https://proton.me/blog/lumo-desktop-features) · 组织维护
+⭐ 69 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ProtonLumo/lumo-desktop) · [官网](https://proton.me/blog/lumo-desktop-features) · 组织维护
 
 **Proton 隐私优先 AI 助手 Lumo 的桌面客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ProtonLumo/lumo-desktop 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 27 --> 60
-    line [29, 58]
+    title "ProtonLumo/lumo-desktop 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 25 --> 73
+    line [29, 58, 69]
 ```
 
-2026-11-18 29 → 2026-11-19 58（+29）
+2026-11-18 29 → 2026-11-20 69（+40）
 
 
 ---

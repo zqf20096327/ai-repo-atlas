@@ -1,6 +1,6 @@
 # wuxie888/agent-skill-wannengcopy
 
-⭐ 29 · MIT · 推送 2026-07-11 · [GitHub](https://github.com/wuxie888/agent-skill-wannengcopy) · [官网](https://x.com/sciencedegens) · 个人维护 · 中文 README
+⭐ 23 · MIT · 推送 2026-07-11 · [GitHub](https://github.com/wuxie888/agent-skill-wannengcopy) · [官网](https://x.com/sciencedegens) · 个人维护 · 中文 README
 
 **将参考网站混搭重构为原创产品站点的 agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wuxie888/agent-skill-wannengcopy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 22 --> 30
+    line [29, 23]
 ```
 
-2026-10-18 29 → 2026-11-19 29（+0）
+2026-10-18 29 → 2026-11-20 23（-6）
 
 
 ---

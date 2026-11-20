@@ -1,6 +1,6 @@
 # bloodworks-io/phlox
 
-⭐ 113 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bloodworks-io/phlox) · [官网](https://phlox.bloodworks.io) · 组织维护
+⭐ 114 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bloodworks-io/phlox) · [官网](https://phlox.bloodworks.io) · 组织维护
 
 **面向临床医生的本地优先 AI 医疗速记与患者管理系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bloodworks-io/phlox 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 108 --> 114
-    line [109, 110, 109, 110, 111, 112, 113]
+    title "bloodworks-io/phlox 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 108 --> 115
+    line [109, 110, 109, 110, 111, 112, 113, 114]
 ```
 
-2026-10-18 109 → 2026-11-19 113（+4）
+2026-10-18 109 → 2026-11-20 114（+5）
 
 
 ---

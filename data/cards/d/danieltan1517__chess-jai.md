@@ -1,6 +1,6 @@
 # danieltan1517/chess-jai
 
-⭐ 51 · Jai · 推送 2026-06-19 · [GitHub](https://github.com/danieltan1517/chess-jai) · 个人维护
+⭐ 52 · Jai · 推送 2026-06-19 · [GitHub](https://github.com/danieltan1517/chess-jai) · 个人维护
 
 **Jai 语言编写的国际象棋引擎与图形界面（含 NNUE 评估）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "danieltan1517/chess-jai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 50 --> 53
+    line [51, 52]
 ```
 
-2026-10-18 51 → 2026-11-19 51（+0）
+2026-10-18 51 → 2026-11-20 52（+1）
 
 
 ---

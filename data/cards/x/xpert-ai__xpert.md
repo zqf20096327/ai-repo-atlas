@@ -1,6 +1,6 @@
 # xpert-ai/xpert
 
-⭐ 470 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/xpert-ai/xpert) · [官网](https://xpertai.cn/en/) · 组织维护 · 中文 README
+⭐ 470 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/xpert-ai/xpert) · [官网](https://xpertai.cn/en/) · 组织维护 · 中文 README
 
 **构建与治理 AI Agent 团队的开源平台及桌面端 Bosi**
 
@@ -45,12 +45,12 @@ Xpert 是基于 NestJS 的插件式平台，提供 Agent + Workflow 运行时（
 ```mermaid
 xychart-beta
     title "xpert-ai/xpert 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
     y-axis "stars" 464 --> 471
     line [466, 465, 467, 466, 468, 469, 470, 470]
 ```
 
-2026-10-18 466 → 2026-11-19 470（+4）
+2026-10-18 466 → 2026-11-20 470（+4）
 
 
 ---

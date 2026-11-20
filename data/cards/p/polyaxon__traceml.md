@@ -1,6 +1,6 @@
 # polyaxon/traceml
 
-⭐ 534 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/polyaxon/traceml) · 组织维护
+⭐ 533 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/polyaxon/traceml) · 组织维护
 
 **面向 Polyaxon 的 ML 实验跟踪与数据摘要引擎**
 
@@ -45,12 +45,12 @@ Polyaxon 生态的跟踪与可视化引擎：在 Python 脚本或深度学习框
 ```mermaid
 xychart-beta
     title "polyaxon/traceml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
     y-axis "stars" 532 --> 535
-    line [533, 534, 534]
+    line [533, 534, 533]
 ```
 
-2026-10-18 533 → 2026-11-19 534（+1）
+2026-10-18 533 → 2026-11-20 533（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # alan-turing-institute/CleverCSV
 
-⭐ 1,344 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/alan-turing-institute/CleverCSV) · [官网](https://clevercsv.readthedocs.io) · 组织维护
+⭐ 1,343 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/alan-turing-institute/CleverCSV) · [官网](https://clevercsv.readthedocs.io) · 组织维护
 
 **处理混乱 CSV 的 Python 库：自动检测方言并标准化文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alan-turing-institute/CleverCSV 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-10", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-10", "2026-11-12", "2026-11-20"]
     y-axis "stars" 1340 --> 1345
-    line [1342, 1341, 1342, 1343, 1344, 1344]
+    line [1342, 1341, 1342, 1343, 1344, 1343]
 ```
 
-2026-10-18 1,342 → 2026-11-19 1,344（+2）
+2026-10-18 1,342 → 2026-11-20 1,343（+1）
 
 
 ---

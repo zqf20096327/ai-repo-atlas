@@ -1,6 +1,6 @@
 # liirAliu/Homekit
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/liirAliu/Homekit) · [官网](https://homekit.builders) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/liirAliu/Homekit) · [官网](https://homekit.builders) · 个人维护
 
 **让 AI agent 通过 MCP 直接控制 Apple Home 设备的桥接工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liirAliu/Homekit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 37 --> 40
+    line [39, 38]
 ```
 
-2026-10-18 39 → 2026-11-19 39（+0）
+2026-10-18 39 → 2026-11-20 38（-1）
 
 
 ---

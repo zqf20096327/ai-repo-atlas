@@ -1,6 +1,6 @@
 # Alex8791-cyber/cognithor
 
-⭐ 156 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Alex8791-cyber/cognithor) · [官网](https://cognithor.ai) · 个人维护
+⭐ 157 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Alex8791-cyber/cognithor) · [官网](https://cognithor.ai) · 个人维护
 
 **本地优先的自主 agent 操作系统：私有 AI 助手与自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Alex8791-cyber/cognithor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-20"]
     y-axis "stars" 155 --> 159
-    line [158, 157, 156, 156]
+    line [158, 157, 156, 157]
 ```
 
-2026-10-18 158 → 2026-11-19 156（-2）
+2026-10-18 158 → 2026-11-20 157（-1）
 
 
 ---

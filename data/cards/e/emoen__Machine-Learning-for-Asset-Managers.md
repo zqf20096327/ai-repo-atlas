@@ -1,6 +1,6 @@
 # emoen/Machine-Learning-for-Asset-Managers
 
-⭐ 680 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/emoen/Machine-Learning-for-Asset-Managers) · 个人维护
+⭐ 679 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/emoen/Machine-Learning-for-Asset-Managers) · 个人维护
 
 **《Machine Learning for Asset Managers》一书的代码片段与练习实现**
 
@@ -44,12 +44,12 @@ Python 库，逐章实现 Marcos López de Prado《Machine Learning for Asset Ma
 ```mermaid
 xychart-beta
     title "emoen/Machine-Learning-for-Asset-Managers 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-20"]
     y-axis "stars" 672 --> 681
-    line [673, 674, 676, 678, 679, 680, 680]
+    line [673, 674, 676, 678, 679, 680, 679]
 ```
 
-2026-10-18 673 → 2026-11-19 680（+7）
+2026-10-18 673 → 2026-11-20 679（+6）
 
 
 ---

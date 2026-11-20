@@ -1,6 +1,6 @@
 # ChenLiu-1996/LM-Dispersion
 
-⭐ 129 · Python · NOASSERTION · 推送 2026-06-21 · [GitHub](https://github.com/ChenLiu-1996/LM-Dispersion) · [官网](https://chenliu-1996.github.io/projects/LM-Dispersion/) · 个人维护
+⭐ 130 · Python · NOASSERTION · 推送 2026-06-21 · [GitHub](https://github.com/ChenLiu-1996/LM-Dispersion) · [官网](https://chenliu-1996.github.io/projects/LM-Dispersion/) · 个人维护
 
 **ICML 2026 论文官方代码：embedding 凝聚现象观测与 dispersion loss 训练目标**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChenLiu-1996/LM-Dispersion 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 122 --> 130
-    line [123, 126, 127, 128, 129, 129]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 122 --> 131
+    line [123, 126, 127, 128, 129, 130]
 ```
 
-2026-10-18 123 → 2026-11-19 129（+6）
+2026-10-18 123 → 2026-11-20 130（+7）
 
 
 ---

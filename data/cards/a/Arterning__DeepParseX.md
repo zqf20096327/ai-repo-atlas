@@ -1,6 +1,6 @@
 # Arterning/DeepParseX
 
-⭐ 88 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Arterning/DeepParseX) · [官网](https://dpx-landing.netlify.app/) · 个人维护 · 中文 README
+⭐ 87 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Arterning/DeepParseX) · [官网](https://dpx-landing.netlify.app/) · 个人维护 · 中文 README
 
 **多模态文档解析平台：解析多格式文件并构建 RAG 与知识图谱**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Arterning/DeepParseX 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 86 --> 89
-    line [87, 88, 87, 88, 88]
+    line [87, 88, 87, 88, 87]
 ```
 
-2026-10-18 87 → 2026-11-19 88（+1）
+2026-10-18 87 → 2026-11-20 87（+0）
 
 
 ---

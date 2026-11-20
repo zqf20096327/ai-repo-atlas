@@ -1,6 +1,6 @@
 # AIPMAndy/soskill
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/AIPMAndy/soskill) · 个人维护 · 中文 README
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AIPMAndy/soskill) · 个人维护 · 中文 README
 
 **OpenClaw Skill 搜索与推荐工具：按查询匹配开源 Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIPMAndy/soskill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    title "AIPMAndy/soskill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 11, 12, 13]
+    line [11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-19 13（+2）
+2026-10-18 11 → 2026-11-20 13（+2）
 
 
 ---

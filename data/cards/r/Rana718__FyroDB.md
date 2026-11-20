@@ -1,6 +1,6 @@
 # Rana718/FyroDB
 
-⭐ 77 · Rust · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Rana718/FyroDB) · [官网](https://fyrodb.vercel.app/) · 个人维护
+⭐ 77 · Rust · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Rana718/FyroDB) · [官网](https://fyrodb.vercel.app/) · 个人维护
 
 **Rust 编写的 Redis 兼容内存 KV 存储与 PostgreSQL 查询缓存代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Rana718/FyroDB 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-11-10", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-18", "2026-11-20"]
     y-axis "stars" 74 --> 78
     line [75, 76, 77, 77]
 ```
 
-2026-10-26 75 → 2026-11-19 77（+2）
+2026-10-26 75 → 2026-11-20 77（+2）
 
 
 ---

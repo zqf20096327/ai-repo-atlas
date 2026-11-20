@@ -1,6 +1,6 @@
 # Potarix/agent-hub
 
-⭐ 19 · HTML · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Potarix/agent-hub) · [官网](https://agent-hub.tools) · 个人维护
+⭐ 20 · HTML · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Potarix/agent-hub) · [官网](https://agent-hub.tools) · 个人维护
 
 **macOS 客户端：在一个原生窗口统一使用多个 AI agent CLI**
 
@@ -47,12 +47,12 @@ Electron 构建的 macOS 11+（Apple Silicon）原生应用，将 Claude Code、
 ```mermaid
 xychart-beta
     title "Potarix/agent-hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-19 19（+0）
+2026-10-18 19 → 2026-11-20 20（+1）
 
 
 ---

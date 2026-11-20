@@ -1,6 +1,6 @@
 # jamalkamaladdin/pixelpact
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/jamalkamaladdin/pixelpact) · [官网](https://pixelpact.dev) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/jamalkamaladdin/pixelpact) · [官网](https://pixelpact.dev) · 个人维护
 
 **给编码 agent 的 UI 实现测量工具：对照参考页输出数值偏差**
 
@@ -45,12 +45,12 @@ CLI 与 MCP 服务器组合：用 Playwright 打开参考页，提取每个可�
 ```mermaid
 xychart-beta
     title "jamalkamaladdin/pixelpact 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-19"]
-    y-axis "stars" 15 --> 18
-    line [17, 16, 16]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
+    y-axis "stars" 10 --> 18
+    line [17, 16, 11]
 ```
 
-2026-10-18 17 → 2026-11-19 16（-1）
+2026-10-18 17 → 2026-11-20 11（-6）
 
 
 ---

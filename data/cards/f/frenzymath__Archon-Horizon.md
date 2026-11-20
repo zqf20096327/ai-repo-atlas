@@ -1,6 +1,6 @@
 # frenzymath/Archon-Horizon
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/frenzymath/Archon-Horizon) · [官网](https://frenzymath.github.io/Archon-Horizon/demo/) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/frenzymath/Archon-Horizon) · [官网](https://frenzymath.github.io/Archon-Horizon/demo/) · 组织维护
 
 **协调多 worker 与 agent 的 Lean 4 自动形式化控制平面**
 
@@ -46,12 +46,12 @@ Archon Horizon 面向 Lean 4 形式化项目，提供分布式的控制平面：
 ```mermaid
 xychart-beta
     title "frenzymath/Archon-Horizon 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 34 --> 39
-    line [35, 36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 34 --> 40
+    line [35, 36, 37, 38, 39]
 ```
 
-2026-10-18 35 → 2026-11-19 38（+3）
+2026-10-18 35 → 2026-11-20 39（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # volcengine/volcengine-agent-toolkit
 
-⭐ 34 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/volcengine/volcengine-agent-toolkit) · 组织维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/volcengine/volcengine-agent-toolkit) · 组织维护 · 中文 README
 
 **火山引擎 skill 市场：让 AI coding agent 管理云资源**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "volcengine/volcengine-agent-toolkit 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 21 --> 35
-    line [22, 23, 24, 25, 23, 27, 28, 30, 31, 34, 34]
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 21 --> 37
+    line [22, 23, 24, 25, 23, 27, 28, 30, 31, 34, 36]
 ```
 
-2026-10-22 22 → 2026-11-19 34（+12）
+2026-10-22 22 → 2026-11-20 36（+14）
 
 
 ---

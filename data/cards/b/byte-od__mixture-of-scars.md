@@ -1,6 +1,6 @@
 # byte-od/mixture-of-scars
 
-⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/byte-od/mixture-of-scars) · [官网](https://github.com/byte-od/mixture-of-scars) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/byte-od/mixture-of-scars) · [官网](https://github.com/byte-od/mixture-of-scars) · 个人维护
 
 **面向边缘与科研场景的 LLM 静态压缩与 O(1) KV 缓存库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "byte-od/mixture-of-scars 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-20"]
     y-axis "stars" 4 --> 12
     line [5, 8, 9, 11, 11]
 ```
 
-2026-11-10 5 → 2026-11-19 11（+6）
+2026-11-10 5 → 2026-11-20 11（+6）
 
 
 ---

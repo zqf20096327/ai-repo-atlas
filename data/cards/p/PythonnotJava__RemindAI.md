@@ -1,6 +1,6 @@
 # PythonnotJava/RemindAI
 
-⭐ 130 · Dart · MIT · 推送 2026-11-08 · [GitHub](https://github.com/PythonnotJava/RemindAI) · [官网](https://www.robot-shadow.cn/extend/remindai/) · 个人维护 · 中文 README
+⭐ 141 · Dart · MIT · 推送 2026-11-08 · [GitHub](https://github.com/PythonnotJava/RemindAI) · [官网](https://www.robot-shadow.cn/extend/remindai/) · 个人维护 · 中文 README
 
 **桌面 AI 助手：让大模型直接操作文件、执行代码、管理记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PythonnotJava/RemindAI 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 3 --> 141
-    line [14, 15, 16, 14, 28, 48, 82, 114, 126, 130, 130]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 2 --> 153
+    line [14, 15, 16, 14, 28, 48, 82, 114, 126, 130, 141]
 ```
 
-2026-10-18 14 → 2026-11-19 130（+116）
+2026-10-18 14 → 2026-11-20 141（+127）
 
 
 ---

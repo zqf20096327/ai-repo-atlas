@@ -1,6 +1,6 @@
 # EvolvingLMMs-Lab/LLaVA-OneVision-2.5
 
-⭐ 1,237 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2.5) · 组织维护 · 中文 README
+⭐ 1,239 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2.5) · 组织维护 · 中文 README
 
 **全开源多模态模型训练框架与 LLaVA-OneVision 系列模型发布**
 
@@ -39,6 +39,18 @@ LLaVA-OneVision 家族的完整开源发布仓库：包含 2.5-4B（支持单图
 
 > L23: **LLaVA-OneVision-2.5** is the latest release of the family. LLaVA-OneVision-2.5-4B-Instruct is a 4B model for sing
 > L48: And unlike most "open" releases, *everything* ships alongside them: encoder weights, training code, configs, and fu
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EvolvingLMMs-Lab/LLaVA-OneVision-2.5 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 1236 --> 1240
+    line [1237, 1239]
+```
+
+2026-11-19 1,237 → 2026-11-20 1,239（+2）
 
 
 ---

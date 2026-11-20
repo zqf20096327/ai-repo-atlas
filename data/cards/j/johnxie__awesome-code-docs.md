@@ -1,6 +1,6 @@
 # johnxie/awesome-code-docs
 
-⭐ 68 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/johnxie/awesome-code-docs) · [官网](https://github.com/johnxie/awesome-code-docs#-tutorial-catalog) · 个人维护
+⭐ 66 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/johnxie/awesome-code-docs) · [官网](https://github.com/johnxie/awesome-code-docs#-tutorial-catalog) · 个人维护
 
 **203 篇 AI agent 与开发工具深度教程的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "johnxie/awesome-code-docs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-19"]
+    title "johnxie/awesome-code-docs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-20"]
     y-axis "stars" 64 --> 69
-    line [65, 66, 67, 66, 67, 68]
+    line [65, 66, 67, 66, 67, 68, 66]
 ```
 
-2026-10-18 65 → 2026-11-19 68（+3）
+2026-10-18 65 → 2026-11-20 66（+1）
 
 
 ---

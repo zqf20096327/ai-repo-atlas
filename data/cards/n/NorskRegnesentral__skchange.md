@@ -1,6 +1,6 @@
 # NorskRegnesentral/skchange
 
-⭐ 44 · Python · BSD-3-Clause · 推送 2026-10-07 · [GitHub](https://github.com/NorskRegnesentral/skchange) · [官网](https://skchange.readthedocs.io) · 组织维护
+⭐ 44 · Python · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/NorskRegnesentral/skchange) · [官网](https://skchange.readthedocs.io) · 组织维护
 
 **Python 变点检测库：时间序列分割与异常检测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NorskRegnesentral/skchange 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-19 44（+0）
+2026-10-18 44 → 2026-11-20 44（+0）
 
 
 ---

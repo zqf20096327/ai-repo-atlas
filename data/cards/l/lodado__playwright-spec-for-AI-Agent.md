@@ -1,6 +1,6 @@
 # lodado/playwright-spec-for-AI-Agent
 
-⭐ 11 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/lodado/playwright-spec-for-AI-Agent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把已有 Playwright spec 转为 AI 判定的线上 staging 验证 CLI**
 

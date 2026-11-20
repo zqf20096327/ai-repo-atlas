@@ -46,12 +46,12 @@ NeuralTrust 发布的 Echo Chamber LLM 越狱攻击研究的代码与示例库�
 ```mermaid
 xychart-beta
     title "NeuralTrust/echo-chamber 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

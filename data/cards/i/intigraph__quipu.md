@@ -1,6 +1,6 @@
 # intigraph/quipu
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/intigraph/quipu) · [官网](https://intigraph.github.io/quipu/) · 组织维护
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/intigraph/quipu) · [官网](https://intigraph.github.io/quipu/) · 组织维护
 
 **面向 AI agent 的受治理双时态知识图谱存储**
 
@@ -46,12 +46,12 @@ Rust 实现的本地知识存储：以 Turtle 写入事实，按词汇表和 sha
 ```mermaid
 xychart-beta
     title "intigraph/quipu 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 11 --> 17
-    line [12, 14, 16, 16]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 11 --> 18
+    line [12, 14, 16, 17]
 ```
 
-2026-11-10 12 → 2026-11-19 16（+4）
+2026-11-10 12 → 2026-11-20 17（+5）
 
 
 ---

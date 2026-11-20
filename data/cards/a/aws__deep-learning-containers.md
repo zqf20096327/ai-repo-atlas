@@ -1,6 +1,6 @@
 # aws/deep-learning-containers
 
-⭐ 1,210 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/aws/deep-learning-containers) · [官网](https://aws.github.io/deep-learning-containers/) · 组织维护
+⭐ 1,210 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/aws/deep-learning-containers) · [官网](https://aws.github.io/deep-learning-containers/) · 组织维护
 
 **AWS 的深度学习预构建 Docker 镜像集合，用于运行 AI/ML 工作负载**
 
@@ -44,13 +44,13 @@ AWS 维护的预构建 Docker 镜像仓库，覆盖 PyTorch、TensorFlow、vLLM�
 
 ```mermaid
 xychart-beta
-    title "aws/deep-learning-containers 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
+    title "aws/deep-learning-containers 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 1195 --> 1211
-    line [1196, 1198, 1199, 1200, 1199, 1200, 1201, 1202, 1201, 1202, 1203, 1210]
+    line [1196, 1198, 1199, 1200, 1199, 1200, 1201, 1202, 1201, 1202, 1203, 1210, 1210]
 ```
 
-2026-10-18 1,196 → 2026-11-19 1,210（+14）
+2026-10-18 1,196 → 2026-11-20 1,210（+14）
 
 
 ---

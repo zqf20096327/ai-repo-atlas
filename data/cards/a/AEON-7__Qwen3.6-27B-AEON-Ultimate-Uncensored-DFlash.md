@@ -1,6 +1,6 @@
 # AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash
 
-⭐ 497 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash) · [官网](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16) · 个人维护
+⭐ 498 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash) · [官网](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16) · 个人维护
 
 **面向开发者的 Qwen3.6-27B 去审查模型权重与 DGX Spark 专用推理容器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 479 --> 498
-    line [480, 483, 484, 485, 486, 488, 484, 492, 493, 494, 495, 496, 497]
+    title "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 479 --> 499
+    line [480, 483, 484, 485, 486, 488, 484, 492, 493, 494, 495, 496, 497, 498]
 ```
 
-2026-10-18 480 → 2026-11-19 497（+17）
+2026-10-18 480 → 2026-11-20 498（+18）
 
 
 ---

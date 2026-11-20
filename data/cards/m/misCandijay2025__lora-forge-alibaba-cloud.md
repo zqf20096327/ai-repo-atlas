@@ -1,6 +1,6 @@
 # misCandijay2025/lora-forge-alibaba-cloud
 
-⭐ 57 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/misCandijay2025/lora-forge-alibaba-cloud) · 个人维护
+⭐ 57 · HTML · 推送 2026-11-19 · [GitHub](https://github.com/misCandijay2025/lora-forge-alibaba-cloud) · 个人维护
 
 **LoRA 训练容器的自动化构建与阿里云镜像推送流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "misCandijay2025/lora-forge-alibaba-cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "misCandijay2025/lora-forge-alibaba-cloud 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 55 --> 58
-    line [56, 57]
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-19 57（+1）
+2026-10-18 56 → 2026-11-20 57（+1）
 
 
 ---

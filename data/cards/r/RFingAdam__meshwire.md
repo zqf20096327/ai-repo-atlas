@@ -1,6 +1,6 @@
 # RFingAdam/meshwire
 
-⭐ 34 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/RFingAdam/meshwire) · 个人维护
+⭐ 34 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/RFingAdam/meshwire) · 个人维护
 
 **让 MCP 客户端控制 Blender 的 MCP 服务器，含 225 个工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RFingAdam/meshwire 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-11-02 33 → 2026-11-19 34（+1）
+2026-11-02 33 → 2026-11-20 34（+1）
 
 
 ---

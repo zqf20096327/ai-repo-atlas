@@ -1,6 +1,6 @@
 # JingXiao10/GUA
 
-⭐ 17 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/JingXiao10/GUA) · [官网](https://arxiv.org/abs/2609.01558) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/JingXiao10/GUA) · [官网](https://arxiv.org/abs/2609.01558) · 组织维护
 
 **修正梯度手术与优化器不一致的 PINN 无冲突训练方法**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JingXiao10/GUA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-19 17（+0）
+2026-10-18 17 → 2026-11-20 18（+1）
 
 
 ---

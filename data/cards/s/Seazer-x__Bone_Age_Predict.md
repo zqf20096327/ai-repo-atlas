@@ -1,6 +1,6 @@
 # Seazer-x/Bone_Age_Predict
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/Seazer-x/Bone_Age_Predict) · 个人维护 · 中文 README
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Seazer-x/Bone_Age_Predict) · 个人维护 · 中文 README
 
 **从手部 X 光片估计骨龄的开源 YOLOv5 + RUS-CHN 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Seazer-x/Bone_Age_Predict 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-19 16（+1）
+2026-10-18 15 → 2026-11-20 16（+1）
 
 
 ---

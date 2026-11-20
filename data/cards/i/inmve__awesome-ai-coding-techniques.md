@@ -1,6 +1,6 @@
 # inmve/awesome-ai-coding-techniques
 
-⭐ 353 · Python · 推送 2026-11-18 · [GitHub](https://github.com/inmve/awesome-ai-coding-techniques) · [官网](https://inmve.github.io/dev-with-agents/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 编程助手实用技巧合集：按开发阶段组织的实践清单**
 

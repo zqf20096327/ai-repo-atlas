@@ -1,6 +1,6 @@
 # openai/model_spec_dataset
 
-⭐ 17 · CC0-1.0 · 推送 2026-03-24 · [GitHub](https://github.com/openai/model_spec_dataset) · 组织维护
+⭐ 18 · CC0-1.0 · 推送 2026-03-24 · [GitHub](https://github.com/openai/model_spec_dataset) · 组织维护
 
 **评估 OpenAI Model Spec 合规性的公开提示词数据集**
 
@@ -46,12 +46,12 @@ OpenAI 发布的公有领域数据集，包含 596 条提示词与场景，用�
 ```mermaid
 xychart-beta
     title "openai/model_spec_dataset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-11-19 17（+1）
+2026-10-18 16 → 2026-11-20 18（+2）
 
 
 ---

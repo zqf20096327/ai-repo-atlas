@@ -1,6 +1,6 @@
 # anhermon/awesome-agent-observability
 
-⭐ 64 · Python · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/anhermon/awesome-agent-observability) · [官网](https://anhermon.dev) · 个人维护
+⭐ 65 · Python · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/anhermon/awesome-agent-observability) · [官网](https://anhermon.dev/awesome-agent-observability/) · 个人维护
 
 **Agent 可观测性工具策展清单：追踪/评测/护栏/MCP**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anhermon/awesome-agent-observability 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 51 --> 65
-    line [52, 60, 63, 62, 63, 64, 64]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 51 --> 66
+    line [52, 60, 63, 62, 63, 64, 65]
 ```
 
-2026-10-18 52 → 2026-11-19 64（+12）
+2026-10-18 52 → 2026-11-20 65（+13）
 
 
 ---

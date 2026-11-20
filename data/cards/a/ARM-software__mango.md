@@ -1,6 +1,6 @@
 # ARM-software/mango
 
-⭐ 419 · Jupyter Notebook · Apache-2.0 · 推送 2026-03-11 · [GitHub](https://github.com/ARM-software/mango) · 组织维护
+⭐ 418 · Jupyter Notebook · Apache-2.0 · 推送 2026-03-11 · [GitHub](https://github.com/ARM-software/mango) · 组织维护
 
 **面向机器学习分类器的并行超参数调优 Python 库**
 
@@ -45,12 +45,12 @@ Mango 是 ARM 软件团队维护的 Python 超参数优化库：定义兼容 sci
 ```mermaid
 xychart-beta
     title "ARM-software/mango 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 417 --> 420
-    line [418, 419, 419]
+    line [418, 419, 418]
 ```
 
-2026-10-18 418 → 2026-11-19 419（+1）
+2026-10-18 418 → 2026-11-20 418（+0）
 
 
 ---

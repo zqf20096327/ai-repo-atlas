@@ -45,12 +45,12 @@ EMNLP Findings 2023 论文 'Systematic Assessment of Factual Knowledge in Large 
 ```mermaid
 xychart-beta
     title "RManLuo/llm-facteval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-19 19（+0）
+2026-10-18 19 → 2026-11-20 19（+0）
 
 
 ---

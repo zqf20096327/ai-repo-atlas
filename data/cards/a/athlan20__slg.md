@@ -1,6 +1,6 @@
 # athlan20/slg
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/athlan20/slg) · [官网](https://slg.yuntianyou.cc) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/athlan20/slg) · [官网](https://slg.yuntianyou.cc) · 个人维护 · 中文 README
 
 **可让 AI Agent 代玩的网页三国策略游戏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "athlan20/slg 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 29 --> 35
-    line [30, 31, 32, 33, 34, 34]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 29 --> 38
+    line [30, 31, 32, 33, 34, 37]
 ```
 
-2026-11-08 30 → 2026-11-19 34（+4）
+2026-11-08 30 → 2026-11-20 37（+7）
 
 
 ---

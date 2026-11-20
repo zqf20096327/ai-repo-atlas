@@ -1,6 +1,6 @@
 # microsoft/archai
 
-⭐ 490 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/archai) · [官网](https://microsoft.github.io/archai) · 组织维护
+⭐ 488 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/archai) · [官网](https://microsoft.github.io/archai) · 组织维护
 
 **微软开源的神经架构搜索（NAS）研究库，加速高效深度网络生成**
 
@@ -45,12 +45,12 @@ Archai 提供模块化、可复现的神经架构搜索（NAS）框架：定义�
 ```mermaid
 xychart-beta
     title "microsoft/archai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 486 --> 491
-    line [487, 488, 490, 490]
+    line [487, 488, 490, 488]
 ```
 
-2026-10-18 487 → 2026-11-19 490（+3）
+2026-10-18 487 → 2026-11-20 488（+1）
 
 
 ---

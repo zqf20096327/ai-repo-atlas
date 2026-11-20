@@ -1,6 +1,6 @@
 # valohai/valohai-cli
 
-⭐ 17 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/valohai/valohai-cli) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/valohai/valohai-cli) · 组织维护
 
 **Valohai 机器学习平台的命令行客户端**
 
@@ -45,12 +45,12 @@ Valohai（机器学习 IaaS 平台）的命令行客户端，安装后提供 vh 
 ```mermaid
 xychart-beta
     title "valohai/valohai-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-19 17（+0）
+2026-10-18 17 → 2026-11-20 17（+0）
 
 
 ---

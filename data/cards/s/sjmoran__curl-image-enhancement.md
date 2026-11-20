@@ -1,6 +1,6 @@
 # sjmoran/curl-image-enhancement
 
-⭐ 222 · Python · 推送 2026-09-18 · [GitHub](https://github.com/sjmoran/curl-image-enhancement) · 个人维护 · 中文 README
+⭐ 223 · Python · 推送 2026-09-18 · [GitHub](https://github.com/sjmoran/curl-image-enhancement) · 个人维护 · 中文 README
 
 **ICPR 2020 论文代码：预测色调曲线实现全局图像增强**
 
@@ -45,12 +45,12 @@ Huawei Noah's Ark Lab 发表的 ICPR 2020 论文 CURL 的官方代码。方法�
 ```mermaid
 xychart-beta
     title "sjmoran/curl-image-enhancement 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 221 --> 223
-    line [222, 222]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 221 --> 224
+    line [222, 223]
 ```
 
-2026-10-18 222 → 2026-11-19 222（+0）
+2026-10-18 222 → 2026-11-20 223（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/vscode-copilotstudio
 
-⭐ 118 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/vscode-copilotstudio) · 组织维护
+⭐ 118 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/vscode-copilotstudio) · 组织维护
 
 **VS Code 扩展：在本地编辑与同步 Copilot Studio 智能体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/vscode-copilotstudio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20"]
     y-axis "stars" 114 --> 119
     line [115, 116, 117, 118, 118]
 ```
 
-2026-10-18 115 → 2026-11-19 118（+3）
+2026-10-18 115 → 2026-11-20 118（+3）
 
 
 ---

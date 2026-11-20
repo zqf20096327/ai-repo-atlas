@@ -1,6 +1,6 @@
 # explosion/sense2vec
 
-⭐ 1,679 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/explosion/sense2vec) · [官网](https://explosion.ai/blog/sense2vec-reloaded) · 组织维护
+⭐ 1,678 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/explosion/sense2vec) · [官网](https://explosion.ai/blog/sense2vec-reloaded) · 组织维护
 
 **上下文键控词向量库：加载、查询与训练 sense2vec 模型**
 
@@ -46,12 +46,12 @@ sense2vec（Trask et al., 2015）的 Python 实现，提供按词性标签与实
 ```mermaid
 xychart-beta
     title "explosion/sense2vec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 1678 --> 1682
-    line [1681, 1679, 1679]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 1677 --> 1682
+    line [1681, 1679, 1678]
 ```
 
-2026-10-18 1,681 → 2026-11-19 1,679（-2）
+2026-10-18 1,681 → 2026-11-20 1,678（-3）
 
 
 ---

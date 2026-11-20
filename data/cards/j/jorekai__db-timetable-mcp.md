@@ -1,6 +1,6 @@
 # jorekai/db-timetable-mcp
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/jorekai/db-timetable-mcp) · [官网](https://db-timetable-mcp-web.vercel.app/de) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jorekai/db-timetable-mcp) · [官网](https://db-timetable-mcp-web.vercel.app/de) · 个人维护
 
 **接入德铁时刻表 API 的 MCP 服务器，供 LLM 查询车站班次**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jorekai/db-timetable-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-19 17（+0）
+2026-10-18 17 → 2026-11-20 17（+0）
 
 
 ---

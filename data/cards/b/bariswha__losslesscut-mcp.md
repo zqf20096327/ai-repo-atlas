@@ -1,6 +1,6 @@
 # bariswha/losslesscut-mcp
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/bariswha/losslesscut-mcp) · [官网](https://github.com/bariswha/losslesscut-mcp) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/bariswha/losslesscut-mcp) · [官网](https://github.com/bariswha/losslesscut-mcp) · 个人维护
 
 **MCP server：让 Claude 用 FFmpeg 看视频并用 LosslessCut 无损剪切**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bariswha/losslesscut-mcp 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 7 --> 13
-    line [8, 12, 12]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 7 --> 14
+    line [8, 12, 13]
 ```
 
-2026-11-15 8 → 2026-11-19 12（+4）
+2026-11-15 8 → 2026-11-20 13（+5）
 
 
 ---

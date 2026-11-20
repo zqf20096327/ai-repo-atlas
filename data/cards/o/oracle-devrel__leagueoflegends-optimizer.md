@@ -1,6 +1,6 @@
 # oracle-devrel/leagueoflegends-optimizer
 
-⭐ 159 · Jupyter Notebook · UPL-1.0 · 推送 2026-02-12 · [GitHub](https://github.com/oracle-devrel/leagueoflegends-optimizer) · 组织维护
+⭐ 158 · Jupyter Notebook · UPL-1.0 · 推送 2026-02-12 · [GitHub](https://github.com/oracle-devrel/leagueoflegends-optimizer) · 组织维护
 
 **教学项目：用 Riot API 与机器学习实时预测英雄联盟胜率**
 
@@ -44,13 +44,13 @@ Oracle DevRel 出品的教学型 Hands-On Labs 项目：通过 Riot Games 官方
 
 ```mermaid
 xychart-beta
-    title "oracle-devrel/leagueoflegends-optimizer 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    title "oracle-devrel/leagueoflegends-optimizer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 157 --> 161
-    line [158, 159, 160, 159, 160, 159]
+    line [158, 159, 160, 159, 160, 159, 158]
 ```
 
-2026-10-18 158 → 2026-11-19 159（+1）
+2026-10-18 158 → 2026-11-20 158（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # elevenlabs/packages
 
-⭐ 122 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/elevenlabs/packages) · [官网](https://elevenlabs.io/docs) · 组织维护
+⭐ 122 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/elevenlabs/packages) · [官网](https://elevenlabs.io/docs) · 组织维护
 
 **面向 TS/React 开发者的 ElevenLabs 多模态语音 Agent SDK**
 
@@ -45,12 +45,12 @@ ElevenLabs 官方维护的 monorepo，提供 5 个 npm 包：核心 TS/JS 客户
 ```mermaid
 xychart-beta
     title "elevenlabs/packages 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20"]
     y-axis "stars" 113 --> 123
     line [114, 115, 114, 118, 119, 120, 121, 122, 122]
 ```
 
-2026-10-18 114 → 2026-11-19 122（+8）
+2026-10-18 114 → 2026-11-20 122（+8）
 
 
 ---

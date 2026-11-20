@@ -1,6 +1,6 @@
 # xsser/cliproxyapi-cloudflare-stack
 
-⭐ 123 · Shell · 推送 2026-07-12 · [GitHub](https://github.com/xsser/cliproxyapi-cloudflare-stack) · 个人维护 · 中文 README
+⭐ 122 · Shell · 推送 2026-07-12 · [GitHub](https://github.com/xsser/cliproxyapi-cloudflare-stack) · 个人维护 · 中文 README
 
 **自托管 OpenAI 兼容 LLM API 网关部署栈（Cloudflare）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xsser/cliproxyapi-cloudflare-stack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 121 --> 124
-    line [122, 123, 123]
+    line [122, 123, 122]
 ```
 
-2026-10-18 122 → 2026-11-19 123（+1）
+2026-10-18 122 → 2026-11-20 122（+0）
 
 
 ---

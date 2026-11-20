@@ -1,6 +1,6 @@
 # guyyariv/AudioToken
 
-⭐ 90 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/guyyariv/AudioToken) · [官网](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) · 个人维护
+⭐ 89 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/guyyariv/AudioToken) · [官网](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) · 个人维护
 
 **音频生成图像的 PyTorch 官方实现：文本条件扩散模型适配音频输入**
 
@@ -46,12 +46,12 @@ InterSpeech 2023 论文 AudioToken 的官方 PyTorch 实现：将文本条件潜
 ```mermaid
 xychart-beta
     title "guyyariv/AudioToken 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 88 --> 91
+    line [90, 89]
 ```
 
-2026-10-18 90 → 2026-11-19 90（+0）
+2026-10-18 90 → 2026-11-20 89（-1）
 
 
 ---

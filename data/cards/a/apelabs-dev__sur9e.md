@@ -1,6 +1,6 @@
 # apelabs-dev/sur9e
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/apelabs-dev/sur9e) · [官网](https://sur9e.com/) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/apelabs-dev/sur9e) · [官网](https://sur9e.com/) · 组织维护
 
 **本地自托管的 AI 求职工具箱：评估职位、筛选 JD、定制简历**
 
@@ -46,12 +46,12 @@ sur9e 将 AI 编程 CLI（Claude Code、Codex、OpenCode）作为运行时与命
 ```mermaid
 xychart-beta
     title "apelabs-dev/sur9e 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-19"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-29", "2026-11-20"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-29 15 → 2026-11-19 15（+0）
+2026-10-29 15 → 2026-11-20 16（+1）
 
 
 ---

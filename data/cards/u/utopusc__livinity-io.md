@@ -1,6 +1,6 @@
 # utopusc/livinity-io
 
-⭐ 72 · TypeScript · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/utopusc/livinity-io) · [官网](https://livinity.io/) · 组织维护
+⭐ 71 · TypeScript · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/utopusc/livinity-io) · [官网](https://livinity.io/) · 组织维护
 
 **自托管云端 AI 计算机：浏览器里的操作系统与应用商店**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "utopusc/livinity-io 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 71 --> 74
-    line [73, 72, 72]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 70 --> 74
+    line [73, 72, 71]
 ```
 
-2026-10-18 73 → 2026-11-19 72（-1）
+2026-10-18 73 → 2026-11-20 71（-2）
 
 
 ---

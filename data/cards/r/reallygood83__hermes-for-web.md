@@ -46,12 +46,12 @@ Hermes WebUI 的 workflow 方向 fork，面向已使用 Hermes CLI 的个人用�
 ```mermaid
 xychart-beta
     title "reallygood83/hermes-for-web 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
     y-axis "stars" 81 --> 84
     line [83, 82, 82]
 ```
 
-2026-10-18 83 → 2026-11-19 82（-1）
+2026-10-18 83 → 2026-11-20 82（-1）
 
 
 ---

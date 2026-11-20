@@ -1,10 +1,10 @@
 # Ernestoracua/GitHub-Copilot-app
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Ernestoracua/GitHub-Copilot-app) · 组织维护
+⭐ 57 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Ernestoracua/GitHub-Copilot-app) · 组织维护
 
-**面向开发者的 GitHub 仓库智能体工作管理桌面应用**
+**面向开发者的 GitHub 仓库 agent 工作桌面控制中心**
 
-GitHub 官方的桌面应用，覆盖从想法到 pull request 的软件工作流：查找可认领的工作、启动并引导智能体会话、审阅进展并落地变更。每个本地会话运行在独立的 git worktree 中，云会话运行在 GitHub 托管的隔离环境。提供 Canvases 可视化智能体工作、My Work 汇聚会话/issue/PR、Automations 定时或后台任务、Agent Merge 协助推进评审与合并。需要 Git 与任一 GitHub Copilot 计划，或通过 BYOK 携带自己的模型密钥。
+GitHub 官方发布的桌面应用，将仓库中的软件工作从想法到 pull request 集中管理：查找任务、启动与引导 agent 会话、审查进度、落地变更。本地会话运行在隔离的 git worktree 中，云会话在 GitHub 托管的隔离环境中运行；提供 Canvas 可视化 agent 工作状态、My Work 汇聚会话/issue/PR、Automations 定时任务、Agent Merge 辅助合并。需 Copilot 计划或 BYOK 自带密钥，通过 Releases 页下载安装包。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ GitHub 官方的桌面应用，覆盖从想法到 pull request 的软件工作�
 
 ## 能力要点
 
-- 本地会话以隔离 git worktree 运行，云会话在 GitHub 托管环境中运行
-- Canvases 将计划、终端、diff、工作流状态呈现为可查看与可编辑的界面
-- Automations 将可重复的提示词与工作流转为定时/后台任务
-- Agent Merge 协助推进 PR 评审、检查与合并条件
+- 本地会话运行在隔离 git worktree，云会话运行在 GitHub 托管隔离环境
+- Canvas 将 agent 的计划、终端、diff 与工作流状态变为可检视的共享界面
+- Automations 将提示词与工作流转为定时或后台任务
+- 支持无 Copilot 计划时 BYOK 自带模型密钥
 
 ## 适用场景
 
-- 并行运行多个智能体会话处理 bug、issue、评审反馈而互不冲突
-- 在单一控制中心管理跨仓库的会话、issue 与 pull request
-- 把常用提示词与工作流配置为定时或后台自动化任务
+- 并行运行多个 agent 同时处理 bug 调查、issue 实现与代码审查
+- 在一个界面管理跨仓库的会话、issue 与 pull request
+- 将重复的提示词工作流设置为定时后台任务
 
 ## 场景标签
 
-`编码 Agent` `工作流自动化` · 领域:效率与自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -46,13 +46,13 @@ GitHub 官方的桌面应用，覆盖从想法到 pull request 的软件工作�
 ```mermaid
 xychart-beta
     title "Ernestoracua/GitHub-Copilot-app 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-11-18", "2026-11-20"]
+    y-axis "stars" 56 --> 63
+    line [62, 57]
 ```
 
-2026-11-18 62 → 2026-11-19 62（+0）
+2026-11-18 62 → 2026-11-20 57（-5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `f27c6eaa47bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `2f5c6d14847a` · [字段定义](../../DATASET.md)*

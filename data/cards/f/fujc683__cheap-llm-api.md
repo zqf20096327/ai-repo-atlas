@@ -41,6 +41,18 @@
 > L3: > Every LLM on APIMart ranked by cost, plus a two-tier routing pattern that cuts bills ~70%.
 > L5: Awesome License: CC BY 4.0
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fujc683/cheap-llm-api 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-19 11 → 2026-11-20 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `1b1aa033615b` · [字段定义](../../DATASET.md)*

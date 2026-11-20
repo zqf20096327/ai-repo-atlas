@@ -1,6 +1,6 @@
 # dzianisv/agents-plugins
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/dzianisv/agents-plugins) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dzianisv/agents-plugins) · 个人维护
 
 **为 OpenCode 与 Claude Code 提供停止判定与工作流门禁的插件集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dzianisv/agents-plugins 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-02 11 → 2026-11-19 11（+0）
+2026-11-02 11 → 2026-11-20 11（+0）
 
 
 ---

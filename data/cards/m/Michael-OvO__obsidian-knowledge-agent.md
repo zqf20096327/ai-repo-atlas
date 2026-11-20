@@ -1,6 +1,6 @@
 # Michael-OvO/obsidian-knowledge-agent
 
-⭐ 206 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/Michael-OvO/obsidian-knowledge-agent) · 个人维护
+⭐ 204 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/Michael-OvO/obsidian-knowledge-agent) · 个人维护
 
 **面向 Obsidian 库的 agent 笔记管线：整理原始资料为教学级笔记**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Michael-OvO/obsidian-knowledge-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-20"]
     y-axis "stars" 203 --> 208
-    line [204, 205, 206, 207, 206, 206]
+    line [204, 205, 206, 207, 206, 204]
 ```
 
-2026-10-18 204 → 2026-11-19 206（+2）
+2026-10-18 204 → 2026-11-20 204（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # iconben/z-image-studio
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/iconben/z-image-studio) · 个人维护 · 中文 README
+⭐ 130 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/iconben/z-image-studio) · 个人维护 · 中文 README
 
 **Z-Image-Turbo 文生图模型的本地 CLI/WebUI/MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iconben/z-image-studio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 126 --> 130
-    line [128, 127, 128, 129, 129]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 126 --> 131
+    line [128, 127, 128, 129, 130]
 ```
 
-2026-10-18 128 → 2026-11-19 129（+1）
+2026-10-18 128 → 2026-11-20 130（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # danielmeppiel/genesis
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/danielmeppiel/genesis) · [官网](https://danielmeppiel.github.io/genesis/) · 个人维护
+⭐ 83 · Python · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/danielmeppiel/genesis) · [官网](https://danielmeppiel.github.io/genesis/) · 个人维护
 
 **面向 AI 编码 agent 的架构设计技能：命名模式与契约的知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danielmeppiel/genesis 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 70 --> 83
-    line [71, 77, 79, 80, 81, 82, 82]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 70 --> 84
+    line [71, 77, 79, 80, 81, 82, 83]
 ```
 
-2026-10-18 71 → 2026-11-19 82（+11）
+2026-10-18 71 → 2026-11-20 83（+12）
 
 
 ---

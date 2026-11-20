@@ -1,6 +1,6 @@
 # baz-scm/baz-plugin
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/baz-scm/baz-plugin) · [官网](https://baz.ai) · 组织维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/baz-scm/baz-plugin) · [官网](https://baz.ai) · 组织维护
 
 **给编码 Agent 提供跨仓库索引检索与代码评审的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "baz-scm/baz-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # FrederikHasecke/diffused-texture-addon
 
-⭐ 261 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/FrederikHasecke/diffused-texture-addon) · 个人维护
+⭐ 262 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/FrederikHasecke/diffused-texture-addon) · 个人维护
 
 **Blender 插件：用 Stable Diffusion 在 3D 网格上直接生成并烘焙贴图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FrederikHasecke/diffused-texture-addon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-20"]
     y-axis "stars" 260 --> 263
-    line [261, 262, 261, 261]
+    line [261, 262, 261, 262]
 ```
 
-2026-10-18 261 → 2026-11-19 261（+0）
+2026-10-18 261 → 2026-11-20 262（+1）
 
 
 ---

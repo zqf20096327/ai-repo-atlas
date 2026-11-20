@@ -1,6 +1,6 @@
 # joansongjr/investor-harness
 
-⭐ 28 · Shell · MIT · 推送 2026-09-06 · [GitHub](https://github.com/joansongjr/investor-harness) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向二级市场投研人的跨 harness AI 技能规范集（34 个 skill）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

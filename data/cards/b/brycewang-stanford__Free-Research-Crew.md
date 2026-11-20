@@ -1,6 +1,6 @@
 # brycewang-stanford/Free-Research-Crew
 
-⭐ 262 · Python · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/brycewang-stanford/Free-Research-Crew) · 组织维护 · 中文 README
+⭐ 263 · Python · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/brycewang-stanford/Free-Research-Crew) · 组织维护 · 中文 README
 
 **免费助研 AI 团队：协作完成 CS 与社科论文**
 
@@ -40,6 +40,18 @@
 > L5:  你的免费助研团。 一支 AI 助研（RA）团队，把一个研究问题做成一篇完整的
 > L6:  计算机科学 或 社会科学 论文 —— 真实验、真数据，而你始终是 PI。
 > L33: 好的助研又贵又难找。**免费助研团（Free-Research-Crew）** 免费给你一整支团队：多个 AI 助研像真实课题组一样分工完成一篇论文 —— 而每个关键决策都交还给你这位 PI。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "brycewang-stanford/Free-Research-Crew 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 261 --> 264
+    line [262, 263]
+```
+
+2026-11-19 262 → 2026-11-20 263（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Dirgha-AI/dirgha-code
 
-⭐ 16 · TypeScript · NOASSERTION · 推送 2026-08-01 · [GitHub](https://github.com/Dirgha-AI/dirgha-code) · [官网](https://dirgha.ai) · 组织维护
+⭐ 16 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Dirgha-AI/dirgha-code) · [官网](https://dirgha.ai) · 组织维护
 
 **开源终端 AI 编码代理：BYOK 多提供商，支持本地模型离线运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dirgha-AI/dirgha-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-19 16（+0）
+2026-10-18 16 → 2026-11-20 16（+0）
 
 
 ---

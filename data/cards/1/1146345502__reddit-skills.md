@@ -1,6 +1,6 @@
 # 1146345502/reddit-skills
 
-⭐ 16 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/1146345502/reddit-skills) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/1146345502/reddit-skills) · 个人维护
 
 **让 AI agent 用真实浏览器账号操作 Reddit 的技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1146345502/reddit-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-19 16（+1）
+2026-10-18 15 → 2026-11-20 17（+2）
 
 
 ---

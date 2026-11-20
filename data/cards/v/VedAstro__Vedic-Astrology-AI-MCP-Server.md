@@ -1,6 +1,6 @@
 # VedAstro/Vedic-Astrology-AI-MCP-Server
 
-⭐ 11 · TypeScript · 推送 2026-03-25 · [GitHub](https://github.com/VedAstro/Vedic-Astrology-AI-MCP-Server) · [官网](https://vedastro.org/MCPServerApp.html) · 组织维护
+⭐ 12 · TypeScript · 推送 2026-03-25 · [GitHub](https://github.com/VedAstro/Vedic-Astrology-AI-MCP-Server) · [官网](https://vedastro.org/MCPServerApp.html) · 组织维护
 
 **把吠陀占星计算通过 MCP 提供给 AI 助手的工具服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VedAstro/Vedic-Astrology-AI-MCP-Server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 12（+1）
 
 
 ---

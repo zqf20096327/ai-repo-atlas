@@ -1,6 +1,6 @@
 # Hithink-Tech-Org/Financial-API
 
-⭐ 4,284 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Hithink-Tech-Org/Financial-API) · [官网](https://fuyao.aicubes.cn/) · 组织维护 · 中文 README
+⭐ 4,328 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Hithink-Tech-Org/Financial-API) · [官网](https://fuyao.aicubes.cn/) · 组织维护 · 中文 README
 
 **同花顺官方 A 股金融数据服务，支持 API/MCP/CLI/Python 接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hithink-Tech-Org/Financial-API 星数(近 7 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 4112 --> 4299
-    line [4127, 4138, 4146, 4152, 4157, 4209, 4284]
+    title "Hithink-Tech-Org/Financial-API 星数(近 8 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 4107 --> 4348
+    line [4127, 4138, 4146, 4152, 4157, 4209, 4284, 4328]
 ```
 
-2026-11-12 4,127 → 2026-11-19 4,284（+157）
+2026-11-12 4,127 → 2026-11-20 4,328（+201）
 
 
 ---

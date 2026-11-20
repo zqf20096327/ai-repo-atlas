@@ -1,6 +1,6 @@
 # istarkov/ai-cli-edit
 
-⭐ 25 · HTML · 推送 2025-11-23 · [GitHub](https://github.com/istarkov/ai-cli-edit) · [官网](https://istarkov.github.io/ai-cli-edit/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **浏览器元素选择工具：为 AI 编码工具生成结构化编辑提示**
 

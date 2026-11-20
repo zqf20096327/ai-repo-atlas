@@ -1,6 +1,6 @@
 # siqiwang0712-commits/financial-risk-agent
 
-⭐ 76 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/siqiwang0712-commits/financial-risk-agent) · [官网](https://financial-risk-agent.vercel.app) · 个人维护 · 中文 README
+⭐ 75 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/siqiwang0712-commits/financial-risk-agent) · [官网](https://financial-risk-agent.vercel.app) · 个人维护 · 中文 README
 
 **面向企业财报的证据溯源金融风险分析与决策保证研究系统**
 
@@ -46,12 +46,12 @@ FinRisk 是从 SEC/XBRL 结构化数据与年报 PDF 中生成金融风险评估
 ```mermaid
 xychart-beta
     title "siqiwang0712-commits/financial-risk-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-19"]
-    y-axis "stars" 75 --> 79
-    line [78, 77, 76, 76]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-20"]
+    y-axis "stars" 74 --> 79
+    line [78, 77, 76, 75]
 ```
 
-2026-10-18 78 → 2026-11-19 76（-2）
+2026-10-18 78 → 2026-11-20 75（-3）
 
 
 ---

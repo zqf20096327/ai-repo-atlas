@@ -1,6 +1,6 @@
 # InternLM/Sage-S2.1-Flash
 
-⭐ 32 · 推送 2026-11-17 · [GitHub](https://github.com/InternLM/Sage-S2.1-Flash) · [官网](https://internlm.github.io/Sage-S2.1-Flash/) · 组织维护 · 中文 README
+⭐ 35 · 推送 2026-11-17 · [GitHub](https://github.com/InternLM/Sage-S2.1-Flash) · [官网](https://internlm.github.io/Sage-S2.1-Flash/) · 组织维护 · 中文 README
 
 **科研多模态大模型：理解十余类科学数据并执行分析任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternLM/Sage-S2.1-Flash 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 15 --> 33
-    line [16, 27, 32]
+    title "InternLM/Sage-S2.1-Flash 星数(近 4 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 15 --> 36
+    line [16, 27, 32, 35]
 ```
 
-2026-11-16 16 → 2026-11-19 32（+16）
+2026-11-16 16 → 2026-11-20 35（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # 7thDrag0n/AutoEvolve
 
-⭐ 11 · Python · GPL-3.0 · 推送 2026-03-20 · [GitHub](https://github.com/7thDrag0n/AutoEvolve) · 个人维护
+⭐ 11 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/7thDrag0n/AutoEvolve) · 个人维护
 
 **基于 LLM 的 FreqTrade 策略自进化交易机器人系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "7thDrag0n/AutoEvolve 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Johnson-Durui/Companion-Space
 
-⭐ 427 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Johnson-Durui/Companion-Space) · 个人维护 · 中文 README
+⭐ 439 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Johnson-Durui/Companion-Space) · 个人维护 · 中文 README
 
 **本地优先的二次元陪伴学习应用，带语音与 VRM 角色**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Johnson-Durui/Companion-Space 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 325 --> 436
-    line [363, 338, 335, 334, 370, 427]
+    title "Johnson-Durui/Companion-Space 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 324 --> 449
+    line [363, 338, 335, 334, 370, 427, 439]
 ```
 
-2026-10-18 363 → 2026-11-19 427（+64）
+2026-10-18 363 → 2026-11-20 439（+76）
 
 
 ---

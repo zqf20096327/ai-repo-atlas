@@ -1,6 +1,6 @@
 # airtasystems/DVAIA-Damn-Vulnerable-AI-Application
 
-⭐ 49 · Python · 推送 2026-07-21 · [GitHub](https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application) · 组织维护
+⭐ 50 · Python · 推送 2026-07-21 · [GitHub](https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application) · 组织维护
 
 **面向 LLM 红队训练的漏洞靶场 Web 应用**
 
@@ -45,13 +45,13 @@ DVWA 风格的 AI 安全训练平台：Flask Web 应用运行在 127.0.0.1:5000�
 
 ```mermaid
 xychart-beta
-    title "airtasystems/DVAIA-Damn-Vulnerable-AI-Application 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 41 --> 50
-    line [42, 43, 45, 44, 43, 47, 48, 49]
+    title "airtasystems/DVAIA-Damn-Vulnerable-AI-Application 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 41 --> 51
+    line [42, 43, 45, 44, 43, 47, 48, 49, 50]
 ```
 
-2026-10-18 42 → 2026-11-19 49（+7）
+2026-10-18 42 → 2026-11-20 50（+8）
 
 
 ---

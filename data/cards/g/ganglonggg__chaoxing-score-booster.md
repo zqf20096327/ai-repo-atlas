@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ganglonggg/chaoxing-score-booster 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-19"]
+    x-axis ["2026-11-10", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-19 11（+0）
+2026-11-10 11 → 2026-11-20 11（+0）
 
 
 ---

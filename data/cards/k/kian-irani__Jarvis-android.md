@@ -46,12 +46,12 @@ Vision OS（原 Jarvis-android）是一个 Android 启动器与个人智能层�
 ```mermaid
 xychart-beta
     title "kian-irani/Jarvis-android 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

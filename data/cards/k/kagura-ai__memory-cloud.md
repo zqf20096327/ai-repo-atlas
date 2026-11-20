@@ -1,6 +1,6 @@
 # kagura-ai/memory-cloud
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/kagura-ai/memory-cloud) · [官网](https://www.kagura-ai.com) · 组织维护 · 中文 README
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/kagura-ai/memory-cloud) · [官网](https://www.kagura-ai.com) · 组织维护 · 中文 README
 
 **面向 AI agent 与团队的自托管自适应记忆 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kagura-ai/memory-cloud 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    title "kagura-ai/memory-cloud 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 11 --> 15
-    line [12, 13, 12, 13, 14]
+    line [12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-19 14（+2）
+2026-10-18 12 → 2026-11-20 14（+2）
 
 
 ---

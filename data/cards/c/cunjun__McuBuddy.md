@@ -1,6 +1,6 @@
 # cunjun/McuBuddy
 
-⭐ 11 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/cunjun/McuBuddy) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/cunjun/McuBuddy) · 个人维护 · 中文 README
 
 **面向嵌入式固件开发者的 MCP 服务器：让 AI 调试真实 MCU 硬件**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "cunjun/McuBuddy 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-08", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-08 10 → 2026-11-19 11（+1）
+2026-11-08 10 → 2026-11-20 12（+2）
 
 
 ---

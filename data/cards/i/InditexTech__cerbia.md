@@ -1,6 +1,6 @@
 # InditexTech/cerbia
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/InditexTech/cerbia) · [官网](https://inditextech.github.io/cerbia/) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/InditexTech/cerbia) · [官网](https://inditextech.github.io/cerbia/) · 组织维护
 
 **面向 AI/LLM 管道的模块化威胁检测库：可配置安全门**
 
@@ -45,12 +45,12 @@ InditexTech 维护的 Python 库，围绕 AI agent 的输入输出构建安全�
 ```mermaid
 xychart-beta
     title "InditexTech/cerbia 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 28 --> 54
     line [30, 32, 33, 42, 33, 52, 52]
 ```
 
-2026-10-18 30 → 2026-11-19 52（+22）
+2026-10-18 30 → 2026-11-20 52（+22）
 
 
 ---

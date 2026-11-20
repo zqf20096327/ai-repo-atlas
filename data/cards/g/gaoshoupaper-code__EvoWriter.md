@@ -1,6 +1,6 @@
 # gaoshoupaper-code/EvoWriter
 
-⭐ 102 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/gaoshoupaper-code/EvoWriter) · 个人维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/gaoshoupaper-code/EvoWriter) · 个人维护 · 中文 README
 
 **自进化长篇小说创作多 Agent 平台，含观测与门禁发版闭环**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gaoshoupaper-code/EvoWriter 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20"]
     y-axis "stars" 25 --> 109
     line [32, 62, 72, 83, 93, 101, 102, 102]
 ```
 
-2026-11-08 32 → 2026-11-19 102（+70）
+2026-11-08 32 → 2026-11-20 102（+70）
 
 
 ---

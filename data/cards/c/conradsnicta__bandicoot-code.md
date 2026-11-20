@@ -45,12 +45,12 @@ Bandicoot 是提供 Armadillo 类似 API 的 GPU 加速线性代数 C++ 库，�
 ```mermaid
 xychart-beta
     title "conradsnicta/bandicoot-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-19 31（+1）
+2026-10-18 30 → 2026-11-20 31（+1）
 
 
 ---

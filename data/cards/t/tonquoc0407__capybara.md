@@ -1,6 +1,6 @@
 # tonquoc0407/capybara
 
-⭐ 12 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tonquoc0407/capybara) · [官网](https://getcapybara.tonquoc1412.workers.dev/) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tonquoc0407/capybara) · [官网](https://getcapybara.tonquoc1412.workers.dev/) · 个人维护
 
 **终端里的 AI agent 追踪调试器：记录并定位 agent 出错环节**
 
@@ -46,12 +46,12 @@ Go 编写的终端 TUI 工具，用于调试 AI agent：通过 OTLP 监听（431
 ```mermaid
 xychart-beta
     title "tonquoc0407/capybara 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-19 12（+0）
+2026-10-18 12 → 2026-11-20 12（+0）
 
 
 ---

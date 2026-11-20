@@ -1,6 +1,6 @@
 # eclipse-theia/theia
 
-⭐ 21,768 · TypeScript · EPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/eclipse-theia/theia) · [官网](https://theia-ide.org/) · 组织维护
+⭐ 21,773 · TypeScript · EPL-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/eclipse-theia/theia) · [官网](https://theia-ide.org/) · 组织维护
 
 **供开发者构建浏览器与桌面自定义 IDE 的开源框架**
 
@@ -39,6 +39,18 @@ Eclipse Theia 是一个可扩展框架，使用 Web 技术构建多语言的云�
 
 > L10: Eclipse Theia is an extensible framework to develop full-fledged multi-language Cloud & Desktop IDEs and tools with
 > L33: - Support building browser-based and desktop IDEs and tools
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eclipse-theia/theia 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 21767 --> 21774
+    line [21768, 21773]
+```
+
+2026-11-19 21,768 → 2026-11-20 21,773（+5）
 
 
 ---

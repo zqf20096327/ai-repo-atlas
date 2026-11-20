@@ -1,6 +1,6 @@
 # XDTrees/dsh-opencode-xdbridge
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/XDTrees/dsh-opencode-xdbridge) · [官网](https://github.com/aosi526/dsh-opencode-xdbridge) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/XDTrees/dsh-opencode-xdbridge) · [官网](https://github.com/aosi526/dsh-opencode-xdbridge) · 个人维护 · 中文 README
 
 **把 OpenCode Zen 免费模型接入 DSH 模型选择器的插件**
 
@@ -46,12 +46,12 @@ DSH（DeepSeek Harness）插件：下载官方 OpenCode 二进制，在隔离环
 ```mermaid
 xychart-beta
     title "XDTrees/dsh-opencode-xdbridge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20"]
     y-axis "stars" 7 --> 17
-    line [8, 12, 13, 15, 16, 16]
+    line [8, 12, 13, 15, 16, 15]
 ```
 
-2026-10-18 8 → 2026-11-19 16（+8）
+2026-10-18 8 → 2026-11-20 15（+7）
 
 
 ---

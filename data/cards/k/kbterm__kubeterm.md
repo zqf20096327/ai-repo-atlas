@@ -1,6 +1,6 @@
 # kbterm/kubeterm
 
-⭐ 232 · 推送 2026-10-19 · [GitHub](https://github.com/kbterm/kubeterm) · [官网](https://www.kubeterm.com) · 组织维护 · 中文 README
+⭐ 232 · 推送 2026-11-19 · [GitHub](https://github.com/kbterm/kubeterm) · [官网](https://www.kubeterm.com) · 组织维护 · 中文 README
 
 **Kubernetes 图形化管理工具，内置 AI 助手辅助排障**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kbterm/kubeterm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-20"]
     y-axis "stars" 229 --> 233
     line [230, 231, 232, 232]
 ```
 
-2026-10-18 230 → 2026-11-19 232（+2）
+2026-10-18 230 → 2026-11-20 232（+2）
 
 
 ---

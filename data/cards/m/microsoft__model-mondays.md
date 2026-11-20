@@ -1,6 +1,6 @@
 # microsoft/model-mondays
 
-⭐ 305 · Jupyter Notebook · MIT · 推送 2026-11-11 · [GitHub](https://github.com/microsoft/model-mondays) · [官网](https://microsoft.github.io/model-mondays/) · 组织维护
+⭐ 306 · Jupyter Notebook · MIT · 推送 2026-11-11 · [GitHub](https://github.com/microsoft/model-mondays) · [官网](https://microsoft.github.io/model-mondays/) · 组织维护
 
 **微软周更直播系列：生成式 AI 模型选型与技术聚光内容**
 
@@ -45,12 +45,12 @@ Model Mondays 是 Microsoft Foundry 生态下的系列直播与 AMA 活动页：
 ```mermaid
 xychart-beta
     title "microsoft/model-mondays 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20"]
     y-axis "stars" 300 --> 307
-    line [301, 302, 303, 304, 305, 303, 306, 304, 305, 305]
+    line [301, 302, 303, 304, 305, 303, 306, 304, 305, 306]
 ```
 
-2026-10-18 301 → 2026-11-19 305（+4）
+2026-10-18 301 → 2026-11-20 306（+5）
 
 
 ---

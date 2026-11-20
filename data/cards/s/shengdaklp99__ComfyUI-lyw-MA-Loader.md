@@ -45,13 +45,13 @@ ComfyUI 自定义节点，以可视化列表管理 LoRA：每个 LoRA 显示缩�
 
 ```mermaid
 xychart-beta
-    title "shengdaklp99/ComfyUI-lyw-MA-Loader 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    title "shengdaklp99/ComfyUI-lyw-MA-Loader 星数(近 4 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 8 --> 50
-    line [11, 43, 47]
+    line [11, 43, 47, 47]
 ```
 
-2026-11-16 11 → 2026-11-19 47（+36）
+2026-11-16 11 → 2026-11-20 47（+36）
 
 
 ---

@@ -1,6 +1,6 @@
 # agent-network-protocol/anp
 
-⭐ 360 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/agent-network-protocol/anp) · [官网](https://agent-network-protocol.com/) · 组织维护 · 中文 README
+⭐ 359 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/agent-network-protocol/anp) · [官网](https://agent-network-protocol.com/) · 组织维护 · 中文 README
 
 **Agent Network Protocol (ANP) 多语言 SDK，实现智能体互联互信与通信**
 
@@ -46,12 +46,12 @@ ANP 协议的多语言 SDK 与参考实现仓库，覆盖身份、发现、调�
 ```mermaid
 xychart-beta
     title "agent-network-protocol/anp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 352 --> 361
-    line [353, 354, 355, 354, 359, 360, 360]
+    line [353, 354, 355, 354, 359, 360, 359]
 ```
 
-2026-10-18 353 → 2026-11-19 360（+7）
+2026-10-18 353 → 2026-11-20 359（+6）
 
 
 ---

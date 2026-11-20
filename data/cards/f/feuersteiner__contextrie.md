@@ -1,6 +1,6 @@
 # feuersteiner/contextrie
 
-⭐ 62 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/feuersteiner/contextrie) · [官网](https://discord.gg/2xS7TEzGvc) · 个人维护
+⭐ 61 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/feuersteiner/contextrie) · [官网](https://discord.gg/2xS7TEzGvc) · 个人维护
 
 **为长程 agent 工作流动态筛选与组装上下文的工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "feuersteiner/contextrie 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 59 --> 63
-    line [60, 61, 60, 62, 62]
+    line [60, 61, 60, 62, 61]
 ```
 
-2026-10-18 60 → 2026-11-19 62（+2）
+2026-10-18 60 → 2026-11-20 61（+1）
 
 
 ---

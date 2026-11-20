@@ -1,6 +1,6 @@
 # microsoft/AgentHosting.Cli
 
-⭐ 10 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/AgentHosting.Cli) · 组织维护
+⭐ 12 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/AgentHosting.Cli) · 组织维护
 
 **Microsoft 官方 CLI：以代码方式开发和管理 Copilot Studio 代理**
 
@@ -39,6 +39,18 @@ Microsoft.Agents.Hosting.CLI（msagent）将本地开发工作流与 Microsoft C
 
 > L10: The Microsoft.Agents.Hosting.CLI (`msagent`) connects local development workflows with Microsoft Copilot Studio. It
 > L21: - .NET 10 SDK to run `dotnet tool install` and `dotnet tool update`. The SDK includes the .NET 10 and ASP.NET Core 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/AgentHosting.Cli 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
+```
+
+2026-11-19 10 → 2026-11-20 12（+2）
 
 
 ---

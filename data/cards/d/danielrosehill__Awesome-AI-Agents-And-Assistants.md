@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "danielrosehill/Awesome-AI-Agents-And-Assistants 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-20"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-11-08 12 → 2026-11-19 13（+1）
+2026-11-08 12 → 2026-11-20 13（+1）
 
 
 ---

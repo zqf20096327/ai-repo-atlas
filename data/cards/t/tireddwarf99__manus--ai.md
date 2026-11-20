@@ -1,6 +1,6 @@
 # tireddwarf99/manus--ai
 
-⭐ 179 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tireddwarf99/manus--ai) · 个人维护
+⭐ 178 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tireddwarf99/manus--ai) · 个人维护
 
 **面向日常小任务的自定义 AI Agent：自主跑代码与控制浏览器**
 
@@ -44,12 +44,12 @@ README 描述的自定义 AI Agent 系统：在沙盒环境中自主编写并执
 ```mermaid
 xychart-beta
     title "tireddwarf99/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 106 --> 264
-    line [119, 251, 179, 179]
+    line [119, 251, 179, 178]
 ```
 
-2026-11-13 119 → 2026-11-19 179（+60）
+2026-11-13 119 → 2026-11-20 178（+59）
 
 
 ---

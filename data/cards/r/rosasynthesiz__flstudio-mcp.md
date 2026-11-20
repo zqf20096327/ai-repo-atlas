@@ -1,6 +1,6 @@
 # rosasynthesiz/flstudio-mcp
 
-⭐ 146 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rosasynthesiz/flstudio-mcp) · 个人维护
+⭐ 148 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rosasynthesiz/flstudio-mcp) · 个人维护
 
 **用 Claude 等 AI 助手通过自然语言控制 FL Studio 的 MCP 服务器**
 
@@ -39,6 +39,18 @@
 
 > L18: `flstudio-mcp` is a Model Context Protocol (MCP) server that connects FL Studio to AI assistants: Claude Code, Clau
 > L116: - **Claude Code**, **Claude Desktop**, Cursor, Codex or any MCP client
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rosasynthesiz/flstudio-mcp 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 145 --> 149
+    line [146, 148]
+```
+
+2026-11-19 146 → 2026-11-20 148（+2）
 
 
 ---

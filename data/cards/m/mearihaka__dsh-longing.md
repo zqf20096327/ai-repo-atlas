@@ -1,6 +1,6 @@
 # mearihaka/dsh-longing
 
-⭐ 24 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/mearihaka/dsh-longing) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/mearihaka/dsh-longing) · 个人维护 · 中文 README
 
 **为 DSH 聊天机器人维护七维欲望状态机并注入给模型的插件**
 
@@ -45,13 +45,13 @@ DSH 框架的 TypeScript 插件：维护性欲/色情/占有/羞耻/理智/疲�
 
 ```mermaid
 xychart-beta
-    title "mearihaka/dsh-longing 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 7 --> 25
-    line [8, 12, 15, 18, 19, 20, 22, 23, 24]
+    title "mearihaka/dsh-longing 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 7 --> 26
+    line [8, 12, 15, 18, 19, 20, 22, 23, 24, 25]
 ```
 
-2026-11-10 8 → 2026-11-19 24（+16）
+2026-11-10 8 → 2026-11-20 25（+17）
 
 
 ---

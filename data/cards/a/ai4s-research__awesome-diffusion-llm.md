@@ -1,6 +1,6 @@
 # ai4s-research/awesome-diffusion-llm
 
-⭐ 12 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ai4s-research/awesome-diffusion-llm) · 组织维护
+⭐ 12 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ai4s-research/awesome-diffusion-llm) · 组织维护
 
 **扩散语言模型（dLLM）论文、模型与代码的策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai4s-research/awesome-diffusion-llm 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-11-08 10 → 2026-11-19 12（+2）
+2026-11-08 10 → 2026-11-20 12（+2）
 
 
 ---

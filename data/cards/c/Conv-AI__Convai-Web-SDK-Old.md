@@ -1,6 +1,6 @@
 # Conv-AI/Convai-Web-SDK-Old
 
-⭐ 19 · JavaScript · 推送 2026-09-16 · [GitHub](https://github.com/Conv-AI/Convai-Web-SDK-Old) · [官网](https://www.convai.com/) · 组织维护
+⭐ 20 · JavaScript · 推送 2026-09-16 · [GitHub](https://github.com/Conv-AI/Convai-Web-SDK-Old) · [官网](https://www.convai.com/) · 组织维护
 
 **在网页中接入 Convai 数字角色对话的 TypeScript SDK**
 
@@ -45,12 +45,12 @@ Convai 官方提供的 Web SDK，用于在浏览器应用中集成数字角色�
 ```mermaid
 xychart-beta
     title "Conv-AI/Convai-Web-SDK-Old 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 18 --> 21
-    line [20, 19, 19]
+    line [20, 19, 20]
 ```
 
-2026-10-18 20 → 2026-11-19 19（-1）
+2026-10-18 20 → 2026-11-20 20（+0）
 
 
 ---

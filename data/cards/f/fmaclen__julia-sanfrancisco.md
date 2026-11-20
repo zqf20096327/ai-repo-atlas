@@ -1,6 +1,6 @@
 # fmaclen/julia-sanfrancisco
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/fmaclen/julia-sanfrancisco) · [官网](https://julia.fernando.is) · 个人维护
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/fmaclen/julia-sanfrancisco) · [官网](https://julia.fernando.is) · 个人维护
 
 **用生成式 AI 制作素材的 Carmen Sandiego 风格网页侦探游戏**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fmaclen/julia-sanfrancisco 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-19 17（+0）
+2026-10-18 17 → 2026-11-20 18（+1）
 
 
 ---

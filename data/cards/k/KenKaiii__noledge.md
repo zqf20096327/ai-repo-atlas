@@ -1,6 +1,6 @@
 # KenKaiii/noledge
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/KenKaiii/noledge) · [官网](https://www.kenkais.com) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/KenKaiii/noledge) · [官网](https://www.kenkais.com) · 个人维护
 
 **本地运行的第二大脑：导入文档视频后直接问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "KenKaiii/noledge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

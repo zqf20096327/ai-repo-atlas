@@ -1,6 +1,6 @@
 # weir36/deep-research-langgraph
 
-⭐ 61 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/weir36/deep-research-langgraph) · 个人维护 · 中文 README
+⭐ 63 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/weir36/deep-research-langgraph) · 个人维护 · 中文 README
 
 **LangGraph 多 Agent 深度研究助手：可中断恢复、并行执行、引用治理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "weir36/deep-research-langgraph 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 0 --> 66
-    line [3, 49, 54, 56, 58, 60, 61]
+    title "weir36/deep-research-langgraph 星数(近 8 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 0 --> 69
+    line [3, 49, 54, 56, 58, 60, 61, 63]
 ```
 
-2026-11-02 3 → 2026-11-19 61（+58）
+2026-11-02 3 → 2026-11-20 63（+60）
 
 
 ---

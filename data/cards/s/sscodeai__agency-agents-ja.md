@@ -1,6 +1,6 @@
 # sscodeai/agency-agents-ja
 
-⭐ 10 · Shell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sscodeai/agency-agents-ja) · 个人维护 · 中文 README
+⭐ 10 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sscodeai/agency-agents-ja) · 个人维护 · 中文 README
 
 **面向日本IT交付的413个AI专业角色提示词库**
 
@@ -45,12 +45,12 @@ msitarzewski/agency-agents 的日语社区版，收录 413 个 AI 专家角色�
 ```mermaid
 xychart-beta
     title "sscodeai/agency-agents-ja 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-19"]
+    x-axis ["2026-10-23", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-19 10（+0）
+2026-10-23 10 → 2026-11-20 10（+0）
 
 
 ---

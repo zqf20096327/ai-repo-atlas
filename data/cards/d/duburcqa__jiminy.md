@@ -1,6 +1,6 @@
 # duburcqa/jiminy
 
-⭐ 302 · Jupyter Notebook · MIT · 推送 2026-11-04 · [GitHub](https://github.com/duburcqa/jiminy) · [官网](https://duburcqa.github.io/jiminy) · 个人维护
+⭐ 301 · Jupyter Notebook · MIT · 推送 2026-11-04 · [GitHub](https://github.com/duburcqa/jiminy) · [官网](https://duburcqa.github.io/jiminy) · 个人维护
 
 **面向机器人强化学习的快速多体动力学仿真器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "duburcqa/jiminy 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-19"]
-    y-axis "stars" 301 --> 303
-    line [302, 302]
+    x-axis ["2026-11-10", "2026-11-20"]
+    y-axis "stars" 300 --> 303
+    line [302, 301]
 ```
 
-2026-11-10 302 → 2026-11-19 302（+0）
+2026-11-10 302 → 2026-11-20 301（-1）
 
 
 ---

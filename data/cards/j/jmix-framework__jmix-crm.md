@@ -1,6 +1,6 @@
 # jmix-framework/jmix-crm
 
-⭐ 30 · Java · 推送 2026-11-18 · [GitHub](https://github.com/jmix-framework/jmix-crm) · [官网](https://demo.jmix.io/b2b-crm) · 组织维护
+⭐ 31 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jmix-framework/jmix-crm) · [官网](https://demo.jmix.io/b2b-crm) · 组织维护
 
 **基于 Jmix 的企业 B2B CRM 示例应用，内置 AI 助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jmix-framework/jmix-crm 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 26 --> 31
-    line [27, 28, 29, 27, 29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 26 --> 32
+    line [27, 28, 29, 27, 29, 30, 31]
 ```
 
-2026-10-18 27 → 2026-11-19 30（+3）
+2026-10-18 27 → 2026-11-20 31（+4）
 
 
 ---

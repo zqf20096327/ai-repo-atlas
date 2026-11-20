@@ -1,6 +1,6 @@
 # camgitt/memoir
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/camgitt/memoir) · [官网](https://memoir.sh) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/camgitt/memoir) · [官网](https://memoir.sh) · 个人维护
 
 **给编码 Agent 的跨工具持久记忆与项目交接工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "camgitt/memoir 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 13 --> 16
     line [14, 15, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-19 15（+1）
+2026-10-18 14 → 2026-11-20 15（+1）
 
 
 ---

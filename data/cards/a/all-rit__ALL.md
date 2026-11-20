@@ -1,6 +1,6 @@
 # all-rit/ALL
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/all-rit/ALL) · [官网](https://all.rit.edu) · 组织维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/all-rit/ALL) · [官网](https://all.rit.edu) · 组织维护
 
 **面向计算可访问性教育的自包含在线实验平台**
 
@@ -46,12 +46,12 @@ RIT 在 NSF 资助（Grant #1825023）下维护的 Accessible Learning Labs 项�
 ```mermaid
 xychart-beta
     title "all-rit/ALL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

@@ -45,12 +45,12 @@ MCP server 与 CLI，把 TickTick、Notion、GitHub、Obsidian、Airtable 等既
 ```mermaid
 xychart-beta
     title "renezander030/agentic-task-system 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-20"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-19 18（+2）
+2026-10-18 16 → 2026-11-20 18（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # justinlietz93/Cogito
 
-⭐ 16 · Python · MIT · 推送 2025-11-23 · [GitHub](https://github.com/justinlietz93/Cogito) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向科研文献的多智能体 AI 研究平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

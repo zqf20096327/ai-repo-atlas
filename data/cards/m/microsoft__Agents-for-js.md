@@ -1,6 +1,6 @@
 # microsoft/Agents-for-js
 
-⭐ 91 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Agents-for-js) · 组织维护
+⭐ 91 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/Agents-for-js) · 组织维护
 
 **微软官方的 Microsoft 365 Agent SDK JavaScript/TypeScript 组件库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Agents-for-js 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-20"]
     y-axis "stars" 89 --> 93
     line [90, 92, 91, 91]
 ```
 
-2026-10-18 90 → 2026-11-19 91（+1）
+2026-10-18 90 → 2026-11-20 91（+1）
 
 
 ---

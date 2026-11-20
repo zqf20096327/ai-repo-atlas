@@ -1,6 +1,6 @@
 # ds-kimi/Auris
 
-⭐ 41 · Lua · MIT · 推送 2026-08-24 · [GitHub](https://github.com/ds-kimi/Auris) · [官网](https://discord.gg/tnYU8DnkCe) · 个人维护
+⭐ 41 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ds-kimi/Auris) · [官网](https://discord.gg/tnYU8DnkCe) · 个人维护
 
 **Garry's Mod 服务器实时语音转文字模块（whisper.cpp）**
 
@@ -45,12 +45,12 @@ GMod 服务端二进制模块：通过进程内 SV_BroadcastVoiceData detour 捕
 ```mermaid
 xychart-beta
     title "ds-kimi/Auris 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 39 --> 42
     line [40, 41, 40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-19 41（+1）
+2026-10-18 40 → 2026-11-20 41（+1）
 
 
 ---

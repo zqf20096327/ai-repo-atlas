@@ -1,6 +1,6 @@
 # Auto-Vio/autovio
 
-⭐ 37 · TypeScript · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/Auto-Vio/autovio) · [官网](https://auto-vio.github.io/autovio-docs/) · 组织维护
+⭐ 38 · TypeScript · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/Auto-Vio/autovio) · [官网](https://auto-vio.github.io/autovio-docs/) · 组织维护
 
 **开源端到端 AI 视频生成流水线：文本提示生成 MP4**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "Auto-Vio/autovio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 31 --> 38
-    line [32, 33, 34, 33, 36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 31 --> 39
+    line [32, 33, 34, 33, 36, 37, 38]
 ```
 
-2026-10-18 32 → 2026-11-19 37（+5）
+2026-10-18 32 → 2026-11-20 38（+6）
 
 
 ---

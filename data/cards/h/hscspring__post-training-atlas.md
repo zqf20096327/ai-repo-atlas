@@ -1,6 +1,6 @@
 # hscspring/post-training-atlas
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/hscspring/post-training-atlas) · [官网](https://yam.gift) · 个人维护 · 中文 README
+⭐ 79 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/hscspring/post-training-atlas) · [官网](https://yam.gift) · 个人维护 · 中文 README
 
 **模型后训练论文策展图谱：7 条主线串联 RL/奖励/蒸馏等方法**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hscspring/post-training-atlas 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 78 --> 81
-    line [79, 80, 80]
+    line [79, 80, 79]
 ```
 
-2026-11-08 79 → 2026-11-19 80（+1）
+2026-11-08 79 → 2026-11-20 79（+0）
 
 
 ---

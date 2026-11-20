@@ -1,6 +1,6 @@
 # crowdin/skills
 
-⭐ 10 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/crowdin/skills) · 组织维护
+⭐ 10 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/crowdin/skills) · 组织维护
 
 **为 AI 编码 agent 提供 Crowdin 本地化知识的技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "crowdin/skills 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-19 10（+0）
+2026-11-08 10 → 2026-11-20 10（+0）
 
 
 ---

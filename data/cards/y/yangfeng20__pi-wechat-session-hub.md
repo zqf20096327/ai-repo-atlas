@@ -1,6 +1,6 @@
 # yangfeng20/pi-wechat-session-hub
 
-⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/yangfeng20/pi-wechat-session-hub) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/yangfeng20/pi-wechat-session-hub) · 个人维护 · 中文 README
 
 **用微信远程管理本机多个 Pi 会话的 Pi 扩展**
 
@@ -45,12 +45,12 @@ Pi WeChat Session Hub 是一个 Pi 扩展，通过独立后台 Gateway daemon �
 ```mermaid
 xychart-beta
     title "yangfeng20/pi-wechat-session-hub 星数(近 9 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
     y-axis "stars" 5 --> 22
     line [6, 7, 10, 11, 13, 14, 18, 21, 21]
 ```
 
-2026-10-31 6 → 2026-11-19 21（+15）
+2026-10-31 6 → 2026-11-20 21（+15）
 
 
 ---

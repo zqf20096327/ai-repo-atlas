@@ -1,6 +1,6 @@
 # microblink/blinkid-ios
 
-⭐ 401 · Swift · 推送 2026-11-04 · [GitHub](https://github.com/microblink/blinkid-ios) · [官网](http://microblink.github.io/blinkid-ios/) · 组织维护
+⭐ 400 · Swift · 推送 2026-11-04 · [GitHub](https://github.com/microblink/blinkid-ios) · [官网](http://microblink.github.io/blinkid-ios/) · 组织维护
 
 **iOS 开发者的 AI 证件扫描 SDK：识别多种身份证件**
 
@@ -45,12 +45,12 @@ Microblink 维护的 iOS 原生证件扫描 SDK，含核心 BlinkID 框架与可
 ```mermaid
 xychart-beta
     title "microblink/blinkid-ios 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-20"]
     y-axis "stars" 399 --> 402
-    line [401, 400, 401, 401]
+    line [401, 400, 401, 400]
 ```
 
-2026-10-18 401 → 2026-11-19 401（+0）
+2026-10-18 401 → 2026-11-20 400（-1）
 
 
 ---

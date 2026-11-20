@@ -1,6 +1,6 @@
 # PacificAI/langtest
 
-⭐ 561 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PacificAI/langtest) · [官网](http://langtest.org/) · 组织维护
+⭐ 560 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/PacificAI/langtest) · [官网](http://langtest.org/) · 组织维护
 
 **LLM/NLP 模型安全与质量评测库，60+ 类测试一行代码执行**
 
@@ -46,12 +46,12 @@ Python 评测库 LangTest，面向数据科学家与 NLP 从业者：对 NLP 模
 ```mermaid
 xychart-beta
     title "PacificAI/langtest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 560 --> 562
-    line [561, 561]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 559 --> 562
+    line [561, 560]
 ```
 
-2026-10-18 561 → 2026-11-19 561（+0）
+2026-10-18 561 → 2026-11-20 560（-1）
 
 
 ---

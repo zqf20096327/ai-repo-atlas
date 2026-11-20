@@ -1,6 +1,6 @@
 # sanidhyy/quill
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sanidhyy/quill) · [官网](https://ai-quill.vercel.app/) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sanidhyy/quill) · [官网](https://ai-quill.vercel.app/) · 个人维护
 
 **面向学生的 PDF 对话问答 SaaS 应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sanidhyy/quill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-19 27（+0）
+2026-10-18 27 → 2026-11-20 27（+0）
 
 
 ---

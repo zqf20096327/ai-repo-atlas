@@ -1,6 +1,6 @@
 # umutcandev/sepet
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/umutcandev/sepet) · [官网](https://www.trysepet.com) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/umutcandev/sepet) · [官网](https://www.trysepet.com) · 个人维护
 
 **AI 助手汇总土耳其连锁超市价格并优化购物车**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "umutcandev/sepet 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-14", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-14 10 → 2026-11-19 10（+0）
+2026-11-14 10 → 2026-11-20 11（+1）
 
 
 ---

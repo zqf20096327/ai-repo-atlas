@@ -1,6 +1,6 @@
 # Sarthzk/internship-tracker
 
-⭐ 154 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Sarthzk/internship-tracker) · [官网](https://t.me/tech_internships) · 个人维护
+⭐ 155 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Sarthzk/internship-tracker) · [官网](https://t.me/tech_internships) · 个人维护
 
 **自动追踪印度科技实习岗位的清单仓库，附 Telegram 提醒**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sarthzk/internship-tracker 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 118 --> 157
-    line [121, 133, 137, 141, 145, 148, 149, 151, 153, 154]
+    title "Sarthzk/internship-tracker 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 118 --> 158
+    line [121, 133, 137, 141, 145, 148, 149, 151, 153, 154, 155]
 ```
 
-2026-11-08 121 → 2026-11-19 154（+33）
+2026-11-08 121 → 2026-11-20 155（+34）
 
 
 ---

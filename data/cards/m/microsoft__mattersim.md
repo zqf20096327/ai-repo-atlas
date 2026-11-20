@@ -1,6 +1,6 @@
 # microsoft/mattersim
 
-⭐ 610 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/microsoft/mattersim) · [官网](https://microsoft.github.io/mattersim/) · 组织维护
+⭐ 611 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/microsoft/mattersim) · [官网](https://microsoft.github.io/mattersim/) · 组织维护
 
 **跨元素/温度/压力的深度学习原子间相互作用模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/mattersim 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 603 --> 611
-    line [604, 605, 606, 607, 608, 606, 610, 610]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 603 --> 612
+    line [604, 605, 606, 607, 608, 606, 610, 611]
 ```
 
-2026-10-18 604 → 2026-11-19 610（+6）
+2026-10-18 604 → 2026-11-20 611（+7）
 
 
 ---

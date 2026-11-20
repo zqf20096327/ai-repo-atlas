@@ -1,6 +1,6 @@
 # margelo/ai-chat-demo
 
-⭐ 194 · TypeScript · 推送 2026-08-05 · [GitHub](https://github.com/margelo/ai-chat-demo) · [官网](https://margelo.com/blog/building-native-llm-chat-app-with-rag) · 组织维护
+⭐ 193 · TypeScript · 推送 2026-08-05 · [GitHub](https://github.com/margelo/ai-chat-demo) · [官网](https://margelo.com/blog/building-native-llm-chat-app-with-rag) · 组织维护
 
 **React Native 的 ChatGPT 式移动聊天 demo，带 Margelo 知识库 RAG**
 
@@ -45,12 +45,12 @@ Margelo 出品的移动端聊天应用示例：基于 OpenAI Responses API，通
 ```mermaid
 xychart-beta
     title "margelo/ai-chat-demo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-20"]
     y-axis "stars" 191 --> 195
-    line [193, 192, 194, 194]
+    line [193, 192, 194, 193]
 ```
 
-2026-10-18 193 → 2026-11-19 194（+1）
+2026-10-18 193 → 2026-11-20 193（+0）
 
 
 ---

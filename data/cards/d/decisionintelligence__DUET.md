@@ -1,6 +1,6 @@
 # decisionintelligence/DUET
 
-⭐ 301 · Shell · MIT · 推送 2026-05-12 · [GitHub](https://github.com/decisionintelligence/DUET) · [官网](https://arxiv.org/pdf/2412.10859) · 组织维护 · 中文 README
+⭐ 304 · Shell · MIT · 推送 2026-05-12 · [GitHub](https://github.com/decisionintelligence/DUET) · [官网](https://arxiv.org/pdf/2412.10859) · 组织维护 · 中文 README
 
 **KDD'25 论文 DUET 的官方 PyTorch 实现：多变量时序预测模型**
 
@@ -45,12 +45,12 @@ DUET 是 KDD 2025 论文《Dual Clustering Enhanced Multivariate Time Series For
 ```mermaid
 xychart-beta
     title "decisionintelligence/DUET 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 295 --> 302
-    line [296, 297, 298, 299, 298, 300, 301, 301]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 295 --> 305
+    line [296, 297, 298, 299, 298, 300, 301, 304]
 ```
 
-2026-10-18 296 → 2026-11-19 301（+5）
+2026-10-18 296 → 2026-11-20 304（+8）
 
 
 ---

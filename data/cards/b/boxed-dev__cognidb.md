@@ -1,6 +1,6 @@
 # boxed-dev/cognidb
 
-⭐ 216 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/boxed-dev/cognidb) · 组织维护
+⭐ 215 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/boxed-dev/cognidb) · 组织维护
 
 **面向应用的 NL2SQL 安全层：自然语言转受控 SELECT SQL**
 
@@ -46,12 +46,12 @@ Python 库（非聊天产品），将自然语言转为面向 SELECT 的 SQL，�
 ```mermaid
 xychart-beta
     title "boxed-dev/cognidb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 215 --> 217
-    line [216, 216]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 214 --> 217
+    line [216, 215]
 ```
 
-2026-10-18 216 → 2026-11-19 216（+0）
+2026-10-18 216 → 2026-11-20 215（-1）
 
 
 ---

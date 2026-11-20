@@ -1,6 +1,6 @@
 # sinanuozdemir/oreilly-llm-rl-alignment
 
-⭐ 70 · Jupyter Notebook · 推送 2026-03-09 · [GitHub](https://github.com/sinanuozdemir/oreilly-llm-rl-alignment) · [官网](https://www.oreilly.com/live-events/reinforcement-learning-with-large-language-models/0636920095685) · 个人维护
+⭐ 71 · Jupyter Notebook · 推送 2026-03-09 · [GitHub](https://github.com/sinanuozdemir/oreilly-llm-rl-alignment) · [官网](https://www.oreilly.com/live-events/reinforcement-learning-with-large-language-models/0636920095685) · 个人维护
 
 **O'Reilly/Pearson LLM 对齐与强化学习课程的配套笔记本集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sinanuozdemir/oreilly-llm-rl-alignment 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 68 --> 71
-    line [69, 70, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 69, 70, 71]
 ```
 
-2026-10-18 69 → 2026-11-19 70（+1）
+2026-10-18 69 → 2026-11-20 71（+2）
 
 
 ---

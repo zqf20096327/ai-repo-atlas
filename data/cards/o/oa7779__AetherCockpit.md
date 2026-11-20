@@ -1,6 +1,6 @@
 # oa7779/AetherCockpit
 
-⭐ 20 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/oa7779/AetherCockpit) · 个人维护
+⭐ 20 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/oa7779/AetherCockpit) · 个人维护
 
 **Windows 系统管理驾驶舱，集成硬件监控、诊断与本地 AI 助手**
 
@@ -41,6 +41,18 @@
 > L104: Analyse und Änderung bleiben getrennt. AETHER ändert Windows nicht ungefragt.
 > L146: Windows und die Hardware liefern die eigentlichen Daten. Phi 4 Mini hilft
 > L151: **AETHER misst. Das Modell hilft beim Einordnen.**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "oa7779/AetherCockpit 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-19 20 → 2026-11-20 20（+0）
 
 
 ---

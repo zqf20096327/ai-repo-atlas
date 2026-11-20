@@ -1,6 +1,6 @@
 # kv-chiu/mcd-desktop-pet
 
-⭐ 91 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kv-chiu/mcd-desktop-pet) · [官网](https://www.bilibili.com/video/BV1DuJR6WE17) · 个人维护 · 中文 README
+⭐ 56 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kv-chiu/mcd-desktop-pet) · [官网](https://www.bilibili.com/video/BV1DuJR6WE17) · 个人维护 · 中文 README
 
 **麦当劳 MCP 桌面宠物「薯条小宝」：领券、营养查询与午休提醒**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kv-chiu/mcd-desktop-pet 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 0 --> 157
-    line [10, 32, 37, 38, 73, 144, 73, 91, 91]
+    line [10, 32, 37, 38, 73, 144, 73, 91, 56]
 ```
 
-2026-10-19 10 → 2026-11-19 91（+81）
+2026-10-19 10 → 2026-11-20 56（+46）
 
 
 ---

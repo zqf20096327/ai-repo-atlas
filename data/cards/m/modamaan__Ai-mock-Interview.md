@@ -1,6 +1,6 @@
 # modamaan/Ai-mock-Interview
 
-⭐ 121 · JavaScript · 推送 2026-07-29 · [GitHub](https://github.com/modamaan/Ai-mock-Interview) · [官网](https://mockinterview-platform.vercel.app) · 个人维护
+⭐ 120 · JavaScript · 推送 2026-07-29 · [GitHub](https://github.com/modamaan/Ai-mock-Interview) · [官网](https://mockinterview-platform.vercel.app) · 个人维护
 
 **求职者的 AI 模拟面试平台：AI 出题并反馈评分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "modamaan/Ai-mock-Interview 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 118 --> 122
-    line [119, 120, 121, 120, 121, 121]
+    line [119, 120, 121, 120, 121, 120]
 ```
 
-2026-10-18 119 → 2026-11-19 121（+2）
+2026-10-18 119 → 2026-11-20 120（+1）
 
 
 ---

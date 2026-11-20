@@ -1,6 +1,6 @@
 # maitbayev/the-elements-of-statistical-learning
 
-⭐ 433 · Jupyter Notebook · MIT · 推送 2026-02-10 · [GitHub](https://github.com/maitbayev/the-elements-of-statistical-learning) · 个人维护
+⭐ 432 · Jupyter Notebook · MIT · 推送 2026-02-10 · [GitHub](https://github.com/maitbayev/the-elements-of-statistical-learning) · 个人维护
 
 **《统计学习基础》教材的算法实现笔记（Jupyter）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "maitbayev/the-elements-of-statistical-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-20"]
     y-axis "stars" 430 --> 434
-    line [431, 432, 433, 433]
+    line [431, 432, 433, 432]
 ```
 
-2026-10-18 431 → 2026-11-19 433（+2）
+2026-10-18 431 → 2026-11-20 432（+1）
 
 
 ---

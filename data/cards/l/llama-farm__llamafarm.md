@@ -1,6 +1,6 @@
 # llama-farm/llamafarm
 
-⭐ 838 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/llama-farm/llamafarm) · [官网](https://llamafarm.dev) · 组织维护
+⭐ 837 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/llama-farm/llamafarm) · [官网](https://llamafarm.dev) · 组织维护
 
 **本地优先的开源 AI 平台：自建 RAG、训练分类器、异常检测与文档处理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "llama-farm/llamafarm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-15", "2026-11-20"]
     y-axis "stars" 835 --> 839
-    line [837, 836, 837, 838, 838]
+    line [837, 836, 837, 838, 837]
 ```
 
-2026-10-18 837 → 2026-11-19 838（+1）
+2026-10-18 837 → 2026-11-20 837（+0）
 
 
 ---

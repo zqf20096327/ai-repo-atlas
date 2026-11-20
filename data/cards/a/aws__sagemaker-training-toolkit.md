@@ -1,6 +1,6 @@
 # aws/sagemaker-training-toolkit
 
-⭐ 532 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aws/sagemaker-training-toolkit) · 组织维护
+⭐ 531 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aws/sagemaker-training-toolkit) · 组织维护
 
 **让任意 Docker 容器接入 SageMaker 训练的 Python 工具库**
 
@@ -45,12 +45,12 @@ AWS 官方库，可将训练脚本与依赖封装进 Docker 容器并使其兼�
 ```mermaid
 xychart-beta
     title "aws/sagemaker-training-toolkit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 529 --> 533
-    line [530, 531, 530, 531, 532, 532]
+    line [530, 531, 530, 531, 532, 531]
 ```
 
-2026-10-18 530 → 2026-11-19 532（+2）
+2026-10-18 530 → 2026-11-20 531（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nurettincoban/diff2ai
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/nurettincoban/diff2ai) · [官网](https://nurettincoban.github.io/diff2ai/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/nurettincoban/diff2ai) · [官网](https://nurettincoban.github.io/diff2ai/) · 个人维护
 
 **给开发者的 AI 代码评审 CLI：把 Git diff 编排为可溯源的评审**
 
@@ -46,12 +46,12 @@ npm 分发的 Node.js CLI，读取 Git diff 并构建带行号、提交信息与
 ```mermaid
 xychart-beta
     title "nurettincoban/diff2ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

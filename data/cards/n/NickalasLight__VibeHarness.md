@@ -41,6 +41,18 @@
 > L9: VibeHarness turns a 3B local model (VibeThinker-3B, served by Ollama) into a basic command-line coding agent. You ty
 > L41: - **Two-phase turns.** The model first reasons freely, then emits the action(s) under the schema constraint. (This 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NickalasLight/VibeHarness 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-19 11 → 2026-11-20 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `f84602703964` · [字段定义](../../DATASET.md)*

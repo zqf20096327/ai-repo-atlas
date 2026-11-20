@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "SiliconLabsSoftware/sisdk-release 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-19"]
+    x-axis ["2026-10-22", "2026-11-20"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-22 12 → 2026-11-19 12（+0）
+2026-10-22 12 → 2026-11-20 12（+0）
 
 
 ---

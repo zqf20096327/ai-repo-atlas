@@ -46,12 +46,12 @@ BioContextAI Registry 的一部分：把遵循 Claude Skills 格式（含 SKILL.
 ```mermaid
 xychart-beta
     title "biocontext-ai/skill-to-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-19 30（+1）
+2026-10-18 29 → 2026-11-20 30（+1）
 
 
 ---

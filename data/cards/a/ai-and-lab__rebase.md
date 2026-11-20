@@ -1,6 +1,6 @@
 # ai-and-lab/rebase
 
-⭐ 15 · 推送 2026-10-13 · [GitHub](https://github.com/ai-and-lab/rebase) · 组织维护
+⭐ 15 · 推送 2026-11-19 · [GitHub](https://github.com/ai-and-lab/rebase) · 组织维护
 
 **免训练上下文图像分割方法（ACCV 2026 Oral）的官方仓库**
 
@@ -44,12 +44,12 @@ REBASE 提出基于参考背景子空间消除的免训练上下文分割方法�
 ```mermaid
 xychart-beta
     title "ai-and-lab/rebase 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-19 15（+1）
+2026-10-18 14 → 2026-11-20 15（+1）
 
 
 ---

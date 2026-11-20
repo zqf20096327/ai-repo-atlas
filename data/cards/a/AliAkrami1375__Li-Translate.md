@@ -1,6 +1,6 @@
 # AliAkrami1375/Li-Translate
 
-⭐ 42 · Vue · 推送 2026-07-19 · [GitHub](https://github.com/AliAkrami1375/Li-Translate) · [官网](https://dibachain.ir/) · 个人维护
+⭐ 34 · Vue · 推送 2026-07-19 · [GitHub](https://github.com/AliAkrami1375/Li-Translate) · [官网](https://dibachain.ir/) · 个人维护
 
 **自托管的 AI 视频字幕生成与多语言翻译工作室**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AliAkrami1375/Li-Translate 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 40 --> 48
-    line [47, 44, 41, 42]
+    title "AliAkrami1375/Li-Translate 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 33 --> 48
+    line [47, 44, 41, 42, 34]
 ```
 
-2026-10-18 47 → 2026-11-19 42（-5）
+2026-10-18 47 → 2026-11-20 34（-13）
 
 
 ---

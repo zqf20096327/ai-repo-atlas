@@ -1,6 +1,6 @@
 # AliyunContainerService/data-on-ack
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/AliyunContainerService/data-on-ack) · [官网](https://aliyuncontainerservice.github.io/data-on-ack/) · 组织维护 · 中文 README
+⭐ 11 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AliyunContainerService/data-on-ack) · [官网](https://aliyuncontainerservice.github.io/data-on-ack/) · 组织维护 · 中文 README
 
 **面向 ML 工程师的阿里云 ACK 云原生 AI/ML 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AliyunContainerService/data-on-ack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 11（+0）
 
 
 ---

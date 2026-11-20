@@ -1,6 +1,6 @@
 # jopetkin-code/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/jopetkin-code/manus--ai) · 个人维护
+⭐ 196 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/jopetkin-code/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码与操作浏览器**
 
@@ -45,12 +45,12 @@ README 以营销式语言介绍 Manus：一个自主 AI agent，可在用户指�
 ```mermaid
 xychart-beta
     title "jopetkin-code/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 126 --> 282
-    line [139, 269, 197, 197]
+    line [139, 269, 197, 196]
 ```
 
-2026-11-13 139 → 2026-11-19 197（+58）
+2026-11-13 139 → 2026-11-20 196（+57）
 
 
 ---

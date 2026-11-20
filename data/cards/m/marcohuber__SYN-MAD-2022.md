@@ -40,6 +40,18 @@ IJCB 2022 上举办的 SYN-MAD-2022 竞赛官方仓库，主题为基于隐私�
 > L8: The synthetic training data that the competitors were allowed to use for training the morphing detectors was limited
 > L25: For the evaluation of the submissions a new benchmark, MAD22 has been created by the organizers of the competition.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "marcohuber/SYN-MAD-2022 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `0c057b4f1679` · [字段定义](../../DATASET.md)*

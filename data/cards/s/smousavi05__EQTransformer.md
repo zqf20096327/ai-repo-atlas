@@ -1,6 +1,6 @@
 # smousavi05/EQTransformer
 
-⭐ 420 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/smousavi05/EQTransformer) · [官网](https://rebrand.ly/EQT-documentations) · 个人维护
+⭐ 419 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/smousavi05/EQTransformer) · [官网](https://rebrand.ly/EQT-documentations) · 个人维护
 
 **地震信号检测与震相拾取的深度学习 Python 包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smousavi05/EQTransformer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 418 --> 421
-    line [419, 420, 419, 420, 419, 420, 420]
+    line [419, 420, 419, 420, 419, 420, 419]
 ```
 
-2026-10-18 419 → 2026-11-19 420（+1）
+2026-10-18 419 → 2026-11-20 419（+0）
 
 
 ---

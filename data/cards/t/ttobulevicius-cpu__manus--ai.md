@@ -1,6 +1,6 @@
 # ttobulevicius-cpu/manus--ai
 
-⭐ 185 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ttobulevicius-cpu/manus--ai) · 个人维护
+⭐ 184 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ttobulevicius-cpu/manus--ai) · 个人维护
 
 **面向个人日常任务的自主 AI Agent：代用户写代码并控制浏览器**
 
@@ -46,12 +46,12 @@ Manus 是一个自主 AI Agent 系统，在沙箱环境中运行工具与操作�
 ```mermaid
 xychart-beta
     title "ttobulevicius-cpu/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 112 --> 270
-    line [125, 257, 185, 185]
+    line [125, 257, 185, 184]
 ```
 
-2026-11-13 125 → 2026-11-19 185（+60）
+2026-11-13 125 → 2026-11-20 184（+59）
 
 
 ---

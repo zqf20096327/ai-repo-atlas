@@ -1,6 +1,6 @@
 # JuneYaooo/rea-toon
 
-⭐ 275 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/JuneYaooo/rea-toon) · 个人维护 · 中文 README
+⭐ 283 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/JuneYaooo/rea-toon) · 个人维护 · 中文 README
 
 **用 AI 拆解短剧的 CLI 工具：为何火、剧本与逐镜拍法**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuneYaooo/rea-toon 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 2 --> 299
-    line [26, 174, 222, 253, 275]
+    title "JuneYaooo/rea-toon 星数(近 6 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 1 --> 308
+    line [26, 174, 222, 253, 275, 283]
 ```
 
-2026-11-14 26 → 2026-11-19 275（+249）
+2026-11-14 26 → 2026-11-20 283（+257）
 
 
 ---

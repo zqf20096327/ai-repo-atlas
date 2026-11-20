@@ -1,6 +1,6 @@
 # satkynovilgiz/ML-road
 
-⭐ 18 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/satkynovilgiz/ML-road) · [官网](https://satkynovilgiz.github.io/ML-road/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/satkynovilgiz/ML-road) · [官网](https://satkynovilgiz.github.io/ML-road/) · 个人维护
 
 **机器学习到 AI agent 的学习路线图：资源与项目创意**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "satkynovilgiz/ML-road 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 5 --> 19
-    line [6, 12, 18, 18]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 5 --> 20
+    line [6, 12, 18, 19]
 ```
 
-2026-10-28 6 → 2026-11-19 18（+12）
+2026-10-28 6 → 2026-11-20 19（+13）
 
 
 ---

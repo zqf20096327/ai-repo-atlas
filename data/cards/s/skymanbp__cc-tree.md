@@ -1,6 +1,6 @@
 # skymanbp/cc-tree
 
-⭐ 80 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/skymanbp/cc-tree) · [官网](https://github.com/skymanbp/cc-tree#readme) · 个人维护 · 中文 README
+⭐ 75 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/skymanbp/cc-tree) · [官网](https://github.com/skymanbp/cc-tree#readme) · 个人维护 · 中文 README
 
 **Claude Code 插件：以可审计的径向树结构做发散与对抗式探索**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "skymanbp/cc-tree 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 78 --> 104
-    line [102, 94, 95, 94, 80, 80]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 73 --> 104
+    line [102, 94, 95, 94, 80, 75]
 ```
 
-2026-10-18 102 → 2026-11-19 80（-22）
+2026-10-18 102 → 2026-11-20 75（-27）
 
 
 ---

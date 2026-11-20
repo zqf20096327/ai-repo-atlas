@@ -1,6 +1,6 @@
 # mraza007/minute
 
-⭐ 30 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/mraza007/minute) · [官网](https://minutenotes.app) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mraza007/minute) · [官网](https://minutenotes.app) · 个人维护
 
 **macOS 离线 AI 会议记录应用：录音、转写、摘要全在本机**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mraza007/minute 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 20 --> 31
-    line [21, 22, 28, 30]
+    title "mraza007/minute 星数(近 5 点)"
+    x-axis ["2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 20 --> 32
+    line [21, 22, 28, 30, 31]
 ```
 
-2026-11-11 21 → 2026-11-19 30（+9）
+2026-11-11 21 → 2026-11-20 31（+10）
 
 
 ---

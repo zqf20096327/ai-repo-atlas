@@ -1,6 +1,6 @@
 # Hyr1sky/TheGrandQuiz
 
-⭐ 56 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Hyr1sky/TheGrandQuiz) · 个人维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Hyr1sky/TheGrandQuiz) · 个人维护 · 中文 README
 
 **考核驱动的本地个人学习 Agent：材料入库、对话、逐题考核与薄弱点复考**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hyr1sky/TheGrandQuiz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
 ```
 
-2026-10-18 56 → 2026-11-19 56（+0）
+2026-10-18 56 → 2026-11-20 57（+1）
 
 
 ---

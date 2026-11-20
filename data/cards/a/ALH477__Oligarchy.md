@@ -1,6 +1,6 @@
 # ALH477/Oligarchy
 
-⭐ 51 · Nix · BSD-3-Clause · 推送 2026-10-12 · [GitHub](https://github.com/ALH477/Oligarchy) · 个人维护
+⭐ 52 · Nix · BSD-3-Clause · 推送 2026-10-12 · [GitHub](https://github.com/ALH477/Oligarchy) · 个人维护
 
 **个人维护的一体化 NixOS 桌面平台：实时音频/开发/游戏/本地 AI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ALH477/Oligarchy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52]
 ```
 
-2026-10-18 50 → 2026-11-19 51（+1）
+2026-10-18 50 → 2026-11-20 52（+2）
 
 
 ---

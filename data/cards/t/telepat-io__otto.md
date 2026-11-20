@@ -1,6 +1,6 @@
 # telepat-io/otto
 
-⭐ 25 · TypeScript · 推送 2026-06-25 · [GitHub](https://github.com/telepat-io/otto) · [官网](http://docs.telepat.io/otto/) · 组织维护 · 中文 README
+⭐ 23 · TypeScript · 推送 2026-06-25 · [GitHub](https://github.com/telepat-io/otto) · [官网](http://docs.telepat.io/otto/) · 组织维护 · 中文 README
 
 **面向开发者的真实浏览器远程自动化平台，供 agent 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "telepat-io/otto 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 24 --> 30
-    line [29, 27, 26, 25, 25]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 22 --> 30
+    line [29, 27, 26, 25, 23]
 ```
 
-2026-10-18 29 → 2026-11-19 25（-4）
+2026-10-18 29 → 2026-11-20 23（-6）
 
 
 ---

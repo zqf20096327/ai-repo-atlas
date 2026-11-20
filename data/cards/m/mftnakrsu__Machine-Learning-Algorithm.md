@@ -36,6 +36,18 @@
 
 > L1: # Machine-Learning-Algorithm
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mftnakrsu/Machine-Learning-Algorithm 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-19 15 → 2026-11-20 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 low · 依据 README sha `5e9df17e510f` · [字段定义](../../DATASET.md)*

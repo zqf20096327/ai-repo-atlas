@@ -1,6 +1,6 @@
 # RioShiina47/comfy-webui
 
-⭐ 117 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/RioShiina47/comfy-webui) · [官网](https://huggingface.co/spaces/RioShiina/ImageGen) · 个人维护
+⭐ 117 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/RioShiina47/comfy-webui) · [官网](https://huggingface.co/spaces/RioShiina/ImageGen) · 个人维护
 
 **把 ComfyUI 工作流封装为 Gradio UI、语义 API 与 MCP 工具的平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RioShiina47/comfy-webui 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 114 --> 121
     line [120, 115, 116, 117, 115, 117, 117]
 ```
 
-2026-10-18 120 → 2026-11-19 117（-3）
+2026-10-18 120 → 2026-11-20 117（-3）
 
 
 ---

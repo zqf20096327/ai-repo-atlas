@@ -1,6 +1,6 @@
 # Vir-Multiplicis/ai-frameworks
 
-⭐ 31 · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Vir-Multiplicis/ai-frameworks) · 个人维护
+⭐ 31 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Vir-Multiplicis/ai-frameworks) · 个人维护
 
 **面向 AI 安全与对齐的推理时提示词框架集合（ELT）**
 
@@ -45,12 +45,12 @@ Vir Multiplicis 随 Medium 系列 Web 文章开发的提示词框架仓库：以
 ```mermaid
 xychart-beta
     title "Vir-Multiplicis/ai-frameworks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
     y-axis "stars" 27 --> 32
     line [28, 29, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-19 31（+3）
+2026-10-18 28 → 2026-11-20 31（+3）
 
 
 ---

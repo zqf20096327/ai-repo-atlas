@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dasein108/freqtrade_dev_mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "dasein108/freqtrade_dev_mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

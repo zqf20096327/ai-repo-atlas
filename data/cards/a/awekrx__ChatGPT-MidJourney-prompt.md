@@ -1,6 +1,6 @@
 # awekrx/ChatGPT-MidJourney-prompt
 
-⭐ 346 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/awekrx/ChatGPT-MidJourney-prompt) · 个人维护
+⭐ 347 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/awekrx/ChatGPT-MidJourney-prompt) · 个人维护
 
 **为 MidJourney 生成创意提示词的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "awekrx/ChatGPT-MidJourney-prompt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 343 --> 347
-    line [344, 345, 346, 346]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 343 --> 348
+    line [344, 345, 346, 347]
 ```
 
-2026-10-18 344 → 2026-11-19 346（+2）
+2026-10-18 344 → 2026-11-20 347（+3）
 
 
 ---

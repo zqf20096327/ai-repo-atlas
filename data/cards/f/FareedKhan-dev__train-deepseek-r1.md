@@ -1,6 +1,6 @@
 # FareedKhan-dev/train-deepseek-r1
 
-⭐ 808 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/train-deepseek-r1) · [官网](https://medium.com/@fareedkhandev/building-deepseek-r1-from-scratch-using-python-a967fbfdaac4) · 个人维护
+⭐ 809 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/train-deepseek-r1) · [官网](https://medium.com/@fareedkhandev/building-deepseek-r1-from-scratch-using-python-a967fbfdaac4) · 个人维护
 
 **从零复现 DeepSeek R1 训练流程的教程与代码仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/train-deepseek-r1 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 806 --> 809
-    line [807, 808, 808]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 806 --> 810
+    line [807, 808, 809]
 ```
 
-2026-11-16 807 → 2026-11-19 808（+1）
+2026-11-16 807 → 2026-11-20 809（+2）
 
 
 ---

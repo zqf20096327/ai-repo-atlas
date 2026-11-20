@@ -1,6 +1,6 @@
 # santanu-atta03/Intervyo
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/santanu-atta03/Intervyo) · [官网](https://intervyo.tech) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/santanu-atta03/Intervyo) · [官网](https://intervyo.tech) · 个人维护
 
 **面向求职者的 AI 模拟面试平台，提供结构化评估与反馈**
 
@@ -46,12 +46,12 @@ Web 应用，用 LLM 模拟技术、行为及混合面试：限时提问、根�
 ```mermaid
 xychart-beta
     title "santanu-atta03/Intervyo 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-19"]
+    x-axis ["2026-11-10", "2026-11-20"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-11-10 16 → 2026-11-19 16（+0）
+2026-11-10 16 → 2026-11-20 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kevinhughes27/TensorKart
 
-⭐ 1,575 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/kevinhughes27/TensorKart) · 个人维护
+⭐ 1,574 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/kevinhughes27/TensorKart) · 个人维护
 
 **用 TensorFlow 训练 AI 自动驾驶 MarioKart 64 的项目**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevinhughes27/TensorKart 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19"]
+    title "kevinhughes27/TensorKart 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
     y-axis "stars" 1573 --> 1576
-    line [1575, 1574, 1575, 1574, 1575]
+    line [1575, 1574, 1575, 1574, 1575, 1574]
 ```
 
-2026-10-18 1,575 → 2026-11-19 1,575（+0）
+2026-10-18 1,575 → 2026-11-20 1,574（-1）
 
 
 ---

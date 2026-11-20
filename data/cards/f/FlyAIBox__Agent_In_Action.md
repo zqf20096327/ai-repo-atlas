@@ -1,6 +1,6 @@
 # FlyAIBox/Agent_In_Action
 
-⭐ 216 · Jupyter Notebook · MIT · 推送 2026-01-23 · [GitHub](https://github.com/FlyAIBox/Agent_In_Action) · [官网](https://u.geekbang.org/subject/intro/1010961&utm_source=jksj-AgenticAI-jksjznty-1124&utm_content=jksj-AgenticAI-jksjznty-1124&utm_term=jksj-AgenticAI-jksjznty-1124?utm_term=pc_interstitial_2063) · 个人维护 · 中文 README
+⭐ 217 · Jupyter Notebook · MIT · 推送 2026-01-23 · [GitHub](https://github.com/FlyAIBox/Agent_In_Action) · [官网](https://u.geekbang.org/subject/intro/1010961&utm_source=jksj-AgenticAI-jksjznty-1124&utm_content=jksj-AgenticAI-jksjznty-1124&utm_term=jksj-AgenticAI-jksjznty-1124?utm_term=pc_interstitial_2063) · 个人维护 · 中文 README
 
 **面向中高级学习者的企业级 AI 智能体实战课程（6 个项目）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FlyAIBox/Agent_In_Action 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 200 --> 217
-    line [201, 202, 204, 205, 206, 207, 205, 212, 214, 215, 216, 216]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 200 --> 218
+    line [201, 202, 204, 205, 206, 207, 205, 212, 214, 215, 216, 217]
 ```
 
-2026-10-18 201 → 2026-11-19 216（+15）
+2026-10-18 201 → 2026-11-20 217（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ritrls/dream-arcade-demo
 
-⭐ 99 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Ritrls/dream-arcade-demo) · [官网](https://ritrls.github.io/dream-arcade-demo/) · 个人维护 · 中文 README
+⭐ 100 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Ritrls/dream-arcade-demo) · [官网](https://ritrls.github.io/dream-arcade-demo/) · 个人维护 · 中文 README
 
 **用自然语言生成单位的浏览器小游戏演示（塔防/RTS/矿场）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ritrls/dream-arcade-demo 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 28 --> 105
-    line [34, 56, 67, 76, 79, 94, 96, 97, 99, 99]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 28 --> 106
+    line [34, 56, 67, 76, 79, 94, 96, 97, 99, 100]
 ```
 
-2026-11-08 34 → 2026-11-19 99（+65）
+2026-11-08 34 → 2026-11-20 100（+66）
 
 
 ---

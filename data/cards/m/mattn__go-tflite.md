@@ -1,6 +1,6 @@
 # mattn/go-tflite
 
-⭐ 323 · Jupyter Notebook · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mattn/go-tflite) · 个人维护
+⭐ 322 · Jupyter Notebook · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mattn/go-tflite) · 个人维护
 
 **TensorFlow Lite 的 Go 语言绑定库，供 Go 加载运行 tflite 模型**
 
@@ -46,12 +46,12 @@ Go binding，封装 TensorFlow Lite C API（libtensorflowlite_c.so），供 Go �
 ```mermaid
 xychart-beta
     title "mattn/go-tflite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 321 --> 324
-    line [322, 323, 323]
+    line [322, 323, 322]
 ```
 
-2026-10-18 322 → 2026-11-19 323（+1）
+2026-10-18 322 → 2026-11-20 322（+0）
 
 
 ---

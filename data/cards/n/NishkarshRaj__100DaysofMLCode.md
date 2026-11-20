@@ -1,6 +1,6 @@
 # NishkarshRaj/100DaysofMLCode
 
-⭐ 341 · Jupyter Notebook · MIT · 推送 2026-02-16 · [GitHub](https://github.com/NishkarshRaj/100DaysofMLCode) · [官网](http://github.com/NishkarshRaj) · 个人维护
+⭐ 340 · Jupyter Notebook · MIT · 推送 2026-02-16 · [GitHub](https://github.com/NishkarshRaj/100DaysofMLCode) · [官网](http://github.com/NishkarshRaj) · 个人维护
 
 **个人机器学习百日挑战学习日志与社区贡献项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "NishkarshRaj/100DaysofMLCode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 340 --> 343
-    line [341, 342, 341, 341]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 339 --> 343
+    line [341, 342, 341, 340]
 ```
 
-2026-10-18 341 → 2026-11-19 341（+0）
+2026-10-18 341 → 2026-11-20 340（-1）
 
 
 ---

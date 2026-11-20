@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KuudoAI/amazon-ads-mcp 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
+    title "KuudoAI/amazon-ads-mcp 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 72 --> 76
-    line [73, 75]
+    line [73, 75, 75]
 ```
 
-2026-11-18 73 → 2026-11-19 75（+2）
+2026-11-18 73 → 2026-11-20 75（+2）
 
 
 ---

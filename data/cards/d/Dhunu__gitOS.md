@@ -1,6 +1,6 @@
 # Dhunu/gitOS
 
-⭐ 23 · Swift · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Dhunu/gitOS) · [官网](https://gitos.angelsaikia.com) · 个人维护
+⭐ 24 · Swift · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Dhunu/gitOS) · [官网](https://gitos.angelsaikia.com) · 个人维护
 
 **原生 macOS Git 客户端：按文件夹/仓库自动切换 GitHub 多账号**
 
@@ -46,12 +46,12 @@ SwiftUI 编写的原生 macOS Git 客户端（需 macOS 26+、Apple Silicon）�
 ```mermaid
 xychart-beta
     title "Dhunu/gitOS 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 16 --> 24
-    line [17, 21, 22, 23, 23]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 16 --> 25
+    line [17, 21, 22, 23, 24]
 ```
 
-2026-11-08 17 → 2026-11-19 23（+6）
+2026-11-08 17 → 2026-11-20 24（+7）
 
 
 ---

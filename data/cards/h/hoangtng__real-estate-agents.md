@@ -1,6 +1,6 @@
 # hoangtng/real-estate-agents
 
-⭐ 33 · MIT · 推送 2026-05-15 · [GitHub](https://github.com/hoangtng/real-estate-agents) · 个人维护
+⭐ 32 · MIT · 推送 2026-05-15 · [GitHub](https://github.com/hoangtng/real-estate-agents) · 个人维护
 
 **面向 Claude 的房地产垂直 agent 与技能库：12 个角色 + 12 个交付技能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hoangtng/real-estate-agents 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
     y-axis "stars" 26 --> 34
-    line [27, 28, 31, 32, 33, 33]
+    line [27, 28, 31, 32, 33, 32]
 ```
 
-2026-10-18 27 → 2026-11-19 33（+6）
+2026-10-18 27 → 2026-11-20 32（+5）
 
 
 ---

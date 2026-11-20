@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chickadee-project/chickadee_studio 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-19"]
+    x-axis ["2026-10-28", "2026-11-20"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-28 16 → 2026-11-19 16（+0）
+2026-10-28 16 → 2026-11-20 16（+0）
 
 
 ---

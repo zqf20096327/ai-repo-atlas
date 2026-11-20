@@ -1,6 +1,6 @@
 # aleksa-codes/astro-portfolio
 
-⭐ 29 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/aleksa-codes/astro-portfolio) · [官网](https://aleksa.codes) · 个人维护
+⭐ 29 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/aleksa-codes/astro-portfolio) · [官网](https://aleksa.codes) · 个人维护
 
 **带 AI 聊天助手与博客的个人作品集网站模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aleksa-codes/astro-portfolio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-20"]
     y-axis "stars" 28 --> 31
     line [29, 30, 29, 29]
 ```
 
-2026-10-18 29 → 2026-11-19 29（+0）
+2026-10-18 29 → 2026-11-20 29（+0）
 
 
 ---

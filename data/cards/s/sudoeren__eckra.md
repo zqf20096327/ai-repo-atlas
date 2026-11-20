@@ -1,6 +1,6 @@
 # sudoeren/eckra
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/sudoeren/eckra) · [官网](https://www.npmjs.com/package/eckra) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sudoeren/eckra) · [官网](https://www.npmjs.com/package/eckra) · 个人维护
 
 **带 AI 提交信息与项目故事的交互式 Git 管理工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sudoeren/eckra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-19 12（+0）
+2026-10-18 12 → 2026-11-20 12（+0）
 
 
 ---

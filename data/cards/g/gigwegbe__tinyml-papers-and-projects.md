@@ -1,6 +1,6 @@
 # gigwegbe/tinyml-papers-and-projects
 
-⭐ 1,037 · MIT · 推送 2025-12-08 · [GitHub](https://github.com/gigwegbe/tinyml-papers-and-projects) · 个人维护
+⭐ 1,036 · MIT · 推送 2025-12-08 · [GitHub](https://github.com/gigwegbe/tinyml-papers-and-projects) · 个人维护
 
 **TinyML 论文与项目精选清单：面向嵌入式机器学习研究者**
 
@@ -45,12 +45,12 @@ TinyML 领域的策展清单：按年份（2016-2025）收录论文条目，覆�
 ```mermaid
 xychart-beta
     title "gigwegbe/tinyml-papers-and-projects 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-12", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-12", "2026-11-15", "2026-11-20"]
     y-axis "stars" 1034 --> 1038
-    line [1036, 1035, 1036, 1035, 1036, 1037, 1037]
+    line [1036, 1035, 1036, 1035, 1036, 1037, 1036]
 ```
 
-2026-10-18 1,036 → 2026-11-19 1,037（+1）
+2026-10-18 1,036 → 2026-11-20 1,036（+0）
 
 
 ---

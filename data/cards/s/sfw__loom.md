@@ -1,6 +1,6 @@
 # sfw/loom
 
-⭐ 80 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sfw/loom) · 个人维护
+⭐ 79 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sfw/loom) · 个人维护
 
 **桌面/终端 LLM 执行 harness：分解任务并逐步验证驱动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sfw/loom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "sfw/loom 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 78 --> 81
-    line [79, 80]
+    line [79, 80, 79]
 ```
 
-2026-10-18 79 → 2026-11-19 80（+1）
+2026-10-18 79 → 2026-11-20 79（+0）
 
 
 ---

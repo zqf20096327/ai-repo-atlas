@@ -1,6 +1,6 @@
 # kr0ner/multistage-assist
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-04-10 · [GitHub](https://github.com/kr0ner/multistage-assist) · [官网](https://github.com/kr0ner/multistage-assist) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-04-10 · [GitHub](https://github.com/kr0ner/multistage-assist) · [官网](https://github.com/kr0ner/multistage-assist) · 个人维护
 
 **给 Home Assistant 用户的多级本地语音/对话助手集成**
 
@@ -46,12 +46,12 @@ Home Assistant 自定义集成，通过四个处理阶段编排对话代理：St
 ```mermaid
 xychart-beta
     title "kr0ner/multistage-assist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-18 16 → 2026-11-19 16（+0）
+2026-10-18 16 → 2026-11-20 15（-1）
 
 
 ---

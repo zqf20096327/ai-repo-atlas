@@ -1,6 +1,6 @@
 # storied-inc/quiet-confidence
 
-⭐ 10 · CC-BY-4.0 · 推送 2026-10-15 · [GitHub](https://github.com/storied-inc/quiet-confidence) · [官网](https://www.storiedinc.com/storied-ai) · 组织维护
+⭐ 11 · CC-BY-4.0 · 推送 2026-10-15 · [GitHub](https://github.com/storied-inc/quiet-confidence) · [官网](https://www.storiedinc.com/storied-ai) · 组织维护
 
 **高风险沟通的语气重写系统：以资本配置者口吻改写职场文书**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "storied-inc/quiet-confidence 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-20"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-19 10（+0）
+2026-11-08 10 → 2026-11-20 11（+1）
 
 
 ---

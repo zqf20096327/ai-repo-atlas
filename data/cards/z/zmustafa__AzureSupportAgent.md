@@ -1,6 +1,6 @@
 # zmustafa/AzureSupportAgent
 
-⭐ 47 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/zmustafa/AzureSupportAgent) · [官网](https://github.com/zmustafa/AzureSupportAgent) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/zmustafa/AzureSupportAgent) · [官网](https://github.com/zmustafa/AzureSupportAgent) · 个人维护
 
 **面向 Azure 运维的 AI 工作台：租户对话、多智能体调查与治理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zmustafa/AzureSupportAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 42 --> 48
+    line [47, 43]
 ```
 
-2026-10-18 47 → 2026-11-19 47（+0）
+2026-10-18 47 → 2026-11-20 43（-4）
 
 
 ---

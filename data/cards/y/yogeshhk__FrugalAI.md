@@ -1,6 +1,6 @@
 # yogeshhk/FrugalAI
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/yogeshhk/FrugalAI) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/yogeshhk/FrugalAI) · 个人维护
 
 **在旧笔记本与树莓派上运行的低成本本地 AI 应用与配方集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yogeshhk/FrugalAI 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-11-01", "2026-11-13", "2026-11-15", "2026-11-19"]
+    title "yogeshhk/FrugalAI 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-01", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20"]
     y-axis "stars" 5 --> 12
-    line [6, 7, 8, 9, 10, 11]
+    line [6, 7, 8, 9, 10, 11, 11]
 ```
 
-2026-10-26 6 → 2026-11-19 11（+5）
+2026-10-26 6 → 2026-11-20 11（+5）
 
 
 ---

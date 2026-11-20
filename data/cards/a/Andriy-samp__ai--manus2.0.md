@@ -1,10 +1,10 @@
 # Andriy-samp/ai--manus2.0
 
-⭐ 62 · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Andriy-samp/ai--manus2.0) · 个人维护
+⭐ 57 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Andriy-samp/ai--manus2.0) · 个人维护
 
-**面向个人用户的自主 AI Agent，可代为执行代码与浏览器操作**
+**自主 AI Agent 系统：代用户运行代码与控制浏览器完成任务**
 
-README 描述 Manus 为通用自主 AI Agent：代表用户运行代码脚本、控制浏览器（导航网页、填写表单、采集信息），并以后台个人助手形式处理多步任务。定位为面向家庭、学习与轻量办公场景的辅助工具，强调无需编程背景、跨会话保持任务模式。文中提供兼容性要求表（64 位系统、4GB 起 RAM）与六步启动流程，未给出具体安装命令或下载链接细节。
+README 将其描述为一个自主 AI Agent：可自行编写并执行脚本、控制浏览器导航网页/填写表单/采集信息，把多步指令拆解为自动完成的任务，定位于家庭、学习与轻度办公场景的小型任务自动化。内容未给出安装命令、源码结构或 API 配置说明，仅有下载入口与最低配置表（64 位系统、双核 CPU、4GB 内存）。主题标签含 openai、anthropic、function-calling、multimodal，但正文未展开技术实现细节。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ README 描述 Manus 为通用自主 AI Agent：代表用户运行代码脚本、
 
 ## 能力要点
 
-- 自主执行代码脚本完成任务
-- 浏览器控制：导航、填表、采集信息
-- 后台个人助手形式处理多步日常任务
-- 提供系统/内存等兼容性要求表
+- 自主代码执行：Agent 自行运行脚本完成任务
+- 浏览器控制：导航网页、填写表单、采集信息
+- 后台个人助理模式，跨会话保持任务模式
+- 提供系统最低配置要求（4GB 内存起步）
 
 ## 适用场景
 
-- 收集资料并整理学习笔记
-- 从多个网页采集数据
-- 自动化重复性文件检查与小脚本测试
+- 让学生整理研究资料并运行小段脚本计算
+- 远程办公时从多个网页自动采集数据
+- 把重复的表单填写与文件整理交给 Agent 处理
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` · 领域:效率与自动化
+ · 领域:AI Agent/自动化工具
 
 ## 证据(README 行号)
 
-> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
+> L22: Manus is not a heavy studio suite or a complex enterprise platform. It is a focused helper built for home, study, a
+> L41: |**Memory (RAM)**|4 GB|8 GB or more for heavy Manus autonomous tasks|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Andriy-samp/ai--manus2.0 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-19"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-11-18", "2026-11-20"]
+    y-axis "stars" 56 --> 63
+    line [62, 57]
 ```
 
-2026-11-18 62 → 2026-11-19 62（+0）
+2026-11-18 62 → 2026-11-20 57（-5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `52f78133c85b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `202c1bf76f25` · [字段定义](../../DATASET.md)*

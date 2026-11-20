@@ -1,6 +1,6 @@
 # kazupon/gunshi
 
-⭐ 480 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kazupon/gunshi) · [官网](https://gunshi.dev) · 个人维护
+⭐ 480 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/kazupon/gunshi) · [官网](https://gunshi.dev) · 个人维护
 
 **面向人类与 AI Agent 的 JavaScript 命令行库**
 
@@ -45,12 +45,12 @@ JavaScript/TypeScript 命令行构建库，提供声明式命令配置、基于 
 ```mermaid
 xychart-beta
     title "kazupon/gunshi 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-20"]
     y-axis "stars" 478 --> 481
     line [479, 480, 480]
 ```
 
-2026-11-13 479 → 2026-11-19 480（+1）
+2026-11-13 479 → 2026-11-20 480（+1）
 
 
 ---

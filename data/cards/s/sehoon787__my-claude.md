@@ -1,6 +1,6 @@
 # sehoon787/my-claude
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sehoon787/my-claude) · [官网](https://sehoon787.github.io/my-claude/) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sehoon787/my-claude) · [官网](https://sehoon787.github.io/my-claude/) · 个人维护
 
 **Claude Code 一体化 agent 编组套件：Boss 编排器+32 agents+139 skills**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sehoon787/my-claude 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 15 --> 18
     line [17, 16, 16]
 ```
 
-2026-10-18 17 → 2026-11-19 16（-1）
+2026-10-18 17 → 2026-11-20 16（-1）
 
 
 ---

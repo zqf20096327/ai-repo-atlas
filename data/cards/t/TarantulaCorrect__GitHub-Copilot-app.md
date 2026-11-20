@@ -1,6 +1,6 @@
 # TarantulaCorrect/GitHub-Copilot-app
 
-⭐ 377 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TarantulaCorrect/GitHub-Copilot-app) · 组织维护
+⭐ 376 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TarantulaCorrect/GitHub-Copilot-app) · 组织维护
 
 **桌面端 Copilot 代理工作台：跨仓库发现、运行与落地开发任务**
 
@@ -47,12 +47,12 @@ GitHub 维护的代理驱动桌面应用：在一个控制中心内跨 GitHub �
 ```mermaid
 xychart-beta
     title "TarantulaCorrect/GitHub-Copilot-app 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 376 --> 379
-    line [378, 377, 377]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 375 --> 379
+    line [378, 377, 376]
 ```
 
-2026-11-15 378 → 2026-11-19 377（-1）
+2026-11-15 378 → 2026-11-20 376（-2）
 
 
 ---

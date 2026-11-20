@@ -1,6 +1,6 @@
 # fastmachinelearning/qonnx
 
-⭐ 196 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/fastmachinelearning/qonnx) · [官网](https://qonnx.readthedocs.io/) · 组织维护
+⭐ 197 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/fastmachinelearning/qonnx) · [官网](https://qonnx.readthedocs.io/) · 组织维护
 
 **在 ONNX 中表示任意精度量化神经网络的算子与 Python 工具库**
 
@@ -45,12 +45,12 @@ QONNX 定义 IntQuant、FloatQuant、BipolarQuant、Trunc 等自定义算子，�
 ```mermaid
 xychart-beta
     title "fastmachinelearning/qonnx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 193 --> 197
-    line [194, 195, 196, 196]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 193 --> 198
+    line [194, 195, 196, 197]
 ```
 
-2026-10-18 194 → 2026-11-19 196（+2）
+2026-10-18 194 → 2026-11-20 197（+3）
 
 
 ---

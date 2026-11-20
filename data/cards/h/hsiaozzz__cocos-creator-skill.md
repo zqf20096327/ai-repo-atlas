@@ -1,6 +1,6 @@
 # hsiaozzz/cocos-creator-skill
 
-⭐ 23 · JavaScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/hsiaozzz/cocos-creator-skill) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/hsiaozzz/cocos-creator-skill) · 个人维护 · 中文 README
 
 **给 AI 编程 Agent 注入 Cocos Creator 游戏开发专长的技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hsiaozzz/cocos-creator-skill 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 14 --> 24
-    line [15, 16, 17, 18, 19, 20, 21, 17, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 14 --> 26
+    line [15, 16, 17, 18, 19, 20, 21, 17, 22, 23, 25]
 ```
 
-2026-10-18 15 → 2026-11-19 23（+8）
+2026-10-18 15 → 2026-11-20 25（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/a11y-llm-eval
 
-⭐ 62 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/microsoft/a11y-llm-eval) · [官网](https://microsoft.github.io/a11y-llm-eval-report/) · 组织维护
+⭐ 63 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/microsoft/a11y-llm-eval) · [官网](https://microsoft.github.io/a11y-llm-eval-report/) · 组织维护
 
 **评测 LLM 生成无障碍 HTML 能力的基准测试套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/a11y-llm-eval 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 61, 62, 62]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 60 --> 64
+    line [61, 62, 61, 62, 63]
 ```
 
-2026-10-18 61 → 2026-11-19 62（+1）
+2026-10-18 61 → 2026-11-20 63（+2）
 
 
 ---

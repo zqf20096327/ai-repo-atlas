@@ -1,6 +1,6 @@
 # arcmira/arcmira
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/arcmira/arcmira) · [官网](https://arcmira.com) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/arcmira/arcmira) · [官网](https://arcmira.com) · 组织维护
 
 **Arcmira 官方 TypeScript SDK/CLI：搜索 YouTube 转录与品牌提及**
 
@@ -46,12 +46,12 @@ Arcmira 平台的官方 TypeScript/JavaScript SDK 与 CLI：通过 API 拉取 Yo
 ```mermaid
 xychart-beta
     title "arcmira/arcmira 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 16 --> 32
-    line [31, 28, 29, 28, 18, 17, 17]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 15 --> 32
+    line [31, 28, 29, 28, 18, 17, 16]
 ```
 
-2026-10-22 31 → 2026-11-19 17（-14）
+2026-10-22 31 → 2026-11-20 16（-15）
 
 
 ---

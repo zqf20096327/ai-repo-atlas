@@ -1,6 +1,6 @@
 # mukul975/claude-team-dashboard
 
-⭐ 81 · JavaScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/mukul975/claude-team-dashboard) · [官网](https://www.npmjs.com/package/claude-team-dashboard) · 个人维护
+⭐ 82 · JavaScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/mukul975/claude-team-dashboard) · [官网](https://www.npmjs.com/package/claude-team-dashboard) · 个人维护
 
 **Claude Code 多 agent 团队的实时监控仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mukul975/claude-team-dashboard 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 74 --> 82
-    line [75, 77, 78, 79, 81, 81]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 74 --> 83
+    line [75, 77, 78, 79, 81, 82]
 ```
 
-2026-10-18 75 → 2026-11-19 81（+6）
+2026-10-18 75 → 2026-11-20 82（+7）
 
 
 ---

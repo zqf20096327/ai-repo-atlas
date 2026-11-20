@@ -1,6 +1,6 @@
 # kubeflow/arena
 
-⭐ 822 · Go · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/kubeflow/arena) · [官网](https://arena-docs.readthedocs.io) · 组织维护 · 中文 README
+⭐ 821 · Go · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/kubeflow/arena) · [官网](https://arena-docs.readthedocs.io) · 组织维护 · 中文 README
 
 **面向数据科学家的 Kubernetes 机器学习训练任务 CLI**
 
@@ -45,12 +45,12 @@ Arena 是 Kubeflow 项目下的命令行工具，供数据科学家在 Kubernete
 ```mermaid
 xychart-beta
     title "kubeflow/arena 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20"]
     y-axis "stars" 819 --> 823
-    line [821, 820, 821, 820, 821, 822, 822]
+    line [821, 820, 821, 820, 821, 822, 821]
 ```
 
-2026-10-18 821 → 2026-11-19 822（+1）
+2026-10-18 821 → 2026-11-20 821（+0）
 
 
 ---

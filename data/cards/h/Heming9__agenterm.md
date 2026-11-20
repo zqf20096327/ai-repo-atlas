@@ -1,6 +1,6 @@
 # Heming9/agenterm
 
-⭐ 105 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Heming9/agenterm) · 个人维护 · 中文 README
+⭐ 105 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Heming9/agenterm) · 个人维护 · 中文 README
 
 **让 AI agent 通过 MCP 远程协助控制他人电脑的自托管工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Heming9/agenterm 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-20"]
     y-axis "stars" 23 --> 112
     line [30, 102, 105, 105]
 ```
 
-2026-11-02 30 → 2026-11-19 105（+75）
+2026-11-02 30 → 2026-11-20 105（+75）
 
 
 ---

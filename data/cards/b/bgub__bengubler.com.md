@@ -42,12 +42,12 @@ bengubler.com 的个人网站源码，使用 TanStack Start + React 19、Tailwin
 ```mermaid
 xychart-beta
     title "bgub/bengubler.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 13（+0）
 
 
 ---

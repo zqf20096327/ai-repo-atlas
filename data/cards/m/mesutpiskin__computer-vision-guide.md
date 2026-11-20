@@ -1,6 +1,6 @@
 # mesutpiskin/computer-vision-guide
 
-⭐ 427 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/mesutpiskin/computer-vision-guide) · 个人维护
+⭐ 426 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/mesutpiskin/computer-vision-guide) · 个人维护
 
 **土耳其语计算机视觉教程：31 章，从 OpenCV 到 ViT/扩散模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mesutpiskin/computer-vision-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 425 --> 428
-    line [427, 426, 427, 427]
+    line [427, 426, 427, 426]
 ```
 
-2026-10-18 427 → 2026-11-19 427（+0）
+2026-10-18 427 → 2026-11-20 426（-1）
 
 
 ---

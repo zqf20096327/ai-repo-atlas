@@ -1,6 +1,6 @@
 # AgentBull/open-ankole
 
-⭐ 214 · Elixir · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/AgentBull/open-ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
+⭐ 219 · Elixir · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AgentBull/open-ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
 
 **自托管企业级 Agent Harness：在自有基础设施上运行跨 Slack/飞书等渠道的 AI Agent**
 
@@ -40,6 +40,18 @@
 > L10: OpenAnkole is the open source Agent Harness in this repository.
 > L85: The Elixir/OTP control plane owns durable decisions for Principal/AuthZ, SignalsGateway, Schedule, Actor Runtime, J
 > L97: OpenAnkole runs in production as a complete enterprise Agent Harness. Companies can host the control plane, Agent C
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AgentBull/open-ankole 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 213 --> 220
+    line [214, 219]
+```
+
+2026-11-19 214 → 2026-11-20 219（+5）
 
 
 ---

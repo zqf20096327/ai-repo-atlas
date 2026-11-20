@@ -1,6 +1,6 @@
 # bhurghundii/vibecheck.dev
 
-⭐ 15 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/bhurghundii/vibecheck.dev) · [官网](https://bhurghundii.com/vibecheck.dev/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/bhurghundii/vibecheck.dev) · [官网](https://bhurghundii.com/vibecheck.dev/) · 个人维护
 
 **自托管 PR 合并门禁：用 AI 出题检验作者是否理解自己的代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bhurghundii/vibecheck.dev 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20"]
     y-axis "stars" 7 --> 16
     line [8, 10, 11, 12, 13, 11, 14, 15, 15]
 ```
 
-2026-10-18 8 → 2026-11-19 15（+7）
+2026-10-18 8 → 2026-11-20 15（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # robocorp/rpaframework
 
-⭐ 1,585 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/robocorp/rpaframework) · [官网](https://www.rpaframework.org/) · 组织维护
+⭐ 1,585 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/robocorp/rpaframework) · [官网](https://www.rpaframework.org/) · 组织维护
 
 **面向软件机器人开发者的开源 RPA 库集合，兼容 Robot Framework 与 Python**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "robocorp/rpaframework 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20"]
     y-axis "stars" 1574 --> 1586
     line [1575, 1576, 1575, 1577, 1578, 1575, 1582, 1584, 1585, 1585]
 ```
 
-2026-10-18 1,575 → 2026-11-19 1,585（+10）
+2026-10-18 1,575 → 2026-11-20 1,585（+10）
 
 
 ---

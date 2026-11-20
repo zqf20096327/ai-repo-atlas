@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sarabesh/HybridRAG 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-19"]
+    title "sarabesh/HybridRAG 星数(近 3 点)"
+    x-axis ["2026-11-13", "2026-11-19", "2026-11-20"]
     y-axis "stars" 53 --> 56
-    line [55, 54]
+    line [55, 54, 54]
 ```
 
-2026-11-13 55 → 2026-11-19 54（-1）
+2026-11-13 55 → 2026-11-20 54（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # footprintjs/hcifootprint
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/footprintjs/hcifootprint) · [官网](https://footprintjs.github.io/hcifootprint/) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/footprintjs/hcifootprint) · [官网](https://footprintjs.github.io/hcifootprint/) · 组织维护
 
 **为 Web 应用声明 agent 可操作的动作与旅程图谱的 TypeScript 库**
 
@@ -46,12 +46,12 @@ hcifootprint 是一个 TypeScript 库，用于声明 Web 应用的动作（actio
 ```mermaid
 xychart-beta
     title "footprintjs/hcifootprint 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-19"]
+    x-axis ["2026-11-02", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-02 11 → 2026-11-19 11（+0）
+2026-11-02 11 → 2026-11-20 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # BelyaevAD/beget-hosting-mcp
 
-⭐ 15 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/BelyaevAD/beget-hosting-mcp) · [官网](https://belyaevad.github.io/beget-hosting-mcp/) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/BelyaevAD/beget-hosting-mcp) · [官网](https://belyaevad.github.io/beget-hosting-mcp/) · 个人维护 · 中文 README
 
 **Beget 主机托管 API 的 MCP 服务器：让 Agent 管理域名、DNS、站点等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BelyaevAD/beget-hosting-mcp 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-19"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-26", "2026-11-20"]
+    y-axis "stars" 9 --> 16
+    line [15, 10]
 ```
 
-2026-10-26 15 → 2026-11-19 15（+0）
+2026-10-26 15 → 2026-11-20 10（-5）
 
 
 ---

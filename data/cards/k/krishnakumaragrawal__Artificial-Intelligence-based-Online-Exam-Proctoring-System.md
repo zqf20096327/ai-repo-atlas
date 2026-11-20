@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "krishnakumaragrawal/Artificial-Intelligence-based-Online-Exam-Proctoring-System 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-20"]
     y-axis "stars" 63 --> 67
     line [64, 65, 66, 66]
 ```
 
-2026-10-18 64 → 2026-11-19 66（+2）
+2026-10-18 64 → 2026-11-20 66（+2）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "killian31/VideoBackgroundRemoval 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-19"]
+    title "killian31/VideoBackgroundRemoval 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-19", "2026-11-20"]
     y-axis "stars" 40 --> 44
-    line [41, 42, 43]
+    line [41, 42, 43, 43]
 ```
 
-2026-10-24 41 → 2026-11-19 43（+2）
+2026-10-24 41 → 2026-11-20 43（+2）
 
 
 ---

@@ -40,6 +40,18 @@ SIM-ONE 是一个包含 MANIFESTO、架构原则与 Python 实现的框架，提
 > L67: ## 🛠️ Tool Entrypoints for AI Agent Integration
 > L155: - ✅ **Five Laws Validators** – **Production-ready implementation** with real-time compliance monitoring
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dansasser/SIM-ONE 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-19 17 → 2026-11-20 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `e4553df3320d` · [字段定义](../../DATASET.md)*

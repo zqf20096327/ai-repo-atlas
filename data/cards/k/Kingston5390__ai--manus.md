@@ -1,6 +1,6 @@
 # Kingston5390/ai--manus
 
-⭐ 184 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Kingston5390/ai--manus) · 个人维护
+⭐ 183 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Kingston5390/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码并操作浏览器**
 
@@ -44,12 +44,12 @@ Manus 定位为自主 AI Agent，宣称可代替用户编写并执行脚本、�
 ```mermaid
 xychart-beta
     title "Kingston5390/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 111 --> 269
-    line [124, 256, 184, 184]
+    line [124, 256, 184, 183]
 ```
 
-2026-11-13 124 → 2026-11-19 184（+60）
+2026-11-13 124 → 2026-11-20 183（+59）
 
 
 ---

@@ -1,6 +1,6 @@
 # chatopera/Synonyms
 
-⭐ 5,108 · Python · NOASSERTION · 推送 2026-02-01 · [GitHub](https://github.com/chatopera/Synonyms) · [官网](https://bot.chatopera.com/) · 组织维护 · 中文 README
+⭐ 5,107 · Python · NOASSERTION · 推送 2026-02-01 · [GitHub](https://github.com/chatopera/Synonyms) · [官网](https://bot.chatopera.com/) · 组织维护 · 中文 README
 
 **中文近义词与相似度计算工具包，供 NLP 任务使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chatopera/Synonyms 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20"]
     y-axis "stars" 5104 --> 5109
-    line [5107, 5106, 5105, 5106, 5105, 5107, 5108, 5108]
+    line [5107, 5106, 5105, 5106, 5105, 5107, 5108, 5107]
 ```
 
-2026-10-18 5,107 → 2026-11-19 5,108（+1）
+2026-10-18 5,107 → 2026-11-20 5,107（+0）
 
 
 ---

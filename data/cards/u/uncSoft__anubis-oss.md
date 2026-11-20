@@ -1,6 +1,6 @@
 # uncSoft/anubis-oss
 
-⭐ 218 · Swift · GPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/uncSoft/anubis-oss) · [官网](https://devpadapp.com/leaderboard.html) · 组织维护
+⭐ 219 · Swift · GPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/uncSoft/anubis-oss) · [官网](https://devpadapp.com/leaderboard.html) · 组织维护
 
 **macOS 本地 LLM 基准测试与模型管理应用（Apple Silicon）**
 
@@ -44,13 +44,13 @@ SwiftUI 编写的 macOS 原生应用，面向 Apple Silicon 用户，通过任�
 
 ```mermaid
 xychart-beta
-    title "uncSoft/anubis-oss 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 210 --> 219
-    line [211, 213, 214, 215, 213, 218, 217, 218]
+    title "uncSoft/anubis-oss 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 210 --> 220
+    line [211, 213, 214, 215, 213, 218, 217, 218, 219]
 ```
 
-2026-10-18 211 → 2026-11-19 218（+7）
+2026-10-18 211 → 2026-11-20 219（+8）
 
 
 ---

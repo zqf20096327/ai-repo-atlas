@@ -1,6 +1,6 @@
 # CodingFeng101/UniGraph
 
-⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/CodingFeng101/UniGraph) · [官网](https://unigraph.codingfgd.asia) · 组织维护 · 中文 README
+⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/CodingFeng101/UniGraph) · [官网](https://unigraph.codingfgd.asia) · 组织维护 · 中文 README
 
 **面向企业的知识图谱构建与可追溯 GraphRAG 问答平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "CodingFeng101/UniGraph 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-11-08", "2026-11-20"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-11-08 14 → 2026-11-19 14（+0）
+2026-11-08 14 → 2026-11-20 15（+1）
 
 
 ---

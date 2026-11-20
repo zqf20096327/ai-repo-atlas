@@ -1,6 +1,6 @@
 # enkidevs/curriculum
 
-⭐ 837 · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/enkidevs/curriculum) · [官网](https://www.enki.com/mobile-app) · 组织维护
+⭐ 836 · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/enkidevs/curriculum) · [官网](https://www.enki.com/mobile-app) · 组织维护
 
 **Enki 开源课程内容库：供编辑与共建的学习课程**
 
@@ -44,12 +44,12 @@ Enki 的开源课程内容仓库，覆盖算法、区块链、数据科学、计
 ```mermaid
 xychart-beta
     title "enkidevs/curriculum 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-20"]
     y-axis "stars" 833 --> 838
-    line [834, 835, 836, 837, 837]
+    line [834, 835, 836, 837, 836]
 ```
 
-2026-10-18 834 → 2026-11-19 837（+3）
+2026-10-18 834 → 2026-11-20 836（+2）
 
 
 ---

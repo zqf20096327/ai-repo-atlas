@@ -1,6 +1,6 @@
 # calesthio/OpenFusion
 
-⭐ 17 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/calesthio/OpenFusion) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/calesthio/OpenFusion) · 个人维护
 
 **给 AI 编程 agent 的多模型路由：子任务派给够用的低价模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "calesthio/OpenFusion 星数(近 6 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 6 --> 18
-    line [7, 8, 10, 16, 17, 17]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 6 --> 19
+    line [7, 8, 10, 16, 17, 18]
 ```
 
-2026-10-30 7 → 2026-11-19 17（+10）
+2026-10-30 7 → 2026-11-20 18（+11）
 
 
 ---

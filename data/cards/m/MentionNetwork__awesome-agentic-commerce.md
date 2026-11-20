@@ -1,6 +1,6 @@
 # MentionNetwork/awesome-agentic-commerce
 
-⭐ 66 · CC0-1.0 · 推送 2026-07-20 · [GitHub](https://github.com/MentionNetwork/awesome-agentic-commerce) · [官网](https://mention.network) · 组织维护
+⭐ 57 · CC0-1.0 · 推送 2026-07-20 · [GitHub](https://github.com/MentionNetwork/awesome-agentic-commerce) · [官网](https://mention.network) · 组织维护
 
 **AI 代理电商资源策展清单：协议、MCP 服务与平台工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MentionNetwork/awesome-agentic-commerce 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 62 --> 67
-    line [63, 64, 65, 66, 66]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-20"]
+    y-axis "stars" 56 --> 67
+    line [63, 64, 65, 66, 57]
 ```
 
-2026-10-18 63 → 2026-11-19 66（+3）
+2026-10-18 63 → 2026-11-20 57（-6）
 
 
 ---

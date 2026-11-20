@@ -1,6 +1,6 @@
 # ayyazzafar/mcp-baserow
 
-⭐ 13 · TypeScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/ayyazzafar/mcp-baserow) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/ayyazzafar/mcp-baserow) · 个人维护
 
 **让 AI 助手用自然语言操作 Baserow 数据库的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ayyazzafar/mcp-baserow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 11 --> 14
+    line [13, 12]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 12（-1）
 
 
 ---

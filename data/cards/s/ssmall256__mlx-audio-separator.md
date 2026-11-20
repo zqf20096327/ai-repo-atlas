@@ -1,6 +1,6 @@
 # ssmall256/mlx-audio-separator
 
-⭐ 24 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ssmall256/mlx-audio-separator) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ssmall256/mlx-audio-separator) · 个人维护
 
 **Apple Silicon 上 MLX 原生的人声/伴奏分轨工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ssmall256/mlx-audio-separator 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 16 --> 25
-    line [17, 18, 22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 16 --> 26
+    line [17, 18, 22, 23, 24, 25]
 ```
 
-2026-10-18 17 → 2026-11-19 24（+7）
+2026-10-18 17 → 2026-11-20 25（+8）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "VillagePrefect/stable-diffusion-atelier 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
+    title "VillagePrefect/stable-diffusion-atelier 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 93 --> 99
-    line [98, 94]
+    line [98, 94, 94]
 ```
 
-2026-11-16 98 → 2026-11-19 94（-4）
+2026-11-16 98 → 2026-11-20 94（-4）
 
 
 ---

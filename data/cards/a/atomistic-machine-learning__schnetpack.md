@@ -1,6 +1,6 @@
 # atomistic-machine-learning/schnetpack
 
-⭐ 945 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/atomistic-machine-learning/schnetpack) · 组织维护
+⭐ 946 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/atomistic-machine-learning/schnetpack) · 组织维护
 
 **原子体系神经网络工具箱：预测分子与材料的量子化学性质**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "atomistic-machine-learning/schnetpack 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-13", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 942 --> 946
-    line [943, 944, 943, 944, 945, 945]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-13", "2026-11-15", "2026-11-20"]
+    y-axis "stars" 942 --> 947
+    line [943, 944, 943, 944, 945, 946]
 ```
 
-2026-10-18 943 → 2026-11-19 945（+2）
+2026-10-18 943 → 2026-11-20 946（+3）
 
 
 ---

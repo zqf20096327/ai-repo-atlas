@@ -1,6 +1,6 @@
 # FengYing1314/openclaw-plugin-dg-lab
 
-⭐ 11 · TypeScript · MIT · 推送 2026-03-27 · [GitHub](https://github.com/FengYing1314/openclaw-plugin-dg-lab) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-03-27 · [GitHub](https://github.com/FengYing1314/openclaw-plugin-dg-lab) · 个人维护 · 中文 README
 
 **OpenClaw 插件：通过 WebSocket 控制郊狼 DG-Lab V3 电刺激设备**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FengYing1314/openclaw-plugin-dg-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # earayu/Mingle
 
-⭐ 50 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/earayu/Mingle) · [官网](https://mingle.build/) · 个人维护 · 中文 README
+⭐ 51 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/earayu/Mingle) · [官网](https://mingle.build/) · 个人维护 · 中文 README
 
 **把本地 agent 接入既有聊天应用的桥接工具**
 
@@ -40,6 +40,18 @@
 > L9: Create an agent on your own computer: it has a name, a role, a memory and a home directory, and a coding agent you a
 > L21: |**Harnesses**|Claude Code, Codex, Cursor, OpenCode, Kimi Code, Grok Build, Qwen Code, Qoder, CodeBuddy Code, DeepS
 > L61: - Mingle receives messages through each chat app's official bot API and hands them to the agent's single, long-live
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "earayu/Mingle 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
+```
+
+2026-11-19 50 → 2026-11-20 51（+1）
 
 
 ---

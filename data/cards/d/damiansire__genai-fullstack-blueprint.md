@@ -1,6 +1,6 @@
 # damiansire/genai-fullstack-blueprint
 
-⭐ 93 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/damiansire/genai-fullstack-blueprint) · 个人维护
+⭐ 92 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/damiansire/genai-fullstack-blueprint) · 个人维护
 
 **多模态 GenAI 全栈参考架构：Angular + Node.js AI Gateway 脚手架**
 
@@ -47,12 +47,12 @@ TypeScript monorepo 形式提供的多模态生成式 AI 应用参考蓝图（�
 ```mermaid
 xychart-beta
     title "damiansire/genai-fullstack-blueprint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 91 --> 94
+    line [93, 92]
 ```
 
-2026-10-18 93 → 2026-11-19 93（+0）
+2026-10-18 93 → 2026-11-20 92（-1）
 
 
 ---

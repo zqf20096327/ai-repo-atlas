@@ -1,6 +1,6 @@
 # tokenfanpage1/manus--ai
 
-⭐ 181 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tokenfanpage1/manus--ai) · 个人维护
+⭐ 180 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tokenfanpage1/manus--ai) · 个人维护
 
 **自主 AI Agent：代用户执行代码与控制浏览器完成任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tokenfanpage1/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 108 --> 266
-    line [121, 253, 181, 181]
+    line [121, 253, 181, 180]
 ```
 
-2026-11-13 121 → 2026-11-19 181（+60）
+2026-11-13 121 → 2026-11-20 180（+59）
 
 
 ---

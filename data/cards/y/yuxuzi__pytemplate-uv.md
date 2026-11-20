@@ -42,6 +42,18 @@
 > L42: |`mcp`|An MCP server over stdio, with a typed tool, a test, and `.mcp.json` (`python` and `library` profiles)|To gi
 > L250: ## Built for AI coding agents
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yuxuzi/pytemplate-uv 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 27 --> 29
+    line [28, 28]
+```
+
+2026-11-19 28 → 2026-11-20 28（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `3a3aa68a6ce2` · [字段定义](../../DATASET.md)*

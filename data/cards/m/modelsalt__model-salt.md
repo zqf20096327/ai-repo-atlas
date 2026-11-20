@@ -1,6 +1,6 @@
 # modelsalt/model-salt
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/modelsalt/model-salt) · [官网](https://modelsalt.com) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/modelsalt/model-salt) · [官网](https://modelsalt.com) · 个人维护
 
 **给 MCP 客户端注入外部随机性的服务器：同一提示产生不同结果**
 
@@ -45,12 +45,12 @@ Model Salt 是一个 MCP 服务器，安装后在 Claude Code、Codex、Gemini C
 ```mermaid
 xychart-beta
     title "modelsalt/model-salt 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-20"]
     y-axis "stars" 2 --> 11
     line [3, 4, 10, 10]
 ```
 
-2026-10-31 3 → 2026-11-19 10（+7）
+2026-10-31 3 → 2026-11-20 10（+7）
 
 
 ---

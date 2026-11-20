@@ -1,6 +1,6 @@
 # KeyID-AI/sdk-js
 
-⭐ 358 · TypeScript · 推送 2026-06-19 · [GitHub](https://github.com/KeyID-AI/sdk-js) · [官网](https://keyid.ai) · 组织维护
+⭐ 353 · TypeScript · 推送 2026-06-19 · [GitHub](https://github.com/KeyID-AI/sdk-js) · [官网](https://keyid.ai) · 组织维护
 
 **为 AI agent 提供免注册真实邮箱地址的 TypeScript SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KeyID-AI/sdk-js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 356 --> 359
-    line [357, 358, 358]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 352 --> 359
+    line [357, 358, 353]
 ```
 
-2026-10-18 357 → 2026-11-19 358（+1）
+2026-10-18 357 → 2026-11-20 353（-4）
 
 
 ---

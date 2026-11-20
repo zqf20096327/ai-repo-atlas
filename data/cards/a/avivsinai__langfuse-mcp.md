@@ -1,6 +1,6 @@
 # avivsinai/langfuse-mcp
 
-⭐ 113 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/avivsinai/langfuse-mcp) · [官网](https://github.com/avivsinai/langfuse-mcp) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/avivsinai/langfuse-mcp) · [官网](https://github.com/avivsinai/langfuse-mcp) · 个人维护
 
 **让 AI agent 查询 Langfuse 追踪数据的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "avivsinai/langfuse-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-20"]
     y-axis "stars" 111 --> 114
-    line [113, 112, 113, 113]
+    line [113, 112, 113, 112]
 ```
 
-2026-10-18 113 → 2026-11-19 113（+0）
+2026-10-18 113 → 2026-11-20 112（-1）
 
 
 ---

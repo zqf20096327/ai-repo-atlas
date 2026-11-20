@@ -1,6 +1,6 @@
 # Sider-ai/wandesk
 
-⭐ 70 · TypeScript · ISC · 推送 2026-10-13 · [GitHub](https://github.com/Sider-ai/wandesk) · [官网](https://wandesk.ai) · 组织维护 · 中文 README
+⭐ 73 · TypeScript · ISC · 推送 2026-10-13 · [GitHub](https://github.com/Sider-ai/wandesk) · [官网](https://wandesk.ai) · 组织维护 · 中文 README
 
 **开源 AI 桌面：内置 agent 按描述生成 Worker 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Sider-ai/wandesk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 70, 70]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 69 --> 74
+    line [70, 71, 70, 73]
 ```
 
-2026-10-18 70 → 2026-11-19 70（+0）
+2026-10-18 70 → 2026-11-20 73（+3）
 
 
 ---

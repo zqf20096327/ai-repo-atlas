@@ -1,6 +1,6 @@
 # liuyanqun0815/langgraph_fly_base
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/liuyanqun0815/langgraph_fly_base) · 个人维护 · 中文 README
+⭐ 44 · Python · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/liuyanqun0815/langgraph_fly_base) · 个人维护 · 中文 README
 
 **基于 LangGraph 的智能贷款销售客服工作流应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liuyanqun0815/langgraph_fly_base 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-11-19 43（+0）
+2026-10-18 43 → 2026-11-20 44（+1）
 
 
 ---

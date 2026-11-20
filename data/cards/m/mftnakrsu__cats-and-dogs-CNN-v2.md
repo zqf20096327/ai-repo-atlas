@@ -40,6 +40,18 @@
 > L3: One of the most common methods used when our dataset is insufficient is to use pre-trained models.
 > L24:  conv_base=VGG16(weights=('imagenet'),
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mftnakrsu/cats-and-dogs-CNN-v2 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `960810ecaf3c` · [字段定义](../../DATASET.md)*

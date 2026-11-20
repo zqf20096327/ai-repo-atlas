@@ -45,12 +45,12 @@ SATRAP-DL 套件包含两个子系统：SATRAP 提供基于知识表示系统（
 ```mermaid
 xychart-beta
     title "AbstractionsLab/satrap-dl 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-19"]
+    x-axis ["2026-10-30", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-30 11 → 2026-11-19 11（+0）
+2026-10-30 11 → 2026-11-20 11（+0）
 
 
 ---

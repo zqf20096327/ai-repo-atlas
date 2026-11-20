@@ -1,6 +1,6 @@
 # weklund/fiduciary
 
-⭐ 12 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/weklund/fiduciary) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/weklund/fiduciary) · 个人维护
 
 **本地优先的个人财务顾问：Plaid+SQLite+LLM Agent 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "weklund/fiduciary 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 12, 13]
 ```
 
-2026-10-18 10 → 2026-11-19 12（+2）
+2026-10-18 10 → 2026-11-20 13（+3）
 
 
 ---

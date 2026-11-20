@@ -1,6 +1,6 @@
 # zjp1997720/zhijian-ai-bluebook-workbuddy-harness
 
-⭐ 255 · 推送 2026-08-16 · [GitHub](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) · [官网](https://zjp1997720.github.io/zhijian-ai-bluebook-workbuddy-harness/) · 个人维护 · 中文 README
+⭐ 256 · 推送 2026-08-16 · [GitHub](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) · [官网](https://zjp1997720.github.io/zhijian-ai-bluebook-workbuddy-harness/) · 个人维护 · 中文 README
 
 **拆解 WorkBuddy 提示词/记忆/插件/安全边界的蓝皮书（60页）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjp1997720/zhijian-ai-bluebook-workbuddy-harness 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 239 --> 256
-    line [240, 242, 243, 244, 245, 247, 248, 249, 250, 243, 251, 252, 253, 255]
+    title "zjp1997720/zhijian-ai-bluebook-workbuddy-harness 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 239 --> 257
+    line [240, 242, 243, 244, 245, 247, 248, 249, 250, 243, 251, 252, 253, 255, 256]
 ```
 
-2026-10-18 240 → 2026-11-19 255（+15）
+2026-10-18 240 → 2026-11-20 256（+16）
 
 
 ---

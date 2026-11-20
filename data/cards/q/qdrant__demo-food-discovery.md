@@ -1,6 +1,6 @@
 # qdrant/demo-food-discovery
 
-⭐ 52 · JavaScript · 推送 2026-09-02 · [GitHub](https://github.com/qdrant/demo-food-discovery) · 组织维护
+⭐ 52 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/qdrant/demo-food-discovery) · 组织维护
 
 **基于 Qdrant 的菜品图片发现式搜索演示应用**
 
@@ -46,12 +46,12 @@ Qdrant 官方的演示项目：以 Wolt 菜品数据集（200 万+ 图片）为�
 ```mermaid
 xychart-beta
     title "qdrant/demo-food-discovery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-19 52（+0）
+2026-10-18 52 → 2026-11-20 52（+0）
 
 
 ---

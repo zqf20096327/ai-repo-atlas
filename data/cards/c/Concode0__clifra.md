@@ -1,6 +1,6 @@
 # Concode0/clifra
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/Concode0/clifra) · [官网](https://concode0.github.io/clifra/) · 个人维护
+⭐ 63 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/Concode0/clifra) · [官网](https://concode0.github.io/clifra/) · 个人维护
 
 **PyTorch 的可微 Clifford 代数计算层库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Concode0/clifra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 60 --> 64
+    line [61, 62, 63]
 ```
 
-2026-10-18 61 → 2026-11-19 62（+1）
+2026-10-18 61 → 2026-11-20 63（+2）
 
 
 ---

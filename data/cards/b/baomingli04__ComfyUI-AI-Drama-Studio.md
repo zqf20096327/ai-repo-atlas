@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "baomingli04/ComfyUI-AI-Drama-Studio 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19"]
+    title "baomingli04/ComfyUI-AI-Drama-Studio 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
     y-axis "stars" 6 --> 11
-    line [7, 9, 10]
+    line [7, 9, 10, 10]
 ```
 
-2026-11-08 7 → 2026-11-19 10（+3）
+2026-11-08 7 → 2026-11-20 10（+3）
 
 
 ---

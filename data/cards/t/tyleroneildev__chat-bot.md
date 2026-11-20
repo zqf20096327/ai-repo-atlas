@@ -1,6 +1,6 @@
 # tyleroneildev/chat-bot
 
-⭐ 19 · JavaScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/tyleroneildev/chat-bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Node.js/Express 接入 OpenAI API 的网页聊天机器人**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

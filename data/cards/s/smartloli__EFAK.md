@@ -1,6 +1,6 @@
 # smartloli/EFAK
 
-⭐ 3,179 · Java · 推送 2026-09-12 · [GitHub](https://github.com/smartloli/EFAK) · [官网](https://www.kafka-eagle.org/) · 个人维护 · 中文 README
+⭐ 3,178 · Java · 推送 2026-09-12 · [GitHub](https://github.com/smartloli/EFAK) · [官网](https://www.kafka-eagle.org/) · 个人维护 · 中文 README
 
 **面向 Kafka 运维的开源监控平台，内置多模型 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "smartloli/EFAK 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 3178 --> 3181
-    line [3179, 3180, 3179, 3180, 3179, 3179]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 3177 --> 3181
+    line [3179, 3180, 3179, 3180, 3179, 3178]
 ```
 
-2026-10-18 3,179 → 2026-11-19 3,179（+0）
+2026-10-18 3,179 → 2026-11-20 3,178（-1）
 
 
 ---

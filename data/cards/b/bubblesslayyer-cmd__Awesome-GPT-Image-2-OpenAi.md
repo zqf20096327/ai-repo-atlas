@@ -1,6 +1,6 @@
 # bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi
 
-⭐ 65 · TypeScript · MIT · 推送 2026-04-23 · [GitHub](https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi) · 个人维护
+⭐ 62 · TypeScript · MIT · 推送 2026-04-23 · [GitHub](https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi) · 个人维护
 
 **面向 OpenAI GPT Image 2 的提示词合集，覆盖角色/设计/艺术类提示**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 61 --> 66
+    line [65, 62]
 ```
 
-2026-10-18 65 → 2026-11-19 65（+0）
+2026-10-18 65 → 2026-11-20 62（-3）
 
 
 ---

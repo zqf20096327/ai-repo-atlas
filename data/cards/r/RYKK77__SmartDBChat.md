@@ -1,6 +1,6 @@
 # RYKK77/SmartDBChat
 
-⭐ 11 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/RYKK77/SmartDBChat) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/RYKK77/SmartDBChat) · 个人维护 · 中文 README
 
 **自然语言查数据库的 NL2SQL 工作台，带 MCP 服务与 RBAC**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RYKK77/SmartDBChat 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-19"]
+    x-axis ["2026-11-14", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-14 11 → 2026-11-19 11（+0）
+2026-11-14 11 → 2026-11-20 11（+0）
 
 
 ---

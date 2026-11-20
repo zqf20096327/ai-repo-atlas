@@ -1,6 +1,6 @@
 # upsidelab/enthusiast
 
-⭐ 187 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/upsidelab/enthusiast) · [官网](https://upsidelab.io/tools/enthusiast) · 组织维护
+⭐ 186 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/upsidelab/enthusiast) · [官网](https://upsidelab.io/tools/enthusiast) · 组织维护
 
 **面向电商的开源 Agentic AI 工作流构建框架**
 
@@ -46,12 +46,12 @@ Enthusiast 是一个用于构建电商场景 AI agentic 工作流的开源工具
 ```mermaid
 xychart-beta
     title "upsidelab/enthusiast 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
     y-axis "stars" 180 --> 188
-    line [181, 182, 183, 184, 182, 185, 186, 187, 187]
+    line [181, 182, 183, 184, 182, 185, 186, 187, 186]
 ```
 
-2026-10-18 181 → 2026-11-19 187（+6）
+2026-10-18 181 → 2026-11-20 186（+5）
 
 
 ---

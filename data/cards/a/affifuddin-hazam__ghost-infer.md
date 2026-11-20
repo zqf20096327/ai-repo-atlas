@@ -1,6 +1,6 @@
 # affifuddin-hazam/ghost-infer
 
-⭐ 242 · HTML · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/affifuddin-hazam/ghost-infer) · 个人维护 · 中文 README
+⭐ 244 · HTML · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/affifuddin-hazam/ghost-infer) · 个人维护 · 中文 README
 
 **消费级 NVIDIA GPU 上的本地 GGUF 推理引擎，含桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "affifuddin-hazam/ghost-infer 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 214 --> 244
-    line [216, 237, 239, 241, 242]
+    title "affifuddin-hazam/ghost-infer 星数(近 6 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 214 --> 246
+    line [216, 237, 239, 241, 242, 244]
 ```
 
-2026-11-14 216 → 2026-11-19 242（+26）
+2026-11-14 216 → 2026-11-20 244（+28）
 
 
 ---

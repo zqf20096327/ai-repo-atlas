@@ -1,6 +1,6 @@
 # manufosela/karajan-code
 
-⭐ 43 · JavaScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/manufosela/karajan-code) · [官网](https://karajancode.com) · 个人维护
+⭐ 43 · JavaScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/manufosela/karajan-code) · [官网](https://karajancode.com) · 个人维护
 
 **为 AI 编程代理加装治理层的 CLI：TDD 方法、跨 AI 评审与 git 门禁**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "manufosela/karajan-code 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-13", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-13", "2026-11-18", "2026-11-20"]
     y-axis "stars" 40 --> 44
     line [42, 41, 42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-19 43（+1）
+2026-10-18 42 → 2026-11-20 43（+1）
 
 
 ---

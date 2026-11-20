@@ -1,6 +1,6 @@
 # arthurle3210/SwpilotCLI
 
-⭐ 35 · C# · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/arthurle3210/SwpilotCLI) · 个人维护
+⭐ 37 · C# · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/arthurle3210/SwpilotCLI) · 个人维护
 
 **嵌入 Claude Code/Codex CLI 的 SolidWorks AI 自动化插件**
 
@@ -46,12 +46,12 @@ C# .NET 编写的 SolidWorks Add-in，将 Claude Code CLI 或 Codex CLI 嵌入�
 ```mermaid
 xychart-beta
     title "arthurle3210/SwpilotCLI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 32 --> 38
+    line [33, 34, 35, 34, 35, 37]
 ```
 
-2026-10-18 33 → 2026-11-19 35（+2）
+2026-10-18 33 → 2026-11-20 37（+4）
 
 
 ---

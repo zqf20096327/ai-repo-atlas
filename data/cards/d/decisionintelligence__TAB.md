@@ -1,6 +1,6 @@
 # decisionintelligence/TAB
 
-⭐ 145 · Jupyter Notebook · 推送 2025-11-26 · [GitHub](https://github.com/decisionintelligence/TAB) · [官网](https://arxiv.org/pdf/2506.18046) · 组织维护 · 中文 README
+⭐ 144 · Jupyter Notebook · 推送 2025-11-26 · [GitHub](https://github.com/decisionintelligence/TAB) · [官网](https://arxiv.org/pdf/2506.18046) · 组织维护 · 中文 README
 
 **面向研究者的时间序列异常检测评测基准库**
 
@@ -45,12 +45,12 @@ TAB 是一个开源 Python/PyTorch 库，为时间序列异常检测研究者提
 ```mermaid
 xychart-beta
     title "decisionintelligence/TAB 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 144 --> 147
-    line [145, 146, 145, 145]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 143 --> 147
+    line [145, 146, 145, 144]
 ```
 
-2026-10-18 145 → 2026-11-19 145（+0）
+2026-10-18 145 → 2026-11-20 144（-1）
 
 
 ---

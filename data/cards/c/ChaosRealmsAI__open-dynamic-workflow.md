@@ -1,6 +1,6 @@
 # ChaosRealmsAI/open-dynamic-workflow
 
-⭐ 16 · Rust · MIT · 推送 2026-06-10 · [GitHub](https://github.com/ChaosRealmsAI/open-dynamic-workflow) · 组织维护 · 中文 README
+⭐ 15 · Rust · MIT · 推送 2026-06-10 · [GitHub](https://github.com/ChaosRealmsAI/open-dynamic-workflow) · 组织维护 · 中文 README
 
 **开源复刻 Claude Code Dynamic Workflow 的 JS 工作流编排运行时**
 
@@ -46,12 +46,12 @@ Rust 编写的双 crate 工具：odw 负责编排，运行 agent()/parallel()/pi
 ```mermaid
 xychart-beta
     title "ChaosRealmsAI/open-dynamic-workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-18 16 → 2026-11-19 16（+0）
+2026-10-18 16 → 2026-11-20 15（-1）
 
 
 ---

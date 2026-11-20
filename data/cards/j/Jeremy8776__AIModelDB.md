@@ -1,6 +1,6 @@
 # Jeremy8776/AIModelDB
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Jeremy8776/AIModelDB) · 个人维护
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Jeremy8776/AIModelDB) · 个人维护
 
 **桌面端 AI 模型聚合目录：多源同步、检索与元数据校验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jeremy8776/AIModelDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-19 12（+0）
+2026-10-18 12 → 2026-11-20 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # RaulMandujano/evano-studio
 
-⭐ 39 · Python · AGPL-3.0 · 推送 2026-06-16 · [GitHub](https://github.com/RaulMandujano/evano-studio) · [官网](https://www.evanostudio.com/) · 个人维护
+⭐ 38 · Python · AGPL-3.0 · 推送 2026-06-16 · [GitHub](https://github.com/RaulMandujano/evano-studio) · [官网](https://www.evanostudio.com/) · 个人维护
 
 **面向非技术用户的本地 AI agent 桌面控制台（开源）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RaulMandujano/evano-studio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 38 --> 44
-    line [43, 41, 40, 39, 39]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 37 --> 44
+    line [43, 41, 40, 39, 38]
 ```
 
-2026-10-18 43 → 2026-11-19 39（-4）
+2026-10-18 43 → 2026-11-20 38（-5）
 
 
 ---

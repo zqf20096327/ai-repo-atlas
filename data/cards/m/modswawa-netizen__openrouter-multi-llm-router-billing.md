@@ -1,6 +1,6 @@
 # modswawa-netizen/openrouter-multi-llm-router-billing
 
-⭐ 47 · 推送 2026-11-06 · [GitHub](https://github.com/modswawa-netizen/openrouter-multi-llm-router-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 55 · 推送 2026-11-06 · [GitHub](https://github.com/modswawa-netizen/openrouter-multi-llm-router-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡的文章：解决 AI 网关充值风控问题**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "modswawa-netizen/openrouter-multi-llm-router-billing 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 1 --> 55
-    line [5, 26, 40, 45, 51, 50, 47, 47]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 0 --> 60
+    line [5, 26, 40, 45, 51, 50, 47, 55]
 ```
 
-2026-11-08 5 → 2026-11-19 47（+42）
+2026-11-08 5 → 2026-11-20 55（+50）
 
 
 ---

@@ -1,6 +1,6 @@
 # vipulchaturvedi/treesense-imaging-legacy
 
-⭐ 42 · Jupyter Notebook · AGPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/vipulchaturvedi/treesense-imaging-legacy) · [官网](https://treesense-legacy.vipulchaturvedi.com/) · 个人维护
+⭐ 41 · Jupyter Notebook · AGPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/vipulchaturvedi/treesense-imaging-legacy) · [官网](https://treesense-legacy.vipulchaturvedi.com/) · 个人维护
 
 **卫星/航拍图像自动树木计数与绿地估算的 Web 应用（SIH 原型）**
 
@@ -46,12 +46,12 @@ Smart India Hackathon 2023 的大学原型项目，面向林业伐移地块评�
 ```mermaid
 xychart-beta
     title "vipulchaturvedi/treesense-imaging-legacy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 40 --> 43
+    line [42, 41]
 ```
 
-2026-10-18 42 → 2026-11-19 42（+0）
+2026-10-18 42 → 2026-11-20 41（-1）
 
 
 ---

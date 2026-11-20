@@ -1,6 +1,6 @@
 # eznix86/anubis-kubernetes-operator
 
-⭐ 19 · Makefile · MIT · 推送 2026-11-13 · [GitHub](https://github.com/eznix86/anubis-kubernetes-operator) · 个人维护
+⭐ 18 · Makefile · MIT · 推送 2026-11-13 · [GitHub](https://github.com/eznix86/anubis-kubernetes-operator) · 个人维护
 
 **在 Kubernetes 上管理 Anubis 防火墙代理的 Operator**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eznix86/anubis-kubernetes-operator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-20"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    line [17, 18, 19, 18]
 ```
 
-2026-10-18 17 → 2026-11-19 19（+2）
+2026-10-18 17 → 2026-11-20 18（+1）
 
 
 ---

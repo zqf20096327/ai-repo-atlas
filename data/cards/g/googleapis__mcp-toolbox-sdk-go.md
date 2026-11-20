@@ -1,6 +1,6 @@
 # googleapis/mcp-toolbox-sdk-go
 
-⭐ 62 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/googleapis/mcp-toolbox-sdk-go) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
+⭐ 62 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/googleapis/mcp-toolbox-sdk-go) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
 
 **Go SDK：让 Go 应用加载并调用 MCP Toolbox 管理的工具**
 
@@ -43,12 +43,12 @@ googleapis 维护的 MCP Toolbox 官方 Go SDK 集合，作为 MCP Toolbox 服�
 ```mermaid
 xychart-beta
     title "googleapis/mcp-toolbox-sdk-go 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 58 --> 63
     line [59, 60, 59, 61, 62, 62]
 ```
 
-2026-10-18 59 → 2026-11-19 62（+3）
+2026-10-18 59 → 2026-11-20 62（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-skills
 
-⭐ 166 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/langchain-ai/langsmith-skills) · 组织维护
+⭐ 166 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/langchain-ai/langsmith-skills) · 组织维护
 
 **供编码代理使用的 LangSmith 观测与评测技能包**
 
@@ -46,12 +46,12 @@ LangChain 团队维护的 agent 技能集合：为 Claude Code、Cursor、Windsu
 ```mermaid
 xychart-beta
     title "langchain-ai/langsmith-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
     y-axis "stars" 162 --> 167
     line [163, 164, 163, 164, 166, 166]
 ```
 
-2026-10-18 163 → 2026-11-19 166（+3）
+2026-10-18 163 → 2026-11-20 166（+3）
 
 
 ---

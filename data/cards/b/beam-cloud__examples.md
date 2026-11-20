@@ -41,13 +41,13 @@ beam-cloud 维护的官方示例仓库，README 仅说明 examples 文件夹包�
 
 ```mermaid
 xychart-beta
-    title "beam-cloud/examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    title "beam-cloud/examples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 24 --> 27
-    line [26, 25]
+    line [26, 25, 25]
 ```
 
-2026-10-18 26 → 2026-11-19 25（-1）
+2026-10-18 26 → 2026-11-20 25（-1）
 
 
 ---

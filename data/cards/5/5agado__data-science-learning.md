@@ -1,6 +1,6 @@
 # 5agado/data-science-learning
 
-⭐ 449 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-25 · [GitHub](https://github.com/5agado/data-science-learning) · 个人维护
+⭐ 447 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-25 · [GitHub](https://github.com/5agado/data-science-learning) · 个人维护
 
 **数据科学与机器学习学习资源库：笔记本与资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "5agado/data-science-learning 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
     y-axis "stars" 445 --> 450
-    line [446, 447, 448, 449, 449]
+    line [446, 447, 448, 449, 447]
 ```
 
-2026-10-18 446 → 2026-11-19 449（+3）
+2026-10-18 446 → 2026-11-20 447（+1）
 
 
 ---

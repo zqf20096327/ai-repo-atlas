@@ -1,6 +1,6 @@
 # tavern-labs-ai/persona-ai-sdk
 
-⭐ 187 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/tavern-labs-ai/persona-ai-sdk) · [官网](https://www.npmjs.com/package/ai-persona-sdk) · 组织维护
+⭐ 178 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/tavern-labs-ai/persona-ai-sdk) · [官网](https://www.npmjs.com/package/ai-persona-sdk) · 组织维护
 
 **给应用开发者的角色 AI SDK：人设卡+持久角色记忆+模型适配器**
 
@@ -46,12 +46,12 @@ TypeScript SDK，用于构建保持人设一致并跨对话记忆的 AI 角色�
 ```mermaid
 xychart-beta
     title "tavern-labs-ai/persona-ai-sdk 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 186 --> 193
-    line [192, 187, 187]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 177 --> 193
+    line [192, 187, 178]
 ```
 
-2026-11-02 192 → 2026-11-19 187（-5）
+2026-11-02 192 → 2026-11-20 178（-14）
 
 
 ---

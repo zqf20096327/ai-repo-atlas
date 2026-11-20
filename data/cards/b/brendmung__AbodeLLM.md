@@ -1,6 +1,6 @@
 # brendmung/AbodeLLM
 
-⭐ 31 · 推送 2026-10-20 · [GitHub](https://github.com/brendmung/AbodeLLM) · 个人维护
+⭐ 32 · 推送 2026-10-20 · [GitHub](https://github.com/brendmung/AbodeLLM) · 个人维护
 
 **Android 端离线运行本地 LLM 的 AI 聊天助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "brendmung/AbodeLLM 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 26 --> 32
-    line [27, 28, 29, 28, 31, 31]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 26 --> 33
+    line [27, 28, 29, 28, 31, 32]
 ```
 
-2026-10-18 27 → 2026-11-19 31（+4）
+2026-10-18 27 → 2026-11-20 32（+5）
 
 
 ---

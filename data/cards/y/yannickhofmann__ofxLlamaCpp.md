@@ -46,12 +46,12 @@ openFrameworks 生态的 addon，封装 llama.cpp 推理引擎与 minja.hpp 聊�
 ```mermaid
 xychart-beta
     title "yannickhofmann/ofxLlamaCpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-19 10（+0）
+2026-10-18 10 → 2026-11-20 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # benedekrozemberczki/awesome-fraud-detection-papers
 
-⭐ 1,842 · Python · CC0-1.0 · 推送 2026-01-05 · [GitHub](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) · 个人维护
+⭐ 1,843 · Python · CC0-1.0 · 推送 2026-01-05 · [GitHub](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) · 个人维护
 
 **欺诈检测研究论文策展清单（2022–2025，多会议）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/awesome-fraud-detection-papers 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-20"]
     y-axis "stars" 1838 --> 1844
-    line [1839, 1840, 1839, 1840, 1841, 1839, 1841, 1842, 1843, 1842, 1842]
+    line [1839, 1840, 1839, 1840, 1841, 1839, 1841, 1842, 1843, 1842, 1843]
 ```
 
-2026-10-18 1,839 → 2026-11-19 1,842（+3）
+2026-10-18 1,839 → 2026-11-20 1,843（+4）
 
 
 ---

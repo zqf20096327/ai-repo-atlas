@@ -1,6 +1,6 @@
 # zhixiangli/gomoku-battle
 
-⭐ 21 · Java · 推送 2026-11-14 · [GitHub](https://github.com/zhixiangli/gomoku-battle) · 个人维护
+⭐ 21 · Java · 推送 2026-11-19 · [GitHub](https://github.com/zhixiangli/gomoku-battle) · 个人维护
 
 **跨语言五子棋 AI 对战平台：运行并比较不同 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhixiangli/gomoku-battle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-19 21（+0）
+2026-10-18 21 → 2026-11-20 21（+0）
 
 
 ---

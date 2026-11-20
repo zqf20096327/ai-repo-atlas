@@ -1,6 +1,6 @@
 # s-andthat/palantir-ai-fde-library
 
-⭐ 12 · MIT · 推送 2026-03-16 · [GitHub](https://github.com/s-andthat/palantir-ai-fde-library) · 个人维护
+⭐ 13 · MIT · 推送 2026-03-16 · [GitHub](https://github.com/s-andthat/palantir-ai-fde-library) · 个人维护
 
 **面向 Palantir AI FDE 的社区提示词与 agent 架构参考库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "s-andthat/palantir-ai-fde-library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-19 12（+1）
+2026-10-18 11 → 2026-11-20 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # laozuzhen/xianyu-openclaw-channel
 
-⭐ 95 · Python · 推送 2026-03-08 · [GitHub](https://github.com/laozuzhen/xianyu-openclaw-channel) · 个人维护 · 中文 README
+⭐ 96 · Python · 推送 2026-03-08 · [GitHub](https://github.com/laozuzhen/xianyu-openclaw-channel) · 个人维护 · 中文 README
 
 **将闲鱼消息接入 OpenClaw AI Agent 的频道插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "laozuzhen/xianyu-openclaw-channel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 93 --> 96
-    line [94, 95, 94, 95, 95]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 93 --> 97
+    line [94, 95, 94, 95, 96]
 ```
 
-2026-10-18 94 → 2026-11-19 95（+1）
+2026-10-18 94 → 2026-11-20 96（+2）
 
 
 ---

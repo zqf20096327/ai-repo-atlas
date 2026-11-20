@@ -1,6 +1,6 @@
 # UCSD-E4E/PyHa
 
-⭐ 23 · Jupyter Notebook · NOASSERTION · 推送 2026-02-09 · [GitHub](https://github.com/UCSD-E4E/PyHa) · 组织维护
+⭐ 24 · Jupyter Notebook · NOASSERTION · 推送 2026-02-09 · [GitHub](https://github.com/UCSD-E4E/PyHa) · 组织维护
 
 **将音频弱标签转为逐时刻强标签的生物声学标注工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "UCSD-E4E/PyHa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-19 23（+0）
+2026-10-18 23 → 2026-11-20 24（+1）
 
 
 ---

@@ -42,6 +42,18 @@ FinSync360 是一个已声明不再维护的原型项目，定位为带 Tally ER
 > L57: - **AI-Powered Business Intelligence** - Payment predictions and risk assessment
 > L67: - **AI/ML**: Python FastAPI microservice
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GreenHacker420/Tally_sync 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-11-19 21 → 2026-11-20 21（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `6658c838d4ce` · [字段定义](../../DATASET.md)*

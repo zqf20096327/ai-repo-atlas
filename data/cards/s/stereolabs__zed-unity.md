@@ -1,6 +1,6 @@
 # stereolabs/zed-unity
 
-⭐ 305 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/stereolabs/zed-unity) · [官网](https://www.stereolabs.com/documentation/guides/using-zed-with-unity/introduction.html) · 组织维护
+⭐ 304 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/stereolabs/zed-unity) · [官网](https://www.stereolabs.com/documentation/guides/using-zed-with-unity/introduction.html) · 组织维护
 
 **将 ZED 相机功能带入 Unity 的官方插件**
 
@@ -46,12 +46,12 @@ Stereolabs 官方维护的 Unity 插件，把 ZED 立体相机的深度感知、
 ```mermaid
 xychart-beta
     title "stereolabs/zed-unity 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-20"]
     y-axis "stars" 303 --> 306
-    line [305, 304, 305, 305]
+    line [305, 304, 305, 304]
 ```
 
-2026-10-18 305 → 2026-11-19 305（+0）
+2026-10-18 305 → 2026-11-20 304（-1）
 
 
 ---

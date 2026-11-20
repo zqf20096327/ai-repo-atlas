@@ -1,6 +1,6 @@
 # Exponential-OS/prompt-engineering-in-action
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/Exponential-OS/prompt-engineering-in-action) · [官网](https://thewhyman.blog) · 个人维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Exponential-OS/prompt-engineering-in-action) · [官网](https://thewhyman.blog) · 个人维护
 
 **面向 AI 对话用户的提示词优化与谄媚检测技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Exponential-OS/prompt-engineering-in-action 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-19 11（+1）
+2026-10-18 10 → 2026-11-20 11（+1）
 
 
 ---

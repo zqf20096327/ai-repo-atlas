@@ -1,6 +1,6 @@
 # tapilot-ai/tapilot
 
-⭐ 138 · HTML · MIT · 推送 2026-11-05 · [GitHub](https://github.com/tapilot-ai/tapilot) · [官网](https://tapilot.lifeos.md) · 组织维护 · 中文 README
+⭐ 139 · HTML · MIT · 推送 2026-11-05 · [GitHub](https://github.com/tapilot-ai/tapilot) · [官网](https://tapilot.lifeos.md) · 组织维护 · 中文 README
 
 **用自然语言操控 Android 手机的 AI agent 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tapilot-ai/tapilot 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 34 --> 147
-    line [43, 135, 136, 137, 136, 137, 138, 138]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 34 --> 148
+    line [43, 135, 136, 137, 136, 137, 138, 139]
 ```
 
-2026-11-02 43 → 2026-11-19 138（+95）
+2026-11-02 43 → 2026-11-20 139（+96）
 
 
 ---

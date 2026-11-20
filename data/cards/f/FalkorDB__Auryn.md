@@ -1,6 +1,6 @@
 # FalkorDB/Auryn
 
-⭐ 389 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/FalkorDB/Auryn) · [官网](https://falkordb.com/products/codegraph-auryn) · 组织维护
+⭐ 396 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/FalkorDB/Auryn) · [官网](https://falkordb.com/products/codegraph-auryn) · 组织维护
 
 **把代码库转为可查询代码图，供编码 agent 经 MCP 遍历**
 
@@ -45,13 +45,13 @@ Auryn 将代码库解析为存于 FalkorDB 的代码图，节点与边覆盖函�
 
 ```mermaid
 xychart-beta
-    title "FalkorDB/Auryn 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 350 --> 392
-    line [353, 354, 385, 389]
+    title "FalkorDB/Auryn 星数(近 5 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 349 --> 400
+    line [353, 354, 385, 389, 396]
 ```
 
-2026-11-15 353 → 2026-11-19 389（+36）
+2026-11-15 353 → 2026-11-20 396（+43）
 
 
 ---

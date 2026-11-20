@@ -1,6 +1,6 @@
 # civitai/civitai-gen-skill
 
-⭐ 19 · JavaScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/civitai/civitai-gen-skill) · 组织维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/civitai/civitai-gen-skill) · 组织维护
 
 **通过 Civitai API 生成图像/视频/音频的运行时无关 agent 技能**
 
@@ -46,12 +46,12 @@ Civitai 官方维护的 AgentSkills 格式技能：以零 npm 依赖的 Node.js 
 ```mermaid
 xychart-beta
     title "civitai/civitai-gen-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-20"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-19 19（+2）
+2026-10-18 17 → 2026-11-20 19（+2）
 
 
 ---

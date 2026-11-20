@@ -1,6 +1,6 @@
 # AftabIbrahimKazi/ai-dev-kit
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AftabIbrahimKazi/ai-dev-kit) · [官网](https://ai-dev-kit-docs.vercel.app) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AftabIbrahimKazi/ai-dev-kit) · [官网](https://ai-dev-kit-docs.vercel.app) · 个人维护
 
 **为 AI 编码代理提供 64 个技能、分层规范与可选 MCP 工具的工具包**
 
@@ -45,12 +45,12 @@ MIT 许可的工具包，让读取 markdown 的编码代理（Claude Code、Open
 ```mermaid
 xychart-beta
     title "AftabIbrahimKazi/ai-dev-kit 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-02", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-02 10 → 2026-11-19 11（+1）
+2026-11-02 10 → 2026-11-20 12（+2）
 
 
 ---

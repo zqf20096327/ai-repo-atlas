@@ -1,6 +1,6 @@
 # ayumu-ml/Omnitome
 
-⭐ 18 · JavaScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ayumu-ml/Omnitome) · [官网](https://github.com/avengersvstheflash/Omnitome/releases) · 个人维护
+⭐ 23 · JavaScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ayumu-ml/Omnitome) · [官网](https://github.com/ayumu-ml/Omnitome/releases) · 个人维护
 
 **本地优先 AI 阅读应用：有界语义压缩+逐句溯源**
 
@@ -40,6 +40,18 @@
 > L7:  A Local-First Neural Reading System with Loss-Bounded Semantic Compression, Deterministic Vector Provenance, and On
 > L171: - **Offline / Local Mode (100% Private):** When paired with a local LLM runner (Ollama or LM Studio), all operatio
 > L172: - **Cloud Synthesis Mode (Optional):** When a user explicitly configures a cloud AI provider (OpenRouter or Google
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ayumu-ml/Omnitome 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 17 --> 24
+    line [18, 23]
+```
+
+2026-11-19 18 → 2026-11-20 23（+5）
 
 
 ---

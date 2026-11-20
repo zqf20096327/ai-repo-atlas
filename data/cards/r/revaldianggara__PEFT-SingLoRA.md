@@ -1,6 +1,6 @@
 # revaldianggara/PEFT-SingLoRA
 
-⭐ 48 · Python · BSD-2-Clause · 推送 2026-09-27 · [GitHub](https://github.com/revaldianggara/PEFT-SingLoRA) · 个人维护
+⭐ 47 · Python · BSD-2-Clause · 推送 2026-09-27 · [GitHub](https://github.com/revaldianggara/PEFT-SingLoRA) · 个人维护
 
 **面向 PEFT 生态的单矩阵 LoRA 变体，适配器参数减半**
 
@@ -46,12 +46,12 @@ SingLoRA 的 PEFT 兼容 Python 实现：用单个低秩矩阵（W = W_0 + α/r 
 ```mermaid
 xychart-beta
     title "revaldianggara/PEFT-SingLoRA 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 46 --> 71
-    line [69, 52, 50, 49, 48, 48]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 45 --> 71
+    line [69, 52, 50, 49, 48, 47]
 ```
 
-2026-10-18 69 → 2026-11-19 48（-21）
+2026-10-18 69 → 2026-11-20 47（-22）
 
 
 ---

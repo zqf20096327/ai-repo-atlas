@@ -41,6 +41,18 @@
 > L25: - **Built-in AI, no Ollama required** — a bundled `llama-helper` sidecar runs Gemma 4 locally for summaries, and ca
 > L89: A single Tauri application: a Rust core (audio capture, transcription, storage, summary orchestration) and a Next.j
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bykof/conversationaly 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `96bed84e571c` · [字段定义](../../DATASET.md)*

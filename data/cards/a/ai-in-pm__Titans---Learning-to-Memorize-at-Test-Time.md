@@ -1,6 +1,6 @@
 # ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time
 
-⭐ 263 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time) · 个人维护
+⭐ 251 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time) · 个人维护
 
 **Titans 论文的多 agent 交互演示桌面平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 261 --> 293
-    line [291, 282, 281, 282, 281, 267, 263, 263]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 247 --> 295
+    line [291, 282, 281, 282, 281, 267, 263, 251]
 ```
 
-2026-10-18 291 → 2026-11-19 263（-28）
+2026-10-18 291 → 2026-11-20 251（-40）
 
 
 ---

@@ -42,6 +42,18 @@ Vidify 是一个 ASR 优先的视频理解 agent，输入 YouTube URL、HTTP 视
 > L22: |Search & Ask|Build a FAISS index over transcript, frames, and metadata for evidence-backed Q&A|
 > L77: Vidify expects an OpenAI-compatible multimodal endpoint, usually vLLM:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shepnerd/vidify 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `d696ec34839e` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # pleco-rs/Pleco
 
-⭐ 433 · Rust · GPL-3.0 · 推送 2026-02-22 · [GitHub](https://github.com/pleco-rs/Pleco) · [官网](https://crates.io/crates/pleco) · 个人维护
+⭐ 432 · Rust · GPL-3.0 · 推送 2026-02-22 · [GitHub](https://github.com/pleco-rs/Pleco) · [官网](https://crates.io/crates/pleco) · 个人维护
 
 **Rust 重写的 Stockfish 国际象棋引擎与库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pleco-rs/Pleco 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
     y-axis "stars" 429 --> 434
-    line [431, 430, 432, 433, 433]
+    line [431, 430, 432, 433, 432]
 ```
 
-2026-10-18 431 → 2026-11-19 433（+2）
+2026-10-18 431 → 2026-11-20 432（+1）
 
 
 ---

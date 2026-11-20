@@ -1,6 +1,6 @@
 # arkangelai/second-brain
 
-⭐ 11 · TypeScript · 推送 2026-05-14 · [GitHub](https://github.com/arkangelai/second-brain) · [官网](https://second-brain-web-ashen.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地优先的个人知识库：Markdown + 本地混合检索 + AI agent 读写**
 

@@ -1,6 +1,6 @@
 # rokoss21/facet-compiler
 
-⭐ 138 · Rust · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/rokoss21/facet-compiler) · [官网](https://rokoss21.github.io/facet-compiler/) · 个人维护
+⭐ 131 · Rust · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/rokoss21/facet-compiler) · [官网](https://rokoss21.github.io/facet-compiler/) · 个人维护
 
 **FACET 规约的 Rust 编译器/运行时：把 .facet 契约编译为确定性 AI 请求上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rokoss21/facet-compiler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 137 --> 139
-    line [138, 138]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 130 --> 139
+    line [138, 131]
 ```
 
-2026-10-18 138 → 2026-11-19 138（+0）
+2026-10-18 138 → 2026-11-20 131（-7）
 
 
 ---

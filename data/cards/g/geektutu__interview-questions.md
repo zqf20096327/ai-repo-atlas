@@ -1,6 +1,6 @@
 # geektutu/interview-questions
 
-⭐ 1,152 · Jupyter Notebook · 推送 2026-09-05 · [GitHub](https://github.com/geektutu/interview-questions) · [官网](https://geektutu.com/post/qa-ml.html) · 个人维护 · 中文 README
+⭐ 1,151 · Jupyter Notebook · 推送 2026-09-05 · [GitHub](https://github.com/geektutu/interview-questions) · [官网](https://geektutu.com/post/qa-ml.html) · 个人维护 · 中文 README
 
 **机器学习/深度学习/Python/Go 面试笔试题整理仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "geektutu/interview-questions 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-18", "2026-11-20"]
     y-axis "stars" 1150 --> 1154
-    line [1152, 1153, 1152, 1151, 1152, 1152]
+    line [1152, 1153, 1152, 1151, 1152, 1151]
 ```
 
-2026-10-18 1,152 → 2026-11-19 1,152（+0）
+2026-10-18 1,152 → 2026-11-20 1,151（-1）
 
 
 ---

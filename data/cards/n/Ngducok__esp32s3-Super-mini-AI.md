@@ -1,6 +1,6 @@
 # Ngducok/esp32s3-Super-mini-AI
 
-⭐ 11 · C++ · MIT · 推送 2026-08-21 · [GitHub](https://github.com/Ngducok/esp32s3-Super-mini-AI) · 个人维护
+⭐ 12 · C++ · MIT · 推送 2026-08-21 · [GitHub](https://github.com/Ngducok/esp32s3-Super-mini-AI) · 个人维护
 
 **在 ESP32-S3 上零云依赖本地运行生成式微型 Transformer**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ngducok/esp32s3-Super-mini-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 12（+1）
 
 
 ---

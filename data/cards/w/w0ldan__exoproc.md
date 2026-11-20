@@ -1,6 +1,6 @@
 # w0ldan/exoproc
 
-⭐ 101 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/w0ldan/exoproc) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 AI agent 的 Windows x64 进程逆向与插桩 MCP 工具集**
 
@@ -11,7 +11,7 @@ TypeScript 编写的统一 CLI 与 MCP 服务器（stdio），把 Claude Code、
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

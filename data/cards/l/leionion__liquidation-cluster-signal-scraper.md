@@ -1,6 +1,6 @@
 # leionion/liquidation-cluster-signal-scraper
 
-⭐ 11 · Python · 推送 2026-03-16 · [GitHub](https://github.com/leionion/liquidation-cluster-signal-scraper) · 个人维护
+⭐ 12 · Python · 推送 2026-03-16 · [GitHub](https://github.com/leionion/liquidation-cluster-signal-scraper) · 个人维护
 
 **监控清算热力图与持仓量、预警轧空轧多的加密交易信号机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "leionion/liquidation-cluster-signal-scraper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
     y-axis "stars" 10 --> 14
-    line [12, 13, 11, 11]
+    line [12, 13, 11, 12]
 ```
 
-2026-10-18 12 → 2026-11-19 11（-1）
+2026-10-18 12 → 2026-11-20 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # w3c-cg/ai-agent-protocol
 
-⭐ 76 · HTML · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/w3c-cg/ai-agent-protocol) · [官网](https://w3c-cg.github.io/ai-agent-protocol/) · 组织维护
+⭐ 77 · HTML · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/w3c-cg/ai-agent-protocol) · [官网](https://w3c-cg.github.io/ai-agent-protocol/) · 组织维护
 
 **W3C 社区组的 AI Agent 协议白皮书与规范文档仓库**
 
@@ -44,12 +44,12 @@ W3C AI Agent Protocol Community Group 的工作仓库，托管两份核心文档
 ```mermaid
 xychart-beta
     title "w3c-cg/ai-agent-protocol 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 73 --> 77
-    line [74, 75, 74, 76, 76]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 73 --> 78
+    line [74, 75, 74, 76, 77]
 ```
 
-2026-10-18 74 → 2026-11-19 76（+2）
+2026-10-18 74 → 2026-11-20 77（+3）
 
 
 ---

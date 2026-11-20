@@ -1,6 +1,6 @@
 # tuyulove0725/small-wallet
 
-⭐ 10 · MIT · 推送 2026-11-02 · [GitHub](https://github.com/tuyulove0725/small-wallet) · 个人维护 · 中文 README
+⭐ 11 · MIT · 推送 2026-11-02 · [GitHub](https://github.com/tuyulove0725/small-wallet) · 个人维护 · 中文 README
 
 **教 AI agent 用浏览器与支付宝 AI 付完成购物的实战教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tuyulove0725/small-wallet 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 8 --> 11
-    line [9, 10, 10]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 8 --> 12
+    line [9, 10, 11]
 ```
 
-2026-11-02 9 → 2026-11-19 10（+1）
+2026-11-02 9 → 2026-11-20 11（+2）
 
 
 ---

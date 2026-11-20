@@ -1,6 +1,6 @@
 # DarkNoah/aime-chat
 
-⭐ 49 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DarkNoah/aime-chat) · [官网](https://darknoah.github.io/aime-chat/) · 个人维护 · 中文 README
+⭐ 48 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DarkNoah/aime-chat) · [官网](https://darknoah.github.io/aime-chat/) · 个人维护 · 中文 README
 
 **跨平台 AI 桌面协作应用：多模型对话、RAG 知识库与 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DarkNoah/aime-chat 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
     y-axis "stars" 45 --> 50
-    line [46, 48, 46, 48, 49, 49]
+    line [46, 48, 46, 48, 49, 48]
 ```
 
-2026-10-18 46 → 2026-11-19 49（+3）
+2026-10-18 46 → 2026-11-20 48（+2）
 
 
 ---

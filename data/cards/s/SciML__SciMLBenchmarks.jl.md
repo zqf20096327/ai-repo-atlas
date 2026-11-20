@@ -1,6 +1,6 @@
 # SciML/SciMLBenchmarks.jl
 
-⭐ 349 · Julia · MIT · 推送 2026-11-15 · [GitHub](https://github.com/SciML/SciMLBenchmarks.jl) · [官网](https://docs.sciml.ai/SciMLBenchmarksOutput/stable/) · 组织维护
+⭐ 348 · Julia · MIT · 推送 2026-11-15 · [GitHub](https://github.com/SciML/SciMLBenchmarks.jl) · [官网](https://docs.sciml.ai/SciMLBenchmarksOutput/stable/) · 组织维护
 
 **SciML 生态的科学机器学习与微分方程求解器基准集合**
 
@@ -46,12 +46,12 @@ SciMLBenchmarks.jl 收录科学机器学习软件生态的基准测试网页、P
 ```mermaid
 xychart-beta
     title "SciML/SciMLBenchmarks.jl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-20"]
     y-axis "stars" 345 --> 350
-    line [346, 347, 349, 349]
+    line [346, 347, 349, 348]
 ```
 
-2026-10-18 346 → 2026-11-19 349（+3）
+2026-10-18 346 → 2026-11-20 348（+2）
 
 
 ---

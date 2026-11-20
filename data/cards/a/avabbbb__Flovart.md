@@ -1,6 +1,6 @@
 # avabbbb/Flovart
 
-⭐ 145 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/avabbbb/Flovart) · [官网](flovart.avabbbb.com) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **开源本地优先的可视化创作工作台，人与编码 Agent 共用同一画布**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

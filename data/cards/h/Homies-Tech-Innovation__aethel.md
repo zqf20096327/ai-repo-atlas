@@ -1,6 +1,6 @@
 # Homies-Tech-Innovation/aethel
 
-⭐ 16 · TypeScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/Homies-Tech-Innovation/aethel) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向写作者与开发者的 AI 辅助 Markdown 编辑器**
 
@@ -11,7 +11,7 @@ Aethel 是一个 Markdown 编辑器，内置 AI 聊天助手，帮助用户专�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # AI4Science-WestlakeU/group-meeting-materials
 
-⭐ 19 · 推送 2026-11-18 · [GitHub](https://github.com/AI4Science-WestlakeU/group-meeting-materials) · [官网](https://ai4s.lab.westlake.edu.cn/) · 组织维护 · 中文 README
+⭐ 20 · 推送 2026-11-18 · [GitHub](https://github.com/AI4Science-WestlakeU/group-meeting-materials) · [官网](https://ai4s.lab.westlake.edu.cn/) · 组织维护 · 中文 README
 
 **实验室组会资料汇编：生成模型与机器学习主题分享**
 
@@ -41,13 +41,13 @@ TalentLab（Tailin Wu 实验室，西湖大学）组会资料合集仓库，收�
 
 ```mermaid
 xychart-beta
-    title "AI4Science-WestlakeU/group-meeting-materials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 17 --> 20
-    line [18, 19]
+    title "AI4Science-WestlakeU/group-meeting-materials 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-11-19 19（+1）
+2026-10-18 18 → 2026-11-20 20（+2）
 
 
 ---

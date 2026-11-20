@@ -1,6 +1,6 @@
 # ArtNazarov/HtmlBuilder
 
-⭐ 13 · Pascal · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/ArtNazarov/HtmlBuilder) · [官网](https://apprr.rf.gd/HtmlBuilder/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **FreePascal 编写的静态网站生成器，含本地服务器与 Ollama AI 助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

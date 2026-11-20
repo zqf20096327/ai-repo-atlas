@@ -1,6 +1,6 @@
 # AMRITO-KUNDU/llmscribe
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/AMRITO-KUNDU/llmscribe) · [官网](https://llmscribe.vercel.app) · 个人维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/AMRITO-KUNDU/llmscribe) · [官网](https://llmscribe.vercel.app) · 个人维护
 
 **给 AI agent 用的跨平台结构化文件系统接口（MCP/CLI/Python）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AMRITO-KUNDU/llmscribe 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 40 --> 68
-    line [42, 44, 47, 50, 53, 55, 60, 64, 66]
+    title "AMRITO-KUNDU/llmscribe 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 39 --> 75
+    line [42, 44, 47, 50, 53, 55, 60, 64, 66, 72]
 ```
 
-2026-11-10 42 → 2026-11-19 66（+24）
+2026-11-10 42 → 2026-11-20 72（+30）
 
 
 ---

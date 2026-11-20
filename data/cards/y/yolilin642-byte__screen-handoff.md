@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yolilin642-byte/screen-handoff 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-19"]
+    title "yolilin642-byte/screen-handoff 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-19", "2026-11-20"]
     y-axis "stars" 15 --> 18
-    line [16, 17]
+    line [16, 17, 17]
 ```
 
-2026-11-10 16 → 2026-11-19 17（+1）
+2026-11-10 16 → 2026-11-20 17（+1）
 
 
 ---

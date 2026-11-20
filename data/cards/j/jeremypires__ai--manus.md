@@ -1,6 +1,6 @@
 # jeremypires/ai--manus
 
-⭐ 201 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/jeremypires/ai--manus) · 个人维护
+⭐ 200 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/jeremypires/ai--manus) · 个人维护
 
 **自主执行代码与控制浏览器的通用 AI Agent 系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jeremypires/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
     y-axis "stars" 133 --> 285
-    line [145, 273, 201, 201]
+    line [145, 273, 201, 200]
 ```
 
-2026-11-13 145 → 2026-11-19 201（+56）
+2026-11-13 145 → 2026-11-20 200（+55）
 
 
 ---

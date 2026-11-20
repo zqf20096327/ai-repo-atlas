@@ -46,12 +46,12 @@ pnpm workspace 形式的 pi coding agent 扩展合集，每个 extensions/ 下�
 ```mermaid
 xychart-beta
     title "emanuelcasco/pi-mono-extensions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-20"]
     y-axis "stars" 107 --> 111
     line [108, 109, 110, 110]
 ```
 
-2026-10-18 108 → 2026-11-19 110（+2）
+2026-10-18 108 → 2026-11-20 110（+2）
 
 
 ---

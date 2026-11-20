@@ -1,6 +1,6 @@
 # google-deepmind/alphaevolve
 
-⭐ 69 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/google-deepmind/alphaevolve) · 组织维护
+⭐ 71 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/google-deepmind/alphaevolve) · 组织维护
 
 **DeepMind 的算法与科学发现编码 Agent 论文代码**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/alphaevolve 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 39 --> 71
-    line [41, 44, 46, 49, 51, 58, 63, 69]
+    title "google-deepmind/alphaevolve 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 38 --> 74
+    line [41, 44, 46, 49, 51, 58, 63, 69, 71]
 ```
 
-2026-11-08 41 → 2026-11-19 69（+28）
+2026-11-08 41 → 2026-11-20 71（+30）
 
 
 ---

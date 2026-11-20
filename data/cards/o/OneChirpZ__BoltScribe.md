@@ -1,6 +1,6 @@
 # OneChirpZ/BoltScribe
 
-⭐ 13 · Rust · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/OneChirpZ/BoltScribe) · 个人维护 · 中文 README
+⭐ 13 · Rust · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/OneChirpZ/BoltScribe) · 个人维护 · 中文 README
 
 **macOS/Windows 桌面听写应用：全局热键语音转文字**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OneChirpZ/BoltScribe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-20"]
     y-axis "stars" 12 --> 15
     line [13, 14, 13, 13]
 ```
 
-2026-10-18 13 → 2026-11-19 13（+0）
+2026-10-18 13 → 2026-11-20 13（+0）
 
 
 ---

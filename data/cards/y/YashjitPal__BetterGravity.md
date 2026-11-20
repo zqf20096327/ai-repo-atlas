@@ -1,6 +1,6 @@
 # YashjitPal/BetterGravity
 
-⭐ 234 · JavaScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/YashjitPal/BetterGravity) · [官网](https://github.com/YashjitPal/BetterGravity/releases) · 个人维护
+⭐ 237 · JavaScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/YashjitPal/BetterGravity) · [官网](https://github.com/YashjitPal/BetterGravity/releases) · 个人维护
 
 **Google Antigravity 的开源社区改造平台：主题、插件与增强功能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YashjitPal/BetterGravity 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 221 --> 235
-    line [222, 223, 222, 223, 224, 223, 225, 226, 228, 229, 230, 231, 234]
+    title "YashjitPal/BetterGravity 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 221 --> 238
+    line [222, 223, 222, 223, 224, 223, 225, 226, 228, 229, 230, 231, 234, 237]
 ```
 
-2026-10-18 222 → 2026-11-19 234（+12）
+2026-10-18 222 → 2026-11-20 237（+15）
 
 
 ---

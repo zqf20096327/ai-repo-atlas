@@ -1,6 +1,6 @@
 # luckui/dsh-game
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/luckui/dsh-game) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/luckui/dsh-game) · 个人维护 · 中文 README
 
 **让 AI agent 自动玩狼人杀、Minecraft 等游戏的 DSH 插件**
 
@@ -44,13 +44,13 @@ DeepSeek Harness（DSH）的插件，安装后 DSH 的 agent 以「大肥鱼」�
 
 ```mermaid
 xychart-beta
-    title "luckui/dsh-game 星数(近 7 点)"
-    x-axis ["2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-19"]
-    y-axis "stars" 3 --> 16
-    line [4, 5, 6, 12, 13, 14, 15]
+    title "luckui/dsh-game 星数(近 8 点)"
+    x-axis ["2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 3 --> 18
+    line [4, 5, 6, 12, 13, 14, 15, 17]
 ```
 
-2026-10-30 4 → 2026-11-19 15（+11）
+2026-10-30 4 → 2026-11-20 17（+13）
 
 
 ---

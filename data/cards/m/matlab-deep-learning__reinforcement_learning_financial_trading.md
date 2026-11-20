@@ -46,12 +46,12 @@ MathWorks 官方 MATLAB 示例项目，演示用强化学习训练股票交易�
 ```mermaid
 xychart-beta
     title "matlab-deep-learning/reinforcement_learning_financial_trading 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
     y-axis "stars" 183 --> 186
     line [184, 185, 185]
 ```
 
-2026-10-18 184 → 2026-11-19 185（+1）
+2026-10-18 184 → 2026-11-20 185（+1）
 
 
 ---

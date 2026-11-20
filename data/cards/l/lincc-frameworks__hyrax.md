@@ -1,6 +1,6 @@
 # lincc-frameworks/hyrax
 
-⭐ 43 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lincc-frameworks/hyrax) · [官网](https://hyrax.readthedocs.io/) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lincc-frameworks/hyrax) · [官网](https://hyrax.readthedocs.io/) · 组织维护
 
 **面向天文学的低代码 ML 实验框架，减少样板代码**
 
@@ -45,12 +45,12 @@ Hyrax 是一个可扩展的机器学习平台，用于处理天文学 ML 项目�
 ```mermaid
 xychart-beta
     title "lincc-frameworks/hyrax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44]
 ```
 
-2026-10-18 42 → 2026-11-19 43（+1）
+2026-10-18 42 → 2026-11-20 44（+2）
 
 
 ---

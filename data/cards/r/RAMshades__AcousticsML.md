@@ -1,6 +1,6 @@
 # RAMshades/AcousticsML
 
-⭐ 143 · Jupyter Notebook · 推送 2026-04-17 · [GitHub](https://github.com/RAMshades/AcousticsML) · 组织维护
+⭐ 144 · Jupyter Notebook · 推送 2026-04-17 · [GitHub](https://github.com/RAMshades/AcousticsML) · 组织维护
 
 **声学机器学习教程仓库：覆盖信号处理到深度学习的示例 notebooks**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RAMshades/AcousticsML 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 140 --> 144
-    line [141, 143, 143]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 140 --> 145
+    line [141, 143, 144]
 ```
 
-2026-10-18 141 → 2026-11-19 143（+2）
+2026-10-18 141 → 2026-11-20 144（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ElmerAlan-an/human_chat_operit
 
-⭐ 11 · MIT · 推送 2026-05-13 · [GitHub](https://github.com/ElmerAlan-an/human_chat_operit) · 个人维护 · 中文 README
+⭐ 13 · MIT · 推送 2026-05-13 · [GitHub](https://github.com/ElmerAlan-an/human_chat_operit) · 个人维护 · 中文 README
 
 **Operit AI 助手的真人化聊天插件，提供人格与情绪切换**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ElmerAlan-an/human_chat_operit 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-19"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-22", "2026-11-20"]
+    y-axis "stars" 10 --> 14
+    line [11, 13]
 ```
 
-2026-10-22 11 → 2026-11-19 11（+0）
+2026-10-22 11 → 2026-11-20 13（+2）
 
 
 ---

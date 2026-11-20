@@ -1,6 +1,6 @@
 # cnblogs/dashscope-sdk
 
-⭐ 119 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cnblogs/dashscope-sdk) · [官网](https://www.nuget.org/packages/Cnblogs.DashScope.AspNetCore) · 组织维护 · 中文 README
+⭐ 119 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cnblogs/dashscope-sdk) · [官网](https://www.nuget.org/packages/Cnblogs.DashScope.AspNetCore) · 组织维护 · 中文 README
 
 **面向 .NET 的非官方 DashScope（百炼）服务 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cnblogs/dashscope-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 118 --> 120
     line [119, 119]
 ```
 
-2026-10-18 119 → 2026-11-19 119（+0）
+2026-10-18 119 → 2026-11-20 119（+0）
 
 
 ---

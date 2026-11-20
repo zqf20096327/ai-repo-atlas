@@ -1,6 +1,6 @@
 # kfq20/Coleaf
 
-⭐ 20 · TypeScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/kfq20/Coleaf) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/kfq20/Coleaf) · 个人维护 · 中文 README
 
 **把 Overleaf Git 项目变成多人协作的 AI LaTeX 写作工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kfq20/Coleaf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 18 --> 21
+    line [20, 19]
 ```
 
-2026-10-18 20 → 2026-11-19 20（+0）
+2026-10-18 20 → 2026-11-20 19（-1）
 
 
 ---

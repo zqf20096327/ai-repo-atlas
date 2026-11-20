@@ -1,6 +1,6 @@
 # x4nth055/pythoncode-tutorials
 
-⭐ 3,004 · Jupyter Notebook · MIT · 推送 2026-09-30 · [GitHub](https://github.com/x4nth055/pythoncode-tutorials) · [官网](https://www.thepythoncode.com) · 个人维护
+⭐ 3,003 · Jupyter Notebook · MIT · 推送 2026-09-30 · [GitHub](https://github.com/x4nth055/pythoncode-tutorials) · [官网](https://www.thepythoncode.com) · 个人维护
 
 **The Python Code 网站的 Python 教程代码合集（多领域）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "x4nth055/pythoncode-tutorials 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
     y-axis "stars" 2998 --> 3005
-    line [3001, 3000, 2999, 3002, 3003, 3004, 3004]
+    line [3001, 3000, 2999, 3002, 3003, 3004, 3003]
 ```
 
-2026-10-18 3,001 → 2026-11-19 3,004（+3）
+2026-10-18 3,001 → 2026-11-20 3,003（+2）
 
 
 ---

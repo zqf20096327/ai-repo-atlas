@@ -1,6 +1,6 @@
 # VisualxIntelligence/motion-tools-and-skills
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/VisualxIntelligence/motion-tools-and-skills) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/VisualxIntelligence/motion-tools-and-skills) · 个人维护
 
 **为 AI agent 做动态设计提供的技能、提示词与工具集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VisualxIntelligence/motion-tools-and-skills 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 3 --> 13
-    line [4, 5, 6, 5, 9, 10, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 3 --> 15
+    line [4, 5, 6, 5, 9, 10, 11, 12, 14]
 ```
 
-2026-10-18 4 → 2026-11-19 12（+8）
+2026-10-18 4 → 2026-11-20 14（+10）
 
 
 ---

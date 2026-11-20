@@ -1,6 +1,6 @@
 # finettt/DroidClaw
 
-⭐ 39 · Java · 推送 2026-11-18 · [GitHub](https://github.com/finettt/DroidClaw) · [官网](https://finett.undo.it/droidclaw) · 个人维护
+⭐ 39 · Java · 推送 2026-11-19 · [GitHub](https://github.com/finettt/DroidClaw) · [官网](https://finett.undo.it/droidclaw) · 个人维护
 
 **无 root 的 Android 原生个人 AI 助手应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "finettt/DroidClaw 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
     y-axis "stars" 34 --> 40
     line [35, 36, 37, 36, 38, 39, 39]
 ```
 
-2026-10-18 35 → 2026-11-19 39（+4）
+2026-10-18 35 → 2026-11-20 39（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # matthias-wright/flaxmodels
 
-⭐ 267 · Python · 推送 2026-09-04 · [GitHub](https://github.com/matthias-wright/flaxmodels) · [官网](https://github.com/matthias-wright/flaxmodels) · 个人维护
+⭐ 268 · Python · 推送 2026-09-04 · [GitHub](https://github.com/matthias-wright/flaxmodels) · [官网](https://github.com/matthias-wright/flaxmodels) · 个人维护
 
 **Jax/Flax 预训练模型集合：GPT2/StyleGAN2/VGG/ResNet 等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "matthias-wright/flaxmodels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 266 --> 268
-    line [267, 267]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 266 --> 269
+    line [267, 268]
 ```
 
-2026-10-18 267 → 2026-11-19 267（+0）
+2026-10-18 267 → 2026-11-20 268（+1）
 
 
 ---

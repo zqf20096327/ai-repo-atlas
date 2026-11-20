@@ -1,6 +1,6 @@
 # renee-jia/alpha-agent
 
-⭐ 24 · Python · 推送 2026-03-06 · [GitHub](https://github.com/renee-jia/alpha-agent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多 agent 量化交易平台：股票期权信号生成与回测**
 

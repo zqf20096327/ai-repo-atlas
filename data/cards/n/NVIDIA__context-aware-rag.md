@@ -1,6 +1,6 @@
 # NVIDIA/context-aware-rag
 
-⭐ 94 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/context-aware-rag) · 组织维护
+⭐ 93 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/context-aware-rag) · 组织维护
 
 **NVIDIA 的 RAG 管道库：数据摄取、检索与知识图谱构建**
 
@@ -46,12 +46,12 @@ Context Aware RAG（CA-RAG）是 NVIDIA 维护的库，面向已有数据处理�
 ```mermaid
 xychart-beta
     title "NVIDIA/context-aware-rag 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20"]
     y-axis "stars" 91 --> 95
-    line [92, 93, 94, 93, 94, 94]
+    line [92, 93, 94, 93, 94, 93]
 ```
 
-2026-10-18 92 → 2026-11-19 94（+2）
+2026-10-18 92 → 2026-11-20 93（+1）
 
 
 ---

@@ -46,12 +46,12 @@ TypeScript 编写的 DSH 插件，将钉钉群消息接入 DeepSeek Harness：�
 ```mermaid
 xychart-beta
     title "HiQ-AI/dingtalk-dsh-assistant 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-19"]
+    x-axis ["2026-11-12", "2026-11-20"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-12 11 → 2026-11-19 11（+0）
+2026-11-12 11 → 2026-11-20 11（+0）
 
 
 ---

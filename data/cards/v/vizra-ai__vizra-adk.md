@@ -1,6 +1,6 @@
 # vizra-ai/vizra-adk
 
-⭐ 296 · PHP · MIT · 推送 2026-10-09 · [GitHub](https://github.com/vizra-ai/vizra-adk) · 组织维护
+⭐ 295 · PHP · MIT · 推送 2026-10-09 · [GitHub](https://github.com/vizra-ai/vizra-adk) · 组织维护
 
 **Laravel 的 AI Agent 开发框架，已停止维护**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vizra-ai/vizra-adk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-11", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-11", "2026-11-20"]
     y-axis "stars" 294 --> 297
-    line [295, 296, 295, 296, 296]
+    line [295, 296, 295, 296, 295]
 ```
 
-2026-10-18 295 → 2026-11-19 296（+1）
+2026-10-18 295 → 2026-11-20 295（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # evansinho/Lumina
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/evansinho/Lumina) · [官网](https://uselumina.io) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/evansinho/Lumina) · [官网](https://uselumina.io) · 组织维护
 
 **LLM 应用自托管可观测平台：追踪成本、延迟与质量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "evansinho/Lumina 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-19"]
+    x-axis ["2026-10-23", "2026-11-20"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-19 10（+0）
+2026-10-23 10 → 2026-11-20 10（+0）
 
 
 ---

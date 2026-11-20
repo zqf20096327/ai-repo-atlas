@@ -41,6 +41,18 @@
 > L15: - speech recognition **Speech Recognition** -- Browser-native speech-to-text via Web Speech API with interim result
 > L128: |ai AI|Google Gemini 2.0 Flash (via Netlify Functions + Edge Functions)|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "naveed-gung/nova 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-19 10 → 2026-11-20 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `540f740a6eb0` · [字段定义](../../DATASET.md)*

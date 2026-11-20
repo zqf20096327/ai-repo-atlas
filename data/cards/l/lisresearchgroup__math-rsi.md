@@ -1,6 +1,6 @@
 # lisresearchgroup/math-rsi
 
-⭐ 41 · Lean · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lisresearchgroup/math-rsi) · [官网](https://lisresearchgroup.github.io/math-rsi/) · 组织维护 · 中文 README
+⭐ 58 · Lean · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lisresearchgroup/math-rsi) · [官网](https://lisresearchgroup.github.io/math-rsi/) · 组织维护 · 中文 README
 
 **面向数学发现与证明的自改进 agent 技能包，适配 Claude Code 与 Codex**
 
@@ -40,6 +40,18 @@ MathRSI 提供一套 Markdown 形式的 skills 与领域验证器，供 Claude C
 > L3: **A self-improving agent harness for mathematical discovery and proof.** Readable Markdown skills and domain verifie
 > L11: MathRSI pairs a shared base workflow with domain plugins and a per-problem research wiki, guiding Claude Code and C
 > L62: The main `mathrsi-research` skill coordinates **Prepare → Route → Prove → Verify → Handoff**, entering from current
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lisresearchgroup/math-rsi 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 40 --> 59
+    line [41, 58]
+```
+
+2026-11-19 41 → 2026-11-20 58（+17）
 
 
 ---

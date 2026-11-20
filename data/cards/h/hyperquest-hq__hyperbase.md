@@ -1,6 +1,6 @@
 # hyperquest-hq/hyperbase
 
-⭐ 653 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hyperquest-hq/hyperbase) · [官网](https://hyperquest.ai/hyperbase) · 组织维护
+⭐ 652 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hyperquest-hq/hyperbase) · [官网](https://hyperquest.ai/hyperbase) · 组织维护
 
 **语义超图基础库：将自然语言句子表示为有序递归超链接**
 
@@ -44,13 +44,13 @@ Python 编写的基础库，用于构建和处理语义超图（Semantic Hypergr
 
 ```mermaid
 xychart-beta
-    title "hyperquest-hq/hyperbase 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19"]
+    title "hyperquest-hq/hyperbase 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
     y-axis "stars" 649 --> 654
-    line [650, 651, 650, 651, 652, 653]
+    line [650, 651, 650, 651, 652, 653, 652]
 ```
 
-2026-10-18 650 → 2026-11-19 653（+3）
+2026-10-18 650 → 2026-11-20 652（+2）
 
 
 ---

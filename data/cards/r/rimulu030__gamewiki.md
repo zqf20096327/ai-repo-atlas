@@ -1,6 +1,6 @@
 # rimulu030/gamewiki
 
-⭐ 310 · Python · GPL-3.0 · 推送 2026-03-03 · [GitHub](https://github.com/rimulu030/gamewiki) · [官网](https://www.gamewiki.app) · 个人维护 · 中文 README
+⭐ 311 · Python · GPL-3.0 · 推送 2026-03-03 · [GitHub](https://github.com/rimulu030/gamewiki) · [官网](https://www.gamewiki.app) · 个人维护 · 中文 README
 
 **游戏内 Wiki 覆盖层工具：热键呼出 Wiki 与 Gemini 问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rimulu030/gamewiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
     y-axis "stars" 309 --> 312
-    line [311, 310, 310]
+    line [311, 310, 311]
 ```
 
-2026-10-18 311 → 2026-11-19 310（-1）
+2026-10-18 311 → 2026-11-20 311（+0）
 
 
 ---

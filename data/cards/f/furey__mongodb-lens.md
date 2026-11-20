@@ -1,6 +1,6 @@
 # furey/mongodb-lens
 
-⭐ 207 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/furey/mongodb-lens) · [官网](https://www.npmjs.com/package/mongodb-lens) · 个人维护
+⭐ 207 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/furey/mongodb-lens) · [官网](https://www.npmjs.com/package/mongodb-lens) · 个人维护
 
 **面向 MongoDB 数据库的全功能 MCP 本地服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "furey/mongodb-lens 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-20"]
     y-axis "stars" 206 --> 208
     line [207, 207]
 ```
 
-2026-11-08 207 → 2026-11-19 207（+0）
+2026-11-08 207 → 2026-11-20 207（+0）
 
 
 ---

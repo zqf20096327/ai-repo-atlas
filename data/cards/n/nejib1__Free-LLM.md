@@ -1,6 +1,6 @@
 # nejib1/Free-LLM
 
-⭐ 1,058 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/nejib1/Free-LLM) · [官网](https://free-llm.com) · 个人维护
+⭐ 1,068 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/nejib1/Free-LLM) · [官网](https://free-llm.com) · 个人维护
 
 **免费 LLM API 目录+路由器：把各家免费额度聚合到一个端点**
 
@@ -40,6 +40,18 @@
 > L17: ## ⚡ New: Free-LLM Router — all these free APIs behind one address
 > L19: **The idea:** every provider below gives a *small* free plan, each with its own key and limits. The router stacks t
 > L31: Works with zero keys to try (guest mode) · one-command setup for coding agents · OpenAI, Anthropic, Codex Responses
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nejib1/Free-LLM 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 1057 --> 1069
+    line [1058, 1068]
+```
+
+2026-11-19 1,058 → 2026-11-20 1,068（+10）
 
 
 ---

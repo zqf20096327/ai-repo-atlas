@@ -1,6 +1,6 @@
 # marswangyang/personal-ai-memory
 
-⭐ 70 · TypeScript · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/marswangyang/personal-ai-memory) · [官网](https://ai-memory-beta.vercel.app/) · 个人维护 · 中文 README
+⭐ 71 · TypeScript · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/marswangyang/personal-ai-memory) · [官网](https://ai-memory-beta.vercel.app/) · 个人维护 · 中文 README
 
 **本地优先的 Chrome 扩展：捕获 AI 对话为私有记忆并注入回新对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "marswangyang/personal-ai-memory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
     y-axis "stars" 68 --> 72
-    line [69, 70, 69, 71, 70, 70]
+    line [69, 70, 69, 71, 70, 71]
 ```
 
-2026-10-18 69 → 2026-11-19 70（+1）
+2026-10-18 69 → 2026-11-20 71（+2）
 
 
 ---

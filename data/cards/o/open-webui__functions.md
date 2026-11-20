@@ -1,6 +1,6 @@
 # open-webui/functions
 
-⭐ 72 · Python · 推送 2025-11-23 · [GitHub](https://github.com/open-webui/functions) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Open WebUI 官方团队审核的自定义 Functions 策展集合**
 

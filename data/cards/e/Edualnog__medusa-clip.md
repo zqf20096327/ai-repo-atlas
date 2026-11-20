@@ -1,6 +1,6 @@
 # Edualnog/medusa-clip
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-06-23 · [GitHub](https://github.com/Edualnog/medusa-clip) · [官网](https://medusaclip.com) · 个人维护
+⭐ 25 · Python · AGPL-3.0 · 推送 2026-06-23 · [GitHub](https://github.com/Edualnog/medusa-clip) · [官网](https://medusaclip.com) · 个人维护
 
 **本地运行的游戏高光切片工具：长视频自动生成 9:16 竖屏短剪辑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Edualnog/medusa-clip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-11-19 24（+0）
+2026-10-18 24 → 2026-11-20 25（+1）
 
 
 ---

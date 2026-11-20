@@ -1,6 +1,6 @@
 # ConveyThis/claude-translator
 
-⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-08-30 · [GitHub](https://github.com/ConveyThis/claude-translator) · [官网](https://www.conveythis.com/open-source/claude-translator?utm_source=github&utm_medium=repo-homepage&utm_campaign=claude-translator) · 组织维护
+⭐ 13 · JavaScript · AGPL-3.0 · 推送 2026-08-30 · [GitHub](https://github.com/ConveyThis/claude-translator) · [官网](https://www.conveythis.com/open-source/claude-translator?utm_source=github&utm_medium=repo-homepage&utm_campaign=claude-translator) · 组织维护
 
 **静态站点多语言本地化管线：AI 翻译已构建的 HTML**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ConveyThis/claude-translator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-19 12（+0）
+2026-10-18 12 → 2026-11-20 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NEUIR/Uncode
 
-⭐ 46 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/NEUIR/Uncode) · [官网](https://passionate11.github.io/Uncode-project-page/) · 组织维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/NEUIR/Uncode) · [官网](https://passionate11.github.io/Uncode-project-page/) · 组织维护 · 中文 README
 
 **掩码扩散语言模型的免训练解码校准方法（ACL 2026 论文代码）**
 
@@ -45,12 +45,12 @@ UNCODE（曾名 PC-Sampler）是针对 LLaDA、Dream 等掩码扩散语言模型
 ```mermaid
 xychart-beta
     title "NEUIR/Uncode 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-19"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-20"]
     y-axis "stars" 44 --> 47
     line [45, 46, 46]
 ```
 
-2026-10-19 45 → 2026-11-19 46（+1）
+2026-10-19 45 → 2026-11-20 46（+1）
 
 
 ---

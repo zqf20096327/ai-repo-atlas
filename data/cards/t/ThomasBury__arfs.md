@@ -1,6 +1,6 @@
 # ThomasBury/arfs
 
-⭐ 145 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ThomasBury/arfs) · 个人维护
+⭐ 145 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ThomasBury/arfs) · 个人维护
 
 **Python 全相关特征选择库：Leshy/BoostAGroota/GrootCV 三算法**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThomasBury/arfs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 144 --> 146
     line [145, 145]
 ```
 
-2026-10-18 145 → 2026-11-19 145（+0）
+2026-10-18 145 → 2026-11-20 145（+0）
 
 
 ---

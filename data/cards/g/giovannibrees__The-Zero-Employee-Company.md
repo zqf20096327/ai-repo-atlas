@@ -1,6 +1,6 @@
 # giovannibrees/The-Zero-Employee-Company
 
-⭐ 27 · HTML · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/giovannibrees/The-Zero-Employee-Company) · [官网](https://thezeroemployeecompany.com) · 个人维护
+⭐ 24 · HTML · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/giovannibrees/The-Zero-Employee-Company) · [官网](https://thezeroemployeecompany.com) · 个人维护
 
 **书籍《The Zero-Employee Company》官方宣传站点**
 
@@ -44,13 +44,13 @@ Giovanni Brees 所著书籍 The Zero-E Employee Company 的官方网站仓库，
 
 ```mermaid
 xychart-beta
-    title "giovannibrees/The-Zero-Employee-Company 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 25 --> 28
-    line [26, 27]
+    title "giovannibrees/The-Zero-Employee-Company 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 23 --> 28
+    line [26, 27, 24]
 ```
 
-2026-10-18 26 → 2026-11-19 27（+1）
+2026-10-18 26 → 2026-11-20 24（-2）
 
 
 ---

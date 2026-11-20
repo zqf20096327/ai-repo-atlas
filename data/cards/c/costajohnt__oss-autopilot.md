@@ -1,6 +1,6 @@
 # costajohnt/oss-autopilot
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/costajohnt/oss-autopilot) · [官网](https://github.com/costajohnt/oss-autopilot#readme) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/costajohnt/oss-autopilot) · [官网](https://github.com/costajohnt/oss-autopilot#readme) · 个人维护
 
 **管理开源贡献的 Claude Code 插件：追踪 PR、起草回复、找 issue**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "costajohnt/oss-autopilot 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20"]
     y-axis "stars" 18 --> 31
     line [19, 21, 23, 25, 26, 23, 28, 29, 30, 30]
 ```
 
-2026-10-18 19 → 2026-11-19 30（+11）
+2026-10-18 19 → 2026-11-20 30（+11）
 
 
 ---

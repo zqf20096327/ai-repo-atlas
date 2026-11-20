@@ -1,6 +1,6 @@
 # AndyZHENG0715/TCM-Sage
 
-⭐ 11 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AndyZHENG0715/TCM-Sage) · [官网](https://tcm-sage-sandy.vercel.app) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AndyZHENG0715/TCM-Sage) · [官网](https://tcm-sage-sandy.vercel.app) · 个人维护 · 中文 README
 
 **面向中医从业者：基于RAG的古籍循证问答助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AndyZHENG0715/TCM-Sage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-19 11（+0）
+2026-10-18 11 → 2026-11-20 12（+1）
 
 
 ---

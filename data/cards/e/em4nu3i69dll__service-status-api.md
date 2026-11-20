@@ -1,6 +1,6 @@
 # em4nu3i69dll/service-status-api
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/em4nu3i69dll/service-status-api) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **加密服务状态监控 API：Go 代理探测，Ollama 本地生成报告**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

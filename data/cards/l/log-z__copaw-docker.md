@@ -1,6 +1,6 @@
 # log-z/copaw-docker
 
-⭐ 60 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/log-z/copaw-docker) · 个人维护 · 中文 README
+⭐ 60 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/log-z/copaw-docker) · 个人维护 · 中文 README
 
 **QwenPaw 个人 AI 助手的 Docker 部署方案，一键构建运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "log-z/copaw-docker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-11-19 60（+0）
+2026-10-18 60 → 2026-11-20 60（+0）
 
 
 ---

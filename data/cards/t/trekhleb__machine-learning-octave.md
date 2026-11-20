@@ -1,6 +1,6 @@
 # trekhleb/machine-learning-octave
 
-⭐ 903 · MATLAB · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/machine-learning-octave) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MatLab/Octave 机器学习算法教学示例集：代码加数学推导**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

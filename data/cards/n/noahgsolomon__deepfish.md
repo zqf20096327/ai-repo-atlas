@@ -1,6 +1,6 @@
 # noahgsolomon/deepfish
 
-⭐ 98 · TypeScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/noahgsolomon/deepfish) · [官网](https://deepfi.sh) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向用户的可视化 AI 工作流编排平台，接入 Fal.ai 与 Replicate**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

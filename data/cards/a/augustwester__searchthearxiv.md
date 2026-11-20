@@ -1,6 +1,6 @@
 # augustwester/searchthearxiv
 
-⭐ 179 · Python · GPL-3.0 · 推送 2026-05-17 · [GitHub](https://github.com/augustwester/searchthearxiv) · [官网](https://searchthearxiv.com) · 个人维护
+⭐ 178 · Python · GPL-3.0 · 推送 2026-05-17 · [GitHub](https://github.com/augustwester/searchthearxiv) · [官网](https://searchthearxiv.com) · 个人维护
 
 **面向 arXiv 逾 50 万篇 ML 论文的语义搜索引擎源码**
 
@@ -45,12 +45,12 @@ searchthearxiv.com 网站的实现代码，对 arXiv 上超过 50 万篇机器�
 ```mermaid
 xychart-beta
     title "augustwester/searchthearxiv 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-20"]
     y-axis "stars" 176 --> 180
-    line [177, 178, 179, 179]
+    line [177, 178, 179, 178]
 ```
 
-2026-10-18 177 → 2026-11-19 179（+2）
+2026-10-18 177 → 2026-11-20 178（+1）
 
 
 ---

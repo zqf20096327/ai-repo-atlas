@@ -1,6 +1,6 @@
 # antoinecarme/pyaf
 
-⭐ 462 · Python · BSD-3-Clause · 推送 2026-10-04 · [GitHub](https://github.com/antoinecarme/pyaf) · 个人维护
+⭐ 461 · Python · BSD-3-Clause · 推送 2026-10-04 · [GitHub](https://github.com/antoinecarme/pyaf) · 个人维护
 
 **面向开发者的 Python 自动时间序列预测库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "antoinecarme/pyaf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
     y-axis "stars" 460 --> 463
-    line [461, 462, 462]
+    line [461, 462, 461]
 ```
 
-2026-10-18 461 → 2026-11-19 462（+1）
+2026-10-18 461 → 2026-11-20 461（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # KenKaiii/content-cat
 
-⭐ 18 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/KenKaiii/content-cat) · [官网](https://www.kenkais.com) · 个人维护
+⭐ 18 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/KenKaiii/content-cat) · [官网](https://www.kenkais.com) · 个人维护
 
 **带可视化工作流编辑器的 AI 图像与视频生成平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "KenKaiii/content-cat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-19 18（+0）
+2026-10-18 18 → 2026-11-20 18（+0）
 
 
 ---

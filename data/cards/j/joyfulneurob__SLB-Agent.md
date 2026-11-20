@@ -1,6 +1,6 @@
 # joyfulneurob/SLB-Agent
 
-⭐ 10 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/joyfulneurob/SLB-Agent) · [官网](https://t.me/jiaoliuqunsbl) · 组织维护 · 中文 README
+⭐ 11 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/joyfulneurob/SLB-Agent) · [官网](https://t.me/jiaoliuqunsbl) · 组织维护 · 中文 README
 
 **桌面多模型 AI Agent 客户端，内置破限与红队插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joyfulneurob/SLB-Agent 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 2 --> 11
-    line [3, 6, 9, 10, 10]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 2 --> 12
+    line [3, 6, 9, 10, 11]
 ```
 
-2026-11-12 3 → 2026-11-19 10（+7）
+2026-11-12 3 → 2026-11-20 11（+8）
 
 
 ---

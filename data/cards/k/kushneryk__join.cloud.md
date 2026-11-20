@@ -1,6 +1,6 @@
 # kushneryk/join.cloud
 
-⭐ 66 · TypeScript · AGPL-3.0 · 推送 2026-07-15 · [GitHub](https://github.com/kushneryk/join.cloud) · [官网](https://join.cloud) · 个人维护
+⭐ 64 · TypeScript · AGPL-3.0 · 推送 2026-07-15 · [GitHub](https://github.com/kushneryk/join.cloud) · [官网](https://join.cloud) · 个人维护
 
 **AI agent 实时协作房间平台：消息、文件共享与相互评审**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kushneryk/join.cloud 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 63 --> 67
+    line [65, 66, 64]
 ```
 
-2026-10-18 65 → 2026-11-19 66（+1）
+2026-10-18 65 → 2026-11-20 64（-1）
 
 
 ---

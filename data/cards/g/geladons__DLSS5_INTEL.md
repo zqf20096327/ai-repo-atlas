@@ -1,6 +1,6 @@
 # geladons/DLSS5_INTEL
 
-⭐ 11 · C++ · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/geladons/DLSS5_INTEL) · [官网](https://geladons.github.io/DLSS5_INTEL/) · 个人维护
+⭐ 12 · C++ · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/geladons/DLSS5_INTEL) · [官网](https://geladons.github.io/DLSS5_INTEL/) · 个人维护
 
 **在 Intel Arc GPU 上实时运行 DLSS 5 神经渲染链的爱好者研究项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "geladons/DLSS5_INTEL 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 8 --> 12
-    line [9, 10, 9, 10, 11, 11]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20"]
+    y-axis "stars" 8 --> 13
+    line [9, 10, 9, 10, 11, 12]
 ```
 
-2026-10-18 9 → 2026-11-19 11（+2）
+2026-10-18 9 → 2026-11-20 12（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/loft
 
-⭐ 239 · Python · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/google-deepmind/loft) · 组织维护
+⭐ 237 · Python · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/google-deepmind/loft) · 组织维护
 
 **百万级 token 长上下文评测基准（35 数据集，4 模态）**
 
@@ -46,12 +46,12 @@ Google DeepMind 发布的 LOFT 长上下文基准，配套论文《Can Long-Cont
 ```mermaid
 xychart-beta
     title "google-deepmind/loft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 238 --> 240
-    line [239, 239]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 236 --> 240
+    line [239, 237]
 ```
 
-2026-10-18 239 → 2026-11-19 239（+0）
+2026-10-18 239 → 2026-11-20 237（-2）
 
 
 ---

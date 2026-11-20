@@ -1,6 +1,6 @@
 # GSA/MasteringAgenticAISystems_supplementals
 
-⭐ 50 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/GSA/MasteringAgenticAISystems_supplementals) · [官网](https://gsa.github.io/MasteringAgenticAISystems_supplementals/) · 组织维护
+⭐ 51 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/GSA/MasteringAgenticAISystems_supplementals) · [官网](https://gsa.github.io/MasteringAgenticAISystems_supplementals/) · 组织维护
 
 **面向多厂商 Agentic AI 认证考试的公开学习指南与配套资料库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GSA/MasteringAgenticAISystems_supplementals 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 44 --> 51
-    line [45, 46, 48, 49, 48, 49, 50, 50]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 44 --> 52
+    line [45, 46, 48, 49, 48, 49, 50, 51]
 ```
 
-2026-10-18 45 → 2026-11-19 50（+5）
+2026-10-18 45 → 2026-11-20 51（+6）
 
 
 ---

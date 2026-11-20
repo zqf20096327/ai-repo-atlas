@@ -1,6 +1,6 @@
 # liangxiao777/TeachMeCoding
 
-⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/liangxiao777/TeachMeCoding) · 个人维护 · 中文 README
+⭐ 85 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/liangxiao777/TeachMeCoding) · 个人维护 · 中文 README
 
 **本地运行的 AI 编程老师：生成学习路线、课件与执行测评**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liangxiao777/TeachMeCoding 星数(近 8 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 19 --> 86
-    line [24, 28, 34, 43, 51, 62, 71, 81]
+    title "liangxiao777/TeachMeCoding 星数(近 9 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 18 --> 91
+    line [24, 28, 34, 43, 51, 62, 71, 81, 85]
 ```
 
-2026-11-11 24 → 2026-11-19 81（+57）
+2026-11-11 24 → 2026-11-20 85（+61）
 
 
 ---

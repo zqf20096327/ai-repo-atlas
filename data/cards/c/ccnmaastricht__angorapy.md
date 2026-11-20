@@ -1,6 +1,6 @@
 # ccnmaastricht/angorapy
 
-⭐ 21 · Python · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/ccnmaastricht/angorapy) · [官网](http://angorapy.org) · 组织维护
+⭐ 21 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ccnmaastricht/angorapy) · [官网](http://angorapy.org) · 组织维护
 
 **供科研者用强化学习构建具身脑模型的开源库**
 
@@ -45,12 +45,12 @@ Python 建模库，用于在可定制的感知运动任务上构建并训练大�
 ```mermaid
 xychart-beta
     title "ccnmaastricht/angorapy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-19 21（+0）
+2026-10-18 21 → 2026-11-20 21（+0）
 
 
 ---

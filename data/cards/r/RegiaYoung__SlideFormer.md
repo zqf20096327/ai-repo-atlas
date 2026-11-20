@@ -1,6 +1,6 @@
 # RegiaYoung/SlideFormer
 
-⭐ 138 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/RegiaYoung/SlideFormer) · [官网](https://dl.acm.org/doi/10.1145/3770743.3804125) · 个人维护
+⭐ 137 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/RegiaYoung/SlideFormer) · [官网](https://dl.acm.org/doi/10.1145/3770743.3804125) · 个人维护
 
 **单 GPU 全参数微调 LLM 的异构卸载训练运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RegiaYoung/SlideFormer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 137 --> 155
-    line [154, 141, 139, 138, 138]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 136 --> 155
+    line [154, 141, 139, 138, 137]
 ```
 
-2026-10-18 154 → 2026-11-19 138（-16）
+2026-10-18 154 → 2026-11-20 137（-17）
 
 
 ---

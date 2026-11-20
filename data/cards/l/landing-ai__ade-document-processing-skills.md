@@ -1,6 +1,6 @@
 # landing-ai/ade-document-processing-skills
 
-⭐ 69 · MIT · 推送 2026-11-12 · [GitHub](https://github.com/landing-ai/ade-document-processing-skills) · 组织维护
+⭐ 69 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/landing-ai/ade-document-processing-skills) · 组织维护
 
 **教编程 Agent 调用 LandingAI ADE 做文档解析抽取的技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "landing-ai/ade-document-processing-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-11-19 69（+0）
+2026-10-18 69 → 2026-11-20 69（+0）
 
 
 ---

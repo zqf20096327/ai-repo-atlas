@@ -1,6 +1,6 @@
 # mojomast/open-higgsfield-skills
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/mojomast/open-higgsfield-skills) · 组织维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/mojomast/open-higgsfield-skills) · 组织维护
 
 **让任意编码代理用开源权重从一句提示生成短片的 37 个技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mojomast/open-higgsfield-skills 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19"]
-    y-axis "stars" 1 --> 30
-    line [3, 5, 6, 8, 11, 25, 28]
+    title "mojomast/open-higgsfield-skills 星数(近 8 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 1 --> 34
+    line [3, 5, 6, 8, 11, 25, 28, 32]
 ```
 
-2026-11-02 3 → 2026-11-19 28（+25）
+2026-11-02 3 → 2026-11-20 32（+29）
 
 
 ---

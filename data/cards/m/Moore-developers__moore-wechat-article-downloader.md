@@ -1,6 +1,6 @@
 # Moore-developers/moore-wechat-article-downloader
 
-⭐ 296 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/Moore-developers/moore-wechat-article-downloader) · 个人维护 · 中文 README
+⭐ 297 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/Moore-developers/moore-wechat-article-downloader) · 个人维护 · 中文 README
 
 **本地微信公众号文章同步与归档工具，供 Codex/Claude Code 做内容研究**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Moore-developers/moore-wechat-article-downloader 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 293 --> 297
-    line [294, 295, 296, 294, 296, 295, 296, 296]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 293 --> 298
+    line [294, 295, 296, 294, 296, 295, 296, 297]
 ```
 
-2026-10-18 294 → 2026-11-19 296（+2）
+2026-10-18 294 → 2026-11-20 297（+3）
 
 
 ---

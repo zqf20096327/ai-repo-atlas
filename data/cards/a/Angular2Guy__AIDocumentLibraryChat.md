@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Angular2Guy/AIDocumentLibraryChat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-19 31（+0）
+2026-10-18 31 → 2026-11-20 31（+0）
 
 
 ---

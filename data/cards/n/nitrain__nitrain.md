@@ -1,6 +1,6 @@
 # nitrain/nitrain
 
-⭐ 1,881 · Python · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/nitrain/nitrain) · 组织维护
+⭐ 1,880 · Python · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/nitrain/nitrain) · 组织维护
 
 **医学影像 AI 训练框架：采样、增强、训练、可视化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nitrain/nitrain 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-19"]
-    y-axis "stars" 1880 --> 1882
-    line [1881, 1881]
+    x-axis ["2026-11-08", "2026-11-20"]
+    y-axis "stars" 1879 --> 1882
+    line [1881, 1880]
 ```
 
-2026-11-08 1,881 → 2026-11-19 1,881（+0）
+2026-11-08 1,881 → 2026-11-20 1,880（-1）
 
 
 ---

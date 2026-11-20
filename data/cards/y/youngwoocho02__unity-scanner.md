@@ -1,6 +1,6 @@
 # youngwoocho02/unity-scanner
 
-⭐ 27 · Go · MIT · 推送 2026-05-14 · [GitHub](https://github.com/youngwoocho02/unity-scanner) · 个人维护
+⭐ 28 · Go · MIT · 推送 2026-05-14 · [GitHub](https://github.com/youngwoocho02/unity-scanner) · 个人维护
 
 **为 AI agent 压缩 Unity 资产输出的 CLI 扫描工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "youngwoocho02/unity-scanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-11-19 27（+0）
+2026-10-18 27 → 2026-11-20 28（+1）
 
 
 ---

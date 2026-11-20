@@ -1,6 +1,6 @@
 # wycocoyu/cococv
 
-⭐ 183 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/wycocoyu/cococv) · [官网](https://cococv.cn) · 个人维护 · 中文 README
+⭐ 183 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/wycocoyu/cococv) · [官网](https://cococv.cn) · 个人维护 · 中文 README
 
 **面向中文求职的全栈 AI 简历平台：对话生成、诊断与 LaTeX 排版**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wycocoyu/cococv 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19"]
+    title "wycocoyu/cococv 星数(近 4 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
     y-axis "stars" 180 --> 184
-    line [181, 182, 183]
+    line [181, 182, 183, 183]
 ```
 
-2026-11-16 181 → 2026-11-19 183（+2）
+2026-11-16 181 → 2026-11-20 183（+2）
 
 
 ---

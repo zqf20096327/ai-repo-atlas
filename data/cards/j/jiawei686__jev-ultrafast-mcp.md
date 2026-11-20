@@ -1,6 +1,6 @@
 # jiawei686/jev-ultrafast-mcp
 
-⭐ 25 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/jiawei686/jev-ultrafast-mcp) · [官网](https://pypi.org/project/jev-ultrafast-mcp/) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/jiawei686/jev-ultrafast-mcp) · [官网](https://pypi.org/project/jev-ultrafast-mcp/) · 个人维护 · 中文 README
 
 **把整个浏览器任务一次性交给服务端决策模型执行的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jiawei686/jev-ultrafast-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
     y-axis "stars" 18 --> 26
-    line [19, 20, 19, 20, 23, 24, 25, 25]
+    line [19, 20, 19, 20, 23, 24, 25, 24]
 ```
 
-2026-10-18 19 → 2026-11-19 25（+6）
+2026-10-18 19 → 2026-11-20 24（+5）
 
 
 ---

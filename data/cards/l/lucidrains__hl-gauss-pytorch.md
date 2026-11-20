@@ -1,6 +1,6 @@
 # lucidrains/hl-gauss-pytorch
 
-⭐ 81 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/lucidrains/hl-gauss-pytorch) · 个人维护
+⭐ 82 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/lucidrains/hl-gauss-pytorch) · 个人维护
 
 **PyTorch 实现的高斯直方图损失（HL-Gauss）回归损失库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/hl-gauss-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 80 --> 83
+    line [81, 82]
 ```
 
-2026-10-18 81 → 2026-11-19 81（+0）
+2026-10-18 81 → 2026-11-20 82（+1）
 
 
 ---

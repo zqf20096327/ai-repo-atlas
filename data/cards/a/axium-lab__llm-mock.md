@@ -1,6 +1,6 @@
 # axium-lab/llm-mock
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/axium-lab/llm-mock) · 组织维护
+⭐ 31 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/axium-lab/llm-mock) · 组织维护
 
 **自托管多厂商 LLM API mock 服务器，用于集成测试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "axium-lab/llm-mock 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 26 --> 31
-    line [27, 29, 30, 30]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 26 --> 32
+    line [27, 29, 30, 31]
 ```
 
-2026-10-18 27 → 2026-11-19 30（+3）
+2026-10-18 27 → 2026-11-20 31（+4）
 
 
 ---

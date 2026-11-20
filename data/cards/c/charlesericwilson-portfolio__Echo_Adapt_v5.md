@@ -46,12 +46,12 @@ Adapt 是用 Rust 实现的 agent 执行运行时：让语言模型通过小型 
 ```mermaid
 xychart-beta
     title "charlesericwilson-portfolio/Echo_Adapt_v5 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-19 12（+0）
+2026-10-18 12 → 2026-11-20 12（+0）
 
 
 ---

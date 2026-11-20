@@ -1,6 +1,6 @@
 # Dyan-Dev/loopi
 
-⭐ 198 · TypeScript · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/Dyan-Dev/loopi) · [官网](https://loopi.dyan.live/) · 个人维护
+⭐ 200 · TypeScript · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/Dyan-Dev/loopi) · [官网](https://loopi.dyan.live/) · 个人维护
 
 **本地运行的桌面自动化平台：可视化工作流+浏览器/光标键盘/命令行控制+AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dyan-Dev/loopi 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19"]
-    y-axis "stars" 196 --> 200
-    line [197, 198, 197, 198, 199, 198, 198]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    y-axis "stars" 196 --> 201
+    line [197, 198, 197, 198, 199, 198, 200]
 ```
 
-2026-10-18 197 → 2026-11-19 198（+1）
+2026-10-18 197 → 2026-11-20 200（+3）
 
 
 ---

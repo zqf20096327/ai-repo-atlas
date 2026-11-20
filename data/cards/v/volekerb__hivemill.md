@@ -1,6 +1,6 @@
 # volekerb/hivemill
 
-⭐ 35 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/volekerb/hivemill) · [官网](https://hivemill.dev) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/volekerb/hivemill) · [官网](https://hivemill.dev) · 个人维护
 
 **自托管 Claude Code/Cursor 多智能体软件工厂，带评审与合并门禁**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "volekerb/hivemill 星数(近 8 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 2 --> 38
-    line [5, 8, 17, 28, 30, 33, 34, 35]
+    title "volekerb/hivemill 星数(近 9 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 2 --> 41
+    line [5, 8, 17, 28, 30, 33, 34, 35, 38]
 ```
 
-2026-10-31 5 → 2026-11-19 35（+30）
+2026-10-31 5 → 2026-11-20 38（+33）
 
 
 ---

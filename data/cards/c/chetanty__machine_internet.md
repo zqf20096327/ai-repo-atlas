@@ -1,6 +1,6 @@
 # chetanty/machine_internet
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/chetanty/machine_internet) · [官网](https://machine-internet.vercel.app) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/chetanty/machine_internet) · [官网](https://machine-internet.vercel.app) · 个人维护
 
 **把隐藏 API 的 Web 应用封装成 MCP 服务器供 AI 客户端调用**
 
@@ -40,6 +40,18 @@
 > L5: **Turn web apps with hidden APIs into MCP servers. No official API needed.**
 > L93: 5. **Serving.** The result is a small JSON file. `machine-internet serve` exposes it as a standard MCP server (stdi
 > L11: Machine Internet opens the site in a headless browser, watches the hidden API calls the page makes, and turns them 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chetanty/machine_internet 星数(近 2 点)"
+    x-axis ["2026-11-19", "2026-11-20"]
+    y-axis "stars" 11 --> 18
+    line [12, 17]
+```
+
+2026-11-19 12 → 2026-11-20 17（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # raro42/mac-stats
 
-⭐ 19 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/raro42/mac-stats) · [官网](https://github.com/raro42/mac-stats/blob/main/docs/GETTING_STARTED.md) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/raro42/mac-stats) · [官网](https://github.com/raro42/mac-stats/blob/main/docs/GETTING_STARTED.md) · 个人维护
 
 **Apple Silicon 菜单栏系统监视器，可选本地 AI agent**
 
@@ -46,12 +46,12 @@ Rust + Tauri 构建的 macOS Apple Silicon（arm64）专属菜单栏监视器，
 ```mermaid
 xychart-beta
     title "raro42/mac-stats 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-19 19（+1）
+2026-10-18 18 → 2026-11-20 19（+1）
 
 
 ---

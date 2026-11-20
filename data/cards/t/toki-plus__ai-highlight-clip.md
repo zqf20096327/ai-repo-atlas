@@ -1,6 +1,6 @@
 # toki-plus/ai-highlight-clip
 
-⭐ 106 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/toki-plus/ai-highlight-clip) · 组织维护 · 中文 README
+⭐ 107 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/toki-plus/ai-highlight-clip) · 组织维护 · 中文 README
 
 **AI 辅助长视频高光剪辑工具：转写评分定位候选片段**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "toki-plus/ai-highlight-clip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    x-axis ["2026-10-18", "2026-11-20"]
+    y-axis "stars" 105 --> 108
+    line [106, 107]
 ```
 
-2026-10-18 106 → 2026-11-19 106（+0）
+2026-10-18 106 → 2026-11-20 107（+1）
 
 
 ---

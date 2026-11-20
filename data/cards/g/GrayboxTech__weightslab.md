@@ -1,6 +1,6 @@
 # GrayboxTech/weightslab
 
-⭐ 180 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/GrayboxTech/weightslab) · [官网](https://www.graybx.com) · 组织维护
+⭐ 181 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/GrayboxTech/weightslab) · [官网](https://www.graybx.com) · 组织维护
 
 **面向 ML 团队的训练监控与数据治理平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GrayboxTech/weightslab 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-19"]
-    y-axis "stars" 167 --> 181
-    line [168, 169, 170, 175, 176, 169, 177, 178, 179, 180]
+    title "GrayboxTech/weightslab 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 167 --> 182
+    line [168, 169, 170, 175, 176, 169, 177, 178, 179, 180, 181]
 ```
 
-2026-10-18 168 → 2026-11-19 180（+12）
+2026-10-18 168 → 2026-11-20 181（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tooooa/AgentMark
 
-⭐ 101 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/Tooooa/AgentMark) · [官网](https://arxiv.org/abs/2601.03294) · 组织维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/Tooooa/AgentMark) · [官网](https://arxiv.org/abs/2601.03294) · 组织维护 · 中文 README
 
 **LLM Agent 行为水印框架：为 Agent 嵌入可溯源版权水印**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tooooa/AgentMark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-19"]
-    y-axis "stars" 98 --> 102
-    line [99, 100, 101]
+    title "Tooooa/AgentMark 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-19", "2026-11-20"]
+    y-axis "stars" 98 --> 103
+    line [99, 100, 101, 102]
 ```
 
-2026-10-18 99 → 2026-11-19 101（+2）
+2026-10-18 99 → 2026-11-20 102（+3）
 
 
 ---

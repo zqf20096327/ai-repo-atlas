@@ -1,6 +1,6 @@
 # rungalileo/agent-leaderboard
 
-⭐ 226 · Jupyter Notebook · MIT · 推送 2026-05-21 · [GitHub](https://github.com/rungalileo/agent-leaderboard) · [官网](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) · 组织维护
+⭐ 225 · Jupyter Notebook · MIT · 推送 2026-05-21 · [GitHub](https://github.com/rungalileo/agent-leaderboard) · [官网](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) · 组织维护
 
 **评测 AI agent 在企业场景任务完成与工具调用表现的排行榜框架**
 
@@ -46,12 +46,12 @@ Galileo 维护的 agent 评测框架与公开排行榜：v1 基于 BFCL、τ-ben
 ```mermaid
 xychart-beta
     title "rungalileo/agent-leaderboard 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19"]
-    y-axis "stars" 225 --> 228
-    line [226, 227, 226, 227, 226, 226]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20"]
+    y-axis "stars" 224 --> 228
+    line [226, 227, 226, 227, 226, 225]
 ```
 
-2026-10-18 226 → 2026-11-19 226（+0）
+2026-10-18 226 → 2026-11-20 225（-1）
 
 
 ---

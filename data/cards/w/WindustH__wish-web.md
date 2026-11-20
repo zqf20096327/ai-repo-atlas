@@ -1,6 +1,6 @@
 # WindustH/wish-web
 
-⭐ 11 · Vue · MIT · 推送 2026-11-18 · [GitHub](https://github.com/WindustH/wish-web) · 个人维护 · 中文 README
+⭐ 11 · Vue · MIT · 推送 2026-11-19 · [GitHub](https://github.com/WindustH/wish-web) · 个人维护 · 中文 README
 
 **AI agent harness Wish 的跨设备 Web 界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WindustH/wish-web 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-20"]
     y-axis "stars" 8 --> 12
     line [9, 10, 11, 11]
 ```
 
-2026-10-18 9 → 2026-11-19 11（+2）
+2026-10-18 9 → 2026-11-20 11（+2）
 
 
 ---

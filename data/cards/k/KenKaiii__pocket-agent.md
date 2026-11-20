@@ -1,6 +1,6 @@
 # KenKaiii/pocket-agent
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/KenKaiii/pocket-agent) · [官网](https://www.kenkais.com) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/KenKaiii/pocket-agent) · [官网](https://www.kenkais.com) · 个人维护
 
 **常驻菜单栏的个人 AI 助手，带持久记忆与自动化例程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KenKaiii/pocket-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-19"]
+    x-axis ["2026-10-18", "2026-11-20"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-19 29（+0）
+2026-10-18 29 → 2026-11-20 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # eduardoabreu81/sd-civitai-browser-neo
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/eduardoabreu81/sd-civitai-browser-neo) · 个人维护
+⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/eduardoabreu81/sd-civitai-browser-neo) · 个人维护
 
 **Forge Neo 的 CivitAI 多源模型浏览下载管理扩展**
 
@@ -45,12 +45,12 @@ Stable Diffusion WebUI Forge Neo 的扩展：在 WebUI 内浏览、下载、管�
 ```mermaid
 xychart-beta
     title "eduardoabreu81/sd-civitai-browser-neo 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-16", "2026-11-20"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-11-16 24 → 2026-11-19 24（+0）
+2026-11-16 24 → 2026-11-20 24（+0）
 
 
 ---

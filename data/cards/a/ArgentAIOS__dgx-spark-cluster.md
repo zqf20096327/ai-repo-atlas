@@ -1,6 +1,6 @@
 # ArgentAIOS/dgx-spark-cluster
 
-⭐ 14 · Python · 推送 2026-04-11 · [GitHub](https://github.com/ArgentAIOS/dgx-spark-cluster) · 个人维护
+⭐ 15 · Python · 推送 2026-04-11 · [GitHub](https://github.com/ArgentAIOS/dgx-spark-cluster) · 个人维护
 
 **双节点 DGX Spark 集群的搭建与训练指南（配置+脚本+文档）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ArgentAIOS/dgx-spark-cluster 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-19"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-20"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15]
 ```
 
-2026-10-18 12 → 2026-11-19 14（+2）
+2026-10-18 12 → 2026-11-20 15（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # fanbidog/okkmax-web
 
-⭐ 207 · TypeScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/fanbidog/okkmax-web) · [官网](https://www.okkmax.com) · 个人维护 · 中文 README
+⭐ 208 · TypeScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/fanbidog/okkmax-web) · [官网](https://www.okkmax.com) · 个人维护 · 中文 README
 
 **AI API 中转站测评与排行榜平台，检测纯度与可用性**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fanbidog/okkmax-web 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19"]
+    title "fanbidog/okkmax-web 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20"]
     y-axis "stars" 200 --> 209
-    line [201, 202, 205, 206, 207, 208, 207]
+    line [201, 202, 205, 206, 207, 208, 207, 208]
 ```
 
-2026-11-08 201 → 2026-11-19 207（+6）
+2026-11-08 201 → 2026-11-20 208（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # quinnovator/contactd
 
-⭐ 8 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/quinnovator/contactd) · 个人维护
+⭐ 6 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/quinnovator/contactd) · 个人维护
 
 **单二进制 Go 服务：以“联系人”方式持续对话 AI，含记忆与沙箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "quinnovator/contactd 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-19"]
-    y-axis "stars" 7 --> 28
-    line [27, 9, 8, 8]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-20"]
+    y-axis "stars" 4 --> 29
+    line [27, 9, 8, 6]
 ```
 
-2026-10-26 27 → 2026-11-19 8（-19）
+2026-10-26 27 → 2026-11-20 6（-21）
 
 
 ---

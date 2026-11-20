@@ -1,6 +1,6 @@
 # yearningss/gamemaker-mcp
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yearningss/gamemaker-mcp) · [官网](https://www.npmjs.com/package/gamemaker-mcp) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yearningss/gamemaker-mcp) · [官网](https://www.npmjs.com/package/gamemaker-mcp) · 个人维护
 
 **面向 GameMaker 项目的本地 MCP 服务器：AI 客户端结构化读写与构建**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yearningss/gamemaker-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-16", "2026-11-19"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 23, 22, 22]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-16", "2026-11-20"]
+    y-axis "stars" 19 --> 25
+    line [22, 23, 24, 23, 22, 20]
 ```
 
-2026-10-18 22 → 2026-11-19 22（+0）
+2026-10-18 22 → 2026-11-20 20（-2）
 
 
 ---

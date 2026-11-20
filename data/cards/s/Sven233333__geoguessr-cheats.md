@@ -1,6 +1,6 @@
 # Sven233333/geoguessr-cheats
 
-⭐ 67 · JavaScript · 推送 2026-11-17 · [GitHub](https://github.com/Sven233333/geoguessr-cheats) · [官网](https://geoguessrcheats.com) · 个人维护
+⭐ 40 · JavaScript · 推送 2026-11-17 · [GitHub](https://github.com/Sven233333/geoguessr-cheats) · [官网](https://geoguessrcheats.com) · 个人维护
 
 **读取屏幕街景并在约三秒内预测地点的 GeoGuessr 作弊机器人**
 
@@ -45,12 +45,12 @@ ATLAS 是一款付费的 GeoGuessr 作弊/自动猜测工具：读取屏幕上�
 ```mermaid
 xychart-beta
     title "Sven233333/geoguessr-cheats 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-19"]
-    y-axis "stars" 66 --> 72
-    line [71, 68, 67, 67]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
+    y-axis "stars" 37 --> 74
+    line [71, 68, 67, 40]
 ```
 
-2026-10-18 71 → 2026-11-19 67（-4）
+2026-10-18 71 → 2026-11-20 40（-31）
 
 
 ---

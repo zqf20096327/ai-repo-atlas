@@ -1,6 +1,6 @@
 # adelinecaviezel-blip/-qwen-3-8-max-cloud-spend-guard
 
-⭐ 52 · 推送 2026-11-05 · [GitHub](https://github.com/adelinecaviezel-blip/-qwen-3-8-max-cloud-spend-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 54 · 推送 2026-11-05 · [GitHub](https://github.com/adelinecaviezel-blip/-qwen-3-8-max-cloud-spend-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向海外算力租用的虚拟卡付费控制服务宣传页**
 
@@ -43,12 +43,12 @@ README 为 CoreGold 商业虚拟卡服务的推广文档，而非软件项目：
 ```mermaid
 xychart-beta
     title "adelinecaviezel-blip/-qwen-3-8-max-cloud-spend-guard 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
     y-axis "stars" 7 --> 60
-    line [11, 33, 46, 50, 56, 55, 52, 52]
+    line [11, 33, 46, 50, 56, 55, 52, 54]
 ```
 
-2026-11-08 11 → 2026-11-19 52（+41）
+2026-11-08 11 → 2026-11-20 54（+43）
 
 
 ---
