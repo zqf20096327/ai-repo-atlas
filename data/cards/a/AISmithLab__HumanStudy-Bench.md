@@ -1,6 +1,6 @@
 # AISmithLab/HumanStudy-Bench
 
-⭐ 18 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AISmithLab/HumanStudy-Bench) · [官网](humanstudy-hub.com) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AISmithLab/HumanStudy-Bench) · [官网](humanstudy-hub.com) · 组织维护
 
 **LLM 参与者模拟基准：端到端重放人类被试实验并评估对齐**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AISmithLab/HumanStudy-Bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-20 18（+0）
+2026-10-19 18 → 2026-11-21 19（+1）
 
 
 ---

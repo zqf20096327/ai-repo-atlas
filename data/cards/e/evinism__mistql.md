@@ -1,6 +1,6 @@
 # evinism/mistql
 
-⭐ 394 · Rust · MIT · 推送 2026-02-23 · [GitHub](https://github.com/evinism/mistql) · [官网](https://mistql.com) · 个人维护
+⭐ 393 · Rust · MIT · 推送 2026-02-23 · [GitHub](https://github.com/evinism/mistql) · [官网](https://mistql.com) · 个人维护
 
 **面向 JSON 类数据的嵌入式查询/表达式语言，供应用集成**
 
@@ -45,12 +45,12 @@ MistQL 是一种针对 JSON 类结构的查询与表达式语言，定位为嵌�
 ```mermaid
 xychart-beta
     title "evinism/mistql 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
     y-axis "stars" 392 --> 395
-    line [393, 394, 394]
+    line [393, 394, 393]
 ```
 
-2026-10-18 393 → 2026-11-20 394（+1）
+2026-10-19 393 → 2026-11-21 393（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cfoh/Multi-Armed-Bandit-Example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "cfoh/Multi-Armed-Bandit-Example 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 48 --> 51
-    line [49, 50]
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-11-20 50（+1）
+2026-10-19 49 → 2026-11-21 50（+1）
 
 
 ---

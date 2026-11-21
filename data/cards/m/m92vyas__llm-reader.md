@@ -1,6 +1,6 @@
 # m92vyas/llm-reader
 
-⭐ 316 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/m92vyas/llm-reader) · 个人维护
+⭐ 315 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/m92vyas/llm-reader) · 个人维护
 
 **将网页/URL 转为 LLM 友好输入文本的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "m92vyas/llm-reader 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 312 --> 317
-    line [313, 314, 315, 316, 316]
+    line [313, 314, 315, 316, 315]
 ```
 
-2026-10-18 313 → 2026-11-20 316（+3）
+2026-10-19 313 → 2026-11-21 315（+2）
 
 
 ---

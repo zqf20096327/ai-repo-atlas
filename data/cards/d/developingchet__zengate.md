@@ -1,6 +1,6 @@
 # developingchet/zengate
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/developingchet/zengate) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/developingchet/zengate) · 个人维护
 
 **自托管 OpenAI 兼容网关：免密访问 OpenCode Zen 免费模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "developingchet/zengate 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 8 --> 13
-    line [9, 10, 9, 11, 12, 12]
+    line [9, 10, 9, 11, 12, 11]
 ```
 
-2026-10-18 9 → 2026-11-20 12（+3）
+2026-10-19 9 → 2026-11-21 11（+2）
 
 
 ---

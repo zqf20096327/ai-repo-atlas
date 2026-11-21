@@ -1,6 +1,6 @@
 # yyydsz/doubao2api
 
-⭐ 12 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yyydsz/doubao2api) · 个人维护 · 中文 README
+⭐ 13 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yyydsz/doubao2api) · 个人维护 · 中文 README
 
 **把豆包工作模式包装成 OpenAI 兼容接口的网关与号池管理面板**
 
@@ -44,13 +44,13 @@ Go 编写的单二进制网关，将豆包客户端「工作模式」的 /chat/c
 
 ```mermaid
 xychart-beta
-    title "yyydsz/doubao2api 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 4 --> 13
-    line [5, 6, 9, 11, 12]
+    title "yyydsz/doubao2api 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 4 --> 14
+    line [5, 6, 9, 11, 12, 13]
 ```
 
-2026-11-13 5 → 2026-11-20 12（+7）
+2026-11-13 5 → 2026-11-21 13（+8）
 
 
 ---

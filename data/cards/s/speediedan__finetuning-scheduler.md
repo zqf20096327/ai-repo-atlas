@@ -46,12 +46,12 @@ Fine-Tuning Scheduler（FTS）是 PyTorch Lightning 的回调扩展，供研究�
 ```mermaid
 xychart-beta
     title "speediedan/finetuning-scheduler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 67 --> 70
     line [69, 68, 68]
 ```
 
-2026-10-18 69 → 2026-11-20 68（-1）
+2026-10-19 69 → 2026-11-21 68（-1）
 
 
 ---

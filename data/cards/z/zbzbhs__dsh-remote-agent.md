@@ -1,6 +1,6 @@
 # zbzbhs/dsh-remote-agent
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/zbzbhs/dsh-remote-agent) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/zbzbhs/dsh-remote-agent) · 个人维护 · 中文 README
 
 **DSH 插件：把副机变成远程 Agent 任务执行节点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zbzbhs/dsh-remote-agent 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-10-22 3 → 2026-11-20 5（+2）
+2026-10-22 3 → 2026-11-21 6（+3）
 
 
 ---

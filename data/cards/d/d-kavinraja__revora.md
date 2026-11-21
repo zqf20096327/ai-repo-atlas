@@ -1,6 +1,6 @@
 # d-kavinraja/revora
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/d-kavinraja/revora) · [官网](https://revora-pr.vercel.app/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/d-kavinraja/revora) · [官网](https://revora-pr.vercel.app/) · 个人维护
 
 **自托管 AI 代码审查平台：PR 时先建全仓索引再产出审查意见**
 
@@ -39,6 +39,18 @@
 
 > L14: Revora is an open-source, self-hosted AI code review platform. On every pull request, it clones the repo, builds a 
 > L95: Providers are configured in-app with your own keys and routed through LiteLLM — no Revora-hosted keys, no fallback 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "d-kavinraja/revora 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
 
 
 ---

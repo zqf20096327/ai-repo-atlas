@@ -1,6 +1,6 @@
 # zhouyg1992/nectar
 
-⭐ 16 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zhouyg1992/nectar) · 个人维护 · 中文 README
+⭐ 16 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zhouyg1992/nectar) · 个人维护 · 中文 README
 
 **把飞书/钉钉/Telegram 消息路由给多个编码 agent 并管理会话与任务**
 
@@ -40,6 +40,18 @@ Nectar 以单个进程在同一仓库中并行运行多个编码 agent（Codex�
 
 > L15: Nectar routes chat messages to coding agents on your machine and streams progress and results back. It does more th
 > L17:  Feishu, DingTalk, and Telegram messages flow through Nectar to Codex, OpenCode, Cursor Agent, Claude Code, or Pi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zhouyg1992/nectar 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-11-20 16 → 2026-11-21 16（+0）
 
 
 ---

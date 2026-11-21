@@ -1,6 +1,6 @@
 # QuantumByteOSS/quantumbyte
 
-⭐ 243 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/QuantumByteOSS/quantumbyte) · [官网](https://quantumbyte.ai) · 组织维护
+⭐ 241 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/QuantumByteOSS/quantumbyte) · [官网](https://quantumbyte.ai) · 组织维护
 
 **从意图生成可用应用并逐条验证需求的开源应用构建引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QuantumByteOSS/quantumbyte 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 237 --> 311
-    line [305, 294, 293, 294, 293, 266, 262, 243]
+    title "QuantumByteOSS/quantumbyte 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 235 --> 311
+    line [305, 294, 293, 294, 293, 266, 262, 243, 241]
 ```
 
-2026-10-18 305 → 2026-11-20 243（-62）
+2026-10-19 305 → 2026-11-21 241（-64）
 
 
 ---

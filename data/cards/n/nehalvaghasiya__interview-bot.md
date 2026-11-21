@@ -1,6 +1,6 @@
 # nehalvaghasiya/interview-bot
 
-⭐ 10 · Python · 推送 2025-11-24 · [GitHub](https://github.com/nehalvaghasiya/interview-bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **模拟真实面试练习的 AI 虚拟面试机器人**
 

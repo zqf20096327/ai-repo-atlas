@@ -44,12 +44,12 @@ Cipi 平台的命令行客户端：通过 API endpoint 加 token 以 profile 形
 ```mermaid
 xychart-beta
     title "cipi-sh/cli 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-20 10（+0）
+2026-11-08 10 → 2026-11-21 10（+0）
 
 
 ---

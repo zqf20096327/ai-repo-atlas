@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pedronahum/MetalHLO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "pedronahum/MetalHLO 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 25 --> 27
+    line [26, 26]
 ```
 
-2026-10-18 25 → 2026-11-20 26（+1）
+2026-10-19 26 → 2026-11-21 26（+0）
 
 
 ---

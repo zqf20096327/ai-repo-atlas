@@ -1,6 +1,6 @@
 # masa-san-jp/100-times-ai-manga-drawing
 
-⭐ 17 · Python · 推送 2026-10-23 · [GitHub](https://github.com/masa-san-jp/100-times-ai-manga-drawing) · 个人维护
+⭐ 17 · Python · 推送 2026-11-20 · [GitHub](https://github.com/masa-san-jp/100-times-ai-manga-drawing) · 个人维护
 
 **给漫画作者的本地应用：从草图与指示书批量生成漫画下稿**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "masa-san-jp/100-times-ai-manga-drawing 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-19 17 → 2026-11-20 17（+0）
+2026-10-19 17 → 2026-11-21 17（+0）
 
 
 ---

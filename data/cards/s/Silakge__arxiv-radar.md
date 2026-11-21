@@ -1,6 +1,6 @@
 # Silakge/arxiv-radar
 
-⭐ 10 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Silakge/arxiv-radar) · 个人维护
+⭐ 10 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Silakge/arxiv-radar) · 个人维护
 
 **科研人员的 arXiv 日报自动化工具：抓取、评分并生成订阅摘要**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "Silakge/arxiv-radar 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-21"]
     y-axis "stars" 8 --> 11
     line [9, 10, 10]
 ```
 
-2026-11-13 9 → 2026-11-20 10（+1）
+2026-11-13 9 → 2026-11-21 10（+1）
 
 
 ---

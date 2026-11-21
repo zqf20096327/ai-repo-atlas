@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sfr-development/WonderSuite-Ai-Bug-Bounty 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-20"]
+    title "sfr-development/WonderSuite-Ai-Bug-Bounty 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
     y-axis "stars" 50 --> 53
-    line [51, 52, 51, 52, 52]
+    line [52, 51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-20 52（+1）
+2026-10-19 52 → 2026-11-21 52（+0）
 
 
 ---

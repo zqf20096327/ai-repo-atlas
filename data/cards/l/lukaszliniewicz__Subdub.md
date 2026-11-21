@@ -45,13 +45,13 @@ Python 命令行应用，提供视频到配音视频的完整流水线：用 Whi
 
 ```mermaid
 xychart-beta
-    title "lukaszliniewicz/Subdub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "lukaszliniewicz/Subdub 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 27 --> 29
+    line [28, 28]
 ```
 
-2026-10-18 27 → 2026-11-20 28（+1）
+2026-10-19 28 → 2026-11-21 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-agents-buzz/rag-chunking-playground
 
-⭐ 14 · HTML · MIT · 推送 2026-03-26 · [GitHub](https://github.com/ai-agents-buzz/rag-chunking-playground) · [官网](https://aiagentsbuzz.com/tools/rag-chunking-playground/) · 组织维护
+⭐ 15 · HTML · MIT · 推送 2026-03-26 · [GitHub](https://github.com/ai-agents-buzz/rag-chunking-playground) · [官网](https://aiagentsbuzz.com/tools/rag-chunking-playground/) · 组织维护
 
 **对比 6 种 RAG 分块策略的可视化工具，带质量评分与成本估算**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-agents-buzz/rag-chunking-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 15（+1）
 
 
 ---

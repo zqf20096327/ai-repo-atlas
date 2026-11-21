@@ -1,6 +1,6 @@
 # magna-nz/aspnetcore-debugger-mcp
 
-⭐ 15 · C# · MIT · 推送 2026-09-14 · [GitHub](https://github.com/magna-nz/aspnetcore-debugger-mcp) · 个人维护
+⭐ 16 · C# · MIT · 推送 2026-09-14 · [GitHub](https://github.com/magna-nz/aspnetcore-debugger-mcp) · 个人维护
 
 **让 AI agent 通过 MCP 调试 .NET/ASP.NET Core 应用的服务器**
 
@@ -47,12 +47,12 @@ MIT 许可的跨平台 MCP server，把 netcoredbg（按平台预打包，无需
 ```mermaid
 xychart-beta
     title "magna-nz/aspnetcore-debugger-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---

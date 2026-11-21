@@ -1,6 +1,6 @@
 # SummerRiversound/human-readable-reports
 
-⭐ 14 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/SummerRiversound/human-readable-reports) · 个人维护
+⭐ 15 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/SummerRiversound/human-readable-reports) · 个人维护
 
 **让 AI agent 写的分析报告对人类易读的 agent skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SummerRiversound/human-readable-reports 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-21"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-11-20 14（+1）
+2026-10-18 13 → 2026-11-21 15（+2）
 
 
 ---

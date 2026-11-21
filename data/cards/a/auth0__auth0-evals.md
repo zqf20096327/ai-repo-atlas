@@ -1,6 +1,6 @@
 # auth0/auth0-evals
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/auth0/auth0-evals) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/auth0/auth0-evals) · 组织维护
 
 **评测 AI agent 完成 Auth0 集成任务准确率的框架**
 
@@ -45,12 +45,12 @@ Auth0 维护的评估框架：为 LLM agent 定义任务 prompt 与判分器，�
 ```mermaid
 xychart-beta
     title "auth0/auth0-evals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 11（+0）
 
 
 ---

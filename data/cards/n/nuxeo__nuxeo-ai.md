@@ -1,6 +1,6 @@
 # nuxeo/nuxeo-ai
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/nuxeo/nuxeo-ai) · 组织维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/nuxeo/nuxeo-ai) · 组织维护
 
 **Nuxeo 平台的 AI 富化扩展：为文档内容接入 AI 服务**
 
@@ -46,12 +46,12 @@ Nuxeo Platform 的 AI 核心插件，提供 3 个包：nuxeo-ai-core（核心接
 ```mermaid
 xychart-beta
     title "nuxeo/nuxeo-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

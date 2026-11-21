@@ -1,6 +1,6 @@
 # t3x-dev/t3x-core
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/t3x-dev/t3x-core) · [官网](https://t3x.dev) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/t3x-dev/t3x-core) · [官网](https://t3x.dev) · 组织维护
 
 **给人与 AI agent 提供结构化状态变更的版本控制**
 
@@ -40,6 +40,18 @@ T3X 是一个结构化状态变更的控制平面：将 YAML 等机器可读状�
 > L5:  Version control for structured state.
 > L16: T3X is a control plane for structured state changes. It gives people and agents
 > L51: - **One path for people and agents.** Agent proposals remain as reviewable as
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "t3x-dev/t3x-core 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -46,13 +46,13 @@ Microsoft 维护的 Eclipse IDE 插件，将 GitHub Copilot 的 AI 辅助编码�
 
 ```mermaid
 xychart-beta
-    title "microsoft/copilot-for-eclipse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    title "microsoft/copilot-for-eclipse 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 127 --> 130
-    line [129, 128, 129]
+    line [129, 128, 129, 129]
 ```
 
-2026-10-18 129 → 2026-11-20 129（+0）
+2026-10-18 129 → 2026-11-21 129（+0）
 
 
 ---

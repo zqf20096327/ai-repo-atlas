@@ -1,6 +1,6 @@
 # leeex1/Quillan-Ronin
 
-⭐ 30 · HTML · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/leeex1/Quillan-Ronin) · 个人维护
+⭐ 30 · HTML · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/leeex1/Quillan-Ronin) · 个人维护
 
 **34 专家议会制的 1.58-bit 三值文本生成模型（520M–1.16B）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leeex1/Quillan-Ronin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21"]
     y-axis "stars" 26 --> 31
     line [27, 28, 29, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-20 30（+3）
+2026-10-19 27 → 2026-11-21 30（+3）
 
 
 ---

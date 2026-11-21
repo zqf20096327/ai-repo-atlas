@@ -45,13 +45,13 @@ Packt 出版书籍的代码仓库，提供全书各章节示例源码，内容�
 
 ```mermaid
 xychart-beta
-    title "jamesmawm/mastering-python-for-finance-second-edition 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    title "jamesmawm/mastering-python-for-finance-second-edition 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 471 --> 474
-    line [472, 473, 472]
+    line [472, 473, 472, 472]
 ```
 
-2026-10-18 472 → 2026-11-20 472（+0）
+2026-10-19 472 → 2026-11-21 472（+0）
 
 
 ---

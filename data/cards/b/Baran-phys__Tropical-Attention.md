@@ -1,6 +1,6 @@
 # Baran-phys/Tropical-Attention
 
-⭐ 34 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/Baran-phys/Tropical-Attention) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/Baran-phys/Tropical-Attention) · 组织维护
 
 **基于热带几何的注意力机制，用于组合算法的神经算法推理**
 
@@ -46,12 +46,12 @@ NeurIPS 2025 论文官方代码：将注意力核提升到热带射影空间，�
 ```mermaid
 xychart-beta
     title "Baran-phys/Tropical-Attention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-11-20 34（+0）
+2026-10-19 34 → 2026-11-21 35（+1）
 
 
 ---

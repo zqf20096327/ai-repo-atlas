@@ -1,6 +1,6 @@
 # southleft/company-docs-mcp
 
-⭐ 49 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/southleft/company-docs-mcp) · [官网](https://southleft.com) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/southleft/company-docs-mcp) · [官网](https://southleft.com) · 个人维护
 
 **把公司文档变成 AI 可检索知识库的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "southleft/company-docs-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 48 --> 52
+    line [49, 51]
 ```
 
-2026-10-18 49 → 2026-11-20 49（+0）
+2026-10-19 49 → 2026-11-21 51（+2）
 
 
 ---

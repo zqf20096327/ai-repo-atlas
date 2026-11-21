@@ -47,12 +47,12 @@ Poptin 官方托管的 MCP 服务器，通过 Streamable HTTP 与 OAuth 让 AI �
 ```mermaid
 xychart-beta
     title "Poptin-LTD/Poptin-MCP 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-16", "2026-11-21"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-11-16 36 → 2026-11-20 36（+0）
+2026-11-16 36 → 2026-11-21 36（+0）
 
 
 ---

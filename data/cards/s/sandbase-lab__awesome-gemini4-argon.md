@@ -1,6 +1,6 @@
 # sandbase-lab/awesome-gemini4-argon
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/sandbase-lab/awesome-gemini4-argon) · [官网](https://www.sandbase.ai/lab/ai-videos/gemini-4-argon) · 组织维护 · 中文 README
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/sandbase-lab/awesome-gemini4-argon) · [官网](https://www.sandbase.ai/lab/ai-videos/gemini-4-argon) · 组织维护 · 中文 README
 
 **Gemini 4 Argon 生成视频与提示词的策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sandbase-lab/awesome-gemini4-argon 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 2 --> 12
-    line [3, 4, 6, 7, 4, 7, 9, 10, 11]
+    title "sandbase-lab/awesome-gemini4-argon 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 13
+    line [3, 4, 6, 7, 4, 7, 9, 10, 11, 12]
 ```
 
-2026-10-22 3 → 2026-11-20 11（+8）
+2026-10-22 3 → 2026-11-21 12（+9）
 
 
 ---

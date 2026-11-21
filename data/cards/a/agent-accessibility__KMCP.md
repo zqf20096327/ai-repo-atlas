@@ -1,6 +1,6 @@
 # agent-accessibility/KMCP
 
-⭐ 14 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/agent-accessibility/KMCP) · [官网](https://github.com/hashwnath/KMCP#quick-start) · 组织维护
+⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/agent-accessibility/KMCP) · [官网](https://github.com/hashwnath/KMCP#quick-start) · 组织维护
 
 **自托管 MCP 服务器：把文档源变成任意 agent 可检索的知识端点**
 
@@ -45,12 +45,12 @@ KnowledgeMCP 将网站、PDF、Confluence、Notion、S3、GitHub 等文档源摄
 ```mermaid
 xychart-beta
     title "agent-accessibility/KMCP 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21"]
     y-axis "stars" 11 --> 15
     line [12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-20 14（+2）
+2026-10-19 12 → 2026-11-21 14（+2）
 
 
 ---

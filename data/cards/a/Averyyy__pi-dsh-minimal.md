@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Averyyy/pi-dsh-minimal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 47 --> 50
-    line [49, 48, 48]
+    title "Averyyy/pi-dsh-minimal 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
 ```
 
-2026-10-18 49 → 2026-11-20 48（-1）
+2026-10-19 48 → 2026-11-21 48（+0）
 
 
 ---

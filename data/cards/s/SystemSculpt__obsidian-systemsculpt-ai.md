@@ -45,13 +45,13 @@ Obsidian 插件，把用户自己安装的桌面版 Claude Code 或 Codex（以�
 
 ```mermaid
 xychart-beta
-    title "SystemSculpt/obsidian-systemsculpt-ai 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    title "SystemSculpt/obsidian-systemsculpt-ai 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 194 --> 197
-    line [195, 196]
+    line [195, 196, 196]
 ```
 
-2026-11-08 195 → 2026-11-20 196（+1）
+2026-11-08 195 → 2026-11-21 196（+1）
 
 
 ---

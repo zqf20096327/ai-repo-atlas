@@ -1,6 +1,6 @@
 # PAT0216/paper-trader
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/PAT0216/paper-trader) · [官网](https://paper-trader-ai.streamlit.app/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/PAT0216/paper-trader) · [官网](https://paper-trader-ai.streamlit.app/) · 个人维护
 
 **在标普 500 股票上并行运行三种策略并每日自动执行的模拟交易系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PAT0216/paper-trader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

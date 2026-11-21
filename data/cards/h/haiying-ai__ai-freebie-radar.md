@@ -1,6 +1,6 @@
 # haiying-ai/ai-freebie-radar
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/haiying-ai/ai-freebie-radar) · [官网](https://ai-credit-hub-44763.app.workbuddy.host/?sharecode=RIOZLFZCRN) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/haiying-ai/ai-freebie-radar) · [官网](https://ai-credit-hub-44763.app.workbuddy.host/?sharecode=RIOZLFZCRN) · 个人维护 · 中文 README
 
 **给 AI 用户聚合各平台免费额度并每日核验的雷达站**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "haiying-ai/ai-freebie-radar 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-20"]
+    title "haiying-ai/ai-freebie-radar 星数(近 4 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 6]
+    line [3, 4, 6, 6]
 ```
 
-2026-11-14 3 → 2026-11-20 6（+3）
+2026-11-14 3 → 2026-11-21 6（+3）
 
 
 ---

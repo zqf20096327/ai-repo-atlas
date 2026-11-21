@@ -1,6 +1,6 @@
 # KyuDan1/Talk-to-Your-Slides
 
-⭐ 34 · Jupyter Notebook · 推送 2026-07-06 · [GitHub](https://github.com/KyuDan1/Talk-to-Your-Slides) · 组织维护
+⭐ 35 · Jupyter Notebook · 推送 2026-07-06 · [GitHub](https://github.com/KyuDan1/Talk-to-Your-Slides) · 组织维护
 
 **LLM agent 通过对话直接编辑 PowerPoint 幻灯片，附基准数据集**
 
@@ -45,12 +45,12 @@ ACL 2026 Findings 论文配套系统：LLM 驱动的 agent 通过 COM/python-ppt
 ```mermaid
 xychart-beta
     title "KyuDan1/Talk-to-Your-Slides 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-11-20 34（+0）
+2026-10-18 34 → 2026-11-21 35（+1）
 
 
 ---

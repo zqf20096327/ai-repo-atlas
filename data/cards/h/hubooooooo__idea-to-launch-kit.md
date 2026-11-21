@@ -1,6 +1,6 @@
 # hubooooooo/idea-to-launch-kit
 
-⭐ 31 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hubooooooo/idea-to-launch-kit) · 个人维护 · 中文 README
+⭐ 32 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hubooooooo/idea-to-launch-kit) · 个人维护 · 中文 README
 
 **非技术者用编码 AI 从想法做到上线的开发工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hubooooooo/idea-to-launch-kit 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 17 --> 32
-    line [18, 29, 31, 31]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 17 --> 33
+    line [18, 29, 31, 32]
 ```
 
-2026-11-02 18 → 2026-11-20 31（+13）
+2026-11-02 18 → 2026-11-21 32（+14）
 
 
 ---

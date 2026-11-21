@@ -1,6 +1,6 @@
 # RUSOCIAL-SU/RUSocial-Panel
 
-⭐ 136 · 推送 2026-11-07 · [GitHub](https://github.com/RUSOCIAL-SU/RUSocial-Panel) · [官网](https://panel.rusocial.io) · 组织维护
+⭐ 136 · 推送 2026-11-20 · [GitHub](https://github.com/RUSOCIAL-SU/RUSocial-Panel) · [官网](https://panel.rusocial.io) · 组织维护
 
 **RUSocial 面板项目：提供在线 Panel 与 Discord 社区入口**
 
@@ -42,13 +42,13 @@ README 仅包含 Discord 邀请链接、在线面板地址（panel.rusocial.io�
 
 ```mermaid
 xychart-beta
-    title "RUSOCIAL-SU/RUSocial-Panel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "RUSOCIAL-SU/RUSocial-Panel 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 135 --> 138
-    line [137, 136]
+    line [137, 136, 136]
 ```
 
-2026-10-18 137 → 2026-11-20 136（-1）
+2026-10-19 137 → 2026-11-21 136（-1）
 
 
 ---

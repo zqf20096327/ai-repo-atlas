@@ -1,6 +1,6 @@
 # Merlon-Docs/merlon
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Merlon-Docs/merlon) · [官网](https://merlon-docs.github.io/merlon/) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Merlon-Docs/merlon) · [官网](https://merlon-docs.github.io/merlon/) · 组织维护
 
 **面向软件项目的文档系统 Agent Skill：分片存储+CI 校验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Merlon-Docs/merlon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-20 20（+1）
+2026-10-19 19 → 2026-11-21 20（+1）
 
 
 ---

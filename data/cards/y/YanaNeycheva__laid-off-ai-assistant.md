@@ -1,6 +1,6 @@
 # YanaNeycheva/laid-off-ai-assistant
 
-⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/YanaNeycheva/laid-off-ai-assistant) · [官网](https://uncoachable.work/) · 个人维护
+⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/YanaNeycheva/laid-off-ai-assistant) · [官网](https://uncoachable.work/) · 个人维护
 
 **面向失业者的保加利亚语求职全程 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YanaNeycheva/laid-off-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 11（+0）
 
 
 ---

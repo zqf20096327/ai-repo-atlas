@@ -1,6 +1,6 @@
 # lobehub/lobehub-gateway
 
-⭐ 27 · Go · 推送 2026-11-05 · [GitHub](https://github.com/lobehub/lobehub-gateway) · 组织维护
+⭐ 27 · Go · 推送 2026-11-20 · [GitHub](https://github.com/lobehub/lobehub-gateway) · 组织维护
 
 **LobeHub 网关服务的 Go 自托管单实例重实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lobehub/lobehub-gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-13", "2026-11-18", "2026-11-21"]
     y-axis "stars" 25 --> 28
     line [27, 26, 27, 27]
 ```
 
-2026-10-18 27 → 2026-11-20 27（+0）
+2026-10-19 27 → 2026-11-21 27（+0）
 
 
 ---

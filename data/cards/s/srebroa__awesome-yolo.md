@@ -1,6 +1,6 @@
 # srebroa/awesome-yolo
 
-⭐ 110 · 推送 2026-02-14 · [GitHub](https://github.com/srebroa/awesome-yolo) · 个人维护
+⭐ 111 · 推送 2026-02-14 · [GitHub](https://github.com/srebroa/awesome-yolo) · 个人维护
 
 **YOLO 系列目标检测算法的策展清单与基准对比**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "srebroa/awesome-yolo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 108 --> 111
-    line [109, 110, 110]
+    x-axis ["2026-10-19", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 108 --> 112
+    line [109, 110, 111]
 ```
 
-2026-10-18 109 → 2026-11-20 110（+1）
+2026-10-19 109 → 2026-11-21 111（+2）
 
 
 ---

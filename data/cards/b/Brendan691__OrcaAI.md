@@ -1,6 +1,6 @@
 # Brendan691/OrcaAI
 
-⭐ 23 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Brendan691/OrcaAI) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Brendan691/OrcaAI) · 个人维护 · 中文 README
 
 **海事知识管理可追溯 RAG 知识库，带定位引用与 AI 报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Brendan691/OrcaAI 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-21"]
     y-axis "stars" 14 --> 24
-    line [15, 23, 23]
+    line [15, 23, 17]
 ```
 
-2026-11-02 15 → 2026-11-20 23（+8）
+2026-11-02 15 → 2026-11-21 17（+2）
 
 
 ---

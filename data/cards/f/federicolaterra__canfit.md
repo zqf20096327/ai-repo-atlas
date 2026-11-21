@@ -1,6 +1,6 @@
 # federicolaterra/canfit
 
-⭐ 8 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/federicolaterra/canfit) · 个人维护
+⭐ 9 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/federicolaterra/canfit) · 个人维护
 
 **本地 LLM 用户的 top 命令：判断模型和应用能否在当前内存中运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "federicolaterra/canfit 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 3 --> 9
-    line [4, 6, 8]
+    title "federicolaterra/canfit 星数(近 4 点)"
+    x-axis ["2026-11-13", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 3 --> 10
+    line [4, 6, 8, 9]
 ```
 
-2026-11-13 4 → 2026-11-20 8（+4）
+2026-11-13 4 → 2026-11-21 9（+5）
 
 
 ---

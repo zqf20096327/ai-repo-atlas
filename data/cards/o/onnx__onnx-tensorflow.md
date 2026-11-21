@@ -1,6 +1,6 @@
 # onnx/onnx-tensorflow
 
-⭐ 1,328 · Python · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/onnx/onnx-tensorflow) · 组织维护
+⭐ 1,328 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/onnx/onnx-tensorflow) · 组织维护
 
 **将 ONNX 模型转换为 TensorFlow 模型的转换器（已宣布弃用）**
 
@@ -11,7 +11,7 @@ ONNX 官方生态中的 TensorFlow 后端项目：把 ONNX 格式模型转换为
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ ONNX 官方生态中的 TensorFlow 后端项目：把 ONNX 格式模型转换为
 
 ```mermaid
 xychart-beta
-    title "onnx/onnx-tensorflow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
+    title "onnx/onnx-tensorflow 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1327 --> 1331
-    line [1328, 1329, 1328, 1329, 1330, 1328]
+    line [1328, 1329, 1328, 1329, 1330, 1328, 1328]
 ```
 
-2026-10-18 1,328 → 2026-11-20 1,328（+0）
+2026-10-19 1,328 → 2026-11-21 1,328（+0）
 
 
 ---

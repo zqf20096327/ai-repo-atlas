@@ -1,6 +1,6 @@
 # shanraisshan/claude-code-hooks
 
-⭐ 572 · HTML · MIT · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/claude-code-hooks) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
+⭐ 571 · HTML · MIT · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/claude-code-hooks) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
 
 **为 Claude Code 各钩子事件添加提示音的 hooks 集合**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanraisshan/claude-code-hooks 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 557 --> 573
-    line [558, 560, 561, 563, 568, 570, 572, 572]
+    title "shanraisshan/claude-code-hooks 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 559 --> 573
+    line [560, 561, 563, 568, 570, 572, 571]
 ```
 
-2026-10-18 558 → 2026-11-20 572（+14）
+2026-10-19 560 → 2026-11-21 571（+11）
 
 
 ---

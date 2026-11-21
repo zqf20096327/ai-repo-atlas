@@ -1,6 +1,6 @@
 # jinlow/forust
 
-⭐ 99 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/jinlow/forust) · [官网](https://jinlow.github.io/forust/) · 个人维护
+⭐ 100 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/jinlow/forust) · [官网](https://jinlow.github.io/forust/) · 个人维护
 
 **Rust 实现的轻量梯度提升决策树（GBDT）Python 包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jinlow/forust 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 95 --> 100
-    line [96, 97, 98, 99]
+    title "jinlow/forust 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 95 --> 101
+    line [96, 97, 98, 99, 100]
 ```
 
-2026-10-18 96 → 2026-11-20 99（+3）
+2026-10-19 96 → 2026-11-21 100（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # fanhuayishiy/ai-crew-pass
 
-⭐ 194 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/fanhuayishiy/ai-crew-pass) · [官网](https://badge.fhysy.com/) · 个人维护 · 中文 README
+⭐ 195 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/fanhuayishiy/ai-crew-pass) · [官网](https://badge.fhysy.com/) · 个人维护 · 中文 README
 
 **给 AI 角色发可拖拽 3D 工牌的趣味网页小项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fanhuayishiy/ai-crew-pass 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 174 --> 195
-    line [175, 181, 185, 186, 189, 190, 191, 194]
+    title "fanhuayishiy/ai-crew-pass 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 173 --> 197
+    line [175, 181, 185, 186, 189, 190, 191, 194, 195]
 ```
 
-2026-11-10 175 → 2026-11-20 194（+19）
+2026-11-10 175 → 2026-11-21 195（+20）
 
 
 ---

@@ -45,13 +45,13 @@ sur9e 将 AI 编程 CLI（Claude Code、Codex、OpenCode）作为运行时与命
 
 ```mermaid
 xychart-beta
-    title "apelabs-dev/sur9e 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-20"]
+    title "apelabs-dev/sur9e 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-20", "2026-11-21"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-10-29 15 → 2026-11-20 16（+1）
+2026-10-29 15 → 2026-11-21 16（+1）
 
 
 ---

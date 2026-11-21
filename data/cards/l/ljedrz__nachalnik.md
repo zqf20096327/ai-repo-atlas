@@ -1,6 +1,6 @@
 # ljedrz/nachalnik
 
-⭐ 12 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ljedrz/nachalnik) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ljedrz/nachalnik) · 个人维护
 
 **面向开发者的显式状态 agent 运行时与终端 agent**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ljedrz/nachalnik 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-21"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-11-08 11 → 2026-11-20 12（+1）
+2026-11-08 11 → 2026-11-21 12（+1）
 
 
 ---

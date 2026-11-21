@@ -1,6 +1,6 @@
 # gradsflow/gradsflow-automl
 
-⭐ 307 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gradsflow/gradsflow-automl) · [官网](https://docs.gradsflow.com/) · 组织维护
+⭐ 306 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gradsflow/gradsflow-automl) · [官网](https://docs.gradsflow.com/) · 组织维护
 
 **基于 PyTorch 的开源 AutoML 与模型训练库**
 
@@ -46,12 +46,12 @@ GradsFlow 是基于 PyTorch 的开源 AutoML 库，面向初学者与专家两�
 ```mermaid
 xychart-beta
     title "gradsflow/gradsflow-automl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-21"]
     y-axis "stars" 305 --> 308
-    line [306, 307, 307]
+    line [306, 307, 306]
 ```
 
-2026-10-18 306 → 2026-11-20 307（+1）
+2026-10-18 306 → 2026-11-21 306（+0）
 
 
 ---

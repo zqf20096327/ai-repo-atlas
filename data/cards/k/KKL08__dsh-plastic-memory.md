@@ -1,6 +1,6 @@
 # KKL08/dsh-plastic-memory
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/KKL08/dsh-plastic-memory) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/KKL08/dsh-plastic-memory) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 提供自动沉淀、检索与治理的长期记忆插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KKL08/dsh-plastic-memory 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-11-19", "2026-11-21"]
+    y-axis "stars" 13 --> 20
+    line [14, 19]
 ```
 
-2026-11-19 14 → 2026-11-20 14（+0）
+2026-11-19 14 → 2026-11-21 19（+5）
 
 
 ---

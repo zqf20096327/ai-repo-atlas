@@ -1,6 +1,6 @@
 # classicshi/sora-api
 
-⭐ 30 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/classicshi/sora-api) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **通过网页界面调用 Sora 2 API 生成 AI 视频的工具**
 
@@ -11,7 +11,7 @@ Sora 2 视频生成的客户端工具：用户在网页界面设置视频参数�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

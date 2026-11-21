@@ -1,6 +1,6 @@
 # youranreus/TokChan
 
-⭐ 11 · Swift · 推送 2026-10-15 · [GitHub](https://github.com/youranreus/TokChan) · 个人维护 · 中文 README
+⭐ 11 · Swift · 推送 2026-11-20 · [GitHub](https://github.com/youranreus/TokChan) · 个人维护 · 中文 README
 
 **在 macOS 菜单栏查看 Tokscale AI 编程用量的应用**
 
@@ -45,12 +45,12 @@ TokChan 是原生 macOS 菜单栏应用，读取 Tokscale 统计的本地或在�
 ```mermaid
 xychart-beta
     title "youranreus/TokChan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-15", "2026-11-21"]
     y-axis "stars" 5 --> 12
     line [6, 10, 11, 11]
 ```
 
-2026-10-18 6 → 2026-11-20 11（+5）
+2026-10-18 6 → 2026-11-21 11（+5）
 
 
 ---

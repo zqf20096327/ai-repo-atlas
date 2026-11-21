@@ -1,6 +1,6 @@
 # mindspore-ai/hyper-multicore
 
-⭐ 67 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mindspore-ai/hyper-multicore) · 组织维护 · 中文 README
+⭐ 67 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mindspore-ai/hyper-multicore) · 组织维护 · 中文 README
 
 **华为昇腾超节点 Megakernel 开发框架（MoE/路由/混合算子）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mindspore-ai/hyper-multicore 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-20"]
+    title "mindspore-ai/hyper-multicore 星数(近 8 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 72
-    line [14, 15, 31, 52, 63, 66, 67]
+    line [14, 15, 31, 52, 63, 66, 67, 67]
 ```
 
-2026-11-02 14 → 2026-11-20 67（+53）
+2026-11-02 14 → 2026-11-21 67（+53）
 
 
 ---

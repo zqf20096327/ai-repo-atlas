@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KristjanPikhof/Pi-YAML-Hooks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    title "KristjanPikhof/Pi-YAML-Hooks 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-20 18（+2）
+2026-10-19 17 → 2026-11-21 18（+1）
 
 
 ---

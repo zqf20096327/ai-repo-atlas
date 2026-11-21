@@ -1,6 +1,6 @@
 # mist-medical/MIST
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/mist-medical/MIST) · 组织维护
+⭐ 58 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mist-medical/MIST) · 组织维护
 
 **面向医学影像研究者的 3D 医学图像分割端到端框架**
 
@@ -45,12 +45,12 @@ MIST 是覆盖原始 NIfTI 文件到训练模型与预测评估全流程的 3D �
 ```mermaid
 xychart-beta
     title "mist-medical/MIST 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 56 --> 59
     line [57, 58, 57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-20 58（+1）
+2026-10-19 57 → 2026-11-21 58（+1）
 
 
 ---

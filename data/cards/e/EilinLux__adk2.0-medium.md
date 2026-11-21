@@ -1,6 +1,6 @@
 # EilinLux/adk2.0-medium
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/EilinLux/adk2.0-medium) · [官网](https://medium.com/@ailluzdatascience/list/agent-developer-kit-adk-5d957c62e9a9 ) · 个人维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/EilinLux/adk2.0-medium) · [官网](https://medium.com/@ailluzdatascience/list/agent-developer-kit-adk-5d957c62e9a9 ) · 个人维护
 
 **Google ADK 2.0 教程系列的配套实现仓库（SostaApp 示例）**
 
@@ -46,12 +46,12 @@ Medium 上 ADK 2.0 教程系列的代码实现仓库，每篇文章对应一个 
 ```mermaid
 xychart-beta
     title "EilinLux/adk2.0-medium 星数(近 7 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 14 --> 23
-    line [15, 17, 18, 19, 20, 22, 22]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 14 --> 24
+    line [15, 17, 18, 19, 20, 22, 23]
 ```
 
-2026-10-30 15 → 2026-11-20 22（+7）
+2026-10-30 15 → 2026-11-21 23（+8）
 
 
 ---

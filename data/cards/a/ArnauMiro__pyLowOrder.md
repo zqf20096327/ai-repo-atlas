@@ -44,13 +44,13 @@ pyLOM 是一个 Python 编写的降阶建模（ROM）库，面向流体动力学
 
 ```mermaid
 xychart-beta
-    title "ArnauMiro/pyLowOrder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    title "ArnauMiro/pyLowOrder 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 35 --> 37
+    line [36, 36]
 ```
 
-2026-10-18 35 → 2026-11-20 36（+1）
+2026-10-19 36 → 2026-11-21 36（+0）
 
 
 ---

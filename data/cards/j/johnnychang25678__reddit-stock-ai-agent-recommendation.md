@@ -1,6 +1,6 @@
 # johnnychang25678/reddit-stock-ai-agent-recommendation
 
-⭐ 20 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/johnnychang25678/reddit-stock-ai-agent-recommendation) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/johnnychang25678/reddit-stock-ai-agent-recommendation) · 个人维护
 
 **AI agent 分析 Reddit 帖子并生成每周股票买入推荐与模拟交易**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "johnnychang25678/reddit-stock-ai-agent-recommendation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-11-20 20（+0）
+2026-10-19 20 → 2026-11-21 21（+1）
 
 
 ---

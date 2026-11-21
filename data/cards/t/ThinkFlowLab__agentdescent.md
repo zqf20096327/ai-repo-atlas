@@ -1,6 +1,6 @@
 # ThinkFlowLab/agentdescent
 
-⭐ 221 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 组织维护
+⭐ 221 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 组织维护
 
 **自进化 agent 框架：并行 worker 提出编辑、聚合器合并演进提示与技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThinkFlowLab/agentdescent 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    title "ThinkFlowLab/agentdescent 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 202 --> 222
-    line [203, 206, 211, 215, 219, 221, 220, 221]
+    line [203, 206, 211, 215, 219, 221, 220, 221, 221]
 ```
 
-2026-11-08 203 → 2026-11-20 221（+18）
+2026-11-08 203 → 2026-11-21 221（+18）
 
 
 ---

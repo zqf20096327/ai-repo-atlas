@@ -1,6 +1,6 @@
 # cmunch1/nba-prediction
 
-⭐ 313 · Jupyter Notebook · 推送 2026-04-01 · [GitHub](https://github.com/cmunch1/nba-prediction) · [官网](https://cmunch1.github.io/nba-prediction/) · 个人维护
+⭐ 312 · Jupyter Notebook · 推送 2026-04-01 · [GitHub](https://github.com/cmunch1/nba-prediction) · [官网](https://cmunch1.github.io/nba-prediction/) · 个人维护
 
 **预测 NBA 每日比赛主队胜率的端到端机器学习项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cmunch1/nba-prediction 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 311 --> 314
-    line [312, 313, 312, 313, 313]
+    line [312, 313, 312, 313, 312]
 ```
 
-2026-10-18 312 → 2026-11-20 313（+1）
+2026-10-19 312 → 2026-11-21 312（+0）
 
 
 ---

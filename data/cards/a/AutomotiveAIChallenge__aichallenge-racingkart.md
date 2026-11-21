@@ -1,6 +1,6 @@
 # AutomotiveAIChallenge/aichallenge-racingkart
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/AutomotiveAIChallenge/aichallenge-racingkart) · [官网](https://aichallenge-board.jsae.or.jp/) · 组织维护
+⭐ 57 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/AutomotiveAIChallenge/aichallenge-racingkart) · [官网](https://aichallenge-board.jsae.or.jp/) · 组织维护
 
 **日本自动驾驶 AI 挑战赛（卡丁车）开发环境与脚本集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AutomotiveAIChallenge/aichallenge-racingkart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-11-20 57（+0）
+2026-10-19 57 → 2026-11-21 57（+0）
 
 
 ---

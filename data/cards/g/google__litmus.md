@@ -1,6 +1,6 @@
 # google/litmus
 
-⭐ 52 · Vue · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/google/litmus) · [官网](https://google.github.io/litmus/) · 组织维护
+⭐ 52 · Vue · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google/litmus) · [官网](https://google.github.io/litmus/) · 组织维护
 
 **面向 GenAI 应用的 LLM 测试与评估平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google/litmus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-20 52（+0）
+2026-10-19 52 → 2026-11-21 52（+0）
 
 
 ---

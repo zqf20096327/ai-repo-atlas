@@ -1,6 +1,6 @@
 # AmpyFin/ampyfin
 
-⭐ 428 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/AmpyFin/ampyfin) · 组织维护
+⭐ 426 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/AmpyFin/ampyfin) · 组织维护
 
 **面向 NASDAQ-100 的集成学习量化交易系统：训练、回测到实盘**
 
@@ -45,12 +45,12 @@ Python 实现的算法交易框架：用 yfinance 获取历史数据，内置均
 ```mermaid
 xychart-beta
     title "AmpyFin/ampyfin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 426 --> 429
-    line [427, 428, 428]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 425 --> 429
+    line [427, 428, 426]
 ```
 
-2026-10-18 427 → 2026-11-20 428（+1）
+2026-10-19 427 → 2026-11-21 426（-1）
 
 
 ---

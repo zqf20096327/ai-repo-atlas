@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fx-studio/mini-video-workspace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 5 --> 8
-    line [6, 7, 7]
+    title "fx-studio/mini-video-workspace 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
 ```
 
-2026-10-18 6 → 2026-11-20 7（+1）
+2026-10-19 7 → 2026-11-21 7（+0）
 
 
 ---

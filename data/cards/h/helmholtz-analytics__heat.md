@@ -1,6 +1,6 @@
 # helmholtz-analytics/heat
 
-⭐ 253 · Python · 推送 2026-11-19 · [GitHub](https://github.com/helmholtz-analytics/heat) · [官网](https://heat.readthedocs.io/) · 组织维护
+⭐ 253 · Python · 推送 2026-11-20 · [GitHub](https://github.com/helmholtz-analytics/heat) · [官网](https://heat.readthedocs.io/) · 组织维护
 
 **科研/数据科学用户的分布式张量计算框架，跨多机处理超大规模数组**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "helmholtz-analytics/heat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 250 --> 254
     line [251, 253, 253]
 ```
 
-2026-10-18 251 → 2026-11-20 253（+2）
+2026-10-19 251 → 2026-11-21 253（+2）
 
 
 ---

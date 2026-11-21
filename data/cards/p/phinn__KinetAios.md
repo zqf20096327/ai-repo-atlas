@@ -1,6 +1,6 @@
 # phinn/KinetAios
 
-⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/phinn/KinetAios) · [官网](https://phinn.github.io/KinetAios/) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/phinn/KinetAios) · [官网](https://phinn.github.io/KinetAios/) · 个人维护 · 中文 README
 
 **本地优先的多引擎 AI agent 桌面工作台，无账号无中转**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "phinn/KinetAios 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-20"]
+    title "phinn/KinetAios 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 11 --> 17
-    line [12, 13, 14, 15, 16]
+    line [12, 13, 14, 15, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-20 16（+4）
+2026-10-19 12 → 2026-11-21 16（+4）
 
 
 ---

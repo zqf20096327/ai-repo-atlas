@@ -1,6 +1,6 @@
 # hoyyang/dsh-smart-compact
 
-⭐ 11 · TypeScript · BSD-3-Clause · 推送 2026-11-09 · [GitHub](https://github.com/hoyyang/dsh-smart-compact) · [官网](https://www.npmjs.com/package/dsh-smart-compact) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · BSD-3-Clause · 推送 2026-11-09 · [GitHub](https://github.com/hoyyang/dsh-smart-compact) · [官网](https://www.npmjs.com/package/dsh-smart-compact) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的上下文窗口自动换窗插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hoyyang/dsh-smart-compact 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 6 --> 12
-    line [7, 8, 9, 7, 9, 10, 11, 11]
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 6 --> 13
+    line [7, 8, 9, 7, 9, 10, 11, 12]
 ```
 
-2026-10-18 7 → 2026-11-20 11（+4）
+2026-10-19 7 → 2026-11-21 12（+5）
 
 
 ---

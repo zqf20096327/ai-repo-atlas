@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）桌面端的插件：不接入 QQ 协议、不注入客
 ```mermaid
 xychart-beta
     title "LesterTown/qq-auto-reply 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-20"]
+    x-axis ["2026-11-12", "2026-11-21"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-12 7 → 2026-11-20 7（+0）
+2026-11-12 7 → 2026-11-21 7（+0）
 
 
 ---

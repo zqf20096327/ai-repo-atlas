@@ -1,6 +1,6 @@
 # PeepSick/usbplus
 
-⭐ 11 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/PeepSick/usbplus) · [官网](https://usbplus.peepsicklabs.com) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/PeepSick/usbplus) · [官网](https://usbplus.peepsicklabs.com) · 组织维护
 
 **面向 agent 生态的技能安装与信任校验 CLI**
 
@@ -45,12 +45,12 @@ USB 是一个面向 AI agent 能力的目录与信任层工具：通过 CLI 在�
 ```mermaid
 xychart-beta
     title "PeepSick/usbplus 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 8 --> 12
-    line [9, 10, 11, 11]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 8 --> 13
+    line [9, 10, 11, 12]
 ```
 
-2026-11-10 9 → 2026-11-20 11（+2）
+2026-11-10 9 → 2026-11-21 12（+3）
 
 
 ---

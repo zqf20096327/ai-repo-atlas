@@ -1,6 +1,6 @@
 # greynewell/evaldriven.org
 
-⭐ 31 · Nunjucks · CC0-1.0 · 推送 2026-06-22 · [GitHub](https://github.com/greynewell/evaldriven.org) · [官网](https://evaldriven.org) · 个人维护
+⭐ 32 · Nunjucks · CC0-1.0 · 推送 2026-06-22 · [GitHub](https://github.com/greynewell/evaldriven.org) · [官网](https://evaldriven.org) · 个人维护
 
 **评测驱动开发方法论站点：先建评测再交付功能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "greynewell/evaldriven.org 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32]
 ```
 
-2026-10-18 30 → 2026-11-20 31（+1）
+2026-10-19 30 → 2026-11-21 32（+2）
 
 
 ---

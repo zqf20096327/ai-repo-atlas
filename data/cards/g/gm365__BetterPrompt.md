@@ -45,12 +45,12 @@ Chrome 浏览器扩展，调用 Google Gemini API（Flash Lite 或 Flash）对�
 ```mermaid
 xychart-beta
     title "gm365/BetterPrompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-20 38（+0）
+2026-10-19 38 → 2026-11-21 38（+0）
 
 
 ---

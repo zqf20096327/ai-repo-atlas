@@ -1,6 +1,6 @@
 # inmve/agentic-coding-practices
 
-⭐ 354 · 推送 2026-11-19 · [GitHub](https://github.com/inmve/agentic-coding-practices) · [官网](https://inmve.github.io/agentic-coding-practices/) · 个人维护
+⭐ 353 · 推送 2026-11-20 · [GitHub](https://github.com/inmve/agentic-coding-practices) · [官网](https://inmve.github.io/agentic-coding-practices/) · 个人维护
 
 **AI 编程实践参考清单：为用 agent 开发软件者整理 127 条实践**
 
@@ -40,6 +40,18 @@
 > L1: # Agentic software development reference
 > L9: So I started again from what people who ship software with agents write about their own work. Below are 127 of their
 > L15: - **Survey for your team:** team-survey, a GitHub template that asks the same practices inside your team
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "inmve/agentic-coding-practices 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 352 --> 355
+    line [354, 353]
+```
+
+2026-11-20 354 → 2026-11-21 353（-1）
 
 
 ---

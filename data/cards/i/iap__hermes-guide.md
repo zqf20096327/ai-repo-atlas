@@ -1,6 +1,6 @@
 # iap/hermes-guide
 
-⭐ 30 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/iap/hermes-guide) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/iap/hermes-guide) · 个人维护
 
 **Hermes Agent 的自诊断插件与故障排查技能集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iap/hermes-guide 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20"]
+    title "iap/hermes-guide 星数(近 6 点)"
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 10 --> 31
-    line [11, 13, 17, 26, 30]
+    line [11, 13, 17, 26, 30, 29]
 ```
 
-2026-11-10 11 → 2026-11-20 30（+19）
+2026-11-10 11 → 2026-11-21 29（+18）
 
 
 ---

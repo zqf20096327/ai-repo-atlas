@@ -1,6 +1,6 @@
 # totalcms/cms
 
-⭐ 10 · PHP · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/totalcms/cms) · [官网](https://totalcms.co) · 组织维护
+⭐ 10 · PHP · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/totalcms/cms) · [官网](https://totalcms.co) · 组织维护
 
 **面向 Web 专业者的无数据库 flat-file PHP CMS，内置 MCP 供 AI agent 操作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "totalcms/cms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

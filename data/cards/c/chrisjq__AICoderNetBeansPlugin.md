@@ -41,6 +41,18 @@
 > L9: Claude, GitHub Copilot, Grok, Codex, Pi, OpenCode and OpenAI Compatible (LM Studio, llama.cpp, vLLM, Ollama, hosted 
 > L23: - NetBeans-aware search, navigation, diagnostics, build, test, refactoring, Git, file, database and web tools, with
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chrisjq/AICoderNetBeansPlugin 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `b96dee646965` · [字段定义](../../DATASET.md)*

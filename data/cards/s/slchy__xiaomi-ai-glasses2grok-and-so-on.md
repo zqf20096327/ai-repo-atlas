@@ -1,6 +1,6 @@
 # slchy/xiaomi-ai-glasses2grok-and-so-on
 
-⭐ 8 · Kotlin · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/slchy/xiaomi-ai-glasses2grok-and-so-on) · [官网](https://moe.st/blog/essays/xiaomi-ai-glasses/) · 个人维护 · 中文 README
+⭐ 10 · Kotlin · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/slchy/xiaomi-ai-glasses2grok-and-so-on) · [官网](https://moe.st/blog/essays/xiaomi-ai-glasses/) · 个人维护 · 中文 README
 
 **小米 AI 眼镜的第三方蓝牙协议解析与 Android SDK，接入任意大模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "slchy/xiaomi-ai-glasses2grok-and-so-on 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 5 --> 9
-    line [6, 7, 8, 8]
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 5 --> 11
+    line [6, 7, 8, 10]
 ```
 
-2026-11-14 6 → 2026-11-20 8（+2）
+2026-11-14 6 → 2026-11-21 10（+4）
 
 
 ---

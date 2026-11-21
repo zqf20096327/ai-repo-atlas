@@ -1,6 +1,6 @@
 # eclipse-langium/langium-ai
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/eclipse-langium/langium-ai) · 组织维护
+⭐ 32 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/eclipse-langium/langium-ai) · 组织维护
 
 **帮助将 LLM 接入 Langium DSL 的工具套件：评测、拆分与 Agent 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eclipse-langium/langium-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 30, 31, 31]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 30, 31, 32]
 ```
 
-2026-10-18 30 → 2026-11-20 31（+1）
+2026-10-19 30 → 2026-11-21 32（+2）
 
 
 ---

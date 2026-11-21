@@ -1,6 +1,6 @@
 # Azure-Samples/azureai-foundry-finetuning-raft
 
-⭐ 81 · Jupyter Notebook · MIT · 推送 2026-09-02 · [GitHub](https://github.com/Azure-Samples/azureai-foundry-finetuning-raft) · 组织维护
+⭐ 80 · Jupyter Notebook · MIT · 推送 2026-09-02 · [GitHub](https://github.com/Azure-Samples/azureai-foundry-finetuning-raft) · 组织维护
 
 **开发者的 RAFT 微调教程：在 Azure AI 上生成数据集并微调部署模型**
 
@@ -45,12 +45,12 @@ Azure 官方示例仓库，提供一套 RAFT（Retrieval Augmented Fine-Tuning�
 ```mermaid
 xychart-beta
     title "Azure-Samples/azureai-foundry-finetuning-raft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 79 --> 82
+    line [81, 80]
 ```
 
-2026-10-18 81 → 2026-11-20 81（+0）
+2026-10-19 81 → 2026-11-21 80（-1）
 
 
 ---

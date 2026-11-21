@@ -1,6 +1,6 @@
 # AgentEra/Agently-Daily-News-Collector
 
-⭐ 646 · Python · Apache-2.0 · 推送 2026-03-10 · [GitHub](https://github.com/AgentEra/Agently-Daily-News-Collector) · [官网](http://agently.tech) · 组织维护
+⭐ 645 · Python · Apache-2.0 · 推送 2026-03-10 · [GitHub](https://github.com/AgentEra/Agently-Daily-News-Collector) · [官网](http://agently.tech) · 组织维护
 
 **基于 Agently v4 的自动每日新闻收集工作流示例**
 
@@ -45,12 +45,12 @@ Agently 团队的应用示例项目：输入一个主题，自动执行大纲生
 ```mermaid
 xychart-beta
     title "AgentEra/Agently-Daily-News-Collector 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-21"]
     y-axis "stars" 642 --> 647
-    line [643, 644, 645, 646, 646]
+    line [643, 644, 645, 646, 645]
 ```
 
-2026-10-18 643 → 2026-11-20 646（+3）
+2026-10-19 643 → 2026-11-21 645（+2）
 
 
 ---

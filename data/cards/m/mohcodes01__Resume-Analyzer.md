@@ -46,12 +46,12 @@ Resume Matcher 是一个自托管 Web 应用：上传主简历（PDF/DOCX）、�
 ```mermaid
 xychart-beta
     title "mohcodes01/Resume-Analyzer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 13（+0）
 
 
 ---

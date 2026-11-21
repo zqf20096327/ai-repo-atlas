@@ -1,6 +1,6 @@
 # BuffMcBigHuge/ComfyClaw
 
-⭐ 17 · JavaScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/BuffMcBigHuge/ComfyClaw) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/BuffMcBigHuge/ComfyClaw) · 个人维护
 
 **ComfyUI 工作流的发现、检查与执行 CLI，供 LLM/脚本自动化调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BuffMcBigHuge/ComfyClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 16 --> 19
-    line [18, 17, 17]
+    line [18, 17, 18]
 ```
 
-2026-10-18 18 → 2026-11-20 17（-1）
+2026-10-19 18 → 2026-11-21 18（+0）
 
 
 ---

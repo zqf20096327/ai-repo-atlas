@@ -1,6 +1,6 @@
 # misospace/pr-reviewer-action
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/misospace/pr-reviewer-action) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/misospace/pr-reviewer-action) · 个人维护
 
 **AI 辅助 GitHub PR 审查 Action：接入任意 OpenAI/Anthropic 兼容模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "misospace/pr-reviewer-action 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "misospace/pr-reviewer-action 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 19 --> 22
-    line [20, 21]
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-20 21（+1）
+2026-10-19 20 → 2026-11-21 21（+1）
 
 
 ---

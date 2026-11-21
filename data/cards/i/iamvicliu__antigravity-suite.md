@@ -1,6 +1,6 @@
 # iamvicliu/antigravity-suite
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/iamvicliu/antigravity-suite) · 个人维护 · 中文 README
+⭐ 9 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/iamvicliu/antigravity-suite) · 个人维护 · 中文 README
 
 **Google Antigravity macOS 桌面端免改包增强与手机遥控套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iamvicliu/antigravity-suite 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 3 --> 7
-    line [4, 6, 6]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 3 --> 10
+    line [4, 6, 9]
 ```
 
-2026-11-16 4 → 2026-11-20 6（+2）
+2026-11-16 4 → 2026-11-21 9（+5）
 
 
 ---

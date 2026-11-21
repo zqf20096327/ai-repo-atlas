@@ -45,13 +45,13 @@ omnipkg 是一个持久守护进程，通过隔离的 Python worker 进程（bub
 
 ```mermaid
 xychart-beta
-    title "1minds3t/omnipkg 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    title "1minds3t/omnipkg 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 52 --> 54
+    line [53, 53]
 ```
 
-2026-10-18 52 → 2026-11-20 53（+1）
+2026-10-19 53 → 2026-11-21 53（+0）
 
 
 ---

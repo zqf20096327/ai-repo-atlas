@@ -1,6 +1,6 @@
 # Undertone0809/promptulate
 
-⭐ 512 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Undertone0809/promptulate) · [官网](https://promptulate.cn/) · 组织维护 · 中文 README
+⭐ 511 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Undertone0809/promptulate) · [官网](https://promptulate.cn/) · 组织维护 · 中文 README
 
 **Pythonic 的 LLM Agent 应用开发框架（pne）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Undertone0809/promptulate 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-21"]
     y-axis "stars" 510 --> 515
-    line [511, 512, 511, 513, 514, 513, 512, 512]
+    line [511, 512, 511, 513, 514, 513, 512, 511]
 ```
 
-2026-10-18 511 → 2026-11-20 512（+1）
+2026-10-19 511 → 2026-11-21 511（+0）
 
 
 ---

@@ -45,13 +45,13 @@ Chrome 扩展，从 Udemy、Coursera、YouTube 及通用 HTML5 播放器（Panop
 
 ```mermaid
 xychart-beta
-    title "pras-ops/udemy-transcript-extractor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
+    title "pras-ops/udemy-transcript-extractor 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 23 --> 27
-    line [24, 25, 26]
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-20 26（+2）
+2026-10-19 24 → 2026-11-21 26（+2）
 
 
 ---

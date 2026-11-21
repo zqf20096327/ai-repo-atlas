@@ -1,6 +1,6 @@
 # TradingGoose/TradingGoose.github.io
 
-⭐ 82 · TypeScript · AGPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/TradingGoose/TradingGoose.github.io) · [官网](https://tradinggoose.github.io/) · 组织维护
+⭐ 83 · TypeScript · AGPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/TradingGoose/TradingGoose.github.io) · [官网](https://tradinggoose.github.io/) · 组织维护
 
 **面向个人股票分析与组合管理的多 AI Agent 交易平台**
 
@@ -45,13 +45,13 @@ TradingGoose 是开源的 AI 交易工作流平台：多个专业 Agent（宏观
 
 ```mermaid
 xychart-beta
-    title "TradingGoose/TradingGoose.github.io 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 79 --> 83
-    line [80, 81, 82]
+    title "TradingGoose/TradingGoose.github.io 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 79 --> 84
+    line [80, 81, 82, 83]
 ```
 
-2026-10-18 80 → 2026-11-20 82（+2）
+2026-10-19 80 → 2026-11-21 83（+3）
 
 
 ---

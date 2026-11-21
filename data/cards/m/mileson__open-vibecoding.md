@@ -1,6 +1,6 @@
 # mileson/open-vibecoding
 
-⭐ 49 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mileson/open-vibecoding) · 个人维护 · 中文 README
+⭐ 135 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mileson/open-vibecoding) · 个人维护 · 中文 README
 
 **为编码 Agent 提供可审查工作流的协作框架**
 
@@ -41,6 +41,18 @@ Open VibeCoding 是一个接入现有编码 Agent（Codex、Claude Code、Cursor
 > L3: **让编码 Agent 从理解需求到交付验证，按任务选用产品、设计、研发和测试能力。**
 > L5: 在现有项目中接入 Codex、Claude Code、Cursor 或 Gemini CLI。你描述想解决的问题，Agent 结合仓库和已绑定的资料选择 Skill，给出方案、落实改动并交付验证结果。
 > L47: 每个场景是独立子能力，统筹层按用户意图组合它们，不靠固定关键词匹配。小任务可以只用一项；复杂任务可在领域之间往返。项目安装后的路由入口为 `.agents/internal-skills/open-vibecoding-route
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mileson/open-vibecoding 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 41 --> 143
+    line [49, 135]
+```
+
+2026-11-20 49 → 2026-11-21 135（+86）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kainotomic/agent-chief-of-staff
 
-⭐ 6 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Kainotomic/agent-chief-of-staff) · 个人维护
+⭐ 6 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Kainotomic/agent-chief-of-staff) · 个人维护
 
 **协调多 AI agent 舰队的架构设计与参考脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kainotomic/agent-chief-of-staff 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-21"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-11-13 5 → 2026-11-20 6（+1）
+2026-11-13 5 → 2026-11-21 6（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vlang/vtl
 
-⭐ 173 · V · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vlang/vtl) · [官网](https://vlang.github.io/vtl) · 组织维护
+⭐ 173 · V · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vlang/vtl) · [官网](https://vlang.github.io/vtl) · 组织维护
 
 **V 语言的张量库：ndarray、autograd 与神经网络训练**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vlang/vtl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    title "vlang/vtl 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 170 --> 175
-    line [171, 172, 171, 174, 173]
+    line [171, 172, 171, 174, 173, 173]
 ```
 
-2026-10-18 171 → 2026-11-20 173（+2）
+2026-10-19 171 → 2026-11-21 173（+2）
 
 
 ---

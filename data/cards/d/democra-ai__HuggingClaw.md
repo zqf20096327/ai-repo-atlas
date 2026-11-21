@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "democra-ai/HuggingClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    title "democra-ai/HuggingClaw 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 55 --> 57
+    line [56, 56]
 ```
 
-2026-10-18 55 → 2026-11-20 56（+1）
+2026-10-19 56 → 2026-11-21 56（+0）
 
 
 ---

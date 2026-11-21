@@ -1,6 +1,6 @@
 # microsoft/DecodingSuperUsage
 
-⭐ 47 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/DecodingSuperUsage) · 组织维护
+⭐ 48 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/DecodingSuperUsage) · 组织维护
 
 **分析 Microsoft 365 Copilot 超级用户行为模式的 Power BI 模板工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/DecodingSuperUsage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-11-20 47（+0）
+2026-10-18 47 → 2026-11-21 48（+1）
 
 
 ---

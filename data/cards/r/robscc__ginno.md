@@ -1,6 +1,6 @@
 # robscc/ginno
 
-⭐ 15 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/robscc/ginno) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/robscc/ginno) · 个人维护 · 中文 README
 
 **本地优先的个人 AI agent 桌面应用，含可视化工作流与本地知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "robscc/ginno 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 9 --> 16
     line [10, 14, 15, 15]
 ```
 
-2026-11-02 10 → 2026-11-20 15（+5）
+2026-11-02 10 → 2026-11-21 15（+5）
 
 
 ---

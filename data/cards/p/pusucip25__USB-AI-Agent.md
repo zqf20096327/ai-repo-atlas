@@ -1,6 +1,6 @@
 # pusucip25/USB-AI-Agent
 
-⭐ 12 · Python · 推送 2026-11-12 · [GitHub](https://github.com/pusucip25/USB-AI-Agent) · 个人维护
+⭐ 13 · Python · 推送 2026-11-12 · [GitHub](https://github.com/pusucip25/USB-AI-Agent) · 个人维护
 
 **从 USB/SSD 启动的免安装离线自主 AI agent**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "pusucip25/USB-AI-Agent 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-02 10 → 2026-11-20 12（+2）
+2026-11-02 10 → 2026-11-21 13（+3）
 
 
 ---

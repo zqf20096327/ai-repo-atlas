@@ -1,6 +1,6 @@
 # ChrisVip001/Jeeves
 
-⭐ 112 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ChrisVip001/Jeeves) · [官网](https://github.com/ChrisVip001/Jeeves/releases) · 个人维护 · 中文 README
+⭐ 94 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ChrisVip001/Jeeves) · [官网](https://github.com/ChrisVip001/Jeeves/releases) · 个人维护 · 中文 README
 
 **本地运行的的个人任务助理 Agent，记忆可审计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChrisVip001/Jeeves 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 111 --> 113
-    line [112, 112]
+    x-axis ["2026-11-19", "2026-11-21"]
+    y-axis "stars" 93 --> 113
+    line [112, 94]
 ```
 
-2026-11-19 112 → 2026-11-20 112（+0）
+2026-11-19 112 → 2026-11-21 94（-18）
 
 
 ---

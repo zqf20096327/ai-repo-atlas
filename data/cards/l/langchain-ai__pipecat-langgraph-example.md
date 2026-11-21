@@ -1,6 +1,6 @@
 # langchain-ai/pipecat-langgraph-example
 
-⭐ 14 · Python · 推送 2026-10-12 · [GitHub](https://github.com/langchain-ai/pipecat-langgraph-example) · 组织维护
+⭐ 15 · Python · 推送 2026-10-12 · [GitHub](https://github.com/langchain-ai/pipecat-langgraph-example) · 组织维护
 
 **LangGraph 多智能体交接的示例语音客服（健身房）**
 
@@ -46,12 +46,12 @@ LangChain 官方示例项目：用 LangGraph 构建的虚构健身房客服智�
 ```mermaid
 xychart-beta
     title "langchain-ai/pipecat-langgraph-example 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 13, 14, 14]
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-11-20 14（+1）
+2026-10-19 13 → 2026-11-21 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # eatmoreduck/yaya-skills
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/eatmoreduck/yaya-skills) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/eatmoreduck/yaya-skills) · 个人维护 · 中文 README
 
 **写作者的 X Space 转中文干货笔记 Agent 技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eatmoreduck/yaya-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 7 --> 11
-    line [8, 9, 8, 9, 10, 10]
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 7 --> 12
+    line [8, 9, 8, 9, 10, 11]
 ```
 
-2026-10-18 8 → 2026-11-20 10（+2）
+2026-10-19 8 → 2026-11-21 11（+3）
 
 
 ---

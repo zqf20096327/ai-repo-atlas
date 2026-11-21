@@ -1,6 +1,6 @@
 # spaceylamb/umbra-time-tracker
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/spaceylamb/umbra-time-tracker) · [官网](https://spaceylamb.github.io/umbra-time-tracker/) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/spaceylamb/umbra-time-tracker) · [官网](https://spaceylamb.github.io/umbra-time-tracker/) · 个人维护
 
 **读取本地数字痕迹、用 LLM 重建全天时间线的本地优先时间追踪器**
 
@@ -47,12 +47,12 @@ Umbra 从 13 类内置来源（Chrome 历史、shell、git、前台应用、iPho
 ```mermaid
 xychart-beta
     title "spaceylamb/umbra-time-tracker 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 7 --> 10
-    line [8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-08 8 → 2026-11-20 9（+1）
+2026-11-08 8 → 2026-11-21 10（+2）
 
 
 ---

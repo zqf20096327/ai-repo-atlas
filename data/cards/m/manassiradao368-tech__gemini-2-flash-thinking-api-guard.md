@@ -1,6 +1,6 @@
 # manassiradao368-tech/gemini-2-flash-thinking-api-guard
 
-⭐ 61 · 推送 2026-11-05 · [GitHub](https://github.com/manassiradao368-tech/gemini-2-flash-thinking-api-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 71 · 推送 2026-11-05 · [GitHub](https://github.com/manassiradao368-tech/gemini-2-flash-thinking-api-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向开发者的 GCP 扣费避坑指南，推介 CoreGold 商用卡方案**
 
@@ -44,12 +44,12 @@ README 以 Gemini 2.0 Flash Thinking 并发调用场景为背景，描述 GCP �
 ```mermaid
 xychart-beta
     title "manassiradao368-tech/gemini-2-flash-thinking-api-guard 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 14 --> 67
-    line [18, 38, 52, 57, 63, 62, 61, 61]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 13 --> 76
+    line [18, 38, 52, 57, 63, 62, 61, 71]
 ```
 
-2026-11-08 18 → 2026-11-20 61（+43）
+2026-11-08 18 → 2026-11-21 71（+53）
 
 
 ---

@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-ffmpeg
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/STARDUSTLC666/dsh-ffmpeg) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/STARDUSTLC666/dsh-ffmpeg) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本机 FFmpeg 音视频处理插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "STARDUSTLC666/dsh-ffmpeg 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
+    title "STARDUSTLC666/dsh-ffmpeg 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 15 --> 18
-    line [16, 17]
+    line [16, 17, 17]
 ```
 
-2026-11-18 16 → 2026-11-20 17（+1）
+2026-11-18 16 → 2026-11-21 17（+1）
 
 
 ---

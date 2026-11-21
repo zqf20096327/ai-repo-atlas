@@ -1,6 +1,6 @@
 # asas7412589630-hash/POPO-V1
 
-⭐ 9 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/asas7412589630-hash/POPO-V1) · 个人维护 · 中文 README
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/asas7412589630-hash/POPO-V1) · 个人维护 · 中文 README
 
 **本机自托管的模型 API 閘道，统一多上游为 OpenAI 相容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "asas7412589630-hash/POPO-V1 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 4 --> 10
-    line [5, 6, 7, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 4 --> 11
+    line [5, 6, 7, 8, 9, 10]
 ```
 
-2026-11-08 5 → 2026-11-20 9（+4）
+2026-11-08 5 → 2026-11-21 10（+5）
 
 
 ---

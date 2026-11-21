@@ -1,6 +1,6 @@
 # artefactory/mgs-grf
 
-⭐ 57 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/artefactory/mgs-grf) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/artefactory/mgs-grf) · 组织维护
 
 **面向混合类型不平衡表格数据的过采样预处理 Python 库**
 
@@ -46,12 +46,12 @@ MGS-GRF 是一个数据预处理 Python 包，实现同名过采样策略：针�
 ```mermaid
 xychart-beta
     title "artefactory/mgs-grf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-18 57 → 2026-11-20 57（+0）
+2026-10-19 57 → 2026-11-21 58（+1）
 
 
 ---

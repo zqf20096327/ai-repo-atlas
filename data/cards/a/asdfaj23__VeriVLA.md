@@ -1,6 +1,6 @@
 # asdfaj23/VeriVLA
 
-⭐ 12 · Python · 推送 2026-10-10 · [GitHub](https://github.com/asdfaj23/VeriVLA) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-10-10 · [GitHub](https://github.com/asdfaj23/VeriVLA) · 个人维护 · 中文 README
 
 **从零跑通多模态工具调用 Agent 后训练全链路的项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "asdfaj23/VeriVLA 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 7 --> 13
-    line [8, 10, 11, 10, 12, 12]
+    title "asdfaj23/VeriVLA 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 12, 13]
 ```
 
-2026-10-18 8 → 2026-11-20 12（+4）
+2026-10-19 10 → 2026-11-21 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # phodal/coca
 
-⭐ 989 · Go · MPL-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/phodal/coca) · [官网](https://coca.migration.ink/) · 个人维护 · 中文 README
+⭐ 990 · Go · MPL-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/phodal/coca) · [官网](https://coca.migration.ink/) · 个人维护 · 中文 README
 
 **遗留系统重构与分析工具箱：调用图、坏味道、依赖与 Git 分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "phodal/coca 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 988 --> 992
-    line [991, 989, 989]
+    line [991, 989, 990]
 ```
 
-2026-10-18 991 → 2026-11-20 989（-2）
+2026-10-19 991 → 2026-11-21 990（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # the-database/traiNNer-redux
 
-⭐ 142 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/the-database/traiNNer-redux) · [官网](https://trainner-redux.readthedocs.io) · 个人维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/the-database/traiNNer-redux) · [官网](https://trainner-redux.readthedocs.io) · 个人维护
 
 **图像超分与修复的 PyTorch 模型训练框架**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "the-database/traiNNer-redux 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20"]
+    title "the-database/traiNNer-redux 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20", "2026-11-21"]
     y-axis "stars" 131 --> 143
-    line [132, 133, 134, 135, 137, 134, 139, 141, 142]
+    line [132, 133, 134, 135, 137, 134, 139, 141, 142, 142]
 ```
 
-2026-10-18 132 → 2026-11-20 142（+10）
+2026-10-19 132 → 2026-11-21 142（+10）
 
 
 ---

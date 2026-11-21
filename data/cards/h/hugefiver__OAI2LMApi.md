@@ -1,6 +1,6 @@
 # hugefiver/OAI2LMApi
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-08-16 · [GitHub](https://github.com/hugefiver/OAI2LMApi) · [官网](https://marketplace.visualstudio.com/items?itemName=oai2lmapi.oai2lmapi) · 个人维护
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-08-16 · [GitHub](https://github.com/hugefiver/OAI2LMApi) · [官网](https://marketplace.visualstudio.com/items?itemName=oai2lmapi.oai2lmapi) · 个人维护
 
 **把 OpenAI 兼容 API 接入 VSCode 语言模型 API 的扩展**
 
@@ -45,12 +45,12 @@ VSCode 扩展：将任意 OpenAI 兼容 API 端点桥接到 VSCode 的 Language 
 ```mermaid
 xychart-beta
     title "hugefiver/OAI2LMApi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

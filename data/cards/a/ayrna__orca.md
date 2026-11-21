@@ -1,6 +1,6 @@
 # ayrna/orca
 
-⭐ 121 · C++ · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/ayrna/orca) · [官网](http://www.uco.es/grupos/ayrna/orreview) · 组织维护
+⭐ 122 · C++ · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/ayrna/orca) · [官网](http://www.uco.es/grupos/ayrna/orreview) · 组织维护
 
 **序数回归/分类算法的 MATLAB 实验框架，供研究者对比方法**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ayrna/orca 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 120 --> 123
+    line [121, 122]
 ```
 
-2026-10-18 121 → 2026-11-20 121（+0）
+2026-10-19 121 → 2026-11-21 122（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tigercosmos/code-cortex-mcp
 
-⭐ 12 · C++ · MIT · 推送 2026-11-12 · [GitHub](https://github.com/tigercosmos/code-cortex-mcp) · [官网](https://tigercosmos.github.io/code-cortex-mcp/) · 个人维护
+⭐ 13 · C++ · MIT · 推送 2026-11-12 · [GitHub](https://github.com/tigercosmos/code-cortex-mcp) · [官网](https://tigercosmos.github.io/code-cortex-mcp/) · 个人维护
 
 **为 AI 编码 agent 提供代码库调用图索引的本地 MCP 服务器**
 
@@ -46,12 +46,12 @@ code-cortex-mcp 是一个本地 MCP 服务器，把代码库索引为可查询�
 ```mermaid
 xychart-beta
     title "tigercosmos/code-cortex-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 11 → 2026-11-21 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hibuka-labs/phi-agent
 
-⭐ 13 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hibuka-labs/phi-agent) · [官网](https://docs.phiagent.dev) · 组织维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hibuka-labs/phi-agent) · [官网](https://docs.phiagent.dev) · 组织维护
 
 **Rust AI Agent 运行时框架：自带编排/会话/流式，工具由用户定义**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hibuka-labs/phi-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-21"]
     y-axis "stars" 12 --> 16
     line [15, 14, 13, 13]
 ```
 
-2026-10-18 15 → 2026-11-20 13（-2）
+2026-10-19 15 → 2026-11-21 13（-2）
 
 
 ---

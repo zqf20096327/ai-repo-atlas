@@ -1,6 +1,6 @@
 # Chen-Jin-Han/Math-Modeling
 
-⭐ 17 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Chen-Jin-Han/Math-Modeling) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Chen-Jin-Han/Math-Modeling) · 个人维护 · 中文 README
 
 **个人数学建模项目与资料库：竞赛论文、代码与模型案例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chen-Jin-Han/Math-Modeling 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 10 --> 18
-    line [11, 13, 14, 16, 13, 17, 17]
+    title "Chen-Jin-Han/Math-Modeling 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 12 --> 21
+    line [13, 14, 16, 13, 17, 20]
 ```
 
-2026-10-18 11 → 2026-11-20 17（+6）
+2026-10-19 13 → 2026-11-21 20（+7）
 
 
 ---

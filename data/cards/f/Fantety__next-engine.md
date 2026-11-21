@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fantety/next-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "Fantety/next-engine 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 26 --> 28
+    line [27, 27]
 ```
 
-2026-10-18 26 → 2026-11-20 27（+1）
+2026-10-19 27 → 2026-11-21 27（+0）
 
 
 ---

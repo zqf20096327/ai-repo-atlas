@@ -47,12 +47,12 @@ TranscreveAI 是一个视频智能 CLI 管线：通过 yt-dlp 下载视频、抽
 ```mermaid
 xychart-beta
     title "DeHor-Labs/transcreve-ai 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-20 10（+0）
+2026-11-11 10 → 2026-11-21 10（+0）
 
 
 ---

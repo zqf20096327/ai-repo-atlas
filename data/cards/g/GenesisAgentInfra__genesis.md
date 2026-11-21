@@ -1,6 +1,6 @@
 # GenesisAgentInfra/genesis
 
-⭐ 52 · HTML · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/GenesisAgentInfra/genesis) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **把代码库变成业务流程图的 agent 技能，标出未测试/有风险的改动**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

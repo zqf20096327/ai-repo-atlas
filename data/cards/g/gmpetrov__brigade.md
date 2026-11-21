@@ -1,6 +1,6 @@
 # gmpetrov/brigade
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/gmpetrov/brigade) · [官网](https://www.brigade.lol) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gmpetrov/brigade) · [官网](https://www.brigade.lol) · 个人维护
 
 **自托管 AI 队友平台：复用 Claude/ChatGPT 订阅跑公司任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gmpetrov/brigade 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20"]
+    title "gmpetrov/brigade 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 17
-    line [3, 6, 8, 10, 12, 13, 14, 16]
+    line [3, 6, 8, 10, 12, 13, 14, 16, 16]
 ```
 
-2026-11-10 3 → 2026-11-20 16（+13）
+2026-11-10 3 → 2026-11-21 16（+13）
 
 
 ---

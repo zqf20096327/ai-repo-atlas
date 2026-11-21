@@ -40,12 +40,12 @@ README 仅含标题 'PXI - Prajapatt eXtreme Intelligence'。仓库主题标签�
 ```mermaid
 xychart-beta
     title "prajapatt/pxi 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-20"]
+    x-axis ["2026-11-13", "2026-11-21"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-11-13 84 → 2026-11-20 84（+0）
+2026-11-13 84 → 2026-11-21 84（+0）
 
 
 ---

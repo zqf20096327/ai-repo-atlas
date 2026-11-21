@@ -45,13 +45,13 @@ Python 工具包，用几行代码构建 RAG 管线：经 MarkItDown 摄取 PDF/
 
 ```mermaid
 xychart-beta
-    title "laxmimerit/RAGWire 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-20"]
+    title "laxmimerit/RAGWire 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
     y-axis "stars" 49 --> 52
-    line [51, 50, 51, 51]
+    line [50, 51, 51]
 ```
 
-2026-10-18 51 → 2026-11-20 51（+0）
+2026-10-19 50 → 2026-11-21 51（+1）
 
 
 ---

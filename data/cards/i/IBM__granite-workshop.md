@@ -43,13 +43,13 @@ IBM Granite 基础模型 AI 研讨会的源码仓库，使用 Material for MkDoc
 
 ```mermaid
 xychart-beta
-    title "IBM/granite-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "IBM/granite-workshop 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 47 --> 50
-    line [49, 48]
+    line [49, 48, 48]
 ```
 
-2026-10-18 49 → 2026-11-20 48（-1）
+2026-10-19 49 → 2026-11-21 48（-1）
 
 
 ---

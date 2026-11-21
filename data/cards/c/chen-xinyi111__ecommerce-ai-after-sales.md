@@ -1,6 +1,6 @@
 # chen-xinyi111/ecommerce-ai-after-sales
 
-⭐ 6 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/chen-xinyi111/ecommerce-ai-after-sales) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/chen-xinyi111/ecommerce-ai-after-sales) · 个人维护 · 中文 README
 
 **给电商用户与客服的 AI 售后咨询审批工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chen-xinyi111/ecommerce-ai-after-sales 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
 ```
 
-2026-10-18 6 → 2026-11-20 6（+0）
+2026-10-19 6 → 2026-11-21 7（+1）
 
 
 ---

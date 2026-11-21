@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Happy-Chen-CH/Educational_RAG_System 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-20 34（+0）
+2026-10-19 34 → 2026-11-21 34（+0）
 
 
 ---

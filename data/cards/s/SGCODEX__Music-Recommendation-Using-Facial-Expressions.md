@@ -44,13 +44,13 @@ Python 应用：用 OpenCV 从摄像头实时检测人脸，再用预训练深�
 
 ```mermaid
 xychart-beta
-    title "SGCODEX/Music-Recommendation-Using-Facial-Expressions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    title "SGCODEX/Music-Recommendation-Using-Facial-Expressions 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 59 --> 63
-    line [60, 61, 62]
+    line [60, 61, 62, 62]
 ```
 
-2026-10-18 60 → 2026-11-20 62（+2）
+2026-10-19 60 → 2026-11-21 62（+2）
 
 
 ---

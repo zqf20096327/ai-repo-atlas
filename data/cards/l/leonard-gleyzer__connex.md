@@ -1,6 +1,6 @@
 # leonard-gleyzer/connex
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/leonard-gleyzer/connex) · [官网](https://leonard-gleyzer.github.io/connex/) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/leonard-gleyzer/connex) · [官网](https://leonard-gleyzer.github.io/connex/) · 个人维护
 
 **JAX 库：以 DAG 定义并动态编辑神经网络拓扑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leonard-gleyzer/connex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-20 23（+0）
+2026-10-19 23 → 2026-11-21 24（+1）
 
 
 ---

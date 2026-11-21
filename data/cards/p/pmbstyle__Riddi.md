@@ -1,6 +1,6 @@
 # pmbstyle/Riddi
 
-⭐ 10 · TypeScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/pmbstyle/Riddi) · [官网](https://chromewebstore.google.com/detail/riddi/elghlgcjihgpmmffcmphbddmkgbfdbbg) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/pmbstyle/Riddi) · [官网](https://chromewebstore.google.com/detail/riddi/elghlgcjihgpmmffcmphbddmkgbfdbbg) · 个人维护
 
 **Chrome 扩展：用本地 AI 模型朗读网页文章**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "pmbstyle/Riddi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

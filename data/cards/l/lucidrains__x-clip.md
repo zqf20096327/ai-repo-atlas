@@ -1,6 +1,6 @@
 # lucidrains/x-clip
 
-⭐ 727 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/lucidrains/x-clip) · 个人维护
+⭐ 726 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/lucidrains/x-clip) · 个人维护
 
 **PyTorch 实现的 CLIP 库，含多篇论文的对比学习改进**
 
@@ -45,12 +45,12 @@ lucidrains 维护的多模态对比学习库：提供 CLIP 的 PyTorch 实现，
 ```mermaid
 xychart-beta
     title "lucidrains/x-clip 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-16", "2026-11-21"]
     y-axis "stars" 725 --> 728
-    line [726, 727, 727]
+    line [726, 727, 726]
 ```
 
-2026-11-02 726 → 2026-11-20 727（+1）
+2026-11-02 726 → 2026-11-21 726（+0）
 
 
 ---

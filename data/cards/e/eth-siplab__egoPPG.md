@@ -44,13 +44,13 @@ ETH Zürich 团队发布的 ICCV 2025 论文官方实现：提出 egoPPG 任务�
 
 ```mermaid
 xychart-beta
-    title "eth-siplab/egoPPG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "eth-siplab/egoPPG 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-20 15（+1）
+2026-10-19 14 → 2026-11-21 15（+1）
 
 
 ---

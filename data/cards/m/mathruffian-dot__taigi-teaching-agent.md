@@ -1,6 +1,6 @@
 # mathruffian-dot/taigi-teaching-agent
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/mathruffian-dot/taigi-teaching-agent) · 个人维护 · 中文 README
+⭐ 14 · Python · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/mathruffian-dot/taigi-teaching-agent) · 个人维护 · 中文 README
 
 **为本土语教师按 108 课纲生成台语教材的 AI Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mathruffian-dot/taigi-teaching-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 14（+1）
 
 
 ---

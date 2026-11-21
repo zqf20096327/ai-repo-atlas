@@ -1,6 +1,6 @@
 # luongnv89/idd
 
-⭐ 15 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/luongnv89/idd) · [官网](http://luongnv.com/idd/) · 个人维护
+⭐ 15 · Shell · MIT · 推送 2026-11-20 · [GitHub](https://github.com/luongnv89/idd) · [官网](http://luongnv.com/idd/) · 个人维护
 
 **把 GitHub Issues 结构化为可执行工单的 8 个 agent 技能集**
 
@@ -45,12 +45,12 @@ IDD Stack 提供八个公开技能（SKILL.md 目录形式），覆盖 GitHub is
 ```mermaid
 xychart-beta
     title "luongnv89/idd 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-18", "2026-11-21"]
     y-axis "stars" 9 --> 16
     line [10, 11, 12, 13, 12, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-20 15（+5）
+2026-10-19 10 → 2026-11-21 15（+5）
 
 
 ---

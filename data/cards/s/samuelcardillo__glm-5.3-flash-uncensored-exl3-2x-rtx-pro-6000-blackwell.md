@@ -41,6 +41,18 @@
 > L64: ./scripts/serve.sh
 > L94: curl http://127.0.0.1:8000/v1/chat/completions \
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "samuelcardillo/glm-5.3-flash-uncensored-exl3-2x-rtx-pro-6000-blackwell 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `096b1fdc9865` · [字段定义](../../DATASET.md)*

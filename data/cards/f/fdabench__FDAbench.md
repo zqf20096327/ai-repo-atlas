@@ -45,13 +45,13 @@ KDD'26 论文 FDAbench 的官方仓库：为异构数据上的分析查询提供
 
 ```mermaid
 xychart-beta
-    title "fdabench/FDAbench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 82 --> 85
-    line [83, 84, 84]
+    title "fdabench/FDAbench 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 83 --> 85
+    line [84, 84]
 ```
 
-2026-10-18 83 → 2026-11-20 84（+1）
+2026-10-19 84 → 2026-11-21 84（+0）
 
 
 ---

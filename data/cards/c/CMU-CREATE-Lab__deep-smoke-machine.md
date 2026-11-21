@@ -1,6 +1,6 @@
 # CMU-CREATE-Lab/deep-smoke-machine
 
-⭐ 125 · Python · BSD-3-Clause · 推送 2026-03-23 · [GitHub](https://github.com/CMU-CREATE-Lab/deep-smoke-machine) · [官网](http://smoke.createlab.org) · 组织维护
+⭐ 126 · Python · BSD-3-Clause · 推送 2026-03-23 · [GitHub](https://github.com/CMU-CREATE-Lab/deep-smoke-machine) · [官网](http://smoke.createlab.org) · 组织维护
 
 **识别工业烟尘排放的深度学习模型与视频数据集**
 
@@ -45,12 +45,12 @@ Project RISE 的代码与数据集发布仓库：基于 I3D（Two-Stream Inflate
 ```mermaid
 xychart-beta
     title "CMU-CREATE-Lab/deep-smoke-machine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 124 --> 127
+    line [125, 126]
 ```
 
-2026-10-18 125 → 2026-11-20 125（+0）
+2026-10-19 125 → 2026-11-21 126（+1）
 
 
 ---

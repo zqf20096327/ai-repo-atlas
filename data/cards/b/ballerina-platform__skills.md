@@ -1,6 +1,6 @@
 # ballerina-platform/skills
 
-⭐ 28 · JavaScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/ballerina-platform/skills) · 组织维护
+⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/ballerina-platform/skills) · 组织维护
 
 **面向 AI 编程助手的 Ballerina 语言技能与插件集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ballerina-platform/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-18 28 → 2026-11-20 28（+0）
+2026-10-19 28 → 2026-11-21 27（-1）
 
 
 ---

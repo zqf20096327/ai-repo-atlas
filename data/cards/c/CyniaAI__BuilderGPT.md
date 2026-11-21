@@ -1,6 +1,6 @@
 # CyniaAI/BuilderGPT
 
-⭐ 164 · JavaScript · Apache-2.0 · 推送 2026-02-22 · [GitHub](https://github.com/CyniaAI/BuilderGPT) · [官网](https://cynia.dev) · 组织维护
+⭐ 163 · JavaScript · Apache-2.0 · 推送 2026-02-22 · [GitHub](https://github.com/CyniaAI/BuilderGPT) · [官网](https://cynia.dev) · 组织维护
 
 **用自然语言生成 Minecraft 建筑结构（.schem/.mcfunction）的组件**
 
@@ -42,13 +42,13 @@ Cynia Agents 框架的组件：用户描述建筑，由配置的 LLM 生成可�
 
 ```mermaid
 xychart-beta
-    title "CyniaAI/BuilderGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 163 --> 166
-    line [165, 164, 164]
+    title "CyniaAI/BuilderGPT 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 162 --> 165
+    line [164, 163]
 ```
 
-2026-10-18 165 → 2026-11-20 164（-1）
+2026-10-19 164 → 2026-11-21 163（-1）
 
 
 ---

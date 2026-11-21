@@ -1,6 +1,6 @@
 # Jeomon/Web-Use
 
-⭐ 305 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/Jeomon/Web-Use) · 个人维护
+⭐ 306 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/Jeomon/Web-Use) · 个人维护
 
 **基于 CDP 与 LLM 的自主浏览器代理框架**
 
@@ -45,12 +45,12 @@ Python 编写的浏览器自动化代理框架：通过 Chrome DevTools Protocol
 ```mermaid
 xychart-beta
     title "Jeomon/Web-Use 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 300 --> 306
-    line [301, 302, 303, 304, 305, 305]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 300 --> 307
+    line [301, 302, 303, 304, 305, 306]
 ```
 
-2026-10-18 301 → 2026-11-20 305（+4）
+2026-10-18 301 → 2026-11-21 306（+5）
 
 
 ---

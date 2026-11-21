@@ -1,6 +1,6 @@
 # lj1270998580-crypto/Agnes-help-skill
 
-⭐ 317 · HTML · 推送 2026-11-10 · [GitHub](https://github.com/lj1270998580-crypto/Agnes-help-skill) · [官网](https://ailabing.cn/tools/agnes-creative-space/) · 个人维护 · 中文 README
+⭐ 317 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/lj1270998580-crypto/Agnes-help-skill) · [官网](https://ailabing.cn/tools/agnes-creative-space/) · 个人维护 · 中文 README
 
 **Agnes AI 全模态 API 的非官方帮助中心：文档与通用支持 Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lj1270998580-crypto/Agnes-help-skill 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21"]
     y-axis "stars" 308 --> 318
     line [309, 311, 312, 313, 312, 314, 315, 317, 317]
 ```
 
-2026-10-18 309 → 2026-11-20 317（+8）
+2026-10-18 309 → 2026-11-21 317（+8）
 
 
 ---

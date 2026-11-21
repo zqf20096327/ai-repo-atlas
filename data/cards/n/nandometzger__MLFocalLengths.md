@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nandometzger/MLFocalLengths 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "nandometzger/MLFocalLengths 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 46 --> 48
+    line [47, 47]
 ```
 
-2026-10-18 46 → 2026-11-20 47（+1）
+2026-10-19 47 → 2026-11-21 47（+0）
 
 
 ---

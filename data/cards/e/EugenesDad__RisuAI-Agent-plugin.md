@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EugenesDad/RisuAI-Agent-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
+    title "EugenesDad/RisuAI-Agent-plugin 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 17 --> 20
-    line [18, 19, 18, 18]
+    line [19, 18, 18]
 ```
 
-2026-10-18 18 → 2026-11-20 18（+0）
+2026-10-19 19 → 2026-11-21 18（-1）
 
 
 ---

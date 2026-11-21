@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aimasteracc/tree-sitter-analyzer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 57 --> 62
-    line [58, 60, 61, 61]
+    title "aimasteracc/tree-sitter-analyzer 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 58 → 2026-11-20 61（+3）
+2026-10-19 60 → 2026-11-21 61（+1）
 
 
 ---

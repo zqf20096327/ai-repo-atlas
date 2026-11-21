@@ -1,6 +1,6 @@
 # leggedrobotics/wild_visual_navigation
 
-⭐ 332 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/leggedrobotics/wild_visual_navigation) · [官网](https://sites.google.com/leggedrobotics.com/wild-visual-navigation) · 组织维护
+⭐ 333 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/leggedrobotics/wild_visual_navigation) · [官网](https://sites.google.com/leggedrobotics.com/wild-visual-navigation) · 组织维护
 
 **移动机器人视觉可通行性自监督在线学习系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leggedrobotics/wild_visual_navigation 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 320 --> 333
-    line [321, 322, 324, 325, 326, 325, 329, 330, 331, 332, 332]
+    title "leggedrobotics/wild_visual_navigation 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 321 --> 334
+    line [322, 324, 325, 326, 325, 329, 330, 331, 332, 333]
 ```
 
-2026-10-18 321 → 2026-11-20 332（+11）
+2026-10-19 322 → 2026-11-21 333（+11）
 
 
 ---

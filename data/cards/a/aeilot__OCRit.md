@@ -1,6 +1,6 @@
 # aeilot/OCRit
 
-⭐ 10 · Swift · MIT · 推送 2025-11-24 · [GitHub](https://github.com/aeilot/OCRit) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **macOS 小工具：用 DeepSeek-OCR 识别图片文字为可复制文本**
 
@@ -11,7 +11,7 @@ Swift 编写的 macOS 原生工具，通过 DeepSeek-OCR 集成对拖入的照�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

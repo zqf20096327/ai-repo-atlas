@@ -1,6 +1,6 @@
 # porfeng/ComfyUI-PhotoDeblur
 
-⭐ 93 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/porfeng/ComfyUI-PhotoDeblur) · 个人维护 · 中文 README
+⭐ 94 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/porfeng/ComfyUI-PhotoDeblur) · 个人维护 · 中文 README
 
 **ComfyUI 照片去模糊节点：HI-Diff/MISCFilter 修复手抖与运动模糊**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "porfeng/ComfyUI-PhotoDeblur 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 54 --> 96
-    line [57, 85, 88, 90, 91, 92, 93, 93]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 54 --> 97
+    line [57, 85, 88, 90, 91, 92, 93, 94]
 ```
 
-2026-11-08 57 → 2026-11-20 93（+36）
+2026-11-08 57 → 2026-11-21 94（+37）
 
 
 ---

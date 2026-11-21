@@ -1,6 +1,6 @@
 # salesforce-misc/switchplane
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/salesforce-misc/switchplane) · [官网](https://salesforce-misc.github.io/switchplane/) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/salesforce-misc/switchplane) · [官网](https://salesforce-misc.github.io/switchplane/) · 组织维护
 
 **把 LangGraph 工作流变成可本地运维的 CLI 应用的运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "salesforce-misc/switchplane 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-18 12 → 2026-11-21 13（+1）
 
 
 ---

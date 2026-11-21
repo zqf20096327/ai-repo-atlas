@@ -1,6 +1,6 @@
 # schornai/schornai
 
-⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/schornai/schornai) · [官网](https://schorn.ai) · 组织维护
+⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/schornai/schornai) · [官网](https://schorn.ai) · 组织维护
 
 **团队自托管 AI 工作区：构建 Agent、检索文档、转录音频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "schornai/schornai 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 8 --> 10
     line [9, 9]
 ```
 
-2026-11-08 9 → 2026-11-20 9（+0）
+2026-11-08 9 → 2026-11-21 9（+0）
 
 
 ---

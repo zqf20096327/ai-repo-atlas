@@ -1,6 +1,6 @@
 # ch-sa/labelCloud
 
-⭐ 812 · Python · GPL-3.0 · 推送 2026-05-02 · [GitHub](https://github.com/ch-sa/labelCloud) · [官网](https://ch-sa.github.io/labelCloud/) · 个人维护
+⭐ 811 · Python · GPL-3.0 · 推送 2026-05-02 · [GitHub](https://github.com/ch-sa/labelCloud) · [官网](https://ch-sa.github.io/labelCloud/) · 个人维护
 
 **点云 3D 边界框标注工具：为 3D 目标检测制作标签**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ch-sa/labelCloud 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 807 --> 813
-    line [808, 809, 810, 811, 812, 812]
+    title "ch-sa/labelCloud 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 808 --> 813
+    line [809, 810, 811, 812, 811]
 ```
 
-2026-10-18 808 → 2026-11-20 812（+4）
+2026-10-19 809 → 2026-11-21 811（+2）
 
 
 ---

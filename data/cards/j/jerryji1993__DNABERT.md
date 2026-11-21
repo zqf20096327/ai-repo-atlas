@@ -1,6 +1,6 @@
 # jerryji1993/DNABERT
 
-⭐ 783 · Python · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/jerryji1993/DNABERT) · [官网](https://doi.org/10.1093/bioinformatics/btab083) · 组织维护
+⭐ 784 · Python · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/jerryji1993/DNABERT) · [官网](https://doi.org/10.1093/bioinformatics/btab083) · 组织维护
 
 **基因组 DNA 语言预训练 BERT 模型：预训练、微调与预测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jerryji1993/DNABERT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 780 --> 784
-    line [781, 782, 783, 783]
+    title "jerryji1993/DNABERT 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 781 --> 785
+    line [782, 783, 784]
 ```
 
-2026-10-18 781 → 2026-11-20 783（+2）
+2026-10-19 782 → 2026-11-21 784（+2）
 
 
 ---

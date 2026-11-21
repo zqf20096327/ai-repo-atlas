@@ -1,6 +1,6 @@
 # acowork/acowork
 
-⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/acowork/acowork) · [官网](https://acowork.ai) · 组织维护 · 中文 README
+⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/acowork/acowork) · [官网](https://acowork.ai) · 组织维护 · 中文 README
 
 **人类与 AI agent 协作交付工作的多用户平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "acowork/acowork 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-18", "2026-11-21"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-11-08 5 → 2026-11-20 6（+1）
+2026-11-08 5 → 2026-11-21 6（+1）
 
 
 ---

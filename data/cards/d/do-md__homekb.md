@@ -1,6 +1,6 @@
 # do-md/homekb
 
-⭐ 14 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/do-md/homekb) · [官网](https://www.homekb.app) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/do-md/homekb) · [官网](https://www.homekb.app) · 个人维护 · 中文 README
 
 **本地优先的个人 Markdown 知识库：语义搜索、带引用问答与 MCP 接入**
 
@@ -46,12 +46,12 @@ HomeKB 把本地 Markdown 文件夹编译为 sqlite-vec 语义索引，提供含
 ```mermaid
 xychart-beta
     title "do-md/homekb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-11-20 14（+1）
+2026-10-19 13 → 2026-11-21 15（+2）
 
 
 ---

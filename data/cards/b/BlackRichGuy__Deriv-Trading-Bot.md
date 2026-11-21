@@ -1,6 +1,6 @@
 # BlackRichGuy/Deriv-Trading-Bot
 
-⭐ 26 · 推送 2026-09-17 · [GitHub](https://github.com/BlackRichGuy/Deriv-Trading-Bot) · [官网](https://t.me/DerivBinaryAlpha) · 个人维护
+⭐ 27 · 推送 2026-09-17 · [GitHub](https://github.com/BlackRichGuy/Deriv-Trading-Bot) · [官网](https://t.me/DerivBinaryAlpha) · 个人维护
 
 **Deriv/DBot 平台免费交易机器人 XML 策略集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlackRichGuy/Deriv-Trading-Bot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 21 --> 27
-    line [22, 24, 25, 24, 26, 26]
+    title "BlackRichGuy/Deriv-Trading-Bot 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 24, 26, 27]
 ```
 
-2026-10-18 22 → 2026-11-20 26（+4）
+2026-10-19 24 → 2026-11-21 27（+3）
 
 
 ---

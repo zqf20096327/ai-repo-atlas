@@ -1,6 +1,6 @@
 # springboot4/Art
 
-⭐ 141 · Java · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/springboot4/Art) · [官网](https://javaai.art) · 组织维护 · 中文 README
+⭐ 142 · Java · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/springboot4/Art) · [官网](https://javaai.art) · 组织维护 · 中文 README
 
 **面向 Java 生态的开源 AI 应用开发平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "springboot4/Art 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 139 --> 142
-    line [140, 141, 141]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 139 --> 143
+    line [140, 141, 142]
 ```
 
-2026-10-18 140 → 2026-11-20 141（+1）
+2026-10-19 140 → 2026-11-21 142（+2）
 
 
 ---

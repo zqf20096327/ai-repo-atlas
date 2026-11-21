@@ -1,6 +1,6 @@
 # asimsinan/LLM-Research
 
-⭐ 67 · Python · 推送 2026-08-13 · [GitHub](https://github.com/asimsinan/LLM-Research) · 个人维护
+⭐ 68 · Python · 推送 2026-08-13 · [GitHub](https://github.com/asimsinan/LLM-Research) · 个人维护
 
 **LLM 论文、学位论文、课程与工具的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "asimsinan/LLM-Research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 66 --> 69
+    line [67, 68]
 ```
 
-2026-10-18 67 → 2026-11-20 67（+0）
+2026-10-18 67 → 2026-11-21 68（+1）
 
 
 ---

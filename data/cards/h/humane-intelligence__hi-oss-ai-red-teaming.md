@@ -1,6 +1,6 @@
 # humane-intelligence/hi-oss-ai-red-teaming
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/humane-intelligence/hi-oss-ai-red-teaming) · [官网](https://humane-intelligence.org) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/humane-intelligence/hi-oss-ai-red-teaming) · [官网](https://humane-intelligence.org) · 组织维护
 
 **面向人类红队测试的 AI 模型评测平台（Web 应用）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "humane-intelligence/hi-oss-ai-red-teaming 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "humane-intelligence/hi-oss-ai-red-teaming 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-20 19（+2）
+2026-10-19 18 → 2026-11-21 19（+1）
 
 
 ---

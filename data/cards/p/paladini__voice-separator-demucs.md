@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "paladini/voice-separator-demucs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 38 --> 42
-    line [39, 40, 41, 41]
+    title "paladini/voice-separator-demucs 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-20 41（+2）
+2026-10-19 40 → 2026-11-21 41（+1）
 
 
 ---

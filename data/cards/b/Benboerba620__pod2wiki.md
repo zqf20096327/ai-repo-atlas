@@ -46,12 +46,12 @@ pod2wiki 是 karpathy-claude-wiki 的信息输入层：从 YouTube 频道/搜索
 ```mermaid
 xychart-beta
     title "Benboerba620/pod2wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-20 35（+0）
+2026-10-19 35 → 2026-11-21 35（+0）
 
 
 ---

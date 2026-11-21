@@ -1,6 +1,6 @@
 # openlegion-ai/openlegion
 
-⭐ 130 · Python · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/openlegion-ai/openlegion) · [官网](https://openlegion.ai) · 组织维护
+⭐ 131 · Python · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/openlegion-ai/openlegion) · [官网](https://openlegion.ai) · 组织维护
 
 **自托管安全多智能体运行时：隔离容器跑自主 agent 团队**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openlegion-ai/openlegion 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 124 --> 131
-    line [125, 127, 125, 130, 130]
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 124 --> 132
+    line [125, 127, 125, 130, 131]
 ```
 
-2026-10-18 125 → 2026-11-20 130（+5）
+2026-10-19 125 → 2026-11-21 131（+6）
 
 
 ---

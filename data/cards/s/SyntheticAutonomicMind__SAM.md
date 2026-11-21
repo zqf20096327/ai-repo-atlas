@@ -1,6 +1,6 @@
 # SyntheticAutonomicMind/SAM
 
-⭐ 134 · Swift · GPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/SyntheticAutonomicMind/SAM) · 个人维护
+⭐ 134 · Swift · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/SyntheticAutonomicMind/SAM) · 个人维护
 
 **macOS 原生 AI 助手：面向非开发者，本地/云端模型可选**
 
@@ -46,12 +46,12 @@ Swift 编写的 macOS 桌面 AI 助手，面向不使用命令行的普通用户
 ```mermaid
 xychart-beta
     title "SyntheticAutonomicMind/SAM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-19", "2026-11-21"]
     y-axis "stars" 131 --> 135
     line [132, 133, 134, 134]
 ```
 
-2026-10-18 132 → 2026-11-20 134（+2）
+2026-10-19 132 → 2026-11-21 134（+2）
 
 
 ---

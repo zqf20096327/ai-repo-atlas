@@ -1,6 +1,6 @@
 # wpgaurav/generateblocks-skills
 
-⭐ 142 · PHP · 推送 2026-10-28 · [GitHub](https://github.com/wpgaurav/generateblocks-skills) · [官网](https://gauravtiwari.org/tools/html-to-generateblocks-converter/) · 个人维护
+⭐ 143 · PHP · 推送 2026-10-28 · [GitHub](https://github.com/wpgaurav/generateblocks-skills) · [官网](https://gauravtiwari.org/tools/html-to-generateblocks-converter/) · 个人维护
 
 **GenerateBlocks WordPress 插件的 AI 编码助手技能文档包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wpgaurav/generateblocks-skills 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-20"]
-    y-axis "stars" 140 --> 143
-    line [141, 142, 142]
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-21"]
+    y-axis "stars" 140 --> 144
+    line [141, 142, 143]
 ```
 
-2026-10-29 141 → 2026-11-20 142（+1）
+2026-10-29 141 → 2026-11-21 143（+2）
 
 
 ---

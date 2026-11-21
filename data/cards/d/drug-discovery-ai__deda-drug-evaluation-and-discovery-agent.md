@@ -45,13 +45,13 @@ DEDA 是面向生物信息学研究者的 AI agent 工具，通过英文指令�
 
 ```mermaid
 xychart-beta
-    title "drug-discovery-ai/deda-drug-evaluation-and-discovery-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "drug-discovery-ai/deda-drug-evaluation-and-discovery-agent 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-20 20（+2）
+2026-10-19 19 → 2026-11-21 20（+1）
 
 
 ---

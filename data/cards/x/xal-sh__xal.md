@@ -1,6 +1,6 @@
 # xal-sh/xal
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xal-sh/xal) · [官网](https://xal.sh) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xal-sh/xal) · [官网](https://xal.sh) · 个人维护
 
 **终端编码代理框架，能力全部插件化的无头 agent 核心**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xal-sh/xal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
     y-axis "stars" 36 --> 39
     line [38, 37, 37]
 ```
 
-2026-10-18 38 → 2026-11-20 37（-1）
+2026-10-19 38 → 2026-11-21 37（-1）
 
 
 ---

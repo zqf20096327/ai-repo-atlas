@@ -1,6 +1,6 @@
 # Meesho/BharatMLStack
 
-⭐ 717 · Go · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Meesho/BharatMLStack) · 组织维护 · 中文 README
+⭐ 716 · Go · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Meesho/BharatMLStack) · 组织维护 · 中文 README
 
 **企业级端到端 ML 基础设施栈：实时特征、推理与向量检索**
 
@@ -45,13 +45,13 @@ Meesho 开源的云无关 ML 基础设施平台，覆盖实时特征服务、模
 
 ```mermaid
 xychart-beta
-    title "Meesho/BharatMLStack 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 714 --> 718
-    line [715, 716, 717, 717]
+    title "Meesho/BharatMLStack 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 715 --> 718
+    line [716, 717, 716]
 ```
 
-2026-10-18 715 → 2026-11-20 717（+2）
+2026-10-19 716 → 2026-11-21 716（+0）
 
 
 ---

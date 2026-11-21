@@ -1,6 +1,6 @@
 # senickimoro-art/pinokio-olvara-ai-workspace
 
-⭐ 66 · Dockerfile · MIT · 推送 2026-11-19 · [GitHub](https://github.com/senickimoro-art/pinokio-olvara-ai-workspace) · 个人维护
+⭐ 154 · Dockerfile · MIT · 推送 2026-11-20 · [GitHub](https://github.com/senickimoro-art/pinokio-olvara-ai-workspace) · 个人维护
 
 **面向 Windows/桌面端的本地 AI 模型编排工作区**
 
@@ -40,6 +40,18 @@
 
 > L12: Pinokio Olvara Ai Workspace is a desktop application designed to provide a unified, local environment for orchestra
 > L37: Pinokio Olvara Ai Workspace operates as a local orchestration layer that coordinates model runtimes, workspace asse
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "senickimoro-art/pinokio-olvara-ai-workspace 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 58 --> 162
+    line [66, 154]
+```
+
+2026-11-20 66 → 2026-11-21 154（+88）
 
 
 ---

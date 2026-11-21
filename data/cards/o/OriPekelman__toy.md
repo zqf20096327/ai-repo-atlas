@@ -1,6 +1,6 @@
 # OriPekelman/toy
 
-⭐ 11 · Ruby · MIT · 推送 2026-11-19 · [GitHub](https://github.com/OriPekelman/toy) · 个人维护
+⭐ 12 · Ruby · MIT · 推送 2026-11-20 · [GitHub](https://github.com/OriPekelman/toy) · 个人维护
 
 **Ruby 编写的可读 Transformer LM 框架，编译为原生二进制**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OriPekelman/toy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-21"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-19 10 → 2026-11-21 12（+2）
 
 
 ---

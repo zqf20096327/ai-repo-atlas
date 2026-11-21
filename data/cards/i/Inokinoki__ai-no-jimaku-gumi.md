@@ -45,13 +45,13 @@ Rust 编写的命令行工具：读取视频，用 Whisper（whisper.cpp 模型�
 
 ```mermaid
 xychart-beta
-    title "Inokinoki/ai-no-jimaku-gumi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    title "Inokinoki/ai-no-jimaku-gumi 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 193 --> 196
-    line [195, 194, 195]
+    line [195, 194, 195, 195]
 ```
 
-2026-10-18 195 → 2026-11-20 195（+0）
+2026-10-19 195 → 2026-11-21 195（+0）
 
 
 ---

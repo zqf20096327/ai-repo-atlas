@@ -1,6 +1,6 @@
 # elicit/machine-learning-list
 
-⭐ 1,476 · 推送 2025-11-27 · [GitHub](https://github.com/elicit/machine-learning-list) · [官网](https://elicit.com/careers) · 组织维护
+⭐ 1,474 · 推送 2025-11-27 · [GitHub](https://github.com/elicit/machine-learning-list) · [官网](https://elicit.com/careers) · 组织维护
 
 **面向新员工的基础模型论文与教程分级阅读清单**
 
@@ -44,12 +44,12 @@ Elicit 维护的机器学习学习课程，以论文和视频为主，聚焦语�
 ```mermaid
 xychart-beta
     title "elicit/machine-learning-list 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 1472 --> 1477
-    line [1473, 1474, 1475, 1473, 1476, 1476]
+    line [1473, 1474, 1475, 1473, 1476, 1474]
 ```
 
-2026-10-18 1,473 → 2026-11-20 1,476（+3）
+2026-10-19 1,473 → 2026-11-21 1,474（+1）
 
 
 ---

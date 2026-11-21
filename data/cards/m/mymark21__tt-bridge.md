@@ -1,6 +1,6 @@
 # mymark21/tt-bridge
 
-⭐ 23 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/mymark21/tt-bridge) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/mymark21/tt-bridge) · 个人维护 · 中文 README
 
 **让 Claude Code 等 Agent 直接接管用户浏览器的 CLI 与 Chrome 扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mymark21/tt-bridge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    title "mymark21/tt-bridge 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-11-20 23（+2）
+2026-10-19 22 → 2026-11-21 24（+2）
 
 
 ---

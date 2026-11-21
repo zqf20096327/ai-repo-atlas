@@ -1,6 +1,6 @@
 # vectara/hallucination-leaderboard
 
-⭐ 3,330 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/vectara/hallucination-leaderboard) · [官网](https://vectara.com) · 组织维护
+⭐ 3,329 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/vectara/hallucination-leaderboard) · [官网](https://vectara.com) · 组织维护
 
 **公开 LLM 幻觉率排行榜：基于 HHEM 评测摘要忠实度**
 
@@ -45,13 +45,13 @@ Vectara 维护的公开 LLM 幻觉率排行榜：将 7700+ 篇多领域文章喂
 
 ```mermaid
 xychart-beta
-    title "vectara/hallucination-leaderboard 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20"]
+    title "vectara/hallucination-leaderboard 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 3321 --> 3331
-    line [3323, 3322, 3323, 3322, 3323, 3322, 3326, 3327, 3329, 3330]
+    line [3323, 3322, 3323, 3322, 3323, 3322, 3326, 3327, 3329, 3330, 3329]
 ```
 
-2026-10-18 3,323 → 2026-11-20 3,330（+7）
+2026-10-18 3,323 → 2026-11-21 3,329（+6）
 
 
 ---

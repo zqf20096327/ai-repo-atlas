@@ -1,6 +1,6 @@
 # mintesnot-teshome/llm-verify
 
-⭐ 47 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mintesnot-teshome/llm-verify) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mintesnot-teshome/llm-verify) · 个人维护
 
 **检测虚假 LLM API：通过行为指纹验证接口是否真在供宣称的模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mintesnot-teshome/llm-verify 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 40 --> 48
-    line [41, 42, 43, 44, 45, 44, 45, 46, 47, 47]
+    title "mintesnot-teshome/llm-verify 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 41 --> 49
+    line [42, 43, 44, 45, 44, 45, 46, 47, 48]
 ```
 
-2026-10-18 41 → 2026-11-20 47（+6）
+2026-10-19 42 → 2026-11-21 48（+6）
 
 
 ---

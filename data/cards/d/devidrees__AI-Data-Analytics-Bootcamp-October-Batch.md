@@ -1,6 +1,6 @@
 # devidrees/AI-Data-Analytics-Bootcamp-October-Batch
 
-⭐ 14 · Python · 推送 2026-11-01 · [GitHub](https://github.com/devidrees/AI-Data-Analytics-Bootcamp-October-Batch) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **数据分析与 AI 训练营课程配套代码仓库（11 门课程）**
 

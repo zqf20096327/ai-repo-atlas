@@ -1,6 +1,6 @@
 # eidolon-ai/eidolon
 
-⭐ 494 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/eidolon-ai/eidolon) · [官网](https://www.eidolonai.com/) · 组织维护
+⭐ 493 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/eidolon-ai/eidolon) · [官网](https://www.eidolonai.com/) · 组织维护
 
 **构建与部署 Agent 服务的开源 SDK**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "eidolon-ai/eidolon 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
     y-axis "stars" 492 --> 495
-    line [493, 494, 493, 494, 494]
+    line [493, 494, 493, 494, 493]
 ```
 
-2026-10-18 493 → 2026-11-20 494（+1）
+2026-10-19 493 → 2026-11-21 493（+0）
 
 
 ---

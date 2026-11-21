@@ -1,6 +1,6 @@
 # sibidharan/zealphp
 
-⭐ 71 · PHP · MIT · 推送 2026-11-10 · [GitHub](https://github.com/sibidharan/zealphp) · [官网](https://php.zeal.ninja) · 个人维护
+⭐ 73 · PHP · MIT · 推送 2026-11-10 · [GitHub](https://github.com/sibidharan/zealphp) · [官网](https://php.zeal.ninja) · 个人维护
 
 **基于 OpenSwoole 的 PHP HTTP 服务器框架：常驻进程内跑传统 PHP 并获得异步能力**
 
@@ -45,12 +45,12 @@ ZealPHP 是构建在 OpenSwoole 之上的 PHP 应用服务器与框架：PHP 进
 ```mermaid
 xychart-beta
     title "sibidharan/zealphp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 67 --> 72
-    line [68, 69, 70, 68, 70, 71, 71]
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 67 --> 74
+    line [68, 69, 70, 68, 70, 71, 73]
 ```
 
-2026-10-18 68 → 2026-11-20 71（+3）
+2026-10-19 68 → 2026-11-21 73（+5）
 
 
 ---

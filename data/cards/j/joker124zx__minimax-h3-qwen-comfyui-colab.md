@@ -1,6 +1,6 @@
 # joker124zx/minimax-h3-qwen-comfyui-colab
 
-⭐ 9 · Jupyter Notebook · 推送 2026-11-15 · [GitHub](https://github.com/joker124zx/minimax-h3-qwen-comfyui-colab) · 个人维护 · 中文 README
+⭐ 10 · Jupyter Notebook · 推送 2026-11-15 · [GitHub](https://github.com/joker124zx/minimax-h3-qwen-comfyui-colab) · 个人维护 · 中文 README
 
 **给内容创作者的单文件 Colab：一键云端部署 ComfyUI 跑视频/图像生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "joker124zx/minimax-h3-qwen-comfyui-colab 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 4 --> 10
-    line [5, 6, 7, 8, 9]
+    title "joker124zx/minimax-h3-qwen-comfyui-colab 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 4 --> 11
+    line [5, 6, 7, 8, 9, 10]
 ```
 
-2026-11-08 5 → 2026-11-20 9（+4）
+2026-11-08 5 → 2026-11-21 10（+5）
 
 
 ---

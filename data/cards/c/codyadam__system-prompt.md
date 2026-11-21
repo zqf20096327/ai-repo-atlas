@@ -1,6 +1,6 @@
 # codyadam/system-prompt
 
-⭐ 32 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/codyadam/system-prompt) · [官网](https://systemprompt.app) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/codyadam/system-prompt) · [官网](https://systemprompt.app) · 个人维护
 
 **浏览器内运行的可视化 AI 工作流构建器，节点式串联 AI 任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codyadam/system-prompt 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 31, 32, 32]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 31, 32, 33]
 ```
 
-2026-10-18 30 → 2026-11-20 32（+2）
+2026-10-19 30 → 2026-11-21 33（+3）
 
 
 ---

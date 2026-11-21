@@ -1,6 +1,6 @@
 # ukairia777/tensorflow-nlp-tutorial
 
-⭐ 581 · Jupyter Notebook · 推送 2026-06-05 · [GitHub](https://github.com/ukairia777/tensorflow-nlp-tutorial) · 个人维护 · 中文 README
+⭐ 580 · Jupyter Notebook · 推送 2026-06-05 · [GitHub](https://github.com/ukairia777/tensorflow-nlp-tutorial) · 个人维护 · 中文 README
 
 **TensorFlow 2.0 NLP 教程仓库：预处理到 BERT/GPT/LLM 微调**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ukairia777/tensorflow-nlp-tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
     y-axis "stars" 579 --> 582
-    line [580, 581, 581]
+    line [580, 581, 580]
 ```
 
-2026-10-18 580 → 2026-11-20 581（+1）
+2026-10-19 580 → 2026-11-21 580（+0）
 
 
 ---

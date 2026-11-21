@@ -1,6 +1,6 @@
 # TuringLang/docs
 
-⭐ 238 · Markdown · MIT · 推送 2026-09-20 · [GitHub](https://github.com/TuringLang/docs) · [官网](https://turinglang.org/docs/) · 组织维护
+⭐ 238 · Markdown · MIT · 推送 2026-11-20 · [GitHub](https://github.com/TuringLang/docs) · [官网](https://turinglang.org/docs/) · 组织维护
 
 **Turing.jl 概率编程语言的官方文档与教程仓库**
 
@@ -44,12 +44,12 @@ Turing.jl（Julia 生态的贝叶斯推断概率编程语言）的文档与教�
 ```mermaid
 xychart-beta
     title "TuringLang/docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 237 --> 239
     line [238, 238]
 ```
 
-2026-10-18 238 → 2026-11-20 238（+0）
+2026-10-19 238 → 2026-11-21 238（+0）
 
 
 ---

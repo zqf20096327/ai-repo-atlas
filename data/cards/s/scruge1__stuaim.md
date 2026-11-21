@@ -1,6 +1,6 @@
 # scruge1/stuaim
 
-⭐ 20 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/scruge1/stuaim) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/scruge1/stuaim) · 个人维护
 
 **低显存本地模型的命令行 agent harness：项目控制与独立验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "scruge1/stuaim 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-11-10", "2026-11-21"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-11-10 20 → 2026-11-20 20（+0）
+2026-11-10 20 → 2026-11-21 21（+1）
 
 
 ---

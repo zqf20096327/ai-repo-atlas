@@ -1,6 +1,6 @@
 # kilolonion/agent-vscreen
 
-⭐ 152 · Kotlin · MIT · 推送 2026-11-19 · [GitHub](https://github.com/kilolonion/agent-vscreen) · [官网](https://github.com/kilolonion/agent-vscreen/releases/latest) · 个人维护 · 中文 README
+⭐ 155 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kilolonion/agent-vscreen) · [官网](https://github.com/kilolonion/agent-vscreen/releases/latest) · 个人维护 · 中文 README
 
 **给手机 AI agent 用的 Android 后台虚拟屏操作工具**
 
@@ -45,13 +45,13 @@ Android 应用，为手机上的 AI agent 提供一块不可见的虚拟显示�
 
 ```mermaid
 xychart-beta
-    title "kilolonion/agent-vscreen 星数(近 10 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 39 --> 162
-    line [49, 56, 61, 65, 67, 78, 107, 125, 131, 152]
+    title "kilolonion/agent-vscreen 星数(近 11 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 39 --> 165
+    line [49, 56, 61, 65, 67, 78, 107, 125, 131, 152, 155]
 ```
 
-2026-11-10 49 → 2026-11-20 152（+103）
+2026-11-10 49 → 2026-11-21 155（+106）
 
 
 ---

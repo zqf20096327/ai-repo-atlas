@@ -1,6 +1,6 @@
 # opsmill/infrahub-mcp
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/opsmill/infrahub-mcp) · [官网](https://docs.infrahub.app) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/opsmill/infrahub-mcp) · [官网](https://docs.infrahub.app) · 组织维护
 
 **把 AI 助手/Agent 接入 Infrahub 管理基础设施数据的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "opsmill/infrahub-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

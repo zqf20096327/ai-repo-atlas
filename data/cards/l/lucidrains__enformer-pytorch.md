@@ -1,6 +1,6 @@
 # lucidrains/enformer-pytorch
 
-⭐ 577 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/lucidrains/enformer-pytorch) · 个人维护
+⭐ 576 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/lucidrains/enformer-pytorch) · 个人维护
 
 **Deepmind Enformer 基因表达预测模型的 PyTorch 实现与微调库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/enformer-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
+    title "lucidrains/enformer-pytorch 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-13", "2026-11-20", "2026-11-21"]
     y-axis "stars" 574 --> 578
-    line [575, 576, 577]
+    line [575, 576, 577, 576]
 ```
 
-2026-10-18 575 → 2026-11-20 577（+2）
+2026-10-19 575 → 2026-11-21 576（+1）
 
 
 ---

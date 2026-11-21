@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dominikamann/ha-machine-learning-based-pv-forecast 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-20"]
+    title "dominikamann/ha-machine-learning-based-pv-forecast 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 9
-    line [3, 4, 5, 6, 7, 8]
+    line [3, 4, 5, 6, 7, 8, 8]
 ```
 
-2026-10-24 3 → 2026-11-20 8（+5）
+2026-10-24 3 → 2026-11-21 8（+5）
 
 
 ---

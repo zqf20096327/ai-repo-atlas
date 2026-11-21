@@ -1,6 +1,6 @@
 # Illusory-moon/bot-mindscape
 
-⭐ 10 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Illusory-moon/bot-mindscape) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Illusory-moon/bot-mindscape) · 个人维护 · 中文 README
 
 **为 AstrBot 群聊 bot 注入长期记忆与人设化表达的插件框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Illusory-moon/bot-mindscape 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-21"]
     y-axis "stars" 6 --> 11
     line [7, 10, 10]
 ```
 
-2026-10-18 7 → 2026-11-20 10（+3）
+2026-10-18 7 → 2026-11-21 10（+3）
 
 
 ---

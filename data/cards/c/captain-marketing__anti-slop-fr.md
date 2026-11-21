@@ -1,6 +1,6 @@
 # captain-marketing/anti-slop-fr
 
-⭐ 16 · MIT · 推送 2026-05-25 · [GitHub](https://github.com/captain-marketing/anti-slop-fr) · [官网](https://captainmarketing.io) · 个人维护
+⭐ 17 · MIT · 推送 2026-05-25 · [GitHub](https://github.com/captain-marketing/anti-slop-fr) · [官网](https://captainmarketing.io) · 个人维护
 
 **法语写作用 Claude skill：让 AI 文本读起来更像人写的**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "captain-marketing/anti-slop-fr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17]
 ```
 
-2026-10-18 14 → 2026-11-20 16（+2）
+2026-10-18 14 → 2026-11-21 17（+3）
 
 
 ---

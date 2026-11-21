@@ -1,6 +1,6 @@
 # GiggleLiu/BackwardsLinalg.jl
 
-⭐ 35 · Julia · NOASSERTION · 推送 2025-11-24 · [GitHub](https://github.com/GiggleLiu/BackwardsLinalg.jl) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **线性代数函数反向传播的 Julia 自动微分扩展库**
 
@@ -11,7 +11,7 @@ Zygote.jl 的扩展库，为线性代数函数（SVD、随机 SVD、QR、特征�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

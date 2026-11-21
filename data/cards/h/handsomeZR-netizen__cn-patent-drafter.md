@@ -1,6 +1,6 @@
 # handsomeZR-netizen/cn-patent-drafter
 
-⭐ 65 · TeX · MIT · 推送 2026-05-06 · [GitHub](https://github.com/handsomeZR-netizen/cn-patent-drafter) · 个人维护 · 中文 README
+⭐ 66 · TeX · MIT · 推送 2026-05-06 · [GitHub](https://github.com/handsomeZR-netizen/cn-patent-drafter) · 个人维护 · 中文 README
 
 **面向 Claude Code 的中国发明专利起草 Skill：按 CNIPA 规范出 PDF**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "handsomeZR-netizen/cn-patent-drafter 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 60 --> 66
-    line [61, 62, 63, 62, 64, 65, 65]
+    title "handsomeZR-netizen/cn-patent-drafter 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 61 --> 67
+    line [62, 63, 62, 64, 65, 66]
 ```
 
-2026-10-18 61 → 2026-11-20 65（+4）
+2026-10-19 62 → 2026-11-21 66（+4）
 
 
 ---

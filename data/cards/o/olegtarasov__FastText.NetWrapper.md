@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "olegtarasov/FastText.NetWrapper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-11-20 79（+0）
+2026-10-19 79 → 2026-11-21 79（+0）
 
 
 ---

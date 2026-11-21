@@ -45,12 +45,12 @@ ICCV 2025 Workshop 论文 Prompt4Trust 的官方 PyTorch 实现：训练一个�
 ```mermaid
 xychart-beta
     title "xingbpshen/prompt4trust 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 14（+0）
 
 
 ---

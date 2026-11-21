@@ -1,6 +1,6 @@
 # NeoJubao/dsh-fde
 
-⭐ 21 · JavaScript · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/NeoJubao/dsh-fde) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/NeoJubao/dsh-fde) · 个人维护 · 中文 README
 
 **DSH 插件：客户全生命周期看板、8 阶段门禁与 FDE 方法库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NeoJubao/dsh-fde 星数(近 8 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 8 --> 22
-    line [9, 11, 14, 15, 18, 19, 21, 21]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 8 --> 23
+    line [9, 11, 14, 15, 18, 19, 21, 22]
 ```
 
-2026-11-11 9 → 2026-11-20 21（+12）
+2026-11-11 9 → 2026-11-21 22（+13）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "firefly-cpp/awesome-computational-intelligence-in-sports 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 26 --> 31
     line [27, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-20 30（+3）
+2026-10-19 27 → 2026-11-21 30（+3）
 
 
 ---

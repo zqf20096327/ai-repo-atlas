@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Erikote04/Swift-API-Design-Guidelines-Agent-Skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    title "Erikote04/Swift-API-Design-Guidelines-Agent-Skill 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 30 --> 34
-    line [32, 31, 32, 31, 33, 33]
+    line [31, 32, 31, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-20 33（+1）
+2026-10-19 31 → 2026-11-21 33（+2）
 
 
 ---

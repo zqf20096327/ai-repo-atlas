@@ -1,6 +1,6 @@
 # aeewws/codex-mobile
 
-⭐ 25 · Kotlin · MIT · 推送 2026-10-13 · [GitHub](https://github.com/aeewws/codex-mobile) · 个人维护 · 中文 README
+⭐ 25 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aeewws/codex-mobile) · 个人维护 · 中文 README
 
 **把 Termux 本地 Codex 运行时做成触摸优先的 Android 外壳**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aeewws/codex-mobile 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-20 25（+0）
+2026-10-19 25 → 2026-11-21 25（+0）
 
 
 ---

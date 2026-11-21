@@ -1,6 +1,6 @@
 # ar-gen-tin/rockpile
 
-⭐ 41 · Swift · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/ar-gen-tin/rockpile) · 个人维护 · 中文 README
+⭐ 42 · Swift · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/ar-gen-tin/rockpile) · 个人维护 · 中文 README
 
 **栖身 MacBook 刘海区的像素宠物，实时可视化 AI agent 状态**
 
@@ -45,12 +45,12 @@ macOS 桌面应用：在 MacBook 刘海区显示像素小龙虾/寄居蟹，通�
 ```mermaid
 xychart-beta
     title "ar-gen-tin/rockpile 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-11-20 41（+0）
+2026-10-19 41 → 2026-11-21 42（+1）
 
 
 ---

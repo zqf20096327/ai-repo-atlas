@@ -1,6 +1,6 @@
 # OrderG-X/dsh-mobile
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/OrderG-X/dsh-mobile) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/OrderG-X/dsh-mobile) · 个人维护 · 中文 README
 
 **DSH 插件：手机扫码在浏览器里远程查看和操作电脑上的任务**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的插件，为电脑上运行的 DSH 提供手机远�
 ```mermaid
 xychart-beta
     title "OrderG-X/dsh-mobile 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-31", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-21"]
     y-axis "stars" 2 --> 8
-    line [3, 4, 5, 7, 7]
+    line [3, 4, 5, 7, 6]
 ```
 
-2026-10-31 3 → 2026-11-20 7（+4）
+2026-10-31 3 → 2026-11-21 6（+3）
 
 
 ---

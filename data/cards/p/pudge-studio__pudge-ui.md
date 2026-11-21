@@ -1,6 +1,6 @@
 # pudge-studio/pudge-ui
 
-⭐ 11 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/pudge-studio/pudge-ui) · [官网](https://ui.pudgestudio.com) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/pudge-studio/pudge-ui) · [官网](https://ui.pudgestudio.com) · 组织维护
 
 **写给编码代理的 2000 年代拟物化 UI 设计规范**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pudge-studio/pudge-ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-18 11 → 2026-11-21 12（+1）
 
 
 ---

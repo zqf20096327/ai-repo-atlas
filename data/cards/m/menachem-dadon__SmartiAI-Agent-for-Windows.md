@@ -1,6 +1,6 @@
 # menachem-dadon/SmartiAI-Agent-for-Windows
 
-⭐ 117 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows) · 个人维护 · 中文 README
+⭐ 118 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows) · 个人维护 · 中文 README
 
 **面向 Windows 的本地优先桌面 AI agent，自动化操作系统**
 
@@ -45,13 +45,13 @@ SmartiAI 是运行于 Windows 的桌面 AI agent：通过规划-执行-验证的
 
 ```mermaid
 xychart-beta
-    title "menachem-dadon/SmartiAI-Agent-for-Windows 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
+    title "menachem-dadon/SmartiAI-Agent-for-Windows 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 116 --> 120
-    line [119, 118, 119, 117]
+    line [119, 118, 119, 117, 118]
 ```
 
-2026-10-18 119 → 2026-11-20 117（-2）
+2026-10-19 119 → 2026-11-21 118（-1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Adelie-Squad/solosquad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "Adelie-Squad/solosquad 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 24 --> 30
-    line [25, 29]
+    line [25, 29, 29]
 ```
 
-2026-10-18 25 → 2026-11-20 29（+4）
+2026-10-19 25 → 2026-11-21 29（+4）
 
 
 ---

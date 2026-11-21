@@ -1,6 +1,6 @@
 # Azure12355/weilanx-base-table
 
-⭐ 7 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Azure12355/weilanx-base-table) · [官网](https://azure12355.github.io/weilanx-base-table/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **在 VS Code/Obsidian 中把 .wbase JSON 文件当多维表格编辑**
 
@@ -11,7 +11,7 @@ VS Code 扩展与 Obsidian 插件，将单个 .wbase（纯 JSON）文件以多�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

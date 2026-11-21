@@ -1,6 +1,6 @@
 # kokoc30/Auto-Stitch
 
-⭐ 6 · 推送 2026-11-07 · [GitHub](https://github.com/kokoc30/Auto-Stitch) · [官网](https://autostitch.app) · 个人维护
+⭐ 4 · 推送 2026-11-07 · [GitHub](https://github.com/kokoc30/Auto-Stitch) · [官网](https://autostitch.app) · 个人维护
 
 **面向创作者的 AI 剪辑平台：长视频转竖版短视频（产品展示）**
 
@@ -44,13 +44,13 @@ Auto Stitch 是一个专有（proprietary）AI 辅助视频剪辑应用，将长
 
 ```mermaid
 xychart-beta
-    title "kokoc30/Auto-Stitch 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
-    y-axis "stars" 2 --> 53
-    line [49, 6]
+    title "kokoc30/Auto-Stitch 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 0 --> 53
+    line [49, 6, 4]
 ```
 
-2026-11-10 49 → 2026-11-20 6（-43）
+2026-11-10 49 → 2026-11-21 4（-45）
 
 
 ---

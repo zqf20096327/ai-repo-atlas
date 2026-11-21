@@ -1,6 +1,6 @@
 # longluo/MnnLlmChat
 
-⭐ 20 · C++ · MIT · 推送 2026-07-13 · [GitHub](https://github.com/longluo/MnnLlmChat) · 组织维护 · 中文 README
+⭐ 21 · C++ · MIT · 推送 2026-07-13 · [GitHub](https://github.com/longluo/MnnLlmChat) · 组织维护 · 中文 README
 
 **Android 端离线多模态 LLM 聊天应用（基于 MNN）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "longluo/MnnLlmChat 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 18, 19, 17, 20, 20]
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 18, 19, 17, 20, 21]
 ```
 
-2026-10-18 16 → 2026-11-20 20（+4）
+2026-10-19 16 → 2026-11-21 21（+5）
 
 
 ---

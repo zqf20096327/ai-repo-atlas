@@ -1,6 +1,6 @@
 # PersonalClaw/PersonalClaw
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/PersonalClaw/PersonalClaw) · [官网](https://personalclaw.dev) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/PersonalClaw/PersonalClaw) · [官网](https://personalclaw.dev) · 组织维护
 
 **自托管单用户 AI agent 平台：聊天、记忆、知识库与自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PersonalClaw/PersonalClaw 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-20"]
+    x-axis ["2026-11-15", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-15 10 → 2026-11-20 10（+0）
+2026-11-15 10 → 2026-11-21 10（+0）
 
 
 ---

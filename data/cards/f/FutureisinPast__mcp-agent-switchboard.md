@@ -1,6 +1,6 @@
 # FutureisinPast/mcp-agent-switchboard
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/FutureisinPast/mcp-agent-switchboard) · 个人维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/FutureisinPast/mcp-agent-switchboard) · 个人维护
 
 **本地 MCP 桥接层：让 Claude Code/Codex/Gemini/Antigravity 互传任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FutureisinPast/mcp-agent-switchboard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-20 19（+2）
+2026-10-18 17 → 2026-11-21 19（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # tldraw/tldraw-office
 
-⭐ 698 · 推送 2026-11-12 · [GitHub](https://github.com/tldraw/tldraw-office) · [官网](https://offline.tldraw.com) · 组织维护
+⭐ 700 · 推送 2026-11-12 · [GitHub](https://github.com/tldraw/tldraw-office) · [官网](https://offline.tldraw.com) · 组织维护
 
 **离线本地白板桌面应用，可接入编码 agent 操作画布**
 
@@ -45,13 +45,13 @@ tldraw 官方推出的桌面白板应用：在 tldraw 无限画布上绘画、�
 
 ```mermaid
 xychart-beta
-    title "tldraw/tldraw-office 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 687 --> 699
-    line [688, 689, 691, 693, 694, 695, 698]
+    title "tldraw/tldraw-office 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 687 --> 701
+    line [688, 689, 691, 693, 694, 695, 698, 700]
 ```
 
-2026-11-10 688 → 2026-11-20 698（+10）
+2026-11-10 688 → 2026-11-21 700（+12）
 
 
 ---

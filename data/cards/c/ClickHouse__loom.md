@@ -1,6 +1,6 @@
 # ClickHouse/loom
 
-⭐ 167 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/ClickHouse/loom) · [官网](https://clickhouse.github.io/loom/) · 组织维护
+⭐ 173 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ClickHouse/loom) · [官网](https://clickhouse.github.io/loom/) · 组织维护
 
 **自托管 MCP 服务器：为 AI agent 提供共享长期记忆、文档搜索与代码索引**
 
@@ -45,13 +45,13 @@ ClickHouse 维护的开源自托管 MCP 服务器，面向编码 agent（Claude 
 
 ```mermaid
 xychart-beta
-    title "ClickHouse/loom 星数(近 9 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 0 --> 183
-    line [5, 8, 16, 55, 103, 135, 149, 166, 167]
+    title "ClickHouse/loom 星数(近 10 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 0 --> 189
+    line [5, 8, 16, 55, 103, 135, 149, 166, 167, 173]
 ```
 
-2026-11-11 5 → 2026-11-20 167（+162）
+2026-11-11 5 → 2026-11-21 173（+168）
 
 
 ---

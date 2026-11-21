@@ -1,6 +1,6 @@
 # lightonai/pylate
 
-⭐ 913 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/lightonai/pylate) · [官网](https://lightonai.github.io/pylate/) · 组织维护
+⭐ 914 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/lightonai/pylate) · [官网](https://lightonai.github.io/pylate/) · 组织维护
 
 **ColBERT 迟交互模型的微调、推理与检索库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lightonai/pylate 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 896 --> 914
-    line [897, 899, 900, 899, 906, 910, 912, 913]
+    title "lightonai/pylate 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 896 --> 915
+    line [897, 899, 900, 899, 906, 910, 912, 913, 914]
 ```
 
-2026-10-18 897 → 2026-11-20 913（+16）
+2026-10-19 897 → 2026-11-21 914（+17）
 
 
 ---

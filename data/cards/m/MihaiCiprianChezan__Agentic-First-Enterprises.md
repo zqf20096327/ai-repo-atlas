@@ -1,6 +1,6 @@
 # MihaiCiprianChezan/Agentic-First-Enterprises
 
-⭐ 143 · CC-BY-4.0 · 推送 2026-09-12 · [GitHub](https://github.com/MihaiCiprianChezan/Agentic-First-Enterprises) · 个人维护
+⭐ 142 · CC-BY-4.0 · 推送 2026-09-12 · [GitHub](https://github.com/MihaiCiprianChezan/Agentic-First-Enterprises) · 个人维护
 
 **Agent 优先企业的组织运营参考模型文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MihaiCiprianChezan/Agentic-First-Enterprises 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 141 --> 171
-    line [169, 164, 152, 151, 152, 143]
+    title "MihaiCiprianChezan/Agentic-First-Enterprises 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 140 --> 171
+    line [169, 164, 152, 151, 152, 143, 142]
 ```
 
-2026-10-18 169 → 2026-11-20 143（-26）
+2026-10-18 169 → 2026-11-21 142（-27）
 
 
 ---

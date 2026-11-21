@@ -1,6 +1,6 @@
 # FronkonGames/Steam-Games-Scraper
 
-⭐ 169 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/FronkonGames/Steam-Games-Scraper) · [官网](https://fronkongames.github.io/) · 个人维护
+⭐ 170 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/FronkonGames/Steam-Games-Scraper) · [官网](https://fronkongames.github.io/) · 个人维护
 
 **抓取 Steam 全部游戏信息并存为 JSON 的 Python 脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FronkonGames/Steam-Games-Scraper 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 162 --> 170
-    line [163, 165, 166, 167, 166, 165, 166, 167, 168, 169, 169]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 162 --> 171
+    line [163, 165, 166, 167, 166, 165, 166, 167, 168, 169, 170]
 ```
 
-2026-10-18 163 → 2026-11-20 169（+6）
+2026-10-19 163 → 2026-11-21 170（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # AnXMuy/AgenticASR
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/AnXMuy/AgenticASR) · [官网](https://anxmuy.github.io/blog/agenticasr/) · 组织维护 · 中文 README
+⭐ 63 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/AnXMuy/AgenticASR) · [官网](https://anxmuy.github.io/blog/agenticasr/) · 组织维护 · 中文 README
 
 **把 ASR 转写精修为干净书面文本的语音识别研究框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AnXMuy/AgenticASR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-21"]
+    y-axis "stars" 60 --> 64
+    line [61, 62, 63]
 ```
 
-2026-10-18 61 → 2026-11-20 62（+1）
+2026-10-18 61 → 2026-11-21 63（+2）
 
 
 ---

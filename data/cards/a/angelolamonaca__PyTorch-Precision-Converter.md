@@ -46,12 +46,12 @@ Python 命令行工具（PyPI 包 pytorch-precision-converter），将 PyTorch c
 ```mermaid
 xychart-beta
     title "angelolamonaca/PyTorch-Precision-Converter 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-30", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-21"]
     y-axis "stars" 11 --> 16
     line [12, 13, 14, 15, 15]
 ```
 
-2026-10-30 12 → 2026-11-20 15（+3）
+2026-10-30 12 → 2026-11-21 15（+3）
 
 
 ---

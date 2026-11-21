@@ -1,6 +1,6 @@
 # WSK-build/DSHBox
 
-⭐ 736 · Kotlin · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/WSK-build/DSHBox) · [官网](https://wsk-build.github.io/DSHBox/) · 组织维护 · 中文 README
+⭐ 745 · Kotlin · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/WSK-build/DSHBox) · [官网](https://wsk-build.github.io/DSHBox/) · 组织维护 · 中文 README
 
 **安卓上本地运行或远程连接 DeepSeek Harness 的随身 AI 工作台**
 
@@ -45,13 +45,13 @@ Android 开源应用，以 PRoot+Debian 沙箱内嵌 Node.js 与 DeepSeek Harnes
 
 ```mermaid
 xychart-beta
-    title "WSK-build/DSHBox 星数(近 11 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 570 --> 751
-    line [585, 610, 616, 627, 643, 657, 672, 690, 709, 730, 736]
+    title "WSK-build/DSHBox 星数(近 12 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 569 --> 761
+    line [585, 610, 616, 627, 643, 657, 672, 690, 709, 730, 736, 745]
 ```
 
-2026-11-08 585 → 2026-11-20 736（+151）
+2026-11-08 585 → 2026-11-21 745（+160）
 
 
 ---

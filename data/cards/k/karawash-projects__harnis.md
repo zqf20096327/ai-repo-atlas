@@ -1,6 +1,6 @@
 # karawash-projects/harnis
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/karawash-projects/harnis) · [官网](https://karawash-projects.github.io/harnis/) · 组织维护
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/karawash-projects/harnis) · [官网](https://karawash-projects.github.io/harnis/) · 组织维护
 
 **企业内安全运行 AI agent 的自托管平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "karawash-projects/harnis 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7]
+    title "karawash-projects/harnis 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 6, 7, 8]
 ```
 
-2026-10-26 4 → 2026-11-20 7（+3）
+2026-10-26 4 → 2026-11-21 8（+4）
 
 
 ---

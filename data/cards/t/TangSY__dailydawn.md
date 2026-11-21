@@ -1,6 +1,6 @@
 # TangSY/dailydawn
 
-⭐ 67 · Python · 推送 2026-11-19 · [GitHub](https://github.com/TangSY/dailydawn) · [官网](https://dailydawn.dev) · 个人维护 · 中文 README
+⭐ 67 · Python · 推送 2026-11-20 · [GitHub](https://github.com/TangSY/dailydawn) · [官网](https://dailydawn.dev) · 个人维护 · 中文 README
 
 **面向独立开发者的 AI 生成中英双语趋势日报**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TangSY/dailydawn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 66 --> 70
-    line [68, 69, 68, 67]
+    line [69, 68, 67, 67]
 ```
 
-2026-10-18 68 → 2026-11-20 67（-1）
+2026-10-19 69 → 2026-11-21 67（-2）
 
 
 ---

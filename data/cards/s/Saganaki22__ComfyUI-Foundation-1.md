@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Foundation-1
 
-⭐ 110 · Python · NOASSERTION · 推送 2026-03-22 · [GitHub](https://github.com/Saganaki22/ComfyUI-Foundation-1) · [官网](https://huggingface.co/RoyalCities/Foundation-1) · 个人维护
+⭐ 111 · Python · NOASSERTION · 推送 2026-03-22 · [GitHub](https://github.com/Saganaki22/ComfyUI-Foundation-1) · [官网](https://huggingface.co/RoyalCities/Foundation-1) · 个人维护
 
 **ComfyUI 节点：用 Foundation-1 扩散模型生成音乐采样循环**
 
@@ -45,12 +45,12 @@ Foundation-1 结构化文本转采样扩散模型的 ComfyUI 自定义节点封�
 ```mermaid
 xychart-beta
     title "Saganaki22/ComfyUI-Foundation-1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 109 --> 111
-    line [110, 110]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 109 --> 112
+    line [110, 111]
 ```
 
-2026-10-18 110 → 2026-11-20 110（+0）
+2026-10-19 110 → 2026-11-21 111（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sktime/tserve
 
-⭐ 21 · Python · BSD-3-Clause · 推送 2026-11-03 · [GitHub](https://github.com/sktime/tserve) · [官网](https://tserve.readthedocs.io/) · 组织维护
+⭐ 21 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/sktime/tserve) · [官网](https://tserve.readthedocs.io/) · 组织维护
 
 **时序基础模型本地推理服务器：加载一次、HTTP 应答预测请求**
 
@@ -46,12 +46,12 @@ TServe 是运行在自有硬件上的本地推理服务器，面向时序预测�
 ```mermaid
 xychart-beta
     title "sktime/tserve 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
     y-axis "stars" 17 --> 22
     line [18, 19, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-20 21（+3）
+2026-10-19 18 → 2026-11-21 21（+3）
 
 
 ---

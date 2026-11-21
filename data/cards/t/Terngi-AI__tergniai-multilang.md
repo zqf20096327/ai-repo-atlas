@@ -1,6 +1,6 @@
 # Terngi-AI/tergniai-multilang
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Terngi-AI/tergniai-multilang) · [官网](https://www.terngiai.com) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Terngi-AI/tergniai-multilang) · [官网](https://www.terngiai.com) · 组织维护
 
 **面向开发者的 109 语言翻译与 AI 对话自托管 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Terngi-AI/tergniai-multilang 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 2 --> 11
-    line [3, 4, 8, 10]
+    title "Terngi-AI/tergniai-multilang 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 12
+    line [3, 4, 8, 10, 11]
 ```
 
-2026-10-25 3 → 2026-11-20 10（+7）
+2026-10-25 3 → 2026-11-21 11（+8）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "akramcodez/osfit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    title "akramcodez/osfit 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 17 --> 19
+    line [18, 18]
 ```
 
-2026-10-18 17 → 2026-11-20 18（+1）
+2026-10-19 18 → 2026-11-21 18（+0）
 
 
 ---

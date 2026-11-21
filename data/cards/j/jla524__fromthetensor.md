@@ -1,6 +1,6 @@
 # jla524/fromthetensor
 
-⭐ 1,081 · 推送 2026-04-05 · [GitHub](https://github.com/jla524/fromthetensor) · 个人维护
+⭐ 1,078 · 推送 2026-04-05 · [GitHub](https://github.com/jla524/fromthetensor) · 个人维护
 
 **10 周深度学习课程大纲：从张量到 Stable Diffusion 的论文实现路线**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jla524/fromthetensor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-20"]
-    y-axis "stars" 1079 --> 1082
-    line [1081, 1080, 1081, 1081]
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-01", "2026-11-21"]
+    y-axis "stars" 1077 --> 1082
+    line [1081, 1080, 1081, 1078]
 ```
 
-2026-10-18 1,081 → 2026-11-20 1,081（+0）
+2026-10-19 1,081 → 2026-11-21 1,078（-3）
 
 
 ---

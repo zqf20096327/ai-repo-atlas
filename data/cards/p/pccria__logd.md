@@ -1,6 +1,6 @@
 # pccria/logd
 
-⭐ 11 · Dart · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/pccria/logd) · [官网](https://www.pub.dev/packages/logd) · 个人维护
+⭐ 11 · Dart · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/pccria/logd) · [官网](https://www.pub.dev/packages/logd) · 个人维护
 
 **Dart/Flutter 的结构化分层日志引擎，面向开发者可观测性**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pccria/logd 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-28 10 → 2026-11-20 11（+1）
+2026-10-28 10 → 2026-11-21 11（+1）
 
 
 ---

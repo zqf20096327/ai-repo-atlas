@@ -1,6 +1,6 @@
 # margelo/react-native-fast-tflite
 
-⭐ 1,244 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/margelo/react-native-fast-tflite) · [官网](https://mrousavy.com) · 组织维护
+⭐ 1,243 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/margelo/react-native-fast-tflite) · [官网](https://mrousavy.com) · 组织维护
 
 **React Native 的 TensorFlow Lite 高性能运行库，支持 GPU 加速**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "margelo/react-native-fast-tflite 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 1238 --> 1245
-    line [1239, 1240, 1241, 1242, 1240, 1242, 1243, 1244]
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 1239 --> 1245
+    line [1240, 1241, 1242, 1240, 1242, 1243, 1244, 1243]
 ```
 
-2026-10-18 1,239 → 2026-11-20 1,244（+5）
+2026-10-19 1,240 → 2026-11-21 1,243（+3）
 
 
 ---

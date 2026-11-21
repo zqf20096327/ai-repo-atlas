@@ -44,13 +44,13 @@ GitHub, Inc. 发布的桌面应用，用于跨仓库寻找、运行、引导和�
 
 ```mermaid
 xychart-beta
-    title "Trapkrostride/GitHub-Copilot-app 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    title "Trapkrostride/GitHub-Copilot-app 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 372 --> 376
-    line [375, 374, 373]
+    line [375, 374, 373, 373]
 ```
 
-2026-11-15 375 → 2026-11-20 373（-2）
+2026-11-15 375 → 2026-11-21 373（-2）
 
 
 ---

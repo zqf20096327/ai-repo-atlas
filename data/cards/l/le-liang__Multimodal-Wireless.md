@@ -45,12 +45,12 @@ Multimodal-Wireless 数据集配套的 Python 脚本与资产工具包，支持�
 ```mermaid
 xychart-beta
     title "le-liang/Multimodal-Wireless 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-20 35（+1）
+2026-10-19 34 → 2026-11-21 35（+1）
 
 
 ---

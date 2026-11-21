@@ -1,6 +1,6 @@
 # GeekyWizKid/Sub2APIStatusBar
 
-⭐ 15 · Swift · MIT · 推送 2026-05-21 · [GitHub](https://github.com/GeekyWizKid/Sub2APIStatusBar) · 个人维护 · 中文 README
+⭐ 14 · Swift · MIT · 推送 2026-05-21 · [GitHub](https://github.com/GeekyWizKid/Sub2APIStatusBar) · 个人维护 · 中文 README
 
 **macOS 菜单栏应用：监控 Sub2API 用户的用量与花费**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GeekyWizKid/Sub2APIStatusBar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 14（-1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenxingqiang/alphafold-notebooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "chenxingqiang/alphafold-notebooks 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
 ```
 
-2026-10-18 29 → 2026-11-20 30（+1）
+2026-10-19 30 → 2026-11-21 30（+0）
 
 
 ---

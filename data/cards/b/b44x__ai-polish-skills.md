@@ -1,6 +1,6 @@
 # b44x/ai-polish-skills
 
-⭐ 61 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/b44x/ai-polish-skills) · [官网](https://polskieskille.pl) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/b44x/ai-polish-skills) · [官网](https://polskieskille.pl) · 个人维护
 
 **面向 AI agent 的波兰 API/公共服务技能注册目录（26 个技能）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "b44x/ai-polish-skills 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-20"]
+    title "b44x/ai-polish-skills 星数(近 3 点)"
+    x-axis ["2026-11-14", "2026-11-20", "2026-11-21"]
     y-axis "stars" 60 --> 63
-    line [62, 61]
+    line [62, 61, 61]
 ```
 
-2026-11-14 62 → 2026-11-20 61（-1）
+2026-11-14 62 → 2026-11-21 61（-1）
 
 
 ---

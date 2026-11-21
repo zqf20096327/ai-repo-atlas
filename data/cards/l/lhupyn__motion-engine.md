@@ -1,6 +1,6 @@
 # lhupyn/motion-engine
 
-⭐ 39 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/lhupyn/motion-engine) · [官网](https://lhupyn.github.io/motion-engine/) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/lhupyn/motion-engine) · [官网](https://lhupyn.github.io/motion-engine/) · 个人维护
 
 **给 TalkingHead 虚拟形象做表情与肢体动作的决策库：按台词分类驱动**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lhupyn/motion-engine 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 34 --> 40
-    line [35, 36, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 38, 39, 40]
 ```
 
-2026-10-18 35 → 2026-11-20 39（+4）
+2026-10-18 35 → 2026-11-21 40（+5）
 
 
 ---

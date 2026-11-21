@@ -1,6 +1,6 @@
 # AriOliv/ifood-mcp
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AriOliv/ifood-mcp) · [官网](https://github.com/AriOliv/ifood-mcp) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AriOliv/ifood-mcp) · [官网](https://github.com/AriOliv/ifood-mcp) · 个人维护
 
 **非官方 iFood MCP 服务器：让 AI 助手浏览搜索并下单外卖**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AriOliv/ifood-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 14, 13, 15, 15]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 14, 13, 15, 16]
 ```
 
-2026-10-18 11 → 2026-11-20 15（+4）
+2026-10-19 11 → 2026-11-21 16（+5）
 
 
 ---

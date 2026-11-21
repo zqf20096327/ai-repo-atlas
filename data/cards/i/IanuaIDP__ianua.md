@@ -1,6 +1,6 @@
 # IanuaIDP/ianua
 
-⭐ 8 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/IanuaIDP/ianua) · [官网](https://ianuaidp.github.io/ianua/) · 个人维护
+⭐ 10 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/IanuaIDP/ianua) · [官网](https://ianuaidp.github.io/ianua/) · 个人维护
 
 **给团队应用与 AI agent 提供统一登录、网关与权限管控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IanuaIDP/ianua 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 7 --> 9
-    line [8, 8]
+    x-axis ["2026-11-19", "2026-11-21"]
+    y-axis "stars" 7 --> 11
+    line [8, 10]
 ```
 
-2026-11-19 8 → 2026-11-20 8（+0）
+2026-11-19 8 → 2026-11-21 10（+2）
 
 
 ---

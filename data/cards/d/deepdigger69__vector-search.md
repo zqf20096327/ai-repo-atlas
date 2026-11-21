@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepdigger69/vector-search 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-20"]
+    title "deepdigger69/vector-search 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-21"]
     y-axis "stars" 4 --> 14
-    line [5, 13]
+    line [5, 13, 13]
 ```
 
-2026-10-26 5 → 2026-11-20 13（+8）
+2026-10-26 5 → 2026-11-21 13（+8）
 
 
 ---

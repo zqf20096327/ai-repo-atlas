@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuzawa-san/onnxruntime-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "yuzawa-san/onnxruntime-java 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 35 --> 38
-    line [36, 37]
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-20 37（+1）
+2026-10-19 36 → 2026-11-21 37（+1）
 
 
 ---

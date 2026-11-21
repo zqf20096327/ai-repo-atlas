@@ -1,6 +1,6 @@
 # token-js/token.js
 
-⭐ 314 · TypeScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/token-js/token.js) · [官网](https://docs.tokenjs.ai/) · 组织维护
+⭐ 313 · TypeScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/token-js/token.js) · [官网](https://docs.tokenjs.ai/) · 组织维护
 
 **TypeScript 统一 LLM SDK：以 OpenAI 格式调用 200+ 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "token-js/token.js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-21"]
     y-axis "stars" 312 --> 315
-    line [313, 314, 314]
+    line [313, 314, 313]
 ```
 
-2026-10-18 313 → 2026-11-20 314（+1）
+2026-10-18 313 → 2026-11-21 313（+0）
 
 
 ---

@@ -44,13 +44,13 @@ ASIMOV 平台的官方 CLI，用 Rust 编写。提供从 URL 抓取数据（自�
 
 ```mermaid
 xychart-beta
-    title "asimov-platform/asimov-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
+    title "asimov-platform/asimov-cli 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 26 --> 29
-    line [27, 28, 27]
+    line [27, 28, 27, 27]
 ```
 
-2026-10-18 27 → 2026-11-20 27（+0）
+2026-10-19 27 → 2026-11-21 27（+0）
 
 
 ---

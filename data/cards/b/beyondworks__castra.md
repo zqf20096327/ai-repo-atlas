@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "beyondworks/castra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 31 --> 34
-    line [33, 32, 32]
+    title "beyondworks/castra 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 31 --> 33
+    line [32, 32]
 ```
 
-2026-10-18 33 → 2026-11-20 32（-1）
+2026-10-19 32 → 2026-11-21 32（+0）
 
 
 ---

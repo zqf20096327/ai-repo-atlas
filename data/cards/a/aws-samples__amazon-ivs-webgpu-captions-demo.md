@@ -1,6 +1,6 @@
 # aws-samples/amazon-ivs-webgpu-captions-demo
 
-⭐ 11 · JavaScript · MIT-0 · 推送 2026-10-30 · [GitHub](https://github.com/aws-samples/amazon-ivs-webgpu-captions-demo) · [官网](https://ivs.rocks) · 组织维护
+⭐ 11 · JavaScript · MIT-0 · 推送 2026-11-20 · [GitHub](https://github.com/aws-samples/amazon-ivs-webgpu-captions-demo) · [官网](https://ivs.rocks) · 组织维护
 
 **在浏览器端为 Amazon IVS 直播流生成实时字幕的演示应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/amazon-ivs-webgpu-captions-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 11（+0）
 
 
 ---

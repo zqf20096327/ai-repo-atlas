@@ -1,6 +1,6 @@
 # AgriciDaniel/anti-slop
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/anti-slop) · [官网](https://www.skool.com/ai-marketing-hub) · 个人维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/anti-slop) · [官网](https://www.skool.com/ai-marketing-hub) · 个人维护
 
 **检测并修复 AI 辅助文本/代码中实质缺陷的工具集，只报缺陷不判作者**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/anti-slop 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 62 --> 70
-    line [63, 64, 65, 64, 67, 68, 69, 69]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 62 --> 71
+    line [63, 64, 65, 64, 67, 68, 69, 70]
 ```
 
-2026-10-18 63 → 2026-11-20 69（+6）
+2026-10-18 63 → 2026-11-21 70（+7）
 
 
 ---

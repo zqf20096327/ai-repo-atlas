@@ -1,6 +1,6 @@
 # devoxx/DevoxxGenieIDEAPlugin
 
-⭐ 696 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/devoxx/DevoxxGenieIDEAPlugin) · [官网](https://genie.devoxx.com) · 组织维护
+⭐ 696 · Java · MIT · 推送 2026-11-20 · [GitHub](https://github.com/devoxx/DevoxxGenieIDEAPlugin) · [官网](https://genie.devoxx.com) · 组织维护
 
 **IntelliJ IDEA 的 Java 版 LLM 代码助手插件，接入本地与云端模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "devoxx/DevoxxGenieIDEAPlugin 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 684 --> 697
-    line [685, 686, 687, 686, 687, 688, 686, 689, 690, 691, 693, 696, 696]
+    title "devoxx/DevoxxGenieIDEAPlugin 星数(近 12 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 685 --> 697
+    line [686, 687, 686, 687, 688, 686, 689, 690, 691, 693, 696, 696]
 ```
 
-2026-10-18 685 → 2026-11-20 696（+11）
+2026-10-19 686 → 2026-11-21 696（+10）
 
 
 ---

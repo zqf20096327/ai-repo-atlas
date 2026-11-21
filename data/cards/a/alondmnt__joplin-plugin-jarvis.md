@@ -1,6 +1,6 @@
 # alondmnt/joplin-plugin-jarvis
 
-⭐ 364 · TypeScript · AGPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/alondmnt/joplin-plugin-jarvis) · 个人维护
+⭐ 363 · TypeScript · AGPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/alondmnt/joplin-plugin-jarvis) · 个人维护
 
 **Joplin 笔记的 AI 助手插件：对话、语义搜索与文献综述**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alondmnt/joplin-plugin-jarvis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 363 --> 365
-    line [364, 364]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 362 --> 365
+    line [364, 363]
 ```
 
-2026-10-18 364 → 2026-11-20 364（+0）
+2026-10-18 364 → 2026-11-21 363（-1）
 
 
 ---

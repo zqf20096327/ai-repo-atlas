@@ -44,13 +44,13 @@ TypeScript/Node.js monorepo，面向 Windows 的多角色 AI 编排运行时：B
 
 ```mermaid
 xychart-beta
-    title "junkyard22/Orca 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "junkyard22/Orca 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 40 --> 43
-    line [41, 42]
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-20 42（+1）
+2026-10-19 41 → 2026-11-21 42（+1）
 
 
 ---

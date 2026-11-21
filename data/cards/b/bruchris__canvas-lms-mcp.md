@@ -1,6 +1,6 @@
 # bruchris/canvas-lms-mcp
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bruchris/canvas-lms-mcp) · [官网](https://bruchris.github.io/canvas-lms-mcp/) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bruchris/canvas-lms-mcp) · [官网](https://bruchris.github.io/canvas-lms-mcp/) · 个人维护
 
 **让 AI agent 通过 MCP 读取和操作 Canvas LMS 的服务器**
 
@@ -47,12 +47,12 @@ TypeScript 实现的 Canvas LMS MCP 服务器，注册 187 个工具，覆盖课
 ```mermaid
 xychart-beta
     title "bruchris/canvas-lms-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

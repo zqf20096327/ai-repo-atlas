@@ -1,6 +1,6 @@
 # gitmoot/gitmoot
 
-⭐ 24 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/gitmoot/gitmoot) · [官网](https://gitmoot.io/) · 组织维护
+⭐ 24 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/gitmoot/gitmoot) · [官网](https://gitmoot.io/) · 组织维护
 
 **本地优先的多 agent 协调层：用 GitHub PR 工作流驱动 agent 运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gitmoot/gitmoot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-21"]
     y-axis "stars" 22 --> 27
     line [25, 26, 24, 23, 24, 24]
 ```
 
-2026-10-18 25 → 2026-11-20 24（-1）
+2026-10-19 25 → 2026-11-21 24（-1）
 
 
 ---

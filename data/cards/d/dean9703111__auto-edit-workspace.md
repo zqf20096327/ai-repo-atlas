@@ -1,6 +1,6 @@
 # dean9703111/auto-edit-workspace
 
-⭐ 57 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dean9703111/auto-edit-workspace) · [官网](https://deanlin.net/auto-edit-workspace/) · 个人维护 · 中文 README
+⭐ 66 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dean9703111/auto-edit-workspace) · [官网](https://deanlin.net/auto-edit-workspace/) · 个人维护 · 中文 README
 
 **给创作者的 AI 自动剪辑工作区：白话指令剪出讲解影片**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dean9703111/auto-edit-workspace 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 22 --> 60
-    line [25, 40, 51, 55, 56, 57]
+    title "dean9703111/auto-edit-workspace 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 21 --> 70
+    line [25, 40, 51, 55, 56, 57, 66]
 ```
 
-2026-11-08 25 → 2026-11-20 57（+32）
+2026-11-08 25 → 2026-11-21 66（+41）
 
 
 ---

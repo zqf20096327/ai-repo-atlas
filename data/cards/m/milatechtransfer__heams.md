@@ -1,6 +1,6 @@
 # milatechtransfer/heams
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/milatechtransfer/heams) · [官网](https://milatechtransfer.github.io/heams/) · 组织维护
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/milatechtransfer/heams) · [官网](https://milatechtransfer.github.io/heams/) · 组织维护
 
 **面向 AI agent 记忆系统的开源评测框架**
 
@@ -45,13 +45,13 @@ HEAMS 通过五类基准（性能、隐私、安全、用户主权、效率）�
 
 ```mermaid
 xychart-beta
-    title "milatechtransfer/heams 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-19", "2026-11-20"]
+    title "milatechtransfer/heams 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7]
+    line [4, 5, 6, 7, 7]
 ```
 
-2026-10-23 4 → 2026-11-20 7（+3）
+2026-10-23 4 → 2026-11-21 7（+3）
 
 
 ---

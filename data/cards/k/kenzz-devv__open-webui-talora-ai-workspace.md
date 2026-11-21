@@ -1,6 +1,6 @@
 # kenzz-devv/open-webui-talora-ai-workspace
 
-⭐ 65 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/kenzz-devv/open-webui-talora-ai-workspace) · 个人维护
+⭐ 152 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kenzz-devv/open-webui-talora-ai-workspace) · 个人维护
 
 **面向团队的多模型 AI 工作区：统一管理对话、模型与文档**
 
@@ -40,6 +40,18 @@
 
 > L12: Open Webui Talora Ai Workspace is a refined, model-agnostic environment built for teams that expect their AI toolin
 > L47: **Connect your intelligence layer.** Point the workspace at your preferred model provider and it immediately establ
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kenzz-devv/open-webui-talora-ai-workspace 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 57 --> 160
+    line [65, 152]
+```
+
+2026-11-20 65 → 2026-11-21 152（+87）
 
 
 ---

@@ -1,6 +1,6 @@
 # justxor/local-ai-agent-course-ru
 
-⭐ 26 · Python · 推送 2026-11-16 · [GitHub](https://github.com/justxor/local-ai-agent-course-ru) · 个人维护
+⭐ 27 · Python · 推送 2026-11-16 · [GitHub](https://github.com/justxor/local-ai-agent-course-ru) · 个人维护
 
 **俄语免费课程：用 Python 与 Ollama 从零构建本地 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "justxor/local-ai-agent-course-ru 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 10 --> 27
-    line [11, 21, 23, 25, 26]
+    title "justxor/local-ai-agent-course-ru 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 28
+    line [11, 21, 23, 25, 26, 27]
 ```
 
-2026-11-15 11 → 2026-11-20 26（+15）
+2026-11-15 11 → 2026-11-21 27（+16）
 
 
 ---

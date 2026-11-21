@@ -1,6 +1,6 @@
 # tokenlive/tokenlive-gateway
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/tokenlive/tokenlive-gateway) · [官网](https://www.tokenlive.net) · 组织维护 · 中文 README
+⭐ 16 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/tokenlive/tokenlive-gateway) · [官网](https://www.tokenlive.net) · 组织维护 · 中文 README
 
 **面向企业 LLM 生态的 Go 语言 API 网关，提供流量治理与计费**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tokenlive/tokenlive-gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
     y-axis "stars" 13 --> 17
     line [15, 14, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 16（+1）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---

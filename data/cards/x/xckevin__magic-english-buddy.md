@@ -1,6 +1,6 @@
 # xckevin/magic-english-buddy
 
-⭐ 679 · TypeScript · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/xckevin/magic-english-buddy) · [官网](https://xckevin.github.io/magic-english-buddy/) · 个人维护 · 中文 README
+⭐ 712 · TypeScript · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/xckevin/magic-english-buddy) · [官网](https://xckevin.github.io/magic-english-buddy/) · 个人维护 · 中文 README
 
 **离线优先的儿童英语阅读学习 PWA，含课程、词典与音频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xckevin/magic-english-buddy 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 275 --> 715
-    line [311, 312, 313, 315, 316, 317, 315, 320, 321, 322, 362, 565, 583, 679]
+    title "xckevin/magic-english-buddy 星数(近 15 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 271 --> 752
+    line [311, 312, 313, 315, 316, 317, 315, 320, 321, 322, 362, 565, 583, 679, 712]
 ```
 
-2026-10-18 311 → 2026-11-20 679（+368）
+2026-10-19 311 → 2026-11-21 712（+401）
 
 
 ---

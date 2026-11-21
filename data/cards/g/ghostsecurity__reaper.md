@@ -1,6 +1,6 @@
 # ghostsecurity/reaper
 
-⭐ 885 · Go · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/ghostsecurity/reaper) · [官网](https://oss.ghostsecurity.ai/tools/reaper) · 组织维护
+⭐ 884 · Go · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/ghostsecurity/reaper) · [官网](https://oss.ghostsecurity.ai/tools/reaper) · 组织维护
 
 **面向应用安全测试的 MITM HTTPS 代理，记录流量并支持 AI agent 使用**
 
@@ -42,12 +42,12 @@ Ghost Security Reaper 是一个用于应用安全测试的中间人（MITM）HTT
 ```mermaid
 xychart-beta
     title "ghostsecurity/reaper 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21"]
     y-axis "stars" 880 --> 886
-    line [882, 881, 882, 883, 881, 883, 884, 885, 885]
+    line [882, 881, 882, 883, 881, 883, 884, 885, 884]
 ```
 
-2026-10-18 882 → 2026-11-20 885（+3）
+2026-10-19 882 → 2026-11-21 884（+2）
 
 
 ---

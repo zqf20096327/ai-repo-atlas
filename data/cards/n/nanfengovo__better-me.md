@@ -1,6 +1,6 @@
 # nanfengovo/better-me
 
-⭐ 7 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/nanfengovo/better-me) · [官网](https://nanfengovo.github.io/better-me/) · 个人维护 · 中文 README
+⭐ 7 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/nanfengovo/better-me) · [官网](https://nanfengovo.github.io/better-me/) · 个人维护 · 中文 README
 
 **本地优先的简历制作与求职记录工作台，可选接入自有模型**
 
@@ -45,12 +45,12 @@ BetterMe 是一个本地优先的简历与求职工作台：维护一份结构�
 ```mermaid
 xychart-beta
     title "nanfengovo/better-me 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-21"]
     y-axis "stars" 3 --> 8
     line [4, 5, 6, 7, 7]
 ```
 
-2026-11-10 4 → 2026-11-20 7（+3）
+2026-11-10 4 → 2026-11-21 7（+3）
 
 
 ---

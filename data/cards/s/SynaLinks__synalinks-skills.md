@@ -1,6 +1,6 @@
 # SynaLinks/synalinks-skills
 
-⭐ 912 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/SynaLinks/synalinks-skills) · [官网](https://synalinks.github.io/synalinks/) · 个人维护
+⭐ 911 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/SynaLinks/synalinks-skills) · [官网](https://synalinks.github.io/synalinks/) · 个人维护
 
 **教编码代理正确使用 Synalinks 框架的 Agent Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SynaLinks/synalinks-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 906 --> 913
-    line [907, 908, 909, 910, 911, 912, 912]
+    title "SynaLinks/synalinks-skills 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 907 --> 913
+    line [908, 909, 910, 911, 912, 911]
 ```
 
-2026-10-18 907 → 2026-11-20 912（+5）
+2026-10-19 908 → 2026-11-21 911（+3）
 
 
 ---

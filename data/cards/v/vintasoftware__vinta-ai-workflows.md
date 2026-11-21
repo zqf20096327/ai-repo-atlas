@@ -1,6 +1,6 @@
 # vintasoftware/vinta-ai-workflows
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/vintasoftware/vinta-ai-workflows) · [官网](https://vintasoftware.github.io/vinta-ai-workflows/) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vintasoftware/vinta-ai-workflows) · [官网](https://vintasoftware.github.io/vinta-ai-workflows/) · 组织维护
 
 **向项目注入 AI 工作流引导技能与多厂商配置的 npm CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vintasoftware/vinta-ai-workflows 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-11-08 13 → 2026-11-20 14（+1）
+2026-11-08 13 → 2026-11-21 14（+1）
 
 
 ---

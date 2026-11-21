@@ -1,6 +1,6 @@
 # ArtemXTech/claude-code-obsidian-starter
 
-⭐ 227 · Typst · 推送 2026-11-01 · [GitHub](https://github.com/ArtemXTech/claude-code-obsidian-starter) · [官网](https://artemxtech.substack.com) · 个人维护
+⭐ 230 · Typst · 推送 2026-11-01 · [GitHub](https://github.com/ArtemXTech/claude-code-obsidian-starter) · [官网](https://artemxtech.substack.com) · 个人维护
 
 **Claude Code 配合 Obsidian 使用的预配置 vault 起步套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ArtemXTech/claude-code-obsidian-starter 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 223 --> 228
-    line [225, 224, 225, 224, 226, 227, 227]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 223 --> 231
+    line [225, 224, 225, 224, 226, 227, 230]
 ```
 
-2026-10-18 225 → 2026-11-20 227（+2）
+2026-10-19 225 → 2026-11-21 230（+5）
 
 
 ---

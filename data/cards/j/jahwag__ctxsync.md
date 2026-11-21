@@ -1,6 +1,6 @@
 # jahwag/ctxsync
 
-⭐ 739 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/jahwag/ctxsync) · 个人维护
+⭐ 738 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/jahwag/ctxsync) · 个人维护
 
 **本地文件与 Claude.ai Projects 自动同步的 Python 工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jahwag/ctxsync 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 738 --> 741
-    line [740, 739, 740, 739, 739]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 737 --> 741
+    line [740, 739, 740, 739, 738]
 ```
 
-2026-10-18 740 → 2026-11-20 739（-1）
+2026-10-18 740 → 2026-11-21 738（-2）
 
 
 ---

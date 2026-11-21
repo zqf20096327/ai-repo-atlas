@@ -45,12 +45,12 @@ O'Reilly Live Online Training《Optimizing LLMs with Fine-Tuning and Prompt Engi
 ```mermaid
 xychart-beta
     title "sinanuozdemir/oreilly-optimizing-llms 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
     y-axis "stars" 85 --> 88
     line [86, 87, 87]
 ```
 
-2026-10-18 86 → 2026-11-20 87（+1）
+2026-10-19 86 → 2026-11-21 87（+1）
 
 
 ---

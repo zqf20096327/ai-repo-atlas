@@ -44,12 +44,12 @@ Devinterview.io 维护的机器学习设计模式面试问答仓库，收录 70 
 ```mermaid
 xychart-beta
     title "Devinterview-io/ml-design-patterns-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-20 23（+1）
+2026-10-19 22 → 2026-11-21 23（+1）
 
 
 ---

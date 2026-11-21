@@ -45,13 +45,13 @@ Winx 是一个用 Rust 实现的 remote-first MCP runtime，为 AI 编码代理�
 
 ```mermaid
 xychart-beta
-    title "gabrielmaialva33/winx-code-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-20"]
+    title "gabrielmaialva33/winx-code-agent 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 36 --> 41
-    line [37, 38, 39, 40]
+    line [37, 38, 39, 40, 40]
 ```
 
-2026-10-18 37 → 2026-11-20 40（+3）
+2026-10-19 37 → 2026-11-21 40（+3）
 
 
 ---

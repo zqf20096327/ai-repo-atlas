@@ -1,6 +1,6 @@
 # decisionintelligence/TFB
 
-⭐ 1,767 · Shell · MIT · 推送 2026-10-08 · [GitHub](https://github.com/decisionintelligence/TFB) · [官网](https://www.vldb.org/pvldb/vol17/p2363-hu.pdf) · 组织维护 · 中文 README
+⭐ 1,766 · Shell · MIT · 推送 2026-10-08 · [GitHub](https://github.com/decisionintelligence/TFB) · [官网](https://www.vldb.org/pvldb/vol17/p2363-hu.pdf) · 组织维护 · 中文 README
 
 **面向研究者的时间序列预测方法端到端评测基准库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "decisionintelligence/TFB 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 1753 --> 1768
-    line [1754, 1756, 1758, 1760, 1762, 1758, 1763, 1764, 1766, 1767, 1767]
+    title "decisionintelligence/TFB 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 1755 --> 1768
+    line [1756, 1758, 1760, 1762, 1758, 1763, 1764, 1766, 1767, 1766]
 ```
 
-2026-10-18 1,754 → 2026-11-20 1,767（+13）
+2026-10-19 1,756 → 2026-11-21 1,766（+10）
 
 
 ---

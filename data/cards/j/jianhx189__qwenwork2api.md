@@ -1,6 +1,6 @@
 # jianhx189/qwenwork2api
 
-⭐ 6 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jianhx189/qwenwork2api) · 个人维护 · 中文 README
+⭐ 7 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jianhx189/qwenwork2api) · 个人维护 · 中文 README
 
 **把千问办公积分转为 OpenAI 兼容 API 的自托管网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jianhx189/qwenwork2api 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 4 --> 7
-    line [5, 6]
+    title "jianhx189/qwenwork2api 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-19 5 → 2026-11-20 6（+1）
+2026-11-19 5 → 2026-11-21 7（+2）
 
 
 ---

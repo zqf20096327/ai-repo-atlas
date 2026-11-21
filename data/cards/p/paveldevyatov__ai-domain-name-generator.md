@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "paveldevyatov/ai-domain-name-generator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "paveldevyatov/ai-domain-name-generator 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
 ```
 
-2026-10-18 20 → 2026-11-20 21（+1）
+2026-10-19 21 → 2026-11-21 21（+0）
 
 
 ---

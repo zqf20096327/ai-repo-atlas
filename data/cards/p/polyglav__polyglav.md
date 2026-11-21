@@ -1,6 +1,6 @@
 # polyglav/polyglav
 
-⭐ 11 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/polyglav/polyglav) · [官网](https://polyglav.github.io/polyglav/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/polyglav/polyglav) · [官网](https://polyglav.github.io/polyglav/) · 个人维护
 
 **终端里的多智能体任务编排 AI 助手**
 
@@ -40,6 +40,18 @@
 
 > L14: Polyglav is an AI agent that lives in your terminal. You describe an outcome once, it breaks the job into steps, br
 > L25: - **Many providers, any model** - Ollama, OpenAI, Groq, Anthropic, OpenCode, or any OpenAI-compatible endpoint, pic
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "polyglav/polyglav 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 16
+    line [11, 15]
+```
+
+2026-11-20 11 → 2026-11-21 15（+4）
 
 
 ---

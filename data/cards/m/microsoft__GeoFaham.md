@@ -1,6 +1,6 @@
 # microsoft/GeoFaham
 
-⭐ 45 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/microsoft/GeoFaham) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/microsoft/GeoFaham) · 组织维护
 
 **面向灾害响应的自然语言地理空间多智能体分析平台**
 
@@ -45,13 +45,13 @@ Microsoft 维护的地理空间分析平台：用户以自然语言提问，由 
 
 ```mermaid
 xychart-beta
-    title "microsoft/GeoFaham 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 22 --> 47
-    line [24, 34, 37, 40, 43, 45]
+    title "microsoft/GeoFaham 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 22 --> 48
+    line [24, 34, 37, 40, 43, 45, 46]
 ```
 
-2026-11-08 24 → 2026-11-20 45（+21）
+2026-11-08 24 → 2026-11-21 46（+22）
 
 
 ---

@@ -1,6 +1,6 @@
 # viajatech/agente-isabella
 
-⭐ 191 · Java · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/viajatech/agente-isabella) · [官网](https://viajatech.com) · 个人维护 · 中文 README
+⭐ 192 · Java · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/viajatech/agente-isabella) · [官网](https://viajatech.com) · 个人维护 · 中文 README
 
 **把 root 安卓手机变成用自己 SIM 打真实电话的 AI 语音助理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "viajatech/agente-isabella 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 130 --> 196
-    line [135, 155, 168, 173, 178, 179, 181, 184, 188, 191]
+    title "viajatech/agente-isabella 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 130 --> 197
+    line [135, 155, 168, 173, 178, 179, 181, 184, 188, 191, 192]
 ```
 
-2026-11-08 135 → 2026-11-20 191（+56）
+2026-11-08 135 → 2026-11-21 192（+57）
 
 
 ---

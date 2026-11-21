@@ -1,6 +1,6 @@
 # flare-collection/flare-redact
 
-⭐ 52 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/flare-collection/flare-redact) · [官网](https://flare-collection.github.io/flare-redact/) · 组织维护
+⭐ 52 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/flare-collection/flare-redact) · [官网](https://flare-collection.github.io/flare-redact/) · 组织维护
 
 **零依赖 TypeScript 密钥与 PII 脱敏库，覆盖日志与 LLM 提示词**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "flare-collection/flare-redact 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-20 52（+0）
+2026-10-18 52 → 2026-11-21 52（+0）
 
 
 ---

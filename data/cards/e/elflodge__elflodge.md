@@ -1,6 +1,6 @@
 # elflodge/elflodge
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/elflodge/elflodge) · [官网](https://elflodge.com) · 个人维护
+⭐ 8 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/elflodge/elflodge) · [官网](https://elflodge.com) · 个人维护
 
 **在本地并行运行数百个沙箱 agent 的任务队列与作业 API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elflodge/elflodge 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-20"]
+    title "elflodge/elflodge 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-20", "2026-11-21"]
     y-axis "stars" 5 --> 9
-    line [6, 7, 8]
+    line [6, 7, 8, 8]
 ```
 
-2026-11-08 6 → 2026-11-20 8（+2）
+2026-11-08 6 → 2026-11-21 8（+2）
 
 
 ---

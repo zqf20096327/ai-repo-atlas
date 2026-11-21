@@ -1,6 +1,6 @@
 # Btluo1/ccb
 
-⭐ 60 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Btluo1/ccb) · [官网](https://ccb.btluo.com) · 个人维护 · 中文 README
+⭐ 59 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Btluo1/ccb) · [官网](https://ccb.btluo.com) · 个人维护 · 中文 README
 
 **把 12 种 AI 编程客户端一键接入 CCB 模型中转的 Windows 配置工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Btluo1/ccb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 59 --> 62
-    line [61, 60]
+    title "Btluo1/ccb 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 58 --> 62
+    line [61, 60, 59]
 ```
 
-2026-10-18 61 → 2026-11-20 60（-1）
+2026-10-19 61 → 2026-11-21 59（-2）
 
 
 ---

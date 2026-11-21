@@ -1,6 +1,6 @@
 # badhope/moneyhelper
 
-⭐ 104 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/badhope/moneyhelper) · [官网](https://badhope.github.io/moneyhelper/) · 个人维护 · 中文 README
+⭐ 105 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/badhope/moneyhelper) · [官网](https://badhope.github.io/moneyhelper/) · 个人维护 · 中文 README
 
 **自托管记账软件：一句话自动生成凭证、对账并结账**
 
@@ -42,6 +42,18 @@
 > L19: Here the split is the other way round: a deterministic calculation engine fills in every figure, and the model is o
 > L31: **Personal.** One sentence becomes several entries — `lunch 45, taxi 28` is two transactions, not one. WeChat Pay, 
 > L33: **Enterprise.** Multiple tenants, departments and memberships. A real double-entry general ledger: chart of account
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "badhope/moneyhelper 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 103 --> 106
+    line [104, 105]
+```
+
+2026-11-20 104 → 2026-11-21 105（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # VangelisHaha/deck-stage
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/VangelisHaha/deck-stage) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 Agent 产出的 HTML 演示稿提供 macOS/Windows 放映壳**
 
@@ -11,7 +11,7 @@ DeckStage 是一个桌面放映应用，负责播放由 AI Agent 用 HTML 编写
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # nextcloud/suspicious_login
 
-⭐ 112 · PHP · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/nextcloud/suspicious_login) · 组织维护
+⭐ 112 · PHP · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/nextcloud/suspicious_login) · 组织维护
 
 **检测并告警 Nextcloud 可疑 IP 登录的应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nextcloud/suspicious_login 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 108 --> 113
     line [109, 110, 111, 112, 112]
 ```
 
-2026-10-18 109 → 2026-11-20 112（+3）
+2026-10-19 109 → 2026-11-21 112（+3）
 
 
 ---

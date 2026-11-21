@@ -1,6 +1,6 @@
 # prskr/dark-factory
 
-⭐ 10 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/prskr/dark-factory) · [官网](http://www.dark-factory.eu/) · 个人维护
+⭐ 10 · Rust · 推送 2026-11-20 · [GitHub](https://github.com/prskr/dark-factory) · [官网](http://www.dark-factory.eu/) · 个人维护
 
 **Kubernetes 原生控制平面：在自有集群运行 AI 编码 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "prskr/dark-factory 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
+    title "prskr/dark-factory 星数(近 6 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 17
-    line [3, 16, 10, 11, 10]
+    line [3, 16, 10, 11, 10, 10]
 ```
 
-2026-11-02 3 → 2026-11-20 10（+7）
+2026-11-02 3 → 2026-11-21 10（+7）
 
 
 ---

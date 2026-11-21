@@ -1,6 +1,6 @@
 # Scottcjn/claude-code-g4
 
-⭐ 74 · C · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Scottcjn/claude-code-g4) · [官网](https://rustchain.org) · 个人维护
+⭐ 74 · C · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Scottcjn/claude-code-g4) · [官网](https://rustchain.org) · 个人维护
 
 **在 PowerPC G4/G5 老 Mac 上运行 Claude Code 的移植项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Scottcjn/claude-code-g4 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-21"]
     y-axis "stars" 73 --> 77
     line [76, 74, 74]
 ```
 
-2026-10-29 76 → 2026-11-20 74（-2）
+2026-10-29 76 → 2026-11-21 74（-2）
 
 
 ---

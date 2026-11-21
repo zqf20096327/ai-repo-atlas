@@ -45,13 +45,13 @@ Koel 是一个可复现的分析流水线，用 CIViC、ClinVar、MaveDB 等开�
 
 ```mermaid
 xychart-beta
-    title "notaaaronfr/koel 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-16", "2026-11-20"]
+    title "notaaaronfr/koel 星数(近 4 点)"
+    x-axis ["2026-11-10", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 4 --> 8
-    line [5, 6, 7]
+    line [5, 6, 7, 7]
 ```
 
-2026-11-10 5 → 2026-11-20 7（+2）
+2026-11-10 5 → 2026-11-21 7（+2）
 
 
 ---

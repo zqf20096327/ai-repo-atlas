@@ -1,6 +1,6 @@
 # rllab-snu/tsallis_actor_critic_mujoco
 
-⭐ 61 · Jupyter Notebook · 推送 2025-11-24 · [GitHub](https://github.com/rllab-snu/tsallis_actor_critic_mujoco) · [官网](https://arxiv.org/abs/1902.00137) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Tsallis 熵强化学习算法实现：用于 MuJoCo 环境的 Actor-Critic**
 

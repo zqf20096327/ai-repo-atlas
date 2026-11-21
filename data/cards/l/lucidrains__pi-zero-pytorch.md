@@ -44,13 +44,13 @@ Physical Intelligence 提出的机器人基础模型 π₀ 的第三方 PyTorch 
 
 ```mermaid
 xychart-beta
-    title "lucidrains/pi-zero-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
+    title "lucidrains/pi-zero-pytorch 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 587 --> 591
-    line [589, 590, 588]
+    line [589, 590, 588, 588]
 ```
 
-2026-10-18 589 → 2026-11-20 588（-1）
+2026-10-19 589 → 2026-11-21 588（-1）
 
 
 ---

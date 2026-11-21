@@ -1,6 +1,6 @@
 # OpenGigantic/hachi
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/OpenGigantic/hachi) · [官网](https://github.com/OpenGigantic/hachi) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/OpenGigantic/hachi) · [官网](https://github.com/OpenGigantic/hachi) · 组织维护
 
 **受治理的个人 AI agent：能力以可审计的 .og 文件运行**
 
@@ -40,6 +40,18 @@
 > L15: Every capability the agent has — or teaches itself — is a typed, versioned, lintable,
 > L44: |**Surfaces**|Textual TUI · FastAPI gateway (REST + SSE) · React web UI · Telegram / Slack / Discord / WhatsApp · O
 > L45: |**Models**|Anthropic · OpenAI-compatible · OpenRouter · Groq · DeepSeek · Gemini · local Ollama|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "OpenGigantic/hachi 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 11 --> 15
+    line [12, 14]
+```
+
+2026-11-20 12 → 2026-11-21 14（+2）
 
 
 ---

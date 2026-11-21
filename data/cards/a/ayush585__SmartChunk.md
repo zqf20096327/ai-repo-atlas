@@ -45,12 +45,12 @@ Python 包 + CLI，用于 RAG/LLM 管线中的文本分块：按 markdown 等结
 ```mermaid
 xychart-beta
     title "ayush585/SmartChunk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 14（+0）
 
 
 ---

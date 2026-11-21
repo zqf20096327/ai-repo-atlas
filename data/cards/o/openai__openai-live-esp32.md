@@ -1,6 +1,6 @@
 # openai/openai-live-esp32
 
-⭐ 14 · C · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openai/openai-live-esp32) · 组织维护
+⭐ 23 · C · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openai/openai-live-esp32) · 组织维护
 
 **在 ESP32-S3 开发板上通过 OpenAI Live API 构建语音助手**
 
@@ -40,6 +40,18 @@
 > L6: Build a voice assistant with the OpenAI Live API
 > L9: 1. **Core SDK:** a portable C protocol library and an ESP-IDF WebRTC/Opus adapter.
 > L141: The ESP-IDF adapter targets dual-core **ESP32-S3 boards with PSRAM** and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/openai-live-esp32 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 13 --> 24
+    line [14, 23]
+```
+
+2026-11-20 14 → 2026-11-21 23（+9）
 
 
 ---

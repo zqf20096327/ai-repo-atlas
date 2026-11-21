@@ -43,13 +43,13 @@ deepset 维护的 Haystack 教程集合，教程同步发布到 Haystack 官网�
 
 ```mermaid
 xychart-beta
-    title "deepset-ai/haystack-tutorials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 375 --> 379
-    line [376, 377, 378, 378]
+    title "deepset-ai/haystack-tutorials 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 376 --> 379
+    line [377, 378, 378]
 ```
 
-2026-10-18 376 → 2026-11-20 378（+2）
+2026-10-19 377 → 2026-11-21 378（+1）
 
 
 ---

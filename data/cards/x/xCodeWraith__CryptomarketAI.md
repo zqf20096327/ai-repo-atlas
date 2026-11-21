@@ -40,6 +40,18 @@
 > L9: > **Conversational AI trading agent delivering Wall Street-grade technical analysis directly on Telegram.**
 > L19: * **Autonomous Decision-Making:** Orchestrated via a dynamic LangChain Tool-Calling Agent inside n8n.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xCodeWraith/CryptomarketAI 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-20 12 → 2026-11-21 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `ffb60075c311` · [字段定义](../../DATASET.md)*

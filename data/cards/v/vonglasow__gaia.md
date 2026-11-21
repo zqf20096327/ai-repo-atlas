@@ -1,6 +1,6 @@
 # vonglasow/gaia
 
-⭐ 13 · Go · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/vonglasow/gaia) · 个人维护
+⭐ 12 · Go · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/vonglasow/gaia) · 个人维护
 
 **Go 编写的本地模型 CLI：问答、代理、调查、聊天与 MCP 服务**
 
@@ -46,12 +46,12 @@ Gaia 是用 Go 编写的命令行工具，通过本地 API 与语言模型交互
 ```mermaid
 xychart-beta
     title "vonglasow/gaia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
     y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    line [12, 13, 12]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-19 12 → 2026-11-21 12（+0）
 
 
 ---

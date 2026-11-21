@@ -41,6 +41,18 @@
 > L15: It connects multiple specialized MCP agents to Claude Desktop, allowing users to ask supply chain questions in plai
 > L17: The project demonstrates how AI agents can work together across supply chain domains such as shipment delays, inven
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vishal2559/supply-chain-control-tower 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `33f3fd170df7` · [字段定义](../../DATASET.md)*

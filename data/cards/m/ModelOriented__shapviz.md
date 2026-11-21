@@ -1,6 +1,6 @@
 # ModelOriented/shapviz
 
-⭐ 124 · R · GPL-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/ModelOriented/shapviz) · [官网](https://modeloriented.github.io/shapviz/) · 组织维护
+⭐ 125 · R · GPL-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/ModelOriented/shapviz) · [官网](https://modeloriented.github.io/shapviz/) · 组织维护
 
 **R 包：把 SHAP 值可视化成多种解释图形**
 
@@ -45,12 +45,12 @@ R 语言的可解释性可视化包，围绕 'shapviz' 对象提供 SHAP 图形�
 ```mermaid
 xychart-beta
     title "ModelOriented/shapviz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 123 --> 125
-    line [124, 124]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 123 --> 126
+    line [124, 125]
 ```
 
-2026-10-18 124 → 2026-11-20 124（+0）
+2026-10-19 124 → 2026-11-21 125（+1）
 
 
 ---

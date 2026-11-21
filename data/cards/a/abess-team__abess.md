@@ -1,6 +1,6 @@
 # abess-team/abess
 
-⭐ 469 · C++ · NOASSERTION · 推送 2026-03-15 · [GitHub](https://github.com/abess-team/abess) · [官网](https://abess.readthedocs.io/) · 组织维护
+⭐ 467 · C++ · NOASSERTION · 推送 2026-03-15 · [GitHub](https://github.com/abess-team/abess) · [官网](https://abess.readthedocs.io/) · 组织维护
 
 **面向科研的快速最优子集选择库（Python/R）**
 
@@ -46,12 +46,12 @@ abess 实现 Adaptive Best Subset Selection 通用算法框架，在稀疏建模
 ```mermaid
 xychart-beta
     title "abess-team/abess 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 466 --> 470
-    line [467, 468, 469, 468, 467, 469, 469]
+    line [467, 468, 469, 468, 467, 469, 467]
 ```
 
-2026-10-18 467 → 2026-11-20 469（+2）
+2026-10-19 467 → 2026-11-21 467（+0）
 
 
 ---

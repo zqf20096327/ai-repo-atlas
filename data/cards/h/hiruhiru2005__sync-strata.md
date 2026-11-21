@@ -1,6 +1,6 @@
 # hiruhiru2005/sync-strata
 
-⭐ 61 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hiruhiru2005/sync-strata) · 个人维护
+⭐ 75 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hiruhiru2005/sync-strata) · 个人维护
 
 **在单台家用 PC 上一键运行 125B MoE 模型的本地 LLM 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hiruhiru2005/sync-strata 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 12 --> 65
-    line [16, 61]
+    title "hiruhiru2005/sync-strata 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 11 --> 80
+    line [16, 61, 75]
 ```
 
-2026-11-19 16 → 2026-11-20 61（+45）
+2026-11-19 16 → 2026-11-21 75（+59）
 
 
 ---

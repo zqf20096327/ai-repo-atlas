@@ -43,12 +43,12 @@ MITRE ATLAS（Adversarial Threat Landscape for AI Systems）网站的源码仓�
 ```mermaid
 xychart-beta
     title "mitre-atlas/atlas-website 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-20 21（+1）
+2026-10-19 20 → 2026-11-21 21（+1）
 
 
 ---

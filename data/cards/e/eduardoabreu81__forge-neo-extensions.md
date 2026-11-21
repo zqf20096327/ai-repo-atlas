@@ -1,6 +1,6 @@
 # eduardoabreu81/forge-neo-extensions
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/eduardoabreu81/forge-neo-extensions) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/eduardoabreu81/forge-neo-extensions) · 个人维护
 
 **为 Forge Neo WebUI 提供默认的扩展索引清单**
 
@@ -44,13 +44,13 @@ Stable Diffusion WebUI Forge Neo 的默认扩展索引：以 AUTOMATIC1111 经�
 
 ```mermaid
 xychart-beta
-    title "eduardoabreu81/forge-neo-extensions 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-20"]
-    y-axis "stars" 8 --> 11
-    line [9, 10]
+    title "eduardoabreu81/forge-neo-extensions 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 8 --> 13
+    line [9, 10, 12]
 ```
 
-2026-11-16 9 → 2026-11-20 10（+1）
+2026-11-16 9 → 2026-11-21 12（+3）
 
 
 ---

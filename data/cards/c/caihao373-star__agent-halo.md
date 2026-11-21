@@ -1,6 +1,6 @@
 # caihao373-star/agent-halo
 
-⭐ 6 · JavaScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/caihao373-star/agent-halo) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/caihao373-star/agent-halo) · 个人维护 · 中文 README
 
 **用一张光环壁纸实时监控多个本地 AI 编程智能体的状态**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "caihao373-star/agent-halo 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6]
+    title "caihao373-star/agent-halo 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-11-08 3 → 2026-11-20 6（+3）
+2026-11-08 3 → 2026-11-21 7（+4）
 
 
 ---

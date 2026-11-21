@@ -1,6 +1,6 @@
 # johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction
 
-⭐ 636 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction) · 个人维护
+⭐ 635 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction) · 个人维护
 
 **银行对账单 PDF 自动化处理与个人财务分析系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 626 --> 637
-    line [627, 628, 629, 630, 629, 631, 633, 634, 635, 636, 636]
+    title "johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 627 --> 637
+    line [628, 629, 630, 629, 631, 633, 634, 635, 636, 635]
 ```
 
-2026-10-18 627 → 2026-11-20 636（+9）
+2026-10-19 628 → 2026-11-21 635（+7）
 
 
 ---

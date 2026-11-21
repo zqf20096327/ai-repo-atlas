@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hidecard/YBS-Bus-Data 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    title "hidecard/YBS-Bus-Data 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 11 --> 16
-    line [12, 15]
+    line [12, 15, 15]
 ```
 
-2026-11-19 12 → 2026-11-20 15（+3）
+2026-11-19 12 → 2026-11-21 15（+3）
 
 
 ---

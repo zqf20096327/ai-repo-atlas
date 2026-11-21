@@ -1,6 +1,6 @@
 # DoodzDev/AcouZ
 
-⭐ 17 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DoodzDev/AcouZ) · [官网](https://doodzprog.github.io/AcouZ/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DoodzDev/AcouZ) · [官网](https://doodzprog.github.io/AcouZ/) · 个人维护
 
 **Windows 语音听写工具：按住热键说话，文字即刻上屏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DoodzDev/AcouZ 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-02", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 15 --> 18
-    line [17, 16, 17, 17]
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 15 --> 19
+    line [17, 16, 17, 18]
 ```
 
-2026-10-29 17 → 2026-11-20 17（+0）
+2026-10-29 17 → 2026-11-21 18（+1）
 
 
 ---

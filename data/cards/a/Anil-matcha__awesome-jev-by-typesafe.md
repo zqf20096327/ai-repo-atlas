@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/awesome-jev-by-typesafe 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20"]
+    title "Anil-matcha/awesome-jev-by-typesafe 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 9
-    line [3, 4, 5, 8]
+    line [3, 4, 5, 8, 8]
 ```
 
-2026-11-08 3 → 2026-11-20 8（+5）
+2026-11-08 3 → 2026-11-21 8（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # danpoletaev/backlink-outreach-js
 
-⭐ 68 · TypeScript · 推送 2026-03-12 · [GitHub](https://github.com/danpoletaev/backlink-outreach-js) · [官网](https://apify.com/daniil.poletaev/backlink-outreach-js) · 个人维护
+⭐ 69 · TypeScript · 推送 2026-03-12 · [GitHub](https://github.com/danpoletaev/backlink-outreach-js) · [官网](https://apify.com/daniil.poletaev/backlink-outreach-js) · 个人维护
 
 **SEO 外链建设的自动化外联 Agent：找站、取联系方式、生成个性化消息**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danpoletaev/backlink-outreach-js 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 64 --> 69
-    line [65, 66, 67, 66, 68, 68]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 64 --> 70
+    line [65, 66, 67, 66, 68, 69]
 ```
 
-2026-10-18 65 → 2026-11-20 68（+3）
+2026-10-19 65 → 2026-11-21 69（+4）
 
 
 ---

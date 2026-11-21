@@ -1,6 +1,6 @@
 # google-deepmind/reaf
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/google-deepmind/reaf) · [官网](https://reaf.readthedocs.io) · 组织维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/reaf) · [官网](https://reaf.readthedocs.io) · 组织维护
 
 **机器人环境编写框架：简化创建符合 GDM 接口的环境**
 
@@ -46,12 +46,12 @@ Google DeepMind 开源的机器人环境编写框架，用于简化创建符合 
 ```mermaid
 xychart-beta
     title "google-deepmind/reaf 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 15 --> 21
-    line [16, 18, 16, 18, 19, 20, 20]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 15 --> 22
+    line [16, 18, 16, 18, 19, 20, 21]
 ```
 
-2026-10-18 16 → 2026-11-20 20（+4）
+2026-10-19 16 → 2026-11-21 21（+5）
 
 
 ---

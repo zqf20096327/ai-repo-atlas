@@ -1,6 +1,6 @@
 # later-3/lifeos
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/later-3/lifeos) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/later-3/lifeos) · 个人维护 · 中文 README
 
 **个人多 Agent 协作工作台：任务化协作与本地留存**
 
@@ -40,6 +40,18 @@ Life OS 是用户与一组 AI Agent 的长期协作系统，由两部分组成�
 > L19: Life OS is a long-running collaboration system between you and a set of AI agents. It is built from two parts: an *
 > L79: - **23 agent tools** — `lifeos_task_create`, `lifeos_task_enter`, `lifeos_ask`, `lifeos_send`, `lifeos_review_comme
 > L172: |A model endpoint|any OpenAI-compatible base URL and key|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "later-3/lifeos 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 18 --> 22
+    line [19, 21]
+```
+
+2026-11-20 19 → 2026-11-21 21（+2）
 
 
 ---

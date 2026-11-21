@@ -1,6 +1,6 @@
 # xiaoyuCR7/general-novel-skill
 
-⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xiaoyuCR7/general-novel-skill) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xiaoyuCR7/general-novel-skill) · 个人维护 · 中文 README
 
 **给网文作者的 AI 写作 skill：长篇事务追踪与去 AI 味闸门**
 
@@ -41,6 +41,18 @@
 > L3: 写长篇网文与短篇小说的 agent skill（**v8.2.0**）：长篇正文和设定一起提交，追踪表里的每条事实都查得到正文出处；
 > L4: 短篇走五段式、以情绪和反转收尾。去 AI 味不把好句子改坏。适用于 Claude Code、Codex、Cursor、OpenCode 等支持 skill 的客户端。
 > L204: general-novel-skill 支持多个 AI 客户端：Claude Code、TRAE、Cursor、OpenCode、Codex、Gemini CLI、Antigravity，以及任何支持 MCP 协议的客户端。装好
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xiaoyuCR7/general-novel-skill 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 14
+    line [11, 13]
+```
+
+2026-11-20 11 → 2026-11-21 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Cyanosite/OllamaLab
 
-⭐ 32 · Swift · 推送 2026-07-18 · [GitHub](https://github.com/Cyanosite/OllamaLab) · 个人维护
+⭐ 33 · Swift · 推送 2026-07-18 · [GitHub](https://github.com/Cyanosite/OllamaLab) · 个人维护
 
 **macOS 本地 AI 聊天助手，基于 Ollama 运行模型**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Cyanosite/OllamaLab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-11-20 32（+0）
+2026-10-19 32 → 2026-11-21 33（+1）
 
 
 ---

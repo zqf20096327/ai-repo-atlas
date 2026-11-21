@@ -1,6 +1,6 @@
 # agentserver/agentserver
 
-⭐ 49 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/agentserver/agentserver) · [官网](https://agentserver.dev) · 组织维护 · 中文 README
+⭐ 50 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/agentserver/agentserver) · [官网](https://agentserver.dev) · 组织维护 · 中文 README
 
 **个人计算网络控制平面：把分散设备接入统一工作区供 agent 调度**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentserver/agentserver 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    title "agentserver/agentserver 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50]
 ```
 
-2026-10-18 47 → 2026-11-20 49（+2）
+2026-10-19 48 → 2026-11-21 50（+2）
 
 
 ---

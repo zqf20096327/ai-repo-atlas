@@ -1,6 +1,6 @@
 # onism1767-creator/potato
 
-⭐ 164 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/onism1767-creator/potato) · 个人维护 · 中文 README
+⭐ 164 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/onism1767-creator/potato) · 个人维护 · 中文 README
 
 **测量品牌在 Claude 联网回答中被提及与引用频率的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "onism1767-creator/potato 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 163 --> 167
     line [166, 164, 164]
 ```
 
-2026-10-18 166 → 2026-11-20 164（-2）
+2026-10-19 166 → 2026-11-21 164（-2）
 
 
 ---

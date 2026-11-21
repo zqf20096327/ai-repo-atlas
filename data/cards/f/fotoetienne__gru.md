@@ -1,6 +1,6 @@
 # fotoetienne/gru
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/fotoetienne/gru) · 个人维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/fotoetienne/gru) · 个人维护
 
 **把 GitHub issue 自动变成合并 PR 的本地多 agent 编排 CLI**
 
@@ -46,12 +46,12 @@ Rust 编写的命令行工具，在本地把 GitHub issue 交给 AI 编码 agent
 ```mermaid
 xychart-beta
     title "fotoetienne/gru 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-18 11 → 2026-11-21 11（+0）
 
 
 ---

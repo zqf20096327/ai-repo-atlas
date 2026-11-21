@@ -1,6 +1,6 @@
 # langchain-ai/langchain-elastic
 
-⭐ 78 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langchain-elastic) · 组织维护
+⭐ 78 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/langchain-ai/langchain-elastic) · 组织维护
 
 **LangChain 的 Elasticsearch 集成包：检索、向量存储、缓存等**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-elastic 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-21"]
     y-axis "stars" 77 --> 80
     line [79, 78, 79, 78, 78]
 ```
 
-2026-10-18 79 → 2026-11-20 78（-1）
+2026-10-19 79 → 2026-11-21 78（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-Android
 
-⭐ 474 · Kotlin · 推送 2026-11-11 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Android) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 475 · Kotlin · 推送 2026-11-11 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Android) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **Android 端人脸识别 SDK 演示应用：离线完成注册/1:N 识别与活体检测**
 
@@ -44,13 +44,13 @@ FacePlugin 公司的 Android 人脸识别 SDK 示例仓库：运行时为需从 
 
 ```mermaid
 xychart-beta
-    title "Faceplugin-ltd/FaceRecognition-Android 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 463 --> 475
-    line [464, 465, 468, 469, 470, 468, 473, 474]
+    title "Faceplugin-ltd/FaceRecognition-Android 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 463 --> 476
+    line [464, 465, 468, 469, 470, 468, 473, 474, 475]
 ```
 
-2026-10-18 464 → 2026-11-20 474（+10）
+2026-10-19 464 → 2026-11-21 475（+11）
 
 
 ---

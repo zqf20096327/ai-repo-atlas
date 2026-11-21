@@ -46,13 +46,13 @@ Python 标准库实现的 LALIGA Fantasy 代理：通过游戏非官方 API 与 
 
 ```mermaid
 xychart-beta
-    title "jonortega20/fantasybot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-20"]
+    title "jonortega20/fantasybot 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 30, 30]
+    line [31, 30, 30]
 ```
 
-2026-10-18 30 → 2026-11-20 30（+0）
+2026-10-19 31 → 2026-11-21 30（-1）
 
 
 ---

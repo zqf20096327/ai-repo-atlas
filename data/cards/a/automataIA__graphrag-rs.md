@@ -1,6 +1,6 @@
 # automataIA/graphrag-rs
 
-⭐ 540 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/automataIA/graphrag-rs) · [官网](https://automataia.github.io/graphrag-rs/) · 个人维护
+⭐ 541 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/automataIA/graphrag-rs) · [官网](https://automataia.github.io/graphrag-rs/) · 个人维护
 
 **Rust 实现的 GraphRAG 框架：从文档构建知识图谱并用自然语言查询**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "automataIA/graphrag-rs 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 530 --> 541
-    line [531, 532, 534, 535, 534, 537, 539, 540, 540]
+    title "automataIA/graphrag-rs 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 531 --> 542
+    line [532, 534, 535, 534, 537, 539, 540, 541]
 ```
 
-2026-10-18 531 → 2026-11-20 540（+9）
+2026-10-19 532 → 2026-11-21 541（+9）
 
 
 ---

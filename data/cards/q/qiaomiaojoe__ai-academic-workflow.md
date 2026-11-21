@@ -1,6 +1,6 @@
 # qiaomiaojoe/ai-academic-workflow
 
-⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/qiaomiaojoe/ai-academic-workflow) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/qiaomiaojoe/ai-academic-workflow) · 个人维护 · 中文 README
 
 **面向学术研究者的 48 个 AI 学术工作流 skills 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qiaomiaojoe/ai-academic-workflow 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-02", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-02 10 → 2026-11-20 11（+1）
+2026-11-02 10 → 2026-11-21 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # montimazumder14-del/coregold-cloud-gpu-pay
 
-⭐ 79 · 推送 2026-11-02 · [GitHub](https://github.com/montimazumder14-del/coregold-cloud-gpu-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 80 · 推送 2026-11-02 · [GitHub](https://github.com/montimazumder14-del/coregold-cloud-gpu-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向海外云 GPU 租用付费的虚拟卡（VCC）推广页**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "montimazumder14-del/coregold-cloud-gpu-pay 星数(近 9 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
     y-axis "stars" 0 --> 90
-    line [7, 38, 59, 73, 78, 83, 82, 79, 79]
+    line [7, 38, 59, 73, 78, 83, 82, 79, 80]
 ```
 
-2026-11-02 7 → 2026-11-20 79（+72）
+2026-11-02 7 → 2026-11-21 80（+73）
 
 
 ---

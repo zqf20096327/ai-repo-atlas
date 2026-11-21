@@ -1,6 +1,6 @@
 # Dricle/eveil
 
-⭐ 11 · PHP · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Dricle/eveil) · [官网](https://eveil.cloud) · 个人维护
+⭐ 11 · PHP · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Dricle/eveil) · [官网](https://eveil.cloud) · 个人维护
 
 **自托管的 B2B 冷触达营销 agent：读产品站、找线索、写序列并经自有邮箱发送**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Dricle/eveil 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-26 10 → 2026-11-20 11（+1）
+2026-10-26 10 → 2026-11-21 11（+1）
 
 
 ---

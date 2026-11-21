@@ -1,6 +1,6 @@
 # ningg/Machine-Learning-Q-and-AI
 
-⭐ 63 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/ningg/Machine-Learning-Q-and-AI) · [官网](http://ningg.top/Machine-Learning-Q-and-AI/) · 个人维护 · 中文 README
+⭐ 64 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/ningg/Machine-Learning-Q-and-AI) · [官网](http://ningg.top/Machine-Learning-Q-and-AI/) · 个人维护 · 中文 README
 
 **大模型技术要点的中文批注学习教程（30讲）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ningg/Machine-Learning-Q-and-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64]
 ```
 
-2026-10-18 62 → 2026-11-20 63（+1）
+2026-10-18 62 → 2026-11-21 64（+2）
 
 
 ---

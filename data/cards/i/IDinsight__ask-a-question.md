@@ -1,6 +1,6 @@
 # IDinsight/ask-a-question
 
-⭐ 38 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/IDinsight/ask-a-question) · [官网](https://ask-a-question.com) · 组织维护
+⭐ 38 · Python · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/IDinsight/ask-a-question) · [官网](https://ask-a-question.com) · 组织维护
 
 **面向社会部门的 FAQ 问答系统：LLM 检索并生成公民咨询回复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IDinsight/ask-a-question 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "IDinsight/ask-a-question 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 36 --> 39
-    line [37, 38]
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-20 38（+1）
+2026-10-19 37 → 2026-11-21 38（+1）
 
 
 ---

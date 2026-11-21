@@ -1,6 +1,6 @@
 # pdsuwwz/chatgpt-vue3-light-mvp
 
-⭐ 587 · Vue · MIT · 推送 2026-07-31 · [GitHub](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) · [官网](https://botkit.likemashang.com) · 个人维护 · 中文 README
+⭐ 586 · Vue · MIT · 推送 2026-07-31 · [GitHub](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) · [官网](https://botkit.likemashang.com) · 个人维护 · 中文 README
 
 **基于 Vue3 的 Chat Bot 单轮对话 Web 端 MVP 原型模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pdsuwwz/chatgpt-vue3-light-mvp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 581 --> 588
-    line [582, 583, 582, 586, 587, 587]
+    line [582, 583, 582, 586, 587, 586]
 ```
 
-2026-10-18 582 → 2026-11-20 587（+5）
+2026-10-19 582 → 2026-11-21 586（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # GreatDrake/gfn-pathfinding
 
-⭐ 10 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/GreatDrake/gfn-pathfinding) · [官网](https://arxiv.org/abs/2603.01786) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/GreatDrake/gfn-pathfinding) · [官网](https://arxiv.org/abs/2603.01786) · 个人维护
 
 **研究者：用 GFlowNet 学习最短路径求解的组合搜索代码库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GreatDrake/gfn-pathfinding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

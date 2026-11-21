@@ -1,6 +1,6 @@
 # ashbuilds/payload-ai
 
-⭐ 565 · TypeScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/ashbuilds/payload-ai) · 个人维护
+⭐ 564 · TypeScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/ashbuilds/payload-ai) · 个人维护
 
 **为 Payload CMS 提供 AI 文本/图像/语音能力的插件**
 
@@ -45,13 +45,13 @@ Payload CMS（v3）的第三方插件，在文本与富文本字段上接入 AI 
 
 ```mermaid
 xychart-beta
-    title "ashbuilds/payload-ai 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
+    title "ashbuilds/payload-ai 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
     y-axis "stars" 557 --> 566
-    line [559, 558, 559, 560, 558, 562, 564, 565, 565]
+    line [558, 559, 560, 558, 562, 564, 565, 564]
 ```
 
-2026-10-18 559 → 2026-11-20 565（+6）
+2026-10-19 558 → 2026-11-21 564（+6）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SuyashMore/MevonAI-Speech-Emotion-Recognition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 182 --> 184
     line [183, 183]
 ```
 
-2026-10-18 183 → 2026-11-20 183（+0）
+2026-10-19 183 → 2026-11-21 183（+0）
 
 
 ---

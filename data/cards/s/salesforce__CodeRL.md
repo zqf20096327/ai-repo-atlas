@@ -1,6 +1,6 @@
 # salesforce/CodeRL
 
-⭐ 579 · Python · BSD-3-Clause · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/CodeRL) · 组织维护
+⭐ 578 · Python · BSD-3-Clause · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/CodeRL) · 组织维护
 
 **NeurIPS22 论文官方代码：用强化学习训练代码生成模型**
 
@@ -46,12 +46,12 @@ Salesforce 发布的 CodeRL 论文官方实现：将代码生成语言模型（C
 ```mermaid
 xychart-beta
     title "salesforce/CodeRL 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-21"]
     y-axis "stars" 577 --> 580
-    line [578, 579, 578, 579, 579]
+    line [578, 579, 578, 579, 578]
 ```
 
-2026-10-18 578 → 2026-11-20 579（+1）
+2026-10-19 578 → 2026-11-21 578（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tdelowar17-tech/coregold-agent-paygate
 
-⭐ 79 · 推送 2026-11-02 · [GitHub](https://github.com/tdelowar17-tech/coregold-agent-paygate) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 82 · 推送 2026-11-02 · [GitHub](https://github.com/tdelowar17-tech/coregold-agent-paygate) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向 AI API 订阅付费的海外虚拟商用卡发卡服务推广页**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tdelowar17-tech/coregold-agent-paygate 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21"]
     y-axis "stars" 2 --> 89
-    line [9, 37, 58, 72, 76, 82, 79, 79]
+    line [9, 37, 58, 72, 76, 82, 79, 82]
 ```
 
-2026-11-02 9 → 2026-11-20 79（+70）
+2026-11-02 9 → 2026-11-21 82（+73）
 
 
 ---

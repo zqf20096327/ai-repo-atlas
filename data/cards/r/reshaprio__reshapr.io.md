@@ -1,6 +1,6 @@
 # reshaprio/reshapr.io
 
-⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/reshaprio/reshapr.io) · [官网](https://reshapr.io/) · 组织维护
+⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/reshaprio/reshapr.io) · [官网](https://reshapr.io/) · 组织维护
 
 **reShapr 产品文档网站的构建与贡献指南（Docusaurus）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "reshaprio/reshapr.io 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-18 10 → 2026-11-21 11（+1）
 
 
 ---

@@ -45,13 +45,13 @@ literally-aeo 是一个本地运行的命令行审计工具，向 ChatGPT、Clau
 
 ```mermaid
 xychart-beta
-    title "literallydotdev/aeo 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
+    title "literallydotdev/aeo 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 5 --> 15
-    line [6, 7, 14]
+    line [6, 7, 14, 14]
 ```
 
-2026-11-08 6 → 2026-11-20 14（+8）
+2026-11-08 6 → 2026-11-21 14（+8）
 
 
 ---

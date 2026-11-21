@@ -40,6 +40,18 @@
 > L3: Welcome to the AI Recruiter, a pipeline designed to match résumés with job descriptions using GPT-4o, while also pro
 > L11: Manual injection of manipulative text, including invisible instructions and crafted language, is used to explore AI
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KutalVolkan/ai_recruiter 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-20 12 → 2026-11-21 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `a2de6175741d` · [字段定义](../../DATASET.md)*

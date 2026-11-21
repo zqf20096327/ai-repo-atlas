@@ -1,6 +1,6 @@
 # pfrankov/slicer-copilot
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/pfrankov/slicer-copilot) · 个人维护
+⭐ 19 · JavaScript · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/pfrankov/slicer-copilot) · 个人维护
 
 **用 LLM 自动调优 Bambu Studio 3D 打印参数的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pfrankov/slicer-copilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 14 --> 20
+    line [15, 16, 17, 19]
 ```
 
-2026-10-18 15 → 2026-11-20 17（+2）
+2026-10-19 15 → 2026-11-21 19（+4）
 
 
 ---

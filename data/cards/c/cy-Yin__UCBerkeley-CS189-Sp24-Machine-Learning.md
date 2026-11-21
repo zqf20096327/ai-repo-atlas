@@ -1,6 +1,6 @@
 # cy-Yin/UCBerkeley-CS189-Sp24-Machine-Learning
 
-⭐ 41 · Jupyter Notebook · MIT · 推送 2026-02-04 · [GitHub](https://github.com/cy-Yin/UCBerkeley-CS189-Sp24-Machine-Learning) · [官网](https://people.eecs.berkeley.edu/~jrs/189s24/) · 个人维护
+⭐ 42 · Jupyter Notebook · MIT · 推送 2026-02-04 · [GitHub](https://github.com/cy-Yin/UCBerkeley-CS189-Sp24-Machine-Learning) · [官网](https://people.eecs.berkeley.edu/~jrs/189s24/) · 个人维护
 
 **UC Berkeley CS189/289A 2024 春季机器学习课程资料与作业解答合集**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "cy-Yin/UCBerkeley-CS189-Sp24-Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-11-20 41（+0）
+2026-10-19 41 → 2026-11-21 42（+1）
 
 
 ---

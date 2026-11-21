@@ -1,6 +1,6 @@
 # istitov/stuff
 
-⭐ 48 · Shell · GPL-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/istitov/stuff) · [官网](https://istitov.github.io/stuff/) · 个人维护
+⭐ 49 · Shell · GPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/istitov/stuff) · [官网](https://istitov.github.io/stuff/) · 个人维护
 
 **Gentoo ebuild 多领域软件仓库：AI/GPU 计算与材料科学打包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "istitov/stuff 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    x-axis ["2026-11-10", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 46 --> 50
+    line [47, 48, 49]
 ```
 
-2026-11-10 47 → 2026-11-20 48（+1）
+2026-11-10 47 → 2026-11-21 49（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # XXXzhouhan/dafeiyu-wechat-ai
 
-⭐ 18 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/XXXzhouhan/dafeiyu-wechat-ai) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/XXXzhouhan/dafeiyu-wechat-ai) · 个人维护 · 中文 README
 
 **在 Windows 微信小号上运行的微信群/私聊 AI 自动回复机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "XXXzhouhan/dafeiyu-wechat-ai 星数(近 8 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 2 --> 19
-    line [3, 4, 12, 13, 14, 16, 17, 18]
+    title "XXXzhouhan/dafeiyu-wechat-ai 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 20
+    line [3, 4, 12, 13, 14, 16, 17, 18, 19]
 ```
 
-2026-10-26 3 → 2026-11-20 18（+15）
+2026-10-26 3 → 2026-11-21 19（+16）
 
 
 ---

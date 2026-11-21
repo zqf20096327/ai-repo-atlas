@@ -1,6 +1,6 @@
 # VirtusLab/sandcat
 
-⭐ 204 · Shell · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/VirtusLab/sandcat) · 组织维护
+⭐ 205 · Shell · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/VirtusLab/sandcat) · 组织维护
 
 **安全运行 AI 编码 agent 的 Docker 沙箱容器方案**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "VirtusLab/sandcat 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 195 --> 205
-    line [196, 198, 199, 200, 202, 204, 204]
+    title "VirtusLab/sandcat 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 197 --> 206
+    line [198, 199, 200, 202, 204, 205]
 ```
 
-2026-10-18 196 → 2026-11-20 204（+8）
+2026-10-19 198 → 2026-11-21 205（+7）
 
 
 ---

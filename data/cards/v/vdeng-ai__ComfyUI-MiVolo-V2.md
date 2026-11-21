@@ -1,6 +1,6 @@
 # vdeng-ai/ComfyUI-MiVolo-V2
 
-⭐ 30 · Python · CC-BY-SA-4.0 · 推送 2026-09-17 · [GitHub](https://github.com/vdeng-ai/ComfyUI-MiVolo-V2) · 个人维护 · 中文 README
+⭐ 31 · Python · CC-BY-SA-4.0 · 推送 2026-09-17 · [GitHub](https://github.com/vdeng-ai/ComfyUI-MiVolo-V2) · 个人维护 · 中文 README
 
 **ComfyUI 节点：用 MiVolo V2 模型预测图像中人物的年龄与性别**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vdeng-ai/ComfyUI-MiVolo-V2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-18 29 → 2026-11-20 30（+1）
+2026-10-19 29 → 2026-11-21 31（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # jnorthrup/hermes-jekyl-hyde
 
-⭐ 19 · Python · 推送 2026-08-17 · [GitHub](https://github.com/jnorthrup/hermes-jekyl-hyde) · 个人维护
+⭐ 20 · Python · 推送 2026-08-17 · [GitHub](https://github.com/jnorthrup/hermes-jekyl-hyde) · 个人维护
 
 **Hermes agent 插件：审计会话完成度缺口并生成可验证下一步行动**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jnorthrup/hermes-jekyl-hyde 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-11-20 19（+1）
+2026-10-19 18 → 2026-11-21 20（+2）
 
 
 ---

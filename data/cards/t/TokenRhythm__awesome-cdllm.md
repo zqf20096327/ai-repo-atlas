@@ -1,6 +1,6 @@
 # TokenRhythm/awesome-cdllm
 
-⭐ 8 · Python · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/TokenRhythm/awesome-cdllm) · 组织维护
+⭐ 8 · Python · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/TokenRhythm/awesome-cdllm) · 组织维护
 
 **连续空间扩散与流语言模型的论文策展清单（354 篇）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "TokenRhythm/awesome-cdllm 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-12", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-12", "2026-11-19", "2026-11-21"]
     y-axis "stars" 3 --> 9
     line [4, 6, 7, 8, 8]
 ```
 
-2026-10-30 4 → 2026-11-20 8（+4）
+2026-10-30 4 → 2026-11-21 8（+4）
 
 
 ---

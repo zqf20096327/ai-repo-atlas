@@ -44,13 +44,13 @@ GitHub 官方仓库发布的桌面应用，用于查找、运行、引导和落�
 
 ```mermaid
 xychart-beta
-    title "toppatronweave/GitHub-Copilot-app 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    title "toppatronweave/GitHub-Copilot-app 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 378 --> 382
-    line [381, 380, 379]
+    line [381, 380, 379, 379]
 ```
 
-2026-11-15 381 → 2026-11-20 379（-2）
+2026-11-15 381 → 2026-11-21 379（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # HadiHz88/LU-M1S1
 
-⭐ 15 · HTML · 推送 2026-02-11 · [GitHub](https://github.com/HadiHz88/LU-M1S1) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **黎巴嫩大学计算机硕士一年级课程资料与笔记合集**
 

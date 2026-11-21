@@ -1,6 +1,6 @@
 # SchBenedikt/face
 
-⭐ 28 · Python · 推送 2026-11-19 · [GitHub](https://github.com/SchBenedikt/face) · [官网](https://dev.to/techtech/face-recognition-system-that-actually-works-453e) · 个人维护
+⭐ 28 · Python · 推送 2026-11-20 · [GitHub](https://github.com/SchBenedikt/face) · [官网](https://dev.to/techtech/face-recognition-system-that-actually-works-453e) · 个人维护
 
 **本地人脸检测与识别搜索系统，以图搜相似人脸**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SchBenedikt/face 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-21"]
     y-axis "stars" 23 --> 29
     line [24, 25, 26, 25, 26, 27, 28, 28]
 ```
 
-2026-10-18 24 → 2026-11-20 28（+4）
+2026-10-19 24 → 2026-11-21 28（+4）
 
 
 ---

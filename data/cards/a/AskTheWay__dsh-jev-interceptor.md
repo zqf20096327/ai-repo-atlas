@@ -1,6 +1,6 @@
 # AskTheWay/dsh-jev-interceptor
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/AskTheWay/dsh-jev-interceptor) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/AskTheWay/dsh-jev-interceptor) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Jev 决策模型安全插件：毫秒级工具调用风险分级**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AskTheWay/dsh-jev-interceptor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 28 --> 35
-    line [29, 30, 31, 32, 33, 34, 34]
+    title "AskTheWay/dsh-jev-interceptor 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 29 --> 36
+    line [30, 31, 32, 33, 34, 35]
 ```
 
-2026-10-18 29 → 2026-11-20 34（+5）
+2026-10-19 30 → 2026-11-21 35（+5）
 
 
 ---

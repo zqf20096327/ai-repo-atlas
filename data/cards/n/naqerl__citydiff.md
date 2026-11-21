@@ -1,6 +1,6 @@
 # naqerl/citydiff
 
-⭐ 8 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/naqerl/citydiff) · 个人维护
+⭐ 9 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/naqerl/citydiff) · 个人维护
 
 **把代码差异渲染为 3D 城市并为变更生成导览的 diff 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naqerl/citydiff 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 6 --> 9
-    line [7, 8, 7, 8, 8]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 6 --> 10
+    line [7, 8, 7, 8, 9]
 ```
 
-2026-10-18 7 → 2026-11-20 8（+1）
+2026-10-19 7 → 2026-11-21 9（+2）
 
 
 ---

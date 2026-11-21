@@ -44,13 +44,13 @@ Python 库，包裹已有的 HuggingFace 因果语言模型与共享 tokenizer �
 
 ```mermaid
 xychart-beta
-    title "Mattral/FlashSpec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "Mattral/FlashSpec 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
 ```
 
-2026-10-18 16 → 2026-11-20 17（+1）
+2026-10-19 17 → 2026-11-21 17（+0）
 
 
 ---

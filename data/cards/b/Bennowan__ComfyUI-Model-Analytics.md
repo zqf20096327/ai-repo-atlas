@@ -41,6 +41,18 @@
 > L19: - **Disk Scan:** Walks through all known model directories on your disk to find files.
 > L21: - **Live Tracking:** Hooks into model loading to record what actually gets loaded at runtime, and also notes which 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Bennowan/ComfyUI-Model-Analytics 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `d5f5f478598f` · [字段定义](../../DATASET.md)*

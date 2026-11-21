@@ -46,12 +46,12 @@ Python CLI 编程助手，将 Cerebras、Groq、Gemini 三家免费额度 LLM �
 ```mermaid
 xychart-beta
     title "HakAl/scrappy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 13（+0）
 
 
 ---

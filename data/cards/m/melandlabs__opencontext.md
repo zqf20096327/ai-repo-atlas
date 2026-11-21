@@ -1,6 +1,6 @@
 # melandlabs/opencontext
 
-⭐ 80 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/melandlabs/opencontext) · [官网](https://openloomi.ai) · 组织维护 · 中文 README
+⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/melandlabs/opencontext) · [官网](https://openloomi.ai) · 组织维护 · 中文 README
 
 **给 AI agent 开发者的时序上下文图与记忆运行时库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "melandlabs/opencontext 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-20"]
-    y-axis "stars" 75 --> 81
-    line [76, 77, 76, 77, 80]
+    title "melandlabs/opencontext 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 75 --> 82
+    line [76, 77, 76, 77, 80, 81]
 ```
 
-2026-10-18 76 → 2026-11-20 80（+4）
+2026-10-19 76 → 2026-11-21 81（+5）
 
 
 ---

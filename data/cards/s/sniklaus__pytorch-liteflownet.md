@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "sniklaus/pytorch-liteflownet 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-20"]
+    title "sniklaus/pytorch-liteflownet 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 431 --> 435
-    line [434, 432]
+    line [434, 432, 432]
 ```
 
-2026-11-16 434 → 2026-11-20 432（-2）
+2026-11-16 434 → 2026-11-21 432（-2）
 
 
 ---

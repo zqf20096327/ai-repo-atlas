@@ -1,6 +1,6 @@
 # tamim2vv-creator/claude-3-7-extended-thinking-billing
 
-⭐ 56 · 推送 2026-11-06 · [GitHub](https://github.com/tamim2vv-creator/claude-3-7-extended-thinking-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 70 · 推送 2026-11-06 · [GitHub](https://github.com/tamim2vv-creator/claude-3-7-extended-thinking-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向国内用户的 Claude 订阅绑卡付费教程，推广 CoreGold 虚拟卡**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "tamim2vv-creator/claude-3-7-extended-thinking-billing 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 6 --> 61
-    line [10, 32, 46, 51, 57, 56, 53, 56]
+    title "tamim2vv-creator/claude-3-7-extended-thinking-billing 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 4 --> 76
+    line [10, 32, 46, 51, 57, 56, 53, 56, 70]
 ```
 
-2026-11-08 10 → 2026-11-20 56（+46）
+2026-11-08 10 → 2026-11-21 70（+60）
 
 
 ---

@@ -1,6 +1,6 @@
 # JL-GUO/skill-siphon
 
-⭐ 25 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/JL-GUO/skill-siphon) · 个人维护 · 中文 README
+⭐ 27 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/JL-GUO/skill-siphon) · 个人维护 · 中文 README
 
 **把高星 Agent Skill 提炼为可学习资料的技能工具**
 
@@ -39,6 +39,18 @@
 
 > L22: **吸星大法**是一枚 Agent Skill：把优秀 skill 里可学习的工作经验吸纳进来，凝练成你**能理解、能练习、能用上**的学习资料——学会这项工作怎样做、为何这样做、怎样判断好坏，以及情况变化时如何调整。判断力，包含
 > L88: 基于开放的 **Agent Skills** 协议（`SKILL.md` + `references/`），可在 WorkBuddy、Claude Code、Codex、Cursor、Gemini CLI、OpenCode、Dee
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JL-GUO/skill-siphon 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 24 --> 28
+    line [25, 27]
+```
+
+2026-11-20 25 → 2026-11-21 27（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # abcpeak/apps-and-sites-collection
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/abcpeak/apps-and-sites-collection) · [官网](https://github.com/abcpeak/apps-and-sites-collection) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/abcpeak/apps-and-sites-collection) · [官网](https://github.com/abcpeak/apps-and-sites-collection) · 个人维护 · 中文 README
 
 **应用与网站推荐合集：跨平台软件、网站、工具的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "abcpeak/apps-and-sites-collection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "abcpeak/apps-and-sites-collection 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 12 → 2026-11-21 12（+0）
 
 
 ---

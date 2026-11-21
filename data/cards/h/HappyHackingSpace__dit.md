@@ -1,6 +1,6 @@
 # HappyHackingSpace/dit
 
-⭐ 19 · Go · MIT · 推送 2026-11-06 · [GitHub](https://github.com/HappyHackingSpace/dit) · 组织维护
+⭐ 19 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HappyHackingSpace/dit) · 组织维护
 
 **ML 分类 HTML 页面/表单/字段类型的 Go 库与 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HappyHackingSpace/dit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 17, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-20 19（+2）
+2026-10-19 17 → 2026-11-21 19（+2）
 
 
 ---

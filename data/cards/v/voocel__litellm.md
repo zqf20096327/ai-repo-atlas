@@ -1,6 +1,6 @@
 # voocel/litellm
 
-⭐ 69 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/voocel/litellm) · 个人维护 · 中文 README
+⭐ 70 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/voocel/litellm) · 个人维护 · 中文 README
 
 **Go 语言多供应商 LLM 调用 SDK 与自托管网关**
 
@@ -45,12 +45,12 @@ LiteLLM Go 是一个类型化的 Go SDK：根包提供与供应商无关的 API�
 ```mermaid
 xychart-beta
     title "voocel/litellm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 64 --> 70
-    line [65, 67, 69, 69]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 64 --> 71
+    line [65, 67, 69, 70]
 ```
 
-2026-10-18 65 → 2026-11-20 69（+4）
+2026-10-19 65 → 2026-11-21 70（+5）
 
 
 ---

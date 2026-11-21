@@ -1,6 +1,6 @@
 # Eyna-A/STAIR-ToC-RAG
 
-⭐ 10 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Eyna-A/STAIR-ToC-RAG) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Eyna-A/STAIR-ToC-RAG) · 个人维护
 
 **面向开发者的 ToC 结构感知 RAG 检索框架实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Eyna-A/STAIR-ToC-RAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 4 --> 11
-    line [5, 6, 10, 10]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 4 --> 12
+    line [5, 6, 10, 11]
 ```
 
-2026-10-18 5 → 2026-11-20 10（+5）
+2026-10-18 5 → 2026-11-21 11（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # zephel01/Abyss
 
-⭐ 41 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zephel01/Abyss) · [官网](https://huggingface.co/zephel01) · 个人维护
+⭐ 41 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zephel01/Abyss) · [官网](https://huggingface.co/zephel01) · 个人维护
 
 **单张消费级 GPU 上运行超大 MoE 模型的推理引擎**
 
@@ -44,13 +44,13 @@ Project Maya 的分支，面向单台 PC 的大型混合专家（MoE）模型推
 
 ```mermaid
 xychart-beta
-    title "zephel01/Abyss 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-20"]
+    title "zephel01/Abyss 星数(近 6 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-20", "2026-11-21"]
     y-axis "stars" 36 --> 42
-    line [37, 38, 39, 40, 41]
+    line [37, 38, 39, 40, 41, 41]
 ```
 
-2026-11-10 37 → 2026-11-20 41（+4）
+2026-11-10 37 → 2026-11-21 41（+4）
 
 
 ---

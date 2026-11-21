@@ -1,6 +1,6 @@
 # Adamovix/ComfyUI-Character-Helper
 
-⭐ 15 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Adamovix/ComfyUI-Character-Helper) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Adamovix/ComfyUI-Character-Helper) · 个人维护
 
 **ComfyUI 自定义节点：用 Danbooru 标签构建角色一致性提示词**
 
@@ -40,6 +40,18 @@
 > L3: A ComfyUI node that builds a coherent Danbooru-style tag prompt for a character.
 > L38: Search for **Character Helper** in ComfyUI Manager, or clone into `ComfyUI/custom_nodes`
 > L82: - **Character looks** come from 11.7 million Danbooru posts. For each character only
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Adamovix/ComfyUI-Character-Helper 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 14 --> 29
+    line [15, 28]
+```
+
+2026-11-20 15 → 2026-11-21 28（+13）
 
 
 ---

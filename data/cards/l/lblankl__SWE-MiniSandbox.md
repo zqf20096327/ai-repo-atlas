@@ -1,6 +1,6 @@
 # lblankl/SWE-MiniSandbox
 
-⭐ 86 · Python · 推送 2026-06-24 · [GitHub](https://github.com/lblankl/SWE-MiniSandbox) · [官网](https://lblankl.github.io/SWE-MiniSandbox/) · 组织维护
+⭐ 87 · Python · 推送 2026-06-24 · [GitHub](https://github.com/lblankl/SWE-MiniSandbox) · [官网](https://lblankl.github.io/SWE-MiniSandbox/) · 组织维护
 
 **免容器 RL 训练框架：隔离并训练软件工程 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lblankl/SWE-MiniSandbox 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 82 --> 87
-    line [83, 84, 85, 84, 86, 86]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 82 --> 88
+    line [83, 84, 85, 84, 86, 87]
 ```
 
-2026-10-18 83 → 2026-11-20 86（+3）
+2026-10-19 83 → 2026-11-21 87（+4）
 
 
 ---

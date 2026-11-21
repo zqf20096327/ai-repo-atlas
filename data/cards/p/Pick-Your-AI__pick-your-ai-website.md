@@ -1,6 +1,6 @@
 # Pick-Your-AI/pick-your-ai-website
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Pick-Your-AI/pick-your-ai-website) · [官网](https://pickyour.ai) · 组织维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Pick-Your-AI/pick-your-ai-website) · [官网](https://pickyour.ai) · 组织维护
 
 **AI 全栈组件选型构建器：按兼容性与成本逐件搭配**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Pick-Your-AI/pick-your-ai-website 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-10-19 5 → 2026-11-20 6（+1）
+2026-10-19 5 → 2026-11-21 6（+1）
 
 
 ---

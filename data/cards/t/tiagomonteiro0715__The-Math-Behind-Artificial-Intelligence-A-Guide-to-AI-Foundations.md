@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 187 --> 192
-    line [188, 189, 190, 189, 190, 191, 191]
+    title "tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 188 --> 192
+    line [189, 190, 189, 190, 191, 191]
 ```
 
-2026-10-18 188 → 2026-11-20 191（+3）
+2026-10-19 189 → 2026-11-21 191（+2）
 
 
 ---

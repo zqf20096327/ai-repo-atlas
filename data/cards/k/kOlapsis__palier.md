@@ -1,6 +1,6 @@
 # kOlapsis/palier
 
-⭐ 17 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/kOlapsis/palier) · [官网](https://kolapsis.github.io/palier/) · 个人维护
+⭐ 17 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kOlapsis/palier) · [官网](https://kolapsis.github.io/palier/) · 个人维护
 
 **自托管 Docker Compose 栈的自动更新工具，AI 读取发版说明规划升级路径**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kOlapsis/palier 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
+    title "kOlapsis/palier 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 11 --> 18
-    line [12, 13, 14, 15, 16, 17]
+    line [12, 13, 14, 15, 16, 17, 17]
 ```
 
-2026-11-10 12 → 2026-11-20 17（+5）
+2026-11-10 12 → 2026-11-21 17（+5）
 
 
 ---

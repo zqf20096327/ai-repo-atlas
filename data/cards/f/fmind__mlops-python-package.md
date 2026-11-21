@@ -1,6 +1,6 @@
 # fmind/mlops-python-package
 
-⭐ 1,421 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/fmind/mlops-python-package) · [官网](https://fmind.github.io/mlops-python-package/) · 个人维护
+⭐ 1,420 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/fmind/mlops-python-package) · [官网](https://fmind.github.io/mlops-python-package/) · 个人维护
 
 **面向 MLOps 工程的 Python 参考代码库与最佳实践模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fmind/mlops-python-package 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 1418 --> 1422
-    line [1419, 1420, 1421, 1419, 1421, 1421]
+    line [1419, 1420, 1421, 1419, 1421, 1420]
 ```
 
-2026-10-18 1,419 → 2026-11-20 1,421（+2）
+2026-10-19 1,419 → 2026-11-21 1,420（+1）
 
 
 ---

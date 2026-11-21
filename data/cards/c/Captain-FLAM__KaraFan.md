@@ -1,6 +1,6 @@
 # Captain-FLAM/KaraFan
 
-⭐ 153 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Captain-FLAM/KaraFan) · 个人维护
+⭐ 154 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Captain-FLAM/KaraFan) · 个人维护
 
 **本地/Colab 运行的 AI 人声分离软件，面向卡拉 OK 制作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Captain-FLAM/KaraFan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 150 --> 154
-    line [151, 152, 153, 153]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 150 --> 155
+    line [151, 152, 153, 154]
 ```
 
-2026-10-18 151 → 2026-11-20 153（+2）
+2026-10-19 151 → 2026-11-21 154（+3）
 
 
 ---

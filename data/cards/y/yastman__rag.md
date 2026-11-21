@@ -1,6 +1,6 @@
 # yastman/rag
 
-⭐ 13 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/yastman/rag) · [官网](https://github.com/yastman/rag/blob/dev/docs/portfolio/resume-case-study.md) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yastman/rag) · [官网](https://github.com/yastman/rag/blob/dev/docs/portfolio/resume-case-study.md) · 个人维护
 
 **自托管 Telegram 问答助手：私有文档 RAG 与房产搜索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yastman/rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 13（+0）
 
 
 ---

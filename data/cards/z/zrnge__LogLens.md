@@ -42,6 +42,18 @@
 > L67: ### 🤖 Local AI Analyst
 > L70: Powered by Ollama, the AI panel lets you chat with your logs:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zrnge/LogLens 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-20 11 → 2026-11-21 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `2c9c9055e7a2` · [字段定义](../../DATASET.md)*

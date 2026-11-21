@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nishtha-agarwal-211/Smart-Medicines 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    title "nishtha-agarwal-211/Smart-Medicines 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 15]
+    line [13, 14, 15, 15]
 ```
 
-2026-11-18 13 → 2026-11-20 15（+2）
+2026-11-18 13 → 2026-11-21 15（+2）
 
 
 ---

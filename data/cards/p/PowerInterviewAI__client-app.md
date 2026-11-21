@@ -46,12 +46,12 @@ Electron 桌面客户端，配合自有后端（FastAPI/MongoDB/Redis，含 ASR 
 ```mermaid
 xychart-beta
     title "PowerInterviewAI/client-app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 16（+1）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---

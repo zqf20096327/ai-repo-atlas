@@ -1,6 +1,6 @@
 # Skythinker616/gpt-assistant-android
 
-⭐ 909 · Java · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/Skythinker616/gpt-assistant-android) · 个人维护 · 中文 README
+⭐ 908 · Java · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/Skythinker616/gpt-assistant-android) · 个人维护 · 中文 README
 
 **安卓全场景 GPT 助手：音量键唤起语音对话，支持联网与智能体操控手机**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Skythinker616/gpt-assistant-android 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-21"]
     y-axis "stars" 905 --> 910
-    line [906, 907, 908, 909, 908, 909, 909]
+    line [906, 907, 908, 909, 908, 909, 908]
 ```
 
-2026-10-18 906 → 2026-11-20 909（+3）
+2026-10-18 906 → 2026-11-21 908（+2）
 
 
 ---

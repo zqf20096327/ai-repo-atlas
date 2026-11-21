@@ -1,6 +1,6 @@
 # fitguyfitguy/Chompass
 
-⭐ 15 · Kotlin · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fitguyfitguy/Chompass) · [官网](https://chompass.app/) · 个人维护
+⭐ 15 · Kotlin · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/fitguyfitguy/Chompass) · [官网](https://chompass.app/) · 个人维护
 
 **带 AI 食物识别的私有热量追踪应用（PWA/Android）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fitguyfitguy/Chompass 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
     y-axis "stars" 10 --> 16
     line [11, 12, 13, 12, 13, 14, 15, 15]
 ```
 
-2026-10-18 11 → 2026-11-20 15（+4）
+2026-10-19 11 → 2026-11-21 15（+4）
 
 
 ---

@@ -41,6 +41,18 @@
 > L14: **The solution:** Simple Memory lets AI store and retrieve information that persists forever. Local SQLite database
 > L98: > 💡 **Best Experience**: Works best with **Claude Sonnet in Agent Mode** for optimal auto-capture.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chrisribe/simple-memory-mcp 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `9252a6a8e5e0` · [字段定义](../../DATASET.md)*

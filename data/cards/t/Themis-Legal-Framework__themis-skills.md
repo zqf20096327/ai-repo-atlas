@@ -47,12 +47,12 @@ Themis Legal Framework 下的技能（skills）集合，由多个 SKILL.md 技�
 ```mermaid
 xychart-beta
     title "Themis-Legal-Framework/themis-skills 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-20"]
+    x-axis ["2026-11-14", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-14 10 → 2026-11-20 10（+0）
+2026-11-14 10 → 2026-11-21 10（+0）
 
 
 ---

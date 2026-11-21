@@ -1,6 +1,6 @@
 # VerisimilitudeX/DNAnalyzer
 
-⭐ 187 · Java · MIT · 推送 2026-11-16 · [GitHub](https://github.com/VerisimilitudeX/DNAnalyzer) · 个人维护
+⭐ 187 · Java · MIT · 推送 2026-11-20 · [GitHub](https://github.com/VerisimilitudeX/DNAnalyzer) · 个人维护
 
 **本地运行的 DNA 序列分析平台：隐私优先的基因组建模**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VerisimilitudeX/DNAnalyzer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
     y-axis "stars" 184 --> 188
     line [185, 187, 187]
 ```
 
-2026-10-18 185 → 2026-11-20 187（+2）
+2026-10-19 185 → 2026-11-21 187（+2）
 
 
 ---

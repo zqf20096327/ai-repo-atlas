@@ -1,6 +1,6 @@
 # T8mars/Comfyui-SenseNova-U1.5-Wrapper-T8
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/T8mars/Comfyui-SenseNova-U1.5-Wrapper-T8) · [官网](https://registry.comfy.org/nodes/sensenova-u15-t8) · 个人维护 · 中文 README
+⭐ 26 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/T8mars/Comfyui-SenseNova-U1.5-Wrapper-T8) · [官网](https://registry.comfy.org/nodes/sensenova-u15-t8) · 个人维护 · 中文 README
 
 **SenseNova U1.5 图像生成/多参考图编辑的 ComfyUI 原生节点**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "T8mars/Comfyui-SenseNova-U1.5-Wrapper-T8 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-11-20 25（+1）
+2026-10-19 24 → 2026-11-21 26（+2）
 
 
 ---

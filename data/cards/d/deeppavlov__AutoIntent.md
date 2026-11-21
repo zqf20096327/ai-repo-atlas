@@ -1,6 +1,6 @@
 # deeppavlov/AutoIntent
 
-⭐ 54 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/deeppavlov/AutoIntent) · [官网](https://deeppavlov.github.io/AutoIntent/) · 组织维护
+⭐ 55 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/deeppavlov/AutoIntent) · [官网](https://deeppavlov.github.io/AutoIntent/) · 组织维护
 
 **意图分类的 AutoML 库：自动配置文本分类流水线**
 
@@ -45,12 +45,12 @@ DeepPavlov 团队维护的开源工具，面向任务型对话系统中的意图
 ```mermaid
 xychart-beta
     title "deeppavlov/AutoIntent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 55]
 ```
 
-2026-10-18 53 → 2026-11-20 54（+1）
+2026-10-19 53 → 2026-11-21 55（+2）
 
 
 ---

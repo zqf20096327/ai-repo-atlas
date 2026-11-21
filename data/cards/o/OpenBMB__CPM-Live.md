@@ -1,6 +1,6 @@
 # OpenBMB/CPM-Live
 
-⭐ 503 · Python · 推送 2026-07-07 · [GitHub](https://github.com/OpenBMB/CPM-Live) · 组织维护 · 中文 README
+⭐ 502 · Python · 推送 2026-07-07 · [GitHub](https://github.com/OpenBMB/CPM-Live) · 组织维护 · 中文 README
 
 **开源大模型直播训练社区项目：实时展示并发布训练中的模型**
 
@@ -46,12 +46,12 @@ OpenBMB 发起的开源大模型实时训练项目：从 10B 规模模型开始�
 ```mermaid
 xychart-beta
     title "OpenBMB/CPM-Live 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-15", "2026-11-21"]
     y-axis "stars" 501 --> 504
-    line [503, 502, 503, 503]
+    line [503, 502, 503, 502]
 ```
 
-2026-10-18 503 → 2026-11-20 503（+0）
+2026-10-19 503 → 2026-11-21 502（-1）
 
 
 ---

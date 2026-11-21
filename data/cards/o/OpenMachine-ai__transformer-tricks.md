@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenMachine-ai/transformer-tricks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 232 --> 237
-    line [233, 234, 236, 236]
+    title "OpenMachine-ai/transformer-tricks 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 233 --> 237
+    line [234, 236, 236]
 ```
 
-2026-10-18 233 → 2026-11-20 236（+3）
+2026-10-19 234 → 2026-11-21 236（+2）
 
 
 ---

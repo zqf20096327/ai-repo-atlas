@@ -1,6 +1,6 @@
 # mishgoldenberg/clip-agent
 
-⭐ 6 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mishgoldenberg/clip-agent) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mishgoldenberg/clip-agent) · 个人维护
 
 **让 AI agent 运营游戏切片频道：找高光、剪辑竖屏短片、署名并排期发布**
 
@@ -41,6 +41,18 @@
 > L3: **An AI agent that runs a gaming clip channel for you: finds the best moments, edits them into original vertical sho
 > L17: conversation. Open the folder in Claude Code, tell the agent what you
 > L61: 3. **Edit:** the agent writes a small `plan.json` (segments, layout, hook, voiceover script), and FFmpeg
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mishgoldenberg/clip-agent 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 4 --> 7
+    line [6, 5]
+```
+
+2026-11-20 6 → 2026-11-21 5（-1）
 
 
 ---

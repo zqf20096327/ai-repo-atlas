@@ -1,6 +1,6 @@
 # moneo/laravel-rag
 
-⭐ 40 · PHP · MIT · 推送 2026-06-21 · [GitHub](https://github.com/moneo/laravel-rag) · [官网](https://moneo.com.tr/blog/rag-pipelines-now-native-to-laravel) · 个人维护
+⭐ 41 · PHP · MIT · 推送 2026-06-21 · [GitHub](https://github.com/moneo/laravel-rag) · [官网](https://moneo.com.tr/blog/rag-pipelines-now-native-to-laravel) · 个人维护
 
 **Laravel 应用的驱动式 RAG 管道包：检索增强生成全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moneo/laravel-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-11-20 40（+0）
+2026-10-19 40 → 2026-11-21 41（+1）
 
 
 ---

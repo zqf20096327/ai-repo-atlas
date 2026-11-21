@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EmaFanClub/EverMemoryArchive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-20 29（+0）
+2026-10-18 29 → 2026-11-21 29（+0）
 
 
 ---

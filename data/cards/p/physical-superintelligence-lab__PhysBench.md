@@ -44,13 +44,13 @@ ICLR 2025 论文 PhysBench 的官方仓库：提供 10,002 条测试条目与 20
 
 ```mermaid
 xychart-beta
-    title "physical-superintelligence-lab/PhysBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "physical-superintelligence-lab/PhysBench 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 92 --> 95
-    line [93, 94]
+    line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-11-20 94（+1）
+2026-10-19 93 → 2026-11-21 94（+1）
 
 
 ---

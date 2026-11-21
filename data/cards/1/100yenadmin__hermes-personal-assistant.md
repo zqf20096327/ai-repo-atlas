@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "100yenadmin/hermes-personal-assistant 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20"]
+    title "100yenadmin/hermes-personal-assistant 星数(近 5 点)"
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 9
-    line [3, 5, 6, 8]
+    line [3, 5, 6, 8, 8]
 ```
 
-2026-11-13 3 → 2026-11-20 8（+5）
+2026-11-13 3 → 2026-11-21 8（+5）
 
 
 ---

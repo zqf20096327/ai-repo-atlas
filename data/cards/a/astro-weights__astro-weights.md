@@ -1,6 +1,6 @@
 # astro-weights/astro-weights
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/astro-weights/astro-weights) · [官网](https://astro-weights.dev) · 个人维护
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/astro-weights/astro-weights) · [官网](https://astro-weights.dev) · 个人维护
 
 **对开源 LLM 权重做小型低秩编辑的工具库**
 
@@ -46,12 +46,12 @@ astro-weights 提供面向开源 LLM 权重编辑的 Python 工具集：从 nump
 ```mermaid
 xychart-beta
     title "astro-weights/astro-weights 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 3 --> 8
-    line [4, 6, 7, 7]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 3 --> 9
+    line [4, 6, 7, 8]
 ```
 
-2026-11-15 4 → 2026-11-20 7（+3）
+2026-11-15 4 → 2026-11-21 8（+4）
 
 
 ---

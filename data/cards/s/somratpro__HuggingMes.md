@@ -1,6 +1,6 @@
 # somratpro/HuggingMes
 
-⭐ 155 · JavaScript · MIT · 推送 2026-06-24 · [GitHub](https://github.com/somratpro/HuggingMes) · [官网](https://huggingface.co/spaces/somratpro/HuggingMes) · 个人维护
+⭐ 154 · JavaScript · MIT · 推送 2026-06-24 · [GitHub](https://github.com/somratpro/HuggingMes) · [官网](https://huggingface.co/spaces/somratpro/HuggingMes) · 个人维护
 
 **在 HuggingFace Spaces 上免费托管 Hermes AI agent 的自部署网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "somratpro/HuggingMes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 152 --> 156
-    line [153, 154, 153, 155, 155]
+    line [153, 154, 153, 155, 154]
 ```
 
-2026-10-18 153 → 2026-11-20 155（+2）
+2026-10-19 153 → 2026-11-21 154（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # shubhamV123/crisp
 
-⭐ 22 · Shell · MIT · 推送 2026-05-21 · [GitHub](https://github.com/shubhamV123/crisp) · 个人维护
+⭐ 23 · Shell · MIT · 推送 2026-05-21 · [GitHub](https://github.com/shubhamV123/crisp) · 个人维护
 
 **AI agent 的简洁输出技能：减少回复冗词但保留技术细节**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shubhamV123/crisp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 22, 22]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 22, 23]
 ```
 
-2026-10-18 19 → 2026-11-20 22（+3）
+2026-10-18 19 → 2026-11-21 23（+4）
 
 
 ---

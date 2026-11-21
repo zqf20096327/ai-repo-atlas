@@ -1,6 +1,6 @@
 # lightagent-lab/web-llm-gateways
 
-⭐ 13 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/lightagent-lab/web-llm-gateways) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/lightagent-lab/web-llm-gateways) · 个人维护 · 中文 README
 
 **把豆包/DeepSeek/Kimi 网页版会话包装成 OpenAI 兼容接口的网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lightagent-lab/web-llm-gateways 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-21"]
     y-axis "stars" 4 --> 14
-    line [5, 6, 7, 8, 6, 10, 11, 12, 13, 13]
+    line [5, 6, 7, 8, 6, 10, 11, 12, 13, 12]
 ```
 
-2026-10-18 5 → 2026-11-20 13（+8）
+2026-10-18 5 → 2026-11-21 12（+7）
 
 
 ---

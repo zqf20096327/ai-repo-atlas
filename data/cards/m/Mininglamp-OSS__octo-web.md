@@ -1,6 +1,6 @@
 # Mininglamp-OSS/octo-web
 
-⭐ 1,224 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Mininglamp-OSS/octo-web) · [官网](https://github.com/Mininglamp-OSS) · 组织维护 · 中文 README
+⭐ 1,225 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Mininglamp-OSS/octo-web) · [官网](https://github.com/Mininglamp-OSS) · 组织维护 · 中文 README
 
 **OCTO 人×AI agent 协作平台的 Web/桌面客户端**
 
@@ -46,12 +46,12 @@ OCTO 消息平台的 TypeScript/React 前端，同一 src/ 代码同时产出浏
 ```mermaid
 xychart-beta
     title "Mininglamp-OSS/octo-web 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 1207 --> 1225
-    line [1208, 1209, 1210, 1208, 1213, 1215, 1220, 1223, 1224, 1224]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 1207 --> 1226
+    line [1208, 1209, 1210, 1208, 1213, 1215, 1220, 1223, 1224, 1225]
 ```
 
-2026-10-18 1,208 → 2026-11-20 1,224（+16）
+2026-10-19 1,208 → 2026-11-21 1,225（+17）
 
 
 ---

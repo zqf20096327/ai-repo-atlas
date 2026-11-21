@@ -1,6 +1,6 @@
 # cohere-ai/rcp
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/cohere-ai/rcp) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/cohere-ai/rcp) · 组织维护
 
 **面向科研的 LLM 评判评测指标与流水线：RCP-nDCG**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cohere-ai/rcp 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-20"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-11-12", "2026-11-21"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-11-12 14 → 2026-11-20 14（+0）
+2026-11-12 14 → 2026-11-21 15（+1）
 
 
 ---

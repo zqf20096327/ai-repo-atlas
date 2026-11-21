@@ -1,6 +1,6 @@
 # MMMU-Benchmark/MMMU
 
-⭐ 602 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/MMMU-Benchmark/MMMU) · [官网](https://mmmu-benchmark.github.io/) · 组织维护 · 中文 README
+⭐ 601 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/MMMU-Benchmark/MMMU) · [官网](https://mmmu-benchmark.github.io/) · 组织维护 · 中文 README
 
 **多模态模型的多学科理解与推理评测基准（MMMU/MMMU-Pro）**
 
@@ -45,12 +45,12 @@ MMMU 及其加强版 MMMU-Pro 的官方评测代码仓库，配套 Hugging Face 
 ```mermaid
 xychart-beta
     title "MMMU-Benchmark/MMMU 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21"]
     y-axis "stars" 597 --> 603
-    line [598, 599, 600, 599, 600, 601, 602, 602]
+    line [598, 599, 600, 599, 600, 601, 602, 601]
 ```
 
-2026-10-18 598 → 2026-11-20 602（+4）
+2026-10-19 598 → 2026-11-21 601（+3）
 
 
 ---

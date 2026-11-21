@@ -1,6 +1,6 @@
 # mindspore-ai/community
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/mindspore-ai/community) · 组织维护 · 中文 README
+⭐ 68 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mindspore-ai/community) · 组织维护 · 中文 README
 
 **MindSpore 社区治理资料仓库：章程、CLA、行为准则等**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mindspore-ai/community 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-11-20 68（+0）
+2026-10-19 68 → 2026-11-21 68（+0）
 
 
 ---

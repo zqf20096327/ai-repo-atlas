@@ -1,6 +1,6 @@
 # ualberta-rcg/aleph
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ualberta-rcg/aleph) · [官网](https://www.ualberta.ca/en/information-services-and-technology/research-computing/index.html) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ualberta-rcg/aleph) · [官网](https://www.ualberta.ca/en/information-services-and-technology/research-computing/index.html) · 组织维护
 
 **科研推理集群：百余个科学与语言模型统一到一个兼容端点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ualberta-rcg/aleph 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 10 --> 15
     line [11, 12, 11, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-20 14（+3）
+2026-10-19 11 → 2026-11-21 14（+3）
 
 
 ---

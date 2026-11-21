@@ -1,6 +1,6 @@
 # umutyesildal/berlin-job-search
 
-⭐ 59 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/umutyesildal/berlin-job-search) · [官网](https://github.com/umutyesildal/berlin-job-search) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/umutyesildal/berlin-job-search) · [官网](https://github.com/umutyesildal/berlin-job-search) · 个人维护
 
 **面向德国（柏林优先）求职者的 AI 求职教练技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "umutyesildal/berlin-job-search 星数(近 15 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 0 --> 64
-    line [5, 9, 12, 13, 14, 15, 19, 23, 45, 51, 55, 56, 57, 58, 59]
+    title "umutyesildal/berlin-job-search 星数(近 16 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 0 --> 65
+    line [5, 9, 12, 13, 14, 15, 19, 23, 45, 51, 55, 56, 57, 58, 59, 60]
 ```
 
-2026-10-26 5 → 2026-11-20 59（+54）
+2026-10-26 5 → 2026-11-21 60（+55）
 
 
 ---

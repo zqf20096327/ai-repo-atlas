@@ -1,6 +1,6 @@
 # HannaMeyer/CAST
 
-⭐ 140 · R · 推送 2026-09-24 · [GitHub](https://github.com/HannaMeyer/CAST) · [官网](https://hannameyer.github.io/CAST/) · 组织维护
+⭐ 140 · R · 推送 2026-11-20 · [GitHub](https://github.com/HannaMeyer/CAST) · [官网](https://hannameyer.github.io/CAST/) · 组织维护
 
 **R 包：为时空数据的 caret 建模提供空间交叉验证与变量选择**
 
@@ -45,12 +45,12 @@ R 语言包，为机器学习框架 caret 补充空间与时空建模支持：�
 ```mermaid
 xychart-beta
     title "HannaMeyer/CAST 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
     y-axis "stars" 138 --> 141
     line [139, 140, 140]
 ```
 
-2026-10-18 139 → 2026-11-20 140（+1）
+2026-10-19 139 → 2026-11-21 140（+1）
 
 
 ---

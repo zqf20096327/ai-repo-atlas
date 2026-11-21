@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Audio-R1
 
-⭐ 702 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/stepfun-ai/Step-Audio-R1) · 组织维护 · 中文 README
+⭐ 703 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/stepfun-ai/Step-Audio-R1) · 组织维护 · 中文 README
 
 **阶跃开源的音频推理语言模型：语音理解与推理生成**
 
@@ -45,13 +45,13 @@ Step-Audio-R1 系列音频推理模型仓库，含 R1/R1.1/R1.5 三代：R1 基�
 
 ```mermaid
 xychart-beta
-    title "stepfun-ai/Step-Audio-R1 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 700 --> 705
-    line [701, 703, 704, 703, 704, 703, 702, 702]
+    title "stepfun-ai/Step-Audio-R1 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 701 --> 705
+    line [703, 704, 703, 704, 703, 702, 703]
 ```
 
-2026-10-18 701 → 2026-11-20 702（+1）
+2026-10-19 703 → 2026-11-21 703（+0）
 
 
 ---

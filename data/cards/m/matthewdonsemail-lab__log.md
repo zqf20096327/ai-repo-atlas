@@ -1,6 +1,6 @@
 # matthewdonsemail-lab/log
 
-⭐ 69 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/matthewdonsemail-lab/log) · [官网](https://log.listeningkit.com) · 组织维护
+⭐ 70 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/matthewdonsemail-lab/log) · [官网](https://log.listeningkit.com) · 组织维护
 
 **让 AI agent 从命令行/MCP 接管社媒账号的收发与回复工具**
 
@@ -45,13 +45,13 @@ ListeningKit 出品的开源 CLI 与 MCP 服务器（log 与 logMcp），支持�
 
 ```mermaid
 xychart-beta
-    title "matthewdonsemail-lab/log 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 34 --> 72
-    line [37, 49, 59, 61, 63, 67, 69]
+    title "matthewdonsemail-lab/log 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 34 --> 73
+    line [37, 49, 59, 61, 63, 67, 69, 70]
 ```
 
-2026-11-10 37 → 2026-11-20 69（+32）
+2026-11-10 37 → 2026-11-21 70（+33）
 
 
 ---

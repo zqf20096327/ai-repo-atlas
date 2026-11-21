@@ -40,6 +40,18 @@ Hugging Face 的 Claude Code 插件，把开源 ML 工程师 agent「ML Intern�
 > L13: - `/mlintern:setup` to verify local setup
 > L53: /plugin marketplace add huggingface/mlintern-plugin
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/mlintern-plugin 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `14f1de79e8d4` · [字段定义](../../DATASET.md)*

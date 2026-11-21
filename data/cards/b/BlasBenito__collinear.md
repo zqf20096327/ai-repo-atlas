@@ -1,6 +1,6 @@
 # BlasBenito/collinear
 
-⭐ 21 · R · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/BlasBenito/collinear) · [官网](https://blasbenito.github.io/collinear/) · 个人维护
+⭐ 21 · R · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/BlasBenito/collinear) · [官网](https://blasbenito.github.io/collinear/) · 个人维护
 
 **R 包：检测并过滤建模数据框中的多重共线性预测变量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BlasBenito/collinear 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-20 21（+0）
+2026-10-19 21 → 2026-11-21 21（+0）
 
 
 ---

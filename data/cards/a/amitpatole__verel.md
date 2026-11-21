@@ -1,6 +1,6 @@
 # amitpatole/verel
 
-⭐ 10 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/amitpatole/verel) · [官网](https://huggingface.co/spaces/amitpatole/verel) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/amitpatole/verel) · [官网](https://huggingface.co/spaces/amitpatole/verel) · 个人维护
 
 **以评分裁决为门槛的 agent 框架：动作须经验证才算完成**
 
@@ -47,12 +47,12 @@ Verel 是一个 Python 编写的 agent 框架，核心机制是 verdict bus：�
 ```mermaid
 xychart-beta
     title "amitpatole/verel 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-20 10（+0）
+2026-11-08 10 → 2026-11-21 11（+1）
 
 
 ---

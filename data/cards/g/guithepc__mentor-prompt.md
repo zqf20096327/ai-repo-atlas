@@ -1,6 +1,6 @@
 # guithepc/mentor-prompt
 
-⭐ 189 · 推送 2026-08-16 · [GitHub](https://github.com/guithepc/mentor-prompt) · 个人维护
+⭐ 188 · 推送 2026-08-16 · [GitHub](https://github.com/guithepc/mentor-prompt) · 个人维护
 
 **把 Claude 变成技术导师的提示词文件，逼你自己思考**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "guithepc/mentor-prompt 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20"]
+    title "guithepc/mentor-prompt 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 181 --> 190
-    line [182, 184, 185, 187, 188, 189]
+    line [182, 184, 185, 187, 188, 189, 188]
 ```
 
-2026-11-10 182 → 2026-11-20 189（+7）
+2026-11-10 182 → 2026-11-21 188（+6）
 
 
 ---

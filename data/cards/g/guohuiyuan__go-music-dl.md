@@ -1,6 +1,6 @@
 # guohuiyuan/go-music-dl
 
-⭐ 6,604 · Go · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/guohuiyuan/go-music-dl) · [官网](https://music.zkkp.nyc.mn) · 个人维护 · 中文 README
+⭐ 6,639 · Go · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/guohuiyuan/go-music-dl) · [官网](https://music.zkkp.nyc.mn) · 个人维护 · 中文 README
 
 **多端音乐搜索下载工具，提供 AI 可调用的播放器控制接口**
 
@@ -40,6 +40,18 @@
 > L7: Go Music DL 是一个多平台音乐搜索与下载工具，支持 **Web**、**TUI** 和**桌面端**，覆盖单曲、歌单、专辑、排行榜与本地音乐。它同时暴露了一套 AI 可调用的接口——**AI 可以直接操控你正开着的网页播放
 > L64: #### AI 可以直接操控网页播放器
 > L103: * **多端使用**：Web、TUI 终端和原生桌面应用，桌面端自动启动内置服务。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "guohuiyuan/go-music-dl 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 6601 --> 6642
+    line [6604, 6639]
+```
+
+2026-11-20 6,604 → 2026-11-21 6,639（+35）
 
 
 ---

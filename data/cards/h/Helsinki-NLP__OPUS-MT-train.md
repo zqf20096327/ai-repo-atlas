@@ -43,13 +43,13 @@ Helsinki-NLP 维护的 OPUS-MT 训练包：基于 MarianNMT 与 OPUS 平行语�
 
 ```mermaid
 xychart-beta
-    title "Helsinki-NLP/OPUS-MT-train 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 403 --> 406
-    line [405, 404, 404]
+    title "Helsinki-NLP/OPUS-MT-train 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 403 --> 405
+    line [404, 404]
 ```
 
-2026-10-18 405 → 2026-11-20 404（-1）
+2026-10-19 404 → 2026-11-21 404（+0）
 
 
 ---

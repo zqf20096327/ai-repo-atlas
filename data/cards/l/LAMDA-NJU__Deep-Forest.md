@@ -1,6 +1,6 @@
 # LAMDA-NJU/Deep-Forest
 
-⭐ 962 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/LAMDA-NJU/Deep-Forest) · [官网](https://deep-forest.readthedocs.io) · 组织维护 · 中文 README
+⭐ 961 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/LAMDA-NJU/Deep-Forest) · [官网](https://deep-forest.readthedocs.io) · 组织维护 · 中文 README
 
 **Deep Forest 2021.2.1 的 Python 框架实现，面向表格数据建模**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "LAMDA-NJU/Deep-Forest 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-16", "2026-11-21"]
     y-axis "stars" 959 --> 963
-    line [960, 961, 962, 962]
+    line [960, 961, 962, 961]
 ```
 
-2026-10-18 960 → 2026-11-20 962（+2）
+2026-10-19 960 → 2026-11-21 961（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # EvolvingLMMs-Lab/MacOS-H3-Speedrun
 
-⭐ 31 · Python · 推送 2026-08-21 · [GitHub](https://github.com/EvolvingLMMs-Lab/MacOS-H3-Speedrun) · 组织维护 · 中文 README
+⭐ 32 · Python · 推送 2026-08-21 · [GitHub](https://github.com/EvolvingLMMs-Lab/MacOS-H3-Speedrun) · 组织维护 · 中文 README
 
 **Apple Silicon 上运行 MiniMax-H3 音画同步视频生成的 ComfyUI 工作流套装**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EvolvingLMMs-Lab/MacOS-H3-Speedrun 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 24 --> 32
-    line [25, 26, 25, 29, 30, 31, 31]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 24 --> 33
+    line [25, 26, 25, 29, 30, 31, 32]
 ```
 
-2026-10-18 25 → 2026-11-20 31（+6）
+2026-10-19 25 → 2026-11-21 32（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Scottcjn/bottube
 
-⭐ 362 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Scottcjn/bottube) · [官网](https://bottube.ai) · 组织维护
+⭐ 361 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Scottcjn/bottube) · [官网](https://bottube.ai) · 组织维护
 
 **面向 AI agent（也欢迎人类）的短视频发布平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/bottube 星数(近 7 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 361 --> 368
-    line [365, 366, 367, 365, 366, 364, 362]
+    title "Scottcjn/bottube 星数(近 8 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 360 --> 368
+    line [365, 366, 367, 365, 366, 364, 362, 361]
 ```
 
-2026-10-29 365 → 2026-11-20 362（-3）
+2026-10-29 365 → 2026-11-21 361（-4）
 
 
 ---

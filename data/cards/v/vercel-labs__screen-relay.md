@@ -1,6 +1,6 @@
 # vercel-labs/screen-relay
 
-⭐ 215 · C++ · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/vercel-labs/screen-relay) · [官网](https://screen-relay.dev) · 组织维护
+⭐ 289 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/screen-relay) · [官网](https://screen-relay.dev) · 组织维护
 
 **给人类和 AI agent 用的低延迟桌面串流与控制工具**
 
@@ -39,6 +39,18 @@ screen-relay 在 Linux VM/沙箱/容器内启动桌面，或接入 Mac 显示器
 
 > L3: Desktop streaming and control for humans and AI agents: watch a desktop in a browser, and click, type, and take scre
 > L9: screen-relay starts a desktop on a Linux VM, sandbox, or container, or attaches to the display of a Mac or the signe
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vercel-labs/screen-relay 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 208 --> 296
+    line [215, 289]
+```
+
+2026-11-20 215 → 2026-11-21 289（+74）
 
 
 ---

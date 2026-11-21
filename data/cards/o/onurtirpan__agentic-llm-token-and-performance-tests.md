@@ -1,6 +1,6 @@
 # onurtirpan/agentic-llm-token-and-performance-tests
 
-⭐ 27 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/onurtirpan/agentic-llm-token-and-performance-tests) · [官网](https://onurtirpan.github.io/agentic-llm-token-and-performance-tests/) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/onurtirpan/agentic-llm-token-and-performance-tests) · [官网](https://onurtirpan.github.io/agentic-llm-token-and-performance-tests/) · 个人维护
 
 **面向 LLM 编码代理的 10 语言×3 规模 HTTP API 基准测试集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "onurtirpan/agentic-llm-token-and-performance-tests 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 24 --> 29
-    line [25, 26, 27, 28, 27, 26, 27, 27]
+    line [25, 26, 27, 28, 27, 26, 27, 28]
 ```
 
-2026-10-18 25 → 2026-11-20 27（+2）
+2026-10-18 25 → 2026-11-21 28（+3）
 
 
 ---

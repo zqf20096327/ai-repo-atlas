@@ -1,6 +1,6 @@
 # safe-graph/GNN-FakeNews
 
-⭐ 559 · Python · Apache-2.0 · 推送 2025-12-11 · [GitHub](https://github.com/safe-graph/GNN-FakeNews) · 组织维护
+⭐ 558 · Python · Apache-2.0 · 推送 2025-12-11 · [GitHub](https://github.com/safe-graph/GNN-FakeNews) · 组织维护
 
 **GNN 假新闻检测模型集合与 UPFD 数据集基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "safe-graph/GNN-FakeNews 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 555 --> 560
-    line [556, 557, 556, 557, 559, 559]
+    line [556, 557, 556, 557, 559, 558]
 ```
 
-2026-10-18 556 → 2026-11-20 559（+3）
+2026-10-19 556 → 2026-11-21 558（+2）
 
 
 ---

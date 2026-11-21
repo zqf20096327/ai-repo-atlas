@@ -1,6 +1,6 @@
 # yokingma/fetch-sse
 
-⭐ 31 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/yokingma/fetch-sse) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/yokingma/fetch-sse) · 个人维护
 
 **基于 fetch 的 SSE 请求库，供浏览器与 Node.js 消费事件流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yokingma/fetch-sse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 29 --> 32
+    line [31, 30]
 ```
 
-2026-10-18 31 → 2026-11-20 31（+0）
+2026-10-19 31 → 2026-11-21 30（-1）
 
 
 ---

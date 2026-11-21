@@ -1,6 +1,6 @@
 # Scorpioyyy/verichalk
 
-⭐ 6 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Scorpioyyy/verichalk) · [官网](https://verichalk.zeabur.app/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给小学数学老师：生成答案经核验、不超纲的题目与试卷**
 
@@ -11,7 +11,7 @@ VeriChalk 是面向小学数学教师的出题 Agent：接受一句话描述或�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

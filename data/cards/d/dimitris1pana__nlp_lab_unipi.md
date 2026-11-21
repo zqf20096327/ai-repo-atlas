@@ -1,6 +1,6 @@
 # dimitris1pana/nlp_lab_unipi
 
-⭐ 10 · Jupyter Notebook · 推送 2026-05-22 · [GitHub](https://github.com/dimitris1pana/nlp_lab_unipi) · 组织维护
+⭐ 11 · Jupyter Notebook · 推送 2026-05-22 · [GitHub](https://github.com/dimitris1pana/nlp_lab_unipi) · 组织维护
 
 **皮雷埃夫斯大学 NLP 课程的教学代码仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dimitris1pana/nlp_lab_unipi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

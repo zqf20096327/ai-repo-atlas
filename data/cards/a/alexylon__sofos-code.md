@@ -1,6 +1,6 @@
 # alexylon/sofos-code
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/alexylon/sofos-code) · 个人维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/alexylon/sofos-code) · 个人维护
 
 **面向软件开发者的终端 AI 编码助手，接入 Claude/OpenAI 与本地工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "alexylon/sofos-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

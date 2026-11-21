@@ -1,6 +1,6 @@
 # kaijiabo/open-sunsama
 
-⭐ 177 · TypeScript · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/kaijiabo/open-sunsama) · [官网](https://opensunsama.com) · 个人维护
+⭐ 179 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/kaijiabo/open-sunsama) · [官网](https://opensunsama.com) · 个人维护
 
 **可被 Claude/ChatGPT 经 MCP 操控的开源自托管日计划工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kaijiabo/open-sunsama 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 154 --> 179
-    line [156, 162, 165, 167, 169, 173, 174, 177, 177]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 154 --> 181
+    line [156, 162, 165, 167, 169, 173, 174, 177, 179]
 ```
 
-2026-11-08 156 → 2026-11-20 177（+21）
+2026-11-08 156 → 2026-11-21 179（+23）
 
 
 ---

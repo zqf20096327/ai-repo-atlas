@@ -1,6 +1,6 @@
 # rakeshnitb23/toolism
 
-⭐ 54 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rakeshnitb23/toolism) · [官网](https://pypi.org/project/toolism/) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/rakeshnitb23/toolism) · [官网](https://pypi.org/project/toolism/) · 个人维护
 
 **测量并安全削减 LLM 工具/MCP schema 的 token 成本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rakeshnitb23/toolism 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 8 --> 58
     line [12, 21, 41, 49, 50, 52, 53, 21, 54, 54]
 ```
 
-2026-10-24 12 → 2026-11-20 54（+42）
+2026-10-24 12 → 2026-11-21 54（+42）
 
 
 ---

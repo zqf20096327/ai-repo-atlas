@@ -1,6 +1,6 @@
 # jurriaan/aico
 
-⭐ 14 · Rust · MIT · 推送 2026-09-25 · [GitHub](https://github.com/jurriaan/aico) · 个人维护
+⭐ 15 · Rust · MIT · 推送 2026-09-25 · [GitHub](https://github.com/jurriaan/aico) · 个人维护
 
 **面向软件工程的 LLM 命令行客户端：生成可审查的代码补丁**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jurriaan/aico 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-18 14 → 2026-11-21 15（+1）
 
 
 ---

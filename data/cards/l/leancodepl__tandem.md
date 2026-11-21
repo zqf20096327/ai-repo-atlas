@@ -1,6 +1,6 @@
 # leancodepl/tandem
 
-⭐ 10 · Dart · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/leancodepl/tandem) · [官网](https://pub.dev/packages/tandem) · 组织维护
+⭐ 10 · Dart · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/leancodepl/tandem) · [官网](https://pub.dev/packages/tandem) · 组织维护
 
 **Flutter 包：让 AI agent 与用户在同一屏幕协作操作应用**
 
@@ -44,13 +44,13 @@ tandem 是一个 Flutter/Dart 包，开发者在状态类上声明 agent 可读�
 
 ```mermaid
 xychart-beta
-    title "leancodepl/tandem 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-20"]
+    title "leancodepl/tandem 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 5 --> 11
-    line [6, 7, 9, 10]
+    line [6, 7, 9, 10, 10]
 ```
 
-2026-10-19 6 → 2026-11-20 10（+4）
+2026-10-19 6 → 2026-11-21 10（+4）
 
 
 ---

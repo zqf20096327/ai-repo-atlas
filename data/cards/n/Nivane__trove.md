@@ -1,6 +1,6 @@
 # Nivane/trove
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Nivane/trove) · [官网](https://nivane.github.io/trove/) · 个人维护 · 中文 README
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Nivane/trove) · [官网](https://nivane.github.io/trove/) · 个人维护 · 中文 README
 
 **面向业务方的自托管 AI 数据决策智能体：问数、分析、决策、行动**
 
@@ -47,12 +47,12 @@ Trove 是开源、自托管的 AI 原生数据决策智能体：自然语言提�
 ```mermaid
 xychart-beta
     title "Nivane/trove 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

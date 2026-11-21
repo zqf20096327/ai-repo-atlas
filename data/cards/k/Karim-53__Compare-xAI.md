@@ -1,6 +1,6 @@
 # Karim-53/Compare-xAI
 
-⭐ 14 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/Karim-53/Compare-xAI) · [官网](https://karim-53.github.io/cxai/) · 个人维护
+⭐ 14 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Karim-53/Compare-xAI) · [官网](https://karim-53.github.io/cxai/) · 个人维护
 
 **XAI 方法统一评测基准：功能测试比较 SHAP、LIME 等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Karim-53/Compare-xAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 14（+0）
 
 
 ---

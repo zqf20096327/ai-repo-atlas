@@ -47,12 +47,12 @@ NASO 监控泄露语料、Paste 站点、公开 GitHub、Telegram 频道与 onio
 ```mermaid
 xychart-beta
     title "fabriziosalmi/naso 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-20"]
+    x-axis ["2026-10-26", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-20 10（+0）
+2026-10-26 10 → 2026-11-21 10（+0）
 
 
 ---

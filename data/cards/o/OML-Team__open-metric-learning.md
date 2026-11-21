@@ -1,6 +1,6 @@
 # OML-Team/open-metric-learning
 
-⭐ 1,000 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/OML-Team/open-metric-learning) · [官网](https://open-metric-learning.readthedocs.io/en/latest/index.html) · 组织维护 · 中文 README
+⭐ 999 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/OML-Team/open-metric-learning) · [官网](https://open-metric-learning.readthedocs.io/en/latest/index.html) · 组织维护 · 中文 README
 
 **PyTorch 度量学习框架：训练嵌入模型并构建检索流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OML-Team/open-metric-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 997 --> 1001
-    line [998, 999, 1000, 1000]
+    line [998, 999, 1000, 999]
 ```
 
-2026-10-18 998 → 2026-11-20 1,000（+2）
+2026-10-19 998 → 2026-11-21 999（+1）
 
 
 ---

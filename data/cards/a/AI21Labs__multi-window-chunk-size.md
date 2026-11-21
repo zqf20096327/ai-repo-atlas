@@ -45,12 +45,12 @@ AI21 Labs 发布的示例仓库，通过 Jupyter notebook 演示多尺度检索�
 ```mermaid
 xychart-beta
     title "AI21Labs/multi-window-chunk-size 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 11（+0）
 
 
 ---

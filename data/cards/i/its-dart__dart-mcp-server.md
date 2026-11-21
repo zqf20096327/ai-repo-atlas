@@ -1,6 +1,6 @@
 # its-dart/dart-mcp-server
 
-⭐ 128 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/its-dart/dart-mcp-server) · 组织维护
+⭐ 129 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/its-dart/dart-mcp-server) · 组织维护
 
 **Dart AI 项目管理工具的官方 MCP 服务器（已弃用本地版）**
 
@@ -45,12 +45,12 @@ Dart（AI 驱动的项目管理产品）的官方 Model Context Protocol 服务�
 ```mermaid
 xychart-beta
     title "its-dart/dart-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 127 --> 130
+    line [128, 129]
 ```
 
-2026-10-18 128 → 2026-11-20 128（+0）
+2026-10-19 128 → 2026-11-21 129（+1）
 
 
 ---

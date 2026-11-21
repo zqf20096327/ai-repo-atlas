@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/niulai-video-generator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
+    title "liyupi/niulai-video-generator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 36 --> 39
-    line [37, 38, 37]
+    line [37, 38, 37, 37]
 ```
 
-2026-10-18 37 → 2026-11-20 37（+0）
+2026-10-18 37 → 2026-11-21 37（+0）
 
 
 ---

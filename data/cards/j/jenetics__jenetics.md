@@ -1,6 +1,6 @@
 # jenetics/jenetics
 
-⭐ 910 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/jenetics/jenetics) · [官网](https://jenetics.io) · 组织维护
+⭐ 911 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/jenetics/jenetics) · [官网](https://jenetics.io) · 组织维护
 
 **Java 遗传算法/进化计算与多目标优化库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jenetics/jenetics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    title "jenetics/jenetics 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 909 --> 912
-    line [910, 911, 910]
+    line [910, 911, 910, 911]
 ```
 
-2026-10-18 910 → 2026-11-20 910（+0）
+2026-10-19 910 → 2026-11-21 911（+1）
 
 
 ---

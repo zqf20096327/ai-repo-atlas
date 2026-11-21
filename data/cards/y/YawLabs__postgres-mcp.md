@@ -1,6 +1,6 @@
 # YawLabs/postgres-mcp
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/YawLabs/postgres-mcp) · [官网](https://yaw.sh/mcp-servers/postgres-mcp/) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/YawLabs/postgres-mcp) · [官网](https://yaw.sh/mcp-servers/postgres-mcp/) · 组织维护
 
 **面向 AI agent 的 PostgreSQL MCP 服务器：查询、检查、诊断数据库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YawLabs/postgres-mcp 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-20"]
+    title "YawLabs/postgres-mcp 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 13
-    line [10, 12]
+    line [10, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-20 12（+2）
+2026-10-24 10 → 2026-11-21 12（+2）
 
 
 ---

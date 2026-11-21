@@ -1,6 +1,6 @@
 # mohsenhariri/scorio
 
-⭐ 24 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/mohsenhariri/scorio) · [官网](https://mohsenhariri.github.io/scorio/) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mohsenhariri/scorio) · [官网](https://mohsenhariri.github.io/scorio/) · 个人维护
 
 **LLM 统计学评测与排名框架：贝叶斯评测、排名与答案聚合**
 
@@ -45,12 +45,12 @@ Bayes@N（ICLR 2026）与 Ranking Reasoning LLMs（ACL 2026）论文的配套实
 ```mermaid
 xychart-beta
     title "mohsenhariri/scorio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-20 24（+1）
+2026-10-18 23 → 2026-11-21 24（+1）
 
 
 ---

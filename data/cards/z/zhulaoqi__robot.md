@@ -42,6 +42,18 @@
 > L22: - 📚 **RAG 知识库** - 基于向量数据库的检索增强生成，提供专业领域问答
 > L112: - **Langchain4j 1.0.1** - Java AI 开发框架
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zhulaoqi/robot 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `8f4703567289` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ redline-tiny 是一个面向配备 AMD XDNA2 NPU 的 Windows 11 笔记本的本�
 ```mermaid
 xychart-beta
     title "Cukrus-directive/redline-tiny 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 7 --> 9
     line [8, 8]
 ```
 
-2026-11-08 8 → 2026-11-20 8（+0）
+2026-11-08 8 → 2026-11-21 8（+0）
 
 
 ---

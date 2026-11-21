@@ -1,6 +1,6 @@
 # weixijia/mas-office
 
-⭐ 105 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/weixijia/mas-office) · [官网](https://www.xijiawei.com/mas-office/) · 个人维护 · 中文 README
+⭐ 93 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/weixijia/mas-office) · [官网](https://www.xijiawei.com/mas-office/) · 个人维护 · 中文 README
 
 **多智能体系统可视化运行框架：设计、监督并核查 AI 团队**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "weixijia/mas-office 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21"]
     y-axis "stars" 6 --> 114
-    line [15, 46, 56, 65, 75, 85, 98, 105, 105]
+    line [15, 46, 56, 65, 75, 85, 98, 105, 93]
 ```
 
-2026-11-08 15 → 2026-11-20 105（+90）
+2026-11-08 15 → 2026-11-21 93（+78）
 
 
 ---

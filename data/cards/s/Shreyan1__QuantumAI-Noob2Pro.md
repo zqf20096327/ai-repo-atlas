@@ -1,6 +1,6 @@
 # Shreyan1/QuantumAI-Noob2Pro
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Shreyan1/QuantumAI-Noob2Pro) · 个人维护
+⭐ 21 · Jupyter Notebook · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Shreyan1/QuantumAI-Noob2Pro) · 个人维护
 
 **量子机器学习入门到进阶的练习题与学习路径教程仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Shreyan1/QuantumAI-Noob2Pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-11-20 20（+0）
+2026-10-19 20 → 2026-11-21 21（+1）
 
 
 ---

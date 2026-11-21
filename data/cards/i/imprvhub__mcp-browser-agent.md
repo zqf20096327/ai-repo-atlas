@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "imprvhub/mcp-browser-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 43]
+    title "imprvhub/mcp-browser-agent 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-20 43（+2）
+2026-10-19 42 → 2026-11-21 43（+1）
 
 
 ---

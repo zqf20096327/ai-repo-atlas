@@ -1,6 +1,6 @@
 # MinishLab/vicinity
 
-⭐ 353 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/MinishLab/vicinity) · [官网](https://minish.ai/packages/vicinity/introduction) · 组织维护
+⭐ 352 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/MinishLab/vicinity) · [官网](https://minish.ai/packages/vicinity/introduction) · 组织维护
 
 **轻量向量检索库：统一接口适配多种近邻搜索后端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MinishLab/vicinity 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21"]
     y-axis "stars" 350 --> 354
-    line [351, 352, 351, 352, 353, 353]
+    line [351, 352, 351, 352, 353, 352]
 ```
 
-2026-10-18 351 → 2026-11-20 353（+2）
+2026-10-19 351 → 2026-11-21 352（+1）
 
 
 ---

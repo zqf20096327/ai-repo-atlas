@@ -1,6 +1,6 @@
 # aaryansamanta/ai-research-publications
 
-⭐ 664 · HTML · 推送 2026-11-15 · [GitHub](https://github.com/aaryansamanta/ai-research-publications) · [官网](https://aaryansamanta.github.io/) · 个人维护
+⭐ 664 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/aaryansamanta/ai-research-publications) · [官网](https://aaryansamanta.github.io/) · 个人维护
 
 **高中生 AI/计算生物研究作品集：2 篇已发表论文+3 个在研项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aaryansamanta/ai-research-publications 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-21"]
     y-axis "stars" 662 --> 668
     line [667, 665, 663, 664, 664]
 ```
 
-2026-10-18 667 → 2026-11-20 664（-3）
+2026-10-19 667 → 2026-11-21 664（-3）
 
 
 ---

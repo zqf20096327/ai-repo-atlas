@@ -44,13 +44,13 @@ Windows 桌面应用，内置 ComfyUI 以无头子进程方式本地运行，通
 
 ```mermaid
 xychart-beta
-    title "dougliell/Cheapsfield 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
+    title "dougliell/Cheapsfield 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 4 --> 11
-    line [5, 9, 10]
+    line [5, 9, 10, 10]
 ```
 
-2026-11-02 5 → 2026-11-20 10（+5）
+2026-11-02 5 → 2026-11-21 10（+5）
 
 
 ---

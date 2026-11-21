@@ -1,6 +1,6 @@
 # sinabs/spring-agent-scope
 
-⭐ 98 · Java · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/sinabs/spring-agent-scope) · 组织维护 · 中文 README
+⭐ 99 · Java · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/sinabs/spring-agent-scope) · 组织维护 · 中文 README
 
 **给 Java 开发者的 Spring Boot agent 服务脚手架：多轮对话、会话隔离**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sinabs/spring-agent-scope 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 93 --> 99
-    line [94, 98, 98]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 93 --> 100
+    line [94, 98, 99]
 ```
 
-2026-11-08 94 → 2026-11-20 98（+4）
+2026-11-08 94 → 2026-11-21 99（+5）
 
 
 ---

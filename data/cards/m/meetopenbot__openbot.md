@@ -1,6 +1,6 @@
 # meetopenbot/openbot
 
-⭐ 353 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/meetopenbot/openbot) · [官网](https://www.getopenbot.com/) · 个人维护
+⭐ 354 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/meetopenbot/openbot) · [官网](https://www.getopenbot.com/) · 个人维护
 
 **本地优先的 AI agent 运行环境，含事件 API 与本地存储**
 
@@ -44,13 +44,13 @@ OpenBot 是一个 local-first 的 AI agent 运行 harness：在本地启动 agen
 
 ```mermaid
 xychart-beta
-    title "meetopenbot/openbot 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 342 --> 354
-    line [343, 344, 345, 346, 344, 347, 349, 351, 352, 353]
+    title "meetopenbot/openbot 星数(近 11 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 342 --> 355
+    line [343, 344, 345, 346, 344, 347, 349, 351, 352, 353, 354]
 ```
 
-2026-10-18 343 → 2026-11-20 353（+10）
+2026-10-19 343 → 2026-11-21 354（+11）
 
 
 ---

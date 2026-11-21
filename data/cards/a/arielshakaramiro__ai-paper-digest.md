@@ -1,6 +1,6 @@
 # arielshakaramiro/ai-paper-digest
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/arielshakaramiro/ai-paper-digest) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/arielshakaramiro/ai-paper-digest) · 个人维护
 
 **自动抓取 arXiv 论文并每日生成双语 AI 研究摘要**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arielshakaramiro/ai-paper-digest 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 2 --> 11
-    line [3, 5, 7, 8, 5, 9, 10, 10]
+    title "arielshakaramiro/ai-paper-digest 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 4 --> 11
+    line [5, 7, 8, 5, 9, 10, 10]
 ```
 
-2026-10-18 3 → 2026-11-20 10（+7）
+2026-10-19 5 → 2026-11-21 10（+5）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeljkoavramovic/agentic-design-patterns 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 125 --> 130
-    line [126, 127, 128, 129, 129]
+    title "zeljkoavramovic/agentic-design-patterns 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 126 --> 130
+    line [127, 128, 129, 129]
 ```
 
-2026-10-18 126 → 2026-11-20 129（+3）
+2026-10-19 127 → 2026-11-21 129（+2）
 
 
 ---

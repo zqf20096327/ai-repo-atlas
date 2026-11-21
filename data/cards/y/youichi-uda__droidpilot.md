@@ -47,12 +47,12 @@ DroidPilot 由两部分组成：Android 端 APK（Kotlin 编写）通过系统�
 ```mermaid
 xychart-beta
     title "youichi-uda/droidpilot 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-20 10（+0）
+2026-11-10 10 → 2026-11-21 10（+0）
 
 
 ---

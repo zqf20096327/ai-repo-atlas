@@ -1,6 +1,6 @@
 # PlutoLei/paperbanana-skill
 
-⭐ 62 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/PlutoLei/paperbanana-skill) · [官网](https://github.com/PlutoLei/paperbanana-skill#quick-start) · 个人维护 · 中文 README
+⭐ 64 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/PlutoLei/paperbanana-skill) · [官网](https://github.com/PlutoLei/paperbanana-skill#quick-start) · 个人维护 · 中文 README
 
 **给科研者的 agent 技能集：生成学术图表与可编辑 PPT**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PlutoLei/paperbanana-skill 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 53 --> 63
-    line [54, 55, 56, 57, 58, 59, 60, 55, 60, 61, 62, 62]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 53 --> 65
+    line [54, 55, 56, 57, 58, 59, 60, 55, 60, 61, 62, 64]
 ```
 
-2026-10-18 54 → 2026-11-20 62（+8）
+2026-10-19 54 → 2026-11-21 64（+10）
 
 
 ---

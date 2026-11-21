@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-cli
 
-⭐ 305 · TypeScript · LGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/SonarSource/sonarqube-cli) · [官网](https://cli.sonarqube.com/) · 组织维护
+⭐ 305 · TypeScript · LGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/SonarSource/sonarqube-cli) · [官网](https://cli.sonarqube.com/) · 组织维护
 
 **SonarQube 官方命令行工具：终端内做代码质量与密钥扫描，并接入 AI 编码代理**
 
@@ -45,13 +45,13 @@ SonarSource 发布的 CLI，面向使用 SonarQube Cloud 或自托管 Server（v
 
 ```mermaid
 xychart-beta
-    title "SonarSource/sonarqube-cli 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 288 --> 306
-    line [289, 290, 291, 293, 294, 298, 300, 293, 302, 304, 305, 305]
+    title "SonarSource/sonarqube-cli 星数(近 11 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 289 --> 306
+    line [290, 291, 293, 294, 298, 300, 293, 302, 304, 305, 305]
 ```
 
-2026-10-18 289 → 2026-11-20 305（+16）
+2026-10-19 290 → 2026-11-21 305（+15）
 
 
 ---

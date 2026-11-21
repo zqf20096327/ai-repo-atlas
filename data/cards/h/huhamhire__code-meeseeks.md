@@ -1,6 +1,6 @@
 # huhamhire/code-meeseeks
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/huhamhire/code-meeseeks) · [官网](https://huhamhire.github.io/code-meeseeks/) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huhamhire/code-meeseeks) · [官网](https://huhamhire.github.io/code-meeseeks/) · 个人维护 · 中文 README
 
 **面向个人评审者的本地 AI 代码评审桌面客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huhamhire/code-meeseeks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-20 20（+0）
+2026-10-18 20 → 2026-11-21 20（+0）
 
 
 ---

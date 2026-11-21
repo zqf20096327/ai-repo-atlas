@@ -1,6 +1,6 @@
 # zyygkg/deepseek-harness-harness
 
-⭐ 6 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/zyygkg/deepseek-harness-harness) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/zyygkg/deepseek-harness-harness) · 个人维护 · 中文 README
 
 **DSH agent 插件：经已登录浏览器调用免费网页版 DeepSeek，无需 API key**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）的插件，注册单一工具 web_deepseek_solve：把
 ```mermaid
 xychart-beta
     title "zyygkg/deepseek-harness-harness 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 6]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-10-19 3 → 2026-11-20 6（+3）
+2026-10-19 3 → 2026-11-21 7（+4）
 
 
 ---

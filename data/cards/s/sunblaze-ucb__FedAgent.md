@@ -1,6 +1,6 @@
 # sunblaze-ucb/FedAgent
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/sunblaze-ucb/FedAgent) · [官网](https://fed-agent.github.io) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/sunblaze-ucb/FedAgent) · [官网](https://fed-agent.github.io) · 组织维护
 
 **面向研究者的 LLM agent 联邦强化学习训练库（verl 之上的轻量覆盖层）**
 
@@ -46,12 +46,12 @@ FedAgent 是用于 LLM agent 联邦强化学习训练的 Python 库：在 verl 0
 ```mermaid
 xychart-beta
     title "sunblaze-ucb/FedAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-20 21（+0）
+2026-10-18 21 → 2026-11-21 22（+1）
 
 
 ---

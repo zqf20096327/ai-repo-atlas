@@ -1,6 +1,6 @@
 # ziggy-data/Brazilian-Real-Estate-Intelligence
 
-⭐ 41 · Python · 推送 2026-04-19 · [GitHub](https://github.com/ziggy-data/Brazilian-Real-Estate-Intelligence) · 个人维护
+⭐ 42 · Python · 推送 2026-04-19 · [GitHub](https://github.com/ziggy-data/Brazilian-Real-Estate-Intelligence) · 个人维护
 
 **巴西 Zap 房产网站爬取、ETL 与房价线性回归分析项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ziggy-data/Brazilian-Real-Estate-Intelligence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-19", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42]
 ```
 
-2026-10-18 40 → 2026-11-20 41（+1）
+2026-10-19 40 → 2026-11-21 42（+2）
 
 
 ---

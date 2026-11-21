@@ -1,6 +1,6 @@
 # UnknownEnergy/chatgpt-api
 
-⭐ 105 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/UnknownEnergy/chatgpt-api) · [官网](https://www.chatworm.com) · 个人维护
+⭐ 106 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/UnknownEnergy/chatgpt-api) · [官网](https://www.chatworm.com) · 个人维护
 
 **网页/移动端 ChatGPT 类对话客户端：直连多家模型 API**
 
@@ -44,12 +44,12 @@ Chatworm 是一个单页应用（SPA），用户通过 Web、Android、Windows �
 ```mermaid
 xychart-beta
     title "UnknownEnergy/chatgpt-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 104 --> 107
+    line [105, 106]
 ```
 
-2026-10-18 105 → 2026-11-20 105（+0）
+2026-10-19 105 → 2026-11-21 106（+1）
 
 
 ---

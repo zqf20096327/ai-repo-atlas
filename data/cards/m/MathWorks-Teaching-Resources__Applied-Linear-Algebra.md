@@ -1,6 +1,6 @@
 # MathWorks-Teaching-Resources/Applied-Linear-Algebra
 
-⭐ 23 · MATLAB · BSD-3-Clause · 推送 2026-11-05 · [GitHub](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra) · 组织维护
+⭐ 24 · MATLAB · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra) · 组织维护
 
 **MATLAB 线性代数教学模块：以化学、隐写、力学与机器学习应用教学**
 
@@ -46,12 +46,12 @@ MathWorks 教学团队制作的线性代数课程模块，由多个交互式 MAT
 ```mermaid
 xychart-beta
     title "MathWorks-Teaching-Resources/Applied-Linear-Algebra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-20 23（+0）
+2026-10-19 23 → 2026-11-21 24（+1）
 
 
 ---

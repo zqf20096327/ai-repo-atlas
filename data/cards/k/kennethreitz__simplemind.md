@@ -1,6 +1,6 @@
 # kennethreitz/simplemind
 
-⭐ 543 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/kennethreitz/simplemind) · [官网](https://pypi.org/project/simplemind/) · 个人维护
+⭐ 542 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/kennethreitz/simplemind) · [官网](https://pypi.org/project/simplemind/) · 个人维护
 
 **给开发者的多 AI 供应商统一 Python 客户端库**
 
@@ -45,13 +45,13 @@ Python 库，为多家 AI 提供商（Anthropic Claude、Amazon Bedrock、Deepse
 
 ```mermaid
 xychart-beta
-    title "kennethreitz/simplemind 星数(近 6 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-20"]
+    title "kennethreitz/simplemind 星数(近 7 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-21"]
     y-axis "stars" 536 --> 544
-    line [537, 538, 539, 540, 541, 543]
+    line [537, 538, 539, 540, 541, 543, 542]
 ```
 
-2026-10-30 537 → 2026-11-20 543（+6）
+2026-10-30 537 → 2026-11-21 542（+5）
 
 
 ---

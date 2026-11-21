@@ -1,6 +1,6 @@
 # thetahealth/ironm
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/thetahealth/ironm) · [官网](https://test-ironm.mirobody.ai) · 组织维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/thetahealth/ironm) · [官网](https://ironm.mirobody.ai) · 组织维护 · 中文 README
 
 **面向健身用户的 AI 教练：整合训练、饮食、睡眠数据给出个性化方案**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "thetahealth/ironm 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 7 --> 10
-    line [8, 9]
+    title "thetahealth/ironm 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-19 8 → 2026-11-20 9（+1）
+2026-11-19 8 → 2026-11-21 10（+2）
 
 
 ---

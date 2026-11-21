@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aliyun/alibabacloud-agent-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 27 --> 34
-    line [28, 29, 32, 33, 33]
+    title "aliyun/alibabacloud-agent-toolkit 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 28 --> 34
+    line [29, 32, 33, 33]
 ```
 
-2026-10-18 28 → 2026-11-20 33（+5）
+2026-10-19 29 → 2026-11-21 33（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # bmigette/BA2TradePlatform
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/bmigette/BA2TradePlatform) · 个人维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/bmigette/BA2TradePlatform) · 个人维护
 
 **算法交易平台：多专家自动交易与回测优化（Alpha）**
 
@@ -45,12 +45,12 @@ Python 单仓多包结构的算法交易平台，含两个应用：ba2-trade 是
 ```mermaid
 xychart-beta
     title "bmigette/BA2TradePlatform 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-19 12 → 2026-11-21 12（+0）
 
 
 ---

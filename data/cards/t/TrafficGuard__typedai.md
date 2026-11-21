@@ -1,6 +1,6 @@
 # TrafficGuard/typedai
 
-⭐ 1,197 · TypeScript · MIT · 推送 2025-12-22 · [GitHub](https://github.com/TrafficGuard/typedai) · [官网](https://typedai.dev) · 组织维护
+⭐ 1,196 · TypeScript · MIT · 推送 2025-12-22 · [GitHub](https://github.com/TrafficGuard/typedai) · [官网](https://typedai.dev) · 组织维护
 
 **TypeScript 开发者的 AI agent 与 LLM 工作流平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TrafficGuard/typedai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
     y-axis "stars" 1195 --> 1199
-    line [1197, 1196, 1197, 1196, 1198, 1197, 1197]
+    line [1197, 1196, 1197, 1196, 1198, 1197, 1196]
 ```
 
-2026-10-18 1,197 → 2026-11-20 1,197（+0）
+2026-10-18 1,197 → 2026-11-21 1,196（-1）
 
 
 ---

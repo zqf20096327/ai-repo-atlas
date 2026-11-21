@@ -43,13 +43,13 @@ Lore 是一个用 Rust 编写的命令行工具，在 Git 之上存储每次代�
 
 ```mermaid
 xychart-beta
-    title "AvraamMavridis/lore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "AvraamMavridis/lore 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-19 13 → 2026-11-21 13（+0）
 
 
 ---

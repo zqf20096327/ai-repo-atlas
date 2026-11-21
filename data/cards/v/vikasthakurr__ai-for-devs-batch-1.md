@@ -39,6 +39,18 @@ AI for Developers 课程仓库，内容涵盖 AI 工具使用、提示工程、a
 > L14: AI for Developers curriculum — mastering AI tools, prompt engineering, agentic workflows, and vibe coding for 10x e
 > L20: - **End-to-End Implementation:** Hands-on labs progressing from UI wireframing to database integration.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vikasthakurr/ai-for-devs-batch-1 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-20 25 → 2026-11-21 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `f4d1cbf23d09` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # databio/geniml
 
-⭐ 22 · Python · BSD-2-Clause · 推送 2026-10-28 · [GitHub](https://github.com/databio/geniml) · [官网](https://docs.bedbase.org/geniml/) · 组织维护
+⭐ 22 · Python · BSD-2-Clause · 推送 2026-11-20 · [GitHub](https://github.com/databio/geniml) · [官网](https://docs.bedbase.org/geniml/) · 组织维护
 
 **基因组区间数据（BED 文件）机器学习建模的 Python 包**
 
@@ -43,12 +43,12 @@ databio 实验室维护的 Python 包，用于对基因组区间数据（BED 文
 ```mermaid
 xychart-beta
     title "databio/geniml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-20 22（+0）
+2026-10-19 22 → 2026-11-21 22（+0）
 
 
 ---

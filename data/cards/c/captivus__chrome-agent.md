@@ -1,6 +1,6 @@
 # captivus/chrome-agent
 
-⭐ 310 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/captivus/chrome-agent) · [官网](https://pypi.org/project/chrome-agent/) · 个人维护
+⭐ 310 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/captivus/chrome-agent) · [官网](https://pypi.org/project/chrome-agent/) · 个人维护
 
 **让 AI 编码 Agent 直接通过 CDP 观察和操作 Chrome 的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "captivus/chrome-agent 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-16", "2026-11-21"]
     y-axis "stars" 309 --> 311
     line [310, 310]
 ```
 
-2026-11-16 310 → 2026-11-20 310（+0）
+2026-11-16 310 → 2026-11-21 310（+0）
 
 
 ---

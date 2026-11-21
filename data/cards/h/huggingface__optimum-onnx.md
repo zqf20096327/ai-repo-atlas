@@ -44,12 +44,12 @@ Hugging Face Optimum 的 ONNX 扩展：支持将 Transformers、Diffusers、Timm
 ```mermaid
 xychart-beta
     title "huggingface/optimum-onnx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
     y-axis "stars" 160 --> 164
     line [161, 162, 163, 163]
 ```
 
-2026-10-18 161 → 2026-11-20 163（+2）
+2026-10-19 161 → 2026-11-21 163（+2）
 
 
 ---

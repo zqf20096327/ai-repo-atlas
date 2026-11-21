@@ -1,6 +1,6 @@
 # bojieli/checkpoint-forensics
 
-⭐ 11 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/bojieli/checkpoint-forensics) · [官网](https://01.me/en/2026/11/checkpoint-forensics/) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/bojieli/checkpoint-forensics) · [官网](https://01.me/en/2026/11/checkpoint-forensics/) · 个人维护 · 中文 README
 
 **从开源权重模型读取初始化所用 GPU 线程数的取证工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bojieli/checkpoint-forensics 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 5 --> 12
-    line [6, 8, 11, 11]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 5 --> 13
+    line [6, 8, 11, 12]
 ```
 
-2026-11-15 6 → 2026-11-20 11（+5）
+2026-11-15 6 → 2026-11-21 12（+6）
 
 
 ---

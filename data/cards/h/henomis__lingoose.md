@@ -1,6 +1,6 @@
 # henomis/lingoose
 
-⭐ 834 · Go · MIT · 推送 2026-03-15 · [GitHub](https://github.com/henomis/lingoose) · [官网](https://simonevellei.com/lingoose) · 个人维护
+⭐ 833 · Go · MIT · 推送 2026-03-15 · [GitHub](https://github.com/henomis/lingoose) · [官网](https://simonevellei.com/lingoose) · 个人维护
 
 **构建 AI/LLM 应用的 Go 框架（模块化抽象层）**
 
@@ -45,12 +45,12 @@ LinGoose 是用于构建 AI/LLM 应用的 Go 框架，定位为功能抽象层�
 ```mermaid
 xychart-beta
     title "henomis/lingoose 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-10", "2026-11-21"]
     y-axis "stars" 831 --> 835
-    line [832, 833, 834, 834]
+    line [832, 833, 834, 833]
 ```
 
-2026-10-18 832 → 2026-11-20 834（+2）
+2026-10-19 832 → 2026-11-21 833（+1）
 
 
 ---

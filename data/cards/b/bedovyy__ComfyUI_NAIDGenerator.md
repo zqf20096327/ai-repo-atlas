@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bedovyy/ComfyUI_NAIDGenerator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 120 --> 123
-    line [122, 121, 121]
+    title "bedovyy/ComfyUI_NAIDGenerator 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 120 --> 122
+    line [121, 121]
 ```
 
-2026-10-18 122 → 2026-11-20 121（-1）
+2026-10-19 121 → 2026-11-21 121（+0）
 
 
 ---

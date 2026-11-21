@@ -1,6 +1,6 @@
 # mkang315/RCS-YOLO
 
-⭐ 102 · Python · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/mkang315/RCS-YOLO) · 个人维护
+⭐ 103 · Python · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/mkang315/RCS-YOLO) · 个人维护
 
 **MICCAI'23 论文官方实现：脑肿瘤检测目标检测模型 RCS-YOLO**
 
@@ -45,12 +45,12 @@ MICCAI 2023 论文《RCS-YOLO: A Fast and High-Accuracy Object Detector for Brai
 ```mermaid
 xychart-beta
     title "mkang315/RCS-YOLO 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 100 --> 103
-    line [101, 102, 101, 102, 102]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 100 --> 104
+    line [101, 102, 101, 102, 103]
 ```
 
-2026-10-18 101 → 2026-11-20 102（+1）
+2026-10-19 101 → 2026-11-21 103（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # StaysUp/agentbus
 
-⭐ 67 · Go · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/StaysUp/agentbus) · [官网](https://agentbus.art) · 个人维护
+⭐ 71 · Go · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/StaysUp/agentbus) · [官网](https://agentbus.art) · 个人维护
 
 **跨厂商编码 agent 网关：统一运行并记录每次模型调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "StaysUp/agentbus 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 22 --> 71
-    line [26, 37, 40, 59, 60, 62, 67]
+    title "StaysUp/agentbus 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 22 --> 75
+    line [26, 37, 40, 59, 60, 62, 67, 71]
 ```
 
-2026-11-10 26 → 2026-11-20 67（+41）
+2026-11-10 26 → 2026-11-21 71（+45）
 
 
 ---

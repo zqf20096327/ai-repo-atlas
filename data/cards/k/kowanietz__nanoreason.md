@@ -1,6 +1,6 @@
 # kowanietz/nanoreason
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/kowanietz/nanoreason) · [官网](https://huggingface.co/collections/kowanietz/nanoreason) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kowanietz/nanoreason) · [官网](https://huggingface.co/collections/kowanietz/nanoreason) · 个人维护
 
 **OLMo 3 7B 推理后训练复现流水线：SFT+GRPO**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kowanietz/nanoreason 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20"]
+    title "kowanietz/nanoreason 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 4 --> 12
-    line [5, 8, 9, 11]
+    line [5, 8, 9, 11, 11]
 ```
 
-2026-11-14 5 → 2026-11-20 11（+6）
+2026-11-14 5 → 2026-11-21 11（+6）
 
 
 ---

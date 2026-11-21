@@ -1,6 +1,6 @@
 # anh-nn01/Time-Aware-World-Model
 
-⭐ 15 · Python · 推送 2025-11-24 · [GitHub](https://github.com/anh-nn01/Time-Aware-World-Model) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **世界模型的时间感知训练方法代码（ICML 2025 论文官方实现）**
 

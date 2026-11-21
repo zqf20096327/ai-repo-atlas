@@ -1,6 +1,6 @@
 # PAIR-Systems-Inc/goodmem-claude-code-plugin
 
-⭐ 10 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/PAIR-Systems-Inc/goodmem-claude-code-plugin) · [官网](https://goodmem.ai) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/PAIR-Systems-Inc/goodmem-claude-code-plugin) · [官网](https://goodmem.ai) · 组织维护
 
 **用自然语言操作 GoodMem 记忆基础设施的 Claude Code 插件**
 
@@ -40,6 +40,18 @@
 > L3: A Claude Code plugin for GoodMem — memory infrastructure for AI agents.
 > L40: Runs `npx @pairsystems/goodmem-mcp`, the GoodMem MCP server, which exposes the full GoodMem API as tools. Give it a
 > L98: The `goodmem` server exposes all GoodMem API operations as tools:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PAIR-Systems-Inc/goodmem-claude-code-plugin 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Data-Centric-AI-Community/fg-data-quality
 
-⭐ 457 · Jupyter Notebook · MIT · 推送 2026-04-23 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-quality) · 组织维护
+⭐ 456 · Jupyter Notebook · MIT · 推送 2026-04-23 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-quality) · 组织维护
 
 **Python 数据质量评估库：一行代码检测数据管道中的质量问题**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Data-Centric-AI-Community/fg-data-quality 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 454 --> 458
-    line [455, 456, 457, 457]
+    line [455, 456, 457, 456]
 ```
 
-2026-10-18 455 → 2026-11-20 457（+2）
+2026-10-19 455 → 2026-11-21 456（+1）
 
 
 ---

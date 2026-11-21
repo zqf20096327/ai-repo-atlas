@@ -1,6 +1,6 @@
 # lucidrains/perceiver-pytorch
 
-⭐ 1,224 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lucidrains/perceiver-pytorch) · 个人维护
+⭐ 1,223 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lucidrains/perceiver-pytorch) · 个人维护
 
 **PyTorch 实现的 Perceiver 注意力架构模型库**
 
@@ -44,12 +44,12 @@ lucidrains 维护的 Perceiver 论文（General Perception with Iterative Attent
 ```mermaid
 xychart-beta
     title "lucidrains/perceiver-pytorch 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 1220 --> 1225
-    line [1221, 1222, 1221, 1223, 1224, 1224]
+    line [1221, 1222, 1221, 1223, 1224, 1223]
 ```
 
-2026-10-18 1,221 → 2026-11-20 1,224（+3）
+2026-10-19 1,221 → 2026-11-21 1,223（+2）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ihabkhaled/ClawAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "ihabkhaled/ClawAI 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
 ```
 
-2026-10-18 23 → 2026-11-20 24（+1）
+2026-10-19 24 → 2026-11-21 24（+0）
 
 
 ---

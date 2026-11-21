@@ -1,6 +1,6 @@
 # runpod/serverless-workers
 
-⭐ 63 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/runpod/serverless-workers) · [官网](https://github.com/runpod-workers) · 组织维护
+⭐ 63 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/runpod/serverless-workers) · [官网](https://github.com/runpod-workers) · 组织维护
 
 **RunPod 官方 serverless worker 容器集合：模型端点部署模板**
 
@@ -44,12 +44,12 @@ RunPod 官方提供的 serverless endpoint worker 集合，覆盖 Stable Diffusi
 ```mermaid
 xychart-beta
     title "runpod/serverless-workers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
     y-axis "stars" 61 --> 64
     line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-20 63（+1）
+2026-10-19 62 → 2026-11-21 63（+1）
 
 
 ---

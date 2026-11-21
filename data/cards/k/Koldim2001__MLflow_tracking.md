@@ -1,6 +1,6 @@
 # Koldim2001/MLflow_tracking
 
-⭐ 32 · Jupyter Notebook · 推送 2025-12-25 · [GitHub](https://github.com/Koldim2001/MLflow_tracking) · 个人维护
+⭐ 34 · Jupyter Notebook · 推送 2025-12-25 · [GitHub](https://github.com/Koldim2001/MLflow_tracking) · 个人维护
 
 **用 Docker Compose 部署 MLflow 追踪服务的示例仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Koldim2001/MLflow_tracking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 31 --> 35
+    line [32, 34]
 ```
 
-2026-10-18 32 → 2026-11-20 32（+0）
+2026-10-19 32 → 2026-11-21 34（+2）
 
 
 ---

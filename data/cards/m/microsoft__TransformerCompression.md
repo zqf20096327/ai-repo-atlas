@@ -1,6 +1,6 @@
 # microsoft/TransformerCompression
 
-⭐ 466 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/TransformerCompression) · 组织维护
+⭐ 465 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/TransformerCompression) · 组织维护
 
 **SliceGPT 官方代码库：通过正交变换剪切压缩 Transformer/LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/TransformerCompression 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-21"]
     y-axis "stars" 462 --> 467
-    line [463, 464, 466, 465, 466, 466]
+    line [463, 464, 466, 465, 466, 465]
 ```
 
-2026-10-18 463 → 2026-11-20 466（+3）
+2026-10-18 463 → 2026-11-21 465（+2）
 
 
 ---

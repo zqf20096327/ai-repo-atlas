@@ -1,6 +1,6 @@
 # rasbt/MachineLearning-QandAI-book
 
-⭐ 974 · Jupyter Notebook · BSD-3-Clause · 推送 2025-12-17 · [GitHub](https://github.com/rasbt/MachineLearning-QandAI-book) · [官网](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768) · 个人维护
+⭐ 975 · Jupyter Notebook · BSD-3-Clause · 推送 2025-12-17 · [GitHub](https://github.com/rasbt/MachineLearning-QandAI-book) · [官网](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768) · 个人维护
 
 **机器学习书籍《Machine Learning Q and AI》的配套材料仓库**
 
@@ -44,13 +44,13 @@ Sebastian Raschka 所著《Machine Learning Q and AI Beyond the Basics》一书�
 
 ```mermaid
 xychart-beta
-    title "rasbt/MachineLearning-QandAI-book 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 971 --> 975
-    line [973, 972, 973, 972, 973, 974]
+    title "rasbt/MachineLearning-QandAI-book 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 971 --> 976
+    line [973, 972, 973, 972, 973, 974, 975]
 ```
 
-2026-10-18 973 → 2026-11-20 974（+1）
+2026-10-19 973 → 2026-11-21 975（+2）
 
 
 ---

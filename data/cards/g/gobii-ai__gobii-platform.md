@@ -1,6 +1,6 @@
 # gobii-ai/gobii-platform
 
-⭐ 500 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/gobii-ai/gobii-platform) · [官网](https://gobii.ai) · 组织维护
+⭐ 499 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/gobii-ai/gobii-platform) · [官网](https://gobii.ai) · 组织维护
 
 **面向团队的自托管持久自主 agent（AI 员工）运行平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gobii-ai/gobii-platform 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21"]
     y-axis "stars" 495 --> 501
-    line [496, 497, 498, 499, 500, 500]
+    line [496, 497, 498, 499, 500, 499]
 ```
 
-2026-10-18 496 → 2026-11-20 500（+4）
+2026-10-19 496 → 2026-11-21 499（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # z8run/z8run
 
-⭐ 43 · Rust · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/z8run/z8run) · [官网](https://z8run.org) · 组织维护
+⭐ 44 · Rust · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/z8run/z8run) · [官网](https://z8run.org) · 组织维护
 
 **Rust 编写的自托管可视化流程引擎，面向自动化与 AI 管道**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "z8run/z8run 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 39 --> 44
-    line [40, 41, 40, 43, 43]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 39 --> 45
+    line [40, 41, 40, 43, 44]
 ```
 
-2026-10-18 40 → 2026-11-20 43（+3）
+2026-10-18 40 → 2026-11-21 44（+4）
 
 
 ---

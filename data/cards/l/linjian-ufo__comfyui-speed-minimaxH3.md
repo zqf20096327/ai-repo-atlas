@@ -1,6 +1,6 @@
 # linjian-ufo/comfyui-speed-minimaxH3
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/linjian-ufo/comfyui-speed-minimaxH3) · 个人维护 · 中文 README
+⭐ 14 · Python · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/linjian-ufo/comfyui-speed-minimaxH3) · 个人维护 · 中文 README
 
 **MiniMax H3 视频生成专用的 ComfyUI 残差缓存加速节点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "linjian-ufo/comfyui-speed-minimaxH3 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 13, 13]
+    line [13, 14, 13, 14]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 14（+1）
 
 
 ---

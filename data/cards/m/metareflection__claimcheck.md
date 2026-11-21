@@ -1,6 +1,6 @@
 # metareflection/claimcheck
 
-⭐ 35 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/metareflection/claimcheck) · 个人维护
+⭐ 36 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/metareflection/claimcheck) · 个人维护
 
 **核验 Dafny 引理是否忠实表达自然语言需求的审计工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "metareflection/claimcheck 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 32 --> 37
+    line [33, 34, 35, 36]
 ```
 
-2026-10-18 33 → 2026-11-20 35（+2）
+2026-10-18 33 → 2026-11-21 36（+3）
 
 
 ---

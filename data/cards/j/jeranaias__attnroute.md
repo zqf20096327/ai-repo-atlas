@@ -1,6 +1,6 @@
 # jeranaias/attnroute
 
-⭐ 28 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jeranaias/attnroute) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jeranaias/attnroute) · 个人维护
 
 **给 Claude Code 用户的上下文注入工具：自动预选相关代码文件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jeranaias/attnroute 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-19", "2026-11-21"]
     y-axis "stars" 27 --> 31
-    line [30, 29, 28, 28]
+    line [30, 29, 28, 29]
 ```
 
-2026-10-18 30 → 2026-11-20 28（-2）
+2026-10-18 30 → 2026-11-21 29（-1）
 
 
 ---

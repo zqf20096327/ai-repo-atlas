@@ -1,6 +1,6 @@
 # apple-aiml-research/ml-hierarchical-confusion-matrix
 
-⭐ 313 · TypeScript · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-hierarchical-confusion-matrix) · [官网](https://apple-aiml-research.github.io/ml-hierarchical-confusion-matrix/) · 组织维护
+⭐ 312 · TypeScript · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-hierarchical-confusion-matrix) · [官网](https://apple-aiml-research.github.io/ml-hierarchical-confusion-matrix/) · 组织维护
 
 **层次与多输出混淆矩阵的可视化分析系统**
 
@@ -45,12 +45,12 @@ CHI 2022 论文 Neo 的配套代码：一个可视化分析系统，支持创建
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-hierarchical-confusion-matrix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
     y-axis "stars" 311 --> 314
-    line [312, 313, 313]
+    line [312, 313, 312]
 ```
 
-2026-10-18 312 → 2026-11-20 313（+1）
+2026-10-19 312 → 2026-11-21 312（+0）
 
 
 ---

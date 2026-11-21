@@ -1,6 +1,6 @@
 # mxfold/mxfold2
 
-⭐ 164 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/mxfold/mxfold2) · 组织维护
+⭐ 164 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mxfold/mxfold2) · 组织维护
 
 **给生物研究者的 RNA 二级结构预测工具：深度学习+热力学积分**
 
@@ -45,12 +45,12 @@ MXfold2 是 RNA 二级结构预测软件，采用深度学习与热力学参数�
 ```mermaid
 xychart-beta
     title "mxfold/mxfold2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
     y-axis "stars" 162 --> 165
     line [163, 164, 164]
 ```
 
-2026-10-18 163 → 2026-11-20 164（+1）
+2026-10-19 163 → 2026-11-21 164（+1）
 
 
 ---

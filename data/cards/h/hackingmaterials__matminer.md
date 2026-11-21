@@ -1,6 +1,6 @@
 # hackingmaterials/matminer
 
-⭐ 628 · HTML · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/hackingmaterials/matminer) · [官网](https://hackingmaterials.github.io/matminer/) · 组织维护
+⭐ 629 · HTML · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/hackingmaterials/matminer) · [官网](https://hackingmaterials.github.io/matminer/) · 组织维护
 
 **材料科学领域的数据挖掘 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hackingmaterials/matminer 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 620 --> 629
-    line [621, 622, 623, 624, 622, 624, 627, 628, 628]
+    title "hackingmaterials/matminer 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 621 --> 630
+    line [622, 623, 624, 622, 624, 627, 628, 629]
 ```
 
-2026-10-18 621 → 2026-11-20 628（+7）
+2026-10-19 622 → 2026-11-21 629（+7）
 
 
 ---

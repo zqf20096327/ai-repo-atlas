@@ -1,6 +1,6 @@
 # 0937BOY/minimax-h3-8gb-benchmark
 
-⭐ 8 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/0937BOY/minimax-h3-8gb-benchmark) · 个人维护 · 中文 README
+⭐ 9 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/0937BOY/minimax-h3-8gb-benchmark) · 个人维护 · 中文 README
 
 **8GB 显存跑 MiniMax-H3 视频生成的基准测试报告与工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0937BOY/minimax-h3-8gb-benchmark 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 3 --> 9
-    line [4, 5, 8, 8]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 3 --> 10
+    line [4, 5, 8, 9]
 ```
 
-2026-11-13 4 → 2026-11-20 8（+4）
+2026-11-13 4 → 2026-11-21 9（+5）
 
 
 ---

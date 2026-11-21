@@ -1,6 +1,6 @@
 # luminarylane/fal-mcp-server
 
-⭐ 62 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/luminarylane/fal-mcp-server) · [官网](https://luminarylane.github.io/fal-mcp-server/) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/luminarylane/fal-mcp-server) · [官网](https://luminarylane.github.io/fal-mcp-server/) · 个人维护
 
 **让 Claude 等 MCP 客户端调用 Fal.ai 生成图像/视频/音乐的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "luminarylane/fal-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 60 --> 64
+    line [61, 62, 63]
 ```
 
-2026-10-18 61 → 2026-11-20 62（+1）
+2026-10-18 61 → 2026-11-21 63（+2）
 
 
 ---

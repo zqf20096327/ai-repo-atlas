@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "frequenz-floss/contai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    title "frequenz-floss/contai 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 60 --> 62
+    line [61, 61]
 ```
 
-2026-10-18 60 → 2026-11-20 61（+1）
+2026-10-19 61 → 2026-11-21 61（+0）
 
 
 ---

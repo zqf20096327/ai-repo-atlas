@@ -1,6 +1,6 @@
 # ElliotXie/autozyme
 
-⭐ 80 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/ElliotXie/autozyme) · [官网](https://www.autozyme.com) · 组织维护
+⭐ 81 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/ElliotXie/autozyme) · [官网](https://www.autozyme.com) · 组织维护
 
 **加速科学软件的多智能体框架，CPU 提速且保持结果一致**
 
@@ -46,12 +46,12 @@ AutoZyme 提供两条路径：一是安装 AutoZyme-Library，获得 Seurat、Sc
 ```mermaid
 xychart-beta
     title "ElliotXie/autozyme 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 51 --> 82
-    line [53, 54, 55, 57, 54, 80, 80]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 51 --> 83
+    line [53, 54, 55, 57, 54, 80, 81]
 ```
 
-2026-10-18 53 → 2026-11-20 80（+27）
+2026-10-18 53 → 2026-11-21 81（+28）
 
 
 ---

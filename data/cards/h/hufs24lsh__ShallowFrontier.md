@@ -41,6 +41,18 @@ ShallowFrontier 是一个用于指令微调的 label-free 数据选择方法的�
 > L40: pool from the **prompts alone**, and measures each group's **learning phase**: whether the group's gradient noise s
 > L45: |Stage|What it does|Code|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hufs24lsh/ShallowFrontier 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-20 6 → 2026-11-21 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `7b02a833a8ce` · [字段定义](../../DATASET.md)*

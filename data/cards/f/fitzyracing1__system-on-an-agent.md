@@ -1,6 +1,6 @@
 # fitzyracing1/system-on-an-agent
 
-⭐ 20 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fitzyracing1/system-on-an-agent) · [官网](https://fitzyracing1.github.io/system-on-an-agent/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fitzyracing1/system-on-an-agent) · [官网](https://fitzyracing1.github.io/system-on-an-agent/) · 个人维护
 
 **给开发者的极简 agent 框架：规划器、记忆、技能、连接器与总线合一**
 
@@ -39,6 +39,18 @@
 
 > L23: - **Planner.** Takes a goal, builds a plan, and runs it step by step. The default planner is deterministic and rule
 > L30: Requires Python 3.10 or newer.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fitzyracing1/system-on-an-agent 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 19 --> 32
+    line [20, 31]
+```
+
+2026-11-20 20 → 2026-11-21 31（+11）
 
 
 ---

@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "asyhak/Solo-Leveling-Self-Improvement-App 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 42 --> 47
-    line [43, 44, 45, 46, 46]
+    title "asyhak/Solo-Leveling-Self-Improvement-App 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 43 --> 47
+    line [44, 45, 46, 46]
 ```
 
-2026-10-18 43 → 2026-11-20 46（+3）
+2026-10-19 44 → 2026-11-21 46（+2）
 
 
 ---

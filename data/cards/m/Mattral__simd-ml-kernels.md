@@ -1,6 +1,6 @@
 # Mattral/simd-ml-kernels
 
-⭐ 16 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Mattral/simd-ml-kernels) · 个人维护
+⭐ 16 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Mattral/simd-ml-kernels) · 个人维护
 
 **面向开发者的手写 x86 SIMD 神经网络算术内核 C++/Python 库**
 
@@ -45,13 +45,13 @@ C++17 编写的 x86 SIMD 内核库，覆盖 GEMM、decode 用矩阵-向量乘（
 
 ```mermaid
 xychart-beta
-    title "Mattral/simd-ml-kernels 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "Mattral/simd-ml-kernels 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 16（+1）
+2026-10-19 16 → 2026-11-21 16（+0）
 
 
 ---

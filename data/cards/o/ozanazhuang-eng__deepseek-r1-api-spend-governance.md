@@ -1,6 +1,6 @@
 # ozanazhuang-eng/deepseek-r1-api-spend-governance
 
-⭐ 52 · 推送 2026-11-10 · [GitHub](https://github.com/ozanazhuang-eng/deepseek-r1-api-spend-governance) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 67 · 推送 2026-11-10 · [GitHub](https://github.com/ozanazhuang-eng/deepseek-r1-api-spend-governance) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟信用卡的 DeepSeek 托管 API 付款指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ozanazhuang-eng/deepseek-r1-api-spend-governance 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 2 --> 56
-    line [6, 20, 25, 32, 31, 36, 40, 43, 52]
+    title "ozanazhuang-eng/deepseek-r1-api-spend-governance 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 0 --> 73
+    line [6, 20, 25, 32, 31, 36, 40, 43, 52, 67]
 ```
 
-2026-11-10 6 → 2026-11-20 52（+46）
+2026-11-10 6 → 2026-11-21 67（+61）
 
 
 ---

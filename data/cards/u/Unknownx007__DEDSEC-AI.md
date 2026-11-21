@@ -1,6 +1,6 @@
 # Unknownx007/DEDSEC-AI
 
-⭐ 11 · Python · 推送 2026-07-24 · [GitHub](https://github.com/Unknownx007/DEDSEC-AI) · 个人维护
+⭐ 11 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Unknownx007/DEDSEC-AI) · 个人维护
 
 **面向安全/渗透人员的终端 CLI 黑帽人格 AI 聊天工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Unknownx007/DEDSEC-AI 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-15", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-02 10 → 2026-11-20 11（+1）
+2026-11-02 10 → 2026-11-21 11（+1）
 
 
 ---

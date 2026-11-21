@@ -1,6 +1,6 @@
 # Nurburgring-Zhang/ComfyUI-DirectorMaster
 
-⭐ 13 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Nurburgring-Zhang/ComfyUI-DirectorMaster) · 个人维护 · 中文 README
+⭐ 14 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Nurburgring-Zhang/ComfyUI-DirectorMaster) · 个人维护 · 中文 README
 
 **给影视创作者的 ComfyUI 节点包：创意到分镜与视频提示词**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点包，将一句话创意经剧本（46 模式）、分镜
 ```mermaid
 xychart-beta
     title "Nurburgring-Zhang/ComfyUI-DirectorMaster 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 10, 12, 13, 13]
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 10, 12, 13, 14]
 ```
 
-2026-10-18 10 → 2026-11-20 13（+3）
+2026-10-19 10 → 2026-11-21 14（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # toverainc/willow-inference-server
 
-⭐ 512 · Python · Apache-2.0 · 推送 2026-02-12 · [GitHub](https://github.com/toverainc/willow-inference-server) · 组织维护
+⭐ 511 · Python · Apache-2.0 · 推送 2026-02-12 · [GitHub](https://github.com/toverainc/willow-inference-server) · 组织维护
 
 **自托管本地推理服务器：提供 ASR/STT、TTS 与 LLM 推理接口**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "toverainc/willow-inference-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
     y-axis "stars" 510 --> 513
-    line [511, 512, 512]
+    line [511, 512, 511]
 ```
 
-2026-10-18 511 → 2026-11-20 512（+1）
+2026-10-19 511 → 2026-11-21 511（+0）
 
 
 ---

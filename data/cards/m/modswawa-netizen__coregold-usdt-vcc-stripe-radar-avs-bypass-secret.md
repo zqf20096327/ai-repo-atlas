@@ -1,6 +1,6 @@
 # modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret
 
-⭐ 8 · 推送 2026-11-19 · [GitHub](https://github.com/modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 22 · 推送 2026-11-19 · [GitHub](https://github.com/modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **讲解 Stripe Radar 拒付原理并推广 CoreGold 虚拟卡的说明文**
 
@@ -37,6 +37,18 @@
 
 > L2: ⚡ 为什么你的双币卡总被拒？一文看懂 Stripe Radar 封锁原理与 CoreGold 破局之道
 > L31: 👉 **点击注册 CoreGold，彻底告别支付拒付烦恼**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 7 --> 23
+    line [8, 22]
+```
+
+2026-11-20 8 → 2026-11-21 22（+14）
 
 
 ---

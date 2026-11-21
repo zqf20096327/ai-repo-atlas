@@ -1,6 +1,6 @@
 # secretflow/secretflow
 
-⭐ 2,719 · Python · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/secretflow/secretflow) · [官网](https://www.secretflow.org.cn/docs/secretflow/en/) · 组织维护 · 中文 README
+⭐ 2,718 · Python · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/secretflow/secretflow) · [官网](https://www.secretflow.org.cn/docs/secretflow/en/) · 组织维护 · 中文 README
 
 **隐私保护数据分析与机器学习的统一框架**
 
@@ -45,12 +45,12 @@ SecretFlow 提供隐私保护数据智能与机器学习的统一框架，采用
 ```mermaid
 xychart-beta
     title "secretflow/secretflow 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-21"]
     y-axis "stars" 2715 --> 2720
-    line [2716, 2717, 2718, 2717, 2719, 2718, 2719, 2719]
+    line [2716, 2717, 2718, 2717, 2719, 2718, 2719, 2718]
 ```
 
-2026-10-18 2,716 → 2026-11-20 2,719（+3）
+2026-10-19 2,716 → 2026-11-21 2,718（+2）
 
 
 ---

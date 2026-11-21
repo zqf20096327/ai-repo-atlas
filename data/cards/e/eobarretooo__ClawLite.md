@@ -44,13 +44,13 @@ Python 编写的本地优先自主 AI agent：通过 LiteLLM 接入 20+ LLM 提�
 
 ```mermaid
 xychart-beta
-    title "eobarretooo/ClawLite 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 49 --> 53
-    line [50, 51, 52, 52]
+    title "eobarretooo/ClawLite 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 50 --> 53
+    line [51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-20 52（+2）
+2026-10-19 51 → 2026-11-21 52（+1）
 
 
 ---

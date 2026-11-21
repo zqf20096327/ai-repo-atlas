@@ -1,6 +1,6 @@
 # xusenlin/workavera
 
-⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/xusenlin/workavera) · [官网](https://workavera.com) · 个人维护 · 中文 README
+⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/xusenlin/workavera) · [官网](https://workavera.com) · 个人维护 · 中文 README
 
 **面向自由职业者与小团队的自托管 AI 协作工作区**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xusenlin/workavera 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    title "xusenlin/workavera 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-21"]
     y-axis "stars" 57 --> 65
-    line [63, 64, 63, 58, 60, 59, 60]
+    line [63, 64, 63, 58, 60, 59, 60, 60]
 ```
 
-2026-10-25 63 → 2026-11-20 60（-3）
+2026-10-25 63 → 2026-11-21 60（-3）
 
 
 ---

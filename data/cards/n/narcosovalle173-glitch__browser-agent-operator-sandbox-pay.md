@@ -1,6 +1,6 @@
 # narcosovalle173-glitch/browser-agent-operator-sandbox-pay
 
-⭐ 55 · 推送 2026-11-06 · [GitHub](https://github.com/narcosovalle173-glitch/browser-agent-operator-sandbox-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 70 · 推送 2026-11-06 · [GitHub](https://github.com/narcosovalle173-glitch/browser-agent-operator-sandbox-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向浏览器自动化 Agent 的支付沙箱使用指南（CoreGold 商业卡）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "narcosovalle173-glitch/browser-agent-operator-sandbox-pay 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 20 --> 58
-    line [23, 36, 39, 47, 46, 43, 45, 55]
+    title "narcosovalle173-glitch/browser-agent-operator-sandbox-pay 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 19 --> 74
+    line [23, 36, 39, 47, 46, 43, 45, 55, 70]
 ```
 
-2026-11-10 23 → 2026-11-20 55（+32）
+2026-11-10 23 → 2026-11-21 70（+47）
 
 
 ---

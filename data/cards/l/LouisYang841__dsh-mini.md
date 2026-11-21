@@ -1,6 +1,6 @@
 # LouisYang841/dsh-mini
 
-⭐ 14 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/LouisYang841/dsh-mini) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/LouisYang841/dsh-mini) · 个人维护 · 中文 README
 
 **手机可跑的终端编程 Agent CLI + 可嵌入的 DSH 便携引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LouisYang841/dsh-mini 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-12", "2026-11-21"]
     y-axis "stars" 10 --> 15
-    line [11, 12, 13, 14, 14]
+    line [11, 12, 13, 14, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 14（+3）
+2026-10-19 11 → 2026-11-21 13（+2）
 
 
 ---

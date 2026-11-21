@@ -1,6 +1,6 @@
 # qpython-android/qpython
 
-⭐ 1,227 · Java · 推送 2026-04-14 · [GitHub](https://github.com/qpython-android/qpython) · [官网](https://www.qpython.org) · 组织维护 · 中文 README
+⭐ 1,228 · Java · 推送 2026-04-14 · [GitHub](https://github.com/qpython-android/qpython) · [官网](https://www.qpython.org) · 组织维护 · 中文 README
 
 **Android 上的 Python 引擎与 IDE，面向 Python 与 AI 学习者**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "qpython-android/qpython 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 1225 --> 1229
-    line [1226, 1227, 1228, 1227]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 1226 --> 1229
+    line [1227, 1228, 1227, 1228]
 ```
 
-2026-10-18 1,226 → 2026-11-20 1,227（+1）
+2026-10-19 1,227 → 2026-11-21 1,228（+1）
 
 
 ---

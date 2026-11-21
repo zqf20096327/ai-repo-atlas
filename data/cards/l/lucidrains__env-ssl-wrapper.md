@@ -46,12 +46,12 @@ Python 库，将 mujoco warp、isaac sim、pybullet、gymnasium、dm_control、r
 ```mermaid
 xychart-beta
     title "lucidrains/env-ssl-wrapper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

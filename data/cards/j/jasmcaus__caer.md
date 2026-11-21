@@ -1,6 +1,6 @@
 # jasmcaus/caer
 
-⭐ 823 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jasmcaus/caer) · [官网](https://caer.readthedocs.io) · 个人维护
+⭐ 822 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jasmcaus/caer) · [官网](https://caer.readthedocs.io) · 个人维护
 
 **轻量级 GPU 加速的 Python 计算机视觉库，简化研究原型开发**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jasmcaus/caer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-21"]
     y-axis "stars" 819 --> 824
-    line [820, 821, 822, 823, 823]
+    line [820, 821, 822, 823, 822]
 ```
 
-2026-10-18 820 → 2026-11-20 823（+3）
+2026-10-19 820 → 2026-11-21 822（+2）
 
 
 ---

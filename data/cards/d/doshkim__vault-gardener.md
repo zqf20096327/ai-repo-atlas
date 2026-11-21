@@ -41,6 +41,18 @@ npm 分发的 CLI 工具，指向任意 .md 文件夹（含 Obsidian/Logseq 等�
 > L88: vault-gardener delegates to an AI coding agent that reads your vault, understands its structure, and performs the m
 > L119: vault-gardener delegates to your chosen CLI tool — you authenticate with the provider directly, not with vault-gar
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "doshkim/vault-gardener 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `aa48fed0edab` · [字段定义](../../DATASET.md)*

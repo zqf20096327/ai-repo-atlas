@@ -1,6 +1,6 @@
 # JamshidS/aiset
 
-⭐ 15 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/JamshidS/aiset) · [官网](https://pypi.org/project/aiset-cli/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/JamshidS/aiset) · [官网](https://pypi.org/project/aiset-cli/) · 个人维护
 
 **把仓库变成带持久记忆的 Claude Code 多 agent 团队**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JamshidS/aiset 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-20"]
+    x-axis ["2026-11-01", "2026-11-21"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-11-01 15 → 2026-11-20 15（+0）
+2026-11-01 15 → 2026-11-21 15（+0）
 
 
 ---

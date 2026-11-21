@@ -1,6 +1,6 @@
 # beniz/codex-prism
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/beniz/codex-prism) · 个人维护
+⭐ 8 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/beniz/codex-prism) · 个人维护
 
 **科研写作桌面应用：并行 Codex 会话协作写 LaTeX 论文/幻灯片**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "beniz/codex-prism 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 3 --> 9
     line [4, 5, 6, 8, 8]
 ```
 
-2026-10-18 4 → 2026-11-20 8（+4）
+2026-10-19 4 → 2026-11-21 8（+4）
 
 
 ---

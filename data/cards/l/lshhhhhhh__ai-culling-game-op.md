@@ -1,6 +1,6 @@
 # lshhhhhhh/ai-culling-game-op
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/lshhhhhhh/ai-culling-game-op) · 个人维护 · 中文 README
+⭐ 11 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/lshhhhhhh/ai-culling-game-op) · 个人维护 · 中文 README
 
 **公开 AI 重制《咒术回战》OP 的做法、代码与提示词**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lshhhhhhh/ai-culling-game-op 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 5 --> 11
-    line [6, 7, 8, 7, 8, 9, 10, 10]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 5 --> 12
+    line [6, 7, 8, 7, 8, 9, 10, 11]
 ```
 
-2026-10-18 6 → 2026-11-20 10（+4）
+2026-10-19 6 → 2026-11-21 11（+5）
 
 
 ---

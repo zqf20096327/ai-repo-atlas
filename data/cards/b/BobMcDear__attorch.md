@@ -1,6 +1,6 @@
 # BobMcDear/attorch
 
-⭐ 608 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/BobMcDear/attorch) · 个人维护
+⭐ 607 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/BobMcDear/attorch) · 个人维护
 
 **用 Triton 实现的 PyTorch 神经网络层子集库，供开发者改写**
 
@@ -45,12 +45,12 @@ attorch 是用纯 Python 与 OpenAI Triton 编写的 PyTorch nn 模块子集，�
 ```mermaid
 xychart-beta
     title "BobMcDear/attorch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-21"]
     y-axis "stars" 604 --> 609
-    line [605, 606, 607, 608, 608]
+    line [605, 606, 607, 608, 607]
 ```
 
-2026-10-18 605 → 2026-11-20 608（+3）
+2026-10-19 605 → 2026-11-21 607（+2）
 
 
 ---

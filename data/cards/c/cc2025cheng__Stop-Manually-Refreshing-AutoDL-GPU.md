@@ -1,6 +1,6 @@
 # cc2025cheng/Stop-Manually-Refreshing-AutoDL-GPU
 
-⭐ 36 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cc2025cheng/Stop-Manually-Refreshing-AutoDL-GPU) · 个人维护 · 中文 README
+⭐ 39 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cc2025cheng/Stop-Manually-Refreshing-AutoDL-GPU) · 个人维护 · 中文 README
 
 **AutoDL 租卡用户的空闲 GPU 监控与自动开机工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cc2025cheng/Stop-Manually-Refreshing-AutoDL-GPU 星数(近 9 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 0 --> 39
-    line [3, 12, 17, 22, 28, 30, 31, 32, 36]
+    title "cc2025cheng/Stop-Manually-Refreshing-AutoDL-GPU 星数(近 10 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 0 --> 42
+    line [3, 12, 17, 22, 28, 30, 31, 32, 36, 39]
 ```
 
-2026-11-02 3 → 2026-11-20 36（+33）
+2026-11-02 3 → 2026-11-21 39（+36）
 
 
 ---

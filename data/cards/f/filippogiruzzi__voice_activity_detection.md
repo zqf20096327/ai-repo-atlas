@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "filippogiruzzi/voice_activity_detection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-20"]
+    title "filippogiruzzi/voice_activity_detection 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-21"]
     y-axis "stars" 371 --> 375
-    line [372, 373, 374, 373]
+    line [372, 373, 374, 373, 373]
 ```
 
-2026-10-18 372 → 2026-11-20 373（+1）
+2026-10-19 372 → 2026-11-21 373（+1）
 
 
 ---

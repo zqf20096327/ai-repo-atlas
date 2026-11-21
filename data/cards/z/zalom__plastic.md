@@ -1,6 +1,6 @@
 # zalom/plastic
 
-⭐ 10 · Ruby · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zalom/plastic) · [官网](https://github.com/zalom/plastic) · 个人维护
+⭐ 10 · Ruby · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zalom/plastic) · [官网](https://github.com/zalom/plastic) · 个人维护
 
 **面向 AI agent 的意图驱动工作流记录与编排命令行系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zalom/plastic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-20 10（-1）
+2026-10-19 11 → 2026-11-21 10（-1）
 
 
 ---

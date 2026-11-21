@@ -1,6 +1,6 @@
 # syxanash/maxheadbox
 
-⭐ 357 · JavaScript · GPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/syxanash/maxheadbox) · 个人维护
+⭐ 358 · JavaScript · GPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/syxanash/maxheadbox) · 个人维护
 
 **树莓派上完全本地运行的语音激活 LLM Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "syxanash/maxheadbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 354 --> 358
-    line [355, 356, 357]
+    title "syxanash/maxheadbox 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 354 --> 359
+    line [355, 356, 357, 358]
 ```
 
-2026-10-18 355 → 2026-11-20 357（+2）
+2026-10-19 355 → 2026-11-21 358（+3）
 
 
 ---

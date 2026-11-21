@@ -1,6 +1,6 @@
 # Tejas-TA/predikit
 
-⭐ 793 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Tejas-TA/predikit) · [官网](https://pypi.org/project/predikit/) · 个人维护
+⭐ 796 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Tejas-TA/predikit) · [官网](https://pypi.org/project/predikit/) · 个人维护
 
 **把 sklearn/XGBoost 模型封装为 LLM 可调用工具的 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tejas-TA/predikit 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    title "Tejas-TA/predikit 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 339 --> 859
-    line [392, 390, 391, 385, 382, 691, 788, 816, 793]
+    line [392, 390, 391, 385, 382, 691, 788, 816, 793, 796]
 ```
 
-2026-10-18 392 → 2026-11-20 793（+401）
+2026-10-19 392 → 2026-11-21 796（+404）
 
 
 ---

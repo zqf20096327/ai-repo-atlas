@@ -1,6 +1,6 @@
 # Godde3s/hermes-stack
 
-⭐ 38 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Godde3s/hermes-stack) · 个人维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Godde3s/hermes-stack) · 个人维护 · 中文 README
 
 **一键把免费 HF Space 部署为个人 AI 服务器栈**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Godde3s/hermes-stack 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 34 --> 39
-    line [35, 36, 37, 38, 36, 37, 38, 38]
+    title "Godde3s/hermes-stack 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 38, 36, 37, 38, 37]
 ```
 
-2026-10-18 35 → 2026-11-20 38（+3）
+2026-10-19 36 → 2026-11-21 37（+1）
 
 
 ---

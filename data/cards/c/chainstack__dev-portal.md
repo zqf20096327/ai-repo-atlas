@@ -1,6 +1,6 @@
 # chainstack/dev-portal
 
-⭐ 14 · MDX · 推送 2026-11-19 · [GitHub](https://github.com/chainstack/dev-portal) · [官网](https://docs.chainstack.com) · 组织维护
+⭐ 14 · MDX · 推送 2026-11-20 · [GitHub](https://github.com/chainstack/dev-portal) · [官网](https://docs.chainstack.com) · 组织维护
 
 **Chainstack 区块链开发者文档门户，含托管 MCP 服务**
 
@@ -46,12 +46,12 @@ Chainstack 公司的官方开发者文档仓库，基于 Mintlify 构建，覆�
 ```mermaid
 xychart-beta
     title "chainstack/dev-portal 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21"]
     y-axis "stars" 13 --> 16
     line [14, 15, 14, 15, 14, 14]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-18 14 → 2026-11-21 14（+0）
 
 
 ---

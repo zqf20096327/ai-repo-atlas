@@ -46,12 +46,12 @@ Python 命令行工具，从 Chrome/Firefox/Edge/Safari 等浏览器读取书签
 ```mermaid
 xychart-beta
     title "sologuy/BookmarkSummarizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-21"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-20 31（+1）
+2026-10-18 30 → 2026-11-21 31（+1）
 
 
 ---

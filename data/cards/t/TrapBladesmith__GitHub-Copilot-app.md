@@ -44,13 +44,13 @@ GitHub, Inc. 发布的桌面应用，用于查找、启动、引导并合并跨�
 
 ```mermaid
 xychart-beta
-    title "TrapBladesmith/GitHub-Copilot-app 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    title "TrapBladesmith/GitHub-Copilot-app 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 376 --> 380
-    line [379, 378, 377]
+    line [379, 378, 377, 377]
 ```
 
-2026-11-15 379 → 2026-11-20 377（-2）
+2026-11-15 379 → 2026-11-21 377（-2）
 
 
 ---

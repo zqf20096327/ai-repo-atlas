@@ -1,6 +1,6 @@
 # ferrislucas/promptr
 
-⭐ 953 · JavaScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/ferrislucas/promptr) · 个人维护
+⭐ 952 · JavaScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/ferrislucas/promptr) · 个人维护
 
 **用自然语言指令让 OpenAI 模型修改代码库的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ferrislucas/promptr 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 948 --> 954
-    line [949, 950, 952, 953, 953]
+    line [949, 950, 952, 953, 952]
 ```
 
-2026-10-18 949 → 2026-11-20 953（+4）
+2026-10-19 949 → 2026-11-21 952（+3）
 
 
 ---

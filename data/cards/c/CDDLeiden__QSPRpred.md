@@ -1,6 +1,6 @@
 # CDDLeiden/QSPRpred
 
-⭐ 97 · Jupyter Notebook · MIT · 推送 2026-09-11 · [GitHub](https://github.com/CDDLeiden/QSPRpred) · [官网](https://cddleiden.github.io/QSPRpred/docs/) · 组织维护
+⭐ 98 · Jupyter Notebook · MIT · 推送 2026-09-11 · [GitHub](https://github.com/CDDLeiden/QSPRpred) · [官网](https://cddleiden.github.io/QSPRpred/docs/) · 组织维护
 
 **构建 QSPR/QSAR 定量构效关系模型的化学信息学库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CDDLeiden/QSPRpred 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 96 --> 99
+    line [97, 98]
 ```
 
-2026-10-18 97 → 2026-11-20 97（+0）
+2026-10-19 97 → 2026-11-21 98（+1）
 
 
 ---

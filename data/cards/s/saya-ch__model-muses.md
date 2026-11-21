@@ -1,6 +1,6 @@
 # saya-ch/model-muses
 
-⭐ 9 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/saya-ch/model-muses) · 个人维护 · 中文 README
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/saya-ch/model-muses) · 个人维护 · 中文 README
 
 **32 个 AI 模型与平台的拟人立绘索引与版权溯源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "saya-ch/model-muses 星数(近 7 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 2 --> 10
-    line [3, 4, 6, 7, 8, 9, 9]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 2 --> 12
+    line [3, 4, 6, 7, 8, 9, 11]
 ```
 
-2026-10-28 3 → 2026-11-20 9（+6）
+2026-10-28 3 → 2026-11-21 11（+8）
 
 
 ---

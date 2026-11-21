@@ -1,6 +1,6 @@
 # Rap3/NuclearOption-PlayableVehicles
 
-⭐ 9 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Rap3/NuclearOption-PlayableVehicles) · 个人维护
+⭐ 9 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Rap3/NuclearOption-PlayableVehicles) · 个人维护
 
 **在 Nuclear Option 中驾驶地面载具的游戏模组**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Rap3/NuclearOption-PlayableVehicles 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-21"]
     y-axis "stars" 5 --> 10
     line [6, 7, 8, 9, 9]
 ```
 
-2026-11-08 6 → 2026-11-20 9（+3）
+2026-11-08 6 → 2026-11-21 9（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # keyshadougherty70-dev/coregold-reseller-api
 
-⭐ 87 · 推送 2026-10-31 · [GitHub](https://github.com/keyshadougherty70-dev/coregold-reseller-api) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 88 · 推送 2026-10-31 · [GitHub](https://github.com/keyshadougherty70-dev/coregold-reseller-api) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向号商与 API 中继站的批量虚拟发卡服务推广页**
 
@@ -42,13 +42,13 @@ CoreGold 发卡服务的宣传 README，目标用户为海外账号批发商（C
 
 ```mermaid
 xychart-beta
-    title "keyshadougherty70-dev/coregold-reseller-api 星数(近 9 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    title "keyshadougherty70-dev/coregold-reseller-api 星数(近 10 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 0 --> 98
-    line [4, 45, 66, 80, 85, 90, 89, 86, 87]
+    line [4, 45, 66, 80, 85, 90, 89, 86, 87, 88]
 ```
 
-2026-11-01 4 → 2026-11-20 87（+83）
+2026-11-01 4 → 2026-11-21 88（+84）
 
 
 ---

@@ -1,6 +1,6 @@
 # GizClaw/opencraft
 
-⭐ 10 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/GizClaw/opencraft) · 个人维护 · 中文 README
+⭐ 10 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/GizClaw/opencraft) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 工作伙伴：文件/命令/多智能体代理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "GizClaw/opencraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-18 10 → 2026-11-21 10（+0）
 
 
 ---

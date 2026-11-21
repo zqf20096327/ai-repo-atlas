@@ -1,6 +1,6 @@
 # ilien-dev/quiron
 
-⭐ 66 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ilien-dev/quiron) · [官网](https://quiron.ilien.dev/) · 个人维护
+⭐ 67 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ilien-dev/quiron) · [官网](https://quiron.ilien.dev/) · 个人维护
 
 **给 Claude Code/Codex/Cursor 用户的 AI 文本人性化技能：去 AI 腔并量化测量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ilien-dev/quiron 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 59 --> 67
-    line [60, 62, 60, 65, 66, 66]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 59 --> 68
+    line [60, 62, 60, 65, 66, 67]
 ```
 
-2026-10-18 60 → 2026-11-20 66（+6）
+2026-10-19 60 → 2026-11-21 67（+7）
 
 
 ---

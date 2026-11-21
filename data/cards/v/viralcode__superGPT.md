@@ -1,6 +1,6 @@
 # viralcode/superGPT
 
-⭐ 16 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/viralcode/superGPT) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/viralcode/superGPT) · 个人维护
 
 **从零训练 LLM 的 PyTorch 框架：实现前沿架构特性**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "viralcode/superGPT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 15, 16, 16]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-20 16（+1）
+2026-10-19 15 → 2026-11-21 17（+2）
 
 
 ---

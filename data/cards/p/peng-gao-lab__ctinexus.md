@@ -1,6 +1,6 @@
 # peng-gao-lab/ctinexus
 
-⭐ 90 · Python · MIT · 推送 2026-02-25 · [GitHub](https://github.com/peng-gao-lab/ctinexus) · [官网](https://CTINexus.github.io) · 组织维护
+⭐ 91 · Python · MIT · 推送 2026-02-25 · [GitHub](https://github.com/peng-gao-lab/ctinexus) · [官网](https://CTINexus.github.io) · 组织维护
 
 **用 LLM 上下文学习从威胁情报文本自动构建网络安全知识图谱的框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "peng-gao-lab/ctinexus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 89 --> 92
+    line [90, 91]
 ```
 
-2026-10-18 90 → 2026-11-20 90（+0）
+2026-10-18 90 → 2026-11-21 91（+1）
 
 
 ---

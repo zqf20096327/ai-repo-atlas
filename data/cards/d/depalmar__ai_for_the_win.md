@@ -1,6 +1,6 @@
 # depalmar/ai_for_the_win
 
-⭐ 170 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/depalmar/ai_for_the_win) · [官网](https://depalmar.github.io/ai_for_the_win/) · 个人维护
+⭐ 170 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/depalmar/ai_for_the_win) · [官网](https://depalmar.github.io/ai_for_the_win/) · 个人维护
 
 **面向安全从业者的 AI 安全实战训练课程：50+ 实验、4 个毕业项目、18 个 CTF 题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "depalmar/ai_for_the_win 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 164 --> 171
     line [166, 165, 166, 167, 168, 167, 170, 170]
 ```
 
-2026-10-18 166 → 2026-11-20 170（+4）
+2026-10-19 166 → 2026-11-21 170（+4）
 
 
 ---

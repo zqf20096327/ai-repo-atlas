@@ -1,6 +1,6 @@
 # SyedAnas01/mcp-safeguard
 
-⭐ 11 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/SyedAnas01/mcp-safeguard) · [官网](https://syedanas01.github.io/mcp-safeguard) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SyedAnas01/mcp-safeguard) · [官网](https://syedanas01.github.io/mcp-safeguard) · 组织维护
 
 **MCP 服务器安全扫描器：检测注入与凭据泄露**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SyedAnas01/mcp-safeguard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-18 11 → 2026-11-21 11（+0）
 
 
 ---

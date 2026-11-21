@@ -42,6 +42,18 @@ FLGo 是用于开展联邦学习实验的 Python 库：通过内置基准生成�
 > L191: ## Reproduction of Algorithms from TOP-tiers and Journals :1st_place_medal:
 > L274: FLGo supports flexible combinations of benchmarks, partitioners, algorithms and simulators , which are independent
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WwZzz/easyFL 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 634 --> 636
+    line [635, 635]
+```
+
+2026-11-20 635 → 2026-11-21 635（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `766c519695fc` · [字段定义](../../DATASET.md)*

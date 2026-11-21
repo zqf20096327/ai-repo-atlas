@@ -45,13 +45,13 @@ Python 库与 CLI，输入一个 prompt 与两个回答，输出 A/B/tie 三类�
 
 ```mermaid
 xychart-beta
-    title "DaoyuanLi2816/pairjudge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "DaoyuanLi2816/pairjudge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 169 --> 172
-    line [170, 171]
+    line [170, 171, 171]
 ```
 
-2026-10-18 170 → 2026-11-20 171（+1）
+2026-10-18 170 → 2026-11-21 171（+1）
 
 
 ---

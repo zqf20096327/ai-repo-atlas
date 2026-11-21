@@ -1,6 +1,6 @@
 # agentscope-ai-java/agentscope-java
 
-⭐ 53 · Java · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/agentscope-ai-java/agentscope-java) · [官网](https://java.agentscope.io/) · 组织维护 · 中文 README
+⭐ 51 · Java · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/agentscope-ai-java/agentscope-java) · [官网](https://java.agentscope.io/) · 组织维护 · 中文 README
 
 **构建分布式、生产级、长时运行 AI agent 的 Java 框架**
 
@@ -44,13 +44,13 @@ AgentScope Java 2.0 是面向企业的 agent 构建框架，提供 HarnessAgent 
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai-java/agentscope-java 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 49 --> 98
-    line [94, 83, 84, 83, 82, 83, 53]
+    title "agentscope-ai-java/agentscope-java 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 47 --> 98
+    line [94, 83, 84, 83, 82, 83, 53, 51]
 ```
 
-2026-10-18 94 → 2026-11-20 53（-41）
+2026-10-19 94 → 2026-11-21 51（-43）
 
 
 ---

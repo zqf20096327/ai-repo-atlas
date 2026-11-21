@@ -1,6 +1,6 @@
 # gmberton/CosPlace
 
-⭐ 405 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/gmberton/CosPlace) · 个人维护
+⭐ 404 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/gmberton/CosPlace) · 个人维护
 
 **CVPR 2022 视觉地理定位方法 CosPlace 官方 PyTorch 实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gmberton/CosPlace 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-16", "2026-11-19", "2026-11-21"]
     y-axis "stars" 402 --> 406
-    line [404, 403, 404, 405, 405]
+    line [404, 403, 404, 405, 404]
 ```
 
-2026-10-18 404 → 2026-11-20 405（+1）
+2026-10-19 404 → 2026-11-21 404（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # haddock-development/claude-reflect-system
 
-⭐ 384 · Python · 推送 2026-01-17 · [GitHub](https://github.com/haddock-development/claude-reflect-system) · [官网](https://huggingface.co/mindchain) · 个人维护
+⭐ 385 · Python · 推送 2026-01-17 · [GitHub](https://github.com/haddock-development/claude-reflect-system) · [官网](https://huggingface.co/mindchain) · 个人维护
 
 **让 Claude Code 从用户纠正中持久学习、不再重犯的技能系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "haddock-development/claude-reflect-system 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 382 --> 385
-    line [383, 384, 383, 384, 384]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 382 --> 386
+    line [383, 384, 383, 384, 385]
 ```
 
-2026-10-18 383 → 2026-11-20 384（+1）
+2026-10-19 383 → 2026-11-21 385（+2）
 
 
 ---

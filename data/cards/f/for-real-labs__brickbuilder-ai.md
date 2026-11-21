@@ -1,6 +1,6 @@
 # for-real-labs/brickbuilder-ai
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/for-real-labs/brickbuilder-ai) · [官网](https://brickbuilder.ai) · 组织维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/for-real-labs/brickbuilder-ai) · [官网](https://brickbuilder.ai) · 组织维护
 
 **LEGO 搭建设计 agent：用 LLM 生成积木模型与搭建说明**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "for-real-labs/brickbuilder-ai 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 22 --> 37
-    line [23, 24, 28, 29, 30, 31, 29, 32, 33, 34, 36]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 23 --> 37
+    line [24, 28, 29, 30, 31, 29, 32, 33, 34, 36, 36]
 ```
 
-2026-10-18 23 → 2026-11-20 36（+13）
+2026-10-19 24 → 2026-11-21 36（+12）
 
 
 ---

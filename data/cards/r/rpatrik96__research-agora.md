@@ -1,6 +1,6 @@
 # rpatrik96/research-agora
 
-⭐ 19 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rpatrik96/research-agora) · [官网](https://rpatrik96.github.io/research-agora/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rpatrik96/research-agora) · [官网](https://rpatrik96.github.io/research-agora/) · 个人维护
 
 **面向 ML 研究者的 Claude Code 技能集市：论文写作/引用核验/实验追踪技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rpatrik96/research-agora 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 16, 18, 19, 19]
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 15 --> 21
+    line [16, 17, 16, 18, 19, 20]
 ```
 
-2026-10-18 16 → 2026-11-20 19（+3）
+2026-10-19 16 → 2026-11-21 20（+4）
 
 
 ---

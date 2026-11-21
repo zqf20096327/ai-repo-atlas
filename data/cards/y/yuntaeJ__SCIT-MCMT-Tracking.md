@@ -44,12 +44,12 @@ NVIDIA AI City Challenge 第 7 届 Track1（多摄像头行人跟踪）的官方
 ```mermaid
 xychart-beta
     title "yuntaeJ/SCIT-MCMT-Tracking 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
     y-axis "stars" 55 --> 58
     line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-20 57（+1）
+2026-10-19 56 → 2026-11-21 57（+1）
 
 
 ---

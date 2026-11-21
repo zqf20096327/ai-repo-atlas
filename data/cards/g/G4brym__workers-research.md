@@ -1,6 +1,6 @@
 # G4brym/workers-research
 
-⭐ 109 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/G4brym/workers-research) · 个人维护
+⭐ 108 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/G4brym/workers-research) · 个人维护
 
 **部署在 Cloudflare Workers 上的深度研究 agent，生成研究报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "G4brym/workers-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 108 --> 110
-    line [109, 109]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 107 --> 110
+    line [109, 108]
 ```
 
-2026-10-18 109 → 2026-11-20 109（+0）
+2026-10-19 109 → 2026-11-21 108（-1）
 
 
 ---

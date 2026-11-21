@@ -1,6 +1,6 @@
 # crimeacs/auto-improve
 
-⭐ 140 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/crimeacs/auto-improve) · 个人维护 · 中文 README
+⭐ 141 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/crimeacs/auto-improve) · 个人维护 · 中文 README
 
 **面向文本工件的 GAN 式自我改进循环：变异-独立评审-只留已验证的提升**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "crimeacs/auto-improve 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 135 --> 141
-    line [136, 137, 138, 139, 140, 140]
+    title "crimeacs/auto-improve 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 136 --> 142
+    line [137, 138, 139, 140, 141]
 ```
 
-2026-10-18 136 → 2026-11-20 140（+4）
+2026-10-19 137 → 2026-11-21 141（+4）
 
 
 ---

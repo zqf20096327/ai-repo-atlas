@@ -1,6 +1,6 @@
 # MushroomRL/mushroom-rl
 
-⭐ 946 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/MushroomRL/mushroom-rl) · 组织维护
+⭐ 946 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MushroomRL/mushroom-rl) · 组织维护
 
 **模块化强化学习 Python 库：提供经典与深度 RL 算法做实验**
 
@@ -45,13 +45,13 @@ Python 强化学习库，以模块化设计支持接入 PyTorch/TensorFlow 张�
 
 ```mermaid
 xychart-beta
-    title "MushroomRL/mushroom-rl 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-10", "2026-11-19", "2026-11-20"]
+    title "MushroomRL/mushroom-rl 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-10", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 943 --> 949
-    line [945, 944, 945, 944, 947, 948, 946]
+    line [945, 944, 945, 944, 947, 948, 946, 946]
 ```
 
-2026-10-18 945 → 2026-11-20 946（+1）
+2026-10-19 945 → 2026-11-21 946（+1）
 
 
 ---

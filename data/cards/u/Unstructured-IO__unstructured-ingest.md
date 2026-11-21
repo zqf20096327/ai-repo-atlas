@@ -1,6 +1,6 @@
 # Unstructured-IO/unstructured-ingest
 
-⭐ 110 · HTML · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Unstructured-IO/unstructured-ingest) · 组织维护
+⭐ 111 · HTML · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Unstructured-IO/unstructured-ingest) · 组织维护
 
 **文档摄取工具：将多种来源数据转入 Unstructured 处理管线**
 
@@ -42,12 +42,12 @@ Unstructured-IO 维护的摄取（ingest）工具，用于从各类数据源读�
 ```mermaid
 xychart-beta
     title "Unstructured-IO/unstructured-ingest 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 108 --> 111
-    line [109, 110, 109, 110, 110]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 108 --> 112
+    line [109, 110, 109, 110, 111]
 ```
 
-2026-10-18 109 → 2026-11-20 110（+1）
+2026-10-19 109 → 2026-11-21 111（+2）
 
 
 ---

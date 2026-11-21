@@ -41,6 +41,18 @@
 > L37: Hearthline is the AI communication hub for HVAC, plumbing, windows, roofing,
 > L123: |AI|Anthropic Claude Sonnet 4.6 (orchestration) + OpenAI GPT-4o (vision)|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "codewithmuh/hearthline 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `5fa1dd4a2ba8` · [字段定义](../../DATASET.md)*

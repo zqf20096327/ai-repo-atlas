@@ -1,6 +1,6 @@
 # nimcap/nimcap-screenshot
 
-⭐ 30 · C# · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/nimcap/nimcap-screenshot) · [官网](https://jietu.nimcap.com/) · 个人维护 · 中文 README
+⭐ 30 · C# · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/nimcap/nimcap-screenshot) · [官网](https://jietu.nimcap.com/) · 个人维护 · 中文 README
 
 **Windows 离线截图工具：OCR、翻译、抠图、录屏一站式**
 
@@ -40,6 +40,18 @@
 
 > L17: NimCap Screenshot 是用 C#、WPF 和 .NET 10 开发的 Windows x64 桌面工具。启动后驻留系统托盘，通过全局快捷键或托盘菜单工作，适合制作教程、反馈界面问题、整理图片资料、提取表格和公式，以及
 > L9: NimCap Screenshot 已实现区域／全屏／当前窗口截图、元素选取、截图标注与一键脱敏、桌面贴图、滚动长截图、图片文字 OCR、证件字段提取、表格转 CSV／XLSX、公式转 LaTeX、二维码／条码识别、本地翻译、透明背
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nimcap/nimcap-screenshot 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
+```
+
+2026-11-20 30 → 2026-11-21 30（+0）
 
 
 ---

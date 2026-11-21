@@ -1,6 +1,6 @@
 # cyanheads/mcp-ts-core
 
-⭐ 154 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/cyanheads/mcp-ts-core) · [官网](https://www.npmjs.com/package/@cyanheads/mcp-ts-core) · 个人维护
+⭐ 155 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/cyanheads/mcp-ts-core) · [官网](https://www.npmjs.com/package/@cyanheads/mcp-ts-core) · 个人维护
 
 **给开发者的 TypeScript MCP 服务器构建框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyanheads/mcp-ts-core 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 151 --> 155
-    line [152, 153, 152, 153, 152, 153, 154, 154]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 151 --> 156
+    line [152, 153, 152, 153, 152, 153, 154, 155]
 ```
 
-2026-10-18 152 → 2026-11-20 154（+2）
+2026-10-19 152 → 2026-11-21 155（+3）
 
 
 ---

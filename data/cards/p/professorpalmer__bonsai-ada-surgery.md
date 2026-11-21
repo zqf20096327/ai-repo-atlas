@@ -1,6 +1,6 @@
 # professorpalmer/bonsai-ada-surgery
 
-⭐ 101 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/professorpalmer/bonsai-ada-surgery) · [官网](https://github.com/professorpalmer/bonsai-ada-surgery/releases/latest) · 个人维护
+⭐ 101 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/professorpalmer/bonsai-ada-surgery) · [官网](https://github.com/professorpalmer/bonsai-ada-surgery/releases/latest) · 个人维护
 
 **在 12/8 GB 消费级显卡上以全 262k 上下文运行 Bonsai 2 27B 的服务包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "professorpalmer/bonsai-ada-surgery 星数(近 15 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 66 --> 104
-    line [69, 79, 83, 84, 86, 88, 93, 95, 96, 98, 86, 100, 99, 100, 101]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 77 --> 103
+    line [79, 83, 84, 86, 88, 93, 95, 96, 98, 86, 100, 99, 100, 101, 101]
 ```
 
-2026-10-18 69 → 2026-11-20 101（+32）
+2026-10-19 79 → 2026-11-21 101（+22）
 
 
 ---

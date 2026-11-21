@@ -1,6 +1,6 @@
 # rushikesh-bobade/FlipTrack
 
-⭐ 27 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/rushikesh-bobade/FlipTrack) · [官网](https://fliptrack-psi.vercel.app) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/rushikesh-bobade/FlipTrack) · [官网](https://fliptrack-psi.vercel.app) · 个人维护
 
 **面向转售商的开源 SaaS：库存、市价追踪与 AI 洞察**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rushikesh-bobade/FlipTrack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 25 --> 28
+    line [27, 26]
 ```
 
-2026-10-18 27 → 2026-11-20 27（+0）
+2026-10-19 27 → 2026-11-21 26（-1）
 
 
 ---

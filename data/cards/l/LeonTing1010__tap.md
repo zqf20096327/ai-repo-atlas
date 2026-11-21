@@ -1,6 +1,6 @@
 # LeonTing1010/tap
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/LeonTing1010/tap) · [官网](https://taprun.dev/) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/LeonTing1010/tap) · [官网](https://taprun.dev/) · 个人维护 · 中文 README
 
 **浏览器自动化 MCP：AI 编译一次任务，之后零 token 确定性重放**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeonTing1010/tap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    title "LeonTing1010/tap 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 17 --> 19
+    line [18, 18]
 ```
 
-2026-10-18 17 → 2026-11-20 18（+1）
+2026-10-19 18 → 2026-11-21 18（+0）
 
 
 ---

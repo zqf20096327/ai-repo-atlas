@@ -1,6 +1,6 @@
 # Laplace-bit/dsh-smooth-stream
 
-⭐ 99 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Laplace-bit/dsh-smooth-stream) · [官网](https://laplace-bit.github.io/dsh-smooth-stream/) · 个人维护 · 中文 README
+⭐ 100 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Laplace-bit/dsh-smooth-stream) · [官网](https://laplace-bit.github.io/dsh-smooth-stream/) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户的流式渲染平滑与零重排滚动跟随插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Laplace-bit/dsh-smooth-stream 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 82 --> 100
-    line [83, 88, 90, 89, 88, 90, 91, 92, 90, 95, 98, 99]
+    title "Laplace-bit/dsh-smooth-stream 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 82 --> 101
+    line [83, 88, 90, 89, 88, 90, 91, 92, 90, 95, 98, 99, 100]
 ```
 
-2026-10-18 83 → 2026-11-20 99（+16）
+2026-10-18 83 → 2026-11-21 100（+17）
 
 
 ---

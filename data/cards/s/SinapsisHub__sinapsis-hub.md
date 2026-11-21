@@ -45,13 +45,13 @@ Sinapsis 是一个用统一计算契约组装 AI 系统的 Python 框架：能�
 
 ```mermaid
 xychart-beta
-    title "SinapsisHub/sinapsis-hub 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    title "SinapsisHub/sinapsis-hub 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 41 --> 55
-    line [42, 53, 54]
+    line [42, 53, 54, 54]
 ```
 
-2026-11-18 42 → 2026-11-20 54（+12）
+2026-11-18 42 → 2026-11-21 54（+12）
 
 
 ---

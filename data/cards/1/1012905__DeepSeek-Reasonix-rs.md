@@ -1,6 +1,6 @@
 # 1012905/DeepSeek-Reasonix-rs
 
-⭐ 8 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/1012905/DeepSeek-Reasonix-rs) · 个人维护 · 中文 README
+⭐ 8 · Go · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/1012905/DeepSeek-Reasonix-rs) · 个人维护 · 中文 README
 
 **本地运行的 AI 编码代理，提供桌面、CLI、网页与编辑器四种入口**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -41,6 +41,18 @@
 > L19:  An open-source coding agent for your terminal, desktop, browser and editor.
 > L25: Reasonix is an open-source AI coding assistant. The program runs on your computer; the AI model is a service you co
 > L31: - **Read, edit, run.** It reads code, edits files and runs tests and commands, all inside your project folder.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "1012905/DeepSeek-Reasonix-rs 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-20 8 → 2026-11-21 8（+0）
 
 
 ---

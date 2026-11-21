@@ -1,6 +1,6 @@
 # matt-k-wong/mlx-flash
 
-⭐ 142 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/matt-k-wong/mlx-flash) · [官网](https://github.com/matt-k-wong/mlx-flash) · 个人维护
+⭐ 143 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/matt-k-wong/mlx-flash) · [官网](https://github.com/matt-k-wong/mlx-flash) · 个人维护
 
 **Apple Silicon 上的 MLX 权重流式引擎：跑超过内存的大模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "matt-k-wong/mlx-flash 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 137 --> 143
-    line [138, 139, 140, 138, 142, 142]
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 137 --> 144
+    line [138, 139, 140, 138, 142, 143]
 ```
 
-2026-10-18 138 → 2026-11-20 142（+4）
+2026-10-19 138 → 2026-11-21 143（+5）
 
 
 ---

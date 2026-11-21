@@ -1,6 +1,6 @@
 # gutierrezje/diffowl
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/gutierrezje/diffowl) · [官网](https://gutierrezje.github.io/diffowl/) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/gutierrezje/diffowl) · [官网](https://gutierrezje.github.io/diffowl/) · 个人维护
 
 **开发者终端里的本地 AI 代码评审 CLI：审查变更并跟踪发现**
 
@@ -45,12 +45,12 @@ DiffOwl 是一个命令行工具，针对 agent 或人编写的 Git 变更执行
 ```mermaid
 xychart-beta
     title "gutierrezje/diffowl 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10]
 ```
 
-2026-11-08 10 → 2026-11-20 11（+1）
+2026-11-08 10 → 2026-11-21 10（+0）
 
 
 ---

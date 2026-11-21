@@ -1,6 +1,6 @@
 # zxygentoo/the-ninety-percent-list
 
-⭐ 5 · Julia · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zxygentoo/the-ninety-percent-list) · 个人维护
+⭐ 5 · Julia · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zxygentoo/the-ninety-percent-list) · 个人维护
 
 **面向学习者的机器学习论文重建清单，配 Julia/Pluto 实现笔记本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zxygentoo/the-ninety-percent-list 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-11-01", "2026-11-20"]
+    x-axis ["2026-10-30", "2026-11-01", "2026-11-21"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-10-30 4 → 2026-11-20 5（+1）
+2026-10-30 4 → 2026-11-21 5（+1）
 
 
 ---

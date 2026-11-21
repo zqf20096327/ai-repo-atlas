@@ -1,6 +1,6 @@
 # Iseenope/bilibili-mcp-server
 
-⭐ 11 · TypeScript · MIT · 推送 2026-07-18 · [GitHub](https://github.com/Iseenope/bilibili-mcp-server) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Iseenope/bilibili-mcp-server) · 个人维护 · 中文 README
 
 **B 站 MCP 服务：让 AI 客户端调用哔哩哔哩视频、评论、弹幕等 31 个工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Iseenope/bilibili-mcp-server 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-21"]
     y-axis "stars" 10 --> 13
     line [12, 11, 11]
 ```
 
-2026-11-08 12 → 2026-11-20 11（-1）
+2026-11-08 12 → 2026-11-21 11（-1）
 
 
 ---

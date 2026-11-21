@@ -1,6 +1,6 @@
 # albertocubeddu/extensionOS
 
-⭐ 135 · TypeScript · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/albertocubeddu/extensionOS) · 个人维护
+⭐ 136 · TypeScript · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/albertocubeddu/extensionOS) · 个人维护
 
 **浏览器扩展：右键对选中文本调用各 LLM 执行自定义提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "albertocubeddu/extensionOS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-12", "2026-11-21"]
     y-axis "stars" 134 --> 138
-    line [136, 137, 136, 135, 135]
+    line [136, 137, 136, 135, 136]
 ```
 
-2026-10-18 136 → 2026-11-20 135（-1）
+2026-10-19 136 → 2026-11-21 136（+0）
 
 
 ---

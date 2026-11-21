@@ -1,6 +1,6 @@
 # rllab-snu/Deep-Reinforcement-Learning
 
-⭐ 88 · Jupyter Notebook · 推送 2025-11-24 · [GitHub](https://github.com/rllab-snu/Deep-Reinforcement-Learning) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **深度强化学习算法的教学实现代码合集（Python Notebook）**
 

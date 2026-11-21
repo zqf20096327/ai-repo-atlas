@@ -1,6 +1,6 @@
 # orq-ai/orqkit
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/orq-ai/orqkit) · [官网](https://orq.ai/) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/orq-ai/orqkit) · [官网](https://orq.ai/) · 组织维护
 
 **为开发者提供运行 AI 评估流水线的工具集**
 
@@ -47,12 +47,12 @@ Orq AI 开源的 monorepo，包含用于构建 AI 评估流水线的工具：@or
 ```mermaid
 xychart-beta
     title "orq-ai/orqkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

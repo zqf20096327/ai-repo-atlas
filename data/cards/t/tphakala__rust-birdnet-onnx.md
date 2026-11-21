@@ -1,6 +1,6 @@
 # tphakala/rust-birdnet-onnx
 
-⭐ 11 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tphakala/rust-birdnet-onnx) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tphakala/rust-birdnet-onnx) · 个人维护
 
 **Rust 库：运行 BirdNET/Perch/BSG 鸟声识别 ONNX 推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tphakala/rust-birdnet-onnx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 11（+0）
 
 
 ---

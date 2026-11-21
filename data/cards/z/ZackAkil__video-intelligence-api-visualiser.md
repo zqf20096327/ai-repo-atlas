@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZackAkil/video-intelligence-api-visualiser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 137 --> 139
     line [138, 138]
 ```
 
-2026-10-18 138 → 2026-11-20 138（+0）
+2026-10-19 138 → 2026-11-21 138（+0）
 
 
 ---

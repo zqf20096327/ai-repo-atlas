@@ -1,6 +1,6 @@
 # pukeko-robotics/gaunt-sloth
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/pukeko-robotics/gaunt-sloth) · [官网](https://gauntsloth.app) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/pukeko-robotics/gaunt-sloth) · [官网](https://gauntsloth.app) · 组织维护
 
 **配置驱动的命令行 AI 编码助手：代码审查、PR 分析与问答**
 
@@ -45,12 +45,12 @@ Gaunt Sloth（命令 gth）是基于 LangChain.js 的命令行 AI 助手，面�
 ```mermaid
 xychart-beta
     title "pukeko-robotics/gaunt-sloth 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-21"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 16（+1）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-LongCat-Avatar
 
-⭐ 10 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-LongCat-Avatar) · [官网](https://huggingface.co/PedroMarinhoDev/LongCat-Video-Avatar-1.6-ComfyUI) · 个人维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-LongCat-Avatar) · [官网](https://huggingface.co/PedroMarinhoDev/LongCat-Video-Avatar-1.6-ComfyUI) · 个人维护
 
 **在 ComfyUI 原生运行 LongCat 数字人视频生成的节点包**
 
@@ -39,6 +39,18 @@ ComfyUI 自定义节点，接入美团 LongCat-Video-Avatar 1.6 模型：从起�
 
 > L13: **natively in ComfyUI**: audio-driven talking video from a start image, a prompt and speech, continued segment by
 > L30:  Native ComfyUI ComfyUI's model, samplers, LoRA patches and dynamic VRAM; the base node's guidance is core's Dual C
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PedroMarinhoDev/ComfyUI-LongCat-Avatar 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 17
+    line [10, 16]
+```
+
+2026-11-20 10 → 2026-11-21 16（+6）
 
 
 ---

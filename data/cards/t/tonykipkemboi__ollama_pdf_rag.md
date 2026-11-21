@@ -1,6 +1,6 @@
 # tonykipkemboi/ollama_pdf_rag
 
-⭐ 551 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/tonykipkemboi/ollama_pdf_rag) · [官网](https://tonykipkemboi.github.io/ollama_pdf_rag/) · 个人维护
+⭐ 550 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/tonykipkemboi/ollama_pdf_rag) · [官网](https://tonykipkemboi.github.io/ollama_pdf_rag/) · 个人维护
 
 **本地 PDF 问答 RAG 全栈演示：用 Ollama 与 LangChain 对话文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tonykipkemboi/ollama_pdf_rag 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 545 --> 552
-    line [546, 548, 549, 550, 549, 550, 549, 550, 551, 551]
+    title "tonykipkemboi/ollama_pdf_rag 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 547 --> 552
+    line [548, 549, 550, 549, 550, 549, 550, 551, 550]
 ```
 
-2026-10-18 546 → 2026-11-20 551（+5）
+2026-10-19 548 → 2026-11-21 550（+2）
 
 
 ---

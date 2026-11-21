@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mattral/ML-AI-Algorithms-from-scratch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 38 --> 43
-    line [39, 40, 42, 42]
+    title "Mattral/ML-AI-Algorithms-from-scratch 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 39 --> 43
+    line [40, 42, 42]
 ```
 
-2026-10-18 39 → 2026-11-20 42（+3）
+2026-10-19 40 → 2026-11-21 42（+2）
 
 
 ---

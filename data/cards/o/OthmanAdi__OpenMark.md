@@ -1,6 +1,6 @@
 # OthmanAdi/OpenMark
 
-⭐ 10 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/OthmanAdi/OpenMark) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/OthmanAdi/OpenMark) · 个人维护
 
 **把书签、LinkedIn 收藏与 YouTube 视频建为个人知识图谱并供 Agent 检索写作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OthmanAdi/OpenMark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

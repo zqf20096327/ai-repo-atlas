@@ -1,6 +1,6 @@
 # easonwang00/NativeBot
 
-⭐ 18 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/easonwang00/NativeBot) · [官网](https://nativebot.vercel.app) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/easonwang00/NativeBot) · [官网](https://nativebot.vercel.app) · 个人维护
 
 **本地终端 AI 移动应用开发助手：对话生成 Expo 应用并上架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "easonwang00/NativeBot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-11-20 18（+1）
+2026-10-19 17 → 2026-11-21 19（+2）
 
 
 ---

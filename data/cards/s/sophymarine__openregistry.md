@@ -1,6 +1,6 @@
 # sophymarine/openregistry
 
-⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/sophymarine/openregistry) · [官网](https://openregistry.sophymarine.com) · 组织维护
+⭐ 24 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/sophymarine/openregistry) · [官网](https://openregistry.sophymarine.com) · 组织维护
 
 **接入 80+ 国官方公司登记处的实时数据 MCP 服务器与 API**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sophymarine/openregistry 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 22, 23, 22, 23, 23]
+    title "sophymarine/openregistry 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 22, 23, 24]
 ```
 
-2026-10-18 20 → 2026-11-20 23（+3）
+2026-10-19 21 → 2026-11-21 24（+3）
 
 
 ---

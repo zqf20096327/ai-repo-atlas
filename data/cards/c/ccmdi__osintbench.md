@@ -1,6 +1,6 @@
 # ccmdi/osintbench
 
-⭐ 13 · Python · MIT · 推送 2025-12-29 · [GitHub](https://github.com/ccmdi/osintbench) · [官网](https://osintbench.org) · 个人维护
+⭐ 14 · Python · MIT · 推送 2025-12-29 · [GitHub](https://github.com/ccmdi/osintbench) · [官网](https://osintbench.org) · 个人维护
 
 **评估 LLM 执行 OSINT 任务的基准工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ccmdi/osintbench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-10-18 11 → 2026-11-20 13（+2）
+2026-10-18 11 → 2026-11-21 14（+3）
 
 
 ---

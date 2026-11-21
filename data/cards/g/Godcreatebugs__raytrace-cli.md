@@ -1,6 +1,6 @@
 # Godcreatebugs/raytrace-cli
 
-⭐ 25 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Godcreatebugs/raytrace-cli) · [官网](https://www.raytracer.si/) · 组织维护
+⭐ 25 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Godcreatebugs/raytrace-cli) · [官网](https://www.raytracer.si/) · 组织维护
 
 **编码 Agent 本地沙箱：隔离运行并记录其真实行为**
 
@@ -41,6 +41,18 @@
 > L52: RayTrace runs Claude Code or Codex in that isolated copy, records what actually
 > L55: Each local sandbox is a Docker container under gVisor,
 > L62: The dashboard has two layers. **Tool calls** are what the agent reported.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Godcreatebugs/raytrace-cli 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-20 25 → 2026-11-21 25（+0）
 
 
 ---

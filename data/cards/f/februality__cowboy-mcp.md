@@ -1,6 +1,6 @@
 # februality/cowboy-mcp
 
-⭐ 20 · PHP · GPL-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/februality/cowboy-mcp) · [官网](https://cowboymcp.com) · 个人维护
+⭐ 20 · PHP · GPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/februality/cowboy-mcp) · [官网](https://cowboymcp.com) · 个人维护
 
 **将 WordPress 站点变为 MCP 服务器的插件：AI 客户端用自然语言管理站点**
 
@@ -45,13 +45,13 @@ WordPress 插件，把站点自身变成 Streamable HTTP 上的 MCP 端点，提
 
 ```mermaid
 xychart-beta
-    title "februality/cowboy-mcp 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 11 --> 21
-    line [12, 13, 14, 15, 16, 17, 14, 19, 20, 20]
+    title "februality/cowboy-mcp 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 12 --> 21
+    line [13, 14, 15, 16, 17, 14, 19, 20, 20]
 ```
 
-2026-10-18 12 → 2026-11-20 20（+8）
+2026-10-19 13 → 2026-11-21 20（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucaperret/tidal-cli
 
-⭐ 12 · TypeScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/lucaperret/tidal-cli) · [官网](https://tidal-cli.lucaperret.ch) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/lucaperret/tidal-cli) · [官网](https://tidal-cli.lucaperret.ch) · 个人维护
 
 **终端控制 Tidal 音乐服务的 CLI，面向脚本与 LLM agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucaperret/tidal-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 11 → 2026-11-21 13（+2）
 
 
 ---

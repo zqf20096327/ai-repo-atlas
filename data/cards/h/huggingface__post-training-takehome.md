@@ -44,13 +44,13 @@ Hugging Face 后训练团队公开的实习录用 take-home 挑战：要求在�
 
 ```mermaid
 xychart-beta
-    title "huggingface/post-training-takehome 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 50 --> 54
-    line [51, 53, 53]
+    title "huggingface/post-training-takehome 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 52 --> 54
+    line [53, 53]
 ```
 
-2026-10-18 51 → 2026-11-20 53（+2）
+2026-10-19 53 → 2026-11-21 53（+0）
 
 
 ---

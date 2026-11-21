@@ -1,6 +1,6 @@
 # GhabiX/SRepair
 
-⭐ 79 · Java · 推送 2026-04-23 · [GitHub](https://github.com/GhabiX/SRepair) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 Java 的函数级 LLM 自动程序修复工具（Defects4J）**
 

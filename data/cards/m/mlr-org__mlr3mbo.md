@@ -1,6 +1,6 @@
 # mlr-org/mlr3mbo
 
-⭐ 27 · R · 推送 2026-10-06 · [GitHub](https://github.com/mlr-org/mlr3mbo) · [官网](https://mlr3mbo.mlr-org.com) · 组织维护
+⭐ 27 · R · 推送 2026-11-20 · [GitHub](https://github.com/mlr-org/mlr3mbo) · [官网](https://mlr3mbo.mlr-org.com) · 组织维护
 
 **R 语言单/多目标贝叶斯优化模块化实现**
 
@@ -47,12 +47,12 @@ mlr3 生态中的 R6 实现库，提供单目标与多目标贝叶斯优化：�
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3mbo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-20 27（+0）
+2026-10-19 27 → 2026-11-21 27（+0）
 
 
 ---

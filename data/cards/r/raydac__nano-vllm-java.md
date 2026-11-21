@@ -1,6 +1,6 @@
 # raydac/nano-vllm-java
 
-⭐ 11 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/raydac/nano-vllm-java) · 个人维护
+⭐ 11 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/raydac/nano-vllm-java) · 个人维护
 
 **供 Java 应用在 CPU 上本地运行预训练模型推理的库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "raydac/nano-vllm-java 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-20 11（+0）
+2026-11-10 11 → 2026-11-21 11（+0）
 
 
 ---

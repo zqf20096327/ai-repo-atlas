@@ -40,6 +40,18 @@ PickySteve 是一个轻量编排层：用便宜模型判断请求需要哪个技
 > L13: PickySteve is a lightweight orchestration layer. A cheap model figures out which skill a request
 > L49: Supports **Claude Code, Codex, Cursor, Windsurf, Cline, Roo Code, Gemini CLI, Qwen Code, Goose,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KernelLord/pickysteve 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `d4dca87956a6` · [字段定义](../../DATASET.md)*

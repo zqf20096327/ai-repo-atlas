@@ -1,6 +1,6 @@
 # andrewtavis/causeinfer
 
-⭐ 65 · Python · BSD-3-Clause · 推送 2026-10-31 · [GitHub](https://github.com/andrewtavis/causeinfer) · 个人维护
+⭐ 65 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/andrewtavis/causeinfer) · 个人维护
 
 **Python 因果推断/uplift 机器学习库：估计处理效应**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "andrewtavis/causeinfer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 63 --> 66
     line [64, 65, 64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-11-20 65（+1）
+2026-10-19 64 → 2026-11-21 65（+1）
 
 
 ---

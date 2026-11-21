@@ -1,6 +1,6 @@
 # Kisahime/promptmaker
 
-⭐ 6 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Kisahime/promptmaker) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Kisahime/promptmaker) · 个人维护
 
 **本地桌面工作室：把想法整理成面向图像/视频模型的提示词**
 
@@ -41,6 +41,18 @@ PromptMaker 是一个运行在本地的桌面应用：用户用自然语言描�
 > L5: **A local desktop studio for writing AI image prompts.** You can describe an idea in plain words, build a prompt fro
 > L7: Everything runs on your own computer by default, and nothing is downloaded without asking. The AI features are optio
 > L15: - **Runs on modest hardware**: built and tested on an 8 GB GPU.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Kisahime/promptmaker 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 5 --> 11
+    line [6, 10]
+```
+
+2026-11-20 6 → 2026-11-21 10（+4）
 
 
 ---

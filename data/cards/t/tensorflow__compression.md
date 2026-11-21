@@ -45,13 +45,13 @@ Google TensorFlow 团队维护的 Python 库，提供 C++ 实现的 range coding
 
 ```mermaid
 xychart-beta
-    title "tensorflow/compression 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-20"]
+    title "tensorflow/compression 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-21"]
     y-axis "stars" 921 --> 925
-    line [922, 923, 924, 923]
+    line [922, 923, 924, 923, 923]
 ```
 
-2026-10-18 922 → 2026-11-20 923（+1）
+2026-10-19 922 → 2026-11-21 923（+1）
 
 
 ---

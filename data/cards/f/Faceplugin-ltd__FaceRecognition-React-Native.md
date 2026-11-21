@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-React-Native
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-React-Native) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-React-Native) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **面向 React Native 的端上人脸识别 SDK（1:N 识别与活体检测）**
 
@@ -46,12 +46,12 @@ FacePlugin 公司的 React Native 人脸识别 SDK，封装 Android/iOS 原生�
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceRecognition-React-Native 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-11-20 22（+1）
+2026-10-19 21 → 2026-11-21 23（+2）
 
 
 ---

@@ -46,12 +46,12 @@ Python CLI 工具：抓取指定频道的视频字幕，建立 BM25 与语义检
 ```mermaid
 xychart-beta
     title "AlexanderAbramovPav/youtube-advisor 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-20"]
+    x-axis ["2026-10-26", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-20 10（+0）
+2026-10-26 10 → 2026-11-21 10（+0）
 
 
 ---

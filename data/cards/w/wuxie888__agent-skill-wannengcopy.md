@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wuxie888/agent-skill-wannengcopy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "wuxie888/agent-skill-wannengcopy 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 22 --> 30
-    line [29, 23]
+    line [29, 23, 23]
 ```
 
-2026-10-18 29 → 2026-11-20 23（-6）
+2026-10-19 29 → 2026-11-21 23（-6）
 
 
 ---

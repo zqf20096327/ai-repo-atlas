@@ -1,6 +1,6 @@
 # iceHub82/beeline
 
-⭐ 13 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/iceHub82/beeline) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/iceHub82/beeline) · 个人维护
 
 **Claude Code 输出压缩插件：合并 caveman 与 i-have-adhd 风格规则**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iceHub82/beeline 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-18 12 → 2026-11-21 14（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # BA-CalderonMorales/terminal-jarvis
 
-⭐ 139 · Rust · MIT · 推送 2026-11-05 · [GitHub](https://github.com/BA-CalderonMorales/terminal-jarvis) · [官网](https://terminal-jarvis.com) · 个人维护
+⭐ 139 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/BA-CalderonMorales/terminal-jarvis) · [官网](https://terminal-jarvis.com) · 个人维护
 
 **终端工具：统一编排与切换各类 AI 编码 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BA-CalderonMorales/terminal-jarvis 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 136 --> 141
     line [137, 138, 139, 140, 138, 139, 139]
 ```
 
-2026-10-18 137 → 2026-11-20 139（+2）
+2026-10-19 137 → 2026-11-21 139（+2）
 
 
 ---

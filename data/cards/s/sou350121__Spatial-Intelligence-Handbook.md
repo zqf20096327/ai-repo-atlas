@@ -1,6 +1,6 @@
 # sou350121/Spatial-Intelligence-Handbook
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/sou350121/Spatial-Intelligence-Handbook) · [官网](https://kensou.mintlify.app) · 个人维护 · 中文 README
+⭐ 39 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/sou350121/Spatial-Intelligence-Handbook) · [官网](https://kensou.mintlify.app) · 个人维护 · 中文 README
 
 **跨 embodiment 空间智能（SLAM/VIO/3D 表征）策展手册**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sou350121/Spatial-Intelligence-Handbook 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20"]
+    title "sou350121/Spatial-Intelligence-Handbook 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-21"]
     y-axis "stars" 33 --> 40
-    line [34, 36, 37, 36, 37, 38, 39]
+    line [34, 36, 37, 36, 37, 38, 39, 39]
 ```
 
-2026-10-18 34 → 2026-11-20 39（+5）
+2026-10-19 34 → 2026-11-21 39（+5）
 
 
 ---

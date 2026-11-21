@@ -1,6 +1,6 @@
 # jayzuccarelli/ha-memory
 
-⭐ 11 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jayzuccarelli/ha-memory) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jayzuccarelli/ha-memory) · 个人维护
 
 **Home Assistant Assist 的长期记忆集成，以 markdown 存储**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jayzuccarelli/ha-memory 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-20"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-29 10 → 2026-11-20 11（+1）
+2026-10-29 10 → 2026-11-21 11（+1）
 
 
 ---

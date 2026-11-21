@@ -1,6 +1,6 @@
 # Gunnarguy/OpenIntelligence
 
-⭐ 30 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Gunnarguy/OpenIntelligence) · [官网](https://apps.apple.com/app/apple-store/id6756559175?pt=127101782&ct=GitHub_Repo&mt=8) · 个人维护
+⭐ 30 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Gunnarguy/OpenIntelligence) · [官网](https://apps.apple.com/app/apple-store/id6756559175?pt=127101782&ct=GitHub_Repo&mt=8) · 个人维护
 
 **本地优先的 Apple 平台文档问答应用：引用溯源、离线运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Gunnarguy/OpenIntelligence 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-11", "2026-11-21"]
     y-axis "stars" 26 --> 31
     line [27, 28, 29, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-20 30（+3）
+2026-10-19 27 → 2026-11-21 30（+3）
 
 
 ---

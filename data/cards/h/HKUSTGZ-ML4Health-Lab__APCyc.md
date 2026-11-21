@@ -1,6 +1,6 @@
 # HKUSTGZ-ML4Health-Lab/APCyc
 
-⭐ 15 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/HKUSTGZ-ML4Health-Lab/APCyc) · [官网](https://hkustgz-ml4health-lab.github.io/APCyc/) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/HKUSTGZ-ML4Health-Lab/APCyc) · [官网](https://hkustgz-ml4health-lab.github.io/APCyc/) · 组织维护
 
 **给药物设计研究者：受体条件下自动环化生成环肽并按性质筛选**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HKUSTGZ-ML4Health-Lab/APCyc 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 13, 14, 15, 15]
+    title "HKUSTGZ-ML4Health-Lab/APCyc 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 10 --> 18
+    line [11, 13, 14, 15, 17]
 ```
 
-2026-10-18 10 → 2026-11-20 15（+5）
+2026-10-19 11 → 2026-11-21 17（+6）
 
 
 ---

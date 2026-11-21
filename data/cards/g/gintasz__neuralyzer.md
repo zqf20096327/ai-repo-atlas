@@ -1,6 +1,6 @@
 # gintasz/neuralyzer
 
-⭐ 39 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/gintasz/neuralyzer) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/gintasz/neuralyzer) · 个人维护
 
 **AI agent 扩展：一键清空会话上下文并重发首条消息**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "gintasz/neuralyzer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 38 --> 41
-    line [40, 39, 39]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 37 --> 41
+    line [40, 39, 38]
 ```
 
-2026-10-18 40 → 2026-11-20 39（-1）
+2026-10-19 40 → 2026-11-21 38（-2）
 
 
 ---

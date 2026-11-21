@@ -1,6 +1,6 @@
 # bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide
 
-⭐ 10 · 推送 2026-11-19 · [GitHub](https://github.com/bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide) · 个人维护 · 中文 README
+⭐ 26 · 推送 2026-11-19 · [GitHub](https://github.com/bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide) · 个人维护 · 中文 README
 
 **面向新手的 USDT 买币与 CoreGold 充值操作教程**
 
@@ -37,6 +37,18 @@
 
 > L2: 纯小白必看的 USDT 入金实操手册：手把手教你如何通过 OKX 或币安（Binance）使用支付宝/微信快捷买币，并通过 TRC20 网络零手续费充入 CoreGold 后台。
 > L7: 今天这篇极简小白文，带你从零开始打通从交易所买币到 CoreGold 开卡 的全套闭环。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 27
+    line [10, 26]
+```
+
+2026-11-20 10 → 2026-11-21 26（+16）
 
 
 ---

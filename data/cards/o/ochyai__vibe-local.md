@@ -1,6 +1,6 @@
 # ochyai/vibe-local
 
-⭐ 805 · Python · MIT · 推送 2026-07-19 · [GitHub](https://github.com/ochyai/vibe-local) · 个人维护 · 中文 README
+⭐ 804 · Python · MIT · 推送 2026-07-19 · [GitHub](https://github.com/ochyai/vibe-local) · 个人维护 · 中文 README
 
 **离线免费的本地 LLM 编程助手环境，面向教学场景**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ochyai/vibe-local 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-20"]
+    title "ochyai/vibe-local 星数(近 3 点)"
+    x-axis ["2026-11-14", "2026-11-20", "2026-11-21"]
     y-axis "stars" 803 --> 806
-    line [804, 805]
+    line [804, 805, 804]
 ```
 
-2026-11-14 804 → 2026-11-20 805（+1）
+2026-11-14 804 → 2026-11-21 804（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # aw-ng/ai-plus-block-editor
 
-⭐ 32 · PHP · GPL-3.0 · 推送 2026-06-16 · [GitHub](https://github.com/aw-ng/ai-plus-block-editor) · [官网](https://wordpress.org/plugins/ai-plus-block-editor/) · 组织维护
+⭐ 32 · PHP · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/aw-ng/ai-plus-block-editor) · [官网](https://wordpress.org/plugins/ai-plus-block-editor/) · 组织维护
 
 **为 WordPress 区块编辑器添加 AI 内容生成的插件**
 
@@ -46,12 +46,12 @@ WordPress 插件，在 Gutenberg 区块编辑器内提供标题、摘要、Slug�
 ```mermaid
 xychart-beta
     title "aw-ng/ai-plus-block-editor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-20 32（+0）
+2026-10-19 32 → 2026-11-21 32（+0）
 
 
 ---

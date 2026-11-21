@@ -1,6 +1,6 @@
 # lmxhappy/step-by-step-learning-ai
 
-⭐ 45 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/lmxhappy/step-by-step-learning-ai) · 个人维护 · 中文 README
+⭐ 45 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lmxhappy/step-by-step-learning-ai) · 个人维护 · 中文 README
 
 **工业搜广推论文精读笔记库：300+ 篇中英双语笔记**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lmxhappy/step-by-step-learning-ai 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 35 --> 46
     line [36, 38, 40, 41, 43, 44, 45, 45]
 ```
 
-2026-11-10 36 → 2026-11-20 45（+9）
+2026-11-10 36 → 2026-11-21 45（+9）
 
 
 ---

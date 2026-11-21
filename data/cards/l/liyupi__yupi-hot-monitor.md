@@ -1,6 +1,6 @@
 # liyupi/yupi-hot-monitor
 
-⭐ 728 · TypeScript · 推送 2026-04-16 · [GitHub](https://github.com/liyupi/yupi-hot-monitor) · [官网](https://www.codefather.cn/course/2026625439052627970) · 组织维护 · 中文 README
+⭐ 729 · TypeScript · 推送 2026-04-16 · [GitHub](https://github.com/liyupi/yupi-hot-monitor) · [官网](https://www.codefather.cn/course/2026625439052627970) · 组织维护 · 中文 README
 
 **教学向全栈项目：多源热点聚合监控工具，AI 分析与通知**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/yupi-hot-monitor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 719 --> 729
-    line [720, 722, 724, 727, 726, 728, 728]
+    title "liyupi/yupi-hot-monitor 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 721 --> 730
+    line [722, 724, 727, 726, 728, 729]
 ```
 
-2026-10-18 720 → 2026-11-20 728（+8）
+2026-10-19 722 → 2026-11-21 729（+7）
 
 
 ---

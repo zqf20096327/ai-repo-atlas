@@ -1,6 +1,6 @@
 # lownamlee/gpt-image-2-mcp
 
-⭐ 95 · TypeScript · MIT · 推送 2026-07-18 · [GitHub](https://github.com/lownamlee/gpt-image-2-mcp) · 个人维护
+⭐ 94 · TypeScript · MIT · 推送 2026-07-18 · [GitHub](https://github.com/lownamlee/gpt-image-2-mcp) · 个人维护
 
 **让 MCP 客户端调用 ChatGPT 图像生成的本地 MCP 服务器**
 
@@ -45,12 +45,12 @@ TypeScript 编写的 stdio MCP 服务器，向任意 MCP 兼容客户端暴露 g
 ```mermaid
 xychart-beta
     title "lownamlee/gpt-image-2-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-18", "2026-11-21"]
     y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    line [94, 95, 94]
 ```
 
-2026-10-18 94 → 2026-11-20 95（+1）
+2026-10-19 94 → 2026-11-21 94（+0）
 
 
 ---

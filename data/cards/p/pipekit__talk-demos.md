@@ -1,6 +1,6 @@
 # pipekit/talk-demos
 
-⭐ 29 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/pipekit/talk-demos) · [官网](https://pipekit.io) · 组织维护
+⭐ 29 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/pipekit/talk-demos) · [官网](https://pipekit.io) · 组织维护
 
 **Pipekit 演讲配套代码与文档仓库：Argo/Kubernetes 会议 demo**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "pipekit/talk-demos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-20 29（+0）
+2026-10-19 29 → 2026-11-21 29（+0）
 
 
 ---

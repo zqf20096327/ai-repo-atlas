@@ -1,6 +1,6 @@
 # chang416/youtube-card-reader
 
-⭐ 31 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/chang416/youtube-card-reader) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/chang416/youtube-card-reader) · 个人维护 · 中文 README
 
 **本机阅读工具：把 YouTube 影片与文章整理成带时间戳的知识卡并可产出实作档案**
 
@@ -46,12 +46,12 @@ local-first 的开源阅读工具：贴上 YouTube 影片或网页文章，整�
 ```mermaid
 xychart-beta
     title "chang416/youtube-card-reader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-11-20 31（+0）
+2026-10-18 31 → 2026-11-21 32（+1）
 
 
 ---

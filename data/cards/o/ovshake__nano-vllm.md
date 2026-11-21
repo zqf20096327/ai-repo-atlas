@@ -1,6 +1,6 @@
 # ovshake/nano-vllm
 
-⭐ 232 · Python · Apache-2.0 · 推送 2026-01-25 · [GitHub](https://github.com/ovshake/nano-vllm) · 个人维护
+⭐ 233 · Python · Apache-2.0 · 推送 2026-01-25 · [GitHub](https://github.com/ovshake/nano-vllm) · 个人维护
 
 **面向学习者的极简 LLM 推理引擎实现，讲解推理原理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ovshake/nano-vllm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 229 --> 234
-    line [230, 231, 232, 233, 232, 232]
+    title "ovshake/nano-vllm 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 230 --> 234
+    line [231, 232, 233, 232, 233]
 ```
 
-2026-10-18 230 → 2026-11-20 232（+2）
+2026-10-19 231 → 2026-11-21 233（+2）
 
 
 ---

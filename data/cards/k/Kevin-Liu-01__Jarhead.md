@@ -45,13 +45,13 @@ macOS 桌面语音助手：喊唤醒词、过 Touch ID 后用 GPT-Live-1 语音�
 
 ```mermaid
 xychart-beta
-    title "Kevin-Liu-01/Jarhead 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "Kevin-Liu-01/Jarhead 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
 ```
 
-2026-10-18 29 → 2026-11-20 30（+1）
+2026-10-19 30 → 2026-11-21 30（+0）
 
 
 ---

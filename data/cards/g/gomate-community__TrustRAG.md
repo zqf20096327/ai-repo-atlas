@@ -1,6 +1,6 @@
 # gomate-community/TrustRAG
 
-⭐ 1,286 · Python · 推送 2026-01-07 · [GitHub](https://github.com/gomate-community/TrustRAG) · [官网](https://gomate-community.github.io/TrustRAG) · 组织维护 · 中文 README
+⭐ 1,285 · Python · 推送 2026-01-07 · [GitHub](https://github.com/gomate-community/TrustRAG) · [官网](https://gomate-community.github.io/TrustRAG) · 组织维护 · 中文 README
 
 **面向可靠输入可信输出的可配置模块化 RAG 框架**
 
@@ -44,13 +44,13 @@ TrustRAG 是一个 Python 编写的可配置、模块化检索增强生成（RAG
 
 ```mermaid
 xychart-beta
-    title "gomate-community/TrustRAG 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20"]
+    title "gomate-community/TrustRAG 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1279 --> 1287
-    line [1280, 1281, 1282, 1281, 1283, 1284, 1285, 1286]
+    line [1280, 1281, 1282, 1281, 1283, 1284, 1285, 1286, 1285]
 ```
 
-2026-10-18 1,280 → 2026-11-20 1,286（+6）
+2026-10-19 1,280 → 2026-11-21 1,285（+5）
 
 
 ---

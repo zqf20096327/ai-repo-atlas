@@ -1,6 +1,6 @@
 # jonfairbanks/local-rag
 
-⭐ 767 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/jonfairbanks/local-rag) · 个人维护
+⭐ 766 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/jonfairbanks/local-rag) · 个人维护
 
 **本地离线 RAG 应用：用 Ollama 模型对本地文件问答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jonfairbanks/local-rag 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20"]
+    title "jonfairbanks/local-rag 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21"]
     y-axis "stars" 762 --> 769
-    line [763, 764, 765, 766, 767, 768, 767]
+    line [763, 764, 765, 766, 767, 768, 767, 766]
 ```
 
-2026-10-18 763 → 2026-11-20 767（+4）
+2026-10-19 763 → 2026-11-21 766（+3）
 
 
 ---

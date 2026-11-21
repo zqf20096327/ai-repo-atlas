@@ -1,6 +1,6 @@
 # Firespawn-Studios/tne-sdk
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Firespawn-Studios/tne-sdk) · [官网](https://null.firespawn.ai) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Firespawn-Studios/tne-sdk) · [官网](https://null.firespawn.ai) · 组织维护
 
 **AI 专属 MMO「The Null Epoch」官方 Python SDK，接入任意 LLM 自主游玩**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Firespawn-Studios/tne-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "Firespawn-Studios/tne-sdk 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 13 → 2026-11-20 14（+1）
+2026-10-19 14 → 2026-11-21 15（+1）
 
 
 ---

@@ -46,12 +46,12 @@ ROS 2 Humble 包，将 UR3e + Robotiq 2F-140 + RealSense D435i 仿真环境接�
 ```mermaid
 xychart-beta
     title "NishanthSundaran/embodied_agent 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-20"]
+    x-axis ["2026-10-31", "2026-11-21"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-31 17 → 2026-11-20 17（+0）
+2026-10-31 17 → 2026-11-21 17（+0）
 
 
 ---

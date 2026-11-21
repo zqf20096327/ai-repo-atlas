@@ -1,6 +1,6 @@
 # ctala/ai-benchmarks-alternativos
 
-⭐ 15 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ctala/ai-benchmarks-alternativos) · [官网](https://benchmarks.cristiantala.com) · 个人维护
+⭐ 15 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ctala/ai-benchmarks-alternativos) · [官网](https://benchmarks.cristiantala.com) · 个人维护
 
 **面向西语创业者/Agent 开发者的 LLM 西语基准测试与选型数据集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ctala/ai-benchmarks-alternativos 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 12 --> 16
     line [13, 14, 13, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-20 15（+2）
+2026-10-19 13 → 2026-11-21 15（+2）
 
 
 ---

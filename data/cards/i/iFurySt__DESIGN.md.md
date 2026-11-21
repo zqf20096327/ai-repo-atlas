@@ -1,6 +1,6 @@
 # iFurySt/DESIGN.md
 
-⭐ 11 · HTML · MIT · 推送 2026-07-14 · [GitHub](https://github.com/iFurySt/DESIGN.md) · [官网](https://www.ifuryst.com/DESIGN.md/) · 个人维护 · 中文 README
+⭐ 12 · HTML · MIT · 推送 2026-07-14 · [GitHub](https://github.com/iFurySt/DESIGN.md) · [官网](https://www.ifuryst.com/DESIGN.md/) · 个人维护 · 中文 README
 
 **为 AI 编码代理生成一致 UI 的设计系统文件合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iFurySt/DESIGN.md 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-13", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-13 10 → 2026-11-20 11（+1）
+2026-11-13 10 → 2026-11-21 12（+2）
 
 
 ---

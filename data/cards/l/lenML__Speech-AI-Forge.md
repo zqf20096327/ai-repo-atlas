@@ -1,6 +1,6 @@
 # lenML/Speech-AI-Forge
 
-⭐ 1,421 · Python · AGPL-3.0 · 推送 2026-05-21 · [GitHub](https://github.com/lenML/Speech-AI-Forge) · 个人维护 · 中文 README
+⭐ 1,420 · Python · AGPL-3.0 · 推送 2026-05-21 · [GitHub](https://github.com/lenML/Speech-AI-Forge) · 个人维护 · 中文 README
 
 **围绕 TTS 模型的语音合成/识别项目：API Server + Gradio WebUI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lenML/Speech-AI-Forge 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    title "lenML/Speech-AI-Forge 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1419 --> 1422
-    line [1421, 1420, 1421, 1420, 1421, 1420, 1421]
+    line [1421, 1420, 1421, 1420, 1421, 1420, 1421, 1420]
 ```
 
-2026-10-18 1,421 → 2026-11-20 1,421（+0）
+2026-10-18 1,421 → 2026-11-21 1,420（-1）
 
 
 ---

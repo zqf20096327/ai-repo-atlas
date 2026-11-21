@@ -1,6 +1,6 @@
 # kapelner/ICEbox
 
-⭐ 35 · R · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/kapelner/ICEbox) · [官网](https://kapelner.github.io/ICEbox/) · 个人维护
+⭐ 36 · R · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/kapelner/ICEbox) · [官网](https://kapelner.github.io/ICEbox/) · 个人维护
 
 **R 包：为任意监督学习模型绘制 ICE 曲线与偏依赖图，做可解释性诊断**
 
@@ -45,12 +45,12 @@ R 语言模型解释工具包，针对任意监督学习算法拟合的模型，
 ```mermaid
 xychart-beta
     title "kapelner/ICEbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-11-20 35（+0）
+2026-10-19 35 → 2026-11-21 36（+1）
 
 
 ---

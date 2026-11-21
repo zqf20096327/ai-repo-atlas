@@ -1,6 +1,6 @@
 # dboudreau00/Countersign
 
-⭐ 76 · JavaScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/dboudreau00/Countersign) · 个人维护
+⭐ 58 · JavaScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/dboudreau00/Countersign) · 个人维护
 
 **自托管 RFP 应答工具：从自有文档生成带引用的投标答复**
 
@@ -39,6 +39,18 @@
 
 > L9: pasted text), generate grounded answers with per-question citations and coverage
 > L65: |`engine.js`|Standalone RAG answer engine (Node 18+): knowledge base + retrieval + grounded `/answer` API, on Claud
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dboudreau00/Countersign 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 57 --> 77
+    line [76, 58]
+```
+
+2026-11-20 76 → 2026-11-21 58（-18）
 
 
 ---

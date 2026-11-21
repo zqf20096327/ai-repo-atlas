@@ -1,6 +1,6 @@
 # davidcitahernandez-debug/computer-use-agent-vault
 
-⭐ 83 · 推送 2026-11-02 · [GitHub](https://github.com/davidcitahernandez-debug/computer-use-agent-vault) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 85 · 推送 2026-11-02 · [GitHub](https://github.com/davidcitahernandez-debug/computer-use-agent-vault) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向自主 Agent 的虚拟卡支付沙箱方案宣传仓库（CoreGold）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "davidcitahernandez-debug/computer-use-agent-vault 星数(近 9 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
     y-axis "stars" 5 --> 94
-    line [12, 42, 63, 77, 82, 87, 86, 83, 83]
+    line [12, 42, 63, 77, 82, 87, 86, 83, 85]
 ```
 
-2026-11-02 12 → 2026-11-20 83（+71）
+2026-11-02 12 → 2026-11-21 85（+73）
 
 
 ---

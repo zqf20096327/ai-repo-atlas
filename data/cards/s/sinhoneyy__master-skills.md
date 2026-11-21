@@ -1,6 +1,6 @@
 # sinhoneyy/master-skills
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/sinhoneyy/master-skills) · [官网](https://master-skills-website.vercel.app) · 个人维护
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/sinhoneyy/master-skills) · [官网](https://master-skills-website.vercel.app) · 个人维护
 
 **面向 Claude/Codex/Cursor 等 agent 的统一技能目录（2,658 条，15 域）**
 
@@ -45,12 +45,12 @@ AI agent 技能（SKILL.md 格式）聚合目录：收录 2,658 个去重技能�
 ```mermaid
 xychart-beta
     title "sinhoneyy/master-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 14, 17, 17]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 14, 17, 18]
 ```
 
-2026-10-18 14 → 2026-11-20 17（+3）
+2026-10-19 14 → 2026-11-21 18（+4）
 
 
 ---

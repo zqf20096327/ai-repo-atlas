@@ -1,6 +1,6 @@
 # microsoft/debug-gym
 
-⭐ 308 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/debug-gym) · [官网](https://aka.ms/debug-gym/) · 组织维护
+⭐ 309 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/debug-gym) · [官网](https://aka.ms/debug-gym/) · 组织维护
 
 **供 LLM agent 交互式调试 Python 代码的文本环境框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/debug-gym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 307 --> 309
-    line [308, 308]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 307 --> 310
+    line [308, 309]
 ```
 
-2026-10-18 308 → 2026-11-20 308（+0）
+2026-10-19 308 → 2026-11-21 309（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AgnostiqHQ/covalent
 
-⭐ 870 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/AgnostiqHQ/covalent) · [官网](https://www.covalent.xyz) · 组织维护
+⭐ 869 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/AgnostiqHQ/covalent) · [官网](https://www.covalent.xyz) · 组织维护
 
 **面向 AI/ML 工程师的 Python 工作流编排库：一行改动在任何云/本地集群跑计算任务**
 
@@ -45,12 +45,12 @@ Covalent 是 Agnostiq 维护的开源 Python 库，面向 AI/ML 工程师、开�
 ```mermaid
 xychart-beta
     title "AgnostiqHQ/covalent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 867 --> 871
-    line [868, 869, 870, 870]
+    line [868, 869, 870, 869]
 ```
 
-2026-10-18 868 → 2026-11-20 870（+2）
+2026-10-19 868 → 2026-11-21 869（+1）
 
 
 ---

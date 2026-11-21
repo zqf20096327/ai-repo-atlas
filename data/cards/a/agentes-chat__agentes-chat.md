@@ -1,6 +1,6 @@
 # agentes-chat/agentes-chat
 
-⭐ 1,753 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/agentes-chat/agentes-chat) · [官网](https://agentes.chat) · 组织维护
+⭐ 1,840 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/agentes-chat/agentes-chat) · [官网](https://agentes.chat) · 组织维护
 
 **自托管的开源团队聊天平台，人与 AI agent 在频道中协作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentes-chat/agentes-chat 星数(近 8 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 1035 --> 1818
-    line [1100, 1330, 1388, 1484, 1621, 1679, 1715, 1753]
+    title "agentes-chat/agentes-chat 星数(近 9 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 1026 --> 1914
+    line [1100, 1330, 1388, 1484, 1621, 1679, 1715, 1753, 1840]
 ```
 
-2026-11-12 1,100 → 2026-11-20 1,753（+653）
+2026-11-12 1,100 → 2026-11-21 1,840（+740）
 
 
 ---

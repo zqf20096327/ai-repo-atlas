@@ -1,6 +1,6 @@
 # lhotse-speech/lhotse
 
-⭐ 1,167 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/lhotse-speech/lhotse) · [官网](https://lhotse.readthedocs.io/en/latest/) · 组织维护
+⭐ 1,166 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/lhotse-speech/lhotse) · [官网](https://lhotse.readthedocs.io/en/latest/) · 组织维护
 
 **语音/多模态机器学习数据准备与加载的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lhotse-speech/lhotse 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 1158 --> 1168
-    line [1159, 1160, 1161, 1160, 1161, 1162, 1164, 1166, 1167, 1167]
+    title "lhotse-speech/lhotse 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 1159 --> 1168
+    line [1160, 1161, 1160, 1161, 1162, 1164, 1166, 1167, 1166]
 ```
 
-2026-10-18 1,159 → 2026-11-20 1,167（+8）
+2026-10-19 1,160 → 2026-11-21 1,166（+6）
 
 
 ---

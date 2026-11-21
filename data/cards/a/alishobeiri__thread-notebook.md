@@ -1,6 +1,6 @@
 # alishobeiri/thread-notebook
 
-⭐ 1,107 · JavaScript · AGPL-3.0 · 推送 2026-06-01 · [GitHub](https://github.com/alishobeiri/thread-notebook) · 个人维护
+⭐ 1,106 · JavaScript · AGPL-3.0 · 推送 2026-06-01 · [GitHub](https://github.com/alishobeiri/thread-notebook) · 个人维护
 
 **带 AI 助手的 Jupyter Notebook 替代品：生成/编辑代码、修错、对话**
 
@@ -45,12 +45,12 @@ Thread 是一个本地运行的 Jupyter Notebook 替代编辑器，在熟悉的 
 ```mermaid
 xychart-beta
     title "alishobeiri/thread-notebook 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
     y-axis "stars" 1103 --> 1109
-    line [1105, 1104, 1105, 1107, 1108, 1107, 1107]
+    line [1105, 1104, 1105, 1107, 1108, 1107, 1106]
 ```
 
-2026-10-18 1,105 → 2026-11-20 1,107（+2）
+2026-10-19 1,105 → 2026-11-21 1,106（+1）
 
 
 ---

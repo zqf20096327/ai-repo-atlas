@@ -1,6 +1,6 @@
 # georgeding/Relate
 
-⭐ 74 · JavaScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/georgeding/Relate) · 个人维护 · 中文 README
+⭐ 73 · JavaScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/georgeding/Relate) · 个人维护 · 中文 README
 
 **自托管的私人聊天 AI 幕僚：记住承诺与提醒日子**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgeding/Relate 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 70 --> 123
-    line [119, 111, 110, 82, 79, 74]
+    title "georgeding/Relate 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 69 --> 123
+    line [119, 111, 110, 82, 79, 74, 73]
 ```
 
-2026-10-18 119 → 2026-11-20 74（-45）
+2026-10-19 119 → 2026-11-21 73（-46）
 
 
 ---

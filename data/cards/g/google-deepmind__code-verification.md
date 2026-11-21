@@ -1,6 +1,6 @@
 # google-deepmind/code-verification
 
-⭐ 288 · Lean · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/google-deepmind/code-verification) · [官网](https://google-deepmind.github.io/code-verification/) · 组织维护
+⭐ 289 · Lean · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/code-verification) · [官网](https://google-deepmind.github.io/code-verification/) · 组织维护
 
 **在 Lean 中形式化验证 Signal 机器码安全性的证明集合**
 
@@ -45,13 +45,13 @@ Google DeepMind 发布的形式化验证项目：针对 libsignal（Signal 协�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/code-verification 星数(近 10 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 60 --> 308
-    line [80, 160, 195, 230, 240, 249, 262, 268, 281, 288]
+    title "google-deepmind/code-verification 星数(近 11 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 60 --> 309
+    line [80, 160, 195, 230, 240, 249, 262, 268, 281, 288, 289]
 ```
 
-2026-11-10 80 → 2026-11-20 288（+208）
+2026-11-10 80 → 2026-11-21 289（+209）
 
 
 ---

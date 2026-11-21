@@ -1,6 +1,6 @@
 # OICWS/Coscribe
 
-⭐ 38 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/OICWS/Coscribe) · [官网](https://oicws.github.io/Coscribe/) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/OICWS/Coscribe) · [官网](https://oicws.github.io/Coscribe/) · 组织维护
 
 **本地办公助手：读写文件并生成 Office/PDF 文档的 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OICWS/Coscribe 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-21"]
     y-axis "stars" 36 --> 40
     line [37, 38, 39, 38, 38]
 ```
 
-2026-11-08 37 → 2026-11-20 38（+1）
+2026-11-08 37 → 2026-11-21 38（+1）
 
 
 ---

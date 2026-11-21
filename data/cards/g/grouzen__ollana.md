@@ -1,6 +1,6 @@
 # grouzen/ollana
 
-⭐ 12 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/grouzen/ollana) · 个人维护
+⭐ 13 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/grouzen/ollana) · 个人维护
 
 **局域网自动发现 Ollama 服务器的 Rust 代理工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "grouzen/ollana 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 11 → 2026-11-21 13（+2）
 
 
 ---

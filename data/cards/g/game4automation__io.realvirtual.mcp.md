@@ -44,13 +44,13 @@ Unity 编辑器内运行的 MCP 服务器包，使 Claude、Cursor 等 MCP 兼�
 
 ```mermaid
 xychart-beta
-    title "game4automation/io.realvirtual.mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "game4automation/io.realvirtual.mcp 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 18 --> 21
-    line [19, 20]
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-20 20（+1）
+2026-10-19 19 → 2026-11-21 20（+1）
 
 
 ---

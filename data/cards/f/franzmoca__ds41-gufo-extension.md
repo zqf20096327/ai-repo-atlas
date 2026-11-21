@@ -1,6 +1,6 @@
 # franzmoca/ds41-gufo-extension
 
-⭐ 7 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/franzmoca/ds41-gufo-extension) · 个人维护
+⭐ 8 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/franzmoca/ds41-gufo-extension) · 个人维护
 
 **在单台 AMD Strix Halo 上运行 DeepSeek V4.1 Flash 的 Gufo 扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "franzmoca/ds41-gufo-extension 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 5, 6, 7]
+    title "franzmoca/ds41-gufo-extension 星数(近 6 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 5, 6, 7, 8]
 ```
 
-2026-11-10 3 → 2026-11-20 7（+4）
+2026-11-10 3 → 2026-11-21 8（+5）
 
 
 ---

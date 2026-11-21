@@ -44,12 +44,12 @@ Oak National Academy 面向教师课程规划的 AI 助手项目仓库，以 Tur
 ```mermaid
 xychart-beta
     title "oaknational/oak-ai-lesson-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-20 35（+0）
+2026-10-19 35 → 2026-11-21 35（+0）
 
 
 ---

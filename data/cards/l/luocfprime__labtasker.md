@@ -46,13 +46,13 @@ Python 原生的小型任务队列：将独立的 ML 推理、评测、消融实
 
 ```mermaid
 xychart-beta
-    title "luocfprime/labtasker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "luocfprime/labtasker 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
 ```
 
-2026-10-18 38 → 2026-11-20 39（+1）
+2026-10-19 39 → 2026-11-21 39（+0）
 
 
 ---

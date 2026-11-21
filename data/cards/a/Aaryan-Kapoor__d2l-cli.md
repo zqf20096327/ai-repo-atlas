@@ -1,6 +1,6 @@
 # Aaryan-Kapoor/d2l-cli
 
-⭐ 11 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Aaryan-Kapoor/d2l-cli) · [官网](https://pypi.org/project/d2l-cli/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Aaryan-Kapoor/d2l-cli) · [官网](https://pypi.org/project/d2l-cli/) · 个人维护
 
 **给 AI agent 提供只读访问 D2L Brightspace 课程数据的 CLI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aaryan-Kapoor/d2l-cli 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-20"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "Aaryan-Kapoor/d2l-cli 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-22 10 → 2026-11-20 11（+1）
+2026-10-22 10 → 2026-11-21 12（+2）
 
 
 ---

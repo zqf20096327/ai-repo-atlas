@@ -1,6 +1,6 @@
 # sunwu51/TabPilot
 
-⭐ 29 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/sunwu51/TabPilot) · [官网](https://chromewebstore.google.com/detail/tab-manager/kklpijbnmbkpgcmnldimiagiehbakaec) · 个人维护 · 中文 README
+⭐ 29 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/sunwu51/TabPilot) · [官网](https://chromewebstore.google.com/detail/tab-manager/kklpijbnmbkpgcmnldimiagiehbakaec) · 个人维护 · 中文 README
 
 **带 AI Agent 的 Chrome 标签页管理侧边栏扩展**
 
@@ -46,12 +46,12 @@ TabPilot 是一个 Chrome 侧边栏扩展，面向重度浏览器使用者：提
 ```mermaid
 xychart-beta
     title "sunwu51/TabPilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-20 29（+0）
+2026-10-19 29 → 2026-11-21 29（+0）
 
 
 ---

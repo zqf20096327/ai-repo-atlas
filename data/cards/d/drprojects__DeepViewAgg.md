@@ -1,6 +1,6 @@
 # drprojects/DeepViewAgg
 
-⭐ 237 · Python · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/drprojects/DeepViewAgg) · 组织维护
+⭐ 238 · Python · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/drprojects/DeepViewAgg) · 组织维护
 
 **CVPR'22 论文官方实现：多视角聚合的大规模 3D 语义分割**
 
@@ -45,12 +45,12 @@ Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmenta
 ```mermaid
 xychart-beta
     title "drprojects/DeepViewAgg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 236 --> 238
-    line [237, 237]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 236 --> 239
+    line [237, 238]
 ```
 
-2026-10-18 237 → 2026-11-20 237（+0）
+2026-10-19 237 → 2026-11-21 238（+1）
 
 
 ---

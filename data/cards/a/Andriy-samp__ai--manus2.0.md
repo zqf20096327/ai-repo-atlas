@@ -1,6 +1,6 @@
 # Andriy-samp/ai--manus2.0
 
-⭐ 57 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Andriy-samp/ai--manus2.0) · 个人维护
+⭐ 56 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Andriy-samp/ai--manus2.0) · 个人维护
 
 **自主 AI Agent 系统：代用户运行代码与控制浏览器完成任务**
 
@@ -45,13 +45,13 @@ README 将其描述为一个自主 AI Agent：可自行编写并执行脚本、�
 
 ```mermaid
 xychart-beta
-    title "Andriy-samp/ai--manus2.0 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
-    y-axis "stars" 56 --> 63
-    line [62, 57]
+    title "Andriy-samp/ai--manus2.0 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 55 --> 63
+    line [62, 57, 56]
 ```
 
-2026-11-18 62 → 2026-11-20 57（-5）
+2026-11-18 62 → 2026-11-21 56（-6）
 
 
 ---

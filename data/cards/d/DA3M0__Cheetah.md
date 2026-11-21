@@ -1,6 +1,6 @@
 # DA3M0/Cheetah
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/DA3M0/Cheetah) · 个人维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/DA3M0/Cheetah) · 个人维护
 
 **本地 LLM 推理服务器：运行 Safetensors 模型并提供 OpenAI 兼容 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DA3M0/Cheetah 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 9 --> 20
-    line [10, 19]
+    title "DA3M0/Cheetah 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 21
+    line [10, 19, 20]
 ```
 
-2026-11-19 10 → 2026-11-20 19（+9）
+2026-11-19 10 → 2026-11-21 20（+10）
 
 
 ---

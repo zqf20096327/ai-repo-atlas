@@ -1,6 +1,6 @@
 # viktoriasemaan/data-ai-tutorials
 
-⭐ 126 · Jupyter Notebook · MIT · 推送 2026-11-15 · [GitHub](https://github.com/viktoriasemaan/data-ai-tutorials) · 个人维护
+⭐ 126 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/viktoriasemaan/data-ai-tutorials) · 个人维护
 
 **数据与 AI 工程实战教程集：lakehouse 到 AI agent 全链路**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "viktoriasemaan/data-ai-tutorials 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-20"]
+    x-axis ["2026-11-15", "2026-11-21"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-11-15 126 → 2026-11-20 126（+0）
+2026-11-15 126 → 2026-11-21 126（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # netresearch/skill-repo-skill
 
-⭐ 24 · Shell · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/netresearch/skill-repo-skill) · [官网](https://netresearch.github.io/skill-repo-skill/) · 组织维护
+⭐ 24 · Shell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/netresearch/skill-repo-skill) · [官网](https://netresearch.github.io/skill-repo-skill/) · 组织维护
 
 **规范化 agent 技能仓库结构与发布流程的 Claude Code 技能**
 
@@ -46,12 +46,12 @@ Netresearch 维护的一个 Agent Skill（开放标准），用于统一其技�
 ```mermaid
 xychart-beta
     title "netresearch/skill-repo-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-19", "2026-11-21"]
     y-axis "stars" 21 --> 25
     line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-20 24（+2）
+2026-10-19 22 → 2026-11-21 24（+2）
 
 
 ---

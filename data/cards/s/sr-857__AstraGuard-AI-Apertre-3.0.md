@@ -1,6 +1,6 @@
 # sr-857/AstraGuard-AI-Apertre-3.0
 
-⭐ 13 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/sr-857/AstraGuard-AI-Apertre-3.0) · [官网](http://astraguardsite.vercel.app) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/sr-857/AstraGuard-AI-Apertre-3.0) · [官网](http://astraguardsite.vercel.app) · 个人维护
 
 **面向 CubeSat 的 AI 卫星安全与遥测异常检测系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sr-857/AstraGuard-AI-Apertre-3.0 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 14（+1）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanraisshan/codex-cli-hooks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-20"]
-    y-axis "stars" 71 --> 75
-    line [72, 73, 74, 74]
+    title "shanraisshan/codex-cli-hooks 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-21"]
+    y-axis "stars" 72 --> 75
+    line [73, 74, 74]
 ```
 
-2026-10-18 72 → 2026-11-20 74（+2）
+2026-10-19 73 → 2026-11-21 74（+1）
 
 
 ---

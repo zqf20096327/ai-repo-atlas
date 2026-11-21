@@ -1,6 +1,6 @@
 # pig-mesh/excel-spring-boot-starter
 
-⭐ 650 · Java · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/pig-mesh/excel-spring-boot-starter) · [官网](https://www.yuque.com/pig4cloud/excel) · 组织维护 · 中文 README
+⭐ 649 · Java · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/pig-mesh/excel-spring-boot-starter) · [官网](https://www.yuque.com/pig4cloud/excel) · 组织维护 · 中文 README
 
 **给 Spring Boot 开发者的 Excel 导入导出封装库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "pig-mesh/excel-spring-boot-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 649 --> 651
-    line [650, 650]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 648 --> 651
+    line [650, 649]
 ```
 
-2026-10-18 650 → 2026-11-20 650（+0）
+2026-10-19 650 → 2026-11-21 649（-1）
 
 
 ---

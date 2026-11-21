@@ -1,6 +1,6 @@
 # aakash1552005/rerunner
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/aakash1552005/rerunner) · [官网](https://github.com/aakash1552005/rerunner) · 个人维护 · 中文 README
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/aakash1552005/rerunner) · [官网](https://github.com/aakash1552005/rerunner) · 个人维护 · 中文 README
 
 **AI agent 的录制回放测试工具：CI 中零 API 成本重放**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aakash1552005/rerunner 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
     y-axis "stars" 4 --> 10
     line [5, 6, 7, 5, 8, 9, 9]
 ```
 
-2026-10-18 5 → 2026-11-20 9（+4）
+2026-10-19 5 → 2026-11-21 9（+4）
 
 
 ---

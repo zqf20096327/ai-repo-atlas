@@ -1,6 +1,6 @@
 # z-mahmud22/Dlib_Windows_Python3.x
 
-⭐ 371 · BSL-1.0 · 推送 2026-02-24 · [GitHub](https://github.com/z-mahmud22/Dlib_Windows_Python3.x) · [官网](http://dlib.net/) · 个人维护
+⭐ 370 · BSL-1.0 · 推送 2026-02-24 · [GitHub](https://github.com/z-mahmud22/Dlib_Windows_Python3.x) · [官网](http://dlib.net/) · 个人维护
 
 **Dlib 的 Windows x64 预编译 wheel 二进制分发仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "z-mahmud22/Dlib_Windows_Python3.x 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-21"]
     y-axis "stars" 368 --> 372
-    line [370, 371, 370, 369, 370, 371, 371]
+    line [370, 371, 370, 369, 370, 371, 370]
 ```
 
-2026-10-18 370 → 2026-11-20 371（+1）
+2026-10-19 370 → 2026-11-21 370（+0）
 
 
 ---

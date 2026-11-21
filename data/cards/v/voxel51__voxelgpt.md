@@ -45,13 +45,13 @@ Voxel51 团队开发的 FiftyOne 插件，结合 LLM/LMM 与 FiftyOne 计算机�
 
 ```mermaid
 xychart-beta
-    title "voxel51/voxelgpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 253 --> 256
-    line [254, 255, 255]
+    title "voxel51/voxelgpt 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 254 --> 256
+    line [255, 255]
 ```
 
-2026-10-18 254 → 2026-11-20 255（+1）
+2026-10-19 255 → 2026-11-21 255（+0）
 
 
 ---

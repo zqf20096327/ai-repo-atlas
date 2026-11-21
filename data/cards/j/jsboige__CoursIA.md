@@ -1,6 +1,6 @@
 # jsboige/CoursIA
 
-⭐ 18 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jsboige/CoursIA) · 个人维护
+⭐ 18 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jsboige/CoursIA) · 个人维护
 
 **多语言 Jupyter 教学课程：以实践覆盖 AI 从搜索到生成式与形式化验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jsboige/CoursIA 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-12", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-12", "2026-11-16", "2026-11-21"]
     y-axis "stars" 15 --> 19
     line [16, 17, 16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-20 18（+2）
+2026-10-19 16 → 2026-11-21 18（+2）
 
 
 ---

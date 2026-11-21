@@ -1,6 +1,6 @@
 # arianmokhtariha/data2prompt
 
-⭐ 27 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/arianmokhtariha/data2prompt) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/arianmokhtariha/data2prompt) · 个人维护
 
 **把数据类项目编译为单个适配 LLM 上下文文件的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arianmokhtariha/data2prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-11-20 27（+0）
+2026-10-19 27 → 2026-11-21 28（+1）
 
 
 ---

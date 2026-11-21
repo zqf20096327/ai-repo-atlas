@@ -1,6 +1,6 @@
 # jwkim04/tesseract-npu
 
-⭐ 24 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/jwkim04/tesseract-npu) · 个人维护
+⭐ 25 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/jwkim04/tesseract-npu) · 个人维护
 
 **开源全栈 FPGA NPU，用于在 AMD Alveo U200 上运行 LLM 推理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jwkim04/tesseract-npu 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 4 --> 25
-    line [5, 13, 18, 20, 22, 23, 24]
+    title "jwkim04/tesseract-npu 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 3 --> 27
+    line [5, 13, 18, 20, 22, 23, 24, 25]
 ```
 
-2026-11-10 5 → 2026-11-20 24（+19）
+2026-11-10 5 → 2026-11-21 25（+20）
 
 
 ---

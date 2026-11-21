@@ -46,13 +46,13 @@ NoteWise 是命令行工具，输入 YouTube 视频或播放列表 URL，生成�
 
 ```mermaid
 xychart-beta
-    title "whoisjayd/notewise 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "whoisjayd/notewise 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

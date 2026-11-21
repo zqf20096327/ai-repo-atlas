@@ -1,6 +1,6 @@
 # qdrant/rust-client
 
-⭐ 422 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/qdrant/rust-client) · [官网](https://crates.io/crates/qdrant-client) · 组织维护
+⭐ 421 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/qdrant/rust-client) · [官网](https://crates.io/crates/qdrant-client) · 组织维护
 
 **Qdrant 向量数据库的 Rust 客户端库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qdrant/rust-client 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
+    title "qdrant/rust-client 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 415 --> 423
-    line [416, 417, 418, 416, 418, 420, 421, 422]
+    line [416, 417, 418, 416, 418, 420, 421, 422, 421]
 ```
 
-2026-10-18 416 → 2026-11-20 422（+6）
+2026-10-19 416 → 2026-11-21 421（+5）
 
 
 ---

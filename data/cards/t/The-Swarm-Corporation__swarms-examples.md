@@ -45,12 +45,12 @@ The-Swarm-Corporation 维护的 swarms 框架示例仓库：以表格索引形�
 ```mermaid
 xychart-beta
     title "The-Swarm-Corporation/swarms-examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
     y-axis "stars" 82 --> 85
     line [83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-11-20 84（+1）
+2026-10-19 83 → 2026-11-21 84（+1）
 
 
 ---

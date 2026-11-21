@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "matthias-wright/flaxmodels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "matthias-wright/flaxmodels 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 266 --> 269
-    line [267, 268]
+    line [267, 268, 268]
 ```
 
-2026-10-18 267 → 2026-11-20 268（+1）
+2026-10-19 267 → 2026-11-21 268（+1）
 
 
 ---

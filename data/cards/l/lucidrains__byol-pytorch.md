@@ -1,6 +1,6 @@
 # lucidrains/byol-pytorch
 
-⭐ 1,899 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/lucidrains/byol-pytorch) · 个人维护
+⭐ 1,897 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/lucidrains/byol-pytorch) · 个人维护
 
 **PyTorch 实现的 BYOL 自监督学习库，可包裹任意图像网络**
 
@@ -45,12 +45,12 @@ DeepMind 论文 Bootstrap Your Own Latent 的 PyTorch 实现：提供一个模�
 ```mermaid
 xychart-beta
     title "lucidrains/byol-pytorch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 1897 --> 1901
-    line [1900, 1899, 1898, 1899, 1899]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 1896 --> 1901
+    line [1900, 1899, 1898, 1899, 1897]
 ```
 
-2026-10-18 1,900 → 2026-11-20 1,899（-1）
+2026-10-19 1,900 → 2026-11-21 1,897（-3）
 
 
 ---

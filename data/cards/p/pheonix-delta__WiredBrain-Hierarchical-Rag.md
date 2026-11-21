@@ -1,6 +1,6 @@
 # pheonix-delta/WiredBrain-Hierarchical-Rag
 
-⭐ 40 · Python · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/pheonix-delta/WiredBrain-Hierarchical-Rag) · 组织维护
+⭐ 41 · Python · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/pheonix-delta/WiredBrain-Hierarchical-Rag) · 组织维护
 
 **面向低显存消费级硬件的分层 RAG 架构研究原型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pheonix-delta/WiredBrain-Hierarchical-Rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-11-20 40（+0）
+2026-10-19 40 → 2026-11-21 41（+1）
 
 
 ---

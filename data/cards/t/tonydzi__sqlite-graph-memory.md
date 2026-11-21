@@ -1,6 +1,6 @@
 # tonydzi/sqlite-graph-memory
 
-⭐ 17 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tonydzi/sqlite-graph-memory) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tonydzi/sqlite-graph-memory) · 个人维护
 
 **面向编码 Agent 的持久记忆层：MCP 服务器 + SQLite 上的 Graph RAG**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tonydzi/sqlite-graph-memory 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 9 --> 18
     line [10, 12, 13, 12, 14, 15, 16, 17, 17]
 ```
 
-2026-10-22 10 → 2026-11-20 17（+7）
+2026-10-22 10 → 2026-11-21 17（+7）
 
 
 ---

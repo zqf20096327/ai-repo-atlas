@@ -1,6 +1,6 @@
 # JesseRWeigel/minecraft-agent-swarm
 
-⭐ 37 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/JesseRWeigel/minecraft-agent-swarm) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/JesseRWeigel/minecraft-agent-swarm) · 个人维护
 
 **本地 LLM 驱动的 5 机器人 Minecraft 协同生存系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JesseRWeigel/minecraft-agent-swarm 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 32 --> 38
-    line [33, 34, 35, 34, 36, 37, 37]
+    title "JesseRWeigel/minecraft-agent-swarm 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 34, 36, 37, 37]
 ```
 
-2026-10-18 33 → 2026-11-20 37（+4）
+2026-10-19 34 → 2026-11-21 37（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # HarnessMD/munder-difflin
 
-⭐ 9,635 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/HarnessMD/munder-difflin) · [官网](https://munderdiffl.in) · 组织维护
+⭐ 9,661 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HarnessMD/munder-difflin) · [官网](https://munderdiffl.in) · 组织维护
 
 **桌面应用：在自有订阅的 CLI 上编排一支 AI agent 办公室团队**
 
@@ -40,6 +40,18 @@
 > L20: Munder Difflin is a desktop app that runs a team of AI agents as an office you can watch. You hire
 > L24: - **Your subscriptions.** Each agent runs the real CLI you already use, signed in with your own plan.
 > L53: API keys and local models (Ollama, LM Studio, vLLM) go in **Settings → Agents & Models**. A missing CLI
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HarnessMD/munder-difflin 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9633 --> 9663
+    line [9635, 9661]
+```
+
+2026-11-20 9,635 → 2026-11-21 9,661（+26）
 
 
 ---

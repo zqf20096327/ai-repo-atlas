@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/document-ai-samples
 
-⭐ 333 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/GoogleCloudPlatform/document-ai-samples) · [官网](https://cloud.google.com/document-ai) · 组织维护
+⭐ 332 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/GoogleCloudPlatform/document-ai-samples) · [官网](https://cloud.google.com/document-ai) · 组织维护
 
 **Google Cloud Document AI 示例代码与演示集合**
 
@@ -45,12 +45,12 @@ Google Cloud Platform 维护的 Document AI 官方示例仓库：收录多个演
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/document-ai-samples 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 332 --> 336
-    line [333, 334, 333, 334, 335, 333, 333]
+    x-axis ["2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 331 --> 336
+    line [333, 334, 333, 334, 335, 333, 332]
 ```
 
-2026-10-18 333 → 2026-11-20 333（+0）
+2026-10-19 333 → 2026-11-21 332（-1）
 
 
 ---

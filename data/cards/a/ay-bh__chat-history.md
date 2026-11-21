@@ -1,6 +1,6 @@
 # ay-bh/chat-history
 
-⭐ 15 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ay-bh/chat-history) · [官网](https://crates.io/crates/chat-history) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ay-bh/chat-history) · [官网](https://crates.io/crates/chat-history) · 个人维护
 
 **供 AI agent 检索 Claude Code/Codex/Cursor 对话历史的 CLI**
 
@@ -46,12 +46,12 @@ Rust 编写的 CLI 工具，读取本机的 Claude Code、OpenAI Codex 与 Curso
 ```mermaid
 xychart-beta
     title "ay-bh/chat-history 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-12", "2026-11-15", "2026-11-21"]
     y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    line [12, 13, 14, 15, 14]
 ```
 
-2026-10-18 12 → 2026-11-20 15（+3）
+2026-10-19 12 → 2026-11-21 14（+2）
 
 
 ---

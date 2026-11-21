@@ -1,6 +1,6 @@
 # simadan11/GitHub-Copilot-app
 
-⭐ 57 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/simadan11/GitHub-Copilot-app) · 组织维护
+⭐ 56 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/simadan11/GitHub-Copilot-app) · 组织维护
 
 **面向 GitHub 仓库的桌面端 Agent 开发工作管理应用**
 
@@ -45,13 +45,13 @@ GitHub 官方的桌面应用，定位为管理从想法到 pull request 全流�
 
 ```mermaid
 xychart-beta
-    title "simadan11/GitHub-Copilot-app 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
-    y-axis "stars" 56 --> 63
-    line [62, 57]
+    title "simadan11/GitHub-Copilot-app 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 55 --> 63
+    line [62, 57, 56]
 ```
 
-2026-11-18 62 → 2026-11-20 57（-5）
+2026-11-18 62 → 2026-11-21 56（-6）
 
 
 ---

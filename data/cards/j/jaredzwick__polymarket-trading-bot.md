@@ -46,12 +46,12 @@ TypeScript + Bun 编写的 Polymarket 预测市场交易机器人：内置事件
 ```mermaid
 xychart-beta
     title "jaredzwick/polymarket-trading-bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-20 27（+1）
+2026-10-19 26 → 2026-11-21 27（+1）
 
 
 ---

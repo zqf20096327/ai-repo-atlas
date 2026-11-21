@@ -1,6 +1,6 @@
 # Gitstar-OC/Mindect
 
-⭐ 12 · Jupyter Notebook · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Gitstar-OC/Mindect) · [官网](https://mindect.vercel.app) · 组织维护
+⭐ 12 · Jupyter Notebook · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Gitstar-OC/Mindect) · [官网](https://mindect.vercel.app) · 组织维护
 
 **面向所有人的 AI/ML/深度学习教学文档站**
 
@@ -42,12 +42,12 @@ Mindect 是一个基于 Next.js/MDX 构建的学习文档站点，内容覆盖 A
 ```mermaid
 xychart-beta
     title "Gitstar-OC/Mindect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-19 12 → 2026-11-21 12（+0）
 
 
 ---

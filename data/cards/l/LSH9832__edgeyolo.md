@@ -1,6 +1,6 @@
 # LSH9832/edgeyolo
 
-⭐ 532 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/LSH9832/edgeyolo) · 个人维护 · 中文 README
+⭐ 531 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/LSH9832/edgeyolo) · 个人维护 · 中文 README
 
 **面向边缘设备的无锚框实时目标检测器（含训练与多平台部署）**
 
@@ -45,12 +45,12 @@ EdgeYOLO 是一个 anchor-free 单阶段目标检测模型，在 COCO2017 上达
 ```mermaid
 xychart-beta
     title "LSH9832/edgeyolo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
     y-axis "stars" 530 --> 533
-    line [531, 532, 532]
+    line [531, 532, 531]
 ```
 
-2026-10-18 531 → 2026-11-20 532（+1）
+2026-10-19 531 → 2026-11-21 531（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # audeering/opensmile-python
 
-⭐ 337 · BitBake · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/audeering/opensmile-python) · [官网](https://audeering.github.io/opensmile-python/) · 组织维护
+⭐ 336 · BitBake · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/audeering/opensmile-python) · [官网](https://audeering.github.io/opensmile-python/) · 组织维护
 
 **openSMILE 音频特征提取工具的 Python 接口，面向语音研究**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "audeering/opensmile-python 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-10", "2026-11-21"]
     y-axis "stars" 334 --> 338
-    line [335, 336, 337, 337]
+    line [335, 336, 337, 336]
 ```
 
-2026-10-18 335 → 2026-11-20 337（+2）
+2026-10-19 335 → 2026-11-21 336（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # llm-tools/embedJs
 
-⭐ 602 · TypeScript · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/llm-tools/embedJs) · [官网](https://llm-tools.mintlify.app/get-started/introduction) · 组织维护
+⭐ 601 · TypeScript · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/llm-tools/embedJs) · [官网](https://llm-tools.mintlify.app/get-started/introduction) · 组织维护
 
 **Node.js 的 RAG/LLM 应用构建框架**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "llm-tools/embedJs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-10", "2026-11-21"]
     y-axis "stars" 600 --> 603
-    line [602, 601, 602, 602]
+    line [602, 601, 602, 601]
 ```
 
-2026-10-18 602 → 2026-11-20 602（+0）
+2026-10-19 602 → 2026-11-21 601（-1）
 
 
 ---

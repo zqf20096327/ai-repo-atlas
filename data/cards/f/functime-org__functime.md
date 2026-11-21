@@ -1,6 +1,6 @@
 # functime-org/functime
 
-⭐ 1,195 · Python · Apache-2.0 · 推送 2026-05-03 · [GitHub](https://github.com/functime-org/functime) · [官网](https://functime-org.github.io/functime/) · 组织维护
+⭐ 1,194 · Python · Apache-2.0 · 推送 2026-05-03 · [GitHub](https://github.com/functime-org/functime) · [官网](https://functime-org.github.io/functime/) · 组织维护
 
 **面向面板数据的大规模时间序列预测与特征提取 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "functime-org/functime 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-21"]
     y-axis "stars" 1187 --> 1196
-    line [1188, 1189, 1193, 1194, 1195, 1195]
+    line [1188, 1189, 1193, 1194, 1195, 1194]
 ```
 
-2026-10-18 1,188 → 2026-11-20 1,195（+7）
+2026-10-19 1,188 → 2026-11-21 1,194（+6）
 
 
 ---

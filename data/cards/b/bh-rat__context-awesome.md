@@ -1,6 +1,6 @@
 # bh-rat/context-awesome
 
-⭐ 62 · TypeScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/bh-rat/context-awesome) · [官网](https://www.context-awesome.com) · 个人维护
+⭐ 63 · TypeScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/bh-rat/context-awesome) · [官网](https://www.context-awesome.com) · 个人维护
 
 **为 AI agent 提供 awesome 清单检索的 MCP 服务与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bh-rat/context-awesome 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 60 --> 64
+    line [61, 62, 63]
 ```
 
-2026-10-18 61 → 2026-11-20 62（+1）
+2026-10-18 61 → 2026-11-21 63（+2）
 
 
 ---

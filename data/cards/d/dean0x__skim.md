@@ -1,6 +1,6 @@
 # dean0x/skim
 
-⭐ 31 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dean0x/skim) · [官网](https://dean0x.github.io/x/skim/) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dean0x/skim) · [官网](https://dean0x.github.io/x/skim/) · 个人维护
 
 **为编码 agent 优化上下文的 Rust CLI：代码压缩与输出瘦身**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dean0x/skim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-20 31（+1）
+2026-10-19 30 → 2026-11-21 31（+1）
 
 
 ---

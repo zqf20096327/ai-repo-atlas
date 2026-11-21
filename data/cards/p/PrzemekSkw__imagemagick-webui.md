@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PrzemekSkw/imagemagick-webui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 142 --> 146
-    line [145, 144, 143, 143]
+    title "PrzemekSkw/imagemagick-webui 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 142 --> 145
+    line [144, 143, 143]
 ```
 
-2026-10-18 145 → 2026-11-20 143（-2）
+2026-10-19 144 → 2026-11-21 143（-1）
 
 
 ---

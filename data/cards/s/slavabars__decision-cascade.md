@@ -1,6 +1,6 @@
 # slavabars/decision-cascade
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/slavabars/decision-cascade) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/slavabars/decision-cascade) · [官网](https://huggingface.co/slavabars/decision-cascade-packs) · 个人维护
 
 **本地决策引擎：输出类型化、可校准的概率决策而非文本生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "slavabars/decision-cascade 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    title "slavabars/decision-cascade 星数(近 11 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 0 --> 91
-    line [3, 81, 77, 78, 77, 73, 74, 80, 83, 24]
+    line [3, 81, 77, 78, 77, 73, 74, 80, 83, 24, 24]
 ```
 
-2026-10-18 3 → 2026-11-20 24（+21）
+2026-10-19 3 → 2026-11-21 24（+21）
 
 
 ---

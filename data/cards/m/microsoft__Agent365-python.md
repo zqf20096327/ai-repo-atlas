@@ -1,6 +1,6 @@
 # microsoft/Agent365-python
 
-⭐ 43 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/Agent365-python) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/Agent365-python) · 组织维护
 
 **微软面向 M365/Teams 的企业级 Agent 开发 SDK（Python）**
 
@@ -45,12 +45,12 @@ Microsoft Agent 365 SDK 在 Microsoft 365 Agents SDK 之上扩展企业级能力
 ```mermaid
 xychart-beta
     title "microsoft/Agent365-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
     y-axis "stars" 40 --> 44
     line [41, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-20 43（+2）
+2026-10-18 41 → 2026-11-21 43（+2）
 
 
 ---

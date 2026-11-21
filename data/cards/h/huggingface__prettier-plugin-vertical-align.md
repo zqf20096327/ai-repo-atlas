@@ -43,12 +43,12 @@ Hugging Face 维护的 Prettier 插件，用于 JavaScript/TypeScript 代码格�
 ```mermaid
 xychart-beta
     title "huggingface/prettier-plugin-vertical-align 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-20 17（+0）
+2026-10-19 17 → 2026-11-21 17（+0）
 
 
 ---

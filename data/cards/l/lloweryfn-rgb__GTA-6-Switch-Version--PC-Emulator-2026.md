@@ -1,6 +1,6 @@
 # lloweryfn-rgb/GTA-6-Switch-Version--PC-Emulator-2026
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lloweryfn-rgb/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
+⭐ 35 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lloweryfn-rgb/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
 
 **面向 Windows 玩家的 GTA VI PC 版安装与配置指南**
 
@@ -40,6 +40,18 @@
 > L5: A dedicated PC installation and configuration resource for Grand Theft Auto VI, covering Windows preparation, graphi
 > L19: The installation resource focuses on:
 > L49: The companion installer does not contain or install GTA VI game files.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lloweryfn-rgb/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 34 --> 37
+    line [36, 35]
+```
+
+2026-11-20 36 → 2026-11-21 35（-1）
 
 
 ---

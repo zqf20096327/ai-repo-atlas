@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lxcong/deepseek-harness-book 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-20"]
+    title "lxcong/deepseek-harness-book 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-11-16 11 → 2026-11-20 12（+1）
+2026-11-16 11 → 2026-11-21 12（+1）
 
 
 ---

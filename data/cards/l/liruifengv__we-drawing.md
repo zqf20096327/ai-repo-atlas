@@ -1,6 +1,6 @@
 # liruifengv/we-drawing
 
-⭐ 632 · TypeScript · MIT · 推送 2025-12-31 · [GitHub](https://github.com/liruifengv/we-drawing) · [官网](https://we-drawing.com) · 个人维护 · 中文 README
+⭐ 631 · TypeScript · MIT · 推送 2025-12-31 · [GitHub](https://github.com/liruifengv/we-drawing) · [官网](https://we-drawing.com) · 个人维护 · 中文 README
 
 **每天一句中国古诗词自动生成 AI 配图的网站项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liruifengv/we-drawing 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
+    title "liruifengv/we-drawing 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
     y-axis "stars" 630 --> 636
-    line [634, 635, 633, 632, 633, 631, 632, 632]
+    line [635, 633, 632, 633, 631, 632, 631]
 ```
 
-2026-10-18 634 → 2026-11-20 632（-2）
+2026-10-19 635 → 2026-11-21 631（-4）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/ArtifactsBenchmark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-20"]
-    y-axis "stars" 279 --> 283
-    line [280, 281, 282, 282]
+    title "Tencent-Hunyuan/ArtifactsBenchmark 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-21"]
+    y-axis "stars" 280 --> 283
+    line [281, 282, 282]
 ```
 
-2026-10-18 280 → 2026-11-20 282（+2）
+2026-10-19 281 → 2026-11-21 282（+1）
 
 
 ---

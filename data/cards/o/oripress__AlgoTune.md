@@ -1,6 +1,6 @@
 # oripress/AlgoTune
 
-⭐ 119 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/oripress/AlgoTune) · [官网](https://AlgoTune.io) · 个人维护
+⭐ 120 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/oripress/AlgoTune) · [官网](https://AlgoTune.io) · 个人维护
 
 **NeurIPS 2025 基准：让 LLM 写出更快求解 154 个数理/CS 问题的代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oripress/AlgoTune 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 119]
+    title "oripress/AlgoTune 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 118 --> 121
+    line [119, 120]
 ```
 
-2026-10-18 118 → 2026-11-20 119（+1）
+2026-10-19 119 → 2026-11-21 120（+1）
 
 
 ---

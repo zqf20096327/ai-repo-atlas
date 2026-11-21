@@ -1,6 +1,6 @@
 # thevseprod/humanizer-ru
 
-⭐ 47 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/thevseprod/humanizer-ru) · [官网](https://t.me/klimchenko_ai) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/thevseprod/humanizer-ru) · [官网](https://t.me/klimchenko_ai) · 个人维护
 
 **去除 AI 文本痕迹的规则包：面向俄语，附 Claude Code 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thevseprod/humanizer-ru 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 43 --> 48
-    line [44, 45, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 43 --> 49
+    line [44, 45, 46, 47, 48]
 ```
 
-2026-10-18 44 → 2026-11-20 47（+3）
+2026-10-18 44 → 2026-11-21 48（+4）
 
 
 ---

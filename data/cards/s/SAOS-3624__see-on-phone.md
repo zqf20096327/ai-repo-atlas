@@ -1,6 +1,6 @@
 # SAOS-3624/see-on-phone
 
-⭐ 16 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SAOS-3624/see-on-phone) · 个人维护 · 中文 README
+⭐ 18 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SAOS-3624/see-on-phone) · 个人维护 · 中文 README
 
 **安卓 AI 聊天 App：对话中用手机摄像头看世界**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SAOS-3624/see-on-phone 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 8 --> 17
-    line [9, 12, 14, 16]
+    title "SAOS-3624/see-on-phone 星数(近 5 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 8 --> 19
+    line [9, 12, 14, 16, 18]
 ```
 
-2026-11-15 9 → 2026-11-20 16（+7）
+2026-11-15 9 → 2026-11-21 18（+9）
 
 
 ---

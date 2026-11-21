@@ -45,12 +45,12 @@ ECCV 2020 论文 Learning Gradient Fields for Shape Generation 的 PyTorch 官�
 ```mermaid
 xychart-beta
     title "RuojinCai/ShapeGF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 203 --> 205
     line [204, 204]
 ```
 
-2026-10-18 204 → 2026-11-20 204（+0）
+2026-10-19 204 → 2026-11-21 204（+0）
 
 
 ---

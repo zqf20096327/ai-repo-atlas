@@ -1,6 +1,6 @@
 # jeromeboivin/ollama-chat
 
-⭐ 23 · Python · 推送 2026-08-31 · [GitHub](https://github.com/jeromeboivin/ollama-chat) · 个人维护
+⭐ 23 · Python · 推送 2026-11-20 · [GitHub](https://github.com/jeromeboivin/ollama-chat) · 个人维护
 
 **面向本地 LLM 的可扩展 Python CLI 聊天工具，带 RAG 与插件系统**
 
@@ -46,12 +46,12 @@ Python 命令行聊天工具：通过本地运行的 Ollama 或 Llama-Cpp 服务
 ```mermaid
 xychart-beta
     title "jeromeboivin/ollama-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-20 23（+0）
+2026-10-19 23 → 2026-11-21 23（+0）
 
 
 ---

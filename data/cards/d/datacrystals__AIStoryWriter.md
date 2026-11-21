@@ -1,6 +1,6 @@
 # datacrystals/AIStoryWriter
 
-⭐ 261 · Python · AGPL-3.0 · 推送 2025-11-24 · [GitHub](https://github.com/datacrystals/AIStoryWriter) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 LLM 的长篇小说生成命令行工具**
 
@@ -11,7 +11,7 @@ Python 命令行工具：读取用户提供的提示词文件，分阶段（初�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

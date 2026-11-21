@@ -1,6 +1,6 @@
 # hypernetwork-research-group/hypertorch
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/hypernetwork-research-group/hypertorch) · [官网](https://hypernetwork-research-group.github.io/hypertorch/) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hypernetwork-research-group/hypertorch) · [官网](https://hypernetwork-research-group.github.io/hypertorch/) · 组织维护
 
 **超图学习模型的训练与基准评测 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hypernetwork-research-group/hypertorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 26 --> 29
     line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-11-20 27（-1）
+2026-10-19 28 → 2026-11-21 27（-1）
 
 
 ---

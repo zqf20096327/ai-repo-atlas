@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "proyecto26/notebooklm-ai-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    title "proyecto26/notebooklm-ai-plugin 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 64 --> 69
-    line [65, 66, 68]
+    line [65, 66, 68, 68]
 ```
 
-2026-10-18 65 → 2026-11-20 68（+3）
+2026-10-19 65 → 2026-11-21 68（+3）
 
 
 ---

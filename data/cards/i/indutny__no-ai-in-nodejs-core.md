@@ -1,6 +1,6 @@
 # indutny/no-ai-in-nodejs-core
 
-⭐ 159 · MIT · 推送 2026-11-04 · [GitHub](https://github.com/indutny/no-ai-in-nodejs-core) · 个人维护
+⭐ 158 · MIT · 推送 2026-11-04 · [GitHub](https://github.com/indutny/no-ai-in-nodejs-core) · 个人维护
 
 **致 Node.js TSC 的请愿书：反对接受 LLM 生成的核心 PR**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "indutny/no-ai-in-nodejs-core 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-12", "2026-11-13", "2026-11-21"]
     y-axis "stars" 155 --> 160
-    line [156, 157, 159, 159]
+    line [156, 157, 159, 158]
 ```
 
-2026-10-18 156 → 2026-11-20 159（+3）
+2026-10-19 156 → 2026-11-21 158（+2）
 
 
 ---

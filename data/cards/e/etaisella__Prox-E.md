@@ -1,6 +1,6 @@
 # etaisella/Prox-E
 
-⭐ 19 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/etaisella/Prox-E) · [官网](https://etaisella.github.io/Prox-E/) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/etaisella/Prox-E) · [官网](https://etaisella.github.io/Prox-E/) · 组织维护
 
 **SIGGRAPH'26 论文官方实现：基于基元抽象的细粒度 3D 形状编辑框架**
 
@@ -45,12 +45,12 @@ Prox-E 的官方 PyTorch 实现，训练无关的 3D 编辑框架：将输入 3D
 ```mermaid
 xychart-beta
     title "etaisella/Prox-E 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-11-20 19（+1）
+2026-10-19 18 → 2026-11-21 20（+2）
 
 
 ---

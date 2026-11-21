@@ -1,6 +1,6 @@
 # CESNET/cesnet-models
 
-⭐ 28 · Python · BSD-3-Clause · 推送 2026-03-23 · [GitHub](https://github.com/CESNET/cesnet-models) · [官网](https://cesnet.github.io/cesnet-models/) · 组织维护
+⭐ 29 · Python · BSD-3-Clause · 推送 2026-03-23 · [GitHub](https://github.com/CESNET/cesnet-models) · [官网](https://cesnet.github.io/cesnet-models/) · 组织维护
 
 **网络流量分类的神经网络架构与预训练权重包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CESNET/cesnet-models 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-11", "2026-11-21"]
     y-axis "stars" 27 --> 30
-    line [28, 29, 28, 28]
+    line [28, 29, 28, 29]
 ```
 
-2026-10-18 28 → 2026-11-20 28（+0）
+2026-10-19 28 → 2026-11-21 29（+1）
 
 
 ---

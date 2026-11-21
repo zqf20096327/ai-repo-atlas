@@ -1,6 +1,6 @@
 # vsh5dvsch7-png/yueying
 
-⭐ 12 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/vsh5dvsch7-png/yueying) · [官网](https://pypi.org/project/yueying/) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/vsh5dvsch7-png/yueying) · [官网](https://pypi.org/project/yueying/) · 个人维护 · 中文 README
 
 **让 AI 看视频的 MCP 服务器：本地/链接视频转时间戳转录与关键帧**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vsh5dvsch7-png/yueying 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 11, 12, 12]
+    title "vsh5dvsch7-png/yueying 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 11, 12, 13]
 ```
 
-2026-10-18 10 → 2026-11-20 12（+2）
+2026-10-19 11 → 2026-11-21 13（+2）
 
 
 ---

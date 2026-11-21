@@ -1,6 +1,6 @@
 # owayo/noslop
 
-⭐ 13 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/owayo/noslop) · 个人维护 · 中文 README
+⭐ 13 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/owayo/noslop) · 个人维护 · 中文 README
 
 **检测日语文章中 AI 写作惯用痕迹的 Rust Linter**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "owayo/noslop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

@@ -46,13 +46,13 @@ Fastly 官方维护的 Agent Plugin：以 SKILL.md 加 references 目录的形�
 
 ```mermaid
 xychart-beta
-    title "fastly/fastly-agent-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 34 --> 38
-    line [35, 36, 37, 37]
+    title "fastly/fastly-agent-toolkit 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-11-20 37（+2）
+2026-10-19 36 → 2026-11-21 37（+1）
 
 
 ---

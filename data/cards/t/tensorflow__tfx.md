@@ -1,6 +1,6 @@
 # tensorflow/tfx
 
-⭐ 2,190 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/tensorflow/tfx) · [官网](https://tensorflow.github.io/tfx/) · 组织维护
+⭐ 2,190 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/tensorflow/tfx) · [官网](https://tensorflow.github.io/tfx/) · 组织维护
 
 **给 ML 工程师：基于 TensorFlow 的生产级端到端 ML 流水线平台**
 
@@ -44,13 +44,13 @@ Google 出品的基于 TensorFlow 的生产级机器学习平台 TFX：提供配
 
 ```mermaid
 xychart-beta
-    title "tensorflow/tfx 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-20"]
+    title "tensorflow/tfx 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2188 --> 2193
-    line [2191, 2192, 2189, 2190, 2191, 2190]
+    line [2191, 2192, 2189, 2190, 2191, 2190, 2190]
 ```
 
-2026-10-18 2,191 → 2026-11-20 2,190（-1）
+2026-10-19 2,191 → 2026-11-21 2,190（-1）
 
 
 ---

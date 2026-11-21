@@ -1,6 +1,6 @@
 # martian56/aviary
 
-⭐ 10 · Rust · MIT · 推送 2026-07-17 · [GitHub](https://github.com/martian56/aviary) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/martian56/aviary) · 个人维护
 
 **为 Raven 语言提供统一多家 LLM 服务的 chat-completion 客户端库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "martian56/aviary 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-18", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-18 10 → 2026-11-20 10（+0）
+2026-11-18 10 → 2026-11-21 10（+0）
 
 
 ---

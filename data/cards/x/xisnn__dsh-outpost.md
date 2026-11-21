@@ -1,6 +1,6 @@
 # xisnn/dsh-outpost
 
-⭐ 8 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xisnn/dsh-outpost) · 个人维护
+⭐ 8 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xisnn/dsh-outpost) · 个人维护
 
 **DeepSeek Harness 的非官方手机与桌面客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xisnn/dsh-outpost 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 5 --> 9
     line [6, 7, 8, 6, 8, 8]
 ```
 
-2026-10-24 6 → 2026-11-20 8（+2）
+2026-10-24 6 → 2026-11-21 8（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # bjcoombs/ai-native-toolkit
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/bjcoombs/ai-native-toolkit) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bjcoombs/ai-native-toolkit) · 个人维护
 
 **面向 AI 协作开发的 Claude Code 插件与 Agent Skills 工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bjcoombs/ai-native-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-11-20 33（+1）
+2026-10-18 32 → 2026-11-21 34（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # dream-num/univer-cli
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/dream-num/univer-cli) · [官网](https://univer.ai) · 组织维护 · 中文 README
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dream-num/univer-cli) · [官网](https://univer.ai) · 组织维护 · 中文 README
 
 **给 AI agent 用的本地 Office 命令行工具：创建/编辑/审阅文档表格幻灯片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dream-num/univer-cli 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 16 --> 23
     line [17, 18, 20, 21, 22, 22]
 ```
 
-2026-11-08 17 → 2026-11-20 22（+5）
+2026-11-08 17 → 2026-11-21 22（+5）
 
 
 ---

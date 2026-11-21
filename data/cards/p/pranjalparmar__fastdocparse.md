@@ -1,6 +1,6 @@
 # pranjalparmar/fastdocparse
 
-⭐ 12 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/pranjalparmar/fastdocparse) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/pranjalparmar/fastdocparse) · 个人维护
 
 **从半结构化文档提取结构化数据的 Python 库，逐字段溯源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pranjalparmar/fastdocparse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-19 12 → 2026-11-21 12（+0）
 
 
 ---

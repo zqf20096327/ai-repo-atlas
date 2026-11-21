@@ -1,6 +1,6 @@
 # Roriz/active_genie
 
-⭐ 166 · Ruby · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Roriz/active_genie) · [官网](https://activegenie.ai/) · 个人维护
+⭐ 166 · Ruby · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Roriz/active_genie) · [官网](https://activegenie.ai/) · 个人维护
 
 **Ruby 的 GenAI 功能工具包：模型无关的比较/评分/排序模块**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Roriz/active_genie 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
     y-axis "stars" 165 --> 168
     line [167, 166, 166]
 ```
 
-2026-10-18 167 → 2026-11-20 166（-1）
+2026-10-18 167 → 2026-11-21 166（-1）
 
 
 ---

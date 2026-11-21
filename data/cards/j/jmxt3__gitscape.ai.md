@@ -1,6 +1,6 @@
 # jmxt3/gitscape.ai
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/jmxt3/gitscape.ai) · [官网](https://gitscape.ai) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/jmxt3/gitscape.ai) · [官网](https://gitscape.ai) · 个人维护
 
 **为 AI agent 编译代码库为技能并做安全扫描的工具**
 
@@ -46,12 +46,12 @@ GitScape 是一个开源平台、开发者工具与 MCP 服务器：将任意公
 ```mermaid
 xychart-beta
     title "jmxt3/gitscape.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-11-20 32（+0）
+2026-10-19 32 → 2026-11-21 33（+1）
 
 
 ---

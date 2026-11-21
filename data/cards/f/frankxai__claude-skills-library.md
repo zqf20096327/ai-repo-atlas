@@ -1,6 +1,6 @@
 # frankxai/claude-skills-library
 
-⭐ 48 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/frankxai/claude-skills-library) · [官网](https://frankx.ai/products/agentic-creator-os?utm_source=github&utm_medium=repo&utm_campaign=claude-skills-library) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/frankxai/claude-skills-library) · [官网](https://frankx.ai/products/agentic-creator-os?utm_source=github&utm_medium=repo&utm_campaign=claude-skills-library) · 个人维护
 
 **面向 Claude Code 等 6 种运行时的 114 条 Agent 技能库与 7 个强制包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "frankxai/claude-skills-library 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-21"]
     y-axis "stars" 45 --> 49
     line [47, 46, 47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-20 48（+1）
+2026-10-18 47 → 2026-11-21 48（+1）
 
 
 ---

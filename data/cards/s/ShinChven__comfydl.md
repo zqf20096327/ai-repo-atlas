@@ -45,12 +45,12 @@ ComfyDL 是一个 Python 命令行工具，用于从 Hugging Face、Civitai 等�
 ```mermaid
 xychart-beta
     title "ShinChven/comfydl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 11（+0）
 
 
 ---

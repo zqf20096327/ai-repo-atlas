@@ -1,6 +1,6 @@
 # opendilab/awesome-diffusion-model-in-rl
 
-⭐ 1,657 · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/opendilab/awesome-diffusion-model-in-rl) · 组织维护 · 中文 README
+⭐ 1,658 · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/opendilab/awesome-diffusion-model-in-rl) · 组织维护 · 中文 README
 
 **扩散模型与强化学习交叉领域论文清单（持续更新）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "opendilab/awesome-diffusion-model-in-rl 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 1650 --> 1659
-    line [1651, 1652, 1653, 1654, 1655, 1654, 1653, 1658, 1657, 1657]
+    title "opendilab/awesome-diffusion-model-in-rl 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 1651 --> 1659
+    line [1652, 1653, 1654, 1655, 1654, 1653, 1658, 1657, 1658]
 ```
 
-2026-10-18 1,651 → 2026-11-20 1,657（+6）
+2026-10-19 1,652 → 2026-11-21 1,658（+6）
 
 
 ---

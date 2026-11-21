@@ -1,6 +1,6 @@
 # OrderG-X/dsh-chrome-bridge
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/OrderG-X/dsh-chrome-bridge) · [官网](https://chromewebstore.google.com/detail/bippcbbbipppmhjkjomgdnjbooecbimo) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/OrderG-X/dsh-chrome-bridge) · [官网](https://chromewebstore.google.com/detail/bippcbbbipppmhjkjomgdnjbooecbimo) · 个人维护 · 中文 README
 
 **让 DSH agent 操控你现有 Chrome 的浏览器桥接插件**
 
@@ -47,12 +47,12 @@ DSH (DeepSeek Harness) 的浏览器插件：通过 Chrome 原生消息管道与 
 ```mermaid
 xychart-beta
     title "OrderG-X/dsh-chrome-bridge 星数(近 6 点)"
-    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 2 --> 11
-    line [3, 4, 8, 9, 10, 10]
+    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 2 --> 12
+    line [3, 4, 8, 9, 10, 11]
 ```
 
-2026-10-30 3 → 2026-11-20 10（+7）
+2026-10-30 3 → 2026-11-21 11（+8）
 
 
 ---

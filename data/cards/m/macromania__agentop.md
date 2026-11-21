@@ -46,12 +46,12 @@ Electron 桌面应用（Bun + React），以目标（goal）而非对话驱动 A
 ```mermaid
 xychart-beta
     title "macromania/agentop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 11（+0）
 
 
 ---

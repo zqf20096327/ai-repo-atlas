@@ -1,6 +1,6 @@
 # cartercpp/ml-from-scratch
 
-⭐ 19 · 推送 2026-11-16 · [GitHub](https://github.com/cartercpp/ml-from-scratch) · [官网](https://youtu.be/68MsbnEx7pI?is=-YDftoHjcI_u881I) · 个人维护
+⭐ 21 · 推送 2026-11-16 · [GitHub](https://github.com/cartercpp/ml-from-scratch) · [官网](https://youtu.be/68MsbnEx7pI?is=-YDftoHjcI_u881I) · 个人维护
 
 **C++ 从零实现的机器学习算法集合索引**
 
@@ -45,12 +45,12 @@ cartercpp 维护的算法清单仓库，收录其以现代 C++（C++20/23，部�
 ```mermaid
 xychart-beta
     title "cartercpp/ml-from-scratch 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 13 --> 20
-    line [14, 17, 19, 19]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 13 --> 22
+    line [14, 17, 19, 21]
 ```
 
-2026-11-11 14 → 2026-11-20 19（+5）
+2026-11-11 14 → 2026-11-21 21（+7）
 
 
 ---

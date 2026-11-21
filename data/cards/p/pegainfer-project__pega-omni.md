@@ -1,6 +1,6 @@
 # pegainfer-project/pega-omni
 
-⭐ 51 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/pegainfer-project/pega-omni) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Rust 编写的 OpenAI 兼容语音/图像推理服务，支持流式 TTS 与全双工语音**
 

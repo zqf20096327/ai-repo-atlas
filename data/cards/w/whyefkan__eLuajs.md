@@ -1,6 +1,6 @@
 # whyefkan/eLuajs
 
-⭐ 6 · Java · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/whyefkan/eLuajs) · 个人维护
+⭐ 7 · Java · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/whyefkan/eLuajs) · 个人维护
 
 **面向 Android Java 开发者的轻量 IDE，内置 AI 编码助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "whyefkan/eLuajs 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 2 --> 7
-    line [3, 5, 6, 6]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 2 --> 8
+    line [3, 5, 6, 7]
 ```
 
-2026-10-31 3 → 2026-11-20 6（+3）
+2026-10-31 3 → 2026-11-21 7（+4）
 
 
 ---

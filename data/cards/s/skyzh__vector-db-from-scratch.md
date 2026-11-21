@@ -1,6 +1,6 @@
 # skyzh/vector-db-from-scratch
 
-⭐ 816 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/skyzh/vector-db-from-scratch) · [官网](https://skyzh.github.io/vector-db-from-scratch/) · 个人维护
+⭐ 815 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/skyzh/vector-db-from-scratch) · [官网](https://skyzh.github.io/vector-db-from-scratch/) · 个人维护
 
 **Rust 实战课程：从零构建内存向量数据库并接入 SQL**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skyzh/vector-db-from-scratch 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    title "skyzh/vector-db-from-scratch 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 806 --> 817
-    line [807, 808, 809, 810, 811, 812, 810, 813, 814, 816]
+    line [807, 808, 809, 810, 811, 812, 810, 813, 814, 816, 815]
 ```
 
-2026-10-18 807 → 2026-11-20 816（+9）
+2026-10-18 807 → 2026-11-21 815（+8）
 
 
 ---

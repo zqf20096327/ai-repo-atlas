@@ -1,6 +1,6 @@
 # adinurlanova218-png/ai-payment-router-proxy
 
-⭐ 75 · 推送 2026-11-02 · [GitHub](https://github.com/adinurlanova218-png/ai-payment-router-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 77 · 推送 2026-11-02 · [GitHub](https://github.com/adinurlanova218-png/ai-payment-router-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向开发者的 AI API 支付扣费避坑指南文档**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "adinurlanova218-png/ai-payment-router-proxy 星数(近 9 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
     y-axis "stars" 0 --> 86
-    line [3, 33, 54, 68, 73, 79, 78, 75, 75]
+    line [3, 33, 54, 68, 73, 79, 78, 75, 77]
 ```
 
-2026-11-02 3 → 2026-11-20 75（+72）
+2026-11-02 3 → 2026-11-21 77（+74）
 
 
 ---

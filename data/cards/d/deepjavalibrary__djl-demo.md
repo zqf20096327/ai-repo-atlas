@@ -1,6 +1,6 @@
 # deepjavalibrary/djl-demo
 
-⭐ 353 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-11 · [GitHub](https://github.com/deepjavalibrary/djl-demo) · [官网](https://demo.djl.ai) · 组织维护
+⭐ 352 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-11 · [GitHub](https://github.com/deepjavalibrary/djl-demo) · [官网](https://demo.djl.ai) · 组织维护
 
 **Deep Java Library (DJL) 官方示例集，覆盖推理/训练/Android/AWS/大数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "deepjavalibrary/djl-demo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 351 --> 354
-    line [353, 352, 353, 353]
+    line [353, 352, 353, 352]
 ```
 
-2026-10-18 353 → 2026-11-20 353（+0）
+2026-10-19 353 → 2026-11-21 352（-1）
 
 
 ---

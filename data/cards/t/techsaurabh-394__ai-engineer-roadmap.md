@@ -1,6 +1,6 @@
 # techsaurabh-394/ai-engineer-roadmap
 
-⭐ 6 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/techsaurabh-394/ai-engineer-roadmap) · [官网](https://techsaurabh-394.github.io/ai-engineer-roadmap/) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/techsaurabh-394/ai-engineer-roadmap) · [官网](https://mernstackdev.com/ai-roadmap/) · 个人维护
 
 **面向 AI 工程学习者的 132 主题路线图教程库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "techsaurabh-394/ai-engineer-roadmap 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-11", "2026-11-21"]
     y-axis "stars" 3 --> 7
     line [4, 5, 6, 6]
 ```
 
-2026-10-31 4 → 2026-11-20 6（+2）
+2026-10-31 4 → 2026-11-21 6（+2）
 
 
 ---

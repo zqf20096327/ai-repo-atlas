@@ -1,6 +1,6 @@
 # google-deepmind/gbench
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-deepmind/gbench) · [官网](https://pypi.org/project/gbench/ ) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-deepmind/gbench) · [官网](https://pypi.org/project/gbench/ ) · 组织维护
 
 **开源 LLM/VLM 性能与能力评测基准套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/gbench 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    x-axis ["2026-11-11", "2026-11-15", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15]
 ```
 
-2026-11-11 12 → 2026-11-20 14（+2）
+2026-11-11 12 → 2026-11-21 15（+3）
 
 
 ---

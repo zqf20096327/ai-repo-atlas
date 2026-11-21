@@ -1,6 +1,6 @@
 # purinzan/gx3-cli-mcp
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/purinzan/gx3-cli-mcp) · [官网](https://zenn.dev/purinzan/articles/gx-works3-ladder-cli-mcp) · 个人维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/purinzan/gx3-cli-mcp) · [官网](https://zenn.dev/purinzan/articles/gx-works3-ladder-cli-mcp) · 个人维护
 
 **不开 GX Works3 即可分析三菱 PLC 梯形图的只读 CLI + MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "purinzan/gx3-cli-mcp 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-20 10（+0）
+2026-11-08 10 → 2026-11-21 10（+0）
 
 
 ---

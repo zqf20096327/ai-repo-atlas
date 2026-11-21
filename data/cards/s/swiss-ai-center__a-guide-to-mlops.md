@@ -1,6 +1,6 @@
 # swiss-ai-center/a-guide-to-mlops
 
-⭐ 63 · Dockerfile · CC-BY-SA-4.0 · 推送 2026-09-29 · [GitHub](https://github.com/swiss-ai-center/a-guide-to-mlops) · [官网](https://mlops.swiss-ai-center.ch) · 组织维护
+⭐ 63 · Dockerfile · CC-BY-SA-4.0 · 推送 2026-11-20 · [GitHub](https://github.com/swiss-ai-center/a-guide-to-mlops) · [官网](https://mlops.swiss-ai-center.ch) · 组织维护
 
 **MLOps 工具与实践指南：面向 ML 项目的教程站点源码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "swiss-ai-center/a-guide-to-mlops 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 61 --> 64
     line [62, 63, 62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-20 63（+1）
+2026-10-18 62 → 2026-11-21 63（+1）
 
 
 ---

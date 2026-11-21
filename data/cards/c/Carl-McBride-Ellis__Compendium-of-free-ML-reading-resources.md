@@ -1,6 +1,6 @@
 # Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources
 
-⭐ 581 · 推送 2026-11-07 · [GitHub](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources) · 个人维护
+⭐ 580 · 推送 2026-11-07 · [GitHub](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources) · 个人维护
 
 **免费机器学习阅读资源清单：198 本书籍按 18 类组织**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21"]
     y-axis "stars" 573 --> 582
-    line [574, 575, 576, 577, 578, 580, 581, 576, 581, 580, 581, 581]
+    line [574, 575, 576, 577, 578, 580, 581, 576, 581, 580, 581, 580]
 ```
 
-2026-10-18 574 → 2026-11-20 581（+7）
+2026-10-19 574 → 2026-11-21 580（+6）
 
 
 ---

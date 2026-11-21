@@ -1,6 +1,6 @@
 # jdtoscano94/NABLA-SciML
 
-⭐ 688 · Jupyter Notebook · 推送 2026-09-12 · [GitHub](https://github.com/jdtoscano94/NABLA-SciML) · 个人维护
+⭐ 689 · Jupyter Notebook · 推送 2026-09-12 · [GitHub](https://github.com/jdtoscano94/NABLA-SciML) · 个人维护
 
 **科学机器学习研究代码集：PINNs/DeepONet/KAN 的教程与研究实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jdtoscano94/NABLA-SciML 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 685 --> 689
-    line [687, 686, 687, 688, 688]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 685 --> 690
+    line [687, 686, 687, 688, 689]
 ```
 
-2026-10-18 687 → 2026-11-20 688（+1）
+2026-10-19 687 → 2026-11-21 689（+2）
 
 
 ---

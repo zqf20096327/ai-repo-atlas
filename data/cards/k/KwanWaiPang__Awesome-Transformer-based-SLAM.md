@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KwanWaiPang/Awesome-Transformer-based-SLAM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "KwanWaiPang/Awesome-Transformer-based-SLAM 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 315 --> 318
-    line [316, 317]
+    line [316, 317, 317]
 ```
 
-2026-10-18 316 → 2026-11-20 317（+1）
+2026-10-19 316 → 2026-11-21 317（+1）
 
 
 ---

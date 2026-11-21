@@ -1,6 +1,6 @@
 # speakeasy-api/speakeasy
 
-⭐ 461 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/speakeasy-api/speakeasy) · [官网](https://speakeasy.com) · 组织维护
+⭐ 460 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/speakeasy-api/speakeasy) · [官网](https://speakeasy.com) · 组织维护
 
 **面向 API 团队的 OpenAPI 工具链：生成多语言 SDK 与 Terraform Provider**
 
@@ -45,12 +45,12 @@ Speakeasy 提供以 OpenAPI 3.X 为输入的开发工具链：生成 10 种语�
 ```mermaid
 xychart-beta
     title "speakeasy-api/speakeasy 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
     y-axis "stars" 453 --> 462
-    line [454, 455, 456, 457, 454, 458, 460, 461, 461]
+    line [454, 455, 456, 457, 454, 458, 460, 461, 460]
 ```
 
-2026-10-18 454 → 2026-11-20 461（+7）
+2026-10-19 454 → 2026-11-21 460（+6）
 
 
 ---

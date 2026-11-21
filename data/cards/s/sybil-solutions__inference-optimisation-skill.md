@@ -1,6 +1,6 @@
 # sybil-solutions/inference-optimisation-skill
 
-⭐ 1,252 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sybil-solutions/inference-optimisation-skill) · 组织维护
+⭐ 1,325 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sybil-solutions/inference-optimisation-skill) · 组织维护
 
 **供 Agent 使用的本地 LLM 推理提速调优技能包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sybil-solutions/inference-optimisation-skill 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 850 --> 1288
-    line [886, 1071, 1252]
+    title "sybil-solutions/inference-optimisation-skill 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 843 --> 1368
+    line [886, 1071, 1252, 1325]
 ```
 
-2026-11-18 886 → 2026-11-20 1,252（+366）
+2026-11-18 886 → 2026-11-21 1,325（+439）
 
 
 ---

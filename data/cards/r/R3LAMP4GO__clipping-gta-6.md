@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "R3LAMP4GO/clipping-gta-6 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    title "R3LAMP4GO/clipping-gta-6 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 4 --> 7
-    line [5, 6]
+    line [5, 6, 6]
 ```
 
-2026-11-19 5 → 2026-11-20 6（+1）
+2026-11-19 5 → 2026-11-21 6（+1）
 
 
 ---

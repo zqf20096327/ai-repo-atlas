@@ -42,12 +42,12 @@ ML.ENERGY Benchmark and Leaderboard V2 仓库，定位为生成式 AI 能耗基�
 ```mermaid
 xychart-beta
     title "ml-energy/leaderboard-v2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-11-20 50（+0）
+2026-10-19 50 → 2026-11-21 50（+0）
 
 
 ---

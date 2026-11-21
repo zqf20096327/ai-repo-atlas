@@ -46,12 +46,12 @@ Project Flogo 的 ML 扩展仓库，提供推理（Inference）活动，采用�
 ```mermaid
 xychart-beta
     title "project-flogo/ml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 14（+0）
 
 
 ---

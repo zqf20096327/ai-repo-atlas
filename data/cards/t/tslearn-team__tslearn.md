@@ -1,6 +1,6 @@
 # tslearn-team/tslearn
 
-⭐ 3,193 · Python · BSD-2-Clause · 推送 2026-11-19 · [GitHub](https://github.com/tslearn-team/tslearn) · [官网](https://tslearn.readthedocs.io) · 组织维护
+⭐ 3,193 · Python · BSD-2-Clause · 推送 2026-11-20 · [GitHub](https://github.com/tslearn-team/tslearn) · [官网](https://tslearn.readthedocs.io) · 组织维护
 
 **Python 时间序列机器学习工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tslearn-team/tslearn 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20"]
+    title "tslearn-team/tslearn 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 3186 --> 3195
-    line [3187, 3189, 3190, 3191, 3190, 3191, 3192, 3194, 3193]
+    line [3187, 3189, 3190, 3191, 3190, 3191, 3192, 3194, 3193, 3193]
 ```
 
-2026-10-18 3,187 → 2026-11-20 3,193（+6）
+2026-10-19 3,187 → 2026-11-21 3,193（+6）
 
 
 ---

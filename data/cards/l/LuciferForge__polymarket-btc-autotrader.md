@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LuciferForge/polymarket-btc-autotrader 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-20"]
+    title "LuciferForge/polymarket-btc-autotrader 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-02", "2026-11-06", "2026-11-20", "2026-11-21"]
     y-axis "stars" 18 --> 22
-    line [20, 19, 20, 21]
+    line [20, 19, 20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-20 21（+1）
+2026-10-19 20 → 2026-11-21 21（+1）
 
 
 ---

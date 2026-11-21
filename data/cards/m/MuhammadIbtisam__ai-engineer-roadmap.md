@@ -1,6 +1,6 @@
 # MuhammadIbtisam/ai-engineer-roadmap
 
-⭐ 31 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/MuhammadIbtisam/ai-engineer-roadmap) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/MuhammadIbtisam/ai-engineer-roadmap) · 个人维护
 
 **AI 工程师学习路线图：从 Python 基础到生产级 RAG/Agent/微调**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MuhammadIbtisam/ai-engineer-roadmap 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 28 --> 32
-    line [29, 30, 31, 30, 31, 31]
+    title "MuhammadIbtisam/ai-engineer-roadmap 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 30, 31, 32]
 ```
 
-2026-10-18 29 → 2026-11-20 31（+2）
+2026-10-19 30 → 2026-11-21 32（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # gokayfem/ComfyUI_VLM_nodes
 
-⭐ 593 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/gokayfem/ComfyUI_VLM_nodes) · [官网](https://registry.comfy.org/nodes/comfyui_vlm_nodes) · 个人维护
+⭐ 592 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/gokayfem/ComfyUI_VLM_nodes) · [官网](https://registry.comfy.org/nodes/comfyui_vlm_nodes) · 个人维护
 
 **ComfyUI 视觉语言模型节点包：图像/视频描述、检测与分割**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gokayfem/ComfyUI_VLM_nodes 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 587 --> 594
-    line [588, 590, 591, 592, 591, 592, 593, 593]
+    title "gokayfem/ComfyUI_VLM_nodes 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 589 --> 594
+    line [590, 591, 592, 591, 592, 593, 592]
 ```
 
-2026-10-18 588 → 2026-11-20 593（+5）
+2026-10-19 590 → 2026-11-21 592（+2）
 
 
 ---

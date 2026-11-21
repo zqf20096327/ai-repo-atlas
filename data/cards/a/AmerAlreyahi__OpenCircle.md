@@ -1,6 +1,6 @@
 # AmerAlreyahi/OpenCircle
 
-⭐ 62 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/AmerAlreyahi/OpenCircle) · [官网](https://ameralreyahi.com/projects/opencircle) · 个人维护
+⭐ 62 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/AmerAlreyahi/OpenCircle) · [官网](https://ameralreyahi.com/projects/opencircle) · 个人维护
 
 **Windows/Linux 屏幕圈选工具：圈选即搜索、就地翻译、问 AI、截图标注**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmerAlreyahi/OpenCircle 星数(近 12 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    title "AmerAlreyahi/OpenCircle 星数(近 13 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 67
-    line [7, 8, 9, 39, 48, 52, 53, 55, 56, 57, 60, 62]
+    line [7, 8, 9, 39, 48, 52, 53, 55, 56, 57, 60, 62, 62]
 ```
 
-2026-10-26 7 → 2026-11-20 62（+55）
+2026-10-26 7 → 2026-11-21 62（+55）
 
 
 ---

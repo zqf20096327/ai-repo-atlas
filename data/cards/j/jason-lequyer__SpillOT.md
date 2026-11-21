@@ -1,6 +1,6 @@
 # jason-lequyer/SpillOT
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/jason-lequyer/SpillOT) · [官网](https://jason-lequyer.github.io/SpillOT/) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/jason-lequyer/SpillOT) · [官网](https://jason-lequyer.github.io/SpillOT/) · 个人维护
 
 **给显微多重成像研究者做通道串扰去除与去噪的工具包**
 
@@ -40,6 +40,18 @@
 > L7: Highly multiplexed imaging techniques are widely used to study tissue architecture, cell states, and cell-cell inter
 > L249: The denoiser is not part of the Fiji plugin, but you can run it from the command line. We first need to install py
 > L325: The `255` at the end denotes the dynamic range of the image. For 8-bit images from Set12, `255` is a sensible valu
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jason-lequyer/SpillOT 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
+```
+
+2026-11-20 11 → 2026-11-21 12（+1）
 
 
 ---

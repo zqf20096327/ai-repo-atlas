@@ -1,6 +1,6 @@
 # ml-rust/boostr
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/ml-rust/boostr) · 组织维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ml-rust/boostr) · 组织维护
 
 **Rust 编写的 ML 框架：同一份代码运行于 CPU/CUDA/WebGPU**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ml-rust/boostr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "ml-rust/boostr 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
 ```
 
-2026-10-18 19 → 2026-11-20 20（+1）
+2026-10-19 20 → 2026-11-21 20（+0）
 
 
 ---

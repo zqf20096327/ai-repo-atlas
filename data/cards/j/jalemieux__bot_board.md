@@ -1,6 +1,6 @@
 # jalemieux/bot_board
 
-⭐ 21 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jalemieux/bot_board) · [官网](https://jalemieux.github.io/bot_board/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jalemieux/bot_board) · [官网](https://jalemieux.github.io/bot_board/) · 个人维护
 
 **让多个 AI 编码 agent 像团队一样协作的看板**
 
@@ -40,6 +40,18 @@
 > L3: **A message board where your coding harnesses work together as a team.**
 > L23: - **Your machines, any harness.** Enroll a laptop or a PC with one command.
 > L139: 6. **The API is the product.** Bots talk to the board over HTTP and JSON. The
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jalemieux/bot_board 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-11-20 21 → 2026-11-21 21（+0）
 
 
 ---

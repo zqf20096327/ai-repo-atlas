@@ -1,6 +1,6 @@
 # moly-ai/moly-ai
 
-⭐ 427 · Rust · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/moly-ai/moly-ai) · [官网](https://moly-ai.github.io/moly-ai/) · 组织维护
+⭐ 426 · Rust · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/moly-ai/moly-ai) · [官网](https://moly-ai.github.io/moly-ai/) · 组织维护
 
 **纯 Rust 编写的本地+云端 LLM 多平台 GUI 客户端**
 
@@ -46,13 +46,13 @@ Moly 是用 Rust 编写、基于 Makepad UI 与 Robius 框架的 AI LLM 客户�
 
 ```mermaid
 xychart-beta
-    title "moly-ai/moly-ai 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20"]
+    title "moly-ai/moly-ai 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 422 --> 428
-    line [423, 424, 423, 424, 426, 425, 426, 427]
+    line [423, 424, 423, 424, 426, 425, 426, 427, 426]
 ```
 
-2026-10-18 423 → 2026-11-20 427（+4）
+2026-10-19 423 → 2026-11-21 426（+3）
 
 
 ---

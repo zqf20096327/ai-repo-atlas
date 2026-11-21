@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "btitkin/ComfyUI-KSampler-Matrix-Lab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
+    title "btitkin/ComfyUI-KSampler-Matrix-Lab 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 35 --> 38
-    line [36, 37, 36, 36]
+    line [37, 36, 36]
 ```
 
-2026-10-18 36 → 2026-11-20 36（+0）
+2026-10-19 37 → 2026-11-21 36（-1）
 
 
 ---

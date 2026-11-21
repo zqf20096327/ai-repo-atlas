@@ -1,6 +1,6 @@
 # quarkusio/quarkus-workshop-langchain4j
 
-⭐ 116 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/quarkusio/quarkus-workshop-langchain4j) · [官网](http://quarkus.io/quarkus-workshop-langchain4j/) · 组织维护
+⭐ 117 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/quarkusio/quarkus-workshop-langchain4j) · [官网](http://quarkus.io/quarkus-workshop-langchain4j/) · 组织维护
 
 **面向 Java 开发者的 Quarkus + LangChain4j AI 应用开发教程**
 
@@ -44,12 +44,12 @@ Quarkus 官方组织的实战教程仓库，教授如何用 Quarkus 与 LangChai
 ```mermaid
 xychart-beta
     title "quarkusio/quarkus-workshop-langchain4j 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 111 --> 117
-    line [112, 113, 114, 116, 116]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 111 --> 118
+    line [112, 113, 114, 116, 117]
 ```
 
-2026-10-18 112 → 2026-11-20 116（+4）
+2026-10-19 112 → 2026-11-21 117（+5）
 
 
 ---

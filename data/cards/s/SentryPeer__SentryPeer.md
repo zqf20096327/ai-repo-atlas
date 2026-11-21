@@ -1,6 +1,6 @@
 # SentryPeer/SentryPeer
 
-⭐ 212 · C · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/SentryPeer/SentryPeer) · [官网](https://sentrypeer.org) · 个人维护
+⭐ 212 · C · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/SentryPeer/SentryPeer) · [官网](https://sentrypeer.org) · 个人维护
 
 **SIP 蜜罐欺诈检测工具：收集恶意 IP 与号码并 P2P 共享**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SentryPeer/SentryPeer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 211 --> 213
     line [212, 212]
 ```
 
-2026-10-18 212 → 2026-11-20 212（+0）
+2026-10-19 212 → 2026-11-21 212（+0）
 
 
 ---

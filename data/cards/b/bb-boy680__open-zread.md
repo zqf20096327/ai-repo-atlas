@@ -1,6 +1,6 @@
 # bb-boy680/open-zread
 
-⭐ 52 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/bb-boy680/open-zread) · [官网](https://www.npmjs.com/package/@open-zread/cli) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **一条命令把代码库生成带图表 Wiki 的 AI 文档工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

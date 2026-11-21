@@ -1,6 +1,6 @@
 # AgriQuantAI/AgriQuant-AI
 
-⭐ 588 · Python · 推送 2026-05-26 · [GitHub](https://github.com/AgriQuantAI/AgriQuant-AI) · [官网](https://agriquant.ai) · 组织维护
+⭐ 580 · Python · 推送 2026-05-26 · [GitHub](https://github.com/AgriQuantAI/AgriQuant-AI) · [官网](https://agriquant.ai) · 组织维护
 
 **预测六大农产品期货价格波动的 AI 天气情报系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriQuantAI/AgriQuant-AI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 581 --> 665
-    line [658, 646, 644, 643, 644, 617, 612, 588]
+    title "AgriQuantAI/AgriQuant-AI 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 573 --> 665
+    line [658, 646, 644, 643, 644, 617, 612, 588, 580]
 ```
 
-2026-10-18 658 → 2026-11-20 588（-70）
+2026-10-19 658 → 2026-11-21 580（-78）
 
 
 ---

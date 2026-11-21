@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ShirleyRex/assertify.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "ShirleyRex/assertify.io 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 119 --> 122
-    line [121, 120]
+    line [121, 120, 120]
 ```
 
-2026-10-18 121 → 2026-11-20 120（-1）
+2026-10-19 121 → 2026-11-21 120（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # anhnx000/viet-nhu-nguoi
 
-⭐ 77 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/anhnx000/viet-nhu-nguoi) · [官网](https://github.com/anhnx000/vietnamese-humanizer#readme) · 个人维护 · 中文 README
+⭐ 77 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/anhnx000/viet-nhu-nguoi) · [官网](https://github.com/anhnx000/vietnamese-humanizer#readme) · 个人维护 · 中文 README
 
 **让 AI 用越南语自然人行文写作的 agent 技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anhnx000/viet-nhu-nguoi 星数(近 9 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    title "anhnx000/viet-nhu-nguoi 星数(近 10 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 83
-    line [8, 44, 59, 68, 70, 72, 75, 76, 77]
+    line [8, 44, 59, 68, 70, 72, 75, 76, 77, 77]
 ```
 
-2026-11-11 8 → 2026-11-20 77（+69）
+2026-11-11 8 → 2026-11-21 77（+69）
 
 
 ---

@@ -1,6 +1,6 @@
 # raphaelmansuy/opengenie
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/raphaelmansuy/opengenie) · [官网](https://raphaelmansuy.github.io/opengenie/) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/raphaelmansuy/opengenie) · [官网](https://raphaelmansuy.github.io/opengenie/) · 个人维护
 
 **自托管 Databricks 编码代理应用：可见工作区、自选模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raphaelmansuy/opengenie 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-21"]
     y-axis "stars" 7 --> 10
     line [8, 9, 9]
 ```
 
-2026-11-11 8 → 2026-11-20 9（+1）
+2026-11-11 8 → 2026-11-21 9（+1）
 
 
 ---

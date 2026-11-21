@@ -1,6 +1,6 @@
 # ivaxi0s/PersistBench
 
-⭐ 12 · HTML · 推送 2026-09-15 · [GitHub](https://github.com/ivaxi0s/PersistBench) · 个人维护
+⭐ 13 · HTML · 推送 2026-09-15 · [GitHub](https://github.com/ivaxi0s/PersistBench) · 个人维护
 
 **评测带长期记忆 LLM 助手的基准：跨域泄漏/谄媚/有益记忆**
 
@@ -45,12 +45,12 @@ ICML 投稿的基准代码库，评测 LLM 助手的长期记忆行为：跨域�
 ```mermaid
 xychart-beta
     title "ivaxi0s/PersistBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-18 11 → 2026-11-21 13（+2）
 
 
 ---

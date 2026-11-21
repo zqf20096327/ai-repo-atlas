@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ward-Software-Defined-Systems/UniFI-Network-SIEM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-16", "2026-11-20"]
+    title "Ward-Software-Defined-Systems/UniFI-Network-SIEM 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 15 --> 21
-    line [16, 17, 19, 20]
+    line [16, 17, 19, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-20 20（+4）
+2026-10-19 16 → 2026-11-21 20（+4）
 
 
 ---

@@ -45,12 +45,12 @@ Ollama API 的 Java 客户端绑定库，封装 Ollama 的补全生成、对话�
 ```mermaid
 xychart-beta
     title "Asedem/OllamaJavaAPI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

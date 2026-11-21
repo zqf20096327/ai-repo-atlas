@@ -1,6 +1,6 @@
 # cyborg-garden/swarm-map
 
-⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/cyborg-garden/swarm-map) · [官网](https://nimbleco.ai) · 组织维护
+⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/cyborg-garden/swarm-map) · [官网](https://nimbleco.ai) · 组织维护
 
 **多租户异构 agent 运行时（Hermes/Letta）的统一管理编排平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyborg-garden/swarm-map 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 24 --> 30
-    line [25, 26, 28, 29, 29]
+    title "cyborg-garden/swarm-map 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 25 --> 30
+    line [26, 28, 29, 29]
 ```
 
-2026-10-18 25 → 2026-11-20 29（+4）
+2026-10-19 26 → 2026-11-21 29（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # frangelbarrera/Awesome-Hacking-with-AI
 
-⭐ 48 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/frangelbarrera/Awesome-Hacking-with-AI) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/frangelbarrera/Awesome-Hacking-with-AI) · 个人维护
 
 **AI 安全领域策展清单：AI 助攻安全与 AI 系统安全双线资源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "frangelbarrera/Awesome-Hacking-with-AI 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 38 --> 49
-    line [39, 42, 43, 44, 45, 47, 44, 46, 48, 48]
+    title "frangelbarrera/Awesome-Hacking-with-AI 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 41 --> 50
+    line [42, 43, 44, 45, 47, 44, 46, 48, 49]
 ```
 
-2026-10-18 39 → 2026-11-20 48（+9）
+2026-10-19 42 → 2026-11-21 49（+7）
 
 
 ---

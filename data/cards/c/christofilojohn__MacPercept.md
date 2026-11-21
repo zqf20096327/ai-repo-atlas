@@ -41,6 +41,18 @@ Percept 是一个常驻 macOS 菜单栏的本地推理应用，支持四种模�
 > L16: |Emotion Vibes|Detects faces, classifies the visible emotion, and tracks recent emotion history.|Emotieff plus Appl
 > L97: - Inference runs locally through Core ML and Vision.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "christofilojohn/MacPercept 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-20 13 → 2026-11-21 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `d708ddcdc25d` · [字段定义](../../DATASET.md)*

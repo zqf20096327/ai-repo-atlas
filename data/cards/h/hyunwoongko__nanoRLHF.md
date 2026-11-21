@@ -1,6 +1,6 @@
 # hyunwoongko/nanoRLHF
 
-⭐ 204 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/hyunwoongko/nanoRLHF) · 个人维护
+⭐ 205 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/hyunwoongko/nanoRLHF) · 个人维护
 
 **面向学习者的从零实现 RLHF 训练全流程框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hyunwoongko/nanoRLHF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 203 --> 205
-    line [204, 204]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 203 --> 206
+    line [204, 205]
 ```
 
-2026-10-18 204 → 2026-11-20 204（+0）
+2026-10-18 204 → 2026-11-21 205（+1）
 
 
 ---

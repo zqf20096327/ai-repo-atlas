@@ -1,6 +1,6 @@
 # yuanstarstar/dsh-game-stack
 
-⭐ 50 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yuanstarstar/dsh-game-stack) · 个人维护 · 中文 README
+⭐ 51 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yuanstarstar/dsh-game-stack) · 个人维护 · 中文 README
 
 **给 DSH agent 的打游戏插件合集：感知/视觉/学习/直播/启动器 5 包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuanstarstar/dsh-game-stack 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 2 --> 54
-    line [6, 33, 37, 39, 45, 46, 48, 50]
+    title "yuanstarstar/dsh-game-stack 星数(近 9 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 55
+    line [6, 33, 37, 39, 45, 46, 48, 50, 51]
 ```
 
-2026-11-02 6 → 2026-11-20 50（+44）
+2026-11-02 6 → 2026-11-21 51（+45）
 
 
 ---

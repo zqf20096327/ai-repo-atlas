@@ -45,13 +45,13 @@ TypeScript SDK 与 CLI，提供自托管 MPC 钱包能力：密钥分片、无�
 
 ```mermaid
 xychart-beta
-    title "vultisig/vultisig-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "vultisig/vultisig-sdk 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
 ```
 
-2026-10-18 14 → 2026-11-20 15（+1）
+2026-10-19 15 → 2026-11-21 15（+0）
 
 
 ---

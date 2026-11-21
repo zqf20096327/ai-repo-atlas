@@ -1,6 +1,6 @@
 # jubscodes/get-shit-pretty
 
-⭐ 57 · JavaScript · MIT · 推送 2026-06-07 · [GitHub](https://github.com/jubscodes/get-shit-pretty) · [官网](https://gsp.jubs.studio/) · 个人维护
+⭐ 58 · JavaScript · MIT · 推送 2026-06-07 · [GitHub](https://github.com/jubscodes/get-shit-pretty) · [官网](https://gsp.jubs.studio/) · 个人维护
 
 **面向 AI 编码工具的设计工程技能系统：从品牌到代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jubscodes/get-shit-pretty 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57, 57]
+    x-axis ["2026-10-19", "2026-11-12", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 57, 58]
 ```
 
-2026-10-18 55 → 2026-11-20 57（+2）
+2026-10-19 55 → 2026-11-21 58（+3）
 
 
 ---

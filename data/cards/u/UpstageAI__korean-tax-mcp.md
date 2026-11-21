@@ -1,6 +1,6 @@
 # UpstageAI/korean-tax-mcp
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/UpstageAI/korean-tax-mcp) · [官网](https://upstageai.github.io/korean-tax-mcp/) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/UpstageAI/korean-tax-mcp) · [官网](https://upstageai.github.io/korean-tax-mcp/) · 组织维护
 
 **韩国税法 MCP 服务器：为 AI 代理提供带出处的税法依据检索**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "UpstageAI/korean-tax-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 3 --> 11
-    line [4, 5, 4, 8, 9, 10, 10]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 3 --> 12
+    line [4, 5, 4, 8, 9, 10, 11]
 ```
 
-2026-10-18 4 → 2026-11-20 10（+6）
+2026-10-19 4 → 2026-11-21 11（+7）
 
 
 ---

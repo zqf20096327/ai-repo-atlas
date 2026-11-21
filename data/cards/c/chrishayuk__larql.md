@@ -1,6 +1,6 @@
 # chrishayuk/larql
 
-⭐ 1,193 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/chrishayuk/larql) · [官网](https://vindex3.org) · 个人维护
+⭐ 1,195 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/chrishayuk/larql) · [官网](https://vindex3.org) · 个人维护
 
 **Rust 模型运行时：运行/服务/查询/编辑模型并可观察内部**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "chrishayuk/larql 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 1173 --> 1194
-    line [1174, 1175, 1179, 1185, 1193]
+    title "chrishayuk/larql 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 1172 --> 1197
+    line [1174, 1175, 1179, 1185, 1193, 1195]
 ```
 
-2026-11-08 1,174 → 2026-11-20 1,193（+19）
+2026-11-08 1,174 → 2026-11-21 1,195（+21）
 
 
 ---

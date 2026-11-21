@@ -45,12 +45,12 @@ Monorepo 形式的 Flutter 插件，封装 Argmax 开发的 WhisperKit 设备端
 ```mermaid
 xychart-beta
     title "r0227n/flutter_whisper_kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # KaruroChori/comfyui-bun-client
 
-⭐ 16 · TypeScript · BSD-3-Clause · 推送 2025-11-24 · [GitHub](https://github.com/KaruroChori/comfyui-bun-client) · [官网](https://karurochori.github.io/comfyui-bun-client/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Bun 运行时的 ComfyUI TypeScript 客户端库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # VictorMinemu/CC-Router
 
-⭐ 45 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/VictorMinemu/CC-Router) · [官网](https://www.npmjs.com/package/ai-cc-router) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/VictorMinemu/CC-Router) · [官网](https://www.npmjs.com/package/ai-cc-router) · 个人维护
 
 **本地多账号代理：在多个 Claude Max/OpenAI 订阅间轮询分流请求**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VictorMinemu/CC-Router 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 37 --> 46
-    line [38, 40, 43, 44, 45, 45]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 37 --> 47
+    line [38, 40, 43, 44, 45, 46]
 ```
 
-2026-10-18 38 → 2026-11-20 45（+7）
+2026-10-18 38 → 2026-11-21 46（+8）
 
 
 ---

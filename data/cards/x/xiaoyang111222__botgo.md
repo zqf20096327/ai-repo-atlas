@@ -1,6 +1,6 @@
 # xiaoyang111222/botgo
 
-⭐ 9 · JavaScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/xiaoyang111222/botgo) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/xiaoyang111222/botgo) · 个人维护 · 中文 README
 
 **装在手机本地运行的个人 AI 助手 App，数据只存本机**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoyang111222/botgo 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 2 --> 10
-    line [3, 6, 8, 9]
+    title "xiaoyang111222/botgo 星数(近 5 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 11
+    line [3, 6, 8, 9, 10]
 ```
 
-2026-11-10 3 → 2026-11-20 9（+6）
+2026-11-10 3 → 2026-11-21 10（+7）
 
 
 ---

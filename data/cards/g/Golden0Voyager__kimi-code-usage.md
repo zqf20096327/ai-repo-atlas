@@ -1,6 +1,6 @@
 # Golden0Voyager/kimi-code-usage
 
-⭐ 15 · Python · 推送 2026-10-22 · [GitHub](https://github.com/Golden0Voyager/kimi-code-usage) · 个人维护 · 中文 README
+⭐ 15 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Golden0Voyager/kimi-code-usage) · 个人维护 · 中文 README
 
 **Kimi Coding Plan 用量配额追踪工具链：CLI + MCP 服务器 + VS Code 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Golden0Voyager/kimi-code-usage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-18 15 → 2026-11-21 15（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SecureCodeWarrior/ai-security-rules 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 65 --> 69
-    line [66, 67, 68, 68]
+    title "SecureCodeWarrior/ai-security-rules 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 66 --> 69
+    line [67, 68, 68]
 ```
 
-2026-10-18 66 → 2026-11-20 68（+2）
+2026-10-19 67 → 2026-11-21 68（+1）
 
 
 ---

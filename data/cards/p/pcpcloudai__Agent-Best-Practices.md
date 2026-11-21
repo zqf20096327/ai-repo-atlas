@@ -1,6 +1,6 @@
 # pcpcloudai/Agent-Best-Practices
 
-⭐ 6 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pcpcloudai/Agent-Best-Practices) · 组织维护
+⭐ 7 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pcpcloudai/Agent-Best-Practices) · 组织维护
 
 **企业级 AI Agent 工程模式的实践文档集合**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "pcpcloudai/Agent-Best-Practices 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-16 5 → 2026-11-20 6（+1）
+2026-11-16 5 → 2026-11-21 7（+2）
 
 
 ---

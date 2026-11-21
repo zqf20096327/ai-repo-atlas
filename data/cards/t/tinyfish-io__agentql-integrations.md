@@ -1,6 +1,6 @@
 # tinyfish-io/agentql-integrations
 
-⭐ 32 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/tinyfish-io/agentql-integrations) · [官网](https://docs.agentql.com/integrations) · 组织维护
+⭐ 32 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tinyfish-io/agentql-integrations) · [官网](https://docs.agentql.com/integrations) · 组织维护
 
 **AgentQL 与自动化工作流和 AI agent 框架的集成集合**
 
@@ -44,12 +44,12 @@ AgentQL 官方维护的集成仓库：AgentQL 通过 AgentQL 查询或自然语�
 ```mermaid
 xychart-beta
     title "tinyfish-io/agentql-integrations 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-21"]
     y-axis "stars" 27 --> 33
     line [28, 29, 30, 31, 32, 32]
 ```
 
-2026-10-18 28 → 2026-11-20 32（+4）
+2026-10-19 28 → 2026-11-21 32（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # jamjet-labs/jamjet
 
-⭐ 24 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jamjet-labs/jamjet) · [官网](https://jamjet.dev) · 组织维护
+⭐ 24 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jamjet-labs/jamjet) · [官网](https://jamjet.dev) · 组织维护
 
 **AI agent 运行时安全层：拦截危险工具调用、审批、预算与审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jamjet-labs/jamjet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-21"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-20 24（+1）
+2026-10-18 23 → 2026-11-21 24（+1）
 
 
 ---

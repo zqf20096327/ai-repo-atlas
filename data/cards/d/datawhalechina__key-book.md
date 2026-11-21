@@ -1,6 +1,6 @@
 # datawhalechina/key-book
 
-⭐ 1,737 · Jupyter Notebook · NOASSERTION · 推送 2026-09-09 · [GitHub](https://github.com/datawhalechina/key-book) · [官网](https://datawhalechina.github.io/key-book/) · 组织维护 · 中文 README
+⭐ 1,736 · Jupyter Notebook · NOASSERTION · 推送 2026-09-09 · [GitHub](https://github.com/datawhalechina/key-book) · [官网](https://datawhalechina.github.io/key-book/) · 组织维护 · 中文 README
 
 **《机器学习理论导引》伴读笔记：概念、证明与案例补充**
 
@@ -46,13 +46,13 @@ Datawhale 组织编写的开源伴读笔记，针对周志华等著《机器学�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/key-book 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 1732 --> 1739
-    line [1733, 1734, 1736, 1734, 1738, 1737, 1738, 1737, 1737]
+    title "datawhalechina/key-book 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 1733 --> 1739
+    line [1734, 1736, 1734, 1738, 1737, 1738, 1737, 1736]
 ```
 
-2026-10-18 1,733 → 2026-11-20 1,737（+4）
+2026-10-19 1,734 → 2026-11-21 1,736（+2）
 
 
 ---

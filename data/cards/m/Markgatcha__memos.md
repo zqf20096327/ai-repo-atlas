@@ -45,13 +45,13 @@ MemOS 以单个 SQLite 文件为存储，为 MCP 客户端与 agent 提供跨会
 
 ```mermaid
 xychart-beta
-    title "Markgatcha/memos 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-20"]
+    title "Markgatcha/memos 星数(近 3 点)"
+    x-axis ["2026-11-01", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-01 10 → 2026-11-20 11（+1）
+2026-11-01 10 → 2026-11-21 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # queelius/ctk
 
-⭐ 25 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/queelius/ctk) · [官网](https://queelius.github.io/ctk/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/queelius/ctk) · [官网](https://queelius.github.io/ctk/) · 个人维护
 
 **多平台 AI 对话记录统一管理 CLI/TUI：导入、搜索、分支、导出与对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "queelius/ctk 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 19 --> 26
-    line [20, 22, 23, 24, 23, 25, 25]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 19 --> 27
+    line [20, 22, 23, 24, 23, 25, 26]
 ```
 
-2026-10-18 20 → 2026-11-20 25（+5）
+2026-10-19 20 → 2026-11-21 26（+6）
 
 
 ---

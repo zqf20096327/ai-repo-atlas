@@ -1,6 +1,6 @@
 # townsendmerino/goinfer
 
-⭐ 26 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/townsendmerino/goinfer) · 个人维护
+⭐ 26 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/townsendmerino/goinfer) · 个人维护
 
 **纯 Go 无 cgo 的本地 LLM 推理库与服务器，单静态二进制运行开放权重模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "townsendmerino/goinfer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 18 --> 27
-    line [19, 21, 22, 23, 22, 26, 26]
+    title "townsendmerino/goinfer 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 23, 22, 26, 26]
 ```
 
-2026-10-18 19 → 2026-11-20 26（+7）
+2026-10-19 21 → 2026-11-21 26（+5）
 
 
 ---

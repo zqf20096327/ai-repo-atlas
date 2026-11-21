@@ -1,6 +1,6 @@
 # schmitthub/clawker
 
-⭐ 59 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/schmitthub/clawker) · [官网](https://docs.clawker.dev) · 个人维护
+⭐ 59 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/schmitthub/clawker) · [官网](https://docs.clawker.dev) · 个人维护
 
 **自托管的 AI 编码 agent 沙箱平台：在 Docker 隔离容器中运行 Claude Code/Codex 等 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "schmitthub/clawker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 57 --> 60
     line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-20 59（+1）
+2026-10-19 58 → 2026-11-21 59（+1）
 
 
 ---

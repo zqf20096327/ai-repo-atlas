@@ -1,6 +1,6 @@
 # Muanyan-mjq/zotero-interlinear
 
-⭐ 88 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Muanyan-mjq/zotero-interlinear) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Muanyan-mjq/zotero-interlinear) · 个人维护 · 中文 README
 
 **Zotero 10/11 段落对照翻译插件：原文下方即显示译文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Muanyan-mjq/zotero-interlinear 星数(近 9 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 10 --> 95
-    line [17, 44, 65, 69, 73, 75, 79, 85, 88]
+    title "Muanyan-mjq/zotero-interlinear 星数(近 10 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 99
+    line [17, 44, 65, 69, 73, 75, 79, 85, 88, 92]
 ```
 
-2026-11-11 17 → 2026-11-20 88（+71）
+2026-11-11 17 → 2026-11-21 92（+75）
 
 
 ---

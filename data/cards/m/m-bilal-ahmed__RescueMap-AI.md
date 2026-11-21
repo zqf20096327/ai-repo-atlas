@@ -1,6 +1,6 @@
 # m-bilal-ahmed/RescueMap-AI
 
-⭐ 17 · TypeScript · 推送 2026-04-01 · [GitHub](https://github.com/m-bilal-ahmed/RescueMap-AI) · [官网](https://rescuemap-ai.org/) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/m-bilal-ahmed/RescueMap-AI) · [官网](https://rescuemap-ai.org/) · 个人维护
 
 **灾害应急响应平台：验证与聚类地理位置报告并实时可视化**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "m-bilal-ahmed/RescueMap-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-20 17（+0）
+2026-10-19 17 → 2026-11-21 17（+0）
 
 
 ---

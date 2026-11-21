@@ -1,6 +1,6 @@
 # janaador0827-commits/simulacra-forge
 
-⭐ 115 · HTML · 推送 2026-11-19 · [GitHub](https://github.com/janaador0827-commits/simulacra-forge) · 个人维护
+⭐ 115 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/janaador0827-commits/simulacra-forge) · 个人维护
 
 **多智能体对话模拟平台：观察自主 Agent 演化出共同语言协议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "janaador0827-commits/simulacra-forge 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 114 --> 117
     line [116, 115, 116, 115, 115]
 ```
 
-2026-10-18 116 → 2026-11-20 115（-1）
+2026-10-19 116 → 2026-11-21 115（-1）
 
 
 ---

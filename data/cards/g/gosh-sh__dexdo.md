@@ -1,6 +1,6 @@
 # gosh-sh/dexdo
 
-⭐ 10 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/gosh-sh/dexdo) · [官网](https://gosh-sh.github.io/dexdo/) · 组织维护
+⭐ 10 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/gosh-sh/dexdo) · [官网](https://gosh-sh.github.io/dexdo/) · 组织维护
 
 **运行在 Acki Nacki 链上的 DEX 后端，由 AI agent 驱动操作**
 
@@ -45,12 +45,12 @@ DEX.DO 去中心化交易所的后端，由两个 Rust 服务组成：HTTP API �
 ```mermaid
 xychart-beta
     title "gosh-sh/dexdo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

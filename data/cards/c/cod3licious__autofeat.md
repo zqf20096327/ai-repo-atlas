@@ -1,6 +1,6 @@
 # cod3licious/autofeat
 
-⭐ 546 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/cod3licious/autofeat) · 个人维护
+⭐ 545 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/cod3licious/autofeat) · 个人维护
 
 **Python 库：为线性模型自动生成与筛选非线性特征**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "cod3licious/autofeat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 545 --> 547
-    line [546, 546]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 544 --> 547
+    line [546, 545]
 ```
 
-2026-10-18 546 → 2026-11-20 546（+0）
+2026-10-19 546 → 2026-11-21 545（-1）
 
 
 ---

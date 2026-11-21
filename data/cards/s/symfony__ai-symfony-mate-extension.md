@@ -1,6 +1,6 @@
 # symfony/ai-symfony-mate-extension
 
-⭐ 11 · PHP · MIT · 推送 2026-11-18 · [GitHub](https://github.com/symfony/ai-symfony-mate-extension) · [官网](https://symfony.com/packages/ai-symfony-mate-extension) · 组织维护
+⭐ 11 · PHP · MIT · 推送 2026-11-20 · [GitHub](https://github.com/symfony/ai-symfony-mate-extension) · [官网](https://symfony.com/packages/ai-symfony-mate-extension) · 组织维护
 
 **Symfony AI Mate 的桥接扩展：容器内省与 profiler 数据访问工具**
 
@@ -43,12 +43,12 @@ symfony 组织维护的 Symfony AI Mate 桥接扩展，为 AI Mate 提供 Symfon
 ```mermaid
 xychart-beta
     title "symfony/ai-symfony-mate-extension 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

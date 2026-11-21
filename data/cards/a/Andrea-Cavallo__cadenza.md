@@ -1,6 +1,6 @@
 # Andrea-Cavallo/cadenza
 
-⭐ 16 · Go · MIT · 推送 2026-08-03 · [GitHub](https://github.com/Andrea-Cavallo/cadenza) · 个人维护
+⭐ 17 · Go · MIT · 推送 2026-08-03 · [GitHub](https://github.com/Andrea-Cavallo/cadenza) · 个人维护
 
 **面向渐进浩室/旋律 Techno 的 MIDI 生成器，输入 BPM+调性输出多轨 MIDI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Andrea-Cavallo/cadenza 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-20"]
-    y-axis "stars" 10 --> 17
-    line [11, 12, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-21"]
+    y-axis "stars" 10 --> 18
+    line [11, 12, 15, 16, 17]
 ```
 
-2026-10-18 11 → 2026-11-20 16（+5）
+2026-10-18 11 → 2026-11-21 17（+6）
 
 
 ---

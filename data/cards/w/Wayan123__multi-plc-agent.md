@@ -1,6 +1,6 @@
 # Wayan123/multi-plc-agent
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Wayan123/multi-plc-agent) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Wayan123/multi-plc-agent) · 个人维护
 
 **统一 MCP 服务器：让 AI agent 在 10 种 PLC 工程软件中编写梯形图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Wayan123/multi-plc-agent 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 6 --> 18
-    line [7, 15, 16, 17, 17]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 6 --> 19
+    line [7, 15, 16, 17, 18]
 ```
 
-2026-11-02 7 → 2026-11-20 17（+10）
+2026-11-02 7 → 2026-11-21 18（+11）
 
 
 ---

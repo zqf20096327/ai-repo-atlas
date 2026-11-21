@@ -1,6 +1,6 @@
 # Devinterview-io/sql-interview-questions
 
-⭐ 436 · 推送 2026-03-13 · [GitHub](https://github.com/Devinterview-io/sql-interview-questions) · 组织维护
+⭐ 437 · 推送 2026-03-13 · [GitHub](https://github.com/Devinterview-io/sql-interview-questions) · 组织维护
 
 **面向数据科学与机器学习面试的 SQL 面试题答案知识库**
 
@@ -44,12 +44,12 @@ Devinterview.io 维护的 SQL 面试问答仓库，收录 100 道 2026 年口径
 ```mermaid
 xychart-beta
     title "Devinterview-io/sql-interview-questions 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 427 --> 437
-    line [428, 429, 431, 432, 433, 429, 435, 436, 436]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 427 --> 438
+    line [428, 429, 431, 432, 433, 429, 435, 436, 437]
 ```
 
-2026-10-18 428 → 2026-11-20 436（+8）
+2026-10-19 428 → 2026-11-21 437（+9）
 
 
 ---

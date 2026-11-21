@@ -1,6 +1,6 @@
 # microsoft/copilot-sdk
 
-⭐ 10,697 · Java · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/copilot-sdk) · 组织维护
+⭐ 10,696 · Java · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/copilot-sdk) · 组织维护
 
 **微软官方多语言 SDK：在应用中嵌入 Copilot agent 运行时**
 
@@ -44,13 +44,13 @@ Microsoft（GitHub）Copilot SDK 提供 Python、TypeScript、Go、.NET、Java�
 
 ```mermaid
 xychart-beta
-    title "microsoft/copilot-sdk 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    title "microsoft/copilot-sdk 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 10678 --> 10698
-    line [10679, 10686, 10691, 10697]
+    line [10679, 10686, 10691, 10697, 10696]
 ```
 
-2026-11-16 10,679 → 2026-11-20 10,697（+18）
+2026-11-16 10,679 → 2026-11-21 10,696（+17）
 
 
 ---

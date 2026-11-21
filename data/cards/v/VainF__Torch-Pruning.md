@@ -1,6 +1,6 @@
 # VainF/Torch-Pruning
 
-⭐ 3,372 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/VainF/Torch-Pruning) · [官网](https://arxiv.org/abs/2301.12900) · 组织维护 · 中文 README
+⭐ 3,373 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/VainF/Torch-Pruning) · [官网](https://arxiv.org/abs/2301.12900) · 组织维护 · 中文 README
 
 **通用结构化剪枝框架：自动识别层依赖并移除耦合参数**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VainF/Torch-Pruning 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-21"]
     y-axis "stars" 3371 --> 3374
-    line [3373, 3372, 3372]
+    line [3373, 3372, 3373]
 ```
 
-2026-11-14 3,373 → 2026-11-20 3,372（-1）
+2026-11-14 3,373 → 2026-11-21 3,373（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "okunator/cellseg_models.pytorch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 107 --> 111
-    line [108, 109, 110, 110]
+    title "okunator/cellseg_models.pytorch 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 108 --> 111
+    line [109, 110, 110]
 ```
 
-2026-10-18 108 → 2026-11-20 110（+2）
+2026-10-19 109 → 2026-11-21 110（+1）
 
 
 ---

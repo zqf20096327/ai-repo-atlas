@@ -1,6 +1,6 @@
 # ericwang915/interview-copilot
 
-⭐ 13 · JavaScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/ericwang915/interview-copilot) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/ericwang915/interview-copilot) · 个人维护 · 中文 README
 
 **实时面试练习助手：双声道转写+LLM 草拟第一人称答案**
 
@@ -46,12 +46,12 @@ Electron 单窗口桌面应用，面向面试练习与复盘场景：将麦克�
 ```mermaid
 xychart-beta
     title "ericwang915/interview-copilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-19 12 → 2026-11-21 14（+2）
 
 
 ---

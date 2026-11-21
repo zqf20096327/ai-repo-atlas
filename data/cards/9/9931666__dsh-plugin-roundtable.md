@@ -1,6 +1,6 @@
 # 9931666/dsh-plugin-roundtable
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/9931666/dsh-plugin-roundtable) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/9931666/dsh-plugin-roundtable) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：把单次会话变成主持人+多专家圆桌会议**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（0.2.0-rc.2+）的插件，把一次会话升级为圆桌会�
 ```mermaid
 xychart-beta
     title "9931666/dsh-plugin-roundtable 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
     y-axis "stars" 11 --> 17
-    line [12, 13, 12, 14, 15, 16, 16]
+    line [12, 13, 12, 14, 15, 16, 15]
 ```
 
-2026-10-18 12 → 2026-11-20 16（+4）
+2026-10-19 12 → 2026-11-21 15（+3）
 
 
 ---

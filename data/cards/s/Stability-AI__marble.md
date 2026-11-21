@@ -45,12 +45,12 @@ MARBLE（Material Recomposition and Blending in CLIP-Space）的官方代码实�
 ```mermaid
 xychart-beta
     title "Stability-AI/marble 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-12", "2026-11-21"]
     y-axis "stars" 39 --> 42
     line [41, 40, 41, 41]
 ```
 
-2026-10-18 41 → 2026-11-20 41（+0）
+2026-10-19 41 → 2026-11-21 41（+0）
 
 
 ---

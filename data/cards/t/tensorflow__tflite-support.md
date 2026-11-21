@@ -1,6 +1,6 @@
 # tensorflow/tflite-support
 
-⭐ 439 · C++ · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/tensorflow/tflite-support) · 组织维护
+⭐ 439 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/tensorflow/tflite-support) · 组织维护
 
 **帮助开发者将 TFLite 模型部署到移动设备的工具库**
 
@@ -45,12 +45,12 @@ TensorFlow 官方的移动端 ML 部署工具包，含四部分：跨平台部�
 ```mermaid
 xychart-beta
     title "tensorflow/tflite-support 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 438 --> 443
     line [442, 441, 442, 440, 439, 439]
 ```
 
-2026-10-18 442 → 2026-11-20 439（-3）
+2026-10-19 442 → 2026-11-21 439（-3）
 
 
 ---

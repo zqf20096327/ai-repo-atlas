@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthroos/claude-code-review-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    title "anthroos/claude-code-review-skill 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 45 --> 47
+    line [46, 46]
 ```
 
-2026-10-18 45 → 2026-11-20 46（+1）
+2026-10-19 46 → 2026-11-21 46（+0）
 
 
 ---

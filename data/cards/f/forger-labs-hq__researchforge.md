@@ -1,6 +1,6 @@
 # forger-labs-hq/researchforge
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/forger-labs-hq/researchforge) · [官网](https://www.researchforgehq.com/) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/forger-labs-hq/researchforge) · [官网](https://www.researchforgehq.com/) · 个人维护
 
 **让 coding agent 隔夜跑实验的协议：冻结基线只留改进**
 
@@ -45,13 +45,13 @@ ResearchForge 是一个驱动 Claude Code、Cursor 或 API 模型做自动实验
 
 ```mermaid
 xychart-beta
-    title "forger-labs-hq/researchforge 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-20"]
+    title "forger-labs-hq/researchforge 星数(近 4 点)"
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-11-16 10 → 2026-11-20 12（+2）
+2026-11-16 10 → 2026-11-21 12（+2）
 
 
 ---

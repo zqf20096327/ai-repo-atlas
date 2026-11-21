@@ -1,6 +1,6 @@
 # Smana/runlore
 
-⭐ 20 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Smana/runlore) · 个人维护
+⭐ 20 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Smana/runlore) · 个人维护
 
 **开源 SRE agent：调查事故根因并把经验沉淀为自有知识库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Smana/runlore 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-20"]
+    title "Smana/runlore 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-16", "2026-11-21"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 19, 20, 20]
+    line [20, 19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-20 20（+1）
+2026-10-19 20 → 2026-11-21 20（+0）
 
 
 ---

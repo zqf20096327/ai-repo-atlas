@@ -1,6 +1,6 @@
 # OmniJev/awesome-jev-papers
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/OmniJev/awesome-jev-papers) · [官网](https://omnijev.github.io/awesome-jev-papers/) · 组织维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/OmniJev/awesome-jev-papers) · [官网](https://omnijev.github.io/awesome-jev-papers/) · 组织维护
 
 **围绕 Jev/System One 决策模型的论文清单（228 篇）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OmniJev/awesome-jev-papers 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    title "OmniJev/awesome-jev-papers 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 6 --> 14
-    line [7, 8, 9, 11, 7, 12, 13]
+    line [7, 8, 9, 11, 7, 12, 13, 13]
 ```
 
-2026-10-18 7 → 2026-11-20 13（+6）
+2026-10-19 7 → 2026-11-21 13（+6）
 
 
 ---

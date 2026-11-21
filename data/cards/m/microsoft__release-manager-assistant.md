@@ -1,6 +1,6 @@
 # microsoft/release-manager-assistant
 
-⭐ 29 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/release-manager-assistant) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/release-manager-assistant) · 组织维护
 
 **微软出品的 AI 发布管理助手：多智能体协同辅助软件发布决策**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/release-manager-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-20 29（+1）
+2026-10-18 28 → 2026-11-21 29（+1）
 
 
 ---

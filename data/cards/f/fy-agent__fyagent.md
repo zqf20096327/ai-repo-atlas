@@ -1,6 +1,6 @@
 # fy-agent/fyagent
 
-⭐ 218 · Rust · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/fy-agent/fyagent) · [官网](https://github.com/fy-agent/fyagent/releases/latest) · 组织维护 · 中文 README
+⭐ 218 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/fy-agent/fyagent) · [官网](https://github.com/fy-agent/fyagent/releases/latest) · 组织维护 · 中文 README
 
 **本地桌面应用：集中管理各 AI 编码工具的模型、账号与配置**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "fy-agent/fyagent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-20"]
+    title "fy-agent/fyagent 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-21"]
     y-axis "stars" 126 --> 1231
-    line [929, 1027, 1139, 219, 218, 218]
+    line [1027, 1139, 219, 218, 218]
 ```
 
-2026-10-18 929 → 2026-11-20 218（-711）
+2026-10-19 1,027 → 2026-11-21 218（-809）
 
 
 ---

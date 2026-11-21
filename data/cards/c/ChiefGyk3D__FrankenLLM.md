@@ -1,6 +1,6 @@
 # ChiefGyk3D/FrankenLLM
 
-⭐ 27 · Shell · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/ChiefGyk3D/FrankenLLM) · 个人维护
+⭐ 28 · Shell · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/ChiefGyk3D/FrankenLLM) · 个人维护
 
 **多 NVIDIA GPU 各自跑独立 Ollama 模型的部署脚本套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChiefGyk3D/FrankenLLM 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 21 --> 28
-    line [22, 23, 24, 26, 27, 27]
+    x-axis ["2026-10-19", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 21 --> 29
+    line [22, 23, 24, 26, 27, 28]
 ```
 
-2026-10-18 22 → 2026-11-20 27（+5）
+2026-10-19 22 → 2026-11-21 28（+6）
 
 
 ---

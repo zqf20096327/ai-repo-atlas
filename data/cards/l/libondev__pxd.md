@@ -40,6 +40,18 @@
 > L3: A universal UI component library for Vue 3.3+. Built-in light/dark theme, PC & mobile ready, animation-free mode sup
 > L16: - 🤖 **Agent-ready**: `pxd/agent` exposes components to AI agents through `snapshot` / `act` / `query`, with WebMCP 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "libondev/pxd 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-20 20 → 2026-11-21 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `5e71be0233c8` · [字段定义](../../DATASET.md)*

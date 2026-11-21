@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "roshancyriacmathew/Twitter-sentiment-analysis-using-Python-Machine-Learning-Project-8 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 67 --> 70
     line [68, 69, 68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-11-20 69（+1）
+2026-10-19 68 → 2026-11-21 69（+1）
 
 
 ---

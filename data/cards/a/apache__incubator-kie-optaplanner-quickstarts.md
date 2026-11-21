@@ -1,6 +1,6 @@
 # apache/incubator-kie-optaplanner-quickstarts
 
-⭐ 335 · Java · Apache-2.0 · 推送 2026-05-15 · [GitHub](https://github.com/apache/incubator-kie-optaplanner-quickstarts) · [官网](https://www.optaplanner.org/) · 组织维护
+⭐ 334 · Java · Apache-2.0 · 推送 2026-05-15 · [GitHub](https://github.com/apache/incubator-kie-optaplanner-quickstarts) · [官网](https://www.optaplanner.org/) · 组织维护
 
 **OptaPlanner 约束求解器官方快速上手示例集（8 类用例）**
 
@@ -45,12 +45,12 @@ Apache KIE 孵化项目维护的 OptaPlanner quickstarts 仓库，以 8 个运�
 ```mermaid
 xychart-beta
     title "apache/incubator-kie-optaplanner-quickstarts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
     y-axis "stars" 333 --> 336
-    line [334, 335, 335]
+    line [334, 335, 334]
 ```
 
-2026-10-18 334 → 2026-11-20 335（+1）
+2026-10-19 334 → 2026-11-21 334（+0）
 
 
 ---

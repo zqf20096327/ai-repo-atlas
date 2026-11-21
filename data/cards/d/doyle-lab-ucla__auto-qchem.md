@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "doyle-lab-ucla/auto-qchem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "doyle-lab-ucla/auto-qchem 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 132 --> 135
-    line [133, 134]
+    line [133, 134, 134]
 ```
 
-2026-10-18 133 → 2026-11-20 134（+1）
+2026-10-19 133 → 2026-11-21 134（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vercel-labs/eve-data-analyst-template
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vercel-labs/eve-data-analyst-template) · [官网](https://vercel.com/templates/other/eve-data-analyst) · 组织维护
+⭐ 8 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/eve-data-analyst-template) · [官网](https://vercel.com/templates/other/eve-data-analyst) · 组织维护
 
 **基于 eve 的 Slack 数据分析 Agent 模板，用自然语言查询 Postgres**
 
@@ -46,12 +46,12 @@ Vercel 提供的 Agent 模板：在 Slack 中 @机器人提问（如上月 MRR�
 ```mermaid
 xychart-beta
     title "vercel-labs/eve-data-analyst-template 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 2 --> 9
-    line [3, 4, 5, 7, 8]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 7, 8, 8]
 ```
 
-2026-10-18 3 → 2026-11-20 8（+5）
+2026-10-19 4 → 2026-11-21 8（+4）
 
 
 ---

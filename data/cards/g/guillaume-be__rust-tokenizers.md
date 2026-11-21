@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "guillaume-be/rust-tokenizers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "guillaume-be/rust-tokenizers 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 343 --> 346
-    line [345, 344]
+    line [345, 344, 344]
 ```
 
-2026-10-18 345 → 2026-11-20 344（-1）
+2026-10-19 345 → 2026-11-21 344（-1）
 
 
 ---

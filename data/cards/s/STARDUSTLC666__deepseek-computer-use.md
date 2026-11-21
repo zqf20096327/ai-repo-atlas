@@ -1,6 +1,6 @@
 # STARDUSTLC666/deepseek-computer-use
 
-⭐ 6 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/STARDUSTLC666/deepseek-computer-use) · [官网](https://www.npmjs.com/package/deepseek-computer-use) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/STARDUSTLC666/deepseek-computer-use) · [官网](https://www.npmjs.com/package/deepseek-computer-use) · 个人维护 · 中文 README
 
 **给 DSH 加 Windows 桌面操作能力的插件**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的 Windows 桌面操作插件：提供窗口截图、U
 ```mermaid
 xychart-beta
     title "STARDUSTLC666/deepseek-computer-use 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-18", "2026-11-21"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-18 6 → 2026-11-20 6（+0）
+2026-11-18 6 → 2026-11-21 6（+0）
 
 
 ---

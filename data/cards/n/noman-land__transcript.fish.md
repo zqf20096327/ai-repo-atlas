@@ -1,6 +1,6 @@
 # noman-land/transcript.fish
 
-⭐ 23 · TypeScript · 推送 2025-11-24 · [GitHub](https://github.com/noman-land/transcript.fish) · [官网](https://transcript.fish/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **非官方 No Such Thing As A Fish 播客节目转录文本网站**
 

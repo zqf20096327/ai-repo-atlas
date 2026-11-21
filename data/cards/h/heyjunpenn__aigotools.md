@@ -41,6 +41,18 @@
 > L19: The project includes 221 published tool profiles, 38 scenario guides and 547 image assets. Profiles and guides reta
 > L27: Astro generates static pages at build time. The site runs without a database, account system or API keys. Upload `d
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "heyjunpenn/aigotools 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 658 --> 660
+    line [659, 659]
+```
+
+2026-11-20 659 → 2026-11-21 659（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `6b9f790eaa0b` · [字段定义](../../DATASET.md)*

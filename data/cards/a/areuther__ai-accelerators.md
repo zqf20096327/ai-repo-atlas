@@ -1,6 +1,6 @@
 # areuther/ai-accelerators
 
-⭐ 197 · 推送 2025-11-24 · [GitHub](https://github.com/areuther/ai-accelerators) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI/ML 加速器系列调研论文的开放数据集仓库**
 

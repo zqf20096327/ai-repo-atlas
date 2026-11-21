@@ -1,6 +1,6 @@
 # bookwjitchieni1986/blender-ai-mcp-addon
 
-⭐ 384 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) · 个人维护
+⭐ 1,657 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) · 个人维护
 
 **Blender 的 AI 助手插件：对话式检查、构建与编辑 3D 场景**
 
@@ -41,6 +41,18 @@
 > L5: **An AI assistant for Blender that can inspect your scene, build objects, edit materials, find assets and carry out 
 > L20: **mcp-for-blender-pro brings conversation, scene tools, model choice and agent workflows together.** It is designed
 > L49: Supported connections include **OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custo
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bookwjitchieni1986/blender-ai-mcp-addon 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 257 --> 1784
+    line [384, 1657]
+```
+
+2026-11-20 384 → 2026-11-21 1,657（+1,273）
 
 
 ---

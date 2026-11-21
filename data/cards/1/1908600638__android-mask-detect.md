@@ -46,12 +46,12 @@ Android 演示工程：CameraX 预览并抓取视频帧，经 JNI 调用 ncnn �
 ```mermaid
 xychart-beta
     title "1908600638/android-mask-detect 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-20"]
+    x-axis ["2026-11-13", "2026-11-21"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-13 7 → 2026-11-20 7（+0）
+2026-11-13 7 → 2026-11-21 7（+0）
 
 
 ---

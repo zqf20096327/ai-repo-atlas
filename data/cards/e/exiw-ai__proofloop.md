@@ -45,13 +45,13 @@ Proofloop 是一个 Python 3.12+ 的 AI agent 编排器，用于长时间编码�
 
 ```mermaid
 xychart-beta
-    title "exiw-ai/proofloop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "exiw-ai/proofloop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 36 --> 39
-    line [38, 37]
+    line [38, 37, 37]
 ```
 
-2026-10-18 38 → 2026-11-20 37（-1）
+2026-10-18 38 → 2026-11-21 37（-1）
 
 
 ---

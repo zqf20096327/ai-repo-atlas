@@ -1,6 +1,6 @@
 # Koukyosyumei/AIJack
 
-⭐ 430 · C++ · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/Koukyosyumei/AIJack) · [官网](https://koukyosyumei.github.io/AIJack/) · 个人维护
+⭐ 429 · C++ · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/Koukyosyumei/AIJack) · [官网](https://koukyosyumei.github.io/AIJack/) · 个人维护
 
 **给机器学习研究者的安全与隐私风险模拟库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Koukyosyumei/AIJack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
     y-axis "stars" 428 --> 431
-    line [429, 430, 430]
+    line [429, 430, 429]
 ```
 
-2026-10-18 429 → 2026-11-20 430（+1）
+2026-10-19 429 → 2026-11-21 429（+0）
 
 
 ---

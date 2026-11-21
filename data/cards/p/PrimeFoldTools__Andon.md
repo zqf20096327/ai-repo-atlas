@@ -1,6 +1,6 @@
 # PrimeFoldTools/Andon
 
-⭐ 170 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/PrimeFoldTools/Andon) · [官网](https://primefold.tools) · 个人维护
+⭐ 170 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/PrimeFoldTools/Andon) · [官网](https://primefold.tools) · 个人维护
 
 **面向 AI agent 协作的精益质量体系工具包：把缺陷转为防错机制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PrimeFoldTools/Andon 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
     y-axis "stars" 165 --> 171
     line [166, 167, 168, 167, 168, 170, 170]
 ```
 
-2026-10-18 166 → 2026-11-20 170（+4）
+2026-10-18 166 → 2026-11-21 170（+4）
 
 
 ---

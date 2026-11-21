@@ -1,6 +1,6 @@
 # Kkaramaddinnn/GTA-6-Switch-Version--PC-Emulator-2026
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Kkaramaddinnn/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
+⭐ 37 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Kkaramaddinnn/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
 
 **面向 Windows 玩家的 GTA VI PC 版安装准备与优化指南**
 
@@ -41,6 +41,18 @@
 > L5: A dedicated PC installation and configuration resource for Grand Theft Auto VI, covering Windows preparation, graphi
 > L19: The installation resource focuses on:
 > L234: The PC version has not received an official release date as of November 18, 2026.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Kkaramaddinnn/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
+```
+
+2026-11-20 36 → 2026-11-21 37（+1）
 
 
 ---

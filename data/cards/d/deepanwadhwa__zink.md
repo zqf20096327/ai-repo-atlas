@@ -1,6 +1,6 @@
 # deepanwadhwa/zink
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/deepanwadhwa/zink) · 个人维护
+⭐ 112 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/deepanwadhwa/zink) · 个人维护
 
 **面向开发者的零样本文本匿名化 Python 库**
 
@@ -46,12 +46,12 @@ Python 包，用零样本 NER 模型（GLiNER 架构的 NuNerZero）识别并匿
 ```mermaid
 xychart-beta
     title "deepanwadhwa/zink 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-18 112 → 2026-11-20 112（+0）
+2026-10-19 112 → 2026-11-21 112（+0）
 
 
 ---

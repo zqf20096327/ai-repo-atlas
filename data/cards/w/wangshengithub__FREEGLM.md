@@ -1,6 +1,6 @@
 # wangshengithub/FREEGLM
 
-⭐ 23 · HTML · MIT · 推送 2026-06-06 · [GitHub](https://github.com/wangshengithub/FREEGLM) · 个人维护 · 中文 README
+⭐ 22 · HTML · MIT · 推送 2026-06-06 · [GitHub](https://github.com/wangshengithub/FREEGLM) · 个人维护 · 中文 README
 
 **免配置的 GLM-4 网页对话客户端，本地 Node.js 代理转发请求**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "wangshengithub/FREEGLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 21 --> 24
+    line [23, 22]
 ```
 
-2026-10-18 23 → 2026-11-20 23（+0）
+2026-10-19 23 → 2026-11-21 22（-1）
 
 
 ---

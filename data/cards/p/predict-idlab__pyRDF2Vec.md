@@ -45,13 +45,13 @@ RDF2Vec 论文算法的 Python 实现与扩展：在知识图谱上按可配置�
 
 ```mermaid
 xychart-beta
-    title "predict-idlab/pyRDF2Vec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 267 --> 270
-    line [268, 269, 269]
+    title "predict-idlab/pyRDF2Vec 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 268 --> 270
+    line [269, 269]
 ```
 
-2026-10-18 268 → 2026-11-20 269（+1）
+2026-10-19 269 → 2026-11-21 269（+0）
 
 
 ---

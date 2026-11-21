@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanWorld-Mirror
 
-⭐ 1,233 · Python · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
+⭐ 1,234 · Python · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
 
 **腾讯混元的单次前向 3D 几何预测模型：点云/深度/位姿/3DGS**
 
@@ -45,13 +45,13 @@ ICML 2026 论文 WorldMirror 的官方开源实现（腾讯混元团队）。该
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HunyuanWorld-Mirror 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 1214 --> 1234
-    line [1215, 1216, 1217, 1219, 1220, 1221, 1217, 1225, 1228, 1229, 1231, 1232, 1233]
+    title "Tencent-Hunyuan/HunyuanWorld-Mirror 星数(近 14 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 1214 --> 1235
+    line [1215, 1216, 1217, 1219, 1220, 1221, 1217, 1225, 1228, 1229, 1231, 1232, 1233, 1234]
 ```
 
-2026-10-18 1,215 → 2026-11-20 1,233（+18）
+2026-10-19 1,215 → 2026-11-21 1,234（+19）
 
 
 ---

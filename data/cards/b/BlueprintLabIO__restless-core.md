@@ -1,6 +1,6 @@
 # BlueprintLabIO/restless-core
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/BlueprintLabIO/restless-core) · [官网](https://restless.run) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/BlueprintLabIO/restless-core) · [官网](https://restless.run) · 组织维护
 
 **面向人类与 AI agent 协作的自托管工作空间**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BlueprintLabIO/restless-core 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-21"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-11-11 11 → 2026-11-20 12（+1）
+2026-11-11 11 → 2026-11-21 12（+1）
 
 
 ---

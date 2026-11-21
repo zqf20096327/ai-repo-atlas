@@ -44,13 +44,13 @@ Packt 出版图书《Hands-On Data Analysis with Pandas》（2019年7月26日第
 
 ```mermaid
 xychart-beta
-    title "stefmolin/Hands-On-Data-Analysis-with-Pandas 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
+    title "stefmolin/Hands-On-Data-Analysis-with-Pandas 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-21"]
     y-axis "stars" 425 --> 430
-    line [426, 427, 428, 429, 428]
+    line [426, 427, 428, 429, 428, 428]
 ```
 
-2026-10-18 426 → 2026-11-20 428（+2）
+2026-10-19 426 → 2026-11-21 428（+2）
 
 
 ---

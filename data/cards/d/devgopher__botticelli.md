@@ -1,6 +1,6 @@
 # devgopher/botticelli
 
-⭐ 15 · C# · GPL-3.0 · 推送 2026-06-14 · [GitHub](https://github.com/devgopher/botticelli) · [官网](http://botticellibots.com) · 个人维护
+⭐ 15 · C# · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/devgopher/botticelli) · [官网](http://botticellibots.com) · 个人维护
 
 **.NET 聊天机器人开发框架，集成 AI 模型与多消息平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "devgopher/botticelli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 15（+0）
 
 
 ---

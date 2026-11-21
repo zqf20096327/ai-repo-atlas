@@ -1,6 +1,6 @@
 # harleyszhang/dl_note
 
-⭐ 535 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/harleyszhang/dl_note) · 个人维护 · 中文 README
+⭐ 534 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/harleyszhang/dl_note) · 个人维护 · 中文 README
 
 **个人深度学习系统学习笔记库：数学基础到模型压缩、推理部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "harleyszhang/dl_note 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 528 --> 536
-    line [529, 530, 531, 532, 534, 535, 535]
+    title "harleyszhang/dl_note 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 529 --> 536
+    line [530, 531, 532, 534, 535, 534]
 ```
 
-2026-10-18 529 → 2026-11-20 535（+6）
+2026-10-19 530 → 2026-11-21 534（+4）
 
 
 ---

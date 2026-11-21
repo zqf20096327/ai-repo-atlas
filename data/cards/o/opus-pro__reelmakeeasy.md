@@ -1,6 +1,6 @@
 # opus-pro/reelmakeeasy
 
-⭐ 6 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/opus-pro/reelmakeeasy) · [官网](https://open.opus.pro/reelmakeeasy/) · 组织维护
+⭐ 7 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/opus-pro/reelmakeeasy) · [官网](https://open.opus.pro/reelmakeeasy/) · 组织维护
 
 **自托管的 AI 竖屏短视频生成器，由你的编程 Agent 指挥在本机生成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "opus-pro/reelmakeeasy 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 3, 5, 6, 6]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 3, 5, 6, 7]
 ```
 
-2026-10-25 3 → 2026-11-20 6（+3）
+2026-10-25 3 → 2026-11-21 7（+4）
 
 
 ---

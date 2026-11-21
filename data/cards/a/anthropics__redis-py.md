@@ -1,6 +1,6 @@
 # anthropics/redis-py
 
-⭐ 18 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/anthropics/redis-py) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Redis 键值存储的官方 Python 客户端库**
 
@@ -11,7 +11,7 @@ Redis Inc. 维护的 Python 接口库，连接 Redis 服务器并执行其命令
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

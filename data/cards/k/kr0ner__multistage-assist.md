@@ -45,13 +45,13 @@ Home Assistant 自定义集成，通过四个处理阶段编排对话代理：St
 
 ```mermaid
 xychart-beta
-    title "kr0ner/multistage-assist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "kr0ner/multistage-assist 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 14 --> 17
-    line [16, 15]
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-20 15（-1）
+2026-10-18 16 → 2026-11-21 15（-1）
 
 
 ---

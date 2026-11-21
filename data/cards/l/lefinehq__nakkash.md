@@ -1,6 +1,6 @@
 # lefinehq/nakkash
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lefinehq/nakkash) · 组织维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/lefinehq/nakkash) · 组织维护
 
 **面向 agent 的可编程动态图形与视频渲染引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lefinehq/nakkash 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 5 --> 9
     line [6, 8, 8]
 ```
 
-2026-11-18 6 → 2026-11-20 8（+2）
+2026-11-18 6 → 2026-11-21 8（+2）
 
 
 ---

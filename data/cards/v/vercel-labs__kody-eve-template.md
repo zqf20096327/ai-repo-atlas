@@ -1,6 +1,6 @@
 # vercel-labs/kody-eve-template
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vercel-labs/kody-eve-template) · [官网](https://vercel.com/templates/eve/eve-github-maintainer) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/kody-eve-template) · [官网](https://vercel.com/templates/eve/eve-github-maintainer) · 组织维护
 
 **基于 eve 框架的个人 GitHub 维护 agent 模板，邮件驱动处理 issue**
 
@@ -44,13 +44,13 @@ Kody 是构建在 eve agent 框架上的 GitHub 维护 agent 模板，面向自�
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/kody-eve-template 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 10 --> 20
-    line [11, 13, 18, 19, 19]
+    title "vercel-labs/kody-eve-template 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 12 --> 20
+    line [13, 18, 19, 19]
 ```
 
-2026-10-18 11 → 2026-11-20 19（+8）
+2026-10-19 13 → 2026-11-21 19（+6）
 
 
 ---

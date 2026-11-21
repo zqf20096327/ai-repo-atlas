@@ -1,6 +1,6 @@
 # 190km/void
 
-⭐ 18 · Rust · MIT · 推送 2026-03-31 · [GitHub](https://github.com/190km/void) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-03-31 · [GitHub](https://github.com/190km/void) · 个人维护
 
 **GPU 加速的无限画布终端模拟器，可自由摆放多个终端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "190km/void 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-20 18（+0）
+2026-10-19 18 → 2026-11-21 19（+1）
 
 
 ---

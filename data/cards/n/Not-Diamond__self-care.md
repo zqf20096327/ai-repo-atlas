@@ -1,6 +1,6 @@
 # Not-Diamond/self-care
 
-⭐ 28 · JavaScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/Not-Diamond/self-care) · 组织维护
+⭐ 29 · JavaScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/Not-Diamond/self-care) · 组织维护
 
 **Claude Code 插件：分析 agent 追踪并自动修复质量问题**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Not-Diamond/self-care 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-11-20 28（+0）
+2026-10-18 28 → 2026-11-21 29（+1）
 
 
 ---

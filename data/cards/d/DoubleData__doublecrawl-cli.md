@@ -1,6 +1,6 @@
 # DoubleData/doublecrawl-cli
 
-⭐ 6 · 推送 2026-11-10 · [GitHub](https://github.com/DoubleData/doublecrawl-cli) · [官网](https://doublecrawl.com) · 组织维护
+⭐ 6 · 推送 2026-11-20 · [GitHub](https://github.com/DoubleData/doublecrawl-cli) · [官网](https://doublecrawl.com) · 组织维护
 
 **给终端脚本和 AI agent 提供网页抓取的命令行工具**
 
@@ -46,12 +46,12 @@ Go 编写的单文件静态二进制 CLI：发送 URL 经 DoubleCrawl 服务端�
 ```mermaid
 xychart-beta
     title "DoubleData/doublecrawl-cli 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-21"]
     y-axis "stars" 2 --> 7
     line [3, 4, 5, 6, 6]
 ```
 
-2026-11-10 3 → 2026-11-20 6（+3）
+2026-11-10 3 → 2026-11-21 6（+3）
 
 
 ---

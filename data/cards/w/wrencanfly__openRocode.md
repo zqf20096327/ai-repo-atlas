@@ -1,6 +1,6 @@
 # wrencanfly/openRocode
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/wrencanfly/openRocode) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/wrencanfly/openRocode) · 个人维护
 
 **让多模态模型以像素点击和代码驱动机器人的 agent harness**
 
@@ -41,6 +41,18 @@ openRocode 是一个开源 agent harness，把机器人控制转化为'3D comput
 > L23: openRocode is an open agent harness that turns robot control into **3D computer use**. The model looks at camera pi
 > L32: 2. **Our own small agent loop.** The core (loop, hooks, events, operator channel) is about 700 lines and talks to m
 > L34: 4. **Evaluation is part of the harness, not an afterthought.** A task is data: a scene, an instruction, and a succe
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wrencanfly/openRocode 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 8 --> 11
+    line [9, 10]
+```
+
+2026-11-20 9 → 2026-11-21 10（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Johnnyjin-haolin/ZenoAgent
 
-⭐ 30 · Java · MIT · 推送 2026-03-27 · [GitHub](https://github.com/Johnnyjin-haolin/ZenoAgent) · [官网](http://1.94.53.50) · 个人维护 · 中文 README
+⭐ 31 · Java · MIT · 推送 2026-03-27 · [GitHub](https://github.com/Johnnyjin-haolin/ZenoAgent) · [官网](http://1.94.53.50) · 个人维护 · 中文 README
 
 **面向企业的服务端 AI Agent 平台：自定义 Agent+双模式 MCP+RAG**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Johnnyjin-haolin/ZenoAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-11-20 30（+0）
+2026-10-19 30 → 2026-11-21 31（+1）
 
 
 ---

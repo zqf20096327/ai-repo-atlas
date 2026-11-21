@@ -1,6 +1,6 @@
 # Robin-WZQ/Awesome-Backdoor-on-LMMs
 
-⭐ 123 · 推送 2026-11-16 · [GitHub](https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs) · [官网](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176618816.64264497/v3) · 个人维护
+⭐ 124 · 推送 2026-11-16 · [GitHub](https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs) · [官网](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176618816.64264497/v3) · 个人维护
 
 **多模态模型后门攻防论文策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Robin-WZQ/Awesome-Backdoor-on-LMMs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 121 --> 124
-    line [122, 123, 123]
+    x-axis ["2026-10-19", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 121 --> 125
+    line [122, 123, 124]
 ```
 
-2026-10-18 122 → 2026-11-20 123（+1）
+2026-10-19 122 → 2026-11-21 124（+2）
 
 
 ---

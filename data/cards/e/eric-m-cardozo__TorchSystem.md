@@ -1,6 +1,6 @@
 # eric-m-cardozo/TorchSystem
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/eric-m-cardozo/TorchSystem) · [官网](https://eric-m-cardozo.github.io/TorchSystem/) · 个人维护
 
 **面向 PyTorch 的 DDD/事件驱动训练系统框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eric-m-cardozo/TorchSystem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-15"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-15 21（+0）
+2026-10-18 21 → 2026-11-21 21（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # None9527/NofyAgents
 
-⭐ 39 · Rust · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/None9527/NofyAgents) · 个人维护 · 中文 README
+⭐ 39 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/None9527/NofyAgents) · 个人维护 · 中文 README
 
 **用声明式方式组合并生成 agent 的 Rust 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "None9527/NofyAgents 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-11-08 38 → 2026-11-20 39（+1）
+2026-11-08 38 → 2026-11-21 39（+1）
 
 
 ---

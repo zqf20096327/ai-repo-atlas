@@ -1,6 +1,6 @@
 # dlgod7/image-context-cascade
 
-⭐ 18 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/dlgod7/image-context-cascade) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/dlgod7/image-context-cascade) · 个人维护 · 中文 README
 
 **AI 编码 agent 的请求级图片生命周期中间件：历史图片降级为占位符**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dlgod7/image-context-cascade 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-11-20 18（+1）
+2026-10-18 17 → 2026-11-21 19（+2）
 
 
 ---

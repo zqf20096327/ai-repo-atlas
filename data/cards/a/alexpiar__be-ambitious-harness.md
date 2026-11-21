@@ -1,6 +1,6 @@
 # alexpiar/be-ambitious-harness
 
-⭐ 21 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alexpiar/be-ambitious-harness) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alexpiar/be-ambitious-harness) · 个人维护
 
 **Claude Code 技能：planner/worker/verifier 三角色工作流框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexpiar/be-ambitious-harness 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 20 --> 25
-    line [21, 22, 23, 22, 24, 21]
+    title "alexpiar/be-ambitious-harness 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 19 --> 25
+    line [21, 22, 23, 22, 24, 21, 20]
 ```
 
-2026-10-22 21 → 2026-11-20 21（+0）
+2026-10-22 21 → 2026-11-21 20（-1）
 
 
 ---

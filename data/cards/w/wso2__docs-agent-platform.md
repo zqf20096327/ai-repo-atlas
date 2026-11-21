@@ -1,6 +1,6 @@
 # wso2/docs-agent-platform
 
-⭐ 12 · MDX · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/wso2/docs-agent-platform) · [官网](https://wso2.com/agent-platform/docs/) · 组织维护
+⭐ 12 · MDX · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/wso2/docs-agent-platform) · [官网](https://wso2.com/agent-platform/docs/) · 组织维护
 
 **WSO2 Agent Manager 平台的文档源仓库**
 
@@ -43,12 +43,12 @@ WSO2 Agent Manager Platform 文档站点的源代码仓库，以文档站形式�
 ```mermaid
 xychart-beta
     title "wso2/docs-agent-platform 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 2 --> 13
     line [3, 4, 5, 3, 12, 12]
 ```
 
-2026-10-18 3 → 2026-11-20 12（+9）
+2026-10-18 3 → 2026-11-21 12（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # safakatakancelik/TalkWithYourFiles
 
-⭐ 94 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/safakatakancelik/TalkWithYourFiles) · 个人维护
+⭐ 93 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/safakatakancelik/TalkWithYourFiles) · 个人维护
 
 **上传文档并提问的开源 RAG 问答应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "safakatakancelik/TalkWithYourFiles 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 92 --> 95
-    line [93, 94, 93, 94, 94]
+    line [93, 94, 93, 94, 93]
 ```
 
-2026-10-18 93 → 2026-11-20 94（+1）
+2026-10-19 93 → 2026-11-21 93（+0）
 
 
 ---

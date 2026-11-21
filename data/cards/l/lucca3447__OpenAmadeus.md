@@ -1,6 +1,6 @@
 # lucca3447/OpenAmadeus
 
-⭐ 7 · TypeScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/lucca3447/OpenAmadeus) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多模态 AI 伴侣运行时：复现 Steins;Gate 角色对话人格**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | `cpu-ok` | |

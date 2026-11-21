@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 61 --> 66
-    line [65, 62]
+    line [65, 62, 62]
 ```
 
-2026-10-18 65 → 2026-11-20 62（-3）
+2026-10-19 65 → 2026-11-21 62（-3）
 
 
 ---

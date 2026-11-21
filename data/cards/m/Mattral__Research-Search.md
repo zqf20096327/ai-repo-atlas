@@ -1,6 +1,6 @@
 # Mattral/Research-Search
 
-⭐ 20 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/Mattral/Research-Search) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **科研文献发现工具：跨 arXiv/S2/OpenAlex 搜索与 AI 摘要比对**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # GyuyeongKim/NemoANN-public
 
-⭐ 16 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/GyuyeongKim/NemoANN-public) · [官网](https://gyuyeongkim.github.io/papers/nemoann_socc26.pdf) · 组织维护
+⭐ 18 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/GyuyeongKim/NemoANN-public) · [官网](https://gyuyeongkim.github.io/papers/nemoann_socc26.pdf) · 组织维护
 
 **SSD 图索引的过滤向量搜索研究实现（SoCC'26 论文）**
 
@@ -46,12 +46,12 @@ SoCC'26 论文 NemoANN 的官方实现：基于 PipeANN 的 SSD 图索引上做�
 ```mermaid
 xychart-beta
     title "GyuyeongKim/NemoANN-public 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 11 --> 17
-    line [12, 14, 16, 16]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 11 --> 19
+    line [12, 14, 16, 18]
 ```
 
-2026-10-29 12 → 2026-11-20 16（+4）
+2026-10-29 12 → 2026-11-21 18（+6）
 
 
 ---

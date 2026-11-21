@@ -1,6 +1,6 @@
 # inevolin/claude-code-usage-analysis
 
-⭐ 121 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/inevolin/claude-code-usage-analysis) · [官网](https://nevolin.be) · 个人维护
+⭐ 136 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/inevolin/claude-code-usage-analysis) · [官网](https://nevolin.be) · 个人维护
 
 **Claude Code token 用量的实证研究：缓存过期与压缩时机分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "inevolin/claude-code-usage-analysis 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 68 --> 125
-    line [72, 106, 121]
+    title "inevolin/claude-code-usage-analysis 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 66 --> 142
+    line [72, 106, 121, 136]
 ```
 
-2026-11-18 72 → 2026-11-20 121（+49）
+2026-11-18 72 → 2026-11-21 136（+64）
 
 
 ---

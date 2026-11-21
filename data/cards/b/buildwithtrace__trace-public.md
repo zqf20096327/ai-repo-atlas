@@ -1,6 +1,6 @@
 # buildwithtrace/trace-public
 
-⭐ 59 · C++ · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/buildwithtrace/trace-public) · [官网](https://docs.buildwithtrace.com) · 组织维护
+⭐ 60 · C++ · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/buildwithtrace/trace-public) · [官网](https://docs.buildwithtrace.com) · 组织维护
 
 **面向硬件工程师的 AI 增强 KiCad 分支 PCB 设计套件**
 
@@ -45,12 +45,12 @@ Trace 是基于 KiCad 的独立分支 EDA 软件，保留原理图编辑、PCB �
 ```mermaid
 xychart-beta
     title "buildwithtrace/trace-public 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 55 --> 60
-    line [57, 56, 57, 58, 59, 59]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 55 --> 61
+    line [57, 56, 57, 58, 59, 60]
 ```
 
-2026-10-18 57 → 2026-11-20 59（+2）
+2026-10-19 57 → 2026-11-21 60（+3）
 
 
 ---

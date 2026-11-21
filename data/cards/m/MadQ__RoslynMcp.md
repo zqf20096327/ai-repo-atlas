@@ -1,6 +1,6 @@
 # MadQ/RoslynMcp
 
-⭐ 23 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MadQ/RoslynMcp) · 个人维护
+⭐ 24 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MadQ/RoslynMcp) · 个人维护
 
 **给 AI 编码代理提供 Roslyn 编译器级 C# 代码理解的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MadQ/RoslynMcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 18 --> 24
-    line [19, 21, 22, 23, 23]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 18 --> 25
+    line [19, 21, 22, 23, 24]
 ```
 
-2026-10-18 19 → 2026-11-20 23（+4）
+2026-10-19 19 → 2026-11-21 24（+5）
 
 
 ---

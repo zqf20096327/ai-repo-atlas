@@ -1,6 +1,6 @@
 # nomily-ai/nomily-app
 
-⭐ 1,013 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/nomily-ai/nomily-app) · [官网](https://geekis.com) · 组织维护
+⭐ 1,014 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/nomily-ai/nomily-app) · [官网](https://geekis.com) · 组织维护
 
 **BYOK 录音伴侣应用：转录、说话人分离、AI 摘要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nomily-ai/nomily-app 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 1011 --> 1014
-    line [1012, 1013, 1013]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 1011 --> 1015
+    line [1012, 1013, 1014]
 ```
 
-2026-11-16 1,012 → 2026-11-20 1,013（+1）
+2026-11-16 1,012 → 2026-11-21 1,014（+2）
 
 
 ---

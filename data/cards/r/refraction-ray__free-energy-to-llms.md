@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "refraction-ray/free-energy-to-llms 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-20"]
+    x-axis ["2026-10-24", "2026-11-21"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-10-24 6 → 2026-11-20 6（+0）
+2026-10-24 6 → 2026-11-21 6（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EldanGS/awesome-ai-architect 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-20"]
+    title "EldanGS/awesome-ai-architect 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-20", "2026-11-21"]
     y-axis "stars" 4 --> 8
-    line [5, 6, 7]
+    line [5, 6, 7, 7]
 ```
 
-2026-11-08 5 → 2026-11-20 7（+2）
+2026-11-08 5 → 2026-11-21 7（+2）
 
 
 ---

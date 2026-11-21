@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zqzqz/AdvTrajectoryPrediction 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
+    title "zqzqz/AdvTrajectoryPrediction 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 121 --> 124
-    line [122, 123, 122, 122]
+    line [123, 122, 122]
 ```
 
-2026-10-18 122 → 2026-11-20 122（+0）
+2026-10-19 123 → 2026-11-21 122（-1）
 
 
 ---

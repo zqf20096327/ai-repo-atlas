@@ -45,12 +45,12 @@ TandemEngine 是面向单台 NVIDIA DGX Spark 的推理引擎，以 OpenAI 兼�
 ```mermaid
 xychart-beta
     title "TandemLLM/TandemEngine 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-19", "2026-11-21"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-11-19 82 → 2026-11-20 82（+0）
+2026-11-19 82 → 2026-11-21 82（+0）
 
 
 ---

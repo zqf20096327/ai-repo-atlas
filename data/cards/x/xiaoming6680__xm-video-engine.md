@@ -1,6 +1,6 @@
 # xiaoming6680/xm-video-engine
 
-⭐ 30 · TypeScript · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/xiaoming6680/xm-video-engine) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/xiaoming6680/xm-video-engine) · 个人维护 · 中文 README
 
 **给 AI Agent 用的音乐视频制作底座引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiaoming6680/xm-video-engine 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 25 --> 31
-    line [26, 27, 28, 29, 30, 30]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 25 --> 32
+    line [26, 27, 28, 29, 30, 31]
 ```
 
-2026-11-11 26 → 2026-11-20 30（+4）
+2026-11-11 26 → 2026-11-21 31（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # observecraft/observecraft
 
-⭐ 13 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/observecraft/observecraft) · [官网](https://observecraft.com) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/observecraft/observecraft) · [官网](https://observecraft.com) · 组织维护
 
 **自托管可观测性平台：日志、指标、链路、监控告警与 CI 可见性一站管理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "observecraft/observecraft 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
     y-axis "stars" 7 --> 14
     line [8, 12, 13, 13]
 ```
 
-2026-11-08 8 → 2026-11-20 13（+5）
+2026-11-08 8 → 2026-11-21 13（+5）
 
 
 ---

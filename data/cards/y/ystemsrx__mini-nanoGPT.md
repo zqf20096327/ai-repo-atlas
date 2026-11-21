@@ -1,6 +1,6 @@
 # ystemsrx/mini-nanoGPT
 
-⭐ 387 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ystemsrx/mini-nanoGPT) · [官网](https://b23.tv/Ia9mqPS) · 个人维护 · 中文 README
+⭐ 388 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ystemsrx/mini-nanoGPT) · [官网](https://b23.tv/Ia9mqPS) · 个人维护 · 中文 README
 
 **面向初学者的可视化 GPT 训练平台：一键预训练与 SFT**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ystemsrx/mini-nanoGPT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 382 --> 388
-    line [383, 384, 386, 387, 387]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 382 --> 389
+    line [383, 384, 386, 387, 388]
 ```
 
-2026-10-18 383 → 2026-11-20 387（+4）
+2026-10-19 383 → 2026-11-21 388（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # chessformer-lens/chessformer_lens
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/chessformer-lens/chessformer_lens) · [官网](https://pypi.org/project/chessformer_lens/) · 个人维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/chessformer-lens/chessformer_lens) · [官网](https://pypi.org/project/chessformer_lens/) · 个人维护
 
 **面向机制可解释性研究者的国际象棋 transformer 分析与可视化库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chessformer-lens/chessformer_lens 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-20 10（+0）
+2026-11-08 10 → 2026-11-21 10（+0）
 
 
 ---

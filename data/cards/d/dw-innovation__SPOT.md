@@ -1,6 +1,6 @@
 # dw-innovation/SPOT
 
-⭐ 69 · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/dw-innovation/SPOT) · [官网](https://www.findthatspot.io) · 组织维护
+⭐ 69 · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/dw-innovation/SPOT) · [官网](https://www.findthatspot.io) · 组织维护
 
 **自然语言检索 OpenStreetMap 地点的开源地理搜索工具**
 
@@ -46,12 +46,12 @@ SPOT 将用户的自然语言场景描述转换为对 OpenStreetMap 数据的结
 ```mermaid
 xychart-beta
     title "dw-innovation/SPOT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-16", "2026-11-21"]
     y-axis "stars" 66 --> 70
     line [67, 68, 69, 69]
 ```
 
-2026-10-18 67 → 2026-11-20 69（+2）
+2026-10-19 67 → 2026-11-21 69（+2）
 
 
 ---

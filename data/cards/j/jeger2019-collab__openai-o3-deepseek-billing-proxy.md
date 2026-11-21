@@ -1,6 +1,6 @@
 # jeger2019-collab/openai-o3-deepseek-billing-proxy
 
-⭐ 77 · 推送 2026-11-02 · [GitHub](https://github.com/jeger2019-collab/openai-o3-deepseek-billing-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 78 · 推送 2026-11-02 · [GitHub](https://github.com/jeger2019-collab/openai-o3-deepseek-billing-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向 AI API 用户的虚拟卡支付方案推广文（CoreGold）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeger2019-collab/openai-o3-deepseek-billing-proxy 星数(近 9 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    title "jeger2019-collab/openai-o3-deepseek-billing-proxy 星数(近 10 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 0 --> 87
-    line [5, 34, 55, 69, 74, 80, 79, 76, 77]
+    line [5, 34, 55, 69, 74, 80, 79, 76, 77, 78]
 ```
 
-2026-11-02 5 → 2026-11-20 77（+72）
+2026-11-02 5 → 2026-11-21 78（+73）
 
 
 ---

@@ -1,6 +1,6 @@
 # zavalishev/awesome-claude-skills
 
-⭐ 10 · 推送 2026-02-22 · [GitHub](https://github.com/zavalishev/awesome-claude-skills) · 个人维护
+⭐ 11 · 推送 2026-02-22 · [GitHub](https://github.com/zavalishev/awesome-claude-skills) · 个人维护
 
 **面向 Claude Code 开发者的 81 条 AI 技能策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zavalishev/awesome-claude-skills 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-13", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-13 10 → 2026-11-20 10（+0）
+2026-11-13 10 → 2026-11-21 11（+1）
 
 
 ---

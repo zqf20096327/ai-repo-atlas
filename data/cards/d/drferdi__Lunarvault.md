@@ -45,13 +45,13 @@ Lunar Vault 是面向 Codex 运行时的可分发记忆系统覆盖包（overlay
 
 ```mermaid
 xychart-beta
-    title "drferdi/Lunarvault 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "drferdi/Lunarvault 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-20 12（+2）
+2026-10-19 11 → 2026-11-21 12（+1）
 
 
 ---

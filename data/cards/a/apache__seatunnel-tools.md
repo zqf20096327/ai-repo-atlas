@@ -1,6 +1,6 @@
 # apache/seatunnel-tools
 
-⭐ 44 · Java · 推送 2026-02-27 · [GitHub](https://github.com/apache/seatunnel-tools) · [官网](https://seatunnel.apache.org/) · 组织维护 · 中文 README
+⭐ 45 · Java · 推送 2026-02-27 · [GitHub](https://github.com/apache/seatunnel-tools) · [官网](https://seatunnel.apache.org/) · 组织维护 · 中文 README
 
 **Apache SeaTunnel 辅助工具集：AI 技能、MCP 服务与配置转换**
 
@@ -46,12 +46,12 @@ Apache 基金会维护的 SeaTunnel 辅助工具仓库，含三个工具：面�
 ```mermaid
 xychart-beta
     title "apache/seatunnel-tools 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 43, 44, 45]
 ```
 
-2026-10-18 43 → 2026-11-20 44（+1）
+2026-10-18 43 → 2026-11-21 45（+2）
 
 
 ---

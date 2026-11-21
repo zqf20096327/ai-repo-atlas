@@ -42,6 +42,18 @@
 > L26: |💬 **Chat with your notes**|Ask anything about your vault. Answers cite the notes they actually used.|
 > L32: |🔌 **Your notes as context for other agents**|A local MCP server lets the agents you already use read the knowledge
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AKin-lvyifang/codex-echoink 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
+```
+
+2026-11-20 48 → 2026-11-21 48（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `ed048236400e` · [字段定义](../../DATASET.md)*

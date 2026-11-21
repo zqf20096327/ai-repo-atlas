@@ -45,13 +45,13 @@ NeurIPS 2026 论文的评测代码库，提供 D2P 基准：借助 RePoseD 框�
 
 ```mermaid
 xychart-beta
-    title "kocurvik/depth2pose 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "kocurvik/depth2pose 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "asingh33/CNNGestureRecognizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "asingh33/CNNGestureRecognizer 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1040 --> 1043
-    line [1042, 1041]
+    line [1042, 1041, 1041]
 ```
 
-2026-10-18 1,042 → 2026-11-20 1,041（-1）
+2026-10-19 1,042 → 2026-11-21 1,041（-1）
 
 
 ---

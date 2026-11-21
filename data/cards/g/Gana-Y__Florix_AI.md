@@ -1,6 +1,6 @@
 # Gana-Y/Florix_AI
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Gana-Y/Florix_AI) · [官网](https://florix-4rkmoj877-ganesh-y-s-projects.vercel.app) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Gana-Y/Florix_AI) · [官网](https://florix-4rkmoj877-ganesh-y-s-projects.vercel.app) · 个人维护
 
 **面向学生的异步多模态 RAG 学习平台，含口试模拟与间隔重复**
 
@@ -45,12 +45,12 @@ Florix AI 是面向学生/学习者教育的多模态 RAG 应用：将科学 PDF
 ```mermaid
 xychart-beta
     title "Gana-Y/Florix_AI 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-16", "2026-11-21"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-11-16 16 → 2026-11-20 16（+0）
+2026-11-16 16 → 2026-11-21 16（+0）
 
 
 ---

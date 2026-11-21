@@ -1,6 +1,6 @@
 # Sh4r1ock/SoloEngine
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Sh4r1ock/SoloEngine) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Sh4r1ock/SoloEngine) · 个人维护 · 中文 README
 
 **低代码可视化构建 Agent 团队的开源平台（拖拽式 Harness）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Sh4r1ock/SoloEngine 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-11-08 36 → 2026-11-20 36（+0）
+2026-11-08 36 → 2026-11-21 36（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mechanical-turk/deep-learning-all-the-way-down 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "mechanical-turk/deep-learning-all-the-way-down 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 13（+2）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

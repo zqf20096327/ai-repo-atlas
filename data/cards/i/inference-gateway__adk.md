@@ -1,6 +1,6 @@
 # inference-gateway/adk
 
-⭐ 27 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/inference-gateway/adk) · 组织维护
+⭐ 27 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/inference-gateway/adk) · 组织维护
 
 **Go 语言的 A2A 协议 Agent 开发工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "inference-gateway/adk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
     y-axis "stars" 24 --> 28
     line [25, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-20 27（+2）
+2026-10-18 25 → 2026-11-21 27（+2）
 
 
 ---

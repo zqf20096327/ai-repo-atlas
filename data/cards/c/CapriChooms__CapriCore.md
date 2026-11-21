@@ -1,6 +1,6 @@
 # CapriChooms/CapriCore
 
-⭐ 241 · JavaScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/CapriChooms/CapriCore) · [官网](https://capri-core.com/) · 组织维护
+⭐ 293 · JavaScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/CapriChooms/CapriCore) · [官网](https://capri-core.com/) · 组织维护
 
 **Windows 桌面 AI 伴侣：本地/API 模型对话、语音与桌面工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CapriChooms/CapriCore 星数(近 10 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 0 --> 263
-    line [17, 33, 59, 86, 107, 131, 148, 167, 195, 241]
+    title "CapriChooms/CapriCore 星数(近 11 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 0 --> 320
+    line [17, 33, 59, 86, 107, 131, 148, 167, 195, 241, 293]
 ```
 
-2026-11-10 17 → 2026-11-20 241（+224）
+2026-11-10 17 → 2026-11-21 293（+276）
 
 
 ---

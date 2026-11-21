@@ -1,6 +1,6 @@
 # omnirexflora-labs/omnimemory
 
-⭐ 16 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/omnirexflora-labs/omnimemory) · 组织维护
+⭐ 17 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/omnirexflora-labs/omnimemory) · 组织维护
 
 **为 AI agent 提供自演化记忆层的框架（SDK/REST/CLI）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "omnirexflora-labs/omnimemory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-11-20 16（+0）
+2026-10-19 16 → 2026-11-21 17（+1）
 
 
 ---

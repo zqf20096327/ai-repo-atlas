@@ -1,6 +1,6 @@
 # mymagicpower/AIAS
 
-⭐ 994 · Java · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/mymagicpower/AIAS) · [官网](http://aias.top) · 个人维护 · 中文 README
+⭐ 993 · Java · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/mymagicpower/AIAS) · [官网](http://aias.top) · 个人维护 · 中文 README
 
 **面向 Java 程序员的 AI 一站式工具箱：训练平台+Web应用+能力API**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mymagicpower/AIAS 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 992 --> 995
-    line [994, 993, 994, 993, 994, 994]
+    line [994, 993, 994, 993, 994, 993]
 ```
 
-2026-10-18 994 → 2026-11-20 994（+0）
+2026-10-19 994 → 2026-11-21 993（-1）
 
 
 ---

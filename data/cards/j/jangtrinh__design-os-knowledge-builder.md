@@ -1,6 +1,6 @@
 # jangtrinh/design-os-knowledge-builder
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jangtrinh/design-os-knowledge-builder) · [官网](https://jangtrinh.github.io/design-os-knowledge-builder/) · 个人维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jangtrinh/design-os-knowledge-builder) · [官网](https://jangtrinh.github.io/design-os-knowledge-builder/) · 个人维护
 
 **为 AI 编码代理提供可溯源知识包构建与证据停止门控的本地 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jangtrinh/design-os-knowledge-builder 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-20"]
-    y-axis "stars" 2 --> 12
-    line [3, 11]
+    title "jangtrinh/design-os-knowledge-builder 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 13
+    line [3, 11, 12]
 ```
 
-2026-10-22 3 → 2026-11-20 11（+8）
+2026-10-22 3 → 2026-11-21 12（+9）
 
 
 ---

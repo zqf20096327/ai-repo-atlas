@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "msertdev/deadweight 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    title "msertdev/deadweight 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 11 --> 15
-    line [12, 14]
+    line [12, 14, 14]
 ```
 
-2026-11-19 12 → 2026-11-20 14（+2）
+2026-11-19 12 → 2026-11-21 14（+2）
 
 
 ---

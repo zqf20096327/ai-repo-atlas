@@ -1,6 +1,6 @@
 # iml-wg/HEPML-LivingReview
 
-⭐ 456 · TeX · 推送 2026-11-02 · [GitHub](https://github.com/iml-wg/HEPML-LivingReview) · [官网](https://iml-wg.github.io/HEPML-LivingReview) · 组织维护
+⭐ 457 · TeX · 推送 2026-11-02 · [GitHub](https://github.com/iml-wg/HEPML-LivingReview) · [官网](https://iml-wg.github.io/HEPML-LivingReview) · 组织维护
 
 **粒子物理机器学习文献的持续综述清单（已冻结归档）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iml-wg/HEPML-LivingReview 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 452 --> 457
-    line [453, 454, 455, 456, 456]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 452 --> 458
+    line [453, 454, 455, 456, 457]
 ```
 
-2026-10-18 453 → 2026-11-20 456（+3）
+2026-10-19 453 → 2026-11-21 457（+4）
 
 
 ---

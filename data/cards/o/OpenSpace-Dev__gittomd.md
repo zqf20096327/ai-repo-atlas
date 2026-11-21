@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenSpace-Dev/gittomd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "OpenSpace-Dev/gittomd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 16（+1）
+2026-10-18 15 → 2026-11-21 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # WZZNNE/AI-Resonance
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/WZZNNE/AI-Resonance) · [官网](https://wzznne.github.io/AI-Resonance/) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/WZZNNE/AI-Resonance) · [官网](https://wzznne.github.io/AI-Resonance/) · 个人维护 · 中文 README
 
 **每日 AI 资讯雷达：五大榜单聚合，评分可审计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WZZNNE/AI-Resonance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 8 --> 11
-    line [9, 10, 10]
+    title "WZZNNE/AI-Resonance 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
 ```
 
-2026-10-18 9 → 2026-11-20 10（+1）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

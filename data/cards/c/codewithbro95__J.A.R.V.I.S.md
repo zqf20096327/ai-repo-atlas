@@ -1,6 +1,6 @@
 # codewithbro95/J.A.R.V.I.S
 
-⭐ 188 · Jupyter Notebook · MIT · 推送 2026-04-25 · [GitHub](https://github.com/codewithbro95/J.A.R.V.I.S) · [官网](https://youtu.be/4qOmHOBCtk8) · 个人维护
+⭐ 189 · Jupyter Notebook · MIT · 推送 2026-04-25 · [GitHub](https://github.com/codewithbro95/J.A.R.V.I.S) · [官网](https://youtu.be/4qOmHOBCtk8) · 个人维护
 
 **漫威 J.A.R.V.I.S 风格的本地离线 AI 语音助手项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codewithbro95/J.A.R.V.I.S 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 184 --> 189
-    line [185, 186, 187, 186, 188, 188]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 184 --> 190
+    line [185, 186, 187, 186, 188, 189]
 ```
 
-2026-10-18 185 → 2026-11-20 188（+3）
+2026-10-19 185 → 2026-11-21 189（+4）
 
 
 ---

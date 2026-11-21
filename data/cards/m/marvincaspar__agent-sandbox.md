@@ -1,6 +1,6 @@
 # marvincaspar/agent-sandbox
 
-⭐ 10 · Shell · 推送 2026-11-19 · [GitHub](https://github.com/marvincaspar/agent-sandbox) · 个人维护
+⭐ 10 · Shell · 推送 2026-11-20 · [GitHub](https://github.com/marvincaspar/agent-sandbox) · 个人维护
 
 **在隔离 Docker 容器中运行 AI 编码代理的安全沙箱**
 
@@ -40,6 +40,18 @@
 > L3: Runs AI coding agents inside isolated Docker containers. Agents get no root access, no Docker socket, and no ability
 > L84: Each agent lives in its own directory with a `Dockerfile` and a bash wrapper script. The wrapper:
 > L87: 2. Starts a proxy sidecar container and an isolated internal Docker network
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "marvincaspar/agent-sandbox 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
 
 
 ---

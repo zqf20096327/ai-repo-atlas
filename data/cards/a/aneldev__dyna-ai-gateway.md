@@ -1,6 +1,6 @@
 # aneldev/dyna-ai-gateway
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/aneldev/dyna-ai-gateway) · [官网](https://aneldev.github.io/dyna-ai-gateway/) · 组织维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aneldev/dyna-ai-gateway) · [官网](https://aneldev.github.io/dyna-ai-gateway/) · 组织维护
 
 **服务端 TypeScript AI 网关库：为业务应用接入 LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aneldev/dyna-ai-gateway 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-15", "2026-11-21"]
     y-axis "stars" 3 --> 7
     line [4, 5, 6, 6]
 ```
 
-2026-11-10 4 → 2026-11-20 6（+2）
+2026-11-10 4 → 2026-11-21 6（+2）
 
 
 ---

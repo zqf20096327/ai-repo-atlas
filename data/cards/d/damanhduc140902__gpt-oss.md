@@ -1,6 +1,6 @@
 # damanhduc140902/gpt-oss
 
-⭐ 25 · HIP · MIT · 推送 2026-09-30 · [GitHub](https://github.com/damanhduc140902/gpt-oss) · 个人维护
+⭐ 42 · HIP · MIT · 推送 2026-09-30 · [GitHub](https://github.com/damanhduc140902/gpt-oss) · 个人维护
 
 **纯 C++/HIP 从零实现的 gpt-oss AMD GPU 推理引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "damanhduc140902/gpt-oss 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 18 --> 26
-    line [19, 25, 25]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 17 --> 44
+    line [19, 25, 42]
 ```
 
-2026-10-18 19 → 2026-11-20 25（+6）
+2026-10-19 19 → 2026-11-21 42（+23）
 
 
 ---

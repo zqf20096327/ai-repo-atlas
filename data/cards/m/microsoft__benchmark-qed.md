@@ -1,6 +1,6 @@
 # microsoft/benchmark-qed
 
-⭐ 103 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/microsoft/benchmark-qed) · [官网](https://microsoft.github.io/benchmark-qed/) · 组织维护
+⭐ 105 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/microsoft/benchmark-qed) · [官网](https://microsoft.github.io/benchmark-qed/) · 组织维护
 
 **微软开源的 RAG 系统自动化基准评测工具套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/benchmark-qed 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 99 --> 105
-    line [100, 101, 102, 103, 102, 103, 104, 103]
+    title "microsoft/benchmark-qed 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 99 --> 106
+    line [100, 101, 102, 103, 102, 103, 104, 103, 105]
 ```
 
-2026-10-18 100 → 2026-11-20 103（+3）
+2026-10-19 100 → 2026-11-21 105（+5）
 
 
 ---

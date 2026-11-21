@@ -46,12 +46,12 @@ AWS 官方 samples 仓库下的参考实现：以 Amazon Bedrock 托管基础模
 ```mermaid
 xychart-beta
     title "aws-samples/rag-with-amazon-bedrock-and-opensearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-11-20 60（+0）
+2026-10-19 60 → 2026-11-21 60（+0）
 
 
 ---

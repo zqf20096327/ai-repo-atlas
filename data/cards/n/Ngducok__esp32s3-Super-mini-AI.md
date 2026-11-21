@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ngducok/esp32s3-Super-mini-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "Ngducok/esp32s3-Super-mini-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-18 11 → 2026-11-21 12（+1）
 
 
 ---

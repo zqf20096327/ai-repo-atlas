@@ -1,6 +1,6 @@
 # l3p-cv/lost
 
-⭐ 580 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/l3p-cv/lost) · [官网](https://lost.training) · 组织维护
+⭐ 580 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/l3p-cv/lost) · [官网](https://lost.training) · 组织维护
 
 **面向协作的半自动图像标注 Web 框架**
 
@@ -44,13 +44,13 @@ LOST 是一个基于浏览器的协作式图像标注框架，支持边界框、
 
 ```mermaid
 xychart-beta
-    title "l3p-cv/lost 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-20"]
+    title "l3p-cv/lost 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-21"]
     y-axis "stars" 578 --> 582
-    line [579, 580, 581, 580]
+    line [579, 580, 581, 580, 580]
 ```
 
-2026-10-18 579 → 2026-11-20 580（+1）
+2026-10-19 579 → 2026-11-21 580（+1）
 
 
 ---

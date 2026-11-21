@@ -1,6 +1,6 @@
 # AdityaLab/Samay
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/AdityaLab/Samay) · [官网](https://adityalab.github.io/SamayDocs) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/AdityaLab/Samay) · [官网](https://adityalab.github.io/SamayDocs) · 组织维护
 
 **时间序列基础模型统一训练与评测库**
 
@@ -46,12 +46,12 @@ Python 包，提供多个时间序列基础模型（LPTM、MOMENT、TimesFM、Ch
 ```mermaid
 xychart-beta
     title "AdityaLab/Samay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-20 36（+0）
+2026-10-19 36 → 2026-11-21 36（+0）
 
 
 ---

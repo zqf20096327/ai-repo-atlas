@@ -1,6 +1,6 @@
 # ParthJadhav/DiffDeck
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ParthJadhav/DiffDeck) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ParthJadhav/DiffDeck) · 个人维护
 
 **在浏览器中查看 Git diff 并可批注导出给 AI agent 的 CLI 工具**
 
@@ -46,12 +46,12 @@ npm 全局安装的命令行工具：`diffdeck` 启动本地 Web UI 渲染 `git 
 ```mermaid
 xychart-beta
     title "ParthJadhav/DiffDeck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-11-20 27（+1）
+2026-10-19 26 → 2026-11-21 28（+2）
 
 
 ---

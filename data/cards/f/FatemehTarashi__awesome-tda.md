@@ -1,6 +1,6 @@
 # FatemehTarashi/awesome-tda
 
-⭐ 231 · CC0-1.0 · 推送 2026-07-09 · [GitHub](https://github.com/FatemehTarashi/awesome-tda) · 个人维护
+⭐ 231 · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/FatemehTarashi/awesome-tda) · 个人维护
 
 **拓扑数据分析（TDA）工具与学习资源策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "FatemehTarashi/awesome-tda 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 228 --> 232
-    line [229, 230, 231, 231]
+    title "FatemehTarashi/awesome-tda 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 229 --> 232
+    line [230, 231, 231]
 ```
 
-2026-10-18 229 → 2026-11-20 231（+2）
+2026-10-19 230 → 2026-11-21 231（+1）
 
 
 ---

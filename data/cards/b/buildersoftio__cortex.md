@@ -1,6 +1,6 @@
 # buildersoftio/cortex
 
-⭐ 102 · C# · MIT · 推送 2026-02-24 · [GitHub](https://github.com/buildersoftio/cortex) · [官网](https://buildersoft.io/cortex) · 组织维护
+⭐ 102 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/buildersoftio/cortex) · [官网](https://buildersoft.io/cortex) · 组织维护
 
 **.NET 实时数据流处理与状态管理框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "buildersoftio/cortex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-11-20 102（+0）
+2026-10-19 102 → 2026-11-21 102（+0）
 
 
 ---

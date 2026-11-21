@@ -45,12 +45,12 @@ TypeScript 实现的个人用 AI 代理，常驻 Discord 进行会话、执行 s
 ```mermaid
 xychart-beta
     title "shun-shobon/luna-chat 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-20"]
+    x-axis ["2026-11-14", "2026-11-21"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-11-14 31 → 2026-11-20 31（+0）
+2026-11-14 31 → 2026-11-21 31（+0）
 
 
 ---

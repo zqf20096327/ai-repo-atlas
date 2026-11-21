@@ -1,6 +1,6 @@
 # wimo-dev/turno
 
-⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/wimo-dev/turno) · [官网](https://turno.wimo.dev) · 组织维护
+⭐ 9 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/wimo-dev/turno) · [官网](https://turno.wimo.dev) · 组织维护
 
 **给编码 agent 用户的 CLI：多账号切换且保留会话、MCP 登录与浏览器**
 
@@ -41,6 +41,18 @@ turno 是面向同时使用工作与个人账号运行编码 agent 的开发者�
 > L14: sign-ins. turno is for people who use a work account and a personal account with their coding
 > L19: - **Your MCP sign-ins.** One local gateway logs in to each remote OAuth server once per account
 > L85: - **One MCP gateway for every session.** `mcpd` listens on `127.0.0.1`, answers `initialize` and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wimo-dev/turno 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 5 --> 10
+    line [6, 9]
+```
+
+2026-11-20 6 → 2026-11-21 9（+3）
 
 
 ---

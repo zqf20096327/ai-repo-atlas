@@ -40,6 +40,18 @@
 > L11: Castor lets Claude Code, Antigravity, and Cursor hand the grunt work (reading, grepping, editing, running tests) to
 > L78: |Claude Code · Google Antigravity · Cursor · Claude Desktop · any MCP client|vLLM · llama.cpp · LM Studio · SGLang 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "usecastor/castor 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-20 14 → 2026-11-21 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `e96489043f7e` · [字段定义](../../DATASET.md)*

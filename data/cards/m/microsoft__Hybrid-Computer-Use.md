@@ -1,6 +1,6 @@
 # microsoft/Hybrid-Computer-Use
 
-⭐ 63 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Hybrid-Computer-Use) · [官网](https://microsoft.github.io/Hybrid-Computer-Use/) · 组织维护
+⭐ 64 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Hybrid-Computer-Use) · [官网](https://microsoft.github.io/Hybrid-Computer-Use/) · 组织维护
 
 **让通用编码 Agent 操作桌面电脑的 MCP 服务器（AX+GUI 双工具）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Hybrid-Computer-Use 星数(近 10 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 2 --> 68
-    line [7, 45, 48, 51, 54, 56, 59, 62, 63, 63]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 2 --> 69
+    line [7, 45, 48, 51, 54, 56, 59, 62, 63, 64]
 ```
 
-2026-11-02 7 → 2026-11-20 63（+56）
+2026-11-02 7 → 2026-11-21 64（+57）
 
 
 ---

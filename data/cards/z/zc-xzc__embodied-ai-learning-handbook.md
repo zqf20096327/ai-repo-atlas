@@ -1,6 +1,6 @@
 # zc-xzc/embodied-ai-learning-handbook
 
-⭐ 72 · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/zc-xzc/embodied-ai-learning-handbook) · 个人维护 · 中文 README
+⭐ 73 · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/zc-xzc/embodied-ai-learning-handbook) · 个人维护 · 中文 README
 
 **具身智能系统性学习手册：17 目录 69 篇文档与 1800+ 资源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zc-xzc/embodied-ai-learning-handbook 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 60 --> 73
-    line [61, 62, 64, 65, 66, 67, 65, 71, 72]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 61 --> 74
+    line [62, 64, 65, 66, 67, 65, 71, 72, 73]
 ```
 
-2026-10-18 61 → 2026-11-20 72（+11）
+2026-10-19 62 → 2026-11-21 73（+11）
 
 
 ---

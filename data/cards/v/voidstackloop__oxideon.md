@@ -41,6 +41,18 @@
 > L3: **A fast, Hackable Deep Learning & Tensor Library in Rust — with a PyTorch-friendly Python API.**
 > L18: - **A clean Rust core (`oxideon-core`)** with multi-dtype tensors (`f32`, `f64`, `f16`, `bf16`, `fp8`, `c64`, `c128
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "voidstackloop/oxideon 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-20 6 → 2026-11-21 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `df3ddefc6e9d` · [字段定义](../../DATASET.md)*

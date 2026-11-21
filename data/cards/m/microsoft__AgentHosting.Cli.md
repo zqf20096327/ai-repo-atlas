@@ -1,6 +1,6 @@
 # microsoft/AgentHosting.Cli
 
-⭐ 12 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/AgentHosting.Cli) · 组织维护
+⭐ 14 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/AgentHosting.Cli) · 组织维护
 
 **Microsoft 官方 CLI：以代码方式开发和管理 Copilot Studio 代理**
 
@@ -44,13 +44,13 @@ Microsoft.Agents.Hosting.CLI（msagent）将本地开发工作流与 Microsoft C
 
 ```mermaid
 xychart-beta
-    title "microsoft/AgentHosting.Cli 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 9 --> 13
-    line [10, 12]
+    title "microsoft/AgentHosting.Cli 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 15
+    line [10, 12, 14]
 ```
 
-2026-11-19 10 → 2026-11-20 12（+2）
+2026-11-19 10 → 2026-11-21 14（+4）
 
 
 ---

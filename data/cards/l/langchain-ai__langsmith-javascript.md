@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-javascript
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/langchain-ai/langsmith-javascript) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/langchain-ai/langsmith-javascript) · 组织维护
 
 **面向 LLM 应用的 LangSmith 平台 TypeScript 客户端 SDK**
 
@@ -44,13 +44,13 @@ LangSmith 平台的 TypeScript 客户端 SDK：支持记录 LLM 应用运行追�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langsmith-javascript 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 10 --> 20
-    line [11, 14, 15, 16, 17, 15, 17, 19, 19]
+    title "langchain-ai/langsmith-javascript 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 13 --> 21
+    line [14, 15, 16, 17, 15, 17, 19, 20]
 ```
 
-2026-10-18 11 → 2026-11-20 19（+8）
+2026-10-19 14 → 2026-11-21 20（+6）
 
 
 ---

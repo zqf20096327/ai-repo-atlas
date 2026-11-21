@@ -1,6 +1,6 @@
 # AlessandroCaforio/Academic-Writing
 
-⭐ 24 · Jupyter Notebook · MIT · 推送 2026-03-31 · [GitHub](https://github.com/AlessandroCaforio/Academic-Writing) · 个人维护
+⭐ 25 · Jupyter Notebook · MIT · 推送 2026-03-31 · [GitHub](https://github.com/AlessandroCaforio/Academic-Writing) · 个人维护
 
 **用 Claude Code 多智能体流程写实证经济学硕士论文的完整实践记录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AlessandroCaforio/Academic-Writing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-19", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-11-20 24（+1）
+2026-10-19 23 → 2026-11-21 25（+2）
 
 
 ---

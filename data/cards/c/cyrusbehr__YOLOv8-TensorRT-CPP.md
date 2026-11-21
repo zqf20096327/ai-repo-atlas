@@ -1,6 +1,6 @@
 # cyrusbehr/YOLOv8-TensorRT-CPP
 
-⭐ 736 · C++ · MIT · 推送 2026-05-30 · [GitHub](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) · 个人维护
+⭐ 735 · C++ · MIT · 推送 2026-05-30 · [GitHub](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) · 个人维护
 
 **TensorRT C++ 实现 YOLOv8：GPU 上跑检测/分割/姿态估计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cyrusbehr/YOLOv8-TensorRT-CPP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 734 --> 737
-    line [736, 735, 736, 736]
+    line [736, 735, 736, 735]
 ```
 
-2026-10-18 736 → 2026-11-20 736（+0）
+2026-10-19 736 → 2026-11-21 735（-1）
 
 
 ---

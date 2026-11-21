@@ -1,6 +1,6 @@
 # timazed/CodexKit
 
-⭐ 35 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/timazed/CodexKit) · 个人维护
+⭐ 35 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/timazed/CodexKit) · 个人维护
 
 **在 iOS/macOS 应用中嵌入 OpenAI Codex 风格 agent 的 Swift SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "timazed/CodexKit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-15", "2026-11-21"]
     y-axis "stars" 31 --> 36
     line [32, 33, 34, 35, 35]
 ```
 
-2026-10-18 32 → 2026-11-20 35（+3）
+2026-10-19 32 → 2026-11-21 35（+3）
 
 
 ---

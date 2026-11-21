@@ -46,13 +46,13 @@ PyreCrawl 是一个自托管的 MCP（Model Context Protocol）服务器，通�
 
 ```mermaid
 xychart-beta
-    title "SanggonBoy/PyreCrawl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 19 --> 26
-    line [20, 22, 23, 25, 25]
+    title "SanggonBoy/PyreCrawl 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 25, 25]
 ```
 
-2026-10-18 20 → 2026-11-20 25（+5）
+2026-10-19 22 → 2026-11-21 25（+3）
 
 
 ---

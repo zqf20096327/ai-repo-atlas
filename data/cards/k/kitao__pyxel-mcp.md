@@ -1,6 +1,6 @@
 # kitao/pyxel-mcp
 
-⭐ 32 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/kitao/pyxel-mcp) · [官网](https://github.com/kitao/pyxel) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kitao/pyxel-mcp) · [官网](https://github.com/kitao/pyxel) · 个人维护
 
 **让 AI agent 无头运行并观察 Pyxel 复古游戏的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kitao/pyxel-mcp 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 29 --> 34
     line [30, 31, 33, 32, 30, 32, 32]
 ```
 
-2026-10-22 30 → 2026-11-20 32（+2）
+2026-10-22 30 → 2026-11-21 32（+2）
 
 
 ---

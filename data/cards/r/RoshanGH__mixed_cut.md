@@ -1,6 +1,6 @@
 # RoshanGH/mixed_cut
 
-⭐ 56 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RoshanGH/mixed_cut) · [官网](https://github.com/RoshanGH/mixed_cut/releases) · 个人维护 · 中文 README
+⭐ 58 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RoshanGH/mixed_cut) · [官网](https://github.com/RoshanGH/mixed_cut/releases) · 个人维护 · 中文 README
 
 **给广告投放团队的 macOS 混剪工具：AI 切分镜批量出广告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RoshanGH/mixed_cut 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 44 --> 57
-    line [45, 46, 48, 49, 50, 48, 52, 54, 55, 56, 56]
+    title "RoshanGH/mixed_cut 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 45 --> 59
+    line [46, 48, 49, 50, 48, 52, 54, 55, 56, 58]
 ```
 
-2026-10-18 45 → 2026-11-20 56（+11）
+2026-10-19 46 → 2026-11-21 58（+12）
 
 
 ---

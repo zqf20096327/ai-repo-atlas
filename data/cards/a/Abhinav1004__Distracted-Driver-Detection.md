@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Abhinav1004/Distracted-Driver-Detection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 63 --> 66
-    line [65, 64, 64]
+    title "Abhinav1004/Distracted-Driver-Detection 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 63 --> 65
+    line [64, 64]
 ```
 
-2026-10-18 65 → 2026-11-20 64（-1）
+2026-10-19 64 → 2026-11-21 64（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hedykan/FeiyuOS
 
-⭐ 6 · C++ · MIT · 推送 2026-11-14 · [GitHub](https://github.com/hedykan/FeiyuOS) · 个人维护 · 中文 README
+⭐ 7 · C++ · MIT · 推送 2026-11-14 · [GitHub](https://github.com/hedykan/FeiyuOS) · 个人维护 · 中文 README
 
 **跑在 Cardputer 上的语音控制嵌入式 AI 小操作系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hedykan/FeiyuOS 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6]
+    title "hedykan/FeiyuOS 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-11-08 3 → 2026-11-20 6（+3）
+2026-11-08 3 → 2026-11-21 7（+4）
 
 
 ---

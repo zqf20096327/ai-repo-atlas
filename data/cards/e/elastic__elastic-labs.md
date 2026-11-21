@@ -1,6 +1,6 @@
 # elastic/elastic-labs
 
-⭐ 1,141 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/elastic/elastic-labs) · 组织维护
+⭐ 1,140 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/elastic/elastic-labs) · 组织维护
 
 **Elastic 平台官方示例库：搜索/可观测/安全的 Notebook 与应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elastic/elastic-labs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-21"]
     y-axis "stars" 1139 --> 1142
-    line [1140, 1141, 1140, 1141, 1140, 1141, 1141]
+    line [1140, 1141, 1140, 1141, 1140, 1141, 1140]
 ```
 
-2026-10-18 1,140 → 2026-11-20 1,141（+1）
+2026-10-19 1,140 → 2026-11-21 1,140（+0）
 
 
 ---

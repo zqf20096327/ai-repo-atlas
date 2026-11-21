@@ -43,13 +43,13 @@ Devinterview.io 维护的数据分析师面试准备题库，以 Markdown 问答
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/data-analyst-interview-questions 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-15", "2026-11-20"]
+    title "Devinterview-io/data-analyst-interview-questions 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 91 --> 97
-    line [92, 93, 94, 95, 96]
+    line [92, 93, 94, 95, 96, 96]
 ```
 
-2026-10-18 92 → 2026-11-20 96（+4）
+2026-10-19 92 → 2026-11-21 96（+4）
 
 
 ---

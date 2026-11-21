@@ -1,6 +1,6 @@
 # pandeymynk/clipcutter
 
-⭐ 10 · Python · 推送 2026-11-19 · [GitHub](https://github.com/pandeymynk/clipcutter) · 个人维护
+⭐ 11 · Python · 推送 2026-11-20 · [GitHub](https://github.com/pandeymynk/clipcutter) · 个人维护
 
 **本地运行的直播视频→9:16 竖版剪辑自动生成工具**
 
@@ -40,6 +40,18 @@
 > L3: **Any video or stream → viral 9:16 clips, automatically.** Paste a YouTube, Twitch or Kick link. ClipCutter
 > L65: 1. **Download** the video and its captions (or chat replay) with yt-dlp.
 > L69: 5. **Render** with ffmpeg: hook segment + main segment + layout + caption overlay + sound + loudness.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pandeymynk/clipcutter 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-20 10 → 2026-11-21 11（+1）
 
 
 ---

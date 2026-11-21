@@ -1,6 +1,6 @@
 # alibaba-damo-academy/ScholarSeed
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/alibaba-damo-academy/ScholarSeed) · [官网](https://scholarseed.damo.alibaba.com/) · 组织维护 · 中文 README
+⭐ 46 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/alibaba-damo-academy/ScholarSeed) · [官网](https://scholarseed.damo.alibaba.com/) · 组织维护 · 中文 README
 
 **本地优先的 AI 原生科研工作台：文献检索、阅读、验证与写作**
 
@@ -46,12 +46,12 @@ Electron 桌面研究应用，围绕同一研究项目串联 PDF 阅读、文献
 ```mermaid
 xychart-beta
     title "alibaba-damo-academy/ScholarSeed 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-21"]
     y-axis "stars" 37 --> 47
     line [38, 39, 43, 44, 46, 46]
 ```
 
-2026-11-08 38 → 2026-11-20 46（+8）
+2026-11-08 38 → 2026-11-21 46（+8）
 
 
 ---

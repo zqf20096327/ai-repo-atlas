@@ -1,6 +1,6 @@
 # Tanq16/link-hub
 
-⭐ 45 · Python · MIT · 推送 2026-02-22 · [GitHub](https://github.com/Tanq16/link-hub) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-02-22 · [GitHub](https://github.com/Tanq16/link-hub) · 个人维护
 
 **网络安全与 AI 安全资源链接汇总清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Tanq16/link-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 43 --> 47
+    line [44, 45, 46]
 ```
 
-2026-10-18 44 → 2026-11-20 45（+1）
+2026-10-19 44 → 2026-11-21 46（+2）
 
 
 ---

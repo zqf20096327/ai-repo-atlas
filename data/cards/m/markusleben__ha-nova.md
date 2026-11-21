@@ -1,6 +1,6 @@
 # markusleben/ha-nova
 
-⭐ 20 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/markusleben/ha-nova) · [官网](https://hanova.app) · 个人维护
+⭐ 20 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/markusleben/ha-nova) · [官网](https://hanova.app) · 个人维护
 
 **让 Claude/ChatGPT 等 AI 应用安全操控 Home Assistant 的本地桥接层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "markusleben/ha-nova 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 19 --> 23
     line [22, 21, 20, 22, 20, 20]
 ```
 
-2026-10-18 22 → 2026-11-20 20（-2）
+2026-10-19 22 → 2026-11-21 20（-2）
 
 
 ---

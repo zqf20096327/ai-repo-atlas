@@ -1,6 +1,6 @@
 # OthmanAdi/openui-forge
 
-⭐ 24 · PowerShell · MIT · 推送 2026-08-03 · [GitHub](https://github.com/OthmanAdi/openui-forge) · [官网](https://spruce-prism-8yya.here.now/) · 个人维护
+⭐ 25 · PowerShell · MIT · 推送 2026-08-03 · [GitHub](https://github.com/OthmanAdi/openui-forge) · [官网](https://spruce-prism-8yya.here.now/) · 个人维护
 
 **跨 IDE 的 OpenUI 集成技能：向既有项目添加生成式 UI 栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OthmanAdi/openui-forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 21 --> 25
-    line [22, 24, 24]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 21 --> 26
+    line [22, 24, 25]
 ```
 
-2026-10-18 22 → 2026-11-20 24（+2）
+2026-10-19 22 → 2026-11-21 25（+3）
 
 
 ---

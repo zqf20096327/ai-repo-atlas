@@ -1,6 +1,6 @@
 # mjmkk/opencodex
 
-⭐ 13 · Swift · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/mjmkk/opencodex) · [官网](https://github.com/mjmkk/opencodex/blob/main/docs/deployment.md) · 个人维护 · 中文 README
+⭐ 13 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mjmkk/opencodex) · [官网](https://github.com/mjmkk/opencodex/blob/main/docs/deployment.md) · 个人维护 · 中文 README
 
 **在 iPhone 上远程监督 Mac 本地 Claude/Codex 编程助手的 iOS 客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mjmkk/opencodex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 13（+0）
 
 
 ---

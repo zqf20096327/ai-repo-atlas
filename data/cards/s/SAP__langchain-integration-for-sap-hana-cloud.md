@@ -1,6 +1,6 @@
 # SAP/langchain-integration-for-sap-hana-cloud
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/SAP/langchain-integration-for-sap-hana-cloud) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/SAP/langchain-integration-for-sap-hana-cloud) · 组织维护
 
 **将 LangChain 接入 SAP HANA Cloud 的向量与知识图谱集成包**
 
@@ -45,12 +45,12 @@ SAP 维护的 LangChain 集成包（langchain-hana），使 LLM 应用使用 SAP
 ```mermaid
 xychart-beta
     title "SAP/langchain-integration-for-sap-hana-cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-20 19（+0）
+2026-10-19 19 → 2026-11-21 19（+0）
 
 
 ---

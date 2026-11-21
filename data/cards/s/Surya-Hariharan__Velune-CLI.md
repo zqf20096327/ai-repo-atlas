@@ -1,6 +1,6 @@
 # Surya-Hariharan/Velune-CLI
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Surya-Hariharan/Velune-CLI) · [官网](https://velune-cli.vercel.app/) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Surya-Hariharan/Velune-CLI) · [官网](https://velune-cli.vercel.app/) · 个人维护
 
 **本地优先的终端 AI 编程助手：多智能体协作改代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Surya-Hariharan/Velune-CLI 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-11-18", "2026-11-21"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-11-18 17 → 2026-11-20 17（+0）
+2026-11-18 17 → 2026-11-21 18（+1）
 
 
 ---

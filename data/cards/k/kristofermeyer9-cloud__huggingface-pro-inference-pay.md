@@ -1,6 +1,6 @@
 # kristofermeyer9-cloud/huggingface-pro-inference-pay
 
-⭐ 62 · 推送 2026-11-04 · [GitHub](https://github.com/kristofermeyer9-cloud/huggingface-pro-inference-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 69 · 推送 2026-11-04 · [GitHub](https://github.com/kristofermeyer9-cloud/huggingface-pro-inference-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡支付 HF 推理端点费用的指南**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kristofermeyer9-cloud/huggingface-pro-inference-pay 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 15 --> 70
-    line [19, 41, 55, 60, 66, 65, 62, 62]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 14 --> 74
+    line [19, 41, 55, 60, 66, 65, 62, 69]
 ```
 
-2026-11-08 19 → 2026-11-20 62（+43）
+2026-11-08 19 → 2026-11-21 69（+50）
 
 
 ---

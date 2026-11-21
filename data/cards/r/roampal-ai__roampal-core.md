@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "roampal-ai/roampal-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "roampal-ai/roampal-core 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 52 --> 55
-    line [54, 53]
+    line [54, 53, 53]
 ```
 
-2026-10-18 54 → 2026-11-20 53（-1）
+2026-10-18 54 → 2026-11-21 53（-1）
 
 
 ---

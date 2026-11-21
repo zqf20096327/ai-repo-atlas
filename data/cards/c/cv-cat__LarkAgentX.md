@@ -1,6 +1,6 @@
 # cv-cat/LarkAgentX
 
-⭐ 328 · Python · 推送 2026-11-11 · [GitHub](https://github.com/cv-cat/LarkAgentX) · [官网](https://larkagentx.cvcat.site) · 个人维护 · 中文 README
+⭐ 332 · Python · 推送 2026-11-11 · [GitHub](https://github.com/cv-cat/LarkAgentX) · [官网](https://larkagentx.cvcat.site) · 个人维护 · 中文 README
 
 **让飞书账号直连本地 Claude Code/Codex 的消息桥接工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cv-cat/LarkAgentX 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 290 --> 331
-    line [293, 312, 314, 316, 318, 320, 322, 324, 328]
+    title "cv-cat/LarkAgentX 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 290 --> 335
+    line [293, 312, 314, 316, 318, 320, 322, 324, 328, 332]
 ```
 
-2026-11-08 293 → 2026-11-20 328（+35）
+2026-11-08 293 → 2026-11-21 332（+39）
 
 
 ---

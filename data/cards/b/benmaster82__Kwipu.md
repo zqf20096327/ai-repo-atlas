@@ -1,6 +1,6 @@
 # benmaster82/Kwipu
 
-⭐ 613 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/benmaster82/Kwipu) · [官网](https://benmaster82.github.io/Kwipu/) · 个人维护 · 中文 README
+⭐ 614 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/benmaster82/Kwipu) · [官网](https://benmaster82.github.io/Kwipu/) · 个人维护 · 中文 README
 
 **对 Markdown 笔记做本地 Graph RAG 问答的工具，兼容 Obsidian**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "benmaster82/Kwipu 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 609 --> 614
-    line [611, 610, 611, 610, 612, 610, 611, 612, 613, 613]
+    title "benmaster82/Kwipu 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 609 --> 615
+    line [610, 611, 610, 612, 610, 611, 612, 613, 614]
 ```
 
-2026-10-18 611 → 2026-11-20 613（+2）
+2026-10-19 610 → 2026-11-21 614（+4）
 
 
 ---

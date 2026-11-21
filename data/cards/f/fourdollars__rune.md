@@ -1,6 +1,6 @@
 # fourdollars/rune
 
-⭐ 15 · Rust · MIT · 推送 2026-11-04 · [GitHub](https://github.com/fourdollars/rune) · [官网](https://fourdollars.github.io/rune/) · 个人维护
+⭐ 15 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/fourdollars/rune) · [官网](https://fourdollars.github.io/rune/) · 个人维护
 
 **Rust 单二进制 AI agent：CLI 助手、Concourse CI 资源与 Markdown 交换中心**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fourdollars/rune 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "fourdollars/rune 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
 ```
 
-2026-10-18 14 → 2026-11-20 15（+1）
+2026-10-19 15 → 2026-11-21 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Panix22/prd-writer-skill
 
-⭐ 29 · MIT · 推送 2026-06-04 · [GitHub](https://github.com/Panix22/prd-writer-skill) · 个人维护 · 中文 README
+⭐ 30 · MIT · 推送 2026-06-04 · [GitHub](https://github.com/Panix22/prd-writer-skill) · 个人维护 · 中文 README
 
 **引导式对话产出中文落地版 PRD 的通用 Agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Panix22/prd-writer-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 23 --> 30
-    line [24, 25, 26, 27, 26, 29, 29]
+    title "Panix22/prd-writer-skill 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 27, 26, 29, 30]
 ```
 
-2026-10-18 24 → 2026-11-20 29（+5）
+2026-10-19 25 → 2026-11-21 30（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # adaline/gateway
 
-⭐ 609 · TypeScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/adaline/gateway) · [官网](https://www.adaline.ai/docs) · 组织维护
+⭐ 608 · TypeScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/adaline/gateway) · [官网](https://www.adaline.ai/docs) · 组织维护
 
 **TypeScript 统一 LLM 调用 SDK：本地调用 300+ 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adaline/gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-12", "2026-11-21"]
     y-axis "stars" 606 --> 610
-    line [607, 608, 609, 609]
+    line [607, 608, 609, 608]
 ```
 
-2026-10-18 607 → 2026-11-20 609（+2）
+2026-10-19 607 → 2026-11-21 608（+1）
 
 
 ---

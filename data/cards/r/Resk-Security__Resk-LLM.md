@@ -1,6 +1,6 @@
 # Resk-Security/Resk-LLM
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Resk-Security/Resk-LLM) · [官网](https://resk.fr/projects/resk-llm.html) · 组织维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Resk-Security/Resk-LLM) · [官网](https://resk.fr/projects/resk-llm.html) · 组织维护
 
 **LLM 调用安全层：在输入期拦截提示注入并防护输出泄露**
 
@@ -46,12 +46,12 @@ Python 库，为 LLM API 调用提供安全防护层：由 11 个检测器（直
 ```mermaid
 xychart-beta
     title "Resk-Security/Resk-LLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 19 --> 22
-    line [21, 20, 20]
+    line [21, 20, 21]
 ```
 
-2026-10-18 21 → 2026-11-20 20（-1）
+2026-10-19 21 → 2026-11-21 21（+0）
 
 
 ---

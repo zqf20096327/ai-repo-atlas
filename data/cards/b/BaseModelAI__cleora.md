@@ -1,6 +1,6 @@
 # BaseModelAI/cleora
 
-⭐ 548 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/BaseModelAI/cleora) · [官网](https://cleora.ai) · 组织维护
+⭐ 547 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/BaseModelAI/cleora) · [官网](https://cleora.ai) · 组织维护
 
 **图嵌入引擎：单次矩阵乘法为异构图生成确定性实体嵌入**
 
@@ -47,12 +47,12 @@ Cleora（pycleora）是用 Rust 实现、CPU 运行的图嵌入库：通过迭�
 ```mermaid
 xychart-beta
     title "BaseModelAI/cleora 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-21"]
     y-axis "stars" 544 --> 549
-    line [546, 547, 545, 546, 547, 548]
+    line [547, 545, 546, 547, 548, 547]
 ```
 
-2026-10-18 546 → 2026-11-20 548（+2）
+2026-10-19 547 → 2026-11-21 547（+0）
 
 
 ---

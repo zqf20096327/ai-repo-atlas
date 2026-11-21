@@ -1,6 +1,6 @@
 # IFCA-Advanced-Computing/frouros
 
-⭐ 260 · Python · BSD-3-Clause · 推送 2026-04-23 · [GitHub](https://github.com/IFCA-Advanced-Computing/frouros) · [官网](https://frouros.readthedocs.io) · 组织维护
+⭐ 261 · Python · BSD-3-Clause · 推送 2026-04-23 · [GitHub](https://github.com/IFCA-Advanced-Computing/frouros) · [官网](https://frouros.readthedocs.io) · 组织维护
 
 **ML 系统漂移检测库：专注概念漂移与数据漂移检测**
 
@@ -45,12 +45,12 @@ BSD-3 许可的 Python 库，提供经典与较新的漂移检测算法：概念
 ```mermaid
 xychart-beta
     title "IFCA-Advanced-Computing/frouros 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 259 --> 261
-    line [260, 260]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 259 --> 262
+    line [260, 261]
 ```
 
-2026-10-18 260 → 2026-11-20 260（+0）
+2026-10-19 260 → 2026-11-21 261（+1）
 
 
 ---

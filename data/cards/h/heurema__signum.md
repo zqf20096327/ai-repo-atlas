@@ -1,6 +1,6 @@
 # heurema/signum
 
-⭐ 18 · Shell · MIT · 推送 2026-07-20 · [GitHub](https://github.com/heurema/signum) · [官网](https://skill7.dev/signum) · 个人维护
+⭐ 18 · Shell · MIT · 推送 2026-11-20 · [GitHub](https://github.com/heurema/signum) · 个人维护
 
 **面向 agentic 开发流程的合约式审查与证明门禁（Claude Code 插件）**
 
@@ -45,12 +45,12 @@ Signum 是一个以合约为先的证明门禁：把任务转化为经过审查�
 ```mermaid
 xychart-beta
     title "heurema/signum 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-20 18（+0）
+2026-10-19 18 → 2026-11-21 18（+0）
 
 
 ---

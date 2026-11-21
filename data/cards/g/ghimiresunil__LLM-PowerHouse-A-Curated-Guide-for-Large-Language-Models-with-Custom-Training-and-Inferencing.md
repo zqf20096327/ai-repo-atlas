@@ -1,6 +1,6 @@
 # ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing
 
-⭐ 735 · Jupyter Notebook · MIT · 推送 2026-03-13 · [GitHub](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing) · 个人维护
+⭐ 734 · Jupyter Notebook · MIT · 推送 2026-03-13 · [GitHub](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing) · 个人维护
 
 **LLM 训练与推理的策展教程清单：含代码示例与数据集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 733 --> 737
-    line [734, 735, 736, 735, 735]
+    line [734, 735, 736, 735, 734]
 ```
 
-2026-10-18 734 → 2026-11-20 735（+1）
+2026-10-19 734 → 2026-11-21 734（+0）
 
 
 ---

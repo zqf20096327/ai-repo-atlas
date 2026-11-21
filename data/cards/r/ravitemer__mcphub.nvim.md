@@ -1,6 +1,6 @@
 # ravitemer/mcphub.nvim
 
-⭐ 1,792 · Lua · MIT · 推送 2026-01-18 · [GitHub](https://github.com/ravitemer/mcphub.nvim) · [官网](https://ravitemer.github.io/mcphub.nvim/) · 个人维护
+⭐ 1,791 · Lua · MIT · 推送 2026-01-18 · [GitHub](https://github.com/ravitemer/mcphub.nvim) · [官网](https://ravitemer.github.io/mcphub.nvim/) · 个人维护
 
 **Neovim 的 MCP 客户端：统一管理并接入 MCP 服务器到聊天插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ravitemer/mcphub.nvim 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
+    title "ravitemer/mcphub.nvim 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1787 --> 1793
-    line [1790, 1788, 1789, 1788, 1789, 1790, 1788, 1791, 1792]
+    line [1790, 1788, 1789, 1788, 1789, 1790, 1788, 1791, 1792, 1791]
 ```
 
-2026-10-18 1,790 → 2026-11-20 1,792（+2）
+2026-10-18 1,790 → 2026-11-21 1,791（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mostafasadeghi97/design2code
 
-⭐ 688 · TypeScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/mostafasadeghi97/design2code) · 个人维护
+⭐ 687 · TypeScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/mostafasadeghi97/design2code) · 个人维护
 
 **把设计截图/线框/Figma 转成 HTML/CSS/JS 代码的 Web 应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mostafasadeghi97/design2code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-13", "2026-11-20"]
+    title "mostafasadeghi97/design2code 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-13", "2026-11-20", "2026-11-21"]
     y-axis "stars" 683 --> 689
-    line [684, 685, 687, 688]
+    line [684, 685, 687, 688, 687]
 ```
 
-2026-10-18 684 → 2026-11-20 688（+4）
+2026-10-19 684 → 2026-11-21 687（+3）
 
 
 ---

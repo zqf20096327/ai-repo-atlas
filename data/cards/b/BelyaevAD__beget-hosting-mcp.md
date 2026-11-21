@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BelyaevAD/beget-hosting-mcp 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-20"]
+    title "BelyaevAD/beget-hosting-mcp 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 16
-    line [15, 10]
+    line [15, 10, 10]
 ```
 
-2026-10-26 15 → 2026-11-20 10（-5）
+2026-10-26 15 → 2026-11-21 10（-5）
 
 
 ---

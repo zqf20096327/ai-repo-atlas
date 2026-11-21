@@ -1,6 +1,6 @@
 # billpwchan/zhiyin
 
-⭐ 12 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/billpwchan/zhiyin) · [官网](https://zhiyin.billpwchan.art/?ref=github) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/billpwchan/zhiyin) · [官网](https://zhiyin.billpwchan.art/?ref=github) · 个人维护 · 中文 README
 
 **从你的音乐喜欢列表生成每周电台，Claude 选歌并说明理由**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "billpwchan/zhiyin 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 2 --> 13
-    line [3, 4, 12]
+    title "billpwchan/zhiyin 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 15
+    line [3, 4, 12, 14]
 ```
 
-2026-11-18 3 → 2026-11-20 12（+9）
+2026-11-18 3 → 2026-11-21 14（+11）
 
 
 ---

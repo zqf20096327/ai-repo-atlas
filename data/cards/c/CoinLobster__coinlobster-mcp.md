@@ -44,13 +44,13 @@ MCP 服务器，为 Claude、ChatGPT、Cursor 等 AI 客户端提供加密货币
 
 ```mermaid
 xychart-beta
-    title "CoinLobster/coinlobster-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    title "CoinLobster/coinlobster-mcp 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 10 --> 15
-    line [14, 13, 12, 11]
+    line [14, 13, 12, 11, 11]
 ```
 
-2026-10-18 14 → 2026-11-20 11（-3）
+2026-10-19 14 → 2026-11-21 11（-3）
 
 
 ---

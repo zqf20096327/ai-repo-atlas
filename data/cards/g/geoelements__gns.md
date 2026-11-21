@@ -1,6 +1,6 @@
 # geoelements/gns
 
-⭐ 244 · Python · NOASSERTION · 推送 2026-03-27 · [GitHub](https://github.com/geoelements/gns) · [官网](https://www.geoelements.org/gns/) · 组织维护
+⭐ 245 · Python · NOASSERTION · 推送 2026-03-27 · [GitHub](https://github.com/geoelements/gns) · [官网](https://www.geoelements.org/gns/) · 组织维护
 
 **GNN 代理模拟器：模拟颗粒与流体系统替代数值方法**
 
@@ -45,12 +45,12 @@ UT Austin 团队维护的基于图神经网络（GNN）的机器学习代理模�
 ```mermaid
 xychart-beta
     title "geoelements/gns 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 239 --> 245
-    line [240, 241, 240, 243, 244, 244]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 239 --> 246
+    line [240, 241, 240, 243, 244, 245]
 ```
 
-2026-10-18 240 → 2026-11-20 244（+4）
+2026-10-19 240 → 2026-11-21 245（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # pixelsncodes/GesturePortal
 
-⭐ 29 · Python · 推送 2026-10-07 · [GitHub](https://github.com/pixelsncodes/GesturePortal) · [官网](https://github.com/pixelsncodes/GesturePortal#see-it-working) · 个人维护
+⭐ 30 · Python · 推送 2026-10-07 · [GitHub](https://github.com/pixelsncodes/GesturePortal) · [官网](https://github.com/pixelsncodes/GesturePortal#see-it-working) · 个人维护
 
 **手势控制本地 AI 摄像头：双手框选窗口揭示风格化画面**
 
@@ -44,13 +44,13 @@ Windows 原型应用：用 MediaPipe 追踪双手，双手比出 L 形取景框�
 
 ```mermaid
 xychart-beta
-    title "pixelsncodes/GesturePortal 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 25 --> 30
-    line [26, 27, 28, 29, 28, 29, 29]
+    title "pixelsncodes/GesturePortal 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 29, 28, 29, 30]
 ```
 
-2026-10-18 26 → 2026-11-20 29（+3）
+2026-10-19 27 → 2026-11-21 30（+3）
 
 
 ---

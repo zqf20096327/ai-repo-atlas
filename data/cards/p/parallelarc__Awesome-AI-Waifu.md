@@ -1,6 +1,6 @@
 # parallelarc/Awesome-AI-Waifu
 
-⭐ 21 · NOASSERTION · 推送 2026-05-05 · [GitHub](https://github.com/parallelarc/Awesome-AI-Waifu) · 个人维护 · 中文 README
+⭐ 22 · NOASSERTION · 推送 2026-05-05 · [GitHub](https://github.com/parallelarc/Awesome-AI-Waifu) · 个人维护 · 中文 README
 
 **AI Waifu/智能伴侣资源策展清单：框架、平台、模型与社区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "parallelarc/Awesome-AI-Waifu 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    title "parallelarc/Awesome-AI-Waifu 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 22]
 ```
 
-2026-10-18 18 → 2026-11-20 21（+3）
+2026-10-19 19 → 2026-11-21 22（+3）
 
 
 ---

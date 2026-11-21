@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "WerewolfEmuHub/Gemini-Config-Checker- 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    title "WerewolfEmuHub/Gemini-Config-Checker- 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 471 --> 476
-    line [475, 473, 472]
+    line [475, 473, 472, 472]
 ```
 
-2026-11-15 475 → 2026-11-20 472（-3）
+2026-11-15 475 → 2026-11-21 472（-3）
 
 
 ---

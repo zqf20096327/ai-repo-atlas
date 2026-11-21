@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-Provider-Verifier
 
-⭐ 53 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Provider-Verifier) · 组织维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Provider-Verifier) · 组织维护 · 中文 README
 
 **验证 MiniMax M2 系模型第三方部署正确性的评测工具包**
 
@@ -46,12 +46,12 @@ MiniMax 官方提供的厂商无关验证工具包：针对 MiniMax M2 系列模
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MiniMax-Provider-Verifier 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53, 52, 53, 53]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 50 --> 55
+    line [51, 52, 53, 52, 53, 54]
 ```
 
-2026-10-18 51 → 2026-11-20 53（+2）
+2026-10-19 51 → 2026-11-21 54（+3）
 
 
 ---

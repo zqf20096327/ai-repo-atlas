@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Baymaxxx/alan-shao-justin-sun-ai-interview 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 7 --> 11
-    line [8, 9, 10, 10]
+    title "Baymaxxx/alan-shao-justin-sun-ai-interview 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 8 --> 11
+    line [9, 10, 10]
 ```
 
-2026-10-18 8 → 2026-11-20 10（+2）
+2026-10-19 9 → 2026-11-21 10（+1）
 
 
 ---

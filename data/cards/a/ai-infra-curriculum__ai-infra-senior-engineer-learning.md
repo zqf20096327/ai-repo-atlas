@@ -1,6 +1,6 @@
 # ai-infra-curriculum/ai-infra-senior-engineer-learning
 
-⭐ 11 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-senior-engineer-learning) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-senior-engineer-learning) · 组织维护
 
 **面向 AI 基础设施工程师的高级进阶学习课程（400-500 小时）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-infra-curriculum/ai-infra-senior-engineer-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-19 10 → 2026-11-21 12（+2）
 
 
 ---

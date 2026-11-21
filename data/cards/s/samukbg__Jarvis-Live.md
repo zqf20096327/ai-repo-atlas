@@ -1,6 +1,6 @@
 # samukbg/Jarvis-Live
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/samukbg/Jarvis-Live) · [官网](https://jarvis-live.xyz) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管实时语音 AI 助手：照片级虚拟形象+委派编码 Agent 执行任务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # decodingai-magazine/llm-twin-course
 
-⭐ 4,411 · Python · MIT · 推送 2026-04-20 · [GitHub](https://github.com/decodingai-magazine/llm-twin-course) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **免费开源课程：教你端到端构建生产级 LLM 与 RAG 系统**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

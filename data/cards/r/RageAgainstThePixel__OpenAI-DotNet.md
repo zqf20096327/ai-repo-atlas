@@ -1,6 +1,6 @@
 # RageAgainstThePixel/OpenAI-DotNet
 
-⭐ 757 · C# · MIT · 推送 2026-01-24 · [GitHub](https://github.com/RageAgainstThePixel/OpenAI-DotNet) · [官网](https://openai.com) · 个人维护
+⭐ 756 · C# · MIT · 推送 2026-01-24 · [GitHub](https://github.com/RageAgainstThePixel/OpenAI-DotNet) · [官网](https://openai.com) · 个人维护
 
 **面向 .NET 开发者的 OpenAI REST API 客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RageAgainstThePixel/OpenAI-DotNet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 755 --> 759
-    line [757, 758, 757, 758, 756, 757, 757]
+    line [757, 758, 757, 758, 756, 757, 756]
 ```
 
-2026-10-18 757 → 2026-11-20 757（+0）
+2026-10-19 757 → 2026-11-21 756（-1）
 
 
 ---

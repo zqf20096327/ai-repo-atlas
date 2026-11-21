@@ -1,6 +1,6 @@
 # ForLegalAI/mcp-ms-office-documents
 
-⭐ 45 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ForLegalAI/mcp-ms-office-documents) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ForLegalAI/mcp-ms-office-documents) · 组织维护
 
 **MCP 服务器：让 AI 助手生成 Office 文档与邮件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ForLegalAI/mcp-ms-office-documents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-21"]
     y-axis "stars" 41 --> 46
     line [42, 43, 44, 45, 45]
 ```
 
-2026-10-18 42 → 2026-11-20 45（+3）
+2026-10-19 42 → 2026-11-21 45（+3）
 
 
 ---

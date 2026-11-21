@@ -1,6 +1,6 @@
 # mehmetnadir/cdpilot
 
-⭐ 33 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mehmetnadir/cdpilot) · [官网](https://cdpilot.ndr.ist) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mehmetnadir/cdpilot) · [官网](https://cdpilot.ndr.ist) · 个人维护
 
 **零依赖的浏览器自动化 CLI，基于原生 CDP，含 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mehmetnadir/cdpilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-11-20 33（+1）
+2026-10-19 32 → 2026-11-21 34（+2）
 
 
 ---

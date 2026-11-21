@@ -1,6 +1,6 @@
 # sahinmola5-rgb/coregold-vcc-terminal
 
-⭐ 87 · 推送 2026-10-31 · [GitHub](https://github.com/sahinmola5-rgb/coregold-vcc-terminal) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 88 · 推送 2026-10-31 · [GitHub](https://github.com/sahinmola5-rgb/coregold-vcc-terminal) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **海外软件/AI 订阅用的虚拟信用卡开卡服务推广页**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sahinmola5-rgb/coregold-vcc-terminal 星数(近 9 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
     y-axis "stars" 0 --> 99
-    line [3, 46, 67, 81, 86, 91, 90, 87, 87]
+    line [3, 46, 67, 81, 86, 91, 90, 87, 88]
 ```
 
-2026-11-01 3 → 2026-11-20 87（+84）
+2026-11-01 3 → 2026-11-21 88（+85）
 
 
 ---

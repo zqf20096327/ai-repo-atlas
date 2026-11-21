@@ -1,6 +1,6 @@
 # ChatFAQ/ChatFAQ
 
-⭐ 154 · Python · MIT · 推送 2025-12-11 · [GitHub](https://github.com/ChatFAQ/ChatFAQ) · [官网](https://www.chatfaq.io/) · 组织维护
+⭐ 154 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ChatFAQ/ChatFAQ) · [官网](https://www.chatfaq.io/) · 组织维护
 
 **构建 RAG/Agent/FSM 对话方案的开源平台与框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChatFAQ/ChatFAQ 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
     y-axis "stars" 152 --> 155
     line [153, 154, 154]
 ```
 
-2026-10-18 153 → 2026-11-20 154（+1）
+2026-10-19 153 → 2026-11-21 154（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # xuboboo/grok-geo
 
-⭐ 14 · Python · MIT · 推送 2026-07-19 · [GitHub](https://github.com/xuboboo/grok-geo) · [官网](https://github.com/xuboboo/grok-geo) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-07-19 · [GitHub](https://github.com/xuboboo/grok-geo) · [官网](https://github.com/xuboboo/grok-geo) · 个人维护 · 中文 README
 
 **面向品牌营销者的 AI 搜索（GEO）品牌可见度诊断 Agent Skill**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xuboboo/grok-geo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 12, 13, 14, 14]
+    x-axis ["2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 12, 13, 14, 15]
 ```
 
-2026-10-18 12 → 2026-11-20 14（+2）
+2026-10-19 12 → 2026-11-21 15（+3）
 
 
 ---

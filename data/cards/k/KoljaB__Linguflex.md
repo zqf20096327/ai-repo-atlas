@@ -1,6 +1,6 @@
 # KoljaB/Linguflex
 
-⭐ 813 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/KoljaB/Linguflex) · 个人维护
+⭐ 812 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/KoljaB/Linguflex) · 个人维护
 
 **Jarvis 式语音 AI 助手框架：本地语音对话与生活功能集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KoljaB/Linguflex 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 812 --> 815
-    line [814, 813, 813]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 811 --> 815
+    line [814, 813, 812]
 ```
 
-2026-11-10 814 → 2026-11-20 813（-1）
+2026-11-10 814 → 2026-11-21 812（-2）
 
 
 ---

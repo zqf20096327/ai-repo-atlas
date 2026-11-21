@@ -1,6 +1,6 @@
 # IIIDman/fairlens
 
-⭐ 28 · Python · MIT · 推送 2026-02-25 · [GitHub](https://github.com/IIIDman/fairlens) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-02-25 · [GitHub](https://github.com/IIIDman/fairlens) · 个人维护
 
 **面向开发者的轻量级 ML 模型与数据集偏差检测工具包**
 
@@ -44,13 +44,13 @@ Python 公平性审计库（Python 3.8+，MIT 许可）：对数据集做分组�
 
 ```mermaid
 xychart-beta
-    title "IIIDman/fairlens 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 27 --> 33
-    line [32, 31, 28]
+    title "IIIDman/fairlens 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 24 --> 33
+    line [32, 31, 28, 25]
 ```
 
-2026-10-18 32 → 2026-11-20 28（-4）
+2026-10-19 32 → 2026-11-21 25（-7）
 
 
 ---

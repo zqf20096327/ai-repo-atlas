@@ -1,6 +1,6 @@
 # artefactory/woodtapper
 
-⭐ 47 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/artefactory/woodtapper) · [官网](https://artefactory.github.io/woodtapper/) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/artefactory/woodtapper) · [官网](https://artefactory.github.io/woodtapper/) · 组织维护
 
 **解释和操控 scikit-learn 树集成的 Python 工具箱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "artefactory/woodtapper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-11-20 47（+0）
+2026-10-19 47 → 2026-11-21 48（+1）
 
 
 ---

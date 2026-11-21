@@ -1,6 +1,6 @@
 # assistant-ui/modelpedia
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/assistant-ui/modelpedia) · [官网](https://modelpedia.dev) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/assistant-ui/modelpedia) · [官网](https://modelpedia.dev) · 组织维护
 
 **跨厂商 AI 模型开放目录：规格、价格、能力查询**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "assistant-ui/modelpedia 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 11 → 2026-11-21 12（+1）
 
 
 ---

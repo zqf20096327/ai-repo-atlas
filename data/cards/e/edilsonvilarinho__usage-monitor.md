@@ -1,6 +1,6 @@
 # edilsonvilarinho/usage-monitor
 
-⭐ 20 · Kotlin · MIT · 推送 2026-11-19 · [GitHub](https://github.com/edilsonvilarinho/usage-monitor) · 个人维护
+⭐ 22 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/edilsonvilarinho/usage-monitor) · 个人维护
 
 **桌面 HUD 汇总各 AI 编程工具的配额、用量与成本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edilsonvilarinho/usage-monitor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 13 --> 21
-    line [14, 16, 17, 16, 19, 20, 20]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 13 --> 23
+    line [14, 16, 17, 16, 19, 20, 22]
 ```
 
-2026-10-18 14 → 2026-11-20 20（+6）
+2026-10-19 14 → 2026-11-21 22（+8）
 
 
 ---

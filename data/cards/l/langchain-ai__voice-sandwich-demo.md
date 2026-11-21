@@ -1,6 +1,6 @@
 # langchain-ai/voice-sandwich-demo
 
-⭐ 142 · TypeScript · 推送 2026-06-28 · [GitHub](https://github.com/langchain-ai/voice-sandwich-demo) · 组织维护
+⭐ 143 · TypeScript · 推送 2026-06-28 · [GitHub](https://github.com/langchain-ai/voice-sandwich-demo) · 组织维护
 
 **实时语音到语音 AI 管线演示：三明治店点单助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/voice-sandwich-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 141 --> 143
-    line [142, 142]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 141 --> 144
+    line [142, 143]
 ```
 
-2026-10-18 142 → 2026-11-20 142（+0）
+2026-10-19 142 → 2026-11-21 143（+1）
 
 
 ---

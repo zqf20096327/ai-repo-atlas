@@ -1,6 +1,6 @@
 # Zheng-Meng/Tracking-Control
 
-⭐ 34 · MATLAB · MIT · 推送 2025-11-24 · [GitHub](https://github.com/Zheng-Meng/Tracking-Control) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MATLAB 代码：机器学习实现复杂动力系统轨迹的无模型跟踪控制**
 
@@ -11,7 +11,7 @@ Nature Communications 论文（Zhai 等 2023）的配套代码，实现基于机
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

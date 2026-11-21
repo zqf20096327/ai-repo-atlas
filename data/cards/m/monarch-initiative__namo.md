@@ -1,6 +1,6 @@
 # monarch-initiative/namo
 
-⭐ 17 · Python · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/monarch-initiative/namo) · [官网](https://monarch-initiative.github.io/namo/) · 组织维护
+⭐ 17 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/monarch-initiative/namo) · [官网](https://monarch-initiative.github.io/namo/) · 组织维护
 
 **新方法学（NAM）本体与 Schema：生命科学语义数据模型**
 
@@ -45,12 +45,12 @@ Monarch Initiative 维护的 New Approach Methodology Ontology and Schema 项目
 ```mermaid
 xychart-beta
     title "monarch-initiative/namo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-20 17（+0）
+2026-10-19 17 → 2026-11-21 17（+0）
 
 
 ---

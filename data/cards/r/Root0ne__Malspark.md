@@ -1,6 +1,6 @@
 # Root0ne/Malspark
 
-⭐ 21 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Root0ne/Malspark) · [官网](https://malspark.com) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Root0ne/Malspark) · [官网](https://malspark.com) · 个人维护
 
 **自托管多智能体恶意软件分析平台：AI 分析师团队出具带证据的报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Root0ne/Malspark 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-21"]
     y-axis "stars" 9 --> 22
     line [10, 12, 18, 20, 21, 21]
 ```
 
-2026-11-08 10 → 2026-11-20 21（+11）
+2026-11-08 10 → 2026-11-21 21（+11）
 
 
 ---

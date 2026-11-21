@@ -1,6 +1,6 @@
 # Nystic-Shadow/Opencode2api
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Nystic-Shadow/Opencode2api) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Nystic-Shadow/Opencode2api) · 个人维护
 
 **把 OpenCode Zen 免费层转成 OpenAI/Anthropic 兼容 API 的网关**
 
@@ -46,12 +46,12 @@ OpenCode2API 将标准 OpenAI（/v1/chat/completions）与 Anthropic（/v1/messa
 ```mermaid
 xychart-beta
     title "Nystic-Shadow/Opencode2api 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
     y-axis "stars" 2 --> 14
-    line [3, 4, 5, 7, 8, 9, 11, 3, 13, 12, 12]
+    line [3, 4, 5, 7, 8, 9, 11, 3, 13, 12, 11]
 ```
 
-2026-10-23 3 → 2026-11-20 12（+9）
+2026-10-23 3 → 2026-11-21 11（+8）
 
 
 ---

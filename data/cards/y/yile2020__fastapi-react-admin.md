@@ -1,6 +1,6 @@
 # yile2020/fastapi-react-admin
 
-⭐ 236 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/yile2020/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 个人维护 · 中文 README
+⭐ 236 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yile2020/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 个人维护 · 中文 README
 
 **FastAPI+React 19 管理后台基座：RBAC/审批流/权限受限 AI 助手**
 
@@ -41,6 +41,18 @@
 > L7: **A batteries-included admin foundation · FastAPI + React 19 + shadcn/ui**
 > L9: Row-level permissions · multi-tab that keeps state · approval workflow · an AI assistant that can't overreach · S3 s
 > L69: - **An AI assistant that can't overreach** — it can do exactly what the signed-in user can do; write actions are pr
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yile2020/fastapi-react-admin 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 235 --> 237
+    line [236, 236]
+```
+
+2026-11-20 236 → 2026-11-21 236（+0）
 
 
 ---

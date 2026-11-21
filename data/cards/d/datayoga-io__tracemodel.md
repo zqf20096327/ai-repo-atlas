@@ -1,6 +1,6 @@
 # datayoga-io/tracemodel
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/datayoga-io/tracemodel) · [官网](https://pypi.org/project/pytracemodel/) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/datayoga-io/tracemodel) · [官网](https://datayoga-io.github.io/tracemodel/) · 个人维护
 
 **给 Python 财务建模加溯源与校验的库，供人与 AI agent 填数**
 
@@ -46,12 +46,12 @@ Python 库，用于构建带可追溯性的财务与业务模型：每个数值�
 ```mermaid
 xychart-beta
     title "datayoga-io/tracemodel 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21"]
     y-axis "stars" 6 --> 10
     line [7, 8, 9, 9]
 ```
 
-2026-11-08 7 → 2026-11-20 9（+2）
+2026-11-08 7 → 2026-11-21 9（+2）
 
 
 ---

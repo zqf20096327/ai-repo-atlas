@@ -1,6 +1,6 @@
 # SamurAIGPT/muapi-cli
 
-⭐ 19 · Python · 推送 2026-10-22 · [GitHub](https://github.com/SamurAIGPT/muapi-cli) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=muapi-cli) · 组织维护
+⭐ 19 · Python · 推送 2026-11-20 · [GitHub](https://github.com/SamurAIGPT/muapi-cli) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=muapi-cli) · 组织维护
 
 **muapi.ai 官方 CLI：终端生成图像/视频/音频并充当 MCP 服务器**
 
@@ -46,12 +46,12 @@ muapi.ai 的官方命令行客户端：通过账号认证与 API key，在终端
 ```mermaid
 xychart-beta
     title "SamurAIGPT/muapi-cli 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-21"]
     y-axis "stars" 11 --> 20
     line [12, 13, 14, 15, 13, 16, 17, 18, 19, 19]
 ```
 
-2026-10-18 12 → 2026-11-20 19（+7）
+2026-10-19 12 → 2026-11-21 19（+7）
 
 
 ---

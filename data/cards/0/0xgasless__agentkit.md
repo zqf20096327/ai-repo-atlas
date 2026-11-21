@@ -1,6 +1,6 @@
 # 0xgasless/agentkit
 
-⭐ 419 · TypeScript · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/0xgasless/agentkit) · [官网](https://docs.0xgasless.com) · 组织维护
+⭐ 419 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/0xgasless/agentkit) · [官网](https://docs.0xgasless.com) · 组织维护
 
 **给 AI 代理配备加密钱包与链上操作能力的 SDK 工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xgasless/agentkit 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-20"]
+    title "0xgasless/agentkit 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-21"]
     y-axis "stars" 418 --> 422
-    line [419, 420, 419, 420, 419, 421, 420, 419, 419]
+    line [420, 419, 420, 419, 421, 420, 419, 419]
 ```
 
-2026-10-18 419 → 2026-11-20 419（+0）
+2026-10-19 420 → 2026-11-21 419（-1）
 
 
 ---

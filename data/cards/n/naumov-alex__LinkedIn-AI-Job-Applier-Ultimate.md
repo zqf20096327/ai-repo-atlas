@@ -1,6 +1,6 @@
 # naumov-alex/LinkedIn-AI-Job-Applier-Ultimate
 
-⭐ 186 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/naumov-alex/LinkedIn-AI-Job-Applier-Ultimate) · 个人维护
+⭐ 187 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/naumov-alex/LinkedIn-AI-Job-Applier-Ultimate) · 个人维护
 
 **用 AI 自动投递 LinkedIn/Indeed 职位并生成定制简历的机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naumov-alex/LinkedIn-AI-Job-Applier-Ultimate 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 184 --> 187
-    line [185, 186, 186]
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 184 --> 188
+    line [185, 186, 187]
 ```
 
-2026-11-13 185 → 2026-11-20 186（+1）
+2026-11-13 185 → 2026-11-21 187（+2）
 
 
 ---

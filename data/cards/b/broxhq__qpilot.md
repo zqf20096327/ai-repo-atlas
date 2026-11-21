@@ -1,6 +1,6 @@
 # broxhq/qpilot
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/broxhq/qpilot) · [官网](https://brox.sh/) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/broxhq/qpilot) · [官网](https://brox.sh/) · 组织维护
 
 **AI agent：在真实浏览器中执行纯文本手工测试用例**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "broxhq/qpilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-20 14（+1）
+2026-10-19 13 → 2026-11-21 14（+1）
 
 
 ---

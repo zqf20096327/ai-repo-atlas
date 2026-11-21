@@ -1,6 +1,6 @@
 # Yrobot/cloudflare-search
 
-⭐ 43 · JavaScript · GPL-3.0 · 推送 2026-03-13 · [GitHub](https://github.com/Yrobot/cloudflare-search) · [官网](https://sink.proddig.com/cloudflare-search-github) · 个人维护 · 中文 README
+⭐ 42 · JavaScript · GPL-3.0 · 推送 2026-03-13 · [GitHub](https://github.com/Yrobot/cloudflare-search) · [官网](https://sink.proddig.com/cloudflare-search-github) · 个人维护 · 中文 README
 
 **部署在 Cloudflare Workers 的聚合搜索 API，带 MCP 集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Yrobot/cloudflare-search 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 43, 43]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 41 --> 45
+    line [43, 44, 43, 42]
 ```
 
-2026-10-18 43 → 2026-11-20 43（+0）
+2026-10-19 43 → 2026-11-21 42（-1）
 
 
 ---

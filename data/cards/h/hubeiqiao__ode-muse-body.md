@@ -1,6 +1,6 @@
 # hubeiqiao/ode-muse-body
 
-⭐ 38 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/hubeiqiao/ode-muse-body) · [官网](https://youtu.be/0wcoqi5CVuQ) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/hubeiqiao/ode-muse-body) · [官网](https://youtu.be/0wcoqi5CVuQ) · 个人维护
 
 **让 AI agent 经 ESP32 蓝牙实体操控闲置 iPad 的具身系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hubeiqiao/ode-muse-body 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 33 --> 39
-    line [34, 35, 37, 38, 38]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 33 --> 40
+    line [34, 35, 37, 38, 39]
 ```
 
-2026-11-08 34 → 2026-11-20 38（+4）
+2026-11-08 34 → 2026-11-21 39（+5）
 
 
 ---

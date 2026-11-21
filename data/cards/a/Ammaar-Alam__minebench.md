@@ -1,6 +1,6 @@
 # Ammaar-Alam/minebench
 
-⭐ 341 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Ammaar-Alam/minebench) · [官网](https://minebench.ai) · 个人维护
+⭐ 342 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Ammaar-Alam/minebench) · [官网](https://minebench.ai) · 个人维护
 
 **Minecraft 体素构建风格的 AI 空间推理评测竞技场**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ammaar-Alam/minebench 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 339 --> 344
-    line [340, 341, 342, 343, 341, 343, 342, 341, 341]
+    title "Ammaar-Alam/minebench 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 340 --> 344
+    line [341, 342, 343, 341, 343, 342, 341, 342]
 ```
 
-2026-10-18 340 → 2026-11-20 341（+1）
+2026-10-19 341 → 2026-11-21 342（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # muqadasejaz/Human-Detector
 
-⭐ 10 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/muqadasejaz/Human-Detector) · [官网](https://person-detection.streamlit.app/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/muqadasejaz/Human-Detector) · [官网](https://person-detection.streamlit.app/) · 个人维护
 
 **用 YOLOv8 实时检测摄像头/视频中人体的 Python 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "muqadasejaz/Human-Detector 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-20 10（+0）
+2026-11-08 10 → 2026-11-21 11（+1）
 
 
 ---

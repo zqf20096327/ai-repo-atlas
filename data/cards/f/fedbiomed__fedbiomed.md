@@ -1,6 +1,6 @@
 # fedbiomed/fedbiomed
 
-⭐ 92 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/fedbiomed/fedbiomed) · [官网](https://fedbiomed.org) · 组织维护
+⭐ 92 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/fedbiomed/fedbiomed) · [官网](https://fedbiomed.org) · 组织维护
 
 **面向生物医学研究的联邦学习/联邦分析框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fedbiomed/fedbiomed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "fedbiomed/fedbiomed 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 91 --> 94
-    line [93, 92]
+    line [93, 92, 92]
 ```
 
-2026-10-18 93 → 2026-11-20 92（-1）
+2026-10-19 93 → 2026-11-21 92（-1）
 
 
 ---

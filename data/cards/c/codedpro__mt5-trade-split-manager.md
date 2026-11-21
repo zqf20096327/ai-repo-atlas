@@ -1,6 +1,6 @@
 # codedpro/mt5-trade-split-manager
 
-⭐ 91 · MQL5 · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/codedpro/mt5-trade-split-manager) · 组织维护
+⭐ 92 · MQL5 · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/codedpro/mt5-trade-split-manager) · 组织维护
 
 **MT5 智能下单 EA：拆分订单+移动止损，配 REST API 与 MCP 供 AI Agent 调用**
 
@@ -45,12 +45,12 @@ MetaTrader 5 Expert Advisor，将单笔订单拆分为 1-10 个仓位（默认 5
 ```mermaid
 xychart-beta
     title "codedpro/mt5-trade-split-manager 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 85 --> 92
-    line [86, 87, 86, 89, 90, 91, 91]
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 85 --> 93
+    line [86, 87, 86, 89, 90, 91, 92]
 ```
 
-2026-10-18 86 → 2026-11-20 91（+5）
+2026-10-19 86 → 2026-11-21 92（+6）
 
 
 ---

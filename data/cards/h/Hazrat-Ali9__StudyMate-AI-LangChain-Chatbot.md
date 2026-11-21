@@ -1,6 +1,6 @@
 # Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot
 
-⭐ 25 · Python · 推送 2026-11-17 · [GitHub](https://github.com/Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot) · [官网](https://github.com/Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot) · 个人维护
+⭐ 25 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot) · [官网](https://github.com/Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot) · 个人维护
 
 **面向初学者的教育问答聊天机器人，LangChain 构建多路由并发管道**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 9 --> 26
     line [10, 11, 15, 22, 25, 25]
 ```
 
-2026-11-08 10 → 2026-11-20 25（+15）
+2026-11-08 10 → 2026-11-21 25（+15）
 
 
 ---

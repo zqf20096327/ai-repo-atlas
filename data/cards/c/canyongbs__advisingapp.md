@@ -1,6 +1,6 @@
 # canyongbs/advisingapp
 
-⭐ 339 · PHP · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/canyongbs/advisingapp) · [官网](https://advising.app) · 组织维护
+⭐ 339 · PHP · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/canyongbs/advisingapp) · [官网](https://advising.app) · 组织维护
 
 **面向高校的学生成功平台与招生 CRM，含 AI 聊天**
 
@@ -46,12 +46,12 @@ Canyon GBS 开发的高校学生互动与关系管理平台：覆盖短信/邮�
 ```mermaid
 xychart-beta
     title "canyongbs/advisingapp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
     y-axis "stars" 338 --> 341
     line [340, 339, 339]
 ```
 
-2026-10-18 340 → 2026-11-20 339（-1）
+2026-10-19 340 → 2026-11-21 339（-1）
 
 
 ---

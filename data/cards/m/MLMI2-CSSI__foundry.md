@@ -1,6 +1,6 @@
 # MLMI2-CSSI/foundry
 
-⭐ 88 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/MLMI2-CSSI/foundry) · 组织维护
+⭐ 89 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/MLMI2-CSSI/foundry) · 组织维护
 
 **材料科学与化学领域的机器学习就绪数据集发现与加载库**
 
@@ -45,12 +45,12 @@ Foundry-ML 是面向材料科学与化学研究者的 Python 库，用于查找�
 ```mermaid
 xychart-beta
     title "MLMI2-CSSI/foundry 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 87 --> 90
+    line [88, 89]
 ```
 
-2026-10-18 88 → 2026-11-20 88（+0）
+2026-10-19 88 → 2026-11-21 89（+1）
 
 
 ---

@@ -44,13 +44,13 @@ SciML 组织维护的 Julia 科学计算包，面向高维非局部、非线性�
 
 ```mermaid
 xychart-beta
-    title "SciML/HighDimPDE.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 86 --> 89
-    line [87, 88, 88]
+    title "SciML/HighDimPDE.jl 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 87 --> 89
+    line [88, 88]
 ```
 
-2026-10-18 87 → 2026-11-20 88（+1）
+2026-10-19 88 → 2026-11-21 88（+0）
 
 
 ---

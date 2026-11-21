@@ -1,6 +1,6 @@
 # kpavlov/koog-spring-boot-assistant
 
-⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/kpavlov/koog-spring-boot-assistant) · [官网](https://kpavlov.github.io/koog-spring-boot-assistant/) · 个人维护
+⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kpavlov/koog-spring-boot-assistant) · [官网](https://kpavlov.github.io/koog-spring-boot-assistant/) · 个人维护
 
 **Kotlin+Spring Boot 构建的 Koog 框架 AI 聊天助手示例**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kpavlov/koog-spring-boot-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # PensiveFei/deep-read-summarize
 
-⭐ 45 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/PensiveFei/deep-read-summarize) · 个人维护 · 中文 README
+⭐ 48 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/PensiveFei/deep-read-summarize) · 个人维护 · 中文 README
 
 **DSH 插件：把书籍/论文/视频/网页精读成结构化 Markdown 笔记**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PensiveFei/deep-read-summarize 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 31 --> 46
-    line [32, 34, 35, 36, 37, 35, 41, 43, 45, 45]
+    title "PensiveFei/deep-read-summarize 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 33 --> 49
+    line [34, 35, 36, 37, 35, 41, 43, 45, 48]
 ```
 
-2026-10-18 32 → 2026-11-20 45（+13）
+2026-10-19 34 → 2026-11-21 48（+14）
 
 
 ---

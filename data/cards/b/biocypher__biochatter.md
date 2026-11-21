@@ -1,6 +1,6 @@
 # biocypher/biochatter
 
-⭐ 223 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/biocypher/biochatter) · [官网](http://biochatter.org/) · 组织维护
+⭐ 224 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/biocypher/biochatter) · [官网](http://biochatter.org/) · 组织维护
 
 **连接生物医学应用与对话式 AI 的 Python 后端库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "biocypher/biochatter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 220 --> 224
-    line [221, 223, 223]
+    title "biocypher/biochatter 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 222 --> 225
+    line [223, 224]
 ```
 
-2026-10-18 221 → 2026-11-20 223（+2）
+2026-10-19 223 → 2026-11-21 224（+1）
 
 
 ---

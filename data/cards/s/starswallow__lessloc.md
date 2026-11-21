@@ -1,6 +1,6 @@
 # starswallow/lessloc
 
-⭐ 59 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/starswallow/lessloc) · [官网](https://lessloc.org) · 个人维护
+⭐ 56 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/starswallow/lessloc) · [官网](https://lessloc.org) · 个人维护
 
 **约束 AI 编程代理少写代码的钩子/插件工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "starswallow/lessloc 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 54 --> 114
-    line [109, 72, 68, 59]
+    title "starswallow/lessloc 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 51 --> 114
+    line [109, 72, 68, 59, 56]
 ```
 
-2026-11-02 109 → 2026-11-20 59（-50）
+2026-11-02 109 → 2026-11-21 56（-53）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/tab-transformer-pytorch
 
-⭐ 1,100 · Python · MIT · 推送 2026-01-08 · [GitHub](https://github.com/lucidrains/tab-transformer-pytorch) · 个人维护
+⭐ 1,097 · Python · MIT · 推送 2026-01-08 · [GitHub](https://github.com/lucidrains/tab-transformer-pytorch) · 个人维护
 
 **TabTransformer 表格数据注意力网络的 PyTorch 实现**
 
@@ -44,12 +44,12 @@ lucidrains 维护的 PyTorch 模型实现库，复现 TabTransformer——一种
 ```mermaid
 xychart-beta
     title "lucidrains/tab-transformer-pytorch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 1097 --> 1101
-    line [1099, 1098, 1099, 1098, 1099, 1100, 1100]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 1096 --> 1101
+    line [1099, 1098, 1099, 1098, 1099, 1100, 1097]
 ```
 
-2026-10-18 1,099 → 2026-11-20 1,100（+1）
+2026-10-19 1,099 → 2026-11-21 1,097（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # luckrnx09/python-guide-for-javascript-engineers
 
-⭐ 365 · TypeScript · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/luckrnx09/python-guide-for-javascript-engineers) · [官网](http://luckrnx09.com/python-guide-for-javascript-engineers/) · 个人维护 · 中文 README
+⭐ 364 · TypeScript · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/luckrnx09/python-guide-for-javascript-engineers) · [官网](http://luckrnx09.com/python-guide-for-javascript-engineers/) · 个人维护 · 中文 README
 
 **面向 JavaScript 工程师的 Python 入门开源电子书**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "luckrnx09/python-guide-for-javascript-engineers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 362 --> 366
-    line [364, 363, 364, 365, 365]
+    line [364, 363, 364, 365, 364]
 ```
 
-2026-10-18 364 → 2026-11-20 365（+1）
+2026-10-19 364 → 2026-11-21 364（+0）
 
 
 ---

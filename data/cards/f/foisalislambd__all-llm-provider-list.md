@@ -1,6 +1,6 @@
 # foisalislambd/all-llm-provider-list
 
-⭐ 11 · Python · 推送 2026-11-17 · [GitHub](https://github.com/foisalislambd/all-llm-provider-list) · 个人维护
+⭐ 11 · Python · 推送 2026-11-20 · [GitHub](https://github.com/foisalislambd/all-llm-provider-list) · 个人维护
 
 **面向开发者的 494 个 LLM 提供商目录与本地查询工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "foisalislambd/all-llm-provider-list 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-20 11（+1）
+2026-11-08 10 → 2026-11-21 11（+1）
 
 
 ---

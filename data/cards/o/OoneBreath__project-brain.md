@@ -1,6 +1,6 @@
 # OoneBreath/project-brain
 
-⭐ 13 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/OoneBreath/project-brain) · [官网](https://fixflex.co.uk/project-brain.html) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/OoneBreath/project-brain) · [官网](https://fixflex.co.uk/project-brain.html) · 个人维护
 
 **给 AI 编程 agent 的持久化项目记忆：Markdown 地图+索引**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OoneBreath/project-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-18 12 → 2026-11-21 14（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mangaba-ai/mangaba_ai
 
-⭐ 209 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Mangaba-ai/mangaba_ai) · [官网](https://www.mangaba.ia.br) · 组织维护
+⭐ 210 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Mangaba-ai/mangaba_ai) · [官网](https://www.mangaba.ia.br) · 组织维护
 
 **Python 多智能体编排框架：Crews、事件流、ReAct、RAG、MCP/A2A**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Mangaba-ai/mangaba_ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 206 --> 210
-    line [208, 207, 208, 207, 208, 209, 209]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 206 --> 211
+    line [208, 207, 208, 207, 208, 209, 210]
 ```
 
-2026-10-18 208 → 2026-11-20 209（+1）
+2026-10-19 208 → 2026-11-21 210（+2）
 
 
 ---

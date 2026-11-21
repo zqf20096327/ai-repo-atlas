@@ -1,6 +1,6 @@
 # LeanModels/DFloat11
 
-⭐ 665 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/LeanModels/DFloat11) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **LLM 与扩散模型的无损压缩推理框架，省约30%显存**
 
@@ -11,7 +11,7 @@ DFloat11 是面向 LLM 与扩散模型（FLUX.1、Qwen-Image、Wan2.1 等）的�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

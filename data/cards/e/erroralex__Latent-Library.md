@@ -1,6 +1,6 @@
 # erroralex/Latent-Library
 
-⭐ 90 · Java · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/erroralex/Latent-Library) · [官网](https://github.com/erroralex/Latent-Library/releases) · 个人维护
+⭐ 91 · Java · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/erroralex/Latent-Library) · [官网](https://github.com/erroralex/Latent-Library/releases) · 个人维护
 
 **面向 AI 生成图像的本地优先桌面素材管理器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "erroralex/Latent-Library 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 86 --> 91
-    line [87, 88, 90, 90]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 86 --> 92
+    line [87, 88, 90, 91]
 ```
 
-2026-10-18 87 → 2026-11-20 90（+3）
+2026-10-19 87 → 2026-11-21 91（+4）
 
 
 ---

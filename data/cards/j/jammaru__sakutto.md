@@ -1,6 +1,6 @@
 # jammaru/sakutto
 
-⭐ 275 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jammaru/sakutto) · [官网](https://chrome.google.com/webstore/detail/mhlbjjijfkoghmcjndgdimhdlfkhadfl) · 个人维护
+⭐ 274 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jammaru/sakutto) · [官网](https://chrome.google.com/webstore/detail/mhlbjjijfkoghmcjndgdimhdlfkhadfl) · 个人维护
 
 **本地运行 PLaMo 模型的浏览器翻译扩展，页面/PDF/视频/输入文本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jammaru/sakutto 星数(近 10 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    title "jammaru/sakutto 星数(近 11 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 183 --> 283
-    line [191, 218, 234, 238, 240, 252, 258, 264, 272, 275]
+    line [191, 218, 234, 238, 240, 252, 258, 264, 272, 275, 274]
 ```
 
-2026-11-10 191 → 2026-11-20 275（+84）
+2026-11-10 191 → 2026-11-21 274（+83）
 
 
 ---

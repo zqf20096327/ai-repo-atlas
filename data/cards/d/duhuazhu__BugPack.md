@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "duhuazhu/BugPack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "duhuazhu/BugPack 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 33 --> 35
+    line [34, 34]
 ```
 
-2026-10-18 33 → 2026-11-20 34（+1）
+2026-10-19 34 → 2026-11-21 34（+0）
 
 
 ---

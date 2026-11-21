@@ -45,13 +45,13 @@ GitHub 官方仓库发布的桌面应用，用于在本地与云端管理 GitHub
 
 ```mermaid
 xychart-beta
-    title "trackersnailgrip/GitHub-Copilot-app 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    title "trackersnailgrip/GitHub-Copilot-app 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 382 --> 386
-    line [385, 384, 383]
+    line [385, 384, 383, 383]
 ```
 
-2026-11-15 385 → 2026-11-20 383（-2）
+2026-11-15 385 → 2026-11-21 383（-2）
 
 
 ---

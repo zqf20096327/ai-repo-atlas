@@ -1,6 +1,6 @@
 # gbrigandi/mcp-server-wazuh
 
-⭐ 240 · Rust · MIT · 推送 2025-12-12 · [GitHub](https://github.com/gbrigandi/mcp-server-wazuh) · 个人维护
+⭐ 241 · Rust · MIT · 推送 2025-12-12 · [GitHub](https://github.com/gbrigandi/mcp-server-wazuh) · 个人维护
 
 **让 AI 助手用自然语言查询 Wazuh SIEM 安全数据的 MCP 服务器**
 
@@ -46,12 +46,12 @@ Rust 编写的 MCP 服务器，把 Wazuh SIEM 的 API 响应转换为 MCP 格式
 ```mermaid
 xychart-beta
     title "gbrigandi/mcp-server-wazuh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 238 --> 241
-    line [239, 240, 240]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
+    y-axis "stars" 238 --> 242
+    line [239, 240, 241]
 ```
 
-2026-10-18 239 → 2026-11-20 240（+1）
+2026-10-18 239 → 2026-11-21 241（+2）
 
 
 ---

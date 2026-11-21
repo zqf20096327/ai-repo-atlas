@@ -1,6 +1,6 @@
 # AcademiConnection/AcademiConnection
 
-⭐ 10 · Python · 推送 2026-10-26 · [GitHub](https://github.com/AcademiConnection/AcademiConnection) · 个人维护 · 中文 README
+⭐ 10 · Python · 推送 2026-11-20 · [GitHub](https://github.com/AcademiConnection/AcademiConnection) · 个人维护 · 中文 README
 
 **给 AI Agent 用的学者人脉与课题组调研工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AcademiConnection/AcademiConnection 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-20 10（+0）
+2026-11-11 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # OlgaKalinina101/YourOwnAI
 
-⭐ 19 · Kotlin · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/OlgaKalinina101/YourOwnAI) · 个人维护
+⭐ 20 · Kotlin · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/OlgaKalinina101/YourOwnAI) · 个人维护
 
 **隐私优先的 BYOK 本地 Android AI 助手客户端**
 
@@ -46,12 +46,12 @@ Kotlin/Jetpack Compose 编写的 Android 聊天应用：用户自带 API 密钥�
 ```mermaid
 xychart-beta
     title "OlgaKalinina101/YourOwnAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-11-20 19（+1）
+2026-10-18 18 → 2026-11-21 20（+2）
 
 
 ---

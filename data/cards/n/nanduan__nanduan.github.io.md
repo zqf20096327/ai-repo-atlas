@@ -1,6 +1,6 @@
 # nanduan/nanduan.github.io
 
-⭐ 10 · SCSS · 推送 2026-11-17 · [GitHub](https://github.com/nanduan/nanduan.github.io) · 个人维护 · 中文 README
+⭐ 10 · SCSS · 推送 2026-11-20 · [GitHub](https://github.com/nanduan/nanduan.github.io) · 个人维护 · 中文 README
 
 **京东副总裁/研究员段楠的个人学术主页**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "nanduan/nanduan.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

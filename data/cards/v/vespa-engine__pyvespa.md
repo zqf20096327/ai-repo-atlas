@@ -1,6 +1,6 @@
 # vespa-engine/pyvespa
 
-⭐ 176 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/vespa-engine/pyvespa) · [官网](https://vespa-engine.github.io/pyvespa/) · 组织维护
+⭐ 176 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/vespa-engine/pyvespa) · [官网](https://vespa-engine.github.io/pyvespa/) · 组织维护
 
 **Vespa 搜索/服务引擎的 Python API 客户端库**
 
@@ -45,12 +45,12 @@ pyvespa 是开源大数据服务引擎 Vespa 的 Python API 封装，供开发�
 ```mermaid
 xychart-beta
     title "vespa-engine/pyvespa 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 173 --> 177
     line [174, 175, 176, 175, 176, 176]
 ```
 
-2026-10-18 174 → 2026-11-20 176（+2）
+2026-10-19 174 → 2026-11-21 176（+2）
 
 
 ---

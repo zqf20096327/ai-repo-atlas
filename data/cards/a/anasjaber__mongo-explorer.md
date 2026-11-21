@@ -1,6 +1,6 @@
 # anasjaber/mongo-explorer
 
-⭐ 35 · JavaScript · MIT · 推送 2025-11-24 · [GitHub](https://github.com/anasjaber/mongo-explorer) · [官网](https://mongo-explorer.onrender.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **带 AI 辅助的 MongoDB 网页版管理与查询优化工具**
 
@@ -11,7 +11,7 @@ Web 应用，提供多实例 MongoDB 连接、库与集合浏览、查询执行�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

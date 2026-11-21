@@ -1,6 +1,6 @@
 # beycom/onetool-mcp
 
-⭐ 24 · Python · GPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/beycom/onetool-mcp) · [官网](https://onetool.beycom.online) · 组织维护
+⭐ 24 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/beycom/onetool-mcp) · [官网](https://onetool.beycom.online) · 组织维护
 
 **单一 MCP 服务器：以 Python 代码调用 250+ 工具并代理现有 MCP 服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "beycom/onetool-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-20 24（+0）
+2026-10-18 24 → 2026-11-21 24（+0）
 
 
 ---

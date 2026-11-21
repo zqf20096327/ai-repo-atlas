@@ -1,6 +1,6 @@
 # localixai/localix-cli
 
-⭐ 369 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/localixai/localix-cli) · [官网](https://cli.localix.ai) · 组织维护
+⭐ 368 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/localixai/localix-cli) · [官网](https://cli.localix.ai) · 组织维护
 
 **终端与 CI 用的 Rust 编码 agent 运行时，单二进制，任意模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "localixai/localix-cli 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-13", "2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 0 --> 405
-    line [4, 368, 369, 369]
+    line [4, 368, 369, 368]
 ```
 
-2026-11-13 4 → 2026-11-20 369（+365）
+2026-11-13 4 → 2026-11-21 368（+364）
 
 
 ---

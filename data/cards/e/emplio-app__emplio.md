@@ -1,6 +1,6 @@
 # emplio-app/emplio
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/emplio-app/emplio) · [官网](https://emplio.app) · 组织维护
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/emplio-app/emplio) · [官网](https://emplio.app) · 组织维护
 
 **给整个团队共享的开源 AI 员工，自动干活并自我学习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "emplio-app/emplio 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-21"]
     y-axis "stars" 12 --> 23
     line [13, 19, 20, 21, 22, 22]
 ```
 
-2026-11-08 13 → 2026-11-20 22（+9）
+2026-11-08 13 → 2026-11-21 22（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # Snodrod/AstraForge
 
-⭐ 59 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Snodrod/AstraForge) · [官网](https://snodrod.github.io/AstraForge/) · 个人维护 · 中文 README
+⭐ 62 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Snodrod/AstraForge) · [官网](https://snodrod.github.io/AstraForge/) · 个人维护 · 中文 README
 
 **本地 3D 游戏资产制作工具：图片或文本生成 3D 模型并绑定导出**
 
@@ -45,12 +45,12 @@ Windows 本地应用，把单张图片或文本提示转换为游戏可用的 3D
 ```mermaid
 xychart-beta
     title "Snodrod/AstraForge 星数(近 10 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 0 --> 64
-    line [3, 5, 19, 23, 26, 55, 56, 58, 59, 59]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 0 --> 67
+    line [3, 5, 19, 23, 26, 55, 56, 58, 59, 62]
 ```
 
-2026-10-26 3 → 2026-11-20 59（+56）
+2026-10-26 3 → 2026-11-21 62（+59）
 
 
 ---

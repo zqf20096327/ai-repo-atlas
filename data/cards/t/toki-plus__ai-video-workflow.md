@@ -1,6 +1,6 @@
 # toki-plus/ai-video-workflow
 
-⭐ 112 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/toki-plus/ai-video-workflow) · 组织维护 · 中文 README
+⭐ 113 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/toki-plus/ai-video-workflow) · 组织维护 · 中文 README
 
 **多模型协同的 AIGC 短视频生成桌面工作流原型**
 
@@ -46,12 +46,12 @@ PyQt5 桌面应用，将豆包提示词生成、LibLibAI 文生图、火山引�
 ```mermaid
 xychart-beta
     title "toki-plus/ai-video-workflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 110 --> 113
-    line [111, 112, 112]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 110 --> 114
+    line [111, 112, 113]
 ```
 
-2026-10-18 111 → 2026-11-20 112（+1）
+2026-10-18 111 → 2026-11-21 113（+2）
 
 
 ---

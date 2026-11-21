@@ -1,6 +1,6 @@
 # junkunyuan/Awesome-Domain-Generalization
 
-⭐ 545 · 推送 2026-11-07 · [GitHub](https://github.com/junkunyuan/Awesome-Domain-Generalization) · 个人维护
+⭐ 544 · 推送 2026-11-07 · [GitHub](https://github.com/junkunyuan/Awesome-Domain-Generalization) · 个人维护
 
 **领域泛化（Domain Generalization）论文与代码策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "junkunyuan/Awesome-Domain-Generalization 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-21"]
     y-axis "stars" 543 --> 546
-    line [544, 545, 545]
+    line [544, 545, 544]
 ```
 
-2026-11-08 544 → 2026-11-20 545（+1）
+2026-11-08 544 → 2026-11-21 544（+0）
 
 
 ---

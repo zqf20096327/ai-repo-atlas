@@ -1,6 +1,6 @@
 # YiIimini/NiliX
 
-⭐ 11 · Go · 推送 2026-09-08 · [GitHub](https://github.com/YiIimini/NiliX) · 个人维护 · 中文 README
+⭐ 10 · Go · 推送 2026-09-08 · [GitHub](https://github.com/YiIimini/NiliX) · 个人维护 · 中文 README
 
 **给创作者的本地 AI 漫剧生产工作台：小说到成片全自动流水线**
 
@@ -47,12 +47,12 @@ Go 单服务实现的本地漫剧生产工具：集成小说管理（书架/阅�
 ```mermaid
 xychart-beta
     title "YiIimini/NiliX 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-21"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10]
 ```
 
-2026-11-08 10 → 2026-11-20 11（+1）
+2026-11-08 10 → 2026-11-21 10（+0）
 
 
 ---

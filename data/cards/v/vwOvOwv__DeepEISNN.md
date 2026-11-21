@@ -46,12 +46,12 @@ ICLR 2026 论文《Training Deep Normalization-Free Spiking Neural Networks with
 ```mermaid
 xychart-beta
     title "vwOvOwv/DeepEISNN 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-20 10（+0）
+2026-11-08 10 → 2026-11-21 10（+0）
 
 
 ---

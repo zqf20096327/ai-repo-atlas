@@ -1,6 +1,6 @@
 # Kinds-of-Intelligence-CFI/animal-ai
 
-⭐ 105 · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Kinds-of-Intelligence-CFI/animal-ai) · [官网](https://sites.google.com/csah.cam.ac.uk/animalai/) · 组织维护
+⭐ 105 · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Kinds-of-Intelligence-CFI/animal-ai) · [官网](https://sites.google.com/csah.cam.ac.uk/animalai/) · 组织维护
 
 **Unity 仿真实验环境：供人与 AI 做跨物种认知测试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kinds-of-Intelligence-CFI/animal-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 103 --> 106
     line [104, 105, 104, 105, 105]
 ```
 
-2026-10-18 104 → 2026-11-20 105（+1）
+2026-10-19 104 → 2026-11-21 105（+1）
 
 
 ---

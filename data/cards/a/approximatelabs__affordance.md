@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "approximatelabs/affordance 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    title "approximatelabs/affordance 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 3 --> 23
-    line [4, 22]
+    line [4, 22, 22]
 ```
 
-2026-11-19 4 → 2026-11-20 22（+18）
+2026-11-19 4 → 2026-11-21 22（+18）
 
 
 ---

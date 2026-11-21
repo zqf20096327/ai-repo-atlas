@@ -1,6 +1,6 @@
 # dongzhang84/trend-monitor
 
-⭐ 11 · Python · 推送 2026-11-18 · [GitHub](https://github.com/dongzhang84/trend-monitor) · 个人维护
+⭐ 11 · Python · 推送 2026-11-19 · [GitHub](https://github.com/dongzhang84/trend-monitor) · 个人维护
 
 **聚合 6 个来源的每日/每周 AI 技术趋势监控工具**
 
@@ -46,12 +46,12 @@ Python 编写的趋势监控工具：每日从 Product Hunt、Toolify.ai、There
 ```mermaid
 xychart-beta
     title "dongzhang84/trend-monitor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

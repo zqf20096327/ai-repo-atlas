@@ -1,6 +1,6 @@
 # Anmulzhao/DSH-AGINT
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Anmulzhao/DSH-AGINT) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Anmulzhao/DSH-AGINT) · 个人维护 · 中文 README
 
 **基于 DeepSeek Harness 的自进化智能体插件框架**
 
@@ -46,12 +46,12 @@ AGINT 定位为 dsh（DeepSeek Harness）之上的规范与插件集合，明确
 ```mermaid
 xychart-beta
     title "Anmulzhao/DSH-AGINT 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-20 10（+0）
+2026-11-19 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/clinical-calculator-tooluse
 
-⭐ 318 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/lucidrains/clinical-calculator-tooluse) · 个人维护
+⭐ 316 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/lucidrains/clinical-calculator-tooluse) · 个人维护
 
 **训练 LLM 从病史使用临床计算器的研究探索（起于 Wells 评分）**
 
@@ -42,12 +42,12 @@ lucidrains 的研究性探索项目：训练开源大模型根据患者病史调
 ```mermaid
 xychart-beta
     title "lucidrains/clinical-calculator-tooluse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 316 --> 319
-    line [317, 318, 318]
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 315 --> 319
+    line [317, 318, 316]
 ```
 
-2026-10-18 317 → 2026-11-20 318（+1）
+2026-10-19 317 → 2026-11-21 316（-1）
 
 
 ---

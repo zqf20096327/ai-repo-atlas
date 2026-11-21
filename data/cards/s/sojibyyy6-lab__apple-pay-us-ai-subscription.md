@@ -1,6 +1,6 @@
 # sojibyyy6-lab/apple-pay-us-ai-subscription
 
-⭐ 64 · 推送 2026-11-04 · [GitHub](https://github.com/sojibyyy6-lab/apple-pay-us-ai-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 69 · 推送 2026-11-04 · [GitHub](https://github.com/sojibyyy6-lab/apple-pay-us-ai-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **教程：用 CoreGold 虚拟卡绑 Apple Pay 订阅海外 AI 服务**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sojibyyy6-lab/apple-pay-us-ai-subscription 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 18 --> 71
-    line [22, 44, 55, 60, 66, 67, 64, 64]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 18 --> 73
+    line [22, 44, 55, 60, 66, 67, 64, 69]
 ```
 
-2026-11-08 22 → 2026-11-20 64（+42）
+2026-11-08 22 → 2026-11-21 69（+47）
 
 
 ---

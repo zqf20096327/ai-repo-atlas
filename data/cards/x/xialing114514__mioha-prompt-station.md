@@ -1,6 +1,6 @@
 # xialing114514/mioha-prompt-station
 
-⭐ 6 · 推送 2026-11-18 · [GitHub](https://github.com/xialing114514/mioha-prompt-station) · [官网](https://github.com/xialing114514/mioha-prompt-station/releases/latest) · 个人维护 · 中文 README
+⭐ 8 · 推送 2026-11-20 · [GitHub](https://github.com/xialing114514/mioha-prompt-station) · [官网](https://github.com/xialing114514/mioha-prompt-station/releases/latest) · 个人维护 · 中文 README
 
 **Windows 本地绘画提示词工作台：AI 选词、模型 LoRA 管理、多引擎生图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xialing114514/mioha-prompt-station 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-20"]
-    y-axis "stars" 2 --> 7
-    line [3, 6]
+    title "xialing114514/mioha-prompt-station 星数(近 3 点)"
+    x-axis ["2026-11-11", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 9
+    line [3, 6, 8]
 ```
 
-2026-11-11 3 → 2026-11-20 6（+3）
+2026-11-11 3 → 2026-11-21 8（+5）
 
 
 ---

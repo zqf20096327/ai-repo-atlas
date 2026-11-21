@@ -1,6 +1,6 @@
 # YanNyeinHtet/EggLab
 
-⭐ 52 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/YanNyeinHtet/EggLab) · [官网](https://github.com/YanNyeinHtet/EggLab/releases/latest) · 个人维护
+⭐ 68 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/YanNyeinHtet/EggLab) · [官网](https://github.com/YanNyeinHtet/EggLab/releases/latest) · 个人维护
 
 **Windows 本地 AI 图像生成编辑客户端：驱动 PhotoCraft 画布的设计代理**
 
@@ -40,6 +40,18 @@
 > L3: **Local AI image generation and editing for Windows.** A floating egg opens a design agent
 > L6: Everything runs on your own GPU: Qwen-Image-2.1 on
 > L7: stable-diffusion.cpp. No ComfyUI, no
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "YanNyeinHtet/EggLab 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 51 --> 69
+    line [52, 68]
+```
+
+2026-11-20 52 → 2026-11-21 68（+16）
 
 
 ---

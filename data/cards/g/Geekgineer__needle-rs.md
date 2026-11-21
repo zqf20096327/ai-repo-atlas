@@ -1,6 +1,6 @@
 # Geekgineer/needle-rs
 
-⭐ 109 · Rust · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/Geekgineer/needle-rs) · [官网](https://needle-rs.pages.dev) · 个人维护
+⭐ 110 · Rust · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/Geekgineer/needle-rs) · [官网](https://needle-rs.pages.dev) · 个人维护
 
 **Needle AI 工具调用模型的纯 Rust/WASM 推理运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Geekgineer/needle-rs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 103 --> 110
-    line [104, 106, 107, 108, 109]
+    title "Geekgineer/needle-rs 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 103 --> 111
+    line [104, 106, 107, 108, 109, 110]
 ```
 
-2026-10-18 104 → 2026-11-20 109（+5）
+2026-10-19 104 → 2026-11-21 110（+6）
 
 
 ---

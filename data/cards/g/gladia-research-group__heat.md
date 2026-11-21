@@ -46,12 +46,12 @@ HEAT 是论文《Faster Fully Homomorphic Inference via Approximations-Weights C
 ```mermaid
 xychart-beta
     title "gladia-research-group/heat 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-20"]
+    x-axis ["2026-10-26", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-20 10（+0）
+2026-10-26 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -40,6 +40,18 @@ Lightroom Classic 插件，在 Library 网格或导出流程中批量调用视�
 > L5: A Lightroom Classic plugin that uses AI vision models to automatically generate
 > L47:  sent to the configured AI provider's vision API along with your prompt.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LrGenius/LrGeniusTagAI 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `685dc356c040` · [字段定义](../../DATASET.md)*

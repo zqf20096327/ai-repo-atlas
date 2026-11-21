@@ -1,6 +1,6 @@
 # nexoral/AxioDB
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nexoral/AxioDB) · [官网](https://axiodb.in) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nexoral/AxioDB) · [官网](https://axiodb.in) · 个人维护
 
 **面向 AI Agent 的嵌入式文档数据库，零服务端运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nexoral/AxioDB 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-11-08 35 → 2026-11-20 35（+0）
+2026-11-08 35 → 2026-11-21 35（+0）
 
 
 ---

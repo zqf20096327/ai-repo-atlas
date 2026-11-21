@@ -1,6 +1,6 @@
 # KunlunMeta-dev/Kcoder
 
-⭐ 12 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/KunlunMeta-dev/Kcoder) · [官网](https://github.com/KunlunMeta-dev/Kcoder/releases) · 组织维护 · 中文 README
+⭐ 17 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/KunlunMeta-dev/Kcoder) · [官网](https://github.com/KunlunMeta-dev/Kcoder/releases) · 组织维护 · 中文 README
 
 **面向开发者的 agentic 编码工作台：CLI/TUI 与桌面端运行 AI 任务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "KunlunMeta-dev/Kcoder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 10 --> 18
+    line [11, 12, 17]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 11 → 2026-11-21 17（+6）
 
 
 ---

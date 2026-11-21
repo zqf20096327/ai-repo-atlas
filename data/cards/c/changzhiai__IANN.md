@@ -1,6 +1,6 @@
 # changzhiai/IANN
 
-⭐ 19 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/changzhiai/IANN) · [官网](https://iann.readthedocs.io) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/changzhiai/IANN) · [官网](https://iann.readthedocs.io) · 组织维护
 
 **等变原子间神经网络势框架：预测材料与分子的能量和力**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "changzhiai/IANN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 17 --> 20
-    line [18, 19]
+    title "changzhiai/IANN 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-11-20 19（+1）
+2026-10-19 18 → 2026-11-21 20（+2）
 
 
 ---

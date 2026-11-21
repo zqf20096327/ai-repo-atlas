@@ -1,6 +1,6 @@
 # arpitpatel25/ReadAnyDoc
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/arpitpatel25/ReadAnyDoc) · [官网](https://arpitpatel25.github.io/ReadAnyDoc/) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/arpitpatel25/ReadAnyDoc) · [官网](https://arpitpatel25.github.io/ReadAnyDoc/) · 个人维护
 
 **开源文档解析库：PDF/扫描件转带引用的 Markdown 与结构化数据**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "arpitpatel25/ReadAnyDoc 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 6 --> 12
     line [7, 8, 10, 11, 11]
 ```
 
-2026-11-15 7 → 2026-11-20 11（+4）
+2026-11-15 7 → 2026-11-21 11（+4）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "syzkillall/comprehensive-thinking-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 45 --> 50
-    line [46, 47, 48, 49, 49]
+    title "syzkillall/comprehensive-thinking-skill 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 46 --> 50
+    line [47, 48, 49, 49]
 ```
 
-2026-10-18 46 → 2026-11-20 49（+3）
+2026-10-19 47 → 2026-11-21 49（+2）
 
 
 ---

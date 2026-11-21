@@ -1,6 +1,6 @@
 # abhineet123/Deep-Learning-for-Tracking-and-Detection
 
-⭐ 2,516 · HTML · 推送 2026-03-09 · [GitHub](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) · 个人维护
+⭐ 2,517 · HTML · 推送 2026-03-09 · [GitHub](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) · 个人维护
 
 **深度学习目标检测与跟踪的论文/代码资源合集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "abhineet123/Deep-Learning-for-Tracking-and-Detection 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    title "abhineet123/Deep-Learning-for-Tracking-and-Detection 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2514 --> 2519
-    line [2515, 2516, 2515, 2517, 2518, 2516]
+    line [2515, 2516, 2515, 2517, 2518, 2516, 2517]
 ```
 
-2026-10-18 2,515 → 2026-11-20 2,516（+1）
+2026-10-19 2,515 → 2026-11-21 2,517（+2）
 
 
 ---

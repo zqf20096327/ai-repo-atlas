@@ -1,6 +1,6 @@
 # lidambrunel309-ship-it/OpenAI-GPT-6.1-Terra-GPT-6-Astra-
 
-⭐ 58 · 推送 2026-11-05 · [GitHub](https://github.com/lidambrunel309-ship-it/OpenAI-GPT-6.1-Terra-GPT-6-Astra-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 68 · 推送 2026-11-05 · [GitHub](https://github.com/lidambrunel309-ship-it/OpenAI-GPT-6.1-Terra-GPT-6-Astra-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡的 ChatGPT 订阅支付攻略（营销内容）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "lidambrunel309-ship-it/OpenAI-GPT-6.1-Terra-GPT-6-Astra- 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 13 --> 65
-    line [17, 38, 51, 57, 61, 60, 57, 58, 58]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 12 --> 73
+    line [17, 38, 51, 57, 61, 60, 57, 58, 68]
 ```
 
-2026-11-08 17 → 2026-11-20 58（+41）
+2026-11-08 17 → 2026-11-21 68（+51）
 
 
 ---

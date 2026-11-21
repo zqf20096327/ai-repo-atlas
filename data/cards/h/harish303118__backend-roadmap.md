@@ -1,6 +1,6 @@
 # harish303118/backend-roadmap
 
-⭐ 102 · Apache-2.0 · 推送 2025-12-10 · [GitHub](https://github.com/harish303118/backend-roadmap) · [官网](https://codersnote.com) · 个人维护
+⭐ 103 · Apache-2.0 · 推送 2025-12-10 · [GitHub](https://github.com/harish303118/backend-roadmap) · [官网](https://codersnote.com) · 个人维护
 
 **后端开发学习路线清单：免费视频与文档资源分阶段聚合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "harish303118/backend-roadmap 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 95 --> 103
-    line [96, 97, 99, 97, 101, 102, 102]
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 95 --> 104
+    line [96, 97, 99, 97, 101, 102, 103]
 ```
 
-2026-10-18 96 → 2026-11-20 102（+6）
+2026-10-19 96 → 2026-11-21 103（+7）
 
 
 ---

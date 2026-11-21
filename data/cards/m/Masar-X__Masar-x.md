@@ -1,6 +1,6 @@
 # Masar-X/Masar-x
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Masar-X/Masar-x) · [官网](https://masarx.vercel.app) · 组织维护 · 中文 README
+⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Masar-X/Masar-x) · [官网](https://masarx.vercel.app) · 组织维护 · 中文 README
 
 **面向大学生的双语 AI 学习平台：资料、测验与 AI 辅导**
 
@@ -40,6 +40,18 @@
 > L7: Study summaries, interactive courses, quizzes, AI-powered assistance, and complete learning management — bilingual (
 > L23: - **AI-powered assistance** — study help served through a hardened server-side boundary (provider keys never reach 
 > L25: - **Cross-platform** — one Supabase backend and one shared package powering web, desktop, and mobile apps.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Masar-X/Masar-x 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-20 12 → 2026-11-21 12（+0）
 
 
 ---

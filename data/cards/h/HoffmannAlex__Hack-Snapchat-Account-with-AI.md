@@ -1,6 +1,6 @@
 # HoffmannAlex/Hack-Snapchat-Account-with-AI
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/HoffmannAlex/Hack-Snapchat-Account-with-AI) · [官网](https://www.passwordrevelator.net/en/passdecoder) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/HoffmannAlex/Hack-Snapchat-Account-with-AI) · [官网](https://www.passwordrevelator.net/en/passdecoder) · 个人维护
 
 **面向授权测试的 Snapchat 密码强度评估工具**
 
@@ -44,13 +44,13 @@ README 自述为网络安全训练用途的密码评估工具，围绕 Snapchat 
 
 ```mermaid
 xychart-beta
-    title "HoffmannAlex/Hack-Snapchat-Account-with-AI 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 12, 13, 14]
+    title "HoffmannAlex/Hack-Snapchat-Account-with-AI 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 13, 14, 15]
 ```
 
-2026-10-24 10 → 2026-11-20 14（+4）
+2026-10-24 10 → 2026-11-21 15（+5）
 
 
 ---

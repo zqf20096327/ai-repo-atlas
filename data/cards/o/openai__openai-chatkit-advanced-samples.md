@@ -1,6 +1,6 @@
 # openai/openai-chatkit-advanced-samples
 
-⭐ 671 · NOASSERTION · 推送 2026-08-01 · [GitHub](https://github.com/openai/openai-chatkit-advanced-samples) · [官网](https://platform.openai.com/docs/guides/chatkit) · 组织维护
+⭐ 672 · NOASSERTION · 推送 2026-08-01 · [GitHub](https://github.com/openai/openai-chatkit-advanced-samples) · [官网](https://platform.openai.com/docs/guides/chatkit) · 组织维护
 
 **OpenAI ChatKit SDK 的场景化示例应用集合（4 个可运行 demo）**
 
@@ -45,12 +45,12 @@ OpenAI 官方维护的 ChatKit 示例仓库，含 Cat Lounge 虚拟宠物、Cust
 ```mermaid
 xychart-beta
     title "openai/openai-chatkit-advanced-samples 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 661 --> 672
-    line [662, 664, 665, 666, 664, 667, 669, 670, 671, 671]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 661 --> 673
+    line [662, 664, 665, 666, 664, 667, 669, 670, 671, 672]
 ```
 
-2026-10-18 662 → 2026-11-20 671（+9）
+2026-10-19 662 → 2026-11-21 672（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # zachblume/autospec
 
-⭐ 69 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/zachblume/autospec) · [官网](https://autospec.dev) · 个人维护
+⭐ 70 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/zachblume/autospec) · [官网](https://autospec.dev) · 个人维护
 
 **AI 代理：给定 Web 应用 URL，自主探索并生成 Playwright E2E 测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zachblume/autospec 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 63 --> 70
-    line [64, 65, 66, 67, 68, 69]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 64 --> 71
+    line [65, 66, 67, 68, 69, 70]
 ```
 
-2026-10-18 64 → 2026-11-20 69（+5）
+2026-10-19 65 → 2026-11-21 70（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # littlebearapps/outlook-assistant
 
-⭐ 40 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/littlebearapps/outlook-assistant) · [官网](https://littlebearapps.com/builds/outlook-assistant) · 个人维护
+⭐ 41 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/littlebearapps/outlook-assistant) · [官网](https://littlebearapps.com/builds/outlook-assistant) · 个人维护
 
 **让 AI 助手经 MCP 直接管理 Outlook 邮件/日历/联系人的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "littlebearapps/outlook-assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-20"]
+    title "littlebearapps/outlook-assistant 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 38 --> 42
-    line [39, 40, 41, 40]
+    line [39, 40, 41, 40, 41]
 ```
 
-2026-10-18 39 → 2026-11-20 40（+1）
+2026-10-19 39 → 2026-11-21 41（+2）
 
 
 ---

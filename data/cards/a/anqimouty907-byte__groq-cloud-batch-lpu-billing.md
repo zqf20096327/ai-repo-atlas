@@ -1,6 +1,6 @@
 # anqimouty907-byte/groq-cloud-batch-lpu-billing
 
-⭐ 54 · 推送 2026-11-06 · [GitHub](https://github.com/anqimouty907-byte/groq-cloud-batch-lpu-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 68 · 推送 2026-11-06 · [GitHub](https://github.com/anqimouty907-byte/groq-cloud-batch-lpu-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡为 Groq Cloud API 充值扣款的服务页**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "anqimouty907-byte/groq-cloud-batch-lpu-billing 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 20 --> 57
-    line [23, 37, 42, 48, 47, 44, 45, 54]
+    title "anqimouty907-byte/groq-cloud-batch-lpu-billing 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 19 --> 72
+    line [23, 37, 42, 48, 47, 44, 45, 54, 68]
 ```
 
-2026-11-10 23 → 2026-11-20 54（+31）
+2026-11-10 23 → 2026-11-21 68（+45）
 
 
 ---

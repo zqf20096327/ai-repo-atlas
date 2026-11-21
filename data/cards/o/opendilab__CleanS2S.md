@@ -1,6 +1,6 @@
 # opendilab/CleanS2S
 
-⭐ 544 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/opendilab/CleanS2S) · 组织维护 · 中文 README
+⭐ 543 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/opendilab/CleanS2S) · 组织维护 · 中文 README
 
 **单文件实现的流式全双工中文语音交互原型智能体**
 
@@ -45,12 +45,12 @@ CleanS2S 是一个 Speech-to-Speech（语音到语音）原型智能体，把 AS
 ```mermaid
 xychart-beta
     title "opendilab/CleanS2S 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 539 --> 545
-    line [540, 541, 543, 544, 544]
+    line [540, 541, 543, 544, 543]
 ```
 
-2026-10-18 540 → 2026-11-20 544（+4）
+2026-10-19 540 → 2026-11-21 543（+3）
 
 
 ---

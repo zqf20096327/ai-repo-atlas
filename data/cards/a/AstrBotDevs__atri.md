@@ -45,12 +45,12 @@ ATRI 是 AstrBot（The Alkaid Project）下的记忆层组件，实现方式为�
 ```mermaid
 xychart-beta
     title "AstrBotDevs/atri 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-20"]
+    x-axis ["2026-10-22", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-22 10 → 2026-11-20 10（+0）
+2026-10-22 10 → 2026-11-21 10（+0）
 
 
 ---

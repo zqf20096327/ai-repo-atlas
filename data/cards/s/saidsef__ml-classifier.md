@@ -1,6 +1,6 @@
 # saidsef/ml-classifier
 
-⭐ 14 · Jupyter Notebook · MIT · 推送 2026-11-13 · [GitHub](https://github.com/saidsef/ml-classifier) · 个人维护
+⭐ 14 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/saidsef/ml-classifier) · 个人维护
 
 **基于 sklearn 的新闻文章分类服务：REST API 实时预测类别**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "saidsef/ml-classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Edoar-do/HuBERT-ECG
 
-⭐ 83 · Shell · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/Edoar-do/HuBERT-ECG) · 组织维护
+⭐ 83 · Shell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Edoar-do/HuBERT-ECG) · 组织维护
 
 **ECG 自监督基础模型：在 910 万份心电数据上预训练并微调**
 
@@ -45,12 +45,12 @@ HuBERT-ECG 是面向心电图的自监督基础模型，基于 4 国 910 万份 
 ```mermaid
 xychart-beta
     title "Edoar-do/HuBERT-ECG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-18 83 → 2026-11-20 83（+0）
+2026-10-19 83 → 2026-11-21 83（+0）
 
 
 ---

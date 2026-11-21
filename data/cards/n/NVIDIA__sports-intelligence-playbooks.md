@@ -1,6 +1,6 @@
 # NVIDIA/sports-intelligence-playbooks
 
-⭐ 93 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/NVIDIA/sports-intelligence-playbooks) · [官网](https://nvidia.github.io/sports-intelligence-playbooks/latest/) · 组织维护
+⭐ 94 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/NVIDIA/sports-intelligence-playbooks) · [官网](https://nvidia.github.io/sports-intelligence-playbooks/latest/) · 组织维护
 
 **面向体育领域的多模态 LLM 训练/推理/评测起步套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/sports-intelligence-playbooks 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 66 --> 95
-    line [68, 69, 70, 71, 70, 86, 87, 88, 89, 92, 93, 93]
+    title "NVIDIA/sports-intelligence-playbooks 星数(近 11 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 67 --> 96
+    line [69, 70, 71, 70, 86, 87, 88, 89, 92, 93, 94]
 ```
 
-2026-10-18 68 → 2026-11-20 93（+25）
+2026-10-19 69 → 2026-11-21 94（+25）
 
 
 ---

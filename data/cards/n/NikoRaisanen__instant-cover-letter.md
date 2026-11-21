@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "NikoRaisanen/instant-cover-letter 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-20"]
+    x-axis ["2026-10-28", "2026-11-21"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-28 50 → 2026-11-20 50（+0）
+2026-10-28 50 → 2026-11-21 50（+0）
 
 
 ---

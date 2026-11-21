@@ -1,6 +1,6 @@
 # Marssssss/OneAI
 
-⭐ 42 · Rust · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/Marssssss/OneAI) · 个人维护 · 中文 README
+⭐ 43 · Rust · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/Marssssss/OneAI) · 个人维护 · 中文 README
 
 **Rust 跨平台 AI Agent 框架，一套引擎驱动六类官方前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Marssssss/OneAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-18 41 → 2026-11-20 42（+1）
+2026-10-19 41 → 2026-11-21 43（+2）
 
 
 ---

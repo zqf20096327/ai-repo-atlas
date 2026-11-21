@@ -1,6 +1,6 @@
 # singjc/redeem
 
-⭐ 18 · Rust · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/singjc/redeem) · 个人维护
+⭐ 18 · Rust · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/singjc/redeem) · 个人维护
 
 **质谱蛋白质组学深度学习模型库（Rust），预测肽段性质**
 
@@ -45,12 +45,12 @@ Rust workspace 形式的质谱蛋白质组学库，提供基于 candle 的深度
 ```mermaid
 xychart-beta
     title "singjc/redeem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-20 18（+0）
+2026-10-19 18 → 2026-11-21 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tiledesk/design-studio
 
-⭐ 474 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Tiledesk/design-studio) · [官网](https://www.tiledesk.com/) · 组织维护
+⭐ 473 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Tiledesk/design-studio) · [官网](https://www.tiledesk.com/) · 组织维护
 
 **无代码可视化对话流设计器，用图方式构建聊天机器人**
 
@@ -46,12 +46,12 @@ Tiledesk 开源无代码平台的对话设计器：提供拖拽式界面、图�
 ```mermaid
 xychart-beta
     title "Tiledesk/design-studio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-21"]
     y-axis "stars" 469 --> 475
-    line [471, 470, 472, 473, 474, 474]
+    line [471, 470, 472, 473, 474, 473]
 ```
 
-2026-10-18 471 → 2026-11-20 474（+3）
+2026-10-18 471 → 2026-11-21 473（+2）
 
 
 ---

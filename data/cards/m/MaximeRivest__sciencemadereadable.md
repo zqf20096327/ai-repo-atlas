@@ -1,6 +1,6 @@
 # MaximeRivest/sciencemadereadable
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/MaximeRivest/sciencemadereadable) · [官网](https://sciencemadereadable.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用自训练小模型把论文改写成平实语言的网站与流水线**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

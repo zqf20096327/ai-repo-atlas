@@ -1,6 +1,6 @@
 # tanaikech/A2UI-for-Google-Apps-Script
 
-⭐ 15 · MIT · 推送 2026-02-07 · [GitHub](https://github.com/tanaikech/A2UI-for-Google-Apps-Script) · [官网](https://medium.com/google-cloud/a2ui-for-google-apps-script-bcd0f37a3774) · 个人维护
+⭐ 14 · MIT · 推送 2026-02-07 · [GitHub](https://github.com/tanaikech/A2UI-for-Google-Apps-Script) · [官网](https://medium.com/google-cloud/a2ui-for-google-apps-script-bcd0f37a3774) · 个人维护
 
 **在 Google Apps Script 中实现 Google A2UI 协议的示例项目集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tanaikech/A2UI-for-Google-Apps-Script 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 14（-1）
 
 
 ---

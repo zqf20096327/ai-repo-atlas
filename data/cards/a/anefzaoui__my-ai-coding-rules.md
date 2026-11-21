@@ -1,6 +1,6 @@
 # anefzaoui/my-ai-coding-rules
 
-⭐ 10 · 推送 2026-08-25 · [GitHub](https://github.com/anefzaoui/my-ai-coding-rules) · 个人维护
+⭐ 11 · 推送 2026-08-25 · [GitHub](https://github.com/anefzaoui/my-ai-coding-rules) · 个人维护
 
 **个人积累的 AI 编码助手提示词与规则合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anefzaoui/my-ai-coding-rules 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-14", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-14 10 → 2026-11-20 10（+0）
+2026-11-14 10 → 2026-11-21 11（+1）
 
 
 ---

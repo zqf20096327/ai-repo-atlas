@@ -1,6 +1,6 @@
 # bobby-tablez/TTP-Threat-Feeds
 
-⭐ 75 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/bobby-tablez/TTP-Threat-Feeds) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/bobby-tablez/TTP-Threat-Feeds) · 个人维护
 
 **AI 驱动的威胁情报源生成器：从安全研究文章提取 TTP 与 IOC**
 
@@ -45,12 +45,12 @@ Python 脚本工具，面向检测工程师与威胁研究人员：抓取 urls.t
 ```mermaid
 xychart-beta
     title "bobby-tablez/TTP-Threat-Feeds 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 74 --> 77
+    line [75, 76]
 ```
 
-2026-10-18 75 → 2026-11-20 75（+0）
+2026-10-19 75 → 2026-11-21 76（+1）
 
 
 ---

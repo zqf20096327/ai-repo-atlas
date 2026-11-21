@@ -1,6 +1,6 @@
 # ItsSNOWMOBILE/aftertake
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ItsSNOWMOBILE/aftertake) · [官网](https://itssnowmobile.github.io/aftertake/) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ItsSNOWMOBILE/aftertake) · [官网](https://itssnowmobile.github.io/aftertake/) · 个人维护
 
 **在本地 GPU 上生成、重铸与剪辑视频的开源 AI 视频工作室**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ItsSNOWMOBILE/aftertake 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 22 --> 31
-    line [30, 24, 23]
+    title "ItsSNOWMOBILE/aftertake 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 21 --> 31
+    line [30, 24, 23, 22]
 ```
 
-2026-11-08 30 → 2026-11-20 23（-7）
+2026-11-08 30 → 2026-11-21 22（-8）
 
 
 ---

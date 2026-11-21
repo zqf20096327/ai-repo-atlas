@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "di37/animated-machine-learning-algorithm 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    title "di37/animated-machine-learning-algorithm 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 6 --> 30
-    line [8, 19, 28]
+    line [8, 19, 28, 28]
 ```
 
-2026-11-18 8 → 2026-11-20 28（+20）
+2026-11-18 8 → 2026-11-21 28（+20）
 
 
 ---

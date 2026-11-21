@@ -40,6 +40,18 @@
 > L5: 前阳光私募冠军基金经理、B站百大UP主的交易纪律，封装成可运行在真实行情上的 AI Skill。
 > L30: |📊 **股票分析**|60+ 技术指标 + 30+ 战法自动识别 + 综合评分|`zt analyze 600487.SH --json`|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lululu811/zettaranc-skill 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 533 --> 535
+    line [534, 534]
+```
+
+2026-11-20 534 → 2026-11-21 534（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `32c75a4b46f8` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # TheLynxHub/LynxHub
 
-⭐ 427 · TypeScript · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/TheLynxHub/LynxHub) · [官网](https://LynxHub.app) · 个人维护
+⭐ 426 · TypeScript · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/TheLynxHub/LynxHub) · [官网](https://LynxHub.app) · 个人维护
 
 **跨平台 AI WebUI 管理终端：安装、配置、启动本地 AI 界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TheLynxHub/LynxHub 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-19", "2026-11-21"]
     y-axis "stars" 425 --> 428
-    line [426, 427, 426, 427, 427]
+    line [426, 427, 426, 427, 426]
 ```
 
-2026-10-18 426 → 2026-11-20 427（+1）
+2026-10-19 426 → 2026-11-21 426（+0）
 
 
 ---

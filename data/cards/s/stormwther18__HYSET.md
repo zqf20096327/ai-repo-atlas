@@ -1,6 +1,6 @@
 # stormwther18/HYSET
 
-⭐ 28 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/stormwther18/HYSET) · [官网](https://stormwther18-hyset-demo.hf.space) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/stormwther18/HYSET) · [官网](https://stormwther18-hyset-demo.hf.space) · 个人维护 · 中文 README
 
 **面向 LLM Agent 的工具集合级检索方法：按查询预测超边选出联合可用的工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stormwther18/HYSET 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 27 --> 48
-    line [47, 44, 43, 29, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 22 --> 49
+    line [47, 44, 43, 29, 28, 24]
 ```
 
-2026-10-18 47 → 2026-11-20 28（-19）
+2026-10-18 47 → 2026-11-21 24（-23）
 
 
 ---

@@ -1,6 +1,6 @@
 # Devinterview-io/reinforcement-learning-interview-questions
 
-⭐ 68 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/reinforcement-learning-interview-questions) · 组织维护
+⭐ 69 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/reinforcement-learning-interview-questions) · 组织维护
 
 **强化学习面试题库：70 道问答备考 ML/DS 面试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Devinterview-io/reinforcement-learning-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 66 --> 70
+    line [67, 68, 69]
 ```
 
-2026-10-18 67 → 2026-11-20 68（+1）
+2026-10-19 67 → 2026-11-21 69（+2）
 
 
 ---

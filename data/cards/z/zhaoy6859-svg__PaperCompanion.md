@@ -1,6 +1,6 @@
 # zhaoy6859-svg/PaperCompanion
 
-⭐ 6 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zhaoy6859-svg/PaperCompanion) · [官网](https://github.com/zhaoy6859-svg/PaperCompanion/releases/latest) · 个人维护 · 中文 README
+⭐ 6 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zhaoy6859-svg/PaperCompanion) · [官网](https://github.com/zhaoy6859-svg/PaperCompanion/releases/latest) · 个人维护 · 中文 README
 
 **给论文精读者的 macOS/Windows 桌面 App：PDF 阅读+AI 问答+LaTeX 译文**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zhaoy6859-svg/PaperCompanion 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21"]
     y-axis "stars" 2 --> 7
     line [3, 5, 6, 6]
 ```
 
-2026-11-14 3 → 2026-11-20 6（+3）
+2026-11-14 3 → 2026-11-21 6（+3）
 
 
 ---

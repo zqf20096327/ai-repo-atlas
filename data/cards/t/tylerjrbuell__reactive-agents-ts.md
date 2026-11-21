@@ -1,6 +1,6 @@
 # tylerjrbuell/reactive-agents-ts
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tylerjrbuell/reactive-agents-ts) · [官网](https://docs.reactiveagents.dev) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tylerjrbuell/reactive-agents-ts) · [官网](https://docs.reactiveagents.dev) · 个人维护
 
 **TypeScript agent 框架：可控执行与可观测的 agent 运行构建**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tylerjrbuell/reactive-agents-ts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33]
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-11-20 33（+3）
+2026-10-19 31 → 2026-11-21 33（+2）
 
 
 ---

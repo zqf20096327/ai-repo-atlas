@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruanchaves/hashformers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "ruanchaves/hashformers 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 77 --> 80
-    line [78, 79]
+    line [78, 79, 79]
 ```
 
-2026-10-18 78 → 2026-11-20 79（+1）
+2026-10-19 78 → 2026-11-21 79（+1）
 
 
 ---

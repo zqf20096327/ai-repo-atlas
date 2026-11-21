@@ -45,12 +45,12 @@ pnpm monorepo 工程的定制化个人 Notion：Web 端为 Next.js + Convex + Cl
 ```mermaid
 xychart-beta
     title "HaveNiceDa/My-Notion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 13（+0）
 
 
 ---

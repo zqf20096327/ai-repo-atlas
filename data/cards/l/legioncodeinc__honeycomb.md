@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "legioncodeinc/honeycomb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 116 --> 119
-    line [117, 118, 118]
+    title "legioncodeinc/honeycomb 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 117 --> 119
+    line [118, 118]
 ```
 
-2026-10-18 117 → 2026-11-20 118（+1）
+2026-10-19 118 → 2026-11-21 118（+0）
 
 
 ---

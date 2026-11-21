@@ -1,6 +1,6 @@
 # HA2345567/awesome-autonomus-ai-agents
 
-⭐ 15 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/HA2345567/awesome-autonomus-ai-agents) · [官网](https://github.com/HA2345567/awesome-autonomus-ai-agents) · 个人维护
+⭐ 15 · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/HA2345567/awesome-autonomus-ai-agents) · [官网](https://github.com/HA2345567/awesome-autonomus-ai-agents) · 个人维护
 
 **自主 AI Agent 生态策展清单：380+ 框架、协议与设计模式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HA2345567/awesome-autonomus-ai-agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-21"]
     y-axis "stars" 10 --> 16
     line [11, 12, 13, 15, 15]
 ```
 
-2026-10-18 11 → 2026-11-20 15（+4）
+2026-10-19 11 → 2026-11-21 15（+4）
 
 
 ---

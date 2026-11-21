@@ -1,6 +1,6 @@
 # torinriley/alpaca
 
-⭐ 22 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/torinriley/alpaca) · [官网](https://torinriley.github.io/alpaca-site) · 个人维护
+⭐ 21 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/torinriley/alpaca) · [官网](https://torinriley.github.io/alpaca-site) · 个人维护
 
 **Apple Silicon 上的 Swift 原生 LLM 推理引擎（Metal 自研内核）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "torinriley/alpaca 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-13", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-13", "2026-11-14", "2026-11-21"]
     y-axis "stars" 13 --> 23
-    line [14, 21, 22, 22]
+    line [14, 21, 22, 21]
 ```
 
-2026-11-11 14 → 2026-11-20 22（+8）
+2026-11-11 14 → 2026-11-21 21（+7）
 
 
 ---

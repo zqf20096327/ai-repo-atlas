@@ -1,6 +1,6 @@
 # NoblerWorks-HQ/minecraft-agentic
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/NoblerWorks-HQ/minecraft-agentic) · [官网](https://noblerworks.com/) · 组织维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/NoblerWorks-HQ/minecraft-agentic) · [官网](https://noblerworks.com/) · 组织维护
 
 **多智能体 LLM 驱动 Minecraft 机器人协作建造，浏览器观看**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NoblerWorks-HQ/minecraft-agentic 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-11-08 10 → 2026-11-20 12（+2）
+2026-11-08 10 → 2026-11-21 12（+2）
 
 
 ---

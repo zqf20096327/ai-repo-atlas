@@ -1,6 +1,6 @@
 # remdek/mcp-router
 
-⭐ 31 · Python · 推送 2026-11-12 · [GitHub](https://github.com/remdek/mcp-router) · 个人维护
+⭐ 36 · Python · 推送 2026-11-12 · [GitHub](https://github.com/remdek/mcp-router) · 个人维护
 
 **MCP 服务器路由代理：工具混合搜索与懒加载调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "remdek/mcp-router 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 1 --> 33
-    line [3, 25, 30, 31]
+    title "remdek/mcp-router 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 0 --> 39
+    line [3, 25, 30, 31, 36]
 ```
 
-2026-11-16 3 → 2026-11-20 31（+28）
+2026-11-16 3 → 2026-11-21 36（+33）
 
 
 ---

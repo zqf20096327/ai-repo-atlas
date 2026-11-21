@@ -1,6 +1,6 @@
 # mancommits/ai--manus2.0
 
-⭐ 57 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mancommits/ai--manus2.0) · 个人维护
+⭐ 56 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mancommits/ai--manus2.0) · 个人维护
 
 **自主执行代码与浏览器操作的通用 AI Agent 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mancommits/ai--manus2.0 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
-    y-axis "stars" 56 --> 63
-    line [62, 57]
+    title "mancommits/ai--manus2.0 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 55 --> 63
+    line [62, 57, 56]
 ```
 
-2026-11-18 62 → 2026-11-20 57（-5）
+2026-11-18 62 → 2026-11-21 56（-6）
 
 
 ---

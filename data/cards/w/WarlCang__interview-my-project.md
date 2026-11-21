@@ -1,6 +1,6 @@
 # WarlCang/interview-my-project
 
-⭐ 13 · JavaScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/WarlCang/interview-my-project) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/WarlCang/interview-my-project) · 个人维护 · 中文 README
 
 **针对你自己项目的 AI 模拟面试：读代码库与 agent 会话日志来拷问你**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WarlCang/interview-my-project 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-20"]
-    y-axis "stars" 7 --> 14
-    line [8, 11, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-21"]
+    y-axis "stars" 7 --> 15
+    line [8, 11, 12, 13, 14]
 ```
 
-2026-10-18 8 → 2026-11-20 13（+5）
+2026-10-18 8 → 2026-11-21 14（+6）
 
 
 ---

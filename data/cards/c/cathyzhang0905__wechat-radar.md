@@ -1,6 +1,6 @@
 # cathyzhang0905/wechat-radar
 
-⭐ 12 · Python · 推送 2026-09-07 · [GitHub](https://github.com/cathyzhang0905/wechat-radar) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-09-07 · [GitHub](https://github.com/cathyzhang0905/wechat-radar) · 个人维护 · 中文 README
 
 **AI 驱动的微信公众号智能日报工具：自动抓取筛选推送**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cathyzhang0905/wechat-radar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

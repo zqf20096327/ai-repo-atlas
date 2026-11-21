@@ -1,6 +1,6 @@
 # rfonod/stabilo
 
-⭐ 41 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rfonod/stabilo) · [官网](https://rfonod.github.io/stabilo/) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rfonod/stabilo) · [官网](https://rfonod.github.io/stabilo/) · 个人维护
 
 **视频帧与目标轨迹相对参考帧稳定的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rfonod/stabilo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 36 --> 42
-    line [37, 38, 39, 38, 41, 41]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 36 --> 43
+    line [37, 38, 39, 38, 41, 42]
 ```
 
-2026-10-18 37 → 2026-11-20 41（+4）
+2026-10-19 37 → 2026-11-21 42（+5）
 
 
 ---

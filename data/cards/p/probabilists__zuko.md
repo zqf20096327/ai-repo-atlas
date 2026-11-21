@@ -1,6 +1,6 @@
 # probabilists/zuko
 
-⭐ 472 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/probabilists/zuko) · [官网](https://zuko.readthedocs.io) · 组织维护
+⭐ 473 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/probabilists/zuko) · [官网](https://zuko.readthedocs.io) · 组织维护
 
 **PyTorch 生态的 normalizing flows 概率建模库**
 
@@ -46,12 +46,12 @@ Zuko 是基于 PyTorch 实现 normalizing flows 的 Python 包，核心机制是
 ```mermaid
 xychart-beta
     title "probabilists/zuko 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 465 --> 473
-    line [467, 466, 467, 468, 467, 470, 471, 472, 472]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 465 --> 474
+    line [467, 466, 467, 468, 467, 470, 471, 472, 473]
 ```
 
-2026-10-18 467 → 2026-11-20 472（+5）
+2026-10-19 467 → 2026-11-21 473（+6）
 
 
 ---

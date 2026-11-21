@@ -1,6 +1,6 @@
 # SalesforceAIResearch/SlackAgents
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/SlackAgents) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/SlackAgents) · 组织维护
 
 **在 Slack 工作区构建多 AI Agent 协作的 Python 库**
 
@@ -46,12 +46,12 @@ SlackAgents 是一个 Python 库，用于在 Slack 工作区内部署 AI Agent�
 ```mermaid
 xychart-beta
     title "SalesforceAIResearch/SlackAgents 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-23", "2026-11-12", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-23 10 → 2026-11-20 12（+2）
+2026-10-23 10 → 2026-11-21 13（+3）
 
 
 ---

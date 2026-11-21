@@ -1,6 +1,6 @@
 # mofe-stack/continuum
 
-⭐ 15 · JavaScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/mofe-stack/continuum) · [官网](https://continuum-capture.netlify.app) · 组织维护 · 中文 README
+⭐ 16 · JavaScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/mofe-stack/continuum) · [官网](https://continuum-capture.netlify.app) · 组织维护 · 中文 README
 
 **浏览器扩展：保存/导出 AI 聊天并跨站点恢复上下文**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mofe-stack/continuum 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---

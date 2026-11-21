@@ -1,6 +1,6 @@
 # MuscleMap/MuscleMap
 
-⭐ 150 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/MuscleMap/MuscleMap) · [官网](https://musclemap.github.io/MuscleMap/) · 组织维护
+⭐ 151 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/MuscleMap/MuscleMap) · [官网](https://musclemap.github.io/MuscleMap/) · 组织维护
 
 **全身肌肉 MRI/CT 分割与定量分析的开源工具箱，面向科研用户**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MuscleMap/MuscleMap 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 140 --> 151
-    line [141, 142, 145, 146, 147, 148, 146, 149, 150, 150]
+    title "MuscleMap/MuscleMap 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 141 --> 152
+    line [142, 145, 146, 147, 148, 146, 149, 150, 151]
 ```
 
-2026-10-18 141 → 2026-11-20 150（+9）
+2026-10-19 142 → 2026-11-21 151（+9）
 
 
 ---

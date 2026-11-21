@@ -1,6 +1,6 @@
 # mintlify/agent-traffic
 
-⭐ 84 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/mintlify/agent-traffic) · [官网](https://agent-traffic.mintlify.site) · 组织维护
+⭐ 87 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/mintlify/agent-traffic) · [官网](https://agent-traffic.mintlify.site) · 组织维护
 
 **区分人类与 AI 代理/爬虫/机器人的请求分类库**
 
@@ -45,13 +45,13 @@ Mintlify 开源的流量分类库：提供经过测试的 user agent、请求头
 
 ```mermaid
 xychart-beta
-    title "mintlify/agent-traffic 星数(近 10 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 11 --> 90
-    line [17, 59, 70, 75, 76, 79, 81, 82, 83, 84]
+    title "mintlify/agent-traffic 星数(近 11 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 94
+    line [17, 59, 70, 75, 76, 79, 81, 82, 83, 84, 87]
 ```
 
-2026-11-10 17 → 2026-11-20 84（+67）
+2026-11-10 17 → 2026-11-21 87（+70）
 
 
 ---

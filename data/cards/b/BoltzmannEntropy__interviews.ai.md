@@ -1,6 +1,6 @@
 # BoltzmannEntropy/interviews.ai
 
-⭐ 4,900 · 推送 2026-11-19 · [GitHub](https://github.com/BoltzmannEntropy/interviews.ai) · [官网](https://interviews.ai) · 个人维护
+⭐ 4,900 · 推送 2026-11-20 · [GitHub](https://github.com/BoltzmannEntropy/interviews.ai) · [官网](https://interviews.ai) · 个人维护
 
 **面向研究生与求职者的深度学习面试题解书（数百道完整解答）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BoltzmannEntropy/interviews.ai 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    title "BoltzmannEntropy/interviews.ai 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 4898 --> 4901
-    line [4899, 4900]
+    line [4899, 4900, 4900]
 ```
 
-2026-11-19 4,899 → 2026-11-20 4,900（+1）
+2026-11-19 4,899 → 2026-11-21 4,900（+1）
 
 
 ---

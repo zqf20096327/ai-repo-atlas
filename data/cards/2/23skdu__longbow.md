@@ -1,6 +1,6 @@
 # 23skdu/longbow
 
-⭐ 14 · Go · Unlicense · 推送 2026-11-19 · [GitHub](https://github.com/23skdu/longbow) · [官网](https://github.com/23skdu/longbow) · 个人维护
+⭐ 14 · Go · Unlicense · 推送 2026-11-20 · [GitHub](https://github.com/23skdu/longbow) · [官网](https://github.com/23skdu/longbow) · 个人维护
 
 **分布式向量引擎：为 Agent 记忆共享提供低延迟向量检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "23skdu/longbow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-21"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-20 14（+1）
+2026-10-18 13 → 2026-11-21 14（+1）
 
 
 ---

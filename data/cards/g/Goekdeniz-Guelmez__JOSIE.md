@@ -1,6 +1,6 @@
 # Goekdeniz-Guelmez/JOSIE
 
-⭐ 62 · 推送 2026-11-17 · [GitHub](https://github.com/Goekdeniz-Guelmez/JOSIE) · [官网](https://goekdeniz-guelmez.github.io/JOSIE/) · 个人维护
+⭐ 63 · 推送 2026-11-17 · [GitHub](https://github.com/Goekdeniz-Guelmez/JOSIE) · [官网](https://goekdeniz-guelmez.github.io/JOSIE/) · 个人维护
 
 **macOS 本地全双工语音/聊天助手：可操作日历提醒等 Apple 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Goekdeniz-Guelmez/JOSIE 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 57 --> 63
-    line [58, 59, 61, 62, 62]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 57 --> 64
+    line [58, 59, 61, 62, 63]
 ```
 
-2026-11-08 58 → 2026-11-20 62（+4）
+2026-11-08 58 → 2026-11-21 63（+5）
 
 
 ---

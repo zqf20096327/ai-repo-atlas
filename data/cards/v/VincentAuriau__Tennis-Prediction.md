@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VincentAuriau/Tennis-Prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "VincentAuriau/Tennis-Prediction 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 71 --> 75
-    line [74, 72]
+    line [74, 72, 72]
 ```
 
-2026-10-18 74 → 2026-11-20 72（-2）
+2026-10-19 74 → 2026-11-21 72（-2）
 
 
 ---

@@ -45,12 +45,12 @@ SpeechMedAssist 是面向语音多轮医疗问诊的 SpeechLM，可原生分析�
 ```mermaid
 xychart-beta
     title "SirryChen/SpeechMedAssist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-18 10 → 2026-11-21 10（+0）
 
 
 ---

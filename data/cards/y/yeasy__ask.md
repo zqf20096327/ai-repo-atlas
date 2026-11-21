@@ -1,6 +1,6 @@
 # yeasy/ask
 
-⭐ 27 · HTML · MIT · 推送 2026-08-25 · [GitHub](https://github.com/yeasy/ask) · 个人维护 · 中文 README
+⭐ 27 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yeasy/ask) · 个人维护 · 中文 README
 
 **跨 19 种 Agent 的技能包管理 CLI：搜索、安装、同步、安全扫描**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yeasy/ask 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-20 27（+1）
+2026-10-19 26 → 2026-11-21 27（+1）
 
 
 ---

@@ -41,6 +41,18 @@ CushyStudio 是一个生成式 AI 平台，面向不同水平的创作者，提�
 > L31: * **CushyApps**: A collection of visual tools tailored for different artistic tasks. Simplify your AI art creation 
 > L38: > CushyStudio is no longer under active development. The code stays here as it is, and some of it may not work with
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rvion/CushyStudio 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 813 --> 815
+    line [814, 814]
+```
+
+2026-11-20 814 → 2026-11-21 814（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `25e397f576f0` · [字段定义](../../DATASET.md)*

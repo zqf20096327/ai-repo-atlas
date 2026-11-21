@@ -1,6 +1,6 @@
 # Vaultite/vaultite
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Vaultite/vaultite) · [官网](https://vaultite.com) · 组织维护
+⭐ 77 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Vaultite/vaultite) · [官网](https://vaultite.com) · 组织维护
 
 **本地优先的 Markdown 知识库，人与 AI 共同读写笔记**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vaultite/vaultite 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 8 --> 65
-    line [12, 37, 42, 61]
+    title "Vaultite/vaultite 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 6 --> 83
+    line [12, 37, 42, 61, 77]
 ```
 
-2026-11-16 12 → 2026-11-20 61（+49）
+2026-11-16 12 → 2026-11-21 77（+65）
 
 
 ---

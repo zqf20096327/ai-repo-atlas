@@ -1,6 +1,6 @@
 # gosutry/dsh-windows-shell-toolchain
 
-⭐ 6 · PowerShell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/gosutry/dsh-windows-shell-toolchain) · 个人维护 · 中文 README
+⭐ 7 · PowerShell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/gosutry/dsh-windows-shell-toolchain) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 在 Windows 配置可用 bash 执行器的 agent skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gosutry/dsh-windows-shell-toolchain 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    x-axis ["2026-11-14", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-14 5 → 2026-11-20 6（+1）
+2026-11-14 5 → 2026-11-21 7（+2）
 
 
 ---

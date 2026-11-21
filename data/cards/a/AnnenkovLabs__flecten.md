@@ -1,6 +1,6 @@
 # AnnenkovLabs/flecten
 
-⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/AnnenkovLabs/flecten) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/AnnenkovLabs/flecten) · 个人维护 · 中文 README
 
 **编码 Agent 的桌面工作台：对话、文件与 IDE 集于一窗**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AnnenkovLabs/flecten 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 3 --> 10
-    line [4, 8, 9, 9]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 3 --> 11
+    line [4, 8, 9, 10]
 ```
 
-2026-11-13 4 → 2026-11-20 9（+5）
+2026-11-13 4 → 2026-11-21 10（+6）
 
 
 ---

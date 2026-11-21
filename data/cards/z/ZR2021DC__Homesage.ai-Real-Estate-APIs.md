@@ -47,12 +47,12 @@ Homesage.ai 提供 160M+ 美国房产、200B+ 数据点的商业 API 服务：30
 ```mermaid
 xychart-beta
     title "ZR2021DC/Homesage.ai-Real-Estate-APIs 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-08 13 → 2026-11-20 13（+0）
+2026-11-08 13 → 2026-11-21 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DirtyBeastAfterTheToad/LLMidi
 
-⭐ 13 · C++ · 推送 2025-12-06 · [GitHub](https://github.com/DirtyBeastAfterTheToad/LLMidi) · [官网](https://rallem.com/llmidi) · 个人维护
+⭐ 14 · C++ · 推送 2025-12-06 · [GitHub](https://github.com/DirtyBeastAfterTheToad/LLMidi) · [官网](https://rallem.com/llmidi) · 个人维护
 
 **用 LLM 从自然语言生成 MIDI 音乐模式的 VST3 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DirtyBeastAfterTheToad/LLMidi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-10-18 11 → 2026-11-20 13（+2）
+2026-10-18 11 → 2026-11-21 14（+3）
 
 
 ---

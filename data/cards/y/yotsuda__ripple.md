@@ -1,6 +1,6 @@
 # yotsuda/ripple
 
-⭐ 24 · C# · MIT · 推送 2026-05-26 · [GitHub](https://github.com/yotsuda/ripple) · [官网](https://www.npmjs.com/package/@ytsuda/ripple) · 个人维护
+⭐ 25 · C# · MIT · 推送 2026-05-26 · [GitHub](https://github.com/yotsuda/ripple) · [官网](https://www.npmjs.com/package/@ytsuda/ripple) · 个人维护
 
 **共享终端的 MCP 服务器：AI 与人在同一 REPL 会话协同操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yotsuda/ripple 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-18 22 → 2026-11-20 24（+2）
+2026-10-19 22 → 2026-11-21 25（+3）
 
 
 ---

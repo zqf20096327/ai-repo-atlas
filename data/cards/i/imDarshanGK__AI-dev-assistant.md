@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "imDarshanGK/AI-dev-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "imDarshanGK/AI-dev-assistant 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 82 --> 85
-    line [83, 84]
+    line [83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-11-20 84（+1）
+2026-10-19 83 → 2026-11-21 84（+1）
 
 
 ---

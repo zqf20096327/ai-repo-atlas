@@ -1,6 +1,6 @@
 # sgl-project/whl
 
-⭐ 27 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sgl-project/whl) · [官网](https://docs.sglang.io/whl/) · 组织维护
+⭐ 27 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sgl-project/whl) · [官网](https://docs.sglang.io/whl/) · 组织维护
 
 **SGLang 预编译 wheel 的 PEP 503 包索引仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sgl-project/whl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-20 27（+1）
+2026-10-19 26 → 2026-11-21 27（+1）
 
 
 ---

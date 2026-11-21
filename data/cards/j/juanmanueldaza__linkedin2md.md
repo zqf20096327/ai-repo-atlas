@@ -1,6 +1,6 @@
 # juanmanueldaza/linkedin2md
 
-⭐ 50 · Python · GPL-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/juanmanueldaza/linkedin2md) · [官网](https://linkedin2md.daza.ar) · 个人维护
+⭐ 51 · Python · GPL-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/juanmanueldaza/linkedin2md) · [官网](https://linkedin2md.daza.ar) · 个人维护
 
 **把 LinkedIn 数据导出转为 Markdown 与 PDF 简历的零依赖 Python CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "juanmanueldaza/linkedin2md 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 46 --> 51
-    line [47, 49, 47, 50, 50]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 46 --> 52
+    line [47, 49, 47, 50, 51]
 ```
 
-2026-10-18 47 → 2026-11-20 50（+3）
+2026-10-18 47 → 2026-11-21 51（+4）
 
 
 ---

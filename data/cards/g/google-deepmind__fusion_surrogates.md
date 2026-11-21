@@ -1,6 +1,6 @@
 # google-deepmind/fusion_surrogates
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/google-deepmind/fusion_surrogates) · 组织维护
+⭐ 45 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/fusion_surrogates) · 组织维护
 
 **托卡马克聚变模拟的输运替代模型库（含权重与推理代码）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/fusion_surrogates 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-11-20 44（+0）
+2026-10-19 44 → 2026-11-21 45（+1）
 
 
 ---

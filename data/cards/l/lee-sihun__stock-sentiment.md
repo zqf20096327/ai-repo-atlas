@@ -1,6 +1,6 @@
 # lee-sihun/stock-sentiment
 
-⭐ 45 · TypeScript · 推送 2025-12-13 · [GitHub](https://github.com/lee-sihun/stock-sentiment) · [官网](https://deepeye.pro) · 个人维护
+⭐ 29 · TypeScript · 推送 2025-12-13 · [GitHub](https://github.com/lee-sihun/stock-sentiment) · [官网](https://deepeye.pro) · 个人维护
 
 **用 LLM 分析股票新闻情绪、提供实时股价的投资洞察服务**
 
@@ -44,13 +44,13 @@ DeepEye 是面向投资者的股票情绪分析 Web 服务：通过 Yahoo Financ
 
 ```mermaid
 xychart-beta
-    title "lee-sihun/stock-sentiment 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 44 --> 55
-    line [54, 52, 50, 45]
+    title "lee-sihun/stock-sentiment 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 27 --> 56
+    line [54, 52, 50, 45, 29]
 ```
 
-2026-10-18 54 → 2026-11-20 45（-9）
+2026-10-18 54 → 2026-11-21 29（-25）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "quantium-ai/research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "quantium-ai/research 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 67 --> 70
-    line [69, 68]
+    line [69, 68, 68]
 ```
 
-2026-10-18 69 → 2026-11-20 68（-1）
+2026-10-19 69 → 2026-11-21 68（-1）
 
 
 ---

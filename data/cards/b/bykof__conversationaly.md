@@ -1,6 +1,6 @@
 # bykof/conversationaly
 
-⭐ 10 · Rust · MIT · 推送 2026-08-26 · [GitHub](https://github.com/bykof/conversationaly) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-08-26 · [GitHub](https://github.com/bykof/conversationaly) · 个人维护
 
 **本地运行的 AI 会议助手：录音、实时转录与摘要不出机器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bykof/conversationaly 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-19", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-19 10 → 2026-11-20 10（+0）
+2026-11-19 10 → 2026-11-21 11（+1）
 
 
 ---

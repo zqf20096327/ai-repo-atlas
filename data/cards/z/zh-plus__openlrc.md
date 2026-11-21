@@ -1,6 +1,6 @@
 # zh-plus/openlrc
 
-⭐ 685 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/zh-plus/openlrc) · [官网](https://zh-plus.github.io/openlrc/) · 个人维护 · 中文 README
+⭐ 684 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/zh-plus/openlrc) · [官网](https://zh-plus.github.io/openlrc/) · 个人维护 · 中文 README
 
 **用 Whisper+LLM 将音频转录翻译为 LRC 字幕的 Python 库**
 
@@ -45,12 +45,12 @@ Python 库 Open-Lyrics：用 faster-whisper 转录音频，再调用 OpenAI/Anth
 ```mermaid
 xychart-beta
     title "zh-plus/openlrc 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
     y-axis "stars" 680 --> 687
-    line [681, 683, 684, 685, 684, 685, 686, 685, 685]
+    line [681, 683, 684, 685, 684, 685, 686, 685, 684]
 ```
 
-2026-10-18 681 → 2026-11-20 685（+4）
+2026-10-19 681 → 2026-11-21 684（+3）
 
 
 ---

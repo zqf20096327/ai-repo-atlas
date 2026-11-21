@@ -1,6 +1,6 @@
 # ChamiTea1/bilibili_profiler
 
-⭐ 9 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ChamiTea1/bilibili_profiler) · [官网](chami.asia) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **分析B站弹幕发送者画像的本地工具，含LLM判定**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # SophieCecil7793/windsurf-cursor-pro-vcc-finops
 
-⭐ 49 · 推送 2026-11-11 · [GitHub](https://github.com/SophieCecil7793/windsurf-cursor-pro-vcc-finops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 62 · 推送 2026-11-11 · [GitHub](https://github.com/SophieCecil7793/windsurf-cursor-pro-vcc-finops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡订阅 Windsurf/Cursor 的付费教程页面**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "SophieCecil7793/windsurf-cursor-pro-vcc-finops 星数(近 8 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 9 --> 52
-    line [12, 17, 24, 23, 33, 37, 40, 49]
+    title "SophieCecil7793/windsurf-cursor-pro-vcc-finops 星数(近 9 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 7 --> 67
+    line [12, 17, 24, 23, 33, 37, 40, 49, 62]
 ```
 
-2026-11-11 12 → 2026-11-20 49（+37）
+2026-11-11 12 → 2026-11-21 62（+50）
 
 
 ---

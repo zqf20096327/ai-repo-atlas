@@ -46,12 +46,12 @@ MODUREGIS Open 是 AxisVela 企业能力平台的公开 OSS 仓库，提供能�
 ```mermaid
 xychart-beta
     title "axisvela/moduregis-open 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-20"]
+    x-axis ["2026-10-25", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-20 11（+0）
+2026-10-25 11 → 2026-11-21 11（+0）
 
 
 ---

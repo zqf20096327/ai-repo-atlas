@@ -1,6 +1,6 @@
 # cyberfilth/travesty
 
-⭐ 13 · Pascal · 推送 2025-11-24 · [GitHub](https://github.com/cyberfilth/travesty) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Markov 链的戏仿文本生成器，1984 BYTE 算法的 GUI 复刻**
 

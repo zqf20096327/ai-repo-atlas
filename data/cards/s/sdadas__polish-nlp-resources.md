@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sdadas/polish-nlp-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 377 --> 380
-    line [378, 379, 379]
+    title "sdadas/polish-nlp-resources 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 378 --> 380
+    line [379, 379]
 ```
 
-2026-10-18 378 → 2026-11-20 379（+1）
+2026-10-19 379 → 2026-11-21 379（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openpond/opentool 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 97 --> 100
-    line [99, 98, 98]
+    title "openpond/opentool 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 97 --> 99
+    line [98, 98]
 ```
 
-2026-10-18 99 → 2026-11-20 98（-1）
+2026-10-19 98 → 2026-11-21 98（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Barbaqueda/onyx
 
-⭐ 7 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Barbaqueda/onyx) · [官网](https://barbaqueda.github.io/onyx/) · 个人维护
+⭐ 8 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Barbaqueda/onyx) · [官网](https://barbaqueda.github.io/onyx/) · 个人维护
 
 **面向 Windows 用户的智能文件整理器与资源管理器**
 
@@ -47,12 +47,12 @@ Electron 构建的 Windows x64 桌面文件整理器：扫描文件夹后由 AI 
 ```mermaid
 xychart-beta
     title "Barbaqueda/onyx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 5 --> 8
-    line [6, 7, 7]
+    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 5 --> 9
+    line [6, 7, 8]
 ```
 
-2026-10-18 6 → 2026-11-20 7（+1）
+2026-10-19 6 → 2026-11-21 8（+2）
 
 
 ---

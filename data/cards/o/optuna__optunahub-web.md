@@ -1,6 +1,6 @@
 # optuna/optunahub-web
 
-⭐ 11 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/optuna/optunahub-web) · [官网](https://hub.optuna.org) · 组织维护
+⭐ 11 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/optuna/optunahub-web) · [官网](https://hub.optuna.org) · 组织维护
 
 **OptunaHub 黑盒优化包注册平台的前端网站**
 
@@ -44,12 +44,12 @@ OptunaHub Registry 的前端仓库：提供 OptunaHub 网站的 Web 界面，Opt
 ```mermaid
 xychart-beta
     title "optuna/optunahub-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 11（+0）
 
 
 ---

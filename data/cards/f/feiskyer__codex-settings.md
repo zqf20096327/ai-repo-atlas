@@ -1,6 +1,6 @@
 # feiskyer/codex-settings
 
-⭐ 250 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/feiskyer/codex-settings) · 个人维护 · 中文 README
+⭐ 249 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/feiskyer/codex-settings) · 个人维护 · 中文 README
 
 **Codex CLI 的配置、Profile 与技能合集，支持多模型切换**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "feiskyer/codex-settings 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21"]
     y-axis "stars" 246 --> 251
-    line [247, 248, 247, 248, 249, 250, 250]
+    line [247, 248, 247, 248, 249, 250, 249]
 ```
 
-2026-10-18 247 → 2026-11-20 250（+3）
+2026-10-19 247 → 2026-11-21 249（+2）
 
 
 ---

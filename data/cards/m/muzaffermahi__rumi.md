@@ -1,6 +1,6 @@
 # muzaffermahi/rumi
 
-⭐ 8 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/muzaffermahi/rumi) · 个人维护
+⭐ 9 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/muzaffermahi/rumi) · 个人维护
 
 **本地优先写作工作区：把段落委托给 AI 代理并在边栏取回结果**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "muzaffermahi/rumi 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-11-02", "2026-11-20"]
-    y-axis "stars" 4 --> 9
-    line [5, 7, 8, 8]
+    x-axis ["2026-10-28", "2026-10-29", "2026-11-02", "2026-11-21"]
+    y-axis "stars" 4 --> 10
+    line [5, 7, 8, 9]
 ```
 
-2026-10-28 5 → 2026-11-20 8（+3）
+2026-10-28 5 → 2026-11-21 9（+4）
 
 
 ---

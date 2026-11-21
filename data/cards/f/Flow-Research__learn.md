@@ -44,13 +44,13 @@ Flow Research 维护的教育资源仓库，服务希望参与其产品（面向
 
 ```mermaid
 xychart-beta
-    title "Flow-Research/learn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "Flow-Research/learn 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 11 --> 14
-    line [12, 13]
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Future-Proof-DS/interactive-ai-ml-tools
 
-⭐ 292 · 推送 2026-11-02 · [GitHub](https://github.com/Future-Proof-DS/interactive-ai-ml-tools) · [官网](https://futureproofds.com/tools?utm_source=github&utm_medium=readme&utm_campaign=andres_vourakis_github&utm_content=interactive_tools) · 个人维护
+⭐ 298 · 推送 2026-11-02 · [GitHub](https://github.com/Future-Proof-DS/interactive-ai-ml-tools) · [官网](https://futureproofds.com/tools?utm_source=github&utm_medium=readme&utm_campaign=andres_vourakis_github&utm_content=interactive_tools) · 个人维护
 
 **面向数据科学家的交互式 MLOps/ML 系统设计/agentic 分析学习工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Future-Proof-DS/interactive-ai-ml-tools 星数(近 11 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 2 --> 318
-    line [28, 29, 102, 220, 250, 267, 280, 283, 287, 289, 292]
+    title "Future-Proof-DS/interactive-ai-ml-tools 星数(近 12 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 1 --> 325
+    line [28, 29, 102, 220, 250, 267, 280, 283, 287, 289, 292, 298]
 ```
 
-2026-11-08 28 → 2026-11-20 292（+264）
+2026-11-08 28 → 2026-11-21 298（+270）
 
 
 ---

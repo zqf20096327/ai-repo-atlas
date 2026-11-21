@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xalgord/AI-System-Prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 84 --> 87
-    line [85, 86, 86]
+    title "xalgord/AI-System-Prompts 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 85 --> 87
+    line [86, 86]
 ```
 
-2026-10-18 85 → 2026-11-20 86（+1）
+2026-10-19 86 → 2026-11-21 86（+0）
 
 
 ---

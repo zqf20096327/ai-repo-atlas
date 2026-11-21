@@ -1,6 +1,6 @@
 # sriinnu/clipforge-PAKT
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sriinnu/clipforge-PAKT) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sriinnu/clipforge-PAKT) · 个人维护
 
 **面向 LLM 输入的确定性无损 token 压缩库（JSON/YAML/CSV/Markdown）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sriinnu/clipforge-PAKT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-20 20（+0）
+2026-10-18 20 → 2026-11-21 20（+0）
 
 
 ---

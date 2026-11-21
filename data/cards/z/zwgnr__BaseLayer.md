@@ -42,12 +42,12 @@ React 组件库，组件基于 React Aria Components 构建，样式使用 Tailw
 ```mermaid
 xychart-beta
     title "zwgnr/BaseLayer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 203 --> 205
     line [204, 204]
 ```
 
-2026-10-18 204 → 2026-11-20 204（+0）
+2026-10-19 204 → 2026-11-21 204（+0）
 
 
 ---

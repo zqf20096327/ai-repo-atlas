@@ -1,6 +1,6 @@
 # neurogen-dev/NeuroAPI
 
-⭐ 1,318 · PowerShell · MIT · 推送 2026-10-03 · [GitHub](https://github.com/neurogen-dev/NeuroAPI) · [官网](https://neuroapi.host) · 组织维护
+⭐ 1,317 · PowerShell · MIT · 推送 2026-10-03 · [GitHub](https://github.com/neurogen-dev/NeuroAPI) · [官网](https://neuroapi.host) · 组织维护
 
 **将 Codex CLI 与 Claude Code 一键接入 NeuroAPI（俄 AI API）的安装器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neurogen-dev/NeuroAPI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-21"]
     y-axis "stars" 1315 --> 1319
-    line [1316, 1317, 1316, 1317, 1318, 1317, 1318, 1318]
+    line [1316, 1317, 1316, 1317, 1318, 1317, 1318, 1317]
 ```
 
-2026-10-18 1,316 → 2026-11-20 1,318（+2）
+2026-10-19 1,316 → 2026-11-21 1,317（+1）
 
 
 ---

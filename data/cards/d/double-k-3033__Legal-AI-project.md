@@ -1,6 +1,6 @@
 # double-k-3033/Legal-AI-project
 
-⭐ 28 · TypeScript · 推送 2025-11-24 · [GitHub](https://github.com/double-k-3033/Legal-AI-project) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向用户的法律文档自动分析 Web 平台**
 

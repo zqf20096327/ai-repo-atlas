@@ -1,6 +1,6 @@
 # FeedHive/ai-slop-detector
 
-⭐ 111 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/FeedHive/ai-slop-detector) · [官网](https://www.feedhive.com/tools/ai-slop-detector) · 组织维护
+⭐ 112 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/FeedHive/ai-slop-detector) · [官网](https://www.feedhive.com/tools/ai-slop-detector) · 组织维护
 
 **120 种 AI 味写作模式清单，含 Claude Code/Codex agent 技能**
 
@@ -44,13 +44,13 @@ FeedHive 维护的 AI 写作模式清单：收录 120 个让文本读起来像 A
 
 ```mermaid
 xychart-beta
-    title "FeedHive/ai-slop-detector 星数(近 15 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 75 --> 114
-    line [78, 80, 81, 83, 84, 85, 89, 90, 91, 84, 104, 108, 110, 111, 111]
+    title "FeedHive/ai-slop-detector 星数(近 14 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 77 --> 115
+    line [80, 81, 83, 84, 85, 89, 90, 91, 84, 104, 108, 110, 111, 112]
 ```
 
-2026-10-18 78 → 2026-11-20 111（+33）
+2026-10-19 80 → 2026-11-21 112（+32）
 
 
 ---

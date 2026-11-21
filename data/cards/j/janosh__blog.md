@@ -1,6 +1,6 @@
 # janosh/blog
 
-⭐ 123 · Typst · MIT · 推送 2026-11-18 · [GitHub](https://github.com/janosh/blog) · [官网](https://janosh.dev) · 个人维护
+⭐ 123 · Typst · MIT · 推送 2026-11-20 · [GitHub](https://github.com/janosh/blog) · [官网](https://janosh.dev) · 个人维护
 
 **个人博客：记录机器学习、数据可视化与 Web 开发心得**
 
@@ -40,12 +40,12 @@
 ```mermaid
 xychart-beta
     title "janosh/blog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-14", "2026-11-21"]
     y-axis "stars" 122 --> 125
     line [124, 123, 123]
 ```
 
-2026-10-18 124 → 2026-11-20 123（-1）
+2026-10-19 124 → 2026-11-21 123（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # pltnk/habr-observer
 
-⭐ 31 · Go · MIT · 推送 2026-07-13 · [GitHub](https://github.com/pltnk/habr-observer) · [官网](https://habr.observer) · 个人维护
+⭐ 32 · Go · MIT · 推送 2026-07-13 · [GitHub](https://github.com/pltnk/habr-observer) · [官网](https://habr.observer) · 个人维护
 
 **自动更新的 Habr 优质文章 AI 摘要聚合站**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "pltnk/habr-observer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-11-20 31（+0）
+2026-10-19 31 → 2026-11-21 32（+1）
 
 
 ---

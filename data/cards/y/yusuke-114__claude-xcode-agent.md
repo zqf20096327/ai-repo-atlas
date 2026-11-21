@@ -1,6 +1,6 @@
 # yusuke-114/claude-xcode-agent
 
-⭐ 81 · Shell · MIT · 推送 2026-11-09 · [GitHub](https://github.com/yusuke-114/claude-xcode-agent) · 个人维护
+⭐ 77 · Shell · MIT · 推送 2026-11-09 · [GitHub](https://github.com/yusuke-114/claude-xcode-agent) · 个人维护
 
 **让 Claude Code 作为 Xcode 27 内置编码 Agent 的桥接脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yusuke-114/claude-xcode-agent 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-21"]
     y-axis "stars" 41 --> 84
-    line [44, 58, 73, 81, 81]
+    line [44, 58, 73, 81, 77]
 ```
 
-2026-11-10 44 → 2026-11-20 81（+37）
+2026-11-10 44 → 2026-11-21 77（+33）
 
 
 ---

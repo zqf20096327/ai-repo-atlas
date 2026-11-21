@@ -1,6 +1,6 @@
 # SolitudeZY/OpinionLens
 
-⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SolitudeZY/OpinionLens) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SolitudeZY/OpinionLens) · 个人维护 · 中文 README
 
 **给个人研究者与中小团队的社媒舆情采集与 AI 报告桌面端**
 
@@ -40,6 +40,18 @@
 > L5: **社媒舆情采集 + AI 报告 · Windows 桌面端**
 > L19: 不写代码、不改配置文件，在图形界面里完成「**扫码登录 → 按关键词采集内容与评论 → 导出 Excel → 生成 AI 舆情报告**」的完整闭环。
 > L54: |AI 叙述 + 本地渲染|数据包交给用户配置的模型 API 生成叙述，桌面端本地渲染 HTML 报告并落盘|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SolitudeZY/OpinionLens 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 13 --> 30
+    line [14, 29]
+```
+
+2026-11-20 14 → 2026-11-21 29（+15）
 
 
 ---

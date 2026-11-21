@@ -1,6 +1,6 @@
 # Nido007-cmyk/Nido
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Nido007-cmyk/Nido) · [官网](https://github.com/Nido007-cmyk/Nido/releases) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Nido007-cmyk/Nido) · [官网](https://github.com/Nido007-cmyk/Nido/releases) · 个人维护
 
 **100% 离线运行的 Android 隐私优先个人 AI 助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Nido007-cmyk/Nido 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 2 --> 10
-    line [3, 4, 5, 3, 7, 8, 9, 9]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 2 --> 11
+    line [3, 4, 5, 3, 7, 8, 9, 10]
 ```
 
-2026-10-18 3 → 2026-11-20 9（+6）
+2026-10-19 3 → 2026-11-21 10（+7）
 
 
 ---

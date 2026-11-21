@@ -1,6 +1,6 @@
 # mokksy/ai-mocks
 
-⭐ 53 · Kotlin · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mokksy/ai-mocks) · [官网](http://mokksy.dev/) · 个人维护
+⭐ 53 · Kotlin · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mokksy/ai-mocks) · [官网](http://mokksy.dev/) · 个人维护
 
 **Kotlin 本地模拟 LLM API 的 mock 服务器工具包，供集成测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mokksy/ai-mocks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-20 53（+0）
+2026-10-19 53 → 2026-11-21 53（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tomortec/CryptoTradingAgents
 
-⭐ 286 · Python · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/Tomortec/CryptoTradingAgents) · [官网](https://arxiv.org/pdf/2412.20138) · 个人维护 · 中文 README
+⭐ 287 · Python · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/Tomortec/CryptoTradingAgents) · [官网](https://arxiv.org/pdf/2412.20138) · 个人维护 · 中文 README
 
 **面向加密货币的多代理 LLM 交易决策分析框架，生成交易研究报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tomortec/CryptoTradingAgents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-21"]
     y-axis "stars" 282 --> 288
-    line [283, 284, 285, 286, 287, 286, 286]
+    line [283, 284, 285, 286, 287, 286, 287]
 ```
 
-2026-10-18 283 → 2026-11-20 286（+3）
+2026-10-19 283 → 2026-11-21 287（+4）
 
 
 ---

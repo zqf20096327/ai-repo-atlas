@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "evolbioinfo/phylodeep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    title "evolbioinfo/phylodeep 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 30 --> 32
+    line [31, 31]
 ```
 
-2026-10-18 30 → 2026-11-20 31（+1）
+2026-10-19 31 → 2026-11-21 31（+0）
 
 
 ---

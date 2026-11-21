@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-java
 
-⭐ 500 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/milvus-io/milvus-sdk-java) · [官网](https://milvus.io) · 组织维护
+⭐ 500 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/milvus-io/milvus-sdk-java) · [官网](https://milvus.io) · 组织维护
 
 **Java 开发者连接与操作 Milvus 向量数据库的官方 SDK**
 
@@ -44,13 +44,13 @@ Milvus 官方维护的 Java 客户端 SDK，供 Java 应用通过 Maven/Gradle �
 
 ```mermaid
 xychart-beta
-    title "milvus-io/milvus-sdk-java 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    title "milvus-io/milvus-sdk-java 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 498 --> 502
-    line [500, 499, 500, 499, 500, 501, 500]
+    line [500, 499, 500, 499, 500, 501, 500, 500]
 ```
 
-2026-10-18 500 → 2026-11-20 500（+0）
+2026-10-19 500 → 2026-11-21 500（+0）
 
 
 ---

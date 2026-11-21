@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanPortrait
 
-⭐ 365 · Python · NOASSERTION · 推送 2025-12-07 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanPortrait) · 组织维护 · 中文 README
+⭐ 366 · Python · NOASSERTION · 推送 2025-12-07 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanPortrait) · 组织维护 · 中文 README
 
 **单张参考图驱动的人物动画生成框架（CVPR 2025）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HunyuanPortrait 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 356 --> 366
-    line [357, 359, 361, 357, 363, 364, 365, 365]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 356 --> 367
+    line [357, 359, 361, 357, 363, 364, 365, 366]
 ```
 
-2026-10-18 357 → 2026-11-20 365（+8）
+2026-10-19 357 → 2026-11-21 366（+9）
 
 
 ---

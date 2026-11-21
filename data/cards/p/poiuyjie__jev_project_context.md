@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "poiuyjie/jev_project_context 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 8 --> 11
-    line [9, 10, 10]
+    title "poiuyjie/jev_project_context 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
 ```
 
-2026-10-18 9 → 2026-11-20 10（+1）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

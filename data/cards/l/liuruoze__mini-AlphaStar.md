@@ -1,6 +1,6 @@
 # liuruoze/mini-AlphaStar
 
-⭐ 372 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/liuruoze/mini-AlphaStar) · 个人维护 · 中文 README
+⭐ 371 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/liuruoze/mini-AlphaStar) · 个人维护 · 中文 README
 
 **AlphaStar 的小规模复现：单机训练 StarCraft II 智能体**
 
@@ -46,12 +46,12 @@ DeepMind AlphaStar 的 mini-scale 复现研究项目，将超参数调整为可�
 ```mermaid
 xychart-beta
     title "liuruoze/mini-AlphaStar 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-21"]
     y-axis "stars" 370 --> 373
-    line [371, 372, 372]
+    line [371, 372, 371]
 ```
 
-2026-11-08 371 → 2026-11-20 372（+1）
+2026-11-08 371 → 2026-11-21 371（+0）
 
 
 ---

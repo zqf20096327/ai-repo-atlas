@@ -38,6 +38,18 @@
 > L2: Converts VNOnDB InkML files to PNG images and ground-truth text.
 > L12: HANDS-VNOnDB (VNOnDB in short) provides 1,146 Vietnamese paragraphs of handwritten text composed of 7,296 lines, mo
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vndee/vnondb-extractor 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-20 20 → 2026-11-21 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `1b3a371256f7` · [字段定义](../../DATASET.md)*

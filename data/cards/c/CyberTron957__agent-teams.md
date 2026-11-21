@@ -1,6 +1,6 @@
 # CyberTron957/agent-teams
 
-⭐ 186 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/CyberTron957/agent-teams) · 个人维护
+⭐ 187 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/CyberTron957/agent-teams) · 个人维护
 
 **自托管多 AI Agent 团队编排系统，含调度、预算与看板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CyberTron957/agent-teams 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 184 --> 187
-    line [185, 186, 186]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 184 --> 188
+    line [185, 186, 187]
 ```
 
-2026-11-12 185 → 2026-11-20 186（+1）
+2026-11-12 185 → 2026-11-21 187（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # eli-labz/Godcoder
 
-⭐ 159 · Rust · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/eli-labz/Godcoder) · 个人维护
+⭐ 156 · Rust · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/eli-labz/Godcoder) · 个人维护
 
 **本地优先的开源桌面 AI 编程 Agent，自带密钥**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "eli-labz/Godcoder 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 157 --> 184
-    line [182, 178, 177, 167, 165, 159]
+    title "eli-labz/Godcoder 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 154 --> 184
+    line [182, 178, 177, 167, 165, 159, 156]
 ```
 
-2026-10-18 182 → 2026-11-20 159（-23）
+2026-10-19 182 → 2026-11-21 156（-26）
 
 
 ---

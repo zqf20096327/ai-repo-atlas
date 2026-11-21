@@ -45,12 +45,12 @@ Mitten（MLPerf Inference Test Bench）是 NVIDIA 用于提交 MLPerf Inference 
 ```mermaid
 xychart-beta
     title "NVIDIA/mitten 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-18 10 → 2026-11-21 10（+0）
 
 
 ---

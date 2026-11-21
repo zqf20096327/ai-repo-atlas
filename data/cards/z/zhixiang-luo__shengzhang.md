@@ -1,6 +1,6 @@
 # zhixiang-luo/shengzhang
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zhixiang-luo/shengzhang) · [官网](https://bigai.xin/shengzhang/) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zhixiang-luo/shengzhang) · [官网](https://bigai.xin/shengzhang/) · 个人维护 · 中文 README
 
 **面向年轻个人用户的语音一句话记账应用**
 
@@ -46,12 +46,12 @@ Expo/React Native 开发的语音优先、本地优先个人记账应用：按�
 ```mermaid
 xychart-beta
     title "zhixiang-luo/shengzhang 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-10-22 3 → 2026-11-20 5（+2）
+2026-10-22 3 → 2026-11-21 6（+3）
 
 
 ---

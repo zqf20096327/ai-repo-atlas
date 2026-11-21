@@ -1,6 +1,6 @@
 # bobazooba/xllm
 
-⭐ 410 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/bobazooba/xllm) · [官网](https://t.me/talequestbot) · 个人维护
+⭐ 409 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/bobazooba/xllm) · [官网](https://t.me/talequestbot) · 个人维护
 
 **面向工程师的大模型微调训练库**
 
@@ -40,6 +40,18 @@ X—LLM 是一个 Python 库，用于 LLM 微调训练，将 QLoRA、DeepSpeed�
 > L17: Cutting Edge & Easy LLM Finetuning using the most advanced methods (QLoRA, DeepSpeed, GPTQ, Flash Attention 2, FSDP
 > L28: **X—LLM** is your solution. It's a user-friendly library that streamlines training optimization, so you can **focus
 > L311: Remember, these tasks in `X—LLM` start from the command line. So, when you're all set to go, launching your full p
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bobazooba/xllm 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 408 --> 411
+    line [410, 409]
+```
+
+2026-11-20 410 → 2026-11-21 409（-1）
 
 
 ---

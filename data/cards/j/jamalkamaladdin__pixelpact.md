@@ -44,13 +44,13 @@ CLI 与 MCP 服务器组合：用 Playwright 打开参考页，提取每个可�
 
 ```mermaid
 xychart-beta
-    title "jamalkamaladdin/pixelpact 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
+    title "jamalkamaladdin/pixelpact 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-20", "2026-11-21"]
     y-axis "stars" 10 --> 18
-    line [17, 16, 11]
+    line [17, 16, 11, 11]
 ```
 
-2026-10-18 17 → 2026-11-20 11（-6）
+2026-10-18 17 → 2026-11-21 11（-6）
 
 
 ---

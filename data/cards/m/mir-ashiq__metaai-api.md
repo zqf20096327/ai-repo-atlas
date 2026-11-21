@@ -1,6 +1,6 @@
 # mir-ashiq/metaai-api
 
-⭐ 96 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/mir-ashiq/metaai-api) · [官网](https://github.com/mir-ashiq/VibesAI-api) · 个人维护
+⭐ 97 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/mir-ashiq/metaai-api) · [官网](https://github.com/mir-ashiq/VibesAI-api) · 个人维护
 
 **非官方 Meta AI Python SDK 与 FastAPI 服务器：文生图、对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mir-ashiq/metaai-api 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-21"]
     y-axis "stars" 94 --> 98
-    line [97, 96, 95, 96, 96]
+    line [97, 96, 95, 96, 97]
 ```
 
-2026-10-18 97 → 2026-11-20 96（-1）
+2026-10-19 97 → 2026-11-21 97（+0）
 
 
 ---

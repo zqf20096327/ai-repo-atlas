@@ -1,6 +1,6 @@
 # luisleo526/doc2mark
 
-⭐ 51 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/luisleo526/doc2mark) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/luisleo526/doc2mark) · 个人维护
 
 **文档转 Markdown 的 Python 库：面向 RAG 保留表格与版式**
 
@@ -47,12 +47,12 @@ Python 库（3.10+），将 PDF、Word、Excel、PowerPoint、图片、HTML、�
 ```mermaid
 xychart-beta
     title "luisleo526/doc2mark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-11-20 51（+0）
+2026-10-19 51 → 2026-11-21 51（+0）
 
 
 ---

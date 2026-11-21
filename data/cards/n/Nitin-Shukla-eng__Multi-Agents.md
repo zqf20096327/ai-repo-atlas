@@ -46,12 +46,12 @@ ResearchMind 是一个小型多 Agent 系统，将主题调研拆为四步顺序
 ```mermaid
 xychart-beta
     title "Nitin-Shukla-eng/Multi-Agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

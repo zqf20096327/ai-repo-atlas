@@ -44,13 +44,13 @@ AstrBot 插件，通过本机官方 agy 客户端的 ACP 协议（stdio 管道�
 
 ```mermaid
 xychart-beta
-    title "sl251/astrbot_plugin_antigravity_acp 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    title "sl251/astrbot_plugin_antigravity_acp 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 7 --> 11
-    line [8, 9, 10]
+    line [8, 9, 10, 10]
 ```
 
-2026-11-18 8 → 2026-11-20 10（+2）
+2026-11-18 8 → 2026-11-21 10（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA/anchor-bench
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/anchor-bench) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/anchor-bench) · 组织维护
 
 **为机器人执行器建模与调参的配置驱动工具库**
 
@@ -46,12 +46,12 @@ Anchor Bench 是 NVIDIA DevTech 的配置驱动工具库，面向机器人执行
 ```mermaid
 xychart-beta
     title "NVIDIA/anchor-bench 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-18", "2026-11-21"]
     y-axis "stars" 9 --> 14
     line [10, 12, 13, 13]
 ```
 
-2026-10-31 10 → 2026-11-20 13（+3）
+2026-10-31 10 → 2026-11-21 13（+3）
 
 
 ---

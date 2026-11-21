@@ -1,6 +1,6 @@
 # tardellirs/gemma3moe-builder
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/tardellirs/gemma3moe-builder) · 个人维护
+⭐ 34 · Python · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/tardellirs/gemma3moe-builder) · 个人维护
 
 **将 Gemma-3-270m 稀疏升环为 MoE 并在 CPU 上服务的工具包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tardellirs/gemma3moe-builder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-20"]
-    y-axis "stars" 35 --> 41
-    line [40, 39, 36]
+    title "tardellirs/gemma3moe-builder 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 33 --> 41
+    line [40, 39, 36, 34]
 ```
 
-2026-10-18 40 → 2026-11-20 36（-4）
+2026-10-19 40 → 2026-11-21 34（-6）
 
 
 ---

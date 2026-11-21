@@ -1,6 +1,6 @@
 # LakoMoor/portcode
 
-⭐ 10 · Rust · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/LakoMoor/portcode) · [官网](https://lakomoor.github.io/portcode/) · 个人维护
+⭐ 10 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/LakoMoor/portcode) · [官网](https://lakomoor.github.io/portcode/) · 个人维护
 
 **本地 LLM 驱动的终端 Agent：逆向程序并移植为 Rust 且验证等价**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LakoMoor/portcode 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 7 --> 11
     line [8, 10, 10]
 ```
 
-2026-11-08 8 → 2026-11-20 10（+2）
+2026-11-08 8 → 2026-11-21 10（+2）
 
 
 ---

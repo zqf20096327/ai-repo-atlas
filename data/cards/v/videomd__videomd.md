@@ -1,6 +1,6 @@
 # videomd/videomd
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/videomd/videomd) · [官网](https://videomd.github.io/videomd/) · 组织维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/videomd/videomd) · [官网](https://videomd.github.io/videomd/) · 组织维护 · 中文 README
 
 **供 AI agent 分层读取视频拆解的开放格式与参考实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "videomd/videomd 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 12, 13, 15, 15]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 12, 13, 15, 16]
 ```
 
-2026-11-13 10 → 2026-11-20 15（+5）
+2026-11-13 10 → 2026-11-21 16（+6）
 
 
 ---

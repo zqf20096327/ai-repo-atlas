@@ -1,6 +1,6 @@
 # petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide
 
-⭐ 6 · 推送 2026-11-19 · [GitHub](https://github.com/petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
+⭐ 21 · 推送 2026-11-19 · [GitHub](https://github.com/petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
 
 **面向程序员的 AI 编码订阅续费支付指南（CoreGold VCC）**
 
@@ -37,6 +37,18 @@
 
 > L2: A specialized FinOps guide for programmers and indie developers on preventing subscription expirations and billing b
 > L5: ## Securing AI Coding Subscriptions: Preventing Cursor & Claude Code Billing Failures with CoreGold VCC
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 5 --> 22
+    line [6, 21]
+```
+
+2026-11-20 6 → 2026-11-21 21（+15）
 
 
 ---

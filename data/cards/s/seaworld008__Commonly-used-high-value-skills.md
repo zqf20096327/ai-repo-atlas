@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seaworld008/Commonly-used-high-value-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-20"]
+    title "seaworld008/Commonly-used-high-value-skills 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 72 --> 75
-    line [73, 74, 73, 74]
+    line [73, 74, 73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-11-20 74（+1）
+2026-10-19 73 → 2026-11-21 74（+1）
 
 
 ---

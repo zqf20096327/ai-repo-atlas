@@ -1,6 +1,6 @@
 # nguyentatkiem/ai-video-studio
 
-⭐ 57 · HTML · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/nguyentatkiem/ai-video-studio) · [官网](https://nguyentatkiem.com.vn/aiplusntk/) · 个人维护
+⭐ 58 · HTML · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/nguyentatkiem/ai-video-studio) · [官网](https://nguyentatkiem.com.vn/aiplusntk/) · 个人维护
 
 **本地 AI 视频剪辑软件（macOS/Windows），面向短视频创作者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nguyentatkiem/ai-video-studio 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 33 --> 59
-    line [35, 41, 44, 46, 48, 51, 53, 56, 57]
+    title "nguyentatkiem/ai-video-studio 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 33 --> 60
+    line [35, 41, 44, 46, 48, 51, 53, 56, 57, 58]
 ```
 
-2026-11-10 35 → 2026-11-20 57（+22）
+2026-11-10 35 → 2026-11-21 58（+23）
 
 
 ---

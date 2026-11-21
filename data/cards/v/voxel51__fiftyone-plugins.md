@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "voxel51/fiftyone-plugins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 143 --> 146
-    line [144, 145, 145]
+    title "voxel51/fiftyone-plugins 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 144 --> 146
+    line [145, 145]
 ```
 
-2026-10-18 144 → 2026-11-20 145（+1）
+2026-10-19 145 → 2026-11-21 145（+0）
 
 
 ---

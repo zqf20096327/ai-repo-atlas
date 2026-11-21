@@ -1,6 +1,6 @@
 # vcaesar/riot
 
-⭐ 6,065 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/vcaesar/riot) · 个人维护 · 中文 README
+⭐ 6,068 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/vcaesar/riot) · 个人维护 · 中文 README
 
 **Go 语言文本与向量检索引擎库，支持 BM25 与 HNSW**
 
@@ -39,6 +39,18 @@
 
 > L12: A fastest, modern text indexing library in Go.
 > L24:  - Geo Bounding Box, Geo Distance, Geo Polygon, ANN, KNN
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vcaesar/riot 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 6064 --> 6069
+    line [6065, 6068]
+```
+
+2026-11-20 6,065 → 2026-11-21 6,068（+3）
 
 
 ---

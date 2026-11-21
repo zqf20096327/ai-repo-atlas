@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BKDDFS/PerfectFrameAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "BKDDFS/PerfectFrameAI 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 43 --> 45
+    line [44, 44]
 ```
 
-2026-10-18 43 → 2026-11-20 44（+1）
+2026-10-19 44 → 2026-11-21 44（+0）
 
 
 ---

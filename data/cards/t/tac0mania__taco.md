@@ -1,6 +1,6 @@
 # tac0mania/taco
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/tac0mania/taco) · [官网](https://github.com/tac0mania/taco/releases) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/tac0mania/taco) · [官网](https://github.com/tac0mania/taco/releases) · 个人维护
 
 **用整数算术跑 GPT-2 的跨平台无损压缩器（alpha）**
 
@@ -46,12 +46,12 @@ Taco 是一个以 GPT-2 做预测、配合区间编码的无损压缩器（fold/
 ```mermaid
 xychart-beta
     title "tac0mania/taco 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 6 --> 12
-    line [7, 9, 10, 9, 11, 11]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 6 --> 13
+    line [7, 9, 10, 9, 11, 12]
 ```
 
-2026-10-22 7 → 2026-11-20 11（+4）
+2026-10-22 7 → 2026-11-21 12（+5）
 
 
 ---

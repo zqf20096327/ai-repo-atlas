@@ -1,6 +1,6 @@
 # andresvourakis/data-scientist-handbook
 
-⭐ 1,458 · 推送 2026-11-03 · [GitHub](https://github.com/andresvourakis/data-scientist-handbook) · 个人维护
+⭐ 1,457 · 推送 2026-11-03 · [GitHub](https://github.com/andresvourakis/data-scientist-handbook) · 个人维护
 
 **数据科学家学习与求职的策展资源清单（免费/付费）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "andresvourakis/data-scientist-handbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 1457 --> 1460
-    line [1458, 1459, 1458, 1458]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 1456 --> 1460
+    line [1458, 1459, 1458, 1457]
 ```
 
-2026-10-18 1,458 → 2026-11-20 1,458（+0）
+2026-10-19 1,458 → 2026-11-21 1,457（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # haixu8396-png/aileen-desktop
 
-⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/haixu8396-png/aileen-desktop) · [官网](https://github.com/haixu8396-png/aileen-desktop/releases/latest) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/haixu8396-png/aileen-desktop) · [官网](https://github.com/haixu8396-png/aileen-desktop/releases/latest) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 伙伴：Live2D 角色、多模型对话与电脑控制**
 
@@ -46,12 +46,12 @@ Electron 应用，将 AI 对话、角色卡系统、长期记忆、本地知识�
 ```mermaid
 xychart-beta
     title "haixu8396-png/aileen-desktop 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-26 10 → 2026-11-20 11（+1）
+2026-10-26 10 → 2026-11-21 11（+1）
 
 
 ---

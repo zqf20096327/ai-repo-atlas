@@ -1,6 +1,6 @@
 # libowenhemonesy-svg/cross-border-ai
 
-⭐ 32 · Python · 推送 2026-09-20 · [GitHub](https://github.com/libowenhemonesy-svg/cross-border-ai) · 个人维护 · 中文 README
+⭐ 33 · Python · 推送 2026-09-20 · [GitHub](https://github.com/libowenhemonesy-svg/cross-border-ai) · 个人维护 · 中文 README
 
 **跨境卖家的 AI 运营工作台：知识问答与笔记整理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "libowenhemonesy-svg/cross-border-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 29, 31, 32, 32]
+    title "libowenhemonesy-svg/cross-border-ai 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 31, 32, 33]
 ```
 
-2026-10-18 27 → 2026-11-20 32（+5）
+2026-10-19 28 → 2026-11-21 33（+5）
 
 
 ---

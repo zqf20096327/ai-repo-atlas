@@ -1,6 +1,6 @@
 # qdrant/quaterion
 
-⭐ 666 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/qdrant/quaterion) · [官网](https://quaterion.qdrant.tech/) · 组织维护
+⭐ 665 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/qdrant/quaterion) · [官网](https://quaterion.qdrant.tech/) · 组织维护
 
 **面向语义搜索等任务的相似度学习模型微调框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qdrant/quaterion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 663 --> 667
-    line [664, 665, 666, 666]
+    title "qdrant/quaterion 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 664 --> 667
+    line [665, 666, 665]
 ```
 
-2026-10-18 664 → 2026-11-20 666（+2）
+2026-10-19 665 → 2026-11-21 665（+0）
 
 
 ---

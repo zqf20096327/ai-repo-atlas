@@ -45,12 +45,12 @@ Arm 教育团队发布的实操课程（两部曲 Part 1），主题为极端模
 ```mermaid
 xychart-beta
     title "arm-education/Advanced-AI-Hardware-Software-Co-Design 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
     y-axis "stars" 40 --> 43
     line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-20 42（+1）
+2026-10-18 41 → 2026-11-21 42（+1）
 
 
 ---

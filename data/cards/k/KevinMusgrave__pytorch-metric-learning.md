@@ -1,6 +1,6 @@
 # KevinMusgrave/pytorch-metric-learning
 
-⭐ 6,341 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/KevinMusgrave/pytorch-metric-learning) · [官网](https://kevinmusgrave.github.io/pytorch-metric-learning/) · 个人维护
+⭐ 6,343 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/KevinMusgrave/pytorch-metric-learning) · [官网](https://kevinmusgrave.github.io/pytorch-metric-learning/) · 个人维护
 
 **面向开发者的 PyTorch 深度度量学习模块化库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KevinMusgrave/pytorch-metric-learning 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-11-01", "2026-11-10", "2026-11-20"]
+    title "KevinMusgrave/pytorch-metric-learning 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-11-01", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 6340 --> 6345
-    line [6344, 6342, 6343, 6341]
+    line [6344, 6342, 6343, 6341, 6343]
 ```
 
-2026-10-28 6,344 → 2026-11-20 6,341（-3）
+2026-10-28 6,344 → 2026-11-21 6,343（-1）
 
 
 ---

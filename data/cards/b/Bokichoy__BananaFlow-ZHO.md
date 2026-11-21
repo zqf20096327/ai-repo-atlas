@@ -43,12 +43,12 @@ README 自述为跨平台桌面应用，运行于 Windows 10+、macOS 10.15+ 与
 ```mermaid
 xychart-beta
     title "Bokichoy/BananaFlow-ZHO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

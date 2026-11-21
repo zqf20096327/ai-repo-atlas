@@ -1,6 +1,6 @@
 # oneapi-src/oneAPI-samples
 
-⭐ 1,169 · C++ · MIT · 推送 2026-07-28 · [GitHub](https://github.com/oneapi-src/oneAPI-samples) · [官网](https://oneapi-src.github.io/oneAPI-samples/) · 组织维护
+⭐ 1,168 · C++ · MIT · 推送 2026-07-28 · [GitHub](https://github.com/oneapi-src/oneAPI-samples) · [官网](https://oneapi-src.github.io/oneAPI-samples/) · 组织维护
 
 **Intel oneAPI 工具链官方代码示例集合，覆盖 CPU/GPU/FPGA**
 
@@ -46,12 +46,12 @@ Intel 官方维护的 oneAPI Toolkits 示例仓库：按 DirectProgramming（C++
 ```mermaid
 xychart-beta
     title "oneapi-src/oneAPI-samples 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-21"]
     y-axis "stars" 1166 --> 1171
-    line [1167, 1168, 1169, 1170, 1169, 1169]
+    line [1167, 1168, 1169, 1170, 1169, 1168]
 ```
 
-2026-10-18 1,167 → 2026-11-20 1,169（+2）
+2026-10-19 1,167 → 2026-11-21 1,168（+1）
 
 
 ---

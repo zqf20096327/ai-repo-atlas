@@ -1,6 +1,6 @@
 # thediymaker/obleth-gateway
 
-⭐ 30 · Rust · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/thediymaker/obleth-gateway) · [官网](https://obleth.com) · 组织维护
+⭐ 30 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/thediymaker/obleth-gateway) · [官网](https://obleth.com) · 组织维护
 
 **面向共享 GPU 集群的多租户 AI 网关：公平调度与统一接入**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "thediymaker/obleth-gateway 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 20 --> 31
-    line [21, 22, 23, 24, 25, 26, 27, 30, 30]
+    title "thediymaker/obleth-gateway 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 21 --> 31
+    line [22, 23, 24, 25, 26, 27, 30, 30]
 ```
 
-2026-10-18 21 → 2026-11-20 30（+9）
+2026-10-19 22 → 2026-11-21 30（+8）
 
 
 ---

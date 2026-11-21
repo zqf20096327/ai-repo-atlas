@@ -1,6 +1,6 @@
 # microsoft/Olive
 
-⭐ 2,414 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/Olive) · [官网](https://microsoft.github.io/Olive/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **微软的 ONNX 模型优化工具链：量化/转换/微调适配多硬件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

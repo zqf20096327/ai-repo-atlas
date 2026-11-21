@@ -46,13 +46,13 @@ GitHub 维护的代理驱动桌面应用：在一个控制中心内跨 GitHub �
 
 ```mermaid
 xychart-beta
-    title "TarantulaCorrect/GitHub-Copilot-app 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20"]
+    title "TarantulaCorrect/GitHub-Copilot-app 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 375 --> 379
-    line [378, 377, 376]
+    line [378, 377, 376, 376]
 ```
 
-2026-11-15 378 → 2026-11-20 376（-2）
+2026-11-15 378 → 2026-11-21 376（-2）
 
 
 ---

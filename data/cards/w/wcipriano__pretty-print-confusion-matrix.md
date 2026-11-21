@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wcipriano/pretty-print-confusion-matrix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    title "wcipriano/pretty-print-confusion-matrix 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 536 --> 539
-    line [537, 538, 537]
+    line [537, 538, 537, 537]
 ```
 
-2026-10-18 537 → 2026-11-20 537（+0）
+2026-10-19 537 → 2026-11-21 537（+0）
 
 
 ---

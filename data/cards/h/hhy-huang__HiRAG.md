@@ -1,6 +1,6 @@
 # hhy-huang/HiRAG
 
-⭐ 553 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/hhy-huang/HiRAG) · [官网](https://arxiv.org/pdf/2503.10150) · 组织维护
+⭐ 552 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/hhy-huang/HiRAG) · [官网](https://arxiv.org/pdf/2503.10150) · 组织维护
 
 **基于分层知识的 Graph RAG 系统，EMNLP 2025 Findings 论文**
 
@@ -44,13 +44,13 @@ HiRAG 是论文《Retrieval-Augmented Generation with Hierarchical Knowledge》�
 
 ```mermaid
 xychart-beta
-    title "hhy-huang/HiRAG 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 552 --> 557
-    line [556, 555, 556, 555, 553]
+    title "hhy-huang/HiRAG 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 551 --> 557
+    line [556, 555, 556, 555, 553, 552]
 ```
 
-2026-10-18 556 → 2026-11-20 553（-3）
+2026-10-19 556 → 2026-11-21 552（-4）
 
 
 ---

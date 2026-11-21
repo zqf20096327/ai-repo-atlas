@@ -1,6 +1,6 @@
 # microsoft/real-time-intelligence-operations-solution-accelerator
 
-⭐ 36 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/real-time-intelligence-operations-solution-accelerator) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/real-time-intelligence-operations-solution-accelerator) · 组织维护
 
 **制造业实时智能监控方案模板：仪表盘+异常检测+数据 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/real-time-intelligence-operations-solution-accelerator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-11", "2026-11-21"]
     y-axis "stars" 34 --> 37
     line [35, 36, 35, 36, 36]
 ```
 
-2026-10-18 35 → 2026-11-20 36（+1）
+2026-10-18 35 → 2026-11-21 36（+1）
 
 
 ---

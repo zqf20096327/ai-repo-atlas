@@ -44,13 +44,13 @@ Rust 编写的 Git merge driver：注册为 Git 自定义合并驱动后，在 m
 
 ```mermaid
 xychart-beta
-    title "ghuntley/rizzler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "ghuntley/rizzler 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 67 --> 70
-    line [68, 69]
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-11-20 69（+1）
+2026-10-19 68 → 2026-11-21 69（+1）
 
 
 ---

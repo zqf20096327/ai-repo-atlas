@@ -1,6 +1,6 @@
 # weaviate/weaviate-helm
 
-⭐ 69 · Shell · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/weaviate/weaviate-helm) · [官网](https://weaviate.io/developers/weaviate/current/) · 组织维护
+⭐ 69 · Shell · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/weaviate/weaviate-helm) · [官网](https://weaviate.io/developers/weaviate/current/) · 组织维护
 
 **将 Weaviate 向量数据库部署到 Kubernetes 的 Helm chart**
 
@@ -44,12 +44,12 @@ Weaviate 官方维护的 Helm chart，用于在 Kubernetes 集群上部署 Weavi
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-helm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-11-20 69（+0）
+2026-10-19 69 → 2026-11-21 69（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sparkj365-create/kde-digits-classifier 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20"]
+    title "sparkj365-create/kde-digits-classifier 星数(近 5 点)"
+    x-axis ["2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6]
+    line [3, 4, 5, 6, 6]
 ```
 
-2026-11-10 3 → 2026-11-20 6（+3）
+2026-11-10 3 → 2026-11-21 6（+3）
 
 
 ---

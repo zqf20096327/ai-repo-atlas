@@ -1,6 +1,6 @@
 # WoJiSama/skill-based-architecture
 
-⭐ 625 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/WoJiSama/skill-based-architecture) · 个人维护 · 中文 README
+⭐ 626 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/WoJiSama/skill-based-architecture) · 个人维护 · 中文 README
 
 **把项目规则蒸馏成可路由 Skill 的元技能，供各编码 Agent 遵循**
 
@@ -45,13 +45,13 @@ SBA 是一个供编码 Agent 使用的 Skill 而非运行时：对任意代码�
 
 ```mermaid
 xychart-beta
-    title "WoJiSama/skill-based-architecture 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 617 --> 626
-    line [620, 618, 619, 620, 622, 621, 620, 619, 620, 622, 625, 625]
+    title "WoJiSama/skill-based-architecture 星数(近 11 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 617 --> 627
+    line [618, 619, 620, 622, 621, 620, 619, 620, 622, 625, 626]
 ```
 
-2026-10-18 620 → 2026-11-20 625（+5）
+2026-10-19 618 → 2026-11-21 626（+8）
 
 
 ---

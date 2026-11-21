@@ -1,6 +1,6 @@
 # breath57/how-ai-agents-remember
 
-⭐ 45 · 推送 2026-06-17 · [GitHub](https://github.com/breath57/how-ai-agents-remember) · 个人维护 · 中文 README
+⭐ 46 · 推送 2026-06-17 · [GitHub](https://github.com/breath57/how-ai-agents-remember) · 个人维护 · 中文 README
 
 **5 个开源 AI Agent 记忆系统的源码级逆向分析文集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "breath57/how-ai-agents-remember 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-11-20 45（+0）
+2026-10-19 45 → 2026-11-21 46（+1）
 
 
 ---

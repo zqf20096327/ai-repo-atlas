@@ -1,6 +1,6 @@
 # wailers9/bragi
 
-⭐ 33 · Python · 推送 2026-05-17 · [GitHub](https://github.com/wailers9/bragi) · 个人维护 · 中文 README
+⭐ 34 · Python · 推送 2026-05-17 · [GitHub](https://github.com/wailers9/bragi) · 个人维护 · 中文 README
 
 **面向幻想创作者的 AI 架空世界与长篇故事生成引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wailers9/bragi 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 32, 33, 33]
+    title "wailers9/bragi 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 32, 33, 34]
 ```
 
-2026-10-18 31 → 2026-11-20 33（+2）
+2026-10-19 32 → 2026-11-21 34（+2）
 
 
 ---

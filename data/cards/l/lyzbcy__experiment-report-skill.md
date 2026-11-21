@@ -1,6 +1,6 @@
 # lyzbcy/experiment-report-skill
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lyzbcy/experiment-report-skill) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lyzbcy/experiment-report-skill) · 个人维护 · 中文 README
 
 **给 AI 编程工具的实验报告生成技能：真实跑实验后交付 md+docx 报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lyzbcy/experiment-report-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 14
     line [10, 11, 12, 10, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-20 13（+3）
+2026-10-19 10 → 2026-11-21 13（+3）
 
 
 ---

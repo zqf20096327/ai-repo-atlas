@@ -1,6 +1,6 @@
 # vizuh/sabi
 
-⭐ 17 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/vizuh/sabi) · [官网](https://www.npmjs.com/package/@vizuh/sabi) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/vizuh/sabi) · [官网](https://www.npmjs.com/package/@vizuh/sabi) · 个人维护 · 中文 README
 
 **编码 agent 的逐轮自适应推理路由层：按轮选模型与提供商**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vizuh/sabi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 14 --> 18
-    line [15, 17, 17]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 14 --> 19
+    line [15, 17, 18]
 ```
 
-2026-10-18 15 → 2026-11-20 17（+2）
+2026-10-19 15 → 2026-11-21 18（+3）
 
 
 ---

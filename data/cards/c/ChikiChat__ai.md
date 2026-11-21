@@ -1,6 +1,6 @@
 # ChikiChat/ai
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2025-11-24 · [GitHub](https://github.com/ChikiChat/ai) · [官网](https://models.chiki.chat) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **帮助开发者用统一接口构建多供应商 AI 应用的 TypeScript 工具包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

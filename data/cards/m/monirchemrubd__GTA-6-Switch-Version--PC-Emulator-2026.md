@@ -1,6 +1,6 @@
 # monirchemrubd/GTA-6-Switch-Version--PC-Emulator-2026
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/monirchemrubd/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
+⭐ 35 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/monirchemrubd/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
 
 **GTA VI PC 版安装准备与优化指南，附 Windows 配套工具**
 
@@ -39,6 +39,18 @@
 > L5: A dedicated PC installation and configuration resource for Grand Theft Auto VI, covering Windows preparation, graphi
 > L17: This repository is dedicated to Windows users preparing for the future PC edition of GTA VI.
 > L49: The companion installer does not contain or install GTA VI game files.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "monirchemrubd/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 34 --> 37
+    line [36, 35]
+```
+
+2026-11-20 36 → 2026-11-21 35（-1）
 
 
 ---

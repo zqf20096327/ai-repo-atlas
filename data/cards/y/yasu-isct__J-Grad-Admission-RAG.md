@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yasu-isct/J-Grad-Admission-RAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "yasu-isct/J-Grad-Admission-RAG 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 12
-    line [11, 10]
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-20 10（-1）
+2026-10-19 11 → 2026-11-21 10（-1）
 
 
 ---

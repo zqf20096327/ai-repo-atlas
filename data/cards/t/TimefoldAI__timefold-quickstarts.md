@@ -1,6 +1,6 @@
 # TimefoldAI/timefold-quickstarts
 
-⭐ 607 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/TimefoldAI/timefold-quickstarts) · [官网](https://solver.timefold.ai) · 组织维护
+⭐ 606 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/TimefoldAI/timefold-quickstarts) · [官网](https://solver.timefold.ai) · 组织维护
 
 **Timefold Solver 的入门示例集：15 个规划优化用例实现**
 
@@ -44,13 +44,13 @@ TimefoldAI 维护的快速上手代码仓库，为 Timefold Solver（Java/Kotlin
 
 ```mermaid
 xychart-beta
-    title "TimefoldAI/timefold-quickstarts 星数(近 15 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 594 --> 609
-    line [595, 597, 598, 599, 598, 599, 600, 601, 602, 599, 604, 607, 608, 607, 607]
+    title "TimefoldAI/timefold-quickstarts 星数(近 14 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 596 --> 609
+    line [597, 598, 599, 598, 599, 600, 601, 602, 599, 604, 607, 608, 607, 606]
 ```
 
-2026-10-18 595 → 2026-11-20 607（+12）
+2026-10-19 597 → 2026-11-21 606（+9）
 
 
 ---

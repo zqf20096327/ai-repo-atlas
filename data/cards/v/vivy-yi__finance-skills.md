@@ -1,6 +1,6 @@
 # vivy-yi/finance-skills
 
-⭐ 44 · HTML · MIT · 推送 2026-06-14 · [GitHub](https://github.com/vivy-yi/finance-skills) · [官网](https://vivy-yi.github.io/finance-skills/) · 个人维护 · 中文 README
+⭐ 45 · HTML · MIT · 推送 2026-06-14 · [GitHub](https://github.com/vivy-yi/finance-skills) · [官网](https://vivy-yi.github.io/finance-skills/) · 个人维护 · 中文 README
 
 **面向 AI Agent 的 CFO 财务职能 Skill 体系（34 场景 × 152 Skill）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vivy-yi/finance-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 40 --> 45
-    line [41, 42, 43, 42, 43, 44, 44]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 40 --> 46
+    line [41, 42, 43, 42, 43, 44, 45]
 ```
 
-2026-10-18 41 → 2026-11-20 44（+3）
+2026-10-19 41 → 2026-11-21 45（+4）
 
 
 ---

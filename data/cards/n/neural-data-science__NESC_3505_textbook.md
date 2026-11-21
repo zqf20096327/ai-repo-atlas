@@ -43,13 +43,13 @@ NESC 3505《Neural Data Science》课程的教科书源码仓库，内容覆盖�
 
 ```mermaid
 xychart-beta
-    title "neural-data-science/NESC_3505_textbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 139 --> 142
-    line [140, 141, 141]
+    title "neural-data-science/NESC_3505_textbook 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 140 --> 142
+    line [141, 141]
 ```
 
-2026-10-18 140 → 2026-11-20 141（+1）
+2026-10-19 141 → 2026-11-21 141（+0）
 
 
 ---

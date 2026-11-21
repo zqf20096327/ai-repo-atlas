@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jjjane233/workbuddy-3in1 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 4 --> 8
-    line [5, 7, 7]
+    title "jjjane233/workbuddy-3in1 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
 ```
 
-2026-10-18 5 → 2026-11-20 7（+2）
+2026-10-19 7 → 2026-11-21 7（+0）
 
 
 ---

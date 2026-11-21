@@ -1,6 +1,6 @@
 # snap-stanford/deepsnap
 
-⭐ 573 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/snap-stanford/deepsnap) · [官网](https://snap.stanford.edu/deepsnap/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给 GNN 开发者：桥接 NetworkX 与 PyTorch Geometric 的图深度学习辅助库**
 
@@ -11,7 +11,7 @@ DeepSNAP 是一个协助图深度学习的 Python 库，定位在图操作库 Ne
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

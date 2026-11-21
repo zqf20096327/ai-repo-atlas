@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "weaviate/elysia-frontend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 181 --> 184
-    line [183, 182, 182]
+    title "weaviate/elysia-frontend 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 181 --> 183
+    line [182, 182]
 ```
 
-2026-10-18 183 → 2026-11-20 182（-1）
+2026-10-19 182 → 2026-11-21 182（+0）
 
 
 ---

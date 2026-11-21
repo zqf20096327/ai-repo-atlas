@@ -1,6 +1,6 @@
 # polylint/uncomment
 
-⭐ 143 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/polylint/uncomment) · [官网](https://github.com/polylint/uncomment#readme) · 组织维护
+⭐ 144 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/polylint/uncomment) · [官网](https://github.com/polylint/uncomment#readme) · 组织维护
 
 **基于 tree-sitter 的注释删除与标签注释检查工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "polylint/uncomment 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 140 --> 144
-    line [141, 142, 143, 143]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 140 --> 145
+    line [141, 142, 143, 144]
 ```
 
-2026-11-16 141 → 2026-11-20 143（+2）
+2026-11-16 141 → 2026-11-21 144（+3）
 
 
 ---

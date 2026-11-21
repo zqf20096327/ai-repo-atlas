@@ -1,6 +1,6 @@
 # symfony/ai-bundle
 
-⭐ 34 · PHP · MIT · 推送 2026-11-18 · [GitHub](https://github.com/symfony/ai-bundle) · [官网](https://symfony.com/packages/ai-bundle) · 组织维护
+⭐ 34 · PHP · MIT · 推送 2026-11-20 · [GitHub](https://github.com/symfony/ai-bundle) · [官网](https://symfony.com/packages/ai-bundle) · 组织维护
 
 **Symfony AI 组件的集成 Bundle，接入 Symfony 生态**
 
@@ -43,12 +43,12 @@ Symfony 官方组织的集成 Bundle，用于将 Symfony AI 组件接入 Symfony
 ```mermaid
 xychart-beta
     title "symfony/ai-bundle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-18", "2026-11-21"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-20 34（+1）
+2026-10-19 33 → 2026-11-21 34（+1）
 
 
 ---

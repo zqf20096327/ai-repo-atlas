@@ -1,6 +1,6 @@
 # daviden1013/llm-ie
 
-⭐ 68 · Python · 推送 2026-08-19 · [GitHub](https://github.com/daviden1013/llm-ie) · [官网](https://daviden1013.github.io/llm-ie/) · 个人维护
+⭐ 68 · Python · 推送 2026-11-20 · [GitHub](https://github.com/daviden1013/llm-ie) · [官网](https://daviden1013.github.io/llm-ie/) · 个人维护
 
 **基于 LLM 的命名实体/属性/关系抽取工具包**
 
@@ -46,12 +46,12 @@ Python 工具包 LLM-IE，为构建 LLM 驱动的信息抽取流水线提供建�
 ```mermaid
 xychart-beta
     title "daviden1013/llm-ie 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
     y-axis "stars" 66 --> 69
     line [67, 68, 68]
 ```
 
-2026-10-18 67 → 2026-11-20 68（+1）
+2026-10-19 67 → 2026-11-21 68（+1）
 
 
 ---

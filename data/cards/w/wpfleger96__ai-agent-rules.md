@@ -1,6 +1,6 @@
 # wpfleger96/ai-agent-rules
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/wpfleger96/ai-agent-rules) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/wpfleger96/ai-agent-rules) · 个人维护
 
 **为多 AI 编码代理统一管理配置文件的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wpfleger96/ai-agent-rules 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # 6Morpheus6/Agent_Smith-Reloaded
 
-⭐ 19 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/6Morpheus6/Agent_Smith-Reloaded) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/6Morpheus6/Agent_Smith-Reloaded) · 个人维护
 
 **本地优先的桌面自主编程 agent，接本地模型无需 API key**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "6Morpheus6/Agent_Smith-Reloaded 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 9 --> 20
-    line [10, 13, 15, 16, 17, 18, 17, 18, 19]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 12 --> 21
+    line [13, 15, 16, 17, 18, 17, 18, 19, 20]
 ```
 
-2026-10-18 10 → 2026-11-20 19（+9）
+2026-10-19 13 → 2026-11-21 20（+7）
 
 
 ---

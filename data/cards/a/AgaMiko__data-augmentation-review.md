@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgaMiko/data-augmentation-review 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    title "AgaMiko/data-augmentation-review 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1635 --> 1638
-    line [1637, 1636]
+    line [1637, 1636, 1636]
 ```
 
-2026-11-08 1,637 → 2026-11-20 1,636（-1）
+2026-11-08 1,637 → 2026-11-21 1,636（-1）
 
 
 ---

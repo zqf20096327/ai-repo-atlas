@@ -1,6 +1,6 @@
 # Z4YT0N/OpenGrokBot
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Z4YT0N/OpenGrokBot) · [官网](https://z4yt0n.github.io/OpenGrokBot/) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Z4YT0N/OpenGrokBot) · [官网](https://z4yt0n.github.io/OpenGrokBot/) · 个人维护 · 中文 README
 
 **开源 Grok Bot 替代：本地群聊里运行一队可协作的 AI 员工**
 
@@ -45,12 +45,12 @@ Electron/浏览器的多 Agent 群聊应用：内置经理、全栈、DevOps、�
 ```mermaid
 xychart-beta
     title "Z4YT0N/OpenGrokBot 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 6 --> 23
-    line [7, 8, 9, 10, 13, 18, 20, 21, 22, 22]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 6 --> 26
+    line [7, 8, 9, 10, 13, 18, 20, 21, 22, 25]
 ```
 
-2026-10-18 7 → 2026-11-20 22（+15）
+2026-10-19 7 → 2026-11-21 25（+18）
 
 
 ---

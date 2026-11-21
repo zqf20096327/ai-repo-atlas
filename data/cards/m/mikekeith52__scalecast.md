@@ -1,6 +1,6 @@
 # mikekeith52/scalecast
 
-⭐ 355 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/mikekeith52/scalecast) · 个人维护
+⭐ 354 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/mikekeith52/scalecast) · 个人维护
 
 **Python 时间序列预测库：统一接口建模、调参与可视化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mikekeith52/scalecast 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-10", "2026-11-21"]
     y-axis "stars" 352 --> 356
-    line [353, 354, 355, 355]
+    line [353, 354, 355, 354]
 ```
 
-2026-10-18 353 → 2026-11-20 355（+2）
+2026-10-19 353 → 2026-11-21 354（+1）
 
 
 ---

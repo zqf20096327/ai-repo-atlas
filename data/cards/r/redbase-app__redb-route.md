@@ -1,6 +1,6 @@
 # redbase-app/redb-route
 
-⭐ 41 · C# · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/redbase-app/redb-route) · [官网](https://redbase.app) · 组织维护
+⭐ 41 · C# · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/redbase-app/redb-route) · [官网](https://redbase.app) · 组织维护
 
 **.NET 版 Apache Camel 式企业集成框架：任何系统接任何系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "redbase-app/redb-route 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-11-20 41（+0）
+2026-10-18 41 → 2026-11-21 41（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SamirPaulb/real-time-voice-translator
 
-⭐ 443 · Tcl · GPL-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/SamirPaulb/real-time-voice-translator) · [官网](https://samirpaulb.github.io/posts/real-time-voice-translator) · 个人维护
+⭐ 442 · Tcl · GPL-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/SamirPaulb/real-time-voice-translator) · [官网](https://samirpaulb.github.io/posts/real-time-voice-translator) · 个人维护
 
 **实时语音翻译桌面应用：跨语言保留语气与情感**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SamirPaulb/real-time-voice-translator 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-10", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-10", "2026-11-16", "2026-11-21"]
     y-axis "stars" 439 --> 444
-    line [440, 441, 442, 441, 442, 443, 443]
+    line [440, 441, 442, 441, 442, 443, 442]
 ```
 
-2026-10-18 440 → 2026-11-20 443（+3）
+2026-10-19 440 → 2026-11-21 442（+2）
 
 
 ---

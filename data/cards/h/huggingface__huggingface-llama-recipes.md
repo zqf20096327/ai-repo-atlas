@@ -1,6 +1,6 @@
 # huggingface/huggingface-llama-recipes
 
-⭐ 715 · Jupyter Notebook · 推送 2026-08-24 · [GitHub](https://github.com/huggingface/huggingface-llama-recipes) · 组织维护
+⭐ 714 · Jupyter Notebook · 推送 2026-08-24 · [GitHub](https://github.com/huggingface/huggingface-llama-recipes) · 组织维护
 
 **Hugging Face 官方 Llama 3.x 模型上手示例与教程合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/huggingface-llama-recipes 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21"]
     y-axis "stars" 710 --> 716
-    line [711, 712, 711, 713, 714, 715, 715]
+    line [711, 712, 711, 713, 714, 715, 714]
 ```
 
-2026-10-18 711 → 2026-11-20 715（+4）
+2026-10-19 711 → 2026-11-21 714（+3）
 
 
 ---

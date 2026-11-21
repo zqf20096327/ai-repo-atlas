@@ -1,6 +1,6 @@
 # hehehai/VoxtMini
 
-⭐ 914 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/hehehai/VoxtMini) · [官网](https://actnow.dev) · 个人维护 · 中文 README
+⭐ 915 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hehehai/VoxtMini) · [官网](https://actnow.dev) · 个人维护 · 中文 README
 
 **macOS 本地模型语音输入工具：听写、翻译与改写**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hehehai/VoxtMini 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 888 --> 916
-    line [890, 902, 909, 913, 914]
+    title "hehehai/VoxtMini 星数(近 6 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 888 --> 917
+    line [890, 902, 909, 913, 914, 915]
 ```
 
-2026-11-14 890 → 2026-11-20 914（+24）
+2026-11-14 890 → 2026-11-21 915（+25）
 
 
 ---

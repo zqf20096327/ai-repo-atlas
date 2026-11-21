@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "google/allocation-instrumenter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
+    title "google/allocation-instrumenter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-20", "2026-11-21"]
     y-axis "stars" 490 --> 493
-    line [491, 492, 491]
+    line [491, 492, 491, 491]
 ```
 
-2026-10-18 491 → 2026-11-20 491（+0）
+2026-10-18 491 → 2026-11-21 491（+0）
 
 
 ---

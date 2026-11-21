@@ -46,12 +46,12 @@ Deforum 扩展（面向 Stable Diffusion WebUI Forge）的实验性分支：适�
 ```mermaid
 xychart-beta
     title "Tok/sd-forge-deforum 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-18 67 → 2026-11-20 67（+0）
+2026-10-19 67 → 2026-11-21 67（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SoAkeD1/reviewbharat
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/SoAkeD1/reviewbharat) · 个人维护
+⭐ 8 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/SoAkeD1/reviewbharat) · 个人维护
 
 **开发者 PR 代码审查工具：英/印地/Hinglish 三语 AI 评审**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SoAkeD1/reviewbharat 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
-    y-axis "stars" 8 --> 10
-    line [9, 9]
+    x-axis ["2026-11-10", "2026-11-21"]
+    y-axis "stars" 7 --> 10
+    line [9, 8]
 ```
 
-2026-11-10 9 → 2026-11-20 9（+0）
+2026-11-10 9 → 2026-11-21 8（-1）
 
 
 ---

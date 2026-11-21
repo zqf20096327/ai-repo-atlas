@@ -1,6 +1,6 @@
 # guilhermeborgesbastos/live-resume
 
-⭐ 493 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/guilhermeborgesbastos/live-resume) · [官网](https://guilhermeborgesbastos.com/) · 个人维护 · 中文 README
+⭐ 492 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/guilhermeborgesbastos/live-resume) · [官网](https://guilhermeborgesbastos.com/) · 个人维护 · 中文 README
 
 **开源个人简历网站模板，内置浏览器端问答助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guilhermeborgesbastos/live-resume 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 490 --> 494
-    line [491, 492, 493, 493]
+    line [491, 492, 493, 492]
 ```
 
-2026-10-28 491 → 2026-11-20 493（+2）
+2026-10-28 491 → 2026-11-21 492（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ilindaniel/impeccable-lite
 
-⭐ 28 · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/ilindaniel/impeccable-lite) · 个人维护
+⭐ 27 · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/ilindaniel/impeccable-lite) · 个人维护
 
 **给编码 agent 的单一前端设计判断技能文件（SKILL.md）**
 
@@ -44,13 +44,13 @@ Impeccable 的独立精简衍生品：仅保留一个 SKILL.md 文件，内含�
 
 ```mermaid
 xychart-beta
-    title "ilindaniel/impeccable-lite 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-20"]
+    title "ilindaniel/impeccable-lite 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 25 --> 30
-    line [28, 29, 27, 26, 27, 28, 29, 28]
+    line [28, 29, 27, 26, 27, 28, 29, 28, 27]
 ```
 
-2026-10-18 28 → 2026-11-20 28（+0）
+2026-10-18 28 → 2026-11-21 27（-1）
 
 
 ---

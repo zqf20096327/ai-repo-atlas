@@ -1,6 +1,6 @@
 # hid276/rust-image-studio
 
-⭐ 7 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/hid276/rust-image-studio) · 个人维护
+⭐ 8 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/hid276/rust-image-studio) · 个人维护
 
 **给创作者和开发者的本地离线 AI 图像生成桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hid276/rust-image-studio 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 6, 7]
+    title "hid276/rust-image-studio 星数(近 5 点)"
+    x-axis ["2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 6, 7, 8]
 ```
 
-2026-11-11 3 → 2026-11-20 7（+4）
+2026-11-11 3 → 2026-11-21 8（+5）
 
 
 ---

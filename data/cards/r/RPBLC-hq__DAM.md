@@ -1,6 +1,6 @@
 # RPBLC-hq/DAM
 
-⭐ 11 · Rust · 推送 2026-09-15 · [GitHub](https://github.com/RPBLC-hq/DAM) · [官网](http://RPBLC.com/DAM) · 个人维护
+⭐ 12 · Rust · 推送 2026-09-15 · [GitHub](https://github.com/RPBLC-hq/DAM) · [官网](http://RPBLC.com/DAM) · 个人维护
 
 **本地隐私防火墙：拦截 AI agent 出站流量中的敏感数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RPBLC-hq/DAM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
+    title "RPBLC-hq/DAM 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-12", "2026-11-20", "2026-11-21"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 11]
+    line [11, 12, 11, 12]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 12（+1）
 
 
 ---

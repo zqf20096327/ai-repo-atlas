@@ -1,6 +1,6 @@
 # xiaofengShi/SPAR
 
-⭐ 28 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/xiaofengShi/SPAR) · [官网](https://arxiv.org/abs/2507.15245) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/xiaofengShi/SPAR) · [官网](https://arxiv.org/abs/2507.15245) · 个人维护 · 中文 README
 
 **面向学术检索的多智能体 LLM 框架：查询分解与引文感知搜索**
 
@@ -46,12 +46,12 @@ SPAR 是基于 LLM 多智能体的学术论文检索框架，组合 RefChain 式
 ```mermaid
 xychart-beta
     title "xiaofengShi/SPAR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-11-20 28（+0）
+2026-10-18 28 → 2026-11-21 29（+1）
 
 
 ---

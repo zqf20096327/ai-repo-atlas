@@ -1,6 +1,6 @@
 # edgeleap/diffsense
 
-⭐ 85 · Shell · MIT · 推送 2025-12-25 · [GitHub](https://github.com/edgeleap/diffsense) · [官网](https://edgeleap.github.io/) · 个人维护
+⭐ 86 · Shell · MIT · 推送 2025-12-25 · [GitHub](https://github.com/edgeleap/diffsense) · [官网](https://edgeleap.github.io/) · 个人维护
 
 **macOS 上本地生成 git commit message 的命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "edgeleap/diffsense 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 84 --> 87
+    line [85, 86]
 ```
 
-2026-10-18 85 → 2026-11-20 85（+0）
+2026-10-19 85 → 2026-11-21 86（+1）
 
 
 ---

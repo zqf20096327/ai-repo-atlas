@@ -1,6 +1,6 @@
 # HimanshuMohanty-Git24/gitaviswa
 
-⭐ 115 · Cypher · MIT · 推送 2026-11-06 · [GitHub](https://github.com/HimanshuMohanty-Git24/gitaviswa) · [官网](https://gitaviswa.vercel.app) · 个人维护
+⭐ 118 · Cypher · MIT · 推送 2026-11-06 · [GitHub](https://github.com/HimanshuMohanty-Git24/gitaviswa) · [官网](https://gitaviswa.vercel.app) · 个人维护
 
 **以 3D 知识图谱呈现《薄伽梵歌》的阅读与问答应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "HimanshuMohanty-Git24/gitaviswa 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 60 --> 120
-    line [65, 91, 95, 100, 103, 106, 110, 112, 114, 115]
+    title "HimanshuMohanty-Git24/gitaviswa 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 60 --> 123
+    line [65, 91, 95, 100, 103, 106, 110, 112, 114, 115, 118]
 ```
 
-2026-11-08 65 → 2026-11-20 115（+50）
+2026-11-08 65 → 2026-11-21 118（+53）
 
 
 ---

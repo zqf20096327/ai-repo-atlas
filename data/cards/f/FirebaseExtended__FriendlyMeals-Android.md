@@ -1,6 +1,6 @@
 # FirebaseExtended/FriendlyMeals-Android
 
-⭐ 26 · Kotlin · 推送 2026-11-18 · [GitHub](https://github.com/FirebaseExtended/FriendlyMeals-Android) · [官网](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnfwBe4WgEw9ao0J0N1LYDR) · 组织维护
+⭐ 27 · Kotlin · 推送 2026-11-18 · [GitHub](https://github.com/FirebaseExtended/FriendlyMeals-Android) · [官网](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnfwBe4WgEw9ao0J0N1LYDR) · 组织维护
 
 **Firebase Android 示例应用：演示集成 Firebase AI Logic 等 Firebase 功能**
 
@@ -45,13 +45,13 @@ Firebase 官方 quickstart 示例应用（配合 Firebase Fundamentals 视频系
 
 ```mermaid
 xychart-beta
-    title "FirebaseExtended/FriendlyMeals-Android 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 20 --> 27
-    line [21, 22, 23, 21, 23, 25, 26]
+    title "FirebaseExtended/FriendlyMeals-Android 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 20 --> 28
+    line [21, 22, 23, 21, 23, 25, 26, 27]
 ```
 
-2026-10-18 21 → 2026-11-20 26（+5）
+2026-10-19 21 → 2026-11-21 27（+6）
 
 
 ---

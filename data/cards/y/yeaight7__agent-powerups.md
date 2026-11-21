@@ -41,6 +41,18 @@
 > L44: - safe local CLI (`apx`) with runnable local checks
 > L72: 1. **Match first.** On Claude Code the host already lists skills natively — match the task to the narrowest fitting
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yeaight7/agent-powerups 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `0ad869fd78a5` · [字段定义](../../DATASET.md)*

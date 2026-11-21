@@ -1,6 +1,6 @@
 # avabbbb/Iris
 
-⭐ 146 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/avabbbb/Iris) · [官网](https://iris.avabbbb.com) · 个人维护 · 中文 README
+⭐ 146 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/avabbbb/Iris) · [官网](https://iris.avabbbb.com) · 个人维护 · 中文 README
 
 **开源无限画布 AgentOS：人与编码代理共同编辑的创意生成工具**
 
@@ -40,6 +40,18 @@ Iris（前身 Flovart）是一个开源、本地优先的创意工作流工具�
 > L5:  Iris — open-source AgentOS on an infinite canvas.
 > L37: **Keep the original. Describe the change. Compare candidates.** Iris brings your coding Agent and a visible creativ
 > L115: |Models|BYOK and multi-provider adapters, with capability-specific status|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "avabbbb/Iris 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 145 --> 147
+    line [146, 146]
+```
+
+2026-11-20 146 → 2026-11-21 146（+0）
 
 
 ---

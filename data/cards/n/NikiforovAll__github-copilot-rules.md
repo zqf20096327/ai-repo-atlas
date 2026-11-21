@@ -1,6 +1,6 @@
 # NikiforovAll/github-copilot-rules
 
-⭐ 136 · MDX · Apache-2.0 · 推送 2026-02-28 · [GitHub](https://github.com/NikiforovAll/github-copilot-rules) · [官网](http://nikiforovall.blog/github-copilot-rules/) · 个人维护
+⭐ 137 · MDX · Apache-2.0 · 推送 2026-02-28 · [GitHub](https://github.com/NikiforovAll/github-copilot-rules) · [官网](http://nikiforovall.blog/github-copilot-rules/) · 个人维护
 
 **GitHub Copilot 定制化规则合集：指令、提示词、agent 与技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NikiforovAll/github-copilot-rules 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 134 --> 137
-    line [135, 136, 136]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 134 --> 138
+    line [135, 136, 137]
 ```
 
-2026-10-18 135 → 2026-11-20 136（+1）
+2026-10-19 135 → 2026-11-21 137（+2）
 
 
 ---

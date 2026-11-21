@@ -1,6 +1,6 @@
 # miclaldogan/bantzv2
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/miclaldogan/bantzv2) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/miclaldogan/bantzv2) · 个人维护
 
 **Linux 本地优先的个人 AI 管家：语音、记忆、定时任务、桌面控制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "miclaldogan/bantzv2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-20 20（+1）
+2026-10-19 19 → 2026-11-21 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # qin-jingyun/Awesome-DiffComm
 
-⭐ 63 · JavaScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/qin-jingyun/Awesome-DiffComm) · [官网](https://qin-jingyun.github.io/Awesome-DiffComm) · 组织维护 · 中文 README
+⭐ 64 · JavaScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/qin-jingyun/Awesome-DiffComm) · [官网](https://qin-jingyun.github.io/Awesome-DiffComm) · 组织维护 · 中文 README
 
 **扩散模型语义通信教程配套的论文与资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qin-jingyun/Awesome-DiffComm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 62, 63, 63]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 62, 63, 64]
 ```
 
-2026-10-18 62 → 2026-11-20 63（+1）
+2026-10-19 62 → 2026-11-21 64（+2）
 
 
 ---

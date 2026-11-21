@@ -1,6 +1,6 @@
 # jamesrochabrun/SwiftOpenAI
 
-⭐ 666 · Swift · MIT · 推送 2026-10-05 · [GitHub](https://github.com/jamesrochabrun/SwiftOpenAI) · 个人维护
+⭐ 665 · Swift · MIT · 推送 2026-10-05 · [GitHub](https://github.com/jamesrochabrun/SwiftOpenAI) · 个人维护
 
 **Swift 开发者调用 OpenAI API 的开源 SDK 包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jamesrochabrun/SwiftOpenAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
     y-axis "stars" 664 --> 667
-    line [665, 666, 666]
+    line [665, 666, 665]
 ```
 
-2026-10-18 665 → 2026-11-20 666（+1）
+2026-10-19 665 → 2026-11-21 665（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # arcadeai-labs/agent-library
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/arcadeai-labs/agent-library) · [官网](https://arcadeai-labs.github.io/agent-library/) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/arcadeai-labs/agent-library) · [官网](https://arcadeai-labs.github.io/agent-library/) · 组织维护
 
 **给 AI agent 的个人知识库：MCP 服务器与 CLI，支持混合检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arcadeai-labs/agent-library 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 30 --> 35
-    line [31, 32, 33, 34, 34]
+    title "arcadeai-labs/agent-library 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 31 --> 36
+    line [32, 33, 34, 35]
 ```
 
-2026-10-18 31 → 2026-11-20 34（+3）
+2026-10-19 32 → 2026-11-21 35（+3）
 
 
 ---

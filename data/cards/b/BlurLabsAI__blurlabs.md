@@ -40,6 +40,18 @@ Blur Labs 开源的计算成像重建模型仓库。RAM 2（359M 参数）输入
 > L3: > Foundation models for computational imaging from Blur Labs: one network that reconstructs images from the measurem
 > L10: the reconstructed image.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BlurLabsAI/blurlabs 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 63 --> 65
+    line [64, 64]
+```
+
+2026-11-20 64 → 2026-11-21 64（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `3ea512e3ea46` · [字段定义](../../DATASET.md)*

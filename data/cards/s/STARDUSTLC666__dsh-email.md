@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-email
 
-⭐ 50 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/STARDUSTLC666/dsh-email) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 51 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/STARDUSTLC666/dsh-email) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的邮件工作台插件：收发邮件、草稿确认后发送**
 
@@ -44,13 +44,13 @@ DSH（DeepSeek Harness）的邮件插件：支持 IMAP/POP3/SMTP、Google/Outloo
 
 ```mermaid
 xychart-beta
-    title "STARDUSTLC666/dsh-email 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 47 --> 51
-    line [48, 49, 50]
+    title "STARDUSTLC666/dsh-email 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 47 --> 52
+    line [48, 49, 50, 51]
 ```
 
-2026-11-18 48 → 2026-11-20 50（+2）
+2026-11-18 48 → 2026-11-21 51（+3）
 
 
 ---

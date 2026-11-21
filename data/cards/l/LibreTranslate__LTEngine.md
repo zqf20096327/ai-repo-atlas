@@ -1,6 +1,6 @@
 # LibreTranslate/LTEngine
 
-⭐ 214 · Rust · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/LibreTranslate/LTEngine) · 组织维护
+⭐ 214 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/LibreTranslate/LTEngine) · 组织维护
 
 **本地 LLM 机器翻译 API 服务，兼容 LibreTranslate 接口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LibreTranslate/LTEngine 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 208 --> 215
     line [210, 209, 210, 211, 212, 210, 214, 214]
 ```
 
-2026-10-18 210 → 2026-11-20 214（+4）
+2026-10-19 210 → 2026-11-21 214（+4）
 
 
 ---

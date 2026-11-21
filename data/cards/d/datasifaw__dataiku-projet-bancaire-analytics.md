@@ -1,6 +1,6 @@
 # datasifaw/dataiku-projet-bancaire-analytics
 
-⭐ 103 · 推送 2026-11-07 · [GitHub](https://github.com/datasifaw/dataiku-projet-bancaire-analytics) · 个人维护
+⭐ 104 · 推送 2026-11-07 · [GitHub](https://github.com/datasifaw/dataiku-projet-bancaire-analytics) · 个人维护
 
 **基于 Dataiku 的银行数据分析端到端项目**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "datasifaw/dataiku-projet-bancaire-analytics 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 0 --> 112
-    line [7, 8, 97, 99, 100, 99, 8, 100, 101, 103]
+    title "datasifaw/dataiku-projet-bancaire-analytics 星数(近 11 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 0 --> 113
+    line [7, 8, 97, 99, 100, 99, 8, 100, 101, 103, 104]
 ```
 
-2026-10-19 7 → 2026-11-20 103（+96）
+2026-10-19 7 → 2026-11-21 104（+97）
 
 
 ---

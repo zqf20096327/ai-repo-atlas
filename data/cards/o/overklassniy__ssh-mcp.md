@@ -1,6 +1,6 @@
 # overklassniy/ssh-mcp
 
-⭐ 33 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/overklassniy/ssh-mcp) · 个人维护
+⭐ 34 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/overklassniy/ssh-mcp) · 个人维护
 
 **给 AI 助手用的受限 SSH MCP 服务器：远程执行命令与传文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "overklassniy/ssh-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "overklassniy/ssh-mcp 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 32 → 2026-11-20 33（+1）
+2026-10-19 33 → 2026-11-21 34（+1）
 
 
 ---

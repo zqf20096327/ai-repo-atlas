@@ -1,6 +1,6 @@
 # Someblueman/hydra
 
-⭐ 28 · C · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Someblueman/hydra) · 个人维护
+⭐ 28 · C · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Someblueman/hydra) · 个人维护
 
 **管理并行 AI 编码代理会话的 CLI/TUI 任务控制台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Someblueman/hydra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-20 28（+0）
+2026-10-19 28 → 2026-11-21 28（+0）
 
 
 ---

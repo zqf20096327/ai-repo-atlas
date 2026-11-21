@@ -1,6 +1,6 @@
 # daavoo/pyntcloud
 
-⭐ 1,506 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/daavoo/pyntcloud) · [官网](http://pyntcloud.readthedocs.io) · 个人维护
+⭐ 1,507 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/daavoo/pyntcloud) · [官网](http://pyntcloud.readthedocs.io) · 个人维护
 
 **Python 3D 点云处理库：读取、处理、转换点云数据**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "daavoo/pyntcloud 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1505 --> 1509
-    line [1507, 1508, 1507, 1508, 1507, 1506]
+    line [1508, 1507, 1508, 1507, 1506, 1507]
 ```
 
-2026-10-18 1,507 → 2026-11-20 1,506（-1）
+2026-10-19 1,508 → 2026-11-21 1,507（-1）
 
 
 ---

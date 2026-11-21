@@ -1,6 +1,6 @@
 # Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero
 
-⭐ 318 · Jupyter Notebook · MIT · 推送 2026-01-21 · [GitHub](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero) · [官网](https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/) · 组织维护
+⭐ 317 · Jupyter Notebook · MIT · 推送 2026-01-21 · [GitHub](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero) · [官网](https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/) · 组织维护
 
 **树莓派 AI Kit 从入门到进阶的计算机视觉/LLM 教程课程**
 
@@ -45,12 +45,12 @@ Seeed Projects 维护的分章教程仓库：教授在 Raspberry Pi 上利用 AI
 ```mermaid
 xychart-beta
     title "Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 313 --> 319
-    line [314, 315, 316, 317, 315, 317, 318, 318]
+    line [314, 315, 316, 317, 315, 317, 318, 317]
 ```
 
-2026-10-18 314 → 2026-11-20 318（+4）
+2026-10-19 314 → 2026-11-21 317（+3）
 
 
 ---

@@ -45,12 +45,12 @@ Sysdig 官方维护的 MCP Server 实现，将 Sysdig Monitor 的 Kubernetes 与
 ```mermaid
 xychart-beta
     title "sysdiglabs/sysdig-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 14（+0）
 
 
 ---

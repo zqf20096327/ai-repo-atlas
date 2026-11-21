@@ -1,6 +1,6 @@
 # deepset-ai/haystack-home
 
-⭐ 24 · HTML · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/deepset-ai/haystack-home) · [官网](https://haystack.deepset.ai) · 组织维护
+⭐ 24 · HTML · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/deepset-ai/haystack-home) · [官网](https://haystack.deepset.ai) · 组织维护
 
 **Haystack 官网仓库：用 Hugo 构建静态网站源码与贡献指南**
 
@@ -45,12 +45,12 @@ deepset-ai 维护的 Haystack（开源 LLM 框架）官方网站的内容仓库�
 ```mermaid
 xychart-beta
     title "deepset-ai/haystack-home 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-20 24（+0）
+2026-10-19 24 → 2026-11-21 24（+0）
 
 
 ---

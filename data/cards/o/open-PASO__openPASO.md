@@ -44,13 +44,13 @@ open Platform for Agentic Simulation and Optimization：一个 MCP server，把 
 
 ```mermaid
 xychart-beta
-    title "open-PASO/openPASO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "open-PASO/openPASO 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
 ```
 
-2026-10-18 28 → 2026-11-20 29（+1）
+2026-10-19 29 → 2026-11-21 29（+0）
 
 
 ---

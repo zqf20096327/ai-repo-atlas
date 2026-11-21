@@ -1,6 +1,6 @@
 # cair/TsetlinMachine
 
-⭐ 509 · Cython · MIT · 推送 2026-02-10 · [GitHub](https://github.com/cair/TsetlinMachine) · [官网](https://arxiv.org/abs/1804.01508) · 组织维护
+⭐ 510 · Cython · MIT · 推送 2026-02-10 · [GitHub](https://github.com/cair/TsetlinMachine) · [官网](https://arxiv.org/abs/1804.01508) · 组织维护
 
 **Tsetlin Machine 原始实现：用可解释命题公式做模式识别的机器学习代码与数据集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cair/TsetlinMachine 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-16", "2026-11-20"]
+    title "cair/TsetlinMachine 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 507 --> 511
-    line [508, 509, 508, 509, 510, 509]
+    line [508, 509, 508, 509, 510, 509, 510]
 ```
 
-2026-10-18 508 → 2026-11-20 509（+1）
+2026-10-19 508 → 2026-11-21 510（+2）
 
 
 ---

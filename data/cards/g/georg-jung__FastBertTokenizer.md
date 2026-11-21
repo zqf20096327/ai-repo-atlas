@@ -1,6 +1,6 @@
 # georg-jung/FastBertTokenizer
 
-⭐ 55 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/georg-jung/FastBertTokenizer) · [官网](https://fastberttokenizer.gjung.com/) · 个人维护
+⭐ 55 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/georg-jung/FastBertTokenizer) · [官网](https://fastberttokenizer.gjung.com/) · 个人维护
 
 **.NET 平台的 BERT WordPiece 分词库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "georg-jung/FastBertTokenizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-11-20 55（+0）
+2026-10-19 55 → 2026-11-21 55（+0）
 
 
 ---

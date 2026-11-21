@@ -1,6 +1,6 @@
 # LukasZahradnik/PyNeuraLogic
 
-⭐ 315 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/LukasZahradnik/PyNeuraLogic) · [官网](https://pyneuralogic.readthedocs.io/) · 个人维护
+⭐ 314 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/LukasZahradnik/PyNeuraLogic) · [官网](https://pyneuralogic.readthedocs.io/) · 个人维护
 
 **Python 可微逻辑编程框架，用逻辑规则构建深度学习模型**
 
@@ -46,12 +46,12 @@ PyNeuraLogic 是一个基于 Python 的可微逻辑编程框架，通过 NeuraLo
 ```mermaid
 xychart-beta
     title "LukasZahradnik/PyNeuraLogic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-10", "2026-11-21"]
     y-axis "stars" 312 --> 316
-    line [313, 314, 315, 315]
+    line [313, 314, 315, 314]
 ```
 
-2026-10-18 313 → 2026-11-20 315（+2）
+2026-10-19 313 → 2026-11-21 314（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # optuna/optunahub-registry
 
-⭐ 60 · Jupyter Notebook · MIT · 推送 2026-11-12 · [GitHub](https://github.com/optuna/optunahub-registry) · [官网](https://hub.optuna.org) · 组织维护
+⭐ 60 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/optuna/optunahub-registry) · [官网](https://hub.optuna.org) · 组织维护
 
 **Optuna 优化包的共享与发现注册表服务**
 
@@ -45,12 +45,12 @@ Optuna 官方组织的注册表仓库：为用户自定义 Optuna 包（采样�
 ```mermaid
 xychart-beta
     title "optuna/optunahub-registry 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-16", "2026-11-21"]
     y-axis "stars" 57 --> 61
     line [58, 59, 60, 60]
 ```
 
-2026-10-18 58 → 2026-11-20 60（+2）
+2026-10-19 58 → 2026-11-21 60（+2）
 
 
 ---

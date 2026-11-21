@@ -1,6 +1,6 @@
 # arclab-hku/DEIO
 
-⭐ 121 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/arclab-hku/DEIO) · [官网](https://kwanwaipang.github.io/DEIO/) · 组织维护
+⭐ 122 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/arclab-hku/DEIO) · [官网](https://kwanwaipang.github.io/DEIO/) · 组织维护
 
 **首个单目学习型事件-惯性里程计，输出高鲁棒位姿估计**
 
@@ -45,12 +45,12 @@ ICCV 2025 论文的官方代码实现：基于事件相机的循环网络，在�
 ```mermaid
 xychart-beta
     title "arclab-hku/DEIO 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 117 --> 122
-    line [118, 119, 121, 121]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 117 --> 123
+    line [118, 119, 121, 122]
 ```
 
-2026-10-18 118 → 2026-11-20 121（+3）
+2026-10-19 118 → 2026-11-21 122（+4）
 
 
 ---

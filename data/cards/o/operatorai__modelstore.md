@@ -1,6 +1,6 @@
 # operatorai/modelstore
 
-⭐ 404 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/operatorai/modelstore) · 个人维护
+⭐ 402 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/operatorai/modelstore) · 个人维护
 
 **Python 模型注册库：对机器学习模型做版本化、导出与存取**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "operatorai/modelstore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 402 --> 405
-    line [403, 404, 404]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 401 --> 405
+    line [403, 404, 402]
 ```
 
-2026-10-18 403 → 2026-11-20 404（+1）
+2026-10-19 403 → 2026-11-21 402（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # alpozaydin/neatly
 
-⭐ 12 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/alpozaydin/neatly) · [官网](https://alpozaydin.github.io/neatly/) · 个人维护
+⭐ 14 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/alpozaydin/neatly) · [官网](https://alpozaydin.github.io/neatly/) · 个人维护
 
 **macOS 菜单栏 AI 文件重命名器：自动给下载/截图/照片起名并归类**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alpozaydin/neatly 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 8 --> 13
-    line [9, 10, 11, 12]
+    title "alpozaydin/neatly 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 8 --> 15
+    line [9, 10, 11, 12, 14]
 ```
 
-2026-11-16 9 → 2026-11-20 12（+3）
+2026-11-16 9 → 2026-11-21 14（+5）
 
 
 ---

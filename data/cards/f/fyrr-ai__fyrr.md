@@ -1,6 +1,6 @@
 # fyrr-ai/fyrr
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/fyrr-ai/fyrr) · [官网](https://fyrr.dev) · 组织维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/fyrr-ai/fyrr) · [官网](https://fyrr.dev) · 组织维护
 
 **给 AI agent 提供权限感知检索的无服务器上下文层**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fyrr-ai/fyrr 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-19", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-19 10 → 2026-11-20 10（+0）
+2026-11-19 10 → 2026-11-21 11（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kunwarVivek/mcp-github-project-manager 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 101 --> 106
-    line [102, 104, 105, 105]
+    title "kunwarVivek/mcp-github-project-manager 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 103 --> 106
+    line [104, 105, 105]
 ```
 
-2026-10-18 102 → 2026-11-20 105（+3）
+2026-10-19 104 → 2026-11-21 105（+1）
 
 
 ---

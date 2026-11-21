@@ -44,12 +44,12 @@ SiriusOne 公司发布的 Agent Skills 仓库，遵循 Agent Skills 格式（SKI
 ```mermaid
 xychart-beta
     title "SIRIUSONE-TECH/skills 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-08 17 → 2026-11-20 17（+0）
+2026-11-08 17 → 2026-11-21 17（+0）
 
 
 ---

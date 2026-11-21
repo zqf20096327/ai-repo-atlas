@@ -1,6 +1,6 @@
 # xzyy03/Muse
 
-⭐ 14 · Kotlin · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/xzyy03/Muse) · [官网](https://xzyy03.github.io/Muse/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Android 上的 AI Coding Agent 应用（miuix 风格 UI 二改版）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

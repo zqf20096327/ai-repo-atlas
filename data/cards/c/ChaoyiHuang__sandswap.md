@@ -1,6 +1,6 @@
 # ChaoyiHuang/sandswap
 
-⭐ 6 · Go · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/ChaoyiHuang/sandswap) · [官网](https://chaoyihuang.github.io/sandswap/) · 个人维护 · 中文 README
+⭐ 7 · Go · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ChaoyiHuang/sandswap) · [官网](https://chaoyihuang.github.io/sandswap/) · 个人维护 · 中文 README
 
 **为 AI agent 提供毫秒级复用的 KVM microVM 沙箱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChaoyiHuang/sandswap 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6]
+    title "ChaoyiHuang/sandswap 星数(近 4 点)"
+    x-axis ["2026-11-12", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 3 --> 8
+    line [4, 5, 6, 7]
 ```
 
-2026-11-12 4 → 2026-11-20 6（+2）
+2026-11-12 4 → 2026-11-21 7（+3）
 
 
 ---

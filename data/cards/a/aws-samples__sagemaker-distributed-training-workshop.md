@@ -44,12 +44,12 @@ AWS 官方 samples 组织发布的动手研讨会材料，包含数据并行与�
 ```mermaid
 xychart-beta
     title "aws-samples/sagemaker-distributed-training-workshop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
     y-axis "stars" 152 --> 155
     line [154, 153, 153]
 ```
 
-2026-10-18 154 → 2026-11-20 153（-1）
+2026-10-19 154 → 2026-11-21 153（-1）
 
 
 ---

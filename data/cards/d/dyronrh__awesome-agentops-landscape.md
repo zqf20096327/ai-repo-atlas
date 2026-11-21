@@ -1,6 +1,6 @@
 # dyronrh/awesome-agentops-landscape
 
-⭐ 25 · Python · 推送 2026-11-19 · [GitHub](https://github.com/dyronrh/awesome-agentops-landscape) · [官网](https://github.com/dyronrh/awesome-agentops-landscape) · 个人维护
+⭐ 25 · Python · 推送 2026-11-20 · [GitHub](https://github.com/dyronrh/awesome-agentops-landscape) · [官网](https://github.com/dyronrh/awesome-agentops-landscape) · 个人维护
 
 **AgentOps 工具策展清单：LLM agent 的观测、评测与护栏工具目录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dyronrh/awesome-agentops-landscape 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-20"]
+    title "dyronrh/awesome-agentops-landscape 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25]
+    line [22, 23, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-20 25（+3）
+2026-10-19 22 → 2026-11-21 25（+3）
 
 
 ---

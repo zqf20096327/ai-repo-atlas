@@ -1,6 +1,6 @@
 # BoltAI/Inka
 
-⭐ 30 · Kotlin · MIT · 推送 2026-08-14 · [GitHub](https://github.com/BoltAI/Inka) · [官网](https://inka.page) · 个人维护
+⭐ 31 · Kotlin · MIT · 推送 2026-08-14 · [GitHub](https://github.com/BoltAI/Inka) · [官网](https://inka.page) · 个人维护
 
 **BOOX 墨水屏平板的原生 Android AI 手写对话日记本**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "BoltAI/Inka 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "BoltAI/Inka 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 29 → 2026-11-20 30（+1）
+2026-10-19 30 → 2026-11-21 31（+1）
 
 
 ---

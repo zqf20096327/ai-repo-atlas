@@ -1,6 +1,6 @@
 # taovietducofficial/OpenTechNotes
 
-⭐ 114 · 推送 2026-11-19 · [GitHub](https://github.com/taovietducofficial/OpenTechNotes) · [官网](https://www.facebook.com/CODE4LIFEOFFICIAL) · 个人维护 · 中文 README
+⭐ 115 · 推送 2026-11-20 · [GitHub](https://github.com/taovietducofficial/OpenTechNotes) · [官网](https://www.facebook.com/CODE4LIFEOFFICIAL) · 个人维护 · 中文 README
 
 **面向 IT 学习者的开源技术笔记与学习资源合集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "taovietducofficial/OpenTechNotes 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 66 --> 118
-    line [70, 71, 72, 70, 95, 100, 102, 104, 106, 111, 114]
+    title "taovietducofficial/OpenTechNotes 星数(近 12 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 66 --> 119
+    line [70, 71, 72, 70, 95, 100, 102, 104, 106, 111, 114, 115]
 ```
 
-2026-10-18 70 → 2026-11-20 114（+44）
+2026-10-19 70 → 2026-11-21 115（+45）
 
 
 ---

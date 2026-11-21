@@ -1,6 +1,6 @@
 # joeygoesgrey/Linkedln-Automation-Framework
 
-⭐ 28 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/joeygoesgrey/Linkedln-Automation-Framework) · [官网](https://laf-ui.vercel.app/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/joeygoesgrey/Linkedln-Automation-Framework) · [官网](https://laf-ui.vercel.app/) · 个人维护
 
 **Selenium 驱动的 LinkedIn 自动化框架：发帖、互动与 AI 评论**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "joeygoesgrey/Linkedln-Automation-Framework 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-21"]
     y-axis "stars" 25 --> 29
-    line [26, 27, 28, 28]
+    line [26, 27, 28, 27]
 ```
 
-2026-10-18 26 → 2026-11-20 28（+2）
+2026-10-19 26 → 2026-11-21 27（+1）
 
 
 ---

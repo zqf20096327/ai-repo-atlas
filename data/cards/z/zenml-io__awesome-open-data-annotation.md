@@ -1,6 +1,6 @@
 # zenml-io/awesome-open-data-annotation
 
-⭐ 737 · MIT · 推送 2026-07-06 · [GitHub](https://github.com/zenml-io/awesome-open-data-annotation) · 组织维护
+⭐ 736 · MIT · 推送 2026-07-06 · [GitHub](https://github.com/zenml-io/awesome-open-data-annotation) · 组织维护
 
 **开源数据标注与打标工具策展清单（ZenML 维护）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zenml-io/awesome-open-data-annotation 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21"]
     y-axis "stars" 731 --> 738
-    line [732, 733, 734, 733, 734, 736, 737, 737]
+    line [732, 733, 734, 733, 734, 736, 737, 736]
 ```
 
-2026-10-18 732 → 2026-11-20 737（+5）
+2026-10-19 732 → 2026-11-21 736（+4）
 
 
 ---

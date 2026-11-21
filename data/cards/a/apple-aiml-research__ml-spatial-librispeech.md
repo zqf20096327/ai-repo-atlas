@@ -45,12 +45,12 @@ Apple ML Research 发布的空间音频合成数据集：基于 LibriSpeech 语�
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-spatial-librispeech 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-14", "2026-11-21"]
     y-axis "stars" 129 --> 132
     line [130, 131, 131]
 ```
 
-2026-10-18 130 → 2026-11-20 131（+1）
+2026-10-19 130 → 2026-11-21 131（+1）
 
 
 ---

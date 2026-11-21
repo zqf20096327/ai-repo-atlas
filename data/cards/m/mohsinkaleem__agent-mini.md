@@ -1,6 +1,6 @@
 # mohsinkaleem/agent-mini
 
-⭐ 26 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/mohsinkaleem/agent-mini) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mohsinkaleem/agent-mini) · [官网](https://mohsinkaleem.github.io/agent-mini/) · 个人维护
 
 **本地优先的轻量 CLI AI agent：shell/文件/网络/记忆工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mohsinkaleem/agent-mini 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 18 --> 27
-    line [19, 20, 21, 22, 24, 25, 26]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 19 --> 27
+    line [20, 21, 22, 24, 25, 26, 26]
 ```
 
-2026-10-18 19 → 2026-11-20 26（+7）
+2026-10-19 20 → 2026-11-21 26（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/AgentSchema
 
-⭐ 27 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/microsoft/AgentSchema) · 组织维护
+⭐ 28 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/microsoft/AgentSchema) · 组织维护
 
 **微软的声明式 Agent 规范：用 YAML 定义 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/AgentSchema 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-11-20 27（+1）
+2026-10-18 26 → 2026-11-21 28（+2）
 
 
 ---

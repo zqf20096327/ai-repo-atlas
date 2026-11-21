@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Stellaryz/Deep-Live-Cam-Bypass-Id-Verification-2fa-User-Face 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "Stellaryz/Deep-Live-Cam-Bypass-Id-Verification-2fa-User-Face 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-20 19（+2）
+2026-10-19 18 → 2026-11-21 19（+1）
 
 
 ---

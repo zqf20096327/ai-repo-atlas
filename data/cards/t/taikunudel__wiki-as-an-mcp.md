@@ -1,6 +1,6 @@
 # taikunudel/wiki-as-an-mcp
 
-⭐ 42 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/taikunudel/wiki-as-an-mcp) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/taikunudel/wiki-as-an-mcp) · 个人维护 · 中文 README
 
 **首个通用 Wiki MCP：让 agent 读写、维护与体检个人知识库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "taikunudel/wiki-as-an-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 41 --> 45
-    line [44, 42]
+    title "taikunudel/wiki-as-an-mcp 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 40 --> 45
+    line [44, 42, 41]
 ```
 
-2026-10-18 44 → 2026-11-20 42（-2）
+2026-10-19 44 → 2026-11-21 41（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # sunyuzheng/lizheng-open-context
 
-⭐ 173 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/sunyuzheng/lizheng-open-context) · [官网](https://www.superlinear.academy/community) · 个人维护 · 中文 README
+⭐ 173 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/sunyuzheng/lizheng-open-context) · [官网](https://www.superlinear.academy/community) · 个人维护 · 中文 README
 
 **立正公开资料库：原文/字幕/提炼的可检索引用数据集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunyuzheng/lizheng-open-context 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 145 --> 175
-    line [147, 150, 151, 152, 154, 155, 158, 152, 163, 169, 171, 173, 173]
+    title "sunyuzheng/lizheng-open-context 星数(近 12 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 148 --> 175
+    line [150, 151, 152, 154, 155, 158, 152, 163, 169, 171, 173, 173]
 ```
 
-2026-10-18 147 → 2026-11-20 173（+26）
+2026-10-19 150 → 2026-11-21 173（+23）
 
 
 ---

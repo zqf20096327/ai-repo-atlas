@@ -1,6 +1,6 @@
 # stefanoginella/aicontainer
 
-⭐ 23 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/stefanoginella/aicontainer) · [官网](https://www.npmjs.com/package/aicontainer) · 个人维护
+⭐ 23 · Shell · MIT · 推送 2026-11-20 · [GitHub](https://github.com/stefanoginella/aicontainer) · [官网](https://www.npmjs.com/package/aicontainer) · 个人维护
 
 **沙箱化 devcontainer：安全运行开启自动批准的 AI 编程 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stefanoginella/aicontainer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-13", "2026-11-21"]
     y-axis "stars" 20 --> 24
     line [21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-20 23（+2）
+2026-10-19 21 → 2026-11-21 23（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # KlockTX/KlockUI
 
-⭐ 18 · JavaScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/KlockTX/KlockUI) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/KlockTX/KlockUI) · [官网](https://github.com/KlockTX/KlockUI/releases/latest) · 个人维护 · 中文 README
 
 **本地 AI 出图工作台：把 ComfyUI 封装成表单式界面**
 
@@ -41,6 +41,18 @@
 > L3: **把 ComfyUI 包成一个能直接用的本地出图工作台。** 填提示词、点生成，其余全在界面上。
 > L44: 选定底模，采样器、调度器、步数、CFG、shift、文本编码器类型、VAE 全部自动就位。
 > L136: 三个进程都在本机：浏览器只是界面，KlockUI 负责把表单翻译成节点图，ComfyUI 执行，GPU 出图。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KlockTX/KlockUI 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 17 --> 25
+    line [18, 24]
+```
+
+2026-11-20 18 → 2026-11-21 24（+6）
 
 
 ---

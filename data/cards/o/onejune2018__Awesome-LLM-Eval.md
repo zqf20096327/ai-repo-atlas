@@ -1,6 +1,6 @@
 # onejune2018/Awesome-LLM-Eval
 
-⭐ 661 · MIT · 推送 2025-11-24 · [GitHub](https://github.com/onejune2018/Awesome-LLM-Eval) · [官网](https://arxiv.org/abs/2508.18646) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **LLM 评测工具、基准与数据集的精选清单（附综述论文）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

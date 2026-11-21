@@ -46,12 +46,12 @@ Alpha Signal Crypto 是自托管的加密货币交易框架：通过 TweetCatche
 ```mermaid
 xychart-beta
     title "Alpha-Labs-Inc/Alpha-Signal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-19 12 → 2026-11-21 12（+0）
 
 
 ---

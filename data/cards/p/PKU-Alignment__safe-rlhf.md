@@ -1,6 +1,6 @@
 # PKU-Alignment/safe-rlhf
 
-⭐ 1,624 · Python · Apache-2.0 · 推送 2025-11-24 · [GitHub](https://github.com/PKU-Alignment/safe-rlhf) · [官网](https://pku-beaver.github.io) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向约束价值对齐研究的 Safe RLHF 训练框架与数据集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

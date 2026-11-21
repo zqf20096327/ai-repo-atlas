@@ -45,13 +45,13 @@ libxsmm 组织维护的 out-of-tree MLIR 方言项目：用 MLIR 自动为线性
 
 ```mermaid
 xychart-beta
-    title "libxsmm/tpp-mlir 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 164 --> 167
-    line [165, 166, 166]
+    title "libxsmm/tpp-mlir 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 165 --> 167
+    line [166, 166]
 ```
 
-2026-10-18 165 → 2026-11-20 166（+1）
+2026-10-19 166 → 2026-11-21 166（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tenurehq/precisionMemBench
 
-⭐ 19 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/tenurehq/precisionMemBench) · [官网](https://tenureai.dev/benchmark) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/tenurehq/precisionMemBench) · [官网](https://tenureai.dev/benchmark) · 组织维护
 
 **LLM 记忆系统检索基准：测精度/噪声隔离/延迟/可变性**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tenurehq/precisionMemBench 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 19, 19]
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-11-20 19（+1）
+2026-10-19 18 → 2026-11-21 20（+2）
 
 
 ---

@@ -41,6 +41,18 @@
 > L32: 1. **Instant AI Detection**: High-resolution waste localization and classification across five material categories.
 > L61: |**YOLO11s Detection Engine**|Real-time object detection at 768px (`E002` baseline & `E004` CoarseDropout) classify
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TheVicky1/Safai_OS 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-11-20 16 → 2026-11-21 16（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `8473b0a8310b` · [字段定义](../../DATASET.md)*

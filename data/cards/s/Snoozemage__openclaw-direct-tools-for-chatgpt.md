@@ -1,6 +1,6 @@
 # Snoozemage/openclaw-direct-tools-for-chatgpt
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Snoozemage/openclaw-direct-tools-for-chatgpt) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Snoozemage/openclaw-direct-tools-for-chatgpt) · 个人维护
 
 **让 ChatGPT 直接调用本地 OpenClaw 工具的 MCP 桥接器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Snoozemage/openclaw-direct-tools-for-chatgpt 星数(近 8 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 2 --> 11
-    line [3, 4, 5, 6, 7, 9, 10, 10]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 2 --> 12
+    line [3, 4, 5, 6, 7, 9, 10, 11]
 ```
 
-2026-10-28 3 → 2026-11-20 10（+7）
+2026-10-28 3 → 2026-11-21 11（+8）
 
 
 ---

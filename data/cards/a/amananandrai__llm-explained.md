@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amananandrai/llm-explained 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-16", "2026-11-21"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-16 6 → 2026-11-20 6（+0）
+2026-11-16 6 → 2026-11-21 6（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Cloud-Cad-Ai/solidworks-mcp
 
-⭐ 8 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/Cloud-Cad-Ai/solidworks-mcp) · [官网](https://www.cloudcadai.com/product/solidworks-mcp/) · 组织维护
+⭐ 8 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Cloud-Cad-Ai/solidworks-mcp) · [官网](https://www.cloudcadai.com/product/solidworks-mcp/) · 组织维护
 
 **让 Claude/Cursor/Codex 用自然语言操控 SolidWorks 的本地 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Cloud-Cad-Ai/solidworks-mcp 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-21"]
     y-axis "stars" 3 --> 9
     line [4, 5, 6, 7, 8, 8]
 ```
 
-2026-11-08 4 → 2026-11-20 8（+4）
+2026-11-08 4 → 2026-11-21 8（+4）
 
 
 ---

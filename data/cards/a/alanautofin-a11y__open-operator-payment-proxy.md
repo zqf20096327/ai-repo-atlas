@@ -1,6 +1,6 @@
 # alanautofin-a11y/open-operator-payment-proxy
 
-⭐ 75 · 推送 2026-11-02 · [GitHub](https://github.com/alanautofin-a11y/open-operator-payment-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 78 · 推送 2026-11-02 · [GitHub](https://github.com/alanautofin-a11y/open-operator-payment-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向 AI Agent 支付场景的 CoreGold 虚拟卡介绍文档**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "alanautofin-a11y/open-operator-payment-proxy 星数(近 9 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
     y-axis "stars" 0 --> 85
-    line [4, 33, 53, 67, 72, 78, 77, 75, 75]
+    line [4, 33, 53, 67, 72, 78, 77, 75, 78]
 ```
 
-2026-11-02 4 → 2026-11-20 75（+71）
+2026-11-02 4 → 2026-11-21 78（+74）
 
 
 ---

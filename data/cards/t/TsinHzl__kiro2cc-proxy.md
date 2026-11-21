@@ -1,6 +1,6 @@
 # TsinHzl/kiro2cc-proxy
 
-⭐ 357 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/TsinHzl/kiro2cc-proxy) · 个人维护 · 中文 README
+⭐ 358 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/TsinHzl/kiro2cc-proxy) · 个人维护 · 中文 README
 
 **把 Kiro 账号模型代理给 Claude Code/Codex 的 Rust 代理服务**
 
@@ -45,13 +45,13 @@ Rust 编写的本地/服务器代理服务：将标准 Anthropic Claude API 及 
 
 ```mermaid
 xychart-beta
-    title "TsinHzl/kiro2cc-proxy 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 354 --> 358
-    line [355, 356, 357]
+    title "TsinHzl/kiro2cc-proxy 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 354 --> 359
+    line [355, 356, 357, 358]
 ```
 
-2026-11-18 355 → 2026-11-20 357（+2）
+2026-11-18 355 → 2026-11-21 358（+3）
 
 
 ---

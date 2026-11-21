@@ -1,6 +1,6 @@
 # geekjourneyx/ai-daily-skill
 
-⭐ 239 · Python · 推送 2026-11-19 · [GitHub](https://github.com/geekjourneyx/ai-daily-skill) · [官网](https://geekjourney.dev) · 个人维护 · 中文 README
+⭐ 239 · Python · 推送 2026-11-20 · [GitHub](https://github.com/geekjourneyx/ai-daily-skill) · [官网](https://geekjourney.dev) · 个人维护 · 中文 README
 
 **在 Claude Code 中获取并归类 AI 资讯日报的 Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "geekjourneyx/ai-daily-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 236 --> 240
     line [237, 238, 237, 239, 239]
 ```
 
-2026-10-18 237 → 2026-11-20 239（+2）
+2026-10-19 237 → 2026-11-21 239（+2）
 
 
 ---

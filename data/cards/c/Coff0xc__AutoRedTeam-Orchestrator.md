@@ -1,6 +1,6 @@
 # Coff0xc/AutoRedTeam-Orchestrator
 
-⭐ 271 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) · 个人维护 · 中文 README
+⭐ 272 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) · 个人维护 · 中文 README
 
 **面向授权测试与 AI/MCP 攻击面自审的 MCP-native 安全自动化工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Coff0xc/AutoRedTeam-Orchestrator 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 266 --> 272
-    line [267, 268, 267, 269, 270, 271, 271]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 266 --> 273
+    line [267, 268, 267, 269, 270, 271, 272]
 ```
 
-2026-10-18 267 → 2026-11-20 271（+4）
+2026-10-18 267 → 2026-11-21 272（+5）
 
 
 ---

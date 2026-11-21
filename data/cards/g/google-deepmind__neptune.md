@@ -45,13 +45,13 @@ DeepMind 维护的视频 QA 数据集集合，包含四个基准：Minerva-cultu
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/neptune 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 98 --> 101
-    line [99, 100, 100]
+    title "google-deepmind/neptune 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 99 --> 101
+    line [100, 100]
 ```
 
-2026-10-18 99 → 2026-11-20 100（+1）
+2026-10-19 100 → 2026-11-21 100（+0）
 
 
 ---

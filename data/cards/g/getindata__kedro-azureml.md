@@ -1,6 +1,6 @@
 # getindata/kedro-azureml
 
-⭐ 40 · Python · Apache-2.0 · 推送 2025-11-24 · [GitHub](https://github.com/getindata/kedro-azureml) · [官网](https://kedro-azureml.readthedocs.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在 Azure ML Pipelines 上运行 Kedro 工作流的插件**
 
@@ -11,7 +11,7 @@ Kedro 插件，将 Kedro 流水线提交到 Microsoft Azure ML Pipelines 服务�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

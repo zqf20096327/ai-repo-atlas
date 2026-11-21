@@ -1,6 +1,6 @@
 # Carasibana/NarrativeNode
 
-⭐ 16 · JavaScript · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/Carasibana/NarrativeNode) · [官网](https://carasibana.github.io/NarrativeNode/) · 个人维护
+⭐ 17 · JavaScript · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/Carasibana/NarrativeNode) · [官网](https://carasibana.github.io/NarrativeNode/) · 个人维护
 
 **面向写作者的节点式剧情可视化规划工具，AI 集成完全可选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Carasibana/NarrativeNode 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 14, 15, 16, 16]
+    title "Carasibana/NarrativeNode 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 16, 17]
 ```
 
-2026-10-18 12 → 2026-11-20 16（+4）
+2026-10-19 13 → 2026-11-21 17（+4）
 
 
 ---

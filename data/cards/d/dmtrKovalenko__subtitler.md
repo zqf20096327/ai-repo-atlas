@@ -1,6 +1,6 @@
 # dmtrKovalenko/subtitler
 
-⭐ 390 · ReScript · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/dmtrKovalenko/subtitler) · [官网](https://subtitles.fframes.studio) · 个人维护
+⭐ 389 · ReScript · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/dmtrKovalenko/subtitler) · [官网](https://subtitles.fframes.studio) · 个人维护
 
 **免费本地端侧 AI 视频转录与字幕编辑渲染 Web 应用**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "dmtrKovalenko/subtitler 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-21"]
     y-axis "stars" 383 --> 391
-    line [384, 385, 384, 388, 389, 390, 390]
+    line [384, 385, 384, 388, 389, 390, 389]
 ```
 
-2026-10-18 384 → 2026-11-20 390（+6）
+2026-10-19 384 → 2026-11-21 389（+5）
 
 
 ---

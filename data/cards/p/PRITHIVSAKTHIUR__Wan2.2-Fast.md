@@ -1,6 +1,6 @@
 # PRITHIVSAKTHIUR/Wan2.2-Fast
 
-⭐ 12 · HTML · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/PRITHIVSAKTHIUR/Wan2.2-Fast) · [官网](https://huggingface.co/spaces/prithivMLmods/Wan2.2-Fast) · 个人维护
+⭐ 13 · HTML · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/PRITHIVSAKTHIUR/Wan2.2-Fast) · [官网](https://huggingface.co/spaces/prithivMLmods/Wan2.2-Fast) · 个人维护
 
 **基于 Wan2.2 14B 的图像转视频生成套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PRITHIVSAKTHIUR/Wan2.2-Fast 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-21"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 11 → 2026-11-21 13（+2）
 
 
 ---

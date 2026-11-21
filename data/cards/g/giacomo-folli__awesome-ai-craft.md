@@ -1,6 +1,6 @@
 # giacomo-folli/awesome-ai-craft
 
-⭐ 8 · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/giacomo-folli/awesome-ai-craft) · 个人维护
+⭐ 8 · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/giacomo-folli/awesome-ai-craft) · 个人维护
 
 **AI 净室逆向重实现软件产品的策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "giacomo-folli/awesome-ai-craft 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19", "2026-11-20"]
+    title "giacomo-folli/awesome-ai-craft 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 2 --> 9
-    line [3, 4, 5, 6, 7, 8]
+    line [3, 4, 5, 6, 7, 8, 8]
 ```
 
-2026-11-08 3 → 2026-11-20 8（+5）
+2026-11-08 3 → 2026-11-21 8（+5）
 
 
 ---

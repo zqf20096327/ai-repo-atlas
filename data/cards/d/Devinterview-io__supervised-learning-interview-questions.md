@@ -44,12 +44,12 @@ Devinterview.io 维护的监督学习面试问答集合，收录 70 道基础题
 ```mermaid
 xychart-beta
     title "Devinterview-io/supervised-learning-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-20 26（+1）
+2026-10-19 25 → 2026-11-21 26（+1）
 
 
 ---

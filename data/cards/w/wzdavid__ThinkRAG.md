@@ -1,6 +1,6 @@
 # wzdavid/ThinkRAG
 
-⭐ 352 · Python · MIT · 推送 2026-01-28 · [GitHub](https://github.com/wzdavid/ThinkRAG) · 个人维护 · 中文 README
+⭐ 351 · Python · MIT · 推送 2026-01-28 · [GitHub](https://github.com/wzdavid/ThinkRAG) · 个人维护 · 中文 README
 
 **可部署在笔记本上的本地知识库 RAG 问答系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wzdavid/ThinkRAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-15", "2026-11-21"]
     y-axis "stars" 349 --> 353
-    line [350, 351, 352, 352]
+    line [350, 351, 352, 351]
 ```
 
-2026-10-18 350 → 2026-11-20 352（+2）
+2026-10-19 350 → 2026-11-21 351（+1）
 
 
 ---

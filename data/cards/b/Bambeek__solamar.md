@@ -1,6 +1,6 @@
 # Bambeek/solamar
 
-⭐ 7 · TypeScript · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/Bambeek/solamar) · [官网](https://solamar.app) · 个人维护
+⭐ 8 · TypeScript · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/Bambeek/solamar) · [官网](https://solamar.app) · 个人维护
 
 **开源浏览器：继承 Arc 空间管理，内置可选 AI 代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Bambeek/solamar 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-11", "2026-11-20"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 5, 6, 7, 7]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-11", "2026-11-21"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 5, 6, 7, 8]
 ```
 
-2026-10-28 3 → 2026-11-20 7（+4）
+2026-10-28 3 → 2026-11-21 8（+5）
 
 
 ---

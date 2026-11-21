@@ -1,6 +1,6 @@
 # Ashu11-A/Manga-Segment
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/Ashu11-A/Manga-Segment) · [官网](https://ashu11-a.github.io/Manga-Segment/) · 个人维护
+⭐ 12 · Python · AGPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/Ashu11-A/Manga-Segment) · [官网](https://ashu11-a.github.io/Manga-Segment/) · 个人维护
 
 **面向漫画页分析的分割模型训练与推理工具**
 
@@ -45,12 +45,12 @@ Python 计算机视觉项目，用于漫画和漫画页分析：训练并运行 
 ```mermaid
 xychart-beta
     title "Ashu11-A/Manga-Segment 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-19 10 → 2026-11-21 12（+2）
 
 
 ---

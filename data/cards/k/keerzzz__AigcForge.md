@@ -1,6 +1,6 @@
 # keerzzz/AigcForge
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/keerzzz/AigcForge) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/keerzzz/AigcForge) · 个人维护 · 中文 README
 
 **面向软件工程与知识创作的统一 Agentic 工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "keerzzz/AigcForge 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
     y-axis "stars" 9 --> 15
     line [10, 14, 14]
 ```
 
-2026-10-19 10 → 2026-11-20 14（+4）
+2026-10-19 10 → 2026-11-21 14（+4）
 
 
 ---

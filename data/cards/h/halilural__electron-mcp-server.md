@@ -1,6 +1,6 @@
 # halilural/electron-mcp-server
 
-⭐ 71 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/halilural/electron-mcp-server) · [官网](https://www.npmjs.com/package/electron-mcp-server) · 个人维护
+⭐ 72 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/halilural/electron-mcp-server) · [官网](https://www.npmjs.com/package/electron-mcp-server) · 个人维护
 
 **让 AI 助手通过 CDP 自动化操控 Electron 应用的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "halilural/electron-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 72]
 ```
 
-2026-10-18 70 → 2026-11-20 71（+1）
+2026-10-19 70 → 2026-11-21 72（+2）
 
 
 ---

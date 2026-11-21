@@ -1,6 +1,6 @@
 # rpatrik96/hallmark
 
-⭐ 17 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/rpatrik96/hallmark) · [官网](https://rpatrik96.github.io/research-agora/benchmarks.html) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/rpatrik96/hallmark) · [官网](https://rpatrik96.github.io/research-agora/benchmarks.html) · 个人维护
 
 **引用幻觉检测基准：评测论文引用伪造检测工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rpatrik96/hallmark 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21"]
     y-axis "stars" 12 --> 18
     line [13, 14, 15, 16, 14, 16, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-20 17（+4）
+2026-10-19 13 → 2026-11-21 17（+4）
 
 
 ---

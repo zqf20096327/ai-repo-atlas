@@ -42,12 +42,12 @@ Flask 网页应用：用 Amazon Rekognition 扫描图片与视频，获取媒体
 ```mermaid
 xychart-beta
     title "alexjsmac/soundscape-generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 11（+0）
 
 
 ---

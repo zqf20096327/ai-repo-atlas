@@ -1,6 +1,6 @@
 # leoprover/logic-embedding
 
-⭐ 12 · Scala · BSD-3-Clause · 推送 2026-10-13 · [GitHub](https://github.com/leoprover/logic-embedding) · 个人维护
+⭐ 12 · Scala · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/leoprover/logic-embedding) · 个人维护
 
 **将非经典逻辑 TPTP 问题编码为经典逻辑的工具与运行时库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "leoprover/logic-embedding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-19 12 → 2026-11-21 12（+0）
 
 
 ---

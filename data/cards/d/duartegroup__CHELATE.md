@@ -1,6 +1,6 @@
 # duartegroup/CHELATE
 
-⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-06 · [GitHub](https://github.com/duartegroup/CHELATE) · [官网](https://doi.org/10.5281/zenodo.24013764) · 组织维护
+⭐ 13 · Jupyter Notebook · MIT · 推送 2026-11-06 · [GitHub](https://github.com/duartegroup/CHELATE) · [官网](https://doi.org/10.5281/zenodo.24013764) · 组织维护
 
 **金属蛋白对接后过滤器：预测并剔除金属配位错误的构象**
 
@@ -44,13 +44,13 @@ CHELATE 是针对金属蛋白-配体复合物的机器学习对接后过滤器�
 
 ```mermaid
 xychart-beta
-    title "duartegroup/CHELATE 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 5 --> 11
-    line [6, 8, 10]
+    title "duartegroup/CHELATE 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 5 --> 14
+    line [6, 8, 10, 13]
 ```
 
-2026-11-08 6 → 2026-11-20 10（+4）
+2026-11-08 6 → 2026-11-21 13（+7）
 
 
 ---

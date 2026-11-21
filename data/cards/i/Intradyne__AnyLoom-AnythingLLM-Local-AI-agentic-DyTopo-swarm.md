@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Intradyne/AnyLoom-AnythingLLM-Local-AI-agentic-DyTopo-swarm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
+    title "Intradyne/AnyLoom-AnythingLLM-Local-AI-agentic-DyTopo-swarm 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 10, 11, 12]
+    line [10, 11, 10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-20 12（+2）
+2026-10-19 10 → 2026-11-21 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # HyperGAN/HyperGAN
 
-⭐ 1,181 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/HyperGAN/HyperGAN) · 组织维护
+⭐ 1,181 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HyperGAN/HyperGAN) · 组织维护
 
 **可组合的 GAN 框架：用 PyTorch 构建、训练与共享生成对抗网络**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HyperGAN/HyperGAN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "HyperGAN/HyperGAN 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1180 --> 1184
-    line [1183, 1181]
+    line [1183, 1181, 1181]
 ```
 
-2026-10-18 1,183 → 2026-11-20 1,181（-2）
+2026-10-19 1,183 → 2026-11-21 1,181（-2）
 
 
 ---

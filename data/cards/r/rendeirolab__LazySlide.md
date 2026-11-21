@@ -1,6 +1,6 @@
 # rendeirolab/LazySlide
 
-⭐ 334 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/rendeirolab/LazySlide) · [官网](https://lazyslide.rtfd.io/) · 组织维护
+⭐ 333 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/rendeirolab/LazySlide) · [官网](https://lazyslide.rtfd.io/) · 组织维护
 
 **数字病理全切片图像分析 Python 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rendeirolab/LazySlide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-21"]
     y-axis "stars" 331 --> 335
-    line [332, 333, 334, 333, 334, 334]
+    line [332, 333, 334, 333, 334, 333]
 ```
 
-2026-10-18 332 → 2026-11-20 334（+2）
+2026-10-19 332 → 2026-11-21 333（+1）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "benedekrozemberczki/awesome-gradient-boosting-papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    title "benedekrozemberczki/awesome-gradient-boosting-papers 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1052 --> 1055
-    line [1053, 1054, 1053]
+    line [1053, 1054, 1053, 1053]
 ```
 
-2026-10-18 1,053 → 2026-11-20 1,053（+0）
+2026-10-19 1,053 → 2026-11-21 1,053（+0）
 
 
 ---

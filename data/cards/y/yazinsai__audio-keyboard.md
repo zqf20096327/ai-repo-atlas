@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yazinsai/audio-keyboard 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    title "yazinsai/audio-keyboard 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 3 --> 7
-    line [4, 6]
+    line [4, 6, 6]
 ```
 
-2026-11-19 4 → 2026-11-20 6（+2）
+2026-11-19 4 → 2026-11-21 6（+2）
 
 
 ---

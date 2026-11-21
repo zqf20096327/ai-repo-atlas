@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "interpretml/interpret-community 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-10", "2026-11-20"]
+    title "interpretml/interpret-community 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 443 --> 446
-    line [444, 445, 444]
+    line [444, 445, 444, 444]
 ```
 
-2026-10-29 444 → 2026-11-20 444（+0）
+2026-10-29 444 → 2026-11-21 444（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # meat-daemon-404/agent-immune
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/meat-daemon-404/agent-immune) · [官网](https://www.npmjs.com/package/dsh-immune-system) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/meat-daemon-404/agent-immune) · [官网](https://www.npmjs.com/package/dsh-immune-system) · 个人维护 · 中文 README
 
 **为编码 agent 记录并拦截重复踩坑的免疫记忆插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "meat-daemon-404/agent-immune 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-18", "2026-11-21"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-11-10 5 → 2026-11-20 6（+1）
+2026-11-10 5 → 2026-11-21 6（+1）
 
 
 ---

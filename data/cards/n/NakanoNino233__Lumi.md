@@ -1,6 +1,6 @@
 # NakanoNino233/Lumi
 
-⭐ 27 · Swift · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/NakanoNino233/Lumi) · [官网](https://github.com/NakanoNino233/Lumi/releases/latest) · 个人维护 · 中文 README
+⭐ 28 · Swift · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/NakanoNino233/Lumi) · [官网](https://github.com/NakanoNino233/Lumi/releases/latest) · 个人维护 · 中文 README
 
 **原生 iOS/Android AI 好友应用：自定义人设、本地记忆与朋友圈**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NakanoNino233/Lumi 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 27, 27]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 27, 28]
 ```
 
-2026-11-16 24 → 2026-11-20 27（+3）
+2026-11-16 24 → 2026-11-21 28（+4）
 
 
 ---

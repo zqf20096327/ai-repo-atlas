@@ -1,6 +1,6 @@
 # howardpen9/awesome-ai-api-proxy
 
-⭐ 105 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/howardpen9/awesome-ai-api-proxy) · 个人维护 · 中文 README
+⭐ 109 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/howardpen9/awesome-ai-api-proxy) · 个人维护 · 中文 README
 
 **面向中国及受限地区开发者的 AI API 中转站与 LLM 网关策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "howardpen9/awesome-ai-api-proxy 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 95 --> 106
-    line [96, 98, 99, 100, 101, 102, 99, 104, 105, 105]
+    title "howardpen9/awesome-ai-api-proxy 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 97 --> 110
+    line [98, 99, 100, 101, 102, 99, 104, 105, 109]
 ```
 
-2026-10-18 96 → 2026-11-20 105（+9）
+2026-10-19 98 → 2026-11-21 109（+11）
 
 
 ---

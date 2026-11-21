@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/dgem
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/GoogleCloudPlatform/dgem) · [官网](https://googlecloudplatform.github.io/dgem/) · 组织维护
+⭐ 12 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/GoogleCloudPlatform/dgem) · [官网](https://googlecloudplatform.github.io/dgem/) · 组织维护
 
 **把 DiffusionGemma 变为零样本决策引擎，供开发者输出策略判定**
 
@@ -47,12 +47,12 @@ dgem 将离散扩散模型 DiffusionGemma（26B-A4B-it）转化为决策引擎�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/dgem 星数(近 7 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 2 --> 13
     line [3, 4, 9, 10, 11, 12, 12]
 ```
 
-2026-10-31 3 → 2026-11-20 12（+9）
+2026-10-31 3 → 2026-11-21 12（+9）
 
 
 ---

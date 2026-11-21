@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "johnericforte/claude-skill-hormozi-offer-audit 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-20"]
+    title "johnericforte/claude-skill-hormozi-offer-audit 星数(近 4 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-20", "2026-11-21"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-10-31 10 → 2026-11-20 12（+2）
+2026-10-31 10 → 2026-11-21 12（+2）
 
 
 ---

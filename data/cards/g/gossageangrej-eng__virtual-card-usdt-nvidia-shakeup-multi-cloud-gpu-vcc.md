@@ -1,6 +1,6 @@
 # gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc
 
-⭐ 23 · 推送 2026-11-16 · [GitHub](https://github.com/gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
+⭐ 37 · 推送 2026-11-16 · [GitHub](https://github.com/gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
 
 **面向 ML 工程师的云 GPU 租用支付风险管理指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 3 --> 24
-    line [4, 9, 13, 23]
+    title "gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 1 --> 40
+    line [4, 9, 13, 23, 37]
 ```
 
-2026-11-16 4 → 2026-11-20 23（+19）
+2026-11-16 4 → 2026-11-21 37（+33）
 
 
 ---

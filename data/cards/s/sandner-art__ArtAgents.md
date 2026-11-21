@@ -1,6 +1,6 @@
 # sandner-art/ArtAgents
 
-⭐ 18 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sandner-art/ArtAgents) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sandner-art/ArtAgents) · 个人维护
 
 **面向艺术创作者的 LLM 提示工程与图像描述生成工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sandner-art/ArtAgents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-20 18（+1）
+2026-10-18 17 → 2026-11-21 18（+1）
 
 
 ---

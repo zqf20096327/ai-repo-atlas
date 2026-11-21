@@ -1,6 +1,6 @@
 # dralgorhythm/claude-agentic-framework
 
-⭐ 134 · Shell · 推送 2026-07-24 · [GitHub](https://github.com/dralgorhythm/claude-agentic-framework) · 个人维护
+⭐ 135 · Shell · 推送 2026-07-24 · [GitHub](https://github.com/dralgorhythm/claude-agentic-framework) · 个人维护
 
 **Claude Code 项目多 Agent 协作框架模板（技能+Agent+安全钩子）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dralgorhythm/claude-agentic-framework 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 125 --> 135
-    line [126, 128, 129, 128, 132, 133, 134, 134]
+    title "dralgorhythm/claude-agentic-framework 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 127 --> 136
+    line [128, 129, 128, 132, 133, 134, 135]
 ```
 
-2026-10-18 126 → 2026-11-20 134（+8）
+2026-10-19 128 → 2026-11-21 135（+7）
 
 
 ---

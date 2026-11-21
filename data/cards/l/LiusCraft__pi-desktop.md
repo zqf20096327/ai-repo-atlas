@@ -1,6 +1,6 @@
 # LiusCraft/pi-desktop
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/LiusCraft/pi-desktop) · [官网](https://liuscraft.github.io/pi-desktop/) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/LiusCraft/pi-desktop) · [官网](https://liuscraft.github.io/pi-desktop/) · 个人维护 · 中文 README
 
 **pi coding agent 的桌面客户端，Work/Code 双模式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LiusCraft/pi-desktop 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-18", "2026-11-21"]
     y-axis "stars" 2 --> 7
     line [3, 5, 6, 6]
 ```
 
-2026-10-29 3 → 2026-11-20 6（+3）
+2026-10-29 3 → 2026-11-21 6（+3）
 
 
 ---

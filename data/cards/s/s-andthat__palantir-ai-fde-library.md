@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "s-andthat/palantir-ai-fde-library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-20"]
+    title "s-andthat/palantir-ai-fde-library 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-20", "2026-11-21"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 13（+2）
+2026-10-18 11 → 2026-11-21 13（+2）
 
 
 ---

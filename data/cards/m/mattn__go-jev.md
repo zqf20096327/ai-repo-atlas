@@ -1,6 +1,6 @@
 # mattn/go-jev
 
-⭐ 46 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/mattn/go-jev) · 个人维护
+⭐ 46 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mattn/go-jev) · 个人维护
 
 **面向 TypeSafe Jev 决策模型的 Go SDK 与 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mattn/go-jev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-11-20 46（+0）
+2026-10-19 46 → 2026-11-21 46（+0）
 
 
 ---

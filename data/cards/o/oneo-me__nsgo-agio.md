@@ -1,6 +1,6 @@
 # oneo-me/nsgo-agio
 
-⭐ 11 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/oneo-me/nsgo-agio) · [官网](https://oneo-me.github.io/nsgo-agio/) · 组织维护 · 中文 README
+⭐ 11 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/oneo-me/nsgo-agio) · [官网](https://oneo-me.github.io/nsgo-agio/) · 组织维护 · 中文 README
 
 **NSGo 应用的 agent 核心：在手机与桌面运行并展示编码 agent**
 
@@ -44,13 +44,13 @@ Go 编写的库与应用两部分：库内含各编码 agent CLI 的驱动、可
 
 ```mermaid
 xychart-beta
-    title "oneo-me/nsgo-agio 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-20"]
+    title "oneo-me/nsgo-agio 星数(近 4 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-20", "2026-11-21"]
     y-axis "stars" 5 --> 12
-    line [6, 10, 11]
+    line [6, 10, 11, 11]
 ```
 
-2026-11-13 6 → 2026-11-20 11（+5）
+2026-11-13 6 → 2026-11-21 11（+5）
 
 
 ---

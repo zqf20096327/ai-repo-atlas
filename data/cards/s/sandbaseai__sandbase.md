@@ -1,6 +1,6 @@
 # sandbaseai/sandbase
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/sandbaseai/sandbase) · [官网](https://www.sandbase.ai) · 组织维护 · 中文 README
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/sandbaseai/sandbase) · [官网](https://www.sandbase.ai) · 组织维护 · 中文 README
 
 **一个 API key 接入 2,000+ 模型与数据 API 的 agent 构建平台**
 
@@ -47,12 +47,12 @@ SandBase 提供统一 API key 的模型与数据 API 聚合平台：内置 disco
 ```mermaid
 xychart-beta
     title "sandbaseai/sandbase 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-21"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-11-02 5 → 2026-11-20 6（+1）
+2026-11-02 5 → 2026-11-21 6（+1）
 
 
 ---

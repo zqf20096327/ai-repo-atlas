@@ -1,6 +1,6 @@
 # LZJ-Developer/BuyPilot-AI
 
-⭐ 27 · Kotlin · 推送 2026-06-17 · [GitHub](https://github.com/LZJ-Developer/BuyPilot-AI) · 组织维护 · 中文 README
+⭐ 28 · Kotlin · 推送 2026-06-17 · [GitHub](https://github.com/LZJ-Developer/BuyPilot-AI) · 组织维护 · 中文 README
 
 **多模态电商导购 Agent：把模糊购物需求转为可解释的推荐决策**
 
@@ -46,13 +46,13 @@ ByteDance AI Challenge 参赛项目，面向终端购物用户的对话式导购
 
 ```mermaid
 xychart-beta
-    title "LZJ-Developer/BuyPilot-AI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 22 --> 28
-    line [23, 25, 26, 27, 27]
+    title "LZJ-Developer/BuyPilot-AI 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 24 --> 29
+    line [25, 26, 27, 28]
 ```
 
-2026-10-18 23 → 2026-11-20 27（+4）
+2026-10-19 25 → 2026-11-21 28（+3）
 
 
 ---

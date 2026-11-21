@@ -40,6 +40,18 @@ TinyCast 是一个 146,505 参数的注意力-free 时序基础模型，对未�
 > L3: **An attention-free, 146,505-parameter time-series foundation model.**
 > L5: TinyCast forecasts unseen series zero-shot and returns nine quantiles rather than a point
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "raws-labs/tinycast 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `463ff2ee70f9` · [字段定义](../../DATASET.md)*

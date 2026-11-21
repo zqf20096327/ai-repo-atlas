@@ -1,6 +1,6 @@
 # instry/ocbot
 
-⭐ 343 · TypeScript · NOASSERTION · 推送 2026-04-01 · [GitHub](https://github.com/instry/ocbot) · 个人维护 · 中文 README
+⭐ 345 · TypeScript · NOASSERTION · 推送 2026-04-01 · [GitHub](https://github.com/instry/ocbot) · 个人维护 · 中文 README
 
 **内嵌 OpenClaw 运行时的 AI 原生浏览器，面向 Web4 代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "instry/ocbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 341 --> 344
-    line [342, 343, 343]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 341 --> 346
+    line [342, 343, 345]
 ```
 
-2026-10-18 342 → 2026-11-20 343（+1）
+2026-10-19 342 → 2026-11-21 345（+3）
 
 
 ---

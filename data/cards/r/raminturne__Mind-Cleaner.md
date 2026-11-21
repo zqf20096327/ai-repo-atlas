@@ -1,6 +1,6 @@
 # raminturne/Mind-Cleaner
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/raminturne/Mind-Cleaner) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/raminturne/Mind-Cleaner) · 个人维护
 
 **本地优先思维导图桌面应用，内置 AI 生成子节点**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "raminturne/Mind-Cleaner 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 4 --> 13
-    line [5, 7, 9, 7, 10, 11, 12, 12]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 4 --> 14
+    line [5, 7, 9, 7, 10, 11, 12, 13]
 ```
 
-2026-10-24 5 → 2026-11-20 12（+7）
+2026-10-24 5 → 2026-11-21 13（+8）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "understandable-machine-intelligence-lab/Quantus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-20"]
+    title "understandable-machine-intelligence-lab/Quantus 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 676 --> 683
-    line [677, 678, 680, 681, 682]
+    line [677, 678, 680, 681, 682, 682]
 ```
 
-2026-10-18 677 → 2026-11-20 682（+5）
+2026-10-19 677 → 2026-11-21 682（+5）
 
 
 ---

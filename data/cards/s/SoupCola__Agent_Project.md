@@ -1,6 +1,6 @@
 # SoupCola/Agent_Project
 
-⭐ 32 · Python · 推送 2025-12-29 · [GitHub](https://github.com/SoupCola/Agent_Project) · 个人维护 · 中文 README
+⭐ 33 · Python · 推送 2025-12-29 · [GitHub](https://github.com/SoupCola/Agent_Project) · 个人维护 · 中文 README
 
 **集成 RAG、网络搜索与任务规划的中文 Agent 项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SoupCola/Agent_Project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-11-20 32（+0）
+2026-10-19 32 → 2026-11-21 33（+1）
 
 
 ---

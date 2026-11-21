@@ -1,6 +1,6 @@
 # vroomfondel/dgxarley
 
-⭐ 13 · Python · LGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/vroomfondel/dgxarley) · 个人维护
+⭐ 13 · Python · LGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/vroomfondel/dgxarley) · 个人维护
 
 **用 Ansible 部署 4 台 DGX Spark K3s 集群跑分布式 LLM 推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vroomfondel/dgxarley 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-12", "2026-11-21"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

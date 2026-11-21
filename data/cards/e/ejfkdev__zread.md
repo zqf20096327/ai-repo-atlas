@@ -1,6 +1,6 @@
 # ejfkdev/zread
 
-⭐ 48 · Python · MIT · 推送 2026-05-24 · [GitHub](https://github.com/ejfkdev/zread) · [官网](https://zread.ai) · 个人维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-05-24 · [GitHub](https://github.com/ejfkdev/zread) · [官网](https://zread.ai) · 个人维护 · 中文 README
 
 **阅读 GitHub 项目文档的 CLI 与 MCP 服务器工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ejfkdev/zread 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 46 --> 50
+    line [47, 48, 49]
 ```
 
-2026-10-18 47 → 2026-11-20 48（+1）
+2026-10-19 47 → 2026-11-21 49（+2）
 
 
 ---

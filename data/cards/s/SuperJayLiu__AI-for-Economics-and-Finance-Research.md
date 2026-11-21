@@ -1,6 +1,6 @@
 # SuperJayLiu/AI-for-Economics-and-Finance-Research
 
-⭐ 34 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/SuperJayLiu/AI-for-Economics-and-Finance-Research) · [官网](https://www.chaojieliu.com) · 个人维护 · 中文 README
+⭐ 34 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SuperJayLiu/AI-for-Economics-and-Finance-Research) · [官网](https://www.chaojieliu.com) · 个人维护 · 中文 README
 
 **面向经济与金融研究的 AI/LLM 使用手册与技能库**
 
@@ -46,12 +46,12 @@ GitHub 原生的实用手册与资源库，指导经济学与金融学研究者�
 ```mermaid
 xychart-beta
     title "SuperJayLiu/AI-for-Economics-and-Finance-Research 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-21"]
     y-axis "stars" 29 --> 35
     line [30, 31, 30, 32, 33, 34, 34]
 ```
 
-2026-10-18 30 → 2026-11-20 34（+4）
+2026-10-19 30 → 2026-11-21 34（+4）
 
 
 ---

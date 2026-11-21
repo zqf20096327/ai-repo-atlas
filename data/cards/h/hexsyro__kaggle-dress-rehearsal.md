@@ -1,6 +1,6 @@
 # hexsyro/kaggle-dress-rehearsal
 
-⭐ 10 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hexsyro/kaggle-dress-rehearsal) · 个人维护
+⭐ 47 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hexsyro/kaggle-dress-rehearsal) · 个人维护
 
 **Kaggle 验证纪律教学项目：分层CV、三种调参对比与榜上过拟合模拟**
 
@@ -39,6 +39,18 @@
 
 > L5: This project runs a full, disciplined model-selection pipeline that mimics exactly what a real Kaggle competition de
 > L79: |Skill|Where|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hexsyro/kaggle-dress-rehearsal 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 7 --> 50
+    line [10, 47]
+```
+
+2026-11-20 10 → 2026-11-21 47（+37）
 
 
 ---

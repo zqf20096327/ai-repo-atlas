@@ -1,6 +1,6 @@
 # dreddnafious/thereisnospoon
 
-⭐ 1,246 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/dreddnafious/thereisnospoon) · 个人维护
+⭐ 1,246 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dreddnafious/thereisnospoon) · 个人维护
 
 **面向工程师的机器学习第一性原理入门读物**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dreddnafious/thereisnospoon 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-10", "2026-11-11", "2026-11-20"]
+    title "dreddnafious/thereisnospoon 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1245 --> 1248
-    line [1246, 1247, 1246, 1247, 1246, 1247, 1246]
+    line [1246, 1247, 1246, 1247, 1246, 1247, 1246, 1246]
 ```
 
-2026-10-18 1,246 → 2026-11-20 1,246（+0）
+2026-10-19 1,246 → 2026-11-21 1,246（+0）
 
 
 ---

@@ -45,12 +45,12 @@ EasyKit-NodeAlign-Pro 是一款 ComfyUI 自定义节点插件，面向使用 Com
 ```mermaid
 xychart-beta
     title "ArtsticH/ComfyUI_EasyKitHT_NodeAlignPro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 65 --> 68
     line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-20 67（+1）
+2026-10-19 66 → 2026-11-21 67（+1）
 
 
 ---

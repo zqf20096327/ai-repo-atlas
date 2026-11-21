@@ -1,6 +1,6 @@
 # Tokfinity/InfCode
 
-⭐ 65 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/Tokfinity/InfCode) · [官网](https://www.tokfinity.com/infcode) · 组织维护 · 中文 README
+⭐ 64 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/Tokfinity/InfCode) · [官网](https://www.tokfinity.com/infcode) · 组织维护 · 中文 README
 
 **双 agent 对抗式代码仓库 issue 自动修复系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tokfinity/InfCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 63 --> 66
+    line [65, 64]
 ```
 
-2026-10-18 65 → 2026-11-20 65（+0）
+2026-10-19 65 → 2026-11-21 64（-1）
 
 
 ---

@@ -45,12 +45,12 @@ GPTChat 是一个极简的聊天组件（PHP + 原生 JS，无 Composer/npm/构�
 ```mermaid
 xychart-beta
     title "VolkanSah/How-to-OpenAI-compatible-API 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-18", "2026-11-21"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-11-18 85 → 2026-11-20 85（+0）
+2026-11-18 85 → 2026-11-21 85（+0）
 
 
 ---

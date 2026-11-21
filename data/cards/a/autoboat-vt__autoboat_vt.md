@@ -1,6 +1,6 @@
 # autoboat-vt/autoboat_vt
 
-⭐ 11 · C++ · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/autoboat-vt/autoboat_vt) · [官网](https://autoboat-vt.github.io/documentation) · 组织维护
+⭐ 11 · C++ · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/autoboat-vt/autoboat_vt) · [官网](https://autoboat-vt.github.io/documentation) · 组织维护
 
 **弗吉尼亚理工 AutoBoat 自主水面艇软件主仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "autoboat-vt/autoboat_vt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 11（+1）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

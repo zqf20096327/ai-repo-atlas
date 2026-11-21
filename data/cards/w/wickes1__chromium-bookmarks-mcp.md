@@ -1,6 +1,6 @@
 # wickes1/chromium-bookmarks-mcp
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wickes1/chromium-bookmarks-mcp) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/wickes1/chromium-bookmarks-mcp) · 个人维护
 
 **让 AI agent 实时读写浏览器书签的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wickes1/chromium-bookmarks-mcp 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-13", "2026-11-21"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-02 10 → 2026-11-20 11（+1）
+2026-11-02 10 → 2026-11-21 11（+1）
 
 
 ---

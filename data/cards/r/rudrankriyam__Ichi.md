@@ -1,6 +1,6 @@
 # rudrankriyam/Ichi
 
-⭐ 112 · Swift · MIT · 推送 2026-08-31 · [GitHub](https://github.com/rudrankriyam/Ichi) · 个人维护
+⭐ 111 · Swift · MIT · 推送 2026-08-31 · [GitHub](https://github.com/rudrankriyam/Ichi) · 个人维护
 
 **Apple 平台端侧语音对话 AI 实验项目（macOS 已验证）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rudrankriyam/Ichi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 111 --> 114
-    line [113, 112, 112]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 110 --> 114
+    line [113, 112, 111]
 ```
 
-2026-10-18 113 → 2026-11-20 112（-1）
+2026-10-18 113 → 2026-11-21 111（-2）
 
 
 ---

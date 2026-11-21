@@ -1,6 +1,6 @@
 # ariadne-mark/ComfyUI-Ariadne-Mark
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/ariadne-mark/ComfyUI-Ariadne-Mark) · [官网](https://ariadnemark.xyz/ariadne/) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ariadne-mark/ComfyUI-Ariadne-Mark) · [官网](https://ariadnemark.xyz/ariadne/) · 个人维护
 
 **为 ComfyUI 输出图像视频加隐形水印与 C2PA 签名凭证**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点集，在导出环节为生成的图像和视频添加隐
 
 ```mermaid
 xychart-beta
-    title "ariadne-mark/ComfyUI-Ariadne-Mark 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 3 --> 10
-    line [4, 8, 9]
+    title "ariadne-mark/ComfyUI-Ariadne-Mark 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 3 --> 11
+    line [4, 8, 9, 10]
 ```
 
-2026-11-18 4 → 2026-11-20 9（+5）
+2026-11-18 4 → 2026-11-21 10（+6）
 
 
 ---

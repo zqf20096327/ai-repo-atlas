@@ -1,6 +1,6 @@
 # Origin-AI-IDE/origin
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/Origin-AI-IDE/origin) · [官网](https://origin.synapseresearch.org) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/Origin-AI-IDE/origin) · [官网](https://origin.synapseresearch.org) · 组织维护
 
 **轻量本地化 AI 代码编辑器，自带 API Key 跑 17 家模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Origin-AI-IDE/origin 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-12", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 18, 19, 20, 20]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-12", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 18, 19, 20, 21]
 ```
 
-2026-10-18 16 → 2026-11-20 20（+4）
+2026-10-19 16 → 2026-11-21 21（+5）
 
 
 ---

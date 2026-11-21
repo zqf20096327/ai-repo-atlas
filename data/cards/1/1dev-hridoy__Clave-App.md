@@ -1,6 +1,6 @@
 # 1dev-hridoy/Clave-App
 
-⭐ 14 · EJS · MIT · 推送 2026-06-23 · [GitHub](https://github.com/1dev-hridoy/Clave-App) · [官网](https://clave-app.onrender.com/) · 个人维护
+⭐ 13 · EJS · MIT · 推送 2026-06-23 · [GitHub](https://github.com/1dev-hridoy/Clave-App) · [官网](https://clave-app.onrender.com/) · 个人维护
 
 **自托管 AI 聊天与图像生成 Web 应用，带 RESTful API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "1dev-hridoy/Clave-App 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 12 --> 15
+    line [14, 13]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 13（-1）
 
 
 ---

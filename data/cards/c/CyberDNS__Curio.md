@@ -41,6 +41,18 @@
 > L28: - **Smart article selection** - AI picks the most relevant articles for you
 > L66: - **OpenAI API Key** - For AI features (Get one here)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CyberDNS/Curio 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `f51a7ee6ce42` · [字段定义](../../DATASET.md)*

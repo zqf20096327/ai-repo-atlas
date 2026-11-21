@@ -1,6 +1,6 @@
 # OrderG-X/dsh-mac-computer-use
 
-⭐ 11 · Swift · MIT · 推送 2026-11-12 · [GitHub](https://github.com/OrderG-X/dsh-mac-computer-use) · 个人维护 · 中文 README
+⭐ 12 · Swift · MIT · 推送 2026-11-12 · [GitHub](https://github.com/OrderG-X/dsh-mac-computer-use) · 个人维护 · 中文 README
 
 **DSH 插件：让模型看屏幕截图操作 Mac 桌面**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）的 macOS computer use 插件，通过 11 个 desktop_*
 ```mermaid
 xychart-beta
     title "OrderG-X/dsh-mac-computer-use 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 3 --> 12
-    line [4, 5, 6, 7, 8, 9, 4, 9, 11, 11]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 3 --> 13
+    line [4, 5, 6, 7, 8, 9, 4, 9, 11, 12]
 ```
 
-2026-10-25 4 → 2026-11-20 11（+7）
+2026-10-25 4 → 2026-11-21 12（+8）
 
 
 ---

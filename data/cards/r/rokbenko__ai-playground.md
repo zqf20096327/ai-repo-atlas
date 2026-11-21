@@ -1,6 +1,6 @@
 # rokbenko/ai-playground
 
-⭐ 322 · Python · MIT · 推送 2026-04-23 · [GitHub](https://github.com/rokbenko/ai-playground) · [官网](https://www.youtube.com/@rokbenko?sub_confirmation=1) · 个人维护
+⭐ 318 · Python · MIT · 推送 2026-04-23 · [GitHub](https://github.com/rokbenko/ai-playground) · [官网](https://www.youtube.com/@rokbenko?sub_confirmation=1) · 个人维护
 
 **YouTube AI 编程教程配套代码合集（LLM/Agent/向量库等）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rokbenko/ai-playground 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 320 --> 323
-    line [321, 322, 322]
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 317 --> 323
+    line [321, 322, 318]
 ```
 
-2026-10-18 321 → 2026-11-20 322（+1）
+2026-10-19 321 → 2026-11-21 318（-3）
 
 
 ---

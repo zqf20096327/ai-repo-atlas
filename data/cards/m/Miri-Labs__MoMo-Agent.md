@@ -1,6 +1,6 @@
 # Miri-Labs/MoMo-Agent
 
-⭐ 26 · Swift · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Miri-Labs/MoMo-Agent) · 组织维护 · 中文 README
+⭐ 26 · Swift · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Miri-Labs/MoMo-Agent) · 组织维护 · 中文 README
 
 **面向 Apple 设备的自托管全天候个人 AI 助理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Miri-Labs/MoMo-Agent 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-21"]
     y-axis "stars" 9 --> 27
     line [10, 17, 25, 26, 26]
 ```
 
-2026-11-11 10 → 2026-11-20 26（+16）
+2026-11-11 10 → 2026-11-21 26（+16）
 
 
 ---

@@ -45,13 +45,13 @@ Sherlock 是一组可安装到 AI 编程代理宿主的技能集，含 Paper2Cod
 
 ```mermaid
 xychart-beta
-    title "proyecto26/sherlock-ai-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "proyecto26/sherlock-ai-plugin 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
 ```
 
-2026-10-18 38 → 2026-11-20 39（+1）
+2026-10-19 39 → 2026-11-21 39（+0）
 
 
 ---

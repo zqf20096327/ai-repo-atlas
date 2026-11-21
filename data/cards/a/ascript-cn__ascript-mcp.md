@@ -1,6 +1,6 @@
 # ascript-cn/ascript-mcp
 
-⭐ 10 · Python · MIT · 推送 2026-04-30 · [GitHub](https://github.com/ascript-cn/ascript-mcp) · 组织维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-04-30 · [GitHub](https://github.com/ascript-cn/ascript-mcp) · 组织维护 · 中文 README
 
 **让 Claude/Cursor 等 AI 工具操控真实设备的 MCP 服务器**
 
@@ -39,6 +39,18 @@
 
 > L9: AScript MCP Service — 让 AI 编程工具（Claude Desktop / Cursor / Trae）直接查询 AScript API 文档、操控真实 Android / iOS 设备（iOS 免签免越狱）。
 > L16: - **开发部署**：创建工程、上传代码、运行、停止、查看日志
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ascript-cn/ascript-mcp 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-20 10 → 2026-11-21 11（+1）
 
 
 ---

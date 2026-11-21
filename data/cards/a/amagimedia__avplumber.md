@@ -1,6 +1,6 @@
 # amagimedia/avplumber
 
-⭐ 52 · C++ · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/amagimedia/avplumber) · 组织维护
+⭐ 52 · C++ · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/amagimedia/avplumber) · 组织维护
 
 **基于 FFmpeg/libav 的实时流媒体处理图框架，支持动态重配**
 
@@ -47,12 +47,12 @@ C++ 实现的图式实时音视频处理框架，节点基于 libavcodec/libavfo
 ```mermaid
 xychart-beta
     title "amagimedia/avplumber 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 48 --> 53
     line [49, 50, 52, 50, 52, 52]
 ```
 
-2026-10-18 49 → 2026-11-20 52（+3）
+2026-10-19 49 → 2026-11-21 52（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # writer/writer-framework
 
-⭐ 1,449 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/writer/writer-framework) · [官网](https://dev.writer.com/framework/introduction) · 组织维护
+⭐ 1,448 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/writer/writer-framework) · [官网](https://dev.writer.com/framework/introduction) · 组织维护
 
 **可视化拖拽 UI + Python 后端的数据/AI 应用开发框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "writer/writer-framework 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 1448 --> 1452
-    line [1451, 1450, 1449, 1449]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 1447 --> 1452
+    line [1451, 1450, 1449, 1448]
 ```
 
-2026-10-18 1,451 → 2026-11-20 1,449（-2）
+2026-10-19 1,451 → 2026-11-21 1,448（-3）
 
 
 ---

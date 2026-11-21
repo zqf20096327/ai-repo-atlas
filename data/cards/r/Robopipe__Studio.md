@@ -1,6 +1,6 @@
 # Robopipe/Studio
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Robopipe/Studio) · [官网](https://robopipe.io) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Robopipe/Studio) · [官网](https://robopipe.io) · 组织维护
 
 **生产线 AI 质检 Web 应用：采集、标注、训练并部署到边缘相机**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Robopipe/Studio 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-11-10", "2026-11-21"]
+    y-axis "stars" 21 --> 24
+    line [23, 22]
 ```
 
-2026-11-10 23 → 2026-11-20 23（+0）
+2026-11-10 23 → 2026-11-21 22（-1）
 
 
 ---

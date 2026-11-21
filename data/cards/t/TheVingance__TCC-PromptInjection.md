@@ -45,13 +45,13 @@ FinSecAI 是一个以 Docker Compose 微服务隔离的虚构网上银行系统�
 
 ```mermaid
 xychart-beta
-    title "TheVingance/TCC-PromptInjection 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 12 --> 16
-    line [15, 14, 13, 14, 13, 13]
+    title "TheVingance/TCC-PromptInjection 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 12 --> 15
+    line [14, 13, 14, 13, 13]
 ```
 
-2026-10-18 15 → 2026-11-20 13（-2）
+2026-10-19 14 → 2026-11-21 13（-1）
 
 
 ---

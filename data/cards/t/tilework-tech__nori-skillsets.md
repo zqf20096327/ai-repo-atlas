@@ -1,6 +1,6 @@
 # tilework-tech/nori-skillsets
 
-⭐ 170 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/tilework-tech/nori-skillsets) · [官网](https://www.npmjs.com/package/nori-skillsets) · 组织维护
+⭐ 170 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/tilework-tech/nori-skillsets) · [官网](https://www.npmjs.com/package/nori-skillsets) · 组织维护
 
 **面向编码 agent 的技能集安装与切换管理 CLI**
 
@@ -46,12 +46,12 @@ Nori Skillsets Client 是一个 npm 安装的全局 CLI，连接 noriskillsets.d
 ```mermaid
 xychart-beta
     title "tilework-tech/nori-skillsets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 169 --> 171
     line [170, 170]
 ```
 
-2026-10-18 170 → 2026-11-20 170（+0）
+2026-10-19 170 → 2026-11-21 170（+0）
 
 
 ---

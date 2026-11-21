@@ -1,6 +1,6 @@
 # oumi-ai/weights-lab
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/oumi-ai/weights-lab) · [官网](https://oumi.ai) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/oumi-ai/weights-lab) · [官网](https://oumi.ai) · 组织维护
 
 **让编码 Agent 以可逆方式编辑开源 LLM 权重的实验技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oumi-ai/weights-lab 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 4 --> 11
-    line [5, 7, 9, 10]
+    title "oumi-ai/weights-lab 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 4 --> 13
+    line [5, 7, 9, 10, 12]
 ```
 
-2026-11-08 5 → 2026-11-20 10（+5）
+2026-11-08 5 → 2026-11-21 12（+7）
 
 
 ---

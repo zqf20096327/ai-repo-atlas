@@ -1,6 +1,6 @@
 # VertexCorporation/Cortex
 
-⭐ 49 · Dart · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/VertexCorporation/Cortex) · [官网](https://vertexishere.com) · 组织维护
+⭐ 49 · Dart · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/VertexCorporation/Cortex) · [官网](https://vertexishere.com) · 组织维护
 
 **混合 AI 平台：移动端本地推理+多供应商编排+检索记忆**
 
@@ -45,13 +45,13 @@ Cortex 是三层架构的混合 AI 平台：客户端运行时（对话、上下
 
 ```mermaid
 xychart-beta
-    title "VertexCorporation/Cortex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "VertexCorporation/Cortex 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 46 --> 50
-    line [47, 49]
+    line [47, 49, 49]
 ```
 
-2026-10-18 47 → 2026-11-20 49（+2）
+2026-10-19 47 → 2026-11-21 49（+2）
 
 
 ---

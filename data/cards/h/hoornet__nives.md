@@ -1,6 +1,6 @@
 # hoornet/nives
 
-⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/hoornet/nives) · [官网](https://hoornet.github.io) · 个人维护
+⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/hoornet/nives) · [官网](https://hoornet.github.io) · 个人维护
 
 **带持久记忆的 Home Assistant AI 语音/文字助手插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hoornet/nives 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    title "hoornet/nives 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-20 23（+2）
+2026-10-19 22 → 2026-11-21 23（+1）
 
 
 ---

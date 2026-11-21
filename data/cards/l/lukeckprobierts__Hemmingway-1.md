@@ -1,6 +1,6 @@
 # lukeckprobierts/Hemmingway-1
 
-⭐ 47 · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/lukeckprobierts/Hemmingway-1) · [官网](https://hemmingway.io) · 组织维护
+⭐ 48 · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/lukeckprobierts/Hemmingway-1) · [官网](https://hemmingway.io) · 组织维护
 
 **27B 开放权重写作模型：以贴近人类口吻生成日常文本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lukeckprobierts/Hemmingway-1 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 42 --> 48
-    line [43, 44, 45, 44, 46, 47, 47]
+    title "lukeckprobierts/Hemmingway-1 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 43 --> 49
+    line [44, 45, 44, 46, 47, 48]
 ```
 
-2026-10-18 43 → 2026-11-20 47（+4）
+2026-10-19 44 → 2026-11-21 48（+4）
 
 
 ---

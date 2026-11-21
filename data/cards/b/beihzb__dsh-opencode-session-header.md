@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "beihzb/dsh-opencode-session-header 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 16, 16]
+    title "beihzb/dsh-opencode-session-header 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 16（+1）
+2026-10-19 16 → 2026-11-21 16（+0）
 
 
 ---

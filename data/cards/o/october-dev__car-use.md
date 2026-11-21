@@ -1,6 +1,6 @@
 # october-dev/car-use
 
-⭐ 7 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/october-dev/car-use) · [官网](https://car-use.dev) · 组织维护
+⭐ 7 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/october-dev/car-use) · [官网](https://car-use.dev) · 组织维护
 
 **让 AI agent 通过 OBD-II 读取并诊断真实车辆的工具**
 
@@ -46,12 +46,12 @@ car-use 是一个命令行工具，将车辆诊断能力暴露给 AI agent：age
 ```mermaid
 xychart-beta
     title "october-dev/car-use 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-20"]
+    x-axis ["2026-11-12", "2026-11-21"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-12 7 → 2026-11-20 7（+0）
+2026-11-12 7 → 2026-11-21 7（+0）
 
 
 ---

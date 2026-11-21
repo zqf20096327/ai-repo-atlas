@@ -1,6 +1,6 @@
 # Robin-G0/Motion-Input-Grid
 
-⭐ 9 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Robin-G0/Motion-Input-Grid) · 个人维护
+⭐ 9 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Robin-G0/Motion-Input-Grid) · 个人维护
 
 **摄像头姿态追踪的体势动作输入框架，动作映射为操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Robin-G0/Motion-Input-Grid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
     y-axis "stars" 7 --> 10
     line [8, 9, 9]
 ```
 
-2026-10-18 8 → 2026-11-20 9（+1）
+2026-10-19 8 → 2026-11-21 9（+1）
 
 
 ---

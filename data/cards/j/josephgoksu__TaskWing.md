@@ -1,6 +1,6 @@
 # josephgoksu/TaskWing
 
-⭐ 89 · Go · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/josephgoksu/TaskWing) · [官网](https://taskwing.app) · 个人维护
+⭐ 88 · Go · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/josephgoksu/TaskWing) · [官网](https://taskwing.app) · 个人维护
 
 **本地优先的 AI 开发知识层：抽取架构知识供 AI 工具查询**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "josephgoksu/TaskWing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 87 --> 90
+    line [89, 88]
 ```
 
-2026-10-18 89 → 2026-11-20 89（+0）
+2026-10-19 89 → 2026-11-21 88（-1）
 
 
 ---

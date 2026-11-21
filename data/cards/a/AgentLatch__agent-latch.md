@@ -1,6 +1,6 @@
 # AgentLatch/agent-latch
 
-⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/AgentLatch/agent-latch) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/AgentLatch/agent-latch) · 组织维护
 
 **给 AI agent 项目做本地安全扫描与 MCP 流量记录的工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AgentLatch/agent-latch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-21"]
     y-axis "stars" 5 --> 13
     line [6, 7, 6, 8, 12, 11, 11]
 ```
 
-2026-10-18 6 → 2026-11-20 11（+5）
+2026-10-19 6 → 2026-11-21 11（+5）
 
 
 ---

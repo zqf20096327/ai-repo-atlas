@@ -46,12 +46,12 @@ DECIMER（Deep lEarning for Chemical IMagE Recognition）从科学文献与图�
 ```mermaid
 xychart-beta
     title "Steinbeck-Lab/DECIMER.ai 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-21"]
     y-axis "stars" 2 --> 7
     line [3, 6, 6]
 ```
 
-2026-11-01 3 → 2026-11-20 6（+3）
+2026-11-01 3 → 2026-11-21 6（+3）
 
 
 ---

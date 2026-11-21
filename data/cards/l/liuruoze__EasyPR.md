@@ -1,6 +1,6 @@
 # liuruoze/EasyPR
 
-⭐ 6,428 · C++ · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/liuruoze/EasyPR) · 个人维护 · 中文 README
+⭐ 6,430 · C++ · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/liuruoze/EasyPR) · 个人维护 · 中文 README
 
 **非限制场景下的中文车牌识别开源库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liuruoze/EasyPR 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 6427 --> 6430
-    line [6428, 6429, 6428]
+    title "liuruoze/EasyPR 星数(近 4 点)"
+    x-axis ["2026-11-12", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 6427 --> 6431
+    line [6428, 6429, 6428, 6430]
 ```
 
-2026-11-12 6,428 → 2026-11-20 6,428（+0）
+2026-11-12 6,428 → 2026-11-21 6,430（+2）
 
 
 ---

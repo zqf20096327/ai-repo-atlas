@@ -1,6 +1,6 @@
 # 0p9b/TLDR
 
-⭐ 22 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/0p9b/TLDR) · [官网](https://0p9b.github.io/TLDR/) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/0p9b/TLDR) · [官网](https://0p9b.github.io/TLDR/) · 个人维护
 
 **让 AI 编程助手输出结论先行的极简回复的系统提示词与安装器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0p9b/TLDR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
     y-axis "stars" 21 --> 24
     line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-20 22（-1）
+2026-10-18 23 → 2026-11-21 22（-1）
 
 
 ---

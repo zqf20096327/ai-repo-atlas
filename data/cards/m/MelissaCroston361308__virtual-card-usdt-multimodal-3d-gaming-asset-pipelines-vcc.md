@@ -1,6 +1,6 @@
 # MelissaCroston361308/virtual-card-usdt-multimodal-3d-gaming-asset-pipelines-vcc
 
-⭐ 36 · 推送 2026-11-14 · [GitHub](https://github.com/MelissaCroston361308/virtual-card-usdt-multimodal-3d-gaming-asset-pipelines-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
+⭐ 49 · 推送 2026-11-14 · [GitHub](https://github.com/MelissaCroston361308/virtual-card-usdt-multimodal-3d-gaming-asset-pipelines-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
 
 **面向游戏工作室的 USDT 虚拟卡支付清结算指南（CoreGold VCC）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MelissaCroston361308/virtual-card-usdt-multimodal-3d-gaming-asset-pipelines-vcc 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 2 --> 39
-    line [5, 17, 22, 26, 36]
+    title "MelissaCroston361308/virtual-card-usdt-multimodal-3d-gaming-asset-pipelines-vcc 星数(近 6 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 1 --> 53
+    line [5, 17, 22, 26, 36, 49]
 ```
 
-2026-11-14 5 → 2026-11-20 36（+31）
+2026-11-14 5 → 2026-11-21 49（+44）
 
 
 ---

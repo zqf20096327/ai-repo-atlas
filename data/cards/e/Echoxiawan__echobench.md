@@ -1,6 +1,6 @@
 # Echoxiawan/echobench
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Echoxiawan/echobench) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Echoxiawan/echobench) · 个人维护 · 中文 README
 
 **给移动 QA/开发的本机优先测试台：录制、回放、多端同步与 AI 导出**
 
@@ -41,6 +41,18 @@
 > L18: EchoBench 是一个**本机优先**的移动测试工作台。人在浏览器中点击设备镜像，工具同步操作真机或模拟器，通过 Appium 控件树识别目标，并把点击、输入、滑动、返回等动作记录为可编辑、可回放的 YAML DSL。它同时支
 > L44: - **AI 自主可控** — AI 只是可选能力，支持任意 OpenAI 兼容接口，也可接本地模型。
 > L47: 适合需要本机调试、兼容性对比和从手工步骤过渡到脚本的 QA/开发；不适合大规模云真机矩阵或企业级测试管理。完整对比见 同类产品对比。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Echoxiawan/echobench 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 30 --> 37
+    line [31, 36]
+```
+
+2026-11-20 31 → 2026-11-21 36（+5）
 
 
 ---

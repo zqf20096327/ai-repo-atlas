@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PortPy-Project/PortPy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 195 --> 198
-    line [197, 196, 196]
+    title "PortPy-Project/PortPy 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 195 --> 197
+    line [196, 196]
 ```
 
-2026-10-18 197 → 2026-11-20 196（-1）
+2026-10-19 196 → 2026-11-21 196（+0）
 
 
 ---

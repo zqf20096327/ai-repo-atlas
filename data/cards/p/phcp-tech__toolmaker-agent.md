@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "phcp-tech/toolmaker-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 90 --> 93
-    line [91, 92, 92]
+    title "phcp-tech/toolmaker-agent 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 91 --> 93
+    line [92, 92]
 ```
 
-2026-10-18 91 → 2026-11-20 92（+1）
+2026-10-19 92 → 2026-11-21 92（+0）
 
 
 ---

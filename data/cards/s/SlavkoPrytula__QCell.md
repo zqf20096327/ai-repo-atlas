@@ -1,6 +1,6 @@
 # SlavkoPrytula/QCell
 
-⭐ 15 · JavaScript · 推送 2026-09-01 · [GitHub](https://github.com/SlavkoPrytula/QCell) · [官网](https://slavkoprytula.github.io/QCell/) · 组织维护
+⭐ 16 · JavaScript · 推送 2026-09-01 · [GitHub](https://github.com/SlavkoPrytula/QCell) · [官网](https://slavkoprytula.github.io/QCell/) · 组织维护
 
 **重叠细胞实例分割的官方研究代码（BMVC 2026 论文）**
 
@@ -46,12 +46,12 @@ QCell 是 BMVC 2026 论文的重叠细胞实例分割官方代码，基于 MaskD
 ```mermaid
 xychart-beta
     title "SlavkoPrytula/QCell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---

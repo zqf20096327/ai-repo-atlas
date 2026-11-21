@@ -1,6 +1,6 @@
 # InternLM/HuixiangDou
 
-⭐ 2,501 · Python · BSD-3-Clause · 推送 2025-11-24 · [GitHub](https://github.com/InternLM/HuixiangDou) · [官网](https://openxlab.org.cn/apps/detail/tpoisonooo/huixiangdou-web) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向群聊场景的 LLM 专业知识问答助手（RAG 管线）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |

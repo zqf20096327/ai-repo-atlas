@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yan-stone-computer/NexcoreMultimodalSkill 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-20"]
+    x-axis ["2026-11-02", "2026-11-21"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-02 17 → 2026-11-20 17（+0）
+2026-11-02 17 → 2026-11-21 17（+0）
 
 
 ---

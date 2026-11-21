@@ -44,13 +44,13 @@ CommonGround Kernel 是一个开源的“账本内核”，为人-智能体与�
 
 ```mermaid
 xychart-beta
-    title "Intelligent-Internet/CommonGround 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "Intelligent-Internet/CommonGround 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 151 --> 154
-    line [153, 152]
+    line [153, 152, 152]
 ```
 
-2026-10-18 153 → 2026-11-20 152（-1）
+2026-10-19 153 → 2026-11-21 152（-1）
 
 
 ---

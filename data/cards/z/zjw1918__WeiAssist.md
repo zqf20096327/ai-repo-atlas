@@ -1,6 +1,6 @@
 # zjw1918/WeiAssist
 
-⭐ 9 · Kotlin · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/zjw1918/WeiAssist) · 个人维护 · 中文 README
+⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/zjw1918/WeiAssist) · 个人维护 · 中文 README
 
 **在 Android 手机上替用户操作手机的开源 AI 代理应用**
 
@@ -47,12 +47,12 @@ WeiAssist（小维助手）是一个运行在 Android 手机上的开源 AI 代�
 ```mermaid
 xychart-beta
     title "zjw1918/WeiAssist 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 5 --> 10
-    line [6, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 5 --> 11
+    line [6, 8, 9, 10]
 ```
 
-2026-11-08 6 → 2026-11-20 9（+3）
+2026-11-08 6 → 2026-11-21 10（+4）
 
 
 ---

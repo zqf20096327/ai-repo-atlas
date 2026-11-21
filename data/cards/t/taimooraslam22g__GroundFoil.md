@@ -1,6 +1,6 @@
 # taimooraslam22g/GroundFoil
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/taimooraslam22g/GroundFoil) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **科研复现项目：用 U-Net 预测地面效应倒置翼型（F1 前翼）流场**
 
@@ -11,7 +11,7 @@ GroundFoil 是围绕 Thuerey 等 2020 年翼型流场深度学习论文的研究
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

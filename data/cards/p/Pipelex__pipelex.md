@@ -1,6 +1,6 @@
 # Pipelex/pipelex
 
-⭐ 951 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Pipelex/pipelex) · [官网](https://pipelex.com) · 组织维护
+⭐ 951 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Pipelex/pipelex) · [官网](https://pipelex.com) · 组织维护
 
 **用编码 agent 构建 AI 方法并以 MCP/Webapp/API 运行的运行时**
 
@@ -45,13 +45,13 @@ Pipelex 是一个 Python 运行时与配套体系：用户用自然语言描述�
 
 ```mermaid
 xychart-beta
-    title "Pipelex/pipelex 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 945 --> 952
-    line [946, 947, 948, 949, 950, 948, 949, 950, 951, 951]
+    title "Pipelex/pipelex 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 946 --> 952
+    line [947, 948, 949, 950, 948, 949, 950, 951, 951]
 ```
 
-2026-10-18 946 → 2026-11-20 951（+5）
+2026-10-19 947 → 2026-11-21 951（+4）
 
 
 ---

@@ -45,12 +45,12 @@ Oracle 官方提供的 MLflow 插件，将 MLflow 各功能映射到 OCI 资源�
 ```mermaid
 xychart-beta
     title "oracle/oci-mlflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-20 29（+0）
+2026-10-19 29 → 2026-11-21 29（+0）
 
 
 ---

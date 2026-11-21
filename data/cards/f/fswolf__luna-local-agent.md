@@ -1,6 +1,6 @@
 # fswolf/luna-local-agent
 
-⭐ 12 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fswolf/luna-local-agent) · [官网](https://github.com/fswolf/luna-local-agent/wiki) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/fswolf/luna-local-agent) · [官网](https://github.com/fswolf/luna-local-agent/wiki) · 个人维护
 
 **全本地私有 AI 语音伴侣：语音进出、记忆、工具与可视化推理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fswolf/luna-local-agent 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 10 --> 18
+    line [11, 12, 17]
 ```
 
-2026-11-10 11 → 2026-11-20 12（+1）
+2026-11-10 11 → 2026-11-21 17（+6）
 
 
 ---

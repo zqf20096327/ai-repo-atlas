@@ -45,12 +45,12 @@ Go 编写的反向代理，在本地暴露 Anthropic Messages、Gemini 与 OpenA
 ```mermaid
 xychart-beta
     title "sozercan/vekil 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-20 22（+0）
+2026-10-19 22 → 2026-11-21 22（+0）
 
 
 ---

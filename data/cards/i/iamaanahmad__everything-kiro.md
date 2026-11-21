@@ -1,6 +1,6 @@
 # iamaanahmad/everything-kiro
 
-⭐ 32 · 推送 2026-11-16 · [GitHub](https://github.com/iamaanahmad/everything-kiro) · 个人维护
+⭐ 31 · 推送 2026-11-16 · [GitHub](https://github.com/iamaanahmad/everything-kiro) · 个人维护
 
 **Kiro IDE 配置集合：agents、skills、hooks、MCP 集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iamaanahmad/everything-kiro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
     y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    line [31, 32, 31]
 ```
 
-2026-10-18 31 → 2026-11-20 32（+1）
+2026-10-18 31 → 2026-11-21 31（+0）
 
 
 ---

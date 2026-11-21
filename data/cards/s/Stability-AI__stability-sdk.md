@@ -1,6 +1,6 @@
 # Stability-AI/stability-sdk
 
-⭐ 2,437 · Jupyter Notebook · MIT · 推送 2026-05-14 · [GitHub](https://github.com/Stability-AI/stability-sdk) · [官网](https://platform.stability.ai/) · 组织维护
+⭐ 2,436 · Jupyter Notebook · MIT · 推送 2026-05-14 · [GitHub](https://github.com/Stability-AI/stability-sdk) · [官网](https://platform.stability.ai/) · 组织维护
 
 **Stability AI 官方 SDK：通过 gRPC API 调用文生图/放大**
 
@@ -44,12 +44,12 @@ Stability-AI 维护的 Python SDK，封装基于 gRPC 的 Stability API：设置
 ```mermaid
 xychart-beta
     title "Stability-AI/stability-sdk 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 2436 --> 2439
-    line [2437, 2438, 2437, 2438, 2437, 2438, 2437, 2437]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 2435 --> 2439
+    line [2437, 2438, 2437, 2438, 2437, 2438, 2437, 2436]
 ```
 
-2026-10-18 2,437 → 2026-11-20 2,437（+0）
+2026-10-19 2,437 → 2026-11-21 2,436（-1）
 
 
 ---

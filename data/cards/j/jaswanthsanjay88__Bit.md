@@ -1,6 +1,6 @@
 # jaswanthsanjay88/Bit
 
-⭐ 24 · C++ · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jaswanthsanjay88/Bit) · [官网](https://bit.jaswanthsanjay.me) · 个人维护
+⭐ 23 · C++ · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jaswanthsanjay88/Bit) · [官网](https://bit.jaswanthsanjay.me) · 个人维护
 
 **Android 端本地运行 LLM/视觉/图像生成的隐私优先 AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jaswanthsanjay88/Bit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-14", "2026-11-21"]
     y-axis "stars" 19 --> 25
-    line [20, 23, 24, 24]
+    line [20, 23, 24, 23]
 ```
 
-2026-10-18 20 → 2026-11-20 24（+4）
+2026-10-19 20 → 2026-11-21 23（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # dropbox/hqq
 
-⭐ 964 · Python · Apache-2.0 · 推送 2026-02-26 · [GitHub](https://github.com/dropbox/hqq) · [官网](https://dropbox.github.io/hqq_blog/) · 组织维护
+⭐ 963 · Python · Apache-2.0 · 推送 2026-02-26 · [GitHub](https://github.com/dropbox/hqq) · [官网](https://dropbox.github.io/hqq_blog/) · 组织维护
 
 **大模型免校准量化库：分钟级完成 1-8bit 量化**
 
@@ -46,12 +46,12 @@ Dropbox 官方维护的 Half-Quadratic Quantization（HQQ/HQQ+）实现：一种
 ```mermaid
 xychart-beta
     title "dropbox/hqq 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21"]
     y-axis "stars" 959 --> 965
-    line [960, 962, 960, 962, 963, 964, 964]
+    line [960, 962, 960, 962, 963, 964, 963]
 ```
 
-2026-10-18 960 → 2026-11-20 964（+4）
+2026-10-19 960 → 2026-11-21 963（+3）
 
 
 ---

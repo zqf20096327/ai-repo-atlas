@@ -43,12 +43,12 @@ AMD Research 维护的 AMD University Program（AUP）AI 教程仓库，内容�
 ```mermaid
 xychart-beta
     title "AMDResearch/aup-ai-tutorials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-14", "2026-11-21"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-20 17（+2）
+2026-10-19 15 → 2026-11-21 17（+2）
 
 
 ---

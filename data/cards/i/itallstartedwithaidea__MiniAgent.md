@@ -1,6 +1,6 @@
 # itallstartedwithaidea/MiniAgent
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/itallstartedwithaidea/MiniAgent) · [官网](https://itallstartedwithaidea.com/work/advertising-hub/) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/itallstartedwithaidea/MiniAgent) · [官网](https://itallstartedwithaidea.com/work/advertising-hub/) · 个人维护
 
 **广告领域可训练 LLM + 14 广告平台 MCP 服务器 + agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "itallstartedwithaidea/MiniAgent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 11, 12, 13, 13]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 12, 13, 14]
 ```
 
-2026-10-18 11 → 2026-11-20 13（+2）
+2026-10-19 11 → 2026-11-21 14（+3）
 
 
 ---

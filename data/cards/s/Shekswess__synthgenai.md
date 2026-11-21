@@ -1,6 +1,6 @@
 # Shekswess/synthgenai
 
-⭐ 59 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/Shekswess/synthgenai) · [官网](https://shekswess.github.io/synthgenai/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用多供应商 LLM 生成合成数据集的 Python 包**
 
@@ -11,7 +11,7 @@ SynthGenAI 是一个模块化的 Python 包，通过 LiteLLM 调用多家 LLM AP
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

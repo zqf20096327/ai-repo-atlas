@@ -41,6 +41,18 @@
 > L104: |Agent|Reaches the bridge over|Switching models|
 > L112: alc starts its own Codex adapter on a loopback port and points only the launched
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "treeleaves30760/all-code 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-20 11 → 2026-11-21 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `0ba9be1307ce` · [字段定义](../../DATASET.md)*

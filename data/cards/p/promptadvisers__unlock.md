@@ -1,6 +1,6 @@
 # promptadvisers/unlock
 
-⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/promptadvisers/unlock) · 个人维护
+⭐ 18 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/promptadvisers/unlock) · 个人维护
 
 **通过 Claude Code/Codex 编辑本地模型行为的技能：改副本、留原件**
 
@@ -40,6 +40,18 @@ Unlock 是一组安装到 Claude Code 或 Codex 技能目录的指令与辅助�
 > L7: Built on Heretic
 > L14: Unlock is the skill that did that. It is a set of instructions and helper scripts for Claude Code and Codex. Your a
 > L16: The edit itself is done by **Heretic**, the open-source model editing tool by Philipp Emanuel Weidmann. Unlock does
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "promptadvisers/unlock 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 13 --> 19
+    line [14, 18]
+```
+
+2026-11-20 14 → 2026-11-21 18（+4）
 
 
 ---

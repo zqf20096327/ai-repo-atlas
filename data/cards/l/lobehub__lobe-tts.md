@@ -1,6 +1,6 @@
 # lobehub/lobe-tts
 
-⭐ 811 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/lobehub/lobe-tts) · [官网](https://tts.lobehub.com) · 组织维护 · 中文 README
+⭐ 810 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/lobehub/lobe-tts) · [官网](https://tts.lobehub.com) · 组织维护 · 中文 README
 
 **给 Web/Node 开发者的 TTS/STT 语音库，服务端与浏览器通用**
 
@@ -44,13 +44,13 @@ TypeScript 库 @lobehub/tts，提供文本转语音与语音转文本能力，�
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-tts 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-20"]
+    title "lobehub/lobe-tts 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 805 --> 813
-    line [806, 807, 809, 810, 809, 810, 812, 811]
+    line [806, 807, 809, 810, 809, 810, 812, 811, 810]
 ```
 
-2026-10-18 806 → 2026-11-20 811（+5）
+2026-10-19 806 → 2026-11-21 810（+4）
 
 
 ---

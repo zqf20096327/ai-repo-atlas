@@ -1,6 +1,6 @@
 # fishaudio/fish-audio-hermes
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/fishaudio/fish-audio-hermes) · [官网](https://fish.audio) · 组织维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/fishaudio/fish-audio-hermes) · [官网](https://fish.audio) · 组织维护
 
 **让 Hermes agent 说和听：接入 Fish Audio 语音合成与转写**
 
@@ -40,6 +40,18 @@ Fish Audio 的官方 Hermes Agent 插件，由 Electric Sheep 维护，运行于
 > L7: The official Fish Audio plugin for Hermes Agent,
 > L16: hermes plugins install 100yenadmin/fish-audio-hermes --enable --yes-deps
 > L56: at the prompt or pass `--yes`. Once Fish Audio is the provider, voice replies,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fishaudio/fish-audio-hermes 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 61 --> 64
+    line [63, 62]
+```
+
+2026-11-20 63 → 2026-11-21 62（-1）
 
 
 ---

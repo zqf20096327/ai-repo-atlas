@@ -1,6 +1,6 @@
 # lovablelabs/mcp
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/lovablelabs/mcp) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/lovablelabs/mcp) · 组织维护
 
 **把 Claude 接入 Lovable 的插件：对话中构建并运维应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lovablelabs/mcp 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-15", "2026-11-21"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-11-15 10 → 2026-11-20 10（+0）
+2026-11-15 10 → 2026-11-21 12（+2）
 
 
 ---

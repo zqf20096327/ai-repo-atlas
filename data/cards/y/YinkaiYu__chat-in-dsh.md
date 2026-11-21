@@ -1,6 +1,6 @@
 # YinkaiYu/chat-in-dsh
 
-⭐ 30 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/YinkaiYu/chat-in-dsh) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/YinkaiYu/chat-in-dsh) · 个人维护 · 中文 README
 
 **在 DeepSeek Harness 里复刻 DeepSeek 网页版聊天的插件**
 
@@ -40,6 +40,18 @@
 > L3:  在 DeepSeek Harness（DSH）里，用原汁原味的网页版对话。
 > L18: 本插件在 DSH 里加一个独立面板，面板里就是原汁原味的 DeepSeek 网页版本身：官方极简系统提示词、官方的服务端工具、官方界面。在这小小的一方天地，只有 DeepSeek，没有 Harness，它不再被工具束缚，也不再有限
 > L22: - **原汁原味**：界面就是 DeepSeek 官方开源的那份前端，交互、排版、动效都按官网复刻
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "YinkaiYu/chat-in-dsh 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 29 --> 34
+    line [30, 33]
+```
+
+2026-11-20 30 → 2026-11-21 33（+3）
 
 
 ---

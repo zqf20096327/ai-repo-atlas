@@ -1,6 +1,6 @@
 # EndoTheDev/omega
 
-⭐ 10 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/EndoTheDev/omega) · 个人维护
+⭐ 11 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/EndoTheDev/omega) · 个人维护
 
 **自托管 AI agent 平台：单二进制 CLI+WebUI，多 LLM 路由**
 
@@ -40,6 +40,18 @@
 > L9: omega is an AI assistant that reads files, runs
 > L10: commands, and edits code. It talks to LLM providers (Ollama, OpenAI,
 > L76: HTTP channel -> agent (loop + tools) -> llm (provider streaming)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EndoTheDev/omega 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-20 10 → 2026-11-21 11（+1）
 
 
 ---

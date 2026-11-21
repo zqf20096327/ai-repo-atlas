@@ -1,6 +1,6 @@
 # 01NGVI-QINGYI/ARIA-X
 
-⭐ 8 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/01NGVI-QINGYI/ARIA-X) · 个人维护 · 中文 README
+⭐ 59 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/01NGVI-QINGYI/ARIA-X) · 个人维护 · 中文 README
 
 **面向安全研究的本地状态空间推理 agent，输出可核验证据报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "01NGVI-QINGYI/ARIA-X 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 2 --> 9
-    line [3, 4, 3, 5, 6, 7, 8]
+    title "01NGVI-QINGYI/ARIA-X 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 0 --> 64
+    line [3, 4, 3, 5, 6, 7, 8, 59]
 ```
 
-2026-10-25 3 → 2026-11-20 8（+5）
+2026-10-25 3 → 2026-11-21 59（+56）
 
 
 ---

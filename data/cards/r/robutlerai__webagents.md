@@ -1,6 +1,6 @@
 # robutlerai/webagents
 
-⭐ 13 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/robutlerai/webagents) · [官网](https://robutler.ai/webagents) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/robutlerai/webagents) · [官网](https://robutler.ai/webagents) · 组织维护
 
 **构建、运行与互联 AI agent 的 Python/TypeScript 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "robutlerai/webagents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Arcadi4/balatro-agent
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Arcadi4/balatro-agent) · [官网](https://www.nexusmods.com/balatro/mods/927) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Arcadi4/balatro-agent) · [官网](https://www.nexusmods.com/balatro/mods/927) · 个人维护 · 中文 README
 
 **让 MCP AI 代理直接游玩 Balatro 的游戏模组与服务器**
 
@@ -45,12 +45,12 @@ Balatro 游戏模组（依赖 Lovely Injector 与 Steamodded）加原生 MCP 服
 ```mermaid
 xychart-beta
     title "Arcadi4/balatro-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-20 22（+1）
+2026-10-19 21 → 2026-11-21 22（+1）
 
 
 ---

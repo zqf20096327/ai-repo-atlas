@@ -1,6 +1,6 @@
 # open-resource-discovery/a2a-editor
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/open-resource-discovery/a2a-editor) · [官网](https://open-resource-discovery.github.io/a2a-editor/playground) · 组织维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/open-resource-discovery/a2a-editor) · [官网](https://open-resource-discovery.github.io/a2a-editor/playground) · 组织维护
 
 **A2A 协议 agent 的编辑/查看/测试 UI 组件**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "open-resource-discovery/a2a-editor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-12", "2026-11-21"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-20 22（+1）
+2026-10-19 21 → 2026-11-21 22（+1）
 
 
 ---

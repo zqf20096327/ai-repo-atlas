@@ -1,6 +1,6 @@
 # Delight0628/init-your-agent
 
-⭐ 11 · Shell · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Delight0628/init-your-agent) · 个人维护 · 中文 README
+⭐ 10 · Shell · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Delight0628/init-your-agent) · 个人维护 · 中文 README
 
 **为 AI 编程代理自动生成本机开发环境上下文文件的检测脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Delight0628/init-your-agent 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-21"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10]
 ```
 
-2026-11-11 10 → 2026-11-20 11（+1）
+2026-11-11 10 → 2026-11-21 10（+0）
 
 
 ---

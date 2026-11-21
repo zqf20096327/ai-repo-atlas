@@ -1,6 +1,6 @@
 # inboxpraveen/Speech-Annotation-Tool
 
-⭐ 10 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/inboxpraveen/Speech-Annotation-Tool) · [官网](https://inboxpraveen.github.io/projects/project-4.html) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/inboxpraveen/Speech-Annotation-Tool) · [官网](https://inboxpraveen.github.io/projects/project-4.html) · 个人维护
 
 **把音频文件夹转为审核后语音数据集的自托管工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "inboxpraveen/Speech-Annotation-Tool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cookieY/Yearning
 
-⭐ 8,979 · Go · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/cookieY/Yearning) · [官网](https://v4.yearning.io/) · 组织维护 · 中文 README
+⭐ 8,979 · Go · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/cookieY/Yearning) · [官网](https://v4.yearning.io/) · 组织维护 · 中文 README
 
 **给 DBA/平台团队提供 AI 预检与治理的 SQL 审核变更平台**
 
@@ -41,6 +41,18 @@
 > L9: **AI-Powered Database Change Governance & SQL Review Platform**
 > L50: **Yearning v4** is a ground-up architectural rebuild of the open-source Yearning SQL audit and database governance 
 > L99:  - **`san` Track (Local Self-Hosted Models via vLLM / Ollama)**: Compact Raw-SQL Native prompts on internal RFC1918
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cookieY/Yearning 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 8978 --> 8980
+    line [8979, 8979]
+```
+
+2026-11-20 8,979 → 2026-11-21 8,979（+0）
 
 
 ---

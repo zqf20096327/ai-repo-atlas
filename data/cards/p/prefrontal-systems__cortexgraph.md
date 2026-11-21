@@ -44,13 +44,13 @@ Model Context Protocol (MCP) 服务器，为 Claude 等 AI 助手提供短期/�
 
 ```mermaid
 xychart-beta
-    title "prefrontal-systems/cortexgraph 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 37, 39, 39]
+    title "prefrontal-systems/cortexgraph 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 37, 39, 39]
 ```
 
-2026-10-18 36 → 2026-11-20 39（+3）
+2026-10-19 37 → 2026-11-21 39（+2）
 
 
 ---

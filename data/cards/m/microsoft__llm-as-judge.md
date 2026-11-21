@@ -1,6 +1,6 @@
 # microsoft/llm-as-judge
 
-⭐ 43 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/microsoft/llm-as-judge) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/microsoft/llm-as-judge) · 组织维护
 
 **用 LLM 评审 LLM 输出的结构化评测框架（FastAPI+Azure）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/llm-as-judge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 39 --> 44
-    line [40, 41, 43, 43]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 39 --> 46
+    line [40, 41, 43, 45]
 ```
 
-2026-10-18 40 → 2026-11-20 43（+3）
+2026-10-18 40 → 2026-11-21 45（+5）
 
 
 ---

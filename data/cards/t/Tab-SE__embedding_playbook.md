@@ -1,6 +1,6 @@
 # Tab-SE/embedding_playbook
 
-⭐ 23 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Tab-SE/embedding_playbook) · [官网](https://www.embedtableau.com) · 组织维护
+⭐ 23 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Tab-SE/embedding_playbook) · [官网](https://www.embedtableau.com) · 组织维护
 
 **Tableau 嵌入式分析应用的教程 playbook 与可定制演示模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tab-SE/embedding_playbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-20 23（+0）
+2026-10-19 23 → 2026-11-21 23（+0）
 
 
 ---

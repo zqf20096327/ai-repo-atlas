@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sanchorelaxo/openclaw-raspberry-installer 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-16", "2026-11-21"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-16 14 → 2026-11-20 14（+0）
+2026-11-16 14 → 2026-11-21 14（+0）
 
 
 ---

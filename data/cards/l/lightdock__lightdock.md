@@ -1,6 +1,6 @@
 # lightdock/lightdock
 
-⭐ 414 · Python · GPL-3.0 · 推送 2026-09-06 · [GitHub](https://github.com/lightdock/lightdock) · [官网](https://lightdock.org/) · 组织维护
+⭐ 415 · Python · GPL-3.0 · 推送 2026-09-06 · [GitHub](https://github.com/lightdock/lightdock) · [官网](https://lightdock.org/) · 组织维护
 
 **蛋白质-蛋白质/肽/DNA 对接模拟框架，基于萤火虫群优化算法**
 
@@ -45,12 +45,12 @@ LightDock 是一个分子对接框架，用 Glowworm Swarm Optimization（GSO）
 ```mermaid
 xychart-beta
     title "lightdock/lightdock 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 411 --> 415
-    line [412, 413, 414, 413, 414, 414]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 411 --> 416
+    line [412, 413, 414, 413, 414, 415]
 ```
 
-2026-10-18 412 → 2026-11-20 414（+2）
+2026-10-19 412 → 2026-11-21 415（+3）
 
 
 ---

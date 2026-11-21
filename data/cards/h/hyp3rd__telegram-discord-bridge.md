@@ -1,6 +1,6 @@
 # hyp3rd/telegram-discord-bridge
 
-⭐ 39 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/hyp3rd/telegram-discord-bridge) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/hyp3rd/telegram-discord-bridge) · 个人维护
 
 **把 Telegram 频道消息转发到 Discord 的桥接机器人，可选 AI 增强**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hyp3rd/telegram-discord-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    line [38, 39, 38]
 ```
 
-2026-10-18 38 → 2026-11-20 39（+1）
+2026-10-19 38 → 2026-11-21 38（+0）
 
 
 ---

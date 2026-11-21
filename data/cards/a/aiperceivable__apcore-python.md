@@ -1,6 +1,6 @@
 # aiperceivable/apcore-python
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/aiperceivable/apcore-python) · [官网](https://aipartnerup.com/) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/aiperceivable/apcore-python) · [官网](https://aipartnerup.com/) · 组织维护
 
 **面向 AI 可调用能力的受治理模块开发框架**
 
@@ -45,12 +45,12 @@ apcore 是一个 schema 驱动的 Python 模块开发与治理运行时：开发
 ```mermaid
 xychart-beta
     title "aiperceivable/apcore-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---

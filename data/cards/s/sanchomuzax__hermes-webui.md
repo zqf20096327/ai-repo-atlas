@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanchomuzax/hermes-webui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "sanchomuzax/hermes-webui 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 112 --> 115
-    line [114, 113]
+    line [114, 113, 113]
 ```
 
-2026-10-18 114 → 2026-11-20 113（-1）
+2026-10-19 114 → 2026-11-21 113（-1）
 
 
 ---

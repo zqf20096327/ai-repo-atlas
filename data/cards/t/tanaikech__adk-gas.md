@@ -1,6 +1,6 @@
 # tanaikech/adk-gas
 
-⭐ 11 · JavaScript · MIT · 推送 2026-06-24 · [GitHub](https://github.com/tanaikech/adk-gas) · [官网](https://medium.com/google-cloud/agent-development-kit-for-google-apps-script-2413e97e8d84) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-06-24 · [GitHub](https://github.com/tanaikech/adk-gas) · [官网](https://medium.com/google-cloud/agent-development-kit-for-google-apps-script-2413e97e8d84) · 个人维护
 
 **面向 Google Apps Script 的 Agent 开发工具包，用 Gemini 构建 AI agent**
 
@@ -46,12 +46,12 @@ GASADK 是运行在 Google Apps Script 环境中的 Agent Development Kit，受 
 ```mermaid
 xychart-beta
     title "tanaikech/adk-gas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-18 11 → 2026-11-21 12（+1）
 
 
 ---

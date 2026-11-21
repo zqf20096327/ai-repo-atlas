@@ -1,6 +1,6 @@
 # microsoft/WindowsAgentArena
 
-⭐ 917 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/WindowsAgentArena) · [官网](https://microsoft.github.io/WindowsAgentArena) · 组织维护
+⭐ 918 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/WindowsAgentArena) · [官网](https://microsoft.github.io/WindowsAgentArena) · 组织维护
 
 **给 AI 研究者的 Windows 桌面 Agent 基准测试平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/WindowsAgentArena 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 911 --> 918
-    line [912, 913, 912, 915, 916, 915, 916, 917, 917]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 911 --> 919
+    line [912, 913, 912, 915, 916, 915, 916, 917, 918]
 ```
 
-2026-10-18 912 → 2026-11-20 917（+5）
+2026-10-19 912 → 2026-11-21 918（+6）
 
 
 ---

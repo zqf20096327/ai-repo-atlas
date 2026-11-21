@@ -45,12 +45,12 @@ Stable Diffusion WebUI（A1111 与 Forge，含 Forge Neo）的扩展，内置离
 ```mermaid
 xychart-beta
     title "eduardoabreu81/sd-character-finder 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-16", "2026-11-21"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-11-16 18 → 2026-11-20 18（+0）
+2026-11-16 18 → 2026-11-21 18（+0）
 
 
 ---

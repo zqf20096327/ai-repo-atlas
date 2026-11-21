@@ -1,6 +1,6 @@
 # meta-pytorch/tnt
 
-⭐ 1,722 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/meta-pytorch/tnt) · [官网](https://pytorch.org/tnt/) · 组织维护
+⭐ 1,722 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/meta-pytorch/tnt) · [官网](https://pytorch.org/tnt/) · 组织维护
 
 **PyTorch 训练工具与实用程序轻量库**
 
@@ -43,13 +43,13 @@ TNT（torchtnt）是面向 PyTorch 的训练工具与实用程序库，提供训
 
 ```mermaid
 xychart-beta
-    title "meta-pytorch/tnt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "meta-pytorch/tnt 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 1721 --> 1724
-    line [1723, 1722]
+    line [1723, 1722, 1722]
 ```
 
-2026-10-18 1,723 → 2026-11-20 1,722（-1）
+2026-10-19 1,723 → 2026-11-21 1,722（-1）
 
 
 ---

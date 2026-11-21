@@ -1,6 +1,6 @@
 # synthesisengineering/ragbot
 
-⭐ 34 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/synthesisengineering/ragbot) · [官网](https://rajiv.com/blog/2023/05/08/introducing-rbot-a-personalized-ai-assistant-written-by-rbot/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/synthesisengineering/ragbot) · [官网](https://rajiv.com/blog/2023/05/08/introducing-rbot-a-personalized-ai-assistant-written-by-rbot/) · 个人维护
 
 **给个人用户的对话式 AI 助手运行时：本地优先、工作区感知的合成工程工作台**
 
@@ -46,12 +46,12 @@ Ragbot 是合成工程方法论的对话式参考运行时，由 Rajiv Pant 开�
 ```mermaid
 xychart-beta
     title "synthesisengineering/ragbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-20 34（+0）
+2026-10-19 34 → 2026-11-21 34（+0）
 
 
 ---

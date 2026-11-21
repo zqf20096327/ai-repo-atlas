@@ -1,6 +1,6 @@
 # ewhacc/tandem.cpp
 
-⭐ 102 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/ewhacc/tandem.cpp) · 个人维护
+⭐ 107 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ewhacc/tandem.cpp) · 个人维护
 
 **llama.cpp 补丁集：让超出 VRAM 的 MoE 模型本地解码更快**
 
@@ -44,13 +44,13 @@ tandem.cpp 是针对 llama.cpp 基础提交 f5222f25c 的独立补丁集（v0.3.
 
 ```mermaid
 xychart-beta
-    title "ewhacc/tandem.cpp 星数(近 7 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 50 --> 106
-    line [54, 56, 75, 78, 83, 95, 102]
+    title "ewhacc/tandem.cpp 星数(近 8 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 49 --> 112
+    line [54, 56, 75, 78, 83, 95, 102, 107]
 ```
 
-2026-11-13 54 → 2026-11-20 102（+48）
+2026-11-13 54 → 2026-11-21 107（+53）
 
 
 ---

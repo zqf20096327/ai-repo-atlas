@@ -1,6 +1,6 @@
 # yzsind/mydb
 
-⭐ 68 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/yzsind/mydb) · 个人维护
+⭐ 80 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/yzsind/mydb) · 个人维护
 
 **Rust 编写的 MySQL 兼容 HTAP 数据库，内置向量检索与 AI 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yzsind/mydb 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 15 --> 72
-    line [19, 53, 68]
+    title "yzsind/mydb 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 13 --> 86
+    line [19, 53, 68, 80]
 ```
 
-2026-11-18 19 → 2026-11-20 68（+49）
+2026-11-18 19 → 2026-11-21 80（+61）
 
 
 ---

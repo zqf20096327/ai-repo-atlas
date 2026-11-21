@@ -1,6 +1,6 @@
 # Anbu-00001/CivicMesh
 
-⭐ 27 · Jac · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Anbu-00001/CivicMesh) · [官网](https://huggingface.co/spaces/Anbu-00001/CivicMesh) · 个人维护
+⭐ 26 · Jac · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Anbu-00001/CivicMesh) · [官网](https://huggingface.co/spaces/Anbu-00001/CivicMesh) · 个人维护
 
 **面向危机人群的社会救助资格导航应用：住房/食品/医疗/法律援助匹配**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Anbu-00001/CivicMesh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-21"]
     y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    line [26, 27, 26]
 ```
 
-2026-10-18 26 → 2026-11-20 27（+1）
+2026-10-18 26 → 2026-11-21 26（+0）
 
 
 ---

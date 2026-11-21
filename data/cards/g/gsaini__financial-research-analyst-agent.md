@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gsaini/financial-research-analyst-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 60 --> 67
-    line [61, 63, 65, 66, 66]
+    title "gsaini/financial-research-analyst-agent 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 62 --> 67
+    line [63, 65, 66, 66]
 ```
 
-2026-10-18 61 → 2026-11-20 66（+5）
+2026-10-19 63 → 2026-11-21 66（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # fjp/fjp.github.io
 
-⭐ 15 · HTML · MIT · 推送 2026-11-10 · [GitHub](https://github.com/fjp/fjp.github.io) · [官网](https://fjp.github.io) · 个人维护
+⭐ 15 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/fjp/fjp.github.io) · [官网](https://fjp.github.io) · 个人维护
 
 **个人 Jekyll 博客仓库，基于 minimal-mistakes 主题托管于 GitHub Pages**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "fjp/fjp.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 15（+0）
 
 
 ---

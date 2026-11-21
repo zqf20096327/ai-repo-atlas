@@ -1,6 +1,6 @@
 # marceloeatworld/nixos-ai-skill
 
-⭐ 36 · Shell · 推送 2026-11-19 · [GitHub](https://github.com/marceloeatworld/nixos-ai-skill) · 个人维护
+⭐ 36 · Shell · 推送 2026-11-20 · [GitHub](https://github.com/marceloeatworld/nixos-ai-skill) · 个人维护
 
 **NixOS/Nix 文档的 AI 编程助手技能包，日更自动生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "marceloeatworld/nixos-ai-skill 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 29 --> 37
-    line [30, 32, 33, 32, 33, 34, 36, 36]
+    title "marceloeatworld/nixos-ai-skill 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 31 --> 37
+    line [32, 33, 32, 33, 34, 36, 36]
 ```
 
-2026-10-18 30 → 2026-11-20 36（+6）
+2026-10-19 32 → 2026-11-21 36（+4）
 
 
 ---

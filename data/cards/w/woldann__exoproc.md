@@ -42,6 +42,18 @@ Exoproc 提供 21 个工具的 MCP 服务器与独立终端 CLI，面向 Windows
 > L219: Exoproc exposes **21 high-performance tools** over standard Model Context Protocol (stdio):
 > L23: > Exoproc targets native **Windows x64** process runtime. Development and offline operations (C-to-shellcode JIT co
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "woldann/exoproc 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 101 --> 103
+    line [102, 102]
+```
+
+2026-11-20 102 → 2026-11-21 102（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `ebd4e4be12fa` · [字段定义](../../DATASET.md)*

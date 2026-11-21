@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raullenchai/twinspark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "raullenchai/twinspark 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 172 --> 177
-    line [176, 173]
+    line [176, 173, 173]
 ```
 
-2026-10-18 176 → 2026-11-20 173（-3）
+2026-10-19 176 → 2026-11-21 173（-3）
 
 
 ---

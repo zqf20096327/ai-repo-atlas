@@ -1,6 +1,6 @@
 # pdparchitect/rook
 
-⭐ 34 · Go · MIT · 推送 2026-08-24 · [GitHub](https://github.com/pdparchitect/rook) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给安全研究者的自主 AI 漏洞挖掘 harness（单一 Go 二进制）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

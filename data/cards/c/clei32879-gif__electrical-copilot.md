@@ -1,6 +1,6 @@
 # clei32879-gif/electrical-copilot
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/clei32879-gif/electrical-copilot) · 个人维护 · 中文 README
+⭐ 17 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/clei32879-gif/electrical-copilot) · 个人维护 · 中文 README
 
 **本地运行的电气工程师 AI 工作台：直出多品牌 PLC 工程文件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "clei32879-gif/electrical-copilot 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 6 --> 16
-    line [7, 8, 9, 10, 7, 14, 15, 14, 15]
+    title "clei32879-gif/electrical-copilot 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 6 --> 18
+    line [7, 8, 9, 10, 7, 14, 15, 14, 15, 17]
 ```
 
-2026-10-18 7 → 2026-11-20 15（+8）
+2026-10-18 7 → 2026-11-21 17（+10）
 
 
 ---

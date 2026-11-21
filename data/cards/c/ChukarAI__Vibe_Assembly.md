@@ -41,6 +41,18 @@
 > L14: hash-anchored execution harness.
 > L71: - A local OpenAI-compatible router for live runs. Offline mock runs need no router.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ChukarAI/Vibe_Assembly 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `57e340e2dfa6` · [字段定义](../../DATASET.md)*

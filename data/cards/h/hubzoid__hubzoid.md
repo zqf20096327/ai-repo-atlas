@@ -1,6 +1,6 @@
 # hubzoid/hubzoid
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/hubzoid/hubzoid) · [官网](https://hubzoid.com) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hubzoid/hubzoid) · [官网](https://hubzoid.com) · 组织维护
 
 **开源内部 AI agent 平台：知识规则工具一次定义，多端复用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hubzoid/hubzoid 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-21"]
     y-axis "stars" 14 --> 20
     line [15, 17, 18, 19, 19]
 ```
 
-2026-10-18 15 → 2026-11-20 19（+4）
+2026-10-19 15 → 2026-11-21 19（+4）
 
 
 ---

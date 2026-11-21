@@ -1,6 +1,6 @@
 # snake-aabb-wtf/skill-webAI2api
 
-⭐ 35 · Python · Unlicense · 推送 2026-07-31 · [GitHub](https://github.com/snake-aabb-wtf/skill-webAI2api) · 个人维护 · 中文 README
+⭐ 36 · Python · Unlicense · 推送 2026-07-31 · [GitHub](https://github.com/snake-aabb-wtf/skill-webAI2api) · 个人维护 · 中文 README
 
 **把任意网页 AI 逆向成 OpenAI 兼容 API 的代理生成工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "snake-aabb-wtf/skill-webAI2api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-11-20 35（+1）
+2026-10-19 34 → 2026-11-21 36（+2）
 
 
 ---

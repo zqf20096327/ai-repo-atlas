@@ -1,6 +1,6 @@
 # cmu-sei/rangerai
 
-⭐ 11 · C# · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/cmu-sei/rangerai) · [官网](https://cmu-sei.github.io/rangerai/) · 组织维护
+⭐ 11 · C# · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/cmu-sei/rangerai) · [官网](https://cmu-sei.github.io/rangerai/) · 组织维护
 
 **面向网络靶场训练/演练/实验的自动化编排 AI 基础设施**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cmu-sei/rangerai 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-20 11（+0）
+2026-11-10 11 → 2026-11-21 11（+0）
 
 
 ---

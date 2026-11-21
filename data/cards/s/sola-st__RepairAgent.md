@@ -1,6 +1,6 @@
 # sola-st/RepairAgent
 
-⭐ 110 · Python · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/sola-st/RepairAgent) · [官网](https://arxiv.org/abs/2403.17134) · 组织维护
+⭐ 111 · Python · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/sola-st/RepairAgent) · [官网](https://arxiv.org/abs/2403.17134) · 组织维护
 
 **自主修复 Java 项目缺陷的 LLM Agent 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sola-st/RepairAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 108 --> 111
-    line [109, 110, 110]
+    x-axis ["2026-10-19", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 108 --> 112
+    line [109, 110, 111]
 ```
 
-2026-10-18 109 → 2026-11-20 110（+1）
+2026-10-19 109 → 2026-11-21 111（+2）
 
 
 ---

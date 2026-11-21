@@ -1,6 +1,6 @@
 # yuezhiai/jonex-wiki
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/yuezhiai/jonex-wiki) · [官网](https://jonex.ai) · 组织维护 · 中文 README
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/yuezhiai/jonex-wiki) · [官网](https://jonex.ai) · 组织维护 · 中文 README
 
 **企业知识库的 LLM-Wiki 编译与可溯源问答服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yuezhiai/jonex-wiki 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-15", "2026-11-19", "2026-11-21"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-10 3 → 2026-11-20 5（+2）
+2026-11-10 3 → 2026-11-21 5（+2）
 
 
 ---

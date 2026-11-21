@@ -1,6 +1,6 @@
 # ymandrikov/ai-design-system
 
-⭐ 23 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/ymandrikov/ai-design-system) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/ymandrikov/ai-design-system) · 个人维护
 
 **教编码 agent 何时及如何使用项目 UI 组件的技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ymandrikov/ai-design-system 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 22, 20, 22, 23, 23]
+    x-axis ["2026-10-19", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 20, 22, 23, 24]
 ```
 
-2026-10-18 20 → 2026-11-20 23（+3）
+2026-10-19 20 → 2026-11-21 24（+4）
 
 
 ---

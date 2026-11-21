@@ -45,12 +45,12 @@ Python 脚本实现基于 Keras Sequential 模型的卷积神经网络，对小�
 ```mermaid
 xychart-beta
     title "aadium/wheat-disease-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 14（+0）
 
 
 ---

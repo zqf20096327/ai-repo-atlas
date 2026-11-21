@@ -1,6 +1,6 @@
 # hyperai/tvm-cn
 
-⭐ 3,953 · TypeScript · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/hyperai/tvm-cn) · [官网](https://tvm.hyper.ai) · 组织维护 · 中文 README
+⭐ 3,952 · TypeScript · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/hyperai/tvm-cn) · [官网](https://tvm.hyper.ai) · 组织维护 · 中文 README
 
 **Apache TVM 官方文档的中文翻译项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hyperai/tvm-cn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-12", "2026-11-21"]
     y-axis "stars" 3951 --> 3954
-    line [3953, 3952, 3953, 3953]
+    line [3953, 3952, 3953, 3952]
 ```
 
-2026-10-18 3,953 → 2026-11-20 3,953（+0）
+2026-10-19 3,953 → 2026-11-21 3,952（-1）
 
 
 ---

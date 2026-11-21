@@ -49,13 +49,13 @@ Nequix 提供材料领域基础模型的源码与预训练权重，覆盖 MPtrj�
 
 ```mermaid
 xychart-beta
-    title "atomicarchitects/nequix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 78 --> 82
-    line [79, 80, 81, 81]
+    title "atomicarchitects/nequix 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 79 --> 82
+    line [80, 81, 81]
 ```
 
-2026-10-18 79 → 2026-11-20 81（+2）
+2026-10-19 80 → 2026-11-21 81（+1）
 
 
 ---

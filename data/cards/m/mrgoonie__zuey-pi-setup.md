@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrgoonie/zuey-pi-setup 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 51 --> 54
-    line [53, 52, 52]
+    title "mrgoonie/zuey-pi-setup 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 51 --> 53
+    line [52, 52]
 ```
 
-2026-10-18 53 → 2026-11-20 52（-1）
+2026-10-19 52 → 2026-11-21 52（+0）
 
 
 ---

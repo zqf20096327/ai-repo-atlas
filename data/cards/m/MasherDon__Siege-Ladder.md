@@ -1,6 +1,6 @@
 # MasherDon/Siege-Ladder
 
-⭐ 14 · Python · MIT-0 · 推送 2026-11-09 · [GitHub](https://github.com/MasherDon/Siege-Ladder) · 个人维护
+⭐ 13 · Python · MIT-0 · 推送 2026-11-09 · [GitHub](https://github.com/MasherDon/Siege-Ladder) · 个人维护
 
 **让 DeepSeek-V4.1-Flash 在 16 GB 显卡 + NVMe 流式专家上本地运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MasherDon/Siege-Ladder 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 10, 12, 13, 14, 14]
+    line [10, 11, 10, 12, 13, 14, 13]
 ```
 
-2026-11-08 10 → 2026-11-20 14（+4）
+2026-11-08 10 → 2026-11-21 13（+3）
 
 
 ---

@@ -40,6 +40,18 @@ ICML 2025 论文 Spherical Diffusion Policy 的官方实现：一个基于球面
 > L6: Official implementation for **Spherical Diffusion Policy: A SE(3) Equivariant Visuomotor Policy with Spherical Fouri
 > L10: Spherical Diffusion Policy (SDP) is a SE(3) equivariant and T(3) invariant visuomotor policy that leverages spheric
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "amazon-science/Spherical_Diffusion_Policy 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 45 --> 47
+    line [46, 46]
+```
+
+2026-11-20 46 → 2026-11-21 46（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `fc511b485d2c` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@ ROOT 将 Obsidian 库、会议记录、邮件等来源索引为单一 SQLite 知
 
 ```mermaid
 xychart-beta
-    title "mshadmanrahman/root-kg 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "mshadmanrahman/root-kg 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-20 17（+2）
+2026-10-19 16 → 2026-11-21 17（+1）
 
 
 ---

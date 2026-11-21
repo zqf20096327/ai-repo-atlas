@@ -1,6 +1,6 @@
 # GoBrrr-ai/mjolnir
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/GoBrrr-ai/mjolnir) · [官网](https://gobrrr-ai.github.io/mjolnir/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/GoBrrr-ai/mjolnir) · [官网](https://gobrrr-ai.github.io/mjolnir/) · 组织维护
 
 **为边缘 GPU 提供 LLM 推理加速的解码内核与调优 vLLM 镜像**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GoBrrr-ai/mjolnir 星数(近 7 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 4 --> 14
-    line [5, 6, 7, 8, 10, 12, 13]
+    title "GoBrrr-ai/mjolnir 星数(近 8 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 4 --> 15
+    line [5, 6, 7, 8, 10, 12, 13, 14]
 ```
 
-2026-10-29 5 → 2026-11-20 13（+8）
+2026-10-29 5 → 2026-11-21 14（+9）
 
 
 ---

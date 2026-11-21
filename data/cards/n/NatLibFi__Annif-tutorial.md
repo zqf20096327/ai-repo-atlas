@@ -1,6 +1,6 @@
 # NatLibFi/Annif-tutorial
 
-⭐ 50 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-07-20 · [GitHub](https://github.com/NatLibFi/Annif-tutorial) · 组织维护
+⭐ 51 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-07-20 · [GitHub](https://github.com/NatLibFi/Annif-tutorial) · 组织维护
 
 **图书馆员/开发者的 Annif 自动主题标引教学材料**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NatLibFi/Annif-tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51]
 ```
 
-2026-10-18 49 → 2026-11-20 50（+1）
+2026-10-19 49 → 2026-11-21 51（+2）
 
 
 ---

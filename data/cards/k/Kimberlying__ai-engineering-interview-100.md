@@ -1,6 +1,6 @@
 # Kimberlying/ai-engineering-interview-100
 
-⭐ 112 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Kimberlying/ai-engineering-interview-100) · 个人维护 · 中文 README
+⭐ 113 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Kimberlying/ai-engineering-interview-100) · 个人维护 · 中文 README
 
 **AI 工程面试题手册：100 道生产实战题与 7 个端到端架构设计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kimberlying/ai-engineering-interview-100 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 108 --> 113
-    line [109, 111, 112]
+    title "Kimberlying/ai-engineering-interview-100 星数(近 4 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 108 --> 114
+    line [109, 111, 112, 113]
 ```
 
-2026-11-16 109 → 2026-11-20 112（+3）
+2026-11-16 109 → 2026-11-21 113（+4）
 
 
 ---

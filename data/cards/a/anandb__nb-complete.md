@@ -1,6 +1,6 @@
 # anandb/nb-complete
 
-⭐ 28 · Java · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/anandb/nb-complete) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **NetBeans IDE 的 AI 结对话编程插件，经 ACP 接入多种编码代理**
 
@@ -11,7 +11,7 @@ BeanBot 是一个 NetBeans 插件，通过 Agent Client Protocol（JSON-RPC over
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

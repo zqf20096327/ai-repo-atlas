@@ -1,6 +1,6 @@
 # LuisAlejandro/mash
 
-⭐ 9 · Shell · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/LuisAlejandro/mash) · [官网](https://letsma.sh) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 AI 辅助编码的开发者桌面工作区应用**
 
@@ -11,7 +11,7 @@ Mash 将定制 Ghostty 终端、Herdr 工作区、Fresh 编辑器、Pi 与固定
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

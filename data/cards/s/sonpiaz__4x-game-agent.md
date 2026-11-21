@@ -1,6 +1,6 @@
 # sonpiaz/4x-game-agent
 
-⭐ 23 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/sonpiaz/4x-game-agent) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/sonpiaz/4x-game-agent) · 个人维护
 
 **驱动 AI 机器人游玩 4X 手游策略游戏的代理框架**
 
@@ -46,12 +46,12 @@ Python 框架，用于构建自动游玩 4X 移动策略游戏（Kingshot、Rise
 ```mermaid
 xychart-beta
     title "sonpiaz/4x-game-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 20 --> 24
-    line [21, 23, 21, 23, 23]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 20 --> 25
+    line [21, 23, 21, 23, 24]
 ```
 
-2026-10-18 21 → 2026-11-20 23（+2）
+2026-10-19 21 → 2026-11-21 24（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # SergeyKhval/OpenApply
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SergeyKhval/OpenApply) · [官网](https://openapply.app) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SergeyKhval/OpenApply) · [官网](https://openapply.app) · 个人维护
 
 **可自托管的开源求职申请追踪器，带 AI 简历评审与求职信生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SergeyKhval/OpenApply 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-20 34（+1）
+2026-10-19 33 → 2026-11-21 34（+1）
 
 
 ---

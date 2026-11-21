@@ -1,6 +1,6 @@
 # 0xaron/agentdoor
 
-⭐ 48 · TypeScript · MIT · 推送 2026-03-10 · [GitHub](https://github.com/0xaron/agentdoor) · [官网](https://0xaron.github.io/agentdoor/) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-03-10 · [GitHub](https://github.com/0xaron/agentdoor) · [官网](https://0xaron.github.io/agentdoor/) · 个人维护
 
 **给 SaaS 提供 AI agent 无头注册认证付费的中间件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xaron/agentdoor 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-20"]
-    y-axis "stars" 47 --> 54
-    line [53, 48]
+    title "0xaron/agentdoor 星数(近 3 点)"
+    x-axis ["2026-11-15", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 46 --> 54
+    line [53, 48, 47]
 ```
 
-2026-11-15 53 → 2026-11-20 48（-5）
+2026-11-15 53 → 2026-11-21 47（-6）
 
 
 ---

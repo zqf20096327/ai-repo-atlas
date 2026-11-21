@@ -46,12 +46,12 @@ Scrapling 风格的 Python 爬虫库，核心能力包括：基于 lxml 的自�
 ```mermaid
 xychart-beta
     title "xiaomaozjj666/web-crawler 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-18", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-18 11 → 2026-11-20 11（+0）
+2026-11-18 11 → 2026-11-21 11（+0）
 
 
 ---

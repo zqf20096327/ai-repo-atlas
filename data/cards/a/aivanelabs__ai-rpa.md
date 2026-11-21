@@ -1,6 +1,6 @@
 # aivanelabs/ai-rpa
 
-⭐ 14 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/aivanelabs/ai-rpa) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aivanelabs/ai-rpa) · [官网](https://aivane.net/) · 组织维护 · 中文 README
 
 **桌面或 AI agent 局域网控制 Android 手机的自动化工具（Beta）**
 
@@ -46,12 +46,12 @@ AIVane Android REPL Beta：手机端运行轻量 HTTP 服务，桌面 CLI（agen
 ```mermaid
 xychart-beta
     title "aivanelabs/ai-rpa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 14（+0）
 
 
 ---

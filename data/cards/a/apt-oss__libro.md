@@ -1,6 +1,6 @@
 # apt-oss/libro
 
-⭐ 402 · Jupyter Notebook · MIT · 推送 2026-02-25 · [GitHub](https://github.com/apt-oss/libro) · [官网](https://apt-oss.github.io/libro) · 组织维护 · 中文 README
+⭐ 400 · Jupyter Notebook · MIT · 推送 2026-02-25 · [GitHub](https://github.com/apt-oss/libro) · [官网](https://apt-oss.github.io/libro) · 组织维护 · 中文 README
 
 **可定制、易集成的 Notebook 方案，含 AI 辅助开发能力**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "apt-oss/libro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 400 --> 403
-    line [402, 401, 402, 402]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 399 --> 403
+    line [402, 401, 402, 400]
 ```
 
-2026-10-18 402 → 2026-11-20 402（+0）
+2026-10-19 402 → 2026-11-21 400（-2）
 
 
 ---

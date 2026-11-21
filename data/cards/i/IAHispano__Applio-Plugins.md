@@ -43,12 +43,12 @@ IAHispano 维护的 Applio 插件集合仓库，同时充当插件开发起点�
 ```mermaid
 xychart-beta
     title "IAHispano/Applio-Plugins 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-20 52（+0）
+2026-10-19 52 → 2026-11-21 52（+0）
 
 
 ---

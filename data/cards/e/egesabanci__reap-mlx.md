@@ -1,6 +1,6 @@
 # egesabanci/reap-mlx
 
-⭐ 25 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/egesabanci/reap-mlx) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/egesabanci/reap-mlx) · 个人维护
 
 **Apple Silicon 上对 MLX-LM MoE 模型做 REAP 专家剪枝的 Python 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "egesabanci/reap-mlx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 24 --> 44
-    line [43, 41, 40, 25]
+    title "egesabanci/reap-mlx 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 23 --> 44
+    line [43, 41, 40, 25, 24]
 ```
 
-2026-10-18 43 → 2026-11-20 25（-18）
+2026-10-18 43 → 2026-11-21 24（-19）
 
 
 ---

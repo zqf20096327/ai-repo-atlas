@@ -1,6 +1,6 @@
 # hanhuark/machine-learning-for-engineers
 
-⭐ 55 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/hanhuark/machine-learning-for-engineers) · [官网](https://hanhuark.github.io/machine-learning-for-engineers/) · 组织维护
+⭐ 56 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/hanhuark/machine-learning-for-engineers) · [官网](https://hanhuark.github.io/machine-learning-for-engineers/) · 组织维护
 
 **面向工程师的开源 AI/ML 与 AI 素养课程体系**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hanhuark/machine-learning-for-engineers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-20"]
-    y-axis "stars" 50 --> 56
-    line [51, 52, 54, 55, 55]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-21"]
+    y-axis "stars" 50 --> 57
+    line [51, 52, 54, 55, 56]
 ```
 
-2026-10-18 51 → 2026-11-20 55（+4）
+2026-10-19 51 → 2026-11-21 56（+5）
 
 
 ---

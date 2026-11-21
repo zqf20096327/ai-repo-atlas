@@ -1,6 +1,6 @@
 # pierridotite/mobile-agent-testers
 
-⭐ 45 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/pierridotite/mobile-agent-testers) · 个人维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/pierridotite/mobile-agent-testers) · 个人维护 · 中文 README
 
 **在 GitHub Actions 上用 20 个 Claude Code 代理并行众测移动应用 UI**
 
@@ -39,6 +39,18 @@
 
 > L9: No test scripts to write. Each tester is a Claude Code agent with its own iOS
 > L145:  How it works: one workflow builds the app, then one emulator or simulator with one agent per persona, encrypted r
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pierridotite/mobile-agent-testers 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 44 --> 49
+    line [45, 48]
+```
+
+2026-11-20 45 → 2026-11-21 48（+3）
 
 
 ---

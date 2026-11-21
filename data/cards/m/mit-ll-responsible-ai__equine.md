@@ -44,12 +44,12 @@ MIT Lincoln Laboratory 开发的 PyTorch 扩展库，面向监督标注问题的
 ```mermaid
 xychart-beta
     title "mit-ll-responsible-ai/equine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-20 20（+0）
+2026-10-19 20 → 2026-11-21 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # MAKHMUDuz/automat-opencode
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/MAKHMUDuz/automat-opencode) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/MAKHMUDuz/automat-opencode) · 个人维护
 
 **给 OpenCode 会话的模型配额耗尽切换插件与无人值守技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MAKHMUDuz/automat-opencode 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21"]
     y-axis "stars" 4 --> 8
     line [5, 6, 7, 7]
 ```
 
-2026-11-08 5 → 2026-11-20 7（+2）
+2026-11-08 5 → 2026-11-21 7（+2）
 
 
 ---

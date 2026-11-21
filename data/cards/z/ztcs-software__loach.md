@@ -1,6 +1,6 @@
 # ztcs-software/loach
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ztcs-software/loach) · [官网](https://loach.dev) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ztcs-software/loach) · [官网](https://loach.dev) · 组织维护
 
 **面向桌面用户的本地优先 AI 工作区，管理本地与远程 LLM 对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ztcs-software/loach 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-20 10（+0）
+2026-11-08 10 → 2026-11-21 10（+0）
 
 
 ---

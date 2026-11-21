@@ -1,6 +1,6 @@
 # firefly-cpp/sport-activities-features
 
-⭐ 22 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/firefly-cpp/sport-activities-features) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/firefly-cpp/sport-activities-features) · 组织维护
 
 **从 TCX/GPX 运动活动文件中提取特征的最小化 Python 工具箱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "firefly-cpp/sport-activities-features 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 21 --> 24
     line [23, 22, 23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-20 22（-1）
+2026-10-19 23 → 2026-11-21 22（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Minhajul-Mahib/nanomind
 
-⭐ 10 · Python · MIT · 推送 2026-04-23 · [GitHub](https://github.com/Minhajul-Mahib/nanomind) · [官网](https://nanomind.ink) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-04-23 · [GitHub](https://github.com/Minhajul-Mahib/nanomind) · [官网](https://nanomind.ink) · 个人维护
 
 **低配设备（1GB RAM）上的离线本地 LLM 服务器，OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Minhajul-Mahib/nanomind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-18", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-18 10 → 2026-11-21 11（+1）
 
 
 ---

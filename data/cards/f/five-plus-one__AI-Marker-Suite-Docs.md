@@ -1,6 +1,6 @@
 # five-plus-one/AI-Marker-Suite-Docs
 
-⭐ 10 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/five-plus-one/AI-Marker-Suite-Docs) · [官网](https://aimarking.five-plus-one.com/) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/five-plus-one/AI-Marker-Suite-Docs) · [官网](https://aimarking.five-plus-one.com/) · 个人维护 · 中文 README
 
 **AI 批改助手的文档站：查找脚本安装、评分设置与平台阅卷步骤**
 
@@ -39,6 +39,18 @@
 
 > L3: AI 批改助手文档提供脚本安装、评分设置和平台使用步骤。平台目录可按名称查找阅卷入口、适用任务、给分方式和安装要求。使用文档 · 平台目录 · 脚本源码
 > L7: 站点由 VitePress 构建，搜索、阅读操作和即时提示使用 `@fiveplusone/ui`。本地开发约定使用 Node.js 22 和 npm 10，`packageManager` 固定为 `npm@10.9.9`。正式 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "five-plus-one/AI-Marker-Suite-Docs 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
 
 
 ---

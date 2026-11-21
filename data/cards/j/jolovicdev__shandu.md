@@ -1,6 +1,6 @@
 # jolovicdev/shandu
 
-⭐ 12 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jolovicdev/shandu) · [官网](https://pypi.org/project/shandu/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jolovicdev/shandu) · [官网](https://pypi.org/project/shandu/) · 个人维护
 
 **开源深度研究 agent：LLM 多智能体搜索网络并写出带引用报告**
 
@@ -46,12 +46,12 @@ Shandu 是 Python 编写的深度研究代理：主 orchestrator 规划迭代研
 ```mermaid
 xychart-beta
     title "jolovicdev/shandu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 11 → 2026-11-21 13（+2）
 
 
 ---

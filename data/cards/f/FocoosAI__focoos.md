@@ -1,6 +1,6 @@
 # FocoosAI/focoos
 
-⭐ 351 · Python · MIT · 推送 2025-12-11 · [GitHub](https://github.com/FocoosAI/focoos) · [官网](https://focoosai.github.io/focoos/) · 组织维护
+⭐ 350 · Python · MIT · 推送 2025-12-11 · [GitHub](https://github.com/FocoosAI/focoos) · [官网](https://focoosai.github.io/focoos/) · 组织维护
 
 **计算机视觉模型库：选择、微调并部署检测/分割模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FocoosAI/focoos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-10", "2026-11-21"]
     y-axis "stars" 348 --> 352
-    line [349, 350, 351, 351]
+    line [349, 350, 351, 350]
 ```
 
-2026-10-18 349 → 2026-11-20 351（+2）
+2026-10-19 349 → 2026-11-21 350（+1）
 
 
 ---

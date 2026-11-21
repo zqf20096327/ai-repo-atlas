@@ -1,6 +1,6 @@
 # little51/llm-dev
 
-⭐ 238 · JavaScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/little51/llm-dev) · [官网](https://aliendao.cn) · 个人维护 · 中文 README
+⭐ 239 · JavaScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/little51/llm-dev) · [官网](https://aliendao.cn) · 个人维护 · 中文 README
 
 **《大模型项目实战》图书配套源代码与资源仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "little51/llm-dev 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-21"]
     y-axis "stars" 236 --> 240
-    line [237, 238, 239, 238, 238]
+    line [237, 238, 239, 238, 239]
 ```
 
-2026-10-18 237 → 2026-11-20 238（+1）
+2026-10-18 237 → 2026-11-21 239（+2）
 
 
 ---

@@ -46,12 +46,12 @@ Actanara 读取本地多个 Agent 运行时（Claude Code、Cursor、Codex、Gem
 ```mermaid
 xychart-beta
     title "Neo-Isshin/actanara 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-08 11 → 2026-11-20 11（+0）
+2026-11-08 11 → 2026-11-21 11（+0）
 
 
 ---

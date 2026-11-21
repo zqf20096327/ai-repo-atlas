@@ -1,6 +1,6 @@
 # fosbsb/unibh-oficina
 
-⭐ 6 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/fosbsb/unibh-oficina) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **UniBH 教学工坊：4小时在应用中接入 LLM（流式对话、JSON 校验、RAG）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

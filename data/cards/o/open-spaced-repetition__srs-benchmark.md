@@ -1,6 +1,6 @@
 # open-spaced-repetition/srs-benchmark
 
-⭐ 291 · Jupyter Notebook · 推送 2026-11-19 · [GitHub](https://github.com/open-spaced-repetition/srs-benchmark) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护
+⭐ 294 · Jupyter Notebook · 推送 2026-11-19 · [GitHub](https://github.com/open-spaced-repetition/srs-benchmark) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护
 
 **间隔重复调度算法的预测精度评测基准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "open-spaced-repetition/srs-benchmark 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 275 --> 292
-    line [276, 277, 278, 279, 278, 282, 283, 279, 284, 286, 287, 289, 291]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 276 --> 295
+    line [277, 278, 279, 278, 282, 283, 279, 284, 286, 287, 289, 291, 294]
 ```
 
-2026-10-18 276 → 2026-11-20 291（+15）
+2026-10-19 277 → 2026-11-21 294（+17）
 
 
 ---

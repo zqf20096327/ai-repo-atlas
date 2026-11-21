@@ -1,6 +1,6 @@
 # nikolai-vysotskyi/trace-mcp
 
-⭐ 204 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/nikolai-vysotskyi/trace-mcp) · [官网](https://trace-mcp.com) · 个人维护
+⭐ 204 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nikolai-vysotskyi/trace-mcp) · [官网](https://trace-mcp.com) · 个人维护
 
 **为 AI 编码 agent 提供代码库依赖图索引的 MCP 服务器**
 
@@ -45,12 +45,12 @@ trace-mcp 对代码库一次性构建跨语言、框架感知的依赖图，通�
 ```mermaid
 xychart-beta
     title "nikolai-vysotskyi/trace-mcp 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-13", "2026-11-21"]
     y-axis "stars" 192 --> 205
     line [194, 193, 195, 198, 199, 200, 193, 203, 204, 204]
 ```
 
-2026-10-18 194 → 2026-11-20 204（+10）
+2026-10-18 194 → 2026-11-21 204（+10）
 
 
 ---

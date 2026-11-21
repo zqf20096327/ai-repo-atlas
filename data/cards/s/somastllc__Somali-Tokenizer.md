@@ -1,6 +1,6 @@
 # somastllc/Somali-Tokenizer
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/somastllc/Somali-Tokenizer) · [官网](https://huggingface.co/somast/somali-tokenizer) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/somastllc/Somali-Tokenizer) · [官网](https://huggingface.co/somast/somali-tokenizer) · 组织维护
 
 **面向索马里语的 48k ByteLevel BPE 子词分词器**
 
@@ -40,6 +40,18 @@
 > L3:  A research-grade subword tokenizer for the Somali language, implemented in Rust.
 > L64: Somali-Tokenizer will be a Rust library and command-line tool for **training, evaluating,
 > L68: It covers exactly one job: subword tokenization for language models and related NLP
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "somastllc/Somali-Tokenizer 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
+```
+
+2026-11-20 11 → 2026-11-21 12（+1）
 
 
 ---

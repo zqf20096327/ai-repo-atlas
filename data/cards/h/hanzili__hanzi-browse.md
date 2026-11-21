@@ -1,6 +1,6 @@
 # hanzili/hanzi-browse
 
-⭐ 178 · JavaScript · NOASSERTION · 推送 2026-04-25 · [GitHub](https://github.com/hanzili/hanzi-browse) · [官网](https://browse.hanzilla.co/) · 组织维护 · 中文 README
+⭐ 177 · JavaScript · NOASSERTION · 推送 2026-04-25 · [GitHub](https://github.com/hanzili/hanzi-browse) · [官网](https://browse.hanzilla.co/) · 组织维护 · 中文 README
 
 **给 AI agent 用的浏览器自动化上下文层，含 24 个站点操作手册**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanzili/hanzi-browse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
+    title "hanzili/hanzi-browse 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 176 --> 179
-    line [177, 178, 178]
+    line [178, 177]
 ```
 
-2026-10-18 177 → 2026-11-20 178（+1）
+2026-10-19 178 → 2026-11-21 177（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # existential-birds/beagle
 
-⭐ 88 · Shell · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/existential-birds/beagle) · [官网](https://existentialbirds.com) · 组织维护
+⭐ 89 · Shell · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/existential-birds/beagle) · [官网](https://existentialbirds.com) · 组织维护
 
 **面向编码 agent 的技能市场：代码审查/文档/测试/架构技能集**
 
@@ -46,12 +46,12 @@ Agent Skills 市场，为支持 Agent Skills 的编码 agent（Claude Code、Cod
 ```mermaid
 xychart-beta
     title "existential-birds/beagle 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 83 --> 89
-    line [84, 85, 84, 86, 87, 88, 88]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 83 --> 90
+    line [84, 85, 84, 86, 87, 88, 89]
 ```
 
-2026-10-18 84 → 2026-11-20 88（+4）
+2026-10-18 84 → 2026-11-21 89（+5）
 
 
 ---

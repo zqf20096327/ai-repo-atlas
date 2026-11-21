@@ -41,6 +41,18 @@
 > L15: operations you need for numerical code and machine learning. The syntax follows
 > L28: - Statistics: `sum`, `mean`, `min`, `max`, `std` (sample by default), `normalize`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AlexanderTar/LASwift 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 146 --> 148
+    line [147, 147]
+```
+
+2026-11-20 147 → 2026-11-21 147（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `834d48081b67` · [字段定义](../../DATASET.md)*

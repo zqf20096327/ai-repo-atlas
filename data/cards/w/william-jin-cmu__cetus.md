@@ -1,6 +1,6 @@
 # william-jin-cmu/cetus
 
-⭐ 151 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/william-jin-cmu/cetus) · [官网](https://cetus.run) · 个人维护 · 中文 README
+⭐ 152 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/william-jin-cmu/cetus) · [官网](https://cetus.run) · 个人维护 · 中文 README
 
 **macOS 桌面客户端：统一管理 Claude Code、Codex 等多个 agent 运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "william-jin-cmu/cetus 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 149 --> 152
-    line [150, 151, 151]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 149 --> 153
+    line [150, 151, 152]
 ```
 
-2026-11-10 150 → 2026-11-20 151（+1）
+2026-11-10 150 → 2026-11-21 152（+2）
 
 
 ---

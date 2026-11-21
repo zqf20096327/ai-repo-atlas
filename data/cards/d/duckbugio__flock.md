@@ -1,6 +1,6 @@
 # duckbugio/flock
 
-⭐ 463 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/duckbugio/flock) · [官网](https://roost.duckbug.io) · 组织维护 · 中文 README
+⭐ 458 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/duckbugio/flock) · [官网](https://roost.duckbug.io) · 组织维护 · 中文 README
 
 **自托管 Claude Code AI 开发团队 bot，经聊天驱动交付 PR**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "duckbugio/flock 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 460 --> 505
-    line [502, 501, 502, 501, 495, 463]
+    title "duckbugio/flock 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 454 --> 506
+    line [502, 501, 502, 501, 495, 463, 458]
 ```
 
-2026-10-18 502 → 2026-11-20 463（-39）
+2026-10-19 502 → 2026-11-21 458（-44）
 
 
 ---

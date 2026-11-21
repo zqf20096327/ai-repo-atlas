@@ -42,6 +42,18 @@ pi-agent 是一个运行在终端的 AI 编码代理，通过 provider 中立的
 > L24: tool-use loop — and shows you everything it does. It speaks to **Claude, GPT,
 > L29: > Built as a learning + portfolio project. The core loop is ~150 lines; the
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ashutosh0428/pi-agent 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-20 10 → 2026-11-21 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `12ec6e21482b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # mlr-org/mlr3misc
 
-⭐ 13 · R · LGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/mlr-org/mlr3misc) · [官网](https://mlr3misc.mlr-org.com) · 组织维护
+⭐ 13 · R · LGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/mlr-org/mlr3misc) · [官网](https://mlr3misc.mlr-org.com) · 组织维护
 
 **mlr3 生态的 R 辅助函数工具包**
 
@@ -43,12 +43,12 @@ mlr-org 组织维护的 R 包，为 mlr3 机器学习框架系列提供杂项辅
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3misc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-20 13（+0）
+2026-10-19 13 → 2026-11-21 13（+0）
 
 
 ---

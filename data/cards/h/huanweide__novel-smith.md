@@ -1,6 +1,6 @@
 # huanweide/novel-smith
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/huanweide/novel-smith) · [官网](https://huanweide.github.io/novel-smith/) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/huanweide/novel-smith) · [官网](https://huanweide.github.io/novel-smith/) · 个人维护 · 中文 README
 
 **网文作者的本地 AI 长篇写作工坊**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "huanweide/novel-smith 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 9 --> 13
-    line [10, 12, 12]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 9 --> 14
+    line [10, 12, 13]
 ```
 
-2026-10-31 10 → 2026-11-20 12（+2）
+2026-10-31 10 → 2026-11-21 13（+3）
 
 
 ---

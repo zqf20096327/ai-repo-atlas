@@ -40,6 +40,18 @@ AWS 提供的示例工程：基于 Kaggle Customer Churn Prediction 2020 数据�
 > L3: Customer churn, the loss of current customers, is a problem faced by a wide range of companies. When trying to retai
 > L5: Here, we demonstrate how to build a churn prediction model that leverages both text and structured data (numerical a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aws-samples/churn-prediction-with-text-and-interpretability 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-20 11 → 2026-11-21 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `f4024dca3b73` · [字段定义](../../DATASET.md)*

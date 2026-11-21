@@ -1,6 +1,6 @@
 # dnys1/embedding_explorer
 
-⭐ 12 · Dart · 推送 2025-11-24 · [GitHub](https://github.com/dnys1/embedding_explorer) · [官网](https://embeddings.thestartupapi.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **浏览器本地对比文本嵌入模型的实验 Web 应用**
 

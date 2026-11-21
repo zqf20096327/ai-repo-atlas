@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rookiestar28/ComfyUI_Text_Processor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-20"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 18, 18]
+    title "rookiestar28/ComfyUI_Text_Processor 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-21"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-20 18（+1）
+2026-10-19 18 → 2026-11-21 18（+0）
 
 
 ---

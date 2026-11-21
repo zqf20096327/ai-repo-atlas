@@ -1,6 +1,6 @@
 # rokrokss/shizue-extension
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rokrokss/shizue-extension) · [官网](https://shizue.net) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/rokrokss/shizue-extension) · [官网](https://shizue.net) · 个人维护
 
 **浏览器侧边栏 AI 助手扩展：聊天、摘要与双语翻译**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rokrokss/shizue-extension 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-15", "2026-11-21"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-11-10 21 → 2026-11-20 22（+1）
+2026-11-10 21 → 2026-11-21 22（+1）
 
 
 ---

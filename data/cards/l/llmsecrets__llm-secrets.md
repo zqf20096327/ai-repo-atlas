@@ -1,6 +1,6 @@
 # llmsecrets/llm-secrets
 
-⭐ 31 · Rust · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/llmsecrets/llm-secrets) · [官网](https://llmsecrets.com) · 组织维护
+⭐ 32 · Rust · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/llmsecrets/llm-secrets) · [官网](https://llmsecrets.com) · 组织维护
 
 **用硬件密钥保护 .env 密钥不被 AI 编程助手读取的加密金库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "llmsecrets/llm-secrets 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-12", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 30, 29, 30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-12", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 30, 29, 30, 31, 32]
 ```
 
-2026-10-18 28 → 2026-11-20 31（+3）
+2026-10-18 28 → 2026-11-21 32（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # polyaxon/charts
 
-⭐ 34 · Go Template · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/polyaxon/charts) · [官网](https://charts.polyaxon.com) · 组织维护
+⭐ 35 · Go Template · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/polyaxon/charts) · [官网](https://charts.polyaxon.com) · 组织维护
 
 **在 Kubernetes 上部署 Polyaxon 及训练算子的 Helm charts 集合**
 
@@ -44,12 +44,12 @@ Polyaxon 官方维护的 Helm charts 仓库，提供三类 chart：自托管 Pol
 ```mermaid
 xychart-beta
     title "polyaxon/charts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-11-20 34（+0）
+2026-10-19 34 → 2026-11-21 35（+1）
 
 
 ---

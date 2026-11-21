@@ -1,6 +1,6 @@
 # Kanjo-Elkamira-Ndi/Kanjo-Elkamira-Ndi
 
-⭐ 34 · TypeScript · 推送 2026-09-26 · [GitHub](https://github.com/Kanjo-Elkamira-Ndi/Kanjo-Elkamira-Ndi) · [官网](https://kanjo-elkamira-ndi.vercel.app) · 个人维护
+⭐ 36 · TypeScript · 推送 2026-09-26 · [GitHub](https://github.com/Kanjo-Elkamira-Ndi/Kanjo-Elkamira-Ndi) · [官网](https://kanjo-elkamira-ndi.vercel.app) · 个人维护
 
 **个人开发者简介页：列出全栈与 AI 项目经历**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kanjo-Elkamira-Ndi/Kanjo-Elkamira-Ndi 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 27 --> 35
-    line [28, 29, 31, 32, 34, 34]
+    title "Kanjo-Elkamira-Ndi/Kanjo-Elkamira-Ndi 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 28 --> 37
+    line [29, 31, 32, 34, 36]
 ```
 
-2026-10-18 28 → 2026-11-20 34（+6）
+2026-10-19 29 → 2026-11-21 36（+7）
 
 
 ---

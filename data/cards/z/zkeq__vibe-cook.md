@@ -1,6 +1,6 @@
 # zkeq/vibe-cook
 
-⭐ 35 · TypeScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/zkeq/vibe-cook) · [官网](https://cook.corerevive.cn) · 个人维护 · 中文 README
+⭐ 38 · TypeScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/zkeq/vibe-cook) · [官网](https://cook.corerevive.cn) · 个人维护 · 中文 README
 
 **沉浸式一步步烹饪 App：把 HowToCook 菜谱变成跟做体验**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zkeq/vibe-cook 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 17 --> 36
-    line [18, 19, 20, 18, 25, 26, 28, 32, 33, 35]
+    title "zkeq/vibe-cook 星数(近 11 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 16 --> 40
+    line [18, 19, 20, 18, 25, 26, 28, 32, 33, 35, 38]
 ```
 
-2026-10-18 18 → 2026-11-20 35（+17）
+2026-10-19 18 → 2026-11-21 38（+20）
 
 
 ---

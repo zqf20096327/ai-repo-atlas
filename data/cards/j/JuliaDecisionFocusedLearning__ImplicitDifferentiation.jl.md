@@ -44,13 +44,13 @@ Julia 包，为隐式定义的前向映射 y(x)（由条件 c(x,y(x))=0 确定�
 
 ```mermaid
 xychart-beta
-    title "JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-20"]
+    title "JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 145 --> 150
-    line [146, 147, 148, 149]
+    line [146, 147, 148, 149, 149]
 ```
 
-2026-10-18 146 → 2026-11-20 149（+3）
+2026-10-19 146 → 2026-11-21 149（+3）
 
 
 ---

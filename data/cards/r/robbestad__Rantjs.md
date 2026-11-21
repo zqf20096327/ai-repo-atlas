@@ -1,6 +1,6 @@
 # robbestad/Rantjs
 
-⭐ 220 · TypeScript · ISC · 推送 2026-09-04 · [GitHub](https://github.com/robbestad/Rantjs) · [官网](https://rantjs.vercel.app) · 个人维护
+⭐ 221 · TypeScript · ISC · 推送 2026-09-04 · [GitHub](https://github.com/robbestad/Rantjs) · [官网](https://rantjs.vercel.app) · 个人维护
 
 **JavaScript 种子化程序化文本生成引擎，写模式即得句子**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "robbestad/Rantjs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 218 --> 221
-    line [219, 220, 220]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 218 --> 222
+    line [219, 220, 221]
 ```
 
-2026-10-18 219 → 2026-11-20 220（+1）
+2026-10-19 219 → 2026-11-21 221（+2）
 
 
 ---

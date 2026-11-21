@@ -1,6 +1,6 @@
 # Breeze/temphire.angular
 
-⭐ 31 · C# · 推送 2026-11-19 · [GitHub](https://github.com/Breeze/temphire.angular) · 组织维护
+⭐ 31 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/Breeze/temphire.angular) · 组织维护
 
 **Angular/.NET 业务应用参考实现：数据编辑与 AI 数据问答助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Breeze/temphire.angular 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-20"]
+    x-axis ["2026-11-14", "2026-11-21"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-11-14 31 → 2026-11-20 31（+0）
+2026-11-14 31 → 2026-11-21 31（+0）
 
 
 ---

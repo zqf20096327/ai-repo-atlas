@@ -1,6 +1,6 @@
 # Anton-Barinov/TropaTT
 
-⭐ 26 · PHP · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Anton-Barinov/TropaTT) · [官网](https://tropatt.com) · 个人维护 · 中文 README
+⭐ 26 · PHP · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Anton-Barinov/TropaTT) · [官网](https://tropatt.com) · 个人维护 · 中文 README
 
 **自托管的开源 CRM 与工作管理一体化平台（PHP/MySQL，含 AI 工作流）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anton-Barinov/TropaTT 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
+    title "Anton-Barinov/TropaTT 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 15 --> 27
-    line [16, 17, 19, 20, 22, 19, 23, 25, 26]
+    line [16, 17, 19, 20, 22, 19, 23, 25, 26, 26]
 ```
 
-2026-10-18 16 → 2026-11-20 26（+10）
+2026-10-19 16 → 2026-11-21 26（+10）
 
 
 ---

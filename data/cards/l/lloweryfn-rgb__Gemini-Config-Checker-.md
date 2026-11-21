@@ -1,6 +1,6 @@
 # lloweryfn-rgb/Gemini-Config-Checker-
 
-⭐ 57 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lloweryfn-rgb/Gemini-Config-Checker-) · 个人维护
+⭐ 56 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lloweryfn-rgb/Gemini-Config-Checker-) · 个人维护
 
 **测试代理配置能否进入 Google AI Studio 与 Gemini 的桌面扫描工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lloweryfn-rgb/Gemini-Config-Checker- 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
-    y-axis "stars" 56 --> 63
-    line [62, 57]
+    title "lloweryfn-rgb/Gemini-Config-Checker- 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 55 --> 63
+    line [62, 57, 56]
 ```
 
-2026-11-18 62 → 2026-11-20 57（-5）
+2026-11-18 62 → 2026-11-21 56（-6）
 
 
 ---

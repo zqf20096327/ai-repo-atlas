@@ -1,6 +1,6 @@
 # benavlabs/fastroai
 
-⭐ 18 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/benavlabs/fastroai) · [官网](https://docs.fastro.ai/lib) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/benavlabs/fastroai) · [官网](https://docs.fastro.ai/lib) · 组织维护
 
 **基于 PydanticAI 的轻量 AI 编排库：成本追踪/管道/容错工具**
 
@@ -46,12 +46,12 @@ Python 库，对 PydanticAI 做生产化封装：以微分为单位自动计算�
 ```mermaid
 xychart-beta
     title "benavlabs/fastroai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-20"]
-    y-axis "stars" 17 --> 20
-    line [19, 18, 18]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    y-axis "stars" 16 --> 20
+    line [19, 18, 17]
 ```
 
-2026-10-18 19 → 2026-11-20 18（-1）
+2026-10-19 19 → 2026-11-21 17（-2）
 
 
 ---

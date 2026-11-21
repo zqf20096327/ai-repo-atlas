@@ -1,6 +1,6 @@
 # JelmerBouma1985/fm-ai-assistent
 
-⭐ 13 · Java · 推送 2026-11-17 · [GitHub](https://github.com/JelmerBouma1985/fm-ai-assistent) · [官网](https://fmaiassistant.com) · 个人维护
+⭐ 13 · Java · 推送 2026-11-20 · [GitHub](https://github.com/JelmerBouma1985/fm-ai-assistent) · [官网](https://fmaiassistant.com) · 个人维护
 
 **读取 FM27 存档并提供 AI 球探/战术建议的本地桌面应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "JelmerBouma1985/fm-ai-assistent 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
     y-axis "stars" 9 --> 15
     line [10, 11, 13, 14, 13, 13]
 ```
 
-2026-11-11 10 → 2026-11-20 13（+3）
+2026-11-11 10 → 2026-11-21 13（+3）
 
 
 ---

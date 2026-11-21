@@ -1,6 +1,6 @@
 # ArisuLoveASMR/ArisuLoveASMR
 
-⭐ 33 · Jupyter Notebook · GPL-3.0 · 推送 2026-08-11 · [GitHub](https://github.com/ArisuLoveASMR/ArisuLoveASMR) · 个人维护 · 中文 README
+⭐ 32 · Jupyter Notebook · GPL-3.0 · 推送 2026-08-11 · [GitHub](https://github.com/ArisuLoveASMR/ArisuLoveASMR) · 个人维护 · 中文 README
 
 **Colab 笔记本：为 ASMR 音视频自动生成字幕并翻译成任意语言**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArisuLoveASMR/ArisuLoveASMR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 32 --> 37
-    line [36, 33]
+    title "ArisuLoveASMR/ArisuLoveASMR 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 31 --> 37
+    line [36, 33, 32]
 ```
 
-2026-10-18 36 → 2026-11-20 33（-3）
+2026-10-19 36 → 2026-11-21 32（-4）
 
 
 ---

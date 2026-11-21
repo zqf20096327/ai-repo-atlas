@@ -1,6 +1,6 @@
 # lehoanganhtai13/archmancer
 
-⭐ 6 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lehoanganhtai13/archmancer) · 个人维护
+⭐ 21 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lehoanganhtai13/archmancer) · 个人维护
 
 **为编码 agent 提供 agent 系统架构技能的插件包（8 个技能）**
 
@@ -41,6 +41,18 @@
 > L10: Give your coding agent an architect's view of agent systems: software where a model chooses the next call or action
 > L83: The repository holds one plugin package each for Claude Code and Codex, and a `skills/` folder in the Agent Skills 
 > L117: Skills install under their own names, for example `agent-system-engineering`, without the `archmancer:` prefix. Th
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lehoanganhtai13/archmancer 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 5 --> 22
+    line [6, 21]
+```
+
+2026-11-20 6 → 2026-11-21 21（+15）
 
 
 ---

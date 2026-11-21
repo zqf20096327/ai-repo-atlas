@@ -1,6 +1,6 @@
 # upsun/whatsun
 
-⭐ 12 · Go · MIT · 推送 2026-11-13 · [GitHub](https://github.com/upsun/whatsun) · 组织维护
+⭐ 12 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/upsun/whatsun) · 组织维护
 
 **生成仓库摘要供 LLM 上下文使用的代码分析工具**
 
@@ -46,12 +46,12 @@ Whatsun 是一个命令行工具与 Go 库，用于代码分析：主要用途�
 ```mermaid
 xychart-beta
     title "upsun/whatsun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 11 → 2026-11-21 12（+1）
 
 
 ---

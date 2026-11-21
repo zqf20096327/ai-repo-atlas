@@ -1,6 +1,6 @@
 # ImBIOS/lab-snake-reverse
 
-⭐ 35 · HTML · 推送 2025-11-24 · [GitHub](https://github.com/ImBIOS/lab-snake-reverse) · [官网](https://imbios.github.io/lab-snake-reverse/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **反向贪吃蛇浏览器游戏：玩家当苹果，被 A* 蛇追捕**
 

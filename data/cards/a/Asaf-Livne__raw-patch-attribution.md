@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Asaf-Livne/raw-patch-attribution 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-20"]
+    title "Asaf-Livne/raw-patch-attribution 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 34 --> 37
-    line [36, 35, 36]
+    line [36, 35, 36, 36]
 ```
 
-2026-10-18 36 → 2026-11-20 36（+0）
+2026-10-19 36 → 2026-11-21 36（+0）
 
 
 ---

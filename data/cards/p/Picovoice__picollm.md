@@ -1,6 +1,6 @@
 # Picovoice/picollm
 
-⭐ 319 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Picovoice/picollm) · [官网](https://picovoice.ai/) · 组织维护
+⭐ 318 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Picovoice/picollm) · [官网](https://picovoice.ai/) · 组织维护
 
 **面向开发者的跨平台本地 LLM 推理 SDK（100% 离线生成）**
 
@@ -45,13 +45,13 @@ Picovoice 出品的本地 LLM 推理引擎 SDK，使用自研 picoLLM Compressio
 
 ```mermaid
 xychart-beta
-    title "Picovoice/picollm 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20"]
+    title "Picovoice/picollm 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-21"]
     y-axis "stars" 316 --> 321
-    line [318, 317, 318, 317, 319, 320, 319]
+    line [318, 317, 318, 317, 319, 320, 319, 318]
 ```
 
-2026-10-18 318 → 2026-11-20 319（+1）
+2026-10-18 318 → 2026-11-21 318（+0）
 
 
 ---

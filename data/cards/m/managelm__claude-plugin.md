@@ -46,12 +46,12 @@ ManageLM 发布的 Claude 插件：通过 MCP、云端控制台与装在服务�
 ```mermaid
 xychart-beta
     title "managelm/claude-plugin 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-18", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-18 10 → 2026-11-20 10（+0）
+2026-11-18 10 → 2026-11-21 10（+0）
 
 
 ---

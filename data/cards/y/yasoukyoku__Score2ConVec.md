@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yasoukyoku/Score2ConVec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 17 --> 21
-    line [18, 20, 20]
+    title "yasoukyoku/Score2ConVec 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
 ```
 
-2026-10-18 18 → 2026-11-20 20（+2）
+2026-10-19 20 → 2026-11-21 20（+0）
 
 
 ---

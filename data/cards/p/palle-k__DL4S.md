@@ -1,6 +1,6 @@
 # palle-k/DL4S
 
-⭐ 108 · Swift · MIT · 推送 2026-10-12 · [GitHub](https://github.com/palle-k/DL4S) · [官网](https://palle-k.github.io/DL4S/) · 个人维护
+⭐ 109 · Swift · MIT · 推送 2026-10-12 · [GitHub](https://github.com/palle-k/DL4S) · [官网](https://palle-k.github.io/DL4S/) · 个人维护
 
 **Swift 深度学习库：自动微分与张量运算，跨苹果平台与 Linux**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "palle-k/DL4S 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 107 --> 110
+    line [108, 109]
 ```
 
-2026-10-18 108 → 2026-11-20 108（+0）
+2026-10-19 108 → 2026-11-21 109（+1）
 
 
 ---

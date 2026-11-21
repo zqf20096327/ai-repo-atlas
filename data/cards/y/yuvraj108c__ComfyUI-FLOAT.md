@@ -42,13 +42,13 @@ FLOAT 论文（Generative Motion Latent Flow Matching for Audio-driven Talking P
 
 ```mermaid
 xychart-beta
-    title "yuvraj108c/ComfyUI-FLOAT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 271 --> 274
-    line [272, 273, 273]
+    title "yuvraj108c/ComfyUI-FLOAT 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 272 --> 274
+    line [273, 273]
 ```
 
-2026-10-18 272 → 2026-11-20 273（+1）
+2026-10-19 273 → 2026-11-21 273（+0）
 
 
 ---

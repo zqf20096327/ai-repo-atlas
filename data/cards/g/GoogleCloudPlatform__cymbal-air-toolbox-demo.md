@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/cymbal-air-toolbox-demo
 
-⭐ 351 · Python · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/GoogleCloudPlatform/cymbal-air-toolbox-demo) · [官网](https://github.com/googleapis/genai-toolbox/) · 组织维护
+⭐ 350 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/GoogleCloudPlatform/cymbal-air-toolbox-demo) · [官网](https://github.com/googleapis/genai-toolbox/) · 组织维护
 
 **虚构航空公司客服 Agent 示例：LangGraph+RAG 经 MCP Toolbox 访问数据库**
 
@@ -45,13 +45,13 @@ GoogleCloudPlatform 发布的演示项目（非官方支持产品），以虚构
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/cymbal-air-toolbox-demo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-20"]
+    title "GoogleCloudPlatform/cymbal-air-toolbox-demo 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-21"]
     y-axis "stars" 349 --> 353
-    line [350, 351, 352, 351]
+    line [350, 351, 352, 351, 350]
 ```
 
-2026-10-18 350 → 2026-11-20 351（+1）
+2026-10-19 350 → 2026-11-21 350（+0）
 
 
 ---

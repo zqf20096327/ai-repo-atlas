@@ -1,6 +1,6 @@
 # canvas-org/meta-agent
 
-⭐ 81 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/canvas-org/meta-agent) · 个人维护
+⭐ 82 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/canvas-org/meta-agent) · 个人维护
 
 **研究原型：不更新权重、持续优化 agent 外围 harness 的框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "canvas-org/meta-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 78 --> 82
-    line [79, 80, 81, 79, 81, 81]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 78 --> 83
+    line [79, 80, 81, 79, 81, 82]
 ```
 
-2026-10-18 79 → 2026-11-20 81（+2）
+2026-10-18 79 → 2026-11-21 82（+3）
 
 
 ---

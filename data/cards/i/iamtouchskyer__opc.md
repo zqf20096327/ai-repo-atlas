@@ -1,6 +1,6 @@
 # iamtouchskyer/opc
 
-⭐ 198 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/iamtouchskyer/opc) · 个人维护 · 中文 README
+⭐ 199 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/iamtouchskyer/opc) · 个人维护 · 中文 README
 
 **单人多角色 Claude Code 技能：编排 21 个 agent 角色完成开发与质检**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iamtouchskyer/opc 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 192 --> 199
-    line [193, 194, 195, 194, 196, 198, 198]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 192 --> 200
+    line [193, 194, 195, 194, 196, 198, 199]
 ```
 
-2026-10-18 193 → 2026-11-20 198（+5）
+2026-10-19 193 → 2026-11-21 199（+6）
 
 
 ---

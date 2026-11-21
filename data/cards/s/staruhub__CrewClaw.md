@@ -46,12 +46,12 @@ CrewClaw 是一个本地优先的 AI Employee OS（Beta 0.8 prerelease），面�
 ```mermaid
 xychart-beta
     title "staruhub/CrewClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-21"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-20 25（+1）
+2026-10-18 24 → 2026-11-21 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NatLabRockies/phygnn
 
-⭐ 103 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/NatLabRockies/phygnn) · [官网](https://natlabrockies.github.io/phygnn/) · 组织维护
+⭐ 102 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/NatLabRockies/phygnn) · [官网](https://natlabrockies.github.io/phygnn/) · 组织维护
 
 **物理引导神经网络框架：让 NN 训练遵循物理约束**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NatLabRockies/phygnn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 102 --> 105
-    line [104, 103, 103]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 101 --> 105
+    line [104, 103, 102]
 ```
 
-2026-10-18 104 → 2026-11-20 103（-1）
+2026-10-19 104 → 2026-11-21 102（-2）
 
 
 ---

@@ -43,13 +43,13 @@ Go 编写的 macOS 终端界面（TUI），用于统一管理 AI 编码 Agent �
 
 ```mermaid
 xychart-beta
-    title "Perpeer/lazychat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "Perpeer/lazychat 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
 ```
 
-2026-10-18 29 → 2026-11-20 30（+1）
+2026-10-19 30 → 2026-11-21 30（+0）
 
 
 ---

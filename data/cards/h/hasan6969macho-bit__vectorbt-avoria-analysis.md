@@ -1,6 +1,6 @@
 # hasan6969macho-bit/vectorbt-avoria-analysis
 
-⭐ 49 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis) · 个人维护
+⭐ 127 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis) · 个人维护
 
 **基于 vectorbt 的量化回测与参数扫描工具库**
 
@@ -39,6 +39,18 @@
 
 > L12: A vectorbt-based toolkit for running Avoria-style backtests and parameter sweeps over OHLCV data, built to keep str
 > L23: - **Vectorized backtesting core** — signal generation, portfolio simulation, and metric computation execute as arra
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hasan6969macho-bit/vectorbt-avoria-analysis 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 42 --> 134
+    line [49, 127]
+```
+
+2026-11-20 49 → 2026-11-21 127（+78）
 
 
 ---

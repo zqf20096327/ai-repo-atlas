@@ -1,6 +1,6 @@
 # OmicsML/dance
 
-⭐ 391 · Python · BSD-2-Clause · 推送 2026-11-16 · [GitHub](https://github.com/OmicsML/dance) · [官网](https://pydance.readthedocs.io) · 组织维护 · 中文 README
+⭐ 390 · Python · BSD-2-Clause · 推送 2026-11-20 · [GitHub](https://github.com/OmicsML/dance) · [官网](https://pydance.readthedocs.io) · 组织维护 · 中文 README
 
 **面向单细胞分析的深度学习库与基准平台**
 
@@ -46,12 +46,12 @@ DANCE 是 Python 编写的单细胞基因表达数据深度学习工具包：DAN
 ```mermaid
 xychart-beta
     title "OmicsML/dance 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-16", "2026-11-21"]
     y-axis "stars" 388 --> 392
-    line [389, 390, 391, 391]
+    line [389, 390, 391, 390]
 ```
 
-2026-10-18 389 → 2026-11-20 391（+2）
+2026-10-19 389 → 2026-11-21 390（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # KirKruglov/claude-skills-kit
 
-⭐ 22 · MIT · 推送 2026-07-27 · [GitHub](https://github.com/KirKruglov/claude-skills-kit) · 个人维护 · 中文 README
+⭐ 23 · MIT · 推送 2026-07-27 · [GitHub](https://github.com/KirKruglov/claude-skills-kit) · 个人维护 · 中文 README
 
 **面向非技术用户的 Claude agent 技能策展包（77 个）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KirKruglov/claude-skills-kit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 21, 22, 22]
+    title "KirKruglov/claude-skills-kit 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 21, 22, 23]
 ```
 
-2026-10-18 20 → 2026-11-20 22（+2）
+2026-10-19 21 → 2026-11-21 23（+2）
 
 
 ---

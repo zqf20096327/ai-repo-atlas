@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "benitomartin/substack-newsletters-search-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-11-20 93（+0）
+2026-10-19 93 → 2026-11-21 93（+0）
 
 
 ---

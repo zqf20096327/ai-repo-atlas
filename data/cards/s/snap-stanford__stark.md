@@ -1,6 +1,6 @@
 # snap-stanford/stark
 
-⭐ 338 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/snap-stanford/stark) · [官网](https://stark.stanford.edu/) · 组织维护 · 中文 README
+⭐ 339 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/snap-stanford/stark) · [官网](https://stark.stanford.edu/) · 组织维护 · 中文 README
 
 **评测 LLM 检索系统的半结构化知识库基准（NeurIPS 2024）**
 
@@ -45,12 +45,12 @@ Stanford snap 组维护的大规模半结构化检索基准：覆盖 Amazon 产�
 ```mermaid
 xychart-beta
     title "snap-stanford/stark 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 335 --> 339
-    line [336, 337, 338, 337, 338, 338]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 335 --> 340
+    line [336, 337, 338, 337, 338, 339]
 ```
 
-2026-10-18 336 → 2026-11-20 338（+2）
+2026-10-18 336 → 2026-11-21 339（+3）
 
 
 ---

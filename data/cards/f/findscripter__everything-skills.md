@@ -1,6 +1,6 @@
 # findscripter/everything-skills
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/findscripter/everything-skills) · [官网](https://findscripter.github.io/everything-skills/) · 个人维护 · 中文 README
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/findscripter/everything-skills) · [官网](https://findscripter.github.io/everything-skills/) · 个人维护 · 中文 README
 
 **按任务查找/组合/安装 Agent Skills 的技能目录与索引工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "findscripter/everything-skills 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-21"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-20 11（+0）
+2026-11-10 11 → 2026-11-21 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # cxv117793-blip/dsh-step-pause
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/cxv117793-blip/dsh-step-pause) · [官网](https://github.com/cxv117793-blip/dsh-step-pause/releases/latest) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/cxv117793-blip/dsh-step-pause) · [官网](https://github.com/cxv117793-blip/dsh-step-pause/releases/latest) · 个人维护 · 中文 README
 
 **给 DSH 用户的长任务分步进度汇报插件**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）插件：挂在 agent/pre-step 步骤边界上，每满
 ```mermaid
 xychart-beta
     title "cxv117793-blip/dsh-step-pause 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 2 --> 10
-    line [3, 4, 5, 8, 9, 9]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 2 --> 11
+    line [3, 4, 5, 8, 9, 10]
 ```
 
-2026-10-26 3 → 2026-11-20 9（+6）
+2026-10-26 3 → 2026-11-21 10（+7）
 
 
 ---

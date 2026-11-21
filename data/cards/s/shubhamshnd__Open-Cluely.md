@@ -1,6 +1,6 @@
 # shubhamshnd/Open-Cluely
 
-⭐ 197 · JavaScript · 推送 2026-09-24 · [GitHub](https://github.com/shubhamshnd/Open-Cluely) · [官网](https://github.com/shubhamshnd/Open-Cluely) · 个人维护
+⭐ 198 · JavaScript · 推送 2026-09-24 · [GitHub](https://github.com/shubhamshnd/Open-Cluely) · [官网](https://github.com/shubhamshnd/Open-Cluely) · 个人维护
 
 **实时 AI 面试助手桌面应用：转录+截屏+Gemini 生成回答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shubhamshnd/Open-Cluely 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 181 --> 198
-    line [182, 183, 185, 186, 190, 185, 195, 196, 197, 197]
+    title "shubhamshnd/Open-Cluely 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 182 --> 199
+    line [183, 185, 186, 190, 185, 195, 196, 197, 198]
 ```
 
-2026-10-18 182 → 2026-11-20 197（+15）
+2026-10-19 183 → 2026-11-21 198（+15）
 
 
 ---

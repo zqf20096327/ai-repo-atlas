@@ -1,6 +1,6 @@
 # vadympetryshyn/effort-pilot
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/vadympetryshyn/effort-pilot) · 个人维护
+⭐ 9 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vadympetryshyn/effort-pilot) · 个人维护
 
 **按轮次自动设置 Claude Code 推理强度的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vadympetryshyn/effort-pilot 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-21"]
     y-axis "stars" 7 --> 10
     line [8, 9, 9]
 ```
 
-2026-11-08 8 → 2026-11-20 9（+1）
+2026-11-08 8 → 2026-11-21 9（+1）
 
 
 ---

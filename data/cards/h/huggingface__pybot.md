@@ -1,6 +1,6 @@
 # huggingface/pybot
 
-⭐ 944 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/pybot) · 组织维护
+⭐ 1,030 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/pybot) · 组织维护
 
 **纯规则聊天机器人：无权重无训练，千余 agent 协作写成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/pybot 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 78 --> 1022
-    line [156, 653, 828, 944]
+    title "huggingface/pybot 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 69 --> 1117
+    line [156, 653, 828, 944, 1030]
 ```
 
-2026-11-16 156 → 2026-11-20 944（+788）
+2026-11-16 156 → 2026-11-21 1,030（+874）
 
 
 ---

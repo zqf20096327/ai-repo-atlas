@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevin-hs-sohn/hipocampus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 209 --> 212
-    line [210, 211, 211]
+    title "kevin-hs-sohn/hipocampus 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 210 --> 212
+    line [211, 211]
 ```
 
-2026-10-18 210 → 2026-11-20 211（+1）
+2026-10-19 211 → 2026-11-21 211（+0）
 
 
 ---

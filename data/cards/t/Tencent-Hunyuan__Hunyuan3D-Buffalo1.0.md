@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-Buffalo1.0
 
-⭐ 262 · 推送 2026-08-10 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0) · [官网](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0) · 组织维护 · 中文 README
+⭐ 263 · 推送 2026-08-10 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0) · [官网](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0) · 组织维护 · 中文 README
 
 **腾讯统一多模态 3D 生成、理解与编辑模型（论文发布）**
 
@@ -44,12 +44,12 @@ Tencent Hunyuan3D 团队发布的 Hunyuan3D-Buffalo 1.0 技术报告仓库：定
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/Hunyuan3D-Buffalo1.0 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 258 --> 263
-    line [259, 260, 261, 260, 261, 262]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 259 --> 264
+    line [260, 261, 260, 261, 262, 263]
 ```
 
-2026-10-18 259 → 2026-11-20 262（+3）
+2026-10-19 260 → 2026-11-21 263（+3）
 
 
 ---

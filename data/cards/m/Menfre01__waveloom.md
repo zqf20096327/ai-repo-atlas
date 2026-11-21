@@ -1,6 +1,6 @@
 # Menfre01/waveloom
 
-⭐ 138 · Go · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Menfre01/waveloom) · [官网](https://github.com/Menfre01/waveloom) · 个人维护 · 中文 README
+⭐ 139 · Go · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Menfre01/waveloom) · [官网](https://github.com/Menfre01/waveloom) · 个人维护 · 中文 README
 
 **面向 DeepSeek 前缀缓存优化的 Go 终端编码 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Menfre01/waveloom 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 133 --> 139
-    line [134, 135, 136, 135, 136, 138, 138]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 133 --> 140
+    line [134, 135, 136, 135, 136, 138, 139]
 ```
 
-2026-10-18 134 → 2026-11-20 138（+4）
+2026-10-19 134 → 2026-11-21 139（+5）
 
 
 ---

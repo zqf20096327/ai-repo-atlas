@@ -1,6 +1,6 @@
 # crisandrews/ClawCode
 
-⭐ 64 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/crisandrews/ClawCode) · [官网](https://github.com/crisandrews/ClawCode#quick-setup) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/crisandrews/ClawCode) · [官网](https://github.com/crisandrews/ClawCode#quick-setup) · 个人维护
 
 **给 Claude Code 用户加持久记忆与人格的插件**
 
@@ -46,12 +46,12 @@ ClawCode 是 Claude Code 的插件（非独立运行时），在会话生命周�
 ```mermaid
 xychart-beta
     title "crisandrews/ClawCode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
     y-axis "stars" 62 --> 65
     line [64, 63, 64, 64]
 ```
 
-2026-10-18 64 → 2026-11-20 64（+0）
+2026-10-19 64 → 2026-11-21 64（+0）
 
 
 ---

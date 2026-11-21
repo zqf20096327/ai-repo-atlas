@@ -1,6 +1,6 @@
 # tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops
 
-⭐ 113 · 推送 2026-10-28 · [GitHub](https://github.com/tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 114 · 推送 2026-10-28 · [GitHub](https://github.com/tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向广告投放与跨境电商的海外虚拟信用卡发卡平台（商业推广页）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops 星数(近 11 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21"]
     y-axis "stars" 0 --> 126
-    line [8, 19, 29, 33, 71, 92, 106, 111, 116, 113, 113]
+    line [8, 19, 29, 33, 71, 92, 106, 111, 116, 113, 114]
 ```
 
-2026-10-29 8 → 2026-11-20 113（+105）
+2026-10-29 8 → 2026-11-21 114（+106）
 
 
 ---

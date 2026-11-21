@@ -1,6 +1,6 @@
 # daniloaleixo/NeuroEvolutionMarketTrader
 
-⭐ 33 · Jupyter Notebook · 推送 2026-01-16 · [GitHub](https://github.com/daniloaleixo/NeuroEvolutionMarketTrader) · 个人维护
+⭐ 34 · Jupyter Notebook · 推送 2026-01-16 · [GitHub](https://github.com/daniloaleixo/NeuroEvolutionMarketTrader) · 个人维护
 
 **用神经进化训练的外汇/股票自动交易 agent（实验项目）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "daniloaleixo/NeuroEvolutionMarketTrader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-11-20 33（+0）
+2026-10-19 33 → 2026-11-21 34（+1）
 
 
 ---

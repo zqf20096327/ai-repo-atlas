@@ -1,6 +1,6 @@
 # alesaccoia/VoiceStreamAI
 
-⭐ 963 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/alesaccoia/VoiceStreamAI) · 个人维护
+⭐ 962 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/alesaccoia/VoiceStreamAI) · 个人维护
 
 **自托管 Whisper 的近实时流式语音转录服务（Python 服务端 + JS 客户端）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alesaccoia/VoiceStreamAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 960 --> 964
-    line [961, 962, 963, 963]
+    line [961, 962, 963, 962]
 ```
 
-2026-10-18 961 → 2026-11-20 963（+2）
+2026-10-19 961 → 2026-11-21 962（+1）
 
 
 ---

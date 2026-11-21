@@ -1,6 +1,6 @@
 # rsperko/keyscribe
 
-⭐ 13 · Swift · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/rsperko/keyscribe) · [官网](https://rsperko.github.io/keyscribe/) · 个人维护
+⭐ 14 · Swift · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/rsperko/keyscribe) · [官网](https://rsperko.github.io/keyscribe/) · 个人维护
 
 **macOS 本地语音听写应用：设备端识别、无遥测**
 
@@ -46,12 +46,12 @@ macOS 菜单栏听写应用：按住 Fn(Globe) 键说话，松开后将文本插
 ```mermaid
 xychart-beta
     title "rsperko/keyscribe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-18 12 → 2026-11-21 14（+2）
 
 
 ---

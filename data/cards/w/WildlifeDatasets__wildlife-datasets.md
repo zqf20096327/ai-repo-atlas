@@ -1,6 +1,6 @@
 # WildlifeDatasets/wildlife-datasets
 
-⭐ 219 · Jupyter Notebook · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/WildlifeDatasets/wildlife-datasets) · [官网](https://wildlifedatasets.github.io/wildlife-datasets/) · 组织维护
+⭐ 220 · Jupyter Notebook · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/WildlifeDatasets/wildlife-datasets) · [官网](https://wildlifedatasets.github.io/wildlife-datasets/) · 组织维护
 
 **野生动物个体重识别数据集工具包：63 个数据集聚合与处理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WildlifeDatasets/wildlife-datasets 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 210 --> 220
-    line [211, 212, 214, 212, 216, 217, 218, 219, 219]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 210 --> 221
+    line [211, 212, 214, 212, 216, 217, 218, 219, 220]
 ```
 
-2026-10-18 211 → 2026-11-20 219（+8）
+2026-10-19 211 → 2026-11-21 220（+9）
 
 
 ---

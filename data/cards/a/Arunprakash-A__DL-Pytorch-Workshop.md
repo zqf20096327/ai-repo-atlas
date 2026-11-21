@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Arunprakash-A/DL-Pytorch-Workshop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 42 --> 45
-    line [44, 43, 43]
+    title "Arunprakash-A/DL-Pytorch-Workshop 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 42 --> 44
+    line [43, 43]
 ```
 
-2026-10-18 44 → 2026-11-20 43（-1）
+2026-10-19 43 → 2026-11-21 43（+0）
 
 
 ---

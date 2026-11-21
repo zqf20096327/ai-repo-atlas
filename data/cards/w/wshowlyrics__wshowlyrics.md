@@ -1,6 +1,6 @@
 # wshowlyrics/wshowlyrics
 
-⭐ 15 · C · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/wshowlyrics/wshowlyrics) · [官网](https://wshowlyrics.github.io/wshowlyrics/) · 个人维护
+⭐ 16 · C · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/wshowlyrics/wshowlyrics) · [官网](https://wshowlyrics.github.io/wshowlyrics/) · 个人维护
 
 **Linux 桌面歌词悬浮层：随播放同步显示与翻译歌词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wshowlyrics/wshowlyrics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---

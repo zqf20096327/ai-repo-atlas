@@ -1,6 +1,6 @@
 # martian56/vacant
 
-⭐ 11 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/martian56/vacant) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/martian56/vacant) · 个人维护
 
 **自托管 AI 域名查找器：只显示可注册域名**
 
@@ -46,12 +46,12 @@ Vacant 是一个可自托管的开源域名查找工具。用户用自然语言�
 ```mermaid
 xychart-beta
     title "martian56/vacant 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-14 10 → 2026-11-20 11（+1）
+2026-11-14 10 → 2026-11-21 12（+2）
 
 
 ---

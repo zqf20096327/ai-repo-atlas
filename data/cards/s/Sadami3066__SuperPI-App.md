@@ -1,6 +1,6 @@
 # Sadami3066/SuperPI-App
 
-⭐ 53 · Kotlin · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Sadami3066/SuperPI-App) · 个人维护 · 中文 README
+⭐ 54 · Kotlin · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Sadami3066/SuperPI-App) · 个人维护 · 中文 README
 
 **Android 本机运行的插件化个人 AI 智能体**
 
@@ -40,6 +40,18 @@
 > L23: Super PI Agent 是跑在 Android 手机上的个人智能体。长按电源键唤醒，用语音或文字说出需求，它会在本机把事情做完：读写文件、操作其他应用、运行 Linux 命令、连接外部服务。
 > L27: Super PI Agent 包含一套完整的 Agent Harness：工具、技能、长期记忆、MCP 连接器与插件系统；内置轻量 Linux 环境，覆盖大部分桌面办公与代码任务；通过插件可以接入飞书、企业微信、中山大学校园服务、
 > L41: - **模型自由**：支持多家模型服务商，API Key 或 OAuth 登录；模型与思考档按会话选择。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Sadami3066/SuperPI-App 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 52 --> 55
+    line [53, 54]
+```
+
+2026-11-20 53 → 2026-11-21 54（+1）
 
 
 ---

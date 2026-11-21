@@ -46,12 +46,12 @@ Udacity 课程 3.3 的结业项目，构建企业级多代理客服系统：Orch
 ```mermaid
 xychart-beta
     title "giskardleen/multi-agent-customer-support-system 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-20"]
+    x-axis ["2026-10-26", "2026-11-21"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-10-26 6 → 2026-11-20 6（+0）
+2026-10-26 6 → 2026-11-21 6（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # replikativ/proximum
 
-⭐ 33 · Clojure · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/replikativ/proximum) · [官网](https://datahike.io/proximum) · 组织维护
+⭐ 34 · Clojure · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/replikativ/proximum) · [官网](https://datahike.io/proximum) · 组织维护
 
 **面向 Clojure/Java 的可嵌入向量库，带 Git 式版本与分支**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "replikativ/proximum 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-11-20 33（+1）
+2026-10-19 32 → 2026-11-21 34（+2）
 
 
 ---

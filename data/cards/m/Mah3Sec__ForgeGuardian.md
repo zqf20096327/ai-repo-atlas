@@ -1,6 +1,6 @@
 # Mah3Sec/ForgeGuardian
 
-⭐ 70 · Go · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/Mah3Sec/ForgeGuardian) · [官网](https://forgeguardian.dev/docs/) · 个人维护
+⭐ 69 · Go · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/Mah3Sec/ForgeGuardian) · [官网](https://forgeguardian.dev/docs/) · 个人维护
 
 **本地优先的软件供应链安全扫描平台，含可选 AI 辅助**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mah3Sec/ForgeGuardian 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 67 --> 109
-    line [106, 97, 96, 72, 71, 72, 70]
+    title "Mah3Sec/ForgeGuardian 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 66 --> 109
+    line [106, 97, 96, 72, 71, 72, 70, 69]
 ```
 
-2026-10-18 106 → 2026-11-20 70（-36）
+2026-10-19 106 → 2026-11-21 69（-37）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lerqian883-alt/dsh-plugin-ml-phase-gate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-10-18 7 → 2026-11-20 7（+0）
+2026-10-19 7 → 2026-11-21 7（+0）
 
 
 ---

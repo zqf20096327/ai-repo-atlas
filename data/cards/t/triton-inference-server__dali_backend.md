@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "triton-inference-server/dali_backend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-18 148 → 2026-11-20 148（+0）
+2026-10-19 148 → 2026-11-21 148（+0）
 
 
 ---

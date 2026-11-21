@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "colonelwatch/abstracts-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "colonelwatch/abstracts-search 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 102 --> 106
-    line [105, 103]
+    line [105, 103, 103]
 ```
 
-2026-10-18 105 → 2026-11-20 103（-2）
+2026-10-19 105 → 2026-11-21 103（-2）
 
 
 ---

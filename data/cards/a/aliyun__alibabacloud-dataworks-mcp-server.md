@@ -1,6 +1,6 @@
 # aliyun/alibabacloud-dataworks-mcp-server
 
-⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/aliyun/alibabacloud-dataworks-mcp-server) · [官网](https://www.aliyun.com/product/bigdata/ide) · 组织维护 · 中文 README
+⭐ 59 · TypeScript · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/aliyun/alibabacloud-dataworks-mcp-server) · [官网](https://www.aliyun.com/product/bigdata/ide) · 组织维护 · 中文 README
 
 **让 AI agent 通过 MCP 操作阿里云 DataWorks 的服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aliyun/alibabacloud-dataworks-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 52 --> 59
-    line [53, 54, 53, 57, 58, 58]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 52 --> 60
+    line [53, 54, 53, 57, 58, 59]
 ```
 
-2026-10-18 53 → 2026-11-20 58（+5）
+2026-10-19 53 → 2026-11-21 59（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # THU-SI/Spatial-MLLM
 
-⭐ 497 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/THU-SI/Spatial-MLLM) · [官网](https://diankun-wu.github.io/Spatial-MLLM/) · 组织维护 · 中文 README
+⭐ 498 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/THU-SI/Spatial-MLLM) · [官网](https://diankun-wu.github.io/Spatial-MLLM/) · 组织维护 · 中文 README
 
 **视频多模态大模型：提升视觉空间理解与推理能力**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "THU-SI/Spatial-MLLM 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 493 --> 498
-    line [494, 496, 497, 496, 497, 497]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 493 --> 499
+    line [494, 496, 497, 496, 497, 498]
 ```
 
-2026-10-18 494 → 2026-11-20 497（+3）
+2026-10-18 494 → 2026-11-21 498（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # BOWLUNA/dsh-custom-mode
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/BOWLUNA/dsh-custom-mode) · [官网](https://www.npmjs.com/package/dsh-custom-mode) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/BOWLUNA/dsh-custom-mode) · [官网](https://www.npmjs.com/package/dsh-custom-mode) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：编辑助手的系统提示词与插件开关**
 
@@ -44,13 +44,13 @@ dsh-custom-mode 是 DeepSeek Harness（dsh）宿主的一个插件，版本 2.3.
 
 ```mermaid
 xychart-beta
-    title "BOWLUNA/dsh-custom-mode 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 10 --> 18
-    line [11, 12, 13, 14, 13, 15, 14, 16, 17, 17]
+    title "BOWLUNA/dsh-custom-mode 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 11 --> 19
+    line [12, 13, 14, 13, 15, 14, 16, 17, 18]
 ```
 
-2026-10-18 11 → 2026-11-20 17（+6）
+2026-10-19 12 → 2026-11-21 18（+6）
 
 
 ---

@@ -45,13 +45,13 @@ VSCode 调试扩展，通过驱动真实调试器（设断点、单步、读取�
 
 ```mermaid
 xychart-beta
-    title "mohsen1/llm-debugger-vscode-extension 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "mohsen1/llm-debugger-vscode-extension 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-20", "2026-11-21"]
     y-axis "stars" 360 --> 363
-    line [361, 362]
+    line [361, 362, 362]
 ```
 
-2026-10-18 361 → 2026-11-20 362（+1）
+2026-10-18 361 → 2026-11-21 362（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # aunicall/ai-job-search-zh
 
-⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/aunicall/ai-job-search-zh) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/aunicall/ai-job-search-zh) · 个人维护 · 中文 README
 
 **本地求职者的全流程 AI 求职助手：职位、简历、投递、面试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aunicall/ai-job-search-zh 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 2 --> 9
-    line [3, 4, 6, 7, 8, 8]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 2 --> 10
+    line [3, 4, 6, 7, 8, 9]
 ```
 
-2026-10-28 3 → 2026-11-20 8（+5）
+2026-10-28 3 → 2026-11-21 9（+6）
 
 
 ---

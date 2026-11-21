@@ -1,6 +1,6 @@
 # annadeters-gif/-deepseek-v4-flash-api-firewall
 
-⭐ 56 · 推送 2026-11-05 · [GitHub](https://github.com/annadeters-gif/-deepseek-v4-flash-api-firewall) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 67 · 推送 2026-11-05 · [GitHub](https://github.com/annadeters-gif/-deepseek-v4-flash-api-firewall) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向开发者的 DeepSeek 海外 API 充值扣费风控方案文档**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "annadeters-gif/-deepseek-v4-flash-api-firewall 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 12 --> 64
-    line [16, 38, 50, 55, 60, 59, 56, 56]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 11 --> 72
+    line [16, 38, 50, 55, 60, 59, 56, 67]
 ```
 
-2026-11-08 16 → 2026-11-20 56（+40）
+2026-11-08 16 → 2026-11-21 67（+51）
 
 
 ---

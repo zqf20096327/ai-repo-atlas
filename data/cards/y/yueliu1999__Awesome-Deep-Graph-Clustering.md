@@ -1,6 +1,6 @@
 # yueliu1999/Awesome-Deep-Graph-Clustering
 
-⭐ 1,025 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) · 个人维护
+⭐ 1,024 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) · 个人维护
 
 **深度图聚类方法策展清单：汇总论文、代码与数据集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "yueliu1999/Awesome-Deep-Graph-Clustering 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20"]
+    title "yueliu1999/Awesome-Deep-Graph-Clustering 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-21"]
     y-axis "stars" 1022 --> 1026
-    line [1025, 1024, 1023, 1024, 1023, 1024, 1025, 1025]
+    line [1024, 1023, 1024, 1023, 1024, 1025, 1024]
 ```
 
-2026-10-18 1,025 → 2026-11-20 1,025（+0）
+2026-10-19 1,024 → 2026-11-21 1,024（+0）
 
 
 ---

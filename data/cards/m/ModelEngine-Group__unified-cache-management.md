@@ -1,6 +1,6 @@
 # ModelEngine-Group/unified-cache-management
 
-⭐ 359 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ModelEngine-Group/unified-cache-management) · [官网](https://ucm.readthedocs.io/en/latest/) · 组织维护 · 中文 README
+⭐ 361 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ModelEngine-Group/unified-cache-management) · [官网](https://ucm.readthedocs.io/en/latest/) · 组织维护 · 中文 README
 
 **LLM 推理的统一 KV Cache 管理层：跨引擎持久化复用缓存**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ModelEngine-Group/unified-cache-management 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 343 --> 360
-    line [344, 348, 349, 350, 349, 354, 355, 354, 355, 356, 357, 358, 359]
+    title "ModelEngine-Group/unified-cache-management 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 343 --> 362
+    line [344, 348, 349, 350, 349, 354, 355, 354, 355, 356, 357, 358, 359, 361]
 ```
 
-2026-10-18 344 → 2026-11-20 359（+15）
+2026-10-18 344 → 2026-11-21 361（+17）
 
 
 ---

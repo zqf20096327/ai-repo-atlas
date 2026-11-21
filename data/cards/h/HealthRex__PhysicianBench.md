@@ -1,6 +1,6 @@
 # HealthRex/PhysicianBench
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/HealthRex/PhysicianBench) · [官网](https://healthrex.github.io/PhysicianBench/) · 组织维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/HealthRex/PhysicianBench) · [官网](https://healthrex.github.io/PhysicianBench/) · 组织维护
 
 **评测 LLM agent 在真实 EHR 环境中执行医生任务的基准与评测框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HealthRex/PhysicianBench 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 61 --> 74
-    line [62, 63, 65, 66, 67, 69, 65, 68, 70, 71, 72, 73, 73]
+    title "HealthRex/PhysicianBench 星数(近 12 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 62 --> 75
+    line [63, 65, 66, 67, 69, 65, 68, 70, 71, 72, 73, 74]
 ```
 
-2026-10-18 62 → 2026-11-20 73（+11）
+2026-10-19 63 → 2026-11-21 74（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # GT4SD/gt4sd-core
 
-⭐ 380 · Jupyter Notebook · MIT · 推送 2026-09-10 · [GitHub](https://github.com/GT4SD/gt4sd-core) · [官网](https://gt4sd.github.io/gt4sd-core/) · 组织维护
+⭐ 379 · Jupyter Notebook · MIT · 推送 2026-09-10 · [GitHub](https://github.com/GT4SD/gt4sd-core) · [官网](https://gt4sd.github.io/gt4sd-core/) · 组织维护
 
 **科学发现生成式模型工具库：统一推理/训练/属性预测流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GT4SD/gt4sd-core 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-12", "2026-11-21"]
     y-axis "stars" 377 --> 381
-    line [378, 379, 380, 380]
+    line [378, 379, 380, 379]
 ```
 
-2026-10-18 378 → 2026-11-20 380（+2）
+2026-10-19 378 → 2026-11-21 379（+1）
 
 
 ---

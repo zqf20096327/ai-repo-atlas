@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashishpatel26/Agent-harness-using-Agno 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-20"]
+    title "ashishpatel26/Agent-harness-using-Agno 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-20", "2026-11-21"]
     y-axis "stars" 5 --> 9
-    line [6, 7, 8]
+    line [6, 7, 8, 8]
 ```
 
-2026-10-26 6 → 2026-11-20 8（+2）
+2026-10-26 6 → 2026-11-21 8（+2）
 
 
 ---

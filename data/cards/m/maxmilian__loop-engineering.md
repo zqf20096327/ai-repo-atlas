@@ -1,6 +1,6 @@
 # maxmilian/loop-engineering
 
-⭐ 29 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/maxmilian/loop-engineering) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/maxmilian/loop-engineering) · 个人维护 · 中文 README
 
 **设计与审查自主 agent 循环的技能包（SKILL.md）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maxmilian/loop-engineering 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 28 --> 31
-    line [29, 30, 29, 30, 29, 29]
+    line [29, 30, 29, 30, 29, 30]
 ```
 
-2026-10-18 29 → 2026-11-20 29（+0）
+2026-10-18 29 → 2026-11-21 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # seojoonkim/prompt-guard
 
-⭐ 180 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/seojoonkim/prompt-guard) · 个人维护
+⭐ 181 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/seojoonkim/prompt-guard) · 个人维护
 
 **保护 AI agent 免受提示注入攻击的防御库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "seojoonkim/prompt-guard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 179 --> 181
-    line [180, 180]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 179 --> 182
+    line [180, 181]
 ```
 
-2026-10-18 180 → 2026-11-20 180（+0）
+2026-10-19 180 → 2026-11-21 181（+1）
 
 
 ---

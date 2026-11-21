@@ -1,6 +1,6 @@
 # webkubor/vite-plugin-agent-eyes
 
-⭐ 105 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/webkubor/vite-plugin-agent-eyes) · [官网](https://webkubor.github.io/vite-plugin-agent-eyes/) · 个人维护 · 中文 README
+⭐ 84 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/webkubor/vite-plugin-agent-eyes) · [官网](https://webkubor.github.io/vite-plugin-agent-eyes/) · 个人维护 · 中文 README
 
 **Vite 遥测插件：让 AI agent 读取网站运行时错误与日志**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "webkubor/vite-plugin-agent-eyes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02", "2026-11-08", "2026-11-21"]
     y-axis "stars" 20 --> 112
-    line [72, 65, 64, 27, 105, 105]
+    line [72, 65, 64, 27, 105, 84]
 ```
 
-2026-10-18 72 → 2026-11-20 105（+33）
+2026-10-18 72 → 2026-11-21 84（+12）
 
 
 ---

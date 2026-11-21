@@ -1,6 +1,6 @@
 # nadeemlab/DeepLIIF
 
-⭐ 265 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/nadeemlab/DeepLIIF) · [官网](https://deepliif.org) · 组织维护
+⭐ 266 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/nadeemlab/DeepLIIF) · [官网](https://deepliif.org) · 组织维护
 
 **将 IHC 病理图像转为 mpIF 并做细胞分割与定量评分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nadeemlab/DeepLIIF 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 263 --> 266
-    line [264, 265, 265]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 263 --> 267
+    line [264, 265, 266]
 ```
 
-2026-10-18 264 → 2026-11-20 265（+1）
+2026-10-19 264 → 2026-11-21 266（+2）
 
 
 ---

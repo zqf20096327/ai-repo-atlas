@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-remotion
 
-⭐ 40 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/STARDUSTLC666/dsh-remotion) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/STARDUSTLC666/dsh-remotion) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Remotion 视频创作插件：React 工程导出 MP4**
 
@@ -44,13 +44,13 @@ DeepSeek Harness（DSH）的插件，把 React 工程制作并导出为视频：
 
 ```mermaid
 xychart-beta
-    title "STARDUSTLC666/dsh-remotion 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20"]
+    title "STARDUSTLC666/dsh-remotion 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 37 --> 41
-    line [38, 39, 40]
+    line [38, 39, 40, 40]
 ```
 
-2026-11-18 38 → 2026-11-20 40（+2）
+2026-11-18 38 → 2026-11-21 40（+2）
 
 
 ---

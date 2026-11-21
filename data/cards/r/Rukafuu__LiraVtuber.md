@@ -1,6 +1,6 @@
 # Rukafuu/LiraVtuber
 
-⭐ 28 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Rukafuu/LiraVtuber) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Rukafuu/LiraVtuber) · 个人维护
 
 **Windows 桌面 AI VTuber 助手：语音对话、混合记忆与桌面控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rukafuu/LiraVtuber 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 23 --> 29
-    line [24, 25, 27, 28, 28]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-13", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 23 --> 30
+    line [24, 25, 27, 28, 29]
 ```
 
-2026-10-18 24 → 2026-11-20 28（+4）
+2026-10-19 24 → 2026-11-21 29（+5）
 
 
 ---

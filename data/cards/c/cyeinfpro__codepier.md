@@ -1,6 +1,6 @@
 # cyeinfpro/codepier
 
-⭐ 21 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cyeinfpro/codepier) · 组织维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cyeinfpro/codepier) · 组织维护 · 中文 README
 
 **自托管 MCP 服务与开发面板：让 ChatGPT 安全操作本地项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyeinfpro/codepier 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 18, 19, 20, 21]
+    title "cyeinfpro/codepier 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 18, 19, 20, 21, 22]
 ```
 
-2026-10-18 18 → 2026-11-20 21（+3）
+2026-10-19 18 → 2026-11-21 22（+4）
 
 
 ---

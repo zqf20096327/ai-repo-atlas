@@ -1,6 +1,6 @@
 # tikoci/quickchr
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tikoci/quickchr) · [官网](https://tikoci.github.io/p/quickchr) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tikoci/quickchr) · [官网](https://tikoci.github.io/p/quickchr) · 个人维护
 
 **面向测试与脚本的 MikroTik CHR 虚拟机快速启动管理 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tikoci/quickchr 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-20 10（+0）
+2026-11-11 10 → 2026-11-21 10（+0）
 
 
 ---

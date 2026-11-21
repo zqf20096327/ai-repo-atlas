@@ -1,6 +1,6 @@
 # omnirexflora-labs/omnicoreagent
 
-⭐ 253 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/omnirexflora-labs/omnicoreagent) · [官网](https://docs-omnicoreagent.omnirexfloralabs.com/) · 组织维护
+⭐ 254 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/omnirexflora-labs/omnicoreagent) · [官网](https://docs-omnicoreagent.omnirexfloralabs.com/) · 组织维护
 
 **Python agent 运行时：带策略审批、沙箱与可恢复运行的 agent harness**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "omnirexflora-labs/omnicoreagent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-21"]
     y-axis "stars" 251 --> 255
-    line [253, 252, 253, 252, 253, 254, 253, 253]
+    line [253, 252, 253, 252, 253, 254, 253, 254]
 ```
 
-2026-10-18 253 → 2026-11-20 253（+0）
+2026-10-18 253 → 2026-11-21 254（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jalberty2018/awesome-comfyui
 
-⭐ 55 · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/jalberty2018/awesome-comfyui) · 个人维护 · 中文 README
+⭐ 55 · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/jalberty2018/awesome-comfyui) · 个人维护 · 中文 README
 
 **每日更新的 ComfyUI 自定义节点清单（awesome list）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jalberty2018/awesome-comfyui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-19", "2026-11-20"]
+    title "jalberty2018/awesome-comfyui 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 50 --> 56
-    line [51, 52, 54, 55]
+    line [51, 52, 54, 55, 55]
 ```
 
-2026-10-18 51 → 2026-11-20 55（+4）
+2026-10-19 51 → 2026-11-21 55（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # l3tchupkt/adaptq
 
-⭐ 23 · C++ · 推送 2026-10-06 · [GitHub](https://github.com/l3tchupkt/adaptq) · [官网](https://github.com/l3tchupkt/adaptq) · 个人维护
+⭐ 32 · C++ · 推送 2026-10-06 · [GitHub](https://github.com/l3tchupkt/adaptq) · [官网](https://github.com/l3tchupkt/adaptq) · 个人维护
 
 **面向 CPU LLM 推理的 KV 缓存量化引擎（C++17 + Python 绑定）**
 
@@ -45,12 +45,12 @@ AdapTQ 是用于 CPU 环境 LLM 推理的 KV-cache 量化引擎：每 token 经�
 ```mermaid
 xychart-beta
     title "l3tchupkt/adaptq 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 20 --> 24
-    line [21, 23, 23]
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 20 --> 33
+    line [21, 23, 32]
 ```
 
-2026-11-13 21 → 2026-11-20 23（+2）
+2026-11-13 21 → 2026-11-21 32（+11）
 
 
 ---

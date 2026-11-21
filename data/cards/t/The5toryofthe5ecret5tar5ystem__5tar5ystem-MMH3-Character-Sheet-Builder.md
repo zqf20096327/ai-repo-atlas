@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Builder 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 4 --> 11
-    line [5, 7, 9, 8, 9, 7, 10, 10]
+    title "The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Builder 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 6 --> 11
+    line [7, 9, 8, 9, 7, 10, 10]
 ```
 
-2026-10-18 5 → 2026-11-20 10（+5）
+2026-10-19 7 → 2026-11-21 10（+3）
 
 
 ---

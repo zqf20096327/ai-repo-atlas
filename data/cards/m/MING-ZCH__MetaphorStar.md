@@ -1,6 +1,6 @@
 # MING-ZCH/MetaphorStar
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-05-15 · [GitHub](https://github.com/MING-ZCH/MetaphorStar) · [官网](https://arxiv.org/abs/2602.10575) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/MING-ZCH/MetaphorStar) · [官网](https://arxiv.org/abs/2602.10575) · 个人维护
 
 **图像隐喻理解的视觉强化学习框架：数据集、基准与模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MING-ZCH/MetaphorStar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-11-21"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-18 12 → 2026-11-21 12（+0）
 
 
 ---

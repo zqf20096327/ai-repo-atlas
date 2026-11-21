@@ -1,6 +1,6 @@
 # Vidhi1290/LLM---Detect-AI-Generated-Text
 
-⭐ 75 · Jupyter Notebook · MIT · 推送 2025-11-24 · [GitHub](https://github.com/Vidhi1290/LLM---Detect-AI-Generated-Text) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 BERT 的 AI 生成文本检测项目（Kaggle 竞赛）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

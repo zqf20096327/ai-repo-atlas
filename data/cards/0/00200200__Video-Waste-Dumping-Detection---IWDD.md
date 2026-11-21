@@ -1,6 +1,6 @@
 # 00200200/Video-Waste-Dumping-Detection---IWDD
 
-⭐ 52 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/00200200/Video-Waste-Dumping-Detection---IWDD) · 个人维护
+⭐ 53 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/00200200/Video-Waste-Dumping-Detection---IWDD) · 个人维护
 
 **非法倾倒垃圾视频检测的分类训练管线（IWDD 竞赛）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "00200200/Video-Waste-Dumping-Detection---IWDD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 51 --> 54
+    line [52, 53]
 ```
 
-2026-10-18 52 → 2026-11-20 52（+0）
+2026-10-19 52 → 2026-11-21 53（+1）
 
 
 ---

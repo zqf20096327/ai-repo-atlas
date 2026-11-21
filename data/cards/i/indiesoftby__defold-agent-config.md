@@ -1,6 +1,6 @@
 # indiesoftby/defold-agent-config
 
-⭐ 108 · Python · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/indiesoftby/defold-agent-config) · 个人维护 · 中文 README
+⭐ 109 · Python · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/indiesoftby/defold-agent-config) · 个人维护 · 中文 README
 
 **Defold 引擎 AI 辅助游戏开发的 AGENTS.md 配置与技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "indiesoftby/defold-agent-config 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 98 --> 109
-    line [99, 101, 102, 104, 106, 108, 108]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 98 --> 110
+    line [99, 101, 102, 104, 106, 108, 109]
 ```
 
-2026-10-18 99 → 2026-11-20 108（+9）
+2026-10-19 99 → 2026-11-21 109（+10）
 
 
 ---

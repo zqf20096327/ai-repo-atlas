@@ -1,6 +1,6 @@
 # earayu/Mingle
 
-⭐ 51 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/earayu/Mingle) · [官网](https://mingle.build/) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/earayu/Mingle) · [官网](https://mingle.build/) · 个人维护 · 中文 README
 
 **把本地 agent 接入既有聊天应用的桥接工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "earayu/Mingle 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 49 --> 52
-    line [50, 51]
+    title "earayu/Mingle 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 49 --> 63
+    line [50, 51, 62]
 ```
 
-2026-11-19 50 → 2026-11-20 51（+1）
+2026-11-19 50 → 2026-11-21 62（+12）
 
 
 ---

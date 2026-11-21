@@ -46,12 +46,12 @@ docvet 将 docstring 存在性度量、基于 AST 的完整性检查、基于 gi
 ```mermaid
 xychart-beta
     title "Alberto-Codes/docvet 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-20"]
+    x-axis ["2026-10-23", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-20 10（+0）
+2026-10-23 10 → 2026-11-21 10（+0）
 
 
 ---

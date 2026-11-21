@@ -44,13 +44,13 @@ Eötvös Loránd 大学（ELTE）讲师 Arafat Md Easin 维护的数据科学实
 
 ```mermaid
 xychart-beta
-    title "arafatro/IntroToDS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-20"]
+    title "arafatro/IntroToDS 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-20", "2026-11-21"]
     y-axis "stars" 15 --> 19
-    line [16, 17, 18]
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-20 18（+2）
+2026-10-19 16 → 2026-11-21 18（+2）
 
 
 ---

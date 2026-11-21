@@ -1,6 +1,6 @@
 # ys-zong/awesome-self-supervised-multimodal-learning
 
-⭐ 279 · 推送 2026-11-07 · [GitHub](https://github.com/ys-zong/awesome-self-supervised-multimodal-learning) · [官网](https://arxiv.org/abs/2304.01008) · 个人维护
+⭐ 280 · 推送 2026-11-07 · [GitHub](https://github.com/ys-zong/awesome-self-supervised-multimodal-learning) · [官网](https://arxiv.org/abs/2304.01008) · 个人维护
 
 **自监督多模态学习论文与资源策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ys-zong/awesome-self-supervised-multimodal-learning 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
-    y-axis "stars" 278 --> 280
-    line [279, 279]
+    x-axis ["2026-11-08", "2026-11-21"]
+    y-axis "stars" 278 --> 281
+    line [279, 280]
 ```
 
-2026-11-08 279 → 2026-11-20 279（+0）
+2026-11-08 279 → 2026-11-21 280（+1）
 
 
 ---

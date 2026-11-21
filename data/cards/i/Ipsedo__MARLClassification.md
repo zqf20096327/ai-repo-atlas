@@ -1,6 +1,6 @@
 # Ipsedo/MARLClassification
 
-⭐ 49 · Python · 推送 2026-11-14 · [GitHub](https://github.com/Ipsedo/MARLClassification) · 个人维护
+⭐ 49 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Ipsedo/MARLClassification) · 个人维护
 
 **多智能体强化学习图像分类的 PyTorch 研究实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ipsedo/MARLClassification 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 47 --> 50
     line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-20 49（+1）
+2026-10-19 48 → 2026-11-21 49（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # InterfazeAI/postgres-llm
 
-⭐ 56 · PLpgSQL · 推送 2026-05-06 · [GitHub](https://github.com/InterfazeAI/postgres-llm) · [官网](https://interfaze.ai/blog/run-llms-inside-postgres) · 组织维护
+⭐ 57 · PLpgSQL · 推送 2026-05-06 · [GitHub](https://github.com/InterfazeAI/postgres-llm) · [官网](https://interfaze.ai/blog/run-llms-inside-postgres) · 组织维护
 
 **在 Postgres 内直接调用 LLM 的触发器函数，自动填充指定列**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "InterfazeAI/postgres-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
 ```
 
-2026-10-18 56 → 2026-11-20 56（+0）
+2026-10-19 56 → 2026-11-21 57（+1）
 
 
 ---

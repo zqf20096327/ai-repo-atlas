@@ -1,6 +1,6 @@
 # Workday/ai-conversation-bridge
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Workday/ai-conversation-bridge) · 组织维护 · 中文 README
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Workday/ai-conversation-bridge) · 组织维护 · 中文 README
 
 **将企业聊天应用接入 Workday 的 AI 对话桥接参考架构**
 
@@ -45,12 +45,12 @@ Workday 官方发布的参考架构：通过桥接服务把 LINE WORKS、钉钉�
 ```mermaid
 xychart-beta
     title "Workday/ai-conversation-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-19 12 → 2026-11-21 12（+0）
 
 
 ---

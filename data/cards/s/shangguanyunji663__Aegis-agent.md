@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shangguanyunji663/Aegis-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "shangguanyunji663/Aegis-agent 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 99 --> 102
-    line [100, 101]
+    line [100, 101, 101]
 ```
 
-2026-10-18 100 → 2026-11-20 101（+1）
+2026-10-19 100 → 2026-11-21 101（+1）
 
 
 ---

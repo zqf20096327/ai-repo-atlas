@@ -1,6 +1,6 @@
 # stepanogil/autonomous-hr-chatbot
 
-⭐ 463 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/stepanogil/autonomous-hr-chatbot) · [官网](https://autonomous-hr-chatbot.vercel.app) · 个人维护
+⭐ 462 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/stepanogil/autonomous-hr-chatbot) · [官网](https://autonomous-hr-chatbot.vercel.app) · 个人维护
 
 **自主 HR 问答 agent 原型：用工具回答人力资源查询**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stepanogil/autonomous-hr-chatbot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
     y-axis "stars" 460 --> 464
-    line [461, 462, 461, 462, 463, 463]
+    line [461, 462, 461, 462, 463, 462]
 ```
 
-2026-10-18 461 → 2026-11-20 463（+2）
+2026-10-19 461 → 2026-11-21 462（+1）
 
 
 ---

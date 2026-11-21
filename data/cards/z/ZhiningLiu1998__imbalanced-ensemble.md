@@ -1,6 +1,6 @@
 # ZhiningLiu1998/imbalanced-ensemble
 
-⭐ 430 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/ZhiningLiu1998/imbalanced-ensemble) · [官网](https://imbalanced-ensemble.readthedocs.io) · 个人维护 · 中文 README
+⭐ 428 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/ZhiningLiu1998/imbalanced-ensemble) · [官网](https://imbalanced-ensemble.readthedocs.io) · 个人维护 · 中文 README
 
 **类别不平衡/长尾分类的 Python 集成学习算法库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZhiningLiu1998/imbalanced-ensemble 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 428 --> 432
-    line [431, 429, 430, 430]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 427 --> 432
+    line [431, 429, 430, 428]
 ```
 
-2026-10-18 431 → 2026-11-20 430（-1）
+2026-10-19 431 → 2026-11-21 428（-3）
 
 
 ---

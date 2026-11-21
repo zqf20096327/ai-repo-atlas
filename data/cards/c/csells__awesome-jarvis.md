@@ -1,6 +1,6 @@
 # csells/awesome-jarvis
 
-⭐ 10 · Python · CC0-1.0 · 推送 2026-11-17 · [GitHub](https://github.com/csells/awesome-jarvis) · [官网](https://awesome-jarvis.com) · 个人维护
+⭐ 10 · Python · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/csells/awesome-jarvis) · [官网](https://awesome-jarvis.com) · 个人维护
 
 **构建语音优先个人 AI 助理（J.A.R.V.I.S.）的开源项目策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "csells/awesome-jarvis 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20"]
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21"]
     y-axis "stars" 2 --> 11
     line [3, 4, 5, 3, 6, 7, 10, 10]
 ```
 
-2026-10-23 3 → 2026-11-20 10（+7）
+2026-10-23 3 → 2026-11-21 10（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # receyuki/stable-diffusion-prompt-reader
 
-⭐ 1,343 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/receyuki/stable-diffusion-prompt-reader) · 个人维护 · 中文 README
+⭐ 1,342 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/receyuki/stable-diffusion-prompt-reader) · 个人维护 · 中文 README
 
 **读取 Stable Diffusion 生成图片中提示词的独立查看器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "receyuki/stable-diffusion-prompt-reader 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
-    y-axis "stars" 1342 --> 1344
-    line [1343, 1343]
+    x-axis ["2026-11-08", "2026-11-21"]
+    y-axis "stars" 1341 --> 1344
+    line [1343, 1342]
 ```
 
-2026-11-08 1,343 → 2026-11-20 1,343（+0）
+2026-11-08 1,343 → 2026-11-21 1,342（-1）
 
 
 ---

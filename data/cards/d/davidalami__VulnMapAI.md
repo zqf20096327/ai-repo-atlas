@@ -1,6 +1,6 @@
 # davidalami/VulnMapAI
 
-⭐ 34 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/davidalami/VulnMapAI) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/davidalami/VulnMapAI) · 个人维护
 
 **结合 nmap 扫描与 LLM 的漏洞报告生成工具**
 
@@ -39,6 +39,18 @@
 
 > L2: VulnMapAI combines the power of nmap’s detailed network scanning with the natural language processing capabilities o
 > L24: VulnMapAI talks to an **OpenAI-compatible Chat Completions endpoint**, so you can point it at any self-hosted model
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "davidalami/VulnMapAI 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 33 --> 35
+    line [34, 34]
+```
+
+2026-11-20 34 → 2026-11-21 34（+0）
 
 
 ---

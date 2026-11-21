@@ -1,6 +1,6 @@
 # RightNow-AI/inference-cost-truth
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/inference-cost-truth) · [官网](https://runinfra.ai) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/inference-cost-truth) · [官网](https://runinfra.ai) · 组织维护
 
 **LLM 推理成本与 GPU 租价核验数据集：每条数字带出处**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RightNow-AI/inference-cost-truth 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-19", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-19 10 → 2026-11-20 10（+0）
+2026-11-19 10 → 2026-11-21 11（+1）
 
 
 ---

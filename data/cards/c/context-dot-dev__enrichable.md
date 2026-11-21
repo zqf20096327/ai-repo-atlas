@@ -1,6 +1,6 @@
 # context-dot-dev/enrichable
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/context-dot-dev/enrichable) · [官网](https://www.enrichable.io) · 组织维护
+⭐ 275 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/context-dot-dev/enrichable) · [官网](https://www.enrichable.io) · 组织维护
 
 **面向销售/增长团队的 AI 数据富化电子表格**
 
@@ -41,6 +41,18 @@
 > L21: **Enrichable is an open-source AI spreadsheet for data enrichment.** Describe the companies or people you want and 
 > L34: - **MCP server.** Claude Code, Cursor and other MCP clients can read, edit and enrich your sheets.
 > L76: |Context.dev|Web search, scraping, company and people data|Required|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "context-dot-dev/enrichable 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 14 --> 298
+    line [37, 275]
+```
+
+2026-11-20 37 → 2026-11-21 275（+238）
 
 
 ---

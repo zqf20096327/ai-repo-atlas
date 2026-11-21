@@ -1,6 +1,6 @@
 # Pumpetee/Mnemai
 
-⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Pumpetee/Mnemai) · 个人维护
+⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Pumpetee/Mnemai) · 个人维护
 
 **本地 Markdown 记忆层桌面应用：为多个 AI 提供共享个人上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Pumpetee/Mnemai 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-29", "2026-11-11", "2026-11-21"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-10-29 5 → 2026-11-20 6（+1）
+2026-10-29 5 → 2026-11-21 6（+1）
 
 
 ---

@@ -45,13 +45,13 @@ SCAST 将源代码解析为抽象语法树（AST）并做静态分析，用 Merm
 
 ```mermaid
 xychart-beta
-    title "davidkingzyb/SCAST 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "davidkingzyb/SCAST 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 38 --> 41
-    line [39, 40]
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-20 40（+1）
+2026-10-19 39 → 2026-11-21 40（+1）
 
 
 ---

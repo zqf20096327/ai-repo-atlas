@@ -1,6 +1,6 @@
 # mrsibe/mira
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/mrsibe/mira) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mrsibe/mira) · 个人维护 · 中文 README
 
 **本地优先的桌面端 LLM 对话客户端，自带 API Key 接入多家模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mrsibe/mira 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-21"]
     y-axis "stars" 3 --> 10
     line [4, 6, 7, 9, 9]
 ```
 
-2026-11-11 4 → 2026-11-20 9（+5）
+2026-11-11 4 → 2026-11-21 9（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # bloom500/cinderpaw
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/bloom500/cinderpaw) · [官网](https://cinderpaw.dev) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bloom500/cinderpaw) · [官网](https://cinderpaw.dev) · 组织维护
 
 **桌面 AI 助手：替你操作文件、应用与浏览器，本地或云端模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bloom500/cinderpaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chetanty/machine_internet 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    title "chetanty/machine_internet 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 11 --> 18
-    line [12, 17]
+    line [12, 17, 17]
 ```
 
-2026-11-19 12 → 2026-11-20 17（+5）
+2026-11-19 12 → 2026-11-21 17（+5）
 
 
 ---

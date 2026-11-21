@@ -1,6 +1,6 @@
 # HyunSeob/iphone-cli
 
-⭐ 109 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/HyunSeob/iphone-cli) · [官网](https://hyunseob.github.io/iphone-cli/) · 个人维护 · 中文 README
+⭐ 115 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HyunSeob/iphone-cli) · [官网](https://hyunseob.github.io/iphone-cli/) · 个人维护 · 中文 README
 
 **让 AI agent 通过无障碍树读取并操作真机 iPhone 的 CLI/MCP 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HyunSeob/iphone-cli 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 17 --> 117
-    line [25, 47, 59, 104, 109]
+    title "HyunSeob/iphone-cli 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 16 --> 124
+    line [25, 47, 59, 104, 109, 115]
 ```
 
-2026-11-15 25 → 2026-11-20 109（+84）
+2026-11-15 25 → 2026-11-21 115（+90）
 
 
 ---

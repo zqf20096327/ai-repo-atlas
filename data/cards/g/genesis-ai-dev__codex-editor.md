@@ -1,6 +1,6 @@
 # genesis-ai-dev/codex-editor
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/genesis-ai-dev/codex-editor) · [官网](https://codexeditor.app) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/genesis-ai-dev/codex-editor) · [官网](https://codexeditor.app) · 组织维护
 
 **面向圣经翻译项目的 VS Code 扩展，带 AI 辅助起草**
 
@@ -45,12 +45,12 @@ Visual Studio Code 扩展，面向圣经翻译工作流：支持 .codex 笔记�
 ```mermaid
 xychart-beta
     title "genesis-ai-dev/codex-editor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-20 25（+0）
+2026-10-19 25 → 2026-11-21 25（+0）
 
 
 ---

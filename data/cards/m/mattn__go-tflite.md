@@ -45,13 +45,13 @@ Go binding，封装 TensorFlow Lite C API（libtensorflowlite_c.so），供 Go �
 
 ```mermaid
 xychart-beta
-    title "mattn/go-tflite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    title "mattn/go-tflite 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 321 --> 324
-    line [322, 323, 322]
+    line [322, 323, 322, 322]
 ```
 
-2026-10-18 322 → 2026-11-20 322（+0）
+2026-10-19 322 → 2026-11-21 322（+0）
 
 
 ---

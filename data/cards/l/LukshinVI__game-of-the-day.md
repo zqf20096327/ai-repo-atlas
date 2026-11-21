@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LukshinVI/game-of-the-day 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    title "LukshinVI/game-of-the-day 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 5 --> 8
-    line [6, 7]
+    line [6, 7, 7]
 ```
 
-2026-11-19 6 → 2026-11-20 7（+1）
+2026-11-19 6 → 2026-11-21 7（+1）
 
 
 ---

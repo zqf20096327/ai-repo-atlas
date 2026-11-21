@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/langchain-rustchain 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-20"]
+    title "Scottcjn/langchain-rustchain 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-20", "2026-11-21"]
     y-axis "stars" 10 --> 13
-    line [12, 11]
+    line [12, 11, 11]
 ```
 
-2026-10-29 12 → 2026-11-20 11（-1）
+2026-10-29 12 → 2026-11-21 11（-1）
 
 
 ---

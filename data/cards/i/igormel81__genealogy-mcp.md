@@ -1,6 +1,6 @@
 # igormel81/genealogy-mcp
 
-⭐ 12 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/igormel81/genealogy-mcp) · [官网](https://github.com/igormel81/genealogy-mcp#readme) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/igormel81/genealogy-mcp) · [官网](https://github.com/igormel81/genealogy-mcp#readme) · 个人维护 · 中文 README
 
 **把 AI 助手变成家谱研究者的 MCP 工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "igormel81/genealogy-mcp 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 2 --> 13
-    line [3, 4, 5, 4, 7, 8, 9, 10, 11, 12]
+    title "igormel81/genealogy-mcp 星数(近 11 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 2 --> 14
+    line [3, 4, 5, 4, 7, 8, 9, 10, 11, 12, 13]
 ```
 
-2026-10-18 3 → 2026-11-20 12（+9）
+2026-10-19 3 → 2026-11-21 13（+10）
 
 
 ---

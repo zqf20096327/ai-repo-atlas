@@ -1,6 +1,6 @@
 # arbrain-ai/arbrain
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/arbrain-ai/arbrain) · [官网](https://arbrain.ai) · 个人维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/arbrain-ai/arbrain) · [官网](https://arbrain.ai) · 个人维护
 
 **个人 AI 二脑：Agent 帮你定目标、排计划并执行复盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arbrain-ai/arbrain 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-20"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-21"]
     y-axis "stars" 2 --> 11
     line [3, 4, 6, 7, 4, 8, 9, 10, 10]
 ```
 
-2026-10-24 3 → 2026-11-20 10（+7）
+2026-10-24 3 → 2026-11-21 10（+7）
 
 
 ---

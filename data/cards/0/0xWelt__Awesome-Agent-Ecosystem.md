@@ -1,6 +1,6 @@
 # 0xWelt/Awesome-Agent-Ecosystem
 
-⭐ 124 · 推送 2026-11-18 · [GitHub](https://github.com/0xWelt/Awesome-Agent-Ecosystem) · [官网](https://0xwelt.github.io/Awesome-Agent-Ecosystem/) · 个人维护
+⭐ 124 · 推送 2026-11-20 · [GitHub](https://github.com/0xWelt/Awesome-Agent-Ecosystem) · [官网](https://0xwelt.github.io/Awesome-Agent-Ecosystem/) · 个人维护
 
 **AI agent 生态策展清单：终端产品、agent 服务、模型与开放标准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0xWelt/Awesome-Agent-Ecosystem 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
     y-axis "stars" 121 --> 125
     line [122, 124, 124]
 ```
 
-2026-11-08 122 → 2026-11-20 124（+2）
+2026-11-08 122 → 2026-11-21 124（+2）
 
 
 ---

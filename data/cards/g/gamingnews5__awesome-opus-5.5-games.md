@@ -1,6 +1,6 @@
 # gamingnews5/awesome-opus-5.5-games
 
-⭐ 9 · Python · 推送 2026-10-27 · [GitHub](https://github.com/gamingnews5/awesome-opus-5.5-games) · [官网](https://games.omgithub.com/) · 个人维护
+⭐ 10 · Python · 推送 2026-10-27 · [GitHub](https://github.com/gamingnews5/awesome-opus-5.5-games) · [官网](https://games.omgithub.com/) · 个人维护
 
 **AI 生成游戏来源清单：3888 个游戏条目按模型与评分浏览**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gamingnews5/awesome-opus-5.5-games 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-20"]
-    y-axis "stars" 2 --> 10
-    line [3, 6, 7, 8, 9, 9]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-21"]
+    y-axis "stars" 2 --> 11
+    line [3, 6, 7, 8, 9, 10]
 ```
 
-2026-11-02 3 → 2026-11-20 9（+6）
+2026-11-02 3 → 2026-11-21 10（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # yeyupiaoling/Whisper-Finetune
 
-⭐ 1,223 · C · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/yeyupiaoling/Whisper-Finetune) · 个人维护 · 中文 README
+⭐ 1,222 · C · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/yeyupiaoling/Whisper-Finetune) · 个人维护 · 中文 README
 
 **Whisper 语音识别模型 Lora 微调与多端部署工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yeyupiaoling/Whisper-Finetune 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-20"]
+    title "yeyupiaoling/Whisper-Finetune 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-21"]
     y-axis "stars" 1220 --> 1224
-    line [1221, 1222, 1221, 1222, 1223, 1223]
+    line [1222, 1221, 1222, 1223, 1222]
 ```
 
-2026-10-18 1,221 → 2026-11-20 1,223（+2）
+2026-10-19 1,222 → 2026-11-21 1,222（+0）
 
 
 ---

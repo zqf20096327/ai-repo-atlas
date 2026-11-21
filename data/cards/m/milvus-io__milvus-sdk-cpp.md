@@ -45,12 +45,12 @@ Milvus 向量数据库的 C++ 客户端 SDK，由 milvus-io 组织维护。提�
 ```mermaid
 xychart-beta
     title "milvus-io/milvus-sdk-cpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-20 53（+0）
+2026-10-19 53 → 2026-11-21 53（+0）
 
 
 ---

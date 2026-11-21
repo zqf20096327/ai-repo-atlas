@@ -1,6 +1,6 @@
 # xsunsim/AgentStockBenchmarkResults
 
-⭐ 17 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/xsunsim/AgentStockBenchmarkResults) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xsunsim/AgentStockBenchmarkResults) · 个人维护 · 中文 README
 
 **AI agent 选股能力的每日实测排行榜：以未来收益为判据**
 
@@ -45,12 +45,12 @@ S&P 500 股票预测的公开 benchmark 结果仓库：各家 LLM agent（OpenAI
 ```mermaid
 xychart-beta
     title "xsunsim/AgentStockBenchmarkResults 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-20 17（+0）
+2026-10-19 17 → 2026-11-21 17（+0）
 
 
 ---

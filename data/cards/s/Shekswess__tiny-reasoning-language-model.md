@@ -1,6 +1,6 @@
 # Shekswess/tiny-reasoning-language-model
 
-⭐ 53 · Python · 推送 2025-11-24 · [GitHub](https://github.com/Shekswess/tiny-reasoning-language-model) · [官网](https://huggingface.co/collections/Shekswess/tiny-reasoning-language-model-68d924929c17ad8300544ae4) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **135M 小模型逐步推理训练的开源研究流水线**
 

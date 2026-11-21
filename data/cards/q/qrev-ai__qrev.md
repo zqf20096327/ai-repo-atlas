@@ -1,6 +1,6 @@
 # qrev-ai/qrev
 
-⭐ 365 · JavaScript · AGPL-3.0 · 推送 2026-02-07 · [GitHub](https://github.com/qrev-ai/qrev) · [官网](https://qrev.ai) · 组织维护
+⭐ 364 · JavaScript · AGPL-3.0 · 推送 2026-02-07 · [GitHub](https://github.com/qrev-ai/qrev) · [官网](https://qrev.ai) · 组织维护
 
 **开源 AI 优先的 Salesforce 替代品：AI Agent 驱动销售组织**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qrev-ai/qrev 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 362 --> 366
-    line [363, 364, 365, 364, 365, 365]
+    title "qrev-ai/qrev 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 363 --> 366
+    line [364, 365, 364, 365, 364]
 ```
 
-2026-10-18 363 → 2026-11-20 365（+2）
+2026-10-19 364 → 2026-11-21 364（+0）
 
 
 ---

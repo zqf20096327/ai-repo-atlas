@@ -1,6 +1,6 @@
 # shamspias/customizable-gpt-chatbot
 
-⭐ 411 · Python · 推送 2026-06-18 · [GitHub](https://github.com/shamspias/customizable-gpt-chatbot) · 个人维护
+⭐ 410 · Python · 推送 2026-06-18 · [GitHub](https://github.com/shamspias/customizable-gpt-chatbot) · 个人维护
 
 **本地优先的可自托管 agent 平台：自然语言构建并运行智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shamspias/customizable-gpt-chatbot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20"]
+    title "shamspias/customizable-gpt-chatbot 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21"]
     y-axis "stars" 406 --> 412
-    line [407, 408, 407, 408, 410, 411, 411]
+    line [408, 407, 408, 410, 411, 410]
 ```
 
-2026-10-18 407 → 2026-11-20 411（+4）
+2026-10-19 408 → 2026-11-21 410（+2）
 
 
 ---

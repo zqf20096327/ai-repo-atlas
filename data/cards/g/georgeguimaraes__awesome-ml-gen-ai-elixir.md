@@ -1,6 +1,6 @@
 # georgeguimaraes/awesome-ml-gen-ai-elixir
 
-⭐ 298 · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/georgeguimaraes/awesome-ml-gen-ai-elixir) · 个人维护
+⭐ 299 · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/georgeguimaraes/awesome-ml-gen-ai-elixir) · 个人维护
 
 **Elixir 机器学习与生成式 AI 库的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "georgeguimaraes/awesome-ml-gen-ai-elixir 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20"]
-    y-axis "stars" 294 --> 299
-    line [295, 296, 297, 296, 297, 298, 298]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-21"]
+    y-axis "stars" 294 --> 300
+    line [295, 296, 297, 296, 297, 298, 299]
 ```
 
-2026-10-18 295 → 2026-11-20 298（+3）
+2026-10-19 295 → 2026-11-21 299（+4）
 
 
 ---

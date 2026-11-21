@@ -1,6 +1,6 @@
 # MarkPhamm/skytrax_reviews
 
-⭐ 14 · HTML · MIT · 推送 2026-09-20 · [GitHub](https://github.com/MarkPhamm/skytrax_reviews) · [官网](https://markphamm.github.io/skytrax_reviews/#1) · 组织维护
+⭐ 14 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MarkPhamm/skytrax_reviews) · [官网](https://markphamm.github.io/skytrax_reviews/#1) · 组织维护
 
 **Skytrax 航空评论的端到端 ELT 数据平台总览仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarkPhamm/skytrax_reviews 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-20"]
+    title "MarkPhamm/skytrax_reviews 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-21"]
     y-axis "stars" 11 --> 15
-    line [12, 13, 12, 13, 14, 14]
+    line [13, 12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-20 14（+2）
+2026-10-19 13 → 2026-11-21 14（+1）
 
 
 ---

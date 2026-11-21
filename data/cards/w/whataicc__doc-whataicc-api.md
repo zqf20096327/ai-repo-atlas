@@ -1,6 +1,6 @@
 # whataicc/doc-whataicc-api
 
-⭐ 37 · HTML · 推送 2026-05-13 · [GitHub](https://github.com/whataicc/doc-whataicc-api) · [官网](https://api.whatai.cc) · 组织维护 · 中文 README
+⭐ 38 · HTML · 推送 2026-05-13 · [GitHub](https://github.com/whataicc/doc-whataicc-api) · [官网](https://api.whatai.cc) · 组织维护 · 中文 README
 
 **商业 AI API 中转服务：统一接口代理 650+ 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "whataicc/doc-whataicc-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-18 37 → 2026-11-20 37（+0）
+2026-10-19 37 → 2026-11-21 38（+1）
 
 
 ---

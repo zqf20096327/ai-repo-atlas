@@ -1,6 +1,6 @@
 # zadazddq/lm-studio-private-ai
 
-⭐ 66 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/zadazddq/lm-studio-private-ai) · 个人维护
+⭐ 149 · Rust · 推送 2026-11-20 · [GitHub](https://github.com/zadazddq/lm-studio-private-ai) · 个人维护
 
 **本地运行大语言模型的桌面软件，数据不出本机**
 
@@ -39,6 +39,18 @@
 
 > L12: LM Studio is a desktop application for running local large language models with complete data privacy. It provides 
 > L26: - **OpenAI-compatible local server:** Exposes a local HTTP endpoint implementing the chat completions and completio
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zadazddq/lm-studio-private-ai 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 58 --> 157
+    line [66, 149]
+```
+
+2026-11-20 66 → 2026-11-21 149（+83）
 
 
 ---

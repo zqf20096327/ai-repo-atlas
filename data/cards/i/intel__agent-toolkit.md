@@ -1,6 +1,6 @@
 # intel/agent-toolkit
 
-⭐ 54 · Shell · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/intel/agent-toolkit) · 组织维护
+⭐ 54 · Shell · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/intel/agent-toolkit) · 组织维护
 
 **在 Intel Xeon 上部署企业级 Agentic AI 基础设施的工具包**
 
@@ -41,6 +41,18 @@
 > L9: > **Deploy a production-grade, open source agentic AI stack on Intel® Xeon® in hours — not months.**
 > L10: > A batteries-included Kubernetes platform with API gateway, intelligent inference routing, agent memory, sandboxed
 > L64: The toolkit is organized into **seven pluggable provider blocks**, each with a default implementation and a defined
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "intel/agent-toolkit 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 53 --> 55
+    line [54, 54]
+```
+
+2026-11-20 54 → 2026-11-21 54（+0）
 
 
 ---

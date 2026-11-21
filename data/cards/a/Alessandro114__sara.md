@@ -1,6 +1,6 @@
 # Alessandro114/sara
 
-⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Alessandro114/sara) · [官网](https://get-scala.com) · 个人维护
+⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Alessandro114/sara) · [官网](https://get-scala.com) · 个人维护
 
 **面向企业的自托管 WhatsApp AI 客服 agent，含 20 行业垂直配置**
 
@@ -46,12 +46,12 @@ SARA 是可自托管的 WhatsApp AI agent，通过 WAHA 连接 WhatsApp，提供
 ```mermaid
 xychart-beta
     title "Alessandro114/sara 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-20 10（+0）
+2026-10-19 10 → 2026-11-21 10（+0）
 
 
 ---

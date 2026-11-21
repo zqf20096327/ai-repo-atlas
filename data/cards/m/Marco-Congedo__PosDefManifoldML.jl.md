@@ -1,6 +1,6 @@
 # Marco-Congedo/PosDefManifoldML.jl
 
-⭐ 25 · Julia · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/Marco-Congedo/PosDefManifoldML.jl) · 组织维护
+⭐ 26 · Julia · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/Marco-Congedo/PosDefManifoldML.jl) · 组织维护
 
 **正定矩阵黎曼流形上的机器学习分类 Julia 包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Marco-Congedo/PosDefManifoldML.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-11-20 25（+0）
+2026-10-19 25 → 2026-11-21 26（+1）
 
 
 ---

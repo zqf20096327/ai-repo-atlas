@@ -1,6 +1,6 @@
 # furqanistic/yap
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/furqanistic/yap) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **桌面端 AI 语音听写应用，用 Tauri 与 React 构建**
 
@@ -11,7 +11,7 @@ Yap 是一款面向桌面用户的语音听写应用，将语音转为文字，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

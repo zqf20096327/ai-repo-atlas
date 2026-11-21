@@ -1,6 +1,6 @@
 # umputun/mpt
 
-⭐ 61 · Go · MIT · 推送 2026-07-25 · [GitHub](https://github.com/umputun/mpt) · [官网](https://mpt.umputun.dev) · 个人维护
+⭐ 61 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/umputun/mpt) · [官网](https://mpt.umputun.dev) · 个人维护
 
 **命令行工具：并行向多家 LLM 提问并合并结果**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "umputun/mpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-11-20 61（+0）
+2026-10-19 61 → 2026-11-21 61（+0）
 
 
 ---

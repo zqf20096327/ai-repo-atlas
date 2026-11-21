@@ -1,6 +1,6 @@
 # backblaze-labs/awesome-image-generation
 
-⭐ 10 · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/backblaze-labs/awesome-image-generation) · [官网](https://blze.ai/storage) · 组织维护
+⭐ 10 · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/backblaze-labs/awesome-image-generation) · [官网](https://blze.ai/storage) · 组织维护
 
 **面向开发者的 AI 图像生成 API、模型与工具清单**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "backblaze-labs/awesome-image-generation 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-20"]
+    x-axis ["2026-10-31", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-31 10 → 2026-11-20 10（+0）
+2026-10-31 10 → 2026-11-21 10（+0）
 
 
 ---

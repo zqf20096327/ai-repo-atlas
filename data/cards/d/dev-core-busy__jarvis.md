@@ -1,6 +1,6 @@
 # dev-core-busy/jarvis
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/dev-core-busy/jarvis) · [官网](https://jarvis-ai.info) · 组织维护
+⭐ 7 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/dev-core-busy/jarvis) · [官网](https://jarvis-ai.info) · 组织维护
 
 **自托管 Linux 桌面 AI 代理：自然语言操控桌面执行任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dev-core-busy/jarvis 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-10", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 6]
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-10", "2026-11-14", "2026-11-21"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-10-31 3 → 2026-11-20 6（+3）
+2026-10-31 3 → 2026-11-21 7（+4）
 
 
 ---

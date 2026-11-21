@@ -46,12 +46,12 @@ IdentArk AgentGateway 的 TypeScript SDK，供构建不持有密钥、不维护�
 ```mermaid
 xychart-beta
     title "identArk/identark-js 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-20"]
+    x-axis ["2026-11-08", "2026-11-21"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-11-08 27 → 2026-11-20 27（+0）
+2026-11-08 27 → 2026-11-21 27（+0）
 
 
 ---

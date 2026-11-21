@@ -1,6 +1,6 @@
 # balisujohn/localwriter
 
-⭐ 184 · Python · 推送 2026-02-22 · [GitHub](https://github.com/balisujohn/localwriter) · 个人维护
+⭐ 185 · Python · 推送 2026-02-22 · [GitHub](https://github.com/balisujohn/localwriter) · 个人维护
 
 **为 LibreOffice Writer 添加本地推理生成式编辑的扩展**
 
@@ -45,12 +45,12 @@ LibreOffice Writer 的 .oxt 扩展，提供两个命令：Extend Selection（Ctr
 ```mermaid
 xychart-beta
     title "balisujohn/localwriter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 182 --> 185
-    line [183, 184, 184]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 182 --> 186
+    line [183, 184, 185]
 ```
 
-2026-10-18 183 → 2026-11-20 184（+1）
+2026-10-19 183 → 2026-11-21 185（+2）
 
 
 ---

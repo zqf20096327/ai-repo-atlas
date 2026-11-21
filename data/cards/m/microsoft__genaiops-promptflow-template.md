@@ -1,6 +1,6 @@
 # microsoft/genaiops-promptflow-template
 
-⭐ 370 · Python · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/genaiops-promptflow-template) · 组织维护
+⭐ 369 · Python · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/genaiops-promptflow-template) · 组织维护
 
 **微软的 Prompt Flow LLMOps 模板：LLM 应用的实验、评估与部署流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/genaiops-promptflow-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-10", "2026-11-21"]
     y-axis "stars" 367 --> 371
-    line [368, 369, 370, 370]
+    line [368, 369, 370, 369]
 ```
 
-2026-10-18 368 → 2026-11-20 370（+2）
+2026-10-19 368 → 2026-11-21 369（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # axisvela/ea-harness
 
-⭐ 15 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/axisvela/ea-harness) · [官网](https://github.com/axisrobo/ea-harness) · 组织维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/axisvela/ea-harness) · [官网](https://github.com/axisrobo/ea-harness) · 组织维护 · 中文 README
 
 **企业架构设计与校验技能包：让 AI 编码助手执行架构工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "axisvela/ea-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-20"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-21"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16]
 ```
 
-2026-10-18 13 → 2026-11-20 15（+2）
+2026-10-19 13 → 2026-11-21 16（+3）
 
 
 ---

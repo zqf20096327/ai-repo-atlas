@@ -1,6 +1,6 @@
 # JuliaAI/MLJFlow.jl
 
-⭐ 14 · Julia · MIT · 推送 2026-08-17 · [GitHub](https://github.com/JuliaAI/MLJFlow.jl) · 组织维护
+⭐ 15 · Julia · MIT · 推送 2026-08-17 · [GitHub](https://github.com/JuliaAI/MLJFlow.jl) · 组织维护
 
 **Julia MLJ 与 MLflow 的集成包：模型训练/评测的实验追踪**
 
@@ -46,12 +46,12 @@ Julia 包，将 MLJ 机器学习框架接入 MLflow 作为后端，实现模型�
 ```mermaid
 xychart-beta
     title "JuliaAI/MLJFlow.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-20 14（+0）
+2026-10-19 14 → 2026-11-21 15（+1）
 
 
 ---

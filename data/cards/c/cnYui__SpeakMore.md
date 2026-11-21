@@ -1,6 +1,6 @@
 # cnYui/SpeakMore
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cnYui/SpeakMore) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cnYui/SpeakMore) · 个人维护 · 中文 README
 
 **Windows/macOS 本地语音输入工具：快捷键说话转文字并自动粘贴**
 
@@ -41,6 +41,18 @@
 > L3: SpeakMore 是一个本地语音输入工具。Electron 负责桌面壳、固定快捷键、托盘、本地数据和结果交付；本地 FastAPI 后端负责音频转写和大模型文本处理。Windows 是当前稳定版，macOS 已支持本地 `.app
 > L16: - Windows `Right Alt` / macOS `Option`：听写，结果自动粘贴；无法确认可信输入目标时显示悬浮面板。
 > L37: 模型不打包。首次运行需要联网下载 SenseVoiceSmall，Windows 默认缓存到 `%LOCALAPPDATA%\Typeless\models\funasr`，macOS 默认缓存到 `~/Library/Appli
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cnYui/SpeakMore 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-20 10 → 2026-11-21 11（+1）
 
 
 ---

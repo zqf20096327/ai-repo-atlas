@@ -1,6 +1,6 @@
 # yang2020chen/pi-extension-convergence
 
-⭐ 18 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/yang2020chen/pi-extension-convergence) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/yang2020chen/pi-extension-convergence) · 个人维护 · 中文 README
 
 **Pi Coding Agent 的收敛引导扩展：抑制复测死循环与超时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yang2020chen/pi-extension-convergence 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-20"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-26", "2026-11-21"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-26 18 → 2026-11-20 18（+0）
+2026-10-26 18 → 2026-11-21 19（+1）
 
 
 ---

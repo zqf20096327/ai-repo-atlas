@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "momenbasel/vulnhawk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 88 --> 91
-    line [89, 90, 90]
+    title "momenbasel/vulnhawk 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 89 --> 91
+    line [90, 90]
 ```
 
-2026-10-18 89 → 2026-11-20 90（+1）
+2026-10-19 90 → 2026-11-21 90（+0）
 
 
 ---

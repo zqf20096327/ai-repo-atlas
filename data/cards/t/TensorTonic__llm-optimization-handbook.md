@@ -1,6 +1,6 @@
 # TensorTonic/llm-optimization-handbook
 
-⭐ 76 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/TensorTonic/llm-optimization-handbook) · [官网](https://www.tensortonic.com) · 个人维护
+⭐ 97 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/TensorTonic/llm-optimization-handbook) · [官网](https://www.tensortonic.com) · 个人维护
 
 **LLM 推理优化学习路线图：48 主题、7 阶段、配套练习**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TensorTonic/llm-optimization-handbook 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
-    y-axis "stars" 39 --> 79
-    line [42, 76]
+    title "TensorTonic/llm-optimization-handbook 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 37 --> 102
+    line [42, 76, 97]
 ```
 
-2026-11-19 42 → 2026-11-20 76（+34）
+2026-11-19 42 → 2026-11-21 97（+55）
 
 
 ---

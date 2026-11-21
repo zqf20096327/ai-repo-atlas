@@ -1,6 +1,6 @@
 # paiml/aprender
 
-⭐ 141 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/paiml/aprender) · [官网](https://paiml.github.io/aprender/) · 组织维护
+⭐ 141 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/paiml/aprender) · [官网](https://paiml.github.io/aprender/) · 组织维护
 
 **纯 Rust 的机器学习框架与 apr 命令行工具链**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "paiml/aprender 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 131 --> 142
-    line [132, 135, 137, 140, 141, 141]
+    title "paiml/aprender 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 134 --> 142
+    line [135, 137, 140, 141, 141]
 ```
 
-2026-10-18 132 → 2026-11-20 141（+9）
+2026-10-19 135 → 2026-11-21 141（+6）
 
 
 ---

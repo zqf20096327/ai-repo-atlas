@@ -1,6 +1,6 @@
 # shike/fde.dropleap.cn
 
-⭐ 7 · JavaScript · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/shike/fde.dropleap.cn) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向中国 AI 落地从业者的 FDE 名录与行业资料库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

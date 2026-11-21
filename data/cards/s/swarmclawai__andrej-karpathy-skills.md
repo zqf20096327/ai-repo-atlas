@@ -1,6 +1,6 @@
 # swarmclawai/andrej-karpathy-skills
 
-⭐ 60 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/swarmclawai/andrej-karpathy-skills) · 组织维护 · 中文 README
+⭐ 61 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/swarmclawai/andrej-karpathy-skills) · 组织维护 · 中文 README
 
 **打包给各类编程 Agent 的 Karpathy 编码准则技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "swarmclawai/andrej-karpathy-skills 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 51 --> 61
-    line [52, 53, 54, 55, 56, 57, 58, 56, 58, 59, 60, 60]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-21"]
+    y-axis "stars" 51 --> 62
+    line [52, 53, 54, 55, 56, 57, 58, 56, 58, 59, 60, 61]
 ```
 
-2026-10-18 52 → 2026-11-20 60（+8）
+2026-10-18 52 → 2026-11-21 61（+9）
 
 
 ---

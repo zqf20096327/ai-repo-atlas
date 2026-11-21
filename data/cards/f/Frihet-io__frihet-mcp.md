@@ -1,6 +1,6 @@
 # Frihet-io/frihet-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Frihet-io/frihet-mcp) · [官网](https://www.frihet.io/en/mcp) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Frihet-io/frihet-mcp) · [官网](https://www.frihet.io/en/mcp) · 组织维护
 
 **Frihet ERP 的官方 MCP 服务器：让 AI 客户端自然语言操作企业数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Frihet-io/frihet-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 13（+1）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

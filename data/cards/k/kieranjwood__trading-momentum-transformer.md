@@ -1,6 +1,6 @@
 # kieranjwood/trading-momentum-transformer
 
-⭐ 648 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/kieranjwood/trading-momentum-transformer) · [官网](https://kieranjwood.github.io/publication/momentum-transformer/) · 组织维护
+⭐ 647 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/kieranjwood/trading-momentum-transformer) · [官网](https://kieranjwood.github.io/publication/momentum-transformer/) · 组织维护
 
 **动量交易 Transformer 论文官方代码：深度学习输出仓位信号**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kieranjwood/trading-momentum-transformer 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-20"]
+    title "kieranjwood/trading-momentum-transformer 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 640 --> 649
-    line [641, 642, 643, 642, 645, 646, 647, 648]
+    line [641, 642, 643, 642, 645, 646, 647, 648, 647]
 ```
 
-2026-10-18 641 → 2026-11-20 648（+7）
+2026-10-19 641 → 2026-11-21 647（+6）
 
 
 ---

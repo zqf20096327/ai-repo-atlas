@@ -1,6 +1,6 @@
 # BingoWon/keyaos
 
-⭐ 41 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/BingoWon/keyaos) · [官网](https://keyaos.com) · 个人维护 · 中文 README
+⭐ 40 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/BingoWon/keyaos) · [官网](https://keyaos.com) · 个人维护 · 中文 README
 
 **运行在 Cloudflare Workers 上的多协议 AI API 网关，按成本路由**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BingoWon/keyaos 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-21"]
     y-axis "stars" 37 --> 42
-    line [38, 39, 40, 41, 41]
+    line [38, 39, 40, 41, 40]
 ```
 
-2026-10-18 38 → 2026-11-20 41（+3）
+2026-10-19 38 → 2026-11-21 40（+2）
 
 
 ---

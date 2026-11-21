@@ -1,6 +1,6 @@
 # ngocsangyem/MeowKit
 
-⭐ 16 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ngocsangyem/MeowKit) · [官网](https://docs.meowkit.dev/) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ngocsangyem/MeowKit) · [官网](https://docs.meowkit.dev/) · 个人维护
 
 **为 Claude Code 安装结构化工作流的 AI agent 工具包**
 
@@ -46,12 +46,12 @@ MeowKit 通过 npm CLI 或 Claude Code 插件市场安装一个 .claude/ 目录�
 ```mermaid
 xychart-beta
     title "ngocsangyem/MeowKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 16（+1）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---

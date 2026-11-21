@@ -1,6 +1,6 @@
 # apljacob/travel-agent
 
-⭐ 12 · NOASSERTION · 推送 2026-05-05 · [GitHub](https://github.com/apljacob/travel-agent) · [官网](https://github.com/apljacob/travel-agent) · 个人维护
+⭐ 13 · NOASSERTION · 推送 2026-05-05 · [GitHub](https://github.com/apljacob/travel-agent) · [官网](https://github.com/apljacob/travel-agent) · 个人维护
 
 **把 Claude 变成旅行规划师的 Claude Code 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "apljacob/travel-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-20"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "apljacob/travel-agent 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 11 → 2026-11-20 12（+1）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

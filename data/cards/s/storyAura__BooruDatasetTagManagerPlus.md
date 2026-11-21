@@ -1,6 +1,6 @@
 # storyAura/BooruDatasetTagManagerPlus
 
-⭐ 28 · C# · MIT · 推送 2026-10-14 · [GitHub](https://github.com/storyAura/BooruDatasetTagManagerPlus) · 个人维护 · 中文 README
+⭐ 28 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/storyAura/BooruDatasetTagManagerPlus) · 个人维护 · 中文 README
 
 **面向 LoRA/角色数据集的 Windows 打标工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "storyAura/BooruDatasetTagManagerPlus 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20"]
-    y-axis "stars" 19 --> 29
-    line [20, 21, 23, 24, 25, 24, 26, 27, 28]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 20 --> 29
+    line [21, 23, 24, 25, 24, 26, 27, 28, 28]
 ```
 
-2026-10-18 20 → 2026-11-20 28（+8）
+2026-10-19 21 → 2026-11-21 28（+7）
 
 
 ---

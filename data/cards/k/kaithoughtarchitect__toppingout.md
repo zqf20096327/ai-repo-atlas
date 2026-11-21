@@ -1,6 +1,6 @@
 # kaithoughtarchitect/toppingout
 
-⭐ 14 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/kaithoughtarchitect/toppingout) · [官网](https://toppingout.dev) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kaithoughtarchitect/toppingout) · [官网](https://toppingout.dev) · 个人维护
 
 **为 Claude Code 打造的规范驱动多智能体开发工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kaithoughtarchitect/toppingout 星数(近 9 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-21"]
     y-axis "stars" 2 --> 15
     line [3, 4, 6, 7, 8, 9, 11, 14, 14]
 ```
 
-2026-10-26 3 → 2026-11-20 14（+11）
+2026-10-26 3 → 2026-11-21 14（+11）
 
 
 ---

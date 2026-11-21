@@ -44,13 +44,13 @@ TMLR 2026 论文 FoD（State-Dependent Forward Diffusion）的官方 PyTorch 实
 
 ```mermaid
 xychart-beta
-    title "Algolzw/FoD 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-20"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    title "Algolzw/FoD 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-20 32（+2）
+2026-10-19 31 → 2026-11-21 32（+1）
 
 
 ---

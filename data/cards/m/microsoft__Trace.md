@@ -1,6 +1,6 @@
 # microsoft/Trace
 
-⭐ 766 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/microsoft/Trace) · [官网](https://microsoft.github.io/Trace/) · 组织维护
+⭐ 765 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/microsoft/Trace) · [官网](https://microsoft.github.io/Trace/) · 组织维护
 
 **用自然语言反馈端到端优化 AI Agent 的 Python 库**
 
@@ -46,12 +46,12 @@ Trace 是微软研究团队随 NeurIPS 2024 论文发布的 Python 库，提供�
 ```mermaid
 xychart-beta
     title "microsoft/Trace 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
     y-axis "stars" 761 --> 767
-    line [762, 763, 764, 762, 764, 765, 766, 766]
+    line [762, 763, 764, 762, 764, 765, 766, 765]
 ```
 
-2026-10-18 762 → 2026-11-20 766（+4）
+2026-10-19 762 → 2026-11-21 765（+3）
 
 
 ---

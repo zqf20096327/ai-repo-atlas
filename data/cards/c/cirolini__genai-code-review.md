@@ -1,6 +1,6 @@
 # cirolini/genai-code-review
 
-⭐ 373 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/cirolini/genai-code-review) · 个人维护
+⭐ 372 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/cirolini/genai-code-review) · 个人维护
 
 **用 LLM 审查 PR diff 并在 PR 上发内联评论的 GitHub Action**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cirolini/genai-code-review 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-20"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-21"]
     y-axis "stars" 370 --> 374
-    line [371, 372, 373, 373]
+    line [371, 372, 373, 372]
 ```
 
-2026-10-18 371 → 2026-11-20 373（+2）
+2026-10-18 371 → 2026-11-21 372（+1）
 
 
 ---

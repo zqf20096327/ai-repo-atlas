@@ -1,6 +1,6 @@
 # wens6515/weixin-wechat-wxauto-ocr-xiaoli
 
-⭐ 19 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/wens6515/weixin-wechat-wxauto-ocr-xiaoli) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/wens6515/weixin-wechat-wxauto-ocr-xiaoli) · 个人维护 · 中文 README
 
 **微信 PC 4.x 的纯视觉 OCR 自动回复机器人，带长记忆与任务投递**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wens6515/weixin-wechat-wxauto-ocr-xiaoli 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 9 --> 20
-    line [10, 13, 16, 19]
+    title "wens6515/weixin-wechat-wxauto-ocr-xiaoli 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 22
+    line [10, 13, 16, 19, 21]
 ```
 
-2026-11-02 10 → 2026-11-20 19（+9）
+2026-11-02 10 → 2026-11-21 21（+11）
 
 
 ---

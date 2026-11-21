@@ -1,6 +1,6 @@
 # bagofwords1/bagofwords
 
-⭐ 462 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/bagofwords1/bagofwords) · [官网](https://bagofwords.com) · 组织维护
+⭐ 462 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/bagofwords1/bagofwords) · [官网](https://bagofwords.com) · 组织维护
 
 **开源智能体分析平台：连接任意 LLM 与企业数据**
 
@@ -48,12 +48,12 @@ Bag of Words 将 LLM 连接到数据库、数仓、BI 系统、业务应用、�
 ```mermaid
 xychart-beta
     title "bagofwords1/bagofwords 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-19", "2026-11-21"]
     y-axis "stars" 460 --> 464
     line [461, 462, 463, 462, 462]
 ```
 
-2026-10-18 461 → 2026-11-20 462（+1）
+2026-10-19 461 → 2026-11-21 462（+1）
 
 
 ---

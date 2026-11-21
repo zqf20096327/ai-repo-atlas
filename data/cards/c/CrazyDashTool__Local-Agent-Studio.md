@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CrazyDashTool/Local-Agent-Studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
+    title "CrazyDashTool/Local-Agent-Studio 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
     y-axis "stars" 23 --> 26
-    line [24, 25, 24, 24]
+    line [25, 24, 24]
 ```
 
-2026-10-18 24 → 2026-11-20 24（+0）
+2026-10-19 25 → 2026-11-21 24（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NeuralTrust/echo-chamber
 
-⭐ 11 · Jupyter Notebook · MIT · 推送 2025-11-24 · [GitHub](https://github.com/NeuralTrust/echo-chamber) · [官网](https://neuraltrust.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Echo Chamber 越狱攻击的实验代码与评测示例库**
 
@@ -11,7 +11,7 @@ NeuralTrust 发布的 Echo Chamber LLM 越狱攻击研究的代码与示例库�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

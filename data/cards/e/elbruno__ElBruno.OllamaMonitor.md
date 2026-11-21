@@ -1,6 +1,6 @@
 # elbruno/ElBruno.OllamaMonitor
 
-⭐ 12 · C# · MIT · 推送 2026-07-02 · [GitHub](https://github.com/elbruno/ElBruno.OllamaMonitor) · [官网](https://elbruno.github.io/ElBruno.OllamaMonitor/) · 个人维护
+⭐ 13 · C# · MIT · 推送 2026-07-02 · [GitHub](https://github.com/elbruno/ElBruno.OllamaMonitor) · [官网](https://elbruno.github.io/ElBruno.OllamaMonitor/) · 个人维护
 
 **Windows 托盘工具：监控本地 Ollama 运行状态与资源占用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elbruno/ElBruno.OllamaMonitor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-20 12（+0）
+2026-10-19 12 → 2026-11-21 13（+1）
 
 
 ---

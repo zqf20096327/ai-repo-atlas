@@ -1,6 +1,6 @@
 # awsaman-ai/queryforge
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/awsaman-ai/queryforge) · [官网](https://queryforge-service.amtry.in) · 个人维护
+⭐ 16 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/awsaman-ai/queryforge) · [官网](https://queryforge-service.amtry.in) · 个人维护
 
 **自然语言转安全查询的库：LLM 填 AST，确定性编译为 SQL/Mongo 等**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "awsaman-ai/queryforge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-20 16（+2）
+2026-10-19 14 → 2026-11-21 16（+2）
 
 
 ---

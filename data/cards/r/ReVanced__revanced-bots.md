@@ -44,12 +44,12 @@ ReVanced 组织维护的机器人项目集合，在 Discord、Telegram 等多个
 ```mermaid
 xychart-beta
     title "ReVanced/revanced-bots 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-21"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-20 36（+0）
+2026-10-19 36 → 2026-11-21 36（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-decentralized/Difflet
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/ai-decentralized/Difflet) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ai-decentralized/Difflet) · 个人维护
 
 **面向多加速器的扩散 Transformer 推理运行时（CLI/API/服务器）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-decentralized/Difflet 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-20 10（+0）
+2026-11-10 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AltimateAI/claude-consensus
 
-⭐ 34 · MIT · 推送 2026-11-02 · [GitHub](https://github.com/AltimateAI/claude-consensus) · [官网](https://altimate.ai/) · 组织维护
+⭐ 35 · MIT · 推送 2026-11-02 · [GitHub](https://github.com/AltimateAI/claude-consensus) · [官网](https://altimate.ai/) · 组织维护
 
 **Claude Code/Codex 的多模型共识代码与方案评审插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AltimateAI/claude-consensus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-11-20 34（+1）
+2026-10-19 33 → 2026-11-21 35（+2）
 
 
 ---

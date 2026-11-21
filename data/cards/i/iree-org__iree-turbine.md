@@ -45,12 +45,12 @@ IREE Turbine 是 IREE 编译器/运行时的 PyTorch 前端，基于 Torch Dynam
 ```mermaid
 xychart-beta
     title "iree-org/iree-turbine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
     y-axis "stars" 110 --> 113
     line [111, 112, 112]
 ```
 
-2026-10-18 111 → 2026-11-20 112（+1）
+2026-10-19 111 → 2026-11-21 112（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lacymorrow/lacy
 
-⭐ 30 · Shell · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/lacymorrow/lacy) · [官网](https://lacy.sh) · 个人维护
+⭐ 30 · Shell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/lacymorrow/lacy) · [官网](https://lacy.sh) · 个人维护
 
 **无需前缀的智能 shell：命令进 shell，问题进 AI 编程工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lacymorrow/lacy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
     y-axis "stars" 27 --> 31
     line [28, 29, 30, 28, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-20 30（+2）
+2026-10-19 28 → 2026-11-21 30（+2）
 
 
 ---

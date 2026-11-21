@@ -1,6 +1,6 @@
 # usamashehab/antigravity-proxy
 
-⭐ 11 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/usamashehab/antigravity-proxy) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/usamashehab/antigravity-proxy) · 个人维护
 
 **把 Antigravity 的 Gemini/Claude 模型转成 OpenAI 兼容接口的本地代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "usamashehab/antigravity-proxy 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-19", "2026-11-20"]
+    x-axis ["2026-11-15", "2026-11-19", "2026-11-21"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10]
 ```
 
-2026-11-15 10 → 2026-11-20 11（+1）
+2026-11-15 10 → 2026-11-21 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ClickHouse/data-agent-mnist
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ClickHouse/data-agent-mnist) · [官网](https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ClickHouse/data-agent-mnist) · [官网](https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist) · 组织维护
 
 **用自有 ClickHouse 数仓构建分析型 agent 评测基准的工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ClickHouse/data-agent-mnist 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20"]
+    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
     y-axis "stars" 9 --> 13
     line [10, 11, 10, 11, 12, 12]
 ```
 
-2026-10-23 10 → 2026-11-20 12（+2）
+2026-10-23 10 → 2026-11-21 12（+2）
 
 
 ---

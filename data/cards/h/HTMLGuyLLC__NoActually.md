@@ -1,6 +1,6 @@
 # HTMLGuyLLC/NoActually
 
-⭐ 7 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/HTMLGuyLLC/NoActually) · 组织维护
+⭐ 7 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HTMLGuyLLC/NoActually) · 组织维护
 
 **本地打分你与 AI 协作质量的桌面记分卡应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HTMLGuyLLC/NoActually 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-20"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-21"]
     y-axis "stars" 5 --> 8
     line [6, 7, 7]
 ```
 
-2026-10-29 6 → 2026-11-20 7（+1）
+2026-10-29 6 → 2026-11-21 7（+1）
 
 
 ---

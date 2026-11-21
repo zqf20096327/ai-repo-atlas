@@ -44,13 +44,13 @@ serge 是 Hugging Face 维护的 GitHub 评审机器人：调用任意 OpenAI �
 
 ```mermaid
 xychart-beta
-    title "huggingface/serge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-20"]
-    y-axis "stars" 51 --> 55
-    line [52, 53, 54, 54]
+    title "huggingface/serge 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 52 → 2026-11-20 54（+2）
+2026-10-19 53 → 2026-11-21 54（+1）
 
 
 ---

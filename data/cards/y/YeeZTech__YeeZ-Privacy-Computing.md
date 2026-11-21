@@ -1,6 +1,6 @@
 # YeeZTech/YeeZ-Privacy-Computing
 
-⭐ 1,062 · C++ · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/YeeZTech/YeeZ-Privacy-Computing) · [官网](http://yeez.tech) · 组织维护 · 中文 README
+⭐ 1,059 · C++ · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/YeeZTech/YeeZ-Privacy-Computing) · [官网](http://yeez.tech) · 组织维护 · 中文 README
 
 **基于 Intel SGX 可信执行环境的隐私计算中间件**
 
@@ -45,12 +45,12 @@ Fidelius 是面向数据协作的隐私计算中间件，实践“数据可用�
 ```mermaid
 xychart-beta
     title "YeeZTech/YeeZ-Privacy-Computing 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 1059 --> 1063
-    line [1060, 1061, 1062, 1062]
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 1058 --> 1063
+    line [1060, 1061, 1062, 1059]
 ```
 
-2026-10-18 1,060 → 2026-11-20 1,062（+2）
+2026-10-19 1,060 → 2026-11-21 1,059（-1）
 
 
 ---

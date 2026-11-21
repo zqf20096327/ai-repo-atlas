@@ -1,6 +1,6 @@
 # tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
 
-⭐ 167 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers) · 组织维护
+⭐ 168 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers) · 组织维护
 
 **资源高效 LLM 论文策展清单，附系统综述**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 164 --> 168
-    line [165, 166, 165, 167, 167]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 164 --> 169
+    line [165, 166, 165, 167, 168]
 ```
 
-2026-10-18 165 → 2026-11-20 167（+2）
+2026-10-19 165 → 2026-11-21 168（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # JosssphZhou/poki
 
-⭐ 1,647 · Swift · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/JosssphZhou/poki) · [官网](https://poki.bot) · 个人维护
+⭐ 1,696 · Swift · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/JosssphZhou/poki) · [官网](https://poki.bot) · 个人维护
 
 **在 iPhone 上直接运行、代用户操作手机应用的 GUI agent 应用**
 
@@ -39,6 +39,18 @@ Poki 是安装在 iPhone 上的开源 agent 应用：读取屏幕并在真实应
 
 > L23: Poki is an open-source iPhone agent that operates your entire iPhone for you. The Poki app runs directly on your iP
 > L48: 2. **Connect and add your model account.** Accept **Trust**, turn on Developer Mode and Automation Mode when iOS as
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JosssphZhou/poki 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 1643 --> 1700
+    line [1647, 1696]
+```
+
+2026-11-20 1,647 → 2026-11-21 1,696（+49）
 
 
 ---

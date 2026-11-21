@@ -1,6 +1,6 @@
 # Baton01/Agent-Zero-To-One
 
-⭐ 22 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Baton01/Agent-Zero-To-One) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Baton01/Agent-Zero-To-One) · 个人维护 · 中文 README
 
 **0 基础到能交付 Agent 的 17 章渐进教程与实践系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Baton01/Agent-Zero-To-One 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 14 --> 23
-    line [15, 16, 15, 21, 22, 22]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
+    y-axis "stars" 14 --> 24
+    line [15, 16, 15, 21, 22, 23]
 ```
 
-2026-10-18 15 → 2026-11-20 22（+7）
+2026-10-19 15 → 2026-11-21 23（+8）
 
 
 ---

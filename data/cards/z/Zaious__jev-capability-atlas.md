@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zaious/jev-capability-atlas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 26 --> 31
-    line [27, 28, 30, 30]
+    title "Zaious/jev-capability-atlas 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 27 --> 31
+    line [28, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-20 30（+3）
+2026-10-19 28 → 2026-11-21 30（+2）
 
 
 ---

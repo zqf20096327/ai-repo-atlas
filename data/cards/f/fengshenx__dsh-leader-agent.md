@@ -1,6 +1,6 @@
 # fengshenx/dsh-leader-agent
 
-⭐ 24 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fengshenx/dsh-leader-agent) · [官网](https://github.com/fengshenx/dsh-leader-kit#readme) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/fengshenx/dsh-leader-agent) · [官网](https://fengshenx.github.io/dsh-leader-agent/) · 个人维护 · 中文 README
 
 **为 dsh 提供 Leader/worker 编排的插件：一人并行管理多个 agent 会话**
 
@@ -40,6 +40,18 @@
 > L17: > A leader / worker orchestration bundle for DeepSeek Harness (dsh). The Leader splits work, dispatches it, tracks 
 > L83: - **Identity decides the tool surface.** The Leader gets `spawn_worker` / `message_worker`; workers don't. The host
 > L90: - This project does not aim to rebuild dsh's own super agent. It solves one concrete problem: letting one person ma
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fengshenx/dsh-leader-agent 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 22 --> 25
+    line [24, 23]
+```
+
+2026-11-20 24 → 2026-11-21 23（-1）
 
 
 ---

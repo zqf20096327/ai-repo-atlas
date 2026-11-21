@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelscope/DiffSynth-Engine 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 430 --> 434
-    line [433, 432, 431, 431]
+    title "modelscope/DiffSynth-Engine 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 430 --> 433
+    line [432, 431, 431]
 ```
 
-2026-10-18 433 → 2026-11-20 431（-2）
+2026-10-19 432 → 2026-11-21 431（-1）
 
 
 ---

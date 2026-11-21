@@ -46,12 +46,12 @@ CATIClaude 是一个连接 Claude Desktop 与 CATIA V5 的 MCP 服务器，通�
 ```mermaid
 xychart-beta
     title "pouyabagheri2005-sudo/CATIA-mcp-ai-automation 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-20"]
+    x-axis ["2026-11-12", "2026-11-21"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-12 10 → 2026-11-20 10（+0）
+2026-11-12 10 → 2026-11-21 10（+0）
 
 
 ---

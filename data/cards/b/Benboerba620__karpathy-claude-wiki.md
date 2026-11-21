@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Benboerba620/karpathy-claude-wiki 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-20"]
+    title "Benboerba620/karpathy-claude-wiki 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
     y-axis "stars" 68 --> 71
-    line [70, 69, 70, 70]
+    line [69, 70, 70]
 ```
 
-2026-10-18 70 → 2026-11-20 70（+0）
+2026-10-19 69 → 2026-11-21 70（+1）
 
 
 ---

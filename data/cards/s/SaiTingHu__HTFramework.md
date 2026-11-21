@@ -1,6 +1,6 @@
 # SaiTingHu/HTFramework
 
-⭐ 832 · C# · MIT · 推送 2026-10-12 · [GitHub](https://github.com/SaiTingHu/HTFramework) · 个人维护 · 中文 README
+⭐ 832 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SaiTingHu/HTFramework) · 个人维护 · 中文 README
 
 **基于 Unity 的客户端快速开发框架，模块化游戏功能套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SaiTingHu/HTFramework 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-20"]
+    title "SaiTingHu/HTFramework 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-20", "2026-11-21"]
     y-axis "stars" 830 --> 834
-    line [832, 831, 832, 833, 832]
+    line [832, 831, 832, 833, 832, 832]
 ```
 
-2026-10-18 832 → 2026-11-20 832（+0）
+2026-10-19 832 → 2026-11-21 832（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/Agent-Framework-Samples
 
-⭐ 396 · Jupyter Notebook · MIT · 推送 2026-06-28 · [GitHub](https://github.com/microsoft/Agent-Framework-Samples) · [官网](https://github.com/microsoft/agent-framework) · 组织维护
+⭐ 395 · Jupyter Notebook · MIT · 推送 2026-06-28 · [GitHub](https://github.com/microsoft/Agent-Framework-Samples) · [官网](https://github.com/microsoft/agent-framework) · 组织维护
 
 **微软 Agent Framework 官方示例教程库：Python/.NET 双栈学建智能体**
 
@@ -45,13 +45,13 @@ microsoft/agent-framework 的配套实操示例仓库，含 10 个章节（00-09
 
 ```mermaid
 xychart-beta
-    title "microsoft/Agent-Framework-Samples 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20"]
+    title "microsoft/Agent-Framework-Samples 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 384 --> 397
-    line [385, 386, 387, 389, 390, 389, 390, 393, 394, 395, 396]
+    line [385, 386, 387, 389, 390, 389, 390, 393, 394, 395, 396, 395]
 ```
 
-2026-10-18 385 → 2026-11-20 396（+11）
+2026-10-18 385 → 2026-11-21 395（+10）
 
 
 ---

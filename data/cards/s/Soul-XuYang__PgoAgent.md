@@ -1,6 +1,6 @@
 # Soul-XuYang/PgoAgent
 
-⭐ 11 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/Soul-XuYang/PgoAgent) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/Soul-XuYang/PgoAgent) · 个人维护 · 中文 README
 
 **面向开发者的多智能体系统：长短期记忆+MCP+Agentic RAG**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Soul-XuYang/PgoAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-20 11（+0）
+2026-10-19 11 → 2026-11-21 12（+1）
 
 
 ---

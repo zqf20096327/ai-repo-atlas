@@ -1,6 +1,6 @@
 # denysdovhan/home-assistant-developer
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/denysdovhan/home-assistant-developer) · [官网](https://contributors.home-assistant.io/) · 个人维护
+⭐ 42 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/denysdovhan/home-assistant-developer) · [官网](https://contributors.home-assistant.io/) · 个人维护
 
 **开发 Home Assistant 集成与卡片的 agent 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "denysdovhan/home-assistant-developer 星数(近 7 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20"]
-    y-axis "stars" 3 --> 44
-    line [6, 9, 33, 39, 40, 41, 41]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21"]
+    y-axis "stars" 3 --> 45
+    line [6, 9, 33, 39, 40, 41, 42]
 ```
 
-2026-10-31 6 → 2026-11-20 41（+35）
+2026-10-31 6 → 2026-11-21 42（+36）
 
 
 ---

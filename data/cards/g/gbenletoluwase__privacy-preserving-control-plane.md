@@ -1,6 +1,6 @@
 # gbenletoluwase/privacy-preserving-control-plane
 
-⭐ 42 · Java · MIT · 推送 2026-11-14 · [GitHub](https://github.com/gbenletoluwase/privacy-preserving-control-plane) · 个人维护
+⭐ 41 · Java · MIT · 推送 2026-11-14 · [GitHub](https://github.com/gbenletoluwase/privacy-preserving-control-plane) · 个人维护
 
 **Java 隐私保护控制平面：预测扩缩容、PII 脱敏、模型晋升门禁与漂移检测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gbenletoluwase/privacy-preserving-control-plane 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 4 --> 463
-    line [425, 420, 418, 87, 418, 43, 42]
+    title "gbenletoluwase/privacy-preserving-control-plane 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 3 --> 463
+    line [425, 420, 418, 87, 418, 43, 42, 41]
 ```
 
-2026-10-18 425 → 2026-11-20 42（-383）
+2026-10-19 425 → 2026-11-21 41（-384）
 
 
 ---

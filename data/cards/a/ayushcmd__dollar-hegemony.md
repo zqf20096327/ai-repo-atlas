@@ -1,6 +1,6 @@
 # ayushcmd/dollar-hegemony
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ayushcmd/dollar-hegemony) · [官网](https://huggingface.co/spaces/Ayush0826/dollar-hegemony) · 个人维护
+⭐ 105 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ayushcmd/dollar-hegemony) · [官网](https://huggingface.co/spaces/Ayush0826/dollar-hegemony) · 个人维护
 
 **分析美元主导地位对 BRICS/G7 汇率压力的 ML 研究系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayushcmd/dollar-hegemony 星数(近 11 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 47 --> 108
-    line [52, 66, 70, 73, 79, 80, 83, 85, 90, 93, 103]
+    title "ayushcmd/dollar-hegemony 星数(近 12 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 47 --> 110
+    line [52, 66, 70, 73, 79, 80, 83, 85, 90, 93, 103, 105]
 ```
 
-2026-11-08 52 → 2026-11-20 103（+51）
+2026-11-08 52 → 2026-11-21 105（+53）
 
 
 ---

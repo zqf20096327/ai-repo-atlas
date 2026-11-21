@@ -1,6 +1,6 @@
 # turbostarter/extro
 
-⭐ 414 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/turbostarter/extro) · [官网](https://turbostarter.dev) · 个人维护
+⭐ 413 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/turbostarter/extro) · [官网](https://turbostarter.dev) · 个人维护
 
 **浏览器扩展生产级起步模板，覆盖认证/存储/AI 等功能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "turbostarter/extro 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-10", "2026-11-20"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-10-30", "2026-11-10", "2026-11-21"]
     y-axis "stars" 411 --> 415
-    line [413, 412, 413, 414, 414]
+    line [413, 412, 413, 414, 413]
 ```
 
-2026-10-18 413 → 2026-11-20 414（+1）
+2026-10-19 413 → 2026-11-21 413（+0）
 
 
 ---

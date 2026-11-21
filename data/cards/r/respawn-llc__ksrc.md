@@ -1,6 +1,6 @@
 # respawn-llc/ksrc
 
-⭐ 91 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/respawn-llc/ksrc) · 组织维护
+⭐ 92 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/respawn-llc/ksrc) · 组织维护
 
 **让 AI 代理高效搜索阅读 Gradle 第三方依赖源码的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "respawn-llc/ksrc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20"]
-    y-axis "stars" 88 --> 92
-    line [89, 90, 91, 91]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
+    y-axis "stars" 88 --> 93
+    line [89, 90, 91, 92]
 ```
 
-2026-10-18 89 → 2026-11-20 91（+2）
+2026-10-19 89 → 2026-11-21 92（+3）
 
 
 ---

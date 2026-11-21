@@ -1,6 +1,6 @@
 # Oaklight/llm-rosetta
 
-⭐ 100 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Oaklight/llm-rosetta) · [官网](https://llm-rosetta.readthedocs.io) · 个人维护 · 中文 README
+⭐ 103 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Oaklight/llm-rosetta) · [官网](https://llm-rosetta.readthedocs.io) · 个人维护 · 中文 README
 
 **LLM API 格式转换库：OpenAI/Anthropic/Google 双向互转**
 
@@ -45,13 +45,13 @@ Python 库，通过中心中间表示（IR）实现 OpenAI（Chat Completions �
 
 ```mermaid
 xychart-beta
-    title "Oaklight/llm-rosetta 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20"]
-    y-axis "stars" 90 --> 101
-    line [91, 92, 93, 92, 94, 95, 94, 92, 95, 97, 99, 100, 100]
+    title "Oaklight/llm-rosetta 星数(近 12 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21"]
+    y-axis "stars" 91 --> 104
+    line [92, 93, 92, 94, 95, 94, 92, 95, 97, 99, 100, 103]
 ```
 
-2026-10-18 91 → 2026-11-20 100（+9）
+2026-10-19 92 → 2026-11-21 103（+11）
 
 
 ---

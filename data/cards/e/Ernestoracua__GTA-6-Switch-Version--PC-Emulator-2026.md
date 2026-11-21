@@ -41,6 +41,18 @@
 > L19: The installation resource focuses on:
 > L234: The PC version has not received an official release date as of November 18, 2026.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ernestoracua/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 35 --> 37
+    line [36, 36]
+```
+
+2026-11-20 36 → 2026-11-21 36（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `6954d37a13d3` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhangzhaorui/sayflow 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-20"]
+    title "zhangzhaorui/sayflow 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 7 --> 11
-    line [8, 10]
+    line [8, 10, 10]
 ```
 
-2026-11-19 8 → 2026-11-20 10（+2）
+2026-11-19 8 → 2026-11-21 10（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # lastmile-ai/aiconfig
 
-⭐ 1,088 · Python · MIT · 推送 2026-02-10 · [GitHub](https://github.com/lastmile-ai/aiconfig) · [官网](https://aiconfig.lastmileai.dev) · 组织维护
+⭐ 1,087 · Python · MIT · 推送 2026-02-10 · [GitHub](https://github.com/lastmile-ai/aiconfig) · [官网](https://aiconfig.lastmileai.dev) · 组织维护
 
 **配置化框架：将生成式 AI 提示词与模型参数存为可版本控制的 JSON**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lastmile-ai/aiconfig 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 1087 --> 1090
-    line [1088, 1089, 1088, 1089, 1088, 1088]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 1086 --> 1090
+    line [1088, 1089, 1088, 1089, 1088, 1087]
 ```
 
-2026-10-18 1,088 → 2026-11-20 1,088（+0）
+2026-10-19 1,088 → 2026-11-21 1,087（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nkswalih/kraivor
 
-⭐ 52 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/nkswalih/kraivor) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/nkswalih/kraivor) · 组织维护
 
 **面向工程团队的开发者智能统一工作台：代码分析+多Agent AI+协作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nkswalih/kraivor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20"]
-    y-axis "stars" 48 --> 53
-    line [49, 51, 49, 52, 52]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    y-axis "stars" 48 --> 54
+    line [49, 51, 49, 52, 53]
 ```
 
-2026-10-18 49 → 2026-11-20 52（+3）
+2026-10-19 49 → 2026-11-21 53（+4）
 
 
 ---

@@ -40,6 +40,18 @@
 > L13: 提示词组装之后、provider 适配器里面。这个插件就挂在那儿：`llm/stream`，provider 无关，
 > L44: 所以**本插件对所有 provider 生效**，不需要为每个模型单独写适配。真正决定效果的是
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jyuaner/dsh-gateway-shield 星数(近 2 点)"
+    x-axis ["2026-11-20", "2026-11-21"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-20 7 → 2026-11-21 7（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `83347c574434` · [字段定义](../../DATASET.md)*

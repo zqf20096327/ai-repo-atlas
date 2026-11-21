@@ -1,6 +1,6 @@
 # atte500/TeDDy
 
-⭐ 27 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/atte500/TeDDy) · [官网](https://pypi.org/project/teddy-cli) · 个人维护
+⭐ 29 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/atte500/TeDDy) · [官网](https://pypi.org/project/teddy-cli) · 个人维护
 
 **本地优先的软件工程 agent 编排框架，将 TDD 流程嵌入 AI 开发工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atte500/TeDDy 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20"]
-    y-axis "stars" 9 --> 28
-    line [10, 22, 25, 27]
+    title "atte500/TeDDy 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    y-axis "stars" 9 --> 30
+    line [10, 22, 25, 27, 29]
 ```
 
-2026-11-16 10 → 2026-11-20 27（+17）
+2026-11-16 10 → 2026-11-21 29（+19）
 
 
 ---

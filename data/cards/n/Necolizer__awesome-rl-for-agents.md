@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Necolizer/awesome-rl-for-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
+    title "Necolizer/awesome-rl-for-agents 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
     y-axis "stars" 114 --> 117
-    line [115, 116]
+    line [115, 116, 116]
 ```
 
-2026-10-18 115 → 2026-11-20 116（+1）
+2026-10-19 115 → 2026-11-21 116（+1）
 
 
 ---

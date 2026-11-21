@@ -1,6 +1,6 @@
 # capslock/stable-diffusion-bot
 
-⭐ 15 · Rust · MIT · 推送 2025-11-26 · [GitHub](https://github.com/capslock/stable-diffusion-bot) · [官网](https://capslock.github.io/stable-diffusion-bot/) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2025-11-26 · [GitHub](https://github.com/capslock/stable-diffusion-bot) · [官网](https://capslock.github.io/stable-diffusion-bot/) · 个人维护
 
 **给 Telegram 用户的 Stable Diffusion 生图机器人客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "capslock/stable-diffusion-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-20"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-19", "2026-11-21"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-20 15（+0）
+2026-10-19 15 → 2026-11-21 16（+1）
 
 
 ---
