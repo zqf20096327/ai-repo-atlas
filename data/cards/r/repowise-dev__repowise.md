@@ -1,10 +1,10 @@
 # repowise-dev/repowise
 
-⭐ 8,194 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/repowise-dev/repowise) · [官网](https://repowise.dev) · 组织维护
+⭐ 8,194 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/repowise-dev/repowise) · [官网](https://repowise.dev) · 组织维护 · 中文 README
 
-**本地代码库索引工具：为开发者与编码代理提供代码健康、调用图与变更风险**
+**给编码 agent 与开发者提供代码库索引与代码健康分析的 MCP 工具**
 
-Repowise 在本机一次性索引代码、调用图、git 历史、测试、文档与设计决策，形成单一索引，供开发者与编码代理查询。提供 10 个面向任务的 MCP 工具，接入 Claude Code、Codex、Cursor 等 MCP 宿主；另含本地仪表盘、CLI、CI 门禁（SARIF）与跨仓库契约检查。核心分析（图、风险、健康分、死代码）零 LLM 调用、无需 API key，输出确定性。AGPL-3.0 开源，另有托管版与商业层（组织级功能）。安装方式为 pip/pipx/uv，或让代理按 setup 文档自动安装。
+在本机对代码、git 历史、测试与决策建立一次索引，提供 29 种语言的调用图、架构图、代码健康评分（1-10，53 个确定性检测器）、死代码检测、变更风险与影响面分析、从 ADR/commit/PR 挖掘的决策记录，以及生成文档。通过 MCP 向 Claude Code、Codex、Cursor 等 agent 提供 10 个任务型工具，同时提供本地 dashboard 展示带引用的回答。索引零 LLM 调用、无需 API key；语义搜索与模型生成文档为可选功能。需要 Python 3.11+、Git，dashboard 需 Node 20+。
 
 ## 筛选速览
 
@@ -13,33 +13,34 @@ Repowise 在本机一次性索引代码、调用图、git 历史、测试、文�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 一次索引 27 种解析语言的调用图、git 历史与测试，增量更新
-- 10 个任务型 MCP 工具接入 Claude Code、Codex、Cursor 等代理
-- 53 个确定性检测器的代码健康分（1-10），经真实缺陷历史验证
-- 图/风险/健康/测试/死代码分析零 LLM 调用，无需 API key
+- 10 个 MCP 工具让 agent 一次获取调用者、风险、测试与归属信息
+- 53 个确定性检测器生成 1-10 分代码健康评分与修复优先级队列
+- 符号级变更影响面：调用者、协同变更缺失文件、覆盖测试
+- 从 ADR、注释、commit、PR 与 agent 会话挖掘并追踪决策
 
 ## 适用场景
 
-- 让编码代理在改代码前查询调用关系与影响范围
-- 在 CI 中对 PR 做变更风险评级与补丁覆盖率门禁
-- 按排名队列偿还技术债、识别死代码与性能问题
-- 跨仓库匹配 API 契约并在破坏性变更前报警
+- 让编码 agent 不再反复 grep/读文件，直接查询代码库索引
+- 合并前评估某个 commit/PR 可能破坏哪些调用者与测试
+- 定位死代码、性能问题与应优先修复的文件
+- 为新成员生成模块 wiki 并检查文档漂移
 
 ## 场景标签
 
- · 领域:开发者工具/代码智能
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L6: decisions once, on your machine. Then you and your coding agent ask it things:
-> L175: Repowise gives Claude Code, Codex, Cursor, VS Code and any other MCP host
+> L7:  Repowise indexes your code, git history, tests and decisions once, on your machine.
+> L79: - Your agent gets **ten task-shaped MCP tools**. Ask about several files at once
+> L122: Cited answers and charts from the dashboard, or the same answers through MCP for
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `8680460e47b8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `dfe5d2703920` · [字段定义](../../DATASET.md)*

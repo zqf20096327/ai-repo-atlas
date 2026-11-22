@@ -2,9 +2,9 @@
 
 ⭐ 4,758 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/OpenNMT/CTranslate2) · [官网](https://opennmt.net/CTranslate2) · 组织维护
 
-**Transformer 模型的高效推理运行时库（C++/Python）**
+**给开发者用的 Transformer 模型高效推理引擎（C++/Python）**
 
-面向生产环境的 Transformer 模型自定义推理运行时：通过权重量化（FP16/BF16/INT16/INT8/INT4 AWQ）、层融合、批重排、缓存分配等优化手段降低 CPU 与 GPU 上的内存占用并加速推理。支持编码器-解码器（T5、Whisper 等）、仅解码器（Llama、Mistral、Qwen2 等）与仅编码器（BERT 等）模型，需先从 OpenNMT-py/tf、Fairseq、Marian、Transformers 等框架转换为专有格式。提供 Python/C++ API，支持多后端 CPU 架构与张量并行多 GPU 推理，配套 OpenAI 兼容 REST 的 ctranslate2-web-server。
+C++ 与 Python 库，通过自定义运行时对 Transformer 模型做量化、层融合、批重排等优化，在 CPU 和 GPU 上运行推理并降低内存占用。支持 encoder-decoder、decoder-only、encoder-only 及实验性 TTS 模型，需先将各框架模型转换为优化的模型格式。定位生产环境，提供向后兼容保证，暴露 Python 与 C++ API，支持张量并行与交互式解码。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 权重量化支持 FP16/BF16/INT16/INT8 与 AWQ INT4
-- 支持 x86-64 与 AArch64/ARM64，自动 CPU 检测选择指令集（AVX/AVX2 等）
-- 多 GPU 张量并行的分布式推理
-- 配套 OpenAI 兼容 REST API 的 web server
+- 支持 FP16/BF16/INT16/INT8/AWQ INT4 多种量化，模型磁盘体积可缩小 4 倍
+- 支持 x86-64 与 AArch64/ARM64，集成 Intel MKL、oneDNN、OpenBLAS、Ruy、Apple Accelerate 后端
+- 提供 Converter 转换 OpenNMT-py/tf、Fairseq、Marian、OPUS-MT、Transformers 等框架模型
+- 支持多 GPU/CPU 核的并行异步执行与超大模型的张量并行
 
 ## 适用场景
 
-- 将训练好的翻译或生成模型部署为低资源占用推理服务
-- 量化压缩模型以减小磁盘与内存占用
-- 在 CPU/GPU 集群上做并行批量翻译或文本生成
+- 把训练好的翻译/生成模型转换为优化格式后部署推理服务
+- 在 CPU 或 GPU 上以更低内存运行 Llama、Mistral、Whisper 等模型
+- 需要 C++/Python API 集成推理能力到现有系统
+- 跨 x86-64 与 ARM64 平台部署 Transformer 推理
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `07e327249540` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `47800f4c7d8c` · [字段定义](../../DATASET.md)*

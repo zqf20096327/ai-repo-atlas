@@ -2,9 +2,9 @@
 
 ⭐ 9,767 · Kotlin · LGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/AAswordman/Operit) · [官网](https://operit.app) · 个人维护 · 中文 README
 
-**Android 开源 AI Agent 与 AI 聊天平台，连接系统能力执行真实任务**
+**Android 平台的 AI Agent 应用，将模型接入设备能力执行任务**
 
-面向 Android 用户的开源 AI Agent 平台：接入云端模型（OpenAI/Anthropic/Gemini 及兼容端点、key 池）或本地推理（内置 MNN、经 llama.cpp 运行 GGUF、Ollama/LM Studio），通过工具调用、MCP、ToolPkg、Skills 与工作流连接系统能力、终端、内置浏览器与文件，执行信息检索、文件处理、代码开发与设备自动化等任务。附图谱长期记忆、多角色聊天、扩展市场、语音与虚拟形象。要求 Android 8.0+ 与 ARM64 设备，以 Releases 页 APK 安装；本地不托管推理，云端请求直连用户配置的服务商。另有跨平台后继项目 Operit 2。
+Operit AI 是一个开源 Android AI Agent 平台，通过工具调用、工作流及 ToolPkg/MCP/Skills 扩展，将云端或本地模型连接到 Android 系统能力、终端、浏览器、文件与项目工作区，执行信息检索、文件处理、代码开发、设备自动化等任务。支持内置 MNN 推理与 llama.cpp 运行 GGUF 模型，可连接 Ollama、LM Studio 等本地服务。系统要求 Android 8.0+ 且仅限 ARM64 设备，从 Releases 下载 APK 安装。聊天与配置默认本地存储，应用自身不托管推理。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 云端与本地模型接入：OpenAI/Anthropic/Gemini 兼容端点、MNN、llama.cpp GGUF、Ollama/LM Studio
-- Android 界面自动化（Accessibility/Shizuku/Root）与内置浏览器 agent
-- PRoot 运行 Ubuntu 24.04 用户空间终端，支持 SSH/SFTP 工作区
-- 图谱记忆、角色卡、多角色聊天与统一扩展市场（ToolPkg/MCP/Skills）
+- 接入 Android 系统能力、内置浏览器、终端（Ubuntu 24.04 PRoot 用户空间）与项目工作区
+- 支持内置 MNN 本地推理与 llama.cpp 运行 GGUF 模型，可连接 Ollama/LM Studio
+- 统一扩展市场管理 ToolPkg、Skills、MCP 服务，并提供可视化工作流
+- 工具权限分级（自动允许/每次询问/拒绝），默认需授权
 
 ## 适用场景
 
-- 在手机上通过对话让 AI 操作应用界面、处理文件与执行任务
-- 用本地模型离线或私有化运行 AI 聊天与 agent 任务
-- 在移动端进行代码开发、终端操作与项目管理
+- 在手机上用 AI 完成文件处理与代码开发
+- 通过无障碍/ADB/Root 自动化 Android 界面操作
+- 用浏览器代理读取和操作网页页面
+- 手机端运行本地 GGUF 模型进行推理
 
 ## 场景标签
 
-`AI 助手` `GUI 自动化` `浏览器自动化` · 领域:效率与自动化
+`GUI 自动化` `编码 Agent` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L28: **Operit AI** is an open-source AI Agent platform for Android that supports cloud and local models, connecting them
-> L70: - Run local inference with built-in MNN support or run GGUF models with llama.cpp
+> L31: **Operit AI** is an open-source AI Agent platform for Android that supports cloud and local models, connecting them
+> L36: - **Your choice of models and services**: Connect cloud models, custom compatible endpoints, and key pools, or use 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4ff9d5f6112c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b8209d2acf79` · [字段定义](../../DATASET.md)*

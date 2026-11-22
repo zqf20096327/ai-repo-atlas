@@ -2,16 +2,16 @@
 
 ⭐ 28,541 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/deezer/spleeter) · [官网](https://research.deezer.com/projects/spleeter.html) · 组织维护
 
-**为开发者提供音频音轨分离库与预训练模型**
+**给开发者的预训练音源分离库：分离人声/伴奏/鼓/贝斯**
 
-Deezer 出品的 Python 音源分离库，基于 TensorFlow，提供预训练模型：2 stems（人声/伴奏）、4 stems、5 stems 三种分离配置。可从命令行直接使用，也可作为 Python 库嵌入开发管线。依赖 ffmpeg 与 libsndfile，可通过 pip 或 Docker 安装，另提供 Google Colab 在线试用。2.1.0 版本引入 CLI 选项命名变更并移除独立 GPU 包；Apple M1 芯片存在已知兼容问题；另有商业版 Spleeter Pro。
+Deezer 开源的 Python 音源分离库，基于 TensorFlow，提供预训练模型，支持 2/4/5 stems 三种分离配置（人声/伴奏、人声/鼓/贝斯/其他、加钢琴）。既可命令行直接使用，也可作为 Python 库嵌入开发流程；官方提供 musdb 上的性能基准，GPU 上分离速度可达实时的 100 倍。安装依赖 ffmpeg 与 libsndfile；2.1.0 版本有破坏性变更并取消专用 GPU 包；另提供商业版本 Spleeter Pro。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `dual` | MIT |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -26,26 +26,26 @@ Deezer 出品的 Python 音源分离库，基于 TensorFlow，提供预训练模
 
 ## 能力要点
 
-- 提供 2/4/5 stems 三种预训练分离模型
-- 支持命令行与 Python 库两种使用方式
-- 可 pip 或 Docker 安装，并提供 Colab 试用
-- GPU 上 4 stems 分离速度达实时 100 倍
+- 预训练模型支持 2/4/5 stems 三种音源分离配置
+- 命令行与 Python 库两种使用方式
+- GPU 上 4 stems 分离速度达实时的 100 倍
+- 被 iZotope RX 8、SpectralLayers 7、VirtualDJ 等软件采用
 
 ## 适用场景
 
-- 从歌曲中分离人声与伴奏
-- 将鼓、贝斯、钢琴等分轨提取为独立音频
-- 在自己的音频处理管线中集成分离能力
+- 把歌曲拆成人声与伴奏用于翻唱或混音
+- 在自己的音频处理流水线中嵌入分离能力
+- 音乐信息检索研究中做音源分离基线
 
 ## 场景标签
 
- · 领域:音频处理/深度学习
+ · 领域:音频/音乐信息处理
 
 ## 证据(README 行号)
 
 > L8: **Spleeter** is Deezer source separation library with pretrained models
-> L9: written in Python and uses Tensorflow. It makes it easy
-> L20: as well as directly in your own development pipeline as a Python library. It can be installed with pip or be used w
+> L10: to train source separation model (assuming you have a dataset of isolated sources), and provides
+> L17: 2 stems and 4 stems models have high performances on the musdb dataset. **Spleeter** is also very fast as it can pe
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e01fc7a36b06` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `349e38ff46bc` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # voicepaw/so-vits-svc-fork
 
-⭐ 9,323 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/voicepaw/so-vits-svc-fork) · 组织维护 · 中文 README
+⭐ 9,323 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/voicepaw/so-vits-svc-fork) · 个人维护 · 中文 README
 
-**歌声/语音转换工具：实时变声与模型训练，已停止维护**
+**so-vits-svc 的 fork：给想要实时歌声转换的用户提供易装易用的语音转换工具**
 
-so-vits-svc 的 fork，基于 ContentVec/HuBERT 特征与 VITS、PyTorch Lightning 实现，提供实时麦克风变声（svc vc）、文件推理（svc infer）、GUI（svcg）及完整训练流程（预处理、HuBERT 特征提取、训练）。训练支持 CREPE 音高估计、QuickVC 集成、自动下载预训练模型。通过 pip/pipx 安装，GPU 推理需 4GB 显存、训练需 4GB+，支持 CUDA/ROCm/MPS。README 明确声明不再维护（L33），并列出 RVC 系、DDSP-SVC 等替代项目。
+基于 so-vits-svc 4.0 分支的 fork，提供实时语音转换、GUI 与统一 CLI、CREPE 音高估计、约 2 倍训练速度提升；pip 安装即可用，自动下载预训练模型而无需安装 fairseq。模型与 4.0/4.1 分支兼容，但不支持其他模型。面向想进行歌声/语音转换的用户。注意：项目自 2023 年春起仅限维护性更新，现已声明不再维护并给出替代项目清单。训练建议至少 4GB VRAM，推理需至少 4GB VRAM，Windows 上 AMD GPU 不受支持。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ so-vits-svc 的 fork，基于 ContentVec/HuBERT 特征与 VITS、PyTorch Lightni
 
 ## 能力要点
 
-- 实时麦克风变声与 GUI/统一 CLI
-- 训练速度约为原版 2 倍，自动下载预训练模型
-- 支持 CREPE 音高估计与 QuickVC（MS-iSTFT Decoder）
-- 提供 Colab/Paperspace 云端训练入口
+- 实时语音转换（麦克风输入，svc vc 命令）
+- GUI（svcg）与统一 CLI（svc）双入口
+- pip 安装即用，自动下载预训练模型，无需 fairseq
+- CREPE 音高估计与 ContentVec 修正、部分集成 QuickVC
 
 ## 适用场景
 
-- 实时变声（直播、语音聊天）
-- 用自己收集的音频数据训练个人音色模型
-- 对音频文件做歌声/语音转换
+- 实时把自己的歌声/语音转换成目标音色
+- 用自己的数据集训练歌声转换模型
+- 对 wav 文件做离线推理转换
 
 ## 场景标签
 
- · 领域:音频/语音转换
+`微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4a8f9392afa6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `06742d67bbd9` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 21,912 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/peft) · [官网](https://huggingface.co/docs/peft) · 组织维护
 
-**大模型参数高效微调库：小参数量适配下游任务**
+**给开发者用少量参数微调大型预训练模型的库**
 
-Hugging Face 的参数高效微调（PEFT）库，通过仅微调少量（额外）参数实现大模型向下游任务的适配，降低计算与存储开销，检查点仅数 MB 量级。与 Transformers 集成用于训练推理、Diffusers 管理适配器、Accelerate 支持分布式训练推理，并可与量化（QLoRA）、TRL（RLHF/DPO）组合使用。通过 pip 安装，README 提供 LoRA 训练与推理的代码示例及各方法的概念指南与 API 参考。
+PEFT 是 Hugging Face 的参数高效微调库：通过只微调少量（新增）模型参数来适配大模型到下游任务，降低计算与存储成本。库内实现 LoRA 等多种 PEFT 方法，检查点体积可缩小至 MB 级。与 Transformers（模型加载/adapter 管理）、Diffusers（扩散模型 adapter）、Accelerate（分布式训练）、TRL（RLHF/DPO）集成。以 Python 包形式通过 pip 安装，README 给出训练与推理的快速上手代码，并提供 LoRA 内存占用与精度数据表。
 
 ## 筛选速览
 
@@ -26,21 +26,21 @@ Hugging Face 的参数高效微调（PEFT）库，通过仅微调少量（额外
 
 ## 能力要点
 
-- 仅微调少量参数即可适配大模型（示例中仅训练 0.19% 参数）
-- 与 Transformers/Diffusers/Accelerate 集成，支持适配器加载与切换
-- 支持 LoRA 等多种 PEFT 方法，可与量化、TRL/RLHF 组合
-- 提供 Stable Diffusion LoRA DreamBooth 训练脚本与示例 Space
+- 实现多种参数高效微调方法，LoRA 训练可只更新约 0.12% 的参数
+- 与 Transformers、Diffusers、Accelerate、TRL 集成
+- 支持与量化方法组合（QLoRA）进一步降低显存需求
+- 提供 consumer hardware 上的训练内存需求对照表
 
 ## 适用场景
 
-- 在消费级 GPU 上微调 LLM 而不 OOM
-- 为 Stable Diffusion 训练 LoRA 适配器
-- 用 RLHF/DPO 微调 LLM 时降低显存与存储开销
-- 为多个下游任务保存轻量适配器而非完整模型
+- 在消费级 GPU 上微调 LLM 用于下游任务
+- 为 Stable Diffusion 训练 LoRA/DreamBooth adapter
+- 多任务场景下保存多个小体积 adapter 并切换加载
+- 配合 TRL 做 RLHF/DPO 训练
 
 ## 场景标签
 
-`微调` · 领域:训练与推理
+`微调` `图像生成` `强化学习` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9b9ca242831c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8aafd6ae8882` · [字段定义](../../DATASET.md)*

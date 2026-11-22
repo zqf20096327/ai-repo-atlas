@@ -2,9 +2,9 @@
 
 ⭐ 7,903 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/TokenEconomizer) · 组织维护
 
-**编码 agent 的成本控制插件：从历史会话学习并削减后续开销**
+**为编程 agent 降低会话成本的插件：跨会话学习剪除浪费**
 
-面向 Claude Code、Codex、GitHub Copilot CLI 与 Pi 的插件，不改动 agent 本身的模型与代码，而是读取仓库内已完成的会话，调整后续会话的开销：从重复失败中学习环境事实（micro-skills）注入下次会话开头、将连续多次未使用的工具通过 agent 自身设置移出（toolprune）、对重复失败的 edit-and-test 循环做一次重定向（loopguard）。默认自身不调用模型，学习内容保存在 ~/.tokeneconomizer；三种机制均可独立关闭。论文报告 SWE-Bench 上五种 agent–模型组合平均成本降低 18.4–30.9%。
+以插件形式为 Claude Code、Codex、GitHub Copilot CLI、Pi 等 agent 提供黑盒成本控制：从同一仓库的历史会话中学习，通过三个机制削减重复开销——micro-skills 记录仓库运行事实并在会话开始注入、tool pruning 按使用统计停用未用工具、loop guard 由 judge 模型检测卡死循环并注入改道提示。不改 agent 本体，学习数据存于本地，插件自身模型调用走用户已有登录。支持多项可开关设置与逐项动作报告。
 
 ## 筛选速览
 
@@ -12,34 +12,34 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- micro-skills 从反复失败证据中学习环境事实，无需模型调用
-- toolprune 将连续未使用的工具经 agent 自身设置移出，可一键恢复
-- loopguard 对卡住的回合做一次重定向，从不自行停止回合
-- 三种机制可独立开关，默认不发起任何模型调用
+- micro-skills 跨会话记忆仓库事实（构建命令、环境变量等），三次会话确认后生效，被反驳即丢弃
+- tool pruning 按跨会话使用统计经 agent 自身设置停用未用工具，可一键恢复
+- loop guard 检测同错误循环并注入改道提示，不代用户终止回合
+- 成本按缓存定价计算，含插件自身调用；支持 Claude Code/Codex/Copilot CLI/Pi 等 4 个正式宿主与 6 个实验宿主
 
 ## 适用场景
 
-- 在长期维护的仓库上降低编码 agent 的每任务 token 成本
-- 让 agent 不必每次会话重复踩坑发现环境事实
-- 减少无用工具加载和陷入失败循环的浪费
+- 在同一仓库反复使用编程 agent 时降低会话开销
+- 避免 agent 每次会话重新摸索仓库的构建与测试命令
+- 发现并干预 agent 反复陷入同一报错的循环
 
 ## 场景标签
 
- · 领域:LLM 基础设施/编码 agent 工具
+`编码 Agent` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L29: TokenEconomizer is a plugin for **Claude Code**, **Codex**, the **GitHub Copilot CLI** and
-> L30: **Pi**. It leaves the agent as it is, reads each finished session in a repository, and changes
-> L91: Run the shell commands where the clone should stay: Claude Code, Codex and the Copilot CLI run
+> L57: TokenEconomizer is a plugin for **Claude Code**, **Codex**, the **GitHub Copilot CLI** and **Pi**,
+> L33: TokenEconomizer makes coding agents cheaper to run in the repositories you work in often,
+> L102: You need one of these agents, signed in any way it supports, and Python 3.10 or newer on
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `ed7a013c0697` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `b4fad007f2b2` · [字段定义](../../DATASET.md)*

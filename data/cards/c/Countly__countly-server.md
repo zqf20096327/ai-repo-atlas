@@ -2,9 +2,9 @@
 
 ⭐ 5,932 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Countly/countly-server) · [官网](https://countly.com) · 组织维护
 
-**可自部署的产品分析与用户互动平台（服务端）**
+**面向企业的私有化部署产品分析与用户参与平台**
 
-Countly 的服务端仓库，提供跨移动/Web/桌面应用的会话、浏览与事件采集和报表，崩溃上报（iOS/Android/React Native/Flutter/NodeJS/Unity/Java/JS），推送通知、远程配置、应用内评分、仪表盘与邮件报告，以及合规同意管理与读写 API。面向需要数据自持的组织，支持本地或私有云部署，可运行于 Ubuntu/CentOS/RHEL，提供一键安装脚本与 Docker 支持（Lite 版）。采用基于插件的架构与 MongoDB/NodeJS 技术栈；Lite 版为 AGPL-3.0（修改第 7 条）非商业许可，另有商业版本。
+Countly 服务端为组织提供自有部署的产品分析与客户参与平台，支持本地或私有云安装，覆盖会话/视图/事件采集、iOS/Android 等多端崩溃报告、推送通知、远程配置、仪表盘、合规管理（Consent 收集与数据主体请求）以及读写 API。采用插件化架构可扩展，前端基于 NodeJS 与 MongoDB 构建。提供 Lite（开源非商业许可、自托管）、Enterprise 与 Flex 三个版本，SDK 跨版本一致。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Countly 的服务端仓库，提供跨移动/Web/桌面应用的会话、浏览�
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,25 +20,26 @@ Countly 的服务端仓库，提供跨移动/Web/桌面应用的会话、浏览�
 
 ## 能力要点
 
-- 会话/浏览/事件采集与崩溃上报，覆盖多平台 SDK
-- 推送通知、远程配置、应用内评分与自定义仪表盘
-- 插件化架构与读写 API，支持外部 webhook 转发
-- 支持一键安装脚本与 Docker 部署（Lite 版）
+- 本地或私有云部署，宣称完整数据所有权
+- 多平台崩溃报告（iOS/Android/React Native/Flutter 等）
+- 读写 API 与插件架构支持自定义扩展
+- docker-compose 一键启动 MongoDB/API/前端/nginx
 
 ## 适用场景
 
-- 自托管部署产品分析平台，掌控数据与合规
-- 追踪移动/Web/桌面应用的用户行为与崩溃
-- 通过推送、远程配置与评分组件做用户互动
+- 自托管分析移动与 Web 应用的用户行为
+- 收集 App 崩溃报告并推送通知
+- 满足 GDPR/合规要求的数据主体请求管理
+- 通过 Write API 接入任意来源数据
 
 ## 场景标签
 
-`数据分析` · 领域:效率与自动化
+ · 领域:企业服务/数据分析
 
 ## 证据(README 行号)
 
 > L14: Countly is a **privacy-first, AI-ready analytics and customer engagement platform** built for organizations that re
-> L25: **Built for privacy. Designed for flexibility. Ready for AI-driven innovation.**
+> L53: This repository includes server-side part of Countly, with the following features:
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `3f9c3cbd13d8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f09987921b93` · [字段定义](../../DATASET.md)*

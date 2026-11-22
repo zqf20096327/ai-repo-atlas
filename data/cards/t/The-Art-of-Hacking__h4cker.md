@@ -2,9 +2,9 @@
 
 ⭐ 30,292 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/The-Art-of-Hacking/h4cker) · [官网](https://hackerrepo.org) · 个人维护
 
-**为安全从业者提供网络安全资源聚合清单**
+**面向安全从业者的网络安全资源聚合清单（含 AI 安全）**
 
-由 Omar Santos 维护的网络安全资源聚合仓库，收录与伦理黑客、漏洞赏金、数字取证与应急响应、AI 安全、漏洞研究、漏洞利用开发、逆向工程相关的参考、脚本、工具、实验与培训材料。内容按目录组织：网络安全领域分类、AI 安全与 LLM 工程、认证路线图、自建实验室与培训参考。作为其书籍、视频课程与线下培训的补充资料，通过 MIT 许可开源，使用方式为按目标进入对应领域页面后跟随链接。
+由 Omar Santos 维护的网络安全资源合集，收录参考资料、脚本、工具、代码、实验与培训资源，作为其书籍、视频课程与培训的补充材料。目录按领域组织：进攻/防御安全、云与容器安全、应用安全、AI 安全（含 LLM 工程、AI 辅助事件响应、AI 伦理/隐私/治理）、认证路线图、自建实验环境与速查表。使用方式为按领域入口页浏览链接；以 MIT 许可发布。
 
 ## 筛选速览
 
@@ -25,26 +25,25 @@
 
 ## 能力要点
 
-- 覆盖攻防、云与容器、应用安全、AI 安全等领域分类目录
-- 含 AI 安全、LLM 工程、AI 辅助应急响应资源板块
-- 认证备考资料单独分组（Cisco/CompTIA/ISC2 等）
-- 提供自建实验室与 cyber range 资源章节
+- 覆盖进攻/防御安全、云容器、应用安全等领域的分类目录
+- AI 目录含 AI 安全、LLM 工程、AI 辅助事件响应与 AI 治理资源
+- 认证专区集中管理考试备考材料
+- 提供实验环境（lab/cyber range）搭建资源
 
 ## 适用场景
 
-- 按领域查找安全工具、脚本与实验资源
-- 备考安全认证时查找路线图与考试补充材料
-- 搭建自己的安全实验/cyber range 环境
+- 按领域查找安全学习资料与工具索引
+- 备考 Cisco/CompTIA/ISC2 等安全认证
+- 搭建自己的安全实验环境
 - 查找 AI 安全与 LLM 工程相关参考
 
 ## 场景标签
 
-`精选清单` `网络安全` · 领域:学习与行业
+`精选清单` `网络安全` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: This repository is a comprehensive collection of cybersecurity references, scripts, tools, code, labs, and training 
-> L7: The repository serves as supplemental material for books, video courses, and live training created by Omar Santos. I
 > L12: - **AI**: ai contains AI security, LLM engineering, AI-assisted incident response and automation, and AI ethics/pri
 
 ## 星数曲线
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `cf3ed11349ee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9431677d2a32` · [字段定义](../../DATASET.md)*

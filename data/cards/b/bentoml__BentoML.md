@@ -2,9 +2,9 @@
 
 ⭐ 8,945 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/bentoml/BentoML) · [官网](https://bentoml.com) · 组织维护
 
-**Python 模型服务框架：把 AI 模型推理脚本构建为 API 服务**
+**面向 AI 应用的 Python 模型服务框架：推理 API 与部署**
 
-Python 库，用于构建面向 AI 应用与模型推理的在线服务系统：通过标准 Python 类型提示将模型推理脚本转为 REST API 服务器，支持动态批处理、模型并行、多模型推理图编排等性能优化。以 Bento 为标准化部署工件，可自动生成 Docker 镜像部署，也可部署到 BentoCloud；需 Python≥3.9，本地运行示例另需安装 PyTorch/Transformers。面向构建生产级模型推理服务的开发者。
+BentoML 是一个用于构建在线服务系统的 Python 库，针对 AI 应用与模型推理优化：将模型推理脚本以几行代码转为 REST API 服务端，通过配置文件管理依赖与模型版本并自动生成 Docker 镜像，支持动态批处理、模型并行、多阶段流水线与多模型编排。本地用 `bentoml serve` 运行，`bentoml build` 打包为 Bento 工件，`bentoml containerize` 生成容器镜像以部署到 Docker 或 Kubernetes。需 Python≥3.9，运行收集匿名使用数据，可用参数或环境变量关闭。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Python 库，用于构建面向 AI 应用与模型推理的在线服务系统：
 
 ## 能力要点
 
-- 以类型提示将任意模型脚本转为 REST API 服务
-- 动态批处理、模型并行、多模型推理图编排等内置优化
-- bentoml build/containerize 生成标准化 Bento 工件与 Docker 镜像
-- 示例覆盖 LLM、图像生成、Embedding、音频、计算机视觉等模型
+- 几行代码将任意模型推理脚本转为 REST API 服务
+- 自动生成 Docker 镜像，支持 Kubernetes 部署
+- 内置动态批处理、模型并行与多模型推理编排
+- 示例覆盖 LLM、图像生成、嵌入、音频、计算机视觉等模态
 
 ## 适用场景
 
-- 把开源或自定义模型封装为生产可用的推理 API
-- 本地开发调试后用 Docker 或 BentoCloud 部署到生产环境
-- 构建多模型组合与推理流水线服务
+- 为自己的模型快速搭建生产级推理 API
+- 将模型服务容器化后部署到集群
+- 构建多模型组合与任务队列服务
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ Python 库，用于构建面向 AI 应用与模型推理的在线服务系统：
 ## 证据(README 行号)
 
 > L14: BentoML is a Python library for building online serving systems optimized for AI apps and model inference.
-> L16: - **🍱 Easily build APIs for Any AI/ML Model.** Turn any model inference script into a REST API server with just a f
+> L18: - **🧭 Maximize CPU/GPU utilization.** Build high performance inference APIs leveraging built-in serving optimizatio
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `b561ae818048` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `84b6f81dddfb` · [字段定义](../../DATASET.md)*

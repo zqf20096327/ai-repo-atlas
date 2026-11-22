@@ -1,10 +1,10 @@
 # T8RIN/ImageToolbox
 
-⭐ 15,709 · Kotlin · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护
+⭐ 15,709 · Kotlin · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护 · 中文 README
 
-**Android 图像编辑应用：裁剪、500+滤镜、EXIF、抠图、OCR**
+**面向 Android 用户的高级图像编辑应用，含裁剪、滤镜、OCR 等功能**
 
-基于 Kotlin/Jetpack Compose 的 Android 图像编辑工具，覆盖裁剪、绘图、EXIF 编辑、批量处理、500+ 种滤镜链（模糊、抖动、色调映射、像素化、取证分析等）。AI 相关功能包括自动背景擦除、文档扫描与 OCR。提供 FOSS 与 Market 双发行渠道：F-Droid 版使用 ZXing/ONNX/OpenCV 等开源组件，Google Play 版使用 MlKit 并含分析组件。安装方式为 Google Play/F-Droid/Releases APK，或 Gradle 源码构建。
+基于 Kotlin 与 Jetpack Compose 的 Android 图像编辑应用，提供批量处理、滤镜链（600+ 种滤镜）、裁剪、EXIF 编辑、背景擦除、OCR、红眼去除、透视校正、接缝裁剪等功能。分发渠道包括 GitHub Releases、Google Play、F-Droid 与 Obtainium；提供 FOSS 与 Market 两个版本，二者在二维码扫描、自动背景移除、文档扫描所用的实现（Zxing/OpenCV/ONNX 与 MlKit）及是否含分析组件上有差异。可从源码用 Gradle 构建。
 
 ## 筛选速览
 
@@ -26,21 +26,20 @@
 
 ## 能力要点
 
-- 500+ 种滤镜与滤镜链、批量处理
-- 自动背景擦除（FOSS 版用 ONNX，Market 版用 MlKit）
-- EXIF 编辑、QR 扫描、文档扫描、图像取证分析（ELA/复制移动检测）
-- 多渠道发布：Google Play/F-Droid/GitHub Releases/Obtainium
+- 600+ 种滤镜与滤镜链组合，含色调映射、抖动、像素化等类别
+- 批量处理、EXIF 编辑、OCR、背景移除、文档扫描
+- FOSS 与 Market 双版本：分别使用 OpenCV/ONNX/Zxing 与 MlKit 实现
+- 支持 F-Droid、Obtainium 等多种分发渠道
 
 ## 适用场景
 
-- 手机上批量编辑与压缩图片
-- 去除图片背景或扫描文档、识别文字
-- 编辑或清除照片 EXIF 元数据
-- 对图片应用艺术滤镜与风格化效果
+- 在手机上批量修图和给照片加滤镜
+- 擦除照片背景或扫描文档
+- 查看和编辑图片的 EXIF 元数据
 
 ## 场景标签
 
-`图像视频处理` `OCR` · 领域:感知与多模态
+`OCR` `图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7c979772c297` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `084f393bc6de` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 5,636 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/zenml-io/zenml) · [官网](https://zenml.io) · 组织维护
 
-**面向 ML/AI 工程师的 MLOps/LLMOps 流水线编排平台**
+**面向 ML/AI 工程师的 MLOps 编排平台：管道到 Agent**
 
-ZenML 是供企业内 ML/AI 工程师使用的开源平台：以 Python 代码定义工作流（pipelines），可嵌入模型训练或 agent 循环等任意逻辑，运行在可替换的基础设施后端（stacks）上。核心机制包括自动容器化并跟踪代码、记录每次运行的指标/日志/元数据、抽象基础设施复杂度、集成 MLflow/LangGraph/SageMaker/Vertex 等既有工具。采用客户端-服务器架构并带 Web 仪表盘，另提供 MCP Server 供 Claude Desktop/Cursor 以自然语言查询流水线。Apache 2.0 许可，另有 ZenML Pro 付费服务。
+ZenML 是供企业内 ML/AI 工程师使用的开源工作流编排平台：用 Python 编写 pipeline，在可配置的基础设施栈上运行，自动容器化与追踪代码，记录每次运行的指标、日志与元数据，并集成 MLflow、LangGraph、Langfuse、SageMaker、GCP Vertex 等既有工具。采用客户端-服务器架构，内置 Web 仪表盘，支持本地与 Kubernetes 等生产部署；另提供 MCP Server 以自然语言查询管道，以及 VS Code/Cursor 扩展。Apache 2.0 许可，另有 ZenML Pro 商业注册服务。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ ZenML 是供企业内 ML/AI 工程师使用的开源平台：以 Python 代码�
 
 ## 能力要点
 
-- 以 pipelines + stacks 抽象运行任意 Python 逻辑于任意基础设施后端
-- 自动容器化、运行跟踪（指标/日志/元数据）与可观测层
-- 集成 MLflow、LangGraph、Langfuse、SageMaker、GCP Vertex 等工具
-- ZenML MCP Server 支持在 Claude Desktop/Cursor 中用自然语言查询与触发流水线
+- 以 pipeline/stack 抽象编排任意 Python 逻辑，自动容器化并追踪运行元数据
+- 集成 MLflow、LangGraph、Langfuse、SageMaker、Kubernetes 等工具与编排器
+- ZenML MCP Server 支持通过 Claude Desktop/Cursor 以自然语言查询与触发部署
+- 提供 VS Code/Cursor 编辑器扩展管理管道
 
 ## 适用场景
 
-- 把模型训练、评估、部署流程组织为可复现的生产流水线
-- 统一管理传统 ML 模型与 AI agent 的全生命周期
-- 团队在开发和生产环境中迭代实验并追踪运行结果
+- 把训练、评估到部署的 MLOps 流程统一编排到生产环境
+- 在统一框架中同时管理传统 ML 模型与 LLM Agent 工作流
+- 通过 Kubernetes 编排器在自有集群上运行 AI 流水线
+- 用自然语言查询管道运行状态与指标并触发部署
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ ZenML 是供企业内 ML/AI 工程师使用的开源平台：以 Python 代码�
 
 ## 证据(README 行号)
 
-> L23: ZenML is built for ML or AI Engineers working on traditional ML use-cases, LLM workflows, or agents, in a company s
-> L25: At it's core, ZenML allows you to write **workflows (pipelines)** that run on any **infrastructure backend (stacks)
-> L30: 4. Integrating your existing tools and infrastructure e.g. MLflow, Langgraph, Langfuse, Sagemaker, GCP Vertex, etc.
+> L24: ZenML is built for ML or AI Engineers working on traditional ML use-cases, LLM workflows, or agents, in a company s
+> L26: At it's core, ZenML allows you to write **workflows (pipelines)** that run on any **infrastructure backend (stacks)
+> L31: 4. Integrating your existing tools and infrastructure e.g. MLflow, Langgraph, Langfuse, Sagemaker, GCP Vertex, etc.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `1c6af7d1477b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f6a5baeb66dc` · [字段定义](../../DATASET.md)*

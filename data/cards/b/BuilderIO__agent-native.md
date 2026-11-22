@@ -2,9 +2,9 @@
 
 ⭐ 7,736 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/BuilderIO/agent-native) · [官网](https://www.agent-native.com) · 组织维护
 
-**TypeScript agent 应用框架：同一 action 供 agent 与 UI 共用**
+**构建带专用 UI 的 agent 应用的 TypeScript 框架**
 
-开源 TypeScript 框架，用于构建带专属 UI 的 agentic 应用。核心机制是共享 action：每项能力定义一次，agent 作为工具调用，UI 从代码调用，走同一套验证、权限与实现；action 同时通过 HTTP、MCP、A2A 与 CLI 暴露。内置 agent 聊天、认证权限、技能与记忆、定时自动化、多 agent 协作，生产用 PostgreSQL、本地用 PGlite。LLM、数据库与基础设施由使用者自带。提供 npx 脚手架命令与多个示例 agent 应用。
+开源 TypeScript 框架，用于构建将自主工作与专用 UI 结合的 agent 应用。核心机制是把每个能力定义一次为共享 action：agent 将其作为工具调用，UI 从代码调用同一实现，双方共用校验、权限与应用状态；并内置聊天、认证权限、技能记忆、定时自动化、多 agent 协作与 PostgreSQL/PGlite 后端。action 同时通过 HTTP、MCP、A2A 与 CLI 暴露。README 另附 9 个可直接使用的开源 agent 应用示例。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 共享 action 层：agent 工具调用与 UI 代码调用同一实现，含共享数据与应用状态
-- action 经 HTTP、MCP、A2A 与 CLI 暴露
+- 共享 action 层：agent 与 UI 调用同一实现、同一权限校验
+- action 同时通过 HTTP、MCP、A2A 与 CLI 暴露
 - 内置认证权限、技能记忆、自动化调度与 agent 团队协作
-- 附 Clips/Design/Slides 等 11 个开源示例 agent 应用
+- 敏感结果可通过 persistInChatHistory 从持久化历史中脱敏
 
 ## 适用场景
 
-- 为知识型工作构建 agent 与 UI 共享同一能力层的应用
-- 让 agent 在带可视化界面的环境中执行并让人审查、编辑其产出
-- 基于示例应用（邮件、日历、分析等）二次开发自己的 agent 应用
+- 搭建 agent 与用户在同一界面协作的知识工作应用
+- 为团队构建带权限控制的 agent 工作台
+- 让 agent 产出直接出现在业务 UI 中供人审阅编辑
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L16: Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-bu
 > L34: - **Shared actions.** The agent calls each capability as a tool, and the UI calls it from code. Both paths use the 
+> L51: The agent receives `hello` as a tool. React calls the same function with `useActionQuery("hello", { name: "Alex" })
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `b57f1b8122df` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0eadba0d1154` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 24,084 · C++ · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Tencent/ncnn) · 组织维护 · 中文 README
 
-**面向移动/嵌入式/桌面端部署的神经网络推理框架**
+**面向移动/嵌入式/桌面部署的神经网络推理框架**
 
-ncnn 是腾讯开源的神经网络推理框架，无第三方运行时依赖，支持 CPU 与 Vulkan GPU 后端，提供 C++ API 与 Python 绑定。通过 pnnx 工具将 PyTorch 和 ONNX 模型转换为 ncnn 格式，并保留 Caffe/MXNet/Darknet 等旧格式转换器。支持 int8 量化、fp16 计算、自定义层与模型优化工具。提供覆盖 Android、iOS、Windows、Linux、WebAssembly 等平台的预编译包，也可从源码构建。已在 QQ、微信等腾讯应用中使用，覆盖分类、检测、分割、OCR 等模型类型。
+腾讯开源的神经网络推理框架，针对移动端、嵌入式和桌面端部署优化。无第三方运行时依赖，支持 CPU（含 ARM NEON 优化与多核调度）与 Vulkan GPU 后端，提供 pnnx 工具将 PyTorch 和 ONNX 模型转换为 ncnn 格式，并保留 Caffe/MXNet/Darknet 旧格式兼容转换器。纯 C++ 实现，带 C API 和 Python 绑定，支持 fp16、int8 量化推理与自定义层。已在 QQ、微信、天天 P 图等腾讯应用中使用；覆盖 Android/iOS/macOS/Linux/Windows/WebAssembly/HarmonyOS 等多平台构建指南。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,26 +27,27 @@ ncnn 是腾讯开源的神经网络推理框架，无第三方运行时依赖，
 
 ## 能力要点
 
-- 无第三方运行时依赖，纯 C++ 实现，提供 C API 与 Python 绑定
-- CPU（ARM NEON、多核调度）与 Vulkan GPU 两种推理后端
-- pnnx 工具完成 PyTorch/ONNX 模型转换，支持 int8 量化与 fp16
-- 提供 Android/iOS/WebAssembly/HarmonyOS 等多平台预编译包与构建指南
+- 无第三方运行时依赖，支持 CPU 与 Vulkan GPU 双后端
+- pnnx 工具转换 PyTorch/ONNX 模型，兼容 Caffe/MXNet/Darknet 旧格式
+- 覆盖分类、检测、分割、OCR 等 CNN 模型（YOLO 系列等）
+- 支持 fp16/int8 量化推理与自定义层扩展
 
 ## 适用场景
 
-- 在手机 App 中离线部署视觉模型（分类、检测、人脸、OCR）
-- 在树莓派、Jetson 等嵌入式设备上运行推理
-- 将 PyTorch 训练的模型转换为移动端可运行格式
+- 将深度学习模型部署到手机、浏览器和边缘设备
+- 在 ARM 移动处理器上做量化推理加速
+- 为 Android/iOS 应用集成检测或分割模型
+- 将 PyTorch/ONNX 模型转换为轻量推理格式
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L9: ncnn is a high-performance neural network inference framework optimized for mobile, embedded, and desktop deployment
 > L10: It has no third-party runtime dependencies, runs across CPU and Vulkan GPU backends, and provides tools such as pnn
-> L181: - Optimized CPU inference for mobile and embedded processors, including ARM NEON and multi-core scheduling.
+> L185: - No third-party runtime dependencies and no BLAS / NNPACK requirement.
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9ffd38ce0c73` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `26ac87bd838e` · [字段定义](../../DATASET.md)*

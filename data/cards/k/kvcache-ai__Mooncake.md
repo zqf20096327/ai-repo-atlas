@@ -2,9 +2,9 @@
 
 ⭐ 7,101 · C++ · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/kvcache-ai/Mooncake) · [官网](https://kvcache-ai.github.io/Mooncake/) · 组织维护 · 中文 README
 
-**面向大规模 LLM 推理/训练的 KVCache 中心化解耦架构基础设施**
+**Kimi 背后的 LLM 推理/训练服务基础设施平台**
 
-Moonshot AI（月之暗面）开源的大规模 LLM 推理与训练基础设施，即 Kimi 服务的底层平台。核心组件包括：高性能 Transfer Engine（跨 RDMA/TCP/EFA/NVLink 等异构网络与加速器的批量数据传输）、Mooncake Store（分布式 KV cache 与模型权重管理池，利用集群中闲置的 CPU/DRAM/SSD 资源）、以及 Mooncake EP & PG（弹性 MoE 服务）。架构上将 prefill 与 decode 集群分离，并已与 vLLM、SGLang、TensorRT-LLM、LMDeploy 等推理引擎集成。通过 PyPI 提供多种变体轮子（CUDA、Non-CUDA、NPU、MUSA、ROCm 等），并提供 Docker 镜像。
+Mooncake 是面向大规模 LLM 推理与训练的基础设施项目，采用以 KVCache 为中心的分离式架构，将 prefill 与 decode 集群分离，并利用 GPU 集群中闲置的 CPU、DRAM 与 SSD 资源构建分布式 KV 缓存池。包含三个组件：跨异构网络与加速器进行低延迟数据传输的 Transfer Engine、管理分布式 KV 缓存与模型权重的 Mooncake Store，以及用于弹性 MoE 服务的 Mooncake EP & PG。以 PyPI 包分发（提供 CUDA/NPU/MUSA/ROCm 等多构建变体），与 SGLang、vLLM 等推理框架深度集成，FAST 2025 论文获最佳论文奖。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ Moonshot AI（月之暗面）开源的大规模 LLM 推理与训练基础设施�
 
 ## 能力要点
 
-- Transfer Engine 支持 RDMA/TCP/EFA/NVMe-oF/NVLink 等多种传输协议，拓扑感知路由与多网卡带宽聚合
-- Mooncake Store 分布式 KV cache 池，复用 GPU 集群闲置 CPU/DRAM/SSD
-- Prefill/Decode 分离解耦架构，支持弹性 MoE 服务（EP & PG）
-- 被 vLLM、SGLang、TensorRT-LLM、vLLM-Ascend、NIXL 等生产推理栈采用
+- KVCache 为中心的 prefill/decode 分离架构与分布式缓存池
+- Transfer Engine 支持 RDMA 多网卡带宽聚合、拓扑感知路由与自动故障切换
+- 以 PyPI 分发，提供 CUDA、Non-CUDA、NPU、MUSA、ROCm 多种构建
+- 被 SGLang、vLLM、TensorRT-LLM、LMDeploy 等多个推理栈集成
 
 ## 适用场景
 
-- 大规模 LLM 服务的 PD 分离部署与 KV cache 跨实例复用
-- 多节点训练/rollout 之间的权重与数据高效传输
-- 在异构加速器（CUDA/NPU/MUSA/ROCm）环境下构建分布式 KV cache 池
+- 为多节点 LLM 推理集群搭建跨实例共享的 KV 缓存池
+- 部署 prefill/decode 分离的分布式推理服务
+- 分布式强化学习中在推理与训练节点间传输权重与隐状态
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `fb25ca7b262c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `316e49ec2bab` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 13,194 · Swift · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/altic-dev/FluidVoice) · [官网](https://altic.dev/fluid) · 组织维护
 
-**macOS 开源语音听写应用：本地语音转文字与本地 AI 增强**
+**macOS 本地语音听写应用：录音转文字并本地清理润色**
 
-面向 macOS 用户的语音听写（voice-to-text）应用，Swift 编写，通过全局热键触发语音输入，将转录文本直接插入任意应用的文本框。支持多种语音模型：Nemotron Speech、Parakeet 系列、Cohere Transcribe、Apple Speech 与 Whisper（部分模型兼容 Intel Mac）。提供 Command Mode 语音控制 Mac、Write Mode 改写文本、实时转录预览等功能。AI 增强可选本地 Fluid Intelligence 模型（闭源私有运行时）或 OpenAI/Groq 等云端提供商，默认本地优先、数据不出机。
+开源（GPLv3）的 macOS 听写应用，核验于 macOS 15+。流程分两步：Fluid Speech 模型本地将音频转为文字，Fluid Intelligence 模型可选地在本地清理文本（去填充词、格式化、按应用套用风格）；也可接入用户自备的云端 AI 提供商。附带 FluidMeet 会议转录（说话人标签、摘要、导出）、Command Mode 语音控制 Mac、Edit Mode 原地改写、全局热键与自定义词典。注意：Fluid Intelligence 运行时为私有维护，不在本仓库源码构建内；GitHub 仓库仅含 macOS 应用。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
@@ -24,26 +24,26 @@
 
 ## 能力要点
 
-- 8 种语音模型可选，Apple Speech 零下载、Whisper 兼容 Intel Mac
-- 本地 AI 增强（Fluid Intelligence）：智能格式化、上下文大小写与后处理，数据不离开设备
-- Command Mode 语音控制 Mac；Write Mode 在任意应用内听写或改写文本
-- 可选接入 OpenAI/Groq/自定义云端 AI 增强，密钥存于 macOS Keychain
+- Fluid Speech Pro/Mini/Pico 本地语音识别模型（25 种语言，Apple Silicon）
+- Fluid 1.1 Ripple/Splash 本地文本清理模型，无需云账号或 API key
+- 多种可选语音模型：Parakeet、Qwen3 ASR、Cohere Transcribe、Whisper（含 Intel 支持）等
+- FluidMeet 本地会议转录、说话人标签与多格式导出
 
 ## 适用场景
 
-- 在任意应用中用语音听写并直接插入文本
-- 用语音启动应用、运行快捷指令与自动化工作流
-- 选择本地模型与本地 AI 增强，保证语音数据不离开设备
+- 在任何应用里用语音输入并自动清理成规范文字
+- 线下/线上会议本地转录、生成摘要并回放编辑
+- 不用键盘、用语音命令操作 Mac（启动应用、快捷指令）
 
 ## 场景标签
 
-`语音识别` `GUI 自动化` · 领域:效率与自动化
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L11: Open source voice-to-text dictation app for macOS with on-device AI enhancement.
-> L39: - **Fluid Intelligence** — fully local AI model for on-device dictation enhancement. No cloud, no API keys, no data
-> L84: - **Fluid Intelligence** — on-device AI enhancement for smart formatting, context-aware capitalization, and post-pr
+> L12: **Free, private dictation that runs on your device.** Speak into the apps you already use, clean up your words loca
+> L63: Two separate steps, both available locally:
+> L83: The macOS app is open source under GPLv3. **Fluid Intelligence is a separate, privately maintained local AI runtime
 
 ## 星数曲线
 
@@ -59,4 +59,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e4be70947a49` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b35d06064460` · [字段定义](../../DATASET.md)*

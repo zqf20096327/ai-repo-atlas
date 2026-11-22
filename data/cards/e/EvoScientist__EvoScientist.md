@@ -2,9 +2,9 @@
 
 ⭐ 5,052 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/EvoScientist/EvoScientist) · [官网](https://EvoScientist.ai/) · 组织维护 · 中文 README
 
-**自进化 AI 科学家多智能体系统：自主探索并产出研究成果**
+**自进化多智能体 AI 科研系统，自动化完整研究流程**
 
-基于 DeepAgents 框架构建的自进化 AI 科研智能体：6 个子智能体（计划、研究、编码、调试、分析、写作）按'接收→规划→执行→评估→撰写→验证'流程协作完成科研任务。具备自动蒸馏的自链接记忆知识图谱、从自身记忆沉淀可复用技能的 AutoSkills、cron 式定时任务与自适应工具选择。支持 Anthropic/OpenAI/Google/MiniMax/NVIDIA 等多提供商一键切换，可通过 CLI、桌面 WebUI、移动端及 Telegram/Slack/飞书/微信等渠道使用。以 PyPI 包及一行安装命令分发。
+基于 DeepAgents 框架构建的多智能体科研系统，由 6 个子智能体（plan/research/code/debug/analyze/write）协作执行 Intake→plan→execute→evaluate→write→verify 的科研工作流；内置跨会话增长的自进化记忆知识图谱与定期从记忆中提炼可复用技能的 AutoSkills 机制；支持 CLI、WebUI、桌面应用与 Telegram/Slack/飞书/微信等多通道，可按 cron 计划自动运行周期性研究任务。面向希望与 AI 协作开展科研的研究者。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 6 个子智能体按科学工作流协作（plan/research/code/debug/analyze/write）
+- 6 子智能体协作的科研工作流（plan/research/code/debug/analyze/write）
 - 自进化记忆：每轮自动蒸馏并自链接为跨会话知识图谱
-- AutoSkills 从记忆中沉淀可复用技能供人工审查
-- 多提供商切换与多渠道接入（CLI/WebUI/移动端/Telegram/Slack/飞书/微信）
+- AutoSkills 定期将重复模式提炼为可复用技能
+- CLI/WebUI/桌面/移动多入口，多通道同一会话
 
 ## 适用场景
 
-- 让 AI 智能体自主完成从选题到成稿的科研流程
-- 通过 Telegram/Slack/飞书等渠道与科研智能体会话
-- 用 cron 式定时任务自动执行周期性研究工作
+- 让 AI 智能体自主完成文献调研到论文撰写的科研流程
+- 定时自动运行周期性研究任务并汇报结果
+- 通过 Telegram/Slack/飞书/微信与同一 agent 会话交互
+- 安装科研技能包覆盖端到端研究生命周期
 
 ## 场景标签
 
-`多智能体` `科研工具` `Agent 记忆` · 领域:Agent 开发
+`多智能体` `科研工具` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L21: **EvoScientist aims to harness vibe research by enabling self-evolving AI scientists that autonomously explore, gen
 > L71: - **🤖 Multi-Agent Team** — 6 sub-agents (plan, research, code, debug, analyze, write) working in concert.
-> L77: - **🔬 Scientific Workflow** — Intake → plan → execute → evaluate → write → verify.
+> L74: - **🌐 Multi-Provider** — Anthropic, OpenAI, Google, MiniMax, NVIDIA — one config to switch.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `d3556c3c7506` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `bd641f5a82f5` · [字段定义](../../DATASET.md)*

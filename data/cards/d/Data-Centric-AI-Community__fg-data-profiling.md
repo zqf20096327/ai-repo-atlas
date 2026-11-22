@@ -2,15 +2,15 @@
 
 ⭐ 13,755 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-profiling) · [官网](https://docs.sdk.ydata.ai) · 组织维护
 
-**一行代码生成 DataFrame 数据质量剖析与 EDA 报告**
+**一行代码生成 Pandas/Spark DataFrame 数据质量剖析报告**
 
-ydata-profiling 更名后的 Python 包，为 Pandas 与 Spark DataFrame 提供一行式探索性数据分析：类型推断、缺失/偏斜等质量警告、单变量与多变量统计、时间序列与文本分析、文件与图像元信息、数据集对比，报告可导出为 HTML/JSON 或 Jupyter widget。支持 pip/conda/源码安装与 CLI 处理 CSV。需 Python 3，报告渲染需现代浏览器；数据库级剖析引导至 YData Fabric 商业产品。
+基于 ydata-profiling 更名而来的 Python 包，对 DataFrame 进行探索性数据分析：类型推断、缺失/偏斜等质量警告、单变量与多变量统计、时间序列与文本分析、文件与图像分析、数据集对比，报告可导出为 HTML/JSON 或嵌入 Jupyter。提供命令行工具处理 CSV。支持 Spark 后端处理大数据集，需 Python 3，报告渲染需现代浏览器。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,17 +26,17 @@ ydata-profiling 更名后的 Python 包，为 Pandas 与 Spark DataFrame 提供�
 
 ## 能力要点
 
-- 一行代码生成剖析报告，支持 HTML/JSON/Jupyter widget 导出
-- 支持 Pandas 与 Spark（pyspark extra）处理大规模数据
-- 覆盖时间序列、文本（Unicode）、文件与图像分析
-- 提供 CLI 直接处理 CSV 文件
+- 一行代码生成 EDA 剖析报告，可导出 HTML/JSON/Jupyter widget
+- 自动类型推断与数据质量警告（缺失、高相关、偏斜、常量列等）
+- 支持时间序列、文本、文件与图像分析
+- 提供 Spark 支持（extras）用于大数据集
 
 ## 适用场景
 
-- 建模前快速审查数据集质量与分布
+- 快速了解新数据集的结构与质量问题
 - 对比同一数据集的多个版本
-- 为大规模数据集生成剖析报告
-- 在 Jupyter 中交互式探索数据
+- 为时间序列数据集一键生成剖析报告
+- 在 Airflow/Kedro 等流水线中自动产出数据报告
 
 ## 场景标签
 
@@ -45,8 +45,7 @@ ydata-profiling 更名后的 Python 包，为 Pandas 与 Spark DataFrame 提供�
 ## 证据(README 行号)
 
 > L25: `fg-data-profiling` primary goal is to provide a one-line Exploratory Data Analysis (EDA) experience in a consisten
-> L93: - **Type inference**: automatic detection of columns' data types (*Categorical*, *Numerical*, *Date*, etc.)
-> L111: - Want to scale? Check the latest release with ⭐⚡Spark support!
+> L108: - Want to scale? Check the latest release with ⭐⚡Spark support!
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5042087e1174` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `66895650946c` · [字段定义](../../DATASET.md)*

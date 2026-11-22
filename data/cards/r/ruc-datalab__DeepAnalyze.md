@@ -2,9 +2,9 @@
 
 ⭐ 4,833 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ruc-datalab/DeepAnalyze) · [官网](https://ruc-deepanalyze.github.io) · 组织维护 · 中文 README
 
-**自主数据科学的智能体 LLM：自动完成数据分析并生成报告**
+**自主完成数据科学任务并生成分析报告的 8B agentic LLM**
 
-中国人民大学等机构发布的开源智能体大模型（DeepAnalyze-8B），可自主完成数据科学全流程任务：数据准备、分析、建模、可视化与报告生成，支持对数据库、CSV、Excel、JSON、TXT 等多类数据源的开放式深度研究并产出研究报告。模型、代码、训练数据均开源；通过 vLLM 部署，提供 WebUI、WebUI v2、JupyterUI、CLI 与 OpenAI 风格 API 多种交互方式，另提供 API Key 申请渠道。附 16GB-80GB 显存配置建议与量化方案。
+由中国人民大学等机构发布的开源数据科学模型（DeepAnalyze-8B），可在无人工干预下完成数据准备、分析、建模、可视化与报告生成。通过 vLLM 本地部署模型，或申请官方 API key 使用；交互方式包括 WebUI、WebUI v2（新增 HeyWhale API key 与 Docker 沙箱代码执行）、JupyterUI 与 CLI。支持数据库、CSV、Excel、JSON、XML、YAML、TXT、Markdown 等结构化与半结构化数据源，输出可渲染为 PDF 的研究报告。训练相关依赖在单独目录中另行给出。
 
 ## 筛选速览
 
@@ -16,30 +16,31 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-8g` | |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 自主完成数据准备、分析、建模、可视化与报告生成的全流程任务
-- 支持结构化、半结构化与非结构化多类数据源的开放式深度研究
-- 模型、代码、训练数据与 Demo 均开源，基于 DeepSeek-R1-0528-Qwen3-8B 训练
-- 提供 WebUI / JupyterUI / CLI / OpenAI 风格 API 多种使用方式，vLLM 部署并给出量化配置表
+- 模型、代码、训练数据与 demo 全部开源（L22）
+- 自主执行数据准备、分析、建模、可视化、报告生成全流程（L20）
+- 提供 WebUI/WebUI v2/JupyterUI/CLI 四种交互方式
+- 提供显存配置表与量化脚本（16GB/24GB/40GB/80GB 档位）
 
 ## 适用场景
 
-- 上传数据后让模型自动完成分析并生成可导出 PDF 的研究报告
-- 本地部署私有数据分析助手，无需外部工作流或闭源 API
-- 基于开源训练数据与脚本微调出自己的数据分析智能体模型
+- 上传本地数据自动生成分析报告
+- 对 CSV/Excel/数据库等多源数据做开放式研究
+- 本地部署私有数据分析助手
+- 通过 API 接入自有数据分析流程
 
 ## 场景标签
 
-`数据分析` `微调` `科研工具` · 领域:效率与自动化
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L20: **DeepAnalyze** is the first agentic LLM for autonomous data science. It can autonomously complete a wide range of 
-> L22: - 🔍 **Open-ended data research**: Conduct deep research on diverse data sources, including structured data (Databas
-> L23: - 📊 **Fully open-source**: The model, code, training data, and demo of DeepAnalyze are all open-sourced, allowing y
+> L19: **DeepAnalyze** is the first agentic LLM for autonomous data science. It can autonomously complete a wide range of 
+> L118: - Deploy DeepAnalyze-8B via vllm: `vllm serve DeepAnalyze-8B`
+> L265: - Install packages: `torch`, `transformers`, `vllm>=0.8.5`
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `d3f3910009b4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e9b044b7a97f` · [字段定义](../../DATASET.md)*

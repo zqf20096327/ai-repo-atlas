@@ -2,15 +2,15 @@
 
 ⭐ 5,849 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/conorbronsdon/avoid-ai-writing) · [官网](https://chainofthought.show/go/avoid-ai-writing/) · 个人维护
 
-**供 AI agent 使用的技能包：检测并改写文中的 AI 写作痕迹**
+**给 AI agent 用的写作技能：检测并改写去除 AI 痕迹**
 
-以 SKILL.md 目录形式分发的写作技能，可装入 Claude Code、Codex、OpenClaw、Cursor、Hermes、Copilot 等 agent 或规则系统。提供 Rewrite/Detect/Edit 三种模式：标记 74 类 AI 写作模式，按 112 词条三档替换表做最多两轮编辑并输出单一终稿；拒绝改写源码与配置文件。可选语气档案（casual/professional 等）与确定性检测器脚本。规则与检测器按英语校准，其他语言为社区独立维护版本。
+以 SKILL.md 目录形式分发的写作技能，可在 Claude Code、Codex、OpenClaw、Hermes 等 agentskills.io 兼容 agent 中运行。提供 Rewrite/Detect/Edit 三种模式：默认模式对文本做最多两轮编辑并返回单一最终版本；Detect 仅标记 AI 写作模式；Edit 就地最小化修改散文文件并拒绝结构化内容。内置 13 类检测引擎、112 词替换表（3 层级）与 74 个模式类别的规则目录，附带 voice profile 与迭代上限参数。规则针对英文校准，其他语言依赖社区适配版。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Rewrite/Detect/Edit 三模式，最多两轮编辑并返回单一终稿
-- 74 类模式与 112 词条三档替换表（每词给出具体替换）
-- 以目录技能、单文件规则、插件包（含 7 个子技能）多形态分发
-- 可选语气档案与捆绑的确定性检测器
+- Rewrite/Detect/Edit 三模式与 --iterate 编辑轮次上限
+- 112 词条替换表（3 层级）与 74 个模式类别的确定性检测引擎
+- voice profile 五种语气设定，独立于受众上下文
+- 以插件/技能形式适配多个 agent 平台
 
 ## 适用场景
 
-- 写作或发布前清理文本中的 AI 写作痕迹
-- 只检测不改写，审计他人内容中的 AI 痕迹
-- 在 Claude Code/Codex/Cursor 等工具中作为编辑技能调用
+- 发布前扫描博客或文档中的 AI 写作痕迹
+- 让 agent 就地改写稿件并保留已有的人类段落
+- 审阅不希望被改动的内容时只做检测
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 
 > L3: Audit & rewrite content to remove AI writing patterns. A practical skill for any AI agent. Supports detect-only and 
 > L14: A portable writing skill for Claude Code, Codex, OpenClaw, Hermes, and any other agentskills.io-compatible agent. A
-> L53: - **Works across platforms** — a directory-based skill runs in Claude Code, Cowork (as a plugin), OpenClaw, Cursor 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `58c2d484a558` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `945886804e5c` · [字段定义](../../DATASET.md)*

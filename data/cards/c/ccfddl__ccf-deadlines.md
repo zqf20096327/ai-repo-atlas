@@ -1,10 +1,10 @@
 # ccfddl/ccf-deadlines
 
-⭐ 9,573 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ccfddl/ccf-deadlines) · [官网](https://ccfddl.com) · 组织维护 · 中文 README
+⭐ 9,573 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ccfddl/ccf-deadlines) · [官网](https://ccfddl.com) · 个人维护 · 中文 README
 
-**面向科研人员的会议截止日期追踪工具（网站/CLI/小程序）**
+**帮助科研人员跟踪 CCF 及全球会议截止日期**
 
-由 @ccfddl 协作维护的会议截稿日期数据集与追踪平台：以 yml 文件收录 CCF/CORE/THCPL 分级的会议信息（标题、级别、时间线、时区、地点），社区通过 PR 增改条目。访问渠道包括网站门户、微信小程序、Python CLI、Raycast 扩展、Chrome 扩展、TUI、iCal 订阅等，另提供只读 MCP 服务器（Streamable HTTP，支持分级过滤、分页、时区转换、历史录取率查询）供 AI 客户端检索。
+以 YAML 数据文件维护会议条目（标题、CCF/CORE/THCPL 等级、摘要/投稿/答复/录用日期、时区、地点），通过社区 PR 协作更新；提供网站门户、微信小程序、CLI、Raycast/SwiftBar/Chrome 扩展、TUI、iCal 订阅等多种消费形式，并提供只读 MCP 服务器供 AI 客户端查询会议、截止日期与历史录用率，支持 CCF/CORE/THCPL 过滤、分页与时区转换。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- yml 格式的会议条目数据集，含 CCF/CORE/THCPL 分级与时间线字段
-- 只读 MCP 服务器：会议检索、截稿/开奖日期、历史录取率查询
-- 多访问渠道：网站、微信小程序、Python CLI、Raycast、Chrome 扩展、TUI、iCal 订阅
-- 社区通过 Fork + PR 增改会议信息
+- YAML 格式会议条目，社区通过 fork+PR 维护
+- 只读 MCP 服务器（Streamable HTTP）供 AI 客户端查询
+- 网站/小程序/CLI/扩展/iCal 等多种访问方式
+- 记录 abstract/rebuttal/decision 等多类日期与时区约定
 
 ## 适用场景
 
-- 投稿前查各会议的截稿时间与时间线
-- 通过 iCal 订阅在日历中跟踪会议 ddl
-- 让 AI 客户端经 MCP 检索会议信息与历史录取率
+- 查询某 CCF 会议今年的投稿截止日期
+- 通过 iCal 或状态栏工具跟踪多个会议 ddl
+- 让 AI 客户端通过 MCP 检索会议信息与历史录用率
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L3: > Helping researchers track worldwide conference ddls through (agentic) collaboration.
-> L27: CCFDDL provides a read-only Model Context Protocol (MCP) server for AI clients to search conferences, check publish
+> L31: CCFDDL provides a read-only Model Context Protocol (MCP) server for AI clients to search conferences, check publish
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `6c2f46ad3532` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b50abb2131c3` · [字段定义](../../DATASET.md)*

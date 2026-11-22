@@ -2,9 +2,9 @@
 
 ⭐ 4,494 · Jupyter Notebook · 推送 2026-11-20 · [GitHub](https://github.com/oracle-devrel/oracle-ai-developer-hub) · [官网](https://oracle-devrel.github.io/oracle-ai-developer-hub/) · 组织维护
 
-**Oracle 官方 AI 开发者资源库：示例应用、教程笔记本与架构指南**
+**面向 AI 开发者的 Oracle AI 数据库与 OCI 资源集**
 
-Oracle DevRel 维护的技术资源集合，面向基于 Oracle AI Database 与 OCI 构建 AI 应用、agent 与系统的开发者。内容分四类：完整参考应用（RAG、agent、文档处理、MCP 可视化服务器等十余个）、Jupyter 教程笔记本（模型开发、向量搜索、agent 记忆、多云部署）、企业级 agent 架构与记忆工程指南（会议演讲材料），以及 oracleagentmemory 包的专项笔记本（含基准测试与 OpenAI/Claude/LangGraph 框架示例）。各条目含源码、部署配置与文档。
+Oracle DevRel 维护的技术资源仓库，按三类组织：/apps 收录十余个完整示例应用（源码、部署配置、文档），/notebooks 提供 Jupyter 教程，/guides 收录会议演讲与参考资料。主题围绕以 Oracle AI Database 26ai 作为 AI 应用的统一底座：向量检索、混合搜索、agent 记忆、RAG、MCP 服务器等，配合 OCI 服务与 LangChain/LangGraph/OpenAI Agents SDK 等框架。内容以示例与教程为主，覆盖数据库内嵌 ONNX 嵌入、DBMS_VECTOR_CHAIN、oracleagentmemory 包等特性的用法演示。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ Oracle DevRel 维护的技术资源集合，面向基于 Oracle AI Database 与 
 
 ## 能力要点
 
-- 十余个端到端参考应用（RAG、多 agent、文档处理、MCP 服务器）
-- 覆盖 LangChain/LangGraph/Ollama/OpenAI 等技术栈的教程笔记本
-- Oracle AI Database 作为 agent 统一记忆层的专项笔记本与基准测试
-- 会议演讲级 agent 架构与记忆工程指南
+- /apps 含 12 个端到端示例应用，含源码与部署配置
+- /notebooks 提供 RAG、agent 记忆、迁移等教程笔记本
+- /guides 收录 agent 架构与记忆工程会议材料
+- oracleagentmemory 包以 Oracle AI Database 作 agent 统一记忆核
 
 ## 适用场景
 
-- 搭建基于 Oracle AI Database 的 RAG 或 agent 应用时寻找参考实现
-- 学习 agent 记忆工程架构与推理模式
-- 比较多云环境下 Oracle AI Database 的接入方式
+- 学习用 Oracle AI Database 构建 RAG 与多 agent 应用
+- 参考示例把 agent 记忆落到单一数据库
+- 了解 Oracle AI Database 与各 agent 框架的集成方式
 
 ## 场景标签
 
-`教程课程` `RAG` `Agent 记忆` `精选清单` · 领域:Agent 开发
+`RAG` `Agent 记忆` `教程课程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: This repository contains technical resources to help AI Developers and Engineers build AI applications, agents, and 
-> L7: This repository is organized into several key areas:
-> L9: ### 📱 **Apps** (`/apps`)
+> L11: Applications and reference implementations demonstrating how to build AI-powered solutions with Oracle technologies
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `adc3ec4568ae` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `5de6758bb6cb` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,684 · Shell · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Astrosp/Awesome-OSINT-List) · [官网](https://astrosp.github.io/osint-web/) · 个人维护
 
-**面向安全与情报人员的 OSINT 工具与网站清单**
+**面向安全研究者的 OSINT 工具与资源清单**
 
-单文件维护的 OSINT 资源清单：按 90 余个类别（泄露数据、基础 OSINT、侦察、AI 助手、AI 搜索、LLM 安全、地理、社交媒体、威胁情报、政府记录等）收录工具与网站条目，每条含名称与一句功能描述。覆盖渗透测试、红队行动、反向搜索、信息收集、bug bounty 场景，其中 AI 板块收录聊天平台、AI 搜索、AI 检测与 LLM 漏洞测试工具。清单本身不含安装程序，仅为链接与描述的策展。给网络安全专业人员、研究者与 bug bounty 猎人查阅使用。页面顶部含 WebVetted OSINT 的赞助推广区块。
+单文件组织的 OSINT（开源情报）工具与资源精选清单，收录条目覆盖数据泄露与威胁情报、侦察与网络扫描、人物与身份解析、社交媒体、地理定位、企业与加密货币、公共记录、暗网、漏洞赏金等 13 个类别。每个条目附一句功能说明与外链。含 AI 章节，列举 AI 助手、AI 搜索引擎、学术研究工具、AI 内容检测、LLM 安全测试与对抗工具等。清单本身不提供软件安装或运行方式，仅作链接索引；页面含赞助商 WebVetted 的推广内容。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 90+ 类别组织的 OSINT 工具/网站条目，覆盖泄露、侦察、地理、威胁情报等
-- AI 板块收录 AI 助手、AI 搜索、AI 检测与验证类工具
-- LLM 安全板块收录 Garak、PyRIT、LLM Guard 等漏洞测试与防护工具
-- 每条目附一句功能描述，单文件可读
+- 13 个类别组织 OSINT 工具与资源条目
+- 含 LLM 安全章节：漏洞扫描、提示注入测试、对抗样本库、隐私审计工具
+- 覆盖泄露数据库搜索、用户名枚举、AI 内容检测等具体用途的工具链接
+- 单文件维护，条目附一句功能描述
 
 ## 适用场景
 
-- 渗透测试或红队行动前查找信息收集工具
-- 按社交媒体平台或数据类型（邮箱/电话/用户名）定位 OSINT 查询站点
-- 查找 LLM 安全测试与 AI 内容检测工具
-- 了解 OSINT 工具生态的覆盖范围
+- 渗透测试或漏洞赏金前收集目标信息
+- 排查自己的邮箱是否出现在已知数据泄露库
+- 查找用于 LLM 安全测试与红队演练的工具
+- 做身份调查时按类别查找可用工具
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 
 ## 证据(README 行号)
 
-> L5: A list of osint tools/websites for pentration testing, Reverse Searching, Red team Oprations, information gathering,
-> L14: ## Index
+> L3: A curated list of OSINT tools and resources for penetration testing, reverse searching, red team operations, informa
+> L99: ## AI
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `865c01fabcb7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `94da7219ed67` · [字段定义](../../DATASET.md)*

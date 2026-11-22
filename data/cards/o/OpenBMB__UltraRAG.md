@@ -2,9 +2,9 @@
 
 ⭐ 5,749 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/OpenBMB/UltraRAG) · [官网](https://ultrarag.github.io/) · 组织维护 · 中文 README
 
-**低代码 MCP 架构的 RAG 开发框架：YAML 编排复杂检索问答流水线**
+**低代码 MCP 框架，帮助开发者编排复杂 RAG 流水线**
 
-由清华 THUNLP、东北大学 NEUIR、OpenBMB 等联合发布的 RAG 开发框架，面向科研探索与工业原型。基于 Model Context Protocol 将检索、生成等核心组件标准化为独立 MCP Server，通过 YAML 配置实现顺序、循环、条件分支等控制结构的编排，几十行代码即可构建复杂 RAG 流水线。提供可视化 UI（画布与代码双向同步的 Pipeline Builder、知识库管理、一键生成对话 Web UI）、统一评测工作流与主流基准集成。支持 uv 源码安装与 Docker 部署，GPU 依赖锁定 CUDA 12.9。
+基于 MCP 架构的 RAG 开发框架，由清华 THUNLP、东北大学 NEUIR、OpenBMB 与 AI9stars 联合推出。将 Retriever、Generation 等核心组件封装为独立 MCP Server，通过 YAML 配置实现条件分支、循环等控制结构的编排；提供可视化 UltraRAG UI（画布与代码双向同步、内置 AI 助手、知识库管理）、统一评测流程与基准数据、一键将 Pipeline 转为对话式 Web UI。支持源码（uv 管理）与 Docker 部署，含 CPU/GPU 镜像。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- MCP Server/Client 架构，YAML 配置实现循环、条件分支等复杂编排
-- 可视化 UltraRAG UI：画布/代码双向同步、知识库管理、一键生成对话 Web UI
-- 内置标准化评测工作流与主流 RAG 基准集成
-- 一键将 Pipeline 转换为交互式对话系统
+- 核心 RAG 组件标准化为独立 MCP Server，YAML 编排条件分支与循环
+- UltraRAG UI 提供画布/代码双向同步的流水线构建与调试
+- 内置标准化评测工作流与主流研究基准
+- 支持本地执行（--no-mcp）与 MCP 两种运行模式
 
 ## 适用场景
 
-- 研究人员快速搭建和复现可对比的 RAG 实验
-- 工业原型中低代码构建带条件分支与循环的检索问答流水线
-- 结合 AgentCPM-Report 模型部署自动多步检索生成调研报告的 Deep Research 系统
+- 科研中快速搭建并复现 RAG 实验流程
+- 构建知识库文档问答与 Deep Research 报告生成系统
+- 将流水线一键转为对话式 Web UI 用于演示
+- 通过可视化界面调试中间输出与错误归因
 
 ## 场景标签
 
-`RAG` `科研工具` · 领域:知识与检索
+`RAG` `文档问答` `模型评测` `科研工具` · 领域:评测与运维
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `243130ae6eb2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `df0620aabd4b` · [字段定义](../../DATASET.md)*

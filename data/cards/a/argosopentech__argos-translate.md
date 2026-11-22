@@ -1,10 +1,10 @@
 # argosopentech/argos-translate
 
-⭐ 6,682 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/argosopentech/argos-translate) · [官网](https://www.argosopentech.com) · 组织维护
+⭐ 6,682 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/argosopentech/argos-translate) · [官网](https://www.argosopentech.com) · 个人维护
 
-**离线机器翻译 Python 库，可直接产出翻译结果**
+**离线开源机器翻译库：本地运行语言模型包翻译文本**
 
-基于 OpenNMT（经 CTranslate2）的开源离线翻译库，可作为 Python 库、命令行工具或 GUI 应用使用；通过安装 .argosmodel 语言包实现翻译，支持 30+ 种语言，并可在无直接语言对时自动经中间语言（如 es→en→fr）中转翻译。提供 argospm 包管理器、GPU（CUDA）加速开关、HTML 与文件翻译扩展库。LibreTranslate 是构建于其上的 API/Web 应用。语言包与训练脚本另行获取。
+基于 OpenNMT/CTranslate2 的 Python 离线翻译库，以库、命令行和 GUI 三种形式提供。翻译模型以 .argosmodel zip 包形式安装，支持 38+ 语言对；对未直接安装的语言对可经中间语言自动枢轴翻译（有质量损失）。模型包索引由 argospm 管理，另有付费定制模型训练服务。GPU 加速需设 ARGOS_DEVICE_TYPE=cuda，默认 CPU 运行。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- Python 库/CLI/GUI 三种使用形态
-- 30+ 语言包，缺直接语言对时自动经中间语言中转
-- CTranslate2 后端，ARGOS_DEVICE_TYPE=cuda 可启用 GPU 加速
-- 扩展库支持 HTML 与文件翻译
+- 完全离线运行，模型以 .argosmodel 包安装
+- 自动枢轴翻译：经中间语言扩展可用语言组合
+- Python 库 / CLI / GUI 三种使用形式
+- 支持 CUDA GPU 加速（ARGOS_DEVICE_TYPE 环境变量）
 
 ## 适用场景
 
-- 在无网络或隐私敏感环境做离线文本翻译
-- 为应用嵌入程序化的机器翻译能力
-- 通过 LibreTranslate 提供翻译 API 与 Web 界面
+- 无网络环境下本地翻译文本
+- 在应用中以 Python 库集成离线翻译能力
+- 为定制语言对训练自己的翻译模型
 
 ## 场景标签
 
- · 领域:NLP/机器翻译
+ · 领域:自然语言处理/机器翻译
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `104101a769dc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9a1a98c5fbf3` · [字段定义](../../DATASET.md)*

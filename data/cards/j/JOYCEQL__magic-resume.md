@@ -2,9 +2,9 @@
 
 ⭐ 11,544 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/JOYCEQL/magic-resume) · [官网](https://magicv.art) · 个人维护 · 中文 README
 
-**在线 AI 辅助简历编辑器，支持实时预览与多格式导出**
+**在线简历编辑器，支持 AI 辅助写作与实时预览**
 
-基于 TanStack Start、TypeScript 与 Framer Motion 构建的在线简历编辑器：实时预览、自定义主题、暗色模式、自动保存与本地存储，支持导出 PDF 及导入 PDF/Markdown，AI 部分为辅助写作，可配置 DeepSeek、Qwen、Doubao 等模型（直连），其他模型（OpenAI/Gemini/Anthropic）经 Cloudflare Workers 或代理接入。部署方式含 pnpm 源码运行与 Docker Compose；源码 Apache 2.0 附加非商业使用限制。
+基于 TanStack Start 与 Framer Motion 的在线简历编辑器，提供实时预览、自定义主题、深色模式、PDF 导出、自动保存与本地存储。AI 部分为 AI 辅助写作与自定义模型接入，可选配置 OrcaRouter 等 AI 提供商（支持自有 API key）；OpenAI/Gemini/Anthropic 不可直连地区可通过 AI_PROXY_URL 代理，DeepSeek/Qwen/豆包直连。提供 pnpm 源码运行与 Docker Compose 部署两种方式。许可为 Apache 2.0 附加非商业使用限制，禁止商用（含 SaaS/转售）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- AI 辅助写作，支持 DeepSeek/Qwen/Doubao 直连与自定义模型
-- 实时预览、自定义主题、暗色模式、自动保存
-- 导出 PDF，导入 PDF/Markdown，自动一页排版
-- 提供 Docker Compose 部署
+- 实时预览、自定义主题、PDF 导出与自动保存
+- AI 辅助写作与自定义模型接入（可选 OrcaRouter 或自有 API key）
+- 支持 Docker Compose 与 Cloudflare 部署，提供 AI 代理配置
+- 导入 PDF/Markdown，多种导出格式与多语言支持
 
 ## 适用场景
 
-- 在线编辑并导出个人简历
-- 用 AI 辅助润色简历内容
-- 自部署一套简历编辑服务供个人使用
+- 在线创建并导出个人专业简历
+- 用 AI 辅助撰写简历内容
+- 私有部署一套自托管的简历编辑服务
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L11: Magic Resume is a modern online resume editor that makes creating professional resumes simple and enjoyable. Built 
-> L107: - [x] AI-assisted writing
+> L12: Magic Resume is a modern online resume editor that makes creating professional resumes simple and enjoyable. Built 
+> L132: - [x] AI-assisted writing
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `5f5b4dbf7e9b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `00f805f97a34` · [字段定义](../../DATASET.md)*

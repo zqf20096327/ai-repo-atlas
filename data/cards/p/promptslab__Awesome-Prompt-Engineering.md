@@ -1,10 +1,10 @@
 # promptslab/Awesome-Prompt-Engineering
 
-⭐ 6,457 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护
+⭐ 6,457 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护 · 中文 README
 
-**提示工程与上下文工程资源清单：论文、工具、课程策展**
+**提示工程资源策展清单：为 LLM 使用者汇集论文/工具/课程**
 
-promptslab 维护的手工策展资源集合，覆盖提示工程与上下文工程领域：按主题组织论文（综述、提示优化、提示压缩、推理、上下文学习、多智能体、多模态提示、提示注入安全、文生图/音乐等）、工具、API、基准、课程与社区。入口给出新人学习路径（ChatGPT 提示工程课程、DAIR.AI 指南、OpenAI/Anthropic 官方文档）。以 GitHub README 与配套网页形式提供，条目含年份、发表会议与一句话说明。
+手工策展的 Prompt Engineering 与 Context Engineering 资源聚合清单，按论文（综述、提示优化、压缩、推理、上下文学习、Agent 提示、多模态、结构化输出、注入安全、应用、文生图/音频）等主题分类组织，收录带年份与会议信息的条目，并为初学者提供学习路径。仓库另配套网站与课程入口，通过 PR 持续更新；可见部分以论文条目为主，无运行代码与安装步骤。
 
 ## 筛选速览
 
@@ -20,20 +20,19 @@ promptslab 维护的手工策展资源集合，覆盖提示工程与上下文工
 
 ## 能力要点
 
-- 按十余个主题组织的论文清单（含 2024-2025 前沿工作）
-- 新人入门学习路径（课程、指南、官方文档）
-- 配套网站 promptslab.github.io
-- 覆盖提示优化、压缩、安全（提示注入）、多模态等方向
+- 按 10+ 主题分类的提示工程论文清单，含 ACL/NeurIPS/USENIX 等出处
+- 入门学习路径：从免费课程到 DAIR.AI 指南、官方文档与综述
+- 覆盖提示注入攻防、Agent 提示、多模态提示等前沿子方向
 
 ## 适用场景
 
-- 系统查找提示工程某一方向（如提示压缩、注入防御）的代表论文
-- 按学习路径入门提示工程
-- 跟踪推理模型时代的提示技术研究进展
+- 系统学习提示工程并按主题查找原始论文
+- 为研究选题调研提示优化与推理方向的综述
+- 为团队培训挑选提示工程课程与指南
 
 ## 场景标签
 
-`精选清单` `提示工程` · 领域:Agent 开发
+`提示工程` `精选清单` `教程课程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `fab12135aabb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `7336cf71a222` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 10,124 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/garak) · [官网](https://discord.gg/uVch4puUCs) · 组织维护
 
-**LLM 漏洞扫描器：探测幻觉、越狱、注入等安全弱点**
+**面向 LLM 应用的漏洞扫描工具：探测越狱、注入与泄露**
 
-NVIDIA 维护的命令行 LLM 红队评测工具，类比 nmap/Metasploit：以静态、动态与自适应 probe 探测模型在幻觉、数据泄露、提示注入、毒性生成、越狱等方面的失败方式，并用配套 detector 输出各 probe 的失败率。支持 Hugging Face、OpenAI、Replicate、Cohere、Groq、NIM、AWS Bedrock、gguf/llama.cpp 及任意 REST 端点作为被测生成器。结果打印到终端并记录于 jsonl 日志，附基础分析脚本。
+garak 是一个命令行 LLM 漏洞扫描工具，用静态、动态与自适应探针检测幻觉、数据泄露、提示注入、毒性生成、越狱等弱点，并对每个探针的探测结果按检测器输出 FAIL 判定与失败率，运行日志写入 .jsonl 文件并附带分析脚本。通过 --target_type/--target_name 指定被测模型，支持 Hugging Face、OpenAI、Bedrock、LiteLLM、REST 端点、gguf/llama.cpp 等多种生成器接口，部分生成器需以环境变量配置 API key。在 Linux 与 OSX 上开发，通过 pip 或 Conda+源码安装。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ NVIDIA 维护的命令行 LLM 红队评测工具，类比 nmap/Metasploit：以�
 
 ## 能力要点
 
-- 数十种 probe：DAN、编码注入、GCG 对抗后缀、训练数据重放、包幻觉等
-- 支持多种生成器目标：Hugging Face / OpenAI / Bedrock / gguf / REST 等
-- 结果以失败率与 jsonl 日志输出，附 analyse_log.py 分析脚本
+- 内置数十种探针：DAN、编码注入、数据泄露复现、包幻觉、PromptInject 等
+- 支持 Hugging Face 本地模型、OpenAI、Replicate、Cohere、Groq、Bedrock、NIM 与任意 REST 端点
+- 以 FAIL 标记与失败率输出探测结果，日志落盘为 .jsonl 并提供分析脚本
+- 提供 --list_probes 列出探针，可按插件族或单个插件指定探测范围
 
 ## 适用场景
 
-- 模型上线前进行安全红队评测
-- 对比不同模型对提示注入、越狱攻击的抵抗力
-- 扫描自部署模型（Hugging Face/gguf/NIM）的安全弱点
+- 上线前扫描自建 LLM 应用的越狱与提示注入风险
+- 检测模型是否会泄露训练数据或生成不存在的软件包
+- 对 Hugging Face 上的开源模型跑安全探针并分析失败率
 
 ## 场景标签
 
@@ -36,8 +37,9 @@ NVIDIA 维护的命令行 LLM 红队评测工具，类比 nmap/Metasploit：以�
 
 ## 证据(README 行号)
 
-> L5: `garak` checks if an LLM can be made to fail in a way we don't want. `garak` probes for hallucination, data leakage,
-> L91: `garak` needs to know what model to scan, and by default, it'll try all the probes it knows on that model, using th
+> L5: `garak` checks if an LLM-backed application can be made to fail in a way we don't want. `garak` probes for hallucina
+> L33: ## LLM support
+> L47: `garak` is a command-line tool. It's developed in Linux and OSX.
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `04e5123cbc84` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c3467dd65265` · [字段定义](../../DATASET.md)*

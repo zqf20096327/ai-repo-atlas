@@ -2,9 +2,9 @@
 
 ⭐ 26,929 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/SYSTRAN/faster-whisper) · 组织维护
 
-**基于 CTranslate2 的 Whisper 语音转写推理库**
+**Whisper 的 CTranslate2 重实现，语音转文字推理库**
 
-使用 CTranslate2 推理引擎重新实现的 OpenAI Whisper 语音转写库，提供 Python API 加载模型并对音频文件转写。支持 CPU 与 GPU 运行，支持 int8/fp16 量化与批量转写管线，内置 Silero VAD 过滤无语音片段，可输出词级时间戳。模型可按尺寸从 Hugging Face Hub 自动下载，也可用脚本将 Transformers 兼容的 Whisper 模型转换为 CTranslate2 格式。经 PyPI 安装，GPU 运行需另行安装 cuBLAS 与 cuDNN 9。
+基于 CTranslate2 推理引擎对 OpenAI Whisper 模型的重实现，面向需要本地运行语音识别的开发者。音频经 PyAV 解码（系统无需安装 FFmpeg），支持 CPU 与 GPU 运行、8-bit 量化、批量转录、词级时间戳与 Silero VAD 静音过滤；模型可按尺寸名自动从 Hugging Face Hub 下载，也提供转换脚本处理 Transformers 兼容的 Whisper 模型（含微调模型）。从 PyPI 安装，GPU 路径需另装 cuBLAS 与 cuDNN 9。
 
 ## 筛选速览
 
@@ -27,25 +27,26 @@
 
 ## 能力要点
 
-- 基于 CTranslate2 的 Whisper 推理，支持 int8/fp16 量化
-- BatchedInferencePipeline 批量转写，接口与单条转写兼容
-- 集成 Silero VAD 过滤静音段，支持词级时间戳
-- 提供模型转换脚本，可加载微调后的 Whisper 模型
+- CPU/GPU 均可运行，支持 8-bit 量化降低内存占用
+- 批量转录接口 BatchedInferencePipeline 可替换单条 transcribe
+- 词级时间戳与 Silero VAD 语音段过滤
+- 提供 ct2-transformers-converter 脚本转换任意 Transformers 兼容 Whisper 模型
 
 ## 适用场景
 
-- 把音频文件批量转写为带时间戳的文字
-- 在 CPU 或 GPU 上本地运行 Whisper 语音识别
-- 将自定义微调的 Whisper 模型转为 CTranslate2 格式部署
+- 本地批量转录音频文件生成文字稿
+- 为已有 Whisper 微调模型做 CTranslate2 格式转换与部署
+- 在无需安装系统 FFmpeg 的环境中做语音识别
 
 ## 场景标签
 
-`语音识别` `推理引擎` `模型量化` · 领域:感知与多模态
+`语音识别` `推理引擎` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L5: **faster-whisper** is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engi
-> L7: This implementation is up to 4 times faster than openai/whisper for the same accuracy while using less memory. The e
+> L57: * Python 3.9 or greater
+> L59: Unlike openai-whisper, FFmpeg does **not** need to be installed on the system. The audio is decoded with the Python
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `768ac87ec835` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `3bdcd281a142` · [字段定义](../../DATASET.md)*

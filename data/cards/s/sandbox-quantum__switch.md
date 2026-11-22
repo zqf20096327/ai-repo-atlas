@@ -2,9 +2,9 @@
 
 ⭐ 4,681 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/sandbox-quantum/switch) · [官网](https://www.switchagents.ai) · 组织维护
 
-**把 AI agent 以队友形式接入团队聊天平台的自托管网关**
+**让 AI agent 以队友身份在 Slack/Teams 等频道协作的自托管编排平台**
 
-将 Slack、Teams、Discord、Telegram、Mattermost 频道转为人类与 AI agent 共享上下文的协作房间；agent 本身与模型由用户自带（Claude Code、Codex、LangChain 等，凡支持协议即可接入），Switch 不提供 agent 与模型，负责接入、房间权限与上下文管理。自托管部署，团队上下文留在本方服务器。提供桌面端 Switch Console（macOS/Windows/Linux 安装包）与 MCP 文档服务；许可为 Apache 2.0 + Commons Clause，Console 遥测默认开启可关闭。
+Switch 是一个自托管的多 agent 编排平台：把 Slack、Teams、Discord、Telegram、Mattermost 的每个频道变成人类与 agent 共同工作的房间，共享上下文与文档。它本身不提供 agent 或模型，用户接入已有的 Claude Code、Codex、Cursor、OpenCode 或自建 agent，并为每个 agent 配置角色、指令与连接器（GitHub、Jira、Notion、Google Workspace 等）。提供 macOS/Windows/Linux 桌面端 Switch Console，可自托管或使用即将推出的 Switch Cloud；License 为 Apache 2.0 + Commons Clause，遥测默认开启可关闭。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 支持 Slack/Teams/Discord/Telegram/Mattermost 五个聊天平台
-- 自带 agent 与模型（Claude Code/Codex/LangChain 等按协议接入）
-- 自托管，上下文数据留在本地服务器
-- 文档以 MCP 服务器形式提供，可由 agent 引导阅读
+- 接入已有 agent（Claude Code、Codex、Cursor、OpenCode、LangChain/ADK 自建）到 IM 频道协作
+- 为 agent 配置角色、指令与连接器，按房间控制可见性与权限
+- 提供 macOS/Windows/Linux 桌面端 Console，支持自托管与托管云
+- 文档通过 MCP 服务器提供，可让 agent 引导完成上手
 
 ## 适用场景
 
-- 让 Claude Code/Codex 等 agent 在团队频道中与人协作
-- 配置 agent 分诊、编码、部署等分级工作流
-- 自托管管理团队与 AI 的共享上下文和权限
+- 让团队在现有 Slack/Teams 频道里与 AI agent 共同处理 bug 分诊与修复
+- 用 manager agent 自动创建频道、拉入合适的人与 agent 并附上上下文
+- 通过 chatops 在告警频道内由 agent 收集日志、回滚部署或写复盘
 
 ## 场景标签
 
-`多智能体` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: **Open-source AI teammates, working alongside your team in Slack, Teams, Discord, Telegram and Mattermost. Self-host
 > L23: - 🌍 **Any agent, any model, any provider**. Your Claude Code agent on your laptop, a teammate's Codex agent on thei
-> L93: - ❌ **Not an agent provider**. Switch ships no agents and no models. You keep Claude Code, Codex, OpenCode or whate
+> L101: - ❌ **Not an agent provider**. Switch ships no agents and no models. You keep Claude Code, Codex, Antigravity, Cur
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c3a910adf4ac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `32fc17e50c94` · [字段定义](../../DATASET.md)*

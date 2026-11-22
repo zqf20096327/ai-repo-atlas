@@ -2,45 +2,44 @@
 
 ⭐ 8,816 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zenstory-ai/oh-story-claudecode) · [官网](https://zenstory.ai/zh/oh-story) · 组织维护 · 中文 README
 
-**装进编程 Agent 的中文网文写作 skill 包（13 个技能）**
+**装进编程 Agent 的网文写作技能包：扫榜、拆文、连载、去AI味**
 
-面向起点、番茄、晋江、知乎盐言等中文网文平台的写作 skill 包，以 13 个 skill 安装进 Claude Code、Codex CLI、Antigravity、OpenCode 等 7 款编程 Agent，覆盖扫榜、拆文、大纲与正文写作、去 AI 味、封面生成全流程。写作用模型即宿主 Agent 的模型，无需 GPU 或另配模型，本地只跑确定性检查脚本（Node/Python）。以文件系统作为记忆维护设定、大纲、正文与追踪，支持写前门禁与写后校验，可导入已有书稿续写。
+Oh Story 以 14 个 skill 的形式部署进 Claude Code、Codex CLI 等 7 款编程 Agent，直接复用其所装工具的模型，无需单独配置模型或显卡。流程覆盖扫榜选材、拆解爆款、搭大纲写正文、去 AI 味、生成封面图；用文件系统作记忆，设定、大纲、正文与追踪数据分目录保存，「作者真相 / 读者已知」双时间线防止伏笔泄漏。面向起点、番茄、晋江、七猫等长短篇平台；本地工作台仅监听 127.0.0.1。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | `cpu-ok` | |
+| 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 13 个 skill 覆盖扫榜/拆文/写作/去AI味/封面全流程，支持长篇与短篇
-- 文件系统当记忆：设定、大纲、正文、追踪独立维护，含「作者真相/读者已知」双时间线
-- 本地确定性检查脚本做写作 lint 与章级门禁
-- 适配 7 款编程 Agent，`npx skills add` 一条命令安装
+- 14 个 skill 装进编程 Agent，复用其模型，无需显卡
+- 文件系统作记忆：状态卡、伏笔清单与双时间线自动回写 _tracking-state.json
+- 7 个专职角色与读写守卫，缺细纲或追踪未入账时先拦截
+- 本地脚本扫描高频 AI 句式并按语境改稿，支持 GPT-Image-2 生成封面
 
 ## 适用场景
 
-- 在 Claude Code / Codex 等编程 Agent 里续写或新开网文长篇
-- 把已写的小说反向导入成可续写工程
-- 拆解爆款对标书提取可复用情节节点与写作手法
-- 扫描并改写正文中的已知 AI 句式
+- 开新书前先扫榜看题材风口、拆爆款学黄金三章写法
+- 连载几百章时用追踪文件保持人设与伏笔一致
+- 把已有旧稿导入整理成标准目录后接着写
+- 对 AI 味重的正文做句式扫描与改稿
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+`AI 写作` `图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L25: Oh Story 覆盖长篇与短篇网络小说的全流程：**扫榜选材 → 拆解爆款 → 搭大纲写正文 → 去AI味 → 生成封面图**。
-> L30: - **适配 7 款编程 Agent** — Claude Code · Codex CLI · Google Antigravity · OpenCode · ZCode · OpenClaw · Reasonix；能读取项目文
-> L262: 不需要。oh-story-claudecode 是一组 skill，运行在你已经在用的编程 Agent 里，写作用的模型就是该 Agent 的模型；本地只跑确定性的检查脚本（Node / Python）。唯一的例外是 `stor
+> L27: Oh Story 覆盖长篇与短篇网文全流程：**扫榜选材 → 拆解爆款 → 搭大纲写正文 → 去AI味 → 生成封面图**。它以 14 个 skill 的形式装进你正在用的编程 Agent，直接复用该工具的模型，无需显卡，也不用单
+> L31: - **适配 7 款编程 Agent** — Claude Code · Codex CLI · Google Antigravity · OpenCode · ZCode · OpenClaw · Reasonix；支持子代理与
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `2a3811373605` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9022d5a7411c` · [字段定义](../../DATASET.md)*

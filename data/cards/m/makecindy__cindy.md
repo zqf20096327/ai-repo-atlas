@@ -2,15 +2,15 @@
 
 ⭐ 10,361 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/makecindy/cindy) · [官网](https://cindy.app) · 组织维护 · 中文 README
 
-**开箱即用的开源 AI Agent 客户端，在本地完成实际工作**
+**开源开箱即用的 AI Agent 客户端，跨设备统一管理 agent**
 
-Cindy 是开源的桌面与移动 AI Agent 客户端（Electron + Expo/React Native，pnpm monorepo），把多种 harness（首批支持 Claude Code 与 Codex）与模型整合为一个可完成实际任务的 agent，可在任务中途切换 harness×模型组合。运行在用户本机，可操控浏览器、电脑与手机，支持记忆、技能、自动化、MCP 与插件机制。模型接入方式包括官方云服务、Claude Code/Codex 订阅复用、自有 API key 或本地模型；可选择跳过登录仅用本地 agent。客户端 Apache-2.0 开源，后端服务不在本仓库。
+Cindy 是一个开源 AI Agent 客户端，包含 Electron 桌面端与 React Native 移动端，以 pnpm monorepo 组织。它将 Claude Code、Codex 与 Pi 三种 agent harness 集成到统一界面下，提供多设备会话延续、跨设备模型提供方共享、手机端远程桌面控制、automations 定时任务、Skills/插件/MCP 扩展与多 agent 协作编排。客户端本身免费并采用 Apache-2.0 许可，默认连接官方云服务，也支持免登录本地模式；官方分发构建含 TapDB 统计，可在设置中关闭。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,27 @@ Cindy 是开源的桌面与移动 AI Agent 客户端（Electron + Expo/React Nat
 
 ## 能力要点
 
-- 整合 Claude Code 与 Codex 等多 harness，模型与 harness 可混用并在任务中切换
-- 本地运行，可驱动浏览器、电脑与手机
-- 支持记忆、技能、自动化调度、MCP 与插件（SkillHub 安装）
-- 可通过官方服务、已有 Coding Plan、自有 API key 或本地模型接入
+- 集成 Claude Code、Codex、Pi 三种 agent harness，可切换并保留会话
+- 多设备同一会话延续，跨设备共享模型提供方（订阅/API/本地模型）
+- 手机端内置远程桌面可操作连接的电脑，无需自建服务器
+- 支持 Skills、插件、MCP 扩展与多 agent 分工协作
 
 ## 适用场景
 
-- 在桌面和手机上用一个 agent 完成项目中的实际工作
-- 复用已付费的 Claude Code / Codex 订阅而不重复计费
-- 通过 MCP 把内部工具接入 agent 的能力范围
+- 在多台电脑与手机之间延续同一个 agent 会话
+- 把已有的 Claude Code/Codex 订阅接入统一客户端界面
+- 让多个 agent 分别负责规划、实现与独立评审
+- 通过 Slack/Telegram 通道或定时任务交接日常工作
 
 ## 场景标签
 
-`AI 助手` `编码 Agent` · 领域:编码与开发
+`编码 Agent` `多智能体` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L12: Cindy is an open-source AI agent that works out of the box. She brings multiple
-> L17: apps. The first supported harnesses are **Claude Code** and **Codex** — more are
-> L24: This repository is the open-source **client** for Cindy — the desktop and mobile
+> L12: Cindy is an **open-source AI agent, ready out of the box and yours to shape**.
+> L41: Already using Claude Code or Codex? Cindy brings them together with **Pi**,
+> L109: This repository contains Cindy's open-source **desktop and mobile clients** and
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `afa5880c04db` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `469edabc4a47` · [字段定义](../../DATASET.md)*

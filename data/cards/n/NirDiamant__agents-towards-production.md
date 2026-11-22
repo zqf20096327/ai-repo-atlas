@@ -2,9 +2,9 @@
 
 ⭐ 21,936 · Jupyter Notebook · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/NirDiamant/agents-towards-production) · [官网](https://diamant-ai.com) · 个人维护
 
-**面向开发者的生产级 GenAI Agent 教程合集**
+**面向开发者的生产级 GenAI Agent 代码教程集**
 
-以代码优先的教程仓库形式，收录 28 个覆盖 GenAI Agent 生产环节的教程，主题包括有状态工作流、向量记忆、实时网络搜索 API、Docker 部署、FastAPI 端点、安全护栏、GPU 扩展、浏览器自动化、微调、多 Agent 协调、可观测性、评估与 UI 开发。教程由多个公司以赞助形式提供，附作者付费课程、Newsletter 与 YouTube 频道。定位读者为希望将 Agent 从原型推进到企业部署的开发者。
+以可运行代码教程组织的教学仓库：28 个教程覆盖有状态工作流、向量记忆、实时网络搜索 API、Docker 部署、FastAPI 端点、安全护栏、GPU 扩展、浏览器自动化、微调、多 Agent 协调、可观测性、评测与 UI 开发，每个教程独立成目录并附带可直接运行的 notebook 或代码文件。面向需要将 GenAI Agent 从原型推进到企业部署的开发者。另含配套书籍、YouTube 系列与社区渠道。
 
 ## 筛选速览
 
@@ -27,25 +27,25 @@
 
 ## 能力要点
 
-- 28 个代码优先的生产级 Agent 教程
-- 覆盖部署、安全护栏、GPU 扩展、多 Agent 协调、可观测性与评估等生产环节
-- 含 LangGraph、Redis、Mem0、RunPod 等公司贡献的分步教程
+- 28 个生产级教程，含可直接运行的 notebook 与代码文件
+- 覆盖部署、记忆、安全护栏、可观测性、评测等完整 Agent 栈
+- 含多家公司的赞助式分步教程（LangGraph、Redis、Tavily、Mem0 等）
+- 配套书籍、YouTube 视频系列与社区（Reddit/Discord）
 
 ## 适用场景
 
-- 学习如何把 Agent 原型推进到生产部署
-- 查找 Docker/FastAPI/GPU 扩展等 Agent 工程化环节的代码示例
-- 了解多 Agent 协调与可观测性的实现方式
+- 学习把 Agent 原型部署为生产服务（Docker、FastAPI、GPU 扩展）
+- 为 Agent 接入实时网络搜索、记忆系统等生产组件
+- 了解多 Agent 协调、评测与可观测性的实现方式
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `多智能体` `LLM 可观测性` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: **Agents Towards Production is your go‑to resource for building production‑ready GenAI agents that scale from protot
-> L28: > **28 production-grade tutorials** covering stateful workflows, vector memory, web search APIs, Docker deployment,
-> L32: Companies that have contributed step-by-step tutorials to this repository.
+> L9: **Agents Towards Production is your go‑to resource for building production‑ready GenAI agents that scale from protot
+> L226: All knowledge is delivered through runnable tutorials covering orchestration, memory, observability, deployment, s
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `a3ccd5624331` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `819e2e48f5eb` · [字段定义](../../DATASET.md)*

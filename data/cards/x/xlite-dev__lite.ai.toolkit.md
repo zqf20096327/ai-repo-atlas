@@ -1,10 +1,10 @@
 # xlite-dev/lite.ai.toolkit
 
-⭐ 4,450 · C++ · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/xlite-dev/lite.ai.toolkit) · [官网](https://github.com/xlite-dev/lite.ai.toolkit) · 组织维护 · 中文 README
+⭐ 4,450 · C++ · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/xlite-dev/lite.ai.toolkit) · [官网](https://github.com/xlite-dev/lite.ai.toolkit) · 个人维护 · 中文 README
 
-**C++ AI 推理工具箱：100+ 模型的检测/识别/抠图/生成实现**
+**给 C++ 开发者的 100+ 视觉 AI 模型推理工具包**
 
-轻量级 C++ 工具箱，以一致语法（lite::cv::Type::Class）封装 300+ 个模型 C++ 实现与 500+ 权重，覆盖目标检测、人脸检测/识别/对齐/属性、分割、抠图、风格迁移、着色、超分、Stable-Diffusion 等。支持 ONNXRuntime（默认）、MNN、NCNN、TNN 后端及 TensorRT GPU 推理；默认依赖仅 OpenCV 与 ONNXRuntime。以源码构建（build.sh，Linux）或预编译库形式提供，供开发者集成到 C++ 工程。
+一个 C++ AI 模型推理工具包，将 300+ 个模型的 C++ 实现与 500+ 份预训练权重封装为统一的 lite::cv::Type::Class 语法，覆盖目标检测、人脸检测/识别/对齐/属性、分割、抠图、风格迁移、上色、超分、Stable Diffusion、FaceFusion 等。默认仅依赖 OpenCV 与 ONNXRuntime，可选启用 MNN、NCNN、TNN、TensorRT 后端，提供预编译库下载与源码构建（build.sh，v0.2.0 起仅支持 Linux，在 Ubuntu 20.04.6 测试），当前主要由 @wangzijian1010 维护。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 300+ C++ 实现与 500+ 权重，覆盖检测/人脸/分割/抠图/生成等类别
-- 多推理后端：ONNXRuntime（默认）、MNN、NCNN、TNN、TensorRT
-- 默认依赖仅 OpenCV 与 ONNXRuntime
-- 提供跨平台支持矩阵（Linux/MacOS/Windows，部分 Android 计划中）
+- 统一 lite::cv::Type::Class 语法的 300+ 模型 C++ 实现
+- 默认仅依赖 OpenCV 与 ONNXRuntime
+- 支持 TensorRT（需 TensorRT 10.x+ 与 CUDA 12.x+）、MNN、NCNN、TNN 多后端
+- 提供预编译库与测试资源下载（tag/v0.2.0）
 
 ## 适用场景
 
-- 在 C++ 工程中集成 YOLOv5 等检测模型
-- 构建人脸识别、人脸属性分析应用
-- 视频抠图与人像分割处理
-- 通过 TensorRT 在 NVIDIA GPU 上加速推理
+- 在 C++ 项目中运行 YOLO 系列目标检测
+- 离线执行人脸识别、对齐与年龄/性别/情绪属性分析
+- 人像/头发抠图与背景移除
+- CPU 或 NVIDIA GPU 上部署分割与风格迁移模型
 
 ## 场景标签
 
-`目标检测` `人脸识别` `图像生成` `图像视频处理` · 领域:内容生成
+`图像生成` `人脸识别` `目标检测` `图像视频处理` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L3: 🛠**Lite.Ai.ToolKit**: A lite C++ toolkit of 100+ Awesome AI models, such as Object Detection, Face Detection, Face R
-> L25: * **Many Models Supported.** **300+** C++ implementations and **500+** weights 👉 **Supported-Matrix**.
+> L20: * **Minimum Dependencies.** Only **OpenCV** and **ONNXRuntime** are required by default, see build.
+> L64: The goal of lite.ai.toolkit is not to abstract on top of MNN and ONNXRuntime. So, you can use lite.ai.toolkit mixed
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `873c44cf17a3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `e5c8f8f78f9b` · [字段定义](../../DATASET.md)*

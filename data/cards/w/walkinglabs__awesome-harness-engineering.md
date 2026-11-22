@@ -1,17 +1,17 @@
 # walkinglabs/awesome-harness-engineering
 
-⭐ 4,776 · CC0-1.0 · 推送 2026-11-09 · [GitHub](https://github.com/walkinglabs/awesome-harness-engineering) · 个人维护
+⭐ 4,776 · CC0-1.0 · 推送 2026-11-09 · [GitHub](https://github.com/walkinglabs/awesome-harness-engineering) · 组织维护
 
-**harness 工程策展清单：文章、基准、规范与开源项目**
+**面向 agent 开发者的 harness 工程工具与文章清单**
 
-由 walkinglabs 维护的 awesome 类清单，收录围绕 harness 工程（塑造 AI agent 运行环境使其可靠工作）的文章、playbook、基准、规范与开源项目。内容按课程学习、基础文献、上下文与记忆、约束与安全自治、规范与工作流设计、评测与可观测性等章节组织，覆盖 Anthropic、OpenAI、LangChain、Thoughtworks 等来源的实践资料，并声明通用 agent 工具不在收录范围，除非直接涉及 harness 设计。
+Awesome 类策展清单，聚焦 harness engineering——通过环境塑形使 AI agent 可靠工作的实践。条目按课程、基础文献、上下文与记忆系统、约束与安全自治、运行可靠性等主题组织，收录官方指南、实践手册、开源工具与数据集（如 1,256 个 harness 的 HARNESS-DB 数据库）。明确声明范围限定：泛用 agent 工具不入列，仅收录直接涉及 harness 设计、上下文管理、评测、运行时控制等可靠性原语的资源。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | CC0-1.0 |
+| 许可风险 | `viral` | CC0-1.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 按学习资源、上下文/记忆、约束/安全自治、规范驱动开发、评测与可观测性等主题组织条目
-- 收录 Anthropic、OpenAI、LangChain、Thoughtworks、OpenHands 等来源的 harness 工程文章与实践
-- 明确划定收录边界：通用 agent 工具不收，除非直接涉及 harness 设计与可靠性原语
+- 按 Context/Memory、Guardrails、Operational Reliability 等主题分类组织
+- 收录 Anthropic、OpenAI、LangChain 等来源的 harness 工程文章
+- 包含开源工具条目（mcp-guardian、APort 等）与 HARNESS-DB 开放数据集
+- 明确声明收录范围：只收直接覆盖 harness 设计与可靠性原语的资源
 
 ## 适用场景
 
-- 查找让长时运行编码/研究 agent 更可靠的工程实践与方法论
-- 系统学习 harness 工程相关的课程、文章与开源项目
-- 为 agent 项目寻找评测、安全约束与上下文管理的参考方案
+- 为长时间运行的 coding agent 查找上下文管理与评测资料
+- 调研 agent harness 的设计模式与安全自治方案
+- 查找 agent 循环、重试、熔断等可靠性工程实践文章
 
 ## 场景标签
 
-`精选清单` `教程课程` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3: > A curated list of articles, playbooks, benchmarks, specifications, and open-source projects for harness engineerin
-> L5: Harness engineering sits at the intersection of context engineering, evaluation, observability, orchestration, safe 
+> L3: > Harness engineering is the practice of shaping the environment around AI agents so they can work reliably.
+> L7: Generic agent tooling is out of scope unless the page directly covers harness design, context management, evaluation
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `a35bd9ef50b4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `3fa53ab7f0e3` · [字段定义](../../DATASET.md)*

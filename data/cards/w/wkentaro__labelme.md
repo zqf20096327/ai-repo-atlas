@@ -2,9 +2,9 @@
 
 ⭐ 16,344 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/wkentaro/labelme) · [官网](https://labelme.io) · 个人维护
 
-**给 CV 研究者/开发者的图形化图像标注工具，含 AI 辅助标注**
+**给 CV 研究者和开发者的图形化图像标注工具，含 AI 辅助标注**
 
-用 Python 与 Qt 编写的图形图像标注工具，灵感来自 MIT labelme 项目。支持多边形、矩形、圆、线、点等图元标注，覆盖图像分类 flag、视频标注场景，可将标注导出为 VOC 或 COCO 格式数据集，标注结果以 JSON 文件保存。AI 机制方面：内置 SAM/EfficientSAM 做点到多边形/掩码辅助标注，YOLO-world/SAM3 支持文本到标注。安装途径包括 pip、独立可执行文件（付费）与 Linux 发行版包。v7 起不提供稳定 Python API，仅保证 CLI、JSON 格式与配置文件三个公开接口。
+用 Python 与 Qt 编写的图形图像标注工具，灵感来自 MIT labelme 项目。支持多边形、矩形、圆、线、点五类基本图元标注，以及分类 flag、视频标注；标注结果以 JSON 保存，可导出 VOC、COCO 格式数据集用于语义/实例分割。提供 21 种语言界面。v7 起使用 PySide6（Qt6），最低要求 Python 3.12 与 64 位系统；作为应用而非库发布，无稳定 Python API，稳定接口为 CLI、JSON 标注格式与配置文件。可通过 pip 安装或下载独立可执行程序（一次性付费）。
 
 ## 筛选速览
 
@@ -27,27 +27,26 @@
 
 ## 能力要点
 
-- 多图元标注：多边形、矩形、圆、线、点及分类 flag
-- AI 辅助标注：SAM/EfficientSAM 点到多边形/掩码，YOLO-world/SAM3 文本到标注
-- 导出 VOC/COCO 格式数据集，标注以 JSON 保存
-- 支持 20 种语言界面
+- 多边形/矩形/圆/线/点标注、分类 flag 标注与视频标注
+- AI 辅助点转多边形/掩码标注（SAM、EfficientSAM），文本转标注（YOLO-world、SAM3）
+- 导出 VOC 与 COCO 格式数据集
+- 21 种语言界面，标注保存为 JSON
 
 ## 适用场景
 
-- 为语义分割和实例分割制作训练数据集
-- 给图像分类项目做图片标注与清洗
-- 标注视频数据
-- 用文本描述配合模型自动生成标注草稿
+- 为语义/实例分割模型制作训练数据集
+- 给图像做分类标注与数据清洗
+- 标注视频帧
+- 用 SAM 辅助快速勾画多边形轮廓
 
 ## 场景标签
 
- · 领域:计算机视觉/数据标注工具
+ · 领域:计算机视觉/数据标注
 
 ## 证据(README 行号)
 
 > L12: Labelme is a graphical image annotation tool inspired by <http://labelme.csail.mit.edu>.\
 > L36: - [x] AI-assisted point-to-polygon/mask annotation by SAM, EfficientSAM models
-> L91: - **Qt binding:** the GUI moved from PyQt5 (Qt5) to PySide6 (Qt6). `pip install labelme` now pulls PySide6 instead 
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4b585278f85a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `30b9d5d224af` · [字段定义](../../DATASET.md)*

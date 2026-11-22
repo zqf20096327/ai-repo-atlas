@@ -1,10 +1,10 @@
 # Narcooo/inkos
 
-⭐ 11,383 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Narcooo/inkos) · 个人维护 · 中文 README
+⭐ 11,383 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Narcooo/inkos) · 组织维护 · 中文 README
 
-**面向小说/剧本/互动影游创作的 AI Agent 写作系统**
+**面向小说/剧本/互动影游创作的 AI Agent 工作台**
 
-InkOS 是故事创作与多语言翻译的 AI Agent 系统，覆盖长篇小说、短篇、剧本、分镜、互动影游、开放世界与翻译等创作形态，提供 Studio 网页工作台、TUI 与 CLI 三种交互入口。核心机制包括 pi-agent 统一执行 Harness、19 个内置专业 SKILL.md、SQLite FTS5/BM25 本地检索、章节级原子落盘与可恢复任务、剧情多线推演、定性审稿与去 AI 味、文风仿写、EPUB 导出。模型接入通过 provider bank 支持多家服务商与自定义端点，可被 Claude Code/OpenClaw 等 Agent 以 Skill 方式调用。需 Node.js 22.16+，v2.0 为开发版本分支。
+InkOS 是一个故事创作与多语言翻译的 AI Agent 系统，覆盖长篇连载、独立短篇、剧本剧作、同人创作、互动影游、开放世界与长文翻译。v2.0 收敛为基于 pi-agent 的统一生产 harness，模型负责理解与调用能力，InkOS 负责状态管理、原子落盘与产物真实性；内置 19 个专业 Skills（SKILL.md 格式），用 SQLite FTS5/BM25 做本地检索，提供 Studio（网页工作台）、TUI、CLI 三种交互形式，并通过 OpenClaw Skill 暴露给外部 Agent。需 Node.js 22.16+，npm 全局安装，使用需自行配置 LLM 服务与 API Key。
 
 ## 筛选速览
 
@@ -16,21 +16,21 @@ InkOS 是故事创作与多语言翻译的 AI Agent 系统，覆盖长篇小说�
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 长篇/短篇/剧本/分镜/互动影游/翻译共用一套 pi-agent 生产 Harness
-- 19 个内置专业 SKILL.md 与 SQLite FTS5/BM25 统一本地检索
-- 剧情多线推演、定性审稿、去 AI 味、文风仿写、EPUB 导出
-- Studio / TUI / CLI / OpenClaw Skill 多入口，provider bank 内置多家模型服务
+- 支持 Studio/TUI/CLI/OpenClaw 四种交互入口，共用同一执行内核
+- 内置 19 个专业创作 Skills，标准 SKILL.md 格式可扩展覆盖
+- SQLite FTS5/BM25 本地检索故事记忆与材料库，索引可重建
+- 长篇上下文按 protected/compressible 分层，带安全章节工作区与原子提交
 
 ## 适用场景
 
-- 用 AI 智能体连载长篇小说并跟踪角色、伏笔与状态
-- 一键产出含大纲、简介、封面的完整短篇并导出 EPUB
-- 通过自然语言定义并游玩开放世界或分支互动故事
-- 把已有小说导入后继续 AI 续写
+- 从创作简报生成长篇小说的大纲、角色与章节并持续连载
+- 批量生成带审稿记录和封面的商业短篇
+- 用自然语言搭建开放世界或分支互动剧情
+- 导入已有小说续写并管理伏笔与角色状态
 
 ## 场景标签
 
@@ -39,7 +39,8 @@ InkOS 是故事创作与多语言翻译的 AI Agent 系统，覆盖长篇小说�
 ## 证据(README 行号)
 
 > L17: InkOS 是一个面向故事创作与多语言翻译的 AI Agent 系统：长篇连载、独立短篇、剧本剧作、同人番外、仿写续写、互动影游、开放世界和长文翻译，都可以从同一个工作台开始。支持 Studio、TUI、CLI 交互形式，把创意、
-> L4:  Story Creation AI Agent 面向长短篇小说、剧本剧作、互动影游、IP 内容与多语言翻译的创作智能体系统
+> L45: InkOS 2.0 把“Chat Agent 调工具”和“各类作品管线”收敛成一套围绕 pi-agent 的生产 harness。模型负责理解、提议和调用能力；InkOS 负责确认、上下文、状态、原子落盘和产物真实性。长篇、短篇、
+> L49: - **19 个内置专业 Skills**：长篇写作 / 审稿、商业短篇、Play、剧本、分镜、互动影游、翻译、拆稿、市场研究、导入、封面与去 AI 味都拥有独立 `SKILL.md`；各作品类型复用 Skill 架构，不复用不适
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `418a8aba4564` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ea2e66ea5386` · [字段定义](../../DATASET.md)*

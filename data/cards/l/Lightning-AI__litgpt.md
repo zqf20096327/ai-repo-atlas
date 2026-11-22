@@ -2,9 +2,9 @@
 
 ⭐ 13,759 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Lightning-AI/litgpt) · [官网](https://lightning.ai) · 组织维护
 
-**给开发者用的 LLM 预训练/微调/部署全流程库**
+**为开发者提供 20+ LLM 的从零实现与预训练、微调、部署配方**
 
-以从零实现方式提供 20+ 开源 LLM（Llama、Qwen、Phi、Gemma、Mistral 等）的 PyTorch 库，通过统一 CLI 提供下载、chat、finetune、pretrain、continued pretraining、evaluate、serve 等工作流，并附 YAML 训练配置。支持 LoRA/QLoRA/Adapter 等参数高效微调、Flash Attention、FSDP 多卡与 TPU、4/8/16 位量化与权重格式导出；模型下载可能需要额外访问令牌。Apache 2.0 许可，pip 安装或从源码运行，由 Lightning AI 维护。
+LitGPT 以从零实现、无抽象层的方式提供 20+ 开源 LLM（Llama、Qwen、Phi、Mistral、Gemma 等）的实现，配套 CLI 与 YAML 配方覆盖 pretrain、finetune、continued pretraining、evaluate、serve、chat 等工作流。内置 Flash Attention v2、FSDP 多 GPU、TPU/XLA 支持、FP16/BF16/4-bit/8-bit 量化及 LoRA/QLoRA/Adapter 等参数高效微调方法，支持 1-1000+ GPU/TPU 规模训练，Apache 2.0 许可，可通过 PyPI 安装或从源码运行。
 
 ## 筛选速览
 
@@ -25,27 +25,27 @@
 
 ## 能力要点
 
-- 统一 CLI 覆盖下载/chat/finetune/pretrain/evaluate/serve 工作流
-- 支持 LoRA、QLoRA、Adapter 与 Adapter v2 参数高效微调
-- Flash Attention v2、FSDP 多 GPU、TPU/XLA 支持
-- 4-bit/8-bit 量化降低显存需求
+- 20+ LLM 从零实现，单文件结构、无抽象层
+- CLI 一条命令完成 serve/finetune/pretrain/chat/evaluate
+- LoRA、QLoRA、Adapter 等参数高效微调与 4/8-bit 量化
+- YAML 训练配方与可自定义的全部训练参数配置
 
 ## 适用场景
 
-- 在自己的数据上微调开源 LLM
-- 从头预训练并试验最新研究想法
-- 把模型部署为推理 API 集成到应用中
-- 在 MMLU、TruthfulQA 等基准上评估模型
+- 在自己的数据上微调或继续预训练开源 LLM
+- 通过 litgpt serve 将模型部署为可被应用调用的 Web API
+- 用 MMLU、TruthfulQA 等任务评估模型表现
+- 阅读无抽象的模型实现代码做研究实验
 
 ## 场景标签
 
-`微调` `模型量化` `模型训练` `模型评测` · 领域:评测与运维
+`微调` `模型量化` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L3: **20+ high-performance LLMs with recipes to pretrain, finetune, and deploy at scale.**
-> L181: # litgpt [action] [model]
-> L345: ✅ State-of-the-art optimizations: Flash Attention v2, multi-GPU support via fully-sharded data parallelism, option
+> L41: # Finetune, pretrain, and inference LLMs Lightning fast ⚡⚡
+> L176: Use the command line interface to run advanced workflows such as pretraining or finetuning on your own data.
+> L183: litgpt  serve     meta-llama/Llama-3.2-3B-Instruct
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9b14745e33e1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `61e75ed84c65` · [字段定义](../../DATASET.md)*

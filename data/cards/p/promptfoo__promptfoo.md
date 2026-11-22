@@ -2,9 +2,9 @@
 
 ⭐ 27,523 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/promptfoo/promptfoo) · [官网](https://promptfoo.dev) · 组织维护
 
-**为开发者提供 LLM 应用评估与红队扫描的 CLI/库**
+**面向开发者的 LLM 应用评测与红队扫描工具**
 
-promptfoo 是一个用于评估与红队测试 LLM 应用的 CLI 和库：支持对 prompt、agent 与 RAG 做自动化评估，进行漏洞扫描与红队测试，并排比较多个模型，在 CI/CD 中自动执行检查，通过代码扫描审查 PR 中的 LLM 安全与合规问题。评估可 100% 本地运行，配置采用声明式 YAML 式写法，附 Web 查看器展示评估矩阵与安全报告。安装途径覆盖 npm、brew、pip，也可用 npx 免安装运行。README 声明该项目现为 OpenAI 旗下，仍以 MIT 许可开源。
+promptfoo 是一个 CLI 与库，用于对 LLM 应用（提示、agent、RAG）做自动化评测与红队测试。核心机制：声明式配置定义用例，命令行运行 eval，提供网页查看器对比模型输出，支持在 CI/CD 中自动化检查，并生成安全漏洞报告。评测在本地运行，无需上传提示内容。多数 LLM 提供商需配置 API key 环境变量。通过 npm/brew/pip 安装。
 
 ## 筛选速览
 
@@ -27,27 +27,26 @@ promptfoo 是一个用于评估与红队测试 LLM 应用的 CLI 和库：支持
 
 ## 能力要点
 
-- 自动化评估 prompt、agent 与 RAG 应用
-- 红队测试与 LLM 漏洞扫描并生成安全报告
-- 并排比较 OpenAI、Anthropic、Azure、Bedrock、Ollama 等模型
-- CI/CD 集成与 PR 代码扫描审查
+- 声明式配置的 LLM 评测框架，CLI 运行与网页查看器对比结果
+- 红队测试与漏洞扫描，生成安全报告
+- CI/CD 集成与代码扫描审查 PR
+- 评测 100% 本地运行，提示不离开本机
 
 ## 适用场景
 
-- 发布前对 prompt 与 agent 做回归评估
-- 对 LLM 应用做红队测试找出漏洞
-- 在 CI/CD 流水线中自动执行 LLM 检查
-- 团队共享评估结果并并排比较模型
+- 上线前对提示词和模型做多组自动化评测
+- 对 LLM 应用做红队测试与漏洞扫描
+- 在 CI/CD 流水线中自动化检查 LLM 输出质量
+- 并排对比多家模型供应商的表现
 
 ## 场景标签
 
-`模型评测` `网络安全` · 领域:评测与运维
+`提示工程` `模型评测` `网络安全` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9:  <code>promptfoo</code> is a CLI and library for evaluating and red-teaming LLM-based apps. Stop using trial-and-err
-> L46: - **Test your prompts and models** with automated evaluations
-> L48: - **Compare models** side-by-side (OpenAI, Anthropic, Azure, Bedrock, Ollama, and more)
+> L47: - **Secure your LLM apps** with red teaming and vulnerability scanning
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0916e5a9f9d0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `247ca801b921` · [字段定义](../../DATASET.md)*

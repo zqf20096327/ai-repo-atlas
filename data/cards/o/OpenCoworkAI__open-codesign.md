@@ -2,9 +2,9 @@
 
 ⭐ 8,249 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/OpenCoworkAI/open-codesign) · [官网](https://opencoworkai.github.io/open-codesign/) · 组织维护 · 中文 README
 
-**本地优先的开源 AI 设计桌面应用：提示词生成原型/幻灯/PDF**
+**开源桌面 AI 设计工具：提示词生原型/幻灯/PDF，BYOK 多模型**
 
-MIT 许可的 Electron 桌面应用，将提示词转化为原型、幻灯片、营销素材等产物，支持导出 HTML/PDF/PPTX/ZIP/Markdown。采用 BYOK 模式，可用 Claude、GPT、Gemini、DeepSeek、Kimi、GLM、Ollama、OpenRouter 等 20+ 模型或任意 OpenAI 兼容端点，也可一键导入 Claude Code/Codex 既有配置或 ChatGPT 订阅登录。生成过程可见 agent 待办与工具调用、可中断；支持元素级批注重写、AI 微调滑杆、本地设计中心与版本历史。安装包目前未签名，macOS Sequoia 15+ 需手动执行 xattr 命令绕过 Gatekeeper。
+Electron 桌面应用，将提示词转为原型、幻灯片、营销素材与可导出文件（HTML/PDF/PPTX/ZIP/Markdown），本地运行、MIT 许可。通过 BYOK 接入 Claude、GPT、Gemini、DeepSeek、Kimi、GLM、Ollama 或任意 OpenAI 兼容端点，也支持 ChatGPT 订阅登录使用 Codex 模型，并可一键导入已有的 Claude Code / Codex 配置。生成过程由 agent 规划、写文件、自检，提供活动面板、可中断生成、元素点选局部改写、参数滑杆微调、本地会话版本留存。安装包未签名/公证，macOS Sequoia 需手动放行。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ MIT 许可的 Electron 桌面应用，将提示词转化为原型、幻灯片、
 
 ## 能力要点
 
-- 提示词生成交互原型/幻灯/PDF，导出 HTML/PDF/PPTX/ZIP/Markdown
-- BYOK 支持 20+ 模型及任意 OpenAI 兼容端点，一键导入 Claude Code/Codex 配置
-- 生成过程实时可见 agent 待办与工具调用，可中断、可队列追加指令
-- 元素级批注局部重写与 AI 微调滑杆（颜色/间距/排版）
+- BYOK 多模型：Claude、GPT、Gemini、DeepSeek、Kimi、GLM、Ollama 及 OpenAI 兼容端点
+- 支持 ChatGPT 订阅登录使用 Codex 模型，一键导入 Claude Code / Codex 配置
+- agent 生成过程可见、可中断，支持元素级 pin 局部改写与参数滑杆
+- 导出 HTML、PDF、PPTX、ZIP、Markdown，数据本地存储
 
 ## 适用场景
 
-- 用自己已有的 API key 或订阅在本地生成网页原型和幻灯片
-- 不订阅云端设计工具，离线完成 prompt 到产物的设计流程
-- 对生成结果做元素级批注修改而非整页重生成
+- 用提示词快速生成网页原型和设计稿
+- 本地生成幻灯片和营销素材并导出 PPTX/PDF
+- 已有 Claude Code 或 Codex key 的开发者复用现有配置做设计
 
 ## 场景标签
 
@@ -37,9 +37,8 @@ MIT 许可的 Electron 桌面应用，将提示词转化为原型、幻灯片、
 
 ## 证据(README 行号)
 
-> L32: Turn a prompt into a polished prototype, slide deck, or marketing asset, locally, with the model you already use.
 > L34: **Open CoDesign is the open-source Claude Design alternative** — built for people who want the speed of AI-native d
-> L74: From a blank prompt to a finished artifact, the agent plans, writes, self-checks, and ships something with hover st
+> L91: |Open source|✅ MIT|❌ Closed|❌ Closed|❌ Closed|
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f3948cd36567` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1e3b05d6c4c6` · [字段定义](../../DATASET.md)*

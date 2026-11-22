@@ -2,43 +2,44 @@
 
 ⭐ 14,869 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/cactus-compute/cactus) · [官网](https://cactuscompute.com) · 组织维护
 
-**面向手机与可穿戴设备的本地 LLM/VLM 推理引擎**
+**消费级设备上的本地文本/语音/视觉模型运行库**
 
-Cactus 是面向移动设备与可穿戴设备的端侧 AI 推理引擎，以 C/C++ 实现分层组件：Engine 层提供 OpenAI 兼容的文本、语音、视觉接口（补全、流式、工具调用、转录、嵌入、RAG、向量索引），Graph 层为张量算子，Kernels 层提供 ARM NEON SIMD 内核，Quants 层支持 4-bit 到 1-bit 旋转码本量化，Hybrid 层可按本地置信度将难题路由到云端。提供 Python 包与 CLI，及 Swift/Kotlin/Flutter/React Native/Python/Rust 绑定；附 Needle 26m 参数端上工具调用模型。README 给出多设备推理速度与量化精度基准表。
+单个 Python 包提供在消费设备本地运行文本、语音与视觉模型的能力：Needle 支持工具调用与结构化数据抽取和文本嵌入，Whistle 对七种语言语音转录并输出词级时间戳，Mirage 描述图像并抽取结构化数据，另支持模型微调。引擎与模型权重首次使用时下载缓存，推理本地运行且不依赖 JAX。提供 Python API 与 CLI；Mac 上 Apple silicon 可通过 cactus-mlx 运行 CQ 检查点并启动 OpenAI 兼容 API。Python 3.9+。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | Apache-2.0 |
-| 部署形态 | `None` |  |
+| 许可风险 | `permissive` | Apache-2.0 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- OpenAI 兼容 API：文本/语音/视觉，含工具调用、转录、嵌入、RAG
-- ARM NEON SIMD 内核与 4-bit 至 1-bit 旋转码本量化
-- 按本地模型置信度自动将困难查询路由到云端的 Hybrid 机制
-- Swift/Kotlin/Flutter/React Native/Python/Rust 六种绑定
+- Needle 工具调用、结构化抽取与文本嵌入
+- Whistle 七语言语音转录，含词级时间戳
+- Mirage 图像描述与结构化数据抽取
+- cactus-mlx 在 Apple silicon 上运行 CQ 检查点并提供 OpenAI 兼容 API
 
 ## 适用场景
 
-- 在手机、手表等设备上离线运行 LLM/VLM 推理
-- 通过 CLI 一键下载/转换 HuggingFace 模型并运行
-- 端侧工具调用（Needle 模型）与云端兜底的混合推理
+- 在手机/PC 等消费设备上本地运行 LLM、语音与视觉推理
+- 为本地 Agent 添加工具调用能力
+- 离线语音转录与图像理解
+- 用 cactus-compute[train] 微调 Needle 或 Whistle
 
 ## 场景标签
 
-`推理引擎` `模型量化` · 领域:训练与推理
+`推理引擎` `微调` `语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L12: A hybrid edge-cloud AI engine for mobile devices & wearables.
-> L116: |Cactus Engine|C|Chat completion, streaming, tool calling, transcription, embeddings, RAG, vision, vector index, c
+> L3: Run text, speech and vision models locally with one Python package. Cactus provides tool calling, structured extract
+> L50: Run CQ checkpoints with the `cactus-mlx` command, included in this package.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `dc2539ed1436` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b9aceb773b1b` · [字段定义](../../DATASET.md)*

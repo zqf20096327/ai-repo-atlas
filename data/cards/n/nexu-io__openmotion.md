@@ -2,9 +2,9 @@
 
 ⭐ 14,626 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/nexu-io/openmotion) · [官网](https://open-design.ai/motion/) · 组织维护 · 中文 README
 
-**开源 AI 视频工作台：把参考视频重制成可编辑的品牌动效视频**
+**开源的 agentic 视频工作室：把参考视频重做成带品牌素材的可编辑动效视频**
 
-全栈 agentic 视频工作室：上传参考视频或贴入社媒链接，由用户自带的本体 agent（支持 Claude Code、Codex、WorkBuddy 等 22 种）拆解镜头、用 HTML/CSS/JS 重建场景与转场，并通过内置模型集成生成图片、视频、音乐与 TTS 配音；用户在 Studio 中调整时间线并渲染 MP4。采用 BYOA/BYOK 模式，免费开源（Apache 2.0），需 Node.js 22.18+，可从 ChatGPT Marketplace 一键安装或从源码运行，另提供可选的 npm 发布版与 OpenDesign 订阅服务。
+OpenMotion 是全栈 agentic 视频工作室，定位为 Claude Motion 与 CapCut 的开源替代。用户上传参考视频或粘贴社交视频链接，由本地 agent 拆解镜头与转场，用 HTML/CSS/JavaScript 重建为可编辑项目，并通过内置模型集成生成缺失的图像、视频片段、音乐与 TTS 旁白，最后在 Studio 时间线编辑并渲染 MP4。引入 Motion.md Markdown 格式描述镜头顺序、时序与转场以便分享。采用 BYOA/BYOK：免费开源，使用用户自己的 agent 与 API key，支持 22 个本地 agent。需 Node.js，发布渠道含 ChatGPT Marketplace、Skills CLI、npm 包与源码构建。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 参考视频拆解为 Motion.md 记录镜头顺序/时序/转场，agent 按品牌套件重建 HTML 场景
-- 支持 22 种本地 agent，BYOA/BYOK，本地 MCP 客户端与 shell 工作流
-- 内置图片/视频/音乐/TTS 模型集成，Studio 中编辑时间线并渲染 MP4
-- 提供 300+ Motion.md 指南与模板库，可导入 HyperFrames 项目 ZIP
+- 参考视频拆解为 Motion.md，agent 用 HTML 代码重建镜头与转场
+- BYOA/BYOK：接入 22 个本地 agent（Claude Code、Codex、Gemini CLI 等）
+- 内置图像、视频、音乐与 TTS 模型集成（GPT Image、Seedance、Suno、Eleven v4）
+- Studio 可视化时间线编辑并渲染 MP4，保留 HTML/CSS/JS 源码
 
 ## 适用场景
 
-- 把爆款短视频改成自己品牌风格的品牌片或产品发布视频
-- 制作带字幕、屏幕插入与动效关键词的 AI 口播视频
-- 为 YouTube Shorts、Reels、TikTok 导出 MP4 短视频
+- 把竞品或参考视频重做成自己品牌风格的产品宣传片
+- 批量制作 YouTube Shorts、Reels、TikTok 竖屏短视频
+- 制作带图表与字幕的讲解教程视频
+- 导出完整源码项目，迭代修改后重新渲染
 
 ## 场景标签
 
-`视频生成` `语音合成` `图像生成` · 领域:内容生成
+`视频生成` `语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L26: OpenMotion is a **full-stack agentic video** studio and an **open-source alternative to Claude Motion and CapCut**.
 > L29: - 🔑 **BYOA — Bring Your Own Agent. BYOK — Bring Your Own Keys.** OpenMotion is free and open source. Recreate video
-> L222: Your local agent, optional media-model accounts and creative resources feed a workflow of understanding the refere
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `9485c43ca0f4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `53a11bea8000` · [字段定义](../../DATASET.md)*

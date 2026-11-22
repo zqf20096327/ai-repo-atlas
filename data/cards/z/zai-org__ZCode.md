@@ -2,9 +2,9 @@
 
 ⭐ 8,818 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/zai-org/ZCode) · [官网](https://zcode.z.ai/) · 组织维护 · 中文 README
 
-**Z.ai 的 AI 编程工作台：桌面/Web/终端三种形态的 coding agent**
+**Z.ai 的 AI 编程工作台：桌面/Web/终端多形态 Agent**
 
-Z.ai 开源的 AI 编程工作台，仓库包含 Electron 桌面客户端、Web 客户端、HTTP/WebSocket 后端、共享 UI 与 Agent CLI 运行时源码。命令行发行包统一以 zcode 命令启动：无参数进入 TUI，--web 启动 Web 服务，其余参数交给 Agent CLI；本机运行无需 Electron。支持 SSH/WSL 远程工作区、UI 插件体系与 Provider 配置。开发需 Git、Node.js 24.14.0 与 pnpm 10.33.2（以 mise.toml 为准），通过 pnpm bootstrap 初始化并构建。
+ZCode 是一个 AI 编程工作台仓库，包含 Electron 桌面客户端、Web 客户端、HTTP/WebSocket 后端服务，以及 Agent CLI 与运行时源码。命令行发行包统一用 `zcode` 启动：无参数进入 TUI，`--web` 启动浏览器界面（监听 127.0.0.1，支持令牌认证与局域网 --host 配置）。支持 SSH/WSL 远程连接工作区（资源经 SFTP 上传），支持 UI Plugin 扩展机制（含 Excalidraw 画布协作示例）。基于 Git、Node.js 24.14.0 与 pnpm 构建，桌面打包支持 macOS/Windows/Linux 与 x64/arm64。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ Z.ai 开源的 AI 编程工作台，仓库包含 Electron 桌面客户端、Web 
 
 ## 能力要点
 
-- 桌面/Web/TUI 三形态共享同一 Agent CLI 与运行时
-- SSH/WSL 远程工作区支持，资源经 SFTP 上传
-- CLI 发行包含版本索引与 install.sh 安装脚本，含 sha256 校验
-- UI Plugin 开发体系与 zcode-plugins 插件提交流程
+- 桌面（Electron）、浏览器 Web、终端 TUI 三种使用形态，`zcode` 命令统一入口
+- SSH/WSL 远程工作区连接，资源经 SFTP 上传
+- UI Plugin 扩展机制与独立插件仓库 zcode-plugins
+- 自建发行流程：tar.gz 运行包、sha256 校验、install.sh 安装脚本
 
 ## 适用场景
 
-- 用桌面或 Web 工作台进行 AI 辅助编程
-- 在服务器/WSL 远程环境中连接项目做开发
-- 通过 zcode 命令在终端运行 Agent 与自托管 Web 界面
-- 为其开发 UI 插件扩展工作台功能
+- 在终端里用 TUI 与编程 Agent 交互完成编码任务
+- 通过浏览器界面在局域网内访问本机 Agent 服务
+- 远程连接 SSH/WSL 中的项目进行开发
 
 ## 场景标签
 
@@ -39,7 +38,7 @@ Z.ai 开源的 AI 编程工作台，仓库包含 Electron 桌面客户端、Web 
 ## 证据(README 行号)
 
 > L10: ZCode 是 AI 编程工作台，提供桌面应用、浏览器界面和终端 Agent。本仓库包含客户端、后端服务、共享 UI，以及 Agent CLI 与运行时源码。
-> L82: 命令行发行包包含 TUI、Web 和 Agent，统一使用 `zcode` 启动：无参数进入 TUI；第一个参数为 `--web` 时启动 Web；其他参数交给现有 Agent CLI 处理。两种模式都在本机运行，无需 Elect
+> L90: 命令行发行包包含 TUI、Web 和 Agent，统一使用 `zcode` 启动：无参数进入 TUI；第一个参数为 `--web` 时启动 Web；其他参数交给现有 Agent CLI 处理。两种模式都在本机运行，无需 Elect
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `dc92d7a761ec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2fe20af167dd` · [字段定义](../../DATASET.md)*

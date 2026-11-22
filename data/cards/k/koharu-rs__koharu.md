@@ -2,9 +2,9 @@
 
 ⭐ 6,779 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/koharu-rs/koharu) · [官网](https://koharu.rs) · 个人维护 · 中文 README
 
-**本地优先的 ML 漫画翻译器（Rust），检测+OCR+修图+翻译一体**
+**本地运行 ML 模型的漫画翻译桌面工具**
 
-Rust 编写的桌面漫画翻译应用：本地运行视觉模型与 LLM，流水线覆盖文本区域检测、多模态 OCR、生成式 inpainting 修图、翻译与校对，配套 WebGPU 画布做手动清理、文字排版（含竖排 CJK、RTL）与分层 PSD 导出。翻译可选本地 GGUF 模型（Qwen、Gemma 等）或云端 API（OpenAI、Claude、DeepL 等）。支持 CUDA/ROCm/Metal/Vulkan 加速与 CPU 推理，提供 Windows/macOS/Linux 安装包、winget 与 Homebrew 安装。
+以 Rust 编写的漫画翻译应用，提供本地优先的工作流：对页面做检测分割、OCR、LLM 翻译与修复（inpainting），并在 GPU 画布上完成文字排版与导出。视觉模型与 LLM 均可在本地运行以保护数据隐私；翻译可用本地 GGUF 模型或托管 API。提供 Windows/macOS/Linux 发行版安装包，支持 PNG/CBZ/分层 PSD 导出，并内置 MCP 服务器供 AI agent 调用。部分模型带有非商用许可（如 CC BY-NC-SA）。
 
 ## 筛选速览
 
@@ -13,33 +13,33 @@ Rust 编写的桌面漫画翻译应用：本地运行视觉模型与 LLM，流�
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 检测/OCR/inpainting/翻译的选择式流水线
-- 本地 GGUF 推理与多家云端 LLM 提供商
-- WebGPU 画布支持手动清理、文字排版与 PSD 分层导出
-- CUDA/ROCm/Metal/Vulkan 加速，无需完整 CUDA/ROCm SDK
+- 检测、OCR、翻译、修复可按页或项目范围选择性执行
+- 本地 GGUF 推理与托管 LLM 提供商（含 BYOK 与订阅登录）
+- 支持 CUDA/ROCm/Metal/Vulkan 四类 GPU 加速
+- 多语言文字整形与排版：竖排 CJK、RTL、字体回退、自动适配
 
 ## 适用场景
 
-- 把日文漫画原图自动翻译成中文/其他语言
-- 翻译后手动修图、调字并导出分层 PSD 交付
-- 全程本地推理，避免漫画稿件外泄
+- 把日文漫画批量翻译成中/韩/英等语言并导出可编辑的分层 PSD
+- 在本地离线环境下翻译漫画以保持数据隐私
+- 手动清理与重排译文文字后直接导出发布格式
 
 ## 场景标签
 
-`OCR` `图像视频处理` · 领域:感知与多模态
+`图像视频处理` `OCR` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L13: Koharu introduces a local-first workflow for manga translation, utilizing the power of ML to automate the process. 
-> L29: - Local GGUF inference and hosted providers for LLM and machine-translation workflows
-> L67: Koharu uses separate models for detection, OCR, inpainting, and translation. Vision and inpainting and translation 
+> L29: - Local GGUF inference and hosted providers for LLM translation, including ChatGPT and Grok sign-in
+> L39: Koharu supports CUDA on Windows and Linux, ROCm / HIP on x86-64 Windows and Linux, Metal on Apple silicon, and Vulk
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f1fad35cb23e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `015e061425b6` · [字段定义](../../DATASET.md)*

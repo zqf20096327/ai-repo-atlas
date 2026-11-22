@@ -2,9 +2,9 @@
 
 ⭐ 8,025 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/logancyang/obsidian-copilot) · [官网](https://www.obsidiancopilot.com) · 组织维护
 
-**Obsidian 笔记库内的 AI Agent 插件：接入 opencode/Claude Code/Codex**
+**Obsidian 笔记库中运行 AI Agent 的插件**
 
-面向 Obsidian 用户的 AI 助手插件：将 opencode、Claude Code、Codex 等 CLI agent 引入笔记库，Agent 可检查笔记、调用工具、创建文件并跨多轮工作；另提供 Quick Chat、Quick Ask、Projects、跨 agent 共享 Skills 与 Commands。模型接入支持 Copilot 托管、自带 key（含本地/OpenAI 兼容端点）或 agent 自有登录。插件前端开源，托管模型等付费功能由闭源后端提供，Agent 仅限桌面端。
+Obsidian 社区插件，将 OpenCode、Claude Code、Codex 三类 agent 后端接入笔记库，用于研究、写作与知识工作。Copilot Chat 支持多轮对话、读取笔记、调用工具、创建文件，并有权限控制；提供 Projects（项目级指令与上下文）、跨 agent 共享 Skills、可复用 Commands、Quick Ask 划词提问。模型接入分三种：Copilot 托管模型（付费）、自带 API key（BYOK）、本地模型。插件前端开源，托管功能后端闭源，由 Brevilabs LLC 维护。Agent 仅限桌面端（后端依赖本地进程）。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 在 Obsidian 内运行 opencode/Claude Code/Codex 三种 agent
-- BYOK 支持云端、本地与 OpenAI 兼容 provider，密钥存于设备 Keychain
-- Projects、跨 agent 共享 Skills、斜杠 Commands 与多会话
-- 无付费也可用自有 agent 账号、API key 或本地模型
+- 在 Obsidian 内运行 OpenCode、Claude Code、Codex 三类 agent
+- 支持托管模型、BYOK（含 OpenAI 兼容 provider）与本地模型三种接入方式
+- Projects/Skills/Commands 提供项目级指令、跨 agent 共享技能与可复用提示
+- 本地 Miyo 索引留在设备上，笔记保持为库内文件
 
 ## 适用场景
 
-- 在笔记库内让 agent 整理研究资料并生成关联笔记
-- 对选中文字直接提问（Quick Ask）
-- 为长期项目配置专属指令与可复用上下文
+- 在笔记库中让 agent 检查笔记、整理研究并生成关联笔记
+- 用自己的 Claude/Codex 账号或 API key 驱动写作与知识工作流
+- 会议记录与个人笔记的检索式问答，不动手翻找
 
 ## 场景标签
 
-`AI 助手` `知识库管理` · 领域:对话与助手
+`知识库管理` `AI 助手` `文档问答` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L9:  Copilot V4 brings opencode, Claude Code, and Codex into Obsidian for research, writing, and knowledge work.
-> L24: **Agent** is the main Copilot experience for multi-step work. It can inspect notes, use tools, create Obsidian file
-> L64: The Copilot plugin is open source and works without a Copilot license when you use your own agent account, provider
+> L9:  Copilot V4 brings OpenCode, Claude Code, and Codex into Obsidian for research, writing, and knowledge work.
+> L24: **Copilot Chat** is the main Copilot experience for multi-step work. It can inspect notes, use tools, create Obsidi
+> L53: ## Use hosted, BYOK, or local models
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `480c93d11224` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `cd5e97ede663` · [字段定义](../../DATASET.md)*

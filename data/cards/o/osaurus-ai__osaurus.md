@@ -2,9 +2,9 @@
 
 ⭐ 8,192 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/osaurus-ai/osaurus) · [官网](https://osaurus.ai) · 组织维护
 
-**macOS 原生 AI agent 平台：本地/云端模型加持久记忆与沙箱执行**
+**macOS 本地运行的端侧 AI 助手与 Agent 应用**
 
-用 Swift 编写的 macOS 应用，作为模型与用户之间的 harness：每个 agent 拥有独立提示词、记忆与主题；工具与技能经 RAG 检索自动选取。支持本地 MLX 模型（Gemma、Qwen、GPT-OSS 等）、Apple Foundation Models、Liquid AI 及 OpenAI/Anthropic/Gemini 等云端供应商。代码执行运行于 Apple Containerization 框架的 Linux VM（需 macOS 26+，旧版本回退到 Seatbelt 沙箱）。含三层记忆、隐私过滤（云端发送前用本地分类器脱敏）、secp256k1 密码学身份、agent 间端到端加密通道、浏览器使用与本地图像生成。要求 macOS 15.5+ 与 Apple Silicon。
+用 Swift 编写的 macOS 开源应用：一个 Orchestrator 助手调度多个绑定应用或文件夹的 Agent（Planner/Courier/Keeper 等），支持记忆、技能插件、工作流、定时自动化、浏览器/电脑使用与端到端加密身份。模型可换：本地 MLX 模型、Apple Foundation Models、云服务商或 Osaurus Cloud，Agent 与记忆在切换模型后保留。提供 OpenAI/Anthropic/Ollama 格式的本地 API 端点，可作 MCP server 与 client。需 macOS 15.5+ 与 Apple Silicon，沙箱 VM 需 macOS 26+。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 本地 MLX 推理 + 多云端供应商，agent/记忆/工具在换模型时保持不变
-- 代码沙箱：Linux VM（macOS 26+）或 Seatbelt 回退
-- 三层记忆结构与 salience 评分，后台整合衰减合并
-- 发往云端前用本地 1.5B 分类器检测敏感信息并脱敏（fail-closed）
-- 完整 MCP server，任意 MCP 客户端可接入其工具
+- 本地运行 MLX 模型（Gemma/Qwen/Llama 等），完全离线可用
+- 多 Agent 团队、分层记忆、工作流与自动化调度
+- 本地服务器提供 OpenAI/Anthropic/Ollama 兼容端点，双向 MCP
+- 云发送前隐私过滤器：端侧替换姓名、邮箱、密钥等敏感信息
 
 ## 适用场景
 
-- 在 Mac 上完全离线运行带记忆的个人 AI agent
-- 让 agent 在隔离沙箱中执行代码与文件任务
-- 通过 relay 把本地 agent 暴露到互联网并加密通信
-- 用本地模型离线生成图像
+- 在 Mac 上离线运行个人 AI 助手并保留长期记忆
+- 让 Agent 操作日历、邮件、笔记等 Apple 原生应用
+- 为已有工具提供本地 OpenAI 格式推理端点
+- 定时或经 webhook 触发多步骤自动化工作流
 
 ## 场景标签
 
-`Agent 框架` `Agent 记忆` `图像生成` `浏览器自动化` · 领域:Agent 开发
+`AI 助手` `多智能体` `Agent 记忆` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L36: Osaurus is the AI harness for macOS. It sits between you and any model -- local or cloud -- and provides the contin
-> L65: Agents are the core of Osaurus. Each one gets its own prompts, memory, and visual theme -- a research assistant, a 
+> L6:  Agents, memory, tools, and identity that live on your Mac. Built purely in Swift. Fully offline. Open source.
+> L47: - **Hands work to your team.** A fresh install comes with a small team of agents, each bound to one app or folder: 
+> L78: - **Local**: Gemma, Qwen, GPT-OSS, Llama, LFM, and more, running on Apple Silicon through MLX. Osaurus publishes cu
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `3da4c1b1b2ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ab2a22162dce` · [字段定义](../../DATASET.md)*

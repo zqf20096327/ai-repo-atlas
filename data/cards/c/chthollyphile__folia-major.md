@@ -2,9 +2,9 @@
 
 ⭐ 13,242 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/chthollyphile/folia-major) · [官网](https://folia-site.cielaniska.top/) · 个人维护 · 中文 README
 
-**以全屏沉浸式歌词动画为核心的多源音乐播放器**
+**面向音乐听众的全屏歌词动画播放器，支持本地/Navidrome/在线音源**
 
-在线/本地音乐播放器，支持网易云、酷狗、QQ 音乐、Navidrome 及本地音乐库，桌面端另支持波点音乐、YouTube Music 和 Spotify。核心特性为多种全屏歌词动画与响应式排版，本地歌曲可智能匹配在线歌词与封面，识别 .lrc/.ttml/.qrc 等多种歌词格式。AI 用于基于歌曲情绪与歌词内容生成配色主题。提供 Electron 桌面版（Windows/macOS/Linux 安装包）、Vercel/Cloudflare Web 部署、Docker Compose 自托管及 PWA；桌面版含实验性 Folium 模组系统与可选跨设备同步服务端。AGPL-3.0 开源，声明仅供学习与非营利测试使用。
+以全屏沉浸式歌词播放为核心的在线音乐播放器，接入网易云、酷狗、QQ 音乐、Navidrome 与本地音乐库，桌面端另支持波点音乐、YouTube Music、Spotify、汽水音乐。机制上通过智能歌词匹配自动补全歌词与封面，按歌曲情绪与歌词内容生成背景主题，多种歌词动画带可调参数与响应式布局。提供 Electron 桌面安装包与 Node.js Web 版（可部署至 Vercel/Cloudflare/Docker），模组系统与 Sync Server 为实验性/可选功能。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多种全屏歌词动画主题与响应式布局
-- 智能歌词匹配与 .lrc/.vtt/.ttml/.qrc/.yrc/.krc 多格式本地歌词识别
-- AI 基于歌曲情绪与歌词内容生成配色主题
-- 桌面版 Folium 模组系统（实验性）与模组市场
+- 支持网易云、酷狗、QQ 音乐、Navidrome 与本地音乐库等多音源
+- 多种全屏歌词动画，带可调参数与响应式适配
+- 基于歌曲情绪与歌词内容的 AI 主题生成
+- 识别 .lrc/.vtt/.ttml/.qrc/.yrc/.krc 等本地歌词文件，支持 Folium 模组系统
 
 ## 适用场景
 
-- 听歌时体验全屏沉浸式歌词动画
-- 统一播放本地音乐库、Navidrome 与多个在线音源
-- 本地歌曲自动匹配在线歌词与封面
-- 自托管部署到 Vercel/Cloudflare/Docker 供多端使用
+- 在桌面或浏览器全屏沉浸式听歌并展示歌词动画
+- 统一播放本地音乐库与 Navidrome 及各在线音乐平台
+- 为本地歌曲自动匹配在线歌词与封面
+- 跨设备同步外观设置与 AI 主题库
 
 ## 场景标签
 
- · 领域:音乐播放/桌面与Web应用
+ · 领域:音乐/媒体播放
 
 ## 证据(README 行号)
 
-> L30: Folia是一个以全屏沉浸式歌词播放为核心的在线音乐播放器，支持网易云、酷狗、QQ 音乐、Navidrome 和本地音乐库，桌面端还支持波点音乐、YouTube Music 和 Spotify，通过智能歌词匹配，AI生成配色主题，
-> L97: |AI 主题生成|基于歌曲情绪与歌词内容生成沉浸式背景与视觉参数。|
+> L30: Folia是一个以全屏沉浸式歌词播放为核心的在线音乐播放器，支持网易云、酷狗、QQ 音乐、Navidrome 和本地音乐库，桌面端还支持波点音乐、YouTube Music、Spotify 和汽水音乐，通过智能歌词匹配，AI生成配
+> L104: |AI 主题生成|基于歌曲情绪与歌词内容生成沉浸式背景与视觉参数。|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `8a34ff7886a2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6d3fb7072c75` · [字段定义](../../DATASET.md)*

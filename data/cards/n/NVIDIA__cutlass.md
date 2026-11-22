@@ -2,9 +2,9 @@
 
 ⭐ 10,752 · C++ · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/cutlass) · [官网](https://docs.nvidia.com/cutlass/index.html) · 组织维护
 
-**CUDA C++ 模板与 Python DSL 库：构建高性能 GEMM 等线性代数内核**
+**给 CUDA 开发者的高性能 GEMM/线性代数模板库与 Python DSL**
 
-NVIDIA 维护的高性能矩阵乘（GEMM）及相关计算的实现集合：以 CUDA C++ 模板抽象提供分层分解与数据移动组件，覆盖 FP64/FP32/TF32/FP16/BF16/FP8/FP4、块缩放与窄整数等数据类型，支持 Volta 到 Blackwell 及 Rubin（SM107）架构。CUTLASS 4 起加入 CuTe DSL——用 Python 编写 CUDA 内核的接口，含 Operator API、原语库与 IKET 性能分析工具。面向内核开发者、科研与性能工程人员，用于深度学习框架底层内核构建；CuTe DSL 处于公开 beta 阶段。
+CUTLASS 提供 CUDA 上实现高性能矩阵乘（GEMM）及相关计算的抽象集合，将层级分解与数据搬运策略拆解为可复用的模块化组件，可通过 tiling 尺寸、数据类型与算法策略定制。支持 FP64 到 FP4 等多种精度类型，覆盖 Volta 至 Blackwell 架构。4.x 版本新增 CuTe DSL：Python 原生接口编写 CUDA 内核，宣称缩短编译时间并可原生接入 DL 框架。面向学生、研究者与性能工程师，用于内核设计与生产化。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ NVIDIA 维护的高性能矩阵乘（GEMM）及相关计算的实现集合：以
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
@@ -20,16 +20,16 @@ NVIDIA 维护的高性能矩阵乘（GEMM）及相关计算的实现集合：以
 
 ## 能力要点
 
-- CUDA C++ 模板抽象覆盖多种精度数据类型与多代 NVIDIA 架构
-- CuTe DSL：基于 Python 编写 CUDA 内核，无需 C++ 深度 expertise
-- Operator API 暴露独立内核并支持性能预估排序
-- 4.8 加入初步 Rubin（SM107）支持与大量 Blackwell/Ampere 示例
+- CUDA C++ 模板抽象与 CuTe Python DSL 双接口，支持自定义 tiling、数据类型与算法策略
+- 支持 FP64/TF32/FP16/BF16/FP8/NVFP4/MXFP4 等多种数据类型
+- 覆盖 Volta、Turing、Ampere、Ada、Hopper、Blackwell 与 Rubin 架构
+- 提供 Epilogue Fusion、TMA 加载、2:4 结构化稀疏等内核原语
 
 ## 适用场景
 
-- 为深度学习框架或自定义应用编写高性能 GEMM/卷积内核
-- 用 Python 快速原型化 CUDA 内核设计并投入生产
-- 针对特定架构与数据类型调优矩阵乘性能
+- 为深度学习框架编写和优化自定义 GEMM/卷积 CUDA 内核
+- 用 CuTe DSL 快速原型化内核设计而无需深入 C++ 模板编程
+- 针对新 NVIDIA 架构（Hopper/Blackwell/Rubin）做性能工程与调优
 
 ## 场景标签
 
@@ -39,6 +39,7 @@ NVIDIA 维护的高性能矩阵乘（GEMM）及相关计算的实现集合：以
 
 > L8: CUTLASS is a collection of abstractions for implementing high-performance matrix-matrix multiplication (GEMM)
 > L28: To this rich ecosystem of C++ based kernel programming abstractions, CUTLASS 4 adds CUTLASS DSLs. These are Python 
+> L36: We believe it will become an indispensable tool for students, researchers, and performance
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `0eca95758390` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8bdd9cb0fe78` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 10,843 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/autogluon/autogluon) · [官网](https://auto.gluon.ai/) · 组织维护
 
-**面向表格/多模态/时序数据的自动机器学习框架**
+**AutoML 库：表格/时序/多模态数据自动建模预测**
 
-AutoGluon 提供 AutoML 能力：对表格、时序、多模态数据自动训练与调优模型，通过 TabularPredictor、TimeSeriesPredictor、MultiModalPredictor 三个入口，用少量代码（如 3 行）完成训练与预测，并自动搜索模型组合与集成。支持 Python 3.10-3.13，可在 Linux/macOS/Windows 安装，GPU、Conda 与可选依赖另行说明。由 AWS 团队维护，配套云部署方案（Docker 容器、SageMaker Autopilot 等），有多篇论文与教程。
+AutoGluon 是自动化机器学习库，对表格、时间序列和多模态数据自动完成模型选择与组合训练，几行代码即可训练模型并生成预测。提供 TabularPredictor、TimeSeriesPredictor、MultiModalPredictor 三类任务接口，基于 Python 3.10-3.13，支持 Linux/macOS/Windows，可通过 pip 或 Conda 安装，另提供云端训练部署途径（AWS Cloud、Docker 容器、SageMaker）。维护方接受社区代码贡献，文档采用 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ AutoGluon 提供 AutoML 能力：对表格、时序、多模态数据自动训�
 
 ## 能力要点
 
-- 表格/时序/多模态三类任务的 Predictor API
-- 自动搜索并组合多个模型（含基础模型）
-- 提供官方 Docker 容器与云部署选项（SageMaker/DLC）
-- Apache 2.0 许可，pip 一行安装
+- 3 行代码完成端到端模型训练与预测
+- 自动搜索最优模型组合，覆盖传统 ML 到基础模型
+- 三类预测器：表格、时间序列、多模态
+- 提供云端部署途径与官方 Docker 容器
 
 ## 适用场景
 
-- 我在 CSV 表格数据上快速训练并得到预测结果
-- 我用它做概率式时间序列预测
-- 我在含文本/图像的混合表格数据上自动建模
+- 对表格数据快速训练分类/回归模型
+- 做时间序列概率预测
+- 处理含文本的表格多模态建模
+- 在 SageMaker 上托管运行 AutoML 流程
 
 ## 场景标签
 
@@ -38,8 +39,8 @@ AutoGluon 提供 AutoML 能力：对表格、时序、多模态数据自动训�
 ## 证据(README 行号)
 
 > L15: AutoGluon automates machine learning on data such as tables and time series, helping you achieve strong predictive 
-> L36: from autogluon.tabular import TabularPredictor
-> L38: predictions = predictor.predict("test.csv")
+> L17: From classic ML algorithms to foundation models, the options keep multiplying — but which one should you use? AutoG
+> L37: predictor = TabularPredictor(label="class").fit("train.csv", presets="best")
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7446a94f39fa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5546b8f6d91b` · [字段定义](../../DATASET.md)*

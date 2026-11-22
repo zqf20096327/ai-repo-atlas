@@ -2,9 +2,9 @@
 
 ⭐ 4,428 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/apm) · [官网](https://microsoft.github.io/apm/) · 组织维护
 
-**AI 编程代理的依赖管理器：一份清单配置所有 agent**
+**给团队管理 agent 依赖的包管理器：一份清单装遍多种编码 agent**
 
-微软开源的 AI agent 配置依赖管理工具：用 apm.yml 声明项目的指令、技能、提示词、插件、MCP server 等上下文依赖，apm install 一次命令在 GitHub Copilot、Claude Code、Codex、Cursor、Gemini、Windsurf、Kiro 等多个客户端间复现同一配置，支持传递依赖解析与 lockfile 锁定。安全方面安装时扫描隐藏 Unicode、lockfile 记录内容哈希、可导出 SBOM、传递性 MCP server 需信任确认；apm-policy.yml 支持企业到仓库的只紧不松策略继承。提供 brew、curl 脚本、pip、WinGet、Scoop 等安装方式。
+面向使用编码 agent 的团队，将 skills、prompts、plugins、MCP servers 等纳入依赖管理：apm.yml 声明依赖，apm install 按各 harness（Claude Code、GitHub Copilot、Cursor、Codex 等）自有格式写入文件，apm.lock.yaml 记录 commit 与 SHA-256 哈希实现可复现安装与漂移检测；apm audit 做 CI 检查，apm-policy.yml 支持组织级来源与可执行文件策略（先 warn 后 block）。包来自 git，无需账号与注册表。提供 brew、pip、WinGet、Scoop 及原生二进制安装。
 
 ## 筛选速览
 
@@ -13,33 +13,33 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- apm.yml 单一清单描述 instructions/skills/prompts/hooks/plugins/MCP servers，跨 9 个 agent 客户端复现
-- lockfile 锁定解析树与内容哈希，支持 CycloneDX/SPDX SBOM 导出与漂移检测
-- apm-policy.yml 组织级策略治理：只紧不松继承、CI 门禁、GitHub rulesets 集成
-- 支持插件编写（plugin.json 导出）、marketplace 安装与 GitHub Action CI/CD
+- 一份 manifest 写入各 harness 自有格式，含传递依赖解析
+- lockfile 记录 commit 与 SHA-256，支持 --frozen 复现与 apm audit 漂移检测
+- 安装时扫描隐藏 Unicode 内容，apm approve 审批 hooks 与 MCP server 部署
+- org policy 支持 warn/block 模式与 CycloneDX/SPDX 清单导出
 
 ## 适用场景
 
-- 团队克隆仓库后一条命令配齐所有 AI agent 上下文依赖
-- 安全团队用策略文件限制组织内可安装的来源与范围
-- 把 agent 配置打包为插件或 SBOM 供采购/审计使用
+- 让团队所有仓库用同一份清单安装相同的 skills 与 MCP server
+- 在 CI/PR 中检查 agent 依赖漂移与来源合规
+- 建组织内部 marketplace 统一分发审批过的插件
 
 ## 场景标签
 
- · 领域:开发者工具/Agent 基础设施
+ · 领域:AI 生态/开发工具链
 
 ## 证据(README 行号)
 
-> L3: **An open-source, community-driven dependency manager for AI agents.**
-> L18: **APM fixes this.** Declare your project's agentic dependencies once in `apm.yml`, and every developer who clones y
-> L53: One `apm.yml` describes every primitive your agents need — instructions, skills, prompts, agents, hooks, plugins, M
+> L3: **An open-source, community-driven dependency manager for the agent supply chain.**
+> L18: **APM treats them as dependencies.** Declare them once in `apm.yml`. `apm install` writes each one in every harness
+> L86: Teams that run coding agents at scale end up building the same thing: a central team publishes approved skills, plu
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `bca98f655dc7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `9508c1edffd5` · [字段定义](../../DATASET.md)*

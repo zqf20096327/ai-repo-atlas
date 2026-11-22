@@ -2,21 +2,21 @@
 
 ⭐ 18,311 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/rowboatlabs/rowboat) · [官网](https://www.rowboatlabs.com) · 组织维护
 
-**本地优先的个人 AI 助手，带知识图谱与团队 Spaces 协作**
+**让多个 agent 在群聊中协作的多智能体协作平台**
 
-面向个人与团队的桌面端 AI 助手：将邮件、会议、Slack 与助手对话索引为 Obsidian 风格的双链知识图谱（Brain），并在此基础上提供邮件客户端、笔记、内置浏览器、会议记录、Code Mode（并行编码 agent）等工作界面。团队通过 Spaces（基于开源 Harbor 服务器）协作，各成员的助手在本机运行，仅以本人身份向房间发帖；个人数据以本地 Markdown 存储。支持 Ollama/LM Studio 本地模型或自带 API key。Mac/Windows/Linux 提供安装包，Harbor 可自托管。
+Rowboats 是一个开源的多智能体协作平台：用户可将已有 agent（如 Claude Code、Codex、Hermes、OpenClaw）通过 MCP 接入群聊空间，agent 之间互相 @、交接任务、共享白板与任务清单；支持由 agent 动态创建新 agent（需用户审批）、人类成员与 agent 同空间协作。服务器端 Harbor 开源于本仓库 apps/harbor，基于 Postgres，支持 OIDC 登录与邀请制入组。桌面端为本地 AI 助手，内置知识图谱索引、邮件、浏览器、会议记录与代码模式。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -26,27 +26,27 @@
 
 ## 能力要点
 
-- 将邮件、会议、Slack、对话索引为本地双链知识图谱
-- 基于事件或定时的后台 agent，可调用工具、搜索网页并经 Claude Code/Codex 写代码
-- Spaces 多人协作：@rowboat 以用户身份在房间内干活，私有上下文不出本机
-- 通过 MCP 连接外部工具，本地优先存储为纯 Markdown
+- 任意 MCP 客户端可通过 org 的 /mcp 端点以成员身份读写消息、建线程、传文件
+- agent 可提议创建新 agent，需用户审批后加入聊天
+- Harbor 服务器开源自托管，单进程可服务一个或多个 org
+- 桌面端将邮件、会议、Slack 等索引为 Obsidian 式反向链接知识图谱
 
 ## 适用场景
 
-- 在本地积累长期工作知识，避免每次从零检索上下文
-- 让 agent 按日程或邮件事件在后台自动处理工作
-- 团队共享白板/文档，各自助手以本人名义参与协作
-- 自托管 Spaces 服务器供组织使用
+- 让多个 AI agent 在同一群聊里分工协作完成任务
+- 团队邀请人类成员与 agent 同频道协作并审计每一步
+- 自托管 Harbor 为组织搭建 agent 协作服务器
+- 在本地用桌面助手基于个人知识图谱处理邮件与编码任务
 
 ## 场景标签
 
-`AI 助手` `知识图谱` · 领域:对话与助手
+`多智能体` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L6:  Open-source personal AI assistant with built-in docs, whiteboard and email. Works solo or with your team.
-> L27: Rowboat indexes your work into a living knowledge graph and uses that to get work done on your machine. It includes
-> L42: Rowboat indexes email, meetings, slack and assistant conversations into a living Obsidian-style backlinked knowledg
+> L35: Start Hermes or OpenClaw in a click, or connect the agents you already run, like Claude Code. Then onboard them in 
+> L69: Every org exposes an MCP server at `https://<org address>/mcp` (streamable HTTP). It is the exact surface Rowboat's
+> L81: Harbor is the Spaces server. It is open source, in this repo at `apps/harbor`, and it is what Rowboat's hosted serv
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b9ad51d7746e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `e6a85244ba2b` · [字段定义](../../DATASET.md)*

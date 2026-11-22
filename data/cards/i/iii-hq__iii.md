@@ -1,10 +1,10 @@
 # iii-hq/iii
 
-⭐ 18,938 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/iii-hq/iii) · [官网](https://iii.dev) · 组织维护
+⭐ 18,938 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/iii-hq/iii) · [官网](https://iii.dev) · 组织维护 · 中文 README
 
-**实时组合与观测后端服务的共享运行时引擎**
+**开发者用函数引擎：把服务、agent、API 组合为可调用系统**
 
-iii 是一个用 Rust 编写的引擎与共享运行时，将后端服务抽象为三个原语：Workers（注册到引擎的进程，支持 TypeScript/Python/Rust/Go SDK）、Triggers（HTTP、cron、队列、状态变更等触发方式）和 Functions（带稳定标识的工作单元）。通过 worker-compose.yaml 或运行时命令组合服务，所有 worker 进入实时目录并可互相调用，agent 可用与开发者相同的接口发现、调用和扩展能力。附带 Agent Skills（可安装到第三方 harness）、开发者控制台与 Docker 镜像。
+iii 以 Function 为唯一原语的引擎，用 worker.call 与 worker.observe 两个操作符统一队列、数据库、HTTP、流式、沙箱、agent 等能力；各语言 worker 以 SDK 接入同一引擎，跨语言跨机器互调与观察，引擎维护实时 Function 注册表供开发者与 agent 发现，提供 OTLP 导出的全链路追踪。Compose 文件定义 worker，可一键启停/升级整个服务栈。提供 Rust 引擎与 CLI，TypeScript/Python/Rust/Go 四种 SDK，安装脚本可选交互或非交互模式；引擎部分采用 Elastic License 2.0。
 
 ## 筛选速览
 
@@ -26,25 +26,26 @@ iii 是一个用 Rust 编写的引擎与共享运行时，将后端服务抽象�
 
 ## 能力要点
 
-- Workers/Triggers/Functions 三原语统一队列、cron、HTTP、状态与观测
-- 运行时动态添加 worker，agent 用同一目录与调用接口扩展系统
-- Node.js/Python/Rust/Go 四语言 SDK
-- 提供开发者控制台与可装到第三方 harness 的 Agent Skills
+- 单原语 Function + call/observe 两操作符统一服务集成
+- 引擎维护实时 Function 注册表，agent 与开发者可发现
+- 跨语言 SDK（TypeScript/Python/Rust/Go）接入同一 API
+- Compose 文件定义 worker，一条命令启停/升级服务栈
 
 ## 适用场景
 
-- 用统一运行时替代多种后端集成工具
-- 让 agent 在运行中发现并调用系统能力、按需添加 worker
-- 通过控制台查看 worker、触发器、队列与调用链路
+- 把多语言微服务与工具函数接入统一引擎互相调用
+- 让编码 agent 通过注册表发现并调用系统内函数
+- 为分布式服务栈提供统一追踪与事件响应机制
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L30: iii is the easiest way to compose, observe, discover, extend, and react (CODER) to every service in
-> L47: That is the agent story too: when a task needs a capability the system does not have, an agent can
+> L35: iii removes that work with one primitive, the **Function**. Services, agents, and tools connect to one engine as wo
+> L63: |**D**|Discoverability|The engine holds a live registry of every Function. It's always up to date so developers and
+> L125: |`skills/`|Agent skills for coding agents|
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `4c72230aaac6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `12816f9180a3` · [字段定义](../../DATASET.md)*

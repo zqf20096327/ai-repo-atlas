@@ -2,9 +2,9 @@
 
 ⭐ 4,804 · C# · MIT · 推送 2026-11-12 · [GitHub](https://github.com/mcmonkeyprojects/SwarmUI) · 个人维护
 
-**面向 Stable Diffusion 等模型的模块化 AI 图像生成 Web 界面**
+**模块化 Stable Diffusion 图像生成 WebUI，本地运行**
 
-SwarmUI（前称 StableSwarmUI）是基于 .NET 的 AI 图像/视频/音频生成 Web 用户界面：内置 Generate 标签页供直接生成，提供 Comfy Workflow 图编辑、网格生成器、图像编辑器与自动工作流生成等工具；可自动安装 ComfyUI 作为后端，或选用 AUTOMATIC1111 webui 作为后端。支持多 GPU 并行（swarm）为同一用户生成图像。支持 SD/Flux/Krea 2 等图像模型、Wan/LTX-2 等视频模型及 ACE-Step 等音频模型。提供 Windows 安装脚本、Linux/macOS 脚本、Docker 与 Colab 方式运行；项目自述处于 Almost-Release/Beta 状态。
+前身为 StableSwarmUI 的模块化 AI 图像/视频生成 Web 界面，支持 Stable Diffusion、Flux、Wan 等模型。提供 Generate 标签页的便捷生成界面，高级用户可用 Comfy Workflow 原始节点图；内置图像编辑器、Grid Generator 等工具，可多 GPU 并行生成同一任务。后端支持自动安装 ComfyUI 或 A1111 WebUI，通过 .NET 8 运行，提供 Windows/Linux/Mac 安装脚本与 Docker 部署方式，Mac 仅限 Apple Silicon。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ SwarmUI（前称 StableSwarmUI）是基于 .NET 的 AI 图像/视频/音频生�
 
 ## 能力要点
 
-- Generate 标签页直接生成 + Comfy Workflow 原始图编辑两种模式
-- 支持多 GPU 并行为同一用户生成图像（swarm 命名来源）
-- 可自动安装 ComfyUI 后端，或接入 AUTOMATIC1111 webui 后端
-- 覆盖图像（SD/Flux/Krea 2）、视频（Wan/LTX-2）、音频（ACE-Step）模型
+- 支持图像（Stable Diffusion/Flux/Krea）、视频（Wan/LTX-2）与音频（ACE-Step）模型
+- Generate 便捷界面与 Comfy Workflow 原始节点图两种使用模式
+- 可自动安装 ComfyUI 或 AUTOMATIC1111 后端
+- 多 GPU 同时生成（swarm 命名由来）
 
 ## 适用场景
 
-- 在浏览器中生成与管理 AI 图像，兼顾新手与进阶工作流
-- 用网格生成器、图像编辑器等工具批量探索参数
-- 聚合多张 GPU 加速批量生成
+- 本地搭建 WebUI 进行 Stable Diffusion 图像生成
+- 在多 GPU 机器上并行跑大网格生成任务
+- 需要同时使用便捷界面和 Comfy 原始工作流
 
 ## 场景标签
 
-`图像生成` `视频生成` `语音合成` · 领域:内容生成
+`图像生成` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L7: A Modular AI Image Generation Web-User-Interface, with an emphasis on making powertools easily accessible, high perf
 > L20: Beginner users will love Swarm's primary Generate tab interface, making it easy to generate anything with a variety
+> L142: The "Swarm" name is in reference to the original key function of the UI: enabling a 'swarm' of GPUs to all generat
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3183b124eb8f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8053b3d4b459` · [字段定义](../../DATASET.md)*

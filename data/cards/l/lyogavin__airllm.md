@@ -1,10 +1,10 @@
 # lyogavin/airllm
 
-⭐ 42,851 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护
+⭐ 42,851 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护 · 中文 README
 
-**让单张 4GB 显卡运行超大 LLM 的推理库**
+**分层加载推理库：4GB 显存运行 70B 大模型**
 
-Python 推理库，通过每次仅在 GPU 上保留一层解码层、逐层从磁盘流式加载的方式降低显存占用，README 称可在 4GB 显存上运行 70B 模型，无需量化、蒸馏或剪枝；v3.0 起支持 FP8，并提供 block-wise 量化压缩（宣称最高 3x 推理加速）。经 pip 安装，通过 AutoModel 传入 Hugging Face 模型 ID 或本地路径使用；推理前会将原模型分层切分保存，需要充足磁盘空间。支持 Apple Silicon 上的 MacOS，并提供小显存 LoRA 微调脚本。
+以 Python pip 包形式提供的 LLM 推理内存优化库：通过逐层换入换出的方式，同一时刻只在 GPU 上驻留一个模型层，使显存需求取决于单层大小而非模型总大小，从而在 4GB 显存运行 70B 模型、~12GB 运行 DeepSeek-V3 (671B)。通过 Hugging Face repo ID 或本地路径加载模型，接口仿照 transformers；提供 4bit/8bit 块级量化压缩（官方称最高 3x 提速）、预取、CPU 推理与 macOS（Apple Silicon、仅 Llama/Mistral 架构）支持；推理前需将模型分解为层分片，磁盘开销大。v3.0 起还支持在小显存 GPU 上冻结底座、流式训练并保留 LoRA 适配器。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@ Python 推理库，通过每次仅在 GPU 上保留一层解码层、逐层从�
 
 ## 能力要点
 
-- 逐层流式加载，使显存需求取决于单层大小而非模型总大小
-- 支持 4bit/8bit block-wise 量化压缩（模型加载体积减小）
-- 通过 AutoModel 一行代码加载多种开源 LLM
-- 提供小显存 LoRA 训练（冻结权重逐层流式、仅适配器驻留 GPU）
+- 逐层流式加载：显存占用取决于模型单层大小而非总参数量
+- 4bit/8bit 块级量化压缩，官方称最高 3x 推理加速
+- 支持 Llama/Qwen/DeepSeek/Mixtral/ChatGLM 等主流开源模型家族，统一 AutoModel 接口
+- 小显存 LoRA 训练：冻结权重逐层从磁盘流式读取，仅适配器驻留 GPU
 
 ## 适用场景
 
-- 在消费级显卡上运行 70B 及以上参数的开源模型推理
-- MacOS Apple Silicon 上运行大语言模型
-- 小显存环境下对大模型进行 LoRA 微调
+- 在消费级显卡上本地推理超大参数量开源模型
+- 本地微调 125B 级模型而不升级显存
+- 加载 gated Hugging Face 模型并控制模型分片存储路径
 
 ## 场景标签
 
-`推理引擎` `微调` · 领域:训练与推理
+`推理引擎` `模型量化` `微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L9: **AirLLM** dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU ca
-> L77: pip install airllm
-> L187: The trick: AirLLM only ever keeps **one layer on the GPU at a time**, so the VRAM you need depends on the model's 
+> L82: Then, initialize AirLLMLlama2, pass in the huggingface repo ID of the model being used, or the local path, and infe
+> L188: The trick: AirLLM only ever keeps **one layer on the GPU at a time**, so the VRAM you need depends on the model's 
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `35838a96a565` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5832f5a0842d` · [字段定义](../../DATASET.md)*

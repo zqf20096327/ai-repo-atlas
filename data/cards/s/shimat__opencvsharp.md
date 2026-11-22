@@ -2,9 +2,9 @@
 
 ⭐ 6,126 · C# · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/shimat/opencvsharp) · [官网](http://shimat.github.io/opencvsharp/) · 个人维护
 
-**OpenCV 的跨平台 .NET 封装库，供 .NET 开发者做图像处理与计算机视觉**
+**.NET 开发者调用 OpenCV 做图像处理的跨平台绑定库**
 
-OpenCvSharp 是 OpenCV 的跨平台 .NET wrapper，API 设计贴近原生 OpenCV C++ 接口，同时采用 C# 的类型化枚举、异常与确定性释放等惯例。以 NuGet 包分发，分 OpenCvSharp5（OpenCV 5.0.x，.NET 8+，活跃开发）与 OpenCvSharp4（OpenCV 4.13.0，支持 .NET Framework 4.6.1+，维护状态）两个并行系列。提供 Windows x64/ARM64、Linux x64/ARM64、macOS Intel/Apple Silicon 的原生绑定包，并有 full/headless/slim 三种模块档位。提供 Mat/Bitmap、Mat/WriteableBitmap 转换；不支持 CUDA，不能在 Unity/Xamarin 上运行。
+OpenCvSharp 为 OpenCV 提供 .NET 包装，API 贴近原生 OpenCV C++ 接口，使 OpenCV 的文档与代码可低成本迁移到 C#。按 OpenCV 5.x（.NET 8+）与 4.13.0（兼容 .NET Framework/.NET Standard）两条包族并行发布，全部经 NuGet 分发，并按 Windows x64/ARM64、Linux x64/ARM64、macOS Intel/Apple Silicon 提供 full/headless/slim 多档原生运行时包。明确不支持 Unity、Xamarin 与 CUDA；Linux full 包需 GTK3 支持窗口显示，headless/slim 无此依赖。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ OpenCvSharp 是 OpenCV 的跨平台 .NET wrapper，API 设计贴近原生 OpenCV
 
 ## 能力要点
 
-- API 贴近原生 OpenCV C++ 接口，便于概念与代码迁移到 .NET
-- 双系列 NuGet 包：OpenCvSharp5（.NET 8+）与 OpenCvSharp4（含 .NET Framework 支持）
-- 覆盖 Windows/Linux/macOS 的 x64 与 ARM64 原生运行时包，含 full/headless/slim 档位
-- Mat 算术链采用惰性求值表达式树，中间节点不持有非托管资源
+- API 贴近 OpenCV C++ 原生接口，支持原生风格函数调用与面向对象两种写法
+- 提供 Mat→Bitmap(GDI+)/WriteableBitmap(WPF) 转换及 Avalonia 扩展包
+- Linux 运行时包内置静态链接的 FFmpeg 与 Tesseract
+- Mat 链式运算返回托管 MatExpr 表达式树，无原生资源泄漏
 
 ## 适用场景
 
-- 在 .NET 项目中做图像处理与计算机视觉开发
-- 容器化/headless 服务中选择无 GTK3/X11 依赖的运行时包
-- 将已有 OpenCV C++ 代码与经验迁移到 C# 环境
+- 在 C#/.NET 项目中做图像处理与计算机视觉开发
+- 将现有 OpenCV C++/Python 代码迁移到 .NET 平台
+- 在容器化服务中用 headless 包运行无 GUI 的视觉处理流水线
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ OpenCvSharp 是 OpenCV 的跨平台 .NET wrapper，API 设计贴近原生 OpenCV
 ## 证据(README 行号)
 
 > L7: OpenCvSharp is a cross-platform .NET wrapper for OpenCV, providing a rich set of image processing and computer visio
-> L67: * **OpenCvSharp5**: OpenCV 5.0.x with opencv_contrib
+> L84: **OpenCvSharp does not support CUDA.** If you want to use CUDA features, you need to customize the native bindings 
+> L21: |**OpenCvSharp5**|5.1.x|.NET 8+|Active development — recommended for new projects|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `d6deab15e7a1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f27dd6ec34e7` · [字段定义](../../DATASET.md)*

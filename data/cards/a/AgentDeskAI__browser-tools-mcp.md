@@ -2,9 +2,9 @@
 
 ⭐ 7,343 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AgentDeskAI/browser-tools-mcp) · [官网](https://agentdesk.ai/) · 组织维护
 
-**MCP 服务器：把真实 Chrome 会话的日志/网络/截图/审计流给 AI 编码代理**
+**让 AI 编码代理读取真实 Chrome 会话的 MCP 服务器**
 
-面向 Cursor、Claude Code、Windsurf、Cline、Zed、Gemini CLI 等 MCP 客户端的浏览器遥测服务器：通过 Chrome DevTools 扩展附着到用户已登录的真实浏览器会话（而非 CDP 自动化新开的浏览器），向 AI 代理提供控制台日志、网络请求、截图与 Lighthouse 级性能/无障碍/SEO 审计等 17 个工具。2.0 重写为单进程，连接器仅绑定 127.0.0.1、HTTP API 需按次运行令牌认证，捕获数据中的凭证（Authorization/Cookie/JWT/云密钥）会被替换为 [REDACTED]。大体积历史以 MCP 资源形式按需读取以控制上下文窗口。要求 Node 22.19+，需手动加载未打包的 Chrome 扩展；Firefox 未验证，视为不支持。
+BrowserTools MCP 通过 Chrome 扩展附加到用户正在使用的浏览器会话，将控制台输出、网络请求、截图与 Lighthouse 审计流式传给 MCP 兼容客户端（Cursor、Claude Code、Windsurf 等）。提供 20 余个工具（日志读取、元素选择、导航、截图、无障碍/性能/SEO 审计），大负载以 MCP resources 形式按需获取；仅绑定回环地址、需 bearer token、对凭据做脱敏。安装需 Node 22.19+ 与加载 Chrome 扩展两步；1.x 因安全问题不再维护，须升级到 2.0。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 附着到已登录的真实 Chrome 会话而非自动化新开浏览器
-- 17 个工具覆盖控制台/网络/元素/截图/存储与 4 类 Lighthouse 审计
-- 遥测按 tab 归属，大历史走 MCP resources 按需读取
-- 凭证抓取即脱敏、连接器仅绑定环回地址、按次运行令牌认证
+- 附加到已登录的真实 Chrome 会话，而非新建自动化浏览器
+- 20+ MCP 工具：控制台/网络日志、截图、Lighthouse 无障碍/性能/SEO 审计
+- 凭据自动脱敏、仅绑定 127.0.0.1、per-run bearer token 认证
+- 大历史数据以 MCP resources 提供，工具支持 limit/offset 与关键词过滤
 
 ## 适用场景
 
-- 让 AI 编码代理直接看到我正在调试页面的报错和请求
-- 通过代理对话对页面跑性能/无障碍/SEO 审计
-- 在已登录状态下让代理排查前端问题而无需重建认证环境
+- 让 Cursor/Claude Code 等代理直接查看我当前调试页面的控制台报错
+- 在保持登录态的会话里让代理复现和排查网络请求问题
+- 对页面跑 Lighthouse 无障碍/SEO 审计并让代理解读结果
 
 ## 场景标签
 
- · 领域:开发者工具/浏览器遥测
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L3: Give your AI coding agent eyes on the browser. BrowserTools MCP streams console
-> L5: Chrome session** — the one already logged into your app — to any MCP-compatible
+> L8: Give your AI coding agent eyes on the browser. BrowserTools MCP streams console
+> L11: client: Cursor, Claude Code, Windsurf, Cline, Zed, Gemini CLI, and others.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `9b0c2e240433` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a4124352e557` · [字段定义](../../DATASET.md)*

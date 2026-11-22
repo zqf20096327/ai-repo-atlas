@@ -2,9 +2,9 @@
 
 ⭐ 5,996 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/apache/maka) · 组织维护 · 中文 README
 
-**Apache 孵化中的本地优先 agent 工作区，完整记录 agent 运行全程**
+**本地优先的 agent 工作区：完整记录执行的每一步**
 
-面向使用 AI agent 完成任务的用户的高性能 agent 工作区（Apache 孵化项目），提供 Electron 桌面端、TUI 与 CLI 三种客户端形态。核心机制：所有模型消息、工具调用、权限决策以 append-only 的 RuntimeEvent 事件日志持久化到本地 SQLite，UI、后续 prompt 与崩溃恢复均为日志投影；三端共享同一 Runtime Host 执行体。模型由用户自带（云 API、本地模型或兼容网关），会话与凭据保存在本地。README 声明以官方 verifier 的基准结果衡量任务完成情况，结果发布于 docs/eval/。构建需 Node.js 22/24 与 ripgrep。
+Apache 孵化项目，提供运行 AI agent 的工作区，核心机制是 append-only 的 RuntimeEvent 日志：模型消息、工具调用、权限决策与终止均入日志，UI、下一条提示与崩溃恢复都由该日志投影生成。会话、设置与运行记录留在本地，模型由用户自接（云 API、本地模型或兼容网关）。桌面版基于 Electron，另有 TUI 与 CLI 入口，三者共享同一 Runtime Host；支持中断回合恢复与 Graph 多切片任务。平台为 macOS（Windows/Linux 为 preview）。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 模型消息、工具调用、权限决策全部记录为 append-only RuntimeEvent 日志，存于本地 runtime.sqlite
-- 桌面端、TUI、CLI 与 Eval 共用一个 Runtime Host 执行体
-- 模型自带（云 API / 本地模型 / 兼容网关），会话与密钥保存在本地
-- 支持中断 Turn 的显式恢复（Desktop 与 CLI/TUI /resume）
+- 所有模型消息、工具调用与权限决策以 append-only RuntimeEvent 记录
+- 本地优先：会话与凭据存于本机，用户自带模型接入（API/本地模型/网关）
+- Desktop、TUI、CLI 与 Eval 共享一个 Runtime Host 执行权威
+- 支持中断回合恢复与 /graph 多切片任务（隔离 Git worktree）
 
 ## 适用场景
 
-- 在桌面或终端里驱动 agent 完成编码等任务并保留完整可审计记录
-- 崩溃或中断后从事件日志恢复继续执行
-- 用同一工具在不同模型接入方式下对比运行 agent 任务
+- 本地运行 agent 完成编码或仓库分析任务并留存完整执行记录
+- 接入自己的云 API 或本地模型做 agent 任务
+- 对 agent 运行做基准评测（同模型同验证器对比 harness）
+- 崩溃或中断后恢复未完成的回合
 
 ## 场景标签
 
-`Agent 框架` `编码 Agent` · 领域:Agent 开发
+`编码 Agent` `Agent 框架` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3:  Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
+> L14:  One turn of RuntimeEvents: the model speaks, runs a command, asks permission, you approve, it gets the result, edi
+> L21: - **The log is the runtime.** Every model message, tool call, permission decision and termination is an append-only
 > L22: - **Your machine, your model.** Sessions, settings and run records stay local. You bring the model: a cloud API, a 
-> L119: Desktop / TUI / CLI → Runtime Host → SessionManager → AgentRun
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `370558c8fe88` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dc7bca4c483e` · [字段定义](../../DATASET.md)*

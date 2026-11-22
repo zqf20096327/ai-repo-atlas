@@ -2,15 +2,15 @@
 
 ⭐ 22,009 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/teableio/teable) · [官网](https://teable.ai) · 组织维护
 
-**面向企业的 AI 电子表格：数据管理、AI 工作流与应用构建一体**
+**企业 AI 表格平台：数据管理与 AI 工作流、应用构建一体**
 
-基于 PostgreSQL 的数据库协作平台，自托管时提供四合一部署：按会话隔离的 agent 沙箱容器、以独立容器运行的应用部署平台、由记录变更/定时/webhook 触发并含 AI 步骤的自动化引擎，以及表格/视图/权限/API 的协作数据库。功能包括自然语言操作数据的 AI Chat、描述需求即由 agent 构建并一键部署的 App Builder、批量填充字段的 AI field filling。提供云端托管与自托管两种形态，独立自托管版不含 AI 功能与应用构建。
+以表格界面操作、底层基于 PostgreSQL 的数据协作平台，自托管部署时包含四个组成部分：按会话隔离的 agent 沙箱容器、应用部署平台（每个应用独立容器）、由记录变更/定时/ webhook 触发且含 AI 步骤的工作流引擎、以及带视图/权限/API 的数据库协作平台。AI 功能包括自然语言对话操作数据、App Builder 生成应用并一键部署、批量填充字段。部署方式含云端托管、全功能自托管与无 AI 功能的独立自托管。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -25,27 +25,26 @@
 
 ## 能力要点
 
-- AI Chat 以自然语言查询与操作表格数据
-- App Builder 在隔离沙箱中构建应用并一键部署到独立 URL
-- 自动化引擎支持记录变更、定时与 webhook 触发并可插入 AI 步骤
-- 数据底层为真实 PostgreSQL，支持表格、视图、权限与 SQL 查询
+- AI 会话在独立沙箱容器中运行，会话结束即销毁
+- App Builder 通过自然语言描述生成应用并部署到独立 URL
+- 自动化支持记录变更、定时与 webhook 触发并可含 AI 步骤
+- 底层为 PostgreSQL，支持表格/看板/日历等多种视图与实时协作
 
 ## 适用场景
 
-- 把业务表格数据升级为带协作与权限的在线数据库
-- 用自然语言生成贴合自身流程的内部应用并部署
-- 为记录变更配置含 AI 步骤的自动化流程
-- 在企业自有基础设施上自托管 AI 数据平台
+- 团队在自托管环境中用自然语言分析和管理业务数据
+- 描述需求后生成内部应用并直接部署使用
+- 基于记录变更配置含 AI 推理步骤的自动化流程
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+`工作流自动化` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L4:  One platform where data management, AI workflows, and app building come together — spreadsheet-simple on the surfac
-> L33: - **A secure, scalable agent sandbox** — every AI session runs in its own isolated container, started on demand and
 > L36: - **A full-featured database collaboration platform on PostgreSQL** — tables, views, permissions, and API.
+> L73: |AI features (chat, agents)|✅|✅|❌|
+> L135: **Teable puts the agent where the work already happens.** Your data, apps,
 
 ## 星数曲线
 
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `9e607c6b7568` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `1b28d1ec385c` · [字段定义](../../DATASET.md)*

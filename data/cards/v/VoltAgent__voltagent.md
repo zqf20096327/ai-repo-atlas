@@ -1,10 +1,10 @@
 # VoltAgent/voltagent
 
-⭐ 11,001 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/VoltAgent/voltagent) · [官网](https://voltagent.dev) · 组织维护 · 中文 README
+⭐ 11,001 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/VoltAgent/voltagent) · [官网](https://voltagent.dev) · 组织维护
 
-**TypeScript AI Agent 开发框架，含可观测性控制台平台**
+**TypeScript AI Agent 框架与运维平台：构建、观测、部署 Agent**
 
-由两部分组成：开源 TypeScript 框架（@voltagent/core）与 VoltOps 控制台（云端或自托管）。框架提供 Agent 定义、工作流引擎、supervisor 多智能体协调、工具注册与 MCP 接入、记忆适配器、RAG、语音、Guardrails 与评测能力，支持切换 OpenAI/Anthropic/Google 等模型提供商；VoltOps 控制台提供执行追踪、日志、Prompt 构建、部署与监控。通过 npm create voltagent-app 脚手架创建项目，附带 Airtable、Slack、WhatsApp 等示例。MIT 许可。
+VoltAgent 由两部分组成：开源 TypeScript Agent 框架（@voltagent/core）提供 Memory、RAG、Guardrails、工具注册、MCP 连接、Workflow 引擎、Supervisor 多 Agent 协调与可恢复流式输出；VoltOps Console（Cloud/Self-Hosted）提供可观测性、追踪、日志、Prompt 管理、评测、自动化触发与一键部署。面向开发者，通过 create-voltagent-app CLI 创建项目，npm run dev 启动本地服务器，在控制台查看与调试运行中的 Agent。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 声明式工作流引擎与 supervisor/子智能体协调
-- MCP 客户端接入与 Zod 类型工具注册
-- 跨提供商模型切换（OpenAI/Anthropic/Google 等，改配置即可）
-- VoltOps 控制台提供可观测性、追踪、部署与评测（云端/自托管）
+- TypeScript 框架内置 Memory/RAG/Guardrails/Workflow/MCP 等模块
+- Supervisor 与 Sub-Agent 多 Agent 协调运行时
+- VoltOps 控制台提供追踪、日志、评测、Prompt 与部署
+- 可恢复流式输出：客户端刷新后可重连续传
 
 ## 适用场景
 
-- 用 TypeScript 构建带记忆与工具的多智能体系统
-- 通过控制台监控与调试生产环境中的 agent 执行
-- 搭建 RAG、语音、Guardrails 等能力的对话或自动化应用
+- 用 TypeScript 构建带工具与记忆的生产级 Agent
+- 在控制台追踪调试多步工作流与 human-in-the-loop 流程
+- 接入 Airtable/Slack/WhatsApp 等渠道构建自动化 Agent
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `RAG` `LLM 可观测性` · 领域:Agent 开发
+`Agent 框架` `多智能体` `LLM 可观测性` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L23: VoltAgent is an end-to-end AI Agent Engineering Platform that consists of two main parts:
 > L25: - **Open-Source TypeScript Framework** – Memory, RAG, Guardrails, Tools, MCP, Voice, Workflow, and more.
-> L32: With the open-source framework, you can build intelligent agents with memory, tools, and multi-step workflows while
+> L26: - **VoltOps Console** `Cloud` `Self-Hosted` – Observability, Automation, Deployment, Evals, Guardrails, Prompts, an
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `9b488ee3bb36` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `46b7f07cc684` · [字段定义](../../DATASET.md)*

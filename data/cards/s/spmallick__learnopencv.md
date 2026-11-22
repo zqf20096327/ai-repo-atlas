@@ -2,9 +2,9 @@
 
 ⭐ 23,256 · Jupyter Notebook · 推送 2026-11-20 · [GitHub](https://github.com/spmallick/learnopencv) · [官网](https://www.learnopencv.com/) · 组织维护
 
-**为学习计算机视觉/深度学习的开发者提供博客配套代码示例库**
+**计算机视觉/深度学习博文配套代码示例合集**
 
-该仓库收录 LearnOpenCV.com 博客文章对应的 C++ 与 Python 示例代码，主题覆盖 OpenCV 基础操作（图像读写、边缘检测、轮廓、相机标定、光流）、深度学习模型（YOLO 系列、SAM、DETR、CLIP、Gemma、Stable Diffusion 等）以及 3D 重建、SLAM、RAG、VLM、边缘部署等内容。以「博客文章—代码」链接清单为主要组织形式，由 BigVision.AI 公司维护，未在可见 README 中给出统一安装步骤。
+LearnOpenCV.com 博客的配套代码仓库，收录大量计算机视觉、深度学习与 AI 研究文章的 C++ 和 Python 示例，覆盖传统 OpenCV 图像处理（边缘检测、相机标定、光流、SLAM）到深度学习主题（目标检测微调、VLM、扩散模型、3D 重建、RAG）等，以博客文章+代码链接的清单形式组织。仓库由 BigVision.AI（计算机视觉与 AI 咨询公司）维护。
 
 ## 筛选速览
 
@@ -26,25 +26,24 @@
 
 ## 能力要点
 
-- 博客文章与配套代码一一对应的索引清单
-- 覆盖 OpenCV C++/Python 双语言示例
-- 内容横跨传统 CV、深度学习、3D 视觉、多模态与边缘部署
-- 由 CV 咨询公司 BigVision.AI 维护
+- C++ 与 Python 双语言的 OpenCV 教程代码示例
+- 覆盖传统 CV 技术与深度学习、多模态、3D 重建等研究方向
+- 以博文清单形式组织，每条附 Code 链接
+- 由 BigVision.AI 计算机视觉咨询公司维护
 
 ## 适用场景
 
-- 查找某个 OpenCV 功能（如相机标定、光流）的可运行示例
-- 跟随博客教程跑通 YOLO、SAM 等模型的代码
-- 检索 3D 重建、SLAM、RAG 等主题的入门代码
+- 按教程学习 OpenCV 图像处理的 C++/Python 实现
+- 查找目标检测、分割、深度估计等任务的参考代码
+- 了解深度学习与计算机视觉研究方向的代码实践
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `图像视频处理` `目标检测` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: This repository contains code for Computer Vision, Deep learning, and AI research articles shared on our blog LearnO
-> L11:  LearnOpenCV is maintained by BigVision.AI , a computer vision and AI consulting company. We help organizations des
 > L19: ## List of Blog Posts
 
 ## 星数曲线
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `1689c90205c4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `eb81035d15d4` · [字段定义](../../DATASET.md)*

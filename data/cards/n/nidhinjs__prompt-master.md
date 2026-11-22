@@ -2,9 +2,9 @@
 
 ⭐ 16,210 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nidhinjs/prompt-master) · 个人维护
 
-**给各 AI 工具写精准提示词的 Claude skill**
+**为各类 AI 工具生成精准提示词的 Claude 技能**
 
-以 Claude skill 形式分发的提示词生成器：对用户请求运行结构化流水线——检测目标工具、提取 9 维意图、最多 3 个澄清问题、自动路由到 13 个提示词模板之一、应用 5 种声明为安全的技术、做 token 效率审计后输出单个可复制提示词。内置 30+ 工具 profile，未收录的工具用 4 问 Universal Fingerprint 处理。明确排除 Tree of Thought 等易幻觉方法。面向使用多个 AI 工具的普通用户。
+一个安装到 Claude 的 skill：当用户需要给其他 AI 工具写提示词时被调用，运行 8 步结构化流水线——检测目标工具、提取 9 个意图维度、最多提 3 个澄清问题、自动路由到 14 种提示词模板之一、应用仅限 5 种安全技巧、做 token 效率审计后输出单块可复制提示词。内置 30+ 工具画像（覆盖 LLM、编码 agent、图像/视频/3D 生成、语音、工作流自动化等），未知工具走 Universal Fingerprint 4 问流程。安装方式为 claude.ai 上传 ZIP 或 clone 到 Claude Code skills 目录。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 覆盖推理、编码、图像、视频、语音、自动化等 30+ 工具的专用 profile
-- 13 个提示词模板自动选择并对用户隐藏框架名
-- 检测 37 种浪费额度的提示词模式并给出改写
-- max 3 个澄清问题与 token 效率审计机制
+- 8 步流水线：意图提取→澄清提问→模板路由→token 效率审计
+- 30+ 工具画像与 14 种自动选择的提示词模板
+- 仅采用 5 种声明有界效果的技巧，明确排除易致幻觉的方法
+- 通过 claude.ai 上传 ZIP 或 clone 至 Claude Code skills 目录安装
 
 ## 适用场景
 
-- 为 Claude Code / Cursor 等编码工具生成任务提示词
-- 为 Midjourney、Stable Diffusion 生成图像提示词
-- 把写坏的提示词拆解并改写成适配其他工具的版本
+- 给 Cursor 或 Claude Code 写重构/开发任务的提示词
+- 为 Midjourney、Stable Diffusion 生成图像提示词并支持参考图编辑
+- 把写坏的工具提示词粘贴进来改写优化
 
 ## 场景标签
 
@@ -44,7 +44,8 @@
 ## 证据(README 行号)
 
 > L1: A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and mem
-> L71: Prompt Master runs a structured pipeline on every request:
+> L73: 1. **Detects the target tool** — figures out which AI system the prompt is for and routes silently to the right app
+> L120: Prompt Master includes specific profiles for 20+ tools. For anything not on the list, it uses a **Universal Finger
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `50eeea47084a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `36cd233f74e6` · [字段定义](../../DATASET.md)*

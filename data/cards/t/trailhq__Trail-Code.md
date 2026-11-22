@@ -2,9 +2,9 @@
 
 ⭐ 11,404 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/trailhq/Trail-Code) · [官网](https://trailhq.com/trail-code) · 组织维护
 
-**给编码 agent 的代码地图与团队经验学习层**
+**为团队编码 agent 提供共享代码地图与决策记忆的 CLI**
 
-面向 Claude Code、Cursor、Codex 等编码 agent 的上下文层，含两部分：graft map 用 tree-sitter 把仓库解析为文件/函数/调用关系图（无模型、无 API key，支持 23 种语言），通过 hooks/MCP 把相关代码随每次提示注入；learnings 从对话中保存团队决策与偏好为 markdown 文件，随 git 提交，`trail check` 在 PR 前比对照已学内容并提示冲突。本地运行，无 daemon/server，npm 全局安装。
+由 npm CLI 安装的本地工具，面向使用 Claude Code、Cursor、Codex 等编码 agent 的开发团队。两部分机制：graft map 用 tree-sitter 在本机解析仓库生成函数/调用者图谱，24 种语言，无需模型与 API key，经 hooks 或 MCP 注入 agent 提示；learnings 从会话中自动保存团队决策，存为可读的 markdown 文件并随代码提交。支持个人/仓库/团队三级存放，trail check 在 PR 前比对学习记录。Node 22.3+ 或 20.16。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- tree-sitter 解析代码为函数/调用图，确定性构建，无需模型或 API key
-- learnings 以 markdown 文件保存在 .trail/，随 git 提交共享给团队
-- trail check 在 PR 前比变更与团队决策并检测与同事分支的冲突
-- 通过 Claude Code hooks 与 MCP 工具接入多种编码 agent
+- tree-sitter 解析 24 种语言生成代码调用图谱，无模型、无网络
+- learnings 从会话自动沉淀，随代码提交供团队共享
+- 通过 Claude Code hooks、MCP 工具接入多种编码 agent
+- trail check 在 PR 前标记与既有团队决策冲突的改动
 
 ## 适用场景
 
-- 让编码 agent 少做盲目检索，直接定位相关文件与函数
-- 把团队对代码的决策和偏好沉淀下来供后续会话与同事使用
-- PR 前自动核验变更是否违背团队已有决策
+- 让新会话的 agent 直接接手团队之前的工作上下文
+- 减少编码 agent 重复探索代码库的 token 与时间开销
+- 团队把代码决策沉淀为文件并随代码提交共享
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3: ### The self-learning context layer for coding agents.
 > L54: 1. **The graft map: your code.** `trail init` parses your repo with tree-sitter into a map of every file, function 
-> L103: - **The right code with every prompt.** In Claude Code, hooks add the matching files and functions to each prompt,
+> L108: - **The right code with every prompt.** In Claude Code, hooks add the matching files and functions to each prompt,
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `dd8441417ec0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `5a68ea0b0dbf` · [字段定义](../../DATASET.md)*

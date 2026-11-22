@@ -2,9 +2,9 @@
 
 ⭐ 30,283 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/harvard-edge/cs249r_book) · [官网](https://mlsysbook.ai) · 组织维护
 
-**Harvard CS249r 的 ML 系统工程四卷本开放教材与配套课程资源**
+**面向学生与讲师的机器学习系统开源教材系列（四卷）**
 
-哈佛 CS249r 课程的开源教材仓库，提供四卷 Machine Learning Systems 教材：基础、分布式扩展、Agentic 系统、物理 AI（后两卷在开发中）。除阅读材料外配套 TinyTorch（从零构建 ML 框架的 20 个模块）、交互式 Labs、MLSys·im 基础设施模拟器、硬件实验套件（Arduino/树莓派等边缘设备部署）与 StaffML 面试题库，并为教师提供 16 周教学大纲与讲义。硬拷贝将由 MIT Press 出版。支持英中日韩多语言。
+Harvard CS249r 的开源教科书系列，覆盖单机执行、分布式扩展、Agentic 系统与物理 AI 四卷，附配套工具：TinyTorch（20 个模块从零构建 ML 框架）、MLSys·im 模拟器、硬件套件（Arduino/Seeed/Raspberry Pi）、浏览器 Marimo 实验室、9,000+ 道 StaffML 设计面试题、教学大纲与讲义。Vol I 已由 MIT Press 印刷出版，Vol III/IV 为开放草稿，作者提示暂勿引用或用于授课。
 
 ## 筛选速览
 
@@ -26,17 +26,17 @@
 
 ## 能力要点
 
-- 四卷本教材覆盖单机推理到分布式扩展、agent 编排与机器人物理系统
-- TinyTorch 提供从零构建 ML 框架的 20 个渐进模块
-- MLSys·im 模拟器可计算内存瓶颈、网络饱和与调度上限
-- 硬件套件支持在 Arduino、Seeed、Grove、树莓派上部署 ML
+- 四卷结构：单机、集群扩展、Agentic、物理 AI
+- TinyTorch 让学生在 20 个模块中从零构建 ML 框架
+- MLSys·im 模拟器建模内存、算力、网络与能耗约束
+- StaffML 提供 9,000+ 系统设计面试题
 
 ## 适用场景
 
-- 自学机器学习系统设计与工程化部署
-- 高校开设 ML Systems 课程并使用配套教学资源
-- 准备 ML 系统方向岗位面试（StaffML 题库）
-- 在边缘设备上做受资源约束的 ML 实验
+- 自学机器学习系统课程内容
+- 高校讲师取用配套大纲、幻灯片与实验室材料
+- 通过硬件套件在有真实约束的边缘设备上部署模型
+- 准备系统设计面试的练习题
 
 ## 场景标签
 
@@ -44,9 +44,9 @@
 
 ## 证据(README 行号)
 
-> L79:  Four-volume MIT Press textbook series on Machine Learning Systems Architecture:
-> L100:  Deploy ML to Arduino, Seeed, Grove, and Raspberry Pi devices. Real memory limits, real power budgets, real latenc
-> L121:  The AI Engineering Blueprint: two 16-week syllabi, pedagogy guide, assessment rubrics, and a TA handbook.
+> L10:  An open textbook series on how machine learning systems are built and why they are built that way, with companion 
+> L160: Around the textbook sit the companion tools that let students build, measure, and practice what they read. The pie
+> L207:  A syllabus for each course, with weekly readings and slides: introductory, scaling, TinyML, Edge AI, Physical AI 
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ba86974dc11b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f16ef07b5826` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 13,797 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/XiaomiMiMo/MiMo-Code) · [官网](https://mimo.xiaomi.com/mimocode) · 组织维护 · 中文 README
 
-**面向开发者的终端原生 AI 编码助手，带持久记忆与多 Agent**
+**小米出品的终端原生 AI 编程助手 CLI，跨会话记忆持续理解项目**
 
-终端（TUI）内运行的 AI 编码助手：读写代码、执行命令、管理 Git，并通过 SQLite FTS5 驱动的跨会话持久记忆（项目记忆、会话检查点、任务日志）保持对项目的理解。内置 build/plan 双 Agent、子 Agent 并行、目标停止条件判定、JavaScript 工作流（deep-research、fact-check 等 3 个内置）与技能系统（arxiv、pdf、pptx 等内置技能）。可通过 OAuth 或 API key 连接多家 LLM 提供商，另可迁移 Claude Code 认证；附带以 MiMo Code 为核心引擎的桌面版。安装提供 macOS/Linux 一行脚本；macOS 不支持自带 Terminal.app。
+MiMoCode 是小米 MiMo 团队发布的终端原生 AI 编码助手：可读写代码、执行命令、管理 Git，并通过基于 SQLite FTS5 的持久记忆系统（MEMORY.md、checkpoint、notes、任务日志）在会话间保持对项目的理解。支持连接任意主流 LLM 提供商 API（OAuth 或 OpenAI 兼容自定义 Provider），内置 build/plan 双 Agent、子代理并行、上下文压缩与任务跟踪、确定性 JavaScript 工作流（deep-research/fact-check/research-experiment）与可复用技能系统。提供 macOS/Linux 一键安装脚本；不支持 macOS 内置终端，需 iTerm2 或 VS Code 终端。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,27 +26,27 @@
 
 ## 能力要点
 
-- SQLite FTS5 跨会话持久记忆，会话恢复自动注入上下文
-- 多 Agent 与子 Agent 并行，/goal 独立裁判模型判定停止条件
-- JavaScript 编写的确定性工作流 + BM25 技能检索系统
-- 上下文预算管理与按模型的 /context-limit 压缩点调节
+- 跨会话持久记忆：SQLite FTS5 检索的项目记忆、会话检查点与任务日志
+- 上下文管理：自动检查点、上下文重建、token 预算注入与可调压缩点 /context-limit
+- 确定性 JS 工作流：deep-research、fact-check、research-experiment，支持沙箱并行与文件断点续跑
+- 可从 Claude Code 一键迁移认证，支持任意 OpenAI 兼容 API
 
 ## 适用场景
 
-- 在终端里让 AI 助手完成编码、测试与 Git 操作
-- 跨会话维护对同一项目的长期记忆与任务进度
-- 用内置工作流生成带引用的深度研究报告或做事实核查
-- 运行可机械验证指标的自主优化实验循环
+- 在终端中让 AI 代理读写代码、跑命令、管理 Git 完成开发任务
+- 长会话开发中保留项目知识，恢复会话不丢上下文
+- 用内置工作流做多来源深度研究报告或事实核查
+- 在 Cursor/Cline/Zed 等工具中接入 MiMo 模型（配套指南仓库）
 
 ## 场景标签
 
-`编码 Agent` `Agent 记忆` `多智能体` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L11: MiMoCode is a terminal-native AI coding assistant. It can read and write code, run commands, manage Git, and use a 
-> L29: MiMoCode supports connecting to any mainstream LLM provider API.
-> L19: Xiaomi MiMo Desktop is built for real-world work: one conversation can handle office work, design, coding, and mult
+> L13: MiMoCode supports connecting to any mainstream LLM provider API.
+> L105: Beyond MiMoCode, Xiaomi MiMo models also work in other agents and coding tools like Cursor, Cline, and Zed.
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9745a768986e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `68e5edd9ad48` · [字段定义](../../DATASET.md)*

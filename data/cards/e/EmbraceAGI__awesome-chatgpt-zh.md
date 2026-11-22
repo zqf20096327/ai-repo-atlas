@@ -1,10 +1,10 @@
 # EmbraceAGI/awesome-chatgpt-zh
 
-⭐ 11,868 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EmbraceAGI/awesome-chatgpt-zh) · [官网](https://embraceagi.github.io/awesome-chatgpt-zh/) · 个人维护 · 中文 README
+⭐ 11,868 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EmbraceAGI/awesome-chatgpt-zh) · [官网](https://embraceagi.github.io/awesome-chatgpt-zh/) · 组织维护 · 中文 README
 
-**中文用户的 ChatGPT 与前沿 AI 资源精选清单**
+**中文用户的 ChatGPT 与前沿 AI 中文资源清单**
 
-面向中文用户的 ChatGPT 及大模型资源聚合项目：收录免费/付费 ChatGPT 使用途径、Prompt 工程指南、应用开发指南、生产力工具，并持续跟进 GPT-5、Claude、DeepSeek、MCP、Claude Skills、编程智能体、浏览器自动化、RAG 等主题。组织形式为分类目录加资源链接，附微信公众号与 Telegram 交流群，通过 GitLab 镜像方便国内访问。内容为文档清单，无安装运行需求。
+面向中文用户的 AI 资源聚合清单：收录 ChatGPT 使用途径、Prompt 工程指南、GPTs 指南、应用开发指南与精选开源项目，并持续扩展到前沿大模型、Claude Skills、MCP 协议、编程智能体、API 代理与模型路由、浏览器自动化、RAG 与生图等专题。由 GitHub Actions 每日抓取 GitHub Trending 自动收录 AI 热门项目，另提供网站版（专题导航、全文搜索）。内容以链接目录为主，无安装运行要求。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 覆盖 Prompt 工程、应用开发、大模型技术文章等主题的中文资源目录
-- 收录 DeepSeek 生态、Claude Skills、MCP、编程智能体等专题指南
-- 提供 GitLab 国内镜像与微信/Telegram 交流社区
+- 多专题中文资源目录：Prompt 工程、应用开发、MCP、Claude Skills、编程智能体等
+- GitHub Actions 每日自动抓取 Trending 并分类 AI 项目
+- 提供网站版：专题导航、全文搜索、Star 排序
+- 提供 GitLab 镜像方便国内访问
 
 ## 适用场景
 
-- 查找 ChatGPT 的中文使用途径与高效对话方法
-- 按主题检索 MCP、Claude Skills、编程智能体等前沿 AI 资源
-- 了解面向中文用户的大模型应用开发资料
+- 查找 ChatGPT 及大模型的中文教程与调教指南
+- 按专题浏览 MCP、Agent、编程智能体等生态的精选项目
+- 了解国内可访问的 AI 生产力工具与资源
 
 ## 场景标签
 
@@ -36,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L11: ChatGPT 中文指南项目旨在帮助中文用户了解和使用 ChatGPT 及前沿 AI 技术。我们收集了各种免费和付费的 ChatGPT 资源、高效使用中文与大模型交流的方法、应用开发的相关资源，以及基于大模型能力的生产力工具。项目
-> L15: ## 什么是 ChatGPT ?
+> L16: ChatGPT 中文指南项目旨在帮助中文用户了解和使用 ChatGPT 及前沿 AI 技术。我们收集了各种免费和付费的 ChatGPT 资源、高效使用中文与大模型交流的方法、应用开发的相关资源，以及基于大模型能力的生产力工具。项目
+> L50: 由 GitHub Actions 每天抓取 GitHub Trending（日榜 / 周榜，多语言）与近 30 天新晋高星仓库，按关键词筛选出 AI 相关项目并自动分类（编程智能体、MCP / Skills、API 网关、图像视频
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `e5f6c2968fae` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `42c126aadaea` · [字段定义](../../DATASET.md)*

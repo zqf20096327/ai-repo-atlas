@@ -1,10 +1,10 @@
 # Fractal-Compute-Orchestrations/FractalWorkspace
 
-⭐ 9,191 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace) · [官网](https://play.google.com/store/apps/details?id=org.fractal.app&hl=en) · 个人维护
+⭐ 9,191 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace) · [官网](https://play.google.com/store/apps/details?id=org.fractal.app&hl=en) · 组织维护
 
-**面向安卓边缘设备的联邦学习与分布式推理编排框架**
+**面向开发者的边缘设备联邦学习分布式计算框架**
 
-由 FractalCore（Python 中心服务器/编排器）与 FractalAndroid（Kotlin 边缘执行节点）组成的主从式分布式计算生态：服务器负责多租户隔离、数据分段分发、模型图切分（分区≤150MB）、FedAvg 联邦聚合与令牌化奖励；安卓节点做硬件门控的本地训练与 mmap 推理，电量/温度越限即暂停，另支持将大模型切分后跨设备流水线并行。原始数据不出端，采用专有源可得许可，禁止未经授权的商业使用。
+由两个子系统组成的分布式框架：FractalCore 为 Python 中央服务器（多租户隔离、数据集分片、ATen 图编译、FedAvg/FedProx 聚合、算力预算与代币化奖励分发），FractalAndroid 为 Kotlin 原生移动端运行时（硬件门控端侧训练、mmap 内存映射推理、温度/电量阈值超限即暂停任务）。核心机制是 64 元素微块 INT4 量化与分块模型执行，README 给出 TinyLlama-1.1B 与 MobileNetV3 上的压缩、保真与上行延迟基准数据。以 Colab 笔记本与源码方式提供。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 原始数据不上传的联邦学习生命周期（分段分发 + checkpoint delta 回传 + FedAvg 确定性聚合）
-- 大模型切分为 ≤150MB 内存分区，安卓节点 mmap 加载并跨本地 mesh 传输 INT8 量化激活
-- 电量≥50%/充电中/温度≤40°C 的设备执行门控合同
-- 多租户存储沙箱与单次性 task_Id 重放防护
+- FractalCore 中央服务器 + FractalAndroid 移动端运行时的双子系统架构
+- 微块（64 元素 tile）INT4 量化，README 报告 7.11x 传输压缩与 0.9878 层余弦保真
+- FedAvg/FedProx 确定性联邦权重聚合与 tokenized 奖励分发
+- 端侧 mmap 执行与热/电阈值门控，动态暂停工作负载
 
 ## 适用场景
 
-- 把消费级安卓设备组成联邦学习训练集群
-- 在边缘设备上分片运行 Llama 3 8B 等基础模型推理
-- 以多租户仪表盘跟踪边缘机队训练与聚合遥测
+- 在手机等边缘设备上参与大模型联邦训练
+- 压缩模型检查点以适应消费级 Wi-Fi/LTE 上行带宽
+- 在移动内存受限设备上加载和执行大模型推理
 
 ## 场景标签
 
-`模型训练` `推理引擎` · 领域:训练与推理
+`模型量化` `模型训练` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L23: 1. **FractalCore (Central Server & Orchestrator)**: The Python-based control plane responsible for multi-tenant iso
-> L24: 2. **FractalAndroid (Edge Compute Node & Application)**: The native Kotlin/Android execution engine running on mobi
-> L52: ### 1. Federated Learning (On-Device Training)
+> L4: ### Distributed Compute Orchestration and Edge Intelligence Framework
+> L53: 1. **FractalCore (Central Server & Model Slicer)**: The Python control plane executing multi-tenant isolation, data
+> L54: 2. **FractalAndroid (Edge Compute Node & Runtime)**: The native Kotlin execution engine running on mobile hardware.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c70e9ceb124f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `769f79070ab5` · [字段定义](../../DATASET.md)*

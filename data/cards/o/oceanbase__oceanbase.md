@@ -2,9 +2,9 @@
 
 ⭐ 10,425 · C++ · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/oceanbase/oceanbase) · [官网](https://en.oceanbase.com) · 组织维护 · 中文 README
 
-**蚂蚁集团开发的分布式关系型数据库（HTAP，兼容 MySQL）**
+**蚂蚁集团开源的分布式关系数据库，面向大规模高可用场景**
 
-由蚂蚁集团开发的分布式关系型数据库，基于通用服务器集群与 Paxos 协议构建，提供高可用与线性扩展，不依赖特定硬件架构。特性包括单集群 1,500 节点/PB 级数据扩展、HTAP 实时分析、RPO=0/RTO<8s 持续可用、MySQL 兼容迁移。安装途径覆盖 Linux all-in-one 脚本、Docker 镜像（dockerhub/quay.io/ghcr.io）、Kubernetes ob-operator 及源码编译；Apache 2.0 许可，已服务金融、电信、零售等 2000 余家客户。
+OceanBase Database 是由蚂蚁集团开发的分布式关系数据库，运行在通用服务器集群上，基于 Paxos 协议提供高可用与线性扩展能力，不依赖特定硬件架构。README 列出的关键特性包括透明扩展（单集群 1,500 节点、PB 级数据）、HTAP 实时分析、RPO=0 与 RTO<8s 的持续可用性，以及 MySQL 兼容。部署途径涵盖 all-in-one 安装包（仅 Linux）、Docker 镜像与 Kubernetes 的 ob-operator；源码编译方式见开发者文档。采用 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- Paxos 协议分布式架构，RPO=0、RTO<8s
-- 单集群支持 1,500 节点、PB 数据、万亿行记录
-- HTAP 实时分析，无需额外成本
-- MySQL 兼容，支持从 MySQL 迁移
+- 基于 Paxos 协议的分布式架构，支持 1,500 节点、PB 级数据的单集群扩展
+- 支持 HTAP 实时分析，并提供 MySQL 兼容以支持迁移
+- 提供 all-in-one 安装包、Docker 镜像与 Kubernetes ob-operator 三种部署方式
 
 ## 适用场景
 
-- 需要高可用与线性扩展的金融级交易业务
-- 在同一集群内同时承载事务与实时分析（HTAP）
-- 从 MySQL 平滑迁移到分布式数据库
+- 部署高可用、可水平扩展的分布式数据库
+- 从 MySQL 迁移现有业务数据
+- 在同一引擎上运行交易与分析混合负载（HTAP）
 
 ## 场景标签
 
- · 领域:数据库/基础软件
+ · 领域:数据库/基础设施
 
 ## 证据(README 行号)
 
 > L33: **OceanBase Database** is a distributed relational database. It is developed entirely by Ant Group. The OceanBase D
-> L37: - **Transparent Scalability**: 1,500 nodes, PB data and a trillion rows of records in one cluster.
+> L40: - **Real-time Analytics**: supports HTAP without additional cost.
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 low · 依据 README sha `8bfb8f2463fe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `ad13da412d5f` · [字段定义](../../DATASET.md)*

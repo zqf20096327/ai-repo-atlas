@@ -2,9 +2,9 @@
 
 ⭐ 6,657 · 推送 2026-11-21 · [GitHub](https://github.com/speedyapply/2027-AI-College-Jobs) · [官网](https://speedyapply.com/discord) · 组织维护
 
-**面向大学生的 2027 届 AI/ML 实习与新毕业生职位清单**
+**面向大学生的 AI/ML 实习与应届岗位每日更新清单**
 
-由 SpeedyApply 维护的 AI/ML 与数据科学职位聚合清单，面向寻找实习或新毕业生岗位的大学生，按美国与国际、实习与新毕业生分区，再按 FAANG+、量化等类别组织。职位每日更新，优先收录近 120 天内发布的岗位，每条列出公司、职位、地点、时薪、发布时长并附申请链接。仓库同时链接 SpeedyApply 网站、Discord 社区与 Chrome 浏览器扩展。可见部分为 2027 美国 AI 实习 FAANG+ 类别表格（Meta、TikTok、NVIDIA 等约百条）。
+收录面向大学生的 AI/ML 与数据科学职位清单，按美国与国际、实习与应届生四个板块组织，包含 FAANG+、量化及其他公司职位，标注职位、地点、薪资、申请链接与发布天数，每日更新且只保留 120 天内发布的职位。另提供关联的软件工程职位清单、Discord 社区与 SpeedyApply Chrome 扩展链接。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 按美国/国际 × 实习/新毕业生四分区组织职位
-- 职位每日更新，优先收录近 120 天内发布的岗位
-- 每条职位含公司、地点、时薪、发布时长与申请链接
-- 关联 SpeedyApply Chrome 扩展与 Discord 社区
+- 每日更新，仅收录 120 天内发布的职位
+- 按美国/国际 × 实习/应届生四个板块组织
+- 条目含公司、职位、地点、薪资与发布时长
 
 ## 适用场景
 
-- 找 2027 届 AI/ML 实习或新毕业生岗位
-- 对比 FAANG+、量化等不同类别公司的薪资与地点
-- 了解近期（120 天内）发布的 AI 职位动态
+- 查找 AI/ML 方向的实习或应届生岗位
+- 跟踪 FAANG 与量化公司的最新招聘信息
+- 求职季了解岗位薪资与发布时效
 
 ## 场景标签
 
@@ -39,6 +38,7 @@
 
 > L1: # 2027 Artificial Intelligence Internship & New Grad Positions
 > L3: This repository is a comprehensive list of AI/ML & Data Science jobs for college students in search of **internships
+> L6: - Internships :books: - **945** available (FAANG+, Quant, Other)
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `3df87f279e99` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4582bf356fa6` · [字段定义](../../DATASET.md)*

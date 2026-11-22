@@ -2,9 +2,9 @@
 
 ⭐ 6,781 · CC0-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/georgezouq/awesome-ai-in-finance) · [官网](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4) · 个人维护 · 中文 README
 
-**金融市场 AI 应用与研究的策展清单（Agent/LLM/MCP/论文）**
+**金融领域 AI/LLM 资源策展清单，面向量化研究与实践者**
 
-面向量化交易与金融研究社区的资源聚合清单：按类别收录 AI 交易 Agent（如 TradingAgents、FinRobot）、金融 LLM 与基准（FinGPT、PIXIU、Nof1）、Claude 技能、连接金融数据与交易 API 的 MCP 服务器（行情、下单、研究），以及强化学习交易等经典论文。条目为链接加一句话描述，不提供可运行代码本身，含中文资源入口。
+收录金融市场中使用的 AI 研究、工具与代码的 awesome 清单，按 Agents、LLMs、Skills、MCP Servers（市场数据与交易执行）等章节组织。条目涵盖交易 Agent 框架、金融大模型与基准（PIXIU、FinGPT 等）、ESG 评测数据集，以及连接 Claude/Cursor 等 AI 助手与市场数据、券商交易 API 的 MCP 服务器。提供中文资源入口。本身为链接清单，不含安装或运行说明。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录 AI 交易 Agent、金融 LLM 基准与数据集条目
-- 按 Market Data / Trading Execution / Research 分类整理金融 MCP 服务器
-- 收录强化学习交易方向的经典论文条目
-- 提供中文资源入口
+- 按 Agents/LLMs/Skills/MCP Servers 分类组织条目
+- 收录金融 LLM 与基准（PIXIU、FinGPT、FinRpt 等）
+- MCP 章节列出市场数据与交易执行两类服务器
+- 提供中文资源章节
 
 ## 适用场景
 
-- 寻找金融领域的 AI 交易 Agent 或分析框架
-- 为 AI 助手查找金融数据与交易接口的 MCP 服务器
-- 查阅金融 AI 与强化学习交易的研究文献线索
+- 查找金融交易与量化研究的开源 AI 工具
+- 了解金融领域 LLM 与评测基准生态
+- 为 AI 助手挑选金融数据/交易类 MCP 服务器
 
 ## 场景标签
 
@@ -37,6 +37,7 @@
 
 ## 证据(README 行号)
 
+> L1: # Awesome AI in Finance Awesome Community
 > L4: With the power of the latest artificial intelligence research, people analyze & trade automatically and intelligentl
 > L8: ## Contents
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `aefa3f9a20ff` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `423a14be6a43` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 9,667 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/xorbitsai/inference) · [官网](https://inference.readthedocs.io) · 组织维护 · 中文 README
 
-**统一推理平台：一行命令部署语言/语音/多模态模型**
+**面向开发者的分布式模型推理平台：部署并通过 OpenAI 兼容 API 提供多模态模型**
 
-Xinference（Xorbits Inference）是面向研究人员、开发者与数据科学家的模型服务库，支持以单条命令部署和提供语言、语音识别与多模态模型的推理服务。支持多推理引擎（vLLM、llama.cpp 系 Xllamacpp、GGML、TensorRT）、分布式部署与异构 GPU/CPU 利用，对外提供 OpenAI 兼容 RESTful API（含 Function Calling）、RPC、CLI 与 WebUI。另设商业版 Xinference Enterprise 与 Xinference Cloud 托管部署。
+Xinference 是开源分布式推理平台：内置 300+ 语言、视觉、嵌入、重排、图像、音频、视频模型目录，支持注册自定义模型（含 Flexible 类型的传统 ML 模型）。可选择 vLLM、SGLang、TRT-LLM、Transformers、llama.cpp、MLX 等引擎部署，硬件覆盖 CPU、GPU、Apple Silicon 与 MLU，支持单机到多节点分布式、prefill/decode 分离、同一模型 ID 下多引擎副本与滚动重配置。通过 Web UI、CLI 或 Python SDK 管理部署，经 OpenAI/Anthropic 兼容端点调用，Web UI 内置性能基准测试。另有企业版/云托管形态。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Xinference（Xorbits Inference）是面向研究人员、开发者与数据科�
 
 ## 能力要点
 
-- 单条命令部署语言/语音/多模态模型，内置模型库持续更新
-- 多推理引擎支持（vLLM、Xllamacpp、GGML、TensorRT）与多节点分布式部署
-- OpenAI 兼容 RESTful API（含 Function Calling）、RPC、CLI、WebUI 多种接口
-- 与 LangChain、LlamaIndex、Dify 等第三方库集成
+- 300+ 内置模型目录，覆盖语言、视觉、嵌入、重排、图像、音频、视频
+- 多引擎后端（vLLM/SGLang/TRT-LLM/Transformers/llama.cpp/MLX）与异构硬件部署
+- OpenAI/Anthropic 兼容端点，支持流式与工具调用
+- 单机到分布式集群，支持 P/D 分离与 GPU 权重复用
 
 ## 适用场景
 
-- 在自有服务器或笔记本上自托管开源大模型并提供 API
-- 企业级模型推理部署（含集群与异构硬件）
-- 让现有 OpenAI API 应用切换到自托管模型（一行代码替换）
+- 在笔记本或自有服务器上自托管模型并通过 API 接入应用
+- 在集群中部署大模型并跨 worker 分摊推理
+- 通过 Web UI 对运行中的模型做吞吐与延迟基准测试
+- 为 LangChain/Dify/RAGFlow 等框架提供模型后端
 
 ## 场景标签
 
@@ -37,8 +38,9 @@ Xinference（Xorbits Inference）是面向研究人员、开发者与数据科�
 
 ## 证据(README 行号)
 
-> L29: Xorbits Inference(Xinference) is a powerful and versatile library designed to serve language,
-> L78: with your models, supporting OpenAI compatible RESTful API (including Function Calling API), RPC, CLI
+> L3: **Xinference (Xorbits Inference) is an open-source distributed inference platform.**
+> L63: |Engines and hardware|Choose vLLM, SGLang, TRT-LLM, Transformers, llama.cpp, or MLX for supported LLMs. Hardware su
+> L65: |APIs and tools|OpenAI- and Anthropic-compatible endpoints, with streaming and tool calling where supported. Deploy
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `5ff1b6eac5c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `96e17005c280` · [字段定义](../../DATASET.md)*

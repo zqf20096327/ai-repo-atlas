@@ -2,15 +2,15 @@
 
 ⭐ 30,158 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/JaidedAI/EasyOCR) · [官网](https://www.jaided.ai) · 组织维护
 
-**支持80+语言的即用型 OCR 图文识别库**
+**支持80+语言的即用型OCR识别库**
 
-基于 PyTorch 的开源 OCR 库：检测端使用 CRAFT 算法，识别端使用 CRNN（Resnet/VGG 特征提取 + LSTM 序列标注 + CTC 解码），支持拉丁、中文、阿拉伯、天城文、西里尔等 80+ 种语言的文字检测与识别，输出边界框、文本与置信度。以 Python 包与命令行两种方式使用，模型权重自动下载或从模型库手动放置；无 GPU 或显存不足时可切换 CPU-only 模式。手写体识别尚在开发计划中，新语言需按流程提交字符表与词典 PR。
+基于 PyTorch 的开源 OCR 库，支持 80 多种语言与主流文字系统（拉丁、中文、阿拉伯、天城文、西里尔等）。检测端使用 CRAFT 算法，识别端使用 CRNN（Resnet/VGG 特征提取 + LSTM + CTC 解码）。以 Python 库与命令行两种方式调用，读取图片路径、numpy 数组、字节或 URL，输出包围框、文本与置信度；模型权重自动下载，也可手动放入 ~/.EasyOCR/model。无 GPU 或显存不足时可用 CPU 模式。企业支持由 Jaided AI 商业提供。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 支持 80+ 语言与主流书写系统，多语言可同时传入识别
-- 检测用 CRAFT、识别用 CRNN（Resnet/VGG + LSTM + CTC）
-- 提供 Python API 与命令行两种使用方式，模型权重自动下载
-- GPU 不可用或显存低时可用 gpu=False 以 CPU 模式运行
+- 支持 80+ 语言与多种文字脚本，可一次传入多语言组合识别
+- 输出包围框坐标、检测文本与置信度，支持 detail=0 简化输出
+- 模型权重自动下载，支持手动放置到 model 目录
+- 提供命令行用法与 Dockerfile；可选 DBNet 检测器（dbnet18）
 
 ## 适用场景
 
-- 从图片中提取多语言文字及其位置和置信度
-- 接入 Python 项目或脚本做批量图片 OCR
-- 训练或替换自己的检测/识别模型
+- 对含中文、英文等多语言混合的图片做文字识别
+- 在无 GPU 的环境下用 CPU 模式批量识别图片文本
+- 训练或替换自己的检测/识别模型接入 EasyOCR 流水线
 
 ## 场景标签
 
@@ -45,8 +45,7 @@
 ## 证据(README 行号)
 
 > L8: Ready-to-use OCR with 80+ supported languages and all popular writing scripts including: Latin, Chinese, Arabic, Dev
-> L84: In case you do not have a GPU, or your GPU has low memory, you can run the model in CPU-only mode by adding `gpu=Fa
-> L120: All deep learning execution is based on Pytorch. :heart:
+> L122: All deep learning execution is based on Pytorch. :heart:
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `39ff5f35cf49` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `eadd124ca172` · [字段定义](../../DATASET.md)*

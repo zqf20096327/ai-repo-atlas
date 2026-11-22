@@ -2,9 +2,9 @@
 
 ⭐ 8,506 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PriorLabs/TabPFN) · [官网](http://priorlabs.ai) · 组织维护
 
-**面向表格数据的预训练基础模型：单次前向传播完成分类与回归预测**
+**表格数据基础模型：无需训练即可分类回归预测**
 
-TabPFN 是 PriorLabs 维护的表格数据基础模型 Python 库，提供 TabPFNClassifier 与 TabPFNRegressor：模型在合成数据上预训练，对未见过的真实数据集无需常规训练流程，单次前向传播即可预测。当前默认 TabPFN-3.5 支持至多 100 万行、2 万特征。推荐 GPU（约 8GB VRAM 可用，部分大数据需 16GB），CPU 仅支持中等规模数据；也提供免费托管推理的 TabPFN Client。首次使用需登录 PriorLabs 接受许可下载权重，之后可离线运行。附带社区扩展包（可解释性、离群检测、嵌入提取等）。
+TabPFN 是在合成数据上预训练的表格数据基础模型，对未见过的真实数据集以单次前向传播完成分类与回归。以 Python 包形式提供 TabPFNClassifier/TabPFNRegressor，支持多个模型版本（TabPFN-3.5、3.5-Fast、3 等），推荐规模上限 100 万行、2 万特征。推荐 GPU 运行，CPU 仅适合中等规模数据；也提供云端推理客户端 TabPFN Client。首次使用需登录 PriorLabs 接受许可条款以下载模型权重，之后可离线运行。代码采用 Apache 2.0 许可，另有面向生产环境的付费 Enterprise Edition。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@ TabPFN 是 PriorLabs 维护的表格数据基础模型 Python 库，提供 TabPF
 
 ## 能力要点
 
-- 单次前向传播完成表格数据分类/回归，无需逐数据集训练
-- TabPFN-3.5 支持至多 1,000,000 行 × 20,000 特征
-- 支持 CUDA/ROCm/Apple Silicon MPS，权重下载后可离线运行
-- 社区扩展包提供 SHAP 可解释性、离群检测、嵌入提取等
+- 单次前向传播完成表格分类与回归，无需常规训练流程
+- 多模型版本可选（TabPFN-3.5 / 3.5-Fast / 3 / 2.5 / 2.6）
+- 提供云端推理客户端与无代码图形界面 TabPFN UX
+- 扩展包支持 SHAP 可解释性、异常检测、嵌入提取、多分类
 
 ## 适用场景
 
-- 中小规模表格数据上直接做分类或回归预测，跳过训练调参流程
-- 无 GPU 时通过托管推理或 CPU 模式跑中等规模数据集
-- 提取模型嵌入或 SHAP 解释用于下游分析与特征选择
+- 在不写训练代码的情况下对表格数据做分类或回归
+- CPU 或本地 GPU 环境下快速获得表格预测结果
+- 为下游任务提取表格数据的内部嵌入表示
+- 通过图形界面让业务人员试用表格预测能力
 
 ## 场景标签
 
- · 领域:机器学习/表格数据
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L10: TabPFN trains on synthetic datasets and predicts on unseen real-world datasets in a single forward pass
+> L12: TabPFN-3.5 architecture: a distribution embedder, then row-wise and cross-row attention, read out as per-row tokens
 > L49: from tabpfn import TabPFNClassifier, TabPFNRegressor
 
 ## 星数曲线
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `10a9bae18fd8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dca997c630ef` · [字段定义](../../DATASET.md)*

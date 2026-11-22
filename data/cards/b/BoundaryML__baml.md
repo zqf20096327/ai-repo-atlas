@@ -2,9 +2,9 @@
 
 ⭐ 9,530 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/BoundaryML/baml) · [官网](https://boundaryml.com/explore) · 组织维护
 
-**面向 agent 的编程语言，类型系统约束 LLM 输出**
+**面向 agent 开发的领域编程语言**
 
-BoundaryML 开发的领域语言，语法类似 TypeScript，用于编写 agent 相关逻辑：类型在运行时持久化、无 any 类型、错误可静态分析、内置测试/评测框架与 agent 标准库，编译到 TS、Python、Go、C#、Java 等语言的调用接口，支持独立运行或渐进式嵌入现有工程。提供 brew 安装与 CLI（init、agent install、IDE 插件安装）。README 未列出具体 LLM 提供商接入细节。
+BAML 是一门面向 agent 开发的编程语言，语法类似 TypeScript，提供类型系统、运行时类型保持、类型化错误与静态分析、文件系统组织的模块结构、并发机制，并内置测试/eval 框架与 agent 标准库。BAML 函数可从 TypeScript、Python、Go、C#、Java 等语言调用，支持独立运行或增量引入。安装方式包括 Homebrew，另提供 IDE 插件安装命令。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ BoundaryML 开发的领域语言，语法类似 TypeScript，用于编写 agent 
 
 ## 能力要点
 
-- 类型系统在运行时持久化，无 any 与危险类型转换
-- 错误类型化并可静态分析
-- 内置测试/评测框架与 agent 标准库
-- 可从 TS/Python/Go/C#/Java 调用，支持渐进式采用
+- 带类型系统与静态分析的 agent 编程语言
+- 内置测试/eval 框架与 agent 标准库
+- 支持从 TS、Py、Go、C#、Java 等语言调用 BAML 函数
+- 提供 IDE 插件安装命令
 
 ## 适用场景
 
-- 为 LLM 调用定义强类型接口，减少 agent 输出错误
-- 在现有 TS/Python 工程中渐进式引入 BAML 函数
-- 用内置评测框架测试 agent 行为
+- 为 agent 项目引入类型化提示函数
+- 在既有 TS/Python/Go 等代码库中增量接入 BAML
+- 对 agent 输出运行内置测试与评估
 
 ## 场景标签
 
-`模型评测` `提示工程` · 领域:Agent 开发
+`Agent 框架` `提示工程` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9: BAML is the programming language for agents.
+> L22: - Built-in tests / eval framework
 > L25: - Can be run standalone or adopt incrementally (you can call a BAML function from TS, Py, Go, C#, Java, etc).
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `2e1ec6260669` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `4fa3899a8480` · [字段定义](../../DATASET.md)*

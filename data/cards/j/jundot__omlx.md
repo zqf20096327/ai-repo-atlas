@@ -2,9 +2,9 @@
 
 ⭐ 23,807 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jundot/omlx) · [官网](https://omlx.ai) · 个人维护 · 中文 README
 
-**Apple Silicon 本地 LLM 推理服务器，菜单栏管理，含 SSD 分层 KV 缓存**
+**macOS 菜单栏管理的 Apple Silicon LLM 推理服务器**
 
-面向 Mac 用户的本地推理服务器：基于 MLX 支持文本 LLM、VLM、OCR、embedding 与 reranker 的多模型同服务器加载，提供连续批处理、块式分层 KV 缓存（热层 RAM + 冷层 SSD，重启后可复用）、LRU 逐出与模型固定等机制。API 兼容 OpenAI 与 Anthropic 端点，任何 OpenAI 兼容客户端可连 localhost:8000/v1。以原生 Swift 菜单栏应用管理，另有 Homebrew 与源码安装方式；要求 macOS 15+ 与 Apple Silicon（M1-M5），部分模型需完整 Xcode 编译原生自定义 kernel。实验性功能支持多台 Mac 分布式推理。
+运行于 Apple Silicon 的本地 LLM 推理服务器，提供 OpenAI 兼容 API（/v1），支持文本 LLM、VLM、OCR、embedding 与 reranker 模型。关键机制：连续批处理、热内存+冷 SSD 两级 KV 缓存（safetensors 落盘、跨请求与重启复用）、LRU/固定/TTL 的多模型管理、进程内存上限防 OOM。通过 macOS 菜单栏 App（dmg）、Homebrew 或源码安装，自带 Web 管理面板、聊天 UI 与 HuggingFace 模型下载器。要求 macOS 15.0+、Python 3.11–3.13；原生自定义内核需完整 Xcode，缺失时部分模型族回退到较慢路径。
 
 ## 筛选速览
 
@@ -15,8 +15,8 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `high` | 编译与系统依赖俱全 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 分层 KV 缓存：热层 RAM + 冷层 SSD（safetensors 格式），重启后前缀可复用
-- OpenAI/Anthropic API 兼容端点，含 chat/completions/embeddings/rerank/tokenize
-- 多模型同服务器服务：LRU 逐出、模型固定、每模型 TTL 与内存上限（默认系统 RAM - 8GB）
-- 原生 Swift/SwiftUI 菜单栏应用管理服务器，支持 OpenClaw/Codex/Copilot 等一键集成
+- 热内存+SSD 两级 KV 缓存，前缀命中可跨请求与重启复用
+- OpenAI 兼容 API，同时服务 LLM/VLM/embedding/reranker
+- LRU 驱逐、模型固定、按模型 TTL 与进程内存上限
+- 一键接入 Codex/Copilot CLI 等客户端并下发模型目录
 
 ## 适用场景
 
-- 在 Mac 上本地运行 LLM/VLM 供 Claude Code、Codex 等编码工具调用
-- 多模型同时服务并按内存自动管理加载与卸载
-- 长上下文对话中跨请求复用 KV 缓存以降低重复计算
+- 在 Mac 上为编码工具提供本地 OpenAI 兼容推理端点
+- 菜单栏管理多个本地模型的加载/卸载与显存占用
+- 用多台 Mac 流水线拆分单个大模型做分布式推理
 
 ## 场景标签
 
@@ -45,7 +45,8 @@
 ## 证据(README 行号)
 
 > L4:  LLM inference, optimized for your Mac Continuous batching and tiered KV caching, managed directly from your menu ba
-> L93: The server discovers LLMs, VLMs, embedding models, and rerankers from subdirectories automatically. Any OpenAI-comp
+> L94: The server discovers LLMs, VLMs, embedding models, and rerankers from subdirectories automatically. Any OpenAI-comp
+> L115: Supports text LLMs, vision-language models (VLM), OCR models, embeddings, and rerankers on Apple Silicon.
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `36fcb2a35408` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `a9f20f5efd0f` · [字段定义](../../DATASET.md)*

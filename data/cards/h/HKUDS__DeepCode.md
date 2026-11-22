@@ -2,9 +2,9 @@
 
 ⭐ 16,859 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/HKUDS/DeepCode) · [官网](http://arxiv.org/abs/2512.07921) · 组织维护 · 中文 README
 
-**多客户端编程 Agent：把论文与自然语言转成代码**
+**开源多智能体编码 Agent：理解项目、改代码并验证完成**
 
-HKUDS 出品的多 Agent 编程系统，围绕一个共享的本地后台服务提供 TUI、Desktop 与 Web 三种客户端，三者共享项目、会话历史、模型配置、Skills、权限与自动化。会话支持历史保留、上下文窗口上限与 /compact 压缩，后台服务自动迁移端口并支持跨客户端续接任务。安全机制包括命令沙箱、凭据隔离与可选的出站主机限制。支持语音听写、MCP 服务器管理与中文界面，Windows/macOS/Linux 均可运行。
+面向真实软件工程的开源 Coding Agent：给定小改动或数十步的长期目标，它读取与编辑文件、运行命令与测试、以 diff 展示修改，并用确认的检查清单与可选独立评审来验证完成声明；Goal 与会话由本地后台服务持久化，可在 TUI、Desktop、Web 与 headless 四种客户端间延续。机制上含压缩保词上下文、卡死自动停止、权限分级与 OS 沙箱；自进化（从验证过的运行中学习）为规划中特性，尚未发布。
 
 ## 筛选速览
 
@@ -12,8 +12,8 @@ HKUDS 出品的多 Agent 编程系统，围绕一个共享的本地后台服务�
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,16 +26,17 @@ HKUDS 出品的多 Agent 编程系统，围绕一个共享的本地后台服务�
 
 ## 能力要点
 
-- TUI/Desktop/Web 三客户端共享同一本地服务与会话状态
-- 命令沙箱隔离模型密钥与 SSH 私钥，可选出站主机限制
-- 会话上下文窗口上限（/context）与 /compact 压缩机制
-- MCP 服务器管理、语音听写、Paper2Code 功能
+- Verified completion：运行确认清单并由独立评审以证据证明每条需求
+- 本地后台服务持久化 Goal/会话，四种客户端共享同一服务
+- 14 个内置 provider 模板，兼容 OpenAI/Anthropic API 与本地模型
+- MCP 接入（stdio/SSE/Streamable HTTP），并可把自身暴露为 MCP 服务器
 
 ## 适用场景
 
-- 从研究论文或自然语言描述生成可运行代码
-- 在终端、桌面与浏览器间续接同一个编程任务
-- 需要沙箱隔离与命令审查的本地 Agent 编码环境
+- 让 Agent 在真实仓库中完成跨多轮的重构或修 bug 任务
+- 脚本/CI 中以 headless 方式跑一轮编码任务并收集 NDJSON 事件
+- 把论文或技术文档转成代码库（Paper2Code）
+- 定时自动运行保存的指令（Automations）
 
 ## 场景标签
 
@@ -43,9 +44,9 @@ HKUDS 出品的多 Agent 编程系统，围绕一个共享的本地后台服务�
 
 ## 证据(README 行号)
 
-> L41: DeepCode provides TUI, Desktop, and Web clients over one shared local service.
-> L55: *🎯 **Watch our complete introduction** - See how DeepCode transforms research papers and natural language into prod
-> L187: - **Choose your interface.** Run `deepcode` for the TUI, `deepcode desktop`
+> L78: DeepCode is an open-source Coding Agent for real software engineering. Give it
+> L115: - **One session, four clients.** Turns run in a local background service,
+> L236: |Model|An API key for a supported provider, or a local Ollama or vLLM server. The model must support tool calling;
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `ab8f8da4edc4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c1e2ff975795` · [字段定义](../../DATASET.md)*

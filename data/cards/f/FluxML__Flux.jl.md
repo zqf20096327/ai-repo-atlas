@@ -2,9 +2,9 @@
 
 ⭐ 4,755 · Julia · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/FluxML/Flux.jl) · [官网](https://fluxml.ai/) · 组织维护
 
-**纯 Julia 的深度学习库，提供轻量抽象与 GPU/AD 支持**
+**Julia 机器学习库：构建与训练神经网络模型**
 
-Flux 是 100% 纯 Julia 实现的机器学习库，在 Julia 原生 GPU 支持与自动微分（AD）之上提供轻量级抽象层。Flux 0.15 起几乎任何 Julia 参数化函数均可作为模型，可用内置层或自定义闭包构建模型。需 Julia 1.10 或更高版本，README 给出短示例代码，另有快速入门、文档与 model zoo 示例库；科研使用时请求引用其工作。
+以纯 Julia 实现的机器学习库，在 Julia 原生 GPU 与自动微分支持之上提供轻量抽象。内置 MLP、卷积、循环与注意力等层及损失函数；自动微分引擎可选 Zygote、Enzyme 或 Mooncake；支持 NVIDIA/AMD/Apple 硬件，可通过 Reactant 编译为 XLA 程序在 CPU/GPU/TPU 上训练，并支持基于 MPI 与 NCCL 的分布式训练。需 Julia 1.10 及以上，通过 Julia REPL 的 Pkg 安装。
 
 ## 筛选速览
 
@@ -15,21 +15,21 @@ Flux 是 100% 纯 Julia 实现的机器学习库，在 Julia 原生 GPU 支持�
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 100% 纯 Julia 技术栈
-- 基于 Julia 原生 GPU 与自动微分支持的轻量抽象
-- Flux 0.15 起任意 Julia 参数化函数均可作为模型
-- 提供 model zoo 示例库
+- 支持 Zygote/Enzyme/Mooncake 三种自动微分引擎
+- 支持 NVIDIA、AMD、Apple 硬件及 TPU（XLA 编译）
+- 基于 MPI 与 NCCL 的分布式训练
+- 模型为普通 Julia 代码，任意参数化函数均可作模型
 
 ## 适用场景
 
-- 用 Julia 编写与训练神经网络模型
-- 构建可完全自定义 hack 的深度学习模型
-- 科研场景中做机器学习实验并引用其成果
+- 在 Julia 中搭建并训练神经网络
+- 在 GPU/TPU 上训练与分布式训练模型
+- 运行 ResNet、GPT-2 预训练等端到端示例
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ Flux 是 100% 纯 Julia 实现的机器学习库，在 Julia 原生 GPU 支持�
 ## 证据(README 行号)
 
 > L5: Flux is an elegant approach to machine learning. It's a 100% pure-Julia stack, and provides lightweight abstractions
-> L7: Works best with Julia 1.10 or later. Here's a very short example to try it out:
+> L7: - **Layers and losses** for MLPs, convolutional, recurrent and attention models, with normalisation, pooling, embedd
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `993ec444851d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5742aa56d084` · [字段定义](../../DATASET.md)*

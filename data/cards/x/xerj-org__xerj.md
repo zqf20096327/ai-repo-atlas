@@ -2,9 +2,9 @@
 
 ⭐ 19,239 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/xerj-org/xerj) · [官网](https://xerj.org) · 组织维护
 
-**本地 AI 搜索引擎：一条命令索引任意文件夹供 agent 检索**
+**给 AI agent 用的本地搜索引擎与 MCP 服务器，单二进制**
 
-Rust 编写的本地搜索引擎，以单一静态二进制分发。`xerj autoindex` 自动嗅探文件类型并为代码（经 tree-sitter 提取符号与行号）、CSV、PDF、SQLite、日志、Unity 资产等建立可查询索引，无需编写 schema。对外暴露 Elasticsearch API，现有客户端与仪表盘可直接使用，支持向量与混合检索，并提供 `/_memory` 命名空间作为 agent 长期记忆。主要面向编程 agent 的 reference coding 用例：索引相近开源仓库后按段落检索以替代逐文件读取。默认 `--insecure` 模式仅适用于单用户开发机，关闭 TLS 与认证后任意可访问端口者均为超级用户。
+单 Rust 二进制实现的本地搜索引擎与 MCP 服务器，索引代码、文档、日志、JSONL/CSV、PDF，提供 BM25、向量与混合检索、tree-sitter 代码搜索和 /_memory agent 记忆，暴露 Elasticsearch 兼容 API。rc.101 加入 XERJ Query-1 模型（默认关闭），把问题编译为对已存事实的小程序并引用事实来源。面向使用 Claude Code、Cursor 等 MCP 客户端的开发者，主打参考编码场景；引擎源码为 Apache-2.0，rc.101 起模型 crates 专有。
 
 ## 筛选速览
 
@@ -12,34 +12,35 @@ Rust 编写的本地搜索引擎，以单一静态二进制分发。`xerj autoin
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 一条命令 autoindex 多种文件格式为类型化索引，无需 schema
-- 兼容 Elasticsearch API，现有客户端可直接连接 localhost:9200
-- tree-sitter 提取代码符号与行号，检索返回 file:line
-- `/_memory/{namespace}` 提供 agent 长期记忆，按语义召回
+- 单二进制提供 BM25、向量与混合检索及代码搜索
+- Elasticsearch 兼容 API，无 JVM 依赖
+- /_memory 与 MCP 工具接入 Claude Code、Cursor 等客户端
+- autoindex 自动索引任意文件夹为类型化索引
 
 ## 适用场景
 
-- 让编程 agent 检索相似开源仓库的实现方式再写代码
-- 对代码库做问答与 RAG，直接取到带 file:line 的段落
-- 索引日志与混合格式数据做事件分析或安全审计
+- 让编码 agent 检索参考开源代码再写代码，减少 token 消耗
+- 为本地仓库做带 file:line 引用的问答与 RAG
+- 索引目标代码树做安全审计
+- 把混合格式日志建成可聚合的类型化索引
 
 ## 场景标签
 
-`语义搜索` `RAG` `Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `语义搜索` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L27: XERJ is a community-trusted local AI search that indexes any folder automatically, so your
-> L109: awkward CSVs into typed, queryable indices for search, RAG, security audits and agent
-> L189: and arm64. You can also build from source. It speaks the Elasticsearch
+> L97: **Local-first search engine and MCP server for AI agents.** One Rust binary indexes code, docs,
+> L99: memory, behind an Elasticsearch-compatible API. Works with Claude Code, Cursor and any MCP client.
+> L33:  Why XERJ, built for agents: search, memory and a familiar API in one Rust binary. Reference coding: 2.7 times fewe
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `94f1bf85600e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `16d4250d15ba` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 17,208 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/xbtlin/ai-berkshire) · [官网](https://xbtlin.github.io/ai-berkshire/) · 个人维护 · 中文 README
 
-**给个人投资者的 Claude Code/Codex 价值投研 Skill 合集**
+**给个人投资者的 Claude Code/Codex 价值投研 Skill 集合**
 
-同时兼容 Claude Code 与 Codex 的投资研究 Skill 合集：将巴菲特、芒格、段永平、李录四位投资人的方法论结构化为 22 个 skill，覆盖深度研究、财报精读、行业筛选、持仓管理与思维工具。团队型 skill（如 /investment-team）由 Team Lead 调度 4 个 Agent 并行研究并综合研判；流程内置信息丰富度评级、逆向检验、多源数据交叉验证等机制，金融计算用 Python decimal.Decimal 精确处理。安装方式为克隆仓库后运行脚本将 skills 复制进客户端；附 2247 份报告存档与阅读站，深度研究 token 消耗较高。
+兼容 Claude Code 与 Codex 的投资研究 Skill 合集，共 22 个入口，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论结构化为研究流程，覆盖单公司深度研究、财报精读、行业筛选、持仓管理与思维工具五类。团队型 skill 由 Team Lead 并行调度 4 个大师视角 Agent 独立搜索与判断后综合。内置反偏见机制（信息丰富度评级、逆向检验、快速否决清单）、Decimal 精确计算与双源数据交叉验证。需自行安装 AI 客户端，token 消耗较高。
 
 ## 筛选速览
 
@@ -26,27 +26,27 @@
 
 ## 能力要点
 
-- 22 个 skill：深度研究/财报分析/行业筛选/持仓管理/思维工具五类
-- /investment-team 启动 4 个 Agent 并行研究、互相挑战后由 Team Lead 综合
-- 反偏见机制：A/B/C 信息丰富度评级、芒格逆向检验、快速否决清单、多源交叉验证
-- 同一套 canonical workflow 同时提供 Claude Code commands 与 Codex skills
+- 22 个 skill 覆盖深度研究、财报、行业筛选、持仓管理与思维工具
+- /investment-team 启动 4 个独立 Agent 并行研究后由 Team Lead 综合
+- 内置反偏见机制：A/B/C 信息评级、芒格逆向检验、8 条红线否决清单
+- 财务计算使用 Decimal 并要求关键数据至少 2 个独立来源交叉验证
 
 ## 适用场景
 
-- 在 Claude Code/Codex 里对一家上市公司做多视角深度投研
-- 用行业漏斗从全市场逐层筛选出候选公司
-- 买入后持续追踪投资论文是否被证伪
-- 财报季只读一手原始财报做精读分析
+- 对一家上市公司做四大师视角的深度投研并输出分层建议
+- 财报发布后用 AI 并行精读原始年报
+- 从一个行业主题出发做产业链扫描与漏斗式选股
+- 买入后持续跟踪投资论文是否被证伪
 
 ## 场景标签
 
-`金融量化` `多智能体` · 领域:Agent 开发
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L11: **AI Berkshire** 是一套同时兼容 Claude Code 与 Codex 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化、结构化，通过 AI Agent 实现专业级投资研究
-> L163: - **Agent 层**：团队型 skill（如 `/investment-team`、`/earnings-team`）由 Team Lead 并行调度 4 个大师视角 Agent——各自独立搜索、独立判断、互相挑战，最后综
-> L307: 仓库同时维护三套入口：`skills/*.md` 是 Claude Code command 源文件；`codex-skills/*/SKILL.md` 是 Codex skill 包，由 `scripts/sync-codex
+> L164: - **Skill 层**：把"你要做什么"抽象成 22 个明确入口——深度研究、财报分析、行业筛选、持仓管理、思维工具，按场景选用
+> L149: `/investment-team` 启动4个独立Agent**同时**研究一家公司。每个Agent各自搜索网络、交叉验证数据、独立给出结论。这不是把一个prompt拆成四段——是4个"分析师"各自做了完整的研究，Team Le
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `6718ed6064d2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `14eb6413ceb4` · [字段定义](../../DATASET.md)*

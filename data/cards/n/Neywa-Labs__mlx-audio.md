@@ -2,9 +2,9 @@
 
 ⭐ 8,317 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Neywa-Labs/mlx-audio) · [官网](https://www.neywalabs.ai) · 组织维护
 
-**Apple Silicon 本地语音引擎：TTS/STT/STS/音乐生成一体化库**
+**Apple Silicon 本地运行的 TTS/STT/STS 语音推理库**
 
-基于 Apple MLX 框架构建的语音处理 Python 库，在 Mac 本地运行文本转语音、语音转文本、语音到语音、语音活动检测与音乐生成任务。收录数十种模型（Kokoro、Whisper、Qwen3-TTS、Nemotron 系列等），支持语音克隆、语速调节、多语言、3-8bit 量化、OpenAI 兼容 REST API、Web 界面与 Swift 包（iOS/macOS 集成）。提供命令行与 Python API，需 macOS + Apple Silicon + Python 3.11+。
+基于 Apple MLX 框架的语音库，在 Apple Silicon 上本地运行文本转语音、语音转文本、语音转语音及音乐生成模型。收录数十种模型（Kokoro、Qwen3-TTS、Whisper、Parakeet、VAD 与说话人分离模型等），支持语音克隆、语速调节、多语言、3-8 比特量化，提供命令行、Python API、兼容 OpenAI 的 REST API、Web 界面及 Swift 包。安装方式为 pip/uv/git clone，要求 Python 3.11+，仅支持 macOS 与 Apple silicon。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- TTS/STT/STS/VAD/说话人分离/语音增强/音乐生成多任务覆盖
-- 量化支持 3/4/6/8-bit，面向 Apple Silicon 优化推理
-- OpenAI 兼容 REST API 与交互式 Web 界面
-- Swift 包支持 iOS/macOS 集成
+- 在 Apple Silicon 上本地运行 TTS、STT、STS 与音乐生成模型
+- 收录数十种模型，含语音克隆、多语言与流式输出
+- 提供 OpenAI 兼容 REST API、Web 界面与 Swift 包
+- 支持 3/4/6/8-bit 量化
 
 ## 适用场景
 
-- 在 Mac 本地离线完成文字转语音与语音转文字
-- 为应用集成语音克隆、说话人分离或降噪能力
-- 通过 OpenAI 兼容 API 在本地部署语音服务
+- 在 Mac 上本地生成或克隆语音
+- 本地转录音频并做说话人分离
+- 为 iOS/macOS 应用集成语音模型
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L5:  Run audio models on Apple Silicon. Text-to-speech, speech-to-text, speech-to-speech, and music generation. Built on
-> L27: - Multiple model architectures for TTS, STT, STS, and music generation
+> L26: - Fast inference optimized for Apple Silicon (M series chips)
+> L32: - OpenAI-compatible REST API
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `e4004297c1f7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `18a7572f765a` · [字段定义](../../DATASET.md)*

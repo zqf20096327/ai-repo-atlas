@@ -2,9 +2,9 @@
 
 ⭐ 16,392 · MDX · MIT · 推送 2026-11-11 · [GitHub](https://github.com/wasp-lang/open-saas) · [官网](https://opensaas.sh) · 组织维护
 
-**面向开发者的开源 JS 全栈 SaaS 起始模板**
+**免费开源 JS 技术栈 SaaS 启动模板，内置 AI 编码配套**
 
-基于 Wasp 框架（React + NodeJS + Prisma）的 SaaS 应用模板，内置邮件+社交登录认证、邮件发送、后台定时任务/队列、落地页、Stripe/Polar.sh/Lemon Squeezy 支付、ShadCN UI、AWS S3 文件上传、文档与博客（Astro Starlight）以及 Plausible/Google Analytics 统计。模板提供针对 Claude Code、Cursor 等 AI 编码工具的插件、Skills 与规则文件，并含 OpenAI API function calling 示例；可通过 CLI 一条命令部署到 Railway 或 Fly.io。安装依赖 npm 全局安装 Wasp CLI。
+基于 Wasp 框架（React+NodeJS+Prisma）的开源 SaaS 模板，开箱提供邮箱与社交登录认证、SendGrid/MailGun/SMTP 邮件发送、后台定时任务与队列、落地页与文档博客（Astro Starlight）、Stripe/Polar.sh/Lemon Squeezy 支付、ShadCN UI、AWS S3 文件上传及 Plausible/Google Analytics 集成。AI 相关部分：面向 Claude Code、Cursor 等编码工具定制的插件、Skills 与规则，以及含 function calling 的 OpenAI API 示例。通过 wasp-cli 安装，支持 Railway/Fly.io 一键部署。
 
 ## 筛选速览
 
@@ -27,26 +27,25 @@
 
 ## 能力要点
 
-- 内置认证（Email、Google、GitHub、Slack、MS）、支付、邮件、后台任务、S3 上传等 SaaS 常用模块
-- 提供面向 Claude Code/Cursor 等 AI 编码工具的插件、Skills 与规则文件
-- 含 OpenAI API function calling 示例
-- CLI 一条命令部署到 Railway 或 Fly.io
+- 认证、支付、邮件、文件上传、后台任务等 SaaS 常用功能开箱即用
+- 内置 OpenAI API function calling 示例
+- 为 Claude Code/Cursor 等 AI 编码工具提供定制插件、Skills 与规则
+- 一条命令部署到 Railway 或 Fly.io
 
 ## 适用场景
 
-- 启动一个新的全栈 SaaS 项目而无需从零搭建基础设施
-- 为项目快速接入支付、订阅与文件上传功能
-- 在 AI 编码工具辅助下基于模板开发 SaaS 应用
+- 快速搭建一个带支付与认证的 SaaS 产品原型
+- 基于模板接入 OpenAI function calling 开发 AI 功能
+- 用 AI 编码助手基于该模板进行开发
 
 ## 场景标签
 
- · 领域:软件开发/应用脚手架
+ · 领域:软件开发/应用模板
 
 ## 证据(README 行号)
 
-> L28: - 🐝 Wasp - a full-stack React, NodeJS, Prisma framework with superpowers
-> L32: - 🤖 AI-Ready - Custom Plugins, Skills, & Rules for AI-assisted coding with Claude Code, Cursor, or your favorite AI
-> L19: 4. ready to work with your favorite AI coding tool or agent (Claude Code, Cursor, Codex, OpenCode, etc.)
+> L31: - 🐝 Wasp - a full-stack React, NodeJS, Prisma framework with superpowers
+> L35: - 🤖 AI-Ready - Custom Plugins, Skills, & Rules for AI-assisted coding with Claude Code, Cursor, or your favorite AI
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b360a63ea5e9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e87228bf1bbb` · [字段定义](../../DATASET.md)*

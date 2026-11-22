@@ -2,9 +2,9 @@
 
 ⭐ 5,116 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/naganandy/graph-based-deep-learning-literature) · 个人维护
 
-**图深度学习会议论文链接汇编，覆盖 ML/DM/AI/CV/NLP 会议**
+**图深度学习会议论文链接汇总清单，供研究者查阅**
 
-按会议与年份组织的图深度学习文献链接集合：收录 NeurIPS、ICML、ICLR、KDD、AAAI、CVPR、ACL 等会议 2014-2027 年间的图相关论文链接，各会议内按主题类别分组。另含相关研讨会、综述/文献回顾/书籍、软件/库的链接，并单列图神经网络被引最多的 10 篇论文。纯链接汇编，不提供代码或安装方式。
+以链接列表形式维护的图深度学习文献索引：按会议（NeurIPS、ICML、ICLR、KDD、AAAI、CVPR、ACL 等）与年份组织论文链接，会议内再按主题分类；另附相关研讨会、综述/书籍、软件与库的链接，以及 GNN 领域被引最高的 10 篇论文清单。仓库本身不含代码或模型，仅提供文献导航，面向图神经网络方向的研究者做文献检索。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 按会议与年份（2014-2027）组织的图深度学习论文链接
-- 覆盖机器学习、数据挖掘、AI、计算机视觉、计算语言学、LoG 六类会议
-- 附带研讨会、综述/书籍、软件库链接
-- 列出图神经网络领域 10 篇最高被引论文
+- 按会议与年份组织的图深度学习论文链接
+- 会议内按主题分类编排条目
+- 附研讨会、综述/书籍与软件/库链接
+- 列出 GNN 领域被引最高的 10 篇论文
 
 ## 适用场景
 
-- 查找某会议某年份的图神经网络论文
-- 调研图表示学习领域的经典与高被引工作
-- 发现相关研讨会、综述与软件库
+- 查找图神经网络方向各会议的论文
+- 调研 GNN 领域的综述与代表性工作
+- 寻找图学习相关的软件与库资源
 
 ## 场景标签
 
-`科研工具` `精选清单` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L1: # Graph-based Deep Learning Literature
 > L3: The repository primarily contains links to conference publications in graph-based deep learning.
+> L11: Publications within each conference and year below are organised into topic-specific categories.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ce765a5471cb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a762899fba18` · [字段定义](../../DATASET.md)*

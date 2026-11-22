@@ -1,35 +1,35 @@
 # melgarafael/DeskcommCRM
 
-⭐ 5,510 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/melgarafael/DeskcommCRM) · [官网](https://deskcomm.com.br) · 个人维护 · 中文 README
+⭐ 5,510 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/melgarafael/DeskcommCRM) · [官网](https://deskcomm.com.br) · 个人维护
 
-**自托管的开源 AI 销售 CRM，AI 代理通过 WhatsApp 接待与成交**
+**自托管开源 CRM：AI 代理经 WhatsApp 接待、筛选并成交客户**
 
-基于 Next.js/TypeScript/Supabase 的自托管多租户 CRM，内置通过 WhatsApp（WAHA/NOWEB 通道）接待、 qualify 与销售的 AI 代理，支持 OpenRouter/Anthropic/OpenAI 密钥。提供 HostGator 合作的一键 VPS 安装脚本（含 ARM64、自动 HTTPS、idempotent 更新与备份/还原工具），自称为 Kommo、Octadesk、Intercom 的开源替代，面向 LGPD 合规的巴西聊天销售企业。MIT 许可。
+以 Next.js + TypeScript + Supabase 构建的自托管销售 CRM，通过 WAHA 连接 WhatsApp，由 AI 代理执行接待、资格筛选与销售对话，支持多租户与 MCP。安装路径为 VPS 上的 git clone 加安装脚本，使用预构建镜像，无需安装 Node 或编译；安装器自动生成密钥、应用数据库 schema、配置 HTTPS 与自动化 cron。依赖外部 Supabase 账号与 OpenRouter/Anthropic/OpenAI 之一的 API key；更新带自动备份与失败回滚，许可为 MIT。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- AI 代理在 WhatsApp 通道内接待、qualify 与销售
-- install.sh 一键 VPS 部署：自动 HTTPS、幂等安装、支持 ARM64
-- 界面内一键更新：自动备份、失败自动回滚到上一镜像
-- 配套 backup/restore/healthcheck/reset-MFA 等运维脚本
+- AI 代理在 WhatsApp 上执行接待、筛选与销售，CRM 内多租户运行
+- 一键安装脚本：预构建镜像、自动生成密钥、应用 schema、配置 HTTPS 与 cron
+- 界面内更新流程含自动备份、健康检查与失败回滚到上一版本
+- 支持 ARM64/aarch64 VPS 与反向代理环境自动适配
 
 ## 适用场景
 
-- 企业自托管 CRM 并让 AI 代理在 WhatsApp 上做销售接待
-- 需要数据自持、无月费的多租户客服/销售系统
-- 用一条命令在 VPS 上部署含 WhatsApp 通道的完整销售栈
+- 把销售客服机器人部署在自己服务器上运营 WhatsApp 渠道
+- 从 Kommo 等托管方案迁移到数据自持的聊天销售 CRM
+- 用 AI 代理自动筛选和跟进聊天来的潜在客户
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L5: # 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp
 > L7: **Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no seu servidor.
-> L79: |**IA**|Uma chave de **OpenRouter**, **Anthropic** ou **OpenAI** — o instalador pergunta qual você quer|
+> L85: |**IA**|Uma chave de **OpenRouter**, **Anthropic** ou **OpenAI** — o instalador pergunta qual você quer|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7c4e74c1f9f7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `8099cf41d53c` · [字段定义](../../DATASET.md)*

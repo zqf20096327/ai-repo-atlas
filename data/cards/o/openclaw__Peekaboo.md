@@ -2,15 +2,15 @@
 
 ⭐ 5,508 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/openclaw/Peekaboo) · [官网](http://www.peekaboo.boo) · 个人维护
 
-**macOS 屏幕截图与 UI 自动化 CLI，可供 AI agent 调用**
+**给 AI agent 提供屏幕截图与 UI 自动化能力的 macOS CLI**
 
-面向 macOS 15+ 的命令行工具与菜单栏应用，提供屏幕截图、Accessibility UI 结构化检查、原生 UI 自动化（点击/输入/按键/菜单等），并可打包为 MCP server 供 Codex、Claude Code、Cursor 等 MCP 客户端调用。内置 agent 命令可将观察与操作工具组合为自然语言多步任务，需配置模型 provider（支持托管、兼容与本地后端）。通过 Homebrew、npm 或签名 DMG 安装。
+macOS 命令行与菜单栏应用，提供屏幕捕获、辅助功能检查与原生 UI 自动化。核心循环是观察屏幕（结构化 UI 元素 ID）、选择元素、执行点击/输入等操作，支持窗口级精确定位与后台输入。内置 agent 可将观察与操作工具组合为自然语言多步骤任务（需配置模型 provider）；同一工具集可通过 MCP server 暴露给 Codex、Claude Code、Cursor 等客户端。发布版要求 macOS 15+，CLI 经 Homebrew 或 npm 分发，另有签名 DMG 应用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 屏幕截图与带元素 ID 的结构化 UI 检查
-- click/type/press/menu 等原生 UI 自动化命令
-- 可选 MCP server，暴露工具给 MCP 客户端
-- 内置自然语言 agent 执行多步任务，支持多种模型后端
+- 结构化 UI 映射：对运行中的应用输出带不透明元素 ID 的界面快照
+- 内置自然语言 agent，将观察与操作工具组合为多步骤任务
+- 以 MCP server 形式向 Codex、Claude Code、Cursor 等客户端暴露同一工具集
+- 语义输入支持后台投递，目标应用无需置于前台
 
 ## 适用场景
 
-- 让 AI agent 观察屏幕并操作 macOS 应用
-- 通过 CLI 编写应用自动化脚本
-- 为 MCP 客户端接入本机 UI 操作能力
+- 让 AI agent 读取并操作 macOS 应用的界面元素
+- 编写脚本自动完成窗口管理、点击、输入等桌面操作
+- 通过 MCP 客户端连接本工具执行浏览器外的系统级自动化
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L5: Peekaboo is a macOS CLI and menu-bar app for screen capture, accessibility inspection, and native UI automation. Use
 > L85: Agent runs need a configured model provider. See agent setup for providers and sessions, or MCP setup to expose Pee
+> L101: Peekaboo stores provider credentials and settings under `~/.peekaboo`. Use `peekaboo config` to inspect or change 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ebb37c91235c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a7169bb3d023` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,925 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Agenta-AI/agenta) · [官网](http://www.agenta.ai) · 组织维护 · 中文 README
 
-**面向团队的开源 agent 工作区：聊天式构建、共享与运行 AI 同事**
+**团队构建与共享 AI agent 的开源工作区**
 
-开源的团队 agent 工作区：用户通过对话描述工作、连接应用，构建自动化和增强工作的 agent，并可在 Web 应用或 Slack、Telegram、WhatsApp 中使用。agent 可按计划或事件触发自动运行，每次运行有追踪与成本记录。提供沙箱隔离、按 agent 的权限控制、记忆与技能自建机制，支持接入 API 托管模型或经 Ollama 自托管模型，可经 MCP 与 Composio 连接上千应用。提供云端版与自托管两种使用方式，自托管通过安装技能由 agent 引导完成。
+Agenta 是一个开源工作区，用户通过对话构建专用 agent 并为团队共享：描述任务、连接所需应用、根据反馈迭代。agent 可在网页端使用，也可通过 Slack、Telegram 或 WhatsApp Business 交互；支持定时或事件触发的自动化运行并记录每次执行。内置多用户角色与权限控制、每次运行的沙箱隔离、配置版本、成本追踪与调用轨迹，支持自托管并接入自有模型。定位面向 IT、GTM、HR、法务、财务、支持等非纯编码工作场景。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 通过对话构建 agent，非技术成员也可参与
-- 在 Slack、Telegram、WhatsApp 中与 agent 协作
-- 自动按计划或事件运行，每次运行可追踪与审计成本
-- 支持 MCP 集成与经 Composio 连接 1,000+ 应用，可自托管模型（Ollama）
+- 通过对话构建 agent，团队共享、多用户、带角色权限
+- 每次运行有沙箱隔离、轨迹追踪与成本记录
+- 通过 MCP 及 Composio 接入 1,000+ 应用（Gmail/Slack/Notion/GitHub）
+- 支持 Claude Code、Pi、Codex 等 harness 与 Ollama 自托管模型
 
 ## 适用场景
 
-- 团队共享地构建和管理自动化 agent，替代重复工作
-- 让 agent 定期做竞品调研等例行任务并把结果送到 Gmail
-- 在团队已有的聊天工具中直接使用和共享 agent
+- 让团队在 Slack 里直接使用共享的业务 agent
+- 为周期性工作设置定时或事件触发的自动化
+- 为非技术成员提供免代码的 agent 构建方式
+- 自托管 agent 平台并接入自有模型与数据
 
 ## 场景标签
 
-`工作流自动化` `Agent 框架` · 领域:Agent 开发
+`工作流自动化` `LLM 可观测性` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L59: Agenta is an open-source workspace where you build specialized agents that automate and augment your work.
-> L61: You build agents by chatting with them. You describe the work, connect the apps they need, and improve them through
+> L105: 5. **Auditable.** Every run is traced. Every cost is tracked.
+> L123: **Integrations.** Connect your agents through MCP, or to more than 1,000 apps through Composio, including Gmail, S
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `8758885679ae` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `af9975cf3970` · [字段定义](../../DATASET.md)*

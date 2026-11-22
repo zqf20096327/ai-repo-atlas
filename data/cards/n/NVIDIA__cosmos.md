@@ -2,9 +2,9 @@
 
 ⭐ 12,429 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/NVIDIA/cosmos) · [官网](https://www.nvidia.com/en-us/ai/cosmos/) · 组织维护
 
-**面向物理 AI 的开源世界基础模型平台（模型+数据+工具）**
+**面向机器人和自动驾驶开发者的世界模型与数据平台**
 
-NVIDIA 维护的 Physical AI 开放平台仓库，本体是 Cosmos 3 全模态世界模型家族：同一 Mixture-of-Transformers 架构提供 Reasoner（文本/视觉输入，输出理解、任务规划等文本）与 Generator（输入含动作/声音，输出视频、声音、动作，用于世界模拟、合成数据、策略学习）。提供 64B/16B/4B 三个规模基础模型及多个示例检查点（文生图、图生视频、DROID 机器人策略），通过 Diffusers/vLLM/SGLang/TensorRT-LLM/NIM 等后端运行，附可运行 notebooks 与评测套件。训练/优化工具在 Cosmos Framework，数据整理与评测分属 Curator/Evaluator。生成默认开启 guardrail，长时高分辨率输出可能出现伪影；需先申请 Guardrail 仓库访问权，16B 检查点首次运行下载且扩散步骤计算量大。
+NVIDIA Cosmos 是构建物理 AI 应用的开放平台，覆盖机器人、自动驾驶、智能基础设施等行业。核心是 Cosmos 3 全模态世界模型家族（Reasoner 做理解与规划，Generator 做仿真、合成数据与策略学习），分 Super 64B、Nano 16B、Edge 4B 三档。平台配套 Cosmos Framework（SFT/LoRA/RL/蒸馏训练）、Curator（数据整理）、Evaluator（输出评估）与 cookbook 示例仓库；本仓库为入口，提供 Quickstart 与 agent 可运行 recipes。使用需申请 Guardrail 仓库访问权限。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ NVIDIA 维护的 Physical AI 开放平台仓库，本体是 Cosmos 3 全模态�
 
 ## 能力要点
 
-- 全模态世界模型：Reasoner 做理解/规划，Generator 做模拟/合成数据
-- 三档规模：64B（H200/B200）、16B（H100）、4B（Jetson 边缘部署）
-- 示例检查点含 DROID 机器人策略与 17-25x 加速的少步生成变体
-- 支持 Diffusers/vLLM/vLLM-Omni/SGLang/TensorRT-LLM/NIM 多后端及 OpenAI 兼容 API 服务
+- Cosmos 3 全模态世界模型：Reasoner（文本输出）与 Generator（视觉/音频/动作输出）双塔架构
+- 三档基座模型按部署规模划分：64B/H200 级、16B/RTX Pro 6000 级、4B/Jetson 边缘级
+- 配套训练（SFT/LoRA/蒸馏/RL）、数据整理与自动评估三个平台组件
+- 生成默认开启 guardrail，需申请 Hugging Face gated 仓库访问
 
 ## 适用场景
 
-- 为机器人与自动驾驶生成合成数据与仿真环境
-- 执行具身任务规划与世界推理（如视觉问答、危险预判）
-- 在其上做 SFT/LoRA/蒸馏/RL 后训练并评测（配合 Cosmos Framework）
+- 为自动驾驶生成合成数据与闭环仿真
+- 生成机器人操作策略并在边缘设备实时运行
+- 后训练定制自己的世界模型
+- 对真实场景做预测与具身推理
 
 ## 场景标签
 
-`模型评测` `图像生成` `视频生成` · 领域:评测与运维
+`微调` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L38: NVIDIA Cosmos is an open platform for building physical AI applications — robots, autonomous vehicles, and smart in
-> L44: |**Reasoner**|text, vision|text|world understanding, grounding, task planning, embodied reasoning|
-> L45: |**Generator**|text, vision, sound, action|vision, sound, action|world simulation, future prediction, synthetic dat
+> L37: NVIDIA Cosmos is an open platform for building physical AI applications, supporting industry verticals such as robo
+> L46: |**Generator**|text, vision, audio, action|vision, audio, action|world simulation, future prediction, synthetic dat
+> L92: |Cosmos3-Super|64B|H200 / B200 / GB200|Highest quality; synthetic data generation; teacher for distillation|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `bc20668c1122` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a83bbc08ea3e` · [字段定义](../../DATASET.md)*

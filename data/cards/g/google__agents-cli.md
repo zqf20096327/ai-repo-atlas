@@ -2,9 +2,9 @@
 
 ⭐ 6,382 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google/agents-cli) · [官网](https://google.github.io/agents-cli/) · 组织维护
 
-**让编程助手具备 Google Cloud ADK 智能体构建/评测/部署能力的 CLI 与技能包**
+**让编码助手学会在 Google Cloud 上构建、评估、部署 AI Agent 的 CLI**
 
-Google 官方维护的 CLI 与 agent 技能集合，配合 Antigravity CLI、Claude Code、Codex 等编程助手使用：为编程助手安装 7 个技能（工作流、ADK 代码、脚手架、评测、部署、发布、可观测性），并提供 create/run/eval/deploy/publish 等独立可用的命令行操作，覆盖 ADK 智能体从创建、评测（LLM-as-judge、失败模式聚类、提示词自动调优）到 Google Cloud 部署的全流程。本地开发可用 AI Studio API key，部署需 Google Cloud。CLI 本身不是编程助手，也可脱离编程助手独立运行。
+提供 CLI 命令与技能包，安装后供 Antigravity CLI、Claude Code、Codex 等编码助手调用，覆盖 ADK agent 项目的创建、脚手架、评估（含 LLM-as-judge 与数据集合成）、部署到 Agent Runtime/Cloud Run/GKE、发布与可观测性等环节；也可脱离编码助手独立在终端使用。前置条件为 Python 3.11+、uv、Node.js；本地开发可用 AI Studio API key，云端部署需 Google Cloud 项目，且默认向用户自己的 GCP 项目发送遥测（可关闭）。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Google 官方维护的 CLI 与 agent 技能集合，配合 Antigravity CLI、Cla
 
 ## 能力要点
 
-- 7 个技能覆盖 ADK 智能体开发全生命周期
-- CLI 独立可用：create/run/eval/deploy/publish 等命令
-- 评测体系含指标、数据集合成、LLM-as-judge 与失败模式聚类
-- 本地开发可用 AI Studio API key，部署需 Google Cloud
+- 7 个技能覆盖 agent 开发全生命周期（脚手架/ADK 代码/评估/部署/发布/可观测性）
+- eval 子命令集支持推理、评分、数据集合成、结果对比与失败模式聚类
+- 兼容 Antigravity CLI、Claude Code、Codex 等编码助手，也可独立运行
+- 默认遥测可经环境变量关闭，日志写入用户自己的 GCP 项目
 
 ## 适用场景
 
-- 让 Claude Code 等编程助手直接生成和部署 ADK 智能体项目
-- 为已有智能体项目补充 CI/CD 与部署配置
-- 对智能体运行评测并根据结果调优提示词
+- 在 Google Cloud 上搭建并部署 ADK Python agent 项目
+- 用评估数据集自动调优 agent 提示词并聚类失败模式
+- 为已有 agent 项目补充部署与 CI/CD 配置
 
 ## 场景标签
 
-`代码生成` `模型评测` `Agent 框架` · 领域:Agent 开发
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L16: **Agents CLI in Gemini platform** (`agents-cli`) gives your coding agent the skills and commands to build, scale, g
 > L118: No. **`agents-cli` is a tool *for* coding agents, not a coding agent itself.** It provides the CLI commands and sk
+> L121: ADK is an agent framework. `agents-cli` gives your coding agent the skills and tools to build, evaluate, and deplo
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `899c938e1898` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `3289ba9705f9` · [字段定义](../../DATASET.md)*

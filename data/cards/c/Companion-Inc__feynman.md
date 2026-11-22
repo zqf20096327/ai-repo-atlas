@@ -2,9 +2,9 @@
 
 ⭐ 10,146 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Companion-Inc/feynman) · [官网](https://feynman.is) · 组织维护
 
-**开源 AI 科研 agent CLI：文献综述、深度研究与论文审查**
+**面向研究者的开源 AI 科研 agent CLI**
 
-命令行形态的 AI 研究 agent：通过 /deepresearch、/lit、/review、/audit、/replicate 等 10 种工作流执行计划式调研、文献综述、论文批评、声明-代码审计、复现计划与草稿生成，结果写入 outputs/ 与 papers/，部分工作流附带来源溯源文件。检索源覆盖 arXiv、Semantic Scholar、OpenAlex、PubMed、bioRxiv、Hugging Face 等十余种并可读取本地 PDF。安装提供 curl/PowerShell 脚本与 npm 包，运行前需 feynman setup 登录模型提供商，含 PostHog 遥测（可关闭）。
+Feynman 是一个 CLI 形式的 AI 研究代理：提供 deepresearch、文献综述、论文评审、论文代码审计、复现计划、ML 训练配方、草稿撰写等工作流命令，输出保存到 outputs/ 与 papers/ 目录，部分工作流附带 provenance 来源记录文件。检索源覆盖 alphaXiv、Semantic Scholar、OpenAlex、arXiv、PubMed 等学术数据库及网络与 Hugging Face，可读取本地 PDF；基于 Pi 运行时内置 researcher/verifier/reviewer/writer 四个 agent，可通过 MCP 添加自有工具。遥测可开关。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 10 种研究工作流（deepresearch/lit/review/audit/replicate 等）
-- 检索 alphaXiv、Semantic Scholar、OpenAlex、arXiv、PubMed 等 10+ 来源并读本地 PDF
-- 四 agent 架构：researcher、verifier、reviewer、writer
-- /lit、/deepresearch、/recipe 输出来源溯源文件
+- 10 种科研工作流命令（/deepresearch、/lit、/audit、/replicate 等）
+- 检索 alphaXiv、Semantic Scholar、arXiv、PubMed 等 11 类来源并生成 provenance 文件
+- 运行于 Pi，含 researcher/verifier/reviewer/writer 四个 agent
+- 支持通过 feynman mcp add 接入 Zotero 等自有工具
 
 ## 适用场景
 
-- 我对一个新课题做带引用核查的深度调研
-- 我让 AI 批评我的论文草稿并给出修改计划
-- 我让 AI 对比论文声明与其公开代码是否一致
+- 对某研究主题做带引用核查的深度调研
+- 梳理某课题的共识、分歧与开放问题
+- 审阅论文草稿并生成修改计划
+- 核对论文声明与其公开代码的一致性
 
 ## 场景标签
 
@@ -38,7 +39,6 @@
 ## 证据(README 行号)
 
 > L5:  The open source AI research agent.
-> L40: feynman deepresearch "mechanistic interpretability"
 > L45: |`/deepresearch <topic>`|Planned investigation with parallel researchers and citation checks|
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ba055209bda9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `fd4fa325da3a` · [字段定义](../../DATASET.md)*

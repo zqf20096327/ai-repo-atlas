@@ -2,9 +2,9 @@
 
 ⭐ 6,288 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/generalaction/emdash) · [官网](https://emdash.com/classic) · 组织维护
 
-**并行运行多个 AI 编码代理的桌面开发环境**
+**并行运行编码 Agent 的开源桌面应用：worktree 隔离**
 
-桌面应用，用于并行运行多个 AI 编码代理 CLI（Claude Code、Codex、OpenCode、Amp、Qwen Code 等），自动检测已安装的代理。每个任务运行在独立的 Git worktree 与分支中，支持审查 diff、创建 PR、查看 CI 并合并。可从 Linear、GitHub、Jira、GitLab、Asana 等十余个来源发送工单给代理。支持本地项目与 SSH/SFTP 远程机器；本地优先，状态存于 SQLite，不向 Emdash 服务器发送代码。提供 macOS（brew/安装包）、Windows、Linux 多架构桌面构建，遥测可关闭。
+Emdash Classic 是运行编码 Agent 的开源桌面应用，覆盖 macOS/Windows/Linux。核心机制：每个 Agent 运行在独立的 Git worktree 与分支中实现隔离，可同时运行多个 Agent；自动检测本机已安装的 provider CLI（如 Claude Code、Codex、Cursor 等）；可从 Linear、GitHub、Jira 等系统将 issue 发送给 Agent；支持 SSH/SFTP 连接远程机器执行相同工作流；应用内完成 diff 审查、PR 创建、CI 检查与合并。本地优先，状态存于本地 SQLite，遥测可关闭。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 每个代理任务隔离在独立 Git worktree 与分支中运行
-- 自动检测已安装的代理 CLI，通过生命周期钩子追踪状态与会话
-- 接入 Linear/GitHub/Jira/GitLab/Asana 等工单来源
-- 本地优先：状态存 SQLite，代码与对话不上传 Emdash 服务器，遥测可选
+- 多编码 Agent 并行运行，各自隔离在独立 Git worktree 与分支
+- 自动检测已安装的 provider CLI（Claude Code、Codex、Cursor 等）
+- 从 Linear/GitHub/Jira/GitLab 等系统发送 issue/ticket 给 Agent
+- SSH/SFTP 远程机器上运行相同并行工作流，凭据存于 OS 钥匙串
 
 ## 适用场景
 
-- 同时探索多个修复或功能方案，对比 diff 后合并可行结果
-- 把工单系统里的 issue 直接交给编码代理处理
-- 在远程机器上通过 SSH 运行同样的并行代理工作流
+- 同时跑多个编码 Agent 处理不同任务而不开多个终端
+- 把 Linear/Jira 工单直接交给 Agent 处理
+- 在远程服务器代码库上运行并行 Agent 工作流
+- 在一个应用内审查 diff、开 PR、看 CI 并合并
 
 ## 场景标签
 
@@ -37,8 +38,8 @@
 
 ## 证据(README 行号)
 
-> L15: Emdash is a desktop app for running AI coding agents in parallel. Each task runs in its
-> L47: Emdash detects installed provider CLIs automatically. It supports agents like Claude
+> L3: Emdash Classic is the open-source desktop app for running coding agents in parallel. Run Claude Code, Codex, OpenCod
+> L42: The app automatically detects installed provider CLIs, including Claude Code, Codex, Cursor,
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `12f4dba3e245` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b1eb9f2ccdff` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # satellite-image-deep-learning/techniques
 
-⭐ 10,311 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/satellite-image-deep-learning/techniques) · 组织维护
+⭐ 10,311 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/satellite-image-deep-learning/techniques) · 个人维护
 
-**卫星与航空影像深度学习技术策展清单：按任务分类汇集方法**
+**面向遥感从业者的卫星影像深度学习技术资源清单**
 
-由 satellite-image-deep-learning.com 维护的策展清单仓库：系统梳理面向卫星与航空影像处理的深度学习技术，覆盖分类、分割、目标检测、云检测与去除、变化检测、时间序列、作物分类、生成网络、少样本学习、SAR、基础模型与 AI agents 等约 30 个主题类别。每个类别下列出论文配套代码、数据集与教程条目，并建议用 Ctrl+F 搜索定位内容。供遥感与深度学习方向的研究者和开发者查找方法与代码。
+该仓库汇总适用于卫星与航空影像处理的深度学习技术，按分类、分割、目标检测、变化检测、云检测、时间序列、自监督学习、基础模型等约 20 个任务类别组织条目，每个条目指向具体的项目、论文或数据集链接。使用方式为在页面内搜索关键词定位相关技术；条目覆盖 PyTorch 实现的模型、基准数据集（如 EuroSAT、UC Merced）及地球观测领域的开源工具。仓库不提供统一的安装或运行入口，内容以链接编目为主。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 按 30 个左右任务主题组织的技术清单
-- 条目多为论文配套代码、数据集与教程
-- 配套网站 satellite-image-deep-learning.com
+- 按约 20 个遥感任务类别组织技术条目
+- 收录分类、分割、检测等任务的论文与开源项目链接
+- 提供 EuroSAT 等多个遥感基准数据集条目
 
 ## 适用场景
 
-- 查找卫星影像分类、分割、检测等任务的论文代码
-- 了解遥感深度学习各任务的代表性方法与数据集
-- 按 SAR、变化检测、基础模型等专项主题检索资源
+- 查找某个遥感任务（如土地覆盖分类）的已有方法
+- 为遥感深度学习研究寻找数据集与基准
+- 检索特定技术（如 SAM、SAR）的相关项目
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `目标检测` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L9: Deep learning has revolutionized the analysis and interpretation of satellite and aerial imagery, addressing unique 
-> L15: - Classification
-> L31: - AI agents
+> L11: **How to use this repository:** use `Command + F` (Mac) or `CTRL + F` (Windows) to search this page for e.g. 'SAM'
+> L13: ## Techniques
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `7d5614380bce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `381e1d9719a2` · [字段定义](../../DATASET.md)*

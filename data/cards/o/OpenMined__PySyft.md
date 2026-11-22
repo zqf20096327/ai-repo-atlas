@@ -2,9 +2,9 @@
 
 ⭐ 10,062 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/OpenMined/PySyft) · [官网](https://www.openmined.org/) · 组织维护
 
-**远程数据科学库：数据不出所有者机器即可提交计算**
+**隐私保护远程数据科学库：在他人服务器上的私有数据上运行计算**
 
-OpenMined 维护的隐私保护远程数据科学框架（v2）：数据科学家在模拟数据上开发分析代码，以任务形式提交给数据所有者，在沙箱化 Python 虚拟环境中对私有数据执行，仅返回经批准的结果。数据通过 Google Drive/Microsoft 365 等组织已有云存储传输，无需新建基础设施，支持离线优先同步与点对点显式授权。以 Python 包（syft/syft-rds/syft-bg 等）经 pip 安装，本地使用需配置 Google Cloud OAuth，Python 3.10+。
+PySyft 让数据科学家提交作业，由数据所有者审核后在私有数据上执行，仅回传批准的结果，私有数据不离开所有者机器。通过双方已有的云存储（Google Drive、Microsoft 365）或 webRTC 等 p2p 通道通信，支持签名加密、离线优先同步、逐协作者显式授权、mock/私有数据分离。由 syft 同步引擎与 syft-rds 数据集/作业客户端等多个包组成，v0.10+ 为 syft-client 的后继版本，旧 API 需 pin syft<0.10。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ OpenMined 维护的隐私保护远程数据科学框架（v2）：数据科学�
 
 ## 能力要点
 
-- 私有数据不离开数据所有者机器，仅共享批准的结果
-- 基于 Google Drive 等文件型传输层，可扩展至任意传输
-- 任务在沙箱化 Python 虚拟环境中隔离执行
-- 模拟/私有数据分离：用 mock 数据探索后提交真实任务
+- 作业须经数据所有者批准后才在私有数据上执行，仅共享批准结果
+- 传输层基于已有云存储（Google Drive 等）与 webRTC，无需新基础设施
+- mock 数据探索与私有数据执行的分离工作流
+- 离线优先：对端离线也可完整工作，恢复后同步
 
 ## 适用场景
 
-- 在无法直接拷贝的私有数据上做分析并取回结果
-- 在 enclave 中做双盲 LLM 评测（私有模型 × 私有基准）
-- 对私有 LLM 用户日志提交分析任务获取批准结果
+- 在不获取数据副本的前提下对合作机构的私有数据做分析
+- 在 enclave 内对私有模型与私有基准做双盲评测
+- 对私有 LLM 用户日志提交分析作业并取回批准结果
 
 ## 场景标签
 
@@ -37,8 +37,8 @@ OpenMined 维护的隐私保护远程数据科学框架（v2）：数据科学�
 
 ## 证据(README 行号)
 
-> L13: PySyft lets data scientists submit computations which are run by data owners on private data — all through cloud st
-> L32: - **Privacy-preserving** — Private data never leaves the data owner's machine; only approved results are shared
+> L13: PySyft allows data scientists run computations which are reviewed and run by data owners on private data. Users sec
+> L36: - **Approved job execution** — Jobs only run after approval from the data owner(s), the approval includes access to
 > L105: Built by OpenMined — building open-source technology for privacy-preserving data science and AI.
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `bf362f99aa6d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dd61f0b061db` · [字段定义](../../DATASET.md)*

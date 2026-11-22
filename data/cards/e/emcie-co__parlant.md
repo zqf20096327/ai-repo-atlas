@@ -1,16 +1,16 @@
 # emcie-co/parlant
 
-⭐ 18,339 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/emcie-co/parlant) · [官网](https://www.parlant.io) · 组织维护
+⭐ 18,339 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/emcie-co/parlant) · [官网](https://www.parlant.io) · 组织维护 · 中文 README
 
-**面向企业客服场景的 AI Agent 对话控制框架**
+**用自然语言描述行为、由编码 agent 实现的客户对话 agent 构建平台**
 
-面向客户服务的 Agent 框架，核心机制是按对话轮次动态收窄上下文：开发者以代码定义规则、知识与工具，引擎在每轮匹配仅相关的指令与工具再调用 LLM。提供 Guidelines（条件-动作规则）、Journeys（多轮 SOP）、Canned Responses（预审模板）、工具按需触发与 OpenTelemetry 全链路追踪。通过 pip 安装，提供 Python SDK 与官方 React 聊天组件，Apache 2.0 协议。
+Parlant 提供构建面向客户对话 agent 的开源平台：用户以自然语言描述策略与行为，由 Claude Code 等编码 agent 在其代码库上实现。内置策略与流程编目、按对话相关性动态选取规则、工具与回复的执行前校验、标准话术库、聊天组件、人工接管、模拟测试对话与分析观测。模型可自选任意 provider 直接付费；框架 Apache 2.0 开源，Dashboard 托管与监控为按月订阅。要求以 Python 服务运行，agent 行为代码以 Python 编写。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- 条件-动作式 Guidelines，引擎按轮次匹配相关规则注入上下文
-- Journeys 多轮 SOP 流程，支持快进、回退与节奏自适应
-- Canned Responses 预审模板限制关键回复用词
-- 内置 OpenTelemetry 日志、指标与追踪
+- 策略/流程/工具/话术编目，按轮次动态注入相关性规则
+- 工具调用与回复发送前的校验机制（如退款先检查）
+- 聊天组件、人工接管、模拟测试、分析观测开箱即用
+- 支持 OpenAI、Anthropic、Gemini、LiteLLM 及自定义 provider，无推理加价
 
 ## 适用场景
 
-- 搭建需遵守话术与合规要求的客服 Agent
-- 在金融、保险、医疗等需要可解释审计的场景部署对话系统
-- 管理数百条行为规则而不想让系统提示词超载
-- 为现有 LangGraph/LlamaIndex 工作流补充行为控制层
+- 给公司网站建一个介绍业务、捕获销售线索并预约会议的 agent
+- 在应用内、邮件等渠道自动化客户支持并保持符合业务政策
+- 让编码 agent 在几分钟内按 FAQ 新增产品规则并跑模拟对话测试
 
 ## 场景标签
 
-`Agent 框架` `聊天机器人` · 领域:Agent 开发
+`聊天机器人` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: ### The interaction control harness for customer-facing AI agents
-> L45: Parlant is an agentic harness offering optimized context engineering for conversational use cases: getting the righ
+> L46: **Parlant** is the open platform for building CX agents with AI. It comes with all the parts every customer-facing 
+> L125: Most AI frameworks, and the code a coding agent writes on top of them, are built for that left column: for assista
+> L108: For a full project, run `parlant init my-agent --scaffold retail-store` (a working support agent), `--scaffold lea
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `455545f738e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bcb822beedb7` · [字段定义](../../DATASET.md)*

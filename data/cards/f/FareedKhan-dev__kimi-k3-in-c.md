@@ -2,9 +2,9 @@
 
 ⭐ 12,537 · C · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/kimi-k3-in-c) · [官网](https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59) · 个人维护
 
-**纯 C99 在单 CPU/8GB 内存上运行 Kimi K3 的推理引擎**
+**单 CPU、低内存下以纯 C99 运行 Kimi K2 671B 推理**
 
-从零实现的可移植 C99 推理引擎，在无 BLAS、无框架、无 GPU 条件下运行 2.78 万亿参数的 Kimi K3 模型：稠密主干驻留内存并按需从 NVMe 流式读取，1.45 TB 路由专家以 4-bit 打包形式直接从磁盘计算，峰值内存 8.24 GB，输出与全量内存运行字节一致。面向希望在本机消费级硬件上复现大模型推理的开发者。限制：checkpoint 达 1.56 TB（磁盘门槛约 1.7 TB），8 GB 机器上每 token 需数十秒，属可运行而非交互速度。
+从零实现的 C99 推理引擎，读取 Kimi K2 671B 的 safetensors 分片，在纯 CPU（无 GPU、无 BLAS、无框架）上执行文本生成。核心机制：将 61 个稀疏 MoE 层打包为连续的 trunk.bin，按层流式 mmap+read 读取，配合 LRU 专家缓存、双缓冲流水线、GEMV 与在线激活量化（恩典量化）将常驻内存压到 2.4-380 GB 多档。依赖仅需 C99 编译器与 OpenMP。提供 python 下载/打包/多轮 chat 脚本；git 历史声称从单文件逐步构建，但仓库实际从 v2.0.0 起步，早期目录仅在压缩包中提供。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- C99 实现，无 BLAS/框架/GPU，引擎约 176 KB
-- 8.24 GB 峰值内存运行 2.78T 参数模型，输出字节一致
-- 稠密主干打包（109 GB）+ 专家流式读取，内存预算可调
-- make test 无需 checkpoint 即可运行端到端参考对照测试
+- 纯 C99 实现的 671B MoE 模型 CPU 推理，无 BLAS/GPU/框架依赖
+- trunk.bin 层级内存映射 + LRU 专家缓存 + 双缓冲流水线的流式推理
+- 恩典量化（在线激活量化）支持 2.4/3.8/7.5/13/19/30/64/113.5/380 GB 多档内存 preset
+- 仅依赖 C99 编译器与 OpenMP，约 5000 行源码
 
 ## 适用场景
 
-- 在普通笔记本 8 GB 内存上运行超大规模 MoE 模型
-- 学习从零构建 LLM 推理引擎的各组件实现
-- 研究内存受限条件下的大模型流式推理
+- 在没有 GPU 的普通电脑上本地运行 Kimi K2 生成文本
+- 在有限内存机器上通过小 preset 体验 671B 模型
+- 学习 MoE 推理引擎的底层 C 实现
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
+> L1: kimi-k3-in-c
 > L3:  A 2.78-trillion-parameter model. One CPU. 8 GB of RAM.
-> L5:  Kimi K3 inference in portable C99. No BLAS. No framework. No GPU.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ef678a7aa853` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c93aeceec8b8` · [字段定义](../../DATASET.md)*

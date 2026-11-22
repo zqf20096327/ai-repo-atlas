@@ -2,9 +2,9 @@
 
 ⭐ 4,564 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/pydantic/logfire) · [官网](https://pydantic.dev/logfire/) · 组织维护
 
-**面向 Python/LLM 应用的可观测性平台：日志、追踪、指标与评测**
+**面向 LLM 与 agent 生产系统的 OpenTelemetry 可观测性平台（Python SDK 开源）**
 
-Pydantic 团队开发的可观测性平台：本仓库包含 Python SDK 与文档，服务端（数据记录与展示）闭源。SDK 基于 OpenTelemetry 封装，支持 traces、metrics、logs 全部信号，提供 SQL 查询、Python 对象展示、事件循环遥测、代码与数据库查询分析，以及对 Pydantic 模型校验数据的内建分析；面向 LLM 应用、agent 与生产环境评测场景。通过 pip 安装 SDK 与 CLI，可自动插桩 FastAPI 等常用包，也可将数据导出到任意 OTel 兼容后端。
+由 Pydantic 团队提供的可观测性平台：本仓库包含 Python SDK 与文档，服务端（记录与展示数据的 UI/后端）闭源，需购买企业许可方可自托管。SDK 是 OpenTelemetry 的封装，支持 traces、metrics、logs 三种信号，可将数据导出到任意 OTel 兼容后端；提供 SQL 查询、Pydantic 模型验证分析、与 FastAPI 等常用包的自动集成，覆盖 LLM 应用、agent 与生产 evals 场景。通过 pip 安装，经 logfire-cli 认证并初始化项目。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Pydantic 团队开发的可观测性平台：本仓库包含 Python SDK 与文�
 
 ## 能力要点
 
-- OpenTelemetry 封装，支持 traces/metrics/logs 全部信号并可导出到任意 OTel 兼容后端
-- Python 对象展示、事件循环遥测、代码与数据库查询分析
-- Pydantic 模型校验数据内建分析
-- 提供 FastAPI 等常用包的自动插桩集成
+- 基于 OpenTelemetry 的封装，支持 traces/metrics/logs 全部信号，可导出到任意 OTel 兼容后端
+- 标准 SQL 查询数据，可配合现有 BI 工具
+- 与 Pydantic Validation 集成，提供模型验证分析
+- 支持 FastAPI 等流行 Python 包的自动 instrumentation
 
 ## 适用场景
 
-- 追踪生产环境 Python 应用的日志与调用链
-- 观测 LLM 应用与 agent 的运行行为并进行评测
-- 用 SQL 查询遥测数据并接入现有 BI 工具
+- 为生产环境的 LLM 应用和 agent 接入追踪与监控
+- 在产线上运行 evals 并观测 Python 应用行为
+- 用 SQL 和现有 BI 工具查询遥测数据
 
 ## 场景标签
 
-`LLM 可观测性` `模型评测` · 领域:评测与运维
+`LLM 可观测性` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L16: - **OpenTelemetry:** Logfire is an opinionated wrapper around OpenTelemetry, allowing you to leverage existing tool
-> L21: Evaluating observability tools? See what Logfire does for LLM apps and agents, evals in production, and how it comp
 > L25: This repo contains the Python SDK for `logfire` and documentation; the server application for recording and display
+> L96: The Logfire platform (the UI and backend) is closed source. You can self-host it by purchasing an enterprise licens
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `03cc242f264b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ad3e627dbf95` · [字段定义](../../DATASET.md)*

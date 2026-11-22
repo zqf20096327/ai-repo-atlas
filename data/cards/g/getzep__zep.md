@@ -2,9 +2,9 @@
 
 ⭐ 5,011 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/getzep/zep) · [官网](https://help.getzep.com) · 组织维护
 
-**Zep Cloud（托管 agent 记忆平台）的示例与框架集成代码库**
+**Zep Cloud 的示例与框架集成仓库：帮助开发者接入 agent 上下文层**
 
-本仓库不是 Zep 产品本身，而是围绕 Zep Cloud（托管的 agent 记忆平台）的示例代码、框架集成包与工具集合。集成包按框架再按语言组织于 integrations/ 目录，每个包独立构建、测试与发布；覆盖 Python（LangGraph、CrewAI、AutoGen、Google ADK 等）、TypeScript（Mastra、Vercel AI SDK 等）与 Go。使用需注册 Zep Cloud 账号；官方 SDK 为 pip/npm/go get 三种。原开源时序知识图谱框架已迁至 Graphiti，Community Edition 已停止支持并移入 legacy/。
+本仓库本身不是 Zep 产品，而是 Zep Cloud 的示例代码、agent harness、框架集成包与工具集合。Zep 定位为企业级 agent 上下文层，由 Context Lake（将业务数据统一为受治理的 Context Graphs）与 Zep Agent Skills（将 agent 任务转为可遵循的技能）两部分组成。开发者通过 MCP 或官方 SDK（Python/TypeScript/Go）连接 Zep Cloud，仓库按 framework/language 组织集成包，覆盖多个主流 agent 框架并独立构建发布。
 
 ## 筛选速览
 
@@ -20,14 +20,16 @@
 
 ## 能力要点
 
-- 集成包按 framework/language 目录组织、独立构建发布
-- 覆盖 LangGraph、CrewAI、AutoGen、Google ADK、Mastra 等十余个框架
-- 官方 SDK 提供 Python/TypeScript/Go 三种语言
+- 提供 Python/TypeScript/Go 三种官方 SDK 安装方式
+- 集成包按 framework/language 目录组织，独立构建测试发布
+- 示例覆盖 Context Graph 检索 agent 与 Agent Skills 完整闭环
+- 通过 MCP 或 SDK 接入 Zep Cloud
 
 ## 适用场景
 
-- 为自己的 agent 框架接入 Zep Cloud 记忆服务时参考集成包
-- 学习 agent 记忆的接入示例代码
+- 为自己的 agent 接入 Zep Cloud 的企业知识上下文
+- 在 LangGraph/Pydantic AI 等框架中添加 agent 记忆
+- 参考示例了解 Context Graph 检索与技能循环的用法
 
 ## 场景标签
 
@@ -35,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L15: This repository is **not** Zep's product or service. It contains **example code, framework
-> L16: integrations, and tools** for building agent memory with Zep Cloud,
-> L33: Framework integration packages live under `integrations/`, organized
+> L11: Zep is the enterprise context layer for reliable agents. Zep gives agents
+> L24: This repository is **not** Zep's product or service. It contains **example code, agent
+> L66: Framework integration packages live under `integrations/`, organized
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `fb6cad39eef4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e143e3d384d4` · [字段定义](../../DATASET.md)*

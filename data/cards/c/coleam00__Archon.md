@@ -2,9 +2,9 @@
 
 ⭐ 23,977 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/coleam00/Archon) · [官网](https://archon.diy) · 个人维护
 
-**YAML 工作流引擎：编排 AI 编码代理把 issue 变成合并 PR**
+**为 AI 编码代理编排 YAML 工作流的开源构建器**
 
-自托管的软件工厂构建器：用户以 YAML 描述工作流（代理节点、bash 命令、循环、人工审批门），Archon 用队列与运行器执行。自带 sdlc 包实现 issue 到合并 PR 的流程（intake、构建队列、合并队列、发现记录）。通过 Claude Code、Codex、Pi 自身的 CLI 与 SDK 运行代理，使用用户已有账号。默认 SQLite，可选 PostgreSQL；仓库运行默认独立 git worktree。发送匿名遥测事件，可通过环境变量关闭。安装提供 curl 脚本、PowerShell、Homebrew、源码与 Docker 途径。
+用 YAML 描述工作流程，由工作流引擎调度 AI 代理、脚本与人工决策节点执行；自带 SDLC 工作流包，覆盖从 issue 到合并 PR 的流程，含构建队列、合并队列、审批门、事件日志与每次运行的成本记录。代理通过 Claude Code、Codex、Pi 的 CLI/SDK 运行，账户与订阅沿用用户自有。默认 SQLite 存储，可选 PostgreSQL；提供 CLI、Web 控制台及 Slack/Telegram/Discord/GitHub 接入。MIT 许可，自托管安装，遥测数据匿名且不含消息内容。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- YAML 工作流定义节点图：代理判断、脚本计算、人工审批门
-- sdlc 包：issue 经计划/实现/审查/CI 到合并 PR
-- 通过 CLI/SDK 运行 Claude Code、Codex、Pi，复用已有账号
-- 插件体系：workflow pack/provider/forge/chat 四类接缝
+- YAML 工作流图：代理节点、命令节点、循环与人工审批节点组合
+- 自带 SDLC 包：issue→构建队列→PR→合并队列的完整流程
+- 每次运行留存事件日志、完整记录与成本数据
+- 通过 forge/chat/provider 等插件契约扩展，GitHub 作插件注册表
 
 ## 适用场景
 
-- 把团队的软件开发流程固化为可重复的 AI 代理工作流
-- issue 提交后自动完成计划、实现、审查并停在待审批项
-- 将内容生产、运营等非编码流程也写成 YAML 工厂
+- 让编码代理按固定步骤完成计划、实现、审查到开 PR
+- 多个运行并行处理同一仓库的多个任务（git worktree 隔离）
+- 把内容生产、研究、运维等非编码流程写成工作流执行
 
 ## 场景标签
 
@@ -44,9 +44,9 @@
 
 ## 证据(README 行号)
 
-> L27: - **Your agents, your subscriptions.** Archon is not another coding agent. It runs Claude Code, Codex and Pi throug
-> L73: Workflows are not tied to code. A node can be an agent prompt, a bash command, a script, a loop, a wait for a perso
+> L14: Archon is a factory builder. You describe how work should get done as YAML workflows, and Archon runs them with AI 
 > L82: |Provider|An agent runtime|Claude Code, Codex, Pi|
+> L27: - **Your agents, your subscriptions.** Archon is not another coding agent. It runs Claude Code, Codex and Pi throug
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `acddafd54907` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d484286da5f3` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 5,573 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) · [官网](https://www.petoi.com) · 组织维护
 
-**开源四足机器人框架：给教育者/研究者/DIY 者构建机器宠物**
+**开源四足机器人框架，供教育/研究/DIY 编程与构建**
 
-Petoi 维护的 Arduino/Raspberry Pi 四足机器人开源框架，驱动 Bittle 机器狗与 Nybble 机器猫。框架处理步态协调、舵机控制与 IMU 集成，支持 C/C++、Python 与积木编程，可外接摄像头、树莓派、Jetson Nano 等 AI 协处理器，支持强化学习 sim-to-real 实验与 ROS 兼容。本仓库面向旧款 NyBoard（ATmega328P）平台，已归档不再维护；现款 ESP32 硬件见 OpenCatESP32。适用于 K-12 教育、大学实验室与创客项目。
+Petoi 开发的 Arduino + Raspberry Pi 四足机器人框架，是 Bittle 机器狗与 Nybble 机器猫套件的底层固件，针对 NyBoard（ATmega328P）主控板。框架处理步态协调、舵机控制、IMU 集成，支持 C/C++、Python 与积木式编程，可扩展摄像头、超声波等传感器，并兼容 ROS 管线。安装流程为 clone 仓库后在 Arduino IDE 中编译上传固件，经串口进行 IMU 与关节校准。当前代硬件（Bittle X、Nybble Q）已迁移至 OpenCatESP32 仓库，本仓库覆盖旧款 NyBoard 平台。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Petoi 维护的 Arduino/Raspberry Pi 四足机器人开源框架，驱动 Bittle
 
 ## 能力要点
 
-- 步态协调、最多 12 舵机控制与 IMU 集成的固件框架
-- 多语言编程支持：C/C++、Python、积木编程
-- 可外接树莓派/Jetson Nano 等 AI 协处理器，支持强化学习 sim-to-real
-- ROS 兼容，社区有 SLAM 与导航流水线文档
+- 处理步态协调、舵机控制与 IMU 集成的四足机器人固件框架
+- 支持 C/C++、Python 与积木式编程，兼容 ROS
+- 支持强化学习 sim-to-real 实验，可外接 Raspberry Pi/Jetson Nano 等 AI 协处理器
+- 面向 K-12 到大学实验室的机器人编程教学场景
 
 ## 适用场景
 
-- 课堂上教机器人编程与物理 AI
-- 在廉价四足平台上做强化学习 sim-to-real 实验
-- DIY 3D 打印定制机器宠物
-- 科研实验室的具身机器人实验载体
+- 搭建并编程自己的四足机器狗/机器猫
+- 在真实机器人上跑强化学习与 sim-toreal 实验
+- K-12 或大学机器人/STEM 课程教学
+- 基于传感器扩展做物体检测、SLAM 等 DIY 项目
 
 ## 场景标签
 
- · 领域:机器人/教育
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L7: OpenCat is an open-source Arduino and Raspberry Pi-based framework for building and programming quadruped robots. De
 > L9: The framework handles the hard parts — gait coordination, servo control, IMU integration — so you can focus on what 
-> L53: - **Arduino + Raspberry Pi native:** works with the tools you already use
+> L166: OpenCat shows up in **AI robotics education** across K-12 programs, community colleges, university labs, and maker
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `39464d276237` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c57370c78595` · [字段定义](../../DATASET.md)*

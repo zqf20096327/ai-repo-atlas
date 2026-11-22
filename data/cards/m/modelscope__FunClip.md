@@ -2,9 +2,9 @@
 
 ⭐ 6,616 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/modelscope/FunClip) · [官网](https://huggingface.co/spaces/FunAudioLLM/FunClip) · 组织维护 · 中文 README
 
-**本地部署的视频转写、字幕与 LLM 剪辑工具（Gradio UI）**
+**给内容创作者：本地视频转录、字幕生成与 LLM 辅助切片工具**
 
-FunClip 是开源、本地部署的自动化视频剪辑工具：调用 FunASR 的 Paraformer 系列模型对视频做语音识别与时间戳预测，用户在识别结果中选取文本片段或说话人后点击剪辑得到对应视频片段，并生成 SRT 字幕。支持热词定制（SeACo-Paraformer）、CAM++ 说话人识别与按说话人剪辑；可通过 LLM（含 OrcaRouter/Cheaper Inference 网关与 TwelveLabs Pegasus 视频理解模型）辅助选段。以 Gradio 界面本地或服务器部署，也提供命令行方式；可选 MOSS-Transcribe-Diarize 长音频路径（第三方模型，vLLM 后端）。限制：精确任意文本剪辑仍需 Paraformer 的 token 时间戳。
+FunClip 是本地部署的自动化视频切片工具，基于 FunASR Paraformer 系列模型对视频做语音识别，用户从识别结果中选取文本片段或说话人，点击切片获得对应视频段，并输出整段与目标段 SRT 字幕。集成 SeACo-Paraformer 热词定制与 CAM++ 说话人识别；LLM 辅助切片通过可选网关配置 API key 使用。以 Gradio 提供本地网页界面，也可部署在服务器浏览器访问，另支持命令行与 Modelscope/HuggingFace Space 在线体验；模型权重在启动时单独下载，源码包不含。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ FunClip 是开源、本地部署的自动化视频剪辑工具：调用 FunASR �
 
 ## 能力要点
 
-- Paraformer-Large 中文 ASR 与一体化时间戳预测，支持热词定制
-- CAM++ 说话人识别，可按说话人剪辑并输出多段 SRT 字幕
-- LLM 辅助剪辑：可选 OrcaRouter/Cheaper Inference 网关或 TwelveLabs Pegasus 视频理解模型
-- Gradio 本地服务部署，另有命令行使用方式
+- Paraformer-Large 中文语音识别并一体化预测时间戳
+- SeACo-Paraformer 热词定制与 CAM++ 说话人识别切片
+- 多段自由切片并自动输出全片与目标段 SRT 字幕
+- 可选 MOSS（vLLM 后端）与 TwelveLabs Pegasus 视频理解模型路径
 
 ## 适用场景
 
-- 从会议或大会视频中按文本片段剪辑并生成字幕
-- 按说话人剪出特定发言者的视频片段
-- 让 LLM 根据转写内容自动挑选亮点片段
+- 上传视频后按文本片段或说话人剪出片段并生成字幕
+- 为中文视频做带时间戳的语音转录
+- 用热词定制提升人名、实体词的识别结果
+- 在服务器上部署 Gradio 服务供浏览器访问
 
 ## 场景标签
 
@@ -39,6 +40,7 @@ FunClip 是开源、本地部署的自动化视频剪辑工具：调用 FunASR �
 
 > L16: **FunClip** is a fully open-source, locally deployed automated video clipping tool. It leverages Alibaba TONGYI spe
 > L20: - 🔥Try AI clipping using LLM in FunClip now.
+> L24: - The functionalities are realized through Gradio interaction, offering simple installation and ease of use. It can
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `be53cd4c20e2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `2057e572c0c7` · [字段定义](../../DATASET.md)*

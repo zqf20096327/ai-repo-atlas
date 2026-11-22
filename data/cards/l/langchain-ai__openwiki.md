@@ -2,15 +2,15 @@
 
 ⭐ 18,046 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/openwiki) · 组织维护
 
-**为代码库生成并维护代理可读的 Markdown wiki 的 CLI**
+**为代码库生成并维护 Agent 可读 Markdown wiki 的 CLI**
 
-OpenWiki 将代码库与知识源转换为相互链接的 Markdown wiki，供编码代理检索上下文、回答问题。工作流为：在编码代理内或通过独立 CLI 初始化 wiki，工具以 Claims 形式把事实追溯到源证据，后续更新只处理变更部分，支持中断恢复与逐页保存进度。可通过 openwiki link 将多个仓库组成 workspace 做跨库检索，内置本地可视化图谱与静态导出，并提供 GitHub Actions/GitLab CI/Bitbucket 定时更新模板。依赖 Node.js 22.22.0+。
+OpenWiki 将代码库与知识源转换为带链接的 Markdown wiki，供编码 Agent 检索上下文、回答问题，也支持人工阅读与交互式图谱浏览。核心机制：以 Claims 溯源到源代码证据，更新时聚焦变更部分；提供 MCP 生命周期工具（begin/submit_plan/next_page/submit_page/finish）与只读检索工具 openwiki_search/openwiki_read。主路径是在既有编码 Agent 内运行（复用其已认证模型会话，无需另配模型提供方），也可用独立 CLI；支持多仓库 workspace 链接检索、断点续跑与 CI 定时更新。宿主集成目前仅支持仓库代码 wiki，暂不支持 connector 来源（含 LangSmith）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,26 +27,27 @@ OpenWiki 将代码库与知识源转换为相互链接的 Markdown wiki，供编
 
 ## 能力要点
 
-- Claims 溯源机制：事实关联源证据，更新时识别需关注的部分
-- 通过 MCP 生命周期工具（begin/submit_plan/next_page/…）与宿主代理协作
-- openwiki link 组建跨仓库 workspace 检索与阅读
-- 提供交互式图谱可视化与可发布的静态导出
+- 将代码库转为带源证据溯源（Claims）的链接 Markdown wiki
+- MCP 生成生命周期与只读检索工具，检索工具为本地、无模型调用
+- openwiki link 将多仓库 wiki 组成 workspace 并跨仓检索
+- 支持 CI 定时更新并生成文档 PR（GitHub Actions/GitLab/Bitbucket）
 
 ## 适用场景
 
-- 让编码代理快速理解陌生仓库的结构与上下文
-- 多仓库服务通过 workspace 做统一文档检索
-- 用 CI 定时任务保持代码文档与代码同步
+- 让编码 Agent 快速理解陌生仓库并查找上下文
+- 为跨多个仓库的服务建立统一可检索文档
+- 代码变更后自动增量更新 wiki 并提交 docs PR
+- 以交互式图谱浏览和发布静态可视化文档
 
 ## 场景标签
 
-`知识库管理` `RAG` · 领域:知识与检索
+`知识库管理` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L13: OpenWiki turns your codebase and knowledge sources into a linked Markdown wiki that you own. Your coding agent can 
 > L30: The easiest way to get started is inside the coding agent you already use. OpenWiki uses that agent's authenticated
-> L96: The MCP generation lifecycle is `openwiki_begin → openwiki_submit_plan → openwiki_next_page → openwiki_submit_page 
+> L43: ### 2. Connect your coding agent
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `22476650364e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `641910662941` · [字段定义](../../DATASET.md)*

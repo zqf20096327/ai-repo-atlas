@@ -2,17 +2,17 @@
 
 ⭐ 19,910 · Java · MIT · 推送 2026-11-21 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
 
-**面向开发者的自主 AI agent 开源 TypeScript 框架与产品栈**
+**给开发者的开源 agent 操作系统规范与工具链**
 
-以 monorepo 形式提供：核心运行时、Eliza 应用（web/桌面/移动）、CLI、云服务、原生桥接与第一方插件。运行时模型无关，通过插件注册 actions、providers、evaluators、services、model handlers 等组件；应用能力覆盖聊天、语音、记忆、知识、消息连接器、浏览器与桌面自动化、EVM/Solana 钱包操作等，实际可用性取决于操作系统、已装插件与配置的模型/服务商。另含可引导的 Linux 与 AOSP 发行版工具链及本地推理路径（Eliza-1，基于 Gemma 4 的 2B–27B 档位）。
+本仓库给出 Eliza v4 on Vibestack 的规格说明：涵盖内核、agent 宿主、设备镜像、云服务（身份、计费、模型接入）与助手插件；agent 在设备端运行，云端提供身份、计费与模型访问。规格包含需求、Quint 模型及 VibeLang 与 Effect 实现的生成契约。开发流程为 pnpm 安装后通过 gen/check/verify 生成契约、检查模型轨迹与重放、证明安全义务；另含 Android Keystore 密码恢复测试夹具的构建与运行步骤。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -27,26 +27,25 @@
 
 ## 能力要点
 
-- 模型无关运行时 @elizaos/core，插件可注册 actions/providers/evaluators/services/model handlers 等
-- 本地推理路径含 2B/4B/9B/27B 模型档位及本地嵌入、语音、视觉、图像生成资产
-- 按能力将模型请求路由到本地、直连服务商或 Eliza Cloud 三类后端
-- 提供可引导的 Linux 与 AOSP 发行版（packages/os）
+- 规格化覆盖内核、agent 宿主、设备镜像、云服务与插件
+- pnpm check 生成契约、检查模型轨迹与重放并证明安全义务
+- 基于 Quint 形式化模型与生成的 VibeLang/Effect 契约
+- 提供 Android Keystore 密码备份/恢复的双设备测试夹具
 
 ## 适用场景
 
-- 从源码运行并开发自有 agent 或插件
-- 构建覆盖聊天、语音、知识与设备桥接的个人助理应用
-- 把整台设备作为 elizaOS 运行（Linux/AOSP 发行版）
+- 按规格构建与验证 Eliza agent 内核实现
+- 审查 agent 平台的安全义务证明与模型轨迹
+- 测试 Android 设备上的密码保管库备份与恢复流程
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `AI 助手` `聊天机器人` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L10: elizaOS is an open-source TypeScript framework and product stack for autonomous
-> L90: The framework is model-agnostic and extended through plugins:
-> L108: `@elizaos/plugin-local-inference` provides the
+> L3: This workspace specifies Eliza v4 on Vibestack: the kernel, the agent host,
+> L5: on the device; the cloud serves identity, billing and model access. The
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `70b9e04008c4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 low · 依据 README sha `93d630f6b2b7` · [字段定义](../../DATASET.md)*

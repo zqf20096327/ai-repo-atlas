@@ -2,9 +2,9 @@
 
 ⭐ 13,476 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/TensorRT) · [官网](https://developer.nvidia.com/tensorrt) · 组织维护
 
-**面向开发者的 NVIDIA GPU 深度学习推理 SDK 开源组件仓库**
+**NVIDIA GPU 上的深度学习推理加速 SDK 开源组件**
 
-本仓库包含 NVIDIA TensorRT 的开源组件（OSS）：TensorRT 插件、ONNX 解析器的源码，以及演示平台用法与能力的示例应用。这些开源组件是 TensorRT GA 发布版本的子集，含部分扩展与修复。仓库提供预编译 Python 包的 pip 安装途径，也可通过 Docker 构建容器或本机 CMake 从源码构建，支持 x86-64 与 aarch64（含 Jetson、DriveOS 交叉编译）目标。企业支持通过 NVIDIA AI Enterprise 提供。
+NVIDIA TensorRT 的开源仓库，包含 TensorRT 的 OSS 组件：插件源码、ONNX 解析器，以及演示平台用法与能力的示例应用；是 TensorRT GA 发布版本的子集并带部分扩展与修复。提供预编译 Python 包（pip install tensorrt）可跳过源码编译；源码构建需 CUDA 等系统依赖，支持 Linux/Windows、x86_64 与 aarch64（含 Jetson/DriveOS 交叉编译），并提供 Docker 构建容器。随 TensorRT 11.X 发布移除了弱类型网络、隐式量化等旧特性并给出迁移指南。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 包含 TensorRT 插件与 ONNX 解析器源码及示例应用
-- 提供 pip install tensorrt 预编译 Python 包安装途径
-- 支持 Docker 构建容器与本机 CMake 源码构建，覆盖 x86-64/aarch64 与 Jetson、DriveOS、QNX 交叉编译
-- 提供与编码代理（coding agent）配合使用的 TensorRT 使用与基准测试技能
+- 提供预编译 pip 包，可跳过源码编译直接使用
+- OSS 组件含插件源码与 ONNX 解析器及示例应用
+- 支持 Jetson/DriveOS aarch64 交叉编译与 Docker 构建容器
+- 11.X 移除弱类型网络、隐式量化、IPluginV2 等旧 API 并提供迁移指南
 
 ## 适用场景
 
-- 为部署在 NVIDIA GPU 上的模型准备推理所需的插件与解析器组件
-- 参考官方示例应用了解 TensorRT 的使用方式
-- 为 Jetson 或 DriveOS 等 aarch64 平台交叉编译 TensorRT OSS 组件
+- 在 NVIDIA GPU 上部署并加速深度学习模型推理
+- 为 TensorRT 编写自定义插件或使用 ONNX 导入
+- 针对 Jetson/DriveOS 嵌入式平台交叉编译推理应用
 
 ## 场景标签
 
@@ -44,8 +44,8 @@
 
 ## 证据(README 行号)
 
+> L1: License Documentation Roadmap
 > L16: This repository contains the Open Source Software (OSS) components of NVIDIA TensorRT. It includes the sources for 
-> L34: We provide the TensorRT Python package for an easy installation. \
 > L56: - CUDA
 
 ## 星数曲线
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2fa0690c213b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `de9ce7c07310` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 16,440 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/huggingface/transformers.js) · [官网](https://huggingface.co/docs/transformers.js) · 组织维护
 
-**Web 开发者在浏览器中运行 Transformer 预训练模型的 JS 库**
+**让 Web 开发者在浏览器中直接运行 Transformers 预训练模型**
 
-Transformers.js 是 Hugging Face transformers Python 库在 JavaScript 上的功能等价实现，通过 ONNX Runtime 在浏览器内运行预训练模型，无需服务器。API 与 Python 版一致，提供 pipeline 接口；任务覆盖 NLP、计算机视觉、音频与多模态共数十种。模型默认通过 WASM 在 CPU 上运行，可设置 device: 'webgpu' 切换到 GPU；在浏览器等资源受限环境中可通过 dtype 选项选择 fp32/fp16/q8/q4 量化以降低带宽。经 NPM 安装，也可通过 CDN 直接引入。
+Transformers.js 是 Hugging Face transformers Python 库的 JavaScript 实现复古刻，设计为功能等价，提供相同的 pipeline API。它基于 ONNX Runtime 在浏览器中运行预训练模型，无需服务器，支持 NLP、视觉、音频、多模态等任务。模型可从 PyTorch/TensorFlow/JAX 经 Optimum 转为 ONNX。默认通过 WASM 在 CPU 上运行，可切换 WebGPU 在 GPU 上运行；支持 fp32/fp16/q8/q4 量化以降低带宽。默认使用 Hub 托管模型与预编译 WASM 二进制，也支持自定义模型路径。通过 npm 安装或 CDN 直接引入。
 
 ## 筛选速览
 
@@ -26,25 +26,24 @@ Transformers.js 是 Hugging Face transformers Python 库在 JavaScript 上的功
 
 ## 能力要点
 
-- 基于 ONNX Runtime 在浏览器运行预训练模型，无需服务器
-- 支持 NLP、视觉、音频、多模态等多类任务（含任务/架构支持清单）
-- 默认 WASM/CPU 运行，可配置 WebGPU
+- 功能等价于 transformers Python 库的 pipeline API
+- 基于 ONNX Runtime，浏览器内运行无需服务器
+- 支持 WASM/CPU 与 WebGPU/GPU 两种设备后端
 - 支持 fp32/fp16/q8/q4 量化以适配资源受限环境
 
 ## 适用场景
 
-- 在网页中做文本分类、问答、翻译等 NLP 推理
-- 浏览器端图像分类、目标检测与背景移除
-- 网页内语音识别与文字转语音
-- 将已有 PyTorch 模型经 Optimum 转为 ONNX 后在 Web 上运行
+- 在网页中直接运行文本分类、问答、翻译等 NLP 模型
+- 浏览器内做语音识别或文字转语音
+- 前端实现图像分类、目标检测、背景移除等视觉任务
+- 用官方模板快速启动自己的 Web ML 项目
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`语音识别` `目标检测` `语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L11: Run 🤗 Transformers directly in your browser, with no need for a server!
 > L13: Transformers.js is designed to be functionally equivalent to Hugging Face's transformers python library, meaning yo
 > L19: Transformers.js uses ONNX Runtime to run models in the browser. The best part about it, is that you can easily conv
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `fa5958956746` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7a4afde5b4f4` · [字段定义](../../DATASET.md)*

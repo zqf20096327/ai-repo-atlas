@@ -2,9 +2,9 @@
 
 ⭐ 10,911 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/go-vgo/robotgo) · [官网](https://atomai.cc) · 个人维护 · 中文 README
 
-**Go 跨平台桌面自动化库：控制键鼠、读屏、窗口与进程**
+**Go 跨平台桌面自动化库：控制鼠标键盘、读屏、图像与窗口**
 
-Go 语言的原生跨平台 GUI 自动化/RPA 库，提供鼠标键盘控制、屏幕与位图读取、窗口管理、进程与句柄操作、全局事件监听（GoHook）及 OpenCV 示例，支持 macOS/Windows/Linux 的 arm64 与 x86-amd64。默认后端基于 Cgo 需 C 编译器与平台库，另有实验性纯 Go 后端（build tag 选择 win/mac/x11/wayland/libei）。README 标注可用于 AI Computer Use 场景，并提及闭源的 RobotGo-Pro 多语言版本。
+RobotGo 是 Golang 桌面自动化库，提供鼠标键盘控制、屏幕读取、位图与 OpenCV 图像处理、窗口句柄管理和全局事件监听，面向 RPA、自动化测试与 Computer Use 场景。支持 Mac/Windows/Linux 及 arm64/x86-amd64，提供默认 Cgo 与纯 Go（build tag 选择 win/mac/x11/wayland/libei 后端）两种构建路径，各平台有特定权限与依赖要求。作者另维护 AI agent 系统项目 Codg，并有闭源的 RobotGo-Pro 商业版本。
 
 ## 筛选速览
 
@@ -16,30 +16,32 @@ Go 语言的原生跨平台 GUI 自动化/RPA 库，提供鼠标键盘控制、�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 鼠标、键盘、屏幕捕获、位图、窗口与进程控制的跨平台 API
-- 默认 Cgo 后端与实验性纯 Go 后端（CGO_ENABLED=0 + build tag）双路径
-- 支持 Wayland（wlroots 协议）与 libei（GNOME/KDE RemoteDesktop portal）
-- ADB 绑定：打包 android adb 与 ios wda 的兼容 API
+- 鼠标、键盘、屏幕读取、窗口管理、全局事件监听能力
+- Cgo 与纯 Go 双构建路径，纯 Go 支持 CGO_ENABLED=0 交叉编译
+- 内置 Bitmap 与 OpenCV 图像处理模块
+- 支持 ADB 绑定，兼容打包 android adb 与 ios wda
 
 ## 适用场景
 
-- 编写跨平台 GUI 自动化与自动化测试脚本
-- 为 AI computer-use 类 agent 提供键鼠与屏幕控制能力
-- 构建 RPA 流程或全局事件监听工具
+- 编写跨平台桌面 RPA 自动化脚本
+- GUI 自动化测试中模拟输入与校验屏幕内容
+- 为 AI agent 提供 Computer Use 类底层操作能力
+- 结合 OpenCV 模块做屏幕图像定位
 
 ## 场景标签
 
-`GUI 自动化` · 领域:效率与自动化
+`GUI 自动化` `图像视频处理` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L15: > Golang Desktop Automation, auto test and AI Computer Use.
 > L16: > Control the mouse, keyboard, read the screen, process, Window Handle, image and bitmap and global event listener.
-> L20: I build Codg now, Easy code and work AI agent system: auto, asynchronous, concurrency, efficiently and High accurac
+> L137: **Tested pure-Go backends** build and cross-compile with `CGO_ENABLED=0`
+> L27: RobotGo-Pro get the JavaScript, Python, Lua and others version, tech supports, new features and newest robotgo vers
 
 ## 星数曲线
 
@@ -55,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `b93ec927e500` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8d23f880c996` · [字段定义](../../DATASET.md)*

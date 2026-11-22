@@ -2,9 +2,9 @@
 
 ⭐ 13,327 · Go · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/NoFxAiOS/nofx) · [官网](https://vergex.trade/explore) · 组织维护 · 中文 README
 
-**自托管 AI 交易系统：人审下单与连续策略执行**
+**自托管的 AI 交易终端：辅助规划并执行加密交易**
 
-运行在用户本机的开源交易系统（AGPL-3.0，Go/Node.js 构建，Docker Compose 部署，浏览器访问）。提供两种模式：Frontier 让用户与 AI 协作制定入场计划（市价/限价/加权阶梯/TWAP），在图表上比较后人工批准下单；Autopilot 配置模型、交易所账户与策略后连续运行并自动下单。通过 Claw402 接入模型，费用以 Base 链 USDC 结算；支持 Binance、Hyperliquid、OKX、Bitget 等交易所。模型不接收钱包私钥或交易所凭证；交易资金与 AI 费用钱包分离。
+NOFX 是一个可自托管的开源交易系统，通过 Docker 或源码在本机运行，前端为浏览器界面。提供两种模式：Frontier 由 AI 参与生成入场方案（市价、限价、加权阶梯、TWAP），用户在图表上比较并逐笔批准后执行；Autopilot 按配置的模型、交易所账户与策略持续自动交易。模型与付费数据访问经 Claw402 通道结算，交易所凭证本地加密存储，模型不接收私钥。支持 Binance、Hyperliquid、OKX、Bitget 等 9 家交易所。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Frontier 模式：AI 生成四种入场计划，用户审查后显式批准执行
-- Autopilot 模式：配置模型与策略后连续运行，Dashboard 展示持仓与决策历史
-- 通过 Claw402 访问多个模型，费用以 Base 链 USDC 结算
-- 交易所凭证本地加密存储，模型提示中不包含私钥与凭证
+- Frontier 交互式下单：AI 生成入场方案，用户批准后执行
+- Autopilot 自动交易：配置模型、账户与策略后持续运行
+- 支持 Binance USDT 永续、Hyperliquid、OKX、Bitget 等 9 家交易所
+- 订单对账机制：不确定提交结果与交易所核对而非重复提交
 
 ## 适用场景
 
-- 在图表上与 AI 协作比较入场方案并人工批准下单
-- 配置策略后让 Autopilot 连续执行交易
-- 在同一界面管理多个交易所账户的持仓与订单
+- 在图表上比较多种入场方案后再手动批准下单
+- 配置策略让 AI 交易员持续自动运行
+- 本地部署并管理多交易所的交易账户
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L20: NOFX is an open-source trading system you run on your own machine. Use **Frontier** to work through a trade with AI
-> L143: Frontier and Autopilot reuse models configured in NOFX. Claw402 provides access to multiple models with usage sett
+> L44: 3. **Review and trade.** Select a plan to focus the chart. Review the current account and order details, then expli
+> L60: For strategies you want to run continuously, configure a trader with a model, exchange account and strategy. Autopi
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `46b8c9fea851` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `badbce7e6a08` · [字段定义](../../DATASET.md)*

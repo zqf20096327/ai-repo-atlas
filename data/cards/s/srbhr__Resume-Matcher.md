@@ -1,16 +1,16 @@
 # srbhr/Resume-Matcher
 
-⭐ 29,366 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/srbhr/Resume-Matcher) · [官网](https://resumematcher.fyi/) · 个人维护
+⭐ 29,366 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/srbhr/Resume-Matcher) · [官网](https://resumematcher.fyi/) · 组织维护 · 中文 README
 
-**本地自托管的 AI 简历定制与 ATS 优化工具**
+**面向求职者的本地自托管 AI 简历定制与简历构建工具**
 
-开源简历工具：上传主简历（PDF/DOCX）与目标职位描述，生成针对该职位的定制简历、求职信与面试准备内容，并导出可被 ATS 解析的 PDF。架构为 FastAPI 后端 + Next.js 前端 + SQLite，本机运行、无需注册账号，数据存于本地数据库。支持接入云端 API 或本地模型（Ollama）；另提供 MCP 服务器，可由 Claude Code、Cursor 等编码代理驱动生成，无需 LLM key。ATS 评分与 ATS 检查为纯代码实现，不调用 LLM。定制提示词禁止添加主简历中不存在的经历。
+自托管的简历定制工具：用户先建一份 master resume，粘贴目标职位描述后由 LLM 生成针对该岗位的定制简历与求职信，并支持面试准备、后台批量定制队列。关键机制包括纯代码实现的 ATS 评分（关键词 40%/技能 20%/职位名 15%/章节完整性 15%/日期一致性 10%）与 ATS 解析检查（经 pdfminer 提取文本）、防止编造经历的定制提示词约束、多种可解析 PDF 模板。技术栈为 FastAPI + Next.js + SQLite，支持多语言 UI 与内容生成。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -26,27 +26,27 @@
 
 ## 能力要点
 
-- 主简历+职位描述生成定制简历、求职信与面试准备
-- 支持云端 API 与本地模型（Ollama），数据留在本机
-- ATS 评分与解析检查为纯代码（pdfminer），不调用 LLM
-- 10 套模板，其中 7 套提供可编辑 pdfLaTeX 工程；多语言界面与内容生成
+- 支持 100+ LLM：API key（OpenAI/Anthropic/Gemini/DeepSeek/OpenRouter/Groq）或本地 Ollama
+- 纯代码 ATS 评分与解析检查，不做 LLM 调用
+- MCP 服务器让 Claude Code/Cursor/Codex 驱动，无需 API key
+- 七种模板提供可编辑 pdfLaTeX 项目，支持 A4/US Letter 文本型 PDF 导出
 
 ## 适用场景
 
-- 针对每个职位描述定制主简历并导出 PDF
-- 用 ATS 检查核验简历 PDF 的可解析性
-- 本地模型运行下让简历数据不出本机
-- 批量粘贴多个职位描述排队后台定制
+- 针对不同职位描述定制同一份 master resume
+- 本地运行 Ollama 让简历数据不出本机
+- 批量粘贴多个 JD 在后台依次生成定制简历
+- 用 ATS 检查核验 PDF 能否被招聘系统正确解析
 
 ## 场景标签
 
-`AI 写作` `文档解析` · 领域:内容生成
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
+> L9: Free, open-source resume builder that tailors your resume (CV) to each job description. A self-hosted AI harness for
 > L47: - **It runs on your machine.** A FastAPI backend, a Next.js frontend and a SQLite file. Clone the repo or start one
-> L48: - **You choose the model.** Bring an API key for OpenAI, Anthropic, Gemini, DeepSeek, OpenRouter or Groq, or run a 
-> L49: - **Claude Code can drive it.** The MCP server lets Claude Code, Cursor or Codex write the tailored resume while Re
+> L151: ### ATS Score, ATS Check & Keyword Highlighting
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `73ad0e5f8fc5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1cbc73713f51` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,884 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/inkeep/open-knowledge) · [官网](https://openknowledge.ai) · 组织维护
 
-**面向知识库与 LLM wiki 的本地 markdown IDE，集成多家 AI 编辑器**
+**给知识库/wiki 使用者的 AI 原生 Markdown 编辑器**
 
-私有、本地运行的 markdown 编辑器，定位'Notion 遇上 VS Code'：提供 WYSIWYG 编辑、桌面应用（macOS/Windows/Linux）与 Web UI，含文件导航、搜索、标签页与图谱式 wiki 链接视图。AI 部分为与 Claude、Codex、OpenCode、Pi 等 harness 的并排协同编辑，可通过 MCP/CLI 接入任意 agent，并为检测到的 agent 编辑器安装 MCP 与技能，辅助检索和写作；同步与团队共享基于 git/GitHub。由 Inkeep 公司维护，GPLv3 许可。
+OpenKnowledge 是一款所见即所得的 Markdown/MDX 编辑器，提供 macOS/Windows/Linux 桌面应用与基于 Node.js CLI 的本地 Web UI 两种形态，内含文件导航、搜索、标签页、wiki 链接图谱等编辑器功能。可打开本地任意 markdown 文件夹（含 Obsidian vault、代码库 docs）。AI 部分：与 Claude、Codex、OpenCode 等 agent harness 并排集成编辑，开箱提供 MCP、skills 与 agentic search，并引导用户为检测到的 harness 安装 MCP 与技能；支持基于 git/GitHub 的团队分享与同步。采用 GPLv3+ 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- WYSIWYG markdown 编辑，桌面应用与 Web UI 双形态
-- 与 Claude、Codex、OpenCode、Pi 等 harness 并排 AI 协同编辑
-- 开箱即用 MCP、skills 与 agentic search（LLM wiki/第二大脑/知识图谱）
-- 基于 git/GitHub 的团队共享与自动同步
+- 所见即所得 Markdown/MDX 编辑，带 wiki 链接图谱与嵌入 HTML 组件
+- 与 Claude、Codex、OpenCode 等 harness 并排集成 AI 编辑，经 MCP/CLI 接入任意 agent
+- 开箱提供 MCP、skills 与 agentic search，面向 LLM wiki 与第二大脑
+- 桌面应用（macOS/Windows/Linux）+ CLI 启动的本地 Web UI，git/GitHub 同步分享
 
 ## 适用场景
 
-- 把 Obsidian vault、代码库或既有文档当知识库编辑管理
-- 搭建 LLM wiki 或第二大脑，让 agent 检索和撰写文档
-- 团队通过 git/GitHub 同步共享工程规格与笔记
+- 搭建团队或个人的 LLM wiki 与知识库
+- 让 Claude Code 等 agent 检索并撰写项目文档
+- 替代传统编辑器处理 Obsidian vault 或代码库 docs
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L6:  OpenKnowledge is a beautiful markdown editor with integrations with Claude, Codex, and other harnesses. For knowled
 > L30: - Integrated **side-by-side AI-editing** with **Claude, Codex, OpenCode, Pi and others**. Can be used with any harn
-> L31: - Out-of-the-box **MCP**, **skills**, and **agentic search** for LLM Wikis, second brains, and knowledge graphs.
+> L58: You can use it simply as a rich, WYSIWYG markdown editor to start. For existing files or plain notes/docs.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `b75ea50f0c10` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2a8a63f43411` · [字段定义](../../DATASET.md)*

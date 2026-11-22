@@ -1,10 +1,10 @@
 # rlaope/oh-my-hermes
 
-⭐ 5,850 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rlaope/oh-my-hermes) · [官网](https://omher.app/) · 个人维护
+⭐ 5,850 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rlaope/oh-my-hermes) · [官网](https://omher.app/) · 个人维护 · 中文 README
 
-**Hermes Agent 的一体化插件：编码智能、长期记忆与工作流层**
+**Hermes Agent 的操作层：多模型分道并行协作干活**
 
-oh-my-hermes 是构建在 Hermes Agent 之上的单插件操作层：对请求做复杂度评分并路由到 12 类可编辑的模型链（每类为 model+effort 链，可按提供商拒答自动前进）；按 13 个模型家族做针对性提示校准；ulw-work 将计划拆分为互不共享文件的并行单元并回传带四种状态的类型化结果；内置 108 个 omh-* 专家技能随请求加载；提供基于评审卡的长期记忆系统（带来源与复审日期）。另含 OMH TUI 终端与 omh CLI，通过安装脚本、Homebrew、Bun、npm 或 Hermes skill tap 安装。
+oh-my-hermes 是构建在 Hermes Agent 之上的独立操作层，不修补或替换 Hermes 本体。核心机制：将目标拆成可并行运行的小节点图（/dag-ulw），每条 lane 按工作类别（ultrabrain、deep、visual-engineering 等）选择模型链与推理强度，provider 拒绝模型时链条自动切换下一个；路由器按需加载一百多个 omh-* 专家技能；可选 LSP 工具、带写入理由的长期记忆、以测试/评审/CI 通过为验证标准的 done 判定。提供 CLI 与 omher 桌面应用（macOS/Linux/Windows）。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ oh-my-hermes 是构建在 Hermes Agent 之上的单插件操作层：对请求�
 
 ## 能力要点
 
-- 请求复杂度评分与 12 类可编辑模型链路由
-- 13 个模型家族各有一段实测校准的提示块
-- ulw-work 并行单元拆分，回传四状态类型化结果（含证据门）
-- 108 个 omh-* 专家技能按需注入运行；评审制长期记忆系统
+- 目标拆解为并行节点图，每节点按类别分配模型与推理强度
+- 模型链条在 provider 拒绝时自动切换下一个，不静默降级
+- 100+ omh-* 专家技能由路由器按需加载
+- 独立节点验证目标，失败节点先修复再报告
 
 ## 适用场景
 
-- 让 Hermes Agent 的编码任务按成本与复杂度自动选模型
-- 把计划拆成并行单元执行并核验证据后才算完成
-- 为 agent 会话维护带来源与复审机制的长期记忆
+- 让多个模型分道并行完成大型编码任务
+- 按工作类别自定义每个任务用什么模型和推理强度
+- 在一个桌面窗口管理 Hermes bot 与多个 coding agent 会话
 
 ## 场景标签
 
-`Agent 记忆` `编码 Agent` `Agent 框架` · 领域:Agent 开发
+`编码 Agent` `多智能体` `Agent 框架` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L23:  oh-my-hermes (OMH) turns a normal
-> L29:  OMH is the operating layer above Hermes-native skills: it frames the
-> L179: OMH is three things for Hermes Agent, delivered as one plugin: the coding
+> L16: **oh-my-hermes** is an operating layer for Hermes Agent.
+> L17: You keep talking to Hermes. OMH puts a coworker with its own skill and model on each lane, in parallel.
+> L270: Hermes Agent already runs the loop. OMH decides what goes into it: which
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `28a549905243` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0a4a0e5a68f8` · [字段定义](../../DATASET.md)*

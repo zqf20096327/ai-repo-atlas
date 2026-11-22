@@ -2,9 +2,9 @@
 
 ⭐ 13,359 · 推送 2026-11-16 · [GitHub](https://github.com/dair-ai/AI-Papers-of-the-Week) · 组织维护
 
-**DAIR.AI 维护的每周顶会 AI 论文周报清单**
+**每周精选 AI 论文的清单仓库，附邮件订阅**
 
-由 DAIR.AI 维护的仓库，按周列出年度 Top AI Papers of the Week 系列，覆盖 2023 年 1 月至 2026 年 10 月的每周条目，每条对应一份周度论文精选。仓库同时提供邮件订阅入口与 Twitter、Discord 社区链接。内容为纯清单，不含代码、安装或运行方式，面向跟踪 AI 论文动态的读者。
+DAIR.AI 维护的论文聚合仓库，按周归档 2023 年至今的 AI 顶会/研究论文清单，每周一期以链接列表形式发布。仓库本身不包含工具或代码，主要功能是浏览历史各期内容，并引导读者通过 newsletter 邮件订阅、Twitter 与 Discord 获取每周更新。读者可直接在 GitHub 查看往期归档，或订阅后每周在邮箱收到精选论文列表。
 
 ## 筛选速览
 
@@ -26,15 +26,15 @@
 
 ## 能力要点
 
-- 按周组织的 AI 论文精选条目，覆盖 2023-2026 年
-- 提供每周论文列表的邮件订阅渠道
-- 附带 Twitter 与 Discord 社区入口
+- 按周归档 2023 年至今的 AI 论文精选清单
+- 支持邮件 newsletter 订阅每周推送
+- 提供 Twitter 与 Discord 社区渠道
 
 ## 适用场景
 
-- 每周跟踪 AI 领域论文动态
-- 回溯查找某一周的论文精选列表
-- 通过邮件订阅获取每周论文推送
+- 每周跟踪 AI/ML 领域新发表的论文
+- 检索某个时间段发布过的相关论文
+- 通过邮件订阅获取每周论文摘要
 
 ## 场景标签
 
@@ -42,8 +42,9 @@
 
 ## 证据(README 行号)
 
+> L3: Subscribe to our newsletter to get a weekly list of top AI papers in your inbox.
 > L5: At DAIR.AI we ❤️ reading AI papers so we've created this repo to highlight the top AI papers of every week.
-> L10: - Top AI Papers of the Week (October 12 - October 18)
+> L7: Here is the weekly series:
 
 ## 星数曲线
 
@@ -59,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `22166d2af36e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dd0f086f6897` · [字段定义](../../DATASET.md)*

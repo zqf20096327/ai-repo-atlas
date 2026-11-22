@@ -2,9 +2,9 @@
 
 ⭐ 10,354 · C++ · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/RunanywhereAI/runanywhere-sdks) · [官网](https://www.runanywhere.ai) · 组织维护
 
-**跨平台本地 AI SDK 套件：一套 C++ 核心跑 LLM/语音/视觉/RAG**
+**面向开发者的端侧本地 AI 推理 SDK 套件**
 
-RunAnywhere 提供覆盖 Swift/Kotlin/Flutter/React Native/Web/Electron/Python/CLI 的八个 SDK，均基于单一 C++ 核心（runanywhere-commons，纯 C ABI）。能力注册表按设备将调用路由到 QHexRT（骁龙 Hexagon NPU）、MLX（Apple 芯片）、llama.cpp、sherpa+ONNX 或 Core ML。功能包括 LLM 对话、结构化输出、工具调用、VLM、STT/TTS/语音管线、嵌入、本地 RAG 与扩散图像生成，另有 wally CLI 提供 OpenAI 兼容服务。各 SDK 成熟度不一（Stable 到 Alpha/Preview），Connect 局域网共享无 TLS/配对。
+以一个 C++ 核心（runanywhere-commons）承载八个平台 SDK（Swift/Kotlin/Flutter/React Native/Web/Electron/Python/wally），提供 LLM 对话、VLM、语音识别/合成、语音代理流水线、嵌入、RAG、结构化输出、工具调用与图像生成等能力，全部在设备本地运行。核心机制是能力注册表：各推理引擎声明可运行项，推理时按设备自动选择最高优先级引擎（QHexRT/MLX/llama.cpp/sherpa+ONNX/Core ML）。各 SDK 处于 Stable 到 Alpha 不同阶段，部分功能标注 Stub/Gated/Partial，需调用 capabilities() 探测实际可用性。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ RunAnywhere 提供覆盖 Swift/Kotlin/Flutter/React Native/Web/Electron/Python/C
 
 ## 能力要点
 
-- 八个 SDK 共享一套语义 API 与单一 C++ 核心
-- 能力注册表按设备路由到 NPU/MLX/llama.cpp/ONNX/Core ML 引擎
-- 覆盖 LLM、VLM、STT/TTS、嵌入、RAG、扩散图像生成等模态
-- wally CLI 可启动 OpenAI 兼容本地服务（:8080）
+- 一个语义 API 覆盖八个平台 SDK，统一 C++ 核心与 C ABI
+- 能力注册表按设备自动路由到 QHexRT、MLX、llama.cpp、sherpa+ONNX、Core ML 等引擎
+- 支持 LoRA 适配器、结构化输出与工具调用
+- Connect 功能支持 macOS 主机向 iOS/iPadOS/Android 客户端在局域网共享已加载模型
 
 ## 适用场景
 
-- 在移动 App 中集成离线 LLM 对话与语音管线
-- 构建本地 RAG 问答与嵌入检索应用
-- 用同一套代码在 iOS/Android/桌面/浏览器部署端侧 AI
+- 在手机 App 中离线运行 LLM 对话与语音代理
+- 在浏览器中通过 WASM+WebGPU 运行本地推理
+- 在 Snapdragon Hexagon NPU 上部署端侧模型推理
+- 搭建本地 OpenAI 兼容 API 服务（wally serve）
 
 ## 场景标签
 
-`推理引擎` `RAG` `多模态` · 领域:知识与检索
+`推理引擎` `RAG` `语音识别` `图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L14:  RunAnywhere architecture: eight SDKs over one C++ core, a capability registry that routes to QHexRT, MLX, llama.cp
 > L16:  Eight SDKs, one C++ core. A capability registry routes every call to the best engine on the device,
 > L303: Every SDK is a thin binding over `runanywhere-commons`, a single C++ core behind a pure C ABI. Engines plug into a
+> L251: All SDKs ship on one version line, currently **0.20.37**, from a single C++ core. Pin the same version across the 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `e8961e49ea6b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8242dfab9ca9` · [字段定义](../../DATASET.md)*

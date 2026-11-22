@@ -2,9 +2,9 @@
 
 ⭐ 9,288 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ai-collection/ai-collection) · [官网](https://www.thataicollection.com/) · 个人维护 · 中文 README
 
-**生成式 AI 应用策展清单：按类别收录各类 AI 应用条目**
+**生成式 AI 应用精选清单：按 70+ 类目收录产品条目**
 
-以 awesome list 形式收录生成式 AI 应用的目录：条目按 AI Agent、AI 艺术插画、AI 检测、写作助手、文生图/文生视频等数十个类别组织，每个条目含名称、简介与官网链接，并设 Top Picks 与最新收录区块。部分条目为闭源商业产品，仅作信息罗列。提供多语言 README 翻译（西/法/俄/印地/简中），配套 Contributing Guide 与网站。
+一个以 awesome-list 形式维护的生成式 AI 应用聚合目录，按 AI Agents、Art & Illustration、Detector & Humanizer、Chat Bot、Coding Assistant 等 70 余个类目组织条目，每条含名称、简介、访问与定价链接；另设 Top Picks 推荐区和 Latest Additions 最新收录区，提供多语言翻译 README，收录通过联系维护者提交，条目以外部商业/在线产品链接为主，仓库本身不提供可安装的软件。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 数十个类别组织的生成式 AI 应用条目目录
-- 每条目提供简介与官网跳转链接
-- 多语言 README 翻译（含简体中文）
-- 设 Top Picks 与最新收录区块
+- 按 70+ 类目组织的生成式 AI 应用条目
+- Top Picks 与 Latest Additions 动态更新机制
+- 提供西语/法语/俄语/印地语/简体中文等多语言版本
+- 条目统一含 Visit 与 Pricing 链接
 
 ## 适用场景
 
-- 按类别查找生成式 AI 应用工具
-- 了解生成式 AI 应用的类别覆盖情况
-- 提交自己的 AI 应用进入收录
+- 按用途类目浏览和发现生成式 AI 在线产品
+- 为自己的 AI 应用寻找被收录曝光的渠道
+- 跟踪生成式 AI 应用生态的最新收录动态
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L5:  THE GENERATIVE AI LANDSCAPE
-> L7:  A Collection of Awesome Generative AI Applications
+> L58: ### A hand-picked list of awesome AI applications featured on AI Collection
 > L62: ## Index
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `5ae371507a54` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `08e9351a7e08` · [字段定义](../../DATASET.md)*

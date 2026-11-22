@@ -2,9 +2,9 @@
 
 ⭐ 6,504 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/sindresorhus/awesome-chatgpt) · 个人维护
 
-**ChatGPT 相关工具与项目策展清单**
+**面向 ChatGPT 用户的工具与资源聚合清单**
 
-由 sindresorhus 维护的 awesome list，围绕 OpenAI 的 ChatGPT 聊天机器人收录第三方生态资源：桌面与移动应用、托管/自托管 Web 应用、浏览器扩展、CLI 工具、各平台机器人、编辑器与办公软件集成、多语言 API 客户端与库。条目附一句话简介与收费/开源标注。仓库为纯清单，不提供可运行代码；README 顶部标注条目提交因低质量投稿过多而暂停。
+Awesome 系列清单，收录围绕 ChatGPT 的第三方资源：macOS/iOS/Windows 客户端、托管与自托管 Web 应用、浏览器扩展与用户脚本、CLI 工具、多平台聊天机器人、IDE/办公软件集成、API 客户端库及文章教程。条目按类别组织，部分商业条目以 ($) 标注。README 当前声明因低质量提交过多暂停收录提交，清单由 sindresorhus 维护。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 覆盖 Apps/Web/扩展/CLI/Bots/集成/包等约 10 大类生态条目
-- 标注条目收费($)与开源状态、平台（Electron/macOS/iOS 等）
-- 收录 Swift/Node.js/Go/Delphi/PHP/Ruby 等多语言 API 客户端
+- 分类收录桌面/移动端 ChatGPT 客户端约 30 个
+- 含浏览器扩展、用户脚本与书签脚本小节
+- CLI 工具覆盖提交信息生成、文档生成等用途
+- 列出多语言 API 客户端（Swift/Node.js/Go/PHP 等）
 
 ## 适用场景
 
-- 寻找 ChatGPT 的桌面客户端、浏览器扩展或 CLI 工具
-- 查找各编程语言的 ChatGPT API 客户端库
-- 了解 ChatGPT 周边应用与集成生态的条目分布
+- 寻找可自托管的 ChatGPT 替代 Web UI
+- 为浏览器或 IDE 找 ChatGPT 集成扩展
+- 查找自动生成 Git 提交信息的命令行工具
 
 ## 场景标签
 
@@ -37,7 +38,8 @@
 ## 证据(README 行号)
 
 > L1: Awesome ChatGPT
-> L3:  ChatGPT is an artificial intelligence (AI) chatbot developed by OpenAI
+> L9: ## Contents
+> L245: ## Articles
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `b1d2a6528d22` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6638be0b5047` · [字段定义](../../DATASET.md)*

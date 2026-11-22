@@ -2,9 +2,9 @@
 
 ⭐ 6,287 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mostlygeek/llama-swap) · [官网](https://llama-swap.ai) · 个人维护
 
-**本地多模型热切换代理：统一 OpenAI/Anthropic API 按需换模型**
+**本地 AI 服务器间的模型按需热切换代理**
 
-用 Go 编写的单一二进制代理，置于客户端与本地推理服务器（llama.cpp 及其分支、vllm、ComfyUI、stable-diffusion.cpp 等）之间：从请求中提取 model 字段，自动启动/替换对应的上游服务器，实现单配置多模型按需热切换；支持 OpenAI 与 Anthropic 多类端点、API Key 限制、ttl 自动卸载、matrix 并发模型 DSL、Prometheus 指标与 Web UI。面向本地 AI 工作流的开发者，提供 Docker、Homebrew、WinGet 及多平台预编译二进制。
+用 Go 编写的本地推理代理：用户在配置文件中声明各模型对应的启动命令，llama-swap 收到请求时按需启动对应服务器并自动卸载其他模型，实现单机多模型切换。代理 OpenAI、Anthropic 及 llama.cpp/stable-diffusion.cpp/audio.cpp/ComfyUI 等服务器的 API 端点，附带 Web UI（playground、token 指标、日志流）、API key、TTL 自动卸载、profiles 路由与 Prometheus 指标。单二进制零外部依赖，面向在本地机器运行多个生成式模型的用户。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 按请求中的 model 值自动启动并替换上游推理服务器
-- 支持 llama.cpp 及分支、vllm、ComfyUI、stable-diffusion.cpp 等本地服务器
-- OpenAI 与 Anthropic 兼容端点代理（chat/completions、messages、embeddings、图像、音频等）
-- ttl 自动卸载、matrix 并发模型 DSL、Prometheus 指标、Web UI 与日志流
+- 按需启动/热切换多个本地 AI 服务器，支持 ttl 自动卸载与并发运行（matrix DSL）
+- 代理 OpenAI、Anthropic、llama-server、SDAPI、audio.cpp 等多类 API 端点
+- 单二进制零依赖，提供 Web UI、API key、日志流与 Prometheus 指标
+- 提供 Docker/Podman、Homebrew、MacPorts、WinGet、二进制与源码多种安装方式
 
 ## 适用场景
 
-- 单机显存有限时在多个本地模型间按需切换
-- 用统一 OpenAI/Anthropic 兼容地址访问不同的本地推理后端
-- 通过 Web UI 与 playground 测试、加载卸载本地模型
-- 本地文档助手通过 MCP 端点查询 llama-swap 配置
+- 单张显卡上按需切换使用多个本地大模型
+- 用统一的 OpenAI/Anthropic API 接口访问多种本地推理服务器
+- 通过 Web UI 查看模型运行状态、token 指标与实时日志
 
 ## 场景标签
 
-`推理引擎` `模型网关` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L8: Run multiple generative AI models on your machine and hot-swap between them on demand. llama-swap works with any Ope
-> L315: When a request is made to an OpenAI compatible endpoint, llama-swap will extract the `model` value and load the ap
+> L19: - ✅ On-demand model switching for many local AI servers (llama.cpp + forks, vllm, stable-diffusion.cpp, audio.cpp, 
+> L50: - ✅ llama-swap API
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `32e8188aa7f7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4c2fc7e093fb` · [字段定义](../../DATASET.md)*

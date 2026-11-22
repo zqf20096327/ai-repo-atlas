@@ -2,9 +2,9 @@
 
 ⭐ 16,588 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/alibaba/MNN) · 组织维护 · 中文 README
 
-**面向开发者的端侧深度学习推理与训练框架，支持本地部署 LLM 与扩散模型**
+**面向移动/嵌入式设备的轻量深度学习推理与训练引擎**
 
-MNN 是一个轻量级深度学习框架，支持深度学习模型的推理与训练，已被集成进阿里巴巴 30 多个应用（淘宝、天猫、优酷、钉钉等）及 IoT 嵌入式设备。基于该引擎提供 MNN-LLM 端侧大模型运行时（覆盖手机/PC/IoT）与 MNN-Diffusion 稳定扩散运行时；附带模型转换、压缩、训练、CV 等工具链，支持 Tensorflow/Caffe/ONNX/Torchscript 模型转换与 FP16/Int8 量化，通过 Metal/OpenCL/Vulkan/CUDA 支持 GPU 推理。
+MNN 是一个轻量级深度学习框架，支持模型推理与训练，README 称已集成于阿里 30 余款 App。基于该引擎提供多个运行时方案：MNN-LLM 用于在手机/PC/IoT 本地部署大语言模型，MNN-Diffusion 用于本地部署稳定扩散模型。配套工具包括模型转换器（Tensorflow/Caffe/ONNX/Torchscripts）、模型压缩、通用计算、轻量图像处理与训练模块。支持 CPU 多架构与 GPU 后端（Metal/OpenCL/Vulkan/CUDA）及 NPU 路径，提供 Python API 与 MNN Workbench。
 
 ## 筛选速览
 
@@ -27,26 +27,27 @@ MNN 是一个轻量级深度学习框架，支持深度学习模型的推理与�
 
 ## 能力要点
 
-- MNN-LLM 支持在手机/PC/IoT 上本地部署大语言模型（含 Qwen、LLAMA 等）
-- 支持 Tensorflow/Caffe/ONNX/Torchscript 模型转换（合计数百个 OP）与 FP16/Int8 量化
-- 通过 Metal/OpenCL/Vulkan/CUDA 支持 GPU 推理，另含 Hexagon DSP 后端
-- 提供 MNN-LLM Android/iOS 多模态应用及 TaoAvatar、Sana 等衍生应用
+- 支持 Tensorflow/Caffe/ONNX/Torchscripts 模型转换与 CNN/RNN/GAN/Transformer 网络
+- MNN-LLM 本地运行时支持 Qianwen、Baichuan、LLAMA 等大模型，覆盖手机/PC/IoT
+- 支持 FP16/INT8/INT4 量化与 ARM/x64 汇编级优化
+- GPU 推理支持 Metal/OpenCL/Vulkan/CUDA，NPU 支持 CoreML/Hexagon/QNN 等
 
 ## 适用场景
 
-- 在 Android/iOS 设备上离线运行大语言模型与多模态模型
-- 将 Tensorflow/ONNX 等框架训练的模型转换部署到移动端或嵌入式设备
-- 在端侧本地运行稳定扩散图像生成与 3D 数字人对话
+- 在手机或 IoT 设备上本地运行大语言模型
+- 将训练好的深度学习模型转换并部署到移动端
+- 在无依赖环境下进行端侧模型推理与训练
+- 对模型做量化压缩以减小包体积
 
 ## 场景标签
 
-`推理引擎` `模型量化` `图像生成` · 领域:内容生成
+`图像生成` `模型量化` `图像视频处理` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L60: MNN is a highly efficient and lightweight deep learning framework. It supports inference and training of deep learn
-> L62: MNN-LLM is a large language model runtime solution developed based on the MNN engine. The mission of this project i
-> L90: ## Key Features
+> L65: MNN is a highly efficient and lightweight deep learning framework. It supports inference and training of deep learn
+> L67: MNN-LLM is a large language model runtime solution developed based on the MNN engine. The mission of this project i
+> L163: - MNN-Converter: Convert other models to MNN models for inference, such as Tensorflow(lite), Caffe, ONNX, Torchscr
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8b3f12779ac0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `85b5e568f5af` · [字段定义](../../DATASET.md)*

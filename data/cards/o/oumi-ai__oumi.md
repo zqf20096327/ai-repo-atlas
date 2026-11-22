@@ -2,9 +2,9 @@
 
 ⭐ 9,442 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/oumi-ai/oumi) · [官网](https://oumi.ai) · 组织维护
 
-**开源基础模型全流程平台：微调、评测与部署 LLM/VLM**
+**开源 LLM 全生命周期平台：微调、评估、部署一站完成**
 
-Oumi 是覆盖基础模型全生命周期的开源 Python 平台：数据合成与整理、SFT/LoRA/QLoRA/DPO/GRPO 训练（10M 至 400B+ 参数）、LLM-as-a-Judge 与基准评测、以及基于 vLLM/SGLang 的推理服务或 oumi deploy 端点部署。提供 CLI、现成模型配方（Qwen/Gemma/Llama/DeepSeek/gpt-oss 等）、Docker 镜像与云端任务启动（AWS/Azure/GCP/Lambda 等）。README 声明处于 beta 阶段，核心功能稳定但部分高级功能可能变化。
+Oumi 是一个开源平台，覆盖基础模型从数据准备、训练微调（SFT/LoRA/QLoRA/DPO/GRPO）到评估与部署的完整流程；支持工具调用的 agentic 模型训练、可执行工具环境与基于 verl 的 GRPO 强化学习，以及数据合成与 LLM-as-a-Judge。可从笔记本运行到云端集群（AWS/Azure/GCP/Lambda/Slurm），通过 oumi CLI、Python API 与 oumi-mcp MCP 服务器使用。README 标注当前为 beta，处于活跃开发中。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Oumi 是覆盖基础模型全生命周期的开源 Python 平台：数据合成�
 
 ## 能力要点
 
-- 支持 SFT/LoRA/QLoRA/DPO/GRPO 等训练技术，含工具调用与可执行工具环境
-- 数据合成与 LLM-as-a-Judge 多准则评测
-- vLLM/SGLang 推理引擎与 oumi deploy 专用端点部署
-- oumi launch 在 AWS/Azure/GCP/Lambda/Slurm 等平台远程运行任务
+- 支持 SFT/LoRA/QLoRA/DPO/GRPO 等微调方法，模型规模 10M 至 400B+ 参数
+- agentic 模型训练：tool-calling SFT、可执行工具环境与 verl GRPO 强化学习
+- 支持文本与多模态模型（Llama、Gemma、Qwen、DeepSeek 等）
+- 提供 oumi deploy 端点部署与 oumi-mcp MCP 服务器
 
 ## 适用场景
 
-- 对开源 LLM/VLM 做 LoRA 微调并评测
-- 用 GRPO 与工具环境训练 agentic 模型
-- 用 LLM judge 合成和整理训练数据
-- 把微调后的模型部署到推理端点
+- 为自有任务微调开源 LLM/VLM 并评估效果
+- 训练带工具调用能力的 agentic 模型
+- 在云平台批量启动和监控远程训练任务
+- 用 LLM-as-a-Judge 过滤和合成训练数据
 
 ## 场景标签
 
-`微调` `强化学习` `模型评测` `推理引擎` · 领域:评测与运维
+`微调` `模型评测` `强化学习` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L62: Oumi is a fully open-source platform that streamlines the entire lifecycle of foundation models - from data prepara
 > L66: - 🚀 Train and fine-tune models from 10M to 400B+ parameters using state-of-the-art techniques (SFT, LoRA, QLoRA, DP
-> L70: - ⚡️ Serve models efficiently with popular inference engines (vLLM, SGLang), or deploy to dedicated endpoints with 
+> L153: **Note:** Oumi is in <ins>beta</ins> and under active development. The core features are stable, but some advanced
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `83b3ab51d472` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `66eae6627228` · [字段定义](../../DATASET.md)*

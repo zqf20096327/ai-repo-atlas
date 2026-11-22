@@ -2,9 +2,9 @@
 
 ⭐ 6,146 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/clusterzx/paperless-ai) · [官网](https://clusterzx.github.io/paperless-ai/) · 个人维护
 
-**为 Paperless-ngx 自动分类打标签并提供 RAG 问答的扩展**
+**为 Paperless-ngx 自动打标签归档文档并支持全库问答的 AI 扩展**
 
-Paperless-ngx 的 Web 应用扩展：自动检测新文档，调用 OpenAI 兼容 API 或 Ollama 等后端分析内容，指派标题、标签、文档类型与往来单位；支持基于 RAG 的自然语言文档问答与语义检索，规则可限制处理范围，并提供 /manual 手动打标界面。以 Docker 部署为主（首次配置后需重启以构建 RAG 索引），本地开发走 npm。注意：README 声明仓库当前不再维护，作者在重写代码库，且随 Paperless-ngx 官方 AI 集成推出，后续维护不确定。
+作为 Paperless-ngx 的 AI 扩展运行：自动为新文档填写标题、标签、通讯人、文档类型、日期与自定义字段，支持定时或 webhook 触发、触发/排除标签与按文档类型的 prompt 规则；内置本地 PaddleOCR 读取低质量扫描件；提供自然语言全库问答（混合关键词与向量检索、答案带引用来源）与日历事项提取。Docker 部署，Web 界面配置，支持 2FA 与 OIDC 单点登录；需自备 Paperless-ngx 实例与 AI 提供商凭据。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Paperless-ngx 的 Web 应用扩展：自动检测新文档，调用 OpenAI 兼�
 
 ## 能力要点
 
-- 自动检测新文档并指派标题/标签/类型/往来单位
-- 内置 Ollama（Mistral、Llama、Phi-3、Gemma-2）、OpenAI、DeepSeek、Gemini 等多种后端
-- 基于 RAG 的自然语言文档问答与语义检索
-- Docker 部署含健康监控、持久卷与优雅停机
+- 自动填写文档标题、标签、通讯人、类型、日期与自定义字段
+- 本地 PaddleOCR（CPU/NVIDIA GPU）读取低质量扫描件并支持回滚
+- 全库自然语言问答：混合检索、流式回答、引用来源、无 AI 成本的搜索模式
+- 支持 OpenID Connect 单点登录、两步认证与 webhook API key
 
 ## 适用场景
 
-- 让 Paperless-ngx 里的新文档自动分类打标签
-- 用自己的文档库做语义问答（如查电费金额、租约日期）
-- 对敏感文档通过手动界面逐份审核打标
+- 让个人/家庭文档库自动完成标题与标签归类
+- 用自然语言检索历史账单、合同与保险文件
+- 对低质量扫描件先做本地 OCR 再交给 AI 分析
 
 ## 场景标签
 
-`文档问答` `语义搜索` `工作流自动化` · 领域:效率与自动化
+`OCR` `文档解析` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L13: **Paperless-AI** is an AI-powered extension for Paperless-ngx that brings automatic document classification, smart 
-> L22: Powered by **Retrieval-Augmented Generation (RAG)**, you can now search semantically across your full archive and g
+> L8: **Paperless-AI** is an AI extension for Paperless-ngx. It analyzes your documents and fills in title, tags, correspo
+> L10: Works with **Paperless-ngx 2.x and 3.x**, OpenAI, Anthropic (Claude), **Ollama (fully local)**, Azure OpenAI and ev
+> L30: **Ask your archive** – questions in plain language over all documents: hybrid keyword and vector search, streamed a
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ca5d9c20aab6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `564c6a0e629f` · [字段定义](../../DATASET.md)*

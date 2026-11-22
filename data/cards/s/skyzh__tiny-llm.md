@@ -2,9 +2,9 @@
 
 ⭐ 5,802 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/skyzh/tiny-llm) · [官网](https://tiny-llm.dev) · 个人维护
 
-**面向系统工程师的 LLM 推理系统动手课程（Apple Silicon 上构建 mini vLLM）**
+**面向系统工程师的 LLM 推理系统实践课程（Apple Silicon）**
 
-面向系统工程师的端到端 LLM 推理教学项目：四周路径从 MLX 数组操作手写 Qwen3 模型（attention/RoPE/GQA/RMSNorm），到 KV-cache、SIMD matmul、tiled prefill，再到连续批处理与 paged KV 的 mini vLLM，最后构建有界经验证的编码 Agent。基于 MLX 数组与扩展运行时，不使用高层神经网络层，用 Python/C++/Metal 实现算子，MLX 作为正确性基准。选择 Apple Silicon 是为在单一共享内存机器上完整检视路径，无需 CUDA GPU 环境。配套教材发布于 skyzh.github.io/tiny-llm，代码用 pdm 安装并运行测试。
+tiny-llm 是一门面向系统工程师的实践课程，目标是端到端理解 LLM 推理。课程基于 MLX 数组与 MLX 扩展运行时，不使用高层神经网络层：学员在 Python、C++ 或 Metal 中实现算子，MLX 作为正确性参照与性能基线。路径为四周：从矩阵运算搭建 Qwen3 模型、KV-cache 与量化/SIMD 优化、实现 continuous batching 与 paged KV 的 mini vLLM，到构建带校验边界的 coding agent。课程环境需 Apple Silicon（共享内存与 Metal 内核）。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 四周路径：手写 Qwen3 → 加速单请求 → mini vLLM（连续批处理/paged KV）→ 编码 Agent
-- 基于 MLX，不调用高层算子，学生用 Python/C++/Metal 实现各算子
-- Apple Silicon 共享内存 + Metal 内核，无需 CUDA GPU 即可本地运行
-- 提供 tiny_llm 练习包与 tiny_llm_ref 参考解答，pdm 管理环境并有 CI 测试
+- 四部分路径：Qwen3 模型搭建 → 单请求优化 → mini vLLM → coding agent
+- 在 Python/C++/Metal 中手动实现算子，MLX 作正确性参照与性能基线
+- 将公式与内存流量、kernel 占用、KV-cache、批处理、调度关联
+- 配套参考实现 tiny_llm_ref 与测试/基准附录
 
 ## 适用场景
 
-- 系统工程师想理解 LLM 推理从加载模型到生成文本的完整路径
-- 在 Mac 本地实践 KV-cache、批处理、paged KV 等服务机制
-- 按周进度学习并对照参考解答与测试验证实现
+- 系统工程师想端到端理解 LLM 推理链路
+- 在本地 Apple Silicon 上学习 kernel 与服务机制
+- 动手实现 continuous batching 与 paged KV-cache
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L5: tiny-llm is a hands-on course for systems engineers who want to understand LLM
-> L35: - **Week 3: Build a Mini vLLM.** Introduce continuous
+> L17: The course is built on MLX arrays and the MLX extension runtime, without using
+> L25: The course follows a four-week learning path:
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `79ff377bb661` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bc19b8c1c025` · [字段定义](../../DATASET.md)*

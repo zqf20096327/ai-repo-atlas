@@ -2,9 +2,9 @@
 
 ⭐ 4,326 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/tigerless-labs/agent-memory) · 组织维护
 
-**面向 AI agent 的长期记忆运行时，Markdown 为唯一事实源**
+**AI agent 的长期记忆运行时：Markdown 为源，本地检索，多宿主共享**
 
-为任意可执行 shell 命令的 agent（Claude Code、Codex CLI、Muse Code 等）提供共享的本地长期记忆存储：一条记忆一个 Markdown 文件，SQLite/FTS5 索引仅作可重建缓存。检索为本地 ranked（BM25 加可选向量插件 RRF 融合），以路径而非粘贴文本返回；写入在会话边界自动触发蒸馏，睡眠期 Manage 层按自身节拍做合并与按值遗忘（删除仅为提案）。库内无 LLM 客户端，推理借用宿主 agent 的 CLI，无需 API key。需 Python 3.12+ 与 uv，从 git checkout 源码安装，PyPI 尚无发布；另提供 MCP 服务器（mem-mcp）与生命周期钩子（mem-hook）。
+为 AI agent 提供长期记忆运行时：以单个存储中的 Markdown 文件为唯一事实源，SQLite 索引仅为可随时删除重建的缓存。检索在本地完成并排序，返回路径与分级摘要（L0 列表→大纲→全文）而非粘贴文本。写入在会话边界触发蒸馏，独立的 sleep-time Manage 层按自身时钟做合并与按价值遗忘，删除仅以提案形式由用户确认。库内不含 LLM 客户端，无需 API key。面向运行 shell 命令的 agent（Claude Code、Codex CLI、Muse Code、Hermes），需 Python 3.12+ 与 uv，目前未发布 PyPI，仅可从源码安装。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Markdown 文件为唯一事实源，索引可随时删除并以 mem rebuild 无损重建
-- L0 列表→摘要→全文→原始消息的分级读取，检索返回路径而非粘贴文本
-- 会话边界自动蒸馏写入与睡眠期 Manage 层（无值守操作只能新增/更新，删除以提案形式确认）
-- 库内零 LLM 客户端、零 API key，Write/Manage 推理策略可按操作独立配置
+- Markdown 文件为事实源，索引可 rm -rf 后 mem rebuild 重建
+- 三级读取轨道：MEMORY.md 注入、BM25/FTS5 召回（可选向量插件 RRF 融合）、目录树 ls/grep 兜底
+- sleep-time Manage 层：无监督通过只能增改，删除仅为待确认提案；recall --as-of 按日期回溯
+- mem setup 一条命令接入 Claude Code/Codex/Muse Code，可经 --mcp 提供 9 个 MCP 工具
 
 ## 适用场景
 
-- 让 Claude Code 与 Codex 等 agent 共享同一份跨会话记忆存储
-- 为经常遗忘会话所学内容的 agent 建立可 grep、可 git、可迁移的记忆层
-- 按时间点回溯（recall --as-of）与追溯记忆来源（trace 引用原始消息）
+- 给 Claude Code 或 Codex 加上跨会话保留的长期记忆
+- 多个 agent 宿主共享同一个记忆存储
+- 不想引入 API key 和向量数据库的本地优先记忆方案
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: An agent that closes its session forgets everything it learned in it. agent-memory is the
-> L65: - **No LLM client inside the library.** Zero keys to install and no billing surface: judgement
-> L199: Pass `--mcp` to setup when the host should also receive the `agent-memory` stdio MCP server.
+> L1: ### agent-memory: the long-term memory runtime for AI agents
+> L11: Retrieval is local and ranked, and it answers with paths rather than pasted text — the agent
+> L14: forgets by value, on its own clock. None of it needs an API key.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `a9eef62f2a32` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `9a512dd9baf2` · [字段定义](../../DATASET.md)*

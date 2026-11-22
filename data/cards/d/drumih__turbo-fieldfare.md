@@ -2,15 +2,15 @@
 
 ⭐ 7,434 · Swift · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/drumih/turbo-fieldfare) · 个人维护
 
-**让 8GB Mac 以约 2GB 内存运行 Gemma 4 26B 的 Swift+Metal 推理运行时**
+**让 8GB M 系列 MacBook 在约 2GB 内存运行 Gemma 4 26B 的本地推理运行时**
 
-面向 Apple Silicon Mac 的模型专用推理运行时，用 Swift 与 Metal 实现，运行指令微调的 Gemma 4 26B-A4B：内存中只保留 1.35GB 共享核心与 FP16 KV cache，逐 token 从 SSD 流式读取所需专家，从而在 8GB 内存的 Mac 上运行完整模型。提供原生 Mac 应用、CLI 与实验性 OpenAI 兼容回环服务器三种使用形式；模型安装器从 Hugging Face 固定版本流式下载约 15GB 并重打包为 .gturbo 格式。限制：仅 arm64、需 macOS 26 与 Metal 4，非 MLX/llama.cpp 封装；音频视频不支持，视觉需可选约 1.1GB 伴侣包且要求 M2 及以上。
+用 Swift + Metal 编写的针对 Gemma 4 26B-A4B 的本地推理运行时：常驻约 1.35GB 共享核心与 FP16 KV cache，按 token 从 SSD 流式读取所需专家权重，从而在 8GB 内存的 Apple Silicon Mac 上运行 14.3GB 模型。提供 Swift 库、Mac 应用、CLI、OpenAI 兼容回环服务器和流式安装器五种产物；模型通过 Hugging Face 范围请求流式下载并重打包为 .gturbo 目录，含哈希校验。可选视觉包在 M2 及以上机型支持图片输入；不支持音视频。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 共享核心常驻内存 + 专家从 SSD 流式读取，8GB Mac 可跑 26B 模型
-- 同一 .gturbo 模型目录支撑 Mac 应用、CLI 与 OpenAI 兼容回环服务器
-- 流式安装器从 Hugging Face 下载并校验哈希，不落盘完整 checkpoint
-- 可选视觉伴侣包（约 1.1GB）为应用/CLI/服务器增加图像输入
+- 专家权重按需从 SSD 流式读取，权重+4K KV cache 常驻约 2GB 内存
+- 流式安装器从 Hugging Face 按字节范围下载并重打包，不落地完整 checkpoint
+- 同一 .gturbo 目录支持 Mac 应用、CLI 与回环 OpenAI 兼容服务器
+- 可选视觉包（约 1.1GB）为应用/CLI/服务器增加图片输入
 
 ## 适用场景
 
-- 在小内存 MacBook 上本地运行 Gemma 4 26B 指令模型
-- 通过 CLI 或 Mac 应用进行本地对话与图像问答
-- 用 OpenAI 兼容接口在本机调用该模型做开发调试
+- 在 8GB 内存 MacBook 上本地运行 Gemma 4 26B-A4B 做指令对话
+- 通过回环 OpenAI 兼容接口把本地模型接入现有客户端
+- 用 CLI 做可配置采样参数的命令行文本生成
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L6:  A custom Swift + Metal runtime for any Apple Silicon Mac, even the 8 GB ones.
-> L33: and Metal. TurboFieldfare is model-specific rather than a wrapper around MLX or
+> L25: TurboFieldfare runs the instruction-tuned
+> L77: TurboFieldfare provides a native Mac app, a command-line interface, and an
+> L85: |`TurboFieldfare`|Swift library containing the runtime and Metal kernels|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `9fb6a3109ec0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `adf22b9bdc1c` · [字段定义](../../DATASET.md)*

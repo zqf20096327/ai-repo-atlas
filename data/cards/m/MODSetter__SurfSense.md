@@ -2,15 +2,15 @@
 
 ⭐ 16,913 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/MODSetter/SurfSense) · [官网](https://www.surfsense.com) · 个人维护
 
-**本地离线运行的开源 NotebookLM 替代桌面应用**
+**本地运行的 NotebookLM 替代桌面应用：研究、转换与编辑文档**
 
-面向需要在本地处理文档的用户：桌面应用读取 PDF、Office、图像、音视频等格式，提供带引用的回答、文档创建、编辑副本与格式转换，索引保存在本机磁盘，模型可任选本地或 OpenAI 兼容远程 API，无需账号。官方插件（Google 搜索、网页爬取、YouTube 等）需输入邮箱获取 30 天免费许可证；第三方接入走 MCP。托管网页版将停止服务，需在期限内导出工作区迁移到桌面版。
+开源桌面应用，宣称可在气隔环境下运行：将 PDF、Word、Excel、PPT、音频等格式加入本地索引，AI agent 对文档生成带引用的回答、创建内容并以副本方式编辑（原文件不被修改），转录与播客语音在本机生成。支持本地或任意 OpenAI 兼容 API 模型，无需账号。提供 Windows/macOS/Linux 安装包与 Docker 自托管脚本；官方插件（搜索、爬虫、社交媒体读取）需免费 14 天许可证，第三方 MCP 插件无需许可证。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,27 +26,26 @@
 
 ## 能力要点
 
-- 支持 PDF/Word/Excel/PPT/图像/录音等多种格式的研究、创建、编辑与转换
-- 索引保留在本地磁盘，可选用本地模型，无需账号
-- 插件生态：官方网络插件 + MCP 服务器接入
-- Apache-2.0 许可，提供 Windows/macOS/Linux 安装包
+- 多格式文档索引与带引用回答，扫描页与 OCR（拉丁/中文/日文）支持
+- 编辑以副本方式生成，原始文件不被改动；音频转录在本机完成
+- 模型可选：本地模型或任意 OpenAI 兼容 API，无账号
+- 提供 MCP 第三方插件接入与 Docker 自托管脚本
 
 ## 适用场景
 
-- 在内网或断网环境处理涉密/敏感文档
-- 对本地文档做带引用的问答与信息提取
-- 批量编辑、合并、转换 PDF 与 Office 文件
-- 爬取网页、YouTube 等公开内容整理成资料
+- 不能上传云端的企业文档，在本机做问答与摘要
+- 给 Word 合同做带批注与修订的标红编辑
+- 把网页、YouTube、Reddit 等来源整理为文档或网页
+- 录制音频转文字、生成播客与思维导图/闪卡/测验
 
 ## 场景标签
 
-`文档问答` `网页抓取` · 领域:效率与自动化
+`RAG` `网页抓取` `文档问答` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L28: SurfSense is a free, open-source desktop app for documents you can't upload. A privacy-focused, NotebookLM-style AI
-> L91: |Open source|No|**Apache-2.0**|
-> L97: Apache-2.0. See LICENSE.
+> L34: SurfSense is a free, open-source desktop app for documents you can't upload. A privacy-focused, NotebookLM-style AI
+> L103: |Models|Gemini only|Any OpenAI-compatible API, or a local one|
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `70e4b0425703` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9969119e134a` · [字段定义](../../DATASET.md)*

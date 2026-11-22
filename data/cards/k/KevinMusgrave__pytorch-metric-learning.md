@@ -2,9 +2,9 @@
 
 ⭐ 6,343 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/KevinMusgrave/pytorch-metric-learning) · [官网](https://kevinmusgrave.github.io/pytorch-metric-learning/) · 个人维护
 
-**面向开发者的 PyTorch 深度度量学习模块化库**
+**PyTorch 度量学习库：训练/评估相似度检索的嵌入模型**
 
-基于 PyTorch 的深度度量学习库，包含 9 个可独立使用的模块：损失函数、难样本挖掘器、距离、归约器、正则器、训练器、测试器、精度计算器和数据集模块。损失函数可在用户现有训练循环中嵌入，支持三元组/成对损失的自动转换，提供 SelfSupervisedLoss 包装器用于自监督学习，及 CrossBatchMemory 实现 MoCo 风格动量队列。附带 Datasets 模块可下载 CUB200、Cars196 等常用数据集，并提供 Google Colab 示例笔记本。通过 pip/conda 安装。
+基于 PyTorch 的度量学习库，以可组合组件（损失函数、难例挖掘器、距离、reducer、正则化器）嵌入自定义训练循环，用于检索、聚类、识别及成对/三元组学习任务。核心包仅依赖 PyTorch 与 NumPy，Faiss 检索后端与 scikit-learn 聚类指标以可选扩展提供。面向做嵌入训练与相似度搜索的研究者与开发者，每个组件页面附签名、张量契约与引用论文，另有完整训练/评估示例。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 9 个可独立组合的模块（losses/miners/trainers/testers 等）
-- 损失可由距离、归约器、正则器自定义
-- SelfSupervisedLoss 包装器与 CrossBatchMemory 支持自监督学习
-- Datasets 模块提供 CUB200/Cars196 等常用数据集下载
+- 可组合的损失/挖掘器/距离/reducer 组件体系
+- 对比损失等成对与三元组损失实现
+- 可选 Faiss 检索后端与 NMI/AMI 聚类指标
+- 组件页面附带论文引用与完整训练评估示例
 
 ## 适用场景
 
-- 在图像检索/人脸识别等任务中为现有训练循环加入度量学习损失
-- 自监督学习场景下使用任意 tuple 损失与挖掘器
-- 直接计算嵌入空间精度并跑完整训练/测试流程
+- 训练图像检索或聚类的嵌入模型
+- 在自定义训练循环中做难例挖掘与对比学习
+- 自监督学习场景下评估嵌入质量
 
 ## 场景标签
 
- · 领域:机器学习/计算机视觉
+ · 领域:机器学习/度量学习库
 
 ## 证据(README 行号)
 
-> L37: This library contains 9 modules, each of which can be used independently within your existing codebase, or combined
-> L44: Let’s initialize a plain TripletMarginLoss:
+> L3: Train embedding models with composable PyTorch losses, hard-example miners,
+> L5: retrieval, clustering, recognition, or learning from pairs and triplets.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `e2a03b8094e5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5ad4731c9c59` · [字段定义](../../DATASET.md)*

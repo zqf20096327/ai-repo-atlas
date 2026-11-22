@@ -2,9 +2,9 @@
 
 ⭐ 11,246 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/open-swe) · [官网](https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents) · 组织维护
 
-**开源异步编码代理：从代码调查到交付 PR 的软件工程系统**
+**给工程团队的开源异步编码 Agent：从 issue 到 PR**
 
-由 LangChain 基于 Deep Agents 与 LangGraph 构建的开源软件工厂：调查代码库、在隔离沙箱中实现变更、执行验证并交付 pull request；同时支持 PR 审查（可学习仓库特定审查偏好）、CI 监控、定时任务与 Slack/Linear/GitHub 触发。执行依赖 Managed Deep Agents 私有 beta，否则需 fork 改造自有运行时；项目处活跃开发期，不接受外部贡献。沙箱运行于持久化 Linux 环境，LangSmith 为默认沙箱与追踪提供方。
+Robin 是 LangChain 基于 Deep Agents 与 LangGraph 构建的开源异步编码 Agent：读取 issue、对话与 PR 输入，在隔离的 Linux 沙箱中调查代码库、实施修改、运行验证并交付 pull request；同时支持 PR 审查、学习仓库级审查偏好、监控 CI 并响应反馈。面向需要在自有基础设施中部署编码 Agent 的工程团队。可从 dashboard、GitHub、Slack、Linear 触发任务，支持模型、沙箱与集成自定义。注意：项目处于活跃开发期，不接受 issue 与外部贡献；按原样部署依赖 Managed Deep Agents，否则建议 fork 适配自身运行时。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 从 issue/PR/定时任务触发：计划→沙箱实现→验证→交付 PR 的闭环
-- 子代理并行研究与独立工作
-- 按需/自动 PR 审查并从历史反馈学习审查偏好
-- GitHub、Slack、Linear 多入口触发与人工审批机制
+- 在持久化 Linux 沙箱中实现 investigate→implement→validate→PR 流程
+- 支持按需或自动 PR 审查、CI 监控与 /baby-sit 定时任务
+- 由 Deep Agents 提供规划/文件系统/shell/子代理原语，LangGraph 提供持久执行
+- 可自定义模型、推理力度、指令、技能、集成与沙箱提供方
 
 ## 适用场景
 
-- 让代理自动调查代码库并提交带验证的 pull request
-- 在团队仓库上运行 PR 自动审查并积累审查偏好
-- 定时巡检 opted-in PR 的 CI 并处理 flaky 任务
+- 把 GitHub issue 自动转化为经过验证的 pull request
+- 对 PR 做自动或人工触发的代码审查并发布结论
+- 监控已接入 PR 的 CI，诊断失败并重跑不稳定任务
+- 从 Slack 或 Linear 委派工程任务给 Agent 会话
 
 ## 场景标签
 
@@ -37,9 +38,8 @@
 
 ## 证据(README 行号)
 
-> L15: Open SWE turns engineering work into a repeatable system: investigate a codebase, implement changes, validate them,
-> L33: - **Build:** Investigate repositories, edit code, run focused validation, and open or update pull requests.
-> L44: Deep Agents supplies planning, filesystem, shell, skills, and subagent primitives. LangGraph provides durable execu
+> L11: Robin turns engineering work into a repeatable system: investigate a codebase, implement changes, validate them, an
+> L48: Deep Agents supplies planning, filesystem, shell, skills, and subagent primitives.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `65f5ff79c402` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4a547619447c` · [字段定义](../../DATASET.md)*

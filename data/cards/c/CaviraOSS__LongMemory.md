@@ -2,9 +2,9 @@
 
 ⭐ 4,585 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/CaviraOSS/LongMemory) · [官网](https://cavira.app/projects/longmemory) · 组织维护
 
-**面向 LLM 应用与 agent 的本地持久记忆引擎（存储/检索）**
+**面向 LLM 应用与 Agent 的本地持久记忆引擎**
 
-为 LLM 应用与自主 agent 提供的认知记忆引擎：以 SQLite 做本地优先持久存储，记录不可变内容、来源与时间线，支持严格/历史/联想/世界接地四种召回模式，并通过治理域（项目/租户/用户/角色）与 token 预算控制上下文。同一 TypeScript 引擎覆盖 npm 库、CLI、HTTP 服务、MCP、Next.js 仪表盘与 VS Code 扩展；Python 侧提供零依赖 HTTP SDK（PyPI 包名为 longmemory-sdk）。嵌入支持 OpenAI 兼容 API、Gemini、Bedrock、Ollama 等多种来源，并可与 Claude Code、Codex、Dify、LangChain 等框架集成。
+以 TypeScript 实现的 LLM 应用记忆引擎，提供基于 SQLite 的本地持久存储、时间真值建模、不可变内容与溯源、多种召回模式（严格/历史/联想/依据/多语言）以及按项目/租户/角色治理的记忆范围。以 npm 库、CLI、自托管 HTTP 服务、MCP 服务器、Next.js 仪表盘与 VS Code 扩展等多种形态分发，并通过 Python SDK 供自托管服务调用。内置迁移工具导入既有 SQLite/JSON 记忆及编码 Agent 会话。
 
 ## 筛选速览
 
@@ -13,24 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- SQLite 本地持久化与不可变内容/来源/时间线记录
-- 四种召回模式（严格/历史/联想/世界接地）与可解释证据选择
-- 单一 TypeScript 引擎覆盖 npm/CLI/HTTP/MCP/仪表盘/VS Code 扩展
-- 会话迁移工具支持 Claude Code、Codex、Gemini CLI 等 coding-agent 存储
+- SQLite 本地持久存储，无需外部数据库即可运行
+- 五种召回模式与时间真值/证据准入控制
+- npm/CLI/HTTP/MCP/仪表盘/VS Code 多形态同一引擎
+- 13 个 MCP 工具及多框架集成配置包
 
 ## 适用场景
 
-- 给 coding agent 补充跨会话的项目记忆与决策历史
-- 为 LLM 应用搭建自托管的长期记忆与检索服务
-- 通过 MCP 将记忆工具接入 Claude Code、Dify、LangChain 等宿主
-- 审计与迁移已有 agent 会话数据为治理的 Chat Memory
+- 给编码助手（Claude Code、Codex 等）接入持久项目记忆
+- 自托管记忆服务供多个 Agent 共享并按租户/角色隔离
+- 导入既有编码 Agent 会话作为可治理的对话记忆
 
 ## 场景标签
 
@@ -39,7 +38,8 @@
 ## 证据(README 行号)
 
 > L13: LongMemory is a cognitive memory engine for LLM applications and autonomous agents.
-> L166: - **Embeddings** through OpenAI-compatible APIs, Gemini, AWS Bedrock, Ollama, Siray, and local HTTP models.
+> L167: - **Operational surfaces** through HTTP, MCP, dashboard, VS Code, n8n, and framework-native MCP clients.
+> L170: ## 6. MCP and Agent Integrations
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f89704062ec1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `06499d30116c` · [字段定义](../../DATASET.md)*

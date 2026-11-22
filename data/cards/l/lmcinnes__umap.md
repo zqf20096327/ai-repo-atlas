@@ -2,9 +2,9 @@
 
 ⭐ 8,338 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/lmcinnes/umap) · [官网](https://umap-learn.readthedocs.io) · 个人维护
 
-**面向数据科学家的通用非线性降维与可视化库**
+**面向数据科学者的非线性降维与可视化 Python 库**
 
-UMAP 是基于流形学习与模糊拓扑结构的降维算法库，以 Python 包（umap-learn）形式提供，可用于高维数据可视化与通用非线性降维，API 与 scikit-learn transformer 一致，可作为 sklearn 流水线中的预处理步骤。支持稀疏矩阵输入、监督/半监督降维、多种距离度量（含 cosine/correlation）、transform 添加新样本，以及保留局部密度信息的 densMAP 变体。依赖 numpy/scipy/scikit-learn/numba 等；可选安装 matplotlib 等绘图依赖与 Tensorflow（Parametric UMAP）。提供 conda-forge 与 PyPI 安装，覆盖 Linux/macOS/Windows 64 位。
+UMAP（Uniform Manifold Approximation and Projection）是一种流形学习降维技术，基于黎曼流形的三个假设构建模糊拓扑结构，通过搜索低维投影实现嵌入。既可用于类似 t-SNE 的可视化，也可作为通用非线性降维用于其他机器学习任务的前置步骤。接口继承 sklearn 类，遵循相同的调用 API，支持稀疏矩阵、监督与半监督降维、向已有嵌入添加新点（transform）、inverse transform 及超曲空间嵌入等。支持 densMAP 保留局部密度信息；最近邻图构建依赖 pynndescent，可选 RINND 加速。Python 库形式分发于 PyPI 与 conda-forge，另附 ArXiv 与 JOSS 论文链接。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ UMAP 是基于流形学习与模糊拓扑结构的降维算法库，以 Python �
 
 ## 能力要点
 
-- 基于模糊拓扑结构的流形降维，兼容 sklearn API
-- 支持监督/半监督降维与稀疏矩阵输入
-- 提供保留局部密度的 densMAP 变体
-- 支持 cosine/correlation 等非度量距离与 transform 新样本映射
+- 通用非线性降维，嵌入维度可扩展，不限于二维可视化
+- 支持监督/半监督降维、transform 新点与 inverse transform
+- 支持稀疏矩阵与多种距离度量（含 cosine、correlation）
+- densMAP 与 Parametric UMAP 作为扩展功能提供
 
 ## 适用场景
 
-- 高维数据集的可视化探索
-- 作为机器学习任务前的通用降维预处理步骤
-- 与聚类库（hdbscan）配合做聚类分析
+- 高维数据（如单细胞转录组）的二维可视化探索
+- 作为 sklearn pipeline 中的预处理降维步骤
+- 降维后配合 hdbscan 做聚类
+- 词向量等数据的 cosine 距离嵌入
 
 ## 场景标签
 
- · 领域:机器学习/数据可视化
+ · 领域:机器学习/数据科学工具
 
 ## 证据(README 行号)
 
 > L45: Uniform Manifold Approximation and Projection (UMAP) is a dimension reduction
-> L197:  embedding = umap.UMAP().fit_transform(digits.data)
+> L46: technique that can be used for visualisation similarly to t-SNE, but also for
+> L201: The umap package inherits from sklearn classes, and thus drops in neatly
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7dd14c8b6518` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6bbb410a3259` · [字段定义](../../DATASET.md)*

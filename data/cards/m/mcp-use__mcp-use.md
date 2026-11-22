@@ -2,9 +2,9 @@
 
 ⭐ 11,002 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mcp-use/mcp-use) · [官网](https://manufact.com) · 组织维护
 
-**TypeScript 全栈 MCP 框架：构建 MCP 服务器与 MCP Apps**
+**TypeScript MCP 全栈框架：为开发者构建 MCP 服务器与应用**
 
-用于构建、测试与部署 MCP 服务器、ChatGPT 插件与 Claude connectors 的 TypeScript 框架，基于官方 TypeScript SDK v2，提供全类型定义、绑定 React Views 的工具、内置 Inspector 调试、无头 CLI 验证与截图、隧道公网测试及部署流程。通过 npx create-mcp-use-app 脚手架初始化项目。生态包含客户端、agent、inspector、tunnel 等包，另有 Python 版本。由 manufact.com 维护，MIT 许可。
+基于官方 TypeScript SDK v2 构建的 MCP 开发框架，用于构建、测试与部署 MCP 服务器、ChatGPT 插件与 Claude connectors。核心机制包括：Zod schema 贯穿工具到结构化结果的类型系统、React Views 直接绑定工具的 MCP Apps 支持、内置 Inspector 浏览器/CLI 调试、agent-first 无头工作流与 tunnel 公网测试。通过 create-mcp-use-app 脚手架生成项目，可部署到 Manufact 或按指南自托管，另提供 Python 版本。MIT 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- Zod 类型从工具贯穿到结构化结果与 React View 属性
-- 内置 Inspector 与无头 CLI 的工具调用与 View 截图验证
-- React Views 直接绑定工具，构建 MCP Apps 交互界面
-- 隧道功能为本地 MCP 服务器生成公网 URL 供测试
+- Zod schema 从工具到结构化结果、View props 的全链路类型化
+- React Views 绑定工具，生成 ChatGPT 会话内交互式 MCP App
+- 内置 Inspector：浏览器与 CLI 无头两种调试路径，含截图验证
+- 官方 SDK v2 之上增加 Views、无状态运行时、CLI 与部署流程
 
 ## 适用场景
 
-- 为 ChatGPT/Claude 构建 MCP 服务器与 MCP Apps
-- 在浏览器中调试并验证 MCP 工具与交互视图
-- 通过 agent/CLI 工作流脚手架化、调用与部署 MCP 项目
+- 为 AI Agent 开发 MCP 服务器并本地调试
+- 在 ChatGPT 中构建带交互界面的插件扩展
+- 用 CLI 无头调用工具并截图验证 View 输出
+- 部署 MCP 服务并获取可观测性与评测数据
 
 ## 场景标签
 
@@ -38,7 +39,7 @@
 ## 证据(README 行号)
 
 > L5:  The TypeScript framework for MCP
-> L154: mcp-use builds on the official TypeScript SDK v2 and adds first-class Views, typed tool-to-UI contracts, an optimi
+> L177: mcp-use builds on the official TypeScript SDK v2 and adds first-class Views, typed tool-to-UI contracts, an optimi
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `229616bfd610` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1b9f27a8d2e9` · [字段定义](../../DATASET.md)*

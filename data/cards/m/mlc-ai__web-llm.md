@@ -2,9 +2,9 @@
 
 ⭐ 19,394 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mlc-ai/web-llm) · [官网](https://webllm.mlc.ai) · 组织维护
 
-**开发者用浏览器内 LLM 推理引擎：WebGPU 加速、无需服务器**
+**给 Web 开发者的浏览器内 LLM 推理引擎，无需服务器**
 
-运行在浏览器中的 LLM 推理引擎，依赖 WebGPU 做硬件加速，推理全部在客户端完成、无服务器参与。以 npm 包形式提供 MLCEngine 接口，兼容 OpenAI API 风格（流式、JSON-mode、seed、function-calling 为初步支持），支持 Web Worker 与 Service Worker 将计算移出主线程，提供 Chrome 扩展示例。模型以 MLC 格式接入，首次加载需下载模型文件。是 MLC LLM 的伴生项目。
+一个运行在浏览器内、基于 WebGPU 硬件加速的 LLM 推理引擎，全部计算在客户端完成、不依赖服务器。以 npm 包形式提供，接口与 OpenAI API 兼容，支持流式输出、JSON 模式、种子复现与初步的 function calling；内置 Llama、Phi、Gemma、Mistral、Qwen 等模型家族，也可接入 MLC 格式的自定义模型。提供 Web Worker、Service Worker 与 Chrome 扩展集成示例，模型权重首次运行需下载并支持四种浏览器缓存后端。面向希望在网页应用中接入本地 LLM 能力的开发者。
 
 ## 筛选速览
 
@@ -27,17 +27,16 @@
 
 ## 能力要点
 
-- 浏览器内推理，WebGPU 硬件加速，无服务器支持
-- 全量兼容 OpenAI API：流式、JSON-mode、seed、function-calling（WIP）
-- 支持 Web Worker / Service Worker 卸载计算与离线缓存
-- 四种缓存后端（Cache API、IndexedDB、OPFS、cross-origin 扩展）
+- 浏览器内推理，WebGPU 加速，无服务器依赖
+- 完整 OpenAI API 兼容（流式/JSON 模式/seed/function calling）
+- 内置 Llama、Phi、Gemma、Mistral、Qwen 等模型家族，支持 MLC 格式自定义模型
+- 支持 Web Worker、Service Worker 与 Chrome 扩展集成
 
 ## 适用场景
 
-- 在 Web 应用中本地运行 LLM 聊天补全而不搭建后端
-- 利用 Service Worker 实现模型缓存的离线推理页面
-- 开发内置 LLM 的 Chrome 扩展
-- 隐私敏感场景下的客户端推理
+- 在网页应用中直接嵌入本地 LLM 对话能力
+- 构建注重隐私的浏览器端 AI 助手
+- 开发带后台持久推理的 Chrome 扩展
 
 ## 场景标签
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `03facd47074b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `3e598e15fd8d` · [字段定义](../../DATASET.md)*

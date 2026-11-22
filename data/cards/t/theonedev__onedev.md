@@ -2,9 +2,9 @@
 
 ⭐ 15,370 · Java · MIT · 推送 2026-11-19 · [GitHub](https://github.com/theonedev/onedev) · [官网](https://onedev.io) · 组织维护
 
-**自托管 DevOps 平台：代码托管+CI/CD+_issue 管理+AI 助手**
+**自托管 DevOps 平台：Git 托管、CI/CD、issue 一体化**
 
-自托管的统一开发平台，覆盖代码搜索与导航、pull request 与代码保护规则、issue 工作流与看板、服务台邮件联动、CI/CD 编辑器与多种执行器（容器/Kubernetes/agent）、内置包仓库、版本化 Wiki、仪表盘与高可用集群。AI 部分：内置自然语言查询、代码解释、提交与 PR 审查、构建错误排查；AI 用户可在 issue/PR 流程中自主实现任务、修复失败；Workspaces 在浏览器中提供预配置 dev container 以运行终端编码 agent。README 注明服务器最低可在 1 核 2G 内存环境运行中型项目。
+面向开发团队的自托管一体化开发平台，覆盖代码搜索与导航、拉取请求与代码保护规则、看板与 issue 工作流、CI/CD 编排（容器/裸机/VM/Kubernetes 执行器）、内置包仓库、版本化 Wiki、服务台与时间统计。内置 AI 功能支持自然语言查询、代码解释、commit/PR 审查、CI/CD 规格辅助与构建错误排查；提供 Workspaces 在浏览器中运行终端编码 agent，并附带 CLI 与技能供 agent 操作 issue、PR 与 CI/CD。服务器与 agent 支持 Linux/Windows（amd64/arm64）及 Apple Silicon macOS。
 
 ## 筛选速览
 
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- 内置 AI：自然语言查询、代码解释、PR 审查、CI/CD 规格辅助与构建错误调查
-- AI 用户在 issue/PR 流程中自主实现 issue、修复 CI 失败与合并冲突
-- Workspaces 提供服务端预配置 dev container，浏览器内使用终端编码 agent
-- TOD CLI 与内置 skills 供编码 agent 查询/编辑 issue、PR、build 并触发 CI
+- GUI 式 CI/CD 编排，支持容器、裸机、沙箱 VM 与 Kubernetes 执行器
+- 内置 AI：自然语言查询、代码解释、PR 审查与构建错误排查
+- Workspaces 支持在浏览器中使用 OpenCode、Claude Code、Codex 等终端 agent
+- 内置包仓库、版本化 Wiki、看板与服务台集成
 
 ## 适用场景
 
-- 自托管一体化管理代码托管、CI/CD 与项目看板
-- 让 AI 以团队成员身份认领 issue、审查 PR 并修复构建失败
-- 在浏览器中用 Claude Code 等终端 agent 直接开发，免去本地环境配置
+- 团队自托管代码托管与 CI/CD 流水线
+- 用 AI agent 自动实现 issue、审查 PR 并修复构建失败
+- 通过看板与自动化规则管理 issue 工作流
 
 ## 场景标签
 
-`编码 Agent` `代码审查` · 领域:编码与开发
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L156: ## 🤖 Built-in AI for DevOps Intelligence
-> L165: Work on any branch with preconfigured dev containers on server. Use OpenCode, Claude Code, Codex, or other termina
-> L179: AI users work autonomously in your issue and pull request flow: implement assigned issues, review and improve pull
+> L3:  The Unified and Autonomous Development Platform
+> L157: ## 🤖 Built-in AI for DevOps Intelligence
+> L166: Work on any branch in preconfigured dev containers or isolated sandbox VMs.
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `baaab18e8ff7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ee1e1937547a` · [字段定义](../../DATASET.md)*

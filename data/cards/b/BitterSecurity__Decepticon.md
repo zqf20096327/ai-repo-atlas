@@ -2,9 +2,9 @@
 
 ⭐ 6,663 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/BitterSecurity/Decepticon) · [官网](https://decepticon.red) · 组织维护
 
-**自主红队攻防 agent：执行侦察到利用的完整攻击链**
+**自主红队攻击链 Agent：侦察到提权横移全流程执行**
 
-面向授权渗透测试的红队自主 agent：输入目标 URL 后按 OPPLAN 执行侦察、漏洞研究、利用、提权、横向移动与 C2，共 16 个专项 agent，命令在独立 Kali 沙箱（双网络隔离）内的 tmux 会话中运行，可选 Ghidra 逆向工作负载与本地防御监控（Blue Cell）。LLM 接入支持多供应商分层回退链（含 Ollama 本地），基于 LangGraph 编排，可用 Docker 脚本安装或 pip 装 SDK，另有云端托管版。要求操作者批准目标与 RoE，禁止未授权使用。
+以 Docker 栈交付的自主渗透测试 Agent：按杀伤链阶段组织 16 个专职 Agent，读取 OPPLAN 并在 Kali Linux 沙箱（独立 sandbox-net 网络）内执行命令，通过 tmux 持久会话驱动 msfconsole、sliver-client 等交互式工具。管理面常驻 LiteLLM、PostgreSQL、Neo4j、LangGraph，BloodHound CE、Sliver C2 等专用负载按需由编排器拉起。提供终端 CLI、pip 客户端 SDK（需指向运行时服务）与 MCP server 接入 Claude Code/Codex。需操作者批准目标与 RoE；托管版 Web 控制台属云产品。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 16 个专项 agent 按攻击链阶段组织，独立 Kali 沙箱双网络隔离执行
-- 命令运行于持久 tmux 会话，支持交互式工具的自动跟进
-- 多供应商分层凭据回退链，含 Ollama 本地与订阅 OAuth
-- pip SDK 形式提供 agent 工厂、中间件、工具与插件接口
+- 16 个按杀伤链阶段划分的专职 Agent，每个目标独立上下文窗口
+- tmux 持久交互式会话与自动提示检测，支持 msfconsole/sliver 等 C2 工具
+- 双网络隔离架构：管理面与 Kali 沙箱面分离
+- 分层模型配置（eco/max/test）与凭证感知的 provider 回退链
 
 ## 适用场景
 
-- 在授权范围内执行自主红队渗透测试
-- 对发现的二进制文件做 Ghidra 深度逆向分析
-- 渗透同时用本地传感器监测并报告可疑事件
-- 作为库构建自定义编排器或研究集成
+- 对已授权目标执行侦察、利用、提权到横移的完整攻击链
+- 作为 SDK 构建自定义编排器或研究集成
+- 通过 MCP server 在 Claude Code/Codex 中调用红队能力
+- 用 XBOW 基准评测 AI 渗透 Agent 的表现
 
 ## 场景标签
 
-`网络安全` `Agent 框架` · 领域:Agent 开发
+`网络安全` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L154: **Decepticon is a professional autonomous Red Team agent.** It executes realistic attack chains — reconnaissance, 
-> L196: **Tier-mapped providers**: Anthropic, OpenAI, Google Gemini, MiniMax, DeepSeek, xAI, Mistral, OpenRouter, Nvidia N
+> L152: **Decepticon is a professional autonomous Red Team agent.** It executes realistic attack chains — reconnaissance, 
+> L162: **Interactive shells, actually.** Real offensive tools are interactive (`msfconsole`, `sliver-client`, `evil-winrm
+> L178: 16 specialist agents organized by kill chain phase, with a fresh context window per objective — no accumulated noi
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `23b24a18b9e2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4f395ef9dc6e` · [字段定义](../../DATASET.md)*

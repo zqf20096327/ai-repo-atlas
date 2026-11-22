@@ -2,9 +2,9 @@
 
 ⭐ 12,112 · Python · 推送 2026-10-28 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) · 组织维护 · 中文 README
 
-**全模态音视频生成系统 H3 的开源权重与技能包**
+**MiniMax 的全模态视频生成模型，文/图/音生成带音频视频**
 
-MiniMax 发布的通用全模态生成系统 H3 开源仓库：H3-Base（33B 参数 H3-Omni-Transformer）基于文本/图像/视频/音频输入生成带原生立体声的 4–15 秒视频，默认短边 768 像素、24 FPS。文本编码器复用 Qwen3-VL-32B 前层。H3-Context-IR 预处理系统与 H3-Regenerate-2K（2K 再生成模块）未随本次开源，仅提供 API 与教程。仓库另附 9 个 agent 技能（1 个可移植的提示词技能 + 8 个 MiniMax Hub 专用视频生成技能），可经 npx skills 安装。提供在线 API 与 App 入口。
+MiniMax H3 是一个全模态生成系统的开源模型发布仓库：开源 H3-Base（33B 单流 Transformer）权重，支持文本、图像、视频、音频的统一理解与视频生成（4–15 秒、768p、24FPS、32kHz 立体声，对话支持 11 种语言）。仓库附带 9 个 agent 技能，其中 h3-prompt-writing 为可移植的 Markdown 技能；H3-Context-IR 预处理与 2K 再生成模块未开源，仅提供 API 复现。架构基于 Qwen3-VL-32B 编码器与双 VAE，推理需加载官方分词器配置。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@ MiniMax 发布的通用全模态生成系统 H3 开源仓库：H3-Base（33B 参
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 文本/图像/视频/音频多模态输入，生成带原生立体声的视频（最长 15 秒）
-- 开源 H3-Base 完整权重（33B，含可缓存的 AdaLN 分支），支持微调
-- H3-Regenerate-2K 通过上下文再生成本体输出 2K 分辨率结果（模块未开源，提供 API）
-- 9 个 agent 技能，其中 h3-prompt-writing 为纯 Markdown 可移植技能
+- 开源 H3-Base 33B 模型权重，支持微调
+- 多模态输入：≤9 图像、≤3 视频/音频片段，混合输入最多 12 个文件
+- 输出 4–15 秒视频，带 32kHz 立体声，24FPS
+- 提供 9 个 agent 技能，prompt 技能兼容多种 agent harness
 
 ## 适用场景
 
-- 本地部署或微调 H3-Base 做音视频生成
-- 通过 MiniMax API/App 直接调用 H3 生成视频
-- 在 Claude Code/Cursor 等 agent 环境中使用 H3 提示词编写技能
+- 从文本/图像/参考视频生成分辨率 768p 的立体声视频
+- 首尾帧或全参考模式驱动的视频生成
+- 下载权重进行微调与自部署推理
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ MiniMax 发布的通用全模态生成系统 H3 开源仓库：H3-Base（33B 参
 ## 证据(README 行号)
 
 > L55: MiniMax H3 is a general-purpose, omni-modal generative system. It supports unified understanding of multimodal cont
-> L78: - H3-Context-IR: As inputs become increasingly complex, we build a dedicated system to deeply understand and refine
+> L79: - H3-Base: Generates audio and video based on the H3-Context-IR output, producing results at 768p resolution.
 > L140: - For scalability and generalization, we adopt a relatively simple Transformer block design\. H3\-Omni\-Transforme
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `482fa713d68f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `779d33f52287` · [字段定义](../../DATASET.md)*

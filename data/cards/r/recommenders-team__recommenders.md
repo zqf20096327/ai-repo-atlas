@@ -2,15 +2,15 @@
 
 ⭐ 22,009 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/recommenders-team/recommenders) · [官网](https://recommenders-team.github.io/recommenders/intro.html) · 组织维护
 
-**面向研究者与开发者的推荐系统最佳实践库与示例集**
+**为研究人员与开发者提供推荐系统算法实现与最佳实践库**
 
-Recommenders 是 Linux Foundation of AI and Data 旗下的推荐系统项目，以 Jupyter notebook 形式提供构建推荐系统的示例与最佳实践，覆盖数据准备、模型构建、离线评估、超参调优与模型在 Azure 上的生产化五类任务，并附带数据加载、评估、训练/测试切分等工具。仓库收录多种经典与深度学习推荐算法实现，提供 uv 管理环境与 PyPI 安装途径，可选 gpu/spark/experimental 等扩展，附算法对比基准 notebook（MovieLens 数据集）。
+Linux Foundation of AI and Data 旗下的推荐系统项目，以 Jupyter notebook 形式提供从数据准备、模型构建、离线评估、超参调优到 Azure 上生产化部署五类任务的示例与最佳实践；随包提供数据加载、评估、训练/测试切分等工具函数，并内置多种经典与深度学习推荐算法实现供学习与定制。通过 PyPI 安装，提供 gpu/spark/dev 等可选扩展，另附算法基准对比 notebook。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -28,26 +28,25 @@ Recommenders 是 Linux Foundation of AI and Data 旗下的推荐系统项目，�
 ## 能力要点
 
 - 以 Jupyter notebook 提供 Quick start 与 Deep dive 两级示例
-- 收录 ALS、xDeepFM、LightGCN、SASRec 等多类推荐算法实现
-- 提供 gpu、spark、dev、all、experimental 等安装扩展选项
-- 提供基于 MovieLens 的算法对比基准 notebook
+- 内置 ALS、xDeepFM、SASRec、LightGCN 等 30 余种协同过滤与内容过滤算法
+- 提供 [gpu]/[spark]/[dev]/[all]/[experimental] 可选安装扩展
+- 提供基于 MovieLens 数据集的算法对比基准 notebook
 
 ## 适用场景
 
-- 为推荐算法原型实验查找可运行的示例代码
-- 按数据准备、建模、评估、调优、上线流程学习推荐系统
-- 对比不同协同过滤算法在 MovieLens 上的指标表现
-- 将推荐模型部署到 Azure 生产环境
+- 为业务数据原型化并实验不同的推荐算法
+- 用离线指标评估与比较多种推荐模型
+- 参考最佳实践将推荐模型部署到 Azure 生产环境
 
 ## 场景标签
 
-`推荐系统` `教程课程` · 领域:学习与行业
+`推荐系统` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L19: Recommenders objective is to assist researchers, developers and enthusiasts in prototyping, experimenting with and 
 > L23: This repository contains examples and best practices for building recommendation systems, provided as Jupyter noteb
-> L21: Recommenders is a project under the Linux Foundation of AI and Data.
+> L31: Several utilities are provided in recommenders to support common tasks such as loading datasets in the format expec
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8b406a8b4479` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e16dae799954` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 5,327 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/llm-d/llm-d) · [官网](https://www.llm-d.ai) · 组织维护
 
-**Kubernetes 上的 LLM 分布式推理服务编排栈**
+**Kubernetes 上的分布式 LLM 推理编排栈**
 
-llm-d 是运行于 Kubernetes 的高性能分布式推理服务栈，在 vLLM、SGLang 等模型服务器之上提供编排与优化：前缀缓存与负载感知的智能路由、分层 KV-Cache 卸载（CPU/磁盘）、预填充/解码分离与宽专家并行的大模型服务、多租户流控与 SLO 感知自动扩缩容、OpenAI 兼容 Batch API 的离线批处理。面向在生产环境部署大规模 LLM 推理的团队；提供带基准的 well-lit path 指南与 Helm charts 快速部署，通过 Quickstart 指南安装，依赖 Kubernetes 环境。限制：自身不直接运行模型，需搭配模型服务器使用。
+llm-d 是面向生产部署的高性能分布式推理服务栈，运行在 Kubernetes 上，由 CNCF 沙箱项目维护（Red Hat、Google Cloud、IBM Research、CoreWeave、NVIDIA 发起）。它在 vLLM、SGLang 等模型服务器之上提供编排与优化：前缀缓存与负载感知的智能路由、分层 KV 缓存卸载与全局索引、prefill/decode 分离与宽专家并行、agent 会话感知调度，以及多租户 QoS、零停机升级、SLO 感知自动扩缩与端到端可观测。通过 well-lit path 指南与 Helm charts 提供基准测试过的部署配方。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ llm-d 是运行于 Kubernetes 的高性能分布式推理服务栈，在 vLLM、
 
 ## 能力要点
 
-- 前缀缓存感知路由与预测延迟调度（实验性）
-- KV-Cache 分层卸载至 CPU/磁盘及全局索引
-- 预填充/解码分离与宽专家并行服务大模型
-- 多租户流控与 SLO 感知自动扩缩容
+- 前缀缓存与负载感知智能路由，支持预测延迟调度
+- 分层 KV-Cache 管理：卸载到 CPU 或磁盘并做全局索引
+- 大模型服务：prefill/decode 分离与宽专家并行
+- 多租户 QoS、零停机操作与 SLO 感知自动扩缩
 
 ## 适用场景
 
-- 在 Kubernetes 集群上高规模服务 LLM 推理流量
-- 通过预填充/解码分离部署 DeepSeek-R1 等大模型
-- 大规模离线批处理推理（OpenAI 兼容 Batch API）
+- 在 Kubernetes 上以生产级方式部署高规模 LLM 推理服务
+- 跨 NVIDIA/AMD GPU 与 TPU 环境运行大模型推理
+- 为多轮 agent 工作流提供会话感知的推理服务
+- 用 OpenAI 兼容 Batch API 管理大规模离线推理任务
 
 ## 场景标签
 
@@ -39,6 +40,7 @@ llm-d 是运行于 Kubernetes 的高性能分布式推理服务栈，在 vLLM、
 
 > L11: llm-d is a high-performance distributed inference serving stack optimized for production deployments on Kubernetes.
 > L17: Model servers like vLLM and SGLang handle efficiently running large language models on accelerators. llm-d provides
+> L64: llm-d accelerates distributed inference by integrating industry-standard open technologies like vLLM and Kubernetes
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `e0d36f2c1de7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `28bc63370fe3` · [字段定义](../../DATASET.md)*

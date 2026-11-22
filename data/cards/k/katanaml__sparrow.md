@@ -2,9 +2,9 @@
 
 ⭐ 5,234 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/katanaml/sparrow) · [官网](https://sparrow.katanaml.io) · 组织维护
 
-**面向企业的文档结构化数据提取与 agent 工作流 API 平台**
+**企业文档智能平台：从发票/报表提取结构化数据并提供 agent 工作流**
 
-API-first 的企业文档智能平台：通过 REST API 对发票、银行对账单、表格、表单、多页 PDF 等文档做 JSON schema 驱动的结构化提取，并提供指令推理（文本处理/校验/决策）与基于 Prefect 可视化监控的多步 agent 工作流编排。架构为可插拔管线：Sparrow Parse（Vision LLM）、Sparrow Instructor（Text LLM）、Agents、OCR 与 Web UI。后端支持 MLX、vLLM、Ollama、Hugging Face、Mistral OCR，统一 API 表面，全部运行在自有基础设施上。安装需 Python 3.12.10+ 与系统级 poppler 依赖，git clone 源码运行。
+Sparrow 是 API-first 的企业文档智能平台：通过 REST API 将发票、收据、银行流水、表格等文档转换为经验证的 JSON 结构化数据，并提供指令调用与多 agent 工作流编排。采用可插拔 pipeline（Sparrow Parse 视觉 LLM、Sparrow Instructor 文本 LLM、Agents），后端可选 MLX（Apple Silicon）、vLLM（NVIDIA）、Ollama、Hugging Face、Mistral OCR。全部在本基础设施运行，无外部云依赖。附带 Web UI 与基于该平台的 Due Diligence 合规筛查 agent。许可证为 GPL v3，商业许可可用。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ API-first 的企业文档智能平台：通过 REST API 对发票、银行对账
 
 ## 能力要点
 
-- REST API 提交文档并返回经 JSON schema 校验的结构化数据
-- 可插拔管线：Vision LLM / Text LLM / Agent 混合搭配
-- 多后端支持：MLX、vLLM、Ollama、Hugging Face、Mistral OCR，统一 API 表面
-- 基于 Prefect 的多步 agent 工作流编排与可视化监控
+- REST API 提交文档返回验证的 JSON，含 Swagger 文档
+- 可插拔 pipeline：Vision LLM、Text LLM、Agent 编排
+- 多后端：MLX、vLLM、Ollama、Hugging Face、Mistral OCR
+- 内置 Due Diligence agent 对接 VIES/GLEIF/OFAC 等筛查
 
 ## 适用场景
 
-- 把发票、对账单、表单批量转为结构化 JSON 数据
-- 在自有基础设施上构建文档智能数据管线，无外部 API 调用
-- 通过指令推理 API 做文本处理、校验与决策
-- 编排分类-提取-校验的多步文档处理工作流
+- 把发票和收据批量转成结构化 JSON 接入数据管道
+- 在自有基础设施上部署文档提取 API 不走云端
+- 上传供应商发票做公司身份与制裁名单筛查
 
 ## 场景标签
 
-`文档解析` `工作流自动化` · 领域:效率与自动化
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L9: **Structured data extraction, instruction calling and agentic workflows with ML, LLM and Vision LLM**
-> L19: Production-ready structured data extraction powered by ML, LLMs & Vision LLMs.
-> L25: - **Structured Extraction API**: Submit documents via REST and receive validated JSON — integrate directly into any
+> L11: Sparrow is an API-first platform for enterprise document intelligence. It combines accurate structured extraction f
+> L22: Sparrow is an **API-first platform** built for enterprise document intelligence. It provides RESTful APIs for struc
+> L28: - **Pluggable Pipelines**: Mix and match Vision LLM (Sparrow Parse), Text LLM (Sparrow Instructor), and Agent pipel
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `a107024ca4e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `16d5c9fbacd9` · [字段定义](../../DATASET.md)*

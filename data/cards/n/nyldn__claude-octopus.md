@@ -2,9 +2,9 @@
 
 ⭐ 4,484 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/nyldn/claude-octopus) · [官网](https://reddit.com/r/ClaudeOctopus/) · 个人维护
 
-**Claude Code 多模型协作插件：多 AI 交叉审查并标记分歧**
+**Claude Code 多模型协同插件：并行多模型审查并标记分歧**
 
-以 Claude Code 为宿主的多 LLM 编排插件：同一研究、设计或编码任务可接入 Codex、Copilot、Qwen、Ollama、OpenRouter 等 12 个外部提供方，通过 75% 共识门禁在交付前标记模型间分歧。提供 31 个专业角色、54 个命令、63 个技能，含 /octo:council 多模型审议、Dark Factory 自主流水线与跨会话持久记忆集成。默认休眠，仅 /octo:* 显式激活；需 Claude Code v2.1.14+，Linux/macOS 原生运行，Windows 需经 WSL。
+以 Claude Code 插件形式安装的多模型编排工具，也支持作为 Codex 插件与 Cursor 的 MCP server 运行。接入最多 12 个外部模型提供方，对同一研究、设计或编码任务获取多个模型意见，用 75% 共识门标记发布前的分歧。包含 31 个角色化 persona、56 个命令、64 个技能；默认休眠，仅显式 /octo:* 调用。要求 Claude Code v2.1.14+，支持 Linux/macOS 原生，Windows 经 WSL 或 SSH。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 12 个外部提供方集成加内置 Claude 宿主，75% 共识门禁
-- /octo:council 3/5/7 角色跨模型审议，含对抗与红队风格
-- 31 个角色、54 个命令、63 个技能，显式工作流触发
-- 默认休眠、零外部提供方即可启动，claude-mem 等持久记忆集成
+- 接入 12 个外部提供方并内置 Claude Code 宿主，零外部提供方即可启动
+- 75% 共识门在发布前标记多模型分歧
+- 31 personas / 56 命令 / 64 技能，默认休眠需显式调用
+- 同时支持 Claude Code 插件、Codex 插件与 Cursor MCP server 三种接入形态
 
 ## 适用场景
 
-- 重要设计或架构决策前获取多个模型的独立意见
-- 对代码或研究结论做对抗性审查，捕获模型间分歧
-- 在 Claude Code 内按需升级到多 LLM 审议工作流
+- 发布前让多个模型交叉审查代码改动并暴露分歧
+- 以规格输入驱动从研究到交付的自动化流水线，人工只审产出
+- 在 Claude Code、Codex 或 Cursor 中复用同一套多模型工作流
 
 ## 场景标签
 
-`代码审查` `多智能体` · 领域:Agent 开发
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3: Every AI model has blind spots. Claude Octopus supports twelve external provider integrations — Codex, Antigravity C
 > L17: 🐙 **Research, build, review, and ship — with twelve external providers checking the host's work.** Claude-native ha
-> L141: ```bash
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `c7f88954a533` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `af0238700529` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # vllm-project/vllm-omni
 
-⭐ 7,890 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/vllm-project/vllm-omni) · [官网](https://docs.vllm.ai/projects/vllm-omni) · 组织维护 · 中文 README
+⭐ 7,890 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/vllm-project/vllm-omni) · [官网](https://docs.vllm.ai/projects/vllm-omni) · 组织维护
 
-**面向全模态模型（文本/图像/音频/视频/动作）的高效推理与服务框架**
+**面向开发者的全模态模型推理与服务框架**
 
-vLLM-Omni 由 vLLM 社区发布，把 vLLM 的推理能力从文本自回归扩展到全模态：支持 DiT 等非自回归架构、异构多模态输出、全双工实时语音服务与机器人策略模型服务。机制上复用 vLLM 的 KV cache 管理，提供流水线阶段重叠、基于 OmniConnector 的全分离部署、张量/流水线/数据/专家并行、流式输出与 OpenAI 兼容 API server。集成 HuggingFace 上的 Qwen3-Omni、MiniCPM-o、MiniMax H3、π0 等模型；硬件覆盖 CUDA/ROCm/XPU/NPU/MUSA。需从源码或 Docker 镜像部署，安装细节在文档站。
+vLLM 官方社区发布的扩展框架，将 vLLM 从文本自回归生成扩展到全模态模型的推理与服务：支持文本、图像、音频、视频和动作数据处理，把 vLLM 的自回归支持延伸到 Diffusion Transformer 等非自回归架构。提供流水线阶段重叠执行、基于 OmniConnector 的全分离部署与跨阶段资源分配、张量/流水线/数据/专家并行、流式输出、全双工实时服务与 OpenAI 兼容 API 服务器。以 Python 框架形式分发，安装与部署细节见其文档，支持 CUDA/ROCm/XPU/NPU 等多种硬件后端。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ vLLM-Omni 由 vLLM 社区发布，把 vLLM 的推理能力从文本自回归扩�
 
 ## 能力要点
 
-- 全模态覆盖：文本、图像、音频、视频与动作数据处理与生成
-- 非自回归架构支持：扩展 vLLM 至 Diffusion Transformer 等并行生成模型
-- 全双工实时服务：流式音频输入输出
-- OpenAI 兼容 API server 与张量/流水线/数据/专家并行分布式推理
+- 扩展 vLLM 支持全模态模型（文本/图像/音频/视频/动作）的推理与部署
+- 支持 DiT 等非自回归架构与异构流水线抽象
+- 提供 OpenAI 兼容 API 服务器与全双工实时音频流服务
+- 支持张量、流水线、数据与专家并行及可选 Ray 多节点推理
 
 ## 适用场景
 
-- 部署 Qwen3-Omni、MiniCPM-o 等全模态对话与实时语音模型
-- 提供图像/视频/音频扩散模型的批量生成服务
-- 为机器人策略模型（π0、GR00T 等）搭建推理服务
+- 部署 Qwen3-Omni、MiniCPM-o 等全模态模型的在线服务
+- 提供 TTS、语音、图像/视频生成类模型的推理 API
+- 部署机器人策略与动作生成模型的服务端
+- 需要流式与全双工实时交互的多模态应用后端
 
 ## 场景标签
 
-`推理引擎` `多模态` · 领域:感知与多模态
+`推理引擎` `多模态` `图像生成` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L21: vLLM was originally designed to support large language models for text-based autoregressive generation tasks. vLLM-
-> L41: - OpenAI-compatible API server
+> L22: vLLM was originally designed to support large language models for text-based autoregressive generation tasks. vLLM-
+> L24: - **Omni-modality**: Text, image, audio, video, and action data processing
+> L42: - OpenAI-compatible API server
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `8c5e597284f3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b7987a3a3e1b` · [字段定义](../../DATASET.md)*

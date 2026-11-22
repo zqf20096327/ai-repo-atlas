@@ -2,9 +2,9 @@
 
 ⭐ 13,904 · JavaScript · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/mnfst/awesome-free-llm-apis) · 组织维护
 
-**永久免费 LLM API 清单：按提供商列出可用模型与限额**
+**为开发者提供永久免费层 LLM API 的清单**
 
-由 Manifest（manifest.build）维护的 awesome 清单，收录提供永久免费层级的 LLM API：按官方模型提供商（Cohere、Google Gemini、Mistral、Z AI 等）与第三方推理平台（Cloudflare Workers AI、Groq、Hugging Face、OpenRouter、Ollama Cloud、NVIDIA NIM 等）分组。每个条目给出 Base URL、免费额度条件、速率限制及模型表格（上下文长度、最大输出、模态）。README 声明所有端点默认兼容 OpenAI SDK，各链接指向提供商的 API key 页面，并在文内推广 Manifest 平台本身。清单不含本产品自身的安装步骤。
+Awesome 格式的清单，收录带永久免费层的文本推理 LLM API：分「Provider APIs」（模型公司自营）与「Inference providers」（第三方托管平台）两类，每个条目列出免费额度、是否需信用卡、原生与 OpenAI 兼容的 Base URL，以及模型名、上下文长度、最大输出、模态与速率限制的表格，并附 RPM/RPD/TPM 等术语表与贡献指南。面向需要获取免费 API key 的开发者。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖官方提供商与第三方推理平台两类共十余个免费 API 来源
-- 每个条目列出 Base URL、免费条件、速率限制与模型参数表
-- 声明所有端点默认 OpenAI SDK 兼容
-- 各条目附脚注引至提供商 API key 页面
+- 按 Provider APIs 与 Inference providers 两类组织条目
+- 每条列出免费额度、信用卡要求与 Base URL
+- 标注各模型上下文、模态与速率限制
+- 多数提供 OpenAI 兼容端点
 
 ## 适用场景
 
-- 为个人项目或 agent 原型寻找零成本的 LLM API
-- 比较各免费 API 的速率限制与上下文长度后选型
-- 查找无需信用卡即可申请的 API key 渠道
+- 为个人项目寻找免费额度的 LLM API
+- 对比各免费 API 的速率限制与模型覆盖
+- 接入 OpenAI 兼容端点做本地开发测试
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L9:  LLM APIs with permanent free tiers for text inference.
-> L27: APIs run by the companies that train or fine-tune the models themselves.
+> L39: ## Provider APIs
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `eea92be95133` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4a39145178e7` · [字段定义](../../DATASET.md)*

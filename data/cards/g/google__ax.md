@@ -2,9 +2,9 @@
 
 ⭐ 14,837 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/google/ax) · [官网](https://agentexecutor.io) · 组织维护
 
-**Google 的声明式 Agent 编排运行时，在集群中大规模运行 agent 任务**
+**Google 开源的集群级 agent 任务编排运行时**
 
-AX 是 Google 开源的声明式 agent 编排运行时，在 Kubernetes 集群上以 Agent Substrate 为沙箱执行层运行自主 agent 工作负载。核心原语为 Task（隔离沙箱运行不可信 agent 代码）、Workspace（预置 Git 仓库、MCP 服务器与技能包）、Model（配置平台使用的 LLM 及凭据），以 ax.io/v1alpha1 YAML 清单声明，通过 kubectl 风格的 CLI（apply/get/watch/ssh/suspend/resume）管理。CLI 用 go install 安装，控制面用 make deploy 部署，需自备集群、ko 与容器镜像仓库。README 声明项目处于重度开发阶段，可能引入破坏性变更。
+AX 是一个声明式编排器，用于在集群上运行大量自主 agent 工作负载：以 ax.io/v1alpha1 YAML 声明 Task、Workspace、Model、Gateway 四类原语，提供沙箱隔离、CPU/内存限制、Git 仓库与 MCP 服务器预接线、凭据注入、挂起/恢复与 ssh 查看。CLI 形态仿照 kubectl（apply/get/describe/delete），通过 gRPC 与控制面通信，支持本地 Kind 集群与已有 Kubernetes 1.37+ 集群部署，并可配合本地 Web 应用 AX Studio 使用。目标用户是需要规模化运行与治理 agent 任务的平台/基础设施开发者。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ AX 是 Google 开源的声明式 agent 编排运行时，在 Kubernetes 集群�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -27,25 +27,25 @@ AX 是 Google 开源的声明式 agent 编排运行时，在 Kubernetes 集群�
 
 ## 能力要点
 
-- Task/Workspace/Model 三原语，YAML 清单声明式管理 agent 任务
-- 沙箱化执行，带 CPU/内存限制与 ax ssh 侵入查看、suspend/resume 暂停恢复
-- kubectl 风格 CLI，支持多文档 YAML、kubectx 上下文切换
-- 设计目标为单集群运行海量（billions of）agent 任务
+- 声明式 YAML 定义 Task/Workspace/Model/Gateway 四类原语
+- 沙箱隔离运行不可信 agent 代码并限制 CPU/内存
+- ax suspend/resume 支持暂停与恢复任务状态
+- kubectl 风格 CLI，支持 kubectx 多集群切换
 
 ## 适用场景
 
-- 在 Kubernetes 集群中批量调度和隔离运行自主 agent
-- 为 agent 预置 Git 仓库、MCP 服务器与技能包的启动环境
-- 运维侧观察、暂停、恢复和排障运行中的 agent 任务
+- 在集群上批量运行并治理自主 agent 任务
+- 为不可信 agent 代码提供带资源限制的隔离沙箱
+- 统一管理 agent 可访问的主机与注入凭据
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L11: AX is a high-throughput, declarative orchestrator to run billions of autonomous agent workloads in a cluster. It ru
-> L30: Agents are a new kind of workload. They are neither stateless microservices nor run-to-completion batch jobs. They 
+> L9: **Declare an agentic task with workspaces and model specifications. AX sandboxes it, wires up its workspace, and hel
+> L11: AX is a highly efficient, declarative orchestrator to run millions of autonomous agent workloads in a cluster. It r
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4562b59d520a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e9cf6dafa9c7` · [字段定义](../../DATASET.md)*

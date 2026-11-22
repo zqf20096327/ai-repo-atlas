@@ -2,9 +2,9 @@
 
 ⭐ 4,594 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/flint-chart) · [官网](https://microsoft.github.io/flint-chart/) · 组织维护 · 中文 README
 
-**面向 AI agent 的可视化中间语言，把简洁图表规格编译为多后端图表**
+**让 AI agent 从人可编辑的 spec 可靠生成图表的可视化语言**
 
-Flint 是一种可视化中间语言：AI agent 或开发者给出简短、人类可编辑的图表语义规格（70+ 语义类型如 Rank/Price/Country），Flint 推导比例尺、坐标轴、布局、标签等决策，并编译为 Vega-Lite、ECharts、Chart.js、Plotly 原生规格或可编辑 Excel 图表。同一输入可切换多个后端，支持内置与自定义视觉主题。仓库含两个组件：TypeScript 库 flint-chart 与 MCP 服务器 flint-chart-mcp，后者供 GitHub Copilot、Claude 等 MCP 客户端中的 agent 在对话内创建、校验并渲染图表。限制：Python 包尚未发布（当前为源码预览），主题目前仅作用于 Vega-Lite 输出。
+Flint 是一种图表描述语言与编译器：spec 包含数据、语义类型、图表、主题与交互规格，编译器解析各部分并组合成后端所需完整 spec，减轻手写冗长低层配置的负担。可用作 MCP server 接入 agent（GitHub Copilot、Claude Code、Codex、Cursor 等），也可作为 npm 库嵌入应用；支持 52 种图表类型、5 种渲染后端（Vega-Lite、ECharts、Chart.js、Plotly、Excel）、14 主题预设与 23 交互预设。npm 安装，React 为可选 peer；Python 移植版处于预览阶段未发布。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Flint 是一种可视化中间语言：AI agent 或开发者给出简短、人�
 
 ## 能力要点
 
-- 一份语义规格编译到 Vega-Lite/ECharts/Chart.js/Plotly/Excel 五种后端
-- 70+ 语义字段类型与自动布局推导
-- 10 个内置视觉主题（Economist/Swiss/Pop 等），支持继承与覆盖
-- MCP 服务器供 agent 在对话内创建、校验、渲染图表，支持 PNG/SVG 输出
+- 52 种图表类型，同一 spec 编译到 5 种后端（Vega-Lite/ECharts/Chart.js/Plotly/Excel）
+- 字段携带 Rank/YearMonth/Delta 等语义类型，编译器据此推断解析、轴、格式与颜色
+- 14 主题预设（Economist、Swiss 等）可继承扩展品牌样式，23 种交互预设（brushing、hover 等）
+- 以 MCP server 接入 agent，返回实时图表或 PNG/SVG/后端原生 spec
 
 ## 适用场景
 
-- 让 AI agent 在对话中直接生成可交互图表
-- 用同一份图表规格在多个图表库间切换输出
-- 以主题系统统一品牌或刊物风格的图表呈现
+- 让编码 agent 在对话中按自然语言生成交互式图表
+- 在应用内用一份 spec 跨后端渲染图表
+- 按出版物或品牌风格统一图表外观
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ Flint 是一种可视化中间语言：AI agent 或开发者给出简短、人�
 
 ## 证据(README 行号)
 
-> L13: Flint is a visualization intermediate language that lets **AI agents turn
-> L28: - **`flint-chart-mcp`**: an MCP server that lets agents create, validate, and
-> L29:  render charts directly from a chat or coding environment.
+> L14: Flint lets AI agents **reliably create expressive, good-looking and interactive
+> L19: Use it as an MCP server with your
+> L21: app. Flint supports **52 chart types across 5 rendering backends**
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `497273b312c6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9c2e10bce68d` · [字段定义](../../DATASET.md)*

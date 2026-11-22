@@ -2,15 +2,15 @@
 
 ⭐ 15,759 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yc-software/qm) · [官网](https://labs.ycombinator.com/qm) · 组织维护
 
-**企业级多人共享 agent 运行框架，部署在自有云上，Slack 与网页使用**
+**团队多用户 agent 运行平台：Slack/Web 自托管部署**
 
-QM 是面向初创公司的多人 agent 运行框架：每位员工获得隔离工作区（独立记忆、文件、密钥视图、权限、定时任务、沙箱），同时可在 Slack 频道、群消息和项目中协作使用。核心以 TypeScript 运行在 Node 上，用 Postgres 持久化会话与状态，agent 通过固定工具面中的 execute 在持久沙箱执行命令。harness、模型、会话存储、沙箱、记忆均藏在接口之后可替换，部署配置集中在部署目录，由 qm CLI 校验并部署到运营者自己的云账户。提供 Strict/Auto/Dangerous 三档安全姿态与内容筛查、审计。
+QM 是面向团队的多用户 agent harness，可部署在自有云上并使用自有模型与密钥。每个人和房间拥有隔离的工作区，包含各自的记忆、文件、密钥视图、权限、定时任务与持久沙箱；同一身份与配置在 Slack 与 Web 间互通。核心为 TypeScript/Node 服务，依赖 Postgres 持久化，agent 通过固定的工具面（含 execute 在隔离沙箱中执行命令）工作，支持 cron、webhook 等后台任务。组织级提供三种安全姿态与命令策略、内容筛查配置，通过 qm CLI 初始化并部署到 AWS/Render/Fly 等目标。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,27 +26,26 @@ QM 是面向初创公司的多人 agent 运行框架：每位员工获得隔离�
 
 ## 能力要点
 
-- 个人与共享双作用域：每人和每个房间有独立的记忆、文件、权限与沙箱
-- harness 与模型可插拔，Pi 和 Claude Code 驱动同一核心
-- Strict/Auto/Dangerous 三档工具调用审批姿态与内容筛查、审计日志
-- 支持定时任务、监听与入站 webhook 等后台工作
+- 个人与共享作用域隔离：记忆、文件、权限、沙箱按 scope 划分
+- Slack 与 Web 双入口，同一身份与配置互通
+- 三种安全姿态（Strict/Auto/Dangerous）与命令策略、内容筛查
+- qm CLI 部署目录机制，支持 AWS/Render/Fly 目标与源码 fork 定制
 
 ## 适用场景
 
-- 让全公司员工在 Slack 里共享使用一个可协作的 agent
-- 在自有云账户中用自选模型部署企业内部 agent
-- 让 agent 检索内部笔记、邮件、数据库并按计划处理收件箱
-- 让 agent 在已有仓库中跑测试、开 PR、监控 CI
+- 团队在共享频道中与 agent 协作处理项目跟进
+- 让 agent 定时检索内部笔记、邮件、数据库并整理收件箱
+- 在现有代码仓库中跑测试、开 PR、监控 CI
+- 自托管部署并统一管理组织可用的模型与安全策略
 
 ## 场景标签
 
-`编码 Agent` `Agent 框架` · 领域:Agent 开发
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L3: **A multiplayer agent harness for work. In Slack and on the web.**
-> L74: Every turn runs through a central core, which can use a variety of models and harnesses
-> L89: `qm` CLI validates and deploys. Every substrate (harness, session
+> L3: **A multiplayer agent harness for teams. In Slack and on the web.**
+> L81: Every turn runs through a central core, which can use a variety of models
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `088e850bb9ed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `119d7f24006d` · [字段定义](../../DATASET.md)*

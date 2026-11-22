@@ -2,15 +2,15 @@
 
 ⭐ 11,376 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/skills) · [官网](https://huggingface.co) · 组织维护
 
-**给 AI 编程代理接入 Hugging Face 生态的技能包仓库**
+**为 AI agent 提供的 Hugging Face 生态技能定义集合**
 
-由 Hugging Face 维护的 Agent Skills 仓库：以标准化 SKILL.md 文件夹格式提供 20 余个技能，覆盖 Hub 操作（hf-cli 引导技能）、模型选择、数据集操作、训练微调（TRL/Unsloth/sentence-transformers）、评测、Spaces 部署、SageMaker 云部署规划等。客户端市场仅暴露 hf-cli，其余技能通过 `hf skills add` 安装或经 CLI/MCP 发现。兼容 Claude Code、Codex、Gemini CLI、Cursor 四类编码代理，另提供 AGENTS.md 回退方案。
+以标准 Agent Skills 格式（SKILL.md + YAML frontmatter）定义 AI/ML 任务技能，覆盖数据集创建、模型训练、评估、部署到 SageMaker、论文管理等场景。核心入口为 hf-cli 技能，教会 agent 使用全部 hf 命令操作 Hub。兼容 Claude Code、Codex、Gemini CLI、Cursor 四类客户端，通过插件市场注册、extensions 安装、symlink 或 hf skills add 方式分发；不支持技能的 agent 可回退使用 AGENTS.md。贡献者可用 publish.sh 重新生成清单。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 20 余个标准化 SKILL.md 技能，覆盖 Hub 操作、训练、评测、部署
-- hf-cli 为引导技能，由本地安装的 CLI 生成以保持最新
-- 兼容 Claude Code、Codex、Gemini CLI、Cursor 四类客户端
-- 技能可经 CLI/MCP 集成被技能感知客户端动态发现
+- hf-cli 技能从本地安装的 CLI 生成，覆盖全部 hf 命令
+- 24 个技能覆盖训练、评估、部署、论文、Spaces 等任务
+- 兼容 Claude Code/Codex/Gemini CLI/Cursor 四类客户端
+- 提供 AGENTS.md 作为不支持技能的 agent 的回退
 
 ## 适用场景
 
-- 让编码代理用自然语言调用 hf 命令管理模型与数据集
-- 为代理配置 Hugging Face 模型选择、训练与评测工作流
-- 通过 hf skills add 按需扩展代理的 HF 生态能力
+- 让编码 agent 直接搜索和管理 Hub 上的模型与数据集
+- 通过 agent 在 SageMaker 上规划并部署模型
+- 用 agent 估算模型所需 GPU 内存或运行评估
+- 训练或微调语言与视觉模型
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`编码 Agent` `微调` `模型训练` `模型评测` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3: Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. The clien
-> L12: In practice, skills are self-contained folders that package instructions, scripts, and resources together for an AI
-> L23: Hugging Face skills are compatible with Claude Code, Codex, Gemini CLI, and Cursor.
+> L5: The skills in this repository follow the standardized Agent Skills format.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7a0774411f29` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dc55d23c0a82` · [字段定义](../../DATASET.md)*

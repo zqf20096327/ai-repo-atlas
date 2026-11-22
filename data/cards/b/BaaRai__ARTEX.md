@@ -2,9 +2,9 @@
 
 ⭐ 14,911 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/BaaRai/ARTEX) · 个人维护
 
-**自托管多 Agent 自主渗透测试平台，发现绑定证据链**
+**自托管多 Agent 自主渗透测试平台：产出带证据的发现**
 
-ARTEX 是自托管的 LLM 驱动渗透测试平台：planner 将目标分解为 intent，worker 用真实工具执行并把资产/事实/发现写回资产图与探索图两张关联图。每个发现可绑定捕获的 HTTP 请求/响应作为证据，自主动作经范围门、人工审批门与 token/轮次预算约束。单个 Go 二进制内嵌 Next.js UI，需 PostgreSQL，LLM 端点自配；无预构建镜像，需从本地检出构建。
+ARTEX 是一个自托管、LLM 驱动的渗透测试平台：规划器将目标拆解为意图，worker 用真实工具执行并回写资产图与探索图两张关联图谱；每个发现可绑定捕获的请求/响应证据，所有自主动作经过范围规则、人工审批门与预算限制。单个 Go 二进制内嵌 Next.js UI，需 PostgreSQL；LLM 端支持 Anthropic、OpenAI 兼容端点或本地 Ollama，无预构建 Docker 镜像，从检出代码构建。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ ARTEX 是自托管的 LLM 驱动渗透测试平台：planner 将目标分解为 
 
 ## 能力要点
 
-- 双图架构：共享资产图 + 每任务探索图，锚点互联并支撑覆盖统计
-- 录流 MITM 代理与浏览器扩展捕获流量，发现绑定到原始请求/响应
-- 人工审批门、argv 前缀规则、范围/预算限制与不可信输出边界
-- 支持 Anthropic、OpenAI 兼容中转与本地 Ollama，多配置轮换与故障转移
+- 双图架构：资产图 + 每任务探索图，锚点关联
+- MITM 代理与浏览器扩展捕获流量作为发现证据
+- 人工审批门、argv 前缀规则、token/轮次预算控制自主性
+- 多 LLM 配置轮换与自动故障转移，支持 MCP 服务器扩展
 
 ## 适用场景
 
-- 对授权目标执行自主化渗透测试并保留完整审计链
-- 漏洞复测：retester agent 重新验证发现是否可复现或已修复
-- 企业级资产图管理与测试覆盖可视化
-- 与 ScopeSentry 同步资产数据后交给 agent 探索
+- 对授权范围内的目标执行自主渗透测试并留存证据链
+- 复测漏洞是否已修复并自动更新发现状态
+- 公司级资产图谱管理与测试覆盖度可视化
 
 ## 场景标签
 
@@ -39,8 +38,7 @@ ARTEX 是自托管的 LLM 驱动渗透测试平台：planner 将目标分解为 
 ## 证据(README 行号)
 
 > L19: ARTEX is a self-hosted, LLM-driven penetration testing platform. It is not a chat wrapper around
-> L9: Self-hosted multi-agent offensive security. A planner explores, workers run real tools,
-> L33: - **Self-hosted and model-agnostic.** One Go binary with the Next.js UI embedded, PostgreSQL,
+> L23: justify it, and every autonomous action passes through scope rules, approval gates and budgets.
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `c031349979c1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1961a70640be` · [字段定义](../../DATASET.md)*

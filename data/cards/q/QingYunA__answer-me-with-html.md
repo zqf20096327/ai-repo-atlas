@@ -4,42 +4,41 @@
 
 **让 AI Agent 用一页可读 HTML 回答复杂问题的技能**
 
-面向 Claude Code、Codex、Cursor、OpenCode 等 agent 的技能插件：模型只写一份简短 Markdown 草稿，随技能附带的 CLI（约 50 ms）负责模板选择、面板布局、主题与图表坐标绘制，生成单文件离线 HTML 页面。README 给出 token 统计：模型仅需手写 HTML 约 1/8 的输出。附带 CLI 由 Node.js 20+ 运行，支持 3b1b 风格讲解视频、三套主题、always-on 模式与中/英/日界面。更新为手动，页面堆积在 ~/.answer-me-with-html/ 下可用 am clean 清理。
+一个可安装到 Claude Code、Codex、Cursor 等 agent 的技能：模型只需写约 1/8 的 Markdown 草稿，随技能附带的 CLI 负责模板选择、面板布局、主题、SVG 坐标与流程图排布，生成含序列图、状态图、对比表、代码等的一页 HTML，存于 ~/.answer-me-with-html/pages/。支持 always-on 模式让每条结论附带页面，可生成带旁白的解释视频（导出 MP4 需 ffmpeg）。运行需 Node.js 20+，无需 npm install 步骤。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 模型只写 Markdown 草稿，CLI 负责布局与 SVG 坐标绘制，输出约为手写 HTML 1/8 的 token
-- 单文件离线 HTML 页面，无 CDN 与网络字体依赖
-- 3b1b 风格讲解视频生成（浏览器内编码导出，MP4 需 ffmpeg）
-- 三套主题（blueprint/shadcn/paper）与中简/中繁/英/日界面
+- 模型只写 Markdown 草稿，SVG/CSS/HTML 由 CLI 生成，输出 token 约为手写 HTML 的 1/8
+- 支持序列图、流程图、时间线、对比表等多种面板，布局由 dagre 等计算得出
+- 草稿有错时 CLI 返回行号与正确示例，agent 可一次修正
+- 可生成 3b1b 风格解释视频，WebM 在浏览器内编码无需 ffmpeg
 
 ## 适用场景
 
-- 让 agent 把复杂解释输出为带时序图、流程图的页面而不是长段文字
-- 整理仓库模块结构或做技术选型对比的可视化回答
-- 生成 3Blue1Brown 风格的讲解视频
+- 让 agent 解释多步流程或多概念问题并产出可视化页面
+- 技术选型对比（如缓存方案）得到带结论的比较表页
+- 为复杂主题生成可离线播放的分步讲解视频
 
 ## 场景标签
 
-`视频生成` · 领域:内容生成
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L9:  An agent skill. Ask a hard question, get a page you can actually read instead of a wall of text. The model writes a
-> L64: Paste this into Claude Code, Codex, Cursor, OpenCode or any other agent:
-> L180: So Answer me with HTML takes that work away from the model. The model writes content. The CLI handles layout, colo
+> L19:  An agent skill. Ask a hard question, get a page you can actually read instead of a wall of text. The model writes 
+> L38: The agent writes a short Markdown draft and hands it to the CLI that ships with the skill. About 50 ms later you ha
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `a104f5054e61` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e1e286c419ff` · [字段定义](../../DATASET.md)*

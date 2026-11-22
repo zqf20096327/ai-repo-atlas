@@ -2,15 +2,15 @@
 
 ⭐ 22,297 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/google/adk-python) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
-**面向开发者的代码优先 Python AI Agent 构建与部署框架**
+**面向开发者的构建、评估与部署 AI Agent 的 Python 框架**
 
-Google 开源的 Python 工具包，将软件工程方法应用于 AI Agent 开发：提供图式执行引擎（支持路由、循环、状态管理、human-in-the-loop）、多 Agent 层级组合、Task API 结构化委派，以及覆盖预置工具/自定义函数/OpenAPI/MCP 的工具生态。代码优先定义 Agent，另支持无代码的 Agent Config。内置 CLI、Web 开发 UI 与评估命令；可容器化部署到 Cloud Run 或 Vertex AI Agent Engine。要求 Python 3.11+。
+Agent Development Kit（ADK）是 Google 维护的开源、代码优先 Python 框架，覆盖 Agent 的构建、评估与部署全流程。核心机制包括：图执行引擎支持路由、扇出/扇入、循环、重试、状态管理与人在环；Task API 提供结构化 Agent 间委托；可组合多 Agent 层次结构，工具生态支持预构建工具、自定义函数、OpenAPI 规范与 MCP 工具。对 Gemini 做了优化，同时模型无关、部署无关。要求 Python 3.11+，附带内置开发 UI 与 adk CLI（运行、Web UI、评估、部署）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,20 +27,20 @@ Google 开源的 Python 工具包，将软件工程方法应用于 AI Agent 开�
 
 ## 能力要点
 
-- 图式工作流引擎：路由、fan-out/fan-in、循环、重试、状态管理、human-in-the-loop
-- 模块化多 Agent 系统与 Task API 结构化委派
-- 工具生态覆盖预置工具、自定义函数、OpenAPI、MCP
-- 内置开发 UI、评估命令与 docker/cloud_run 部署命令
+- 图执行引擎：路由、扇出/扇入、循环、重试、状态管理与人在环
+- Task API 结构化 Agent 间委托，支持多轮任务与单轮受控输出
+- 工具生态：预构建工具、自定义函数、OpenAPI 规范与 MCP 工具
+- 内置开发 UI 用于测试、评估、调试 Agent，adk eval 提供评估样例
 
 ## 适用场景
 
-- 用 Python 代码构建并编排多 Agent 工作流
-- 本地或云端部署并调试 AI Agent 应用
-- 对 Agent 行为进行评估测试
+- 用 Python 代码优先的方式构建多 Agent 工作流
+- 容器化部署 Agent 到 Cloud Run 或本地 Docker
+- 用评估集对 Agent 行为做自动化评测
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`Agent 框架` `多智能体` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `17181f54bb09` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `af322adde6ad` · [字段定义](../../DATASET.md)*

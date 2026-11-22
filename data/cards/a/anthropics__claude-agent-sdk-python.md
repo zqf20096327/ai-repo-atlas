@@ -2,9 +2,9 @@
 
 ⭐ 8,611 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/claude-agent-sdk-python) · 组织维护
 
-**Anthropic 官方 Python SDK，用于构建和驱动 Claude Code agent**
+**给 Python 开发者的 Claude Agent SDK，接入 Claude Code 构建智能体**
 
-Python SDK，封装 Claude Code CLI（随包捆绑分发，无需单独安装），供开发者在 Python 应用中查询与控制 Claude agent。提供 query() 异步迭代接口与 ClaudeSDKClient 双向交互客户端；支持 allowed_tools/disallowed_tools 权限控制、以进程内 SDK MCP Server 形式定义 Python 自定义工具（可与外部 MCP Server 混用）、在 agent 循环特定节点调用的 hooks、系统提示词配置与子代理/会话分叉。要求 Python 3.10+，经 pip 安装，受 Anthropic 商业服务条款约束。
+Anthropic 官方的 Python SDK，封装对 Claude Code 的调用：query() 异步函数返回消息流，ClaudeSDKClient 支持双向交互对话，并可用 Python 函数定义自定义工具（进程内 SDK MCP 服务器）与 hooks（在 agent 循环特定点触发确定性处理）。默认捆绑 Claude Code CLI 无需单独安装，也可指定系统安装路径。要求 Python 3.10+，通过 pip 安装，使用受 Anthropic 商业服务条款约束。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Python SDK，封装 Claude Code CLI（随包捆绑分发，无需单独安装）
 
 ## 能力要点
 
-- query() 与 ClaudeSDKClient 两种调用接口，后者支持双向交互会话
-- 自定义工具以进程内 SDK MCP Server 实现，无需子进程与 IPC
-- Python 函数形式的 hooks，在 agent 循环节点做确定性处理
-- Claude Code CLI 随 wheel 捆绑，开箱即用，也可指定自定义路径
+- query() 异步接口返回 AsyncIterator 消息流
+- ClaudeSDKClient 支持双向交互与自定义工具/hooks
+- 自定义工具以进程内 SDK MCP 服务器实现，无需子进程
+- pip 包自动捆绑 Claude Code CLI，可自定义 cli_path
 
 ## 适用场景
 
-- 在 Python 应用中嵌入 Claude agent 完成读写文件、执行命令等任务
-- 为 Claude 定义 Python 自定义工具并控制工具权限
-- 用 hooks 拦截与审计 agent 的工具调用行为
+- 用 Python 脚本调用 Claude Code 执行文件读写等任务
+- 为 agent 注册自定义 Python 工具与生命周期 hooks
+- 构建流式交互式 agent 应用
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ Python SDK，封装 Claude Code CLI（随包捆绑分发，无需单独安装）
 
 ## 证据(README 行号)
 
+> L1: # Claude Agent SDK for Python
 > L3: Python SDK for Claude Agent. See the Claude Agent SDK documentation for more information.
-> L31: `query()` is an async function for querying Claude Code. It returns an `AsyncIterator` of response messages. See sr
+> L75: `ClaudeSDKClient` supports bidirectional, interactive conversations with Claude
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `5ad4c4ba6fee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d18c1252c457` · [字段定义](../../DATASET.md)*

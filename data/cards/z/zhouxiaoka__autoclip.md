@@ -2,9 +2,9 @@
 
 ⭐ 12,776 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zhouxiaoka/autoclip) · [官网](https://zhouxiaoka.github.io/autoclip_intro/) · 个人维护 · 中文 README
 
-**AI 视频剪辑桌面工具：贴链接把长视频自动剪成多平台短视频**
+**贴链接一键将长视频自动剪成短视频的桌面工具**
 
-开源桌面应用（另有 Docker/Web 与 CLI/MCP 形态）：粘贴链接后按平台（抖音、小红书、TikTok、Reels、Shorts、B 站、YouTube）的画幅与时长要求自动生成至多 10 条片段，每条附封面、标题、简介与 ZIP 发布包。剪辑、取景与渲染在本机完成；分析模型可选云端 API（OpenAI 兼容、自填 Key）或 Ollama/LM Studio 本地模型，字幕可用作者字幕、本地 Whisper/SenseVoice 或云端转写。软件免费 MIT，云端模型按量计费。个人维护。
+AutoClip 是开源（MIT）视频剪辑工具：贴入视频链接后按目标平台画幅与时长自动生成片段、字幕、封面与发布文案，输出 ZIP 发布包，适配抖音、小红书、TikTok、Reels、Shorts、B 站与 YouTube。剪辑、取景与渲染在本机完成；分析模型可用云端 API 或 Ollama / LM Studio 本地模型，字幕可用作者字幕、本地 Whisper / SenseVoice 或云端转写。提供桌面版（macOS Apple Silicon / Windows x64）、Docker 部署与 CLI / MCP 三种使用方式，桌面安装包自带 Python 与 FFmpeg。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- 按平台规则自动选段，每条片段附封面、文案与 ZIP 发布包
-- 剪辑与渲染在本地完成，分析模型可选云端或 Ollama/LM Studio 本地
-- 字幕支持作者字幕、本地 Whisper/SenseVoice 与云端转写
-- 提供桌面版、Docker/Web、CLI 与 MCP 三种使用形态
+- 贴链接自动生成至多 10 条片段及封面、标题、简介、话题与 ZIP 发布包
+- 本地 Whisper / SenseVoice 或云端转写，本地分析无需云端 API
+- 桌面、CLI 与 MCP 共用同一出片链路，支持接入 Agent
+- 按平台自动选择竖版访谈式/满屏播客式等版式，画面跟随说话人
 
 ## 适用场景
 
-- 把播客、访谈、课程长视频剪成多平台短视频
-- 批量处理视频素材或通过 Agent/CLI 自动化出片
-- 无字幕素材自动转写并生成字幕与发布文案
+- 把播客、访谈、课程长视频批量剪成平台短视频
+- 为每条片段自动配字幕、封面和发布文案
+- 在 Linux 上自建 Web 服务或通过 MCP 接入 Agent 批量出片
 
 ## 场景标签
 
-`图像视频处理` `语音识别` `AI 写作` · 领域:内容生成
+`视频生成` `AI 写作` `语音识别` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L7: 开源，在你的电脑上剪辑与渲染。贴一个链接，选好平台，生成 视频、封面和发布文案 ，
-> L120: 选好平台，按平台的画幅与时长要求自动生成。每个平台按评分自动生成至多 10 条合格片段，其余列为备选，点「生成这条」再制作。每条都带封面、标题、简介、话题和 ZIP 发布包。
 > L128: 剪辑、取景与渲染在本机完成。分析模型自选，字幕可用作者字幕、本地 Whisper / SenseVoice 或已配置的云端转写。CLI / MCP 与桌面共用同一条一键出片链路。
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `fa3b2f1be090` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f6bb48fd0922` · [字段定义](../../DATASET.md)*

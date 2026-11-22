@@ -2,9 +2,9 @@
 
 ⭐ 4,324 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/SkillEvaluator) · [官网](https://docs.nvidia.com/skills/skillevaluator/) · 组织维护
 
-**面向开发者的 AI agent 技能评测框架：三层流水线+质量门**
+**给 AI agent 技能与插件做质量/安全/效果评测的 CLI 框架**
 
-NVIDIA 开源的多层评测框架，针对 Agent Skills 规范的技能产物（含 SKILL.md 的目录）：Tier 1 做确定性校验与安全扫描（Semgrep/SkillSpector/Gitleaks，LLM 检查需配置 provider），Tier 2 做技能内及跨技能目录的语义重叠检测（需 embeddings），Tier 3 在 Docker 沙箱中以配对有无技能实验（Skill Lift）评测技能对 agent 行为的影响，并生成合成评测数据集。它是 NVIDIA Verified Skills 流水线的组成部分。CLI 经 uv 从 GitHub 源安装，Tier 3 需 provider 访问与支持的 agent 运行时，实时调用可能产生费用。
+NVIDIA 出品的评测框架，按三层流水线检查 agent 技能：Tier 1 静态验证（500+ 规则，覆盖质量、schema、PII、许可、安全扫描，接入 SkillSpector/Gitleaks/Bandit/Semgrep/pip-audit）与 harness 兼容性检查；Tier 2 用嵌入与聊天做语义去重/重叠检测；Tier 3 在 Docker 沙箱中用 Harbor 运行真实 agent，对比有/无技能的任务结果以度量技能增益。Tier 1 无需 API key；全层需 NVIDIA Build 密钥。提供 GitHub/GitLab 可复用 CI 模板。
 
 ## 筛选速览
 
@@ -12,35 +12,34 @@ NVIDIA 开源的多层评测框架，针对 Agent Skills 规范的技能产物�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Tier 1/2/3 可独立或组合运行（validate 自动驾驶模式）
-- Tier 3 配对有无技能实验（Skill Lift），基于论文方法
-- Tier 3 在 Docker 沙箱运行 provider 原生 agent，安全隔离
-- 支持 NVIDIA Build/OpenAI/Anthropic/openai-compatible 网关
+- 三层流水线：静态验证、语义去重、live agent 效果评测（skill lift）
+- 500+ 静态规则与检测模式，Tier 1 无需 API key/GPU/Docker
+- Harness Check 判定技能能否被 claude-code、codex 等 agent 加载
+- GitHub/GitLab 可复用 CI 模板与 skillevaluator ci init 一键接入
 
 ## 适用场景
 
-- 发布前校验自研 agent 技能的安全性与结构合规
-- 检测技能库内重复或重叠的指导内容
-- 量化技能对 agent 行为的实际增益
-- 生成合成评测数据集
+- 合并技能 PR 前用 CI 质量门禁拦截质量与安全问题
+- 检测多个技能文件之间的重复或重叠指引
+- 上线前用真实 agent 运行验证技能是否带来任务提升
 
 ## 场景标签
 
-`模型评测` `网络安全` · 领域:评测与运维
+`模型评测` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L13: SkillEvaluator is an open-source, multi-tier framework for evaluating AI agent
-> L41: SkillSpector provides Tier 1 security
-> L90: - **Tier 3** creates one starter evaluation case if no dataset or task source
+> L17: SkillEvaluator checks AI agent skills and plugins, and measures a skill's effect
+> L26: Agent Skills specification. SkillEvaluator is part of
+> L207: |Tier 1: Validation|Is the skill safe, well-formed and harness-compatible?|`skillevaluator tier1 ./my-skill --no-l
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9147ed7062e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `3b30fe7a4ace` · [字段定义](../../DATASET.md)*

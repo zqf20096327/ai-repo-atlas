@@ -2,15 +2,15 @@
 
 ⭐ 29,016 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/huggingface/lerobot) · [官网](https://huggingface.co/docs/lerobot) · 组织维护 · 中文 README
 
-**为机器人提供模型、数据集与工具的开源库**
+**机器人端到端学习的 PyTorch 库：模型、数据集与工具**
 
-Hugging Face 的机器人学 PyTorch 库：提供统一的 Robot 硬件控制接口（覆盖 SO100、LeKiwi、Reachy2 等原生支持型号）、托管于 HF Hub 的 LeRobotDataset 数据格式（Parquet+MP4）及配套工具、纯 PyTorch 实现的策略模型（涵盖模仿学习、强化学习、VLA、世界模型、奖励模型五类），并提供 lerobot-train 与 lerobot-eval 训练评估脚本，支持 LIBERO、MetaWorld 基准。通过 lerobot_ 前缀包名机制自动发现社区硬件插件。面向机器人研究者与开发者。
+面向真实世界机器人的 PyTorch 库，提供三部分：硬件无关的 Robot 统一控制接口（覆盖 SO101、Unitree G1、LeKiwi 等设备，可通过插件扩展）；托管在 Hugging Face Hub 上的 LeRobotDataset 标准数据格式（Parquet + MP4），附带数据切分、合并等工具；以及模仿学习、强化学习、VLA、世界模型、奖励模型等策略的纯 PyTorch 实现，含训练脚本与仿真评测（LIBERO、MetaWorld）。面向机器人开发者与研究者，通过 PyPI 安装并按需加载 extras。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,27 +26,26 @@ Hugging Face 的机器人学 PyTorch 库：提供统一的 Robot 硬件控制接
 
 ## 能力要点
 
-- 统一 Robot 类接口解耦控制逻辑与硬件，原生支持 SO100、LeKiwi、Unitree G1 等设备
-- LeRobotDataset 标准数据格式托管于 HF Hub，支持流式读取与可视化
-- 提供五类策略模型：模仿学习、强化学习、VLA、世界模型、奖励模型
-- 社区硬件插件按包名前缀自动发现与接入
+- 统一 Robot 接口，硬件无关地控制多种机械臂与人形机器人
+- LeRobotDataset 标准格式（Parquet+MP4）托管于 Hugging Face Hub
+- 实现 ACT、Diffusion、Pi0、GR00T N1.7、SmolVLA 等策略及 lerobot-train 训练脚本
+- lerobot-eval 支持 LIBERO、MetaWorld 等基准评测，第三方硬件插件自动发现
 
 ## 适用场景
 
-- 为低成本的机械臂采集、训练和部署操作策略
-- 在 LIBERO、MetaWorld 基准上评估策略
-- 在 Hub 上存储与共享大规模机器人数据集
-- 接入第三方机械臂等硬件并录制遥操作数据
+- 为低成本机械臂采集、训练并部署操作策略
+- 在 LIBERO/MetaWorld 仿真基准中评测策略
+- 将机器人数据集以标准格式发布到 Hugging Face Hub
+- 通过插件接入自定义机器人本体进行遥操作与数据记录
 
 ## 场景标签
 
- · 领域:机器人/机器学习
+`模型评测` `强化学习` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L12: **LeRobot** aims to provide models, datasets, and tools for real-world robotics in PyTorch. The goal is to lower th
-> L47: **Supported Hardware:** SO100, LeKiwi, Koch, HopeJR, OMX, EarthRover, Reachy2, Gamepads, Keyboards, Phones, OpenARM
-> L72: LeRobot implements state-of-the-art policies in pure PyTorch, covering Imitation Learning, Reinforcement Learning, 
+> L74: LeRobot implements state-of-the-art policies in pure PyTorch, covering Imitation Learning, Reinforcement Learning, 
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `57c3c7ba757c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4c4ce4a0d537` · [字段定义](../../DATASET.md)*

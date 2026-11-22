@@ -2,15 +2,15 @@
 
 ⭐ 7,159 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/TokenRhythm/opensquilla) · [官网](https://opensquilla.ai) · 组织维护 · 中文 README
 
-**Token 高效微内核 AI agent：本地模型路由按回合选最便宜可用模型**
+**面向 CLI/Web/聊天渠道的省 token 微内核 AI Agent**
 
-面向 CLI、Web UI 与聊天频道的微内核 AI agent：核心机制是本地 SquillaRouter 模型路由器，将每一轮对话发给能处理的最低成本模型，辅以持久记忆、分层沙箱、内置网络搜索与端侧 embeddings，所有入口共享同一回合循环。可插拔 provider 层接入 TokenRhythm、OpenRouter、OpenAI、Anthropic、Ollama、DeepSeek、Gemini、通义千问/DashScope 等 20+ 供应商。当前稳定版 0.5.6，提供桌面安装包（macOS arm64 / Windows x64）、uv wheel 安装与源码安装三条路径；终端安装路径在 Windows/macOS 上可能需手动补装 VC++ 运行库或 libomp（缺失时回退单模型直连路由）。
+OpenSquilla 是一个微内核架构的 AI Agent，提供 CLI、Web UI 与聊天渠道三类入口，统一走同一个共享回合循环。本地模型路由器（SquillaRouter）按每轮对话把请求发给能胜任的最低成本模型；配套持久记忆、分层沙箱、内置网页搜索与端到端嵌入。可插拔 provider 层接 TokenRhythm、OpenRouter、OpenAI、Anthropic、Ollama、DeepSeek 等 20+ 模型服务。支持 Windows/macOS/Linux，桌面安装包、uv 终端安装与源码构建三条路径；Windows 路由器 ONNX 运行时需 Visual C++ 运行时，macOS 终端安装可能需 libomp。Apache 2.0 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 本地 SquillaRouter 按回合路由到最低成本可用模型，附带 ONNX/LightGBM 运行时
-- 可插拔 provider 层支持 OpenAI/Anthropic/Ollama/DeepSeek/Gemini 等 20+ 供应商，配置 schema 不变
-- CLI、Web UI、聊天频道（飞书/Telegram/DingTalk/QQ/企业微信/Slack/Discord 等）共用同一回合循环与决策日志
-- 持久记忆、分层沙箱、内置网络搜索与端侧 embeddings
+- 本地模型路由器按轮次选择最低成本可用模型
+- CLI/Web UI/聊天渠道共用同一回合循环与决策日志
+- 可插拔 provider 层支持 20+ LLM 服务商且不改代码与配置
+- 多渠道接入：飞书、Telegram、钉钉、QQ、企业微信、Slack、Discord 等
 
 ## 适用场景
 
-- 在 CLI 或桌面端用同一个 agent 覆盖多种 LLM 供应商并控制 token 成本
-- 通过飞书/Telegram/DingTalk 等聊天频道使用 agent 功能
-- 让日常 agent 流量经路由器积累数据形成自我改进的路由策略
+- 在固定 token 预算下运行个人 AI Agent 日常任务
+- 把同一个 Agent 接入飞书/钉钉/Slack 等聊天渠道
+- 本地路由多模型服务以降低调用成本
 
 ## 场景标签
 
-`模型网关` `AI 助手` · 领域:Agent 开发
+`模型网关` `Agent 框架` `AI 助手` `聊天机器人` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L6:  A microkernel AI agent for your CLI, Web UI, and chat channels.
+> L31: identically everywhere. A pluggable provider layer speaks to
 > L24: OpenSquilla is a token-efficient, microkernel AI agent. A local model
-> L25: router sends each turn to the cheapest model that can handle it, while
-> L32: TokenRhythm, OpenRouter, OpenAI, Anthropic, Ollama, DeepSeek, Gemini,
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `c8e8ba139dac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c3c2f2d3d70e` · [字段定义](../../DATASET.md)*

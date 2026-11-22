@@ -2,15 +2,15 @@
 
 ⭐ 16,321 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/tracel-ai/burn) · [官网](https://burn.dev) · 组织维护
 
-**给 Rust 开发者的训练+推理统一张量库与深度学习框架**
+**面向 Rust 开发者的深度学习框架与张量库**
 
-Burn 是同时作为张量库与深度学习框架的 Rust 项目，通过统一 API 执行多平台张量运算，使训练代码与生产部署代码一致。基于 CubeCL 的后端覆盖 CUDA、ROCm、Metal、Vulkan、WebGPU 及 CPU，并可通过 autodiff、kernel fusion、remote 执行等装饰器组合；同一应用内可启用多后端并在运行时选择设备。提供训练 TUI 仪表盘、burn-onnx 导入、PyTorch/Safetensors 权重加载及 WebAssembly 浏览器推理。LibTorch 后端在 0.22.0 起废弃并已从 main 移除。
+用 Rust 编写的张量库与深度学习框架，统一训练与推理：同一份模型代码可在云、桌面、嵌入式与浏览器（WebAssembly/WebGPU）执行，避免训练后导出 ONNX 等中间格式带来的损失。机制上通过 JIT 编译张量操作实现自动 kernel fusion，提供 autodiff、fusion、remote 执行等后端装饰器，可在 CUDA/ROCm/Metal/Vulkan/WebGPU/CPU 后端间切换，并支持从 PyTorch、Safetensors、ONNX 导入权重。LibTorch 后端已在 0.22.0 弃用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -25,27 +25,27 @@ Burn 是同时作为张量库与深度学习框架的 Rust 项目，通过统一
 
 ## 能力要点
 
-- 单一统一 API 覆盖训练与推理，多平台后端可运行时切换
-- JIT 编译张量运算流并自动 kernel fusion
-- autodiff、fusion、remote 后端装饰器可组合
-- burn-onnx 将 ONNX 模型转成原生 Rust 代码
+- 训练与推理统一代码路径，支持设备端个性化与联邦学习类负载
+- 多后端（CUDA/ROCm/Metal/Vulkan/WebGPU/CPU/no_std）同一 API 可切换
+- autodiff 与 kernel fusion 作为后端装饰器组合使用
+- burn-onnx 导入 ONNX 模型为原生 Rust 代码，支持 PyTorch/Safetensors 权重加载
 
 ## 适用场景
 
-- 在 Rust 中从原型到部署用同一套代码训练和运行模型
-- 把 PyTorch/TensorFlow 导出的 ONNX 模型迁到 Rust 后端运行
-- 在浏览器（WebAssembly）或嵌入式设备上做推理
-- 云端训练后部署到用户不同硬件设备上
+- 用 Rust 从原型到部署训练和运行神经网络
+- 在浏览器或嵌入式设备上运行模型推理
+- 将 PyTorch/TensorFlow 模型经 ONNX 迁移到 Rust 技术栈
+- 跨 CUDA/AMD/Apple GPU 与 CPU 训练同一份模型代码
 
 ## 场景标签
 
-`模型训练` `推理引擎` · 领域:训练与推理
+`推理引擎` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L9: **Burn is both a tensor library and a deep learning framework, optimized for numerical
-> L17: Burn unifies the two. By executing multi-platform tensor operations via a single, unified API, the
-> L50: Burn's CubeCL backends (CUDA, ROCm, Metal, Vulkan, WebGPU,
+> L13:  A tensor library and deep learning framework for numerical computing, training and inference.
+> L20: Burn unifies the two. By executing multi-platform tensor operations via a single, unified API, the
+> L25: Burn preserves the intuitive ergonomics of PyTorch, with dynamic shapes and graphs, but JIT-compiles
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f25f7cba1eaf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f9a6b0e2098d` · [字段定义](../../DATASET.md)*

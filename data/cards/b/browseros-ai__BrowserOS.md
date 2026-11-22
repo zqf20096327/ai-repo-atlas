@@ -2,15 +2,15 @@
 
 ⭐ 14,441 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
 
-**给 AI agent 用的第二浏览器：代理执行登录态网页任务**
+**开源 agentic 浏览器：让 AI agent 用真实登录态执行网页任务**
 
-一个面向 AI agent 的浏览器：从 Chrome 一键导入登录态、书签与扩展，连接 Claude Code、Codex、Cursor 等任意 MCP 协议的 agent，让 agent 在独立标签页并行执行网页任务；提供实时仪表盘、会话录像回放（含动作时间线）与本地存储（~/.browserclaw/）。基于 Chromium fork，数据不出本机。与内置 AI 的 BrowserOS 由同一 monorepo 发布。AGPL-3.0 许可。
+基于 Chromium fork 的第二浏览器，定位为给 AI agent 使用而非替代 Chrome：一键导入 Chrome 登录态、书签与扩展，通过 MCP 连接本机的 Claude Code、Codex、Cursor 等代理工具，代理在各自标签页并行执行网页任务。提供实时任务面板、会话录像回放与操作时间线，数据本地存储于 ~/.browserclaw/，支持 macOS/Windows/Linux 安装包。README 明确其非无头驱动器、非云浏览器路线，使用 AGPL-3.0 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,26 +27,27 @@
 
 ## 能力要点
 
-- 一键连接 Claude Code、Codex、Cursor、VS Code 等支持 MCP 的 agent
-- 从 Chrome 一键导入登录态，agent 以真实账号执行任务
-- 会话保存为可拖动回放的视频并附动作时间线
-- 会话、截图、历史本地存储，数据不上传
+- 通过 MCP 一键连接本机任意 agent 工具（Claude Code、Codex、Cursor、VS Code、Zed 等）
+- 一键导入 Chrome 登录态，agent 以真实账号执行任务
+- 并行 agent 各自独立标签页运行，附实时面板与会话录像回放
+- 本地运行、数据不出本机（可关闭匿名遥测）
 
 ## 适用场景
 
-- 让 agent 用我的登录账号订机票、发社媒、清理收件箱
-- 并行给多个 agent 派发网页任务并回放审查操作过程
-- 需要登录态的浏览器自动化而非 CI 无头场景
+- 让 agent 在我已登录的账号下订机票、发社媒、清理邮箱
+- 在真实浏览器环境中并行跑多个 agent 网页任务
+- 回放录像核查 agent 每一步网页操作
+- 维护一个专门供 agent 使用、与日常 Chrome 隔离的浏览器
 
 ## 场景标签
 
-`浏览器自动化` · 领域:浏览器/AI 基础设施
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L21: A second browser, just for your AI agents. Import your logins from Chrome in one click, connect Claude Code, Codex,
 > L86: - **Not a locked-in AI browser.** Atlas, Comet, and Dia only work with their own AI. BrowserOS neo works with the a
-> L121: Both browsers ship from this monorepo. Two main subsystems: the **browser** (Chromium fork, C++ and Python) and th
+> L97: Yes. BrowserOS neo is a Chromium fork, so Chrome extensions work and your bookmarks, passwords, and settings import
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3170d3c173e3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a8cc02aa777d` · [字段定义](../../DATASET.md)*

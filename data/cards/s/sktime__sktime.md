@@ -2,9 +2,9 @@
 
 ⭐ 10,100 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/sktime/sktime) · [官网](https://www.sktime.net) · 组织维护
 
-**Python 时间序列机器学习统一框架：预测/分类/聚类/检测**
+**时间序列机器学习统一框架：预测/分类/异常检测统一 API**
 
-面向时间序列任务的 Python 机器学习库，为预测、时间序列分类、回归、聚类、异常/变点检测等任务提供统一接口。包含专用时间序列算法与 scikit-learn 兼容的组合建模工具（流水线、集成、调参、任务归约），可把一个任务的算法应用到另一任务。提供对 statsmodels、tsfresh、PyOD、fbprophet 等库的接口。通过 pip/conda 安装，支持按学习任务选择依赖集；部分模块（对齐、分布模拟）标注为 experimental。
+Python 的时间序列分析库，为多个时间序列学习任务（预测、分类、回归、聚类、异常/变点检测等）提供统一接口，内置专门的时间序列算法及与 scikit-learn 兼容的组合建模工具（流水线、集成、调参、归约）。同时提供对 scikit-learn、statsmodels、tsfresh、PyOD、fbprophet 等相关库的接口。通过 pip/conda 安装，支持按任务安装软依赖子集；BSD 3-clause 开源，社区维护，提供教程、Binder 示例与扩展模板。
 
 ## 筛选速览
 
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- 统一接口覆盖预测、分类、聚类、异常/变点检测等任务
-- scikit-learn 兼容的流水线、集成、调参与任务归约工具
-- 对 statsmodels/tsfresh/PyOD/fbprophet 等库的互操作接口
-- 按学习任务（forecasting/classification 等）可选依赖集安装
+- 为预测、分类、聚类、异常/变点检测等多任务提供统一接口
+- 提供流水线、集成、调参、归约等组合建模工具
+- 提供 scikit-learn/statsmodels/tsfresh/PyOD/fbprophet 等库的接口
+- 按任务提供 pip 可选依赖集与 conda-forge 安装渠道
 
 ## 适用场景
 
-- 构建与调优时间序列预测模型
-- 做时间序列分类或异常/变点检测
-- 把 scikit-learn 回归器用于预测任务
-- 跨库组合时间序列算法做基准评估
+- 做时间序列预测（如航空乘客数据的趋势季节性预测）
+- 对时间序列进行分类（如箭头形状数据集）
+- 时间序列异常检测与变点检测
+- 用 scikit-learn 回归器解决预测任务并构建调参流水线
 
 ## 场景标签
 
- · 领域:机器学习/时间序列分析
+ · 领域:数据科学/机器学习
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `d8d9ed80855f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7deaabc1cdf7` · [字段定义](../../DATASET.md)*

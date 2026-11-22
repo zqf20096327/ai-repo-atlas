@@ -2,9 +2,9 @@
 
 ⭐ 11,964 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lancedb/lancedb) · [官网](https://lancedb.com/docs) · 组织维护
 
-**面向开发者的嵌入式多模态向量检索库（Lance 列存格式）**
+**面向多模态 AI 应用的嵌入式向量检索数据库**
 
-LanceDB 是构建在 Lance 列式格式之上的嵌入式向量检索库，提供向量相似度搜索、全文检索与 SQL 查询，支持存储与查询向量、元数据及多模态数据（文本、图像、视频、点云等）。功能包括零拷贝、自动数据版本管理、构建向量索引时的 GPU 支持；提供 Python、TypeScript、Rust SDK 与 REST API，并与 LangChain、LlamaIndex、Arrow、Pandas、Polars、DuckDB 等集成。开源版本可本地运行，另提供云端与企业版产品线。
+基于 Lance 列式存储格式的开源嵌入式检索库，运行于应用进程内，数据可存本地磁盘或对象存储。提供向量相似度搜索、全文搜索与 SQL 查询，支持存储、索引和过滤文本、图像、视频、点云等多模态数据与向量，规模可达 PB 级，索引构建支持 GPU，含零拷贝与自动版本管理。提供 Python/TypeScript/Rust SDK 与 REST API，商业版 LanceDB Enterprise 提供分布式搜索与安全能力。
 
 ## 筛选速览
 
@@ -21,24 +21,26 @@ LanceDB 是构建在 Lance 列式格式之上的嵌入式向量检索库，提�
 ## 能力要点
 
 - 向量相似度搜索、全文搜索与 SQL 三种检索方式
-- 基于 Lance 列式格式，支持零拷贝与自动版本管理
-- 存储多模态数据：文本、图像、视频、点云等
-- 提供 Python/TypeScript/Rust SDK 与 REST API
+- 多模态数据（文本/图像/视频/点云）存储与过滤
+- 嵌入式运行，数据存本地磁盘或对象存储，无额外基础设施
+- 索引构建支持 GPU，零拷贝与自动版本管理
 
 ## 适用场景
 
-- 为 AI 应用搭建本地或云端的向量检索与语义搜索
-- 存储并检索图像、视频等多模态数据
-- 构建推荐系统或相似内容搜索
+- 为 RAG 应用搭建本地向量检索层
+- 多模态数据（图像/视频）的相似度搜索
+- 推荐系统与语义搜索场景的向量存储与查询
+- 与 LangChain/LlamaIndex 配合构建 AI 应用数据管道
 
 ## 场景标签
 
-`向量数据库` `语义搜索` · 领域:知识与检索
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L17: LanceDB is designed for fast, scalable, and production-ready vector search. It is built on top of the Lance columna
 > L40: - **Seamless Integration**: Python, Node.js, Rust, and REST APIs for easy integration. Native Python and Javascript
+> L41: - **Rich Ecosystem**: Integrations with **LangChain** 🦜️🔗, **LlamaIndex** 🦙, Apache-Arrow, Pandas, Polars, DuckDB a
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4b70f5297cba` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `17f2fb76e539` · [字段定义](../../DATASET.md)*

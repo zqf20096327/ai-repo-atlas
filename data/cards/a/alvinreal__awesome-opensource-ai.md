@@ -2,9 +2,9 @@
 
 ⭐ 5,056 · Python · CC0-1.0 · 推送 2026-11-06 · [GitHub](https://github.com/alvinreal/awesome-opensource-ai) · [官网](https://awesomeosai.com) · 个人维护
 
-**开源 AI 项目精选清单：覆盖模型、框架与基础设施**
+**面向 AI 构建者的开源模型、库与基础设施策展清单**
 
-由个人维护的 awesome 类策展清单，收录开源 AI 模型、库、基础设施、数据工具与学习资源，按核心框架（深度学习/Rust/Julia）、高性能计算、NLP、数据处理等章节组织。收录不以 GitHub star 数为门槛，更看重维护状态、文档质量与生态价值；条目附一句话简介与许可证信息。面向正在选型或构建 AI 系统的开发者，用于浏览与发现项目。
+一份按类别组织的开源 AI 项目清单，收录模型、框架、库、基础设施、数据集与学习资源，收录标准不设 GitHub star 门槛，强调项目有明确存在理由并帮助人们构建、研究、运行、评测或理解 AI 系统。目录可见部分涵盖深度学习框架（PyTorch/JAX/MLX 等）、高性能计算库、Rust/Julia 框架、NLP 与 Transformers 库及数据处理工具，每条附一句定位描述与许可信息，每日更新维护。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按框架、计算库、NLP、数据处理等类别组织条目
-- 收录标准不以 star 数为门槛，强调维护与文档
-- 条目附简介与开源许可证信息
+- 按类别组织的开源 AI 项目策展清单，覆盖框架/库/基础设施/数据集
+- 收录不设 star 门槛，以有用性、维护状态、技术价值为标准
+- 条目附一句话定位与许可证信息（如 Apache-2.0/MIT）
+- 涵盖多语言生态：Python、Rust、Julia、C/C++ 框架均有收录
 
 ## 适用场景
 
-- 为 AI 项目选型时浏览框架与工具选项
-- 了解不同语言（Python/Rust/Julia）的 ML 框架生态
-- 查找数据处理与标注相关开源工具
+- 为 AI 项目选型时查找对应类别的开源工具与框架
+- 了解开源 AI 生态各细分领域有哪些可用项目
+- 寻找数据集与学习资源入门某个 AI 方向
 
 ## 场景标签
 
@@ -38,6 +39,7 @@
 
 > L19: Awesome Open Source AI is a curated list of open-source projects for people building with AI.
 > L21: The goal is to help readers find useful models, libraries, tools, infrastructure, datasets, and learning resources 
+> L27: ## 1. Core Frameworks & Libraries
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `4a4b8b0a42a5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `b7244b03bd74` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 30,175 · Mojo · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/modular/modular) · [官网](https://docs.modular.com/) · 组织维护
 
-**面向 AI 开发与部署的平台：MAX 框架 + Mojo 语言**
+**面向 AI 开发与部署的平台，含 MAX 框架与 Mojo 语言**
 
-该仓库托管 Modular Platform 的开源组件，覆盖 AI 开发与部署全链路：MAX 框架提供模型创作（Python）、推理服务端（OpenAI 兼容端点）、Mojo 编写的计算内核与 GPU 编程抽象、模型流水线；Mojo 语言提供编译器与标准库。README 指出正持续开源更多组件，即当前并非全部源码开放。接受两部分代码的贡献与 bug 报告，采用 Apache License v2.0，并提示用户自行核验第三方（如 Hugging Face）下载内容的许可证。
+该仓库托管 Modular Platform 的开源组件：Mojo 编程语言（编译器与标准库）、MAX AI 框架、图编译器、推理运行时与推理服务器（提供 OpenAI 兼容端点）、GPU 编程抽象与 Mojo 计算内核、模型流水线及示例代码。面向在自己的项目中使用 MAX 与 Mojo 构建和部署 AI 的开发者，可通过 bazel 从仓库源码运行 mojo 或 max 命令，运行 max 生成文本需要兼容的 GPU。项目按 Apache License v2.0 授权，并声明将持续开源更多组件。
 
 ## 筛选速览
 
@@ -26,17 +26,16 @@
 
 ## 能力要点
 
-- MAX 推理服务器提供 OpenAI 兼容端点
-- Mojo 编译器与标准库已开源
-- MAX 内核与 GPU 编程抽象以 Mojo 编写
-- Apache License v2.0 许可
+- Mojo 编译器、标准库与 GPU 编程抽象开源
+- MAX 提供图编译器、运行时与 OpenAI 兼容推理服务器
+- Python 模型编写接口与模型流水线
+- Apache License v2.0 授权
 
 ## 适用场景
 
-- 部署兼容 OpenAI 接口的模型推理服务
-- 用 Python 进行模型创作与构建流水线
-- 用 Mojo 编写 GPU 计算内核
-- 参与 Mojo/MAX 的开源贡献
+- 用 Mojo 编写并在仓库中直接运行源码
+- 通过 MAX 推理服务器部署 OpenAI 兼容端点
+- 基于 MAX 框架用 Python 编写模型与流水线
 
 ## 场景标签
 
@@ -45,8 +44,8 @@
 ## 证据(README 行号)
 
 > L5: This repo hosts open-source components of the Modular Platform,
-> L6: a unified platform for AI development and deployment,
-> L35: - MAX inference server: /max/python/max/serve
+> L47: - MAX runtime: /MLRT
+> L53: - MAX inference server: /max/python/max/serve
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `202f93357ca3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f8b2b1ec951b` · [字段定义](../../DATASET.md)*

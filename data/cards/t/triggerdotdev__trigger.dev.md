@@ -2,9 +2,9 @@
 
 ⭐ 16,801 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/triggerdotdev/trigger.dev) · [官网](https://trigger.dev/changelog) · 组织维护
 
-**为开发者提供 TypeScript 平台构建部署持久化 AI 工作流**
+**给开发者的 TypeScript 长时运行 AI agent 工作流平台**
 
-开源的 TypeScript AI 工作流构建平台：以 SDK 形式在用户代码库中编写任务，部署后获得无超时的长运行任务、自动重试、队列与幂等、检查点与版本化，并附全量日志追踪的可观测面板。支持人审节点暂停、流式输出回传前端、批量触发与多环境管理；可使用云托管或通过 Docker Compose / Helm 自托管。任务运行时可运行浏览器、Python 脚本、FFmpeg 等系统包。
+开源平台，用 TypeScript 编写 AI 工作流与 agent 任务，部署到其托管云或自行托管。核心机制包括无超时的长时任务、自动重试、队列与幂等、检查点、任务版本控制、LLM 调用可观测性（模型/token/成本/延迟记录为 trace span）、human-in-the-loop 暂停等待人工审批、实时流式输出与 dashboard。提供 JS/TS SDK、React hooks、TRQL 查询语言与 MCP server；可通过 Docker Compose 或 Kubernetes Helm chart 自托管。
 
 ## 筛选速览
 
@@ -25,25 +25,26 @@
 
 ## 能力要点
 
-- 长运行任务无超时，带自动重试、队列与幂等机制
-- 人机协同节点：任务可暂停等待人工审批或反馈
-- 实时运行订阅与 LLM 流式输出支持
-- 提供 Docker Compose 与 Kubernetes Helm chart 自托管路径
+- 无超时长时任务，带重试、队列、幂等与检查点
+- LLM observability：记录模型、token 用量、成本与延迟
+- MCP server 使 AI 助手可直接操作项目
+- 支持 Docker Compose 与 Kubernetes Helm chart 自托管
 
 ## 适用场景
 
-- 把需要长时间运行的 AI 代理任务从 serverless 平台迁移到无超时环境
-- 在关键决策点加入人工审核的自动化工作流
-- 为前端应用实时订阅任务进度和流式 AI 输出
+- 为应用构建可靠的多轮 AI chat agent 与后台工作流
+- 需要人工审批环节的自动化流程
+- 跟踪每次任务运行的 LLM token 成本与延迟
+- 替代传统 serverless 平台运行超时受限的长任务
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+`工作流自动化` `Agent 框架` `LLM 可观测性` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L19: Trigger.dev is the open-source platform for building AI workflows in TypeScript. Long-running tasks with retries, q
-> L103: - Docker self-hosting guide - use Docker Compose to spin up a Trigger.dev instance
+> L23: Build AI agents using all the frameworks, services and LLMs you're used to, deploy them to Trigger.dev and get dura
 
 ## 星数曲线
 
@@ -59,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `684a54c08fd0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8292da59884c` · [字段定义](../../DATASET.md)*

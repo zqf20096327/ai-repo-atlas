@@ -2,9 +2,9 @@
 
 ⭐ 5,010 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/PyRIT) · [官网](https://microsoft.github.io/PyRIT/) · 组织维护
 
-**生成式 AI 系统风险识别的 Python 红队开源框架**
+**微软开源的生成式 AI 红队测试工具包**
 
-由 Microsoft 维护的开源框架 PyRIT（Python Risk Identification Tool），面向安全专业人员与工程师，用于主动识别生成式 AI 系统中的风险。README 提供项目网站指引安装、使用与贡献方式，说明漏洞可通过 Microsoft Security Response Center 私下报告，并提供 Discord 社区渠道。附带论文引用（CITATION.cff），标题为 PyRIT: Democratizing AI Red Teaming Through Open-Source Tooling。README 本身未展示具体安装命令与功能细节。
+PyRIT（Python Risk Identification Tool for generative AI）用于以自动化扫描、自适应多轮攻击与人工测试方式发现生成式 AI 系统的安全与安全合规弱点。提供命令行扫描器、浏览器图形界面（CoPyRIT GUI）和可扩展的 Python 框架三种形态，支持通过 HTTP、WebSocket、Playwright 浏览器自动化或自定义目标测试完整应用端点。由微软 AI 红队与开源社区维护，提供 Discord 社区与贡献指南；可用功能取决于目标系统与模型。
 
 ## 筛选速览
 
@@ -13,33 +13,32 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 面向生成式 AI 系统的风险识别（红队）框架
-- 由 Microsoft 维护，提供项目网站与 Discord 社区
-- 支持通过 MSRC 私下报告安全漏洞
-- 附论文引用文件 CITATION.cff
+- 命令行扫描器支持可重复的自动化评估
+- 图形界面在浏览器中交互探索并审查结果
+- Python 框架可组合与扩展组件构建自定义红队工作流
+- 支持 HTTP/WebSocket/Playwright 浏览器自动化等多种端点接入方式
 
 ## 适用场景
 
-- 安全团队对生成式 AI 系统开展红队测试
-- 工程师在发布前识别生成式 AI 的风险
-- 研究者引用并使用该工具开展 AI 安全研究
+- 上线前对生成式 AI 应用做自动化安全扫描
+- 与红队成员协作交换测试技术并贡献代码
+- 为自有模型端点编写定制化红队测试流程
 
 ## 场景标签
 
-`网络安全` `模型评测` · 领域:评测与运维
+`模型评测` `网络安全` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L3: The Python Risk Identification Tool for generative AI (PyRIT) is an open source
-> L4: framework built to empower security professionals and engineers to proactively
-> L5: identify risks in generative AI systems.
+> L7: PyRIT (Python Risk Identification Tool for generative AI) is an open-source toolkit
+> L12: PyRIT brings a command-line scanner, a graphical interface, and an extensible
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `ac564b8b7d69` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `fdd8e0476801` · [字段定义](../../DATASET.md)*

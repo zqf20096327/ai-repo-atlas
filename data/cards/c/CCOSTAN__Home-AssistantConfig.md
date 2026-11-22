@@ -2,9 +2,9 @@
 
 ⭐ 5,331 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/CCOSTAN/Home-AssistantConfig) · [官网](https://www.vCloudInfo.com) · 个人维护
 
-**个人智能家居 Home Assistant 配置公开仓库：供浏览借鉴的实例与文档**
+**个人智能家居 Home Assistant 配置与文档分享**
 
-Bear Stone Smart Home 是博主公开维护的个人 Home Assistant 配置仓库：包含实际运行中的自动化、脚本、场景与仪表盘 YAML，覆盖警报监控、漏水响应、HVAC 维护、太阳能/电池、吸尘机器人、Frigate 车道停车与包裹检测等数十个场景，并配博客文章、视频与硬件清单（含返利链接）。仓库明确声明这是浏览参考用的实况记录而非可克隆即用的部署方案；平台运行于 Docker/compose，公开树仅含可复用配置，GitHub Actions 校验 YAML。另含可选的 Codex skills 页与 LLM Vision 实验记录，Issues 兼作变更日志与设计史。
+作者公开的实时 Home Assistant 配置仓库，定位为浏览与灵感参考，明确声明非开箱即用的部署模板；复用需自行调整实体 ID、密钥与服务。内容包括自动化、脚本、场景的 YAML 示例，配套博客、YouTube 视频与硬件清单（含联盟链接）。GitHub Actions 验证公开 YAML 与仪表盘，Issues 兼作变更日志与设计记录。运行平台为 Docker/compose，当前 HA 版本记录在 config/.HA_VERSION。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ Bear Stone Smart Home 是博主公开维护的个人 Home Assistant 配置仓库
 
 ## 能力要点
 
-- 数十个真实运行的家庭自动化 YAML 示例（警报、漏水、HVAC、太阳能、真空吸尘等）
-- 每项配置配套博客文章、视频与硬件购买说明
-- GitHub Actions 持续校验公开 YAML 与仪表盘
-- Frigate 车道停车/包裹检测与 LLM Vision 实验记录
+- 实时个人配置共享，YAML 示例由 GitHub Actions 验证
+- 自动化案例覆盖温控、安防、漏水响应、窗帘车库、能耗与洒水等场景
+- 配套博客、视频与带购买说明的硬件清单
+- Issues 兼作变更日志与设计历史
 
 ## 适用场景
 
-- 搭建自己的 Home Assistant 时参考现成的自动化模式
-- 按硬件清单了解某类设备（智能锁、洒水器、水阀）如何接入自动化
-- 浏览 Issues 了解配置变更背后的设计原因
+- 查找 Home Assistant 自动化的真实配置范例
+- 借鉴智能家居仪表盘与脚本的组织方式
+- 在搭建自己智能家居前参考硬件选型与联动方案
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+ · 领域:智能家居/自动化配置
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `75f6bce38a8c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `b401ef70f538` · [字段定义](../../DATASET.md)*

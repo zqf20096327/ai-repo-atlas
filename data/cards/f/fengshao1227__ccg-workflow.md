@@ -2,9 +2,9 @@
 
 ⭐ 5,984 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fengshao1227/ccg-workflow) · [官网](https://ccg.fengshao1227.com) · 个人维护 · 中文 README
 
-**Claude Code 的多模型协作工作流引擎：/ccg:go 一条命令编排执行**
+**Claude Code 的多模型协作工作流引擎，自动编排 Codex/Gemini 等协作**
 
-构建在 Claude Code 之上的工作流引擎：Claude 作为主协调器分析意图，从 10 种内置策略（如 full-collaborate、debug-investigate、review-audit）中自动选择，通过编译的 Go 二进制 codeagent-wrapper 将专项工作分派给 Codex、Grok、Kimi Code 等外部模型并行执行。提供 Hook 引擎在每轮注入任务状态、持久化任务目录、质量门（verify-security/quality 等）、100+ 领域知识文件按关键词注入、独立技能（宝塔面板部署、SEO 页面构建、AdSense 审计）以及 DeepSeek Harness 内的原生角色矩阵。要求 Node.js 20+ 与 Claude Code CLI，其他模型 CLI 为可选。以 npx 交互式向导安装。
+以 Claude Code 为主编排器的多模型工作流引擎：通过 Go 编写的 codeagent-wrapper 桥接 Codex、Grok、Kimi Code 等外部 CLI 做并行分析与交叉评审；Hook Engine 每回合注入任务状态防止压缩后丢上下文；内置 10 种按任务复杂度自动选择的策略、持久化任务目录、5 个质量门命令和 61 个按关键词自动注入的领域知识文件。通过 npx 安装，需 Node.js 20+ 与 Claude Code CLI，其余外部 CLI 为可选。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- /ccg:go 智能入口：自动分析意图并从 10 种内置策略中选择
-- Go 二进制 codeagent-wrapper 将 Claude 桥接至 Codex/Grok/Kimi 等外部模型并行工作
-- 4 个 Hook 在每轮注入状态，上下文在压缩（compaction）后保留
-- doctor --json 输出版本化健康检查报告，失败以退出码 1 结束
+- Claude 为编排核心，经 Go binary 桥接 Codex/Grok/Kimi Code 等外部模型协作
+- 4 个 JavaScript Hook 每回合注入状态，上下文在 compaction 后仍保留
+- 10 种内置策略按任务类型与复杂度自动选择
+- 附 DeepSeek Harness 内置包 dsh-ccg，支持多模型并行面板与常驻 teammate
 
 ## 适用场景
 
-- 在 Claude Code 里让多个外部模型并行协作完成复杂功能开发
-- 对安全变更和大规模改动自动运行质量门检查
-- 把构建产物经宝塔/aaPanel HTTP API 直接部署到服务器
+- 一条命令描述需求，自动编排多模型完成开发任务
+- 复杂变更需要多模型交叉评审与安全/质量门检查
+- 长会话开发中避免上下文压缩后丢失任务状态
 
 ## 场景标签
 
-`工作流自动化` `编码 Agent` `多智能体` · 领域:Agent 开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L98: **CCG is a workflow engine for Claude Code.** It turns Claude into a multi-model orchestrator — Claude stays in con
 > L110: **Claude Code** is the lead orchestrator. It analyzes your intent, selects a strategy, and manages the entire work
-> L234: Requires **Node.js 20+** and **Claude Code CLI**. Codex CLI, Grok CLI, Kimi Code CLI, and Antigravity are optional
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4dfd6c963c71` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2654271343f7` · [字段定义](../../DATASET.md)*

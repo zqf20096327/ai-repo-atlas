@@ -1,10 +1,10 @@
 # looplj/axonhub
 
-⭐ 5,482 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/looplj/axonhub) · [官网](https://axonhub.reveric.app) · 个人维护 · 中文 README
+⭐ 5,482 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/looplj/axonhub) · [官网](https://axonhub.reveric.app) · 组织维护 · 中文 README
 
-**开源 AI 网关：任意 SDK 调用 100+ LLM，统一路由与追踪**
+**给开发者的 AI 网关：任意 SDK 调 100+ 模型，免改代码切换供应商**
 
-用 Go 编写的 AI 网关/开发平台：将 OpenAI、Anthropic、Gemini 等任一 SDK 的请求透明转换并路由到多种模型供应商，零代码改动即可切换模型。提供渠道管理、<100ms 自动故障转移、智能负载均衡、实时成本追踪、线程级请求追踪、企业级 RBAC 与用量配额。支持文本生成、图片生成、重排序与 Embedding API，已适配 OpenAI/Anthropic/智谱/Moonshot/DeepSeek/豆包/Gemini/Jina/OpenRouter 等提供商，AWS Bedrock 与 Google Cloud 适配为测试中。部署通过让 Agent 读取 deploy-axonhub 指引完成，README 标注 Docker Ready。
+以 Go 编写的 AI 网关，将 OpenAI/Anthropic/Gemini 等 SDK 的请求透明转换为各模型供应商兼容格式，免除重构与换 SDK。提供渠道管理、<100ms 故障转移与负载均衡、请求级追踪、实时成本追踪与预算管理，以及 RBAC 访问控制。接口覆盖文本生成、图片生成、重排序与嵌入，实时对话为 Todo。部署后通过初始化向导建管理员账号、添加渠道与 API Key 即可使用。许可证为 Apache-2.0 与 LGPL-3.0 多许可组合。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 任意 SDK ↔ 任意模型供应商的请求透明转换
-- <100ms 自动故障转移与智能负载均衡
-- 实时成本追踪、完整请求时间线与企业级 RBAC
-- 支持文本生成/图片生成/重排序/Embedding 四类 API
+- 任意 SDK → 任意模型转换，零代码改动切换供应商
+- 智能负载均衡与 <100ms 自动故障转移
+- 请求级完整追踪与每次调用成本明细追踪
+- 企业级 RBAC、用量配额与数据隔离
 
 ## 适用场景
 
-- 不改动代码在多个模型供应商之间切换与降级
-- 团队统一管理 API Key、配额与成本
-- 追踪 Agent 请求链路定位问题
+- 统一接入 OpenAI、Claude、Gemini、DeepSeek 等多个模型渠道
+- 在 GPT-4 与 Claude 之间切换而无需改业务代码
+- 团队用量配额、成本追踪与预算管理
+- 集中监控请求时间线以定位接口问题
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L81: **AxonHub 是 AI 网关，让你无需改动一行代码即可切换模型供应商。**
-> L86: - 🔒 **供应商锁定** - 从 GPT-4 瞬间切换到 Claude 或 Gemini
-> L97: |🔄 **任意 SDK → 任意模型**|用 OpenAI SDK 调用 Claude，或用 Anthropic SDK 调用 GPT。零代码改动。|
+> L79: **AxonHub 是 AI 网关，让你无需改动一行代码即可切换模型供应商。**
+> L81: 无论你使用的是 OpenAI SDK、Anthropic SDK 还是任何 AI SDK，AxonHub 都会透明地将你的请求转换为与任何支持的模型供应商兼容的格式。无需重构，无需更换 SDK——只需更改配置即可。
+> L98: |⚡ **智能负载均衡**|<100ms 自动故障转移。始终路由到最健康的渠道。|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `d711d6f6e628` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c9b397d3dc96` · [字段定义](../../DATASET.md)*

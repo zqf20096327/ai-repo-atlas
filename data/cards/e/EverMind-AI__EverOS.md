@@ -2,15 +2,15 @@
 
 ⭐ 13,960 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/EverMind-AI/EverOS) · [官网](https://evermind.ai/everos) · 组织维护 · 中文 README
 
-**给 AI agent 的本地优先可携带记忆层**
+**给 AI agent 提供跨应用可携带的本地长期记忆层**
 
-Python 库与本地优先的 agent 记忆运行时：将对话、文件与 agent 轨迹存为可读 Markdown，配合本地 SQLite 与 LanceDB 索引实现检索与离线反思（合并片段、精炼画像与技能）。支持按 user_id/agent_id/app_id/project_id/session_id 正交检索，提供本地服务器与 /api/v2 端点；一个 OpenRouter key 即可运行核心流程，embedding/rerank 为可选配置；Office 文档解析需系统安装 LibreOffice。
+EverOS 是一个 Python 库与本地优先的 agent 记忆运行时：将对话、文件与 agent 轨迹存为可读可编辑的 Markdown，本地 SQLite 与 LanceDB 索引支撑检索，离线反思可在会话间合并记忆、精炼画像与技能。以 OpenRouter 单 key 即可启动，支持分级配置嵌入、重排与多模态解析；提供本地 server 与 /api/v2 HTTP 接口，LibreOffice 为可选的 office 文档解析依赖。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
@@ -27,17 +27,17 @@ Python 库与本地优先的 agent 记忆运行时：将对话、文件与 agent
 
 ## 能力要点
 
-- Markdown 为事实源，可用 Git 版本化并直接编辑，级联 watcher 同步索引
-- 本地三件套 Markdown+SQLite+LanceDB，无需 MongoDB/Elasticsearch/Redis
-- 分层配置：[llm] 基础流程，[embedding]/[rerank]/[multimodal] 逐步解锁混合检索、反思与多模态摄取
-- 提供 MCP Server（uvx everos-mcp）接入 Claude Code、Codex、Cursor 等编码助手
+- Markdown 为事实源，文件可编辑、diff、Git 版本化，级联 watcher 自动同步索引
+- 本地三件套 Markdown + SQLite + LanceDB，无需 MongoDB/Elasticsearch/Redis
+- 用户侧 episode/profile 与 agent 侧 case/skill 双轨存储，支持多维度正交检索
+- 离线反思机制：会话间合并 episode 簇、精炼 profile 与 skill
 
 ## 适用场景
 
-- 为跨应用/跨会话的 AI agent 添加持久长期记忆
-- 给 Claude Code/Cursor 等编码助手接入自动保存与召回上下文
-- 本地自托管记忆服务，用 Markdown 文件管理与审计 agent 记忆
-- 构建需要跨会话自我演进的助手（学习、创意、个人助理等）
+- 给编码助手或 agent 接入跨会话长期记忆
+- 通过 uvx everos-mcp 将记忆接入 Claude Code、Cursor 等工具
+- 摄取图片/PDF/音频等多模态内容入记忆库
+- 自建本地 server 供多应用共享同一记忆层
 
 ## 场景标签
 
@@ -46,8 +46,8 @@ Python 库与本地优先的 agent 记忆运行时：将对话、文件与 agent
 ## 证据(README 行号)
 
 > L16: EverOS is a Python library and local-first memory runtime for agents and
-> L19: trajectories as readable Markdown, then syncs local SQLite and LanceDB indexes
-> L67: > One OpenRouter API key is enough to start EverOS, write durable memories,
+> L73: EverOS adds durable memory to the agent and workflow platforms below—and comes
+> L206: The OpenRouter one-key setup is EverOS Tier 1. It supports server startup,
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6cdcccb90bac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b0f13be38ffa` · [字段定义](../../DATASET.md)*

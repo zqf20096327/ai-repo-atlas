@@ -1,10 +1,10 @@
 # jacklandrin/OnlySwitch
 
-⭐ 6,078 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jacklandrin/OnlySwitch) · [官网](https://onlyswitch.click/) · 个人维护
+⭐ 6,078 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jacklandrin/OnlySwitch) · [官网](https://onlyswitch.click/) · 个人维护 · 中文 README
 
-**macOS 菜单栏多功能开关合集，含 AI Agent 与系统监视器**
+**macOS 菜单栏一体化控制工具，含 AI Agent 与桌面宠物**
 
-面向 macOS 用户的一体化菜单栏应用：把隐藏桌面图标、深色模式、保持唤醒、刘海管理、番茄钟、AirPods 检测等数十种系统开关集中到一个可自定义的菜单栏界面，支持键盘快捷键、桌面小组件、iPhone/iPad 局域网远程控制。AI 相关功能包括：Only Agent（英文描述任务生成 AppleScript，支持 Ollama/OpenAI/Gemini）、Aphrodite（自然语言生成并运行迷你应用）、OpenClaw 自然语言触发开关。Aphrodite 与 Only Agent 需 macOS 26 或更高版本。
+将隐藏桌面图标、切换深色模式、保持唤醒、刘海管理等日常 macOS 控制集中到一个可自定义的菜单栏应用中，支持增删排序开关、快捷键、桌面小组件，并提供 iPhone/iPad 远程控制（OnlyRemote）。AI 相关功能包括：桌面宠物可在 Codex 或 Claude Code 工作时显示动画，可通过 Model Providers 所选模型按文字描述生成宠物皮肤。通过 Homebrew 或 DMG 安装。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 数十种内置系统开关可添加、移除、排序并绑定快捷键
-- Only Agent 生成 AppleScript 控制 Mac，支持 Ollama/OpenAI/Gemini
-- Aphrodite 用自然语言生成、运行、分享迷你应用
-- 系统监视器显示 CPU/GPU/内存/磁盘/网络实时用量与最繁忙进程
-- Evolution 支持用 Shell/AppleScript 自建开关并通过画廊分享
+- 菜单栏一体化开关：深色模式、静音、保持唤醒、番茄钟等数十项内置开关
+- OnlyRemote 从 iPhone/iPad 远程控制 Mac
+- 桌面宠物支持 AI 生成皮肤，并可视化 Codex/Claude Code 工作状态
+- Sound Mixer 按应用调音量、10 段 EQ 与多输出路由
 
 ## 适用场景
 
-- 把常用的 macOS 系统设置切换集中到菜单栏一键操作
-- 用英文描述任务让 AI 生成 AppleScript 自动操作 Mac
-- 从 iPhone/iPad 远程控制 Mac 上的开关
-- 在菜单栏或桌面小组件放常用控制
+- 一键管理菜单栏里分散的 macOS 系统设置
+- 让 AI 编码任务在桌面宠物上有可视化状态反馈
+- 用文字描述生成个性化桌面宠物皮肤
+- 在 iOS 设备上远程控制 Mac 的开关与控件
 
 ## 场景标签
 
-`GUI 自动化` · 领域:效率与自动化
+ · 领域:系统工具/桌面效率
 
 ## 证据(README 行号)
 
-> L11: OnlySwitch puts everyday macOS controls—such as hiding desktop icons, changing appearance, keeping the Mac awake, a
-> L151: Only Agent lets you describe a task in English and generates AppleScript to control your Mac. When Agent mode is e
+> L13: OnlySwitch puts everyday macOS controls—such as hiding desktop icons, changing appearance, keeping the Mac awake, a
+> L60: - Customize the optional Desktop Pet with AI-generated skins, feeding and petting, agent activity, and your choice 
+> L72: Right-click the pet to feed or pet it. Hunger is cosmetic and can be turned off in settings. The pet also animates 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `17be37ed2c2d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `47d8357cea0d` · [字段定义](../../DATASET.md)*

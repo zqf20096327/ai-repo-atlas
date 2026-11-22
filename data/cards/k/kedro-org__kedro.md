@@ -2,9 +2,9 @@
 
 ⭐ 11,059 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/kedro-org/kedro) · [官网](https://kedro.org) · 组织维护
 
-**面向生产级数据科学与数据工程的 Python 管道框架**
+**为数据科学团队构建可复现、模块化的数据管线框架**
 
-LF AI & Data Foundation 托管的开源 Python 框架，用于构建可复现、可维护、模块化的数据工程与数据科学管道。核心机制包括：基于 Cookiecutter Data Science 的项目模板、覆盖多种文件格式/文件系统/云对象存储/HDFS 的 Data Catalog 数据连接器（含数据与模型版本控制）、自动解析函数依赖的管道抽象与 Kedro-Viz 可视化，以及到 Argo、Prefect、Kubeflow、AWS Batch、Databricks 的部署支持。面向数据科学与工程团队，定位解决 Jupyter notebook、一次性脚本与胶水代码的可维护性不足问题。
+由 LF AI & Data Foundation 托管的开源 Python 框架，用软件工程最佳实践组织数据工程与数据科学管线。核心机制包括基于 Cookiecutter Data Science 的项目模板、跨本地/网络文件系统与云对象存储读写数据的 Data Catalog（含数据与模型版本管理）、自动解析纯 Python 函数依赖的管线抽象与 Kedro-Viz 可视化，以及 pytest/Sphinx/ruff 编码规范；部署支持单机或分布式，并提供 Argo、Prefect、Kubeflow、AWS Batch、Databricks 等部署方案。通过 PyPI、conda 或源码安装。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ LF AI & Data Foundation 托管的开源 Python 框架，用于构建可复现、
 
 ## 能力要点
 
-- 标准项目模板与 Data Catalog 多源数据连接器（含数据/模型版本控制）
-- 自动解析依赖的管道抽象与 Kedro-Viz 可视化
-- 支持部署到 Argo/Prefect/Kubeflow/AWS Batch/Databricks
-- 遵循 CPython 维护版本的 Python 版本支持策略
+- 项目模板与管线抽象：依赖自动解析 + Kedro-Viz 可视化
+- Data Catalog 支持多文件格式/文件系统及数据与模型版本管理
+- 部署支持 Argo、Prefect、Kubeflow、AWS Batch、Databricks
+- 内置 pytest/Sphinx/ruff 等编码规范支持
 
 ## 适用场景
 
-- 把一次性 notebook 和脚本重构为可维护的 ML 管道
-- 团队协作下统一数据科学项目的工程规范
-- 将数据/ML 管道部署到分布式或云端工作流平台
+- 把 notebook 与一次性脚本重构为可维护的管线代码
+- 团队协作场景下统一数据科学工程的代码规范
+- 将数据管线部署到单机或分布式环境
 
 ## 场景标签
 
-`工作流自动化` `MLOps` · 领域:效率与自动化
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L20: Kedro is a toolbox for production-ready data engineering and data science pipelines. It uses software engineering b
+> L22: Kedro is an open-source Python framework hosted by the LF AI & Data Foundation.
 > L54: |Pipeline Abstraction|Automatic resolution of dependencies between pure Python functions and data pipeline visualis
-> L56: |Flexible Deployment|Deployment strategies that include single or distributed-machine deployment as well as additio
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `0b51194e1182` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6b5e537919d1` · [字段定义](../../DATASET.md)*

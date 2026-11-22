@@ -2,9 +2,9 @@
 
 ⭐ 8,345 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/k8sgpt-ai/k8sgpt) · [官网](http://k8sgpt.ai) · 组织维护
 
-**用内置 SRE 分析器扫描 Kubernetes 集群并用 AI 解释问题**
+**扫描 Kubernetes 集群并用 LLM 解释诊断结果的 CLI/Operator**
 
-Go 编写的 CLI 工具，用内置 SRE 经验编码的分析器扫描 Kubernetes 集群、诊断并分诊问题，可用 --explain 将结果交给 LLM 后端（OpenAI/Azure/Cohere/Amazon Bedrock/Google Gemini 及本地模型）生成通俗解释。支持过滤器管理、匿名化、JSON 输出、serve 模式与 MCP 服务器（默认 8089 端口）接入 Claude Desktop 等 MCP 客户端，另有 operator 形式在集群内持续监控。安装覆盖 brew、RPM/DEB/APK 包与 Windows 二进制。
+面向 Kubernetes 集群的扫描与诊断工具：内置 14 个默认启用的分析器（Pod、Deployment、Service、Ingress、Webhook 等）及 20 余个可选分析器，对集群问题做分诊；通过 --explain 标志将分析结果交给所选 LLM 后端生成解释，并可用 --with-doc 附带官方文档、用 --anonymize 在发送前对敏感对象名做掩码与还原。提供 CLI（brew/rpm/deb/apk/二进制）与 k8sgpt-operator 两种部署方式，另可通过 gRPC serve 模式或 MCP 服务器供 Claude Desktop 等 MCP 客户端调用。使用 AI 解释功能需自行配置 API key。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Go 编写的 CLI 工具，用内置 SRE 经验编码的分析器扫描 Kubernete
 
 ## 能力要点
 
-- 30+ 个内置 SRE 分析器（Pod/Service/Ingress/Node 等）扫描诊断集群
-- 多 LLM 后端解释分析结果，含 LiteLLM 代理路由 100+ provider
-- 敏感数据在发送 AI 后端前匿名化，返回后可还原
-- MCP 服务器模式接入 Claude Desktop 等 MCP 兼容客户端
+- 内置 14 个默认分析器 + 20 余个可选分析器（含 Karpenter NodeClaim/NodePool）
+- 多 LLM 后端接入：OpenAI、Azure、Cohere、Amazon Bedrock、Gemini、本地模型、LiteLLM/GPT2Giga 代理
+- --anonymize 在发送至 AI 后端前对敏感数据掩码并可还原
+- MCP 服务器模式（默认端口 8089）供 Claude Desktop 等 MCP 客户端集成
 
 ## 适用场景
 
-- 排查集群故障时快速定位问题并获得 AI 解释与修复建议
-- 通过 Claude Desktop 对话查询集群健康状态
-- 以 operator 形式持续监控集群并接入 Prometheus/Alertmanager
+- 排查集群中 Pod、Service、Ingress 等资源的异常
+- 需要自然语言解释的诊断结果辅助值班处理
+- 通过 Operator 做集群持续监控并对接 Prometheus/Alertmanager
+- 在 Claude Desktop 中通过 MCP 直接分析集群
 
 ## 场景标签
 
- · 领域:DevOps/Kubernetes 运维
+ · 领域:DevOps/云原生运维
 
 ## 证据(README 行号)
 
-> L13: `k8sgpt` is a tool for scanning your Kubernetes clusters, diagnosing, and triaging issues in simple English.
-> L15: It has SRE experience codified into its analyzers and helps to pull out the most relevant information to enrich it 
-> L17: _Out of the box integration with OpenAI, Azure, Cohere, Amazon Bedrock, Google Gemini and local models._
+> L15: `k8sgpt` is a tool for scanning your Kubernetes clusters, diagnosing, and triaging issues in simple English.
+> L17: It has SRE experience codified into its analyzers and helps to pull out the most relevant information to enrich it 
+> L401: K8sGPT uses the chosen LLM, generative AI provider when you want to explain the analysis results using --explain f
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `331dc2007a43` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `aa92c30081a1` · [字段定义](../../DATASET.md)*

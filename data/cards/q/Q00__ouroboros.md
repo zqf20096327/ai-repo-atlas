@@ -1,10 +1,10 @@
 # Q00/ouroboros
 
-⭐ 6,384 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Q00/ouroboros) · [官网](https://ouroboros.page/) · 个人维护 · 中文 README
+⭐ 6,384 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Q00/ouroboros) · [官网](https://ouroboros.page/) · 个人维护
 
-**面向 AI 编程 agent 的本地工作流运行时（Agent OS）**
+**为已有 AI 编码代理提供访谈式规格先行与检查闭环的 MCP 工具**
 
-本地优先的 Agent OS 运行层：将非确定性的 AI 编程工作流组织为规范先行的“访谈—固化—执行—评估—进化”流程，通过苏格拉底式访谈澄清模糊需求、以不可变 Seed 规格锁定意图、三阶段评估门做自动验证，并以账本记录可回放事件。以 MCP server 接入 14 种编码 agent 宿主（Claude Code、Codex CLI、Gemini CLI、Copilot、Kiro 等），安装器自动检测可用运行时并注册；支持 DeepSeek 双向接入。核心仓库与插件库、终端 shell 构成三层栈。
+Ouroboros 是面向 AI 编码代理的协调工具：通过提问访谈澄清目标，将结果写成带可验收标准的 spec（Seed），交给用户已有的编码代理执行，并逐条检查结果是否达标。以 MCP server 形式接入，宣称支持 14 个运行时（Claude Code、Codex CLI、Gemini CLI 等），提供浏览器控制台、CLI 命令（ooo interview/auto/run）与脚本安装器。Windows 原生为实验性，Codex CLI 需 WSL 2。
 
 ## 筛选速览
 
@@ -13,33 +13,33 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 访谈—Seed 规格—执行—评估—进化的规范先行工作流
-- MCP server 接入 Claude Code、Codex、Gemini、Copilot、Kiro 等 14 种宿主
-- 三阶段自动评估门与账本记录的可回放事件
-- DeepSeek 双向接入：--llm-backend dsh 后端或 dsh-ouroboros 插件
+- 访谈-规格-执行-检查的闭环流程，spec 带可验收标准
+- 以 MCP server 接入多个编码代理运行时
+- 提供浏览器控制台与 CLI（ooo）两种使用方式
+- 安装器自动发现并连接已有的代理工具
 
 ## 适用场景
 
-- 在现有编码 agent 中用访谈流程把模糊需求转为可测试规格
-- 让 AI 编码工作流可回放、可观测并受策略约束
-- 跨多个 agent CLI 宿主统一运行同一工作流
+- 在让代理动手前先把模糊需求澄清成规格
+- 让多个编码代理按同一份 spec 构建并自动验收
+- 在终端或控制台里驱动代理完成编码任务
 
 ## 场景标签
 
-`工作流自动化` `LLM 可观测性` `模型评测` · 领域:效率与自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L60: Ouroboros is an **Agent OS** for AI coding: a local-first runtime layer that
-> L63: specification-first workflow: interview, crystallize, execute, evaluate,
-> L76: |**OS** (this repo)|`Q00/ouroboros`|Agent OS core — Seed, Ledger, Runtime, MCP, safety boundaries|`ooo` commands, s
+> L29: Ouroboros helps your AI coding agent build the right thing. It asks you
+> L54: The installer finds the agent tools you already have and connects Ouroboros to
+> L95: Claude Code ·
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `265398906aa4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `dbba0bb40ba1` · [字段定义](../../DATASET.md)*

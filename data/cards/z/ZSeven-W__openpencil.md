@@ -2,9 +2,9 @@
 
 ⭐ 7,312 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ZSeven-W/openpencil) · [官网](https://op.zseven.tech) · 个人维护 · 中文 README
 
-**开源 AI 原生矢量设计工具：自然语言生成 UI 并并发多 Agent 协作**
+**面向设计师与开发者的 AI 原生矢量设计工具**
 
-AI 原生矢量设计工具，用 Rust 实现单一自包含内核，同时提供 Web 版与 macOS/Windows/Linux 桌面版。核心机制：自然语言提示在无限画布上实时流式生成 UI；编排器将复杂页面拆解为空间子任务，多个 AI Agent 并行处理不同区块；.op 设计文件为 JSON 格式，可导出 React+Tailwind、Flutter、SwiftUI 等多种代码。内置 MCP Server，可被 Claude Code、Codex、OpenCode 等 CLI 接入；支持 9+ 模型供应商预设及按模型能力分级适配提示词。限制：Web 版仅支持内置 API-key agent，Docker 镜像不捆绑 Claude/Codex 等 CLI 工具。
+开源矢量设计工具，支持自然语言描述 UI 并实时生成到无限画布，支持选中元素后对话式修改设计。采用并发 Agent Teams 机制：编排器将复杂页面分解为空间子任务，多个 agent 并行生成不同区域。.op 文件为 JSON 格式，可 Git 管理，并导出为 React + Tailwind、HTML + CSS、Vue、Svelte、Flutter、SwiftUI 等多平台代码。提供 Web 应用与 macOS/Windows/Linux 原生桌面应用，内置 MCP Server 可接入 Claude Code/Codex 等 CLI agent，附带 op 命令行工具与实时协作功能。
 
 ## 筛选速览
 
@@ -16,32 +16,31 @@ AI 原生矢量设计工具，用 Rust 实现单一自包含内核，同时提�
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 自然语言提示在画布上实时流式生成 UI，可选中元素用语言修改
-- 并发 Agent Teams：编排器拆解空间子任务，多 Agent 并行生成不同区块
-- .op 文件为 JSON（可 diff、Git 友好），可导出 React/Vue/Flutter/SwiftUI 等多平台代码
-- 内置 MCP Server，一键安装到 Claude Code、Codex、OpenCode 等 CLI
-- 基于 P2P 的实时协作，带配对码、远程光标与冲突回放
+- Prompt → Canvas：自然语言生成 UI 并流式实时呈现，支持截图参考输入
+- 并发 Agent Teams：编排器分解子任务，多 agent 并行生成
+- Design-as-Code：.op JSON 文件可 diff，导出 React/Vue/Flutter/SwiftUI 等多平台代码
+- 内置 MCP Server（op-mcp），可接入 Claude Code / Codex / OpenCode 等 CLI agent
 
 ## 适用场景
 
-- 用自然语言快速生成并迭代 UI 设计稿
-- 从设计文件直接导出多平台前端代码
-- 在 Claude Code 等终端 Agent 中通过 MCP 读写设计文件
-- 多人实时协作编辑同一画布
+- 用自然语言在画布上直接生成和迭代 UI 设计
+- 将 .op 设计稿导出为 React/Vue/Flutter 等前端代码
+- 通过终端 MCP agent 自动化读取与修改设计文件
+- 多人实时协作编辑设计
 
 ## 场景标签
 
-`多智能体` `代码生成` · 领域:Agent 开发
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5:  The world's first open-source AI-native vector design tool.
-> L261: - **Text-to-design** — describe a page, get it generated on canvas in real-time with SSE streaming animation
-> L263: - **Agent Teams** — concurrent team members with delegate tool, per-member canvas indicators, and fallback strateg
+> L27: Describe any UI in natural language. Watch it appear on the infinite canvas in real-time with streaming animation. 
+> L39: One-click install into Claude Code, Codex, OpenCode, Kiro, or Copilot CLIs. Design from your terminal — read, creat
+> L239: - **Text-to-design** — describe a page, get it generated on canvas in real-time with SSE streaming animation
 
 ## 星数曲线
 
@@ -57,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `80c471ce42a1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `94a8f2f00740` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,512 · Jupyter Notebook · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/nianticlabs/monodepth2) · 组织维护
 
-**单目深度估计的 PyTorch 训练/测试参考实现（ICCV 2019）**
+**单目图像深度估计的 PyTorch 参考实现（ICCV 2019 论文配套代码）**
 
-Niantic 团队发布的 Monodepth2 论文（ICCV 2019）官方 PyTorch 参考实现，做自监督单目深度预测：从单张图像预测视差/深度，支持单目、双目及单目+双目三种训练模态，并包含位姿预测与 KITTI 基准评测代码。提供 9 组预训练模型（首次运行自动下载）、单图推理脚本、微调选项与预计算视差结果下载。面向科研复现与自定义数据集训练。限制：仅支持单 GPU 训练，KITTI 原始数据约 175GB，代码为非商业用途许可。
+论文《Digging into Self-Supervised Monocular Depth Estimation》的官方 PyTorch 实现，提供单张图像的视差/深度预测命令，附带多种分辨率的预训练模型下载。支持基于 KITTI 数据集的 mono/stereo/mono+stereo 三种模态训练、微调、KITTI 深度与位姿评估，并可下载预计算的视差结果。代码声明仅限非商业用途。使用 conda/pip 安装 PyTorch 等依赖，实验基于单 GPU 环境。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Niantic 团队发布的 Monodepth2 论文（ICCV 2019）官方 PyTorch 参考实
 
 ## 能力要点
 
-- 单目/双目/单目+双目三种自监督训练模态
-- 单图推理脚本与 9 组预训练模型自动下载
-- KITTI 深度与里程计基准评测代码及预计算结果
-- 支持继承 MonoDataset 训练自定义数据集与微调
+- 单张图像即可预测缩放视差或度量深度（--pred_metric_depth）
+- 提供 9 个预训练模型及 ResNet 50 变体下载
+- 支持自定义数据集训练（继承 MonoDataset 类）
+- 附 KITTI 深度/里程计评估与预计算结果下载
 
 ## 适用场景
 
-- 复现 Monodepth2 论文的自监督深度估计训练与评测
-- 用预训练模型对单张图像快速预测深度/视差
-- 在自定义单目或双目数据集上训练深度模型
+- 对单张图像估计深度/视差
+- 在 KITTI 或自定义数据集上复现论文训练
+- 评估自有方法的外部视差结果
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Niantic 团队发布的 Monodepth2 论文（ICCV 2019）官方 PyTorch 参考实
 ## 证据(README 行号)
 
 > L3: This is the reference PyTorch implementation for training and testing depth estimation models using the method descr
-> L40: python test_simple.py --image_path assets/test_image.jpg --model_name mono+stereo_640x192
+> L5: > **Digging into Self-Supervised Monocular Depth Estimation**
+> L35: ## 🖼️ Prediction for a single image
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `188e248f1085` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `74ec3f2c19b7` · [字段定义](../../DATASET.md)*

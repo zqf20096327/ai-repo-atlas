@@ -2,9 +2,9 @@
 
 ⭐ 7,921 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/stanfordnlp/stanza) · [官网](https://stanfordnlp.github.io/stanza/) · 组织维护
 
-**面向 60+ 语言的多语言 NLP 工具库：分词、命名实体识别、句法分析**
+**Stanford 官方多语言 NLP 库：分词、句法分析与命名实体识别**
 
-斯坦福 NLP 组的官方 Python 库，基于 PyTorch 神经网络管线，支持 60+ 种人类语言的分词、句子切分、词性标注、引理还原、依存句法分析与命名实体识别，另提供从 Python 访问 Java Stanford CoreNLP 的官方封装（需设置 CORENLP_HOME）。提供通用依存树库 v2.8 全量预训练模型与生物医学/临床英文模型包；各神经模块可用自有 CoNLL-U/BIOES 数据训练，但训练不支持 Pipeline 接口，需从源码运行。通过 pip、conda 或源码安装。
+Stanford NLP Group 官方 Python NLP 库，基于 PyTorch 的神经流水线支持 60+ 种语言的分词、句子切分、词性标注、词形还原、依存句法分析与命名实体识别，并内置访问 Java Stanford CoreNLP 的 Python 封装。提供覆盖 Universal Dependencies v2.8 树库的预训练模型及生物医学/临床英文模型包，各神经模块支持用自有数据训练（CoNLL-U/BIOES 格式，需从源码运行训练）。通过 pip、conda 或源码安装，Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 60+ 语言的神经 NLP 管线（分词/词性/依存分析/NER）
-- Python 访问 Java Stanford CoreNLP 的官方封装
-- 生物医学与临床英文模型包
-- 支持用自有 CoNLL-U/BIOES 数据训练各神经模块
+- 支持 60+ 种语言的神经流水线：分词、MWT、POS、词形还原、依存分析、NER
+- 内置 Stanford CoreNLP 的官方 Python 封装（CORENLP_HOME 配置）
+- 提供 UD v2.8 全树库模型与生物医学/临床英文模型包
+- 所有神经模块支持用 CoNLL-U/BIOES 数据自行训练
 
 ## 适用场景
 
-- 多语言文本做分词与依存句法分析
-- 从生物医学文献与临床笔记中抽取命名实体
-- 在 Python 中调用 Stanford CoreNLP 的标注功能
+- 对多语言文本做分词、句法与依存结构分析
+- 从生物医学文献和临床笔记中抽取命名实体
+- 用自有标注数据训练定制化的 NLP 流水线
 
 ## 场景标签
 
@@ -38,6 +38,7 @@
 ## 证据(README 行号)
 
 > L16: The Stanford NLP Group's official Python NLP library. It contains support for running various accurate natural lang
+> L104: >>> import stanza
 > L106: >>> nlp = stanza.Pipeline('en') # This sets up a default neural pipeline in English
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `142051a8ebbc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c94c7088c0c7` · [字段定义](../../DATASET.md)*

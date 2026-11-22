@@ -2,9 +2,9 @@
 
 ⭐ 6,068 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/vcaesar/riot) · 个人维护 · 中文 README
 
-**Go 语言文本与向量检索引擎库，支持 BM25 与 HNSW**
+**Go 语言分布式文本/向量检索引擎库**
 
-一个 Go 语言的文本索引与检索库，支持文本、数值、日期、IP、地理点、向量等字段类型，提供词条、短语、模糊、正则、范围、地理查询与 ANN/KNN 向量检索；采用 BM25 评分与可插拔接口，HNSW 近似向量搜索支持 int8 量化及磁盘持久化（内存映射）。内置聚合功能（桶、指标、基数估计、分位数近似）。通过 go get 安装，示例覆盖 CJK 分词（gse）与结构体索引。README 提供与 Bleve、Bluge、Tantivy 的同负载基准数据，声明为单机合成数据结果。
+以 Go 库形式提供的文本索引与检索引擎，从 Bluge 分叉而来。支持文本/数值/日期/布尔/IP/地理/向量等字段类型，查询涵盖词项、短语、模糊、正则、范围与 ANN/KNN；打分采用 BM25，向量检索使用带 int8 量化的 HNSW 且图数据随段持久化并可内存映射。配合 gse 分词包可处理中日韩文本，另提及基于它构建的分布式引擎 zedsearch。安装方式为 go get，示例程序在仓库内可直接运行。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- BM25 评分与可插拔相似度接口
-- HNSW 向量搜索支持 int8 量化与磁盘段持久化（内存映射）
-- 字段类型覆盖文本/数值/日期/布尔/IP/地理点/向量
-- 聚合支持 HyperLogLog++ 基数估计与 T-Digest 分位数近似
+- 支持向量检索：HNSW ANN 与精确 KNN，int8 量化，索引持久化到磁盘并内存映射
+- 查询类型覆盖词项/短语/模糊/正则/通配符及地理与数值范围
+- 内置聚合能力：分桶、基数估计（HyperLogLog++）、分位数近似（T-Digest）等
+- 通过 gse 分词包支持中文/日文检索与高亮
 
 ## 适用场景
 
-- 在 Go 项目中嵌入全文检索与向量检索
-- 对中文/日文等 CJK 文本建索引并高亮搜索结果
-- 在磁盘上持久化向量索引并在重启后直接检索
+- 在 Go 应用中为全文与向量数据搭建检索功能
+- 对中日韩文本做索引与带高亮的查询
+- 需要将向量索引持久化并在重启后直接检索的场景
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L12: A fastest, modern text indexing library in Go.
 > L24:  - Geo Bounding Box, Geo Distance, Geo Polygon, ANN, KNN
+> L26: - HNSW approximate vector search with int8 quantization; graphs persist with segments and are memory-mapped from di
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `69b3bb466c15` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `9139e7e0dfbe` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 18,992 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/microsoft/agent-lightning) · [官网](https://microsoft.github.io/agent-lightning/) · 组织维护 · 中文 README
 
-**面向开发者的 agent 强化学习训练框架**
+**以 RL 训练 AI agent 的轻量框架，agent 无需改代码**
 
-约 3,500 行代码的 agentic RL 训练框架：agent 通过其代理捕获模型交互并转为训练数据，训练器基于 verl 与 vLLM 更新策略，rollout controller 支持本地运行或以 Kubernetes Job 运行 agent。README 称 agent 侧零代码改动即可接入训练，同时保留工具、上下文与控制流。安装依赖 CUDA 12.8+ GPU 环境与 uv、verl 脚本。提供 Calc-X、Search-R1、Coding Agent 等 7 个示例。
+微软开源的约 3,500 行代码的 agentic RL 训练框架。agent 通过其 API 代理与模型交互，保持原有工具、上下文、控制流与环境不变的情况下捕获交互转为训练数据，用 verl 与 vLLM 更新策略。架构由 Trainer、API Gateway、Rollout Controller 三组件组成，支持将 agent 作为 Kubernetes Job 运行。提供 Search R1、LLM-in-Sandbox、Coding Agent 等示例及完整训练流水线。需要 CUDA GPU 环境，通过 uv sync 与 verl 安装脚本部署。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- 通过 API 代理捕获训练数据，agent 侧零改动接入训练
-- 原生支持 Kubernetes，agent 可作为 K8s Job 运行
-- 提供完整 Coding Agent 训练管线（数据清洗、reward-hacking 防护、训练脚本）
-- 训练栈基于 verl 与 vLLM
+- ~3,500 行代码的轻量 RL 训练框架
+- agent 经代理接入，零代码修改即可参与训练
+- 原生支持 Kubernetes Job 运行 agent
+- 提供含数据清洗与 reward-hacking 防护的完整训练示例
 
 ## 适用场景
 
-- 用强化学习训练自己的编码/检索/工具调用 agent
-- 在 Kubernetes 集群上跑 agent RL 训练任务
-- 复现 Search-R1、SWE-bench 等 agent 训练实验
+- 用强化学习提升现有 coding agent 的基准成绩
+- 训练多轮检索推理类 agent
+- 在 Kubernetes 集群上开展 agent RL 训练
 
 ## 场景标签
 
-`强化学习` `MLOps` · 领域:训练与推理
+`编码 Agent` `强化学习` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3:  3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses!
-> L19: - 🧩 **Train with real agent harnesses:** Agents interact with the model through the Agent Lightning v1.0 proxy with
-> L41: - **Trainer:** Runs `verl` and vLLM, builds training samples, and updates the policy.
+> L21: - 🧩 **Train with real agent harnesses:** Agents interact with the model through the Agent Lightning v1.0 proxy with
+> L44: - **API Gateway:** Proxies model requests and captures training data.
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `94c79b728a57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `50f49f797d46` · [字段定义](../../DATASET.md)*

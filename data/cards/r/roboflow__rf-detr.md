@@ -2,9 +2,9 @@
 
 ⭐ 10,123 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/roboflow/rf-detr) · [官网](https://rfdetr.roboflow.com) · 组织维护
 
-**实时目标检测/实例分割/关键点检测模型，面向微调部署**
+**面向微调场景的实时目标检测与分割模型**
 
-Roboflow 开发的实时 transformer 检测架构，基于 DINOv2 视觉骨干（Atto/Femto/Pico 用 PE-Core-T），在单一 API 中支持目标检测、实例分割与关键点检测（preview），提供 Nano 至 2XLarge 多档模型规模。核心 rfdetr 包与 Apache 指定模型以 Apache 2.0 发布，Plus 组件（rfdetr_plus，含 Atto/Femto/Pico/XL/2XL）以 PML 1.0 许可。README 给出 COCO 与 RF100-VL 基准，并支持通过 Inference 库运行。
+Roboflow 开发的实时 transformer 检测架构，单一 API 覆盖目标检测、实例分割与关键点检测（预览），基于 DINOv2/PE-Core-T 主干，提供从 Atto 到 2XLarge 的多个尺寸，并给出 COCO 与 RF100-VL 上的精度-延迟基准。通过 rfdetr 包（pip）安装运行，支持用自有数据集微调；部分模型尺寸在 rfdetr[plus] 扩展中，按 PML 1.0 许可发布，在 Roboflow 平台部署含商业使用，自托管商用需 Enterprise 附加项。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Roboflow 开发的实时 transformer 检测架构，基于 DINOv2 视觉骨干�
 
 ## 能力要点
 
-- 检测、实例分割、关键点检测（preview）单一一致 API
-- 基于 DINOv2 backbone，模型规模从 Nano 到 2XLarge
-- 核心包 Apache 2.0，Plus 组件 PML 1.0 分许可
-- 可通过 Inference 库或 rfdetr 包运行
+- 单一 API 支持目标检测、实例分割与关键点检测（预览）
+- 多个模型尺寸（Atto 至 2XLarge），部分由神经架构搜索生成
+- 在 COCO 与 RF100-VL 上发布精度与延迟基准（NVIDIA T4/TensorRT/FP16）
+- 提供 Roboflow 平台上的 NAS 训练入口
 
 ## 适用场景
 
-- 在自己的数据集上微调目标检测模型
-- 需要实例分割或关键点检测的视觉应用
-- 按延迟预算选择不同规模的检测模型部署
+- 对自定义数据集微调目标检测模型
+- 实时目标检测与实例分割推理
+- 在 COCO 与 RF100-VL 指标间横向比较实时检测模型
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Roboflow 开发的实时 transformer 检测架构，基于 DINOv2 视觉骨干�
 ## 证据(README 行号)
 
 > L13: RF-DETR is a real-time transformer architecture for object detection, instance segmentation, and keypoint detection
-> L15: RF-DETR uses a DINOv2 vision transformer backbone (PE-Core-T for Atto, Femto and Pico) and supports object detectio
+> L15: RF-DETR supports object detection, instance segmentation, and keypoint detection (preview) in a single, consistent 
+> L25: To install RF-DETR, install the `rfdetr` package in a **Python>=3.10** environment with `pip`.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `794a1de36408` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7340c68d2c31` · [字段定义](../../DATASET.md)*

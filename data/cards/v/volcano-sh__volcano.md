@@ -1,10 +1,10 @@
 # volcano-sh/volcano
 
-⭐ 6,106 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/volcano-sh/volcano) · [官网](https://volcano.sh) · 组织维护
+⭐ 6,106 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/volcano-sh/volcano) · [官网](https://volcano.sh) · 组织维护 · 中文 README
 
-**Kubernetes 原生批调度系统：运行 AI/大数据/HPC 作业**
+**给 Kubernetes 集群调度 AI/大数据/HPC 批处理作业**
 
-CNCF 孵化项目，扩展标准 kube-scheduler 的 Kubernetes 批调度系统，面向 AI/ML/DL 训练、生物信息/基因组学、大数据与 HPC 等批与弹性工作负载的调度管理。提供与 Spark、Flink、Ray、PyTorch、TensorFlow、MPI、Horovod、Kubeflow 等框架的集成；通过 kubectl YAML、Helm 或源码一键脚本安装，支持 x86_64 与 arm64（源码方式暂仅 x86_64），并维护与 Kubernetes 1.21–1.36 各版本的兼容矩阵。附可选的 agent、监控与 dashboard 组件。
+Volcano 是 CNCF 孵化的 Kubernetes 原生批调度系统，在标准 kube-scheduler 基础上扩展调度能力（基于 kube-batch 构建），用于管理 AI/ML/DL 训练、生物信息/基因组学及大数据等批处理与弹性负载。与 Spark、Flink、Ray、TensorFlow、PyTorch、Kubeflow、MPI、KubeGene 等框架提供集成，附带 admission、controller 组件及可选监控与仪表盘。通过 YAML、helm 或本地脚本安装在既有 Kubernetes 集群上，本地一键安装暂仅支持 x86_64。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ CNCF 孵化项目，扩展标准 kube-scheduler 的 Kubernetes 批调度系统�
 
 ## 能力要点
 
-- 扩展 kube-scheduler 的批与弹性工作负载调度
-- 集成 Spark/Flink/Ray/PyTorch/MPI 等大量 AI、大数据与 HPC 框架
-- 提供 YAML、Helm 与源码一键安装三种方式
-- 维护 Kubernetes 1.21–1.36 版本兼容矩阵
+- 扩展 kube-scheduler 的 Kubernetes 原生批调度
+- 集成 Spark/Flink/Ray/PyTorch/Kubeflow/MPI 等框架
+- 提供 YAML、helm、本地脚本三种安装方式与可选监控组件
+- 提供拓扑感知调度（HyperNode）等调度能力（据 Talks 议题）
 
 ## 适用场景
 
-- 在 Kubernetes 上调度 AI 训练与推理等批作业
-- 运行 Spark/Flink 等大数据工作负载并提升资源利用
-- HPC 与基因计算作业的云原生化管理
+- 在 Kubernetes 上运行分布式深度学习训练作业
+- 金融/制造等场景的大数据离线批处理平台
+- 基因组学与 HPC 作业的容器化调度
+- 在线服务与离线作业混部提升资源利用率
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+ · 领域:云原生基础设施/作业调度
 
 ## 证据(README 行号)
 
 > L16: Volcano is a Kubernetes-native batch scheduling system, extending and enhancing the capabilities of the standard ku
 > L18: These workloads commonly leverage AI, Big Data, and HPC frameworks such as Spark, Flink, Ray, TensorFlow, PyTorch, 
+> L103: - Kubernetes 1.12+ with CRD support
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `78399d20577c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `fbfd74535208` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 10,730 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ollama/ollama-python) · [官网](https://ollama.com) · 组织维护
 
-**Ollama 官方 Python 库：Python 3.8+ 项目接入 Ollama**
+**面向 Python 3.8+ 项目接入 Ollama 的官方客户端库**
 
-Ollama 官方 Python 客户端库，封装 Ollama REST API，提供 chat、generate、embed、list、pull、push、create 等同步/异步方法，支持流式输出与自定义 Client（透传 httpx 参数）。前提是本机安装并运行 Ollama，先 pull 模型。另可指向 ollama.com 云 API，使用 deepseek-v3.1、gpt-oss、kimi-k2 等云端模型，以及本地/云端运行的 System One 决策模型接口。通过 pip 安装。
+该库为 Python 3.8+ 项目提供与 Ollama 集成的接口，API 围绕 Ollama REST API 设计，覆盖 chat、generate、embed（含批量）、pull/push、create、list、show、delete、ps 等操作，支持同步、异步（AsyncClient）与流式响应，自定义 Client 可传入 host 与额外 header（底层使用 httpx）。使用前提是本机安装并运行 Ollama 且已拉取模型。此外支持通过本地 Ollama 或 ollama.com 云 API（API key 鉴权）运行云模型，并提供 ollama.systemone 决策问答接口，云端访问需付费计划。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ Ollama 官方 Python 客户端库，封装 Ollama REST API，提供 chat、gener
 
 ## 能力要点
 
-- 封装 Ollama REST API 的同步/异步客户端（chat/generate/embed 等全量方法）
-- 流式输出（stream=True）与自定义 host/headers 的 Client
-- 可接入 ollama.com 云端大模型（deepseek-v3.1、gpt-oss、kimi-k2 等）
-- System One 决策模型接口：choice/noul/score 三类问题，支持本地与云端
+- 覆盖 chat/generate/embed/pull/push/create 等完整 Ollama REST API 封装
+- 支持流式响应与异步 AsyncClient
+- 支持本地 Ollama 与 ollama.com 云 API 两种方式运行云模型
+- systemone 决策问答接口支持 choice/noul/score 题型及图像输入
 
 ## 适用场景
 
-- 在 Python 项目中调用本地 Ollama 模型做对话或文本生成
-- 通过云 API 调用更大参数量的云端模型
-- 在异步代码中流式消费模型输出
-- 生成文本嵌入用于检索等下游任务
+- 在 Python 应用中调用本地 Ollama 模型生成对话与文本
+- 为文档批量生成向量嵌入
+- 通过云 API 在本地工作流中运行更大参数的模型
 
 ## 场景标签
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `51d4e00bda99` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bf4bfbf8f040` · [字段定义](../../DATASET.md)*

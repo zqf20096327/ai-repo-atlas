@@ -2,9 +2,9 @@
 
 ⭐ 6,099 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/gpustack/gpustack) · [官网](https://gpustack.ai) · 组织维护 · 中文 README
 
-**开源 GPU 集群管理器：统一调度与部署 AI 模型推理服务**
+**AI 模型服务的 GPU 集群管理器：调度推理引擎与 GPU 实例**
 
-面向开发团队、IT 组织与服务提供商的 GPU 集群管理系统：编排 vLLM、SGLang、TensorRT-LLM 等推理引擎部署模型，提供 OpenAI 兼容 API、负载均衡、监控计量与访问控制，并支持按需启动 SSH 可访问的 GPU 实例。调度器跨本地、Kubernetes 与云端分配 GPU 资源，支持 NVIDIA/AMD/Ascend 等 9 类加速器。以 Docker 容器方式安装，worker 节点仅支持 Linux。另有 GPUStack Enterprise 提供 GPU 拓扑视图等功能。
+GPUStack 是一个开源 GPU 集群管理平台，用于 AI 模型服务与 GPU 实例供给：配置并编排 vLLM、SGLang、TensorRT-LLM 等推理引擎，支持按需启动 SSH 可访问的 GPU 实例。功能覆盖多集群 GPU 管理（本地/K8s/云）、GPU 切片与显存/算力分配、内置压测 Auto Tune、故障恢复、负载均衡、监控、认证与访问控制。提供 OpenAI 兼容 API 端点与 UI Playground，面向开发团队、IT 组织与服务提供商交付 Model-as-a-Service。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 编排 vLLM/SGLang/TensorRT-LLM 等可插拔推理引擎，支持自定义引擎
-- 跨本地、Kubernetes 与云环境的多集群 GPU 管理与调度
-- 按需启动 SSH 可访问的 GPU 实例用于开发与微调
-- 内置 OpenAI 兼容 API、认证鉴权、Grafana/Prometheus 监控与故障恢复
+- 多集群 GPU 管理，支持 GPU 切片与可配置显存/算力分配
+- 可插拔推理引擎（vLLM、SGLang、TensorRT-LLM），支持自定义引擎
+- 内置 Auto Tune 压测与预调优的低延迟/高吞吐模式
+- 支持 NVIDIA/AMD/Ascend/Hygon 等多种加速器
 
 ## 适用场景
 
-- 把多台 GPU 服务器组成集群统一部署与运维 LLM 推理服务
-- 以 Model-as-a-Service 方式向团队提供带 API key 计量的模型服务
-- 按需分配 GPU 实例给开发、微调或交互式工作负载
+- 在企业内搭建 Model-as-a-Service 平台统一管理 GPU 与模型部署
+- 管理本地与云端多个 GPU 集群的推理服务
+- 按需启动 SSH 可访问的 GPU 实例做开发与微调
+- 通过 Auto Tune 压测确定服务可承载的峰值吞吐
 
 ## 场景标签
 
-`推理引擎` `MLOps` · 领域:训练与推理
+`推理引擎` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L18: GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning. It configures an
-> L28: GPUStack enables development teams, IT organizations, and service providers to deliver Model-as-a-Service at scale.
-> L30: The figure below illustrates how a single GPUStack server can manage multiple GPU clusters across both on-premises 
+> L30: GPUStack enables development teams, IT organizations, and service providers to deliver Model-as-a-Service at scale.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `0ed5d1ad562e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `61b2a7d2c0f6` · [字段定义](../../DATASET.md)*

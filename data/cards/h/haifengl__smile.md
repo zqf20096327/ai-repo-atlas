@@ -1,10 +1,10 @@
 # haifengl/smile
 
-⭐ 6,437 · Java · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/haifengl/smile) · [官网](https://haifengl.github.io) · 个人维护
+⭐ 6,437 · Java · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/haifengl/smile) · [官网](https://haifengl.github.io) · 组织维护
 
-**面向 JVM 的机器学习框架，覆盖经典 ML、深度学习与 LLM 推理**
+**JVM 平台的机器学习与 LLM 推理引擎库**
 
-SMILE 是 JVM 上的机器学习框架，以 Java/Scala/Kotlin API 提供分类、回归、聚类、流形学习、NLP、数值方法与可视化等算法。深度学习模块基于 LibTorch 后端（GPU/CPU 张量、自定义层），LLM 模块含 LLaMA-3/Qwen3.5 推理栈、tiktoken 分词器、连续批处理推理引擎、KV 缓存与量化/张量并行。另有 SMILE Serve（Quarkus 推理服务器，OpenAI 兼容 API）、SMILE Studio（数据科学桌面 IDE）及 Spark 集成模块。v5+ 需 Java 25；部分算法依赖 BLAS/LAPACK 本地库。
+面向 JVM 的机器学习与 AI 平台，基于 Java 25，提供 Kotlin/Scala API。核心引擎可在 Java/Scala/Kotlin 进程内直接调用分类、回归、聚类、流形学习、时间序列、NLP、深度学习等数百种算法；SMILE Serve 为基于 Quarkus 的推理服务器，统一提供经典 ML 模型、ONNX 模型与 OpenAI 兼容的 LLM 聊天接口；另含 Agent Studio 桌面工作区与数据处理（CSV/JSON/Parquet 等）模块。默认纯 JVM 运行，原生加速（OpenBLAS/LAPACK、ONNX Runtime、LibTorch/CUDA）为可选。商业许可由 HALO.AI 提供，移除 copyleft 义务。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ SMILE 是 JVM 上的机器学习框架，以 Java/Scala/Kotlin API 提供分类�
 
 ## 能力要点
 
-- JVM 全栈 ML 算法库：分类/回归/聚类/流形学习/NLP/数值方法
-- LibTorch 后端深度学习与 EfficientNet-V2 图像分类
-- smile.llm：LLaMA-3/Qwen3.5 推理、连续批处理、KV 缓存、FP8/NVFP4 量化
-- SMILE Serve 提供 OpenAI 兼容推理服务与 React Web UI
+- 核心引擎数百种算法覆盖分类/回归/聚类/流形/NLP/时间序列等
+- SMILE Serve 统一推理服务器：经典 ML、ONNX、OpenAI 兼容 LLM 接口
+- 进程内 TreeSHAP 与 KernelSHAP 特征归因解释
+- 支持 DeepSeek、MiniMax、Qwen、LLaMA 等模型的本地 LLM 推理
 
 ## 适用场景
 
-- 在 Java/Scala/Kotlin 项目中使用机器学习与深度学习算法
-- 在 JVM 上运行 LLaMA-3/Qwen3.5 本地 LLM 推理
-- 通过 SMILE Serve 部署 OpenAI 兼容的模型推理服务
-- 在 Spark ML 管道中训练和评分 SMILE 模型
+- 在 JVM 微服务或边缘设备上内嵌模型训练与预测
+- 自托管部署多模态 LLM 推理服务
+- 对高风险决策提供 SHAP 级模型解释
+- 数据管道中的 DataFrame 处理与统计分析
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L6: SMILE (Statistical Machine Intelligence & Learning Engine) is a comprehensive,
-> L35: |**LLM**|LLaMA-3 inference, tiktoken BPE tokenizer, OpenAI-compatible REST server, SSE chat streaming|
-> L111: |LLM.md|`smile.llm` — tokenizer, LLaMA-3, Qwen3.5, inference engine, KV cache, quantization, tensor parallelism|
+> L7: high-performance machine learning and AI platform for the JVM. Built on **Java 25**
+> L31: - **Comprehensive Breadth in One Engine:** Hundreds of algorithms spanning classification, regression, clustering, 
+> L42: A production-ready, Quarkus-based inference server (available as JVM, CUDA GPU, and GraalVM native containers) that
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `8148e0ed3736` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `332e0bec3e53` · [字段定义](../../DATASET.md)*

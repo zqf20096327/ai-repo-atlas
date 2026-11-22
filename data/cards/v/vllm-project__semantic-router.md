@@ -2,9 +2,9 @@
 
 ⭐ 6,515 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/vllm-project/semantic-router) · [官网](https://vllm-sr.ai) · 组织维护
 
-**多模型智能路由决策层：按策略为每次调用选模型**
+**为智能体提供多模型统一 API 的可编程语义路由决策层**
 
-面向 agent harness 的可编程模型决策层：对外提供一个统一推理端点，依据用户设定的策略（质量、时延、成本、位置合规）在本地、私有与云端的后端间选择或组合模型；agent 侧保留循环、工具与任务状态，路由器只负责模型与算力选择。配套发布 Decision/Vela 系列开放路由基础模型，并支持幻觉检测、语义缓存等能力。通过 install.sh 脚本安装，提供在线 playground 试用。
+vLLM 旗下的开源路由组件：为 agent harness 提供单一 API，按策略为每次调用选择或组合多个已配置的模型后端，覆盖本地、私有与云端计算，并支持按质量、延迟、成本设置优先级，以及将调用限制在批准的部署位置。agent 循环、工具与任务状态仍由用户侧 harness 承担，Router 只负责决策分发。提供 install.sh 脚本安装，pip/uv 与 agent 驱动安装见安装指南；附浏览器在线试用入口（System Duo）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 统一 API 端点，在多后端间按策略选择或组合模型
-- 支持质量/时延/成本/位置维度的优先级设置
-- Decision/Vela 系列开放路由基础模型
-- 内置 LettuceDetect 生成式幻觉检测端点
+- 单 API 接入多模型，按策略选择或组合模型
+- 支持本地/私有/云多后端与部署位置约束
+- 按质量、延迟、成本优先级配置路由
+- 提供 Decision/Vela 系列开源路由模型与浏览器在线试用
 
 ## 适用场景
 
-- 让 agent 框架通过一个端点接入多个模型
-- 按任务动态设置质量、时延与成本优先级
-- 将推理调用限制在指定位置（边缘/私有/云端）的合规场景
+- 让 agent harness 在多个模型后端间按任务自动路由
+- 按成本与延迟优先级管理 LLM 调用
+- 将模型调用限制在企业批准的部署位置
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L28: Give your agent harness one API for many models. vLLM Semantic Router selects or combines models for each call, gui
 > L30: Your harness keeps the agent loop, tools, and task state. The Router chooses among configured backends across local
+> L46: curl -fsSL https://vllm-sr.ai/install.sh | bash -s -- --channel stable
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `80ef7e483721` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `569af8120d8b` · [字段定义](../../DATASET.md)*

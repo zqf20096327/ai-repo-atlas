@@ -2,9 +2,9 @@
 
 ⭐ 21,121 · MIT · 推送 2026-11-12 · [GitHub](https://github.com/EthicalML/awesome-production-machine-learning) · [官网](https://ethicalml.github.io/awesome-production-machine-learning) · 组织维护
 
-**生产级机器学习开源库策展清单：部署/监控/版本/扩展**
+**生产级机器学习开源工具库的策展清单**
 
-由 EthicalML 维护的 MLOps 工具策展清单，收录用于部署、监控、版本管理、扩展与安全防护生产机器学习的开源库，按 AutoML、数据管道、部署与服务、评估与监控、可解释性、特征存储、隐私安全等 25+ 个类别组织条目。另提供一个搜索工具包帮助在工具链中导航，并配有 10 分钟视频概览与月度 release 更新摘要。条目覆盖从训练优化、分布式计算到行业级 CV/NLP/推荐系统的各类库。
+面向机器学习工程师的开源库聚合清单，收录用于部署、监控、版本管理、扩展与安全化生产 ML 的工具。按约 27 个类别组织，包括 AutoML、计算与通信优化、部署与推理、评估与监控、可解释性与公平性、特征库、模型/数据/实验管理等。通过 GitHub releases 每月汇总新增条目，附搜索工具包、10 分钟视频概览与每周 ML 工程师通讯，社区通过 CONTRIBUTING.md 规范提交 PR。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 按 25+ 类别组织生产 ML 工具链条目（部署、监控、特征存储、隐私等）
-- 提供搜索工具包用于快速导航工具链
-- 通过 GitHub release 每月汇总新增库
-- 附 10 分钟 MLOps 视频概览（2024 版）
+- 约 27 个 MLOps 类别的开源库策展清单
+- 通过 GitHub releases 每月汇总新增条目
+- 提供搜索工具包与 10 分钟视频概览
+- 配套 Awesome Production GenAI List 与 70,000+ 订阅者通讯
 
 ## 适用场景
 
-- 为生产 ML 项目选型部署、监控与版本管理工具
-- 按类别浏览 MLOps 生态中的开源库
-- 跟踪每月新出现的产品级 ML 库
+- 为模型部署、监控与版本管理寻找合适的开源工具
+- 按类别浏览 MLOps 工具链的选型范围
+- 跟踪每月新增的生产级 ML 库
 
 ## 场景标签
 
@@ -45,7 +45,7 @@
 ## 证据(README 行号)
 
 > L6: This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version
-> L10: Additionally, we provide a search toolkit that helps you quickly navigate through the toolchain.
+> L16: |🔧 AutoML|🧮 Computation & Communication Optimisation|🏷️ Data Annotation & Synthesis|
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ea92ea14270b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `be9f8498bf74` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 8,182 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LibrePhotos/librephotos) · [官网](https://docs.librephotos.com/) · 组织维护
 
-**自托管照片管理服务：人脸识别、语义搜索的私有相册**
+**自托管照片管理服务：人脸识别、物体检测与语义搜索**
 
-自托管开源照片管理服务，整合此前五个仓库为 monorepo：Django 5 后端 API、React 19 前端、Expo 移动端与 Docker/K8s 部署配置。机器学习功能包括 InsightFace 人脸检测与聚类（命名一次自动建议）、LFM2.5-VL 图像描述生成、OpenCLIP/CLIP 语义搜索与相似照片、标签生成；全部模型经 ONNX Runtime 运行，不依赖 PyTorch。支持 RAW/HEIC/JPEG XL、视频与实况照片、多用户共享相册、OpenID 单点登录。ML 功能内存消耗较高，官方建议 8GB+ 内存。
+自托管的开源照片管理服务，由五个原仓库合并而成的 monorepo，含 Django 后端、React Web 客户端、Expo 移动端与文档站。核心功能包括时间线浏览、多用户与共享相册、人脸检测与聚类、基于 CLIP 的语义搜索、地图与逆地理编码、RAW/HEIC 等格式支持。所有模型经 ONNX Runtime 运行、不依赖 PyTorch；机器学习功能对内存要求较高，README 建议 8 GB 以上内存。部署方式覆盖单容器、Docker Compose、Kubernetes、Unraid 与 Windows 独立可执行文件。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 人脸检测与聚类：命名一次后自动建议同人物照片
-- 语义搜索（如 dog on a beach）基于 CLIP/OpenCLIP + FAISS
-- 全部模型经 ONNX Runtime 运行，无 PyTorch 依赖
-- 按日期地点分组的时间线、重复检测与事件自动生成相册
+- 人脸检测与聚类：命名一人后自动建议其余照片
+- 基于 CLIP ViT-B/32 的语义搜索与相似照片检索
+- 全部 ML 模型经 ONNX Runtime 运行，无 PyTorch 依赖
+- 支持单容器、Compose、Kubernetes、Unraid 与 Windows 独立可执行文件五种部署
 
 ## 适用场景
 
-- 我想要一个隐私自控的私人照片库，不想上传到云服务
-- 给家人共享相册并用语义搜索快速找照片
-- 自动按人物和地点整理多年积累的照片（含 RAW）
+- 在自家服务器上集中管理照片和视频并自动打标签
+- 按“沙滩上的狗”这类自然语言描述搜索照片
+- 家庭多人共享相册与公开链接
 
 ## 场景标签
 
-`语义搜索` `人脸识别` · 领域:知识与检索
+`语义搜索` `人脸识别` `目标检测` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L10: A self-hosted, open-source photo management service with automatic face recognition, object detection, and semantic
-> L55:  - Face detection and clustering: name a person once and the rest is suggested
+> L91: - **ML runtime:** ONNX Runtime for every model, no PyTorch
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `e0815909e864` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `137377da9274` · [字段定义](../../DATASET.md)*

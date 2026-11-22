@@ -1,10 +1,10 @@
 # MochiDiffusion/MochiDiffusion
 
-⭐ 7,980 · Swift · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) · 个人维护 · 中文 README
+⭐ 7,980 · Swift · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) · 组织维护 · 中文 README
 
-**在 Mac 上本地运行 Stable Diffusion / FLUX.2 Klein 生图的原生应用**
+**Mac 本地原生运行 Stable Diffusion 与 FLUX.2 Klein 的图像生成应用**
 
-基于 SwiftUI 的原生 macOS 桌面应用，使用 Apple 的 Core ML Stable Diffusion 实现与 Iris pipeline（Metal GPU 加速）在本地离线生成图像，支持 Stable Diffusion（含 ControlNet、img2img）与 FLUX.2 Klein（4B/9B 蒸馏版，最多 4 张输入图）。图像保存为 PNG 并附带生成设置，兼容 AUTOMATIC1111 类工具与 Civitai 上传读取。需要用户提供转换好的 Core ML 模型或 FLUX.2 Klein 模型；限制：Core ML 模型仅能生成转换时固定的图像尺寸，首次运行 Neural Engine 编译缓存可能耗时约 2 分钟。
+原生 macOS SwiftUI 应用，使用 Apple Core ML Stable Diffusion 实现在本地离线生成图像，Core ML 路径针对 Apple Silicon 的 Neural Engine 优化（速度与内存效率），每个 Core ML 模型在转换时固定图像尺寸；另通过 Iris pipeline 以 Metal GPU 加速运行无需转换的 FLUX.2 Klein 与 Z-Image Turbo 模型，并可连接 Draw Things 应用或 gRPC 服务器生图。生成图像保存为 PNG 并写入生成参数，兼容 AUTOMATIC1111 可读取的格式；应用不收集数据与遥测。需 Apple Silicon 与 macOS 15.6+，可下载安装或从源码构建。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 本地完全离线生成，不收集数据或遥测
-- Core ML Stable Diffusion 支持 CPU&Neural Engine / CPU&GPU 两种计算单元
-- FLUX.2 Klein 无需模型转换，最多 4 张输入图并自动调整尺寸
-- 生成图像附带 AUTOMATIC1111 兼容的元数据
+- Core ML Stable Diffusion 本地离线生图，支持 CPU & Neural Engine / CPU & GPU 计算单元选项
+- Iris pipeline 以 Metal GPU 加速运行 FLUX.2 Klein（最多 4 张输入图）与 Z-Image Turbo（仅 t2i）
+- 可连接同机或局域网内 Draw Things 应用/gRPC 服务器生图，支持其 LoRA 与参考图
+- PNG 保存生成设置，兼容 AUTOMATIC1111 与 Civitai 上传读取
 
 ## 适用场景
 
-- 在 Apple Silicon Mac 上离线生成 Stable Diffusion 图像
-- 使用 ControlNet 或起始图像进行引导生成
-- 本地运行 FLUX.2 Klein 模型生图并用内置画廊管理
+- 在 Mac 上完全离线生成图像，不上传云端
+- 在 Apple Silicon 上用 Neural Engine 快速出图并降低内存占用
+- 连接局域网 Draw Things 服务器，把生图放到其他机器的硬件上
+- 管理本地模型库与内置图库（导入/保存/同步）
 
 ## 场景标签
 
@@ -38,7 +39,8 @@
 ## 证据(README 行号)
 
 > L11: Mochi Diffusion is a native macOS app for generating images locally using Apple's Core ML Stable Diffusion implemen
-> L15: - Generate images locally and completely offline
+> L127: - Apple Silicon (M1 and later)
+> L18: - macOS native app using SwiftUI
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `c30adb812a45` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8b63862dfa2f` · [字段定义](../../DATASET.md)*

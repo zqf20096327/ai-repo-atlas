@@ -1,10 +1,10 @@
 # ethanplusai/sellbird
 
-⭐ 6,882 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ethanplusai/sellbird) · [官网](https://sellbird.ai) · 个人维护
+⭐ 6,882 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ethanplusai/sellbird) · [官网](https://sellbird.ai) · 组织维护
 
-**用 Claude/ChatGPT 订阅运行的冷邮件外联平台**
+**跑在 Claude/ChatGPT 订阅上的开源冷邮件外联平台**
 
-开源外联（outreach）流水线：在 OpenStreetMap 或付费数据源检索匹配企业，读取企业网站提取购买信号（无需模型调用），查找决策人、学习并验证邮箱格式，为每人撰写个性化冷邮件序列，经 Gmail/Microsoft 365/SMTP 发送并处理回复。模型推理通过用户已有的 Claude Pro/Max（Claude Code CLI）或 ChatGPT 订阅（Codex CLI）完成，无 API key 与按 token 计费。默认所有外发邮件需人工批准，提供 Docker 运行方式，AGPL-3.0 许可（原 Harvey，0.4.0 起更名）。
+Sellbird（原名 Harvey）是一条可端到端运行或分步停止的销售外联流水线：检索匹配的企业、读取其官网提取购买信号、定位决策人、学习邮箱格式并验证地址、生成个性化冷邮件序列并经 Outbox 审批后发送，再读取回复起草答复并即时遵守退订。推理通过用户已有的 Claude Code CLI（Claude Pro/Max 订阅）或 Codex（ChatGPT 订阅）完成，无 API key、无按 token 计费，并自我限速。默认发送需人工批准，含无模型参与的预发送检查。AGPL-3.0 许可，另有 sellbird.ai 托管版（early access）。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 端到端外联流水线：找企业→读信号→找决策人→验证邮箱→写发邮件→处理回复
-- 复用 Claude Pro/Max 或 ChatGPT 订阅做推理，无 API key 与按 token 计费
-- 默认所有外发邮件须经 Outbox 批准，含无模型参与的预发送检查
-- 信号读取阶段仅三次 HTTP 请求、不调用模型，默认数据源 $0
+- 五步流水线：找企业→读信号→找决策人→验证邮箱→写发并处理回复
+- 通过 Claude Code 或 Codex CLI 运行，使用订阅额度，无模型 API 账单
+- 发送前人工审批、预发送规则检查、一键暂停，退订即时生效
+- 可导出 sequencer-ready CSV，支持 Docker 与 Linux/macOS/Windows
 
 ## 适用场景
 
-- 用已有 Claude/ChatGPT 订阅跑个性化冷邮件外联，不付模型 API 账单
-- 小团队自己搭建销售线索挖掘与邮件验证流水线
-- 只需线索列表时导出 sequencer-ready CSV 交给现有邮件工具
+- 为自己的产品自动寻找潜在客户并发送个性化冷邮件
+- 只需潜在客户名单时在验证一步后停止并导出 CSV
+- 在人工审批模式下安全地试验自动化外联
 
 ## 场景标签
 
-`网页抓取` · 领域:效率与自动化
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L9: Sellbird finds companies that need what you sell, finds the person who decides, checks their email address, writes e
-> L51: Sellbird thinks through the Claude Code CLI on your Claude Pro or Max plan, or through Codex on a ChatGPT plan. The
+> L56: Sellbird thinks through the Claude Code CLI on your Claude Pro or Max plan, or through Codex on a ChatGPT plan. The
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `1435835842c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6e6de490cbac` · [字段定义](../../DATASET.md)*

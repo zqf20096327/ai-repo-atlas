@@ -2,9 +2,9 @@
 
 ⭐ 4,400 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/HarnessRouter/harnessrouter) · [官网](https://harnessrouter.ai/) · 组织维护
 
-**自托管的 agent harness 统一接口：一套 API 运行多种编码代理**
+**为构建 agent 产品的开发者提供统一的 agent harness 接入 API**
 
-Apache-2.0 的基础设施层：将 Codex、Claude Code、DeepSeek Harness 等 26 种 agent harness 变为可插拔的产品后端，通过实现 Unified Harness Protocol（UHP）的 OpenAI Responses 兼容 API 暴露会话、流式进度、文件、幂等重试、取消与结构化失败处理。面向要在产品中集成代理能力的开发团队，自托管社区版以单条 Docker 命令部署 Console/Gateway/Runner，自带模型提供商密钥，另提供 5 个 Starter Kit（幻灯片/表格/仪表盘/视频/多代理工作区，许可条款与社区版不同）。
+自托管的 agent harness 基础设施层：将 Codex、Claude Code 等多个 agent harness 转为可插拔后端，产品通过一个 OpenAI Responses 兼容 API 运行任务、获取结果并切换 harness。实现 Unified Harness Protocol (UHP)，处理持久会话、流式进度、文件、取消、幂等重试（Idempotency-Key）与结构化失败。以 Docker 镜像分发，需自带 provider API key，无内置模型；Apache-2.0 许可，另有托管 Cloud 版。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Apache-2.0 的基础设施层：将 Codex、Claude Code、DeepSeek Harness 等 2
 
 ## 能力要点
 
-- 统一 API 接入 26 种 harness 基座
-- UHP 协议实现与 OpenAI Responses 兼容 API
-- 持久会话、流式、幂等重试、秘密引用与沙箱外脱敏
-- 单条 Docker 命令自托管，无需平台账号
+- 一个 API 接入多个 harness，metadata.harness_id 选择后端，31 种 harness 列出
+- OpenAI Responses 兼容接口，支持会话、SSE 流式、文件、取消与幂等重试
+- W3C Trace Context 追踪头透传与 vault 密钥引用/脱敏机制
+- 提供 Slides/Sheets/Dashboards/Videos 等 Starter Kit 示例
 
 ## 适用场景
 
-- 产品后端以一套 API 调用多种 agent harness 并按任务切换
-- 在不同 harness × 模型配置间比较成本与延迟
-- 在自有基础设施上运行代理任务并保留会话与文件
+- 把 agent harness 作为后端嵌入自家产品的 agent 功能
+- 在多个 harness 和模型配置间切换以比较成本与延迟
+- 自托管基础设施上运行内容生成、数据分析、SQL 查询等知识型 agent 任务
 
 ## 场景标签
 
-`Agent 框架` `模型网关` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L15: **Build agent products without handling harness engineering.** HarnessRouter is the infrastructure layer that turns
-> L25: HarnessRouter implements the Unified Harness Protocol (UHP) and provides an OpenAI Responses-compatible API, handli
+> L16: **Build agent products without handling harness engineering.** HarnessRouter is the infrastructure layer that turns
+> L26: HarnessRouter implements the Unified Harness Protocol (UHP) and provides an OpenAI Responses-compatible API, handli
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `a21ece07d420` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d015c2ceda87` · [字段定义](../../DATASET.md)*

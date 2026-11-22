@@ -2,9 +2,9 @@
 
 ⭐ 9,224 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/modelscope/modelscope) · [官网](https://www.modelscope.cn/) · 组织维护 · 中文 README
 
-**Model-as-a-Service 框架库：统一接口做模型推理/训练/评估**
+**开发者用的 MaaS 模型推理/训练/评估库**
 
-ModelScope 官方开源 Python 库，围绕 Model-as-a-Service 理念，为 CV、NLP、语音、多模态、AI for Science 领域模型提供统一的 pipeline 推理接口与 Trainer 微调/评估接口；通过分层 API 支持模型贡献者集成模型，并与 ModelScope Model-Hub/Dataset-Hub 后端交互（实体查找、版本控制、缓存管理）。平台公开 700+ 模型，README 标注 Docker 镜像与 pip 安装两种途径；部分音频模型仅支持 Python3.7 + TF1.15 Linux 环境，Linux 下部分模型需手动安装 libsndfile。
+基于 Model-as-a-Service 理念的开源 Python 库，提供 pipeline 推理与 Trainer 训练/评估的统一接口，覆盖 CV、NLP、语音、多模态、AI for Science 等领域模型；与 ModelScope 平台的 Model-Hub、Dataset-Hub 交互，管理模型/数据集的查找、版本控制与缓存。700+ 模型可在 modelscope.cn 在线体验，云端 Notebook 提供 CPU/GPU 环境；部分音频模型仅支持 Python 3.7/TensorFlow 1.15 的 Linux 环境。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ ModelScope 官方开源 Python 库，围绕 Model-as-a-Service 理念，为 CV�
 
 ## 能力要点
 
-- pipeline 统一推理接口，数行代码完成各任务推理
-- Trainer 支持微调与评估，含数据并行/模型并行/混合并行训练策略
-- 覆盖 LLM、多模态、CV、语音、AI for Science 五类模型的模型生态接入
-- 提供官方 CPU/GPU Docker 镜像，支持 PyTorch/TensorFlow/ONNX
+- pipeline 推理、Trainer 微调与评估的统一 API
+- 与 Model-Hub/Dataset-Hub 集成的模型与数据集管理（版本控制、缓存）
+- 官方提供 CPU/GPU Docker 镜像开箱使用
+- 大模型分布式训练策略支持（数据/模型/混合并行）
 
 ## 适用场景
 
-- 用几行代码加载并运行各领域模型的推理
-- 对平台模型做微调与评估构建下游应用
-- 基于官方 Docker 镜像免配置搭建训练/推理环境
-- 模型贡献者将自有模型集成进 ModelScope 生态
+- 几行代码调用社区模型做推理实验
+- 用 Trainer 微调模型并做评估
+- 从 ModelHub 下载和管理模型与数据集
+- 基于 ModelScope 生态搭建自己的 MLOps 流程
 
 ## 场景标签
 
-`微调` `推理引擎` · 领域:训练与推理
+`多模态` `微调` `推理引擎` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L19: ModelScope is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machin
-> L21: In particular, with rich layers of API-abstraction, the ModelScope library offers unified experience to explore sta
+> L101: We provide unified interface for inference using `pipeline`, fine-tuning and evaluation using `Trainer` for differ
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `9ed9c8676050` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `eaae192b883a` · [字段定义](../../DATASET.md)*

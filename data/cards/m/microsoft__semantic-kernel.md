@@ -2,15 +2,15 @@
 
 ⭐ 28,792 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/semantic-kernel) · [官网](https://aka.ms/semantic-kernel) · 组织维护
 
-**为开发者提供构建 AI 智能体与多智能体系统的 SDK**
+**面向开发者的 LLM Agent 编排 SDK（Python/.NET/Java）**
 
-Semantic Kernel 是一个模型无关的 SDK，提供 Python、.NET、Java 三语言包，用于构建、编排和部署 AI agent 与多智能体系统。关键机制包括：插件/工具扩展（原生函数、prompt 模板、OpenAPI、MCP）、多智能体编排、向量数据库集成、多模态输入处理与本地部署支持。README 顶部声明该项目已由 Microsoft Agent Framework 接替，MAF 1.0 已发布并提供迁移指南。
+Semantic Kernel 是微软维护的模型无关 SDK，用于构建、编排和部署 AI Agent 与多 Agent 系统。提供 Agent 框架、多 Agent 协作编排、插件生态（原生函数、提示模板、OpenAPI、MCP）、向量数据库集成与结构化业务流程建模（Process Framework）。支持 OpenAI、Azure OpenAI、Hugging Face 等云端模型及 Ollama、LMStudio、ONNX 本地部署，多语言发行于 Python、.NET 与 Java。README 注明其继任者为 Microsoft Agent Framework。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,17 +27,17 @@ Semantic Kernel 是一个模型无关的 SDK，提供 Python、.NET、Java 三�
 
 ## 能力要点
 
-- 模型无关 SDK，内置接入 OpenAI、Azure OpenAI、Hugging Face、NVidia 等
-- 提供 Python / .NET / Java 三语言包
-- 插件扩展支持原生函数、prompt 模板、OpenAPI、MCP
-- 支持 Ollama、LMStudio、ONNX 本地运行
+- 模型无关 SDK，内置 OpenAI、Azure OpenAI、Hugging Face、NVIDIA 等连接器
+- Agent 框架支持工具/插件、记忆与规划能力
+- 插件生态：原生函数、提示模板、OpenAPI 规范、MCP
+- 支持 Ollama、LMStudio、ONNX 本地部署与多模态输入
 
 ## 适用场景
 
-- 在应用中接入 LLM 构建聊天助手
-- 编排多个协作 agent 处理复杂工作流
-- 通过插件/工具扩展让 agent 调用自有能力
-- 企业环境中构建可观测、安全的 agent 系统
+- 在 Python/.NET/Java 应用中接入 LLM 构建 chatbot
+- 编排多个专业化 Agent 协作完成复杂工作流
+- 通过插件与 MCP 扩展 Agent 的工具能力
+- 企业环境中构建可观测、可扩展的 Agent 系统
 
 ## 场景标签
 
@@ -46,6 +46,7 @@ Semantic Kernel 是一个模型无关的 SDK，提供 Python、.NET、Java 三�
 ## 证据(README 行号)
 
 > L17: Semantic Kernel is a model-agnostic SDK that empowers developers to build, orchestrate, and deploy AI agents and mu
+> L29: - **Agent Framework**: Build modular AI agents with access to tools/plugins, memory, and planning capabilities
 > L4: > Semantic Kernel is now Microsoft Agent Framework! Microsoft Agent Framework (MAF) is the enterprise‑ready successo
 
 ## 星数曲线
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4f0e02add554` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f602b39cb1e8` · [字段定义](../../DATASET.md)*

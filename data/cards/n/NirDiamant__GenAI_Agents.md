@@ -2,17 +2,17 @@
 
 ⭐ 25,081 · Jupyter Notebook · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/NirDiamant/GenAI_Agents) · [官网](https://diamant-ai.com) · 个人维护
 
-**面向学习者的 50+ 生成式 AI Agent 教程与实现合集**
+**GenAI agent 技术教程与实现集合：从对话机器人到多智能体系统**
 
-以教程/笔记本形式组织的生成式 AI Agent 合集，按初学者、框架、教育、商业、创意、分析、新闻等分类收录 57 个实现，每个条目标注所用框架（LangChain、LangGraph、PydanticAI、AutoGen、CrewAI 等）与关键功能，涵盖对话机器人、多智能体协作、RAG Agent、任务与内容生成等。仓库还提供作者付费课程、newsletter、YouTube 讲解频道及配套项目（RAG Techniques、Agent Memory Techniques 等），接受社区贡献。
+以 Jupyter notebook 为主的教学仓库，收录 64 个 GenAI agent 教程与实现，按难度和应用领域分类，覆盖 LangChain、LangGraph、PydanticAI、AutoGen 等框架，并提供配套书籍与 YouTube 讲解。每个 notebook 需自备 API key，2026-10-31 更新说明部分 notebook 未在真实服务上端到端运行过，旧模型 ID 已替换为现行版本。面向从入门到进阶的学习者与开发者。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- 57 个按类别组织的 Agent 教程实现，标注框架与功能
-- 覆盖 LangChain、LangGraph、PydanticAI、AutoGen、CrewAI 等框架
-- 从简单对话代理到多智能体系统的渐进式学习路径
-- 接受社区贡献并持续更新条目
+- 64 个 agent 教程，从入门对话机器人到多智能体协作
+- 12 个 2026 核心模式 notebook：路由、agent 循环、反思、计划执行、评估等
+- 按初学者/框架/教育/商业/创意/分析等类别组织的用例表格
+- 配套书籍、博客文章与 YouTube 系列讲解
 
 ## 适用场景
 
-- 从零开始学习构建第一个 AI Agent
-- 查找特定场景（客服、论文综述、内容生成）的 Agent 实现参考
-- 比较不同框架下同类 Agent 的实现方式
+- 学习构建第一个 AI agent 的完整流程
+- 参考 LangGraph 多智能体系统的实现范例
+- 按业务场景（客服/合同分析/旅行规划）查找 agent 模板
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L9: Welcome to one of the most extensive and dynamic collections of Generative AI (GenAI) agent tutorials and implementa
-> L135: |#|Category|Agent Name|Framework|Key Features|
-> L137: |1|🌱 **Beginner**|Simple Conversational Agent|LangChain/PydanticAI|Context-aware conversations, history management
+> L13: Welcome to one of the most extensive and dynamic collections of Generative AI (GenAI) agent tutorials and implement
+> L116: - 🎓 Learn to build GenAI agents from beginner to advanced levels
+> L133: |Ch.|Pattern|Notebook|
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b7f57f4f118d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `0f46de839e22` · [字段定义](../../DATASET.md)*

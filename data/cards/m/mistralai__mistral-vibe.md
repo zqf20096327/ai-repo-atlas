@@ -2,17 +2,17 @@
 
 ⭐ 5,448 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mistralai/mistral-vibe) · 组织维护
 
-**Mistral 官方的命令行 AI 编程助手**
+**Mistral 出品的终端编码 agent CLI，代读代码改文件跑命令**
 
-Mistral 开源的命令行编程助手，由 Mistral 模型驱动，提供对话式界面浏览、修改代码库：内置文件读写补丁、shell 命令执行、grep 代码搜索（支持 ripgrep）、todo 跟踪、子代理任务委派等工具；自动提供项目位置、Git 分支与提交历史作为上下文。支持 ask/accept-edits/auto-approve 多种代理配置、config.toml 定制模型与提供商、信任目录机制和工具执行审批。支持交互模式与 --prompt 脚本化运行（含 max-turns/max-price/max-tokens 限额），终端 UI 为捆绑的 Rust 二进制。官方目标为 UNIX 环境，Windows 可运行但非官方支持目标。
+Mistral AI 发布的开源终端编码 agent：用户用自然语言描述需求，工具读取代码、编辑文件并执行命令，在执行有风险操作前先请求确认。通过安装脚本或 uv 安装，登录 Mistral 账户或 API key 后运行，提供命令与快捷键、配置、权限审批、IDE 集成与编程模式等文档化能力。默认开启遥测，可在 config.toml 中关闭；仓库不接受 pull request，仅接受 issue 反馈。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@ Mistral 开源的命令行编程助手，由 Mistral 模型驱动，提供对话
 
 ## 能力要点
 
-- 对话式 agent 工具集：文件读写、shell 执行、grep 搜索（ripgrep）、todo 管理
-- 子代理任务委派，独立运行避免上下文过载
-- 多代理配置（ask/accept-edits/auto-approve）与工具执行审批
-- 程序化模式支持 --max-turns/--max-price/--max-tokens 限额
+- 终端内读取代码、编辑文件并运行命令，风险操作前需确认
+- 支持 Mistral 账户或 API key 登录
+- 提供配置、权限审批、IDE 集成与编程模式等能力
+- 可通过 config.toml 关闭遥测与崩溃报告
 
 ## 适用场景
 
-- 用自然语言浏览和重构代码库
-- 脚本化/CI 中以 --prompt 非交互运行 agent 任务
-- 通过子代理并行探索代码结构
+- 在终端里用自然语言让 agent 修改项目代码
+- 对命令执行保留审批确认的工作流
+- 在其他 IDE 中接入同一编码 agent
 
 ## 场景标签
 
@@ -37,8 +37,8 @@ Mistral 开源的命令行编程助手，由 Mistral 模型驱动，提供对话
 
 ## 证据(README 行号)
 
-> L15: **Mistral's open-source CLI coding assistant.**
-> L17: Mistral Vibe is a command-line coding assistant powered by Mistral's models. It provides a conversational interface
+> L15: Mistral Vibe is an open-source coding agent for your terminal. Describe what you want, and it reads your code, edit
+> L36: uv tool install --python 3.14 mistral-vibe
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `c7d36db67f8d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1cbba36e2515` · [字段定义](../../DATASET.md)*

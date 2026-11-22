@@ -2,9 +2,9 @@
 
 ⭐ 4,854 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/arxhr007/Aliens_eye) · [官网](https://arxhr007.github.io/aliens-eye) · 个人维护
 
-**AI 驱动的 OSINT 用户名扫描器：检测 840+ 平台账号**
+**面向 OSINT 调研者的 AI 用户名全网扫描工具，覆盖 7,700+ 平台**
 
-面向 OSINT 研究者的命令行工具，在 840+ 社交平台异步查找某用户名是否存在账号。检测机制为 30 维特征向量上加权启发式与逻辑回归模型的混合判定，输出 Found/Maybe/Not Found 及置信度，并以不存在的用户名做对照校验。附带画像提取（昵称/简介/头像）、跨站关联聚类、递归扩展、域名检查、定时巡检、可恢复扫描与自检评测（精确率/召回率/F1）。随包模型基于 1,455 样本训练，未见平台上误报率约 1%，支持重训练与主动标注；声明仅供教育与合法 OSINT 用途。可经 pip、Docker 或源码安装。
+命令行 OSINT 工具，对给定用户名在 7,700+ 平台异步扫描并判定账号是否存在。检测用 30 维 HTML 特征向量加启发式与逻辑回归模型双投票，输出 Found/Maybe/Not Found 与置信度，并经 404、机器人页与随机对照用户名三重复核。提供跨站画像关联、递归用户名扩展、域名注册检查、定时监控、可恢复扫描，报告支持 JSON/CSV/HTML/PDF 等格式。支持自检校准与模型重训练；README 强调结果仅为线索需人工核实。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- ML + 30 维结构特征混合判定，输出 Found/Maybe/Not Found 与置信度
-- 跨站关联聚类（头像哈希/简介/共享链接）与递归扩展再扫描
-- 自检评测与可复现回放：按站点报告 precision/recall/F1/FPR，并与 Sherlock/Maigret/WhatsMyName 规则对比
-- 提供 MCP server 将扫描能力暴露给 LLM agent，另有 aliens_eye.api 稳定库接口
+- ML+启发式双引擎判定，输出 Found/Maybe/Not Found 与置信百分比
+- 跨站画像关联（头像哈希、bio、共享链接聚类）与递归用户名扩展
+- 随机对照用户名与三重复核机制降低误报
+- selfcheck/ablation/retrain 支持可复现评估与主动学习标注
 
 ## 适用场景
 
-- 调查一个用户名在 840+ 平台的账号分布并导出报告
-- 通过头像/简介等信号聚类疑似同一人的多平台账号
-- 定时监控目标账号变化并推送 webhook 通知
+- 调查某个用户名在全网的社交账号分布
+- 定时监控目标用户名在各平台的变化并推送 webhook
+- 通过 Python API 将扫描能力集成到其他 OSINT 工具
 
 ## 场景标签
 
-`网络安全` · 领域:学习与行业
+`网络安全` `网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L9:  Advanced AI-Powered Social Media Username Finder
 > L42: - **ML + heuristic detection** — a trained model blended with 30 structural signals (HTTP status, DOM shape, keywor
+> L111: 2. **ML model** — logistic regression trained on labeled scans of real (and deliberately fake) accounts, shipped w
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `bcf6ffabd7f8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a3c5adff46ae` · [字段定义](../../DATASET.md)*

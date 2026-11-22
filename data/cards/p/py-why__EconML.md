@@ -2,9 +2,9 @@
 
 ⭐ 4,860 · Jupyter Notebook · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/py-why/EconML) · [官网](https://www.microsoft.com/en-us/research/project/alice/) · 组织维护
 
-**微软研究院出品的异质性处理效应估计 Python 库（因果推断）**
+**从观测数据估计异质性处理效应的 Python 因果推断库**
 
-EconML 是微软研究院 ALICE 项目的 Python 包，用机器学习方法从观测数据估计异质性处理效应（CATE），将计量经济学与随机森林、boosting、lasso、神经网络等技术结合。提供统一 API，实现 Double Machine Learning、因果森林、Meta-Learners（X/S/T）、Doubly Robust、工具变量等多种估计器，多数方法支持置信区间与推断结果（p 值、z 统计量）。另含树形/策略解释器、SHAP 值、RScorer 模型选择与双重稳健策略学习。面向做因果推断与处理效应分析的数据科学用户，部分方法要求无未观测混杂或工具变量假设。
+Microsoft Research ALICE 项目下的 Python 包，用于结合机器学习与计量经济学方法、从观测数据估计异质性处理效应。实现 Double Machine Learning、Causal Forests、正交随机森林、Meta-Learners、Doubly Robust Learner 及工具变量方法，多数方法提供置信区间与推断结果（p 值、z 统计量）。另含 CATE 模型的树解释器、策略解释器、SHAP 支持与离线策略学习模块，统一 API 构建，可通过 pip 安装。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ EconML 是微软研究院 ALICE 项目的 Python 包，用机器学习方法从�
 
 ## 能力要点
 
-- Double Machine Learning、Causal Forest、Meta-Learners、Doubly Robust、工具变量等多类估计器
-- 统一 API，支持随机森林/boosting/lasso/神经网络建模拟合效应异质性
-- 提供置信区间、p 值、z 统计量等推断输出
-- 树形解释器、策略解释器、SHAP 值与因果模型选择（RScorer）、策略学习
+- 实现 DML、Causal Forests、正交随机森林、Meta-Learners 等处理效应估计方法
+- 支持工具变量（IV）下的 DML 与双重稳健估计
+- 提供 CATE 树解释器、策略解释器与 SHAP 值可解释性
+- 统一 API，兼容 sklearn 模型选择与估计器
 
 ## 适用场景
 
-- 从观测数据估计干预对不同特征子群的因果效应
-- 营销或策略分析中量化处理效应并生成置信区间
-- 解释 CATE 模型并学习处理策略
+- 估计干预对具有特定特征的样本的因果效应
+- 基于处理效应模型生成个性化推荐处理策略
+- 对因果效应模型进行可解释性分析与统计推断
 
 ## 场景标签
 
- · 领域:因果推断/计量经济学
+`数据分析` `科研工具` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L10: **EconML** is a Python package for estimating heterogeneous treatment effects from observational data via machine l
-> L18: One of the biggest promises of machine learning is to automate decision making in a multitude of domains. At the co
+> L14: * Maintain flexibility in modeling the effect heterogeneity (via techniques such as random forests, boosting, lasso
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `dfcc39f858bf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `274f7011a28e` · [字段定义](../../DATASET.md)*

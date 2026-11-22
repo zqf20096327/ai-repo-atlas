@@ -2,9 +2,9 @@
 
 ⭐ 10,700 · Java · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/copilot-sdk) · 组织维护
 
-**微软官方多语言 SDK：在应用中嵌入 Copilot agent 运行时**
+**在应用中以编程方式接入 Copilot agent 运行时的多语言 SDK**
 
-Microsoft（GitHub）Copilot SDK 提供 Python、TypeScript、Go、.NET、Java、Rust 六种语言的客户端，通过 JSON-RPC 驱动 Copilot CLI 托管的 agent 运行时，应用可编程调用规划、工具调用、文件编辑等能力，无需自建编排。CLI 进程由 SDK 自动管理，各 SDK 也提供实验性进程内 C ABI 传输。默认暴露 Copilot CLI 第一方工具，支持自定义 agent、技能、工具与 MCP。使用需 GitHub Copilot 订阅，或配置 BYOK 自带 LLM 提供商密钥；按提示用量计费。另有社区维护的 Clojure 与 C++ 非官方 SDK。
+微软提供的 SDK，用于在应用中嵌入 Copilot 的 agent 工作流，覆盖 Python、TypeScript、Go、.NET、Java、Rust 六种语言。各语言 SDK 通过 protocol-4 JSON-RPC 驱动 Copilot agent 运行时（默认经 C ABI 加载原生 Rust 运行时，进程内托管），由运行时负责规划、工具调用与文件编辑，开发者定义 agent 行为。需 GitHub Copilot 订阅，或使用 BYOK 配置自有 API key；按 prompt 计入用量额度。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Microsoft（GitHub）Copilot SDK 提供 Python、TypeScript、Go、.NET、Java�
 
 ## 能力要点
 
-- 六种官方语言 SDK（Python/TypeScript/Go/.NET/Java/Rust）
-- 经 JSON-RPC 驱动 Copilot agent 运行时，SDK 自动管理 CLI 子进程
-- BYOK 模式可用自有 LLM 提供商密钥，无需 GitHub 认证
-- 支持自定义 agent、技能、工具与权限处理器
+- 六种语言官方 SDK（Node.js/Python/Go/.NET/Rust/Java），均遵循语义化版本
+- 默认进程内加载原生 Rust 运行时，亦支持子进程或独立 runtime server（TCP 多租户）接入
+- BYOK 模式支持配置 OpenAI、Microsoft Foundry、Anthropic 等 API key，无需 GitHub 认证
+- 支持自定义 agent、skills 与工具，工具调用由各 SDK 权限处理器审批
 
 ## 适用场景
 
-- 在自己的应用中嵌入 Copilot 的 agentic 工作流
-- 构建带规划与工具调用能力的可编程 agent 应用
-- 通过 BYOK 用自有模型密钥运行 SDK
+- 在自己的应用中嵌入 Copilot 的规划与工具调用能力
+- 搭建多租户独立 runtime server 供多个 SDK 客户端共用
+- 用自有 LLM 提供商的 API key 通过 BYOK 运行 agent 工作流
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ Microsoft（GitHub）Copilot SDK 提供 Python、TypeScript、Go、.NET、Java�
 
 ## 证据(README 行号)
 
-> L19: Embed Copilot's agentic workflows in your application with the GitHub Copilot SDK for Python, TypeScript, Go, .NET,
-> L21: The GitHub Copilot SDK exposes the same engine behind Copilot CLI: a production-tested agent runtime you can invoke
+> L19: Embed Copilot's agentic workflows in your application with the Microsoft Copilot SDK for Python, TypeScript, Go, .N
+> L21: The Microsoft Copilot SDK exposes the same engine behind Copilot CLI: a production-tested agent runtime you can inv
+> L53: All SDKs drive the Copilot agent runtime over protocol-4 JSON-RPC. The runtime is a standalone component, separate 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `c93c2d4ec315` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a88895bc21e9` · [字段定义](../../DATASET.md)*

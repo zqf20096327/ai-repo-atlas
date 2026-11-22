@@ -2,15 +2,15 @@
 
 ⭐ 29,733 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/alibaba/page-agent) · [官网](https://alibaba.github.io/page-agent/) · 组织维护 · 中文 README
 
-**网页内嵌 JS GUI agent：让任意网页支持自然语言控制**
+**为网页内嵌自然语言控制的 GUI Agent JS 库**
 
-以页内 JavaScript 形式提供 GUI agent，通过文本化 DOM 操作执行任务，不依赖浏览器扩展、Python 或无头浏览器，也不使用截图或多模态模型；一行 script 标签或 npm 安装即可集成到任意网页。支持接入大多数主流模型（含本地部署模型），可选 Chrome 扩展支持跨页面任务，并提供 Beta 版 MCP Server 供外部 agent 客户端控制浏览器。基于 browser-use 的 DOM 处理组件与 prompt，定位为客户端网页增强而非服务端自动化。MIT 协议。
+一个页面内运行的 JavaScript GUI Agent 库：注入一段脚本即可让网页获得由自然语言驱动的 AI agent，基于文本 DOM 操作而非截图，无需浏览器扩展、Python 或无头浏览器；可通过 npm 安装或 CDN 一行引入，提供带免费测试 LLM 的 demo 通道、可选 Chrome 扩展支持多页面任务，以及 Beta 版 MCP Server 供外部 agent 客户端控制。由 Alibaba 维护，MIT 许可，实现基于 browser-use 的 DOM 处理组件与提示词。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,16 +27,17 @@
 
 ## 能力要点
 
-- 页内 JavaScript 集成，无需扩展/Python/无头浏览器
+- 纯页面内 JavaScript 集成，无需扩展/Python/无头浏览器
 - 基于文本 DOM 操作，无需截图与多模态 LLM
-- 支持主流模型及本地部署模型
-- 提供 Chrome 扩展（多页任务）与 MCP Server (Beta)
+- 自带 LLM 接入，支持包括本地部署在内的主流模型
+- 可选 Chrome 扩展（多页面任务）与 MCP Server（Beta）
 
 ## 适用场景
 
-- 在 SaaS 产品中内置 AI copilot 而不重写后端
-- 把 ERP/CRM 中多步骤表单操作变成一句话指令
-- 让 Web 应用通过自然语言（含语音）无障碍使用
+- 在自己的 SaaS 产品中用几行代码加入 AI copilot
+- 把 ERP/CRM 等系统中 20 次点击的流程变成一句话完成
+- 让 Web 应用支持自然语言与语音操作以提升无障碍性
+- 通过 MCP 让 agent 客户端控制浏览器
 
 ## 场景标签
 
@@ -45,8 +46,8 @@
 ## 证据(README 行号)
 
 > L14: The GUI Agent Living in Your Webpage. One script gives any web page its own AI agent.
+> L27:  - No need for `browser extension` / `python` / `headless browser`.
 > L28:  - Just in-page javascript. Everything happens in your web page.
-> L94: `PageAgent` is designed for **client-side web enhancement**, not server-side automation.
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5e66ae8202d1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c256cf184b1b` · [字段定义](../../DATASET.md)*

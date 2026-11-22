@@ -2,9 +2,9 @@
 
 ⭐ 12,667 · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ritchieng/the-incredible-pytorch) · 个人维护
 
-**PyTorch 生态策展清单：教程、论文、项目与社区资源汇总**
+**PyTorch 相关教程、论文、项目与社区的资源清单**
 
-由个人维护的 PyTorch 相关资源 curated list，收录教程、官方示例、LLM 项目（Llama、Mixtral、Qwen 等）、Agentic AI 框架、AI 安全工具、表格学习、可视化、目标检测、架构搜索与优化算法等类目，通过表格目录组织，以 pull request 方式接受贡献。本体是资源索引而非可安装运行的软件，无安装命令与硬件要求。
+以清单形式组织 PyTorch 生态资源，收录教程、官方示例、书籍、视频、论文与项目链接，并按主题分节：LLM 训练与推理、Agent 框架、AI 安全与护栏、表格数据、可视化与可解释性、目标检测、长尾/分布外识别、架构搜索、优化器等。条目以外部仓库或文章链接为主，欢迎通过 pull request 贡献，本身不提供代码或安装产物。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 按教程/LLM/Agent/AI 安全/目标检测等 20+ 类目组织资源
-- 覆盖 LLM 训练、微调、量化与推理引擎条目
-- 以 pull request 方式开放社区贡献
+- 按 20+ 主题分节的 PyTorch 资源目录（LLM、Agent、安全、检测等）
+- 收录教程、论文、书籍、视频、项目等多类资源
+- 开放 pull request 持续贡献
 
 ## 适用场景
 
-- 查找 PyTorch 各领域教程与入门资料
-- 发现 LLM 微调、量化、Agent 框架等工具条目
-- 了解 PyTorch 生态相关论文与项目分布
+- 为学习 PyTorch 查找系统教程与示例项目
+- 为研究课题检索目标检测、可解释性等方向的实现与论文
+- 了解 LLM 微调、量化、Agent 等细分领域的可用工具
 
 ## 场景标签
 
-`精选清单` `教程课程` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L1: This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredib
-> L3: # Table Of Contents
+> L5: ## Tutorials
+> L29: ## Large Language Models (LLMs)
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `e32e341d38bf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `92b053eb3370` · [字段定义](../../DATASET.md)*

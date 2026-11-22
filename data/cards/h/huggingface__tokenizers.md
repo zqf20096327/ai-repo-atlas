@@ -2,9 +2,9 @@
 
 ⭐ 11,271 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/tokenizers) · [官网](https://huggingface.co/docs/tokenizers) · 组织维护
 
-**面向研究与生产的分词器库，Rust 实现含多语言绑定**
+**为研究与生产环境提供高性能分词器实现的库**
 
-Hugging Face 维护的分词器引擎：Rust 参考实现，提供 Python 与 Node.js 绑定，支持 BPE/Unigram/WordPiece/WordLevel 模型及完整 Normalizer→PreTokenizer→Model→PostProcessor→Decoder 管线；可从 Hugging Face Hub 加载预训练分词器（如 Llama-3.1-8B）。v1.0.0 处于发布候选阶段，Python 训练等 API 尚未全部回归；训练与 Hub 下载为 Rust 侧可选 feature。硬件上不要求 SIMD，各内核均有可移植回退路径。
+Hugging Face 维护的分词库，目标定位为行业通用的 tokenization 引擎。Rust 为参考实现，提供 Python、Node.js 与 WebAssembly 绑定。支持 BPE、Unigram、WordPiece、WordLevel 模型及 Normalizer/PreTokenizer/PostProcessor/Decoder 全流程；v1.0.0 拆分为 tk-encode 推理、tk-train 训练、tk-serialize 读取、tk-convert 迁移等多个子 crate，训练与推理分离。从 Hub 读取 tokenizer.json 配置，训练与 Hub 下载为 Rust crate 的 opt-in 特性。当前处于 1.0.0 候选阶段，部分 API 尚未回迁。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Hugging Face 维护的分词器引擎：Rust 参考实现，提供 Python 与 No
 
 ## 能力要点
 
-- Rust 参考实现，Python/Node.js 绑定可用，C/C++/Java/Go 计划中
-- 支持 BPE/Unigram/WordPiece/WordLevel 模型与完整分词管线
-- tk-train 训练模块为可选 feature，默认关闭以缩减服务二进制体积
-- 无 SIMD 硬性要求，aarch64/x86_64/wasm32 各有优化与标量回退路径
+- Rust 参考实现，提供 Python/Node.js/WebAssembly 绑定
+- 支持 BPE/Unigram/WordPiece/WordLevel 与完整分词流水线
+- 内嵌字节级预分词语法（gpt2、cl100k、o200k、tekken、deepseek、kimi-k2）
+- SIMD 非必需，提供可移植标量回退路径，x86_64 运行时检测
 
 ## 适用场景
 
-- 在训练或推理管线中对文本做分词与编码
-- 从 Hugging Face Hub 加载已有分词器（如 Llama、GPT 系列）
-- 在资源受限环境中按需组合子 crate 构建更小的分词服务
+- 为训练或推理加载 Llama 等模型的 tokenizer 配置
+- 在生产服务中以低依赖方式集成文本编码/解码
+- 在 Web 端通过 wasm 绑定运行分词
 
 ## 场景标签
 
- · 领域:NLP/LLM 基础设施
+ · 领域:LLM 基础设施/分词
 
 ## 证据(README 行号)
 
-> L37: >>> tokenizer = Tokenizer.from_pretrained("meta-llama/Llama-3.1-8B")   # or .from_file(path)
-> L51: |Rust|✅ reference implementation|
+> L9: Our goal with `tokenizers` is to develop and maintain the industry's standard tokenization engine, making it the def
+> L56: |Rust|✅ reference implementation|
+> L115: The models (BPE, Unigram, WordPiece, WordLevel) and the full pipeline: `Normalizer`,
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `8b4aedb4ef1f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `777b078553a9` · [字段定义](../../DATASET.md)*

@@ -1,16 +1,16 @@
 # spinabot/brigade
 
-⭐ 11,389 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/spinabot/brigade) · [官网](https://www.brigade.spinabot.com) · 组织维护
+⭐ 11,389 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/spinabot/brigade) · [官网](https://www.brigade.spinabot.com) · 个人维护
 
-**自托管的个人 AI agent 团队运行时：多 agent 共享长期记忆**
+**自托管的多人格 AI Agent 网关运行时，多渠道接入**
 
-Brigade 是一个自托管的 AI agent 生态系统：用户通过终端 TUI、WhatsApp/Telegram/Slack/Discord/iMessage 等渠道与一支按组织架构协作的 agent 团队对话。核心机制包括共享长期记忆引擎 Tideline（文件存储、BM25+向量混合召回、来源隔离）、子 agent 派生、技能系统（内置 56 个技能）、cron 调度、经 Composio 提供 1000+ 应用连接器，以及 MCP 支持。模型可接入 Anthropic/OpenAI/Gemini/本地 Ollama 等，密钥与数据留在本机，默认文件系统存储，可选自托管 Convex 后端。单一 Node 二进制，安装脚本或 npm 全局安装，可运行于树莓派或服务器。
+单二进制架构：常驻 gateway 进程持有全部状态并运行 Agent，TUI、WhatsApp/Telegram/Slack/Discord/iMessage 等渠道适配器均为其 WebSocket 薄客户端。多个 Agent 以组织图方式协作，共享 Tideline 长期记忆（BM25+向量混合召回、来源作用域、衰减），支持子 Agent 派生、cron 调度、56 个内置技能、MCP 内存服务与 1,000+ Composio 应用连接器。数据全部存于 ~/.brigade/，密钥本地 0600 存储，无遥测。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,25 +20,25 @@ Brigade 是一个自托管的 AI agent 生态系统：用户通过终端 TUI、W
 
 ## 能力要点
 
-- 多 agent 按组织架构（org chart）协作，共享 Tideline 长期记忆（BM25+向量混合召回、来源隔离与衰减）
-- 终端 TUI 与 WhatsApp/Telegram/Slack/Discord/iMessage/BlueBubbles 多渠道接入同一网关
-- 经 Composio 提供 1,000+ 应用连接器（Gmail/Slack/GitHub/Notion 等）与 MCP 内存服务器
-- 支持 Anthropic/OpenAI/Gemini/OpenRouter/本地 Ollama 等模型，可对话中途切换
+- gateway/薄客户端架构：断开重连后 Agent 持续运行
+- Tideline 记忆引擎：混合召回、来源隔离与写入门控
+- 接入 WhatsApp、Telegram、Slack、Discord、iMessage 等渠道
+- 支持多提供商切换与本地 Ollama，密钥不出本机
 
 ## 适用场景
 
-- 在自己机器上运行一支可从聊天软件随时召唤的私人 AI agent 团队
-- 让多个 agent 分工协作处理文档读写、定时任务和应用操作
-- 不依赖 SaaS、密钥与数据全部留在本机地使用多个模型
+- 自托管一套多 Agent 助手，通过聊天软件随时调用
+- 让多个有独立凭证的 Agent 协作处理任务并共享记忆
+- 用 cron 让 Agent 定时执行任务，配置系统服务常驻
 
 ## 场景标签
 
-`多智能体` `Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `多智能体` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L146: Brigade is one binary that can act as a **gateway** (the long-lived process that
 > L34: **Brigade is your personal intelligence, built on enterprise-grade tech**: a crew of
-> L35: AI agents on a real org chart that share one long-term memory, Tideline, so what one
 > L55: Start it and you get a fast chat TUI. Keep going and you get isolated agents with
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `1d6d598d0d1b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `3e4508b01ec3` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 9,998 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/open-pencil/open-pencil) · [官网](https://openpencil.dev) · 组织维护
 
-**开源设计编辑器：读写 .fig 文件并内置 AI 生成设计**
+**面向设计师与开发者的开源设计编辑器，可读写 .fig 文件**
 
-MIT 许可的开源设计编辑器，定位为 Figma 替代品：原生读取/写入 .fig 与 .pen 文件，支持组件、自动布局、CSS Grid、实时 P2P 协作（WebRTC，无服务器无账号）。内置 AI 助手（100+ 工具，BYOK 接入 OpenRouter/Anthropic/OpenAI/DeepSeek 等）通过对话创建和修改节点，另提供 headless CLI（树浏览/XPath 查询/导出/检查/eval 脚本）、MCP server 供 Claude Code、Cursor 等编码 agent 调用，以及嵌入自定义编辑器的 Vue SDK。桌面端为 Tauri v2（约 15 MB），也可作为浏览器 PWA 运行；官方构建每日发送一次匿名 ping。自称尚在积极开发中，存在 Figma 兼容性差距与粗糙边缘。
+基于 Vue 3、Skia WASM 与 Tauri v2 的开源设计编辑器，读取与写入 Figma 原生 .fig 文件及自有 .pen 格式。提供桌面应用（约 15 MB）与网页 PWA 两种形态。内置 AI 聊天助手带 100+ 工具可创建和修改画布节点，采用自带 API key 模式且无后端依赖。通过 headless CLI、XPath 查询、Figma Plugin API 的 eval 接口、MCP 服务器与 headless Vue SDK 实现全量可编程性。支持 WebRTC P2P 实时协作（无需服务器与账号）、组件与变体、设计转代码导出。当前处于活跃开发状态。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ MIT 许可的开源设计编辑器，定位为 Figma 替代品：原生读取/�
 
 ## 能力要点
 
-- 原生读写 .fig/.pen 文件，与 Figma 间复制粘贴节点
-- AI 聊天助手含 100+ 工具，BYOK 接入多家 provider，无后端无账号
-- headless CLI：XPath 查询、导出 PNG/SVG/JSX/Storybook、lint 与设计 token 分析、Figma Plugin API eval
-- MCP server + 编码 agent 集成（Claude Code/Codex/Gemini CLI），Vue SDK 可构建自定义编辑器
+- 读取并写入 Figma 原生 .fig 文件，本地优先
+- 内置 AI 助手 100+ 工具修改画布，自带 key、无后端
+- headless CLI + XPath + Plugin API eval + MCP 服务器
+- WebRTC P2P 实时协作，含光标、跟随模式与语音通话
 
 ## 适用场景
 
-- 在没有 Figma 账号的情况下打开和编辑 .fig 设计文件
-- 通过对话让 AI 在画布上生成和修改设计
-- 在 CLI/CI 中检查、查询、导出和 lint 设计文件
-- 让 Claude Code 等 agent 通过 MCP 读写设计文档
+- 在没有 Figma 订阅的环境下打开和编辑 .fig 设计文件
+- 让 AI 编码代理通过 MCP 检查和修改设计文档
+- 用 CLI 对设计文件做批量导出、lint 与设计 token 提取
+- 团队通过分享链接进行免服务器的实时协作设计
 
 ## 场景标签
 
-`图像生成` · 领域:内容生成
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L8: Open-source design editor. Opens `.fig` and `.pen` design files, includes built-in AI, and ships as a programmable t
-> L31: - **AI builds designs** — describe what you want in chat, 100+ tools create and modify nodes. Connect OpenRouter, A
+> L9: Open-source design editor. Opens `.fig` and `.pen` design files, includes built-in AI, and ships as a programmable t
+> L34: - **AI builds designs** — describe what you want in chat, 100+ tools create and modify nodes. Bring your own key fo
+> L45: - **~15 MB desktop app** — Tauri v2 for macOS, Windows, Linux. Also runs in the browser as a PWA
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `bfeb378cc741` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a7867569e0ec` · [字段定义](../../DATASET.md)*

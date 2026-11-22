@@ -2,15 +2,15 @@
 
 ⭐ 47,393 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LibreChat-AI/LibreChat) · [官网](https://librechat.ai/) · 组织维护 · 中文 README
 
-**自托管多模型 AI 聊天平台：统一接入多家服务商**
+**自托管多模型 AI 聊天平台，统一接入多家 AI 服务**
 
-自托管的 AI 对话平台，将多家模型服务商统一在一个界面中，支持自定义端点（任何 OpenAI 兼容 API）。提供 Agent 构建与市场、MCP 工具接入、SKILL.md 技能包、代码解释器沙箱（Python/Node.js/Go 等多语言）、联网搜索、图像生成、Artifacts、语音输入输出、消息搜索与导入导出。多用户场景支持 OAuth2/LDAP/邮箱登录、管理面板与按角色权限配置，可单机或配合 Redis 水平扩展部署，提供 Docker Compose 一键部署栈。
+LibreChat 是一个自托管的 AI 聊天平台，在单一界面中统一接入多家 AI 服务，并提供 Agents、MCP 工具支持、Code Interpreter（基于沙箱执行多种语言）、Artifacts、网络搜索、图像生成、语音对话、会话导入导出与全文搜索。面向重视自控 AI 基础设施的用户与团队，支持多用户认证（OAuth2/LDAP/邮箱）、管理面板、可观测性导出（OpenTelemetry/Langfuse）及 Redis 水平扩展部署。界面提供多语言（含简繁中文）定制。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -26,17 +26,17 @@
 
 ## 能力要点
 
-- 统一界面接入多家模型服务商，支持任意 OpenAI 兼容自定义端点
-- Agent 体系：无代码构建、市场分享、子代理、MCP 与 SKILL.md 技能
-- 沙箱化代码解释器支持 Python、Node.js、Go、C/C++ 等语言
-- 多用户安全认证（OAuth2/LDAP）、管理面板与 Token 用量工具
+- 自定义端点支持任意 OpenAI 兼容 API，无需代理
+- No-Code 自定义助手、Agent 市场、子代理与 SKILL.md 技能机制
+- Code Interpreter API 沙箱执行 Python/Node.js/Go 等 9 种语言
+- 多用户安全认证（OAuth2、LDAP、邮箱）与管理面板
 
 ## 适用场景
 
-- 自建一个统一管理多家模型接口的私有聊天界面
-- 为团队部署带用户权限与用量统计的多用户 AI 助手
-- 通过 MCP 和 Agent 给 AI 接入自定义工具与文件搜索
-- 导入既有 ChatGPT 对话记录做统一管理
+- 团队自托管一个统一界面接入多家模型服务
+- 为组织搭建带权限管理的多用户 AI 对话平台
+- 构建可调用 MCP 工具与代码执行的 Agent 工作流
+- 离线/私有化环境接入本地模型（如 Ollama）
 
 ## 场景标签
 
@@ -44,9 +44,9 @@
 
 ## 证据(README 行号)
 
-> L63: - 🤖 **AI Model Selection**:
-> L173: LibreChat is a self-hosted AI chat platform that unifies all major AI providers in a single, privacy-focused inter
-> L175: Beyond chat, LibreChat provides AI Agents, Model Context Protocol (MCP) support, Artifacts, Code Interpreter, cust
+> L170: LibreChat is a self-hosted AI chat platform that unifies all major AI providers in a single, privacy-focused inter
+> L172: Beyond chat, LibreChat provides AI Agents, Model Context Protocol (MCP) support, Artifacts, Code Interpreter, cust
+> L62:  - Custom Endpoints: Use any OpenAI-compatible API with LibreChat, no proxy required
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `30b92eac4816` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9409ae8d74ff` · [字段定义](../../DATASET.md)*

@@ -2,16 +2,16 @@
 
 ⭐ 15,512 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/NanmiCoder/cc-haha) · [官网](https://cchaha.ai) · 个人维护 · 中文 README
 
-**给 Claude Code 用户的跨平台桌面工作台：多 Agent 协作与可视化管理**
+**面向 Claude Code 用户的跨平台桌面工作台**
 
-基于 Electron 的桌面应用，将 Claude Code CLI 包装为图形化工作台：多会话管理、分支/Worktree 启动、Diff 审阅、内置浏览器预览、MCP 与 SubAgent 可视化管理、Agent Teams 协作、动态 Workflow 编排、Computer Use、技能市场、桌面宠物，以及 H5 与 IM 远程接入。模型侧支持官方账号登录、第三方 API 预设与本地模型端点。需在设置中配置模型提供商与 API Key；许可证为源码可用许可，非 OSI 认证，商业使用须书面授权。
+基于 Electron 的桌面应用，把 Claude Code 类 Agent 的使用集中到图形界面：多会话与全局搜索、分支/Worktree 启动、逐文件 Diff 审阅、内置浏览器预览、五档权限审批、MCP 与 SubAgent 可视化管理、Agent Teams 多 Agent 协作与动态 Workflow 编排。模型可接 Claude/ChatGPT/Grok 官方账号、第三方 API 预设及 LM Studio/Ollama 本地模型，另含 Computer Use、技能市场、手机 App 与 IM 远程接入。安装依赖 Releases 安装包；许可为 Community Source License，非 OSI 认证开源许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | NOASSERTION |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -26,27 +26,26 @@
 
 ## 能力要点
 
-- 多会话工作台：Worktree 启动、Diff 审阅、Cmd+K 全局搜索
-- Agent Teams 多 Agent 协作与动态 Workflow 编排
-- Computer Use 跨应用操作，macOS 上不占用真实鼠标键盘
-- MCP 图形化管理与技能市场（ClawHub / SkillHub）
+- 多会话工作台：分支/Worktree 启动、全局搜索、Diff 审阅、内置浏览器预览
+- Agent Teams 可视化协作与动态 Workflow 编排（并发/流水线、断点续跑）
+- MCP 图形化管理与技能市场（ClawHub/SkillHub，含来源与安全状态）
+- Computer Use 桌面控制及手机 App/H5/IM 远程审批与派任务
 
 ## 适用场景
 
-- 想在图形界面里管理多个 Claude Code 会话和代码改动
-- 通过手机 H5 或微信/飞书远程审批与对话
-- 搭建多 Agent 协作团队执行编排任务
-- 接入本地模型端点运行 Coding Agent
+- 在图形界面里管理多个 Claude Code 会话并审批权限
+- 用手机或微信/飞书/钉钉远程查看任务进度、派发新任务
+- 接入本地模型或多服务商 API 使用 Agent 编码
 
 ## 场景标签
 
-`编码 Agent` `多智能体` · 领域:Agent 开发
+`编码 Agent` `多智能体` `GUI 自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L16: cc-haha 是一个**桌面端 Claude Code 工作台**：多会话与全局搜索、分支 / Worktree 启动、Diff 审阅、内置浏览器预览、图形化权限审批、模型自选（Claude / ChatGPT / Grok /
-> L109: - **模型自选**：Claude / ChatGPT / Grok 官方账号可直接登录；DeepSeek、Kimi、智谱 GLM 等第三方 API 有现成预设；LM Studio、Ollama 的本地模型也接得上。
-> L162: 当前采用 cc-haha Community Source License 1.0。允许个人非商业使用及企业内部自用；接单、对外商业盈利、收费修改或二次开发、商业分发及付费服务须事先取得书面商业授权；二次分发须显著保留来源署名。
+> L124: - **五档权限模式**：从「询问权限」到「跳过权限」，危险命令、工具调用和 AI 反问都在桌面端审批。
+> L178: 当前采用 cc-haha Community Source License 1.0。允许个人非商业使用及企业内部自用；接单、对外商业盈利、收费修改或二次开发、商业分发及付费服务须事先取得书面商业授权；二次分发须显著保留来源署名。
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0fbd6f34c578` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `3e7e0510e150` · [字段定义](../../DATASET.md)*

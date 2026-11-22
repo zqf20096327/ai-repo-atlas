@@ -2,9 +2,9 @@
 
 ⭐ 4,540 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) · [官网](https://locallyuncensored.com) · 个人维护
 
-**桌面端一体化本地 AI 工作室：聊天、图像视频生成与编程 Agent**
+**本地运行的一体式 AI 桌面应用：聊天、图像视频生成与编码 agent**
 
-面向桌面用户的本地 AI 应用（Windows/Linux，macOS Beta）：以安装包形式分发，首次启动向导自动安装 AI 引擎与 ComfyUI，模型管理器标记适配硬件的模型并一键下载，可复用已装 Ollama/LM Studio 的模型。功能含聊天（文档索引、记忆、导入 ChatGPT/Claude/Gemini 导出）、ComfyUI 驱动的图像/视频/音乐生成、带 diff 预览的编程 Agent、带权限门控的通用 Agent，以及 Beta 的语音对话和电脑控制。可选 LU Labs Cloud 在托管 GPU 上运行大模型。
+面向桌面端的开源（AGPL-3.0）AI 应用，将聊天、图像/视频生成（通过应用自动安装和管理的 ComfyUI）、编码 agent（按 hunk 审查 diff、运行测试、.lurules 项目规则）与通用 agent（网页搜索、文件读写、shell、MCP 服务器、权限门控）集成在单一窗口中。本地模式不依赖 Docker、终端或云服务，支持 Windows/Linux 安装包、macOS dmg 与 Android APK；本地模型可复用已有的 Ollama 或 LM Studio 存储。可选 LU Cloud 以积分或订阅方式在托管 GPU 上运行大模型，本地模式保持免费。
 
 ## 筛选速览
 
@@ -15,31 +15,32 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 首次启动向导一键安装 AI 引擎与 ComfyUI，无 Docker/终端/配置文件
-- 模型管理器标记适配硬件的模型，可链接 Ollama/LM Studio 已存模型
-- 编程 Agent 展示 diff 后再应用，支持 .lurules 项目规则与 OpenAI 兼容本地 API
-- 图像/视频生成本地跑在自管 ComfyUI 上，含角色训练与 LoRA 管理
+- 一键安装 AI 引擎与 ComfyUI，无需 Docker、终端或配置文件
+- 编码 agent：diff 预览、测试执行、按项目 .lurules 规则
+- 本地 OpenAI 兼容 API 地址，将本地模型暴露给其他工具
+- 模型管理器按硬件标记适配模型并一键下载
 
 ## 适用场景
 
-- 在桌面一站式使用本地聊天、画图、视频和编程 Agent
-- 复用已装的 Ollama/LM Studio 模型统一调用
-- 从手机经局域网或 Cloudflare 隧道访问本地应用
+- 在个人电脑上离线运行聊天、图像和视频生成
+- 不想配置 Docker 和终端的本地 AI 入门使用
+- 用编码 agent 修改本地仓库代码并审查 diff
+- 手机通过局域网或 Cloudflare 隧道访问桌面端模型
 
 ## 场景标签
 
-`编码 Agent` `图像生成` `视频生成` `聊天机器人` · 领域:编码与开发
+`编码 Agent` `图像生成` `视频生成` `推理引擎` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L5: **The all-in-one local AI studio for your desktop. Chat, images, video and a coding agent in one app. Install it, pi
-> L64: 1. **Install.** Run the installer like any other program. On first launch a wizard looks for an AI engine that is a
-> L66: 3. **Create.** Chat, Create, Code and Agent are tabs in one window. Type in one, switch to the next, keep the same 
+> L30: - **What it is:** one desktop app for AI on your own machine: chat, a coding agent, images and video. Free and open
+> L31: - **Who it is for:** anyone who wants local AI without a terminal, Docker or config files, from first try to daily 
+> L101: **Create.** Images and video on your own GPU through a ComfyUI the app installs, starts, repairs and updates for y
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `10c75d893e94` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c8a63ec76d55` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 10,704 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/niedev/RTranslator) · 个人维护
 
-**Android 离线实时翻译应用，本地运行语音识别与翻译模型**
+**安卓离线实时翻译应用：本地运行语音识别与翻译模型**
 
-面向 Android 用户的免费实时翻译应用，支持三种模式：Conversation（多机蓝牙连接双向同传）、WalkieTalkie（单机双语轮流对话翻译）和文本翻译。语音识别使用 Whisper-Small-244M、翻译使用 NLLB-Distilled-600M，均转为 onnx 格式并部分 int8 量化，配合 OnnxRuntime 在手机本地运行，可离线使用且不收集个人数据。首次启动需下载约 1.2GB 模型，要求手机至少 6GB RAM。3.0 测试版将提供 Bergamot/Madlad/HY-MT 多翻译模型选择并完全开源。
+面向 Android 用户的开源离线实时翻译应用，提供三种模式：Conversation 模式通过 Bluetooth LE 连接另一台安装本应用的手机实现双向对话翻译，WalkieTalkie 模式用一部手机轮流快速对话并自动检测语言，另含经典文本翻译。翻译使用 NLLB/Mozilla Bergamot/Madlad/HY-MT 模型，语音识别使用 Whisper，均以 int8 量化 ONNX 格式本地运行，声称不收集任何数据。APK 从 GitHub Releases 下载，首次启动自动下载约 1.2GB 模型；运行需至少 6GB RAM 的手机，应用目前仍处于 beta 阶段。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- Conversation/WalkieTalkie/文本三种翻译模式，支持蓝牙耳机与后台运行
-- Whisper 与 NLLB 模型转为 onnx 并部分 int8 量化，NLLB 运行内存从 2.5GB 降至 1.3GB
-- 全离线运行，不收集个人数据（作者声明无服务器）
-- 3.0 测试版提供 Mozilla Bergamot/Madlad 400 3B/HY-MT 1.5 1.8B 多模型选择
+- Conversation/WalkieTalkie/文本翻译三种模式，支持蓝牙耳机
+- NLLB 与 Whisper 转为 int8 量化 ONNX 并做 KV cache 等优化（NLLB RAM 从 2.5GB 降至 1.3GB）
+- 本地离线运行，无服务器，不收集个人数据
+- 3.0 版起 MLKit 替换为 FastText/Lingua，实现 100% 开源
 
 ## 适用场景
 
-- 出国旅行或跨语言日常对话的实时翻译
-- 街头问路、购物等快速双语交流（单机 WalkieTalkie 模式）
-- 无网络环境下翻译对话
-- 普通文本翻译
+- 在国外街头快速问路时用 WalkieTalkie 模式与当地人对话
+- 与说不同语言的朋友长时间面对面交谈
+- 无网络环境下进行文本翻译
 
 ## 场景标签
 
@@ -38,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L1: RTranslator is an (almost) open-source, free, and offline real-time translation app for Android.
 > L40: RTranslator uses Meta\'s NLLB for translation and OpenAi\'s Whisper for speech recognition, both are (almost) open-
-> L15: - The audio captured will be converted into text and sent to the interlocutor's phone.
+> L87: I have optimized the AI models a lot to minimize RAM consumption and execution time, despite this however to be abl
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `bd44e42d142a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d81b0e10ccb9` · [字段定义](../../DATASET.md)*

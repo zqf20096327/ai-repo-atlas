@@ -2,9 +2,9 @@
 
 ⭐ 5,646 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/Model-Optimizer) · [官网](https://nvidia.github.io/Model-Optimizer/) · 组织维护
 
-**NVIDIA 的模型压缩优化库：量化/剪枝/蒸馏加速推理部署**
+**模型压缩优化库：量化/剪枝/蒸馏后导出部署**
 
-面向深度学习开发者与企业的模型优化 Python 库，提供 PTQ/QAT、剪枝、蒸馏、稀疏化、投机解码与神经架构搜索等技术，读取 Hugging Face、PyTorch 或 ONNX 模型并导出量化 checkpoint，供 TensorRT-LLM、TensorRT、vLLM、SGLang 等下游推理框架部署；与 Megatron-Bridge、Megatron-LM、Hugging Face Accelerate 集成训练侧优化。通过 pip 安装，也可用预装 Model Optimizer 的 NVIDIA 容器镜像。项目处于 pre-1.0 阶段，废弃功能仅提供约 1 个月的迁移期。
+NVIDIA 提供的 Python 库，输入支持 Hugging Face、PyTorch 或 ONNX 模型，通过 Python API 组合量化、剪枝、蒸馏、NAS、投机解码、稀疏化等技术，生成优化后的量化检查点，并可导出至 TensorRT-LLM、TensorRT、vLLM、SGLang 等推理框架部署。同时提供预量化检查点下载、各技术支持矩阵与 deprecation 政策，并附带 Claude Code/Codex 可安装的 agent 技能。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- PTQ/QAT、剪枝、蒸馏、稀疏化、投机解码等优化技术组合
-- 支持 Hugging Face / PyTorch / ONNX 模型输入并导出量化 checkpoint
-- 产出可部署到 TensorRT-LLM / vLLM / SGLang 的预量化模型
-- 提供 Claude Code / Codex 可安装的 agent skills
+- 支持 PTQ、QAT/蒸馏、剪枝、NAS、投机解码、稀疏化六类优化技术
+- 输入支持 Hugging Face、PyTorch、ONNX 模型，统一 HF 导出 API 覆盖 transformers 与 diffusers
+- 量化检查点可导出至 TensorRT-LLM、TensorRT、vLLM、SGLang 部署
+- 提供预量化检查点合集与各技术支持矩阵
 
 ## 适用场景
 
-- 把 Hugging Face 大模型量化压缩后部署到 TensorRT-LLM 或 vLLM
-- 通过剪枝+蒸馏缩小模型体积、降低显存占用
-- 在 NVIDIA 容器环境中直接使用预装的 Model Optimizer
+- 部署前将大模型量化压缩以减小体积并提升推理速度
+- 通过剪枝与蒸馏训练更小的部署模型
+- 生成 FP8/NVFP4 检查点供 vLLM 或 TensorRT-LLM 加载
 
 ## 场景标签
 
-`模型量化` `微调` · 领域:训练与推理
+`模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `5a76a2dea826` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `97a273bd6947` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,714 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ruvnet/RuVector) · [官网](https://ruv.io) · 个人维护
 
-**Rust 编写的本地向量检索与持久化 agent 记忆库**
+**为 AI Agent 提供持久记忆与本地向量检索的 Rust 数据库**
 
-RuVector 是 Rust 原生的向量搜索与 agent 记忆基座，提供持久向量存储与检索、本地语义嵌入（ONNX，默认缓存 all-MiniLM-L6-v2）、图关系记忆、显式反馈学习（SONA、对比学习）与记忆生命周期控制。分发渠道包括 npm CLI/SDK（含 MCP server）、PyPI 源码安装与 crates.io 的 ruvector-core；另有 typesafe 本地类型化决策包、浏览器 WASM、图与 RVF 组件等独立包。默认检索路径在本地运行，基准数字被声明为工作负载相关而非通用保证。
+Rust 实现的向量数据库与 Agent 记忆基座：提供本地语义嵌入、持久向量检索、图关系、基于显式反馈的学习与记忆生命周期控制。分发形态覆盖 npm 包（含 CLI 与 MCP 服务器）、Python 包（文档给出源码编译安装路径）与 crates.io 的 Rust crate，另有 WASM 浏览器组件与 typesafe 类型化决策引擎等独立子包。默认检索路径本地运行，首个语义命令会下载 all-MiniLM-L6-v2 嵌入模型；作者另提供商业企业层 Cognitum One。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ RuVector 是 Rust 原生的向量搜索与 agent 记忆基座，提供持久向�
 
 ## 能力要点
 
-- 跨进程持久向量存储与语义/哈希两种嵌入模式
-- npm 包内置 MCP server，可配置 readonly 档位接入 MCP 客户端
-- System 0/1/2 分层：本地决策（typesafe）、记忆学习（VectorDB/SONA）、推理编排（RuvLLM/RVF）
-- Python 路径为源码安装，需 Rust 工具链
+- npm/PyPI/crates.io/WASM 多形态分发，MCP 服务器随 npm 包内置
+- 本地语义嵌入与持久向量存储，跨进程重开存储路径可恢复数据
+- @ruvector/typesafe 基于本地嵌入与决策头输出带置信度与弃权的类型化决策
+- 支持显式反馈学习与记忆生命周期控制
 
 ## 适用场景
 
-- 为 Node.js/Python/Rust 应用嵌入持久 agent 记忆
-- 通过 MCP 让 Claude Code 等客户端检索项目上下文
-- 本地类型化决策如工单路由与意图分类
+- 为跨会话的 Agent 保存并检索项目记忆
+- 给 MCP 客户端（如 Claude Code）接入记忆工具
+- 工单路由、意图分类等本地类型化决策任务
+- 浏览器端向量检索与知识图谱检索实验
 
 ## 场景标签
 
-`Agent 记忆` `向量数据库` · 领域:Agent 开发
+`Agent 记忆` `向量数据库` `知识图谱` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: RuVector is a Rust native substrate for fast local decisions and agent memory across sessions. It combines local sem
+> L29: |**System 2: Reason & Orchestrate**|Reconstruct multi step context, coordinate work, and govern execution|RuvLLM, R
 > L61: The MCP server is included in the `ruvector` npm package.
-> L185: |Search vectors or retain agent context|`ruvector` Node.js SDK, `ruvector-core` Rust crate|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `3bd32fb2efb8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `dfae15258ccc` · [字段定义](../../DATASET.md)*

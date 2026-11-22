@@ -2,9 +2,9 @@
 
 ⭐ 4,429 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/modelscope/ms-agent) · [官网](https://ms-agent-en.readthedocs.io) · 组织维护 · 中文 README
 
-**面向复杂长时任务的模块化开源 agent 框架**
+**面向复杂长任务的模块化开源 agent 框架**
 
-ModelScope 团队维护的 Python agent 框架：以可定制的 harness 组织规划、上下文、权限与执行反馈，组合模型、工具、技能与子代理构建生产力助手；分层管理会话历史、活动上下文与项目记忆，支持 Cron 调度、上下文压缩、多模型接入、MCP 工具与 ACP/A2A 集成。同一 SDK 覆盖 WebUI、TUI、CLI 三种界面。内置 DeepResearch（Agentic Insight）、FinResearch 金融研究、Code Genesis、Singularity Cinema 视频生成等应用。默认使用 ModelScope 提供方，需申请 API token。
+MS-Agent 是 ModelScope 团队维护的模块化、可扩展 agent 框架，用于构建执行复杂长任务的助手。核心机制包括：可定制的 agent harness（工具执行、权限检查、生命周期回调）、分层上下文与项目记忆、cron 定时任务、主 agent 向专家子 agent 委派或 DAG/顺序工作流、技能打包与评估驱动的技能演化。提供 CLI、TUI、WebUI 与 Python SDK 四种接口，共享同一套执行 SDK。内置深度研究（Agentic Insight/DeepResearch）、代码生成、金融研究等应用，支持 MCP 工具与 ACP/A2A 集成。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@ ModelScope 团队维护的 Python agent 框架：以可定制的 harness 组织�
 
 ## 能力要点
 
-- 可定制 harness 管理规划、上下文、权限与执行反馈
-- 分层记忆（会话历史/活动上下文/项目记忆）与 Cron 自主调度
-- 多模型接入、MCP 工具、ACP/A2A 集成与 Agent Hub 跨框架资源转换
-- 内置 Agentic Insight 深度研究、FinResearch 金融分析、Code Genesis 等应用
+- 可定制 harness：工具执行、权限检查、生命周期回调与 Hooks
+- 分层上下文与项目记忆，支持 cron 定时任务与上下文压缩
+- 多 agent 协作：子 agent 委派、顺序工作流与 DAG 编排
+- WebUI/TUI/CLI/Python SDK 四种接口共享同一 Python SDK
 
 ## 适用场景
 
-- 构建执行复杂长时任务的个人生产力助手
-- 搭建深度研究、金融分析等多代理工作流
-- 在终端、浏览器或 Python 应用中复用同一套 agent 逻辑
+- 构建执行复杂长任务的个人生产力助手
+- 金融研究、深度研究报告等多 agent 工作流
+- 在终端或浏览器中管理 agent 会话与技能
+- 将 agent 能力嵌入自有 Python 应用
 
 ## 场景标签
 
-`Agent 框架` `金融量化` `科研工具` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `d56e6afef923` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0d3b0225bbab` · [字段定义](../../DATASET.md)*

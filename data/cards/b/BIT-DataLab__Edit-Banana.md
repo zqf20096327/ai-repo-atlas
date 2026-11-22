@@ -2,9 +2,9 @@
 
 ⭐ 5,509 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/BIT-DataLab/Edit-Banana) · [官网](https://www.editbanana.net) · 组织维护 · 中文 README
 
-**将静态图表图片转换为可编辑 DrawIO XML 的框架**
+**把静态图表图像转换为可编辑 DrawIO 文件的工具**
 
-面向需要编辑流程图、架构图、示意图等静态图片的用户：上传 PNG/JPG/BMP/TIFF/WebP 图片，经微调的 SAM 3 分割、本地 OCR（Tesseract 或 PaddleOCR）与 Pix2Text 公式识别、多模态 LLM 引导的扫描流程，生成可在 DrawIO 中编辑的 XML，元素可单独拖拽与改样式。提供 CLI 批量/单图处理与 FastAPI 风格的 web API，另有在线服务；本地部署需 Python 3.10+、下载 SAM3 权重并安装 Tesseract，CUDA GPU 为推荐配置。路线图中箭头智能连接、本地 VLM 部署等仍在开发/规划中。
+读取 PNG/JPG/BMP/TIFF/WebP 等图像格式的图表，经微调的 SAM 3 分割图元、本地 OCR 与 Pix2Text 提取文字与公式、结合多模态 LLM 扫描，生成可编辑的 DrawIO XML，保留原图布局、配色与元素层级。提供 CLI 与本地 Web API 两种使用方式，另有在线演示站点（README 注明仓库功能落后于网页版）。内置用户注册与按次计费的积分机制、全局锁与 LRU 缓存支持多用户并发。需 Python 3.10+，推荐 CUDA GPU，CPU 亦可运行。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- SAM 3 微调模型做图表元素分割
+- 微调 SAM 3 做图表元素分割，生成 DrawIO XML
 - 本地 OCR（Tesseract/PaddleOCR）+ Pix2Text 公式转 LaTeX
-- 输出可直接编辑的 DrawIO XML，元素独立可选可改
-- 提供 CLI、web API（/convert 端点）与在线演示
+- CLI 批处理与本地 FastAPI 风格 Web API 两种入口
+- 全局锁 + LRU 缓存支持多用户并发访问
 
 ## 适用场景
 
-- 把论文或文档中的流程图转成 DrawIO 再编辑排版
-- 批量将静态架构图转为可维护的矢量图源文件
-- 识别并重建含数学公式的技术示意图
+- 把论文或报告里的流程图截图变成可编辑的 DrawIO 文件
+- 批量将历史图表图片转换为可修改的矢量元素
+- 修改他人图片中的架构图内容
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `28194e05d030` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b693baf457f1` · [字段定义](../../DATASET.md)*

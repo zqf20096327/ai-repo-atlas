@@ -2,9 +2,9 @@
 
 ⭐ 4,668 · C++ · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/memgraph/memgraph) · [官网](https://memgraph.com) · 组织维护
 
-**内存图数据库：为 GraphRAG 与 AI 记忆提供图检索引擎**
+**面向 GraphRAG、AI 记忆与实时图分析的内存图数据库**
 
-用 C/C++ 构建的内存图数据库，兼容 Neo4j 的 Cypher 查询语言，支持 ACID 与高可用（Raft）。面向 GraphRAG、AI 记忆与 agentic 工作流场景：内置向量与文本索引可在单条查询中完成相似度检索与图遍历，MAGE 算法库提供 40+ 图算法（含 GNN 链接预测），并有 LLM 工具模块、MCP server 与 agent 框架集成。支持 Kafka/Pulsar/RedPanda 流式摄入、Parquet/JSONL 加载、多租户与细粒度权限。社区版采用 BSL 许可，企业版采用 MEL 许可；提供 Docker 镜像、二进制包与 Helm 部署方式。
+Memgraph 是用 C/C++ 构建的内存图数据库，兼容 Neo4j 的 Cypher 查询语言，支持 ACID 事务。它将向量索引、文本索引与图遍历放在同一查询层，用于 GraphRAG 管道、AI 记忆系统和 agent 工作流；附带 MAGE 算法库（40+ 图算法）、MCP server 与 agent 框架集成组件，并支持 Kafka/Pulsar 流式接入、Kubernetes Helm 部署与高可用、多租户等企业功能。社区版采用 BSL 许可，另有企业版。
 
 ## 筛选速览
 
@@ -20,26 +20,28 @@
 
 ## 能力要点
 
-- 向量/文本/地理索引与图遍历合并为单条 Cypher 查询的混合检索
-- MAGE 算法库含 40+ 图算法（C++/Python/CUDA，含 GNN 链接预测）
-- Kafka/Pulsar/RedPanda 流式摄入与实时图算法
-- 企业特性：Raft 高可用、多租户、细粒度访问控制、SSO
+- 内置向量/文本/地理空间索引，混合检索可表达为单条 Cypher 查询
+- MAGE 算法库含 40+ C++/Python/CUDA 图算法
+- 提供 MCP server、AI Toolkit 及 agent 框架集成组件
+- 支持 Kafka/Pulsar/RedPanda 流式摄入与 Helm/Kubernetes 部署
 
 ## 适用场景
 
-- 作为 GraphRAG 管线或 AI 记忆系统的图存储与检索引擎
-- 欺诈检测、网络分析等实时图分析工作负载
-- 从 Cypher/Neo4j 生态迁移查询负载
+- 为 RAG 系统提供带向量检索的图上下文存储
+- 构建需要长期记忆的 agent 应用
+- 实时图分析场景如反欺诈与网络监控
+- 从 Kafka 流式数据构建实时知识图谱
 
 ## 场景标签
 
-`知识图谱` `RAG` · 领域:知识与检索
+ · 领域:数据库/GraphRAG 基础设施
 
 ## 证据(README 行号)
 
 > L26: Memgraph is a high-performance, in-memory graph database that powers real-time
 > L28: for GraphRAG pipelines, AI memory systems, and agentic workflows — delivering
 > L55: - **AI Toolkit** - Integrations with
+> L86: Docker and starts Memgraph with
 
 ## 星数曲线
 
@@ -55,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `1fbfb5792d46` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6447cdb1f4f1` · [字段定义](../../DATASET.md)*

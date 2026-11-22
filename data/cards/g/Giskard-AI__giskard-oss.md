@@ -2,9 +2,9 @@
 
 ⭐ 5,966 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Giskard-AI/giskard-oss) · [官网](https://docs.giskard.ai) · 组织维护
 
-**面向 LLM Agent 的开源评测与红队测试库**
+**面向开发者的 LLM Agent 评测与红队测试库**
 
-Giskard v3 是用于测试与评估 AI agent 系统的 Python 库，由两个稳定包构成：giskard-checks 提供场景化评测 API 与内置检查（含 LLM-as-judge、Groundedness、Conformity），giskard-scan 提供漏洞扫描与红队测试（提示注入、越狱、有害内容、OWASP LLM Top-10 类别）及知识库质量评估。底层依赖 giskard-core/giskard-llm/giskard-agents 自动安装。需 Python 3.12+，LLM 裁判与生成器需安装 provider extra 并配置 API key（默认 openai/gpt-4o-mini）。v2 不再积极维护，表格/ML 模型的自动扫描仍为 v2 专属。
+开源 Python 库，用于测试与评估 agentic 系统，v3 重写为模块化包集：giskard-checks 提供场景 API、内置断言与 LLM-as-judge 评估，giskard-scan 提供 Agent 漏洞扫描与 RAG/质量评估，覆盖提示注入、越狱、有害内容、刻板印象等 OWASP LLM Top-10 威胁类别，可从自然语言描述自动生成对抗测试集；底层由 giskard-core/llm/agents 三个基础库支撑。需 Python 3.12+，LLM judge 与扫描生成器需安装 provider extra 并配置 API key。v2 仍可用但不再积极维护，v2 的表格模型自动扫描与 Giskard Hub 不计划迁移到 v3。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Giskard v3 是用于测试与评估 AI agent 系统的 Python 库，由两个稳
 
 ## 能力要点
 
-- 场景化评测 API：Target/Scenario/Check/Suite，支持多轮对话与非确定性输出
-- giskard-scan 红队扫描：自动生成对抗测试，覆盖提示注入、有害内容等
-- RAG 质量评估（quality_scan，v2 RAGET 的继任者）
-- 模块化包结构，各包只携带所需依赖，支持同步/异步
+- giskard-checks：场景 API + LLM-as-judge（Groundedness/Conformity/LLMJudge），针对非确定性输出
+- giskard-scan：从自然语言描述自动生成红队对抗测试集，含内置提示注入 payload 数据集
+- 模块化架构：checks/scan 两个稳定包 + core/llm/agents 三个基础库
+- v2 Scan 与 RAGET 的后继者以 vulnerability_scan 与 quality_scan 内置于 giskard-scan
 
 ## 适用场景
 
-- 为我的 LLM agent 编写回归测试与安全规则检查
-- 红队测试 agent 的提示注入与越狱漏洞
-- 评估 RAG 回答是否基于检索到的上下文
-- 评估 ML 模型（包装为 target 后测试）
+- 上线前对多轮 Agent 做回归与安全红队测试
+- 校验 RAG 回答是否基于检索到的上下文
+- 按内容政策强制执行输出安全规则
+- 对 ML 模型包装为 target 后做性能/偏差评估（v2 路径）
 
 ## 场景标签
 
@@ -38,8 +38,9 @@ Giskard v3 是用于测试与评估 AI agent 系统的 Python 库，由两个稳
 
 ## 证据(README 行号)
 
-> L4:  Evals, Red Teaming and Test Generation for Agentic Systems
 > L42: Giskard is an open-source Python library for **testing and evaluating agentic systems**. The v3 architecture is a m
+> L46: |✅ Stable|`giskard-checks`|Testing & evaluation — scenario API, built-in checks, LLM-as-judge|
+> L57: **Giskard Checks** is a lightweight library for creating evaluations (evals) that test LLM-based systems — from sim
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4ad55d099007` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8155bf371818` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 63,671 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/BerriAI/litellm) · [官网](https://docs.litellm.ai/docs/) · 组织维护
 
-**统一的 LLM 网关：一份接口调用 100+ 模型供应商**
+**给开发者提供统一接口调用 100+ LLM 的 AI 网关**
 
-提供 Python SDK 与可自部署的 AI Gateway（Proxy Server）两种使用方式，用 OpenAI 格式统一调用 100+ LLM 供应商。支持 /chat/completions、/responses、/embeddings、/images、/audio、/batches、/rerank、/messages 等端点，以及 A2A 代理调用、MCP 服务器接入。网关侧提供虚拟密钥、花费跟踪、guardrails、负载均衡与管理后台；SDK 侧提供带重试/回退的 Router 与可观测性回调。核心为 Rust 实现，附 Python SDK。
+开源 AI Gateway：以 Python SDK 或自托管代理服务器两种形态，用统一的 OpenAI 格式接口调用 100+ LLM 提供商。功能覆盖虚拟密钥、费用追踪、guardrails、负载均衡、管理面板，支持 /chat/completions、/embeddings、/images、/audio、/rerank 等端点，并提供 Auto Router 自动选模型、A2A Agent 接入、MCP 网关与 agent harness（Claude Code/Codex 等）运行能力。README 还给出 agent 评测接口（agent_eval）与按任务对比 harness/模型的机制。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- Python SDK 与 AI Gateway（Proxy Server）两种形态，OpenAI 格式调用 100+ 供应商
-- A2A Agent 网关与 MCP 网关：将 MCP 服务器接入 /chat/completions
-- 虚拟密钥、多租户花费跟踪、guardrails、负载均衡与管理后台
-- Router 支持跨部署的重试/回退与应用级负载均衡
+- 统一 OpenAI 格式接口调用 100+ 提供商，提供 Python SDK 与代理服务器两种形态
+- 代理服务器提供虚拟密钥、费用追踪、guardrails、负载均衡与管理面板
+- 支持 Auto Router 自动路由、A2A 协议与 MCP 网关
+- agent harness 支持 Claude Code/Codex/OpenCode 等接入任意模型
 
 ## 适用场景
 
-- 为团队搭建集中式 LLM 网关，统一密钥与费用管理
-- 在 Python 项目中用统一接口切换多个模型供应商
-- 把 MCP 服务器和 A2A Agent 暴露为统一网关端点
-- 在 Azure/OpenAI 等多部署间做重试与回退
+- 团队内部集中管理多家 LLM 的调用、密钥与费用
+- 在不改代码的情况下切换或混用多个 LLM 提供商
+- 通过网关给 agent 工具（如 IDE、CLI agent）统一供模型
+- 将多个 MCP 服务器接入统一网关供 LLM 调用
 
 ## 场景标签
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f559f3c7c57f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `36e4bfdc1619` · [字段定义](../../DATASET.md)*

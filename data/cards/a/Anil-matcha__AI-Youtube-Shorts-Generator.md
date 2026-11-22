@@ -2,9 +2,9 @@
 
 ⭐ 6,425 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) · [官网](https://www.vadoo.tv/ai-youtube-shorts-generator) · 个人维护
 
-**将长视频自动切成竖版短视频的 CLI/库，LLM 选段+Whisper 转录**
+**把长 YouTube 视频自动切成带评分的 9:16 竖屏短视频**
 
-输入 YouTube URL 或本地视频文件，经下载、Whisper 转录、LLM 按传播力框架（钩子、情绪峰值、观点冲突等）对候选片段打分排序、去重后，自动竖版裁剪并渲染为 9:16 等比例的 mp4 短视频，附标题、评分与理由。提供 CLI 与 Python 库两种用法，支持 JSON 输出与批处理。两种运行模式：默认 API 模式依赖 MuAPI；本地模式用 yt-dlp、faster-whisper、ffmpeg/OpenCV，LLM 步骤仍需 OpenAI 或 Gemini key。MIT 许可。
+面向创作者、代理机构与开发者的视频剪辑工具：输入 YouTube 链接，经下载、Whisper 转录、LLM 热点排序（0–100 评分、钩子句、理由）与人脸追踪竖屏裁剪，输出若干 9:16 mp4 及 JSON 结果。提供两种运行模式：默认 API 模式依赖 MuAPI 密钥完成全流程；本地模式在本机用 yt-dlp、faster-whisper、ffmpeg/OpenCV 运行，仅 LLM 排序需 OpenAI 或 Gemini 密钥。长视频按 20 分钟重叠分块，重叠候选按分数去重。支持 CLI 批处理与 Python 库导入，MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- LLM 按传播力框架对候选片段打分（0-100）并附钩子句与理由
-- 双模式：MuAPI 一站式 API 或本地 yt-dlp+faster-whisper+ffmpeg 流水线
-- OpenCV 人脸跟踪+运动平滑的竖版自动裁剪
-- 长视频自动分块（>30 分钟按 20 分钟重叠切分）与重叠候选去重
+- LLM 热点检测输出分数、钩子句与入选理由，标准可编辑
+- API/本地双模式：MuAPI 全托管或 yt-dlp + faster-whisper + OpenCV 本地运行
+- 30 分钟以上视频自动重叠分块，避免跨块遗漏
+- 支持任意宽高比输出、批处理与 JSON 结果导出
 
 ## 适用场景
 
-- 把播客/访谈等长视频批量切成 TikTok/Reels/Shorts 竖版片段
-- 自建短视频剪辑流水线时作为 Python 库导入并输出 JSON
-- 离线处理本地视频文件（仅 LLM 排序步骤需联网）
+- 把播客/访谈长视频批量切成短视频发 TikTok/Reels
+- 自托管替代付费订阅剪辑服务并保留完整算法控制权
+- 以 Python 库或 JSON 输出接入自己的内容生产流水线
 
 ## 场景标签
 
-`图像视频处理` · 领域:感知与多模态
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L7: Built for creators, agencies, and developers who don't want to pay $20–$300/month or be capped on minutes processed.
 > L40: - **🔀 Two Modes — API (fast) or Local (offline)**: Default `--mode api` uses MuAPI for download/transcription/cropp
+> L189: 5. **Highlight ranking**: An LLM scans the transcript through a virality framework — hook moments, emotional peaks
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `881e97c7da26` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1d0393f12f7d` · [字段定义](../../DATASET.md)*

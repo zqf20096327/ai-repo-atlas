@@ -2,15 +2,15 @@
 
 ⭐ 25,885 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/shap/shap) · [官网](https://shap.readthedocs.io) · 组织维护
 
-**给机器学习模型输出提供 Shapley 值解释的 Python 库**
+**给机器学习模型输出做 Shapley 值归因解释的 Python 库**
 
-基于博弈论 Shapley 值，为任意机器学习模型的输出计算特征归因（SHAP 值），并提供 force plot、beeswarm、scatter、bar、dependence plot 等可视化接口。针对不同模型类型提供多种解释器：TreeExplainer（树模型精确高速 C++ 实现）、DeepExplainer 与 GradientExplainer（TensorFlow/Keras/PyTorch 深度模型近似）、LinearExplainer（线性模型）、KernelExplainer（模型无关）。以 Python 包形式发布，支持 PyPI 与 conda-forge 安装，可选 CUDA extra 启用 GPU 加速的 Tree SHAP。
+SHAP 基于博弈论 Shapley 值解释任意机器学习模型的输出，将最优信用分配与局部解释结合。针对树集成模型提供 C++ 高速精确算法（支持 XGBoost/LightGBM/CatBoost/scikit-learn/pyspark），针对深度模型提供 DeepExplainer（TensorFlow/Keras）与 GradientExplainer（TF/Keras/PyTorch），并提供模型无关的 KernelExplainer；对 Hugging Face transformers NLP 模型有专门支持。提供 force plot、beeswarm、scatter、bar 等可视化绘图，附多套示例 notebook。经 PyPI 或 conda-forge 安装，GPU 加速由独立 shap-cuda 包提供。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- TreeExplainer 对 XGBoost/LightGBM/CatBoost/scikit-learn/pyspark 树模型提供 C++ 精确算法
+- 树模型高速精确的 Tree SHAP 算法，覆盖 5 种树框架
 - DeepExplainer/GradientExplainer 支持 TensorFlow/Keras/PyTorch 深度模型
-- KernelExplainer 为模型无关方法，可解释任意函数
-- TreeExplainer 支持 SHAP interaction values 的成对交互精确计算
+- KernelExplainer 模型无关方法可解释任意函数
+- SHAP interaction values 计算成对特征交互效应
 
 ## 适用场景
 
-- 解释树集成模型（如 XGBoost）每个特征对预测的贡献
-- 可视化深度学习模型（如图像分类）的输入归因
-- 分析特征交互与特征重要性排序
-- 对 NLP transformers 模型输出做特征归因解释
+- 解释 XGBoost/LightGBM 模型的特征贡献
+- 可视化深度学习模型的输入归因（如图像像素）
+- 解释 Hugging Face transformers 文本模型的输出
+- 分析特征交互与生存/风险模型
 
 ## 场景标签
 
- · 领域:机器学习/模型可解释性
+ · 领域:机器学习/可解释性工具
 
 ## 证据(README 行号)
 
 > L10: **SHAP (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of any machine learning
-> L40: While SHAP can explain the output of any machine learning model, we have developed a high-speed exact algorithm for
+> L43: While SHAP can explain the output of any machine learning model, we have developed a high-speed exact algorithm for
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0798f75890c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5ee828dea567` · [字段定义](../../DATASET.md)*

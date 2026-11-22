@@ -2,15 +2,15 @@
 
 ⭐ 8,518 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/vaexio/vaex) · [官网](https://vaex.io) · 组织维护
 
-**面向十亿行级表格数据的 Python 核外 DataFrame 与可视化库**
+**给数据科学家处理十亿行级表格数据的 Python Out-of-Core DataFrame 库**
 
-Python 库，提供类似 Pandas 的懒计算核外（Out-of-Core）DataFrame，通过内存映射、零拷贝与延迟计算处理大规模表格数据，支持 HDF5 与 Apache Arrow 格式即时打开、S3 懒流式读取、并行 groupby 与省内存 join，并以直方图、密度图和 3D 体渲染支持交互式探索；可集成 Jupyter/Voila，支持无需显式管道的机器学习。面向需要在单机处理大数据的数据科学工作者，安装提供 pip 与 conda-forge 两种方式。
+Vaex 是用于懒加载 Out-of-Core DataFrame 的 Python 库，可对十亿行以上的表格数据集做统计计算与交互式探索，统计量（均值、求和、计数、标准差等）在 N 维网格上每秒可处理十亿样本。关键机制包括内存映射、零内存拷贝与懒计算；支持 HDF5 与 Apache Arrow 格式读取、S3 懒流式读取、表达式系统、并行 groupby/聚合与高效 join，并可集成 Jupyter/Voila 及配合 Scikit-Learn 做机器学习训练。通过 pip 或 conda 安装。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,20 +20,21 @@ Python 库，提供类似 Pandas 的懒计算核外（Out-of-Core）DataFrame，
 
 ## 能力要点
 
-- 内存映射即时打开 HDF5/Apache Arrow 大文件，数据保留在磁盘按需流式读取
-- 并行 groupby（类别场景下每秒超 10 亿行）与不物化右表的省内存 join
-- 直方图、密度图与 3D 体渲染的交互式大数据可视化
-- S3 懒流式读取与 Jupyter/Voila 集成
+- 内存映射 + 懒计算 + 零拷贝的 Out-of-Core DataFrame
+- 支持 HDF5/Apache Arrow 读取与 S3 懒流式访问
+- 并行化 groupby/聚合与不物化右表的 join
+- 集成 Jupyter/Voila，提供无显式 pipeline 的机器学习路径
 
 ## 适用场景
 
-- 在笔记本上分析超过 100GB 的表格数据
-- 对十亿行级数据做统计计算与交互式可视化探索
-- 结合 Scikit-Learn 在单机训练大样本机器学习模型
+- 在笔记本上探索和分析几十 GB 的表格数据
+- 对十亿行数据集做快速统计、分组聚合与 join
+- 把 CSV/Pandas 数据转换为 HDF5/Arrow 后高效处理
+- 配合 Scikit-Learn 在大数据集上做机器学习
 
 ## 场景标签
 
- · 领域:数据处理/数据科学
+ · 领域:数据科学/大数据处理
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `e848551da29d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `ff124e799a2a` · [字段定义](../../DATASET.md)*

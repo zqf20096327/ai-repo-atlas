@@ -2,9 +2,9 @@
 
 ⭐ 6,997 · MIT · 推送 2026-11-01 · [GitHub](https://github.com/amitness/learning) · [官网](https://twitter.com/amitness) · 个人维护
 
-**个人学习记录：按技能领域整理的课程与书籍清单**
+**个人学习记录：AI/软件工程学习资源清单与进度追踪**
 
-维护者以表格形式记录自己正在学习的资源，分为通用技能（系统设计、数学、数据结构与算法、SQL、Linux、Git、测试、技术写作、Python 等）与专业技能（生成式 AI：NLP、LLM 理论、RLHF 后训练、多模态等）两大板块，每条含格式、时长与完成进度。当前标注的学习焦点为生成式 AI，每月更新。内容为课程/书籍链接的策展清单，不提供代码或安装方式，仅供浏览参考。
+作者以表格形式记录自己学习过的书籍、课程与视频，按通用技能（系统设计、数学、算法、SQL、Linux、Git、技术写作、Python）与专项技能（NLP、LLM 理论、后训练/RLHF、多模态）分类组织，逐条标注资源格式、时长/页数与完成进度。当前关注方向为生成式 AI，每月更新一次。不含可运行的代码或安装说明，仅作为资源清单与进度日志供浏览。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 按通用技能与专业技能两大板块组织的资源表格
-- 每条资源标注格式、时长与完成进度
-- 生成式 AI 部分覆盖 NLP、LLM 理论、RLHF/RLVR 后训练、多模态
+- 按通用技能与专项技能两级分类组织学习资源
+- 每条资源标注格式、页数/时长与完成进度标记
+- 覆盖 NLP、LLM 理论、RLHF/后训练与视觉多模态等方向
+- 每月更新，当前聚焦生成式 AI
 
 ## 适用场景
 
-- 查找机器学习与 LLM 相关的系统化学习资源
-- 参考他人的软件工程技能学习路径与进度组织方式
-- 了解 LLM 训练与后训练主题的书籍和讲座线索
+- 查找 AI 与软件工程方向的学习资源线索
+- 参考他人规划的系统化学习路径
+- 了解 LLM 后训练与 RLHF 的入门材料有哪些
 
 ## 场景标签
 
-`教程课程` `精选清单` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3: A running log of things I'm learning to build strong software engineering skills while also expanding my knowledge o
+> L3: A running log of things I'm learning to build strong fundamentals while also expanding my knowledge of adjacent tech
 > L5: **Updated**: Once a month | **Current** **Focus**: Generative AI
-> L183: ### Generative AI
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `91672c316867` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `03cea7542f42` · [字段定义](../../DATASET.md)*

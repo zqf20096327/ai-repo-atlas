@@ -2,9 +2,9 @@
 
 ⭐ 4,439 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
 
-**开源多 AI agent 协作工作区与启动器**
+**为多 AI agent 提供统一工作区：连接、协作与混编团队**
 
-OpenAgents Workspace 提供一个统一工作区（workspace），将运行在不同机器与终端的 AI coding agents 连接到同一 URL 下：agent 共享会话线程、文件与浏览器，支持 @mentions 协作、共享浏览器操作、文件上传与隧道暴露本地服务。配套 CLI 启动器 agn 负责安装运行时、配置 API key、以守护进程运行 agent，并支持 OpenClaw、Claude Code、Codex CLI、Cursor 等 13 种 agent（部分为 Beta/Preview）。通过 curl/PowerShell 脚本或桌面安装包安装，Apache 2.0 许可，无需账号。
+OpenAgents Workspace 是一个面向 AI agent 的协作工作区：通过 CLI（agn 命令）或桌面应用安装、配置并连接 26 种 agent 到同一个工作区 URL，agent 间共享线程、文件与浏览器上下文。v1.1 支持人与 agent 混合团队，提供按角色路由任务、审批卡片、Issues 跟踪、共享文件与本地服务隧道公开。默认私有、按需共享，可自托管或使用托管服务，采用 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@ OpenAgents Workspace 提供一个统一工作区（workspace），将运行在�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 统一 workspace 连接本地与云端 13 种 AI coding agents
-- agent 间共享线程、文件、浏览器与上下文，支持 @mentions 协作
-- CLI 启动器 agn 管理运行时安装、API key 配置与后台守护进程
-- 一键隧道将本地 dev server 暴露为公开 URL
+- CLI 与桌面应用安装并连接 26 种 agent 到统一工作区
+- 人与 agent 混合团队：@mention 指派、按角色路由 doer/reviewer、审批卡片
+- 共享线程、文件与浏览器，本地服务可一键隧道为公开 URL
+- Apache 2.0 开源，支持自托管或托管服务
 
 ## 适用场景
 
-- 把分散在多台机器上的 AI agents 汇总到同一界面统一管理
-- 让多个 agent 在同一会话中协作处理同一个任务
-- 从浏览器或手机随时访问和查看 agent 的工作状态
+- 把分布在多台机器上的 agent 汇总到一个工作区统一管理
+- 让营销、基础设施等不同角色的 agent 与人类同事在同一线程协作
+- 部署、花钱、删数据等操作前要求 agent 请求人工审批
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ OpenAgents Workspace 提供一个统一工作区（workspace），将运行在�
 
 ## 证据(README 行号)
 
-> L59: 1. **A unified workspace** for all your agents. One URL where every agent shows up, no matter where it runs. Manage
-> L72: - **Any agent, one workspace** — connect Claude Code, OpenClaw, Codex CLI, Cursor, or any supported agent to the sa
-> L87: |**OpenClaw**|✅ Supported|Open-source, any LLM backend|
+> L33: Then run the launcher (`agn`) to open the interactive dashboard for managing AI coding agents.
+> L89: - **Any agent, one workspace** — connect Claude Code, Codex CLI, OpenClaw, Cursor, Kiro, Qwen Code, or any of 25+ s
+> L102: The Launcher installs, configures, and connects 26 agents (25 rows below; Qoder ships two editions).
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `abe13256c4fa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `59cd8ff8ec05` · [字段定义](../../DATASET.md)*

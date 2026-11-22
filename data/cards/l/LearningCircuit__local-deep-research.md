@@ -2,9 +2,9 @@
 
 ⭐ 9,619 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LearningCircuit/local-deep-research) · 组织维护
 
-**本地优先的深度研究助手：多搜索引擎+多LLM生成带引用报告**
+**本地运行的 AI 深度研究助手，生成带引用的研究报告**
 
-面向需要隐私可控研究流程的用户的应用：输入复杂问题后，系统调用多个 LLM 与 10+ 搜索引擎（arXiv、PubMed、私有文档等）自动检索、综合并生成带引用的报告；提供 LangGraph 自主 agent 策略，在单张 RTX 3090 上报告约 95% SimpleQA。支持 Docker/pip 安装与本地/云端 LLM，内置 SQLCipher 每用户加密数据库、egress 出站范围控制等安全机制。附带加密个人图书馆：下载论文/网页、提取文本、索引并跨自有文档与实时网络检索。限制：需 AVX 指令集 CPU（2011 年后），本地中继到云端模型的场景无法被检测。
+Local Deep Research 是一个可通过 Web 界面使用的 AI 研究助手：接收复杂问题后自动执行多轮检索与综合，跨网络、学术论文（arXiv、PubMed、Semantic Scholar）和用户自有文档生成带引用的报告。支持本地与云端 LLM（含 Ollama、llama.cpp、OpenAI 兼容端点），提供 LangGraph Agent 等研究策略，并可将检索到的来源下载进 AES-256 加密的个人知识库做索引与检索。提供 Docker、Docker Compose、pip 三种安装方式，跨 Windows/macOS/Linux，内置 egress 范围控制与每用户隔离数据库等安全机制。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 多 LLM + 10+ 搜索引擎的 agentic 深度研究，输出带引用报告
-- 本地单卡（RTX 3090 + Qwen3.6-27B）报告约 95% SimpleQA
-- 每用户独立 SQLCipher AES-256 加密数据库与 egress 出站范围控制
-- 加密知识库：下载来源、索引、跨自有文档检索
+- 基于 LangGraph 的 agentic 研究策略，自适应切换 10+ 搜索引擎
+- 支持本地与云端 LLM（llama.cpp、Ollama、OpenAI 兼容端点）
+- SQLCipher 加密的个人知识库：下载来源、索引、嵌入并可检索
+- egress 范围控制（Adaptive/Public only/Private only/Strict）限制流量去向
 
 ## 适用场景
 
-- 在本地硬件上做隐私可控的文献与网络深度研究
-- 把研究产出的论文和网页沉淀为可检索的私有知识库
-- 限定只检索私有文档集合的合规研究流程
+- 在本地硬件上运行研究助手以保护隐私
+- 对学术文献与自己积累的文档做联合检索并生成引用报告
+- 为家庭服务器搭建自主可控的深度研究工具
 
 ## 场景标签
 
-`科研工具` `RAG` `知识库管理` · 领域:知识与检索
+`RAG` `科研工具` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L28: **AI-powered research assistant for deep, agentic research**
-> L88: You ask a complex question. Local Deep Research (LDR):
-> L91: - Synthesizes everything into a report with proper citations
+> L30: *Performs deep, agentic research using multiple LLMs and search engines with proper citations*
+> L40: AI research assistant you control. Run locally for privacy, use any LLM and build your own searchable knowledge bas
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `38d6e32f6a23` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0081a611bb2e` · [字段定义](../../DATASET.md)*

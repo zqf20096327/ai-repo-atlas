@@ -2,9 +2,9 @@
 
 ⭐ 9,600 · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/kyrolabs/awesome-langchain) · 组织维护
 
-**LangChain 生态工具与项目策展清单**
+**围绕 LangChain 框架的工具与项目策展清单**
 
-由 KyroLabs 维护的 awesome list：收录基于 LangChain 框架的工具与开源项目，按框架本体、其他语言移植（Go/Ruby/Java/Dart/Haskell/Elixir/Rust）、低代码工具、服务、Agent、模板、平台、知识管理等类别组织，条目附简介与 GitHub 星标，另配套订阅 newsletter。仅做链接策展，不提供可安装的软件本体，通过 PR 贡献新条目。
+由 kyrolabs 维护的 awesome 清单，收录使用 LangChain 框架的工具与开源项目，并按 GitHub stars 排序展示。内容按 LangChain 框架本体、多语言移植（Go/Rust/Java/Ruby 等七种）、工具（低代码、服务、Agents、模板、平台）、开源项目（知识管理、聊天机器人）等类别组织。通过 pull request 或 issue 接收社区贡献，并提供订阅 newsletter 获取更新。清单条目为链接与一句话描述，本身不提供可运行软件。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按 10+ 类别组织 LangChain 生态条目（工具/Agent/模板/平台/开源项目）
-- 收录 7 种语言的 LangChain 非官方移植
-- 配套 newsletter 与贡献指南
+- 收录使用 LangChain 的工具与项目，按 GitHub stars 展示
+- 覆盖 LangChain 的七种非官方语言移植
+- 类别包括低代码、服务、Agents、模板、平台、知识管理
+- 通过 PR/issue 接受社区贡献并提供 newsletter 订阅
 
 ## 适用场景
 
-- 为 LangChain 项目选型时查找配套工具与模板
-- 了解 LangChain 生态各语言移植版本
-- 发现基于 LangChain 的开源 Agent 与 RAG 应用
+- 查找基于 LangChain 构建的工具和开源项目
+- 了解 LangChain 生态在各语言和场景的覆盖情况
+- 为自己的 LLM 项目寻找参考实现或模板
 
 ## 场景标签
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4cce4ba9ee6c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d86b5e9b3988` · [字段定义](../../DATASET.md)*

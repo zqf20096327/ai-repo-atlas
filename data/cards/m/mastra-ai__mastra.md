@@ -2,16 +2,16 @@
 
 ⭐ 29,724 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/mastra-ai/mastra) · [官网](https://mastra.ai) · 组织维护
 
-**面向开发者的 TypeScript AI 应用与 Agent 框架**
+**给 TypeScript 开发者的 AI 应用与 Agent 构建框架**
 
-Mastra 提供基于 TypeScript 的框架，用于构建 AI 应用与 Agent，覆盖从原型到生产部署的环节。关键机制包括：统一接口接入 40+ 模型提供商的模型路由、基于图的 workflow 引擎（.then/.branch/.parallel）、human-in-the-loop 暂停恢复（依赖存储保存执行状态）、上下文与记忆管理、MCP server 编写，以及内置 evals 与可观测性。可嵌入 React/Next.js/Node.js 应用或作为独立服务部署。仓库采用 Apache-2.0 与企业许可的双许可模式，`ee/` 目录代码生产使用需企业许可。
+面向 TypeScript 技术栈的框架，用于构建 AI 应用与自主 Agent：提供模型路由（统一接口接入 40+ 供应商）、基于图的 workflow 引擎（.then/.branch/.parallel 控制流）、基于存储的挂起/恢复式 human-in-the-loop、上下文与记忆管理、MCP server 编写、内置 evals 与可观测性。可嵌入 React/Next.js/Node.js 应用或作为独立服务部署。核心代码 Apache-2.0 开源，ee/ 目录下的功能需企业许可方可生产使用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | NOASSERTION |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -27,17 +27,17 @@ Mastra 提供基于 TypeScript 的框架，用于构建 AI 应用与 Agent，覆
 
 ## 能力要点
 
-- 模型路由：单一标准接口接入 40+ 提供商（OpenAI、Anthropic、Gemini 等）
-- 图式 workflow 引擎与 human-in-the-loop 暂停/恢复机制
-- MCP server 编写：以标准协议暴露 agents、tools 与资源
-- 内置 evals 与可观测性支持生产迭代
+- 模型路由：一个标准接口连接 40+ 模型供应商
+- 图式 workflow 引擎与基于存储的无限期挂起/恢复
+- 可编写 MCP server，暴露 agents 与 tools
+- 内置 evals 与可观测性工具
 
 ## 适用场景
 
-- 用 TypeScript 从零搭建 AI Agent 应用并接入多家模型
-- 把 Agent 与 workflow 打包进现有 React/Next.js/Node.js 项目
-- 需要人工审批环节的多步骤自动化流程
-- 为 Agent 添加评测与可观测性以持续调优
+- 用 TypeScript 构建 LLM Agent 应用
+- 需要多步编排和人工审批环节的 AI 流程
+- 对 Agent 做评估、观测与迭代优化
+- 以 MCP 协议对外暴露工具与资源
 
 ## 场景标签
 
@@ -47,7 +47,6 @@ Mastra 提供基于 TypeScript 的框架，用于构建 AI 应用与 Agent，覆
 
 > L11: Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 > L21: - **Model routing**: Connect to 40+ providers through one standard interface. Use models from OpenAI, Anthropic, Ge
-> L33: - **MCP servers**: Author Model Context Protocol servers, exposing agents, tools, and other structured resources vi
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7dddec294672` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `86b77a608213` · [字段定义](../../DATASET.md)*

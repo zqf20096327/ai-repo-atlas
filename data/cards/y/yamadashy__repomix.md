@@ -2,9 +2,9 @@
 
 ⭐ 29,369 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yamadashy/repomix) · [官网](https://repomix.com) · 个人维护
 
-**给开发者把整个仓库打包成单文件供 LLM 使用**
+**给开发者把代码仓库打包成单一 AI 友好文件的工具**
 
-一个 CLI/网站/浏览器扩展工具，将仓库内容打包为单个 AI 友好格式文件。提供 XML/Markdown/JSON/纯文本四种输出格式，统计每文件与整仓 token 数，支持 .gitignore 感知、Secretlint 凭证检测排除、Tree-sitter 代码压缩，可打包远程仓库与 stdin 文件列表。通过 npm 安装或 Docker 运行，也可在 repomix.com 网页使用，另提供 Chrome/Firefox 扩展与社区 VSCode 扩展。生成文件可发送给各类 AI 工具做代码审查、文档生成、测试用例生成等。
+Repomix 以 CLI、网页、浏览器扩展和 VSCode 扩展四种形态提供，将整个仓库合并为单个文件供用户粘贴给 LLM 工具。机制上支持 .gitignore/.repomixignore 过滤、Secretlint 凭据检测排除、Tree-sitter 压缩提取关键代码元素、按文件与全库的 token 计数、可包含 git 日志；输出支持 XML/Markdown/JSON/纯文本四种格式，README 给出代码审查、文档生成、测试用例生成等示例 prompt。Python 用户被引导至 Gitingest。
 
 ## 筛选速览
 
@@ -27,26 +27,27 @@
 
 ## 能力要点
 
-- 单命令打包整仓并生成 repomix-output.xml 等格式文件
-- token 计数与 Tree-sitter 代码压缩（--compress）
-- Secretlint 凭证格式检测并从输出中排除
-- 支持远程仓库打包、git log 注入与 stdin 文件列表
+- 一条命令将整个仓库打包为单一 AI 友好文件
+- 输出支持 XML、Markdown、JSON、纯文本四种格式
+- Tree-sitter 压缩选项提取关键代码元素以降低 token 数
+- Secretlint 检测并排除匹配已知凭据格式的文件
 
 ## 适用场景
 
-- 把代码库喂给 AI 助手做代码审查与重构建议
-- 基于仓库内容生成文档或测试用例
-- 通过 JSON 输出配合 jq 做程序化文件分析
+- 把代码库交给 LLM 做代码审查与重构建议
+- 基于仓库内容生成 README 等项目文档
+- 让 AI 分析整个代码库并生成测试用例
+- 通过远程仓库地址直接打包 GitHub 项目
 
 ## 场景标签
 
-`代码审查` · 领域:编码与开发
+`代码审查` `代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L46: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file.
 > L71: - **AI-Optimized**: Formats your codebase in a way that's easy for AI to understand and process.
-> L238: Once you have generated the packed file, you can use it with Generative AI tools like ChatGPT, DeepSeek, Perplexit
+> L98: That's it! Repomix will generate a `repomix-output.xml` file in your current directory, containing your entire
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6071af56fa23` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `3b35d007f5db` · [字段定义](../../DATASET.md)*

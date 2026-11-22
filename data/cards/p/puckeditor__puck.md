@@ -2,15 +2,15 @@
 
 ⭐ 13,744 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/puckeditor/puck) · [官网](https://puckeditor.com) · 组织维护
 
-**React 开发者的可视化拖拽页面编辑器**
+**给 React 应用嵌入拖拽式可视化页面编辑器的开发库**
 
-Puck 是一个模块化的 React 可视化编辑器，本身以 React 组件形式提供，可在自有应用中嵌入并基于自己的 React 组件构建拖拽式编辑体验，兼容 Next.js 等环境，数据由使用者自持、无供应商锁定。采用 MIT 许可，可用于内部系统与商业应用。通过 npm 安装 @puckeditor/core，或用 create-puck-app 脚手架生成预配置应用，官方提供 Next.js 与 React Router v7 两种 recipe，另设文档、Demo、Discord 社区与付费咨询渠道。
+Puck 是面向 React 的开源可视化编辑器，以 React 组件形式嵌入现有应用，开发者使用自己的组件搭建拖拽式页面构建界面，组件与数据归属用户自身。核心为 @puckeditor/core 包，提供编辑器与渲染两个入口；可选接入 Puck Cloud 托管后端，含页面存储（版本历史与数据迁移）、托管认证与 AI 生成界面模块，通过 CLI 按需添加。MIT 许可，允许内部与商业使用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,26 +26,26 @@ Puck 是一个模块化的 React 可视化编辑器，本身以 React 组件形�
 
 ## 能力要点
 
-- 以 React 组件形式嵌入自有应用，支持自定义拖拽体验
-- 兼容 Next.js、React Router 等 React 环境
-- MIT 许可，可用于商业应用
-- create-puck-app 提供预配置应用模板
+- 以 React 组件嵌入现有应用，使用开发者自己的组件
+- Editor 与 Render 分离，同一 config 既可编辑也可渲染页面
+- Puck Cloud 可选模块化后端：页面存储、认证、AI 模块按需添加
+- MIT 许可，允许内部与商业使用
 
 ## 适用场景
 
-- 在 React/Next.js 应用中搭建可视化页面搭建能力
-- 让非开发人员通过拖拽方式编辑页面内容
-- 基于自有组件库构建内部内容管理系统
+- 在现有 React 应用中嵌入页面搭建能力
+- 让非技术用户用拖拽方式用组件库生成页面
+- 为内容管理场景搭建自托管的页面构建器
 
 ## 场景标签
 
- · 领域:Web 开发工具/低代码
+ · 领域:前端开发工具/低代码
 
 ## 证据(README 行号)
 
-> L15: Puck is a modular, open-source visual editor for React.js. You can use Puck to build custom drag-and-drop experienc
-> L17: Because Puck is just a React component, it plays well with all React.js environments, including Next.js. You own yo
-> L19: Puck is also licensed under MIT, making it suitable for both internal systems and commercial applications.
+> L15: Puck is an open-source visual editor for React. Build drag-and-drop interfaces with your own components.
+> L17: Embed Puck as a React component in your existing application. You own your components and data, with no vendor lock
+> L81: Puck AI is an AI agent for Puck for generating interfaces directly from the editor.
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d7d92601b48f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e731083b5143` · [字段定义](../../DATASET.md)*

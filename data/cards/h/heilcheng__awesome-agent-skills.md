@@ -1,10 +1,10 @@
 # heilcheng/awesome-agent-skills
 
-⭐ 6,419 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/heilcheng/awesome-agent-skills) · [官网](http://agent-skill.co) · 个人维护 · 中文 README
+⭐ 6,419 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/heilcheng/awesome-agent-skills) · [官网](http://agent-skill.co) · 个人维护
 
-**社区策展的 AI agent 技能清单：教你为 Claude/Copilot 等加载技能**
+**面向 AI agent 使用者的 SKILL.md 技能目录与教程清单**
 
-社区维护的 Agent Skills 目录：收录由实际工程团队创建和使用的 SKILL.md 格式技能（教 AI 助手按需学习新能力的纯文本指令文件），按发布方组织，涵盖 Anthropic、OpenAI、Google Gemini、Hugging Face、Cloudflare、Netlify、Vercel、HashiCorp 等官方技能仓库。提供 30 秒上手流程（选技能→加载到 agent→对话调用），推荐 SkillsMP Marketplace、skills.sh 排行榜与 npx skills CLI 三种发现方式。由个人维护者 Hailey Cheng 运营，另提供 agent-skill.co 在线目录，README 提供含简体中文在内的多语言版本。
+社区策展的 Agent Skills 目录：收录 Anthropic、OpenAI、Google、Cloudflare、Vercel、HashiCorp 等团队实际使用的 SKILL.md 技能条目，按 AI 平台、云基础设施、开发者工具分类组织，并提供 agent-skill.co 在线浏览站点。README 介绍技能的三阶段加载机制（浏览/加载/使用），说明在 Claude Code、Codex 等兼容工具中的加载方法，并推荐 SkillsMP 市场与 npx skills CLI 用于发现和管理技能。由个人（Hailey Cheng）维护，提供多语言版本页面。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 收录各厂商官方 SKILL.md 技能仓库（Anthropic/OpenAI/Gemini/HF/Cloudflare 等）
-- 聚焦真实工程团队创建使用的技能，声明区别于批量生成仓库
-- 列出 10 个兼容 agent（Claude Code、Codex、Copilot、Cursor 等）
-- 提供 npx skills CLI 与两个第三方市场作为发现渠道
+- 收录 Anthropic、OpenAI、Google、Hugging Face 等官方技能目录并分类组织
+- 介绍 SKILL.md 的 Browse→Load→Use 三阶段加载机制
+- 提供 npx skills CLI 的查找/安装/更新/卸载命令
+- 支持 Claude Code、Codex、Gemini CLI、Cursor 等多种兼容 agent
 
 ## 适用场景
 
-- 为 Claude Code / Codex / Copilot 等 agent 查找可加载的技能
-- 了解 Agent Skills 的概念与三阶段加载机制
-- 浏览各厂商官方技能仓库覆盖的能力范围
+- 为 Claude Code 或 Codex 查找可直接加载的现成技能
+- 了解各平台官方技能目录的覆盖范围
+- 用 npx skills CLI 管理已安装的技能
 
 ## 场景标签
 
-`精选清单` `提示工程` · 领域:Agent 开发
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L11: Never heard of "agent skills" before? You're in the right place. This is a community-curated list of simple text fi
-> L97: #### Skills by Anthropic
+> L93: ## Official Skill Directories
+> L95: ### AI Platforms & Models
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `10cefcd3d637` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `9bbaf83bb432` · [字段定义](../../DATASET.md)*

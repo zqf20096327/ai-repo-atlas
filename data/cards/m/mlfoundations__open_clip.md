@@ -2,15 +2,15 @@
 
 ⭐ 14,278 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/mlfoundations/open_clip) · 组织维护
 
-**给研究者的开源 CLIP（图文对比学习）PyTorch 实现**
+**CLIP 的开源 PyTorch 实现：训练与加载图文/音频多模态模型**
 
-CLIP 的开源实现，基于 PyTorch 提供图文对比学习模型的训练与推理。main 分支的训练栈围绕 TrainingTask 封装、dict 批次、FSDP2、NaFlex 图像/音频管线与多种 torch.compile 策略组织，新增 CLAP 音频-文本、CoCa、MaMMUT、SigLIP 等模型族配置；旧版训练 API 需固定到 v3 分支或 PyPI 3.x 版本。预训练图文模型的推理用法保持兼容。提供论文链接与 Colab 示例。
+OpenAI CLIP（对比语言-图像预训练）的开源实现，另包含语言-音频（CLAP）模型与相关生成式模型。基于该代码库在 LAION-400M/2B、DataComp-1B 等数据集上训练了多系列模型，提供预训练与未训练模型的统一实例化接口、零样本评估与线性探针辅助脚本，支持 webdataset 格式训练数据与 FSDP2 等训练栈功能。要求 Python 3.9+ 与 PyTorch 2.6+，通过 pip 安装，训练需额外安装 training 依赖组。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,26 +26,27 @@ CLIP 的开源实现，基于 PyTorch 提供图文对比学习模型的训练与
 
 ## 能力要点
 
-- CLIP 的开源 PyTorch 实现，支持训练与预训练模型推理
-- 训练支持 FSDP2、多种 torch.compile 策略与 NaFlex 可变分辨率/音频管线
-- 包含 CLIP、SigLIP、CoCa、MaMMUT、CLAP 等模型族配置
-- 提供交互式 Colab notebook 与论文引用入口
+- 提供 open_clip.create_model_and_transforms 统一加载预训练/未训练模型，支持本地路径与 Hugging Face 权重
+- 包含 CLAP 2（NaFlex CLAP）可变长度音频-文本模型系列
+- 训练栈支持 FSDP2、torch.compile 策略、长度分桶
+- 提供多标签零样本评估与线性探针辅助脚本
 
 ## 适用场景
 
-- 训练自定义图文对比学习模型
-- 加载预训练 CLIP/CoCa 模型做图像-文本特征提取
-- 音频-文本对比学习（CLAP）实验
+- 训练自定义图文对比学习模型（支持 webdataset 大规模数据）
+- 加载预训练模型做零样本图像分类
+- 将音频与文本映射到共享嵌入空间（CLAP）
+- 批量计算大规模图像/文本嵌入
 
 ## 场景标签
 
-`模型训练` `多模态` · 领域:感知与多模态
+`多模态` `模型训练` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L1: # OpenCLIP
-> L8: > `main` now uses the post-refactor training stack by default. Training is organized around `TrainingTask` wrappers,
-> L45: > - Training pipeline wraps `model + loss` in a `TrainingTask` subclass (`CLIPTask`, `SigLIPTask`, `CoCaTask`, `Dis
+> L12: Welcome to an open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training). OpenCLIP also 
+> L71: OpenCLIP requires Python 3.9+ and PyTorch 2.6+. Python 3.14 and 3.15 have been validated with PyTorch 2.15 for infe
+> L74: pip install open_clip_torch
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3c112733cbca` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `14148ea692f3` · [字段定义](../../DATASET.md)*

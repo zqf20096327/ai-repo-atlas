@@ -2,9 +2,9 @@
 
 ⭐ 8,992 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google/adk-go) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
-**Google 官方 Go 语言 AI agent 开发框架（ADK）**
+**Go 代码优先的 AI agent 构建工具包**
 
-Agent Development Kit 的 Go 实现：以代码优先方式在 Go 中定义 agent 逻辑、工具与编排，支持组合多个专门 agent 构成模块化多 agent 系统，可容器化并部署到 Google Cloud Run 等云原生环境。面向利用 Go 并发与性能优势构建云原生 agent 应用的开发者。虽为 Gemini 优化但声明模型无关、部署无关，并与其他框架兼容。通过 go get 安装，Apache 2.0 许可（internal/httprr 除外）。
+Agent Development Kit 的 Go 语言版本：以代码优先方式定义 agent 逻辑、工具与编排，支持模块化多 agent 系统组合、工具生态集成（预置工具/自定义函数/接入现有工具），并提供容器化部署路径（含 Google Cloud Run）。对 Gemini 做优化但保持模型无关与部署无关。面向构建云原生 agent 应用的 Go 开发者，需 Go 1.26.10+，通过 go get 安装，另提供机器可读文档索引供编码 agent 使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Agent Development Kit 的 Go 实现：以代码优先方式在 Go 中定义 agen
 
 ## 能力要点
 
-- 在 Go 中以代码优先方式定义 agent 逻辑、工具与编排
-- 组合多个专门 agent 构建模块化多 agent 系统
-- 针对 Gemini 优化但模型无关、部署无关
-- 支持容器化部署与 Google Cloud Run 云原生环境
+- 代码优先：在 Go 中直接定义 agent 逻辑、工具与编排
+- 模块化多 agent 系统组合
+- 模型无关、部署无关，兼容其他框架
+- 机器可读文档索引 llms.txt 供编码 agent 引用
 
 ## 适用场景
 
-- 用 Go 构建云原生 AI agent 应用
-- 将多个专门 agent 组合为可扩展的多 agent 系统
-- 将 AI 编码助手指向 adk.dev/llms-full.txt 获取文档上下文进行开发
+- 用 Go 构建云原生 agent 应用并容器化部署
+- 组合多个专职 agent 形成多 agent 系统
+- 让编码 agent 基于 ADK 文档生成 agent 实现
 
 ## 场景标签
 
@@ -37,6 +37,7 @@ Agent Development Kit 的 Go 实现：以代码优先方式在 Go 中定义 agen
 
 ## 证据(README 行号)
 
+> L11:  An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibi
 > L24: Agent Development Kit (ADK) is a flexible and modular framework that applies software development principles to AI 
 > L26: This Go version of ADK is ideal for developers building cloud-native agent applications, leveraging Go's strengths 
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `88d1af697666` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `354ffaa596f1` · [字段定义](../../DATASET.md)*

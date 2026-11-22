@@ -2,9 +2,9 @@
 
 ⭐ 12,392 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dataelement/bisheng) · [官网](http://www.bisheng.ai) · 组织维护 · 中文 README
 
-**企业级开源 LLM 应用 DevOps 平台：工作流、RAG、Agent 一体化**
+**面向企业的开源一站式 Agent 平台：构建、部署与管理 AI 应用**
 
-面向企业场景的开源 LLM 应用开发运维平台，功能包括通用 Agent 任务模式（任务规划、并行子 Agent、人工介入）、团队知识库（细粒度权限、AI 问答带出处溯源）、工作流编排（循环、并行分支、批量执行）、企业级管理（部门/用户管理、RBAC+ReBAC、审批、审计、SSO/LDAP）、文档解析模型（印刷/手写/表格/印章识别）与信创支持（达梦 DM8）。通过 Docker Compose 部署，需 4 核 CPU、16GB 内存以上，附带 ES、Milvus、Onlyoffice 等组件。含商业版功能（仪表盘、DSH 桌面端）。
+BISHENG 定位企业级 Agent 平台，包含客户端（基于 DSHDesktop）、托管应用发布、多步骤任务模式 Agent（任务规划、子 Agent 并行、Human in the loop）、知识空间与文档权限管理、workflow 编排框架（支持成环/并行/批量）、RBAC/ReBAC 权限与审计、高精度文档解析模型等模块。部署依赖 Docker Compose，默认含 MySQL、Redis、MinIO、ES、Milvus 等组件；统计看板标注为商业版功能。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 通用 Agent 任务模式：任务清单规划、并行子 Agent、人工介入
-- 知识库权限细到单文件，AI 问答答案带可点击的来源引用
-- 工作流支持循环、并行分支、批量运行与人机交互节点
-- 自研文档解析模型（手写、表格、版面、印章）可私有化部署
+- 任务模式 Agent：任务规划+子 Agent 并行+Human in the loop，交付 HTML/Markdown/PPT/Excel/Word
+- workflow 编排支持成环、并行、批量运行自由组合
+- 知识空间三级权限（空间/文件夹/文件）与回答引用溯源
+- 高精度文档解析模型支持免费私有化部署
 
 ## 适用场景
 
-- 企业搭建带权限管控与审计的知识库问答系统
-- 用可视化工作流编排多轮对话与自动化文档处理流程
-- 让 Agent 按目标拆解任务并交付报告、PPT、Excel 产出物
+- 企业内构建并审批发布 AI 应用给同事使用
+- 搭建带细粒度权限的团队知识库问答
+- 文档审核、固定版式报告生成等流程自动化
+- 私有化部署企业级 Agent 与模型管理平台
 
 ## 场景标签
 
-`工作流自动化` `文档问答` `RAG` `文档解析` · 领域:效率与自动化
+`聊天机器人` `文档问答` `文档解析` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L17: BISHENG is an open LLM application devops platform, focusing on enterprise scenarios. It has been used by a large n
-> L22: 1. **🚀 Task Mode: a general-purpose agent for complex, multi-step work**
-> L36:  - 💬 **AI Q&A**: Ask questions about one document or about the whole space. Answers show their sources; click a sou
+> L17: BISHENG是一款 开源的企业级一站式 Agent 平台 ，专注办公效率与企业 AI 应用落地，已有大量行业头部组织及世界 500 强企业在使用。
+> L79:  - **独立、完备的应用编排框架**：不区分 chatflow 和 workflow，多轮对话和自动化处理可以混在同一个流程里。
+> L86:  - **客户端统一管理**：管理员集中配置 BISHENG 客户端可用的模型、技能、API/MCP 工具与知识空间，通过企业插件市场分发插件和工作台，并统一管理模型授权、月度积分和调用记录。
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `8a9ff208cb92` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d27873205472` · [字段定义](../../DATASET.md)*

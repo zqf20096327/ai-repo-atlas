@@ -1,19 +1,19 @@
 # screenpipe/screenpipe
 
-⭐ 22,497 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/screenpipe/screenpipe) · [官网](https://screenpipe.com) · 组织维护 · 中文 README
+⭐ 22,497 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/screenpipe/screenpipe) · [官网](https://screenpipe.com) · 组织维护
 
-**持续录制电脑屏幕与音频，为企业/个人构建可搜索的 AI 记忆**
+**本地连续录屏工具：发现重复工作流并交给 AI agent**
 
-本地持续捕获屏幕与音频的应用：事件驱动截屏（配 accessibility tree，OCR 兜底）、Whisper 本地语音转写与说话人识别、自然语言检索（SQLite FTS5）、时间线回放。通过 Markdown 定义的 Pipes 运行 AI agent（如 meeting-summary、day-recap），带 YAML 确定性数据权限控制；以 MCP server 与 localhost REST API 向 AI 助手暴露屏幕历史。source-available 许可：个人非商用免费，商用需购买许可。桌面应用支持 macOS/Windows/Linux，也可经 CLI 运行。
+screenpipe 在本地持续录制屏幕与音频，将历史转为可检索上下文与工作流：事件驱动的截图捕获（accessibility tree 优先、OCR 兜底）、本地 Whisper 语音转写、自然语言搜索（SQLite FTS5）、时间线回放，以及以 markdown 定义的 Pipes 计划型 agent。工作流发现报告梳理触发器、步骤与例外，经人工审阅后可经 MCP、REST API、SDK 或 pipe 交给外部 agent 执行。捕获数据默认留在本机，云 AI、同步与团队存储为独立数据路径。许可证为 source-available 商业许可，个人非商业使用免费。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `dual` | NOASSERTION |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,27 +27,27 @@
 
 ## 能力要点
 
-- 事件驱动截屏 + accessibility tree/OCR 兜底，本地 Whisper (Large-V3-Turbo) 转写
-- Pipes 插件系统：markdown 定义的定时 AI agent，含三层确定性数据权限
-- MCP server 零配置接入 Claude Desktop、Cursor 等 MCP 客户端
-- localhost REST API 与 JS/TS SDK，支持原始 SQL 访问 SQLite
+- 事件驱动捕获：截图配 accessibility tree，OCR 兜底，降低 CPU 与存储占用
+- 本地 Whisper Large-V3-Turbo 转写，支持说话人分离，Deepgram 为云端选项
+- Pipes：以 markdown 文件定义的计划型 AI agent（会议纪要、日报、站会更新）
+- 工作流经 MCP/REST API/SDK 交付给用户已有的 agent 与自动化工具
 
 ## 适用场景
 
-- 回忆/检索自己在电脑上看过的内容与会议录音
-- 给 AI 编码助手提供工作上下文
-- 自动生成会议纪要、每日总结与时间分配报告
-- 分析团队工作流，找出可自动化的环节
+- 回溯查找我在电脑上看过、听过的任意内容
+- 整理会议记录并生成会议摘要
+- 找出我每周重复做的工作流程并交给 agent 自动化
+- 给 Cursor、Claude Code 等编码助手提供工作上下文
 
 ## 场景标签
 
-`语音识别` `OCR` `多模态` `Agent 记忆` · 领域:Agent 开发
+`工作流自动化` `语音识别` `OCR` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L12:  Continuously record your company's computer work, map workflows, help find work worth automating, and power agents
-> L51: - **Local-first** - capture history stays on your device by default. Cloud AI, sync, integrations, and managed team
-> L166: - **License**: Screenpipe Commercial License (source-available; personal, non-commercial use permitted, commercial
+> L12:  Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you alre
+> L180: screenpipe is a source-available application that records screen and audio locally and turns that history into sea
+> L232: Pipes are scheduled AI agents defined as markdown files. Each pipe is a `pipe.md` with a prompt and schedule — scr
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0241ed1383ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `fb93ec353c1a` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 17,635 · Lean · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/openai/math) · 组织维护
 
-**面向数学研究者的 OpenAI 模型生成数学论文集与证明工件**
+**OpenAI 内部模型生成的数学论文与证明工件合集**
 
-该仓库收录由 OpenAI 内部模型产出的数学稿件及配套证明材料，共 719 篇手稿、组织为 372 个结果族，按数学学科分类。提供概览、手稿地图、preprints 目录（含 PDF、源文件与构建说明）、Lean 形式化目录与 Comparator 校验说明，约 42% 顶级结果已形式化；部分结果尚无 Lean 形式化且可能存在问题。每篇手稿目录内含 BibTeX 引用块，版本修订以新版本形式保留。
+由 OpenAI 未发布的内部模型产出的数学手稿与证明材料的开放仓库，含 721 篇手稿、373 个按数学学科分类的族，部分结果附 Lean 形式化证明（约 42% 顶级结果已形式化），并提供模型推理摘要与各手稿的引用 BibTeX。README 明确说明结果处于不同验证阶段，部分未形式化结果可能存在问题；产出方式平均每个结果消耗三小时 ChatGPT Pro 级别的思考算力。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -25,16 +25,16 @@
 
 ## 能力要点
 
-- 719 篇手稿按 372 个结果族组织，按数学学科分类
-- 约 42% 顶级结果附带 Lean 形式化证明
-- 提供手稿推理摘要与 preprints 源文件及构建说明
-- 版本历史保留，修订以新版本发布
+- 721 篇手稿按 373 个数学学科分类族组织
+- 约 42% 顶级结果有 Lean 形式化证明并持续补充
+- 公开部分结果的推理摘要与版本化引用方式
+- preprints/ 目录含 PDF、源文件与构建说明
 
 ## 适用场景
 
-- 查阅 OpenAI 模型在开放数学问题上的产出结果
-- 获取带 Lean 形式化的数学证明材料
-- 按结果族引用具体手稿（BibTeX）
+- 查阅内部模型在开放数学问题上的结果与证明材料
+- 核对 Lean 形式化证明及其验证配置
+- 引用特定数学手稿开展后续研究
 
 ## 场景标签
 
@@ -42,9 +42,9 @@
 
 ## 证据(README 行号)
 
-> L3: This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI mode
-> L14: The current catalogue contains 719 manuscripts organized into 372 families. A family groups related papers, which m
-> L19: - The Lean library and formalization catalogue describe the available formal proofs, their associated papers, and v
+> L3: This repository contains mathematical manuscripts and supporting proof artifacts produced by an unnamed internal Ope
+> L12: In our view, these manuscripts are best understood as a form of raw research data, rather than polished academic pa
+> L16: The current catalogue contains 721 manuscripts organized into 373 families. A family groups related papers, which m
 
 ## 星数曲线
 
@@ -60,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8cd3a12303d7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2d5ad51eba63` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,679 · C# · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/IvanMurzak/Unity-MCP) · [官网](https://ai-game.dev) · 个人维护
 
-**面向 Unity 的 MCP 工具与 AI 技能插件，让 AI agent 操作编辑器与运行时**
+**把 AI 代理接入 Unity 编辑器与运行中游戏的 MCP 工具与 CLI**
 
-Unity 编辑器与运行时插件，通过 MCP 协议将 Claude Code、Cursor、Copilot、Gemini 等 AI agent 接入 Unity。提供 70+ 内置工具（资产/场景管理、脚本读写与 Roslyn 动态执行、测试运行、性能快照、截图等），可基于项目环境自动生成 AI Skills，任意 C# 方法可经反射注册为工具；支持 stdio/http 两种部署及 Docker。运行时模式可在编译后的游戏内调用 LLM。安装提供 unitypackage 安装包、OpenUPM 包与 npm CLI 三种途径，要求项目路径不含空格。
+Unity-MCP 通过 MCP 服务器将 AI 代理连接到 Unity 编辑器和运行中的游戏：代理可读取与修改场景、预制体、资源和 C# 代码，运行 EditMode/PlayMode 测试并截屏；任意 C# 方法可通过 [AiTool] 特性注册为工具。提供 Unity 插件包、unity-mcp-cli 命令行工具和可选扩展包。服务器可选本地（127.0.0.1，无需账号）或 ai-game.dev 云端（默认，免费）。支持 Skills 或 MCP 两种接入方式，要求 Unity 2022.3 及以上，支持 Windows/macOS/Linux。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@ Unity 编辑器与运行时插件，通过 MCP 协议将 Claude Code、Cursor、
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 70+ 内置 MCP 工具覆盖资产、场景、脚本、测试与性能分析
-- 任意 C# 方法经单行注册转为 MCP 工具，可在项目代码中自定义工具
-- 运行时模式：在编译后的游戏内使用 LLM（NPC 行为/调试）
-- 本地 stdio 与远程 http 部署，附 Docker 部署指南
+- RQL 查询语言一次调用读写场景、对象、资源与设置
+- 任意 C# 方法通过 [AiTool] 特性一行声明为代理工具
+- 内置游戏运行时工具：NPC 逻辑与实时调试
+- 提供 OpenUPM/unitypackage 安装与 Unity 2022.3–6000.x 的 CI 测试
 
 ## 适用场景
 
-- 让 Claude Code/Cursor 等 agent 在 Unity 中自动创建资产、修改场景与生成代码
-- AI agent 运行 Unity 测试并读取日志调试项目
-- 游戏运行时接入 LLM 实现动态 NPC 行为
+- 让 Claude Code 或 Cursor 直接操作 Unity 场景与资源完成开发任务
+- 从终端或 CI 用 CLI 编译、运行测试并查询场景对象
+- 在构建出的游戏内接入 MCP 工具做实时调试
+- 一键生成 Skills 供不使用 MCP 的代理使用
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Unity 编辑器与运行时插件，通过 MCP 协议将 Claude Code、Cursor、
 
 ## 证据(README 行号)
 
-> L32: `Unity MCP` is an AI-powered game development assistant **for Editor & Runtime**. Connect **Claude**, **Cursor**, &
-> L40: - ✔️ **AI agents** - Use the best agents from **Anthropic**, **OpenAI**, **Microsoft**, or any other provider with 
-> L47: - ✔️ **Flexible deployment** - Works locally (stdio) and remotely (http) via configuration
+> L21: **AI Game Developer** (Unity-MCP) connects your AI agent to Unity. Claude Code, Codex, Cursor, GitHub Copilot, Gemi
+> L27:  An AI agent or unity-mcp-cli talks MCP to a server, ai-game.dev Cloud by default or a local gamedev-mcp-server, wh
+> L29: The plugin registers its tools with an MCP server; your agent calls them through that server. Instead of MCP tools,
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `1dcdd9b31d2e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d964fb393168` · [字段定义](../../DATASET.md)*

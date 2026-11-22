@@ -2,9 +2,9 @@
 
 ⭐ 4,860 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/vinta/pangu.js) · [官网](https://chrome.google.com/webstore/detail/paphcfdffjnbcgkokihcdjliihicmbpd) · 个人维护 · 中文 README
 
-**在中英文之间自动插入空格的 JS 库与 Chrome 扩展**
+**为中英文/数字/符号间自动插入空格的 JS 库与 Chrome 扩展**
 
-提供 paranoid text spacing 功能：自动在 CJK 字符与半形英文字母、数字、符号之间插入空白。形态包括 npm 库（浏览器 ESM/UMD 构建、Node.js、CLI）与 Chrome 扩展。扩展附带 AI Spacing 功能，通过 Chrome 内建 Prompt API 调用设备上的 Gemini Nano，离线判断正则无法区分的语义场景（如 +/- 在不同语境的加空格方式）。限制：库明确声明不适用于 Markdown 等标记语言文档。MIT 许可。
+pangu.js 提供 JavaScript 库、命令行工具与 Chrome 扩展，在中日韩文字与半形英文、数字、符号之间自动插入空白（盘古之白）。库分浏览器 DOM-aware 构建（spaceNode/autoSpacePage）与 Node.js 构建，支持 ESM/UMD 及多个 CDN 分发。Chrome 扩展新增 AI Spacing：用 Chrome 内置 Prompt API 在设备端运行 Gemini Nano 判断符号语义（如 + 是加号还是连接符），完全离线；正则规则无法处理的语义歧义交由 LLM 判断。不适用于 Markdown 文档。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 自动在 CJK 与半形字符间插入空白
-- Chrome 扩展提供 AI Spacing：经 Chrome 内建 Prompt API 在设备上运行 Gemini Nano，完全离线
-- 提供浏览器构建（含 DOM 感知的 spaceNode/autoSpacePage）、Node.js 与 CLI 多种使用方式
-- 分发渠道覆盖 npm、jsDelivr、unpkg、cdnjs 与 Chrome Web Store
+- JS 库+CLI+Chrome 扩展多种形态，自动在中西文间插入空格
+- AI Spacing 用 Chrome Prompt API 本地运行 Gemini Nano 做语义判断，完全离线
+- 浏览器版提供 DOM-aware 构建（spaceNode/autoSpacePage）与独立单文件版
+- npm/jsDelivr/unpkg/cdnjs 多渠道分发
 
 ## 适用场景
 
-- 浏览网页时自动为中英文混排内容加空格
-- 在浏览器或 Node.js 项目中调用库处理网页与纯文本
-- 通过 CLI 命令快速给一段文本加空格
+- 网页浏览时自动给中英文混排加空格
+- 在前端项目中批量处理 HTML 或纯文本的排版间距
+- 终端里快速格式化一段中英混排文案
 
 ## 场景标签
 
- · 领域:文本处理/排版工具
+ · 领域:文本处理/浏览器扩展
 
 ## 证据(README 行号)
 
-> L59: Regex rules can't distinguish semantic nuances like these, so the extension asks an LLM. It uses Chrome's built-in 
-> L65: Opinionated paranoid text spacing: automatically inserts whitespace between CJK (Chinese, Japanese, Korean) and ANS
+> L46: Install 為什麼你們就是不能加個空格呢？ and it spaces every page you browse. It also comes with the **AI Spacing** feature:
+> L60: Regex rules can't distinguish semantic nuances like these, so the extension asks an LLM. It uses Chrome's built-in 
+> L66: Opinionated paranoid text spacing: automatically inserts whitespace between CJK (Chinese, Japanese, Korean) and ANS
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `99419faf04e0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `60a7d15f5f06` · [字段定义](../../DATASET.md)*

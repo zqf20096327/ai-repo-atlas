@@ -2,15 +2,15 @@
 
 ⭐ 70,848 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/docling-project/docling) · [官网](https://docling-project.github.io/docling) · 组织维护
 
-**文档解析转换库：为生成式 AI 准备各格式文档**
+**为生成式 AI 准备文档的解析转换库**
 
-解析 PDF、Office 文档、HTML、音频、图像等多种格式，输出统一的 DoclingDocument 表示，可导出 Markdown、HTML、JSON 等；含版面/阅读顺序/表格结构理解、OCR、ASR、VLM 流水线。提供 Python API、CLI、docling-serve API 服务与 MCP server。本地可运行，适合敏感数据与离线环境。需 Python 3.10+，由 IBM 研究团队发起、LF AI & Data 基金会托管。
+多格式文档解析库：支持 PDF、DOCX、PPTX、HTML、EPUB、音频（WAV/MP3）、图片、邮件等格式的读取与结构化解析，内置版面、阅读顺序、表格结构、公式、OCR 与 ASR 模型，输出统一的 DoclingDocument 表示并可导出为 Markdown、HTML、JSON 等格式。通过 pip 安装，提供 CLI 与 Python API，可在本地或离线环境运行；面向需要把文档接入生成式 AI 应用的开发者，并提供 LangChain/LlamaIndex 等框架集成与 MCP server、API server（docling-serve）等运行方式。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- 多格式解析：PDF、DOCX、PPTX、HTML、音频、图像等
-- 高级 PDF 理解：版面、阅读顺序、表格结构、公式
-- 与 LangChain、LlamaIndex、Crew AI、Haystack 的集成及 MCP server
-- 支持本地执行，可用于气隙环境
+- 解析 PDF/DOCX/PPTX/HTML/EPUB/音频/图片等多种格式
+- PDF 深度理解：版面、阅读顺序、表格结构、公式、OCR
+- 统一的 DoclingDocument 表示与 Markdown/HTML/JSON 导出
+- 提供 LangChain/LlamaIndex 集成、MCP server 与 docling-serve API 服务
 
 ## 适用场景
 
-- 把 PDF/Office 文档转成 Markdown/JSON 喂给 LLM 应用
-- 扫描件 OCR 与表格结构抽取
-- 为 agent/RAG 流水线提供文档解析后端
-- 内网离线环境处理敏感文档
+- 把 PDF/Office 文档转成 Markdown 或 JSON 供 LLM 应用使用
+- 对扫描版 PDF 和图片做 OCR 提取
+- 在离线/内网环境本地解析敏感文档
+- 为 agent 应用提供文档读取能力（MCP）
 
 ## 场景标签
 
@@ -46,7 +46,8 @@
 ## 证据(README 行号)
 
 > L27: Docling simplifies document processing by parsing diverse formats — including advanced PDF understanding — and prov
-> L37: - 🤖 Plug-and-play [integrations][integrations] incl. LangChain, LlamaIndex, Crew AI & Haystack for agentic AI
+> L31: - 🗂️ Parsing of [multiple document formats][supported_formats] including PDF, DOCX, PPTX, XLSX, HTML, EPUB, Apple P
+> L32: - 📑 Advanced PDF understanding incl. page layout, reading order, table structure, code, formulas, image classificat
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `590518b63bab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9720987b56f5` · [字段定义](../../DATASET.md)*

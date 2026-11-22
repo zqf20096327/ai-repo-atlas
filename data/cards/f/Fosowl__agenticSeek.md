@@ -2,9 +2,9 @@
 
 ⭐ 27,688 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Fosowl/agenticSeek) · [官网](http://agenticseek.tech) · 个人维护 · 中文 README
 
-**本地运行的自主 AI 代理：浏览网页、写代码、规划任务**
+**全本地自主 AI 助手：浏览网页、写代码，数据不出设备**
 
-一个完全本地运行的自主代理助手，通过本地推理模型在用户硬件上完成网页搜索、信息提取、表单填写，以及 Python/C/Go/Java 等语言的代码编写与调试；可自动选择代理并把大任务拆分为步骤执行，附带语音输入功能（标注为进行中）。运行依赖 Python 3.10.x、Docker（含 SearxNG、Redis 等服务），通过 config.ini 配置本地或云端提供商；硬件不足以本地运行 LLM 时可改用 API 方式。
+定位为 Manus 的 100% 本地替代品：一个语音可用的自主 agent，可自主浏览网页、搜索、填写表单，并用 Python/C/Go/Java 等语言编写、调试、运行程序；内置自动 agent 选择与任务拆解执行机制。默认以 Docker 全栈运行（SearxNG + Redis + 前端），也可 CLI 模式在主机运行；本地 LLM 经 ollama/lm-studio/openai 兼容 API 接入，硬件不足时可切换云端 API。API key 对本地运行完全可选。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@
 
 ## 能力要点
 
-- 完全本地运行，数据不离开设备，API key 对本地运行用户为可选项
 - 自主网页浏览：搜索、读取、提取信息、填写表单
-- 自动选择代理并拆分执行多步任务
-- 支持 ollama、lm-studio、openai 兼容 API 等本地提供商
+- 自主编码：写、调试并运行多语言程序
+- 自动 agent 选择与多 agent 任务拆解执行
+- 语音/语音转文本交互（开发中）
 
 ## 适用场景
 
-- 在本地硬件上运行隐私优先的自主代理
-- 让代理自动搜索网页并汇总信息
-- 让代理自主编写和调试代码
+- 完全离线/隐私环境下运行自主 agent 助手
+- 让 agent 自动搜索资料并汇总结果
+- 让 agent 自动编写并运行脚本完成任务
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` `编码 Agent` · 领域:效率与自动化
+`AI 助手` `多智能体` `浏览器自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: *A **100% local alternative to Manus AI**, this voice-enabled AI assistant autonomously browses the web, writes code
 > L116: To run LLMs locally, you'll need sufficient hardware. At a minimum, a GPU capable of running Magistral, Qwen or De
-> L241: By default AgenticSeek is run fully in docker.
+> L145: provider_name = ollama # or lm-studio, openai, etc..
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b60ab5d1b538` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7be784a23945` · [字段定义](../../DATASET.md)*

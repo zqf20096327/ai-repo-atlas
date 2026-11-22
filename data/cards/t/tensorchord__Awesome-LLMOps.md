@@ -4,7 +4,7 @@
 
 **面向开发者的 LLMOps 工具策展清单**
 
-由 TensorChord 维护的 LLMOps 工具聚合清单：按模型（LLM、CV、音频、机器人基础模型）、推理服务、服务框架等章节组织，条目以表格形式列出项目名称、简介与仓库链接，覆盖 Llama.cpp、Ollama、vLLM 等推理运行时以及 BentoML、Jina 等服务框架。README 本身不含安装或运行内容，接受社区按贡献指南提交条目。
+按 LLMOps 全生命周期组织的开源工具目录，覆盖模型（LLM、CV/音频/机器人基础模型）、推理服务（serving 框架、AI 网关、Kubernetes operator）等类别，每条为名称+简介+仓库链接的表格条目，并附 Discord 社区与贡献指南。清单性质决定其不含安装与运行说明；内容为第三方项目的转述，部分条目标注已归档状态。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 Model/Serving/Frameworks 等章节分类组织工具条目
-- 覆盖 LLM、CV、音频、机器人四类基础模型条目
-- 收录 llama.cpp、Ollama、vLLM 等本地运行时与推理引擎
-- 条目以表格呈现项目简介与仓库链接
+- 按 Model/Serving 等生命周期类别组织的表格化条目
+- 覆盖 LLM、CV、音频、机器人 VLA 等基础模型条目
+- 收录推理引擎、AI 网关与 K8s operator 类服务工具
+- 提供 Discord 社区与贡献指南
 
 ## 适用场景
 
-- 为 LLM 项目选型时查找推理与服务工具
-- 了解 LLMOps 生态中各环节的开源项目分布
-- 按类别浏览机器人 VLA 模型与本地推理方案
+- 查找某类 LLMOps 环节（推理服务、网关等）的开源工具
+- 调研开源大模型与 VLA 模型的生态分布
+- 按清单链接进入各项目仓库深入了解
 
 ## 场景标签
 
@@ -37,6 +37,7 @@
 
 ## 证据(README 行号)
 
+> L1: # Awesome LLMOps
 > L5: An awesome & curated list of the best LLMOps tools for developers.
 > L10: ## Table of Contents
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `2957bcbc0cdf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `e5e2f12e2619` · [字段定义](../../DATASET.md)*

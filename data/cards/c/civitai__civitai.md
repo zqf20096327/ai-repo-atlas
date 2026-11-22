@@ -2,9 +2,9 @@
 
 ⭐ 7,326 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/civitai/civitai) · [官网](https://civitai.com) · 组织维护
 
-**Stable Diffusion 模型分享社区平台的开源代码库**
+**Stable Diffusion 模型分享平台：上传、浏览与交流**
 
-Civitai 模型分享平台的源码仓库：用于自建一个供用户注册账号、上传与浏览 Stable Diffusion 定制资源（textual inversion、hypernetwork、aesthetic gradient、VAE 等）、互评协作的 Web 平台。技术栈为 Next.js + tRPC + Prisma/Postgres + Mantine，本地运行依赖 Docker Compose 起容器栈（Postgres/Redis/MinIO/Meilisearch/ClickHouse）、Node 24.19.0 与 pnpm。本地已知限制：需要外部输入的服务（生成/训练编排、Signals、Buzz）无法在本地工作。
+Civitai 的开源平台代码：面向想要分享和获取 Stable Diffusion 相关模型（textual inversion、hypernetwork、aesthetic gradients、VAE 等）的用户，提供账号注册、模型上传、浏览他人模型、评论与反馈等功能。技术栈为 Next.js + tRPC + Prisma/Postgres，存储使用 Cloudflare。README 主要面向贡献者的本地开发部署：通过 Docker Compose 运行数据库、Redis、MinIO 等服务容器。本地环境无法运行需要外部输入的服务，包括生成与训练等编排功能。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Civitai 模型分享平台的源码仓库：用于自建一个供用户注册账
 
 ## 能力要点
 
-- 支持上传/浏览/评论 Stable Diffusion 定制模型资源的社区平台
-- 本地开发用 Docker Compose 起 Postgres/Redis/MinIO/Meilisearch/ClickHouse 容器栈
-- 提供标准 setup、可选 Nix flake 与 devcontainer 三种本地启动方式
-- Apache 2.0 许可
+- 用户可上传、浏览、评论 Stable Diffusion 相关模型资源
+- Next.js + tRPC + Prisma/Postgres + Cloudflare 存储的技术栈
+- 提供 Docker Compose、Nix flake、devcontainers 三种本地开发环境方案
+- 本地部署不包含生成、训练等编排服务
 
 ## 适用场景
 
-- 自建或二次开发一个 AI 生成模型分享社区站点
-- 为 Civitai 平台贡献代码或做本地开发调试
-- 研究模型分享社区的产品与技术实现
+- 搭建自己的模型分享社区站点
+- 参与 Civitai 平台代码的本地开发与贡献
+- 自托管环境研究平台的数据库结构与服务组成
 
 ## 场景标签
 
-`图像生成` · 领域:内容生成
+ · 领域:AI 模型社区/平台
 
 ## 证据(README 行号)
 
 > L16: Our goal with this project is to create a platform where people can share their stable diffusion models (textual in
-> L18: other's work. The platform allows users to create an account, upload their models, and browse models that have been
+> L23: We've built this project using a combination of modern web technologies, including Next.js for the frontend, TRPC f
+> L38: - Docker, with Compose v2 (`docker compose`, not the
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `30de5dcd70c9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `862b5bc3bd21` · [字段定义](../../DATASET.md)*

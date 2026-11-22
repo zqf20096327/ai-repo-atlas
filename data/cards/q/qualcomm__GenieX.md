@@ -2,9 +2,9 @@
 
 ⭐ 8,544 · Go · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/qualcomm/GenieX) · [官网](https://geniex.aihub.qualcomm.com/en/get-started/what-is-geniex) · 组织维护
 
-**面向开发者的高通设备端 LLM/VLM 推理运行时**
+**高通设备上本地运行 LLM/VLM 的推理运行时**
 
-Qualcomm 官方维护的端侧 Gen AI 推理运行时，仅在 Snapdragon 平台运行。底层为单一 C SDK，暴露 CLI、Python、Kotlin/Java、Docker 与 OpenAI 兼容服务器接口；调度 llama.cpp 运行时（GGUF 跑 CPU/GPU/Hexagon NPU）或 Qualcomm AI Engine Direct（NPU 专用预编译 bundle），覆盖 Windows ARM64、Android 与 Linux ARM64。模型可从 Hugging Face、ModelScope、Docker Hub 拉取 GGUF，或从 Qualcomm AI Hub 获取预编译包。当前状态为 Developer Preview，许可 BSD-3-Clause 且附带 Qualcomm 使用条款。
+面向 Qualcomm Snapdragon 设备的端侧生成式 AI 推理运行时，是 Qualcomm GENIE 的社区版。用户可从 Hugging Face、ModelScope 或 Docker Hub 拉取 GGUF 模型，或使用 Qualcomm AI Hub 预编译包，通过 CLI、Python、Kotlin/Java、Docker 及 OpenAI 兼容服务器调用底层统一 C SDK，在 Hexagon NPU、Adreno GPU 或 CPU 上运行。仅支持 Snapdragon 平台（Windows ARM64/Android/Linux ARM64），处于 Developer Preview 状态。
 
 ## 筛选速览
 
@@ -20,21 +20,20 @@ Qualcomm 官方维护的端侧 Gen AI 推理运行时，仅在 Snapdragon 平台
 
 ## 能力要点
 
-- 单一 C SDK 暴露 CLI/Python/Kotlin-Java/Docker/OpenAI 兼容服务器五种接口
-- 双运行时：llama.cpp（GGUF，NPU/GPU/CPU）与 QAIRT（NPU 预编译 bundle）
-- 支持 LLM 与 VLM，模型来源覆盖 Hugging Face/ModelScope/Docker Hub/AI Hub
-- 跨 Windows ARM64、Android、Linux ARM64 三平台
+- 单一 C SDK 之上提供 CLI、Python、Kotlin/Java、Docker、OpenAI 兼容 server 五种接口
+- 双运行时：llama.cpp（GGUF，NPU/GPU/CPU）与 Qualcomm AI Engine Direct（NPU）
+- 兼容 OpenAI API 的本地服务端，OpenAI 客户端无需改代码即可接入
+- 支持 LLM 与 VLM，模型来源覆盖 Hugging Face、ModelScope、Docker Hub
 
 ## 适用场景
 
-- 在 Snapdragon 笔记本/手机/IoT 设备上本地运行 GGUF 模型推理
-- 通过 OpenAI 兼容 API 在本机提供模型服务
-- Android 应用内集成 Kotlin/Java 推理 SDK
-- 用 NPU 预编译 bundle 获得峰值性能
+- 在 Snapdragon 笔记本或手机上本地运行开源 LLM/VLM
+- 通过 OpenAI 兼容接口让现有客户端连接本地模型
+- 在 Android 应用中集成端侧模型推理
 
 ## 场景标签
 
-`推理引擎` `多模态` · 领域:感知与多模态
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `0baf0938799c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9f77622280fa` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 21,735 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/onnx/onnx) · [官网](https://onnx.ai/) · 组织维护
 
-**给 AI 开发者的跨框架模型互操作开放格式标准**
+**面向 AI 开发者的开源模型交换格式与互操作标准库**
 
-ONNX 定义 AI 模型的开源格式，覆盖深度学习与传统 ML：采用可扩展计算图模型，内置算子与标准数据类型定义，当前聚焦推理能力。提供 Python 包及图处理工具（形状/类型推断、图优化、opset 版本转换）、中间表示规范文档与预训练模型资源。由社区开放治理维护，含 SIG、工作组与年度社区聚会，包以 abi3 兼容 wheel 发布，构建流程支持可复现构建。
+ONNX 定义一种开源 AI 模型格式，覆盖深度学习与传统机器学习，包含可扩展计算图模型、内置算子定义与标准数据类型，当前聚焦推理（scoring）所需能力。仓库提供 Python 包（含形状/类型推断、图优化、Opset 版本转换等图处理工具）、中间表示规范文档、预训练模型索引与 Python API，采用社区开放治理并发布于 PyPI，支持 abi3 兼容 wheel 与可复现构建。
 
 ## 筛选速览
 
@@ -26,26 +26,26 @@ ONNX 定义 AI 模型的开源格式，覆盖深度学习与传统 ML：采用�
 
 ## 能力要点
 
-- 可扩展计算图模型与内置算子、标准数据类型定义
-- 图处理工具：形状/类型推断、图优化、opset 版本转换
-- abi3 兼容 wheel，单个二进制适配多个 Python 版本（3.12 起）
-- 构建发布流程设置 SOURCE_DATE_EPOCH 支持可复现构建
+- 定义可扩展计算图、内置算子与标准数据类型的开源模型格式
+- 提供图处理工具：形状/类型推断、图优化、Opset 版本转换
+- 发布 PyPI 包，abi3 兼容 wheel 跨多个 Python 版本（3.12 起）
+- 构建与发布流程支持 SOURCE_DATE_EPOCH 可复现构建
 
 ## 适用场景
 
-- 在不同框架间交换和部署训练好的模型
-- 查阅 ONNX 算子与中间表示规范做工具开发
-- 从源码构建并校验 ONNX 包的可复现性
+- 在不同框架间导出/导入模型实现互操作
+- 用 Python API 创建、检查与转换 ONNX 计算图
+- 查找预训练 ONNX 模型用于推理部署
 
 ## 场景标签
 
- · 领域:机器学习基础设施/模型互操作标准
+ · 领域:AI 基础设施/模型交换标准
 
 ## 证据(README 行号)
 
 > L10: Open Neural Network Exchange (ONNX) is an open ecosystem that empowers AI developers
 > L11: to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep le
-> L74: pip install onnx # or pip install onnx[reference] for optional reference implementation dependencies
+> L31: # Programming utilities for working with ONNX Graphs
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2c8dc756e41d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `212d0361fd26` · [字段定义](../../DATASET.md)*

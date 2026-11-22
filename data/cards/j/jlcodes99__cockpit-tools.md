@@ -2,15 +2,15 @@
 
 ⭐ 20,251 · Rust · 推送 2026-11-18 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
 
-**多平台 AI IDE 账号管理桌面工具：一键切号、配额监控与应用多开**
+**管理多款 AI IDE 账号的桌面工具：切号、配额监控、多开**
 
-本地运行的桌面工具，管理 Antigravity、Codex、GitHub Copilot、Windsurf、Kiro、Cursor、Grok CLI、CodeBuddy、Qoder、Trae、Zed、ZCode 等 16 个 AI IDE/CLI 平台的账号：支持一键切号、Token/OAuth 导入、配额与套餐查询、定时唤醒任务以及同平台多账号多实例并行运行（实例目录与启动参数隔离）。Codex 部分内置 Rust 原生与 Go CLIProxyAPI 两种 API 服务引擎，提供 Responses 兼容接口与 Claude/Gemini/Ollama 兼容接口。支持 macOS、Windows、Linux，界面提供 18 种语言。
+本地桌面工具，统一管理 Antigravity、Codex、GitHub Copilot、Windsurf、Kiro、Cursor、Grok CLI、CodeBuddy、Qoder、Trae、Zed、ZCode 等 AI IDE/CLI 的账号：支持 OAuth/Token/JSON 导入、一键切号注入并启动客户端、多账号多实例并行运行、配额与套餐展示、定时唤醒任务。内置 Rust 引擎的 API 服务兼容 Responses/Chat Completions/Claude/Gemini/Ollama 协议，可接管 Codex 的模型请求与转写路由。数据保存在本机目录，无需注册平台账号。提供 macOS/Windows/Linux 平台支持与 18 种语言界面。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- 16 个 AI IDE/CLI 平台的账号管理与一键切换
-- 配额/套餐监控与定时唤醒任务
-- 同平台多账号多实例并行运行，实例目录与参数隔离
-- Codex API 服务：Rust 原生与 Go CLIProxyAPI 双引擎，提供 Claude/Gemini/Ollama 兼容接口
+- 16+ 平台的账号导入、切号注入与启动管理
+- 多账号多实例并行运行，实例目录与参数隔离
+- 配额监控仪表盘与定时唤醒任务
+- 内置 Rust API 服务，兼容多种模型协议与语音转写入口
 
 ## 适用场景
 
-- 在多个 AI IDE 账号之间快速切换，避免手动登录登出
-- 同时开多个 IDE 实例分别绑定不同账号处理不同项目
-- 查看各平台剩余配额与重置时间，提前触发配额重置周期
+- 同时使用多个 AI IDE 账号并快速切换
+- 多开 IDE 实例分别绑定不同账号处理不同项目
+- 查看各平台配额余量、重置时间与订阅套餐
 
 ## 场景标签
 
- · 领域:AI 开发者工具/桌面工具
+ · 领域:开发者工具/AI 工具管理
 
 ## 证据(README 行号)
 
 > L10: 一款**通用的 AI IDE 账号管理工具**，目前支持 **Antigravity IDE**、**Codex**、**GitHub Copilot**、**Windsurf**、**Kiro**、**Cursor**、**Gr
 > L12: > 本工具旨在帮助用户高效管理多个 AI IDE 账号，支持一键切换、配额监控、自动唤醒与应用多开并行运行，助您充分利用不同账号的资源。
-> L20: **官方支持平台**：macOS、Windows、Linux。
+> L86: - **API 服务**：统一由宿主内的 Rust 引擎运行，支持 Responses HTTP/SSE/WebSocket、上下文压缩及 Chat Completions、Claude、Gemini、Ollama 协议兼容。旧 
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `96accb1a9b5e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `45466f9b8e9f` · [字段定义](../../DATASET.md)*

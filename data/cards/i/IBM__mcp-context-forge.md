@@ -2,9 +2,9 @@
 
 ⭐ 4,872 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/IBM/mcp-context-forge) · [官网](https://ibm.github.io/mcp-context-forge/) · 组织维护
 
-**IBM 开源的 MCP/A2A/REST 联邦网关与注册中心**
+**面向 AI 基础设施的 MCP/A2A/REST API 统一网关与注册中心**
 
-ContextForge 是开源的 AI 网关、注册中心与代理，将 MCP 服务器、A2A 服务及 REST/gRPC API 联邦为统一端点，提供集中治理、服务发现、鉴权、限流、重试与 OpenTelemetry 可观测性。作为完全合规的 MCP 服务器运行，支持 gRPC/REST-to-MCP 转换、40+ 插件扩展、Admin UI，可通过 PyPI、Docker/Podman 或 Helm 部署，Redis 支持多集群联邦。运行需强制配置 JWT_SECRET_KEY 与 AUTH_ENCRYPTION_SECRET；arm64 容器生产环境暂不支持。
+IBM 开源的注册中心与代理，将 MCP 服务器、A2A 服务与 REST/gRPC API 聚合为统一端点，提供集中式治理、发现与可观测性。核心机制包括 gRPC 到 MCP 的反射式翻译、REST API 虚拟化为 MCP 工具、内置认证/重试/限流、OpenTelemetry 追踪（Phoenix/Jaeger/Zipkin 等后端）以及 40+ 插件扩展。通过 PyPI、Docker/Podman、Helm 部署，支持 Kubernetes 多集群联邦与 Redis 缓存；需配置 JWT_SECRET_KEY 与 AUTH_ENCRYPTION_SECRET 方可启动，arm64 生产环境暂不支持容器部署。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ ContextForge 是开源的 AI 网关、注册中心与代理，将 MCP 服务器�
 
 ## 能力要点
 
-- MCP、A2A、REST/gRPC 统一为单一端点，含协议转换
-- 内置鉴权（Basic/JWT/OAuth）、限流、重试与反向代理
-- 40+ 插件与 OpenTelemetry 追踪（Phoenix/Jaeger/Zipkin 等）
-- 提供 Admin UI、Docker/PyPI/Helm 多种部署方式
+- 将 MCP、A2A、REST/gRPC API 联邦为单一统一端点
+- gRPC-to-MCP 反射式翻译与 REST 工具适配（JSON Schema 自动提取）
+- OpenTelemetry 可观测性，含 token 用量与成本指标
+- 40+ 插件、Admin UI 与独立 Web UI
 
 ## 适用场景
 
-- 把多个 MCP 服务器和 REST API 聚合成一个端点给 AI 客户端调用
-- 对 Agent 与工具调用做集中鉴权、限流与可观测
-- 在 Kubernetes 上做多集群联邦部署
+- 为多个 MCP 服务器与 Agent 提供统一接入与治理端点
+- 将遗留 REST/gRPC 服务封装为 MCP 工具供 AI 客户端调用
+- 企业内集中管理工具注册、限流、认证与追踪
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`模型网关` `LLM 可观测性` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L17: **ContextForge** is an open source registry and proxy that federates tools, agents, and APIs into one clean endpoin
 > L19: - **Tools Gateway** — MCP, REST, gRPC-to-MCP translation, and TOON compression
-> L25: It runs as a fully compliant MCP server, deployable via PyPI or Docker, and scales to multi-cluster environments on
+> L43: **ContextForge** is an open source registry and proxy that federates any Model Context Protocol (MCP) server, A2A s
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `b2efa1501588` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e32b335588c6` · [字段定义](../../DATASET.md)*

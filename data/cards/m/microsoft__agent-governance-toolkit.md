@@ -1,10 +1,10 @@
 # microsoft/agent-governance-toolkit
 
-⭐ 6,589 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/agent-governance-toolkit) · 组织维护 · 中文 README
+⭐ 6,589 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/agent-governance-toolkit) · 组织维护
 
-**面向自治 AI agent 的治理工具包：策略执行、身份、沙箱与审计**
+**为自主 AI Agent 提供策略执行、身份与沙箱治理的工具包**
 
-微软维护的 AI agent 治理框架：在应用层拦截 agent 的工具调用、消息发送与委派，按 YAML/OPA/Cedar 策略做确定性、fail-closed 的允许/拒绝判定，并输出防篡改审计日志；另含零信任身份（SPIFFE/DID/mTLS）、四环执行沙箱、kill switch/SLO 监控、OWASP Agentic Top 10 合规校验 CLI 与提示注入审计。以 pip/npm/dotnet/cargo/go 多语言 SDK 提供，通过中间件或适配器接入 LangGraph、CrewAI、AutoGen 等框架。Python 3.11+，v4.1.0 将 45 个包整合为 5 个发行版，标注 Public Preview 可能有破坏性变更。
+微软出品的 Agent 治理工具包：在应用代码层拦截每次工具调用、消息发送与代理委托，依据 YAML/OPA/Cedar 策略做确定性 fail-closed 判定，记录防篡改审计日志；配套零信任身份（SPIFFE/DID/mTLS）、四特权环执行沙箱、kill switch 与 SLO 监控。提供 Python/TypeScript/.NET/Rust/Go 五种 SDK 与 agt CLI（合规校验、提示注入审计），并支持 Claude Code 等插件式接入。需 Python 3.10+，Azure 集成为可选。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- govern() 两行包装工具函数：每次调用按策略判定并记录审计日志
-- 覆盖 OWASP Agentic Top 10，agt CLI 提供 OWASP 校验、策略 lint 与红队扫描
-- 五种语言 SDK（Python/TypeScript/.NET/Rust/Go）实现核心治理能力
-- MCP 安全网关：工具投毒检测、漂移监控、隐藏指令扫描
+- 每次工具调用经确定性策略引擎判定，拒绝时抛出 GovernanceDenied
+- 防篡改审计日志记录策略版本、请求与允许/拒绝原因
+- 五语言 SDK（Python/TS/.NET/Rust/Go）+ agt CLI（agt verify/red-team 等）
+- 覆盖 10/10 OWASP Agentic Top 10（自述）
 
 ## 适用场景
 
-- 生产环境对 agent 的数据库/邮件等工具调用做策略审批与拦截
-- 多 agent 系统中区分各 agent 身份并留存防篡改审计记录
-- CI 中对 agent 系统做 OWASP 合规校验与提示注入审计
+- 多 Agent 系统中为每次工具调用做策略准入与审计
+- 满足审计/监管对决策记录的可追溯要求
+- 对 prompts 做提示注入红队扫描并纳入 CI 门禁
 
 ## 场景标签
 
-`网络安全` · 领域:学习与行业
+`Agent 框架` `网络安全` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L33: Policy enforcement, identity, sandboxing, and SRE for autonomous AI agents. One `pip install`, any framework.
-> L176: Agent ──► Policy Engine ──► Identity ──► Audit Log
-> L223: All five language SDKs implement core governance (policy, identity, trust, audit). Python has the full stack. Copi
+> L30: Policy enforcement, identity, sandboxing, and SRE for autonomous AI agents. One `pip install`, any framework.
+> L44: AGT does not try to win that fight inside the prompt. Every tool call, message send, and delegation is intercepted 
+> L173: Agent ──► Policy Engine ──► Identity ──► Audit Log
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `cf93b006fc88` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `570725821dd4` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # polakowo/vectorbt
 
-⭐ 9,906 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/polakowo/vectorbt) · [官网](https://vectorbt.dev) · 个人维护 · 中文 README
+⭐ 9,906 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/polakowo/vectorbt) · [官网](https://vectorbt.dev) · 个人维护
 
-**面向量化研究的向量化回测引擎：批量测试数千策略组合**
+**面向交易者与研究员的 Python 回测研究工具包**
 
-Python 量化回测库：将数千个策略配置打包进 NumPy 数组，用 Numba 加速与可选 Rust 预编译内核并行执行，把网格搜索从小时级缩短到秒级。提供 pandas 原生 API、指标生态（TA-Lib/Pandas TA 集成）、组合与交易分析、信号工具、内置数据获取、walk-forward 优化与 Plotly 交互可视化。面向量化研究员，也支持 AI agent 驱动的工作流与机器学习标签生成。为闭源 VectorBT PRO 的开源社区版，采用 Apache 2.0 with Commons Clause（fair-code）许可，仅供教育用途。
+VectorBT 是用于交易研究的 Python 工具包：探索行情数据、构建指标与信号，跨资产和时间框架比较大量策略想法。基于 pandas/NumPy 与 Numba 加速，提供可选 Rust 引擎；覆盖向量化回测、参数网格扫描、交易/回撤/组合绩效分析、信号工具、walk-forward 优化、Plotly 交互可视化，并支持 Telegram 通知等自动化。为交易者、研究员和 AI agent 设计。为 VectorBT PRO 的开源社区版，PRO 含并行化等更多付费功能。仅限教育用途。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Python 量化回测库：将数千个策略配置打包进 NumPy 数组，用 Nu
 
 ## 能力要点
 
-- 向量化批量回测：Numba 加速 + 可选 Rust 预编译内核
-- 灵活广播机制，跨资产、跨参数网格大规模扫描
-- 内置数据获取、信号工具与 walk-forward 稳健性检验
-- Plotly/Jupyter 交互可视化与 Telegram 通知自动化
+- pandas/NumPy/Numba 向量化回测，支持大规模参数扫描
+- 可选 Rust 引擎提供预编译内核免 JIT 编译
+- 集成 TA-Lib、Pandas TA、QuantStats，支持 YFData 拉取行情
+- Plotly 图表、Jupyter widgets 与浏览器仪表板可视化
 
 ## 适用场景
 
-- 我需要在多资产、多参数组合上大规模验证交易想法
-- 我想逐笔分析组合绩效并交互式可视化结果
-- 我想为机器学习工作流生成标签并做 walk-forward 优化
+- 批量回测并比较数千个交易策略参数组合
+- 分析交易记录、费用、回撤与组合绩效
+- 生成机器学习标签与 walk-forward 稳健性测试
+- 在 Jupyter 中交互式探索金融时间序列数据
 
 ## 场景标签
 
@@ -37,9 +38,8 @@ Python 量化回测库：将数千个策略配置打包进 NumPy 数组，用 Nu
 
 ## 证据(README 行号)
 
-> L48:  VectorBT takes a radically different approach to backtesting: instead of looping through bars one strategy at a ti
-> L95:  Run walk-forward optimization and generate labels for machine learning workflows.
-> L107:  Combine building blocks for rapid experimentation and AI agent-driven workflows.
+> L48:  VectorBT is a Python toolkit for trading research. Explore market data, build indicators and signals, and compare 
+> L50: Move from exploring price patterns to evaluating strategies in one workflow. Inspect trades, fees, drawdowns, and p
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `59d5f9f39c3e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `fb7d2c33d0f2` · [字段定义](../../DATASET.md)*

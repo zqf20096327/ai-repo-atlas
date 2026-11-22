@@ -2,9 +2,9 @@
 
 ⭐ 5,011 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sktime/pytorch-forecasting) · [官网](https://pytorch-forecasting.readthedocs.io/) · 组织维护
 
-**基于 PyTorch 的时间序列预测深度学习库**
+**面向研究人员与开发者的 PyTorch 时间序列预测库**
 
-基于 PyTorch Lightning 的 Python 时间序列预测包，面向实际业务与科研场景，提供高层 API 与合理默认参数。核心机制包括：抽象变量变换、缺失值、随机子采样等处理的 TimeSeriesDataSet 数据类，带 TensorBoard 日志与可视化的基础模型类，以及 Temporal Fusion Transformer、N-BEATS、N-HiTS、DeepAR、PatchTST 等多种预测架构，支持多视野指标、optuna 超参调优，可在 CPU 或单/多 GPU 上开箱训练。
+基于 PyTorch 的时间序列预测包，提供高层 API 并借助 PyTorch Lightning 支持 CPU、单卡与多卡 GPU 训练及自动日志。内置多种神经网络架构（TFT、N-BEATS、N-HiTS、DeepAR、PatchTST、LSTM/GRU 基线等），附带时间序列数据集类（处理变量变换、缺失值、随机子采样）、TensorBoard 日志与可视化、多步预测指标及 optuna 超参调优。以 pip/conda 安装，文档与教程在 readthedocs；v2 处于 beta，官方建议生产环境使用 v1。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- TimeSeriesDataSet 抽象变量变换、缺失值、随机子采样等数据处理
 - 内置 TFT、N-BEATS、N-HiTS、DeepAR、PatchTST 等多种预测架构
-- 基于 PyTorch Lightning，支持 CPU/单/多 GPU 训练与自动日志
-- 支持多视野时间序列指标与 optuna 超参调优
+- 基于 PyTorch Lightning，开箱支持 CPU、单/多 GPU 训练
+- 数据集类抽象处理变量变换、缺失值与多历史长度
+- 支持 optuna 超参调优与内置可解释能力
 
 ## 适用场景
 
-- 用深度学习做真实业务的多视野时间序列预测
-- 在研究/竞赛中对比或复现主流预测架构
-- 快速上手带合理默认参数的预测建模并逐步调优
+- 为真实业务数据训练多步时间序列预测模型
+- 科研中对多种神经网络预测架构做对比实验
+- 需要可解释预测结果的时序建模任务
+- 用 optuna 对预测模型做超参数搜索
 
 ## 场景标签
 
@@ -38,8 +39,7 @@
 ## 证据(README 行号)
 
 > L3: _PyTorch Forecasting_ is a PyTorch-based package for forecasting with state-of-the-art deep learning architectures. 
-> L15: PyTorch Forecasting aims to ease state-of-the-art timeseries forecasting with neural networks for real-world cases 
-> L22: - Multiple neural network architectures for timeseries forecasting that have been enhanced
+> L20: PyTorch Forecasting aims to ease state-of-the-art timeseries forecasting with neural networks for real-world cases 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ee7d713dfb61` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9584e3c0b8e3` · [字段定义](../../DATASET.md)*

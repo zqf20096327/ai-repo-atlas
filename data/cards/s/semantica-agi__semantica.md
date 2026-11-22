@@ -2,18 +2,18 @@
 
 ⭐ 14,706 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/semantica-agi/semantica) · [官网](https://getsemantica.ai) · 组织维护
 
-**为 AI 系统提供上下文图谱与决策溯源的开源基础设施**
+**为 LLM 与 agent 提供可审计 Context Graph 的语义层基础设施**
 
-以 Python 库形式提供的语义/上下文层：摄取企业数据后抽取实体与关系，构建 Context Graph 与知识图谱，并支持 Rete/Datalog/SPARQL 确定性推理、W3C PROV-O 溯源、SHACL/OWL 本体治理与决策记录。图谱构建、推理与溯源不依赖 LLM，LLM 调用为可选项。图存储支持 RDF 与 LPG 多后端互换，提供 REST API、MCP server、CLI 与可视化界面。面向 AI/ML 平台团队、企业数据团队与受监管行业的合规/审计场景。
+定位为 LLM、向量库与 agent 框架之下的语义/上下文层：将企业数据摄入、解析、抽取（NER/关系/事件/三元组），经冲突检测与去重后构建携带业务含义的知识图谱与 Context Graph；图谱构建、推理与溯源层为确定性实现，不依赖 LLM。以决策记录为一等图节点，输出 W3C PROV-O 溯源与审计轨迹，支持 RDF 与 LPG 多后端存储及 OWL/SHACL/SKOS 本体治理。pip 安装，提供 CLI、REST API、MCP server 与 Python 库。面向 AI 平台团队、受监管行业企业与合规审计团队。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,27 +27,27 @@
 
 ## 能力要点
 
-- 每个事实带 W3C PROV-O 溯源，决策作为一等图节点可查询
-- 确定性推理引擎（前向链、Rete、Datalog、SPARQL），图谱构建无需 LLM
-- 多源摄取连接器：Databricks、Snowflake、SAP、Kafka、Git 等
-- RDF（Oxigraph、Blazegraph 等）与 LPG（Neo4j、FalkorDB 等）存储可互换
+- 图谱构建、推理与溯源为确定性实现，LLM 可选且厂商中立（semantica.llms 支持多 provider）
+- 决策记录为一等图节点，支持 record_decision/因果关联/先例搜索，导出 W3C PROV-O
+- 多源数据摄入管道：NER/关系/事件抽取、冲突检测、语义去重与保留溯源的合并
+- RDF（Oxigraph/Blazegraph/Jena/RDF4J）与 LPG（Neo4j/FalkorDB/AGE/Neptune）多后端可切换
 
 ## 适用场景
 
 - 为 agent 提供结构化、可查询的上下文记忆层
-- 把数据仓库中的表变成带血缘的知识图谱
-- 为受监管行业的 AI 决策提供可审计的溯源记录
-- 从多源数据构建知识图谱并检测冲突事实
+- 受监管行业记录并解释 AI 决策以供审计
+- 把数据仓库/Databricks/Snowflake 中的表构建为带血缘的知识图谱
+- 对多源企业数据做实体消歧与冲突检测
 
 ## 场景标签
 
-`Agent 记忆` `知识图谱` · 领域:Agent 开发
+`Agent 记忆` `知识图谱` `RAG` `文档解析` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L54: Semantica is the semantic/context layer underneath your LLM, vector store, and agent framework: deterministic infra
-> L74: - **Context Graphs:** A structured, queryable graph of everything your agent knows, decides, and reasons about
-> L101: Semantica complements your existing stack rather than replacing it. Keep your LLM, vector store, and agent framewo
+> L63: - **AI/ML platform teams** shipping agents that make consequential decisions and need structured, queryable context
+> L84: - **Drop-in Integrations:** Agno, CrewAI, and LangChain support, a full MCP server, a CLI, a REST API, and plugins 
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3b2ade90533f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `9144a942f18d` · [字段定义](../../DATASET.md)*

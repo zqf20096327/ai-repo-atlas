@@ -2,18 +2,18 @@
 
 ⭐ 19,788 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/huggingface/trl) · [官网](http://hf.co/docs/trl) · 组织维护
 
-**为开发者提供基础模型后训练（SFT/DPO/GRPO 等）的库**
+**面向开发者的基础模型后训练库：支持 SFT/DPO/GRPO 等方法**
 
-构建于 Transformers 之上的基础模型后训练库，通过 SFTTrainer、GRPOTrainer、DPOTrainer、KTOTrainer、RewardTrainer 等 trainer 提供 SFT、GRPO、DPO、KTO 等训练方法；基于 Accelerate 支持从单卡到多节点集群的 DDP/DeepSpeed/FSDP 分布式训练，配合 PEFT 通过量化与 LoRA/QLoRA 在有限硬件上训练大模型，并集成 Unsloth 加速内核。提供无需写代码的 CLI，pip 安装，Apache-2.0 许可。
+构建于 🤗 Transformers 生态之上的后训练库，提供 SFTTrainer、DPOTrainer、GRPOTrainer、KTOTrainer、RewardTrainer 等多种训练器用于微调与对齐语言模型。借助 Accelerate 支持从单卡到多节点集群的 DDP、DeepSpeed、FSDP 分布式训练；与 PEFT 集成支持量化与 LoRA/QLoRA 训练；集成 Unsloth 优化内核加速训练；提供 CLI 无需写代码即可执行 SFT/DPO/KTO。另设 trl.experimental 实验区域存放不稳定特性。以 Python 包形式通过 pip 安装，源码采用 Apache-2.0 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,16 +26,17 @@
 
 ## 能力要点
 
-- 多种训练方法 trainer：SFT、GRPO、DPO、KTO、Reward
-- 基于 Accelerate 的 DDP/DeepSpeed/FSDP 分布式训练支持
-- 与 PEFT 集成，支持量化与 LoRA/QLoRA
-- CLI 无需写代码即可微调模型
+- 提供 SFT/DPO/GRPO/KTO/Reward 等多种后训练 trainer
+- 支持 DDP、DeepSpeed ZeRO、FSDP 分布式训练，可扩展至多节点
+- CLI 无需写代码即可执行 SFT/DPO/KTO 微调
+- AsyncGRPOTrainer 用 vLLM 服务器生成 rollout，与训练重叠执行
 
 ## 适用场景
 
-- 在自己的数据集上对语言模型做监督微调
-- 用 DPO/GRPO 对模型做偏好对齐后训练
-- 在有限硬件上用 LoRA/QLoRA 训练大模型
+- 对自定义数据集做监督微调训练自己的模型
+- 用偏好数据做 DPO/KTO 对齐训练
+- 用 GRPO 强化学习方法后训练推理模型
+- 在资源有限硬件上用 LoRA/QLoRA 微调大模型
 
 ## 场景标签
 
@@ -44,8 +45,8 @@
 ## 证据(README 行号)
 
 > L7:  A comprehensive library to post-train foundation models
-> L24: TRL is a cutting-edge library designed for post-training foundation models using advanced techniques like Supervise
-> L31:  - Leverages 🤗 Accelerate to scale from single GPU to multi-node clusters using methods like DDP and DeepSpeed.
+> L20: TRL is a cutting-edge library designed for post-training foundation models using advanced techniques like Supervise
+> L31: - **Command Line Interface (CLI)**: A simple interface lets you fine-tune with models without needing to write code
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c73ac7de96aa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `491c4547dde9` · [字段定义](../../DATASET.md)*

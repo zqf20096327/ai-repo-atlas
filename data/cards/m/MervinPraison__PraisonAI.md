@@ -1,10 +1,10 @@
 # MervinPraison/PraisonAI
 
-⭐ 9,377 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai) · 个人维护
+⭐ 9,377 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai) · 组织维护
 
-**开发者用的多智能体框架：5 行代码构建和运行 AI Agent**
+**可完全离线运行的 Python AI agent 框架**
 
-面向 Python/JS 开发者的开源 AI agent 框架与 SDK，提供单 Agent、多 Agent 编排、AgentFlow 工作流（route/parallel/loop/repeat）、MCP 工具接入、记忆与 RAG、guardrails、沙箱执行等能力，宣称支持 100+ LLM（OpenAI、Anthropic、Gemini、Ollama 等 24 家，附接入示例）。以五层结构组织（Prompt/Context/Harness/Loop/Graph），核心包 praisonaiagents 经 pip 安装，另有 CLI、可视化构建器、UI 等扩展；Agent 可将工具或整体运行于 Docker 等托管沙箱。提供 macOS/Windows/Linux 桌面安装包。
+开源 Python agent 框架，支持在本地计算机上运行 AI agent，配合本地模型可完全离线、无需 API key。功能覆盖单/多 agent 协作、工作流（路由/并行/循环）、记忆与 RAG、工具与 MCP、护栏与人工审批、追踪评估、微调与部署，提供 CLI、YAML 无代码配置、JavaScript SDK 与桌面应用。面向开发者构建 agent 应用，同时为高监管团队提供任务交接的早期访问企业产品。MIT 许可。
 
 ## 筛选速览
 
@@ -16,30 +16,31 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 五层 Agent 栈：Prompt/Context/Harness/Loop/Graph，工作流可写成 YAML
-- MCP 协议接入（stdio/HTTP/WebSocket/SSE）与外部 Agent 编排（Claude Code、Gemini CLI、Codex）
-- 支持 24 家 LLM 提供商并附接入示例，含 Ollama、vLLM 本地运行时
-- 沙箱执行、doom-loop 检测、记忆、RAG、guardrails 内置
+- 配合 Ollama/vLLM/LM Studio 可完全离线运行，无需 API key
+- 五层 agent 架构：Prompt/Context/Harness/Loop/Graph，含 doom-loop 检测
+- 支持 YAML 无代码配置、MCP、护栏、人工审批、AgentFlow 工作流
+- 提供 CLI、桌面应用（macOS/Windows/Linux）与 JavaScript/TypeScript SDK
 
 ## 适用场景
 
-- 用少量代码构建研究、编码、内容创作等多智能体应用
-- 把 Agent 接入 Telegram/Slack/Discord 做客服机器人
-- 在 Docker 沙箱中隔离运行 Agent 工具与工作流
+- 在本地离线环境运行 agent 处理私有数据
+- 构建多 agent 工作流自动化业务流程
+- 部署支持 Telegram/Discord/Slack 的客服机器人
+- 生成代码、内容或执行数据分析任务
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`Agent 框架` `多智能体` `RAG` `微调` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L238: * **Core SDK (`praisonaiagents`)**: For pure Python development. `pip install praisonaiagents`
-> L91: |Layer|The question it answers|PraisonAI|
-> L252: Powered by 100+ LLMs (OpenAI, Anthropic, Gemini & local models).
+> L14: - **For everyone else:** a free, open-source Python agent framework. With a local model you need no API key and pay
+> L102: - **Agents and multi-agent teams:** Agents · Handoffs · Workflows
+> L107: - **Your choice of model:** Models · Model router
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f251fae6839e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `fbefa7fbe334` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 12,402 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kornia/kornia) · [官网](https://kornia.readthedocs.io) · 组织维护 · 中文 README
 
-**基于 PyTorch 的可微分计算机视觉与几何运算库**
+**面向空间 AI 开发者的可微分几何计算机视觉 PyTorch 库**
 
-构建在 PyTorch 之上的可微分计算机视觉库，提供超过 500 个算子，覆盖图像处理、数据增强、特征检测与匹配、相机几何、立体视觉、位姿估计、光流、损失函数等类别，并内置人脸检测、特征匹配、分割等预训练模型（YuNet、LoFTR、LightGlue、SAM、MobileViT 等），支持批处理、自动微分与 GPU 加速，面向深度学习研究与 AI 工作流开发者。README 以表格列出各模块在 float16/bfloat16 半精度下的通过率与已知失败项。通过 pip 安装，开发环境使用 pixi 管理。
+基于 PyTorch 的可微分计算机视觉库，提供 1,200+ 公开算子，覆盖相机模型与对极几何、RANSAC 鲁棒估计、特征检测描述与匹配、图像增强、形态学、损失函数等；支持逐样本参数的批量调用、CPU/CUDA/MPS 张量与 float16/bfloat16、torch.compile 与超过 1,000 个算子的 ONNX 导出。附预训练模型（YuNet 人脸检测、LoFTR/LightGlue 特征匹配、SAM 分割等）。由志愿者维护，通过 PyPI 安装。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 500+ 可微算子：图像处理、几何变换、滤波、边缘检测、形态学等
-- 内置预训练模型：人脸检测 YuNet、匹配 LoFTR/LightGlue、分割 SAM、分类 MobileViT/ViT
-- 特征检测/描述/匹配（Harris、SIFT、DISK、AdaLAM 等）与相机标定、对极几何、PnP、光流
-- 半精度支持状态表：逐模块列出 float16/bfloat16 已知失败项与通过率
+- 1,200+ 可微分算子，含相机模型、对极几何、RANSAC、PnP 求解器
+- AugmentationSequential 对图像/掩码/框/关键点同步变换并可逆
+- 支持 CPU/CUDA/MPS 与 float16/bfloat16，1,000+ 算子可导出 ONNX
+- 内置 LoFTR、LightGlue、SAM、YuNet 等预训练模型
 
 ## 适用场景
 
-- 在深度学习训练管线中做可微分的图像变换与数据增强
-- 实现特征匹配、单应估计、立体视觉与位姿估计等几何视觉任务
-- 复用 SSIM/PSNR/Dice 等视觉损失函数组合到自定义网络
+- 为深度学习训练构建批量可微分的数据增强流水线
+- SLAM/机器人中的几何估计：本质矩阵、单应矩阵、PnP 求解
+- GPU 上批量执行特征检测、描述与匹配
+- 将视觉算子导出为 ONNX 部署
 
 ## 场景标签
 
-`图像视频处理` · 领域:感知与多模态
+`图像视频处理` `目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L21: **Kornia** is a differentiable computer vision library that provides a rich set of differentiable image processing 
-> L38: Leverage pre-trained AI models optimized for a variety of vision tasks, all within the Kornia ecosystem.
-> L42:  - **Segmentation**: SAM
+> L83: 3. **AI Models**
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `14b652c16e57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `09a6bc52bc18` · [字段定义](../../DATASET.md)*

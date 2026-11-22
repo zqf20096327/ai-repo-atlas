@@ -2,9 +2,9 @@
 
 ⭐ 5,187 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/pytorch/executorch) · [官网](https://executorch.ai) · 组织维护
 
-**PyTorch 官方端侧 AI 推理栈：在手机、嵌入式与边缘设备本地运行模型**
+**让开发者在手机/嵌入式设备本地运行 PyTorch AI 模型的运行时**
 
-Meta/PyTorch 维护的开源端侧推理栈：从 PyTorch 模型出发，经 torch.export 捕获、按目标硬件优化，生成后端专属 .pte 文件，通过 C++/Python/Swift/Kotlin/JavaScript 等 API 在手机、可穿戴、笔记本、浏览器、嵌入式与微控制器上运行。支持委托 CPU/GPU/NPU/DSP 后端加速、选择性构建裁剪运行时，覆盖本地 LLM、语音、多模态与计算机视觉工作负载。已用于 Instagram、WhatsApp、Meta Quest 等产品；预编译 wheel 仅覆盖 Linux/macOS/Windows 部分架构，其他主机需源码构建。
+ExecuTorch 是 PyTorch 官方的端侧推理栈：从 `torch.export` 捕获模型，针对目标硬件优化为 `.pte` 文件，通过 C++/Python/Swift/Kotlin/JavaScript 等 API 在手机、浏览器、可穿戴设备与微控制器上本地执行。机制上支持按算子裁剪运行时（selective build）、将计算图分区委托给 CPU/GPU/NPU/DSP 后端并提供 CPU 回退、版本化的运行时兼容契约。Python 包支持 Python 3.11–3.15，Linux 预编译 wheel 为 CUDA 构建。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@ Meta/PyTorch 维护的开源端侧推理栈：从 PyTorch 模型出发，经 tor
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 模型依赖 | local-ok | 支持本地模型 |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- torch.export 导出 + 按后端生成 .pte 的硬件专属部署流程
-- 委托 CPU/GPU/NPU/DSP 多后端加速并保留 CPU 内核回退
-- 选择性构建仅链接所需算子内核，可裁剪运行时体积
-- C++/Python/Swift/Kotlin/JavaScript 多语言运行时 API
+- torch.export 捕获模型并导出为后端专用的 .pte 文件
+- 计算图分区委托到 CPU/GPU/NPU/DSP 后端，保留便携 CPU 内核回退
+- selective build 只链接部署所需算子与内核
+- 多语言运行时 API：C++、Python、Kotlin/Java、Swift/Objective-C、JavaScript/WebAssembly
 
 ## 适用场景
 
-- 把训练好的 PyTorch 模型部署到 Android/iOS 应用中本地推理
-- 在 Cortex-M、Ethos-U 等嵌入式/MCU 设备上运行 AI 模型
-- 在手机端运行量化 LLM 的文本生成与语音识别
+- 在 Android/iOS 应用中本地运行量化 LLM 与多模态模型
+- 为 Cortex-M/ESP32 等微控制器部署语音识别或视觉模型
+- 在浏览器中通过 WebAssembly/WebGPU 执行 PyTorch 模型
+- 面向 Meta Quest 类设备构建端侧 AI 功能
 
 ## 场景标签
 
@@ -38,8 +39,8 @@ Meta/PyTorch 维护的开源端侧推理栈：从 PyTorch 模型出发，经 tor
 ## 证据(README 行号)
 
 > L11: **ExecuTorch** is PyTorch's open source stack for running AI locally on phones,
-> L14: and run it through C++, Python, Swift/Objective-C, Kotlin/Java, or JavaScript
-> L164: Choose a backend based on target hardware, operator coverage, and deployment
+> L53: - **Partitioned hardware acceleration:** delegate supported graph regions to
+> L59: - **A runtime you can right-size:** link only the operators, kernels, and
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `67178cc82e30` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ce8561e86a05` · [字段定义](../../DATASET.md)*

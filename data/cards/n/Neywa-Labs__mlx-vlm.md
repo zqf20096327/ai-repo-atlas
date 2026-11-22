@@ -2,9 +2,9 @@
 
 ⭐ 5,900 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Neywa-Labs/mlx-vlm) · [官网](https://neywa-labs.github.io/mlx-vlm/) · 组织维护
 
-**在 Mac/Apple Silicon 上运行与微调视觉语言模型的 MLX 推理包**
+**在 Apple Silicon Mac 上本地推理与微调多模态模型的工具包**
 
-基于 Apple MLX 框架构建的 Python 包，提供视觉语言模型（VLM）在 Apple Silicon 上的本地推理与微调能力：CLI 生成命令 mlx_vlm.generate、本地服务器 mlx_vlm.server、Hugging Face 模型转换与量化（mlx_vlm.convert，支持 RTN/AWQ、混合量化），并支持投机解码（DFlash/EAGLE-3/MTP 三类 drafter，实测最高 3.94× 加速）、thinking budget 控制、Gradio 聊天 UI（可选依赖）。仓库附 agent-skills 包供 Claude Code/Codex 等编码 agent 加载项目规范。面向在 Mac 上本地运行多模态模型的开发者，由 Neywa Labs 维护，MIT 许可。
+基于 Apple MLX 框架的 Python 包，用于在 Mac 上运行与微调多模态模型，输入覆盖文本、图像、视频、音频。提供 CLI 生成（mlx_vlm.generate）、本地服务器（含 chat、responses、messages、audio、image、cache、metrics 端点）、可选的 Gradio 聊天 UI，以及将 Hugging Face 模型转换为 MLX 并量化的工具（RTN/AWQ、混合配方）。内置投机解码，支持 dflash、eagle3、mtp 三类 drafter 家族。另随仓库附带可装入编码 agent 的 skills 技能包。pip 安装，Python 3.10+，MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- MLX 上的 VLM 推理与微调，覆盖文本/图像/视频/音频输入
-- 模型转换与量化：RTN/AWQ、混合量化、4-bit 等 bits/group-size 配置
-- 投机解码支持 DFlash/DFlash2/DSpark/EAGLE-3/MTP 多类 drafter
-- 附 agent-skills 包（CLI 推理、服务器、转换量化、新增模型等 8 项技能）供编码 agent 加载
+- CLI 与本地服务器双入口推理，支持文本/图像/音频输入
+- Hugging Face 模型到 MLX 的转换与量化（RTN/AWQ）
+- 投机解码支持 dflash/eagle3/mtp 三类 drafter 家族
+- 随仓库提供可装入 Claude Code/Codex/Gemini 的 agent skills 包
 
 ## 适用场景
 
-- 在 Mac 上本地运行 Qwen、Gemma、MiniCPM 等视觉语言模型
-- 将 Hugging Face 多模态模型转换为 MLX 格式并量化后部署
-- 通过投机解码加速本地文本生成
+- 在 Mac 上本地运行多模态模型做文本生成与 OCR 类任务
+- 把 Hugging Face 模型转换并量化为 MLX 格式
+- 起一个本地服务器为应用提供模型推理端点
+- 为编码 agent 安装 mlx-vlm 工作流技能包
 
 ## 场景标签
 
-`推理引擎` `微调` `模型量化` `多模态` · 领域:感知与多模态
+`多模态` `OCR` `微调` `模型量化` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
+> L3: Any input. Any output. All local. Runs locally on your Mac. Install with pip install -U mlx-vlm or try it in Nativ.
 > L5:  Run and fine-tune multimodal models on Apple Silicon. Text, images, video, and audio in — any out. Built on MLX.
-> L78: The easiest way to get started is to install the `mlx-vlm` package using pip:
+> L99: This repo ships an agent-skills bundle under `skills/` for common MLX-VLM workflows — usage, conversion, developmen
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `e02870a735fe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4ec44c9ca5d4` · [字段定义](../../DATASET.md)*

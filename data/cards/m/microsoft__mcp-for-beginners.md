@@ -2,15 +2,15 @@
 
 ⭐ 17,695 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/mcp-for-beginners) · 组织维护
 
-**面向开发者的 MCP（模型上下文协议）入门教学课程**
+**面向开发者的 MCP 协议入门课程（多语言代码示例）**
 
-微软维护的开源课程，通过 .NET、Java、TypeScript、JavaScript、Rust、Python 六种语言的真实示例讲解 Model Context Protocol 基础。内容按 Foundation、Building、Growing、Mastery 四阶段组织为 11 个模块，覆盖核心概念、安全实践、服务器/客户端构建、调试与生产部署、数据库集成等；Module 11 为 13 个实验的 PostgreSQL 集成实战路径。课程基于 MCP 2026-07-28 规范编写，含 CIMD/DCR 授权对比示例，并提供 50+ 语言翻译（可 sparse checkout 跳过翻译目录）。
+微软开源的 Model Context Protocol 教学课程，通过 C#、Java、JavaScript、TypeScript、Rust、Python 六种语言的真实示例讲解 MCP 基础。课程按 0-11 模块递进组织：基础概念、安全实践、动手构建首个 server/client、生产部署与 Azure 集成，模块 11 为含 PostgreSQL 集成的 13 个实验。提供 50+ 语言翻译（可用 sparse checkout 跳过），并链接 MCP 官方文档与 2026-07-28 规范。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 六种语言（C#/Java/TS/JS/Rust/Python）的跨语言实战示例
-- 11 个模块分四阶段学习路径，Module 11 含 13 个动手实验
-- 基于 MCP 2026-07-28 规范，覆盖无状态请求与 Extensions 框架
-- 提供 50+ 语言翻译及稀疏克隆方式
+- 6 种编程语言的动手代码示例
+- 0-11 模块递进课程结构，模块 11 含 13 个实验
+- 50+ 语言翻译版本
+- 覆盖 MCP 安全最佳实践与 Azure 集成
 
 ## 适用场景
 
-- 从零学习 MCP 协议并构建第一个 MCP server/client
-- 在 VS Code 等开发工具中集成 MCP 实践
-- 学习 MCP 安全最佳实践与生产部署策略
+- 从零学习 MCP 协议概念与架构
+- 用熟悉的语言动手构建第一个 MCP server/client
+- 了解 MCP 安全实践与生产部署方式
 
 ## 场景标签
 
@@ -43,9 +43,9 @@
 
 ## 证据(README 行号)
 
+> L46: # 🚀 Model Context Protocol (MCP) Curriculum for Beginners
 > L48: ## **Learn MCP with Hands-on Code Examples in C#, Java, JavaScript, Rust, Python, and TypeScript**
-> L61: The current protocol revision is **MCP Specification 2026-07-28**. The MCP
-> L149: Module 11 deserves special mention - it's a complete 13-lab hands-on learning path that teaches you to build produ
+> L153: |Module|Topic|Description|Link|
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `50203bd1770b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dcc8887e966e` · [字段定义](../../DATASET.md)*

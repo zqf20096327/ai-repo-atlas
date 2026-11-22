@@ -2,9 +2,9 @@
 
 ⭐ 15,070 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/optuna/optuna) · [官网](https://optuna.org) · 组织维护
 
-**面向机器学习的超参数自动优化 Python 框架**
+**为机器学习开发者自动搜索超参数的 Python 优化框架**
 
-为机器学习提供超参数优化的 Python 框架，采用 define-by-run 命令式 API，用户可用普通 Python 语法（含条件与循环）动态构建搜索空间。核心机制包括采样与剪枝算法、study/trial 抽象、以少量代码改动扩展到数十至数百 worker 的并行化，以及优化历史绘图。另提供 Rust 实现的实验性版本 Rustuna、Web 仪表盘 optuna-dashboard 与特性共享平台 OptunaHub。要求 Python 3.10 及以上，MIT 许可。
+面向机器学习的自动超参数优化框架，采用 define-by-run 命令式 API，用户用 Python 语法（含条件与循环）动态构造搜索空间；提供采样与剪枝算法、study/trial 抽象、多目标与约束优化支持，可将任务扩展到数十至数百个 worker 并行。配套生态包括 Rust 实现的 Rustuna（实验性）、实时 Web Dashboard 与功能共享平台 OptunaHub。以 PyPI/conda 包分发，要求 Python 3.10+，MIT 许可，由 Preferred Networks 维护。
 
 ## 筛选速览
 
@@ -26,17 +26,16 @@
 
 ## 能力要点
 
-- define-by-run API 动态构建搜索空间
-- 并行化扩展至数十至数百 worker
-- Rustuna：Rust 实现，支持 TPE/MOTPE/NSGA-II/CMA-ES 采样器
-- Optuna Dashboard 实时查看优化历史与超参数重要性
+- define-by-run API 动态构造搜索空间
+- 采样与剪枝算法，支持多目标与约束优化
+- 少量或无需改码即可并行扩展到数百 worker
+- 配套 Optuna Dashboard 与 OptunaHub 功能共享平台
 
 ## 适用场景
 
-- 为机器学习模型自动搜索超参数
-- 多目标与带约束的优化任务
-- 分布式环境下扩展超参数搜索规模
-- 通过仪表盘分析优化历史与参数重要性
+- 为机器学习模型自动搜索最优超参数组合
+- 分布式环境下并行运行大规模优化任务
+- 通过可视化图表检查优化历史与超参数重要性
 
 ## 场景标签
 
@@ -45,8 +44,8 @@
 ## 证据(README 行号)
 
 > L18: *Optuna* is an automatic hyperparameter optimization software framework, particularly designed
-> L38: - Lightweight, versatile, and platform agnostic architecture
-> L79: Optuna is available at the Python Package Index and on Anaconda Cloud.
+> L43:  - Adopt state-of-the-art algorithms for sampling hyperparameters and efficiently pruning unpromising trials.
+> L206: Optuna is developed and maintained by Preferred Networks™
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `39707ac4699a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ae8f96b38900` · [字段定义](../../DATASET.md)*

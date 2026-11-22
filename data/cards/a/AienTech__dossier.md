@@ -1,10 +1,10 @@
 # AienTech/dossier
 
-⭐ 5,351 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/AienTech/dossier) · [官网](https://dossier.aien.me) · 个人维护
+⭐ 5,351 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/AienTech/dossier) · [官网](https://dossier.aien.me) · 组织维护
 
-**自托管求职应用：一份档案生成定制简历与求职信并追踪投递**
+**自托管求职应用：从个人档案生成定制简历与求职信**
 
-面向单人使用的自托管 Web 应用（Next.js + PostgreSQL，Docker 部署）：集中维护职业档案，为每个职位读取招聘信息、展示匹配度，并基于档案事实起草定制简历与求职信（聊天式修改、PDF 导出）；另含职位搜索（JSearch/Adzuna/德国联邦劳工局）、每日职位 Agent、Gmail/Google Calendar 集成与投递看板追踪。AI 模型可选：Ollama/LM Studio 本地模型或 OpenAI 兼容 API、Anthropic、Mistral。限制：桌面浏览器、单用户、英文界面、单实例。
+单用户自托管应用：将职业经历存为一个档案，为每个职位读取招聘信息、计算匹配度，并仅基于档案事实起草定制简历与求职信（缺项显示为差距而非编造），可在聊天中修改、导出 PDF，并从草稿到 offer 全程跟踪申请。支持本地模型（Ollama/LM Studio）或托管 API；Docker 部署需约 2GB 内存，也可用 SQLite 免数据库运行；仅限桌面浏览器、无多账户、界面仅英文。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 从档案事实生成定制简历与求职信，缺失项显示为差距而非编造
-- 支持 Ollama/LM Studio 本地模型及 OpenAI 兼容/Anthropic/Mistral 托管 API
-- 职位搜索、每日职位 Agent 与投递看板（draft 到 offer）
-- 可选 Gmail/Calendar 集成：代发送、读回复并代拟答复
+- 仅基于档案事实起草简历与求职信，缺失项显示为差距
+- 可选 Job agent 每日运行最多三个搜索，筛选打分职位但不代发申请
+- MCP connector 可从 Claude 或 n8n 查询、打分与保存草稿
+- 支持 PostgreSQL 或单文件 SQLite，Docker/CapRover/Coolify/Dokploy 多种部署方式
 
 ## 适用场景
 
-- 我想在自己服务器上管理求职全流程，数据不出本地
-- 粘贴招聘信息后自动得到匹配分析和定制简历/求职信
-- 用本地 LLM 生成文档，保持档案隐私
+- 为每个申请的职位生成贴合 JD 的简历和求职信
+- 在一块看板上跟踪所有申请从草稿到 offer 的进度
+- 用本地模型保证求职数据不出自 own 硬件
+- 聚合多个招聘门户的职位并按档案打分
 
 ## 场景标签
 
@@ -37,9 +38,8 @@
 
 ## 证据(README 行号)
 
-> L12: Dossier keeps your career history in one profile and turns it into a clean resume. For every job you apply to, it r
-> L14: It's for one person on a small server: one password, your data in your own PostgreSQL database, and an AI model of 
-> L30: - **New application:** paste a posting; Dossier pulls out the details and requirements, matches them against your p
+> L13: Dossier keeps your career history in one profile and turns it into a clean resume. For every job you apply to, it r
+> L15: It's for one person on a small server: one password, your data in your own PostgreSQL database (or a single SQLite 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `34c98f5db665` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b4925de5d04a` · [字段定义](../../DATASET.md)*

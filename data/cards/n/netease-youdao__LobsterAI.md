@@ -2,9 +2,9 @@
 
 ⭐ 6,208 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/netease-youdao/LobsterAI) · [官网](https://lobsterai.youdao.com) · 组织维护 · 中文 README
 
-**网易有道开源的桌面级办公 Agent，操作本机文件与办公软件**
+**开源桌面 AI agent：帮你完成数据分析、文档、幻灯片等实际工作**
 
-基于 Electron 的桌面 Agent 应用：通过会话驱动 Agent 操作本地文件、终端、浏览器、文档、表格与幻灯片，内置 28 个技能（网络搜索、Word/Excel/PPT 处理、PDF、Remotion 视频生成、图像视频生成等），支持自定义多 Agent、MCP 服务器接入、定时任务与通过微信/企业微信/飞书/钉钉/Telegram 等 IM 远程下发指令。执行层由 OpenClaw 运行时承担，会话与数据以 SQLite 本地存储，敏感操作前请求批准。提供 macOS/Windows 安装包，也可从源码构建。
+网易有道开源的桌面级 AI agent 应用（macOS/Windows，Electron 构建），用自然语言下达任务后读取本地文件、运行工具、操控浏览器、编辑 Word/Excel/PowerPoint 并产出成品。底层基于 OpenClaw agent 运行时，会话与数据本地存储于 SQLite；文件、shell、网络操作均需审批确认。支持定时任务、多 agent、MCP 连接器，并可通过微信、飞书、钉钉、Telegram 等 IM 从手机远程下发任务。提供安装包下载，也可从源码构建。
 
 ## 筛选速览
 
@@ -12,33 +12,35 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 28 个内置技能，覆盖文档、表格、PPT、PDF、视频生成与浏览器自动化
-- OpenClaw 作为运行时与网关，桌面端保留会话、记忆与 IM 绑定
-- 微信/飞书/钉钉/Telegram 等 12 类 IM 渠道远程控制桌面 Agent
-- MCP 服务器接入、定时任务、专家套件与多 Agent 配置
+- 本地会话存储于 SQLite，文件/shell/网络操作审批门控
+- 原生编辑 Word/Excel/PowerPoint，产物支持 HTML/PDF/图片等实时预览
+- 绑定微信、飞书、钉钉、Telegram 等 IM 通道远程下发任务
+- 内置浏览器由 agent 驱动，支持定时循环任务与 MCP 服务器接入
 
 ## 适用场景
 
-- 让桌面 Agent 处理本地 Excel 数据分析并生成看板
-- 通过微信或飞书在手机上给办公室电脑的 Agent 下达任务
-- 定时收集资讯、监控网站并生成日报
+- 让 agent 读取本地 Excel 数据并生成可视化仪表盘
+- 每天定时抓取新闻或检查网页数据面板并汇总
+- 把简历文件夹筛成候选清单并与 JD 匹配
+- 通过手机聊天软件远程给桌面 agent 派活
 
 ## 场景标签
 
-`AI 助手` `GUI 自动化` `浏览器自动化` `数据分析` · 领域:效率与自动化
+`AI 助手` `数据分析` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L28: LobsterAI is a desktop Agent that can operate in your real working environment: local files, terminal commands, bro
-> L48: LobsterAI ships with 28 built-in skills configured in `SKILLs/skills.config.json`, including web search, Word docum
+> L5: **The open-source desktop AI agent that does real work on your computer.**
+> L7: Describe a task in plain language. LobsterAI reads your files, runs tools, drives a browser,
+> L40: Built by NetEase Youdao, LobsterAI is the first open-source desktop-grade agent from a major Chinese tech company.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `62a0c87c9741` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9ecf4f085142` · [字段定义](../../DATASET.md)*

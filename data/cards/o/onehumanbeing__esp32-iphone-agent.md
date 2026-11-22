@@ -2,9 +2,9 @@
 
 ⭐ 5,189 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · [官网](https://manina.ai?ref=github) · 个人维护 · 中文 README
 
-**用 ESP32-S3 让视觉模型操控真实 iPhone 的 agent 套件**
+**用 $7 ESP32 让视觉模型操控真实 iPhone 的 AI Agent**
 
-由 ESP32-S3 开发板固件与 iOS 应用组成：开发板充当 AirPlay 接收器（屏幕镜像）与 USB HID 鼠标键盘，iPhone 上的应用解码画面、调用任意 OpenAI 兼容视觉模型，运行 planner/actor 执行点击、滑动、输入等操作，实现自然语言驱动的手机自动化。支持运行回放与轨迹导出。限制：BLE 带宽约 300-500 kbps、镜像 480×1040 ≤5 fps；部分屏幕（锁屏密码、Apple Pay、DRM 视频）无法镜像；键盘仅 ASCII。需 Mac+Xcode 一次性烧录构建，免费 Apple ID 可签名（每 7 天重签）。
+硬件+应用组合：ESP32-S3 开发板作为 AirPlay 接收端获取 iPhone 屏幕的 H.264 流并转发给 iOS 上的 ESP32 Agent 应用，应用将截图发送至任意 OpenAI 兼容视觉模型，由 planner/actor 生成点击、滑动、输入等动作，再通过 USB/蓝牙 HID 鼠标键盘机制执行；需要开启 AssistiveTouch，支持断链暂停恢复、指针校准与运行回放导出。提供 TestFlight 安装、浏览器烧录固件、npm 发布的 MCP server CLI，以及 Claude Code/Cursor 插件接入方式。要求 iOS 18+，免越狱、免开发者账号。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 开发板即 AirPlay 接收器与 USB HID 鼠标键盘，无需电脑与越狱
-- 任意 OpenAI 兼容视觉端点可选模型，可分别设置 planner 与 actor 模型
-- 指针校准与丢失链路后从同一步恢复
-- 运行记录逐步回放，可批量导出轨迹供其他 agent 分析
+- AirPlay 取屏 + USB/蓝牙 HID 执行的 iPhone 闭环操控架构
+- 支持任意 OpenAI 兼容视觉端点，可分别配置 planner 与 actor 模型
+- 每次运行可回放并导出截图/动作轨迹供其他 agent 分析
+- esp32agent CLI 作为 MCP server，可被编码 agent 驱动
 
 ## 适用场景
 
-- 让 AI 代我按自然语言指令操作自己的 iPhone 应用
-- 自动化重复性手机操作并回放审查每一步
-- 导出 agent 操作轨迹用于分析或二次处理
+- 让 AI 自动在真实 iPhone 上完成 App 内操作任务
+- 把 iPhone 接入 Claude Code 或 Cursor 作为可操控设备
+- 无需 Mac 与开发者账号的 iPhone 自动化实验
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L36: iPhone ──Screen Mirroring (Wi-Fi)──▶ ESP32-S3: AirPlay receiver ──BLE──▶ ESP32 Agent app (same iPhone)
-> L46: - **Brain — the app.** The app decodes the stream, sends screenshots to any OpenAI-compatible vision model, and run
+> L89: - **Brain — the app.** The app decodes the stream, sends screenshots to any OpenAI-compatible vision model, and run
+> L90:  a planner and an actor: tap, swipe, draw, type, press keys, go home, finish. It runs in the background while it
+> L91:  works; the Dynamic Island shows what it is doing.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `9dcd201e92df` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e44fe0d9bff5` · [字段定义](../../DATASET.md)*

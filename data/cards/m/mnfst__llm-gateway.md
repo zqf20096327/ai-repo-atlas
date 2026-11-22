@@ -2,9 +2,9 @@
 
 ⭐ 7,651 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mnfst/llm-gateway) · [官网](https://manifest.build) · 组织维护
 
-**面向 AI agent 的开源 LLM 网关：统一端点路由与计费**
+**面向 AI agent 与应用的开源 LLM 网关：统一接入多提供商与本地模型**
 
-开源 LLM 网关，供 AI agent 与应用接入：将 API key、订阅与本地模型汇聚到一个 OpenAI 兼容端点，按查询路由到对应模型，支持 model=auto 自动选型、查询失败时跨模型回退、全量请求日志（成功与错误）、逐笔成本追踪与限额通知。内置 35 个 provider 连接（含 OpenAI/Anthropic/Google/Bedrock/Ollama/llama.cpp 等），覆盖 300+ 模型，另支持自定义 OpenAI/Anthropic 兼容端点。以 Docker 镜像自托管（旧 npm 方式不再支持），并提供 Railway/Render/AWS/GCP 等一键部署模板。
+Manifest LLM Gateway 是一个自托管或云端部署的 LLM 网关，将 API key、订阅账号与本地模型统一到 OpenAI 兼容端点，查询自动路由到对应模型。内置 35 个提供商连接与 18 种订阅流程，支持自定义路由、成功与错误的完整请求日志、成本追踪与限额通知，以及查询失败时切换到其他模型的 fallback。提供 Docker 镜像与 Railway/Render/AWS/GCP 等一键部署模板，npm 自托管路径已不再支持；云端版本收费 $19/月，自托管免费。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 单一 OpenAI 兼容端点统一接入 API key、订阅与本地模型
-- 300+ 模型经 35 个内置 provider 连接，含 18 种订阅复用通道
-- 跨模型失败回退与请求自修复
-- 全量请求体日志与逐笔成本追踪、限额通知
+- 统一 OpenAI 兼容端点，接入 300+ 模型与 35 个内置提供商连接
+- 支持 API key、18 种订阅流程与本地模型（Ollama/LM Studio/llama.cpp）三种接入方式
+- 成本逐笔追踪、限额与通知设置
+- 查询失败时自动 fallback 到其他模型
 
 ## 适用场景
 
-- 多 provider 场景下统一管理 AI 应用的模型调用入口
-- 复用现有订阅额度避免按 token 付费
-- 追踪与限制 agent 应用的 LLM 成本
-- 本地 Ollama / llama.cpp 与云端模型混合路由
+- 为 AI agent 提供多模型路由，避免单一提供商锁定
+- 集中记录并追踪各应用的 LLM 调用成本
+- 自托管网关统一管理团队 API key 与订阅账号
 
 ## 场景标签
 
-`模型网关` `LLM 可观测性` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L30: Manifest LLM Gateway is an open-source LLM gateway for AI agents and apps. Connect your API keys, subscriptions, an
 > L71: Manifest connects to **300+ models through 35 built-in provider connections** plus any custom OpenAI/Anthropic-comp
+> L45: Manifest ships as a Docker image. One command:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f0f86ae02e33` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7f7d5f34ba3f` · [字段定义](../../DATASET.md)*

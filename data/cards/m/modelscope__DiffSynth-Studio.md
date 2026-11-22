@@ -2,15 +2,15 @@
 
 ⭐ 13,424 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/modelscope/DiffSynth-Studio) · 组织维护 · 中文 README
 
-**开源 Diffusion 模型引擎：统一推理与训练图像/视频/音频生成模型**
+**开源 Diffusion 模型引擎：图像/视频/音频生成与训练**
 
-由 ModelScope 社区团队维护的 Diffusion 模型引擎，集成主流开源扩散模型的推理与训练，覆盖文生图、图像编辑、视频生成、音乐生成及图像质量指标模型。关键机制包括：跨磁盘/内存/显存动态调度模型参数以支持低显存消费级 GPU 运行大模型、NF4/INT8/EntroPack 等参数量化、几乎所有可推理模型均可训练（Base/LoRA/Adapter）、CPU Offload 训练与计算图拆分的两阶段训练。以 PyPI 包与源码方式安装，配套 ComfyUI 节点包与 WebUI 训练工具。限制：大版本更新后部分旧功能不再维护。
+由 ModelScope 社区团队开发维护的 Diffusion 模型引擎，集成图像生成、视频生成、音频生成与画质评估模型。核心机制包括跨磁盘/内存/显存的参数动态调度、NF4/INT8 等量化以降低显存需求，以及覆盖基模型、LoRA 与 Adapter 的训练支持，并提供分阶段训练。围绕它还有 ComfyUI 节点包、LoRA 训练 WebUI 和推理服务代码。README 声明开发人力有限，新功能进展与 issue 响应速度受限。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- 集成图像/视频/音频生成与图像质量指标等主流扩散模型
-- 磁盘-内存-显存动态调度，低显存消费级 GPU 可运行大模型推理
-- NF4/INT8/EntroPack 多种量化后端与量化+LoRA 训练
-- 几乎全部可推理模型均支持训练（Base/LoRA/Adapter），含 CPU Offload 训练
+- 集成主流开源 Diffusion 模型：图像、视频、音频生成与画质评估
+- 显存管理：参数在磁盘/内存/显存间动态调度，低显存消费级 GPU 可跑大模型
+- 量化支持 NF4/INT8 等，含 EntroPack 量化后端（最低 3-bit）
+- 支持推理的模型几乎都支持训练（基模型/LoRA/Adapter）
 
 ## 适用场景
 
-- 在低显存 GPU 上运行和微调大参数扩散模型
-- 统一框架内做多种开源图像/视频/音频模型的推理与 LoRA 训练
-- 通过量化与显存管理降低大模型推理和训练成本
+- 在低显存消费级 GPU 上运行大参数量扩散模型推理
+- 为图像/视频/音频模型做 LoRA 或全量训练
+- 通过 ComfyUI 节点搭建生成工作流
+- 基于单卡 H20 集群部署图像/视频/音频模型推理服务
 
 ## 场景标签
 
-`图像生成` `视频生成` `微调` `推理引擎` · 领域:内容生成
+`图像生成` `视频生成` `微调` `模型量化` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L16: Welcome to the magical world of Diffusion models! DiffSynth-Studio is an open-source Diffusion model engine develop
 > L20: * Model Support: The framework integrates mainstream open-source Diffusion models, covering image generation, video
-> L21: * VRAM Management: Dynamically schedules model parameters across disk, memory, and VRAM, allowing consumer-grade GP
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `a790bfcba924` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `865af9ac07f1` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 26,111 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/browserbase/stagehand) · [官网](https://stagehand.dev) · 组织维护
 
-**面向 agent 开发者的浏览器自动化 SDK：浏览、操作并提取网页数据**
+**浏览器自动化 SDK：让 agent 像人一样操作网页并提取结构化数据**
 
-以 SDK 形式提供的浏览器代理工具库，提供 goto/click/locator/screenshot 等 Playwright 风格 API，并以自然语言驱动 act/observe/extract 三类操作与数据抽取；支持通过无障碍树裁剪控制 token 用量，站点变更时自愈刷新动作。提供 TypeScript、Python、Go 三种 SDK，可本地运行（需安装 Chrome），也可指向 Browserbase 云端运行并配置 Model Gateway 接入模型；另提供托管 MCP server、Search/Fetch 接口与多框架集成。MIT 协议。
+面向开发者提供 TypeScript、Python、Go 三种语言的浏览器驱动 SDK，核心 API 为 act、observe、extract、search、fetch，以自然语言驱动浏览器动作与数据提取，并提供 Playwright 风格方法（goto、click、locator）。本地运行需安装 Chrome，无需 LLM key 或 Browserbase 账号；也可接入 Browserbase 云浏览器获得服务端缓存、会话录制、住宅代理等能力，并提供托管 MCP 服务器供 Claude Code、Cursor 等 MCP 客户端使用，另可安装 browse CLI 供编程型 agent 调用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- Playwright 风格 API（goto/click/locator/screenshot）加自然语言 act/observe/extract
-- TypeScript、Python、Go 三语言 SDK
-- 托管 MCP server 可供 Claude Code、Cursor、Codex 等 MCP 客户端使用
-- Search/Fetch 支持无浏览器的网页搜索与 URL 转 markdown
+- TypeScript、Python、Go 三语言 SDK，统一浏览器驱动 API
+- act/observe/extract 支持自然语言浏览器动作与数据提取，站点变化时自刷新动作方式
+- 本地运行无需 LLM key 与 Browserbase 账号；托管 MCP 服务器免安装提供浏览器工具
+- 混合可访问性树裁剪减少输入给 agent 的页面上下文
 
 ## 适用场景
 
-- 让 agent 自动浏览网页并抽取结构化数据
-- 为编码 agent（Claude Code/Cursor/Codex）接入浏览器能力
-- 将现有 Playwright 测试套件迁移到 agent 化自动化
-- 无需启动浏览器的网页抓取与搜索
+- 为 AI agent 提供可复用的浏览器操作与数据提取能力
+- 从需要登录的网站拉取结构化数据
+- 给 Claude Code/Cursor 等客户端接入浏览器工具（MCP）
+- 从 Playwright 迁移既有自动化套件
 
 ## 场景标签
 
@@ -46,8 +46,8 @@
 ## 证据(README 行号)
 
 > L7:  Stagehand is the SDK for browser agents
-> L100:  One complete browser driver across TypeScript, Python, and Go.
-> L135: The hosted Browserbase MCP server puts `navigate`, `act`, `observe`, and `extract` in any MCP client — no install,
+> L94: No LLM key or Browserbase account needed for local use. See CLI vs SDK vs hosted MCP for when to use each.
+> L118: Point the same script at Browserbase and get 2x faster execution than Playwright cloud equivalent browsers. Config
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ec7a1a4bd0ec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `012c7c0381eb` · [字段定义](../../DATASET.md)*

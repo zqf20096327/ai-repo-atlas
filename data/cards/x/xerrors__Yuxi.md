@@ -2,34 +2,35 @@
 
 ⭐ 7,711 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xerrors/Yuxi) · [官网](https://xerrors.github.io/Yuxi/) · 个人维护 · 中文 README
 
-**可私有部署的多租户知识智能体平台，自托管 RAG 与多智能体**
+**可私有部署的多租户知识智能体平台：RAG+图谱+多智能体**
 
-Yuxi 是面向需要自部署、自控数据/模型/权限的企业团队的多用户知识智能体平台：将 Agentic RAG（文档解析、分块、向量索引、多路召回与 Rerank、RAG 评估）、Milvus/Neo4j 知识图谱构建、LangGraph 多智能体编排、SubAgents/Skills/MCP 扩展、沙盒文件工作区与多租户权限管理集成于同一工作区。完全基于 Docker Compose 启动，服务包含 LangGraph、Vue、FastAPI、Milvus、Neo4j、PostgreSQL、MinerU、PaddleOCR；需自备大模型 API。支持接入 OpenAI、Anthropic、DeepSeek、Qwen 及 OpenAI 兼容端点（如 vLLM）。MIT 协议。
+面向需要自部署、自行掌握数据与权限的企业团队，把知识库检索、知识图谱构建（Milvus 文档块抽取实体关系写入 Neo4j）、LangGraph 多智能体编排、MCP/Skills 扩展、容器沙盒与多租户权限管理整合在同一平台。支持文档解析分块与向量索引、检索测试与 RAG 效果评估、SubAgents 并行执行、沙盒文件产物预览下载。以 Docker Compose 部署，MIT 协议，v0.8 仅支持全新部署，旧数据不提供自动升级。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Agentic RAG 套件：多格式入库、Embedding/Rerank、检索测试与基准评估
-- 从文档块抽取实体关系写入 Neo4j 构建知识图谱参与检索
-- 多智能体编排：SubAgents 并行、Skills、MCP、沙盒工具与人工审批
-- 多租户权限体系与统一模型凭据管理、Dashboard 运行监控
+- Agentic RAG 套件：多格式入库、Embedding/Rerank、检索测试与效果评估
+- 从 Milvus 文档块抽取实体关系写入 Neo4j 构建知识图谱
+- 多智能体编排：SubAgents 异步并行、MCP/Skills 扩展、沙盒工具
+- 多租户权限管理、API Key 集中凭据管理与运行 Dashboard
 
 ## 适用场景
 
-- 企业私有部署团队知识库问答与 Agent 工作台
-- 结合知识图谱做多跳检索与深度调研任务
-- 通过沙盒让智能体产出可预览下载的报告与文件产物
+- 企业私有部署知识库问答与文档检索平台
+- 从团队文档自动构建知识图谱并探索实体关联
+- 让智能体执行多步骤任务并产出可下载的文件报告
+- 按部门管理知识库、智能体与模型的访问权限
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `479f1b8384ed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `372e9532c9ba` · [字段定义](../../DATASET.md)*

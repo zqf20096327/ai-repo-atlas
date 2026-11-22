@@ -1,10 +1,10 @@
 # junhoyeo/tokscale
 
-⭐ 5,885 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/junhoyeo/tokscale) · [官网](https://tokscale.ai) · 个人维护 · 中文 README
+⭐ 5,885 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/junhoyeo/tokscale) · [官网](https://tokscale.ai) · 个人维护
 
-**终端追踪多种 AI 编程 agent 的 token 用量与成本的 CLI**
+**终端 CLI：统计多个 AI 编码 agent 的 token 用量与成本**
 
-用 Rust 实现的高性能 CLI 与终端可视化仪表盘（Ratatui TUI，含 Overview/Models/Daily/Sessions 等 10 个交互视图），通过直接读取本地数据文件追踪 60 余种 AI 编程客户端（Claude Code、Codex CLI、Gemini CLI、Cursor、Copilot 等）的 token 消耗，借助 LiteLLM 定价数据计算实时成本，支持分层定价与缓存折扣。提供全球排行榜：用户可通过 bunx 提交用量数据生成公开主页。面向频繁使用多种 AI 编程工具的开发者。
+Tokscale 是一个 CLI 工具与可视化面板，读取本地多个 AI 编码 agent 留下的会话记录文件（约 60 种客户端，含 SQLite、JSONL、JSON 等格式），汇总 token 用量并按 LiteLLM 定价数据计算成本，提供 TUI 视图（总览、模型、日汇总、会话详情、小时统计）与 3D 贡献图前端；用户可通过 submit 命令将用量数据提交到全球排行榜并生成公开档案。定位为个人开发者的用量追踪工具，本地读取数据，部分客户端需经 sync 子命令缓存。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 读取 60 余种 AI 编程客户端本地数据文件统计用量
-- Ratatui TUI 提供 10 个交互视图，支持键盘与鼠标导航
-- 基于 LiteLLM 定价数据的实时成本计算（分层定价/缓存折扣）
-- 支持提交用量数据至全球排行榜生成公开主页
+- 支持读取约 60 种 AI 编码 agent 的本地会话数据文件
+- 基于 LiteLLM 定价数据计算成本，支持分层定价与缓存 token 折扣
+- TUI 提供总览/模型/日汇总/会话详情/小时统计视图
+- bunx submit 提交用量到全球排行榜并生成公开档案
 
 ## 适用场景
 
-- 汇总我在多个 AI 编程工具上的 token 消耗与花费
-- 在终端查看按日/小时/项目/会话维度的用量分析
-- 把自己的用量提交到排行榜并生成公开主页
+- 统计自己在多个 AI 编码工具上的 token 消耗与花费
+- 查看按模型、按天、按会话粒度的用量明细
+- 在排行榜上展示自己的 agent 用量档案
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+ · 领域:开发者工具/AI 编码辅助生态
 
 ## 证据(README 行号)
 
 > L3: > A high-performance CLI tool and visualization dashboard for tracking token usage and costs across multiple AI codi
 > L47: **Tokscale** helps you monitor and analyze your token consumption from:
-> L112: Get real-time pricing calculations using 🚅 LiteLLM's pricing data, with support for tiered pricing models and cach
-> L126: - **Interactive TUI Mode** - Beautiful terminal UI powered by Ratatui (default mode)
+> L116: Get real-time pricing calculations using 🚅 LiteLLM's pricing data, with support for tiered pricing models and cach
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `b4b0c1143e97` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `c5b3b6e9e167` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 9,099 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/WangRongsheng/awesome-LLM-resources) · 个人维护 · 中文 README
 
-**LLM 学习资源汇总清单：数据、微调、推理、Agent 等**
+**大语言模型学习与开发资源的聚合清单，面向 LLM 从业者**
 
-持续更新的大语言模型资源汇总仓库（awesome-list），按主题收录外部项目与教程链接：数据处理工具（标注、PDF/OCR 提取、合成数据）、微调与训练框架（LLaMA-Factory、unsloth、TRL 等）、Agentic RL 框架、推理工具（ollama、Open WebUI 等），并附播客访谈推荐。条目以'名称+一句描述+链接'形式组织，本身不含代码，不提供安装运行方式；README 含 API 中转服务商赞助内容，另有姊妹项目 Awesome-AI4Med。
+持续更新的大语言模型资源汇总清单，按主题分节收录项目条目，覆盖数据处理、微调、Agentic RL、推理等方向；每个条目附一句话简介与 GitHub 链接，部分以 🔥 标记。条目形式为外部仓库链接的罗列，不含本产品的安装或运行说明。维护者另维护医疗方向的 Awesome-AI4Med 清单，并附相关播客访谈推荐。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按数据/微调/Agentic RL/推理等主题分类收录 LLM 相关项目
-- 数据类目收录 48 个数据处理、OCR、合成数据工具
-- 微调类目收录 53 个训练/微调框架与工具
-- 附 LLM 领域人物播客访谈清单
+- 按数据、微调、Agentic RL、推理等主题分节的条目组织
+- 收录数据处理（OCR/解析/合成数据）、微调框架、推理运行时等多类资源
+- 条目附一句话简介与仓库链接，🔥 标记部分条目
+- 配套推荐播客访谈清单
 
 ## 适用场景
 
-- 查找数据处理、微调、推理各环节的开源工具
-- 了解 LLM 训练与 Agent RL 框架的可用选项
-- 通过播客清单了解大模型领域人物访谈内容
+- 查找 LLM 数据处理与微调相关工具的入口
+- 按主题浏览推理部署和 WebUI 类项目
+- 关注 LLM 领域访谈与播客内容
 
 ## 场景标签
 
@@ -38,9 +38,8 @@
 ## 证据(README 行号)
 
 > L1: 全世界最好的大语言模型资源汇总 持续更新
-> L55: 1. AotoLabel: Label, clean and enrich text datasets with LLMs.
-> L108: 1. LLaMA-Factory (`🔥`): Unify Efficient Fine-Tuning of 100+ LLMs.
-> L176: 1. ollama (`🔥`): Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+> L12: #### 目录
+> L35: ## 数据 Data
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7c7c5cbe65c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `33492464b7b0` · [字段定义](../../DATASET.md)*

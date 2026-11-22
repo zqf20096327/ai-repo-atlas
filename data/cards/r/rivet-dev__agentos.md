@@ -2,9 +2,9 @@
 
 ⭐ 4,912 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rivet-dev/agentos) · [官网](https://rivet.dev/agentos) · 组织维护
 
-**面向 AI agent 的 WebAssembly 轻量沙箱运行时库**
+**为 AI agent 提供隔离沙箱的轻量 Linux 兼容 VM 运行时**
 
-基于 WebAssembly 与 V8 isolates 的沙箱库，为每个 agent 提供含 POSIX 文件系统、进程、shell 与网络的 Linux 兼容环境，默认隔离主机访问，通过 mounts/宿主函数/网络权限选择性放开。以 npm 库形式嵌入后端进程运行，由 Rust sidecar 进程持有内核；亦可通过 HTTP API 以 Rivet Cloud 托管或自托管方式使用。支持在沙箱内运行 JavaScript、TypeScript、Python 及进程、文件、网络、定时任务等 API 组。
+agentOS 是一个基于 WebAssembly 的轻量 Linux 兼容 VM 运行时，提供隔离的文件系统、进程、终端、语言运行时与网络负载。以两种形式提供：作为 Rivet actor 托管运行并通过生成的 TypeScript 契约访问，或以 @rivet-dev/agentos 嵌入受信任的 Node.js 应用。托管形式仅接受可序列化、白名单化的文件系统描述符；软件以不可变 .aospkg 工件按 digest 内容寻址安装。面向需要为 agent 构建沙箱执行环境的开发者。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- WebAssembly + V8 isolates 实现 Linux 兼容沙箱，无需 hypervisor 或嵌套虚拟化
-- npm 库形式嵌入后端进程，或经 HTTP API 托管在 Rivet Cloud/自托管
-- Rust sidecar 进程持有内核，guest 代码经 syscall 访问且默认无法触及主机文件/进程/网络
-- 提供进程、终端、文件系统、JS/TS/Python 执行、网络与 cron 等 API 组
+- 隔离文件系统、进程、终端、语言与网络负载的 VM 运行时
+- Rust actor 托管形式与 Node.js 嵌入式 Core 两种使用方式
+- 不可变 .aospkg 软件工件，按 sha256 digest 内容寻址缓存
+- V8 为默认 WASM 后端，可选 Wasmtime 执行器
 
 ## 适用场景
 
-- 在后端进程中为 AI agent 提供隔离的执行环境
-- 在不暴露原始密钥的前提下让 agent 调用可信宿主函数
-- 托管运行不可信 agent 代码并施加资源与权限限制
+- 为 AI agent 提供隔离的代码执行沙箱
+- 在 Node.js 应用中嵌入可编程 VM 环境
+- 托管运行终端/文件系统/网络类工作负载
 
 ## 场景标签
 
- · 领域:AI agent 基础设施/沙箱运行时
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L7:  Tiny, fast, Linux-compatible sandboxes. Powered by WebAssembly.
-> L23: - **Library, not extra infrastructure.** Install agentOS from npm and run it inside the backend process you already
-> L25: - **Direct function calls, not extra APIs.** Connect agents to your application with ordinary JavaScript calls inst
+> L3: agentOS is a lightweight Linux-compatible VM runtime for isolated filesystem,
+> L8: - a fixed Rust Rivet actor named `agentOS`, accessed through a generated
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `fc81670137e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `4bcb6e66d605` · [字段定义](../../DATASET.md)*

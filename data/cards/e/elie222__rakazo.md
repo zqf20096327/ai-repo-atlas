@@ -1,44 +1,45 @@
 # elie222/rakazo
 
-⭐ 9,399 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/elie222/rakazo) · [官网](https://rakazo.com) · 个人维护 · 中文 README
+⭐ 9,399 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/elie222/rakazo) · [官网](https://rakazo.com) · 个人维护
 
-**自托管的持久 AI teammate/助手，可自选模型与沙箱**
+**自托管的持久 AI 团队/机器人平台，替代 Grok Bot**
 
-开源、可自托管的 AI agent 应用：用户创建具有独立对话、记忆、例程与历史的持久 bot，通过聊天界面管理。支持 web、Electron 桌面端与 iPhone/Android 客户端；自带模型凭证（经 Pi）或本地运行完整栈。沙箱支持 Docker、E2B、Daytona、CreateOS、Box 与本机；bot 可访问浏览器、终端、文件与图形桌面，并可委托 peer bot 或短期子 agent。处于 beta 阶段；安装路径含发布镜像（Docker Compose 安装脚本）与源码运行（Node.js 22/24/26+、pnpm 9、Docker）。
+开源可自托管的 AI 机器人平台：每个机器人具备持久记忆、定时例程、可配置的计算机/浏览器沙箱（Docker、云或本机），支持群聊协作、委派与子代理、生成可分享的仪表盘页面、语音通话，以及应用集成与 MCP 工具接入。用户自带模型密钥选择任意模型。通过 Compose 发布镜像快速安装，也支持源码开发；客户端覆盖 Web、Electron 桌面端与 iOS/Android。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 持久 bot：独立对话、记忆、例程与历史
-- 沙箱可选 Docker/E2B/Daytona/CreateOS/Box/本机，含浏览器、终端与图形桌面访问
-- bot 可委托 peer bot 或短期 subagent
-- web、Electron 桌面端、iOS/Android 多端客户端，UI 支持简体中文等多语言
+- 每个机器人拥有独立记忆、例程与可观察的计算机沙箱
+- 群聊中 @mention 多机器人分工协作并互相检查
+- 支持 Docker/e2b/daytona/railway 等多种沙箱提供方
+- 数千应用集成，支持自有 MCP 服务器与 OpenAPI 工具
 
 ## 适用场景
 
-- 自托管一个可长期对话、有记忆的 AI 助手并从聊天界面管理
-- 让 bot 在隔离沙箱中操作浏览器、终端与文件完成任务
-- 在服务器上部署后从桌面或手机客户端连接使用
+- 在自己服务器上运行一支可长期驻留的 AI 团队
+- 用定时/邮件/webhook 触发机器人自动执行例程
+- 让多机器人协作完成并交叉校验任务
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` · 领域:效率与自动化
+`聊天机器人` `多智能体` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L10: Rakazo is an open source AI agent for persistent teammates, and a self-hosted AI assistant you
-> L15: It is an open source, self-hosted alternative to Grok Bot, Meta Muse, OpenAI Dots, Instinct,
+> L12: Rakazo is an open source, self-hosted alternative to Grok Bot.
+> L14: Persistent AI teammates with their own memory, routines, apps, and computer. Run it on your own
+> L36: - Any model, with your own keys
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `96d0dab70441` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `729cc81e7dbd` · [字段定义](../../DATASET.md)*

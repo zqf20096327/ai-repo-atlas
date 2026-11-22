@@ -2,9 +2,9 @@
 
 ⭐ 6,508 · Python · CC-BY-SA-4.0 · 推送 2026-11-21 · [GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) · [官网](https://cc.bruniaux.com/) · 个人维护
 
-**Claude Code 工程实践指南：教开发者构建与规模化 agent 使用**
+**面向开发者的 Claude Code 工程化使用教程与参考指南**
 
-面向使用 Claude Code 的开发者与技术管理者的知识库：以 430K+ 行 Markdown 源文件提供 agentic 工作流、hooks、skills、MCP 服务器、安全加固、团队治理、评测与成本经济等章节，并含测验、速查卡与 PDF/EPUB 电子书。仓库同时提供机器可读索引（llms.txt、reference.yaml）和一个经 npx 安装的 MCP 服务器（17 个工具），可从 Claude Code、Codex、Cursor、VS Code 等 MCP 客户端查询指南内容。指南以 CC BY-SA 4.0 许可发布，网站为主要阅读界面。
+一份关于 Claude Code 的综合指南，配套网站为主阅读界面，仓库保存规范 Markdown 源文件、可复用模板、机器可读索引（navigation.json、llms.txt、reference.yaml）与贡献历史。内容覆盖安装与认证、学习路径、Agent harness 与循环/图工程、上下文与记忆工程、多种工作流、安全加固与沙箱隔离、可观测性、团队指标与 AI 成本核算等。另提供可通过 npx 安装的 stdio MCP 服务器（17 个工具、7 个资源），供任意 MCP 客户端查询指南内容。文档许可证为 CC BY-SA 4.0。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖 Start/Build/Scale 三阶段的 Claude Code 学习路径与工作流
-- 官方 MCP 服务器提供 17 个工具（搜索指南、对比版本、威胁查询等）
-- 提供 Markdown、速查卡、测验、PDF/EPUB 多种格式及法英双语卡片
-- 含机器可读索引（llms.txt、navigation.json、reference.yaml）
+- 按 Start/Build/Scale/Resources 组织的多条角色化学习路径
+- 17 个工具与 7 个资源的 stdio MCP 服务器，支持从任意 MCP 客户端查询
+- 机器可读索引（llms.txt、reference.yaml）供 AI 助手检索
+- 提供 Agent、skill、hook、workflow 等可运行示例与模板
 
 ## 适用场景
 
-- 系统学习 Claude Code 从入门到生产化使用
-- 为团队制定 AI 编码工具的安全边界与治理策略
-- 通过 MCP 服务器在任意编码客户端内查询指南内容
+- 系统学习 Claude Code 的安装、上下文工程与工作流
+- 为团队制定安全加固与企业治理方案时查阅参考
+- 通过 MCP 服务器在编码客户端中直接检索指南内容
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L15: Learn Claude Code, build reliable agents, and scale their use safely. The website is the primary reading and discov
-> L33: Claude Code documentation explains the product. This guide connects product behavior to engineering decisions: what
+> L16: Learn Claude Code, build reliable agents, and scale their use safely. The website is the primary reading and discov
+> L34: Claude Code documentation explains the product. This guide connects product behavior to engineering decisions: what
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `344db28ed567` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `76f2ecd37c89` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 5,079 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ag2ai/ag2) · [官网](https://ag2.ai) · 组织维护
 
-**构建多 AI agent 的开源编程框架（前 AutoGen）**
+**构建多智能体协作的开源 Agent 编程框架**
 
-面向开发者的多智能体编程框架：核心 Agent 对接模型提供商并调用工具，通过 Network（Hub 与类型化 channels）编排多智能体协作，支持 conversation/consulting/discussion/workflow 四种通道模式；提供 opt-in 的 agent harness（知识存储、上下文组装、历史压缩）、human-in-the-loop、结构化输出、中间件与评测等原语。经典 AutoGen 命名空间已迁至独立仓库 ag2ai/ag2-classic，本包以 `import ag2` 提供 v1.0，非平滑升级。Apache-2.0 许可，由多机构志愿者维护。
+AG2（前身为 AutoGen）是一个用于构建 AI 智能体并协调多智能体协作完成任务的编程框架。核心机制包括：`Agent.ask()` 的异步会话模型、`@tool` 装饰器驱动的完整工具调用循环、`context.input()` 实现的人在回路暂停、基于 Hub 与类型化通道（conversation/consulting/discussion/workflow）的多智能体 Network 编排，以及可选的 harness 原语（KnowledgePlugin 跨运行记忆、SummarizeCompact 历史压缩）。需要 Python >= 3.11；v1.0 与原 Classic 框架不兼容，Classic 已拆分至独立仓库。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- Network（Hub+类型化 channels）多智能体编排，四种通道模式
-- @tool 装饰 Python 函数实现完整工具调用循环
-- agent harness：KnowledgeStore 持久知识与 SummarizeCompact 历史压缩
-- human-in-the-loop 暂停运行收集人工确认
+- 多智能体 Network 编排：Hub + 四种类型化通道
+- @tool 装饰器自动执行完整工具调用循环
+- KnowledgePlugin 跨运行记忆与 SummarizeCompact 历史压缩
+- 人在回路：工具内暂停收集人工确认
 
 ## 适用场景
 
-- 构建 planner/reviewer 等多智能体协作工作流
-- 为 agent 挂载工具与持久记忆开发应用
-- 从经典 AutoGen 迁移或并行维护旧代码
+- 构建需要多个智能体分工协作的任务流程
+- 为智能体接入外部 API 与工具调用
+- 搭建带人工审核环节的智能体工作流
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`Agent 框架` `多智能体` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L37: AG2 is an open-source programming framework for building AI agents and facilitating cooperation among multiple agen
 > L131: - **Agents**: `Agent` is the core building block — it talks to a model provider, calls tools, and returns a reply.
-> L173: When two or more agents need to work together, AG2 uses the **Network**: a `Hub` that owns the registry, the write
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `b3336c823322` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `05e9073fb776` · [字段定义](../../DATASET.md)*

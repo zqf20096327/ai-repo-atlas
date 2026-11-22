@@ -2,9 +2,9 @@
 
 ⭐ 11,986 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/CursorTouch/Windows-MCP) · 组织维护
 
-**让 AI agent 通过 MCP 操控 Windows 桌面的 MCP 服务器**
+**连接 AI agent 与 Windows 系统的 MCP 服务器，提供系统操作工具**
 
-以 MCP 服务器形式连接 LLM 与 Windows 操作系统，向 Claude Desktop、Perplexity Desktop、Gemini CLI、Qwen Code、Codex CLI、Claude Code 等客户端提供键盘/鼠标模拟、窗口与 UI 元素交互、应用控制、UI 状态捕获等工具，并含面向网页内容的 DOM 模式（支持 Chrome/Edge/Firefox）。不依赖视觉模型，任意 LLM 均可使用；动作间典型延迟 0.2-0.5 秒。要求 Windows 10/11 与 Python 3.14+，通过 PyPI/uvx 安装，支持 stdio/SSE/streamable-http 三种传输，远程访问可启用鉴权、IP 白名单与 TLS。
+Windows-MCP 是一个开源 MCP 服务器，作为 LLM 与 Windows 操作系统之间的桥接层，向接入的 MCP 客户端暴露文件导航、应用控制、UI 交互、键鼠模拟、QA 测试等工具。不依赖传统计算机视觉技术或微调模型，可配合任意 LLM 使用；提供 DOM 模式用于浏览器页面内容自动化，支持 Chrome/Edge/Firefox。通过 uvx 从 PyPI 运行或源码运行，支持 stdio/SSE/Streamable HTTP 传输，提供登录时后台任务安装，可配置进 Claude Desktop、Perplexity Desktop、多款 CLI 客户端。仅支持 Windows 10/11，需 Python 3.14+。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 提供键盘鼠标、窗口控制与 UI 状态捕获等 UI 自动化工具集
-- DOM 模式过滤浏览器 UI，支持 Chrome/Edge/Firefox 网页自动化
-- 不依赖视觉模型或微调模型，任意 LLM 可用
-- 支持 stdio/SSE/streamable-http 传输，远程访问可配置鉴权、IP 白名单与 TLS
+- 以 MCP 服务器形式向客户端暴露 Windows UI 自动化工具集
+- 配合任意 LLM 使用，不依赖计算机视觉或微调模型
+- 支持 stdio/SSE/Streamable HTTP 传输与登录时后台任务安装
+- DOM 模式过滤浏览器 UI，聚焦网页内容自动化
 
 ## 适用场景
 
-- 让 Claude Desktop 等客户端直接操作本机 Windows 应用与文件
-- 用自然语言驱动桌面 UI 自动化或 QA 测试
-- 在 WSL 内的 Claude Code 通过桥接调用 Windows 侧 UI 自动化
+- 让 AI agent 操作 Windows 完成文件与应用管理任务
+- 对 Windows 应用做 UI 自动化 QA 测试
+- 通过 MCP 客户端实现浏览器网页内容自动化
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L22: **Windows-MCP** is a lightweight, open-source project that enables seamless integration between AI agents and the W
-> L343: Windows-MCP runs directly on your Windows machine and exposes its tools to the connected MCP client.
+> L29: - Windows-MCP is now available on PyPI (thus supports `uvx windows-mcp`)
+> L83: uvx windows-mcp serve
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `387c74aeab53` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `88c06be4fe68` · [字段定义](../../DATASET.md)*

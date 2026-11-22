@@ -2,9 +2,9 @@
 
 ⭐ 21,934 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/stefan-jansen/machine-learning-for-trading) · [官网](https://ml4trading.io) · 个人维护
 
-**为交易研究者提供机器学习交易策略的图书配套代码库**
+**《Machine Learning for Trading》第3版全书代码，覆盖交易 ML 全流程**
 
-Stefan Jansen《Machine Learning for Trading》第三版的全书代码：27 章、9 个案例研究，围绕一条从数据基础设施、策略研究到部署监控的端到端工作流组织。覆盖梯度提升、深度时间序列、因果机器学习、强化学习、生成式 AI（基于 SEC 文件的 RAG、Graph RAG、多智能体研究系统）与合成金融数据生成。数据层使用 Polars，每章提供可复现的 Docker 环境。
+Stefan Jansen 所著《Machine Learning for Trading》第3版的配套代码仓库，含 27 章、六个工作流对齐部分与九个贯穿全书的案例研究（ETF、加密永续、日内股票、期权、外汇、期货等）。内容从金融数据基础设施、特征工程、模型开发到回测、组合构建与实盘部署，数据层使用 Polars，每章提供可复现 Docker 环境。第二版移至 second-edition 分支维护。
 
 ## 筛选速览
 
@@ -25,26 +25,26 @@ Stefan Jansen《Machine Learning for Trading》第三版的全书代码：27 章
 
 ## 能力要点
 
-- 27 章与 9 个横贯全书的案例研究（ETF、加密永续、日内股票、期权、外汇、期货等）
-- 模型工具箱含 XGBoost/LightGBM/CatBoost 与 PatchTST、iTransformer、Mamba 等时间序列架构
-- 生成式 AI 章节：SEC 文件 RAG、知识图谱与 Graph RAG、多智能体研究系统
-- 每章提供可复现 Docker 环境，数据层基于 Polars
+- 27 章代码与九个全流程案例研究
+- 每章提供可复现 Docker 环境，数据层采用 Polars
+- 覆盖生成式 AI（SEC 文件 RAG、Graph RAG、多智能体）与因果 ML、强化学习章节
+- 附 Maven 平台课程与免费直播课日程
 
 ## 适用场景
 
-- 按书中章节复现机器学习交易策略的回测流程
-- 学习从数据管道到实盘部署的量化研究工作流
-- 参考合成金融数据与因果推断在交易研究中的实现
+- 按书学习从数据获取到实盘执行的 ML 交易工作流
+- 复现 ETF、期权、外汇等市场的量化策略案例
+- 查阅时间序列深度模型与因果推断在金融中的应用实现
 
 ## 场景标签
 
-`金融量化` `教程课程` · 领域:学习与行业
+`金融量化` `教程课程` `强化学习` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
+> L1: # Machine Learning for Trading, 3rd Edition
 > L5: The code for *Machine Learning for Trading, 3rd Edition* by
-> L37: - **Generative AI**: retrieval-augmented generation grounded in SEC filings, knowledge graphs and Graph RAG, and
-> L51: The data layer moves to **Polars** for fast, expression-based manipulation, and every chapter ships in **reproducib
+> L6: Stefan Jansen: 27 chapters and nine case studies, rebuilt
 
 ## 星数曲线
 
@@ -60,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8f8928460ea6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ddd2e91fab83` · [字段定义](../../DATASET.md)*

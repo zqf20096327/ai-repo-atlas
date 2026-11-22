@@ -1,7 +1,7 @@
 # 周趋势 2026-W47
 
 > 数据窗口:最近 2 天快照(星数序列累积中,窗口将逐日放大至 90 天)。
-> A 层卡片 47738 张,其中 593 张带涨星数据。
+> A 层卡片 47757 张,其中 593 张带涨星数据。
 
 ## 涨星 Top 20
 
@@ -20,7 +20,7 @@
 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 87,795 | +994 | 面向 AI agent 的开源 HTML 转 MP4 视频框架与编辑器 |
 | [obra/superpowers](https://github.com/obra/superpowers) | 323,608 | +926 | 为编码 Agent 安装的技能化软件开发方法论框架 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 113,749 | +712 | 为 AI Agent 提供多平台网页搜索与读取的 CLI 工具 |
-| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 46,652 | +650 | 面向 AI Agent 的独立审计 CLI，120 秒内给出合规评分 |
+| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 46,652 | +650 | AI Agent 独立审计 CLI：模拟业务场景检验 agent 是否越权 |
 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 79,755 | +634 | 面向开发者的 AI Engineering 从零构建课程（542 课） |
 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 115,661 | +610 | 给团队编排管理 AI agent 的开源控制台 |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 98,560 | +571 | 让 AI agent 把想法或代码库生成为交互式图表的技能 |
@@ -30,18 +30,18 @@
 
 ## 场景标签分布(Top 12)
 
-- `教程课程` ×3297
-- `编码 Agent` ×3167
-- `多智能体` ×2750
-- `Agent 框架` ×2643
-- `AI 助手` ×2631
-- `模型评测` ×2359
-- `科研工具` ×2087
-- `RAG` ×2076
-- `精选清单` ×2045
+- `教程课程` ×3296
+- `编码 Agent` ×3186
+- `多智能体` ×2753
+- `Agent 框架` ×2645
+- `AI 助手` ×2637
+- `模型评测` ×2369
+- `科研工具` ×2086
+- `RAG` ×2082
+- `精选清单` ×2043
 - `聊天机器人` ×2000
-- `Agent 记忆` ×1908
-- `提示工程` ×1724
+- `Agent 记忆` ×1902
+- `提示工程` ×1716
 
 ## 维护健康分布
 

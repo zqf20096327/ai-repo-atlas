@@ -2,9 +2,9 @@
 
 ⭐ 15,113 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [官网](https://nvidia.github.io/TensorRT-LLM) · 组织维护
 
-**开发者在 NVIDIA GPU 上高效运行 LLM 推理的优化库**
+**面向开发者的 NVIDIA GPU 上 LLM/视觉生成推理优化库**
 
-NVIDIA 开源的 LLM 与视觉生成模型推理优化库：提供针对 attention、GEMM、MoE 等常见操作的定制 kernel，以及 Prefill-Decode 分离、Wide Expert Parallelism、Speculative Decoding 等运行时优化。基于 PyTorch 架构，提供高层 Python LLM API，覆盖单卡到多卡、多节点部署，内置多种并行策略，并可与 NVIDIA Dynamo 和 Triton Inference Server 集成；含 Python 和 C++ 运行时组件。Quick Start、安装指南、支持硬件与模型清单、性能基准文档均指向官方文档站点。
+TensorRT LLM 是开源的 LLM 与视觉生成模型推理优化库，基于 PyTorch 架构，提供高层 Python LLM API 与 C++ 运行时组件。核心机制包括针对注意力、GEMM、MoE 等常见操作的定制内核，以及 Prefill-Decode 分离、宽专家并行、投机解码等运行时优化，支持单卡到多卡、多节点部署，并与 NVIDIA Dynamo、Triton Inference Server 集成。限定在 NVIDIA GPU 上运行，提供预编译的 wheel 与容器（Jetson 分支）。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@ NVIDIA 开源的 LLM 与视觉生成模型推理优化库：提供针对 attenti
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -25,16 +25,17 @@ NVIDIA 开源的 LLM 与视觉生成模型推理优化库：提供针对 attenti
 
 ## 能力要点
 
-- 提供针对 attention/GEMM/MoE 等操作的定制 kernel 与运行时算法优化
-- 基于 PyTorch 的 Python LLM API，支持单 GPU 到多 GPU/多节点部署
-- 内置多种并行策略，可扩展、可用原生 PyTorch 代码自定义预定义模型
-- 支持扩散模型视觉生成，与 NVIDIA Dynamo 和 Triton Inference Server 集成
+- 基于 PyTorch 的高层 Python LLM API，支持单 GPU 到多节点部署
+- 定制内核覆盖注意力、GEMM、MoE 等常见推理操作
+- 运行时算法优化：Prefill-Decode 分离、专家并行、投机解码、KV Cache 压缩
+- 与 NVIDIA Dynamo 和 Triton Inference Server 集成
 
 ## 适用场景
 
-- 在 NVIDIA GPU 上部署 LLM 推理服务
-- 对 DeepSeek、Llama 等模型做多 GPU/多节点推理优化
-- 运行视觉生成（扩散模型）推理任务
+- 在 NVIDIA GPU 上部署高性能 LLM 推理服务
+- 构建多 GPU/多节点的大模型推理集群
+- 对 DeepSeek、Llama 等开源模型做推理加速
+- 通过 Triton Inference Server 部署优化后的模型
 
 ## 场景标签
 
@@ -42,9 +43,9 @@ NVIDIA 开源的 LLM 与视觉生成模型推理优化库：提供针对 attenti
 
 ## 证据(README 行号)
 
-> L263: TensorRT LLM is an open-sourced library for optimizing LLM and Visual Gen inference. It provides state-of-the-art 
-> L265: Architected on PyTorch, TensorRT LLM provides a high-level Python LLM API that supports a wide range of inference 
-> L267: TensorRT LLM is designed to be modular and easy to modify. Its PyTorch-native architecture allows developers to ex
+> L2:  TensorRT LLM optimizes inference for LLMs and Visual Gen models with specialized kernels for common operations, an 
+> L272: TensorRT LLM is an open-sourced library for optimizing LLM and Visual Gen inference. It provides state-of-the-art 
+> L274: Architected on PyTorch, TensorRT LLM provides a high-level Python LLM API that supports a wide range of inference 
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `42c4a84942df` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d32aa7a9e65b` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 6,047 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PawanOsman/OpenCursor) · [官网](https://marketplace.visualstudio.com/items?itemName=pkrd.ocursor) · 个人维护
 
-**开源的 VS Code AI 编程 agent 扩展，自带模型与变更审查**
+**VS Code 开源 AI 编码 agent 扩展：多模型接入的代理式编程助手**
 
-VS Code 扩展形式的 AI 编程 agent：在工作区内提供对话、代码探索、文件编辑、终端命令与变更审查（逐 hunk 审阅、Keep All/Undo All）。模型接入支持账号登录（Claude Code、Copilot 等）、API key（OpenAI、Anthropic、DeepSeek 等）、自定义 OpenAI/Anthropic 兼容端点，以及 Ollama 与 llama.cpp 本地推理；本地模式配设备端嵌入索引做语义检索。支持 MCP、钩子、子代理、Git worktree 与 Docker 执行等扩展机制。对话与密钥数据本地存储，需 VS Code 1.96+，MIT 许可。
+以 VS Code 扩展形式提供的 AI 编码 agent：在工作区内提供对话、文件读写与编辑、代码搜索、终端命令执行与变更审查，支持 Agent/Ask/Plan/Project/Multitask 等模式及权限控制。模型接入覆盖账户登录、API key、自定义兼容端点与本地推理（Ollama、llama.cpp/GGUF），支持多凭据负载均衡与故障转移；本地嵌入索引提供语义代码检索与文档索引。安装方式为 VS Code Marketplace 或 .vsix，源码构建需 Node.js 22 与 pnpm。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ VS Code 扩展形式的 AI 编程 agent：在工作区内提供对话、代码�
 
 ## 能力要点
 
-- Agent/Ask/Plan/Project/Multitask 五种模式，Agent 按配置权限执行变更
-- 多提供商接入：账号、API key、自定义端点、Ollama 与 llama.cpp 本地推理
-- 本地嵌入索引 + 词法匹配的语义代码检索，可离线工作
-- 变更逐 hunk 审阅与 Keep/Undo，MCP 与子代理支持
+- 多模型接入：账户登录、API provider、OpenAI/Anthropic 兼容端点与本地模型
+- 本地推理：管理 llama.cpp 运行时与 GGUF 模型、连接 Ollama，可离线工作
+- 本地嵌入语义检索，工作区文件与文档均建为可搜索索引
+- 变更审查流程：逐 hunk 检查、Keep All / Undo All、权限控制
 
 ## 适用场景
 
-- 在 VS Code 内用自带 API key 或本地模型进行 AI 辅助编程
-- 让 agent 在工作区内读改文件、跑命令并人工审查结果
-- 离线/本地环境下用 llama.cpp 或 Ollama 做推理与代码检索
+- 在 VS Code 内用自有 API key 或本地模型进行代理式编码
+- 离线环境下用本地模型完成代码编辑与语义搜索
+- 多 provider/多凭据间做负载均衡与故障转移
 
 ## 场景标签
 
-`编码 Agent` `代码审查` · 领域:编码与开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3: **An open-source AI coding agent for VS Code. Bring your models, work in your workspace, and stay in control of the 
 > L13: OpenCursor brings conversation, code exploration, file edits, terminal commands, and change review into your editor
-> L19: 3. **Choose a model and start a conversation.** Enable the models you want in **Models**, select one in the compose
+> L46: |**Local models**|Ollama and llama.cpp|Connect to Ollama or manage a llama.cpp runtime and GGUF models.|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `2e7697586185` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `e740f058c19e` · [字段定义](../../DATASET.md)*

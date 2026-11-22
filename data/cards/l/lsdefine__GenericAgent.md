@@ -2,21 +2,21 @@
 
 ⭐ 14,443 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lsdefine/GenericAgent) · [官网](https://github.com/lsdefine/GenericAgent) · 个人维护 · 中文 README
 
-**自进化 Agent 框架：从约3K行种子代码生长个人技能树**
+**自进化自主 agent 框架：LLM 接管电脑操作并沉淀技能**
 
-以约3K行种子代码、9个原子工具和约100行 Agent Loop 构成的自主 Agent 框架，赋予 LLM 对本地计算机的系统级控制，覆盖浏览器、终端、文件系统、键鼠输入、屏幕视觉与 ADB 移动设备。每次完成新任务会把执行路径固化为可复用 Skill，形成个人技能树；配套 L0-L4 分层记忆系统与 TUI/Streamlit/IM 多种前端。需配置 LLM API key，Python 限定 3.11/3.12。预置 SOP 以中文撰写，核心依赖刻意精简。
+以约 3K 行种子代码、9 个原子工具和约 100 行 Agent Loop 构成的自主 agent 框架，让接入的 LLM 控制本地系统的浏览器、终端、文件、键鼠、屏幕视觉与 ADB 移动设备。每次完成新任务会把执行路径固化为可复用 Skill，形成个人技能树；采用 L0-L4 分层记忆系统存储规则、事实、SOP 与会话归档。核心依赖仅 requests 等少量包，提供 TUI、Streamlit UI 及 Telegram/Discord/飞书等 IM 前端，需自行填写 LLM API key。预置 SOP 为中文。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -27,16 +27,17 @@
 
 ## 能力要点
 
-- 任务执行路径自动固化为可复用 Skill，形成个人技能树
-- 9 个原子工具 + 约100行核心 Agent Loop（agent_loop.py）
-- L0-L4 分层记忆系统沉淀经验与 SOP
-- 支持 Telegram/Discord/Lark 等 IM 前端接入
+- 9 个原子工具（code_run/file_read/web_scan 等）+ 约 100 行 Agent Loop
+- 任务执行路径自动结晶为 Skill，形成自进化技能树
+- L0-L4 分层记忆系统与 <30K 上下文窗口设计
+- 支持 TUI、Streamlit、Telegram/Discord/飞书等前端
 
 ## 适用场景
 
-- 让 Agent 代为操作浏览器与本地软件完成日常任务
-- 通过对话让 Agent 自动安装依赖并固化重复工作流
-- 用 ADB 驱动手机完成查账、发消息等操作
+- 让 agent 自动操作浏览器和桌面完成下单、报账等任务
+- 通过对话逐步解锁网页自动化、OCR、视觉、computer use 能力
+- 让 agent 安装依赖、写脚本并定时执行监控/摘要任务
+- 在 IM（Telegram/Discord/飞书）中远程驱动本地 agent
 
 ## 场景标签
 
@@ -45,7 +46,8 @@
 ## 证据(README 行号)
 
 > L23: **GenericAgent** is a minimal, self-evolving autonomous agent framework. Its core is just **~3K lines of code**. Th
-> L39: |🧬 **Self-Evolving**|Automatically crystallizes each task into a Skill. Capabilities grow with every use, forming y
+> L42: |🔌 **High Compatibility**|Supports Claude / Gemini / Kimi / MiniMax and other major models. Cross-platform.|
+> L98: Dependencies are deliberately tiered: the agent core needs only `requests`, plus four lightweight packages (`beauti
 
 ## 星数曲线
 
@@ -61,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `fb426637e9ed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `3688c52e79b6` · [字段定义](../../DATASET.md)*

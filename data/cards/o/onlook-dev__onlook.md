@@ -2,21 +2,21 @@
 
 ⭐ 27,695 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/onlook-dev/onlook) · [官网](https://onlook.com) · 组织维护 · 中文 README
 
-**给设计/前端工程师的开源可视化 AI 代码编辑器**
+**面向设计师的可视化代码设计工具：在真实代码上用 AI 编辑界面**
 
-面向 Next.js + TailwindCSS 项目的开源可视化编辑器：在浏览器 iFrame 中直接编辑 DOM 元素并映射回代码位置，支持从文本或图像起步创建应用、实时预览、图层浏览、分支试验设计、检查点保存恢复，以及带代码访问能力的 AI 聊天。架构上把代码加载进 web 容器运行，通过插桩把元素映射到代码位置，编辑同步回代码。README 明确当前聚焦 Next.js + Tailwind，非该栈的项目尚在待办中；托管托管版处于 early access。
+本地优先的桌面编辑器（Electron + React），打开本机任意 Git 仓库并运行用户的 dev server，在无限画布上以帧的形式实时呈现应用，支持多端尺寸并排、安全 worktree 副本与多项目标签页。设计改动由用户自行接入的 Claude Code 或 ChatGPT/Codex 账号对应的 agent 执行，编辑真实仓库文件，Git 记录变更；还提供画布外 HTML 草稿、一键 PR，以及导出为自包含 HTML/PNG/JPEG/PDF 的 Artifact。macOS 提供安装包，源码构建目前文档覆盖 Mac。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -25,26 +25,26 @@
 
 ## 能力要点
 
-- 可视化编辑 iFrame 元素并同步写回代码（插桩映射元素到代码位置）
-- AI 聊天具备代码读取与编辑工具
-- 分支机制用于试验设计变体，支持检查点保存与恢复
-- 架构声明可扩展到任何声明式 DOM 语言，目前聚焦 Next.js + TailwindCSS
+- 在真实仓库与本地 dev server 上设计，画布实时反映运行中的应用
+- 自带模型缺省：接入用户已有的 Claude Code 或 ChatGPT/Codex 账号执行编辑，并支持 MCP 连接器
+- 安全 worktree 副本，原文件夹不被改动；一键创建 PR
+- Artifact 导出为自包含 HTML、PNG、JPEG、PDF
 
 ## 适用场景
 
-- 在真实代码库上做可视化设计与样式调整
-- 从文本或图像快速生成 Next.js 原型
-- 在浏览器中拖拽调整布局并实时查看代码
+- 设计师直接在真实代码库上可视化管理界面样式
+- 在画布上通过对话让 agent 修改指定元素或整页布局
+- 快速产出 HTML/PNG 原型并分享给同事评审
 
 ## 场景标签
 
-`编码 Agent` `代码生成` · 领域:编码与开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L35: # An Open-Source, Visual-First Code Editor
-> L37: Craft websites, prototypes, and designs with AI in Next.js + TailwindCSS. Make
-> L152: - OpenRouter - LLM model provider
+> L6:  Onlook is a free, local-first editor where designers craft exceptional experiences in code
+> L38: - 🤖 **Bring your own agent.** We don't ship our own model. Connect the Claude Code or ChatGPT/Codex account you alr
+> L40: - 🖥️ **A desktop app, local-first.** Onlook runs on your computer. Your code stays on your computer, and the source
 
 ## 星数曲线
 
@@ -60,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `225022667bf2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8bda45bf30f7` · [字段定义](../../DATASET.md)*

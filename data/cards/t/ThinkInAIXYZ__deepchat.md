@@ -2,9 +2,9 @@
 
 ⭐ 6,407 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [官网](https://deepchat.thinkinai.xyz/) · 组织维护 · 中文 README
 
-**开源本地优先的 AI Agent 桌面客户端，聚合多云与本地模型**
+**开源本地优先 AI Agent 桌面客户端，统一管理模型与 Agent**
 
-基于 Electron 的跨平台（Windows/macOS/Linux）AI 桌面客户端，聚合 DeepSeek、OpenAI、Gemini、Anthropic 等云模型与本地 Ollama。按 Tape.systems 理念保存会话过程，使上下文、工具调用与结果可恢复、可追溯；支持可安装的 Skills（兼容 Claude Code、Cursor 等工具导入导出）、MCP（Resources/Prompts/Tools）、ACP 外部 agent 接入，以及通过 Telegram、飞书、QQBot、Discord、微信 iLink 远程控制会话。本地存储数据，Apache 2.0 许可。
+基于 Electron 的开源（Apache-2.0）AI 桌面客户端，将云 API 模型、本地 Ollama 模型、Skills、ACP Agent 运行时与会话 Tape 汇聚在同一桌面应用中。会话按 Tape.systems 理念保留可恢复、可追溯的工作历史；支持 MCP 协议（Resources/Prompts/Tools、多种传输）、可安装的 Skills（兼容 Claude Code/Codex/Cursor 等格式导入导出）、以及从 Telegram/飞书/QQBot/Discord/微信 iLink 远程控制会话。提供 Windows/macOS/Linux 安装包，支持 API key 与本地 Ollama 两种模型接入方式。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- Tape/Trace 会话记录：可恢复、可追溯、可查看 token 预算
-- Skills 安装/导入导出，兼容 Claude Code、Cursor、Windsurf 等工具
-- MCP 全量支持（Resources/Prompts/Tools、多传输方式、DeepLink 一键安装）
-- 通过 Telegram、飞书、QQBot、Discord、微信 iLink 远程控制会话
+- 统一接入数十家云模型提供商与本地 Ollama 管理
+- 支持 MCP 协议与按会话启用的 Skills 安装/导入导出
+- ACP Agent 以模型选择器一等条目方式集成
+- Tape 会话记录支持恢复、追踪与 token 预算查看
 
 ## 适用场景
 
-- 在一个桌面应用内统一使用多家云模型和本地 Ollama 模型
-- 通过消息应用远程控制家中/办公电脑上的 AI 会话
-- 在长时运行的 agent 会话中保存并回溯工作过程
-- 为代码评审、文档、Office/PDF 等任务安装领域 Skills
+- 在一个桌面应用中同时使用云端 API 与本地模型对话
+- 为代码审查、文档、Office/PDF 等任务安装可复用 Skills
+- 通过 Telegram/飞书等消息应用远程操控桌面会话
 
 ## 场景标签
 
@@ -38,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L48: DeepChat is a powerful open-source, local-first AI agent desktop client that brings together models, tools, Skills,
-> L50: DeepChat's sessions and agent processes follow the Tape.systems philosophy: keep the process, so context, tool call
-> L103: ### Start Conversations
+> L24: DeepChat is a powerful open-source, local-first AI agent desktop client that brings together models, tools, Skills,
+> L40: - **Strong MCP Support**: Support Resources, Prompts, Tools, multiple transports, inMemory services, and one-click 
+> L103: - 🌐 **Multiple Cloud LLM Provider Support**: DeepSeek, OpenAI, Moonshot/Kimi, Grok, Gemini, Anthropic, and more
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `c133a71205a7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `05a7b12531fd` · [字段定义](../../DATASET.md)*

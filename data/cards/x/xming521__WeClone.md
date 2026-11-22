@@ -2,9 +2,9 @@
 
 ⭐ 18,422 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/xming521/WeClone) · [官网](https://weclone.love) · 个人维护 · 中文 README
 
-**用聊天记录微调 LLM 打造个人数字分身并接入聊天机器人**
+**从聊天记录构建个人生活画像，供个人助手与数字分身使用**
 
-端到端数字分身流水线：从 Telegram 导出聊天记录（JSON/图片），经预处理去除手机号、邮箱、IP 等隐私信息，再用 LoRA/QLoRA 等方法以 Qwen2.5-VL-7B-Instruct（默认）微调 LLM，支持图像模态数据；推理以 OpenAI 兼容 API 服务提供，可接入 AstrBot、LangBot 部署到 Discord/Telegram/Slack/微信等平台。数据支持加密存储，默认微调后不支持工具调用。Windows 未严格测试，建议 WSL。
+从个人数字生活（当前支持 Telegram 导出的文本聊天）中提取、组织并总结生活画像，按工作、家庭、健康等领域组织，每条事实可溯源、可审阅、可编辑，存储默认本地加密。画像可通过 MCP 或导出文本供 Claude Code、Codex 等个人助手作为长期记忆使用；另保留原有微调工作流：在聊天记录上以 LoRA 微调开源模型，经 AstrBot 或 LangBot 部署到聊天平台，训练前用 Microsoft Presidio 过滤个人信息。画像提取目前仅支持中文，英文聊天未经测试。
 
 ## 筛选速览
 
@@ -13,10 +13,10 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -27,26 +27,26 @@
 
 ## 能力要点
 
-- 聊天数据导出→预处理→训练→部署的完整流程（CLI 驱动）
-- 默认 Qwen2.5-VL-7B-Instruct + LoRA SFT，支持图像模态微调
-- Microsoft Presidio 隐私过滤 + blocked_words 黑名单 + 加密存储模式
-- 多卡训练（DeepSpeed）与按模型大小/精度的显存需求表
+- build-profile 一条命令提取并组织生活画像，Web UI 逐条审阅
+- 画像通过 MCP 供个人助手读取，按领域与隐私级别控制访问
+- LoRA 微调聊天记录生成数字分身，经 AstrBot/LangBot 接入聊天平台
+- 179 项十类说话风格分析；默认本地加密存储
 
 ## 适用场景
 
-- 用自己的 Telegram 聊天记录微调出个人风格的对话模型
-- 把数字分身接入 Telegram/Discord/微信等 IM 机器人
-- 本地化训练与部署聊天数据以控制隐私
+- 把自己的聊天记录整理成可供 AI 助手查阅的个人画像
+- 微调一个模仿自己说话风格的分身并部署到 Telegram 等平台
+- 按隐私级别控制助手能读取哪些个人信息
 
 ## 场景标签
 
-`聊天机器人` `微调` · 领域:对话与助手
+`Agent 记忆` `微调` `AI 助手` `聊天机器人` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L24: - 💫 Complete end-to-end solution for creating digital avatars, including chat data export, preprocessing, model tra
-> L25: - 💬 Fine-tune LLM using chat history with support for image modal data, infusing it with that authentic "flavor"
-> L46: |WeChat (Personal Account)|✅ (Based on **openclaw-weixin**)|
+> L22: WeClone distills your identity, goals, preferences and current situation from your digital life into a life portrai
+> L33: - 🎭 **Your own AI clone**: fine-tune an open model on your chat history and deploy it to Telegram, Discord, Slack, 
+> L34: - 🧠 **Connect personal assistants**: Claude Code, Codex, dots, Muse, Grok Bot and other personal assistants use you
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `cb8b5769cc65` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `391f7fc68609` · [字段定义](../../DATASET.md)*

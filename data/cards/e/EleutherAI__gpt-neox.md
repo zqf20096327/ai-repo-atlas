@@ -2,9 +2,9 @@
 
 ⭐ 7,475 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/EleutherAI/gpt-neox) · [官网](https://www.eleuther.ai/) · 组织维护
 
-**GPU 上大规模自回归语言模型的分布式训练库**
+**基于 Megatron/DeepSpeed 的大规模自回归语言模型 GPU 训练库**
 
-EleutherAI 维护的大语言模型训练框架，基于 NVIDIA Megatron 并引入 DeepSpeed 技术，支持 ZeRO 与 3D 并行、rotary/alibi 位置编码、flash attention、课程学习，预置 Pythia/PaLM/Falcon/LLaMA 等架构配置。面向从零训练数十亿参数模型的研究与工程团队，40+ 组织曾用于训练 50+ 个模型；README 明确提示通用推理需求应改用 Hugging Face transformers。支持 Slurm/MPI/IBM JSM 多节点启动、NVIDIA 与 AMD GPU，提供 Docker/Apptainer 容器。
+EleutherAI 用于在 GPU 上训练数十亿参数自回归语言模型的训练库，基于 NVIDIA Megatron 并融合 DeepSpeed 技术与自有优化。核心机制包括 ZeRO 与 3D 并行的分布式训练、rotary/alibi 位置编码与 flash attention、Pythia/PaLM/Falcon/LLaMA 预定义配置，以及 Slurm/MPI/pdsh 等多节点启动方式。已用于训练 Pythia、StableLM、RedPajama-INCITE 等 50 多个模型。README 明确说明不面向通用推理场景，仅用于从零训练大模型。
 
 ## 筛选速览
 
@@ -21,15 +21,15 @@ EleutherAI 维护的大语言模型训练框架，基于 NVIDIA Megatron 并引�
 ## 能力要点
 
 - ZeRO 与 3D 并行的分布式训练
-- 预置 Pythia/PaLM/Falcon/LLaMA 架构配置
-- Slurm/MPI/pdsh 多节点启动，兼容 NVIDIA 与 AMD GPU
-- 提供 Docker 与 Apptainer 容器化运行方式
+- 支持 Slurm、MPI、IBM Job Step Manager 等启动方式
+- 在 NVIDIA 与 AMD GPU 上运行，内置 JIT 融合内核编译
+- 提供 Pythia/PaLM/Falcon/LLaMA 预定义配置与 LM Evaluation Harness 评估
 
 ## 适用场景
 
-- 在 GPU 集群上从零预训练数十亿参数语言模型
-- 复现 Pythia 等已有训练套件的实验配置
-- 在 Slurm/HPC 环境中编排多节点训练任务
+- 从零预训练数十亿参数的自回归语言模型
+- 在多节点 GPU 集群上运行大规模训练作业
+- 研究大模型架构配置与课程学习策略
 
 ## 场景标签
 
@@ -38,6 +38,7 @@ EleutherAI 维护的大语言模型训练框架，基于 NVIDIA Megatron 并引�
 ## 证据(README 行号)
 
 > L6: This repository records EleutherAI's library for training large-scale language models on GPUs. Our current framework
+> L15: * Distributed training with ZeRO and 3D parallelism
 > L10: **If you are not looking to train models with billions of parameters from scratch, this is likely the wrong library
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `34262c72613f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `379f64a65e5a` · [字段定义](../../DATASET.md)*

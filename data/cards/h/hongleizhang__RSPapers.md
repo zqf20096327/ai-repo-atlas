@@ -1,10 +1,10 @@
 # hongleizhang/RSPapers
 
-⭐ 6,514 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hongleizhang/RSPapers) · 个人维护 · 中文 README
+⭐ 6,514 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hongleizhang/RSPapers) · 个人维护
 
-**推荐系统必读论文与教程策展清单，18 个主题分类**
+**推荐系统必读论文与教程的策展清单**
 
-由个人维护的推荐系统（RS）论文精选清单，收录教程、综述与研究论文，按 18 个主题组织：Tutorials、Surveys、General RS、Social RS、Deep Learning-based RS、Cold Start、POI RS、Efficient RS、EE Problem、Explainability、CTR Prediction、Knowledge Graph for RS、Review based RS、Conversational RS、Industrial RS、Privacy&Security RS、LLM for RS、Agentic RS。条目为『作者、论文标题、会议/期刊、年份』格式，部分附 pdf 链接；通过 pull request 按模板贡献。
+按 17 个主题组织推荐系统论文与教程：包括顶会教程汇总、综述，以及通用/社交/深度学习/冷启动/效率/可解释性/CTR 预测/知识图谱/对话式/工业界/隐私安全/LLM/Agentic RS 等分类条目，每条按「作者、论文名、会议/期刊、年份」格式收录。面向从事推荐系统研究与学习的读者，通过 pull request 按模板贡献补充条目。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 覆盖 18 个推荐系统研究主题的论文分类组织
-- 收录从 1992 年 GroupLens 到 2024 年 LLM for RS 的论文脉络
-- 包含各顶会教程（RecSys/SIGIR/WWW/CIKM/IJCAI 等）
-- 以固定 markdown 模板通过 pull request 接受贡献
+- 17 个主题分类组织论文与教程
+- 含顶会教程汇总与综述专类
+- 新增 LLM for RS 与 Agentic RS 章节
+- 模板化 PR 机制接受社区补充
 
 ## 适用场景
 
-- 系统性地阅读推荐系统领域必读论文
-- 按子方向（如冷启动、可解释性、知识图谱）查找文献
-- 跟踪 LLM 与 agent 在推荐系统中的研究进展
+- 系统学习推荐系统领域的经典与前沿论文
+- 为综述写作收集某一子方向文献
+- 了解 LLM 与 Agent 在推荐系统中的研究进展
 
 ## 场景标签
 
-`精选清单` `推荐系统` `科研工具` · 领域:学习与行业
+`推荐系统` `教程课程` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L1: # Must-read papers on Recommender System
 > L5: This repository provides a curated list of papers and tutorials about Recommender Systems (RS) including systematic 
-> L15: **00-Tutorials:** contain so many tutorials on recommendation systems given by prominent researchers at many top-ti
+> L48: **16-LLM for RS:** some papers about large language models in recommder systems.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `34e709570f5f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5fd5304821de` · [字段定义](../../DATASET.md)*

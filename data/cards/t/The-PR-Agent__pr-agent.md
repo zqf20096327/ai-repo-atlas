@@ -1,10 +1,10 @@
 # The-PR-Agent/pr-agent
 
-⭐ 16,531 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/The-PR-Agent/pr-agent) · [官网](https://www.pr-agent.ai)
+⭐ 16,531 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/The-PR-Agent/pr-agent) · [官网](https://www.pr-agent.ai) · 组织维护
 
-**面向开发团队的 AI 代码审查 agent，自动审查 PR**
+**面向开发团队的 AI 代码审查 Agent，自动化 PR 评审与描述生成**
 
-PR-Agent 是开源的 AI 代码审查 agent，已在 GitHub 上由 Qodo 捐赠给开源社区，现为社区维护项目，与 Qodo 商业产品相区分。核心工具包括 /describe、/review、/improve、/ask，以 PR 评论或 CLI 方式触发，每个工具使用单次 LLM 调用（约 30 秒）。支持 GitHub、GitLab、BitBucket、Azure DevOps、Gitea 平台，通过 PR Compression 策略处理大小 PR，基于 JSON 的提示词可经配置文件自定义。部署途径含 GitHub Action、CLI、Docker、自托管 webhook。
+PR-Agent 是一个开源的 AI 代码审查代理，通过在 PR 上评论或 CLI 调用命令（/describe、/review、/improve、/ask 等）自动生成 PR 描述、执行代码审查与改进建议。采用 PR 压缩策略处理大小 PR，支持 JSON 配置自定义提示词。可通过 GitHub Action、CLI、Docker、webhook 等方式部署，支持 GitHub、GitLab、BitBucket、Azure DevOps、Gitea 平台。该项目原为 Qodo 开源项目，现已捐赠给社区维护；注意其与 Qodo 商业产品是不同的项目。/help_docs 功能自 v0.36.1 起临时停用。
 
 ## 筛选速览
 
@@ -26,17 +26,16 @@ PR-Agent 是开源的 AI 代码审查 agent，已在 GitHub 上由 Qodo 捐赠�
 
 ## 能力要点
 
-- /review、/improve、/describe、/ask 等工具以 PR 评论或 CLI 方式运行
-- PR Compression 策略处理任意规模的 PR
-- JSON 提示词经配置文件自定义审查类别与行为
-- 支持 GitHub/GitLab/BitBucket/Azure DevOps/Gitea 与多种部署方式
+- PR 评论命令式交互：/describe、/review、/improve 等命令
+- PR Compression 策略处理任意大小的 PR
+- 支持 GitHub/GitLab/BitBucket/Azure DevOps/Gitea 多平台
+- JSON 配置文件自定义审查类别与行为
 
 ## 适用场景
 
-- 为仓库配置 GitHub Action 自动审查每个 PR
-- 本地对指定 PR 运行 review/improve 命令
-- 在自托管环境中控制代码数据的流向
-- 通过评论命令向 AI 询问 PR 相关问题
+- 在 GitHub 仓库中通过 Action 自动审查每个 PR
+- 本地开发时用 CLI 快速分析某个 PR
+- 自托管部署以掌控代码数据与基础设施
 
 ## 场景标签
 
@@ -44,9 +43,8 @@ PR-Agent 是开源的 AI 代码审查 agent，已在 GitHub 上由 Qodo 捐赠�
 
 ## 证据(README 行号)
 
-> L9:  This repository contains the open-source PR Agent Project.
-> L12: PR-Agent is an open-source, AI-powered code review agent and a community-maintained legacy project of Qodo. It is d
-> L72: - **AI Models**: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral, and any other model reachable thro
+> L33: PR-Agent is an open-source, AI-powered code review agent and a community-maintained legacy project of Qodo. It is d
+> L94: - **AI Models**: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral, and any other model reachable thro
 
 ## 星数曲线
 
@@ -62,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `24b508d8cd47` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b3f137b0ad16` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,900 · 推送 2026-11-21 · [GitHub](https://github.com/BoltzmannEntropy/interviews.ai) · [官网](https://interviews.ai) · 个人维护
 
-**面向研究生与求职者的深度学习面试题解书（数百道完整解答）**
+**为深度学习求职者与研究生提供带完整解答的面试题集**
 
-《Deep Learning Interviews》一书，收录数百道带完整逐步解答的 AI/深度学习面试题，覆盖信息论、贝叶斯深度学习、逻辑回归、集成学习、特征提取与深度学习等核心主题，部分章节配有 PyTorch、Python 与 C++ 代码示例。目标读者为有量化背景的研究生与数据科学求职者，也可用于机器学习硕博考试复习。第二版提供免费 PDF（arXiv），纸质版经 Amazon 销售，禁止出售或商用其内容；另有含扩散模型与 LLM 新章节的第三版在编写中，尚未发售。
+《Deep Learning Interviews》是一本面向深度学习岗位面试与研究生水平考试的问题集：第二版可在 arXiv 免费获取 PDF 并有纸质版销售，第三版（582 题、21 章、124 图）尚在编写中，新增扩散模型、大语言模型及训练与部署工程内容。每道题附编号公式推导的完整解答，题目按难度（easy/standard/hard）与角色（core/reinforcement/transfer/advanced）标注。第二版覆盖信息论、贝叶斯深度学习、集成学习、特征提取等主题，含 PyTorch/Python/C++ 代码示例，并发布多轮勘误。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 数百道带逐步推导的完整解答面试题（约 400 页）
-- 覆盖信息论、贝叶斯统计、微积分与自动微分等数学基础
-- 部分章节含 PyTorch、Python 与 C++ 代码示例
-- 第二版免费 PDF 可供个人学习使用
+- 582 道已解答题（第三版），每题附完整推导与解答
+- 题目按难度与角色（core/reinforcement/transfer/advanced）标注
+- 第二版 PDF 免费发布于 arXiv，纸质版经 Amazon 销售
+- 覆盖扩散模型、KV cache、大语言模型等第三版新增主题
 
 ## 适用场景
 
-- 准备深度学习/数据科学岗位的技术面试
-- 机器学习硕博课程的考试复习
-- 系统梳理深度学习数学基础的参考资料
+- 准备深度学习岗位的技术面试
+- 研究生课程的复习与考试准备
+- 按核心题优先的策略在面试临近时集中训练
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L1: Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in A
-> L95: This book (www.interviews.ai) was written for you: an aspiring data scientist with a quantitative background, facin
-> L100: The second edition of Deep Learning Interviews (The Amazon Softcover is printed in B&W) is home to hundreds of ful
+> L14: *Deep Learning Interviews* is a problem book for people who prepare for deep learning job interviews and graduate-l
+> L38: |**Problems**|582, every one with a full solution derived in numbered equations|
+> L49: |**Level**|easy, standard, hard|An easy problem asks for one idea in a short calculation. A hard problem combines s
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `a42d532af35f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1ac6436a3df6` · [字段定义](../../DATASET.md)*

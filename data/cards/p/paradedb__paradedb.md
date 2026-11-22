@@ -2,9 +2,9 @@
 
 ⭐ 9,554 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/paradedb/paradedb) · [官网](https://paradedb.com) · 组织维护
 
-**Postgres 扩展：全文检索、向量检索与分析聚合一体化**
+**给 Postgres 提供全文/向量检索与分析的扩展**
 
-以 Postgres 扩展形式在数据库内提供 BM25 全文检索、向量与混合检索、过滤、分面、列式存储聚合和 JOIN 能力，使应用数据与搜索引擎共用一个数据库，走标准 SQL 与 ACID 事务。底层集成 pgrx、Tantivy 与 Apache DataFusion 等 Rust 库。面向需要检索与分析能力的 Postgres 使用者，提供 Docker 一键启动、云托管与自托管部署选项，支持主流 ORM 与 AI Agent（MCP、Cursor 插件）集成。社区版采用 AGPLv3 许可，并提供商业许可渠道。
+ParadeDB 是一个 Postgres 扩展（pg_search），通过自定义索引在单一数据库内提供全文检索、向量检索、混合检索、BM25 评分、过滤、分面、聚合与 JOIN，保留标准 SQL 与 ACID 事务。内部依赖 pgrx、Tantivy、Apache DataFusion。本地以 Docker 脚本安装运行，亦提供云托管与自托管部署；另提供 ORM 集成与 AI Agent 相关入口（Agent Skills、MCP、Cursor 插件）。AGPL v3 许可，另有企业支持与商业授权渠道。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Postgres 内置 BM25 全文检索、向量与混合检索
-- 列式存储聚合、分面、过滤与 JOIN
-- 集成 Tantivy 与 Apache DataFusion 的 Rust 实现
-- 提供 ORM 集成与 MCP、Cursor 插件等 AI Agent 接入
+- pg_search 扩展：BM25 全文检索、Top K、高亮、分词器
+- 向量检索与混合检索，应用数据与搜索引擎同库
+- 列式存储与 OLAP 聚合（Apache DataFusion）
+- 与 Django/SQLAlchemy/Rails 等 ORM 集成，提供 MCP 与 Cursor 插件
 
 ## 适用场景
 
-- 在 Postgres 中直接做全文与向量混合检索，避免外置搜索引擎
-- RAG 应用中用同一数据库管理业务数据与向量召回
-- 在库内完成分析聚合与分面统计
+- 在 Postgres 内实现应用数据的全文与向量检索
+- 用 SQL 做 BM25 评分、过滤与分面搜索
+- 同一数据库承担 OLTP 与 OLAP 分析负载
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L8:  One Postgres for your application data, full-text search, vector retrieval, and aggregations.
 > L33: ParadeDB upgrades Postgres with a custom index for fast full-text and vector search, BM25 scoring, filters, facets,
+> L74: ### AI Agents
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `98325a42c178` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b6a27c27671e` · [字段定义](../../DATASET.md)*

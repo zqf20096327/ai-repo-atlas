@@ -2,9 +2,9 @@
 
 ⭐ 6,308 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/HelixDB/helix-db) · [官网](https://helix-db.com) · 组织维护
 
-**Rust 编写的图数据库，内置向量与 BM25 全文检索，面向 AI/RAG 应用**
+**面向 AI 应用的内置向量与全文检索的 Rust 图数据库**
 
-Apache 2.0 开源图数据库，以标记属性图存储实体、关系、嵌入与文本，在同一事务引擎中提供近似最近邻向量检索（可由图遍历预过滤）与 BM25 全文搜索。以对象存储为持久层，支持嵌入式模式与独立服务器，通过 HTTP 端点查询，提供 Rust、TypeScript、Python、Go 四种 SDK；源码构建另支持 Cypher 读写。另有托管版 Helix Cloud。本地实例启动依赖 Docker 或 Podman，CLI 提供 macOS/Linux 与 Windows 安装脚本。
+HelixDB 是一个开源（Apache 2.0）的 OLTP 图数据库，用 Rust 编写、基于对象存储，原生集成向量近似最近邻搜索与 BM25 全文检索，可在同一事务引擎中存储实体、关系、嵌入与文本。README 给出的用途是 AI 应用的记忆与检索：长期 agent 记忆、GraphRAG/混合 RAG 和内部知识图谱；向量搜索可被图遍历预过滤。通过 CLI 安装，本地实例依赖 Docker 或 Podman，也支持嵌入式运行与 Helix Cloud 托管部署，提供 Rust/TypeScript/Python/Go 四种 SDK。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Apache 2.0 开源图数据库，以标记属性图存储实体、关系、嵌入
 
 ## 能力要点
 
-- 图、向量、BM25 全文检索统一在单一事务引擎
-- 以对象存储为持久层的 Rust 实现，支持嵌入式模式
-- Rust/TypeScript/Python/Go 四语言 SDK，同一 JSON 请求格式
-- helix chef 命令将项目搭建移交给本机发现的编码 agent（Claude Code/Codex/OpenCode/Cursor）
+- 同一事务引擎内组合图遍历、向量相似度与 BM25 关键词搜索
+- 向量作为节点/边属性原生索引，支持图遍历预过滤
+- 提供 helix chef：安装查询技能与 docs MCP 并交由编码 agent 脚手架构建
+- 支持嵌入式、本地/自托管服务器与 Helix Cloud 三种运行方式，共享同一套 SDK
 
 ## 适用场景
 
-- 为 RAG 应用存储嵌入并做图遍历预过滤的向量检索
-- 在图中同时建模实体关系与文本属性并统一查询
-- 嵌入式模式在自有进程内运行数据库，无需独立服务器
+- 为 agent 构建长期记忆与知识图谱存储
+- 搭建 GraphRAG 或混合 RAG 检索后端
+- 把文档、人员、工具与决策关联成内部知识图谱
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Apache 2.0 开源图数据库，以标记属性图存储实体、关系、嵌入
 ## 证据(README 行号)
 
 > L17: HelixDB is an open-source (Apache 2.0) graph database with native vector search and BM25
-> L18: full-text search, built in Rust on object storage. Store entities, relationships, embeddings,
+> L170: Memory and retrieval for AI applications: long-term agent memory, GraphRAG and hybrid RAG, and
+> L78: Write queries with an SDK and send them to a running instance through `POST /v2/query`. There is
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `47462c036222` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `26fc4a369fea` · [字段定义](../../DATASET.md)*

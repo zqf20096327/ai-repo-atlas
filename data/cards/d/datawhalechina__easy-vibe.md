@@ -2,9 +2,9 @@
 
 ⭐ 20,486 · JavaScript · 推送 2026-10-22 · [GitHub](https://github.com/datawhalechina/easy-vibe) · [官网](https://datawhalechina.github.io/easy-vibe/) · 组织维护 · 中文 README
 
-**面向零基础学习者的 Vibe Coding 产品实战教程**
+**零基础到开发者的 Vibe Coding 产品实战教程**
 
-Datawhale 维护的 AI 编程（Vibe Coding）开源教程：从想法验证、AI 工具上手、产品原型，到全栈开发、部署计费与 Claude Code/MCP/Agent 高级工作流，分阶段提供路线图与讲解，并附 9 大知识领域、80+ 交互主题的附录知识库。教程内容支持 10 种语言，覆盖完全新手、产品经理/创始人、学生与各阶段开发者；提供在线阅读与交互式演示（Prompt 实验、RAG 流程等），学习者可通过 PR 提交自己的作品案例。
+Datawhale 出品的 Vibe Coding 在线教程，按三阶段组织：产品原型（从需求发现到 AI 能力集成）、全栈开发（前端、数据库、后端、部署、计费）、进阶工作流（Claude Code、MCP、Skills、Agent Teams），附 9 大知识领域附录与用户研究方法。提供交互式组件演示 RAG 数据流与 AI 原理，内容覆盖 10 种语言。面向零基础学习者、产品经理、创始人与初中级开发者，README 未提供本地安装步骤，仅有在线阅读入口。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@ Datawhale 维护的 AI 编程（Vibe Coding）开源教程：从想法验证、A
 
 ## 能力要点
 
-- 分阶段学习路径：原型→全栈→Claude Code/Agent 高级工作流
-- 附录知识库覆盖 9 大领域、80+ 交互主题
-- 10 种语言全覆盖的教程内容
-- 提供交互式演示（Prompt 实验、RAG 数据流、终端概念可视化）
+- 三阶段学习路线：原型、全栈、Claude Code/Agent 进阶
+- 交互式教程组件：RAG 数据流点击演示、AI 原理动画、虚拟鼠标 IDE 引导
+- 提供 llms.txt 供 OpenClaw/Claude/Cursor 等 agent 读取仓库结构
+- 教程内容覆盖 10 种语言
 
 ## 适用场景
 
-- 零基础第一次用 AI 做出自己的产品原型
-- 产品经理/创始人低成本验证想法并搭 MVP
-- 开发者学习 Claude Code、MCP 与 Agent 工作流
-- 遇到概念阻塞时查阅基础知识库
+- 零基础从想法走到可演示的产品原型
+- 产品经理/创始人低成本验证想法并搭建 MVP
+- 学习 Claude Code、MCP、Skills 等 agent 开发工作流
+- 查阅计算机基础与 AI 原理参考知识库
 
 ## 场景标签
 
@@ -46,8 +46,8 @@ Datawhale 维护的 AI 编程（Vibe Coding）开源教程：从想法验证、A
 ## 证据(README 行号)
 
 > L3:  A hands-on Vibe Coding guide chosen by tens of thousands of learners.
-> L82: ## Table of Contents
-> L133: ## Your Learning Paths
+> L94: ## Table of Contents
+> L168: ### AI-Native: I want advanced Claude Code and agent workflows
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `604ad1f5bb26` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `d2cb8b5b2dd9` · [字段定义](../../DATASET.md)*

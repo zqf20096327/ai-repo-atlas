@@ -2,19 +2,19 @@
 
 ⭐ 13,763 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
 
-**全本地开源语音 agent 服务：一条命令起对话，免 API key**
+**本地全开源模型搭建低延迟语音对话 agent 的运行时**
 
-Hugging Face 维护的低延迟语音 agent 服务：默认流水线为 Silero VAD → Parakeet TDT → Qwen3.5-4B → Qwen3-TTS，各阶段后端均可通过 CLI 替换，含大量 STT/LLM/TTS 备选。模型全部本地运行，首次运行后可离线工作；服务器通过 WebSocket/WebRTC 说 OpenAI Realtime 协议，使为 OpenAI Realtime API 构建的应用可指向自托管机器。该流水线已在数千台 Reachy Mini 机器人上作为对话后端运行。限制：Linux 默认 Qwen3-TTS wheel 面向 CUDA 12.8 与 Ubuntu 24.04；Windows 不在兼容矩阵内；Python 需 3.11–3.14。
+以 Python 包形式提供的语音 agent 框架：默认流水线为 Silero VAD → Parakeet TDT → Qwen3.5-4B → Qwen3-TTS，四个阶段各自线程化、经队列相连，且每一级均可通过 CLI 旗标替换后端。服务器以 WebSocket/WebRTC 讲 OpenAI Realtime 协议，面向 OpenAI Realtime API 编写的客户端可指向本机自托管实例，无需 API key 与云服务；也支持 LiveKit Agents 与 OpenAI Agents SDK 接入。默认安装覆盖 macOS/Linux，Windows 未列入兼容矩阵；Linux 的默认 TTS wheel 依赖 CUDA 12.8 与 Ubuntu 24.04。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
@@ -27,26 +27,27 @@ Hugging Face 维护的低延迟语音 agent 服务：默认流水线为 Silero V
 
 ## 能力要点
 
-- 默认四段流水线（VAD/STT/LLM/TTS）各阶段后端可互换
-- 全本地运行，无 API key、无云服务，首次运行后离线可用
-- 服务器说 OpenAI Realtime 协议（WebSocket/WebRTC），兼容 OpenAI Realtime 客户端与 LiveKit Agents
-- 支持 YAML 配置 API、语音到音素（viseme）提取、说话人分离、本地工具调用
+- 一条命令启动本地语音对话，无需 API key 与云服务，首跑后可离线运行
+- VAD/STT/LLM/TTS 四级流水线，每级提供多个可互换后端（表格列出 30+ 组合）
+- 服务器实现 OpenAI Realtime 协议，兼容 OpenAI Agents SDK 与 LiveKit Agents
+- 按平台自动选模型：Apple Silicon 走 MLX，NVIDIA GPU 走 Transformers，其余走 CPU
 
 ## 适用场景
 
-- 在本机一条命令启动可对话的语音助手，不依赖云服务
-- 把为 OpenAI Realtime API 构建的应用/设备端点切到自托管服务器
-- 为机器人或 avatar 客户端提供带口型时序的实时语音对话后端
+- 在自己电脑上跑一套完全本地的语音助手对话
+- 把现有 OpenAI Realtime 客户端切换到自托管服务器
+- 为机器人或头像应用提供语音对话后端（README 提及用于 Reachy Mini）
+- 按需替换 STT/LLM/TTS 各级模型做语音 agent 实验
 
 ## 场景标签
 
-`语音 Agent` · 领域:对话与助手
+`语音 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L11: A low-latency voice agent built from open models that **runs entirely on your computer**. One command starts a conv
 > L13: The default pipeline is **Silero VAD → Parakeet TDT → Qwen3.5-4B → Qwen3-TTS**, and every stage is swappable. The s
-> L92: 3. **Language Model (LLM)**: generates the response, streaming text and tool calls.
+> L92: - any client using the core OpenAI Realtime events; the OpenAI Agents SDK is tested over both transports (see Realt
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `9a68c6bbbeb7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `8de2126be6c5` · [字段定义](../../DATASET.md)*

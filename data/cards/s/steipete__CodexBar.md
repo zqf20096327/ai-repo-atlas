@@ -2,9 +2,9 @@
 
 ⭐ 23,261 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/steipete/CodexBar) · [官网](https://codex.bar) · 个人维护
 
-**macOS 菜单栏/Linux 桌面应用：集中显示 106 个 AI 编程服务的用量与限额**
+**在菜单栏显示各 AI 编程服务商用量与重置时间的工具**
 
-面向使用多家 AI 编程服务的开发者：在 macOS 14+ 菜单栏（或 Qt 6 Linux 桌面应用/Omarchy 部件）中常驻显示各服务的会话、周/月用量窗口与重置倒计时，支持信用余额、花费面板、提供商状态轮询与事故徽标。认证复用已有会话（OAuth、API key、浏览器 cookie、本地文件），不存储密码。macOS 经 Homebrew cask 或 GitHub Releases 安装，Linux 需 glibc 2.39+、Qt 6.4+ 与另行安装的 CLI。
+面向 AI 编程服务用户的状态监测工具，以 macOS 菜单栏应用或 Linux 桌面应用/CLI 形式运行，覆盖 115 个 provider 的会话、周、月用量窗口与重置倒计时，并读取余额、消费与账单数据。复用已有的 OAuth、API key、浏览器 cookie、本地文件等会话来源，不存储密码；支持状态轮询出事故徽标、每 provider 独立图标或合并模式。macOS 需 14+，Linux 桌面版依赖 Qt 6.4+ 与 glibc 2.39+。
 
 ## 筛选速览
 
@@ -26,24 +26,23 @@
 
 ## 能力要点
 
-- 106 个提供商的限额/用量窗口与重置倒计时
-- 复用已有会话认证（OAuth/API key/浏览器 cookie/本地文件），不存密码
-- Admin API 花费面板、信用余额与提供商状态轮询
-- macOS（Homebrew cask）与 Linux 桌面（x86_64/ARM64，含 musl 静态包）双平台
+- 监测 115 个 AI 编程服务商的用量与重置窗口
+- 复用已有会话（OAuth/API key/cookie/本地文件），不存储密码
+- 提供菜单栏应用、Linux 桌面应用与 CLI 三种形态
+- 支持余额/消费追踪与 API key 的 CLI 配置
 
 ## 适用场景
 
-- 同时订阅多个 AI 编程服务，想在菜单栏一眼看到各家剩余额度
-- 长任务前确认限额窗口与重置时间
-- 通过 CLI 脚本批量配置提供商与 API key
+- 规划长任务前确认各服务商额度何时重置
+- 同时使用多个 AI 编程订阅时统一查看用量
+- 追踪各家 API 余额与月度消费
 
 ## 场景标签
 
- · 领域:AI 编程服务监控/开发者工具
+ · 领域:开发者工具/AI 服务用量监控
 
 ## 证据(README 行号)
 
-> L13: CodexBar — every AI coding limit in your menu bar. 106 providers.
 > L15: Tiny macOS 14+ menu bar app that keeps **AI coding-provider limits visible** and shows when each window resets. See
 > L23: - **Plan around resets.** Per-provider session, weekly, and monthly windows with countdowns to the next reset — sto
 
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `890976b21c7b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b5637bda8cc0` · [字段定义](../../DATASET.md)*

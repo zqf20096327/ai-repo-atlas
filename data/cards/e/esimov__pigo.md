@@ -4,7 +4,7 @@
 
 **纯 Go 的人脸检测、瞳孔定位与面部关键点检测库**
 
-基于 Pixel Intensity Comparison Object detection 论文实现的纯 Go 计算机视觉库，不依赖 OpenCV 等 C/C++ 库和 cgo，提供人脸检测（含平面内旋转人脸、戴眼镜人脸）、瞳孔/眼睛定位（基于随机树集成）和面部关键点检测（v1.3.0 起）。附带 CLI 工具，支持 stdin/stdout 管道和 JSON 坐标输出；v1.4.0 起移植到 WebAssembly，作者报告实时检测约 60 FPS。实时桌面演示需 Python+OpenCV 配合（因 Go 生态缺少跨平台摄像头访问库）。
+基于 Pixel Intensity Comparison-based Object detection 论文实现的纯 Go 库，提供人脸检测、平面内旋转人脸检测、瞳孔/眼睛定位与面部关键点检测。无需安装 OpenCV 或第三方模块，级联文件直接嵌入生成的二进制中，检测前不需图像预处理与积分图、图像金字塔等数据结构计算。提供 CLI 工具（支持 stdin/stdout 管道与 JSON 输出）、Go API、WASM 版本（README 称可达约 60 FPS），并可编译为共享对象供 Python 等语言调用。需要安装 Go 环境，或从 Releases 获取二进制，也可通过 snapcraft 获取。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 纯 Go 实现，无需 OpenCV 或第三方模块
-- 人脸检测、瞳孔/眼睛定位、面部关键点检测
-- WebAssembly 支持，README 报告约 60 FPS 实时检测
-- CLI 支持 stdin/stdout 管道与 JSON 检测坐标输出
+- 纯 Go 实现，不需要安装 OpenCV 或第三方模块
+- 支持瞳孔/眼睛定位与面部关键点检测，级联文件嵌入二进制
+- 支持 WASM，浏览器中实时人脸检测
+- CLI 支持 stdin/stdout 管道与 JSON 检测结果输出
 
 ## 适用场景
 
-- 在 Go 项目中集成无需 cgo 的人脸检测
-- 通过 CLI 批量处理图像并输出检测坐标
-- 在浏览器中以 WASM 运行实时人脸检测
+- 在 Go 项目中做人脸与面部关键点检测而不想引入 cgo 依赖
+- 浏览器端 WASM 实时人脸检测
+- 命令行批量处理图片并输出检测坐标 JSON
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L9: Pigo is a pure Go face detection, pupil/eyes localization and facial landmark points detection library based on the 
-> L25: - [x] The face detection is based on pixel intensity comparison encoded in the binary file tree structure
+> L19: - [x] Does not require OpenCV or any 3rd party modules to be installed
+> L63: Starting from version **v1.4.0** the library has been ported to **WASM**. This proves the library's real time face 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `a0903a3993c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `eb03fdc8e57b` · [字段定义](../../DATASET.md)*

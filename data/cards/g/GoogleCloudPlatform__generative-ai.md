@@ -2,15 +2,15 @@
 
 ⭐ 17,972 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform/) · 组织维护
 
-**面向开发者的 Google Cloud 生成式 AI 示例与笔记本集**
+**Google Cloud 生成式 AI 示例代码与笔记本集合**
 
-Google Cloud 平台上的生成式 AI 示例仓库，收录 notebooks、代码示例与样例应用，演示如何使用 Agent Platform 开发与管理生成式 AI 工作流。按主题目录组织：Gemini 入门笔记本、Agent Search 网站与企业数据搜索、RAG 与 Grounding、Imagen/Veo 视觉、Chirp 语音，以及 Google Colab 与 Workbench 的环境配置说明。README 声明该仓库本身并非官方支持产品，代码仅作演示用途。
+Google Cloud Platform 维护的示例仓库，包含 notebooks、代码示例、示例应用等资源，演示如何使用 Agent Platform 使用、开发和管理生成式 AI 工作流。按主题组织目录：Gemini 入门笔记本与示例应用、Agent Search 托管搜索方案、RAG 与 Grounding 索引、Imagen/Veo 视觉、Chirp 语音，以及 Google Colab 与 Workbench 的环境配置说明；另附学习资源与相关仓库索引。README 声明本仓库非官方支持产品，代码仅作演示用途。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,26 +27,26 @@ Google Cloud 平台上的生成式 AI 示例仓库，收录 notebooks、代码�
 
 ## 能力要点
 
-- 提供 Gemini 入门笔记本、函数调用与样例应用目录
+- 按主题组织的示例目录：gemini/search/rag-grounding/vision/audio/setup-env
+- 提供 Google Colab 与 Workbench 上 Gen AI Python SDK 的环境配置说明
+- 汇总 ADK 示例、Agent Starter Pack、Gemini Cookbook 等相关仓库索引
 - RAG 与 Grounding 主题的跨目录笔记本索引
-- 涵盖 Imagen/Veo 视觉与 Chirp 语音的从零构建示例
-- 提供 Google Colab 与 Workbench 环境配置说明
 
 ## 适用场景
 
-- 在 Google Cloud 上上手 Gemini 模型的入门学习
-- 为企业数据搭建 RAG 或 Agent Search 搜索方案
-- 查找视觉、语音等模态的示例代码与笔记本
+- 在 Google Cloud 上学习 Gemini 模型的调用与功能调用示例
+- 使用 Agent Search 快速搭建网站与企业数据的搜索引擎
+- 参考示例笔记本构建 RAG 与 Grounding 应用
+- 了解 Imagen、Veo、Chirp 等模型的从零构建方法
 
 ## 场景标签
 
-`教程课程` `RAG` · 领域:知识与检索
+`RAG` `教程课程` `语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L5: This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, deve
-> L15:  <code>gemini/</code>
-> L47:  Instructions on how to set up Google Cloud, the Gen AI Python SDK, and notebook environments on Google Colab and W
+> L8: This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, deve
+> L20:  Discover Gemini through starter notebooks, use cases, function calling, sample apps, and more.
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `efae06353a13` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f9fcababbd43` · [字段定义](../../DATASET.md)*

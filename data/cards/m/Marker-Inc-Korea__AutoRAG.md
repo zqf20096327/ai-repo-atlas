@@ -1,10 +1,10 @@
 # Marker-Inc-Korea/AutoRAG
 
-⭐ 6,142 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Marker-Inc-Korea/AutoRAG) · 组织维护 · 中文 README
+⭐ 6,142 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Marker-Inc-Korea/AutoRAG) · 组织维护
 
-**本地自进化图书管理员 agent：跨文件与聊天数据检索并生成带引用答案**
+**本地优先的个人图书馆员 Agent：检索并引用你电脑上的文件**
 
-AutoRAG 2.0 是一个自进化的图书管理员 agent，基于 Pi agent 框架，用单一配置模型跨 BM25、向量、混合检索与数据源联邦（Slack/KakaoTalk/Discord/Telegram/WhatsApp/邮件/GitHub/Obsidian）就地检索本地数据，通过 bash 直接读取文件核实事实，产出带编号引用的知识单元，并将引用证据存入检索记忆供后续查询参考。原 Python 版 RAG AutoML 工具移入 legacy/ 目录以维护模式继续发布。同一引擎可通过桌面应用 Dazzi（独立 Fair Source 仓库）、TUI、CLI、MCP server 与 TypeScript API 使用。文档理解使用本地 qwen3-embedding-0.6b 模型，文件内容不发送到远程 embedder。
+AutoRAG 2.0 将原 RAG AutoML 工具重构为个人图书馆员 Agent：以混合关键词+语义搜索配合 reranker 在本地文件中查找内容，回答附带原文出处引用，并可索引 Slack、KakaoTalk、Telegram、GitHub、Obsidian 等消息与数据源。语义索引由 MinSync 在本机运行 Qwen3-Embedding-0.6B 完成。提供桌面应用 Dazzi、TUI、CLI、MCP server 与 TypeScript API 多种入口；legacy 版 RAG AutoML 在 legacy/ 目录以维护模式继续提供 PyPI 发布。
 
 ## 筛选速览
 
@@ -20,24 +20,27 @@ AutoRAG 2.0 是一个自进化的图书管理员 agent，基于 Pi agent 框架�
 
 ## 能力要点
 
-- 数据就地联邦检索，无需迁移到集中式向量库
-- BM25/向量/混合多路检索 + RRF 融合，结果去重归一
-- agent 直接用 bash 读取文件核实事实，答案带编号引用
-- 引用证据存入 ~/.autorag/memory.json 作为后续检索的参考记忆
+- 混合关键词+语义搜索，每条回答链接原文出处
+- 嵌入 MinSync 本地 Qwen3-Embedding-0.6B，文件内容默认不上传远程嵌入器
+- 可索引 Slack/KakaoTalk/Telegram/WhatsApp/GitHub/Obsidian 等 15 类数据源
+- 同一引擎提供 Dazzi 桌面应用、TUI、CLI、MCP server、TypeScript API
 
 ## 适用场景
 
-- 在本地文件、聊天记录和邮件中直接提问并获得带出处的答案
-- 通过 MCP server 为 Claude Code 等编码 agent 提供检索能力
-- 在 Telegram/Discord/WhatsApp 中向图书管理员提问
+- 用自然语言提问并引用本地文件内容回答
+- 把编码 Agent（如 Claude Code）接入本地文件检索
+- 整理与去重 final/final-v3 类重复文档
+- 通过 Telegram/Discord 随时向图书馆员提问
 
 ## 场景标签
 
-`RAG` `文档问答` · 领域:知识与检索
+`RAG` `知识库管理` `语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L25: folders as usual, then ask a question and get an answer that cites the files,
+> L5: **Your personal librarian agent: it finds, reads, and cites anything on your computer.**
+> L22: - **Fast file search.** Hybrid keyword + meaning search with a reranker finds files by what is inside them, and eve
+> L135: |**MCP server**|Feeding retrieval to Claude Code, Codex, and other agents|AutoRAG Lite MCP Server|
 
 ## 星数曲线
 
@@ -53,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `90fd445fed0c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `2a27b48ab007` · [字段定义](../../DATASET.md)*

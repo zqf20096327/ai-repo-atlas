@@ -2,9 +2,9 @@
 
 ⭐ 4,937 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/aipotheosis-labs/aci) · [官网](https://www.aci.dev/) · 组织维护
 
-**开源工具调用平台：为 AI agent 接入 600+ 工具与统一 MCP 服务器**
+**给 AI Agent 接入 600+ 工具的开源工具调用平台**
 
-面向 AI agent 开发者的开源工具调用基础设施：将 600+ 预建集成（Google Calendar、Slack、Vercel 等）以直接函数调用或统一 MCP 服务器两种方式提供给任意 agentic IDE 或自建 agent。内置多租户 OAuth 认证与密钥管理、自然语言权限边界、动态工具发现和工具调用日志，框架与模型无关。全部组件以 Apache 2.0 开源，另有 aci.dev 托管服务；本地运行需分别参照 backend 与 frontend 的 README 部署，提供 Python/TypeScript SDK。
+ACI.dev 是一个开源工具调用平台，为 agentic IDE 或自定义 AI Agent 提供对 600+ 集成服务的访问，通过直接函数调用或统一 MCP 服务器两种方式暴露。平台内置 OAuth 流程与密钥管理、多租户认证、自然语言权限边界与动态工具发现，并提供工具调用日志。后端、开发者门户与集成本身以 Apache 2.0 发布，可在本地运行完整平台（后端服务器与前端门户），另有托管服务版本。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 600+ 预建集成，经统一 MCP 服务器或 SDK 直接函数调用
-- 多租户 OAuth 流程与密钥管理
-- 自然语言权限边界、动态工具发现与工具调用日志
-- 框架与模型无关，Apache 2.0 全量开源
+- 600+ 预构建集成，统一 MCP 服务器或轻量 SDK 两种接入方式
+- 多租户 OAuth 认证与密钥管理
+- 自然语言权限边界与动态工具发现，降低 LLM 上下文负担
+- Apache 2.0 全开源，框架与模型无关
 
 ## 适用场景
 
-- 让 agentic IDE 通过单个 MCP 服务器操作 Vercel/Supabase/Cloudflare 等平台实现 VibeOps
-- 构建可搜索网页、管理日历、发邮件的个人助理聊天机器人
-- 为多用户 agent 应用统一管理各 SaaS 服务的认证与权限
+- 让 agentic IDE 通过一个统一 MCP 服务器操作 Vercel、Supabase、Cloudflare 等平台完成部署
+- 构建能搜索网页、管理日历、发邮件的助手聊天机器人
+- 为销售或客服 Agent 统一管理多用户对多个 SaaS 服务的认证与权限
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L18: ACI.dev is the open-source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent. 
-> L45: - **Flexible Access Methods**: Use our unified MCP server or our lightweight SDK for direct function calling.
+> L48: - **Framework & Model Agnostic**: Works with any LLM framework and agent architecture.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `759be9529b1e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `b335f69bd06a` · [字段定义](../../DATASET.md)*
