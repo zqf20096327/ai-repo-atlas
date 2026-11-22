@@ -2,9 +2,9 @@
 
 ⭐ 85,582 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/bytedance/deer-flow) · [官网](https://deerflow.tech) · 组织维护 · 中文 README
 
-**面向长时程任务的 SuperAgent 编排框架：研究、编码与创作**
+**开源 SuperAgent 运行时：编排子代理执行长时任务**
 
-DeerFlow 2.0 是字节跳动开源的 SuperAgent 编排框架（harness），通过子代理、记忆、沙箱、技能扩展与消息网关组织任务，可处理耗时数分钟到数小时的深研究、编码与内容生成任务。面向希望搭建多代理工作流的开发者，基于 Python 与 Node.js。安装路径为克隆仓库后运行 make setup 交互式向导选择 LLM 提供商、搜索与沙箱配置，支持 Docker 部署与 make doctor 自检；需注意 2.0 为完全重写，与 1.x 分支不共享代码。
+DeerFlow 是字节跳动开源的长时程 SuperAgent harness，从 Deep Research 框架重写为 2.0 版：基于 LangGraph 和 LangChain 构建，内置文件系统、长期记忆、可扩展技能、沙箱感知执行，支持规划和生成子代理处理多步任务。可接入任意 OpenAI 兼容 API 的 LLM；支持 Docker 或本地 Node.js/Python 环境运行，提供 Web UI、IM 渠道集成、MCP server、API 与 Python 客户端。MIT 许可，官方提示其可执行命令和读写文件，建议在本地可信环境运行。
 
 ## 筛选速览
 
@@ -12,10 +12,10 @@ DeerFlow 2.0 是字节跳动开源的 SuperAgent 编排框架（harness），通
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
@@ -27,26 +27,26 @@ DeerFlow 2.0 是字节跳动开源的 SuperAgent 编排框架（harness），通
 
 ## 能力要点
 
-- 编排子代理、记忆、沙箱与可扩展技能的长时程任务处理
-- make setup 交互式向导生成 config.yaml 与 .env
-- 支持 Brave/Tavily/SearXNG/DuckDuckGo/InfoQuest 等多种搜索与抓取后端
-- 自带抓取后端网络隔离检查与 make doctor 诊断
+- 基于 LangGraph/LangChain 的 SuperAgent harness，支持子代理、记忆、技能、沙箱
+- 模型无关：接入任意 OpenAI 兼容 API 的 LLM
+- 支持 Docker 部署与本地开发两种运行方式
+- 内置 MCP server、IM 渠道、API/Python 客户端、可观测性追踪
 
 ## 适用场景
 
-- 搭建执行深度研究的多代理工作流
-- 让 agent 在沙箱中完成编码类长时任务
-- 为已有 LLM 接入可扩展的技能与子代理体系
+- 让 agent 自主完成深度研究与多步任务
+- 构建数据管线、生成幻灯片、自动化内容工作流
+- 接入飞书/Slack/Telegram 等 IM 渠道作为对话入口
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`Agent 框架` `多智能体` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L12: DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is an open-source **super agent harness
-> L17: > **DeerFlow 2.0 is a ground-up rewrite.** It shares no code with v1. If you're looking for the original Deep Resea
-> L100:    make setup
+> L10: DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is an open-source **super agent harness
+> L99: DeerFlow 2.0 is no longer a framework you wire together. It's a super agent harness — batteries included, fully ext
+> L133: DeerFlow is model-agnostic — it works with any LLM that implements the OpenAI-compatible API. That said, it perfor
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `31e95b02ff83` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `dec85f4424c7` · [字段定义](../../DATASET.md)*

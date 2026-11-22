@@ -2,9 +2,9 @@
 
 ⭐ 34,367 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/xai-org/x-algorithm) · 组织维护
 
-**X 平台 For You 信息流排序算法的参考实现**
+**X 平台 For You 信息流的推荐排序算法代码**
 
-xai-org 开源的 X 平台 For You 信息流核心代码：请求路径上由 Thunder 读取关注账号的在网内容，Phoenix 检索与 SimClusters 提供非关注来源内容，经预过滤、Phoenix 打分（按行为预测概率加权求和）、TopK 选择、可见性过滤后输出时间线；另含标注路径（botmaker 规则、agatha/bdsm 账号评分、媒体模型）驱动 visibility-filtering 的 ALLOW/NOTICE/INTERSTITIAL/DROP 判定。2026 年 8 月版本加入权重配置参数、可见性过滤系统与 Phoenix 训练及合成数据生成代码。README 未给出安装运行步骤。
+该仓库包含驱动 X 平台 For You 信息流的核心代码：每条请求从 Thunder（站内关注账号的近期帖子）与 Phoenix 检索、SimClusters、热门帖子列表（站外发现）获取候选，经查询注水、预打分过滤、Phoenix 模型预测用户对各行为（点赞、停留时长等）的概率后加权打分排序，再经可见性过滤与后选过滤产出最终时间线；另含标记路径（内容理解模型、规则引擎、可见性过滤）与合成数据生成代码以运行 Phoenix 的概念验证训练。各阶段可通过 home-mixer 参数开关。
 
 ## 筛选速览
 
@@ -25,16 +25,16 @@ xai-org 开源的 X 平台 For You 信息流核心代码：请求路径上由 Th
 
 ## 能力要点
 
-- Phoenix 模型按行为预测概率加权合成帖子分数
-- visibility-filtering 输出 ALLOW/NOTICE/INTERSTITIAL/DROP 四种可见性判定
-- SimClusters 与 popular_posts_source 作为非关注内容候选来源
-- Phoenix 训练代码与合成数据生成，可运行概念验证训练
+- Phoenix transformer 模型对每条帖子预测用户行为概率并加权打分
+- 可见性过滤输出 ALLOW/NOTICE/INTERSTITIAL/DROP 四种判定
+- 标记路径含内容理解模型（grox、clip、media-model-proxy）与规则引擎（botmaker/scarecrow）
+- 提供 Phoenix 合成数据生成代码，可运行概念验证训练
 
 ## 适用场景
 
-- 研究 X For You 信息流的检索、打分与过滤机制
-- 查看账号或帖子可见性限制背后的规则实现
-- 参考工业级信息流系统的架构组织方式
+- 研究社交平台信息流的候选检索与排序流程
+- 了解帖子可见性过滤与标签系统的实现方式
+- 基于合成数据运行 Phoenix 模型的概念验证训练
 
 ## 场景标签
 
@@ -43,8 +43,7 @@ xai-org 开源的 X 平台 For You 信息流核心代码：请求路径上由 Th
 ## 证据(README 行号)
 
 > L3: This repository contains the core code that determines which posts a viewer sees in the **For You** feed on X. It co
-> L44: Both are ranked together by the same model. **Phoenix** reads the viewer's recent engagement history and predicts, 
-> L30: 1. **Visibility filtering:** `visibility-filtering/` determines whether to show a post, drop it, or show it behind 
+> L56: Both are ranked together by the same model. **Phoenix** reads the viewer's recent engagement history and predicts, 
 
 ## 星数曲线
 
@@ -60,4 +59,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `65954e1862b6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f753e9672c76` · [字段定义](../../DATASET.md)*

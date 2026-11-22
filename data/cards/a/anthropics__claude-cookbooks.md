@@ -2,15 +2,15 @@
 
 ⭐ 54,951 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/claude-cookbooks) · 组织维护
 
-**面向开发者的 Claude 使用示例与指南手册**
+**面向开发者的 Claude 使用示例与教程合集**
 
-以 notebook/recipe 形式提供可复制的代码片段与指南，覆盖分类、RAG、摘要、工具调用、第三方集成、多模态、提示缓存、成本优化、JSON 输出、内容审核等主题。使用示例需要 Claude API key，代码以 Python 为主但说明可适配其他支持 Claude API 的语言。内容组织为 Capabilities、Tool Use、Third-Party Integrations、Multimodal、Advanced Techniques 等章节。
+Anthropic 维护的 Claude cookbook 仓库，以 notebook/recipe 形式提供可复制的代码片段与指南，覆盖分类、RAG、摘要、工具调用、多模态视觉、PDF 解析、JSON 模式、提示缓存、成本与延迟优化等主题，并含 Pinecone、Voyage AI、Stable Diffusion 等第三方集成示例。代码以 Python 为主，需 Claude API key 运行，概念可迁移到其他语言。属于教程资源集合，非可安装软件。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
@@ -26,26 +26,27 @@
 
 ## 能力要点
 
-- 提供分类、RAG、摘要、工具调用等能力的示例 notebook
-- 包含 Pinecone、Wikipedia、Voyage AI 等第三方集成示例
-- 涵盖子 agent、提示缓存、成本优化、自动评估等进阶技术
-- 提供 Claude API Fundamentals 课程作为入门路径
+- 提供分类、RAG、摘要等能力的可复制代码示例
+- 覆盖工具调用、子代理、自动评估等进阶技术
+- 含成本与延迟优化的实操流程
+- 多模态示例：视觉、图表解读、表单抽取、Stable Diffusion 出图
 
 ## 适用场景
 
-- 为项目集成 Claude API 时复制现成代码片段
-- 学习 RAG、视觉、工具调用等能力的实现方式
-- 通过成本优化清单寻找 agent 的成本/效果配置
+- 为项目接入 Claude API 时查找参考实现
+- 学习提示工程与提示缓存等进阶用法
+- 参考 RAG 与向量数据库集成方案
+- 对 agent 做成本与延迟调优时借鉴方法
 
 ## 场景标签
 
-`教程课程` `提示工程` · 领域:Agent 开发
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L1: # Claude Cookbooks
 > L3: The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code 
-> L7: To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free here).
+> L25: ### Capabilities
+> L50: ### Advanced Techniques
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `00e0abaa7983` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `17a90ceaf04c` · [字段定义](../../DATASET.md)*

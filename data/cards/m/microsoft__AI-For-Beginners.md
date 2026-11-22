@@ -2,9 +2,9 @@
 
 ⭐ 71,118 · Jupyter Notebook · MIT · 推送 2026-11-15 · [GitHub](https://github.com/microsoft/AI-For-Beginners) · 组织维护
 
-**面向 AI 初学者的 12 周 24 课系统课程**
+**面向初学者的 12 周 24 课时 AI 课程**
 
-微软出品的 12 周、24 课时人工智能入门课程，内容含符号 AI（知识表示与推理）、神经网络与深度学习、计算机视觉、自然语言处理、遗传算法、多智能体系统与 AI 伦理等模块，每课提供 Jupyter Notebook、测验和实验，代码以 PyTorch 与 TensorFlow 双框架呈现。仓库含 50+ 语言自动翻译、本地/ Codespace 运行指引与可本地部署的测验应用，课程明确不覆盖经典机器学习、业务 AI 与云平台实操等主题。
+微软出品的 AI 入门课程仓库：12 周 24 课时，覆盖符号式 AI（知识表示与推理）、神经网络与深度学习（用 PyTorch/TensorFlow 代码演示）、计算机视觉（CNN、目标检测、分割、GAN）、NLP（RNN、Transformer、BERT、LLM）、遗传算法、多智能体系统与 AI 伦理。每课含预习材料、可运行 Jupyter Notebook、部分含 Lab，另有测验应用（可本地运行或部署到 Azure）。明确不覆盖经典机器学习、Azure 认知服务应用、聊天机器人与深层数学。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 24 课时覆盖符号 AI 到 LLM 的完整路径
-- 每课含可执行 Jupyter Notebook，支持 PyTorch/TensorFlow/Keras 双框架
-- 50+ 语言翻译由 GitHub Action 自动维护
-- 附测验应用（可本地运行或部署至 Azure）与实验 Lab
+- 24 课时含可运行 Jupyter Notebook 与 Lab
+- 代码示例基于 PyTorch 与 TensorFlow 两个框架
+- 提供 50+ 语言翻译与 Binder 在线运行入口
+- 测验应用可本地运行或部署到 Azure
 
 ## 适用场景
 
-- 系统自学人工智能与深度学习基础知识
-- 教师获取现成的 AI 课程大纲与实验材料
-- 通过 Notebook 上手 PyTorch 或 TensorFlow
+- AI 初学者系统学习神经网络、计算机视觉与 NLP
+- 教师找现成课程结构与 Lab 用于教学
+- 想通过 Notebook 动手实践理解 AI 概念的学习者
 
 ## 场景标签
 
@@ -45,7 +45,7 @@
 
 > L21: Explore the world of **Artificial Intelligence** (AI) with our 12-week, 24-lesson curriculum! It includes practical
 > L64: * Different approaches to Artificial Intelligence, including the "good old" symbolic approach with **Knowledge Repr
-> L124: * Executable Jupyter Notebooks, which are often specific to the framework (**PyTorch** or **TensorFlow**). The exe
+> L84: ||Lesson Link|PyTorch/Keras/TensorFlow|Lab|
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b1bc6ba59b03` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `edbaf86714c9` · [字段定义](../../DATASET.md)*

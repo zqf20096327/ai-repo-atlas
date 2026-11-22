@@ -2,9 +2,9 @@
 
 ⭐ 156,563 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/anthropics/claude-code) · [官网](https://code.claude.com/docs/en/overview) · 组织维护
 
-**终端里的 agentic 编码工具，用自然语言操作代码库**
+**终端里的 agentic 编码工具，用自然语言辅助编码与 git 工作流**
 
-Anthropic 出品的命令行编码代理：读取并理解代码库，通过自然语言执行例行任务、解释复杂代码、处理 git 工作流。可在终端、IDE 中使用，也可在 GitHub 上以 @claude 触发。仓库附带插件机制，以自定义命令和 agent 扩展功能。安装支持 macOS/Linux/Windows 的官方脚本、Homebrew 与 WinGet，npm 安装方式已被标注为弃用。使用数据（代码接受/拒绝、会话数据）会被收集用于反馈，官方声明有限保留期且不用于模型训练。
+Anthropic 出品的 agentic 编码工具，运行在终端中，可在 IDE 使用或通过 GitHub 上的 @claude 标记调用。通过自然语言命令执行例行任务、解释复杂代码、处理 git 工作流。安装提供 macOS/Linux 与 Windows 的官方脚本、Homebrew、WinGet 等途径，npm 安装方式已被声明弃用。支持插件机制（官方插件仓库 claude-plugins-official），内置 /bug 命令反馈问题；README 说明会收集使用数据与对话数据，并声明了保留期限、访问限制等隐私保护措施。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@ Anthropic 出品的命令行编码代理：读取并理解代码库，通过自�
 
 ## 能力要点
 
-- 终端内自然语言驱动的 agentic 编码，理解代码库上下文
-- 支持终端、IDE、GitHub @claude 多种使用入口
-- 插件机制通过自定义命令和 agent 扩展功能
-- 内置 /bug 命令直接上报问题
+- 在终端、IDE 或 GitHub（@claude）中使用，自然语言驱动
+- 执行例行任务、解释复杂代码、处理 git 工作流
+- 支持插件机制（claude-plugins-official 仓库）
+- 内置 /bug 命令直接反馈问题
 
 ## 适用场景
 
-- 在终端用自然语言完成例行编码任务
-- 让 AI 解释复杂代码逻辑
+- 在终端中用自然语言完成例行编码任务
+- 让 AI 解释项目中的复杂代码
 - 用自然语言处理 git 工作流
-- 通过插件为工作流添加自定义命令和 agent
+- 为 Claude Code 开发或安装插件
 
 ## 场景标签
 
@@ -46,7 +46,7 @@ Anthropic 出品的命令行编码代理：读取并理解代码库，通过自�
 ## 证据(README 行号)
 
 > L5: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code fas
-> L46: This repository includes several Claude Code plugins that extend functionality with custom commands and agents. See
+> L15: 1. Install Claude Code:
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `1788fe37f265` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d253051738e0` · [字段定义](../../DATASET.md)*

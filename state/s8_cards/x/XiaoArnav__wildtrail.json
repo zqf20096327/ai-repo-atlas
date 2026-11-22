@@ -1,1 +1,79 @@
-{"fn": "XiaoArnav/wildtrail", "sha": "1bc12acaf160", "source": "readme", "identity": {"one_liner": "面向户外探索者的端侧野生动物识别与离线地图 PWA", "review": "无后端的纯客户端 PWA：调用摄像头进行实时动植物识别，识别由 Transformers.js 运行的 CLIP 模型在浏览器内通过 WebGPU/Wasm 完成，照片不上传云端；观察结果铸成 3D 标本邮票并支持明信片导出；内置 MapLibre GL JS + PMTiles 离线矢量地图、RPG 式雾化探索与 GPS 轨迹记录。数据存于 IndexedDB，可导出 JSON。本地运行需以 HTTPS 或 localhost 提供静态服务，首次加载需缓存约 90 MB 模型与地图资源。", "highlights": ["Transformers.js + CLIP 在浏览器内完成物种图像分类，WebGPU/Wasm 运行", "PMTiles 离线矢量地图包下载与 IndexedDB 持久化，支持无信号区域导航", "纯客户端架构：无账号、无后端、无分析追踪，数据可整体导出 JSON", "观察记录铸成 3D 标本邮票并导出收藏明信片"], "use_cases": ["徒步时识别沿途遇到的鸟类、花卉、昆虫", "无手机信号的野外使用离线地图导航与轨迹记录", "建立个人自然观察图鉴并分享发现明信片"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://wildtrail-chi.vercel.app", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["PWA", "端侧AI推理", "野生动物识别", "离线地图", "GPS轨迹"], "domain": "户外工具/端侧计算机视觉应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L37: Point your camera at any bird, flower, insect, or animal. The vision pipeline runs directly inside your device's browser", "L127: |**Vision AI**|Transformers.js · CLIP `clip-vit-base-patch32`|On-device neural image classification via WebGPU/Wasm|", "L129: |**Offline Mapping**|PMTiles · Protomaps|Local `.pmtiles` archives persisted in IndexedDB for backcountry use|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-22", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "XiaoArnav/wildtrail",
+ "sha": "1bc12acaf160",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向户外探索者的端侧野生动物识别与离线地图 PWA",
+  "review": "无后端的纯客户端 PWA：调用摄像头进行实时动植物识别，识别由 Transformers.js 运行的 CLIP 模型在浏览器内通过 WebGPU/Wasm 完成，照片不上传云端；观察结果铸成 3D 标本邮票并支持明信片导出；内置 MapLibre GL JS + PMTiles 离线矢量地图、RPG 式雾化探索与 GPS 轨迹记录。数据存于 IndexedDB，可导出 JSON。本地运行需以 HTTPS 或 localhost 提供静态服务，首次加载需缓存约 90 MB 模型与地图资源。",
+  "highlights": [
+   "Transformers.js + CLIP 在浏览器内完成物种图像分类，WebGPU/Wasm 运行",
+   "PMTiles 离线矢量地图包下载与 IndexedDB 持久化，支持无信号区域导航",
+   "纯客户端架构：无账号、无后端、无分析追踪，数据可整体导出 JSON",
+   "观察记录铸成 3D 标本邮票并导出收藏明信片"
+  ],
+  "use_cases": [
+   "徒步时识别沿途遇到的鸟类、花卉、昆虫",
+   "无手机信号的野外使用离线地图导航与轨迹记录",
+   "建立个人自然观察图鉴并分享发现明信片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://wildtrail-chi.vercel.app",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "PWA",
+   "端侧AI推理",
+   "野生动物识别",
+   "离线地图",
+   "GPS轨迹"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L37: Point your camera at any bird, flower, insect, or animal. The vision pipeline runs directly inside your device's browser",
+   "L127: |**Vision AI**|Transformers.js · CLIP `clip-vit-base-patch32`|On-device neural image classification via WebGPU/Wasm|",
+   "L129: |**Offline Mapping**|PMTiles · Protomaps|Local `.pmtiles` archives persisted in IndexedDB for backcountry use|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -2,9 +2,9 @@
 
 ⭐ 65,236 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/upstash/context7) · [官网](https://context7.com) · 组织维护 · 中文 README
 
-**为 AI 编码代理提供最新版本库文档的检索平台**
+**为 AI 编码代理提供最新版本库文档的 MCP 服务**
 
-Context7 是 Upstash 维护的文档检索平台，向编码代理注入最新的、特定版本的库文档与代码示例，缓解模型训练数据过时导致的问题。提供两种模式：CLI + Skills（通过 ctx7 命令抓取文档，无需 MCP）与注册 MCP 服务器让代理原生调用文档工具。一条命令完成安装与 OAuth 认证，可用 --cursor/--claude/--opencode 定向配置；支持库 ID 精确匹配与版本指定。注意：API 后端与爬虫引擎为闭源，不在本仓库。
+Context7 从源头拉取特定版本的最新文档与代码示例，注入到用户的编码代理上下文中，减少因训练数据过时导致的旧版示例与幻觉 API。支持两种模式：CLI+Skills（通过 ctx7 命令拉取文档，无需 MCP）与 MCP 服务器模式（resolve-library-id、query-docs 两个工具）。npx ctx7 setup 一条命令完成 OAuth 认证、API key 生成与 skill 安装，可用参数指定 Cursor、Claude 等客户端。本仓库只托管 MCP 服务器源码，API 后端与抓取引擎为私有组件，社区贡献文档的准确性不作保证。
 
 ## 筛选速览
 
@@ -27,20 +27,20 @@ Context7 是 Upstash 维护的文档检索平台，向编码代理注入最新�
 
 ## 能力要点
 
-- CLI + Skills 与 MCP 两种接入模式，一条命令完成设置
-- 按库 ID 与版本精确检索文档（/mongodb/docs、/vercel/next.js 等）
-- MCP 客户端手动配置支持 30+ 客户端
-- 提供 MCP server、CLI、TypeScript SDK、Vercel AI SDK 工具等多个包
+- CLI+Skills 与 MCP 服务器两种接入模式
+- resolve-library-id 与 query-docs MCP 工具，支持库 ID 与版本精确匹配
+- npx ctx7 setup 一键配置，支持 --cursor/--claude/--opencode 指定客户端
+- 提供 MCP 服务器、CLI、TypeScript SDK、Vercel AI SDK 工具等多个包
 
 ## 适用场景
 
-- 让编码代理生成基于最新版本文档的代码示例
-- 减少 LLM 幻觉出不存在的 API
-- 为多个 AI 编码客户端统一配置文档检索能力
+- 编码时让代理直接读取所用库的最新版文档
+- 避免生成已废弃 API 或过时版本的代码示例
+- 在 Cursor/Claude Code 等客户端中配置文档检索规则
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发工具
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ec0aad1d51ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `000da52bcc0d` · [字段定义](../../DATASET.md)*

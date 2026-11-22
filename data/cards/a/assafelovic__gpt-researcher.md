@@ -2,9 +2,9 @@
 
 ⭐ 30,816 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/assafelovic/gpt-researcher) · [官网](https://gptr.dev) · 个人维护
 
-**为研究任务生成带引文报告的自主深度研究 Agent**
+**自主深度研究 agent：生成带引用的研究报告**
 
-面向个人与组织的自动化研究 Agent：将任务拆解为研究问题，由 planner 与 execution 多智能体分工检索、汇总并生成超过 2,000 词、引用 20+ 来源的报告。支持网页与本地文档（PDF、CSV、Excel、Markdown、Word 等）两类数据源，提供 pip 包、Docker 部署、HTML/NextJS 前端、MCP 客户端与服务端、LangGraph 多智能体助手及 LangSmith 追踪。默认依赖 OpenAI 与 Tavily API key，也可通过 OPENAI_BASE_URL 接入自定义模型。
+开源深度研究 agent，对给定任务在 web 与本地文档上开展研究，产出带引用的详细研究报告。采用 planner/execution 多 agent 架构：规划生成研究问题，执行 agent 爬取并汇总信息，publisher 聚合为报告；支持递归深度研究、并行运行、上下文过滤（默认 Jev，无 key 时回退本地 BM25）、Gemini 内联插图生成、PDF/Word 导出。提供 Python 包、FastAPI 服务与 Docker 部署，可作为 MCP server 供 Claude 等应用调用。
 
 ## 筛选速览
 
@@ -27,27 +27,25 @@
 
 ## 能力要点
 
-- planner/execution/publisher 多智能体架构，递归式广度+深度研究
-- 支持网页搜索与本地文档研究，报告可导出 PDF/Word/Markdown
-- Jev 上下文过滤，无 key 时回退 BM25 关键词过滤
-- 提供 MCP Server（独立仓库 gptr-mcp）与 Claude Desktop 集成
+- planner/execution 多 agent 架构，报告超过 2,000 词、聚合 20+ 来源
+- 支持 web 与本地文档（PDF/CSV/Excel/Word 等）研究
+- Jev 上下文过滤，无 API key 时回退本地 BM25
+- 可安装为 Claude Skill，并独立提供 MCP server
 
 ## 适用场景
 
-- 为调研课题自动生成带引用来源的研究报告
-- 基于本地文档库开展检索与汇总研究
-- 通过 MCP 把深度研究能力接入 Claude 等 AI 应用
-- 用 LangGraph 多智能体演示从规划到发布的协作流程
+- 输入研究问题，自动生成带引用的深度调研报告
+- 基于本地文档库开展研究并导出报告
+- 给 Claude 等 AI 助手接入深度研究能力
 
 ## 场景标签
 
-`科研工具` `多智能体` · 领域:Agent 开发
+`多智能体` `科研工具` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L20: **GPT Researcher the first open deep research agent designed for both web and local research on any given task.**
 > L22: The agent produces detailed, factual, and unbiased research reports with citations. GPT Researcher provides a full 
-> L51: The core idea is to utilize 'planner' and 'execution' agents. The planner generates research questions, while the e
 
 ## 星数曲线
 
@@ -63,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c31ac8559e4e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f2af3b310a2f` · [字段定义](../../DATASET.md)*

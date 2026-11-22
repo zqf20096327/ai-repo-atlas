@@ -1,10 +1,10 @@
 # punkpeye/awesome-mcp-servers
 
-⭐ 98,356 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [官网](https://glama.ai/mcp/servers) · 个人维护 · 中文 README
+⭐ 98,356 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [官网](https://glama.ai/mcp/servers) · 个人维护
 
-**MCP 服务器策展清单：收录可自托管的服务器实现**
+**MCP 服务器策展清单：按 40+ 类别收录自托管实现**
 
-punkpeye 维护的 Model Context Protocol (MCP) 服务器策展清单，收录带 GitHub 仓库、需用户自行安装运行的服务器实现，另有配套的远程服务器清单。条目按 50 余个类别组织（聚合器、数据库、浏览器自动化、生物信息、编码代理等），并用图例标注官方实现、编程语言、云/本地范围与操作系统。清单附教程、社区入口，并有与仓库同步的 web 目录。README 提供多语言版本（含简体/繁体中文）。
+收录 Model Context Protocol (MCP) 服务器实现的策展清单。MCP 是使 AI 模型通过标准化服务器与本地/远程资源交互的开放协议，条目覆盖文件访问、数据库连接、API 集成等场景。按聚合器、浏览器自动化、数据库、知识记忆等 40+ 类别组织，用图标标注实现语言（Python/TypeScript/Go/Rust 等）、部署范围（本地/云）与支持操作系统，并区分官方实现。另提供客户端清单、教程链接与同步的网页版目录，收录范围为可自行安装运行的 GitHub 开源服务器。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@ punkpeye 维护的 Model Context Protocol (MCP) 服务器策展清单，收录�
 
 ## 能力要点
 
-- 按 50+ 类别组织的 MCP 服务器条目
-- 图例标注官方实现、语言、云/本地、操作系统
-- 配套远程服务器清单与同步的 web 目录
-- 含教程与社区入口（Discord/Subreddit）
+- 按 40+ 类别组织的 MCP 服务器条目
+- 图标标注语言、本地/云范围、操作系统与官方实现
+- 提供客户端清单、教程与网页版同步目录
+- 多语言 README（含简繁中文、日韩等）
 
 ## 适用场景
 
-- 为 MCP 客户端查找可自托管的服务器实现
-- 按类别浏览 MCP 生态覆盖的工具与数据源
-- 查找 MCP 入门教程与客户端清单
+- 为 AI 应用查找接入数据库、文件系统或外部 API 的 MCP 服务器
+- 按语言或部署方式筛选可自托管的 MCP 实现
+- 查找 MCP 相关的入门教程与客户端列表
 
 ## 场景标签
 
@@ -43,8 +43,9 @@ punkpeye 维护的 Model Context Protocol (MCP) 服务器策展清单，收录�
 
 ## 证据(README 行号)
 
-> L16: A curated list of awesome Model Context Protocol (MCP) servers.
-> L22: MCP is an open protocol that enables AI models to securely interact with local and remote resources through standar
+> L18: A curated list of awesome Model Context Protocol (MCP) servers.
+> L24: MCP is an open protocol that enables AI models to securely interact with local and remote resources through standar
+> L69: ## Server Implementations
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `c850a8aa139e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `585c8ee1cde2` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 113,749 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Panniantong/Agent-Reach) · 个人维护 · 中文 README
 
-**给 AI Agent 一键配置读取与搜索互联网渠道的 CLI 能力层**
+**为 AI Agent 提供多平台网页搜索与读取的 CLI 工具**
 
-Agent Reach 定位为能力层：为 Claude Code、OpenClaw、Cursor 等可执行命令行的 Agent 选型、安装并体检各平台的读取工具，覆盖网页、YouTube、RSS、GitHub、Twitter、B站、Reddit、小红书等 17 个渠道。每个平台维护「首选+备选」的有序后端列表，按序真实探测选择可用路径，接入方式失效时切换路由。凭据仅存本地，`agent-reach doctor` 可诊断各渠道状态；安装默认只读检查，显式 `--system` 才修改系统。
+一个命令行工具，把 X、Reddit、YouTube、B站、小红书、V2EX、雪球等平台的搜索与读取能力封装成 Agent 可调用的命令。每个平台维护一个首选+备选的有序工具列表，失败自动切换。默认渠道无需登录即可用，登录类平台使用专用后台浏览器并复用本地已有登录，建议使用小号；仅支持只读操作。安装通过 install.md 由 Agent 自行完成，工具集中在 ~/.agent-reach/ 目录管理。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,16 +26,16 @@ Agent Reach 定位为能力层：为 Claude Code、OpenClaw、Cursor 等可执�
 
 ## 能力要点
 
-- 17 个平台渠道，6 个零配置即用，其余按引导配置登录态
-- 每平台「首选+备选」多后端路由，失效自动换路径
-- agent-reach doctor 一条命令诊断各渠道可用性
-- 凭据本地存储、默认不修改系统的安全安装流程
+- 一个 CLI 封装 13 个平台的搜索与读取动作（agent-reach <渠道> <动作>）
+- 每平台首选+备选工具列表，失败自动切换
+- 专用后台浏览器复用本地登录，不读密码库，只读不发帖
+- 支持视频字幕与语音转文字（YouTube/小宇宙）
 
 ## 适用场景
 
-- 让 Agent 帮我读 YouTube 字幕、搜 B站、刷小红书内容
-- 给新装的 Agent 一句话配好各平台读取环境
-- 平台接口被封后不用自己折腾，切换到可用路由
+- 让 Agent 搜索小红书、B站等中文平台内容
+- 读取 YouTube 字幕与播客转文字
+- 获取 V2EX、GitHub、雪球的结构化数据
 
 ## 场景标签
 
@@ -43,9 +43,9 @@ Agent Reach 定位为能力层：为 Claude Code、OpenClaw、Cursor 等可执�
 
 ## 证据(README 行号)
 
-> L75: |🤖 **兼容所有 Agent**|Claude Code、OpenClaw、Cursor、Windsurf……任何能跑命令行的 Agent 都能用|
-> L165: **Agent Reach 是一个能力层（capability layer），不是又一个工具。**
-> L178: ├── twitter.py      → twitter-cli ▸ OpenCLI ▸ bird
+> L3:  让 AI Agent 够得着它自己上不去的互联网
+> L49: Agent Reach 把这些平台背后的工具替你装好、测好，Agent 一条命令就能用：
+> L128: 每个平台的每个动作都有一个按顺序尝试的工具列表。比如读 B站视频先用 bili-cli，失败了自动换 B站公开接口；读网页先用 Jina Reader，再用 Exa。
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `4c1687bc7263` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `55b959e642c3` · [字段定义](../../DATASET.md)*

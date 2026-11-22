@@ -2,15 +2,15 @@
 
 ⭐ 38,905 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/sgl-project/sglang) · [官网](https://sglang.io) · 组织维护
 
-**面向开发者的大模型与多模态模型推理服务框架**
+**面向 LLM/多模态模型的推理服务框架**
 
-开源推理框架，支持大语言模型、视觉语言模型与扩散模型的部署服务，面向 agentic 工作负载、大规模服务与 RL rollout 场景进行优化。仓库内置 SGLang Diffusion 图像与视频生成引擎，并通过 SGLang Omni 提供语音模型的 TTS/ASR 服务。通过 Docker 镜像或 uv/pip 从 PyPI 安装；开发环境提供 dev 镜像与可编辑安装方式。项目由 LMSYS 托管，覆盖 GPU、TPU、NPU、CPU 及 Apple Silicon 多类平台。
+开源推理框架，覆盖大语言模型、视觉语言模型与扩散模型，面向 agentic 工作负载、大规模服务与 RL rollout 场景优化。内置 SGLang Diffusion 引擎支持图像、视频、音频与动作生成；SGLang Omni 提供语音模型服务（TTS/ASR）。通过 Docker 镜像或 Python 包安装，支持 NVIDIA、AMD、TPU、Apple Silicon、华为昇腾等多类硬件平台，由 LMSYS 托管维护。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,26 +26,25 @@
 
 ## 能力要点
 
-- 支持大语言、视觉语言与扩散模型的服务
-- 内置 SGLang Diffusion 图像与视频生成引擎
-- 覆盖 NVIDIA/AMD/TPU/Intel/Apple Silicon/昇腾/摩尔线程等硬件平台
-- 生态包含 SpecForge 投机解码与多个 RL 训练框架集成
+- 支持 LLM、视觉语言与扩散模型的服务
+- 内置 SGLang Diffusion：图像/视频/音频/动作生成引擎
+- 覆盖 NVIDIA/AMD/TPU/Intel/Apple Silicon/昇腾等多平台硬件
+- 配套生态：SpecForge 投机解码训练、多个 RL 框架集成 rollout
 
 ## 适用场景
 
-- 为大模型应用搭建推理服务后端
-- 在国产 NPU 或多类加速硬件上部署模型
-- 运行图像与视频生成模型服务
-- RL 训练流程中的 rollout 生成
+- 部署大语言模型推理服务并进行路由与负载均衡扩展
+- 为 RL 训练框架提供 rollout 生成
+- 在多种加速硬件上运行多模态模型推理
 
 ## 场景标签
 
-`推理引擎` `强化学习` · 领域:训练与推理
+`推理引擎` `图像生成` `强化学习` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L15: SGLang is an open-source inference framework for large language, vision-language, and diffusion models, optimized f
-> L40: SGLang supports a wide range of GPUs, TPUs, NPUs, CPUs, and Apple Silicon platforms.
+> L71: |Deployment and Orchestration|RBG, llm-d, Ray Serve, NVIDIA Dynamo|Deploy and scale SGLang inference services with 
 
 ## 星数曲线
 
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3b52f2ed0651` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7b709aa6b900` · [字段定义](../../DATASET.md)*

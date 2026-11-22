@@ -2,9 +2,9 @@
 
 ⭐ 47,587 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/apache/airflow) · [官网](https://airflow.apache.org/) · 组织维护
 
-**数据与 AI 工作流的编排平台：用代码编写、调度和监控**
+**给数据/ML 团队编排调度监控工作流的平台**
 
-Apache 软件基金会的工作流编排平台，以代码定义工作流（Dag），由调度器按依赖关系在 worker 上执行任务，配合 CLI 与 Web 界面监控运行中的流水线。工作流以代码形式定义，便于版本管理、测试与协作。任务要求幂等，任务间通过 XCom 传递元数据而非大批量数据；定位为批处理编排，非流式方案，也非 agent 本身。README 提到其广泛用于编排机器学习与基于 LLM 的工作负载（数据准备、工具调用、模型调用、评估等步骤）。通过 PyPI 配约束文件安装，官方支持 pip 与 uv。
+以代码方式（Dag）定义、调度并监控工作流的平台：调度器按依赖关系在 worker 上执行任务，提供命令行工具与 Web UI（Dags/Assets/Grid/Graph/Backfill 等视图）。核心面向静态、缓慢变化的工作流，任务要求幂等、不传递大数据量。README 说明其广泛用于编排机器学习工作流（训练、再训练、评估、部署）及 agentic/LLM 工作负载，但自身不做 agent。仅支持 POSIX 系统，Windows 需 WSL2 或容器；生产环境仅支持 Linux 发行版。
 
 ## 筛选速览
 
@@ -26,17 +26,16 @@ Apache 软件基金会的工作流编排平台，以代码定义工作流（Dag�
 
 ## 能力要点
 
-- 以代码定义 Dag，调度器按依赖在 worker 数组上执行任务
-- Jinja 模板引擎支持自定义，内置多种 operator 可扩展
-- Web UI 提供 Dags、Assets、Grid、Graph、Backfill 等视图
-- 仅官方支持 pip/uv 安装，需配合约束文件保证可重复安装
+- 以代码定义 Dag，支持动态生成与参数化，Jinja 模板可扩展
+- 调度器按依赖在多 worker 上执行任务，附 CLI 与多视图 Web UI
+- provider 包独立 SemVer，可单独安装（如 postgres、google extras）
+- README 明确支持编排 ML 训练/再训练/评估/部署与 LLM 工作负载
 
 ## 适用场景
 
-- 编排 ETL/ELT 数据流水线并监控生产运行
-- 编排机器学习训练、再训练、评估与部署流程
-- 协调 LLM/AI 流水线中的数据准备、工具调用与模型调用步骤
-- 按日期区间回填历史数据
+- 搭建定时 ETL/ELT 数据管道并监控运行状态
+- 编排机器学习的训练、再训练与部署流程
+- 以批处理方式从数据流拉取数据做近实时处理
 
 ## 场景标签
 
@@ -46,7 +45,7 @@ Apache 软件基金会的工作流编排平台，以代码定义工作流（Dag�
 
 > L21: Apache Airflow (or simply Airflow) is a platform to programmatically author, schedule, and monitor workflows.
 > L35: Beyond traditional data pipelines, Airflow is widely used to orchestrate machine learning workflows — training, ret
-> L107: > Note: Only `pip` and `uv` installation is currently officially supported.
+> L37: Airflow is commonly used to process data, but has the opinion that tasks should ideally be idempotent (i.e., result
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `94d2f8f673b0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2bc0c5a29b19` · [字段定义](../../DATASET.md)*

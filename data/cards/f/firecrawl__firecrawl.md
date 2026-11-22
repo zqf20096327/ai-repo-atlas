@@ -2,9 +2,9 @@
 
 ⭐ 206,045 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/firecrawl/firecrawl) · [官网](https://firecrawl.dev) · 组织维护
 
-**面向 AI agent 的网页搜索/抓取/交互 API 与开源工具集**
+**给 AI Agent 提供网页抓取/搜索/数据接入的知识基础设施**
 
-Firecrawl 提供网页搜索、抓取、整站爬取、URL 发现、批量抓取与内容变更监控等 API，将网页与 PDF/DOCX 等文档转为 markdown、结构化 JSON 或截图，供 AI agent 使用。支持在页面上执行点击、滚动、输入等操作后提取内容，并提供描述需求的 Agent 端点（运行 spark-2 模型）。提供 Python/Node/Go/Java/Rust 等 SDK、CLI 与 MCP 集成，可接入 Claude Code 等 agent 客户端。AGPL-3.0 开源，另有含额外功能的云端托管版，支持自托管。
+Firecrawl 将网页与数据源转为 LLM 可用的 markdown/JSON，提供三种使用方式：Firecrawl Local（单二进制本地运行，无数据库/队列，通过 MCP 接入 Agent）、Firecrawl Cloud（托管服务，含搜索、Alexandria 550+ 数据提供商、Interact 与 Agent）、自托管完整服务端（apps/api，含队列与数据库）。README 给出 Python/Node/Go 等 SDK、CLI 与 MCP 配置；本地 JS 渲染依赖机器上已有的 Chrome/Chromium，搜索与 Alexandria 需经 Firecrawl Cloud。
 
 ## 筛选速览
 
@@ -12,10 +12,10 @@ Firecrawl 提供网页搜索、抓取、整站爬取、URL 发现、批量抓取
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
@@ -27,26 +27,27 @@ Firecrawl 提供网页搜索、抓取、整站爬取、URL 发现、批量抓取
 
 ## 能力要点
 
-- 网页/文档转 markdown、JSON、截图等 LLM-ready 输出
-- 页面交互（点击/滚动/输入）后提取内容
-- Agent 端点：描述需求即自动搜索导航取数，支持 schema 结构化输出
-- 提供多语言 SDK、CLI 与 MCP 接入方式
+- Firecrawl Local 以单二进制本地抓取/爬取/站点映射，并可作为 MCP 服务器接入 Agent
+- 本地 serve 在 3002 端口提供 Firecrawl v2 API，SDK 指向本地 URL 即可用
+- 提供 Python/Node/Go/Java/Rust/Ruby/.NET/PHP/Elixir 多语言 SDK
+- Alexandria 通过单一 API 提供 550+ 数据提供商（人/公司/论文等结构化数据）
 
 ## 适用场景
 
-- 为 AI agent 或 RAG 流程获取干净的网页上下文
-- 整站爬取与批量抓取构建数据集
-- 监控网站内容变更
-- 把 PDF/DOCX 文档转为 markdown 供下游处理
+- 让 AI Agent 抓取网页并读取干净的 markdown 上下文
+- 为 RAG 或知识库管道批量爬取整站内容
+- 通过 MCP 把抓取/爬取/搜索工具接入 Claude Code 等 Agent 工具
+- 按 schema 从网页提取结构化 JSON 数据
 
 ## 场景标签
 
-`网页抓取` `浏览器自动化` · 领域:效率与自动化
+`网页抓取` `文档解析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L31: **The API to search, scrape, and interact with the web at scale. Firecrawl is the context API for AI agents. 🔥** Op
-> L213: Connect Firecrawl to any AI agent or MCP client in minutes.
+> L31: **Knowledge infrastructure to make your agents smarter. 🔥** You can use Firecrawl three ways. This repo holds the c
+> L33: - **Firecrawl Local.** Run Firecrawl on your own machine as one binary that turns websites into clean markdown, plu
+> L79: `init` finds Claude Code, Claude Desktop, Cursor, Windsurf, Gemini CLI and Codex on your machine and adds Firecrawl
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `c63714794e25` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `43417199e6a1` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 31,216 · JavaScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/jackwener/OpenCLI) · [官网](https://opencli.info/) · 个人维护 · 中文 README
 
-**把任意网站变成 CLI 命令、供 AI agent 操作登录态浏览器的工具**
+**把任意网站转成 CLI 命令、供 AI agent 操控已登录浏览器**
 
-OpenCLI 是面向 AI agent 的通用浏览器自动化 CLI，同时自称 agent-browser 的一款替代工具。它通过 Browser Bridge 扩展与本地守护进程连接用户已登录的 Chrome/Chromium，无需站点适配器即可导航、点击、填表、提取与截图；内置 Bilibili、知乎、Reddit、HackerNews 等站点适配器提供确定性命令。所有命令默认输出 JSON 并配退出码约定，便于 agent 消费。安装方式包括 macOS/Windows 桌面应用 OpenCLIApp 和 npm 全局安装（需 Node.js ≥ 20.18.1），并通过 npx skills 向 Claude Code、Cursor 等 agent 安装四个技能。
+OpenCLI 是面向 AI agent 与人类用户的浏览器自动化 CLI：无需站点适配器即可导航、点击、填表、提取、截图；内置 Bilibili、知乎、Reddit 等站点适配器提供确定性命令。命令默认输出 JSON（stdout 结果、stderr 日志、非零退出码）。通过 Browser Bridge Chrome 扩展加本地守护进程连接用户已登录的浏览器；提供 opencli-browser、opencli-adapter-author、opencli-autofix、opencli-usage 四个可装入 Claude Code/Cursor 等 agent 的技能。桌面端提供 OpenCLIApp 安装包，CLI/服务器场景走 npm 安装。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@ OpenCLI 是面向 AI agent 的通用浏览器自动化 CLI，同时自称 agent-
 
 ## 能力要点
 
-- 内置 Bilibili、知乎、小红书、Reddit 等站点适配器，提供确定性 CLI 命令
-- 命令默认 JSON 输出（ok/data/error 结构）并配非零退出码约定
-- 四个可安装技能：opencli-browser、adapter-author、autofix、usage
-- 支持多 Chrome profile 别名管理与 --session 页面会话路由
+- 内置多站点适配器（Bilibili/知乎/小红书/Reddit/HackerNews 等）提供确定性命令
+- opencli-browser 技能让 agent 通过已登录 Chrome 执行导航/点击/填表/提取
+- 结构化 DOM 快照读取页面内容（非截图），支持网络 API 响应拦截
+- 适配器编写全流程：recon→discover→auth→decode→test，站点知识持久化到 ~/.opencli/sites/
 
 ## 适用场景
 
-- 让 AI agent 借用我的登录态浏览器抓取页面或填写表单
-- 为无 API 的网站编写可复用的命令行适配器
-- 在 CI/服务器环境用 npm 安装 CLI 做确定性网页自动化
+- 让 Claude Code/Cursor 等 agent 代我操作已登录的网站（查通知、填表单）
+- 用命令行代替浏览器会话抓取站点数据
+- 为新站点编写可复用的适配器命令
 
 ## 场景标签
 
-`浏览器自动化` `网页抓取` · 领域:效率与自动化
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L12: OpenCLI is a **general-purpose browser automation CLI for AI agents** and an **agent-browser alternative**. Navigat
-> L17: - **Let AI Agents operate any website** — install the `opencli-browser` skill in your AI agent (Claude Code, Cursor
-> L60: npm install -g @jackwener/opencli
+> L13: OpenCLI is a **general-purpose browser automation CLI for AI agents** and an **agent-browser alternative**. Navigat
+> L18: - **Let AI Agents operate any website** — install the `opencli-browser` skill in your AI agent (Claude Code, Cursor
+> L149: OpenCLI's browser commands are designed to be used by AI Agents — not run manually. Install skills into your AI ag
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1077897fe034` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5a618c671c87` · [字段定义](../../DATASET.md)*

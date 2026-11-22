@@ -2,15 +2,15 @@
 
 ⭐ 36,437 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/agentscope-ai/agentscope) · [官网](https://docs.agentscope.io/) · 组织维护 · 中文 README
 
-**给开发者的 agent 构建框架与服务运行时**
+**构建与运行多模态 LLM agent 的开发者框架及配套服务**
 
-AgentScope 2.0 是一个 agent 框架，提供 SDK 层与服务层两部分：SDK 层以 ReAct 循环、工具集、模型接入、上下文压缩、记忆、权限/人工确认、沙箱执行等构件组合出 agent；服务层为 FastAPI 后端加预置 Web UI，提供多租户多会话、leader-worker 团队编排、IM 渠道接入（飞书/Discord）、RAG 服务、MCP 与技能中心、持久化与定时调度。需 Python 3.11+，从 PyPI 或源码安装，Web UI 依赖 pnpm。
+AgentScope 2.0 提供两层：SDK 层以 ReAct 循环、工具/MCP 管理、上下文压缩、记忆、权限与沙箱等积木组成 agent；服务层基于 FastAPI 提供多租户多会话后端与预构建 Web UI，含团队编排、IM 通道接入、RAG 服务、MCP/技能中心、持久化与调度。要求 Python 3.11+，可从 PyPI 或源码安装。以 Apache-2.0 许可发布，附两篇论文引用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,21 +27,21 @@ AgentScope 2.0 是一个 agent 框架，提供 SDK 层与服务层两部分：SD
 
 ## 能力要点
 
-- ReAct 循环 agent 构建块：结构化输出、实时中断恢复、批量工具执行
-- 模型层接入 OpenAI、Anthropic、Gemini、DashScope、DeepSeek、Moonshot、Volcengine、xAI、Ollama 等
-- 内置 agent 服务：多租户多会话、团队编排、飞书/Discord 渠道、RAG、持久化
-- 支持 A2A 协议与 MCP 服务器、实时语音 agent（WebRTC）
+- ReAct 循环、Toolkit（Python 工具/MCP/技能）与中间件体系
+- 接入 OpenAI、Anthropic、Gemini、DashScope、DeepSeek、Ollama 等多家模型后端
+- FastAPI agent service：多租户、Web UI、Feishu/Discord 通道、RAG 服务
+- 实时语音 agent（WebRTC）与语音克隆
 
 ## 适用场景
 
-- 构建带工具调用与沙箱执行的开发 agent
-- 用 FastAPI 服务层把 agent 发布为多会话 Web 应用
-- 把 agent 接入飞书或 Discord 作为消息渠道
-- 搭建 leader-worker 多 agent 协作与任务规划流程
+- 用 Python SDK 组装带工具调用与记忆的 agent
+- 把 agent 部署为多租户多会话 Web 应用
+- 通过 IM 通道把 agent 接入飞书或 Discord
+- 搭建多 agent 团队协作与任务规划流程
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`多智能体` `语音 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `159a070752ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `e8552f8e6586` · [字段定义](../../DATASET.md)*

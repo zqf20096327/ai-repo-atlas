@@ -2,18 +2,18 @@
 
 ⭐ 32,946 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Zackriya-Solutions/meetily) · [官网](https://meetily.ai) · 组织维护
 
-**本地运行的隐私优先 AI 会议记录与摘要应用**
+**本地运行的隐私优先 AI 会议记录助手，转录并生成纪要**
 
-Meetily 是一款运行在用户本机的会议助手，基于 Tauri（Rust 后端 + Next.js 前端）构建，可捕获麦克风与系统音频、用 Whisper 或 Parakeet 模型实时转录，并生成会议摘要。全部处理与存储在本地完成，不发送数据到云端。摘要支持多种 AI 提供方（推荐本地 Ollama），也可接 Claude、Groq、OpenRouter 或自定义 OpenAI 兼容端点。提供 Windows 安装包、macOS dmg，Linux 需从源码构建；说话人分离在社区版尚未提供（规划于 PRO）。
+Meetily 是运行在本地机器上的会议助手：捕获会议音频、实时转录（Whisper 或 Parakeet 模型，完全在设备上执行）并默认用本地模型生成摘要，音频与转录数据不离开设备；若选择云厂商做摘要，仅发送转录文本。桌面端基于 Tauri（Rust 后端 + Next.js 前端），提供 Windows/macOS 安装包与 Linux 的 .deb/AppImage/脚本安装，源码构建需 Rust 与 Node.js。社区版 MIT 开源，Pro 付费版提供说话人识别、自定义模板、高级导出等。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,26 +26,25 @@ Meetily 是一款运行在用户本机的会议助手，基于 Tauri（Rust 后�
 
 ## 能力要点
 
-- Whisper/Parakeet 模型本地实时转录，无需云端
-- 多 AI 提供方摘要：Ollama（本地）、Claude、Groq、OpenRouter、OpenAI 兼容端点
-- 麦克风与系统音频同时采集，含 ducking 与削波防护
-- GPU 加速：macOS Metal/CoreML 自动启用，Windows 包含 Vulkan 构建
+- 设备端 Whisper/Parakeet 实时转录，无会议机器人加入
+- 摘要默认用本地模型，可选 Ollama/Claude/Groq/OpenRouter/自定义 OpenAI 端点
+- 同时采集麦克风与系统音频，带 ducking 与削波防护
+- GPU 加速：macOS Metal/CoreML、Windows Vulkan，Linux 源码构建配置
 
 ## 适用场景
 
-- 在本地处理会议录音并生成纪要，数据不出设备
-- 离线环境下对导入的音频文件生成转录与摘要
-- 组织使用自建 OpenAI 兼容端点生成会议摘要
+- 在本地记录并总结会议，音频数据不出设备
+- 导入已有音频文件生成转录并换模型重转
+- 合规要求高的团队自托管会议纪要流程
 
 ## 场景标签
 
-`语音识别` · 领域:感知与多模态
+`语音识别` `AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L23: A privacy-first AI meeting assistant that captures, transcribes, and summarizes meetings entirely on your infrastru
 > L37: Meetily is a privacy-first AI meeting assistant that runs entirely on your local machine. It captures your meetings
-> L67: - **Flexible AI Provider Support:** Choose from Ollama (local), Claude, Groq, OpenRouter, or use your own OpenAI-co
+> L117: Transcribe meetings entirely on your device using **Whisper** or **Parakeet** models. No cloud required.
 
 ## 星数曲线
 
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `928aa2d92438` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `678424c02085` · [字段定义](../../DATASET.md)*

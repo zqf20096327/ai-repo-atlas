@@ -1,10 +1,10 @@
 # decolua/9router
 
-⭐ 32,711 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/decolua/9router) · [官网](https://9router.com) · 个人维护
+⭐ 32,711 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/decolua/9router) · [官网](https://9router.com) · 个人维护 · 中文 README
 
-**为 AI 编码 CLI 工具聚合 40+ 模型提供商的本地路由网关**
+**本地 AI 路由器：为 CLI 编码工具接入 40+ 免费与付费模型源**
 
-本地运行的 AI 模型路由网关：将 Claude Code、Codex、Cursor、Cline 等 CLI 编码工具统一接入 40+ 提供商与 100+ 模型，暴露 OpenAI 兼容端点（localhost:20128/v1）。核心机制包括 RTK 令牌压缩（对 git diff/grep 等工具输出做无损压缩）、订阅→低价→免费的三级自动回退、多账号轮询、配额实时追踪与 OAuth 令牌自动刷新。通过 npm 全局安装或源码/Docker 运行，提供 Web Dashboard 管理。
+9Router 以 npm 包或源码/Docker 方式运行于 localhost:20128，提供 OpenAI 兼容端点，将 Claude Code、Codex、Cursor、Cline 等 CLI 编码工具接入 OAuth、免费与 API Key 三类共 40+ 模型提供商。核心机制包括 RTK 工具输出压缩（自动检测 git diff/grep 等输出并无损压缩）、订阅→低价→免费的三层自动回退、多账号轮询、格式互译（OpenAI↔Claude↔Gemini↔Cursor 等）与配额实时跟踪。支持自托管 STT/TTS/Embedding 端点，可部署到 VPS、Docker、Cloudflare Workers。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- RTK 工具输出压缩，声明节省 20-40% 输入令牌
-- 订阅→低价→免费的三级自动回退路由
-- OpenAI/Claude/Gemini/Cursor/Kiro/Vertex 间格式转换
-- 自托管 STT/TTS/Embedding 提供商接入与 baseUrl 配置
+- RTK Token Saver：自动检测并压缩工具输出，声称每请求节省 20-40% 输入 token
+- 订阅→低价→免费三层自动回退与多账号轮询
+- OpenAI↔Claude↔Gemini↔Cursor↔Kiro↔Vertex 格式互译
+- 自托管 STT/TTS/Embedding 端点支持（whisper.cpp、llama-server、vLLM 等）
 
 ## 适用场景
 
-- 让 Claude Code/Cursor 等 CLI 工具使用免费或低价模型端点
-- 订阅配额用尽时自动切换到备用模型不停工
-- 多个提供商账号间做轮询负载分摊
-- 本地 whisper.cpp/vLLM 等自托管语音与嵌入服务统一接入
+- 让 Claude Code/Cline 等工具在订阅配额耗尽时自动切换到免费模型
+- 为多个 AI CLI 工具统一配置本地网关端点
+- 压缩 git diff 等工具输出以减少发送给 LLM 的 token
+- 在本地/自托管环境接入语音与嵌入服务
 
 ## 场景标签
 
@@ -46,8 +46,8 @@
 ## 证据(README 行号)
 
 > L7:  **Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...
-> L53: npm install -g 9router
-> L387: |🎯 **Smart 3-Tier Fallback**|Auto-route: Subscription → Cheap → Free|Never stop coding, zero downtime|
+> L33: - ✅ **RTK Token Saver** - Auto-compress tool_result content, save 20-40% tokens per request
+> L96: - OpenAI-compatible API: `http://localhost:20128/v1`
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `44ab217afe50` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `441007d358aa` · [字段定义](../../DATASET.md)*

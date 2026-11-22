@@ -1,17 +1,17 @@
 # chatboxai/chatbox
 
-⭐ 42,462 · TypeScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/chatboxai/chatbox) · [官网](https://chatboxai.app?utm_medium=github) · 组织维护 · 中文 README
+⭐ 42,462 · TypeScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/chatboxai/chatbox) · [官网](https://chatboxai.app?utm_medium=github) · 组织维护
 
-**面向桌面/移动端用户的多模型 AI 聊天客户端**
+**面向个人用户的桌面 LLM 聊天客户端，接入多家模型**
 
-Chatbox 社区版是一个开源（GPLv3）的桌面 AI 客户端，支持接入多家 LLM 服务（OpenAI、Azure OpenAI、Claude、Gemini、Ollama、ChatGLM-6B 等），提供本地数据存储、Dall-E-3 图像生成、Markdown/LaTeX 渲染、流式回复、提示词库、团队 API 共享、多语言界面等。覆盖 Windows/macOS/Linux 桌面端及 iOS/Android/Web。仓库与商业 pro 版定期双向同步代码，非完全独立演进。
+Chatbox 社区版（GPLv3）是一款跨平台桌面 AI 聊天客户端，支持 Windows/macOS/Linux 安装包及 iOS/Android 应用和网页版。用户在设置中配置模型服务商（OpenAI、Claude 等）的 API 后即可对话；支持 DALL·E-3 图像生成、Markdown/LaTeX/代码高亮渲染、流式回复、提示词库、本地数据存储与团队共享 API 资源。提供 9 种语言界面。另有 Pro 版仓库与本仓库双向同步代码。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `dual` | GPL-3.0 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -27,26 +27,27 @@ Chatbox 社区版是一个开源（GPLv3）的桌面 AI 客户端，支持接入
 
 ## 能力要点
 
-- 支持多家 LLM 提供商：OpenAI、Azure OpenAI、Claude、Gemini、Ollama 本地模型、ChatGLM-6B
-- 数据本地存储，提供桌面、Web、iOS/Android 多端形态
-- Dall-E-3 图像生成、Markdown/LaTeX 渲染、流式回复、提示词库
-- GPLv3 开源社区版，与 pro 仓库定期同步代码
+- 接入多家 LLM 服务商（OpenAI、Azure OpenAI、Claude、Gemini、Ollama、ChatGLM-6B）
+- 支持 DALL·E-3 图像生成与流式回复
+- 本地数据存储，界面支持 9 种语言
+- Windows/macOS/Linux 安装包与 iOS/Android/Web 多端可用
 
 ## 适用场景
 
-- 在桌面端统一使用多个 LLM 服务聊天
-- 通过 Ollama 访问本地模型以保持数据不外发
+- 在桌面端统一使用多个模型服务商的 API 进行对话
+- 用 DALL·E-3 在聊天中生成图像
 - 团队内共享 OpenAI API 资源协作
+- 数据存本地、注重隐私的个人 AI 助手使用
 
 ## 场景标签
 
-`聊天机器人` `AI 助手` · 领域:对话与助手
+`聊天机器人` `AI 助手` `图像生成` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L7:  Your Ultimate AI Copilot on the Desktop. Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available 
-> L35: This is the repository for the Chatbox Community Edition, open-sourced under the GPLv3 license.
 > L105: - **Support for Multiple LLM Providers**
+> L91: 3. Configure your AI provider (OpenAI, Claude, etc.) in settings
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `8e19c358b53e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bf2bc40bf760` · [字段定义](../../DATASET.md)*

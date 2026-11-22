@@ -1,16 +1,16 @@
 # langgenius/dify
 
-⭐ 161,626 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/langgenius/dify) · [官网](https://dify.ai) · 组织维护
+⭐ 161,626 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/langgenius/dify) · [官网](https://dify.ai) · 组织维护 · 中文 README
 
-**给团队的 LLM 应用开发平台：可视化构建工作流、RAG 与 Agent**
+**团队构建 AI 工作流与 RAG 应用的开源 LLM 开发平台**
 
-开源 LLM 应用开发平台，界面整合 AI 工作流、RAG 管道、Agent 能力、模型管理与可观测性（含 Opik、Langfuse、Arize Phoenix 集成）。工作流在可视化画布上构建；模型支持数百个专有/开源 LLM 及 OpenAI API 兼容模型；Agent 带独立沙箱，可运行命令、安装软件、处理文件，并接入 Marketplace 工具、MCP 服务器与自有 API。所有功能提供对应 API（Backend-as-a-Service）。部署方式：Docker Compose 自托管、Cloud 托管或企业版（SSO/RBAC）。最低要求 CPU 2 核、内存 4 GiB。
+开源 LLM 应用开发平台，在可视化画布上构建 AI 工作流与 RAG 管道，涵盖模型管理、Prompt IDE、自主 Agent（带沙箱，可执行命令/安装软件/处理文件）、LLMOps 日志观测与 Backend-as-a-Service API。支持接入数十家推理服务商的数百个专有与开源模型及任何 OpenAI API 兼容模型。通过 Docker Compose 自托管，也可使用官方 Cloud 或面向企业的 Enterprise 版（SSO/RBAC/支持 SLA）。最低系统要求为 2 核 CPU 与 4 GiB 内存。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- 可视化画布构建 AI 工作流，RAG 管道覆盖文档摄取到检索（支持 PDF/PPT 抽取）
-- 接入数百个专有/开源 LLM 及任意 OpenAI API 兼容模型
-- Agent 自带沙箱，可执行命令、安装软件、连接 MCP 服务器与自有 API
-- 全部功能附 API，Cloud/VPC/自托管三种部署路径
+- 可视化画布构建与测试 AI 工作流
+- 接入数百个专有/开源 LLM 与 OpenAI API 兼容模型
+- RAG 管道覆盖文档摄取到检索，支持 PDF/PPT 文本抽取
+- Agent 沙箱可运行命令、安装软件并接入 Marketplace 工具与 MCP 服务器
 
 ## 适用场景
 
-- 团队在协作工作区里从原型快速搭建到生产的 LLM 应用
-- 给文档知识库接入 RAG 问答管道
-- 用可视化编排把多个模型和工具串成自动化工作流
+- 搭建企业内部知识库问答与 RAG 应用
+- 低代码编排多步骤 AI 工作流并接入自有业务 API
+- 通过生产日志与标注持续迭代提示词和数据集
 
 ## 场景标签
 
-`工作流自动化` `RAG` `Agent 框架` · 领域:Agent 开发
+`RAG` `工作流自动化` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L58: Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, ag
-> L90: Seamless integration with hundreds of proprietary / open-source LLMs from dozens of inference providers and self-ho
-> L113: - **Self-hosting Dify Community Edition **
+> L102: Seamless integration with hundreds of proprietary / open-source LLMs from dozens of inference providers and self-h
+> L125: - **Self-hosting Dify Community Edition **
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `11d3f69f4b32` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2eb6048c32ff` · [字段定义](../../DATASET.md)*

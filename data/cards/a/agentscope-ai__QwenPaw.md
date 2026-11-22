@@ -2,9 +2,9 @@
 
 ⭐ 38,080 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/agentscope-ai/QwenPaw) · [官网](http://qwenpaw.agentscope.io/) · 组织维护 · 中文 README
 
-**可自托管部署的个人 AI 助手，多渠道接入**
+**可自部署的个人 AI 助手：多渠道接入、可扩展技能插件**
 
-面向个人用户的 AI 助手，可部署在本地或云端。采用三层记忆机制（工作上下文、完整历史、基于 ReMe 的个人知识库），内置 QwenPaw-Flash 系列模型（2B–35B-A3B），也可接入 Ollama、LM Studio 或 14+ 云端模型服务。支持 DingTalk、Lark、WeChat、Discord、Telegram、iMessage、QQ 等多渠道接入，以及 Console、TUI、桌面应用访问。扩展能力包括 Skills、Plugin 市场、MCP 集成、多 Agent 并行与 ACP 协议编排。安全机制含沙箱、Tool Guard、File Guard、Skill Scanner 与访问策略。
+面向个人用户的 AI 助手框架，可部署在本地或云端。核心机制包括三层记忆（工作上下文、完整历史、自演化知识库）、内核级沙箱与工具/文件防护、多 Agent 并行与 ACP 跨系统编排、文件工作区，以及通过 Skills、插件市场与 MCP 进行的能力扩展。支持钉钉、飞书、微信、Discord、Telegram、iMessage、QQ 等渠道接入，提供 Console、TUI 与桌面应用。内置 QwenPaw Local 运行时可免 API key 运行，也可连接 Ollama、LM Studio 或 14+ 云服务商。桌面应用处于 Beta 阶段。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -27,21 +27,21 @@
 
 ## 能力要点
 
-- 三层记忆：工作上下文、全量历史、自演化个人知识库（ReMe）
-- 内置 QwenPaw-Flash 模型，本地运行无需 API key；兼容 Ollama/LM Studio/14+ 云服务
-- 多渠道接入：DingTalk/Lark/WeChat/Discord/Telegram/iMessage/QQ 单实例全覆盖
-- Kernel 级沙箱、Tool Guard、Skill Scanner 等安全机制
+- 内置 QwenPaw-Flash（2B~35B-A3B）本地运行时，免 API key 运行
+- 三层记忆体系：上下文、逐字历史与自演化 Markdown 知识库（ReMe）
+- Kernel 级 Sandbox、Tool Guard、File Guard、Skill Scanner 安全机制
+- 单实例接入钉钉/飞书/微信/Discord/Telegram/iMessage/QQ 多渠道
 
 ## 适用场景
 
-- 本地部署一个数据不出机器的个人 AI 助手
-- 把新闻摘要、报告生成等定时任务推送到多个聊天渠道
-- 通过 Skills/插件/MCP 扩展专属工作流
-- 在代码项目里进行文件读写、审查与测试
+- 定时生成新闻摘要、报告并多渠道推送
+- 读写审测项目代码与处理 PDF/Word/Excel/PPT 文档
+- 本地部署个人助手，数据留在自己机器上
+- 将内置能力、插件与定时任务组合成自定义工作流
 
 ## 场景标签
 
-`AI 助手` `聊天机器人` · 领域:对话与助手
+`AI 助手` `聊天机器人` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `87bc1bf669d3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8db98a0d6014` · [字段定义](../../DATASET.md)*

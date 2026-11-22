@@ -2,21 +2,21 @@
 
 ⭐ 85,952 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/lobehub/lobehub) · [官网](https://lobehub.com) · 组织维护 · 中文 README
 
-**多智能体协作平台：像团队一样雇佣、调度、汇报 AI 代理**
+**给团队聊天中添加能自主执行任务的 super-agent 平台**
 
-LobeHub 是一个面向多智能体协作的工作空间：以 Agent 为工作单元，提供 Agent Builder 一键生成智能体配置、Agent Groups 并行协作、Pages 共享上下文协作写作、Schedule 定时运行、Workspace 团队空间，以及结构化可编辑的 Personal Memory 持续学习机制。声称支持 10,000+ 技能工具与 MCP 兼容插件。支持通过 Vercel、Zeabur、Sealos、阿里云或 Docker 镜像自行部署，配置 OPENAI_API_KEY 等环境变量后使用。README 注明项目仍在活跃开发中。
+LobeHub 是一个多 agent 平台：用户把 agent 加入团队已有的聊天工具（Discord/Slack/Telegram/QQ/微信/飞书等），agent 可自主领取任务、并行处理、在原线程回报，GitHub 集成使 PR 合并即视为接受工作。平台内置 Lobe AI agent，支持多 agent 协作（顺序/并行/迭代/辩论）、任务委派与定时、结构化记忆、Markdown 长文写作。附 Marketplace 供发布和获取 agents、MCP servers 与 SKILL.md 格式 skills。可云端使用或通过 Docker Compose/Vercel 等自托管。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -26,27 +26,27 @@ LobeHub 是一个面向多智能体协作的工作空间：以 Agent 为工作�
 
 ## 能力要点
 
-- Agent Builder 一句话生成智能体配置
-- Agent Groups 多智能体并行协作与定时调度
-- 10,000+ 工具/MCP 兼容插件库
-- 结构化、可编辑的白盒 Personal Memory
+- 支持将 agent 接入 Discord、Slack、Telegram、QQ、微信、飞书等 IM 渠道
+- GitHub 集成：跟踪 agent 的 PR，合并即接受、检查失败回传 agent
+- Marketplace 提供 agents、MCP servers、SKILL.md 格式 skills 的发布与获取
+- 文档覆盖 40+ 模型服务商的接入配置
 
 ## 适用场景
 
-- 把多个 AI 智能体组成团队按项目协作
-- 通过定时任务让代理在离线时执行工作
-- 在团队工作区中与智能体共享上下文协作
-- 自托管私人聊天机器人服务
+- 在团队聊天工具中部署自主执行任务的 AI agent
+- 多个 agent 按顺序、并行或辩论方式协作完成工作
+- 自托管一套带记忆与任务管理的 agent 工作台
+- 发布自己的 agent 或 MCP server 到公开市场
 
 ## 场景标签
 
-`多智能体` `聊天机器人` `Agent 记忆` · 领域:Agent 开发
+`多智能体` `Agent 框架` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L76: LobeHub is a work-and-lifestyle space to find, build, and collaborate with agent teammates that grow with you. In L
-> L93: - **Unified Intelligence**: Seamlessly access any model and any modality—all under your control.
-> L128: LobeHub provides Self-Hosted Version with Vercel, Alibaba Cloud, and [Docker Image][docker-release-link]. This all
+> L7: Add super-agents to the chats your team already uses.
+> L173: |Agent Team|Several agents working together: sequential, parallel, iterative or debate|
+> L174: |Connect External Agents|Bring in Claude Code, Codex, OpenClaw, Hermes and more, with project context and permissi
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `93a11e8cdb2d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `1786922f13aa` · [字段定义](../../DATASET.md)*

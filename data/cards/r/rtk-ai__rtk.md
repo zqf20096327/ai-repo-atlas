@@ -1,17 +1,17 @@
 # rtk-ai/rtk
 
-⭐ 87,405 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护 · 中文 README
+⭐ 87,405 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护
 
-**压缩开发命令输出的 CLI 代理，降低 agent 读取的 token 消耗**
+**AI 编码代理的 CLI 输出压缩代理，降低 token 消耗**
 
-RTK 以 shell hook 方式拦截 agent 的命令调用，在输出进入 LLM 上下文前按命令类型做过滤、分组、截断与去重，覆盖 git、cargo、npm、pytest、docker 等 100+ 命令。单个 Rust 二进制、无运行时依赖，安装后通过 `rtk init` 为各编码 agent 配置集成；`rtk gain` 提供节省统计。部分版本含 BUSL-1.1 授权的可选 proxy 守护进程，将压缩扩展到 provider API 流量。注意 README 明确节省比例仅针对 bash 输出部分，不等于整体账单降幅。
+一个用 Rust 编写的 CLI 代理工具，插入 AI 编码代理与 shell 之间：代理运行 git、测试、构建等 100+ 常用命令时，RTK 过滤压缩其输出后再交给代理读取，README 声称输出减少 60-90%，每条命令低于 25ms。通过 hook/plugin/rules file 三种方式接入 18 种 AI 编码工具。可选 pipeline 机制可将大文件读取路由到更便宜的模型、经可选 rtk-proxy 清理 API 流量；另有面向企业的商业版 RTK Pro 提供网关、成本控制与审计。`rtk gain` 在本地统计节省量。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | Apache-2.0 |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -26,26 +26,26 @@ RTK 以 shell hook 方式拦截 agent 的命令调用，在输出进入 LLM 上�
 
 ## 能力要点
 
-- 支持 18 个 AI 编码工具的 hook/规则集成（Claude Code、Copilot、Cursor、Gemini CLI 等）
-- 覆盖 100+ 开发命令的输出过滤，宣称 <10ms 开销
-- 按 Apache-2.0 与 BUSL-1.1 双版本分发（oss 版无压缩引擎）
-- 可选 rtk-proxy 守护进程处理 provider API 流量并支持模型路由
+- 压缩 100+ 常用开发命令（git/cargo/pytest/docker 等）的输出，单命令低于 25ms
+- 通过 hook/plugin/rules file 接入 18 种 AI 编码工具，`rtk init -g` 一条命令安装
+- 可选 pipeline：大文件交给更便宜的模型、经 rtk-proxy 清理 API 流量
+- `rtk gain` 本地统计节省的 token 与命令历史
 
 ## 适用场景
 
-- 为 Claude Code 等 agent 减少命令输出占用的上下文
-- 统计并可视化 agent 会话的 token 节省情况
-- 通过代理压缩 agent 的 provider API 请求流量
+- 让 Claude Code 等编码代理读取更短的命令输出以降低 token 账单
+- 团队统一管理多个 AI 代理的成本、密钥与审计
+- 把大文件读取路由给更便宜的模型而不进入代理上下文
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发工具
+`编码 Agent` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L31: rtk filters and compresses command outputs before they reach your LLM context. Single Rust binary, 100+ supported c
-> L143: RTK supports 18 AI coding tools. Each integration rewrites shell commands to `rtk` equivalents, reducing the bash 
-> L147: |**Claude Code**|`rtk init -g`|PreToolUse hook (native binary)|
+> L3:  The cost reduction engine for AI coding agents.
+> L35: Test runs, diffs, logs and builds are compressed before your agent reads them. 100+ commands, under 25 ms per comma
+> L187: RTK supports 18 AI coding tools. With a **hook** or **plugin**, `rtk init` installs it and compression is automati
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8990ace3aed3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `b3540bc29a4c` · [字段定义](../../DATASET.md)*

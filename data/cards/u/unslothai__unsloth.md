@@ -2,15 +2,15 @@
 
 ⭐ 79,904 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
 
-**在本地运行和微调 LLM 与扩散模型的桌面应用**
+**桌面应用：本地运行并微调 LLM 与扩散模型**
 
-Unsloth 提供三种使用形态：桌面应用（Unsloth Desktop）、Web UI（Unsloth Studio）与代码库（Unsloth Core）。功能覆盖本地运行与训练 LLM、GGUF、MLX、扩散、嵌入、音频等模型；微调支持 LoRA、QLoRA、GRPO、DPO、FP8 等；提供 OpenAI 兼容 API、RAG/搜索、LAN 与 Cloudflare 远程访问；通过 unsloth start 一条命令将 Claude Code、Codex 等 agent 接到本地模型。支持 Windows/macOS/Linux，含 Docker 镜像与免费 Colab 类 notebook。
+Unsloth 提供三种使用形态：Desktop 桌面应用（Windows/macOS/Linux 安装包）、Studio Web UI 和 Core 代码库版本，用于本地运行与训练 LLM、GGUF、MLX、扩散、TTS、嵌入等模型。微调支持 LoRA/QLoRA/GRPO/DPO 等方法，并可导出 GGUF、FP8 等格式部署。通过 unsloth start 命令可将 Claude Code、Codex 等 agent 接入本地模型；提供 OpenAI 兼容 API、RAG、网页搜索与 LAN/远程 HTTPS 访问。支持 Docker 部署与免费训练 notebooks。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,27 +27,27 @@ Unsloth 提供三种使用形态：桌面应用（Unsloth Desktop）、Web UI（
 
 ## 能力要点
 
-- 运行与训练 LLM、GGUF、MLX、扩散、嵌入、音频模型
-- 微调支持 RL、LoRA、QLoRA、GRPO、DPO、FP8，导出 GGUF/NVFP4/FP8
-- unsloth start 命令连接 Claude Code、Codex、MCP 等本地 agent
-- 提供 OpenAI 兼容 API、RAG、LAN/Cloudflare 远程访问
+- 运行与微调 LLM、GGUF、MLX、扩散、决策、嵌入、音频模型
+- unsloth start 一条命令连接 Claude Code/Codex 等到本地模型
+- OpenAI 兼容 API、RAG、网页搜索与 LAN/Cloudflare 远程访问
+- 免费 notebooks 覆盖 GRPO、TTS、视觉等训练场景
 
 ## 适用场景
 
-- 在本地桌面运行和微调大模型
-- 把 Claude Code/Codex 等 agent 接入本地模型
-- 从 PDF/CSV/DOCX 构建数据集并训练模型
-- 在局域网或远程安全访问本地模型服务
+- 在本地桌面运行开源模型进行对话或图像生成
+- 微调模型后导出 GGUF 等格式部署
+- 让 Claude Code/Codex 等 agent 使用本地模型
+- 通过局域网或远程 HTTPS 访问本地模型服务
 
 ## 场景标签
 
-`微调` `模型量化` `强化学习` · 领域:训练与推理
+`微调` `强化学习` `推理引擎` `图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L6: Unsloth is the first desktop app to run and train models.
-> L78: * Run and train LLMs, MLX, GGUF, diffusion, decision, embedding, audio models: Qwen3.8, GLM-5.3-Flash, Kimi K3, Qwe
-> L86: * **Fine-tuning:** Train LLMs, diffusion, decision, TTS, and embedding models 2× faster with 70% less VRAM with no 
+> L80: * **Agents & Tools:** Use local models with Claude Code, Codex, and MCP, including tool calling and code execution.
+> L89: * **Fine-tuning:** Train LLMs, diffusion, decision, TTS, and embedding models 2× faster with 70% less VRAM with no 
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `784e42fd7095` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6fe419123131` · [字段定义](../../DATASET.md)*

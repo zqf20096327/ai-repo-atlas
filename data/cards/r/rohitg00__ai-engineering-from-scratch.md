@@ -1,10 +1,10 @@
 # rohitg00/ai-engineering-from-scratch
 
-⭐ 79,755 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [官网](https://aiengineeringfromscratch.com) · 个人维护 · 中文 README
+⭐ 79,755 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [官网](https://aiengineeringfromscratch.com) · 个人维护
 
-**AI 工程课程：542 课时的模型、RAG 与 agent 动手教程**
+**面向开发者的 AI Engineering 从零构建课程（542 课）**
 
-MIT 许可的开源课程仓库，含 542 课时、20 阶段，覆盖数学基础、模型内部实现、检索流水线、agent 运行时、MCP 与 Agent Skills 等，代码含 Python/TypeScript/Rust/Julia。提供三种学习方式：网站直接阅读、通过 npx 安装技能包让 Codex/Claude Code 等编码 agent 充当导师（含摸底测验与个性化计划）、或 git clone 后本地运行课时代码。附三个带参考实现与本地评分器的分阶段项目（检索评测、agent trace 调试、工具调用防火墙）。
+开源课程仓库，覆盖模型内部实现、检索管道与 agent 运行时的从零实现，共 542 课、20 个阶段，使用 Python/TypeScript/Rust/Julia/Go。学习方式有三种：网站阅读、通过 npx skills 将编码 agent 变为导师（提供 start-learning、learn、course-guide 等 skills，支持 Codex 与 Claude Code 等宿主）、本地 clone 运行代码。含三个带本地评分器的分阶段项目（检索评估、agent trace 调试器、工具调用防火墙）。MIT 许可，提供 24 种语言翻译。
 
 ## 筛选速览
 
@@ -27,17 +27,16 @@ MIT 许可的开源课程仓库，含 542 课时、20 阶段，覆盖数学基�
 
 ## 能力要点
 
-- 542 课时、20 阶段，覆盖模型内部、检索与 agent 运行时
-- npx skills 安装后由编码 agent 担任导师（摸底测验、逐课教学、阶段测验）
-- 三个分阶段项目：Python/TypeScript/Rust 各一，附本地评分器
-- 多语言 README 与网站学习路径，无需 clone 即可学习
+- 542 课、20 阶段，从零实现模型内部、检索管道与 agent 循环
+- npx skills add 一条命令将编码 agent 配置为课程导师
+- 三个带分阶段 starter 与本地评分器的实战项目
+- 提供 MCP（17 课）与 Agent Skills（5 课）专题路线
 
 ## 适用场景
 
-- 系统学习 AI 工程：从数学基础到 agent 与 MCP
-- 用 Claude Code/Codex 等编码 agent 作为交互式导师
-- 通过检索评测、trace 调试等实操项目积累作品证据
-- 备考 CCAO/CCDV/CCAR 等 Claude 与 MCPA 认证
+- 想理解 agent 循环、RAG 评估等机制而不只调用框架
+- 让 Claude Code 或 Codex 充当交互式课程导师
+- 通过带评分器的项目练习检索评估与 trace 调试
 
 ## 场景标签
 
@@ -45,8 +44,9 @@ MIT 许可的开源课程仓库，含 542 课时、20 阶段，覆盖数学基�
 
 ## 证据(README 行号)
 
-> L9: > 542 lessons. 20 phases. Python, TypeScript, Rust, Julia.
-> L12:  542 lessons
+> L1: AI Engineering from Scratch
+> L13: > 542 lessons. 20 phases. Python, TypeScript, Rust, Julia, Go.
+> L172: If Node.js, `npx`, and a skill-capable coding agent are already installed, your coding agent can become your tutor
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `9c37ca382e4d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9eeb4a34d77f` · [字段定义](../../DATASET.md)*

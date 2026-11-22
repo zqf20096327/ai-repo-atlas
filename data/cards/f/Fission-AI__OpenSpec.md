@@ -2,15 +2,15 @@
 
 ⭐ 75,422 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Fission-AI/OpenSpec) · [官网](https://openspec.dev/) · 组织维护
 
-**为 AI 编码助手提供规范化规格开发（SDD）工作流的 CLI 工具**
+**为 AI 编码助手提供规格驱动开发的 CLI 工具**
 
-OpenSpec 以 CLI 形式在项目中建立 specs/changes 目录结构，让人与 AI 助手在写代码前先对齐规格：AI 按斜杠命令（/opsx:explore、/opsx:propose 等）读取代码并生成 Markdown 格式的需求与场景，由人审核后再进入实现。每个变更独立成目录，包含提案、规格、设计与任务。支持 30+ AI 编码工具，通过 openspec init 生成对应命令形式；提供 beta 阶段的 Stores 机制支持跨仓库团队共享规格。需 Node.js 20.19.0+，经 npm 或 Homebrew 安装。
+OpenSpec 是一个 CLI 工具，在 AI 编码助手中引入规格驱动开发流程：通过 `openspec init` 在项目中创建 specs/changes 目录结构，AI 依据 spec 先产出计划与需求（纯 Markdown 格式），人在写代码前审阅。提供 /openspec-explore、/openspec-propose 等 skills，支持 30+ AI 编码工具，并支持跨仓库共享需求的 Stores（beta）。通过 npm、Homebrew 或安装脚本分发，需 Node.js 22.20.0+（npm 安装时）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,25 +27,26 @@ OpenSpec 以 CLI 形式在项目中建立 specs/changes 目录结构，让人与
 
 ## 能力要点
 
-- 通过 /opsx:explore、/opsx:propose 等斜杠命令驱动 AI 生成 Markdown 规格
-- 支持 30+ AI 编码工具，init 自动输出各工具的命令形式
-- Stores 机制（beta）支持跨仓库、团队共享的规格存储
-- openspec update 可刷新各项目内 AI 指引
+- AI 编码前先生成 spec，人类审阅计划后再写代码
+- 通过 skills 机制适配 30+ AI 编码工具
+- Stores 支持跨仓库共享需求（beta）
+- 规格为纯 Markdown，无需学习特殊语法
 
 ## 适用场景
 
-- 在使用 AI 编码助手前先与其对齐需求规格
-- 团队跨多个代码仓库协作同一功能的规划与需求共享
-- 平台团队维护规格供其他团队以只读方式消费
+- 在写代码前让 AI 与团队对齐功能需求
+- 跨多个仓库协调一个功能的规划
+- 团队以共享 spec 仓库作为需求的单一事实来源
 
 ## 场景标签
 
- · 领域:软件开发流程/工程效能
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L134: - **Use your tools** — works with 30+ AI assistants via slash commands
 > L129: AI coding assistants are powerful but unpredictable when requirements live only in chat history. OpenSpec adds a l
+> L134: - **Use your tools** — works with 30+ AI assistants via skills
+> L102: These are skills. Most tools invoke them as `/openspec-propose` and Codex as `$openspec-propose`, or you can ask f
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8063b3c124be` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `eb57c488f526` · [字段定义](../../DATASET.md)*

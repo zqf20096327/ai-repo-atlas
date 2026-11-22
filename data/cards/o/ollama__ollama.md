@@ -2,18 +2,18 @@
 
 ⭐ 187,838 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ollama/ollama) · [官网](https://ollama.com) · 组织维护
 
-**本地与云端运行开源大模型的工具：下载即用多款开放模型**
+**本地/云端运行开源大模型的推理工具，提供 CLI 与 REST API**
 
-Ollama 是一个用于在本地或云端运行开源大模型的工具，覆盖下载安装、命令行交互、模型管理和 REST API。支持 macOS、Windows、Linux 的脚本安装与 Docker 官方镜像，提供 Python、JavaScript 官方库；可配合 Claude Code、Codex、Copilot CLI 等编码集成运行，并通过 OpenClaw 接入多平台消息渠道作为 AI 助手。后端基于 llama.cpp 项目。
+Ollama 提供本地与云端运行开源模型（Gemma、DeepSeek、Qwen 等）的运行时，通过安装脚本覆盖 macOS/Windows/Linux，官方 Docker 镜像可容器化部署。核心机制包括：ollama run/launch 命令行启动模型、REST API（localhost:11434）运行与管理模型、官方 Python/JavaScript SDK，以及基于 llama.cpp 的推理后端。文档另收录大量第三方客户端、框架与 SDK 的社区集成清单。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,17 +27,16 @@ Ollama 是一个用于在本地或云端运行开源大模型的工具，覆盖�
 
 ## 能力要点
 
-- 提供 REST API 与 Python/JavaScript 官方库（pip/npm 安装）
-- 支持 macOS/Windows/Linux 脚本安装与官方 Docker 镜像
-- 支持编码集成（Claude Code、Codex、Copilot CLI 等）与 OpenClaw 助手接入
-- 模型后端基于 llama.cpp 项目
+- 一条命令运行模型并与 Claude Code、Copilot 等工具集成（ollama launch）
+- REST API 与官方 Python/JavaScript SDK（pip/npm 安装）
+- 基于 llama.cpp 的推理后端，官方 Docker 镜像 ollama/ollama
+- 维护覆盖聊天界面、编辑器、RAG、Agent 等类别的社区集成清单
 
 ## 适用场景
 
-- 在本地或云端下载并运行开源大模型
-- 通过 REST API 或 SDK 将模型接入自己的应用
-- 将模型接入 Claude Code、Copilot CLI 等编码工具
-- 搭建多平台消息渠道的 AI 助手
+- 在本机隐私环境下运行开源大模型
+- 为自建 Agent/应用提供本地模型推理后端
+- 通过 REST API 将模型接入现有工作流
 
 ## 场景标签
 
@@ -45,9 +44,8 @@ Ollama 是一个用于在本地或云端运行开源大模型的工具，覆盖�
 
 ## 证据(README 行号)
 
-> L5: # Ollama
-> L7: Start building with open models. Access the latest releases locally or in the cloud with complete privacy.
 > L86: Ollama has a REST API for running and managing models.
+> L123: ## Supported backends
 
 ## 星数曲线
 
@@ -63,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `043c4d0499fb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0b766a71b26a` · [字段定义](../../DATASET.md)*

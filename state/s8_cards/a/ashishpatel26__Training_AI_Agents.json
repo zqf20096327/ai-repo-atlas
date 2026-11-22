@@ -1,1 +1,81 @@
-{"fn": "ashishpatel26/Training_AI_Agents", "sha": "da9e9afbc8a7", "source": "readme", "identity": {"one_liner": "用 LangChain/LangGraph 与本地模型学习 LLM Agent 的实操教程", "review": "由 Ashish Patel 维护的教学仓库：11 个 Jupyter notebook 按从零到部署的顺序讲解 LLM Agent 构建，覆盖无框架的 agent loop、LangGraph 图结构、工具调用、持久化、MCP 工具，以及 RAG Agent 与研究 Agent 两个项目。模型通过 Ollama 本地运行（默认 qwen3.5-4b-16k），无需 OpenAI key，但联网搜索需要 Tavily API key。用 uv 管理依赖，另附可部署的 research agent demo（langgraph dev）与速查表、参考链接。", "highlights": ["11 个按序编排的 notebook，覆盖 agent loop、LangGraph 核心概念到部署", "全部笔记本使用 Ollama 本地模型，无需 OpenAI key", "附带可部署的 LangGraph research agent demo（本地服务端口 2024）", "含自定义 MCP server（2.2 模块使用）"], "use_cases": ["系统学习用 LangChain/LangGraph 构建 LLM Agent", "在没有云 API key 的本地环境练习 agent 开发", "部署一个研究型 agent demo 作为项目起点"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程/学习路径", "LLM Agent", "LangGraph", "本地模型", "Jupyter notebook"], "domain": "AI 教育/开发教程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Hands-on notebooks and a deployable demo for building LLM agents with LangChain and LangGraph — running on **local model", "L88: |#|Module|Notebook|What you'll learn|Colab|", "L90: |0.0|Foundations|Intro to LLM Agents from Scratch|Agent loop, tool calling and memory — no framework|Open In Colab|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-22", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ashishpatel26/Training_AI_Agents",
+ "sha": "da9e9afbc8a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 LangChain/LangGraph 与本地模型学习 LLM Agent 的实操教程",
+  "review": "由 Ashish Patel 维护的教学仓库：11 个 Jupyter notebook 按从零到部署的顺序讲解 LLM Agent 构建，覆盖无框架的 agent loop、LangGraph 图结构、工具调用、持久化、MCP 工具，以及 RAG Agent 与研究 Agent 两个项目。模型通过 Ollama 本地运行（默认 qwen3.5-4b-16k），无需 OpenAI key，但联网搜索需要 Tavily API key。用 uv 管理依赖，另附可部署的 research agent demo（langgraph dev）与速查表、参考链接。",
+  "highlights": [
+   "11 个按序编排的 notebook，覆盖 agent loop、LangGraph 核心概念到部署",
+   "全部笔记本使用 Ollama 本地模型，无需 OpenAI key",
+   "附带可部署的 LangGraph research agent demo（本地服务端口 2024）",
+   "含自定义 MCP server（2.2 模块使用）"
+  ],
+  "use_cases": [
+   "系统学习用 LangChain/LangGraph 构建 LLM Agent",
+   "在没有云 API key 的本地环境练习 agent 开发",
+   "部署一个研究型 agent demo 作为项目起点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/学习路径",
+   "LLM Agent",
+   "LangGraph",
+   "本地模型",
+   "Jupyter notebook"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "tutorials",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Hands-on notebooks and a deployable demo for building LLM agents with LangChain and LangGraph — running on **local model",
+   "L88: |#|Module|Notebook|What you'll learn|Colab|",
+   "L90: |0.0|Foundations|Intro to LLM Agents from Scratch|Agent loop, tool calling and memory — no framework|Open In Colab|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

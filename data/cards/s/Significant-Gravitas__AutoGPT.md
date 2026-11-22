@@ -2,9 +2,9 @@
 
 ⭐ 188,126 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [官网](https://agpt.co) · 组织维护
 
-**面向用户与开发者的 AI agent 构建与运行平台**
+**给企业和个人的一组可指挥的 AI 专家团队平台**
 
-AutoGPT 提供构建、部署和运行 AI agent 的开源平台，支持用自然语言描述任务（AutoPilot）或在可视化画布（Build）中逐步编排工作流，agent 可按需、按计划或由触发器运行。平台包含 Agents 仪表盘与 Marketplace 社区 agent 市场，连接 45+ 平台与数百个 AI 模型。提供托管 Platform（付费、含模型访问）与自托管（免费、需自备 Docker 基础设施与模型 API key）两条路径；原独立版 AutoGPT Classic 保留于 classic/ 目录，采用 MIT 许可证。
+AutoGPT 提供多个角色化的 AI 专家（Otto 协调、Maria 内容、Max 销售、Frankie 助理），用户用自然语言布置任务，由协调者分派给专家并汇总结果。专家可自定义指令、上下文、技能与连接的应用；支持例程化重复任务、支出控制与账户授权。提供托管平台（付费试用）与自托管两条路径，自托管支持单容器 Docker 镜像、安装器以及 Docker Compose/源码方式；附可视化工作流构建器、市场与 API/MCP server。原独立版以 AutoGPT Classic 形式另行提供。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ AutoGPT 提供构建、部署和运行 AI agent 的开源平台，支持用自�
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -25,27 +25,26 @@ AutoGPT 提供构建、部署和运行 AI agent 的开源平台，支持用自�
 
 ## 能力要点
 
-- AutoPilot 对话转 agent 与可视化 Build 画布两种构建方式
-- 45+ 平台集成（Gmail、GitHub、Slack、Notion 等）
-- 托管 Platform 与自托管双路径，同一代码仓库
-- AutoGPT Classic 以 MIT 许可证保留在 classic/ 目录
+- 多专家协作：Otto 协调多角色专家完成任务
+- 可视化工作流构建器与工作流市场
+- 支持托管平台与 Docker 自托管部署
+- 提供 API 和 MCP server 以代码或 AI 编码 agent 驱动工作流
 
 ## 适用场景
 
-- 用自然语言把日常流程变成定时或触发式运行的 agent
-- 自托管平台并接入自己的模型 API key 构建自动化工作流
-- 从 Marketplace 选取现成社区 agent 定制使用
-- 用 Classic 版本构建或基准测试独立 agent
+- 把内容创作、销售研究、日常行政任务交给多个 AI 专家分工完成
+- 将重复性工作固化为可复用的例程或工作流
+- 在自有基础设施上部署并掌控数据与模型凭证
 
 ## 场景标签
 
-`Agent 框架` `工作流自动化` · 领域:Agent 开发
+`工作流自动化` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L31: AutoGPT lets you build, deploy, and run AI agents that carry out complete workflows. Describe an outcome in plain E
-> L84: ### Self-host AutoGPT
-> L155: Looking for the original standalone AutoGPT agent? It remains available in `classic/` under the MIT License.
+> L5:  AutoGPT — Your team of AI Experts
+> L68: Use the hosted Platform to get your team running without managing the infrastructure or supplying model API keys.
+> L118: Experts can use skills and workflows to do their jobs. The visual builder lets you define repeatable steps, connec
 
 ## 星数曲线
 
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d9b3cba04445` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a61709f5ba48` · [字段定义](../../DATASET.md)*

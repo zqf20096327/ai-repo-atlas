@@ -2,16 +2,16 @@
 
 ⭐ 61,146 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/crewAIInc/crewAI) · [官网](https://crewai.com) · 组织维护
 
-**面向开发者的多 Agent 协作编排 Python 框架**
+**给开发者的多智能体编排框架，用 Crews/Flows 构建自动化**
 
-开源 Python 框架，通过 Crews（基于角色的自主协作 Agent 团队）与 Flows（事件驱动、精细控制的确定性工作流）两种抽象构建多 Agent 自动化。提供 CLI（crewai create/install/run）以 JSON-first 项目结构脚手架化项目，支持工具、记忆、知识、结构化输出、checkpointing 与 MCP/A2A；要求 Python >=3.10 且 <3.14，依赖 uv 管理。另有面向企业的 AMP Suite 商业控制面提供托管部署、可观测性与支持。
+开源 Python 框架，提供两种构建方式：Crews 通过角色化智能体实现自主协作与任务委派，Flows 提供事件驱动、带状态管理与条件分支的精确工作流控制，两者可组合使用。配套 CLI 可创建项目、安装依赖并运行（crewai create/install/run），项目以 JSON 定义智能体与任务，支持自定义工具、知识文件、结构化输出、人审环节、checkpointing 与 MCP/A2A。要求 Python >=3.10 且 <3.14，依赖 uv 管理环境；另有面向企业的商业控制面 AMP Suite。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | MIT |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -27,17 +27,16 @@
 
 ## 能力要点
 
-- Crews（自主协作）与 Flows（事件驱动控制）双模型组合
-- CLI 一键创建项目并按 JSON 定义运行（crewai create/run）
-- 支持工具、记忆、知识、结构化输出、checkpointing 与 MCP/A2A
-- 提供 Claude Code/Cursor 等 AI 编码 agent 的官方 skills 安装
+- Crews（自主协作）与 Flows（事件驱动控制）两种编排模式
+- CLI 全流程：create/install/run，项目以 agents/*.jsonc 与 crew.jsonc 定义
+- 支持 tools、memory、knowledge、checkpointing、异步执行与 MCP/A2A
+- 提供面向 AI 编码助手的官方 skills（Claude Code/Cursor 等）
 
 ## 适用场景
 
-- 构建多 Agent 角色分工协作的自动化流水线
-- 需要精细流程控制与状态管理的事件驱动工作流
-- 将原型级 agent 应用推进到生产级部署
-- 让 AI 编码助手按官方最佳实践生成 CrewAI 项目
+- 编排多个角色化智能体协作完成研究与报告生成任务
+- 构建需要状态管理与条件分支的生产级事件驱动工作流
+- 为团队搭建可部署、可观测的 agentic 自动化应用
 
 ## 场景标签
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `4c734e241611` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `cfd991b89b23` · [字段定义](../../DATASET.md)*

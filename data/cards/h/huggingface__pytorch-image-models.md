@@ -1,16 +1,16 @@
 # huggingface/pytorch-image-models
 
-⭐ 37,300 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/pytorch-image-models) · [官网](https://huggingface.co/docs/timm) · 个人维护
+⭐ 37,300 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/pytorch-image-models) · [官网](https://huggingface.co/docs/timm) · 组织维护
 
-**为 PyTorch 开发者提供图像编码器/骨干网络集合与预训练权重**
+**PyTorch 图像编码器/骨干网络库：训练、评估、推理与预训练权重**
 
-timm 是一个 PyTorch 图像模型库，收录多种视觉骨干网络（ResNet、EfficientNet、ViT、Swin Transformer、ConvNeXt 等）的定义与预训练权重，并提供训练、评估、推理、导出脚本（train.py / validate.py / inference.py）以及 ONNX 导出支持。面向计算机视觉研究与工程开发者。近期更新包括 sweep.py 超参网格/随机搜索、多标签分类任务（BCE 训练与 mAP/F1 评估）、WSD 学习率调度器，以及一批新模型权重的接入。
+timm 提供大量 PyTorch 图像分类编码器/骨干网络的模型定义与预训练权重（ResNet、EfficientNet、ViT、Swin、ConvNeXt 等），附带 train.py / validate.py / inference.py / export 脚本。机制上覆盖多标签分类、优化器与学习率调度（WSD、plateau 弃用声明）、`forward_intermediates()`、`features_only`、`reset_classifier()`、`set_input_size()`、ONNX 导出与分布式训练。以 pip 库形式发布，面向图像分类/视觉骨干网络使用者。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -25,26 +25,26 @@ timm 是一个 PyTorch 图像模型库，收录多种视觉骨干网络（ResNet
 
 ## 能力要点
 
-- 提供多种图像分类骨干网络的模型定义与预训练权重
-- 附带 train.py、validate.py、inference.py、export 脚本及新的 sweep.py 超参搜索
-- 支持多标签分类任务与 mAP/F1 评估指标
-- 支持 ONNX 导出与 torch.compile
+- 收录 ResNet/EfficientNet/ViT/Swin/ConvNeXt 等多族模型定义与预训练权重
+- 提供训练、评估、推理、导出脚本，支持多标签分类与分布式训练
+- 模型 API 支持 forward_intermediates()、features_only、reset_classifier() 与 set_input_size()
+- 新增 sweep.py 超参数网格/随机搜索，支持本地 GPU 池与断点续跑
 
 ## 适用场景
 
-- 用预训练权重做图像分类模型的训练与微调
-- 为自己的任务挑选并评估不同的视觉骨干网络
-- 将训练好的模型导出为 ONNX 用于部署推理
+- 为下游视觉任务加载预训练图像编码器/骨干网络
+- 在 ImageNet 类数据上训练或微调图像分类模型
+- 导出 ONNX 格式用于部署
+- 在新数据集上做多标签图像分类训练与评估
 
 ## 场景标签
 
-`微调` · 领域:训练与推理
+`微调` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L1: # PyTorch Image Models
-> L8: * Hyperparameter sweeps via a new `sweep.py`: grid / random search over any `train.py` argument, one effective `--co
-> L39:  * Add `--task multilabel` to `train.py` / `validate.py`, trained with BCE (`MultiLabelClassificationTask`). See th
+> L19: * `forward_intermediates()` and `prune_intermediate_layers()` are now supported by every model. Newly added for CSP
 
 ## 星数曲线
 
@@ -60,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `af877e0bf157` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d3c03d2a03a4` · [字段定义](../../DATASET.md)*

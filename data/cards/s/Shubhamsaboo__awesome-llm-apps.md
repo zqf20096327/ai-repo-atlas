@@ -2,15 +2,15 @@
 
 ⭐ 145,305 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [官网](https://www.theunwindai.com) · 个人维护
 
-**面向开发者的 100+ 开源 AI agent 与 RAG 应用模板合集**
+**面向开发者的 100+ 开源 AI Agent 与 RAG 应用模板合集**
 
-以 Apache-2.0 许可的开源仓库形式收录 100+ 模板，按 Agent Skills、入门/进阶 agent、多 agent 团队、语音 agent、生成式 UI、游戏 agent、MCP agent 与 RAG 等类别组织；每个模板附带可运行代码，可通过 npx 安装技能或 git clone 后 pip 安装依赖并用 streamlit 运行。支持接入 Claude、Gemini、GPT、DeepSeek、Llama、Qwen 等模型，入门类 agent 只需 API key 即可运行。模板通过 Unwind AI 周更分发。
+收录 100+ 开源 AI agent、agent 技能与 RAG 应用模板，Apache-2.0 许可，按 Agent Skills、Standalone Apps、Starter Agents、Advanced Agents、Multi-agent Teams、Voice、MCP、RAG 等类别组织。每个模板附源码，入门类为单文件、仅需 API key 即可运行；Agent Skills 通过 npx 一条命令安装到 Claude Code、Codex、Cursor 等编码 agent，并通过安全与 eval CI 检查。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 100+ 开源模板，覆盖入门 agent、多 agent 团队、MCP、RAG 等类别
-- Agent Skills 可通过 npx 一条命令安装，适配 Claude Code、Codex、Cursor 等编码 agent
-- 入门类单文件 agent 仅需 API key 即可运行
-- 支持本地与云端模型（含本地 RAG 与本地旅行 agent）
+- 100+ 模板按技能/入门/进阶/多智能体/语音/MCP/RAG 等类别组织
+- Agent Skills 支持 npx 一条命令安装到 Claude Code、Codex、Cursor 等编码 agent
+- 入门 agent 为单文件、仅需一个 API key 即可运行
+- Apache-2.0 许可，允许克隆与商用
 
 ## 适用场景
 
-- 找一个可克隆运行的 agent 模板学习 agent 开发
-- 给编码 agent 安装现成技能扩展能力
-- 基于 RAG 或多 agent 模板搭建自己的应用原型
+- 为学习或原型开发挑选可运行的 agent 模板
+- 给编码 agent 安装现成技能提升工作流
+- 基于模板快速搭建 RAG 或多智能体应用
 
 ## 场景标签
 
@@ -44,9 +44,9 @@
 
 ## 证据(README 行号)
 
-> L3: **100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.**
-> L7: Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source models.
+> L1: # Awesome LLM Apps
 > L56: ### 🧩 Agent Skills
+> L3: **100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.**
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `2c10cb3c7142` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `daa931912b72` · [字段定义](../../DATASET.md)*

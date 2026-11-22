@@ -2,15 +2,15 @@
 
 ⭐ 87,638 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/unclecode/crawl4ai) · [官网](https://crawl4ai.com/?ref=github-about) · 个人维护
 
-**为 LLM 与 AI Agent 提供网页抓取，输出干净 Markdown**
+**为 AI agent 与 RAG 生成干净 Markdown/结构化 JSON 的开源爬虫**
 
-开源网页爬取与抓取库，把任意网页转换为面向 LLM 的 Markdown，用于 RAG、AI Agent 与数据管道。提供 Python 库、CLI（crwl）、Docker 自托管服务器与 Crawl4AI Cloud 托管服务四种形态；内置 CSS/XPath/正则等免 LLM 的结构化抽取策略，也支持接入任意 LLM 做 JSON 抽取；通过 Playwright 控制浏览器，支持会话、代理、深爬与自适应爬取。Apache 2.0 协议并要求署名。
+开源（Apache-2.0）网络爬虫库，配套托管云 API。核心能力：将网页转为适配 LLM 阅读的 Markdown（含标题、表格、引用列表与去噪过滤器）、通过 CSS/XPath/正则（无 LLM）或任意 LLM 提供商提取结构化 JSON、浏览器控制（会话、代理、隐身模式、Chromium/Firefox/WebKit）、深爬策略与自适应爬取。可通过 pip、CLI（crwl）或 Docker 服务器自托管，亦可用免费 API key 接入云端 /scrape、/extract、/search 等端点及 MCP 服务。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,27 +27,27 @@
 
 ## 能力要点
 
-- pip 安装后 crawl4ai-setup 一键配置浏览器
-- CSS/XPath/正则免 LLM 抽取与 LLM 抽取策略并存
-- Docker 自托管 REST API 与 MCP 端点，提供 AMD64/ARM64 镜像
-- 云服务提供 /scrape、/extract、/search、/serp、/answer 端点
+- 生成含引用列表的 LLM 友好 Markdown，带 Pruning/BM25/LLM 三种内容过滤器
+- 无 LLM 的 CSS/XPath/正则结构化提取，及可接任意 LLM 提供商的 LLMExtractionStrategy
+- 浏览器控制：持久会话、代理轮换、隐身模式、多引擎支持
+- Docker 自托管带 REST API、MCP、监控面板，支持 AMD64/ARM64
 
 ## 适用场景
 
-- 为 RAG 知识库把网页批量转成 Markdown 语料
-- 给 AI Agent 提供 MCP 形式的网页抓取工具
-- 用 CSS/XPath 模式从页面抽取结构化 JSON
-- 自托管爬取服务器供团队内部调用
+- 为 RAG 管道批量抓取网页并转成 Markdown 语料
+- 从网页抽取结构化 JSON 供数据管道使用
+- 给 Claude Code/Cursor 等 agent 接入抓取与网页搜索工具
+- 自托管爬虫服务并控制代理与会话
 
 ## 场景标签
 
-`网页抓取` · 领域:效率与自动化
+`网页抓取` `文档解析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L19: Crawl4AI turns any website into clean, LLM-ready Markdown for RAG, AI agents and data pipelines. Run the open-sourc
-> L100: - 🔎 **CSS and XPath schemas**: fast extraction with no LLM (`JsonCssExtractionStrategy`, `JsonXPathExtractionStrat
-> L157: pip install -U crawl4ai
+> L3: **Crawl4AI Cloud is a hosted web scraping, extraction, and search API for AI agents and data pipelines.** Turn pages
+> L111: - **LLM-ready output**: smart Markdown with headings, tables, code and citation hints
+> L132: - 🤖 **LLM extraction**: any LLM provider, open-source or hosted, into a typed JSON schema (`LLMExtractionStrategy`
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `285872f1693e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `aca4d1854255` · [字段定义](../../DATASET.md)*

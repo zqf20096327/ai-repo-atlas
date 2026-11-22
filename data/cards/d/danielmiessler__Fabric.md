@@ -2,15 +2,15 @@
 
 ⭐ 44,689 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/danielmiessler/Fabric) · [官网](https://danielmiessler.com/p/fabric-origin-story) · 个人维护
 
-**面向命令行用户的 AI 提示词组织与调用框架**
+**为命令行用户组织 AI 提示词并可接入多家模型的框架**
 
-开源 AI 框架，将提示词组织为 Patterns（按现实任务分类的可复用单元），供用户在各工具中调用，也可作为命令行界面直接使用。覆盖提取视频要点、写文章、摘要论文、生成总结等任务场景。提供 Go 实现与 REST API，支持 10 余种原生接入的 AI 提供商及数十家 OpenAI 兼容供应商，配置按 Pattern 映射模型。安装覆盖脚本、二进制、多包管理器与 Docker。
+Fabric 以开源框架形式组织提示词（Patterns），按真实任务分类管理，用户可在自己的常用工具中调用这些提示，或直接通过 Fabric 的命令行界面使用。它支持原生接入多家 AI 服务商，也支持大量 OpenAI 兼容接口的服务商，通过 `fabric --setup` 配置 API key，并提供 REST API 服务器、每个 Pattern 独立映射模型的环境变量、模式别名为 shell 命令等机制。安装覆盖一键脚本、二进制包、多平台包管理器、Go 源码与 Docker 镜像，支持 x86/ARM 的 macOS/Linux/Windows。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,21 +27,21 @@
 
 ## 能力要点
 
-- 以 Patterns（提示词单元）组织 AI 能力，按任务分类管理
-- 原生接入十余家 AI 提供商，另支持数十家 OpenAI 兼容供应商
-- 提供 CLI 与 REST API（含 Swagger/OpenAPI 文档）两种使用方式
-- 支持按 Pattern 配置模型映射（FABRIC_MODEL_PATTERN_NAME 环境变量）
+- 以 Patterns（提示词）为基本单位，按任务组织并可自建/收集
+- 原生接入 OpenAI、Anthropic、Gemini、Ollama、Bedrock 等服务商，另支持数十家 OpenAI 兼容服务商
+- 提供 REST API 服务器与 Swagger/OpenAPI 文档界面
+- 支持 OpenAI 语音转文字的 `--transcribe-file` 等转写功能
 
 ## 适用场景
 
-- 在命令行中直接调用整理好的提示词完成摘要/写作等任务
-- 把常用的 AI 提示词集中收集、版本化管理
-- 通过 YouTube/播客转录提取内容要点
-- 统一配置多家 AI 供应商并在不同 Pattern 间切换模型
+- 在命令行里对任意输入套用现成 Pattern（如总结、提炼要点）
+- 把自己常用的提示词集中管理并在多个工具中复用
+- 通过 REST API 把提示词能力接入其他工具
+- 在 Raspberry Pi 等 ARM 设备上运行（提供 ARM 二进制）
 
 ## 场景标签
 
-`提示工程` `AI 写作` · 领域:Agent 开发
+`提示工程` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6a06de459335` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9fa7f511e762` · [字段定义](../../DATASET.md)*

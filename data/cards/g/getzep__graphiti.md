@@ -2,9 +2,9 @@
 
 ⭐ 32,984 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/getzep/graphiti) · [官网](https://help.getzep.com/graphiti) · 组织维护
 
-**面向 AI agent 的时序知识图谱构建与查询框架**
+**为 AI Agent 构建可查询时序知识图谱的 Python 框架**
 
-Graphiti 是构建时序上下文知识图谱的开源框架：从结构化与非结构化数据（用户交互、企业数据、外部信息）自主抽取实体、关系与带时效窗口的事实，增量更新无需全图重算，支持语义+BM25+图遍历的混合检索与历史时刻查询，事实可溯源到原始 episode 数据。本体通过 Pydantic 模型定义或从数据中习得。作为 pip 包安装，需自备图数据库后端（Neo4j/FalkorDB/Neptune）与 LLM 服务，默认 OpenAI。它是商业产品 Zep 的开源核心，自带 MCP 与 REST 参考服务器（明示不适用于生产）。Kuzu 后端已标记弃用。
+Graphiti 是一个开源 Python 框架，用于构建和查询面向 AI Agent 的时序 context graph：事实带有效期窗口、保留对原始数据（episodes）的溯源、支持 Pydantic 定义或从数据中习得的本体。数据增量接入无需全图重算，检索混合语义嵌入、BM25 与图遍历。用户提供图数据库（Neo4j/FalkorDB/Neptune）、LLM 与嵌入器；默认使用 OpenAI，需 OpenAI API key；附参考 MCP 与 REST 服务器实现（无鉴权，非生产部署）。
 
 ## 筛选速览
 
@@ -27,25 +27,26 @@ Graphiti 是构建时序上下文知识图谱的开源框架：从结构化与�
 
 ## 能力要点
 
-- 事实带时效窗口，信息变化时旧事实被失效而非删除，支持历史时刻查询
-- 增量图构建，新数据实时整合，无需批量重算
-- 混合检索：语义嵌入 + BM25 关键词 + 图遍历，不依赖 LLM 摘要
-- 支持 Pydantic 预定义本体或从数据习得本体
+- 事实带时序有效期窗口，信息变更时旧事实失效而非删除
+- 混合检索：语义嵌入 + BM25 关键词 + 图遍历
+- 增量图构建，无需批量重算；支持 prescribed/learned 双本体
+- 提供参考 MCP 服务器与 REST 服务器实现
 
 ## 适用场景
 
-- 为 AI agent 构建随交互实时演化的记忆与上下文图谱
-- 在频繁变化的企业数据上做带时间维度的知识查询
-- 替代批量式 RAG 做增量知识整合与带溯源的检索
+- 给 Agent 构建随交互演化的长期记忆图谱
+- 对频繁变化的企业数据做时序查询与历史回溯
+- 替代静态 RAG 分块方案，保留结构化上下文与溯源
 
 ## 场景标签
 
-`知识图谱` `Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `知识图谱` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L27: Graphiti is a framework for building and querying temporal context graphs for AI agents. Unlike static knowledge gr
-> L31: Unlike traditional retrieval-augmented generation (RAG) methods, Graphiti continuously integrates user interactions
+> L69: Graphiti is an open-source Python framework for building and querying temporal context graphs. You supply the graph
+> L91: |**Graph database**|Konig, Zep's graph database service, built for millions of context graphs with low-latency retr
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `4a8557842498` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e7c5df3bb34e` · [字段定义](../../DATASET.md)*

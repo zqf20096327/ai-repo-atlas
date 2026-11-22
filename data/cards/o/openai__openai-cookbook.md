@@ -2,15 +2,15 @@
 
 ⭐ 77,264 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/openai/openai-cookbook) · [官网](https://cookbook.openai.com) · 组织维护
 
-**为 OpenAI API 使用者提供示例代码与任务指南**
+**面向 OpenAI API 用户的示例代码与任务指南合集**
 
-OpenAI 官方维护的示例代码与指南合集，覆盖使用 OpenAI API 完成常见任务的方法。示例以 Python 为主，概念可迁移到其他语言。运行示例需要 OpenAI 账号与 API key，通过 OPENAI_API_KEY 环境变量或 .env 文件配置。内容在 cookbook.openai.com 提供导航，项目采用 MIT 许可证。
+OpenAI 官方 Cookbook 仓库，提供使用 OpenAI API 完成常见任务的示例代码与指南，以 notebook 形式组织，配套站点 cookbook.openai.com 提供导航。运行示例需要 OpenAI 账号与 API key，通过 OPENAI_API_KEY 环境变量或 .env 文件配置。示例大多以 Python 编写，概念可迁移到其他语言。仓库采用 MIT 许可证，并收录来自社区的相关工具、指南与课程资源链接。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,16 +26,16 @@ OpenAI 官方维护的示例代码与指南合集，覆盖使用 OpenAI API 完�
 
 ## 能力要点
 
-- 常见任务的示例代码与指南合集
-- 示例以 Python 为主，概念可应用于其他语言
-- 通过 OPENAI_API_KEY 环境变量或 .env 文件配置密钥
-- MIT 许可证开源
+- 提供 OpenAI API 常见任务的示例代码与指南
+- 配套 cookbook.openai.com 站点导航
+- API key 通过环境变量或 .env 文件配置
+- 示例以 Python 为主，概念适用于任意语言
 
 ## 适用场景
 
-- 查阅 OpenAI API 完成常见任务的示例代码
-- 为其他编程语言移植 API 使用概念提供参考
-- 搭建本地环境运行官方示例 notebook
+- 查找用 OpenAI API 完成某类任务的参考示例
+- 按官方指南学习 API 的使用方式
+- 复制 notebook 代码到自己的项目改造使用
 
 ## 场景标签
 
@@ -43,8 +43,8 @@ OpenAI 官方维护的示例代码与指南合集，覆盖使用 OpenAI API 完�
 
 ## 证据(README 行号)
 
-> L9: Example code and guides for accomplishing common tasks with the OpenAI API. To run these examples, you'll need an Op
-> L11: Most code examples are written in Python, though the concepts can be applied in any language.
+> L6: Example code and guides for accomplishing common tasks with the OpenAI API. To run these examples, you'll need an Op
+> L10: For other useful tools, guides and courses, check out these related resources from around the web.
 
 ## 星数曲线
 
@@ -60,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `46ba09efcc5a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `55ac3ebe9e86` · [字段定义](../../DATASET.md)*

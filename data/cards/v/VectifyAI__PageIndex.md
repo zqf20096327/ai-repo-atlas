@@ -2,18 +2,18 @@
 
 ⭐ 40,684 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/VectifyAI/PageIndex) · [官网](https://pageindex.ai) · 组织维护
 
-**无向量库、基于 LLM 推理的树状索引 RAG 引擎**
+**为开发者提供无向量库、基于树索引推理的 RAG 引擎**
 
-以文档层级树索引替代向量索引的 RAG 引擎：先为每份 PDF 生成树状索引（索引模型仅做摘要精炼），再由 LLM 在树上多步推理完成检索，检索结果可溯源到具体引用。本地模式通过 pip 安装 SDK，使用自有 LLM key 完成 indexing/retrieve/chat；亦可切换到云端 API key，云端另提供 OCR、图像理解与托管存储。README 给出索引成本（约每页 $0.001）、查询成本对比与 FinanceBench 评测数据。面向处理金融报告、法律文件、技术手册等长文档的开发者，本地方案限文本型 PDF、不含 OCR。
+PageIndex 将文档索引为树结构，检索时由 LLM 通过推理遍历该树定位相关页面，不使用向量数据库与分块。提供本地与云端两种模式：本地支持文本型 PDF 的索引、检索与带页码引用的问答；云端托管索引与存储，支持扫描件与图像文档、框级引用、MCP server。以 Python SDK（pip 包）提供，模型接入遵循 LiteLLM 命名，支持 OpenAI/Anthropic/OpenRouter 等，也可将工具接入已有 agent 框架。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,25 +27,27 @@
 
 ## 能力要点
 
-- 树状索引 + LLM 推理检索，无需向量库与分块
-- SDK 本地模式：索引/检索/对话全在本机，使用自有 LLM key
-- 可通过 Claude Code 订阅调用 Claude 模型，无需 API key
-- 同一客户端可切换 PageIndex Cloud（OCR、图像理解、托管存储）
+- 文档索引为树结构，检索由 LLM 推理遍历树完成
+- 引用可定位到页码，云端支持页内证据框选
+- 支持多轮对话、跨文档提问与流式输出
+- 提供工具与系统提示供接入 OpenAI/Anthropic/Claude agent SDK
 
 ## 适用场景
 
-- 对金融/法律等长文档做可溯源的问答检索
-- 在本地用自己的模型 key 搭建无向量库的 RAG 流程
-- 将 PageIndex 工具接入 OpenAI Agents SDK / Claude Agent SDK 等自有 agent
+- 对财报、法律文件等长文档做问答检索
+- 回答需要可追溯页码引用的场景
+- 把文档检索工具接入自己的 agent
+- 本地用自有 API key 索引并查询 PDF 文档
 
 ## 场景标签
 
-`RAG` `文档问答` · 领域:知识与检索
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L28: Inspired by AlphaGo, **PageIndex** replaces the vector index with a **hierarchical tree index** and lets an LLM **r
-> L39: <blockquote>PageIndex is a vectorless , reasoning-based RAG engine that mirrors how humans read , delivering tracea
+> L43: <blockquote>PageIndex is a vectorless , reasoning-based RAG engine that mirrors how humans read , delivering tracea
+> L30: Inspired by AlphaGo, **PageIndex** replaces the vector index with a **hierarchical tree index** and lets an LLM **r
+> L271: Your agent keeps its own model and gets PageIndex's tools to find and read your indexed documents, so the client n
 
 ## 星数曲线
 
@@ -61,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `358819603324` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5b3be52b5dd0` · [字段定义](../../DATASET.md)*

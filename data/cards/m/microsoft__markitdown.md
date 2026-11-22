@@ -2,9 +2,9 @@
 
 ⭐ 197,449 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/markitdown) · 组织维护
 
-**面向 LLM 场景的文件转 Markdown Python 工具**
+**将各类文件与 Office 文档转换为 Markdown 的 Python 工具**
 
-轻量级 Python 工具，将多类文件转换为 Markdown，目标消费者是 LLM 与文本分析流水线，转换时保留标题、列表、表格、链接等文档结构。支持 PDF、Office 文档、图片（EXIF/OCR）、音频（转录）、HTML、YouTube URL 等。提供 CLI、Python API、第三方插件机制与 Docker 运行方式；另可通过 Azure Document Intelligence / Content Understanding 或 OpenAI 客户端进行云端增强转换与图片描述。README 明确定位为库而非面向最终用户的应用，不接受 Web 服务或桌面应用贡献。
+MarkItDown 是微软发布的轻量 Python 工具，把 PDF、PowerPoint、Word、Excel、HTML、EPub、音视频链接等多种格式转换为 Markdown，重点保留标题、列表、表格、链接等文档结构，目标消费方是 LLM 与文本分析流水线。提供 CLI、Python API 与第三方插件机制，可选依赖按格式拆分安装；图像描述与语音转录依赖 web 服务，Azure Document Intelligence 与 Content Understanding 提供付费云端转换选项。
 
 ## 筛选速览
 
@@ -27,26 +27,25 @@
 
 ## 能力要点
 
-- 多格式转 Markdown：PDF、Word、PowerPoint、Excel、图片、音频、HTML、EPub 等
-- 提供 CLI、Python API、Docker 三种使用方式
-- 支持第三方插件机制（#markitdown-plugin）
-- 可选接入 Azure Document Intelligence / Content Understanding 与 LLM 图片描述
+- 支持 PDF/PPTX/DOCX/XLSX/HTML/EPub/YouTube URL 等多格式转 Markdown
+- CLI、Python API 与第三方插件（#markitdown-plugin）三种使用方式
+- 可选接入 OpenAI 兼容 LLM 做图像描述与 OCR（markitdown-ocr 插件）
+- 可选 Azure Document Intelligence / Content Understanding 云端转换与结构化字段抽取
 
 ## 适用场景
 
-- 把本地文档批量转换后喂给 LLM 做文本分析
-- 为 RAG 流水线准备结构化 Markdown 语料
-- 用 OCR/语音转录插件提取图片与音频中的文本
+- 把 Office 文档批量转成 Markdown 供 LLM 流水线处理
+- 为 RAG 或文本分析准备结构化文本输入
+- 转换扫描件时走 Azure Document Intelligence 的 OCR 路径
 
 ## 场景标签
 
-`文档解析` `OCR` · 领域:知识与检索
+`文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L9: MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related te
-> L263: To use Large Language Models for image descriptions (currently only for pptx and image files), provide `llm_client
-> L287: MarkItDown is a Python utility for converting files to Markdown for use with LLMs and related text analysis pipeli
+> L313: To use Large Language Models for image descriptions (currently only for pptx and image files), provide `llm_client
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2287a6ff1e1d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d27a332b787a` · [字段定义](../../DATASET.md)*

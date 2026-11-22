@@ -2,9 +2,9 @@
 
 ⭐ 46,468 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/streamlit/streamlit) · [官网](https://streamlit.io) · 组织维护
 
-**让开发者用 Python 脚本快速构建和分享数据应用**
+**用纯 Python 构建数据应用与仪表盘的应用框架**
 
-Streamlit 将 Python 脚本转换为交互式 Web 应用的框架：提供输入组件、数据框、图表、布局与多页面应用等元素，编辑脚本后应用即时更新。应用可通过 Streamlit Community Cloud 平台免费部署、管理和分享。通过 pip 安装，社区可通过 Streamlit Components 扩展功能；目前 README 注明已暂停接受维护者团队之外的 pull request。
+Python 编写的数据应用框架：应用即纯 Python 脚本，无需单独前端或 API 层，框架负责界面、状态、缓存、登录、主题等。定位为 agent 可编写的应用层，提供 `streamlit skills` 为 Claude Code 等编码 agent 安装技能包；应用可经 MCP 被 Claude/ChatGPT/Cursor 等客户端当作工具调用。提供 pip 安装、三个示例应用源码与 Community Cloud 免费部署。已暂停接受外部维护者团队之外的 pull request。
 
 ## 筛选速览
 
@@ -26,17 +26,17 @@ Streamlit 将 Python 脚本转换为交互式 Web 应用的框架：提供输入
 
 ## 能力要点
 
-- 将 Python 脚本转换为交互式 Web 应用（仪表盘、报告、聊天应用）
-- 实时编辑：脚本修改后应用即时更新
-- Community Cloud 平台免费部署、管理和分享应用
-- 支持通过 Streamlit Components 扩展能力
+- 纯 Python 单层应用，框架内置状态、缓存、登录（st.login）与主题
+- `streamlit skills` 为 Claude Code 等编码 agent 安装版本匹配的技能包
+- 应用可作 MCP 工具被 Claude/ChatGPT/Cursor 调用，无需另建 API
+- @st.fragment 局部重跑与后台缓存刷新、URL 查询参数绑定筛选
 
 ## 适用场景
 
-- 快速搭建数据仪表盘和可视化报告
-- 创建 LLM 与聊天机器人应用界面
-- 构建科研或金融领域的交互式数据应用
-- 在 Community Cloud 上部署分享数据应用
+- 搭建营收、运营等 KPI 仪表盘并从 BI 工具迁移
+- 构建带 what-if 参数的预测与情景模拟应用
+- 做审批、签核、数据质量分流的内部工作流应用
+- 让编码 agent 按最佳实践生成和迭代数据应用
 
 ## 场景标签
 
@@ -44,9 +44,9 @@ Streamlit 将 Python 脚本转换为交互式 Web 应用的框架：提供输入
 
 ## 证据(README 行号)
 
-> L9: Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards
-> L92: - 🤖 LLMs & chatbot apps
-> L103: Deploy, manage and share your apps for free using our Community Cloud! Sign-up here.
+> L7: **Streamlit is the agent-native data app framework.** Use it for dashboards, forecasting
+> L54: Streamlit is also great for AI chat and agent apps
+> L117: - **Built for agents.** Agents drive the running app without a browser, read the numbers
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c3e0fad52d2d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `35bb4daf6f11` · [字段定义](../../DATASET.md)*

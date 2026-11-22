@@ -2,9 +2,9 @@
 
 ⭐ 31,219 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ComposioHQ/composio) · [官网](https://docs.composio.dev) · 组织维护
 
-**给 AI Agent 开发者提供 1000+ 工具集成、认证与沙箱的 SDK**
+**为 AI agent 提供 1000+ 工具接入的 SDK 平台**
 
-Composio 是一个 SDK monorepo，包含 TypeScript SDK（@composio/core）、Python SDK、CLI 以及多个 provider 适配器。它为 AI Agent 提供 1000+ 预认证工具集、按用户会话、认证、触发器和沙箱；会话默认获得可在运行时发现、认证并执行工具的 meta tools，避免将大量工具定义载入上下文；每个会话也可暴露托管 MCP 端点供 Claude、Cursor 等 MCP 客户端使用。CLI 支持工具搜索、执行、账号连接和 TypeScript 脚本工作流。需要 COMPOSIO_API_KEY。TypeScript SDK 要求 Node 22+，Python SDK 支持 3.10+。
+Composio 是一个 SDK monorepo（TypeScript 与 Python 双 SDK 加 CLI），为 AI agent 提供 1000+ 预认证工具集、按用户的会话管理、认证、触发器与沙箱执行环境。会话默认提供可在运行时发现、认证并执行工具的 meta tools，避免将数百条工具定义载入上下文；每个会话可暴露托管 MCP 端点供 MCP 客户端连接。通过 provider 适配层对接 OpenAI Agents、Claude Agent SDK、LangChain 等 agent 框架。需要 COMPOSIO_API_KEY；TypeScript SDK 需 Node 22+，Python SDK 需 Python 3.11+。
 
 ## 筛选速览
 
@@ -27,16 +27,17 @@ Composio 是一个 SDK monorepo，包含 TypeScript SDK（@composio/core）、Py
 
 ## 能力要点
 
-- 1000+ 预认证工具集与按用户会话管理
-- meta tools 运行时发现/认证/执行，控制上下文占用
-- 每个会话可开启托管 MCP 端点
-- 覆盖 OpenAI、Anthropic、LangChain、CrewAI 等的 provider 适配器
+- 1000+ 预认证工具集与按用户会话、认证、触发器、沙箱
+- 会话 meta tools 在运行时发现并执行工具，控制上下文占用
+- 覆盖 17+ 框架的 provider 适配器（OpenAI、Anthropic、LangChain、CrewAI 等）
+- CLI 提供 search/execute/link/run 子命令，并可作为编码 agent 的本地工具面
 
 ## 适用场景
 
-- 让 Agent 跨多个应用执行操作而无需自行维护集成
-- 为不同 Agent 框架统一接入工具并管理用户认证
-- 通过 CLI 在本地为编码 Agent 提供工具面
+- 让 agent 跨 1000+ 应用执行操作而无需自行集成各 API
+- 通过 MCP 端点将工具接入 Claude、Cursor 等客户端
+- 用 CLI 在 shell 中搜索、执行工具并脚本化工作流
+- 为自研 agent 框架构建自定义 provider 适配工具
 
 ## 场景标签
 
@@ -46,6 +47,7 @@ Composio 是一个 SDK monorepo，包含 TypeScript SDK（@composio/core）、Py
 
 > L20: Composio gives your AI agents 1000+ pre-authenticated toolkits, per-user sessions, authentication, triggers, and a 
 > L27: - **Provider adapters** for OpenAI Agents, Claude Agent SDK, Vercel AI SDK, LangChain, and more
+> L79: A provider adapts Composio tools to your agent framework's native tool format:
 
 ## 星数曲线
 
@@ -61,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7f98b8a67f39` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ac5d76c7832d` · [字段定义](../../DATASET.md)*

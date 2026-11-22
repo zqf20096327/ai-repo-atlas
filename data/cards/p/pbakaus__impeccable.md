@@ -1,10 +1,10 @@
 # pbakaus/impeccable
 
-⭐ 114,466 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/pbakaus/impeccable) · [官网](https://impeccable.style) · 个人维护 · 中文 README
+⭐ 114,466 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/pbakaus/impeccable) · [官网](https://impeccable.style) · 个人维护
 
-**给 AI 编码 agent 的前端设计技能包：24 条命令与设计检测规则**
+**给编码 agent 的设计词汇与 UI 审查工具集**
 
-安装到各类 AI 编码工具（Claude Code、Cursor、Codex、Gemini CLI、Copilot 等）中的设计技能：提供 /impeccable 命令体系（init 写入 PRODUCT.md、craft/critique/audit/polish 等 24 条命令），以及 62 条确定性检测规则（CLI 与浏览器扩展运行，无需 LLM 与 API key），另有仅 LLM 的评审检查，用于约束与改进 AI 生成的前端设计。技能本体无需自身运行时，附带自包含二进制引擎，支持 npx 安装、Git submodule、插件市场与手动复制等安装方式。
+以 agent skill 形式安装的 UI 设计工具集，提供 24 个斜杠命令：bolder/polish/quieter 等用于引导 agent 调整界面设计方向，critique/audit 用于按可用性启发式与技术质量评分并按 P0–P3 排序问题，另含由 62 条确定性规则驱动的 slop 检测器（无 LLM、无 API key），可经 agent 钩子、CLI、CI（GitHub code scanning/SARIF 上传）或 Chrome 扩展运行。支持 Claude Code、Cursor、Codex CLI 等 20+ 编码工具；live 模式可在浏览器中选中元素并回写源码。Node 仅 npx 需要，引擎为自包含二进制。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 24 条设计命令（init/craft/critique/audit/polish/bolder 等）
-- 62 条确定性检测规则，CLI 与浏览器扩展运行，无需 LLM 与 API key
-- 通过 npx 安装器检测并安装到多种 AI 编码工具
-- 附设计反模式清单（字体滥用、灰字彩底、卡片嵌套等）
+- 24 个斜杠命令覆盖引导、审查、收尾、迭代与规划
+- 62 条确定性规则的 slop 检测器，无需 LLM 与 API key
+- 三种检测运行方式：agent 钩子、CLI/CI（SARIF 上传）、Chrome 扩展
+- live 模式在浏览器中选中元素并热替换变体回写源码
 
 ## 适用场景
 
-- 让 AI 编码 agent 在写前端时遵循统一设计语言
-- 上线前对 AI 生成界面做可访问性与设计审计
-- 通过命令调整设计风格（bolder/quieter/colorize/animate）
+- 让编码 agent 修改页面时按指定设计方向迭代
+- 在 CI 中检测 AI 生成界面的一致性并阻断新引入问题
+- 浏览器中逐元素对比设计变体后写回代码
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L3: Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector ru
-> L16: - **62 deterministic detector rules** plus LLM-only critique checks. The CLI and browser extension run the determin
+> L3: The design vocabulary for your coding agent. Steer with `polish` and `bolder`, review with `critique` and `audit`, a
+> L29: - **A slop detector.** 62 deterministic rules flag the tells above, plus quality problems like cramped padding and 
+> L114: Node is only needed for `npx`. The skill itself runs a self-contained engine binary that ships next to it or downl
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `9067a8bb2eb2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f5eec91440eb` · [字段定义](../../DATASET.md)*

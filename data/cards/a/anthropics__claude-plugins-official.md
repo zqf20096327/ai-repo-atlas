@@ -2,9 +2,9 @@
 
 ⭐ 47,906 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/anthropics/claude-plugins-official) · [官网](https://code.claude.com/docs/en/plugins) · 组织维护
 
-**Anthropic 官方维护的 Claude Code 插件市场目录**
+**Anthropic 官方维护的 Claude Code 插件市场仓库**
 
-由 Anthropic 管理的 Claude Code 插件官方目录，分内部插件（/plugins，Anthropic 团队开发）与外部插件（/external_plugins，第三方伙伴与社区提交，需通过质量与安全审核）。插件通过 Claude Code 内置插件系统安装（/plugin install 命令或 Discover 界面浏览）。README 还规定了插件目录结构（plugin.json 清单）、插件名 slug 不可变更及 renames 迁移机制、以及无清单仓库以 skills 数组打包技能的方式。
+Anthropic 管理的 Claude Code 插件目录与 marketplace：/plugins 收录 Anthropic 自研插件，/external_plugins 保留提交入口迁移前的第三方插件及频道插件（Discord、Telegram 等）。插件通过 Claude Code 的 /plugin install 命令或 Discover 浏览安装。README 规定第三方插件须在 claude.ai/directory/manage 提交，本仓库 PR 不被受理；并说明插件命名不可变、renames 迁移映射与 skill-bundle（无 manifest 的 SKILL.md 打包）机制。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 官方市场，插件可经 /plugin install {name}@claude-plugins-official 安装
-- 内部插件由 Anthropic 开发，外部插件需质量与安全审核
-- 插件名 slug 不可变，renames 映射支持重命名自动迁移
-- 支持 skill-bundle 形式：无清单仓库可直接声明 SKILL.md 技能路径
+- 通过 Claude Code 插件系统直接安装：/plugin install {plugin-name}@claude-plugins-official
+- 插件 name 为不可变 slug，renames 映射支持自动迁移
+- 支持 skill-bundle 插件：直接声明 SKILL.md 路径数组
+- 每个插件目录在 PR 时由仓库检查覆盖
 
 ## 适用场景
 
-- 在 Claude Code 中发现并安装官方与社区插件
-- 第三方开发者按规范向官方市场提交插件
-- 插件作者为存量用户提供 slug 重命名的平滑迁移
+- 为 Claude Code 查找并安装 Anthropic 官方插件
+- 开发插件时参照 /plugins/example-plugin 参考实现
+- 了解插件 marketplace.json 结构与命名规则
 
 ## 场景标签
 
@@ -44,9 +44,8 @@
 
 ## 证据(README 行号)
 
-> L3: A curated directory of high-quality plugins for Claude Code.
-> L9: - **`/plugins`** - Internal plugins developed and maintained by Anthropic
-> L10: - **`/external_plugins`** - Third-party plugins from partners and the community
+> L3: Anthropic's own plugins for Claude, and the `claude-plugins-official` marketplace for Claude Code.
+> L22: Plugins can be installed directly from this marketplace via Claude Code's plugin system.
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `365816217d2b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `5cdbc7413e4a` · [字段定义](../../DATASET.md)*

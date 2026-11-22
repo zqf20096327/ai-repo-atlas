@@ -2,9 +2,9 @@
 
 ⭐ 38,648 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
 
-**个人交易 AI Agent：一句话驱动投研、回测与实盘交易**
+**给交易者的个人 AI 交易 Agent，覆盖研究、回测与模拟盘**
 
-HKUDS 出品的个人量化交易代理，以单条命令为用户提供综合交易能力：覆盖因子研究、回测（含 Monte Carlo、风险指标）、模拟与实盘 runner、多券商/数据源读取（Futu、KIS、Robinhood、Eastmoney、Stooq、Binance 等）、组合导入与定期报告（Email PDF 可选 AES-256 加密）。技术栈为 Python/FastAPI/React，支持 MCP 工具接入 agent，模型端点可自定义，具备凭证脱敏与 grounding 校验机制。以 pip 包安装。
+以 Python 包（pip install vibe-trading-ai）分发的个人交易 Agent，通过一条命令为 Agent 接入交易能力：包括 Web/CLI/API/Agent-MCP 多入口、Shadow Account 影子账户、Options Lab 期权分析、Research Lab 研究与样本外测试、多市场（A股、美股、台股、期货等）日线回测与五分钟 A 股模拟盘。结果可溯源至数据源与运行记录，实盘交易受用户授权限制约束。提供统一行情网关与统一 LLM 网关层。
 
 ## 筛选速览
 
@@ -12,10 +12,10 @@ HKUDS 出品的个人量化交易代理，以单条命令为用户提供综合�
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
@@ -27,16 +27,16 @@ HKUDS 出品的个人量化交易代理，以单条命令为用户提供综合�
 
 ## 能力要点
 
-- 研究、回测与实盘 runner 一体的交易 agent
-- 支持 MCP 与自定义模型端点接入
-- 多市场/多券商数据读取与组合导入
-- 定期报告支持 Email PDF（可选 AES-256 加密）
+- Agent/CLI/API/Web/MCP 多入口共享工作流，支持 11 种界面语言
+- 多市场回测引擎（A 股、美股、韩/台/越市场）与 A 股 5 分钟模拟盘
+- 研究工件版本化：保存证据、对比修订、复用早期回测
+- 统一行情数据网关与统一 LLM 网关（共享目录与配置层）
 
 ## 适用场景
 
-- 用对话让 agent 完成投研、回测与下单
-- 跨市场（A 股/港美股/加密）组合管理与定期报告
-- 为自有 agent 通过 MCP 接入交易能力
+- 在实盘前用模拟盘和影子账户检验交易策略
+- 让 Agent 帮我做股票研究、回测与期权策略比较
+- 把可版本化的研究结论保存下来跨会话复用
 
 ## 场景标签
 
@@ -46,7 +46,7 @@ HKUDS 出品的个人量化交易代理，以单条命令为用户提供综合�
 
 > L5:  Vibe-Trading: Your Personal Trading Agent
 > L7:  One Command to Empower Your Agent with Comprehensive Trading Capabilities
-> L29:  API / MCP &nbsp;&middot;&nbsp;
+> L45:  pip install vibe-trading-ai
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `b639df1e44a8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `f4d85791c170` · [字段定义](../../DATASET.md)*

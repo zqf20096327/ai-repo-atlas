@@ -2,9 +2,9 @@
 
 ⭐ 92,371 · Jupyter Notebook · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/ML-For-Beginners) · 组织维护
 
-**面向初学者的 12 周 26 课经典机器学习课程**
+**面向初学者的12周26课经典机器学习课程**
 
-微软 Cloud Advocates 出品的机器学习课程仓库：12 周、26 课、52 个测验，围绕经典机器学习（主要使用 Scikit-learn，不涉及深度学习）。每课含课前/课后测验、讲义、项目步骤、作业与挑战，采用项目式教学法，以世界各地文化数据为案例主题。课程以 Python 为主，部分课提供 R 版本；测验应用可在本地运行或部署到 Azure。提供 50+ 语言翻译及克隆时跳过翻译的 sparse-checkout 方案。
+Microsoft Cloud Advocates 提供的 12 周、26 课机器学习课程，聚焦使用 Scikit-learn 的经典机器学习，不含深度学习。每课含课前/课后测验、讲义、项目、作业与挑战，采用项目式教学；另含 52 个测验的本地测验应用（可部署到 Azure），Python 为主、部分课程提供 R Markdown 版本，部分课程配视频讲解。学生按 fork-repo 方式自学，教师附使用建议。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 12 周 26 课 52 测验的结构化课程，含 PAT 自评工具
-- 主要基于 Scikit-learn 的经典机器学习，覆盖回归/分类/聚类/NLP/时间序列/强化学习
-- 50+ 语言自动翻译，提供跳过翻译的 sparse-checkout 克隆方式
-- 测验应用可本地运行或部署到 Azure
+- 12 周 26 课项目式课程，覆盖回归、分类、聚类、NLP、时间序列、强化学习
+- 52 个三题测验，测验应用可本地运行或部署 Azure
+- Python 为主，部分课程提供 R（.rmd）版本
+- 50+ 语言翻译，可用 sparse checkout 克隆以减小体积
 
 ## 适用场景
 
-- 自学者按周系统学习经典机器学习
-- 教师参考课程结构与教学建议开展授课
-- 通过各课项目练习 Python/R 数据科学流程
+- 系统自学经典机器学习并动手完成项目
+- 教师拿来直接开课或改造教学
+- 按回归/分类等主题查找带数据集的项目练习
 
 ## 场景标签
 
@@ -44,6 +44,7 @@
 ## 证据(README 行号)
 
 > L49: Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about **Machine Learning**. I
+> L51: Travel with us around the world as we apply these classic techniques to data from many areas of the world. Each les
 > L103: We have chosen two pedagogical tenets while building this curriculum: ensuring that it is hands-on **project-based
 
 ## 星数曲线
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c8d9cb480c49` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b58dad5c0e7a` · [字段定义](../../DATASET.md)*

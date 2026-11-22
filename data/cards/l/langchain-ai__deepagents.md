@@ -2,15 +2,15 @@
 
 ⭐ 31,498 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/deepagents) · [官网](https://docs.langchain.com/deepagents) · 组织维护
 
-**给开发者的开箱即用 agent harness，构建长程多步 agent**
+**开箱即用的 agent 框架：文件系统、子代理与上下文管理**
 
-LangChain 团队开源的 agent harness，基于 LangGraph 构建，提供子代理、可插拔文件系统后端、上下文管理与持久化记忆等默认组件，每个部件可覆盖或替换而不需 fork。支持任何具备工具调用能力的模型（前沿 API、开源权重或本地模型），随流式输出、检查点持久化与经 LangSmith 的追踪评估能力一同提供。提供 Python 与 JavaScript/TypeScript 两个库版本，另有终端编码代理 Deep Agents Code，通过 curl 脚本安装。
+基于 LangGraph 的 Python/TypeScript 库，提供带默认配置的长程多步 agent 封装：子代理上下文隔离、可插拔文件系统后端、上下文压缩、shell 执行、持久记忆、human-in-the-loop 工具审批、可加载的 Skills 与自定义工具/MCP 接入。模型无关，任何支持 tool calling 的 LLM 均可用。另有终端编码代理 Deep Agents Code（curl 安装脚本）。安全模型为信任 LLM，需在工具/沙箱层自行设界。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -26,27 +26,26 @@ LangChain 团队开源的 agent harness，基于 LangGraph 构建，提供子代
 
 ## 能力要点
 
-- 子代理机制：将任务委派给具有独立上下文窗口的代理
-- 可插拔文件系统（本地/沙箱/远程后端）与 shell 执行
-- 上下文管理：摘要长对话并将工具输出落盘
-- 人在回路审批、按需加载的 Skills 与任意 MCP 服务器接入
+- 子代理隔离上下文窗口的委派机制
+- 可插拔文件系统后端与上下文压缩
+- human-in-the-loop 工具调用审批
+- 任意支持 tool calling 的 LLM 可接入
 
 ## 适用场景
 
-- 构建需要长程规划与多步执行的生产级 agent
-- 为 agent 配置子代理分工与隔离上下文
-- 接入本地或开源权重模型运行 agent
-- 在终端中使用预构建编码代理辅助编程
+- 搭建长程多步任务的开箱即用 agent
+- 通过子代理委派隔离复杂任务上下文
+- 接入自有工具或 MCP 服务器扩展代理能力
 
 ## 场景标签
 
-`Agent 框架` `编码 Agent` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L14: Deep Agents is an open source agent harness — an opinionated agent that runs out of the box. Extend, override, or r
-> L20: - **Model-agnostic** — works with any LLM that supports tool calling: frontier, open-weight, or local
-> L21: - **Production-ready** — built on LangGraph (streaming, persistence, checkpointing) with first-class tracing, evalu
+> L59: ### How is this different from LangGraph or LangChain?
+> L65: Yes. Any model that supports tool calling works — frontier APIs (OpenAI, Anthropic, Google), open-weight models hos
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `82b131261373` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `722cdce6e738` · [字段定义](../../DATASET.md)*

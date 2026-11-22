@@ -2,9 +2,9 @@
 
 ⭐ 88,985 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ChatGPTNextWeb/NextChat) · [官网](https://nextchat.club) · 组织维护 · 中文 README
 
-**给消费者/开发者提供零配置跨平台 AI 聊天客户端**
+**面向个人与团队的多模型 AI 聊天助手，支持一键部署与多端使用**
 
-基于 Next.js 的跨平台 AI 聊天助手客户端，提供 Web、iOS、macOS、Android、Linux、Windows 版本。通过环境变量接入 OpenAI、Azure、Gemini、Claude、DeepSeek、百度、字节、阿里、讯飞、ChatGLM 等多家服务，支持自定义模型列表与视觉模型；提供 prompt 模板（mask）、聊天记录自动压缩、WebDAV 同步、访问密码控制，数据存于浏览器本地。可一键部署到 Vercel 或用 Docker 运行，另设有企业版提供私有部署与权限管理。
+基于 Next.js 的 AI 聊天前端应用，接入 OpenAI、Azure、Claude、Gemini、DeepSeek、百度、字节、阿里、讯飞、ChatGLM、SiliconFlow、302.AI 等多家服务商 API，并提供 Vercel 一键部署、Docker 部署、桌面客户端（约 5MB）与 iOS 应用。支持 prompt 模板（mask）、聊天历史压缩、Markdown/LaTex/mermaid 渲染、流式响应、WebDAV 聊天记录同步，以及通过 ENABLE_MCP 环境变量启用的 MCP 功能。另提供面向企业私有化定制的商业版咨询渠道。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 一次部署接入 OpenAI/Azure/Gemini/Claude/DeepSeek/百度/字节/阿里/讯飞/ChatGLM 等多家 API
-- 支持 MCP（Model Context Protocol），通过 ENABLE_MCP=true 开启
-- 聊天记录自动压缩以支持长对话并节省 token，支持 WebDAV 同步
-- 客户端体积约 5MB，覆盖六大平台
+- 接入 12+ 家模型服务商 API，通过环境变量配置
+- 支持 Vercel 一键部署与 Docker 部署
+- MCP（Model Context Protocol）功能（ENABLE_MCP=true 启用）
+- 兼容自部署 LLM，推荐配合 RWKV-Runner 或 LocalAI
 
 ## 适用场景
 
-- 自建一个网页版多模型 AI 聊天站供个人或团队使用
-- 在桌面和手机上使用同一套聊天客户端
-- 企业管理员统一配置多个 AI 资源并控制成员权限（企业版）
+- 自建一个多模型切换的网页版 AI 聊天界面
+- 团队成员共用一个带访问密码控制的聊天入口
+- 在桌面/iOS 上使用轻量 AI 聊天客户端
 
 ## 场景标签
 
@@ -44,9 +44,8 @@
 
 ## 证据(README 行号)
 
-> L67: - **Deploy for free with one-click** on Vercel in under 1 minute
+> L11: ✨ Light and Fast AI Assistant,with Claude, DeepSeek, GPT4 & Gemini Pro support.
 > L69: - Fully compatible with self-deployed LLMs, recommended for use with RWKV-Runner or LocalAI
-> L176: ### `ANTHROPIC_API_KEY` (optional)
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `98feca52d603` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `53c001b97486` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 108,766 · Jupyter Notebook · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/rasbt/LLMs-from-scratch) · [官网](https://amzn.to/4fqvn0D) · 个人维护
 
-**学习者/研究者：从零用 PyTorch 逐步实现类 GPT 大模型**
+**从零用 PyTorch 实现 GPT 类 LLM 的配套代码库（学习者用）**
 
-《Build a Large Language Model (From Scratch)》一书的官方代码仓库，按章节组织：用 PyTorch 从零实现、预训练与指令微调一个类 GPT 模型，不依赖外部 LLM 库。包含练习解答、附录材料（BPE 分词器、KV Cache、MoE、DPO 等扩展笔记）以及加载 Llama/Qwen/Gemma 等预训练权重进行微调的代码。配套 17 小时视频课程与 170 页测验 PDF。作者要求不提交偏离印刷书内容的主章节代码贡献。
+这是 Manning 图书《Build a Large Language Model (From Scratch)》的官方代码仓库，内容覆盖从文本数据处理、注意力机制、GPT 模型实现，到预训练、分类微调与指令微调的完整流程，各章含练习解答 notebook 与 170 页自测 PDF。附加材料包括 KV Cache、MoE、DPO、多种现代架构（Llama 3.2/Qwen3/Gemma 3 等）复现、基于 OpenAI API 与 Ollama 的评估，以及 17 小时视频课程。代码只用 PyTorch 从零实现，不依赖外部 LLM 库，设计为可在普通笔记本上运行。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- 从零实现、预训练与指令微调类 GPT 模型，不使用外部 LLM 库
-- 附加 Llama 3.2、Qwen3、Gemma 3 等模型的 From Scratch 实现与预训练权重加载
-- 提供 Docker 环境搭建指南与 17 小时配套视频课程
-- 包含 DPO 对齐与 RLVR/GRPO 等扩展材料
+- 从零实现 GPT 类模型：分词、注意力、预训练、指令微调全流程
+- 附加材料覆盖 KV Cache、MoE、DPO、Llama/Qwen3/Gemma 等架构复现
+- 各章练习解答 notebook 与 170 页自测 PDF
+- 自动在有 GPU 时使用 GPU，无专用硬件要求
 
 ## 适用场景
 
-- 系统学习 LLM 内部原理与实现细节
-- 为自己的科研模型做分类/指令微调实验
-- 在普通笔记本上复现 GPT 训练流程
+- 想从代码层面理解 LLM 内部原理的学习路径
+- 练习预训练与指令微调自己的小型模型
+- 参考 bonus 材料复现 Qwen3、Gemma 等现代架构
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `微调` `模型训练` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official cod
+> L5: In *Build a Large Language Model (From Scratch)*, you'll learn and understand how large language models (LLMs) work 
 > L32: This book uses PyTorch to implement the code from scratch without using any external LLM libraries. While proficien
-> L38: The code in the main chapters of this book is designed to run on conventional laptops within a reasonable timeframe
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b342bec66cdb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `420b21aa4f04` · [字段定义](../../DATASET.md)*

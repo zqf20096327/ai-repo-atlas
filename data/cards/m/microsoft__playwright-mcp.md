@@ -2,15 +2,15 @@
 
 ⭐ 39,978 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/playwright-mcp) · [官网](https://www.npmjs.com/package/@playwright/mcp) · 组织维护
 
-**给 LLM 提供浏览器自动化能力的 MCP 服务器**
+**给 LLM 提供浏览器自动化能力的 Playwright MCP 服务器**
 
-基于 Playwright 的 Model Context Protocol 服务器，使 LLM 通过结构化无障碍快照与网页交互，无需截图或视觉模型。README 逐项给出 Amp、Claude Code、Codex、Cursor、Gemini CLI、Goose、VS Code、Windsurf 等约 20 种 MCP 客户端的接入配置。要求 Node.js 18 及以上，通过 npx 运行 @playwright/mcp。提供约 30 个配置参数，涵盖浏览器选择、CDP 连接、代码生成、移动设备模拟、无头模式、文件访问限制等。另提及面向编码代理的 CLI+SKILLS 替代路径。
+基于 Playwright 的 Model Context Protocol 服务器，通过结构化可访问性快照让 LLM 与网页交互，无需截图或视觉模型。README 给出 VS Code、Cursor、Claude Desktop、Gemini CLI 等十余种 MCP 客户端的接入配置，支持浏览器选择、无头模式、CDP 连接、移动设备模拟、代码生成等参数配置。要求 Node.js 20 及以上，以 npx 方式运行。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 基于无障碍树的结构化交互，不依赖视觉模型
-- 提供 20 余种 MCP 客户端的逐步接入配置
-- 约 30 个配置参数：CDP 端点、设备模拟、headless、文件访问控制等
-- 支持 vision/pdf/devtools 附加能力（--caps）
+- 基于可访问性树的结构化页面交互，不依赖视觉模型
+- 支持 chrome/firefox/webkit/msedge 多浏览器与无头模式
+- 支持 CDP 端点连接、移动设备模拟与多语言代码生成
+- 覆盖 20+ MCP 客户端的接入配置说明
 
 ## 适用场景
 
-- 让 Claude Code、Cursor 等客户端通过 MCP 操控浏览器
-- 搭建长期自主工作流中保持浏览器上下文的自动化
-- 为自愈测试或探索性自动化提供页面结构推理能力
+- 让 MCP 客户端中的 AI 代理自动化操作网页
+- 构建需要持久浏览器上下文的自主工作流
+- 自愈式测试与探索性浏览器自动化
 
 ## 场景标签
 
@@ -46,7 +46,7 @@
 
 > L3: A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server en
 > L21: - VS Code, Cursor, Windsurf, Claude Desktop, Goose, Grok, Junie or any other MCP client
-> L280: Playwright MCP server supports following arguments. They can be provided in the JSON configuration above, as a par
+> L20: - Node.js 20 or newer
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `34ec08ab1c98` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `79320c034faa` · [字段定义](../../DATASET.md)*

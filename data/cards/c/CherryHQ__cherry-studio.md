@@ -2,15 +2,15 @@
 
 ⭐ 53,723 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/CherryHQ/cherry-studio) · [官网](https://cherryai.com) · 组织维护 · 中文 README
 
-**多模型桌面 AI 客户端：统一接入云/本地 LLM 与助手**
+**面向个人与团队的桌面 AI 工作台：聚合模型、Agent 与知识库**
 
-支持多 LLM 提供商的桌面客户端，覆盖 Windows、Mac 和 Linux。核心功能包括：接入主流云服务（OpenAI、Gemini、Anthropic 等）与本地模型（Ollama、LM Studio）；300+ 预配置助手与自定义助手、多模型同时对话；支持文本/图片/Office/PDF 文档处理、WebDAV 备份、Mermaid 图表；集成搜索、翻译、MCP 服务器等工具。安装后即用，无需环境配置。另有企业版提供私有部署、统一模型管理与知识库（非完全开源）。社区版采用 AGPL-3.0 许可，商业豁免需联系官方。
+跨 Windows/macOS/Linux 的 AI 桌面客户端：在统一界面内连接云端与本地模型进行多模型对话、构建本地知识库（支持 PDF/Office/OCR 文档处理）、生成与编辑图像、翻译与联网搜索，并创建带指令、工具权限与工作区的 Agent，可运行定时任务、接入消息平台，通过 Skills 与 MCP 服务器扩展能力。提供本地存储与 WebDAV 备份；部分功能需 API 凭据或下载模型。另有 iOS/Android 移动端及面向企业的企业版。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,26 +27,27 @@
 
 ## 能力要点
 
-- 支持 OpenAI、Gemini、Anthropic 等云服务与 Ollama、LM Studio 本地模型
-- 300+ 预配置 AI 助手，支持多模型同时对话
-- 支持 MCP（Model Context Protocol）服务器与小程序
-- 跨平台桌面应用，开箱即用无需环境配置
+- 多模型对话与助手对比，支持 OpenAI/Anthropic/Gemini 等云服务
+- 通过 Ollama 与 LM Studio 使用本地模型
+- 本地知识库构建，支持 PDF/Office/OCR 文档处理
+- Agent 支持文件操作、命令执行、浏览器与计算机自动化，可经 MCP 扩展
 
 ## 适用场景
 
-- 在一个桌面客户端中统一使用多家云 LLM 与本地模型
-- 调用预配置助手处理文档、翻译和代码任务
-- 企业私有部署集中管理团队模型访问与知识库
+- 在一个客户端里同时使用多家云模型和本地模型
+- 把本地文档建成知识库供对话和 Agent 检索
+- 创建自动化 Agent 处理文件、网页与多步任务
+- 配置 API Gateway 让其他应用接入已配置的模型
 
 ## 场景标签
 
-`AI 助手` `文档问答` · 领域:对话与助手
+`AI 助手` `RAG` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L25: Cherry Studio is a desktop client that supports multiple LLM providers, available on Windows, Mac and Linux.
-> L39: - ☁️ Major LLM Cloud Services: OpenAI, Gemini, Anthropic, and more
-> L41: - 💻 Local Model Support with Ollama, LM Studio
+> L25: Cherry Studio is an AI workstation for Windows, macOS, and Linux. Chat with multiple models, work with agents, buil
+> L68: - ☁️ Connect OpenAI, Anthropic, Gemini, and other cloud providers, or add custom compatible services.
+> L127: Cherry Studio Enterprise Edition brings centralized model management, shared knowledge bases, employee access cont
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `04f78afe5974` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `09c890a1917d` · [字段定义](../../DATASET.md)*

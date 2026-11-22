@@ -1,10 +1,10 @@
 # tirth8205/code-review-graph
 
-⭐ 32,895 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tirth8205/code-review-graph) · [官网](https://code-review-graph.com) · 个人维护
+⭐ 32,895 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tirth8205/code-review-graph) · [官网](https://code-review-graph.com) · 个人维护 · 中文 README
 
-**给 AI 编码工具的本地代码知识图谱：MCP 提供精准审查上下文**
+**为 AI 编码工具提供本地代码知识图谱的 MCP 服务与 CLI**
 
-用 Tree-sitter 将代码库解析为持久化图谱（函数/类/导入为节点，调用/继承/测试覆盖为边），存于 SQLite，并通过 MCP 服务器向 AI 编码工具提供紧凑上下文。变更时通过调用边追踪影响面（blast radius），让助手只读受影响文件；hooks、pre-commit 与 watch 模式基于 SHA-256 做增量更新。`install` 命令检测已装 AI 工具并写入 MCP 配置。同一分析可作为 GitHub Action 在 CI 中运行，附带可复现的 token 基准测试。需 Python 3.10+。
+用 Tree-sitter 将代码库解析为函数、类、导入、调用与测试构成的持久图（SQLite 存储），通过 MCP 向 AI 编码工具返回与问题相关的最小文件集与影响范围分析。提供 install 命令自动检测本机的 AI 编码工具并写入 MCP 条目、钩子与技能配置，git/编辑器钩子与 watch 模式按 SHA-256 哈希增量更新图。数据保留在本机，云端嵌入为可选项。需 Python 3.10+，通过 PyPI 安装。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- Tree-sitter 解析 + SQLite 持久化图谱，覆盖 30+ 语言，可用 languages.toml 扩展
-- blast-radius 分析返回变更影响的最小文件集
-- hooks/watch 增量更新：~3,000 文件项目两文件编辑约 2.5 秒重建
-- GitHub Action 形式的 PR 风险评分评论，可设 fail-on-risk 合并门禁
+- Tree-sitter 解析多语言代码为节点/边图谱，SQLite 本地存储
+- 影响范围分析：追踪变更可达的调用者、依赖者与测试并给出风险分
+- git/编辑器钩子与 watch 模式增量更新（两文件编辑约 2.5 秒）
+- 一条 install 命令自动配置 18 种 AI 编码工具平台
 
 ## 适用场景
 
-- 让 AI 编码助手审查 PR 时只读受影响文件而非整个仓库
-- 在 CI 中对每个 PR 生成风险评分函数清单与测试缺口
-- 管理大型多语言仓库中 AI 问答的 token 消耗
+- 让 AI 代码审查只读取变更涉及的文件，减少上下文消耗
+- 在提交前查看一次改动可能波及的调用者与测试
+- 大型仓库中为编码助手提供精简的代码结构上下文
 
 ## 场景标签
 
@@ -45,8 +45,8 @@
 ## 证据(README 行号)
 
 > L12:  A local code knowledge graph that gives AI coding tools precise review context over MCP.
-> L38: AI coding tools often re-read large parts of a codebase to review a change. `code-review-graph` builds a structural
-> L86: The repository is parsed into ASTs with Tree-sitter and stored as a graph of nodes (functions, classes, imports) an
+> L41: AI coding tools often re-read large parts of a codebase to review a change. `code-review-graph` builds a structural
+> L92:  One install, every platform: detects Codex, Claude Code, CodeBuddy Code, Cursor, Windsurf, Zed, Continue, OpenCode
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `09a527ca5631` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `73911985eb6d` · [字段定义](../../DATASET.md)*

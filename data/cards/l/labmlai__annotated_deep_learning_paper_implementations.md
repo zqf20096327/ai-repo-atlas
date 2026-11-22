@@ -2,9 +2,9 @@
 
 ⭐ 67,780 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/labmlai/annotated_deep_learning_paper_implementations) · [官网](https://nn.labml.ai) · 组织维护
 
-**深度学习论文的 PyTorch 实现与旁注教程合集（60+）**
+**为深度学习学习者提供 60+ 论文的 PyTorch 注释实现**
 
-以 PyTorch 实现神经网络及相关算法的论文复现合集，配套讲解文档，官网以旁注格式并排呈现代码与笔记。覆盖 Transformer 各变体、LoRA、扩散模型（DDPM/DDIM/Stable Diffusion）、GAN 系列、强化学习（PPO/DQN）、图神经网络、优化器、归一化层、蒸馏与采样技术等。仓库持续维护、几乎每周新增实现；通过 pip 安装 labml-nn 包使用。面向学习与理解算法的读者。
+以 PyTorch 实现神经网络及相关算法的论文合集，覆盖 Transformer 变体、LoRA、扩散模型、GAN、强化学习、优化器、归一化层、蒸馏等主题。每份实现附带解释性文档，通过官网渲染为代码与注释并排的笔记形式，帮助理解算法。仓库持续维护更新，通过 pip 安装 labml-nn 库即可使用，另提供可与编码 agent 配合的注释实现 Skill。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 60+ 篇深度学习论文的 PyTorch 实现并配讲解笔记
-- 覆盖 Transformer 变体、LoRA、扩散模型、GAN、RL、GNN、优化器等类别
-- 官网以旁注格式并排渲染代码与说明
-- pip 安装 labml-nn 即可使用
+- 60+ 篇深度学习论文的 PyTorch 实现
+- 代码与解释并排的格式化笔记形式
+- 覆盖 Transformer、扩散模型、GAN、RL、优化器等多个方向
+- 提供配合编码 agent 的注释实现 Skill
 
 ## 适用场景
 
-- 对照旁注笔记理解 Transformer/扩散模型等论文算法
-- 复用优化器、归一化层等组件的实现代码
-- 系统学习强化学习与 GAN 的实现细节
+- 学习 Transformer、GAN 等论文算法的具体实现
+- 查阅优化器与归一化层的 PyTorch 代码
+- 借助注释实现理解深度学习论文细节
 
 ## 场景标签
 
@@ -43,9 +43,8 @@
 
 ## 证据(README 行号)
 
-> L5: This is a collection of simple PyTorch implementations of
-> L10: renders these as side-by-side formatted notes.
-> L146: ### Installation
+> L8: This is a collection of simple PyTorch implementations of
+> L13: renders these as side-by-side formatted notes.
 
 ## 星数曲线
 
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b04e3a86ec21` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a18e9a8a6652` · [字段定义](../../DATASET.md)*

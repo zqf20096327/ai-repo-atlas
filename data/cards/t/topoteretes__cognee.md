@@ -2,15 +2,15 @@
 
 ⭐ 33,452 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/topoteretes/cognee) · [官网](https://www.cognee.ai) · 组织维护 · 中文 README
 
-**给 AI agent 提供持久长期记忆的开源知识图谱平台**
+**为 AI agent 提供持久长期记忆的开源知识图谱平台**
 
-将文档、代码与会话内容转化为可自托管的知识图谱，agent 可在多次会话间存储（remember）、检索（recall）、增补（improve）和删除（forget）记忆。默认路径使用本地 GLiNER 抽取与本地嵌入模型，无需 API key 即可在 CPU 上运行；配置 LLM key 后可生成回答，支持 OpenAI 或本地 Ollama。提供 Python 库、CLI、REST API、MCP server 及 Claude Code/Codex 插件，支持 Docker Compose 部署，Postgres 单机整合当前为 demo 特性。
+Cognee 将文档、代码与会话内容转换为可检索、可复用的持久知识图谱，供 agent 跨会话使用。提供 remember/recall/improve/forget 四种记忆操作，检索支持图、向量与代码上下文路由。默认路径用本地 GLiNER 抽取与本地嵌入模型，在 CPU 上运行且无需 API key；配置 LLM key 后可获得生成式回答。以 Python 包分发，另带 CLI、本地 UI、REST API 与 Docker 部署方式，提供 Claude Code/Codex/MCP 插件及 TypeScript/Rust SDK。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,27 +27,27 @@
 
 ## 能力要点
 
-- 无 LLM key 时用本地 GLiNER 与嵌入模型在 CPU 上构建图谱
-- remember/recall/improve/forget 四种记忆操作
-- Claude Code、Codex、OpenClaw、MCP 客户端等多种接入接口
-- Docker 镜像内置 GLiNER 运行时，可用 COGX 格式从 Mem0/Letta/Zep/Graphiti 导入
+- 无 LLM key 时用本地 GLiNER 模型完成图谱抽取与检索
+- remember/recall/improve/forget 四类记忆操作与会话知识蒸馏
+- 支持从 Mem0、Letta、Zep、Graphiti 经 COGX 格式导入记忆
+- 提供 Docker 镜像、docker compose 部署及 Claude Code/Codex/MCP 插件
 
 ## 适用场景
 
-- 为 agent 保留跨会话的项目上下文与历史决策
-- 把团队文档、工单、代码汇入共享的 Company Brain
-- 在自有基础设施上运行自托管记忆层
-- 从其他记忆方案（Mem0/Letta/Zep/Graphiti）迁移记忆数据
+- 给我的 agent 加上跨会话的持久项目记忆
+- 把团队文档、工单和代码汇成可查询的 Company Brain
+- 在单机 CPU 上无 API key 地构建和检索知识图谱
+- 用 Docker Compose 在自己服务器上跑记忆 API 服务
 
 ## 场景标签
 
-`Agent 记忆` `知识图谱` · 领域:Agent 开发
+`Agent 记忆` `知识图谱` `RAG` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L32:  Cognee is a free open-source AI memory platform that gives AI agents persistent long-term memory across sessions. 
-> L34:  Runs locally for free — no API key required.
-> L116: Once a key is set, Cognee uses OpenAI for language models and embeddings, and processing and generated answers mak
+> L65: |Give an existing agent memory|Plugins and MCP|
+> L134: At query time, retrieval selects relevant graph, vector, or code context. Your application can inspect the retriev
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9715d6a9171c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `afe5a9004f26` · [字段定义](../../DATASET.md)*

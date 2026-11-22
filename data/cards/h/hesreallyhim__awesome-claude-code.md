@@ -2,9 +2,9 @@
 
 ⭐ 58,525 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/hesreallyhim/awesome-claude-code) · 个人维护
 
-**Claude Code 生态资源精选清单（awesome list）**
+**为 Claude Code 用户策展的技能、代理、插件与教程资源清单**
 
-人工精选的 Claude Code 相关资源聚合清单：收录入门指南、Anthropic 官方文档与仓库、技能（skills）、插件、hooks、subagents、系统提示词镜像、Android 运行指南等类别的第三方项目，每条附简介。当前版本为新格式重构的过渡状态，旧条目保存在 README_ALTERNATIVES 目录且不再更新，将逐步迁移回主列表。面向 Claude Code 的使用者与扩展开发者，用于发现学习资料与生态工具。
+围绕 Claude Code 的精选资源清单，收录官方文档（Agent Skills、最佳实践、GitHub Action、安全审查等）与社区项目，按入门指南、文档学习、技能等目录组织，条目附创建时间、最近提交、许可证与星标元数据。收录对象包括 skills、agents、statuslines、开发者工具与插件，设有近期新增与 GitHub 项目速览栏目；当前版本为重构后的新列表，旧条目保留在 README_ALTERNATIVES 目录并将逐步迁回。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -26,20 +26,20 @@
 
 ## 能力要点
 
-- 按 Start Here / From Anthropic / 文档与学习等类别组织条目
-- 收录官方 Agent Skills 仓库、官方插件目录等 Anthropic 资源
-- 旧版条目保留于 README_ALTERNATIVES 目录（不更新，待迁移）
-- 提供 Claude Code 项目 Ticker 与 Recently Added 区块
+- 收录 Anthropic 官方资源：Agent Skills、Best Practices、Cheatsheet、GitHub Action 等
+- 条目附带 created/last-commit/license/stars 元数据
+- 覆盖 skills、subagents、hooks、MCP、plugins 等 Claude Code 扩展机制的资源
+- 旧版条目保留于 README_ALTERNATIVES 并计划迁回
 
 ## 适用场景
 
-- 查找 Claude Code 的入门与进阶学习资料
-- 发现可安装的 skills、插件与 hooks 等扩展资源
-- 跟踪 Anthropic 官方发布的 Claude Code 相关文档与工具
+- 上手 Claude Code 时查找系统化教程与入门指南
+- 为项目寻找可安装的 Claude Code 技能与插件
+- 了解 Claude Code 生态的官方文档与工作流模式
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `42102114d951` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `680c995c9755` · [字段定义](../../DATASET.md)*

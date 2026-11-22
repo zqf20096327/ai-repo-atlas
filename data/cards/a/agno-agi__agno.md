@@ -2,15 +2,15 @@
 
 ⭐ 43,254 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/agno-agi/agno) · [官网](https://docs.agno.com) · 组织维护
 
-**供开发者构建、运行并管理 agent 平台的框架与运行时**
+**自管理 Agent 平台：构建并托管企业 Agent 服务**
 
-Agno 提供 SDK 与 AgentOS 运行时：用 SDK 构建 agent，作为服务运行（REST API、SSE、websockets），并通过 Web UI 管理平台。数据与链路存于自有 Postgres 数据库，内置 JWT RBAC、多租户隔离、人工审批、OpenTelemetry 可观测性与定时任务。上手路径是把提示词交给编码 agent（Claude Code、Cursor 等）从模板仓库部署，也支持手写代码；模板覆盖 Railway、Docker、AWS、GCP、Azure 等部署目标。每轮 agent 运行发送遥测事件，可用 AGNO_TELEMETRY=false 关闭。
+Agno 提供围绕 Agent 的编排与服务层：通过 Agno/Claude Agent/Codex SDK 构建 Agent 并组合为团队与工作流，以持久化服务形式运行在 AgentOS 上，内置 API 与 MCP server、鉴权、角色访问、恢复/重放、人工审批、调度与可观测性。平台可部署在自有云，通过 REST API、MCP 接入 Claude/ChatGPT、或 Slack 等聊天应用提供 Agent。需 PostgreSQL 存储会话与记忆，提供多云部署模板与教程。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,27 +27,26 @@ Agno 提供 SDK 与 AgentOS 运行时：用 SDK 构建 agent，作为服务运�
 
 ## 能力要点
 
-- SDK 构建 + AgentOS 运行时 + Web UI 管理的组合
-- 50+ 端点的生产 API，支持 SSE 与 websockets
-- JWT RBAC 与多用户多租户隔离
-- 100+ 预置工具集成（GitHub、Slack、Postgres 等）
+- Agent 以持久化服务运行，内置 API 与 MCP server
+- 工作流支持路由、条件、循环与并行步骤
+- 人工审批、调度、持久执行与可观测性追踪
+- 提供 Docker/Railway/AWS/GCP/Azure 等多云部署模板
 
 ## 适用场景
 
-- 为自家产品搭建自托管的 agent 服务平台
-- 用自有数据库存储会话、记忆与 traces
-- 通过 Slack、Telegram、WhatsApp、Discord 等接口暴露 agent
-- 在任意支持容器的云平台部署 agent 平台
+- 为企业产品构建并通过 REST API 提供 Agent 服务
+- 将 Agent 接入 Slack 等聊天应用
+- 用工作流编排多 Agent 协作完成公司运营自动化
+- 在自有云部署并集中管理 Agent 的访问与追踪
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L11: Agno is a framework and runtime for agent platforms. Build agents, run them as a service, manage your platform usin
-> L13: - Build your agent platform using the Agno SDK.
-> L14: - Run your agent platform using the AgentOS runtime.
+> L11: Agno is a self-managing agent platform. Build agents for your company, product, or customers. Run them as durable s
+> L14: - **Run** agents as durable services with built-in API and MCP. AgentOS handles authentication, role-based access, 
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d784a97ad617` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9427204c8d43` · [字段定义](../../DATASET.md)*

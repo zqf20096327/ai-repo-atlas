@@ -1,16 +1,16 @@
 # github/awesome-copilot
 
-⭐ 41,425 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/github/awesome-copilot) · [官网](https://awesome-copilot.github.com/) · 组织维护
+⭐ 41,425 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/github/awesome-copilot) · [官网](https://awesome-copilot.github.com/) · 中文 README
 
-**为 GitHub Copilot 用户提供社区贡献的自定义 agent 与配置集合**
+**GitHub Copilot 社区贡献的 agents/指令/技能配置合集**
 
-社区创建的资源集合，收录自定义 agents、instructions、skills、hooks、workflows 与 plugins，供 GitHub Copilot 用户扩展其工作方式。资源按 Agents（可集成 MCP 服务器）、Instructions（按文件模式自动应用）、Skills、Plugins（打包组合）、Cookbook（API 配方）等类别组织；配套网站提供全文检索、筛选与 Learning Hub 教程，并提供机器可读的 llms.txt。通过 Copilot CLI/VS Code 的 marketplace 安装插件。
+社区创建的 GitHub Copilot 定制资源集合，包含自定义 agents、编码规范指令、skills、hooks、workflows 与 plugins，按资源类型分类浏览，配套网站提供全文搜索、过滤与 Learning Hub 教程。提供 Copilot CLI 插件市场，用户可通过 copilot plugin install 命令安装插件包；另提供 llms.txt 机器可读清单供 AI agent 读取。贡献者列表列出数百位社区成员。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,26 +27,27 @@
 
 ## 能力要点
 
-- 收录 agents、instructions、skills、hooks、workflows、plugins 六类资源
-- Agents 支持集成 MCP 服务器；Instructions 按文件模式自动应用
-- 提供 copilot plugin install 命令行安装插件
-- 网站提供全文检索与 Learning Hub 教程，并提供 llms.txt 供 AI agent 读取
+- 包含 agents、instructions、skills、plugins、hooks、workflows 六类资源
+- Copilot CLI 插件市场一键安装（copilot plugin install）
+- 配套网站提供全文搜索、过滤与 Learning Hub 教程
+- 提供 llms.txt 机器可读结构化清单
 
 ## 适用场景
 
-- 为 GitHub Copilot 查找社区维护的自定义 agent 与 skills
-- 按文件模式为团队应用统一的编码规范指令
-- 通过 Copilot CLI 一键安装打包好的插件组合
+- 为 GitHub Copilot 查找社区定制的 agents 与技能
+- 按文件模式自动应用团队编码规范指令
+- 通过插件市场安装面向特定工作流的 agent/skill 组合
+- 通过 Learning Hub 学习 Copilot 定制与 MCP 集成
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`提示工程` `精选清单` `工作流自动化` `教程课程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L4: A community-created collection of custom agents, instructions, skills, hooks, workflows, and plugins to supercharge 
 > L23: |🤖 Agents|Specialized Copilot agents that integrate with MCP servers|All agents →|
-> L31: ## Install a Plugin
+> L25: |🎯 Skills|Self-contained folders with instructions and bundled assets|All skills →|
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `fbb51d16dc76` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `93100cd18bdf` · [字段定义](../../DATASET.md)*

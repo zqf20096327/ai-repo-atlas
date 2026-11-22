@@ -2,9 +2,9 @@
 
 ⭐ 60,648 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MemPalace/mempalace) · [官网](http://mempalaceofficial.com/) · 组织维护
 
-**本地优先的 AI 记忆系统：逐字存储对话并语义检索**
+**本地优先的 AI 对话记忆存储与检索系统（MCP 服务器）**
 
-面向 AI agent 与编码助手的本地记忆系统：将对话历史与项目文件以逐字文本存入结构化"宫殿"（人物/项目为 wing、主题为 room、原文存 drawer），用语义搜索按范围检索，不做摘要或改写。默认 ChromaDB 后端，可插拔替换为 sqlite_exact、rust_exact、Milvus、Qdrant、pgvector。提供 CLI、47 个工具的 MCP 服务器、时序知识图谱、多 agent wing/diary 机制与 Claude Code/Codex/Cursor 自动保存钩子。安装途径含 uv/pipx/pip 与多架构 Docker 镜像；原生 Termux 不支持，Android 需 Debian PRoot 容器。LongMemEval raw 模式 R@5 为 96.6%（无需 LLM 与 API key）。
+以逐字文本存储对话历史并用语义检索取回的本地记忆库，不做摘要或改写；索引按 wing/room/drawer 层级结构化以便范围化搜索。检索后端可插拔，默认 ChromaDB，另有 sqlite_exact、rust_exact、milvus、qdrant、pgvector。默认路径零 API 调用、数据不出本机。通过 uv/pipx/pip 安装 CLI，提供 Docker 镜像（含 GPU 变体需自行构建），以 MCP stdio 服务器接入 Claude Code 等客户端，含 47 个 MCP 工具、知识图谱、自动保存 hooks 与基准测试复现脚本。
 
 ## 筛选速览
 
@@ -27,25 +27,26 @@
 
 ## 能力要点
 
-- 逐字存储与语义检索，raw 模式 96.6% R@5 无需 LLM/API key
-- 可插拔存储后端：ChromaDB 默认，另有 sqlite_exact/rust_exact/Milvus/Qdrant/pgvector
-- 47 个 MCP 工具 + 时序实体关系知识图谱（SQLite 本地）
-- Claude Code/Codex CLI/Cursor IDE 自动保存钩子与 agent wing/diary 机制
+- 逐字存储+语义检索，raw 模式无 LLM、无 API key（LongMemEval R@5 96.6%）
+- 可插拔检索后端：ChromaDB 默认，另支持 Milvus/Qdrant/pgvector/SQLite/Rust 原生引擎
+- 47 个 MCP 工具与时间性知识图谱（本地 SQLite）
+- 为 Claude Code、Codex CLI、Cursor IDE 提供自动保存 hooks
 
 ## 适用场景
 
-- 为 Claude Code 等编码 agent 保存会话与项目记忆，防止会话过期丢失
-- 让多 agent 各自拥有 wing 与 diary，通过 MCP 工具共享检索
-- 本地部署记忆系统，数据不出机器
+- 给 Claude Code 等编码 agent 加上跨会话长期记忆
+- 在本地离线环境存储并检索历史对话与项目文件
+- 团队共享记忆的 hub/客户端部署
 
 ## 场景标签
 
-`Agent 记忆` `语义搜索` `知识图谱` · 领域:Agent 开发
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L22: MemPalace stores your conversation history as verbatim text and retrieves
 > L264: 47 MCP tools cover palace reads/writes, knowledge-graph operations,
-> L279: Auto-save hooks for **Claude Code, Codex CLI, and Cursor IDE** save
+> L199: For Claude Code, Gemini CLI, Antigravity,
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `56415fd1fa0d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a3a7e7e7727e` · [字段定义](../../DATASET.md)*

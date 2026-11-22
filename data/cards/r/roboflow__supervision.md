@@ -2,15 +2,15 @@
 
 ⭐ 51,689 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/roboflow/supervision) · [官网](https://supervision.roboflow.com) · 组织维护
 
-**计算机视觉开发者的可复用工具集：模型接入、标注、数据集处理**
+**给 CV 开发者的可复用工具库：检测标注、数据集处理与计数追踪**
 
-面向计算机视觉应用的 Python 工具库：提供模型无关的检测/分类/分割结果封装（sv.Detections），内置 Ultralytics、Transformers、MMDetection、Inference、rfdetr 等库的连接器；提供可自定义的图像标注器，以及 YOLO 等（含 COCO）格式的数据集加载、拆分、合并、转换与保存工具。需 Python>=3.10，通过 pip 安装，含教程与文档。使用 Inference 模型需 Roboflow API KEY。
+面向计算机视觉应用的 Python 工具集，定位为模型无关（model agnostic）：接入任意分类、检测或分割模型，为 Ultralytics、Transformers、MMDetection、Inference 等流行库提供连接器，rfdetr 等直接返回 sv.Detections。功能覆盖：可自定义的图像标注器（annotators）、数据集的加载/拆分/合并/保存/格式转换（YOLO、COCO 等）、区域计数、目标追踪与速度估计。要求 Python>=3.10，pip 安装，附带教程、手册与示例工程。使用 Inference 运行模型需要 Roboflow API KEY。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,25 +26,27 @@
 
 ## 能力要点
 
-- 模型无关设计，内置多框架检测结果连接器
-- 高度可自定义的图像标注器
-- 数据集加载、拆分、合并、格式转换与保存工具
-- 提供区域计数、跟踪、速度估计等教程
+- 模型无关连接器：适配 Ultralytics、Transformers、MMDetection、Inference 等
+- 高度可自定义的检测框/分割掩码标注器
+- 数据集工具：加载、拆分、合并、保存与格式转换（YOLO/COCO）
+- 区域计数、多目标追踪与速度估计等应用构建块
 
 ## 适用场景
 
-- 接入自选检测/分割模型并可视化标注结果
-- 在 YOLO、COCO 等格式间转换与拆分数据集
-- 做区域驻留时间分析、车辆跟踪测速等应用
+- 把自选检测模型的输出可视化标注到视频流上
+- 在 YOLO/COCO 等标注格式之间转换、拆分和合并数据集
+- 实现实时区域人流计数、停留时长分析或车辆测速应用
+- 跟着教程学习目标检测、追踪与流处理的端到端流程
 
 ## 场景标签
 
-`目标检测` `图像视频处理` · 领域:感知与多模态
+`目标检测` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L22: **We are your essential toolkit for computer vision.** From data loading to real-time zone counting, we provide the
 > L38: Supervision was designed to be model agnostic. Just plug in any classification, detection, or segmentation model. F
+> L77: Supervision provides a set of utils that allow you to load, split, merge, and save datasets in one of the supported
 
 ## 星数曲线
 
@@ -60,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6bc64dfd7ac5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1339df39ac85` · [字段定义](../../DATASET.md)*

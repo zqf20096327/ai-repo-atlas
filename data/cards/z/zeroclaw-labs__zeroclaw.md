@@ -2,16 +2,16 @@
 
 ⭐ 33,556 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [官网](https://www.zeroclaw.com/) · 组织维护
 
-**个人 AI 助手运行时：单二进制 Rust 程序，多渠道多模型自托管**
+**单二进制 Rust agent 运行时：自托管多渠道个人 AI 助手**
 
-ZeroClaw 是一个以单个 Rust 二进制分发的 agent 运行时，用户在本机配置运行：通过 30+ 渠道（Discord、Telegram、Matrix、邮件、webhook、CLI 等）收发消息，接入约 20 余家 LLM 提供商并可配置 fallback 链与路由，通过 shell、浏览器、HTTP、硬件、自定义 MCP 服务器等工具执行动作。默认自治级别为 supervised，中等风险操作需审批、高风险被阻止，支持 Landlock/Bubblewrap/Seatbelt/Docker 沙箱与工具回执。配置为单个 TOML 文件，可注册为系统服务常驻运行。
+ZeroClaw 是以单个 Rust 二进制发布的 agent 运行时：配置后在本机运行，接入约 20 余家 LLM 提供商（Anthropic、OpenAI、本地 Ollama 及任意 OpenAI 兼容端点，支持回退链），通过 30+ 渠道（Discord、Telegram、Matrix、邮件、webhook、CLI）收发消息，并以工具（shell、浏览器、HTTP、GPIO 硬件、自定义 MCP 服务器）执行动作。默认自治级别为 supervised：中风险操作需审批、高风险被阻止，配合 Landlock/Bubblewrap/Seatbelt/Docker 沙箱与加密工具凭据。TOML 单文件配置，可注册为 systemd/launchctl/Windows 服务常驻。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | Apache-2.0 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -26,21 +26,20 @@ ZeroClaw 是一个以单个 Rust 二进制分发的 agent 运行时，用户在�
 
 ## 能力要点
 
-- 单 Rust 二进制，本地运行，数据与密钥留在用户机器
-- 30+ 消息渠道适配器与可插拔模型提供商（含 fallback 链）
-- supervised 默认自治模式、OS 级沙箱与每次动作的加密工具回执
-- 通过 Peripheral trait 支持 Raspberry Pi、STM32、Arduino、ESP32 的 GPIO/I2C/SPI/USB
+- 单一 Rust 二进制运行时，密钥与数据留在本机
+- Provider 可插拔（Anthropic/OpenAI/Ollama/OpenAI 兼容端点）并带回退链路由
+- 30+ 消息渠道与工具体系（shell/浏览器/HTTP/GPIO/MCP）
+- supervised 默认自治、OS 级沙箱与加密工具凭据
 
 ## 适用场景
 
-- 在一台自己的机器上部署跨 Discord/Telegram 等渠道的常驻个人助手
-- 配置多个 LLM 提供商并在故障时自动切换
-- 在树莓派等设备上让 agent 控制硬件外设
-- 通过 MQTT/webhook/cron 事件触发带审批门的标准作业流程
+- 在自己机器上部署跨 Discord/Telegram/邮件等渠道的 AI 助手
+- 以 CLI 交互对话并让 agent 执行 shell/浏览器工具操作
+- 在树莓派/ESP32 等设备上通过 GPIO/I2C/SPI 驱动硬件
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`AI 助手` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b9d247c74b44` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `13bcd9743c6c` · [字段定义](../../DATASET.md)*

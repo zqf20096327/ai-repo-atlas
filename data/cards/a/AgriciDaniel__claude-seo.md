@@ -2,9 +2,9 @@
 
 ⭐ 31,357 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AgriciDaniel/claude-seo) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
-**给 Claude Code 用户的 SEO 审计技能插件**
+**Claude Code 内的免费 SEO 审计插件，含 GEO/AI 搜索可引用性检查**
 
-面向 Claude Code 的开源 SEO 分析插件：26 个子技能与 19 个专项 agent 并行运行，覆盖技术 SEO、E-E-A-T 内容质量、Schema.org 标记、GEO/AI 搜索优化、本地 SEO、电商与国际 SEO，以及 Google API 与 PDF/Excel 报告。审计输出带优先级与可证伪性检查的行动计划。通过 Claude Code 插件市场安装，setup 步骤创建隔离 Python 环境并安装 Playwright Chromium；另提供 9 个可选扩展命令。
+运行于 Claude Code 的开源 SEO 插件，由 29 个子技能与 20 个专业 agent 组成，最多 17 个 agent 并行审计单个网站。检查范围覆盖技术 SEO（抓取、索引、Core Web Vitals）、E-E-A-T 内容质量、Schema.org 结构化数据、GEO/AI 搜索可引用性、agent 就绪度（llms.txt、WebMCP）、外链、本地与电商 SEO。输出按优先级排序的行动计划，报告保存为 Markdown，可经 Google API 生成 PDF。需 Claude Code 1.0.33+，另提供 MIT 公共版之外的 Pro 会员私有版本。
 
 ## 筛选速览
 
@@ -27,25 +27,25 @@
 
 ## 能力要点
 
-- 26 个子技能、19 个专项 agent 并行执行整站审计
-- 34 个 /seo 命令，含 /seo agentic（Lighthouse Agentic Browsing、llms.txt、WebMCP）
-- 4 层凭证体系从零 key 起步接入 Google SEO API（PageSpeed、CrUX、GSC、GA4、Keyword Planner）
-- MIT 开源，另有面向会员的社区私有镜像版本
+- 29 个子技能 + 20 个专业 agent，最多 17 个并行审计
+- 覆盖 AI 搜索可引用性（GEO）与 agent 就绪度（llms.txt/WebMCP）
+- 30 个 /seo 命令分六组，报告输出 Markdown/PDF/JSON
+- 本地运行，数据不出机器
 
 ## 适用场景
 
-- SEO 代理机构对多个客户站点做周期性自动化审计
-- SaaS/电商企业内部 SEO 负责人在汇报前做二次核查
-- 自由 SEO 顾问用 15 分钟审计向客户展示基线评分
+- SEO 机构为客户做每周例行审计
+- SaaS/电商团队在发布前做 SEO 复查
+- 自由顾问在首次沟通时现场跑一次审计
 
 ## 场景标签
 
- · 领域:数字营销/SEO 工具
+ · 领域:营销/SEO 工具
 
 ## 证据(README 行号)
 
-> L5: **Claude SEO is an open-source SEO analysis plugin for Claude Code.** It runs 26 sub-skills and 19 specialist agents
-> L103: 34 user-invocable `/seo` commands across the orchestrator, its sub-skills, and 9 MCP extensions. Full reference in
+> L26: **Claude SEO is a free SEO plugin for Claude Code.** Give it any website and it runs a full SEO audit in 10 to 15 m
+> L36: Claude SEO is built from 29 sub-skills and 20 specialist agents, and up to 17 agents work on your site at the same 
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4fac21db7744` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `cf022ce5e4b1` · [字段定义](../../DATASET.md)*

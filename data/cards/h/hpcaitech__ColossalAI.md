@@ -2,15 +2,15 @@
 
 ⭐ 41,421 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/hpcaitech/ColossalAI) · [官网](https://www.colossalai.org) · 组织维护 · 中文 README
 
-**面向开发者的大模型分布式训练与推理加速系统**
+**大模型分布式训练与推理的并行加速框架**
 
-分布式深度学习训练与推理框架：提供数据并行、流水线并行、1D/2D/2.5D/3D 张量并行、序列并行、ZeRO、自动并行等并行策略，以及异构内存管理（PatrickStar）；支持通过配置文件声明并行方式，用少量代码启动分布式训练与推理。附带应用示例（Open-Sora 视频生成、Colossal-LLaMA-2、ColossalChat RLHF 流水线、Stable Diffusion 加速、AlphaFold 加速）和 LLaMA3/2/1、MoE、GPT、BERT 等训练 demo，并提供文档、示例与论坛。
+Colossal-AI 提供一组并行组件，覆盖数据并行、流水线并行、1D/2D/2.5D/3D 张量并行、序列并行、ZeRO 与自动并行策略，并含异构内存管理（PatrickStar）；用户以配置文件方式在数行代码内启动分布式训练与推理。README 另列出 Benchmark 数据、HPC-AI 云环境与模型 API 入口，以及 Open-Sora、Colossal-LLaMA-2、ColossalChat（RLHF 流水线）、Stable Diffusion 加速、AlphaFold 加速等应用示例。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,21 +27,20 @@
 
 ## 能力要点
 
-- 多种并行策略：数据/流水线/1D-2D-2.5D-3D 张量/序列并行/ZeRO/自动并行
-- 异构内存管理（PatrickStar）与配置文件驱动的并行声明
-- 附带 ColossalChat 完整 RLHF 流水线与 Open-Sora 视频生成应用
-- 提供 LLaMA、GPT、BERT、MoE、AlphaFold 等训练示例
+- 多种并行策略：数据/流水线/1D-3D 张量/序列并行/ZeRO/自动并行
+- 基于配置文件启动并行训练，异构内存管理（PatrickStar）
+- 附带 ColossalChat RLHF 流水线与 Colossal-Inference 推理组件
+- 提供 LLaMA/GPT/BERT/PaLM/OPT/MoE 等模型的并行训练示例
 
 ## 适用场景
 
-- 在多卡/多机环境训练大语言模型并选择并行策略
-- 微调 LLaMA 类模型或跑 RLHF 训练流程
-- 加速 Stable Diffusion、AlphaFold 等模型的训练与推理
-- 在消费级 GPU 上以低显存做小规模训练 demo
+- 在多 GPU/集群上训练或微调大语言模型
+- 以低显存配置在消费级 GPU 上做模型训练
+- 为类 Sora 视频生成或蛋白质结构预测模型做并行加速
 
 ## 场景标签
 
-`模型训练` `微调` `推理引擎` · 领域:训练与推理
+`模型训练` `微调` `强化学习` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f53e1d19ecde` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `3ded0b7a52b1` · [字段定义](../../DATASET.md)*

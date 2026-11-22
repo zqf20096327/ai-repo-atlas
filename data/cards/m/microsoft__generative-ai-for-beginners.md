@@ -4,7 +4,7 @@
 
 **面向初学者的生成式 AI 应用开发入门课程（21 课）**
 
-微软云推广团队制作的 21 课生成式 AI 应用开发课程，第 3 版。课程分 "Learn"（讲解概念：LLM 原理、模型选择、负责任 AI、提示工程、微调等）与 "Build"（配套 Python 与 TypeScript 代码示例：文本生成、聊天、向量检索、图像生成、RAG、AI Agent 等）两类，每课含视频介绍、README 讲义与延伸资源。代码可接入 Azure OpenAI、Microsoft Foundry Models、OpenAI API 或本地运行的 Foundry Local；仓库提供 50+ 语言翻译，并给出排除翻译目录的 sparse checkout 克隆方式。
+由 Microsoft Cloud Advocates 制作的 21 课生成式 AI 课程，涵盖 LLM 基础、提示工程、文本/聊天/图像生成应用、RAG、向量数据库、function calling、AI Agent、微调与 SLM 等主题。课程分为讲解概念的 "Learn" 课与带 Python 和 TypeScript 代码示例的 "Build" 课，每课含视频介绍、书面讲义与延伸资源。运行示例需配合 Azure OpenAI Service、Microsoft Foundry Models、OpenAI API 或 Foundry Local。提供 50+ 语言翻译与 Discord 学习社区。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 21 课覆盖概念讲解与代码实践，代码示例提供 Python 与 TypeScript 两种语言
-- 支持 Azure OpenAI、Microsoft Foundry Models、OpenAI API 及本地离线运行的 Foundry Local 四种模型接入途径
-- 提供 50+ 语言翻译版本，可用 sparse checkout 排除翻译目录以减小克隆体积
-- 课程主题包含提示工程、RAG 与向量数据库、函数调用、微调、SLM 及 Mistral/Meta 模型使用
+- 21 课覆盖从 LLM 概念到 RAG、Agent、微调的完整主题链
+- Build 课提供 Python 与 TypeScript 双语言代码示例
+- README 含 50+ 语言翻译，支持 sparse checkout 精简克隆
+- 示例可运行于 Azure OpenAI、OpenAI API 或离线的 Foundry Local
 
 ## 适用场景
 
-- 系统性学习生成式 AI 应用开发的基础概念与代码实践
-- 按课程示例动手搭建文本生成、聊天、图像生成或 RAG 应用
-- 在没有云订阅的情况下用 Foundry Local 在本地设备上运行课程代码
+- 系统学习构建生成式 AI 应用的基础知识与代码实践
+- 学习提示工程与 RAG 的动手示例
+- 作为入门教程开展团队或课堂教学
 
 ## 场景标签
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c41436af3808` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7af0425d3687` · [字段定义](../../DATASET.md)*

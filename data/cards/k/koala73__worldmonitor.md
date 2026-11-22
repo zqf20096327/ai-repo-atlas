@@ -2,9 +2,9 @@
 
 ⭐ 91,015 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/koala73/worldmonitor) · [官网](https://worldmonitor.app) · 个人维护 · 中文 README
 
-**实时全球情报仪表盘：新闻聚合、地缘政治与基础设施监控**
+**实时全球情报仪表盘：AI 新闻聚合与地缘监控**
 
-以 TypeScript 编写的实时全球态势感知仪表盘，聚合新闻、金融、能源、气候、航空、网络、军事等多源数据，提供 3D 地球与 WebGL 平面图双地图引擎、国家不稳定指数（CII）、跨流信号关联，并由 AI 将新闻源合成为简报。交付形态包括 Web 应用、Tauri 桌面应用（Windows/macOS/Linux）、npm 终端仪表盘与 CLI、Python/Ruby/Go SDK 及 MCP 服务器。支持用 Ollama 本地运行 AI 功能，无需 API key。许可为 AGPL-3.0-only。
+实时全球情报仪表盘，聚合新闻、地缘政治、金融、军事、气候与网络信号，AI 将策展新闻流合成简报，并提供 31 国不稳定指数、跨流信号关联分析。交付形态包括 Web 应用（六个站点变体）、Tauri 桌面端、终端仪表盘、CLI、MCP server 与 Python/Ruby/Go SDK，面向 OSINT/情报分析使用者。本地 AI 通过 Ollama 运行无需 API key，也可接 OpenRouter；本地开发需 Node.js 24。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@
 
 ## 能力要点
 
-- 多形态交付：Web、Tauri 桌面应用、终端仪表盘、CLI、三种语言 SDK 与 MCP 服务器
-- 3D 地球（globe.gl）与 WebGL 平面图（deck.gl）双地图引擎
-- 31 个 Tier-1 国家的国家不稳定指数（CII v11）实时评分
-- 支持 Ollama 本地运行 AI，无需 API key
+- 新闻流 AI 合成简报与跨流信号关联（军事/经济/灾害/升级）
+- 本地 AI 经 Ollama 运行，无需 API key
+- MCP server 与官方 CLI、Python/Ruby/Go SDK 提供程序化访问
+- 双地图引擎：globe.gl 3D 地球与 deck.gl WebGL 平面地图
 
 ## 适用场景
 
-- 在一个界面里持续跟踪全球新闻、地缘政治与基础设施动态
-- 通过终端仪表盘在 shell 中查看地图、新闻、市场与冲突信号
-- 用 MCP/REST/SDK 把全球情报数据接入 agent 与脚本
+- 实时监控全球新闻与地缘政治动态生成情报简报
+- 跟踪军事航班、冲突与灾害信号的交叉汇聚
+- 通过 MCP 或 SDK 把全球情报数据接入 agent 与脚本
 
 ## 场景标签
 
- · 领域:情报/态势监控
+ · 领域:情报/OSINT 数据聚合
 
 ## 证据(README 行号)
 
 > L5: **Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructu
-> L56: - **Curated news feeds** across global and regional categories, AI-synthesized into briefs
-> L62: - **Local AI** — run everything with Ollama, no API keys required
+> L64: - **Local AI** — run everything with Ollama, no API keys required
+> L135: World Monitor is built for agents and scripts as well as browsers:
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `f242488965fc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bccf76f97cfa` · [字段定义](../../DATASET.md)*

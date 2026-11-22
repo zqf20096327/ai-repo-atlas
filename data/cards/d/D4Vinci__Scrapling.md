@@ -2,9 +2,9 @@
 
 ⭐ 104,805 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/D4Vinci/Scrapling) · [官网](https://scrapling.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
-**Python 网页抓取框架：从单次请求到全站爬取一体化**
+**面向开发者的 Python 网页抓取框架，含 MCP 服务器供 AI 调用**
 
-面向开发者的 Python 网页抓取库，整合快速 HTTP 请求、Playwright 隐身浏览器、解析与并发爬虫：支持 CSS/XPath/正则选择器、元素智能重定位、Cloudflare Turnstile 处理、代理轮换、会话管理、暂停恢复、AutoThrottle 与 JSON/JSONL/CSV/XML 导出，并提供 Scrapy 风格的 Spider 模板。可通过 Python、CLI、交互式 shell 或 MCP server/Agent Skill 供 AI agent 调用浏览与抽取数据，可输出 Markdown。以 pip 包与 Docker 镜像分发。
+Python 网页抓取框架，将快速 HTTP 请求、隐身浏览器、解析提取与并发爬取整合到一个库中：支持静态页面抓取、JavaScript 渲染、Cloudflare Turnstile 处理、持久会话、代理轮换、自动重试、暂停/恢复，以及 JSON/JSONL/CSV/XML 导出。提供 Scrapy 风格的 Spider API、AutoThrottle 与 robots.txt 合规选项。可通过 Python、CLI 或 MCP 服务器与 Agent Skill 从 AI agent 调用，输出含整洁 Markdown。以 PyPI 包与 Docker 镜像分发。
 
 ## 筛选速览
 
@@ -27,26 +27,27 @@
 
 ## 能力要点
 
-- Scrapy 风格 Spider API：并发、暂停恢复、AutoThrottle、流式输出
-- StealthyFetcher 隐身浏览器、TLS 指纹伪装与 Cloudflare Turnstile 处理
-- MCP server 与 Agent Skill，供 AI agent 浏览和抽取数据
-- 代理轮换、域名/广告屏蔽、后台 API 捕获、多格式导出
+- 集成 MCP 服务器与 Agent Skill，供 AI agent 浏览并提取数据
+- Scrapy 风格 Spider API：并发爬取、AutoThrottle、暂停/恢复、流式输出
+- StealthyFetcher 支持 Playwright Chromium、TLS 指纹伪装与反反爬
+- 内置 JSON/JSONL/CSV/XML 导出与整洁 Markdown 输出
 
 ## 适用场景
 
-- 抓取动态网页并把整站内容收集为干净的 Markdown
-- 构建并发爬虫并导出为 JSON/CSV 等格式
-- 让 AI agent 通过 MCP 调用抓取与数据抽取能力
-- 绕过反爬机制采集数据（含代理轮换与会话管理）
+- 抓取静态页面或渲染 JavaScript 的动态页面并提取字段
+- 构建整站并发爬虫并导出为 JSON/CSV 等格式
+- 让 AI agent 通过 MCP 抓取网页并转为 Markdown
+- 配合代理轮换与重试机制采集需要会话状态的网站
 
 ## 场景标签
 
-`网页抓取` · 领域:效率与自动化
+`网页抓取` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L56: Scrapling is a Python Web Scraping framework that brings fast HTTP requests, stealth browsers, powerful parsing, an
 > L60: Use it from Python, the terminal, or your AI agent through its MCP server and Agent Skill. From extracting a few fi
+> L67: - **Scrape with AI or from your terminal**: An MCP server for AI agents to browse and extract data, an Agent Skill,
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `0f408fa65b11` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8bb8bd2368bc` · [字段定义](../../DATASET.md)*

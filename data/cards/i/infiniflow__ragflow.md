@@ -2,15 +2,15 @@
 
 ⭐ 94,509 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/infiniflow/ragflow) · [官网](https://ragflow.io) · 组织维护 · 中文 README
 
-**企业级开源 RAG 引擎：融合 Agent 能力为 LLM 提供上下文层**
+**开源 RAG 引擎与 agent 基础设施：将复杂数据转为可用的 AI 系统**
 
-RAGFlow 是 infiniflow 维护的开源检索增强生成引擎，结合 Agent 能力为 LLM 提供上下文层。核心机制包括基于模板的分块、文档/数据集级知识编译（生成 Wiki、图谱、树、思维导图等）、多步 Agentic 检索（Low 到 Ultra 四档思考模式）、可追溯引用的可视化分块。支持 Word、PDF、网页等异构数据源接入，提供 API 集成。本地部署支持 Docker 或源码构建，另提供 cloud.ragflow.io 云服务。注意源码构建依赖 Go 1.27、Clang 20 等工具链。
+RAGFlow 自述为一个 agent-native 数据库与检索增强生成（RAG）引擎，为 LLM 提供上下文层。核心机制包括基于深度文档理解的模板化分块、文档与数据集级知识编译（生成 Wiki、图、树、思维导图等）、多步 agentic 检索（Low/Medium/High/Ultra 思考模式）、带可追溯引用的接地回答。支持 Docker 部署或源码启动（Go 服务，需 CGO 编译），通过 Web UI 配置 LLM、embedding 与 reranker 模型。macOS 平台暂不支持。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -25,26 +25,27 @@ RAGFlow 是 infiniflow 维护的开源检索增强生成引擎，结合 Agent �
 
 ## 能力要点
 
-- 模板化分块与文档可视化干预，引用可溯源
-- 知识编译生成 Wiki、Graph、Tree、PageIndex 等结构化产物
-- Agentic 检索支持 Low/Medium/High/Ultra 四档思考模式
-- 支持 Word/PPT/Excel/PDF/网页等多格式数据源
+- 模板化分块与可视化 chunk 校对，支持人工干预
+- 知识编译：从文档/数据集生成 Wiki、Graph、Tree、PageIndex、Mind Map、Timeline、Skills
+- Agentic 检索支持四档思考深度控制推理强度
+- 兼容 Word、PPT、Excel、PDF、扫描件、网页等异构数据源
 
 ## 适用场景
 
-- 为企业知识库搭建检索增强问答系统
-- 对复杂格式文档做深度理解与知识提取
-- 用预置 Agent 模板构建生产级 AI 应用
+- 为企业搭建私有知识库问答系统
+- 对复杂格式文档做深度解析与知识提取
 - 通过 API 将 RAG 能力集成到业务系统
+- 构建带多步检索的 agent 工作流
 
 ## 场景标签
 
-`RAG` `Agent 框架` · 领域:Agent 开发
+`RAG` `文档问答` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L57: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent
-> L131: Local deployment supports both Docker deployment and launching from source. Docker is suitable for quick evaluatio
+> L126: Local deployment supports both Docker deployment and launching from source. Docker is suitable for quick evaluatio
+> L132: - Recommended starting configuration: 4 CPU cores, 16 GB RAM, and 50 GB of available disk space. Actual requiremen
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `b33840486af5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `27a788bd6f88` · [字段定义](../../DATASET.md)*

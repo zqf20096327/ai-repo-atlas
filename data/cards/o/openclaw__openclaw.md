@@ -2,9 +2,9 @@
 
 ⭐ 394,977 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/openclaw/openclaw) · [官网](https://openclaw.ai) · 组织维护
 
-**运行在自有设备上的开源 AI 助手，接入聊天渠道**
+**自托管开源 AI 助手：接入聊天渠道运行在个人设备上**
 
-OpenClaw 是开源 AI 助手，运行在用户自己的设备上，通过 Discord、iMessage、Slack、Telegram、WhatsApp 等 20+ 聊天渠道以及 macOS/iOS/Android/Windows/Linux 原生应用交付。一个 Gateway 既可作为个人助手运行，也可作为团队共享部署。状态、记忆与凭证存于本地硬件；模型与 agent harness 作为可替换插件接入；默认仅每日版本检查联网，匿名统计需主动开启。由独立 501(c)(3) 基金会维护，无付费层或托管服务。
+OpenClaw 是开源 AI 助手，运行在用户自己的设备上，通过 Discord、iMessage、Slack、Telegram、WhatsApp 等 20+ 消息渠道以及 macOS/iOS/Android/Windows/Linux 原生应用交付。架构为本地 Gateway 控制会话、工具、事件与渠道连接；状态、记忆与凭据保存在用户硬件上。模型与 agent harness（Claude、Codex、本地模型）以可替换插件形式接入。由 OpenClaw Foundation（独立 501(c)(3)）维护，无付费层或托管服务；默认仅每日版本检查联网，匿名统计需主动开启。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@ OpenClaw 是开源 AI 助手，运行在用户自己的设备上，通过 Discor
 
 ## 能力要点
 
-- Gateway 本地控制面管理会话、工具、事件与渠道连接
-- 接入 20+ 聊天渠道及多平台原生应用
-- 模型与 agent harness（Claude、Codex、本地模型）以插件方式可替换
-- 沙箱配置与消息发送者配对等安全机制
+- 支持 20+ 消息渠道与五平台原生应用
+- 模型与 agent harness 以插件形式可替换（Claude/Codex/本地模型）
+- 状态、记忆与凭据保留在用户硬件，本地 Gateway 架构
+- 工具运行支持沙箱配置与消息发送者配对审批机制
 
 ## 适用场景
 
-- 在自有设备上部署个人 AI 助手并通过常用聊天软件交互
-- 团队共享部署一个统一的助手实例
-- 搭配本地模型实现数据不出本地的助手使用
+- 在个人设备上运行助理并接入既有聊天工具
+- 以多渠道方式向家人或团队共享一个助理实例
+- 在数据不出本地的约束下使用 AI 助手
 
 ## 场景标签
 
@@ -45,7 +45,6 @@ OpenClaw 是开源 AI 助手，运行在用户自己的设备上，通过 Discor
 ## 证据(README 行号)
 
 > L11: OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already us
-> L13: **Yours, with no catch.** State, memory, and credentials live on your hardware. Models and agent harnesses (Claude,
 > L63: - The Gateway is the local control plane for sessions, tools, events, and channel connections.
 
 ## 星数曲线
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `964a5a8366f7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `238059236018` · [字段定义](../../DATASET.md)*

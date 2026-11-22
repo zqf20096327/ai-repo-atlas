@@ -1,10 +1,10 @@
 # reactive-resume/reactive-resume
 
-⭐ 45,959 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/reactive-resume/reactive-resume) · [官网](https://rxresu.me) · 组织维护
+⭐ 45,959 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/reactive-resume/reactive-resume) · [官网](https://rxresu.me) · 个人维护
 
-**开源自托管简历构建器：写简历、检查、投递追踪与可选 AI 助手**
+**面向求职者的开源简历与求职信构建器，可自托管**
 
-面向求职者的免费开源简历/求职信构建器：提供所见即所得编辑器、18 套模板、可读性检查、职位关键词匹配、求职申请看板与日历追踪，导出 PDF/Word/Markdown/JSON 并支持公开链接分享。AI 为可选功能：文档旁助手可提出编辑建议（逐条接受/拒绝）、写作审阅、根据职位起草求职信，需自行连接 OpenAI、Anthropic、Gemini、OpenRouter、Ollama 等提供商；JSON/LinkedIn/PDF 导入不依赖 AI，Word 导入需连接提供商。可自托管（Docker、Vercel、Cloudflare Workers 等），MIT 许可，无跟踪无广告。
+Reactive Resume 是一个免费开源的简历与求职信构建器：提供所见即所得编辑器、18 套模板、实时 PDF 预览、可读性检查与职位关键词匹配、求职申请追踪看板，以及 PDF/Word/Markdown/JSON 导出和带密码保护的公开分享链接。可选 AI 功能包括写作助理、AI 简历审阅与求职信起草，用户需自行接入 OpenAI、Ollama 等服务商；文档管理通过 REST API 与 MCP server 开放。支持 Docker、Vercel、Cloudflare Workers 等自托管方式，MIT 许可，无追踪无广告。
 
 ## 筛选速览
 
@@ -26,28 +26,27 @@
 
 ## 能力要点
 
-- 18 套模板与 ATS 友好筛选，实时 PDF 预览
-- 可读性检查、职位关键词匹配与浏览器端公开 ATS 检查器
-- 可选 AI 助手：提议式编辑、写作审阅、按职位起草求职信，需自接提供商
-- 求职申请追踪（列表/看板/洞察/日历）与 REST API、MCP server
+- 18 套模板，含 ATS-safe 过滤与 Semantic CSS 自定义样式
+- AI 助理可接入 OpenAI/Anthropic/Gemini/OpenRouter/Ollama 等，建议式修改逐条接受或拒绝
+- 求职申请追踪：列表/看板/洞察/日历视图，支持 CSV 导入导出
+- 提供 REST API 与 MCP server 用于文档管理、导入导出与检查
 
 ## 适用场景
 
-- 编写和定制简历，导出 PDF/Word/Markdown 并公开分享
-- 对照职位描述检查简历关键词匹配与可读性
-- 追踪投递进度、面试安排与联系人
-- 在自己服务器上自托管完整应用，掌控数据
+- 在线编写并导出 PDF/Word 简历与求职信
+- 在浏览器中用 ATS 检查器核查 PDF 简历
+- 自托管在自有基础设施上管理简历数据
+- 追踪求职申请从 Saved 到 Offer 的流程
 
 ## 场景标签
 
- · 领域:求职/文档工具
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L12:  Reactive Resume is a free and open-source resume builder for writing resumes and cover letters, checking your work
-> L47: You own your data. The codebase is open source under the MIT license, with no tracking, no ads, and no paid tier. O
-> L107: - Connect OpenAI, Anthropic, Google Gemini, OpenRouter, Ollama, or other supported providers and compatible endpoi
-> L113: - JSON, LinkedIn, and readable PDF imports work without AI; Word imports require a connected provider
+> L7:  Reactive Resume is a free and open-source resume builder for writing resumes and cover letters, checking your work,
+> L106: **AI Assistant**
+> L124: - Self-host with Docker, Vercel, Cloudflare Workers, or a 1-click deploy on Hostinger
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `2602fafa4a22` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a566d35e54d0` · [字段定义](../../DATASET.md)*

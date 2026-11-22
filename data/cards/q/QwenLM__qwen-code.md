@@ -2,9 +2,9 @@
 
 ⭐ 30,845 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/QwenLM/qwen-code) · [官网](https://qwenlm.github.io/qwen-code-docs/en/users/overview) · 组织维护 · 中文 README
 
-**面向开发者的终端 AI 编码 agent，支持多模型多界面**
+**面向开发者的终端 AI 编码代理 CLI**
 
-开源命令行 AI 编码 agent，提供终端、桌面应用、Web UI、编辑器插件与 IM 渠道等多种使用界面。内置 SubAgents、Agent Teams、Auto-Memory、Auto-Skills 与 MCP 支持，支持 OpenAI、Anthropic、Gemini、Qwen 协议及第三方本地模型，可在运行时切换。通过 npm、Homebrew 或安装脚本部署，需 Node.js 22+（npm 路径）。README 提供 SWE-bench Verified 评测数据（76.40%–77.80%）。
+Qwen Code 是一个开源 AI 编码代理，主形态为终端 CLI，另提供桌面应用、Web UI、IDE 插件（VS Code/Zed/JetBrains）与聊天渠道集成（Telegram/钉钉/微信/飞书等）。内置 SubAgents、Agent Teams、Auto-Memory、Skills、MCP、Hooks、沙箱与 Git worktree 等机制，支持 headless 模式、daemon 模式（HTTP+SSE）以及 TypeScript/Python/Java SDK。支持 OpenAI/Anthropic/Gemini/Qwen API 及本地模型（Ollama/vLLM），可在运行时切换。安装依赖 Node.js 22+。
 
 ## 筛选速览
 
@@ -27,26 +27,27 @@
 
 ## 能力要点
 
-- 支持多协议模型接入：OpenAI/Anthropic/Gemini/Qwen API 及 Ollama/vLLM 本地模型
-- 多种使用界面：终端、桌面、Web UI、VS Code/Zed/JetBrains 插件、Telegram/钉钉/微信/飞书渠道
-- Headless 模式可嵌入脚本、CI/CD 与批处理，另提供 TypeScript/Python/Java SDK
-- Agent Arena 支持多模型在同一任务上对比运行
+- 终端 CLI 为主，另有桌面、Web UI、IDE 插件与 IM 渠道等多种接口
+- 内置 SubAgents、Agent Teams、Auto-Memory、Skills 的 agent 框架
+- 多协议接入 OpenAI/Anthropic/Gemini/Qwen API 与本地模型，运行时可切换
+- daemon 模式提供 HTTP+SSE API，支持多 workspace 与会话重连
 
 ## 适用场景
 
-- 在终端里用自然语言让 AI 阅读、解释和修改项目代码
-- 在 CI/CD 或脚本中以 headless 模式自动执行编码任务
-- 通过 IM 渠道（如飞书/钉钉）远程调用编码 agent
+- 在终端中用自然语言完成代码审查、修复与批量修改
+- 在 CI/CD 脚本中通过 headless 模式运行编码任务
+- 接入 MCP 服务器扩展工具并通过 IDE 插件协同编码
+- 用本地模型（Ollama/vLLM）作为后端运行编码代理
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L8: **The open-source AI coding agent for your terminal, editor, desktop, browser, and chat.**
-> L24: - **Multi-protocol** — Supports OpenAI, Anthropic, Gemini, and Qwen APIs. Any third-party provider or local model (
-> L112: |Feature|Qwen Code|Claude Code|
+> L26: - **Agentic out of the box** — Auto-Memory, Skills, SubAgents, and MCP work from the first session. Agent Teams, Ag
+> L138: Qwen Code ships with a complete agent harness — multi-agent orchestration, persistent memory, and deep extensibili
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a68fd51d23a4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e26b80d2218f` · [字段定义](../../DATASET.md)*

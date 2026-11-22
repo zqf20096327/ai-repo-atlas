@@ -2,9 +2,9 @@
 
 ⭐ 115,661 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/paperclipai/paperclip) · [官网](https://paperclip.ing) · 组织维护
 
-**开源的团队级 AI agent 编排与治理平台**
+**给团队编排管理 AI agent 的开源控制台**
 
-Node.js 服务端 + React UI 的控制平面，用于组织和管理多个 AI agent 团队：接入自带 agent（OpenClaw、Claude Code、Codex、Cursor、Gemini CLI 等），分配任务与目标，通过心跳队列驱动执行，并提供任务线程、组织架构与权限、审批与治理门禁、成本与预算控制、定时例程、技能工作室及多组织隔离等能力。面向希望让多个 agent 长期自主运行并同时保留审计与人工介入的团队。
+Node.js 服务端加 React UI 的 AI agent 编排应用：用户自定义业务目标、组建 agent 组织架构，从统一面板跟踪任务、审批与成本。机制上提供心跳唤醒调度、原子任务认领锁、预算硬停、审批门与角色权限，通过适配器接入 Claude Code、Codex、Cursor 等多种 harness，支持多组织隔离与定时例程。以 MIT 协议开源，另提供 Paperclip Cloud 候补名单。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@ Node.js 服务端 + React UI 的控制平面，用于组织和管理多个 AI ag
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -27,17 +27,17 @@ Node.js 服务端 + React UI 的控制平面，用于组织和管理多个 AI ag
 
 ## 能力要点
 
-- 跨运行时接入任意可接收心跳的 agent，统一组织架构管理
-- 心跳执行队列：任务唤醒、预算检查、密钥注入、技能加载与受限恢复
-- 公司/agent/项目多级预算、阈值告警与硬停机制
-- 审批门禁、配置版本化回滚与组织边界隔离
+- 心跳调度与 DB 支持的唤醒队列，agent 按任务/消息/日程唤醒
+- 原子任务认领与执行锁，防止多个 run 争抢同一任务
+- 按公司/agent/项目/模型的成本追踪与预算硬停
+- 组织架构、权限、审批门与可回滚的配置版本管理
 
 ## 适用场景
 
-- 把多个编码或业务 agent 编成团队，围绕一个业务目标分工协作
-- 追踪 20 个并发 agent 终端的工作状态与开销
-- 为周期性任务（客服、报告等）设置定时例程并自动派发给 agent
-- 对 agent 的操作设置审批与权限边界，保留完整审计记录
+- 协调多个编码 agent（Claude Code/Codex/Cursor）朝同一业务目标工作
+- 让 agent 24/7 自主运行并保留审计与随时介入能力
+- 为 agent 团队设置预算上限并监控 token 花费
+- 把定时任务（客服、报告）交给 agent 例程自动执行
 
 ## 场景标签
 
@@ -45,9 +45,9 @@ Node.js 服务端 + React UI 的控制平面，用于组织和管理多个 AI ag
 
 ## 证据(README 行号)
 
+> L23: Open-source orchestration for teams of AI agents.
 > L27: Paperclip is a Node.js server and React UI that orchestrates a team of AI agents to run a business. Bring your own 
-> L54: Custom processes, HTTP endpoints, and external adapter packages extend the roster. See the adapter overview for set
-> L156: Paperclip is a full control plane, not a wrapper. Before you build any of this yourself, know that it already exis
+> L169: **Org Chart & Agents** — Agents have roles, titles, reporting lines, permissions, and budgets. Adapter examples ma
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ad138a24fb9e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0c5223da14dd` · [字段定义](../../DATASET.md)*

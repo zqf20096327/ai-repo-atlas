@@ -2,15 +2,15 @@
 
 ⭐ 34,475 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Twigpine/openclaude) · [官网](https://openclaude.twigpine.com) · 组织维护
 
-**面向开发者的多后端编码 agent CLI，统一终端工作流**
+**开源终端编码 Agent CLI：一个入口接入云与本地多种模型后端**
 
-OpenClaude 是一个开源编码 agent CLI，通过一套终端工作流接入云 API 与本地模型后端：支持 prompts、工具调用、agents、MCP、slash 命令与流式输出。通过 /provider 命令做引导式后端配置并保存 profile，凭证存于 .openclaude-profile.json；不自动加载项目 .env，需显式导出或使用 --provider-env-file。会话支持恢复、分叉（仅对话分支，无文件系统隔离）、后台运行（本地子进程，无 daemon）。需 Node.js >=22；配置独立于 Claude Code 存储。
+面向终端的编码 Agent 命令行工具，可在同一终端工作流中调用 OpenAI 兼容 API、Gemini、GitHub Models、Codex OAuth、Ollama、Atomic Chat 等后端。功能覆盖 bash 与文件工具、grep/glob、子 Agent、任务、MCP、斜杠命令、流式输出、会话恢复/分叉/管理、后台会话（含 ps/wait/logs/attach/agents 子命令）以及网页搜索后端选择。通过 /provider 做引导式供应商配置并保存凭据 profile；不自动读取项目 .env，不读取 .claude 配置目录，无需安装 Claude Code。安装方式为 npm 全局包与 AUR 包，运行需 Node.js >=24.22.1。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,16 +27,16 @@ OpenClaude 是一个开源编码 agent CLI，通过一套终端工作流接入�
 
 ## 能力要点
 
-- 单一 CLI 接入 OpenAI 兼容 API、Gemini、GitHub Models、Codex OAuth、Ollama 等后端
-- /provider 引导式配置与 profile 保存，支持多个网关型服务商的专属通道
-- 后台会话管理：--bg 运行、ps/logs/kill 进程管理
-- 内置 bash、文件工具、grep/glob、agents、tasks、MCP 与 web 工具，附带 VS Code 扩展
+- 单一 CLI 接入云 API 与本地模型后端（OpenAI 兼容、Gemini、GitHub Models、Ollama 等）
+- 编码 Agent 工作流：bash、文件工具、grep/glob、agents、tasks、MCP、web 工具
+- 后台会话管理与等待/日志/派发子命令，适用于脚本与 CI
+- 捆绑 VS Code 扩展与 /provider 引导式供应商配置
 
 ## 适用场景
 
-- 用一套 CLI 在云端 API 与本地 Ollama 模型之间切换编码 agent 工作流
-- 在终端运行长时间后台编码任务并管理会话
-- 通过多个网关服务商使用 DeepSeek、Qwen 等模型
+- 在终端里用统一工作流切换云与本地模型做编码任务
+- 在 CI 脚本中运行并等待非交互的后台 Agent 任务
+- 用 MCP、斜杠命令和子 Agent 组织自己的编码工作流
 
 ## 场景标签
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ed8dfb78f3df` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `aed6b72866d9` · [字段定义](../../DATASET.md)*

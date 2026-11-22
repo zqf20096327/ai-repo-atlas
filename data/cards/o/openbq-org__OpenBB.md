@@ -2,15 +2,15 @@
 
 ⭐ 75,622 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/openbq-org/OpenBB) · [官网](https://openbb.co) · 组织维护
 
-**为量化分析师与 AI agent 提供统一金融数据接入的开源平台**
+**为分析师、量化与 AI agent 整合多源金融数据的开放数据平台**
 
-OpenBB 的开放数据平台（ODP）是帮助数据工程师将专有、授权与公开数据源整合进下游应用的 Python 工具集，面向量化人员、分析师与 AI agent。核心机制为"一次连接、多处消费"：同一数据层同时暴露给 Python 环境、OpenBB Workspace/Excel、MCP 服务器与 REST API。安装通过 PyPI 的 pip 完成，`openbb-api` 命令可启动 FastAPI/Uvicorn 本地服务（127.0.0.1:6900）。数据准确性免责声明明确提示不保证准确。
+OpenBB 的开源数据集成工具集，将专有、许可与公开数据源接入下游应用。采用"一次接入、多处消费"架构：同一数据可经 Python 环境供量化使用、经 OpenBB Workspace 与 Excel 供分析师使用、经 MCP server 供 AI agent 使用、经 REST API 供其他应用使用。提供 pip 安装的 Python 包、CLI（openbb-cli），以及 openbb-api 命令启动 FastAPI/Uvicorn 本地服务（127.0.0.1:6900）供 Workspace 连接。需 Python 3.11–3.14 环境。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,16 +27,17 @@ OpenBB 的开放数据平台（ODP）是帮助数据工程师将专有、授权�
 
 ## 能力要点
 
-- 提供统一 Python 接口访问股票、加密、衍生品、固收等金融数据
-- 支持 REST API、MCP server、Python 多种消费方式
-- openbb-api 一键启动 FastAPI 本地数据后端
-- 可与 OpenBB Workspace 企业 UI 连接使用
+- "connect once, consume everywhere"架构：Python/Excel/MCP server/REST API 多面暴露数据
+- 提供 MCP server 供 AI agent 消费数据
+- pip 安装的 Python 包与 CLI（openbb-cli）
+- openbb-api 命令启动 FastAPI 本地服务
 
 ## 适用场景
 
-- 为量化研究在 Python 中获取历史行情数据
-- 为 AI copilot/agent 通过 MCP 提供金融数据层
-- 将自有数据源接入研究看板与 Excel
+- 为量化研究在 Python 中拉取股票价格历史数据
+- 把自有数据源接入 OpenBB Workspace 供分析师可视化
+- 通过 MCP server 让 AI agent 访问金融数据
+- 以 REST API 向下游应用提供整合后的数据
 
 ## 场景标签
 
@@ -46,7 +47,6 @@ OpenBB 的开放数据平台（ODP）是帮助数据工程师将专有、授权�
 
 > L15: Open Data Platform by OpenBB (ODP) is the open-source toolset that helps data engineers integrate proprietary, lice
 > L17: ODP operates as the "connect once, consume everywhere" infrastructure layer that consolidates and exposes data to m
-> L72: This will launch a FastAPI server, via Uvicorn, at `127.0.0.1:6900`.
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c3f768a4a54a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2c61321d4fd8` · [字段定义](../../DATASET.md)*

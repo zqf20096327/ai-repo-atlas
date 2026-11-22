@@ -1,19 +1,19 @@
 # vllm-project/vllm
 
-⭐ 97,318 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/vllm-project/vllm) · [官网](https://vllm.ai) · 组织维护
+⭐ 97,318 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/vllm-project/vllm) · [官网](https://vllm.ai)
 
-**面向开发者的 LLM 高吞吐推理与服务引擎**
+**面向开发者的 LLM 高吞吐推理与服务平台**
 
-vLLM 提供 LLM 推理与服务能力：以 PagedAttention 管理 KV 内存，支持连续批处理、chunked prefill、前缀缓存、投机解码与量化方案（FP8/INT8/GPTQ/AWQ/GGUF 等）；兼容 Hugging Face 200+ 模型架构，输出 OpenAI 兼容 API、Anthropic Messages API 与 gRPC，支持张量/流水线/专家并行及多 LoRA。项目源自 UC Berkeley Sky Computing Lab，由社区维护，通过 uv/pip 安装。
+用于 LLM 推理与服务的 Python 库，提供 OpenAI 兼容 API 服务器及 Anthropic Messages API、gRPC 接口。核心机制包括 PagedAttention 的显存管理、连续批处理、前缀缓存、多种量化格式与投机解码，支持张量/流水线/数据/专家/上下文并行做分布式推理。支持 NVIDIA/AMD/Intel GPU、x86/ARM/PowerPC CPU 及 TPU、Gaudi 等硬件插件，可运行 Hugging Face 上 200+ 模型架构。经 uv/pip 安装，亦可从源码构建。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,20 +27,21 @@ vLLM 提供 LLM 推理与服务能力：以 PagedAttention 管理 KV 内存，�
 
 ## 能力要点
 
-- PagedAttention KV 内存管理与连续批处理
+- PagedAttention 显存管理与连续批处理、前缀缓存
 - OpenAI 兼容 API 服务器，另支持 Anthropic Messages API 与 gRPC
-- 支持 NVIDIA/AMD/Intel GPU 与 x86/ARM/PowerPC CPU 及 TPU、Ascend 等硬件插件
-- 200+ Hugging Face 模型架构，覆盖 MoE、多模态、嵌入模型
+- 支持 NVIDIA/AMD/Intel GPU、CPU 及 TPU/Gaudi/Ascend 等硬件插件
+- 多 LoRA、结构化输出、工具调用与投机解码支持
 
 ## 适用场景
 
-- 为自己的模型部署高吞吐推理服务
-- 以 OpenAI 兼容 API 对外提供 LLM 服务
-- 在多种 GPU/CPU 硬件上运行量化模型推理
+- 为自部署 LLM 提供高吞吐 API 服务
+- 在多种 GPU/CPU 硬件上运行 200+ Hugging Face 模型架构
+- 做分布式推理与量化部署
+- 以兼容 OpenAI API 的方式接入现有应用
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7a5690629d1d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `fc38df901c1e` · [字段定义](../../DATASET.md)*

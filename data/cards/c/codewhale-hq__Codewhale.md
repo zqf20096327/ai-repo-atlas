@@ -1,22 +1,22 @@
 # codewhale-hq/Codewhale
 
-⭐ 41,195 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/codewhale-hq/Codewhale) · [官网](https://codewhale.net/) · 组织维护
+⭐ 41,195 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/codewhale-hq/Codewhale) · [官网](https://codewhale.net/) · 个人维护
 
-**开源 Rust 终端编码 agent，支持 40+ 模型提供商**
+**终端里的开源 Rust 编码代理，可接任意模型并多代理分工**
 
-用 Rust 编写的终端编码 agent 及共享同一引擎的 CLI/网页/HTTP API 形态：接收任务后读取仓库、编辑文件、运行命令直至完成。内置 40+ 提供商（默认 DeepSeek，兼容 OpenAI 端点及 Ollama/vLLM/SGLang 本地模型）。提供 Plan/Work/Operate 三种模式与 Ask/Auto-Review/Full Access 三级权限，OS 沙箱隔离，`/receipts` 记录文件变更、命令与调用，`/undo` 回滚。支持 MCP、插件、子 agent 与工作流；MIT 许可，无需账号。
+以 Rust 编写的终端编码代理：读取仓库、编辑文件并运行命令直至任务完成，通过 Plan/Work/Operate 模式与 Ask/Auto-Review/Full Access 权限档控制自主程度，提供回执清单、/undo 与 /restore 回滚、OS 级沙箱（macOS Seatbelt、Linux bubblewrap）。内置 40 余个 provider，默认 DeepSeek，支持 OpenAI 兼容端点与 Ollama/vLLM/SGLang 本地模型；可将任务拆分给带角色和模型的子代理/Fleet。提供交互终端、exec 无头运行、本地 web 客户端、PR 审查、HTTP Runtime API 与 ACP 编辑器接入等多种运行方式，另支持 MCP/插件/skills/hook 扩展。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -27,26 +27,27 @@
 
 ## 能力要点
 
-- 内置 40+ 提供商，默认 DeepSeek，支持 Ollama/vLLM/SGLang 本地模型
-- Plan/Work/Operate 模式与 Ask/Auto-Review/Full Access 权限分级
-- `/receipts` 记录全部变更与调用，`/undo`/`/restore` 回滚
-- exec/web/app-server/ACP 多运行形态共享同一引擎
+- 内置 40+ provider，支持 OpenAI 兼容端点与 Ollama/vLLM/SGLang 本地模型
+- 多代理协作：子代理、Fleet 与仓库内工作流
+- 回执与回滚：/receipts 列出文件改动、命令、MCP 调用与审批记录，/undo /restore 回退
+- OS 沙箱与分级权限（Ask/Auto-Review/Full Access），无账户、密钥留本机
 
 ## 适用场景
 
-- 在终端里让 AI 修复测试、编辑代码并解释改动
-- 在 CI 或脚本中以 `codewhale exec` 自动执行单次任务
-- 对 GitHub PR 运行顾问式审查
-- 通过 MCP 服务器与插件扩展 agent 能力
+- 在终端让代理完成修测试、改代码、跑命令的开发任务
+- 用自有 API key 或本地模型驱动编码代理，费用可控
+- 在脚本与 CI 中以 codewhale exec 无头运行任务
+- 把任务拆给多个带不同角色与模型的代理协作完成
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: Give Codewhale a task and it reads the repository, edits files, and runs
-> L123: More than 40 providers are built in, including Anthropic, OpenAI, DeepSeek,
+> L5: Codewhale is an open-source coding agent for your terminal, written in Rust.
+> L83: More than 40 providers are built in, including Anthropic, OpenAI, DeepSeek,
+> L54: 2. Run `/provider` (or press `F3`), pick a provider, paste its API key and
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `0c86a5b67a84` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5986a5a4cc49` · [字段定义](../../DATASET.md)*

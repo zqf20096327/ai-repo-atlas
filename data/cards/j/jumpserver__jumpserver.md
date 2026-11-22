@@ -2,9 +2,9 @@
 
 ⭐ 31,998 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/jumpserver/jumpserver) · [官网](https://jumpserver.com) · 组织维护 · 中文 README
 
-**为 DevOps/IT 团队提供带 AI 能力的开源堡垒机（PAM）平台**
+**面向 DevOps 与 IT 团队的开源 PAM 堡垒机平台（带 AI 能力）**
 
-JumpServer 是开源的特权访问管理（PAM）平台，即堡垒主机。它为 DevOps 与 IT 团队提供统一工作区，安全接入 SSH、RDP、Kubernetes、数据库、网站、RemoteApp、VirtualApp 等资产。采用多组件架构：JumpServer 核心平台、Lina Web 界面、Luna Web 终端与原生客户端、KoKo 协议连接代理、Chen 数据库连接器、Kael AI 组件；另有企业版组件（Windows 应用连接器、RDP/数据库/VNC 协议代理、会话录像转码等）。支持 11 种语言界面，通过一键脚本在 64 位 Linux 服务器上部署，默认管理员账号 admin。
+开源特权访问管理（PAM）平台，即堡垒主机，为 SSH、RDP、Kubernetes、数据库、网站、RemoteApp、VirtualApp 等资产提供统一的安全访问入口。由多组件构成：Lina Web 界面、Luna Web 终端与原生客户端、KoKo 协议连接器与代理、Chen 数据库连接器、Kael AI 组件；企业版另含 Windows 应用连接器、RDP/数据库/VNC 协议代理与会话录制转码等。提供一键安装脚本，要求 64 位 Linux、4 核 CPU、8 GB 内存。
 
 ## 筛选速览
 
@@ -26,26 +26,26 @@ JumpServer 是开源的特权访问管理（PAM）平台，即堡垒主机。它
 
 ## 能力要点
 
-- 统一接入 SSH、RDP、Kubernetes、数据库、网站、RemoteApp、VirtualApp 等多种协议与资产
-- 内置 AI 能力：终端 AI 提示与 AI 助手（Kael 组件）
-- KoKo TUI 终端支持资产搜索与多会话管理
-- 组件化架构，社区版与企业版组件分层
+- 统一入口访问 SSH、RDP、Kubernetes、数据库、网站、RemoteApp、VirtualApp
+- Kael 为其 AI 组件，界面含终端 AI 提示与 AI 助手
+- 多组件架构：Lina/Luna/KoKo/Chen/Kael 等核心项目
+- 多语言 README 与社区（Discord）渠道
 
 ## 适用场景
 
-- 为企业服务器与数据库的特权访问做集中审计与管控
-- 运维团队通过 Web 终端/原生客户端统一管理大量资产
-- 替代手工分发凭据，按授权分配可访问目标
+- 为运维团队集中管理与审计对服务器和数据库的特权访问
+- 统一接入 Kubernetes 与远程桌面等异构资产
+- 搭建堡垒机并录制会话
 
 ## 场景标签
 
- · 领域:网络安全/运维工具
+ · 领域:网络安全/IT运维
 
 ## 证据(README 行号)
 
 > L17: JumpServer is an open-source Privileged Access Management (PAM) platform with AI-powered capabilities. It gives Dev
-> L83:  JumpServer AI component
-> L142: Copyright (c) 2014-2026 FIT2CLOUD, All rights reserved.
+> L59: JumpServer groups its components by role. Core projects provide the platform, web interface, terminal, protocol con
+> L87:  Kael
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `935261dffc73` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `81d5ce4c635b` · [字段定义](../../DATASET.md)*

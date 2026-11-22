@@ -2,9 +2,9 @@
 
 ⭐ 42,480 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
 
-**自动去除语言模型审查（abliteration）的命令行工具**
+**在消费级硬件上免训练修改 LLM 行为的工具**
 
-Heretic 是一个对 transformer 语言模型执行去审查（移除安全对齐）的工具，采用方向消融（abliteration）实现，并用 Optuna 的 TPE 参数优化器自动搜索消融参数，目标为同时最小化拒答数与与原模型的 KL 散度。支持多数稠密模型、部分多模态、MoE 及混合架构，纯状态空间模型暂不支持。通过 pip 安装后以命令行运行，提供内置评估、量化（bitsandbytes）、保存、上传 Hugging Face 与聊天测试等功能。
+Heretic 对用户可在本地硬件上运行的 LLM 做免训练行为修改：默认移除拒答/审查，另可通过配置文件减少 slop、谄媚、幽默、缩短回复长度等。机制是可插拔 modifier（默认 ARA，另有 abliteration）配合基于 Optuna 的 TPE 超参优化器，按 scorer（拒答率、KL 散度等）优化，支持自定义 scorer/modifier 插件。处理前自动测硬件定 batch size，处理后可保存、上传 Hugging Face、测试或跑基准；支持生成复现清单（Grimoire）。支持多数 dense、多模态、MoE 与混合架构模型。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@ Heretic 是一个对 transformer 语言模型执行去审查（移除安全对�
 
 ## 能力要点
 
-- 方向消融 + TPE 自动参数优化，无需手动调参与 transformer 内部知识
-- 同时最小化拒答数与 KL 散度以保留原模型能力
-- 运行前自动基准测试系统以确定最优 batch size
-- 支持 bitsandbytes 量化以降低 VRAM 占用，完成后可上传 Hugging Face
+- 免训练修改模型行为：默认移除拒答/审查，另有 noslop/nosyco 等配置
+- 可插拔 scorer 与 modifier 插件（ARA、abliteration），Optuna TPE 优化
+- 复现清单机制：reproduce.json 可字节级重建模型，Grimoire 清单库可本地收集
+- 支持 4-bit 量化处理以降低 VRAM 需求
 
 ## 适用场景
 
-- 对已发布的开源模型自动生成去审查版本
-- 复现/评估消融模型的拒答率与 KL 散度指标
-- 在不了解 transformer 内部机制的情况下批量处理模型
+- 在自己显卡上对开源模型做拒答抑制并上传 Hugging Face
+- 按配置调整模型的谄媚、幽默、回复长度等行为
+- 用 reproduce.json 在匹配环境中复现他人发布的修改模型
 
 ## 场景标签
 
@@ -43,9 +43,9 @@ Heretic 是一个对 transformer 语言模型执行去审查（移除安全对�
 
 ## 证据(README 行号)
 
-> L7: Heretic is a tool that removes censorship (aka "safety alignment") from
-> L13: with a TPE-based parameter optimizer powered by Optuna.
-> L89: pip install -U heretic-llm
+> L28: language models. It does not perform expensive training; rather, it uses
+> L133: Heretic combines a pluggable modifier (interface in
+> L26: Heretic is a unique tool that lets you do what only corporations with access
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `59a085290697` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `776e5a7f225e` · [字段定义](../../DATASET.md)*

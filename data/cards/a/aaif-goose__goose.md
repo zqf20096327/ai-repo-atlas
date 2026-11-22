@@ -2,9 +2,9 @@
 
 ⭐ 56,853 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/aaif-goose/goose) · [官网](https://goose-docs.ai/) · 组织维护
 
-**本地运行的通用开源 AI agent：桌面应用、CLI 与 API 三形态**
+**可扩展的通用 AI agent：桌面/CLI 安装、执行、编辑与测试**
 
-goose 是运行在用户本机的通用 AI agent，用途不限于代码，也覆盖研究、写作、自动化与数据分析。提供 macOS/Linux/Windows 桌面应用、完整 CLI 与嵌入用 API，以 Rust 构建并开源（Apache-2.0）。接入 15+ 模型提供商，支持 API key 或经 ACP 使用已有的 Claude/ChatGPT/Gemini 订阅；通过 MCP 开放标准连接 70+ 扩展，并支持自定义发行版（预配置 provider、扩展与品牌）。项目隶属 Linux Foundation 下的 Agentic AI Foundation。
+goose 是一个用 oi-kit 构建的通用 agent，覆盖编码、研究、写作、自动化与数据分析，提供 macOS/Linux/Windows 桌面应用与 CLI 两种形态，通过 MCP 连接工具与数据。支持直接进程内加载本地模型，或连接超过 85 家模型服务商。第三方应用可通过 ACP 协议将 goose 二进制作为 agent 后端以子进程方式运行。仓库同时提供 oi-kit 的 Rust 组件库及 Python/Kotlin 绑定，oi-kit 目前处于 alpha 阶段。goose 隶属 Linux 基金会旗下的 Agentic AI Foundation。
 
 ## 筛选速览
 
@@ -13,10 +13,10 @@ goose 是运行在用户本机的通用 AI agent，用途不限于代码，也�
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -27,26 +27,26 @@ goose 是运行在用户本机的通用 AI agent，用途不限于代码，也�
 
 ## 能力要点
 
-- 桌面应用、CLI、API 三种交付形态，Rust 构建
-- 支持 15+ 模型提供商，可经 ACP 复用已有订阅
-- 通过 MCP 标准连接 70+ 扩展
-- 支持构建自定义发行版（Custom Distributions）
+- 桌面应用与 CLI 双形态，支持 macOS/Linux/Windows
+- 支持进程内加载本地模型，无需独立推理服务器
+- 可连接超过 85 家模型服务商（含 Anthropic、OpenAI、Gemini 等）
+- 通过 ACP 协议作为其他应用的 agent 后端
 
 ## 适用场景
 
-- 在本地终端用自然语言执行安装、编辑、测试等开发任务
-- 接入自有模型 API key 做自动化工作流
-- 用桌面应用进行研究、写作、数据分析等日常任务
+- 在终端或桌面端让 agent 自动执行编码、测试任务
+- 通过 MCP 为 agent 接入自定义工具与数据源
+- 将 goose 作为自有应用的 agent 后端
+- 用 oi-kit 组件构建自己的 agent 应用
 
 ## 场景标签
 
-`AI 助手` `编码 Agent` · 领域:编码与开发
+`编码 Agent` `AI 助手` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L16: goose is a general-purpose AI agent that runs on your machine. Not just for code — use it for research, writing, au
-> L20: goose works with 15+ providers — Anthropic, OpenAI, Google, Ollama, OpenRouter, Azure, Bedrock, and more. Use API k
-> L18: A native desktop app for macOS, Linux, and Windows. A full CLI for terminal workflows. An API to embed it anywhere.
+> L16: oi-kit provides the reusable Rust components for building agents. goose is a complete agent built with oi-kit: use 
+> L38: goose is a general-purpose agent for coding, research, writing, automation, and data analysis. Use the native deskt
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6b7d0e19fd92` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7591c76d3eb7` · [字段定义](../../DATASET.md)*

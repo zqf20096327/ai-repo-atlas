@@ -2,15 +2,15 @@
 
 ⭐ 71,943 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/blader/humanizer) · [官网](https://skills.sh/blader/humanizer) · 个人维护
 
-**面向 agent 用户的 AI 痕迹改写技能：按 Wikipedia 标准去除 AI 写作特征**
+**为 agent 用户改写去除 AI 写作痕迹的技能**
 
-以 skill 形式运行的文本改写工具：基于 Wikipedia「Signs of AI writing」归纳的 26 种 AI 写作模式（分六类，含弱特征需共现才判定），逐条标注后重写，输出初稿、对残留人工痕迹的批评与终稿。可通过写作样本做声音匹配，改写文件时只改散文内容，保留代码、数据、frontmatter 与链接。要求事实细节必须来自原文或作者，缺失时询问而非编造。支持 Claude Code 插件、Codex、Claude.ai/Desktop 及 Skills CLI 覆盖的其他 agent。明确不以免过 AI 检测器为目标。
+以 Wikipedia《Signs of AI writing》为依据的 agent skill：按 26 类 AI 写作模式（如 Not X but Y、强行三段式、装饰性加粗）检测并改写文本，保留原文全部事实主张，支持通过写作样本匹配个人文风。安装后以 /humanizer 命令调用，可处理粘贴文本或指定文件（只改散文、不动代码与数据）。明确说明目标读者是人，不试图绕过 AI 检测器。支持 Claude Code 插件、Codex、pi 等多种 agent 安装方式。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,17 +26,16 @@
 
 ## 能力要点
 
-- 基于 Wikipedia「Signs of AI writing」的 26 种 AI 写作模式检测与改写
-- 提供写作样本可做声音匹配（节奏、用词、标点）
-- 改写文件时仅改散文，保留代码、数据、frontmatter、链接
-- 事实细节不编造，缺失时向作者询问
+- 基于 Wikipedia 编辑者使用的 26 类 AI 写作特征模式检测并改写
+- 支持写作样本做个人文风匹配（节奏、用词、标点）
+- 支持 Claude Code / Codex / Gemini CLI 等多 agent 安装
+- 可处理文件，仅编辑散文、保留代码与数据
 
 ## 适用场景
 
-- 把 AI 起草的公告、博客改得更像人写的
-- 在 Claude Code/Codex 等工具中以 /humanizer 直接调用
-- 按自己的写作风格样本定制改写口吻
-- 清理文档中的 AI 套话与格式化痕迹
+- 把 AI 起草的公告或博客改写得更像人写的
+- 统一自己文章的语气，去除 AI 腔
+- 批量清理项目文档中的 AI 写作模式
 
 ## 场景标签
 
@@ -45,8 +44,7 @@
 ## 证据(README 行号)
 
 > L7: Humanizer makes AI-written text sound like a person wrote it, without changing what it says. It is built on Wikipedi
-> L29: Humanizer checks for 26 patterns in all.
-> L104: Humanizer marks every tell it finds, strongest first. It drafts a rewrite without treating the original structure 
+> L114: Humanizer marks every tell it finds, strongest first. It drafts a rewrite, merging, splitting, or reordering sente
 
 ## 星数曲线
 
@@ -62,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `276617d2c31e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5ca5e01a9efb` · [字段定义](../../DATASET.md)*

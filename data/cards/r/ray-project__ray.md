@@ -2,15 +2,15 @@
 
 ⭐ 44,354 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ray-project/ray) · [官网](https://ray.io) · 组织维护
 
-**分布式 AI 计算引擎：把 ML 工作负载从笔记本扩展到集群**
+**ML 工作负载的分布式计算引擎与 AI 库集**
 
-Ray 提供一个核心分布式运行时和一组 AI 库，用于扩展 AI 与 Python 应用。AI 库包括 Data（可扩展数据集）、Train（分布式训练）、Tune（超参数调优）、RLlib（强化学习）、Serve（服务化）；Ray Core 提供 Tasks、Actors、Objects 三种抽象。支持在任意机器、集群、云提供商与 Kubernetes 上运行，并有社区集成生态。通过 pip 安装，提供 Dashboard 监控与分布式调试器。
+Ray 提供核心分布式运行时（Tasks/Actors/Objects 三类抽象）与一组 AI 库，覆盖数据集处理、分布式训练、超参数调优、强化学习和服务部署。同一份 Python 代码可从笔记本扩展到集群，支持任意云提供商与 Kubernetes 运行，并配套 Dashboard 监控与分布式调试器。以 pip 包安装，维护方为 Anyscale 支持的开源团队，附架构白皮书与多篇论文。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,27 +26,26 @@ Ray 提供一个核心分布式运行时和一组 AI 库，用于扩展 AI 与 P
 
 ## 能力要点
 
-- 核心分布式运行时（Tasks/Actors/Objects）与 5 个 AI 库（Data/Train/Tune/RLlib/Serve）
-- 同一代码可在笔记本与集群间扩展
-- 运行于任意机器、集群、云提供商与 Kubernetes
+- 核心分布式运行时提供 Tasks/Actors/Objects 抽象
+- AI 库覆盖 Data/Train/Tune/RLlib/Serve 五个方向
+- 同一代码从笔记本无缝扩展到集群与 Kubernetes
 - 提供 Ray Dashboard 监控与 Distributed Debugger 调试
 
 ## 适用场景
 
-- 将单机 Python ML 代码扩展到多机集群运行
-- 分布式训练与超参数调优
-- 部署可扩展的模型推理服务
-- 强化学习工作负载的规模化训练
+- 将单机训练/推理代码扩展到多机集群
+- 做大规模超参数搜索与强化学习实验
+- 部署可编程的模型服务
+- 在 Kubernetes 或多家云上运行 ML 工作负载
 
 ## 场景标签
 
-`强化学习` `推理引擎` `模型训练` · 领域:训练与推理
+`强化学习` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L18: Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a
-> L47: Install Ray with: ``pip install ray``. For nightly wheels, see the
-> L44: Ray runs on any machine, cluster, cloud provider, and Kubernetes, and features a growing
+> L1: Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a 
+> L34: With Ray, you can seamlessly scale the same code from a laptop to a cluster. Ray is designed to be general-purpose,
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `61a2ca83f9c9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8bb518915bbe` · [字段定义](../../DATASET.md)*

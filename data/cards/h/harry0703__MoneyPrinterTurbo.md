@@ -2,15 +2,15 @@
 
 ⭐ 144,971 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/harry0703/MoneyPrinterTurbo) · 个人维护 · 中文 README
 
-**给内容创作者：按主题一键生成配音字幕齐全的高清短视频**
+**给内容创作者：从主题一键生成脚本配音字幕的高清短视频**
 
-以主题或关键词为输入的自动化短视频生成流水线：依次完成脚本生成、素材匹配（本地/库存/AI 文生视频）、配音（Edge TTS 等多种服务）、字幕生成（edge/whisper 两种模式）、背景音乐合成与成片剪辑，支持 9:16/16:9/1:1 三种画幅及批量生成。提供 AI Agent、WebUI、API 和 CLI 四种使用方式，可一键上传至 TikTok、Instagram、YouTube Shorts。脚本生成依赖外部大模型 API Key，GPU 非必需。
+一站式 AI 短视频生成工具：输入主题或关键词后自动完成脚本撰写、素材匹配、配音、字幕、背景音乐与成片合成，支持 9:16/16:9/1:1 三种画幅及批量生成。提供 WebUI、API、CLI 和 AI Agent 四种使用方式，模型服务、TTS 与素材源均通过填写对应 API Key 配置。脚本可由云端大模型生成或用户自定义，素材支持本地上传与 Pexels 等库存源，生成后可自动发布到 TikTok、Instagram、YouTube Shorts。GPU 非必需。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,26 +27,26 @@
 
 ## 能力要点
 
-- 提供 AI Agent、WebUI、API 和 CLI 四种使用方式
-- 支持 Kimi、OpenAI、Claude、Gemini、DeepSeek、通义千问等多种模型服务及统一网关
-- 集成 Edge TTS（免费无 Key）等十余种配音服务与 faster-whisper 本地转写
-- 支持跨平台自动发布至 TikTok、Instagram、YouTube Shorts
+- 主题到成片全流程自动化：脚本、配音、素材、字幕、配乐、剪辑
+- 四种使用方式：WebUI、API、CLI、AI Agent
+- 集成 Edge TTS（免费无需 Key）等十余种配音服务，支持声音克隆
+- 生成完成可一键自动发布至 TikTok、Instagram、YouTube Shorts
 
 ## 适用场景
 
-- 输入一个主题批量产出带货或科普短视频
-- 用 CLI 批处理清单顺序生成多条视频任务
-- 通过 API 把视频生成接入自己的自动化工作流
+- 输入一个主题快速批量产出短视频
+- 自媒体账号的自动化内容生产与跨平台发布
+- 不写代码通过 WebUI 配置 API Key 生成视频
 
 ## 场景标签
 
-`视频生成` `语音合成` · 领域:内容生成
+`视频生成` `语音合成` `AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L5: 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。
-> L118: - [x] 提供 **AI Agent、WebUI、API 和 CLI** 四种使用方式，既能快速上手，也能接入自动化流程
-> L125: - [x] 支持 Kimi / Moonshot AI、OpenAI、Anthropic Claude、Google Gemini、DeepSeek、阿里云通义千问、Microsoft Azure OpenAI、火山引擎方舟、x
+> L157: - [x] 提供 **AI Agent、WebUI、API 和 CLI** 四种使用方式，既能快速上手，也能接入自动化流程
+> L165: - [x] 支持 Kimi / Moonshot AI、OpenAI、Anthropic Claude、Google Gemini、DeepSeek、阿里云通义千问、Microsoft Azure OpenAI、火山引擎方舟、x
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3be95074f7e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bd4edb94b48e` · [字段定义](../../DATASET.md)*

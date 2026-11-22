@@ -1,10 +1,10 @@
 # xtekky/gpt4free
 
-⭐ 67,096 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/xtekky/gpt4free) · [官网](https://t.me/g4f_channel) · 个人维护
+⭐ 67,096 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/xtekky/gpt4free) · [官网](https://t.me/g4f_channel) · 组织维护
 
-**聚合多家 LLM 提供商的接入层：统一 API、GUI 与客户端**
+**为开发者聚合多供应商 LLM 访问的客户端与 API 项目**
 
-社区项目 g4f 聚合多个可访问的模型提供商（OpenAI 兼容端点、Gemini、MetaAI、Pollinations 媒体生成及本地推理后端），对外提供 OpenAI 兼容的 FastAPI Interference API、可选本地 Web GUI、Python/JS 客户端、CLI，以及供 AI 助手调用的 MCP 服务器（web 搜索、抓取、图像生成工具）。支持 Docker 全量与 slim 镜像部署（x86_64/arm64），部分提供商需要 Chrome/Chromium、API key 或 cookies/HAR 文件，遵循 GPL v3 许可。
+GPT4Free 是一个社区驱动的多供应商聚合项目：将多个可访问的 LLM 与媒体生成供应商整合为统一接口，提供 Python 同步/异步客户端、浏览器 JS 客户端、可选本地 Web GUI，以及基于 FastAPI 的 OpenAI 兼容 REST API。另内置 MCP 服务器向 Claude 等 AI 助手暴露网页搜索、抓取与图像生成工具。安装支持 PyPI、Docker（full/slim/沙箱桌面镜像）与源码；部分供应商适配需 Chrome/Chromium 浏览器自动化，模型可用性取决于供应商能力。许可证为 GPL v3。
 
 ## 筛选速览
 
@@ -27,27 +27,27 @@
 
 ## 能力要点
 
-- 多提供商适配器：LLM、媒体生成与本地推理后端
-- FastAPI 实现的 OpenAI 兼容 Interference API 与可选 Web GUI
-- Python 同步/异步客户端与浏览器 JS 客户端
-- MCP 服务器（stdio/HTTP 模式）提供 web_search/web_scrape/image_generation 工具
+- OpenAI 兼容 REST API（FastAPI）与 Python 同步/异步客户端
+- 浏览器 JS 客户端 g4f.dev 分发，无需后端
+- 内置 MCP 服务器（stdio/HTTP 模式），提供 web_search/web_scrape/image_generation 等工具
+- Docker full/slim 镜像及含 100+ AI 工具菜单的沙箱桌面镜像
 
 ## 适用场景
 
-- 用统一接口调用多个 LLM 与媒体生成提供商
-- 为现有 OpenAI 兼容工作流提供统一入口端点
-- 让 Claude 等 AI 助手通过 MCP 获得网页搜索与图像生成能力
-- 在 Docker 中自托管 API 与 GUI 并做提供商登录管理
+- 通过统一 Python 客户端调用多个 LLM 供应商
+- 部署 OpenAI 兼容 API 供自有应用接入
+- 为 Claude Desktop 挂载 MCP 工具做网页搜索与图像生成
+- 本地 Web GUI 进行聊天与媒体生成
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`聊天机器人` `图像生成` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L17: GPT4Free (g4f) is a community-driven project that aggregates multiple accessible providers and interfaces to make w
-> L27: - FastAPI-based OpenAI-compatible API (Interference API).
-> L296: ## Inference API (OpenAI‑compatible)
+> L27: - FastAPI-based OpenAI-compatible API (Inference API).
+> L229: GPT4Free now includes a Model Context Protocol (MCP) server that allows AI assistants like Claude to access web se
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `e61f21748cbc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `013c437b0ee4` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 52,505 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dbeaver/dbeaver) · [官网](https://dbeaver.io) · 组织维护
 
-**给开发者和管理员的多平台通用数据库工具与 SQL 客户端**
+**面向开发者/DBA 的通用数据库工具与 SQL 客户端**
 
-基于 Java/Eclipse RCP 的桌面数据库管理工具，采用 OSGI 插件架构（社区版 130+ 插件），开箱支持 100+ 数据库驱动，任何有 JDBC/ODBC 驱动的数据库均可连接。功能覆盖 schema/SQL/数据编辑、ER 图、数据导入导出迁移、执行计划、SSH 隧道等。AI 集成方面提供类 LLM 聊天视图，可将数据库结构、SQL 方言等上下文提供给模型以生成/分析/优化 SQL；社区版接入 OpenAI 与 Copilot，Pro 版额外支持 Anthropic/Grok/Azure/Bedrock/Gemini/Ollama。运行需 Java（发行包内置 OpenJDK 25），另有商业化 PRO 版本。
+基于 Java/Eclipse RCP 的多平台数据库管理工具，提供 schema 编辑器、SQL 编辑器、数据编辑、ER 图、数据导出/导入/迁移、执行计划、仪表盘、空间数据查看器、SSH 隧道等功能，开箱支持 350+ JDBC/ODBC 驱动，社区版含 130+ 插件。内嵌 AI Chat 视图，可生成/分析/优化 SQL，通过上下文向 LLM 提供库结构与 SQL 方言信息；社区版 AI 接入 OpenAI（可自定义端点）与 Copilot，商业版增加更多 AI 工具与其他 LLM 提供商。
 
 ## 筛选速览
 
@@ -27,27 +27,28 @@
 
 ## 能力要点
 
-- 开箱支持 100+ 数据库驱动，兼容任意 JDBC/ODBC 数据库
-- AI Chat 视图：生成/分析/优化 SQL，注入数据库结构与方言上下文
-- OSGI 插件架构，社区版含 130+ 插件
-- 提供 GitHub Releases 预编译二进制与每日 Early Access 版本
+- 开箱支持 350+ 数据库驱动，兼容任何 JDBC/ODBC 驱动的数据库
+- 内置 AI Chat：生成/分析/优化 SQL，动态注入库结构与方言上下文
+- schema/SQL/数据编辑器、ER 图、数据迁移、仪表盘、SSH 隧道等
+- OSGI 插件架构，社区版 130+ 插件，另提供 CloudBeaver 与 dbvr
 
 ## 适用场景
 
-- 用一个客户端连接和管理多种数据库
-- 借助 AI 聊天在不熟悉 SQL 的情况下查询和维护数据库
-- 跨数据库做数据导入导出与迁移
-- 通过 ER 图查看和编辑数据库结构
+- 用一个客户端统一管理 MySQL/PostgreSQL/Oracle/ClickHouse 等多种数据库
+- 在 SQL 编辑器里让 AI 帮我生成、分析和优化查询
+- 跨库做数据导出、导入与迁移
+- 查看执行计划和仪表盘做数据库运维
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L8: Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
-> L64: - All DBeaver products contain AI Chat view similar to classic LLM chats.
-> L71: - Pro versions provide additional AI tools + native support of Anthropic/Grok/Azure/Bedrock/Gemini/Ollama providers
+> L10: * Has a lot of features including schema editor, SQL editor, data editor, AI chat, ER diagrams, data export/import/
+> L69: - All DBeaver products contain AI Chat view similar to classic LLM chats.
+> L73: - AI providers in Community version:
 
 ## 星数曲线
 
@@ -63,4 +64,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a7a40101fcd9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a4ec3663f8a8` · [字段定义](../../DATASET.md)*

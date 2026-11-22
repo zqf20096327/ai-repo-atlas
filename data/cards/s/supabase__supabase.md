@@ -1,16 +1,16 @@
 # supabase/supabase
 
-⭐ 115,231 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/supabase/supabase) · [官网](https://supabase.com) · 组织维护
+⭐ 115,231 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/supabase/supabase) · [官网](https://supabase.com) · 组织维护 · 中文 README
 
-**给 Web/移动/AI 应用开发者提供 Postgres 后端开发平台**
+**给开发者提供托管/自托管 Postgres 的开发平台**
 
-基于 Postgres 的开发平台，将数据库、认证授权、自动生成 API、实时订阅、函数、文件存储与向量嵌入工具集组合为一体化后端。架构由 PostgREST、GoTrue、Realtime、Storage、pg_graphql 等开源组件构成。提供托管平台（注册即用）与自托管/本地开发两种方式；官方客户端库覆盖 JavaScript、Flutter、Swift、Python、Kotlin 等，并有 C#、Go、Java、Ruby、Rust、Godot 等社区库。README 未列出安装命令与硬件要求。
+以 Postgres 为核心的开发平台，整合 Realtime（websocket 订阅数据库变更）、PostgREST（自动生成 REST API）、pg_graphql（GraphQL API）、GoTrue（JWT 认证）、Storage（文件存储）、Edge Functions 等开源组件，并提供仪表盘。平台以托管方式使用无需安装，也可自托管和本地开发。提供多语言客户端库（JS/TS、Flutter、Swift、Python、C#、Go、Java、Kotlin、Ruby、Rust、GDScript），含 AI 向量/嵌入工具包（pgvector）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -25,27 +25,25 @@
 
 ## 能力要点
 
-- 托管 Postgres 数据库与认证授权、REST/GraphQL 自动生成 API
-- Realtime 通过 websocket 广播数据库变更（基于 Elixir 服务器）
-- AI + Vector/Embeddings Toolkit 与 pg_graphql 扩展
-- 多语言官方客户端库（JS/Flutter/Swift/Python/Kotlin 等）
+- 托管或自托管的 Postgres 数据库与自动生成 REST/GraphQL API
+- Realtime 组件通过 websocket 广播数据库插入/更新/删除
+- 基于 JWT 的 GoTrue 认证与会话管理
+- AI + 向量/嵌入工具包（pgvector）与文件存储
 
 ## 适用场景
 
-- 为 Web 或移动应用搭建带认证与实时功能的 Postgres 后端
-- 为 AI 应用存储和检索向量嵌入
-- 自托管一套开源的 Firebase 类后端服务
-- 用 Edge Functions 编写服务端逻辑
+- 为 Web 和移动应用提供数据库、认证与 API 后端
+- 自托管一套 Firebase 式后端开发环境
+- 在 Postgres 中结合 pgvector 构建向量/嵌入应用
 
 ## 场景标签
 
-`向量数据库` · 领域:知识与检索
+ · 领域:后端开发平台/数据库
 
 ## 证据(README 行号)
 
 > L3: Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open s
 > L15: - [x] AI + Vector/Embeddings Toolkit. Docs
-> L43: Supabase is a hosted platform. You can sign up and start using Supabase without installing anything.
 
 ## 星数曲线
 
@@ -61,4 +59,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `73a471ddb228` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d22825d94dec` · [字段定义](../../DATASET.md)*

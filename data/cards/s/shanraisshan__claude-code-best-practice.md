@@ -2,9 +2,9 @@
 
 ⭐ 69,290 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
 
-**Claude Code 最佳实践与工作流策展仓库（含命令/技能/子代理参考）**
+**为 Claude Code 用户整理的用法概念与工作流实践清单**
 
-面向 Claude Code 使用者的知识策展仓库：汇总 Subagents、Commands、Skills、Hooks、MCP Servers、Memory 等功能机制的参考实现与官方文档链接，演示 Command→Agent→Skill 的编排工作流，并按星标整理 10 余个社区开发工作流方法论、跨模型（Codex/Gemini/DeepSeek/本地模型）协作的三种机制（Plugin/MCP/Router）、技能与子代理集合清单，以及 83 条来自 Boris Cherny 等使用者的提示技巧。内容以链接与表格索引为主，仓库本身不提供可安装的软件。
+该仓库汇编 Claude Code 的功能概念索引（Subagents、Commands、Skills、Hooks、MCP、Memory、Checkpointing 等条目及对应文件位置）、编排工作流（Command → Agent → Skill 模式）、十余个开发工作流方法论清单、跨模型协作机制（Plugin/MCP/Router 三类桥接方式）以及 84 条提示与技巧。面向使用 Claude Code 的开发者，内容以表格与外链形式组织，持续随版本更新；本仓库本身为文档汇编，不含可安装的运行代码。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,26 +26,26 @@
 
 ## 能力要点
 
-- Claude Code 各功能机制（Agents/Commands/Skills/Hooks/MCP 等）的参考实现索引
-- Command→Agent→Skill 编排工作流演示（weather-orchestrator）
-- 跨模型工作流机制整理：Plugin / MCP / Router 三种途径
-- 83 条提示技巧与 10+ 社区开发工作流方法论清单
+- Claude Code 各功能概念到配置文件位置的索引表
+- Command → Agent → Skill 编排工作流的实现说明
+- 跨模型协作的 Plugin/MCP/Router 三类机制及第三方桥接项目清单
+- 84 条按主题分类的实践技巧（含来源标注）
 
 ## 适用场景
 
-- 系统学习 Claude Code 的功能配置与最佳实践
-- 为团队挑选 agent 开发工作流方法论（如 TDD、spec 驱动流程）
-- 查找 Claude Code 的技能集合、子代理定义与跨模型协作方案
+- 查阅 Claude Code 某功能应放在哪个配置文件
+- 为团队挑选一套开发工作流方法论
+- 让 Claude Code 配合其他模型协作开发
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`编码 Agent` `教程课程` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L22: |Feature|Location|Description|
-> L100: |Name|★|Workflow||||
-> L176: ## 💡 TIPS AND TRICKS (83)
+> L20: ## 🧠 CONCEPTS
+> L81: ## Orchestration Workflow
+> L131: Use Claude Code together with other models — Codex, Gemini, GPT, Kimi, DeepSeek, local — via three mechanisms:
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4d4d95d48cfe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a818e426f670` · [字段定义](../../DATASET.md)*

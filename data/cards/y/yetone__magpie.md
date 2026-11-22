@@ -2,9 +2,9 @@
 
 ⭐ 39,767 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
 
-**给多 AI agent 统一切换模型与账号的本地网关**
+**统一管理多个 AI Agent 模型与账号的本地网关**
 
-面向同时使用多个编码 agent（Claude Code、Codex、Gemini CLI 等 70 余种）的用户：在菜单栏/CLI/Web UI 中为任一 agent 指定任一提供商或订阅的模型，通过本机 127.0.0.1:3425 网关在 OpenAI/Anthropic/Gemini 协议间转换。支持订阅账号复用、配额耗尽自动切换（smart/order/rotate 等路由组）、用量成本统计、Bun 插件与中间件、局域网共享与 Docker 部署。运行于 macOS/Windows/Linux，mac 构建已签名公证。
+magpie 将各 Agent（Claude Code、Codex、Gemini CLI 等 90 余个）各自独立的模型配置、密钥与订阅账号整合到一个应用和一个本地网关（127.0.0.1:3425）之后：从统一列表为任意 Agent 选取任意模型，支持配额用尽后自动切换到下一账号或路由组内的其他模型/提供商，网关在 OpenAI、Anthropic、Gemini 协议间互译并提供流式与工具调用。还提供本地隐私掩码（默认关闭）、路由组（smart/order/rotate/usage/pace 五种模式）、npm 插件系统与网关中间件。菜单栏应用、TUI、Web UI 与 CLI 形态，支持 macOS/Windows/Linux/Docker/Termux。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 本地网关转换 OpenAI/Anthropic/Gemini 协议，服务 70+ 种 agent
-- 路由组在配额耗尽时自动切换账号/模型
-- 订阅账号（Claude/ChatGPT/Copilot 等）可跨 agent 复用
-- Bun 插件与网关中间件、用量成本与配额统计
+- 本地网关互译 OpenAI/Anthropic/Gemini 协议，含流式、工具调用与 reasoning
+- 配额耗尽自动切换账号，路由组五种模式，会话粘住同一账号以保 prompt 缓存
+- 本地隐私掩码：密钥/密码/邮箱在请求离开本机前替换为占位符
+- npm 插件系统与网关中间件（onRequest/onEvent/onResponse）
 
 ## 适用场景
 
-- 让 Claude Code 用 DeepSeek、Codex 用 Kimi 等自由组合模型
-- 多账号订阅配额耗尽时自动切换不断服务
-- 团队在局域网内共享一个网关并按 key 限额
+- 多个 Agent 共用一份 API key 或订阅账号
+- 主账号配额用完时自动落到备用账号或备用模型
+- 在提示词中遮蔽密钥、密码等敏感值后再发给厂商
 
 ## 场景标签
 
@@ -44,7 +44,8 @@
 ## 证据(README 行号)
 
 > L8: Switch any of them from the menu bar. One local gateway serves them all,
-> L72: The gateway at `127.0.0.1:3425` speaks OpenAI Chat, OpenAI Responses, Anthropic Messages and Gemini, and translates
+> L78: The gateway at `127.0.0.1:3425` speaks OpenAI Chat, OpenAI Responses, Anthropic Messages and Gemini, and translates
+> L113: > **Presets include** Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock (runtime and Mantle) 
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `162b18bc5149` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `052327525f58` · [字段定义](../../DATASET.md)*

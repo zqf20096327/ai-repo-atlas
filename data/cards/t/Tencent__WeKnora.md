@@ -2,9 +2,9 @@
 
 ⭐ 37,953 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Tencent/WeKnora) · [官网](https://weknora.weixin.qq.com) · 组织维护 · 中文 README
 
-**面向企业的开源 LLM 知识平台：文档转 RAG、Agent 与 Wiki**
+**企业知识库 RAG 平台：文档检索问答、推理 agent 与知识 Wiki**
 
-腾讯开源的 LLM 知识框架，围绕同一知识库提供三种模式：RAG（混合检索、多模态解析、引用溯源）、Agent（多步推理、技能沙箱、本地浏览器、MCP 工具与记忆）、Wiki（知识图谱组织与回滚）。支持飞书、Confluence、Notion 等 10 余种数据源自动同步与 10+ 文档格式解析；内置 29 家模型供应商；多工作区 RBAC、任务队列治理与 Langfuse 追踪。可通过 Docker Compose、Kubernetes Helm、Lite 单二进制或桌面应用部署，数据可留在自有环境。
+面向企业的开源 LLM 知识框架，将团队文档整合为可检索、可推理、可持续更新的知识库。提供三种工作模式：带混合检索、多模态解析与引用溯源的 RAG 问答；支持多步推理、技能沙箱、本地浏览器与 MCP 工具的 agent；以及带知识图谱与回滚的 Wiki。数据源支持飞书、Confluence、Notion 等自动同步，30+ 内置模型厂商可配置，多工作区 RBAC 与审计日志，Docker Compose/Kubernetes/单二进制/桌面应用多种部署方式。
 
 ## 筛选速览
 
@@ -26,27 +26,27 @@
 
 ## 能力要点
 
-- RAG、Agent、Wiki 三模式共享同一知识库
-- 技能经 ClawHub/Git/ZIP 安装并在 Docker/E2B/Cube 沙箱运行，支持操作本地 Chrome/Edge
-- 29 家内置模型供应商目录，含 OpenAI、DeepSeek、Ollama 等，模型/向量库/存储后端可替换
-- 飞书、Confluence、GitLab、Notion 等数据源自动同步，10+ 文档格式解析
+- RAG/Agent/Wiki 三种模式共享同一知识库
+- 技能沙箱支持 Docker/E2B/Cube，agent 可经 BrowserSkill 操作本地 Chrome/Edge
+- 30 内置模型厂商目录，LLM、向量库与存储后端均可替换
+- 多工作区 RBAC、审计日志与 Langfuse 追踪
 
 ## 适用场景
 
-- 把团队文档搭建成可引用溯源的企业问答系统
-- 用 Agent 沙箱执行基于知识库的多步任务
-- 将文档组织为带知识图谱的内部 Wiki
-- 通过企业微信、飞书、Slack 等 IM 渠道接入问答
+- 把团队文档变成可引用溯源的问答知识库
+- 让 agent 执行多步知识任务并接入 MCP 工具
+- 将文档自动组织为带知识图谱的 Wiki
+- 在私有环境部署并接入企业 IM 做问答
 
 ## 场景标签
 
-`RAG` `文档问答` `知识图谱` · 领域:知识与检索
+`RAG` `文档问答` `知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L32: WeKnora is an open-source, LLM-powered knowledge framework for enterprise document understanding, semantic retrieva
 > L40:  01 RAG: answers you can check, with hybrid search, multimodal parsing and citations. 02 Agent: tasks done with kno
-> L49: - **Models**: 29 built-in vendors with a generated model catalog, including OpenAI, DeepSeek, Qwen (Alibaba Cloud),
+> L49: - **Models**: 30 built-in vendors with a generated model catalog, including OpenAI, DeepSeek, Qwen (Alibaba Cloud),
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `15d496c87e81` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `03182a3dbc66` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 57,641 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/zylon-ai/private-gpt) · [官网](https://www.zylon.ai/private-gpt) · 组织维护
 
-**把本地模型变成私有 AI 应用的开源 API 层**
+**本地模型的私有 AI 应用 API 层：RAG、工具与 MCP**
 
-以 Claude API 为参照模型的 API 层，为本地模型提供消息、文件摄取、带引用的检索与 agentic RAG、内置工具、MCP、数据库/CSV 访问、嵌入与编排等后端原语。自身不运行模型，通过 OPENAI_API_BASE 连接任意 OpenAI 兼容推理服务器。附内置演示 UI，API 为核心产品。2023 年以离线文档问答脚本起步，后重构为 1.0 API 层，由 Zylon 团队维护。
+开源 API 层，将 OpenAI 兼容推理服务器（Ollama/llama.cpp/vLLM 等）暴露的本地模型封装为应用级 API，遵循 Claude API 规范：提供消息（流式/异步/token 计数）、文件摄取与带引用的检索、内置与自定义工具、MCP 连接器、数据库与 CSV 结构化访问、嵌入与编排。本产品自身不运行模型，需先启动一个实现 /v1/chat/completions 与 /v1/models 的推理服务器。附带 /ui 演示用工作台 UI，开发者在其 API 之上构建自有应用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -26,21 +26,20 @@
 
 ## 能力要点
 
-- 兼容 Claude API 的消息流式、文件摄取、引用检索与工具调用
-- 内置 web search/fetch、代码执行工具与 MCP 连接器
-- 连接任意 OpenAI 兼容推理服务器（Ollama、llama.cpp、vLLM 等）
-- 提供 brew/uv 安装与内置演示 UI
+- 遵循 Claude API 规范的本地模型 API 层（消息/工具/MCP/检索）
+- 文件摄取、带引用的 agentic RAG 与数据库/CSV 内置查询
+- 内置工具：web search、web fetch、代码执行，支持自定义工具与 MCP
+- 附工作台 UI（模型选择/文档上传/API 调试器）用于测试与演示
 
 ## 适用场景
 
-- 在本地推理服务器之上搭建私有 AI 应用后端
-- 为 Claude Code、Claude Desktop 等客户端接入本地模型
-- 企业内网无云依赖的文档问答与检索场景
-- 用 API 层为终端产品封装 RAG、数据库问答等能力
+- 在私有部署环境为本地模型补齐 RAG、工具与文件摄取等应用层能力
+- 把 Claude Desktop/Claude Code/n8n 等工具接到自己的本地模型后端
+- 为不依赖云 API 的私有 AI 产品构建标准化后端 API
 
 ## 场景标签
 
-`RAG` `文档问答` · 领域:知识与检索
+`RAG` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5c5e22cadea3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `13dca467ea86` · [字段定义](../../DATASET.md)*

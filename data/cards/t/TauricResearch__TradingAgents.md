@@ -2,9 +2,9 @@
 
 ⭐ 123,379 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://tauric.ai) · 组织维护
 
-**多智能体 LLM 金融交易研究框架：模拟交易公司角色分工**
+**多智能体 LLM 金融交易研究框架：分析师辩论生成交易决策**
 
-以真实交易公司组织方式组织 LLM 智能体：分析师团队（基本面/情绪/新闻/技术四类）、多空研究员辩论、交易员决策、风控与组合经理审批，最终在模拟交易所执行。支持多 LLM 提供商、CLI 交互与无终端参数化运行、回测、LangGraph checkpoint 续跑、HTML 报告导出。README 明确声明仅供研究用途，不构成投资建议；运行受所选模型、温度、数据质量等因素影响。
+模拟真实交易公司分工的多智能体框架：由基本面、情绪、新闻、技术四类分析师并行产出报告，多空研究员结构化辩论，交易员决定交易时机与规模，风控团队与组合经理在模拟交易所完成最终裁决。设计定位为研究用途，声明不构成投资建议，回测采用 point-in-time 数据一致性约束避免前视偏差。提供 CLI 交互与免提问的 flag 脚本模式、LangGraph 检查点恢复、Docker 运行方式，支持 ChatGPT Plus/Pro 订阅登录运行。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -26,16 +26,17 @@
 
 ## 能力要点
 
-- 分析师/研究员/交易员/风控/组合经理的多智能体协作与辩论机制
-- 多 LLM 提供商：OpenAI、Gemini、Claude、Bedrock、Ollama 及任意 OpenAI 兼容端点
-- 可用 ChatGPT Plus/Pro 订阅计划运行，无需单独 API key
-- CLI 支持 ticker/date 等参数免交互运行与 HTML 单页报告输出
+- 分析师/研究员/交易员/风控的多角色 LLM 智能体协作与辩论
+- 并行分析师与 LangGraph 检查点恢复、持久决策日志
+- 多 provider 接入：API key、ChatGPT 订阅登录、Ollama 本地模型、OpenAI 兼容端点
+- 回测的 point-in-time 数据完整性约束与模拟交易所执行
 
 ## 适用场景
 
-- 对特定股票在指定日期运行多智能体分析并生成报告
-- 用回测网格按 ticker 与日期验证策略表现
-- 通过 Ollama/vLLM 等本地模型端点运行分析流程
+- 对指定股票代码运行多智能体分析并生成交易决策报告
+- 在 ticker/日期网格上做回测研究
+- 用本地 Ollama 或自建 vLLM 端点跑离线研究流程
+- 通过 CLI flag 定时调度无交互分析任务
 
 ## 场景标签
 
@@ -43,9 +44,9 @@
 
 ## 证据(README 行号)
 
-> L51: TradingAgents is a multi-agent trading framework that mirrors the dynamics of real-world trading firms. By deployin
-> L53: > TradingAgents framework is designed for research purposes. Trading performance may vary based on many factors, in
-> L121: TradingAgents supports multiple LLM providers. Set the API key for your chosen provider:
+> L50: TradingAgents is a multi-agent trading framework that mirrors the dynamics of real-world trading firms. By deployin
+> L52: > TradingAgents framework is designed for research purposes. Trading performance may vary based on many factors, in
+> L74: ## Installation and CLI
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3d1cf6b1a659` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `42819fc94665` · [字段定义](../../DATASET.md)*

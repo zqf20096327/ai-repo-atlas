@@ -2,9 +2,9 @@
 
 ⭐ 48,030 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zhayujie/CowAgent) · [官网](https://cowagent.ai) · 个人维护 · 中文 README
 
-**个人 AI 助手框架：任务规划、工具技能、多渠道接入**
+**个人 AI 助手：规划任务、调用工具技能，长期记忆自我进化**
 
-CowAgent 是一个开源自托管个人 AI 助手/Agent Harness 参考实现：消息经 Channels 接入，Agent Core 基于记忆、知识与工具进行任务规划与执行，模型层生成回复。三层记忆架构（上下文→日→长期）加夜间 Deep Dream 蒸馏，自动维护 Markdown 知识库与知识图谱，支持 Skill Hub 一键装技能、MCP 协议接入工具，Web 控制台统一配置。提供一行安装脚本、Docker、桌面客户端，可 24/7 运行于个人电脑或服务器。
+开源个人 AI 助手与 Agent Harness。消息经多渠道（Web、微信、飞书、钉钉、Telegram 等 12+ 渠道）接入，Agent Core 基于三层记忆、个人知识库与工具/技能做任务规划与循环执行，模型层支持多家 LLM 按能力（对话/视觉/语音/嵌入）分路由。提供一键安装脚本、Docker、桌面客户端与 Web 控制台，可用 cow CLI 管理服务、安装技能。技能可从 Skill Hub、GitHub 等来源一键安装或经对话生成；MCP 以 mcp.json 集成，支持 stdio/SSE 与热加载。
 
 ## 筛选速览
 
@@ -26,27 +26,26 @@ CowAgent 是一个开源自托管个人 AI 助手/Agent Harness 参考实现：�
 
 ## 能力要点
 
-- 三层记忆架构（上下文→每日→长期）与 Deep Dream 夜间蒸馏
-- Skill Hub/GitHub/对话式生成技能，原生 MCP 集成（stdio/SSE，热重载）
-- 内置 10+ 工具（文件、终端、浏览器自动化、搜索、调度等）
-- 多渠道并行：Web、微信、飞书、钉钉、Telegram、Slack 等 12 种
+- 任务规划循环执行，支持多 Agent 团队协作
+- 三层记忆架构（context→daily→core）+ Deep Dream 夜间蒸馏
+- 内置文件/终端/浏览器/搜索等 10+ 工具，原生 MCP 集成
+- 聊天/视觉/生图/ASR/TTS/嵌入可分路由到不同厂商模型
 
 ## 适用场景
 
-- 在个人电脑或服务器上长期运行自己的 AI 助手
-- 通过微信/飞书/钉钉等 IM 与助手对话并执行任务
-- 让助手自动整理对话为个人知识库与长期记忆
-- 通过 MCP 与自定义 Skill 扩展助手能力
+- 在微信/飞书/Telegram 等渠道部署 24/7 个人助理
+- 让助手记住我的偏好并持续跟进未完成任务
+- 通过对话创建自定义技能并发布到技能市场
+- 用 Web 控制台一键切换模型服务商
 
 ## 场景标签
 
-`AI 助手` `Agent 记忆` `知识图谱` · 领域:Agent 开发
+`AI 助手` `Agent 记忆` `多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L14: **CowAgent** is an open-source super AI assistant that proactively plans tasks, controls your computer and external
+> L14: **CowAgent** is your own open-source personal AI agent. It plans tasks proactively, uses tools, skills and MCP, and
 > L52: CowAgent is a complete **Agent Harness**: messages flow in through **Channels**; the **Agent Core** plans and reaso
-> L172: **MCP protocol** integrates the open ecosystem of Model Context Protocol servers. A single `mcp.json` is enough — 
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `81940e341e1f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8c749bac697f` · [字段定义](../../DATASET.md)*

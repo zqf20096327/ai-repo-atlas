@@ -2,9 +2,9 @@
 
 ⭐ 31,583 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/oraios/serena) · [官网](https://oraios.github.io/serena) · 组织维护
 
-**面向编码 Agent 的 MCP 工具集：符号级代码检索、编辑与重构**
+**给编码 agent 提供语义级代码检索/编辑工具的 MCP 服务器**
 
-Serena 是一个通过模型上下文协议（MCP）向 AI 编码代理提供语义代码工具的工具包：符号查找、引用查找、重命名、符号体替换、安全删除等检索/编辑/重构能力，以及记忆系统与多层 YAML 配置。语义后端有两种：默认基于 LSP 语言服务器（宣称支持 40+ 语言），或付费的 JetBrains 插件后端（含交互式调试）。本体通过 uv 安装，由终端类、IDE 类、桌面/Web 类 MCP 客户端接入；实际执行工作需依赖客户端侧 LLM。
+Serena 通过 MCP 协议为 AI 编码客户端扩展工具集：基于语言服务器（LSP）或 JetBrains 插件两种后端，提供符号级查找、引用查找、重命名、符号编辑与调试工具，支持 40 余种编程语言，并附带跨会话记忆系统与多层 YAML 配置。README 说明 LLM 负责编排工具调用，Serena 本身不执行生成；主体以 GPL-3.0-or-later 许可，JetBrains 插件后端为付费组件。安装依赖 uv，命令为 uv tool install serena-agent。
 
 ## 筛选速览
 
@@ -26,26 +26,27 @@ Serena 是一个通过模型上下文协议（MCP）向 AI 编码代理提供语
 
 ## 能力要点
 
-- 符号级检索/编辑/重构工具，经 MCP 接入任意客户端
-- 两种语义后端：LSP 语言服务器（默认）或付费 JetBrains 插件
-- 语言服务器后端宣称支持 40+ 编程语言
-- 面向长期 agent 工作流的记忆系统与多层 YAML 配置
+- 基于 LSP 的符号级检索与重构工具，支持 40+ 编程语言
+- 通过 MCP 协议接入 Claude Code、Codex、JetBrains IDE 等客户端
+- JetBrains 插件后端提供移动/内联重构与断点调试能力
+- 跨会话记忆系统与多层可组合的 YAML 配置
 
 ## 适用场景
 
-- 给 Claude Code、Codex 等 MCP 客户端的编码 agent 提供语义化代码工具
-- 在大型代码库中做跨文件重命名、引用查找等重构操作
-- 跨会话共享项目知识的 agent 记忆管理
+- 让编码 agent 在大型代码库中做跨文件重命名与引用查找
+- 为现有 MCP 客户端补充 IDE 级代码理解工具
+- 多语言 monorepo 中的符号级导航与编辑
+- 长期 agent 工作流中跨会话共享项目知识
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L6: * Serena provides essential **semantic code retrieval, editing, refactoring and debugging tools** that are akin to a
-> L8: * It integrates with any client/LLM via the model context protocol (**MCP**).
 > L58: Serena can extend the functionality of your existing AI client via the **model context protocol (MCP)**.
+> L66: To connect the Serena MCP server to your client, you either
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f65fc12ffaa3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1566420cd786` · [字段定义](../../DATASET.md)*

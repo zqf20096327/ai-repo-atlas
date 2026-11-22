@@ -2,9 +2,9 @@
 
 ⭐ 68,091 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jingyaogong/minimind) · [官网](https://jingyaogong.github.io/minimind) · 个人维护 · 中文 README
 
-**从零训练 64M 超小语言模型的开源教程项目**
+**从零训练 64M 小型语言模型的开源教程项目**
 
-从 0 开始完整复现小语言模型训练的开源项目：核心算法用 PyTorch 原生实现，不依赖第三方高层封装，覆盖 MoE、数据清洗、预训练、SFT、LoRA、DPO、PPO/GRPO/CISPO、Tool Use、Agentic RL、自适应思考与模型蒸馏全流程。提供全阶段开源数据集、Streamlit 聊天 WebUI、兼容 OpenAI API 协议的服务端，模型结构对齐 Qwen3 生态，可被 transformers/llama.cpp/vllm/ollama 等框架加载。适合想亲手理解 LLM 训练链路的个人，单张 NVIDIA 3090 上 SFT 1 epoch 实测约 2 小时。
+提供从零训练约 64M 参数语言模型 MiniMind 的完整代码与数据，覆盖分词器训练、预训练、SFT、LoRA、DPO/PPO/GRPO 等 RLHF/RLAIF 阶段及 Tool Use、蒸馏，核心算法以 PyTorch 原生实现。结构对齐 Qwen3 生态，兼容 transformers/trl/peft 与 llama.cpp、vllm、ollama 推理引擎，附带 OpenAI 协议服务端和 Streamlit WebUI。面向希望理解 LLM 内部机制的入门者与个人开发者，README 注明 2 小时指单张 3090 上 SFT 一轮的实测耗时。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 全训练链路代码从 0 用 PyTorch 原生实现，不依赖第三方框架封装
-- 覆盖 Pretrain/SFT/LoRA/DPO/PPO/GRPO/CISPO/Tool Use/Agentic RL/蒸馏全流程
-- 开源全阶段数据集，主线模型结构对齐 Qwen3/Qwen3-MoE 生态
-- 兼容 transformers、llama.cpp、vllm、ollama 及 OpenAI API 协议服务端
+- 覆盖 Pretrain/SFT/LoRA/RLHF-DPO/RLAIF/Tool Use/蒸馏全流程代码
+- 核心算法从 0 用 PyTorch 原生实现，不依赖高层抽象接口
+- 兼容 transformers/trl/peft 及 llama.cpp/vllm/ollama 推理引擎
+- 全阶段开源数据集与断点续训、多卡 DDP/DeepSpeed 训练支持
 
 ## 适用场景
 
-- 从零动手训练并复现一个极小语言模型，理解 LLM 内部机制
-- 在个人 GPU 上跑通预训练、SFT 到强化学习的完整流程
-- 接入 FastGPT、Open-WebUI 等聊天界面做本地推理实验
+- 从零亲手复现一个语言模型的完整训练过程
+- 学习预训练、微调、强化学习各阶段代码实现
+- 在个人 GPU 上低成本训练并部署自己的小模型对话应用
 
 ## 场景标签
 
@@ -45,8 +45,8 @@
 ## 证据(README 行号)
 
 > L16: * 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。
-> L18: * 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agen
-> L20: * 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。
+> L21: * 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。
+> L50: - 覆盖 Pretrain、SFT、LoRA、RLHF-DPO、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等完整训练流程。
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1e4aa4e5511c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b6c64c8ba15c` · [字段定义](../../DATASET.md)*

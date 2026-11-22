@@ -2,9 +2,9 @@
 
 ⭐ 55,601 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/bmad-code-org/BMAD-METHOD) · 组织维护
 
-**面向 AI 编码工具的敏捷 AI 驱动开发方法论与技能集**
+**为开发者提供 AI 驱动的敏捷软件开发方法论与工作流**
 
-BMad Method 是一套 Agile AI 驱动开发（AiDD）方法论：以技能、工作流和多 agent 形式安装到 AI 编码工具中，将想法或变更请求经 Clarify、Plan、Build、Learn 循环转化为可用软件，并强调决策显式化与上下文持续承载。提供稳定版 v6.12（npm 安装器）与 V7 预览 alpha（skills CLI 或 Claude Code/Codex 插件市场）两条路线，均需 uv 与 Python 脚本，V7 需支持 skills 的编码工具且会有破坏性变更。另有测试架构、游戏开发等官方模块生态。
+BMad Method 是一套开源的敏捷 AI 驱动开发（AiDD）方法，覆盖从需求澄清、规划到构建与验证的完整交付循环，通过 agents 和结构化工作流把关键决策显式化并作为上下文延续，避免每个会话重复解释。以 npm 安装器分发到用户的 AI 编码工具中，作为 skills 模块运行；需要 Node.js 20.12+、Python 3.10+ 与 uv。当前稳定版 v6.12，v7 处于 preview alpha，存在破坏性变更。
 
 ## 筛选速览
 
@@ -26,26 +26,26 @@ BMad Method 是一套 Agile AI 驱动开发（AiDD）方法论：以技能、工
 
 ## 能力要点
 
-- 双发布线：稳定版 v6.12（npm 安装）与 V7 预览 alpha（skills CLI/插件市场）
-- Clarify/Plan/Build/Learn 交付循环，流程按变更规模自适应
-- 多 agent 角色分工（产品/架构/UX/开发/测试）与持久化上下文
-- 6 个官方生态模块（Builder、Test Architect、Game Dev Studio 等）
+- 通过 npx 安装 skills 模块到支持的 AI 编码工具
+- 提供 bmad-build、bmad-help、bmad setup 等核心技能与命令
+- 可选模块扩展：Founder 创业顾问、Test Architect、Game Dev Studio 等
+- 按变更规模自适应流程深度：小改动直达构建，复杂工作深度规划
 
 ## 适用场景
 
-- 在 AI 编码工具中用结构化流程把想法落地为软件
-- 给接手的既有代码库建立已验证的上下文
-- 小团队按敏捷方式管理 AI 参与的软件交付
+- 在 AI 编码工具中按敏捷流程管理需求澄清与规划
+- 在既有代码库上建立持久化上下文继续开发
+- 为游戏项目提供跨 Unity/Unreal/Godot 等框架的构建流程
 
 ## 场景标签
 
-`多智能体` `编码 Agent` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L7: **Agile Ai Driven Development — turn an idea or change request into working software without giving up the thinking.
-> L24: npx bmad-method install
-> L56: Open your coding tool in the project and ask the `bmad` skill to run
+> L9: Ai Driven Development (AiDD) covers the whole effort, not only the code: what to build, how it holds together, and h
+> L31: Expect breaking changes between updates. You need an AI coding tool that supports skills.
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `d6444b1e05ae` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6c29fff57dda` · [字段定义](../../DATASET.md)*

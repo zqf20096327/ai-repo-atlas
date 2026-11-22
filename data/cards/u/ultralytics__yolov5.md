@@ -1,19 +1,19 @@
 # ultralytics/yolov5
 
-⭐ 58,290 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/ultralytics/yolov5) · [官网](https://docs.ultralytics.com/yolov5/) · 组织维护
+⭐ 58,290 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/ultralytics/yolov5) · [官网](https://docs.ultralytics.com/yolov5/) · 组织维护 · 中文 README
 
-**基于 PyTorch 的目标检测/实例分割/分类模型及训练导出工具**
+**基于 PyTorch 的目标检测/实例分割/分类模型库**
 
-Ultralytics 发布的 YOLOv5 视觉模型仓库：基于 PyTorch 框架，覆盖目标检测、实例分割与图像分类任务。提供 detect.py 推理脚本、PyTorch Hub 加载、train.py 训练（COCO 复现，n/s/m/l/x 五档模型），并支持导出 TFLite、ONNX、CoreML、TensorRT 等部署格式。安装需 Python>=3.8 与 PyTorch>=1.8，通过克隆仓库安装依赖；预训练权重从 release 自动下载。README 另提示最新任务（姿态估计、OBB）可使用 ultralytics 统一包。
+Ultralytics 的计算机视觉模型实现，支持目标检测、实例分割与图像分类的训练、验证、推理与导出。通过 detect.py 对摄像头、视频等多种来源推理，train.py 复现 COCO 结果，PyTorch Hub 加载预训练权重；export.py 支持 ONNX/TensorRT/CoreML/TFLite 导出，并提供 NVIDIA Jetson 部署教程。n/s/m/l/x 五档预训练权重在 COCO 上训练 300 epochs。安装需 Python>=3.8 与 PyTorch>=1.8；企业许可需另行申请。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,17 +26,17 @@ Ultralytics 发布的 YOLOv5 视觉模型仓库：基于 PyTorch 框架，覆盖
 
 ## 能力要点
 
-- 目标检测、实例分割、图像分类三类任务的训练与推理
-- 导出 TFLite/ONNX/CoreML/TensorRT 部署格式
-- n/s/m/l/x 五档 COCO 预训练权重自动下载
-- 多 GPU DDP 训练、TTA、模型剪枝与超参数演化教程
+- 提供 n/s/m/l/x 及 6/1280-pixel 预训练权重，mAP 与速度指标公开可复现
+- v7.0 引入实例分割模型（segment/train.py、segment/val.py）
+- export.py 导出 ONNX FP32、TensorRT FP16 等部署格式
+- 集成 ClearML、Comet、W&B、Roboflow、Intel OpenVINO 等平台
 
 ## 适用场景
 
 - 在自己的数据集上训练目标检测模型
-- 将检测/分割模型导出为 ONNX/TensorRT 部署到边缘设备（如 NVIDIA Jetson）
-- 通过 PyTorch Hub 快速加载预训练模型做推理
-- 复现 COCO 基准结果
+- 用摄像头或视频流做实时检测推理
+- 将模型导出为 ONNX/TensorRT 部署到 Jetson 等设备
+- 训练实例分割模型并验证 mask mAP
 
 ## 场景标签
 
@@ -45,7 +45,7 @@ Ultralytics 发布的 YOLOv5 视觉模型仓库：基于 PyTorch 框架，覆盖
 ## 证据(README 行号)
 
 > L14: Ultralytics YOLOv5 🚀 is a fast, accurate, and easy-to-use computer vision model developed by Ultralytics. Based on 
-> L52: Clone the repository and install dependencies in a **Python>=3.8.0** environment. Ensure you have **PyTorch>=1.8** 
+> L74: The `detect.py` script runs inference on various sources. It automatically downloads models from the latest YOLOv5 
 > L85: The commands below demonstrate how to reproduce YOLOv5 COCO dataset results. Both models and datasets are downloade
 
 ## 星数曲线
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `acb2217cdc38` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `8fb86fdacb8c` · [字段定义](../../DATASET.md)*

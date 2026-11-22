@@ -1,10 +1,10 @@
 # t8y2/dbx
 
-⭐ 31,099 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/t8y2/dbx) · [官网](https://dbxio.com) · 组织维护 · 中文 README
+⭐ 31,099 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/t8y2/dbx) · [官网](https://dbxio.com) · 个人维护 · 中文 README
 
-**给开发者的 25MB 跨平台数据库管理客户端，支持 100+ 数据库**
+**轻量跨平台数据库客户端，支持100+数据库，内置AI助手**
 
-用 Rust 构建的轻量级开源数据库管理工具，单个约 25MB 二进制文件，无 JRE/Python/Chromium 依赖，提供 macOS、Windows、Linux 桌面端、Docker/Web 部署与 CLI。支持 100+ 数据库连接（含国产数据库达梦、人大金仓等）及消息队列/中间件控制台。内置 AI SQL 助手支持自然语言生成 SQL、解释与优化，并独立分发 MCP Server 供 AI 编码代理查询数据库，权限分 read_only/safe_write/high_risk_write 三档。另有签名沙箱插件商店与 Go/TypeScript SDK。
+Rust 编写的开源数据库管理工具，单二进制约 25 MB，无 JRE/Python/Chromium。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供 macOS/Windows/Linux 桌面端、Docker/Web 自托管与 CLI 三种形态。内置 AI SQL 助手：自然语言生成 SQL、解释、优化、纠错，AI 生成的 SQL 经内置安全检查后执行；另提供独立分发的 MCP Server，使 Claude Code、Cursor 等 AI agent 能通过 DBX 已配置的连接查询数据库。附带消息队列与中间件控制台、签名沙箱插件商店、SSH 隧道与连接加密导出。
 
 ## 筛选速览
 
@@ -27,27 +27,28 @@
 
 ## 能力要点
 
-- 单二进制约 25MB，无 JRE、Python venv、Chromium 依赖
-- 内置 AI SQL 助手，支持 Claude、OpenAI、本地模型及 OpenAI 兼容端点，AI 生成 SQL 经内置安全检查
-- 独立分发的 Rust MCP Server，供 Claude Code、Cursor 等 AI 代理通过已配置连接查询数据库
-- 支持消息队列与中间件控制台：Kafka、RocketMQ、RabbitMQ、Pulsar、MQTT、Nacos 等
+- 单二进制约 25 MB，覆盖 100+ 数据库，无 JRE/Python/Chromium 运行时
+- AI SQL 助手支持 Claude、OpenAI、本地模型及 OpenAI 兼容端点，生成 SQL 有安全检查
+- 独立 MCP Server + CLI Agent Skill，供 AI coding agent 查询数据库
+- 消息队列（Kafka/RocketMQ 等）与中间件（Nacos/etcd 等）控制台、签名沙箱插件商店
 
 ## 适用场景
 
-- 用一个客户端管理 MySQL、PostgreSQL、Redis、MongoDB 等多种数据库连接
-- 通过自然语言生成并检查 SQL，减少在工具间复制粘贴
-- 自托管 Docker/Web 版本供团队统一访问数据库
-- 让 Claude Code/Cursor 等 AI 编码代理安全地查询已有数据库连接
+- 用一个客户端管理多种数据库与消息队列/中间件
+- 自然语言生成、解释、优化 SQL 并安全执行
+- 让 Claude Code/Cursor 等 agent 通过 MCP 访问团队数据库
+- Docker 自托管为团队提供 Web 端数据库访问
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L1: 100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server.
-> L128:  Highlight a table, describe what you want, get SQL back — no copy-paste between tools. Works with Claude, OpenAI,
-> L208: DBX provides a separate Rust-powered MCP server that lets AI coding agents query databases using connections confi
+> L103:  🪶 25 MB, zero runtime bloat
+> L107:  Highlight a table, describe what you want, get SQL back — no copy-paste between tools. Works with Claude, OpenAI,
+> L110:  DBX speaks the Model Context Protocol. Claude Code, Cursor, Windsurf, and other AI coding agents can query your d
+> L187: DBX provides a separate Rust-powered MCP server that lets AI coding agents query databases using connections confi
 
 ## 星数曲线
 
@@ -63,4 +64,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `61a1cb96968f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0c5df51b735c` · [字段定义](../../DATASET.md)*

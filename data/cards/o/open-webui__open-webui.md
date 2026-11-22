@@ -2,9 +2,9 @@
 
 ⭐ 159,220 · Svelte · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
 
-**自托管 AI 交互界面，接入本地与云端多模型**
+**自托管 AI 聊天界面：连接 Ollama 与 OpenAI 兼容 API**
 
-自托管 Web 平台，通过 Ollama 与 OpenAI 兼容 API 连接本地及云端模型，提供 RBAC 用户组、插件体系（Filters/Actions/Pipes/Tools/Skills）、MCP 与 OpenAPI 工具服务器接入、RAG（9 种向量数据库、混合检索）、网络搜索注入、图像生成、语音视频通话、日历与定时任务、企业认证（LDAP/SSO/SCIM）及 OpenTelemetry 可观测性。可通过 pip、Docker、Kubernetes 安装，支持纯 CPU 或 CUDA 镜像，另有 macOS/Windows/Linux 原生桌面应用。
+Open WebUI 是一个可扩展、可完全离线运行的自托管 AI 平台界面：通过 Ollama 连接本地模型，或通过 OpenAI 兼容 API 使用本地与云端模型。提供 Python（uvx/pip）、Docker 及桌面应用三种安装方式，Docker 镜像含标准、slim、CUDA 加速与捆绑 Ollama 等变体；主题标签显示包含 RAG 与 MCP 能力。许可证要求保留 Open WebUI 品牌标识。
 
 ## 筛选速览
 
@@ -14,7 +14,7 @@
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | `cpu-ok` | |
+| 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
@@ -27,17 +27,16 @@
 
 ## 能力要点
 
-- 支持 Ollama 与任何 OpenAI 兼容 API（LMStudio、GroqCloud、Mistral、OpenRouter、vLLM 等）
-- 插件体系与 MCP/OpenAPI 工具服务器接入，可构建带终端与文件系统的 Agent
-- RAG 支持 9 种向量数据库、BM25+向量混合检索与多家网络搜索提供商
-- 企业功能：RBAC、LDAP/SSO/SCIM、多节点水平扩展、OpenTelemetry
+- 支持通过 Ollama 接入本地模型与 OpenAI 兼容 API 接入云端模型
+- 完全离线运行的自托管平台
+- 提供 macOS/Windows/Linux 原生桌面应用
+- Docker 镜像含 CUDA 加速与捆绑 Ollama 变体
 
 ## 适用场景
 
-- 在本地或私有服务器上部署多模型对话界面
-- 团队共享的 AI 工作台，带权限管理与用量统计
-- 基于文档知识库的检索增强问答
-- 给 Agent 配置工具与终端执行多步任务
+- 在本地离线运行并与本地大模型对话
+- 用统一界面管理本地与云端多个模型服务
+- 在企业内部署带工作区编排的 AI 入口
 
 ## 场景标签
 
@@ -45,9 +44,8 @@
 
 ## 证据(README 行号)
 
-> L12: Open WebUI is **a home for AI**, a self-hosted AI platform that's **extensible**, **feature-rich**, user-friendly, 
-> L31: - 🧩 **Plugin Support**: Extend Open WebUI with **Filters**, **Actions**, **Pipes**, **Tools**, and **Skills**. Conn
-> L57: - 📚 **Local RAG Integration**: Retrieval Augmented Generation backed by 9 vector databases and multiple content-ext
+> L3:  Open WebUI is a home for AI : an extensible, easy-to-use, self-hosted platform built to run entirely offline. Conne
+> L41: ### Installation
 
 ## 星数曲线
 
@@ -63,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `346c3774f88b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `04839d5ac964` · [字段定义](../../DATASET.md)*

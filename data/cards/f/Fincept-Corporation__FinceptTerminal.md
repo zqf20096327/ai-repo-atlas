@@ -2,9 +2,9 @@
 
 ⭐ 34,031 · C++ · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) · [官网](https://fincept.in) · 组织维护
 
-**开源 C++ 金融研究终端：面向投资者/研究者的市场分析与 AI 自动化**
+**开源 C++ 金融终端：行情分析、投研、交易与 AI agent**
 
-原生 C++20/Qt6 桌面金融终端，嵌入 Python 3.11 分析，单一二进制。开源版（AGPL-3.0）提供 DCF、投资组合优化、VaR/Sharpe 等分析模块，37 个交易/经济/地缘 agent（自带 LLM key），100+ 数据连接器（FRED、IMF、Polygon 等），纸面交易引擎与 16 家券商集成，可视化节点编辑器与 MCP 工具。另有闭源 Enterprise 版按月付费，团队日常开发在 Enterprise，本仓库每月发布一次。
+本地运行的 C++20/Qt6 桌面金融研究终端，内嵌 Python 3.11，单二进制分发。开源版提供 DCF、投资组合优化、VaR/Sharpe 等分析，37 个金融/地缘 agent（自带 LLM key）、100+ 数据连接器、16 家券商集成、节点编辑器与 AI Quant Lab。AGPL-3.0 许可，每月发布一个版本；另有闭源付费 Enterprise 版，AI 数据需用户自备 key，行情来自用户自己的数据源。
 
 ## 筛选速览
 
@@ -27,27 +27,27 @@
 
 ## 能力要点
 
-- 37 个 trader/economic/geopolitics agents，支持 OpenAI、Anthropic、Gemini、Groq、DeepSeek、OpenRouter、Ollama 等 key
-- 100+ 数据连接器（FRED、IMF、World Bank、Polygon、AkShare 等）
-- 16 家券商集成与纸面交易引擎
-- 原生 C++20/Qt6，单二进制，无 Electron/Node.js
+- 37 个交易/经济/地缘 agent，支持 OpenAI、Anthropic、Gemini、Groq、DeepSeek、OpenRouter、Ollama 等自带 key
+- 100+ 数据连接器（FRED、IMF、World Bank、AkShare、Polygon 等）与 16 家券商集成
+- C++20/Qt6 单二进制桌面应用，无 Electron/Node.js
+- 18 模块 QuantLib 套件与 AI Quant Lab（ML、因子发现、RL）
 
 ## 适用场景
 
-- 学生与学术研究者做股票基本面与量化分析学习
-- 通过自带 LLM key 运行金融研究 agent
-- 连接个人 API key 获取市场与宏观数据
-- 用纸面交易引擎模拟加密与股票交易策略
+- 自备 API key 做个股与宏观经济研究
+- 用自带券商账户进行模拟与实盘交易
+- 学习量化分析、回测与因子研究
+- 教学与学术场景下的金融数据分析
 
 ## 场景标签
 
-`金融量化` `科研工具` · 领域:学习与行业
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L65: **Fincept Terminal** is a native C++20 desktop terminal for financial research — Qt6 UI, embedded Python 3.11 analy
-> L119: - **Analytics** — DCF, portfolio optimisation, VaR/Sharpe, derivatives pricing, fixed income, alternatives, plus a
-> L120: - **AI** — 37 trader/investor, economic and geopolitics agents; bring your own key (OpenAI, Anthropic, Gemini, Gro
+> L85: **Fincept Terminal** is a native C++20 desktop terminal for financial research — Qt6 UI, embedded Python 3.11 analy
+> L139: - **AI** — 37 trader/investor, economic and geopolitics agents; bring your own key (OpenAI, Anthropic, Gemini, Gro
+> L87: Two editions run on one data core. **Enterprise** is the private, closed-source build the team develops daily, for 
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `84203647465b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `32e02a22b432` · [字段定义](../../DATASET.md)*

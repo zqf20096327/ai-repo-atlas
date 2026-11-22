@@ -1,10 +1,10 @@
 # debpalash/VoiceStudio
 
-⭐ 115,899 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/debpalash/VoiceStudio) · [官网](https://voicestudio.sh) · 个人维护 · 中文 README
+⭐ 115,899 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/debpalash/VoiceStudio) · [官网](https://voicestudio.sh) · 组织维护
 
-**本地优先的开源语音工作站：克隆、配音、转写、有声书**
+**本地运行的语音工作室：克隆、配音、转写、有声书**
 
-Electron 桌面应用，聚合语音克隆、语音设计、视频配音、听写、转写与有声书创作等功能，宣称支持 646 种语言。默认引擎为 k2-fpa/OmniVoice（原文 k2-fsa），可切换其他引擎并管理本地语音模型。本地工作流在用户硬件上运行，远程服务为可选；提供本地 API 与 MCP 供 agent 接入。分发方式含一键安装脚本（macOS/Linux/Windows）与 Releases 安装包（.dmg/.exe/.AppImage/.deb），也可从源码运行（Node.js 22+/Bun/Rust）。AGPL-3.0 许可。
+全本地桌面/移动语音应用，功能覆盖语音克隆、语音设计、视频翻译配音、浮动听写与转写、有声书与批量队列任务。默认引擎为 k2-fsa/OmniVoice，用户可在 Model Manager 中选择数十个其他引擎并按需下载模型。提供 Local API、MCP、CLI、watch folders 与 recipes 用于自动化。AGPL-3.0 应用本身免费且无需账号；Pro 为可选商业许可，Cloud 为尚未上线的托管 API；模型权重许可各异（默认 OmniVoice 权重为 CC-BY-NC 非商用）。
 
 ## 筛选速览
 
@@ -15,8 +15,8 @@ Electron 桌面应用，聚合语音克隆、语音设计、视频配音、听�
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -27,16 +27,17 @@ Electron 桌面应用，聚合语音克隆、语音设计、视频配音、听�
 
 ## 能力要点
 
-- 语音克隆、语音设计、视频配音、转写、听写与有声书创作集成于一个桌面应用
-- 本地优先：工作流在本机硬件运行，远程服务可选
-- 提供本地 API 与 MCP 接入 agent，可复用配方与监视文件夹
-- 默认引擎 k2-fsa/OmniVoice，支持安装管理多个本地语音模型
+- 语音克隆、语音设计、视频配音、听写、转写、有声书六大功能，支持 646 种语言
+- 默认 k2-fsa/OmniVoice 引擎，Model Manager 支持数十种本地引擎按需下载
+- 覆盖 Windows/macOS/Linux/Android/iOS/Docker 多平台安装
+- Local API、MCP、CLI 与 watch folders 自动化集成
 
 ## 适用场景
 
-- 用参考录音克隆声音并生成配音或旁白
-- 为视频生成带时间轴的多语言配音
-- 在无 GPU 或 Apple Silicon 设备上本地完成转写与听写
+- 在笔记本上离线克隆声音并生成语音
+- 将视频翻译配音并保持原时间轴
+- 批量制作有声书与长文朗读
+- 通过本地 API 或 MCP 集成到自动化流程
 
 ## 场景标签
 
@@ -44,9 +45,9 @@ Electron 桌面应用，聚合语音克隆、语音设计、视频配音、听�
 
 ## 证据(README 行号)
 
-> L6:  Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 langua
-> L27: |Clone a voice or design your own|Dub videos with timed speech|Local API & MCP for agents|
-> L30: Start with **VoiceStudio** (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine cata
+> L5:  AI voice studio. On your device.
+> L46:  Voice cloning
+> L86:  Closed-source build, account required, 7-day full refund. The AGPL-3.0 app stays free, including commercial use un
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `49da35d42ba1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `ab9daa00e342` · [字段定义](../../DATASET.md)*

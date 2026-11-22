@@ -2,9 +2,9 @@
 
 ⭐ 76,173 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 组织维护 · 中文 README
 
-**面向开发者的 100+ LLM/VLM 统一微调工具**
+**零代码微调 100+ 大语言与多模态模型的统一框架**
 
-以 CLI 与零代码 Web UI 提供 100+ 大语言模型与视觉语言模型的微调能力，覆盖预训练、SFT、奖励建模及 PPO/DPO/KTO/ORPO 等训练方法，支持 LoRA 与多比特 QLoRA 量化微调。内置数十个模型对话模板，提供 Hugging Face 数据集清单、TensorBoard/Wandb 等实验监控，并可经 vLLM/SGLang worker 以 OpenAI 风格 API、Gradio UI 或 CLI 推理。README 给出按训练方法与模型规模估算的显存需求表，支持本地训练与 Colab/PAI-DSW/AMD GPU Cloud 云端训练。
+统一的 LLM/VLM 高效微调框架：支持 (多模态) 预训练、SFT、奖励建模及 PPO/DPO/KTO/ORPO 等训练方法，量化位宽覆盖 16-bit 全参到 2/8-bit QLoRA，集成 GaLore、DoRA、LongLoRA 等算法与 FlashAttention-2、Unsloth 等加速技巧。以 zero-code CLI 和 Web UI 形式提供微调入口，训练后可通过 vLLM/SGLang worker 提供 OpenAI 风格 API、Gradio UI 与 CLI 推理；用户主要为模型开发者与研究者。ACL 2024 论文发布。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -27,26 +27,27 @@
 
 ## 能力要点
 
-- 支持 100+ LLM/VLM 与 8 种训练方法（Pre-Training/SFT/Reward/PPO/DPO/KTO/ORPO/SimPO）
-- LoRA 与 2/3/4/5/6/8-bit QLoRA 量化微调
-- 零代码 CLI 与 Web UI，附带 OpenAI 风格 API 与 vLLM/SGLang 推理 worker
-- 内置大量中英文训练数据集清单与模型模板管理
+- 支持 100+ LLM/VLM 模型的统一微调（Day-0/Day-1 跟进前沿模型）
+- 覆盖预训练、SFT、奖励建模、PPO/DPO/KTO/ORPO 等训练方法
+- LoRA/QLoRA 至 2/3/4/5/6/8-bit，集成 GaLore、BAdam、DoRA、LongLoRA 等算法
+- 提供 zero-code CLI 与 Web UI，推理支持 vLLM/SGLang worker 的 OpenAI 风格 API
 
 ## 适用场景
 
-- 微调开源大模型适配领域任务
-- 用 LoRA/QLoRA 在有限显存下训练模型
-- 微调后通过 API 部署推理服务
+- 用 LoRA/QLoRA 在单卡上微调开源大模型
+- 多模态模型（图像/视频/音频理解）的监督微调
+- PPO/DPO 等偏好对齐训练与奖励建模
+- 通过 Web UI 零代码完成微调流程
 
 ## 场景标签
 
-`微调` `模型训练` `强化学习` · 领域:训练与推理
+`微调` `强化学习` `模型量化` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L35: ### Easily fine-tune 100+ large language models with zero-code CLI and Web UI
-> L68: - **Various models**: LLaMA, LLaVA, Mistral, Mixtral-MoE, Qwen3, Qwen3-VL, DeepSeek, Gemma, GLM, Phi, etc.
-> L69: - **Integrated methods**: (Continuous) pre-training, (multimodal) supervised fine-tuning, reward modeling, PPO, DPO
+> L36: ### Easily fine-tune 100+ large language models with zero-code CLI and Web UI
+> L69: - **Various models**: LLaMA, LLaVA, Mistral, Mixtral-MoE, Qwen3, Qwen3-VL, DeepSeek, Gemma, GLM, Phi, etc.
+> L70: - **Integrated methods**: (Continuous) pre-training, (multimodal) supervised fine-tuning, reward modeling, PPO, DPO
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9314dfb37019` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `29dc1998ac59` · [字段定义](../../DATASET.md)*

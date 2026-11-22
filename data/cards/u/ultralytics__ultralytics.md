@@ -2,15 +2,15 @@
 
 ⭐ 63,644 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ultralytics/ultralytics) · [官网](https://platform.ultralytics.com) · 组织维护
 
-**YOLO 系列视觉模型库：检测/分割/分类/姿态/跟踪一体化**
+**给开发者的多任务视觉模型库：检测/分割/姿态等**
 
-Ultralytics 维护的 YOLO 模型库，覆盖目标检测、实例分割、语义分割、深度估计、图像分类、姿态估计、旋转框检测与多帧目标跟踪任务。通过 pip 安装后提供 CLI（yolo 命令）与 Python API 两种调用方式，预训练权重在首次使用时自动从官方 release 下载。模型在 COCO、Cityscapes、ImageNet、DOTAv1、NYU Depth V2 等数据集上预训练，README 附带各系列模型的精度与速度指标表。商业使用需向官方申请 Enterprise License。
+Ultralytics 提供的 YOLO 系列模型库（YOLOv3 至 YOLO26），支持目标检测、实例分割、语义分割、深度估计、图像分类、姿态估计与目标跟踪任务。通过 `pip install ultralytics` 安装后，可用 `yolo` CLI 命令或 Python API 加载预训练模型执行预测、训练与验证；预训练权重在首次使用时自动从 Ultralytics 发布版本下载。README 附带 COCO、Cityscapes、ImageNet、DOTAv1 等数据集预训练模型的指标表。商业使用需申请企业许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,17 +26,16 @@ Ultralytics 维护的 YOLO 模型库，覆盖目标检测、实例分割、语�
 
 ## 能力要点
 
-- 支持检测、分割、深度估计、分类、姿态、OBB、跟踪七类视觉任务
-- CLI（yolo 命令）与 Python API 两种调用方式
-- 预训练权重首次使用时自动下载，含 COCO/Cityscapes/ImageNet/DOTA/NYU 等预训练版本
-- 提供 YOLO27 预告（尚未发布，无发布日期）
+- 支持检测、分割、深度估计、分类、姿态估计、OBB 与跟踪等任务
+- 提供 CLI（yolo 命令）与 Python API 两种使用方式
+- 支持 PyPI、Conda、Docker、Git 源码多种安装方式
+- YOLO26 预训练模型覆盖 COCO/Cityscapes/ImageNet/DOTAv1 等数据集
 
 ## 适用场景
 
-- 在图像/视频上做目标检测与实例分割
-- 训练自定义数据集的视觉模型
-- 对检测/分割/姿态结果做跨帧目标跟踪
-- 在 CPU 或 GPU 上部署推理
+- 在图像或视频中做目标检测与跨帧跟踪
+- 训练自定义数据集的分割或姿态估计模型
+- 用预训练模型直接做图像分类或深度估计
 
 ## 场景标签
 
@@ -45,8 +44,7 @@ Ultralytics 维护的 YOLO 模型库，覆盖目标检测、实例分割、语�
 ## 证据(README 行号)
 
 > L19: Ultralytics creates cutting-edge, state-of-the-art (SOTA) YOLO models built on years of foundational research in co
-> L43: ## 📄 Documentation
-> L91: Ultralytics supports a wide range of YOLO models, from early versions like YOLOv3 to the latest YOLO26. The tables 
+> L49: Install the `ultralytics` package, including all requirements, in a **Python>=3.8** environment with **PyTorch>=1.8
 
 ## 星数曲线
 
@@ -62,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `e89f57429c97` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2926ed7118bf` · [字段定义](../../DATASET.md)*

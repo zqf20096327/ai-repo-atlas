@@ -2,9 +2,9 @@
 
 ⭐ 472,620 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/morluto/rea) · [官网](https://rea.tools) · 组织维护
 
-**面向 AI agent 的逆向工程 MCP 工具集：分析二进制、应用与运行时行为**
+**面向逆向工程 agent 的 MCP 工具集，覆盖二进制到应用行为**
 
-REA 是一个 MCP server 与 CLI 工具集，把逆向分析工具接入 AI agent（Claude Code、Codex、Cursor、Gemini CLI 等）与终端。它支持检查原生二进制、JavaScript/Electron 应用、.NET 程序集、网站、Android APK、固件、WASM、EVM 字节码等目标，返回带证据与局限说明的分析结果。原生分析可配合 Hopper、Ghidra 或 IDA；静态 JS/.NET 检查无需原生分析引擎。需要 Node.js 22.19+/24.11+/26+ 与 npm，通过 npx 或 npm 全局安装。
+REA 通过 MCP 将用户的 agent 连接到一组检查工具，可分析原生二进制、JavaScript/Electron 应用、.NET 程序集、网站、Android 应用、固件及录制的运行时与网络活动；同样提供 CLI 供终端直接使用。原生反编译依赖 Hopper、Ghidra、IDA 或 Kuna 作为分析引擎（setup 可在批准后安装 Hopper），静态 JavaScript/.NET 分析无需引擎。分析在本地运行，结果附带证据与局限说明，支持从录制会话构建 RL 环境。
 
 ## 筛选速览
 
@@ -27,25 +27,26 @@ REA 是一个 MCP server 与 CLI 工具集，把逆向分析工具接入 AI agen
 
 ## 能力要点
 
-- 覆盖原生二进制、Electron/JS、.NET、Android APK、固件、WASM、EVM 字节码等多类目标
-- 以 MCP server 形式接入 agent，同时提供终端 CLI 命令
-- 分析结果附带证据与局限说明
-- 原生分析可复用已有 Hopper/Ghidra/IDA 安装
+- 提供 MCP 服务器与 CLI 两种使用方式，分析在本地运行
+- 支持原生二进制、JavaScript/Electron、.NET、Android、固件等目标类型
+- 原生反编译可接入 Hopper/Ghidra/IDA/Kuna 四种引擎
+- 结果包含证据与结论局限，可从录制会话构建 RL 环境
 
 ## 适用场景
 
-- 让 AI agent 在无源码情况下调查某个应用功能如何实现并复现到自己的项目
-- 逆向分析原生二进制、Electron 应用或 Android APK 提取结构与方法
-- 在终端用 CLI 分析解包后的 JavaScript 应用目录或 ASAR
+- 让 agent 分析无源码应用的功能实现并复现类似特性
+- 从 x86/16 位指令恢复计算逻辑并验证 C/C++ 重建
+- 对自有或授权软件做互操作性研究与软件保存
 
 ## 场景标签
 
- · 领域:逆向工程/开发者工具
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L41: REA connects your agent to tools for inspecting native binaries, JavaScript and Electron apps, .NET assemblies, and
-> L139: Your agent calls REA through MCP to inspect the target and trace relevant code.
+> L6: ### One MCP for reverse engineering across binaries, applications, and runtime behavior.
+> L42: REA connects your agent to tools for inspecting native binaries, JavaScript and Electron apps, .NET assemblies, and
+> L174: Any agent that supports local MCP servers. Setup configures the
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `5b9c58d30346` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `db9e24a94503` · [字段定义](../../DATASET.md)*

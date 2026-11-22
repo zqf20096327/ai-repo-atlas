@@ -2,15 +2,15 @@
 
 ⭐ 55,404 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ggml-org/whisper.cpp) · 组织维护
 
-**在本地多平台离线运行 Whisper 语音识别的 C/C++ 推理实现**
+**OpenAI Whisper 语音识别模型的 C/C++ 推理实现**
 
-OpenAI Whisper 语音识别模型的 C/C++ 移植，无依赖的纯 C/C++ 实现，基于 ggml 机器学习库构建。提供 C 风格 API、整数量化、VAD、混合精度推理，支持 Metal、Core ML、CUDA、Vulkan、OpenVINO 及 AMD NPU 等后端。模型需转换为 ggml 格式后由 whisper-cli 等示例程序运行，仅支持 16-bit WAV 输入，其他音频需用 ffmpeg 预先转换。支持 macOS/iOS/Android/Linux/Windows/WebAssembly 等平台，MIT 许可。
+以纯 C/C++ 无依赖实现 OpenAI Whisper 自动语音识别（ASR）模型的高性能推理，核心实现位于 whisper.h/whisper.cpp，其余基于 ggml 机器学习库。支持 CPU 推理、Apple Silicon（Metal/Core ML/ANE）、NVIDIA CUDA、Vulkan、AMD Ryzen AI NPU、OpenVINO 等后端，并提供整数量化、F16/F32 混合精度与 VAD。支持 macOS/iOS/Android/Linux/Windows/WebAssembly 等平台，模型需转换为 ggml 格式，whisper-cli 示例仅接受 16 位 WAV 输入。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,26 +27,27 @@ OpenAI Whisper 语音识别模型的 C/C++ 移植，无依赖的纯 C/C++ 实现
 
 ## 能力要点
 
-- 纯 C/C++ 无依赖实现，基于 ggml 库，提供 C 风格 API
-- 多后端支持：Metal、Core ML、ANE、CUDA、Vulkan、OpenVINO、AMD NPU
-- 整数量化降低模型内存与磁盘占用（tiny 75 MiB 至 large 2.9 GiB）
-- 跨平台覆盖 iOS、Android、WebAssembly、树莓派、Docker 等
+- 纯 C/C++ 无依赖实现，MIT 许可
+- 多硬件后端：Apple Silicon (Metal/Core ML/ANE)、CUDA、Vulkan、AMD NPU、OpenVINO、POWER VSX
+- 支持整数量化与 F16/F32 混合精度，运行时零内存分配
+- 从 iPhone 到树莓派的多平台部署，含 WebAssembly
 
 ## 适用场景
 
-- 在手机或嵌入式设备上完全离线运行语音转文字
-- 搭建本地离线语音助手应用
-- 在 Apple Silicon 或 NVIDIA GPU 上加速语音识别推理
+- 在本地设备上离线转录语音为文字
+- 构建离线语音助手应用
+- 在 iPhone/树莓派等资源受限设备上运行 ASR
+- 为应用嵌入 C 风格 API 的语音识别能力
 
 ## 场景标签
 
-`语音识别` `推理引擎` · 领域:感知与多模态
+`语音识别` `模型量化` `推理引擎` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L11: High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model:
 > L13: - Plain C/C++ implementation without dependencies
-> L26: Supported platforms:
+> L21: - Support for CPU-only inference
 
 ## 星数曲线
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `365030d96bb6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `50251223a40f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 135,971 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ggml-org/llama.cpp) · [官网](https://llama.app) · 组织维护
 
-**让开发者在本地和云端多种硬件上运行 LLM/VLM 推理**
+**面向本地/云端开发者的 C/C++ LLM 推理运行时**
 
-以 C/C++ 实现的 LLM（含 VLM）推理项目，目标是以最小配置在广泛硬件上运行推理。核心机制包括：无依赖的纯 C/C++ 实现、1.5-bit 到 8-bit 整数量化以降低内存占用、CPU+GPU 混合推理，以及 CUDA/HIP/MUSA/Metal/Vulkan/SYCL 等多后端。提供 cli 与 server 等工具，server 提供 OpenAI 兼容 API 与内置 Web UI。基于 ggml 库构建，MIT 许可，可经安装脚本、Docker、预编译二进制或源码构建获取。
+基于 ggml 库构建的 LLM（及多模态 LLM）推理项目，目标是以最小配置在广泛硬件上本地或云端运行模型。提供 curl/powershell 安装脚本、Docker、预编译二进制与源码构建多种途径；工具链包含 cli、completion、server（OpenAI 兼容 REST API）、TTS 模型支持与 GBNF 语法。文档覆盖 Android 构建、多 GPU 使用、性能排查与 XCFramework 等，采用 MIT 许可。
 
 ## 筛选速览
 
@@ -15,7 +15,7 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
@@ -27,27 +27,26 @@
 
 ## 能力要点
 
-- 纯 C/C++ 实现且无依赖，支持从 1.5-bit 到 8-bit 的整数量化
-- 覆盖 CUDA、HIP、MUSA、Metal、Vulkan、SYCL 等多后端与多架构指令集
-- CPU+GPU 混合推理，可运行超过总 VRAM 容量的模型
-- llama serve 提供 OpenAI 兼容 API 与内置 Web UI
+- 本地与云端、多种硬件上的 LLM/MLLM 推理
+- llama serve 提供 OpenAI 兼容 API 服务器
+- 支持从 Hugging Face 直接下载并运行 GGUF 模型
+- 提供 cli/completion/server/TTS/GBNF 等工具链
 
 ## 适用场景
 
-- 在本地笔记本或台式机上运行 GGUF 格式的大语言模型
-- 通过 OpenAI 兼容 API server 为应用提供推理服务
-- 在 Apple Silicon、NVIDIA/AMD GPU、RISC-V 等多种硬件上部署推理
-- 用量化模型在显存受限设备上运行较大模型
+- 在一台笔记本上离线运行 GGUF 格式模型
+- 本地起一个 OpenAI 兼容 API 给自己的应用调用
+- 在多 GPU 或 Android 设备上部署推理
 
 ## 场景标签
 
-`推理引擎` `模型量化` · 领域:训练与推理
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L5:  LLM inference in C/C++
-> L51: The main goal of `llama.cpp` is to enable LLM (and VLM) inference with minimal setup and state-of-the-art performan
-> L54: - Plain C/C++ implementation without any dependencies
+> L18: The main goal of `llama.cpp` is to enable LLM (and MLLM) inference with minimal setup and state-of-the-art performa
+> L45: # Launch OpenAI-compatible API server
+> L46: llama serve -hf ggml-org/Qwen3.5-0.8B-GGUF
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5c6741a9d8d6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5ba43d3d2cba` · [字段定义](../../DATASET.md)*
