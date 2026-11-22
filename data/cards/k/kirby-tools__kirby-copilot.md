@@ -1,6 +1,6 @@
 # kirby-tools/kirby-copilot
 
-⭐ 10 · PHP · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/kirby-tools/kirby-copilot) · [官网](https://kirby.tools/copilot) · 个人维护
+⭐ 10 · PHP · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/kirby-tools/kirby-copilot) · [官网](https://kirby.tools/copilot) · 个人维护
 
 **Kirby CMS 的 AI 辅助插件，支持面板生成与 MCP 接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kirby-tools/kirby-copilot 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-21 10（+0）
+2026-11-08 10 → 2026-11-22 10（+0）
 
 
 ---

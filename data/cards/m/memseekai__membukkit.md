@@ -46,12 +46,12 @@ Python 库 + CLI + 本地 GUI + HTTP + MCP 的长期记忆层：写入时用 LLM
 ```mermaid
 xychart-beta
     title "memseekai/membukkit 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-19 22 → 2026-11-21 22（+0）
+2026-10-20 22 → 2026-11-22 22（+0）
 
 
 ---

@@ -45,12 +45,12 @@ ASE 2026 论文的 artifact 仓库。ReCodeAgent 结合静态分析与 LLM 智�
 ```mermaid
 xychart-beta
     title "Intelligent-CAT-Lab/ReCodeAgent 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-18", "2026-11-22"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-19 13 → 2026-11-21 14（+1）
+2026-10-20 13 → 2026-11-22 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hasmcp/hasmcp-ce
 
-⭐ 63 · Go · AGPL-3.0 · 推送 2026-06-06 · [GitHub](https://github.com/hasmcp/hasmcp-ce) · [官网](https://hasmcp.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **免代码把 API 端点转成 MCP Server 的网关工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

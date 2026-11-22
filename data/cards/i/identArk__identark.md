@@ -47,12 +47,12 @@ identark 是实现 AgentGateway Protocol 的 Python SDK，在 agent 逻辑与外
 ```mermaid
 xychart-beta
     title "identArk/identark 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-11-08 16 → 2026-11-21 16（+0）
+2026-11-08 16 → 2026-11-22 16（+0）
 
 
 ---

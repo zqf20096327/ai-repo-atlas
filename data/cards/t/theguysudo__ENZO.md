@@ -1,6 +1,6 @@
 # theguysudo/ENZO
 
-⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/theguysudo/ENZO) · [官网](https://enzo-hub.duckdns.org) · 个人维护
+⭐ 123 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/theguysudo/ENZO) · [官网](https://enzo-hub.duckdns.org) · 个人维护
 
 **BYOK 自托管 AI 工作台：多模型聊天、自拟手册的 agent 与代码生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "theguysudo/ENZO 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-21"]
+    title "theguysudo/ENZO 星数(近 9 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-22"]
     y-axis "stars" 113 --> 125
-    line [114, 115, 116, 115, 117, 120, 121, 124]
+    line [114, 115, 116, 115, 117, 120, 121, 124, 123]
 ```
 
-2026-10-19 114 → 2026-11-21 124（+10）
+2026-10-20 114 → 2026-11-22 123（+9）
 
 
 ---

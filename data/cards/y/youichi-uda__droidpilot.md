@@ -1,6 +1,6 @@
 # youichi-uda/droidpilot
 
-⭐ 10 · Kotlin · MIT · 推送 2026-06-06 · [GitHub](https://github.com/youichi-uda/droidpilot) · 个人维护
+⭐ 11 · Kotlin · MIT · 推送 2026-06-06 · [GitHub](https://github.com/youichi-uda/droidpilot) · 个人维护
 
 **让 AI agent 通过 MCP 稳定自动化操控 Android 设备**
 
@@ -47,12 +47,12 @@ DroidPilot 由两部分组成：Android 端 APK（Kotlin 编写）通过系统�
 ```mermaid
 xychart-beta
     title "youichi-uda/droidpilot 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-10", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-10 10 → 2026-11-21 10（+0）
+2026-11-10 10 → 2026-11-22 11（+1）
 
 
 ---

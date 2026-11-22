@@ -45,12 +45,12 @@ LobeHub 维护的 TypeScript SDK，用于创建 LobeChat 的 Function Calling �
 ```mermaid
 xychart-beta
     title "lobehub/chat-plugin-sdk 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-19 76 → 2026-11-21 76（+0）
+2026-10-20 76 → 2026-11-22 76（+0）
 
 
 ---

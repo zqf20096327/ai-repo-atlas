@@ -1,6 +1,6 @@
 # hubooooooo/Personal-Agent
 
-⭐ 15 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/hubooooooo/Personal-Agent) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/hubooooooo/Personal-Agent) · 个人维护 · 中文 README
 
 **带长期记忆与确认卡的个人 AI 助理底座，可二开**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hubooooooo/Personal-Agent 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 14, 15, 16]
 ```
 
-2026-11-08 12 → 2026-11-21 15（+3）
+2026-11-08 12 → 2026-11-22 16（+4）
 
 
 ---

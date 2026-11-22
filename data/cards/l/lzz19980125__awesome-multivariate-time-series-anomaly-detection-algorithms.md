@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
     y-axis "stars" 80 --> 83
     line [81, 82, 82]
 ```
 
-2026-10-19 81 → 2026-11-21 82（+1）
+2026-10-20 81 → 2026-11-22 82（+1）
 
 
 ---

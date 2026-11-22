@@ -1,6 +1,6 @@
 # Abrechen2/sublarr
 
-⭐ 50 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Abrechen2/sublarr) · [官网](https://sublarr.de) · 个人维护
+⭐ 50 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Abrechen2/sublarr) · [官网](https://sublarr.de) · 个人维护
 
 **自托管字幕管理与下载器，面向动画库，可选 LLM 翻译**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Abrechen2/sublarr 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-18", "2026-11-22"]
     y-axis "stars" 47 --> 51
     line [48, 49, 50, 50]
 ```
 
-2026-10-19 48 → 2026-11-21 50（+2）
+2026-10-20 48 → 2026-11-22 50（+2）
 
 
 ---

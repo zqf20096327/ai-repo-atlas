@@ -1,6 +1,6 @@
 # Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server
 
-⭐ 405 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) · [官网](https://www.shelpuk.com) · 组织维护 · 中文 README
+⭐ 406 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) · [官网](https://www.shelpuk.com) · 组织维护 · 中文 README
 
 **给 AI 编码工具的网页搜索+内容抓取 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 398 --> 406
-    line [399, 400, 401, 402, 403, 401, 402, 404, 405, 405]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 398 --> 407
+    line [399, 400, 401, 402, 403, 401, 402, 404, 405, 406]
 ```
 
-2026-10-19 399 → 2026-11-21 405（+6）
+2026-10-20 399 → 2026-11-22 406（+7）
 
 
 ---

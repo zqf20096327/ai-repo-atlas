@@ -1,6 +1,6 @@
 # ELDment/Meting-Agent
 
-⭐ 118 · JavaScript · MIT · 推送 2026-03-20 · [GitHub](https://github.com/ELDment/Meting-Agent) · [官网](https://www.npmjs.com/package/@eldment/meting-agent) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 AI 的多平台音乐 API 封装（MCP 服务与 Skill）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

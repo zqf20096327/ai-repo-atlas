@@ -1,6 +1,6 @@
 # weicanie/prisma-ai
 
-⭐ 417 · TypeScript · AGPL-3.0 · 推送 2026-02-17 · [GitHub](https://github.com/weicanie/prisma-ai) · [官网](https://ai.pinkprisma.com) · 个人维护 · 中文 README
+⭐ 418 · TypeScript · AGPL-3.0 · 推送 2026-02-17 · [GitHub](https://github.com/weicanie/prisma-ai) · [官网](https://ai.pinkprisma.com) · 个人维护 · 中文 README
 
 **求职AI co-pilot：简历优化、岗位匹配、面试备战一体平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "weicanie/prisma-ai 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 410 --> 418
-    line [411, 414, 415, 417, 417]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 410 --> 419
+    line [411, 414, 415, 417, 418]
 ```
 
-2026-10-19 411 → 2026-11-21 417（+6）
+2026-10-20 411 → 2026-11-22 418（+7）
 
 
 ---

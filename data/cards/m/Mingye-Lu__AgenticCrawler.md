@@ -1,6 +1,6 @@
 # Mingye-Lu/AgenticCrawler
 
-⭐ 18 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Mingye-Lu/AgenticCrawler) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Mingye-Lu/AgenticCrawler) · 个人维护
 
 **给开发者的自然语言网页抓取与浏览器自动化 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mingye-Lu/AgenticCrawler 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-11", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 18, 18]
+    x-axis ["2026-10-20", "2026-11-11", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 18, 20]
 ```
 
-2026-10-19 15 → 2026-11-21 18（+3）
+2026-10-20 15 → 2026-11-22 20（+5）
 
 
 ---

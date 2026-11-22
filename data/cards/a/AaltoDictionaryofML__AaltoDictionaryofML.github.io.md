@@ -45,12 +45,12 @@ Aalto 大学机器学习组维护的开放获取机器学习/AI 术语表，含 
 ```mermaid
 xychart-beta
     title "AaltoDictionaryofML/AaltoDictionaryofML.github.io 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-19 57 → 2026-11-21 57（+0）
+2026-10-20 57 → 2026-11-22 57（+0）
 
 
 ---

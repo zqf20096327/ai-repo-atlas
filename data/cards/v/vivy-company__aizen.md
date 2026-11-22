@@ -1,6 +1,6 @@
 # vivy-company/aizen
 
-⭐ 311 · Swift · GPL-3.0 · 推送 2026-08-01 · [GitHub](https://github.com/vivy-company/aizen) · [官网](https://aizen.win) · 组织维护 · 中文 README
+⭐ 312 · Swift · GPL-3.0 · 推送 2026-08-01 · [GitHub](https://github.com/vivy-company/aizen) · [官网](https://aizen.win) · 组织维护 · 中文 README
 
 **macOS 并行开发工作区：聚合终端、Git 与 AI agent 会话**
 
@@ -46,12 +46,12 @@ Swift 编写的 macOS 原生开发者工作区，按项目或 Git 分支创建�
 ```mermaid
 xychart-beta
     title "vivy-company/aizen 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 307 --> 312
-    line [309, 308, 309, 308, 309, 310, 311, 311]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 307 --> 313
+    line [309, 308, 309, 308, 309, 310, 311, 312]
 ```
 
-2026-10-19 309 → 2026-11-21 311（+2）
+2026-10-20 309 → 2026-11-22 312（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # wendashi/awesome-3D-Generative-Models
 
-⭐ 63 · 推送 2026-11-15 · [GitHub](https://github.com/wendashi/awesome-3D-Generative-Models) · 个人维护
+⭐ 64 · 推送 2026-11-15 · [GitHub](https://github.com/wendashi/awesome-3D-Generative-Models) · 个人维护
 
 **3D 生成模型论文与项目策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wendashi/awesome-3D-Generative-Models 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 56 --> 64
-    line [57, 58, 59, 60, 59, 61, 62, 63]
+    title "wendashi/awesome-3D-Generative-Models 星数(近 9 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 56 --> 65
+    line [57, 58, 59, 60, 59, 61, 62, 63, 64]
 ```
 
-2026-10-19 57 → 2026-11-21 63（+6）
+2026-10-20 57 → 2026-11-22 64（+7）
 
 
 ---

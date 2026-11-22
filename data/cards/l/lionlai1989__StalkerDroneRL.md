@@ -1,6 +1,6 @@
 # lionlai1989/StalkerDroneRL
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/lionlai1989/StalkerDroneRL) · 个人维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/lionlai1989/StalkerDroneRL) · 个人维护
 
 **ROS2+Gazebo 全容器化的无人机 RL 追踪目标仿真项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lionlai1989/StalkerDroneRL 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-19 29 → 2026-11-21 30（+1）
+2026-10-20 29 → 2026-11-22 31（+2）
 
 
 ---

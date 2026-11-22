@@ -1,6 +1,6 @@
 # wael-sudo2/facebook-page-info-scraper
 
-⭐ 71 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/wael-sudo2/facebook-page-info-scraper) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/wael-sudo2/facebook-page-info-scraper) · 个人维护
 
 **免登录免 API key 的 Facebook 公共主页信息爬取库**
 
@@ -45,13 +45,13 @@ Python 库，输入 Facebook 主页 URL，返回名称、类别、邮箱、电�
 
 ```mermaid
 xychart-beta
-    title "wael-sudo2/facebook-page-info-scraper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 68 --> 72
-    line [69, 70, 71, 71]
+    title "wael-sudo2/facebook-page-info-scraper 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 72]
 ```
 
-2026-10-18 69 → 2026-11-21 71（+2）
+2026-10-19 70 → 2026-11-22 72（+2）
 
 
 ---

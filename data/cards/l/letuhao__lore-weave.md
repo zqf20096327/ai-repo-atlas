@@ -1,6 +1,6 @@
 # letuhao/lore-weave
 
-⭐ 38 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/letuhao/lore-weave) · [官网](https://github.com/letuhao/lore-weave/blob/main/README.md) · 个人维护
+⭐ 40 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/letuhao/lore-weave) · [官网](https://github.com/letuhao/lore-weave/blob/main/README.md) · 个人维护
 
 **面向小说作者与世界构建者的自托管 AI 共创写作平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "letuhao/lore-weave 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 34 --> 39
-    line [35, 36, 37, 38, 38]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-22"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 37, 38, 40]
 ```
 
-2026-10-19 35 → 2026-11-21 38（+3）
+2026-10-20 35 → 2026-11-22 40（+5）
 
 
 ---

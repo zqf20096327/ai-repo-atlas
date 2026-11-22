@@ -1,6 +1,6 @@
 # Magkino/vocoloco_tts
 
-⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Magkino/vocoloco_tts) · [官网](https://magkino.github.io/vocoloco_tts/) · 个人维护
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Magkino/vocoloco_tts) · [官网](https://magkino.github.io/vocoloco_tts/) · 个人维护
 
 **浏览器内本地运行的文本转语音与声音克隆 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Magkino/vocoloco_tts 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-21"]
+    title "Magkino/vocoloco_tts 星数(近 7 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-22"]
     y-axis "stars" 16 --> 23
-    line [17, 18, 19, 20, 21, 22]
+    line [17, 18, 19, 20, 21, 22, 22]
 ```
 
-2026-10-19 17 → 2026-11-21 22（+5）
+2026-10-20 17 → 2026-11-22 22（+5）
 
 
 ---

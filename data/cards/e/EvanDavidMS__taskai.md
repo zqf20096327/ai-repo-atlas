@@ -1,6 +1,6 @@
 # EvanDavidMS/taskai
 
-⭐ 5 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/EvanDavidMS/taskai) · 个人维护
+⭐ 6 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/EvanDavidMS/taskai) · 个人维护
 
 **本地 AI 实时整理笔记的桌面应用，强调隐私**
 
@@ -41,6 +41,18 @@
 > L5: **Escribe como piensas. La IA lo ordena.**
 > L31: - 🔒 **100% privado.** La IA corre en tu computadora con Ollama. Tus notas nunca se suben a internet.
 > L97: - **⏻ Encender/apagar la IA** (abajo a la izquierda). Apagarla libera la memoria de tu tarjeta de video.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EvanDavidMS/taskai 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-21 5 → 2026-11-22 6（+1）
 
 
 ---

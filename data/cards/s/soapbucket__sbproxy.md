@@ -1,6 +1,6 @@
 # soapbucket/sbproxy
 
-⭐ 54 · Rust · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/soapbucket/sbproxy) · [官网](https://sbproxy.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **单二进制企业 AI 网关：统一管控 API、模型与 MCP 流量**
 
@@ -11,7 +11,7 @@ Rust 编写的单一二进制网关，将 HTTP API、AI 模型调用（70 个原
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

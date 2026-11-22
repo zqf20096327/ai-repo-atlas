@@ -44,13 +44,13 @@ Eclipse Theia IDE 是基于 Theia 平台构建的开源 IDE，提供桌面安装
 
 ```mermaid
 xychart-beta
-    title "eclipse-theia/theia-ide 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
+    title "eclipse-theia/theia-ide 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 618 --> 621
-    line [620, 619]
+    line [620, 619, 619]
 ```
 
-2026-11-19 620 → 2026-11-21 619（-1）
+2026-11-19 620 → 2026-11-22 619（-1）
 
 
 ---

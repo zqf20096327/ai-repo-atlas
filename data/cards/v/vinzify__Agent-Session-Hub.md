@@ -45,12 +45,12 @@ Rust 编写的 CLI 工具，面向使用 Codex CLI、Claude Code、OpenCode 和 
 ```mermaid
 xychart-beta
     title "vinzify/Agent-Session-Hub 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-08 11 → 2026-11-21 11（+0）
+2026-11-08 11 → 2026-11-22 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # InbarR/tmax
 
-⭐ 77 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/InbarR/tmax) · [官网](https://inbarr.github.io/tmax/) · 个人维护
+⭐ 77 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/InbarR/tmax) · [官网](https://inbarr.github.io/tmax/) · 个人维护
 
 **带 AI 会话监控的跨平台多终端平铺式终端应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "InbarR/tmax 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-22"]
     y-axis "stars" 71 --> 78
     line [72, 73, 75, 72, 76, 77, 77]
 ```
 
-2026-10-19 72 → 2026-11-21 77（+5）
+2026-10-20 72 → 2026-11-22 77（+5）
 
 
 ---

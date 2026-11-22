@@ -1,6 +1,6 @@
 # martin-rizzo/ComfyUI-ZImagePowerNodes
 
-⭐ 370 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/martin-rizzo/ComfyUI-ZImagePowerNodes) · 个人维护
+⭐ 371 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/martin-rizzo/ComfyUI-ZImagePowerNodes) · 个人维护
 
 **面向 Z-Image/Z-Image Turbo 模型的 ComfyUI 自定义节点集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "martin-rizzo/ComfyUI-ZImagePowerNodes 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 366 --> 371
-    line [368, 369, 368, 369, 367, 368, 369, 370]
+    title "martin-rizzo/ComfyUI-ZImagePowerNodes 星数(近 9 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 366 --> 372
+    line [368, 369, 368, 369, 367, 368, 369, 370, 371]
 ```
 
-2026-10-19 368 → 2026-11-21 370（+2）
+2026-10-20 368 → 2026-11-22 371（+3）
 
 
 ---

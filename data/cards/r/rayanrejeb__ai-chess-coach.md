@@ -1,6 +1,6 @@
 # rayanrejeb/ai-chess-coach
 
-⭐ 5 · Python · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/rayanrejeb/ai-chess-coach) · 个人维护
+⭐ 6 · Python · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/rayanrejeb/ai-chess-coach) · 个人维护
 
 **桌面国际象棋教练：拉取棋局、Stockfish 评分并用 Gemini 讲解**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rayanrejeb/ai-chess-coach 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-10", "2026-11-22"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-10 5 → 2026-11-21 5（+0）
+2026-11-10 5 → 2026-11-22 6（+1）
 
 
 ---

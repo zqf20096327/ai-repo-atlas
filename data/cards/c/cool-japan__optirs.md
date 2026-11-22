@@ -1,6 +1,6 @@
 # cool-japan/optirs
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/optirs) · [官网](https://github.com/cool-japan/optirs) · 组织维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/optirs) · [官网](https://github.com/cool-japan/optirs) · 组织维护
 
 **面向 Rust 的机器学习优化库，基于 SciRS2 构建**
 
@@ -47,12 +47,12 @@ OptiRS 是以 Rust 编写的机器学习优化库，构建于 SciRS2 科学计�
 ```mermaid
 xychart-beta
     title "cool-japan/optirs 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 13（+1）
 
 
 ---

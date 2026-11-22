@@ -1,6 +1,6 @@
 # IsThatYou/auto-bench-audit
 
-⭐ 17 · HTML · 推送 2026-05-27 · [GitHub](https://github.com/IsThatYou/auto-bench-audit) · [官网](https://autobenchaudit.com) · 组织维护
+⭐ 17 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/IsThatYou/auto-bench-audit) · [官网](https://autobenchaudit.com) · 组织维护
 
 **自动审计 LLM/agent 基准的管线：发现任务歧义与评测缺陷**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "IsThatYou/auto-bench-audit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "IsThatYou/auto-bench-audit 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
 ```
 
-2026-10-18 16 → 2026-11-21 17（+1）
+2026-10-19 17 → 2026-11-22 17（+0）
 
 
 ---

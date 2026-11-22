@@ -1,6 +1,6 @@
 # runpod/runpod-python
 
-⭐ 319 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/runpod/runpod-python) · [官网](https://pypi.org/project/runpod/) · 组织维护
+⭐ 319 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/runpod/runpod-python) · [官网](https://pypi.org/project/runpod/) · 组织维护
 
 **RunPod 官方 Python SDK：定义 GPU 函数并部署到云端**
 
@@ -44,13 +44,13 @@ RunPod 官方 Python 库，含两部分：一是 API 客户端与 rp CLI，用�
 
 ```mermaid
 xychart-beta
-    title "runpod/runpod-python 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21"]
+    title "runpod/runpod-python 星数(近 7 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 315 --> 321
-    line [316, 317, 318, 319, 320, 319]
+    line [316, 317, 318, 319, 320, 319, 319]
 ```
 
-2026-10-19 316 → 2026-11-21 319（+3）
+2026-10-20 316 → 2026-11-22 319（+3）
 
 
 ---

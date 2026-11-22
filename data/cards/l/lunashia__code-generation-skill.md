@@ -1,6 +1,6 @@
 # lunashia/code-generation-skill
 
-⭐ 17 · PowerShell · 推送 2026-06-19 · [GitHub](https://github.com/lunashia/code-generation-skill) · 个人维护 · 中文 README
+⭐ 31 · PowerShell · 推送 2026-06-19 · [GitHub](https://github.com/lunashia/code-generation-skill) · 个人维护 · 中文 README
 
 **供 Codex/Claude 共用的代码生成工作流约束 skill**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lunashia/code-generation-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 16, 17, 17]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 15 --> 32
+    line [16, 17, 16, 17, 31]
 ```
 
-2026-10-18 16 → 2026-11-21 17（+1）
+2026-10-19 16 → 2026-11-22 31（+15）
 
 
 ---

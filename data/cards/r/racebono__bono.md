@@ -1,6 +1,6 @@
 # racebono/bono
 
-⭐ 4 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/racebono/bono) · [官网](https://racebono.com) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/racebono/bono) · [官网](https://racebono.com) · 个人维护
 
 **模拟赛车桌面 AI 赛道工程师与 Spotter，语音问答遥测数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "racebono/bono 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    title "racebono/bono 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-10 3 → 2026-11-21 4（+1）
+2026-11-10 3 → 2026-11-22 4（+1）
 
 
 ---

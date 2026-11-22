@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dronefreak/human-action-classification 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    title "dronefreak/human-action-classification 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 267 --> 271
-    line [270, 269, 268]
+    line [270, 269, 268, 268]
 ```
 
-2026-10-19 270 → 2026-11-21 268（-2）
+2026-10-20 270 → 2026-11-22 268（-2）
 
 
 ---

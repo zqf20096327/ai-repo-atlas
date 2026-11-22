@@ -1,6 +1,6 @@
 # sksarvesh007/antiglaude
 
-⭐ 176 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/sksarvesh007/antiglaude) · [官网](https://github.com/sksarvesh007/antiglaude-bridge#readme) · 个人维护
+⭐ 175 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sksarvesh007/antiglaude) · [官网](https://github.com/sksarvesh007/antiglaude-bridge#readme) · 个人维护
 
 **本地协议网关：让 Claude Code 与 OpenAI 工具链调用 Google/Gemini 上游模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sksarvesh007/antiglaude 星数(近 12 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
     y-axis "stars" 151 --> 178
-    line [153, 164, 166, 168, 169, 170, 172, 173, 174, 175, 176, 176]
+    line [153, 164, 166, 168, 169, 170, 172, 173, 174, 175, 176, 175]
 ```
 
-2026-11-08 153 → 2026-11-21 176（+23）
+2026-11-08 153 → 2026-11-22 175（+22）
 
 
 ---

@@ -1,6 +1,6 @@
 # hypernewbie/phi
 
-⭐ 10 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/hypernewbie/phi) · 个人维护
+⭐ 10 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/hypernewbie/phi) · 个人维护
 
 **为 AI 编码助手提供浏览器统一控制台的终端复用器**
 
@@ -40,6 +40,18 @@
 > L3: **A terminal multiplexer and browser-based control center for AI coding assistants.**
 > L5: Phi gives you a single web UI to run, monitor, and switch between multiple AI coding agents — OpenCode, Claude Code,
 > L25: Phi is a single Go binary serving a vanilla-JS frontend (no build step, no framework).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hypernewbie/phi 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
 
 
 ---

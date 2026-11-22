@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "00200200/Video-Waste-Dumping-Detection---IWDD 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "00200200/Video-Waste-Dumping-Detection---IWDD 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 51 --> 54
-    line [52, 53]
+    line [52, 53, 53]
 ```
 
-2026-10-19 52 → 2026-11-21 53（+1）
+2026-10-20 52 → 2026-11-22 53（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Manifest V3 Chrome 扩展：通过平台自身会话 API 完整捕获 ChatGPT �
 ```mermaid
 xychart-beta
     title "anuragmerndev/kontext-ai 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-19 25 → 2026-11-21 25（+0）
+2026-10-20 25 → 2026-11-22 25（+0）
 
 
 ---

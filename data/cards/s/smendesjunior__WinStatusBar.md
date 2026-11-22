@@ -1,6 +1,6 @@
 # smendesjunior/WinStatusBar
 
-⭐ 3 · C# · 推送 2026-11-18 · [GitHub](https://github.com/smendesjunior/WinStatusBar) · [官网](https://github.com/smendesjunior/WinStatusBar/releases/latest) · 个人维护
+⭐ 3 · C# · 推送 2026-11-21 · [GitHub](https://github.com/smendesjunior/WinStatusBar) · [官网](https://github.com/smendesjunior/WinStatusBar/releases/latest) · 个人维护
 
 **Windows 11 原生命令栏：一个入口接入多家 AI 与本地模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "smendesjunior/WinStatusBar 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-11", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-21 3（+0）
+2026-11-11 3 → 2026-11-22 3（+0）
 
 
 ---

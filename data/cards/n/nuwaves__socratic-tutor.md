@@ -1,6 +1,6 @@
 # nuwaves/socratic-tutor
 
-⭐ 5 · MIT · 推送 2026-11-09 · [GitHub](https://github.com/nuwaves/socratic-tutor) · [官网](https://nuwaves.xyz) · 个人维护
+⭐ 6 · MIT · 推送 2026-11-09 · [GitHub](https://github.com/nuwaves/socratic-tutor) · [官网](https://nuwaves.xyz) · 个人维护
 
 **把 LLM 变成苏格拉底式私人导师的 agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nuwaves/socratic-tutor 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-21"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-22"]
+    y-axis "stars" 2 --> 7
+    line [3, 5, 6]
 ```
 
-2026-11-13 3 → 2026-11-21 5（+2）
+2026-11-13 3 → 2026-11-22 6（+3）
 
 
 ---

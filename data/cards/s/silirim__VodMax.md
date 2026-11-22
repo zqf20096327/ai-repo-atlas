@@ -1,6 +1,6 @@
 # silirim/VodMax
 
-⭐ 80 · Go · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/silirim/VodMax) · [官网](https://vodmax.silirim.com) · 个人维护
+⭐ 82 · Go · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/silirim/VodMax) · [官网](https://vodmax.silirim.com) · 个人维护
 
 **自托管媒体中心：IPTV 直播、EPG、DVR 与影视剧集管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "silirim/VodMax 星数(近 8 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 0 --> 87
-    line [3, 39, 73, 76, 75, 78, 79, 80]
+    title "silirim/VodMax 星数(近 9 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 0 --> 89
+    line [3, 39, 73, 76, 75, 78, 79, 80, 82]
 ```
 
-2026-11-01 3 → 2026-11-21 80（+77）
+2026-11-01 3 → 2026-11-22 82（+79）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mofe-stack/continuum 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "mofe-stack/continuum 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-10-19 15 → 2026-11-21 16（+1）
+2026-10-20 15 → 2026-11-22 16（+1）
 
 
 ---

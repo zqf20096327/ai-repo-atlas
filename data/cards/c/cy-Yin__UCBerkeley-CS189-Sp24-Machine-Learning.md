@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "cy-Yin/UCBerkeley-CS189-Sp24-Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "cy-Yin/UCBerkeley-CS189-Sp24-Machine-Learning 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 40 --> 43
-    line [41, 42]
+    line [41, 42, 42]
 ```
 
-2026-10-19 41 → 2026-11-21 42（+1）
+2026-10-20 41 → 2026-11-22 42（+1）
 
 
 ---

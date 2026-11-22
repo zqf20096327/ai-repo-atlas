@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AltimateAI/claude-consensus 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
+    title "AltimateAI/claude-consensus 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-21", "2026-11-22"]
     y-axis "stars" 32 --> 36
-    line [33, 34, 35]
+    line [33, 34, 35, 35]
 ```
 
-2026-10-19 33 → 2026-11-21 35（+2）
+2026-10-20 33 → 2026-11-22 35（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # j9t/html-minifier
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/j9t/html-minifier) · [官网](https://htmlminifier.org/) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/j9t/html-minifier) · [官网](https://htmlminifier.org/) · 个人维护
 
 **给前端开发者的可配置 HTML/CSS/JS/SVG 页面压缩工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "j9t/html-minifier 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22"]
     y-axis "stars" 7 --> 11
     line [8, 9, 10, 10]
 ```
 
-2026-11-16 8 → 2026-11-21 10（+2）
+2026-11-16 8 → 2026-11-22 10（+2）
 
 
 ---

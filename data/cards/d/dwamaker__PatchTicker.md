@@ -1,6 +1,6 @@
 # dwamaker/PatchTicker
 
-⭐ 7 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dwamaker/PatchTicker) · [官网](https://patchticker.com) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dwamaker/PatchTicker) · [官网](https://patchticker.com) · 个人维护
 
 **面向运维者的免登录安全漏洞与补丁实时追踪器（韩文为主）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dwamaker/PatchTicker 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-21"]
+    title "dwamaker/PatchTicker 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 8
-    line [3, 5, 7]
+    line [3, 5, 7, 7]
 ```
 
-2026-11-18 3 → 2026-11-21 7（+4）
+2026-11-18 3 → 2026-11-22 7（+4）
 
 
 ---

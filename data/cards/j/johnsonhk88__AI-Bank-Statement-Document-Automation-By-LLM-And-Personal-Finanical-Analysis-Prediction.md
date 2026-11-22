@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-21"]
+    title "johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction 星数(近 11 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 627 --> 637
-    line [628, 629, 630, 629, 631, 633, 634, 635, 636, 635]
+    line [628, 629, 630, 629, 631, 633, 634, 635, 636, 635, 635]
 ```
 
-2026-10-19 628 → 2026-11-21 635（+7）
+2026-10-20 628 → 2026-11-22 635（+7）
 
 
 ---

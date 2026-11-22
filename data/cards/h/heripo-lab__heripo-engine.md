@@ -45,12 +45,12 @@ pnpm monorepo 形式的库集合：pdf-parser 用 Docling SDK 在本地做 OCR�
 ```mermaid
 xychart-beta
     title "heripo-lab/heripo-engine 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-19 11 → 2026-11-21 12（+1）
+2026-10-20 11 → 2026-11-22 12（+1）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alchemiststudiosDOTai/tinyAgent 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 88 --> 90
     line [89, 89]
 ```
 
-2026-10-19 89 → 2026-11-21 89（+0）
+2026-10-20 89 → 2026-11-22 89（+0）
 
 
 ---

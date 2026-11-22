@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vedthakar/Vedocker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 13 --> 17
-    line [14, 16, 16]
+    title "Vedthakar/Vedocker 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
 ```
 
-2026-10-18 14 → 2026-11-21 16（+2）
+2026-10-19 16 → 2026-11-22 16（+0）
 
 
 ---

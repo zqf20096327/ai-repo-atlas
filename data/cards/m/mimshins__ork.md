@@ -1,6 +1,6 @@
 # mimshins/ork
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mimshins/ork) · [官网](https://github.com/mimshins/ork/blob/main/docs/README.md) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mimshins/ork) · [官网](https://github.com/mimshins/ork/blob/main/docs/README.md) · 个人维护
 
 **本地运行编码 Agent 工作流的编排框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mimshins/ork 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-22"]
     y-axis "stars" 3 --> 8
     line [4, 5, 6, 7, 7]
 ```
 
-2026-11-12 4 → 2026-11-21 7（+3）
+2026-11-12 4 → 2026-11-22 7（+3）
 
 
 ---

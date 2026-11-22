@@ -1,6 +1,6 @@
 # bpauli/gccli
 
-⭐ 32 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bpauli/gccli) · 个人维护
+⭐ 33 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bpauli/gccli) · 个人维护
 
 **面向 Garmin Connect 的命令行工具，附 AI 助手技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bpauli/gccli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 31, 32, 32]
+    title "bpauli/gccli 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 33]
 ```
 
-2026-10-18 29 → 2026-11-21 32（+3）
+2026-10-19 30 → 2026-11-22 33（+3）
 
 
 ---

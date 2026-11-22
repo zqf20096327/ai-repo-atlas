@@ -1,6 +1,6 @@
 # panelalpha/panelalpha-engine
 
-⭐ 38 · PHP · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/panelalpha/panelalpha-engine) · [官网](https://engine.panelalpha.com/) · 组织维护
+⭐ 38 · PHP · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/panelalpha/panelalpha-engine) · [官网](https://engine.panelalpha.com/) · 组织维护
 
 **自托管服务器引擎：让 AI agent 经 MCP 安全部署管理多个项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "panelalpha/panelalpha-engine 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-22"]
     y-axis "stars" 32 --> 39
     line [33, 34, 35, 36, 34, 36, 37, 38, 38]
 ```
 
-2026-10-19 33 → 2026-11-21 38（+5）
+2026-10-20 33 → 2026-11-22 38（+5）
 
 
 ---

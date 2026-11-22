@@ -1,6 +1,6 @@
 # warengonzaga/tinyclaw
 
-⭐ 296 · TypeScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/warengonzaga/tinyclaw) · [官网](https://tinyclaw.ai) · 个人维护
+⭐ 297 · TypeScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/warengonzaga/tinyclaw) · [官网](https://tinyclaw.ai) · 个人维护
 
 **个人自主 AI 伴侣框架，微小核心+插件架构**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "warengonzaga/tinyclaw 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-22"]
     y-axis "stars" 295 --> 299
-    line [296, 297, 298, 297, 298, 297, 296, 296]
+    line [296, 297, 298, 297, 298, 297, 296, 297]
 ```
 
-2026-10-19 296 → 2026-11-21 296（+0）
+2026-10-20 296 → 2026-11-22 297（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/FlashTopK
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Tencent-Hunyuan/FlashTopK) · [官网](https://arxiv.org/abs/2610.32057) · 组织维护 · 中文 README
+⭐ 58 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Tencent-Hunyuan/FlashTopK) · [官网](https://arxiv.org/abs/2610.32057) · 组织维护 · 中文 README
 
 **学习型稀疏注意力训练与推理的融合 top-k 选择 CUDA 内核**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/FlashTopK 星数(近 11 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 6 --> 61
-    line [10, 13, 15, 16, 19, 30, 42, 51, 52, 55, 57]
+    title "Tencent-Hunyuan/FlashTopK 星数(近 12 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 6 --> 62
+    line [10, 13, 15, 16, 19, 30, 42, 51, 52, 55, 57, 58]
 ```
 
-2026-11-08 10 → 2026-11-21 57（+47）
+2026-11-08 10 → 2026-11-22 58（+48）
 
 
 ---

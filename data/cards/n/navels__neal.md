@@ -1,6 +1,6 @@
 # navels/neal
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/navels/neal) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/navels/neal) · 个人维护
 
 **规划驱动的多智能体编码循环工具：planner/coder/reviewer 协作实现计划**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "navels/neal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-19", "2026-11-22"]
     y-axis "stars" 26 --> 31
     line [27, 29, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-21 30（+3）
+2026-10-19 27 → 2026-11-22 30（+3）
 
 
 ---

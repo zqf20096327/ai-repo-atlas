@@ -46,12 +46,12 @@ CIKM 2025 论文配套仓库，提供 Hugging Face 模型、数据集、Spaces�
 ```mermaid
 xychart-beta
     title "SC-Lab-Go/HuggingGraph 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-19 14 → 2026-11-21 14（+0）
+2026-10-20 14 → 2026-11-22 14（+0）
 
 
 ---

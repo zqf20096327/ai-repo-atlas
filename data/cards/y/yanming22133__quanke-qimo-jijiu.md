@@ -1,6 +1,6 @@
 # yanming22133/quanke-qimo-jijiu
 
-⭐ 4 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yanming22133/quanke-qimo-jijiu) · 个人维护 · 中文 README
+⭐ 5 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yanming22133/quanke-qimo-jijiu) · 个人维护 · 中文 README
 
 **给学生用 AI Agent 从课件教材生成可打印复习资料**
 
@@ -40,6 +40,18 @@ ReviewCraft 是一套供 AI Agent 使用的工作流包（Skill），由 SKILL.m
 
 > L7: ReviewCraft 是一套给 **AI Agent** 用的工作流包（Skill），**不绑定任何客户端**：对话式 Agent、CLI Agent、IDE 里的助手、本地模型都可以，只要它能读文件、能跑命令。它不是一个独立程序
 > L3: > 全科复习资料生成器：把课件、教材、录音、往年题，变成一套**能直接打印**的复习资料——知识点汇总、章节练习、3–5 套模拟卷 + 答案。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yanming22133/quanke-qimo-jijiu 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-21 4 → 2026-11-22 5（+1）
 
 
 ---

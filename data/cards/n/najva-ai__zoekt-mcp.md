@@ -1,6 +1,6 @@
 # najva-ai/zoekt-mcp
 
-⭐ 23 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/najva-ai/zoekt-mcp) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 AI 助手提供 Zoekt 代码搜索能力的 MCP 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

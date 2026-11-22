@@ -41,6 +41,18 @@
 > L28: - **Multi-provider LLM fallback** — NVIDIA NIM, Mistral, OpenRouter or any OpenAI-compatible API, with automatic fa
 > L29: - **Human approval** — every configuration change is shown in full and runs only after you confirm it (`y` / `n` / 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hehealexandru/agenticops_network_config_ai_agent 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `95c52867d95d` · [字段定义](../../DATASET.md)*

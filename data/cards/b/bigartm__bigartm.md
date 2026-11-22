@@ -1,6 +1,6 @@
 # bigartm/bigartm
 
-⭐ 674 · C++ · NOASSERTION · 推送 2026-02-05 · [GitHub](https://github.com/bigartm/bigartm) · [官网](http://bigartm.org/) · 组织维护
+⭐ 673 · C++ · NOASSERTION · 推送 2026-02-05 · [GitHub](https://github.com/bigartm/bigartm) · [官网](http://bigartm.org/) · 组织维护
 
 **面向大数据集的正则化主题建模开源平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bigartm/bigartm 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 673 --> 676
-    line [674, 675, 674, 674]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 672 --> 676
+    line [674, 675, 674, 673]
 ```
 
-2026-10-19 674 → 2026-11-21 674（+0）
+2026-10-20 674 → 2026-11-22 673（-1）
 
 
 ---

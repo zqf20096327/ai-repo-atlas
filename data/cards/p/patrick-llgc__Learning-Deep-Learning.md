@@ -1,6 +1,6 @@
 # patrick-llgc/Learning-Deep-Learning
 
-⭐ 1,280 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/patrick-llgc/Learning-Deep-Learning) · 个人维护 · 中文 README
+⭐ 1,281 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/patrick-llgc/Learning-Deep-Learning) · 个人维护 · 中文 README
 
 **个人深度学习与自动驾驶论文阅读笔记库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "patrick-llgc/Learning-Deep-Learning 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
     y-axis "stars" 1278 --> 1284
-    line [1279, 1280, 1281, 1282, 1283, 1279, 1281, 1280, 1280]
+    line [1279, 1280, 1281, 1282, 1283, 1279, 1281, 1280, 1281]
 ```
 
-2026-10-19 1,279 → 2026-11-21 1,280（+1）
+2026-10-20 1,279 → 2026-11-22 1,281（+2）
 
 
 ---

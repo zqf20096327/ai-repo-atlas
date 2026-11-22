@@ -1,6 +1,6 @@
 # husseinzayat3/Deskforce
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/husseinzayat3/Deskforce) · [官网](https://husseinzayat.it) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 员工虚拟办公室桌面应用：CEO 规划并委派团队完成任务**
 
@@ -11,7 +11,7 @@ Electron 桌面应用（另有 Docker 镜像）：用户雇佣一组 AI 员工�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

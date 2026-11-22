@@ -1,6 +1,6 @@
 # zgsndzq/qwen38-27b-flash-mtp
 
-⭐ 8 · C++ · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/zgsndzq/qwen38-27b-flash-mtp) · [官网](https://huggingface.co/SuperLogic/Qwen3.8-27B-Flash-MTP-GGUF) · 个人维护 · 中文 README
+⭐ 9 · C++ · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/zgsndzq/qwen38-27b-flash-mtp) · [官网](https://huggingface.co/SuperLogic/Qwen3.8-27B-Flash-MTP-GGUF) · 个人维护 · 中文 README
 
 **在 8 GB 显存笔记本 GPU 上本地运行 27B 三值量化代码模型的运行包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zgsndzq/qwen38-27b-flash-mtp 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-22"]
     y-axis "stars" 2 --> 10
-    line [3, 4, 5, 6, 4, 9, 8, 8]
+    line [3, 4, 5, 6, 4, 9, 8, 9]
 ```
 
-2026-10-19 3 → 2026-11-21 8（+5）
+2026-10-20 3 → 2026-11-22 9（+6）
 
 
 ---

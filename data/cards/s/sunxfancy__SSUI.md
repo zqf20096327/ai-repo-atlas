@@ -45,12 +45,12 @@ Stable Scripts UI 是面向 Stable Scripts（一种 Python 脚本）的 Web/桌�
 ```mermaid
 xychart-beta
     title "sunxfancy/SSUI 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
     y-axis "stars" 33 --> 36
     line [35, 34, 34]
 ```
 
-2026-10-19 35 → 2026-11-21 34（-1）
+2026-10-20 35 → 2026-11-22 34（-1）
 
 
 ---

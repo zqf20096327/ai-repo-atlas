@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "intel/toolkit-manager 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "intel/toolkit-manager 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 11 --> 14
-    line [12, 13]
+    line [12, 13, 13]
 ```
 
-2026-11-20 12 → 2026-11-21 13（+1）
+2026-11-20 12 → 2026-11-22 13（+1）
 
 
 ---

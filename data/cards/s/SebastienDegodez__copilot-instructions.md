@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SebastienDegodez/copilot-instructions 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 198 --> 200
     line [199, 199]
 ```
 
-2026-10-19 199 → 2026-11-21 199（+0）
+2026-10-20 199 → 2026-11-22 199（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dukeluo/awesome-awesome-ai
 
-⭐ 139 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/dukeluo/awesome-awesome-ai) · 个人维护 · 中文 README
+⭐ 140 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/dukeluo/awesome-awesome-ai) · 个人维护 · 中文 README
 
 **AI 清单的清单：聚合各 AI 主题 awesome list 的导航目录**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "dukeluo/awesome-awesome-ai 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 137 --> 140
-    line [138, 139, 138, 139, 139]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 137 --> 141
+    line [138, 139, 138, 139, 140]
 ```
 
-2026-10-19 138 → 2026-11-21 139（+1）
+2026-10-20 138 → 2026-11-22 140（+2）
 
 
 ---

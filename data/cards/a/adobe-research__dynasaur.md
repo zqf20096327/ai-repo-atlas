@@ -42,13 +42,13 @@ Adobe Research 发布的 LLM agent 框架（COLM 2025 论文）：以编程语�
 
 ```mermaid
 xychart-beta
-    title "adobe-research/dynasaur 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
+    title "adobe-research/dynasaur 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 360 --> 364
-    line [362, 363, 361]
+    line [362, 363, 361, 361]
 ```
 
-2026-10-19 362 → 2026-11-21 361（-1）
+2026-10-20 362 → 2026-11-22 361（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SPEAR-UIC/LASSI
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/SPEAR-UIC/LASSI) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SPEAR-UIC/LASSI) · 组织维护
 
 **面向 HPC 研究者的 LLM 驱动 CUDA/OpenMP 并行代码互译自校正流水线**
 
@@ -46,12 +46,12 @@ LASSI 用大语言模型在 CUDA 与 OpenMP GPU offload 两种编程模型之间
 ```mermaid
 xychart-beta
     title "SPEAR-UIC/LASSI 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-16", "2026-11-22"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-16 13 → 2026-11-21 13（+0）
+2026-11-16 13 → 2026-11-22 13（+0）
 
 
 ---

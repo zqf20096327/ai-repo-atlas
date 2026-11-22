@@ -1,6 +1,6 @@
 # vdutts7/bedrock-tax
 
-⭐ 6 · Python · 推送 2026-10-08 · [GitHub](https://github.com/vdutts7/bedrock-tax) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 Aurora pgvector 替换 OpenSearch 降低 Bedrock 知识库账单的迁移方案**
 

@@ -1,6 +1,6 @@
 # Catlyn-Lab/DevCat
 
-⭐ 5 · Rust · 推送 2026-11-20 · [GitHub](https://github.com/Catlyn-Lab/DevCat) · [官网](https://devcat.ai.id) · 组织维护
+⭐ 5 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/Catlyn-Lab/DevCat) · [官网](https://devcat.ai.id) · 组织维护
 
 **开发者的 AI 编码 agent 一体化工作台：终端、Git、数据库、K8s 同窗管理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Catlyn-Lab/DevCat 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-20", "2026-11-21"]
+    title "Catlyn-Lab/DevCat 星数(近 4 点)"
+    x-axis ["2026-11-14", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    line [3, 4, 5, 5]
 ```
 
-2026-11-14 3 → 2026-11-21 5（+2）
+2026-11-14 3 → 2026-11-22 5（+2）
 
 
 ---

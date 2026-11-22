@@ -44,13 +44,13 @@ Python 脚本工具，面向检测工程师与威胁研究人员：抓取 urls.t
 
 ```mermaid
 xychart-beta
-    title "bobby-tablez/TTP-Threat-Feeds 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "bobby-tablez/TTP-Threat-Feeds 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 74 --> 77
-    line [75, 76]
+    line [75, 76, 76]
 ```
 
-2026-10-19 75 → 2026-11-21 76（+1）
+2026-10-20 75 → 2026-11-22 76（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SikandarJODD/ai-elements
 
-⭐ 320 · Svelte · MIT · 推送 2026-10-15 · [GitHub](https://github.com/SikandarJODD/ai-elements) · [官网](https://svelte-ai-elements.vercel.app) · 个人维护
+⭐ 321 · Svelte · MIT · 推送 2026-10-15 · [GitHub](https://github.com/SikandarJODD/ai-elements) · [官网](https://svelte-ai-elements.vercel.app) · 个人维护
 
 **给 Svelte 开发者的 AI 聊天/流式 UI 组件库（Vercel AI Elements 移植）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SikandarJODD/ai-elements 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22"]
     y-axis "stars" 318 --> 323
-    line [322, 319, 322, 319, 320, 321, 320, 320]
+    line [322, 319, 322, 319, 320, 321, 320, 321]
 ```
 
-2026-10-19 322 → 2026-11-21 320（-2）
+2026-10-20 322 → 2026-11-22 321（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mdocui/mdocui
 
-⭐ 46 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/mdocui/mdocui) · [官网](https://mdocui.github.io) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mdocui/mdocui) · [官网](https://mdocui.github.io) · 个人维护
 
 **面向 LLM 流式输出的生成式 UI 库，基于 Markdoc 标签语法**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mdocui/mdocui 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 40 --> 47
     line [41, 42, 44, 45, 44, 46, 46]
 ```
 
-2026-10-19 41 → 2026-11-21 46（+5）
+2026-10-20 41 → 2026-11-22 46（+5）
 
 
 ---

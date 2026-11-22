@@ -41,6 +41,18 @@
 > L3: # ⚡ 双十一 AI 变成可交易商品、黑五网一临近！跨境与内容团队怎么管好订阅与支付？
 > L20: ### 🧭 傻瓜级开卡与绑卡教程（一看就会）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-21 15 → 2026-11-22 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `2fd9572aea6e` · [字段定义](../../DATASET.md)*

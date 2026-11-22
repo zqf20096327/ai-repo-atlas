@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Farhad-Davaripour/FEA_Assisted_Agent 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-11-08 30 → 2026-11-21 30（+0）
+2026-11-08 30 → 2026-11-22 30（+0）
 
 
 ---

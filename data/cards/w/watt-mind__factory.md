@@ -1,6 +1,6 @@
 # watt-mind/factory
 
-⭐ 20 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/watt-mind/factory) · [官网](https://watt-mind.github.io/factory/) · 组织维护
+⭐ 21 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/watt-mind/factory) · [官网](https://watt-mind.github.io/factory/) · 组织维护
 
 **驱动编码 Agent 的自主开发循环运行时（自改进工厂）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "watt-mind/factory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-11-21 20（+1）
+2026-10-19 19 → 2026-11-22 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # voidvenom/oh-my-rea
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/voidvenom/oh-my-rea) · [官网](https://www.npmjs.com/package/oh-my-rea) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/voidvenom/oh-my-rea) · [官网](https://www.npmjs.com/package/oh-my-rea) · 个人维护
 
 **终端逆向工程 AI 代理：带证据引用的分析 TUI/CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "voidvenom/oh-my-rea 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-19", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-19 3 → 2026-11-21 3（+0）
+2026-11-19 3 → 2026-11-22 4（+1）
 
 
 ---

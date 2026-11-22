@@ -1,6 +1,6 @@
 # MYCF711/dsh-GOkifu-compact
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/MYCF711/dsh-GOkifu-compact) · [官网](https://www.npmjs.com/package/dsh-gokifu-compact) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/MYCF711/dsh-GOkifu-compact) · [官网](https://www.npmjs.com/package/dsh-gokifu-compact) · 个人维护 · 中文 README
 
 **给 DSH 会话换棋谱式上下文压缩后端的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MYCF711/dsh-GOkifu-compact 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-21 4（+1）
+2026-11-08 3 → 2026-11-22 4（+1）
 
 
 ---

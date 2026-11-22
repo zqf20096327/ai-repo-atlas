@@ -45,12 +45,12 @@ Obsidian 社区插件，接入 Replicate.com API：从选中文本或弹窗输�
 ```mermaid
 xychart-beta
     title "dsebastien/obsidian-replicate 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

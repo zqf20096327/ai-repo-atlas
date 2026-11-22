@@ -41,6 +41,18 @@
 > L43: - **强化学习搜索**：REINFORCE 策略梯度 + Actor-Critic baseline，搜索 8-token 公式序列
 > L44: - **Looped Transformer**：GPT 风格模型 + QK-Norm 注意力 + 权重共享输出头
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "oficcejo/alphapilot 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `baf71ceba610` · [字段定义](../../DATASET.md)*

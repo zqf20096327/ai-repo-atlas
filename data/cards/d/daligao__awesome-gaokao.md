@@ -1,6 +1,6 @@
 # daligao/awesome-gaokao
 
-⭐ 11 · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/daligao/awesome-gaokao) · 个人维护 · 中文 README
+⭐ 13 · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/daligao/awesome-gaokao) · 个人维护 · 中文 README
 
 **面向高考考生与教育者的开源备考资源精选清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daligao/awesome-gaokao 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-08", "2026-11-22"]
+    y-axis "stars" 10 --> 14
+    line [11, 13]
 ```
 
-2026-11-08 11 → 2026-11-21 11（+0）
+2026-11-08 11 → 2026-11-22 13（+2）
 
 
 ---

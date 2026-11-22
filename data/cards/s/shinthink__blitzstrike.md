@@ -1,6 +1,6 @@
 # shinthink/blitzstrike
 
-⭐ 522 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/shinthink/blitzstrike) · [官网](https://github.com/shinthink/blitzstrike) · 个人维护
+⭐ 523 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/shinthink/blitzstrike) · [官网](https://github.com/shinthink/blitzstrike) · 个人维护
 
 **渗透测试 MCP 服务器：为 LLM agent 提供三层安全审计工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shinthink/blitzstrike 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 509 --> 523
-    line [510, 511, 512, 513, 514, 515, 513, 516, 517, 518, 520, 522]
+    title "shinthink/blitzstrike 星数(近 13 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 509 --> 524
+    line [510, 511, 512, 513, 514, 515, 513, 516, 517, 518, 520, 522, 523]
 ```
 
-2026-10-19 510 → 2026-11-21 522（+12）
+2026-10-20 510 → 2026-11-22 523（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # ranajahanzaib/transit-shortcut
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/ranajahanzaib/transit-shortcut) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/transit-shortcut) · 个人维护
 
 **面向研究者的系外行星分类捷径审计工具集**
 
@@ -46,12 +46,12 @@ TransitShortcut 是一套科学评估软件，用于审计系外行星分类模�
 ```mermaid
 xychart-beta
     title "ranajahanzaib/transit-shortcut 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-10 3 → 2026-11-21 4（+1）
+2026-11-10 3 → 2026-11-22 4（+1）
 
 
 ---

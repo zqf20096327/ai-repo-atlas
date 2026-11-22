@@ -1,6 +1,6 @@
 # AbdulSamad94/clipsmith
 
-⭐ 20 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/AbdulSamad94/clipsmith) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/AbdulSamad94/clipsmith) · 个人维护
 
 **本地离线把长 YouTube 视频剪成带字幕竖屏 Shorts 的开源工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbdulSamad94/clipsmith 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 2 --> 21
-    line [3, 6, 12, 18, 20]
+    title "AbdulSamad94/clipsmith 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 23
+    line [3, 6, 12, 18, 20, 22]
 ```
 
-2026-11-16 3 → 2026-11-21 20（+17）
+2026-11-16 3 → 2026-11-22 22（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # kevinelliott/agentmanager
 
-⭐ 40 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kevinelliott/agentmanager) · [官网](https://kevinelliott.github.io/agentmanager/) · 个人维护
+⭐ 41 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kevinelliott/agentmanager) · [官网](https://kevinelliott.github.io/agentmanager/) · 个人维护
 
 **AI Agent CLI 工具的检测、安装与更新管理器（CLI/TUI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kevinelliott/agentmanager 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-22"]
     y-axis "stars" 36 --> 42
-    line [37, 39, 40, 41, 40, 40]
+    line [37, 39, 40, 41, 40, 41]
 ```
 
-2026-10-19 37 → 2026-11-21 40（+3）
+2026-10-20 37 → 2026-11-22 41（+4）
 
 
 ---

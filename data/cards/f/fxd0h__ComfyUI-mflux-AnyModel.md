@@ -1,6 +1,6 @@
 # fxd0h/ComfyUI-mflux-AnyModel
 
-⭐ 17 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/fxd0h/ComfyUI-mflux-AnyModel) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/fxd0h/ComfyUI-mflux-AnyModel) · 个人维护
 
 **在 ComfyUI 中于 Apple Silicon 上运行 mflux/MLX 图像模型的节点集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fxd0h/ComfyUI-mflux-AnyModel 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 14 --> 18
-    line [16, 15, 17, 17]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 14 --> 19
+    line [16, 15, 17, 18]
 ```
 
-2026-10-19 16 → 2026-11-21 17（+1）
+2026-10-20 16 → 2026-11-22 18（+2）
 
 
 ---

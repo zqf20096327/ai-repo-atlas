@@ -1,6 +1,6 @@
 # felipebasurto/testectomy
 
-⭐ 14 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/felipebasurto/testectomy) · 个人维护
+⭐ 15 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/felipebasurto/testectomy) · 个人维护
 
 **给 AI agent 用的测试治理技能：修剪低价值测试并沉淀 SPEC.md**
 
@@ -41,6 +41,18 @@
 > L3:  One agent skill for tests: it stops low-value tests at write time, cuts an existing suite down to the tests that ma
 > L7:  Agent Skills format
 > L32: With no argument it works on the whole repo, one area at a time. Codex uses `$testectomy`, the Claude Code plugin u
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "felipebasurto/testectomy 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
+```
+
+2026-11-21 14 → 2026-11-22 15（+1）
 
 
 ---

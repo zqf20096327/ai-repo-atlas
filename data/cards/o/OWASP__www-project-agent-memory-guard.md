@@ -1,6 +1,6 @@
 # OWASP/www-project-agent-memory-guard
 
-⭐ 208 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/OWASP/www-project-agent-memory-guard) · [官网](https://owasp.org/projects/agent-memory-guard) · 组织维护
+⭐ 209 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/OWASP/www-project-agent-memory-guard) · [官网](https://owasp.org/projects/agent-memory-guard) · 组织维护
 
 **OWASP 项目：拦截 AI agent 记忆投毒的运行时防御中间件**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "OWASP/www-project-agent-memory-guard 星数(近 15 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 186 --> 210
-    line [189, 188, 189, 190, 191, 193, 189, 200, 201, 202, 203, 204, 205, 206, 208]
+    title "OWASP/www-project-agent-memory-guard 星数(近 16 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 186 --> 211
+    line [189, 188, 189, 190, 191, 193, 189, 200, 201, 202, 203, 204, 205, 206, 208, 209]
 ```
 
-2026-10-19 189 → 2026-11-21 208（+19）
+2026-10-20 189 → 2026-11-22 209（+20）
 
 
 ---

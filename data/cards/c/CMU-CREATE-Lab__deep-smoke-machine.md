@@ -44,13 +44,13 @@ Project RISE 的代码与数据集发布仓库：基于 I3D（Two-Stream Inflate
 
 ```mermaid
 xychart-beta
-    title "CMU-CREATE-Lab/deep-smoke-machine 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "CMU-CREATE-Lab/deep-smoke-machine 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 124 --> 127
-    line [125, 126]
+    line [125, 126, 126]
 ```
 
-2026-10-19 125 → 2026-11-21 126（+1）
+2026-10-20 125 → 2026-11-22 126（+1）
 
 
 ---

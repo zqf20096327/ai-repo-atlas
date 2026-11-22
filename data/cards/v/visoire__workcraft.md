@@ -1,6 +1,6 @@
 # visoire/workcraft
 
-⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/visoire/workcraft) · [官网](https://workcraft.cc/) · 组织维护
+⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/visoire/workcraft) · [官网](https://workcraft.cc/) · 组织维护
 
 **本地优先的统一工作区，内置可私有的 AI 助手**
 
@@ -45,13 +45,13 @@ WorkCraft 是一个本地优先的单窗口工作区，整合文档、表格、�
 
 ```mermaid
 xychart-beta
-    title "visoire/workcraft 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-21"]
+    title "visoire/workcraft 星数(近 4 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    line [3, 4, 5, 5]
 ```
 
-2026-11-14 3 → 2026-11-21 5（+2）
+2026-11-14 3 → 2026-11-22 5（+2）
 
 
 ---

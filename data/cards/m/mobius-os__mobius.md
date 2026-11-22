@@ -1,6 +1,6 @@
 # mobius-os/mobius
 
-⭐ 43 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mobius-os/mobius) · [官网](https://www.mobius.you) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mobius-os/mobius) · [官网](https://www.mobius.you) · 组织维护
 
 **自托管个人 AI agent 工作区：对话式 agent 代办任务并构建应用**
 
@@ -46,12 +46,12 @@ Möbius 是一个 MIT 许可的自托管平台，作为 AI agent 的运行环境
 ```mermaid
 xychart-beta
     title "mobius-os/mobius 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-25", "2026-11-14", "2026-11-22"]
     y-axis "stars" 38 --> 44
     line [39, 41, 42, 43, 43]
 ```
 
-2026-10-19 39 → 2026-11-21 43（+4）
+2026-10-20 39 → 2026-11-22 43（+4）
 
 
 ---

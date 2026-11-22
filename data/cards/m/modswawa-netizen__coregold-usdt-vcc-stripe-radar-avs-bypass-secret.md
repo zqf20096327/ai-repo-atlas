@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 7 --> 23
-    line [8, 22]
+    line [8, 22, 22]
 ```
 
-2026-11-20 8 → 2026-11-21 22（+14）
+2026-11-20 8 → 2026-11-22 22（+14）
 
 
 ---

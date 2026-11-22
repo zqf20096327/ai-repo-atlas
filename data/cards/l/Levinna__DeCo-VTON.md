@@ -1,6 +1,6 @@
 # Levinna/DeCo-VTON
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/Levinna/DeCo-VTON) · [官网](https://arxiv.org/abs/2511.18775) · 组织维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/Levinna/DeCo-VTON) · [官网](https://arxiv.org/abs/2511.18775) · 组织维护
 
 **面向研究者的扩散模型虚拟试穿实现：服装条件与去噪目标解耦**
 
@@ -45,12 +45,12 @@ ECCV 2026 论文的官方 PyTorch 实现，最初以 Re-CatVTON 发布。单一 
 ```mermaid
 xychart-beta
     title "Levinna/DeCo-VTON 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-11-08 10 → 2026-11-21 10（+0）
+2026-11-08 10 → 2026-11-22 12（+2）
 
 
 ---

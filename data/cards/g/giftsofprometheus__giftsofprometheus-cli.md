@@ -1,6 +1,6 @@
 # giftsofprometheus/giftsofprometheus-cli
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/giftsofprometheus/giftsofprometheus-cli) · [官网](https://giftsofprometheus.com/?utm_source=github&utm_medium=repo&utm_campaign=cli) · 组织维护
+⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/giftsofprometheus/giftsofprometheus-cli) · [官网](https://giftsofprometheus.com/?utm_source=github&utm_medium=repo&utm_campaign=cli) · 组织维护
 
 **俄语 AI 知识目录 CLI：供开发者与其 AI 代理检索大会演讲转录**
 
@@ -40,6 +40,18 @@
 > L5: **Дары Прометея** — мировые знания об ИИ на русском: доклады о разработке с AI-агентами, RAG, evals, MCP и AI-продук
 > L7: Этот CLI открывает каталог для терминала и AI-агентов: Claude Code, Codex, Cursor и других. Агент сам подберёт докла
 > L86: **Конференции:** AI Engineer World's Fair 2026, AI Engineer World's Fair 2025, AI Engineer Europe 2026, Agentic Dev
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "giftsofprometheus/giftsofprometheus-cli 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-21 7 → 2026-11-22 7（+0）
 
 
 ---

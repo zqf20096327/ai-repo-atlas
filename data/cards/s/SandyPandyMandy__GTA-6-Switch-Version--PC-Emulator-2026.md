@@ -1,10 +1,10 @@
 # SandyPandyMandy/GTA-6-Switch-Version--PC-Emulator-2026
 
-⭐ 35 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SandyPandyMandy/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
+⭐ 30 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SandyPandyMandy/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
 
-**GTA VI PC 版安装准备与性能优化指南站（含 Windows 安装器）**
+**面向 Windows 玩家的 GTA VI PC 版安装与优化准备指南**
 
-面向 Windows 10/11 用户的 GTA VI PC 版准备资源：提供安装器下载、系统兼容性检查（Windows 版本、DirectX、驱动、存储）、图形与 FPS 优化建议、常见安装/显示错误排查步骤，以及 Rockstar Games Launcher 准备指南。README 明确声明 PC 版发布日期与官方硬件要求尚未公布，安装器本身不包含游戏文件，游戏需经授权渠道另行获取。内容含 SEO 关键词板块。
+一个针对尚未正式发售的 GTA VI PC 版的资源页面：提供 Windows 环境准备步骤（系统更新、GPU 驱动更新、存储检查、Rockstar Games Launcher 准备）、图形与 FPS 优化说明、常见安装/性能问题排查条目。官方 PC 系统要求与发售日期尚未公布，README 中的配置表全部标注为未确认。随附的 Windows 安装包据 README 声明不含游戏文件。
 
 ## 筛选速览
 
@@ -16,43 +16,43 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 提供 Windows 环境兼容性准备清单（驱动、DirectX、存储检查）
-- 覆盖图形设置、FPS 优化与卡顿/显示/安装错误排查
-- 提供 NVIDIA/AMD/Intel 驱动与 Rockstar Launcher 官方链接
-- README 声明安装器不包含 GTA VI 游戏文件
+- Windows 兼容性准备清单（DirectX/驱动/存储/系统更新）
+- 图形设置与 FPS 排查条目汇总
+- 按驱动厂商（NVIDIA/AMD/Intel）提供官方驱动链接
+- 官方 PC 要求未公布，配置表标注未确认
 
 ## 适用场景
 
-- 在官方 PC 版发布前准备 Windows 系统环境
-- 排查 PC 游戏常见的低 FPS、卡顿与显示问题
-- 查阅 Rockstar Games Launcher 的配置准备步骤
+- 为未来的 GTA VI PC 版提前检查 Windows 环境与驱动
+- 排查 PC 游戏中的低帧率、卡顿与显示问题
+- 了解 Rockstar Games Launcher 的获取与准备方式
 
 ## 场景标签
 
- · 领域:游戏/安装与优化指南
+ · 领域:游戏/桌面工具
 
 ## 证据(README 行号)
 
+> L3: ### GTA 6 PC Installation, Setup & Performance Guide
 > L5: A dedicated PC installation and configuration resource for Grand Theft Auto VI, covering Windows preparation, graphi
-> L17: This repository is dedicated to Windows users preparing for the future PC edition of GTA VI.
-> L19: The installation resource focuses on:
+> L30: The GTA VI PC release date and official hardware requirements have not yet been announced.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "SandyPandyMandy/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 34 --> 37
-    line [36, 35]
+    title "SandyPandyMandy/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 29 --> 37
+    line [36, 35, 30]
 ```
 
-2026-11-20 36 → 2026-11-21 35（-1）
+2026-11-20 36 → 2026-11-22 30（-6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `6954d37a13d3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `2fe487426686` · [字段定义](../../DATASET.md)*

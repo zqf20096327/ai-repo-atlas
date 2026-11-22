@@ -1,6 +1,6 @@
 # packstub/filament-agents
 
-⭐ 14 · PHP · MIT · 推送 2026-11-20 · [GitHub](https://github.com/packstub/filament-agents) · [官网](https://packstub.dev/plugins/filament-agents) · 组织维护
+⭐ 14 · PHP · MIT · 推送 2026-11-21 · [GitHub](https://github.com/packstub/filament-agents) · [官网](https://packstub.dev/plugins/filament-agents) · 组织维护
 
 **为 Filament v5 面板提供内置 AI 助手与 MCP 服务器的 Laravel 插件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "packstub/filament-agents 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "packstub/filament-agents 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 12 --> 15
-    line [13, 14]
+    line [13, 14, 14]
 ```
 
-2026-10-19 13 → 2026-11-21 14（+1）
+2026-10-20 13 → 2026-11-22 14（+1）
 
 
 ---

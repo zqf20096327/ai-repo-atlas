@@ -1,6 +1,6 @@
 # ever-co/ever-works
 
-⭐ 201 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/ever-co/ever-works) · [官网](https://ever.works) · 组织维护
+⭐ 202 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ever-co/ever-works) · [官网](https://ever.works) · 组织维护
 
 **自主运营整站业务的 agentic runtime：从创意到建站发布**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ever-co/ever-works 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 191 --> 202
-    line [192, 197, 198, 199, 200, 201]
+    title "ever-co/ever-works 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 191 --> 203
+    line [192, 197, 198, 199, 200, 201, 202]
 ```
 
-2026-11-08 192 → 2026-11-21 201（+9）
+2026-11-08 192 → 2026-11-22 202（+10）
 
 
 ---

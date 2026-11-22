@@ -1,6 +1,6 @@
 # polyglav/polyglav
 
-⭐ 15 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/polyglav/polyglav) · [官网](https://polyglav.github.io/polyglav/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/polyglav/polyglav) · [官网](https://polyglav.github.io/polyglav/) · 个人维护
 
 **终端里的多智能体任务编排 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "polyglav/polyglav 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 10 --> 16
-    line [11, 15]
+    title "polyglav/polyglav 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 10 --> 20
+    line [11, 15, 19]
 ```
 
-2026-11-20 11 → 2026-11-21 15（+4）
+2026-11-20 11 → 2026-11-22 19（+8）
 
 
 ---

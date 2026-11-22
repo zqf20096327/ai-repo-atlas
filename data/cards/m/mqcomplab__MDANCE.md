@@ -1,6 +1,6 @@
 # mqcomplab/MDANCE
 
-⭐ 148 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/mqcomplab/MDANCE) · [官网](https://mqcomplab.github.io/MDANCE/) · 组织维护
+⭐ 148 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mqcomplab/MDANCE) · [官网](https://mqcomplab.github.io/MDANCE/) · 组织维护
 
 **分子动力学轨迹分析工具包：提供9种线性复杂度聚类算法**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mqcomplab/MDANCE 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-22"]
     y-axis "stars" 145 --> 149
     line [147, 146, 147, 148, 148]
 ```
 
-2026-10-19 147 → 2026-11-21 148（+1）
+2026-10-20 147 → 2026-11-22 148（+1）
 
 
 ---

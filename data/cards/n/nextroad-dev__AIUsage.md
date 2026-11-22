@@ -1,6 +1,6 @@
 # nextroad-dev/AIUsage
 
-⭐ 7 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/nextroad-dev/AIUsage) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **让 AI 订阅用户在手机上一屏查看各家用量与剩余额度**
 

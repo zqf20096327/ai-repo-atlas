@@ -1,6 +1,6 @@
 # lean-explore/lean-explore
 
-⭐ 83 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/lean-explore/lean-explore) · [官网](https://www.leanexplore.com/) · 个人维护
+⭐ 83 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lean-explore/lean-explore) · [官网](https://www.leanexplore.com/) · 个人维护
 
 **Lean 4 声明的语义搜索引擎，含 MCP 服务与插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lean-explore/lean-explore 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-22"]
     y-axis "stars" 81 --> 84
     line [82, 83, 83]
 ```
 
-2026-10-19 82 → 2026-11-21 83（+1）
+2026-10-20 82 → 2026-11-22 83（+1）
 
 
 ---

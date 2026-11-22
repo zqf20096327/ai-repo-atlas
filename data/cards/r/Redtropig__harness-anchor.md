@@ -1,6 +1,6 @@
 # Redtropig/harness-anchor
 
-⭐ 13 · Shell · MIT · 推送 2026-07-31 · [GitHub](https://github.com/Redtropig/harness-anchor) · 个人维护
+⭐ 14 · Shell · MIT · 推送 2026-07-31 · [GitHub](https://github.com/Redtropig/harness-anchor) · 个人维护
 
 **Claude Code agent 的 warn-only 运行时状态层，落盘并要求证据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Redtropig/harness-anchor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-21 13（+0）
+2026-10-19 13 → 2026-11-22 14（+1）
 
 
 ---

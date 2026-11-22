@@ -1,6 +1,6 @@
 # PabloELara/E3WS
 
-⭐ 17 · Python · CC-BY-4.0 · 推送 2026-04-28 · [GitHub](https://github.com/PabloELara/E3WS) · 个人维护
+⭐ 18 · Python · CC-BY-4.0 · 推送 2026-04-28 · [GitHub](https://github.com/PabloELara/E3WS) · 个人维护
 
 **单台地震台站的机器学习地震预警系统（3 秒 P 波即估震级）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PabloELara/E3WS 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-19 17 → 2026-11-21 17（+0）
+2026-10-20 17 → 2026-11-22 18（+1）
 
 
 ---

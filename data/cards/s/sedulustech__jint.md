@@ -1,6 +1,6 @@
 # sedulustech/jint
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/sedulustech/jint) · [官网](https://jint.sh) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sedulustech/jint) · [官网](https://jint.sh) · 组织维护
 
 **面向开发者的语义化代码 linter：用 AI 分类器执行自定义规则**
 
@@ -44,12 +44,12 @@ jint 用 Treesitter 从源码构造文件/函数/类等词法单元，再通过 
 ```mermaid
 xychart-beta
     title "sedulustech/jint 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 21 --> 25
     line [22, 24, 24]
 ```
 
-2026-11-08 22 → 2026-11-21 24（+2）
+2026-11-08 22 → 2026-11-22 24（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # pushkarkumarvats/OmniQuant
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-02-20 · [GitHub](https://github.com/pushkarkumarvats/OmniQuant) · 个人维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-02-20 · [GitHub](https://github.com/pushkarkumarvats/OmniQuant) · 个人维护
 
 **Python/Rust/TS 混合的量化研究与交易仿真平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pushkarkumarvats/OmniQuant 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-22"]
     y-axis "stars" 16 --> 21
-    line [17, 18, 19, 17, 19, 20, 20]
+    line [17, 18, 19, 17, 19, 20, 19]
 ```
 
-2026-10-19 17 → 2026-11-21 20（+3）
+2026-10-20 17 → 2026-11-22 19（+2）
 
 
 ---

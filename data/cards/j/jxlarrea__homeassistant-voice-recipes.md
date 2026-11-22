@@ -1,6 +1,6 @@
 # jxlarrea/homeassistant-voice-recipes
 
-⭐ 21 · Go · MIT · 推送 2026-06-13 · [GitHub](https://github.com/jxlarrea/homeassistant-voice-recipes) · 个人维护
+⭐ 22 · Go · MIT · 推送 2026-06-13 · [GitHub](https://github.com/jxlarrea/homeassistant-voice-recipes) · 个人维护
 
 **Home Assistant 本地 GPU 语音控制全栈部署配方**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jxlarrea/homeassistant-voice-recipes 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 18, 19, 21, 21]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 18, 19, 21, 22]
 ```
 
-2026-10-19 18 → 2026-11-21 21（+3）
+2026-10-20 18 → 2026-11-22 22（+4）
 
 
 ---

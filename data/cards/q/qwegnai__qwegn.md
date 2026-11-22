@@ -1,6 +1,6 @@
 # qwegnai/qwegn
 
-⭐ 3 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/qwegnai/qwegn) · 个人维护
+⭐ 4 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/qwegnai/qwegn) · 个人维护
 
 **Apple Silicon 本地 LLM/VLM 推理引擎，Swift+Metal 实现**
 
@@ -40,6 +40,18 @@
 > L11: **Qwegn** (`qwg`) is a from-scratch LLM/VLM inference engine for Apple Silicon,
 > L12: written in Swift 6.2 and Metal 4 — no MLX, no llama.cpp, no PyTorch at runtime.
 > L57: - **Model-agnostic runtime** — hybrid, looped and MoE architectures driven by the model descriptor (`QWModelDescrip
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "qwegnai/qwegn 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-21 3 → 2026-11-22 4（+1）
 
 
 ---

@@ -41,6 +41,18 @@ Ragator 对一个或多个 YouTube 频道的转写文本与视觉描述建立索
 > L13: Ragator indexe les transcriptions et les descriptions visuelles des vidéos d'une ou plusieurs chaînes YouTube, puis
 > L22: - 🖥️ **Interface web**, ligne de commande et **serveur MCP** pour Claude, Cursor et les autres clients IA.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lfpoulain/ragator 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `517512a48630` · [字段定义](../../DATASET.md)*

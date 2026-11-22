@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dicklesworthstone/ultimate_mcp_server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 160 --> 165
-    line [161, 162, 164, 164]
+    title "Dicklesworthstone/ultimate_mcp_server 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 161 --> 165
+    line [162, 164, 164]
 ```
 
-2026-10-18 161 → 2026-11-21 164（+3）
+2026-10-19 162 → 2026-11-22 164（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # zoott28354/sirius-ai-tray-assistant
 
-⭐ 21 · Python · GPL-3.0 · 推送 2026-04-23 · [GitHub](https://github.com/zoott28354/sirius-ai-tray-assistant) · 个人维护 · 中文 README
+⭐ 22 · Python · GPL-3.0 · 推送 2026-04-23 · [GitHub](https://github.com/zoott28354/sirius-ai-tray-assistant) · 个人维护 · 中文 README
 
 **Windows 托盘常驻的本地 AI 助手：截图翻译、图像分析与持久对话**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zoott28354/sirius-ai-tray-assistant 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 13 --> 22
-    line [14, 19, 20, 21, 21]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 13 --> 23
+    line [14, 19, 20, 21, 22]
 ```
 
-2026-11-08 14 → 2026-11-21 21（+7）
+2026-11-08 14 → 2026-11-22 22（+8）
 
 
 ---

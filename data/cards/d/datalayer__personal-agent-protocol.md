@@ -1,6 +1,6 @@
 # datalayer/personal-agent-protocol
 
-⭐ 6 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/datalayer/personal-agent-protocol) · [官网](https://personal-agent-protocol.datalayer.tech) · 组织维护
+⭐ 6 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/datalayer/personal-agent-protocol) · [官网](https://personal-agent-protocol.datalayer.tech) · 组织维护
 
 **为个人 agent 接入公司 agent 的 PAP 协议 Python/TypeScript SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datalayer/personal-agent-protocol 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21"]
+    title "datalayer/personal-agent-protocol 星数(近 7 点)"
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 3, 4, 5, 6]
+    line [3, 4, 3, 4, 5, 6, 6]
 ```
 
-2026-10-19 3 → 2026-11-21 6（+3）
+2026-10-20 3 → 2026-11-22 6（+3）
 
 
 ---

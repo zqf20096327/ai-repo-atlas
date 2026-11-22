@@ -46,12 +46,12 @@ AGINT 定位为 dsh（DeepSeek Harness）之上的规范与插件集合，明确
 ```mermaid
 xychart-beta
     title "Anmulzhao/DSH-AGINT 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-19", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-21 10（+0）
+2026-11-19 10 → 2026-11-22 10（+0）
 
 
 ---

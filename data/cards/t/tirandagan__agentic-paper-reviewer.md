@@ -1,6 +1,6 @@
 # tirandagan/agentic-paper-reviewer
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tirandagan/agentic-paper-reviewer) · [官网](https://github.com/tirandagan/agentic-paper-reviewer/blob/main/docs/USER_GUIDE.md) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tirandagan/agentic-paper-reviewer) · [官网](https://github.com/tirandagan/agentic-paper-reviewer/blob/main/docs/USER_GUIDE.md) · 个人维护
 
 **为论文作者在 Claude Code 中生成有据可查的审稿报告**
 
@@ -39,6 +39,18 @@
 
 > L28: This plugin brings that approach into Claude Code, so an author can run it on
 > L107: It needs `python3` (3.8 or later; standard library only) and access to
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tirandagan/agentic-paper-reviewer 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-21 3 → 2026-11-22 4（+1）
 
 
 ---

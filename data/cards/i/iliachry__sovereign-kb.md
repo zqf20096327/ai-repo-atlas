@@ -1,6 +1,6 @@
 # iliachry/sovereign-kb
 
-⭐ 3 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/iliachry/sovereign-kb) · [官网](https://iliachry.gr) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/iliachry/sovereign-kb) · [官网](https://iliachry.gr) · 个人维护
 
 **为 AI 编码 agent 提供本地 Markdown 记忆与质量审计的 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "iliachry/sovereign-kb 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-10-31", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-10-31 3 → 2026-11-21 3（+0）
+2026-10-31 3 → 2026-11-22 4（+1）
 
 
 ---

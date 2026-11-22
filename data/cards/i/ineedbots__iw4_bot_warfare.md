@@ -1,6 +1,6 @@
 # ineedbots/iw4_bot_warfare
 
-⭐ 187 · GSC · 推送 2026-06-16 · [GitHub](https://github.com/ineedbots/iw4_bot_warfare) · [官网](https://www.moddb.com/mods/bot-warfare) · 个人维护
+⭐ 188 · GSC · 推送 2026-06-16 · [GitHub](https://github.com/ineedbots/iw4_bot_warfare) · [官网](https://www.moddb.com/mods/bot-warfare) · 个人维护
 
 **MW2（IW4x）多人游戏加 AI 机器人的 GSC 模组**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ineedbots/iw4_bot_warfare 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 182 --> 188
-    line [183, 184, 185, 183, 186, 187, 187]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 182 --> 189
+    line [183, 184, 185, 183, 186, 187, 188]
 ```
 
-2026-10-19 183 → 2026-11-21 187（+4）
+2026-10-20 183 → 2026-11-22 188（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # cosmiciron/layoutmaster
 
-⭐ 44 · TypeScript · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/cosmiciron/layoutmaster) · [官网](https://layoutmaster.dev) · 个人维护
+⭐ 43 · TypeScript · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/cosmiciron/layoutmaster) · [官网](https://layoutmaster.dev) · 个人维护
 
 **浏览器内离线文本排版引擎：不依赖 DOM 直接计算布局**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cosmiciron/layoutmaster 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 42 --> 45
+    line [44, 43]
 ```
 
-2026-10-19 44 → 2026-11-21 44（+0）
+2026-10-20 44 → 2026-11-22 43（-1）
 
 
 ---

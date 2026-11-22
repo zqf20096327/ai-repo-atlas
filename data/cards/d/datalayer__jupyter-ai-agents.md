@@ -1,6 +1,6 @@
 # datalayer/jupyter-ai-agents
 
-⭐ 163 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/datalayer/jupyter-ai-agents) · [官网](https://jupyter-ai-agents.datalayer.tech) · 组织维护
+⭐ 163 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/datalayer/jupyter-ai-agents) · [官网](https://jupyter-ai-agents.datalayer.tech) · 组织维护
 
 **JupyterLab 的 AI Agent：对话操控笔记本并执行代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datalayer/jupyter-ai-agents 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 162 --> 164
     line [163, 163]
 ```
 
-2026-10-19 163 → 2026-11-21 163（+0）
+2026-10-20 163 → 2026-11-22 163（+0）
 
 
 ---

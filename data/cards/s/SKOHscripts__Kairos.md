@@ -1,6 +1,6 @@
 # SKOHscripts/Kairos
 
-⭐ 21 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SKOHscripts/Kairos) · [官网](https://skohscripts.github.io/Kairos/) · 个人维护
+⭐ 21 · Kotlin · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/SKOHscripts/Kairos) · [官网](https://skohscripts.github.io/Kairos/) · 个人维护
 
 **自排序待办清单：设备端机器学习估计任务耗时**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SKOHscripts/Kairos 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-21"]
+    title "SKOHscripts/Kairos 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 14 --> 22
-    line [15, 16, 17, 18, 20, 21]
+    line [15, 16, 17, 18, 20, 21, 21]
 ```
 
-2026-11-08 15 → 2026-11-21 21（+6）
+2026-11-08 15 → 2026-11-22 21（+6）
 
 
 ---

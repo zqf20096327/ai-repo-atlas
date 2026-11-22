@@ -40,6 +40,18 @@
 > L5: A reproducible LoRA experiment with a byte-level causal transformer, leakage-aware dataset preparation, held-out eva
 > L94: Independent educational implementation developed with AI assistance. Source code,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nazek52/tuneproof 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `92c830132bff` · [字段定义](../../DATASET.md)*

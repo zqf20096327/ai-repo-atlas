@@ -1,6 +1,6 @@
 # moxcomic/archer
 
-⭐ 69 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/moxcomic/archer) · 个人维护
+⭐ 69 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/moxcomic/archer) · 个人维护
 
 **麻将 AI 开发框架（README 仅含名称与文档链接）**
 
@@ -40,12 +40,12 @@
 ```mermaid
 xychart-beta
     title "moxcomic/archer 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 68 --> 72
     line [71, 69, 69]
 ```
 
-2026-10-19 71 → 2026-11-21 69（-2）
+2026-10-20 71 → 2026-11-22 69（-2）
 
 
 ---

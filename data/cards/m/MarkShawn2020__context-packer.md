@@ -46,12 +46,12 @@ Python 编写的命令行工具（pip 安装，命令 ctxpack），将项目目�
 ```mermaid
 xychart-beta
     title "MarkShawn2020/context-packer 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

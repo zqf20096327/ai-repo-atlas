@@ -1,6 +1,6 @@
 # SnowCheetos/AutoMoonBot
 
-⭐ 36 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/SnowCheetos/AutoMoonBot) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SnowCheetos/AutoMoonBot) · 个人维护
 
 **用异构图神经网络与强化学习做算法交易的实验性代码库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SnowCheetos/AutoMoonBot 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-21"]
+    x-axis ["2026-11-14", "2026-11-22"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-11-14 36 → 2026-11-21 36（+0）
+2026-11-14 36 → 2026-11-22 36（+0）
 
 
 ---

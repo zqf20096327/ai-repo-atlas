@@ -1,6 +1,6 @@
 # YusukeIt0/dot-link
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/YusukeIt0/dot-link) · [官网](https://yusukeit0.github.io/dot-link/) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YusukeIt0/dot-link) · [官网](https://yusukeit0.github.io/dot-link/) · 个人维护
 
 **把 ChatGPT Dot 接入 Even G2 智能眼镜的 Mac 中继应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YusukeIt0/dot-link 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
+    title "YusukeIt0/dot-link 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 6
-    line [3, 5]
+    line [3, 5, 5]
 ```
 
-2026-11-18 3 → 2026-11-21 5（+2）
+2026-11-18 3 → 2026-11-22 5（+2）
 
 
 ---

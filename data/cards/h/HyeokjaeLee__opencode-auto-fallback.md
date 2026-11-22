@@ -1,6 +1,6 @@
 # HyeokjaeLee/opencode-auto-fallback
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HyeokjaeLee/opencode-auto-fallback) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HyeokjaeLee/opencode-auto-fallback) · 个人维护
 
 **OpenCode 插件：模型出错时自动切换备用链与重试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HyeokjaeLee/opencode-auto-fallback 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-21"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-22"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-21 12（+1）
+2026-10-19 11 → 2026-11-22 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Orva-Studio/hance
 
-⭐ 83 · TypeScript · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Orva-Studio/hance) · [官网](https://hance.video/) · 组织维护
+⭐ 84 · TypeScript · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Orva-Studio/hance) · [官网](https://hance.video/) · 组织维护
 
 **命令行电影感视频调色/特效工具，可被 AI agent 驱动**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Orva-Studio/hance 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 83]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 84]
 ```
 
-2026-10-19 82 → 2026-11-21 83（+1）
+2026-10-20 82 → 2026-11-22 84（+2）
 
 
 ---

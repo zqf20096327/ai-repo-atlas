@@ -1,6 +1,6 @@
 # agentic-loops-x/Reels-RSI
 
-⭐ 4 · TeX · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/agentic-loops-x/Reels-RSI) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **开源 AI 短视频导演：一句话生成讲解 reel 并随每次产出自我改进**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

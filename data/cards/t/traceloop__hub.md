@@ -1,6 +1,6 @@
 # traceloop/hub
 
-⭐ 233 · Rust · Apache-2.0 · 推送 2026-07-16 · [GitHub](https://github.com/traceloop/hub) · [官网](https://www.traceloop.com/docs/hub) · 组织维护
+⭐ 234 · Rust · Apache-2.0 · 推送 2026-07-16 · [GitHub](https://github.com/traceloop/hub) · [官网](https://www.traceloop.com/docs/hub) · 组织维护
 
 **Rust 编写的 LLM 网关：统一 OpenAI 兼容 API 接多家提供商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "traceloop/hub 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 230 --> 234
-    line [232, 231, 233, 233]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 230 --> 235
+    line [232, 231, 233, 234]
 ```
 
-2026-10-19 232 → 2026-11-21 233（+1）
+2026-10-20 232 → 2026-11-22 234（+2）
 
 
 ---

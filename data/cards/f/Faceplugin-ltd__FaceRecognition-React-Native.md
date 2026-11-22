@@ -45,13 +45,13 @@ FacePlugin 公司的 React Native 人脸识别 SDK，封装 Android/iOS 原生�
 
 ```mermaid
 xychart-beta
-    title "Faceplugin-ltd/FaceRecognition-React-Native 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    title "Faceplugin-ltd/FaceRecognition-React-Native 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-21", "2026-11-22"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23]
+    line [21, 22, 23, 23]
 ```
 
-2026-10-19 21 → 2026-11-21 23（+2）
+2026-10-20 21 → 2026-11-22 23（+2）
 
 
 ---

@@ -45,12 +45,12 @@ Bedrock 及其他 AWS 生成式 AI 服务的 API 转发工具（BRConnector）�
 ```mermaid
 xychart-beta
     title "aws-samples/sample-connector-for-bedrock 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 103 --> 105
     line [104, 104]
 ```
 
-2026-10-19 104 → 2026-11-21 104（+0）
+2026-10-20 104 → 2026-11-22 104（+0）
 
 
 ---

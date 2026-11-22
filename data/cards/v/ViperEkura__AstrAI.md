@@ -1,6 +1,6 @@
 # ViperEkura/AstrAI
 
-⭐ 111 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ViperEkura/AstrAI) · 个人维护 · 中文 README
+⭐ 111 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ViperEkura/AstrAI) · 个人维护 · 中文 README
 
 **轻量级 Transformer 训练与推理全流程框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ViperEkura/AstrAI 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-22"]
     y-axis "stars" 110 --> 114
     line [113, 112, 111, 111]
 ```
 
-2026-10-19 113 → 2026-11-21 111（-2）
+2026-10-20 113 → 2026-11-22 111（-2）
 
 
 ---

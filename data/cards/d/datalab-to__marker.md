@@ -1,6 +1,6 @@
 # datalab-to/marker
 
-⭐ 41,000 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/datalab-to/marker) · [官网](https://www.datalab.to) · 组织维护
+⭐ 41,011 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/datalab-to/marker) · [官网](https://www.datalab.to) · 组织维护
 
 **将 PDF/Office/EPUB 等文档转为 Markdown/JSON 的深度学习解析工具**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "datalab-to/marker 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 40958 --> 41003
-    line [40961, 40980, 40988, 41000]
+    title "datalab-to/marker 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 40956 --> 41016
+    line [40961, 40980, 40988, 41000, 41011]
 ```
 
-2026-11-18 40,961 → 2026-11-21 41,000（+39）
+2026-11-18 40,961 → 2026-11-22 41,011（+50）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kabirnarang39/wardline 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "kabirnarang39/wardline 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
 ```
 
-2026-10-18 16 → 2026-11-21 17（+1）
+2026-10-19 17 → 2026-11-22 17（+0）
 
 
 ---

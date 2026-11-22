@@ -1,6 +1,6 @@
 # ekoahamdutivnasti/VRINDA
 
-⭐ 14 · Python · Apache-2.0 · 推送 2025-11-25 · [GitHub](https://github.com/ekoahamdutivnasti/VRINDA) · [官网](https://ekoahamdutivnasti.online/vrinda/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **宣称的印度自研 AI 助手项目，仓库仅含占位文件与介绍文档**
 
@@ -11,7 +11,7 @@ Vrinda AI 自称是基于 Python 的 AI 助手，宣称具备多模态处理（�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

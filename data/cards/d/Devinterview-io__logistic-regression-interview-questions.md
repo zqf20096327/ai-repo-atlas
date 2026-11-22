@@ -44,12 +44,12 @@ Devinterview.io 维护的机器学习/数据科学面试准备资料仓库：以
 ```mermaid
 xychart-beta
     title "Devinterview-io/logistic-regression-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-19 28 → 2026-11-21 29（+1）
+2026-10-20 28 → 2026-11-22 29（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PerryLink/dsh-score
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PerryLink/dsh-score) · [官网](https://www.npmjs.com/package/dsh-score) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/dsh-score) · [官网](https://www.npmjs.com/package/dsh-score) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 插件做多维质量评分的 DSH 插件**
 
@@ -46,12 +46,12 @@ DeepSeek Harness 平台的插件，面向 DSH 插件生态做质量评分：对 
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-score 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-19 13 → 2026-11-21 14（+1）
+2026-10-20 13 → 2026-11-22 15（+2）
 
 
 ---

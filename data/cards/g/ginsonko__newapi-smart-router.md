@@ -1,6 +1,6 @@
 # ginsonko/newapi-smart-router
 
-⭐ 18 · Go · AGPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/ginsonko/newapi-smart-router) · [官网](https://github.com/ginsonko/newapi-smart-router#readme) · 个人维护 · 中文 README
+⭐ 19 · Go · AGPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/ginsonko/newapi-smart-router) · [官网](https://github.com/ginsonko/newapi-smart-router#readme) · 个人维护 · 中文 README
 
 **面向 New API 站点的每 Key 智能路由与自动容灾系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ginsonko/newapi-smart-router 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-21 18（+0）
+2026-10-19 18 → 2026-11-22 19（+1）
 
 
 ---

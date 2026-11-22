@@ -1,6 +1,6 @@
 # VforVitorio/F1-StratLab
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/VforVitorio/F1-StratLab) · [官网](https://f1stratlab.com/) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/VforVitorio/F1-StratLab) · [官网](https://f1stratlab.com/) · 个人维护
 
 **F1 赛事回放与多智能体进站策略模拟平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VforVitorio/F1-StratLab 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 32, 32]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 28 --> 35
+    line [29, 30, 32, 34]
 ```
 
-2026-10-19 29 → 2026-11-21 32（+3）
+2026-10-20 29 → 2026-11-22 34（+5）
 
 
 ---

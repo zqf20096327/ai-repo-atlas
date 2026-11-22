@@ -1,6 +1,6 @@
 # ranajahanzaib/llm-chat-template-compatibility
 
-⭐ 4 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ranajahanzaib/llm-chat-template-compatibility) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/llm-chat-template-compatibility) · 个人维护
 
 **比较 MLX-LM 与 llama.cpp 渲染与分词差异的调试工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/llm-chat-template-compatibility 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-11", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-11 4 → 2026-11-21 4（+0）
+2026-11-11 4 → 2026-11-22 4（+0）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Marco-Congedo/PosDefManifoldML.jl 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "Marco-Congedo/PosDefManifoldML.jl 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 24 --> 27
-    line [25, 26]
+    line [25, 26, 26]
 ```
 
-2026-10-19 25 → 2026-11-21 26（+1）
+2026-10-20 25 → 2026-11-22 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # barretlee/agent-pulse
 
-⭐ 240 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/barretlee/agent-pulse) · [官网](https://barretlee.github.io/agent-pulse/) · 个人维护 · 中文 README
+⭐ 241 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/barretlee/agent-pulse) · [官网](https://barretlee.github.io/agent-pulse/) · 个人维护 · 中文 README
 
 **面向决策者的 AI 行业情报系统：信号→证据→判断→下一步信号**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "barretlee/agent-pulse 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 238 --> 241
-    line [240, 239, 240, 240]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 238 --> 242
+    line [240, 239, 240, 241]
 ```
 
-2026-10-19 240 → 2026-11-21 240（+0）
+2026-10-20 240 → 2026-11-22 241（+1）
 
 
 ---

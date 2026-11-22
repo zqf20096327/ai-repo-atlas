@@ -44,13 +44,13 @@ CHI 2022 论文 Neo 的配套代码：一个可视化分析系统，支持创建
 
 ```mermaid
 xychart-beta
-    title "apple-aiml-research/ml-hierarchical-confusion-matrix 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
+    title "apple-aiml-research/ml-hierarchical-confusion-matrix 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-11", "2026-11-21", "2026-11-22"]
     y-axis "stars" 311 --> 314
-    line [312, 313, 312]
+    line [312, 313, 312, 312]
 ```
 
-2026-10-19 312 → 2026-11-21 312（+0）
+2026-10-20 312 → 2026-11-22 312（+0）
 
 
 ---

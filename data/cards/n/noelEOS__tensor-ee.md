@@ -1,6 +1,6 @@
 # noelEOS/tensor-ee
 
-⭐ 8 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/noelEOS/tensor-ee) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/noelEOS/tensor-ee) · 个人维护
 
 **在 Google Earth Engine 内原生运行 PyTorch 模型的转换库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "noelEOS/tensor-ee 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-22"]
     y-axis "stars" 2 --> 9
     line [3, 4, 8, 8]
 ```
 
-2026-10-30 3 → 2026-11-21 8（+5）
+2026-10-30 3 → 2026-11-22 8（+5）
 
 
 ---

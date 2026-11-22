@@ -1,6 +1,6 @@
 # whutlichao/orchestra-auto
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/whutlichao/orchestra-auto) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/whutlichao/orchestra-auto) · 个人维护 · 中文 README
 
 **把 Matt Pocock 工程技能链编排到 Orca 上的 Agent Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "whutlichao/orchestra-auto 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 6 --> 11
-    line [7, 8, 9, 10, 10]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 6 --> 12
+    line [7, 8, 9, 10, 11]
 ```
 
-2026-10-26 7 → 2026-11-21 10（+3）
+2026-10-26 7 → 2026-11-22 11（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # qstoffe/cost-guard
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/qstoffe/cost-guard) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 OpenCode 用户提供本地的用量、成本与配额监控面板**
 
@@ -11,7 +11,7 @@ Cost Guard 是一个面向 OpenCode 的本地 Web 仪表盘：运行本地 Web �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

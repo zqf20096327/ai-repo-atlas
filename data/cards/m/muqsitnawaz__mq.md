@@ -1,6 +1,6 @@
 # muqsitnawaz/mq
 
-⭐ 67 · Go · MIT · 推送 2026-07-31 · [GitHub](https://github.com/muqsitnawaz/mq) · 个人维护
+⭐ 68 · Go · MIT · 推送 2026-07-31 · [GitHub](https://github.com/muqsitnawaz/mq) · 个人维护
 
 **供 AI agent 用的结构化文档查询 CLI，按需提取内容省 token**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "muqsitnawaz/mq 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 65 --> 68
-    line [66, 67, 67]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 65 --> 69
+    line [66, 67, 68]
 ```
 
-2026-10-19 66 → 2026-11-21 67（+1）
+2026-10-20 66 → 2026-11-22 68（+2）
 
 
 ---

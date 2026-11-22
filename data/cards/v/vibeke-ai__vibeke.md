@@ -1,6 +1,6 @@
 # vibeke-ai/vibeke
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/vibeke-ai/vibeke) · [官网](https://vibeke.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **终端中运行多个 agent CLI 的工作区，可从手机回复请求**
 
@@ -11,7 +11,7 @@ Vibeke 是一个终端多路复用器式的工作区，把 Claude Code、Codex �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

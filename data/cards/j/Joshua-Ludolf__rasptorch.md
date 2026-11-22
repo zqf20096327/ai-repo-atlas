@@ -1,6 +1,6 @@
 # Joshua-Ludolf/rasptorch
 
-⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Joshua-Ludolf/rasptorch) · [官网](https://rasptorch.streamlit.app/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Joshua-Ludolf/rasptorch) · [官网](https://rasptorch.streamlit.app/) · 个人维护
 
 **在树莓派等受限硬件上通过 Vulkan GPU 运行神经网络的 PyTorch 风格库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Joshua-Ludolf/rasptorch 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-21 11（+0）
+2026-11-10 11 → 2026-11-22 11（+0）
 
 
 ---

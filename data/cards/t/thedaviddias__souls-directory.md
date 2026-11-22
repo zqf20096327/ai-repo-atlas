@@ -1,6 +1,6 @@
 # thedaviddias/souls-directory
 
-⭐ 169 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/thedaviddias/souls-directory) · [官网](https://souls.directory) · 个人维护
+⭐ 168 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/thedaviddias/souls-directory) · [官网](https://souls.directory) · 个人维护
 
 **OpenClaw 智能体 SOUL.md 人格模板策展目录**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "thedaviddias/souls-directory 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-16", "2026-11-21"]
+    title "thedaviddias/souls-directory 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 166 --> 170
-    line [167, 168, 167, 169]
+    line [167, 168, 167, 169, 168]
 ```
 
-2026-10-19 167 → 2026-11-21 169（+2）
+2026-10-20 167 → 2026-11-22 168（+1）
 
 
 ---

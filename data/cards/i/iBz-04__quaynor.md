@@ -1,6 +1,6 @@
 # iBz-04/quaynor
 
-⭐ 36 · Rust · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/iBz-04/quaynor) · [官网](https://www.quaynor.site) · 个人维护
+⭐ 35 · Rust · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/iBz-04/quaynor) · [官网](https://www.quaynor.site) · 个人维护
 
 **Rust 编写的跨平台本地 LLM 推理引擎及多语言绑定**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iBz-04/quaynor 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    line [35, 36, 35]
 ```
 
-2026-10-19 35 → 2026-11-21 36（+1）
+2026-10-20 35 → 2026-11-22 35（+0）
 
 
 ---

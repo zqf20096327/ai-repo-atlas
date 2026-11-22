@@ -1,6 +1,6 @@
 # Neeeophytee/awesome-ai-workflows
 
-⭐ 47 · Shell · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/Neeeophytee/awesome-ai-workflows) · 个人维护
+⭐ 52 · Shell · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/Neeeophytee/awesome-ai-workflows) · 个人维护
 
 **CI 验证的 AI 工作流配方清单（134 条，含编码与 Agent 编排）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Neeeophytee/awesome-ai-workflows 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 43 --> 48
-    line [44, 45, 46, 45, 44, 47, 47]
+    x-axis ["2026-10-20", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 43 --> 53
+    line [44, 45, 46, 45, 44, 47, 52]
 ```
 
-2026-10-19 44 → 2026-11-21 47（+3）
+2026-10-20 44 → 2026-11-22 52（+8）
 
 
 ---

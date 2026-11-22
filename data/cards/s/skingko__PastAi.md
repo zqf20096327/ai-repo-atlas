@@ -1,6 +1,6 @@
 # skingko/PastAi
 
-⭐ 55 · Swift · MIT · 推送 2026-11-03 · [GitHub](https://github.com/skingko/PastAi) · [官网](https://github.com/skingko/PastAi/releases/latest) · 个人维护 · 中文 README
+⭐ 54 · Swift · MIT · 推送 2026-11-03 · [GitHub](https://github.com/skingko/PastAi) · [官网](https://github.com/skingko/PastAi/releases/latest) · 个人维护 · 中文 README
 
 **带 AI 代理的 macOS 剪贴板管理器与划词工具栏**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "skingko/PastAi 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-22"]
     y-axis "stars" 52 --> 57
-    line [53, 56, 55, 55]
+    line [53, 56, 55, 54]
 ```
 
-2026-11-08 53 → 2026-11-21 55（+2）
+2026-11-08 53 → 2026-11-22 54（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # godtiza/nebula-forge-studio
 
-⭐ 56 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/godtiza/nebula-forge-studio) · 个人维护
+⭐ 56 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/godtiza/nebula-forge-studio) · 个人维护
 
 **面向独立研究者的模型训练与图像生成 WebUI 平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "godtiza/nebula-forge-studio 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-19 56 → 2026-11-21 56（+0）
+2026-10-20 56 → 2026-11-22 56（+0）
 
 
 ---

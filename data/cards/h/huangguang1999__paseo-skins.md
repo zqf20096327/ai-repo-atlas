@@ -1,6 +1,6 @@
 # huangguang1999/paseo-skins
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/huangguang1999/paseo-skins) · [官网](https://huangguang1999.github.io/paseo-skins/) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/huangguang1999/paseo-skins) · [官网](https://huangguang1999.github.io/paseo-skins/) · 个人维护 · 中文 README
 
 **面向 macOS Paseo 的主题皮肤画廊、构建器与 CDP 加载器**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "huangguang1999/paseo-skins 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-21 13（+0）
+2026-10-20 13 → 2026-11-22 13（+0）
 
 
 ---

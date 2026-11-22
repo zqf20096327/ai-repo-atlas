@@ -45,12 +45,12 @@ Python 包，提供 Streamlit 聊天组件封装 OpenAI Responses API：流式�
 ```mermaid
 xychart-beta
     title "sbslee/streamlit-openai 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-19 20 → 2026-11-21 20（+0）
+2026-10-20 20 → 2026-11-22 20（+0）
 
 
 ---

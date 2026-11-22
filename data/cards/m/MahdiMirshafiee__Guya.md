@@ -1,6 +1,6 @@
 # MahdiMirshafiee/Guya
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MahdiMirshafiee/Guya) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MahdiMirshafiee/Guya) · 个人维护
 
 **桌面快捷键语音转文字工具，音频直发 Gemini API，结果进剪贴板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MahdiMirshafiee/Guya 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 6 --> 16
-    line [7, 8, 7, 8, 15]
+    title "MahdiMirshafiee/Guya 星数(近 6 点)"
+    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 6 --> 20
+    line [7, 8, 7, 8, 15, 19]
 ```
 
-2026-10-19 7 → 2026-11-21 15（+8）
+2026-10-20 7 → 2026-11-22 19（+12）
 
 
 ---

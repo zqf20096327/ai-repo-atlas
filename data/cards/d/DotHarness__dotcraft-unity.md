@@ -1,6 +1,6 @@
 # DotHarness/dotcraft-unity
 
-⭐ 24 · C# · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/DotHarness/dotcraft-unity) · 组织维护 · 中文 README
+⭐ 24 · C# · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/DotHarness/dotcraft-unity) · 组织维护 · 中文 README
 
 **让 AI agent 在 Unity Editor 内运行 C# 与自动化的集成工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DotHarness/dotcraft-unity 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-19 24 → 2026-11-21 24（+0）
+2026-10-20 24 → 2026-11-22 24（+0）
 
 
 ---

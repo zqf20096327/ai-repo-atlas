@@ -40,6 +40,18 @@
 > L3: **开源、免费。** 把整套搜索广告（SEM / PPC）与广告联盟（CJ、Impact）投放能力做成基座加插件，交给你自己的 Agent（DeepSeek Harness、Claude Code、Codex、Cursor、Open
 > L13: AdsPilot 反过来，是「你的 Agent 替你干活」。仓库里没有一个要编译的程序、没有后台、没有账号系统。它是一套写给 Agent 看的使用方法，加一组只用 Python 标准库的小脚本（同时提供 39 个标准 JSON /
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "adsorgcn/AdsPilot 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-21 25 → 2026-11-22 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `d92940718824` · [字段定义](../../DATASET.md)*

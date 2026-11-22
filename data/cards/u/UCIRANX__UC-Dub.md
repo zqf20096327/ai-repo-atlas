@@ -45,12 +45,12 @@ Android 应用（Kotlin）：通过 AudioPlaybackCapture 捕获手机内正在�
 ```mermaid
 xychart-beta
     title "UCIRANX/UC-Dub 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-22"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-11-14 5 → 2026-11-21 6（+1）
+2026-11-14 5 → 2026-11-22 6（+1）
 
 
 ---

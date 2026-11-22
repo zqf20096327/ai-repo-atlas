@@ -1,6 +1,6 @@
 # lisresearchgroup/math-rsi
 
-⭐ 63 · Lean · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lisresearchgroup/math-rsi) · [官网](https://lisresearchgroup.github.io/math-rsi/) · 组织维护 · 中文 README
+⭐ 63 · Lean · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lisresearchgroup/math-rsi) · [官网](https://lisresearchgroup.github.io/math-rsi/) · 组织维护 · 中文 README
 
 **面向数学发现与证明的自改进 agent 技能包，适配 Claude Code 与 Codex**
 
@@ -45,13 +45,13 @@ MathRSI 提供一套 Markdown 形式的 skills 与领域验证器，供 Claude C
 
 ```mermaid
 xychart-beta
-    title "lisresearchgroup/math-rsi 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    title "lisresearchgroup/math-rsi 星数(近 4 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 39 --> 65
-    line [41, 58, 63]
+    line [41, 58, 63, 63]
 ```
 
-2026-11-19 41 → 2026-11-21 63（+22）
+2026-11-19 41 → 2026-11-22 63（+22）
 
 
 ---

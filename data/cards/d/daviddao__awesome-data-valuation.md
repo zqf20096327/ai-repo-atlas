@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "daviddao/awesome-data-valuation 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "daviddao/awesome-data-valuation 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 144 --> 147
-    line [145, 146]
+    line [145, 146, 146]
 ```
 
-2026-10-19 145 → 2026-11-21 146（+1）
+2026-10-20 145 → 2026-11-22 146（+1）
 
 
 ---

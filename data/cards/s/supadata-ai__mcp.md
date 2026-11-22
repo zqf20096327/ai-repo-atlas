@@ -45,13 +45,13 @@ Supadata 官方维护的 Model Context Protocol（MCP）服务器，把 Supadata
 
 ```mermaid
 xychart-beta
-    title "supadata-ai/mcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "supadata-ai/mcp 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 62 --> 65
-    line [63, 64]
+    line [63, 64, 64]
 ```
 
-2026-10-19 63 → 2026-11-21 64（+1）
+2026-10-20 63 → 2026-11-22 64（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hardiksondagar/aigit
 
-⭐ 33 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/hardiksondagar/aigit) · 个人维护
+⭐ 34 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/hardiksondagar/aigit) · 个人维护
 
 **AI 驱动的 Git CLI：自动生成提交信息、分支名与 PR 描述**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hardiksondagar/aigit 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-19 33 → 2026-11-21 33（+0）
+2026-10-20 33 → 2026-11-22 34（+1）
 
 
 ---

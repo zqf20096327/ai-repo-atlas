@@ -1,6 +1,6 @@
 # oslook/ollama-webui
 
-⭐ 44 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/oslook/ollama-webui) · [官网](https://ollama.oslook.com) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/oslook/ollama-webui) · [官网](https://ollama.oslook.com) · 个人维护
 
 **Ollama 本地模型的网页聊天界面，数据不出本机**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oslook/ollama-webui 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45]
 ```
 
-2026-10-19 43 → 2026-11-21 44（+1）
+2026-10-20 43 → 2026-11-22 45（+2）
 
 
 ---

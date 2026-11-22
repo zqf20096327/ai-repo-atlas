@@ -1,6 +1,6 @@
 # ayyitong888/VRCForge
 
-⭐ 22 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/ayyitong888/VRCForge) · [官网](https://ayyitong888.github.io/VRCForge/) · 个人维护 · 中文 README
+⭐ 22 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ayyitong888/VRCForge) · [官网](https://ayyitong888.github.io/VRCForge/) · 个人维护 · 中文 README
 
 **面向 VRChat Avatar 创作者的 AI 辅助改模工具与 Unity MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ayyitong888/VRCForge 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-22"]
     y-axis "stars" 12 --> 23
     line [13, 14, 15, 16, 15, 18, 19, 20, 21, 22, 22]
 ```
 
-2026-10-19 13 → 2026-11-21 22（+9）
+2026-10-20 13 → 2026-11-22 22（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # piotrekno1/second-shift
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/piotrekno1/second-shift) · [官网](https://second-shift.app/) · 个人维护
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/piotrekno1/second-shift) · [官网](https://second-shift.app/) · 个人维护
 
 **给平台/安全/SRE 团队的 Git 中定义无人值守 agent 任务系统**
 
@@ -46,12 +46,12 @@ SecondShift 让团队在仓库中以 skill 加 YAML 定义 agent 任务，按计
 ```mermaid
 xychart-beta
     title "piotrekno1/second-shift 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 8
     line [4, 6, 7, 7]
 ```
 
-2026-10-28 4 → 2026-11-21 7（+3）
+2026-10-28 4 → 2026-11-22 7（+3）
 
 
 ---

@@ -44,13 +44,13 @@ React Native 与 Expo 的 GPU shader 球组件库，提供 33 个 WebGPU shader�
 
 ```mermaid
 xychart-beta
-    title "msobkyy/react-native-shader-orbs 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    title "msobkyy/react-native-shader-orbs 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 3 --> 6
-    line [4, 5]
+    line [4, 5, 5]
 ```
 
-2026-11-08 4 → 2026-11-21 5（+1）
+2026-11-08 4 → 2026-11-22 5（+1）
 
 
 ---

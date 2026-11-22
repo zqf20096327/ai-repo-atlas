@@ -1,6 +1,6 @@
 # giantswarm/muster
 
-⭐ 41 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/giantswarm/muster) · [官网](https://giantswarm.github.io/muster/) · 组织维护
+⭐ 41 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/giantswarm/muster) · [官网](https://giantswarm.github.io/muster/) · 组织维护
 
 **MCP 服务器聚合网关：单端点统一接入组织全部 MCP 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "giantswarm/muster 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-11-20", "2026-11-22"]
     y-axis "stars" 35 --> 42
     line [36, 39, 40, 41, 41]
 ```
 
-2026-10-19 36 → 2026-11-21 41（+5）
+2026-10-20 36 → 2026-11-22 41（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # BraaMohammed/bricks
 
-⭐ 73 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/BraaMohammed/bricks) · [官网](https://usebricks.xyz) · 个人维护
+⭐ 74 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/BraaMohammed/bricks) · [官网](https://usebricks.xyz) · 个人维护
 
 **本地自托管的 Clay.com 替代表格：数据 enrichment 与外联自动化**
 
@@ -39,6 +39,18 @@
 
 > L9: Bricks runs the same workflows — web scraping, AI agents, browser automation, data synthesis — entirely on your own 
 > L16: Bricks spins up a search agent that creates queries, hits the `/api/search` and `/api/reader` backend endpoints, re
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BraaMohammed/bricks 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 72 --> 75
+    line [73, 74]
+```
+
+2026-11-21 73 → 2026-11-22 74（+1）
 
 
 ---

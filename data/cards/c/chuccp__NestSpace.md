@@ -1,6 +1,6 @@
 # chuccp/NestSpace
 
-⭐ 7 · Kotlin · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/chuccp/NestSpace) · [官网](https://chuccp.github.io/NestSpace/) · 个人维护 · 中文 README
+⭐ 8 · Kotlin · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/chuccp/NestSpace) · [官网](https://chuccp.github.io/NestSpace/) · 个人维护 · 中文 README
 
 **Android 应用级虚拟空间：多开隔离+AI 助手+MCP 控制**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "chuccp/NestSpace 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-15", "2026-11-21"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7]
+    title "chuccp/NestSpace 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-15", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 6, 7, 8]
 ```
 
-2026-11-08 4 → 2026-11-21 7（+3）
+2026-11-08 4 → 2026-11-22 8（+4）
 
 
 ---

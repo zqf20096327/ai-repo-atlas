@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArisuLoveASMR/ArisuLoveASMR 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    title "ArisuLoveASMR/ArisuLoveASMR 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 31 --> 37
-    line [36, 33, 32]
+    line [36, 33, 32, 32]
 ```
 
-2026-10-19 36 → 2026-11-21 32（-4）
+2026-10-20 36 → 2026-11-22 32（-4）
 
 
 ---

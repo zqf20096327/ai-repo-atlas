@@ -1,6 +1,6 @@
 # BleuRadience/BleuNova-AI-Agent
 
-⭐ 9 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/BleuRadience/BleuNova-AI-Agent) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/BleuRadience/BleuNova-AI-Agent) · 组织维护
 
 **自托管个人 AI 代理的教育演示版：文本问答连接 LLM API**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "BleuRadience/BleuNova-AI-Agent 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-11-21"]
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-22"]
     y-axis "stars" 8 --> 11
-    line [10, 9, 9]
+    line [10, 9, 10]
 ```
 
-2026-10-22 10 → 2026-11-21 9（-1）
+2026-10-22 10 → 2026-11-22 10（+0）
 
 
 ---

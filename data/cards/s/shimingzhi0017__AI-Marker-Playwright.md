@@ -1,6 +1,6 @@
 # shimingzhi0017/AI-Marker-Playwright
 
-⭐ 3 · JavaScript · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/shimingzhi0017/AI-Marker-Playwright) · [官网](https://github.com/shimingzhi0017/AI-Marker-Playwright/releases/download/v2026.10.26/AI-Marker-Playwright.exe) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/shimingzhi0017/AI-Marker-Playwright) · [官网](https://github.com/shimingzhi0017/AI-Marker-Playwright/releases/latest) · 个人维护 · 中文 README
 
 **给教师的本地 AI 阅卷工作台：自动评分与人工确认结合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shimingzhi0017/AI-Marker-Playwright 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-10-26", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-10-26 3 → 2026-11-21 3（+0）
+2026-10-26 3 → 2026-11-22 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentsmith-tools/maintainer-agent
 
-⭐ 13 · Shell · MIT · 推送 2026-11-20 · [GitHub](https://github.com/agentsmith-tools/maintainer-agent) · [官网](https://agentsmith-tools.github.io/maintainer-agent/) · 个人维护
+⭐ 13 · Shell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/agentsmith-tools/maintainer-agent) · [官网](https://agentsmith-tools.github.io/maintainer-agent/) · 个人维护
 
 **无人值守的开源仓库维护 agent：审查 PR、建 issue、按证据合并**
 
@@ -39,6 +39,18 @@
 
 > L13: An unattended maintainer for an open-source repository. It runs Claude Code (or
 > L14: Codex, Cursor, or opencode) on a timer to review pull requests, file and place
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "agentsmith-tools/maintainer-agent 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-21 13 → 2026-11-22 13（+0）
 
 
 ---

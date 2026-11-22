@@ -1,6 +1,6 @@
 # hypurrquant/perp-cli
 
-⭐ 42 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hypurrquant/perp-cli) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hypurrquant/perp-cli) · 组织维护
 
 **多 DEX 永续合约交易 CLI，含 18 个 MCP 工具供 AI agent 调用**
 
@@ -45,12 +45,12 @@ Node.js 命令行工具，聚合 13 个永续合约与行情场所：Pacifica、
 ```mermaid
 xychart-beta
     title "hypurrquant/perp-cli 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 38 --> 43
-    line [39, 40, 41, 42, 42]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 38 --> 44
+    line [39, 40, 41, 42, 43]
 ```
 
-2026-10-19 39 → 2026-11-21 42（+3）
+2026-10-20 39 → 2026-11-22 43（+4）
 
 
 ---

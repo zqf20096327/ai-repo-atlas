@@ -1,6 +1,6 @@
 # langchain-ai/langchain-mongodb
 
-⭐ 126 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/langchain-ai/langchain-mongodb) · [官网](https://docs.langchain.com/oss/python/integrations/providers/mongodb_atlas) · 组织维护
+⭐ 126 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/langchain-mongodb) · [官网](https://docs.langchain.com/oss/python/integrations/providers/mongodb_atlas) · 组织维护
 
 **MongoDB 与 LangChain/LangGraph 的官方集成包集合**
 
@@ -44,12 +44,12 @@ Monorepo 形式提供 MongoDB 与 LangChainAI 的伙伴包：langchain-mongodb�
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-mongodb 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
     y-axis "stars" 124 --> 128
     line [127, 126, 125, 127, 125, 126, 126]
 ```
 
-2026-10-19 127 → 2026-11-21 126（-1）
+2026-10-20 127 → 2026-11-22 126（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MaxonT/TRACES.md
 
-⭐ 36 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MaxonT/TRACES.md) · [官网](https://maxont.github.io/TRACES.md/) · 个人维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MaxonT/TRACES.md) · [官网](https://maxont.github.io/TRACES.md/) · 个人维护 · 中文 README
 
 **记录 AI agent 实际操作的开源追溯格式与 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MaxonT/TRACES.md 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-22"]
     y-axis "stars" 0 --> 39
     line [3, 21, 29, 30, 34, 36, 36]
 ```
 
-2026-10-19 3 → 2026-11-21 36（+33）
+2026-10-20 3 → 2026-11-22 36（+33）
 
 
 ---

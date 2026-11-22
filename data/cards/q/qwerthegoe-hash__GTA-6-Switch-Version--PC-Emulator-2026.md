@@ -1,6 +1,6 @@
 # qwerthegoe-hash/GTA-6-Switch-Version--PC-Emulator-2026
 
-⭐ 35 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/qwerthegoe-hash/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
+⭐ 30 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/qwerthegoe-hash/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
 
 **面向 Windows 玩家的 GTA VI PC 版安装准备与配置指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qwerthegoe-hash/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 34 --> 37
-    line [36, 35]
+    title "qwerthegoe-hash/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 29 --> 37
+    line [36, 35, 30]
 ```
 
-2026-11-20 36 → 2026-11-21 35（-1）
+2026-11-20 36 → 2026-11-22 30（-6）
 
 
 ---

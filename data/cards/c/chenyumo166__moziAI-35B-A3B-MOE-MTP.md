@@ -1,6 +1,6 @@
 # chenyumo166/moziAI-35B-A3B-MOE-MTP
 
-⭐ 12 · Jinja · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/chenyumo166/moziAI-35B-A3B-MOE-MTP) · 组织维护 · 中文 README
+⭐ 13 · Jinja · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/chenyumo166/moziAI-35B-A3B-MOE-MTP) · 组织维护 · 中文 README
 
 **本地部署的金融垂直多模态 MoE 大模型（35B，GGUF）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chenyumo166/moziAI-35B-A3B-MOE-MTP 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-19 11 → 2026-11-21 12（+1）
+2026-10-20 11 → 2026-11-22 13（+2）
 
 
 ---

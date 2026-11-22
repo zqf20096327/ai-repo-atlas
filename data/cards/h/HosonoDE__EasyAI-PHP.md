@@ -1,6 +1,6 @@
 # HosonoDE/EasyAI-PHP
 
-⭐ 11 · PHP · MIT · 推送 2026-09-12 · [GitHub](https://github.com/HosonoDE/EasyAI-PHP) · 组织维护
+⭐ 10 · PHP · MIT · 推送 2026-09-12 · [GitHub](https://github.com/HosonoDE/EasyAI-PHP) · 组织维护
 
 **为 PHP 开发者简化接入多模型与向量库的 AI 工具库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HosonoDE/EasyAI-PHP 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-11", "2026-11-22"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

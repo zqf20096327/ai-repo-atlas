@@ -1,6 +1,6 @@
 # Mohsintl/omadeck
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Mohsintl/omadeck) · [官网](https://mohsintl.is-a.dev/omadeck/) · 个人维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Mohsintl/omadeck) · [官网](https://mohsintl.is-a.dev/omadeck/) · 个人维护
 
 **手机遥控 Linux 桌面的 PWA 遥控盘，带可选 AI 语音命令**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mohsintl/omadeck 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 12 --> 36
-    line [14, 22, 25, 29, 32, 34]
+    title "Mohsintl/omadeck 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 12 --> 37
+    line [14, 22, 25, 29, 32, 34, 35]
 ```
 
-2026-11-12 14 → 2026-11-21 34（+20）
+2026-11-12 14 → 2026-11-22 35（+21）
 
 
 ---

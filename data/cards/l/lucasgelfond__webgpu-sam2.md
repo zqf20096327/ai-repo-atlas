@@ -1,6 +1,6 @@
 # lucasgelfond/webgpu-sam2
 
-⭐ 184 · TypeScript · 推送 2026-11-03 · [GitHub](https://github.com/lucasgelfond/webgpu-sam2) · [官网](http://webgpu-sam2.lucasgelfond.online/) · 个人维护
+⭐ 185 · TypeScript · 推送 2026-11-03 · [GitHub](https://github.com/lucasgelfond/webgpu-sam2) · [官网](http://webgpu-sam2.lucasgelfond.online/) · 个人维护
 
 **在浏览器中用 WebGPU 运行 Segment Anything 2 图像分割**
 
@@ -45,12 +45,12 @@ Facebook Research Segment Anything 2 的浏览器端 WebGPU 实现，基于 ONNX
 ```mermaid
 xychart-beta
     title "lucasgelfond/webgpu-sam2 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-22"]
     y-axis "stars" 183 --> 186
-    line [184, 185, 184, 185, 184, 184]
+    line [184, 185, 184, 185, 184, 185]
 ```
 
-2026-10-19 184 → 2026-11-21 184（+0）
+2026-10-20 184 → 2026-11-22 185（+1）
 
 
 ---

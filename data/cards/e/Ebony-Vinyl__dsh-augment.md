@@ -1,6 +1,6 @@
 # Ebony-Vinyl/dsh-augment
 
-⭐ 4 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Ebony-Vinyl/dsh-augment) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Ebony-Vinyl/dsh-augment) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 桌面端提供 token 压缩与自我进化的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ebony-Vinyl/dsh-augment 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-08 3 → 2026-11-21 4（+1）
+2026-11-08 3 → 2026-11-22 5（+2）
 
 
 ---

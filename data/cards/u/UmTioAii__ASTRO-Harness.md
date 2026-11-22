@@ -1,6 +1,6 @@
 # UmTioAii/ASTRO-Harness
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/UmTioAii/ASTRO-Harness) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/UmTioAii/ASTRO-Harness) · 个人维护
 
 **本地终端优先的多 agent 编码 harness：路由、审计、成本治理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "UmTioAii/ASTRO-Harness 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-21 4（+0）
+2026-11-08 4 → 2026-11-22 4（+0）
 
 
 ---

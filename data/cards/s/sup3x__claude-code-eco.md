@@ -1,6 +1,6 @@
 # sup3x/claude-code-eco
 
-⭐ 43 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/sup3x/claude-code-eco) · 个人维护
+⭐ 44 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/sup3x/claude-code-eco) · 个人维护
 
 **Claude Code 省 token 插件：减少冗余输出与成本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sup3x/claude-code-eco 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 38 --> 44
-    line [39, 40, 41, 40, 42, 43, 43]
+    title "sup3x/claude-code-eco 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 39 --> 45
+    line [40, 41, 40, 42, 43, 44]
 ```
 
-2026-10-18 39 → 2026-11-21 43（+4）
+2026-10-19 40 → 2026-11-22 44（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # AThevon/basic-pitch-rs
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/AThevon/basic-pitch-rs) · [官网](https://athevon.github.io/basic-pitch-rs/) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AThevon/basic-pitch-rs) · [官网](https://athevon.github.io/basic-pitch-rs/) · 个人维护
 
 **Rust 版 Basic Pitch：音频转 MIDI 多音高转录工具**
 
@@ -46,12 +46,12 @@ Spotify Basic Pitch 的非官方 Rust 移植：读取 WAV/AIFF/CAF/FLAC/MP3/Ogg/
 ```mermaid
 xychart-beta
     title "AThevon/basic-pitch-rs 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-11", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-11 3 → 2026-11-21 4（+1）
+2026-11-11 3 → 2026-11-22 5（+2）
 
 
 ---

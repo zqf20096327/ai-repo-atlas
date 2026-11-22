@@ -1,6 +1,6 @@
 # k8s-servant/k8s-servant
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/k8s-servant/k8s-servant) · [官网](https://k8s-servant.dev) · 组织维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/k8s-servant/k8s-servant) · [官网](https://k8s-servant.dev) · 组织维护
 
 **只读 Kubernetes AI SRE：诊断集群问题并给出证据与建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "k8s-servant/k8s-servant 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-21 3（+0）
+2026-11-02 3 → 2026-11-22 3（+0）
 
 
 ---

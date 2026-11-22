@@ -1,6 +1,6 @@
 # ReSerendipity/SeedVR2-Lite
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ReSerendipity/SeedVR2-Lite) · 个人维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ReSerendipity/SeedVR2-Lite) · 个人维护 · 中文 README
 
 **本地视频/图像超分修复工具箱：上传即得 SeedVR2 修复结果**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ReSerendipity/SeedVR2-Lite 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 16, 17, 16, 17, 18, 18]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 16, 17, 16, 17, 18, 19]
 ```
 
-2026-10-19 16 → 2026-11-21 18（+2）
+2026-10-20 16 → 2026-11-22 19（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # jagg-ix/zil-lean
 
-⭐ 37 · Lean · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/jagg-ix/zil-lean) · 个人维护
+⭐ 37 · Lean · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jagg-ix/zil-lean) · 个人维护
 
 **基于 Lean 4 的关系型 DSL：描述对象关系与派生规则供多方查询**
 
@@ -45,13 +45,13 @@ ZIL 是嵌入 Lean 4 的小型关系语言，用元组（受 Google Zanzibar 论
 
 ```mermaid
 xychart-beta
-    title "jagg-ix/zil-lean 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-13", "2026-11-21"]
+    title "jagg-ix/zil-lean 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-11-11", "2026-11-13", "2026-11-21", "2026-11-22"]
     y-axis "stars" 33 --> 38
-    line [34, 35, 36, 37]
+    line [34, 35, 36, 37, 37]
 ```
 
-2026-10-23 34 → 2026-11-21 37（+3）
+2026-10-23 34 → 2026-11-22 37（+3）
 
 
 ---

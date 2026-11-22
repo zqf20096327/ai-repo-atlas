@@ -1,6 +1,6 @@
 # benmaster82/Pithos
 
-⭐ 44 · C · MIT · 推送 2026-11-15 · [GitHub](https://github.com/benmaster82/Pithos) · [官网](https://benmaster82.github.io/Pithos/) · 个人维护
+⭐ 46 · C · MIT · 推送 2026-11-15 · [GitHub](https://github.com/benmaster82/Pithos) · [官网](https://benmaster82.github.io/Pithos/) · 个人维护
 
 **无依赖 C11 本地推理引擎，运行 Liquid AI LFM 系列模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "benmaster82/Pithos 星数(近 9 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 0 --> 48
-    line [3, 30, 31, 32, 34, 36, 40, 43, 44]
+    title "benmaster82/Pithos 星数(近 10 点)"
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 0 --> 50
+    line [3, 30, 31, 32, 34, 36, 40, 43, 44, 46]
 ```
 
-2026-10-29 3 → 2026-11-21 44（+41）
+2026-10-29 3 → 2026-11-22 46（+43）
 
 
 ---

@@ -1,6 +1,6 @@
 # IBM/AutoMLPipeline.jl
 
-⭐ 371 · Julia · MIT · 推送 2026-11-15 · [GitHub](https://github.com/IBM/AutoMLPipeline.jl) · 组织维护
+⭐ 371 · Julia · MIT · 推送 2026-11-21 · [GitHub](https://github.com/IBM/AutoMLPipeline.jl) · 组织维护
 
 **Julia 机器学习流水线构建与评估包**
 
@@ -46,12 +46,12 @@ IBM 维护的 Julia 包，用管道组合算子（|>、+、*）把特征选择�
 ```mermaid
 xychart-beta
     title "IBM/AutoMLPipeline.jl 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-20", "2026-11-22"]
     y-axis "stars" 370 --> 373
     line [371, 372, 371, 371]
 ```
 
-2026-10-19 371 → 2026-11-21 371（+0）
+2026-10-20 371 → 2026-11-22 371（+0）
 
 
 ---

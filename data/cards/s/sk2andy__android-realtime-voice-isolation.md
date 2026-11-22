@@ -1,6 +1,6 @@
 # sk2andy/android-realtime-voice-isolation
 
-⭐ 29 · Kotlin · MIT · 推送 2026-10-08 · [GitHub](https://github.com/sk2andy/android-realtime-voice-isolation) · 个人维护 · 中文 README
+⭐ 28 · Kotlin · MIT · 推送 2026-10-08 · [GitHub](https://github.com/sk2andy/android-realtime-voice-isolation) · 个人维护 · 中文 README
 
 **安卓端设备上实时人声隔离应用：GTCRN+ONNX Runtime 处理媒体音频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sk2andy/android-realtime-voice-isolation 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-22"]
     y-axis "stars" 17 --> 30
-    line [18, 19, 20, 21, 22, 19, 25, 26, 27, 28, 29, 29]
+    line [18, 19, 20, 21, 22, 19, 25, 26, 27, 28, 29, 28]
 ```
 
-2026-10-19 18 → 2026-11-21 29（+11）
+2026-10-20 18 → 2026-11-22 28（+10）
 
 
 ---

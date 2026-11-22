@@ -1,6 +1,6 @@
 # fitzyracing1/system-on-an-agent
 
-⭐ 31 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fitzyracing1/system-on-an-agent) · [官网](https://fitzyracing1.github.io/system-on-an-agent/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fitzyracing1/system-on-an-agent) · [官网](https://fitzyracing1.github.io/system-on-an-agent/) · 个人维护
 
 **给开发者的极简 agent 框架：规划器、记忆、技能、连接器与总线合一**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fitzyracing1/system-on-an-agent 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 19 --> 32
-    line [20, 31]
+    title "fitzyracing1/system-on-an-agent 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 19 --> 34
+    line [20, 31, 33]
 ```
 
-2026-11-20 20 → 2026-11-21 31（+11）
+2026-11-20 20 → 2026-11-22 33（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # BBC-Esq/VectorDB-Plugin
 
-⭐ 371 · Python · 推送 2026-11-16 · [GitHub](https://github.com/BBC-Esq/VectorDB-Plugin) · [官网](https://www.youtube.com/@AI_For_Lawyers) · 个人维护
+⭐ 371 · Python · 推送 2026-11-21 · [GitHub](https://github.com/BBC-Esq/VectorDB-Plugin) · [官网](https://www.youtube.com/@AI_For_Lawyers) · 个人维护
 
 **Windows 本地 RAG 问答程序：对文档/音视频建向量库并作答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BBC-Esq/VectorDB-Plugin 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    title "BBC-Esq/VectorDB-Plugin 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-21", "2026-11-22"]
     y-axis "stars" 370 --> 373
-    line [371, 372, 371]
+    line [371, 372, 371, 371]
 ```
 
-2026-10-19 371 → 2026-11-21 371（+0）
+2026-10-20 371 → 2026-11-22 371（+0）
 
 
 ---

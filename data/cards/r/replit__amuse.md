@@ -1,6 +1,6 @@
 # replit/amuse
 
-⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/replit/amuse) · 组织维护
+⭐ 123 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/replit/amuse) · 组织维护
 
 **自托管个人 AI agent：网页研究、实时浏览器、提醒与小应用**
 
@@ -40,6 +40,18 @@
 > L3: Self-hosted personal AI agent: it researches the web, uses a live browser you can watch and take
 > L5: asks before it sends, submits or pays for anything. Amuse runs on your own computer for one person.
 > L56: The agent (`gpt-6.2-sol`, with `gpt-6-luna` for quick steps), web search, image generation
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "replit/amuse 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 100 --> 125
+    line [102, 123]
+```
+
+2026-11-21 102 → 2026-11-22 123（+21）
 
 
 ---

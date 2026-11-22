@@ -1,6 +1,6 @@
 # neuml/txtai.js
 
-⭐ 158 · JavaScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/neuml/txtai.js) · 组织维护
+⭐ 159 · JavaScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/neuml/txtai.js) · 组织维护
 
 **txtai 的 JavaScript 客户端：连接 txtai API 实例**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "neuml/txtai.js 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 157 --> 159
-    line [158, 158]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 157 --> 160
+    line [158, 159]
 ```
 
-2026-10-19 158 → 2026-11-21 158（+0）
+2026-10-20 158 → 2026-11-22 159（+1）
 
 
 ---

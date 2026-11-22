@@ -1,6 +1,6 @@
 # uxlfoundation/oneDAL
 
-⭐ 654 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/uxlfoundation/oneDAL) · [官网](http://uxlfoundation.github.io/oneDAL/) · 组织维护
+⭐ 654 · C++ · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/uxlfoundation/oneDAL) · [官网](http://uxlfoundation.github.io/oneDAL/) · 组织维护
 
 **C++/DPC++ 机器学习库：为表格数据提供 CPU/GPU 加速算法**
 
@@ -46,12 +46,12 @@ UXL Foundation 治理的 oneAPI 规范实现，提供面向表格数据的机器
 ```mermaid
 xychart-beta
     title "uxlfoundation/oneDAL 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-22"]
     y-axis "stars" 652 --> 656
     line [653, 654, 655, 654, 654]
 ```
 
-2026-10-19 653 → 2026-11-21 654（+1）
+2026-10-20 653 → 2026-11-22 654（+1）
 
 
 ---

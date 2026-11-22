@@ -1,6 +1,6 @@
 # stlin256/DSH-Harmony
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/stlin256/DSH-Harmony) · [官网](https://stlin256.github.io/DSH-Harmony/) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/stlin256/DSH-Harmony) · [官网](https://stlin256.github.io/DSH-Harmony/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 HarmonyOS 原生客户端应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "stlin256/DSH-Harmony 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 10 --> 23
-    line [11, 13, 17, 18, 19, 20, 22]
+    title "stlin256/DSH-Harmony 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 10 --> 24
+    line [11, 13, 17, 18, 19, 20, 22, 23]
 ```
 
-2026-11-10 11 → 2026-11-21 22（+11）
+2026-11-10 11 → 2026-11-22 23（+12）
 
 
 ---

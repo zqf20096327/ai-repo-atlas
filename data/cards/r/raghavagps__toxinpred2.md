@@ -1,6 +1,6 @@
 # raghavagps/toxinpred2
 
-⭐ 21 · Perl · GPL-3.0 · 推送 2026-05-08 · [GitHub](https://github.com/raghavagps/toxinpred2) · [官网](http://webs.iiitd.edu.in/raghava/toxinpred2) · 组织维护
+⭐ 22 · Perl · GPL-3.0 · 推送 2026-05-08 · [GitHub](https://github.com/raghavagps/toxinpred2) · [官网](http://webs.iiitd.edu.in/raghava/toxinpred2) · 组织维护
 
 **预测肽/蛋白质毒性的工具（随机森林与混合模型）**
 
@@ -45,12 +45,12 @@ ToxinPred2.0 用于预测、映射和扫描毒性肽：输入 FASTA 或单行简
 ```mermaid
 xychart-beta
     title "raghavagps/toxinpred2 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # casanche/casanchess
 
-⭐ 12 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/casanche/casanchess) · 个人维护
+⭐ 12 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/casanche/casanchess) · 个人维护
 
 **C++23 编写的 UCI 国际象棋引擎，采用 NNUE 评估**
 
@@ -44,12 +44,12 @@ Casanchess 是一个用 C++23 实现的 UCI 象棋（国际象棋）引擎，核
 ```mermaid
 xychart-beta
     title "casanche/casanchess 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

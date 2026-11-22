@@ -45,13 +45,13 @@ Tenaz 是一个 Rust 编写的 CLI 运行器：将目标简报转为编号需求
 
 ```mermaid
 xychart-beta
-    title "aartiles/tenaz 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-21"]
+    title "aartiles/tenaz 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 6
-    line [3, 5]
+    line [3, 5, 5]
 ```
 
-2026-10-31 3 → 2026-11-21 5（+2）
+2026-10-31 3 → 2026-11-22 5（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # JKZeng-cell/moki-library-for-dsh
 
-⭐ 33 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/JKZeng-cell/moki-library-for-dsh) · [官网](https://github.com/JKZeng-cell/moki-library-for-dsh#readme) · 个人维护 · 中文 README
+⭐ 34 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/JKZeng-cell/moki-library-for-dsh) · [官网](https://github.com/JKZeng-cell/moki-library-for-dsh#readme) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 的本地文件库插件：文件管理与 AI 选区协同编辑**
 
@@ -45,13 +45,13 @@ DeepSeek Harness（DSH）桌面端的社区插件，在对话旁提供本地文�
 
 ```mermaid
 xychart-beta
-    title "JKZeng-cell/moki-library-for-dsh 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 16 --> 34
-    line [17, 29, 30, 31, 32, 33]
+    title "JKZeng-cell/moki-library-for-dsh 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 16 --> 35
+    line [17, 29, 30, 31, 32, 33, 34]
 ```
 
-2026-11-12 17 → 2026-11-21 33（+16）
+2026-11-12 17 → 2026-11-22 34（+17）
 
 
 ---

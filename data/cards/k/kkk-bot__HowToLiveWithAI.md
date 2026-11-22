@@ -1,6 +1,6 @@
 # kkk-bot/HowToLiveWithAI
 
-⭐ 37 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kkk-bot/HowToLiveWithAI) · [官网](https://kkk-bot.github.io/HowToLiveWithAI/) · 个人维护 · 中文 README
+⭐ 38 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kkk-bot/HowToLiveWithAI) · [官网](https://kkk-bot.github.io/HowToLiveWithAI/) · 个人维护 · 中文 README
 
 **写给普通年轻人的中文 AI 学习指南（6 章 29 节）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kkk-bot/HowToLiveWithAI 星数(近 13 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 7 --> 39
-    line [9, 18, 20, 21, 24, 28, 29, 30, 21, 34, 35, 37, 37]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 7 --> 40
+    line [9, 18, 20, 21, 24, 28, 29, 30, 21, 34, 35, 37, 38]
 ```
 
-2026-10-19 9 → 2026-11-21 37（+28）
+2026-10-20 9 → 2026-11-22 38（+29）
 
 
 ---

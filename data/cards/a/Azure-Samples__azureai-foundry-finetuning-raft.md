@@ -44,13 +44,13 @@ Azure 官方示例仓库，提供一套 RAFT（Retrieval Augmented Fine-Tuning�
 
 ```mermaid
 xychart-beta
-    title "Azure-Samples/azureai-foundry-finetuning-raft 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "Azure-Samples/azureai-foundry-finetuning-raft 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 79 --> 82
-    line [81, 80]
+    line [81, 80, 80]
 ```
 
-2026-10-19 81 → 2026-11-21 80（-1）
+2026-10-20 81 → 2026-11-22 80（-1）
 
 
 ---

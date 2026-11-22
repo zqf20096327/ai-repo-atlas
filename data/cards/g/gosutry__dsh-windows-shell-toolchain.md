@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gosutry/dsh-windows-shell-toolchain 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-19", "2026-11-21"]
+    title "gosutry/dsh-windows-shell-toolchain 星数(近 4 点)"
+    x-axis ["2026-11-14", "2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 4 --> 8
-    line [5, 6, 7]
+    line [5, 6, 7, 7]
 ```
 
-2026-11-14 5 → 2026-11-21 7（+2）
+2026-11-14 5 → 2026-11-22 7（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # lektohq/lekto
 
-⭐ 5 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/lektohq/lekto) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管文档管理系统：OCR 归档文档并提供可解释检索与 AI 客户端接入**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

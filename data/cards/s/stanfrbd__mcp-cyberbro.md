@@ -1,6 +1,6 @@
 # stanfrbd/mcp-cyberbro
 
-⭐ 19 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/stanfrbd/mcp-cyberbro) · [官网](https://docs.cyberbro.net/integrations/Use-Cyberbro-MCP-for-LLM/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/stanfrbd/mcp-cyberbro) · [官网](https://docs.cyberbro.net/integrations/Use-Cyberbro-MCP-for-LLM/) · 个人维护
 
 **Cyberbro 威胁情报分析的 MCP 服务器，供 AI 助手调用**
 
@@ -46,12 +46,12 @@ Model Context Protocol 服务器，把 Cyberbro 威胁分析平台的观测对�
 ```mermaid
 xychart-beta
     title "stanfrbd/mcp-cyberbro 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-19 19 → 2026-11-21 19（+0）
+2026-10-20 19 → 2026-11-22 19（+0）
 
 
 ---

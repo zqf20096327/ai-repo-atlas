@@ -1,6 +1,6 @@
 # Mountainheads-Private-limited/osmo-ai-plugins
 
-⭐ 11 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Mountainheads-Private-limited/osmo-ai-plugins) · [官网](https://getosmo.app/for-my-ai) · 组织维护
+⭐ 11 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Mountainheads-Private-limited/osmo-ai-plugins) · [官网](https://getosmo.app/for-my-ai) · 组织维护
 
 **让 ChatGPT/Claude 等 AI 客户端代打电话的 MCP 服务**
 
@@ -46,12 +46,12 @@ OsmO 提供一个托管的 MCP 服务器（https://api.getosmo.app/mcp，Streama
 ```mermaid
 xychart-beta
     title "Mountainheads-Private-limited/osmo-ai-plugins 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
     y-axis "stars" 2 --> 12
     line [3, 7, 10, 11, 11]
 ```
 
-2026-11-15 3 → 2026-11-21 11（+8）
+2026-11-15 3 → 2026-11-22 11（+8）
 
 
 ---

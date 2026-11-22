@@ -1,6 +1,6 @@
 # RupertAvery/DiffusionToolkit
 
-⭐ 1,023 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/RupertAvery/DiffusionToolkit) · 个人维护
+⭐ 1,024 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/RupertAvery/DiffusionToolkit) · 个人维护
 
 **AI 生成图像的元数据索引与查看器（Windows 桌面应用）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RupertAvery/DiffusionToolkit 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-10", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 1020 --> 1024
-    line [1021, 1023, 1022, 1023, 1023]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-10", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 1020 --> 1025
+    line [1021, 1023, 1022, 1023, 1024]
 ```
 
-2026-10-19 1,021 → 2026-11-21 1,023（+2）
+2026-10-20 1,021 → 2026-11-22 1,024（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyegomez/Lets-Verify-Step-by-Step
 
-⭐ 119 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/kyegomez/Lets-Verify-Step-by-Step) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 119 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/kyegomez/Lets-Verify-Step-by-Step) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **OpenAI 过程监督论文的 PyTorch 实现，含 PRM 奖励模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyegomez/Lets-Verify-Step-by-Step 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "kyegomez/Lets-Verify-Step-by-Step 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 117 --> 120
-    line [118, 119]
+    line [118, 119, 119]
 ```
 
-2026-10-19 118 → 2026-11-21 119（+1）
+2026-10-20 118 → 2026-11-22 119（+1）
 
 
 ---

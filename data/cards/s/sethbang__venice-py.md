@@ -1,6 +1,6 @@
 # sethbang/venice-py
 
-⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sethbang/venice-py) · [官网](https://venice-docs.sbang.dev/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sethbang/venice-py) · [官网](https://venice-docs.sbang.dev/) · 个人维护
 
 **Venice.ai 非官方 async Python SDK：聊天/图像/视频/音频一站式接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sethbang/venice-py 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 12 --> 16
+    line [13, 15]
 ```
 
-2026-10-19 13 → 2026-11-21 13（+0）
+2026-10-20 13 → 2026-11-22 15（+2）
 
 
 ---

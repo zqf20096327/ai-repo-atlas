@@ -1,6 +1,6 @@
 # ai-infra-curriculum/ai-infra-mlops-learning
 
-⭐ 15 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-mlops-learning) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-mlops-learning) · 组织维护
 
 **MLOps 工程师免费课程：5 个实战项目覆盖 ML 全生命周期**
 
@@ -45,12 +45,12 @@ AI Career Curriculum 生态中的 Level 2.5B MLOps Engineer 学习路径仓库�
 ```mermaid
 xychart-beta
     title "ai-infra-curriculum/ai-infra-mlops-learning 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 14, 15, 15]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 14, 15, 16]
 ```
 
-2026-10-19 13 → 2026-11-21 15（+2）
+2026-10-20 13 → 2026-11-22 16（+3）
 
 
 ---

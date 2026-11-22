@@ -1,6 +1,6 @@
 # mad-lab-fau/tpcp
 
-⭐ 21 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mad-lab-fau/tpcp) · [官网](https://tpcp.readthedocs.io/en/latest/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mad-lab-fau/tpcp) · [官网](https://tpcp.readthedocs.io/en/latest/) · 组织维护
 
 **面向复杂算法评估的 Python 流水线与数据集辅助框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mad-lab-fau/tpcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 21（+0）
 
 
 ---

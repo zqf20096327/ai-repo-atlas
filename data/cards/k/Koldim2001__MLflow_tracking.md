@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Koldim2001/MLflow_tracking 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "Koldim2001/MLflow_tracking 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 31 --> 35
-    line [32, 34]
+    line [32, 34, 34]
 ```
 
-2026-10-19 32 → 2026-11-21 34（+2）
+2026-10-20 32 → 2026-11-22 34（+2）
 
 
 ---

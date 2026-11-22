@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ravinperera/ai-token-efficiency-playbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-21"]
+    title "ravinperera/ai-token-efficiency-playbook 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 16 --> 22
-    line [17, 19, 20, 21]
+    line [17, 19, 20, 21, 21]
 ```
 
-2026-10-18 17 → 2026-11-21 21（+4）
+2026-10-19 17 → 2026-11-22 21（+4）
 
 
 ---

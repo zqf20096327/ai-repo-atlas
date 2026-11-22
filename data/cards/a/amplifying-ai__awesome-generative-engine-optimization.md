@@ -1,6 +1,6 @@
 # amplifying-ai/awesome-generative-engine-optimization
 
-⭐ 541 · 推送 2026-04-14 · [GitHub](https://github.com/amplifying-ai/awesome-generative-engine-optimization) · 组织维护
+⭐ 542 · 推送 2026-04-14 · [GitHub](https://github.com/amplifying-ai/awesome-generative-engine-optimization) · 组织维护
 
 **生成式引擎优化（GEO）资源策展清单：指南、工具与研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amplifying-ai/awesome-generative-engine-optimization 星数(近 15 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 525 --> 543
-    line [526, 528, 529, 531, 532, 533, 534, 535, 531, 539, 540, 541, 542, 541, 541]
+    title "amplifying-ai/awesome-generative-engine-optimization 星数(近 14 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 527 --> 543
+    line [528, 529, 531, 532, 533, 534, 535, 531, 539, 540, 541, 542, 541, 542]
 ```
 
-2026-10-18 526 → 2026-11-21 541（+15）
+2026-10-19 528 → 2026-11-22 542（+14）
 
 
 ---

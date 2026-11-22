@@ -1,6 +1,6 @@
 # sphinxid/ocd
 
-⭐ 6 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sphinxid/ocd) · 个人维护
+⭐ 7 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sphinxid/ocd) · 个人维护
 
 **opencode v2 终端 AI 编码代理的 Rust 重写替代实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sphinxid/ocd 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6]
+    title "sphinxid/ocd 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-11-16 3 → 2026-11-21 6（+3）
+2026-11-16 3 → 2026-11-22 7（+4）
 
 
 ---

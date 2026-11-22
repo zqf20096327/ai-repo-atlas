@@ -1,6 +1,6 @@
 # ThinkOffApp/ClawWatch
 
-⭐ 74 · Kotlin · NOASSERTION · 推送 2026-09-12 · [GitHub](https://github.com/ThinkOffApp/ClawWatch) · [官网](https://thinkoff.io) · 组织维护
+⭐ 75 · Kotlin · NOASSERTION · 推送 2026-09-12 · [GitHub](https://github.com/ThinkOffApp/ClawWatch) · [官网](https://thinkoff.io) · 组织维护
 
 **在 Galaxy Watch 上原生运行的离线语音 AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThinkOffApp/ClawWatch 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 67 --> 75
-    line [68, 69, 70, 71, 69, 73, 74, 74]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 67 --> 76
+    line [68, 69, 70, 71, 69, 73, 74, 75]
 ```
 
-2026-10-19 68 → 2026-11-21 74（+6）
+2026-10-20 68 → 2026-11-22 75（+7）
 
 
 ---

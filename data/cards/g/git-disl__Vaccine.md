@@ -1,6 +1,6 @@
 # git-disl/Vaccine
 
-⭐ 54 · Shell · Apache-2.0 · 推送 2026-01-15 · [GitHub](https://github.com/git-disl/Vaccine) · [官网](https://arxiv.org/abs/2402.01109) · 组织维护
+⭐ 55 · Shell · Apache-2.0 · 推送 2026-01-15 · [GitHub](https://github.com/git-disl/Vaccine) · [官网](https://arxiv.org/abs/2402.01109) · 组织维护
 
 **面向有害微调攻击的 LLM 安全对齐训练方法（NeurIPS 2024）**
 
@@ -46,12 +46,12 @@ NeurIPS 2024 论文 Vaccine 的官方代码：实现一种扰动感知的安全�
 ```mermaid
 xychart-beta
     title "git-disl/Vaccine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-21"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-22"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 55]
 ```
 
-2026-10-18 53 → 2026-11-21 54（+1）
+2026-10-19 53 → 2026-11-22 55（+2）
 
 
 ---

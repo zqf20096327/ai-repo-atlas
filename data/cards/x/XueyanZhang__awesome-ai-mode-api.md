@@ -1,6 +1,6 @@
 # XueyanZhang/awesome-ai-mode-api
 
-⭐ 30 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/XueyanZhang/awesome-ai-mode-api) · 个人维护 · 中文 README
+⭐ 30 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/XueyanZhang/awesome-ai-mode-api) · 个人维护 · 中文 README
 
 **AI 模型 API 提供商与平台清单，含开源项目条目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "XueyanZhang/awesome-ai-mode-api 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-19 29 → 2026-11-21 30（+1）
+2026-10-20 29 → 2026-11-22 30（+1）
 
 
 ---

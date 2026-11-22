@@ -1,6 +1,6 @@
 # tgxy2026/youth-fantasy-engine
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tgxy2026/youth-fantasy-engine) · [官网](https://youth-fantasy-engine.online) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tgxy2026/youth-fantasy-engine) · [官网](https://youth-fantasy-engine.online) · 个人维护 · 中文 README
 
 **网文作者的结构化长篇创作工作台，内置 AI 辅助续写与推演**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tgxy2026/youth-fantasy-engine 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-20", "2026-11-22"]
     y-axis "stars" 8 --> 14
     line [9, 12, 13, 13]
 ```
 
-2026-11-01 9 → 2026-11-21 13（+4）
+2026-11-01 9 → 2026-11-22 13（+4）
 
 
 ---

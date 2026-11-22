@@ -1,6 +1,6 @@
 # Mithlesh04/kavach
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Mithlesh04/kavach) · [官网](https://kavachlang.com/) · 个人维护
+⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Mithlesh04/kavach) · [官网](https://kavachlang.com/) · 个人维护
 
 **面向 AI 编程与 agent 的能力安全编程语言**
 
@@ -46,12 +46,12 @@ Kavach 是一门处于 pre-alpha 阶段的编程语言：函数与 agent 在签�
 ```mermaid
 xychart-beta
     title "Mithlesh04/kavach 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 3 --> 6
-    line [5, 4, 5, 5]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 3 --> 7
+    line [5, 4, 5, 6]
 ```
 
-2026-11-16 5 → 2026-11-21 5（+0）
+2026-11-16 5 → 2026-11-22 6（+1）
 
 
 ---

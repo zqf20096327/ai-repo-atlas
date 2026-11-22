@@ -1,6 +1,6 @@
 # Iuanin666/personal-reasoning-os
 
-⭐ 6 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Iuanin666/personal-reasoning-os) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **个人本地化 Markdown 记忆与推理系统，面向长期使用 AI 的用户**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

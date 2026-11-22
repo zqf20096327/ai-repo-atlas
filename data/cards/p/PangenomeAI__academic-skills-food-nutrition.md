@@ -1,6 +1,6 @@
 # PangenomeAI/academic-skills-food-nutrition
 
-⭐ 45 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/PangenomeAI/academic-skills-food-nutrition) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/PangenomeAI/academic-skills-food-nutrition) · 组织维护
 
 **食品营养与农业科研的 AI agent 技能集：文献综述、写作、评审全流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PangenomeAI/academic-skills-food-nutrition 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 35 --> 46
-    line [36, 37, 38, 39, 37, 41, 42, 43, 45]
+    title "PangenomeAI/academic-skills-food-nutrition 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 35 --> 49
+    line [36, 37, 38, 39, 37, 41, 42, 43, 45, 48]
 ```
 
-2026-10-18 36 → 2026-11-21 45（+9）
+2026-10-19 36 → 2026-11-22 48（+12）
 
 
 ---

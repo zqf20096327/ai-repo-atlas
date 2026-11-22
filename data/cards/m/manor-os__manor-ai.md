@@ -1,6 +1,6 @@
 # manor-os/manor-ai
 
-⭐ 133 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/manor-os/manor-ai) · [官网](https://manorai.xyz) · 组织维护 · 中文 README
+⭐ 134 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/manor-os/manor-ai) · [官网](https://manorai.xyz) · 组织维护 · 中文 README
 
 **面向小团队的自托管 AI agent 工作区：治理化执行任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "manor-os/manor-ai 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-20", "2026-11-21"]
+    title "manor-os/manor-ai 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 129 --> 180
-    line [176, 157, 158, 157, 158, 142, 133]
+    line [176, 157, 158, 157, 158, 142, 133, 134]
 ```
 
-2026-10-19 176 → 2026-11-21 133（-43）
+2026-10-20 176 → 2026-11-22 134（-42）
 
 
 ---

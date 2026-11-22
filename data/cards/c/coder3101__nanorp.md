@@ -1,6 +1,6 @@
 # coder3101/nanorp
 
-⭐ 11 · Rust · MIT · 推送 2026-09-21 · [GitHub](https://github.com/coder3101/nanorp) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/coder3101/nanorp) · 个人维护
 
 **自托管 AI 角色扮演聊天系统：本地数据、接入自有模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "coder3101/nanorp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-21 11（+1）
+2026-10-18 10 → 2026-11-22 11（+1）
 
 
 ---

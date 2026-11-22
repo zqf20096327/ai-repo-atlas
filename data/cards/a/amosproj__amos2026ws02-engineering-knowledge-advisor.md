@@ -1,6 +1,6 @@
 # amosproj/amos2026ws02-engineering-knowledge-advisor
 
-⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/amosproj/amos2026ws02-engineering-knowledge-advisor) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/amosproj/amos2026ws02-engineering-knowledge-advisor) · 组织维护
 
 **面向工程师的工程知识组织与 AI 检索原型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amosproj/amos2026ws02-engineering-knowledge-advisor 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-21 4（+0）
+2026-11-08 4 → 2026-11-22 4（+0）
 
 
 ---

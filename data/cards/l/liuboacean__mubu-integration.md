@@ -1,6 +1,6 @@
 # liuboacean/mubu-integration
 
-⭐ 18 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/liuboacean/mubu-integration) · [官网](https://clawhub.ai/liuboacean/skills/mubu-integration) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/liuboacean/mubu-integration) · [官网](https://clawhub.ai/liuboacean/skills/mubu-integration) · 个人维护 · 中文 README
 
 **幕布大纲的命令行与 AI Agent Skill：Markdown 无损导入导出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liuboacean/mubu-integration 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-19 18 → 2026-11-21 18（+0）
+2026-10-20 18 → 2026-11-22 19（+1）
 
 
 ---

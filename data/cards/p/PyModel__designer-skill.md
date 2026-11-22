@@ -1,6 +1,6 @@
 # PyModel/designer-skill
 
-⭐ 53 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/PyModel/designer-skill) · [官网](https://niblet.pymodel.com/) · 组织维护
+⭐ 54 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/PyModel/designer-skill) · [官网](https://niblet.pymodel.com/) · 组织维护
 
 **给编码 agent 加 UI 设计能力的 MCP 技能服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PyModel/designer-skill 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 46 --> 54
-    line [47, 48, 49, 50, 48, 52, 53, 53]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 46 --> 55
+    line [47, 48, 49, 50, 48, 52, 53, 54]
 ```
 
-2026-10-19 47 → 2026-11-21 53（+6）
+2026-10-20 47 → 2026-11-22 54（+7）
 
 
 ---

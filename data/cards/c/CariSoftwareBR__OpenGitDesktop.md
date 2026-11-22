@@ -1,6 +1,6 @@
 # CariSoftwareBR/OpenGitDesktop
 
-⭐ 4 · TypeScript · GPL-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/CariSoftwareBR/OpenGitDesktop) · [官网](https://github.com/CariSoftwareBR/OpenGitDesktop/releases/latest) · 组织维护
+⭐ 4 · TypeScript · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/CariSoftwareBR/OpenGitDesktop) · [官网](https://github.com/CariSoftwareBR/OpenGitDesktop/releases/latest) · 组织维护
 
 **带受监督 AI 助手的跨平台桌面 Git 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CariSoftwareBR/OpenGitDesktop 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-21 4（+1）
+2026-11-08 3 → 2026-11-22 4（+1）
 
 
 ---

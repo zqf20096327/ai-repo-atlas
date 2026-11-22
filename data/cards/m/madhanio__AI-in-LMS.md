@@ -1,6 +1,6 @@
 # madhanio/AI-in-LMS
 
-⭐ 24 · Dart · 推送 2026-07-14 · [GitHub](https://github.com/madhanio/AI-in-LMS) · 个人维护
+⭐ 25 · Dart · 推送 2026-07-14 · [GitHub](https://github.com/madhanio/AI-in-LMS) · 个人维护
 
 **Moodle 集成的 RAG 学术答疑助手，含 Flutter 移动端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madhanio/AI-in-LMS 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-19 22 → 2026-11-21 24（+2）
+2026-10-20 22 → 2026-11-22 25（+3）
 
 
 ---

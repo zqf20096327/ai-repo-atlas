@@ -1,6 +1,6 @@
 # kadaliao/open-super-agent
 
-⭐ 15 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kadaliao/open-super-agent) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kadaliao/open-super-agent) · 个人维护 · 中文 README
 
 **自托管的常驻 AI 队友：能聊天派活并操作电脑**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kadaliao/open-super-agent 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
     y-axis "stars" 6 --> 16
     line [8, 7, 8, 10, 12, 15, 15]
 ```
 
-2026-11-08 8 → 2026-11-21 15（+7）
+2026-11-08 8 → 2026-11-22 15（+7）
 
 
 ---

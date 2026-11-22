@@ -1,6 +1,6 @@
 # cloakyard/cloakpdf
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/cloakyard/cloakpdf) · [官网](https://pdf.cloakyard.com) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/cloakyard/cloakpdf) · [官网](https://pdf.cloakyard.com) · 个人维护
 
 **完全在浏览器本地运行的隐私优先 PDF 编辑工具箱**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cloakyard/cloakpdf 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-14", "2026-11-22"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-19 15 → 2026-11-21 16（+1）
+2026-10-20 15 → 2026-11-22 16（+1）
 
 
 ---

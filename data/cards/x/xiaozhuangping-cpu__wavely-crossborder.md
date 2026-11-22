@@ -1,6 +1,6 @@
 # xiaozhuangping-cpu/wavely-crossborder
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/xiaozhuangping-cpu/wavely-crossborder) · [官网](https://xiaozhuangping-cpu.github.io/wavely-crossborder/) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/xiaozhuangping-cpu/wavely-crossborder) · [官网](https://xiaozhuangping-cpu.github.io/wavely-crossborder/) · 个人维护 · 中文 README
 
 **跨境电商全链路演示：ERP+独立站+仓库App+AI助手**
 
@@ -40,6 +40,18 @@
 > L14: 虚构品牌「Wavely 海浪优选」的跨境电商全链路演示：**ERP 后台 + 多语言独立站 + 仓库 App + 1688 采集插件 + AI 助手 + AI 场景短片**，后端全部跑在 Supabase 免费版上，数据每天自动重
 > L37: - **✦ AI 运营助手**：问销售数据、找补货商品、写多语言 Listing、批量发货。只读工具在服务端以访客身份执行（遵守 RLS），写操作只生成「提案」，用户点确认后才执行
 > L84: - **✦ AI 客服**：导购（只推荐目录里真实存在的商品）、查订单物流、政策问答，全程只读
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xiaozhuangping-cpu/wavely-crossborder 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-21 3 → 2026-11-22 4（+1）
 
 
 ---

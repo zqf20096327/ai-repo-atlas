@@ -1,6 +1,6 @@
 # silvexe/RepertIA
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/silvexe/RepertIA) · [官网](https://github.com/silvexe/RepertIA/releases/latest) · 个人维护
+⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/silvexe/RepertIA) · [官网](https://github.com/silvexe/RepertIA/releases/latest) · 个人维护
 
 **取证分析工具：磁盘镜像/手机提取/无人机日志，AI 助手可选**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "silvexe/RepertIA 星数(近 10 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-22"]
     y-axis "stars" 1 --> 26
     line [3, 5, 7, 15, 16, 20, 22, 23, 24, 24]
 ```
 
-2026-10-26 3 → 2026-11-21 24（+21）
+2026-10-26 3 → 2026-11-22 24（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # Cashara-io/eunomia
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Cashara-io/eunomia) · [官网](https://www.buildpaperless.com.au/eunomia) · 组织维护
+⭐ 15 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Cashara-io/eunomia) · [官网](https://www.buildpaperless.com.au/eunomia) · 组织维护
 
 **自托管的 AI agent 共享记忆服务：按 vault 存取人物、事实与决策**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Cashara-io/eunomia 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
     y-axis "stars" 12 --> 16
     line [13, 14, 13, 14, 15, 15]
 ```
 
-2026-10-25 13 → 2026-11-21 15（+2）
+2026-10-25 13 → 2026-11-22 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mlpack/ensmallen
 
-⭐ 814 · C++ · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/mlpack/ensmallen) · [官网](http://ensmallen.org) · 组织维护
+⭐ 814 · C++ · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/mlpack/ensmallen) · [官网](http://ensmallen.org) · 组织维护
 
 **给 C++ 开发者的头文件数值优化函数库**
 
@@ -46,12 +46,12 @@ ensmallen 是 header-only 的 C++ 非线性数值优化库，提供梯度下降�
 ```mermaid
 xychart-beta
     title "mlpack/ensmallen 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 813 --> 815
     line [814, 814]
 ```
 
-2026-10-19 814 → 2026-11-21 814（+0）
+2026-10-20 814 → 2026-11-22 814（+0）
 
 
 ---

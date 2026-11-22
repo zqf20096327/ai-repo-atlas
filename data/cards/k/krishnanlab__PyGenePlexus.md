@@ -44,12 +44,12 @@ GenePlexus 分析流程的 Python 包：读取输入基因列表，在生物网�
 ```mermaid
 xychart-beta
     title "krishnanlab/PyGenePlexus 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 21（+0）
 
 
 ---

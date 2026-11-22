@@ -1,6 +1,6 @@
 # thejarasal780-ship-it/ollama-local-ai-offline
 
-⭐ 155 · Python · 推送 2026-11-20 · [GitHub](https://github.com/thejarasal780-ship-it/ollama-local-ai-offline) · 个人维护
+⭐ 150 · Python · 推送 2026-11-21 · [GitHub](https://github.com/thejarasal780-ship-it/ollama-local-ai-offline) · 个人维护
 
 **面向工程与研究人员的本地离线 LLM 桌面客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thejarasal780-ship-it/ollama-local-ai-offline 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "thejarasal780-ship-it/ollama-local-ai-offline 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 61 --> 163
-    line [69, 155]
+    line [69, 155, 150]
 ```
 
-2026-11-20 69 → 2026-11-21 155（+86）
+2026-11-20 69 → 2026-11-22 150（+81）
 
 
 ---

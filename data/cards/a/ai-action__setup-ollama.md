@@ -1,6 +1,6 @@
 # ai-action/setup-ollama
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ai-action/setup-ollama) · [官网](https://github.com/marketplace/actions/setup-ollama) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ai-action/setup-ollama) · [官网](https://github.com/marketplace/actions/setup-ollama) · 组织维护
 
 **在 GitHub Actions 中安装 Ollama CLI 的 Action**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 GitHub Action，用于在 CI 工作流中安装 Ollama CLI�
 
 ```mermaid
 xychart-beta
-    title "ai-action/setup-ollama 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    title "ai-action/setup-ollama 星数(近 7 点)"
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 15 --> 19
-    line [16, 17, 16, 17, 18, 17]
+    line [16, 17, 16, 17, 18, 17, 17]
 ```
 
-2026-10-19 16 → 2026-11-21 17（+1）
+2026-10-20 16 → 2026-11-22 17（+1）
 
 
 ---

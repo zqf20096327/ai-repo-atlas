@@ -1,6 +1,6 @@
 # withceleste/celeste-python
 
-⭐ 228 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/withceleste/celeste-python) · [官网](https://withceleste.ai/) · 组织维护
+⭐ 228 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/withceleste/celeste-python) · [官网](https://withceleste.ai/) · 组织维护
 
 **多模态 AI 的类型安全 Python 基础原语库，统一接口接多家提供商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "withceleste/celeste-python 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-22"]
     y-axis "stars" 220 --> 229
     line [221, 226, 227, 228, 228]
 ```
 
-2026-10-19 221 → 2026-11-21 228（+7）
+2026-10-20 221 → 2026-11-22 228（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # mumblebox-gpt/mumblebox-foundry
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/mumblebox-gpt/mumblebox-foundry) · [官网](https://pinokio.co/apps/github-com-mumblebox-gpt-mumblebox-foundry) · 个人维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/mumblebox-gpt/mumblebox-foundry) · [官网](https://pinokio.co/apps/github-com-mumblebox-gpt-mumblebox-foundry) · 个人维护 · 中文 README
 
 **本地 GPU 上的 AI 3D 资产生成与实验性自动绑骨工具，面向游戏/3D 创作者**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "mumblebox-gpt/mumblebox-foundry 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 7 --> 10
-    line [8, 9, 9]
+    x-axis ["2026-11-11", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-11 8 → 2026-11-21 9（+1）
+2026-11-11 8 → 2026-11-22 10（+2）
 
 
 ---

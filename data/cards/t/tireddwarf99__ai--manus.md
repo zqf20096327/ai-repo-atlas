@@ -1,6 +1,6 @@
 # tireddwarf99/ai--manus
 
-⭐ 178 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tireddwarf99/ai--manus) · 个人维护
+⭐ 174 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tireddwarf99/ai--manus) · 个人维护
 
 **自主执行代码与控制浏览器的通用 AI Agent 助手**
 
@@ -44,12 +44,12 @@ README 描述的 Manus 是一个面向终端用户的自主 AI 代理：接收�
 ```mermaid
 xychart-beta
     title "tireddwarf99/ai--manus 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22"]
     y-axis "stars" 106 --> 264
-    line [119, 251, 179, 178, 178]
+    line [119, 251, 179, 178, 174]
 ```
 
-2026-11-13 119 → 2026-11-21 178（+59）
+2026-11-13 119 → 2026-11-22 174（+55）
 
 
 ---

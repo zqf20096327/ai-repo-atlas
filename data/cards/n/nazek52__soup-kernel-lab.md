@@ -40,6 +40,18 @@
 > L5: Самостоятельный проект по оптимизации обучения языковой модели: собственные Triton-ядра **RMSNorm и cross-entropy**,
 > L120: Задача фиксирована: Soup 0.77.0, Qwen2.5-1.5B-Instruct, NF4, LoRA rank 16,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nazek52/soup-kernel-lab 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `7a1a7a8ea374` · [字段定义](../../DATASET.md)*

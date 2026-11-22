@@ -1,6 +1,6 @@
 # 01NGVI-QINGYI/dsh-mistral-pro
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/01NGVI-QINGYI/dsh-mistral-pro) · 个人维护 · 中文 README
+⭐ 9 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/01NGVI-QINGYI/dsh-mistral-pro) · 个人维护 · 中文 README
 
 **在 DeepSeek Harness 中接入 Mistral 订阅的插件**
 
@@ -44,13 +44,13 @@ DSH（DeepSeek Harness）的第三方插件：将 Mistral 订阅（Vibe Pro / Te
 
 ```mermaid
 xychart-beta
-    title "01NGVI-QINGYI/dsh-mistral-pro 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21"]
+    title "01NGVI-QINGYI/dsh-mistral-pro 星数(近 6 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 11
-    line [3, 5, 6, 8, 10]
+    line [3, 5, 6, 8, 10, 9]
 ```
 
-2026-11-14 3 → 2026-11-21 10（+7）
+2026-11-14 3 → 2026-11-22 9（+6）
 
 
 ---

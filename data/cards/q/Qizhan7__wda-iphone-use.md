@@ -1,6 +1,6 @@
 # Qizhan7/wda-iphone-use
 
-⭐ 32 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Qizhan7/wda-iphone-use) · 个人维护 · 中文 README
+⭐ 33 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Qizhan7/wda-iphone-use) · 个人维护 · 中文 README
 
 **让 AI 通过 MCP 控制真实 iPhone 的服务器**
 
@@ -40,6 +40,18 @@
 > L3: # wda-iphone-use — Let AI Use a Real iPhone
 > L11: - **Let the AI drive it.** Tap, swipe, type, take screenshots and read what is on the screen, through an MCP server
 > L138: - **Python 3.12+** with `mcp[cli]` installed
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Qizhan7/wda-iphone-use 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
+```
+
+2026-11-21 32 → 2026-11-22 33（+1）
 
 
 ---

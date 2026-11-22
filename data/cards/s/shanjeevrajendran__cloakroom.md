@@ -1,6 +1,6 @@
 # shanjeevrajendran/cloakroom
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/shanjeevrajendran/cloakroom) · [官网](https://cloakroom.sh/) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/shanjeevrajendran/cloakroom) · [官网](https://cloakroom.sh/) · 个人维护
 
 **AI 编码代理读取文件前在本地掩码密钥与个人隐私数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shanjeevrajendran/cloakroom 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 3 --> 14
-    line [4, 6, 7, 8, 9, 10, 6, 11, 12, 13, 13]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 3 --> 15
+    line [4, 6, 7, 8, 9, 10, 6, 11, 12, 13, 14]
 ```
 
-2026-10-19 4 → 2026-11-21 13（+9）
+2026-10-20 4 → 2026-11-22 14（+10）
 
 
 ---

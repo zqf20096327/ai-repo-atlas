@@ -1,6 +1,6 @@
 # The-AI-Alliance/trust-safety-evals
 
-⭐ 20 · Makefile · 推送 2026-11-02 · [GitHub](https://github.com/The-AI-Alliance/trust-safety-evals) · [官网](https://the-ai-alliance.github.io/trust-safety-evals/) · 组织维护
+⭐ 21 · Makefile · 推送 2026-11-02 · [GitHub](https://github.com/The-AI-Alliance/trust-safety-evals) · [官网](https://the-ai-alliance.github.io/trust-safety-evals/) · 组织维护
 
 **AI Alliance 的 AI 模型与系统评测参考栈项目**
 
@@ -44,12 +44,12 @@ The AI Alliance 信任与安全评测倡议的代码与文档仓库：定义 AI 
 ```mermaid
 xychart-beta
     title "The-AI-Alliance/trust-safety-evals 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-19 20 → 2026-11-21 20（+0）
+2026-10-20 20 → 2026-11-22 21（+1）
 
 
 ---

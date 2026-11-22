@@ -43,12 +43,12 @@ CRAN 官方任务视图之一，聚焦用 R 进行模型部署（model deploymen
 ```mermaid
 xychart-beta
     title "cran-task-views/ModelDeployment 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-19 20 → 2026-11-21 20（+0）
+2026-10-20 20 → 2026-11-22 20（+0）
 
 
 ---

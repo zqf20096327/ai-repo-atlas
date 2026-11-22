@@ -1,6 +1,6 @@
 # Jweokk/ai-native-organization-book
 
-⭐ 27 · Python · 推送 2026-11-14 · [GitHub](https://github.com/Jweokk/ai-native-organization-book) · 个人维护 · 中文 README
+⭐ 27 · Python · 推送 2026-11-21 · [GitHub](https://github.com/Jweokk/ai-native-organization-book) · 个人维护 · 中文 README
 
 **免费开源书籍：AI 原生组织的定义、证据与落地方法**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Jweokk/ai-native-organization-book 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-22"]
     y-axis "stars" 23 --> 28
     line [24, 25, 24, 25, 26, 27, 27]
 ```
 
-2026-10-19 24 → 2026-11-21 27（+3）
+2026-10-20 24 → 2026-11-22 27（+3）
 
 
 ---

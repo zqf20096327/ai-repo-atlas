@@ -1,6 +1,6 @@
 # blackhaiyu-sudo/specrag
 
-⭐ 99 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/blackhaiyu-sudo/specrag) · [官网](https://github.com/blackhaiyu-sudo/specrag#readme) · 个人维护 · 中文 README
+⭐ 100 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/blackhaiyu-sudo/specrag) · [官网](https://github.com/blackhaiyu-sudo/specrag#readme) · 个人维护 · 中文 README
 
 **面向业务文档与产品截图的证据型 RAG 知识库**
 
@@ -45,12 +45,12 @@ SpecRAG 是一个将 PRD、业务规则、SOP、流程文档与产品截图转�
 ```mermaid
 xychart-beta
     title "blackhaiyu-sudo/specrag 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 97 --> 100
-    line [98, 99, 99]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 97 --> 101
+    line [98, 99, 100]
 ```
 
-2026-10-19 98 → 2026-11-21 99（+1）
+2026-10-20 98 → 2026-11-22 100（+2）
 
 
 ---

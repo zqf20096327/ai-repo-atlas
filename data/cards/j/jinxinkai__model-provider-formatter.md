@@ -1,6 +1,6 @@
 # jinxinkai/model-provider-formatter
 
-⭐ 3 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/jinxinkai/model-provider-formatter) · [官网](https://jinxinkai.github.io/model-provider-formatter/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **把 /v1/models 列表转成 OpenCode/Cherry Studio 等客户端配置的工具**
 

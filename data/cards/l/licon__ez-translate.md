@@ -1,6 +1,6 @@
 # licon/ez-translate
 
-⭐ 49 · JavaScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/licon/ez-translate) · [官网](https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=github) · 个人维护 · 中文 README
+⭐ 50 · JavaScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/licon/ez-translate) · [官网](https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=github) · 个人维护 · 中文 README
 
 **基于 LLM 的浏览器划词/截图/弹窗翻译扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "licon/ez-translate 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-19 49 → 2026-11-21 49（+0）
+2026-10-20 49 → 2026-11-22 50（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # pluveto/daan
 
-⭐ 278 · TypeScript · AGPL-3.0 · 推送 2025-11-25 · [GitHub](https://github.com/pluveto/daan) · [官网](https://daan.one) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **浏览器中的轻量 LLM 聊天客户端，支持 MCP 与角色设定**
 
@@ -11,7 +11,7 @@ Daan（答案）是一个轻量级大语言模型客户端，兼容 OpenAI GPT �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

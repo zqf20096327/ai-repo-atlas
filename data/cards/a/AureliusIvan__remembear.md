@@ -1,6 +1,6 @@
 # AureliusIvan/remembear
 
-⭐ 10 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/AureliusIvan/remembear) · [官网](https://remembear.ivann.my.id/) · 个人维护
+⭐ 10 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/AureliusIvan/remembear) · [官网](https://remembear.ivann.my.id/) · 个人维护
 
 **面向短期记忆需求者的备忘应用，AI 辅助记忆管理**
 
@@ -46,12 +46,12 @@ Remembear 是一款帮助用户记录短期事项（购物清单、待办等）�
 ```mermaid
 xychart-beta
     title "AureliusIvan/remembear 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # PinataFarms/DAD-3DHeads
 
-⭐ 512 · Python · NOASSERTION · 推送 2026-01-23 · [GitHub](https://github.com/PinataFarms/DAD-3DHeads) · 组织维护
+⭐ 513 · Python · NOASSERTION · 推送 2026-01-23 · [GitHub](https://github.com/PinataFarms/DAD-3DHeads) · 组织维护
 
 **CVPR 2022 论文官方仓库：单图 3D 头部对齐数据集与训练代码**
 
@@ -45,12 +45,12 @@ DAD-3DHeads 论文（CVPR 2022）的官方仓库，提供大规模 3D 头部对�
 ```mermaid
 xychart-beta
     title "PinataFarms/DAD-3DHeads 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
     y-axis "stars" 511 --> 514
-    line [513, 512, 512]
+    line [513, 512, 513]
 ```
 
-2026-10-19 513 → 2026-11-21 512（-1）
+2026-10-20 513 → 2026-11-22 513（+0）
 
 
 ---

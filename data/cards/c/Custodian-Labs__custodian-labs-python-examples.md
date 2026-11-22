@@ -45,12 +45,12 @@ Custodian Labs Python SDK 的官方示例仓库：开发者以少量代码描述
 ```mermaid
 xychart-beta
     title "Custodian-Labs/custodian-labs-python-examples 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-19 18 → 2026-11-21 18（+0）
+2026-10-20 18 → 2026-11-22 18（+0）
 
 
 ---

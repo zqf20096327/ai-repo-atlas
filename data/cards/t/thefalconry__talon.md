@@ -1,6 +1,6 @@
 # thefalconry/talon
 
-⭐ 70 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/thefalconry/talon) · [官网](https://thefalconry.github.io) · 组织维护
+⭐ 72 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/thefalconry/talon) · [官网](https://thefalconry.github.io) · 组织维护
 
 **多平台 agentic AI 运行框架：Telegram/WhatsApp/Discord/Teams/终端/桌面运行可插拔后端 agent**
 
@@ -47,12 +47,12 @@ Talon 是自托管的 Node.js/TypeScript agentic AI harness，将一个 agent �
 ```mermaid
 xychart-beta
     title "thefalconry/talon 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-22"]
     y-axis "stars" 68 --> 80
-    line [79, 74, 75, 76, 77, 74, 70, 69, 71, 70, 70]
+    line [79, 74, 75, 76, 77, 74, 70, 69, 71, 70, 72]
 ```
 
-2026-10-19 79 → 2026-11-21 70（-9）
+2026-10-20 79 → 2026-11-22 72（-7）
 
 
 ---

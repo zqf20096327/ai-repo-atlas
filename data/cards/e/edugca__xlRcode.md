@@ -40,6 +40,18 @@
 > L3: Call R from Excel. Create new Excel functions that make use of R packages. Integrate both tools seamlessly.
 > L18:  - Run R code in a local environment and transfer values from and to Excel. Function memory is cleared after calcul
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "edugca/xlRcode 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 33 --> 35
+    line [34, 34]
+```
+
+2026-11-21 34 → 2026-11-22 34（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `74520b26ae9b` · [字段定义](../../DATASET.md)*

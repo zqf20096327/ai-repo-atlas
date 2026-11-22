@@ -1,6 +1,6 @@
 # sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch
 
-⭐ 55 · Python · GPL-3.0 · 推送 2026-08-17 · [GitHub](https://github.com/sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch) · 个人维护
+⭐ 56 · Python · GPL-3.0 · 推送 2026-08-17 · [GitHub](https://github.com/sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch) · 个人维护
 
 **ComfyUI 加载期补丁：将 28 块 Anima LoRA 正确映射到 40 块 Anima-2.9B**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 44 --> 56
-    line [45, 46, 47, 48, 49, 46, 50, 52, 54, 55, 55]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 44 --> 57
+    line [45, 46, 47, 48, 49, 46, 50, 52, 54, 55, 56]
 ```
 
-2026-10-19 45 → 2026-11-21 55（+10）
+2026-10-20 45 → 2026-11-22 56（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # athulsreekumar/opendot
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/athulsreekumar/opendot) · [官网](https://opendot.live) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/athulsreekumar/opendot) · [官网](https://opendot.live) · 个人维护
 
 **本地优先的桌面多 AI 助手团队应用（Mac/Windows）**
 
@@ -46,12 +46,12 @@ Mac 与 Windows 桌面应用（Electron + React），提供名为 Dots 的单职
 ```mermaid
 xychart-beta
     title "athulsreekumar/opendot 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 12 --> 19
-    line [13, 16, 17, 18, 18]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 12 --> 20
+    line [13, 16, 17, 18, 19]
 ```
 
-2026-10-31 13 → 2026-11-21 18（+5）
+2026-10-31 13 → 2026-11-22 19（+6）
 
 
 ---

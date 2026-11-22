@@ -41,6 +41,18 @@
 > L31: You paste a text script, pick a style preset, and it produces a finished MP4 — narrated, scored,
 > L37: Every stage is local: Wan2.1 renders the video through
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "06pratyush/ai-video-pipeline 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `e14f0cb8b47d` · [字段定义](../../DATASET.md)*

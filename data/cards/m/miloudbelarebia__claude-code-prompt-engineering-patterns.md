@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "miloudbelarebia/claude-code-prompt-engineering-patterns 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "miloudbelarebia/claude-code-prompt-engineering-patterns 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-22"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-21 16（+2）
+2026-10-19 15 → 2026-11-22 16（+1）
 
 
 ---

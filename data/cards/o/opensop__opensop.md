@@ -46,12 +46,12 @@ OpenSOP 提供一个单文件 bash CLI，将 agent 工作流写成 .sop.json 文
 ```mermaid
 xychart-beta
     title "opensop/opensop 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-11", "2026-11-22"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-11 13 → 2026-11-21 13（+0）
+2026-11-11 13 → 2026-11-22 13（+0）
 
 
 ---

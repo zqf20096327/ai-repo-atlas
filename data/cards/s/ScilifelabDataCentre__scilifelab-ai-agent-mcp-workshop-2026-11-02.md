@@ -1,6 +1,6 @@
 # ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-11-02
 
-⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-11-02) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-11-02) · 组织维护
 
 **面向生命科学研究者的 AI Agent 开发线下工作坊材料**
 
@@ -46,12 +46,12 @@ SciLifeLab Data Centre 于 2026-11-02 在 Lund 举办的线下实操工作坊「
 ```mermaid
 xychart-beta
     title "ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-11-02 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 3, 4, 4]
 ```
 
-2026-10-31 3 → 2026-11-21 4（+1）
+2026-10-31 3 → 2026-11-22 4（+1）
 
 
 ---

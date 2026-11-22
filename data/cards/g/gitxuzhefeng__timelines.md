@@ -1,6 +1,6 @@
 # gitxuzhefeng/timelines
 
-⭐ 18 · Rust · MIT · 推送 2026-06-01 · [GitHub](https://github.com/gitxuzhefeng/timelines) · [官网](https://timelens-pi.vercel.app/) · 个人维护 · 中文 README
+⭐ 19 · Rust · MIT · 推送 2026-06-01 · [GitHub](https://github.com/gitxuzhefeng/timelines) · [官网](https://timelens-pi.vercel.app/) · 个人维护 · 中文 README
 
 **本地优先的 AI 时间追踪桌面应用，自动记录并复盘屏幕时间**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gitxuzhefeng/timelines 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-19 18 → 2026-11-21 18（+0）
+2026-10-20 18 → 2026-11-22 19（+1）
 
 
 ---

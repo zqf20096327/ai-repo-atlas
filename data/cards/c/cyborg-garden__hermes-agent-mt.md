@@ -46,12 +46,12 @@ Nous Research hermes-agent 的多租户分支，增加按上下文隔离的记�
 ```mermaid
 xychart-beta
     title "cyborg-garden/hermes-agent-mt 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-19 14 → 2026-11-21 14（+0）
+2026-10-20 14 → 2026-11-22 14（+0）
 
 
 ---

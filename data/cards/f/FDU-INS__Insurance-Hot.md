@@ -1,6 +1,6 @@
 # FDU-INS/Insurance-Hot
 
-⭐ 16 · 推送 2026-11-16 · [GitHub](https://github.com/FDU-INS/Insurance-Hot) · [官网](https://www.insurance-hot.com) · 组织维护 · 中文 README
+⭐ 17 · 推送 2026-11-16 · [GitHub](https://github.com/FDU-INS/Insurance-Hot) · [官网](https://www.insurance-hot.com) · 组织维护 · 中文 README
 
 **面向人与 AI 智能体的全球保险资讯聚合平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "FDU-INS/Insurance-Hot 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 4 --> 17
-    line [5, 12, 13, 14, 15, 16]
+    title "FDU-INS/Insurance-Hot 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 18
+    line [5, 12, 13, 14, 15, 16, 17]
 ```
 
-2026-11-13 5 → 2026-11-21 16（+11）
+2026-11-13 5 → 2026-11-22 17（+12）
 
 
 ---

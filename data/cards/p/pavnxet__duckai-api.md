@@ -1,6 +1,6 @@
 # pavnxet/duckai-api
 
-⭐ 5 · Python · 推送 2026-11-11 · [GitHub](https://github.com/pavnxet/duckai-api) · [官网](https://pavnxet.github.io/duckai-api/) · 个人维护
+⭐ 6 · Python · 推送 2026-11-11 · [GitHub](https://github.com/pavnxet/duckai-api) · [官网](https://pavnxet.github.io/duckai-api/) · 个人维护
 
 **自托管的 Duck.ai 转 OpenAI 兼容 API 代理与 Web 聊天界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pavnxet/duckai-api 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 2 --> 7
+    line [3, 5, 6]
 ```
 
-2026-11-16 3 → 2026-11-21 5（+2）
+2026-11-16 3 → 2026-11-22 6（+3）
 
 
 ---

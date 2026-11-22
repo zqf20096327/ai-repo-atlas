@@ -1,6 +1,6 @@
 # cotletdev/skool-api-mcp-server
 
-⭐ 9 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/skool-api-mcp-server) · [官网](https://cotlet.dev/integrations/skool-api-mcp-server) · 组织维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/skool-api-mcp-server) · [官网](https://cotlet.dev/integrations/skool-api-mcp-server) · 组织维护
 
 **把 Skool 社区接入 MCP 客户端与 AI 代理的 API 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cotletdev/skool-api-mcp-server 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 6 --> 10
-    line [7, 8, 9]
+    title "cotletdev/skool-api-mcp-server 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 6 --> 11
+    line [7, 8, 9, 10]
 ```
 
-2026-11-08 7 → 2026-11-21 9（+2）
+2026-11-08 7 → 2026-11-22 10（+3）
 
 
 ---

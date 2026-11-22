@@ -1,6 +1,6 @@
 # Lumidarin/agy-capsule
 
-⭐ 133 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Lumidarin/agy-capsule) · 个人维护 · 中文 README
+⭐ 154 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Lumidarin/agy-capsule) · 个人维护 · 中文 README
 
 **Antigravity 插件：在输入框底栏显示上下文占用与模型配额**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lumidarin/agy-capsule 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 12 --> 144
-    line [23, 39, 72, 103, 133]
+    title "Lumidarin/agy-capsule 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 10 --> 167
+    line [23, 39, 72, 103, 133, 154]
 ```
 
-2026-11-16 23 → 2026-11-21 133（+110）
+2026-11-16 23 → 2026-11-22 154（+131）
 
 
 ---

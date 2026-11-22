@@ -1,6 +1,6 @@
 # AlaeddineMessadi/opencode-mcp
 
-⭐ 167 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlaeddineMessadi/opencode-mcp) · [官网](https://www.npmjs.com/package/opencode-mcp) · 个人维护
+⭐ 166 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlaeddineMessadi/opencode-mcp) · [官网](https://www.npmjs.com/package/opencode-mcp) · 个人维护
 
 **把编码任务委托给 OpenCode 的 MCP 服务器（70 工具/10 资源/5 提示）**
 
@@ -44,13 +44,13 @@ opencode-mcp 将 Claude Desktop、Claude Code、Cursor、VS Code、Windsurf 等 
 
 ```mermaid
 xychart-beta
-    title "AlaeddineMessadi/opencode-mcp 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21"]
+    title "AlaeddineMessadi/opencode-mcp 星数(近 11 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 151 --> 168
-    line [152, 155, 156, 158, 159, 158, 162, 163, 164, 167]
+    line [152, 155, 156, 158, 159, 158, 162, 163, 164, 167, 166]
 ```
 
-2026-10-19 152 → 2026-11-21 167（+15）
+2026-10-20 152 → 2026-11-22 166（+14）
 
 
 ---

@@ -46,12 +46,12 @@ AWS 官方 samples 仓库提供的示例 notebook，演示利用 Amazon Textract
 ```mermaid
 xychart-beta
     title "aws-samples/layout-aware-document-processing-and-retrieval-augmented-generation 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 120 --> 122
     line [121, 121]
 ```
 
-2026-10-19 121 → 2026-11-21 121（+0）
+2026-10-20 121 → 2026-11-22 121（+0）
 
 
 ---

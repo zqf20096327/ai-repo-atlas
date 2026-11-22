@@ -1,6 +1,6 @@
 # AgentBull/open-ankole
 
-⭐ 222 · Elixir · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AgentBull/open-ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
+⭐ 223 · Elixir · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AgentBull/open-ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
 
 **自托管企业级 Agent Harness：在自有基础设施上运行跨 Slack/飞书等渠道的 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentBull/open-ankole 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 213 --> 223
-    line [214, 219, 222]
+    title "AgentBull/open-ankole 星数(近 4 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 213 --> 224
+    line [214, 219, 222, 223]
 ```
 
-2026-11-19 214 → 2026-11-21 222（+8）
+2026-11-19 214 → 2026-11-22 223（+9）
 
 
 ---

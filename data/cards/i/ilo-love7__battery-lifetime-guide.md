@@ -1,6 +1,6 @@
 # ilo-love7/battery-lifetime-guide
 
-⭐ 3 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ilo-love7/battery-lifetime-guide) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ilo-love7/battery-lifetime-guide) · 个人维护 · 中文 README
 
 **复现 Severson 2019 电池寿命预测的中文学习攻略库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ilo-love7/battery-lifetime-guide 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-16", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-21 3（+0）
+2026-11-16 3 → 2026-11-22 3（+0）
 
 
 ---

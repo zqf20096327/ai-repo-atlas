@@ -1,6 +1,6 @@
 # RobotFlow-Labs/container-toolkit-mlx
 
-⭐ 10 · Swift · MIT · 推送 2026-03-15 · [GitHub](https://github.com/RobotFlow-Labs/container-toolkit-mlx) · [官网](https://robotflowlabs.com) · 组织维护
+⭐ 11 · Swift · MIT · 推送 2026-03-15 · [GitHub](https://github.com/RobotFlow-Labs/container-toolkit-mlx) · [官网](https://robotflowlabs.com) · 组织维护
 
 **让 Linux 容器在 Apple Silicon 上调用主机 Metal GPU 跑 MLX 推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RobotFlow-Labs/container-toolkit-mlx 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AsfandyarKhan72/PINNStudio
 
-⭐ 35 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/AsfandyarKhan72/PINNStudio) · [官网](https://asfandyarkhan72.github.io/PINNStudio/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/AsfandyarKhan72/PINNStudio) · [官网](https://asfandyarkhan72.github.io/PINNStudio/) · 个人维护
 
 **无代码的物理信息神经网络科学计算环境：求解正/逆问题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AsfandyarKhan72/PINNStudio 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 19 --> 36
-    line [20, 31, 35]
+    title "AsfandyarKhan72/PINNStudio 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 19 --> 38
+    line [20, 31, 35, 37]
 ```
 
-2026-10-19 20 → 2026-11-21 35（+15）
+2026-10-20 20 → 2026-11-22 37（+17）
 
 
 ---

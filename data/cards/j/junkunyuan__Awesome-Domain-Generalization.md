@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "junkunyuan/Awesome-Domain-Generalization 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-21"]
+    title "junkunyuan/Awesome-Domain-Generalization 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 543 --> 546
-    line [544, 545, 544]
+    line [544, 545, 544, 544]
 ```
 
-2026-11-08 544 → 2026-11-21 544（+0）
+2026-11-08 544 → 2026-11-22 544（+0）
 
 
 ---

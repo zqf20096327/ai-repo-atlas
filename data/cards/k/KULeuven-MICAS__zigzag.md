@@ -1,6 +1,6 @@
 # KULeuven-MICAS/zigzag
 
-⭐ 210 · C++ · MIT · 推送 2026-11-06 · [GitHub](https://github.com/KULeuven-MICAS/zigzag) · [官网](https://kuleuven-micas.github.io/zigzag/) · 组织维护
+⭐ 211 · C++ · MIT · 推送 2026-11-06 · [GitHub](https://github.com/KULeuven-MICAS/zigzag) · [官网](https://kuleuven-micas.github.io/zigzag/) · 组织维护
 
 **面向 DL 加速器的架构-映射设计空间探索框架**
 
@@ -45,12 +45,12 @@ ZigZag 是一个用于深度学习加速器的硬件架构与映射设计空间�
 ```mermaid
 xychart-beta
     title "KULeuven-MICAS/zigzag 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 204 --> 211
-    line [206, 205, 207, 210, 210]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 204 --> 212
+    line [206, 205, 207, 210, 211]
 ```
 
-2026-10-19 206 → 2026-11-21 210（+4）
+2026-10-20 206 → 2026-11-22 211（+5）
 
 
 ---

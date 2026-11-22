@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ADT109119/llamacpp-distributed-inference 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 94 --> 96
     line [95, 95]
 ```
 
-2026-10-18 95 → 2026-11-21 95（+0）
+2026-10-19 95 → 2026-11-22 95（+0）
 
 
 ---

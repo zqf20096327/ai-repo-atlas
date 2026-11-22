@@ -1,6 +1,6 @@
 # raven-clown/transponder
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/raven-clown/transponder) · 个人维护
+⭐ 6 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/raven-clown/transponder) · 个人维护
 
 **团队的 LLM 网关：统一 API 接入多家模型并管用量预算**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "raven-clown/transponder 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "raven-clown/transponder 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 6]
 ```
 
-2026-11-08 3 → 2026-11-21 4（+1）
+2026-11-08 3 → 2026-11-22 6（+3）
 
 
 ---

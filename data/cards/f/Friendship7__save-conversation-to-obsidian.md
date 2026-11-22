@@ -1,6 +1,6 @@
 # Friendship7/save-conversation-to-obsidian
 
-⭐ 10 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Friendship7/save-conversation-to-obsidian) · 个人维护
+⭐ 11 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Friendship7/save-conversation-to-obsidian) · 个人维护
 
 **给 Obsidian 用户把 AI 对话存成结构化笔记的技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Friendship7/save-conversation-to-obsidian 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 6 --> 11
-    line [7, 8, 7, 9, 10, 10]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22"]
+    y-axis "stars" 6 --> 12
+    line [7, 8, 7, 9, 10, 11]
 ```
 
-2026-10-19 7 → 2026-11-21 10（+3）
+2026-10-20 7 → 2026-11-22 11（+4）
 
 
 ---

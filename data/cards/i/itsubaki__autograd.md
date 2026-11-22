@@ -1,6 +1,6 @@
 # itsubaki/autograd
 
-⭐ 27 · Go · MIT · 推送 2026-11-03 · [GitHub](https://github.com/itsubaki/autograd) · [官网](https://pkg.go.dev/github.com/itsubaki/autograd) · 个人维护 · 中文 README
+⭐ 27 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/itsubaki/autograd) · [官网](https://pkg.go.dev/github.com/itsubaki/autograd) · 个人维护 · 中文 README
 
 **Go 语言实现的自动微分库，支持反向传播与梯度下降**
 
@@ -45,12 +45,12 @@ itsubaki/autograd 是用 Go 编写的自动微分库，提供 variable 与函数
 ```mermaid
 xychart-beta
     title "itsubaki/autograd 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 25 --> 28
     line [26, 27, 26, 27, 27]
 ```
 
-2026-10-19 26 → 2026-11-21 27（+1）
+2026-10-20 26 → 2026-11-22 27（+1）
 
 
 ---

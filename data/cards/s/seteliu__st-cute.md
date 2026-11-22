@@ -1,6 +1,6 @@
 # seteliu/st-cute
 
-⭐ 123 · Java · MIT · 推送 2026-10-08 · [GitHub](https://github.com/seteliu/st-cute) · 个人维护 · 中文 README
+⭐ 123 · Java · MIT · 推送 2026-11-21 · [GitHub](https://github.com/seteliu/st-cute) · 个人维护 · 中文 README
 
 **桌面与网页端的 AI Coding Agent，支持移动端访问**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "seteliu/st-cute 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-19", "2026-11-22"]
     y-axis "stars" 120 --> 124
     line [123, 122, 121, 122, 123, 123]
 ```
 
-2026-10-19 123 → 2026-11-21 123（+0）
+2026-10-20 123 → 2026-11-22 123（+0）
 
 
 ---

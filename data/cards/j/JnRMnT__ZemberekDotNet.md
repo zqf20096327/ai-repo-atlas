@@ -45,12 +45,12 @@ Zemberek-NLP（Java 土耳其语 NLP 工具库）的 C#/.NET 移植，已演化�
 ```mermaid
 xychart-beta
     title "JnRMnT/ZemberekDotNet 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-19 19 → 2026-11-21 19（+0）
+2026-10-20 19 → 2026-11-22 19（+0）
 
 
 ---

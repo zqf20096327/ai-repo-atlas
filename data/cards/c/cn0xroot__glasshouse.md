@@ -1,6 +1,6 @@
 # cn0xroot/glasshouse
 
-⭐ 6 · Go · 推送 2026-11-20 · [GitHub](https://github.com/cn0xroot/glasshouse) · [官网](https://www.sistudiohq.com) · 个人维护 · 中文 README
+⭐ 7 · Go · 推送 2026-11-20 · [GitHub](https://github.com/cn0xroot/glasshouse) · [官网](https://www.sistudiohq.com) · 个人维护 · 中文 README
 
 **为 AI agent 提供硬件级隔离 Ubuntu VM 沙箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cn0xroot/glasshouse 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-19 5 → 2026-11-21 6（+1）
+2026-11-19 5 → 2026-11-22 7（+2）
 
 
 ---

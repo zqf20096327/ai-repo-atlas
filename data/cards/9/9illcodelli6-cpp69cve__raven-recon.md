@@ -1,6 +1,6 @@
 # 9illcodelli6-cpp69cve/raven-recon
 
-⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/9illcodelli6-cpp69cve/raven-recon) · 个人维护
+⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/9illcodelli6-cpp69cve/raven-recon) · 个人维护
 
 **面向漏洞赏金与渗透测试者的范围感知侦察与 AI 辅助测试工作台**
 
@@ -40,6 +40,18 @@ RAVEN Recon 是一个安全测试工作台：按程序划分工作区并强制�
 
 > L17: |AI Agent — every request and command waits for your approval|Recon Workbench — attack surface, request lab, findin
 > L32: |**AI agent**|Claude Opus 5.5 plans and works through a task with RAVEN's tools — **every request to a target and e
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "9illcodelli6-cpp69cve/raven-recon 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-21 4 → 2026-11-22 5（+1）
 
 
 ---

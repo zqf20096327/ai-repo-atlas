@@ -1,6 +1,6 @@
 # shibing624/memhub
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/shibing624/memhub) · [官网](https://shibing624.github.io/memhub/) · 个人维护 · 中文 README
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/shibing624/memhub) · [官网](https://shibing624.github.io/memhub/) · 个人维护 · 中文 README
 
 **跨 18 种 AI 编码工具共享的本地个人记忆中枢与 Python SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shibing624/memhub 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-16", "2026-11-22"]
     y-axis "stars" 12 --> 16
     line [13, 14, 15, 15]
 ```
 
-2026-11-08 13 → 2026-11-21 15（+2）
+2026-11-08 13 → 2026-11-22 15（+2）
 
 
 ---

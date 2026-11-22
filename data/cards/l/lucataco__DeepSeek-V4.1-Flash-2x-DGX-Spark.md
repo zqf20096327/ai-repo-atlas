@@ -1,6 +1,6 @@
 # lucataco/DeepSeek-V4.1-Flash-2x-DGX-Spark
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/lucataco/DeepSeek-V4.1-Flash-2x-DGX-Spark) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/lucataco/DeepSeek-V4.1-Flash-2x-DGX-Spark) · 个人维护
 
 **在双 DGX Spark 节点上部署 DeepSeek-V4.1-Flash 的脚本集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lucataco/DeepSeek-V4.1-Flash-2x-DGX-Spark 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 7 --> 12
-    line [8, 9, 8, 11, 11]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 7 --> 13
+    line [8, 9, 8, 11, 12]
 ```
 
-2026-10-19 8 → 2026-11-21 11（+3）
+2026-10-20 8 → 2026-11-22 12（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # hoangsonww/Moodify-Emotion-Music-App
 
-⭐ 84 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/Moodify-Emotion-Music-App) · [官网](https://moodify-app.vercel.app) · 个人维护
+⭐ 83 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/Moodify-Emotion-Music-App) · [官网](https://moodify-app.vercel.app) · 个人维护
 
 **基于情绪检测的音乐推荐应用：分析文本/语音/表情推荐音乐**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hoangsonww/Moodify-Emotion-Music-App 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 81 --> 85
-    line [82, 83, 84, 84]
+    line [82, 83, 84, 83]
 ```
 
-2026-10-19 82 → 2026-11-21 84（+2）
+2026-10-20 82 → 2026-11-22 83（+1）
 
 
 ---

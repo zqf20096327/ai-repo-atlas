@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "breath57/how-ai-agents-remember 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "breath57/how-ai-agents-remember 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 44 --> 47
-    line [45, 46]
+    line [45, 46, 46]
 ```
 
-2026-10-19 45 → 2026-11-21 46（+1）
+2026-10-20 45 → 2026-11-22 46（+1）
 
 
 ---

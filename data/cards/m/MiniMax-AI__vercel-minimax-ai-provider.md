@@ -45,12 +45,12 @@ MiniMax AI Provider 是 Vercel AI SDK 的社区 provider 包，以 npm 库形式
 ```mermaid
 xychart-beta
     title "MiniMax-AI/vercel-minimax-ai-provider 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-19 14 → 2026-11-21 14（+0）
+2026-10-20 14 → 2026-11-22 14（+0）
 
 
 ---

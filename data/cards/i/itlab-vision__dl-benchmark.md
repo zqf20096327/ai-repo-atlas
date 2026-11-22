@@ -44,13 +44,13 @@ DLI 测量多种深度学习模型在不同推理框架与硬件上的推理性�
 
 ```mermaid
 xychart-beta
-    title "itlab-vision/dl-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "itlab-vision/dl-benchmark 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 35 --> 38
-    line [36, 37]
+    line [36, 37, 37]
 ```
 
-2026-10-19 36 → 2026-11-21 37（+1）
+2026-10-20 36 → 2026-11-22 37（+1）
 
 
 ---

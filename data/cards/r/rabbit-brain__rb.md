@@ -1,6 +1,6 @@
 # rabbit-brain/rb
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/rabbit-brain/rb) · [官网](https://rabbitbrain.ai) · 个人维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rabbit-brain/rb) · [官网](https://rabbitbrain.ai) · 个人维护
 
 **让 AI agent 记录并核验科研实验进度的追踪工具**
 
@@ -46,12 +46,12 @@ Python CLI 工具（rb），供使用 Claude Code/Codex 等 coding agent 做机�
 ```mermaid
 xychart-beta
     title "rabbit-brain/rb 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-21"]
+    x-axis ["2026-11-12", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-21 3（+0）
+2026-11-12 3 → 2026-11-22 3（+0）
 
 
 ---

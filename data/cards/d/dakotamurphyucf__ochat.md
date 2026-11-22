@@ -1,6 +1,6 @@
 # dakotamurphyucf/ochat
 
-⭐ 31 · OCaml · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dakotamurphyucf/ochat) · [官网](https://ochatlabs.com) · 个人维护
+⭐ 31 · OCaml · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dakotamurphyucf/ochat) · [官网](https://ochatlabs.com) · 个人维护
 
 **用文本文件定义并运行 LLM agent 的 OCaml 工具包**
 
@@ -46,12 +46,12 @@ Ochat 是以纯文本文件（ChatMarkdown）定义 AI agent 的工具包：在�
 ```mermaid
 xychart-beta
     title "dakotamurphyucf/ochat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-21 31（+0）
+2026-10-19 31 → 2026-11-22 31（+0）
 
 
 ---

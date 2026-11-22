@@ -45,12 +45,12 @@ ggml-org 发布的品牌资产仓库，收录 Llama.app 与 llama.cpp 的 logo�
 ```mermaid
 xychart-beta
     title "ggml-org/llama-brand 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-21"]
+    x-axis ["2026-11-12", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-12 10 → 2026-11-21 10（+0）
+2026-11-12 10 → 2026-11-22 10（+0）
 
 
 ---

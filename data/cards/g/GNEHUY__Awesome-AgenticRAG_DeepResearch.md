@@ -1,6 +1,6 @@
 # GNEHUY/Awesome-AgenticRAG_DeepResearch
 
-⭐ 35 · JavaScript · 推送 2026-07-23 · [GitHub](https://github.com/GNEHUY/Awesome-AgenticRAG_DeepResearch) · 个人维护 · 中文 README
+⭐ 36 · JavaScript · 推送 2026-07-23 · [GitHub](https://github.com/GNEHUY/Awesome-AgenticRAG_DeepResearch) · 个人维护 · 中文 README
 
 **Agentic RAG 与 DeepResearch 论文策展清单（2025 年起）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GNEHUY/Awesome-AgenticRAG_DeepResearch 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 34, 35, 35]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 34, 35, 36]
 ```
 
-2026-10-19 34 → 2026-11-21 35（+1）
+2026-10-20 34 → 2026-11-22 36（+2）
 
 
 ---

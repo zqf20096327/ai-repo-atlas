@@ -1,6 +1,6 @@
 # thatgfsj-dsh/dsh-plugin-skills
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/thatgfsj-dsh/dsh-plugin-skills) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/thatgfsj-dsh/dsh-plugin-skills) · 个人维护 · 中文 README
 
 **给 AI agent 编写 DSH 插件构建与技能的技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thatgfsj-dsh/dsh-plugin-skills 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-10 7 → 2026-11-21 7（+0）
+2026-11-10 7 → 2026-11-22 7（+0）
 
 
 ---

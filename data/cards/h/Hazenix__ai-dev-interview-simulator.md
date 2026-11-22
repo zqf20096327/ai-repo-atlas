@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hazenix/ai-dev-interview-simulator 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-22"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-11-02 26 → 2026-11-21 26（+0）
+2026-11-02 26 → 2026-11-22 26（+0）
 
 
 ---

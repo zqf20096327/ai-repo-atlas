@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "awelist/awesome-ai-benchmarks-evaluation 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-18", "2026-11-22"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-18 14 → 2026-11-21 14（+0）
+2026-11-18 14 → 2026-11-22 14（+0）
 
 
 ---

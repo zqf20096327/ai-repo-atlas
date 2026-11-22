@@ -44,13 +44,13 @@ HuggingFace 维护的统一基准测试工具，面向 Transformers、Diffusers�
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-benchmark 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
+    title "huggingface/optimum-benchmark 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-15", "2026-11-21", "2026-11-22"]
     y-axis "stars" 340 --> 343
-    line [341, 342, 341]
+    line [341, 342, 341, 341]
 ```
 
-2026-10-19 341 → 2026-11-21 341（+0）
+2026-10-20 341 → 2026-11-22 341（+0）
 
 
 ---

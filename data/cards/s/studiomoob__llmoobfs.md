@@ -1,6 +1,6 @@
 # studiomoob/llmoobfs
 
-⭐ 3 · C · GPL-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/studiomoob/llmoobfs) · [官网](https://studiomoob.github.io/llmoobfs/) · 个人维护 · 中文 README
+⭐ 3 · C · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/studiomoob/llmoobfs) · [官网](https://studiomoob.github.io/llmoobfs/) · 个人维护 · 中文 README
 
 **面向 LLM agent 记忆的 Linux 内核文件系统模块：内核可查询的存储层**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "studiomoob/llmoobfs 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-21 3（+0）
+2026-11-02 3 → 2026-11-22 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Echoer009/Nion
 
-⭐ 25 · Kotlin · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/Echoer009/Nion) · 个人维护 · 中文 README
+⭐ 25 · Kotlin · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Echoer009/Nion) · 个人维护 · 中文 README
 
 **带 AI 伙伴的 Android 任务管理与提醒应用**
 
@@ -45,12 +45,12 @@ Rust 核心 + Kotlin/Jetpack Compose 的 Android 应用，功能为任务管理�
 ```mermaid
 xychart-beta
     title "Echoer009/Nion 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 23 --> 26
     line [24, 25, 24, 25, 25]
 ```
 
-2026-10-19 24 → 2026-11-21 25（+1）
+2026-10-20 24 → 2026-11-22 25（+1）
 
 
 ---

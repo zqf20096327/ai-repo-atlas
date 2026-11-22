@@ -1,6 +1,6 @@
 # mp-consulting/homebridge-ai-kit
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/mp-consulting/homebridge-ai-kit) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mp-consulting/homebridge-ai-kit) · 组织维护
 
 **让 AI 助手通过 MCP 控制与管理 Homebridge 智能家居的工具包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mp-consulting/homebridge-ai-kit 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-15", "2026-11-22"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-11-08 10 → 2026-11-21 12（+2）
+2026-11-08 10 → 2026-11-22 12（+2）
 
 
 ---

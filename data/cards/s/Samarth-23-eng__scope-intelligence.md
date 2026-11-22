@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Samarth-23-eng/scope-intelligence 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 28 --> 32
-    line [29, 30, 31, 31]
+    title "Samarth-23-eng/scope-intelligence 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-22"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-21 31（+2）
+2026-10-19 30 → 2026-11-22 31（+1）
 
 
 ---

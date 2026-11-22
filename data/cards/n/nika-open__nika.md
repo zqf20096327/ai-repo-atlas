@@ -1,6 +1,6 @@
 # nika-open/nika
 
-⭐ 100 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/nika-open/nika) · [官网](https://nika.sh) · 组织维护
+⭐ 100 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/nika-open/nika) · [官网](https://nika.sh) · 组织维护
 
 **把重复的 AI 工作固化为可检查、可验证的工作流文件**
 
@@ -41,6 +41,18 @@ Nika 是一个开源（AGPL-3.0）的本地优先工作流引擎：将自然语�
 > L43: tamper-evident record you can verify. One Rust binary with a terminal
 > L44: Session and a command line, plus a TypeScript SDK for your applications;
 > L295: (Ollama, llama.cpp, LM Studio, vLLM) work too: `nika catalog` lists them.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nika-open/nika 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 99 --> 101
+    line [100, 100]
+```
+
+2026-11-21 100 → 2026-11-22 100（+0）
 
 
 ---

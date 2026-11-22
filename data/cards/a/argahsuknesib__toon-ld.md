@@ -46,12 +46,12 @@ TOON-LD 是在 TOON 语法上扩展 Linked Data 语义的序列化格式，定�
 ```mermaid
 xychart-beta
     title "argahsuknesib/toon-ld 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

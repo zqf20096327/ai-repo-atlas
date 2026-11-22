@@ -1,6 +1,6 @@
 # d3vmeh/dsh-fetch-timeouts
 
-⭐ 11 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/d3vmeh/dsh-fetch-timeouts) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/d3vmeh/dsh-fetch-timeouts) · 个人维护
 
 **DeepSeek Harness 插件：提高 Node HTTP 超时避免慢速本地模型被切断**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "d3vmeh/dsh-fetch-timeouts 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-11-01", "2026-11-02", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-29", "2026-11-01", "2026-11-02", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-29 10 → 2026-11-21 11（+1）
+2026-10-29 10 → 2026-11-22 12（+2）
 
 
 ---

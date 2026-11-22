@@ -1,6 +1,6 @@
 # Videmak/VidemakResearchAI
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Videmak/VidemakResearchAI) · [官网](https://videmak.net) · 组织维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Videmak/VidemakResearchAI) · [官网](https://videmak.net) · 组织维护
 
 **面向学术写作者的 AI 编辑器：自动补全并引用真实文献**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Videmak/VidemakResearchAI 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 3 --> 6
-    line [5, 4, 5, 5]
+    line [5, 4, 5, 4]
 ```
 
-2026-10-31 5 → 2026-11-21 5（+0）
+2026-10-31 5 → 2026-11-22 4（-1）
 
 
 ---

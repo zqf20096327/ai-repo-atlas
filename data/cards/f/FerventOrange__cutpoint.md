@@ -1,6 +1,6 @@
 # FerventOrange/cutpoint
 
-⭐ 9 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/FerventOrange/cutpoint) · [官网](https://pypi.org/project/cutpoint/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/FerventOrange/cutpoint) · [官网](https://pypi.org/project/cutpoint/) · 个人维护
 
 **本地 AI 视频剪辑工具：自动找精彩片段并剪成成片**
 
@@ -46,12 +46,12 @@ Cutpoint 从长录像（游戏、运动相机、体育、谈话、360 视频）�
 ```mermaid
 xychart-beta
     title "FerventOrange/cutpoint 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 5 --> 10
-    line [6, 7, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 5 --> 11
+    line [6, 7, 8, 9, 10]
 ```
 
-2026-11-08 6 → 2026-11-21 9（+3）
+2026-11-08 6 → 2026-11-22 10（+4）
 
 
 ---

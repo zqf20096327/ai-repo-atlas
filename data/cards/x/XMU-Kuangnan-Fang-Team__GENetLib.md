@@ -1,6 +1,6 @@
 # XMU-Kuangnan-Fang-Team/GENetLib
 
-⭐ 197 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/XMU-Kuangnan-Fang-Team/GENetLib) · [官网](https://genetlib.readthedocs.io/en/latest/) · 组织维护
+⭐ 197 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/XMU-Kuangnan-Fang-Team/GENetLib) · [官网](https://genetlib.readthedocs.io/en/latest/) · 组织维护
 
 **用深度学习做基因-环境交互分析的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "XMU-Kuangnan-Fang-Team/GENetLib 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 196 --> 198
     line [197, 197]
 ```
 
-2026-10-19 197 → 2026-11-21 197（+0）
+2026-10-20 197 → 2026-11-22 197（+0）
 
 
 ---

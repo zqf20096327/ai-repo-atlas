@@ -45,12 +45,12 @@ Python 编写的语音驱动 AI 助手，通过 ElevenLabs Conversational AI 实
 ```mermaid
 xychart-beta
     title "shofiahmed69/Jarvis_Voice_Ai_Assistant 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 11（+0）
 
 
 ---

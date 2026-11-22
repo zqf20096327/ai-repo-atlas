@@ -1,6 +1,6 @@
 # o-l-l-i/simple-captioner
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-04-01 · [GitHub](https://github.com/o-l-l-i/simple-captioner) · 个人维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-04-01 · [GitHub](https://github.com/o-l-l-i/simple-captioner) · 个人维护
 
 **批量给图片和视频生成描述文本的 Gradio 应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "o-l-l-i/simple-captioner 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 26 --> 29
-    line [28, 27, 28, 27, 27]
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 25 --> 29
+    line [28, 27, 28, 27, 26]
 ```
 
-2026-10-18 28 → 2026-11-21 27（-1）
+2026-10-19 28 → 2026-11-22 26（-2）
 
 
 ---

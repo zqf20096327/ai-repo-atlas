@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 3 --> 18
-    line [4, 17]
+    line [4, 17, 17]
 ```
 
-2026-11-20 4 → 2026-11-21 17（+13）
+2026-11-20 4 → 2026-11-22 17（+13）
 
 
 ---

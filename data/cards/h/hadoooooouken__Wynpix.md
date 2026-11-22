@@ -1,6 +1,6 @@
 # hadoooooouken/Wynpix
 
-⭐ 14 · C++ · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/hadoooooouken/Wynpix) · [官网](https://github.com/hadoooooouken/wynpix/releases/latest) · 个人维护 · 中文 README
+⭐ 14 · C++ · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/hadoooooouken/Wynpix) · [官网](https://github.com/hadoooooouken/wynpix/releases/latest) · 个人维护 · 中文 README
 
 **Windows 用户的快速 GPU 加速图片查看器，含实时 AI 放大**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hadoooooouken/Wynpix 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20", "2026-11-22"]
     y-axis "stars" 3 --> 15
     line [4, 5, 7, 8, 9, 7, 10, 11, 12, 14, 14]
 ```
 
-2026-10-22 4 → 2026-11-21 14（+10）
+2026-10-22 4 → 2026-11-22 14（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # ShuiYinMaster/PDPS_TxTools
 
-⭐ 14 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ShuiYinMaster/PDPS_TxTools) · 个人维护 · 中文 README
+⭐ 14 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ShuiYinMaster/PDPS_TxTools) · 个人维护 · 中文 README
 
 **给 PDPS 工程师的机器人焊接仿真与离线编程插件集**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "ShuiYinMaster/PDPS_TxTools 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-10", "2026-11-22"]
     y-axis "stars" 9 --> 15
     line [10, 11, 14, 14]
 ```
 
-2026-10-31 10 → 2026-11-21 14（+4）
+2026-10-31 10 → 2026-11-22 14（+4）
 
 
 ---

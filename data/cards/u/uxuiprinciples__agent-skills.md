@@ -1,6 +1,6 @@
 # uxuiprinciples/agent-skills
 
-⭐ 32 · 推送 2026-11-13 · [GitHub](https://github.com/uxuiprinciples/agent-skills) · [官网](https://uxuiprinciples.com) · 组织维护
+⭐ 33 · 推送 2026-11-13 · [GitHub](https://github.com/uxuiprinciples/agent-skills) · [官网](https://uxuiprinciples.com) · 组织维护
 
 **给 AI agent 注入 UX 专业能力的五个 SKILL.md 技能文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "uxuiprinciples/agent-skills 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 24 --> 33
-    line [25, 26, 27, 28, 29, 26, 30, 31, 32, 32]
+    title "uxuiprinciples/agent-skills 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 25 --> 34
+    line [26, 27, 28, 29, 26, 30, 31, 32, 33]
 ```
 
-2026-10-18 25 → 2026-11-21 32（+7）
+2026-10-19 26 → 2026-11-22 33（+7）
 
 
 ---

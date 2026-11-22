@@ -1,6 +1,6 @@
 # IvanSkainet/arena-agent
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/IvanSkainet/arena-agent) · [官网](https://github.com/IvanSkainet/arena-agent#readme) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/IvanSkainet/arena-agent) · [官网](https://github.com/IvanSkainet/arena-agent#readme) · 个人维护
 
 **本地自动化桥：让 AI agent 安全操作你的机器**
 
@@ -39,6 +39,18 @@
 
 > L108: Most "AI + your computer" setups mean juggling several servers: one for MCP, one
 > L116: - **Protocol-agnostic.** REST, MCP, WebSocket/SSE events, and a browser extension
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "IvanSkainet/arena-agent 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
 
 
 ---

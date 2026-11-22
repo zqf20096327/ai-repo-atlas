@@ -1,6 +1,6 @@
 # deyna256/convy
 
-⭐ 5 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/deyna256/convy) · [官网](https://deyna256.github.io/convy/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 AI agent 的对话测试 CLI：模拟用户对话并逐条判定**
 
@@ -11,7 +11,7 @@ convy 是一个测试 AI agent 对话能力的 CLI 与 Python 库：模拟用户
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

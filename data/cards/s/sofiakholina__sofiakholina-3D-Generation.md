@@ -1,6 +1,6 @@
 # sofiakholina/sofiakholina-3D-Generation
 
-⭐ 5 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/sofiakholina/sofiakholina-3D-Generation) · [官网](https://sofiakholina.taplink.ws/) · 个人维护
+⭐ 10 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/sofiakholina/sofiakholina-3D-Generation) · [官网](https://sofiakholina.taplink.ws/) · 个人维护
 
 **在 ComfyUI 中从单张或多张视图生成无纹理 3D 模型的 3 个 workflow 及安装器**
 
@@ -39,6 +39,18 @@
 
 > L59: **Generate an untextured 3D model from one or several views in ComfyUI: 3 workflows + installer.**
 > L73: **Windows only, NVIDIA GPU with 6 GB VRAM or more and a current driver, ComfyUI 0.45+. Free disk space: ComfyUI — a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sofiakholina/sofiakholina-3D-Generation 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 11
+    line [5, 10]
+```
+
+2026-11-21 5 → 2026-11-22 10（+5）
 
 
 ---

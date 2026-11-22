@@ -1,6 +1,6 @@
 # ilien-dev/sharur
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ilien-dev/sharur) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ilien-dev/sharur) · 个人维护
 
 **一行式输出风格文件：为 Claude Code 降低 token 用量与成本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ilien-dev/sharur 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 8 --> 11
-    line [9, 10, 10]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 8 --> 12
+    line [9, 10, 11]
 ```
 
-2026-11-19 9 → 2026-11-21 10（+1）
+2026-11-19 9 → 2026-11-22 11（+2）
 
 
 ---

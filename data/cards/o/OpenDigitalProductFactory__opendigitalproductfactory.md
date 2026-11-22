@@ -1,6 +1,6 @@
 # OpenDigitalProductFactory/opendigitalproductfactory
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/OpenDigitalProductFactory/opendigitalproductfactory) · 组织维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/OpenDigitalProductFactory/opendigitalproductfactory) · 组织维护
 
 **本地优先的企业运营平台：受人类授权约束的 AI 同事参与运行业务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OpenDigitalProductFactory/opendigitalproductfactory 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

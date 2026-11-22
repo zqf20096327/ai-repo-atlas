@@ -1,6 +1,6 @@
 # revolover00/scenelingo
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/revolover00/scenelingo) · [官网](https://t.me/SceneLingoo_bot) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/revolover00/scenelingo) · [官网](https://t.me/SceneLingoo_bot) · 个人维护
 
 **面向语言学习者的 Telegram 机器人：按 CEFR 等级推送电影片段学语言**
 
@@ -39,6 +39,18 @@
 
 > L8: A Telegram bot for useful expressions with matching short movie clips and explanations. Subscribers choose a CEFR le
 > L34: |Groq API (`qwen/qwen3.8-27b`, Whisper)|Expressions, explanations and audio verification|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "revolover00/scenelingo 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
 
 
 ---

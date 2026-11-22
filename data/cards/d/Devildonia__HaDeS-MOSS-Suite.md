@@ -1,6 +1,6 @@
 # Devildonia/HaDeS-MOSS-Suite
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Devildonia/HaDeS-MOSS-Suite) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Devildonia/HaDeS-MOSS-Suite) · 个人维护
 
 **ComfyUI 的 MOSS-Image 模型节点套件：加载、合并与 LoRA 管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Devildonia/HaDeS-MOSS-Suite 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
     y-axis "stars" 4 --> 11
     line [5, 6, 8, 9, 10, 10]
 ```
 
-2026-11-08 5 → 2026-11-21 10（+5）
+2026-11-08 5 → 2026-11-22 10（+5）
 
 
 ---

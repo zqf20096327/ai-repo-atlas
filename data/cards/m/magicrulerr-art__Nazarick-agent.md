@@ -1,6 +1,6 @@
 # magicrulerr-art/Nazarick-agent
 
-⭐ 3 · Kotlin · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/magicrulerr-art/Nazarick-agent) · [官网](https://github.com/magicrulerr-art/Nazarick-agent/releases/latest) · 个人维护 · 中文 README
+⭐ 3 · Kotlin · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/magicrulerr-art/Nazarick-agent) · [官网](https://github.com/magicrulerr-art/Nazarick-agent/releases/latest) · 个人维护 · 中文 README
 
 **全离线 Android AI agent：本地 LLM 加工具调用与 NPU 生图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "magicrulerr-art/Nazarick-agent 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-20", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-21 3（+0）
+2026-11-20 3 → 2026-11-22 3（+0）
 
 
 ---

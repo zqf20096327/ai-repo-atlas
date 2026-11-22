@@ -1,6 +1,6 @@
 # EricFillion/happylatent
 
-⭐ 6 · JavaScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/EricFillion/happylatent) · 个人维护
+⭐ 6 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/EricFillion/happylatent) · 个人维护
 
 **给 ComfyUI 用户的 LTX 2.5 视频时间线编辑器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EricFillion/happylatent 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-22"]
     y-axis "stars" 2 --> 7
     line [3, 4, 5, 6, 6]
 ```
 
-2026-11-08 3 → 2026-11-21 6（+3）
+2026-11-08 3 → 2026-11-22 6（+3）
 
 
 ---

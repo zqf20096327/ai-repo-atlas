@@ -1,6 +1,6 @@
 # BuffMcBigHuge/Comfiest
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BuffMcBigHuge/Comfiest) · [官网](https://Comfie.st) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/BuffMcBigHuge/Comfiest) · [官网](https://Comfie.st) · 个人维护
 
 **让 AI Agent 在自有 GPU 上运行 ComfyUI 图像/视频/语音/音乐工作流的生产套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BuffMcBigHuge/Comfiest 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-12", "2026-11-14", "2026-11-21"]
+    title "BuffMcBigHuge/Comfiest 星数(近 6 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-22"]
     y-axis "stars" 5 --> 11
-    line [6, 7, 8, 9, 10]
+    line [6, 7, 8, 9, 10, 10]
 ```
 
-2026-10-31 6 → 2026-11-21 10（+4）
+2026-10-31 6 → 2026-11-22 10（+4）
 
 
 ---

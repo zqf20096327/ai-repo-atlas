@@ -45,13 +45,13 @@ LangChain 官方示例项目：用 LangGraph 构建的虚构健身房客服智�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/pipecat-langgraph-example 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    title "langchain-ai/pipecat-langgraph-example 星数(近 6 点)"
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 13, 14, 15]
+    line [13, 14, 13, 14, 15, 15]
 ```
 
-2026-10-19 13 → 2026-11-21 15（+2）
+2026-10-20 13 → 2026-11-22 15（+2）
 
 
 ---

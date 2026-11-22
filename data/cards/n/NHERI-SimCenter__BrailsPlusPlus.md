@@ -1,6 +1,6 @@
 # NHERI-SimCenter/BrailsPlusPlus
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/NHERI-SimCenter/BrailsPlusPlus) · [官网](https://simcenter.designsafe-ci.org/backend-components/brails/) · 组织维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/NHERI-SimCenter/BrailsPlusPlus) · [官网](https://simcenter.designsafe-ci.org/backend-components/brails/) · 组织维护
 
 **生成大范围地理区域建筑资产清单的面向对象框架**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "NHERI-SimCenter/BrailsPlusPlus 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-19 18 → 2026-11-21 19（+1）
+2026-10-20 18 → 2026-11-22 19（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L219: 1. **Custom Instructions** - Load on every wake, establish identity and memory location
 > L221: 3. **CLAUDE_HOME detection** - Finds persistence regardless of where folder lives
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "reclamation-bridge/reclamation-bridge 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `6564bdb76d40` · [字段定义](../../DATASET.md)*

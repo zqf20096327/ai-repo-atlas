@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc 星数(近 7 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc 星数(近 8 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 5 --> 61
-    line [9, 14, 25, 30, 33, 43, 57]
+    line [9, 14, 25, 30, 33, 43, 57, 57]
 ```
 
-2026-11-13 9 → 2026-11-21 57（+48）
+2026-11-13 9 → 2026-11-22 57（+48）
 
 
 ---

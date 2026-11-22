@@ -1,6 +1,6 @@
 # nandlabs/golly
 
-⭐ 20 · Go · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/nandlabs/golly) · [官网](https://golly.nandlabs.io) · 组织维护
+⭐ 20 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/nandlabs/golly) · [官网](https://golly.nandlabs.io) · 组织维护
 
 **Go 语言企业级通用工具库：HTTP/编解码/密钥/GenAI 集成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nandlabs/golly 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 19 --> 22
-    line [21, 20, 20]
+    title "nandlabs/golly 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
 ```
 
-2026-10-18 21 → 2026-11-21 20（-1）
+2026-10-19 20 → 2026-11-22 20（+0）
 
 
 ---

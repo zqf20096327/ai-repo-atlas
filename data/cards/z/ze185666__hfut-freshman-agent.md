@@ -1,6 +1,6 @@
 # ze185666/hfut-freshman-agent
 
-⭐ 20 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/ze185666/hfut-freshman-agent) · 个人维护 · 中文 README
+⭐ 13 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/ze185666/hfut-freshman-agent) · 个人维护 · 中文 README
 
 **面向合工大新生的免登录 Coze Web SDK 聊天页**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ze185666/hfut-freshman-agent 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-22"]
     y-axis "stars" 7 --> 21
-    line [8, 20, 20]
+    line [8, 20, 13]
 ```
 
-2026-11-02 8 → 2026-11-21 20（+12）
+2026-11-02 8 → 2026-11-22 13（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # lkhfrgc/scholar-llm-wiki
 
-⭐ 6 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/lkhfrgc/scholar-llm-wiki) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **科研文献整理工具包：AI agent 编译出 Obsidian 知识库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

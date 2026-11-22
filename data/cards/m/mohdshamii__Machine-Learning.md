@@ -46,12 +46,12 @@ MLVault 是一个基于 React、Vite 和 TypeScript 构建的静态机器学习�
 ```mermaid
 xychart-beta
     title "mohdshamii/Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-13 10 → 2026-11-21 10（+0）
+2026-11-13 10 → 2026-11-22 10（+0）
 
 
 ---

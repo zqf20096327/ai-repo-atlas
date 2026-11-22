@@ -1,6 +1,6 @@
 # amazinglvxw/enso-os
 
-⭐ 94 · Shell · MIT · 推送 2026-04-24 · [GitHub](https://github.com/amazinglvxw/enso-os) · [官网](https://github.com/amazinglvxw/enso-os/releases/tag/v0.7.0) · 个人维护 · 中文 README
+⭐ 93 · Shell · MIT · 推送 2026-04-24 · [GitHub](https://github.com/amazinglvxw/enso-os) · [官网](https://github.com/amazinglvxw/enso-os/releases/tag/v0.7.0) · 个人维护 · 中文 README
 
 **给 AI agent 加纪律层的插件：错误学习、主动遗忘、主动问责挑战**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amazinglvxw/enso-os 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 93 --> 96
-    line [95, 94, 95, 94, 94]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 92 --> 96
+    line [95, 94, 95, 94, 93]
 ```
 
-2026-10-19 95 → 2026-11-21 94（-1）
+2026-10-20 95 → 2026-11-22 93（-2）
 
 
 ---

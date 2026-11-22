@@ -1,6 +1,6 @@
 # xizon/WebKineForge
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xizon/WebKineForge) · [官网](https://xizon.github.io/WebKineForge/sites/default-site/dist/samplepage-1.html) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/xizon/WebKineForge) · [官网](https://xizon.github.io/WebKineForge/sites/default-site/dist/samplepage-1.html) · 个人维护 · 中文 README
 
 **给开发者的静态网站构建工具包，内置 AI Agent 协作**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xizon/WebKineForge 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-18", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-21 3（+0）
+2026-11-18 3 → 2026-11-22 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lupikovoleg/instagram-cli
 
-⭐ 44 · Python · 推送 2026-07-02 · [GitHub](https://github.com/lupikovoleg/instagram-cli) · 个人维护
+⭐ 45 · Python · 推送 2026-07-02 · [GitHub](https://github.com/lupikovoleg/instagram-cli) · 个人维护
 
 **终端 Instagram 分析下载 CLI，含自然语言 Agent 与 MCP 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lupikovoleg/instagram-cli 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45]
 ```
 
-2026-10-19 43 → 2026-11-21 44（+1）
+2026-10-20 43 → 2026-11-22 45（+2）
 
 
 ---

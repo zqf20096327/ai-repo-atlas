@@ -41,6 +41,18 @@
 > L54: 2. In **Settings → Models**, configure the protocol, provider URL, API key when required, and exact model ID, then 
 > L18: Harnex brings AI conversations and project work into one workspace. Ask questions, create images, or give an Agent 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "debug2048/Harnex 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `9d736be2b71a` · [字段定义](../../DATASET.md)*

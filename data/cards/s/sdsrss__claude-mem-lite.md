@@ -1,6 +1,6 @@
 # sdsrss/claude-mem-lite
 
-⭐ 69 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sdsrss/claude-mem-lite) · 个人维护 · 中文 README
+⭐ 69 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sdsrss/claude-mem-lite) · 个人维护 · 中文 README
 
 **Claude Code 的持久化记忆插件：跨会话捕获决策与修复并检索召回**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sdsrss/claude-mem-lite 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
     y-axis "stars" 66 --> 70
     line [67, 68, 67, 68, 69, 69]
 ```
 
-2026-10-19 67 → 2026-11-21 69（+2）
+2026-10-20 67 → 2026-11-22 69（+2）
 
 
 ---

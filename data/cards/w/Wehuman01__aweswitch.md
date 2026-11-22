@@ -45,12 +45,12 @@ Python CLI 工具，从 ~/.config/aweswitch/config.json 读取档案，提供两
 ```mermaid
 xychart-beta
     title "Wehuman01/aweswitch 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-19 28 → 2026-11-21 28（+0）
+2026-10-20 28 → 2026-11-22 28（+0）
 
 
 ---

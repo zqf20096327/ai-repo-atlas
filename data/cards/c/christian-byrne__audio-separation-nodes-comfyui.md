@@ -1,6 +1,6 @@
 # christian-byrne/audio-separation-nodes-comfyui
 
-⭐ 683 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/christian-byrne/audio-separation-nodes-comfyui) · 个人维护
+⭐ 684 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/christian-byrne/audio-separation-nodes-comfyui) · 个人维护
 
 **ComfyUI 音频分离节点集：Demucs 分离人声/鼓/贝斯等四轨**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点集合，核心的 Audio Separation 节点使用 Hybrid D
 
 ```mermaid
 xychart-beta
-    title "christian-byrne/audio-separation-nodes-comfyui 星数(近 14 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 642 --> 686
-    line [645, 647, 648, 649, 650, 651, 657, 660, 649, 675, 676, 677, 680, 683]
+    title "christian-byrne/audio-separation-nodes-comfyui 星数(近 15 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 642 --> 687
+    line [645, 647, 648, 649, 650, 651, 657, 660, 649, 675, 676, 677, 680, 683, 684]
 ```
 
-2026-10-19 645 → 2026-11-21 683（+38）
+2026-10-20 645 → 2026-11-22 684（+39）
 
 
 ---

@@ -1,6 +1,6 @@
 # temptationOne-web/v100-thinkingcap-setup
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/temptationOne-web/v100-thinkingcap-setup) · 个人维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/temptationOne-web/v100-thinkingcap-setup) · 个人维护
 
 **在 4×V100 上跑 Qwen3.8 NVFP4 MoE 模型的搭建配方与基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "temptationOne-web/v100-thinkingcap-setup 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-08 3 → 2026-11-21 5（+2）
+2026-11-08 3 → 2026-11-22 6（+3）
 
 
 ---

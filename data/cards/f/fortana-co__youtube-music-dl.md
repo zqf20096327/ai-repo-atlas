@@ -1,6 +1,6 @@
 # fortana-co/youtube-music-dl
 
-⭐ 16 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fortana-co/youtube-music-dl) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fortana-co/youtube-music-dl) · 组织维护
 
 **面向 AI agent 的 YouTube 音乐下载与打标 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fortana-co/youtube-music-dl 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-19 16 → 2026-11-21 16（+0）
+2026-10-20 16 → 2026-11-22 17（+1）
 
 
 ---

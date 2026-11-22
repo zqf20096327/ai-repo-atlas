@@ -40,6 +40,18 @@ ContrXT 输入两个文本分类器（如模型重训前后的 M1 与 M2）的�
 > L26: ContrXT takes as input the training data and predictions of two distinct classifiers M1 and M2. Then, it traces the
 > L143: To cite ContrXT please refer to the following paper
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Crisp-Unimib/ContrXT 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 27 --> 29
+    line [28, 28]
+```
+
+2026-11-21 28 → 2026-11-22 28（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `1f95809345a4` · [字段定义](../../DATASET.md)*

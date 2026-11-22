@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ErdemOzgen/Data-Engineering-Roadmap 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 264 --> 266
     line [265, 265]
 ```
 
-2026-10-19 265 → 2026-11-21 265（+0）
+2026-10-20 265 → 2026-11-22 265（+0）
 
 
 ---

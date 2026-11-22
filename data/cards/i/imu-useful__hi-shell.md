@@ -1,6 +1,6 @@
 # imu-useful/hi-shell
 
-⭐ 12 · QML · GPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/imu-useful/hi-shell) · [官网](https://t.me/tux_emp) · 个人维护
+⭐ 12 · QML · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/imu-useful/hi-shell) · [官网](https://t.me/tux_emp) · 个人维护
 
 **面向 Hyprland 的 Material 3 桌面 shell，内置 AI 聊天**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "imu-useful/hi-shell 星数(近 7 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 2 --> 13
     line [3, 5, 6, 9, 11, 12, 12]
 ```
 
-2026-10-26 3 → 2026-11-21 12（+9）
+2026-10-26 3 → 2026-11-22 12（+9）
 
 
 ---

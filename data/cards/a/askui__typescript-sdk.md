@@ -43,12 +43,12 @@ AskUI 的 TypeScript SDK（ADK）仓库，面向端到端自动化与 UI 测试�
 ```mermaid
 xychart-beta
     title "askui/typescript-sdk 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-19 100 → 2026-11-21 100（+0）
+2026-10-20 100 → 2026-11-22 100（+0）
 
 
 ---

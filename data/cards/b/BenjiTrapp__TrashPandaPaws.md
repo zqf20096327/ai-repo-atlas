@@ -1,6 +1,6 @@
 # BenjiTrapp/TrashPandaPaws
 
-⭐ 20 · Python · 推送 2026-11-20 · [GitHub](https://github.com/BenjiTrapp/TrashPandaPaws) · [官网](https://benjitrapp.github.io/trashpandapaws-network-implant/) · 个人维护
+⭐ 20 · Python · 推送 2026-11-21 · [GitHub](https://github.com/BenjiTrapp/TrashPandaPaws) · [官网](https://benjitrapp.github.io/trashpandapaws-network-implant/) · 个人维护
 
 **红队硬件植入体：RPi4/CM4 内联网线窃听与 C2 回联设备**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BenjiTrapp/TrashPandaPaws 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-22"]
     y-axis "stars" 14 --> 21
     line [15, 20, 20]
 ```
 
-2026-11-14 15 → 2026-11-21 20（+5）
+2026-11-14 15 → 2026-11-22 20（+5）
 
 
 ---

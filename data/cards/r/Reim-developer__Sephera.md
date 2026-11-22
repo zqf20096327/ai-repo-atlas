@@ -1,6 +1,6 @@
 # Reim-developer/Sephera
 
-⭐ 78 · Rust · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/Reim-developer/Sephera) · [官网](https://sephera.vercel.app) · 个人维护
+⭐ 78 · Rust · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Reim-developer/Sephera) · [官网](https://sephera.vercel.app) · 个人维护
 
 **回答“改这个文件会破坏什么”的 Rust CLI：反向依赖分析与 LLM 上下文打包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Reim-developer/Sephera 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
     y-axis "stars" 76 --> 79
     line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-11-21 78（+1）
+2026-10-19 77 → 2026-11-22 78（+1）
 
 
 ---

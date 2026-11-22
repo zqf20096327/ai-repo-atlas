@@ -1,6 +1,6 @@
 # HephaestLab/TraderHarness
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/HephaestLab/TraderHarness) · [官网](https://hephaestlab.github.io/TraderHarness/) · 组织维护 · 中文 README
+⭐ 44 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/HephaestLab/TraderHarness) · [官网](https://hephaestlab.github.io/TraderHarness/) · 组织维护 · 中文 README
 
 **LLM 交易 Agent 的抗污染回测环境与训练轨迹生成器（A股）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HephaestLab/TraderHarness 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 41, 42, 43, 43]
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-22"]
+    y-axis "stars" 40 --> 45
+    line [41, 42, 41, 42, 43, 44]
 ```
 
-2026-10-18 41 → 2026-11-21 43（+2）
+2026-10-19 41 → 2026-11-22 44（+3）
 
 
 ---

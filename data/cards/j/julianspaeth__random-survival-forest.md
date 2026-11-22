@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "julianspaeth/random-survival-forest 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-21"]
+    title "julianspaeth/random-survival-forest 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 64 --> 67
-    line [65, 66, 65, 66]
+    line [65, 66, 65, 66, 66]
 ```
 
-2026-10-19 65 → 2026-11-21 66（+1）
+2026-10-20 65 → 2026-11-22 66（+1）
 
 
 ---

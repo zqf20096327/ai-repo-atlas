@@ -1,6 +1,6 @@
 # SsisyphusTao/Object-Detection-Knowledge-Distillation
 
-⭐ 226 · Python · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/SsisyphusTao/Object-Detection-Knowledge-Distillation) · 个人维护
+⭐ 227 · Python · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/SsisyphusTao/Object-Detection-Knowledge-Distillation) · 个人维护
 
 **基于 PyTorch 的目标检测知识蒸馏框架（SSD/YOLOv5）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SsisyphusTao/Object-Detection-Knowledge-Distillation 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 225 --> 228
-    line [227, 226, 227, 226, 226]
+    line [227, 226, 227, 226, 227]
 ```
 
-2026-10-19 227 → 2026-11-21 226（-1）
+2026-10-20 227 → 2026-11-22 227（+0）
 
 
 ---

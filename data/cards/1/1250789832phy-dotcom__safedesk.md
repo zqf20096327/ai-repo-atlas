@@ -1,6 +1,6 @@
 # 1250789832phy-dotcom/safedesk
 
-⭐ 19 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/1250789832phy-dotcom/safedesk) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/1250789832phy-dotcom/safedesk) · 个人维护 · 中文 README
 
 **面向开发者的受控本地代码任务 Agent：diff 确认+固定测试+验收门禁**
 
@@ -40,6 +40,18 @@ SafeDesk 是一个本地运行的代码任务 Agent 应用，链路为规划→�
 > L3: **一个受控执行代码任务的本地 Agent：规划 → 检索项目上下文 → 调用注册工具 → 生成候选改动 → 人工确认后应用 → 跑固定测试 → 输出验收报告。**
 > L9: 让模型去改代码，最大的风险不是改错，而是**改到不该改的地方、绕过测试、把失败当成功上报**。SafeDesk 把这条链路拆成有边界、可审计的步骤：
 > L13: - 候选改动先出 diff，经独立确认令牌后才落盘，写前备份、可回滚
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "1250789832phy-dotcom/safedesk 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 18 --> 22
+    line [19, 21]
+```
+
+2026-11-21 19 → 2026-11-22 21（+2）
 
 
 ---

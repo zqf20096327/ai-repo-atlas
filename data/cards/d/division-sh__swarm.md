@@ -1,6 +1,6 @@
 # division-sh/swarm
 
-⭐ 25 · Go · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/division-sh/swarm) · [官网](https://www.division.sh) · 组织维护
+⭐ 25 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/division-sh/swarm) · [官网](https://www.division.sh) · 组织维护
 
 **以确定性引擎运行多 LLM Agent 编排的自托管框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "division-sh/swarm 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 22 --> 26
     line [23, 24, 23, 25, 25]
 ```
 
-2026-10-19 23 → 2026-11-21 25（+2）
+2026-10-20 23 → 2026-11-22 25（+2）
 
 
 ---

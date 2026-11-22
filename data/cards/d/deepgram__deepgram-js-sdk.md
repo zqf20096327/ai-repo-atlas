@@ -1,6 +1,6 @@
 # deepgram/deepgram-js-sdk
 
-⭐ 286 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/deepgram/deepgram-js-sdk) · [官网](https://developers.deepgram.com) · 组织维护
+⭐ 285 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/deepgram/deepgram-js-sdk) · [官网](https://developers.deepgram.com) · 组织维护
 
 **Deepgram 官方 JS/TS SDK：接入语音识别、合成与语音 Agent API**
 
@@ -49,12 +49,12 @@ Deepgram 官方 JavaScript/TypeScript SDK，封装其自动语音识别（STT）
 ```mermaid
 xychart-beta
     title "deepgram/deepgram-js-sdk 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 276 --> 287
-    line [277, 280, 281, 277, 285, 286, 286]
+    line [277, 280, 281, 277, 285, 286, 285]
 ```
 
-2026-10-19 277 → 2026-11-21 286（+9）
+2026-10-20 277 → 2026-11-22 285（+8）
 
 
 ---

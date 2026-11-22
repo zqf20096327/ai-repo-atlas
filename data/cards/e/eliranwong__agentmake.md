@@ -46,12 +46,12 @@ Python 库形式的 agent 开发套件（ADK），提供单一签名函数 agent
 ```mermaid
 xychart-beta
     title "eliranwong/agentmake 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-19 30 → 2026-11-21 30（+0）
+2026-10-20 30 → 2026-11-22 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ZouShilong1024/CycleDiff
 
-⭐ 101 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/ZouShilong1024/CycleDiff) · [官网](https://zoushilong1024.github.io/CycleDiff/) · 组织维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/ZouShilong1024/CycleDiff) · [官网](https://zoushilong1024.github.io/CycleDiff/) · 组织维护 · 中文 README
 
 **基于循环扩散模型的非配对图像翻译研究代码（TIP2026 论文）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZouShilong1024/CycleDiff 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 100 --> 105
-    line [104, 101, 101]
+    line [104, 101, 102]
 ```
 
-2026-10-19 104 → 2026-11-21 101（-3）
+2026-10-20 104 → 2026-11-22 102（-2）
 
 
 ---

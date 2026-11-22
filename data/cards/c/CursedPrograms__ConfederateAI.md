@@ -1,6 +1,6 @@
 # CursedPrograms/ConfederateAI
 
-⭐ 14 · C# · 推送 2026-11-08 · [GitHub](https://github.com/CursedPrograms/ConfederateAI) · [官网](https://cursedprograms.github.io/ConfederateAI/) · 个人维护
+⭐ 15 · C# · 推送 2026-11-08 · [GitHub](https://github.com/CursedPrograms/ConfederateAI) · [官网](https://cursedprograms.github.io/ConfederateAI/) · 个人维护
 
 **给 Unity 游戏提供巡逻/战斗/同伴等 NPC 行为的 C# 工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CursedPrograms/ConfederateAI 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-22"]
     y-axis "stars" 13 --> 16
-    line [15, 14, 14]
+    line [15, 14, 15]
 ```
 
-2026-11-10 15 → 2026-11-21 14（-1）
+2026-11-10 15 → 2026-11-22 15（+0）
 
 
 ---

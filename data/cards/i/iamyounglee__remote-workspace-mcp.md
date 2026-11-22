@@ -47,12 +47,12 @@ Go 编写的 MCP 服务（remote-workspace-mcpd），通过 Streamable HTTP 向�
 ```mermaid
 xychart-beta
     title "iamyounglee/remote-workspace-mcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-21 13（+0）
+2026-10-20 13 → 2026-11-22 13（+0）
 
 
 ---

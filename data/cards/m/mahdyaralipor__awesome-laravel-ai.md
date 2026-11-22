@@ -1,6 +1,6 @@
 # mahdyaralipor/awesome-laravel-ai
 
-⭐ 5 · CC0-1.0 · 推送 2026-11-09 · [GitHub](https://github.com/mahdyaralipor/awesome-laravel-ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Laravel 开发者整合构建 AI agent 与应用的包、工具与教程清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

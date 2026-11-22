@@ -39,6 +39,18 @@
 > L3: A curated list of awesome Agent Skills frameworks, libraries and software.
 > L21: * AI Agents
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "uhub/awesome-agent-skills 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `fb513eba3a66` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # danielrosehill/System-Prompt-Generation-Configurations
 
-⭐ 24 · Python · 推送 2026-11-03 · [GitHub](https://github.com/danielrosehill/System-Prompt-Generation-Configurations) · [官网](https://blog.danielrosehill.com/posts/ai-prompt-libraries-which-one-to-use-tngfmp/) · 个人维护
+⭐ 25 · Python · 推送 2026-11-03 · [GitHub](https://github.com/danielrosehill/System-Prompt-Generation-Configurations) · [官网](https://blog.danielrosehill.com/posts/ai-prompt-libraries-which-one-to-use-tngfmp/) · 个人维护
 
 **用于生成与改进系统提示词的系统提示词集合（21 个）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danielrosehill/System-Prompt-Generation-Configurations 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-11-08 23 → 2026-11-21 24（+1）
+2026-11-08 23 → 2026-11-22 25（+2）
 
 
 ---

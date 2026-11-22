@@ -1,6 +1,6 @@
 # jerrydzj/state-dependent-twins
 
-⭐ 3 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jerrydzj/state-dependent-twins) · [官网](https://osf.io/ahgkw) · 个人维护
+⭐ 3 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jerrydzj/state-dependent-twins) · [官网](https://osf.io/ahgkw) · 个人维护
 
 **检验 LLM 数字孪生能否预测随外部状态变化调查答案的研究项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jerrydzj/state-dependent-twins 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-18", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-21 3（+0）
+2026-11-18 3 → 2026-11-22 3（+0）
 
 
 ---

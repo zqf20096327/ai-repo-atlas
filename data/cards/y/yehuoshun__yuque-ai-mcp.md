@@ -1,6 +1,6 @@
 # yehuoshun/yuque-ai-mcp
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/yehuoshun/yuque-ai-mcp) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yehuoshun/yuque-ai-mcp) · 个人维护 · 中文 README
 
 **给 AI Agent 提供语雀全功能操作的 MCP Server**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yehuoshun/yuque-ai-mcp 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-19", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-21 10（+0）
+2026-11-19 10 → 2026-11-22 10（+0）
 
 
 ---

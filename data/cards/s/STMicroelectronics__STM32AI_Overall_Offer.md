@@ -1,6 +1,6 @@
 # STMicroelectronics/STM32AI_Overall_Offer
 
-⭐ 64 · 推送 2026-02-07 · [GitHub](https://github.com/STMicroelectronics/STM32AI_Overall_Offer) · 组织维护
+⭐ 65 · 推送 2026-02-07 · [GitHub](https://github.com/STMicroelectronics/STM32AI_Overall_Offer) · 组织维护
 
 **STM32 嵌入式 AI 资源总入口：汇集官方工具与示例仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "STMicroelectronics/STM32AI_Overall_Offer 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 61 --> 65
-    line [62, 63, 64, 64]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 61 --> 66
+    line [62, 63, 64, 65]
 ```
 
-2026-10-19 62 → 2026-11-21 64（+2）
+2026-10-20 62 → 2026-11-22 65（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # lululu811/zettaranc-skill
 
-⭐ 534 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/lululu811/zettaranc-skill) · 个人维护 · 中文 README
+⭐ 536 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/lululu811/zettaranc-skill) · 个人维护 · 中文 README
 
 **将私募基金经理交易纪律封装为可回测的 A 股量化分析 Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lululu811/zettaranc-skill 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 533 --> 535
-    line [534, 534]
+    x-axis ["2026-11-20", "2026-11-22"]
+    y-axis "stars" 533 --> 537
+    line [534, 536]
 ```
 
-2026-11-20 534 → 2026-11-21 534（+0）
+2026-11-20 534 → 2026-11-22 536（+2）
 
 
 ---

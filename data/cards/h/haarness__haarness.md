@@ -1,6 +1,6 @@
 # haarness/haarness
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/haarness/haarness) · [官网](https://haarness.ai) · 组织维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/haarness/haarness) · [官网](https://haarness.ai) · 组织维护
 
 **开源 AI 编码代理：终端、桌面与编辑器多端协作**
 
@@ -47,12 +47,12 @@ Haarness 是一个支持任意模型的开源 AI 编码代理，以单个 Rust �
 ```mermaid
 xychart-beta
     title "haarness/haarness 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 2 --> 8
-    line [3, 6, 7, 7]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 2 --> 9
+    line [3, 6, 7, 8]
 ```
 
-2026-11-02 3 → 2026-11-21 7（+4）
+2026-11-02 3 → 2026-11-22 8（+5）
 
 
 ---

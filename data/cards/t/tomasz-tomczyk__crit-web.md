@@ -1,6 +1,6 @@
 # tomasz-tomczyk/crit-web
 
-⭐ 38 · Elixir · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tomasz-tomczyk/crit-web) · [官网](https://crit.md) · 个人维护
+⭐ 38 · Elixir · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tomasz-tomczyk/crit-web) · [官网](https://crit.md) · 个人维护
 
 **Crit CLI 的托管分享服务：将 AI agent 审查结果发布为公开网页**
 
@@ -44,13 +44,13 @@ crit-web 是本地优先 CLI 工具 Crit 的配套 Web 服务：用户在 crit C
 
 ```mermaid
 xychart-beta
-    title "tomasz-tomczyk/crit-web 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 31 --> 39
-    line [32, 33, 34, 35, 33, 35, 37, 38, 38]
+    title "tomasz-tomczyk/crit-web 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 32 --> 39
+    line [33, 34, 35, 33, 35, 37, 38, 38]
 ```
 
-2026-10-18 32 → 2026-11-21 38（+6）
+2026-10-19 33 → 2026-11-22 38（+5）
 
 
 ---

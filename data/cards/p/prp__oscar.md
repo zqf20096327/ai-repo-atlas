@@ -1,6 +1,6 @@
 # prp/oscar
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/prp/oscar) · 组织维护
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/prp/oscar) · 组织维护
 
 **让 Apple Silicon Mac 以弹性内存运行超内存大型 MoE 模型**
 
@@ -40,6 +40,18 @@
 > L1: # Oscar: Elastic LLM Serving for Larger-than-Memory LLMs on Apple Silicon
 > L3: Oscar is an elastic LLM offloading service for Apple Silicon machines, written in Rust, that runs mixture-of-experts
 > L26: - 🔌 **OpenAI-compatible API server** with streaming chat completions, tool calling and reasoning output
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "prp/oscar 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 18
+    line [5, 17]
+```
+
+2026-11-21 5 → 2026-11-22 17（+12）
 
 
 ---

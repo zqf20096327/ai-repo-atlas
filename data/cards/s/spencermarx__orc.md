@@ -1,6 +1,6 @@
 # spencermarx/orc
 
-⭐ 27 · Shell · 推送 2026-06-21 · [GitHub](https://github.com/spencermarx/orc) · 个人维护
+⭐ 28 · Shell · 推送 2026-06-21 · [GitHub](https://github.com/spencermarx/orc) · 个人维护
 
 **把一个提示分派为多 AI 编码代理团队的编排框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spencermarx/orc 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-19 26 → 2026-11-21 27（+1）
+2026-10-20 26 → 2026-11-22 28（+2）
 
 
 ---

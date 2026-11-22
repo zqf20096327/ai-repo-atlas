@@ -1,6 +1,6 @@
 # tilde-research/popcorn
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/tilde-research/popcorn) · [官网](https://tilde-research.github.io/popcorn/) · 个人维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/tilde-research/popcorn) · [官网](https://tilde-research.github.io/popcorn/) · 个人维护
 
 **PyTorch 高性能 ML kernel 的开发与自动分发调度库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tilde-research/popcorn 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-19 38 → 2026-11-21 38（+0）
+2026-10-20 38 → 2026-11-22 39（+1）
 
 
 ---

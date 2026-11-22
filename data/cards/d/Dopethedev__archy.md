@@ -1,6 +1,6 @@
 # Dopethedev/archy
 
-⭐ 5 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Dopethedev/archy) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Dopethedev/archy) · 个人维护
 
 **本机运行的语音助手：本地语音进出，离线也能应答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Dopethedev/archy 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-31", "2026-11-21"]
-    y-axis "stars" 3 --> 6
-    line [5, 4, 5, 5]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-31", "2026-11-22"]
+    y-axis "stars" 3 --> 7
+    line [5, 4, 5, 6]
 ```
 
-2026-10-28 5 → 2026-11-21 5（+0）
+2026-10-28 5 → 2026-11-22 6（+1）
 
 
 ---

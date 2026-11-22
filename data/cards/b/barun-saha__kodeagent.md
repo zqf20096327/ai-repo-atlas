@@ -1,6 +1,6 @@
 # barun-saha/kodeagent
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/barun-saha/kodeagent) · [官网](https://kodeagent.readthedocs.io/en/latest/) · 个人维护
+⭐ 46 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/barun-saha/kodeagent) · [官网](https://kodeagent.readthedocs.io/en/latest/) · 个人维护
 
 **给开发者的极简 Python AI agent 引擎/构建框架**
 
@@ -46,12 +46,12 @@ KodeAgent 是一个基于 Python 3.10+ 的无框架式 AI agent 构建库，定�
 ```mermaid
 xychart-beta
     title "barun-saha/kodeagent 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45, 44, 45, 45]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 44, 45, 46]
 ```
 
-2026-10-19 43 → 2026-11-21 45（+2）
+2026-10-20 43 → 2026-11-22 46（+3）
 
 
 ---

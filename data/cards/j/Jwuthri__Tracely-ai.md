@@ -1,6 +1,6 @@
 # Jwuthri/Tracely-ai
 
-⭐ 1,122 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Jwuthri/Tracely-ai) · [官网](https://tracely-ai.com) · 个人维护
+⭐ 1,122 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jwuthri/Tracely-ai) · [官网](https://tracely-ai.com) · 个人维护
 
 **面向 AI agent 的 trace 原生 CI/CD：生产失败转为回归测试并拦截 PR**
 
@@ -46,13 +46,13 @@ Tracely 通过 OTLP 摄取 agent 运行 trace，用在线评估器（LLM-as-judg
 
 ```mermaid
 xychart-beta
-    title "Jwuthri/Tracely-ai 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    title "Jwuthri/Tracely-ai 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 1104 --> 1329
-    line [1311, 1299, 1132, 1122]
+    line [1311, 1299, 1132, 1122, 1122]
 ```
 
-2026-11-08 1,311 → 2026-11-21 1,122（-189）
+2026-11-08 1,311 → 2026-11-22 1,122（-189）
 
 
 ---

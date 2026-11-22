@@ -1,6 +1,6 @@
 # necoz-oss/changelog-bot
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/necoz-oss/changelog-bot) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/necoz-oss/changelog-bot) · 个人维护
 
 **AI 生成变更日志的 CLI 与 GitHub Action**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "necoz-oss/changelog-bot 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-22"]
     y-axis "stars" 31 --> 38
     line [32, 33, 34, 35, 37, 37]
 ```
 
-2026-11-02 32 → 2026-11-21 37（+5）
+2026-11-02 32 → 2026-11-22 37（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # nikshepsvn/openvenice
 
-⭐ 66 · TypeScript · 推送 2026-04-17 · [GitHub](https://github.com/nikshepsvn/openvenice) · 个人维护
+⭐ 67 · TypeScript · 推送 2026-04-17 · [GitHub](https://github.com/nikshepsvn/openvenice) · 个人维护
 
 **Venice AI 的自托管多模态前端：聊天/图像/音频/视频/工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nikshepsvn/openvenice 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 63 --> 67
-    line [64, 65, 64, 65, 66, 66]
+    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 63 --> 68
+    line [64, 65, 64, 65, 66, 67]
 ```
 
-2026-10-19 64 → 2026-11-21 66（+2）
+2026-10-20 64 → 2026-11-22 67（+3）
 
 
 ---

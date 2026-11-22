@@ -1,6 +1,6 @@
 # Trustworthy-ML-Lab/Label-free-CBM
 
-⭐ 147 · Jupyter Notebook · 推送 2026-04-07 · [GitHub](https://github.com/Trustworthy-ML-Lab/Label-free-CBM) · 组织维护
+⭐ 148 · Jupyter Notebook · 推送 2026-04-07 · [GitHub](https://github.com/Trustworthy-ML-Lab/Label-free-CBM) · 组织维护
 
 **无需概念标注即可将神经网络转为可解释概念瓶颈模型的框架**
 
@@ -45,12 +45,12 @@ ICLR 2023 论文 Label-free CBM 的官方代码库：提供将任意神经网络
 ```mermaid
 xychart-beta
     title "Trustworthy-ML-Lab/Label-free-CBM 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 146 --> 148
-    line [147, 147]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 146 --> 149
+    line [147, 148]
 ```
 
-2026-10-19 147 → 2026-11-21 147（+0）
+2026-10-20 147 → 2026-11-22 148（+1）
 
 
 ---

@@ -40,6 +40,18 @@
 > L3: Fix production errors with an AI agent, straight from GitHub Actions. When Errilo reports a new issue or a regressio
 > L9: One action, four steps, used in three jobs of your workflow so that the agent never holds a token that can write to 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "geterrilo/autofix 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-21 6 → 2026-11-22 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `fb0fa7d720f5` · [字段定义](../../DATASET.md)*

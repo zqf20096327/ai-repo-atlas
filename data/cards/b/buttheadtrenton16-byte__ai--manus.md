@@ -1,6 +1,6 @@
 # buttheadtrenton16-byte/ai--manus
 
-⭐ 201 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/buttheadtrenton16-byte/ai--manus) · 个人维护
+⭐ 197 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/buttheadtrenton16-byte/ai--manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：代用户运行代码与控制浏览器**
 
@@ -45,12 +45,12 @@ README 以功能宣传为主的自称为 Manus 的自主 AI Agent：描述其可
 ```mermaid
 xychart-beta
     title "buttheadtrenton16-byte/ai--manus 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22"]
     y-axis "stars" 134 --> 286
-    line [146, 274, 202, 201, 201]
+    line [146, 274, 202, 201, 197]
 ```
 
-2026-11-13 146 → 2026-11-21 201（+55）
+2026-11-13 146 → 2026-11-22 197（+51）
 
 
 ---

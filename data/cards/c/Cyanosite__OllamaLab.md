@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cyanosite/OllamaLab 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "Cyanosite/OllamaLab 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 31 --> 34
-    line [32, 33]
+    line [32, 33, 33]
 ```
 
-2026-10-19 32 → 2026-11-21 33（+1）
+2026-10-20 32 → 2026-11-22 33（+1）
 
 
 ---

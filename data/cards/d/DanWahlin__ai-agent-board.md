@@ -1,6 +1,6 @@
 # DanWahlin/ai-agent-board
 
-⭐ 73 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/DanWahlin/ai-agent-board) · 个人维护
+⭐ 74 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/DanWahlin/ai-agent-board) · 个人维护
 
 **拖拽式看板，将编码任务分派给多种 AI coding agent 执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DanWahlin/ai-agent-board 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 65 --> 74
-    line [66, 67, 70, 71, 72, 73, 73]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 65 --> 75
+    line [66, 67, 70, 71, 72, 73, 74]
 ```
 
-2026-10-19 66 → 2026-11-21 73（+7）
+2026-10-20 66 → 2026-11-22 74（+8）
 
 
 ---

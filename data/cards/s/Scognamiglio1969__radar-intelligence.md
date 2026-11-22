@@ -1,6 +1,6 @@
 # Scognamiglio1969/radar-intelligence
 
-⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/Scognamiglio1969/radar-intelligence) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · AGPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/Scognamiglio1969/radar-intelligence) · 个人维护 · 中文 README
 
 **可自托管的开源媒体情报与社媒监听平台，替代 Talkwalker/Brandwatch**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Scognamiglio1969/radar-intelligence 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 19 --> 28
-    line [20, 21, 23, 26, 27, 27]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 19 --> 29
+    line [20, 21, 23, 26, 27, 28]
 ```
 
-2026-10-19 20 → 2026-11-21 27（+7）
+2026-10-20 20 → 2026-11-22 28（+8）
 
 
 ---

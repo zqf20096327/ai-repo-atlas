@@ -1,6 +1,6 @@
 # 3xian/PinkCollab
 
-⭐ 15 · Kotlin · MIT · 推送 2026-11-13 · [GitHub](https://github.com/3xian/PinkCollab) · [官网](https://3xian.github.io/PinkCollab/) · 个人维护
+⭐ 16 · Kotlin · MIT · 推送 2026-11-13 · [GitHub](https://github.com/3xian/PinkCollab) · [官网](https://3xian.github.io/PinkCollab/) · 个人维护
 
 **Android 客户端：从手机远程使用电脑上的 Oh My Pi (OMP)**
 
@@ -45,12 +45,12 @@ PinkCollab 是 Oh My Pi (OMP) 编码 agent 的 Android 客户端：在电脑上�
 ```mermaid
 xychart-beta
     title "3xian/PinkCollab 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 8 --> 16
-    line [11, 9, 10, 11, 9, 11, 12, 14, 15, 15]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 8 --> 17
+    line [11, 9, 10, 11, 9, 11, 12, 14, 15, 16]
 ```
 
-2026-10-19 11 → 2026-11-21 15（+4）
+2026-10-20 11 → 2026-11-22 16（+5）
 
 
 ---

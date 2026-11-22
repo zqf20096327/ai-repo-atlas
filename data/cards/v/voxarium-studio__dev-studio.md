@@ -1,6 +1,6 @@
 # voxarium-studio/dev-studio
 
-⭐ 4 · Python · 推送 2026-11-20 · [GitHub](https://github.com/voxarium-studio/dev-studio) · [官网](https://voxarium.studio/studio/) · 组织维护 · 中文 README
+⭐ 4 · Python · 推送 2026-11-21 · [GitHub](https://github.com/voxarium-studio/dev-studio) · [官网](https://voxarium.studio/studio/) · 组织维护 · 中文 README
 
 **面向游戏开发的 AI Agent 工作区管理工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "voxarium-studio/dev-studio 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-10 4 → 2026-11-21 4（+0）
+2026-11-10 4 → 2026-11-22 4（+0）
 
 
 ---

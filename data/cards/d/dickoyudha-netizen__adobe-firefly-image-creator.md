@@ -1,6 +1,6 @@
 # dickoyudha-netizen/adobe-firefly-image-creator
 
-⭐ 133 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dickoyudha-netizen/adobe-firefly-image-creator) · 个人维护
+⭐ 150 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dickoyudha-netizen/adobe-firefly-image-creator) · 个人维护
 
 **Web 应用：通过 Adobe Firefly 将文本提示生成图像**
 
@@ -40,6 +40,18 @@
 > L12: Adobe Firefly Image Creator turns text prompts into striking, production-ready visuals in seconds, giving teams a f
 > L23: - **Prompt-to-image generation that feels instant.** Describe what you want in plain language and watch Adobe Firef
 > L149: Adobe Firefly Image Creator offers a generous free tier so you can start generating images right away, with premiu
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dickoyudha-netizen/adobe-firefly-image-creator 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 132 --> 151
+    line [133, 150]
+```
+
+2026-11-21 133 → 2026-11-22 150（+17）
 
 
 ---

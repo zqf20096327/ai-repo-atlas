@@ -44,12 +44,12 @@ EMNLP 2026 Findings 论文的官方实现：在编译期将 .txt/.md/.json/.json
 ```mermaid
 xychart-beta
     title "dukesun99/Corpus2Skill 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-19 96 → 2026-11-21 96（+0）
+2026-10-20 96 → 2026-11-22 96（+0）
 
 
 ---

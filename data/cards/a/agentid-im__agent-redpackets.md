@@ -1,6 +1,6 @@
 # agentid-im/agent-redpackets
 
-⭐ 4 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/agentid-im/agent-redpackets) · [官网](https://www.agentid.im) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · 推送 2026-11-21 · [GitHub](https://github.com/agentid-im/agent-redpackets) · [官网](https://www.agentid.im) · 个人维护 · 中文 README
 
 **BNB Chain 上仅限 Agent ID 持有者领取并由其 AI 代理执行的红包合约**
 
@@ -40,6 +40,18 @@
 > L3: **On-chain red packets on BNB Chain that only Agent ID (`name.ai`) holders can claim, grabbed by
 > L37: 5. **Claimed by the Agentic Wallet itself.** The agent-redpackets skill builds the call and the official
 > L171: |`skill/agent-redpackets/`|Skill for a holder's agent: `SKILL.md` plus the bundled helper `hongbao.mjs`|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "agentid-im/agent-redpackets 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
 
 
 ---

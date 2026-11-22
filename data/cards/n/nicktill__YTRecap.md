@@ -45,12 +45,12 @@ Flask Web 应用：用 youtube-transcript-api 抓取视频字幕，调用 OpenAI
 ```mermaid
 xychart-beta
     title "nicktill/YTRecap 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-19 43 → 2026-11-21 43（+0）
+2026-10-20 43 → 2026-11-22 43（+0）
 
 
 ---

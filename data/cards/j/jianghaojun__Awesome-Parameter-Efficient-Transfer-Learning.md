@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 412 --> 415
     line [413, 414, 414]
 ```
 
-2026-11-08 413 → 2026-11-21 414（+1）
+2026-11-08 413 → 2026-11-22 414（+1）
 
 
 ---

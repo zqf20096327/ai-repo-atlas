@@ -1,6 +1,6 @@
 # steveyeow/Feynman
 
-⭐ 164 · Python · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/steveyeow/Feynman) · [官网](https://feynman.wiki) · 个人维护
+⭐ 164 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/steveyeow/Feynman) · [官网](https://feynman.wiki) · 个人维护
 
 **与书籍和名家智能体对话的知识网络应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "steveyeow/Feynman 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-22"]
     y-axis "stars" 159 --> 165
     line [160, 161, 162, 161, 163, 164, 164]
 ```
 
-2026-10-19 160 → 2026-11-21 164（+4）
+2026-10-20 160 → 2026-11-22 164（+4）
 
 
 ---

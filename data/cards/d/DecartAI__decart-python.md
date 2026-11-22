@@ -1,6 +1,6 @@
 # DecartAI/decart-python
 
-⭐ 21 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/DecartAI/decart-python) · [官网](https://docs.platform.decart.ai/sdks/python) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/DecartAI/decart-python) · [官网](https://docs.platform.decart.ai/sdks/python) · 组织维护
 
 **Decart AI 平台的 Python SDK：接入图像/视频编辑与实时模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DecartAI/decart-python 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 22（+1）
 
 
 ---

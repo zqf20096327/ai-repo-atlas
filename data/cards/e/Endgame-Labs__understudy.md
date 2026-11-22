@@ -1,6 +1,6 @@
 # Endgame-Labs/understudy
 
-⭐ 7 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Endgame-Labs/understudy) · 组织维护
+⭐ 7 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Endgame-Labs/understudy) · 组织维护
 
 **CPU-only LLM 代理：学习重复问题的答案以减少上游调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Endgame-Labs/understudy 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-22"]
     y-axis "stars" 4 --> 8
     line [5, 7, 7]
 ```
 
-2026-11-02 5 → 2026-11-21 7（+2）
+2026-11-02 5 → 2026-11-22 7（+2）
 
 
 ---

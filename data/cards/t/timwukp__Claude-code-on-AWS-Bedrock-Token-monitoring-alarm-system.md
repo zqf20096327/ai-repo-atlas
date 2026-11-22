@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "timwukp/Claude-code-on-AWS-Bedrock-Token-monitoring-alarm-system 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "timwukp/Claude-code-on-AWS-Bedrock-Token-monitoring-alarm-system 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
 ```
 
-2026-10-18 12 → 2026-11-21 13（+1）
+2026-10-19 13 → 2026-11-22 13（+0）
 
 
 ---

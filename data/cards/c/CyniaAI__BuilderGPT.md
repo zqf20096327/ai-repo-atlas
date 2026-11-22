@@ -42,13 +42,13 @@ Cynia Agents 框架的组件：用户描述建筑，由配置的 LLM 生成可�
 
 ```mermaid
 xychart-beta
-    title "CyniaAI/BuilderGPT 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "CyniaAI/BuilderGPT 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 162 --> 165
-    line [164, 163]
+    line [164, 163, 163]
 ```
 
-2026-10-19 164 → 2026-11-21 163（-1）
+2026-10-20 164 → 2026-11-22 163（-1）
 
 
 ---

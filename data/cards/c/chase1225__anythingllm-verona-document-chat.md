@@ -1,6 +1,6 @@
 # chase1225/anythingllm-verona-document-chat
 
-⭐ 144 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/chase1225/anythingllm-verona-document-chat) · 个人维护
+⭐ 149 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/chase1225/anythingllm-verona-document-chat) · 个人维护
 
 **面向本地文档问答的桌面客户端，回答附带来源引文**
 
@@ -40,6 +40,18 @@
 > L12: Anythingllm Verona Document Chat is a desktop application for interacting with local document collections through a
 > L29: - **Retrieval-augmented responses**: Answers are grounded in retrieved passages from the active workspace's indexed
 > L31: - **Source citation and traceability**: Chat responses include references to the originating document chunks, allow
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chase1225/anythingllm-verona-document-chat 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 143 --> 150
+    line [144, 149]
+```
+
+2026-11-21 144 → 2026-11-22 149（+5）
 
 
 ---

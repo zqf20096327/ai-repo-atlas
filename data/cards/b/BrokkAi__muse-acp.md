@@ -1,6 +1,6 @@
 # BrokkAi/muse-acp
 
-⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/BrokkAi/muse-acp) · [官网](https://github.com/BrokkAi/muse-acp/releases/latest) · 组织维护
+⭐ 29 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/BrokkAi/muse-acp) · [官网](https://github.com/BrokkAi/muse-acp/releases/latest) · 组织维护
 
 **让 Zed 与 JetBrains 等 ACP 客户端使用 Muse Code 订阅的 Rust 适配器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BrokkAi/muse-acp 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 20 --> 29
-    line [21, 22, 23, 22, 23, 24, 25, 26, 27, 28, 28]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 20 --> 30
+    line [21, 22, 23, 22, 23, 24, 25, 26, 27, 28, 29]
 ```
 
-2026-10-19 21 → 2026-11-21 28（+7）
+2026-10-20 21 → 2026-11-22 29（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # theaiautomators/claude-code-agentic-rag-masterclass
 
-⭐ 197 · 推送 2026-01-29 · [GitHub](https://github.com/theaiautomators/claude-code-agentic-rag-masterclass) · [官网](https://www.theaiautomators.com/) · 组织维护
+⭐ 198 · 推送 2026-01-29 · [GitHub](https://github.com/theaiautomators/claude-code-agentic-rag-masterclass) · [官网](https://www.theaiautomators.com/) · 组织维护
 
 **与 Claude Code 协作从零构建 RAG 应用的 8 模块视频课程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "theaiautomators/claude-code-agentic-rag-masterclass 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 192 --> 198
-    line [193, 194, 195, 194, 197, 197]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 192 --> 199
+    line [193, 194, 195, 194, 197, 198]
 ```
 
-2026-10-19 193 → 2026-11-21 197（+4）
+2026-10-20 193 → 2026-11-22 198（+5）
 
 
 ---

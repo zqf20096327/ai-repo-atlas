@@ -45,12 +45,12 @@ CoGAPS（Coordinated Gene Activity in Pattern Sets）实现贝叶斯 MCMC 矩阵
 ```mermaid
 xychart-beta
     title "FertigLab/CoGAPS 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-19 74 → 2026-11-21 74（+0）
+2026-10-20 74 → 2026-11-22 74（+0）
 
 
 ---

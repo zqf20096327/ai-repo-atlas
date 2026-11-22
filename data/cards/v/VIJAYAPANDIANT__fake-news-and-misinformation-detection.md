@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VIJAYAPANDIANT/fake-news-and-misinformation-detection 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

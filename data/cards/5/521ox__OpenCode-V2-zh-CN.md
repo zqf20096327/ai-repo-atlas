@@ -1,6 +1,6 @@
 # 521ox/OpenCode-V2-zh-CN
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/521ox/OpenCode-V2-zh-CN) · [官网](https://github.com/521ox/OpenCode-V2-zh-CN#readme) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/521ox/OpenCode-V2-zh-CN) · [官网](https://github.com/521ox/OpenCode-V2-zh-CN#readme) · 个人维护 · 中文 README
 
 **OpenCode V2 的简体中文社区汉化版终端编程代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "521ox/OpenCode-V2-zh-CN 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 11（+1）
 
 
 ---

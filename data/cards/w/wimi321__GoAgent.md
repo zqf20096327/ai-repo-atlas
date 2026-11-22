@@ -1,6 +1,6 @@
 # wimi321/GoAgent
 
-⭐ 59 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wimi321/GoAgent) · [官网](https://github.com/wimi321/GoAgent/releases/latest) · 个人维护 · 中文 README
+⭐ 60 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wimi321/GoAgent) · [官网](https://github.com/wimi321/GoAgent/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的桌面围棋学习工作台，KataGo+多模态LLM当AI老师**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wimi321/GoAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-15", "2026-11-21"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 58, 59, 59]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-15", "2026-11-22"]
+    y-axis "stars" 57 --> 61
+    line [58, 59, 58, 59, 60]
 ```
 
-2026-10-18 58 → 2026-11-21 59（+1）
+2026-10-19 58 → 2026-11-22 60（+2）
 
 
 ---

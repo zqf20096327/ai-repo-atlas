@@ -1,6 +1,6 @@
 # edwardyehuang/iSeg
 
-⭐ 18 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/edwardyehuang/iSeg) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/edwardyehuang/iSeg) · 个人维护
 
 **Keras 3 语义分割库：多种 backbone 与预训练权重开箱可用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "edwardyehuang/iSeg 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-19 18 → 2026-11-21 18（+0）
+2026-10-20 18 → 2026-11-22 18（+0）
 
 
 ---

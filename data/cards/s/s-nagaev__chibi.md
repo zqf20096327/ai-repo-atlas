@@ -1,6 +1,6 @@
 # s-nagaev/chibi
 
-⭐ 57 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/s-nagaev/chibi) · [官网](https://chibi.bot) · 个人维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/s-nagaev/chibi) · [官网](https://chibi.bot) · 个人维护 · 中文 README
 
 **自托管的 Telegram AI 伴侣机器人，编排多家模型提供商与工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "s-nagaev/chibi 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-22"]
     y-axis "stars" 53 --> 58
     line [55, 54, 56, 57, 57]
 ```
 
-2026-10-19 55 → 2026-11-21 57（+2）
+2026-10-20 55 → 2026-11-22 57（+2）
 
 
 ---

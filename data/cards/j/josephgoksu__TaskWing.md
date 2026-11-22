@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "josephgoksu/TaskWing 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "josephgoksu/TaskWing 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 87 --> 90
-    line [89, 88]
+    line [89, 88, 88]
 ```
 
-2026-10-19 89 → 2026-11-21 88（-1）
+2026-10-20 89 → 2026-11-22 88（-1）
 
 
 ---

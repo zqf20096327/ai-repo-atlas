@@ -1,6 +1,6 @@
 # CognitiveAISystems/MAPF-GPT
 
-⭐ 140 · C++ · MIT · 推送 2026-04-23 · [GitHub](https://github.com/CognitiveAISystems/MAPF-GPT) · 组织维护
+⭐ 141 · C++ · MIT · 推送 2026-04-23 · [GitHub](https://github.com/CognitiveAISystems/MAPF-GPT) · 组织维护
 
 **多智能体路径规划（MAPF）的模仿学习 Transformer 模型**
 
@@ -46,12 +46,12 @@ AAAI-2025 论文官方实现：基于 Transformer 的深度学习模型，通过
 ```mermaid
 xychart-beta
     title "CognitiveAISystems/MAPF-GPT 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 135 --> 141
-    line [136, 137, 138, 139, 137, 139, 140, 140]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 135 --> 142
+    line [136, 137, 138, 139, 137, 139, 140, 141]
 ```
 
-2026-10-19 136 → 2026-11-21 140（+4）
+2026-10-20 136 → 2026-11-22 141（+5）
 
 
 ---

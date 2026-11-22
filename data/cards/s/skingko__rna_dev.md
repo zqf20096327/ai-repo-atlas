@@ -1,6 +1,6 @@
 # skingko/rna_dev
 
-⭐ 55 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/skingko/rna_dev) · [官网](https://www.rna.dev) · 个人维护 · 中文 README
+⭐ 54 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/skingko/rna_dev) · [官网](https://www.rna.dev) · 个人维护 · 中文 README
 
 **本地优先的 AI agent 工作台：面向长期项目的后台代理**
 
@@ -45,12 +45,12 @@ Rna Agent 是桌面应用加命令行，用于在超出单次对话周期的项�
 ```mermaid
 xychart-beta
     title "skingko/rna_dev 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-22"]
     y-axis "stars" 53 --> 57
-    line [54, 56, 55, 55]
+    line [54, 56, 55, 54]
 ```
 
-2026-11-08 54 → 2026-11-21 55（+1）
+2026-11-08 54 → 2026-11-22 54（+0）
 
 
 ---

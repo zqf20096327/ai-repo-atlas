@@ -1,6 +1,6 @@
 # Athroniaeth/piighost
 
-⭐ 19 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Athroniaeth/piighost) · [官网](https://piighost.dev) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Athroniaeth/piighost) · [官网](https://piighost.dev) · 个人维护
 
 **LLM 应用的可逆 PII 脱敏库：占位符替换并在回复与工具调用中还原**
 
@@ -45,12 +45,12 @@ Python 库，在数据送入 LLM 前用可插拔检测器（regex、NER、LLM、
 ```mermaid
 xychart-beta
     title "Athroniaeth/piighost 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 16, 18, 19, 19]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 15 --> 21
+    line [16, 17, 16, 18, 19, 20]
 ```
 
-2026-10-19 16 → 2026-11-21 19（+3）
+2026-10-20 16 → 2026-11-22 20（+4）
 
 
 ---

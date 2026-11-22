@@ -1,6 +1,6 @@
 # sanhansan/codex-manager
 
-⭐ 7 · HTML · 推送 2026-10-08 · [GitHub](https://github.com/sanhansan/codex-manager) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 Codex 类 AI 编码工作台做会话用量看板与流程可视化的插件**
 

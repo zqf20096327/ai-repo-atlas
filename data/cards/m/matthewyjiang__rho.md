@@ -1,6 +1,6 @@
 # matthewyjiang/rho
 
-⭐ 17 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/matthewyjiang/rho) · [官网](https://matthewyjiang.github.io/rho/) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/matthewyjiang/rho) · [官网](https://matthewyjiang.github.io/rho/) · 个人维护
 
 **Rust 编写的轻量终端编码代理框架，多提供商编排**
 
@@ -45,12 +45,12 @@ Rho 是一个以 Rust 实现的终端优先 agent harness，面向开发者。�
 ```mermaid
 xychart-beta
     title "matthewyjiang/rho 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 13 --> 18
     line [14, 15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-19 14 → 2026-11-21 17（+3）
+2026-10-20 14 → 2026-11-22 17（+3）
 
 
 ---

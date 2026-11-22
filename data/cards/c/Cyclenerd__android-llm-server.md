@@ -1,6 +1,6 @@
 # Cyclenerd/android-llm-server
 
-⭐ 32 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Cyclenerd/android-llm-server) · 个人维护
+⭐ 33 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Cyclenerd/android-llm-server) · 个人维护
 
 **把 Android 手机变成本地 LLM 服务器的应用**
 
@@ -46,12 +46,12 @@ Android 应用，基于 Google LiteRT 推理引擎在手机 GPU 上本地运行 
 ```mermaid
 xychart-beta
     title "Cyclenerd/android-llm-server 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 29, 27, 31, 32, 32]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 26 --> 34
+    line [27, 28, 29, 27, 31, 32, 33]
 ```
 
-2026-10-19 27 → 2026-11-21 32（+5）
+2026-10-20 27 → 2026-11-22 33（+6）
 
 
 ---

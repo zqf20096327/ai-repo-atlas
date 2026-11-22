@@ -1,6 +1,6 @@
 # ruruamour/ai-relay-atlas
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ruruamour/ai-relay-atlas) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ruruamour/ai-relay-atlas) · 个人维护 · 中文 README
 
 **为选型者聚合 AI API 中转站与发卡店铺公开行情的名单地图**
 
@@ -41,6 +41,18 @@
 > L7: 把 **AI API 中转站**和 **发卡/卡网店铺**放进同一张"上游地图"。**本阶段以收全名单为主**，细节后续补充。
 > L17: |中转站（去重后）|5146（首页可访问 4615）|
 > L30: 这是一个公开信息研究项目：候选、已确认中转站和卡网审核项始终分开。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ruruamour/ai-relay-atlas 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
 
 
 ---

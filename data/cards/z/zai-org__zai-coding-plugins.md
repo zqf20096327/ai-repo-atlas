@@ -1,6 +1,6 @@
 # zai-org/zai-coding-plugins
 
-⭐ 128 · JavaScript · Apache-2.0 · 推送 2026-02-22 · [GitHub](https://github.com/zai-org/zai-coding-plugins) · 组织维护 · 中文 README
+⭐ 129 · JavaScript · Apache-2.0 · 推送 2026-02-22 · [GitHub](https://github.com/zai-org/zai-coding-plugins) · 组织维护 · 中文 README
 
 **Z.ai 的 Claude Code 插件市场：GLM Coding Plan 用量查询与反馈**
 
@@ -43,12 +43,12 @@ Z.ai（zai-org）维护的 Claude Code 插件集合，当前包含两个插件�
 ```mermaid
 xychart-beta
     title "zai-org/zai-coding-plugins 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-14", "2026-11-22"]
     y-axis "stars" 127 --> 132
-    line [130, 131, 130, 129, 128, 128]
+    line [130, 131, 130, 129, 128, 129]
 ```
 
-2026-10-19 130 → 2026-11-21 128（-2）
+2026-10-20 130 → 2026-11-22 129（-1）
 
 
 ---

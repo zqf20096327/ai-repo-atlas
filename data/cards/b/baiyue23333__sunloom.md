@@ -1,6 +1,6 @@
 # baiyue23333/sunloom
 
-⭐ 4 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/baiyue23333/sunloom) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/baiyue23333/sunloom) · 个人维护 · 中文 README
 
 **面向出图创作者的积木式提示词工作站，经 ComfyUI 出图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "baiyue23333/sunloom 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-21"]
+    x-axis ["2026-10-29", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-29 4 → 2026-11-21 4（+0）
+2026-10-29 4 → 2026-11-22 4（+0）
 
 
 ---

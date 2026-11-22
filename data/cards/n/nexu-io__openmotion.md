@@ -1,6 +1,6 @@
 # nexu-io/openmotion
 
-⭐ 13,844 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/nexu-io/openmotion) · [官网](https://open-design.ai/motion/) · 组织维护 · 中文 README
+⭐ 14,626 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/nexu-io/openmotion) · [官网](https://open-design.ai/motion/) · 组织维护 · 中文 README
 
 **开源 AI 视频工作台：把参考视频重制成可编辑的品牌动效视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nexu-io/openmotion 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 9685 --> 14222
-    line [10063, 10867, 11770, 12797, 13844]
+    title "nexu-io/openmotion 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 9607 --> 15082
+    line [10063, 10867, 11770, 12797, 13844, 14626]
 ```
 
-2026-11-16 10,063 → 2026-11-21 13,844（+3,781）
+2026-11-16 10,063 → 2026-11-22 14,626（+4,563）
 
 
 ---

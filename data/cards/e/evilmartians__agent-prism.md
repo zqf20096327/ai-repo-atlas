@@ -1,6 +1,6 @@
 # evilmartians/agent-prism
 
-⭐ 408 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/evilmartians/agent-prism) · [官网](https://storybook.agent-prism.evilmartians.io/?utm_source=github&utm_medium=social) · 组织维护
+⭐ 409 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/evilmartians/agent-prism) · [官网](https://storybook.agent-prism.evilmartians.io/?utm_source=github&utm_medium=social) · 组织维护
 
 **可视化 AI agent 追踪数据的 React 组件库，用于调试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "evilmartians/agent-prism 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-22"]
     y-axis "stars" 397 --> 410
-    line [398, 401, 402, 403, 404, 402, 407, 409, 408, 409, 408, 408]
+    line [398, 401, 402, 403, 404, 402, 407, 409, 408, 409, 408, 409]
 ```
 
-2026-10-19 398 → 2026-11-21 408（+10）
+2026-10-20 398 → 2026-11-22 409（+11）
 
 
 ---

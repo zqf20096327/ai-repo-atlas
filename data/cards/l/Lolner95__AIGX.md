@@ -1,6 +1,6 @@
 # Lolner95/AIGX
 
-⭐ 115 · Python · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Lolner95/AIGX) · [官网](https://github.com/Lolner95/AIGX#readme) · 个人维护
+⭐ 114 · Python · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Lolner95/AIGX) · [官网](https://github.com/Lolner95/AIGX#readme) · 个人维护
 
 **面向 AI 编码代理的开放上下文格式：集中规则+按文件边界索引**
 
@@ -45,13 +45,13 @@ AIGX 定义一种开放格式（Spec v1.1，含 ABNF 语法与 JSON schema），
 
 ```mermaid
 xychart-beta
-    title "Lolner95/AIGX 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 112 --> 148
-    line [145, 139, 128, 125, 116, 115]
+    title "Lolner95/AIGX 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 111 --> 148
+    line [145, 139, 128, 125, 116, 115, 114]
 ```
 
-2026-10-18 145 → 2026-11-21 115（-30）
+2026-10-19 145 → 2026-11-22 114（-31）
 
 
 ---

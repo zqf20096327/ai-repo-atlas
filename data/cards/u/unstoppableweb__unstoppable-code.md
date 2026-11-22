@@ -1,6 +1,6 @@
 # unstoppableweb/unstoppable-code
 
-⭐ 71 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/unstoppableweb/unstoppable-code) · [官网](https://unstoppable.ai) · 组织维护
+⭐ 72 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/unstoppableweb/unstoppable-code) · [官网](https://unstoppable.ai) · 组织维护
 
 **把多个编码 agent 聚合到一个 IDE 的桌面/移动客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "unstoppableweb/unstoppable-code 星数(近 11 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 25 --> 75
-    line [29, 30, 31, 32, 34, 35, 36, 57, 66, 67, 71]
+    title "unstoppableweb/unstoppable-code 星数(近 12 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 25 --> 76
+    line [29, 30, 31, 32, 34, 35, 36, 57, 66, 67, 71, 72]
 ```
 
-2026-11-08 29 → 2026-11-21 71（+42）
+2026-11-08 29 → 2026-11-22 72（+43）
 
 
 ---

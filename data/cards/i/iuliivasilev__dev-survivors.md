@@ -1,6 +1,6 @@
 # iuliivasilev/dev-survivors
 
-⭐ 41 · Python · BSD-3-Clause · 推送 2026-02-02 · [GitHub](https://github.com/iuliivasilev/dev-survivors) · [官网](https://iuliivasilev.github.io/dev-survivors/) · 个人维护
+⭐ 42 · Python · BSD-3-Clause · 推送 2026-02-02 · [GitHub](https://github.com/iuliivasilev/dev-survivors) · [官网](https://iuliivasilev.github.io/dev-survivors/) · 个人维护
 
 **Python 生存分析库：处理删失与异构数据的树模型与集成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iuliivasilev/dev-survivors 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-19 41 → 2026-11-21 41（+0）
+2026-10-20 41 → 2026-11-22 42（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DcisionIO/dcision
 
-⭐ 5 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/DcisionIO/dcision) · [官网](https://dcision.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给 agent/LLM 应用提供带置信度的结构化决策 API 层**
 
@@ -11,7 +11,7 @@ Dcision 是一个托管决策服务，定位为 agent 或 LLM 流程前置的决
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

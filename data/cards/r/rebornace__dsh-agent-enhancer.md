@@ -1,6 +1,6 @@
 # rebornace/dsh-agent-enhancer
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/rebornace/dsh-agent-enhancer) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rebornace/dsh-agent-enhancer) · 个人维护 · 中文 README
 
 **DeepSeek Harness Desktop 的智能体增强插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rebornace/dsh-agent-enhancer 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-21"]
+    x-axis ["2026-11-15", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-21 3（+0）
+2026-11-15 3 → 2026-11-22 3（+0）
 
 
 ---

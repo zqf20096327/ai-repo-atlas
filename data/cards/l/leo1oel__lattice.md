@@ -1,6 +1,6 @@
 # leo1oel/lattice
 
-⭐ 546 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/leo1oel/lattice) · [官网](https://leo1oel.github.io/lattice/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **macOS 本地优先的 LaTeX 写作应用，集成 AI agent 与 Overleaf 同步**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

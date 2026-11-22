@@ -1,6 +1,6 @@
 # Control-C/PMSG
 
-⭐ 53 · C++ · 推送 2026-10-03 · [GitHub](https://github.com/Control-C/PMSG) · [官网](https://pmsg.online/) · 个人维护
+⭐ 53 · C++ · 推送 2026-11-21 · [GitHub](https://github.com/Control-C/PMSG) · [官网](https://pmsg.online/) · 个人维护
 
 **DIY 智能眼镜开源硬件项目：基于 XIAO 的镜腿 PCBA 与固件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Control-C/PMSG 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-22"]
     y-axis "stars" 48 --> 54
     line [49, 51, 52, 53, 53]
 ```
 
-2026-10-19 49 → 2026-11-21 53（+4）
+2026-10-20 49 → 2026-11-22 53（+4）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cerlancism/chatgpt-subtitle-translator 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-16", "2026-11-21"]
+    title "Cerlancism/chatgpt-subtitle-translator 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 389 --> 393
-    line [390, 391, 392, 391]
+    line [390, 391, 392, 391, 391]
 ```
 
-2026-10-19 390 → 2026-11-21 391（+1）
+2026-10-20 390 → 2026-11-22 391（+1）
 
 
 ---

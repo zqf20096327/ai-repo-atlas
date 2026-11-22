@@ -46,12 +46,12 @@ AAAI 2021 论文 'From Label Smoothing to Label Relaxation' 的 PyTorch 实现�
 ```mermaid
 xychart-beta
     title "julilien/LabelRelaxation 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

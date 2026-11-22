@@ -1,6 +1,6 @@
 # bloodf/durindoor
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bloodf/durindoor) · [官网](https://www.durindoor.app/) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/bloodf/durindoor) · [官网](https://www.durindoor.app/) · 个人维护
 
 **自托管 AI 网关：统一接入多家提供商订阅、API key 与本地模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bloodf/durindoor 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-21"]
+    x-axis ["2026-10-24", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-21 10（+0）
+2026-10-24 10 → 2026-11-22 10（+0）
 
 
 ---

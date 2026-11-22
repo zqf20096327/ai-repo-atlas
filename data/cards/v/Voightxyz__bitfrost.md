@@ -46,12 +46,12 @@ bitfrost 把 Python LLM 库已产生的 OpenTelemetry span 转换为可查询的
 ```mermaid
 xychart-beta
     title "Voightxyz/bitfrost 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-21 10（+0）
+2026-10-19 10 → 2026-11-22 10（+0）
 
 
 ---

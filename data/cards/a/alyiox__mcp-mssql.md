@@ -1,6 +1,6 @@
 # alyiox/mcp-mssql
 
-⭐ 11 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/alyiox/mcp-mssql) · 个人维护
+⭐ 12 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/alyiox/mcp-mssql) · 个人维护
 
 **只读优先的 MCP 服务器：让 LLM 安全查询 SQL Server**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alyiox/mcp-mssql 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-10", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-10 10 → 2026-11-21 11（+1）
+2026-11-10 10 → 2026-11-22 12（+2）
 
 
 ---

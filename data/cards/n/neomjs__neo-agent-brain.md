@@ -1,6 +1,6 @@
 # neomjs/neo-agent-brain
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/neomjs/neo-agent-brain) · [官网](https://neomjs.com/) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/neomjs/neo-agent-brain) · [官网](https://neomjs.com/) · 个人维护
 
 **面向自有代码库的跨模型 AI 工程团队 Agent OS**
 
@@ -45,13 +45,13 @@ Neo.mjs 组织的 Brain 仓库：作为 Agent 操作系统，为多个具名 AI 
 
 ```mermaid
 xychart-beta
-    title "neomjs/neo-agent-brain 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
+    title "neomjs/neo-agent-brain 星数(近 7 点)"
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 10 --> 15
-    line [11, 12, 11, 12, 13, 14]
+    line [11, 12, 11, 12, 13, 14, 14]
 ```
 
-2026-10-19 11 → 2026-11-21 14（+3）
+2026-10-20 11 → 2026-11-22 14（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # later-3/lifeos
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/later-3/lifeos) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/later-3/lifeos) · 个人维护 · 中文 README
 
 **个人多 Agent 协作工作台：任务化协作与本地留存**
 
@@ -45,13 +45,13 @@ Life OS 是用户与一组 AI Agent 的长期协作系统，由两部分组成�
 
 ```mermaid
 xychart-beta
-    title "later-3/lifeos 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "later-3/lifeos 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 18 --> 22
-    line [19, 21]
+    line [19, 21, 21]
 ```
 
-2026-11-20 19 → 2026-11-21 21（+2）
+2026-11-20 19 → 2026-11-22 21（+2）
 
 
 ---

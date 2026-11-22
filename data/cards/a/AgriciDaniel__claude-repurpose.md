@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-repurpose
 
-⭐ 176 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-repurpose) · [官网](https://agricidaniel.com/blog/ai-marketing-automation-stack) · 个人维护
+⭐ 177 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-repurpose) · [官网](https://agricidaniel.com/blog/ai-marketing-automation-stack) · 个人维护
 
 **Claude Code 技能：把一份内容改写为 10+ 平台的原生帖子**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/claude-repurpose 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 160 --> 177
-    line [161, 162, 163, 165, 167, 162, 171, 174, 175, 176, 176]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 160 --> 178
+    line [161, 162, 163, 165, 167, 162, 171, 174, 175, 176, 177]
 ```
 
-2026-10-19 161 → 2026-11-21 176（+15）
+2026-10-20 161 → 2026-11-22 177（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # ttpears/gitlab-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ttpears/gitlab-mcp) · [官网](https://www.npmjs.com/package/@ttpears/gitlab-mcp-server) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ttpears/gitlab-mcp) · [官网](https://www.npmjs.com/package/@ttpears/gitlab-mcp-server) · 个人维护
 
 **社区版 GitLab MCP Server：让 MCP 客户端操作任意 GitLab 版本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ttpears/gitlab-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-21 13（+1）
+2026-10-19 12 → 2026-11-22 13（+1）
 
 
 ---

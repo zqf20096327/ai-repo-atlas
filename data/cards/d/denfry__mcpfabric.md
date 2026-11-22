@@ -1,6 +1,6 @@
 # denfry/mcpfabric
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/denfry/mcpfabric) · [官网](https://modrinth.com/mod/mcpfabric) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/denfry/mcpfabric) · [官网](https://modrinth.com/mod/mcpfabric) · 个人维护
 
 **让 AI agent 通过 MCP 观察并操控 Minecraft 的模组+服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "denfry/mcpfabric 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 11 --> 21
-    line [12, 14, 17, 18, 20, 20]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 11 --> 22
+    line [12, 14, 17, 18, 20, 21]
 ```
 
-2026-10-19 12 → 2026-11-21 20（+8）
+2026-10-20 12 → 2026-11-22 21（+9）
 
 
 ---

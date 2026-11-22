@@ -1,6 +1,6 @@
 # Perseus-Computing-LLC/argus
 
-⭐ 4 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Perseus-Computing-LLC/argus) · [官网](https://telarch.ai/argus) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Perseus-Computing-LLC/argus) · [官网](https://telarch.ai/argus) · 组织维护
 
 **为 AI agent 行为生成防篡改审计账本：SHA-256 哈希链记录**
 
@@ -46,12 +46,12 @@ Argus 是一个记录 AI agent 行为的防篡改账本库：将每个操作追�
 ```mermaid
 xychart-beta
     title "Perseus-Computing-LLC/argus 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-21 4（+0）
+2026-11-08 4 → 2026-11-22 4（+0）
 
 
 ---

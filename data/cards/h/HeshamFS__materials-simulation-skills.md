@@ -1,6 +1,6 @@
 # HeshamFS/materials-simulation-skills
 
-⭐ 94 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/HeshamFS/materials-simulation-skills) · [官网](https://www.skills.sh/heshamfs/materials-simulation-skills) · 个人维护
+⭐ 95 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/HeshamFS/materials-simulation-skills) · [官网](https://www.skills.sh/heshamfs/materials-simulation-skills) · 个人维护
 
 **给 AI 编程代理的 24 个计算材料学/数值模拟技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HeshamFS/materials-simulation-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 72 --> 96
-    line [74, 75, 81, 83, 84, 93, 94, 94]
+    title "HeshamFS/materials-simulation-skills 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 73 --> 97
+    line [75, 81, 83, 84, 93, 94, 95]
 ```
 
-2026-10-18 74 → 2026-11-21 94（+20）
+2026-10-19 75 → 2026-11-22 95（+20）
 
 
 ---

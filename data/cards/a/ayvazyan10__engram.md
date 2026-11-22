@@ -1,6 +1,6 @@
 # ayvazyan10/engram
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ayvazyan10/engram) · [官网](https://engram.am) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ayvazyan10/engram) · [官网](https://engram.am) · 个人维护
 
 **为 AI 模型提供跨会话持久记忆的通用后端**
 
@@ -46,12 +46,12 @@ Engram 是一个持久化记忆与认知层，以 MCP 服务器、REST API 和 C
 ```mermaid
 xychart-beta
     title "ayvazyan10/engram 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ArgusLabs-ai/ARGUS
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ArgusLabs-ai/ARGUS) · [官网](https://www.arguslabs.in/) · 组织维护
+⭐ 37 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/ArgusLabs-ai/ARGUS) · [官网](https://www.arguslabs.in/) · 组织维护
 
 **LangGraph 管道静默失败检测工具：定位问题真正发生的节点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ArgusLabs-ai/ARGUS 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
     y-axis "stars" 33 --> 38
     line [34, 35, 36, 35, 36, 37, 37]
 ```
 
-2026-10-19 34 → 2026-11-21 37（+3）
+2026-10-20 34 → 2026-11-22 37（+3）
 
 
 ---

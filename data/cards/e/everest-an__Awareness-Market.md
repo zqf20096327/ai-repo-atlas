@@ -45,12 +45,12 @@ Awareness Local 是面向 AI 编程代理的持久记忆插件，以本地 MCP �
 ```mermaid
 xychart-beta
     title "everest-an/Awareness-Market 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

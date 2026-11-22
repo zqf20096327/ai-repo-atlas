@@ -1,6 +1,6 @@
 # LucasMaPaiva/agenda-bot
 
-⭐ 7 · Python · 推送 2026-11-12 · [GitHub](https://github.com/LucasMaPaiva/agenda-bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **两人共用的 Telegram 日程 bot：本地 LLM 解析自然语言管理 Google 日历**
 

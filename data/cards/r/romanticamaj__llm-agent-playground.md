@@ -41,6 +41,18 @@
 > L7: 把 garyhsieh.com 的 AI 心得文章，做成一座**可以親手玩的教學實驗室** —— 九章、44 個概念，從 LLM 的本質一路走到 Agent 工程，每一個概念都有自己的互動 demo。
 > L17: - **每個概念都是一個可玩的 demo，不是一張圖。** 每一個概念都對應一支手寫的 vanilla JS 互動模組（`site/src/demos/`），全部本地模擬、不打任何 API。文字接龍、貨車 compaction、c
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "romanticamaj/llm-agent-playground 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `8011d26f1b59` · [字段定义](../../DATASET.md)*

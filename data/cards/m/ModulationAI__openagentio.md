@@ -46,12 +46,12 @@ OpenAgentIO 是一个轻量级、可桥接的运行时总线（runtime bus），
 ```mermaid
 xychart-beta
     title "ModulationAI/openagentio 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-21 13（+0）
+2026-10-20 13 → 2026-11-22 13（+0）
 
 
 ---

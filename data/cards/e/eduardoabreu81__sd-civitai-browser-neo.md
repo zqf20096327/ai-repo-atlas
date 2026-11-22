@@ -45,12 +45,12 @@ Stable Diffusion WebUI Forge Neo 的扩展：在 WebUI 内浏览、下载、管�
 ```mermaid
 xychart-beta
     title "eduardoabreu81/sd-civitai-browser-neo 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-16", "2026-11-22"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-11-16 24 → 2026-11-21 24（+0）
+2026-11-16 24 → 2026-11-22 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # arxhr007/lxask
 
-⭐ 62 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/arxhr007/lxask) · [官网](https://arxhr007.github.io/lxask/) · 个人维护
+⭐ 109 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/arxhr007/lxask) · [官网](https://arxhr007.github.io/lxask/) · 个人维护
 
 **离线 Linux 命令助手：本地 1.5B 模型生成命令并核对文档**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "arxhr007/lxask 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 0 --> 67
-    line [3, 4, 8, 62]
+    title "arxhr007/lxask 星数(近 5 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 0 --> 119
+    line [3, 4, 8, 62, 109]
 ```
 
-2026-10-30 3 → 2026-11-21 62（+59）
+2026-10-30 3 → 2026-11-22 109（+106）
 
 
 ---

@@ -1,6 +1,6 @@
 # phi-rom/PhiROM
 
-⭐ 11 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/phi-rom/PhiROM) · [官网](https://phi-rom.github.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **NeurIPS 2025 论文官方实现：基于可微求解器的物理降阶模型框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

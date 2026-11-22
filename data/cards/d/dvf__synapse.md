@@ -1,6 +1,6 @@
 # dvf/synapse
 
-⭐ 19 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/dvf/synapse) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/dvf/synapse) · 个人维护
 
 **轻量级 P2P agent 基础设施层：节点发现、RPC 与共享对话**
 
@@ -45,12 +45,12 @@ Python 库，定位为 agent 框架之下的底层网络层：为每个进程提
 ```mermaid
 xychart-beta
     title "dvf/synapse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-21 19（+0）
+2026-10-19 19 → 2026-11-22 20（+1）
 
 
 ---

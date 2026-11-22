@@ -1,6 +1,6 @@
 # mgh3326/auto_trader
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mgh3326/auto_trader) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mgh3326/auto_trader) · 个人维护
 
 **LLM 代理在确定性安全层下自动交易 KR/US 股票与加密货币**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mgh3326/auto_trader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-21 11（+1）
+2026-10-19 10 → 2026-11-22 11（+1）
 
 
 ---

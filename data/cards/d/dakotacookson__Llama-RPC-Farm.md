@@ -1,6 +1,6 @@
 # dakotacookson/Llama-RPC-Farm
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dakotacookson/Llama-RPC-Farm) · [官网](https://github.com/dakotacookson/Llama-RPC-Farm/blob/main/README.md) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dakotacookson/Llama-RPC-Farm) · [官网](https://github.com/dakotacookson/Llama-RPC-Farm/blob/main/README.md) · 个人维护
 
 **把家用多台机器聚合成 llama.cpp 集群的 Web 管理面板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dakotacookson/Llama-RPC-Farm 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 4 --> 13
-    line [5, 8, 10, 11, 12]
+    title "dakotacookson/Llama-RPC-Farm 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 14
+    line [5, 8, 10, 11, 12, 13]
 ```
 
-2026-11-08 5 → 2026-11-21 12（+7）
+2026-11-08 5 → 2026-11-22 13（+8）
 
 
 ---

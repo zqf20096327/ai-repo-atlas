@@ -1,6 +1,6 @@
 # YATSEE-Labs/YATSEE
 
-⭐ 35 · Python · AGPL-3.0 · 推送 2026-07-27 · [GitHub](https://github.com/YATSEE-Labs/YATSEE) · 组织维护
+⭐ 36 · Python · AGPL-3.0 · 推送 2026-07-27 · [GitHub](https://github.com/YATSEE-Labs/YATSEE) · 组织维护
 
 **本地优先的会议媒体转写与结构化情报流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YATSEE-Labs/YATSEE 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-15", "2026-11-21"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 35]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-15", "2026-11-22"]
+    y-axis "stars" 32 --> 37
+    line [33, 34, 35, 36]
 ```
 
-2026-10-19 33 → 2026-11-21 35（+2）
+2026-10-20 33 → 2026-11-22 36（+3）
 
 
 ---

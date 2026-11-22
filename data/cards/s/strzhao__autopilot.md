@@ -1,6 +1,6 @@
 # strzhao/autopilot
 
-⭐ 32 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/strzhao/autopilot) · 个人维护 · 中文 README
+⭐ 32 · Shell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/strzhao/autopilot) · 个人维护 · 中文 README
 
 **Claude Code/Codex 的状态机循环引擎插件：目标进、合并 PR 出**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "strzhao/autopilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-21 32（+0）
+2026-10-19 32 → 2026-11-22 32（+0）
 
 
 ---

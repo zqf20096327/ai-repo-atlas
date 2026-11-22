@@ -1,6 +1,6 @@
 # anuj0456/OpenArch
 
-⭐ 428 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/anuj0456/OpenArch) · 个人维护
+⭐ 429 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/anuj0456/OpenArch) · 个人维护
 
 **面向学习者的现代 LLM 架构从零 PyTorch 实现集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anuj0456/OpenArch 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 425 --> 429
-    line [426, 427, 428, 428]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 425 --> 430
+    line [426, 427, 428, 429]
 ```
 
-2026-10-19 426 → 2026-11-21 428（+2）
+2026-10-20 426 → 2026-11-22 429（+3）
 
 
 ---

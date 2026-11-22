@@ -1,6 +1,6 @@
 # Lykaon-oss/Lykaon
 
-⭐ 6 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Lykaon-oss/Lykaon) · [官网](https://lykaon-oss.github.io/Lykaon/) · 个人维护
+⭐ 6 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Lykaon-oss/Lykaon) · [官网](https://lykaon-oss.github.io/Lykaon/) · 个人维护
 
 **面向初学者的类自然英文编程语言，可编译为原生可执行文件**
 
@@ -40,6 +40,18 @@ Lykaon 是一种以平实英文句子的形式书写代码的编程语言：句�
 > L3: **Lykaon is a programming language you read like plain English.**
 > L65: - **A real compiler** — Cranelift-based native builds (`lykaonc-cli build`),
 > L67: - **Data, servers and AI in the language** — CSV tables, SQLite/PostgreSQL,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lykaon-oss/Lykaon 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-21 6 → 2026-11-22 6（+0）
 
 
 ---

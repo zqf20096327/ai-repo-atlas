@@ -1,6 +1,6 @@
 # dailab/MAXi-XAI-lib
 
-⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dailab/MAXi-XAI-lib) · 组织维护
+⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dailab/MAXi-XAI-lib) · 组织维护
 
 **面向开发者的模型无关机器学习预测解释生成库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dailab/MAXi-XAI-lib 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

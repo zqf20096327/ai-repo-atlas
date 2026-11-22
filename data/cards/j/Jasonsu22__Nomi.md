@@ -1,6 +1,6 @@
 # Jasonsu22/Nomi
 
-⭐ 9 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Jasonsu22/Nomi) · [官网](https://nomi.software/) · 个人维护 · 中文 README
+⭐ 9 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jasonsu22/Nomi) · [官网](https://nomi.software/) · 个人维护 · 中文 README
 
 **给留学生用的 Mac 端本地课堂转写翻译与学习助手**
 
@@ -46,12 +46,12 @@ macOS 原生应用（SwiftUI 界面 + Rust 引擎），将课堂语音实时转�
 ```mermaid
 xychart-beta
     title "Jasonsu22/Nomi 星数(近 5 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22"]
     y-axis "stars" 2 --> 10
     line [3, 4, 6, 9, 9]
 ```
 
-2026-11-01 3 → 2026-11-21 9（+6）
+2026-11-01 3 → 2026-11-22 9（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # mrhlaingbwardev/agentic-hacking-skills
 
-⭐ 327 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/mrhlaingbwardev/agentic-hacking-skills) · 个人维护 · 中文 README
+⭐ 326 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/mrhlaingbwardev/agentic-hacking-skills) · 个人维护 · 中文 README
 
 **《Agentic Hacking》电子书配套的 agent 技能与 MCP 配置合集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mrhlaingbwardev/agentic-hacking-skills 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 325 --> 351
-    line [347, 349, 336, 331, 330, 331, 328, 327, 327]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 324 --> 351
+    line [347, 349, 336, 331, 330, 331, 328, 327, 326]
 ```
 
-2026-11-08 347 → 2026-11-21 327（-20）
+2026-11-08 347 → 2026-11-22 326（-21）
 
 
 ---

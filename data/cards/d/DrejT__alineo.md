@@ -1,6 +1,6 @@
 # DrejT/alineo
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/DrejT/alineo) · [官网](https://alineo.tech) · 个人维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/DrejT/alineo) · [官网](https://alineo.tech) · 个人维护
 
 **沙箱化 AI agent 集群的控制平面：运行/分叉/暂停/审计多个 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DrejT/alineo 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21"]
+    title "DrejT/alineo 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-22"]
     y-axis "stars" 38 --> 46
-    line [39, 40, 41, 39, 43, 44, 45]
+    line [39, 40, 41, 39, 43, 44, 45, 45]
 ```
 
-2026-10-19 39 → 2026-11-21 45（+6）
+2026-10-20 39 → 2026-11-22 45（+6）
 
 
 ---

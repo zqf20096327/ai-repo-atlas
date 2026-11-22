@@ -1,6 +1,6 @@
 # Ultra-Smashed/reflexion-skill
 
-⭐ 6 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ultra-Smashed/reflexion-skill) · [官网](https://thanisch.co/wissen/guides/reflexion-skill) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ultra-Smashed/reflexion-skill) · [官网](https://thanisch.co/wissen/guides/reflexion-skill) · 个人维护 · 中文 README
 
 **给 Claude 用户的任务复盘 Skill：四问总结并把经验写入文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ultra-Smashed/reflexion-skill 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 3 --> 7
-    line [4, 6, 6]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 3 --> 8
+    line [4, 6, 7]
 ```
 
-2026-11-19 4 → 2026-11-21 6（+2）
+2026-11-19 4 → 2026-11-22 7（+3）
 
 
 ---

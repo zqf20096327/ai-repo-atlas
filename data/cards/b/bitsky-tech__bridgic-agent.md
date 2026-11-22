@@ -46,12 +46,12 @@ Bridgic Agent 是面向终端用户的本地优先桌面应用，含 Python 后�
 ```mermaid
 xychart-beta
     title "bitsky-tech/bridgic-agent 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-19 50 → 2026-11-21 50（+0）
+2026-10-20 50 → 2026-11-22 50（+0）
 
 
 ---

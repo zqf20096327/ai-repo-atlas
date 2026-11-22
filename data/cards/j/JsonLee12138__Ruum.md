@@ -1,6 +1,6 @@
 # JsonLee12138/Ruum
 
-⭐ 9 · Rust · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/JsonLee12138/Ruum) · [官网](https://ruum.jsonlee12138.com/) · 个人维护 · 中文 README
+⭐ 10 · Rust · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/JsonLee12138/Ruum) · [官网](https://ruum.jsonlee12138.com/) · 个人维护 · 中文 README
 
 **跨平台磁盘空间分析与清理工具，含 AI 看护助手与 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "JsonLee12138/Ruum 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
-    y-axis "stars" 7 --> 10
-    line [8, 9]
+    title "JsonLee12138/Ruum 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-18 8 → 2026-11-21 9（+1）
+2026-11-18 8 → 2026-11-22 10（+2）
 
 
 ---

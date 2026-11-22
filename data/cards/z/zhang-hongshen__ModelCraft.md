@@ -1,6 +1,6 @@
 # zhang-hongshen/ModelCraft
 
-⭐ 50 · Swift · MIT · 推送 2026-11-14 · [GitHub](https://github.com/zhang-hongshen/ModelCraft) · [官网](https://zhanghongshen.com/products/modelcraft) · 个人维护
+⭐ 50 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zhang-hongshen/ModelCraft) · [官网](https://zhanghongshen.com/products/modelcraft) · 个人维护
 
 **macOS 本地优先 AI 助手：运行 MLX 模型与 agent 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhang-hongshen/ModelCraft 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-11-08 50 → 2026-11-21 50（+0）
+2026-11-08 50 → 2026-11-22 50（+0）
 
 
 ---

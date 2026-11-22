@@ -40,6 +40,18 @@ Google Agents CLI 团队维护的扩展仓库，扩展机制通过覆盖或新�
 > L13: An extension overrides or adds `agents-cli` commands, so the agent development lifecycle (scaffold, run, evaluate, 
 > L19: |Claude|Run Claude Agent SDK agents through the `agents-cli` lifecycle.|Experimental|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google/agents-cli-extensions 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `89101026f272` · [字段定义](../../DATASET.md)*

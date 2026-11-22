@@ -42,6 +42,18 @@ pegainfer 项目的语音与图像推理服务端，以 Rust 编写，兼容 Ope
 > L18: session costs a frame per tick whether anyone talks. pega-omni serves them over
 > L22: The repository holds the serving front end, the engine contracts, CPU-only
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pegainfer-project/kern-omni 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 53 --> 55
+    line [54, 54]
+```
+
+2026-11-21 54 → 2026-11-22 54（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `ba414c6dcd5a` · [字段定义](../../DATASET.md)*

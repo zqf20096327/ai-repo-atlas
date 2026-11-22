@@ -46,12 +46,12 @@ worthwatch 是一个 CLI 工具，读取用户所关注 YouTube 频道的新视�
 ```mermaid
 xychart-beta
     title "mokshtheverma-max/worthwatch 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-21"]
+    x-axis ["2026-10-22", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-22 3 → 2026-11-21 3（+0）
+2026-10-22 3 → 2026-11-22 3（+0）
 
 
 ---

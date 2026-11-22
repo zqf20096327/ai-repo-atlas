@@ -1,6 +1,6 @@
 # WilsonAImaster/ai-study-club-archive
 
-⭐ 7 · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/WilsonAImaster/ai-study-club-archive) · [官网](https://wilsonaimaster.github.io/ai-study-club-archive/) · 个人维护
+⭐ 8 · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/WilsonAImaster/ai-study-club-archive) · [官网](https://wilsonaimaster.github.io/ai-study-club-archive/) · 个人维护
 
 **AI 讀書會筆記存檔：給沒到場的人補課看精華**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "WilsonAImaster/ai-study-club-archive 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 4 --> 8
-    line [5, 7, 7]
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 4 --> 9
+    line [5, 7, 8]
 ```
 
-2026-11-13 5 → 2026-11-21 7（+2）
+2026-11-13 5 → 2026-11-22 8（+3）
 
 
 ---

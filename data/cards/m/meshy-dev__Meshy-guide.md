@@ -1,6 +1,6 @@
 # meshy-dev/Meshy-guide
 
-⭐ 38 · MIT · 推送 2026-05-21 · [GitHub](https://github.com/meshy-dev/Meshy-guide) · [官网](https://www.meshy.ai/) · 组织维护
+⭐ 39 · MIT · 推送 2026-05-21 · [GitHub](https://github.com/meshy-dev/Meshy-guide) · [官网](https://www.meshy.ai/) · 组织维护
 
 **Meshy 教程与工作流中心：AI 文生/图生 3D 资产生成指南**
 
@@ -44,13 +44,13 @@ Meshy 官方维护的使用指南聚合仓库，覆盖其 AI 3D 生成平台（M
 
 ```mermaid
 xychart-beta
-    title "meshy-dev/Meshy-guide 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 32 --> 39
-    line [33, 34, 36, 37, 38]
+    title "meshy-dev/Meshy-guide 星数(近 6 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 32 --> 40
+    line [33, 34, 36, 37, 38, 39]
 ```
 
-2026-10-19 33 → 2026-11-21 38（+5）
+2026-10-20 33 → 2026-11-22 39（+6）
 
 
 ---

@@ -44,12 +44,12 @@ AGiXT Python SDK 仓库，封装 AGiXT AI 自动化平台的 API 接口：开发
 ```mermaid
 xychart-beta
     title "AGiXT/python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-19 25 → 2026-11-21 25（+0）
+2026-10-20 25 → 2026-11-22 25（+0）
 
 
 ---

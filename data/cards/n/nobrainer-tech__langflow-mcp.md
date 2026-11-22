@@ -1,6 +1,6 @@
 # nobrainer-tech/langflow-mcp
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nobrainer-tech/langflow-mcp) · [官网](https://nobrainer.tech/langflow-mcp/) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nobrainer-tech/langflow-mcp) · [官网](https://nobrainer.tech/langflow-mcp/) · 个人维护
 
 **让 AI 助手通过 MCP 管理 Langflow 的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nobrainer-tech/langflow-mcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

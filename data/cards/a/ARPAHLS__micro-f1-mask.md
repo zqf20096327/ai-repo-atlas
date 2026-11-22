@@ -46,12 +46,12 @@ ARPA Micro Series F1 Mask 是面向企业云端合规的 PII 清洗中间件：�
 ```mermaid
 xychart-beta
     title "ARPAHLS/micro-f1-mask 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

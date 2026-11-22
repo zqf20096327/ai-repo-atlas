@@ -1,6 +1,6 @@
 # CYFARE/Mariana-Studio
 
-⭐ 58 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/CYFARE/Mariana-Studio) · [官网](https://cyfare.net/) · 组织维护
+⭐ 59 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/CYFARE/Mariana-Studio) · [官网](https://cyfare.net/) · 组织维护
 
 **本地一站式语言模型训练/微调/部署工作台**
 
@@ -41,6 +41,18 @@
 > L19: Mariana is a **one-stop research and development studio for language models**.
 > L30: - **One workspace** — data, training, fine-tuning, chat, agents, IDE, evaluation
 > L37: - **Portable models** — lossless AR export to GGUF, ONNX and safetensors, ready
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CYFARE/Mariana-Studio 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
+```
+
+2026-11-21 58 → 2026-11-22 59（+1）
 
 
 ---

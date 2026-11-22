@@ -1,6 +1,6 @@
 # Alessandro-Pang/harnessmith
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Alessandro-Pang/harnessmith) · [官网](http://alexpang.cn/harnessmith/) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Alessandro-Pang/harnessmith) · [官网](http://alexpang.cn/harnessmith/) · 个人维护 · 中文 README
 
 **面向多 Coding Agent 的个人 Harness 分发与工作状态管理工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Alessandro-Pang/harnessmith 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

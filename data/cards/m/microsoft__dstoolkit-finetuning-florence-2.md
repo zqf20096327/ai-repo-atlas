@@ -40,6 +40,18 @@
 > L10: These notebooks will help you get started with the general useage and limitations as well as show an
 > L13: finetune using your own data.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/dstoolkit-finetuning-florence-2 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-21 17 → 2026-11-22 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `70782e9b176d` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # qdrant/go-client
 
-⭐ 349 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/qdrant/go-client) · 组织维护
+⭐ 348 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/qdrant/go-client) · 组织维护
 
 **Qdrant 向量搜索引擎的官方 Go 客户端库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "qdrant/go-client 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-16", "2026-11-18", "2026-11-21"]
+    title "qdrant/go-client 星数(近 6 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 347 --> 352
-    line [349, 348, 349, 351, 349]
+    line [349, 348, 349, 351, 349, 348]
 ```
 
-2026-10-19 349 → 2026-11-21 349（+0）
+2026-10-20 349 → 2026-11-22 348（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tmolavi/mcp-agent-skills-hub
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tmolavi/mcp-agent-skills-hub) · [官网](https://molavi.pro) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tmolavi/mcp-agent-skills-hub) · [官网](https://molavi.pro) · 个人维护
 
 **面向 AI 编码 agent 的 277 个技能与 MCP 配置清单**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tmolavi/mcp-agent-skills-hub 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-16", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-16 10 → 2026-11-21 10（+0）
+2026-11-16 10 → 2026-11-22 11（+1）
 
 
 ---

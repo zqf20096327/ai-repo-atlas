@@ -1,6 +1,6 @@
 # cnYui/SpeakMore
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cnYui/SpeakMore) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/cnYui/SpeakMore) · 个人维护 · 中文 README
 
 **Windows/macOS 本地语音输入工具：快捷键说话转文字并自动粘贴**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "cnYui/SpeakMore 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "cnYui/SpeakMore 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-20 10 → 2026-11-21 11（+1）
+2026-11-20 10 → 2026-11-22 11（+1）
 
 
 ---

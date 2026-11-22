@@ -1,6 +1,6 @@
 # OpenGigantic/hachi
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/OpenGigantic/hachi) · [官网](https://github.com/OpenGigantic/hachi) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **受治理的个人 AI agent：能力以可审计的 .og 文件运行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

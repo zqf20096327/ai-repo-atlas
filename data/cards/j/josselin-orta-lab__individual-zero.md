@@ -1,6 +1,6 @@
 # josselin-orta-lab/individual-zero
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/josselin-orta-lab/individual-zero) · [官网](https://zenodo.org/records/23543637) · 个人维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/josselin-orta-lab/individual-zero) · [官网](https://zenodo.org/records/23543637) · 个人维护
 
 **具身 AI 与认知架构的开源研究计划：可检验的人工个体机制**
 
@@ -46,12 +46,12 @@ Individual Zero 是一个开源研究计划，探讨在统一人工系统中，�
 ```mermaid
 xychart-beta
     title "josselin-orta-lab/individual-zero 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-21 4（+0）
+2026-11-08 4 → 2026-11-22 4（+0）
 
 
 ---

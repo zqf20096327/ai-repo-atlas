@@ -1,6 +1,6 @@
 # xiaoyuCR7/jmeter-ai-agent
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/xiaoyuCR7/jmeter-ai-agent) · 个人维护 · 中文 README
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/xiaoyuCR7/jmeter-ai-agent) · 个人维护 · 中文 README
 
 **本地 AI agent：将性能测试文档转为可核验的 JMeter 压测判定**
 
@@ -41,6 +41,18 @@
 > L5: A local AI agent for Apache JMeter: it reads your requirements, builds the test plan, runs it,
 > L27: JMeter Agent produces those answers deterministically, then lets the AI explain them — and the AI must cite
 > L41: 1. **Document → requirements.** Paste a spec or upload a file. AI drafts quantified requirements (P90/P95/P99, aver
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xiaoyuCR7/jmeter-ai-agent 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-21 3 → 2026-11-22 5（+2）
 
 
 ---

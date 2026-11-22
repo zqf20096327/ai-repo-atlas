@@ -1,6 +1,6 @@
 # zai-org/Vision2Web
 
-⭐ 86 · Python · 推送 2026-10-01 · [GitHub](https://github.com/zai-org/Vision2Web) · 组织维护 · 中文 README
+⭐ 87 · Python · 推送 2026-10-01 · [GitHub](https://github.com/zai-org/Vision2Web) · 组织维护 · 中文 README
 
 **评测多模态编码 agent 视觉网站开发的分层基准（193 任务）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zai-org/Vision2Web 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 81 --> 87
-    line [82, 84, 86, 86]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 81 --> 88
+    line [82, 84, 86, 87]
 ```
 
-2026-10-19 82 → 2026-11-21 86（+4）
+2026-10-20 82 → 2026-11-22 87（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhubowen-bot/Guncat-Work-for-hmos
 
-⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/zhubowen-bot/Guncat-Work-for-hmos) · [官网](https://appgallery.huawei.com/apptest/955nTWBlvx0) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/zhubowen-bot/Guncat-Work-for-hmos) · [官网](https://appgallery.huawei.com/apptest/955nTWBlvx0) · 个人维护 · 中文 README
 
 **鸿蒙手机上的原生 AI 工作台：端侧 Agent Loop + 原生 shell/Python**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhubowen-bot/Guncat-Work-for-hmos 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 4 --> 19
-    line [5, 6, 7, 8, 6, 13, 14, 15, 16, 17, 18]
+    title "zhubowen-bot/Guncat-Work-for-hmos 星数(近 12 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 20
+    line [5, 6, 7, 8, 6, 13, 14, 15, 16, 17, 18, 19]
 ```
 
-2026-10-19 5 → 2026-11-21 18（+13）
+2026-10-20 5 → 2026-11-22 19（+14）
 
 
 ---

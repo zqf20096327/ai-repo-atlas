@@ -46,12 +46,12 @@ Oracle 提供的无代码部署平台，将生成式 AI 工作负载部署到租
 ```mermaid
 xychart-beta
     title "oracle-quickstart/oci-ai-blueprints 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-19 58 → 2026-11-21 58（+0）
+2026-10-20 58 → 2026-11-22 58（+0）
 
 
 ---

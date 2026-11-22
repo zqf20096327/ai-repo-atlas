@@ -1,6 +1,6 @@
 # Xz3r0-M/ComfyUI-Xz3r0-Nodes
 
-⭐ 18 · JavaScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Xz3r0-M/ComfyUI-Xz3r0-Nodes) · [官网](https://xz3r0-m.github.io/ComfyUI-Xz3r0-Nodes/) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Xz3r0-M/ComfyUI-Xz3r0-Nodes) · [官网](https://xz3r0-m.github.io/ComfyUI-Xz3r0-Nodes/) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点集：工作流基础功能节点与多媒体数据中枢 XDataHub**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Xz3r0-M/ComfyUI-Xz3r0-Nodes 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 16 --> 19
     line [17, 18, 17, 18, 18]
 ```
 
-2026-10-19 17 → 2026-11-21 18（+1）
+2026-10-20 17 → 2026-11-22 18（+1）
 
 
 ---

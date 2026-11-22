@@ -1,6 +1,6 @@
 # schalkneethling/skills-autoresearch-flue
 
-⭐ 16 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/schalkneethling/skills-autoresearch-flue) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/schalkneethling/skills-autoresearch-flue) · 个人维护
 
 **基于 Flue 的 agent 技能自动研究评测框架（alpha）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "schalkneethling/skills-autoresearch-flue 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-19 15 → 2026-11-21 16（+1）
+2026-10-20 15 → 2026-11-22 17（+2）
 
 
 ---

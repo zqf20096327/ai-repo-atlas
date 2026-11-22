@@ -1,6 +1,6 @@
 # taleblou/momijo
 
-⭐ 10 · Mojo · MIT · 推送 2026-11-20 · [GitHub](https://github.com/taleblou/momijo) · 个人维护
+⭐ 10 · Mojo · MIT · 推送 2026-11-21 · [GitHub](https://github.com/taleblou/momijo) · 个人维护
 
 **Mojo 编写的机器学习/张量计算库，面向 AI 与数据科学**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "taleblou/momijo 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-21"]
+    x-axis ["2026-10-30", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-30 10 → 2026-11-21 10（+0）
+2026-10-30 10 → 2026-11-22 10（+0）
 
 
 ---

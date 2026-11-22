@@ -1,6 +1,6 @@
 # 5235aa-web/Pebble_companionchat
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/5235aa-web/Pebble_companionchat) · 个人维护 · 中文 README
+⭐ 66 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/5235aa-web/Pebble_companionchat) · 个人维护 · 中文 README
 
 **本地优先的 AI 角色扮演伴侣聊天应用：文字、语音、图像一体的桌面工作台**
 
@@ -41,6 +41,18 @@
 > L15: **Pebble Companion Chat (`P.C.C`)** is a desktop and web AI companion workspace driven by text, voice, and generate
 > L66: |**LLM Chat**|`llama.cpp` (`llama-server` with GGUF, `mmproj` vision & MTP), Ollama, LM Studio, any local OpenAI-co
 > L52: - **Cascaded Voice Loop**: The browser captures PCM through an AudioWorklet and streams it over WebSocket. The back
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "5235aa-web/Pebble_companionchat 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 25 --> 69
+    line [28, 66]
+```
+
+2026-11-21 28 → 2026-11-22 66（+38）
 
 
 ---

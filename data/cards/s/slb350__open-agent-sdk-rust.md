@@ -1,6 +1,6 @@
 # slb350/open-agent-sdk-rust
 
-⭐ 25 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/slb350/open-agent-sdk-rust) · 个人维护
+⭐ 25 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/slb350/open-agent-sdk-rust) · 个人维护
 
 **Rust AI agent SDK：经 OpenAI/Anthropic 协议接入本地或云端模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "slb350/open-agent-sdk-rust 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-19 25 → 2026-11-21 25（+0）
+2026-10-20 25 → 2026-11-22 25（+0）
 
 
 ---

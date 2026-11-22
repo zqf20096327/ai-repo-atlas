@@ -1,6 +1,6 @@
 # PascalCorpsman/fpc_atomic
 
-⭐ 62 · Pascal · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/PascalCorpsman/fpc_atomic) · 个人维护
+⭐ 63 · Pascal · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/PascalCorpsman/fpc_atomic) · 个人维护
 
 **Atomic Bomberman 的可玩克隆：TCP 联网对战加机器人对手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PascalCorpsman/fpc_atomic 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 57 --> 63
-    line [58, 59, 60, 61, 62, 60, 62, 62]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 57 --> 64
+    line [58, 59, 60, 61, 62, 60, 62, 63]
 ```
 
-2026-10-19 58 → 2026-11-21 62（+4）
+2026-10-20 58 → 2026-11-22 63（+5）
 
 
 ---

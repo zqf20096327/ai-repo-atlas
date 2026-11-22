@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "tshemsedinov/Programming-Knowledge 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-19 77 → 2026-11-21 77（+0）
+2026-10-20 77 → 2026-11-22 77（+0）
 
 
 ---

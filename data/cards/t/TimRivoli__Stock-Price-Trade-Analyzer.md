@@ -1,6 +1,6 @@
 # TimRivoli/Stock-Price-Trade-Analyzer
 
-⭐ 80 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/TimRivoli/Stock-Price-Trade-Analyzer) · 个人维护
+⭐ 81 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/TimRivoli/Stock-Price-Trade-Analyzer) · 个人维护
 
 **股价分析与交易策略回测工具包，含 TensorFlow 价格预测**
 
@@ -45,12 +45,12 @@ Python 3 工具包，含两个模块：PriceTradeAnalyzer 通过 Yahoo Finance �
 ```mermaid
 xychart-beta
     title "TimRivoli/Stock-Price-Trade-Analyzer 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 77 --> 81
-    line [78, 80, 80]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 77 --> 82
+    line [78, 80, 81]
 ```
 
-2026-10-19 78 → 2026-11-21 80（+2）
+2026-10-20 78 → 2026-11-22 81（+3）
 
 
 ---

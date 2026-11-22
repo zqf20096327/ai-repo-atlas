@@ -44,12 +44,12 @@ Hugging Face 维护的数据集分析工具：通过命令行脚本 run_data_mea
 ```mermaid
 xychart-beta
     title "huggingface/data-measurements-tool 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-19 75 → 2026-11-21 75（+0）
+2026-10-20 75 → 2026-11-22 75（+0）
 
 
 ---

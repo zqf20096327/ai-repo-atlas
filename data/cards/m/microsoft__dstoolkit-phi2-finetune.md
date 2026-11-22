@@ -39,6 +39,18 @@
 > L4: This repository contains step by step instructions on how to finetune Microsoft's Phi-2 model with your own data. Yo
 > L12: (1) contains the required python libaries which need to be installed on a new enviroment (exact Python version was 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/dstoolkit-phi2-finetune 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-21 23 → 2026-11-22 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `33bdd18a7ee9` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ Codebasics 社区维护的 Python 库，以不到 200 行纯实现 ReACT（Reaso
 ```mermaid
 xychart-beta
     title "codebasics-community/nanoagents 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-19 25 → 2026-11-21 25（+0）
+2026-10-20 25 → 2026-11-22 25（+0）
 
 
 ---

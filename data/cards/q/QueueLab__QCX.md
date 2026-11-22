@@ -1,6 +1,6 @@
 # QueueLab/QCX
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/QueueLab/QCX) · [官网](https://www.core.queue.cx) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/QueueLab/QCX) · [官网](https://www.core.queue.cx) · 组织维护
 
 **面向情报分析师的行星 Copilot：对话式地理空间智能平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QueueLab/QCX 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 18 --> 22
     line [19, 20, 19, 21, 21]
 ```
 
-2026-10-19 19 → 2026-11-21 21（+2）
+2026-10-20 19 → 2026-11-22 21（+2）
 
 
 ---

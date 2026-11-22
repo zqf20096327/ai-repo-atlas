@@ -1,6 +1,6 @@
 # ayushcmd/bug-trace-agent
 
-⭐ 4 · Python · 推送 2026-11-15 · [GitHub](https://github.com/ayushcmd/bug-trace-agent) · [官网](https://ayushcmd.github.io/bug-trace-agent/) · 个人维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ayushcmd/bug-trace-agent) · [官网](https://ayushcmd.github.io/bug-trace-agent/) · 个人维护
 
 **展示 bug 修复工作流（从失败测试到修复提案与人工审批）的演示项目**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayushcmd/bug-trace-agent 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-21"]
+    title "ayushcmd/bug-trace-agent 星数(近 3 点)"
+    x-axis ["2026-11-13", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-13 3 → 2026-11-21 4（+1）
+2026-11-13 3 → 2026-11-22 4（+1）
 
 
 ---

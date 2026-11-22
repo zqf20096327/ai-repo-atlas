@@ -1,6 +1,6 @@
 # zrr1999/eeg-networks-pytorch
 
-⭐ 11 · Python · 推送 2026-10-30 · [GitHub](https://github.com/zrr1999/eeg-networks-pytorch) · 个人维护 · 中文 README
+⭐ 11 · Python · 推送 2026-11-21 · [GitHub](https://github.com/zrr1999/eeg-networks-pytorch) · 个人维护 · 中文 README
 
 **基于 PyTorch 的 EEG 分类神经网络实现库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "zrr1999/eeg-networks-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 11（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tangkfan/Awesome-Temporal-Video-Grounding 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-21"]
+    title "Tangkfan/Awesome-Temporal-Video-Grounding 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-22"]
     y-axis "stars" 44 --> 50
-    line [45, 46, 48, 49]
+    line [45, 46, 48, 49, 49]
 ```
 
-2026-10-18 45 → 2026-11-21 49（+4）
+2026-10-19 45 → 2026-11-22 49（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # joelpizza0818-blip/Helix-Assitant
 
-⭐ 4 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/joelpizza0818-blip/Helix-Assitant) · [官网](https://helix-assistant.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 本地优先桌面 AI 助手，带权限确认与语音/屏幕上下文**
 
@@ -11,7 +11,7 @@ HELIX 是一个本地优先的桌面 agent，提供 Desktop（Electron）、Andr
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

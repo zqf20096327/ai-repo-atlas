@@ -1,6 +1,6 @@
 # jjmerri/gspro-shotcast
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/jjmerri/gspro-shotcast) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/jjmerri/gspro-shotcast) · 个人维护
 
 **为 GSPro 高尔夫模拟器提供挥杆记录、统计页面与 AI 实时解说**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jjmerri/gspro-shotcast 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-21"]
+    x-axis ["2026-11-15", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-15 4 → 2026-11-21 4（+0）
+2026-11-15 4 → 2026-11-22 4（+0）
 
 
 ---

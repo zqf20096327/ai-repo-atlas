@@ -1,6 +1,6 @@
 # SirawitC/Transformer_from_scratch_pytorch
 
-⭐ 79 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/SirawitC/Transformer_from_scratch_pytorch) · [官网](https://medium.com/@sirawitchokphantavee/build-a-transformer-model-from-scratch-using-pytorch-99b06408003e) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 PyTorch 从零实现 Transformer 架构的教学代码库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

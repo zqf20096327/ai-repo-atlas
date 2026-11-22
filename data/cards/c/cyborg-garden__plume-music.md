@@ -1,6 +1,6 @@
 # cyborg-garden/plume-music
 
-⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/cyborg-garden/plume-music) · 个人维护
+⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/cyborg-garden/plume-music) · 个人维护
 
 **随你演奏的 AI 伴奏乐队 CLI：从提示词生成可编辑乐谱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cyborg-garden/plume-music 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-10 4 → 2026-11-21 4（+0）
+2026-11-10 4 → 2026-11-22 4（+0）
 
 
 ---

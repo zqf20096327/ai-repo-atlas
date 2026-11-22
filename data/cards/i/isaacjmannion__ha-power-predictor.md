@@ -46,12 +46,12 @@ Home Assistant 自定义集成，读取历史用电、室外温度与逐小时�
 ```mermaid
 xychart-beta
     title "isaacjmannion/ha-power-predictor 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hitgalani/EV_Battery_Health_Prediction
 
-⭐ 4 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/hitgalani/EV_Battery_Health_Prediction) · 组织维护
+⭐ 4 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/hitgalani/EV_Battery_Health_Prediction) · 组织维护
 
 **学生学习项目：用线性回归预测电动汽车电池健康度（SoH）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hitgalani/EV_Battery_Health_Prediction 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-21"]
+    title "hitgalani/EV_Battery_Health_Prediction 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 3, 4]
+    line [3, 4, 3, 4, 4]
 ```
 
-2026-10-26 3 → 2026-11-21 4（+1）
+2026-10-26 3 → 2026-11-22 4（+1）
 
 
 ---

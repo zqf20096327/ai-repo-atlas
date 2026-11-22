@@ -1,6 +1,6 @@
 # Loom-AI-Labs/ai-fabric-framework
 
-⭐ 11 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Loom-AI-Labs/ai-fabric-framework) · [官网](https://ai-fabric.dev) · 组织维护
+⭐ 11 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Loom-AI-Labs/ai-fabric-framework) · [官网](https://ai-fabric.dev) · 组织维护
 
 **Java/Spring Boot 应用的 AI 编排框架：RAG、受治理动作与多租户安全**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Loom-AI-Labs/ai-fabric-framework 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-10 10 → 2026-11-21 11（+1）
+2026-11-10 10 → 2026-11-22 11（+1）
 
 
 ---

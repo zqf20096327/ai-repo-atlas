@@ -1,6 +1,6 @@
 # Hainrixz/matriz-viralidad
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/matriz-viralidad) · [官网](https://www.tododeia.com/community/matriz-viral) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/matriz-viralidad) · [官网](https://www.tododeia.com/community/matriz-viral) · 个人维护 · 中文 README
 
 **Claude Code 内容分析 agent：抓取公开短视频账号，生成病毒式传播矩阵与脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hainrixz/matriz-viralidad 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 6 --> 19
-    line [7, 10, 11, 13, 14, 15, 16, 11, 15, 17, 18, 18]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-22"]
+    y-axis "stars" 6 --> 20
+    line [7, 10, 11, 13, 14, 15, 16, 11, 15, 17, 18, 19]
 ```
 
-2026-10-19 7 → 2026-11-21 18（+11）
+2026-10-20 7 → 2026-11-22 19（+12）
 
 
 ---

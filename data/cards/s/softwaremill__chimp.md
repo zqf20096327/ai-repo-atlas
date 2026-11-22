@@ -1,6 +1,6 @@
 # softwaremill/chimp
 
-⭐ 105 · Scala · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/softwaremill/chimp) · [官网](https://chimp.softwaremill.com) · 组织维护
+⭐ 105 · Scala · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/softwaremill/chimp) · [官网](https://chimp.softwaremill.com) · 组织维护
 
 **Scala 3 构建 MCP 服务器与客户端的 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "softwaremill/chimp 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
+    title "softwaremill/chimp 星数(近 6 点)"
+    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 102 --> 106
-    line [103, 104, 103, 104, 105]
+    line [103, 104, 103, 104, 105, 105]
 ```
 
-2026-10-19 103 → 2026-11-21 105（+2）
+2026-10-20 103 → 2026-11-22 105（+2）
 
 
 ---

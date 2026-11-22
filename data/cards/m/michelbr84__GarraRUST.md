@@ -1,6 +1,6 @@
 # michelbr84/GarraRUST
 
-⭐ 19 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/michelbr84/GarraRUST) · [官网](https://garraia.org) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/michelbr84/GarraRUST) · [官网](https://garraia.org) · 个人维护
 
 **运行在本机的个人 AI 助手，单二进制接入多个聊天平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "michelbr84/GarraRUST 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-19 18 → 2026-11-21 19（+1）
+2026-10-20 18 → 2026-11-22 19（+1）
 
 
 ---

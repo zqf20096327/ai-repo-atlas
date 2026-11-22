@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Conversation-Knowledge-Mining-Solution-Accelerator 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-21"]
+    title "microsoft/Conversation-Knowledge-Mining-Solution-Accelerator 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-22"]
     y-axis "stars" 475 --> 482
-    line [476, 477, 478, 479, 480, 481]
+    line [476, 477, 478, 479, 480, 481, 481]
 ```
 
-2026-10-18 476 → 2026-11-21 481（+5）
+2026-10-19 476 → 2026-11-22 481（+5）
 
 
 ---

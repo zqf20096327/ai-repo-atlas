@@ -1,6 +1,6 @@
 # strands-labs/harness-optimizer
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/strands-labs/harness-optimizer) · [官网](https://strandsagents.com) · 组织维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/strands-labs/harness-optimizer) · [官网](https://strandsagents.com) · 组织维护
 
 **面向 LLM agent 的 harness 优化框架，用可调 Formula 与轨迹驱动优化器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "strands-labs/harness-optimizer 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 55 --> 69
-    line [56, 59, 60, 59, 61, 62, 63, 64, 66, 67, 68, 68]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 55 --> 71
+    line [56, 59, 60, 59, 61, 62, 63, 64, 66, 67, 68, 70]
 ```
 
-2026-10-19 56 → 2026-11-21 68（+12）
+2026-10-20 56 → 2026-11-22 70（+14）
 
 
 ---

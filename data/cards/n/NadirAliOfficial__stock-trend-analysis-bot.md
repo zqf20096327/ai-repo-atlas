@@ -1,6 +1,6 @@
 # NadirAliOfficial/stock-trend-analysis-bot
 
-⭐ 10 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/NadirAliOfficial/stock-trend-analysis-bot) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/NadirAliOfficial/stock-trend-analysis-bot) · 个人维护
 
 **面向 IBKR 账户的股票趋势分析与交易机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NadirAliOfficial/stock-trend-analysis-bot 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [11, 10, 11, 10, 10]
 ```
 
-2026-10-19 11 → 2026-11-21 10（-1）
+2026-10-20 11 → 2026-11-22 10（-1）
 
 
 ---

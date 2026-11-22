@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SysAdminDoc/Bookmark-Organizer-Pro 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-08 11 → 2026-11-21 11（+0）
+2026-11-08 11 → 2026-11-22 11（+0）
 
 
 ---

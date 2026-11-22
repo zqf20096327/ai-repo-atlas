@@ -1,6 +1,6 @@
 # natnew/Awesome-Generative-AI
 
-⭐ 33 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/natnew/Awesome-Generative-AI) · [官网](https://generative-ai-hub.gitbook.io/awesomegenerativeai/) · 个人维护
+⭐ 33 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/natnew/Awesome-Generative-AI) · [官网](https://generative-ai-hub.gitbook.io/awesomegenerativeai/) · 个人维护
 
 **生成式 AI 资源策展清单：教程、工具、平台分类导航**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "natnew/Awesome-Generative-AI 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-19 33 → 2026-11-21 33（+0）
+2026-10-20 33 → 2026-11-22 33（+0）
 
 
 ---

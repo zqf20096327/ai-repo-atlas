@@ -1,6 +1,6 @@
 # explosion/ml-datasets
 
-⭐ 47 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/explosion/ml-datasets) · 组织维护
+⭐ 47 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/explosion/ml-datasets) · 组织维护
 
 **供测试与示例脚本使用的机器学习数据集加载器库**
 
@@ -45,12 +45,12 @@ Explosion 维护的 Python 库，为测试和示例脚本提供常用机器学�
 ```mermaid
 xychart-beta
     title "explosion/ml-datasets 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-19 47 → 2026-11-21 47（+0）
+2026-10-20 47 → 2026-11-22 47（+0）
 
 
 ---

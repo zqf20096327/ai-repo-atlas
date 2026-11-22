@@ -42,6 +42,18 @@
 > L23: |`pinesprout generate "<prompt>"`|Generate a new indicator/strategy/library from a natural-language prompt (Claude-
 > L43: pip install pinesprout
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "85599/pinesprout 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `5ab8ce3958fb` · [字段定义](../../DATASET.md)*

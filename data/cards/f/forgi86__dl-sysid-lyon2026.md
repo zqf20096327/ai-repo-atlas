@@ -1,6 +1,6 @@
 # forgi86/dl-sysid-lyon2026
 
-⭐ 15 · Jupyter Notebook · MIT · 推送 2026-04-25 · [GitHub](https://github.com/forgi86/dl-sysid-lyon2026) · [官网](https://spring-id-2026.sciencesconf.org/resource/page/id/3) · 个人维护
+⭐ 15 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/forgi86/dl-sysid-lyon2026) · [官网](https://spring-id-2026.sciencesconf.org/resource/page/id/3) · 个人维护
 
 **深度学习系统辨识短期课程的教学材料（讲义+笔记本）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "forgi86/dl-sysid-lyon2026 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

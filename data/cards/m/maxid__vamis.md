@@ -1,6 +1,6 @@
 # maxid/vamis
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/maxid/vamis) · [官网](https://maxid.github.io/vamis/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/maxid/vamis) · [官网](https://maxid.github.io/vamis/) · 个人维护 · 中文 README
 
 **Vue 3 低代码运行时，用 YAML/JSON 配置生成页面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "maxid/vamis 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-19", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-21 3（+0）
+2026-11-19 3 → 2026-11-22 3（+0）
 
 
 ---

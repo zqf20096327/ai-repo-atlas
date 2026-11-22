@@ -1,6 +1,6 @@
 # Leizhidong-creator/CreateWorld
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Leizhidong-creator/CreateWorld) · [官网](https://createworld.games) · 组织维护 · 中文 README
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Leizhidong-creator/CreateWorld) · [官网](https://createworld.games) · 组织维护 · 中文 README
 
 **把一句话/故事制作成可玩 2D 像素剧情游戏的 AI 平台**
 
@@ -47,12 +47,12 @@ Create World 将一句话、小说梗概、剧本或 SRT 字幕输入，交由�
 ```mermaid
 xychart-beta
     title "Leizhidong-creator/CreateWorld 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-20", "2026-11-22"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-20 4 → 2026-11-21 4（+0）
+2026-11-20 4 → 2026-11-22 5（+1）
 
 
 ---

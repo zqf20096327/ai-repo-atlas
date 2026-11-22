@@ -1,6 +1,6 @@
 # yang10560/tampermonkey-userscript
 
-⭐ 89 · JavaScript · 推送 2026-08-12 · [GitHub](https://github.com/yang10560/tampermonkey-userscript) · [官网](https://greasyfork.org/zh-CN/scripts/459997) · 个人维护 · 中文 README
+⭐ 90 · JavaScript · 推送 2026-08-12 · [GitHub](https://github.com/yang10560/tampermonkey-userscript) · [官网](https://greasyfork.org/zh-CN/scripts/459997) · 个人维护 · 中文 README
 
 **油猴用户脚本集合：含 ChatGPT 搜索引擎侧栏等浏览器增强脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yang10560/tampermonkey-userscript 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 88 --> 91
+    line [89, 90]
 ```
 
-2026-10-19 89 → 2026-11-21 89（+0）
+2026-10-20 89 → 2026-11-22 90（+1）
 
 
 ---

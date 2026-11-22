@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Planetary-Explorer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 198 --> 202
-    line [199, 200, 201, 201]
+    title "microsoft/Planetary-Explorer 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 199 --> 202
+    line [200, 201, 201]
 ```
 
-2026-10-18 199 → 2026-11-21 201（+2）
+2026-10-19 200 → 2026-11-22 201（+1）
 
 
 ---

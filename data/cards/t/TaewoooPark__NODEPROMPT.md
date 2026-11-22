@@ -1,6 +1,6 @@
 # TaewoooPark/NODEPROMPT
 
-⭐ 45 · TypeScript · MIT · 推送 2026-04-27 · [GitHub](https://github.com/TaewoooPark/NODEPROMPT) · 个人维护 · 中文 README
+⭐ 44 · TypeScript · MIT · 推送 2026-04-27 · [GitHub](https://github.com/TaewoooPark/NODEPROMPT) · 个人维护 · 中文 README
 
 **将提示词分解为 3D 概念图并重新合成结构化提示的交互工具**
 
@@ -45,12 +45,12 @@ NodePrompt 把文本、图片或 PDF 提示词分解为多维概念图，在 3D 
 ```mermaid
 xychart-beta
     title "TaewoooPark/NODEPROMPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-13", "2026-11-22"]
     y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    line [44, 45, 44]
 ```
 
-2026-10-18 44 → 2026-11-21 45（+1）
+2026-10-19 44 → 2026-11-22 44（+0）
 
 
 ---

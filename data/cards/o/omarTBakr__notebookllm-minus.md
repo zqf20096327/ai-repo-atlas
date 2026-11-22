@@ -1,6 +1,6 @@
 # omarTBakr/notebookllm-minus
 
-⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/omarTBakr/notebookllm-minus) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/omarTBakr/notebookllm-minus) · 个人维护
 
 **本地优先的开源 NotebookLM 替代：带精确引用的文档问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "omarTBakr/notebookllm-minus 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-19 14 → 2026-11-21 14（+0）
+2026-10-20 14 → 2026-11-22 15（+1）
 
 
 ---

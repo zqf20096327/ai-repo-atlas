@@ -1,6 +1,6 @@
 # mlbio-epfl/HeurekaBench
 
-⭐ 23 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mlbio-epfl/HeurekaBench) · [官网](https://brbiclab.epfl.ch/projects/heurekabench/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mlbio-epfl/HeurekaBench) · [官网](https://brbiclab.epfl.ch/projects/heurekabench/) · 组织维护
 
 **面向实验科学数据的 AI 共同科学家基准构建与评测框架**
 
@@ -46,12 +46,12 @@ ICLR 2026 论文配套框架，用于在实验数据集上创建开放式科学�
 ```mermaid
 xychart-beta
     title "mlbio-epfl/HeurekaBench 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23, 22, 23, 23]
+    line [21, 22, 23, 22, 23, 22]
 ```
 
-2026-10-19 21 → 2026-11-21 23（+2）
+2026-10-20 21 → 2026-11-22 22（+1）
 
 
 ---

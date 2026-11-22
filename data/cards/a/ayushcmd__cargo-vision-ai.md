@@ -1,6 +1,6 @@
 # ayushcmd/cargo-vision-ai
 
-⭐ 41 · Python · 推送 2026-10-21 · [GitHub](https://github.com/ayushcmd/cargo-vision-ai) · 个人维护
+⭐ 41 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ayushcmd/cargo-vision-ai) · 个人维护
 
 **本地优先的铁路货车视觉检测平台：车厢计数、编号OCR、缺陷检测**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayushcmd/cargo-vision-ai 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    title "ayushcmd/cargo-vision-ai 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 38 --> 42
-    line [39, 41, 40, 41]
+    line [39, 41, 40, 41, 41]
 ```
 
-2026-11-16 39 → 2026-11-21 41（+2）
+2026-11-16 39 → 2026-11-22 41（+2）
 
 
 ---

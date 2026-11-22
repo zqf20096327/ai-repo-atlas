@@ -1,6 +1,6 @@
 # muzishen/IMAGGarment
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-03-13 · [GitHub](https://github.com/muzishen/IMAGGarment) · [官网](https://revive234.github.io/imaggarment.github.io/) · 组织维护 · 中文 README
+⭐ 130 · Python · Apache-2.0 · 推送 2026-03-13 · [GitHub](https://github.com/muzishen/IMAGGarment) · [官网](https://revive234.github.io/imaggarment.github.io/) · 组织维护 · 中文 README
 
 **面向数字服装设计的细粒度可控服装图像生成模型（TVCG 2026）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "muzishen/IMAGGarment 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 128 --> 130
-    line [129, 129]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 128 --> 131
+    line [129, 130]
 ```
 
-2026-10-19 129 → 2026-11-21 129（+0）
+2026-10-20 129 → 2026-11-22 130（+1）
 
 
 ---

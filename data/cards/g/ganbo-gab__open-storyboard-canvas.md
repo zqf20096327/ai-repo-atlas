@@ -42,6 +42,18 @@
 > L18: **Open Storyboard Canvas** 是一款本地优先（Local-first）的桌面 AI 分镜（AI Storyboarding）工作台，将多模型渠道、无限节点画布（Infinite Canvas）、三维导演台与
 > L20: 面向 AI 短片与漫画创作者，覆盖“快速试模型 → 节点化编排 → 三维走位取景 → 素材复用”，项目与素材默认保存在本机。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ganbo-gab/open-storyboard-canvas 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 404 --> 406
+    line [405, 405]
+```
+
+2026-11-21 405 → 2026-11-22 405（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `6dd629e5e7e4` · [字段定义](../../DATASET.md)*

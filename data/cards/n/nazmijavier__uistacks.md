@@ -1,6 +1,6 @@
 # nazmijavier/uistacks
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nazmijavier/uistacks) · [官网](https://uistacks.dev) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nazmijavier/uistacks) · [官网](https://uistacks.dev) · 个人维护
 
 **给 AI 聊天/Agent/仪表盘界面用的 React 动效组件库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nazmijavier/uistacks 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-20", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-21 3（+0）
+2026-11-20 3 → 2026-11-22 3（+0）
 
 
 ---

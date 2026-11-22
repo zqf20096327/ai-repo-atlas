@@ -1,6 +1,6 @@
 # heyxiaoc/not-fade-away
 
-⭐ 100 · Python · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/heyxiaoc/not-fade-away) · 个人维护 · 中文 README
+⭐ 101 · Python · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/heyxiaoc/not-fade-away) · 个人维护 · 中文 README
 
 **教程：在 Mac/VPS 上自托管常驻 Claude AI 伴侣（走订阅、可远程访问）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "heyxiaoc/not-fade-away 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 99 --> 102
+    line [100, 101]
 ```
 
-2026-10-18 100 → 2026-11-21 100（+0）
+2026-10-19 100 → 2026-11-22 101（+1）
 
 
 ---

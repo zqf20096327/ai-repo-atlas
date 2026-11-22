@@ -41,6 +41,18 @@
 > L3: A playbook for product managers who ship AI features in enterprise SaaS products and knowledge layers. You write one
 > L36: You need one template: the **Eval PRD**. Read the filled-in Planwise example first.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anupamchoudhari/enterprise-ai-evals 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `8659533b4c23` · [字段定义](../../DATASET.md)*

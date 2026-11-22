@@ -1,6 +1,6 @@
 # CometWorks/skills
 
-⭐ 11 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/CometWorks/skills) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/CometWorks/skills) · 个人维护
 
 **Space Engineers 插件/Mod/游戏内脚本开发的 AI 编码技能库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CometWorks/skills 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 12（+2）
 
 
 ---

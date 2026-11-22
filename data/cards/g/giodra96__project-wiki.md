@@ -1,6 +1,6 @@
 # giodra96/project-wiki
 
-⭐ 40 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/giodra96/project-wiki) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/giodra96/project-wiki) · 个人维护
 
 **给 AI 编程 agent 的持久项目记忆技能，生成代码库旁的 wiki**
 
@@ -44,13 +44,13 @@ IDE 中立的 agent skill：在代码仓库的 .project-wiki/ 下生成并维护
 
 ```mermaid
 xychart-beta
-    title "giodra96/project-wiki 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 23 --> 41
-    line [24, 34, 38, 39, 40, 39, 40, 40]
+    title "giodra96/project-wiki 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 33 --> 43
+    line [34, 38, 39, 40, 39, 40, 42]
 ```
 
-2026-10-18 24 → 2026-11-21 40（+16）
+2026-10-19 34 → 2026-11-22 42（+8）
 
 
 ---

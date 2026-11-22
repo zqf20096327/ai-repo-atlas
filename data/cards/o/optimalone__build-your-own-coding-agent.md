@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "optimalone/build-your-own-coding-agent 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "optimalone/build-your-own-coding-agent 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 104 --> 107
-    line [105, 106]
+    line [105, 106, 106]
 ```
 
-2026-10-19 105 → 2026-11-21 106（+1）
+2026-10-20 105 → 2026-11-22 106（+1）
 
 
 ---

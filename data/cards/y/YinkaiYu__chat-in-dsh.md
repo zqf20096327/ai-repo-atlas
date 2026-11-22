@@ -1,6 +1,6 @@
 # YinkaiYu/chat-in-dsh
 
-⭐ 33 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/YinkaiYu/chat-in-dsh) · 个人维护 · 中文 README
+⭐ 37 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YinkaiYu/chat-in-dsh) · 个人维护 · 中文 README
 
 **在 DeepSeek Harness 里复刻 DeepSeek 网页版聊天的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YinkaiYu/chat-in-dsh 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 29 --> 34
-    line [30, 33]
+    title "YinkaiYu/chat-in-dsh 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 29 --> 38
+    line [30, 33, 37]
 ```
 
-2026-11-20 30 → 2026-11-21 33（+3）
+2026-11-20 30 → 2026-11-22 37（+7）
 
 
 ---

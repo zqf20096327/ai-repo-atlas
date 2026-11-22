@@ -1,6 +1,6 @@
 # vzxxbacq/orca-colab
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vzxxbacq/orca-colab) · [官网](https://orca.dev/plugins/vzxxbacq/orca-colab) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vzxxbacq/orca-colab) · [官网](https://orca.dev/plugins/vzxxbacq/orca-colab) · 个人维护 · 中文 README
 
 **让 Claude Code 等 AI 编码 agent 调用 Google Colab GPU 的插件与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vzxxbacq/orca-colab 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-14", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-14 3 → 2026-11-21 3（+0）
+2026-11-14 3 → 2026-11-22 4（+1）
 
 
 ---

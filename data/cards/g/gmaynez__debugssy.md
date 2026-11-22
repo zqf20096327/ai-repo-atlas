@@ -45,12 +45,12 @@ VS Code 扩展，随扩展启动一个本地 Streamable HTTP MCP 服务器（默
 ```mermaid
 xychart-beta
     title "gmaynez/debugssy 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-19 20 → 2026-11-21 20（+0）
+2026-10-20 20 → 2026-11-22 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # adamspd/spam-detection-project
 
-⭐ 41 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/adamspd/spam-detection-project) · [官网](https://spam-detection-api.adamspierredavid.com) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/adamspd/spam-detection-project) · [官网](https://spam-detection-api.adamspierredavid.com) · 个人维护
 
 **Python 垃圾消息检测库：五种分类器加权投票判定 spam**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adamspd/spam-detection-project 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-19 41 → 2026-11-21 41（+0）
+2026-10-20 41 → 2026-11-22 41（+0）
 
 
 ---

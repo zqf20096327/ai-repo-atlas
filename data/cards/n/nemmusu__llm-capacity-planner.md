@@ -42,6 +42,18 @@
 > L13: It is a VRAM and throughput calculator, not a benchmark. No GPU, no engine, nothing is run (unless you ask it to re
 > L74: - **No GPU, no engine, no download.** Reads a few KB of metadata per model (none for the built-in catalog). Runs on
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nemmusu/llm-capacity-planner 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `afb68f71b963` · [字段定义](../../DATASET.md)*

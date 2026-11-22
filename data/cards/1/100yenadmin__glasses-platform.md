@@ -1,6 +1,6 @@
 # 100yenadmin/glasses-platform
 
-⭐ 4 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/100yenadmin/glasses-platform) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/100yenadmin/glasses-platform) · 个人维护 · 中文 README
 
 **把 Hermes agent 接入智能眼镜与语音设备的网关平台插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "100yenadmin/glasses-platform 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-19 3 → 2026-11-21 4（+1）
+2026-11-19 3 → 2026-11-22 4（+1）
 
 
 ---

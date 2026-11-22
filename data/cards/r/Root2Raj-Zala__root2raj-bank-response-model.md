@@ -1,6 +1,6 @@
 # Root2Raj-Zala/root2raj-bank-response-model
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/Root2Raj-Zala/root2raj-bank-response-model) · [官网](https://root2raj.ruturaj1zala123.chatgpt.site/projects/bank-response-model/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **银行营销响应分类的模型风险评估案例研究**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

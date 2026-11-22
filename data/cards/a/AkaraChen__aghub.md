@@ -1,6 +1,6 @@
 # AkaraChen/aghub
 
-⭐ 273 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AkaraChen/aghub) · [官网](https://aghub.akr.moe) · 个人维护 · 中文 README
+⭐ 274 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AkaraChen/aghub) · [官网](https://aghub.akr.moe) · 个人维护 · 中文 README
 
 **AI 编程 agent 的统一配置管理桌面应用（22+ 种）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AkaraChen/aghub 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-22"]
     y-axis "stars" 269 --> 275
-    line [274, 272, 271, 270, 271, 273, 273]
+    line [274, 272, 271, 270, 271, 273, 274]
 ```
 
-2026-10-19 274 → 2026-11-21 273（-1）
+2026-10-20 274 → 2026-11-22 274（+0）
 
 
 ---

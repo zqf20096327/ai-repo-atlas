@@ -1,6 +1,6 @@
 # mehmetdemircs/RepoSpend
 
-⭐ 16 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/mehmetdemircs/RepoSpend) · [官网](https://repospend.com) · 个人维护
+⭐ 16 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/mehmetdemircs/RepoSpend) · [官网](https://repospend.com) · 个人维护
 
 **本地优先的 AI 编程 token 用量与成本仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mehmetdemircs/RepoSpend 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-19 16 → 2026-11-21 16（+0）
+2026-10-20 16 → 2026-11-22 16（+0）
 
 
 ---

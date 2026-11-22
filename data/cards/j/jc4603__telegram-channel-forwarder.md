@@ -1,6 +1,6 @@
 # jc4603/telegram-channel-forwarder
 
-⭐ 153 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/jc4603/telegram-channel-forwarder) · 个人维护
+⭐ 153 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/jc4603/telegram-channel-forwarder) · 个人维护
 
 **Windows 本地运行的 Telegram 频道自动转发与 AI 改写工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jc4603/telegram-channel-forwarder 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-18", "2026-11-22"]
     y-axis "stars" 152 --> 154
     line [153, 153]
 ```
 
-2026-11-18 153 → 2026-11-21 153（+0）
+2026-11-18 153 → 2026-11-22 153（+0）
 
 
 ---

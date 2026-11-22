@@ -1,6 +1,6 @@
 # strands-agents/extension-template
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/strands-agents/extension-template) · [官网](https://strandsagents.com) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/strands-agents/extension-template) · [官网](https://strandsagents.com) · 组织维护
 
 **为 Strands Agents 开发者生成扩展组件项目骨架的模板仓库**
 
@@ -45,12 +45,12 @@ Strands Agents 官方的扩展开发模板 monorepo，提供 Python 与 TypeScri
 ```mermaid
 xychart-beta
     title "strands-agents/extension-template 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-26", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-26 10 → 2026-11-21 10（+0）
+2026-10-26 10 → 2026-11-22 11（+1）
 
 
 ---

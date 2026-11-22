@@ -1,6 +1,6 @@
 # LIUFelix2004/dsh-workbuddy
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/LIUFelix2004/dsh-workbuddy) · 个人维护 · 中文 README
+⭐ 66 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LIUFelix2004/dsh-workbuddy) · 个人维护 · 中文 README
 
 **把 WorkBuddy 账号导入 DeepSeek Harness 作为模型 provider 的插件**
 
@@ -40,6 +40,18 @@ DeepSeek Harness（DSH）插件，读取 WorkBuddy 账号凭据后在 llm-pi-ai 
 > L3: > 把 **WorkBuddy 账号**接进 **DeepSeek Harness**：一个账号一条 provider 路由，WorkBuddy 里的全部模型直接出现在 DSH 的模型选择器里，并显示每个账号的积分余额、自动绕过网关
 > L36: 要求：DeepSeek Harness `0.2.1` 或更高（web / desktop 均可），Node.js `>= 18`。
 > L71:  - 在 `llm-pi-ai` 里写入 provider `WorkBuddy · 账号名`；
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LIUFelix2004/dsh-workbuddy 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 7 --> 71
+    line [12, 66]
+```
+
+2026-11-21 12 → 2026-11-22 66（+54）
 
 
 ---

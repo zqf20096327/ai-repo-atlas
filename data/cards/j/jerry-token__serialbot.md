@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jerry-token/serialbot 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
+    title "jerry-token/serialbot 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 3 --> 6
-    line [4, 5]
+    line [4, 5, 5]
 ```
 
-2026-11-19 4 → 2026-11-21 5（+1）
+2026-11-19 4 → 2026-11-22 5（+1）
 
 
 ---

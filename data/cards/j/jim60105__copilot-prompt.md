@@ -1,6 +1,6 @@
 # jim60105/copilot-prompt
 
-⭐ 22 · Python · GFDL-1.3 · 推送 2026-11-17 · [GitHub](https://github.com/jim60105/copilot-prompt) · 个人维护 · 中文 README
+⭐ 22 · Python · GFDL-1.3 · 推送 2026-11-21 · [GitHub](https://github.com/jim60105/copilot-prompt) · 个人维护 · 中文 README
 
 **个人 GitHub Copilot 提示词与指令配置仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jim60105/copilot-prompt 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-19 22 → 2026-11-21 22（+0）
+2026-10-20 22 → 2026-11-22 22（+0）
 
 
 ---

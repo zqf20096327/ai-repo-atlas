@@ -1,6 +1,6 @@
 # prefix-tree/uberscene
 
-⭐ 47 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/prefix-tree/uberscene) · [官网](http://uberscene.prefixtree.xyz/) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/prefix-tree/uberscene) · [官网](http://uberscene.prefixtree.xyz/) · 个人维护
 
 **面向 agent 的代码化视频编辑 React 库：TSX 即视频**
 
@@ -45,13 +45,13 @@ UberScene 是一个 React 库，将一个 TSX 文件作为视频本身：片段�
 
 ```mermaid
 xychart-beta
-    title "prefix-tree/uberscene 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 0 --> 51
-    line [4, 47]
+    title "prefix-tree/uberscene 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 0 --> 53
+    line [4, 47, 49]
 ```
 
-2026-11-20 4 → 2026-11-21 47（+43）
+2026-11-20 4 → 2026-11-22 49（+45）
 
 
 ---

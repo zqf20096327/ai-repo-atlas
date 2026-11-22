@@ -1,6 +1,6 @@
 # BeatAPI/awesome-moss-image-prompts
 
-⭐ 5 · Python · 推送 2026-10-22 · [GitHub](https://github.com/BeatAPI/awesome-moss-image-prompts) · [官网](https://beatapi.io/moss-image-prompts) · 组织维护 · 中文 README
+⭐ 6 · Python · 推送 2026-10-22 · [GitHub](https://github.com/BeatAPI/awesome-moss-image-prompts) · [官网](https://beatapi.io/moss-image-prompts) · 组织维护 · 中文 README
 
 **MOSS-Image 提示词示例库：500 条附图与生成参数的案例集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BeatAPI/awesome-moss-image-prompts 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-21"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-01", "2026-11-22"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-01 5 → 2026-11-21 5（+0）
+2026-11-01 5 → 2026-11-22 6（+1）
 
 
 ---

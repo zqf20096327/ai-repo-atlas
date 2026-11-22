@@ -1,6 +1,6 @@
 # FlechetteLabs/Tollbooth
 
-⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-04-16 · [GitHub](https://github.com/FlechetteLabs/Tollbooth) · [官网](https://flechettelabs.com/Tollbooth/) · 组织维护
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-04-16 · [GitHub](https://github.com/FlechetteLabs/Tollbooth) · [官网](https://flechettelabs.com/Tollbooth/) · 组织维护
 
 **面向 LLM 编码代理的透明流量审计代理：抓包/查看/改写请求**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FlechetteLabs/Tollbooth 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 22（+1）
 
 
 ---

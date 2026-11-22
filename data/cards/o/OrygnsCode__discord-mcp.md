@@ -1,6 +1,6 @@
 # OrygnsCode/discord-mcp
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/OrygnsCode/discord-mcp) · [官网](https://orygn.tech/products/discord-mcp) · 个人维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/OrygnsCode/discord-mcp) · [官网](https://orygn.tech/products/discord-mcp) · 个人维护
 
 **让 AI 客户端通过 MCP 管理 Discord 服务器的工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OrygnsCode/discord-mcp 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-21"]
+    x-axis ["2026-11-12", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-12 12 → 2026-11-21 12（+0）
+2026-11-12 12 → 2026-11-22 12（+0）
 
 
 ---

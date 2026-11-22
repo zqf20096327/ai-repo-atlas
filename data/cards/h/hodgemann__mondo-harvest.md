@@ -41,6 +41,18 @@
 > L9: Point it at a folder of outputs, even one with tens of thousands of files, and it saves one harvest file listing eve
 > L10: distinct prompt once, with what made each output: model, LoRAs, negative prompt, sampler settings and seed. Only
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hodgemann/mondo-harvest 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `a6bfd69212a7` · [字段定义](../../DATASET.md)*

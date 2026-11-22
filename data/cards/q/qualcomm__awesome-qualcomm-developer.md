@@ -1,6 +1,6 @@
 # qualcomm/awesome-qualcomm-developer
 
-⭐ 11 · JavaScript · BSD-3-Clause · 推送 2026-11-05 · [GitHub](https://github.com/qualcomm/awesome-qualcomm-developer) · [官网](https://qualcomm.github.io/awesome-qualcomm-developer/) · 组织维护
+⭐ 11 · JavaScript · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/qualcomm/awesome-qualcomm-developer) · [官网](https://qualcomm.github.io/awesome-qualcomm-developer/) · 组织维护
 
 **面向开发者的 Qualcomm 平台开源项目目录清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "qualcomm/awesome-qualcomm-developer 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 11（+1）
 
 
 ---

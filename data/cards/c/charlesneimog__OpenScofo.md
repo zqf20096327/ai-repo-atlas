@@ -1,6 +1,6 @@
 # charlesneimog/OpenScofo
 
-⭐ 10 · C++ · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/charlesneimog/OpenScofo) · [官网](https://charlesneimog.github.io/OpenScofo/) · 个人维护
+⭐ 10 · C++ · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/charlesneimog/OpenScofo) · [官网](https://charlesneimog.github.io/OpenScofo/) · 个人维护
 
 **面向研究者与音乐人的实时乐谱跟随 C++ 库**
 
@@ -45,12 +45,12 @@ OpenScofo 是一个乐谱跟随库，为当代音乐应用提供实时演奏位�
 ```mermaid
 xychart-beta
     title "charlesneimog/OpenScofo 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-16", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-21 10（+0）
+2026-11-16 10 → 2026-11-22 10（+0）
 
 
 ---

@@ -42,6 +42,18 @@
 > L15: - **Support for multiple AI providers** — works with any OpenAI-compatible API.
 > L253: - Support for multiple AI providers (OpenAI compartible APIs)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "OleksiyM/groq-cli-chat 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-21 20 → 2026-11-22 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `f09e09436cf6` · [字段定义](../../DATASET.md)*

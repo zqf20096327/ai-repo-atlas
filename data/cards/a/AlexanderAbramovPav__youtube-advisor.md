@@ -1,6 +1,6 @@
 # AlexanderAbramovPav/youtube-advisor
 
-⭐ 10 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AlexanderAbramovPav/youtube-advisor) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/AlexanderAbramovPav/youtube-advisor) · 个人维护
 
 **把任意 YouTube 频道构建为可问答的 AI 助手技能**
 
@@ -46,12 +46,12 @@ Python CLI 工具：抓取指定频道的视频字幕，建立 BM25 与语义检
 ```mermaid
 xychart-beta
     title "AlexanderAbramovPav/youtube-advisor 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-21"]
+    x-axis ["2026-10-26", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-21 10（+0）
+2026-10-26 10 → 2026-11-22 10（+0）
 
 
 ---

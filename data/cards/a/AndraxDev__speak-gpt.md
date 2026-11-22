@@ -1,6 +1,6 @@
 # AndraxDev/speak-gpt
 
-⭐ 447 · Kotlin · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/AndraxDev/speak-gpt) · [官网](https://play.google.com/store/apps/details?id=org.teslasoft.assistant) · 个人维护
+⭐ 448 · Kotlin · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/AndraxDev/speak-gpt) · [官网](https://play.google.com/store/apps/details?id=org.teslasoft.assistant) · 个人维护
 
 **安卓上的开源语音 AI 助手客户端，接入多厂商 LLM API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AndraxDev/speak-gpt 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 444 --> 448
-    line [445, 446, 447, 446, 447, 447]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 444 --> 449
+    line [445, 446, 447, 446, 447, 448]
 ```
 
-2026-10-19 445 → 2026-11-21 447（+2）
+2026-10-20 445 → 2026-11-22 448（+3）
 
 
 ---

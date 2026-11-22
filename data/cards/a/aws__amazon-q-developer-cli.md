@@ -1,6 +1,6 @@
 # aws/amazon-q-developer-cli
 
-⭐ 1,986 · Rust · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/aws/amazon-q-developer-cli) · [官网](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html) · 组织维护
+⭐ 1,985 · Rust · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/aws/amazon-q-developer-cli) · [官网](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html) · 组织维护
 
 **AWS 出品的终端 AI 聊天 CLI（已停止积极维护）**
 
@@ -42,13 +42,13 @@ Rust 编写的命令行工具 chat_cli（命令 q），让用户在终端中与 
 
 ```mermaid
 xychart-beta
-    title "aws/amazon-q-developer-cli 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-21"]
+    title "aws/amazon-q-developer-cli 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 1982 --> 1989
-    line [1983, 1984, 1987, 1988, 1986, 1987, 1986]
+    line [1983, 1984, 1987, 1988, 1986, 1987, 1986, 1985]
 ```
 
-2026-10-19 1,983 → 2026-11-21 1,986（+3）
+2026-10-20 1,983 → 2026-11-22 1,985（+2）
 
 
 ---

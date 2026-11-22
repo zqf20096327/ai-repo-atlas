@@ -1,6 +1,6 @@
 # sixtysevenlf/dsh-skill-blender-modeling
 
-⭐ 76 · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/sixtysevenlf/dsh-skill-blender-modeling) · 个人维护 · 中文 README
+⭐ 77 · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/sixtysevenlf/dsh-skill-blender-modeling) · 个人维护 · 中文 README
 
 **给 AI agent 读的 Blender 建模流程技能文档（SKILL.md）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sixtysevenlf/dsh-skill-blender-modeling 星数(近 13 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 50 --> 78
-    line [52, 58, 61, 64, 65, 66, 67, 68, 61, 71, 73, 76, 76]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 50 --> 79
+    line [52, 58, 61, 64, 65, 66, 67, 68, 61, 71, 73, 76, 77]
 ```
 
-2026-10-19 52 → 2026-11-21 76（+24）
+2026-10-20 52 → 2026-11-22 77（+25）
 
 
 ---

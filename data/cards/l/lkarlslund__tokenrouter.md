@@ -1,6 +1,6 @@
 # lkarlslund/tokenrouter
 
-⭐ 27 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/lkarlslund/tokenrouter) · 个人维护
+⭐ 28 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/lkarlslund/tokenrouter) · 个人维护
 
 **多 AI 供应商的 OpenAI 兼容统一接入网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lkarlslund/tokenrouter 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-19 27 → 2026-11-21 27（+0）
+2026-10-20 27 → 2026-11-22 28（+1）
 
 
 ---

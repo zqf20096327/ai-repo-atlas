@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruimalheiro/gradient-garden 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    title "ruimalheiro/gradient-garden 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-21", "2026-11-22"]
     y-axis "stars" 25 --> 28
-    line [27, 26, 27]
+    line [27, 26, 27, 27]
 ```
 
-2026-10-19 27 → 2026-11-21 27（+0）
+2026-10-20 27 → 2026-11-22 27（+0）
 
 
 ---

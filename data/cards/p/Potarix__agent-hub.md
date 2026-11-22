@@ -46,13 +46,13 @@ Electron 构建的 macOS 11+（Apple Silicon）原生应用，将 Claude Code、
 
 ```mermaid
 xychart-beta
-    title "Potarix/agent-hub 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    title "Potarix/agent-hub 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 19]
+    line [19, 20, 19, 19]
 ```
 
-2026-10-19 19 → 2026-11-21 19（+0）
+2026-10-20 19 → 2026-11-22 19（+0）
 
 
 ---

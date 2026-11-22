@@ -1,6 +1,6 @@
 # hoornet/home-mind
 
-⭐ 99 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/hoornet/home-mind) · [官网](https://hoornet.github.io) · 个人维护
+⭐ 99 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/hoornet/home-mind) · [官网](https://hoornet.github.io) · 个人维护
 
 **给智能家居用户的带认知记忆的 Home Assistant AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hoornet/home-mind 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-22"]
     y-axis "stars" 94 --> 100
     line [95, 97, 98, 97, 98, 99, 99]
 ```
 
-2026-10-19 95 → 2026-11-21 99（+4）
+2026-10-20 95 → 2026-11-22 99（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # XiangyuYue/boardwise
 
-⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/XiangyuYue/boardwise) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/XiangyuYue/boardwise) · 个人维护 · 中文 README
 
 **硬件工程师的 EasyEDA Pro AI 审图工具：AI 读原理图做审查与编辑**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "XiangyuYue/boardwise 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-11", "2026-11-22"]
     y-axis "stars" 9 --> 14
     line [10, 11, 13, 13]
 ```
 
-2026-10-31 10 → 2026-11-21 13（+3）
+2026-10-31 10 → 2026-11-22 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Grandbusta/tinio
 
-⭐ 10 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Grandbusta/tinio) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Grandbusta/tinio) · 个人维护
 
 **给个人用户的 Telegram 常驻人格 agent：自主规划日常并做事**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Grandbusta/tinio 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-13 10 → 2026-11-21 10（+0）
+2026-11-13 10 → 2026-11-22 10（+0）
 
 
 ---

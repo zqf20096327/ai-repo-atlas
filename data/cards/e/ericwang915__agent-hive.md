@@ -1,6 +1,6 @@
 # ericwang915/agent-hive
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ericwang915/agent-hive) · [官网](https://ericwang915.github.io/agent-hive/) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ericwang915/agent-hive) · [官网](https://ericwang915.github.io/agent-hive/) · 个人维护 · 中文 README
 
 **macOS 桌面应用：统一调度多个 coding agent CLI 协作**
 
@@ -44,13 +44,13 @@ Agent Hive 是一款开源 macOS 应用，把 Claude Code、Codex、Gemini CLI�
 
 ```mermaid
 xychart-beta
-    title "ericwang915/agent-hive 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 3 --> 15
-    line [4, 14]
+    title "ericwang915/agent-hive 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 22
+    line [4, 14, 21]
 ```
 
-2026-11-20 4 → 2026-11-21 14（+10）
+2026-11-20 4 → 2026-11-22 21（+17）
 
 
 ---

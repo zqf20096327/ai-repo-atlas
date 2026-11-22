@@ -1,6 +1,6 @@
 # reisen7/rabbit-panel
 
-⭐ 13 · Go · MIT · 推送 2026-11-06 · [GitHub](https://github.com/reisen7/rabbit-panel) · [官网](https://reisen7.xyz/rabbit-panel/) · 个人维护 · 中文 README
+⭐ 14 · Go · MIT · 推送 2026-11-06 · [GitHub](https://github.com/reisen7/rabbit-panel) · [官网](https://reisen7.xyz/rabbit-panel/) · 个人维护 · 中文 README
 
 **面向 Linux 服务器的轻量 Docker 运维面板，附 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "reisen7/rabbit-panel 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 10 --> 15
+    line [11, 13, 14]
 ```
 
-2026-10-19 11 → 2026-11-21 13（+2）
+2026-10-20 11 → 2026-11-22 14（+3）
 
 
 ---

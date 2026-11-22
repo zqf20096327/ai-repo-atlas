@@ -1,6 +1,6 @@
 # CN-BI5UNF/KarenBot
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/CN-BI5UNF/KarenBot) · 个人维护 · 中文 README
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/CN-BI5UNF/KarenBot) · 个人维护 · 中文 README
 
 **人格聊天智能体框架：WebUI + QQ 接入 + 多 LLM Provider**
 
@@ -45,12 +45,12 @@ Python 编写的通用聊天智能体框架， fork 自 Debata_Agent 并以 Apac
 ```mermaid
 xychart-beta
     title "CN-BI5UNF/KarenBot 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-01 3 → 2026-11-21 4（+1）
+2026-11-01 3 → 2026-11-22 4（+1）
 
 
 ---

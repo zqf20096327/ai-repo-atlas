@@ -1,6 +1,6 @@
 # FIY-pc/vibe-logisim
 
-⭐ 11 · TypeScript · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/FIY-pc/vibe-logisim) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/FIY-pc/vibe-logisim) · 个人维护 · 中文 README
 
 **计算机组成原理课程的 AI 电路工作台：画图仿真兼 AI 排错讲解**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "FIY-pc/vibe-logisim 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 6 --> 12
-    line [7, 9, 7, 11, 11]
+    line [7, 9, 7, 11, 10]
 ```
 
-2026-10-19 7 → 2026-11-21 11（+4）
+2026-10-20 7 → 2026-11-22 10（+3）
 
 
 ---

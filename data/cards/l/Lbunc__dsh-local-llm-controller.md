@@ -1,6 +1,6 @@
 # Lbunc/dsh-local-llm-controller
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Lbunc/dsh-local-llm-controller) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Lbunc/dsh-local-llm-controller) · 个人维护 · 中文 README
 
 **DSH 插件：设置页一键启停本地 llama.cpp 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lbunc/dsh-local-llm-controller 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

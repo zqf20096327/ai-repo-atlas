@@ -1,6 +1,6 @@
 # anupbagale/python-for-ai-ml
 
-⭐ 8 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/anupbagale/python-for-ai-ml) · 个人维护
+⭐ 9 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/anupbagale/python-for-ai-ml) · 个人维护
 
 **面向 AI/ML 初学者的 Python 动手课程：21 模块、Colab 运行**
 
@@ -41,6 +41,18 @@
 > L3: A hands-on course that takes you from your first line of Python to building, evaluating and deploying machine learni
 > L7: The course has three parts, all complete. **Part 1** teaches Python, data and machine learning foundations together 
 > L18: Everything runs in Google Colab. Click the badge next to any notebook and it opens in your browser, with nothing to
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anupbagale/python-for-ai-ml 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 7 --> 10
+    line [8, 9]
+```
+
+2026-11-21 8 → 2026-11-22 9（+1）
 
 
 ---

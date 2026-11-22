@@ -1,6 +1,6 @@
 # IvanKuzyshyn/skills
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/IvanKuzyshyn/skills) · 个人维护
+⭐ 5 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/IvanKuzyshyn/skills) · 个人维护
 
 **个人日常沉淀的开放格式 Agent 技能集，供各 Agent CLI 安装**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IvanKuzyshyn/skills 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-19", "2026-11-22"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-19 5 → 2026-11-21 5（+0）
+2026-11-19 5 → 2026-11-22 5（+0）
 
 
 ---

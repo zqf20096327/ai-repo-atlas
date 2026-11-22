@@ -42,6 +42,18 @@
 > L9: > *通过6个专业智能体生成深度面试拷问报告*
 > L19: **🤖 多智能体协作**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lllllllama/GrillRadar 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `f381930fc1f5` · [字段定义](../../DATASET.md)*

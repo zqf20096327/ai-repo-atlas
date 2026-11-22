@@ -1,6 +1,6 @@
 # Galileo-Agent-Labs/eval-engineer
 
-⭐ 43 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/Galileo-Agent-Labs/eval-engineer) · [官网](https://galileo.ai/blog/introducing-eval-engineer-bringing-eval-expertise-to-claude-and-codex) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/Galileo-Agent-Labs/eval-engineer) · [官网](https://galileo.ai/blog/introducing-eval-engineer-bringing-eval-expertise-to-claude-and-codex) · 组织维护
 
 **将 Galileo 评测工作流注入 Claude Code 与 Codex 的技能包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Galileo-Agent-Labs/eval-engineer 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-19 43 → 2026-11-21 43（+0）
+2026-10-20 43 → 2026-11-22 44（+1）
 
 
 ---

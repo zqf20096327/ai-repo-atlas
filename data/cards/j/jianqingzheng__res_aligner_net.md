@@ -45,12 +45,12 @@ Medical Image Analysis 2024 论文 RAN（Residual Aligner-based Network）的官
 ```mermaid
 xychart-beta
     title "jianqingzheng/res_aligner_net 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-19 35 → 2026-11-21 35（+0）
+2026-10-20 35 → 2026-11-22 35（+0）
 
 
 ---

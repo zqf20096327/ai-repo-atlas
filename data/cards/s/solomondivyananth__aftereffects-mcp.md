@@ -1,6 +1,6 @@
 # solomondivyananth/aftereffects-mcp
 
-⭐ 91 · JavaScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/solomondivyananth/aftereffects-mcp) · [官网](https://solomondivyananth.github.io/aftereffects-mcp/) · 个人维护
+⭐ 92 · JavaScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/solomondivyananth/aftereffects-mcp) · [官网](https://solomondivyananth.github.io/aftereffects-mcp/) · 个人维护
 
 **让 AI agent 实时读写 Adobe After Effects 工程的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "solomondivyananth/aftereffects-mcp 星数(近 18 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 65 --> 93
-    line [67, 70, 72, 73, 74, 76, 77, 78, 79, 80, 81, 74, 85, 86, 88, 89, 91, 91]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 65 --> 94
+    line [67, 70, 72, 73, 74, 76, 77, 78, 79, 80, 81, 74, 85, 86, 88, 89, 91, 92]
 ```
 
-2026-10-19 67 → 2026-11-21 91（+24）
+2026-10-20 67 → 2026-11-22 92（+25）
 
 
 ---

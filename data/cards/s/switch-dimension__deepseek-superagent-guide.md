@@ -1,6 +1,6 @@
 # switch-dimension/deepseek-superagent-guide
 
-⭐ 31 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/switch-dimension/deepseek-superagent-guide) · 个人维护
+⭐ 32 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/switch-dimension/deepseek-superagent-guide) · 个人维护
 
 **教 AI 编程助手搭建 DeepSeek 超级代理模式的指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "switch-dimension/deepseek-superagent-guide 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 19 --> 32
-    line [20, 25, 26, 25, 29, 31, 31]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 19 --> 33
+    line [20, 25, 26, 25, 29, 31, 32]
 ```
 
-2026-11-08 20 → 2026-11-21 31（+11）
+2026-11-08 20 → 2026-11-22 32（+12）
 
 
 ---

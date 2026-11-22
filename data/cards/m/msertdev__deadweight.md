@@ -1,6 +1,6 @@
 # msertdev/deadweight
 
-⭐ 14 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/msertdev/deadweight) · [官网](https://github.com/msertdev/deadweight) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/msertdev/deadweight) · [官网](https://github.com/msertdev/deadweight) · 个人维护
 
 **为 Claude Code 用户审计并清理每请求 token 开销**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "msertdev/deadweight 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 11 --> 15
-    line [12, 14, 14]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 11 --> 17
+    line [12, 14, 16]
 ```
 
-2026-11-19 12 → 2026-11-21 14（+2）
+2026-11-19 12 → 2026-11-22 16（+4）
 
 
 ---

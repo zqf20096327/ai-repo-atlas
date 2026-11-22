@@ -46,13 +46,13 @@ SimLLM 在购置或预留硬件前预测大规模 LLM 部署的推理性能指�
 
 ```mermaid
 xychart-beta
-    title "openfabric-systems/simllm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 49 --> 53
-    line [50, 51, 52, 52]
+    title "openfabric-systems/simllm 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 50 --> 53
+    line [51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-21 52（+2）
+2026-10-19 51 → 2026-11-22 52（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Necolizer/awesome-rl-for-agents
 
-⭐ 116 · CC0-1.0 · 推送 2026-11-13 · [GitHub](https://github.com/Necolizer/awesome-rl-for-agents) · 个人维护
+⭐ 117 · CC0-1.0 · 推送 2026-11-13 · [GitHub](https://github.com/Necolizer/awesome-rl-for-agents) · 个人维护
 
 **面向 LLM/MLLM 智能体的强化学习论文与工具策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Necolizer/awesome-rl-for-agents 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 114 --> 117
-    line [115, 116, 116]
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 114 --> 118
+    line [115, 116, 117]
 ```
 
-2026-10-19 115 → 2026-11-21 116（+1）
+2026-10-20 115 → 2026-11-22 117（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ePlus-DEV/free-tier-hub
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ePlus-DEV/free-tier-hub) · [官网](http://free-tier.eplus.dev/) · 组织维护
 
 **免费额度云服务与开发工具的社区维护目录站点**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ePlus-DEV/free-tier-hub 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-20"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-20 10（+0）
+2026-11-10 10 → 2026-11-22 10（+0）
 
 
 ---

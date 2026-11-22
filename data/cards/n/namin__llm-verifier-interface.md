@@ -1,6 +1,6 @@
 # namin/llm-verifier-interface
 
-⭐ 17 · Python · 推送 2026-07-14 · [GitHub](https://github.com/namin/llm-verifier-interface) · 个人维护
+⭐ 18 · Python · 推送 2026-07-14 · [GitHub](https://github.com/namin/llm-verifier-interface) · 个人维护
 
 **LLM-Verifier 接口课程讲义仓库：形式化验证与 LLM 结合的代码示例与文献清单**
 
@@ -44,12 +44,12 @@ FoPSS 2026 暑期学校课程配套仓库，围绕 LLM 与验证器（Verifier�
 ```mermaid
 xychart-beta
     title "namin/llm-verifier-interface 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-21 17（+0）
+2026-10-19 17 → 2026-11-22 18（+1）
 
 
 ---

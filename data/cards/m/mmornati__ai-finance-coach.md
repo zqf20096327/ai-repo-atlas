@@ -1,6 +1,6 @@
 # mmornati/ai-finance-coach
 
-⭐ 6 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mmornati/ai-finance-coach) · [官网](https://mmornati.github.io/ai-finance-coach/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管个人理财教练：PSD2 银行同步与本地分析，LLM 不见原始数据**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

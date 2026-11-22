@@ -1,6 +1,6 @@
 # Sajadh92/abofles
 
-⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Sajadh92/abofles) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Sajadh92/abofles) · [官网](https://abofles.com) · 个人维护
 
 **Claude Code 插件：按任务将子代理路由到对应模型与投入档位**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Sajadh92/abofles 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-21 4（+1）
+2026-11-08 3 → 2026-11-22 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # fox-in-the-box-ai/fox-in-the-box
 
-⭐ 89 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/fox-in-the-box-ai/fox-in-the-box) · [官网](https://foxinthebox.io) · 组织维护
+⭐ 88 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/fox-in-the-box-ai/fox-in-the-box) · [官网](https://foxinthebox.io) · 组织维护
 
 **自托管的私有 AI 助手桌面应用：聊天+记忆+远程访问一键安装**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fox-in-the-box-ai/fox-in-the-box 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 86 --> 90
-    line [87, 88, 87, 88, 89, 89]
+    line [87, 88, 87, 88, 89, 88]
 ```
 
-2026-10-19 87 → 2026-11-21 89（+2）
+2026-10-20 87 → 2026-11-22 88（+1）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PromptMixerDev/prompt-mixer-app-ce 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-11-21 85（+0）
+2026-10-19 85 → 2026-11-22 85（+0）
 
 
 ---

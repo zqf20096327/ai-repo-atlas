@@ -46,12 +46,12 @@ Tryll for Unity 是 Unity 包 com.tryll.client（0.10.2），通过 Package Mana
 ```mermaid
 xychart-beta
     title "TryllEngine/tryll-unity-plugin 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-11 10 → 2026-11-21 11（+1）
+2026-11-11 10 → 2026-11-22 11（+1）
 
 
 ---

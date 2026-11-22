@@ -45,12 +45,12 @@ Isaac ROS Image Segmentation 提供 ROS 2 语义图像分割软件包，在 GPU 
 ```mermaid
 xychart-beta
     title "NVIDIA-ISAAC-ROS/isaac_ros_image_segmentation 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 127 --> 129
     line [128, 128]
 ```
 
-2026-10-19 128 → 2026-11-21 128（+0）
+2026-10-20 128 → 2026-11-22 128（+0）
 
 
 ---

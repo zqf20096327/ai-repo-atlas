@@ -42,6 +42,18 @@
 > L45: - **Bring your own model** - works with OpenAI, OpenRouter (including free models), Ollama, LM Studio, or any OpenA
 > L69: - Windows 10 or 11 (x64)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CrowKing63/Orbital 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 49 --> 51
+    line [50, 50]
+```
+
+2026-11-21 50 → 2026-11-22 50（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `e1280cab3e3a` · [字段定义](../../DATASET.md)*

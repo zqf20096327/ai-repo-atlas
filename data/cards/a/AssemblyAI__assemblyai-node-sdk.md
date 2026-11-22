@@ -45,12 +45,12 @@ AssemblyAI 官方 Node.js SDK（TypeScript 编写并导出全部类型），封�
 ```mermaid
 xychart-beta
     title "AssemblyAI/assemblyai-node-sdk 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-19 77 → 2026-11-21 77（+0）
+2026-10-20 77 → 2026-11-22 77（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FinancialComputingUCL/LOBFrame 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-21"]
+    title "FinancialComputingUCL/LOBFrame 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 260 --> 265
-    line [261, 263, 264]
+    line [261, 263, 264, 264]
 ```
 
-2026-11-18 261 → 2026-11-21 264（+3）
+2026-11-18 261 → 2026-11-22 264（+3）
 
 
 ---

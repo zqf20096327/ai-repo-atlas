@@ -1,6 +1,6 @@
 # biyachuev/claude-debate-skills
 
-⭐ 13 · Shell · MIT · 推送 2026-04-17 · [GitHub](https://github.com/biyachuev/claude-debate-skills) · 个人维护 · 中文 README
+⭐ 14 · Shell · MIT · 推送 2026-04-17 · [GitHub](https://github.com/biyachuev/claude-debate-skills) · 个人维护 · 中文 README
 
 **让 Claude 与 Codex 结构化辩论的 Claude Code 技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "biyachuev/claude-debate-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-21 13（+0）
+2026-10-19 13 → 2026-11-22 14（+1）
 
 
 ---

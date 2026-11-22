@@ -1,6 +1,6 @@
 # RitualDev-Lab/AgentShield
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/RitualDev-Lab/AgentShield) · [官网](https://ritualdev.in/agentshield) · 组织维护
+⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/RitualDev-Lab/AgentShield) · [官网](https://ritualdev.in/agentshield) · 组织维护
 
 **为自主 AI agent 提供凭据防泄漏与命令拦截的安全层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RitualDev-Lab/AgentShield 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 2 --> 7
+    line [3, 5, 6]
 ```
 
-2026-10-19 3 → 2026-11-21 5（+2）
+2026-10-20 3 → 2026-11-22 6（+3）
 
 
 ---

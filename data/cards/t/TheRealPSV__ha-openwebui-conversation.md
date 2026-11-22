@@ -45,12 +45,12 @@ Home Assistant 自定义集成（经 HACS 安装），将 OpenWebUI 实例接入
 ```mermaid
 xychart-beta
     title "TheRealPSV/ha-openwebui-conversation 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 49 --> 52
     line [50, 51, 51]
 ```
 
-2026-10-19 50 → 2026-11-21 51（+1）
+2026-10-20 50 → 2026-11-22 51（+1）
 
 
 ---

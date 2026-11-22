@@ -1,6 +1,6 @@
 # LunjunZhang/E-SPL
 
-⭐ 11 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/LunjunZhang/E-SPL) · [官网](https://sites.google.com/view/system-prompt-learning/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/LunjunZhang/E-SPL) · [官网](https://sites.google.com/view/system-prompt-learning/) · 个人维护
 
 **E-SPL 论文代码：演化系统提示与 RL 联合优化 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LunjunZhang/E-SPL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-21 11（+0）
+2026-10-19 11 → 2026-11-22 12（+1）
 
 
 ---

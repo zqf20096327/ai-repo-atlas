@@ -1,6 +1,6 @@
 # hughfenghen/YorZ
 
-⭐ 20 · TypeScript · LGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/hughfenghen/YorZ) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · LGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/hughfenghen/YorZ) · 个人维护 · 中文 README
 
 **面向 AI Coding Agent 的 Spec 驱动开发与可视化定制 UI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hughfenghen/YorZ 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-18", "2026-11-22"]
     y-axis "stars" 18 --> 21
     line [19, 20, 19, 20, 20]
 ```
 
-2026-10-19 19 → 2026-11-21 20（+1）
+2026-10-20 19 → 2026-11-22 20（+1）
 
 
 ---

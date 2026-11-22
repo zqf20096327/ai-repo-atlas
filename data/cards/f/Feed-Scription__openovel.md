@@ -1,6 +1,6 @@
 # Feed-Scription/openovel
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/Feed-Scription/openovel) · 个人维护
+⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/Feed-Scription/openovel) · 个人维护
 
 **本地优先的 AI 互动小说桌面应用：前台叙述流式生成，后台 agent 维护故事文件**
 
@@ -45,12 +45,12 @@ Electron 桌面应用：读者输入主角行动，前台叙述模型流式产�
 ```mermaid
 xychart-beta
     title "Feed-Scription/openovel 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 12, 14, 15, 15]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 12, 14, 15, 16]
 ```
 
-2026-10-19 12 → 2026-11-21 15（+3）
+2026-10-20 12 → 2026-11-22 16（+4）
 
 
 ---

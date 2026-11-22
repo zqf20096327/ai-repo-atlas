@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/Fraud-Detection-SQL-Supervised 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-19 33 → 2026-11-21 33（+0）
+2026-10-20 33 → 2026-11-22 33（+0）
 
 
 ---

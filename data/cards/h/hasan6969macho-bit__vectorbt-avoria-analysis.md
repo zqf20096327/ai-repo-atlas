@@ -1,6 +1,6 @@
 # hasan6969macho-bit/vectorbt-avoria-analysis
 
-⭐ 127 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis) · 个人维护
+⭐ 150 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis) · 个人维护
 
 **基于 vectorbt 的量化回测与参数扫描工具库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hasan6969macho-bit/vectorbt-avoria-analysis 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 42 --> 134
-    line [49, 127]
+    title "hasan6969macho-bit/vectorbt-avoria-analysis 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 39 --> 160
+    line [49, 127, 150]
 ```
 
-2026-11-20 49 → 2026-11-21 127（+78）
+2026-11-20 49 → 2026-11-22 150（+101）
 
 
 ---

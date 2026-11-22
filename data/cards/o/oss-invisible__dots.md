@@ -1,6 +1,6 @@
 # oss-invisible/dots
 
-⭐ 57 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/oss-invisible/dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/oss-invisible/dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
 
 **自托管反检测 AI 浏览器代理，替用户长期操作电脑任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oss-invisible/dots 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 48 --> 58
-    line [49, 53, 54, 55, 56, 57]
+    title "oss-invisible/dots 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 48 --> 59
+    line [49, 53, 54, 55, 56, 57, 58]
 ```
 
-2026-11-13 49 → 2026-11-21 57（+8）
+2026-11-13 49 → 2026-11-22 58（+9）
 
 
 ---

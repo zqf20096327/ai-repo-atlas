@@ -1,6 +1,6 @@
 # xm2284/bili-ai-favorites-organizer
 
-⭐ 8 · Svelte · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/xm2284/bili-ai-favorites-organizer) · [官网](https://raw.githubusercontent.com/xm2284/bili-ai-favorites-organizer/main/dist/bilibili-ai-favorites-organizer-pro.user.js) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **B站用户的油猴脚本：AI 自动分类整理收藏夹**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -44,13 +44,13 @@ R 语言的可解释性可视化包，围绕 'shapviz' 对象提供 SHAP 图形�
 
 ```mermaid
 xychart-beta
-    title "ModelOriented/shapviz 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "ModelOriented/shapviz 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 123 --> 126
-    line [124, 125]
+    line [124, 125, 125]
 ```
 
-2026-10-19 124 → 2026-11-21 125（+1）
+2026-10-20 124 → 2026-11-22 125（+1）
 
 
 ---

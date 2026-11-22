@@ -1,6 +1,6 @@
 # 7oMB2006/Bilibili-Video-Research
 
-⭐ 19 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/7oMB2006/Bilibili-Video-Research) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/7oMB2006/Bilibili-Video-Research) · 个人维护 · 中文 README
 
 **面向 Codex/OpenCode 的 Bilibili 视频研究 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "7oMB2006/Bilibili-Video-Research 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-22"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-19 18 → 2026-11-21 19（+1）
+2026-10-20 18 → 2026-11-22 19（+1）
 
 
 ---

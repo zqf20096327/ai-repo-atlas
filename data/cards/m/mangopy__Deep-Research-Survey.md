@@ -1,6 +1,6 @@
 # mangopy/Deep-Research-Survey
 
-⭐ 324 · 推送 2026-01-01 · [GitHub](https://github.com/mangopy/Deep-Research-Survey) · [官网](https://deep-research-survey.github.io/) · 个人维护
+⭐ 325 · 推送 2026-01-01 · [GitHub](https://github.com/mangopy/Deep-Research-Survey) · [官网](https://deep-research-survey.github.io/) · 个人维护
 
 **Deep Research 方向的系统性综述与论文阅读清单**
 
@@ -44,12 +44,12 @@ mangopy/Deep-Research-Survey 是一篇 Deep Research（深度研究系统）系�
 ```mermaid
 xychart-beta
     title "mangopy/Deep-Research-Survey 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 320 --> 325
-    line [321, 322, 323, 324, 324]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 320 --> 326
+    line [321, 322, 323, 324, 325]
 ```
 
-2026-10-19 321 → 2026-11-21 324（+3）
+2026-10-20 321 → 2026-11-22 325（+4）
 
 
 ---

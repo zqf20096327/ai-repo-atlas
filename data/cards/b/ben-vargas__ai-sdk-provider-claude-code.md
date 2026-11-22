@@ -1,6 +1,6 @@
 # ben-vargas/ai-sdk-provider-claude-code
 
-⭐ 373 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ben-vargas/ai-sdk-provider-claude-code) · 个人维护
+⭐ 374 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ben-vargas/ai-sdk-provider-claude-code) · 个人维护
 
 **让 Vercel AI SDK 通过 Claude Agent SDK 使用 Claude 的社区 provider**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ben-vargas/ai-sdk-provider-claude-code 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 368 --> 374
-    line [369, 371, 370, 372, 371, 370, 371, 373, 373]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 368 --> 375
+    line [369, 371, 370, 372, 371, 370, 371, 373, 374]
 ```
 
-2026-10-19 369 → 2026-11-21 373（+4）
+2026-10-20 369 → 2026-11-22 374（+5）
 
 
 ---

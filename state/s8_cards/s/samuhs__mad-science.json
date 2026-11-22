@@ -1,1 +1,82 @@
-{"fn": "samuhs/mad-science", "sha": "cb5e71e31d30", "source": "readme", "identity": {"one_liner": "教编码 agent 以假设驱动方式做数据科学/ML 实验的 14 个技能包", "review": "一组面向编码 agent（Claude Code、Codex、GitHub Copilot、Cursor、Gemini CLI 等）的 Agent Skills，共 14 个，按 SKILL.md 格式分发。工作流为：访谈锐化假设、先写预期再验证、切分实验流水线、在 Jupyter notebook 中实现、经审查门禁检查可复现性/固定种子/数据泄漏后放行，最终可生成结构化科学文章。经插件市场安装可自动更新，或经 skills.sh 复制可编辑文件；实现类技能依赖 Jupyter，规划类技能适用于任意仓库。", "highlights": ["假设→契约→切片→notebook→审查的主流程，各步骤产出可供下一步消费的产物", "/exp-review 审查门禁检查固定种子、依赖锁定、数据泄漏与代码质量", "同时支持 Claude Code/Codex/Copilot 插件市场与 skills.sh 跨 agent 安装", "/to-article 将实验结果转为结构化科学文章"], "use_cases": ["让编码 agent 按科研规范运行 ML 实验并保证可复现", "在动手分析前强制写下可证伪假设与成功指标", "把实验结果整理成论文级文档", "对整个项目的证据与假设做批判性复审"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "数据科学", "实验流程", "可复现性", "插件"], "domain": "开发工具/数据科学工作流", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: > **Hypothesis-driven data science** skills for coding agents (Claude Code, Codex,", "L11: **mad-science** is a set of 14 Agent Skills", "L117: /hypothesys → /to-doc → /experiment-pipeline → /let-it-rip → /exp-review"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-21", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "samuhs/mad-science",
+ "sha": "cb5e71e31d30",
+ "source": "readme",
+ "identity": {
+  "one_liner": "教编码 agent 以假设驱动方式做数据科学/ML 实验的 14 个技能包",
+  "review": "一组面向编码 agent（Claude Code、Codex、GitHub Copilot、Cursor、Gemini CLI 等）的 Agent Skills，共 14 个，按 SKILL.md 格式分发。工作流为：访谈锐化假设、先写预期再验证、切分实验流水线、在 Jupyter notebook 中实现、经审查门禁检查可复现性/固定种子/数据泄漏后放行，最终可生成结构化科学文章。经插件市场安装可自动更新，或经 skills.sh 复制可编辑文件；实现类技能依赖 Jupyter，规划类技能适用于任意仓库。",
+  "highlights": [
+   "假设→契约→切片→notebook→审查的主流程，各步骤产出可供下一步消费的产物",
+   "/exp-review 审查门禁检查固定种子、依赖锁定、数据泄漏与代码质量",
+   "同时支持 Claude Code/Codex/Copilot 插件市场与 skills.sh 跨 agent 安装",
+   "/to-article 将实验结果转为结构化科学文章"
+  ],
+  "use_cases": [
+   "让编码 agent 按科研规范运行 ML 实验并保证可复现",
+   "在动手分析前强制写下可证伪假设与成功指标",
+   "把实验结果整理成论文级文档",
+   "对整个项目的证据与假设做批判性复审"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "数据科学",
+   "实验流程",
+   "可复现性",
+   "插件"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > **Hypothesis-driven data science** skills for coding agents (Claude Code, Codex,",
+   "L11: **mad-science** is a set of 14 Agent Skills",
+   "L117: /hypothesys → /to-doc → /experiment-pipeline → /let-it-rip → /exp-review"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

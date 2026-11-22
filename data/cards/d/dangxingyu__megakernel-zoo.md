@@ -1,6 +1,6 @@
 # dangxingyu/megakernel-zoo
 
-⭐ 36 · Cuda · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/dangxingyu/megakernel-zoo) · [官网](https://dangxingyu.github.io/megakernel/) · 个人维护
+⭐ 39 · Cuda · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dangxingyu/megakernel-zoo) · [官网](https://dangxingyu.github.io/megakernel/) · 个人维护
 
 **为单一模型+GPU 编写的 megakernel LLM 解码引擎集合与服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dangxingyu/megakernel-zoo 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 30 --> 37
-    line [31, 36]
+    title "dangxingyu/megakernel-zoo 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 30 --> 40
+    line [31, 36, 39]
 ```
 
-2026-11-20 31 → 2026-11-21 36（+5）
+2026-11-20 31 → 2026-11-22 39（+8）
 
 
 ---

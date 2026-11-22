@@ -1,6 +1,6 @@
 # TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
 
-⭐ 4,027 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) · [官网](https://synapsa.realai.eu) · 组织维护
+⭐ 4,027 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) · [官网](https://synapsa.realai.eu) · 组织维护
 
 **免费动手 AI 课程库：77 节可在浏览器本地运行的自测课**
 
@@ -45,12 +45,12 @@ Synapsa 团队维护的实践型 AI 课程仓库，共 77 节通过 14 项质量
 ```mermaid
 xychart-beta
     title "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials 星数(近 13 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22"]
     y-axis "stars" 4011 --> 4029
     line [4012, 4016, 4017, 4018, 4019, 4017, 4026, 4025, 4026, 4027, 4028, 4027, 4027]
 ```
 
-2026-10-19 4,012 → 2026-11-21 4,027（+15）
+2026-10-20 4,012 → 2026-11-22 4,027（+15）
 
 
 ---

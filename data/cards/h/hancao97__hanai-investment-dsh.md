@@ -1,6 +1,6 @@
 # hancao97/hanai-investment-dsh
 
-⭐ 125 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hancao97/hanai-investment-dsh) · 个人维护 · 中文 README
+⭐ 126 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hancao97/hanai-investment-dsh) · 个人维护 · 中文 README
 
 **以 DeepSeek Harness 为内核的本地 A 股投研工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hancao97/hanai-investment-dsh 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    title "hancao97/hanai-investment-dsh 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22"]
     y-axis "stars" 117 --> 127
-    line [118, 119, 120, 118, 122, 126, 125]
+    line [118, 119, 120, 118, 122, 126, 125, 126]
 ```
 
-2026-10-19 118 → 2026-11-21 125（+7）
+2026-10-20 118 → 2026-11-22 126（+8）
 
 
 ---

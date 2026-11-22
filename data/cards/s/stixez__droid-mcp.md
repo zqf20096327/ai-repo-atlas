@@ -1,6 +1,6 @@
 # stixez/droid-mcp
 
-⭐ 53 · Kotlin · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stixez/droid-mcp) · [官网](https://stixez.github.io/droid-mcp/) · 个人维护
+⭐ 56 · Kotlin · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stixez/droid-mcp) · [官网](https://stixez.github.io/droid-mcp/) · 个人维护
 
 **Android SDK 与 MCP 服务器：让 LLM 调用手机 157 种工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stixez/droid-mcp 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 38 --> 54
-    line [39, 40, 42, 44, 45, 47, 50, 53]
+    title "stixez/droid-mcp 星数(近 9 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 38 --> 57
+    line [39, 40, 42, 44, 45, 47, 50, 53, 56]
 ```
 
-2026-10-19 39 → 2026-11-21 53（+14）
+2026-10-20 39 → 2026-11-22 56（+17）
 
 
 ---

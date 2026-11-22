@@ -1,6 +1,6 @@
 # rabuckley/GeminiDotnet
 
-⭐ 38 · C# · MIT · 推送 2026-11-13 · [GitHub](https://github.com/rabuckley/GeminiDotnet) · 个人维护
+⭐ 38 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/rabuckley/GeminiDotnet) · 个人维护
 
 **C#/.NET 调用 Google Gemini API 的轻量客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rabuckley/GeminiDotnet 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
     y-axis "stars" 37 --> 40
     line [39, 38, 38]
 ```
 
-2026-10-19 39 → 2026-11-21 38（-1）
+2026-10-20 39 → 2026-11-22 38（-1）
 
 
 ---

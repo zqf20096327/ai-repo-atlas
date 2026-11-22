@@ -1,6 +1,6 @@
 # Mr-Bingoo/seeu-computeruse
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Mr-Bingoo/seeu-computeruse) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Mr-Bingoo/seeu-computeruse) · 个人维护 · 中文 README
 
 **让 AI 在 Mac/Windows/Linux 后台看屏、点击、打字的计算机操作工具**
 
@@ -41,6 +41,18 @@ SeeU（Computer Use 谐音）以代理鼠标和悬浮窗的形式，让接入的
 > L110: python3 -m seeu install auto      # 或指定:claude | codex | cursor | trae | vscode
 > L128: - WorkBuddy、豆包 : 在它们自己的界面里新建一个自定义连接器(本机 / STDIO)，把 `python3 -m seeu mcp` 填进去；其他支持 MCP 的客户端也是这个办法。
 > L181: 7. **轻松上手不挑剔** : 一键接入，支持 MCP 和技能(Skill)，不绑定某家客户端。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Mr-Bingoo/seeu-computeruse 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-21 10 → 2026-11-22 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # aadityansha06/vecdb
 
-⭐ 18 · C · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/aadityansha06/vecdb) · 个人维护
+⭐ 18 · C · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/aadityansha06/vecdb) · 个人维护
 
 **C 从零实现的磁盘级 ANN 向量数据库，含延迟删除安全架构**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aadityansha06/vecdb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-21 18（+0）
+2026-10-19 18 → 2026-11-22 18（+0）
 
 
 ---

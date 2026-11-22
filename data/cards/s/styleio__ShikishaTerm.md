@@ -1,6 +1,6 @@
 # styleio/ShikishaTerm
 
-⭐ 16 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/styleio/ShikishaTerm) · [官网](https://shikisha-term.com) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/styleio/ShikishaTerm) · [官网](https://shikisha-term.com) · 个人维护
 
 **Windows 便携终端：多 AI CLI 并排运行并互相转交任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "styleio/ShikishaTerm 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 13 --> 17
     line [14, 15, 14, 15, 16, 16]
 ```
 
-2026-10-19 14 → 2026-11-21 16（+2）
+2026-10-20 14 → 2026-11-22 16（+2）
 
 
 ---

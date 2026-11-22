@@ -1,6 +1,6 @@
 # Shreyan1/ai-text-watermark-remover
 
-⭐ 26 · Python · 推送 2026-08-16 · [GitHub](https://github.com/Shreyan1/ai-text-watermark-remover) · 个人维护
+⭐ 27 · Python · 推送 2026-08-16 · [GitHub](https://github.com/Shreyan1/ai-text-watermark-remover) · 个人维护
 
 **本地去除 AI 文本水印（SynthID-Text/KGW/Unigram）的命令行工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shreyan1/ai-text-watermark-remover 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 15 --> 27
-    line [16, 17, 19, 20, 17, 24, 25, 26, 26]
+    title "Shreyan1/ai-text-watermark-remover 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 16 --> 28
+    line [17, 19, 20, 17, 24, 25, 26, 27]
 ```
 
-2026-10-18 16 → 2026-11-21 26（+10）
+2026-10-19 17 → 2026-11-22 27（+10）
 
 
 ---

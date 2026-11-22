@@ -40,6 +40,18 @@ LLMenuBar 是原生 macOS 菜单栏应用，用于启动、停止和配置用户
 > L7: LLMenuBar is a lightweight, native macOS menu bar app that starts, stops, and configures a local inference engine th
 > L34: - Splash, installed or built separately: the Splash desktop app, the `splash` command installed with `brew install 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jiiim/llmenubar 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `87e6cab1fc3c` · [字段定义](../../DATASET.md)*

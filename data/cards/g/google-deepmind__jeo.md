@@ -1,6 +1,6 @@
 # google-deepmind/jeo
 
-⭐ 173 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/google-deepmind/jeo) · [官网](https://google-deepmind.github.io/jeo/) · 组织维护
+⭐ 174 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/google-deepmind/jeo) · [官网](https://google-deepmind.github.io/jeo/) · 组织维护
 
 **JAX 地球观测/遥感模型训练与推理框架**
 
@@ -45,12 +45,12 @@ Google DeepMind 开源的基于 JAX/Flax 的地理空间遥感与地球观测模
 ```mermaid
 xychart-beta
     title "google-deepmind/jeo 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 167 --> 174
-    line [168, 170, 171, 170, 172, 173, 173]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 167 --> 175
+    line [168, 170, 171, 170, 172, 173, 174]
 ```
 
-2026-10-19 168 → 2026-11-21 173（+5）
+2026-10-20 168 → 2026-11-22 174（+6）
 
 
 ---

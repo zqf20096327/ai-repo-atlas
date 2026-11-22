@@ -1,6 +1,6 @@
 # hexsyro/complaint-triage
 
-⭐ 46 · Jupyter Notebook · 推送 2026-10-30 · [GitHub](https://github.com/hexsyro/complaint-triage) · 个人维护
+⭐ 45 · Jupyter Notebook · 推送 2026-10-30 · [GitHub](https://github.com/hexsyro/complaint-triage) · 个人维护
 
 **多类文本分类器：把消费者投诉路由到对应产品类别**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hexsyro/complaint-triage 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 45 --> 51
-    line [50, 49, 48, 47, 46, 46]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 44 --> 51
+    line [50, 49, 48, 47, 46, 45]
 ```
 
-2026-11-08 50 → 2026-11-21 46（-4）
+2026-11-08 50 → 2026-11-22 45（-5）
 
 
 ---

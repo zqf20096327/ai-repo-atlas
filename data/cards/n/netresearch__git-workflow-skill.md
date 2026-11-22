@@ -1,6 +1,6 @@
 # netresearch/git-workflow-skill
 
-⭐ 61 · Shell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/netresearch/git-workflow-skill) · 组织维护
+⭐ 61 · Shell · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/netresearch/git-workflow-skill) · 组织维护
 
 **给 AI agent 的 Git 工作流最佳实践技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "netresearch/git-workflow-skill 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    title "netresearch/git-workflow-skill 星数(近 9 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 53 --> 62
-    line [54, 55, 57, 59, 55, 59, 60, 61]
+    line [54, 55, 57, 59, 55, 59, 60, 61, 61]
 ```
 
-2026-10-19 54 → 2026-11-21 61（+7）
+2026-10-20 54 → 2026-11-22 61（+7）
 
 
 ---

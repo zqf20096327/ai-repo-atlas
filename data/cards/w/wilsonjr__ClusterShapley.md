@@ -45,12 +45,12 @@ ClusterShapley 是解释非线性降维（DR）结果的可解释机器学习库
 ```mermaid
 xychart-beta
     title "wilsonjr/ClusterShapley 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-19 57 → 2026-11-21 57（+0）
+2026-10-20 57 → 2026-11-22 57（+0）
 
 
 ---

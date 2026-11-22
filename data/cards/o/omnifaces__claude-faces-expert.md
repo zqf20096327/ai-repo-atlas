@@ -1,6 +1,6 @@
 # omnifaces/claude-faces-expert
 
-⭐ 30 · Shell · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/omnifaces/claude-faces-expert) · 组织维护
+⭐ 30 · Shell · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/omnifaces/claude-faces-expert) · 组织维护
 
 **面向编码 Agent 的 Jakarta Faces 知识库，随装随用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "omnifaces/claude-faces-expert 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 27 --> 31
     line [28, 29, 30, 30]
 ```
 
-2026-10-19 28 → 2026-11-21 30（+2）
+2026-10-20 28 → 2026-11-22 30（+2）
 
 
 ---

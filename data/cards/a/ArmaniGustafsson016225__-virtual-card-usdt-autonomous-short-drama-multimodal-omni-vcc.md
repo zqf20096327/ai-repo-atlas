@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc 星数(近 6 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc 星数(近 7 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 0 --> 51
-    line [3, 15, 20, 24, 33, 47]
+    line [3, 15, 20, 24, 33, 47, 47]
 ```
 
-2026-11-14 3 → 2026-11-21 47（+44）
+2026-11-14 3 → 2026-11-22 47（+44）
 
 
 ---

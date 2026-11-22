@@ -1,6 +1,6 @@
 # zavi2997-droid/claude-code-agent-workspace
 
-⭐ 103 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/zavi2997-droid/claude-code-agent-workspace) · 个人维护
+⭐ 150 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/zavi2997-droid/claude-code-agent-workspace) · 个人维护
 
 **为 Claude Code agent 提供隔离工作区与编排的 Windows CLI**
 
@@ -39,6 +39,18 @@
 
 > L12: `claude-code-agent-workspace` is a command-line tool for provisioning and managing isolated workspaces for Claude C
 > L41: Claude Code Agent Workspace is a thin orchestration layer over the Claude Code CLI. It does not implement a model, 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zavi2997-droid/claude-code-agent-workspace 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 99 --> 154
+    line [103, 150]
+```
+
+2026-11-21 103 → 2026-11-22 150（+47）
 
 
 ---

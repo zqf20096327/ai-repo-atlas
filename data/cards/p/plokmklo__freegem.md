@@ -42,6 +42,18 @@
 > L10: FreeGem wraps the Gemini Web session your browser already has and re-exposes it
 > L12: API, an MCP tool server for agents, and a one-shot CLI. Existing tools connect
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "plokmklo/freegem 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `8586a4d0e600` · [字段定义](../../DATASET.md)*

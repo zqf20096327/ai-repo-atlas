@@ -1,6 +1,6 @@
 # adiled/hum
 
-⭐ 11 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/adiled/hum) · [官网](https://adiled.github.io/hum) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/adiled/hum) · [官网](https://adiled.github.io/hum) · 个人维护
 
 **自称为 agentic 内核框架的 AI 系统，用于分布式 agent 协作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adiled/hum 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-21 11（+0）
+2026-10-19 11 → 2026-11-22 11（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Afloat16/AI-Memory-Book 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-21"]
+    title "Afloat16/AI-Memory-Book 星数(近 3 点)"
+    x-axis ["2026-11-13", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-13 3 → 2026-11-21 4（+1）
+2026-11-13 3 → 2026-11-22 4（+1）
 
 
 ---

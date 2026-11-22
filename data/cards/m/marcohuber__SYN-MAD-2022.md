@@ -1,6 +1,6 @@
 # marcohuber/SYN-MAD-2022
 
-⭐ 10 · 推送 2026-11-09 · [GitHub](https://github.com/marcohuber/SYN-MAD-2022) · 组织维护
+⭐ 11 · 推送 2026-11-09 · [GitHub](https://github.com/marcohuber/SYN-MAD-2022) · 组织维护
 
 **人脸变形攻击检测竞赛的数据与基准发布仓库**
 
@@ -45,12 +45,12 @@ IJCB 2022 上举办的 SYN-MAD-2022 竞赛官方仓库，主题为基于隐私�
 ```mermaid
 xychart-beta
     title "marcohuber/SYN-MAD-2022 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-19", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-19 10 → 2026-11-21 10（+0）
+2026-11-19 10 → 2026-11-22 11（+1）
 
 
 ---

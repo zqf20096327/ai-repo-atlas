@@ -1,6 +1,6 @@
 # CarlOpenLab/Gloss
 
-⭐ 5 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/CarlOpenLab/Gloss) · [官网](https://carlopenlab.github.io/Gloss/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向开发者审查 diff 的原生 Git 客户端，含 AI 风险扫描**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

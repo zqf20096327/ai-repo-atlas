@@ -1,6 +1,6 @@
 # github/evals
 
-⭐ 16 · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/github/evals) · 组织维护
+⭐ 17 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/github/evals) · 组织维护
 
 **为 Copilot 定制（技能/Agent/MCP 工具）创建与运行可复现评测的插件**
 
@@ -44,13 +44,13 @@ GitHub 官方的 Copilot 评测插件（Preview）：把任务转化为可重复
 
 ```mermaid
 xychart-beta
-    title "github/evals 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 2 --> 17
-    line [3, 4, 5, 11, 14, 16]
+    title "github/evals 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 18
+    line [3, 4, 5, 11, 14, 16, 17]
 ```
 
-2026-11-10 3 → 2026-11-21 16（+13）
+2026-11-10 3 → 2026-11-22 17（+14）
 
 
 ---

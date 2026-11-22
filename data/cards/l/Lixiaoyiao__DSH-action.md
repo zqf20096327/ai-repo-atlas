@@ -1,6 +1,6 @@
 # Lixiaoyiao/DSH-action
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Lixiaoyiao/DSH-action) · 个人维护 · 中文 README
+⭐ 65 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Lixiaoyiao/DSH-action) · 个人维护 · 中文 README
 
 **在 GitHub Actions 中运行 DeepSeek Harness 的社区 Action：AI 审查、CI 诊断与修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lixiaoyiao/DSH-action 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 47 --> 65
-    line [48, 49, 50, 51, 56, 57, 48, 63, 64, 63, 64]
+    title "Lixiaoyiao/DSH-action 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 47 --> 66
+    line [48, 49, 50, 51, 56, 57, 48, 63, 64, 63, 64, 65]
 ```
 
-2026-10-25 48 → 2026-11-21 64（+16）
+2026-10-25 48 → 2026-11-22 65（+17）
 
 
 ---

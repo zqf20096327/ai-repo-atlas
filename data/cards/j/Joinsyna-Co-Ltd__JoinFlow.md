@@ -46,12 +46,12 @@ JoinFlow 是面向企业用户的多智能体自动化平台，内置 Browser/LL
 ```mermaid
 xychart-beta
     title "Joinsyna-Co-Ltd/JoinFlow 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 21（+0）
 
 
 ---

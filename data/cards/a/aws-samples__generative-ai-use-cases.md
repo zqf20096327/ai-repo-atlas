@@ -1,6 +1,6 @@
 # aws-samples/generative-ai-use-cases
 
-⭐ 1,403 · TypeScript · MIT-0 · 推送 2026-11-18 · [GitHub](https://github.com/aws-samples/generative-ai-use-cases) · [官网](https://aws-samples.github.io/generative-ai-use-cases/en/) · 组织维护
+⭐ 1,403 · TypeScript · MIT-0 · 推送 2026-11-21 · [GitHub](https://github.com/aws-samples/generative-ai-use-cases) · [官网](https://aws-samples.github.io/generative-ai-use-cases/en/) · 组织维护
 
 **面向企业内部安全使用生成式 AI 的业务应用平台**
 
@@ -46,13 +46,13 @@ AWS 官方 samples 出品的生成式 AI 业务应用（GenU）：以 Web 应用
 
 ```mermaid
 xychart-beta
-    title "aws-samples/generative-ai-use-cases 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-21"]
+    title "aws-samples/generative-ai-use-cases 星数(近 12 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 1389 --> 1405
-    line [1390, 1391, 1392, 1391, 1394, 1391, 1403, 1402, 1403, 1404, 1403]
+    line [1390, 1391, 1392, 1391, 1394, 1391, 1403, 1402, 1403, 1404, 1403, 1403]
 ```
 
-2026-10-19 1,390 → 2026-11-21 1,403（+13）
+2026-10-20 1,390 → 2026-11-22 1,403（+13）
 
 
 ---

@@ -46,12 +46,12 @@ SMACT（Semiconducting Materials by Analogy and Chemical Theory）是基于化�
 ```mermaid
 xychart-beta
     title "WMD-group/SMACT 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-15", "2026-11-22"]
     y-axis "stars" 145 --> 150
     line [146, 148, 149, 149]
 ```
 
-2026-10-19 146 → 2026-11-21 149（+3）
+2026-10-20 146 → 2026-11-22 149（+3）
 
 
 ---

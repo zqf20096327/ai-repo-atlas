@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "krllagent/text-watermark-roundtrip 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "krllagent/text-watermark-roundtrip 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
 ```
 
-2026-10-18 18 → 2026-11-21 19（+1）
+2026-10-19 19 → 2026-11-22 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mt-Youya/dsh-plugins
 
-⭐ 172 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Mt-Youya/dsh-plugins) · [官网](https://npmjs.com/package/@cyrusdoyle/dsh-plugins) · 个人维护 · 中文 README
+⭐ 108 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Mt-Youya/dsh-plugins) · [官网](https://npmjs.com/package/@cyrusdoyle/dsh-plugins) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的会话洞察插件集合，查看每轮喂给模型的内容**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mt-Youya/dsh-plugins 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "Mt-Youya/dsh-plugins 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 77 --> 198
-    line [87, 116, 126, 136, 146, 156, 171, 180, 188, 172]
+    line [87, 116, 126, 136, 146, 156, 171, 180, 188, 172, 108]
 ```
 
-2026-11-08 87 → 2026-11-21 172（+85）
+2026-11-08 87 → 2026-11-22 108（+21）
 
 
 ---

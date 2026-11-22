@@ -1,6 +1,6 @@
 # jk4e/list-ai-humanoid-robots
 
-⭐ 52 · 推送 2025-11-25 · [GitHub](https://github.com/jk4e/list-ai-humanoid-robots) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 人形机器人策展清单：公司、机型与演示视频链接**
 

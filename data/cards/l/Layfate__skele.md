@@ -1,6 +1,6 @@
 # Layfate/skele
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Layfate/skele) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Layfate/skele) · 个人维护
 
 **本地优先的笔记/任务/数据库工作区，可选 AI 助手**
 
@@ -47,12 +47,12 @@ Skele 是一个本地优先、无需账号与服务器的个人工作区，覆�
 ```mermaid
 xychart-beta
     title "Layfate/skele 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-16 3 → 2026-11-21 4（+1）
+2026-11-16 3 → 2026-11-22 4（+1）
 
 
 ---

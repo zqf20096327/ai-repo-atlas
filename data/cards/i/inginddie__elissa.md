@@ -1,6 +1,6 @@
 # inginddie/elissa
 
-⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/inginddie/elissa) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/inginddie/elissa) · 个人维护
 
 **给 Windows 等桌面用户一个带虚拟形象、可确认操作的语音 AI 助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "inginddie/elissa 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-10-19 4 → 2026-11-21 5（+1）
+2026-10-20 4 → 2026-11-22 5（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # colonyops/hive
 
-⭐ 43 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/colonyops/hive) · [官网](https://colonyops.github.io/hive/) · 组织维护
+⭐ 43 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/colonyops/hive) · [官网](https://colonyops.github.io/hive/) · 组织维护
 
 **管理多个 AI agent 隔离 git 会话的 CLI/TUI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "colonyops/hive 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-22"]
     y-axis "stars" 37 --> 44
     line [38, 39, 41, 42, 43, 43]
 ```
 
-2026-10-19 38 → 2026-11-21 43（+5）
+2026-10-20 38 → 2026-11-22 43（+5）
 
 
 ---

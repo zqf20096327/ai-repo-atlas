@@ -1,6 +1,6 @@
 # aliengiraffe/spotdb
 
-⭐ 21 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aliengiraffe/spotdb) · 个人维护
+⭐ 22 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aliengiraffe/spotdb) · 个人维护
 
 **面向 AI agent 的临时 SQL 数据沙箱：CSV 上传、隔离查询、带护栏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aliengiraffe/spotdb 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 22（+1）
 
 
 ---

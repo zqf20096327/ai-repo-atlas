@@ -44,13 +44,13 @@ LibreOffice Writer 的 .oxt 扩展，提供两个命令：Extend Selection（Ctr
 
 ```mermaid
 xychart-beta
-    title "balisujohn/localwriter 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    title "balisujohn/localwriter 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 182 --> 186
-    line [183, 184, 185]
+    line [183, 184, 185, 185]
 ```
 
-2026-10-19 183 → 2026-11-21 185（+2）
+2026-10-20 183 → 2026-11-22 185（+2）
 
 
 ---

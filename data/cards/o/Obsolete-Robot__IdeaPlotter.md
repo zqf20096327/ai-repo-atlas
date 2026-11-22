@@ -42,6 +42,18 @@
 > L7: Every point of light on the map is a Steam game, placed by what its store page says, so similar games sit together. 
 > L89: Steam catalog ──► store pages ──► embeddings ──► find voids ──► LLM writes a game ──► embed it, measure, revise
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Obsolete-Robot/IdeaPlotter 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `0e96f044ae17` · [字段定义](../../DATASET.md)*

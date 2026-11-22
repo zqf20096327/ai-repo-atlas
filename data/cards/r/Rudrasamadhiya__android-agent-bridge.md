@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rudrasamadhiya/android-agent-bridge 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-13", "2026-11-14", "2026-11-21"]
+    title "Rudrasamadhiya/android-agent-bridge 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6]
+    line [3, 4, 5, 6, 6]
 ```
 
-2026-11-02 3 → 2026-11-21 6（+3）
+2026-11-02 3 → 2026-11-22 6（+3）
 
 
 ---

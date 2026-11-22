@@ -1,6 +1,6 @@
 # MindFlock/MindFlock
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/MindFlock/MindFlock) · [官网](https://mindflock.ai) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/MindFlock/MindFlock) · [官网](https://mindflock.ai) · 组织维护
 
 **本地编排多个 AI 编码 agent 的桌面工作台，由工单队列驱动**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MindFlock/MindFlock 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

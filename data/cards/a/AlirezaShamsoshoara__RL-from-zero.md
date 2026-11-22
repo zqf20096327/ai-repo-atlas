@@ -40,6 +40,18 @@
 > L18: RL-from-zero is a collection of reinforcement learning agents implemented from scratch to refresh RL fundamentals a
 > L44: All agents expose a two-command Fire CLI (`train` and `demo`), use PyTorch under the hood, and save both periodic a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AlirezaShamsoshoara/RL-from-zero 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `aa42d2dc965b` · [字段定义](../../DATASET.md)*

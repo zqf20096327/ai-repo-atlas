@@ -1,6 +1,6 @@
 # nowaliraza/skills
 
-⭐ 4 · 推送 2026-11-20 · [GitHub](https://github.com/nowaliraza/skills) · 个人维护
+⭐ 4 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nowaliraza/skills) · 个人维护
 
 **面向生产环境工程师的 AI Agent 代码审查技能包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -39,6 +39,18 @@
 
 > L7: These skills build that responsibility into the agent’s workflow. They make it read before writing, trace before cha
 > L22: |Claude Code|`/plugin marketplace add nowaliraza/skills` then `/plugin install review-pr@nowaliraza-skills` or `rev
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nowaliraza/skills 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
 
 
 ---

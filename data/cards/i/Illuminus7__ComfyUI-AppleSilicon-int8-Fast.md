@@ -1,6 +1,6 @@
 # Illuminus7/ComfyUI-AppleSilicon-int8-Fast
 
-⭐ 9 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Illuminus7/ComfyUI-AppleSilicon-int8-Fast) · 个人维护
+⭐ 9 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Illuminus7/ComfyUI-AppleSilicon-int8-Fast) · 个人维护
 
 **Apple Silicon 上 ComfyUI 的 int8 加速自定义节点包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Illuminus7/ComfyUI-AppleSilicon-int8-Fast 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 3 --> 10
     line [4, 5, 6, 7, 6, 7, 9, 9]
 ```
 
-2026-10-22 4 → 2026-11-21 9（+5）
+2026-10-22 4 → 2026-11-22 9（+5）
 
 
 ---

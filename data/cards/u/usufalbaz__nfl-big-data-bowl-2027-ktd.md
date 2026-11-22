@@ -46,12 +46,12 @@ Kaggle NFL Big Data Bowl 2027 的参赛提交项目：提出 Kinetic Translation
 ```mermaid
 xychart-beta
     title "usufalbaz/nfl-big-data-bowl-2027-ktd 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-15", "2026-11-22"]
     y-axis "stars" 4 --> 8
     line [5, 6, 7, 7]
 ```
 
-2026-10-19 5 → 2026-11-21 7（+2）
+2026-10-20 5 → 2026-11-22 7（+2）
 
 
 ---

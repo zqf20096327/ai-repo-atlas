@@ -1,6 +1,6 @@
 # ly9098-prog/MemoGrad
 
-⭐ 68 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ly9098-prog/MemoGrad) · 个人维护 · 中文 README
+⭐ 70 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/ly9098-prog/MemoGrad) · [官网](https://xzshub.top/) · 个人维护 · 中文 README
 
 **408 考研刷题平台：题库治理、错题复习与 AI 导题讲解**
 
@@ -41,6 +41,18 @@
 > L30: MemoGrad 是一套完整的考研刷题平台，覆盖微信小程序端、管理后台和后端平台。项目不仅处理练习与错题记录，还治理题库版本、OCR/AI 导题、学习调度、推荐实验、权限审计和异步任务。
 > L95: - AI 统一网关：凭据集中配置、并发与限流、熔断、Token 预算、健康缓存。
 > L78: - AI 能力：题目讲解、错因分析、学习建议。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ly9098-prog/MemoGrad 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 67 --> 71
+    line [68, 70]
+```
+
+2026-11-21 68 → 2026-11-22 70（+2）
 
 
 ---

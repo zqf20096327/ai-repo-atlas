@@ -1,6 +1,6 @@
 # Rolaand-Jayz/AMD-VE
 
-⭐ 11 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Rolaand-Jayz/AMD-VE) · 个人维护
+⭐ 12 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Rolaand-Jayz/AMD-VE) · 个人维护
 
 **面向 AMD GPU 的 Linux AI 视频修复与超分应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rolaand-Jayz/AMD-VE 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "Rolaand-Jayz/AMD-VE 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 12（+2）
 
 
 ---

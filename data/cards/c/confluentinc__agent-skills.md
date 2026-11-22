@@ -1,6 +1,6 @@
 # confluentinc/agent-skills
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/confluentinc/agent-skills) · 组织维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/confluentinc/agent-skills) · 组织维护
 
 **面向流处理开发者的 AI agent 技能集（Kafka/Flink 代码生成）**
 
@@ -46,12 +46,12 @@ Confluent 维护的 AI 技能集合，供 Claude、Cursor 等编程助手加载�
 ```mermaid
 xychart-beta
     title "confluentinc/agent-skills 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 58 --> 67
-    line [59, 60, 59, 64, 65, 66, 66]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 58 --> 68
+    line [59, 60, 59, 64, 65, 66, 67]
 ```
 
-2026-10-19 59 → 2026-11-21 66（+7）
+2026-10-20 59 → 2026-11-22 67（+8）
 
 
 ---

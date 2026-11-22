@@ -44,12 +44,12 @@ Sanscript India 主办的 Autumn of Open Source 2020 活动旗下仓库，收集
 ```mermaid
 xychart-beta
     title "sanscript-tech/hacking-tools-scripts 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-19 72 → 2026-11-21 72（+0）
+2026-10-20 72 → 2026-11-22 72（+0）
 
 
 ---

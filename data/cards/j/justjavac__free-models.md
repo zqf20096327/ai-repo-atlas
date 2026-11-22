@@ -1,6 +1,6 @@
 # justjavac/free-models
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/justjavac/free-models) · [官网](https://models.denohub.com) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/justjavac/free-models) · [官网](https://models.denohub.com) · 个人维护 · 中文 README
 
 **只收录免费额度 LLM 中转站的目录站，附可编程数据端点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "justjavac/free-models 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22"]
     y-axis "stars" 29 --> 34
-    line [31, 30, 31, 30, 31, 33, 33]
+    line [31, 30, 31, 30, 31, 33, 32]
 ```
 
-2026-10-19 31 → 2026-11-21 33（+2）
+2026-10-20 31 → 2026-11-22 32（+1）
 
 
 ---

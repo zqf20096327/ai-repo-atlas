@@ -1,6 +1,6 @@
 # yugabyte/meko
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/yugabyte/meko) · [官网](https://mekodata.ai) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/yugabyte/meko) · [官网](https://mekodata.ai) · 组织维护
 
 **面向 agent 应用的上下文引擎：统一记忆、知识与决策轨迹**
 
@@ -46,12 +46,12 @@ Meko 提供一个本地运行的单二进制上下文引擎，聚合 agent 的�
 ```mermaid
 xychart-beta
     title "yugabyte/meko 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 2 --> 13
-    line [3, 9, 10, 11, 12, 12]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 2 --> 14
+    line [3, 9, 10, 11, 12, 13]
 ```
 
-2026-11-02 3 → 2026-11-21 12（+9）
+2026-11-02 3 → 2026-11-22 13（+10）
 
 
 ---

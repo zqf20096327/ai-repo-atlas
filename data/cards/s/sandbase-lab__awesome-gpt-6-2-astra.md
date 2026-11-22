@@ -1,6 +1,6 @@
 # sandbase-lab/awesome-gpt-6-2-astra
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/sandbase-lab/awesome-gpt-6-2-astra) · [官网](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra) · 组织维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/sandbase-lab/awesome-gpt-6-2-astra) · [官网](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra) · 组织维护
 
 **GPT-6.2 Astra 生成视频与提示词的策展清单**
 
@@ -41,6 +41,18 @@
 > L9: A curated list of **GPT-6.2 Astra examples**: videos, prompts and demos made with GPT-6.2 Astra, OpenAI's model anno
 > L11: **107 videos** from **83 creators** · **10** with the creator's prompt · synced daily from SandBase Lab
 > L20: |Make a video|Tutorial: prompt → HTML → MP4, with the API, the CLI and a recording script|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sandbase-lab/awesome-gpt-6-2-astra 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-21 3 → 2026-11-22 4（+1）
 
 
 ---

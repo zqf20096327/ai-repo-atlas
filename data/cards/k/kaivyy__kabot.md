@@ -1,6 +1,6 @@
 # kaivyy/kabot
 
-⭐ 21 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/kaivyy/kabot) · [官网](https://kaivyy.github.io/kabot/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/kaivyy/kabot) · [官网](https://kaivyy.github.io/kabot/) · 个人维护
 
 **运行在本地硬件上的个人自主 AI 助手，带持久记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kaivyy/kabot 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 20, 21, 21]
+    line [20, 21, 20, 21, 20]
 ```
 
-2026-10-19 20 → 2026-11-21 21（+1）
+2026-10-20 20 → 2026-11-22 20（+0）
 
 
 ---

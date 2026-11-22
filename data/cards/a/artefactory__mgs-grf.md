@@ -45,13 +45,13 @@ MGS-GRF 是一个数据预处理 Python 包，实现同名过采样策略：针�
 
 ```mermaid
 xychart-beta
-    title "artefactory/mgs-grf 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "artefactory/mgs-grf 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 56 --> 59
-    line [57, 58]
+    line [57, 58, 58]
 ```
 
-2026-10-19 57 → 2026-11-21 58（+1）
+2026-10-20 57 → 2026-11-22 58（+1）
 
 
 ---

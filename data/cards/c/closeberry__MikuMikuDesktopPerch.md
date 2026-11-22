@@ -1,6 +1,6 @@
 # closeberry/MikuMikuDesktopPerch
 
-⭐ 22 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/closeberry/MikuMikuDesktopPerch) · 个人维护
+⭐ 22 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/closeberry/MikuMikuDesktopPerch) · 个人维护
 
 **在桌面常驻显示 MMD 模型的吉祥物，支持本地 LLM 对话**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "closeberry/MikuMikuDesktopPerch 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 6 --> 23
     line [7, 17, 18, 20, 21, 7, 21, 22, 22]
 ```
 
-2026-10-25 7 → 2026-11-21 22（+15）
+2026-10-25 7 → 2026-11-22 22（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # electricsheephq/heartbeat2
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/electricsheephq/heartbeat2) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/electricsheephq/heartbeat2) · 组织维护
 
 **让 Hermes agent 在消息间隙自主工作的唤醒/监视器插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "electricsheephq/heartbeat2 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 12 --> 23
-    line [13, 14, 15, 16, 17, 19, 20, 22]
+    title "electricsheephq/heartbeat2 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 12 --> 24
+    line [13, 14, 15, 16, 17, 19, 20, 22, 23]
 ```
 
-2026-11-10 13 → 2026-11-21 22（+9）
+2026-11-10 13 → 2026-11-22 23（+10）
 
 
 ---

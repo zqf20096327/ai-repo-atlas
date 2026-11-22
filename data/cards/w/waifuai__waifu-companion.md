@@ -1,6 +1,6 @@
 # waifuai/waifu-companion
 
-⭐ 42 · JavaScript · MIT-0 · 推送 2026-11-19 · [GitHub](https://github.com/waifuai/waifu-companion) · [官网](https://waifuai.com) · 组织维护
+⭐ 43 · JavaScript · MIT-0 · 推送 2026-11-19 · [GitHub](https://github.com/waifuai/waifu-companion) · [官网](https://waifuai.com) · 组织维护
 
 **浏览器端 Live2D 桌面 AI 伴侣：语音聊天与长期记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "waifuai/waifu-companion 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 37 --> 43
-    line [38, 39, 40, 41, 42]
+    title "waifuai/waifu-companion 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 37 --> 44
+    line [38, 39, 40, 41, 42, 43]
 ```
 
-2026-10-18 38 → 2026-11-21 42（+4）
+2026-10-19 38 → 2026-11-22 43（+5）
 
 
 ---

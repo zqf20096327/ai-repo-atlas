@@ -1,6 +1,6 @@
 # sowork-dev/SoWork-Brainstorm-Kit
 
-⭐ 9 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/sowork-dev/SoWork-Brainstorm-Kit) · 个人维护 · 中文 README
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/sowork-dev/SoWork-Brainstorm-Kit) · 个人维护 · 中文 README
 
 **面向营销者与创作者的多角色 AI 头脑风暴文本包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sowork-dev/SoWork-Brainstorm-Kit 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-16", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 5 --> 10
-    line [6, 8, 9, 9]
+    x-axis ["2026-11-10", "2026-11-16", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 5 --> 11
+    line [6, 8, 9, 10]
 ```
 
-2026-11-10 6 → 2026-11-21 9（+3）
+2026-11-10 6 → 2026-11-22 10（+4）
 
 
 ---

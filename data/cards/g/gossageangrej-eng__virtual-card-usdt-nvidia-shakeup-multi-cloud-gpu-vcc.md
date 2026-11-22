@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 1 --> 40
-    line [4, 9, 13, 23, 37]
+    line [4, 9, 13, 23, 37, 37]
 ```
 
-2026-11-16 4 → 2026-11-21 37（+33）
+2026-11-16 4 → 2026-11-22 37（+33）
 
 
 ---

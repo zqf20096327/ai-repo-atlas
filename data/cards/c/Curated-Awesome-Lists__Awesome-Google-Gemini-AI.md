@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Curated-Awesome-Lists/Awesome-Google-Gemini-AI 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-19 81 → 2026-11-21 81（+0）
+2026-10-20 81 → 2026-11-22 81（+0）
 
 
 ---

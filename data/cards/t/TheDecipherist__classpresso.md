@@ -1,6 +1,6 @@
 # TheDecipherist/classpresso
 
-⭐ 79 · TypeScript · MIT · 推送 2026-06-17 · [GitHub](https://github.com/TheDecipherist/classpresso) · [官网](https://classpresso.com) · 个人维护
+⭐ 78 · TypeScript · MIT · 推送 2026-06-17 · [GitHub](https://github.com/TheDecipherist/classpresso) · [官网](https://classpresso.com) · 个人维护
 
 **构建后 CSS 工具类合并工具：压缩重复类名以加快渲染**
 
@@ -45,12 +45,12 @@ Classpresso 是一个在项目构建（npm run build）之后运行的 CLI 工�
 ```mermaid
 xychart-beta
     title "TheDecipherist/classpresso 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 77 --> 80
-    line [78, 79, 79]
+    line [78, 79, 78]
 ```
 
-2026-10-19 78 → 2026-11-21 79（+1）
+2026-10-20 78 → 2026-11-22 78（+0）
 
 
 ---

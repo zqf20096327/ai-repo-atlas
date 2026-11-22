@@ -1,6 +1,6 @@
 # GoBrrr-ai/voice-containers
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/GoBrrr-ai/voice-containers) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/GoBrrr-ai/voice-containers) · 组织维护
 
 **面向 Jetson 边缘 GPU 的语音识别与合成 Docker 镜像集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "GoBrrr-ai/voice-containers 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-22"]
     y-axis "stars" 2 --> 16
     line [3, 7, 8, 13, 15, 15]
 ```
 
-2026-11-10 3 → 2026-11-21 15（+12）
+2026-11-10 3 → 2026-11-22 15（+12）
 
 
 ---

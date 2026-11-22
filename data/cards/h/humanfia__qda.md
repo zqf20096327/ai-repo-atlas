@@ -1,6 +1,6 @@
 # humanfia/qda
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/humanfia/qda) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/humanfia/qda) · 组织维护
 
 **让编码 Agent 为 LLM 设计量化配方并产出可部署检查点**
 
@@ -40,6 +40,18 @@ QDA 是一个 LLM 量化系统：编码 Agent 为每个模型与精度提出量�
 > L7: **QDA** is a system for LLM quantization in which a coding agent designs the recipe for each model and precision.
 > L11: that stock **vLLM** or **llama.cpp** loads with no extra code.
 > L55: **Warning:** the search agent runs without asking for approval, and every job it starts runs under your user
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "humanfia/qda 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 12 --> 16
+    line [13, 15]
+```
+
+2026-11-21 13 → 2026-11-22 15（+2）
 
 
 ---

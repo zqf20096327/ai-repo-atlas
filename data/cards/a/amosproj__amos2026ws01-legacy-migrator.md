@@ -1,6 +1,6 @@
 # amosproj/amos2026ws01-legacy-migrator
 
-⭐ 6 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/amosproj/amos2026ws01-legacy-migrator) · 组织维护
+⭐ 6 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/amosproj/amos2026ws01-legacy-migrator) · 组织维护
 
 **面向软件团队的遗留系统迁移知识库原型，自然语言查询**
 
@@ -44,12 +44,12 @@ SunsetTracker 是一个原型工具，为软件团队迁移遗留系统提供支
 ```mermaid
 xychart-beta
     title "amosproj/amos2026ws01-legacy-migrator 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-21"]
+    x-axis ["2026-11-15", "2026-11-22"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-15 6 → 2026-11-21 6（+0）
+2026-11-15 6 → 2026-11-22 6（+0）
 
 
 ---

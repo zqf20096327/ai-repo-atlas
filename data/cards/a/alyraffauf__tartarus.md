@@ -1,6 +1,6 @@
 # alyraffauf/tartarus
 
-⭐ 15 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/alyraffauf/tartarus) · 个人维护
+⭐ 15 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/alyraffauf/tartarus) · 个人维护
 
 **用 Nix 声明式定义并沙箱运行 AI agent 的实验性框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alyraffauf/tartarus 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 14, 15, 15]
+    title "alyraffauf/tartarus 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-21 15（+2）
+2026-10-19 14 → 2026-11-22 15（+1）
 
 
 ---

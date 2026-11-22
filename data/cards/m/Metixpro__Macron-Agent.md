@@ -1,6 +1,6 @@
 # Metixpro/Macron-Agent
 
-⭐ 13 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Metixpro/Macron-Agent) · 个人维护 · 中文 README
+⭐ 15 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Metixpro/Macron-Agent) · 个人维护 · 中文 README
 
 **自托管的个人 AI 代理，桌面/终端/Telegram 三端执行真实任务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Metixpro/Macron-Agent 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 15]
 ```
 
-2026-11-14 12 → 2026-11-21 13（+1）
+2026-11-14 12 → 2026-11-22 15（+3）
 
 
 ---

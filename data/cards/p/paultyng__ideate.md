@@ -1,6 +1,6 @@
 # paultyng/ideate
 
-⭐ 10 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/paultyng/ideate) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/paultyng/ideate) · 个人维护
 
 **给个人开发者的本地优先 macOS 创意/在途工作管理桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "paultyng/ideate 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-21"]
+    x-axis ["2026-11-15", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-15 10 → 2026-11-21 10（+0）
+2026-11-15 10 → 2026-11-22 10（+0）
 
 
 ---

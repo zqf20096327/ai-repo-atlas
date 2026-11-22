@@ -47,12 +47,12 @@ unslop 是一个面向编码 agent（Claude Code 及任何读取 SKILL.md 的 ag
 ```mermaid
 xychart-beta
     title "SalvatoreCampagnese/unslop-skill 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-22"]
     y-axis "stars" 5 --> 13
     line [6, 12, 12]
 ```
 
-2026-11-02 6 → 2026-11-21 12（+6）
+2026-11-02 6 → 2026-11-22 12（+6）
 
 
 ---

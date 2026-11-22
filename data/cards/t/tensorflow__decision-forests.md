@@ -44,13 +44,13 @@ TensorFlow Decision Forests（TF-DF）提供在 TensorFlow/Keras 中训练、服
 
 ```mermaid
 xychart-beta
-    title "tensorflow/decision-forests 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
+    title "tensorflow/decision-forests 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22"]
     y-axis "stars" 691 --> 695
-    line [692, 693, 694, 693]
+    line [692, 693, 694, 693, 693]
 ```
 
-2026-10-19 692 → 2026-11-21 693（+1）
+2026-10-20 692 → 2026-11-22 693（+1）
 
 
 ---

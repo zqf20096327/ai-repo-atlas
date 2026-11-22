@@ -1,6 +1,6 @@
 # datalayer/mcp-compose
 
-⭐ 12 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/datalayer/mcp-compose) · [官网](https://mcp-compose.datalayer.tech) · 组织维护
+⭐ 12 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/datalayer/mcp-compose) · [官网](https://mcp-compose.datalayer.tech) · 组织维护
 
 **MCP 服务器编排管理工具：统一启动、监控与组合多个 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datalayer/mcp-compose 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

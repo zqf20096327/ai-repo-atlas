@@ -47,12 +47,12 @@ CCL（claude-codex-local）为使用 Claude Code、Codex CLI 或 Pi 终端编码
 ```mermaid
 xychart-beta
     title "luongnv89/ccl 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-19 39 → 2026-11-21 39（+0）
+2026-10-20 39 → 2026-11-22 39（+0）
 
 
 ---

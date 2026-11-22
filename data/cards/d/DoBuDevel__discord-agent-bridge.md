@@ -46,12 +46,12 @@ TypeScript 编写的 CLI 桥接工具：将 Claude Code、OpenCode 等 AI 编程
 ```mermaid
 xychart-beta
     title "DoBuDevel/discord-agent-bridge 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-19 31 → 2026-11-21 31（+0）
+2026-10-20 31 → 2026-11-22 31（+0）
 
 
 ---

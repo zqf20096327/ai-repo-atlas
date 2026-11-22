@@ -1,6 +1,6 @@
 # Prot10/MyTripPlanner
 
-⭐ 14 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Prot10/MyTripPlanner) · [官网](https://prot10.github.io/MyTripPlanner/) · 个人维护
+⭐ 14 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Prot10/MyTripPlanner) · [官网](https://prot10.github.io/MyTripPlanner/) · 个人维护
 
 **自托管公路旅行规划器：对话式 AI 代理生成真实行程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Prot10/MyTripPlanner 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-22"]
     y-axis "stars" 11 --> 15
     line [12, 13, 14, 14]
 ```
 
-2026-10-19 12 → 2026-11-21 14（+2）
+2026-10-20 12 → 2026-11-22 14（+2）
 
 
 ---

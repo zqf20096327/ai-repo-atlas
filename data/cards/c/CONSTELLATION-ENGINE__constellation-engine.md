@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CONSTELLATION-ENGINE/constellation-engine 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "CONSTELLATION-ENGINE/constellation-engine 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 70 --> 73
-    line [71, 72, 71, 72]
+    line [71, 72, 71, 72, 72]
 ```
 
-2026-10-19 71 → 2026-11-21 72（+1）
+2026-10-20 71 → 2026-11-22 72（+1）
 
 
 ---

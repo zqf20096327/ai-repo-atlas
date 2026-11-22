@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pheonix-delta/WiredBrain-Hierarchical-Rag 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "pheonix-delta/WiredBrain-Hierarchical-Rag 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 39 --> 42
-    line [40, 41]
+    line [40, 41, 41]
 ```
 
-2026-10-19 40 → 2026-11-21 41（+1）
+2026-10-20 40 → 2026-11-22 41（+1）
 
 
 ---

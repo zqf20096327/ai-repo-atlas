@@ -47,12 +47,12 @@ MSU Denver C3 实验室开发、NSF 与 NAIRR Pilot 资助的开源 LLM 应用�
 ```mermaid
 xychart-beta
     title "msu-denver/bili-core 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

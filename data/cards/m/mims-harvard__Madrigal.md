@@ -1,6 +1,6 @@
 # mims-harvard/Madrigal
 
-⭐ 45 · Jupyter Notebook · MIT · 推送 2026-09-19 · [GitHub](https://github.com/mims-harvard/Madrigal) · [官网](https://zitniklab.hms.harvard.edu/projects/Madrigal) · 组织维护
+⭐ 45 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mims-harvard/Madrigal) · [官网](https://zitniklab.hms.harvard.edu/projects/Madrigal) · 组织维护
 
 **多模态模型，从临床前数据预测药物联用效果**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mims-harvard/Madrigal 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-19 45 → 2026-11-21 45（+0）
+2026-10-20 45 → 2026-11-22 45（+0）
 
 
 ---

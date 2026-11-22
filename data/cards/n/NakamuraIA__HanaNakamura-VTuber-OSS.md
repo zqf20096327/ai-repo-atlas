@@ -1,6 +1,6 @@
 # NakamuraIA/HanaNakamura-VTuber-OSS
 
-⭐ 33 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/NakamuraIA/HanaNakamura-VTuber-OSS) · 个人维护
+⭐ 34 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/NakamuraIA/HanaNakamura-VTuber-OSS) · 个人维护
 
 **本地运行的 AI VTuber 助手：说话、听话、有记忆，数据不出机器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NakamuraIA/HanaNakamura-VTuber-OSS 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 29 --> 34
-    line [30, 32, 33, 33]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 29 --> 35
+    line [30, 32, 33, 34]
 ```
 
-2026-10-19 30 → 2026-11-21 33（+3）
+2026-10-20 30 → 2026-11-22 34（+4）
 
 
 ---

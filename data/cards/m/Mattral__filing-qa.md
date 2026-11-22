@@ -1,6 +1,6 @@
 # Mattral/filing-qa
 
-⭐ 91 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Mattral/filing-qa) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Mattral/filing-qa) · 个人维护
 
 **面向金融财报（10-K/10-Q、投资者材料）的多模态 RAG 问答系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mattral/filing-qa 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-11-10 91 → 2026-11-21 91（+0）
+2026-11-10 91 → 2026-11-22 91（+0）
 
 
 ---

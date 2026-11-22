@@ -1,6 +1,6 @@
 # aravpanwar/dsmai
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aravpanwar/dsmai) · [官网](https://dsmai.aravpanwar.com/) · 个人维护
+⭐ 37 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aravpanwar/dsmai) · [官网](https://dsmai.aravpanwar.com/) · 个人维护
 
 **现代 AI 概念依赖结构的交互式分层学习地图**
 
@@ -39,6 +39,18 @@
 
 > L5: A learning reference for modern AI. Pick any concept, from linear algebra to chat assistants, and see what it is bui
 > L19: - Study list: open a concept and choose "Study list" to get everything under it in the order to learn it, with chec
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aravpanwar/dsmai 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 39
+    line [11, 37]
+```
+
+2026-11-21 11 → 2026-11-22 37（+26）
 
 
 ---

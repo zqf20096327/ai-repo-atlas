@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/utcp-mcp
 
-⭐ 221 · Python · 推送 2026-05-03 · [GitHub](https://github.com/universal-tool-calling-protocol/utcp-mcp) · 组织维护
+⭐ 222 · Python · 推送 2026-05-03 · [GitHub](https://github.com/universal-tool-calling-protocol/utcp-mcp) · 组织维护
 
 **将 UTCP 工具生态桥接为 MCP 服务的通用网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "universal-tool-calling-protocol/utcp-mcp 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 205 --> 222
-    line [206, 207, 219, 221, 221]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 205 --> 223
+    line [206, 207, 219, 221, 222]
 ```
 
-2026-10-19 206 → 2026-11-21 221（+15）
+2026-10-20 206 → 2026-11-22 222（+16）
 
 
 ---

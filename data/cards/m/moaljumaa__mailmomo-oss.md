@@ -1,6 +1,6 @@
 # moaljumaa/mailmomo-oss
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/moaljumaa/mailmomo-oss) · 个人维护
+⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/moaljumaa/mailmomo-oss) · 个人维护
 
 **自托管、键盘优先的 AI 邮件客户端，支持任意 IMAP/SMTP 账户**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "moaljumaa/mailmomo-oss 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 7 --> 13
-    line [8, 9, 10, 9, 10, 11, 12]
+    title "moaljumaa/mailmomo-oss 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 7 --> 14
+    line [8, 9, 10, 9, 10, 11, 12, 13]
 ```
 
-2026-10-19 8 → 2026-11-21 12（+4）
+2026-10-20 8 → 2026-11-22 13（+5）
 
 
 ---

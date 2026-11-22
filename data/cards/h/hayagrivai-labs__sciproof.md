@@ -1,6 +1,6 @@
 # hayagrivai-labs/sciproof
 
-⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hayagrivai-labs/sciproof) · [官网](https://hayagrivai-labs.github.io/sciproof/) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hayagrivai-labs/sciproof) · [官网](https://hayagrivai-labs.github.io/sciproof/) · 组织维护
 
 **科研计算实验的证据记录与机器可验证工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hayagrivai-labs/sciproof 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-22", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 4 --> 14
     line [5, 6, 7, 8, 5, 13, 13]
 ```
 
-2026-10-22 5 → 2026-11-21 13（+8）
+2026-10-22 5 → 2026-11-22 13（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # piazzatron/anki-smart-notes
 
-⭐ 40 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/piazzatron/anki-smart-notes) · [官网](https://smart-notes.xyz) · 个人维护
+⭐ 40 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/piazzatron/anki-smart-notes) · [官网](https://smart-notes.xyz) · 个人维护
 
 **Anki 插件：用 AI 为卡片字段生成文本、例句、语音与图片**
 
@@ -45,12 +45,12 @@ Anki 间隔重复软件的付费插件（含免费试用）。用户可将笔记
 ```mermaid
 xychart-beta
     title "piazzatron/anki-smart-notes 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-11-08 40 → 2026-11-21 40（+0）
+2026-11-08 40 → 2026-11-22 40（+0）
 
 
 ---

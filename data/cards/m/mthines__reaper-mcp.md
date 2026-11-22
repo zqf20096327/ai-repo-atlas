@@ -42,6 +42,18 @@
 > L12: REAPER 6+
 > L13: Claude Code
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mthines/reaper-mcp 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
+```
+
+2026-11-21 39 → 2026-11-22 39（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `1d241e57d0b4` · [字段定义](../../DATASET.md)*

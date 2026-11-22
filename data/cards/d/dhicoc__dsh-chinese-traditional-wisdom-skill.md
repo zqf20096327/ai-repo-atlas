@@ -1,6 +1,6 @@
 # dhicoc/dsh-chinese-traditional-wisdom-skill
 
-⭐ 65 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/dhicoc/dsh-chinese-traditional-wisdom-skill) · 个人维护 · 中文 README
+⭐ 66 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/dhicoc/dsh-chinese-traditional-wisdom-skill) · 个人维护 · 中文 README
 
 **给 dsh 用户的中华传统智慧咨询插件：八字/紫微/六爻等本地排盘**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（dsh）的 Cordis 插件，将「玄枢」中华传统智慧 S
 ```mermaid
 xychart-beta
     title "dhicoc/dsh-chinese-traditional-wisdom-skill 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 55 --> 66
-    line [56, 57, 59, 60, 61, 62, 59, 64, 65, 65]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 55 --> 67
+    line [56, 57, 59, 60, 61, 62, 59, 64, 65, 66]
 ```
 
-2026-10-19 56 → 2026-11-21 65（+9）
+2026-10-20 56 → 2026-11-22 66（+10）
 
 
 ---

@@ -45,12 +45,12 @@ RDF 是面向 AI 编程 agent（Claude Code、Codex、Antigravity CLI、Gemini C
 ```mermaid
 xychart-beta
     title "rfxn/rdf 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-19 20 → 2026-11-21 20（+0）
+2026-10-20 20 → 2026-11-22 20（+0）
 
 
 ---

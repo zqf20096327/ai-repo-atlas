@@ -1,6 +1,6 @@
 # dodo-mojo/dodo
 
-⭐ 10 · Mojo · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/dodo-mojo/dodo) · 个人维护
+⭐ 10 · Mojo · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dodo-mojo/dodo) · 个人维护
 
 **Mojo 语言的 Web 框架，同一进程内置 AI/GPU/视觉能力**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dodo-mojo/dodo 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-11", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-21 10（+0）
+2026-11-11 10 → 2026-11-22 10（+0）
 
 
 ---

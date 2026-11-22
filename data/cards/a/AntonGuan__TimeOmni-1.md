@@ -1,6 +1,6 @@
 # AntonGuan/TimeOmni-1
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/AntonGuan/TimeOmni-1) · [官网](https://arxiv.org/abs/2509.24803) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/AntonGuan/TimeOmni-1) · [官网](https://arxiv.org/abs/2509.24803) · 组织维护
 
 **时间序列推理大模型：在 LLM 中激励复杂时序推理**
 
@@ -46,12 +46,12 @@ ICLR 2026 论文 TimeOmni-1 的官方实现仓库，提供安装、模型下载�
 ```mermaid
 xychart-beta
     title "AntonGuan/TimeOmni-1 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 47 --> 52
-    line [48, 49, 50, 49, 50, 51, 51]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 47 --> 53
+    line [48, 49, 50, 49, 50, 51, 52]
 ```
 
-2026-10-19 48 → 2026-11-21 51（+3）
+2026-10-20 48 → 2026-11-22 52（+4）
 
 
 ---

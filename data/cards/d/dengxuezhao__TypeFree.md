@@ -1,6 +1,6 @@
 # dengxuezhao/TypeFree
 
-⭐ 54 · Kotlin · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/dengxuezhao/TypeFree) · 个人维护 · 中文 README
+⭐ 57 · Kotlin · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/dengxuezhao/TypeFree) · 个人维护 · 中文 README
 
 **Android 原生 AI 语音输入法与全局悬浮胶囊（BYOK 多引擎）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dengxuezhao/TypeFree 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 0 --> 59
-    line [3, 4, 5, 11, 34, 42, 46, 49, 54]
+    title "dengxuezhao/TypeFree 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 0 --> 62
+    line [3, 4, 5, 11, 34, 42, 46, 49, 54, 57]
 ```
 
-2026-11-10 3 → 2026-11-21 54（+51）
+2026-11-10 3 → 2026-11-22 57（+54）
 
 
 ---

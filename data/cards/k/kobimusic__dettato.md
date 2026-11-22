@@ -1,6 +1,6 @@
 # kobimusic/dettato
 
-⭐ 136 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kobimusic/dettato) · [官网](https://huggingface.co/collections/kobimusic/dettato) · 个人维护
+⭐ 224 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kobimusic/dettato) · [官网](https://huggingface.co/collections/kobimusic/dettato) · 个人维护
 
 **多乐器音频转 MIDI 转录器：从录音生成按乐器分轨的 MIDI**
 
@@ -44,13 +44,13 @@ KobiMusic 的音频转 MIDI 工具：输入录音文件，输出含每件乐器�
 
 ```mermaid
 xychart-beta
-    title "kobimusic/dettato 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 0 --> 148
-    line [10, 24, 28, 40, 136]
+    title "kobimusic/dettato 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 0 --> 245
+    line [10, 24, 28, 40, 136, 224]
 ```
 
-2026-11-16 10 → 2026-11-21 136（+126）
+2026-11-16 10 → 2026-11-22 224（+214）
 
 
 ---

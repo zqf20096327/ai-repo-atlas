@@ -1,6 +1,6 @@
 # mlalejandre/LCM
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mlalejandre/LCM) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mlalejandre/LCM) · 个人维护
 
 **西班牙语研究实验：无 LLM 的对话学习概念推理系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mlalejandre/LCM 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-18", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-21 3（+0）
+2026-11-18 3 → 2026-11-22 3（+0）
 
 
 ---

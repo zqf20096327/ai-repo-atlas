@@ -1,6 +1,6 @@
 # xuya227939/full-stack
 
-⭐ 116 · TypeScript · 推送 2026-08-22 · [GitHub](https://github.com/xuya227939/full-stack) · 个人维护 · 中文 README
+⭐ 118 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/xuya227939/full-stack) · [官网](https://course.jchencode.com) · 个人维护 · 中文 README
 
 **Next.js 16 全栈项目模板：认证、支付、存储、邮件一体化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xuya227939/full-stack 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
-    y-axis "stars" 115 --> 118
-    line [117, 116, 116]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    y-axis "stars" 115 --> 119
+    line [117, 116, 118]
 ```
 
-2026-10-19 117 → 2026-11-21 116（-1）
+2026-10-20 117 → 2026-11-22 118（+1）
 
 
 ---

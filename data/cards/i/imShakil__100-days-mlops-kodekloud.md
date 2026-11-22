@@ -45,12 +45,12 @@ KodeKloud 100 Days of MLOps 课程的配套仓库，收录 100 个按天递进�
 ```mermaid
 xychart-beta
     title "imShakil/100-days-mlops-kodekloud 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-19 16 → 2026-11-21 16（+0）
+2026-10-20 16 → 2026-11-22 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # patronus-protect/decision-model-guard
 
-⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/patronus-protect/decision-model-guard) · [官网](https://patronus.studio) · 组织维护
+⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/patronus-protect/decision-model-guard) · [官网](https://patronus.studio) · 组织维护
 
 **给分类器与 LLM 裁判加护栏的库：阻止内容注入扭转判定**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "patronus-protect/decision-model-guard 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-10-26 3 → 2026-11-21 4（+1）
+2026-10-26 3 → 2026-11-22 5（+2）
 
 
 ---

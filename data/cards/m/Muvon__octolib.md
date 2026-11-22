@@ -1,6 +1,6 @@
 # Muvon/octolib
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Muvon/octolib) · [官网](https://octomind.run/product/octolib) · 个人维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Muvon/octolib) · [官网](https://octomind.run/product/octolib) · 个人维护
 
 **统一接口接入 30+ AI 提供商的 Rust 库，内置成本追踪**
 
@@ -47,12 +47,12 @@ Octolib 是一个 Rust 库，通过 `provider:model` 字符串（如 `openai:gpt
 ```mermaid
 xychart-beta
     title "Muvon/octolib 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-21 10（+0）
+2026-11-08 10 → 2026-11-22 10（+0）
 
 
 ---

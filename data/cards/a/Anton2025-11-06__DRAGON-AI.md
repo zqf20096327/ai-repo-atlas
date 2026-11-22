@@ -1,6 +1,6 @@
 # Anton2025-11-06/DRAGON-AI
 
-⭐ 209 · Vue · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Anton2025-11-06/DRAGON-AI) · 个人维护 · 中文 README
+⭐ 212 · Vue · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Anton2025-11-06/DRAGON-AI) · 个人维护 · 中文 README
 
 **给企业用的可私有部署多租户 AI 中台**
 
@@ -41,6 +41,18 @@
 > L1: # 🐉 DRAGON-AI — 可私有部署的多租户 AI 中台
 > L3: > 把 **模型网关、知识库 RAG、知识图谱、工作流编排、深度探索智能体（Harness）与企业级 RBAC** 收进同一个工作区，数据、模型与权限都由你自己掌握。
 > L16: |模型网关与模型广场|统一接入、分发、治理多供应商模型|OpenAI 兼容入口、12 类能力 × 3 供应商、申请审批、API Key|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Anton2025-11-06/DRAGON-AI 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 208 --> 213
+    line [209, 212]
+```
+
+2026-11-21 209 → 2026-11-22 212（+3）
 
 
 ---

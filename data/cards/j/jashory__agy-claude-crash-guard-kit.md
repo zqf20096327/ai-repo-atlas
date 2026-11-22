@@ -1,6 +1,6 @@
 # jashory/agy-claude-crash-guard-kit
 
-⭐ 4 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jashory/agy-claude-crash-guard-kit) · [官网](https://jashory.github.io/agy-claude-crash-guard-kit/) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jashory/agy-claude-crash-guard-kit) · [官网](https://jashory.github.io/agy-claude-crash-guard-kit/) · 组织维护
 
 **为 AI 编码代理防护 HTTP 400/30MB 崩溃的钩子工具包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jashory/agy-claude-crash-guard-kit 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-21 4（+0）
+2026-11-08 4 → 2026-11-22 4（+0）
 
 
 ---

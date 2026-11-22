@@ -1,6 +1,6 @@
 # sglogger/watermarks-remover-gui
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/sglogger/watermarks-remover-gui) · 个人维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/sglogger/watermarks-remover-gui) · 个人维护
 
 **检测并清除文本/文档/图像中 AI 水印痕迹的网页前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sglogger/watermarks-remover-gui 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-12", "2026-11-22"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-19 10 → 2026-11-21 12（+2）
+2026-10-20 10 → 2026-11-22 13（+3）
 
 
 ---

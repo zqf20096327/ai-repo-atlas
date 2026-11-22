@@ -46,12 +46,12 @@ OpenDocs 是一个 Python 库（opendocs-sdk），把 TXT、Markdown、PDF、DOC
 ```mermaid
 xychart-beta
     title "caichuanwang/OpenDocs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-21 15（+0）
+2026-10-19 15 → 2026-11-22 15（+0）
 
 
 ---

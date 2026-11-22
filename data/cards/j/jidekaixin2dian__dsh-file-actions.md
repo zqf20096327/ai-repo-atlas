@@ -1,6 +1,6 @@
 # jidekaixin2dian/dsh-file-actions
 
-⭐ 8 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jidekaixin2dian/dsh-file-actions) · [官网](https://github.com/jidekaixin2dian/dsh-file-actions#readme) · 个人维护 · 中文 README
+⭐ 8 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jidekaixin2dian/dsh-file-actions) · [官网](https://github.com/jidekaixin2dian/dsh-file-actions#readme) · 个人维护 · 中文 README
 
 **DSH 插件：右键操作 Agent 引用与交付文件，预览与复制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jidekaixin2dian/dsh-file-actions 星数(近 6 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-22"]
     y-axis "stars" 2 --> 9
     line [3, 4, 6, 7, 8, 8]
 ```
 
-2026-11-01 3 → 2026-11-21 8（+5）
+2026-11-01 3 → 2026-11-22 8（+5）
 
 
 ---

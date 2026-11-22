@@ -1,6 +1,6 @@
 # JustVugg/tools-factory
 
-⭐ 63 · Go · MIT · 推送 2026-07-06 · [GitHub](https://github.com/JustVugg/tools-factory) · 个人维护
+⭐ 64 · Go · MIT · 推送 2026-07-06 · [GitHub](https://github.com/JustVugg/tools-factory) · 个人维护
 
 **把任意 API 表面生成为经验证的 AI agent 工具（Go CLI/MCP/技能）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "JustVugg/tools-factory 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 58 --> 64
-    line [59, 60, 61, 60, 62, 63, 63]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 58 --> 65
+    line [59, 60, 61, 60, 62, 63, 64]
 ```
 
-2026-10-18 59 → 2026-11-21 63（+4）
+2026-10-19 59 → 2026-11-22 64（+5）
 
 
 ---

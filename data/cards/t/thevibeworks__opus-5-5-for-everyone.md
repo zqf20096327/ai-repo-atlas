@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thevibeworks/opus-5-5-for-everyone 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-19 3 → 2026-11-21 3（+0）
+2026-10-20 3 → 2026-11-22 3（+0）
 
 
 ---

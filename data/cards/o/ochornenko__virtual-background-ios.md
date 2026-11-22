@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ochornenko/virtual-background-ios 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-21"]
+    x-axis ["2026-11-15", "2026-11-22"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-11-15 21 → 2026-11-21 21（+0）
+2026-11-15 21 → 2026-11-22 21（+0）
 
 
 ---

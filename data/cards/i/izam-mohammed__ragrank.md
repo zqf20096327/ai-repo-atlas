@@ -47,12 +47,12 @@ RAGRank 是用于评估 LLM 应用与 RAG 流水线的 Python 库：输入问题
 ```mermaid
 xychart-beta
     title "izam-mohammed/ragrank 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-19 47 → 2026-11-21 47（+0）
+2026-10-20 47 → 2026-11-22 47（+0）
 
 
 ---

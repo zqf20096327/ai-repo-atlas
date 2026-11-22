@@ -41,6 +41,18 @@
 > L11: |1|`export_embeddings.py`|Detects and aligns each face, then extracts a 128-dim FaceNet embedding for it|
 > L13: |3|`cluster_faces.py`|Sorts the images into a nearest-neighbor chain, then splits them into KMeans clusters|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pavelkrolevets/face_clustering 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 25 --> 27
+    line [26, 26]
+```
+
+2026-11-21 26 → 2026-11-22 26（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `550dfabebadb` · [字段定义](../../DATASET.md)*

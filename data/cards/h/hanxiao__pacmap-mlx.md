@@ -1,6 +1,6 @@
 # hanxiao/pacmap-mlx
 
-⭐ 21 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/hanxiao/pacmap-mlx) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/hanxiao/pacmap-mlx) · 个人维护
 
 **Apple Silicon 上纯 MLX 实现的 PaCMAP 降维库**
 
@@ -45,12 +45,12 @@ PaCMAP（Pairwise Controlled Manifold Approximation）的纯 MLX 实现，面向
 ```mermaid
 xychart-beta
     title "hanxiao/pacmap-mlx 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 19 --> 22
+    line [21, 20]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 20（-1）
 
 
 ---

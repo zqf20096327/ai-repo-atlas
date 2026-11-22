@@ -40,6 +40,18 @@
 > L27: pip install -r requirements.txt
 > L42: Setelah perintah dijalankan, server Flask akan aktif dan Bot Telegram langsung berjalan otomatis di latar belakang 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sirrauf/SangPintar_ProVersion1 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `561626a204bb` · [字段定义](../../DATASET.md)*

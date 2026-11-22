@@ -1,6 +1,6 @@
 # bbossgroups/bboss-elastic-tran
 
-⭐ 27 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bbossgroups/bboss-elastic-tran) · [官网](http://www.bbossgroups.com) · 组织维护 · 中文 README
+⭐ 27 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/bbossgroups/bboss-elastic-tran) · [官网](http://www.bbossgroups.com) · 组织维护 · 中文 README
 
 **Java 数据采集同步 ETL 工具与 Elasticsearch ORM 客户端**
 
@@ -46,12 +46,12 @@ bboss 开源的 Java 数据工具：提供数据采集、清洗转换、入库�
 ```mermaid
 xychart-beta
     title "bbossgroups/bboss-elastic-tran 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-19 27 → 2026-11-21 27（+0）
+2026-10-20 27 → 2026-11-22 27（+0）
 
 
 ---

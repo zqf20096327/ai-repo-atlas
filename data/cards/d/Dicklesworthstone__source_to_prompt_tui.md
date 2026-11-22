@@ -1,6 +1,6 @@
 # Dicklesworthstone/source_to_prompt_tui
 
-⭐ 23 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Dicklesworthstone/source_to_prompt_tui) · 个人维护
+⭐ 23 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Dicklesworthstone/source_to_prompt_tui) · 个人维护
 
 **把源码文件组合成 LLM 提示词的终端界面工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dicklesworthstone/source_to_prompt_tui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-22"]
     y-axis "stars" 21 --> 24
     line [22, 23, 22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-21 23（+1）
+2026-10-19 22 → 2026-11-22 23（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mohamedhamdytaha/ai--manus
 
-⭐ 179 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mohamedhamdytaha/ai--manus) · 个人维护
+⭐ 175 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mohamedhamdytaha/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 
@@ -46,12 +46,12 @@ README 描述 Manus 为一个通用自主 AI Agent，可自行编写并执行脚
 ```mermaid
 xychart-beta
     title "mohamedhamdytaha/ai--manus 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22"]
     y-axis "stars" 107 --> 265
-    line [120, 252, 180, 179, 179]
+    line [120, 252, 180, 179, 175]
 ```
 
-2026-11-13 120 → 2026-11-21 179（+59）
+2026-11-13 120 → 2026-11-22 175（+55）
 
 
 ---

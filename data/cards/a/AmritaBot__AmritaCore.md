@@ -1,6 +1,6 @@
 # AmritaBot/AmritaCore
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/AmritaBot/AmritaCore) · [官网](https://core.amritabot.com/) · 组织维护 · 中文 README
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AmritaBot/AmritaCore) · [官网](https://core.amritabot.com/) · 组织维护 · 中文 README
 
 **轻量级 Python Agent 运行时框架，用于构建交互式 Agent 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmritaBot/AmritaCore 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

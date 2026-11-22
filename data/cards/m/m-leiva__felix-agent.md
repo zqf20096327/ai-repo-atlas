@@ -1,6 +1,6 @@
 # m-leiva/felix-agent
 
-⭐ 3 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/m-leiva/felix-agent) · 个人维护
+⭐ 3 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/m-leiva/felix-agent) · 个人维护
 
 **通过 WhatsApp/Telegram 管理与开发 Linux 服务器的自主 AI Agent**
 
@@ -40,6 +40,18 @@
 > L3: Félix es una plataforma de agente de inteligencia artificial autónomo de alto rendimiento desarrollada en **Go**, di
 > L31: * **Gateway de Inferencia Integrado y Rotación 429 (`internal/inference`):** Servidor proxy compatible con OpenAI (
 > L63: git clone https://github.com/m-leiva/felix-agent.git
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "m-leiva/felix-agent 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
 
 
 ---

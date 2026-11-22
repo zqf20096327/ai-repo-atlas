@@ -45,12 +45,12 @@ ICLR 2026 论文 Learning to Parallel: Accelerating Diffusion Large Language Mod
 ```mermaid
 xychart-beta
     title "ims-kdks/Learning-to-Parallel-Decoding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-21 37（+0）
+2026-10-19 37 → 2026-11-22 37（+0）
 
 
 ---

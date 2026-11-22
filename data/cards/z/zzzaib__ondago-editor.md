@@ -1,6 +1,6 @@
 # zzzaib/ondago-editor
 
-⭐ 8 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/zzzaib/ondago-editor) · [官网](www.zaan.tech) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zzzaib/ondago-editor) · [官网](www.zaan.tech) · 个人维护
 
 **离线 AI 视频剪辑桌面应用：录屏素材一键产出 YouTube 视频与 Reels**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zzzaib/ondago-editor 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
     y-axis "stars" 6 --> 9
     line [7, 8, 8]
 ```
 
-2026-10-19 7 → 2026-11-21 8（+1）
+2026-10-20 7 → 2026-11-22 8（+1）
 
 
 ---

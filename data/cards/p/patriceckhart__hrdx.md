@@ -1,6 +1,6 @@
 # patriceckhart/hrdx
 
-⭐ 50 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/patriceckhart/hrdx) · [官网](https://hrdx.dev) · 个人维护
+⭐ 50 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/patriceckhart/hrdx) · [官网](https://hrdx.dev) · 个人维护
 
 **在单个终端中并行运行多个编码 agent 的轻量终端复用器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "patriceckhart/hrdx 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-18", "2026-11-21"]
+    title "patriceckhart/hrdx 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 47 --> 51
-    line [49, 48, 49, 50]
+    line [49, 48, 49, 50, 50]
 ```
 
-2026-10-19 49 → 2026-11-21 50（+1）
+2026-10-20 49 → 2026-11-22 50（+1）
 
 
 ---

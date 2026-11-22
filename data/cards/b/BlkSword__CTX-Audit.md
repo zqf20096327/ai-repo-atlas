@@ -1,6 +1,6 @@
 # BlkSword/CTX-Audit
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/BlkSword/CTX-Audit) · [官网](https://github.com/BlkSword/CTX-Audit) · 个人维护 · 中文 README
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/BlkSword/CTX-Audit) · [官网](https://github.com/BlkSword/CTX-Audit) · 个人维护 · 中文 README
 
 **给 Rust/Java/Web 代码审计提供证据链的静态分析引擎，经 MCP 供 LLM 判定**
 
@@ -46,12 +46,12 @@ CTX-Audit 定位为代码安全事实引擎：确定性回答端点鉴权覆盖�
 ```mermaid
 xychart-beta
     title "BlkSword/CTX-Audit 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-11", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-21 10（+0）
+2026-11-11 10 → 2026-11-22 10（+0）
 
 
 ---

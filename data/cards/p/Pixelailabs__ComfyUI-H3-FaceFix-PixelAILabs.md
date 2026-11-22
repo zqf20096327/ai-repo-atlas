@@ -1,6 +1,6 @@
 # Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs
 
-⭐ 7 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs) · [官网](https://pixelailabs.com) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs) · [官网](https://pixelailabs.com) · 组织维护
 
 **ComfyUI 工作流+节点：修复 MiniMax H3 视频中的远景人脸**
 
@@ -40,6 +40,18 @@
 > L3: ### Fix melted, blurry far faces in MiniMax H3 videos. No re-render, original audio kept.
 > L5: MiniMax H3 smudges faces that are far from the camera. This workflow finds the face, redraws it big with your
 > L93: **H3 Face Size Fade (PixelAI Labs)** sits between *H3 Face Track Crop* and *H3 Face Stitch*. Faces at or under 110 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 36
+    line [7, 34]
+```
+
+2026-11-21 7 → 2026-11-22 34（+27）
 
 
 ---

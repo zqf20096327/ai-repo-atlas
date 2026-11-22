@@ -1,6 +1,6 @@
 # df0-io/df0
 
-⭐ 119 · C++ · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/df0-io/df0) · [官网](https://df0.io) · 组织维护
+⭐ 120 · C++ · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/df0-io/df0) · [官网](https://df0.io) · 组织维护
 
 **给 C++ 开发者的本地优先数据处理 SDK：构建确定性管道**
 
@@ -46,12 +46,12 @@ DF-0 是可嵌入的 C++20 数据处理 SDK，以 operator| 组合管道，覆�
 ```mermaid
 xychart-beta
     title "df0-io/df0 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 119]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 117 --> 121
+    line [118, 119, 120]
 ```
 
-2026-11-08 118 → 2026-11-21 119（+1）
+2026-11-08 118 → 2026-11-22 120（+2）
 
 
 ---

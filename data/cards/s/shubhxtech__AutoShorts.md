@@ -1,6 +1,6 @@
 # shubhxtech/AutoShorts
 
-⭐ 9 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/shubhxtech/AutoShorts) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/shubhxtech/AutoShorts) · 个人维护
 
 **本地运行的开源工具：把长视频剪成可直接发布的短视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shubhxtech/AutoShorts 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 2 --> 10
-    line [3, 5, 6, 7, 8, 9]
+    title "shubhxtech/AutoShorts 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 11
+    line [3, 5, 6, 7, 8, 9, 10]
 ```
 
-2026-11-08 3 → 2026-11-21 9（+6）
+2026-11-08 3 → 2026-11-22 10（+7）
 
 
 ---

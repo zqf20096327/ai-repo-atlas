@@ -1,6 +1,6 @@
 # reiniscimurs/DRL-robot-navigation
 
-⭐ 1,379 · Python · MIT · 推送 2025-12-13 · [GitHub](https://github.com/reiniscimurs/DRL-robot-navigation) · 个人维护
+⭐ 1,380 · Python · MIT · 推送 2025-12-13 · [GitHub](https://github.com/reiniscimurs/DRL-robot-navigation) · 个人维护
 
 **TD3 深度强化学习训练机器人导航并避障的 ROS Gazebo 实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "reiniscimurs/DRL-robot-navigation 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21"]
+    title "reiniscimurs/DRL-robot-navigation 星数(近 7 点)"
+    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-22"]
     y-axis "stars" 1376 --> 1382
-    line [1377, 1378, 1377, 1380, 1381, 1379]
+    line [1377, 1378, 1377, 1380, 1381, 1379, 1380]
 ```
 
-2026-10-19 1,377 → 2026-11-21 1,379（+2）
+2026-10-20 1,377 → 2026-11-22 1,380（+3）
 
 
 ---

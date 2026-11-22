@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-uncensored-llms
 
-⭐ 18 · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-llms) · 个人维护
+⭐ 19 · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-llms) · 个人维护
 
 **低拒绝/去审查 LLM 的溯源编目清单：区分权重与托管服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/awesome-uncensored-llms 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 7 --> 19
-    line [8, 10, 11, 12, 8, 14, 15, 16, 18, 18]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 7 --> 20
+    line [8, 10, 11, 12, 8, 14, 15, 16, 18, 19]
 ```
 
-2026-10-19 8 → 2026-11-21 18（+10）
+2026-10-20 8 → 2026-11-22 19（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # helios-base/librcsc
 
-⭐ 31 · C++ · LGPL-3.0 · 推送 2026-07-13 · [GitHub](https://github.com/helios-base/librcsc) · 组织维护
+⭐ 31 · C++ · LGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/helios-base/librcsc) · 组织维护
 
 **开发 RoboCup 足球仿真球队及工具的 C++ 基础库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "helios-base/librcsc 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-19 31 → 2026-11-21 31（+0）
+2026-10-20 31 → 2026-11-22 31（+0）
 
 
 ---

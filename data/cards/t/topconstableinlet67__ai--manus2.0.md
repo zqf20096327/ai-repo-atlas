@@ -1,6 +1,6 @@
 # topconstableinlet67/ai--manus2.0
 
-⭐ 376 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topconstableinlet67/ai--manus2.0) · 个人维护
+⭐ 373 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topconstableinlet67/ai--manus2.0) · 个人维护
 
 **面向日常任务的自主 AI Agent：自行执行代码与浏览器操作**
 
@@ -45,12 +45,12 @@ Manus 是一个自主 AI 代理，定位为个人助手：用户以自然语言�
 ```mermaid
 xychart-beta
     title "topconstableinlet67/ai--manus2.0 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 375 --> 379
-    line [378, 377, 376, 376]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 372 --> 379
+    line [378, 377, 376, 373]
 ```
 
-2026-11-15 378 → 2026-11-21 376（-2）
+2026-11-15 378 → 2026-11-22 373（-5）
 
 
 ---

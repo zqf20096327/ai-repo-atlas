@@ -1,6 +1,6 @@
 # microsoft/evolving-intent
 
-⭐ 30 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/microsoft/evolving-intent) · [官网](https://arxiv.org/abs/2607.20734) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/microsoft/evolving-intent) · [官网](https://arxiv.org/abs/2607.20734) · 组织维护
 
 **研究框架：把静态基准转为意图演变的多轮对话并评测 LLM**
 
@@ -45,12 +45,12 @@ Microsoft Research 的研究项目代码库：将 GSM8K、BIRD-SQL、BrowseComp+
 ```mermaid
 xychart-beta
     title "microsoft/evolving-intent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-11-21 30（+0）
+2026-10-19 30 → 2026-11-22 31（+1）
 
 
 ---

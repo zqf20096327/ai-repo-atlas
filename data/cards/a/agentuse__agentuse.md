@@ -1,6 +1,6 @@
 # agentuse/agentuse
 
-⭐ 208 · TypeScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/agentuse/agentuse) · [官网](https://docs.agentuse.io) · 组织维护
+⭐ 208 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/agentuse/agentuse) · [官网](https://docs.agentuse.io) · 组织维护
 
 **开源 AI agent 运行时：用 Markdown 定义并在后台运行可审批的自动化 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agentuse/agentuse 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 206 --> 209
     line [207, 208, 207, 208, 208]
 ```
 
-2026-10-19 207 → 2026-11-21 208（+1）
+2026-10-20 207 → 2026-11-22 208（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Newelle（GNOME 平台的本地 AI 助手）的扩展：LLM 可打开 Newelle �
 ```mermaid
 xychart-beta
     title "FrancescoCaracciolo/AI-WebNavigator 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
     y-axis "stars" 57 --> 60
     line [58, 59, 59]
 ```
 
-2026-10-19 58 → 2026-11-21 59（+1）
+2026-10-20 58 → 2026-11-22 59（+1）
 
 
 ---

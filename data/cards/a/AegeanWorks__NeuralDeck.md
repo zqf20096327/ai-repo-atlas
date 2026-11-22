@@ -1,6 +1,6 @@
 # AegeanWorks/NeuralDeck
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/AegeanWorks/NeuralDeck) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **离线桌面应用：用本地 LLM 把文档自动生成 Anki 记忆卡**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # dPeluChe/trs
 
-⭐ 15 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/dPeluChe/trs) · [官网](https://usetrs.dev) · 组织维护
+⭐ 15 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dPeluChe/trs) · [官网](https://usetrs.dev) · 组织维护
 
 **压缩终端输出以降低 AI 编程 agent 的 token 消耗**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dPeluChe/trs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-15", "2026-11-22"]
     y-axis "stars" 12 --> 16
     line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-21 15（+2）
+2026-10-19 13 → 2026-11-22 15（+2）
 
 
 ---

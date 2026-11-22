@@ -1,6 +1,6 @@
 # iamahsanmehmood/saie
 
-⭐ 14 · Python · MIT · 推送 2026-05-16 · [GitHub](https://github.com/iamahsanmehmood/saie) · [官网](https://github.com/iamahsanmehmood/saie) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-05-16 · [GitHub](https://github.com/iamahsanmehmood/saie) · 个人维护
 
 **让 AI agent 通过 MCP 驱动 SketchUp 2025 建模的桥接工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "iamahsanmehmood/saie 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 12 --> 15
     line [13, 14, 13, 14, 14]
 ```
 
-2026-10-19 13 → 2026-11-21 14（+1）
+2026-10-20 13 → 2026-11-22 14（+1）
 
 
 ---

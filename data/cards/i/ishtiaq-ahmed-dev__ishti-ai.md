@@ -41,6 +41,18 @@
 > L6:  Talk or type. ISHTI remembers, reminds, searches, reads your files, runs 120+ skills and plugs into any MCP tool,
 > L114: |Brain|`ishti/brain.py`|One model call over a shortlist of skills; multi-step plans become a journaled workflow|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ishtiaq-ahmed-dev/ishti-ai 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `f9ca2329625e` · [字段定义](../../DATASET.md)*

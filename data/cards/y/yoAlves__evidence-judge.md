@@ -40,6 +40,18 @@
 > L15: thin OpenCode V2 plugin (a skill plus a command) that turns a study question into
 > L21: It is built for studying and verifying claims, not for producing plausible text
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yoAlves/evidence-judge 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `677834a45da4` · [字段定义](../../DATASET.md)*

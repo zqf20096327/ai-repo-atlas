@@ -1,6 +1,6 @@
 # oracle-samples/oci-data-science-ai-samples
 
-⭐ 306 · Jupyter Notebook · UPL-1.0 · 推送 2026-10-08 · [GitHub](https://github.com/oracle-samples/oci-data-science-ai-samples) · 组织维护
+⭐ 305 · Jupyter Notebook · UPL-1.0 · 推送 2026-10-08 · [GitHub](https://github.com/oracle-samples/oci-data-science-ai-samples) · 组织维护
 
 **OCI 数据科学与 AI 服务的教程与代码示例集**
 
@@ -44,13 +44,13 @@ Oracle 官方维护的 OCI Data Science 与 AI 服务示例仓库，按主题组
 
 ```mermaid
 xychart-beta
-    title "oracle-samples/oci-data-science-ai-samples 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-21"]
+    title "oracle-samples/oci-data-science-ai-samples 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 301 --> 308
-    line [302, 303, 304, 305, 306, 307, 306]
+    line [302, 303, 304, 305, 306, 307, 306, 305]
 ```
 
-2026-10-19 302 → 2026-11-21 306（+4）
+2026-10-20 302 → 2026-11-22 305（+3）
 
 
 ---

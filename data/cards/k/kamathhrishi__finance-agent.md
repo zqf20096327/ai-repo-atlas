@@ -1,6 +1,6 @@
 # kamathhrishi/finance-agent
 
-⭐ 149 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/kamathhrishi/finance-agent) · [官网](https://www.stratalens.ai) · 个人维护
+⭐ 150 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/kamathhrishi/finance-agent) · [官网](https://www.stratalens.ai) · 个人维护
 
 **面向公众公司 SEC 文件的问答研究平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kamathhrishi/finance-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 144 --> 150
-    line [145, 146, 147, 145, 149, 149]
+    x-axis ["2026-10-19", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 144 --> 151
+    line [145, 146, 147, 145, 149, 150]
 ```
 
-2026-10-18 145 → 2026-11-21 149（+4）
+2026-10-19 145 → 2026-11-22 150（+5）
 
 
 ---

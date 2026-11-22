@@ -1,6 +1,6 @@
 # AdityaKr015/Free-Resources-for-AI-ML
 
-⭐ 23 · 推送 2026-08-16 · [GitHub](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) · 个人维护
+⭐ 24 · 推送 2026-08-16 · [GitHub](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) · 个人维护
 
 **面向学生的免费 AI/ML 训练资源清单：平台对比与上手指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AdityaKr015/Free-Resources-for-AI-ML 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-11", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-20", "2026-11-11", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-19 21 → 2026-11-21 23（+2）
+2026-10-20 21 → 2026-11-22 24（+3）
 
 
 ---

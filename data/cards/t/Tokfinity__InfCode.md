@@ -1,6 +1,6 @@
 # Tokfinity/InfCode
 
-⭐ 64 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/Tokfinity/InfCode) · [官网](https://www.tokfinity.com/infcode) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **双 agent 对抗式代码仓库 issue 自动修复系统**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

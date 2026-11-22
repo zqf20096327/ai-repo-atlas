@@ -1,6 +1,6 @@
 # MDalamin5/End-to-End-Agentic-Ai-Automation-Lab
 
-⭐ 106 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab) · [官网](https://www.linkedin.com/in/mdalamin5/) · 个人维护
+⭐ 106 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab) · [官网](https://www.linkedin.com/in/mdalamin5/) · 个人维护
 
 **多智能体与 RAG 的实操项目库：从入门到生产部署的工程示例集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MDalamin5/End-to-End-Agentic-Ai-Automation-Lab 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-20", "2026-11-22"]
     y-axis "stars" 102 --> 108
     line [103, 104, 105, 106, 107, 106, 106]
 ```
 
-2026-10-19 103 → 2026-11-21 106（+3）
+2026-10-20 103 → 2026-11-22 106（+3）
 
 
 ---

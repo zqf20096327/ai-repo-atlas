@@ -40,6 +40,18 @@
 > L12: A protocol-agnostic tool management library for function-calling LLMs.
 > L34: - **Protocol-agnostic** — register tools from native Python functions/classes, MCP servers, OpenAPI specs, or LangC
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Oaklight/toolregistry 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 66 --> 68
+    line [67, 67]
+```
+
+2026-11-21 67 → 2026-11-22 67（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `a1f37210b2bf` · [字段定义](../../DATASET.md)*

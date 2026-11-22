@@ -1,6 +1,6 @@
 # 05unique-dotcom/NatureSnap-AI
 
-⭐ 7 · HTML · MIT · 推送 2026-11-07 · [GitHub](https://github.com/05unique-dotcom/NatureSnap-AI) · [官网](https://naturesnap-ai.onrender.com/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **上传自然照片，AI 生成物种识别与户外报告的 Web 应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

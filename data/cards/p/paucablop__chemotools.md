@@ -45,12 +45,12 @@ Python 库 chemotools，将化学计量学预处理工具引入 scikit-learn 生
 ```mermaid
 xychart-beta
     title "paucablop/chemotools 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 86 --> 88
     line [87, 87]
 ```
 
-2026-10-19 87 → 2026-11-21 87（+0）
+2026-10-20 87 → 2026-11-22 87（+0）
 
 
 ---

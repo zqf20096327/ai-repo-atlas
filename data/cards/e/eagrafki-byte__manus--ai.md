@@ -1,6 +1,6 @@
 # eagrafki-byte/manus--ai
 
-⭐ 180 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/eagrafki-byte/manus--ai) · 个人维护
+⭐ 179 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/eagrafki-byte/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 
@@ -45,12 +45,12 @@ Manus 定位为自主 AI Agent，README 描述其可代替用户编写并执行�
 ```mermaid
 xychart-beta
     title "eagrafki-byte/manus--ai 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22"]
     y-axis "stars" 113 --> 265
-    line [125, 253, 181, 180, 180]
+    line [125, 253, 181, 180, 179]
 ```
 
-2026-11-13 125 → 2026-11-21 180（+55）
+2026-11-13 125 → 2026-11-22 179（+54）
 
 
 ---

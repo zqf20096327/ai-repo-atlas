@@ -1,6 +1,6 @@
 # luxdelux7/ComfyUI-Forbidden-Vision
 
-⭐ 104 · Python · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/luxdelux7/ComfyUI-Forbidden-Vision) · [官网](https://ko-fi.com/luxdelux) · 个人维护
+⭐ 105 · Python · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/luxdelux7/ComfyUI-Forbidden-Vision) · [官网](https://ko-fi.com/luxdelux) · 个人维护
 
 **ComfyUI 人脸检测/分割/修复自定义节点套件**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点集，含 Fixer（人脸检测、修复与上下文感知
 ```mermaid
 xychart-beta
     title "luxdelux7/ComfyUI-Forbidden-Vision 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-22"]
     y-axis "stars" 103 --> 106
-    line [104, 105, 104, 104]
+    line [104, 105, 104, 105]
 ```
 
-2026-10-19 104 → 2026-11-21 104（+0）
+2026-10-20 104 → 2026-11-22 105（+1）
 
 
 ---

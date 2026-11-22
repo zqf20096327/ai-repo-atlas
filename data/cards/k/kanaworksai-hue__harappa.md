@@ -1,6 +1,6 @@
 # kanaworksai-hue/harappa
 
-⭐ 5 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/harappa) · [官网](https://x.com/KanaWorks_AI) · 组织维护 · 中文 README
+⭐ 6 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/harappa) · [官网](https://x.com/KanaWorks_AI) · 组织维护 · 中文 README
 
 **一键生成动漫风草原场景的免费 Blender 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kanaworksai-hue/harappa 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-14 3 → 2026-11-21 5（+2）
+2026-11-14 3 → 2026-11-22 6（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # archid21/rightsize
 
-⭐ 46 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/archid21/rightsize) · [官网](https://aivalue.blog/rightsize) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/archid21/rightsize) · [官网](https://aivalue.blog/rightsize) · 个人维护
 
 **给 Claude Code 用户的模型路由与 token 成本控制插件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "archid21/rightsize 星数(近 7 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 18 --> 48
-    line [20, 27, 34, 40, 43, 45, 46]
+    title "archid21/rightsize 星数(近 8 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 18 --> 50
+    line [20, 27, 34, 40, 43, 45, 46, 48]
 ```
 
-2026-11-14 20 → 2026-11-21 46（+26）
+2026-11-14 20 → 2026-11-22 48（+28）
 
 
 ---

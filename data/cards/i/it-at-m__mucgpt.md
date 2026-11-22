@@ -1,6 +1,6 @@
 # it-at-m/mucgpt
 
-⭐ 68 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/it-at-m/mucgpt) · [官网](https://ki.muenchen.de/ki-systeme/mucgpt) · 组织维护
+⭐ 68 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/it-at-m/mucgpt) · [官网](https://ki.muenchen.de/ki-systeme/mucgpt) · 组织维护
 
 **面向公共管理部门的 LLM 网页助手系统，可创建共享个人助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "it-at-m/mucgpt 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 62 --> 69
-    line [63, 64, 65, 66, 67, 65, 68, 68]
+    title "it-at-m/mucgpt 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 63 --> 69
+    line [64, 65, 66, 67, 65, 68, 68]
 ```
 
-2026-10-18 63 → 2026-11-21 68（+5）
+2026-10-19 64 → 2026-11-22 68（+4）
 
 
 ---

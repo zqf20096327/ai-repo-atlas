@@ -1,6 +1,6 @@
 # gosutry/dsh-persona-select
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/gosutry/dsh-persona-select) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gosutry/dsh-persona-select) · 个人维护 · 中文 README
 
 **为 DSH 宿主注入系统提示词与上下文的插件，附人设管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gosutry/dsh-persona-select 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-11-21"]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-11-22"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-22 3 → 2026-11-21 5（+2）
+2026-10-22 3 → 2026-11-22 5（+2）
 
 
 ---

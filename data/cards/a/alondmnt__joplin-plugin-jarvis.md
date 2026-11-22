@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alondmnt/joplin-plugin-jarvis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    title "alondmnt/joplin-plugin-jarvis 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 362 --> 365
-    line [364, 363]
+    line [364, 363, 363]
 ```
 
-2026-10-18 364 → 2026-11-21 363（-1）
+2026-10-19 364 → 2026-11-22 363（-1）
 
 
 ---

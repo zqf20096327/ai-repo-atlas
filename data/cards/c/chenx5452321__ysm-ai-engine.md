@@ -1,6 +1,6 @@
 # chenx5452321/ysm-ai-engine
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/chenx5452321/ysm-ai-engine) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/chenx5452321/ysm-ai-engine) · 个人维护 · 中文 README
 
 **为 AI Agent 提供的 Minecraft YSM 模型程序化建模与校验引擎**
 
@@ -40,6 +40,18 @@
 > L16: **YSM AI Engine** 是一套面向 AI 编程助手（Antigravity、Claude Code、Cursor、Codex 等）及程序化建模工作流的开源 **Minecraft Yes Steve Model (YS
 > L17: 它让 AI 无需打开 Blockbench 图形界面，即可通过纯 Python 代码完成 **「三视图精确量尺 → 程序化体素建模与 UV 自动装箱 → 离线 SSAO / 50-50 叠图自检 & WebGL2 实时预览 → Y
 > L57: |**🤖 AI Agent 协作规范** `prompts/`|内置 `prompts/AGENT_GUIDE.md` 与 `prompts/SKILL.md`，让 AI 直接掌握 Bedrock 旋转正负号、独立眼部图层、分层片
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chenx5452321/ysm-ai-engine 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 8 --> 15
+    line [9, 14]
+```
+
+2026-11-21 9 → 2026-11-22 14（+5）
 
 
 ---

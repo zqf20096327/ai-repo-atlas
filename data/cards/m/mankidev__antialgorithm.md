@@ -1,6 +1,6 @@
 # mankidev/antialgorithm
 
-⭐ 567 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mankidev/antialgorithm) · 个人维护 · 中文 README
+⭐ 601 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mankidev/antialgorithm) · 个人维护 · 中文 README
 
 **面向创意工作的 Agent 技能：让模型脱离首个平均化选择**
 
@@ -40,6 +40,18 @@
 
 > L13: Agent skill for creative work: names, story, game ideas, posters, UI. It makes the model name its first, most avera
 > L19: ## Install
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mankidev/antialgorithm 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 564 --> 604
+    line [567, 601]
+```
+
+2026-11-21 567 → 2026-11-22 601（+34）
 
 
 ---

@@ -1,6 +1,6 @@
 # kritzerenkrieg/wagoya
 
-⭐ 3 · Go · 推送 2026-11-20 · [GitHub](https://github.com/kritzerenkrieg/wagoya) · 个人维护
+⭐ 4 · Go · 推送 2026-11-21 · [GitHub](https://github.com/kritzerenkrieg/wagoya) · 个人维护
 
 **带人群长期记忆的 WhatsApp LLM 机器人（Go 编写）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kritzerenkrieg/wagoya 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-08", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-08 3 → 2026-11-21 3（+0）
+2026-11-08 3 → 2026-11-22 4（+1）
 
 
 ---

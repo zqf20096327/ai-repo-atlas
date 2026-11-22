@@ -45,12 +45,12 @@ DAXQO 是面向 Android 手机的 Agent 工作台：Android App 提供持续对�
 ```mermaid
 xychart-beta
     title "axiomzero-qed/DAXQO 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-21 4（+0）
+2026-11-08 4 → 2026-11-22 4（+0）
 
 
 ---

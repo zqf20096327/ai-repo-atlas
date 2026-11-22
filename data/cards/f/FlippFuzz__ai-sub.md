@@ -1,6 +1,6 @@
 # FlippFuzz/ai-sub
 
-⭐ 15 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/FlippFuzz/ai-sub) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/FlippFuzz/ai-sub) · 个人维护
 
 **用 Gemini 生成视频双语字幕（原文+英译）的命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FlippFuzz/ai-sub 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

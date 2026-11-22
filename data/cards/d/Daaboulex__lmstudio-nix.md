@@ -1,6 +1,6 @@
 # Daaboulex/lmstudio-nix
 
-⭐ 11 · Nix · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Daaboulex/lmstudio-nix) · 个人维护
+⭐ 11 · Nix · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Daaboulex/lmstudio-nix) · 个人维护
 
 **为 NixOS 打包 LM Studio：本地 LLM 推理的桌面应用与无头服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Daaboulex/lmstudio-nix 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 11（+0）
 
 
 ---

@@ -45,13 +45,13 @@ PyNeuraLogic 是一个基于 Python 的可微逻辑编程框架，通过 NeuraLo
 
 ```mermaid
 xychart-beta
-    title "LukasZahradnik/PyNeuraLogic 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-10", "2026-11-21"]
+    title "LukasZahradnik/PyNeuraLogic 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-10", "2026-11-21", "2026-11-22"]
     y-axis "stars" 312 --> 316
-    line [313, 314, 315, 314]
+    line [313, 314, 315, 314, 314]
 ```
 
-2026-10-19 313 → 2026-11-21 314（+1）
+2026-10-20 313 → 2026-11-22 314（+1）
 
 
 ---

@@ -42,6 +42,18 @@ ProtoMap 由 HoundDog.ai 开发，扫描仓库中的 .proto 文件与 Go/C#/Java
 > L17: - **Ask the assistant.** It answers from your scans, with file locations, and draws diagrams, using the AI provider
 > L19: - **Give coding agents the graph.** Over MCP, with your uncommitted changes laid over the shared graph.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hounddogai/protomap 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `3686cf60d766` · [字段定义](../../DATASET.md)*

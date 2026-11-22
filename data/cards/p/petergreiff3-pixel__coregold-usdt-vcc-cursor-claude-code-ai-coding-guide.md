@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 5 --> 22
-    line [6, 21]
+    line [6, 21, 21]
 ```
 
-2026-11-20 6 → 2026-11-21 21（+15）
+2026-11-20 6 → 2026-11-22 21（+15）
 
 
 ---

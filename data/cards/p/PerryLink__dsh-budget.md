@@ -1,6 +1,6 @@
 # PerryLink/dsh-budget
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PerryLink/dsh-budget) · [官网](https://www.npmjs.com/package/dsh-budget) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/dsh-budget) · [官网](https://www.npmjs.com/package/dsh-budget) · 个人维护 · 中文 README
 
 **DSH 插件：按会话/日/月计量 token 成本、碳足迹与延迟并设预算闸门**
 
@@ -46,12 +46,12 @@ DeepSeek Harness 的社区成本治理插件：从 session/event 事件流事后
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-budget 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 12（+2）
 
 
 ---

@@ -1,10 +1,10 @@
 # SandyPandyMandy/manus--ai
 
-⭐ 201 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SandyPandyMandy/manus--ai) · 个人维护
+⭐ 197 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SandyPandyMandy/manus--ai) · 个人维护
 
-**面向个人用户的自主 AI Agent，代用户执行代码与浏览器操作**
+**面向个人用户的沙箱自主 AI Agent：代跑代码与操作浏览器**
 
-一个通用自主 AI Agent 系统，能力覆盖自动运行代码、控制浏览器（导航网页、填写表单、采集信息）、多步骤任务执行与后台个人助理。README 定位为面向家庭、学习与轻量办公场景的小型任务帮手，强调会话间一致性与低技术门槛，非企业级平台。提供下载入口（附促销码），给出 CPU/内存/存储/权限的最低与推荐配置表，无命令行安装步骤。
+README 将 Manus 描述为自主 AI Agent：用户描述任务后，agent 可自行编写并执行脚本、导航网页、填写表单、收集信息，跨多步骤完成任务，并声称跨会话记住工作模式。定位为面向家庭、学习与轻度办公的小规模任务帮手，而非企业级平台。README 提供最低硬件配置表（64 位系统、4 GB 内存）与六步上手流程，但未给出安装命令、源码或依赖说明。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 自主代码执行：代用户编写并运行脚本完成多步骤任务
-- 浏览器控制：导航网页、填表、跨页面采集信息
-- 后台常驻个人助理与跨会话任务模式记忆
-- 提供最低/推荐硬件与权限配置表
+- 自主执行代码：agent 自行运行脚本完成任务
+- 浏览器控制：导航网页、填表单、收集信息
+- 跨会话一致性：复用已学工作模式
+- 给出最低硬件配置表（64 位系统/4 GB RAM）
 
 ## 适用场景
 
-- 学习与研究中收集资料、跑小脚本、整理笔记
-- 远程办公时从多个网页采集数据并汇总
-- 把重复的填表、查网页、整理文件等琐事交给代理
+- 让 agent 自动收集多个网页的研究资料
+- 组织学习笔记并运行快速计算
+- 自动处理填表单等重复性日常事务
+- 远程办公中代为完成轻度信息汇总
 
 ## 场景标签
 
@@ -37,21 +38,21 @@
 
 ## 证据(README 行号)
 
+> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
-> L41: |**Memory (RAM)**|4 GB|8 GB or more for heavy Manus autonomous tasks|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "SandyPandyMandy/manus--ai 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22"]
     y-axis "stars" 134 --> 286
-    line [146, 274, 202, 201, 201]
+    line [146, 274, 202, 201, 197]
 ```
 
-2026-11-13 146 → 2026-11-21 201（+55）
+2026-11-13 146 → 2026-11-22 197（+51）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `148cfe63626f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `904ec7dc2a60` · [字段定义](../../DATASET.md)*

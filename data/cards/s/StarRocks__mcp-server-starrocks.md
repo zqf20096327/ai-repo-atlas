@@ -1,6 +1,6 @@
 # StarRocks/mcp-server-starrocks
 
-⭐ 196 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/StarRocks/mcp-server-starrocks) · 组织维护
+⭐ 197 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/StarRocks/mcp-server-starrocks) · 组织维护
 
 **官方 StarRocks MCP 服务器：让 AI 助手操作 StarRocks 数据库**
 
@@ -45,12 +45,12 @@ StarRocks 官方维护的 Model Context Protocol 服务器，作为 AI 助手与
 ```mermaid
 xychart-beta
     title "StarRocks/mcp-server-starrocks 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 194 --> 197
-    line [195, 196, 195, 196, 196]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 194 --> 198
+    line [195, 196, 195, 196, 197]
 ```
 
-2026-10-19 195 → 2026-11-21 196（+1）
+2026-10-20 195 → 2026-11-22 197（+2）
 
 
 ---

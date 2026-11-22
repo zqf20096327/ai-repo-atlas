@@ -46,13 +46,13 @@ harbor-voice 在 Harbor 基础设施上扩展语音 agent 评测：每个基准�
 
 ```mermaid
 xychart-beta
-    title "amoh-ai/harbor-voice 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
+    title "amoh-ai/harbor-voice 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 6 --> 9
-    line [7, 8]
+    line [7, 8, 8]
 ```
 
-2026-11-16 7 → 2026-11-21 8（+1）
+2026-11-16 7 → 2026-11-22 8（+1）
 
 
 ---

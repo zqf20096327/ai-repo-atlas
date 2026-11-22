@@ -1,6 +1,6 @@
 # erpnextai/next_ai
 
-⭐ 32 · Python · NOASSERTION · 推送 2026-08-11 · [GitHub](https://github.com/erpnextai/next_ai) · [官网](https://www.erpnextai.in) · 组织维护
+⭐ 33 · Python · NOASSERTION · 推送 2026-08-11 · [GitHub](https://github.com/erpnextai/next_ai) · [官网](https://www.erpnextai.in) · 组织维护
 
 **为 ERPNext/Frappe 接入 Gemini 的内容生成扩展应用**
 
@@ -46,12 +46,12 @@ Frappe 定制应用，将 Google Gemini LLM 接入 ERPNext：在文本编辑器�
 ```mermaid
 xychart-beta
     title "erpnextai/next_ai 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-19 32 → 2026-11-21 32（+0）
+2026-10-20 32 → 2026-11-22 33（+1）
 
 
 ---

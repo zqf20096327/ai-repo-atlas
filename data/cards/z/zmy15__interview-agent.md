@@ -1,6 +1,6 @@
 # zmy15/interview-agent
 
-⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zmy15/interview-agent) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zmy15/interview-agent) · 个人维护 · 中文 README
 
 **基于 DeepSeek 的 AI 模拟面试平台：双视角演练 + RAG + 实时辅助**
 
@@ -47,12 +47,12 @@ FastAPI + React + DeepSeek 构建的 AI 模拟面试平台，面向求职准备�
 ```mermaid
 xychart-beta
     title "zmy15/interview-agent 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-10-19 11 → 2026-11-21 13（+2）
+2026-10-20 11 → 2026-11-22 14（+3）
 
 
 ---

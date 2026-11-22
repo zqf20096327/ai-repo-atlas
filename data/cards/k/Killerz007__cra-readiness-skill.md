@@ -1,6 +1,6 @@
 # Killerz007/cra-readiness-skill
 
-⭐ 5 · HTML · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/Killerz007/cra-readiness-skill) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向制造商的欧盟 CRA 法规就绪评估 agent 技能包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

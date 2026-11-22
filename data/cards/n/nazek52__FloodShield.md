@@ -41,6 +41,18 @@ Meta 全球 AI 开发者黑客松产出的研究原型，结合径流情景模�
 > L7: Developed as a Meta Global AI Developer Hackathon research prototype. It is not an operational flood forecast or eme
 > L17: The GitHub Pages demo runs the simulation, historical map, guided tour and manual review in your browser. Live Meta
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nazek52/FloodShield 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `2ae03ddb8470` · [字段定义](../../DATASET.md)*

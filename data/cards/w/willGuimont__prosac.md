@@ -44,12 +44,12 @@ Python 包，实现 RANSAC 与 PROSAC 两种基于随机抽样的鲁棒模型估
 ```mermaid
 xychart-beta
     title "willGuimont/prosac 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-19 48 → 2026-11-21 48（+0）
+2026-10-20 48 → 2026-11-22 48（+0）
 
 
 ---

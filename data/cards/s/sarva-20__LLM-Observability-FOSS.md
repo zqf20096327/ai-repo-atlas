@@ -1,6 +1,6 @@
 # sarva-20/LLM-Observability-FOSS
 
-⭐ 35 · Python · MIT · 推送 2026-01-07 · [GitHub](https://github.com/sarva-20/LLM-Observability-FOSS) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-01-07 · [GitHub](https://github.com/sarva-20/LLM-Observability-FOSS) · 个人维护
 
 **用 FOSS 工具逐步学习 LLM 可观测性的教程演示仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sarva-20/LLM-Observability-FOSS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 34 --> 37
-    line [36, 35, 35]
+    x-axis ["2026-10-19", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 33 --> 37
+    line [36, 35, 34]
 ```
 
-2026-10-18 36 → 2026-11-21 35（-1）
+2026-10-19 36 → 2026-11-22 34（-2）
 
 
 ---

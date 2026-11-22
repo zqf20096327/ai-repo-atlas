@@ -1,6 +1,6 @@
 # i098/Crewship
 
-⭐ 8 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/i098/Crewship) · [官网](https://crewship.si) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在一台 Ubuntu VPS 上自托管并行运行 AI 编码 agent 的工具包**
 
@@ -11,7 +11,7 @@ Crewship 把一台 Ubuntu 服务器配置为自托管的 AI 编码 agent 服务�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

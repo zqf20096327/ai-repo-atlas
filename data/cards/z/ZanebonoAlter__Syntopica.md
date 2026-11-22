@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZanebonoAlter/Syntopica 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-21"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    title "ZanebonoAlter/Syntopica 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-22"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-21 24（+2）
+2026-10-19 23 → 2026-11-22 24（+1）
 
 
 ---

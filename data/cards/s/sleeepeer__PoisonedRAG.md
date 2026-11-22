@@ -1,6 +1,6 @@
 # sleeepeer/PoisonedRAG
 
-⭐ 311 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/sleeepeer/PoisonedRAG) · [官网](https://arxiv.org/abs/2402.07867) · 个人维护
+⭐ 312 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/sleeepeer/PoisonedRAG) · [官网](https://arxiv.org/abs/2402.07867) · 个人维护
 
 **面向科研：针对 RAG 系统的知识库投毒攻击复现代码**
 
@@ -45,12 +45,12 @@ USENIX Security 2025 论文 PoisonedRAG 的官方代码，实现针对检索增�
 ```mermaid
 xychart-beta
     title "sleeepeer/PoisonedRAG 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 303 --> 312
-    line [304, 305, 306, 308, 309, 310, 311, 311]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 303 --> 313
+    line [304, 305, 306, 308, 309, 310, 311, 312]
 ```
 
-2026-10-19 304 → 2026-11-21 311（+7）
+2026-10-20 304 → 2026-11-22 312（+8）
 
 
 ---

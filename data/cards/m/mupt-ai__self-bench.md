@@ -1,6 +1,6 @@
 # mupt-ai/self-bench
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mupt-ai/self-bench) · [官网](https://selfbench.dev) · 组织维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mupt-ai/self-bench) · [官网](https://selfbench.dev) · 组织维护
 
 **用仓库自身合并 PR 构建私有评测，为代码库选模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mupt-ai/self-bench 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 30 --> 35
-    line [31, 33, 34, 33, 34, 34]
+    title "mupt-ai/self-bench 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 33, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-21 34（+3）
+2026-10-19 33 → 2026-11-22 34（+1）
 
 
 ---

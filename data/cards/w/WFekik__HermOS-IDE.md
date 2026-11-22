@@ -1,6 +1,6 @@
 # WFekik/HermOS-IDE
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/WFekik/HermOS-IDE) · [官网](https://hermos.is-a.dev/) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/WFekik/HermOS-IDE) · [官网](https://hermos.is-a.dev/) · 个人维护
 
 **本地优先的 AI 编码桌面 IDE：自主 agent 本机改码、跑终端、操作浏览器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "WFekik/HermOS-IDE 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-21"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-02", "2026-11-22"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-11-02 11 → 2026-11-21 11（+0）
+2026-11-02 11 → 2026-11-22 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cubrid-lab/cubrid-mcp-server
 
-⭐ 36 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cubrid-lab/cubrid-mcp-server) · [官网](https://cubrid-lab.github.io/cubrid-mcp-server/) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/cubrid-lab/cubrid-mcp-server) · [官网](https://cubrid-lab.github.io/cubrid-mcp-server/) · 组织维护
 
 **CUBRID 数据库的 MCP 服务器：让 LLM 安全查 schema 与执行只读查询**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cubrid-lab/cubrid-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-22"]
     y-axis "stars" 31 --> 37
     line [32, 33, 34, 32, 34, 35, 36, 36]
 ```
 
-2026-10-18 32 → 2026-11-21 36（+4）
+2026-10-19 32 → 2026-11-22 36（+4）
 
 
 ---

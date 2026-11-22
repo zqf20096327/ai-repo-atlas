@@ -1,6 +1,6 @@
 # n1dlee/friday-mobile
 
-⭐ 5 · Kotlin · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/n1dlee/friday-mobile) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Android 离线唤醒+声纹验证的语音助手，LLM Agent 操作手机**
 
@@ -11,7 +11,7 @@ Kotlin/Compose 编写的 Android 免持语音助手：离线 Vosk 关键词唤�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

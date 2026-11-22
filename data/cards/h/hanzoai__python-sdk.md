@@ -1,6 +1,6 @@
 # hanzoai/python-sdk
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hanzoai/python-sdk) · [官网](https://hanzo.ai) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/hanzoai/python-sdk) · [官网](https://hanzo.ai) · 组织维护
 
 **Hanzo AI 云平台的 Python SDK：代理、MCP、IAM、KMS 等工具集**
 
@@ -41,6 +41,18 @@
 > L3: `hanzoai` is the Python client for the Hanzo API, generated from the API's own
 > L52: `budget`, `policy`, `audit`, `search`, `kb` and `graph` hang off the client and
 > L113: IAM is the only authority. The client holds its own application's `clientId` and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hanzoai/python-sdk 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
 
 
 ---

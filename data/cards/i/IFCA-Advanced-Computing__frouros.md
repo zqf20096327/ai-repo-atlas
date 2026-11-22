@@ -44,13 +44,13 @@ BSD-3 许可的 Python 库，提供经典与较新的漂移检测算法：概念
 
 ```mermaid
 xychart-beta
-    title "IFCA-Advanced-Computing/frouros 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "IFCA-Advanced-Computing/frouros 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 259 --> 262
-    line [260, 261]
+    line [260, 261, 261]
 ```
 
-2026-10-19 260 → 2026-11-21 261（+1）
+2026-10-20 260 → 2026-11-22 261（+1）
 
 
 ---

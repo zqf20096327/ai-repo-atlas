@@ -41,13 +41,13 @@ lucidrains 的研究性探索项目：训练开源大模型根据患者病史调
 
 ```mermaid
 xychart-beta
-    title "lucidrains/clinical-calculator-tooluse 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
+    title "lucidrains/clinical-calculator-tooluse 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-15", "2026-11-21", "2026-11-22"]
     y-axis "stars" 315 --> 319
-    line [317, 318, 316]
+    line [317, 318, 316, 316]
 ```
 
-2026-10-19 317 → 2026-11-21 316（-1）
+2026-10-20 317 → 2026-11-22 316（-1）
 
 
 ---

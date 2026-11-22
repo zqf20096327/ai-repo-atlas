@@ -1,6 +1,6 @@
 # Shashank-Tripathi-07/awesome-ml-systems-engineering
 
-⭐ 27 · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/Shashank-Tripathi-07/awesome-ml-systems-engineering) · 个人维护
+⭐ 26 · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/Shashank-Tripathi-07/awesome-ml-systems-engineering) · 个人维护
 
 **ML 系统工程资源策展清单：覆盖硬件到生产运维全栈**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Shashank-Tripathi-07/awesome-ml-systems-engineering 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 25 --> 28
+    line [27, 26]
 ```
 
-2026-10-19 27 → 2026-11-21 27（+0）
+2026-10-20 27 → 2026-11-22 26（-1）
 
 
 ---

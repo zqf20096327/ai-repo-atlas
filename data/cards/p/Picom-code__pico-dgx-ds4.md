@@ -1,6 +1,6 @@
 # Picom-code/pico-dgx-ds4
 
-⭐ 150 · Cuda · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Picom-code/pico-dgx-ds4) · 个人维护
+⭐ 151 · Cuda · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Picom-code/pico-dgx-ds4) · 个人维护
 
 **在 4 台 DGX Spark 上运行 DeepSeek V4.1 Flash 的多用户推理引擎**
 
@@ -45,13 +45,13 @@ blaesus/dsgx10 的 fork，针对 4 台 DGX Spark（GB10）通过 RoCE 交换机 
 
 ```mermaid
 xychart-beta
-    title "Picom-code/pico-dgx-ds4 星数(近 8 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 101 --> 154
-    line [105, 109, 112, 119, 124, 131, 135, 150]
+    title "Picom-code/pico-dgx-ds4 星数(近 9 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 101 --> 155
+    line [105, 109, 112, 119, 124, 131, 135, 150, 151]
 ```
 
-2026-11-13 105 → 2026-11-21 150（+45）
+2026-11-13 105 → 2026-11-22 151（+46）
 
 
 ---

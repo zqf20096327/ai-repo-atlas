@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "halilural/electron-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    title "halilural/electron-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-21", "2026-11-22"]
     y-axis "stars" 69 --> 73
-    line [70, 71, 72]
+    line [70, 71, 72, 72]
 ```
 
-2026-10-19 70 → 2026-11-21 72（+2）
+2026-10-20 70 → 2026-11-22 72（+2）
 
 
 ---

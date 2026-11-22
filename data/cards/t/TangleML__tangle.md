@@ -1,6 +1,6 @@
 # TangleML/tangle
 
-⭐ 516 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/TangleML/tangle) · [官网](https://tangleml.com/) · 个人维护
+⭐ 516 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/TangleML/tangle) · [官网](https://tangleml.com/) · 个人维护
 
 **可视化构建与运行 ML 流水线的 Web 应用，免配开发环境**
 
@@ -46,12 +46,12 @@ Tangle 是一个流水线编排 Web 应用：用户在浏览器中拖拽组件�
 ```mermaid
 xychart-beta
     title "TangleML/tangle 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 513 --> 517
     line [516, 515, 516, 515, 514, 516, 516]
 ```
 
-2026-10-19 516 → 2026-11-21 516（+0）
+2026-10-20 516 → 2026-11-22 516（+0）
 
 
 ---

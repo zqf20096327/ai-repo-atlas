@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "worldbench/awesome-spatial-intelligence 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 154 --> 158
-    line [155, 156, 157, 157]
+    title "worldbench/awesome-spatial-intelligence 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 155 --> 158
+    line [156, 157, 157]
 ```
 
-2026-10-18 155 → 2026-11-21 157（+2）
+2026-10-19 156 → 2026-11-22 157（+1）
 
 
 ---

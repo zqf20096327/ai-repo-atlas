@@ -1,6 +1,6 @@
 # open-spaced-repetition/srs-simulator
 
-⭐ 14 · Python · 推送 2026-07-18 · [GitHub](https://github.com/open-spaced-repetition/srs-simulator) · 组织维护
+⭐ 15 · Python · 推送 2026-07-18 · [GitHub](https://github.com/open-spaced-repetition/srs-simulator) · 组织维护
 
 **间隔重复调度器的双引擎模拟器，供大规模比较研究**
 
@@ -44,13 +44,13 @@ Python 实现的间隔重复模拟器，包含事件驱动的单用户引擎与�
 
 ```mermaid
 xychart-beta
-    title "open-spaced-repetition/srs-simulator 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14]
+    title "open-spaced-repetition/srs-simulator 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15]
 ```
 
-2026-10-19 12 → 2026-11-21 14（+2）
+2026-10-20 12 → 2026-11-22 15（+3）
 
 
 ---

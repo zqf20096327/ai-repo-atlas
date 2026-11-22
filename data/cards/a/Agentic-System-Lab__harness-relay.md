@@ -1,6 +1,6 @@
 # Agentic-System-Lab/harness-relay
 
-⭐ 35 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Agentic-System-Lab/harness-relay) · [官网](https://agentic-system-lab.github.io/harness-relay/) · 组织维护 · 中文 README
+⭐ 35 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Agentic-System-Lab/harness-relay) · [官网](https://agentic-system-lab.github.io/harness-relay/) · 组织维护 · 中文 README
 
 **本地多 coding agent 协作任务助手：12 种 agent 组队答问改码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Agentic-System-Lab/harness-relay 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-22"]
     y-axis "stars" 24 --> 36
     line [25, 27, 31, 33, 35, 35]
 ```
 
-2026-11-12 25 → 2026-11-21 35（+10）
+2026-11-12 25 → 2026-11-22 35（+10）
 
 
 ---

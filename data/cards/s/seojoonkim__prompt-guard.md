@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "seojoonkim/prompt-guard 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "seojoonkim/prompt-guard 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 179 --> 182
-    line [180, 181]
+    line [180, 181, 181]
 ```
 
-2026-10-19 180 → 2026-11-21 181（+1）
+2026-10-20 180 → 2026-11-22 181（+1）
 
 
 ---

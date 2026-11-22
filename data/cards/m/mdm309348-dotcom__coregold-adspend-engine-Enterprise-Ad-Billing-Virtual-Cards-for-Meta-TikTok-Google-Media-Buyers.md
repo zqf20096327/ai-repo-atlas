@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers 星数(近 11 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21"]
+    title "mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers 星数(近 12 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 0 --> 100
-    line [7, 11, 47, 67, 79, 83, 89, 86, 87, 88, 92]
+    line [7, 11, 47, 67, 79, 83, 89, 86, 87, 88, 92, 92]
 ```
 
-2026-10-31 7 → 2026-11-21 92（+85）
+2026-10-31 7 → 2026-11-22 92（+85）
 
 
 ---

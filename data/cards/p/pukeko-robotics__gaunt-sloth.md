@@ -45,12 +45,12 @@ Gaunt Sloth（命令 gth）是基于 LangChain.js 的命令行 AI 助手，面�
 ```mermaid
 xychart-beta
     title "pukeko-robotics/gaunt-sloth 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-22"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-19 15 → 2026-11-21 16（+1）
+2026-10-20 15 → 2026-11-22 16（+1）
 
 
 ---

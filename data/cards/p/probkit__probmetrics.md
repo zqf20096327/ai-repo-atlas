@@ -1,6 +1,6 @@
 # probkit/probmetrics
 
-⭐ 76 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/probkit/probmetrics) · 组织维护
+⭐ 77 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/probkit/probmetrics) · 组织维护
 
 **分类模型的 post-hoc 校准方法与校准度量 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "probkit/probmetrics 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 73 --> 77
-    line [74, 75, 74, 75, 76, 76]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 73 --> 78
+    line [74, 75, 74, 75, 76, 77]
 ```
 
-2026-10-19 74 → 2026-11-21 76（+2）
+2026-10-20 74 → 2026-11-22 77（+3）
 
 
 ---

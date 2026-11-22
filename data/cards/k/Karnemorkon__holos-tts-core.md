@@ -1,6 +1,6 @@
 # Karnemorkon/holos-tts-core
 
-⭐ 6 · C++ · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Karnemorkon/holos-tts-core) · 个人维护
+⭐ 7 · C++ · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Karnemorkon/holos-tts-core) · 个人维护
 
 **乌克兰语 TTS 服务：C++20+ONNX 本地语音合成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Karnemorkon/holos-tts-core 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6, 6]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 3 --> 8
+    line [4, 5, 6, 7]
 ```
 
-2026-11-08 4 → 2026-11-21 6（+2）
+2026-11-08 4 → 2026-11-22 7（+3）
 
 
 ---

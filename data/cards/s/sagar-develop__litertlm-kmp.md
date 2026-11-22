@@ -1,6 +1,6 @@
 # sagar-develop/litertlm-kmp
 
-⭐ 11 · Kotlin · AGPL-3.0 · 推送 2026-06-23 · [GitHub](https://github.com/sagar-develop/litertlm-kmp) · 个人维护
+⭐ 12 · Kotlin · AGPL-3.0 · 推送 2026-06-23 · [GitHub](https://github.com/sagar-develop/litertlm-kmp) · 个人维护
 
 **给 Android 开发者的 Gemma 端侧运行引擎库及本地聊天示例应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sagar-develop/litertlm-kmp 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-08 10 → 2026-11-21 11（+1）
+2026-11-08 10 → 2026-11-22 12（+2）
 
 
 ---

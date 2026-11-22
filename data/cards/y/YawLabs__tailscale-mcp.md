@@ -1,6 +1,6 @@
 # YawLabs/tailscale-mcp
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/YawLabs/tailscale-mcp) · [官网](https://yaw.sh/mcp-servers/tailscale-mcp/) · 组织维护
+⭐ 38 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/YawLabs/tailscale-mcp) · [官网](https://yaw.sh/mcp-servers/tailscale-mcp/) · 组织维护
 
 **让 AI 助手通过 MCP 管理 Tailscale tailnet 的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YawLabs/tailscale-mcp 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 33 --> 38
-    line [34, 35, 36, 37]
+    title "YawLabs/tailscale-mcp 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-16", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 33 --> 39
+    line [34, 35, 36, 37, 38]
 ```
 
-2026-10-19 34 → 2026-11-21 37（+3）
+2026-10-20 34 → 2026-11-22 38（+4）
 
 
 ---

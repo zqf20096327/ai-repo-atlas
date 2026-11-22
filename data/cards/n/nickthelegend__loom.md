@@ -46,13 +46,13 @@ Loom 是一个 TypeScript 编写的本地优先 CLI/应用，作为多个编码 
 
 ```mermaid
 xychart-beta
-    title "nickthelegend/loom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 9 --> 14
-    line [10, 13, 13]
+    title "nickthelegend/loom 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
 ```
 
-2026-10-18 10 → 2026-11-21 13（+3）
+2026-10-19 13 → 2026-11-22 13（+0）
 
 
 ---

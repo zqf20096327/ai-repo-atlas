@@ -1,6 +1,6 @@
 # shanhuhai12138/KnowledgeFlow-AI
 
-⭐ 10 · Java · MIT · 推送 2026-09-18 · [GitHub](https://github.com/shanhuhai12138/KnowledgeFlow-AI) · 个人维护 · 中文 README
+⭐ 11 · Java · MIT · 推送 2026-09-18 · [GitHub](https://github.com/shanhuhai12138/KnowledgeFlow-AI) · 个人维护 · 中文 README
 
 **全栈 RAG 知识库与 Agent 工作流平台，供团队搭建文档问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shanhuhai12138/KnowledgeFlow-AI 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 11（+1）
 
 
 ---

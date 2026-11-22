@@ -1,6 +1,6 @@
 # CipherNoct/douyin-cli
 
-⭐ 309 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/CipherNoct/douyin-cli) · 个人维护 · 中文 README
+⭐ 309 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/CipherNoct/douyin-cli) · 个人维护 · 中文 README
 
 **给抖音账号运营者的评论管理 CLI：抓评论并用 AI 生成回复**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "CipherNoct/douyin-cli 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    title "CipherNoct/douyin-cli 星数(近 4 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 305 --> 310
-    line [306, 307, 309]
+    line [306, 307, 309, 309]
 ```
 
-2026-11-19 306 → 2026-11-21 309（+3）
+2026-11-19 306 → 2026-11-22 309（+3）
 
 
 ---

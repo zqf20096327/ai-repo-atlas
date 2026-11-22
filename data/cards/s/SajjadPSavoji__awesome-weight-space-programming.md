@@ -1,6 +1,6 @@
 # SajjadPSavoji/awesome-weight-space-programming
 
-⭐ 8 · Python · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/SajjadPSavoji/awesome-weight-space-programming) · [官网](https://rikiyat.github.io/blog/weight-space-programming/) · 个人维护
+⭐ 9 · Python · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/SajjadPSavoji/awesome-weight-space-programming) · [官网](https://rikiyat.github.io/blog/weight-space-programming/) · 个人维护
 
 **权重空间编程论文与代码的每日更新策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SajjadPSavoji/awesome-weight-space-programming 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 3 --> 9
-    line [4, 5, 8]
+    title "SajjadPSavoji/awesome-weight-space-programming 星数(近 4 点)"
+    x-axis ["2026-11-13", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 10
+    line [4, 5, 8, 9]
 ```
 
-2026-11-13 4 → 2026-11-21 8（+4）
+2026-11-13 4 → 2026-11-22 9（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # The-AI-Alliance/open-trusted-data-initiative
 
-⭐ 20 · Jupyter Notebook · 推送 2026-10-19 · [GitHub](https://github.com/The-AI-Alliance/open-trusted-data-initiative) · [官网](https://the-ai-alliance.github.io/open-trusted-data-initiative/) · 组织维护
+⭐ 21 · Jupyter Notebook · 推送 2026-10-19 · [GitHub](https://github.com/The-AI-Alliance/open-trusted-data-initiative) · [官网](https://the-ai-alliance.github.io/open-trusted-data-initiative/) · 组织维护
 
 **AI 联盟的开放可信数据集目录计划：为 LLM 训练提供可信数据**
 
@@ -45,12 +45,12 @@ AI Alliance 的开放可信数据计划工作仓库：目标是构建面向 LLM 
 ```mermaid
 xychart-beta
     title "The-AI-Alliance/open-trusted-data-initiative 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-19 20 → 2026-11-21 20（+0）
+2026-10-20 20 → 2026-11-22 21（+1）
 
 
 ---

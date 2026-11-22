@@ -1,6 +1,6 @@
 # brianh014/inkandthread
 
-⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/brianh014/inkandthread) · 个人维护
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/brianh014/inkandthread) · 个人维护
 
 **单玩家 AI 视觉小说游戏：边玩边生成剧情与插画**
 
@@ -11,7 +11,7 @@ Ink & Thread 是一个在本地运行的单人故事游戏，玩法类似选择�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -40,6 +40,18 @@ Ink & Thread 是一个在本地运行的单人故事游戏，玩法类似选择�
 > L5:  A choose-your-own visual novel, written as you play.
 > L7: Ink & Thread is a single-player story game, played like a Telltale game or a choose-your-own-adventure book. You bui
 > L9: It runs on your own computer and talks to models you choose. Bring an OpenAI-compatible text API (OpenRouter, DeepIn
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "brianh014/inkandthread 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-21 5 → 2026-11-22 5（+0）
 
 
 ---

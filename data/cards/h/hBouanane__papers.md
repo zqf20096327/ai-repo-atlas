@@ -1,6 +1,6 @@
 # hBouanane/papers
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hBouanane/papers) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hBouanane/papers) · 个人维护
 
 **研究论文的 AI 阅读伴学工具：选文、带读、复习**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hBouanane/papers 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
     y-axis "stars" 3 --> 11
     line [4, 8, 9, 10, 10]
 ```
 
-2026-11-13 4 → 2026-11-21 10（+6）
+2026-11-13 4 → 2026-11-22 10（+6）
 
 
 ---

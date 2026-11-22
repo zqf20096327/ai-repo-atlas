@@ -44,13 +44,13 @@ Hivemoot 是一个多 AI agent 团队框架：用户在仓库中定义角色（�
 
 ```mermaid
 xychart-beta
-    title "hivemoot/hivemoot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 15 --> 18
-    line [17, 16, 16]
+    title "hivemoot/hivemoot 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
 ```
 
-2026-10-18 17 → 2026-11-21 16（-1）
+2026-10-19 16 → 2026-11-22 16（+0）
 
 
 ---

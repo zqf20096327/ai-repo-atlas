@@ -1,6 +1,6 @@
 # usnistgov/ns3-oran
 
-⭐ 58 · C++ · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/usnistgov/ns3-oran) · 组织维护
+⭐ 59 · C++ · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/usnistgov/ns3-oran) · 组织维护
 
 **NIST 开发的 ns-3 O-RAN 网络仿真建模模块**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "usnistgov/ns3-oran 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-19 58 → 2026-11-21 58（+0）
+2026-10-20 58 → 2026-11-22 59（+1）
 
 
 ---

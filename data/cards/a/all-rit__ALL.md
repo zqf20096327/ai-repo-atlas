@@ -46,12 +46,12 @@ RIT 在 NSF 资助（Grant #1825023）下维护的 Accessible Learning Labs 项�
 ```mermaid
 xychart-beta
     title "all-rit/ALL 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 11（+0）
 
 
 ---

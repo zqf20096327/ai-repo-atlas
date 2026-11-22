@@ -41,6 +41,18 @@ BAAI（智源研究院）发布的 Aquila2 系列模型官方仓库，包含 7B/
 > L95: ## Quickstart
 > L100: pip install -r requirements.txt
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FlagAI-Open/Aquila2 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 446 --> 448
+    line [447, 447]
+```
+
+2026-11-21 447 → 2026-11-22 447（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `93add6c18698` · [字段定义](../../DATASET.md)*

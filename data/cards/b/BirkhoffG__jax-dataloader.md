@@ -45,12 +45,12 @@ Python 库 jax_dataloader，将 PyTorch 风格的 DataLoader API 引入 JAX：�
 ```mermaid
 xychart-beta
     title "BirkhoffG/jax-dataloader 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-19 105 → 2026-11-21 105（+0）
+2026-10-20 105 → 2026-11-22 105（+0）
 
 
 ---

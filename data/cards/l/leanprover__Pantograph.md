@@ -1,6 +1,6 @@
 # leanprover/Pantograph
 
-⭐ 85 · Lean · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/leanprover/Pantograph) · [官网](https://git.leni.sh/aniva/Pantograph) · 组织维护
+⭐ 86 · Lean · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/leanprover/Pantograph) · [官网](https://git.leni.sh/aniva/Pantograph) · 组织维护
 
 **Lean 4 机器对机器交互系统：提供 REPL 与 FFI 接口**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "leanprover/Pantograph 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 86]
 ```
 
-2026-10-19 84 → 2026-11-21 85（+1）
+2026-10-20 84 → 2026-11-22 86（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model
 
-⭐ 47 · Python · 推送 2025-11-25 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model) · [官网](https://rice-disease-prediction-model-007.streamlit.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 CNN 的水稻叶片病害图像识别 Streamlit 应用**
 

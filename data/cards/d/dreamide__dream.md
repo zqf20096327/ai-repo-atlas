@@ -1,6 +1,6 @@
 # dreamide/dream
 
-⭐ 47 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dreamide/dream) · [官网](https://dreamide.dev) · 组织维护
+⭐ 48 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dreamide/dream) · [官网](https://dreamide.dev) · 组织维护
 
 **桌面 IDE，用于同时管理多个 AI 编码 agent**
 
@@ -45,12 +45,12 @@ Electron 桌面 IDE，面向使用 AI 编码 agent 的开发者：支持 Codex�
 ```mermaid
 xychart-beta
     title "dreamide/dream 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 44 --> 48
-    line [45, 46, 47, 46, 47, 47]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 44 --> 49
+    line [45, 46, 47, 46, 47, 48]
 ```
 
-2026-10-19 45 → 2026-11-21 47（+2）
+2026-10-20 45 → 2026-11-22 48（+3）
 
 
 ---

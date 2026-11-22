@@ -1,6 +1,6 @@
 # mistrysiddh/hermes-brain-template
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mistrysiddh/hermes-brain-template) · [官网](https://hermes-second-brain.mistrysiddh.in/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mistrysiddh/hermes-brain-template) · [官网](https://hermes-second-brain.mistrysiddh.in/) · 个人维护
 
 **给 Hermes/OpenClaw agent 配套的 Obsidian 记忆库模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mistrysiddh/hermes-brain-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-20", "2026-11-22"]
     y-axis "stars" 6 --> 12
     line [7, 10, 11, 11]
 ```
 
-2026-10-18 7 → 2026-11-21 11（+4）
+2026-10-18 7 → 2026-11-22 11（+4）
 
 
 ---

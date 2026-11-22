@@ -1,6 +1,6 @@
 # toppatronweave/GitHub-Copilot-app
 
-⭐ 379 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/toppatronweave/GitHub-Copilot-app) · 组织维护
+⭐ 376 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/toppatronweave/GitHub-Copilot-app) · 组织维护
 
 **面向 GitHub 仓库的 agent 驱动软件开发桌面应用**
 
@@ -45,12 +45,12 @@ GitHub 官方仓库发布的桌面应用，用于查找、运行、引导和落�
 ```mermaid
 xychart-beta
     title "toppatronweave/GitHub-Copilot-app 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 378 --> 382
-    line [381, 380, 379, 379]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 375 --> 382
+    line [381, 380, 379, 376]
 ```
 
-2026-11-15 381 → 2026-11-21 379（-2）
+2026-11-15 381 → 2026-11-22 376（-5）
 
 
 ---

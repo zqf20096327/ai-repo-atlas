@@ -1,6 +1,6 @@
 # Green-tero/datawhisper
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Green-tero/datawhisper) · 个人维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Green-tero/datawhisper) · 个人维护
 
 **本地优先的数据问答与 SQL PR 审计工具：自然语言查数据并审变更**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Green-tero/datawhisper 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-22"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-10-23 5 → 2026-11-21 6（+1）
+2026-10-23 5 → 2026-11-22 6（+1）
 
 
 ---

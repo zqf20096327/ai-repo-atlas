@@ -40,6 +40,18 @@
 > L5: **Turn YouTube videos, podcasts, papers, books, docs sites, and your own notes into AI agent skills.**
 > L173: The work is split in two halves. A **deterministic extractor** (Python, standard library plus optional `yt-dlp`, `
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "michalstrnadel/source-to-skill 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `ad84360bdaed` · [字段定义](../../DATASET.md)*

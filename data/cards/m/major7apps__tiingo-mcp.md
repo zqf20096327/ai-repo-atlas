@@ -1,6 +1,6 @@
 # major7apps/tiingo-mcp
 
-⭐ 12 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/major7apps/tiingo-mcp) · [官网](https://crates.io/crates/tiingo-mcp) · 组织维护
+⭐ 12 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/major7apps/tiingo-mcp) · [官网](https://crates.io/crates/tiingo-mcp) · 组织维护
 
 **Rust 编写的 Tiingo 金融数据 MCP 服务器（38 个工具）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "major7apps/tiingo-mcp 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-12", "2026-11-22"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-19 11 → 2026-11-21 12（+1）
+2026-10-20 11 → 2026-11-22 12（+1）
 
 
 ---

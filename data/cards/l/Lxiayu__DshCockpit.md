@@ -1,6 +1,6 @@
 # Lxiayu/DshCockpit
 
-⭐ 40 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Lxiayu/DshCockpit) · [官网](dshcockpit.site) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Lxiayu/DshCockpit) · [官网](dshcockpit.site) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的桌面驾驶舱：监控 Agent 团队用量成本**
 
@@ -47,12 +47,12 @@ DeepSeek Harness（dsh）的开源桌面壳（Electron），提供原生会话�
 ```mermaid
 xychart-beta
     title "Lxiayu/DshCockpit 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-19 39 → 2026-11-21 40（+1）
+2026-10-20 39 → 2026-11-22 40（+1）
 
 
 ---

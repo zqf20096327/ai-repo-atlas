@@ -1,6 +1,6 @@
 # vercel-labs/marketing-team-eve-template
 
-⭐ 457 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/marketing-team-eve-template) · [官网](https://vercel.com/templates/eve/eve-marketing-team) · 组织维护
+⭐ 459 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/marketing-team-eve-template) · [官网](https://vercel.com/templates/eve/eve-marketing-team) · 组织维护
 
 **基于 eve 的营销 Agent 团队模板，产出博客/社媒/邮件内容**
 
@@ -46,12 +46,12 @@ vercel-labs 提供的营销 Agent 团队模板：一个 lead 负责理解任务�
 ```mermaid
 xychart-beta
     title "vercel-labs/marketing-team-eve-template 星数(近 13 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-22"]
     y-axis "stars" 452 --> 460
-    line [455, 453, 455, 456, 457, 458, 459, 455, 454, 455, 456, 457, 457]
+    line [455, 453, 455, 456, 457, 458, 459, 455, 454, 455, 456, 457, 459]
 ```
 
-2026-10-19 455 → 2026-11-21 457（+2）
+2026-10-20 455 → 2026-11-22 459（+4）
 
 
 ---

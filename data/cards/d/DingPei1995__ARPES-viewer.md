@@ -1,6 +1,6 @@
 # DingPei1995/ARPES-viewer
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/DingPei1995/ARPES-viewer) · 个人维护 · 中文 README
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/DingPei1995/ARPES-viewer) · 个人维护 · 中文 README
 
 **ARPES 实验数据到出版级图像的 PyQt 分析工具，可由 AI agent 驱动**
 
@@ -47,12 +47,12 @@ Python/PyQt5 编写的 ARPES（角分辨光电子能谱）数据分析程序：�
 ```mermaid
 xychart-beta
     title "DingPei1995/ARPES-viewer 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-22"]
     y-axis "stars" 7 --> 15
     line [8, 12, 13, 14, 14]
 ```
 
-2026-10-31 8 → 2026-11-21 14（+6）
+2026-10-31 8 → 2026-11-22 14（+6）
 
 
 ---

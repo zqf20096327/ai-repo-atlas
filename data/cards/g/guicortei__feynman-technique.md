@@ -1,6 +1,6 @@
 # guicortei/feynman-technique
 
-⭐ 44 · Python · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/guicortei/feynman-technique) · [官网](https://dev.to/guicortei/feynman-never-wrote-basically-i-checked-all-88000-words-58bd) · 个人维护 · 中文 README
+⭐ 45 · Python · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/guicortei/feynman-technique) · [官网](https://dev.to/guicortei/feynman-never-wrote-basically-i-checked-all-88000-words-58bd) · 个人维护 · 中文 README
 
 **让 AI 用费曼式方法解释概念的 Agent Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guicortei/feynman-technique 星数(近 14 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 11 --> 47
-    line [14, 15, 16, 17, 14, 17, 18, 19, 36, 38, 40, 42, 44, 44]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 11 --> 48
+    line [14, 15, 16, 17, 14, 17, 18, 19, 36, 38, 40, 42, 44, 45]
 ```
 
-2026-10-19 14 → 2026-11-21 44（+30）
+2026-10-20 14 → 2026-11-22 45（+31）
 
 
 ---

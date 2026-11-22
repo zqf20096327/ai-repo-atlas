@@ -45,13 +45,13 @@ Kotlin/Jetpack Compose 编写的 Android 聊天应用：用户自带 API 密钥�
 
 ```mermaid
 xychart-beta
-    title "OlgaKalinina101/YourOwnAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-21"]
+    title "OlgaKalinina101/YourOwnAI 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-15", "2026-11-21", "2026-11-22"]
     y-axis "stars" 17 --> 21
-    line [18, 19, 20]
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-21 20（+2）
+2026-10-19 18 → 2026-11-22 20（+2）
 
 
 ---

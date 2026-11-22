@@ -1,6 +1,6 @@
 # wwhenxuan/PySDKit
 
-⭐ 225 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/wwhenxuan/PySDKit) · [官网](https://pysdkit.readthedocs.io/en/stable/index.html) · 个人维护
+⭐ 226 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/wwhenxuan/PySDKit) · [官网](https://pysdkit.readthedocs.io/en/stable/index.html) · 个人维护
 
 **面向信号分解算法的 Python 库：一维/多维信号与图像分解**
 
@@ -45,12 +45,12 @@ Python 信号分解算法库，收录 EMD、VMD、MVMD、SSA、EWT 等 30 余种
 ```mermaid
 xychart-beta
     title "wwhenxuan/PySDKit 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 223 --> 226
-    line [224, 225, 224, 225, 225]
+    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 223 --> 227
+    line [224, 225, 224, 225, 226]
 ```
 
-2026-10-19 224 → 2026-11-21 225（+1）
+2026-10-20 224 → 2026-11-22 226（+2）
 
 
 ---

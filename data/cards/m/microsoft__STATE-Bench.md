@@ -1,6 +1,6 @@
 # microsoft/STATE-Bench
 
-⭐ 111 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/microsoft/STATE-Bench) · [官网](https://microsoft.github.io/STATE-Bench/leaderboard/) · 组织维护
+⭐ 112 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/microsoft/STATE-Bench) · [官网](https://microsoft.github.io/STATE-Bench/leaderboard/) · 组织维护
 
 **评测 AI agent 在企业多步工作流任务上的基准（450 任务）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/STATE-Bench 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 97 --> 112
-    line [98, 100, 101, 102, 104, 105, 101, 111, 110, 111, 111]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 97 --> 113
+    line [98, 100, 101, 102, 104, 105, 101, 111, 110, 111, 112]
 ```
 
-2026-10-19 98 → 2026-11-21 111（+13）
+2026-10-20 98 → 2026-11-22 112（+14）
 
 
 ---

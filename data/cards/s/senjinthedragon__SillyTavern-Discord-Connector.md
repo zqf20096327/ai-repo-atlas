@@ -1,6 +1,6 @@
 # senjinthedragon/SillyTavern-Discord-Connector
 
-⭐ 20 · JavaScript · AGPL-3.0 · 推送 2026-05-30 · [GitHub](https://github.com/senjinthedragon/SillyTavern-Discord-Connector) · 个人维护
+⭐ 21 · JavaScript · AGPL-3.0 · 推送 2026-05-30 · [GitHub](https://github.com/senjinthedragon/SillyTavern-Discord-Connector) · 个人维护
 
 **将 SillyTavern 角色接入 Discord 实时角色扮演的桥接扩展**
 
@@ -45,12 +45,12 @@ SillyTavern 的第三方扩展加桥接服务器：把 Discord 频道消息转�
 ```mermaid
 xychart-beta
     title "senjinthedragon/SillyTavern-Discord-Connector 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 18, 20, 20]
+    x-axis ["2026-10-19", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 18, 20, 21]
 ```
 
-2026-10-18 18 → 2026-11-21 20（+2）
+2026-10-19 18 → 2026-11-22 21（+3）
 
 
 ---

@@ -45,12 +45,12 @@ AI SDK Guardrails 是一个为 Vercel AI SDK 提供输入/输出安全控制中�
 ```mermaid
 xychart-beta
     title "jagreehal/ai-sdk-guardrails 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-19 24 → 2026-11-21 24（+0）
+2026-10-20 24 → 2026-11-22 24（+0）
 
 
 ---

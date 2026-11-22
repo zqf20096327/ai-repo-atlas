@@ -41,13 +41,13 @@ PhoneIDE 是一个完全在手机上运行的开发环境，README 声明其包�
 
 ```mermaid
 xychart-beta
-    title "Sandeepbedia/PhoneIDE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    title "Sandeepbedia/PhoneIDE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 5 --> 11
-    line [6, 10]
+    line [6, 10, 10]
 ```
 
-2026-10-18 6 → 2026-11-21 10（+4）
+2026-10-18 6 → 2026-11-22 10（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Frisher1/ClaudeCode-Workflow-Lab
 
-⭐ 115 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/Frisher1/ClaudeCode-Workflow-Lab) · 个人维护
+⭐ 115 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/Frisher1/ClaudeCode-Workflow-Lab) · 个人维护
 
 **面向 AI 系统的对抗性验证框架：预算约束验证环 + 15 章课程与 14 个实验**
 
@@ -45,12 +45,12 @@ AdversarialFlow Engine 是一个测试与验证框架及配套工具包，将测
 ```mermaid
 xychart-beta
     title "Frisher1/ClaudeCode-Workflow-Lab 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
     y-axis "stars" 114 --> 118
     line [117, 116, 117, 116, 115, 115]
 ```
 
-2026-10-18 117 → 2026-11-21 115（-2）
+2026-10-19 117 → 2026-11-22 115（-2）
 
 
 ---

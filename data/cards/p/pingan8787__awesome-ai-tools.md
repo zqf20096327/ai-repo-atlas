@@ -1,6 +1,6 @@
 # pingan8787/awesome-ai-tools
 
-⭐ 371 · 推送 2026-11-07 · [GitHub](https://github.com/pingan8787/awesome-ai-tools) · 个人维护
+⭐ 372 · 推送 2026-11-07 · [GitHub](https://github.com/pingan8787/awesome-ai-tools) · 个人维护
 
 **AI 工具策展清单：按类别收录图像生成等 AI 产品条目**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "pingan8787/awesome-ai-tools 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 368 --> 372
-    line [369, 370, 371, 371]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 368 --> 373
+    line [369, 370, 371, 372]
 ```
 
-2026-10-19 369 → 2026-11-21 371（+2）
+2026-10-20 369 → 2026-11-22 372（+3）
 
 
 ---

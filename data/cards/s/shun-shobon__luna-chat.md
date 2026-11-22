@@ -1,6 +1,6 @@
 # shun-shobon/luna-chat
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/shun-shobon/luna-chat) · 个人维护 · 中文 README
+⭐ 33 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/shun-shobon/luna-chat) · 个人维护 · 中文 README
 
 **常驻 Discord 的自律型个人 AI 代理，支持对话、记忆与定时执行**
 
@@ -45,12 +45,12 @@ TypeScript 实现的个人用 AI 代理，常驻 Discord 进行会话、执行 s
 ```mermaid
 xychart-beta
     title "shun-shobon/luna-chat 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-21"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-11-14", "2026-11-22"]
+    y-axis "stars" 30 --> 34
+    line [31, 33]
 ```
 
-2026-11-14 31 → 2026-11-21 31（+0）
+2026-11-14 31 → 2026-11-22 33（+2）
 
 
 ---

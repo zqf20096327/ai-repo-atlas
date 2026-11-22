@@ -1,6 +1,6 @@
 # Pacoaldev/Nox9Go
 
-⭐ 5 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Pacoaldev/Nox9Go) · 个人维护
+⭐ 6 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Pacoaldev/Nox9Go) · 个人维护
 
 **面向开发者的轻量 LLM 网关：统一接入多提供商与配额**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Pacoaldev/Nox9Go 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-15", "2026-11-22"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-08 3 → 2026-11-21 5（+2）
+2026-11-08 3 → 2026-11-22 6（+3）
 
 
 ---

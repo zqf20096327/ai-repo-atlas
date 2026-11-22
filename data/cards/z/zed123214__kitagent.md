@@ -1,6 +1,6 @@
 # zed123214/kitagent
 
-⭐ 104 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zed123214/kitagent) · [官网](https://github.com/zed123214/kitagent) · 个人维护 · 中文 README
+⭐ 105 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zed123214/kitagent) · [官网](https://github.com/zed123214/kitagent) · 个人维护 · 中文 README
 
 **面向算子开发与性能优化的开源 Coding Agent 运行时与可视化工作台**
 
@@ -46,13 +46,13 @@ KitAgent 是开源 AI Agent 运行时与可视化工作台，面向想使用、�
 
 ```mermaid
 xychart-beta
-    title "zed123214/kitagent 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 67 --> 107
-    line [70, 85, 91, 98, 101, 102, 104]
+    title "zed123214/kitagent 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 67 --> 108
+    line [70, 85, 91, 98, 101, 102, 104, 105]
 ```
 
-2026-11-10 70 → 2026-11-21 104（+34）
+2026-11-10 70 → 2026-11-22 105（+35）
 
 
 ---

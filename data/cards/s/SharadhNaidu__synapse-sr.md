@@ -1,6 +1,6 @@
 # SharadhNaidu/synapse-sr
 
-⭐ 15 · Python · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/SharadhNaidu/synapse-sr) · [官网](https://sharadhnaidu.github.io/synapse-sr/) · 个人维护
+⭐ 15 · Python · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/SharadhNaidu/synapse-sr) · [官网](https://sharadhnaidu.github.io/synapse-sr/) · 个人维护
 
 **Sentinel-2 卫星影像 10m→2m 超分辨率工具，附像素级信任图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SharadhNaidu/synapse-sr 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 8 --> 16
     line [9, 11, 13, 11, 15, 15]
 ```
 
-2026-10-19 9 → 2026-11-21 15（+6）
+2026-10-20 9 → 2026-11-22 15（+6）
 
 
 ---

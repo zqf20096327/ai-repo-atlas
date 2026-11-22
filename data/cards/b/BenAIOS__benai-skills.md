@@ -1,6 +1,6 @@
 # BenAIOS/benai-skills
 
-⭐ 86 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/BenAIOS/benai-skills) · 个人维护
+⭐ 87 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/BenAIOS/benai-skills) · 个人维护
 
 **面向 Claude Code 的按部门组织的业务自动化技能集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BenAIOS/benai-skills 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
-    y-axis "stars" 84 --> 87
-    line [85, 86]
+    title "BenAIOS/benai-skills 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 84 --> 88
+    line [85, 86, 87]
 ```
 
-2026-11-18 85 → 2026-11-21 86（+1）
+2026-11-18 85 → 2026-11-22 87（+2）
 
 
 ---

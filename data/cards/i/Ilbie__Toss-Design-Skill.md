@@ -1,6 +1,6 @@
 # Ilbie/Toss-Design-Skill
 
-⭐ 58 · MIT · 推送 2026-06-25 · [GitHub](https://github.com/Ilbie/Toss-Design-Skill) · 个人维护
+⭐ 58 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Ilbie/Toss-Design-Skill) · 个人维护
 
 **参考 Toss Tech 设计文章的非官方 agent 技能包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Ilbie/Toss-Design-Skill 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 56 --> 59
     line [57, 58, 57, 58, 58]
 ```
 
-2026-10-19 57 → 2026-11-21 58（+1）
+2026-10-20 57 → 2026-11-22 58（+1）
 
 
 ---

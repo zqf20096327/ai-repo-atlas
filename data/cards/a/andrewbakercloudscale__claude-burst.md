@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "andrewbakercloudscale/claude-burst 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "andrewbakercloudscale/claude-burst 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-11", "2026-11-22"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-21 17（+2）
+2026-10-19 16 → 2026-11-22 17（+1）
 
 
 ---

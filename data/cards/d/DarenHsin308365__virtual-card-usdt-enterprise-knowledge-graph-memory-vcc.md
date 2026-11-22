@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc 星数(近 6 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc 星数(近 7 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 3 --> 53
-    line [7, 19, 22, 26, 36, 49]
+    line [7, 19, 22, 26, 36, 49, 49]
 ```
 
-2026-11-14 7 → 2026-11-21 49（+42）
+2026-11-14 7 → 2026-11-22 49（+42）
 
 
 ---

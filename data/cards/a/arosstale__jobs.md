@@ -41,6 +41,18 @@
 > L30: 3. **Score** — Gemini Flash scores each occupation's AI exposure (0-10) with rationale
 > L31: 4. **Visualize** — D3 treemap where area = jobs and color = exposure
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "arosstale/jobs 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 67 --> 69
+    line [68, 68]
+```
+
+2026-11-21 68 → 2026-11-22 68（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `a5a944b0a259` · [字段定义](../../DATASET.md)*

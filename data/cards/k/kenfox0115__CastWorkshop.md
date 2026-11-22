@@ -1,6 +1,6 @@
 # kenfox0115/CastWorkshop
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/kenfox0115/CastWorkshop) · [官网](https://castworkshop.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地 AI 角色工作室：持久角色生成对话、图像与视频**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-8g` | |

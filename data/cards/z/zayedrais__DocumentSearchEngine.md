@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zayedrais/DocumentSearchEngine 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "zayedrais/DocumentSearchEngine 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 54 --> 57
-    line [55, 56]
+    line [55, 56, 56]
 ```
 
-2026-10-19 55 → 2026-11-21 56（+1）
+2026-10-20 55 → 2026-11-22 56（+1）
 
 
 ---

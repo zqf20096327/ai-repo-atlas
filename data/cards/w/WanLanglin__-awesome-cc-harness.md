@@ -1,6 +1,6 @@
 # WanLanglin/-awesome-cc-harness
 
-⭐ 110 · Python · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/WanLanglin/-awesome-cc-harness) · 个人维护 · 中文 README
+⭐ 111 · Python · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/WanLanglin/-awesome-cc-harness) · 个人维护 · 中文 README
 
 **Claude Code 源码逆向分析教程：16 章 Harness Engineering 中英双语指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WanLanglin/-awesome-cc-harness 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 104 --> 111
-    line [105, 107, 108, 107, 110, 110]
+    title "WanLanglin/-awesome-cc-harness 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 106 --> 112
+    line [107, 108, 107, 110, 111]
 ```
 
-2026-10-18 105 → 2026-11-21 110（+5）
+2026-10-19 107 → 2026-11-22 111（+4）
 
 
 ---

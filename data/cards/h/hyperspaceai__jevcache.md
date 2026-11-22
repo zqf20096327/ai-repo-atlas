@@ -1,6 +1,6 @@
 # hyperspaceai/jevcache
 
-⭐ 78 · 推送 2026-09-19 · [GitHub](https://github.com/hyperspaceai/jevcache) · [官网](https://jevcache.sh) · 组织维护
+⭐ 79 · 推送 2026-09-19 · [GitHub](https://github.com/hyperspaceai/jevcache) · [官网](https://jevcache.sh) · 组织维护
 
 **Jev 类模型的决策缓存：本地记忆化决策，实现确定性重放**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hyperspaceai/jevcache 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
-    y-axis "stars" 76 --> 79
-    line [77, 78, 78]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    y-axis "stars" 76 --> 80
+    line [77, 78, 79]
 ```
 
-2026-10-19 77 → 2026-11-21 78（+1）
+2026-10-20 77 → 2026-11-22 79（+2）
 
 
 ---

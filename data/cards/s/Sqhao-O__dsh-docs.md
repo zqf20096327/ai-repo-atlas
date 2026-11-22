@@ -1,6 +1,6 @@
 # Sqhao-O/dsh-docs
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Sqhao-O/dsh-docs) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Sqhao-O/dsh-docs) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的全本地文档解析/OCR 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sqhao-O/dsh-docs 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 14 --> 17
     line [16, 15, 15]
 ```
 
-2026-10-19 16 → 2026-11-21 15（-1）
+2026-10-20 16 → 2026-11-22 15（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # 237Zidane/grand-tour-skill
 
-⭐ 157 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/237Zidane/grand-tour-skill) · 个人维护
+⭐ 157 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/237Zidane/grand-tour-skill) · 个人维护
 
 **代码库导览技能：让 agent 阅读仓库并测验你的理解**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "237Zidane/grand-tour-skill 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
+    title "237Zidane/grand-tour-skill 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 152 --> 158
-    line [153, 157]
+    line [153, 157, 157]
 ```
 
-2026-11-18 153 → 2026-11-21 157（+4）
+2026-11-18 153 → 2026-11-22 157（+4）
 
 
 ---

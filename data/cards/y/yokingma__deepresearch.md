@@ -1,6 +1,6 @@
 # yokingma/deepresearch
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2025-11-25 · [GitHub](https://github.com/yokingma/deepresearch) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **基于 LangGraph 的深度研究 Agent，自动迭代检索并生成带引用回答**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # MaxITService/OneClickPrompts
 
-⭐ 24 · JavaScript · 推送 2026-11-10 · [GitHub](https://github.com/MaxITService/OneClickPrompts) · [官网](https://chromewebstore.google.com/detail/chatgpt-quick-buttons-for/iiofmimaakhhoiablomgcjpilebnndbf) · 个人维护
+⭐ 24 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/MaxITService/OneClickPrompts) · [官网](https://chromewebstore.google.com/detail/chatgpt-quick-buttons-for/iiofmimaakhhoiablomgcjpilebnndbf) · 个人维护
 
 **多平台 AI 聊天的一键提示词插入浏览器扩展**
 
@@ -45,12 +45,12 @@ Chrome/Edge 浏览器扩展，在 ChatGPT、DeepSeek Chat、Google AI Studio、G
 ```mermaid
 xychart-beta
     title "MaxITService/OneClickPrompts 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-19 23 → 2026-11-21 24（+1）
+2026-10-20 23 → 2026-11-22 24（+1）
 
 
 ---

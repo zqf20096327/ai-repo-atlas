@@ -1,6 +1,6 @@
 # sunsided/pddl-rs
 
-⭐ 22 · Rust · 推送 2026-11-20 · [GitHub](https://github.com/sunsided/pddl-rs) · [官网](https://docs.rs/pddl/latest/pddl/) · 个人维护
+⭐ 22 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/sunsided/pddl-rs) · [官网](https://docs.rs/pddl/latest/pddl/) · 个人维护
 
 **Rust 编写的 PDDL 3.1 解析库，供自动规划开发使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sunsided/pddl-rs 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-12", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-12", "2026-11-16", "2026-11-22"]
     y-axis "stars" 19 --> 23
     line [20, 21, 22, 22]
 ```
 
-2026-10-19 20 → 2026-11-21 22（+2）
+2026-10-20 20 → 2026-11-22 22（+2）
 
 
 ---

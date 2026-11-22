@@ -1,6 +1,6 @@
 # tshmieldev/sharp
 
-⭐ 32 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/tshmieldev/sharp) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/tshmieldev/sharp) · 个人维护
 
 **用自选 LLM 按自然语言规则过滤 X 时间线的浏览器扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tshmieldev/sharp 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-19 31 → 2026-11-21 32（+1）
+2026-10-20 31 → 2026-11-22 33（+2）
 
 
 ---

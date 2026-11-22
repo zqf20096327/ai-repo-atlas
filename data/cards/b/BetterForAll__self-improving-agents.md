@@ -1,6 +1,6 @@
 # BetterForAll/self-improving-agents
 
-⭐ 139 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/BetterForAll/self-improving-agents) · 个人维护
+⭐ 138 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/BetterForAll/self-improving-agents) · 个人维护
 
 **四级自我改进代码 agent 研究框架：从简单循环到对抗演化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BetterForAll/self-improving-agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 136 --> 173
-    line [170, 160, 159, 146, 144, 145, 139, 139]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 135 --> 173
+    line [170, 160, 159, 146, 144, 145, 139, 138]
 ```
 
-2026-10-18 170 → 2026-11-21 139（-31）
+2026-10-19 170 → 2026-11-22 138（-32）
 
 
 ---

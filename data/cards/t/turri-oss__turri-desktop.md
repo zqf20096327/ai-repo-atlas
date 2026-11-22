@@ -1,6 +1,6 @@
 # turri-oss/turri-desktop
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/turri-oss/turri-desktop) · [官网](https://turri.dev) · 组织维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/turri-oss/turri-desktop) · [官网](https://turri.dev) · 组织维护
 
 **面向开发者的 turri 编码 agent 桌面应用**
 
@@ -46,12 +46,12 @@ turri 的 macOS/Linux 桌面客户端，运行与命令行版 turri 相同的对
 ```mermaid
 xychart-beta
     title "turri-oss/turri-desktop 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-08 4 → 2026-11-21 5（+1）
+2026-11-08 4 → 2026-11-22 5（+1）
 
 
 ---

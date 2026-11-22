@@ -1,6 +1,6 @@
 # utkukose/gemex
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/utkukose/gemex) · 组织维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/utkukose/gemex) · 组织维护
 
 **模型无关的可解释 AI 库：用黎曼信息几何解释任意 ML 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "utkukose/gemex 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 12（+2）
 
 
 ---

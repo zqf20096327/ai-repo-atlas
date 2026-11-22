@@ -1,6 +1,6 @@
 # Stability-AI/stable-virtual-camera
 
-⭐ 1,683 · Python · NOASSERTION · 推送 2026-03-03 · [GitHub](https://github.com/Stability-AI/stable-virtual-camera) · [官网](https://stable-virtual-camera.github.io) · 组织维护
+⭐ 1,684 · Python · NOASSERTION · 推送 2026-03-03 · [GitHub](https://github.com/Stability-AI/stable-virtual-camera) · [官网](https://stable-virtual-camera.github.io) · 组织维护
 
 **扩散模型新视角合成：输入任意视角图像生成 3D 一致新视角**
 
@@ -43,13 +43,13 @@ Stability AI 与牛津、UC Berkeley 合作发布的通用扩散模型 Stable Vi
 
 ```mermaid
 xychart-beta
-    title "Stability-AI/stable-virtual-camera 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 1668 --> 1684
-    line [1670, 1669, 1670, 1671, 1670, 1675, 1677, 1679, 1680, 1682, 1683]
+    title "Stability-AI/stable-virtual-camera 星数(近 12 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 1668 --> 1685
+    line [1670, 1669, 1670, 1671, 1670, 1675, 1677, 1679, 1680, 1682, 1683, 1684]
 ```
 
-2026-10-19 1,670 → 2026-11-21 1,683（+13）
+2026-10-20 1,670 → 2026-11-22 1,684（+14）
 
 
 ---

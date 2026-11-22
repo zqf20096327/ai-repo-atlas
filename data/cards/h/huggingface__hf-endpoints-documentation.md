@@ -44,12 +44,12 @@ Hugging Face 官方维护的 Inference Endpoints 产品文档仓库：用 doc-bu
 ```mermaid
 xychart-beta
     title "huggingface/hf-endpoints-documentation 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-19 27 → 2026-11-21 27（+0）
+2026-10-20 27 → 2026-11-22 27（+0）
 
 
 ---

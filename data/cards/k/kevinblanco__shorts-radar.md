@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevinblanco/shorts-radar 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-21"]
+    title "kevinblanco/shorts-radar 星数(近 3 点)"
+    x-axis ["2026-11-12", "2026-11-21", "2026-11-22"]
     y-axis "stars" 4 --> 7
-    line [5, 6]
+    line [5, 6, 6]
 ```
 
-2026-11-12 5 → 2026-11-21 6（+1）
+2026-11-12 5 → 2026-11-22 6（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # winnstorm/gabitotl
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/winnstorm/gabitotl) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Claude Code 等编码 agent 提供记忆、人格与团队协作的 Go 工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

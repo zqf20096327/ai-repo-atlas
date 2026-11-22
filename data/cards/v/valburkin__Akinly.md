@@ -42,6 +42,18 @@
 > L43: |`Akinly.AI`|`TextClusterer` (texts in, clusters out), `ChatClientJudge`, `ChatClientLabeler`, `JudgePrompts`|You w
 > L153: - .NET 10 (`net10.0`). The SDK version used to build is pinned in global.json.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "valburkin/Akinly 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-21 5 → 2026-11-22 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `f509e02e6788` · [字段定义](../../DATASET.md)*

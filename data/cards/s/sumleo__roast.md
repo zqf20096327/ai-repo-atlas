@@ -47,12 +47,12 @@ Roast 是一个可安装到 Claude Code、Codex CLI、Cursor、Kiro、OpenClaw �
 ```mermaid
 xychart-beta
     title "sumleo/roast 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-21"]
+    x-axis ["2026-10-22", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-22 10 → 2026-11-21 10（+0）
+2026-10-22 10 → 2026-11-22 10（+0）
 
 
 ---

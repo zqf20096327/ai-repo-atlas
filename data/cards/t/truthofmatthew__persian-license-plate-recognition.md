@@ -1,6 +1,6 @@
 # truthofmatthew/persian-license-plate-recognition
 
-⭐ 451 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/truthofmatthew/persian-license-plate-recognition) · 个人维护
+⭐ 452 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/truthofmatthew/persian-license-plate-recognition) · 个人维护
 
 **伊朗车牌识别工具：从照片/视频/摄像头读牌并判定放行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "truthofmatthew/persian-license-plate-recognition 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-11-10", "2026-11-11", "2026-11-21"]
+    title "truthofmatthew/persian-license-plate-recognition 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22"]
     y-axis "stars" 449 --> 453
-    line [450, 451, 452, 451]
+    line [450, 451, 452, 451, 452]
 ```
 
-2026-10-28 450 → 2026-11-21 451（+1）
+2026-10-28 450 → 2026-11-22 452（+2）
 
 
 ---

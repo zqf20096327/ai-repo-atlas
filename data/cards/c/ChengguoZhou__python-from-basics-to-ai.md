@@ -1,6 +1,6 @@
 # ChengguoZhou/python-from-basics-to-ai
 
-⭐ 10 · Jupyter Notebook · 推送 2026-04-11 · [GitHub](https://github.com/ChengguoZhou/python-from-basics-to-ai) · [官网](https://www.bilibili.com/video/BV1sHU9BmEne) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Python 初学者的入门学习练习合集，含 AI 应用方向**
 

@@ -1,6 +1,6 @@
 # marcusrbrown/systematic
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/marcusrbrown/systematic) · [官网](https://fro.bot/systematic) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/marcusrbrown/systematic) · [官网](https://fro.bot/systematic) · 个人维护
 
 **为 OpenCode/Pi/Claude Code 提供复合工程循环的技能与 Agent 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "marcusrbrown/systematic 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 23 --> 30
     line [24, 25, 26, 27, 28, 25, 28, 29, 29]
 ```
 
-2026-10-19 24 → 2026-11-21 29（+5）
+2026-10-20 24 → 2026-11-22 29（+5）
 
 
 ---

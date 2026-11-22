@@ -1,6 +1,6 @@
 # sacktock/MASA-Safe-RL
 
-⭐ 16 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/sacktock/MASA-Safe-RL) · [官网](https://sacktock.github.io/MASA-Safe-RL/) · 组织维护
+⭐ 16 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/sacktock/MASA-Safe-RL) · [官网](https://sacktock.github.io/MASA-Safe-RL/) · 组织维护
 
 **安全强化学习研究库：统一约束与环境接口**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sacktock/MASA-Safe-RL 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-22"]
     y-axis "stars" 12 --> 17
     line [13, 14, 15, 13, 15, 16, 16]
 ```
 
-2026-10-19 13 → 2026-11-21 16（+3）
+2026-10-20 13 → 2026-11-22 16（+3）
 
 
 ---

@@ -46,12 +46,12 @@ VS Code 扩展，将 Claude Code、Codex、Gemini CLI、GitHub Copilot、Cursor 
 ```mermaid
 xychart-beta
     title "aminchegini/roundtable 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 6 --> 9
     line [7, 8, 7, 8, 8]
 ```
 
-2026-10-19 7 → 2026-11-21 8（+1）
+2026-10-20 7 → 2026-11-22 8（+1）
 
 
 ---

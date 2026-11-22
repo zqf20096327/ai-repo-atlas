@@ -45,12 +45,12 @@ Wikimedia 维护的通用标注服务，包含两个组件：部署在 MediaWiki
 ```mermaid
 xychart-beta
     title "wikimedia/wikilabels 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-19 30 → 2026-11-21 30（+0）
+2026-10-20 30 → 2026-11-22 30（+0）
 
 
 ---

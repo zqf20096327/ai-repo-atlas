@@ -1,6 +1,6 @@
 # cool-japan/trustformers
 
-⭐ 15 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/trustformers) · [官网](https://github.com/cool-japan/trustformers) · 组织维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/trustformers) · [官网](https://github.com/cool-japan/trustformers) · 组织维护
 
 **Rust 实现的 Transformers 库：加载 HF 模型做推理与训练**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cool-japan/trustformers 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-21"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-11-22"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16]
 ```
 
-2026-10-19 13 → 2026-11-21 15（+2）
+2026-10-20 13 → 2026-11-22 16（+3）
 
 
 ---

@@ -41,6 +41,18 @@
 > L9: ### 💡 实操干货：创作者用卡的 4 个实用建议
 > L18: ### 🧭 极简开卡与绑定流程（一看就会）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-21 13 → 2026-11-22 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `bb601eba4b0b` · [字段定义](../../DATASET.md)*

@@ -44,12 +44,12 @@ API4AI 平台的官方示例仓库，演示如何调用其云端 Cars Image Back
 ```mermaid
 xychart-beta
     title "api4ai/img-bg-removal-cars-examples 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

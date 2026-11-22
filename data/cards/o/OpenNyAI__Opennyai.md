@@ -1,6 +1,6 @@
 # OpenNyAI/Opennyai
 
-⭐ 104 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/OpenNyAI/Opennyai) · 组织维护
+⭐ 103 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/OpenNyAI/Opennyai) · 组织维护
 
 **印度法律文书 NLP 库：NER、修辞角色与摘要三模型管线**
 
@@ -45,12 +45,12 @@ OpenNyAI 开发的 Python 库，面向印度法院判决文本提供自然语言
 ```mermaid
 xychart-beta
     title "OpenNyAI/Opennyai 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-14", "2026-11-22"]
     y-axis "stars" 102 --> 105
-    line [103, 104, 104]
+    line [103, 104, 103]
 ```
 
-2026-10-19 103 → 2026-11-21 104（+1）
+2026-10-20 103 → 2026-11-22 103（+0）
 
 
 ---

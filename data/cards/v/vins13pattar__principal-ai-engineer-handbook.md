@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vins13pattar/principal-ai-engineer-handbook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 94 --> 99
-    line [95, 96, 97, 98, 98]
+    title "vins13pattar/principal-ai-engineer-handbook 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 95 --> 99
+    line [96, 97, 98, 98]
 ```
 
-2026-10-18 95 → 2026-11-21 98（+3）
+2026-10-19 96 → 2026-11-22 98（+2）
 
 
 ---

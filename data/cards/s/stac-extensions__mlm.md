@@ -1,6 +1,6 @@
 # stac-extensions/mlm
 
-⭐ 72 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/stac-extensions/mlm) · [官网](https://stac-extensions.github.io/mlm/) · 组织维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/stac-extensions/mlm) · [官网](https://stac-extensions.github.io/mlm/) · 组织维护
 
 **描述机器学习模型元数据的 STAC 扩展规范（遥感影像模型编目）**
 
@@ -46,12 +46,12 @@ STAC MLM 是一个元数据扩展规范，为训练于遥感/俯视影像的机�
 ```mermaid
 xychart-beta
     title "stac-extensions/mlm 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
     y-axis "stars" 70 --> 73
     line [71, 72, 72]
 ```
 
-2026-10-19 71 → 2026-11-21 72（+1）
+2026-10-20 71 → 2026-11-22 72（+1）
 
 
 ---

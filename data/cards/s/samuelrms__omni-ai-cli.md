@@ -1,6 +1,6 @@
 # samuelrms/omni-ai-cli
 
-⭐ 5 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/samuelrms/omni-ai-cli) · [官网](https://omni.samuelramos.dev) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/samuelrms/omni-ai-cli) · [官网](https://omni.samuelramos.dev) · 个人维护
 
 **把 Claude Code/Codex/OpenRouter 等多工具接入统一终端聊天并按成本路由的 CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "samuelrms/omni-ai-cli 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-21 5（+0）
+2026-11-08 5 → 2026-11-22 5（+0）
 
 
 ---

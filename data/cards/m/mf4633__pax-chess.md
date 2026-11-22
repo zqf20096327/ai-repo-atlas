@@ -1,6 +1,6 @@
 # mf4633/pax-chess
 
-⭐ 6 · HTML · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/mf4633/pax-chess) · [官网](https://mf4633.github.io/pax-chess/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **致敬 Len Dorfman PAX Chess 的浏览器国际象棋，带败局学习功能**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

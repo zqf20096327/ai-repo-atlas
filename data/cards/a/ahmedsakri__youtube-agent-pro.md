@@ -1,6 +1,6 @@
 # ahmedsakri/youtube-agent-pro
 
-⭐ 6 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ahmedsakri/youtube-agent-pro) · [官网](https://github.com/ahmedsakri/youtube-agent-pro) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ahmedsakri/youtube-agent-pro) · [官网](https://github.com/ahmedsakri/youtube-agent-pro) · 个人维护
 
 **给 YouTube 创作者的 Claude Code/ChatGPT/Codex 技能与子代理工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ahmedsakri/youtube-agent-pro 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 6]
+    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-11-10 3 → 2026-11-21 6（+3）
+2026-11-10 3 → 2026-11-22 7（+4）
 
 
 ---

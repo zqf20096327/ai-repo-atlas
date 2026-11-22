@@ -1,6 +1,6 @@
 # marketzy/codex-cli-repo-workbench
 
-⭐ 101 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/marketzy/codex-cli-repo-workbench) · 个人维护
+⭐ 148 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/marketzy/codex-cli-repo-workbench) · 个人维护
 
 **开发者在终端内检查与维护本地 Git 仓库的 PowerShell 工具**
 
@@ -39,6 +39,18 @@
 
 > L35: Codex Cli Repo Workbench operates as a thin orchestration layer over the target repository and the Codex CLI. On in
 > L43: Scope and limits are deliberate. The tool does not manage Codex CLI installation, versioning, or authentication; it
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "marketzy/codex-cli-repo-workbench 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 97 --> 152
+    line [101, 148]
+```
+
+2026-11-21 101 → 2026-11-22 148（+47）
 
 
 ---

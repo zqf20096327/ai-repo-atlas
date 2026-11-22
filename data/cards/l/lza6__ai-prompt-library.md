@@ -41,6 +41,18 @@
 > L30: - 技能：进入 `分类/技能目录/技能名.md` 即该技能的完整提示词，可直接粘贴给任意 LLM / Agent 使用；同目录 `references/`、`scripts/` 为其附属资料。
 > L26: 技能总计 6922 个；另有单文件提示词若干（`.txt` / `.md`）。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lza6/ai-prompt-library 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-21 6 → 2026-11-22 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `144b4daaeda3` · [字段定义](../../DATASET.md)*

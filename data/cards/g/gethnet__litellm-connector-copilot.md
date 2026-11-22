@@ -45,12 +45,12 @@ VS Code 扩展，将运行中的 LiteLLM 代理注册为 VS Code Language Models
 ```mermaid
 xychart-beta
     title "gethnet/litellm-connector-copilot 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-19 19 → 2026-11-21 19（+0）
+2026-10-20 19 → 2026-11-22 19（+0）
 
 
 ---

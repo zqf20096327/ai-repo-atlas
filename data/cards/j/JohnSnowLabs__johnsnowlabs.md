@@ -1,6 +1,6 @@
 # JohnSnowLabs/johnsnowlabs
 
-⭐ 78 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/JohnSnowLabs/johnsnowlabs) · [官网](https://nlp.johnsnowlabs.com) · 组织维护
+⭐ 78 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/JohnSnowLabs/johnsnowlabs) · [官网](https://nlp.johnsnowlabs.com) · 组织维护
 
 **John Snow Labs 生态的统一 Python API 网关：一行代码加载 NLP 模型**
 
@@ -47,12 +47,12 @@ John Snow Labs 的入口库，提供统一 Python API 访问其 NLP 生态：一
 ```mermaid
 xychart-beta
     title "JohnSnowLabs/johnsnowlabs 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-19 78 → 2026-11-21 78（+0）
+2026-10-20 78 → 2026-11-22 78（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "andrewalexeich/figma-to-vanilla 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-21"]
+    title "andrewalexeich/figma-to-vanilla 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-21", "2026-11-22"]
     y-axis "stars" 6 --> 10
-    line [7, 8, 9]
+    line [7, 8, 9, 9]
 ```
 
-2026-11-08 7 → 2026-11-21 9（+2）
+2026-11-08 7 → 2026-11-22 9（+2）
 
 
 ---

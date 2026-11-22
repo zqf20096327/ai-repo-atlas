@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Hyperflow
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/Saganaki22/ComfyUI-Hyperflow) · [官网](https://huggingface.co/drbaph/Hyperflow-Comfyui) · 个人维护 · 中文 README
+⭐ 64 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/Saganaki22/ComfyUI-Hyperflow) · [官网](https://huggingface.co/drbaph/Hyperflow-Comfyui) · 个人维护 · 中文 README
 
 **在 ComfyUI 中原生加载 HyperFlow 8 步 MiniMax-H3 LoRA 的节点包**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点包，将 HyperFlow（Video Rebirth 的 8 步 MiniMax-H3 
 ```mermaid
 xychart-beta
     title "Saganaki22/ComfyUI-Hyperflow 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 55 --> 64
-    line [56, 57, 58, 59, 60, 62, 63, 63]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 55 --> 65
+    line [56, 57, 58, 59, 60, 62, 63, 64]
 ```
 
-2026-10-19 56 → 2026-11-21 63（+7）
+2026-10-20 56 → 2026-11-22 64（+8）
 
 
 ---

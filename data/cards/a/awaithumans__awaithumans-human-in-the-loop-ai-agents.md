@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "awaithumans/awaithumans-human-in-the-loop-ai-agents 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-16", "2026-11-21"]
+    title "awaithumans/awaithumans-human-in-the-loop-ai-agents 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 25 --> 30
-    line [26, 27, 28, 29]
+    line [26, 27, 28, 29, 29]
 ```
 
-2026-10-19 26 → 2026-11-21 29（+3）
+2026-10-20 26 → 2026-11-22 29（+3）
 
 
 ---

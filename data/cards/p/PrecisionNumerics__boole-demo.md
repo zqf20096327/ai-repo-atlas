@@ -46,12 +46,12 @@ PrecisionNumerics 提供的演示仓库，用于在本机运行 Boole 模型（B
 ```mermaid
 xychart-beta
     title "PrecisionNumerics/boole-demo 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-19 4 → 2026-11-21 4（+0）
+2026-10-20 4 → 2026-11-22 4（+0）
 
 
 ---

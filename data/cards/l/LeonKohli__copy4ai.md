@@ -1,6 +1,6 @@
 # LeonKohli/copy4ai
 
-⭐ 50 · JavaScript · GPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/LeonKohli/copy4ai) · [官网](https://copy4ai.dev) · 个人维护
+⭐ 51 · JavaScript · GPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/LeonKohli/copy4ai) · [官网](https://copy4ai.dev) · 个人维护
 
 **VS Code 扩展：把选中文件与项目树复制成可粘贴给 LLM 的内容**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LeonKohli/copy4ai 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51]
 ```
 
-2026-10-19 49 → 2026-11-21 50（+1）
+2026-10-20 49 → 2026-11-22 51（+2）
 
 
 ---

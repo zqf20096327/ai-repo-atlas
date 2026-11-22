@@ -41,6 +41,18 @@ Quincy 是一个自托管的 Next.js 应用，定位为 AI 内容主管：用户
 > L20: when there is a post in it, drafts one in your voice for each channel. Then it
 > L122: - AI SDK through the Vercel AI Gateway
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Codehagen/Quincy 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-21 6 → 2026-11-22 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `f9f5ada9e4f8` · [字段定义](../../DATASET.md)*

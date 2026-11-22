@@ -1,6 +1,6 @@
 # latenitefilms/CorridorKeyByLateNite
 
-⭐ 11 · Swift · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/latenitefilms/CorridorKeyByLateNite) · [官网](https://corridorkeybylatenite.fcp.cafe) · 组织维护
+⭐ 12 · Swift · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/latenitefilms/CorridorKeyByLateNite) · [官网](https://corridorkeybylatenite.fcp.cafe) · 组织维护
 
 **把 CorridorKey v2 绿幕抠像模型带入 Final Cut Pro 的 Mac 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "latenitefilms/CorridorKeyByLateNite 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-08 10 → 2026-11-21 11（+1）
+2026-11-08 10 → 2026-11-22 12（+2）
 
 
 ---

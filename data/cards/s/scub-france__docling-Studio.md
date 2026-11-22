@@ -1,6 +1,6 @@
 # scub-france/docling-Studio
 
-⭐ 278 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/scub-france/docling-Studio) · [官网](https://pier-jean-docling-studio.hf.space/) · 组织维护
+⭐ 280 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/scub-france/docling-Studio) · [官网](https://pier-jean-docling-studio.hf.space/) · 组织维护
 
 **基于 Docling 的可视化文档解析工作台，可索引至 OpenSearch/Neo4j**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "scub-france/docling-Studio 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 265 --> 279
-    line [266, 267, 268, 267, 271, 272, 273, 277, 278, 278]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 265 --> 281
+    line [266, 267, 268, 267, 271, 272, 273, 277, 278, 280]
 ```
 
-2026-10-19 266 → 2026-11-21 278（+12）
+2026-10-20 266 → 2026-11-22 280（+14）
 
 
 ---

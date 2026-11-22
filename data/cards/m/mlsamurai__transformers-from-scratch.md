@@ -1,6 +1,6 @@
 # mlsamurai/transformers-from-scratch
 
-⭐ 6 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mlsamurai/transformers-from-scratch) · [官网](https://blog.korolevalab.com/teaching/transformers-from-scratch/) · 个人维护
+⭐ 7 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mlsamurai/transformers-from-scratch) · [官网](https://blog.korolevalab.com/teaching/transformers-from-scratch/) · 个人维护
 
 **十个 notebook 的免费课程：从零写 PyTorch 翻译器到上线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mlsamurai/transformers-from-scratch 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-18", "2026-11-22"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
 ```
 
-2026-11-18 6 → 2026-11-21 6（+0）
+2026-11-18 6 → 2026-11-22 7（+1）
 
 
 ---

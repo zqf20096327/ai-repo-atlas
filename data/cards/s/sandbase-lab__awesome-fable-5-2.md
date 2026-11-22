@@ -1,6 +1,6 @@
 # sandbase-lab/awesome-fable-5-2
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/sandbase-lab/awesome-fable-5-2) · [官网](https://www.sandbase.ai/lab/ai-videos/fable-5-2) · 组织维护 · 中文 README
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/sandbase-lab/awesome-fable-5-2) · [官网](https://www.sandbase.ai/lab/ai-videos/fable-5-2) · 组织维护 · 中文 README
 
 **Claude Fable 5.2 生成作品的视频/提示词策展清单**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sandbase-lab/awesome-fable-5-2 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-16", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-16 3 → 2026-11-21 3（+0）
+2026-11-16 3 → 2026-11-22 4（+1）
 
 
 ---

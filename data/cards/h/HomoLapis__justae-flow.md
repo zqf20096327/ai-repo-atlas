@@ -1,6 +1,6 @@
 # HomoLapis/justae-flow
 
-⭐ 7 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/HomoLapis/justae-flow) · [官网](https://homolapis.ai) · 组织维护
+⭐ 8 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/HomoLapis/justae-flow) · [官网](https://homolapis.ai) · 组织维护
 
 **在开源合成软件时间线内运行 ComfyUI 工作流生成视频片段**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "HomoLapis/justae-flow 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 3 --> 8
-    line [4, 6, 7, 7]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 3 --> 9
+    line [4, 6, 7, 8]
 ```
 
-2026-11-02 4 → 2026-11-21 7（+3）
+2026-11-02 4 → 2026-11-22 8（+4）
 
 
 ---

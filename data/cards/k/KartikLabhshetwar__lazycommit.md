@@ -45,12 +45,12 @@ TypeScript 编写的 CLI（命令 lazycommit / lzc）：读取 Git 暂存区的 
 ```mermaid
 xychart-beta
     title "KartikLabhshetwar/lazycommit 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-16", "2026-11-22"]
     y-axis "stars" 234 --> 237
     line [236, 235, 235]
 ```
 
-2026-10-19 236 → 2026-11-21 235（-1）
+2026-10-20 236 → 2026-11-22 235（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-gateways/awesome-ai-gateways
 
-⭐ 46 · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/ai-gateways/awesome-ai-gateways) · 个人维护
+⭐ 47 · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/ai-gateways/awesome-ai-gateways) · 个人维护
 
 **AI 网关开源与商业产品策展清单（LLM/MCP/A2A）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ai-gateways/awesome-ai-gateways 星数(近 8 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 0 --> 50
-    line [4, 12, 39, 41, 43, 44, 46, 46]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 0 --> 51
+    line [4, 12, 39, 41, 43, 44, 46, 47]
 ```
 
-2026-11-01 4 → 2026-11-21 46（+42）
+2026-11-01 4 → 2026-11-22 47（+43）
 
 
 ---

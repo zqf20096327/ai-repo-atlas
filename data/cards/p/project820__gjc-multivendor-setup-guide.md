@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "project820/gjc-multivendor-setup-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "project820/gjc-multivendor-setup-guide 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 39 --> 41
+    line [40, 40]
 ```
 
-2026-10-18 39 → 2026-11-21 40（+1）
+2026-10-19 40 → 2026-11-22 40（+0）
 
 
 ---

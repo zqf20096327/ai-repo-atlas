@@ -46,12 +46,12 @@ Copyleaks 维护的 Angular npm 模块 @copyleaks/ng-web-report，在应用内�
 ```mermaid
 xychart-beta
     title "Copyleaks/ng-web-report 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-19 22 → 2026-11-21 22（+0）
+2026-10-20 22 → 2026-11-22 22（+0）
 
 
 ---

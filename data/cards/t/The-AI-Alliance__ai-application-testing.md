@@ -1,6 +1,6 @@
 # The-AI-Alliance/ai-application-testing
 
-⭐ 12 · Python · 推送 2026-11-17 · [GitHub](https://github.com/The-AI-Alliance/ai-application-testing) · [官网](https://the-ai-alliance.github.io/ai-application-testing/) · 组织维护
+⭐ 13 · Python · 推送 2026-11-17 · [GitHub](https://github.com/The-AI-Alliance/ai-application-testing) · [官网](https://the-ai-alliance.github.io/ai-application-testing/) · 组织维护
 
 **生成式 AI 应用开发者测试方法指南与工具集**
 
@@ -46,12 +46,12 @@ AI Alliance 发布的用户指南与配套工具仓库，探讨当生成式 AI �
 ```mermaid
 xychart-beta
     title "The-AI-Alliance/ai-application-testing 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-19 11 → 2026-11-21 12（+1）
+2026-10-20 11 → 2026-11-22 13（+2）
 
 
 ---

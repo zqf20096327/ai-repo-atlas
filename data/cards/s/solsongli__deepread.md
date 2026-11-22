@@ -1,6 +1,6 @@
 # solsongli/deepread
 
-⭐ 6 · JavaScript · AGPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/solsongli/deepread) · [官网](https://github.com/Lsy-aia/deepread/releases/latest) · 个人维护 · 中文 README
+⭐ 8 · JavaScript · AGPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/solsongli/deepread) · [官网](https://github.com/Lsy-aia/deepread/releases/latest) · 个人维护 · 中文 README
 
 **Zotero AI 精读插件：逐段讲解、翻译、闪卡与对话**
 
@@ -47,12 +47,12 @@ DeepRead 是安装到 Zotero 7–10 官方客户端的开源插件，为 PDF 论
 ```mermaid
 xychart-beta
     title "solsongli/deepread 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6, 6]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 6, 8]
 ```
 
-2026-11-08 4 → 2026-11-21 6（+2）
+2026-11-08 4 → 2026-11-22 8（+4）
 
 
 ---

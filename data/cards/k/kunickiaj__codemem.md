@@ -1,6 +1,6 @@
 # kunickiaj/codemem
 
-⭐ 82 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kunickiaj/codemem) · [官网](https://codemem.sh) · 个人维护
+⭐ 82 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kunickiaj/codemem) · [官网](https://codemem.sh) · 个人维护
 
 **为 OpenCode/Claude Code 等编码代理提供跨会话持久记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kunickiaj/codemem 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-22"]
     y-axis "stars" 72 --> 83
     line [73, 78, 73, 80, 81, 82, 82]
 ```
 
-2026-10-19 73 → 2026-11-21 82（+9）
+2026-10-20 73 → 2026-11-22 82（+9）
 
 
 ---

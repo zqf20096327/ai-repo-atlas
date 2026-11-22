@@ -1,6 +1,6 @@
 # Devinterview-io/mlops-interview-questions
 
-⭐ 56 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/mlops-interview-questions) · 组织维护
+⭐ 55 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/mlops-interview-questions) · 组织维护
 
 **面向求职者的 MLOps 面试题与答案集合（50 题）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Devinterview-io/mlops-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 54 --> 57
+    line [56, 55]
 ```
 
-2026-10-19 56 → 2026-11-21 56（+0）
+2026-10-20 56 → 2026-11-22 55（-1）
 
 
 ---

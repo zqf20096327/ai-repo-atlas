@@ -1,6 +1,6 @@
 # Nikhil-creat/datapulse-ai
 
-⭐ 5 · HTML · 推送 2026-10-06 · [GitHub](https://github.com/Nikhil-creat/datapulse-ai) · [官网](https://nikhil-creat.github.io/datapulse-ai/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人作品集与数据科学任务控制台，内含 AI 助手**
 

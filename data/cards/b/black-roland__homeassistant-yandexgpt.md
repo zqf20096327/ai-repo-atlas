@@ -1,6 +1,6 @@
 # black-roland/homeassistant-yandexgpt
 
-⭐ 48 · Python · MPL-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/black-roland/homeassistant-yandexgpt) · 个人维护
+⭐ 48 · Python · MPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/black-roland/homeassistant-yandexgpt) · 个人维护
 
 **将 YandexGPT 接入 Home Assistant 的社区集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "black-roland/homeassistant-yandexgpt 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 46 --> 50
     line [47, 48, 49, 48, 47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-21 48（+1）
+2026-10-19 47 → 2026-11-22 48（+1）
 
 
 ---

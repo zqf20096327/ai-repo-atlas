@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vinaygiri/hiresignal-personal 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-21 10（+0）
+2026-11-10 10 → 2026-11-22 10（+0）
 
 
 ---

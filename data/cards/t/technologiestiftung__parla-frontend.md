@@ -1,6 +1,6 @@
 # technologiestiftung/parla-frontend
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/technologiestiftung/parla-frontend) · [官网](https://www.parla.berlin/) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/technologiestiftung/parla-frontend) · [官网](https://www.parla.berlin/) · 组织维护
 
 **柏林州议会公文 RAG 问答系统的前端应用**
 
@@ -45,12 +45,12 @@ Parla 项目的前端，基于 Next.js 构建并部署于 Vercel。Parla 整体�
 ```mermaid
 xychart-beta
     title "technologiestiftung/parla-frontend 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-19 16 → 2026-11-21 16（+0）
+2026-10-20 16 → 2026-11-22 16（+0）
 
 
 ---

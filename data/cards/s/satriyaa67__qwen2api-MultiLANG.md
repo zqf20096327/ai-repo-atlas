@@ -1,6 +1,6 @@
 # satriyaa67/qwen2api-MultiLANG
 
-⭐ 49 · Go · 推送 2026-10-19 · [GitHub](https://github.com/satriyaa67/qwen2api-MultiLANG) · [官网](https://github.com/YuJunZhiXue/qwen2API) · 个人维护 · 中文 README
+⭐ 48 · Go · 推送 2026-10-19 · [GitHub](https://github.com/satriyaa67/qwen2api-MultiLANG) · [官网](https://github.com/YuJunZhiXue/qwen2API) · 个人维护 · 中文 README
 
 **qwen2API 的多语言 fork：自托管 Qwen Web 转 OpenAI 兼容 API 网关**
 
@@ -46,12 +46,12 @@ YuJunZhiXue/qwen2API 的 fork，唯一改动是为管理 WebUI 增加英语与�
 ```mermaid
 xychart-beta
     title "satriyaa67/qwen2api-MultiLANG 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 48 --> 53
-    line [51, 52, 49, 49]
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 47 --> 53
+    line [51, 52, 49, 48]
 ```
 
-2026-10-22 51 → 2026-11-21 49（-2）
+2026-10-22 51 → 2026-11-22 48（-3）
 
 
 ---

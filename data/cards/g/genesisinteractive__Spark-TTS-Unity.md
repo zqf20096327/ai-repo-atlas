@@ -45,12 +45,12 @@ Spark-TTS 的 Unity 移植包：将原 PyTorch 模型转换为 ONNX，通过 com
 ```mermaid
 xychart-beta
     title "genesisinteractive/Spark-TTS-Unity 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-19 43 → 2026-11-21 43（+0）
+2026-10-20 43 → 2026-11-22 43（+0）
 
 
 ---

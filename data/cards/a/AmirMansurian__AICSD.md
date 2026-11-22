@@ -45,12 +45,12 @@ AICSD（Adaptive Inter-Class Similarity Distillation）论文的 PyTorch 源码�
 ```mermaid
 xychart-beta
     title "AmirMansurian/AICSD 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-19 29 → 2026-11-21 29（+0）
+2026-10-20 29 → 2026-11-22 29（+0）
 
 
 ---

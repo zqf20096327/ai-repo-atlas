@@ -41,6 +41,18 @@
 > L65: - `wellbrief` ingests the archive, answers questions with citations checked word for word
 > L134: - The `llm` narrator talks to any OpenAI-compatible `/chat/completions` server —
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "B0yko/wellbrief 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-21 13 → 2026-11-22 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `b865b7ff2e96` · [字段定义](../../DATASET.md)*

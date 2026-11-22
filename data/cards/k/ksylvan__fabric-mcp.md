@@ -1,6 +1,6 @@
 # ksylvan/fabric-mcp
 
-⭐ 89 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ksylvan/fabric-mcp) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ksylvan/fabric-mcp) · 个人维护
 
 **把 Fabric AI 框架能力接入 MCP 客户端的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ksylvan/fabric-mcp 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
-    y-axis "stars" 88 --> 91
-    line [90, 89, 89]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
+    y-axis "stars" 87 --> 91
+    line [90, 89, 88]
 ```
 
-2026-10-19 90 → 2026-11-21 89（-1）
+2026-10-20 90 → 2026-11-22 88（-2）
 
 
 ---

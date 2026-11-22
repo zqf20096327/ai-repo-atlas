@@ -1,6 +1,6 @@
 # pylint-dev/astroid
 
-⭐ 589 · Python · LGPL-2.1 · 推送 2026-11-20 · [GitHub](https://github.com/pylint-dev/astroid) · [官网](https://pylint.readthedocs.io/projects/astroid/en/latest/) · 组织维护
+⭐ 589 · Python · LGPL-2.1 · 推送 2026-11-21 · [GitHub](https://github.com/pylint-dev/astroid) · [官网](https://pylint.readthedocs.io/projects/astroid/en/latest/) · 组织维护
 
 **Python 源码通用 AST 表示库，pylint 的底层引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pylint-dev/astroid 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-22"]
     y-axis "stars" 584 --> 591
     line [585, 586, 587, 586, 587, 588, 590, 589, 589]
 ```
 
-2026-10-19 585 → 2026-11-21 589（+4）
+2026-10-20 585 → 2026-11-22 589（+4）
 
 
 ---

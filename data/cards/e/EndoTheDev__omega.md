@@ -1,6 +1,6 @@
 # EndoTheDev/omega
 
-⭐ 11 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/EndoTheDev/omega) · 个人维护
+⭐ 11 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EndoTheDev/omega) · 个人维护
 
 **自托管 AI agent 平台：单二进制 CLI+WebUI，多 LLM 路由**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EndoTheDev/omega 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "EndoTheDev/omega 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-20 10 → 2026-11-21 11（+1）
+2026-11-20 10 → 2026-11-22 11（+1）
 
 
 ---

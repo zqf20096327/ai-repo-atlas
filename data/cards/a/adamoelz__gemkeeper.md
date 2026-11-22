@@ -1,6 +1,6 @@
 # adamoelz/gemkeeper
 
-⭐ 10 · Shell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/adamoelz/gemkeeper) · 个人维护
+⭐ 11 · Shell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/adamoelz/gemkeeper) · 个人维护
 
 **为 Claude Code 会话保存关键上下文的分类账插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adamoelz/gemkeeper 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 6 --> 11
-    line [7, 9, 10, 10]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 6 --> 12
+    line [7, 9, 10, 11]
 ```
 
-2026-11-18 7 → 2026-11-21 10（+3）
+2026-11-18 7 → 2026-11-22 11（+4）
 
 
 ---

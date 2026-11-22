@@ -1,6 +1,6 @@
 # nambean/Pygg
 
-⭐ 12 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nambean/Pygg) · [官网](http://inviv.vn) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nambean/Pygg) · [官网](http://inviv.vn) · 个人维护
 
 **为编程 agent 提供本地网关：路由多模型并记录请求成本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nambean/Pygg 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
+    title "nambean/Pygg 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-11-19 11 → 2026-11-21 12（+1）
+2026-11-19 11 → 2026-11-22 12（+1）
 
 
 ---

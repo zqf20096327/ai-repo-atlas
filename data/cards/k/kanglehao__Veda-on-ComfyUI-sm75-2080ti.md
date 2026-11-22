@@ -1,6 +1,6 @@
 # kanglehao/Veda-on-ComfyUI-sm75-2080ti
 
-⭐ 4 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kanglehao/Veda-on-ComfyUI-sm75-2080ti) · 个人维护 · 中文 README
+⭐ 5 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kanglehao/Veda-on-ComfyUI-sm75-2080ti) · 个人维护 · 中文 README
 
 **让 RTX 2080 Ti 等 sm_75 显卡在 ComfyUI 中运行 Veda 稀疏注意力加速**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点 fork，在上游 Veda（仅支持 SM80+ 的 Triton 路�
 ```mermaid
 xychart-beta
     title "kanglehao/Veda-on-ComfyUI-sm75-2080ti 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 3, 4, 4]
+    x-axis ["2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 3, 4, 5]
 ```
 
-2026-10-22 3 → 2026-11-21 4（+1）
+2026-10-22 3 → 2026-11-22 5（+2）
 
 
 ---

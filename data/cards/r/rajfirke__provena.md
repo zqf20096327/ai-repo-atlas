@@ -1,6 +1,6 @@
 # rajfirke/provena
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/rajfirke/provena) · [官网](https://rajfirke.github.io/provena) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rajfirke/provena) · [官网](https://rajfirke.github.io/provena) · 个人维护
 
 **面向 AI agent 的上下文治理库：防篡改审计与合规**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rajfirke/provena 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-19 19 → 2026-11-21 19（+0）
+2026-10-20 19 → 2026-11-22 19（+0）
 
 
 ---

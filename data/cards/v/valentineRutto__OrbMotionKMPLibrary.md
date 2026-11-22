@@ -40,6 +40,18 @@
 > L8: It provides customizable animated orbs for AI assistants, agents, and interactive interfaces, with support for diffe
 > L10: Build once with shared Compose UI and reuse the same animations across your Android and iOS applications.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "valentineRutto/OrbMotionKMPLibrary 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `44f107018ec9` · [字段定义](../../DATASET.md)*

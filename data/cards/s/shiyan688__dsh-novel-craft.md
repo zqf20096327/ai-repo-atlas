@@ -1,6 +1,6 @@
 # shiyan688/dsh-novel-craft
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/shiyan688/dsh-novel-craft) · [官网](https://www.npmjs.com/package/dsh-novel-craft) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/shiyan688/dsh-novel-craft) · [官网](https://www.npmjs.com/package/dsh-novel-craft) · 个人维护 · 中文 README
 
 **给中文小说作者的 AI 写作插件：点赞点踩校准个人文风**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shiyan688/dsh-novel-craft 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 7 --> 16
-    line [8, 9, 10, 11, 8, 14, 15, 15]
+    line [8, 9, 10, 11, 8, 14, 15, 14]
 ```
 
-2026-10-19 8 → 2026-11-21 15（+7）
+2026-10-20 8 → 2026-11-22 14（+6）
 
 
 ---

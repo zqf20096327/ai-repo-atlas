@@ -1,6 +1,6 @@
 # itsXactlY/mazemaker
 
-⭐ 53 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/itsXactlY/mazemaker) · [官网](https://mazemaker.online) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI agent 的持久语义记忆层：知识图谱+梦整理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

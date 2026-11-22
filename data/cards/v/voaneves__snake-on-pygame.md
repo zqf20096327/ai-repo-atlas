@@ -39,6 +39,18 @@
 > L5:  Classic Snake in Python and Pygame, playable by a person or controlled by a DQN agent.
 > L63: The game follows a gym-style API, so you can plug in any agent written in PyTorch, TensorFlow, Theano or Keras. To 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "voaneves/snake-on-pygame 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-21 11 → 2026-11-22 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `aa756a8e8799` · [字段定义](../../DATASET.md)*

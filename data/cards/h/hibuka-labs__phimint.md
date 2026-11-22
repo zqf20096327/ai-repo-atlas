@@ -1,6 +1,6 @@
 # hibuka-labs/phimint
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hibuka-labs/phimint) · [官网](https://hibuka-labs.github.io/phimint/) · 组织维护 · 中文 README
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/hibuka-labs/phimint) · [官网](https://hibuka-labs.github.io/phimint/) · 组织维护 · 中文 README
 
 **终端 AI 编码 agent：读码改码编译测试的全流程循环**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hibuka-labs/phimint 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 4 --> 8
-    line [5, 6, 7]
+    title "hibuka-labs/phimint 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-11", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 9
+    line [5, 6, 7, 8]
 ```
 
-2026-10-19 5 → 2026-11-21 7（+2）
+2026-10-20 5 → 2026-11-22 8（+3）
 
 
 ---

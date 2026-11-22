@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Raj-glitch-max/AI-DRIVEN-self-healing-CICD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 38 --> 41
-    line [40, 39, 39]
+    title "Raj-glitch-max/AI-DRIVEN-self-healing-CICD 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
 ```
 
-2026-10-18 40 → 2026-11-21 39（-1）
+2026-10-19 39 → 2026-11-22 39（+0）
 
 
 ---

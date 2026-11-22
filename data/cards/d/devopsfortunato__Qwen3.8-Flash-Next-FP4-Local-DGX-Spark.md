@@ -1,6 +1,6 @@
 # devopsfortunato/Qwen3.8-Flash-Next-FP4-Local-DGX-Spark
 
-⭐ 7 · Shell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/devopsfortunato/Qwen3.8-Flash-Next-FP4-Local-DGX-Spark) · [官网](https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local) · 个人维护
+⭐ 8 · Shell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/devopsfortunato/Qwen3.8-Flash-Next-FP4-Local-DGX-Spark) · [官网](https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local) · 个人维护
 
 **一条命令在 DGX Spark 上用 vLLM 服务 Qwen3.8 FP4 模型的部署脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "devopsfortunato/Qwen3.8-Flash-Next-FP4-Local-DGX-Spark 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 2 --> 8
-    line [3, 5, 6, 7, 7]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 2 --> 9
+    line [3, 5, 6, 7, 8]
 ```
 
-2026-10-19 3 → 2026-11-21 7（+4）
+2026-10-20 3 → 2026-11-22 8（+5）
 
 
 ---

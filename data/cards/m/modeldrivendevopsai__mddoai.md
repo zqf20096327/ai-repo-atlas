@@ -46,12 +46,12 @@ MDDOAI 将软件架构模型（.swarch/.pim/.gitlabpsm）经模型驱动转换�
 ```mermaid
 xychart-beta
     title "modeldrivendevopsai/mddoai 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-21"]
+    x-axis ["2026-10-26", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-21 10（+0）
+2026-10-26 10 → 2026-11-22 10（+0）
 
 
 ---

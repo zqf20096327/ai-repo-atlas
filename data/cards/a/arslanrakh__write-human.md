@@ -47,12 +47,12 @@ writehuman 以 CLI 与 Agent Skill 形式提供，检测文本中机器味浓的
 ```mermaid
 xychart-beta
     title "arslanrakh/write-human 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-08 13 → 2026-11-21 13（+0）
+2026-11-08 13 → 2026-11-22 13（+0）
 
 
 ---

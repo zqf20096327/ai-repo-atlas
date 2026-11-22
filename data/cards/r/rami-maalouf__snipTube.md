@@ -1,6 +1,6 @@
 # rami-maalouf/snipTube
 
-⭐ 27 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/rami-maalouf/snipTube) · [官网](https://sniptube.vercel.app) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/rami-maalouf/snipTube) · [官网](https://sniptube.vercel.app) · 个人维护
 
 **浏览器扩展：高亮、标记、导出 YouTube 视频片段并用 AI 生成摘要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rami-maalouf/snipTube 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-22"]
     y-axis "stars" 26 --> 29
-    line [28, 27, 28, 27, 27]
+    line [28, 27, 28, 27, 28]
 ```
 
-2026-10-19 28 → 2026-11-21 27（-1）
+2026-10-20 28 → 2026-11-22 28（+0）
 
 
 ---

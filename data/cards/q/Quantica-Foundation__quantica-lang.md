@@ -45,12 +45,12 @@ Quantica 是一门用 Rust 实现的混合经典–量子编程语言：量子�
 ```mermaid
 xychart-beta
     title "Quantica-Foundation/quantica-lang 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-19 16 → 2026-11-21 16（+0）
+2026-10-20 16 → 2026-11-22 16（+0）
 
 
 ---

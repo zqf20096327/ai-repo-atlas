@@ -1,6 +1,6 @@
 # SihanXU/ai-compass
 
-⭐ 5 · Astro · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/SihanXU/ai-compass) · [官网](https://sihanxu.me/ai-compass/) · 个人维护 · 中文 README
+⭐ 5 · Astro · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/SihanXU/ai-compass) · [官网](https://sihanxu.me/ai-compass/) · 个人维护 · 中文 README
 
 **AI 研究立场的政治罗盘：图谱、测试与百科**
 
@@ -40,6 +40,18 @@
 > L7: - **Chart** — 165 ideologies on a 13 × 12 grid with a ring of extreme titles, shaded by paradigm, like the big ideol
 > L9: - **Wiki** — an entry for every ideology in English and Chinese: beliefs, arguments, critiques, representative works
 > L11: 给 AI 研究做一张政治图谱：图谱、三套测试（简单版、完整版、专业版）、每个主义的中英文百科词条。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SihanXU/ai-compass 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-21 5 → 2026-11-22 5（+0）
 
 
 ---

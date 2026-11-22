@@ -1,6 +1,6 @@
 # psaris/funq
 
-⭐ 144 · q · MIT · 推送 2026-05-17 · [GitHub](https://github.com/psaris/funq) · [官网](https://fun-q.net) · 个人维护
+⭐ 145 · q · MIT · 推送 2026-05-17 · [GitHub](https://github.com/psaris/funq) · [官网](https://fun-q.net) · 个人维护
 
 **机器学习入门书籍《Fun Q》的 q 语言源码集合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "psaris/funq 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 142 --> 145
-    line [143, 144, 144]
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 142 --> 146
+    line [143, 144, 145]
 ```
 
-2026-10-19 143 → 2026-11-21 144（+1）
+2026-10-20 143 → 2026-11-22 145（+2）
 
 
 ---

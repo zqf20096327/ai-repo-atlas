@@ -1,6 +1,6 @@
 # negoziator/ai-commit
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/negoziator/ai-commit) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/negoziator/ai-commit) · 个人维护
 
 **给开发者的 CLI 工具：用 LLM 生成 git 提交信息**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "negoziator/ai-commit 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 21（+0）
 
 
 ---

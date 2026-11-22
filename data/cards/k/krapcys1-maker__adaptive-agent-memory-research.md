@@ -1,6 +1,6 @@
 # krapcys1-maker/adaptive-agent-memory-research
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/krapcys1-maker/adaptive-agent-memory-research) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/krapcys1-maker/adaptive-agent-memory-research) · 个人维护
 
 **LLM agent 经验记忆的对照实验研究项目与结果登记库**
 
@@ -40,6 +40,18 @@
 > L11: An agent that does tasks (in a home simulator, a science lab simulator, later with real tools) should get better fr
 > L42: Every number above is copied by code from the results table of the package README it links to. The primary comparis
 > L86: Rules that keep it honest: development on a frozen 60-task subset of ALFWorld `valid_seen`; **ALFWorld `valid_unsee
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "krapcys1-maker/adaptive-agent-memory-research 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
 
 
 ---

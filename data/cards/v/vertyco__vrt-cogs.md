@@ -1,6 +1,6 @@
 # vertyco/vrt-cogs
 
-⭐ 85 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vertyco/vrt-cogs) · 个人维护
+⭐ 85 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/vertyco/vrt-cogs) · 个人维护
 
 **面向 Red-DiscordBot 的实用与娱乐插件（cog）合集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "vertyco/vrt-cogs 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-19 85 → 2026-11-21 85（+0）
+2026-10-20 85 → 2026-11-22 85（+0）
 
 
 ---

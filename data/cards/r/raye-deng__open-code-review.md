@@ -1,6 +1,6 @@
 # raye-deng/open-code-review
 
-⭐ 41 · TypeScript · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/raye-deng/open-code-review) · [官网](https://codes.evallab.ai) · 个人维护
+⭐ 42 · TypeScript · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/raye-deng/open-code-review) · [官网](https://codes.evallab.ai) · 个人维护
 
 **面向 AI 生成代码的开源 CI/CD 质量门禁与代码审查工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raye-deng/open-code-review 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-20", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42]
 ```
 
-2026-10-19 40 → 2026-11-21 41（+1）
+2026-10-20 40 → 2026-11-22 42（+2）
 
 
 ---

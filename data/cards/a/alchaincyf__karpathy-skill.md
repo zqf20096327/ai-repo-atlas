@@ -1,6 +1,6 @@
 # alchaincyf/karpathy-skill
 
-⭐ 331 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/alchaincyf/karpathy-skill) · 个人维护 · 中文 README
+⭐ 332 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/alchaincyf/karpathy-skill) · 个人维护 · 中文 README
 
 **Andrej Karpathy 认知框架的 Agent Skill：让 AI 用其思维模型回答问题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alchaincyf/karpathy-skill 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 323 --> 332
-    line [324, 325, 326, 327, 328, 329, 330, 331]
+    title "alchaincyf/karpathy-skill 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 323 --> 333
+    line [324, 325, 326, 327, 328, 329, 330, 331, 332]
 ```
 
-2026-11-08 324 → 2026-11-21 331（+7）
+2026-11-08 324 → 2026-11-22 332（+8）
 
 
 ---

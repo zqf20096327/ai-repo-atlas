@@ -1,6 +1,6 @@
 # digoal/skills
 
-⭐ 41 · Python · GPL-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/digoal/skills) · 个人维护 · 中文 README
+⭐ 42 · Python · GPL-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/digoal/skills) · 个人维护 · 中文 README
 
 **个人维护的 Claude/Codex 技能（SKILL）合集：财经、写作、数据库等**
 
@@ -46,12 +46,12 @@ digoal（德哥）维护的 AI agent 技能仓库：以 submodule 方式聚合�
 ```mermaid
 xychart-beta
     title "digoal/skills 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42]
 ```
 
-2026-10-19 40 → 2026-11-21 41（+1）
+2026-10-20 40 → 2026-11-22 42（+2）
 
 
 ---

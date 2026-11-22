@@ -45,13 +45,13 @@ android-agent 通过 Android 无障碍树以文本形式读取屏幕，替代截
 
 ```mermaid
 xychart-beta
-    title "nebigoktug/android-agent 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "nebigoktug/android-agent 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 3 --> 7
-    line [4, 6]
+    line [4, 6, 6]
 ```
 
-2026-11-20 4 → 2026-11-21 6（+2）
+2026-11-20 4 → 2026-11-22 6（+2）
 
 
 ---

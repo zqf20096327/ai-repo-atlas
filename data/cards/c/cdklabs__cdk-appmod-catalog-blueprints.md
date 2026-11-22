@@ -45,12 +45,12 @@ cdklabs 维护的应用现代化蓝图库，以可组合的 CDK L3 construct 形
 ```mermaid
 xychart-beta
     title "cdklabs/cdk-appmod-catalog-blueprints 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-21 15（+0）
+2026-10-20 15 → 2026-11-22 15（+0）
 
 
 ---

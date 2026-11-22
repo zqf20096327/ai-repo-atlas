@@ -45,12 +45,12 @@ Devinterview.io 维护的机器学习面试准备仓库，收录 45 道朴素贝
 ```mermaid
 xychart-beta
     title "Devinterview-io/naive-bayes-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-19 15 → 2026-11-21 16（+1）
+2026-10-20 15 → 2026-11-22 16（+1）
 
 
 ---

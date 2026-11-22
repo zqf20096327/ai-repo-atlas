@@ -1,6 +1,6 @@
 # PeculiarVentures/GammaCV
 
-⭐ 195 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/PeculiarVentures/GammaCV) · [官网](https://gammacv.com) · 组织维护
+⭐ 195 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/PeculiarVentures/GammaCV) · [官网](https://gammacv.com) · 组织维护
 
 **面向 Web 应用的 WebGL 加速计算机视觉库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "PeculiarVentures/GammaCV 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 194 --> 196
     line [195, 195]
 ```
 
-2026-10-19 195 → 2026-11-21 195（+0）
+2026-10-20 195 → 2026-11-22 195（+0）
 
 
 ---

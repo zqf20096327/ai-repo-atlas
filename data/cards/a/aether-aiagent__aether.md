@@ -1,6 +1,6 @@
 # aether-aiagent/aether
 
-⭐ 38 · Kotlin · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/aether-aiagent/aether) · [官网](https://aether-aiagent.github.io/aether/) · 个人维护
+⭐ 41 · Kotlin · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/aether-aiagent/aether) · [官网](https://aether-aiagent.github.io/aether/) · 个人维护
 
 **Android 本地 AI Agent 应用：手机上运行带工具与本地 Linux 环境的 LLM 助手**
 
@@ -41,6 +41,18 @@
 > L29: **Aether** — AI-агент, который работает прямо на телефоне: читает и правит файлы, запускает команды,
 > L36: > **Aether — AI agent for Android.** An open-source Android AI agent app (Kotlin, Jetpack Compose)
 > L37: > that runs an LLM chat with real tools: bash, file read/write/edit, grep, find, ls, MCP servers,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aether-aiagent/aether 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 37 --> 42
+    line [38, 41]
+```
+
+2026-11-21 38 → 2026-11-22 41（+3）
 
 
 ---

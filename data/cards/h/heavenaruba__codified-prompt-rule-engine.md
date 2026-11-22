@@ -1,6 +1,6 @@
 # heavenaruba/codified-prompt-rule-engine
 
-⭐ 122 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/heavenaruba/codified-prompt-rule-engine) · 个人维护
+⭐ 122 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/heavenaruba/codified-prompt-rule-engine) · 个人维护
 
 **将原始指令转换为结构化提示词的元提示编排系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "heavenaruba/codified-prompt-rule-engine 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 121 --> 124
     line [123, 122, 123, 122, 122]
 ```
 
-2026-10-18 123 → 2026-11-21 122（-1）
+2026-10-19 123 → 2026-11-22 122（-1）
 
 
 ---

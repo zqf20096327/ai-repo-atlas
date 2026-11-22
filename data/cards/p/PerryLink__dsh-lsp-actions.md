@@ -1,6 +1,6 @@
 # PerryLink/dsh-lsp-actions
 
-⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PerryLink/dsh-lsp-actions) · [官网](https://www.npmjs.com/package/dsh-lsp-actions) · 个人维护 · 中文 README
+⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/dsh-lsp-actions) · [官网](https://www.npmjs.com/package/dsh-lsp-actions) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 补齐 LSP 操作面的插件：诊断/补全/重构等 8 类工具**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的插件，为 agent 的编辑器循环提供 LSP 操�
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-lsp-actions 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 30 --> 42
-    line [31, 32, 33, 34, 35, 37, 34, 38, 39, 41, 41]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 30 --> 43
+    line [31, 32, 33, 34, 35, 37, 34, 38, 39, 41, 42]
 ```
 
-2026-10-19 31 → 2026-11-21 41（+10）
+2026-10-20 31 → 2026-11-22 42（+11）
 
 
 ---

@@ -45,12 +45,12 @@ TypeScript 编写的加密市场结构扫描器，基于 Claude Agent SDK 构建
 ```mermaid
 xychart-beta
     title "ReaperProtocol/Reaper 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-19 23 → 2026-11-21 23（+0）
+2026-10-20 23 → 2026-11-22 23（+0）
 
 
 ---

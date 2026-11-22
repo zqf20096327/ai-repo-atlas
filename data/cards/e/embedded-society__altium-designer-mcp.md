@@ -1,6 +1,6 @@
 # embedded-society/altium-designer-mcp
 
-⭐ 95 · Rust · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/embedded-society/altium-designer-mcp) · [官网](https://github.com/embedded-society/altium-designer-mcp) · 组织维护
+⭐ 96 · Rust · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/embedded-society/altium-designer-mcp) · [官网](https://github.com/embedded-society/altium-designer-mcp) · 组织维护
 
 **让 AI 助手读写 Altium 元件库文件的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "embedded-society/altium-designer-mcp 星数(近 15 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 76 --> 96
-    line [77, 78, 82, 84, 85, 86, 87, 88, 84, 91, 92, 93, 94, 95, 95]
+    title "embedded-society/altium-designer-mcp 星数(近 14 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 77 --> 97
+    line [78, 82, 84, 85, 86, 87, 88, 84, 91, 92, 93, 94, 95, 96]
 ```
 
-2026-10-18 77 → 2026-11-21 95（+18）
+2026-10-19 78 → 2026-11-22 96（+18）
 
 
 ---

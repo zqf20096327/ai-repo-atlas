@@ -1,6 +1,6 @@
 # fixed-42/comfyui-sameface
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/fixed-42/comfyui-sameface) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/fixed-42/comfyui-sameface) · 个人维护
 
 **测量并修复图像编辑导致的脸部形变的 ComfyUI 节点**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fixed-42/comfyui-sameface 星数(近 6 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-22"]
     y-axis "stars" 2 --> 15
     line [3, 7, 8, 13, 14, 14]
 ```
 
-2026-10-31 3 → 2026-11-21 14（+11）
+2026-10-31 3 → 2026-11-22 14（+11）
 
 
 ---

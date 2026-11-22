@@ -1,6 +1,6 @@
 # Jadouminou/final-phase-lite
 
-⭐ 37 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Jadouminou/final-phase-lite) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Jadouminou/final-phase-lite) · 个人维护
 
 **给 Claude Code/OpenCode 视频编辑的实时预览与圈选修改窗口**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jadouminou/final-phase-lite 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 9 --> 39
-    line [11, 29, 35, 37]
+    title "Jadouminou/final-phase-lite 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 42
+    line [11, 29, 35, 37, 40]
 ```
 
-2026-11-18 11 → 2026-11-21 37（+26）
+2026-11-18 11 → 2026-11-22 40（+29）
 
 
 ---

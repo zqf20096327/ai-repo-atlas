@@ -1,6 +1,6 @@
 # jmerelnyc/Talos
 
-⭐ 601 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/jmerelnyc/Talos) · [官网](https://usetalos.xyz) · 组织维护
+⭐ 600 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/jmerelnyc/Talos) · [官网](https://usetalos.xyz) · 组织维护
 
 **Talos 网络 GPU worker 客户端：共享本机 GPU 服务推理任务并赚取收益**
 
@@ -45,13 +45,13 @@ Talos 网络的可下载 worker 客户端：与用户的 Talos 账户通过设�
 
 ```mermaid
 xychart-beta
-    title "jmerelnyc/Talos 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 593 --> 692
-    line [684, 673, 669, 634, 629, 605, 601]
+    title "jmerelnyc/Talos 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 592 --> 692
+    line [684, 673, 669, 634, 629, 605, 601, 600]
 ```
 
-2026-10-19 684 → 2026-11-21 601（-83）
+2026-10-20 684 → 2026-11-22 600（-84）
 
 
 ---

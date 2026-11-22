@@ -1,6 +1,6 @@
 # YuniqueUnic/a2ui-ask
 
-⭐ 27 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/YuniqueUnic/a2ui-ask) · [官网](https://yuniqueunic.github.io/schemaui/) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YuniqueUnic/a2ui-ask) · [官网](https://yuniqueunic.github.io/schemaui/) · 个人维护 · 中文 README
 
 **把 AI agent 的结构化提问转成浏览器表单的技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YuniqueUnic/a2ui-ask 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-19 26 → 2026-11-21 27（+1）
+2026-10-20 26 → 2026-11-22 27（+1）
 
 
 ---

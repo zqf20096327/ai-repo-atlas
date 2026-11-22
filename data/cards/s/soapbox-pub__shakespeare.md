@@ -1,6 +1,6 @@
 # soapbox-pub/shakespeare
 
-⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/soapbox-pub/shakespeare) · [官网](https://shakespeare.diy) · 组织维护
+⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/soapbox-pub/shakespeare) · [官网](https://shakespeare.diy) · 组织维护
 
 **在浏览器中构建和部署 AI 应用的开源构建器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "soapbox-pub/shakespeare 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 23 --> 28
     line [24, 25, 24, 27, 27]
 ```
 
-2026-10-19 24 → 2026-11-21 27（+3）
+2026-10-20 24 → 2026-11-22 27（+3）
 
 
 ---

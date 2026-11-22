@@ -44,13 +44,13 @@ NeurIPS 2025 Spotlight 论文 "Tensor Product Attention Is All You Need" 的官�
 
 ```mermaid
 xychart-beta
-    title "tensorgi/TPA 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "tensorgi/TPA 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 463 --> 466
-    line [464, 465]
+    line [464, 465, 465]
 ```
 
-2026-10-19 464 → 2026-11-21 465（+1）
+2026-10-20 464 → 2026-11-22 465（+1）
 
 
 ---

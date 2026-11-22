@@ -44,12 +44,12 @@ Google 维护的 Python SDK 集合，用于将 MCP Toolbox（数据库工具服�
 ```mermaid
 xychart-beta
     title "googleapis/mcp-toolbox-sdk-python 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 191 --> 194
     line [192, 193, 193]
 ```
 
-2026-10-19 192 → 2026-11-21 193（+1）
+2026-10-20 192 → 2026-11-22 193（+1）
 
 
 ---

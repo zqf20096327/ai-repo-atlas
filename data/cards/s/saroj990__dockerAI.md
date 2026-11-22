@@ -46,12 +46,12 @@ dockai 是与 Docker Engine API 通信的命令行工具，支持自然语言问
 ```mermaid
 xychart-beta
     title "saroj990/dockerAI 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-10 4 → 2026-11-21 4（+0）
+2026-11-10 4 → 2026-11-22 4（+0）
 
 
 ---

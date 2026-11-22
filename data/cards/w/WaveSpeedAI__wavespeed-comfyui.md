@@ -46,12 +46,12 @@ WaveSpeed AI 官方的 ComfyUI 自定义节点插件：通过单一 Predictor �
 ```mermaid
 xychart-beta
     title "WaveSpeedAI/wavespeed-comfyui 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 63 --> 66
     line [65, 64, 64]
 ```
 
-2026-10-19 65 → 2026-11-21 64（-1）
+2026-10-20 65 → 2026-11-22 64（-1）
 
 
 ---

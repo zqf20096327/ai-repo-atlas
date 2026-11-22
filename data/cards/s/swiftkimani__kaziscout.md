@@ -1,6 +1,6 @@
 # swiftkimani/kaziscout
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/swiftkimani/kaziscout) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在本地运行的非洲求职 agent：读职位板、按简历打分、跟踪申请**
 
@@ -11,7 +11,7 @@ KaziScout 是一个跑在用户自己电脑上的求职工具：读取 131 个�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Zihao-Wu06/distillops
 
-⭐ 89 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Zihao-Wu06/distillops) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Zihao-Wu06/distillops) · 个人维护
 
 **黑盒 LLM 蒸馏框架：教师答案经验证后训练小模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zihao-Wu06/distillops 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 63 --> 104
-    line [66, 101, 89]
+    title "Zihao-Wu06/distillops 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 54 --> 105
+    line [66, 101, 89, 58]
 ```
 
-2026-11-08 66 → 2026-11-21 89（+23）
+2026-11-08 66 → 2026-11-22 58（-8）
 
 
 ---

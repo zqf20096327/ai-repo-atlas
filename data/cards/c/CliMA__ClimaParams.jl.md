@@ -1,6 +1,6 @@
 # CliMA/ClimaParams.jl
 
-⭐ 37 · Julia · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/CliMA/ClimaParams.jl) · 组织维护
+⭐ 37 · Julia · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/CliMA/ClimaParams.jl) · 组织维护
 
 **CliMA 气候建模生态的参数与物理常数集中管理库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CliMA/ClimaParams.jl 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 34 --> 38
     line [35, 36, 35, 37, 37]
 ```
 
-2026-10-19 35 → 2026-11-21 37（+2）
+2026-10-20 35 → 2026-11-22 37（+2）
 
 
 ---

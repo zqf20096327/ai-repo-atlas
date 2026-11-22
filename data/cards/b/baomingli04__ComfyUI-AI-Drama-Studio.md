@@ -1,6 +1,6 @@
 # baomingli04/ComfyUI-AI-Drama-Studio
 
-⭐ 10 · Python · 推送 2026-11-08 · [GitHub](https://github.com/baomingli04/ComfyUI-AI-Drama-Studio) · 个人维护 · 中文 README
+⭐ 11 · Python · 推送 2026-11-08 · [GitHub](https://github.com/baomingli04/ComfyUI-AI-Drama-Studio) · 个人维护 · 中文 README
 
 **本地运行的 AI 漫剧/短剧一站式生产平台，从剧本到成片**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "baomingli04/ComfyUI-AI-Drama-Studio 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 6 --> 11
-    line [7, 9, 10, 10]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 6 --> 12
+    line [7, 9, 10, 11]
 ```
 
-2026-11-08 7 → 2026-11-21 10（+3）
+2026-11-08 7 → 2026-11-22 11（+4）
 
 
 ---

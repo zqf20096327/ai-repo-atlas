@@ -1,6 +1,6 @@
 # webspoilt/bounty-hunter-
 
-⭐ 3 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/webspoilt/bounty-hunter-) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/webspoilt/bounty-hunter-) · 个人维护
 
 **面向 HackerOne 的范围受控授权漏洞挖掘流水线**
 
@@ -45,12 +45,12 @@ bountybot 是一个针对 HackerOne 项目的授权缺陷测量流水线：以�
 ```mermaid
 xychart-beta
     title "webspoilt/bounty-hunter- 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-18 3 → 2026-11-21 3（+0）
+2026-11-18 3 → 2026-11-22 4（+1）
 
 
 ---

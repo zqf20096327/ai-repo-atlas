@@ -1,6 +1,6 @@
 # haimu0427/Startidy
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/haimu0427/Startidy) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/haimu0427/Startidy) · 个人维护 · 中文 README
 
 **让 AI Agent 自动整理 GitHub Stars 到 Lists 的契约驱动 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "haimu0427/Startidy 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
     y-axis "stars" 22 --> 26
-    line [25, 23, 23]
+    line [25, 23, 24]
 ```
 
-2026-10-19 25 → 2026-11-21 23（-2）
+2026-10-20 25 → 2026-11-22 24（-1）
 
 
 ---

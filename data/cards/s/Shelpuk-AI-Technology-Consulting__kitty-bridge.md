@@ -1,6 +1,6 @@
 # Shelpuk-AI-Technology-Consulting/kitty-bridge
 
-⭐ 16 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge) · [官网](https://www.shelpuk.com) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge) · [官网](https://www.shelpuk.com) · 组织维护
 
 **本地 LLM 代理桥：让 Claude Code/Codex 等编码 agent 接入任意模型商**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "Shelpuk-AI-Technology-Consulting/kitty-bridge 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-19 16 → 2026-11-21 16（+0）
+2026-10-20 16 → 2026-11-22 16（+0）
 
 
 ---

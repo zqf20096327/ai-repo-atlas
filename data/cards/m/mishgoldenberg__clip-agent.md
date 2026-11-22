@@ -1,6 +1,6 @@
 # mishgoldenberg/clip-agent
 
-⭐ 5 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mishgoldenberg/clip-agent) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mishgoldenberg/clip-agent) · 个人维护
 
 **让 AI agent 运营游戏切片频道：找高光、剪辑竖屏短片、署名并排期发布**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mishgoldenberg/clip-agent 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 4 --> 7
-    line [6, 5]
+    title "mishgoldenberg/clip-agent 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 8
+    line [6, 5, 7]
 ```
 
-2026-11-20 6 → 2026-11-21 5（-1）
+2026-11-20 6 → 2026-11-22 7（+1）
 
 
 ---

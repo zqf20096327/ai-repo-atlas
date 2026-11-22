@@ -1,6 +1,6 @@
 # deequoique/stashseek
 
-⭐ 103 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/deequoique/stashseek) · [官网](https://notebookai.deequoique.tech) · 个人维护 · 中文 README
+⭐ 71 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/deequoique/stashseek) · [官网](https://notebookai.deequoique.tech) · 个人维护 · 中文 README
 
 **与收藏视频对话的自托管应用：答案带时间戳可回溯原视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deequoique/stashseek 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-21"]
+    title "deequoique/stashseek 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 53 --> 113
-    line [60, 58, 108, 103]
+    line [60, 58, 108, 103, 71]
 ```
 
-2026-10-19 60 → 2026-11-21 103（+43）
+2026-10-20 60 → 2026-11-22 71（+11）
 
 
 ---

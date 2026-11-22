@@ -46,13 +46,13 @@ openRocode 是一个开源 agent harness，把机器人控制转化为'3D comput
 
 ```mermaid
 xychart-beta
-    title "wrencanfly/openRocode 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "wrencanfly/openRocode 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 8 --> 11
-    line [9, 10]
+    line [9, 10, 10]
 ```
 
-2026-11-20 9 → 2026-11-21 10（+1）
+2026-11-20 9 → 2026-11-22 10（+1）
 
 
 ---

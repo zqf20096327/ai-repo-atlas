@@ -1,6 +1,6 @@
 # zalando-incubator/agentic-identity-broker
 
-⭐ 80 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zalando-incubator/agentic-identity-broker) · [官网](https://agenticidentitybroker.dev) · 组织维护
+⭐ 80 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zalando-incubator/agentic-identity-broker) · [官网](https://agenticidentitybroker.dev) · 组织维护
 
 **为 AI agent 提供 OAuth2 委托与同意管理的身份代理**
 
@@ -45,12 +45,12 @@ Zalando 孵化的身份代理服务：管理 Agentic AI 中 on-behalf-of 流程�
 ```mermaid
 xychart-beta
     title "zalando-incubator/agentic-identity-broker 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-22"]
     y-axis "stars" 27 --> 84
     line [31, 32, 33, 34, 33, 69, 76, 77, 78, 79, 80, 80]
 ```
 
-2026-10-19 31 → 2026-11-21 80（+49）
+2026-10-20 31 → 2026-11-22 80（+49）
 
 
 ---

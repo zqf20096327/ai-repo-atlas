@@ -1,6 +1,6 @@
 # sysnet4admin/_Book_k8sInfra
 
-⭐ 502 · Shell · 推送 2026-11-20 · [GitHub](https://github.com/sysnet4admin/_Book_k8sInfra) · [官网](https://product.kyobobook.co.kr/detail/S000221973541) · 组织维护
+⭐ 502 · Shell · 推送 2026-11-21 · [GitHub](https://github.com/sysnet4admin/_Book_k8sInfra) · [官网](https://product.kyobobook.co.kr/detail/S000221973541) · 组织维护
 
 **韩国 Kubernetes/Docker 图书的配套实验代码仓库**
 
@@ -39,6 +39,18 @@
 
 > L23: 이 저장소는 요즘 개발자를 위한 쿠버네티스/도커 책의 실습을 위한 코드를 제공합니다.
 > L25: 베이그런트로 만든 가상 머신 위에 쿠버네티스 클러스터를 직접 구성하고, 도커와 하버, 젠킨스, 프로메테우스와 그라파나 제품군을 실습합니다. 7장에서는 오퍼레이터 패턴, 오픈텔레메트리, 아르고 CD와 아르고 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sysnet4admin/_Book_k8sInfra 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 501 --> 503
+    line [502, 502]
+```
+
+2026-11-21 502 → 2026-11-22 502（+0）
 
 
 ---

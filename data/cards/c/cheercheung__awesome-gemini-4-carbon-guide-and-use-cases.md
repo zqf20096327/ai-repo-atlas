@@ -1,6 +1,6 @@
 # cheercheung/awesome-gemini-4-carbon-guide-and-use-cases
 
-⭐ 9 · Python · CC-BY-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/cheercheung/awesome-gemini-4-carbon-guide-and-use-cases) · 个人维护
+⭐ 10 · Python · CC-BY-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/cheercheung/awesome-gemini-4-carbon-guide-and-use-cases) · 个人维护
 
 **Gemini 4 Carbon 社区用例编目：44 例演示与局限索引**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cheercheung/awesome-gemini-4-carbon-guide-and-use-cases 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 3 --> 10
-    line [4, 5, 6, 4, 7, 8, 9, 9]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 3 --> 11
+    line [4, 5, 6, 4, 7, 8, 9, 10]
 ```
 
-2026-10-24 4 → 2026-11-21 9（+5）
+2026-10-24 4 → 2026-11-22 10（+6）
 
 
 ---

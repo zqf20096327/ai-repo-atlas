@@ -45,13 +45,13 @@ DeepMind AlphaStar 的 mini-scale 复现研究项目，将超参数调整为可�
 
 ```mermaid
 xychart-beta
-    title "liuruoze/mini-AlphaStar 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-21"]
+    title "liuruoze/mini-AlphaStar 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 370 --> 373
-    line [371, 372, 371]
+    line [371, 372, 371, 371]
 ```
 
-2026-11-08 371 → 2026-11-21 371（+0）
+2026-11-08 371 → 2026-11-22 371（+0）
 
 
 ---

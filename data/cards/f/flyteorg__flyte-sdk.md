@@ -1,6 +1,6 @@
 # flyteorg/flyte-sdk
 
-⭐ 128 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/flyteorg/flyte-sdk) · [官网](https://flyte.org/) · 组织维护
+⭐ 128 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/flyteorg/flyte-sdk) · [官网](https://flyte.org/) · 组织维护
 
 **纯 Python 的 ML 流水线与 agent 分布式编排 SDK**
 
@@ -45,12 +45,12 @@ Flyte 2 SDK 用 async/await 语法在纯 Python 中定义和运行类型安全�
 ```mermaid
 xychart-beta
     title "flyteorg/flyte-sdk 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-22"]
     y-axis "stars" 127 --> 130
     line [129, 128, 128]
 ```
 
-2026-10-19 129 → 2026-11-21 128（-1）
+2026-10-20 129 → 2026-11-22 128（-1）
 
 
 ---

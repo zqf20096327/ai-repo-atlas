@@ -1,6 +1,6 @@
 # pranciskus/newsmcp
 
-⭐ 31 · TypeScript · MIT · 推送 2026-03-06 · [GitHub](https://github.com/pranciskus/newsmcp) · 个人维护
+⭐ 32 · TypeScript · MIT · 推送 2026-03-06 · [GitHub](https://github.com/pranciskus/newsmcp) · 个人维护
 
 **为 AI agent 提供实时聚类世界新闻的 MCP 服务器**
 
@@ -45,13 +45,13 @@ MCP server 及配套 REST API：从数百个新闻源持续抓取文章，用向
 
 ```mermaid
 xychart-beta
-    title "pranciskus/newsmcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-21"]
+    title "pranciskus/newsmcp 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-22"]
     y-axis "stars" 30 --> 36
-    line [34, 35, 34, 35, 31, 31]
+    line [35, 34, 35, 31, 32]
 ```
 
-2026-10-18 34 → 2026-11-21 31（-3）
+2026-10-19 35 → 2026-11-22 32（-3）
 
 
 ---

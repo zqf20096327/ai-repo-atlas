@@ -41,6 +41,18 @@
 > L15: > **Scope:** StackScout is currently designed for personal self-hosting. The web UI serves one local profile and ha
 > L114: Enforced in code, not left to the AI:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huynguyenvietwork/StackScout 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-21 6 → 2026-11-22 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `975e8773c4b8` · [字段定义](../../DATASET.md)*

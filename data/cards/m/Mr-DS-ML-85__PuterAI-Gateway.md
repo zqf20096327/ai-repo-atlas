@@ -1,6 +1,6 @@
 # Mr-DS-ML-85/PuterAI-Gateway
 
-⭐ 14 · HTML · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Mr-DS-ML-85/PuterAI-Gateway) · [官网](http://putergatewayai.devforge.qzz.io/) · 个人维护
+⭐ 15 · HTML · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Mr-DS-ML-85/PuterAI-Gateway) · [官网](http://putergatewayai.devforge.qzz.io/) · 个人维护
 
 **通过浏览器 Puter.js 免 API key 调用五个前沿模型的 OpenAI 兼容网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mr-DS-ML-85/PuterAI-Gateway 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-21"]
-    y-axis "stars" 9 --> 15
-    line [10, 12, 13, 12, 14]
+    title "Mr-DS-ML-85/PuterAI-Gateway 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 16
+    line [10, 12, 13, 12, 14, 15]
 ```
 
-2026-10-18 10 → 2026-11-21 14（+4）
+2026-10-18 10 → 2026-11-22 15（+5）
 
 
 ---

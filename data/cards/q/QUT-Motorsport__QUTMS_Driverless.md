@@ -1,6 +1,6 @@
 # QUT-Motorsport/QUTMS_Driverless
 
-⭐ 70 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/QUT-Motorsport/QUTMS_Driverless) · 组织维护
+⭐ 71 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/QUT-Motorsport/QUTMS_Driverless) · 组织维护
 
 **面向 FSAE 无人赛车的 ROS2 感知规划控制软件栈**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QUT-Motorsport/QUTMS_Driverless 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 69 --> 72
+    line [70, 71]
 ```
 
-2026-10-19 70 → 2026-11-21 70（+0）
+2026-10-20 70 → 2026-11-22 71（+1）
 
 
 ---

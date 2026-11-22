@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepelementlab/clawcode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 124 --> 127
-    line [125, 126, 126]
+    title "deepelementlab/clawcode 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 125 --> 127
+    line [126, 126]
 ```
 
-2026-10-18 125 → 2026-11-21 126（+1）
+2026-10-19 126 → 2026-11-22 126（+0）
 
 
 ---

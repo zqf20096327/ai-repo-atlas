@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "urakozz/intel-arc-inference-server 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
+    title "urakozz/intel-arc-inference-server 星数(近 4 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    line [11, 12, 13, 13]
 ```
 
-2026-11-19 11 → 2026-11-21 13（+2）
+2026-11-19 11 → 2026-11-22 13（+2）
 
 
 ---

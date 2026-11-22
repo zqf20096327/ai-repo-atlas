@@ -1,6 +1,6 @@
 # ulmentflam/llm.mojo
 
-⭐ 32 · Mojo · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ulmentflam/llm.mojo) · 个人维护
+⭐ 33 · Mojo · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ulmentflam/llm.mojo) · 个人维护
 
 **纯 Mojo 实现的 GPT-2 训练：手写 CUDA/Metal GPU 内核**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ulmentflam/llm.mojo 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 29 --> 33
-    line [31, 30, 31, 32, 32]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 29 --> 34
+    line [31, 30, 31, 32, 33]
 ```
 
-2026-10-19 31 → 2026-11-21 32（+1）
+2026-10-20 31 → 2026-11-22 33（+2）
 
 
 ---

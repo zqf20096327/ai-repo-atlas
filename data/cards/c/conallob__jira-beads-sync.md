@@ -1,6 +1,6 @@
 # conallob/jira-beads-sync
 
-⭐ 18 · Go · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/conallob/jira-beads-sync) · 个人维护
+⭐ 18 · Go · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/conallob/jira-beads-sync) · 个人维护
 
 **把 Jira 任务同步到 git-backed 的 beads 任务跟踪器并双向同步**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "conallob/jira-beads-sync 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-19 17 → 2026-11-21 18（+1）
+2026-10-20 17 → 2026-11-22 18（+1）
 
 
 ---

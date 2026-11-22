@@ -1,6 +1,6 @@
 # leesk212/JEV-CPU
 
-⭐ 20 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/leesk212/JEV-CPU) · [官网](https://leesk212.github.io/JEV-CPU/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/leesk212/JEV-CPU) · [官网](https://leesk212.github.io/JEV-CPU/) · 个人维护
 
 **在纯 CPU 上运行 SemIf 语义决策引擎，附 Web UI**
 
@@ -46,12 +46,12 @@ SemIf（原 OpenJev）的 CPU 适配版：将路由、审核、分诊等决策�
 ```mermaid
 xychart-beta
     title "leesk212/JEV-CPU 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-19 18 → 2026-11-21 20（+2）
+2026-10-20 18 → 2026-11-22 21（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # UmarGit/coffee-llm
 
-⭐ 4 · Python · 推送 2026-11-12 · [GitHub](https://github.com/UmarGit/coffee-llm) · [官网](https://umargit.github.io/coffee-llm/) · 组织维护
+⭐ 5 · Python · 推送 2026-11-12 · [GitHub](https://github.com/UmarGit/coffee-llm) · [官网](https://umargit.github.io/coffee-llm/) · 组织维护
 
 **研究小型模型输出格式以降低点单解析静默错误的论文与系统**
 
@@ -46,12 +46,12 @@ ITMO 大学 IDM 实验室的论文配套仓库：在 PIZZA 语义解析基准上
 ```mermaid
 xychart-beta
     title "UmarGit/coffee-llm 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-16", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-16 3 → 2026-11-21 4（+1）
+2026-11-16 3 → 2026-11-22 5（+2）
 
 
 ---

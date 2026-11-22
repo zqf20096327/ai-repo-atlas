@@ -1,6 +1,6 @@
 # matt-bentley/LLM-RAG-Architecture
 
-⭐ 81 · C# · MIT · 推送 2026-01-12 · [GitHub](https://github.com/matt-bentley/LLM-RAG-Architecture) · 个人维护
+⭐ 82 · C# · MIT · 推送 2026-01-12 · [GitHub](https://github.com/matt-bentley/LLM-RAG-Architecture) · 个人维护
 
 **给开发者的 .NET 生产级 RAG 文档问答参考架构**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matt-bentley/LLM-RAG-Architecture 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 80 --> 83
+    line [81, 82]
 ```
 
-2026-10-19 81 → 2026-11-21 81（+0）
+2026-10-20 81 → 2026-11-22 82（+1）
 
 
 ---

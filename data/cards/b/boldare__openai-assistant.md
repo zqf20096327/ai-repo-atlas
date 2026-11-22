@@ -40,6 +40,18 @@
 > L16:  A NestJS library for building efficient, scalable, and fast solutions using the OpenAI Assistant API (chatbots). K
 > L30: **The library provides ready-to-use API endpoints** handling your assistant and WebSocket server for real-time comm
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "boldare/openai-assistant 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 103 --> 105
+    line [104, 104]
+```
+
+2026-11-21 104 → 2026-11-22 104（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `7e43a887763c` · [字段定义](../../DATASET.md)*

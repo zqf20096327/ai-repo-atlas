@@ -1,6 +1,6 @@
 # Zimpi/DRYL.Components
 
-⭐ 10 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Zimpi/DRYL.Components) · [官网](https://components.dryl.dev) · 个人维护
+⭐ 10 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Zimpi/DRYL.Components) · [官网](https://components.dryl.dev) · 个人维护
 
 **面向 Blazor 开发者的带 AI 状态视觉语言的 UI 组件库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Zimpi/DRYL.Components 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-21"]
+    x-axis ["2026-10-30", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-30 10 → 2026-11-21 10（+0）
+2026-10-30 10 → 2026-11-22 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # vinthuy/reqmango
 
-⭐ 12 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/vinthuy/reqmango) · [官网](https://vinthuy.github.io/reqmango/) · 个人维护 · 中文 README
+⭐ 13 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/vinthuy/reqmango) · [官网](https://vinthuy.github.io/reqmango/) · 个人维护 · 中文 README
 
 **自托管项目管理工具：请求先分诊再入积压，AI 辅助处理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "vinthuy/reqmango 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-10", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-30", "2026-11-10", "2026-11-11", "2026-11-22"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-30 10 → 2026-11-21 12（+2）
+2026-10-30 10 → 2026-11-22 13（+3）
 
 
 ---

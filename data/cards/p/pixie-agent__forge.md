@@ -1,6 +1,6 @@
 # pixie-agent/forge
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/pixie-agent/forge) · [官网](https://app.1forgen.site) · 组织维护 · 中文 README
+⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/pixie-agent/forge) · [官网](https://app.1forgen.site) · 组织维护 · 中文 README
 
 **面向用户用自然语言生成多文件 React 应用的开源 AI 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pixie-agent/forge 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-15 3 → 2026-11-21 4（+1）
+2026-11-15 3 → 2026-11-22 4（+1）
 
 
 ---

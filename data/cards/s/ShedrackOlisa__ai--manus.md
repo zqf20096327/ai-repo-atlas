@@ -1,6 +1,6 @@
 # ShedrackOlisa/ai--manus
 
-⭐ 151 · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/ShedrackOlisa/ai--manus) · 个人维护
+⭐ 149 · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/ShedrackOlisa/ai--manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：自动执行代码与浏览器操作**
 
@@ -45,12 +45,12 @@ README 描述 Manus 为自主 AI 代理，可代用户编写并执行脚本、�
 ```mermaid
 xychart-beta
     title "ShedrackOlisa/ai--manus 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22"]
     y-axis "stars" 30 --> 282
-    line [53, 51, 261, 152, 151, 151]
+    line [53, 51, 261, 152, 151, 149]
 ```
 
-2026-11-08 53 → 2026-11-21 151（+98）
+2026-11-08 53 → 2026-11-22 149（+96）
 
 
 ---

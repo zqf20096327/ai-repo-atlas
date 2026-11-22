@@ -1,6 +1,6 @@
 # gil-son/language-ai-engineering-lab
 
-⭐ 130 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/gil-son/language-ai-engineering-lab) · 个人维护
+⭐ 130 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/gil-son/language-ai-engineering-lab) · 个人维护
 
 **覆盖 NLP 到 LLM 生产系统的结构化学习路径仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gil-son/language-ai-engineering-lab 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 127 --> 131
     line [128, 129, 128, 129, 130, 130]
 ```
 
-2026-10-19 128 → 2026-11-21 130（+2）
+2026-10-20 128 → 2026-11-22 130（+2）
 
 
 ---

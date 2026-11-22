@@ -1,6 +1,6 @@
 # raceychan/lihil
 
-⭐ 217 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/raceychan/lihil) · [官网](https://www.lihil.cc) · 个人维护
+⭐ 218 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/raceychan/lihil) · [官网](https://www.lihil.cc) · 个人维护
 
 **Python ASGI Web 框架，面向高性能 API 与 WebSocket 开发**
 
@@ -45,12 +45,12 @@ Lihil 是一个 ASGI 兼容的 Python Web 框架，要求 Python>=3.10，通过 
 ```mermaid
 xychart-beta
     title "raceychan/lihil 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
-    y-axis "stars" 215 --> 218
-    line [216, 217, 217]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    y-axis "stars" 215 --> 219
+    line [216, 217, 218]
 ```
 
-2026-10-19 216 → 2026-11-21 217（+1）
+2026-10-20 216 → 2026-11-22 218（+2）
 
 
 ---

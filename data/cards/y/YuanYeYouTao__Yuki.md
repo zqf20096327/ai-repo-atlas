@@ -1,6 +1,6 @@
 # YuanYeYouTao/Yuki
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/YuanYeYouTao/Yuki) · 个人维护 · 中文 README
+⭐ 28 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/YuanYeYouTao/Yuki) · 个人维护 · 中文 README
 
 **自托管多平台社会化 AI Agent：持久身份、长期记忆与自主执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YuanYeYouTao/Yuki 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21"]
+    title "YuanYeYouTao/Yuki 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-22"]
     y-axis "stars" 23 --> 29
-    line [24, 25, 24, 25, 26, 27, 28]
+    line [24, 25, 24, 25, 26, 27, 28, 28]
 ```
 
-2026-10-19 24 → 2026-11-21 28（+4）
+2026-10-20 24 → 2026-11-22 28（+4）
 
 
 ---

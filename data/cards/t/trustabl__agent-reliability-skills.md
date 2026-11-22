@@ -40,6 +40,18 @@ Trustabl Forge 的 MCP 服务器：读取仓库的依赖清单（package.json、
 > L5: Agent Reliability Skills is the MCP server for Trustabl Forge. It writes a pre-coding reliability skill for **your**
 > L8: exactly those SDKs. An agent that reads the skill applies the rules while it writes code, instead of meeting them
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "trustabl/agent-reliability-skills 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-11-21 62 → 2026-11-22 62（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `a2c2f31b53b3` · [字段定义](../../DATASET.md)*

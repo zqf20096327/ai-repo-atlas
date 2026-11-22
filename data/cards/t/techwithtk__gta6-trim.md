@@ -1,6 +1,6 @@
 # techwithtk/gta6-trim
 
-⭐ 9 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/techwithtk/gta6-trim) · [官网](https://gta6trim.com) · 个人维护
+⭐ 11 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/techwithtk/gta6-trim) · [官网](https://gta6trim.com) · 个人维护
 
 **为 GTA 6 主播/剪辑号自动从直播切出竖屏 Shorts**
 
@@ -40,6 +40,18 @@
 > L7: GTA6 Trim watches live GTA 6 streams and long YouTube videos, catches the second chat loses its mind, cuts it to 9:1
 > L29: |**2. It finds the moments**|Chat activity spikes (laughs, "CLIP IT", emote floods) mark the best seconds. Each mom
 > L59: - 💬 **AI captions**: 8 caption styles plus your brand colours
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "techwithtk/gta6-trim 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 8 --> 12
+    line [9, 11]
+```
+
+2026-11-21 9 → 2026-11-22 11（+2）
 
 
 ---

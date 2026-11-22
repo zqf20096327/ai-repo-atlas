@@ -1,6 +1,6 @@
 # Innei/Kagura
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Innei/Kagura) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Innei/Kagura) · 个人维护
 
 **在 Slack 中运行 Claude/Codex 编码 agent 的 Socket Mode 机器人**
 
@@ -45,12 +45,12 @@ TypeScript 编写的 Slack 应用，通过 Socket Mode 将 Anthropic Claude Agen
 ```mermaid
 xychart-beta
     title "Innei/Kagura 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
     y-axis "stars" 54 --> 57
     line [55, 56, 56]
 ```
 
-2026-10-19 55 → 2026-11-21 56（+1）
+2026-10-20 55 → 2026-11-22 56（+1）
 
 
 ---

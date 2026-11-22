@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhengkai15/Awesome-Weather-Forecast 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-19 22 → 2026-11-21 22（+0）
+2026-10-20 22 → 2026-11-22 22（+0）
 
 
 ---

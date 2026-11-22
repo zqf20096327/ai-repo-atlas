@@ -41,6 +41,18 @@ FrontierML 由 Induction Labs 发布，包含 21 个端到端机器学习任务�
 > L9: This repository contains the 21 tasks, the evaluation infrastructure, and Spin, the service agents use to purchase c
 > L13: Evaluations run through Harbor, with Modal providing the agent and grading environments. You need uv, a Modal accou
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "induction-labs/frontier-ml 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-21 13 → 2026-11-22 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `2a55bff5b3a9` · [字段定义](../../DATASET.md)*

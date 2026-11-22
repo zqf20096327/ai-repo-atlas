@@ -1,6 +1,6 @@
 # haoqinhe8-boop/NeuroShaqma
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/haoqinhe8-boop/NeuroShaqma) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/haoqinhe8-boop/NeuroShaqma) · 个人维护 · 中文 README
 
 **果蝇规模的脉冲神经网络仿真：在家用电脑运行并验证**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "haoqinhe8-boop/NeuroShaqma 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-21"]
+    x-axis ["2026-11-14", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-21 3（+0）
+2026-11-14 3 → 2026-11-22 3（+0）
 
 
 ---

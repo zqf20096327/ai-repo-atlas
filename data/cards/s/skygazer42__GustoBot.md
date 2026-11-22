@@ -1,6 +1,6 @@
 # skygazer42/GustoBot
 
-⭐ 416 · HTML · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/skygazer42/GustoBot) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **中华菜谱领域的 Multi-Agent 智能客服系统**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

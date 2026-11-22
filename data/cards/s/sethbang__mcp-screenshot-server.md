@@ -1,6 +1,6 @@
 # sethbang/mcp-screenshot-server
 
-⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/sethbang/mcp-screenshot-server) · 个人维护
+⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/sethbang/mcp-screenshot-server) · 个人维护
 
 **为 AI 助手提供网页与系统截图能力的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sethbang/mcp-screenshot-server 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 34 --> 38
     line [35, 37, 37]
 ```
 
-2026-10-19 35 → 2026-11-21 37（+2）
+2026-10-20 35 → 2026-11-22 37（+2）
 
 
 ---

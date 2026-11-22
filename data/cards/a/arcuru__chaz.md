@@ -1,6 +1,6 @@
 # arcuru/chaz
 
-⭐ 68 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/arcuru/chaz) · [官网](https://chaz.is) · 个人维护
+⭐ 68 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/arcuru/chaz) · [官网](https://chaz.is) · 个人维护
 
 **实验性 AI agent 框架，含 Matrix 桥接与多 agent 编排**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arcuru/chaz 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-19 68 → 2026-11-21 68（+0）
+2026-10-20 68 → 2026-11-22 68（+0）
 
 
 ---

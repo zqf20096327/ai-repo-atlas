@@ -1,6 +1,6 @@
 # Nocturne-Ai-Labs/Umbra-Studio
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Nocturne-Ai-Labs/Umbra-Studio) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Nocturne-Ai-Labs/Umbra-Studio) · 组织维护
 
 **便携式 AI 图像/视频创作工作台，统一管理 ComfyUI 生成工具链**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Nocturne-Ai-Labs/Umbra-Studio 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-08", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

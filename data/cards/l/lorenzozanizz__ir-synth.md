@@ -1,6 +1,6 @@
 # lorenzozanizz/ir-synth
 
-⭐ 12 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/lorenzozanizz/ir-synth) · [官网](https://lorenzozanizz.github.io/ir-synth/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/lorenzozanizz/ir-synth) · [官网](https://lorenzozanizz.github.io/ir-synth/) · 个人维护
 
 **Blender 插件：程序化生成带标注的合成热成像数据**
 
@@ -45,12 +45,12 @@ Blender 插件，在 3D 场景上叠加温度场模拟，将温度转换为辐�
 ```mermaid
 xychart-beta
     title "lorenzozanizz/ir-synth 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-15", "2026-11-21"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-15", "2026-11-22"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-28 10 → 2026-11-21 12（+2）
+2026-10-28 10 → 2026-11-22 13（+3）
 
 
 ---

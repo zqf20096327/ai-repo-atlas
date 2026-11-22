@@ -1,6 +1,6 @@
 # tantour/sitr
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/tantour/sitr) · [官网](https://sitr-extension.pages.dev/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为穆斯林用户提供本地端图像/视频人物遮挡的 Chrome 扩展**
 
@@ -11,7 +11,7 @@ Sitr 是一个 Chrome 扩展，在本地设备上运行模型，对网页图片�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

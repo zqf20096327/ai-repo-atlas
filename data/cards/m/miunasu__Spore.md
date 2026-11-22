@@ -1,6 +1,6 @@
 # miunasu/Spore
 
-⭐ 53 · Python · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/miunasu/Spore) · 个人维护 · 中文 README
+⭐ 54 · Python · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/miunasu/Spore) · 个人维护 · 中文 README
 
 **Windows 桌面 AI Agent：自然语言操作全机文件与系统，可停止/回滚**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "miunasu/Spore 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54]
 ```
 
-2026-10-19 52 → 2026-11-21 53（+1）
+2026-10-20 52 → 2026-11-22 54（+2）
 
 
 ---

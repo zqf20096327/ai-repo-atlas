@@ -1,6 +1,6 @@
 # whystrohm/digital-twin-of-yourself
 
-⭐ 23 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/whystrohm/digital-twin-of-yourself) · [官网](https://whystrohm.com) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/whystrohm/digital-twin-of-yourself) · [官网](https://whystrohm.com) · 个人维护
 
 **从你的写作提取可测试的个人数字分身 System Prompt 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "whystrohm/digital-twin-of-yourself 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-21"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-11-14", "2026-11-22"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-11-14 23 → 2026-11-21 23（+0）
+2026-11-14 23 → 2026-11-22 24（+1）
 
 
 ---

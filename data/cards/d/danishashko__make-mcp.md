@@ -1,6 +1,6 @@
 # danishashko/make-mcp
 
-⭐ 10 · TypeScript · MIT · 推送 2026-02-14 · [GitHub](https://github.com/danishashko/make-mcp) · [官网](https://www.npmjs.com/package/make-mcp-server) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-02-14 · [GitHub](https://github.com/danishashko/make-mcp) · [官网](https://www.npmjs.com/package/make-mcp-server) · 个人维护
 
 **让 AI 助手检索、校验并部署 Make.com 自动化场景的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danishashko/make-mcp 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-20", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-20 10 → 2026-11-21 10（+0）
+2026-11-20 10 → 2026-11-22 11（+1）
 
 
 ---

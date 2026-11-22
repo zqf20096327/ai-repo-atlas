@@ -1,6 +1,6 @@
 # nadeko-bot/nadekobot
 
-⭐ 81 · C# · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/nadeko-bot/nadekobot) · [官网](https://nadeko.bot) · 组织维护
+⭐ 81 · C# · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/nadeko-bot/nadekobot) · [官网](https://nadeko.bot) · 组织维护
 
 **多功能自托管 Discord 机器人：管理、等级、经济、游戏、音乐**
 
@@ -45,12 +45,12 @@ C#/.NET 9 编写的开源 Discord 机器人，功能覆盖审核处罚与防刷�
 ```mermaid
 xychart-beta
     title "nadeko-bot/nadekobot 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-11-08 81 → 2026-11-21 81（+0）
+2026-11-08 81 → 2026-11-22 81（+0）
 
 
 ---

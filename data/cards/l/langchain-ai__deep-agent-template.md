@@ -1,6 +1,6 @@
 # langchain-ai/deep-agent-template
 
-⭐ 21 · Python · 推送 2026-11-16 · [GitHub](https://github.com/langchain-ai/deep-agent-template) · 组织维护
+⭐ 22 · Python · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/deep-agent-template) · 组织维护
 
 **开发者部署 deep agent 的 LangGraph 项目模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/deep-agent-template 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 22（+1）
 
 
 ---

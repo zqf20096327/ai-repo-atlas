@@ -1,6 +1,6 @@
 # jhl-labs/sepilot_desktop
 
-⭐ 50 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/jhl-labs/sepilot_desktop) · [官网](https://jhl-labs.github.io/sepilot_desktop/) · 组织维护
+⭐ 50 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/jhl-labs/sepilot_desktop) · [官网](https://jhl-labs.github.io/sepilot_desktop/) · 组织维护
 
 **本地 AI 代理 Sepilot 的桌面客户端应用**
 
@@ -45,12 +45,12 @@ Sepilot Desktop 是本地优先 AI 代理 Sepilot 的桌面应用，基于 Elect
 ```mermaid
 xychart-beta
     title "jhl-labs/sepilot_desktop 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-19 50 → 2026-11-21 50（+0）
+2026-10-20 50 → 2026-11-22 50（+0）
 
 
 ---

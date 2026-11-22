@@ -1,6 +1,6 @@
 # ra1phdd/zev
 
-⭐ 3 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ra1phdd/zev) · 个人维护
+⭐ 3 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ra1phdd/zev) · 个人维护
 
 **面向开发者的自然语言转 shell 命令 CLI 工具**
 
@@ -47,12 +47,12 @@ Go 编写的命令行工具：用户以自然语言描述需求，生成至多�
 ```mermaid
 xychart-beta
     title "ra1phdd/zev 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-18", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-21 3（+0）
+2026-11-18 3 → 2026-11-22 3（+0）
 
 
 ---

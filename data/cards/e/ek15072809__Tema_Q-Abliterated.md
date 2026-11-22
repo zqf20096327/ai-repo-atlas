@@ -1,6 +1,6 @@
 # ek15072809/Tema_Q-Abliterated
 
-⭐ 8 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ek15072809/Tema_Q-Abliterated) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **LLM 拒绝行为移除的自动化研究工具，CPU 可运行**
 
@@ -11,7 +11,7 @@ Tema_Q-Abliterated 实现名为 SCAPE 的搜索式 abliteration 流程，自动�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

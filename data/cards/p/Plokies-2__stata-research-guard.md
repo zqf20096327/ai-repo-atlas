@@ -1,6 +1,6 @@
 # Plokies-2/stata-research-guard
 
-⭐ 4 · Stata · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Plokies-2/stata-research-guard) · 个人维护
+⭐ 4 · Stata · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Plokies-2/stata-research-guard) · 个人维护
 
 **为经济学研究者的 AI 辅助 Stata 编码提供指导与工具的 Codex 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Plokies-2/stata-research-guard 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-21"]
+    x-axis ["2026-10-23", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-23 4 → 2026-11-21 4（+0）
+2026-10-23 4 → 2026-11-22 4（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nakafaai/nakafa.com
 
-⭐ 81 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/nakafaai/nakafa.com) · [官网](https://nakafa.com) · 组织维护
+⭐ 81 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/nakafaai/nakafa.com) · [官网](https://nakafa.com) · 组织维护
 
 **面向 K-12 到大学学习的源码可见教育平台（结构化学习/测评/古兰经/政治分析）**
 
@@ -46,12 +46,12 @@ Nakafa 是生产站点 nakafa.com 的源码仓库，包含 React/Next.js 应用�
 ```mermaid
 xychart-beta
     title "nakafaai/nakafa.com 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22"]
     y-axis "stars" 78 --> 82
     line [79, 80, 79, 80, 81, 81]
 ```
 
-2026-10-19 79 → 2026-11-21 81（+2）
+2026-10-20 79 → 2026-11-22 81（+2）
 
 
 ---

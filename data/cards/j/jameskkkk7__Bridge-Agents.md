@@ -1,6 +1,6 @@
 # jameskkkk7/Bridge-Agents
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jameskkkk7/Bridge-Agents) · 个人维护 · 中文 README
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jameskkkk7/Bridge-Agents) · 个人维护 · 中文 README
 
 **给企业做客服对话控制平面：可视化流程+引用式RAG**
 
@@ -41,6 +41,18 @@
 > L5: **Visual AI workflows for customer support, grounded in your documentation.**
 > L32: Bridge-Agents is built around two product pillars — a visual workflow editor and
 > L47: - **Control plane** — the visual graph, node settings and the support prompt,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jameskkkk7/Bridge-Agents 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
+```
+
+2026-11-21 7 → 2026-11-22 8（+1）
 
 
 ---

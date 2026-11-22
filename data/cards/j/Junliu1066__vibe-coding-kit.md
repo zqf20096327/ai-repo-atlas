@@ -1,6 +1,6 @@
 # Junliu1066/vibe-coding-kit
 
-⭐ 99 · MIT · 推送 2026-06-30 · [GitHub](https://github.com/Junliu1066/vibe-coding-kit) · 个人维护 · 中文 README
+⭐ 100 · MIT · 推送 2026-06-30 · [GitHub](https://github.com/Junliu1066/vibe-coding-kit) · 个人维护 · 中文 README
 
 **给非技术产品人的 vibe coding 规划技能包：先想清需求再让 AI 写码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Junliu1066/vibe-coding-kit 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-19 99 → 2026-11-21 99（+0）
+2026-10-20 99 → 2026-11-22 100（+1）
 
 
 ---

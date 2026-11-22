@@ -1,6 +1,6 @@
 # cs-internship/cs-internship-spec
 
-⭐ 86 · 推送 2026-11-16 · [GitHub](https://github.com/cs-internship/cs-internship-spec) · 组织维护
+⭐ 86 · 推送 2026-11-21 · [GitHub](https://github.com/cs-internship/cs-internship-spec) · 组织维护
 
 **软件工程实习项目的章程与课程规范文档**
 
@@ -44,12 +44,12 @@ Crystalline Society 社区维护的 CS Internship 项目规范仓库：定义项
 ```mermaid
 xychart-beta
     title "cs-internship/cs-internship-spec 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 85 --> 88
     line [87, 86, 87, 86, 86]
 ```
 
-2026-10-19 87 → 2026-11-21 86（-1）
+2026-10-20 87 → 2026-11-22 86（-1）
 
 
 ---

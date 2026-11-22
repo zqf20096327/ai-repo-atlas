@@ -1,6 +1,6 @@
 # JHPatchouli/clawbot-roleplay
 
-⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/JHPatchouli/clawbot-roleplay) · [官网](https://github.com/JHPatchouli/clawbot-roleplay/wiki) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 ClawBot 微信接口的角色扮演聊天后端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | NOASSERTION |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

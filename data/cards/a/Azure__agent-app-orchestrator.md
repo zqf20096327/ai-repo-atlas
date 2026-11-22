@@ -1,6 +1,6 @@
 # Azure/agent-app-orchestrator
 
-⭐ 108 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Azure/agent-app-orchestrator) · [官网](https://aka.ms/agentlz) · 组织维护
+⭐ 108 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Azure/agent-app-orchestrator) · [官网](https://aka.ms/agentlz) · 组织维护
 
 **Agent Landing Zone 的多智能体编排服务（Python/FastAPI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Azure/agent-app-orchestrator 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
     y-axis "stars" 104 --> 109
     line [105, 106, 107, 106, 107, 108, 108]
 ```
 
-2026-10-19 105 → 2026-11-21 108（+3）
+2026-10-20 105 → 2026-11-22 108（+3）
 
 
 ---

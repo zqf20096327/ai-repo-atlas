@@ -1,6 +1,6 @@
 # Seeed-Studio/ModelAssistant
 
-⭐ 449 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Seeed-Studio/ModelAssistant) · [官网](https://sensecraftma.seeed.cc/) · 组织维护 · 中文 README
+⭐ 450 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Seeed-Studio/ModelAssistant) · [官网](https://sensecraftma.seeed.cc/) · 组织维护 · 中文 README
 
 **面向嵌入式设备的 AI 模型训练与部署开源工具链**
 
@@ -45,13 +45,13 @@ Seeed Studio 维护的嵌入式 AI 项目：将 OpenMMLab 等来源的算法（�
 
 ```mermaid
 xychart-beta
-    title "Seeed-Studio/ModelAssistant 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-21"]
+    title "Seeed-Studio/ModelAssistant 星数(近 13 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-22"]
     y-axis "stars" 447 --> 451
-    line [448, 449, 450, 449, 448, 449, 448, 449, 448, 449, 450, 449]
+    line [448, 449, 450, 449, 448, 449, 448, 449, 448, 449, 450, 449, 450]
 ```
 
-2026-10-19 448 → 2026-11-21 449（+1）
+2026-10-20 448 → 2026-11-22 450（+2）
 
 
 ---

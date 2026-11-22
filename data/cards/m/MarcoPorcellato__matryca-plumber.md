@@ -1,6 +1,6 @@
 # MarcoPorcellato/matryca-plumber
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/MarcoPorcellato/matryca-plumber) · 个人维护
+⭐ 103 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/MarcoPorcellato/matryca-plumber) · 个人维护
 
 **面向人类与 AI agent 共用的 Logseq 本地记忆管理守护进程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MarcoPorcellato/matryca-plumber 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-22"]
     y-axis "stars" 99 --> 104
     line [100, 101, 100, 102, 103, 103]
 ```
 
-2026-10-19 100 → 2026-11-21 103（+3）
+2026-10-20 100 → 2026-11-22 103（+3）
 
 
 ---

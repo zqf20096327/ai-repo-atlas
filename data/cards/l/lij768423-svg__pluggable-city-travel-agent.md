@@ -1,6 +1,6 @@
 # lij768423-svg/pluggable-city-travel-agent
 
-⭐ 4 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/lij768423-svg/pluggable-city-travel-agent) · [官网](https://melancholy.live/) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lij768423-svg/pluggable-city-travel-agent) · [官网](https://melancholy.live/) · 个人维护 · 中文 README
 
 **面向自由行用户的大模型旅行行程规划 Agent（Web + MCP）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lij768423-svg/pluggable-city-travel-agent 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-21"]
+    x-axis ["2026-10-31", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-31 4 → 2026-11-21 4（+0）
+2026-10-31 4 → 2026-11-22 4（+0）
 
 
 ---

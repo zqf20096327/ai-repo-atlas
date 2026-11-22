@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "edgeleap/diffsense 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "edgeleap/diffsense 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 84 --> 87
-    line [85, 86]
+    line [85, 86, 86]
 ```
 
-2026-10-19 85 → 2026-11-21 86（+1）
+2026-10-20 85 → 2026-11-22 86（+1）
 
 
 ---

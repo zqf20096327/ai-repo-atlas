@@ -46,12 +46,12 @@ Windows 桌面应用（Electron + Node.js），通过 Chrome DevTools 协议控�
 ```mermaid
 xychart-beta
     title "KuroNya39/boss-candidate-tool 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-11", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-21 10（+0）
+2026-11-11 10 → 2026-11-22 10（+0）
 
 
 ---

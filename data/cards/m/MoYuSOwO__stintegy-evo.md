@@ -1,6 +1,6 @@
 # MoYuSOwO/stintegy-evo
 
-⭐ 12 · C# · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/MoYuSOwO/stintegy-evo) · 个人维护 · 中文 README
+⭐ 12 · C# · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/MoYuSOwO/stintegy-evo) · 个人维护 · 中文 README
 
 **为策略开发者提供的实时赛车模拟核心，AI 从外部接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MoYuSOwO/stintegy-evo 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-22"]
     y-axis "stars" 9 --> 13
     line [10, 12, 12]
 ```
 
-2026-11-02 10 → 2026-11-21 12（+2）
+2026-11-02 10 → 2026-11-22 12（+2）
 
 
 ---

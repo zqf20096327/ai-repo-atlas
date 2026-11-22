@@ -1,6 +1,6 @@
 # jhd3197/CachiBot
 
-⭐ 22 · Python · MIT · 推送 2026-03-04 · [GitHub](https://github.com/jhd3197/CachiBot) · [官网](https://cachibot.ai) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jhd3197/CachiBot) · [官网](https://cachibot.ai) · 个人维护 · 中文 README
 
 **可视化多 agent 平台：构建、部署与审计 AI 机器人**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "jhd3197/CachiBot 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-19 21 → 2026-11-21 22（+1）
+2026-10-20 21 → 2026-11-22 22（+1）
 
 
 ---

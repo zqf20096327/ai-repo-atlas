@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kbhujbal/BRATS_brain_tumor_detection_and_segmentation_twopathwayCNN 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-19 23 → 2026-11-21 23（+0）
+2026-10-20 23 → 2026-11-22 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # syahiidkamil/Software-Engineer-AI-Agent-Atlas
 
-⭐ 406 · JavaScript · 推送 2026-11-01 · [GitHub](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) · [官网](https://www.npmjs.com/package/swe-atlas) · 个人维护
+⭐ 406 · JavaScript · 推送 2026-11-21 · [GitHub](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) · [官网](https://www.npmjs.com/package/swe-atlas) · 个人维护
 
 **给 Claude Code 加装资深工程师层的技能与子代理模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "syahiidkamil/Software-Engineer-AI-Agent-Atlas 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-22"]
     y-axis "stars" 401 --> 407
     line [402, 403, 404, 405, 406, 405, 406, 406]
 ```
 
-2026-10-19 402 → 2026-11-21 406（+4）
+2026-10-20 402 → 2026-11-22 406（+4）
 
 
 ---

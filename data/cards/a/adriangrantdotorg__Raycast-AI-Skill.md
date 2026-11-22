@@ -1,6 +1,6 @@
 # adriangrantdotorg/Raycast-AI-Skill
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/adriangrantdotorg/Raycast-AI-Skill) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/adriangrantdotorg/Raycast-AI-Skill) · 个人维护
 
 **教 AI 编码助手正确生成 Raycast 命令与扩展的技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adriangrantdotorg/Raycast-AI-Skill 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-21 11（+1）
+2026-10-25 10 → 2026-11-22 11（+1）
 
 
 ---

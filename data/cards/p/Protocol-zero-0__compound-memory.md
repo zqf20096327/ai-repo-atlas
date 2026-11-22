@@ -1,6 +1,6 @@
 # Protocol-zero-0/compound-memory
 
-⭐ 295 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Protocol-zero-0/compound-memory) · 个人维护 · 中文 README
+⭐ 314 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Protocol-zero-0/compound-memory) · 个人维护 · 中文 README
 
 **给 Claude Code/Codex 等编程 agent 的跨会话长期记忆工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Protocol-zero-0/compound-memory 星数(近 11 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 24 --> 319
-    line [48, 69, 98, 133, 161, 190, 223, 261, 273, 281, 295]
+    title "Protocol-zero-0/compound-memory 星数(近 12 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 22 --> 340
+    line [48, 69, 98, 133, 161, 190, 223, 261, 273, 281, 295, 314]
 ```
 
-2026-11-10 48 → 2026-11-21 295（+247）
+2026-11-10 48 → 2026-11-22 314（+266）
 
 
 ---

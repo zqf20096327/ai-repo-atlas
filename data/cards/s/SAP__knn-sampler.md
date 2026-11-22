@@ -1,6 +1,6 @@
 # SAP/knn-sampler
 
-⭐ 10 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/SAP/knn-sampler) · 组织维护
+⭐ 10 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SAP/knn-sampler) · 组织维护
 
 **基于 kNN 的缺失值填补工具：恢复缺失值分布并提供不确定性量化**
 
@@ -45,12 +45,12 @@ SAP SE 与 Eurecom 合作的 Python 项目，实现 kNNSampler 填补算法：�
 ```mermaid
 xychart-beta
     title "SAP/knn-sampler 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

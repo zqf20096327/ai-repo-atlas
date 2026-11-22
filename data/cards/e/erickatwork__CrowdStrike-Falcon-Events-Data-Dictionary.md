@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "erickatwork/CrowdStrike-Falcon-Events-Data-Dictionary 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-21"]
+    title "erickatwork/CrowdStrike-Falcon-Events-Data-Dictionary 星数(近 6 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 12, 13, 14]
+    line [10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-19 10 → 2026-11-21 14（+4）
+2026-10-20 10 → 2026-11-22 14（+4）
 
 
 ---

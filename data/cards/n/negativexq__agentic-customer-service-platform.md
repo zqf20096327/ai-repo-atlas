@@ -1,6 +1,6 @@
 # negativexq/agentic-customer-service-platform
 
-⭐ 11 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/negativexq/agentic-customer-service-platform) · [官网](https://omerfkoc.dev) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/negativexq/agentic-customer-service-platform) · [官网](https://omerfkoc.dev) · 个人维护
 
 **生产导向的客服 AI agent 控制平面：LLM 提议、确定性软件裁决执行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "negativexq/agentic-customer-service-platform 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [11, 10, 11]
+    title "negativexq/agentic-customer-service-platform 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [11, 10, 11, 12]
 ```
 
-2026-10-28 11 → 2026-11-21 11（+0）
+2026-10-28 11 → 2026-11-22 12（+1）
 
 
 ---

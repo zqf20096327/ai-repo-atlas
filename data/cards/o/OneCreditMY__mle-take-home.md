@@ -45,13 +45,13 @@ OneCredit Data & AI 团队发布的机器学习工程师带回家招聘测评（
 
 ```mermaid
 xychart-beta
-    title "OneCreditMY/mle-take-home 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    title "OneCreditMY/mle-take-home 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 4 --> 10
-    line [5, 9]
+    line [5, 9, 9]
 ```
 
-2026-11-20 5 → 2026-11-21 9（+4）
+2026-11-20 5 → 2026-11-22 9（+4）
 
 
 ---

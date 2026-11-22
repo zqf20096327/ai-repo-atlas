@@ -1,6 +1,6 @@
 # AnastasiyaW/knowledge-space
 
-⭐ 31 · Python · 推送 2026-11-20 · [GitHub](https://github.com/AnastasiyaW/knowledge-space) · [官网](https://happyin.space/) · 个人维护
+⭐ 31 · Python · 推送 2026-11-21 · [GitHub](https://github.com/AnastasiyaW/knowledge-space) · [官网](https://happyin.space/) · 个人维护
 
 **面向 AI 代理与工程师的 1342+ 篇技术参考知识库（28 领域）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AnastasiyaW/knowledge-space 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-19 30 → 2026-11-21 31（+1）
+2026-10-20 30 → 2026-11-22 31（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lightseekorg/TorchSpec
 
-⭐ 268 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lightseekorg/TorchSpec) · [官网](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) · 组织维护
+⭐ 268 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lightseekorg/TorchSpec) · [官网](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) · 组织维护
 
 **PyTorch 原生的投机解码草稿模型训练框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lightseekorg/TorchSpec 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-12", "2026-11-22"]
     y-axis "stars" 261 --> 269
     line [262, 266, 265, 266, 267, 268, 268]
 ```
 
-2026-10-18 262 → 2026-11-21 268（+6）
+2026-10-19 262 → 2026-11-22 268（+6）
 
 
 ---

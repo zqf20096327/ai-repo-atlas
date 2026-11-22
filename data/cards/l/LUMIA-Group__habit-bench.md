@@ -46,12 +46,12 @@ HABIT-Bench 通过 4 个领域（Food/Finance/Software/Travel）、114 个合成
 ```mermaid
 xychart-beta
     title "LUMIA-Group/habit-bench 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-10-29 4 → 2026-11-21 5（+1）
+2026-10-29 4 → 2026-11-22 5（+1）
 
 
 ---

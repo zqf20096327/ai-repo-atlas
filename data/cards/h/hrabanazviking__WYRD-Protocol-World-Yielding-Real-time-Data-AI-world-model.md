@@ -41,6 +41,18 @@
 > L64: * **ECS Entity-Component System** — World state lives in typed components attached to entities. The LLM receives a 
 > L66: * **Bifrost Bridge Abstraction** — All engine adapters implement the same `BifrostBridge` ABC — ensuring every inte
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hrabanazviking/WYRD-Protocol-World-Yielding-Real-time-Data-AI-world-model 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `fee9a1c9b8ff` · [字段定义](../../DATASET.md)*

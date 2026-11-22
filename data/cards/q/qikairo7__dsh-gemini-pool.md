@@ -1,6 +1,6 @@
 # qikairo7/dsh-gemini-pool
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/qikairo7/dsh-gemini-pool) · [官网](https://github.com/qikairo7/dsh-gemini-pool/releases) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/qikairo7/dsh-gemini-pool) · [官网](https://github.com/qikairo7/dsh-gemini-pool/releases) · 个人维护 · 中文 README
 
 **把 Google AI Pro 订阅接入 DSH 编程环境的多账号 Gemini 插件**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的插件，通过 Google Antigravity / Cloud Code Assi
 ```mermaid
 xychart-beta
     title "qikairo7/dsh-gemini-pool 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 4 --> 11
-    line [5, 6, 7, 6, 8, 10, 10]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 4 --> 12
+    line [5, 6, 7, 6, 8, 10, 11]
 ```
 
-2026-10-18 5 → 2026-11-21 10（+5）
+2026-10-18 5 → 2026-11-22 11（+6）
 
 
 ---

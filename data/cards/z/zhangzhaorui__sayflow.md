@@ -1,6 +1,6 @@
 # zhangzhaorui/sayflow
 
-⭐ 10 · Swift · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/zhangzhaorui/sayflow) · [官网](https://github.com/zhangzhaorui/sayflow) · 个人维护 · 中文 README
+⭐ 11 · Swift · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/zhangzhaorui/sayflow) · [官网](https://github.com/zhangzhaorui/sayflow) · 个人维护 · 中文 README
 
 **macOS 输入法：离线 Rime 打字+可选语音与AI改写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhangzhaorui/sayflow 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 7 --> 11
-    line [8, 10, 10]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 7 --> 12
+    line [8, 10, 11]
 ```
 
-2026-11-19 8 → 2026-11-21 10（+2）
+2026-11-19 8 → 2026-11-22 11（+3）
 
 
 ---

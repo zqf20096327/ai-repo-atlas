@@ -1,6 +1,6 @@
 # soulsteads/soulsteads-agent-workboard
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/soulsteads/soulsteads-agent-workboard) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/soulsteads/soulsteads-agent-workboard) · 个人维护
 
 **给自主 agent 用的共享任务看板：认领、依赖与审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "soulsteads/soulsteads-agent-workboard 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-21"]
+    x-axis ["2026-11-12", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-12 4 → 2026-11-21 4（+0）
+2026-11-12 4 → 2026-11-22 4（+0）
 
 
 ---

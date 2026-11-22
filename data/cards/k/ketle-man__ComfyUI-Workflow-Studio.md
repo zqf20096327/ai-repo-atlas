@@ -1,6 +1,6 @@
 # ketle-man/ComfyUI-Workflow-Studio
 
-⭐ 20 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ketle-man/ComfyUI-Workflow-Studio) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ketle-man/ComfyUI-Workflow-Studio) · 个人维护
 
 **ComfyUI 插件：工作流/模型资产管理与批量生图界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ketle-man/ComfyUI-Workflow-Studio 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-22"]
     y-axis "stars" 19 --> 22
     line [21, 20, 20]
 ```
 
-2026-11-02 21 → 2026-11-21 20（-1）
+2026-11-02 21 → 2026-11-22 20（-1）
 
 
 ---

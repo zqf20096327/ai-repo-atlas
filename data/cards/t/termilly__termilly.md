@@ -1,6 +1,6 @@
 # termilly/termilly
 
-⭐ 51 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/termilly/termilly) · [官网](https://termilly.com) · 个人维护
+⭐ 55 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/termilly/termilly) · [官网](https://termilly.com) · 个人维护
 
 **跨平台终端管理器：分组工作区并显示编码 agent 状态**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "termilly/termilly 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 23 --> 53
-    line [25, 27, 28, 29, 30, 31, 45, 51]
+    title "termilly/termilly 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 22 --> 58
+    line [25, 27, 28, 29, 30, 31, 45, 51, 55]
 ```
 
-2026-11-08 25 → 2026-11-21 51（+26）
+2026-11-08 25 → 2026-11-22 55（+30）
 
 
 ---

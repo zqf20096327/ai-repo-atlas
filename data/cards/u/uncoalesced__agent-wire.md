@@ -1,6 +1,6 @@
 # uncoalesced/agent-wire
 
-⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/uncoalesced/agent-wire) · [官网](https://uncoalesced.com/agent-wire) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/uncoalesced/agent-wire) · [官网](https://uncoalesced.com/agent-wire) · 个人维护
 
 **让 AI agent 在本机读取网页与 31 个站点并写出引用简报的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "uncoalesced/agent-wire 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-29", "2026-11-10", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-29 3 → 2026-11-21 4（+1）
+2026-10-29 3 → 2026-11-22 4（+1）
 
 
 ---

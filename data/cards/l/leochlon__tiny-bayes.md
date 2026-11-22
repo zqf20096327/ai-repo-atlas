@@ -1,6 +1,6 @@
 # leochlon/tiny-bayes
 
-⭐ 26 · Lean · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/leochlon/tiny-bayes) · [官网](https://doi.org/10.5281/zenodo.24346623) · 组织维护
+⭐ 28 · Lean · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/leochlon/tiny-bayes) · [官网](https://doi.org/10.5281/zenodo.24346623) · 组织维护
 
 **用 Lean 4 为语言模型与神经 PDE 求解器提供核验证证明的科研库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leochlon/tiny-bayes 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26]
+    title "leochlon/tiny-bayes 星数(近 4 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 28]
 ```
 
-2026-11-19 24 → 2026-11-21 26（+2）
+2026-11-19 24 → 2026-11-22 28（+4）
 
 
 ---

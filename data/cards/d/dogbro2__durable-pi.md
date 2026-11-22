@@ -1,6 +1,6 @@
 # dogbro2/durable-pi
 
-⭐ 7 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dogbro2/durable-pi) · 个人维护 · 中文 README
+⭐ 8 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dogbro2/durable-pi) · 个人维护 · 中文 README
 
 **自架多用户 AI 工作台：持久 agent + 知识库 + 可分享文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dogbro2/durable-pi 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 7, 7]
+    x-axis ["2026-11-08", "2026-11-18", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 7, 8]
 ```
 
-2026-11-08 4 → 2026-11-21 7（+3）
+2026-11-08 4 → 2026-11-22 8（+4）
 
 
 ---

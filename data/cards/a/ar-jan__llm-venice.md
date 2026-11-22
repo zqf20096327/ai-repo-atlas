@@ -1,6 +1,6 @@
 # ar-jan/llm-venice
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ar-jan/llm-venice) · 个人维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ar-jan/llm-venice) · 个人维护
 
 **接入 Venice AI API 的 LLM 命令行插件：文本/图像/TTS 生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ar-jan/llm-venice 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "ar-jan/llm-venice 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 28 --> 31
-    line [29, 30]
+    line [29, 30, 30]
 ```
 
-2026-10-19 29 → 2026-11-21 30（+1）
+2026-10-20 29 → 2026-11-22 30（+1）
 
 
 ---

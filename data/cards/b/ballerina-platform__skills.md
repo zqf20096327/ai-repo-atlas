@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ballerina-platform/skills 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "ballerina-platform/skills 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 26 --> 29
-    line [28, 27]
+    line [28, 27, 27]
 ```
 
-2026-10-19 28 → 2026-11-21 27（-1）
+2026-10-20 28 → 2026-11-22 27（-1）
 
 
 ---

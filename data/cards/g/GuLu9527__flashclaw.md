@@ -1,6 +1,6 @@
 # GuLu9527/flashclaw
 
-⭐ 29 · TypeScript · MIT · 推送 2026-03-07 · [GitHub](https://github.com/GuLu9527/flashclaw) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-03-07 · [GitHub](https://github.com/GuLu9527/flashclaw) · 个人维护 · 中文 README
 
 **给个人用户的可插拔 AI 助手：飞书/Telegram 对话接入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "GuLu9527/flashclaw 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-19 29 → 2026-11-21 29（+0）
+2026-10-20 29 → 2026-11-22 30（+1）
 
 
 ---

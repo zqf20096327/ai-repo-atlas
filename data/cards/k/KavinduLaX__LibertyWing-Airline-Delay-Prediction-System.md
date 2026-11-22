@@ -1,6 +1,6 @@
 # KavinduLaX/LibertyWing-Airline-Delay-Prediction-System
 
-⭐ 16 · CSS · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KavinduLaX/LibertyWing-Airline-Delay-Prediction-System) · 组织维护
+⭐ 15 · CSS · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KavinduLaX/LibertyWing-Airline-Delay-Prediction-System) · 组织维护
 
 **大学课程项目：预测航班是否延误超15分钟的全栈 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KavinduLaX/LibertyWing-Airline-Delay-Prediction-System 星数(近 6 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 5 --> 19
-    line [6, 18, 16, 15, 16, 16]
+    line [6, 18, 16, 15, 16, 15]
 ```
 
-2026-10-31 6 → 2026-11-21 16（+10）
+2026-10-31 6 → 2026-11-22 15（+9）
 
 
 ---

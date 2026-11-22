@@ -1,6 +1,6 @@
 # HankHuang0516/EClaw
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HankHuang0516/EClaw) · [官网](https://github.com/HankHuang0516/realbot/releases/latest) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/HankHuang0516/EClaw) · [官网](https://github.com/HankHuang0516/realbot/releases/latest) · 个人维护
 
 **AI agent 间 A2A 通信平台，含 Android 电子宠物壁纸**
 
@@ -46,12 +46,12 @@ EClawbot 是面向 AI agent 的 Agent-to-Agent 通信平台：通过自有服务
 ```mermaid
 xychart-beta
     title "HankHuang0516/EClaw 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-19 12 → 2026-11-21 13（+1）
+2026-10-20 12 → 2026-11-22 13（+1）
 
 
 ---

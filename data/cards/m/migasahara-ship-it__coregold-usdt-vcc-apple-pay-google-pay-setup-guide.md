@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 34
-    line [4, 8, 16, 32]
+    line [4, 8, 16, 32, 32]
 ```
 
-2026-11-18 4 → 2026-11-21 32（+28）
+2026-11-18 4 → 2026-11-22 32（+28）
 
 
 ---

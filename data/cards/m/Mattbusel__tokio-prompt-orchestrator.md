@@ -1,6 +1,6 @@
 # Mattbusel/tokio-prompt-orchestrator
 
-⭐ 62 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Mattbusel/tokio-prompt-orchestrator) · [官网](https://mattbusel.github.io/tokio-prompt-orchestrator/) · 个人维护 · 中文 README
+⭐ 62 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Mattbusel/tokio-prompt-orchestrator) · [官网](https://mattbusel.github.io/tokio-prompt-orchestrator/) · 个人维护 · 中文 README
 
 **Rust LLM 请求编排器：去重、熔断、重试与死信队列**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mattbusel/tokio-prompt-orchestrator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-14", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-14", "2026-11-20", "2026-11-22"]
     y-axis "stars" 58 --> 63
     line [59, 60, 61, 62, 62]
 ```
 
-2026-10-18 59 → 2026-11-21 62（+3）
+2026-10-19 59 → 2026-11-22 62（+3）
 
 
 ---

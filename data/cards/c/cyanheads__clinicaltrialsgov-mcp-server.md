@@ -1,6 +1,6 @@
 # cyanheads/clinicaltrialsgov-mcp-server
 
-⭐ 101 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) · [官网](https://www.npmjs.com/package/clinicaltrialsgov-mcp-server) · 个人维护
+⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) · [官网](https://www.npmjs.com/package/clinicaltrialsgov-mcp-server) · 个人维护
 
 **MCP 服务器：检索 ClinicalTrials.gov 试验并匹配患者候选试验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cyanheads/clinicaltrialsgov-mcp-server 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 97 --> 102
-    line [99, 98, 99, 98, 100, 101, 101]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 97 --> 103
+    line [99, 98, 99, 98, 100, 101, 102]
 ```
 
-2026-10-19 99 → 2026-11-21 101（+2）
+2026-10-20 99 → 2026-11-22 102（+3）
 
 
 ---

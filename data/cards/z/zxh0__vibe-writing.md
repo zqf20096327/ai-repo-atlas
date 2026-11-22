@@ -1,6 +1,6 @@
 # zxh0/vibe-writing
 
-⭐ 33 · Python · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/zxh0/vibe-writing) · [官网](https://zxh0.github.io/vibe-writing/) · 个人维护 · 中文 README
+⭐ 33 · Python · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/zxh0/vibe-writing) · [官网](https://zxh0.github.io/vibe-writing/) · 个人维护 · 中文 README
 
 **LLM/深度学习图解笔记与 AI 书籍的写作仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zxh0/vibe-writing 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-11", "2026-11-22"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-11-11 33 → 2026-11-21 33（+0）
+2026-11-11 33 → 2026-11-22 33（+0）
 
 
 ---

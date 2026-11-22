@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "civai-technologies/cursor-agent 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    title "civai-technologies/cursor-agent 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-21", "2026-11-22"]
     y-axis "stars" 135 --> 138
-    line [136, 137, 136]
+    line [136, 137, 136, 136]
 ```
 
-2026-10-19 136 → 2026-11-21 136（+0）
+2026-10-20 136 → 2026-11-22 136（+0）
 
 
 ---

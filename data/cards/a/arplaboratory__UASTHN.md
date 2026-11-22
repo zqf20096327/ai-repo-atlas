@@ -1,6 +1,6 @@
 # arplaboratory/UASTHN
 
-⭐ 27 · Jupyter Notebook · MIT · 推送 2026-02-28 · [GitHub](https://github.com/arplaboratory/UASTHN) · [官网](https://xjh19971.github.io/UASTHN/) · 组织维护
+⭐ 28 · Jupyter Notebook · MIT · 推送 2026-02-28 · [GitHub](https://github.com/arplaboratory/UASTHN) · [官网](https://xjh19971.github.io/UASTHN/) · 组织维护
 
 **无人机热成像-卫星图像地理定位的不确定性感知单应估计模型**
 
@@ -46,12 +46,12 @@ ICRA 2025 论文官方代码库，出自 NYU arplaboratory。提出 UASTHN 方�
 ```mermaid
 xychart-beta
     title "arplaboratory/UASTHN 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-19 27 → 2026-11-21 27（+0）
+2026-10-20 27 → 2026-11-22 28（+1）
 
 
 ---

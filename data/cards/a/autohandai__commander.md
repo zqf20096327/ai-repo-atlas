@@ -1,6 +1,6 @@
 # autohandai/commander
 
-⭐ 89 · TypeScript · 推送 2026-06-09 · [GitHub](https://github.com/autohandai/commander) · [官网](https://www.autohand.ai/commander) · 组织维护
+⭐ 90 · TypeScript · 推送 2026-06-09 · [GitHub](https://github.com/autohandai/commander) · [官网](https://www.autohand.ai/commander) · 组织维护
 
 **编排多个 CLI 编码代理的本地 Tauri 桌面端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "autohandai/commander 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 82 --> 90
-    line [83, 84, 86, 87, 88, 89, 89]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-22"]
+    y-axis "stars" 82 --> 91
+    line [83, 84, 86, 87, 88, 89, 90]
 ```
 
-2026-10-19 83 → 2026-11-21 89（+6）
+2026-10-20 83 → 2026-11-22 90（+7）
 
 
 ---

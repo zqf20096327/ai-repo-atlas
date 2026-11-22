@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OneRose328/awesome-agentic-workflows 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-21"]
+    x-axis ["2026-11-12", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-12 10 → 2026-11-21 10（+0）
+2026-11-12 10 → 2026-11-22 10（+0）
 
 
 ---

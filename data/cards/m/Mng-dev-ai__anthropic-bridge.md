@@ -1,6 +1,6 @@
 # Mng-dev-ai/anthropic-bridge
 
-⭐ 12 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/Mng-dev-ai/anthropic-bridge) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/Mng-dev-ai/anthropic-bridge) · 个人维护
 
 **Anthropic API 兼容代理，将请求转发至 OpenRouter 等多家 LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mng-dev-ai/anthropic-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-19", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-21 12（+1）
+2026-10-19 11 → 2026-11-22 13（+2）
 
 
 ---

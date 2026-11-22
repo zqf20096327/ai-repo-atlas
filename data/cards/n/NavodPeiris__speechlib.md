@@ -45,12 +45,12 @@ Speechlib 是一个 Python 库，将说话人分离（PyAnnote）、说话人识
 ```mermaid
 xychart-beta
     title "NavodPeiris/speechlib 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 267 --> 269
     line [268, 268]
 ```
 
-2026-10-19 268 → 2026-11-21 268（+0）
+2026-10-20 268 → 2026-11-22 268（+0）
 
 
 ---

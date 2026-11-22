@@ -1,6 +1,6 @@
 # leishifu666/lsf-website-design
 
-⭐ 77 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/leishifu666/lsf-website-design) · 个人维护 · 中文 README
+⭐ 78 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/leishifu666/lsf-website-design) · 个人维护 · 中文 README
 
 **给 AI 编程助手的网站设计 skill：参考研究、制作与评审**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leishifu666/lsf-website-design 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 46 --> 79
-    line [48, 52, 58, 62, 65, 67, 70, 73, 77]
+    title "leishifu666/lsf-website-design 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 45 --> 81
+    line [48, 52, 58, 62, 65, 67, 70, 73, 77, 78]
 ```
 
-2026-11-08 48 → 2026-11-21 77（+29）
+2026-11-08 48 → 2026-11-22 78（+30）
 
 
 ---

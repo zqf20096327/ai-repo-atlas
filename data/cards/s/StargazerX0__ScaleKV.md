@@ -45,12 +45,12 @@ ScaleKV 是针对 VAR 下一尺度预测范式的 KV Cache 压缩框架：将 tr
 ```mermaid
 xychart-beta
     title "StargazerX0/ScaleKV 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-19 53 → 2026-11-21 53（+0）
+2026-10-20 53 → 2026-11-22 53（+0）
 
 
 ---

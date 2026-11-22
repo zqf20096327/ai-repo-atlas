@@ -40,6 +40,18 @@
 > L5:  An open-source harness for delegating work to autonomous AI agents through conversation and keeping them running en
 > L18: Because it runs autonomously without assuming you are watching, Vardock does not rely on model alignment or prompt 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "VirtualHatch-Inc/Vardock 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `3f8133c47665` · [字段定义](../../DATASET.md)*

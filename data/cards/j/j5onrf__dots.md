@@ -1,6 +1,6 @@
 # j5onrf/dots
 
-⭐ 121 · CSS · 推送 2026-10-26 · [GitHub](https://github.com/j5onrf/dots) · 个人维护
+⭐ 121 · CSS · 推送 2026-11-21 · [GitHub](https://github.com/j5onrf/dots) · 个人维护
 
 **Hyprland 桌面配置集：含 Waybar/Quickshell 主题与本地 AI 集成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "j5onrf/dots 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 120 --> 122
     line [121, 121]
 ```
 
-2026-10-19 121 → 2026-11-21 121（+0）
+2026-10-20 121 → 2026-11-22 121（+0）
 
 
 ---

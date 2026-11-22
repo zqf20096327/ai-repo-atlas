@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Robin-WZQ/Awesome-Backdoor-on-LMMs 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-18", "2026-11-21"]
+    title "Robin-WZQ/Awesome-Backdoor-on-LMMs 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 121 --> 125
-    line [122, 123, 124]
+    line [122, 123, 124, 124]
 ```
 
-2026-10-19 122 → 2026-11-21 124（+2）
+2026-10-20 122 → 2026-11-22 124（+2）
 
 
 ---

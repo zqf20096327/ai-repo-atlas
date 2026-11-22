@@ -1,6 +1,6 @@
 # lovetimo0421/yumina-oss
 
-⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/lovetimo0421/yumina-oss) · 个人维护
+⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/lovetimo0421/yumina-oss) · 个人维护
 
 **AI 原生互动叙事引擎：让模型驱动游戏世界状态与界面**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lovetimo0421/yumina-oss 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16]
 ```
 
-2026-10-19 13 → 2026-11-21 15（+2）
+2026-10-20 13 → 2026-11-22 16（+3）
 
 
 ---

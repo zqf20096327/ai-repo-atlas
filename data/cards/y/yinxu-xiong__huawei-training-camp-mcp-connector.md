@@ -1,6 +1,6 @@
 # yinxu-xiong/huawei-training-camp-mcp-connector
 
-⭐ 15 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/yinxu-xiong/huawei-training-camp-mcp-connector) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yinxu-xiong/huawei-training-camp-mcp-connector) · 个人维护 · 中文 README
 
 **把华为运动健康数据接入 AI 客户端的本地 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yinxu-xiong/huawei-training-camp-mcp-connector 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-11-02", "2026-11-10", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-10", "2026-11-15", "2026-11-22"]
     y-axis "stars" 11 --> 16
     line [12, 13, 14, 15, 15]
 ```
 
-2026-10-29 12 → 2026-11-21 15（+3）
+2026-10-29 12 → 2026-11-22 15（+3）
 
 
 ---

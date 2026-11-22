@@ -1,6 +1,6 @@
 # ArcAnima/ComfyUI-Anima-Ref-Adapter
 
-⭐ 244 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/ArcAnima/ComfyUI-Anima-Ref-Adapter) · 个人维护 · 中文 README
+⭐ 245 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/ArcAnima/ComfyUI-Anima-Ref-Adapter) · 个人维护 · 中文 README
 
 **ComfyUI 节点+LoRA：让 Anima 模型按参考图保持角色与画风生成图像**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArcAnima/ComfyUI-Anima-Ref-Adapter 星数(近 11 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 182 --> 249
-    line [187, 196, 229, 233, 235, 237, 238, 239, 241, 243, 244]
+    title "ArcAnima/ComfyUI-Anima-Ref-Adapter 星数(近 12 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 182 --> 250
+    line [187, 196, 229, 233, 235, 237, 238, 239, 241, 243, 244, 245]
 ```
 
-2026-11-01 187 → 2026-11-21 244（+57）
+2026-11-01 187 → 2026-11-22 245（+58）
 
 
 ---

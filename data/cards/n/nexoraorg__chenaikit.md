@@ -43,12 +43,12 @@ chenaikit 是一个 monorepo，包含 Soroban 智能合约、Express+Prisma 后�
 ```mermaid
 xychart-beta
     title "nexoraorg/chenaikit 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-19 16 → 2026-11-21 16（+0）
+2026-10-20 16 → 2026-11-22 16（+0）
 
 
 ---

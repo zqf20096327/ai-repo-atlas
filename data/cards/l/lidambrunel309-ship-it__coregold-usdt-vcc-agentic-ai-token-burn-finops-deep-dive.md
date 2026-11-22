@@ -40,6 +40,18 @@
 > L3: # ⚡ AI Agent 吞 Token 时代：从清算底层拆解如何防锁卡、防账单穿透（附 CoreGold 实操）
 > L35: ### 🧭 极简开卡与绑定流程（一看就会）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-21 12 → 2026-11-22 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `1d9fdcfc0f53` · [字段定义](../../DATASET.md)*

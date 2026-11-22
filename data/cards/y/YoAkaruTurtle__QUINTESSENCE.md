@@ -1,6 +1,6 @@
 # YoAkaruTurtle/QUINTESSENCE
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/YoAkaruTurtle/QUINTESSENCE) · 个人维护 · 中文 README
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/YoAkaruTurtle/QUINTESSENCE) · 个人维护 · 中文 README
 
 **给个人 AI 提供跨会话持久认知状态的研究系统**
 
@@ -45,12 +45,12 @@ QUINTESSENCE 是一个持久认知系统（PCS）研究项目：将可替换的 
 ```mermaid
 xychart-beta
     title "YoAkaruTurtle/QUINTESSENCE 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-21 4（+1）
+2026-11-08 3 → 2026-11-22 4（+1）
 
 
 ---

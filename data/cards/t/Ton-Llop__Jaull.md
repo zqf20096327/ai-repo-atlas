@@ -1,6 +1,6 @@
 # Ton-Llop/Jaull
 
-⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Ton-Llop/Jaull) · [官网](jaull.tech) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Ton-Llop/Jaull) · [官网](jaull.tech) · 个人维护
 
 **检测本机硬件并推荐、验证可运行本地 LLM 的工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Ton-Llop/Jaull 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-20", "2026-11-22"]
     y-axis "stars" 12 --> 17
     line [13, 15, 16, 16]
 ```
 
-2026-11-14 13 → 2026-11-21 16（+3）
+2026-11-14 13 → 2026-11-22 16（+3）
 
 
 ---

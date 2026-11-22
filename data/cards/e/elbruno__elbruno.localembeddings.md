@@ -1,6 +1,6 @@
 # elbruno/elbruno.localembeddings
 
-⭐ 46 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/elbruno/elbruno.localembeddings) · 个人维护
+⭐ 47 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/elbruno/elbruno.localembeddings) · 个人维护
 
 **.NET 本地文本嵌入生成库，基于 ONNX Runtime 离线运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elbruno/elbruno.localembeddings 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 41 --> 47
-    line [42, 43, 42, 44, 45, 46, 46]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 41 --> 48
+    line [42, 43, 42, 44, 45, 46, 47]
 ```
 
-2026-10-19 42 → 2026-11-21 46（+4）
+2026-10-20 42 → 2026-11-22 47（+5）
 
 
 ---

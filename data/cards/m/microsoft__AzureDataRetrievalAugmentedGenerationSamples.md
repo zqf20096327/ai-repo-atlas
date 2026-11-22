@@ -1,6 +1,6 @@
 # microsoft/AzureDataRetrievalAugmentedGenerationSamples
 
-⭐ 177 · Jupyter Notebook · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) · 组织维护
+⭐ 178 · Jupyter Notebook · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) · 组织维护
 
 **微软官方 Azure 数据 RAG 示例代码集合：演示接入多种 Azure 数据库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/AzureDataRetrievalAugmentedGenerationSamples 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-21"]
-    y-axis "stars" 176 --> 178
-    line [177, 177]
+    x-axis ["2026-11-13", "2026-11-22"]
+    y-axis "stars" 176 --> 179
+    line [177, 178]
 ```
 
-2026-11-13 177 → 2026-11-21 177（+0）
+2026-11-13 177 → 2026-11-22 178（+1）
 
 
 ---

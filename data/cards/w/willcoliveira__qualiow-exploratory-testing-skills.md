@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "willcoliveira/qualiow-exploratory-testing-skills 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-21"]
+    title "willcoliveira/qualiow-exploratory-testing-skills 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-11-21", "2026-11-22"]
     y-axis "stars" 12 --> 17
-    line [13, 14, 15, 16]
+    line [13, 14, 15, 16, 16]
 ```
 
-2026-10-19 13 → 2026-11-21 16（+3）
+2026-10-20 13 → 2026-11-22 16（+3）
 
 
 ---

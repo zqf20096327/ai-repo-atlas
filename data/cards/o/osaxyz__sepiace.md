@@ -1,6 +1,6 @@
 # osaxyz/sepiace
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/osaxyz/sepiace) · [官网](https://sepiace.io) · 组织维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/osaxyz/sepiace) · [官网](https://sepiace.io) · 组织维护
 
 **给编码 agent 提供长期记忆的插件与托管服务**
 
@@ -46,12 +46,12 @@ sepiace 以一句话自然语言为接口，为 AI agent 提供记忆的保存�
 ```mermaid
 xychart-beta
     title "osaxyz/sepiace 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-19 3 → 2026-11-21 3（+0）
+2026-10-20 3 → 2026-11-22 3（+0）
 
 
 ---

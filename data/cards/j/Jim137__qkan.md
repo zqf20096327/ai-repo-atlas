@@ -1,6 +1,6 @@
 # Jim137/qkan
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Jim137/qkan) · [官网](https://qkan.jimq.cc) · 个人维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Jim137/qkan) · [官网](https://qkan.jimq.cc) · 个人维护
 
 **论文官方实现的量子启发 Kolmogorov-Arnold 网络库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jim137/qkan 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 30 --> 33
     line [31, 32, 31, 32, 32]
 ```
 
-2026-10-19 31 → 2026-11-21 32（+1）
+2026-10-20 31 → 2026-11-22 32（+1）
 
 
 ---

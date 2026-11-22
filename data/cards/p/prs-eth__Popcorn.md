@@ -1,6 +1,6 @@
 # prs-eth/Popcorn
 
-⭐ 47 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/prs-eth/Popcorn) · [官网](https://popcorn-population.github.io/) · 组织维护
+⭐ 47 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/prs-eth/Popcorn) · [官网](https://popcorn-population.github.io/) · 组织维护
 
 **卫星影像生成高分辨率人口图的深度学习方法（ETH 研究）**
 
@@ -45,12 +45,12 @@ ETH Zürich 与 EPFL 团队发布的科研代码（RSE 2024 论文），用免�
 ```mermaid
 xychart-beta
     title "prs-eth/Popcorn 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-19 47 → 2026-11-21 47（+0）
+2026-10-20 47 → 2026-11-22 47（+0）
 
 
 ---

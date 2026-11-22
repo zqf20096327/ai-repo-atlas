@@ -1,6 +1,6 @@
 # sudoeren/sofa
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sudoeren/sofa) · [官网](https://sofa.erencakar.com) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sudoeren/sofa) · [官网](https://sofa.erencakar.com) · 个人维护
 
 **自托管的群组协作空间：群里直接向 AI 要投票、行程、分账工具**
 
@@ -46,12 +46,12 @@ Sofa 是一个开源、自托管的群组协作空间：用户开一个空间并
 ```mermaid
 xychart-beta
     title "sudoeren/sofa 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-18", "2026-11-22"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-18 7 → 2026-11-21 7（+0）
+2026-11-18 7 → 2026-11-22 7（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # norton77930/understanding-ai-outputs
 
-⭐ 3 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/norton77930/understanding-ai-outputs) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 Claude Code 等 agent 的技能集：把 LLM 输出转为 STE 文本、图表、网页与讲解视频**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

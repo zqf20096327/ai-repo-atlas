@@ -1,6 +1,6 @@
 # stubbi/paperclip-operator
 
-⭐ 31 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stubbi/paperclip-operator) · [官网](https://paperclip.inc) · 组织维护
+⭐ 32 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stubbi/paperclip-operator) · [官网](https://paperclip.inc) · 组织维护
 
 **在 Kubernetes 上部署管理 Paperclip AI agent 平台的 Operator**
 
@@ -45,12 +45,12 @@ Go 编写的 Kubernetes Operator，通过单个 Instance 自定义资源（CRD�
 ```mermaid
 xychart-beta
     title "stubbi/paperclip-operator 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 25 --> 32
-    line [26, 30, 31, 31]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 25 --> 33
+    line [26, 30, 31, 32]
 ```
 
-2026-10-19 26 → 2026-11-21 31（+5）
+2026-10-20 26 → 2026-11-22 32（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # kjiwa/thelounge-plugin-catchup
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kjiwa/thelounge-plugin-catchup) · [官网](https://www.npmjs.com/package/thelounge-plugin-catchup) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **The Lounge IRC 插件：按需用 LLM 总结频道错过的消息**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

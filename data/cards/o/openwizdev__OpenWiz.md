@@ -1,6 +1,6 @@
 # openwizdev/OpenWiz
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/openwizdev/OpenWiz) · [官网](https://openwiz.dev) · 组织维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/openwizdev/OpenWiz) · [官网](https://openwiz.dev) · 组织维护
 
 **agent 工厂的开放内核：驱动代理编写、构建、审查并合并**
 
@@ -39,6 +39,18 @@ OpenWiz 自称 agent 工厂的开放内核，本仓库为内核本体，其他�
 
 > L3: **OpenWiz is the open kernel for agent factories. Bring your own everything. Owned by no one.** This repo is the ker
 > L25: - **Records on GitHub.** Specs, tickets and one status note per agent live in your repo's issues. Anything that fol
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openwizdev/OpenWiz 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
 
 
 ---

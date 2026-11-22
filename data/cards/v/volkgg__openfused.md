@@ -1,6 +1,6 @@
 # volkgg/openfused
 
-⭐ 18 · Rust · MIT · 推送 2026-06-20 · [GitHub](https://github.com/volkgg/openfused) · [官网](https://openfused.dev) · 组织维护
+⭐ 19 · Rust · MIT · 推送 2026-06-20 · [GitHub](https://github.com/volkgg/openfused) · [官网](https://openfused.dev) · 组织维护
 
 **基于纯文件的 AI agent 持久上下文与加密消息层**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "volkgg/openfused 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-19 18 → 2026-11-21 18（+0）
+2026-10-20 18 → 2026-11-22 19（+1）
 
 
 ---

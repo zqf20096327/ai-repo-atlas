@@ -1,6 +1,6 @@
 # devswarm-ai/devswarm
 
-⭐ 148 · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/devswarm-ai/devswarm) · [官网](https://devswarm.ai) · 组织维护
+⭐ 149 · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/devswarm-ai/devswarm) · [官网](https://devswarm.ai) · 组织维护
 
 **桌面端并行运行多个 AI 编码助手的 AI 开发环境（ADE）**
 
@@ -45,12 +45,12 @@ DevSwarm 是一个 macOS/Windows 桌面应用：以 Git worktree 为每个工作
 ```mermaid
 xychart-beta
     title "devswarm-ai/devswarm 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 139 --> 149
-    line [140, 141, 143, 141, 146, 147, 148, 148]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-22"]
+    y-axis "stars" 139 --> 150
+    line [140, 141, 143, 141, 146, 147, 148, 149]
 ```
 
-2026-10-19 140 → 2026-11-21 148（+8）
+2026-10-20 140 → 2026-11-22 149（+9）
 
 
 ---

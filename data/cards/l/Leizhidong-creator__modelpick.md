@@ -1,6 +1,6 @@
 # Leizhidong-creator/modelpick
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Leizhidong-creator/modelpick) · [官网](https://leizhidong-creator.github.io/modelpick/) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Leizhidong-creator/modelpick) · [官网](https://leizhidong-creator.github.io/modelpick/) · 个人维护 · 中文 README
 
 **给 AI agent 的模型路由 CLI：按任务节点选模型并计算每任务成本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Leizhidong-creator/modelpick 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-20", "2026-11-22"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-20 4 → 2026-11-21 4（+0）
+2026-11-20 4 → 2026-11-22 5（+1）
 
 
 ---

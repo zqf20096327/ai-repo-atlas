@@ -1,6 +1,6 @@
 # miaomiao0227/cineagent
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/miaomiao0227/cineagent) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **对话式电影推荐系统：偏好记忆+多路线推荐对照评测**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

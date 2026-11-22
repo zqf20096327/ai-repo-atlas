@@ -1,6 +1,6 @@
 # QuentinWach/image-ranker
 
-⭐ 93 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/QuentinWach/image-ranker) · 个人维护
+⭐ 94 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/QuentinWach/image-ranker) · 个人维护
 
 **浏览器内两两对比并用 TrueSkill 排序图片、生成偏好数据集的 Web 工具**
 
@@ -45,12 +45,12 @@ Flask Web 应用：用户在浏览器中对本地目录图片做两两比较，�
 ```mermaid
 xychart-beta
     title "QuentinWach/image-ranker 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-11", "2026-11-22"]
     y-axis "stars" 92 --> 95
-    line [93, 94, 93, 93]
+    line [93, 94, 93, 94]
 ```
 
-2026-10-19 93 → 2026-11-21 93（+0）
+2026-10-20 93 → 2026-11-22 94（+1）
 
 
 ---

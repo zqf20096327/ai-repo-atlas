@@ -1,6 +1,6 @@
 # nishantnnb/spectrolipi
 
-⭐ 12 · JavaScript · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/nishantnnb/spectrolipi) · [官网](https://spectrolipi.com) · 个人维护
+⭐ 13 · JavaScript · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/nishantnnb/spectrolipi) · [官网](https://spectrolipi.com) · 个人维护
 
 **浏览器内生物声学频谱图标注与 BirdNET 辅助分析工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nishantnnb/spectrolipi 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-19 11 → 2026-11-21 12（+1）
+2026-10-20 11 → 2026-11-22 13（+2）
 
 
 ---

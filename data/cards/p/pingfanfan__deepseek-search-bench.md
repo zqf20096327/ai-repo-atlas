@@ -1,6 +1,6 @@
 # pingfanfan/deepseek-search-bench
 
-⭐ 4 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/pingfanfan/deepseek-search-bench) · [官网](https://pingfanfan.github.io/deepseek-search-bench/) · 个人维护 · 中文 README
+⭐ 5 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/pingfanfan/deepseek-search-bench) · [官网](https://pingfanfan.github.io/deepseek-search-bench/) · 个人维护 · 中文 README
 
 **测试 DeepSeek Search/Fetch API 信源质量的基准工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "pingfanfan/deepseek-search-bench 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-21"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-10-22", "2026-11-22"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-10-22 4 → 2026-11-21 4（+0）
+2026-10-22 4 → 2026-11-22 5（+1）
 
 
 ---

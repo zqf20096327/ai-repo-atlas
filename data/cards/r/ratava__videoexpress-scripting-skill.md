@@ -1,6 +1,6 @@
 # ratava/videoexpress-scripting-skill
 
-⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/ratava/videoexpress-scripting-skill) · 个人维护
+⭐ 13 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ratava/videoexpress-scripting-skill) · 个人维护
 
 **为 Agent 编写 VideoExpress 多片段 AI 视频提示包的技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ratava/videoexpress-scripting-skill 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 3 --> 13
-    line [4, 5, 7, 8, 9, 10, 5, 11, 12, 12]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 3 --> 14
+    line [4, 5, 7, 8, 9, 10, 5, 11, 12, 13]
 ```
 
-2026-10-19 4 → 2026-11-21 12（+8）
+2026-10-20 4 → 2026-11-22 13（+9）
 
 
 ---

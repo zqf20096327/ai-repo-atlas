@@ -1,6 +1,6 @@
 # mibazarow/meha
 
-⭐ 3 · Kotlin · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/mibazarow/meha) · 个人维护
+⭐ 4 · Kotlin · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/mibazarow/meha) · 个人维护
 
 **面向 Android 用户的本地 AI agent 应用，执行设备操作任务**
 
@@ -41,6 +41,18 @@
 > L45: **Меха** — не чат-бот и не голосовой ассистент. Это агент, у которого есть руки: он работает
 > L46: с телефоном через официальные Android API и выполняет задачу целиком, а не рассказывает, как её
 > L158: **Мозг** — языковая модель, **руки** — Android API. Цикл «план → вызов → результат → план».
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mibazarow/meha 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-21 3 → 2026-11-22 4（+1）
 
 
 ---

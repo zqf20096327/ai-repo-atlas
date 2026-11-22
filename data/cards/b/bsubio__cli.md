@@ -1,6 +1,6 @@
 # bsubio/cli
 
-⭐ 18 · Go · MIT · 推送 2025-11-25 · [GitHub](https://github.com/bsubio/cli) · [官网](https://www.bsub.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **bsub.io 批处理云服务的命令行客户端：提交/查询批处理任务**
 
@@ -11,7 +11,7 @@ bsub.io 在线批处理服务的 CLI 工具：用户通过 register 命令注册
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

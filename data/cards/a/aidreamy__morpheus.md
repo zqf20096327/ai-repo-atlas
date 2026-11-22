@@ -1,6 +1,6 @@
 # aidreamy/morpheus
 
-⭐ 15 · Rust · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/aidreamy/morpheus) · [官网](https://morpheus.aidreamy.com) · 个人维护
+⭐ 15 · Rust · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/aidreamy/morpheus) · [官网](https://morpheus.aidreamy.com) · 个人维护
 
 **面向终端的 Rust 多智能体编排器：统一管理多个 coding agent**
 
@@ -39,6 +39,18 @@
 
 > L11: Morpheus is not meant to replace established coding agents. It is designed to work alongside them as an orchestrati
 > L13: - **Multi-agent collaboration**: run different state-of-the-art agents (Claude, Gemini, Codex, Cline, etc.) in the 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aidreamy/morpheus 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-21 15 → 2026-11-22 15（+0）
 
 
 ---

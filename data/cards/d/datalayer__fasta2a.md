@@ -1,6 +1,6 @@
 # datalayer/fasta2a
 
-⭐ 225 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/datalayer/fasta2a) · 组织维护
+⭐ 226 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/datalayer/fasta2a) · 组织维护
 
 **将任意 AI Agent 封装为 A2A 协议服务器的 Python 库**
 
@@ -45,12 +45,12 @@ Python 实现的 A2A 协议框架，与具体 agent 框架无关：基于 Starle
 ```mermaid
 xychart-beta
     title "datalayer/fasta2a 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 221 --> 226
-    line [222, 223, 225, 225]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 221 --> 227
+    line [222, 223, 225, 226]
 ```
 
-2026-10-19 222 → 2026-11-21 225（+3）
+2026-10-20 222 → 2026-11-22 226（+4）
 
 
 ---

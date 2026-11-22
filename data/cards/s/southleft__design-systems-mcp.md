@@ -1,6 +1,6 @@
 # southleft/design-systems-mcp
 
-⭐ 228 · TypeScript · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/southleft/design-systems-mcp) · [官网](https://design-systems-mcp.southleft.com/) · 个人维护
+⭐ 229 · TypeScript · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/southleft/design-systems-mcp) · [官网](https://design-systems-mcp.southleft.com/) · 个人维护
 
 **给 AI 编码工具的设计系统知识库 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "southleft/design-systems-mcp 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 221 --> 229
-    line [222, 224, 222, 226, 227, 228]
+    title "southleft/design-systems-mcp 星数(近 7 点)"
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 221 --> 230
+    line [222, 224, 222, 226, 227, 228, 229]
 ```
 
-2026-10-19 222 → 2026-11-21 228（+6）
+2026-10-20 222 → 2026-11-22 229（+7）
 
 
 ---

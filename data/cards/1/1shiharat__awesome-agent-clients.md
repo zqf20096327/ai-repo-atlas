@@ -1,6 +1,6 @@
 # 1shiharat/awesome-agent-clients
 
-⭐ 17 · CC0-1.0 · 推送 2026-11-17 · [GitHub](https://github.com/1shiharat/awesome-agent-clients) · [官网](https://github.com/1shiharat/awesome-agent-clients#readme) · 个人维护 · 中文 README
+⭐ 17 · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/1shiharat/awesome-agent-clients) · [官网](https://github.com/1shiharat/awesome-agent-clients#readme) · 个人维护 · 中文 README
 
 **AI 编码 agent 客户端与编排器策展清单（按星标排序）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "1shiharat/awesome-agent-clients 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 13 --> 18
     line [14, 15, 14, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-21 17（+3）
+2026-10-19 14 → 2026-11-22 17（+3）
 
 
 ---

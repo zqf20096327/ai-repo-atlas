@@ -1,6 +1,6 @@
 # lucasdelimanogueira/PyNorch
 
-⭐ 168 · Python · 推送 2025-11-25 · [GitHub](https://github.com/lucasdelimanogueira/PyNorch) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **从零重写 PyTorch 的教学用深度学习框架**
 

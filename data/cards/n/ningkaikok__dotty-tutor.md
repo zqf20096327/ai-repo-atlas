@@ -1,6 +1,6 @@
 # ningkaikok/dotty-tutor
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ningkaikok/dotty-tutor) · 个人维护 · 中文 README
+⭐ 12 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ningkaikok/dotty-tutor) · 个人维护 · 中文 README
 
 **面向中文教材场景的 AI 数字化出题与互动练习平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ningkaikok/dotty-tutor 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-02", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-02 10 → 2026-11-21 11（+1）
+2026-11-02 10 → 2026-11-22 12（+2）
 
 
 ---

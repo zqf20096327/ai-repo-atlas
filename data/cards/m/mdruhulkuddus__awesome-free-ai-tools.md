@@ -1,6 +1,6 @@
 # mdruhulkuddus/awesome-free-ai-tools
 
-⭐ 25 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/mdruhulkuddus/awesome-free-ai-tools) · [官网](https://mdruhulkuddus.github.io/awesome-free-ai-tools/) · 个人维护
+⭐ 26 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/mdruhulkuddus/awesome-free-ai-tools) · [官网](https://mdruhulkuddus.github.io/awesome-free-ai-tools/) · 个人维护
 
 **免费 AI 工具策展清单：230+ 工具按 35+ 类别整理免费额度**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mdruhulkuddus/awesome-free-ai-tools 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 15 --> 26
-    line [16, 17, 20, 16, 21, 23, 24, 25, 24, 25, 25]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 15 --> 27
+    line [16, 17, 20, 16, 21, 23, 24, 25, 24, 25, 26]
 ```
 
-2026-10-19 16 → 2026-11-21 25（+9）
+2026-10-20 16 → 2026-11-22 26（+10）
 
 
 ---

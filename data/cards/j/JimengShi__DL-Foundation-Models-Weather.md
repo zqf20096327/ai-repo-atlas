@@ -46,12 +46,12 @@ IJCAI 2026 综述论文《deep learning and foundation models for weather predic
 ```mermaid
 xychart-beta
     title "JimengShi/DL-Foundation-Models-Weather 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 89 --> 92
     line [90, 91, 91]
 ```
 
-2026-10-19 90 → 2026-11-21 91（+1）
+2026-10-20 90 → 2026-11-22 91（+1）
 
 
 ---

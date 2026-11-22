@@ -44,12 +44,12 @@ pi coding agent 的扩展：通过系统提示注入的 Boss Mode，将任务拆
 ```mermaid
 xychart-beta
     title "skyfallsin/pi-boss 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

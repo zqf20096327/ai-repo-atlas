@@ -1,6 +1,6 @@
 # myths-labs/prometheus-avatar
 
-⭐ 19 · HTML · MIT · 推送 2026-11-15 · [GitHub](https://github.com/myths-labs/prometheus-avatar) · [官网](https://prometheus.mythslabs.ai) · 个人维护 · 中文 README
+⭐ 19 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/myths-labs/prometheus-avatar) · [官网](https://prometheus.mythslabs.ai) · 个人维护 · 中文 README
 
 **给 AI 加上虚拟化身：用 LLM 输出驱动 Live2D/3D 形象的 SDK**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "myths-labs/prometheus-avatar 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 16 --> 20
     line [17, 18, 17, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-21 19（+2）
+2026-10-19 17 → 2026-11-22 19（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Zhaimiaoyizhi/TurnMap
 
-⭐ 41 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Zhaimiaoyizhi/TurnMap) · 个人维护 · 中文 README
+⭐ 42 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Zhaimiaoyizhi/TurnMap) · 个人维护 · 中文 README
 
 **把网页 AI 对话转成可编辑思维导图的浏览器扩展**
 
@@ -46,12 +46,12 @@ Chromium Manifest V3 浏览器扩展（Chrome/Edge），把当前 AI 网站会�
 ```mermaid
 xychart-beta
     title "Zhaimiaoyizhi/TurnMap 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-21"]
-    y-axis "stars" 38 --> 42
-    line [39, 40, 41, 41]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-11-22"]
+    y-axis "stars" 38 --> 43
+    line [39, 40, 41, 42]
 ```
 
-2026-10-19 39 → 2026-11-21 41（+2）
+2026-10-20 39 → 2026-11-22 42（+3）
 
 
 ---

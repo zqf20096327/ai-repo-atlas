@@ -1,6 +1,6 @@
 # montanaflynn/stats
 
-⭐ 3,030 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/montanaflynn/stats) · [官网](https://pkg.go.dev/github.com/montanaflynn/stats) · 个人维护
+⭐ 3,031 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/montanaflynn/stats) · [官网](https://pkg.go.dev/github.com/montanaflynn/stats) · 个人维护
 
 **无依赖的 Go 语言统计学函数库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "montanaflynn/stats 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
     y-axis "stars" 3028 --> 3032
-    line [3031, 3030, 3029, 3030, 3031, 3030, 3030]
+    line [3031, 3030, 3029, 3030, 3031, 3030, 3031]
 ```
 
-2026-10-19 3,031 → 2026-11-21 3,030（-1）
+2026-10-20 3,031 → 2026-11-22 3,031（+0）
 
 
 ---

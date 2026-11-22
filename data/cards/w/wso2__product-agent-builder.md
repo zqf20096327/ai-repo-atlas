@@ -1,6 +1,6 @@
 # wso2/product-agent-builder
 
-⭐ 42 · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/wso2/product-agent-builder) · 组织维护
+⭐ 42 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/wso2/product-agent-builder) · 组织维护
 
 **面向开发者的开源低代码 AI agent 构建 IDE**
 
@@ -46,12 +46,12 @@ WSO2 维护的开源低代码 IDE，用于构建 AI agent：可视化连接触�
 ```mermaid
 xychart-beta
     title "wso2/product-agent-builder 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 1 --> 45
     line [4, 37, 38, 4, 42, 42]
 ```
 
-2026-10-19 4 → 2026-11-21 42（+38）
+2026-10-20 4 → 2026-11-22 42（+38）
 
 
 ---

@@ -1,6 +1,6 @@
 # sakalond/ComfyUI-LATO2
 
-⭐ 47 · Python · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/sakalond/ComfyUI-LATO2) · [官网](https://github.com/sakalond/ComfyUI-LATO2#readme) · 个人维护
+⭐ 49 · Python · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/sakalond/ComfyUI-LATO2) · [官网](https://github.com/sakalond/ComfyUI-LATO2#readme) · 个人维护
 
 **ComfyUI 节点：把稠密生成网格重拓扑为低多边形网格**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sakalond/ComfyUI-LATO2 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 44 --> 48
-    line [45, 46, 45, 46, 47]
+    title "sakalond/ComfyUI-LATO2 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 44 --> 50
+    line [45, 46, 45, 46, 47, 49]
 ```
 
-2026-11-08 45 → 2026-11-21 47（+2）
+2026-11-08 45 → 2026-11-22 49（+4）
 
 
 ---

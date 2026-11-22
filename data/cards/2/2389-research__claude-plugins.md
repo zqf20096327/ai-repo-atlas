@@ -1,6 +1,6 @@
 # 2389-research/claude-plugins
 
-⭐ 104 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/2389-research/claude-plugins) · [官网](https://2389.ai/research/products/skills-marketplace/) · 组织维护
+⭐ 106 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/2389-research/claude-plugins) · [官网](https://2389.ai/research/products/skills-marketplace/) · 组织维护
 
 **面向 Claude Code 的 28 个插件与 MCP 服务器集合**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "2389-research/claude-plugins 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 96 --> 105
-    line [97, 98, 99, 97, 101, 102, 103, 104]
+    title "2389-research/claude-plugins 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 96 --> 107
+    line [97, 98, 99, 97, 101, 102, 103, 104, 106]
 ```
 
-2026-10-18 97 → 2026-11-21 104（+7）
+2026-10-19 97 → 2026-11-22 106（+9）
 
 
 ---

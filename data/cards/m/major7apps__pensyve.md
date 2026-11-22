@@ -1,6 +1,6 @@
 # major7apps/pensyve
 
-⭐ 102 · Rust · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/major7apps/pensyve) · 组织维护
+⭐ 102 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/major7apps/pensyve) · 组织维护
 
 **AI agent 的持久化记忆运行时：跨会话存取事实与对话**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "major7apps/pensyve 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
+    title "major7apps/pensyve 星数(近 6 点)"
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-22"]
     y-axis "stars" 96 --> 103
-    line [97, 99, 100, 101, 102]
+    line [97, 99, 100, 101, 102, 102]
 ```
 
-2026-10-19 97 → 2026-11-21 102（+5）
+2026-10-20 97 → 2026-11-22 102（+5）
 
 
 ---

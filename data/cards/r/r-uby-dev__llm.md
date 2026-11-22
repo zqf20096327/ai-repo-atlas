@@ -1,6 +1,6 @@
 # r-uby-dev/llm
 
-⭐ 142 · Ruby · MIT · 推送 2026-11-20 · [GitHub](https://github.com/r-uby-dev/llm) · 个人维护
+⭐ 142 · Ruby · MIT · 推送 2026-11-21 · [GitHub](https://github.com/r-uby-dev/llm) · 个人维护
 
 **Ruby 的 agentic AI 应用运行时框架，统一 API 覆盖 14+ 提供商**
 
@@ -47,12 +47,12 @@ llm.rb 是在 CRuby 上构建 agentic AI 应用的运行时，默认零运行时
 ```mermaid
 xychart-beta
     title "r-uby-dev/llm 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 141 --> 146
     line [145, 144, 145, 142, 142]
 ```
 
-2026-10-19 145 → 2026-11-21 142（-3）
+2026-10-20 145 → 2026-11-22 142（-3）
 
 
 ---

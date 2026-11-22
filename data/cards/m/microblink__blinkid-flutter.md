@@ -46,12 +46,12 @@ Microblink 商业 BlinkID SDK 的 Flutter 封装插件：通过摄像头或静�
 ```mermaid
 xychart-beta
     title "microblink/blinkid-flutter 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-10-19 84 → 2026-11-21 84（+0）
+2026-10-20 84 → 2026-11-22 84（+0）
 
 
 ---

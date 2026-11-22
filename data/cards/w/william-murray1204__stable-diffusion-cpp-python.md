@@ -1,6 +1,6 @@
 # william-murray1204/stable-diffusion-cpp-python
 
-⭐ 125 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/william-murray1204/stable-diffusion-cpp-python) · 个人维护
+⭐ 126 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/william-murray1204/stable-diffusion-cpp-python) · 个人维护
 
 **stable-diffusion.cpp 的 Python 绑定：本地生成图像/视频**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "william-murray1204/stable-diffusion-cpp-python 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-12", "2026-11-22"]
     y-axis "stars" 124 --> 127
-    line [126, 125, 125]
+    line [126, 125, 126]
 ```
 
-2026-10-19 126 → 2026-11-21 125（-1）
+2026-10-20 126 → 2026-11-22 126（+0）
 
 
 ---

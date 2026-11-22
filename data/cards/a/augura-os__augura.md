@@ -1,6 +1,6 @@
 # augura-os/augura
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/augura-os/augura) · [官网](https://auguraos.com/en) · 组织维护 · 中文 README
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/augura-os/augura) · [官网](https://auguraos.com/en) · 组织维护 · 中文 README
 
 **面向手游 UA 团队的本地优先创意知识图谱系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "augura-os/augura 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-22"]
     y-axis "stars" 12 --> 19
     line [13, 15, 16, 17, 18, 18]
 ```
 
-2026-10-19 13 → 2026-11-21 18（+5）
+2026-10-20 13 → 2026-11-22 18（+5）
 
 
 ---

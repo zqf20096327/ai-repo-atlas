@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 4 --> 44
-    line [7, 12, 16, 26, 41]
+    line [7, 12, 16, 26, 41, 41]
 ```
 
-2026-11-16 7 → 2026-11-21 41（+34）
+2026-11-16 7 → 2026-11-22 41（+34）
 
 
 ---

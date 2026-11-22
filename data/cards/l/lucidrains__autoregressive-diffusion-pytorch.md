@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/autoregressive-diffusion-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 440 --> 442
     line [441, 441]
 ```
 
-2026-10-19 441 → 2026-11-21 441（+0）
+2026-10-20 441 → 2026-11-22 441（+0）
 
 
 ---

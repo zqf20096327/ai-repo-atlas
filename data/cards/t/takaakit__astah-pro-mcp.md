@@ -1,6 +1,6 @@
 # takaakit/astah-pro-mcp
 
-⭐ 23 · Java · 推送 2026-11-14 · [GitHub](https://github.com/takaakit/astah-pro-mcp) · 个人维护
+⭐ 24 · Java · 推送 2026-11-14 · [GitHub](https://github.com/takaakit/astah-pro-mcp) · 个人维护
 
 **Astah Professional 的 MCP 服务器插件：让 AI agent 操作 UML 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "takaakit/astah-pro-mcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-19 23 → 2026-11-21 23（+0）
+2026-10-20 23 → 2026-11-22 24（+1）
 
 
 ---

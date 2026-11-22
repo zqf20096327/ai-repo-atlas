@@ -1,6 +1,6 @@
 # thesysdev/opendashboards
 
-⭐ 368 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/thesysdev/opendashboards) · [官网](https://opendashboards.com) · 组织维护
+⭐ 405 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/thesysdev/opendashboards) · [官网](https://opendashboards.com) · 组织维护
 
 **用自然语言提问生成实时数据看板的开源工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thesysdev/opendashboards 星数(近 9 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 0 --> 402
-    line [24, 53, 105, 192, 230, 251, 274, 312, 368]
+    title "thesysdev/opendashboards 星数(近 10 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 0 --> 443
+    line [24, 53, 105, 192, 230, 251, 274, 312, 368, 405]
 ```
 
-2026-11-12 24 → 2026-11-21 368（+344）
+2026-11-12 24 → 2026-11-22 405（+381）
 
 
 ---

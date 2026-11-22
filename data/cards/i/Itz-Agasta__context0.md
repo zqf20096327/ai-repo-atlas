@@ -1,6 +1,6 @@
 # Itz-Agasta/context0
 
-⭐ 16 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/Itz-Agasta/context0) · [官网](https://context0-liard.vercel.app) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/Itz-Agasta/context0) · [官网](https://context0-liard.vercel.app) · 个人维护
 
 **去中心化 AI agent 记忆共享协议：记忆存 Arweave 区块链**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Itz-Agasta/context0 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-11-21 16（+0）
+2026-10-19 16 → 2026-11-22 17（+1）
 
 
 ---

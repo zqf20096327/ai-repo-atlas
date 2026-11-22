@@ -1,6 +1,6 @@
 # hazel-js/hazeljs
 
-⭐ 63 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/hazel-js/hazeljs) · [官网](https://hazeljs.ai) · 组织维护
+⭐ 63 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/hazel-js/hazeljs) · [官网](https://hazeljs.ai) · 组织维护
 
 **TypeScript 后端中运行治理型 Agent 的 Agent OS 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hazel-js/hazeljs 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
     y-axis "stars" 49 --> 64
     line [50, 51, 54, 58, 59, 62, 63, 63]
 ```
 
-2026-10-19 50 → 2026-11-21 63（+13）
+2026-10-20 50 → 2026-11-22 63（+13）
 
 
 ---

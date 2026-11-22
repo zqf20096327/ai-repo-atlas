@@ -1,6 +1,6 @@
 # badchars/osint-mcp-server
 
-⭐ 64 · TypeScript · MIT · 推送 2026-03-17 · [GitHub](https://github.com/badchars/osint-mcp-server) · [官网](https://github.com/badchars/osint-mcp) · 个人维护
+⭐ 65 · TypeScript · MIT · 推送 2026-03-17 · [GitHub](https://github.com/badchars/osint-mcp-server) · [官网](https://github.com/badchars/osint-mcp) · 个人维护
 
 **为 AI agent 提供 37 个 OSINT 工具的统一 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "badchars/osint-mcp-server 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 60 --> 65
-    line [62, 61, 62, 63, 64]
+    title "badchars/osint-mcp-server 星数(近 6 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 60 --> 66
+    line [62, 61, 62, 63, 64, 65]
 ```
 
-2026-10-31 62 → 2026-11-21 64（+2）
+2026-10-31 62 → 2026-11-22 65（+3）
 
 
 ---

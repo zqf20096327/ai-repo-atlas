@@ -1,6 +1,6 @@
 # Mintplex-Labs/anythingllm-extension
 
-⭐ 238 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-extension) · [官网](https://anythingllm.com) · 组织维护
+⭐ 239 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-extension) · [官网](https://anythingllm.com) · 组织维护
 
 **将网页内容送入 AnythingLLM 的 Chrome 扩展**
 
@@ -44,13 +44,13 @@ Mintplex Labs 维护的 Chrome 浏览器扩展，用于连接本地或远程的 
 
 ```mermaid
 xychart-beta
-    title "Mintplex-Labs/anythingllm-extension 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 229 --> 239
-    line [230, 231, 232, 233, 234, 232, 235, 236, 237, 238]
+    title "Mintplex-Labs/anythingllm-extension 星数(近 11 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 229 --> 240
+    line [230, 231, 232, 233, 234, 232, 235, 236, 237, 238, 239]
 ```
 
-2026-10-19 230 → 2026-11-21 238（+8）
+2026-10-20 230 → 2026-11-22 239（+9）
 
 
 ---

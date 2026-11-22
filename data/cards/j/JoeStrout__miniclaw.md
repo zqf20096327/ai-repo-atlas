@@ -43,12 +43,12 @@ MiniClaw 用 MiniScript 编写、运行于 Mini Micro 虚拟机内，是一个�
 ```mermaid
 xychart-beta
     title "JoeStrout/miniclaw 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 11（+0）
 
 
 ---

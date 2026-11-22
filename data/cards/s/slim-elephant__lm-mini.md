@@ -1,6 +1,6 @@
 # slim-elephant/lm-mini
 
-⭐ 4 · Dart · MIT · 推送 2026-11-20 · [GitHub](https://github.com/slim-elephant/lm-mini) · [官网](https://lmmini.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **手机/桌面多端本地 AI 聊天客户端，连接 LM Studio 与 Ollama**
 
@@ -11,7 +11,7 @@ Flutter 编写的开源聊天客户端，连接局域网内 LM Studio、Ollama�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

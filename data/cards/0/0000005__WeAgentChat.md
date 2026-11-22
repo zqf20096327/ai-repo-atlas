@@ -1,6 +1,6 @@
 # 0000005/WeAgentChat
 
-⭐ 66 · Python · 推送 2026-07-27 · [GitHub](https://github.com/0000005/WeAgentChat) · [官网](https://weagentchat.pages.dev/) · 组织维护 · 中文 README
+⭐ 65 · Python · 推送 2026-07-27 · [GitHub](https://github.com/0000005/WeAgentChat) · [官网](https://weagentchat.pages.dev/) · 组织维护 · 中文 README
 
 **本地优先的 AI 陪伴聊天应用，AI 好友带长期记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0000005/WeAgentChat 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
     y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    line [65, 66, 65]
 ```
 
-2026-10-19 65 → 2026-11-21 66（+1）
+2026-10-20 65 → 2026-11-22 65（+0）
 
 
 ---

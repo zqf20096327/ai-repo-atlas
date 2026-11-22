@@ -1,6 +1,6 @@
 # promptadvisers/unlock
 
-⭐ 18 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/promptadvisers/unlock) · 个人维护
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/promptadvisers/unlock) · 个人维护
 
 **通过 Claude Code/Codex 编辑本地模型行为的技能：改副本、留原件**
 
@@ -45,13 +45,13 @@ Unlock 是一组安装到 Claude Code 或 Codex 技能目录的指令与辅助�
 
 ```mermaid
 xychart-beta
-    title "promptadvisers/unlock 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 13 --> 19
-    line [14, 18]
+    title "promptadvisers/unlock 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 13 --> 22
+    line [14, 18, 21]
 ```
 
-2026-11-20 14 → 2026-11-21 18（+4）
+2026-11-20 14 → 2026-11-22 21（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # kalomak/fNIRSAtlas
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kalomak/fNIRSAtlas) · [官网](https://fnirsatlas.github.io/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kalomak/fNIRSAtlas) · [官网](https://fnirsatlas.github.io/) · 个人维护
 
 **面向 fNIRS 研究者的脑机接口数据基准与分类流水线库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kalomak/fNIRSAtlas 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-21 3（+0）
+2026-11-13 3 → 2026-11-22 3（+0）
 
 
 ---

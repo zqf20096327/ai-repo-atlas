@@ -1,6 +1,6 @@
 # DavidZWZ/Awesome-RAG-Reasoning
 
-⭐ 460 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) · [官网](https://arxiv.org/abs/2507.09477) · 组织维护
+⭐ 462 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) · [官网](https://arxiv.org/abs/2507.09477) · 组织维护
 
 **RAG 与推理交叉领域的论文与资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DavidZWZ/Awesome-RAG-Reasoning 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 458 --> 462
-    line [461, 460, 459, 460, 461, 460, 460]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 458 --> 463
+    line [461, 460, 459, 460, 461, 460, 462]
 ```
 
-2026-10-19 461 → 2026-11-21 460（-1）
+2026-10-20 461 → 2026-11-22 462（+1）
 
 
 ---

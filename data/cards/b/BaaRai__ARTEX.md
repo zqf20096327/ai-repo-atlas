@@ -1,6 +1,6 @@
 # BaaRai/ARTEX
 
-⭐ 13,559 · Go · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/BaaRai/ARTEX) · 个人维护
+⭐ 14,911 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/BaaRai/ARTEX) · 个人维护
 
 **自托管多 Agent 自主渗透测试平台，发现绑定证据链**
 
@@ -41,6 +41,18 @@ ARTEX 是自托管的 LLM 驱动渗透测试平台：planner 将目标分解为 
 > L19: ARTEX is a self-hosted, LLM-driven penetration testing platform. It is not a chat wrapper around
 > L9: Self-hosted multi-agent offensive security. A planner explores, workers run real tools,
 > L33: - **Self-hosted and model-agnostic.** One Go binary with the Next.js UI embedded, PostgreSQL,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BaaRai/ARTEX 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 13424 --> 15046
+    line [13559, 14911]
+```
+
+2026-11-21 13,559 → 2026-11-22 14,911（+1,352）
 
 
 ---

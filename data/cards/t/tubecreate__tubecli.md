@@ -1,6 +1,6 @@
 # tubecreate/tubecli
 
-⭐ 174 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tubecreate/tubecli) · [官网](https://tubecli.app) · 组织维护 · 中文 README
+⭐ 175 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tubecreate/tubecli) · [官网](https://tubecli.app) · 组织维护 · 中文 README
 
 **自托管 AI agent 团队：用自然语言完成视频制作、建站部署与浏览器自动化**
 
@@ -46,12 +46,12 @@ TubeCLI 是基于 Python 3.10+/FastAPI 的自托管多 agent 系统：用户通�
 ```mermaid
 xychart-beta
     title "tubecreate/tubecli 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 173 --> 175
-    line [174, 174]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 173 --> 176
+    line [174, 175]
 ```
 
-2026-10-19 174 → 2026-11-21 174（+0）
+2026-10-20 174 → 2026-11-22 175（+1）
 
 
 ---

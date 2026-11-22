@@ -1,6 +1,6 @@
 # sudokar/openspec-plus
 
-⭐ 218 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/sudokar/openspec-plus) · [官网](https://github.com/sudokar/openspec-plus) · 个人维护
+⭐ 219 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/sudokar/openspec-plus) · [官网](https://github.com/sudokar/openspec-plus) · 个人维护
 
 **增强 OpenSpec 规范驱动开发的 agent 技能集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sudokar/openspec-plus 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-13", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 213 --> 219
-    line [214, 215, 216, 215, 216, 218, 218]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-13", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 213 --> 220
+    line [214, 215, 216, 215, 216, 218, 219]
 ```
 
-2026-10-19 214 → 2026-11-21 218（+4）
+2026-10-20 214 → 2026-11-22 219（+5）
 
 
 ---

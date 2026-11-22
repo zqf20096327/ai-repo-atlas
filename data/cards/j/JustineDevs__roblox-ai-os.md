@@ -1,6 +1,6 @@
 # JustineDevs/roblox-ai-os
 
-⭐ 15 · Lua · 推送 2026-05-12 · [GitHub](https://github.com/JustineDevs/roblox-ai-os) · [官网](https://buymeacoffee.com/justinedevs) · 个人维护
+⭐ 16 · Lua · 推送 2026-05-12 · [GitHub](https://github.com/JustineDevs/roblox-ai-os) · [官网](https://buymeacoffee.com/justinedevs) · 个人维护
 
 **给 Roblox 创作者提供的 Codex CLI 工作流与运行时层**
 
@@ -46,12 +46,12 @@ RCS 是构建在 OpenAI Codex CLI 之上的 Roblox Studio 工作流层，把简�
 ```mermaid
 xychart-beta
     title "JustineDevs/roblox-ai-os 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 9 --> 16
-    line [10, 13, 14, 15, 15]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 9 --> 17
+    line [10, 13, 14, 15, 16]
 ```
 
-2026-10-29 10 → 2026-11-21 15（+5）
+2026-10-29 10 → 2026-11-22 16（+6）
 
 
 ---

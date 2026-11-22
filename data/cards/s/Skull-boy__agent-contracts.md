@@ -1,6 +1,6 @@
 # Skull-boy/agent-contracts
 
-⭐ 25 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Skull-boy/agent-contracts) · [官网](https://pypi.org/project/scyvera/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI agent 运行前治理层：机器可读契约定义权限边界并强制执行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

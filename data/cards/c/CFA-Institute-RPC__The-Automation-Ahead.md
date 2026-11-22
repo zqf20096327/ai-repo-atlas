@@ -45,12 +45,12 @@ CFA Institute Research & Policy Center 的 Automation Ahead 内容系列配套�
 ```mermaid
 xychart-beta
     title "CFA-Institute-RPC/The-Automation-Ahead 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 71 --> 75
     line [72, 73, 72, 74, 74]
 ```
 
-2026-10-19 72 → 2026-11-21 74（+2）
+2026-10-20 72 → 2026-11-22 74（+2）
 
 
 ---

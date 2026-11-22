@@ -1,6 +1,6 @@
 # Corning-AI/embedded-linux
 
-⭐ 16 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Corning-AI/embedded-linux) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **i.MX 8M Plus 上的嵌入式 Linux 全栈项目：NPU 实时目标检测**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

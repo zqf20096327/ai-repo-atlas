@@ -1,6 +1,6 @@
 # chinkan/RustFox
 
-⭐ 12 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/chinkan/RustFox) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/chinkan/RustFox) · 个人维护
 
 **自托管的 Telegram AI 助手：Rust 单二进制，带沙箱工具与记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chinkan/RustFox 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-22"]
     y-axis "stars" 9 --> 13
     line [10, 11, 10, 11, 12, 12]
 ```
 
-2026-10-19 10 → 2026-11-21 12（+2）
+2026-10-20 10 → 2026-11-22 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hexsyro/ride-demand-forecaster
 
-⭐ 34 · Jupyter Notebook · 推送 2026-11-07 · [GitHub](https://github.com/hexsyro/ride-demand-forecaster) · 个人维护
+⭐ 33 · Jupyter Notebook · 推送 2026-11-07 · [GitHub](https://github.com/hexsyro/ride-demand-forecaster) · 个人维护
 
 **共享单车需求预测实验项目：对比四阶段特征工程的 RMSE 变化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hexsyro/ride-demand-forecaster 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-14", "2026-11-22"]
     y-axis "stars" 22 --> 36
-    line [23, 35, 34, 34]
+    line [23, 35, 34, 33]
 ```
 
-2026-11-11 23 → 2026-11-21 34（+11）
+2026-11-11 23 → 2026-11-22 33（+10）
 
 
 ---

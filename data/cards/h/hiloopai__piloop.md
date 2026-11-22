@@ -1,6 +1,6 @@
 # hiloopai/piloop
 
-⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hiloopai/piloop) · [官网](https://piloop.autoresearch.inc) · 组织维护
+⭐ 5 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hiloopai/piloop) · [官网](https://piloop.autoresearch.inc) · 组织维护
 
 **让编码 agent 尝试想法、按评估打分择优提交的工具**
 
@@ -45,12 +45,12 @@ piloop 面向任意 git 仓库运行自动化研究流程：多个编码 agent �
 ```mermaid
 xychart-beta
     title "hiloopai/piloop 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-21 5（+0）
+2026-11-08 5 → 2026-11-22 5（+0）
 
 
 ---

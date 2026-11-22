@@ -1,6 +1,6 @@
 # HinePo/Trilha-de-Estudos-de-Data-Science
 
-⭐ 75 · 推送 2025-12-15 · [GitHub](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science) · 个人维护
+⭐ 76 · 推送 2025-12-15 · [GitHub](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science) · 个人维护
 
 **数据科学学习路径资源清单：从基础到进阶的策展链接**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "HinePo/Trilha-de-Estudos-de-Data-Science 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 74 --> 77
+    line [75, 76]
 ```
 
-2026-10-19 75 → 2026-11-21 75（+0）
+2026-10-20 75 → 2026-11-22 76（+1）
 
 
 ---

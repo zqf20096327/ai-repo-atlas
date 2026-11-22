@@ -1,6 +1,6 @@
 # nigrosimone/llms-robot-arena
 
-⭐ 13 · JavaScript · 推送 2026-09-23 · [GitHub](https://github.com/nigrosimone/llms-robot-arena) · [官网](https://llms-robot-arena.sndesign.it/) · 个人维护
+⭐ 13 · JavaScript · 推送 2026-11-21 · [GitHub](https://github.com/nigrosimone/llms-robot-arena) · [官网](https://llms-robot-arena.sndesign.it/) · 个人维护
 
 **让 LLM 编写机器人控制器并相互竞技的评测竞技场**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nigrosimone/llms-robot-arena 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-21 13（+0）
+2026-10-20 13 → 2026-11-22 13（+0）
 
 
 ---

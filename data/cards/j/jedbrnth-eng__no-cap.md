@@ -1,6 +1,6 @@
 # jedbrnth-eng/no-cap
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/jedbrnth-eng/no-cap) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jedbrnth-eng/no-cap) · 个人维护
 
 **核验 agent 回复与工具实际返回是否一致、标记不实声明的插件**
 
@@ -46,12 +46,12 @@ Hermes Agent 的插件：通过 post_tool_call 钩子记录每次工具调用的
 ```mermaid
 xychart-beta
     title "jedbrnth-eng/no-cap 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-16", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-21 3（+0）
+2026-11-16 3 → 2026-11-22 3（+0）
 
 
 ---

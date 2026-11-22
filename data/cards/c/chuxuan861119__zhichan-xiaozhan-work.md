@@ -1,6 +1,6 @@
 # chuxuan861119/zhichan-xiaozhan-work
 
-⭐ 112 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/chuxuan861119/zhichan-xiaozhan-work) · [官网](https://zcxzz.cn/work/) · 组织维护 · 中文 README
+⭐ 140 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/chuxuan861119/zhichan-xiaozhan-work) · [官网](https://zcxzz.cn/work/) · 组织维护 · 中文 README
 
 **面向专利代理师的中国专利五书撰写与文档管理桌面工作台**
 
@@ -45,13 +45,13 @@ Electron/React/TypeScript 构建的 Windows 桌面软件，围绕发明专利与
 
 ```mermaid
 xychart-beta
-    title "chuxuan861119/zhichan-xiaozhan-work 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 20 --> 120
-    line [28, 71, 112]
+    title "chuxuan861119/zhichan-xiaozhan-work 星数(近 4 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 17 --> 151
+    line [28, 71, 112, 140]
 ```
 
-2026-11-19 28 → 2026-11-21 112（+84）
+2026-11-19 28 → 2026-11-22 140（+112）
 
 
 ---

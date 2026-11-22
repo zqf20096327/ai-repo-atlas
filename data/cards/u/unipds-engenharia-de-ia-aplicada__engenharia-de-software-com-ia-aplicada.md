@@ -1,6 +1,6 @@
 # unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
 
-⭐ 1,367 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada) · [官网](https://unipds.com.br/org-erick-wendel/?utm_source=github&utm_medium=bio&utm_campaign=bolsa_47&utm_term=&utm_content=perfil_erick) · 组织维护
+⭐ 1,370 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada) · [官网](https://unipds.com.br/org-erick-wendel/?utm_source=github&utm_medium=bio&utm_campaign=bolsa_47&utm_term=&utm_content=perfil_erick) · 组织维护
 
 **软件工程与应用 AI 研究生课程的参考资料与示例代码清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada 星数(近 23 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 1263 --> 1376
-    line [1272, 1276, 1281, 1282, 1283, 1285, 1286, 1299, 1309, 1313, 1318, 1282, 1337, 1347, 1348, 1350, 1351, 1353, 1357, 1362, 1364, 1367, 1367]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 1263 --> 1379
+    line [1272, 1276, 1281, 1282, 1283, 1285, 1286, 1299, 1309, 1313, 1318, 1282, 1337, 1347, 1348, 1350, 1351, 1353, 1357, 1362, 1364, 1367, 1370]
 ```
 
-2026-10-19 1,272 → 2026-11-21 1,367（+95）
+2026-10-20 1,272 → 2026-11-22 1,370（+98）
 
 
 ---

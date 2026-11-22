@@ -39,6 +39,18 @@
 > L2: 结合蚂蚁国际推进 PayNow 深链接跨境电商与数字支付体验升级的热点，对比跨境支付中不同支付方式的使用场景，并给出 CoreGold USDT 虚拟卡极简开卡与 Apple Pay / Google Pay 绑定指南。
 > L20: ### 🧭 傻瓜级开卡与绑卡教程（一看就会）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-21 13 → 2026-11-22 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `50e072b71e18` · [字段定义](../../DATASET.md)*

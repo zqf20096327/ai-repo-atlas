@@ -1,6 +1,6 @@
 # 0dayInc/pwn
 
-⭐ 91 · Ruby · MIT · 推送 2026-11-20 · [GitHub](https://github.com/0dayInc/pwn) · [官网](https://github.com/0dayinc/pwn) · 组织维护
+⭐ 94 · Ruby · MIT · 推送 2026-11-20 · [GitHub](https://github.com/0dayInc/pwn) · [官网](https://github.com/0dayinc/pwn) · 组织维护
 
 **开源 Ruby 攻击性安全自动化工具包，AI 代理可调用其工具链**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "0dayInc/pwn 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 85 --> 92
-    line [86, 87, 88, 90, 91]
+    title "0dayInc/pwn 星数(近 6 点)"
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 85 --> 95
+    line [86, 87, 88, 90, 91, 94]
 ```
 
-2026-10-19 86 → 2026-11-21 91（+5）
+2026-10-20 86 → 2026-11-22 94（+8）
 
 
 ---

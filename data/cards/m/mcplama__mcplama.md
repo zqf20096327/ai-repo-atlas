@@ -1,6 +1,6 @@
 # mcplama/mcplama
 
-⭐ 24 · JavaScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/mcplama/mcplama) · [官网](https://mcplama.com) · 组织维护
+⭐ 25 · JavaScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/mcplama/mcplama) · [官网](https://mcplama.com) · 组织维护
 
 **自托管 MCP 网关：集中管理团队 MCP 服务器的凭证、权限与审计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mcplama/mcplama 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21"]
-    y-axis "stars" 13 --> 25
-    line [14, 22, 23, 24, 24]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-22"]
+    y-axis "stars" 13 --> 26
+    line [14, 22, 23, 24, 25]
 ```
 
-2026-10-18 14 → 2026-11-21 24（+10）
+2026-10-19 14 → 2026-11-22 25（+11）
 
 
 ---

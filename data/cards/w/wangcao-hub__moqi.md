@@ -41,6 +41,18 @@
 > L9: Most assistants wait to be asked. moqi works the other way round. Every couple of hours, and soon after you talk to 
 > L62: Any OpenAI-compatible model works. A local Ollama needs no key: `qwen3:4b` (2.5 GB) runs anywhere, and Muse Glimmer
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wangcao-hub/moqi 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `4eb469c89cab` · [字段定义](../../DATASET.md)*

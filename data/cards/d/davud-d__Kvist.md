@@ -1,6 +1,6 @@
 # davud-d/Kvist
 
-⭐ 6 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/davud-d/Kvist) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/davud-d/Kvist) · 个人维护
 
 **在终端与编辑器中运行的沙箱化编码代理**
 
@@ -47,12 +47,12 @@ Kvist 是运行于终端并集成 VS Code、JetBrains、Zed 等编辑器的编�
 ```mermaid
 xychart-beta
     title "davud-d/Kvist 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-21"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-22"]
     y-axis "stars" 3 --> 7
     line [4, 5, 6, 6]
 ```
 
-2026-10-26 4 → 2026-11-21 6（+2）
+2026-10-26 4 → 2026-11-22 6（+2）
 
 
 ---

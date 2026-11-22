@@ -1,6 +1,6 @@
 # iip-ecosphere/platform
 
-⭐ 26 · Java · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/iip-ecosphere/platform) · [官网](https://www.oktoflow.de/) · 组织维护
+⭐ 26 · Java · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/iip-ecosphere/platform) · [官网](https://www.oktoflow.de/) · 组织维护
 
 **面向工业4.0的模型驱动IIoT平台：统一部署与运行含AI的服务**
 
@@ -45,12 +45,12 @@ oktoflow（IIP-Ecosphere）是面向工业4.0/IIoT的平台：通过模型驱动
 ```mermaid
 xychart-beta
     title "iip-ecosphere/platform 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-19 26 → 2026-11-21 26（+0）
+2026-10-20 26 → 2026-11-22 26（+0）
 
 
 ---

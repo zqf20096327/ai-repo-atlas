@@ -45,12 +45,12 @@ Python 库形式的个人 AI 助手：通过 openai-whisper 做语音转文字�
 ```mermaid
 xychart-beta
     title "alexogeny/cortana 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-19 53 → 2026-11-21 53（+0）
+2026-10-20 53 → 2026-11-22 53（+0）
 
 
 ---

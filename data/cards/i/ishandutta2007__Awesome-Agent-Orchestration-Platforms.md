@@ -1,6 +1,6 @@
 # ishandutta2007/Awesome-Agent-Orchestration-Platforms
 
-⭐ 12 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/ishandutta2007/Awesome-Agent-Orchestration-Platforms) · 个人维护
+⭐ 13 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/ishandutta2007/Awesome-Agent-Orchestration-Platforms) · 个人维护
 
 **多智能体编排框架与平台的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ishandutta2007/Awesome-Agent-Orchestration-Platforms 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-11-08 11 → 2026-11-21 12（+1）
+2026-11-08 11 → 2026-11-22 13（+2）
 
 
 ---

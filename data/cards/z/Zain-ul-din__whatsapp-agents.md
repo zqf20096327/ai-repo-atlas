@@ -1,6 +1,6 @@
 # Zain-ul-din/whatsapp-agents
 
-⭐ 249 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Zain-ul-din/whatsapp-agents) · [官网](https://wa-ai-seven.vercel.app/) · 个人维护
+⭐ 250 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Zain-ul-din/whatsapp-agents) · [官网](https://wa-ai-seven.vercel.app/) · 个人维护
 
 **接入多家 AI 模型 API 的 WhatsApp 聊天机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Zain-ul-din/whatsapp-agents 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 246 --> 250
-    line [248, 247, 248, 247, 248, 249, 249]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 246 --> 251
+    line [248, 247, 248, 247, 248, 249, 250]
 ```
 
-2026-10-19 248 → 2026-11-21 249（+1）
+2026-10-20 248 → 2026-11-22 250（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # MING-ZCH/Let-Androids-Dream-of-Electric-Sheep
 
-⭐ 10 · Jupyter Notebook · MIT · 推送 2026-01-07 · [GitHub](https://github.com/MING-ZCH/Let-Androids-Dream-of-Electric-Sheep) · [官网](https://arxiv.org/abs/2505.17019v2) · 个人维护
+⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/MING-ZCH/Let-Androids-Dream-of-Electric-Sheep) · [官网](https://ming-zch.github.io/lad) · 个人维护
 
 **图像隐喻含义理解与推理的三阶段框架（研究项目）**
 
@@ -46,12 +46,12 @@ LAD 是一个图像含义理解与推理框架，针对图像隐喻理解中的�
 ```mermaid
 xychart-beta
     title "MING-ZCH/Let-Androids-Dream-of-Electric-Sheep 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-18 10 → 2026-11-21 10（+0）
+2026-10-19 10 → 2026-11-22 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # 1bit-MONSTER/engine
 
-⭐ 10 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/1bit-MONSTER/engine) · [官网](https://1bit.gg/) · 个人维护
+⭐ 10 · C++ · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/1bit-MONSTER/engine) · [官网](https://1bit.gg/) · 个人维护
 
 **AMD Strix Halo 上的本地 LLM 推理引擎：单二进制跑 GPU 与 NPU**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1bit-MONSTER/engine 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-19", "2026-11-22"]
     y-axis "stars" 4 --> 11
     line [5, 6, 5, 10, 10]
 ```
 
-2026-10-18 5 → 2026-11-21 10（+5）
+2026-10-18 5 → 2026-11-22 10（+5）
 
 
 ---

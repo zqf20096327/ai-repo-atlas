@@ -41,6 +41,18 @@
 > L18: Two neural networks fly the whole mission at 10 Hz from the vehicle's own state: the booster from liftoff to touchd
 > L76: The networks imitate a classical **teacher** that is never shipped: a predictive controller that simulates the rest
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ishtiaq-ahmed-dev/rocket-mission-lab 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `05d23c206240` · [字段定义](../../DATASET.md)*

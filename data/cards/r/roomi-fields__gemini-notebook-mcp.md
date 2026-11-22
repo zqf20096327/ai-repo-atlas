@@ -1,6 +1,6 @@
 # roomi-fields/gemini-notebook-mcp
 
-⭐ 241 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/roomi-fields/gemini-notebook-mcp) · [官网](https://notebooklm.roomi-fields.com/) · 个人维护
+⭐ 242 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/roomi-fields/gemini-notebook-mcp) · [官网](https://notebooklm.roomi-fields.com/) · 个人维护
 
 **让 Agent 与自动化平台以 REST/MCP 调用 NotebookLM 的服务器**
 
@@ -41,6 +41,18 @@
 > L1: # NotebookLM REST API + MCP server
 > L3: **Automate Google Gemini Notebook — formerly, and still widely known as, NotebookLM — at scale. 62-endpoint HTTP RES
 > L26: 🔗 **No-code automation pipelines** — The 62-endpoint REST API means NotebookLM becomes a step in n8n, Zapier, Make,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "roomi-fields/gemini-notebook-mcp 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 240 --> 243
+    line [241, 242]
+```
+
+2026-11-21 241 → 2026-11-22 242（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vlm-run/vlmrun-node-sdk
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/vlm-run/vlmrun-node-sdk) · [官网](https://docs.vlm.run/sdk-reference/node/getting-started) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/vlm-run/vlmrun-node-sdk) · [官网](https://docs.vlm.run/sdk-reference/node/getting-started) · 组织维护
 
 **VLM Run 平台的官方 Node.js SDK，调用其视觉/文档 AI API**
 
@@ -45,12 +45,12 @@ VLM Run 官方 Node.js 客户端库，封装其 REST API：图像预测、文档
 ```mermaid
 xychart-beta
     title "vlm-run/vlmrun-node-sdk 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 11（+0）
 
 
 ---

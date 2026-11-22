@@ -41,6 +41,18 @@
 > L64: 提示词决定怎样接话，用户补充新事实时可以改判。工具负责场景题匹配、查询案例和展示证据卡。RAG 优先找相同主播的短卡，必要时用索引里的词项补找候选。每张卡保存来访情境、接话动作和原片时码。仓库内有 **33 条原片记录和 41 张
 > L117: Prompts guide how the model responds and when it updates its view. The read-only MCP tools match a style, search f
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ArthurQQQQ/yuelao-chatgpt-plugin 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-21 5 → 2026-11-22 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `744f0bac2834` · [字段定义](../../DATASET.md)*

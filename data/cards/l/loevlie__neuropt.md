@@ -1,6 +1,6 @@
 # loevlie/neuropt
 
-⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/loevlie/neuropt) · [官网](https://loevlie.github.io/neuropt/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/loevlie/neuropt) · [官网](https://loevlie.github.io/neuropt/) · 个人维护
 
 **给 ML 研究者：用 LLM 读取训练曲线设计下一轮实验的优化器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "loevlie/neuropt 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-19 12 → 2026-11-21 13（+1）
+2026-10-20 12 → 2026-11-22 13（+1）
 
 
 ---

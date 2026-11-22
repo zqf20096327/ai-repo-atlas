@@ -1,6 +1,6 @@
 # semantic-router/dsh-system-one-plugin
 
-⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/semantic-router/dsh-system-one-plugin) · [官网](https://app.vllm-sr.ai/#harness) · 组织维护
+⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/semantic-router/dsh-system-one-plugin) · [官网](https://app.vllm-sr.ai/#harness) · 组织维护
 
 **给 DeepSeek Harness agent 加 System One 快速决策防护插件**
 
@@ -45,12 +45,12 @@ DeepSeek Harness 的插件（@vllm-sr/dsh），在 agent 循环中引入 System 
 ```mermaid
 xychart-beta
     title "semantic-router/dsh-system-one-plugin 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-18 3 → 2026-11-21 3（+0）
+2026-11-18 3 → 2026-11-22 4（+1）
 
 
 ---

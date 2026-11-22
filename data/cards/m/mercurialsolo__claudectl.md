@@ -1,6 +1,6 @@
 # mercurialsolo/claudectl
 
-⭐ 204 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/mercurialsolo/claudectl) · [官网](https://mercurialsolo.github.io/claudectl/) · 个人维护
+⭐ 205 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/mercurialsolo/claudectl) · [官网](https://mercurialsolo.github.io/claudectl/) · 个人维护
 
 **Claude Code 的本地 LLM 决策大脑与多机蜂群协调 CLI**
 
@@ -46,12 +46,12 @@ Rust 编写的 CLI/TUI 工具，面向 Claude Code 用户：在本地运行 LLM�
 ```mermaid
 xychart-beta
     title "mercurialsolo/claudectl 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 201 --> 206
-    line [202, 203, 204, 203, 205, 204, 204]
+    line [202, 203, 204, 203, 205, 204, 205]
 ```
 
-2026-10-19 202 → 2026-11-21 204（+2）
+2026-10-20 202 → 2026-11-22 205（+3）
 
 
 ---

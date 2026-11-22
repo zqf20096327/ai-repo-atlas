@@ -1,6 +1,6 @@
 # apanariello4/merge-and-rebase
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/apanariello4/merge-and-rebase) · 个人维护
+⭐ 41 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/apanariello4/merge-and-rebase) · 个人维护
 
 **模型合并、任务向量迁移与微调的研究代码库，面向视觉与 LLM 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "apanariello4/merge-and-rebase 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-21"]
-    y-axis "stars" 35 --> 41
-    line [36, 37, 39, 40, 40]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-22"]
+    y-axis "stars" 35 --> 42
+    line [36, 37, 39, 40, 41]
 ```
 
-2026-10-19 36 → 2026-11-21 40（+4）
+2026-10-20 36 → 2026-11-22 41（+5）
 
 
 ---

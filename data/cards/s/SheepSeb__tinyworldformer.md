@@ -1,6 +1,6 @@
 # SheepSeb/tinyworldformer
 
-⭐ 376 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/SheepSeb/tinyworldformer) · [官网](https://sheepseb.github.io/stealth/posts/tinyworldformer.html) · 个人维护
+⭐ 377 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/SheepSeb/tinyworldformer) · [官网](https://sheepseb.github.io/stealth/posts/tinyworldformer.html) · 个人维护
 
 **在树莓派 Pico 2W 上生成并游玩游戏的微型世界模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SheepSeb/tinyworldformer 星数(近 13 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 0 --> 413
-    line [3, 292, 321, 334, 365, 367, 368, 369, 370, 372, 373, 375, 376]
+    title "SheepSeb/tinyworldformer 星数(近 14 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 0 --> 414
+    line [3, 292, 321, 334, 365, 367, 368, 369, 370, 372, 373, 375, 376, 377]
 ```
 
-2026-10-30 3 → 2026-11-21 376（+373）
+2026-10-30 3 → 2026-11-22 377（+374）
 
 
 ---

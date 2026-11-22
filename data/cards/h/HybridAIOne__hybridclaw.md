@@ -1,6 +1,6 @@
 # HybridAIOne/hybridclaw
 
-⭐ 163 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HybridAIOne/hybridclaw) · [官网](https://www.hybridclaw.io/) · 组织维护
+⭐ 164 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/HybridAIOne/hybridclaw) · [官网](https://www.hybridclaw.io/) · 组织维护
 
 **面向企业的自托管 AI 助手运行时，带沙箱与审批**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "HybridAIOne/hybridclaw 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 158 --> 164
-    line [159, 160, 161, 162, 163, 163]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 158 --> 165
+    line [159, 160, 161, 162, 163, 164]
 ```
 
-2026-10-19 159 → 2026-11-21 163（+4）
+2026-10-20 159 → 2026-11-22 164（+5）
 
 
 ---

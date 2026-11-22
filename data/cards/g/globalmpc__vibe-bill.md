@@ -1,6 +1,6 @@
 # globalmpc/vibe-bill
 
-⭐ 52 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/globalmpc/vibe-bill) · 个人维护
+⭐ 54 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/globalmpc/vibe-bill) · 个人维护
 
 **给 vibe-coded 应用估算多规模用户量运行成本的 Claude Code 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "globalmpc/vibe-bill 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 0 --> 56
-    line [3, 32, 42, 50, 52, 52]
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 0 --> 59
+    line [3, 32, 42, 50, 52, 54]
 ```
 
-2026-11-13 3 → 2026-11-21 52（+49）
+2026-11-13 3 → 2026-11-22 54（+51）
 
 
 ---

@@ -1,6 +1,6 @@
 # askads/mcp-yandex-direct
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/askads/mcp-yandex-direct) · [官网](https://www.npmjs.com/package/mcp-yandex-direct) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/askads/mcp-yandex-direct) · [官网](https://www.npmjs.com/package/mcp-yandex-direct) · 组织维护
 
 **把 Yandex Direct 广告账户接入 AI 应用的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "askads/mcp-yandex-direct 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-21 10（+0）
+2026-11-20 10 → 2026-11-22 10（+0）
 
 
 ---

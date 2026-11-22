@@ -1,6 +1,6 @@
 # illofspeed/minisforum-ms02-ultra-dual-gpu
 
-⭐ 3 · Shell · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/illofspeed/minisforum-ms02-ultra-dual-gpu) · 个人维护
+⭐ 4 · Shell · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/illofspeed/minisforum-ms02-ultra-dual-gpu) · 个人维护
 
 **MS-02 Ultra 双 Blackwell GPU 装机笔记与本地 LLM 基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "illofspeed/minisforum-ms02-ultra-dual-gpu 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-16", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-16 3 → 2026-11-21 3（+0）
+2026-11-16 3 → 2026-11-22 4（+1）
 
 
 ---

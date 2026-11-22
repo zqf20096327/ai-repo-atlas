@@ -1,6 +1,6 @@
 # PiyushAnand2006/EmberLing
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/PiyushAnand2006/EmberLing) · [官网](https://github.com/PiyushAnand2006/EmberLing/releases) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/PiyushAnand2006/EmberLing) · [官网](https://github.com/PiyushAnand2006/EmberLing/releases) · 个人维护
 
 **Windows 桌面 AI agent：聊天、工具调用、自动化与 bot 发布，免 API key 运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PiyushAnand2006/EmberLing 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-11-01", "2026-11-21"]
+    x-axis ["2026-10-30", "2026-11-01", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-30 3 → 2026-11-21 4（+1）
+2026-10-30 3 → 2026-11-22 4（+1）
 
 
 ---

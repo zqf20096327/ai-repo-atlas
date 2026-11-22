@@ -45,13 +45,13 @@ Julia 包，将 MLJ 机器学习框架接入 MLflow 作为后端，实现模型�
 
 ```mermaid
 xychart-beta
-    title "JuliaAI/MLJFlow.jl 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "JuliaAI/MLJFlow.jl 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-19 14 → 2026-11-21 15（+1）
+2026-10-20 14 → 2026-11-22 15（+1）
 
 
 ---

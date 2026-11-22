@@ -1,6 +1,6 @@
 # Manimaran-tech/bridge
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Manimaran-tech/bridge) · [官网](https://www.npmjs.com/package/@markmayandi/bridge) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Manimaran-tech/bridge) · [官网](https://www.npmjs.com/package/@markmayandi/bridge) · 个人维护 · 中文 README
 
 **把本地代码目录通过 MCP 隧道安全接入网页版 AI 客户端的 CLI**
 
@@ -40,6 +40,18 @@
 > L15:  Securely connect your local codebases and development environments to Claude Web, ChatGPT, Gemini, and DeepSeek in
 > L110: Cloud-based AI models cannot safely access files on your physical machine without open ports or copy-pasting code 
 > L113: * **Native Tool Suite:** Exposes native coding tools (`read`, `write`, `edit`, `str_replace_editor`, `pwsh`, `bash
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Manimaran-tech/bridge 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 26
+    line [6, 25]
+```
+
+2026-11-21 6 → 2026-11-22 25（+19）
 
 
 ---

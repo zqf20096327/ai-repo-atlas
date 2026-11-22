@@ -1,6 +1,6 @@
 # flpsantoro/glpi-ai-ticket-assistant
 
-⭐ 4 · PHP · GPL-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/flpsantoro/glpi-ai-ticket-assistant) · 个人维护
+⭐ 5 · PHP · GPL-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/flpsantoro/glpi-ai-ticket-assistant) · 个人维护
 
 **面向 GLPI 技术员的 AI 工单助手插件：读取工单并生成回复草稿**
 
@@ -47,12 +47,12 @@ GLPI 10/11/12 的 GPL v2+ 社区插件，为 ITSM 技术员提供工单分析：
 ```mermaid
 xychart-beta
     title "flpsantoro/glpi-ai-ticket-assistant 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 3, 4, 4]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 3, 4, 5]
 ```
 
-2026-10-19 3 → 2026-11-21 4（+1）
+2026-10-20 3 → 2026-11-22 5（+2）
 
 
 ---

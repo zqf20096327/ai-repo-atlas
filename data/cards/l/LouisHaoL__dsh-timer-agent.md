@@ -45,12 +45,12 @@ DeepSeek Harness (DSH) Web GUI 的插件，在 dsh web 宿主进程内运行 60s
 ```mermaid
 xychart-beta
     title "LouisHaoL/dsh-timer-agent 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-21 13（+0）
+2026-10-20 13 → 2026-11-22 13（+0）
 
 
 ---

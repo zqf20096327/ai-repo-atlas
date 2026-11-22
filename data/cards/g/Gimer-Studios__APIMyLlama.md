@@ -45,12 +45,12 @@ Node.js 服务器应用，运行在 Ollama 之前作为接口层：通过 genera
 ```mermaid
 xychart-beta
     title "Gimer-Studios/APIMyLlama 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 203 --> 205
     line [204, 204]
 ```
 
-2026-10-19 204 → 2026-11-21 204（+0）
+2026-10-20 204 → 2026-11-22 204（+0）
 
 
 ---

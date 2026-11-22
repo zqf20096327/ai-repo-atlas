@@ -1,6 +1,6 @@
 # blankym/inkbone
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/blankym/inkbone) · [官网](https://blankym.github.io/inkbone/) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/blankym/inkbone) · [官网](https://blankym.github.io/inkbone/) · 个人维护 · 中文 README
 
 **中文长篇小说写作的 AI 配套质检与账本工具集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "blankym/inkbone 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-19 3 → 2026-11-21 4（+1）
+2026-11-19 3 → 2026-11-22 5（+2）
 
 
 ---

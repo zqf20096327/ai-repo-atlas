@@ -1,6 +1,6 @@
 # yan-mc/blockbench-ysm-agent
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/yan-mc/blockbench-ysm-agent) · [官网](https://github.com/yan-mc/blockbench-ysm-agent/releases) · 个人维护 · 中文 README
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/yan-mc/blockbench-ysm-agent) · [官网](https://github.com/yan-mc/blockbench-ysm-agent/releases) · 个人维护 · 中文 README
 
 **给 dsh 里的 AI 接入 Blockbench：语义建模 YSM 模型与贴图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yan-mc/blockbench-ysm-agent 星数(近 13 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 2 --> 15
-    line [3, 6, 7, 8, 9, 8, 9, 7, 10, 12, 13, 14, 14]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 2 --> 16
+    line [3, 6, 7, 8, 9, 8, 9, 7, 10, 12, 13, 14, 15]
 ```
 
-2026-10-19 3 → 2026-11-21 14（+11）
+2026-10-20 3 → 2026-11-22 15（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # Briella009/BGNexa-AI
 
-⭐ 35 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Briella009/BGNexa-AI) · [官网](https://bgnexa-ai.streamlit.app/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Briella009/BGNexa-AI) · [官网](https://bgnexa-ai.streamlit.app/) · 个人维护
 
 **面向 GRC/审计团队的安全合规证据评估工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Briella009/BGNexa-AI 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-21"]
-    y-axis "stars" 29 --> 36
-    line [30, 33, 35, 35]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-22"]
+    y-axis "stars" 29 --> 37
+    line [30, 33, 35, 36]
 ```
 
-2026-10-26 30 → 2026-11-21 35（+5）
+2026-10-26 30 → 2026-11-22 36（+6）
 
 
 ---

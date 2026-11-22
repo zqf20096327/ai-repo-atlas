@@ -1,6 +1,6 @@
 # songqiang321/Time-Series-Papers
 
-⭐ 42 · MIT · 推送 2026-06-30 · [GitHub](https://github.com/songqiang321/Time-Series-Papers) · 个人维护
+⭐ 42 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/songqiang321/Time-Series-Papers) · 个人维护
 
 **时间序列领域论文与代码的收录清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "songqiang321/Time-Series-Papers 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-19 42 → 2026-11-21 42（+0）
+2026-10-20 42 → 2026-11-22 42（+0）
 
 
 ---

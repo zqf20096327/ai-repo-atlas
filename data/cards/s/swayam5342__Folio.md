@@ -1,6 +1,6 @@
 # swayam5342/Folio
 
-⭐ 4 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/swayam5342/Folio) · [官网](https://github.swayam.li/Folio/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向个人文档问答的 RAG 应用，回答逐条引用到页码**
 

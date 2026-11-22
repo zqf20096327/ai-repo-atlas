@@ -44,12 +44,12 @@ hf-endpoints-emulator 由 Hugging Face 团队维护，提供命令行工具 hf-e
 ```mermaid
 xychart-beta
     title "huggingface/hf-endpoints-emulator 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
     y-axis "stars" 24 --> 27
     line [26, 25, 25]
 ```
 
-2026-10-19 26 → 2026-11-21 25（-1）
+2026-10-20 26 → 2026-11-22 25（-1）
 
 
 ---

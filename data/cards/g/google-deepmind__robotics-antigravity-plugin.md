@@ -1,6 +1,6 @@
 # google-deepmind/robotics-antigravity-plugin
 
-⭐ 170 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/robotics-antigravity-plugin) · [官网](https://deepmind.google/models/gemini-robotics/) · 组织维护
+⭐ 194 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/robotics-antigravity-plugin) · [官网](https://deepmind.google/models/gemini-robotics/) · 组织维护
 
 **Google Antigravity 机器人插件：让 agent 编写控制并在仿真与真机上运行**
 
@@ -45,13 +45,13 @@ Google DeepMind 维护的 Google Antigravity 机器人技能插件：agent 可�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/robotics-antigravity-plugin 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 3 --> 185
-    line [18, 65, 131, 170]
+    title "google-deepmind/robotics-antigravity-plugin 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 1 --> 211
+    line [18, 65, 131, 170, 194]
 ```
 
-2026-11-18 18 → 2026-11-21 170（+152）
+2026-11-18 18 → 2026-11-22 194（+176）
 
 
 ---

@@ -44,12 +44,12 @@ PyTorch 编写的极简去噪扩散概率模型（DDPM/DDIM）实现：包含 DD
 ```mermaid
 xychart-beta
     title "filipbasara0/simple-diffusion 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 136 --> 138
     line [137, 137]
 ```
 
-2026-10-19 137 → 2026-11-21 137（+0）
+2026-10-20 137 → 2026-11-22 137（+0）
 
 
 ---

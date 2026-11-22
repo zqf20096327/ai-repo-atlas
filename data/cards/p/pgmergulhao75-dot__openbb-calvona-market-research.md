@@ -1,6 +1,6 @@
 # pgmergulhao75-dot/openbb-calvona-market-research
 
-⭐ 124 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/pgmergulhao75-dot/openbb-calvona-market-research) · 个人维护
+⭐ 150 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/pgmergulhao75-dot/openbb-calvona-market-research) · 个人维护
 
 **面向量化分析师的多资产市场数据分析桌面工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pgmergulhao75-dot/openbb-calvona-market-research 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 41 --> 131
-    line [48, 124]
+    title "pgmergulhao75-dot/openbb-calvona-market-research 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 38 --> 160
+    line [48, 124, 150]
 ```
 
-2026-11-20 48 → 2026-11-21 124（+76）
+2026-11-20 48 → 2026-11-22 150（+102）
 
 
 ---

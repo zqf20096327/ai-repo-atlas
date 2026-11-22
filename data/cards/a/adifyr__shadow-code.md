@@ -1,6 +1,6 @@
 # adifyr/shadow-code
 
-⭐ 81 · TypeScript · GPL-3.0 · 推送 2026-03-12 · [GitHub](https://github.com/adifyr/shadow-code) · 个人维护
+⭐ 80 · TypeScript · GPL-3.0 · 推送 2026-03-12 · [GitHub](https://github.com/adifyr/shadow-code) · 个人维护
 
 **VS Code/Cursor 扩展：用伪代码提示让 AI 生成目标语言代码**
 
@@ -45,12 +45,12 @@ Shadow Code 是一个免费开源的 VS Code 与 Cursor 扩展，实现所谓 Sh
 ```mermaid
 xychart-beta
     title "adifyr/shadow-code 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 79 --> 82
-    line [80, 81, 81]
+    line [80, 81, 80]
 ```
 
-2026-10-19 80 → 2026-11-21 81（+1）
+2026-10-20 80 → 2026-11-22 80（+0）
 
 
 ---

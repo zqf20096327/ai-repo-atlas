@@ -1,6 +1,6 @@
 # Hamna-Munir/08-AI-Business-Agent
 
-⭐ 5 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Hamna-Munir/08-AI-Business-Agent) · [官网](https://08-ai-business-agent.streamlit.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于真实 SQLite 数据库与 MCP 服务器生成证据型业务分析报告的 AI Agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

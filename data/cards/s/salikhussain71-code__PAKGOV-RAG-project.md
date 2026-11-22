@@ -1,6 +1,6 @@
 # salikhussain71-code/PAKGOV-RAG-project
 
-⭐ 132 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/salikhussain71-code/PAKGOV-RAG-project) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/salikhussain71-code/PAKGOV-RAG-project) · 个人维护
 
 **巴基斯坦宪法乌尔都语-英语双语 RAG 问答研究项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "salikhussain71-code/PAKGOV-RAG-project 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-22"]
     y-axis "stars" 64 --> 138
     line [70, 130, 129, 130, 131, 132, 132]
 ```
 
-2026-10-19 70 → 2026-11-21 132（+62）
+2026-10-20 70 → 2026-11-22 132（+62）
 
 
 ---

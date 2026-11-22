@@ -46,12 +46,12 @@ Frame Representation Hypothesis 论文（TACL/EMNLP2025）的官方仓库，围�
 ```mermaid
 xychart-beta
     title "phvv-me/frame-representation-hypothesis 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-21"]
+    x-axis ["2026-10-23", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-21 10（+0）
+2026-10-23 10 → 2026-11-22 10（+0）
 
 
 ---

@@ -44,13 +44,13 @@ Model Context Protocol 服务器，使 Claude Desktop、Claude Code、Cursor 等
 
 ```mermaid
 xychart-beta
-    title "Strom-Capital/mcp-server-db2i 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-11", "2026-11-21"]
+    title "Strom-Capital/mcp-server-db2i 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22"]
     y-axis "stars" 26 --> 31
-    line [27, 28, 29, 30]
+    line [27, 28, 29, 30, 30]
 ```
 
-2026-10-19 27 → 2026-11-21 30（+3）
+2026-10-20 27 → 2026-11-22 30（+3）
 
 
 ---

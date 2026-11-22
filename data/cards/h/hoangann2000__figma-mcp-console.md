@@ -1,6 +1,6 @@
 # hoangann2000/figma-mcp-console
 
-⭐ 14 · Go · MIT · 推送 2026-11-13 · [GitHub](https://github.com/hoangann2000/figma-mcp-console) · [官网](https://www.npmjs.com/package/figma-mcp-console) · 个人维护
+⭐ 14 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hoangann2000/figma-mcp-console) · [官网](https://www.npmjs.com/package/figma-mcp-console) · 个人维护
 
 **让 AI 助手通过 MCP 实时读写 Figma 的本地服务器**
 
@@ -46,12 +46,12 @@ MCP 服务器，通过本地桥接（端口 2000）与 Figma Desktop 开发插�
 ```mermaid
 xychart-beta
     title "hoangann2000/figma-mcp-console 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 12 --> 15
     line [13, 14, 13, 14, 14]
 ```
 
-2026-10-19 13 → 2026-11-21 14（+1）
+2026-10-20 13 → 2026-11-22 14（+1）
 
 
 ---

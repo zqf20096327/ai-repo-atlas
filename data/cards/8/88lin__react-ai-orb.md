@@ -41,6 +41,18 @@
 > L13: 适合 AI 界面、智能助手、聊天机器人，或者任何需要一颗发光球体的地方 ✨
 > L22: - ⚡ **纯 CSS 动画** — 不依赖 canvas、WebGL 或任何动画库，性能轻盈
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "88lin/react-ai-orb 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `627f6cf6cacd` · [字段定义](../../DATASET.md)*

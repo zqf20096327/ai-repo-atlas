@@ -1,6 +1,6 @@
 # hueyexe/opencode-auto-permissions
 
-⭐ 42 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hueyexe/opencode-auto-permissions) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hueyexe/opencode-auto-permissions) · 个人维护
 
 **OpenCode 插件：用模型自动审查权限请求，无人值守时代理不停摆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hueyexe/opencode-auto-permissions 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 31 --> 43
-    line [32, 35, 36, 37, 38, 35, 38, 39, 40, 41, 42]
+    title "hueyexe/opencode-auto-permissions 星数(近 12 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 31 --> 44
+    line [32, 35, 36, 37, 38, 35, 38, 39, 40, 41, 42, 43]
 ```
 
-2026-10-18 32 → 2026-11-21 42（+10）
+2026-10-19 32 → 2026-11-22 43（+11）
 
 
 ---

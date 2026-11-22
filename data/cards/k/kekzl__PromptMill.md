@@ -1,6 +1,6 @@
 # kekzl/PromptMill
 
-⭐ 10 · Python · 推送 2026-11-19 · [GitHub](https://github.com/kekzl/PromptMill) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向创作者的本地化 AI 提示词生成器，覆盖视频/图像/音频/3D**
 

@@ -45,12 +45,12 @@ DeepMind 的 neural_testbed 是一个评测库：通过基于神经网络的合�
 ```mermaid
 xychart-beta
     title "google-deepmind/neural_testbed 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 191 --> 193
     line [192, 192]
 ```
 
-2026-10-19 192 → 2026-11-21 192（+0）
+2026-10-20 192 → 2026-11-22 192（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # huchukato/runpod-minimax-h3
 
-⭐ 5 · Python · 推送 2026-11-19 · [GitHub](https://github.com/huchukato/runpod-minimax-h3) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 RunPod 无服务器端点运行 MiniMax H3 生成视频+音频**
 

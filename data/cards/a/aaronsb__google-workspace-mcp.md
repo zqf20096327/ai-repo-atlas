@@ -1,6 +1,6 @@
 # aaronsb/google-workspace-mcp
 
-⭐ 199 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/aaronsb/google-workspace-mcp) · 个人维护
+⭐ 200 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/aaronsb/google-workspace-mcp) · 个人维护
 
 **让 AI agent 经 OAuth 访问 Google Workspace 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aaronsb/google-workspace-mcp 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 191 --> 200
-    line [192, 194, 195, 196, 197, 198, 199, 199]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 191 --> 201
+    line [192, 194, 195, 196, 197, 198, 199, 200]
 ```
 
-2026-10-19 192 → 2026-11-21 199（+7）
+2026-10-20 192 → 2026-11-22 200（+8）
 
 
 ---

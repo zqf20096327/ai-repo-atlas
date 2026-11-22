@@ -1,6 +1,6 @@
 # iArunava/YOLOv3-Object-Detection-with-OpenCV
 
-⭐ 359 · Shell · MIT · 推送 2026-11-15 · [GitHub](https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV) · 个人维护
+⭐ 360 · Shell · MIT · 推送 2026-11-15 · [GitHub](https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV) · 个人维护
 
 **用预训练 YOLOv3 对图片/视频/摄像头做目标检测**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "iArunava/YOLOv3-Object-Detection-with-OpenCV 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-21"]
-    y-axis "stars" 358 --> 360
-    line [359, 359]
+    x-axis ["2026-11-15", "2026-11-22"]
+    y-axis "stars" 358 --> 361
+    line [359, 360]
 ```
 
-2026-11-15 359 → 2026-11-21 359（+0）
+2026-11-15 359 → 2026-11-22 360（+1）
 
 
 ---

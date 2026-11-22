@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "momijineko/llm-retry-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 21 --> 24
-    line [23, 22, 22]
+    title "momijineko/llm-retry-proxy 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
 ```
 
-2026-10-18 23 → 2026-11-21 22（-1）
+2026-10-19 22 → 2026-11-22 22（+0）
 
 
 ---

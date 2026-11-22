@@ -1,6 +1,6 @@
 # heng30/wayshot
 
-⭐ 67 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/heng30/wayshot) · 个人维护 · 中文 README
+⭐ 67 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/heng30/wayshot) · 个人维护 · 中文 README
 
 **带大量 AI 辅助功能的视频编辑、录屏、推流与屏幕共享桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "heng30/wayshot 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
     y-axis "stars" 65 --> 68
     line [66, 67, 67]
 ```
 
-2026-10-19 66 → 2026-11-21 67（+1）
+2026-10-20 66 → 2026-11-22 67（+1）
 
 
 ---

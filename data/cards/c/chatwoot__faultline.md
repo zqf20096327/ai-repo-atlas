@@ -1,6 +1,6 @@
 # chatwoot/faultline
 
-⭐ 30 · Python · MIT · 推送 2026-03-12 · [GitHub](https://github.com/chatwoot/faultline) · [官网](https://faultline.chatwoot.com) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-03-12 · [GitHub](https://github.com/chatwoot/faultline) · [官网](https://faultline.chatwoot.com) · 组织维护
 
 **基础设施调试 AI agent：自然语言查监控工具并给出根因分析**
 
@@ -46,12 +46,12 @@ Chatwoot 开源的基础设施排障 AI agent 应用：用户用自然语言提�
 ```mermaid
 xychart-beta
     title "chatwoot/faultline 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-19 29 → 2026-11-21 30（+1）
+2026-10-20 29 → 2026-11-22 31（+2）
 
 
 ---

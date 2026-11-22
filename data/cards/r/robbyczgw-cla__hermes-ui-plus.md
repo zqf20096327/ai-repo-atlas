@@ -1,6 +1,6 @@
 # robbyczgw-cla/hermes-ui-plus
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/robbyczgw-cla/hermes-ui-plus) · [官网](https://hermesui.xyz) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/robbyczgw-cla/hermes-ui-plus) · [官网](https://hermesui.xyz) · 个人维护
 
 **自托管 Hermes Agent 的交互式聊天客户端（Android/Web/macOS）**
 
@@ -46,12 +46,12 @@ HUI+ 是面向已自托管 Hermes Agent 用户的非官方开源客户端，覆�
 ```mermaid
 xychart-beta
     title "robbyczgw-cla/hermes-ui-plus 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-08", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-08 3 → 2026-11-21 3（+0）
+2026-11-08 3 → 2026-11-22 4（+1）
 
 
 ---

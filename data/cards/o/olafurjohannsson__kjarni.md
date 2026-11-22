@@ -1,6 +1,6 @@
 # olafurjohannsson/kjarni
 
-⭐ 39 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/olafurjohannsson/kjarni) · [官网](https://kjarni.ai) · 个人维护
+⭐ 39 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/olafurjohannsson/kjarni) · [官网](https://kjarni.ai) · 个人维护
 
 **本地推理引擎：在进程内做嵌入、语义搜索、分类、重排与文本生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "olafurjohannsson/kjarni 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-22"]
     y-axis "stars" 36 --> 40
     line [37, 38, 37, 38, 39, 39]
 ```
 
-2026-10-19 37 → 2026-11-21 39（+2）
+2026-10-20 37 → 2026-11-22 39（+2）
 
 
 ---

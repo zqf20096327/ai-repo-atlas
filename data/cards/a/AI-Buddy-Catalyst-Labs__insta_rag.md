@@ -1,6 +1,6 @@
 # AI-Buddy-Catalyst-Labs/insta_rag
 
-⭐ 28 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/AI-Buddy-Catalyst-Labs/insta_rag) · [官网](https://pypi.org/project/insta-rag) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **配置驱动的 Python RAG 管道库，简化向量与知识图谱检索构建**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

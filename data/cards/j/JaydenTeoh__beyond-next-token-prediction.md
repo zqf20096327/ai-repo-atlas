@@ -1,6 +1,6 @@
 # JaydenTeoh/beyond-next-token-prediction
 
-⭐ 41 · 推送 2026-11-14 · [GitHub](https://github.com/JaydenTeoh/beyond-next-token-prediction) · 个人维护
+⭐ 43 · 推送 2026-11-14 · [GitHub](https://github.com/JaydenTeoh/beyond-next-token-prediction) · 个人维护
 
 **下一 token 预测局限与超越方法的论文策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JaydenTeoh/beyond-next-token-prediction 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 34 --> 42
-    line [35, 36, 37, 36, 37, 38, 39, 40, 41, 41]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 34 --> 44
+    line [35, 36, 37, 36, 37, 38, 39, 40, 41, 43]
 ```
 
-2026-10-19 35 → 2026-11-21 41（+6）
+2026-10-20 35 → 2026-11-22 43（+8）
 
 
 ---

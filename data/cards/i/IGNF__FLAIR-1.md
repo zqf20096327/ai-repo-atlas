@@ -1,6 +1,6 @@
 # IGNF/FLAIR-1
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/IGNF/FLAIR-1) · 组织维护
+⭐ 83 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/IGNF/FLAIR-1) · 组织维护
 
 **法国 IGN 航空影像土地覆盖语义分割基线库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IGNF/FLAIR-1 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 80 --> 83
-    line [82, 81, 82, 82]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 80 --> 84
+    line [82, 81, 82, 83]
 ```
 
-2026-10-19 82 → 2026-11-21 82（+0）
+2026-10-20 82 → 2026-11-22 83（+1）
 
 
 ---

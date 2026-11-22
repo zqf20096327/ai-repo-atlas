@@ -1,6 +1,6 @@
 # Alation/alation-ai-agent-sdk
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Alation/alation-ai-agent-sdk) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Alation/alation-ai-agent-sdk) · 组织维护
 
 **让 AI agent 接入 Alation 数据目录的 Python SDK 与 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Alation/alation-ai-agent-sdk 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 17 --> 20
     line [19, 18, 19, 18, 18]
 ```
 
-2026-10-19 19 → 2026-11-21 18（-1）
+2026-10-20 19 → 2026-11-22 18（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # franzmoca/gemma4-gufo-extension
 
-⭐ 8 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/franzmoca/gemma4-gufo-extension) · 个人维护
+⭐ 9 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/franzmoca/gemma4-gufo-extension) · 个人维护
 
 **为 Gufo 推理框架提供 Gemma 4 模型支持的源码扩展**
 
@@ -44,13 +44,13 @@ Gufo 推理运行时的源码扩展，接入 Google Gemma 4 系列（31B、31B Q
 
 ```mermaid
 xychart-beta
-    title "franzmoca/gemma4-gufo-extension 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 3 --> 9
-    line [4, 5, 6, 7, 8]
+    title "franzmoca/gemma4-gufo-extension 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 10
+    line [4, 5, 6, 7, 8, 9]
 ```
 
-2026-11-08 4 → 2026-11-21 8（+4）
+2026-11-08 4 → 2026-11-22 9（+5）
 
 
 ---

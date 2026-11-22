@@ -1,6 +1,6 @@
 # 1337hero/faster-chat
 
-⭐ 176 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/1337hero/faster-chat) · [官网](https://www.fasterchat.ai) · 个人维护
+⭐ 177 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/1337hero/faster-chat) · [官网](https://www.fasterchat.ai) · 个人维护
 
 **自托管多供应商 AI 聊天界面，支持云端与本地离线模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1337hero/faster-chat 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 174 --> 177
-    line [175, 176, 176]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 174 --> 178
+    line [175, 176, 177]
 ```
 
-2026-10-19 175 → 2026-11-21 176（+1）
+2026-10-20 175 → 2026-11-22 177（+2）
 
 
 ---

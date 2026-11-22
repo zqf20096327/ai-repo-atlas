@@ -1,6 +1,6 @@
 # BoyToy-Hub/RoBo-Sync-Studio
 
-⭐ 74 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/BoyToy-Hub/RoBo-Sync-Studio) · 组织维护
+⭐ 74 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/BoyToy-Hub/RoBo-Sync-Studio) · 组织维护
 
 **Roblox Studio 实时同步 AI 助手插件，辅助 Luau 脚本开发**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BoyToy-Hub/RoBo-Sync-Studio 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
     y-axis "stars" 72 --> 75
     line [73, 74, 74]
 ```
 
-2026-10-19 73 → 2026-11-21 74（+1）
+2026-10-20 73 → 2026-11-22 74（+1）
 
 
 ---

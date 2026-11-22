@@ -1,6 +1,6 @@
 # saerda8/Anti-Codex
 
-⭐ 9 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/saerda8/Anti-Codex) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/saerda8/Anti-Codex) · 个人维护 · 中文 README
 
 **给 Windows 官方 Codex Desktop 加第三方 API 与 Antigravity 接入的隔离副本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "saerda8/Anti-Codex 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 2 --> 10
-    line [3, 6, 8, 9, 9]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 2 --> 11
+    line [3, 6, 8, 9, 10]
 ```
 
-2026-11-13 3 → 2026-11-21 9（+6）
+2026-11-13 3 → 2026-11-22 10（+7）
 
 
 ---

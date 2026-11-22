@@ -1,6 +1,6 @@
 # Juniper/jvd
 
-⭐ 39 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Juniper/jvd) · [官网](https://juniper.github.io/jvd/portal/) · 组织维护
+⭐ 39 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Juniper/jvd) · [官网](https://juniper.github.io/jvd/portal/) · 组织维护
 
 **Juniper 网络经验证设计库：配置加交互门户与 BYOAI 助手**
 
@@ -45,12 +45,12 @@ HPE Juniper 官方维护的经验证网络设计（JVD）仓库：按分支、�
 ```mermaid
 xychart-beta
     title "Juniper/jvd 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-10", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-10", "2026-11-20", "2026-11-22"]
     y-axis "stars" 34 --> 40
     line [35, 37, 38, 39, 39]
 ```
 
-2026-10-19 35 → 2026-11-21 39（+4）
+2026-10-20 35 → 2026-11-22 39（+4）
 
 
 ---

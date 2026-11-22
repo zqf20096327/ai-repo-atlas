@@ -1,6 +1,6 @@
 # JosssphZhou/poki
 
-⭐ 1,696 · Swift · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/JosssphZhou/poki) · [官网](https://poki.bot) · 个人维护
+⭐ 1,741 · Swift · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/JosssphZhou/poki) · [官网](https://poki.bot) · 个人维护
 
 **在 iPhone 上直接运行、代用户操作手机应用的 GUI agent 应用**
 
@@ -44,13 +44,13 @@ Poki 是安装在 iPhone 上的开源 agent 应用：读取屏幕并在真实应
 
 ```mermaid
 xychart-beta
-    title "JosssphZhou/poki 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 1643 --> 1700
-    line [1647, 1696]
+    title "JosssphZhou/poki 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 1638 --> 1750
+    line [1647, 1696, 1741]
 ```
 
-2026-11-20 1,647 → 2026-11-21 1,696（+49）
+2026-11-20 1,647 → 2026-11-22 1,741（+94）
 
 
 ---

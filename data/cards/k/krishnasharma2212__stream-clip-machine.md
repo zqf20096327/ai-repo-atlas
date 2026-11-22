@@ -1,6 +1,6 @@
 # krishnasharma2212/stream-clip-machine
 
-⭐ 4 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/krishnasharma2212/stream-clip-machine) · [官网](https://krishnasharma.online) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/krishnasharma2212/stream-clip-machine) · [官网](https://krishnasharma.online) · 个人维护
 
 **全天监控直播聊天热点并用 Claude 剪成竖屏短视频自动发布**
 
@@ -40,6 +40,18 @@
 > L3: A laptop that runs 24/7: it watches the biggest live GTA 6 streams, notices the moment a streamer's chat explodes,
 > L4: cuts that moment, has **Claude** turn it into a vertical Short with a hook and captions, and posts up to 5 a day to
 > L28: - Claude Code with a paid Claude plan (triage + editing run as Claude Code sessions).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "krishnasharma2212/stream-clip-machine 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 9
+    line [4, 8]
+```
+
+2026-11-21 4 → 2026-11-22 8（+4）
 
 
 ---

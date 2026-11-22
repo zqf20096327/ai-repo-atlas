@@ -1,6 +1,6 @@
 # video-db/StreamRAG
 
-⭐ 504 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/video-db/StreamRAG) · 组织维护
+⭐ 506 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/video-db/StreamRAG) · 组织维护
 
 **面向 ChatGPT 的视频检索与流式搜索 Agent 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "video-db/StreamRAG 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
-    y-axis "stars" 503 --> 505
-    line [504, 504]
+    x-axis ["2026-11-18", "2026-11-22"]
+    y-axis "stars" 503 --> 507
+    line [504, 506]
 ```
 
-2026-11-18 504 → 2026-11-21 504（+0）
+2026-11-18 504 → 2026-11-22 506（+2）
 
 
 ---

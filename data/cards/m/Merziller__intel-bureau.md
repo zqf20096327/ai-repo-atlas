@@ -1,6 +1,6 @@
 # Merziller/intel-bureau
 
-⭐ 10 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Merziller/intel-bureau) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Merziller/intel-bureau) · 个人维护 · 中文 README
 
 **只读采集群聊消息、自动生成每日情报报告的个人工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Merziller/intel-bureau 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 6 --> 11
-    line [7, 9, 10, 10]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 6 --> 12
+    line [7, 9, 10, 11]
 ```
 
-2026-11-15 7 → 2026-11-21 10（+3）
+2026-11-15 7 → 2026-11-22 11（+4）
 
 
 ---

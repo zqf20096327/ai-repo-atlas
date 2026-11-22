@@ -45,12 +45,12 @@ RubyLLM::Test 是一个 Ruby gem，为使用 RubyLLM 库的应用提供测试打
 ```mermaid
 xychart-beta
     title "RockSolt/ruby_llm-test 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-21 17（+0）
+2026-10-19 17 → 2026-11-22 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # read2017/learn-anything-with-AI
 
-⭐ 206 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/read2017/learn-anything-with-AI) · [官网](https://xhslink.cn/o/5pRBmwGVkJe) · 个人维护 · 中文 README
+⭐ 207 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/read2017/learn-anything-with-AI) · [官网](https://xhslink.cn/o/5pRBmwGVkJe) · 个人维护 · 中文 README
 
 **可移植的 SKILL.md 学习工作流包：让 AI 带用户系统学会任意主题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "read2017/learn-anything-with-AI 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 197 --> 207
-    line [198, 200, 201, 202, 203, 202, 204, 205, 206, 206]
+    title "read2017/learn-anything-with-AI 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 199 --> 208
+    line [200, 201, 202, 203, 202, 204, 205, 206, 207]
 ```
 
-2026-10-18 198 → 2026-11-21 206（+8）
+2026-10-19 200 → 2026-11-22 207（+7）
 
 
 ---

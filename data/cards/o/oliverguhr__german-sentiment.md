@@ -45,12 +45,12 @@ LREC 2020 论文《Training a Broad-Coverage German Sentiment Classification Mod
 ```mermaid
 xychart-beta
     title "oliverguhr/german-sentiment 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-19 69 → 2026-11-21 69（+0）
+2026-10-20 69 → 2026-11-22 69（+0）
 
 
 ---

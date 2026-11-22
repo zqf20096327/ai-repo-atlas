@@ -1,6 +1,6 @@
 # wpydcr/LLM-Kit
 
-⭐ 555 · Python · AGPL-3.0 · 推送 2025-11-25 · [GitHub](https://github.com/wpydcr/LLM-Kit) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向不写代码用户的 LLM 全流程工具 WebUI 整合包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

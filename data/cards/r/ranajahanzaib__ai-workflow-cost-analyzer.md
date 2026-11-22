@@ -1,6 +1,6 @@
 # ranajahanzaib/ai-workflow-cost-analyzer
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ranajahanzaib/ai-workflow-cost-analyzer) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/ai-workflow-cost-analyzer) · 个人维护
 
 **本地成本分析层：测算 AI 工作流每次验证成功的真实成本**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/ai-workflow-cost-analyzer 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-21"]
+    x-axis ["2026-11-12", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-21 3（+0）
+2026-11-12 3 → 2026-11-22 3（+0）
 
 
 ---

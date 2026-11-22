@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "borchertnad-creator/-virtual-card-usdt-enterprise-ai-transparency-audit-vcc 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "borchertnad-creator/-virtual-card-usdt-enterprise-ai-transparency-audit-vcc 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 6 --> 46
-    line [9, 14, 18, 28, 43]
+    line [9, 14, 18, 28, 43, 43]
 ```
 
-2026-11-16 9 → 2026-11-21 43（+34）
+2026-11-16 9 → 2026-11-22 43（+34）
 
 
 ---

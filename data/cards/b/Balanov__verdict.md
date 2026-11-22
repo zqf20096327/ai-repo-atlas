@@ -1,6 +1,6 @@
 # Balanov/verdict
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Balanov/verdict) · 个人维护
+⭐ 41 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Balanov/verdict) · 个人维护
 
 **197KB 本地语义分类器：判定 CLI 工具调用真实结果**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Balanov/verdict 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "Balanov/verdict 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 35 --> 100
-    line [94, 95, 43, 40]
+    line [94, 95, 43, 40, 41]
 ```
 
-2026-11-14 94 → 2026-11-21 40（-54）
+2026-11-14 94 → 2026-11-22 41（-53）
 
 
 ---

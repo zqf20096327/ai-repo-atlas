@@ -1,6 +1,6 @@
 # lucidrains/alphagenome
 
-⭐ 101 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lucidrains/alphagenome) · 个人维护
+⭐ 102 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lucidrains/alphagenome) · 个人维护
 
 **DeepMind AlphaGenome 基因组注意力模型的 PyTorch 复现**
 
@@ -46,12 +46,12 @@ lucidrains 实现的 AlphaGenome——DeepMind 的基因组注意力模型（DNA
 ```mermaid
 xychart-beta
     title "lucidrains/alphagenome 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 100 --> 103
+    line [101, 102]
 ```
 
-2026-10-19 101 → 2026-11-21 101（+0）
+2026-10-20 101 → 2026-11-22 102（+1）
 
 
 ---

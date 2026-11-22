@@ -47,12 +47,12 @@ TSCG（Token-Context Semantic Grammar）是一组 TypeScript npm 包，通过确
 ```mermaid
 xychart-beta
     title "SKZL-AI/tscg 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-19 24 → 2026-11-21 24（+0）
+2026-10-20 24 → 2026-11-22 24（+0）
 
 
 ---

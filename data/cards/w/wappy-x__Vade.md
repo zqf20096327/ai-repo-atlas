@@ -1,6 +1,6 @@
 # wappy-x/Vade
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/wappy-x/Vade) · [官网](https://vade.lol) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/wappy-x/Vade) · [官网](https://vade.lol) · 组织维护
 
 **为 NVIDIA DGX Spark 提供确定性本地 LLM 推理的 Rust 引擎**
 
@@ -47,12 +47,12 @@ Vade 是面向 NVIDIA DGX Spark（GB10）的推理引擎，用 Rust 从 GPU kern
 ```mermaid
 xychart-beta
     title "wappy-x/Vade 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-21 3（+0）
+2026-11-08 3 → 2026-11-22 3（+0）
 
 
 ---

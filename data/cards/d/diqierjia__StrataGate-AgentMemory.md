@@ -1,6 +1,6 @@
 # diqierjia/StrataGate-AgentMemory
 
-⭐ 119 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/diqierjia/StrataGate-AgentMemory) · 个人维护 · 中文 README
+⭐ 119 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/diqierjia/StrataGate-AgentMemory) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的跨会话分层记忆插件**
 
@@ -45,12 +45,12 @@ StrataGate 是 DeepSeek Harness（DSH）的跨会话记忆插件：对话按 Blo
 ```mermaid
 xychart-beta
     title "diqierjia/StrataGate-AgentMemory 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22"]
     y-axis "stars" 114 --> 120
     line [116, 115, 116, 117, 118, 119, 119]
 ```
 
-2026-11-08 116 → 2026-11-21 119（+3）
+2026-11-08 116 → 2026-11-22 119（+3）
 
 
 ---

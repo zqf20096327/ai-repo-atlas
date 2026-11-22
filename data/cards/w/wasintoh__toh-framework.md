@@ -1,6 +1,6 @@
 # wasintoh/toh-framework
 
-⭐ 97 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/wasintoh/toh-framework) · [官网](https://tohframework.dev) · 个人维护 · 中文 README
+⭐ 98 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/wasintoh/toh-framework) · [官网](https://tohframework.dev) · 个人维护 · 中文 README
 
 **向项目安装 AI 多 agent 构建体系的 npm 框架，一次批准自动完成应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wasintoh/toh-framework 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 95 --> 99
-    line [98, 97, 98, 96, 97, 97]
+    line [98, 97, 98, 96, 97, 98]
 ```
 
-2026-10-19 98 → 2026-11-21 97（-1）
+2026-10-20 98 → 2026-11-22 98（+0）
 
 
 ---

@@ -47,12 +47,12 @@ scikit-learn-contrib 下的 Python 搜索算法库，基于 h-correlation 与 et
 ```mermaid
 xychart-beta
     title "scikit-learn-contrib/fastcan 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-22"]
     y-axis "stars" 30 --> 33
     line [31, 32, 31, 31]
 ```
 
-2026-10-19 31 → 2026-11-21 31（+0）
+2026-10-20 31 → 2026-11-22 31（+0）
 
 
 ---

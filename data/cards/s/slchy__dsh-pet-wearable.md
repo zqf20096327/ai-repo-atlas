@@ -1,6 +1,6 @@
 # slchy/dsh-pet-wearable
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/slchy/dsh-pet-wearable) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/slchy/dsh-pet-wearable) · 个人维护 · 中文 README
 
 **面向智能穿戴设备的云端全双工语音伴生 Agent**
 
@@ -40,6 +40,18 @@
 > L9: **面向智能穿戴设备的云端全双工语音伴生 Agent（基于 `dsh` / DeepSeek Harness）**
 > L33: - ⚡ **快慢双轨投机推理（Fast Lane + dsh）**
 > L38: - 🎙️ **真正的全双工与自然打断（Full-Duplex & Barge-In）**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "slchy/dsh-pet-wearable 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
 
 
 ---

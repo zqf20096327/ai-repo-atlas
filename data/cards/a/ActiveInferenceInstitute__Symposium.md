@@ -1,6 +1,6 @@
 # ActiveInferenceInstitute/Symposium
 
-⭐ 17 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ActiveInferenceInstitute/Symposium) · [官网](https://activeinferenceinstitute.github.io/Symposium/) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ActiveInferenceInstitute/Symposium) · [官网](https://activeinferenceinstitute.github.io/Symposium/) · 组织维护
 
 **Active Inference 研讨会组织与研究分析 Python 工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ActiveInferenceInstitute/Symposium 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-12", "2026-11-22"]
     y-axis "stars" 12 --> 18
     line [13, 15, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-21 17（+4）
+2026-10-19 13 → 2026-11-22 17（+4）
 
 
 ---

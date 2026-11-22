@@ -1,6 +1,6 @@
 # AshutoshDM1/CodeGen
 
-⭐ 16 · TypeScript · MIT · 推送 2026-02-16 · [GitHub](https://github.com/AshutoshDM1/CodeGen) · [官网](https://codegen-prod.vercel.app) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-02-16 · [GitHub](https://github.com/AshutoshDM1/CodeGen) · 个人维护
 
 **带 AI 代码辅助的在线协作编程平台**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "AshutoshDM1/CodeGen 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-19 16 → 2026-11-21 16（+0）
+2026-10-20 16 → 2026-11-22 16（+0）
 
 
 ---

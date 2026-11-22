@@ -1,6 +1,6 @@
 # fikrikarim/volocal
 
-⭐ 103 · Swift · MIT · 推送 2026-04-02 · [GitHub](https://github.com/fikrikarim/volocal) · [官网](https://apps.apple.com/app/volocal/id6761493288) · 个人维护
+⭐ 104 · Swift · MIT · 推送 2026-04-02 · [GitHub](https://github.com/fikrikarim/volocal) · [官网](https://apps.apple.com/app/volocal/id6761493288) · 个人维护
 
 **iOS 端完全本地运行的实时语音 AI 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fikrikarim/volocal 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 99 --> 104
-    line [100, 101, 102, 103, 103]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-11-12", "2026-11-22"]
+    y-axis "stars" 99 --> 105
+    line [100, 101, 102, 103, 104]
 ```
 
-2026-10-18 100 → 2026-11-21 103（+3）
+2026-10-19 100 → 2026-11-22 104（+4）
 
 
 ---

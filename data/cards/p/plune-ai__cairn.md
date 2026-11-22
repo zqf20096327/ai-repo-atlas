@@ -1,6 +1,6 @@
 # plune-ai/cairn
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/plune-ai/cairn) · [官网](https://plune.ai/cairn) · 组织维护
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/plune-ai/cairn) · [官网](https://plune.ai/cairn) · 组织维护
 
 **自主 QA 代理：探索 Web 应用并生成可运行的 Playwright 测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "plune-ai/cairn 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-16", "2026-11-22"]
     y-axis "stars" 33 --> 37
     line [34, 35, 36, 36]
 ```
 
-2026-10-19 34 → 2026-11-21 36（+2）
+2026-10-20 34 → 2026-11-22 36（+2）
 
 
 ---

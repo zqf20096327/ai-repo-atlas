@@ -1,6 +1,6 @@
 # Yang1Bai/nature-paper-hub
 
-⭐ 20 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Yang1Bai/nature-paper-hub) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Yang1Bai/nature-paper-hub) · 个人维护 · 中文 README
 
 **面向 19 个顶刊投稿的全流程 AI 论文写作 agent 技能集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Yang1Bai/nature-paper-hub 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-19 19 → 2026-11-21 20（+1）
+2026-10-20 19 → 2026-11-22 21（+2）
 
 
 ---

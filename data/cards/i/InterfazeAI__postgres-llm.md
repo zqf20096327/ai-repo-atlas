@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "InterfazeAI/postgres-llm 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "InterfazeAI/postgres-llm 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 55 --> 58
-    line [56, 57]
+    line [56, 57, 57]
 ```
 
-2026-10-19 56 → 2026-11-21 57（+1）
+2026-10-20 56 → 2026-11-22 57（+1）
 
 
 ---

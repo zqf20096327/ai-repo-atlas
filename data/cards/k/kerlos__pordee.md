@@ -1,6 +1,6 @@
 # kerlos/pordee
 
-⭐ 331 · JavaScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/kerlos/pordee) · 个人维护
+⭐ 332 · JavaScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/kerlos/pordee) · 个人维护
 
 **让 Claude Code 用泰语简短回答以减少 output token 的插件**
 
@@ -46,12 +46,12 @@ pordee（พอดี）是 Claude Code 插件，通过 hooks 机制让 agent �
 ```mermaid
 xychart-beta
     title "kerlos/pordee 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 329 --> 332
-    line [330, 331, 330, 331, 330, 331, 331]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-22"]
+    y-axis "stars" 329 --> 333
+    line [330, 331, 330, 331, 330, 331, 332]
 ```
 
-2026-10-19 330 → 2026-11-21 331（+1）
+2026-10-20 330 → 2026-11-22 332（+2）
 
 
 ---

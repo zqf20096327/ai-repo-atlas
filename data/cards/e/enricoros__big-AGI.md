@@ -1,6 +1,6 @@
 # enricoros/big-AGI
 
-⭐ 7,167 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/enricoros/big-AGI) · [官网](https://big-agi.com) · 个人维护
+⭐ 7,168 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/enricoros/big-AGI) · [官网](https://big-agi.com) · 个人维护
 
 **面向专家的多模型 AI 工作区，自托管聊天与模型对比**
 
@@ -40,6 +40,18 @@ Big-AGI Open 是多模型 AI 工作区的开源基础：在对话中切换 800+ 
 > L21: Big-AGI is the multi-model AI workspace for experts: Engineers architecting systems. Founders making decisions. Res
 > L255: |Opensource Servers|LocalAI · Ollama|
 > L258: |LLM services|Alibaba · DeepSeek · Groq · Mistral · Moonshot · NVIDIA NIM · OpenRouter · Perplexity · Together AI 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "enricoros/big-AGI 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 7166 --> 7169
+    line [7167, 7168]
+```
+
+2026-11-21 7,167 → 2026-11-22 7,168（+1）
 
 
 ---

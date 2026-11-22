@@ -1,6 +1,6 @@
 # umitaltintas/raycast-cli-assistant
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/umitaltintas/raycast-cli-assistant) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/umitaltintas/raycast-cli-assistant) · 个人维护
 
 **让 Raycast 免 Pro 用 AI：经 Claude Code/Codex CLI 问答翻译改写**
 
@@ -47,12 +47,12 @@ Raycast 扩展，把用户的请求转发到本机已安装并登录的 Claude C
 ```mermaid
 xychart-beta
     title "umitaltintas/raycast-cli-assistant 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 16 --> 24
-    line [17, 18, 20, 21, 22, 20, 23, 23]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 16 --> 25
+    line [17, 18, 20, 21, 22, 20, 23, 24]
 ```
 
-2026-10-19 17 → 2026-11-21 23（+6）
+2026-10-20 17 → 2026-11-22 24（+7）
 
 
 ---

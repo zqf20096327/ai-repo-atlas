@@ -1,6 +1,6 @@
 # atxatlarge-code/localbench-smb
 
-⭐ 6 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/atxatlarge-code/localbench-smb) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/atxatlarge-code/localbench-smb) · [官网](https://huggingface.co/spaces/ATXatLarge/localbench-smb) · 个人维护
 
 **面向 SMB 的本地 LLM 业务工作流基准：9 类任务 180 个确定性用例**
 
@@ -46,12 +46,12 @@ LocalBench SMB v2.0 是一个本地小模型评测基准：针对 9 类日常业
 ```mermaid
 xychart-beta
     title "atxatlarge-code/localbench-smb 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22"]
     y-axis "stars" 3 --> 7
     line [4, 5, 6, 6]
 ```
 
-2026-11-08 4 → 2026-11-21 6（+2）
+2026-11-08 4 → 2026-11-22 6（+2）
 
 
 ---

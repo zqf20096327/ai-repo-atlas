@@ -1,6 +1,6 @@
 # stephenhky/PyShortTextCategorization
 
-⭐ 474 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/stephenhky/PyShortTextCategorization) · [官网](https://pypi.org/project/shorttext/) · 个人维护
+⭐ 474 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/stephenhky/PyShortTextCategorization) · [官网](https://pypi.org/project/shorttext/) · 个人维护
 
 **Python 短文本分类与挖掘算法库，供研究开发者使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stephenhky/PyShortTextCategorization 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-20", "2026-11-22"]
     y-axis "stars" 472 --> 476
     line [473, 475, 474, 474]
 ```
 
-2026-10-19 473 → 2026-11-21 474（+1）
+2026-10-20 473 → 2026-11-22 474（+1）
 
 
 ---

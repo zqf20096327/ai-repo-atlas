@@ -1,6 +1,6 @@
 # yessGlory17/generative-mui
 
-⭐ 11 · TypeScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/yessGlory17/generative-mui) · [官网](https://www.npmjs.com/package/@yessglory/generative-mui-react) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/yessGlory17/generative-mui) · [官网](https://www.npmjs.com/package/@yessglory/generative-mui-react) · 个人维护
 
 **把 LLM 输出的 A2UI 协议渲染成 Material UI 的 React 渲染库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yessGlory17/generative-mui 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 12（+1）
 
 
 ---

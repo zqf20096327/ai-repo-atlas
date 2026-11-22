@@ -41,6 +41,18 @@
 > L61: - **Prompt Manager** — converts each command into a structured prompt, parses the model response, and maintains hon
 > L62: - **OpenAI-compatible model** — generates terminal output and state-analysis results from the prompt.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zyw-286/HoneyGPT 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `f4d85f49090a` · [字段定义](../../DATASET.md)*

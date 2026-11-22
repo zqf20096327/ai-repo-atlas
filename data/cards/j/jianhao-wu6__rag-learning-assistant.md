@@ -1,6 +1,6 @@
 # jianhao-wu6/rag-learning-assistant
 
-⭐ 9 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/jianhao-wu6/rag-learning-assistant) · 个人维护 · 中文 README
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/jianhao-wu6/rag-learning-assistant) · 个人维护 · 中文 README
 
 **基于 RAG 全链路的教程知识库学习问答助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jianhao-wu6/rag-learning-assistant 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 4 --> 10
-    line [5, 6, 7, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 4 --> 11
+    line [5, 6, 7, 8, 9, 10]
 ```
 
-2026-11-08 5 → 2026-11-21 9（+4）
+2026-11-08 5 → 2026-11-22 10（+5）
 
 
 ---

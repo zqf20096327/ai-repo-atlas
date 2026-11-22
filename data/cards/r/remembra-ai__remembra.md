@@ -1,6 +1,6 @@
 # remembra-ai/remembra
 
-⭐ 17 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/remembra-ai/remembra) · [官网](https://remembra.dev) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/remembra-ai/remembra) · [官网](https://remembra.dev) · 组织维护
 
 **跨工具跨机器的编码 agent 会话交接工具（MCP server + CLI）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "remembra-ai/remembra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    title "remembra-ai/remembra 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 15 --> 18
-    line [16, 17]
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-21 17（+1）
+2026-10-19 16 → 2026-11-22 17（+1）
 
 
 ---

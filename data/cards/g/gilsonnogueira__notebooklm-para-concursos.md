@@ -1,6 +1,6 @@
 # gilsonnogueira/notebooklm-para-concursos
 
-⭐ 70 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/gilsonnogueira/notebooklm-para-concursos) · 个人维护
+⭐ 71 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/gilsonnogueira/notebooklm-para-concursos) · 个人维护
 
 **面向巴西公考考生的 AI 学习方法论：19 个提示词+NotebookLM/Gemini**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gilsonnogueira/notebooklm-para-concursos 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 39 --> 72
-    line [41, 44, 45, 47, 44, 60, 67, 68, 69, 70]
+    title "gilsonnogueira/notebooklm-para-concursos 星数(近 11 点)"
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 38 --> 74
+    line [41, 44, 45, 47, 44, 60, 67, 68, 69, 70, 71]
 ```
 
-2026-10-19 41 → 2026-11-21 70（+29）
+2026-10-20 41 → 2026-11-22 71（+30）
 
 
 ---

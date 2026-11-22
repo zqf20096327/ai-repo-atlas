@@ -44,13 +44,13 @@ CesiumGS 维护的参考集成集合：提供 MCP 服务器、agent skills、检
 
 ```mermaid
 xychart-beta
-    title "CesiumGS/cesium-ai-integrations 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    title "CesiumGS/cesium-ai-integrations 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-21", "2026-11-22"]
     y-axis "stars" 92 --> 96
-    line [93, 94, 95]
+    line [93, 94, 95, 95]
 ```
 
-2026-10-19 93 → 2026-11-21 95（+2）
+2026-10-20 93 → 2026-11-22 95（+2）
 
 
 ---

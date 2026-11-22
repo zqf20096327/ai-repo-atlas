@@ -45,12 +45,12 @@ LLM 对比平台的后端部分，通过 Modal serverless GPU 部署两个组件
 ```mermaid
 xychart-beta
     title "Supahands/llm-comparison-backend 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-19 23 → 2026-11-21 23（+0）
+2026-10-20 23 → 2026-11-22 23（+0）
 
 
 ---

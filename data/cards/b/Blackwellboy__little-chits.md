@@ -1,6 +1,6 @@
 # Blackwellboy/little-chits
 
-⭐ 24 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Blackwellboy/little-chits) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Blackwellboy/little-chits) · 个人维护
 
 **可接入任意 LLM 驱动小生物的人工生命文明模拟**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Blackwellboy/little-chits 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 22 --> 25
     line [23, 24, 23, 24, 24]
 ```
 
-2026-10-19 23 → 2026-11-21 24（+1）
+2026-10-20 23 → 2026-11-22 24（+1）
 
 
 ---

@@ -40,6 +40,18 @@ AlignNet 是 Interspeech 2024 论文的配套代码：在用多个独立数据�
 > L4: This code corresponds to the paper "AlignNet: Learning dataset score alignment functions to enable better training o
 > L7: AlignNet improves the training of NR speech quality estimators with multiple, independent datasets. AlignNet uses an
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NTIA/alignnet 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-21 20 → 2026-11-22 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `c12646421d63` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # harnessprotocol/harness-kit
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/harnessprotocol/harness-kit) · [官网](https://harnesskit.ai) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/harnessprotocol/harness-kit) · [官网](https://harnesskit.ai) · 组织维护
 
 **AI 编码工具配置的打包与同步工具：一份配置应用到多端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "harnessprotocol/harness-kit 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-16", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tejasprasad2008-afk/TraceTree
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/tejasprasad2008-afk/TraceTree) · [官网](https://tracetree-sigma.vercel.app/) · 个人维护
+⭐ 43 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/tejasprasad2008-afk/TraceTree) · [官网](https://tracetree-sigma.vercel.app/) · 个人维护
 
 **运行时行为分析工具：沙箱追踪包安装的进程级联，检测供应链攻击**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tejasprasad2008-afk/TraceTree 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-22"]
     y-axis "stars" 41 --> 44
     line [43, 42, 43, 43]
 ```
 
-2026-10-19 43 → 2026-11-21 43（+0）
+2026-10-20 43 → 2026-11-22 43（+0）
 
 
 ---

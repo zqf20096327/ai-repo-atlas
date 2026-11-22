@@ -1,6 +1,6 @@
 # hoanghadhpt/qa-pilot
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/hoanghadhpt/qa-pilot) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/hoanghadhpt/qa-pilot) · 个人维护 · 中文 README
 
 **MCP 服务器：让 AI 编码助手执行 Web 自动化测试**
 
@@ -47,12 +47,12 @@ QA Pilot 通过 MCP 协议将 Antigravity IDE、Claude Code、Cursor 等 AI 编�
 ```mermaid
 xychart-beta
     title "hoanghadhpt/qa-pilot 星数(近 7 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 3 --> 11
-    line [4, 7, 8, 7, 8, 10, 10]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 3 --> 12
+    line [4, 7, 8, 7, 8, 10, 11]
 ```
 
-2026-11-12 4 → 2026-11-21 10（+6）
+2026-11-12 4 → 2026-11-22 11（+7）
 
 
 ---

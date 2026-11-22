@@ -1,6 +1,6 @@
 # fronalabs/frona
 
-⭐ 204 · Rust · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/fronalabs/frona) · [官网](https://docs.frona.ai) · 组织维护
+⭐ 204 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/fronalabs/frona) · [官网](https://docs.frona.ai) · 组织维护
 
 **自托管个人 AI 助手平台：创建可自主执行任务的 agent 并通过对话交互**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fronalabs/frona 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22"]
     y-axis "stars" 199 --> 205
     line [201, 200, 201, 200, 202, 204, 204]
 ```
 
-2026-10-19 201 → 2026-11-21 204（+3）
+2026-10-20 201 → 2026-11-22 204（+3）
 
 
 ---

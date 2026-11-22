@@ -1,6 +1,6 @@
 # lehoanganhtai13/archmancer
 
-⭐ 21 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lehoanganhtai13/archmancer) · 个人维护
+⭐ 22 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lehoanganhtai13/archmancer) · 个人维护
 
 **为编码 agent 提供 agent 系统架构技能的插件包（8 个技能）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lehoanganhtai13/archmancer 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 5 --> 22
-    line [6, 21]
+    title "lehoanganhtai13/archmancer 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 23
+    line [6, 21, 22]
 ```
 
-2026-11-20 6 → 2026-11-21 21（+15）
+2026-11-20 6 → 2026-11-22 22（+16）
 
 
 ---

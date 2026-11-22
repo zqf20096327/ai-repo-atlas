@@ -46,12 +46,12 @@ lotus 是一个纯 Python 的终端 agent，驱动本机 Ollama 模型执行文�
 ```mermaid
 xychart-beta
     title "Het-Joshi/lotus 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-19 5 → 2026-11-21 5（+0）
+2026-10-20 5 → 2026-11-22 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # skissue/llm-tool-collection
 
-⭐ 98 · Emacs Lisp · GPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/skissue/llm-tool-collection) · 个人维护
+⭐ 99 · Emacs Lisp · GPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/skissue/llm-tool-collection) · 个人维护
 
 **Emacs LLM agent 的工具集：文件/缓冲区/搜索/系统类可调用工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "skissue/llm-tool-collection 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 96 --> 99
-    line [97, 98, 97, 98, 98]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 96 --> 100
+    line [97, 98, 97, 98, 99]
 ```
 
-2026-10-19 97 → 2026-11-21 98（+1）
+2026-10-20 97 → 2026-11-22 99（+2）
 
 
 ---

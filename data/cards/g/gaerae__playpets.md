@@ -1,6 +1,6 @@
 # gaerae/playpets
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gaerae/playpets) · [官网](https://playpets.gaerae.com/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **桌面宠物应用：四只内置宠物经你选择的 AI 互相聊天并响应编码工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

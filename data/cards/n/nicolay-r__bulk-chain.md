@@ -1,6 +1,6 @@
 # nicolay-r/bulk-chain
 
-⭐ 23 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/nicolay-r/bulk-chain) · [官网](https://x.com/nicolayr_/status/1847969224636961033) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nicolay-r/bulk-chain) · [官网](https://x.com/nicolayr_/status/1847969224636961033) · 个人维护
 
 **批量文本集合上应用 CoT 提示模式的 LLM 推理框架**
 
@@ -45,12 +45,12 @@ Python 框架 bulk-chain：以 JSON schema 声明 Chain-of-Thought 式提示步�
 ```mermaid
 xychart-beta
     title "nicolay-r/bulk-chain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-21 23（+0）
+2026-10-19 23 → 2026-11-22 23（+0）
 
 
 ---

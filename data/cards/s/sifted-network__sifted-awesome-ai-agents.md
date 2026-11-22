@@ -1,6 +1,6 @@
 # sifted-network/sifted-awesome-ai-agents
 
-⭐ 27 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/sifted-network/sifted-awesome-ai-agents) · [官网](https://sifted.network) · 组织维护
+⭐ 27 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/sifted-network/sifted-awesome-ai-agents) · [官网](https://sifted.network) · 组织维护
 
 **按 star 数自动更新的 GitHub AI agent 仓库榜单清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sifted-network/sifted-awesome-ai-agents 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    title "sifted-network/sifted-awesome-ai-agents 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-21", "2026-11-22"]
     y-axis "stars" 23 --> 28
-    line [24, 25, 27]
+    line [24, 25, 27, 27]
 ```
 
-2026-10-19 24 → 2026-11-21 27（+3）
+2026-10-20 24 → 2026-11-22 27（+3）
 
 
 ---

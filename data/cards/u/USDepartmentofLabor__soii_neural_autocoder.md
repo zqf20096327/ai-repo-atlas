@@ -40,6 +40,18 @@
 > L6: Contains the code used to train a close relative of the neural network autocoder
 > L37: |nature_code|The 2.01 OIICS nature code|1233|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "USDepartmentofLabor/soii_neural_autocoder 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-21 23 → 2026-11-22 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `bfcf10ae8f5a` · [字段定义](../../DATASET.md)*

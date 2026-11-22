@@ -36,12 +36,12 @@
 ```mermaid
 xychart-beta
     title "ahammadmejbah/Fueling-Ambitions-Via-Book-Discoveries 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 220 --> 222
     line [221, 221]
 ```
 
-2026-10-19 221 → 2026-11-21 221（+0）
+2026-10-20 221 → 2026-11-22 221（+0）
 
 
 ---

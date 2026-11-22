@@ -1,6 +1,6 @@
 # jsabguy1-cpu/manus--ai
 
-⭐ 196 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jsabguy1-cpu/manus--ai) · 个人维护
+⭐ 192 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jsabguy1-cpu/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent，代用户执行代码与浏览器操作**
 
@@ -45,12 +45,12 @@ README 介绍 Manus 为一个自主 AI Agent：可自行编写并执行脚本、
 ```mermaid
 xychart-beta
     title "jsabguy1-cpu/manus--ai 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22"]
     y-axis "stars" 125 --> 282
-    line [138, 269, 197, 196, 196]
+    line [138, 269, 197, 196, 192]
 ```
 
-2026-11-13 138 → 2026-11-21 196（+58）
+2026-11-13 138 → 2026-11-22 192（+54）
 
 
 ---

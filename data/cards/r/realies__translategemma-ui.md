@@ -1,6 +1,6 @@
 # realies/translategemma-ui
 
-⭐ 55 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/realies/translategemma-ui) · [官网](https://hub.docker.com/r/realies/translategemma-ui) · 个人维护
+⭐ 55 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/realies/translategemma-ui) · [官网](https://hub.docker.com/r/realies/translategemma-ui) · 个人维护
 
 **自托管 Web 界面：通过 Ollama 本地运行 TranslateGemma 翻译模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "realies/translategemma-ui 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-15", "2026-11-22"]
     y-axis "stars" 52 --> 56
     line [53, 54, 55, 55]
 ```
 
-2026-10-19 53 → 2026-11-21 55（+2）
+2026-10-20 53 → 2026-11-22 55（+2）
 
 
 ---

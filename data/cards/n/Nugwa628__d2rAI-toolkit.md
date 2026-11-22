@@ -1,6 +1,6 @@
 # Nugwa628/d2rAI-toolkit
 
-⭐ 7 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Nugwa628/d2rAI-toolkit) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Nugwa628/d2rAI-toolkit) · 个人维护
 
 **用 AI agent 构建与移植 D2R 引擎级模组的工具包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Nugwa628/d2rAI-toolkit 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-22"]
     y-axis "stars" 5 --> 8
     line [6, 7, 7]
 ```
 
-2026-11-08 6 → 2026-11-21 7（+1）
+2026-11-08 6 → 2026-11-22 7（+1）
 
 
 ---

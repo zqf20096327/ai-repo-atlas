@@ -1,6 +1,6 @@
 # fuqiuluo/rust-elegant
 
-⭐ 13 · Python · Unlicense · 推送 2026-10-22 · [GitHub](https://github.com/fuqiuluo/rust-elegant) · 个人维护 · 中文 README
+⭐ 14 · Python · Unlicense · 推送 2026-10-22 · [GitHub](https://github.com/fuqiuluo/rust-elegant) · 个人维护 · 中文 README
 
 **教 Claude Code/Codex 写 Rust 的 Agent Skill 规则集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fuqiuluo/rust-elegant 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 11, 13, 13]
+    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 13, 14]
 ```
 
-2026-10-19 11 → 2026-11-21 13（+2）
+2026-10-20 11 → 2026-11-22 14（+3）
 
 
 ---

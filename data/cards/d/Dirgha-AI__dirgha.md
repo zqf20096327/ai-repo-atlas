@@ -1,6 +1,6 @@
 # Dirgha-AI/dirgha
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Dirgha-AI/dirgha) · [官网](https://dirgha.ai) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Dirgha-AI/dirgha) · [官网](https://dirgha.ai) · 组织维护
 
 **本地运行的终端 AI 编码 agent，带安全门与审计**
 
@@ -41,6 +41,18 @@
 > L10: AI agents now open files, run commands, send messages and, increasingly, move machines. Dirgha is a harness for tho
 > L36: |**Your choice of model**|14 hosted provider families plus any OpenAI-compatible endpoint, or fully local models th
 > L53: The TypeScript agent handles conversation, tools and providers. The Rust kernel handles the gate, the ledger, the M
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Dirgha-AI/dirgha 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-11-21 16 → 2026-11-22 16（+0）
 
 
 ---

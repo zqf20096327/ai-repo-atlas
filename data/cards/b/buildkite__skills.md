@@ -1,6 +1,6 @@
 # buildkite/skills
 
-⭐ 19 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/buildkite/skills) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/buildkite/skills) · 组织维护
 
 **Buildkite 官方为 AI 编程 agent 提供的技能包集合**
 
@@ -47,12 +47,12 @@ Buildkite 官方维护的技能（skills）仓库，面向 Claude Code、Cursor�
 ```mermaid
 xychart-beta
     title "buildkite/skills 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-19 18 → 2026-11-21 19（+1）
+2026-10-20 18 → 2026-11-22 20（+2）
 
 
 ---

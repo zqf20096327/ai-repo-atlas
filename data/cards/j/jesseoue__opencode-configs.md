@@ -1,6 +1,6 @@
 # jesseoue/opencode-configs
 
-⭐ 31 · Shell · 推送 2026-09-18 · [GitHub](https://github.com/jesseoue/opencode-configs) · [官网](https://openrouter.ai) · 个人维护
+⭐ 31 · Shell · 推送 2026-11-21 · [GitHub](https://github.com/jesseoue/opencode-configs) · [官网](https://openrouter.ai) · 个人维护
 
 **OpenCode AI 编码代理的配置即代码固化栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jesseoue/opencode-configs 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-15", "2026-11-22"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-19 30 → 2026-11-21 31（+1）
+2026-10-20 30 → 2026-11-22 31（+1）
 
 
 ---

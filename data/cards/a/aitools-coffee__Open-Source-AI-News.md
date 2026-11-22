@@ -1,6 +1,6 @@
 # aitools-coffee/Open-Source-AI-News
 
-⭐ 13 · 推送 2026-02-11 · [GitHub](https://github.com/aitools-coffee/Open-Source-AI-News) · [官网](https://aitools.coffee) · 组织维护
+⭐ 14 · 推送 2026-02-11 · [GitHub](https://github.com/aitools-coffee/Open-Source-AI-News) · [官网](https://aitools.coffee) · 组织维护
 
 **面向 AI 从业者的 50+ 通讯策展清单，按 7 类组织**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aitools-coffee/Open-Source-AI-News 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 11, 12, 13, 13]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 12, 13, 14]
 ```
 
-2026-10-19 11 → 2026-11-21 13（+2）
+2026-10-20 11 → 2026-11-22 14（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # takleb3rry/zitadel-mcp
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/takleb3rry/zitadel-mcp) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/takleb3rry/zitadel-mcp) · 个人维护
 
 **让 AI 工具用自然语言管理 Zitadel 身份平台的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "takleb3rry/zitadel-mcp 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11]
+    title "takleb3rry/zitadel-mcp 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-12", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 12（+2）
 
 
 ---

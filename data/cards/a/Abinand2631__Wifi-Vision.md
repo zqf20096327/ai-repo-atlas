@@ -1,6 +1,6 @@
 # Abinand2631/Wifi-Vision
 
-⭐ 23 · Python · 推送 2026-07-17 · [GitHub](https://github.com/Abinand2631/Wifi-Vision) · 个人维护
+⭐ 24 · Python · 推送 2026-07-17 · [GitHub](https://github.com/Abinand2631/Wifi-Vision) · 个人维护
 
 **基于 ESP32 Wi-Fi CSI 的人体姿态与活动识别系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Abinand2631/Wifi-Vision 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-19 22 → 2026-11-21 23（+1）
+2026-10-20 22 → 2026-11-22 24（+2）
 
 
 ---

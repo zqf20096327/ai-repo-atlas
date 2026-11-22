@@ -1,6 +1,6 @@
 # agentfront/frontmcp
 
-⭐ 153 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/agentfront/frontmcp) · [官网](https://frontmcp.dev) · 组织维护
+⭐ 153 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/agentfront/frontmcp) · [官网](https://frontmcp.dev) · 组织维护
 
 **TypeScript 的 MCP 服务器开发框架：类型化工具、DI、认证与多平台部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentfront/frontmcp 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-22"]
     y-axis "stars" 145 --> 154
     line [146, 147, 148, 151, 152, 153, 153]
 ```
 
-2026-10-19 146 → 2026-11-21 153（+7）
+2026-10-20 146 → 2026-11-22 153（+7）
 
 
 ---

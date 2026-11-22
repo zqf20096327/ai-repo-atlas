@@ -1,6 +1,6 @@
 # probots-io/pinecone-php
 
-⭐ 75 · PHP · MIT · 推送 2026-06-23 · [GitHub](https://github.com/probots-io/pinecone-php) · [官网](https://probots.io) · 组织维护
+⭐ 74 · PHP · MIT · 推送 2026-06-23 · [GitHub](https://github.com/probots-io/pinecone-php) · [官网](https://probots.io) · 组织维护
 
 **PHP 开发者的 Pinecone 向量数据库 SDK，封装索引与向量操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "probots-io/pinecone-php 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 73 --> 76
+    line [75, 74]
 ```
 
-2026-10-19 75 → 2026-11-21 75（+0）
+2026-10-20 75 → 2026-11-22 74（-1）
 
 
 ---

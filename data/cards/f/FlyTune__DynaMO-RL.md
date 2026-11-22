@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlyTune/DynaMO-RL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-21"]
-    y-axis "stars" 86 --> 89
-    line [87, 88, 88]
+    title "FlyTune/DynaMO-RL 星数(近 2 点)"
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 87 --> 89
+    line [88, 88]
 ```
 
-2026-10-18 87 → 2026-11-21 88（+1）
+2026-10-19 88 → 2026-11-22 88（+0）
 
 
 ---

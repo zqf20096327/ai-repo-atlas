@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pranataa-labs/CPI-Gold-Tail-Volatility-Forecasting 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-21"]
+    x-axis ["2026-10-26", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-26 4 → 2026-11-21 4（+0）
+2026-10-26 4 → 2026-11-22 4（+0）
 
 
 ---

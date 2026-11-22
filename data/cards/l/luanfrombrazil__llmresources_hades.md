@@ -1,6 +1,6 @@
 # luanfrombrazil/llmresources_hades
 
-⭐ 7 · Python · 推送 2026-10-23 · [GitHub](https://github.com/luanfrombrazil/llmresources_hades) · 个人维护
+⭐ 8 · Python · 推送 2026-10-23 · [GitHub](https://github.com/luanfrombrazil/llmresources_hades) · 个人维护
 
 **给 LLM 生成 HADES 电路仿真文件的文档参考库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "luanfrombrazil/llmresources_hades 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 7, 7]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-22"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 7, 8]
 ```
 
-2026-10-24 4 → 2026-11-21 7（+3）
+2026-10-24 4 → 2026-11-22 8（+4）
 
 
 ---

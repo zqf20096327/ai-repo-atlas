@@ -45,12 +45,12 @@ Python 命令行工具，通过 SDXL-Turbo 模型提供文生图与图生图两�
 ```mermaid
 xychart-beta
     title "CursedPrograms/Image-Generator 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

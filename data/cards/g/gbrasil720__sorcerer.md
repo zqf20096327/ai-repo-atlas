@@ -1,6 +1,6 @@
 # gbrasil720/sorcerer
 
-⭐ 10 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gbrasil720/sorcerer) · [官网](https://sorcererapp.dev) · 个人维护
+⭐ 11 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gbrasil720/sorcerer) · [官网](https://sorcererapp.dev) · 个人维护
 
 **macOS 本地应用：模拟 AI agent 社区演绎 what-if 假设**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gbrasil720/sorcerer 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 4 --> 11
-    line [5, 8, 9, 10, 8, 10, 10]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 4 --> 12
+    line [5, 8, 9, 10, 8, 10, 11]
 ```
 
-2026-10-22 5 → 2026-11-21 10（+5）
+2026-10-22 5 → 2026-11-22 11（+6）
 
 
 ---

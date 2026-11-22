@@ -1,6 +1,6 @@
 # Godcreatebugs/raytrace-cli
 
-⭐ 25 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Godcreatebugs/raytrace-cli) · [官网](https://www.raytracer.si/) · 组织维护
+⭐ 24 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Godcreatebugs/raytrace-cli) · [官网](https://www.raytracer.si/) · 组织维护
 
 **编码 Agent 本地沙箱：隔离运行并记录其真实行为**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Godcreatebugs/raytrace-cli 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-11-20", "2026-11-22"]
+    y-axis "stars" 23 --> 26
+    line [25, 24]
 ```
 
-2026-11-20 25 → 2026-11-21 25（+0）
+2026-11-20 25 → 2026-11-22 24（-1）
 
 
 ---

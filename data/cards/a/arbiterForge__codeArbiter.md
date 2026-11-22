@@ -1,6 +1,6 @@
 # arbiterForge/codeArbiter
 
-⭐ 155 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/arbiterForge/codeArbiter) · [官网](https://codearbiter.dev/) · 组织维护
+⭐ 155 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/arbiterForge/codeArbiter) · [官网](https://codearbiter.dev/) · 组织维护
 
 **面向 AI 编码 agent 的仓库级治理与硬门禁插件套件**
 
@@ -44,13 +44,13 @@ codeArbiter 是由仓库持有的治理层，为 Claude Code、Codex CLI 和 Pi 
 
 ```mermaid
 xychart-beta
-    title "arbiterForge/codeArbiter 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-21"]
+    title "arbiterForge/codeArbiter 星数(近 9 点)"
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 147 --> 156
-    line [149, 148, 149, 148, 152, 153, 154, 155]
+    line [149, 148, 149, 148, 152, 153, 154, 155, 155]
 ```
 
-2026-10-19 149 → 2026-11-21 155（+6）
+2026-10-20 149 → 2026-11-22 155（+6）
 
 
 ---

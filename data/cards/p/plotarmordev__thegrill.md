@@ -1,6 +1,6 @@
 # plotarmordev/thegrill
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/plotarmordev/thegrill) · 组织维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/plotarmordev/thegrill) · 组织维护
 
 **测量你的改动是否让 LLM 服务器变快的基准测试 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "plotarmordev/thegrill 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-22"]
     y-axis "stars" 9 --> 17
     line [10, 11, 12, 16, 16]
 ```
 
-2026-10-19 10 → 2026-11-21 16（+6）
+2026-10-20 10 → 2026-11-22 16（+6）
 
 
 ---

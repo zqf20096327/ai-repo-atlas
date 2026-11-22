@@ -1,6 +1,6 @@
 # operatecenter/operate-mcp
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/operatecenter/operate-mcp) · [官网](https://operate.center) · 组织维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/operatecenter/operate-mcp) · [官网](https://operate.center) · 组织维护
 
 **给 AI agent 接入 Operate.Center 自由职业市场的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Operate.Center 官方 MCP 服务器，通过单个配置片段为 Claude Desktop
 ```mermaid
 xychart-beta
     title "operatecenter/operate-mcp 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-21 4（+0）
+2026-11-08 4 → 2026-11-22 4（+0）
 
 
 ---

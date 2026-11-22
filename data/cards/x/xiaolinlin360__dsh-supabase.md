@@ -46,12 +46,12 @@ Cordis 动态插件，为 DeepSeek Harness 中的 Agent 提供 10 个模型工�
 ```mermaid
 xychart-beta
     title "xiaolinlin360/dsh-supabase 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-21 10（+0）
+2026-10-20 10 → 2026-11-22 10（+0）
 
 
 ---

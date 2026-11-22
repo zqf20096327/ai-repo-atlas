@@ -1,6 +1,6 @@
 # AprilNEA/ChatGPUI
 
-⭐ 39 · Rust · NOASSERTION · 推送 2026-06-25 · [GitHub](https://github.com/AprilNEA/ChatGPUI) · 个人维护
+⭐ 38 · Rust · NOASSERTION · 推送 2026-06-25 · [GitHub](https://github.com/AprilNEA/ChatGPUI) · 个人维护
 
 **基于 GPUI 的 GPU 加速原生 LLM 聊天客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AprilNEA/ChatGPUI 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 39, 39]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 37 --> 41
+    line [39, 40, 39, 38]
 ```
 
-2026-10-19 39 → 2026-11-21 39（+0）
+2026-10-20 39 → 2026-11-22 38（-1）
 
 
 ---

@@ -46,12 +46,12 @@ MIDL 2026 论文 "Towards Effective Surgical Representation Learning with DINO M
 ```mermaid
 xychart-beta
     title "rlpddejong/SurgeNetDINO 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-16", "2026-11-22"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-19 17 → 2026-11-21 19（+2）
+2026-10-20 17 → 2026-11-22 19（+2）
 
 
 ---

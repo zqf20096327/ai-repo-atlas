@@ -46,12 +46,12 @@ DeepSeek Harness 插件，批量处理病历文本、表格与 DICOM 元数据�
 ```mermaid
 xychart-beta
     title "wld007/dsh-medical-anonymizer 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-21 5（+0）
+2026-11-08 5 → 2026-11-22 5（+0）
 
 
 ---

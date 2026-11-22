@@ -45,12 +45,12 @@ NOP Chaos Flux 是一个基于七原语（Template/ScopeRef/Value/Resource/React
 ```mermaid
 xychart-beta
     title "entropy-cloud/nop-chaos-flux 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
     y-axis "stars" 39 --> 42
     line [40, 41, 41]
 ```
 
-2026-10-19 40 → 2026-11-21 41（+1）
+2026-10-20 40 → 2026-11-22 41（+1）
 
 
 ---

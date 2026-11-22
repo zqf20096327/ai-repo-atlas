@@ -1,6 +1,6 @@
 # jefoce/unplatform-ai
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/jefoce/unplatform-ai) · [官网](https://www.reddit.com/r/UnplatformAI/) · 个人维护
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/jefoce/unplatform-ai) · [官网](https://www.reddit.com/r/UnplatformAI/) · 个人维护
 
 **桌面应用：用自有 OpenRouter key 或 ComfyUI 生成 AI 图像与视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jefoce/unplatform-ai 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-12", "2026-11-19", "2026-11-22"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-12 4 → 2026-11-21 5（+1）
+2026-11-12 4 → 2026-11-22 5（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kajisho5/Velisa
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kajisho5/Velisa) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kajisho5/Velisa) · 个人维护
 
 **为独立视频生产 Skill/Agent 提供开放契约与共享执行基础设施**
 
@@ -40,6 +40,18 @@
 > L24: A set of open contracts and shared execution infrastructure that let independent
 > L118: |Reference Capability registry|**Implemented** — `registry/registry.py`: who provides Capability X, collision dete
 > L191: links every Skill that has a `SKILL.md` into `~/.claude/skills/` (Claude Code) and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kajisho5/Velisa 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-21 10 → 2026-11-22 11（+1）
 
 
 ---

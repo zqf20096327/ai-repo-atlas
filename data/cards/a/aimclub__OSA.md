@@ -1,6 +1,6 @@
 # aimclub/OSA
 
-⭐ 152 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/aimclub/OSA) · [官网](https://aimclub.github.io/OSA/) · 组织维护
+⭐ 152 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/aimclub/OSA) · [官网](https://aimclub.github.io/OSA/) · 组织维护
 
 **用 LLM agent 自动改进开源仓库质量的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aimclub/OSA 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
+    title "aimclub/OSA 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22"]
     y-axis "stars" 146 --> 153
-    line [147, 148, 149, 148, 149, 151, 152]
+    line [147, 148, 149, 148, 149, 151, 152, 152]
 ```
 
-2026-10-18 147 → 2026-11-21 152（+5）
+2026-10-19 147 → 2026-11-22 152（+5）
 
 
 ---

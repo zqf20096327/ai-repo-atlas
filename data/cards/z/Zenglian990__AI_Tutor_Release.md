@@ -1,6 +1,6 @@
 # Zenglian990/AI_Tutor_Release
 
-⭐ 95 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Zenglian990/AI_Tutor_Release) · [官网](https://ai-tutor-79709693345.asia-east1.run.app) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向1-9年级学生的开源 RAG AI 教辅私教（移动/Web 应用）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

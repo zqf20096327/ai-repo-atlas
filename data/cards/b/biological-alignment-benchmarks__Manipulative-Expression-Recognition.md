@@ -47,12 +47,12 @@ MER 是一个 Python 软件库：读取 UTF-8 对话记录，通过 OpenAI LLM�
 ```mermaid
 xychart-beta
     title "biological-alignment-benchmarks/Manipulative-Expression-Recognition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-21 16（+0）
+2026-10-19 16 → 2026-11-22 16（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "noobarafat/research-paper-humanizer 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-21"]
+    title "noobarafat/research-paper-humanizer 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    line [3, 4, 5, 5]
 ```
 
-2026-10-22 3 → 2026-11-21 5（+2）
+2026-10-22 3 → 2026-11-22 5（+2）
 
 
 ---

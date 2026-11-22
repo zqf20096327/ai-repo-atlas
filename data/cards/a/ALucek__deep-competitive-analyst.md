@@ -1,6 +1,6 @@
 # ALucek/deep-competitive-analyst
 
-⭐ 51 · Python · Apache-2.0 · 推送 2025-11-25 · [GitHub](https://github.com/ALucek/deep-competitive-analyst) · [官网](https://lucek.ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自动化生成公司档案与竞争分析的 deep agent 助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

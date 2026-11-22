@@ -1,6 +1,6 @@
 # microsoft/voice-agent
 
-⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/voice-agent) · [官网](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/prompt-voice-agent?pivots=portal) · 组织维护
+⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/voice-agent) · [官网](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/prompt-voice-agent?pivots=portal) · 组织维护
 
 **开发者在 Foundry Agent Service 上构建语音 agent 的社区中心**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/voice-agent 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
+    title "microsoft/voice-agent 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-21", "2026-11-22"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-16 10 → 2026-11-21 11（+1）
+2026-11-16 10 → 2026-11-22 11（+1）
 
 
 ---

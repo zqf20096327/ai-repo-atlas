@@ -1,6 +1,6 @@
 # AICyberShubham/ai-security-engineer-roadmap
 
-⭐ 41 · NOASSERTION · 推送 2025-11-25 · [GitHub](https://github.com/AICyberShubham/ai-security-engineer-roadmap) · [官网](https://www.linkedin.com/in/shubham-kumar-pandey-iitp/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 安全工程师从零到进阶的 12 个月学习路线图**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

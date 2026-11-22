@@ -1,6 +1,6 @@
 # Itri-Cloud-Labs/TifinaghBench
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Itri-Cloud-Labs/TifinaghBench) · 组织维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Itri-Cloud-Labs/TifinaghBench) · 组织维护
 
 **用编程 Agent 测评 LLM 提夫纳尔文阿马齐格语词汇的基准**
 
@@ -46,12 +46,12 @@ tifinagh-bench 以约 27,000 条词典条目向 LLM 提出三语（摩洛哥标�
 ```mermaid
 xychart-beta
     title "Itri-Cloud-Labs/TifinaghBench 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-22"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-01 3 → 2026-11-21 5（+2）
+2026-11-01 3 → 2026-11-22 5（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # llnl/AMS
 
-⭐ 11 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/llnl/AMS) · 组织维护
+⭐ 12 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/llnl/AMS) · 组织维护
 
 **面向 HPC 代码集成 ML 代理模型的库（建设中）**
 
@@ -43,12 +43,12 @@ Lawrence Livermore 国家实验室开源项目（LDRD-SI 22-SI-004 产出），�
 ```mermaid
 xychart-beta
     title "llnl/AMS 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 12（+1）
 
 
 ---

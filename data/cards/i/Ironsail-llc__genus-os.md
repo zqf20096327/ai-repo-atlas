@@ -1,6 +1,6 @@
 # Ironsail-llc/genus-os
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Ironsail-llc/genus-os) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Ironsail-llc/genus-os) · 组织维护
 
 **自托管的 AI agent 运行平台：企业可自有基础设施部署**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Ironsail-llc/genus-os 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-21"]
+    x-axis ["2026-10-23", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-21 10（+0）
+2026-10-23 10 → 2026-11-22 10（+0）
 
 
 ---

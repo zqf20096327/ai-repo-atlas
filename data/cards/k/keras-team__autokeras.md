@@ -1,6 +1,6 @@
 # keras-team/autokeras
 
-⭐ 9,341 · Python · Apache-2.0 · 推送 2025-11-25 · [GitHub](https://github.com/keras-team/autokeras) · [官网](http://autokeras.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 Keras 的深度学习 AutoML 库，自动搜索模型结构**
 
@@ -11,7 +11,7 @@ AutoKeras 是 DATA Lab（德州农工大学）开发的 AutoML 库，基于 Kera
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

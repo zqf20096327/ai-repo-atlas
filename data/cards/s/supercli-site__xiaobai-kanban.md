@@ -1,6 +1,6 @@
 # supercli-site/xiaobai-kanban
 
-⭐ 592 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/supercli-site/xiaobai-kanban) · [官网](https://xiaobai.supercli.site) · 个人维护 · 中文 README
+⭐ 350 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/supercli-site/xiaobai-kanban) · [官网](https://xiaobai.supercli.site) · 个人维护 · 中文 README
 
 **面向零基础用户的中文 AI 编程助手入门教程站**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "supercli-site/xiaobai-kanban 星数(近 11 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "supercli-site/xiaobai-kanban 星数(近 12 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 80 --> 737
-    line [134, 286, 334, 386, 436, 485, 560, 586, 635, 683, 592]
+    line [134, 286, 334, 386, 436, 485, 560, 586, 635, 683, 592, 350]
 ```
 
-2026-11-08 134 → 2026-11-21 592（+458）
+2026-11-08 134 → 2026-11-22 350（+216）
 
 
 ---

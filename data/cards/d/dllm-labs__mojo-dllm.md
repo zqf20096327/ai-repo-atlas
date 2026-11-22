@@ -41,6 +41,18 @@
 > L21: mojo-dllm runs **LLaDA-8B-Instruct**, **LLaDA-1.5**, **Dream-v0-Instruct-7B**,
 > L27: and the denoising loop are all Mojo. The `build/mojo-dllm` binary needs no
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dllm-labs/mojo-dllm 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 545 --> 547
+    line [546, 546]
+```
+
+2026-11-21 546 → 2026-11-22 546（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `8072b8ae02fe` · [字段定义](../../DATASET.md)*

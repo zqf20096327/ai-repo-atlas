@@ -40,6 +40,18 @@
 > L5: **MedSwift** is an enterprise-grade **Multimodal Pharmaceutical Intelligence Engine** and Progressive Web App (PWA) 
 > L30: * **Zero-Shot Identification**: Instant classification of medications from live video or image uploads.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EGABO-TECH/MedSwift 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `030eb9bcfea7` · [字段定义](../../DATASET.md)*

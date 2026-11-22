@@ -1,6 +1,6 @@
 # ultralytics/mnist
 
-⭐ 75 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/mnist) · [官网](https://ultralytics.com) · 组织维护
+⭐ 74 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/mnist) · [官网](https://ultralytics.com) · 组织维护
 
 **MNIST 手写数字数据集上的卷积网络实验沙盒**
 
@@ -44,12 +44,12 @@ Ultralytics 维护的 PyTorch 实验仓库：在 MNIST 手写数字数据集上�
 ```mermaid
 xychart-beta
     title "ultralytics/mnist 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-16", "2026-11-22"]
     y-axis "stars" 70 --> 76
-    line [71, 73, 75, 75]
+    line [71, 73, 75, 74]
 ```
 
-2026-10-19 71 → 2026-11-21 75（+4）
+2026-10-20 71 → 2026-11-22 74（+3）
 
 
 ---

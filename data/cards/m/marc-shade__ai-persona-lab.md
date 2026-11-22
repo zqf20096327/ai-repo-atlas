@@ -46,12 +46,12 @@ Streamlit 构建的 Web 应用：通过本地 Ollama 服务创建具有不同背
 ```mermaid
 xychart-beta
     title "marc-shade/ai-persona-lab 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-19 14 → 2026-11-21 14（+0）
+2026-10-20 14 → 2026-11-22 14（+0）
 
 
 ---

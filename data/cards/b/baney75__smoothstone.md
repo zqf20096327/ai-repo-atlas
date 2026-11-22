@@ -1,6 +1,6 @@
 # baney75/smoothstone
 
-⭐ 80 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/baney75/smoothstone) · 个人维护
+⭐ 81 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/baney75/smoothstone) · 个人维护
 
 **让小型本地模型生成可3D打印零件的技能与CLI工具**
 
@@ -45,13 +45,13 @@ smoothstone 是一个面向 agent 的技能包和命令行工具：小模型（�
 
 ```mermaid
 xychart-beta
-    title "baney75/smoothstone 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 18 --> 85
-    line [23, 71, 74, 77, 80]
+    title "baney75/smoothstone 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 18 --> 86
+    line [23, 71, 74, 77, 80, 81]
 ```
 
-2026-11-16 23 → 2026-11-21 80（+57）
+2026-11-16 23 → 2026-11-22 81（+58）
 
 
 ---

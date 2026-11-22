@@ -40,6 +40,18 @@
 > L36: Scumble is a desktop image editor built around AI models. Select part of a picture, or draw boxes on an empty
 > L39: remote one), on Comfy Cloud, or through the API keys you may already have for FLUX, GPT Image, Nano Banana, Seedrea
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "scumble-app/scumble 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 181 --> 183
+    line [182, 182]
+```
+
+2026-11-21 182 → 2026-11-22 182（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `6e98782f5adc` · [字段定义](../../DATASET.md)*

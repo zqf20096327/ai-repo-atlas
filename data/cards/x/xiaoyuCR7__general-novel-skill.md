@@ -1,6 +1,6 @@
 # xiaoyuCR7/general-novel-skill
 
-⭐ 13 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xiaoyuCR7/general-novel-skill) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xiaoyuCR7/general-novel-skill) · 个人维护 · 中文 README
 
 **给网文作者的 AI 写作 skill：长篇事务追踪与去 AI 味闸门**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoyuCR7/general-novel-skill 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 10 --> 14
-    line [11, 13]
+    title "xiaoyuCR7/general-novel-skill 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 10 --> 17
+    line [11, 13, 16]
 ```
 
-2026-11-20 11 → 2026-11-21 13（+2）
+2026-11-20 11 → 2026-11-22 16（+5）
 
 
 ---

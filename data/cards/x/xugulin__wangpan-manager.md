@@ -1,6 +1,6 @@
 # xugulin/wangpan-manager
 
-⭐ 11 · Python · 推送 2026-09-22 · [GitHub](https://github.com/xugulin/wangpan-manager) · [官网](https://github.com/xugulin/wangpan-manager) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-09-22 · [GitHub](https://github.com/xugulin/wangpan-manager) · [官网](https://github.com/xugulin/wangpan-manager) · 个人维护 · 中文 README
 
 **免安装桌面网盘管家：跨网盘互传、在线播放与 AI 字幕**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xugulin/wangpan-manager 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 4 --> 12
-    line [5, 6, 7, 8, 9, 10, 6, 10, 11, 11]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 4 --> 14
+    line [5, 6, 7, 8, 9, 10, 6, 10, 11, 13]
 ```
 
-2026-10-19 5 → 2026-11-21 11（+6）
+2026-10-20 5 → 2026-11-22 13（+8）
 
 
 ---

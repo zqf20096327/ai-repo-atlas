@@ -1,6 +1,6 @@
 # embedding-shapes/one-agent-one-browser
 
-⭐ 228 · Rust · 推送 2026-01-27 · [GitHub](https://github.com/embedding-shapes/one-agent-one-browser) · [官网](https://emsh.cat/one-human-one-agent-one-browser/) · 个人维护
+⭐ 229 · Rust · 推送 2026-01-27 · [GitHub](https://github.com/embedding-shapes/one-agent-one-browser) · [官网](https://emsh.cat/one-human-one-agent-one-browser/) · 个人维护
 
 **由人类与 AI agent 协作从零编写的实验性浏览器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "embedding-shapes/one-agent-one-browser 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
-    y-axis "stars" 226 --> 229
-    line [227, 228, 228]
+    x-axis ["2026-10-20", "2026-11-11", "2026-11-22"]
+    y-axis "stars" 226 --> 230
+    line [227, 228, 229]
 ```
 
-2026-10-19 227 → 2026-11-21 228（+1）
+2026-10-20 227 → 2026-11-22 229（+2）
 
 
 ---

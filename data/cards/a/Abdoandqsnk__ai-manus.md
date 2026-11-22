@@ -1,6 +1,6 @@
 # Abdoandqsnk/ai-manus
 
-⭐ 152 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Abdoandqsnk/ai-manus) · 个人维护
+⭐ 150 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Abdoandqsnk/ai-manus) · 个人维护
 
 **面向日常小任务的自主 AI Agent：代跑代码、控浏览器**
 
@@ -44,12 +44,12 @@ README 以营销化文案描述一个自主 AI Agent：可自主编写并执行�
 ```mermaid
 xychart-beta
     title "Abdoandqsnk/ai-manus 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22"]
     y-axis "stars" 31 --> 283
-    line [54, 52, 262, 153, 152, 152]
+    line [54, 52, 262, 153, 152, 150]
 ```
 
-2026-11-08 54 → 2026-11-21 152（+98）
+2026-11-08 54 → 2026-11-22 150（+96）
 
 
 ---

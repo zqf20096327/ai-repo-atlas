@@ -45,13 +45,13 @@ SPAR 是基于 LLM 多智能体的学术论文检索框架，组合 RefChain 式
 
 ```mermaid
 xychart-beta
-    title "xiaofengShi/SPAR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    title "xiaofengShi/SPAR 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 27 --> 30
-    line [28, 29]
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-21 29（+1）
+2026-10-19 28 → 2026-11-22 29（+1）
 
 
 ---

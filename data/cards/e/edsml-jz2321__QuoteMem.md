@@ -41,6 +41,18 @@
 > L3: QuoteMem is an auditable long-term memory service for conversational agents.
 > L22:  audited and replayed.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "edsml-jz2321/QuoteMem 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 mid · 依据 README sha `1f54d7a823a7` · [字段定义](../../DATASET.md)*

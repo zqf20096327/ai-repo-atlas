@@ -1,6 +1,6 @@
 # KryptosAI/mcp-observatory
 
-⭐ 114 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/KryptosAI/mcp-observatory) · [官网](https://clearframecode.com/observatory/?utm_source=mcp-observatory&utm_medium=github&utm_campaign=opensource) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **MCP 服务器安全测试与审计工具，面向发布 MCP 服务器的团队**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

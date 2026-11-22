@@ -1,6 +1,6 @@
 # mehmetbulutaktas458-dev/Aozora-Forge
 
-⭐ 57 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/mehmetbulutaktas458-dev/Aozora-Forge) · 个人维护
+⭐ 57 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/mehmetbulutaktas458-dev/Aozora-Forge) · 个人维护
 
 **低显存扩散模型微调工具包：12GB 显卡上微调 SDXL/ANIMA**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mehmetbulutaktas458-dev/Aozora-Forge 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-19 57 → 2026-11-21 57（+0）
+2026-10-20 57 → 2026-11-22 57（+0）
 
 
 ---

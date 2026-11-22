@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gustavomoers/CollisionAvoidance-Carla-DRL-MPC 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-11", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-11", "2026-11-22"]
     y-axis "stars" 64 --> 67
     line [65, 66, 66]
 ```
 
-2026-10-19 65 → 2026-11-21 66（+1）
+2026-10-20 65 → 2026-11-22 66（+1）
 
 
 ---

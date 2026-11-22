@@ -1,6 +1,6 @@
 # ccarter01011/traxagent-claude-plugin
 
-⭐ 74 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ccarter01011/traxagent-claude-plugin) · [官网](https://www.traxagent.io) · 个人维护
+⭐ 137 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ccarter01011/traxagent-claude-plugin) · [官网](https://www.traxagent.io) · 个人维护
 
 **面向团队的 AI 支出审计 MCP 服务器与 Claude Code 插件**
 
@@ -40,6 +40,18 @@
 
 > L13: TraxAgent pulls them into one place every night, by team and by person. Then an AI review goes through your usage a
 > L15: This repo is the Claude Code plugin. The same read-only server, `https://www.traxagent.io/mcp`, also works in Claud
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ccarter01011/traxagent-claude-plugin 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 68 --> 143
+    line [74, 137]
+```
+
+2026-11-21 74 → 2026-11-22 137（+63）
 
 
 ---

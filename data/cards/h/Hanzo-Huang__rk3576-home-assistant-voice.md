@@ -1,6 +1,6 @@
 # Hanzo-Huang/rk3576-home-assistant-voice
 
-⭐ 20 · Python · 推送 2026-10-24 · [GitHub](https://github.com/Hanzo-Huang/rk3576-home-assistant-voice) · 个人维护
+⭐ 21 · Python · 推送 2026-10-24 · [GitHub](https://github.com/Hanzo-Huang/rk3576-home-assistant-voice) · 个人维护
 
 **在 RK3576 开发板上本地运行 Home Assistant 语音助手全套服务栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hanzo-Huang/rk3576-home-assistant-voice 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-11-21 20（+1）
+2026-10-19 19 → 2026-11-22 21（+2）
 
 
 ---

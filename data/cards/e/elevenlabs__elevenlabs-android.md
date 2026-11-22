@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-android
 
-⭐ 30 · Kotlin · MIT · 推送 2026-11-18 · [GitHub](https://github.com/elevenlabs/elevenlabs-android) · [官网](https://elevenlabs.io/) · 组织维护
+⭐ 30 · Kotlin · MIT · 推送 2026-11-21 · [GitHub](https://github.com/elevenlabs/elevenlabs-android) · [官网](https://elevenlabs.io/) · 组织维护
 
 **Android 版 ElevenLabs 对话 Agent 官方 Kotlin SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elevenlabs/elevenlabs-android 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-16", "2026-11-22"]
     y-axis "stars" 27 --> 31
     line [28, 29, 30, 30]
 ```
 
-2026-10-19 28 → 2026-11-21 30（+2）
+2026-10-20 28 → 2026-11-22 30（+2）
 
 
 ---

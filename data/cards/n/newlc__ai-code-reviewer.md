@@ -1,6 +1,6 @@
 # newlc/ai-code-reviewer
 
-⭐ 20 · TypeScript · MIT · 推送 2025-12-07 · [GitHub](https://github.com/newlc/ai-code-reviewer) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2025-12-07 · [GitHub](https://github.com/newlc/ai-code-reviewer) · 个人维护
 
 **AI 自动审查 Pull Request 的 GitHub Action**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "newlc/ai-code-reviewer 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-19 19 → 2026-11-21 20（+1）
+2026-10-20 19 → 2026-11-22 21（+2）
 
 
 ---

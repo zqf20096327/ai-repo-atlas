@@ -1,6 +1,6 @@
 # Sanotsu/SuChat-Lite
 
-⭐ 31 · Dart · 推送 2026-11-03 · [GitHub](https://github.com/Sanotsu/SuChat-Lite) · 个人维护 · 中文 README
+⭐ 31 · Dart · 推送 2026-11-21 · [GitHub](https://github.com/Sanotsu/SuChat-Lite) · 个人维护 · 中文 README
 
 **个人跨平台 AI 聊天与生活工具集成应用**
 
@@ -46,12 +46,12 @@ Flutter 开发的跨平台（Windows/Linux/Android）应用，核心为接入云
 ```mermaid
 xychart-beta
     title "Sanotsu/SuChat-Lite 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-19 31 → 2026-11-21 31（+0）
+2026-10-20 31 → 2026-11-22 31（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "southleft/company-docs-mcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "southleft/company-docs-mcp 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 48 --> 52
-    line [49, 51]
+    line [49, 51, 51]
 ```
 
-2026-10-19 49 → 2026-11-21 51（+2）
+2026-10-20 49 → 2026-11-22 51（+2）
 
 
 ---

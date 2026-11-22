@@ -1,6 +1,6 @@
 # laxmimerit/Multi-Agent-Deep-RAG
 
-⭐ 60 · Jupyter Notebook · 推送 2026-03-28 · [GitHub](https://github.com/laxmimerit/Multi-Agent-Deep-RAG) · [官网](https://www.udemy.com/course/deep-agent/?referralCode=4E55DAF3C217A36DA602) · 个人维护
+⭐ 61 · Jupyter Notebook · 推送 2026-03-28 · [GitHub](https://github.com/laxmimerit/Multi-Agent-Deep-RAG) · [官网](https://www.udemy.com/course/deep-agent/?referralCode=4E55DAF3C217A36DA602) · 个人维护
 
 **KGP Talkie 的 AI/ML 付费课程导流清单，覆盖 RAG 与多 Agent**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "laxmimerit/Multi-Agent-Deep-RAG 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 59 --> 62
+    line [60, 61]
 ```
 
-2026-10-19 60 → 2026-11-21 60（+0）
+2026-10-20 60 → 2026-11-22 61（+1）
 
 
 ---

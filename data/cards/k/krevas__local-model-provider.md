@@ -46,12 +46,12 @@ VS Code 扩展，通过 OpenAI Chat Completions 兼容端点将编辑器连接�
 ```mermaid
 xychart-beta
     title "krevas/local-model-provider 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 11（+1）
 
 
 ---

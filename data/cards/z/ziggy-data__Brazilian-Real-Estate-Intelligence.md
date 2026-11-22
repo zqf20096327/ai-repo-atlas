@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ziggy-data/Brazilian-Real-Estate-Intelligence 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-12", "2026-11-21"]
+    title "ziggy-data/Brazilian-Real-Estate-Intelligence 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-12", "2026-11-21", "2026-11-22"]
     y-axis "stars" 39 --> 43
-    line [40, 41, 42]
+    line [40, 41, 42, 42]
 ```
 
-2026-10-19 40 → 2026-11-21 42（+2）
+2026-10-20 40 → 2026-11-22 42（+2）
 
 
 ---

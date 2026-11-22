@@ -1,6 +1,6 @@
 # albumentations-team/albucore
 
-⭐ 123 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/albumentations-team/albucore) · 组织维护
+⭐ 122 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/albumentations-team/albucore) · 组织维护
 
 **高性能图像处理原子函数库，为 AlbumentationsX 提供底层算子**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "albumentations-team/albucore 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 122 --> 125
-    line [123, 124, 123, 123]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 121 --> 125
+    line [123, 124, 123, 122]
 ```
 
-2026-10-19 123 → 2026-11-21 123（+0）
+2026-10-20 123 → 2026-11-22 122（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DU8866-nice/awesome-math-modeling
 
-⭐ 8 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/DU8866-nice/awesome-math-modeling) · 个人维护 · 中文 README
+⭐ 9 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/DU8866-nice/awesome-math-modeling) · 个人维护 · 中文 README
 
 **数学建模竞赛的 AI 工具与资源策展清单（120 项）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DU8866-nice/awesome-math-modeling 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 2 --> 9
-    line [3, 5, 6, 7, 8]
+    title "DU8866-nice/awesome-math-modeling 星数(近 6 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 10
+    line [3, 5, 6, 7, 8, 9]
 ```
 
-2026-11-14 3 → 2026-11-21 8（+5）
+2026-11-14 3 → 2026-11-22 9（+6）
 
 
 ---

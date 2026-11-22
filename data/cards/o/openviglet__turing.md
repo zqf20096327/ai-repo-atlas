@@ -1,6 +1,6 @@
 # openviglet/turing
 
-⭐ 24 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/openviglet/turing) · [官网](https://turing.viglet.org/) · 组织维护
+⭐ 24 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/openviglet/turing) · [官网](https://turing.viglet.org/) · 组织维护
 
 **自托管企业搜索平台：分面语义搜索+带引用的 RAG 问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "openviglet/turing 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-22"]
     y-axis "stars" 21 --> 25
     line [22, 24, 24]
 ```
 
-2026-11-02 22 → 2026-11-21 24（+2）
+2026-11-02 22 → 2026-11-22 24（+2）
 
 
 ---

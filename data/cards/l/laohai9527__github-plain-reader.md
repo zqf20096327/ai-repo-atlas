@@ -46,12 +46,12 @@ Chrome/Edge 扩展（Manifest V3）：抓取 GitHub 仓库的星标、更新频�
 ```mermaid
 xychart-beta
     title "laohai9527/github-plain-reader 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-20", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-10 3 → 2026-11-21 4（+1）
+2026-11-10 3 → 2026-11-22 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AKin-lvyifang/codex-echoink
 
-⭐ 48 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/AKin-lvyifang/codex-echoink) · [官网](https://echoink.cn) · 个人维护 · 中文 README
+⭐ 48 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/AKin-lvyifang/codex-echoink) · [官网](https://echoink.cn) · 个人维护 · 中文 README
 
 **Obsidian 插件：与笔记对话、整理知识并维护可编辑的长期记忆**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AKin-lvyifang/codex-echoink 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
+    x-axis ["2026-11-20", "2026-11-22"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-11-20 48 → 2026-11-21 48（+0）
+2026-11-20 48 → 2026-11-22 48（+0）
 
 
 ---

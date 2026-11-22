@@ -1,6 +1,6 @@
 # giulianireg-spec/dosync-app-beta
 
-⭐ 6 · Shell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/giulianireg-spec/dosync-app-beta) · [官网](https://dosync.dev/app/) · 个人维护
+⭐ 6 · Shell · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/giulianireg-spec/dosync-app-beta) · [官网](https://dosync.dev/app/) · 个人维护
 
 **以手机为中控、用自然语言操控智能家居的 Android 应用**
 
@@ -48,12 +48,12 @@ DoSync 是免费的 Android 应用（8.0+），将手机作为智能家居中枢
 ```mermaid
 xychart-beta
     title "giulianireg-spec/dosync-app-beta 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-22"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-11-10 5 → 2026-11-21 6（+1）
+2026-11-10 5 → 2026-11-22 6（+1）
 
 
 ---

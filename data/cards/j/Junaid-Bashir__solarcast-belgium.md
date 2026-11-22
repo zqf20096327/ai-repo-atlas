@@ -1,6 +1,6 @@
 # Junaid-Bashir/solarcast-belgium
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Junaid-Bashir/solarcast-belgium) · [官网](https://junaid-bashir.github.io/solarcast-belgium/) · 个人维护
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Junaid-Bashir/solarcast-belgium) · [官网](https://junaid-bashir.github.io/solarcast-belgium/) · 个人维护
 
 **为能源团队统一回测比较光伏日前预测模型的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Junaid-Bashir/solarcast-belgium 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6]
+    title "Junaid-Bashir/solarcast-belgium 星数(近 4 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 8
+    line [4, 5, 6, 7]
 ```
 
-2026-11-16 4 → 2026-11-21 6（+2）
+2026-11-16 4 → 2026-11-22 7（+3）
 
 
 ---

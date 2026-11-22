@@ -1,6 +1,6 @@
 # harisharandangi/textocad
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/harisharandangi/textocad) · [官网](https://textocad.com) · 个人维护
+⭐ 6 · Python · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/harisharandangi/textocad) · [官网](https://textocad.com) · 个人维护
 
 **给工程师/创客：英文描述生成可编辑参数化 CAD 模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "harisharandangi/textocad 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-22"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-08 4 → 2026-11-21 5（+1）
+2026-11-08 4 → 2026-11-22 6（+2）
 
 
 ---

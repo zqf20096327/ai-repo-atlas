@@ -1,6 +1,6 @@
 # sohaibt/product-mode
 
-⭐ 162 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sohaibt/product-mode) · [官网](https://sohaibthiab.me/product-mode/) · 个人维护
+⭐ 162 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sohaibt/product-mode) · [官网](https://sohaibthiab.me/product-mode/) · 个人维护
 
 **给编码 Agent 注入产品思维的 CLAUDE.md/AGENTS.md 指令文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sohaibt/product-mode 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 156 --> 232
-    line [225, 226, 220, 221, 220, 176, 171, 163, 162]
+    line [226, 220, 221, 220, 176, 171, 163, 162, 162]
 ```
 
-2026-10-18 225 → 2026-11-21 162（-63）
+2026-10-19 226 → 2026-11-22 162（-64）
 
 
 ---

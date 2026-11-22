@@ -1,6 +1,6 @@
 # ZachRouan/gridhand
 
-⭐ 17 · Rust · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ZachRouan/gridhand) · [官网](https://crates.io/crates/gui-tool) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ZachRouan/gridhand) · [官网](https://crates.io/crates/gui-tool) · 个人维护
 
 **面向 AI agent 的零依赖 Rust GUI 自动化 CLI：截图/窗口/键鼠控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZachRouan/gridhand 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-21 17（+0）
+2026-10-19 17 → 2026-11-22 17（+0）
 
 
 ---

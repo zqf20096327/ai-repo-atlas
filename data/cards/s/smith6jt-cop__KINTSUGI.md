@@ -42,6 +42,18 @@
 > L5: **AI-assisted signal isolation:** KINTSUGI ships an optional Model Context Protocol (MCP) server that lets the AI as
 > L230: Nothing is configured for any assistant unless you choose it: without `--client` the command asks in a terminal an
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "smith6jt-cop/KINTSUGI 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `0b1da5555a9f` · [字段定义](../../DATASET.md)*

@@ -47,12 +47,12 @@ Python 库（3.10+），将 PDF、Word、Excel、PowerPoint、图片、HTML、�
 ```mermaid
 xychart-beta
     title "luisleo526/doc2mark 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-19 51 → 2026-11-21 51（+0）
+2026-10-20 51 → 2026-11-22 51（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TalEliyahu/awesome-business-of-cybersecurity 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-20", "2026-11-21"]
+    title "TalEliyahu/awesome-business-of-cybersecurity 星数(近 5 点)"
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 94 --> 98
-    line [95, 97, 96, 97]
+    line [95, 97, 96, 97, 97]
 ```
 
-2026-10-19 95 → 2026-11-21 97（+2）
+2026-10-20 95 → 2026-11-22 97（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # han938/open-webui-private-ai-desk
 
-⭐ 141 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/han938/open-webui-private-ai-desk) · 个人维护
+⭐ 151 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/han938/open-webui-private-ai-desk) · 个人维护
 
 **本地自托管私有 AI 工作台：聊天、文档问答与模型管理**
 
@@ -40,6 +40,18 @@
 > L12: Open Webui Private Ai Desk is a self-contained AI workspace built for teams and individuals who want the power of m
 > L29: - **Document-aware assistance**: Bring files into the conversation and let the desk reason over your documents for 
 > L64: - A per-chat model selector lets users pick among configured models or private backend endpoints and see responses 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "han938/open-webui-private-ai-desk 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 140 --> 152
+    line [141, 151]
+```
+
+2026-11-21 141 → 2026-11-22 151（+10）
 
 
 ---

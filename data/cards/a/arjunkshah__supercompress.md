@@ -1,6 +1,6 @@
 # arjunkshah/supercompress
 
-⭐ 10 · HTML · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/arjunkshah/supercompress) · [官网](https://supercompress.dev) · 个人维护
+⭐ 11 · HTML · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/arjunkshah/supercompress) · [官网](https://supercompress.dev) · 个人维护
 
 **为生产 LLM 应用压缩上下文的查询感知提示编译层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arjunkshah/supercompress 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-13", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-13 10 → 2026-11-21 10（+0）
+2026-11-13 10 → 2026-11-22 11（+1）
 
 
 ---

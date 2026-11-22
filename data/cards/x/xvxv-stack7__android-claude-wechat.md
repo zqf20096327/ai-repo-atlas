@@ -1,6 +1,6 @@
 # xvxv-stack7/android-claude-wechat
 
-⭐ 12 · Shell · MIT · 推送 2026-08-03 · [GitHub](https://github.com/xvxv-stack7/android-claude-wechat) · [官网](http://claudecode.miyohost.cn/) · 个人维护 · 中文 README
+⭐ 13 · Shell · MIT · 推送 2026-08-03 · [GitHub](https://github.com/xvxv-stack7/android-claude-wechat) · [官网](http://claudecode.miyohost.cn/) · 个人维护 · 中文 README
 
 **一条命令在安卓 Termux 上运行 Claude Code 并接入微信**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xvxv-stack7/android-claude-wechat 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-19 10 → 2026-11-21 12（+2）
+2026-10-20 10 → 2026-11-22 13（+3）
 
 
 ---

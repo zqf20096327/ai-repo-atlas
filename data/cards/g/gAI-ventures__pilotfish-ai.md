@@ -1,6 +1,6 @@
 # gAI-ventures/pilotfish-ai
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gAI-ventures/pilotfish-ai) · [官网](https://pilotfish.gai.ventures/docs/open) · 组织维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gAI-ventures/pilotfish-ai) · [官网](https://pilotfish.gai.ventures/docs/open) · 组织维护
 
 **给 MCP agent 提供本机真实 Chrome 的浏览器自动化 MCP 服务器**
 
@@ -40,6 +40,18 @@ pilotfish 是浏览器自动化 MCP 服务器与 SDK 集合：本地版在本机
 > L10: pilotfish is an AI browser agent and a browser automation MCP server: a real Chrome for AI agents and for your own 
 > L14: - **Open MCP** (`@gaiventures/pilotfish-mcp`): give any MCP agent (Claude Code, Codex CLI, Cursor, ...) a real Chro
 > L15:  your own computer. Free, no account, no API key: your agent's own model reads each page and decides every step thr
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gAI-ventures/pilotfish-ai 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-21 5 → 2026-11-22 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # suzuran0y/Live2D-LLM-Chat
 
-⭐ 61 · JavaScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/suzuran0y/Live2D-LLM-Chat) · 个人维护 · 中文 README
+⭐ 66 · JavaScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/suzuran0y/Live2D-LLM-Chat) · 个人维护 · 中文 README
 
 **Live2D 虚拟角色桌面应用：语音识别+LLM+语音合成实现本地对话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "suzuran0y/Live2D-LLM-Chat 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
-    y-axis "stars" 48 --> 62
-    line [49, 61]
+    title "suzuran0y/Live2D-LLM-Chat 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 48 --> 67
+    line [49, 61, 66]
 ```
 
-2026-11-08 49 → 2026-11-21 61（+12）
+2026-11-08 49 → 2026-11-22 66（+17）
 
 
 ---

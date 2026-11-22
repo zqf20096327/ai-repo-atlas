@@ -1,6 +1,6 @@
 # mickey-ichi/react-llm-markdown
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/mickey-ichi/react-llm-markdown) · [官网](https://mickey-ichi.github.io/react-llm-markdown/) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mickey-ichi/react-llm-markdown) · [官网](https://mickey-ichi.github.io/react-llm-markdown/) · 个人维护
 
 **为 LLM 输出打造的安全 Markdown React/React Native 渲染组件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mickey-ichi/react-llm-markdown 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-21 3（+0）
+2026-11-10 3 → 2026-11-22 3（+0）
 
 
 ---

@@ -45,12 +45,12 @@ DeepSeek Harness（dsh）的非官方 Android 应用：apk 内嵌 Node 二进制
 ```mermaid
 xychart-beta
     title "huyang218/dsh-android 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-21 10（+0）
+2026-11-02 10 → 2026-11-22 10（+0）
 
 
 ---

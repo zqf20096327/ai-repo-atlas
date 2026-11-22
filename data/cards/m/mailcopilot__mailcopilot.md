@@ -1,6 +1,6 @@
 # mailcopilot/mailcopilot
 
-⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/mailcopilot/mailcopilot) · [官网](https://mailcopilot.io) · 组织维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/mailcopilot/mailcopilot) · [官网](https://mailcopilot.io) · 组织维护
 
 **AI 助手集成的开源桌面邮件客户端，通过 IMAP/SMTP 接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mailcopilot/mailcopilot 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-18", "2026-11-22"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-18 10 → 2026-11-21 10（+0）
+2026-11-18 10 → 2026-11-22 11（+1）
 
 
 ---

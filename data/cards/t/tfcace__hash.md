@@ -1,6 +1,6 @@
 # tfcace/hash
 
-⭐ 33 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tfcace/hash) · [官网](https://runhash.dev) · 个人维护
+⭐ 33 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tfcace/hash) · [官网](https://runhash.dev) · 个人维护
 
 **内嵌 AI 助手的 Go 语言终端 shell，`??` 唤起任意 ACP agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tfcace/hash 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-19 33 → 2026-11-21 33（+0）
+2026-10-20 33 → 2026-11-22 33（+0）
 
 
 ---

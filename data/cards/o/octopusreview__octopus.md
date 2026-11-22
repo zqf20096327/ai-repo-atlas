@@ -1,6 +1,6 @@
 # octopusreview/octopus
 
-⭐ 115 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/octopusreview/octopus) · [官网](https://octopus-review.ai) · 组织维护
+⭐ 115 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/octopusreview/octopus) · [官网](https://octopus-review.ai) · 组织维护
 
 **面向 PR 的 AI 代码审查工具，产出摘要、分级问题与修复建议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "octopusreview/octopus 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 108 --> 116
     line [109, 111, 112, 113, 114, 113, 115, 115]
 ```
 
-2026-10-19 109 → 2026-11-21 115（+6）
+2026-10-20 109 → 2026-11-22 115（+6）
 
 
 ---

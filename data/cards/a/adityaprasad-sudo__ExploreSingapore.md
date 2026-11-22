@@ -1,6 +1,6 @@
 # adityaprasad-sudo/ExploreSingapore
 
-⭐ 79 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/adityaprasad-sudo/ExploreSingapore) · [官网](https://exploresingapore.vercel.app/) · 个人维护
+⭐ 80 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/adityaprasad-sudo/ExploreSingapore) · [官网](https://exploresingapore.vercel.app/) · 个人维护
 
 **新加坡法律/历史/基础设施的 RAG 知识问答引擎**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "adityaprasad-sudo/ExploreSingapore 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 71 --> 80
-    line [73, 72, 74, 75, 76, 74, 77, 78, 79, 79]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-22"]
+    y-axis "stars" 71 --> 81
+    line [73, 72, 74, 75, 76, 74, 77, 78, 79, 80]
 ```
 
-2026-10-19 73 → 2026-11-21 79（+6）
+2026-10-20 73 → 2026-11-22 80（+7）
 
 
 ---

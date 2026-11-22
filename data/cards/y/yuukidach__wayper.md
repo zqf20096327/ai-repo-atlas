@@ -1,6 +1,6 @@
 # yuukidach/wayper
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yuukidach/wayper) · [官网](https://yuukidach.github.io/wayper/) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yuukidach/wayper) · [官网](https://yuukidach.github.io/wayper/) · 个人维护 · 中文 README
 
 **桌面壁纸管理器：自动下载/轮换 Wallhaven 壁纸，可被 AI 助手控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yuukidach/wayper 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-18", "2026-11-22"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16]
 ```
 
-2026-10-19 13 → 2026-11-21 15（+2）
+2026-10-20 13 → 2026-11-22 16（+3）
 
 
 ---

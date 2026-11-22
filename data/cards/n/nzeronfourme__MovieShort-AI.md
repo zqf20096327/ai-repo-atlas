@@ -1,6 +1,6 @@
 # nzeronfourme/MovieShort-AI
 
-⭐ 18 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/nzeronfourme/MovieShort-AI) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/nzeronfourme/MovieShort-AI) · 个人维护 · 中文 README
 
 **自动将整片电影剪成 YouTube Shorts 竖屏短视频的桌面工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nzeronfourme/MovieShort-AI 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 11 --> 19
-    line [12, 15, 16, 17, 18, 18]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 11 --> 20
+    line [12, 15, 16, 17, 18, 19]
 ```
 
-2026-10-19 12 → 2026-11-21 18（+6）
+2026-10-20 12 → 2026-11-22 19（+7）
 
 
 ---

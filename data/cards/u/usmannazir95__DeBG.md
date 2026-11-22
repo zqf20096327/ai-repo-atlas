@@ -1,6 +1,6 @@
 # usmannazir95/DeBG
 
-⭐ 13 · JavaScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/usmannazir95/DeBG) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/usmannazir95/DeBG) · 个人维护
 
 **Windows 离线批量抠图桌面应用，本地运行 AI 模型产出透明 PNG**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "usmannazir95/DeBG 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 11, 12, 13, 13]
+    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 12, 13, 14]
 ```
 
-2026-10-19 11 → 2026-11-21 13（+2）
+2026-10-20 11 → 2026-11-22 14（+3）
 
 
 ---

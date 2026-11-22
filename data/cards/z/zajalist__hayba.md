@@ -1,6 +1,6 @@
 # zajalist/hayba
 
-⭐ 13 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zajalist/hayba) · [官网](https://hayba.vercel.app) · 个人维护
+⭐ 13 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zajalist/hayba) · [官网](https://hayba.vercel.app) · 个人维护
 
 **把 MCP agent 接入 Unreal 编辑器的世界构建工具箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zajalist/hayba 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-22"]
     y-axis "stars" 11 --> 14
     line [13, 12, 13, 13]
 ```
 
-2026-10-19 13 → 2026-11-21 13（+0）
+2026-10-20 13 → 2026-11-22 13（+0）
 
 
 ---

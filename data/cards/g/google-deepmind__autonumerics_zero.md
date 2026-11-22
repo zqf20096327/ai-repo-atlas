@@ -43,12 +43,12 @@ DeepMind 发布的 AutoNumerics-Zero 代码：一种从零开始、不依赖数�
 ```mermaid
 xychart-beta
     title "google-deepmind/autonumerics_zero 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-19 17 → 2026-11-21 17（+0）
+2026-10-20 17 → 2026-11-22 17（+0）
 
 
 ---

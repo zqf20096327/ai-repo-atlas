@@ -1,6 +1,6 @@
 # kentzjh-cmd/tmem
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kentzjh-cmd/tmem) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kentzjh-cmd/tmem) · 个人维护 · 中文 README
 
 **给 Coding Agent 的本地记忆插件：压缩存档、按需翻历史**
 
@@ -39,6 +39,18 @@
 
 > L7: `tmem`（npm 包名 `dsh-tmem`）是一个专门配合 `@deepseek-ai/dsh` (DeepSeek Harness) 使用的本地代码记忆插件，纯 Node.js 实现、零外部依赖，所有记录都存在当前仓库的 `
 > L138: 1. **只管 DeepSeek Harness (`dsh`)**：为了做深做透，运行时钩子和压缩监听只针对 `@deepseek-ai/dsh` 打磨（`swe_bench` 适配器只是为了跑上面的开源评测）。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kentzjh-cmd/tmem 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-21 3 → 2026-11-22 3（+0）
 
 
 ---

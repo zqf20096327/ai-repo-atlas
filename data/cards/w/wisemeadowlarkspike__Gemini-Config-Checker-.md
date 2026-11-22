@@ -1,6 +1,6 @@
 # wisemeadowlarkspike/Gemini-Config-Checker-
 
-⭐ 472 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-) · 个人维护
+⭐ 469 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-) · 个人维护
 
 **检测代理配置能否进入 Google AI Studio 与 Gemini 的桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wisemeadowlarkspike/Gemini-Config-Checker- 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 471 --> 476
-    line [475, 473, 472, 472]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 468 --> 476
+    line [475, 473, 472, 469]
 ```
 
-2026-11-15 475 → 2026-11-21 472（-3）
+2026-11-15 475 → 2026-11-22 469（-6）
 
 
 ---

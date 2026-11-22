@@ -1,6 +1,6 @@
 # ashishpatel26/co-scientist
 
-⭐ 4 · Python · 推送 2026-11-19 · [GitHub](https://github.com/ashishpatel26/co-scientist) · 个人维护
+⭐ 5 · Python · 推送 2026-11-19 · [GitHub](https://github.com/ashishpatel26/co-scientist) · 个人维护
 
 **面向研究者：八 agent 协作生成可溯源引用的 arXiv 问答系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashishpatel26/co-scientist 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-21"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "ashishpatel26/co-scientist 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-20 3 → 2026-11-21 4（+1）
+2026-11-20 3 → 2026-11-22 5（+2）
 
 
 ---

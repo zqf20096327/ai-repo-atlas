@@ -1,6 +1,6 @@
 # Brattlof/skillet
 
-⭐ 10 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Brattlof/skillet) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Brattlof/skillet) · 个人维护
 
 **为 Claude Code 等 AI 编码工具安装 MCP 服务器与技能的包管理器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Brattlof/skillet 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-13", "2026-11-22"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-13 10 → 2026-11-21 10（+0）
+2026-11-13 10 → 2026-11-22 10（+0）
 
 
 ---

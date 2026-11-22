@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
+    title "blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 3 --> 40
-    line [6, 11, 15, 25, 37]
+    line [6, 11, 15, 25, 37, 37]
 ```
 
-2026-11-16 6 → 2026-11-21 37（+31）
+2026-11-16 6 → 2026-11-22 37（+31）
 
 
 ---

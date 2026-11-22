@@ -1,6 +1,6 @@
 # pulkitsharma07/solipsist
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/pulkitsharma07/solipsist) · [官网](https://solipsist.sh) · 个人维护
+⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/pulkitsharma07/solipsist) · [官网](https://solipsist.sh) · 个人维护
 
 **在本地 Markdown 文档中与 AI agent 协作写作的编辑器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pulkitsharma07/solipsist 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-21"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-18", "2026-11-22"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-18 4 → 2026-11-21 4（+0）
+2026-11-18 4 → 2026-11-22 5（+1）
 
 
 ---

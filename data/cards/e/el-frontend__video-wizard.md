@@ -1,6 +1,6 @@
 # el-frontend/video-wizard
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/el-frontend/video-wizard) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/el-frontend/video-wizard) · 组织维护
 
 **自托管短视频 AI 工具箱：找爆款片段、Whisper 字幕、渲染竖版视频**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "el-frontend/video-wizard 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-19 18 → 2026-11-21 18（+0）
+2026-10-20 18 → 2026-11-22 18（+0）
 
 
 ---

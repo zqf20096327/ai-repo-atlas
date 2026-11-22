@@ -1,6 +1,6 @@
 # ErBharatMalhotra/open-source-ai-radar
 
-⭐ 20 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ErBharatMalhotra/open-source-ai-radar) · [官网](https://radar.bharatdn.com) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ErBharatMalhotra/open-source-ai-radar) · [官网](https://radar.bharatdn.com) · 个人维护
 
 **开源 AI 仓库追踪平台：10,438 个仓库的三轴评分与趋势发现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ErBharatMalhotra/open-source-ai-radar 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-22"]
     y-axis "stars" 13 --> 21
     line [14, 16, 17, 18, 19, 20, 20]
 ```
 
-2026-11-02 14 → 2026-11-21 20（+6）
+2026-11-02 14 → 2026-11-22 20（+6）
 
 
 ---

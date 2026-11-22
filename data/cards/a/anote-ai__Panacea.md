@@ -1,6 +1,6 @@
 # anote-ai/Panacea
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/anote-ai/Panacea) · [官网](https://chat.anote.ai/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **构建协作式多智能体 AI 系统的开源框架**
 
@@ -11,7 +11,7 @@ Anote 维护的开源研究项目，提供创建、部署和协调专用 AI 智�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

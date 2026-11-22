@@ -1,6 +1,6 @@
 # mericcintosun/AvaKit
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mericcintosun/AvaKit) · [官网](https://avakit.dev/) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mericcintosun/AvaKit) · [官网](https://avakit.dev/) · 个人维护
 
 **面向 Avalanche 的 AI 原型 dapp 脚手架与开发工具箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mericcintosun/AvaKit 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

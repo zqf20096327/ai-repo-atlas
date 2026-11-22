@@ -1,6 +1,6 @@
 # ShenzheZhu/JailDAM
 
-⭐ 27 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/ShenzheZhu/JailDAM) · [官网](https://arxiv.org/abs/2504.03770) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **视觉语言模型越狱攻击检测方法（COLM 2025 论文代码）**
 
@@ -11,7 +11,7 @@ COLM 2025 论文 JailDAM 的官方代码仓库，提出基于自适应记忆（A
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

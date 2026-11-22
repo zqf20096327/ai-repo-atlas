@@ -1,6 +1,6 @@
 # RoyZhao1991/LingShu
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/RoyZhao1991/LingShu) · [官网](https://royzhao1991.github.io/LingShu/) · 个人维护 · 中文 README
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/RoyZhao1991/LingShu) · [官网](https://royzhao1991.github.io/LingShu/) · 个人维护 · 中文 README
 
 **macOS 本地优先的通用执行 agent，交付经核验的代码与文档**
 
@@ -46,12 +46,12 @@ Apache-2.0 的 macOS 原生执行 agent，位于 Codex / Claude Code 类别：�
 ```mermaid
 xychart-beta
     title "RoyZhao1991/LingShu 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-19 11 → 2026-11-21 12（+1）
+2026-10-20 11 → 2026-11-22 13（+2）
 
 
 ---

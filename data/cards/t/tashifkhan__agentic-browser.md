@@ -1,6 +1,6 @@
 # tashifkhan/agentic-browser
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/tashifkhan/agentic-browser) · [官网](https://tashif.codes/u/agentic-browser) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/tashifkhan/agentic-browser) · [官网](https://tashif.codes/u/agentic-browser) · 个人维护
 
 **浏览器扩展形态的 AI 网页自动化 agent（MCP + Python 后端）**
 
@@ -45,12 +45,12 @@ WXT 浏览器扩展客户端加 Python FastAPI MCP 服务器后端的 monorepo�
 ```mermaid
 xychart-beta
     title "tashifkhan/agentic-browser 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-19 14 → 2026-11-21 14（+0）
+2026-10-20 14 → 2026-11-22 14（+0）
 
 
 ---

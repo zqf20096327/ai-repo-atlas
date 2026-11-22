@@ -1,6 +1,6 @@
 # samhoon000/Oribi
 
-⭐ 18 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/samhoon000/Oribi) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/samhoon000/Oribi) · 个人维护
 
 **为 LLM 等下游工具生成 DataFrame 结构化画像的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "samhoon000/Oribi 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 12 --> 19
-    line [13, 15, 18]
+    title "samhoon000/Oribi 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 12 --> 21
+    line [13, 15, 18, 20]
 ```
 
-2026-11-18 13 → 2026-11-21 18（+5）
+2026-11-18 13 → 2026-11-22 20（+7）
 
 
 ---

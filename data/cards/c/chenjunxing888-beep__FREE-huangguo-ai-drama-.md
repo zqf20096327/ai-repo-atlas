@@ -40,6 +40,18 @@
 > L9: |AI 短剧制作入门|第一次接触 AI 视频制作的朋友|阅读教程|
 > L10: |AI 视频工具与工作流程|想了解文生图、图生视频、剪辑和字幕的朋友|查看工具清单|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chenjunxing888-beep/FREE-huangguo-ai-drama- 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-21 6 → 2026-11-22 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `c2403c782ce4` · [字段定义](../../DATASET.md)*

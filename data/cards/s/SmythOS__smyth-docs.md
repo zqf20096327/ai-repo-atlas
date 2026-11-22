@@ -44,12 +44,12 @@ SmythOS 的开源文档仓库，内容以 Markdown/MDX 编写并用 Docusaurus �
 ```mermaid
 xychart-beta
     title "SmythOS/smyth-docs 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-19 21 → 2026-11-21 21（+0）
+2026-10-20 21 → 2026-11-22 21（+0）
 
 
 ---

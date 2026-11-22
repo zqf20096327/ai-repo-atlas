@@ -1,6 +1,6 @@
 # shashankpandya/claude-code-freellmapi
 
-⭐ 17 · MIT · 推送 2026-08-17 · [GitHub](https://github.com/shashankpandya/claude-code-freellmapi) · 个人维护
+⭐ 18 · MIT · 推送 2026-08-17 · [GitHub](https://github.com/shashankpandya/claude-code-freellmapi) · 个人维护
 
 **让 Claude Code 经 FreeLLMAPI+LiteLLM 运行的配置指南仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shashankpandya/claude-code-freellmapi 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21"]
-    y-axis "stars" 10 --> 18
-    line [11, 12, 13, 15, 16, 17]
+    title "shashankpandya/claude-code-freellmapi 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 10 --> 19
+    line [11, 12, 13, 15, 16, 17, 18]
 ```
 
-2026-11-10 11 → 2026-11-21 17（+6）
+2026-11-10 11 → 2026-11-22 18（+7）
 
 
 ---

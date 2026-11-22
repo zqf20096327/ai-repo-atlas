@@ -1,6 +1,6 @@
 # nalamap/nalamap
 
-⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nalamap/nalamap) · [官网](http://www.nalamap.org/) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nalamap/nalamap) · [官网](http://www.nalamap.org/) · 组织维护
 
 **用自然语言创建网络地图并分析地理空间数据的开源平台**
 
@@ -47,12 +47,12 @@ NaLaMap 是开源 Web GIS 平台：前端 Next.js/Leaflet，后端 Python FastAP
 ```mermaid
 xychart-beta
     title "nalamap/nalamap 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-19 20 → 2026-11-21 20（+0）
+2026-10-20 20 → 2026-11-22 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # OpenWhale-Org/OpenWhale
 
-⭐ 74 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/OpenWhale-Org/OpenWhale) · [官网](https://open.whale.dance) · 组织维护 · 中文 README
+⭐ 74 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/OpenWhale-Org/OpenWhale) · [官网](https://open.whale.dance) · 组织维护 · 中文 README
 
 **TypeScript 自动化交易策略框架，AI 可编写/驱动策略**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OpenWhale-Org/OpenWhale 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-25", "2026-11-22"]
     y-axis "stars" 71 --> 75
     line [72, 73, 74, 74]
 ```
 
-2026-10-19 72 → 2026-11-21 74（+2）
+2026-10-20 72 → 2026-11-22 74（+2）
 
 
 ---

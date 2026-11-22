@@ -1,6 +1,6 @@
 # OvidijusParsiunas/are-you-random
 
-⭐ 11 · TypeScript · 推送 2026-09-19 · [GitHub](https://github.com/OvidijusParsiunas/are-you-random) · [官网](https://ovidijusparsiunas.github.io/are-you-random/) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-09-19 · [GitHub](https://github.com/OvidijusParsiunas/are-you-random) · [官网](https://ovidijusparsiunas.github.io/are-you-random/) · 个人维护
 
 **浏览器小游戏：用模式识别预测你的“随机”选择**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OvidijusParsiunas/are-you-random 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-19 11 → 2026-11-21 11（+0）
+2026-10-20 11 → 2026-11-22 12（+1）
 
 
 ---

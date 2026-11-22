@@ -1,6 +1,6 @@
 # Saturn-He/DOGAN
 
-⭐ 5 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Saturn-He/DOGAN) · [官网](https://doi.org/10.1109/TGRS.2025.3606979) · 组织维护
+⭐ 6 · Python · 推送 2026-11-21 · [GitHub](https://github.com/Saturn-He/DOGAN) · [官网](https://doi.org/10.1109/TGRS.2025.3606979) · 组织维护
 
 **研究者可复现论文的 SAR 到光学图像翻译 PyTorch 实现**
 
@@ -40,6 +40,18 @@ IEEE TGRS 2025 论文 DOGAN 的官方 PyTorch 实现：训练时用冻结的 DIN
 > L19: **DOGAN transfers optical priors from a pretrained DINO model into a SAR-to-optical translation GAN.** During train
 > L47: This repository provides training, inference, and image-quality evaluation code.
 > L51: Use Python 3.10. Install PyTorch 2.1 and torchvision 0.16 for your CUDA version, then run:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Saturn-He/DOGAN 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-21 5 → 2026-11-22 6（+1）
 
 
 ---

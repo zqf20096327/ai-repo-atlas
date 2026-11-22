@@ -1,6 +1,6 @@
 # cdelivery-dev/cdelivery
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/cdelivery-dev/cdelivery) · [官网](https://cdelivery.dev) · 组织维护 · 中文 README
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/cdelivery-dev/cdelivery) · [官网](https://cdelivery.dev) · 组织维护 · 中文 README
 
 **自托管部署运维平台，附带 AI 诊断与主动检查**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cdelivery-dev/cdelivery 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-22"]
     y-axis "stars" 12 --> 15
     line [14, 13, 13]
 ```
 
-2026-11-08 14 → 2026-11-21 13（-1）
+2026-11-08 14 → 2026-11-22 13（-1）
 
 
 ---

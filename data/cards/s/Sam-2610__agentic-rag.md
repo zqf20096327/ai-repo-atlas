@@ -1,6 +1,6 @@
 # Sam-2610/agentic-rag
 
-⭐ 6 · Python · 推送 2026-11-09 · [GitHub](https://github.com/Sam-2610/agentic-rag) · 个人维护
+⭐ 6 · Python · 推送 2026-11-21 · [GitHub](https://github.com/Sam-2610/agentic-rag) · 个人维护
 
 **多 agent RAG 问答系统：路由到引文问答、代码分析或聊天**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Sam-2610/agentic-rag 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-08 6 → 2026-11-21 6（+0）
+2026-11-08 6 → 2026-11-22 6（+0）
 
 
 ---

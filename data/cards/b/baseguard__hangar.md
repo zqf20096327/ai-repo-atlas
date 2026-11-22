@@ -1,6 +1,6 @@
 # baseguard/hangar
 
-⭐ 71 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/baseguard/hangar) · [官网](https://hangar.bot) · 组织维护
+⭐ 87 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/baseguard/hangar) · [官网](https://hangar.bot) · 组织维护
 
 **在 Mac 虚拟机中隔离运行 AI 编码 agent 的沙箱工具**
 
@@ -41,6 +41,18 @@ Hangar 在 Mac 上以虚拟机方式运行 AI 编码 agent，提供 macOS/Linux/
 > L5:  Run AI coding agents in a macOS, Linux or Windows virtual machine on your Mac.
 > L19: before every command. But then they can do anything on your computer. Hangar runs the agent in its own virtual
 > L143: `hangar mcp` is an MCP server. Add it to Claude Code or Codex on your Mac:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "baseguard/hangar 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 70 --> 88
+    line [71, 87]
+```
+
+2026-11-21 71 → 2026-11-22 87（+16）
 
 
 ---

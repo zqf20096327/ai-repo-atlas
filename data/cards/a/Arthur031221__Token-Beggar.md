@@ -46,12 +46,12 @@ Token Beggar 是 Claude Code 插件，由 Skill、7 个 hooks、一个 worker ag
 ```mermaid
 xychart-beta
     title "Arthur031221/Token-Beggar 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-26 3 → 2026-11-21 4（+1）
+2026-10-26 3 → 2026-11-22 4（+1）
 
 
 ---

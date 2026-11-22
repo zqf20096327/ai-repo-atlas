@@ -1,6 +1,6 @@
 # ASEpochs/epochflow
 
-⭐ 16 · Python · 推送 2026-11-19 · [GitHub](https://github.com/ASEpochs/epochflow) · [官网](https://epochflow-web.onrender.com/) · 个人维护 · 中文 README
+⭐ 16 · Python · 推送 2026-11-21 · [GitHub](https://github.com/ASEpochs/epochflow) · [官网](https://epochflow-web.onrender.com/) · 个人维护 · 中文 README
 
 **面向客服场景的多 Agent 编排与模型实验平台**
 
@@ -45,12 +45,12 @@ EpochFlow（纪流）是 Vue 工作台 + FastAPI 后端的多 Agent 工程项目
 ```mermaid
 xychart-beta
     title "ASEpochs/epochflow 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-19 15 → 2026-11-21 16（+1）
+2026-10-20 15 → 2026-11-22 16（+1）
 
 
 ---

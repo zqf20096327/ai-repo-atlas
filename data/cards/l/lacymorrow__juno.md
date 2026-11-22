@@ -1,6 +1,6 @@
 # lacymorrow/juno
 
-⭐ 11 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/lacymorrow/juno) · [官网](https://junebug.ai) · 个人维护
+⭐ 11 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/lacymorrow/juno) · [官网](https://junebug.ai) · 个人维护
 
 **让 AI 控制你 Mac 的桌面自动化应用：描述任务即可自动执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lacymorrow/juno 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-21 11（+1）
+2026-11-08 10 → 2026-11-22 11（+1）
 
 
 ---

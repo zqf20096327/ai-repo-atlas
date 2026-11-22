@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CDDLeiden/QSPRpred 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    title "CDDLeiden/QSPRpred 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 96 --> 99
-    line [97, 98]
+    line [97, 98, 98]
 ```
 
-2026-10-19 97 → 2026-11-21 98（+1）
+2026-10-20 97 → 2026-11-22 98（+1）
 
 
 ---

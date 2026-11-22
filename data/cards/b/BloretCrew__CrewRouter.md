@@ -1,6 +1,6 @@
 # BloretCrew/CrewRouter
 
-⭐ 35 · JavaScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/BloretCrew/CrewRouter) · [官网](https://crewrouter.bloret.net) · 组织维护 · 中文 README
+⭐ 35 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/BloretCrew/CrewRouter) · [官网](https://crewrouter.bloret.net) · 组织维护 · 中文 README
 
 **团队级 AI 模型统一网关：一个端点聚合多供应商**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BloretCrew/CrewRouter 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-27", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-27", "2026-11-08", "2026-11-22"]
     y-axis "stars" 33 --> 36
     line [34, 35, 34, 35, 35]
 ```
 
-2026-10-19 34 → 2026-11-21 35（+1）
+2026-10-20 34 → 2026-11-22 35（+1）
 
 
 ---

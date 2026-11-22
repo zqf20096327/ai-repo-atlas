@@ -1,6 +1,6 @@
 # Azure-Samples/eShopLite
 
-⭐ 173 · C# · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Azure-Samples/eShopLite) · [官网](https://aka.ms/eshoplite/repo) · 组织维护
+⭐ 173 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Azure-Samples/eShopLite) · [官网](https://aka.ms/eshoplite/repo) · 组织维护
 
 **面向开发者的 .NET AI 电商参考应用集（18 个场景）**
 
@@ -46,12 +46,12 @@ Azure-Samples 维护的参考应用集合：以 .NET Aspire 构建的电商站�
 ```mermaid
 xychart-beta
     title "Azure-Samples/eShopLite 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-22"]
     y-axis "stars" 167 --> 174
     line [168, 169, 168, 169, 170, 171, 173, 173]
 ```
 
-2026-10-19 168 → 2026-11-21 173（+5）
+2026-10-20 168 → 2026-11-22 173（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # jasoncheng7115/jt-waf-mgr
 
-⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/jasoncheng7115/jt-waf-mgr) · [官网](https://jasoncheng7115.github.io/jt-waf-mgr/) · 组织维护 · 中文 README
+⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/jasoncheng7115/jt-waf-mgr) · [官网](https://jasoncheng7115.github.io/jt-waf-mgr/) · 组织维护 · 中文 README
 
 **给 nginx+ModSecurity WAF 的自托管管理器：审计、变更审批与 LLM 分诊**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jasoncheng7115/jt-waf-mgr 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
     y-axis "stars" 7 --> 15
     line [8, 13, 14, 14]
 ```
 
-2026-11-16 8 → 2026-11-21 14（+6）
+2026-11-16 8 → 2026-11-22 14（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # panther-labs/mcp-panther
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/panther-labs/mcp-panther) · [官网](https://www.panther.com) · 组织维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/panther-labs/mcp-panther) · [官网](https://www.panther.com) · 组织维护
 
 **让 AI agent 操作 Panther 安全平台的 MCP 服务器**
 
@@ -46,12 +46,12 @@ Panther 官方维护的 Model Context Protocol 服务器，把 Panther 安全运
 ```mermaid
 xychart-beta
     title "panther-labs/mcp-panther 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 46 --> 51
+    line [47, 48, 49, 50]
 ```
 
-2026-10-19 47 → 2026-11-21 49（+2）
+2026-10-20 47 → 2026-11-22 50（+3）
 
 
 ---

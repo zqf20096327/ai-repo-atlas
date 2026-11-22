@@ -1,6 +1,6 @@
 # AbsoluteMode/session-recall
 
-⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AbsoluteMode/session-recall) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/AbsoluteMode/session-recall) · 个人维护 · 中文 README
 
 **给 Claude Code/Codex/Cursor 的共享语义记忆 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AbsoluteMode/session-recall 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-21 13（+0）
+2026-10-20 13 → 2026-11-22 13（+0）
 
 
 ---

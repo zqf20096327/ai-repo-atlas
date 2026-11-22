@@ -40,6 +40,18 @@
 > L13: |Game Mechanics To stick with the universal design principle, we chose a cognitive improvement perspective that is 
 > L19: |Technical Documentation Solution (Left-to-Right) The chatroom, where all the messaging happens back and forth betw
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tipani86/StarChild 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
+```
+
+2026-11-21 48 → 2026-11-22 48（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `515c3d4a314b` · [字段定义](../../DATASET.md)*

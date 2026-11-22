@@ -1,6 +1,6 @@
 # chocodev11/see-the-arrow
 
-⭐ 8 · Rust · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/chocodev11/see-the-arrow) · 个人维护
+⭐ 9 · Rust · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/chocodev11/see-the-arrow) · 个人维护
 
 **AI agent 指路用的屏幕箭头工具：教人而不是替人点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chocodev11/see-the-arrow 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21"]
-    y-axis "stars" 3 --> 9
-    line [4, 6, 8, 8]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-22"]
+    y-axis "stars" 3 --> 10
+    line [4, 6, 8, 9]
 ```
 
-2026-11-08 4 → 2026-11-21 8（+4）
+2026-11-08 4 → 2026-11-22 9（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # avelone123123/shard
 
-⭐ 5 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/avelone123123/shard) · [官网](https://avelone123123.github.io/shard/) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/avelone123123/shard) · [官网](https://avelone123123.github.io/shard/) · 个人维护
 
 **跨机器聚合显存/内存的分布式本地 LLM 推理引擎**
 
@@ -46,13 +46,13 @@ SHARD 是一个开源分布式本地 LLM 推理引擎（Python/FastAPI/PyTorch�
 
 ```mermaid
 xychart-beta
-    title "avelone123123/shard 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    title "avelone123123/shard 星数(近 4 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-19 3 → 2026-11-21 5（+2）
+2026-11-19 3 → 2026-11-22 6（+3）
 
 
 ---

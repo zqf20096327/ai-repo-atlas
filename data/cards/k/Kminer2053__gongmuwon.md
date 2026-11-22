@@ -1,6 +1,6 @@
 # Kminer2053/gongmuwon
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/Kminer2053/gongmuwon) · [官网](https://kminer2053.github.io/gongmuwon/) · 个人维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/Kminer2053/gongmuwon) · [官网](https://kminer2053.github.io/gongmuwon/) · 个人维护
 
 **给内网/离线环境公务员的本地 AI 工作台：问答、检索、日程、公文生成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Kminer2053/gongmuwon 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-15", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-20", "2026-11-15", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-19 10 → 2026-11-21 11（+1）
+2026-10-20 10 → 2026-11-22 12（+2）
 
 
 ---

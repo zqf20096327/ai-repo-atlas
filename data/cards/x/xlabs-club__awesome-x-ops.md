@@ -1,6 +1,6 @@
 # xlabs-club/awesome-x-ops
 
-⭐ 23 · 推送 2026-10-08 · [GitHub](https://github.com/xlabs-club/awesome-x-ops) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **现代 X-Ops 开源工具策展清单：AI Ops、平台工程、GitOps 等**
 

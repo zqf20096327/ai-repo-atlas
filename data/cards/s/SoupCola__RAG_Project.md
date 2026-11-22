@@ -1,6 +1,6 @@
 # SoupCola/RAG_Project
 
-⭐ 16 · Jupyter Notebook · 推送 2025-11-25 · [GitHub](https://github.com/SoupCola/RAG_Project) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **全本地化部署的 RAG 系统分步教程（6 个 Notebook）**
 

@@ -45,12 +45,12 @@ LangChain 官方团队维护的动手教程仓库，是 LangChain Academy 的精
 ```mermaid
 xychart-beta
     title "langchain-ai/modular-workshops 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-22"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-19 14 → 2026-11-21 15（+1）
+2026-10-20 14 → 2026-11-22 15（+1）
 
 
 ---

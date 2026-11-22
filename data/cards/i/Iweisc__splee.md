@@ -1,6 +1,6 @@
 # Iweisc/splee
 
-⭐ 6 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Iweisc/splee) · 个人维护
+⭐ 6 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Iweisc/splee) · 个人维护
 
 **自托管开源 AI SDR：找线索、写发个性化冷邮件并回复**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Iweisc/splee 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-21"]
+    title "Iweisc/splee 星数(近 4 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 3 --> 7
-    line [4, 5, 6]
+    line [4, 5, 6, 6]
 ```
 
-2026-11-18 4 → 2026-11-21 6（+2）
+2026-11-18 4 → 2026-11-22 6（+2）
 
 
 ---

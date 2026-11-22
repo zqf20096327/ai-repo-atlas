@@ -45,13 +45,13 @@ GASADK 是运行在 Google Apps Script 环境中的 Agent Development Kit，受 
 
 ```mermaid
 xychart-beta
-    title "tanaikech/adk-gas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    title "tanaikech/adk-gas 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-21 12（+1）
+2026-10-19 11 → 2026-11-22 12（+1）
 
 
 ---

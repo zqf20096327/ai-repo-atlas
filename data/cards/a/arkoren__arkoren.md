@@ -1,6 +1,6 @@
 # arkoren/arkoren
 
-⭐ 32 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/arkoren/arkoren) · [官网](https://arkoren.dev) · 个人维护
+⭐ 32 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/arkoren/arkoren) · [官网](https://arkoren.dev) · 个人维护
 
 **给 Go 开发者的模块化后端服务工具箱（HTTP/数据/队列/可观测）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arkoren/arkoren 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-11-08 32 → 2026-11-21 32（+0）
+2026-11-08 32 → 2026-11-22 32（+0）
 
 
 ---

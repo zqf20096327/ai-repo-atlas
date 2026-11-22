@@ -1,6 +1,6 @@
 # bjschnell/Valkyrie
 
-⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/bjschnell/Valkyrie) · 个人维护
+⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/bjschnell/Valkyrie) · 个人维护
 
 **给多 agent 开发者用的终端 agent 管理器：统一队列减少打断**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bjschnell/Valkyrie 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-22"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-21 4（+1）
+2026-11-08 3 → 2026-11-22 4（+1）
 
 
 ---

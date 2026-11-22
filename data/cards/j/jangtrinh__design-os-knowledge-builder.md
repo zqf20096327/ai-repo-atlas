@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jangtrinh/design-os-knowledge-builder 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-20", "2026-11-21"]
+    title "jangtrinh/design-os-knowledge-builder 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 2 --> 13
-    line [3, 11, 12]
+    line [3, 11, 12, 12]
 ```
 
-2026-10-22 3 → 2026-11-21 12（+9）
+2026-10-22 3 → 2026-11-22 12（+9）
 
 
 ---

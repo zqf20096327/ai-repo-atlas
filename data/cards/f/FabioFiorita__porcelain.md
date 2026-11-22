@@ -1,6 +1,6 @@
 # FabioFiorita/porcelain
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/FabioFiorita/porcelain) · [官网](https://porcelain.fabiofiorita.com) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/FabioFiorita/porcelain) · [官网](https://porcelain.fabiofiorita.com) · 个人维护
 
 **审阅编码 agent 改动的桌面/Web 工具：按决策走查 diff 并回复评论**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FabioFiorita/porcelain 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-19 13 → 2026-11-21 14（+1）
+2026-10-20 13 → 2026-11-22 14（+1）
 
 
 ---

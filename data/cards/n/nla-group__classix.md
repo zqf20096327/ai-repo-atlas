@@ -1,6 +1,6 @@
 # nla-group/classix
 
-⭐ 131 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nla-group/classix) · [官网](https://classix.readthedocs.io/) · 组织维护
+⭐ 132 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nla-group/classix) · [官网](https://classix.readthedocs.io/) · 组织维护
 
 **面向数据分析师的可解释快速聚类 Python 库**
 
@@ -47,12 +47,12 @@ CLASSIX 是一个聚类算法实现：先沿第一主轴排序数据点，将其
 ```mermaid
 xychart-beta
     title "nla-group/classix 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 130 --> 133
+    line [131, 132]
 ```
 
-2026-10-19 131 → 2026-11-21 131（+0）
+2026-10-20 131 → 2026-11-22 132（+1）
 
 
 ---

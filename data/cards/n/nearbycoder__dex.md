@@ -1,6 +1,6 @@
 # nearbycoder/dex
 
-⭐ 5 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nearbycoder/dex) · [官网](https://trydex.dev) · 个人维护
+⭐ 5 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nearbycoder/dex) · [官网](https://trydex.dev) · 个人维护
 
 **部署在 Cloudflare 上的个人 AI agent：每聊天配云端 VM**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nearbycoder/dex 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-18", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-18", "2026-11-22"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-08 4 → 2026-11-21 5（+1）
+2026-11-08 4 → 2026-11-22 5（+1）
 
 
 ---

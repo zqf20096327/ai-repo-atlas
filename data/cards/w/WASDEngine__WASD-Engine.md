@@ -1,6 +1,6 @@
 # WASDEngine/WASD-Engine
 
-⭐ 5 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/WASDEngine/WASD-Engine) · [官网](https://wasdengine.com) · 组织维护
+⭐ 9 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/WASDEngine/WASD-Engine) · [官网](https://wasdengine.com) · 组织维护
 
 **给游戏开发者的 AI 代理开发工作台：整合 Godot/Blender 等工具**
 
@@ -41,6 +41,18 @@
 > L10:  into a single open-source agent harness.
 > L24: WASD Engine bundles everything you need to build high-polish games in a single agent harness, so your agents can bu
 > L92: Connect your existing subscription to WASD Engine for free using MCP. WASD Engine runs an MCP server on your comput
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WASDEngine/WASD-Engine 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 10
+    line [5, 9]
+```
+
+2026-11-21 5 → 2026-11-22 9（+4）
 
 
 ---

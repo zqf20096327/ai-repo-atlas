@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-swarm-py
 
-⭐ 1,596 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langgraph-swarm-py) · [官网](https://langchain-ai.github.io/langgraph/concepts/multi_agent/) · 组织维护
+⭐ 1,598 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langgraph-swarm-py) · [官网](https://langchain-ai.github.io/langgraph/concepts/multi_agent/) · 组织维护
 
 **基于 LangGraph 的 Python 多智能体 swarm 构建库**
 
@@ -45,12 +45,12 @@ LangGraph 官方团队提供的 Python 库，用于构建 swarm 式多智能体�
 ```mermaid
 xychart-beta
     title "langchain-ai/langgraph-swarm-py 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-21"]
-    y-axis "stars" 1579 --> 1597
-    line [1580, 1582, 1581, 1586, 1585, 1586, 1582, 1590, 1593, 1595, 1596, 1596]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-22"]
+    y-axis "stars" 1579 --> 1599
+    line [1580, 1582, 1581, 1586, 1585, 1586, 1582, 1590, 1593, 1595, 1596, 1598]
 ```
 
-2026-10-19 1,580 → 2026-11-21 1,596（+16）
+2026-10-20 1,580 → 2026-11-22 1,598（+18）
 
 
 ---

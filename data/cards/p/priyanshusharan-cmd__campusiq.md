@@ -1,6 +1,6 @@
 # priyanshusharan-cmd/campusiq
 
-⭐ 48 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/priyanshusharan-cmd/campusiq) · [官网](https://priyanshusharan-cmd.github.io/campusiq/) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/priyanshusharan-cmd/campusiq) · [官网](https://priyanshusharan-cmd.github.io/campusiq/) · 个人维护
 
 **面向大学生的课表/考勤/绩点管理 App，辅以 Gemma AI 导入**
 
@@ -47,12 +47,12 @@ React Native/Expo + TypeScript 的校园伴侣应用：管理周一至周日课�
 ```mermaid
 xychart-beta
     title "priyanshusharan-cmd/campusiq 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
     y-axis "stars" 26 --> 50
-    line [28, 41, 47, 48, 48]
+    line [28, 41, 47, 48, 47]
 ```
 
-2026-11-15 28 → 2026-11-21 48（+20）
+2026-11-15 28 → 2026-11-22 47（+19）
 
 
 ---

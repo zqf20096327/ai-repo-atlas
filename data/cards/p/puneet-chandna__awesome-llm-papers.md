@@ -1,6 +1,6 @@
 # puneet-chandna/awesome-llm-papers
 
-⭐ 17 · Python · CC0-1.0 · 推送 2026-10-10 · [GitHub](https://github.com/puneet-chandna/awesome-llm-papers) · 个人维护
+⭐ 18 · Python · CC0-1.0 · 推送 2026-10-10 · [GitHub](https://github.com/puneet-chandna/awesome-llm-papers) · 个人维护
 
 **LLM 研究论文精选清单：为研究者提供阅读路线与分类导航**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "puneet-chandna/awesome-llm-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-19", "2026-11-22"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-21 17（+0）
+2026-10-19 17 → 2026-11-22 18（+1）
 
 
 ---

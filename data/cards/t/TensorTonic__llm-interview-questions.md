@@ -1,6 +1,6 @@
 # TensorTonic/llm-interview-questions
 
-⭐ 38 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/TensorTonic/llm-interview-questions) · [官网](https://www.tensortonic.com/llm-internals) · 个人维护
+⭐ 39 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/TensorTonic/llm-interview-questions) · [官网](https://www.tensortonic.com/llm-internals) · 个人维护
 
 **LLM/Transformer 面试题清单：39 题配讲解与 Python 练习**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "TensorTonic/llm-interview-questions 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 33 --> 39
-    line [34, 36, 38, 38]
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22"]
+    y-axis "stars" 33 --> 40
+    line [34, 36, 38, 39]
 ```
 
-2026-11-16 34 → 2026-11-21 38（+4）
+2026-11-16 34 → 2026-11-22 39（+5）
 
 
 ---

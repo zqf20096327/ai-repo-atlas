@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "drisskhattabi6/Chat-with-PDF-Locally 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-11-10 20 → 2026-11-21 20（+0）
+2026-11-10 20 → 2026-11-22 20（+0）
 
 
 ---

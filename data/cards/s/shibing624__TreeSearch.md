@@ -1,6 +1,6 @@
 # shibing624/TreeSearch
 
-⭐ 213 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/shibing624/TreeSearch) · [官网](https://pypi.org/project/pytreesearch/) · 个人维护 · 中文 README
+⭐ 214 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/shibing624/TreeSearch) · [官网](https://pypi.org/project/pytreesearch/) · 个人维护 · 中文 README
 
 **结构感知文档检索库：免 embedding 用 FTS5 树结构检索代码库与文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shibing624/TreeSearch 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 212 --> 214
-    line [213, 213]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 212 --> 215
+    line [213, 214]
 ```
 
-2026-10-19 213 → 2026-11-21 213（+0）
+2026-10-20 213 → 2026-11-22 214（+1）
 
 
 ---

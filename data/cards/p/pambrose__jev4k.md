@@ -1,6 +1,6 @@
 # pambrose/jev4k
 
-⭐ 12 · Kotlin · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/pambrose/jev4k) · [官网](https://jev4k.com) · 个人维护
+⭐ 12 · Kotlin · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/pambrose/jev4k) · [官网](https://jev4k.com) · 个人维护
 
 **面向 TypeSafe Jev 模型的 Kotlin 多平台 DSL 与客户端**
 
@@ -46,12 +46,12 @@ jev4k 是访问 TypeSafe Jev 模型的 Kotlin Multiplatform 库：开发者用 D
 ```mermaid
 xychart-beta
     title "pambrose/jev4k 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 12（+0）
 
 
 ---

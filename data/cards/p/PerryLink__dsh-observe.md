@@ -1,6 +1,6 @@
 # PerryLink/dsh-observe
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PerryLink/dsh-observe) · [官网](https://www.npmjs.com/package/dsh-observe) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/dsh-observe) · [官网](https://www.npmjs.com/package/dsh-observe) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 OpenTelemetry/Langfuse 可观测性导出插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-observe 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 12 --> 17
-    line [13, 14, 13, 14, 15, 16, 16]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 13, 14, 15, 16, 17]
 ```
 
-2026-10-19 13 → 2026-11-21 16（+3）
+2026-10-20 13 → 2026-11-22 17（+4）
 
 
 ---

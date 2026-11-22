@@ -1,6 +1,6 @@
 # joansongjr/investor-harness
 
-⭐ 28 · Shell · MIT · 推送 2026-09-06 · [GitHub](https://github.com/joansongjr/investor-harness) · 个人维护 · 中文 README
+⭐ 29 · Shell · MIT · 推送 2026-09-06 · [GitHub](https://github.com/joansongjr/investor-harness) · 个人维护 · 中文 README
 
 **面向二级市场投研人的跨 harness AI 技能规范集（34 个 skill）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "joansongjr/investor-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-14", "2026-11-21"]
-    y-axis "stars" 25 --> 29
-    line [26, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-14", "2026-11-22"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 28, 29]
 ```
 
-2026-10-18 26 → 2026-11-21 28（+2）
+2026-10-18 26 → 2026-11-22 29（+3）
 
 
 ---

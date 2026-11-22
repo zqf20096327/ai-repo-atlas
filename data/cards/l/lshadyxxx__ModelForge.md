@@ -1,6 +1,6 @@
 # lshadyxxx/ModelForge
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/lshadyxxx/ModelForge) · 个人维护 · 中文 README
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lshadyxxx/ModelForge) · 个人维护 · 中文 README
 
 **面向训练/推理交付流程的模型工程工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lshadyxxx/ModelForge 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-21 3（+0）
+2026-11-10 3 → 2026-11-22 3（+0）
 
 
 ---

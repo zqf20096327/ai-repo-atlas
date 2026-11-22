@@ -1,6 +1,6 @@
 # houyidb-community/houyidb
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/houyidb-community/houyidb) · [官网](https://houyidb.top) · 个人维护 · 中文 README
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/houyidb-community/houyidb) · [官网](https://houyidb.top) · 个人维护 · 中文 README
 
 **面向 RAG/嵌入检索场景的单机向量数据库**
 
@@ -46,12 +46,12 @@ Rust 编写的单机内存优先向量数据库，核心机制为 HNSW 向量索
 ```mermaid
 xychart-beta
     title "houyidb-community/houyidb 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-21 3（+0）
+2026-11-08 3 → 2026-11-22 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yourhoneypomelo-cell/Continuity
 
-⭐ 24 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yourhoneypomelo-cell/Continuity) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yourhoneypomelo-cell/Continuity) · 个人维护 · 中文 README
 
 **给 AI 编码 agent 提供基于 Markdown 文件的跨会话记忆**
 
@@ -46,13 +46,13 @@ Continuity 在项目 docs/state/ 下用纯 Markdown 文件保存需求、决策�
 
 ```mermaid
 xychart-beta
-    title "yourhoneypomelo-cell/Continuity 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-21"]
-    y-axis "stars" 21 --> 25
-    line [22, 24]
+    title "yourhoneypomelo-cell/Continuity 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 17 --> 25
+    line [22, 24, 18]
 ```
 
-2026-11-19 22 → 2026-11-21 24（+2）
+2026-11-19 22 → 2026-11-22 18（-4）
 
 
 ---

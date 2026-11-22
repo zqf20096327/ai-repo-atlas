@@ -1,6 +1,6 @@
 # cool-japan/numrs
 
-⭐ 55 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/numrs) · [官网](https://github.com/cool-japan/numrs) · 个人维护
+⭐ 56 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/numrs) · [官网](https://github.com/cool-japan/numrs) · 个人维护
 
 **Rust 高性能数值计算库，NumPy 的 Rust 原生替代**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cool-japan/numrs 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 52 --> 56
-    line [53, 54, 55, 55]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 52 --> 57
+    line [53, 54, 55, 56]
 ```
 
-2026-10-19 53 → 2026-11-21 55（+2）
+2026-10-20 53 → 2026-11-22 56（+3）
 
 
 ---

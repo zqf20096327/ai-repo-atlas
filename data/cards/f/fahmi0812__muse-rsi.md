@@ -1,6 +1,6 @@
 # fahmi0812/muse-rsi
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/fahmi0812/muse-rsi) · [官网](https://github.com/fahmi0812/muse-rsi/blob/main/setup/README.md) · 个人维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/fahmi0812/muse-rsi) · [官网](https://github.com/fahmi0812/muse-rsi/blob/main/setup/README.md) · 个人维护
 
 **经人工核验的 Muse agent 技能清单与一键安装系统**
 
@@ -40,6 +40,18 @@
 > L13: Most skill lists are just links. This one is a list that was checked first.
 > L19: - **It routes, it doesn't just list.** The router picks the right skill for each task from 261 entries. A 17-case t
 > L37: To install a skill, open its repository link above and follow that repository's own `README` / `SKILL.md`. This rep
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fahmi0812/muse-rsi 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-21 5 → 2026-11-22 5（+0）
 
 
 ---

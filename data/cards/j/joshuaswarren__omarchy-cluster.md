@@ -1,6 +1,6 @@
 # joshuaswarren/omarchy-cluster
 
-⭐ 25 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/joshuaswarren/omarchy-cluster) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/joshuaswarren/omarchy-cluster) · 个人维护
 
 **跨多台 Apple Silicon 机器分布式运行单个本地 MLX/GGUF 模型的推理集群工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joshuaswarren/omarchy-cluster 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-22"]
     y-axis "stars" 21 --> 26
     line [22, 23, 24, 25, 25]
 ```
 
-2026-10-19 22 → 2026-11-21 25（+3）
+2026-10-20 22 → 2026-11-22 25（+3）
 
 
 ---

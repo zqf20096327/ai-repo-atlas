@@ -1,6 +1,6 @@
 # JuliaReinforcementLearning/ReinforcementLearning.jl
 
-⭐ 654 · Julia · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) · [官网](https://juliareinforcementlearning.org) · 组织维护
+⭐ 655 · Julia · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) · [官网](https://juliareinforcementlearning.org) · 组织维护
 
 **Julia 语言的强化学习研究包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JuliaReinforcementLearning/ReinforcementLearning.jl 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21"]
-    y-axis "stars" 651 --> 655
-    line [652, 653, 654, 653, 654, 654]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
+    y-axis "stars" 651 --> 656
+    line [652, 653, 654, 653, 654, 655]
 ```
 
-2026-10-19 652 → 2026-11-21 654（+2）
+2026-10-20 652 → 2026-11-22 655（+3）
 
 
 ---

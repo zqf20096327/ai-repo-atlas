@@ -1,6 +1,6 @@
 # typemaid/typemaid
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/typemaid/typemaid) · [官网](https://www.npmjs.com/package/typemaid) · 个人维护
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/typemaid/typemaid) · [官网](https://www.npmjs.com/package/typemaid) · 个人维护
 
 **TypeScript SDK：把 Mermaid 流程图作为类型化 AI 工作流运行**
 
@@ -40,6 +40,18 @@ TypeMaid 是一个 TypeScript SDK，开发者用 Mermaid `.mmd` 文件描述流�
 > L6:  A TypeScript SDK: draw the flow, type each step, and run it with any LLM.
 > L62: - **The diagram is the program.** Branches, loops, parallel steps and for-each blocks are written in Mermaid. The c
 > L65: - **Any LLM.** Agent steps and model calls inside tools use the Vercel AI SDK, so any provider it supports works: O
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "typemaid/typemaid 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [4, 3]
+```
+
+2026-11-21 4 → 2026-11-22 3（-1）
 
 
 ---

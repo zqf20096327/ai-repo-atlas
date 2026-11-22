@@ -42,6 +42,18 @@ VBANN 是一个用纯 VBA 实现的 PyTorch 风格机器学习框架，可在 Ex
 > L12: Gradient-boosted trees:
 > L20: A neural network:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "personalityson/VBANN 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-21 10 → 2026-11-22 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `e4491dbfe930` · [字段定义](../../DATASET.md)*

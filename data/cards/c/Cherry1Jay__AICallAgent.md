@@ -40,6 +40,18 @@
 > L7: 一个 LSPosed 模块：接管 HyperOS 的 AI 自动接听，用任意 OpenAI 兼容接口（DeepSeek / Kimi / Qwen / GLM / Ollama / one-api 中转…）生成对话，并按来电话类型分
 > L30: |**`com.miui.voiceassist`（小爱）**|**ASR → LLM → TTS 全在这里**，`classes29.dex`|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Cherry1Jay/AICallAgent 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-21 4 → 2026-11-22 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `85ad3dbcaebc` · [字段定义](../../DATASET.md)*

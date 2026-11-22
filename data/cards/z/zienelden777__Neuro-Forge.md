@@ -1,6 +1,6 @@
 # zienelden777/Neuro-Forge
 
-⭐ 56 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/zienelden777/Neuro-Forge) · 个人维护
+⭐ 56 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/zienelden777/Neuro-Forge) · 个人维护
 
 **浏览器端认知训练小游戏合集（7 款，纯前端）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zienelden777/Neuro-Forge 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-19 56 → 2026-11-21 56（+0）
+2026-10-20 56 → 2026-11-22 56（+0）
 
 
 ---

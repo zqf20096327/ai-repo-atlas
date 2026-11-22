@@ -1,6 +1,6 @@
 # sergqwer/geode
 
-⭐ 3 · C++ · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/sergqwer/geode) · [官网](https://geode.tifu.xyz) · 个人维护
+⭐ 4 · C++ · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/sergqwer/geode) · [官网](https://geode.tifu.xyz) · 个人维护
 
 **在 Android 手机本地离线运行大模型的聊天、作曲与生图应用**
 
@@ -41,6 +41,18 @@ Geode 是一个 Android 应用，在手机本地运行语言、多模态、歌�
 > L24: Geode runs large language models on a phone. It needs no server: the app, the model and the agent's tools stay on t
 > L33: The inference engine is written from scratch for phone hardware. It has its own kernels for the CPU (NEON), the
 > L47: - **Images**: a picture from a few words, drawn on the phone by FLUX.2 [klein] 4B, with a live preview after each
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sergqwer/geode 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-21 3 → 2026-11-22 4（+1）
 
 
 ---

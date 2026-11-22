@@ -1,6 +1,6 @@
 # negg0s/chess-training-gym
 
-⭐ 4 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/negg0s/chess-training-gym) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/negg0s/chess-training-gym) · 个人维护
 
 **为国际象棋神经网络模型准备数据并评估预测的工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "negg0s/chess-training-gym 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    x-axis ["2026-11-10", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-10 4 → 2026-11-21 4（+0）
+2026-11-10 4 → 2026-11-22 4（+0）
 
 
 ---

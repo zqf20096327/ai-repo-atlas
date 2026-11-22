@@ -1,6 +1,6 @@
 # Abhiindigloo/EvalHarness
 
-⭐ 7 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Abhiindigloo/EvalHarness) · [官网](https://indigloo.co) · 组织维护
+⭐ 7 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Abhiindigloo/EvalHarness) · [官网](https://indigloo.co) · 组织维护
 
 **帮开发者找出通过自家测试的最便宜 AI 模型的评测与路由工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Abhiindigloo/EvalHarness 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
     y-axis "stars" 2 --> 8
     line [3, 4, 7, 3, 7, 7]
 ```
 
-2026-10-19 3 → 2026-11-21 7（+4）
+2026-10-20 3 → 2026-11-22 7（+4）
 
 
 ---

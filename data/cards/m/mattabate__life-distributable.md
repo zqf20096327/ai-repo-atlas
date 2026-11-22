@@ -1,6 +1,6 @@
 # mattabate/life-distributable
 
-⭐ 441 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mattabate/life-distributable) · [官网](https://lifedistributable.com/) · 个人维护
+⭐ 445 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mattabate/life-distributable) · [官网](https://lifedistributable.com/) · 个人维护
 
 **自托管的个人 AI agent 团队，在 Mac 上全天候为你服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mattabate/life-distributable 星数(近 11 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 366 --> 447
-    line [372, 380, 385, 393, 401, 409, 416, 423, 429, 435, 441]
+    title "mattabate/life-distributable 星数(近 12 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 365 --> 452
+    line [372, 380, 385, 393, 401, 409, 416, 423, 429, 435, 441, 445]
 ```
 
-2026-11-10 372 → 2026-11-21 441（+69）
+2026-11-10 372 → 2026-11-22 445（+73）
 
 
 ---

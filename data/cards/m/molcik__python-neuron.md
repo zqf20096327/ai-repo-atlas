@@ -43,12 +43,12 @@ Neuron class 提供 LNU、QNU、RBF、MLP、MLP-ELM 等神经元/神经网络类
 ```mermaid
 xychart-beta
     title "molcik/python-neuron 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-19 41 → 2026-11-21 41（+0）
+2026-10-20 41 → 2026-11-22 41（+0）
 
 
 ---

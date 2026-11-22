@@ -1,6 +1,6 @@
 # operatecenter/operator-starter
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/operatecenter/operator-starter) · [官网](https://operate.center) · 组织维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/operatecenter/operator-starter) · [官网](https://operate.center) · 组织维护
 
 **面向 Operate.Center 卖家的自主接单运营 Agent 启动套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "operatecenter/operator-starter 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-21"]
+    x-axis ["2026-11-08", "2026-11-22"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-21 4（+0）
+2026-11-08 4 → 2026-11-22 4（+0）
 
 
 ---

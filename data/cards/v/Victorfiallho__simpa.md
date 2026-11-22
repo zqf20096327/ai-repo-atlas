@@ -1,6 +1,6 @@
 # Victorfiallho/simpa
 
-⭐ 5 · Python · 推送 2026-11-12 · [GitHub](https://github.com/Victorfiallho/simpa) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **高校学生学业成绩监控与风险预测平台**
 

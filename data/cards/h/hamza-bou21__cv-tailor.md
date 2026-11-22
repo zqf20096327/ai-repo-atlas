@@ -46,12 +46,12 @@ CV Tailor 读取主 CV（PDF 提取为 master_cv.yaml）与职位描述，产出
 ```mermaid
 xychart-beta
     title "hamza-bou21/cv-tailor 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-21"]
+    x-axis ["2026-11-16", "2026-11-22"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-16 6 → 2026-11-21 6（+0）
+2026-11-16 6 → 2026-11-22 6（+0）
 
 
 ---

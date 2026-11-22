@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SoAkeD1/reviewbharat 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-21"]
+    title "SoAkeD1/reviewbharat 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-21", "2026-11-22"]
     y-axis "stars" 7 --> 10
-    line [9, 8]
+    line [9, 8, 8]
 ```
 
-2026-11-10 9 → 2026-11-21 8（-1）
+2026-11-10 9 → 2026-11-22 8（-1）
 
 
 ---

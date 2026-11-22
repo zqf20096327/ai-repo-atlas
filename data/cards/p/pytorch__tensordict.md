@@ -1,6 +1,6 @@
 # pytorch/tensordict
 
-⭐ 1,046 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/pytorch/tensordict) · [官网](https://docs.pytorch.org/tensordict) · 组织维护
+⭐ 1,046 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/pytorch/tensordict) · [官网](https://docs.pytorch.org/tensordict) · 组织维护
 
 **PyTorch 张量字典容器：像操作单个张量一样操作一组张量**
 
@@ -46,12 +46,12 @@ TensorDict 是一个行为类似单个张量的 dict[str, torch.Tensor] 容器�
 ```mermaid
 xychart-beta
     title "pytorch/tensordict 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-22"]
     y-axis "stars" 1040 --> 1047
     line [1041, 1043, 1042, 1043, 1044, 1045, 1046, 1046]
 ```
 
-2026-10-19 1,041 → 2026-11-21 1,046（+5）
+2026-10-20 1,041 → 2026-11-22 1,046（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # LeoYeAI/MyClaw
 
-⭐ 140 · 推送 2026-04-02 · [GitHub](https://github.com/LeoYeAI/MyClaw) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
+⭐ 141 · 推送 2026-04-02 · [GitHub](https://github.com/LeoYeAI/MyClaw) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
 **托管个人 AI 服务器服务：按月付费运行 OpenClaw 平台**
 
@@ -45,12 +45,12 @@ MyClaw.ai 是一项付费托管服务：注册账号后获得一个完整运行�
 ```mermaid
 xychart-beta
     title "LeoYeAI/MyClaw 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 139 --> 141
-    line [140, 140]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 139 --> 142
+    line [140, 141]
 ```
 
-2026-10-19 140 → 2026-11-21 140（+0）
+2026-10-20 140 → 2026-11-22 141（+1）
 
 
 ---

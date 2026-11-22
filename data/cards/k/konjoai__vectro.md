@@ -1,6 +1,6 @@
 # konjoai/vectro
 
-⭐ 12 · Rust · MIT · 推送 2026-08-19 · [GitHub](https://github.com/konjoai/vectro) · [官网](https://github.com/konjoai/vectro) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-08-19 · [GitHub](https://github.com/konjoai/vectro) · [官网](https://github.com/konjoai/vectro) · 组织维护
 
 **面向向量数据库与本地 AI 研究的嵌入量化压缩库（Mojo 加速）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "konjoai/vectro 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-19 12 → 2026-11-21 12（+0）
+2026-10-20 12 → 2026-11-22 13（+1）
 
 
 ---

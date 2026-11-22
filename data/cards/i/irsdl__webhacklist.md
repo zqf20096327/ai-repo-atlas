@@ -41,6 +41,18 @@
 > L55: - **One Markdown file per annual collection**, including the combined **2016/17**
 > L172: A further **391** AI-collected leads for 2026 sit in `2026-ai.md`, unranked,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "irsdl/webhacklist 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 921 --> 923
+    line [922, 922]
+```
+
+2026-11-21 922 → 2026-11-22 922（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `e71da5cf51f6` · [字段定义](../../DATASET.md)*

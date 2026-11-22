@@ -1,6 +1,6 @@
 # zyxue/sutton-barto-rl-exercises
 
-⭐ 84 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/zyxue/sutton-barto-rl-exercises) · 个人维护
+⭐ 85 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/zyxue/sutton-barto-rl-exercises) · 个人维护
 
 **Sutton & Barto 强化学习教材习题解答与个人笔记仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "zyxue/sutton-barto-rl-exercises 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    x-axis ["2026-10-20", "2026-11-22"]
+    y-axis "stars" 83 --> 86
+    line [84, 85]
 ```
 
-2026-10-19 84 → 2026-11-21 84（+0）
+2026-10-20 84 → 2026-11-22 85（+1）
 
 
 ---

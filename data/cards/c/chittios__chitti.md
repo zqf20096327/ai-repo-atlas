@@ -1,6 +1,6 @@
 # chittios/chitti
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/chittios/chitti) · [官网](https://chittios.com) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/chittios/chitti) · [官网](https://chittios.com) · 个人维护
 
 **以 AI agent 为基本执行单元的裸金属操作系统**
 
@@ -46,13 +46,13 @@ Chitti 是一个从零构建的 x86_64/aarch64 裸金属操作系统：基本执
 
 ```mermaid
 xychart-beta
-    title "chittios/chitti 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-21"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "chittios/chitti 星数(近 3 点)"
+    x-axis ["2026-11-02", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-02 10 → 2026-11-21 11（+1）
+2026-11-02 10 → 2026-11-22 12（+2）
 
 
 ---

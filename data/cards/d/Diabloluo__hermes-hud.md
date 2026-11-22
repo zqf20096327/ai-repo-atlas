@@ -1,6 +1,6 @@
 # Diabloluo/hermes-hud
 
-⭐ 11 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Diabloluo/hermes-hud) · [官网](https://github.com/Diabloluo/hermes-hud) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Diabloluo/hermes-hud) · [官网](https://github.com/Diabloluo/hermes-hud) · 个人维护 · 中文 README
 
 **给 Hermes Agent 用户的本地实时运行监控面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Diabloluo/hermes-hud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-21"]
+    x-axis ["2026-10-19", "2026-11-22"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-21 11（+0）
+2026-10-19 11 → 2026-11-22 11（+0）
 
 
 ---

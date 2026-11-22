@@ -1,6 +1,6 @@
 # YusufEmreYazici/Centik
 
-⭐ 11 · Swift · MIT · 推送 2026-11-12 · [GitHub](https://github.com/YusufEmreYazici/Centik) · 个人维护
+⭐ 12 · Swift · MIT · 推送 2026-11-12 · [GitHub](https://github.com/YusufEmreYazici/Centik) · 个人维护
 
 **macOS 刘海区工具岛：系统监控、音乐、剪贴板与 AI 对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YusufEmreYazici/Centik 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-21"]
-    y-axis "stars" 6 --> 12
-    line [7, 9, 10, 11, 11]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-22"]
+    y-axis "stars" 6 --> 13
+    line [7, 9, 10, 11, 12]
 ```
 
-2026-10-31 7 → 2026-11-21 11（+4）
+2026-10-31 7 → 2026-11-22 12（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # ysunyang4/webagent
 
-⭐ 176 · JavaScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/ysunyang4/webagent) · [官网](https://github.com/ysunyang4/webagent/blob/main/USAGE.md) · 个人维护 · 中文 README
+⭐ 185 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ysunyang4/webagent) · [官网](https://github.com/ysunyang4/webagent/blob/main/USAGE.md) · 个人维护 · 中文 README
 
 **让网页版大模型通过 MCP 调用本地工具的浏览器扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ysunyang4/webagent 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21"]
-    y-axis "stars" 142 --> 179
-    line [145, 158, 167, 176]
+    title "ysunyang4/webagent 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    y-axis "stars" 141 --> 189
+    line [145, 158, 167, 176, 185]
 ```
 
-2026-11-18 145 → 2026-11-21 176（+31）
+2026-11-18 145 → 2026-11-22 185（+40）
 
 
 ---

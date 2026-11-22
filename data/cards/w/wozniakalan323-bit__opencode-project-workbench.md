@@ -1,6 +1,6 @@
 # wozniakalan323-bit/opencode-project-workbench
 
-⭐ 97 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/wozniakalan323-bit/opencode-project-workbench) · 个人维护
+⭐ 151 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/wozniakalan323-bit/opencode-project-workbench) · 个人维护
 
 **为 OpenCode 项目管理工作区生命周期的 Windows 命令行工具**
 
@@ -39,6 +39,18 @@
 
 > L12: `opencode-project-workbench` is a command-line tool for managing the lifecycle of OpenCode project workspaces, cove
 > L103: **Goal:** Start a new opencode-based project with a consistent structure for configuration, task tracking, and wor
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wozniakalan323-bit/opencode-project-workbench 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 92 --> 156
+    line [97, 151]
+```
+
+2026-11-21 97 → 2026-11-22 151（+54）
 
 
 ---

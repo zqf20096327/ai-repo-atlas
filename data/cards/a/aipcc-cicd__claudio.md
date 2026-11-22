@@ -1,6 +1,6 @@
 # aipcc-cicd/claudio
 
-⭐ 17 · Shell · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/aipcc-cicd/claudio) · 组织维护
+⭐ 17 · Shell · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/aipcc-cicd/claudio) · 组织维护
 
 **将 Claude Code 容器化的 OCI 镜像，默认经 Vertex AI 接入**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aipcc-cicd/claudio 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-21"]
+    x-axis ["2026-10-20", "2026-11-22"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-19 17 → 2026-11-21 17（+0）
+2026-10-20 17 → 2026-11-22 17（+0）
 
 
 ---

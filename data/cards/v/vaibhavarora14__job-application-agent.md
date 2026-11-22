@@ -1,6 +1,6 @@
 # vaibhavarora14/job-application-agent
 
-⭐ 179 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vaibhavarora14/job-application-agent) · [官网](https://jobappagent.com) · 个人维护
+⭐ 179 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/vaibhavarora14/job-application-agent) · [官网](https://jobappagent.com) · 个人维护
 
 **给求职者的 Agent 技能与 CLI：搜索、资格判断、按规则投递并追踪申请**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vaibhavarora14/job-application-agent 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21"]
+    title "vaibhavarora14/job-application-agent 星数(近 13 点)"
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-22"]
     y-axis "stars" 160 --> 180
-    line [161, 162, 164, 165, 169, 171, 172, 164, 174, 175, 177, 179]
+    line [161, 162, 164, 165, 169, 171, 172, 164, 174, 175, 177, 179, 179]
 ```
 
-2026-10-19 161 → 2026-11-21 179（+18）
+2026-10-20 161 → 2026-11-22 179（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kaka-cheaper/codeSee
 
-⭐ 61 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Kaka-cheaper/codeSee) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Kaka-cheaper/codeSee) · 个人维护 · 中文 README
 
 **AI 维护的项目功能语义流程图查看器：让 AI 写图，人看故事**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kaka-cheaper/codeSee 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-21"]
-    y-axis "stars" 56 --> 62
-    line [57, 59, 60, 59, 60, 61, 61]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-22"]
+    y-axis "stars" 56 --> 63
+    line [57, 59, 60, 59, 60, 61, 62]
 ```
 
-2026-10-19 57 → 2026-11-21 61（+4）
+2026-10-20 57 → 2026-11-22 62（+5）
 
 
 ---

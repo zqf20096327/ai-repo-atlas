@@ -1,6 +1,6 @@
 # 100yenadmin/hermes-teammates
 
-⭐ 65 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/100yenadmin/hermes-teammates) · 个人维护
+⭐ 66 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/100yenadmin/hermes-teammates) · 个人维护
 
 **Hermes Agent 插件：为 Agent 配置固定具名队友与看板评审通道**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "100yenadmin/hermes-teammates 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-21"]
+    title "100yenadmin/hermes-teammates 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22"]
     y-axis "stars" 60 --> 67
-    line [61, 63, 64, 66, 64, 65]
+    line [61, 63, 64, 66, 64, 65, 66]
 ```
 
-2026-11-10 61 → 2026-11-21 65（+4）
+2026-11-10 61 → 2026-11-22 66（+5）
 
 
 ---

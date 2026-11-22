@@ -1,6 +1,6 @@
 # ihsan-sa/hive
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ihsan-sa/hive) · [官网](https://hivelab.ca) · 组织维护
+⭐ 6 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ihsan-sa/hive) · [官网](https://hivelab.ca) · 组织维护
 
 **在你的机器上自托管的多 agent 协作系统，持续推进你的项目**
 
@@ -40,6 +40,18 @@
 > L22: A group of agents on one machine of yours, running the official Claude Code or Codex program under your own login, 
 > L24: - **Not a harness.** Claude Code and Codex are harnesses: one agent in one session, which you start, steer and watc
 > L81: **What it runs on:** Claude Code with your Claude subscription, Codex with your ChatGPT subscription, or an API key
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ihsan-sa/hive 星数(近 2 点)"
+    x-axis ["2026-11-21", "2026-11-22"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-21 6 → 2026-11-22 6（+0）
 
 
 ---

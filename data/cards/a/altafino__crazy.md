@@ -1,6 +1,6 @@
 # altafino/crazy
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/altafino/crazy) · [官网](https://github.com/altafino/crazy#readme) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/altafino/crazy) · [官网](https://github.com/altafino/crazy#readme) · 个人维护
 
 **Linux 桌面工作台：描述应用，由 AI 编码代理构建并安装**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "altafino/crazy 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-19", "2026-11-21"]
-    y-axis "stars" 7 --> 12
-    line [8, 9, 11, 11]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-19", "2026-11-22"]
+    y-axis "stars" 7 --> 13
+    line [8, 9, 11, 12]
 ```
 
-2026-11-10 8 → 2026-11-21 11（+3）
+2026-11-10 8 → 2026-11-22 12（+4）
 
 
 ---
