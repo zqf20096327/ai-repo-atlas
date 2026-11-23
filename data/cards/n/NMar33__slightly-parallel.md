@@ -41,6 +41,18 @@
 > L13: - Claude Code, Codex, OpenCode
 > L166: - Agents write only through the MCP server. For example, they use `write_entry` to record a decision. The contract
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NMar33/slightly-parallel 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-11-22 21 → 2026-11-23 21（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a03148a0c68b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # QuinnDamerell/OctoPrint-OctoEverywhere
 
-⭐ 308 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/QuinnDamerell/OctoPrint-OctoEverywhere) · [官网](https://octoeverywhere.com) · 组织维护
+⭐ 309 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/QuinnDamerell/OctoPrint-OctoEverywhere) · [官网](https://octoeverywhere.com) · 组织维护
 
 **3D 打印机远程访问云插件，含 AI 打印失败检测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QuinnDamerell/OctoPrint-OctoEverywhere 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-16", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 305 --> 309
-    line [306, 308, 307, 308]
+    title "QuinnDamerell/OctoPrint-OctoEverywhere 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 305 --> 310
+    line [306, 308, 307, 308, 309]
 ```
 
-2026-10-20 306 → 2026-11-22 308（+2）
+2026-10-21 306 → 2026-11-23 309（+3）
 
 
 ---

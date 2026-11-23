@@ -1,6 +1,6 @@
 # PhilipSchmid/textwarden
 
-⭐ 46 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PhilipSchmid/textwarden) · 个人维护
+⭐ 47 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PhilipSchmid/textwarden) · 个人维护
 
 **macOS 端上隐私语法检查器，全程本地运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PhilipSchmid/textwarden 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 38 --> 47
-    line [39, 40, 41, 43, 40, 45, 46]
+    title "PhilipSchmid/textwarden 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 38 --> 48
+    line [39, 40, 41, 43, 40, 45, 46, 47]
 ```
 
-2026-10-19 39 → 2026-11-22 46（+7）
+2026-10-20 39 → 2026-11-23 47（+8）
 
 
 ---

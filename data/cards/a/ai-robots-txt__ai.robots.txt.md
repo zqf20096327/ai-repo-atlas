@@ -1,10 +1,10 @@
 # ai-robots-txt/ai.robots.txt
 
-⭐ 4,265 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ai-robots-txt/ai.robots.txt) · [官网](https://github.com/ai-robots-txt/ai.robots.txt/releases.atom) · 组织维护
+⭐ 4,265 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ai-robots-txt/ai.robots.txt) · [官网](https://github.com/ai-robots-txt/ai.robots.txt/releases.atom) · 组织维护
 
-**AI 爬虫屏蔽清单：供网站主配置多服务器拦截**
+**给网站管理员提供封禁 AI 爬虫的清单与服务器配置**
 
-收录各类 AI 相关爬虫 User-Agent 的清单仓库，以 robots.txt（RFC 9309）与 .htaccess、Nginx、Caddy、HAProxy、lighttpd 等多种服务器配置文件形式提供，网站管理员可按所用服务器将对应文件包含进配置以拦截或拒绝 AI 爬虫。数据部分来自 Known Agents 项目，社区贡献增补。附带 Traefik 插件、屏蔽部署测量数据集等相关资源链接，可通过 GitHub Releases 的 RSS/Atom 订阅更新。
+收录各类 AI 相关爬虫的清单仓库，提供 robots.txt 以及 Apache (.htaccess)、Nginx、Caddy、HAProxy、lighttpd 五种 Web 服务器的拦截配置文件，站点管理员可直接部署以阻止列表中的 AI 爬虫访问。清单遵循 Robots Exclusion Protocol (RFC 9309)，通过 GitHub release 发版并支持 RSS/Atom 订阅更新；另收录 Traefik 插件、检测工具等第三方相关资源。许可部分提及通过 RSL 向 AI 公司授权内容的做法。
 
 ## 筛选速览
 
@@ -20,37 +20,39 @@
 
 ## 能力要点
 
-- 提供 robots.txt/.htaccess/Nginx/Caddy/HAProxy/lighttpd 六种格式的屏蔽配置
-- robots.txt 实现机器人排除协议 RFC 9309
-- 可通过 GitHub Releases 的 RSS/Atom 订阅清单更新
+- 提供 robots.txt 及 Nginx/Apache/Caddy/HAProxy/lighttpd 拦截配置文件
+- robots.txt 实现 Robots Exclusion Protocol (RFC 9309)
+- 通过 GitHub release 发版并支持 RSS/Atom 订阅更新
+- 收录 Traefik 插件、AI 爬虫检测工具等第三方资源
 
 ## 适用场景
 
-- 我在 Nginx/Apache 等 Web 服务器上屏蔽 AI 爬虫
-- 我通过 robots.txt 声明拒绝 AI 爬虫抓取
-- 我跟踪 AI 爬虫清单的更新
+- 为网站部署配置阻止 AI 爬虫抓取内容
+- 阻止爬虫数据被用于 AI 模型训练
+- 跟踪清单更新以应对新增 AI 爬虫
 
 ## 场景标签
 
- · 领域:网站运维/隐私
+ · 领域:Web运维/隐私保护
 
 ## 证据(README 行号)
 
 > L5: This list contains AI-related crawlers of all types, regardless of purpose. We encourage you to contribute to and im
 > L13: This repository provides the following files in the top-level directory[^root]:
+> L22: `robots.txt` implements the Robots Exclusion Protocol (RFC 9309).
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "ai-robots-txt/ai.robots.txt 星数(近 23 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-22"]
+    title "ai-robots-txt/ai.robots.txt 星数(近 24 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 4198 --> 4271
-    line [4204, 4207, 4208, 4207, 4211, 4213, 4219, 4225, 4229, 4231, 4235, 4240, 4242, 4211, 4253, 4255, 4256, 4258, 4261, 4264, 4265, 4264, 4265]
+    line [4204, 4207, 4208, 4207, 4211, 4213, 4219, 4225, 4229, 4231, 4235, 4240, 4242, 4211, 4253, 4255, 4256, 4258, 4261, 4264, 4265, 4264, 4265, 4265]
 ```
 
-2026-10-20 4,204 → 2026-11-22 4,265（+61）
+2026-10-21 4,204 → 2026-11-23 4,265（+61）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `d520d65838b5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c82d1b7da0d0` · [字段定义](../../DATASET.md)*

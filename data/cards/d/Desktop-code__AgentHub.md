@@ -1,6 +1,6 @@
 # Desktop-code/AgentHub
 
-⭐ 6 · Java · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Desktop-code/AgentHub) · 个人维护 · 中文 README
+⭐ 6 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Desktop-code/AgentHub) · 个人维护 · 中文 README
 
 **给企业用的可独立部署 Agent 中台：配置编排、统一对话入口**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Desktop-code/AgentHub 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-19", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-15", "2026-11-19", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 7
     line [3, 4, 6, 6]
 ```
 
-2026-11-15 3 → 2026-11-22 6（+3）
+2026-11-15 3 → 2026-11-23 6（+3）
 
 
 ---

@@ -46,12 +46,12 @@ Microfox 是一组以 @microfox/ 为 scope 发布在 npm 上的开源 TypeScript
 ```mermaid
 xychart-beta
     title "microfox-ai/microfox 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
     y-axis "stars" 91 --> 94
     line [93, 92, 92]
 ```
 
-2026-10-20 93 → 2026-11-22 92（-1）
+2026-10-21 93 → 2026-11-23 92（-1）
 
 
 ---

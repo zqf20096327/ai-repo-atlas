@@ -1,6 +1,6 @@
 # yangyixxxx/sunzi-strategy-advisor
 
-⭐ 11 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/yangyixxxx/sunzi-strategy-advisor) · 个人维护 · 中文 README
+⭐ 10 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/yangyixxxx/sunzi-strategy-advisor) · 个人维护 · 中文 README
 
 **把《孙子兵法》执行为决策纪律的 AI Skill，输出战略诊断**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yangyixxxx/sunzi-strategy-advisor 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [11, 10]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 10（-1）
 
 
 ---

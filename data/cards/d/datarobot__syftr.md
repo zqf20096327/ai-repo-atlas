@@ -1,6 +1,6 @@
 # datarobot/syftr
 
-⭐ 346 · Python · MIT · 推送 2026-03-04 · [GitHub](https://github.com/datarobot/syftr) · 组织维护
+⭐ 347 · Python · MIT · 推送 2026-03-04 · [GitHub](https://github.com/datarobot/syftr) · 组织维护
 
 **agent 工作流优化器：按预算搜索 Pareto 最优流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datarobot/syftr 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 343 --> 347
-    line [344, 345, 346, 346]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 343 --> 348
+    line [344, 345, 346, 347]
 ```
 
-2026-10-20 344 → 2026-11-22 346（+2）
+2026-10-21 344 → 2026-11-23 347（+3）
 
 
 ---

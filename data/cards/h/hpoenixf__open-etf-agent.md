@@ -1,6 +1,6 @@
 # hpoenixf/open-etf-agent
 
-⭐ 28 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hpoenixf/open-etf-agent) · [官网](https://hpoenixf.com/eff-agent-article/open-etf-agent) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hpoenixf/open-etf-agent) · [官网](https://hpoenixf.com/eff-agent-article/open-etf-agent) · 个人维护 · 中文 README
 
 **逐模块构建 ETF 投研 Agent 的教学工程：可运行代码与双语解析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hpoenixf/open-etf-agent 星数(近 8 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-23"]
     y-axis "stars" 12 --> 29
     line [13, 14, 19, 20, 21, 27, 28, 28]
 ```
 
-2026-10-29 13 → 2026-11-22 28（+15）
+2026-10-29 13 → 2026-11-23 28（+15）
 
 
 ---

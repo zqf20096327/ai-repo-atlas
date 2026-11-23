@@ -1,6 +1,6 @@
 # niyazmft/droid-ai-toolkit
 
-⭐ 25 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/niyazmft/droid-ai-toolkit) · [官网](https://github.com/niyazmft/droid-ai-toolkit) · 个人维护
+⭐ 26 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/niyazmft/droid-ai-toolkit) · [官网](https://github.com/niyazmft/droid-ai-toolkit) · 个人维护
 
 **在免 root Android（Termux）上安装运行多个 AI 工具的自动化脚本工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "niyazmft/droid-ai-toolkit 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 23, 24, 25, 25]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-23"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 23, 24, 25, 26]
 ```
 
-2026-10-20 23 → 2026-11-22 25（+2）
+2026-10-21 23 → 2026-11-23 26（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # burn001/agent4d
 
-⭐ 5 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/burn001/agent4d) · [官网](https://burn001.github.io/agent4d/) · 个人维护
+⭐ 6 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/burn001/agent4d) · [官网](https://burn001.github.io/agent4d/) · 个人维护
 
 **本地只读 3D 可视化查看器：实时观察 Claude Code 智能体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "burn001/agent4d 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-23"]
+    y-axis "stars" 2 --> 7
+    line [3, 5, 6]
 ```
 
-2026-11-08 3 → 2026-11-22 5（+2）
+2026-11-08 3 → 2026-11-23 6（+3）
 
 
 ---

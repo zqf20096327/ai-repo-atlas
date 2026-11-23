@@ -1,6 +1,6 @@
 # FluxML/Functors.jl
 
-⭐ 124 · Julia · MIT · 推送 2026-11-03 · [GitHub](https://github.com/FluxML/Functors.jl) · [官网](https://fluxml.ai/Functors.jl/stable/) · 组织维护
+⭐ 124 · Julia · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FluxML/Functors.jl) · [官网](https://fluxml.ai/Functors.jl/stable/) · 组织维护
 
 **Julia 库：对嵌套模型结构做参数级映射与重构**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FluxML/Functors.jl 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-21", "2026-11-23"]
     y-axis "stars" 122 --> 125
     line [123, 124, 124]
 ```
 
-2026-10-20 123 → 2026-11-22 124（+1）
+2026-10-21 123 → 2026-11-23 124（+1）
 
 
 ---

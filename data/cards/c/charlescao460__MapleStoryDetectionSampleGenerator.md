@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "charlescao460/MapleStoryDetectionSampleGenerator 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-22"]
+    title "charlescao460/MapleStoryDetectionSampleGenerator 星数(近 6 点)"
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-22", "2026-11-23"]
     y-axis "stars" 50 --> 55
-    line [52, 51, 52, 53, 54]
+    line [52, 51, 52, 53, 54, 54]
 ```
 
-2026-10-20 52 → 2026-11-22 54（+2）
+2026-10-21 52 → 2026-11-23 54（+2）
 
 
 ---

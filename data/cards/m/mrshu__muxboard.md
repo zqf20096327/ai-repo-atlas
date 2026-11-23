@@ -1,6 +1,6 @@
 # mrshu/muxboard
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mrshu/muxboard) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mrshu/muxboard) · 个人维护
 
 **在 Stream Deck+ 上集中监控多个 AI 编程 agent 的仪表盘**
 
@@ -46,12 +46,12 @@ macOS 上的 Elgato Stream Deck+ 插件，把 8 个按键变成 cmux 工作区�
 ```mermaid
 xychart-beta
     title "mrshu/muxboard 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-22 11（+0）
+2026-10-20 11 → 2026-11-23 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # odykyi/gh-skills
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/odykyi/gh-skills) · 个人维护
+⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/odykyi/gh-skills) · 个人维护
 
 **让 AI 编码代理按流程运行 PR 队列的 14 个技能集**
 
@@ -41,6 +41,18 @@
 > L12: **Give your coding agent the runbook a great maintainer uses.** Fourteen skills
 > L23: npx skills add odykyi/gh-skills
 > L71: A pull request is a production line. `pr-workflow-orchestrator` is the line
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "odykyi/gh-skills 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

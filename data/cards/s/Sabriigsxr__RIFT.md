@@ -41,6 +41,18 @@ RIFT 将本地攻防安全问答知识库封装为可检查的 MCP 工具：输�
 > L23: **Implemented:** semantic search with Sentence Transformers + FAISS,
 > L34: The bundled index contains 23,737 aligned entries. Query-time retrieval uses
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Sabriigsxr/RIFT 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f7f32c5929b8` · [字段定义](../../DATASET.md)*

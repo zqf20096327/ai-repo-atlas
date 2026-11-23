@@ -1,6 +1,6 @@
 # shdbl/mpltweak
 
-⭐ 4 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/shdbl/mpltweak) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shdbl/mpltweak) · 个人维护 · 中文 README
 
 **像拖 PPT 一样交互调整 matplotlib 排版并写回代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shdbl/mpltweak 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-10-28", "2026-11-18", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-28 3 → 2026-11-22 4（+1）
+2026-10-28 3 → 2026-11-23 4（+1）
 
 
 ---

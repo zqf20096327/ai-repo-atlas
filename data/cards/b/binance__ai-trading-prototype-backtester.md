@@ -1,6 +1,6 @@
 # binance/ai-trading-prototype-backtester
 
-⭐ 65 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/binance/ai-trading-prototype-backtester) · 组织维护
+⭐ 66 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/binance/ai-trading-prototype-backtester) · 组织维护
 
 **情绪分析加密货币交易策略的回测器，配套实盘机器人**
 
@@ -46,12 +46,12 @@ Binance 维护的开源回测工具，为配套实盘项目 ai-trading-prototype
 ```mermaid
 xychart-beta
     title "binance/ai-trading-prototype-backtester 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 64 --> 67
+    line [65, 66]
 ```
 
-2026-10-20 65 → 2026-11-22 65（+0）
+2026-10-21 65 → 2026-11-23 66（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucasm/findto
 
-⭐ 104 · TypeScript · MIT · 推送 2026-05-30 · [GitHub](https://github.com/lucasm/findto) · [官网](https://aspiral.app) · 个人维护
+⭐ 104 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/lucasm/findto) · [官网](https://aspiral.app) · 个人维护
 
 **面向普通用户的多源去中心化网络与 AI 搜索助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucasm/findto 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 102 --> 105
     line [103, 104, 104]
 ```
 
-2026-10-20 103 → 2026-11-22 104（+1）
+2026-10-21 103 → 2026-11-23 104（+1）
 
 
 ---

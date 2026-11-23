@@ -1,6 +1,6 @@
 # jifengshandian/easyeda-ai-assistant
 
-⭐ 99 · TypeScript · Apache-2.0 · 推送 2026-03-13 · [GitHub](https://github.com/jifengshandian/easyeda-ai-assistant) · [官网](https://github.com/jifengshandian/easyeda-ai-assistant) · 个人维护 · 中文 README
+⭐ 100 · TypeScript · Apache-2.0 · 推送 2026-03-13 · [GitHub](https://github.com/jifengshandian/easyeda-ai-assistant) · [官网](https://github.com/jifengshandian/easyeda-ai-assistant) · 个人维护 · 中文 README
 
 **嘉立创 EDA Pro 原理图 AI 审查对话插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jifengshandian/easyeda-ai-assistant 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 97 --> 100
-    line [98, 99, 98, 99, 99]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 97 --> 101
+    line [98, 99, 98, 99, 100]
 ```
 
-2026-10-20 98 → 2026-11-22 99（+1）
+2026-10-21 98 → 2026-11-23 100（+2）
 
 
 ---

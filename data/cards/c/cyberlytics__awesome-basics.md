@@ -1,6 +1,6 @@
 # cyberlytics/awesome-basics
 
-⭐ 15 · CC-BY-4.0 · 推送 2026-11-16 · [GitHub](https://github.com/cyberlytics/awesome-basics) · 个人维护
+⭐ 15 · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/cyberlytics/awesome-basics) · 个人维护
 
 **德语计算机科学/AI 学习资源清单（本科层级）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyberlytics/awesome-basics 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-13", "2026-11-23"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-20 14 → 2026-11-22 15（+1）
+2026-10-21 14 → 2026-11-23 15（+1）
 
 
 ---

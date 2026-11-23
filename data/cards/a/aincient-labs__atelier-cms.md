@@ -1,6 +1,6 @@
 # aincient-labs/atelier-cms
 
-⭐ 26 · PHP · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/aincient-labs/atelier-cms) · [官网](https://aincient-labs.com) · 组织维护
+⭐ 26 · PHP · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aincient-labs/atelier-cms) · [官网](https://aincient-labs.com) · 组织维护
 
 **自托管 AI 原生 CMS：通过对话管理 Drupal 站点并导出静态站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aincient-labs/atelier-cms 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 23 --> 27
     line [24, 25, 24, 26, 26]
 ```
 
-2026-10-20 24 → 2026-11-22 26（+2）
+2026-10-21 24 → 2026-11-23 26（+2）
 
 
 ---

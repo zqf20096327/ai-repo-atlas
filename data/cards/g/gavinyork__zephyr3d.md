@@ -1,6 +1,6 @@
 # gavinyork/zephyr3d
 
-⭐ 143 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gavinyork/zephyr3d) · [官网](https://zephyr3d.org) · 个人维护 · 中文 README
+⭐ 143 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gavinyork/zephyr3d) · [官网](https://zephyr3d.org) · 个人维护 · 中文 README
 
 **面向浏览器的 TypeScript 3D 渲染引擎，带可视化编辑器**
 
@@ -45,12 +45,12 @@ TypeScript 编写的浏览器 3D 渲染引擎，单一代码库支持 WebGL/WebG
 ```mermaid
 xychart-beta
     title "gavinyork/zephyr3d 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 138 --> 144
     line [139, 140, 141, 139, 143, 143]
 ```
 
-2026-10-20 139 → 2026-11-22 143（+4）
+2026-10-21 139 → 2026-11-23 143（+4）
 
 
 ---

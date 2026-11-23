@@ -46,12 +46,12 @@ ProofOfThought 是一个 Python 3.12 库（PyPI 包名 proofofthought，导入�
 ```mermaid
 xychart-beta
     title "DebarghaG/proofofthought 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 376 --> 378
     line [377, 377]
 ```
 
-2026-10-19 377 → 2026-11-22 377（+0）
+2026-10-20 377 → 2026-11-23 377（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # JostQQ/tradingview-mcp
 
-⭐ 19 · JavaScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/JostQQ/tradingview-mcp) · 个人维护
+⭐ 21 · JavaScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/JostQQ/tradingview-mcp) · 个人维护
 
 **给 agent 提供 TradingView Desktop 自动化能力的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JostQQ/tradingview-mcp 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 4 --> 20
-    line [5, 8, 10, 11, 14, 18, 19, 19]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 4 --> 22
+    line [5, 8, 10, 11, 14, 18, 19, 21]
 ```
 
-2026-11-08 5 → 2026-11-22 19（+14）
+2026-11-08 5 → 2026-11-23 21（+16）
 
 
 ---

@@ -1,10 +1,10 @@
 # onehumanbeing/esp32-iphone-agent
 
-⭐ 5,189 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · [官网](https://manina.ai?ref=github) · 个人维护 · 中文 README
+⭐ 5,227 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · [官网](https://manina.ai?ref=github) · 个人维护 · 中文 README
 
-**用 $7 ESP32 让视觉模型操控真实 iPhone 的 AI Agent**
+**用 $7 ESP32 让 AI 视觉模型操控真实 iPhone**
 
-硬件+应用组合：ESP32-S3 开发板作为 AirPlay 接收端获取 iPhone 屏幕的 H.264 流并转发给 iOS 上的 ESP32 Agent 应用，应用将截图发送至任意 OpenAI 兼容视觉模型，由 planner/actor 生成点击、滑动、输入等动作，再通过 USB/蓝牙 HID 鼠标键盘机制执行；需要开启 AssistiveTouch，支持断链暂停恢复、指针校准与运行回放导出。提供 TestFlight 安装、浏览器烧录固件、npm 发布的 MCP server CLI，以及 Claude Code/Cursor 插件接入方式。要求 iOS 18+，免越狱、免开发者账号。
+软硬结合的 iPhone 自动化方案：ESP32-S3 板作为 AirPlay 接收端镜像屏幕（H.264 直传，TCP :7201），同时充当 USB/蓝牙 HID 鼠标键盘，配套 iOS 应用解码画面后发送截图给任意 OpenAI 兼容视觉模型，由 planner/actor 两级模型生成点击、滑动、输入等动作，并通过指针追踪、预点抖动校正等机制闭合控制回路。无需 Mac、开发者账号或越狱；每次运行在手机上留有可回放、可导出的 trace。提供 TestFlight 应用、浏览器刷写固件路径，以及可被编码代理调用的 MCP 服务器与 Claude Code 插件。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- AirPlay 取屏 + USB/蓝牙 HID 执行的 iPhone 闭环操控架构
-- 支持任意 OpenAI 兼容视觉端点，可分别配置 planner 与 actor 模型
-- 每次运行可回放并导出截图/动作轨迹供其他 agent 分析
-- esp32agent CLI 作为 MCP server，可被编码 agent 驱动
+- AirPlay 镜像（板端 H.264 直传）+ USB/蓝牙 HID 输入组成"眼睛与手"
+- planner/actor 双模型架构，可分别指定模型并支持 extra body JSON 定制
+- esp32agent CLI 提供 MCP 服务器，可被 Claude Code/Cursor 等编码代理驱动
+- 运行留痕：逐步回放、截图与标注导出，供其他 agent 分析
 
 ## 适用场景
 
-- 让 AI 自动在真实 iPhone 上完成 App 内操作任务
-- 把 iPhone 接入 Claude Code 或 Cursor 作为可操控设备
-- 无需 Mac 与开发者账号的 iPhone 自动化实验
+- 让 AI 代为完成 iPhone 上的 App 操作任务（如打开设置连 Wi-Fi）
+- 通过 Siri/快捷方式/控制中心触发已保存的自动任务
+- 把 iPhone 作为 MCP 服务器接入本地编码代理工作流
+- 在无 Mac、无开发者账号的条件下做 iOS UI 自动化实验
 
 ## 场景标签
 
@@ -39,20 +40,20 @@
 
 > L89: - **Brain — the app.** The app decodes the stream, sends screenshots to any OpenAI-compatible vision model, and run
 > L90:  a planner and an actor: tap, swipe, draw, type, press keys, go home, finish. It runs in the background while it
-> L91:  works; the Dynamic Island shows what it is doing.
+> L216: - Any OpenAI-compatible vision endpoint works (vLLM, SGLang, llama.cpp, Ollama, cloud APIs). The app lists the
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "onehumanbeing/esp32-iphone-agent 星数(近 26 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3082 --> 5380
-    line [3273, 3461, 3549, 3623, 3764, 3867, 3939, 4005, 4058, 4094, 4131, 4153, 4191, 3764, 4681, 4809, 4850, 4888, 4911, 4950, 4990, 5027, 5067, 5106, 5158, 5189]
+    title "onehumanbeing/esp32-iphone-agent 星数(近 27 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3078 --> 5422
+    line [3273, 3461, 3549, 3623, 3764, 3867, 3939, 4005, 4058, 4094, 4131, 4153, 4191, 3764, 4681, 4809, 4850, 4888, 4911, 4950, 4990, 5027, 5067, 5106, 5158, 5189, 5227]
 ```
 
-2026-10-19 3,273 → 2026-11-22 5,189（+1,916）
+2026-10-20 3,273 → 2026-11-23 5,227（+1,954）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e44fe0d9bff5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `93529f5acb81` · [字段定义](../../DATASET.md)*

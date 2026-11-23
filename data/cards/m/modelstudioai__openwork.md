@@ -1,6 +1,6 @@
 # modelstudioai/openwork
 
-⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/modelstudioai/openwork) · [官网](https://modelstudioai.github.io/openwork/) · 组织维护 · 中文 README
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/modelstudioai/openwork) · [官网](https://modelstudioai.github.io/openwork/) · 组织维护 · 中文 README
 
 **本地优先的 AI agent 工作流桌面应用**
 
@@ -47,12 +47,12 @@ ModelStudio 推出的桌面应用，供用户在本地与 AI agent 协作：多�
 ```mermaid
 xychart-beta
     title "modelstudioai/openwork 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-20 30 → 2026-11-22 30（+0）
+2026-10-21 30 → 2026-11-23 30（+0）
 
 
 ---

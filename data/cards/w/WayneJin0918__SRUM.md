@@ -1,6 +1,6 @@
 # WayneJin0918/SRUM
 
-⭐ 102 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/WayneJin0918/SRUM) · [官网](https://waynejin0918.github.io/srum_web/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **统一多模态模型的自奖励后训练方法（科研代码）**
 
@@ -11,7 +11,7 @@ ECCV 投稿的科研工作：提出 SRUM（Fine-Grained Self-Rewarding for Unifi
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

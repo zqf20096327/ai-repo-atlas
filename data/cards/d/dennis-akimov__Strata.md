@@ -1,6 +1,6 @@
 # dennis-akimov/Strata
 
-⭐ 4 · C++ · MIT · 推送 2026-11-09 · [GitHub](https://github.com/dennis-akimov/Strata) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **在 Mac 上本地运行 100B 级大模型的推理引擎与应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |

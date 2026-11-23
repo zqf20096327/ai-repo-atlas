@@ -1,6 +1,6 @@
 # Badtheorylabs/BTL-3
 
-⭐ 19 · C++ · MIT · 推送 2026-07-24 · [GitHub](https://github.com/Badtheorylabs/BTL-3) · 组织维护
+⭐ 20 · C++ · MIT · 推送 2026-07-24 · [GitHub](https://github.com/Badtheorylabs/BTL-3) · 组织维护
 
 **Bad Theory Labs 的 27B 编码与工具调用模型及原生本地推理运行时**
 
@@ -46,12 +46,12 @@ BTL-3 是基于 Qwen3.6-27B 的 27B 编码与工具调用模型（RL-0013 冻结
 ```mermaid
 xychart-beta
     title "Badtheorylabs/BTL-3 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-19 19 → 2026-11-22 19（+0）
+2026-10-20 19 → 2026-11-23 20（+1）
 
 
 ---

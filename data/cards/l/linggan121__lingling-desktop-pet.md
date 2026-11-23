@@ -1,6 +1,6 @@
 # linggan121/lingling-desktop-pet
 
-⭐ 95 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/linggan121/lingling-desktop-pet) · 个人维护 · 中文 README
+⭐ 96 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/linggan121/lingling-desktop-pet) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 桌宠：拖文件即可离线转格式、拆 PDF、提取文字**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "linggan121/lingling-desktop-pet 星数(近 6 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 0 --> 104
-    line [5, 69, 86, 93, 95, 95]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 0 --> 105
+    line [5, 69, 86, 93, 95, 96]
 ```
 
-2026-11-15 5 → 2026-11-22 95（+90）
+2026-11-15 5 → 2026-11-23 96（+91）
 
 
 ---

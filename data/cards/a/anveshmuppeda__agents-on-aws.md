@@ -1,6 +1,6 @@
 # anveshmuppeda/agents-on-aws
 
-⭐ 3 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/anveshmuppeda/agents-on-aws) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/anveshmuppeda/agents-on-aws) · 个人维护
 
 **面向开发者的 AWS AgentCore AI 代理实操教程集（66 篇）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anveshmuppeda/agents-on-aws 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-22"]
+    x-axis ["2026-10-30", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-30 3 → 2026-11-22 3（+0）
+2026-10-30 3 → 2026-11-23 3（+0）
 
 
 ---

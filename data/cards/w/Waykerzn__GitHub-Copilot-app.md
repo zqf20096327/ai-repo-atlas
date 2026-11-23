@@ -45,13 +45,13 @@ GitHub 官方的 agent-native 桌面应用，为从想法到 pull request 的软
 
 ```mermaid
 xychart-beta
-    title "Waykerzn/GitHub-Copilot-app 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "Waykerzn/GitHub-Copilot-app 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 51 --> 63
-    line [62, 57, 56, 52]
+    line [62, 57, 56, 52, 52]
 ```
 
-2026-11-18 62 → 2026-11-22 52（-10）
+2026-11-18 62 → 2026-11-23 52（-10）
 
 
 ---

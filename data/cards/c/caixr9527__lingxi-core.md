@@ -1,6 +1,6 @@
 # caixr9527/lingxi-core
 
-⭐ 12 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/caixr9527/lingxi-core) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **零代码构建 AI 应用与工作流并一键发布的开发平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

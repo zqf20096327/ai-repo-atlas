@@ -1,6 +1,6 @@
 # zinverno/veynrel
 
-⭐ 32 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/zinverno/veynrel) · [官网](https://github.com/zinverno/veynrel/blob/a25427589443d23997243b3b532caa8b20ed5d25/docs/wiki/Home.md) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/zinverno/veynrel) · [官网](https://github.com/zinverno/veynrel/blob/a25427589443d23997243b3b532caa8b20ed5d25/docs/wiki/Home.md) · 个人维护
 
 **Obsidian 笔记连接审阅、受控变更与间隔重复插件，AI 可选**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zinverno/veynrel 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 32, 32]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 28 --> 35
+    line [29, 30, 32, 34]
 ```
 
-2026-10-20 29 → 2026-11-22 32（+3）
+2026-10-21 29 → 2026-11-23 34（+5）
 
 
 ---

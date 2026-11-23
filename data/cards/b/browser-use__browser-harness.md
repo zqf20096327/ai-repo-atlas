@@ -1,10 +1,10 @@
 # browser-use/browser-harness
 
-⭐ 19,185 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
+⭐ 19,195 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
 
-**让 Claude Code/Codex/Cursor 驱动你已登录的真实 Chrome 的工具**
+**让编码 Agent 接管你已登录的真实 Chrome 浏览器**
 
-通过 Chrome DevTools Protocol (CDP) 将编码 agent（Claude Code、Codex、Cursor 及任意 MCP 客户端）连接到用户本人已登录的真实 Chrome，可打开页面、点击、输入、读取与下载。设置方式是把一段 setup prompt 粘贴给编码 agent，由 agent 用 uv + Python 3.12 安装并注册技能；agent 在本地工作区自行编写缺失的 helper 以扩展能力。另提供 browser-harness-mcp 以 MCP server 形式供各客户端使用，并与 Playwright MCP 等工具附有基准对比与场景建议。
+Browser Harness 通过 Chrome DevTools Protocol（CDP）让 Claude Code、Codex 或 Cursor 等编码 Agent 操作用户本人已登录的 Chrome：打开页面、点击、输入、读取和下载文件。安装方式为向编码 Agent 粘贴一段 setup prompt，Agent 自动完成连接配置；工作过程中 Agent 在本地 workspace 编写可复用 helper，SKILL.md 提供浏览器工作流说明。现作为 Browser Use 的引擎，提供 `browser-use --cli-mcp` 的 MCP 服务器供任意 MCP 客户端使用；也提供 Browser Use Cloud 用于多浏览器并行场景。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 经 CDP 驱动用户本人已登录的真实 Chrome 浏览器
-- 一段 setup prompt 即可让编码 agent 完成安装与连接
-- agent 在本地工作区自写 helper，任务越多能力越丰富
-- 提供 browser-harness-mcp 供任意 MCP 客户端使用
+- 通过 CDP 驱动用户已登录的真实 Chrome，保留登录态
+- 粘贴 setup prompt 即可由编码 Agent 自动完成配置
+- Agent 运行时自动编写可复用 helper，源码目录受保护
+- 提供 MCP 服务器（browser-use --cli-mcp）供任意 MCP 客户端接入
 
 ## 适用场景
 
-- 让 Claude Code/Codex/Cursor 代我操作已登录的网页账号
-- 用自然语言让 agent 下载、读取网页内容
-- 在 Browser Use Cloud 中并行扩展浏览器任务
+- 让编码 Agent 以我的登录身份操作网页（如下载我账号下的视频）
+- 在 Cursor 中通过 MCP 配置接入浏览器控制
+- 需要多浏览器并行、代理与验证码处理时使用配套云服务
 
 ## 场景标签
 
@@ -44,21 +44,22 @@
 
 ## 证据(README 行号)
 
-> L5: Browser Harness lets Claude Code, Codex or Cursor use your real Chrome browser: open pages, click, type, read and do
-> L92: `browser-harness-mcp` exposes the browser control helpers as MCP tools over
+> L4: > **Browser Harness is now the engine inside Browser Use.** Use the `browser-use` CLI: same helpers and daemon, plus
+> L18: Browser Harness lets Claude Code, Codex or Cursor use your real Chrome browser: open pages, click, type, read and d
+> L105: `browser-use --cli-mcp` exposes the browser control helpers as MCP tools over
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "browser-use/browser-harness 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 18429 --> 19253
-    line [18497, 18538, 18564, 18585, 18588, 18610, 18636, 18657, 18677, 18701, 18755, 18779, 18802, 18588, 18954, 19006, 19030, 19049, 19067, 19081, 19091, 19099, 19128, 19149, 19160, 19169, 19185]
+    title "browser-use/browser-harness 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 18428 --> 19264
+    line [18497, 18538, 18564, 18585, 18588, 18610, 18636, 18657, 18677, 18701, 18755, 18779, 18802, 18588, 18954, 19006, 19030, 19049, 19067, 19081, 19091, 19099, 19128, 19149, 19160, 19169, 19185, 19195]
 ```
 
-2026-10-20 18,497 → 2026-11-22 19,185（+688）
+2026-10-21 18,497 → 2026-11-23 19,195（+698）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ddf1a7dc5131` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ab0f9bfe895e` · [字段定义](../../DATASET.md)*

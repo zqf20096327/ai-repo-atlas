@@ -47,12 +47,12 @@ Tauri + Rust + React 构建的桌面数据库客户端，支持 SQLite 原生读
 ```mermaid
 xychart-beta
     title "createdbyadham/LiteDB 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-22 10（+0）
+2026-11-19 10 → 2026-11-23 10（+0）
 
 
 ---

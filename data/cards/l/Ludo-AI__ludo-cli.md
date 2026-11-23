@@ -1,6 +1,6 @@
 # Ludo-AI/ludo-cli
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Ludo-AI/ludo-cli) · [官网](https://ludo.ai/developers/cli) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Ludo-AI/ludo-cli) · [官网](https://ludo.ai/developers/cli) · 组织维护
 
 **给游戏开发者与编程代理的 AI 游戏资产生成 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ludo-AI/ludo-cli 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 14
-    line [3, 4, 5, 12, 13]
+    title "Ludo-AI/ludo-cli 星数(近 6 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 15
+    line [3, 4, 5, 12, 13, 14]
 ```
 
-2026-10-31 3 → 2026-11-22 13（+10）
+2026-10-31 3 → 2026-11-23 14（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # williamdh457/claude-anti-ban
 
-⭐ 5 · PowerShell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/williamdh457/claude-anti-ban) · 个人维护 · 中文 README
+⭐ 19 · PowerShell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/williamdh457/claude-anti-ban) · 个人维护 · 中文 README
 
 **面向 Claude 用户的防封环境配置 skill：让 AI 自动完成一致性环境搭建**
 
@@ -40,6 +40,18 @@
 > L3: > **全自动**：你把需求说一次，AI 探测环境、清痕迹、搭节点、配分流、对齐时区、封泄露、建虚拟机、验收、清场，全程只在 7 个必须由人决定的地方问你一次。
 > L25: ### 1. 把这段发给你的 AI（Claude Code / Codex / Cursor）
 > L139: ## 装进你的 Agent
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "williamdh457/claude-anti-ban 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 4 --> 20
+    line [5, 19]
+```
+
+2026-11-22 5 → 2026-11-23 19（+14）
 
 
 ---

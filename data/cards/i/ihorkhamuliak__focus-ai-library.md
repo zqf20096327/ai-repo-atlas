@@ -1,6 +1,6 @@
 # ihorkhamuliak/focus-ai-library
 
-⭐ 12 · 推送 2026-11-05 · [GitHub](https://github.com/ihorkhamuliak/focus-ai-library) · 组织维护
+⭐ 12 · 推送 2026-11-22 · [GitHub](https://github.com/ihorkhamuliak/focus-ai-library) · 组织维护
 
 **Focus 社区 AI 分支的工具/课程/技能编目库，每条带不适用判定**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ihorkhamuliak/focus-ai-library 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 9 --> 13
     line [10, 12, 12]
 ```
 
-2026-10-20 10 → 2026-11-22 12（+2）
+2026-10-21 10 → 2026-11-23 12（+2）
 
 
 ---

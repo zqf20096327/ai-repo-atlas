@@ -1,6 +1,6 @@
 # Yuanpeng-Li/runfleet
 
-⭐ 7 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Yuanpeng-Li/runfleet) · [官网](https://yuanpeng-li.github.io/runfleet/) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Yuanpeng-Li/runfleet) · [官网](https://yuanpeng-li.github.io/runfleet/) · 个人维护
 
 **一个终端监控 Slurm 作业与 GPU 机器的工具，基于 SSH**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yuanpeng-Li/runfleet 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 4 --> 8
     line [5, 6, 7, 5, 7, 7]
 ```
 
-2026-10-20 5 → 2026-11-22 7（+2）
+2026-10-21 5 → 2026-11-23 7（+2）
 
 
 ---

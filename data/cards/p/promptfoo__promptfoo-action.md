@@ -1,6 +1,6 @@
 # promptfoo/promptfoo-action
 
-⭐ 81 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/promptfoo/promptfoo-action) · 组织维护
+⭐ 81 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/promptfoo/promptfoo-action) · 组织维护
 
 **在 GitHub Actions 中运行 Promptfoo 提示词评测的官方 Action**
 
@@ -46,12 +46,12 @@ Promptfoo 官方 GitHub Action：当受监控文件变更时触发 Promptfoo 评
 ```mermaid
 xychart-beta
     title "promptfoo/promptfoo-action 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 74 --> 82
     line [75, 76, 77, 78, 77, 81, 81]
 ```
 
-2026-10-20 75 → 2026-11-22 81（+6）
+2026-10-21 75 → 2026-11-23 81（+6）
 
 
 ---

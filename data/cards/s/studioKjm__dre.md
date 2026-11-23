@@ -1,6 +1,6 @@
 # studioKjm/dre
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/studioKjm/dre) · [官网](https://www.npmjs.com/package/dre-agents) · 个人维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/studioKjm/dre) · [官网](https://www.npmjs.com/package/dre-agents) · 个人维护
 
 **为 AI agent 提供目标产品商业/领域分析工具的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "studioKjm/dre 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-22 3（+0）
+2026-11-10 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # bankerneel/wamt
 
-⭐ 3 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bankerneel/wamt) · [官网](https://whoatemytokens.vercel.app) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bankerneel/wamt) · [官网](https://whoatemytokens.neelbanker.com) · 个人维护
 
 **本地只读的 agent token 观测面板：用量、限额与成本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bankerneel/wamt 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-22 3（+0）
+2026-11-20 3 → 2026-11-23 3（+0）
 
 
 ---

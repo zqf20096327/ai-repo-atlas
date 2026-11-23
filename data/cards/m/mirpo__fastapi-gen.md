@@ -45,12 +45,12 @@ Python 命令行工具，通过 uvx/pip 安装后以 fastapi-gen my_app 生成 F
 ```mermaid
 xychart-beta
     title "mirpo/fastapi-gen 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

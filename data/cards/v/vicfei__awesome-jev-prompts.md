@@ -1,6 +1,6 @@
 # vicfei/awesome-jev-prompts
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/vicfei/awesome-jev-prompts) · 个人维护 · 中文 README
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/vicfei/awesome-jev-prompts) · 个人维护 · 中文 README
 
 **Jev 类型化决策模型的提问模式与校准笔记策展清单**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vicfei/awesome-jev-prompts 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    title "vicfei/awesome-jev-prompts 星数(近 8 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22", "2026-11-23"]
     y-axis "stars" 7 --> 16
-    line [8, 9, 10, 9, 13, 14, 15]
+    line [8, 9, 10, 9, 13, 14, 15, 15]
 ```
 
-2026-10-20 8 → 2026-11-22 15（+7）
+2026-10-21 8 → 2026-11-23 15（+7）
 
 
 ---

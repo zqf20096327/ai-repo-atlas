@@ -1,6 +1,6 @@
 # NathanAB/statuslin.es
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/NathanAB/statuslin.es) · [官网](https://statuslin.es) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NathanAB/statuslin.es) · [官网](https://statuslin.es) · 个人维护
 
 **Claude Code 状态栏配置社区画廊：展示真实渲染预览**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NathanAB/statuslin.es 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-20 14 → 2026-11-22 15（+1）
+2026-10-21 14 → 2026-11-23 15（+1）
 
 
 ---

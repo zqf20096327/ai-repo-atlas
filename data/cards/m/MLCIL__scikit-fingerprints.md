@@ -1,6 +1,6 @@
 # MLCIL/scikit-fingerprints
 
-⭐ 405 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MLCIL/scikit-fingerprints) · [官网](https://scikit-fingerprints.readthedocs.io/latest/) · 组织维护
+⭐ 406 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MLCIL/scikit-fingerprints) · [官网](https://scikit-fingerprints.readthedocs.io/latest/) · 组织维护
 
 **化学信息学库：为分子提供 30+ 种分子指纹与 ML 管道**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MLCIL/scikit-fingerprints 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 397 --> 406
-    line [398, 400, 401, 402, 401, 403, 404, 405, 404, 405]
+    title "MLCIL/scikit-fingerprints 星数(近 11 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 397 --> 407
+    line [398, 400, 401, 402, 401, 403, 404, 405, 404, 405, 406]
 ```
 
-2026-10-20 398 → 2026-11-22 405（+7）
+2026-10-21 398 → 2026-11-23 406（+8）
 
 
 ---

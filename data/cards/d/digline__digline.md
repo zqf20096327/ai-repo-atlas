@@ -1,6 +1,6 @@
 # digline/digline
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/digline/digline) · [官网](https://digline.dev) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/digline/digline) · [官网](https://digline.dev) · 组织维护
 
 **为 LLM 应用在 CI 中做回归测试的 Python CLI 与 pytest 插件**
 
@@ -46,12 +46,12 @@ digline 记录 agent 或应用与模型的收发内容，无需改动代码即�
 ```mermaid
 xychart-beta
     title "digline/digline 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-13 10 → 2026-11-22 10（+0）
+2026-11-13 10 → 2026-11-23 10（+0）
 
 
 ---

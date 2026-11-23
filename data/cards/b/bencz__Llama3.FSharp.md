@@ -42,6 +42,18 @@ F# 编写的 Llama/Qwen 推理运行时，起源于 likejazz/llama3.cuda 的移�
 > L4: A single implementation of the transformer runs on **CPU**, **GPU (CUDA)** or **both (hybrid)**, with GPU memory pla
 > L7: - **GPU:** kernels written in F# and compiled to PTX at runtime by ILGPU. Only the **NVIDIA driver** is needed: no C
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bencz/Llama3.FSharp 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dafb6d8f1de2` · [字段定义](../../DATASET.md)*

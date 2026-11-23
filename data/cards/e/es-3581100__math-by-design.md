@@ -1,6 +1,6 @@
 # es-3581100/math-by-design
 
-⭐ 4 · HTML · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/es-3581100/math-by-design) · [官网](https://es-3581100.github.io/math-by-design/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI agent 用的数学化 UI 设计语法与调色/字体引擎**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

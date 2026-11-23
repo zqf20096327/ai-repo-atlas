@@ -46,12 +46,12 @@ npm 分发的 CLI 工具，指向任意 .md 文件夹（含 Obsidian/Logseq 等�
 ```mermaid
 xychart-beta
     title "doshkim/vault-gardener 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-22 10（+0）
+2026-11-20 10 → 2026-11-23 10（+0）
 
 
 ---

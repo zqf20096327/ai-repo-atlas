@@ -1,6 +1,6 @@
 # dohwi/pipaya
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dohwi/pipaya) · [官网](https://pipaya.dohwi.com) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dohwi/pipaya) · [官网](https://pipaya.dohwi.com) · 个人维护
 
 **自托管在自有服务器上的 AI agent 聊天工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dohwi/pipaya 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 3, 4, 4]
 ```
 
-2026-10-22 3 → 2026-11-22 4（+1）
+2026-10-22 3 → 2026-11-23 4（+1）
 
 
 ---

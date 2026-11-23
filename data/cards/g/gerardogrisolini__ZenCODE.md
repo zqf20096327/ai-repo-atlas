@@ -1,6 +1,6 @@
 # gerardogrisolini/ZenCODE
 
-⭐ 12 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gerardogrisolini/ZenCODE) · [官网](https://github.com/gerardogrisolini/ZenCODE/blob/main/Docs/why-zen.md) · 个人维护
+⭐ 13 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gerardogrisolini/ZenCODE) · [官网](https://github.com/gerardogrisolini/ZenCODE/blob/main/Docs/why-zen.md) · 个人维护
 
 **终端与 ACP 客户端的原生 Swift 编码 agent，单二进制运行**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gerardogrisolini/ZenCODE 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "gerardogrisolini/ZenCODE 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-02 10 → 2026-11-22 12（+2）
+2026-11-02 10 → 2026-11-23 13（+3）
 
 
 ---

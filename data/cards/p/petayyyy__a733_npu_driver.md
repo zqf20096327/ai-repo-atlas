@@ -1,6 +1,6 @@
 # petayyyy/a733_npu_driver
 
-⭐ 11 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/petayyyy/a733_npu_driver) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/petayyyy/a733_npu_driver) · 个人维护
 
 **在 Allwinner A733 NPU 上运行小型 LLM/VLM 推理的工具链与指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "petayyyy/a733_npu_driver 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-26 10 → 2026-11-22 11（+1）
+2026-10-26 10 → 2026-11-23 12（+2）
 
 
 ---

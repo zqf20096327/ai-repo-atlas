@@ -1,6 +1,6 @@
 # complydoc/complydoc
 
-⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/complydoc/complydoc) · [官网](complydoc.io) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/complydoc/complydoc) · [官网](complydoc.io) · 组织维护
 
 **RAG 文档摄取的审计工具：比较 loader、追踪步骤与识别泄漏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "complydoc/complydoc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-21", "2026-11-23"]
     y-axis "stars" 7 --> 12
     line [8, 10, 11, 11]
 ```
 
-2026-10-18 8 → 2026-11-22 11（+3）
+2026-10-18 8 → 2026-11-23 11（+3）
 
 
 ---

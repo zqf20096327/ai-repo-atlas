@@ -1,6 +1,6 @@
 # Nayjest/lm-proxy
 
-⭐ 161 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Nayjest/lm-proxy) · 个人维护
+⭐ 161 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nayjest/lm-proxy) · 个人维护
 
 **面向开发者的 OpenAI 兼容多提供商 LLM 代理网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nayjest/lm-proxy 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-15", "2026-11-23"]
     y-axis "stars" 156 --> 162
     line [157, 160, 161, 161]
 ```
 
-2026-10-20 157 → 2026-11-22 161（+4）
+2026-10-21 157 → 2026-11-23 161（+4）
 
 
 ---

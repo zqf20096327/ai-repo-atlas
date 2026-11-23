@@ -1,6 +1,6 @@
 # palomo1632-prog/agente-dsh
 
-⭐ 5 · JavaScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/palomo1632-prog/agente-dsh) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管在 VPS 上的西班牙语 Telegram 个人 AI 代理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

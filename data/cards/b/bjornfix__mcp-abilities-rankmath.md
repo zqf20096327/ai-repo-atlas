@@ -1,6 +1,6 @@
 # bjornfix/mcp-abilities-rankmath
 
-⭐ 16 · PHP · 推送 2026-11-06 · [GitHub](https://github.com/bjornfix/mcp-abilities-rankmath) · [官网](https://devenia.com/plugins/mcp-abilities-rankmath/) · 个人维护
+⭐ 16 · PHP · 推送 2026-11-22 · [GitHub](https://github.com/bjornfix/mcp-abilities-rankmath) · [官网](https://devenia.com/plugins/mcp-abilities-rankmath/) · 个人维护
 
 **WordPress 插件：让 MCP agent 读写 Rank Math SEO 数据**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bjornfix/mcp-abilities-rankmath 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-12", "2026-11-23"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-20 15 → 2026-11-22 16（+1）
+2026-10-21 15 → 2026-11-23 16（+1）
 
 
 ---

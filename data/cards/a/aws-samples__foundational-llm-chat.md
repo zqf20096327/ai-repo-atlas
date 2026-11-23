@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/foundational-llm-chat 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-19 36 → 2026-11-22 36（+0）
+2026-10-20 36 → 2026-11-23 36（+0）
 
 
 ---

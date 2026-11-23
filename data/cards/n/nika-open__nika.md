@@ -1,6 +1,6 @@
 # nika-open/nika
 
-⭐ 100 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/nika-open/nika) · [官网](https://nika.sh) · 组织维护
+⭐ 100 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/nika-open/nika) · [官网](https://nika.sh) · 组织维护
 
 **把重复的 AI 工作固化为可检查、可验证的工作流文件**
 
@@ -47,12 +47,12 @@ Nika 是一个开源（AGPL-3.0）的本地优先工作流引擎：将自然语�
 ```mermaid
 xychart-beta
     title "nika-open/nika 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-11-21 100 → 2026-11-22 100（+0）
+2026-11-21 100 → 2026-11-23 100（+0）
 
 
 ---

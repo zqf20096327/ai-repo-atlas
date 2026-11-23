@@ -1,6 +1,6 @@
 # cubxxw/blog
 
-⭐ 55 · JavaScript · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/cubxxw/blog) · [官网](https://cubxxw.com/zh) · 个人维护 · 中文 README
+⭐ 55 · JavaScript · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/cubxxw/blog) · [官网](https://cubxxw.com/zh) · 个人维护 · 中文 README
 
 **个人博客仓库：AI/Agent 实践、工作流与思考的公开写作现场**
 
@@ -47,12 +47,12 @@ cubxxw 的个人公开写作仓库（cubxxw.com 站点源码），文章围绕�
 ```mermaid
 xychart-beta
     title "cubxxw/blog 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-23"]
     y-axis "stars" 27 --> 57
     line [29, 30, 53, 54, 55, 55]
 ```
 
-2026-10-20 29 → 2026-11-22 55（+26）
+2026-10-21 29 → 2026-11-23 55（+26）
 
 
 ---

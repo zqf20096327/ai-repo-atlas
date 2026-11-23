@@ -1,6 +1,6 @@
 # FAHTHIZ/oasis
 
-⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/FAHTHIZ/oasis) · [官网](https://github.com/FAHTHIZ/oasis/releases/latest) · 个人维护
+⭐ 9 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/FAHTHIZ/oasis) · 个人维护
 
 **接任意模型的终端与自托管 Web 编码代理**
 
@@ -47,12 +47,12 @@ OASIS 是一个开源编码代理，提供终端 CLI 与自托管的 Web 应用�
 ```mermaid
 xychart-beta
     title "FAHTHIZ/oasis 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 4, 4]
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 3 --> 10
+    line [4, 5, 4, 9]
 ```
 
-2026-10-29 4 → 2026-11-22 4（+0）
+2026-10-29 4 → 2026-11-23 9（+5）
 
 
 ---

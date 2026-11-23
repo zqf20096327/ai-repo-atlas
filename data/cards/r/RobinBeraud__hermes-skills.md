@@ -1,6 +1,6 @@
 # RobinBeraud/hermes-skills
 
-⭐ 10 · Python · 推送 2026-11-21 · [GitHub](https://github.com/RobinBeraud/hermes-skills) · 个人维护
+⭐ 10 · Python · 推送 2026-11-22 · [GitHub](https://github.com/RobinBeraud/hermes-skills) · 个人维护
 
 **为 Hermes Agent 提供 29 个即装即用技能的开源库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "RobinBeraud/hermes-skills 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-23"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # YanzuoLu/ComfyUI-MiniMax-H3-RAVEN-Streaming
 
-⭐ 10 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/YanzuoLu/ComfyUI-MiniMax-H3-RAVEN-Streaming) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/YanzuoLu/ComfyUI-MiniMax-H3-RAVEN-Streaming) · 个人维护
 
 **为 ComfyUI 提供 MiniMax H3 流式文生视频+音频的节点包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YanzuoLu/ComfyUI-MiniMax-H3-RAVEN-Streaming 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-19 10 → 2026-11-22 10（+0）
+2026-10-20 10 → 2026-11-23 11（+1）
 
 
 ---

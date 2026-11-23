@@ -1,6 +1,6 @@
 # agentmail-to/agentmail-examples
 
-⭐ 44 · Python · 推送 2026-08-11 · [GitHub](https://github.com/agentmail-to/agentmail-examples) · [官网](https://agentmail.to) · 组织维护
+⭐ 45 · Python · 推送 2026-08-11 · [GitHub](https://github.com/agentmail-to/agentmail-examples) · [官网](https://agentmail.to) · 组织维护
 
 **AgentMail 邮件 API 的 AI agent 示例与模板合集**
 
@@ -46,12 +46,12 @@ AgentMail（面向 AI agent 的邮件 API）官方维护的示例仓库：提供
 ```mermaid
 xychart-beta
     title "agentmail-to/agentmail-examples 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 44, 45]
 ```
 
-2026-10-20 42 → 2026-11-22 44（+2）
+2026-10-21 42 → 2026-11-23 45（+3）
 
 
 ---

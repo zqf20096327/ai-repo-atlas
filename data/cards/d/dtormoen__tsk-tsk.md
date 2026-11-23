@@ -1,6 +1,6 @@
 # dtormoen/tsk-tsk
 
-⭐ 172 · Rust · MIT · 推送 2026-07-29 · [GitHub](https://github.com/dtormoen/tsk-tsk) · 个人维护
+⭐ 171 · Rust · MIT · 推送 2026-07-29 · [GitHub](https://github.com/dtormoen/tsk-tsk) · 个人维护
 
 **将开发任务委托给沙箱容器内 AI 编码代理的自动化工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dtormoen/tsk-tsk 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 170 --> 173
-    line [171, 172, 172]
+    line [171, 172, 171]
 ```
 
-2026-10-20 171 → 2026-11-22 172（+1）
+2026-10-21 171 → 2026-11-23 171（+0）
 
 
 ---

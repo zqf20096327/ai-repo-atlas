@@ -1,6 +1,6 @@
 # EasyMetaAu/helm-api
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EasyMetaAu/helm-api) · 组织维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EasyMetaAu/helm-api) · 组织维护 · 中文 README
 
 **自托管 LLM 路由网关：按配置分发多协议流量并记录决策**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EasyMetaAu/helm-api 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-19 31 → 2026-11-22 31（+0）
+2026-10-20 31 → 2026-11-23 32（+1）
 
 
 ---

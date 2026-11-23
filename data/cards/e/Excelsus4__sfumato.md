@@ -1,6 +1,6 @@
 # Excelsus4/sfumato
 
-⭐ 5 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Excelsus4/sfumato) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Excelsus4/sfumato) · 个人维护
 
 **给 AI agent 的双轨跨域头脑风暴提示技能**
 
@@ -39,6 +39,18 @@ Sfumato 是一个以纯文本文件形式分发的 agent 技能（/sfumato、/sf
 
 > L20: > **Sfumato** is an ultra-lightweight agent skill (`/sfumato`, `/sfm`) that does the same for frontier LLMs — **4 p
 > L105: 1. **Polarity-Aware Cluster-Stratified Code RNG (`sample_domains.py`):** Never ask an LLM to "pick random domains"
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Excelsus4/sfumato 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-22 5 → 2026-11-23 6（+1）
 
 
 ---

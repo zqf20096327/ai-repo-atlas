@@ -1,6 +1,6 @@
 # archestack/best-of-ai
 
-⭐ 9 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/archestack/best-of-ai) · [官网](https://archestack.com/best-of-ai/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向选型者的开源 AI 项目排名清单（1,801 个，21 类）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

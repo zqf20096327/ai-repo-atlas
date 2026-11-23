@@ -1,6 +1,6 @@
 # aimasteracc/tree-sitter-analyzer
 
-⭐ 61 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/aimasteracc/tree-sitter-analyzer) · 个人维护 · 中文 README
+⭐ 61 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aimasteracc/tree-sitter-analyzer) · 个人维护 · 中文 README
 
 **本地代码智能 MCP 服务器：为 AI agent 提供跨语言调用图与结构化查询**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aimasteracc/tree-sitter-analyzer 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
     y-axis "stars" 59 --> 62
     line [60, 61, 61]
 ```
 
-2026-10-20 60 → 2026-11-22 61（+1）
+2026-10-21 60 → 2026-11-23 61（+1）
 
 
 ---

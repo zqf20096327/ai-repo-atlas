@@ -1,6 +1,6 @@
 # vrajpal-jhala/langgraph-harness
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/vrajpal-jhala/langgraph-harness) · [官网](https://vrajpal-jhala.github.io/langgraph-harness/) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vrajpal-jhala/langgraph-harness) · [官网](https://vrajpal-jhala.github.io/langgraph-harness/) · 个人维护
 
 **面向 GitLab 的自托管 AI 编程代理平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vrajpal-jhala/langgraph-harness 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-23"]
     y-axis "stars" 29 --> 34
     line [30, 31, 32, 33, 33]
 ```
 
-2026-10-20 30 → 2026-11-22 33（+3）
+2026-10-21 30 → 2026-11-23 33（+3）
 
 
 ---

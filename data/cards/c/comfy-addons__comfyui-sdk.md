@@ -45,12 +45,12 @@ TypeScript 编写的 ComfyUI API 交互 SDK：提供 ComfyApi 客户端、流式
 ```mermaid
 xychart-beta
     title "comfy-addons/comfyui-sdk 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-23"]
     y-axis "stars" 266 --> 269
     line [267, 268, 268]
 ```
 
-2026-10-20 267 → 2026-11-22 268（+1）
+2026-10-21 267 → 2026-11-23 268（+1）
 
 
 ---

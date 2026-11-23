@@ -44,12 +44,12 @@ puLL-Merge 是一个 GitHub Action，在 pull request 工作流中调用 LLM 对
 ```mermaid
 xychart-beta
     title "brave/pull-merge 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-19 23 → 2026-11-22 24（+1）
+2026-10-20 23 → 2026-11-23 24（+1）
 
 
 ---

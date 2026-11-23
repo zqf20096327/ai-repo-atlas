@@ -1,6 +1,6 @@
 # gitcodeci19/easylang
 
-⭐ 3 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/gitcodeci19/easylang) · 个人维护
+⭐ 3 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/gitcodeci19/easylang) · 个人维护
 
 **面向英语学习者的浏览器扩展：在任意网页生成 AI 课程与卡片**
 
@@ -39,6 +39,18 @@ LingoEx 是一款浏览器扩展（Chrome/Edge/Brave，开发者模式加载）�
 
 > L19: - Yapay zekâ hatalarınızı ve doğrularınızı analiz ederek eksiklerinize odaklanan kişisel dersler oluşturur.
 > L28: Groq, NVIDIA ve AMD gibi şirketler, geliştiricilerin kullanabilmesi için ücretsiz API erişimi sunuyor. Bu sayede ke
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gitcodeci19/easylang 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

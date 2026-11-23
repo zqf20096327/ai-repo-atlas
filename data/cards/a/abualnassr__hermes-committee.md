@@ -1,6 +1,6 @@
 # abualnassr/hermes-committee
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/abualnassr/hermes-committee) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/abualnassr/hermes-committee) · 个人维护
 
 **给 Hermes Agent 用的多模型委员会决策插件：盲评辩论出裁决**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "abualnassr/hermes-committee 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "abualnassr/hermes-committee 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-21 3 → 2026-11-22 4（+1）
+2026-11-21 3 → 2026-11-23 5（+2）
 
 
 ---

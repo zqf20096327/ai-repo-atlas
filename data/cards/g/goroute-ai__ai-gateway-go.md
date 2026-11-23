@@ -1,6 +1,6 @@
 # goroute-ai/ai-gateway-go
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/goroute-ai/ai-gateway-go) · [官网](https://goroute-ai.github.io) · 组织维护
+⭐ 4 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/goroute-ai/ai-gateway-go) · [官网](https://goroute-ai.github.io) · 组织维护
 
 **为 AI 应用提供统一 API 接入多家模型服务商的 Go 网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "goroute-ai/ai-gateway-go 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-20 4 → 2026-11-22 4（+0）
+2026-11-20 4 → 2026-11-23 4（+0）
 
 
 ---

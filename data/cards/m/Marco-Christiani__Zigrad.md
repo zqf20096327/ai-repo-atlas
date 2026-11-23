@@ -1,6 +1,6 @@
 # Marco-Christiani/Zigrad
 
-⭐ 198 · Zig · LGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/Marco-Christiani/Zigrad) · [官网](http://zigrad.datatician.io/) · 个人维护
+⭐ 198 · Zig · LGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Marco-Christiani/Zigrad) · [官网](http://zigrad.datatician.io/) · 个人维护
 
 **Zig 编写的深度学习框架，基于自动微分引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Marco-Christiani/Zigrad 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-11", "2026-11-23"]
     y-axis "stars" 196 --> 199
     line [197, 198, 198]
 ```
 
-2026-10-20 197 → 2026-11-22 198（+1）
+2026-10-21 197 → 2026-11-23 198（+1）
 
 
 ---

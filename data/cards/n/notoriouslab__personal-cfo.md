@@ -46,12 +46,12 @@ Python CLI 参考实现：读取银行账单（CSV / Markdown+JSON / 手写 pipe
 ```mermaid
 xychart-beta
     title "notoriouslab/personal-cfo 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-20 15 → 2026-11-22 15（+0）
+2026-10-21 15 → 2026-11-23 15（+0）
 
 
 ---

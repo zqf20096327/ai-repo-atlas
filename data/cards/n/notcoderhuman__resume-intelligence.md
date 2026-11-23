@@ -1,6 +1,6 @@
 # notcoderhuman/resume-intelligence
 
-⭐ 13 · JavaScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/notcoderhuman/resume-intelligence)
+⭐ 15 · JavaScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/notcoderhuman/resume-intelligence)
 
 **给求职者的证据可溯简历-岗位匹配与技能差距分析工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "notcoderhuman/resume-intelligence 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 10, 11, 12, 13, 12, 13, 13]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 10, 11, 12, 13, 12, 13, 15]
 ```
 
-2026-10-20 10 → 2026-11-22 13（+3）
+2026-10-21 10 → 2026-11-23 15（+5）
 
 
 ---

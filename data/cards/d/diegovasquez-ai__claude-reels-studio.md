@@ -1,6 +1,6 @@
 # diegovasquez-ai/claude-reels-studio
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/diegovasquez-ai/claude-reels-studio) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给内容创作者的 reels 自动化工作室：转录、按个人风格剪辑、发布与 DM 自动交付**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

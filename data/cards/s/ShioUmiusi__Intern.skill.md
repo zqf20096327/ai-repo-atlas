@@ -1,6 +1,6 @@
 # ShioUmiusi/Intern.skill
 
-⭐ 11 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/ShioUmiusi/Intern.skill) · 个人维护 · 中文 README
+⭐ 12 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/ShioUmiusi/Intern.skill) · 个人维护 · 中文 README
 
 **给 Agent 使用者的可粘贴工作方法文档**
 
@@ -40,6 +40,18 @@
 > L12: **一个能出活、肯问、会列证据的 Agent 工作方法。**
 > L31: 一份可直接粘贴进 `AGENTS.md` 的工作方法参考。
 > L43: **激活，不是安装**：不写长篇解释，不配重插件。关键词点到，模型已有的方法论自己启动。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ShioUmiusi/Intern.skill 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
+```
+
+2026-11-22 11 → 2026-11-23 12（+1）
 
 
 ---

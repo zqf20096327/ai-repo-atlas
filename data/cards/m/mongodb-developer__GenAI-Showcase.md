@@ -2,9 +2,9 @@
 
 ⭐ 4,262 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mongodb-developer/GenAI-Showcase) · [官网](https://www.mongodb.com/cloud/atlas/register) · 组织维护
 
-**MongoDB 官方 GenAI 示例与应用合集：RAG、AI Agents 等用例**
+**面向开发者的 MongoDB GenAI 示例与样例应用合集**
 
-MongoDB 维护的生成式 AI 示例仓库，收录覆盖 RAG、AI Agents 与行业场景的示例与样例应用，展示 MongoDB 在 RAG 管道与 Agent 架构中作为向量数据库、业务数据库与记忆提供方的接入方式。运行任一示例需连接 MongoDB 集群：注册 MongoDB Atlas 账号、创建集群并获取连接字符串。面向学习与构建 GenAI 应用的开发者，MIT 许可。
+MongoDB 官方维护的生成式 AI 示例仓库，收录覆盖 RAG、AI Agents 及行业场景的示例与样例应用，展示 MongoDB 在 RAG 管道与 Agent 中作为向量数据库、操作型数据库与记忆提供方的接入方式。运行仓库中的示例需连接 MongoDB 集群，可通过免费 Atlas 账号创建，或使用无需账号、有效期 48 小时的 Ephemeral Atlas Cluster。许可证为 MIT，问题通过 GitHub issue 反馈。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@ MongoDB 维护的生成式 AI 示例仓库，收录覆盖 RAG、AI Agents 与行
 
 ## 能力要点
 
-- 覆盖 RAG、AI Agents 与行业场景的示例与样例应用合集
-- 演示 MongoDB 作为向量数据库/业务数据库/记忆提供方的集成方式
-- 提供免费 MongoDB Atlas 起步流程
+- 覆盖 RAG、AI Agents 与行业用例的示例与样例应用合集
+- 展示 MongoDB 作为向量数据库、操作型数据库与记忆提供方的用法
+- 提供无需账号的 Ephemeral Atlas Cluster 快速上手途径（48 小时有效）
 
 ## 适用场景
 
-- 学习如何把 MongoDB 接入 RAG 管道与 AI Agent 架构
-- 查找行业场景的 GenAI 应用样例作为开发起点
-- 了解 MongoDB 向量检索相关用例
+- 学习如何在 RAG 管道中把 MongoDB 用作向量数据库
+- 参考样例应用搭建行业特定的 GenAI 应用
+- 了解 AI Agents 中数据库记忆层的接入方式
 
 ## 场景标签
 
@@ -44,13 +44,13 @@ MongoDB 维护的生成式 AI 示例仓库，收录覆盖 RAG、AI Agents 与行
 ```mermaid
 xychart-beta
     title "mongodb-developer/GenAI-Showcase 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-23"]
     y-axis "stars" 4261 --> 4267
     line [4266, 4264, 4265, 4266, 4264, 4266, 4265, 4264, 4263, 4262, 4262]
 ```
 
-2026-10-20 4,266 → 2026-11-22 4,262（-4）
+2026-10-21 4,266 → 2026-11-23 4,262（-4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `75c7a67e66ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `785bfa6f7c38` · [字段定义](../../DATASET.md)*

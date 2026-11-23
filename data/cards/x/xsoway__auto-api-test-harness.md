@@ -1,6 +1,6 @@
 # xsoway/auto-api-test-harness
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/xsoway/auto-api-test-harness) · [官网](https://xsoway.github.io/auto-api-test-harness/) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/xsoway/auto-api-test-harness) · [官网](https://xsoway.github.io/auto-api-test-harness/) · 个人维护 · 中文 README
 
 **面向 Agent 的 API 测试与用例演化框架：契约转用例、失败转演化**
 
@@ -41,6 +41,18 @@
 > L8:  An Agent-oriented API testing and testcase-evolution framework.
 > L22: HTTP requests, variable passing and business assertions are executed by the Harness. Models can participate in **pl
 > L237: - With `LLMOFF=1` the framework makes no model calls and runs safely offline; `--llm-off` is equivalent.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xsoway/auto-api-test-harness 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

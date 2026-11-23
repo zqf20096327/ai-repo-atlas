@@ -1,6 +1,6 @@
 # pab1it0/awesome-a2a
 
-⭐ 192 · MIT · 推送 2026-11-04 · [GitHub](https://github.com/pab1it0/awesome-a2a) · [官网](https://github.com/pab1it0/awesome-a2a) · 个人维护
+⭐ 192 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pab1it0/awesome-a2a) · [官网](https://github.com/pab1it0/awesome-a2a) · 个人维护
 
 **A2A 协议服务器与客户端的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "pab1it0/awesome-a2a 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-23"]
     y-axis "stars" 189 --> 193
     line [190, 191, 190, 191, 192, 192]
 ```
 
-2026-10-20 190 → 2026-11-22 192（+2）
+2026-10-21 190 → 2026-11-23 192（+2）
 
 
 ---

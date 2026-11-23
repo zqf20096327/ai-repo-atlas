@@ -1,6 +1,6 @@
 # langchain-ai/lca-langchainV1-essentials
 
-⭐ 76 · Jupyter Notebook · MIT · 推送 2026-11-04 · [GitHub](https://github.com/langchain-ai/lca-langchainV1-essentials) · 组织维护
+⭐ 76 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/lca-langchainV1-essentials) · 组织维护
 
 **LangChain v1 课程配套代码库，含本地 LLM 版本**
 
@@ -43,12 +43,12 @@ LangChain 官方课程（lca）LangChain v1 essentials 的配套练习仓库，�
 ```mermaid
 xychart-beta
     title "langchain-ai/lca-langchainV1-essentials 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 75 --> 78
     line [77, 76, 77, 76, 76]
 ```
 
-2026-10-20 77 → 2026-11-22 76（-1）
+2026-10-21 77 → 2026-11-23 76（-1）
 
 
 ---

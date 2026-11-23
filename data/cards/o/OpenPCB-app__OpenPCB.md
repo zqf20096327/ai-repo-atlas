@@ -1,6 +1,6 @@
 # OpenPCB-app/OpenPCB
 
-⭐ 51 · TypeScript · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/OpenPCB-app/OpenPCB) · [官网](https://openpcb.app/) · 组织维护
+⭐ 52 · TypeScript · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/OpenPCB-app/OpenPCB) · [官网](https://openpcb.app/) · 组织维护
 
 **桌面 PCB 设计套件：原理图、布局、DRC、制造输出一体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenPCB-app/OpenPCB 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 42 --> 52
-    line [43, 44, 49, 50, 51, 51]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 42 --> 53
+    line [43, 44, 49, 50, 51, 52]
 ```
 
-2026-10-20 43 → 2026-11-22 51（+8）
+2026-10-21 43 → 2026-11-23 52（+9）
 
 
 ---

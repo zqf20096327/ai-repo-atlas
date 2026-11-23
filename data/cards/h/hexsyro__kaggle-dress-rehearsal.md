@@ -1,6 +1,6 @@
 # hexsyro/kaggle-dress-rehearsal
 
-⭐ 46 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hexsyro/kaggle-dress-rehearsal) · 个人维护
+⭐ 45 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hexsyro/kaggle-dress-rehearsal) · 个人维护
 
 **Kaggle 验证纪律教学项目：分层CV、三种调参对比与榜上过拟合模拟**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hexsyro/kaggle-dress-rehearsal 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    title "hexsyro/kaggle-dress-rehearsal 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 7 --> 50
-    line [10, 47, 46]
+    line [10, 47, 46, 45]
 ```
 
-2026-11-20 10 → 2026-11-22 46（+36）
+2026-11-20 10 → 2026-11-23 45（+35）
 
 
 ---

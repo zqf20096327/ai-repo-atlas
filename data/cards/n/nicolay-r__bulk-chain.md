@@ -45,12 +45,12 @@ Python 框架 bulk-chain：以 JSON schema 声明 Chain-of-Thought 式提示步�
 ```mermaid
 xychart-beta
     title "nicolay-r/bulk-chain 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-19 23 → 2026-11-22 23（+0）
+2026-10-20 23 → 2026-11-23 23（+0）
 
 
 ---

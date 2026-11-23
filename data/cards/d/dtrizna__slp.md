@@ -1,6 +1,6 @@
 # dtrizna/slp
 
-⭐ 39 · Python · MIT · 推送 2025-11-26 · [GitHub](https://github.com/dtrizna/slp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Shell 命令分词与编码库：为 ML 模型预处理 bash 命令**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

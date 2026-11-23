@@ -1,6 +1,6 @@
 # AndyShaman/gemini-webapi-mcp
 
-⭐ 69 · Python · AGPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/AndyShaman/gemini-webapi-mcp) · [官网](https://ai-handler.com/#gemini-webapi-mcp) · 个人维护
+⭐ 70 · Python · AGPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/AndyShaman/gemini-webapi-mcp) · [官网](https://ai-handler.com/#gemini-webapi-mcp) · 个人维护
 
 **通过浏览器 cookies 接入 Gemini 的 MCP 服务器：图像生成、编辑与聊天**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AndyShaman/gemini-webapi-mcp 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 62 --> 70
-    line [63, 65, 66, 67, 68, 69, 69]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 62 --> 71
+    line [63, 65, 66, 67, 68, 69, 70]
 ```
 
-2026-10-20 63 → 2026-11-22 69（+6）
+2026-10-21 63 → 2026-11-23 70（+7）
 
 
 ---

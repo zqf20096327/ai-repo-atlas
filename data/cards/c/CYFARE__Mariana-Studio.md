@@ -1,6 +1,6 @@
 # CYFARE/Mariana-Studio
 
-⭐ 59 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/CYFARE/Mariana-Studio) · [官网](https://cyfare.net/) · 组织维护
+⭐ 62 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/CYFARE/Mariana-Studio) · [官网](https://cyfare.net/) · 组织维护
 
 **本地一站式语言模型训练/微调/部署工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "CYFARE/Mariana-Studio 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 57 --> 60
-    line [58, 59]
+    title "CYFARE/Mariana-Studio 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 57 --> 63
+    line [58, 59, 62]
 ```
 
-2026-11-21 58 → 2026-11-22 59（+1）
+2026-11-21 58 → 2026-11-23 62（+4）
 
 
 ---

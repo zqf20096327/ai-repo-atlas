@@ -1,6 +1,6 @@
 # UBC-Stat-ML/blangSDK
 
-⭐ 25 · Xtend · BSD-2-Clause · 推送 2025-11-26 · [GitHub](https://github.com/UBC-Stat-ML/blangSDK) · [官网](https://www.stat.ubc.ca/~bouchard/blang/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **贝叶斯概率编程语言 Blang 的 SDK：构建模型并做 MCMC 推断**
 
@@ -11,7 +11,7 @@ Blang 的软件开发工具包仓库，提供适用于采样的基础数据类�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | BSD-2-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

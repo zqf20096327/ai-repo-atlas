@@ -1,6 +1,6 @@
 # yoli-mi/dsh-chronobranch
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yoli-mi/dsh-chronobranch) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yoli-mi/dsh-chronobranch) · 个人维护 · 中文 README
 
 **DSH 会话的时间线分支画布插件：可视化分叉与多对话关联**
 
@@ -40,6 +40,18 @@
 > L9: **ChronoBranch** 是面向 **DeepSeek Harness (DSH)** 的原生横向点线时空分支画布插件。
 > L10: 它直接以原生视图标签 **`时间线`** 挂载在 DSH 会话顶部的 `对话` / `轨迹` 旁，自动跟随 DSH 浅色与深色主题，将长对话、分叉探索、同工作区多对话关联、Agent 执行轨迹与自由悬浮磁贴统一在一个克制清晰的点线
 > L21: - **不再引入第二套输入框**：在任意已完成轮次点击「分叉」，立即调用 DSH 原生 `sessions.fork({ sessionId, atSeq, increaseTitle: true })` 并通过 `uiWorks
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yoli-mi/dsh-chronobranch 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-22 3 → 2026-11-23 5（+2）
 
 
 ---

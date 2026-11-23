@@ -1,6 +1,6 @@
 # sonjari/sonjari
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/sonjari/sonjari) · [官网](https://sonjari.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 本地 GPU 上运行的 AI 代理：浏览器研究与文档产出**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

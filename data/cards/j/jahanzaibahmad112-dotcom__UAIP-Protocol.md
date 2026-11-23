@@ -47,12 +47,12 @@ UAIP 是面向自主 AI agent 的安全结算与互操作协议，含 Python SDK
 ```mermaid
 xychart-beta
     title "jahanzaibahmad112-dotcom/UAIP-Protocol 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

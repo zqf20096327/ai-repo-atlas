@@ -1,6 +1,6 @@
 # snath-ai/lar
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/snath-ai/lar) · [官网](https://docs.snath.ai) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/snath-ai/lar) · [官网](https://docs.snath.ai) · 组织维护
 
 **面向 EU AI Act 取证的确定性 Agent 执行引擎**
 
@@ -46,12 +46,12 @@ Python 实现的独立 agent 执行引擎（非 LangChain 等库的封装），�
 ```mermaid
 xychart-beta
     title "snath-ai/lar 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Clare-Nie/MemOnce
 
-⭐ 10 · Python · 推送 2026-11-17 · [GitHub](https://github.com/Clare-Nie/MemOnce) · [官网](https://clare-nie.github.io/MemOnce/) · 个人维护
+⭐ 10 · Python · 推送 2026-11-22 · [GitHub](https://github.com/Clare-Nie/MemOnce) · [官网](https://clare-nie.github.io/MemOnce/) · 个人维护
 
 **面向研究者的长上下文记忆架构：单次检索的紧凑全局记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Clare-Nie/MemOnce 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-23"]
     y-axis "stars" 5 --> 11
     line [6, 8, 10, 10]
 ```
 
-2026-11-13 6 → 2026-11-22 10（+4）
+2026-11-13 6 → 2026-11-23 10（+4）
 
 
 ---

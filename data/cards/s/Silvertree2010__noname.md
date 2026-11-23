@@ -1,6 +1,6 @@
 # Silvertree2010/noname
 
-⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Silvertree2010/noname) · 个人维护
+⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Silvertree2010/noname) · 个人维护
 
 **为 Claude Code 提供 Rust 编写的终端 TUI 界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Silvertree2010/noname 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-13 3 → 2026-11-22 4（+1）
+2026-11-13 3 → 2026-11-23 4（+1）
 
 
 ---

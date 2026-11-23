@@ -1,6 +1,6 @@
 # xishanp/Linuxhub
 
-⭐ 66 · C · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/xishanp/Linuxhub) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **在 Android 上运行 Ubuntu 桌面并供本机 Agent 调用的环境**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # HaiTrung-Workspace/tidymint
 
-⭐ 9 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/HaiTrung-Workspace/tidymint) · [官网](https://tidymint.app) · 个人维护
+⭐ 9 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HaiTrung-Workspace/tidymint) · [官网](https://tidymint.app) · 个人维护
 
 **面向 AI 工具使用者的开源 Mac 清理工具**
 
@@ -46,12 +46,12 @@ macOS 14+ 的免费开源清理工具，核心机制是所有清理动作先移�
 ```mermaid
 xychart-beta
     title "HaiTrung-Workspace/tidymint 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-15", "2026-11-23"]
     y-axis "stars" 7 --> 10
     line [8, 9, 9]
 ```
 
-2026-11-10 8 → 2026-11-22 9（+1）
+2026-11-10 8 → 2026-11-23 9（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # operand/agency
 
-⭐ 491 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/operand/agency) · [官网](https://createwith.agency) · 组织维护
+⭐ 490 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/operand/agency) · [官网](https://createwith.agency) · 组织维护
 
 **Python Actor 模型框架：构建 agent 集成系统**
 
@@ -45,12 +45,12 @@ Agency 是一个 Python 库，提供基于 Actor 模型的框架，用于创建 
 ```mermaid
 xychart-beta
     title "operand/agency 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 487 --> 492
-    line [488, 489, 490, 491, 491]
+    line [488, 489, 490, 491, 490]
 ```
 
-2026-10-20 488 → 2026-11-22 491（+3）
+2026-10-21 488 → 2026-11-23 490（+2）
 
 
 ---

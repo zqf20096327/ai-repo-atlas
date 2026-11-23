@@ -40,6 +40,18 @@
 > L16: ## 推荐的中转站
 > L55: APINEBULA 是银河录像局旗下的企业级 AI 聚合平台，背靠大平台资源，面向开发者、团队与企业用户，提供稳定、高性价比的大模型 API 接入服务。平台聚合 Claude、GPT、Gemini 等主流满血模型——一个接口，即可
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "okben986/AiRelayAPI 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-22 12 → 2026-11-23 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f506dc23175c` · [字段定义](../../DATASET.md)*

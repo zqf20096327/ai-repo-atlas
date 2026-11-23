@@ -1,6 +1,6 @@
 # edgar4/yada
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/edgar4/yada) · [官网](https://yada.edgar.co.ke) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/edgar4/yada) · [官网](https://yada.edgar.co.ke) · 个人维护
 
 **TypeScript 后端的 AI agent 运行时：托管工具循环与人审动作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edgar4/yada 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-10 3 → 2026-11-22 4（+1）
+2026-11-10 3 → 2026-11-23 4（+1）
 
 
 ---

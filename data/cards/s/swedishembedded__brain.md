@@ -1,6 +1,6 @@
 # swedishembedded/brain
 
-⭐ 65 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/swedishembedded/brain) · [官网](https://swedishembedded.com/products/brain) · 组织维护
+⭐ 66 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/swedishembedded/brain) · [官网](https://swedishembedded.com/products/brain) · 组织维护
 
 **Rust 单程序实现模型训练与推理，服务 OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "swedishembedded/brain 星数(近 12 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 41 --> 67
-    line [43, 45, 46, 47, 48, 51, 45, 62, 61, 64, 65, 65]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 41 --> 68
+    line [43, 45, 46, 47, 48, 51, 45, 62, 61, 64, 65, 66]
 ```
 
-2026-10-20 43 → 2026-11-22 65（+22）
+2026-10-21 43 → 2026-11-23 66（+23）
 
 
 ---

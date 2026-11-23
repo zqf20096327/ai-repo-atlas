@@ -45,12 +45,12 @@ SciTeX 项目下的演示仓库：以睡眠-认知研究为示例，展示 AI ag
 ```mermaid
 xychart-beta
     title "scitex-ai/automated-research-demo 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-20 35 → 2026-11-22 35（+0）
+2026-10-21 35 → 2026-11-23 35（+0）
 
 
 ---

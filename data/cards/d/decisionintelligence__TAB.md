@@ -1,6 +1,6 @@
 # decisionintelligence/TAB
 
-⭐ 144 · Jupyter Notebook · 推送 2025-11-26 · [GitHub](https://github.com/decisionintelligence/TAB) · [官网](https://arxiv.org/pdf/2506.18046) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向研究者的时间序列异常检测评测基准库**
 

@@ -1,6 +1,6 @@
 # krapcys1-maker/adaptive-agent-memory-research
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/krapcys1-maker/adaptive-agent-memory-research) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/krapcys1-maker/adaptive-agent-memory-research) · 个人维护
 
 **LLM agent 经验记忆的对照实验研究项目与结果登记库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "krapcys1-maker/adaptive-agent-memory-research 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-21 10 → 2026-11-22 10（+0）
+2026-11-21 10 → 2026-11-23 10（+0）
 
 
 ---

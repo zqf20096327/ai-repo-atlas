@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gregorydickson/pickle-rick-claude 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
+    title "gregorydickson/pickle-rick-claude 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 31 --> 34
-    line [32, 33, 32]
+    line [32, 33, 32, 32]
 ```
 
-2026-10-19 32 → 2026-11-22 32（+0）
+2026-10-20 32 → 2026-11-23 32（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # cpeoples/ai-watermark-detector
 
-⭐ 10 · Rust · MIT · 推送 2026-09-05 · [GitHub](https://github.com/cpeoples/ai-watermark-detector) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-09-05 · [GitHub](https://github.com/cpeoples/ai-watermark-detector) · 个人维护
 
 **检测文本水印与验证 C2PA 文件溯源的 Rust CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cpeoples/ai-watermark-detector 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-14", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-14 10 → 2026-11-22 10（+0）
+2026-11-14 10 → 2026-11-23 11（+1）
 
 
 ---

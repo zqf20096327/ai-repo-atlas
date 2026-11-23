@@ -1,10 +1,10 @@
 # apache/maka
 
-⭐ 5,996 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/apache/maka) · 组织维护 · 中文 README
+⭐ 5,997 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/apache/maka) · 组织维护 · 中文 README
 
-**本地优先的 agent 工作区：完整记录执行的每一步**
+**本地优先的终端/桌面 agent 工作区，记录每次运行与审批**
 
-Apache 孵化项目，提供运行 AI agent 的工作区，核心机制是 append-only 的 RuntimeEvent 日志：模型消息、工具调用、权限决策与终止均入日志，UI、下一条提示与崩溃恢复都由该日志投影生成。会话、设置与运行记录留在本地，模型由用户自接（云 API、本地模型或兼容网关）。桌面版基于 Electron，另有 TUI 与 CLI 入口，三者共享同一 Runtime Host；支持中断回合恢复与 Graph 多切片任务。平台为 macOS（Windows/Linux 为 preview）。
+Apache 基金会孵化项目，提供终端与桌面两种外壳的 agent 工作区。Rust 编写的后台 Host 进程统一负责模型执行、沙箱（V8/Python）、权限管理与 SQLite 状态，以事件溯源方式记录每次运行、审批与工具回执。仓库含插件内核、agent 运行时、NSH 工作台 UI、ACP server、Harbor 评测容器与插件 SDK；通过 git clone + just 构建运行，亦可经 npm 包装器分发平台原生二进制。
 
 ## 筛选速览
 
@@ -12,48 +12,47 @@ Apache 孵化项目，提供运行 AI agent 的工作区，核心机制是 appen
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 所有模型消息、工具调用与权限决策以 append-only RuntimeEvent 记录
-- 本地优先：会话与凭据存于本机，用户自带模型接入（API/本地模型/网关）
-- Desktop、TUI、CLI 与 Eval 共享一个 Runtime Host 执行权威
-- 支持中断回合恢复与 /graph 多切片任务（隔离 Git worktree）
+- Rust Runtime Host 统一管理模型执行、沙箱、权限与 SQLite 状态
+- 事件溯源记录每次运行、审批与工具回执
+- 终端与桌面外壳共用同一 Host 进程与 NSH 工作台 UI
+- 插件 SDK（TypeScript 契约）支持扩展 Host 与 UI
 
 ## 适用场景
 
-- 本地运行 agent 完成编码或仓库分析任务并留存完整执行记录
-- 接入自己的云 API 或本地模型做 agent 任务
-- 对 agent 运行做基准评测（同模型同验证器对比 harness）
-- 崩溃或中断后恢复未完成的回合
+- 在本地终端或桌面运行 agent 任务并保留完整审计记录
+- 对 agent 运行做权限控制与沙箱隔离
+- 通过容器化 Harbor 评测运行器对 Host 做评估
 
 ## 场景标签
 
-`编码 Agent` `Agent 框架` `模型评测` · 领域:Agent 开发
+`Agent 框架` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L14:  One turn of RuntimeEvents: the model speaks, runs a command, asks permission, you approve, it gets the result, edi
-> L21: - **The log is the runtime.** Every model message, tool call, permission decision and termination is an append-only
-> L22: - **Your machine, your model.** Sessions, settings and run records stay local. You bring the model: a cloud API, a 
+> L5: Apache Maka (Incubating) is a local-first agent workspace for the terminal and desktop. A background Rust Runtime Ho
+> L36: |plugins/|Agent runtime, workspace tools, skills, settings, interactions, and shared domain contracts|
+> L52: Apache Maka is an effort undergoing incubation at The Apache Software Foundation (ASF). See DISCLAIMER, LICENSE, an
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "apache/maka 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 5840 --> 6010
-    line [5854, 5865, 5866, 5868, 5869, 5872, 5875, 5900, 5922, 5927, 5929, 5930, 5931, 5869, 5944, 5949, 5959, 5963, 5964, 5966, 5968, 5978, 5980, 5987, 5996, 5995, 5996]
+    title "apache/maka 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 5840 --> 6011
+    line [5854, 5865, 5866, 5868, 5869, 5872, 5875, 5900, 5922, 5927, 5929, 5930, 5931, 5869, 5944, 5949, 5959, 5963, 5964, 5966, 5968, 5978, 5980, 5987, 5996, 5995, 5996, 5997]
 ```
 
-2026-10-20 5,854 → 2026-11-22 5,996（+142）
+2026-10-21 5,854 → 2026-11-23 5,997（+143）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dc7bca4c483e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `fbdacbae72ae` · [字段定义](../../DATASET.md)*

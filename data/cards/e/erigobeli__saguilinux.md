@@ -1,6 +1,6 @@
 # erigobeli/saguilinux
 
-⭐ 38 · HTML · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/erigobeli/saguilinux) · [官网](https://erigobeli.github.io/saguilinux/) · 个人维护
+⭐ 39 · HTML · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/erigobeli/saguilinux) · [官网](https://erigobeli.github.io/saguilinux/) · 个人维护
 
 **由 AI（Claude）按 LFS/BLFS 从零编译的教育性 Linux 发行版**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "erigobeli/saguilinux 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 26 --> 39
-    line [27, 31, 32, 33, 36, 38, 38]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-23"]
+    y-axis "stars" 26 --> 40
+    line [27, 31, 32, 33, 36, 38, 39]
 ```
 
-2026-11-08 27 → 2026-11-22 38（+11）
+2026-11-08 27 → 2026-11-23 39（+12）
 
 
 ---

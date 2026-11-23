@@ -1,6 +1,6 @@
 # lucidrains/hippoformer
 
-⭐ 57 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/lucidrains/hippoformer) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/lucidrains/hippoformer) · 个人维护
 
 **Hippoformer 的非官方实现：海马体启发的空间记忆与 Transformer 结合**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/hippoformer 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-20 57 → 2026-11-22 57（+0）
+2026-10-21 57 → 2026-11-23 58（+1）
 
 
 ---

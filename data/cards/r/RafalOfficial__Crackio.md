@@ -1,6 +1,6 @@
 # RafalOfficial/Crackio
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/RafalOfficial/Crackio) · [官网](https://crackio.pages.dev) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/RafalOfficial/Crackio) · [官网](https://crackio.pages.dev) · 个人维护
 
 **本地 GPU 上的开源 AI 图像视频工作室，基于 ComfyUI**
 
@@ -47,12 +47,12 @@ Crackio 是一个集 17 种工具于一体的图像与视频生成应用：3D �
 ```mermaid
 xychart-beta
     title "RafalOfficial/Crackio 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-22"]
+    x-axis ["2026-11-12", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-22 3（+0）
+2026-11-12 3 → 2026-11-23 3（+0）
 
 
 ---

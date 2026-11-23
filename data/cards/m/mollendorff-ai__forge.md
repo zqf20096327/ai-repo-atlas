@@ -1,6 +1,6 @@
 # mollendorff-ai/forge
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mollendorff-ai/forge) · [官网](https://mollendorff-ai.github.io/forge/) · 组织维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mollendorff-ai/forge) · [官网](https://forge.mollendorff.ai) · 组织维护
 
 **面向 FP&A 与 AI agent 的纯文本财务建模引擎**
 
@@ -47,12 +47,12 @@ Rust 编写的财务建模引擎：读取 YAML 格式的模型（输入、公式
 ```mermaid
 xychart-beta
     title "mollendorff-ai/forge 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-22 10（+0）
+2026-11-19 10 → 2026-11-23 10（+0）
 
 
 ---

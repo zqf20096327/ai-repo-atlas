@@ -1,6 +1,6 @@
 # cyborg-garden/hermes-agent-mt
 
-⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cyborg-garden/hermes-agent-mt) · [官网](https://nimbleco.ai) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cyborg-garden/hermes-agent-mt) · [官网](https://nimbleco.ai) · 组织维护 · 中文 README
 
 **多租户自学习 AI 代理：跨消息平台对话并自主积累技能**
 
@@ -46,12 +46,12 @@ Nous Research hermes-agent 的多租户分支，增加按上下文隔离的记�
 ```mermaid
 xychart-beta
     title "cyborg-garden/hermes-agent-mt 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 14（+0）
 
 
 ---

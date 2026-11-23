@@ -1,6 +1,6 @@
 # EtienneLescot/muse-desktop
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/EtienneLescot/muse-desktop) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/EtienneLescot/muse-desktop) · 个人维护
 
 **Meta Muse Code 编码代理的桌面客户端，含可选电脑操作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EtienneLescot/muse-desktop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 5 --> 18
-    line [6, 11, 13, 15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 5 --> 19
+    line [6, 11, 13, 15, 16, 17, 18]
 ```
 
-2026-10-18 6 → 2026-11-22 17（+11）
+2026-10-18 6 → 2026-11-23 18（+12）
 
 
 ---

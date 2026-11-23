@@ -1,6 +1,6 @@
 # gia-uh/argo
 
-⭐ 24 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/gia-uh/argo) · [官网](https://uhgia.org/argo/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **构建多智能体系统的轻量 Python 框架**
 
@@ -11,7 +11,7 @@ ARGO 是一个用于构建 LLM 多智能体系统的代码优先 Python 框架�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

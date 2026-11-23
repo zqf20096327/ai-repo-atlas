@@ -1,6 +1,6 @@
 # Project-Ptolemy/ProjectUAI
 
-⭐ 39 · Lua · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Project-Ptolemy/ProjectUAI) · [官网](https://project-ptolemy.github.io/ProjectUAI/) · 组织维护
+⭐ 40 · Lua · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Project-Ptolemy/ProjectUAI) · [官网](https://project-ptolemy.github.io/ProjectUAI/) · 组织维护
 
 **在 Roblox 客户端内运行的通用 AI agent，Claude Code 式 agent 循环**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Project-Ptolemy/ProjectUAI 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 25 --> 40
-    line [26, 27, 29, 30, 29, 33, 32, 33, 36, 37, 38, 39, 39]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 25 --> 41
+    line [26, 27, 29, 30, 29, 33, 32, 33, 36, 37, 38, 39, 40]
 ```
 
-2026-10-20 26 → 2026-11-22 39（+13）
+2026-10-21 26 → 2026-11-23 40（+14）
 
 
 ---

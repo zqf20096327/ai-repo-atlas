@@ -1,6 +1,6 @@
 # Azure-Samples/multi-agent-orchestration-workshop
 
-⭐ 17 · Shell · MIT · 推送 2026-07-22 · [GitHub](https://github.com/Azure-Samples/multi-agent-orchestration-workshop) · [官网](https://aka.ms/agentframework/workshop/multiagent) · 组织维护 · 中文 README
+⭐ 18 · Shell · MIT · 推送 2026-07-22 · [GitHub](https://github.com/Azure-Samples/multi-agent-orchestration-workshop) · [官网](https://aka.ms/agentframework/workshop/multiagent) · 组织维护 · 中文 README
 
 **.NET 多智能体编排模式的实操工作坊教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/multi-agent-orchestration-workshop 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-20 16 → 2026-11-22 17（+1）
+2026-10-21 16 → 2026-11-23 18（+2）
 
 
 ---

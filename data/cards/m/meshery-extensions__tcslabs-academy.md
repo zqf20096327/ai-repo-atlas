@@ -45,12 +45,12 @@ TCS Labs 在 Meshery Academy 平台上的官方学习内容仓库：以 Markdown
 ```mermaid
 xychart-beta
     title "meshery-extensions/tcslabs-academy 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-20 24 → 2026-11-22 24（+0）
+2026-10-21 24 → 2026-11-23 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Lykaon-oss/Lykaon
 
-⭐ 6 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Lykaon-oss/Lykaon) · [官网](https://lykaon-oss.github.io/Lykaon/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向初学者的类自然英文编程语言，可编译为原生可执行文件**
 
@@ -11,7 +11,7 @@ Lykaon 是一种以平实英文句子的形式书写代码的编程语言：句�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

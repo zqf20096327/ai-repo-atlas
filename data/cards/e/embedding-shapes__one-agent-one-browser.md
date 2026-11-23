@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "embedding-shapes/one-agent-one-browser 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-11", "2026-11-22"]
+    title "embedding-shapes/one-agent-one-browser 星数(近 4 点)"
+    x-axis ["2026-10-21", "2026-11-11", "2026-11-22", "2026-11-23"]
     y-axis "stars" 226 --> 230
-    line [227, 228, 229]
+    line [227, 228, 229, 229]
 ```
 
-2026-10-20 227 → 2026-11-22 229（+2）
+2026-10-21 227 → 2026-11-23 229（+2）
 
 
 ---

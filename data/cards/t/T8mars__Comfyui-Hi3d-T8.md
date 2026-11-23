@@ -1,6 +1,6 @@
 # T8mars/Comfyui-Hi3d-T8
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/T8mars/Comfyui-Hi3d-T8) · [官网](https://huggingface.co/t8star/Hi3d-Comfy) · 个人维护 · 中文 README
+⭐ 19 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/T8mars/Comfyui-Hi3d-T8) · [官网](https://huggingface.co/t8star/Hi3d-Comfy) · 个人维护 · 中文 README
 
 **给 ComfyUI 与本地工作台用户提供 3D 几何精细化的节点与工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "T8mars/Comfyui-Hi3d-T8 星数(近 11 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 5 --> 19
-    line [6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 18]
+    title "T8mars/Comfyui-Hi3d-T8 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 5 --> 20
+    line [6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19]
 ```
 
-2026-10-26 6 → 2026-11-22 18（+12）
+2026-10-26 6 → 2026-11-23 19（+13）
 
 
 ---

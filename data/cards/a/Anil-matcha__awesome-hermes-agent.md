@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-hermes-agent
 
-⭐ 12 · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Anil-matcha/awesome-hermes-agent) · 个人维护
+⭐ 11 · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Anil-matcha/awesome-hermes-agent) · 个人维护
 
 **Hermes Agent 的技能、插件与集成资源策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/awesome-hermes-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-14", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-14", "2026-11-16", "2026-11-23"]
     y-axis "stars" 4 --> 13
-    line [5, 7, 5, 10, 12, 12]
+    line [5, 7, 5, 10, 12, 11]
 ```
 
-2026-10-18 5 → 2026-11-22 12（+7）
+2026-10-18 5 → 2026-11-23 11（+6）
 
 
 ---

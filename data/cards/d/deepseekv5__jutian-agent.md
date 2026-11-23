@@ -1,6 +1,6 @@
 # deepseekv5/jutian-agent
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/deepseekv5/jutian-agent) · [官网](https://deepseekv5.github.io/jutian-agent/) · 组织维护 · 中文 README
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/deepseekv5/jutian-agent) · [官网](https://deepseekv5.github.io/jutian-agent/) · 组织维护 · 中文 README
 
 **本地优先的开源 AI 桌面工作台：对话执行任务、代码、集群**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deepseekv5/jutian-agent 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23"]
     y-axis "stars" 8 --> 16
     line [9, 11, 12, 13, 14, 15, 15]
 ```
 
-2026-10-20 9 → 2026-11-22 15（+6）
+2026-10-21 9 → 2026-11-23 15（+6）
 
 
 ---

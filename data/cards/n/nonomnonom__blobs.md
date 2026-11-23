@@ -1,6 +1,6 @@
 # nonomnonom/blobs
 
-⭐ 5 · Kotlin · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/nonomnonom/blobs) · [官网](https://nonomnonom.github.io/blobs/) · 个人维护
+⭐ 5 · Kotlin · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/nonomnonom/blobs) · [官网](https://nonomnonom.github.io/blobs/) · 个人维护
 
 **离线 Android 研究助手：本地推理、引用检索、语料工具链**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nonomnonom/blobs 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-11-23"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-22 5 → 2026-11-22 5（+0）
+2026-10-22 5 → 2026-11-23 5（+0）
 
 
 ---

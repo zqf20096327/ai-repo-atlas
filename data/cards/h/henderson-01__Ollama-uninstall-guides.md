@@ -1,6 +1,6 @@
 # henderson-01/Ollama-uninstall-guides
 
-⭐ 16 · Shell · MIT · 推送 2026-08-10 · [GitHub](https://github.com/henderson-01/Ollama-uninstall-guides) · 个人维护
+⭐ 17 · Shell · MIT · 推送 2026-08-10 · [GitHub](https://github.com/henderson-01/Ollama-uninstall-guides) · 个人维护
 
 **Ollama 卸载指南与脚本：覆盖 macOS/Windows/Linux 清理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "henderson-01/Ollama-uninstall-guides 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 12 --> 17
-    line [13, 14, 15, 14, 16, 16]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 14, 16, 17]
 ```
 
-2026-10-20 13 → 2026-11-22 16（+3）
+2026-10-21 13 → 2026-11-23 17（+4）
 
 
 ---

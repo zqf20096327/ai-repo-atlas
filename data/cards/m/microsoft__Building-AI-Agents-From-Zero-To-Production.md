@@ -1,6 +1,6 @@
 # microsoft/Building-AI-Agents-From-Zero-To-Production
 
-⭐ 200 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production) · 组织维护
+⭐ 201 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production) · 组织维护
 
 **微软官方 AI Agent 开发生命周期教学课程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Building-AI-Agents-From-Zero-To-Production 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 191 --> 201
-    line [192, 193, 194, 193, 195, 197, 198, 199, 200, 200]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 191 --> 202
+    line [192, 193, 194, 193, 195, 197, 198, 199, 200, 201]
 ```
 
-2026-10-19 192 → 2026-11-22 200（+8）
+2026-10-20 192 → 2026-11-23 201（+9）
 
 
 ---

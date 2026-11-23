@@ -1,6 +1,6 @@
 # spaxe-dev/zen-mcp
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/spaxe-dev/zen-mcp) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/spaxe-dev/zen-mcp) · 个人维护
 
 **让 AI agent 在 Zen Browser 内受控操作的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "spaxe-dev/zen-mcp 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 13
-    line [3, 4, 10, 11, 12, 11]
+    title "spaxe-dev/zen-mcp 星数(近 7 点)"
+    x-axis ["2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 15
+    line [3, 4, 10, 11, 12, 11, 14]
 ```
 
-2026-11-11 3 → 2026-11-22 11（+8）
+2026-11-11 3 → 2026-11-23 14（+11）
 
 
 ---

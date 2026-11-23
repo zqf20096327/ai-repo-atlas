@@ -1,6 +1,6 @@
 # shuishuipingan/workbuddy-qoder-trae-hub
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/shuishuipingan/workbuddy-qoder-trae-hub) · [官网](https://wqt-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/shuishuipingan/workbuddy-qoder-trae-hub) · [官网](https://wqt-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
 
 **把 Qoder 封装成 OpenAI/Anthropic 兼容接口的多账号网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shuishuipingan/workbuddy-qoder-trae-hub 星数(近 9 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 3 --> 17
-    line [4, 8, 9, 10, 12, 13, 15, 16, 16]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 3 --> 19
+    line [4, 8, 9, 10, 12, 13, 15, 16, 18]
 ```
 
-2026-10-31 4 → 2026-11-22 16（+12）
+2026-10-31 4 → 2026-11-23 18（+14）
 
 
 ---

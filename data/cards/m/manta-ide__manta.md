@@ -1,6 +1,6 @@
 # manta-ide/manta
 
-⭐ 75 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/manta-ide/manta) · [官网](https://getmanta.ai/) · 组织维护
+⭐ 76 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/manta-ide/manta) · [官网](https://getmanta.ai/) · 组织维护
 
 **基于节点图的低代码 IDE：用自然语言节点指挥 AI 编程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "manta-ide/manta 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 74 --> 77
+    line [75, 76]
 ```
 
-2026-10-20 75 → 2026-11-22 75（+0）
+2026-10-21 75 → 2026-11-23 76（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # alexandephilia/clov-ai
 
-⭐ 33 · Rust · MIT · 推送 2026-09-17 · [GitHub](https://github.com/alexandephilia/clov-ai) · 个人维护
+⭐ 34 · Rust · MIT · 推送 2026-09-17 · [GitHub](https://github.com/alexandephilia/clov-ai) · 个人维护
 
 **MCP 响应与终端输出的上下文压缩代理，削减 LLM token 消耗**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alexandephilia/clov-ai 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-20 33 → 2026-11-22 33（+0）
+2026-10-21 33 → 2026-11-23 34（+1）
 
 
 ---

@@ -1,10 +1,10 @@
 # xlang-ai/OSWorld
 
-⭐ 3,273 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/xlang-ai/OSWorld) · [官网](https://os-world.github.io) · 组织维护
+⭐ 3,277 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/xlang-ai/OSWorld) · [官网](https://os-world.github.io) · 组织维护
 
-**评测多模态 Agent 在真实计算机环境中执行任务的开源基准**
+**在真实计算机环境中评测多模态 agent 的基准**
 
-NeurIPS 2024 论文配套的基准平台：在 Ubuntu/Windows 虚拟机（VMware、VirtualBox、Docker/KVM、Modal、Daytona、AWS）中提供 369+ 开放式真实任务，覆盖办公、日常与专业场景，评测多模态 Agent 的 GUI 操作能力。支持单线程/并行实验，输出截图、动作与录屏结果及分领域成功率；含基线 Agent（GPT-4o 纯截图设置）、人工任务检查工具与公开评测排行榜。运行需 Python>=3.10 与虚拟化环境。
+OSWorld 提供一个用于评测多模态 agent 在真实操作系统环境中完成开放任务的基准：内置带任务配置的 Ubuntu/Windows 虚拟机环境、agent 与环境两套接口，以及按领域/类别统计成功率的评测脚本。用户可基于 VMware、VirtualBox、Docker、Modal、Daytona 或 AWS 多种 provider 运行环境，支持并行评测与手动任务检查；论文发表于 NeurIPS 2024，面向研究 agent 能力的开发者与科研人员。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ NeurIPS 2024 论文配套的基准平台：在 Ubuntu/Windows 虚拟机（VMware
 
 ## 能力要点
 
-- 真实计算机环境（多操作系统虚拟机）中的开放式任务基准
-- 多平台运行时支持：VMware/VirtualBox、Docker+KVM、Modal、Daytona、AWS 并行评测
-- 结果包含截图、动作序列、视频录制及分领域成功率统计
-- 提供公开评测排行榜与人工任务检查工具
+- 提供 VMware/VirtualBox/Docker/Modal/Daytona/AWS 多种虚拟环境 provider
+- 任务结果含截图、动作与录像，输出领域级与整体成功率统计
+- 提供手动任务检查工具以验证任务正确性与评测指标
+- OSWorld-Verified 更新支持 AWS 并行评测，可将评测压缩至 1 小时内
 
 ## 适用场景
 
-- 评测自研 GUI 多模态 Agent 在真实电脑任务上的成功率
-- 以并行化基础设施（AWS/Docker）加速或规模化训练评测
-- 人工核查基准任务的正确性与评测指标
+- 在自己的 agent 上运行基准并对比官方模型结果
+- 用 Docker 或 AWS 并行化大规模评测任务
+- 手动检查和验证特定基准任务的评测指标
 
 ## 场景标签
 
@@ -37,22 +37,22 @@ NeurIPS 2024 论文配套的基准平台：在 Ubuntu/Windows 虚拟机（VMware
 
 ## 证据(README 行号)
 
-> L28: - 2025-07-28: Introducing **OSWorld-Verified**! We have made major updates, fixed several issues reported by the co
-> L204: ## Evaluation
-> L210: ### Public Evaluation
+> L137: ## 🧪 Experiments
+> L216: ## Evaluation
+> L223: If you want your results to be verified and displayed on the verified leaderboard, you need to schedule a meeting 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "xlang-ai/OSWorld 星数(近 23 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3217 --> 3278
-    line [3222, 3229, 3230, 3232, 3234, 3236, 3238, 3240, 3241, 3245, 3247, 3234, 3256, 3258, 3259, 3260, 3262, 3263, 3266, 3267, 3270, 3272, 3273]
+    title "xlang-ai/OSWorld 星数(近 24 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3217 --> 3282
+    line [3222, 3229, 3230, 3232, 3234, 3236, 3238, 3240, 3241, 3245, 3247, 3234, 3256, 3258, 3259, 3260, 3262, 3263, 3266, 3267, 3270, 3272, 3273, 3277]
 ```
 
-2026-10-20 3,222 → 2026-11-22 3,273（+51）
+2026-10-21 3,222 → 2026-11-23 3,277（+55）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `c972e0ddefe5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f75365e3b6bb` · [字段定义](../../DATASET.md)*

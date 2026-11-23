@@ -45,12 +45,12 @@ Spec Kit 的一个预设包，将规范驱动开发流程适配到游戏叙事�
 ```mermaid
 xychart-beta
     title "adaumann/speckit-preset-game-narrative-writing 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-22"]
+    x-axis ["2026-11-02", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-22 10（+0）
+2026-11-02 10 → 2026-11-23 10（+0）
 
 
 ---

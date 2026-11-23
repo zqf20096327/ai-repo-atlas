@@ -1,6 +1,6 @@
 # PerryLink/dsh-library
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/dsh-library) · [官网](https://www.npmjs.com/package/dsh-library) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-library) · [官网](https://www.npmjs.com/package/dsh-library) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本地文档知识库插件：检索带可核验引用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-library 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 20 --> 32
-    line [21, 22, 23, 21, 26, 27, 28, 30, 31]
+    title "PerryLink/dsh-library 星数(近 10 点)"
+    x-axis ["2026-10-21", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 20 --> 33
+    line [21, 22, 23, 21, 26, 27, 28, 30, 31, 32]
 ```
 
-2026-10-20 21 → 2026-11-22 31（+10）
+2026-10-21 21 → 2026-11-23 32（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # aowind/sprite-action-forge
 
-⭐ 7 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/aowind/sprite-action-forge) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **一张立绘本地生成整套 2D 游戏动作精灵表**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |

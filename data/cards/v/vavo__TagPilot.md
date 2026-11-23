@@ -1,6 +1,6 @@
 # vavo/TagPilot
 
-⭐ 41 · HTML · MIT · 推送 2026-07-24 · [GitHub](https://github.com/vavo/TagPilot) · 个人维护
+⭐ 42 · HTML · MIT · 推送 2026-07-24 · [GitHub](https://github.com/vavo/TagPilot) · 个人维护
 
 **浏览器端 LoRA 训练数据集打标与裁剪管理工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vavo/TagPilot 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42]
 ```
 
-2026-10-20 40 → 2026-11-22 41（+1）
+2026-10-21 40 → 2026-11-23 42（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # JonP07/HiPER-agent
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/JonP07/HiPER-agent) · [官网](https://arxiv.org/abs/2602.16165) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/JonP07/HiPER-agent) · [官网](https://arxiv.org/abs/2602.16165) · 组织维护
 
 **训练 LLM 智能体的分层强化学习框架（论文官方实现）**
 
@@ -44,12 +44,12 @@ ICML 2026 论文 HiPER 的官方实现：面向长时序环境中大语言模型
 ```mermaid
 xychart-beta
     title "JonP07/HiPER-agent 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 34, 35, 35]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 32 --> 37
+    line [33, 34, 35, 34, 35, 36]
 ```
 
-2026-10-20 33 → 2026-11-22 35（+2）
+2026-10-21 33 → 2026-11-23 36（+3）
 
 
 ---

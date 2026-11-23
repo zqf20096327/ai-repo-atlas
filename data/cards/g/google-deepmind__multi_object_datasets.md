@@ -45,12 +45,12 @@ DeepMind 发布的多物体表示学习数据集合集，含 Multi-dSprites、Ob
 ```mermaid
 xychart-beta
     title "google-deepmind/multi_object_datasets 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 288 --> 291
     line [290, 289, 289]
 ```
 
-2026-10-20 290 → 2026-11-22 289（-1）
+2026-10-21 290 → 2026-11-23 289（-1）
 
 
 ---

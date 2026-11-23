@@ -1,6 +1,6 @@
 # anupam-hegde/StayGuard-AI-
 
-⭐ 3 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/anupam-hegde/StayGuard-AI-) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向酒店的预订取消概率预测与 MLOps 流水线**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

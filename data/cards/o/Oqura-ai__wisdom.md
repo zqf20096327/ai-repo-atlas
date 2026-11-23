@@ -1,6 +1,6 @@
 # Oqura-ai/wisdom
 
-⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Oqura-ai/wisdom) · [官网](https://wisdom.oqura.xyz) · 组织维护
+⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Oqura-ai/wisdom) · [官网](https://wisdom.oqura.xyz) · 组织维护
 
 **给开发者的编码代理会话记录与意图溯源工具**
 
@@ -46,12 +46,12 @@ Wisdom 是一个 npm 全局安装的本地工具：通过 hooks/extension 记录
 ```mermaid
 xychart-beta
     title "Oqura-ai/wisdom 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-23"]
     y-axis "stars" 19 --> 35
     line [20, 26, 29, 30, 31, 33, 34, 34]
 ```
 
-2026-11-10 20 → 2026-11-22 34（+14）
+2026-11-10 20 → 2026-11-23 34（+14）
 
 
 ---

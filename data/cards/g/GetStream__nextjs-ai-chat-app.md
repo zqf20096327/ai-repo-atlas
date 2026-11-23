@@ -1,6 +1,6 @@
 # GetStream/nextjs-ai-chat-app
 
-⭐ 11 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/GetStream/nextjs-ai-chat-app) · [官网](https://getstream.io/blog/ai-chat-nextjs/) · 组织维护
+⭐ 11 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/GetStream/nextjs-ai-chat-app) · [官网](https://getstream.io/blog/ai-chat-nextjs/) · 组织维护
 
 **演示在 Next.js 聊天应用中接入流式 AI 回复的示例工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GetStream/nextjs-ai-chat-app 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 11（+0）
 
 
 ---

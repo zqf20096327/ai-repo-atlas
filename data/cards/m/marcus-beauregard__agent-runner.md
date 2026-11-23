@@ -1,6 +1,6 @@
 # marcus-beauregard/agent-runner
 
-⭐ 11 · Go · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/marcus-beauregard/agent-runner) · 个人维护
+⭐ 11 · Go · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/marcus-beauregard/agent-runner) · 个人维护
 
 **面向开发者的最小自主 agent 运行时（Go CLI）**
 
@@ -40,6 +40,18 @@
 > L8: **Status: early.** The loop, the tool registry and the command runner work. The worker is specified and mostly unbui
 > L18: internal/agent/       the loop: plan, act, observe, reflect
 > L29: go build -o agent-runner ./cmd/agent-runner
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "marcus-beauregard/agent-runner 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-22 11 → 2026-11-23 11（+0）
 
 
 ---

@@ -41,6 +41,18 @@ GapFill 是面向职业动画上色师的交互式工具，用于检测并填补
 > L18: The system automatically detects gaps, highlights them, and suggests fill
 > L19: colors using a domain-specific deep-learning method that learns
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "marc2825/GapFill 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-22 19 → 2026-11-23 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `3499f8f464ce` · [字段定义](../../DATASET.md)*

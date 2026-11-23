@@ -1,6 +1,6 @@
 # ashuthe1/LocalMind
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ashuthe1/LocalMind) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ashuthe1/LocalMind) · 个人维护
 
 **自托管的多 LLM 私密聊天界面，对话数据本地存储**
 
@@ -45,12 +45,12 @@ Go 单二进制同时提供 API 与 Web UI 的自托管聊天应用，可连接�
 ```mermaid
 xychart-beta
     title "ashuthe1/LocalMind 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-11-12", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17]
 ```
 
-2026-10-26 14 → 2026-11-22 16（+2）
+2026-10-26 14 → 2026-11-23 17（+3）
 
 
 ---

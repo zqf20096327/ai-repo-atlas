@@ -1,6 +1,6 @@
 # modeldrivendevopsai/mddoai
 
-⭐ 10 · Java · EPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/modeldrivendevopsai/mddoai) · [官网](https://mddoai.com) · 组织维护
+⭐ 10 · Java · EPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/modeldrivendevopsai/mddoai) · [官网](https://mddoai.com) · 组织维护
 
 **从软件架构模型自动生成 GitLab CI/CD 流水线的工具**
 
@@ -46,12 +46,12 @@ MDDOAI 将软件架构模型（.swarch/.pim/.gitlabpsm）经模型驱动转换�
 ```mermaid
 xychart-beta
     title "modeldrivendevopsai/mddoai 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-22"]
+    x-axis ["2026-10-26", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-22 10（+0）
+2026-10-26 10 → 2026-11-23 10（+0）
 
 
 ---

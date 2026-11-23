@@ -1,6 +1,6 @@
 # qiuyanxin/sp-context
 
-⭐ 14 · TypeScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/qiuyanxin/sp-context) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/qiuyanxin/sp-context) · 个人维护 · 中文 README
 
 **给 AI 编程 agent 提供团队知识持久记忆的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qiuyanxin/sp-context 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 15（+1）
 
 
 ---

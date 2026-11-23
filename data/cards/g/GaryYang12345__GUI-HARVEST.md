@@ -1,6 +1,6 @@
 # GaryYang12345/GUI-HARVEST
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/GaryYang12345/GUI-HARVEST) · 个人维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/GaryYang12345/GUI-HARVEST) · 个人维护
 
 **冻结模型下自动改进 GUI agent 执行框架（harness）的优化工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GaryYang12345/GUI-HARVEST 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 3 --> 32
-    line [5, 26, 27, 30]
+    title "GaryYang12345/GUI-HARVEST 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 33
+    line [5, 26, 27, 30, 31]
 ```
 
-2026-10-20 5 → 2026-11-22 30（+25）
+2026-10-21 5 → 2026-11-23 31（+26）
 
 
 ---

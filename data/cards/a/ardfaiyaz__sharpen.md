@@ -1,6 +1,6 @@
 # ardfaiyaz/sharpen
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ardfaiyaz/sharpen) · [官网](https://sharpen-web-psi.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Claude Code 插件：把模糊提示改写为结构化任务提示**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

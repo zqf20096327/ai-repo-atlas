@@ -1,6 +1,6 @@
 # harrisliangsu/ai-agent-engineer-handbook
 
-⭐ 80 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/harrisliangsu/ai-agent-engineer-handbook) · [官网](https://harrisliangsu.github.io/ai-agent-engineer-handbook/) · 个人维护 · 中文 README
+⭐ 82 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/harrisliangsu/ai-agent-engineer-handbook) · [官网](https://harrisliangsu.github.io/ai-agent-engineer-handbook/) · 个人维护 · 中文 README
 
 **中文 AI Agent 工程师面试与学习手册：四层工程体系+JD 拆解+92 道面试题**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "harrisliangsu/ai-agent-engineer-handbook 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 67 --> 82
-    line [68, 69, 70, 72, 68, 75, 77, 80, 81, 80, 80]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 67 --> 83
+    line [68, 69, 70, 72, 68, 75, 77, 80, 81, 80, 82]
 ```
 
-2026-10-24 68 → 2026-11-22 80（+12）
+2026-10-24 68 → 2026-11-23 82（+14）
 
 
 ---

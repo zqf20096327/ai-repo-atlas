@@ -46,12 +46,12 @@ mcp-me 是一个本地运行的 Model Context Protocol (MCP) 服务器，为 Cla
 ```mermaid
 xychart-beta
     title "paladini/mcp-me 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-20 21 → 2026-11-22 21（+0）
+2026-10-21 21 → 2026-11-23 21（+0）
 
 
 ---

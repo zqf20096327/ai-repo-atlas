@@ -1,6 +1,6 @@
 # automaticdai/rpi-object-detection
 
-⭐ 317 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/automaticdai/rpi-object-detection) · 个人维护
+⭐ 316 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/automaticdai/rpi-object-detection) · 个人维护
 
 **面向树莓派的实时目标检测与追踪示例集合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "automaticdai/rpi-object-detection 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-23"]
     y-axis "stars" 313 --> 318
-    line [314, 315, 316, 317, 317]
+    line [314, 315, 316, 317, 316]
 ```
 
-2026-10-20 314 → 2026-11-22 317（+3）
+2026-10-21 314 → 2026-11-23 316（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # moonshine-software/moon-vibe
 
-⭐ 77 · PHP · 推送 2025-11-26 · [GitHub](https://github.com/moonshine-software/moon-vibe) · [官网](https://getmoonshine.app) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用自然语言生成 Laravel+MoonShine 管理面板的 Web 应用**
 

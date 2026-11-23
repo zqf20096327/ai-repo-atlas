@@ -1,6 +1,6 @@
 # adrianofernandesvideo/afe
 
-⭐ 3 · JavaScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/adrianofernandesvideo/afe) · [官网](https://adrianofernandesvideo.github.io/afe/) · 个人维护
+⭐ 3 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/adrianofernandesvideo/afe) · [官网](https://adrianofernandesvideo.github.io/afe/) · 个人维护
 
 **面向设计者的 HTML AI 生成作品可视化编辑器**
 
@@ -46,12 +46,12 @@ AFE 是一款在浏览器中运行的 HTML 作品可视化编辑器，针对固�
 ```mermaid
 xychart-beta
     title "adrianofernandesvideo/afe 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-22 3（+0）
+2026-11-19 3 → 2026-11-23 3（+0）
 
 
 ---

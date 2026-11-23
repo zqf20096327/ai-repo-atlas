@@ -1,6 +1,6 @@
 # ErdemOzgen/blackdagger
 
-⭐ 119 · Go · GPL-3.0 · 推送 2026-06-21 · [GitHub](https://github.com/ErdemOzgen/blackdagger) · [官网](https://blackdagger.readthedocs.io/) · 个人维护
+⭐ 120 · Go · GPL-3.0 · 推送 2026-06-21 · [GitHub](https://github.com/ErdemOzgen/blackdagger) · [官网](https://blackdagger.readthedocs.io/) · 个人维护
 
 **面向 DevOps/DevSecOps/CART 的 YAML DAG 工作流编排工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ErdemOzgen/blackdagger 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 118 --> 121
+    line [119, 120]
 ```
 
-2026-10-20 119 → 2026-11-22 119（+0）
+2026-10-21 119 → 2026-11-23 120（+1）
 
 
 ---

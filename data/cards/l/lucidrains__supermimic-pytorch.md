@@ -1,6 +1,6 @@
 # lucidrains/supermimic-pytorch
 
-⭐ 15 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lucidrains/supermimic-pytorch) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lucidrains/supermimic-pytorch) · 个人维护
 
 **Supermimic 论文的非官方 PyTorch 实现（进行中）**
 
@@ -43,12 +43,12 @@ lucidrains 维护的 Supermimic（基于单一可微世界模型的人形全身�
 ```mermaid
 xychart-beta
     title "lucidrains/supermimic-pytorch 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 5 --> 16
     line [6, 12, 13, 15, 15]
 ```
 
-2026-11-18 6 → 2026-11-22 15（+9）
+2026-11-18 6 → 2026-11-23 15（+9）
 
 
 ---

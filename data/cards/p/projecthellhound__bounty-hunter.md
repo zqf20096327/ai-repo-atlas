@@ -1,6 +1,6 @@
 # projecthellhound/bounty-hunter
 
-⭐ 12 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/projecthellhound/bounty-hunter) · 组织维护
+⭐ 12 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/projecthellhound/bounty-hunter) · 组织维护
 
 **自主漏洞赏金/渗透测试 AI agent：从侦察到利用到报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "projecthellhound/bounty-hunter 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-22"]
+    x-axis ["2026-11-18", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-18 12 → 2026-11-22 12（+0）
+2026-11-18 12 → 2026-11-23 12（+0）
 
 
 ---

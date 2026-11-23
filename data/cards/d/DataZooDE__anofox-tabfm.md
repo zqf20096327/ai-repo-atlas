@@ -1,6 +1,6 @@
 # DataZooDE/anofox-tabfm
 
-⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/DataZooDE/anofox-tabfm) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DataZooDE/anofox-tabfm) · 组织维护
 
 **在 DuckDB 中用 SQL 调用表格基础模型做零样本分类与回归**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DataZooDE/anofox-tabfm 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

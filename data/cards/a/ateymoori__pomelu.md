@@ -1,6 +1,6 @@
 # ateymoori/pomelu
 
-⭐ 15 · Dart · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ateymoori/pomelu) · [官网](https://royan.se/pomelu/) · 组织维护
+⭐ 16 · Dart · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ateymoori/pomelu) · [官网](https://royan.se/pomelu/) · 组织维护
 
 **自托管 Hermes Agent 的开源移动聊天客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ateymoori/pomelu 星数(近 7 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 2 --> 16
-    line [3, 8, 9, 10, 12, 14, 15]
+    title "ateymoori/pomelu 星数(近 8 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 17
+    line [3, 8, 9, 10, 12, 14, 15, 16]
 ```
 
-2026-10-30 3 → 2026-11-22 15（+12）
+2026-10-30 3 → 2026-11-23 16（+13）
 
 
 ---

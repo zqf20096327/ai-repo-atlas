@@ -1,10 +1,10 @@
 # emcie-co/parlant
 
-⭐ 18,339 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/emcie-co/parlant) · [官网](https://www.parlant.io) · 组织维护 · 中文 README
+⭐ 18,339 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/emcie-co/parlant) · [官网](https://www.parlant.io) · 组织维护 · 中文 README
 
-**用自然语言描述行为、由编码 agent 实现的客户对话 agent 构建平台**
+**面向开发者的客户服务 AI agent 构建与运行平台**
 
-Parlant 提供构建面向客户对话 agent 的开源平台：用户以自然语言描述策略与行为，由 Claude Code 等编码 agent 在其代码库上实现。内置策略与流程编目、按对话相关性动态选取规则、工具与回复的执行前校验、标准话术库、聊天组件、人工接管、模拟测试对话与分析观测。模型可自选任意 provider 直接付费；框架 Apache 2.0 开源，Dashboard 托管与监控为按月订阅。要求以 Python 服务运行，agent 行为代码以 Python 编写。
+开源平台，用于构建和运营面向客户的对话 agent（客服/销售/获客）。核心机制是策略目录：每次对话回合筛选相关策略、流程、工具与固定话术投入模型，带工具调用与回复前置校验、人工接管、模拟测试会话、对话分析与可观测性。通过用户自己的编码 agent（如 Claude Code）驱动搭建，提供 Dashboard 托管与本地自托管两种运行方式，Python 3.10–3.14 环境，pip 安装后经 SDK 编写 agent 行为。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@ Parlant 提供构建面向客户对话 agent 的开源平台：用户以自然�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,16 +26,16 @@ Parlant 提供构建面向客户对话 agent 的开源平台：用户以自然�
 
 ## 能力要点
 
-- 策略/流程/工具/话术编目，按轮次动态注入相关性规则
-- 工具调用与回复发送前的校验机制（如退款先检查）
-- 聊天组件、人工接管、模拟测试、分析观测开箱即用
-- 支持 OpenAI、Anthropic、Gemini、LiteLLM 及自定义 provider，无推理加价
+- 按回合筛选策略/流程/工具/固定话术的编排机制
+- 工具与回复的前置校验及人工接管
+- 支持 OpenAI、Anthropic、Gemini、LiteLLM 及自定义 provider
+- 模拟测试会话、对话分析与回复到策略的链路追踪
 
 ## 适用场景
 
-- 给公司网站建一个介绍业务、捕获销售线索并预约会议的 agent
-- 在应用内、邮件等渠道自动化客户支持并保持符合业务政策
-- 让编码 agent 在几分钟内按 FAQ 新增产品规则并跑模拟对话测试
+- 为网站或应用搭建自动客服 agent
+- 搭建产品问答与线索收集的销售 agent
+- 需要 agent 严格遵循企业策略的客户对话场景
 
 ## 场景标签
 
@@ -44,21 +44,20 @@ Parlant 提供构建面向客户对话 agent 的开源平台：用户以自然�
 ## 证据(README 行号)
 
 > L46: **Parlant** is the open platform for building CX agents with AI. It comes with all the parts every customer-facing 
-> L125: Most AI frameworks, and the code a coding agent writes on top of them, are built for that left column: for assista
-> L108: For a full project, run `parlant init my-agent --scaffold retail-store` (a working support agent), `--scaffold lea
+> L129: Most AI frameworks, and the code a coding agent writes on top of them, are built for that left column: for assista
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "emcie-co/parlant 星数(近 18 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    title "emcie-co/parlant 星数(近 19 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 18301 --> 18342
-    line [18304, 18306, 18308, 18310, 18311, 18312, 18313, 18312, 18308, 18327, 18331, 18333, 18332, 18335, 18333, 18335, 18336, 18339]
+    line [18304, 18306, 18308, 18310, 18311, 18312, 18313, 18312, 18308, 18327, 18331, 18333, 18332, 18335, 18333, 18335, 18336, 18339, 18339]
 ```
 
-2026-10-19 18,304 → 2026-11-22 18,339（+35）
+2026-10-20 18,304 → 2026-11-23 18,339（+35）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bcb822beedb7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d6d455b9bc3d` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lkarlslund/tokenrouter 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "lkarlslund/tokenrouter 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 26 --> 29
-    line [27, 28]
+    line [27, 28, 28]
 ```
 
-2026-10-20 27 → 2026-11-22 28（+1）
+2026-10-21 27 → 2026-11-23 28（+1）
 
 
 ---

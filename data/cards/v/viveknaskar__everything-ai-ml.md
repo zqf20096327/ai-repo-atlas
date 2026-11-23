@@ -1,6 +1,6 @@
 # viveknaskar/everything-ai-ml
 
-⭐ 501 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/viveknaskar/everything-ai-ml) · [官网](https://viveknaskar.github.io/everything-ai-ml/) · 个人维护
+⭐ 500 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/viveknaskar/everything-ai-ml) · [官网](https://viveknaskar.github.io/everything-ai-ml/) · 个人维护
 
 **AI/ML 学习资源策展清单：课程、教程与工具链接合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "viveknaskar/everything-ai-ml 星数(近 12 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-22"]
+    title "viveknaskar/everything-ai-ml 星数(近 13 点)"
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 486 --> 502
-    line [487, 488, 489, 490, 491, 492, 488, 497, 498, 499, 500, 501]
+    line [487, 488, 489, 490, 491, 492, 488, 497, 498, 499, 500, 501, 500]
 ```
 
-2026-10-20 487 → 2026-11-22 501（+14）
+2026-10-21 487 → 2026-11-23 500（+13）
 
 
 ---

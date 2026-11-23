@@ -1,6 +1,6 @@
 # model-delivery/registry
 
-⭐ 6 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/model-delivery/registry) · [官网](https://model.delivery) · 组织维护
+⭐ 7 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/model-delivery/registry) · [官网](https://model.delivery) · 组织维护
 
 **自托管模型注册表：镜像一次，从自有基础设施向 HF 客户端提供下载**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "model-delivery/registry 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 4 --> 7
-    line [5, 6]
+    title "model-delivery/registry 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-21 5 → 2026-11-22 6（+1）
+2026-11-21 5 → 2026-11-23 7（+2）
 
 
 ---

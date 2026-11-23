@@ -1,6 +1,6 @@
 # ainsel-project/ainsel
 
-⭐ 5 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ainsel-project/ainsel) · [官网](https://ainsel-project.github.io/ainsel/) · 组织维护
+⭐ 5 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ainsel-project/ainsel) · [官网](https://ainsel-project.github.io/ainsel/) · 组织维护
 
 **Kubernetes-native AI agent 编排平台：事件触发 agent 响应**
 
@@ -47,12 +47,12 @@ AInsel 是部署在 Kubernetes 上的 agent 编排平台：Webhook、cron、控�
 ```mermaid
 xychart-beta
     title "ainsel-project/ainsel 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-10 3 → 2026-11-22 5（+2）
+2026-11-10 3 → 2026-11-23 5（+2）
 
 
 ---

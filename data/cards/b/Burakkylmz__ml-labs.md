@@ -1,6 +1,6 @@
 # Burakkylmz/ml-labs
 
-⭐ 14 · Jupyter Notebook · 推送 2026-11-18 · [GitHub](https://github.com/Burakkylmz/ml-labs) · 个人维护
+⭐ 15 · Jupyter Notebook · 推送 2026-11-21 · [GitHub](https://github.com/Burakkylmz/ml-labs) · 个人维护
 
 **基于 Docker 的机器学习动手实验环境与教程实验集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Burakkylmz/ml-labs 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-11-08 14 → 2026-11-22 14（+0）
+2026-11-08 14 → 2026-11-23 15（+1）
 
 
 ---

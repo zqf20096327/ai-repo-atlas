@@ -1,6 +1,6 @@
 # gojodennis/OpenKombai
 
-⭐ 24 · TypeScript · MIT · 推送 2025-12-16 · [GitHub](https://github.com/gojodennis/OpenKombai) · [官网](https://openkombai.vercel.app) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2025-12-16 · [GitHub](https://github.com/gojodennis/OpenKombai) · [官网](https://openkombai.vercel.app) · 个人维护
 
 **本地 LLM 将截图/设计稿转为 React+Tailwind 代码的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gojodennis/OpenKombai 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-21", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-20 23 → 2026-11-22 24（+1）
+2026-10-21 23 → 2026-11-23 25（+2）
 
 
 ---

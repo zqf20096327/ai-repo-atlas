@@ -1,10 +1,10 @@
 # simplexai-labs/linger
 
-⭐ 3,337 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/simplexai-labs/linger) · [官网](heylinger.com) · 组织维护
+⭐ 3,796 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/simplexai-labs/linger) · [官网](heylinger.com) · 组织维护
 
-**在个人电脑上本地运行的开源个人 agent，含记忆与主动提醒**
+**在消费级电脑上完整本地运行的个人 AI 代理**
 
-面向个人消费者的本地 AI agent 应用：通过自研 MoE 推理引擎 PolyStrata 将 125B 量化模型放进 12 GB GPU + 64 GB RAM 的消费级 Mac/PC 上运行，无云端 token 费用。功能包括 Model Autopilot（检测硬件并推荐/安装模型）、夜间把邮件/日历/Slack 汇入个人 wiki 的共享记忆、监听收件箱并主动提醒的 Another Me（夜间重写决策规则）、agent 团队与任务委派、桌面/浏览器操作、语音转录，以及自带 Claude Code/Codex/Pi 运行时。提供 macOS/Windows/Linux 桌面安装包，Intel Mac 需用 Docker Compose。
+Linger 是一个开源个人代理，在本地 PC/Mac 上运行本地模型：内置自研 MoE 推理引擎 PolyStrata，将高频专家保留在 GPU、其余放入 RAM/SSD，使 125B 模型在 12 GB GPU 上运行；安装时按硬件检测推荐并安装模型。代理侧提供共享 wiki 记忆（夜间从 Gmail/Slack/日历等来源更新为图结构页面）、主动触达的 Another Me 代理（夜间重写决策规则）、agent 团队、后台任务委派、模型调度、桌面/浏览器操作与语音转写。提供 macOS/Windows 安装包与 Docker、源码方式。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- PolyStrata MoE 引擎：热门专家驻留 GPU，其余置于 RAM/SSD，125B 模型跑在 12 GB GPU
-- Model Autopilot 检测 GPU/内存/带宽并自动推荐安装可用模型
-- 夜间将 Gmail/Outlook/Slack/日历/会议整理为实体图谱 wiki，LoCoMo 记忆基准 95%
-- Another Me 主动提醒并在每晚根据反馈重写决策规则，无需重训模型
+- PolyStrata 引擎：125B MoE 模型在 12 GB GPU + 64 GB RAM 上运行（45.5 tok/s @ RTX 3060）
+- Model Autopilot：一条命令检测硬件并推荐、安装、验证模型
+- 夜间将邮件/聊天/会议归档为个人 wiki，全代理共享检索
+- Another Me 代理主动触达并通过夜间 Dreaming 重写决策规则
 
 ## 适用场景
 
-- 在本地电脑上运行个人 AI 助手处理邮件、日程与聊天并保留数据在设备上
-- 让 agent 团队自动操作桌面应用与浏览器并代发邮件（发送前需批准）
-- 让助手在合适时机主动提醒待办与跟进事项
+- 在无云账单、无 token 费用的前提下本地运行个人 AI 助手
+- 让代理记住邮件、聊天和会议中的重要信息并在代理间共享
+- 让代理监控收件箱/日历/Slack 并在需要时主动提醒
+- 一条命令为自己的硬件自动挑选并安装合适的本地模型
 
 ## 场景标签
 
-`AI 助手` `GUI 自动化` · 领域:效率与自动化
+`AI 助手` `推理引擎` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3:  Linger is an open-source personal agent with a Claude-class brain running locally on your PC.
-> L17: - **A Claude-class brain, running locally.** A 125B model on a 12 GB GPU, on everyday Macs and PCs.
-> L74: Tell one agent, and every agent knows. Another Me reads back through your inbox, then each night files your mail, c
+> L16:  Linger in 28.5 seconds: a metal laptop opens, sets up a local model and connects apps. Mail, chats and meetings be
+> L20: - **A loyal AI sidekick.** It remembers what matters, proactively gets things done, and keeps your data on your dev
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "simplexai-labs/linger 星数(近 12 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 0 --> 3667
-    line [30, 68, 117, 182, 251, 342, 397, 421, 454, 1396, 2820, 3337]
+    title "simplexai-labs/linger 星数(近 13 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 0 --> 4172
+    line [30, 68, 117, 182, 251, 342, 397, 421, 454, 1396, 2820, 3337, 3796]
 ```
 
-2026-11-10 30 → 2026-11-22 3,337（+3,307）
+2026-11-10 30 → 2026-11-23 3,796（+3,766）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `12310ef9144b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0837d3b43d88` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ omnigent-zcode 是 Omnigent 的社区 harness 插件，通过 ZCode CLI 的 prin
 ```mermaid
 xychart-beta
     title "anxkhn/omnigent-zcode 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-20 3 → 2026-11-22 3（+0）
+2026-10-21 3 → 2026-11-23 3（+0）
 
 
 ---

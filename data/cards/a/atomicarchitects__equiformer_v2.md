@@ -46,12 +46,12 @@ ICLR 2024 论文 EquiformerV2 的官方 PyTorch 实现：一种等变 Transforme
 ```mermaid
 xychart-beta
     title "atomicarchitects/equiformer_v2 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 352 --> 355
     line [353, 354, 354]
 ```
 
-2026-10-20 353 → 2026-11-22 354（+1）
+2026-10-21 353 → 2026-11-23 354（+1）
 
 
 ---

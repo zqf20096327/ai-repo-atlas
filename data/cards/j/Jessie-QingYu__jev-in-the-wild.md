@@ -1,6 +1,6 @@
 # Jessie-QingYu/jev-in-the-wild
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jessie-QingYu/jev-in-the-wild) · [官网](https://jessie.romeos.cc/full/apps/jev-tracker) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Jessie-QingYu/jev-in-the-wild) · [官网](https://jessie.romeos.cc/full/apps/jev-tracker) · 个人维护
 
 **TypeSafe AI Jev 模型的真实用例、开源项目与批评聚合清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jessie-QingYu/jev-in-the-wild 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 7 --> 11
     line [8, 10, 10]
 ```
 
-2026-10-20 8 → 2026-11-22 10（+2）
+2026-10-21 8 → 2026-11-23 10（+2）
 
 
 ---

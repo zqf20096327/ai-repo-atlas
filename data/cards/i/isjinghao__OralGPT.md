@@ -1,6 +1,6 @@
 # isjinghao/OralGPT
 
-⭐ 111 · Python · 推送 2026-11-18 · [GitHub](https://github.com/isjinghao/OralGPT) · [官网](https://arxiv.org/abs/2509.09254) · 组织维护 · 中文 README
+⭐ 111 · Python · 推送 2026-11-22 · [GitHub](https://github.com/isjinghao/OralGPT) · [官网](https://arxiv.org/abs/2509.09254) · 组织维护 · 中文 README
 
 **牙科数字医学的多模态模型与评测基准家族（OralGPT）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "isjinghao/OralGPT 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-19", "2026-11-23"]
     y-axis "stars" 106 --> 112
     line [107, 110, 109, 110, 111, 111]
 ```
 
-2026-10-19 107 → 2026-11-22 111（+4）
+2026-10-20 107 → 2026-11-23 111（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Superone77/TraceVista
 
-⭐ 95 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Superone77/TraceVista) · [官网](https://tracevista.pages.dev/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **把 agent 运行日志变成可交互决策地图与回放故事的查看器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

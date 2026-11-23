@@ -45,12 +45,12 @@ Magic Commit 是一个 npm 分发的命令行工具：运行 magicc 后自动按
 ```mermaid
 xychart-beta
     title "warengonzaga/magic-commit 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-20 37 → 2026-11-22 37（+0）
+2026-10-21 37 → 2026-11-23 37（+0）
 
 
 ---

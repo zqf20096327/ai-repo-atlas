@@ -41,6 +41,18 @@
 > L7: Keep conversations, papers, OCR text, and live AI web sessions in one spatial workspace. Select a passage, branch fr
 > L48: |**Web nodes**|Bind real ChatGPT, Claude, Gemini, Grok, DeepSeek, Doubao, Qwen, or Kimi tabs through a browser exte
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LaplaceYoung/knowledge-canvas 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e84e6d78d357` · [字段定义](../../DATASET.md)*

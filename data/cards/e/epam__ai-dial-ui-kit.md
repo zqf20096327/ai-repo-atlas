@@ -1,6 +1,6 @@
 # epam/ai-dial-ui-kit
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/epam/ai-dial-ui-kit) · [官网](https://dialx.ai) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/epam/ai-dial-ui-kit) · [官网](https://dialx.ai) · 组织维护
 
 **为开发者构建 AI DIAL 界面的 React 组件库**
 
@@ -46,12 +46,12 @@ EPAM 发布的生产级 React 组件库（TypeScript 编写，Apache 2.0），�
 ```mermaid
 xychart-beta
     title "epam/ai-dial-ui-kit 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-22 10（+0）
+2026-10-20 10 → 2026-11-23 10（+0）
 
 
 ---

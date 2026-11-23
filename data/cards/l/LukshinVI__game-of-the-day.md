@@ -1,6 +1,6 @@
 # LukshinVI/game-of-the-day
 
-⭐ 7 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/LukshinVI/game-of-the-day) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LukshinVI/game-of-the-day) · 个人维护
 
 **为 0–3 岁家庭每日推送 LLM 生成并经校验的儿童游戏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LukshinVI/game-of-the-day 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-23"]
     y-axis "stars" 5 --> 8
     line [6, 7, 7]
 ```
 
-2026-11-19 6 → 2026-11-22 7（+1）
+2026-11-19 6 → 2026-11-23 7（+1）
 
 
 ---

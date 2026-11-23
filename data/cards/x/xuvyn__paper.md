@@ -1,6 +1,6 @@
 # xuvyn/paper
 
-⭐ 20 · Shell · MIT · 推送 2026-11-05 · [GitHub](https://github.com/xuvyn/paper) · 个人维护 · 中文 README
+⭐ 21 · Shell · MIT · 推送 2026-11-05 · [GitHub](https://github.com/xuvyn/paper) · 个人维护 · 中文 README
 
 **个人计算机科学学习清单：论文/书籍/课程/项目追踪**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "xuvyn/paper 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-11-08 20 → 2026-11-22 20（+0）
+2026-11-08 20 → 2026-11-23 21（+1）
 
 
 ---

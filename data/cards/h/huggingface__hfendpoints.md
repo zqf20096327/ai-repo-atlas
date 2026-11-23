@@ -41,12 +41,12 @@ Hugging Face 官方组织下的 SDK，用于创建 Hugging Face Inference Endpoi
 ```mermaid
 xychart-beta
     title "huggingface/hfendpoints 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-20 12 → 2026-11-22 13（+1）
+2026-10-21 12 → 2026-11-23 13（+1）
 
 
 ---

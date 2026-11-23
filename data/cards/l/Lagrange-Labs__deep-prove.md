@@ -1,6 +1,6 @@
 # Lagrange-Labs/deep-prove
 
-⭐ 3,353 · Rust · NOASSERTION · 推送 2026-05-31 · [GitHub](https://github.com/Lagrange-Labs/deep-prove) · [官网](https://lagrange.dev) · 组织维护
+⭐ 3,354 · Rust · NOASSERTION · 推送 2026-05-31 · [GitHub](https://github.com/Lagrange-Labs/deep-prove) · [官网](https://lagrange.dev) · 组织维护
 
 **为神经网络/LLM 推理生成零知识证明的 Rust 框架**
 
@@ -46,12 +46,12 @@ Rust workspace 形式的 ZKML 框架：对神经网络前向推理（GPT-2、Gem
 ```mermaid
 xychart-beta
     title "Lagrange-Labs/deep-prove 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 3350 --> 3356
-    line [3352, 3351, 3352, 3351, 3354, 3355, 3354, 3353, 3353]
+    line [3352, 3351, 3352, 3351, 3354, 3355, 3354, 3353, 3354]
 ```
 
-2026-10-20 3,352 → 2026-11-22 3,353（+1）
+2026-10-21 3,352 → 2026-11-23 3,354（+2）
 
 
 ---

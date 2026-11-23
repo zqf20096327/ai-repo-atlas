@@ -1,6 +1,6 @@
 # primaprashant/awesome-voice-typing
 
-⭐ 218 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/primaprashant/awesome-voice-typing) · [官网](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026) · 个人维护
+⭐ 219 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/primaprashant/awesome-voice-typing) · [官网](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026) · 个人维护
 
 **开源语音输入/听写工具策展清单（桌面、移动、CLI）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "primaprashant/awesome-voice-typing 星数(近 12 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 205 --> 219
-    line [206, 207, 208, 209, 210, 207, 214, 215, 216, 217, 218, 218]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-23"]
+    y-axis "stars" 205 --> 220
+    line [206, 207, 208, 209, 210, 207, 214, 215, 216, 217, 218, 219]
 ```
 
-2026-10-20 206 → 2026-11-22 218（+12）
+2026-10-21 206 → 2026-11-23 219（+13）
 
 
 ---

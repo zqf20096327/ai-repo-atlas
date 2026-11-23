@@ -1,6 +1,6 @@
 # openai/LongGapsBetweenPrimes
 
-⭐ 46 · Lean · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/openai/LongGapsBetweenPrimes) · 组织维护
+⭐ 47 · Lean · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/openai/LongGapsBetweenPrimes) · 组织维护
 
 **素数长间隙定理的 Lean 4 形式化证明（OpenAI 论文）**
 
@@ -44,12 +44,12 @@ OpenAI 论文《Improved Long Gaps Between Primes》结果的 Lean 4 形式化�
 ```mermaid
 xychart-beta
     title "openai/LongGapsBetweenPrimes 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
-    y-axis "stars" 43 --> 47
-    line [44, 46, 46]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
+    y-axis "stars" 43 --> 48
+    line [44, 46, 47]
 ```
 
-2026-10-20 44 → 2026-11-22 46（+2）
+2026-10-21 44 → 2026-11-23 47（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # EvanClub-Agent/protoflow-ai
 
-⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/EvanClub-Agent/protoflow-ai) · 组织维护 · 中文 README
+⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/EvanClub-Agent/protoflow-ai) · 组织维护 · 中文 README
 
 **给产品经理与开发团队的 AI 可视化原型设计与 ER 建模桌面工作台**
 
@@ -41,6 +41,18 @@ Electron + React 桌面工作台：用自然语言描述业务后，AI 先澄清
 > L27: 在真实研发协作中，产品经理与开发团队常常困在两种极端工具之间：要么画**点不动的静态线框图**，要么让 AI 生成**一次性、没法改局部、页面之间数据各编各的孤立网页**。Alex 专为打通从「需求梳理」到「业务闭环验收」而设计：
 > L58:  07 · 开箱即用的 AI 引擎管理中心
 > L216: - **Q：不配置 AI 模型，或者不部署 Docker 服务端，能用 Alex 吗？**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EvanClub-Agent/protoflow-ai 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 7
+    line [4, 6]
+```
+
+2026-11-22 4 → 2026-11-23 6（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Brando-2077/model-radar
 
-⭐ 11 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Brando-2077/model-radar) · [官网](https://brando-2077.github.io/model-radar/) · 个人维护 · 中文 README
+⭐ 11 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Brando-2077/model-radar) · [官网](https://brando-2077.github.io/model-radar/) · 个人维护 · 中文 README
 
 **按任务场景给 LLM 生成 8 维能力雷达图的选型工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Brando-2077/model-radar 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-23", "2026-11-11", "2026-11-23"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-23 10 → 2026-11-22 11（+1）
+2026-10-23 10 → 2026-11-23 11（+1）
 
 
 ---

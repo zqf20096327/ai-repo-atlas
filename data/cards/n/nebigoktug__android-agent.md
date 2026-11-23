@@ -1,6 +1,6 @@
 # nebigoktug/android-agent
 
-⭐ 6 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/nebigoktug/android-agent) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/nebigoktug/android-agent) · 个人维护
 
 **让 AI agent 通过文本方式操作安卓手机与应用的工具**
 
@@ -46,12 +46,12 @@ android-agent 通过 Android 无障碍树以文本形式读取屏幕，替代截
 ```mermaid
 xychart-beta
     title "nebigoktug/android-agent 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3 --> 7
-    line [4, 6, 6]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 3 --> 9
+    line [4, 6, 8]
 ```
 
-2026-11-20 4 → 2026-11-22 6（+2）
+2026-11-20 4 → 2026-11-23 8（+4）
 
 
 ---

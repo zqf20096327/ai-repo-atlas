@@ -1,6 +1,6 @@
 # gogoymh/git-ontology-agent
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gogoymh/git-ontology-agent) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gogoymh/git-ontology-agent) · 个人维护
 
 **为 agent 任务提供 git 分支与本体管理的中途请求处理框架**
 
@@ -40,6 +40,18 @@
 > L18: Git lets the agent keep working on one branch while it handles a separate request on another. The ontology tracks d
 > L140: |1|Open request?|git|No `req/*` branch open → branch from `main`, go to 4|
 > L232: pip install git+https://github.com/gogoymh/git-ontology-agent
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gogoymh/git-ontology-agent 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 1 --> 25
+    line [3, 23]
+```
+
+2026-11-22 3 → 2026-11-23 23（+20）
 
 
 ---

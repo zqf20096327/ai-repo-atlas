@@ -1,6 +1,6 @@
 # ihabkhaled/AI-Psychiatry
 
-⭐ 13 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ihabkhaled/AI-Psychiatry) · [官网](https://claw-ai.co) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ihabkhaled/AI-Psychiatry) · [官网](https://claw-ai.co) · 个人维护
 
 **为 AI 编码代理提供执行控制层的 Claude 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ihabkhaled/AI-Psychiatry 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 10, 12, 13, 13]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 10, 12, 13, 15]
 ```
 
-2026-10-26 10 → 2026-11-22 13（+3）
+2026-10-26 10 → 2026-11-23 15（+5）
 
 
 ---

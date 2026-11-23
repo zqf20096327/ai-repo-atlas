@@ -41,6 +41,18 @@ DeepSeek Harness 插件：在每条回复末尾展示最多 5 条可点击的建
 > L7: 给 DeepSeek Harness 的每条回复末尾加一排**可点的建议胶囊（Suggestion Chips）**。点一下，那句话就直接作为你的消息发出去——不用自己打。每条建议右侧还有一个小按钮（输入框图标）：点它只把这句话**
 > L38: - **Host 侧**：注册一个 `suggest_actions` 工具。模型写完回复后调用一次，参数里带 1-5 条建议；工具立刻返回并**直接结束这一轮**（宿主的 `concludeTurn()`，可通过 `config
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "taxueseek/dsh-suggestion-chips 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-22 6 → 2026-11-23 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dd0b26e75818` · [字段定义](../../DATASET.md)*

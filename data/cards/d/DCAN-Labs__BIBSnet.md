@@ -44,12 +44,12 @@ BIBSNet（Baby and Infant Brain Segmentation Neural Network）是以 BIDS App �
 ```mermaid
 xychart-beta
     title "DCAN-Labs/BIBSnet 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-20 13 → 2026-11-22 13（+0）
+2026-10-21 13 → 2026-11-23 13（+0）
 
 
 ---

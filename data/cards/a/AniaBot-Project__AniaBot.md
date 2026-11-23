@@ -1,6 +1,6 @@
 # AniaBot-Project/AniaBot
 
-⭐ 19 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/AniaBot-Project/AniaBot) · [官网](https://aniabot-project.github.io/AniaBot/) · 组织维护 · 中文 README
+⭐ 19 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AniaBot-Project/AniaBot) · [官网](https://aniabot-project.github.io/AniaBot/) · 组织维护 · 中文 README
 
 **Go 语言插件驱动型多平台聊天机器人框架，内置 AI 对话插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AniaBot-Project/AniaBot 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-23"]
     y-axis "stars" 15 --> 20
     line [16, 17, 18, 16, 18, 19, 19]
 ```
 
-2026-10-19 16 → 2026-11-22 19（+3）
+2026-10-20 16 → 2026-11-23 19（+3）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hoangsonww/Moodify-Emotion-Music-App 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-22"]
+    title "hoangsonww/Moodify-Emotion-Music-App 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23"]
     y-axis "stars" 81 --> 85
-    line [82, 83, 84, 83]
+    line [82, 83, 84, 83, 83]
 ```
 
-2026-10-20 82 → 2026-11-22 83（+1）
+2026-10-21 82 → 2026-11-23 83（+1）
 
 
 ---

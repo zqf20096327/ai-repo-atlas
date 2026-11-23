@@ -1,6 +1,6 @@
 # robzolkos/web-recap
 
-⭐ 39 · Go · MIT · 推送 2025-12-17 · [GitHub](https://github.com/robzolkos/web-recap) · 个人维护
+⭐ 40 · Go · MIT · 推送 2025-12-17 · [GitHub](https://github.com/robzolkos/web-recap) · 个人维护
 
 **提取多浏览器历史并输出 LLM 可用 JSON 的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "robzolkos/web-recap 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-02", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-02", "2026-11-23"]
     y-axis "stars" 38 --> 41
-    line [39, 40, 39, 39]
+    line [39, 40, 39, 40]
 ```
 
-2026-10-20 39 → 2026-11-22 39（+0）
+2026-10-21 39 → 2026-11-23 40（+1）
 
 
 ---

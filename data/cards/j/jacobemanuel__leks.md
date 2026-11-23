@@ -41,6 +41,18 @@ LEKS 是运行在本机的 MCP 搜索服务器：索引项目里的笔记、决�
 > L12:  MCP server for Claude Code, GitHub Copilot and Codex
 > L18: A search server for coding agents that runs on your own machine. It indexes the notes, decisions, specs, PDFs, Word
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jacobemanuel/leks 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f6afa4f3efb9` · [字段定义](../../DATASET.md)*

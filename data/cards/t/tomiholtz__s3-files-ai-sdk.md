@@ -1,6 +1,6 @@
 # tomiholtz/s3-files-ai-sdk
 
-⭐ 25 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/tomiholtz/s3-files-ai-sdk) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/tomiholtz/s3-files-ai-sdk) · 个人维护
 
 **端侧模型推理基准评测工具：跨 delegate 汇总延迟/内存/温度**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tomiholtz/s3-files-ai-sdk 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-13", "2026-11-22"]
-    y-axis "stars" 24 --> 28
-    line [27, 26, 25, 25]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-13", "2026-11-23"]
+    y-axis "stars" 23 --> 28
+    line [27, 26, 25, 24]
 ```
 
-2026-10-20 27 → 2026-11-22 25（-2）
+2026-10-21 27 → 2026-11-23 24（-3）
 
 
 ---

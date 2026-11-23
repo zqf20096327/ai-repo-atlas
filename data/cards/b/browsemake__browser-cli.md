@@ -1,6 +1,6 @@
 # browsemake/browser-cli
 
-⭐ 50 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/browsemake/browser-cli) · 组织维护
+⭐ 50 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/browsemake/browser-cli) · 组织维护
 
 **供 LLM agent 调用的浏览器自动化命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "browsemake/browser-cli 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 48 --> 51
     line [49, 50, 49, 50, 50]
 ```
 
-2026-10-20 49 → 2026-11-22 50（+1）
+2026-10-21 49 → 2026-11-23 50（+1）
 
 
 ---

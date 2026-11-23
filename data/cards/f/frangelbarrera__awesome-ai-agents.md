@@ -1,6 +1,6 @@
 # frangelbarrera/awesome-ai-agents
 
-⭐ 21 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/frangelbarrera/awesome-ai-agents) · 个人维护
+⭐ 22 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/frangelbarrera/awesome-ai-agents) · 个人维护
 
 **AI agent 工具策展清单：覆盖框架、编码/自动化/安全 agent 等 22 类**
 
@@ -45,12 +45,12 @@ CC0 许可的策展清单（awesome list），收录 AI agent 框架、编程与
 ```mermaid
 xychart-beta
     title "frangelbarrera/awesome-ai-agents 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-19 20 → 2026-11-22 21（+1）
+2026-10-20 20 → 2026-11-23 22（+2）
 
 
 ---

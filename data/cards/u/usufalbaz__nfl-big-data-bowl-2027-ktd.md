@@ -1,6 +1,6 @@
 # usufalbaz/nfl-big-data-bowl-2027-ktd
 
-⭐ 7 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/usufalbaz/nfl-big-data-bowl-2027-ktd) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 NFL 球探的选秀表现预测生物力学指标研究项目**
 
@@ -11,7 +11,7 @@ Kaggle NFL Big Data Bowl 2027 的参赛提交项目：提出 Kinetic Translation
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

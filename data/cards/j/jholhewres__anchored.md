@@ -1,6 +1,6 @@
 # jholhewres/anchored
 
-⭐ 13 · Go · MIT · 推送 2026-10-17 · [GitHub](https://github.com/jholhewres/anchored) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jholhewres/anchored) · 个人维护
 
 **供多种 AI 编码 agent 共享的本地持久记忆（单二进制 MCP 服务器）**
 
@@ -45,12 +45,12 @@ Go 编写的单二进制本地记忆存储，通过 MCP 协议让 Claude Code、
 ```mermaid
 xychart-beta
     title "jholhewres/anchored 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-20 13 → 2026-11-22 13（+0）
+2026-10-21 13 → 2026-11-23 13（+0）
 
 
 ---

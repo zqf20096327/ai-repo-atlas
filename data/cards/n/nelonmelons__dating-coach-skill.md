@@ -1,6 +1,6 @@
 # nelonmelons/dating-coach-skill
 
-⭐ 3 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/nelonmelons/dating-coach-skill) · 个人维护 · 中文 README
+⭐ 4 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/nelonmelons/dating-coach-skill) · 个人维护 · 中文 README
 
 **Claude Code 技能：给出可执行的约会建议并附研究依据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nelonmelons/dating-coach-skill 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-11", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-11 3 → 2026-11-22 3（+0）
+2026-11-11 3 → 2026-11-23 4（+1）
 
 
 ---

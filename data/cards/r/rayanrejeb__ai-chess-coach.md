@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rayanrejeb/ai-chess-coach 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    title "rayanrejeb/ai-chess-coach 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-22", "2026-11-23"]
     y-axis "stars" 4 --> 7
-    line [5, 6]
+    line [5, 6, 6]
 ```
 
-2026-11-10 5 → 2026-11-22 6（+1）
+2026-11-10 5 → 2026-11-23 6（+1）
 
 
 ---

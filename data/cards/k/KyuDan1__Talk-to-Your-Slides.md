@@ -45,12 +45,12 @@ ACL 2026 Findings 论文配套系统：LLM 驱动的 agent 通过 COM/python-ppt
 ```mermaid
 xychart-beta
     title "KyuDan1/Talk-to-Your-Slides 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-19 34 → 2026-11-22 35（+1）
+2026-10-20 34 → 2026-11-23 35（+1）
 
 
 ---

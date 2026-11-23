@@ -1,6 +1,6 @@
 # lenaxia/k8s-mechanic
 
-⭐ 60 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/lenaxia/k8s-mechanic) · 个人维护
+⭐ 60 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lenaxia/k8s-mechanic) · 个人维护
 
 **监测 K8s 故障并用 LLM agent 自动开修复 PR 的控制器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lenaxia/k8s-mechanic 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-23"]
     y-axis "stars" 58 --> 61
     line [59, 60, 60]
 ```
 
-2026-10-19 59 → 2026-11-22 60（+1）
+2026-10-20 59 → 2026-11-23 60（+1）
 
 
 ---

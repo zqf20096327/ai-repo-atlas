@@ -1,6 +1,6 @@
 # nikshepsvn/bankai
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/nikshepsvn/bankai) · [官网](https://github.com/nikshepsvn/bankai) · 个人维护
+⭐ 90 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/nikshepsvn/bankai) · [官网](https://github.com/nikshepsvn/bankai) · 个人维护
 
 **面向真 1-bit LLM 的 XOR 稀疏补丁后训练适配方法与工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nikshepsvn/bankai 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-23"]
     y-axis "stars" 89 --> 92
-    line [90, 91, 91]
+    line [90, 91, 90]
 ```
 
-2026-10-20 90 → 2026-11-22 91（+1）
+2026-10-21 90 → 2026-11-23 90（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentcommunity/agent-identity-discovery
 
-⭐ 48 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/agentcommunity/agent-identity-discovery) · [官网](https://aid.agentcommunity.org/) · 组织维护
+⭐ 48 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/agentcommunity/agent-identity-discovery) · [官网](https://aid.agentcommunity.org/) · 组织维护
 
 **基于 DNS TXT 记录的 agent 服务发现开放标准与多语言库**
 
@@ -46,12 +46,12 @@ Agent Identity & Discovery (AID) 是一个开放标准：在域名下发布一�
 ```mermaid
 xychart-beta
     title "agentcommunity/agent-identity-discovery 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-20 48 → 2026-11-22 48（+0）
+2026-10-21 48 → 2026-11-23 48（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # audi0417/agent-engineering-roadmap
 
-⭐ 26 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/audi0417/agent-engineering-roadmap) · [官网](https://audi0417.github.io/agent-engineering-roadmap/) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/audi0417/agent-engineering-roadmap) · [官网](https://audi0417.github.io/agent-engineering-roadmap/) · 个人维护 · 中文 README
 
 **面向 AI 工程师的双语 Agent 工程实践课程路线图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "audi0417/agent-engineering-roadmap 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22"]
-    y-axis "stars" 19 --> 27
-    line [20, 21, 22, 20, 24, 25, 26, 26]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-23"]
+    y-axis "stars" 19 --> 28
+    line [20, 21, 22, 20, 24, 25, 26, 27]
 ```
 
-2026-10-20 20 → 2026-11-22 26（+6）
+2026-10-21 20 → 2026-11-23 27（+7）
 
 
 ---

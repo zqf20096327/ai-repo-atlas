@@ -1,6 +1,6 @@
 # eggyrooch-blip/XBooster
 
-⭐ 17 · JavaScript · 推送 2026-01-21 · [GitHub](https://github.com/eggyrooch-blip/XBooster) · [官网](https://x.com/eggyrooch) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · 推送 2026-01-21 · [GitHub](https://github.com/eggyrooch-blip/XBooster) · [官网](https://x.com/eggyrooch) · 个人维护 · 中文 README
 
 **Chrome 扩展：在 X 平台批量生成 AI 评论并按潜力筛选帖子**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eggyrooch-blip/XBooster 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 16 --> 20
+    line [17, 19]
 ```
 
-2026-10-20 17 → 2026-11-22 17（+0）
+2026-10-21 17 → 2026-11-23 19（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # bluesky-social/diderot
 
-⭐ 38 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/bluesky-social/diderot) · [官网](https://diderot.dev) · 组织维护
+⭐ 47 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/bluesky-social/diderot) · [官网](https://diderot.dev) · 组织维护
 
 **自托管企业知识问答：跨 Slack、编码会话、文档检索并带引用作答**
 
@@ -40,6 +40,18 @@
 > L3: Diderot answers questions about what your organization has written down. It
 > L6: searches that corpus and answers with citations: in Slack, and as an MCP
 > L31: - **Ask.** An agent that calls `retrieve`, `list`, and `expand` over the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bluesky-social/diderot 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 37 --> 48
+    line [38, 47]
+```
+
+2026-11-22 38 → 2026-11-23 47（+9）
 
 
 ---

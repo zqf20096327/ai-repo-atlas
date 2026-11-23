@@ -1,6 +1,6 @@
 # eldoary/Visionary-Training-Studio
 
-⭐ 55 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/eldoary/Visionary-Training-Studio) · 个人维护 · 中文 README
+⭐ 55 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/eldoary/Visionary-Training-Studio) · 个人维护 · 中文 README
 
 **容器化的无代码深度学习模型训练工作台（Streamlit 界面）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eldoary/Visionary-Training-Studio 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-20 55 → 2026-11-22 55（+0）
+2026-10-21 55 → 2026-11-23 55（+0）
 
 
 ---

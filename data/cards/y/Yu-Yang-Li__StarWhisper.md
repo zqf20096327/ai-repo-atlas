@@ -1,6 +1,6 @@
 # Yu-Yang-Li/StarWhisper
 
-⭐ 332 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Yu-Yang-Li/StarWhisper) · [官网](https://yu-yang-li.github.io/StarWhisper/) · 个人维护 · 中文 README
+⭐ 333 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Yu-Yang-Li/StarWhisper) · [官网](https://yu-yang-li.github.io/StarWhisper/) · 个人维护 · 中文 README
 
 **天文语言模型与自主观测研究的代码数据集合**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Yu-Yang-Li/StarWhisper 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 329 --> 333
-    line [330, 331, 332, 332]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 329 --> 334
+    line [330, 331, 332, 333]
 ```
 
-2026-10-19 330 → 2026-11-22 332（+2）
+2026-10-20 330 → 2026-11-23 333（+3）
 
 
 ---

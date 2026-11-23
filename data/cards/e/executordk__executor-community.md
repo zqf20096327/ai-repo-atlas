@@ -1,6 +1,6 @@
 # executordk/executor-community
 
-⭐ 57 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/executordk/executor-community) · [官网](https://executor.dk) · 个人维护
+⭐ 57 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/executordk/executor-community) · [官网](https://executor.dk) · 个人维护
 
 **Windows 桌面工作流应用的社区资源仓库**
 
@@ -44,12 +44,12 @@ Executor（Windows 免费桌面工作流/启动器应用）的官方社区资源
 ```mermaid
 xychart-beta
     title "executordk/executor-community 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-23"]
     y-axis "stars" 51 --> 58
     line [52, 53, 54, 53, 54, 55, 56, 57, 57]
 ```
 
-2026-10-20 52 → 2026-11-22 57（+5）
+2026-10-21 52 → 2026-11-23 57（+5）
 
 
 ---

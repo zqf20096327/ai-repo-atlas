@@ -1,10 +1,10 @@
 # Atmosphere/atmosphere
 
-⭐ 3,835 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Atmosphere/atmosphere) · [官网](https://async-io.live) · 组织维护
+⭐ 3,837 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Atmosphere/atmosphere) · [官网](https://async-io.live) · 组织维护
 
-**JVM 上的 AI agent 实时运行时框架：一个 @Agent 跨 12 个运行时适配器运行**
+**JVM 上 AI Agent 的实时运行时框架：一套 @Agent 接多种运行时**
 
-面向 JVM 团队的 AI agent 框架：通过 AgentRuntime SPI 提供 12 个运行时适配器（内置 OpenAI 兼容、Spring AI、LangChain4j、Google ADK、Anthropic、Cohere 等），同一个 @Agent 类可切换适配器运行。提供 WebSocket/SSE/gRPC/WebTransport 流式传输、治理（策略准入、人工审批、成本上限、PII 重写）、持久会话与重放、MCP/A2A/AG-UI 协议端点及 Slack/Telegram 等渠道模块。定位为框架而非托管平台，不托管模型权重，宿主容器负责计算调度。通过 brew/curl 安装 CLI，Maven Central 发布。
+面向 JVM 的实时事件驱动 Agent 框架，定位为运行时原语而非托管平台，宿主（Tomcat/Quarkus/Spring Boot 等）负责计算与调度。一个 @Agent 注解声明 agent，通过 AgentRuntime SPI 接 12 个运行时适配器（Spring AI、LangChain4j、Anthropic、Cohere、Google ADK 等），经 WebSocket/SSE/gRPC 流式输出，并暴露 MCP、A2A、AG-UI 端点。内置记忆、计划、虚拟文件系统、子 agent 委派的 harness，提供策略准入、HITL 审批、成本上限、PII 改写与 lineage 观测。安装走 brew/curl CLI 或 Maven/npm。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- AgentRuntime SPI + 12 个运行时适配器，同一 @Agent 代码切换调度后端
-- WebSocket/SSE/长轮询/gRPC/可选 WebTransport(HTTP/3) 单一广播管道
-- 治理链路：策略准入、人工审批、成本上限、PII 重写、管理端终止开关
-- 内置深度 agent 能力：记忆、write_todos 计划、虚拟文件系统、子 agent 委派
+- AgentRuntime SPI 带 12 个可互换运行时适配器，能力由契约测试固定
+- WebSocket/SSE/long-polling/gRPC 统一广播管道，可选 WebTransport/HTTP-3
+- MCP、A2A、AG-UI 端点与 Slack/Telegram/Discord 等频道适配器
+- 治理机制：策略准入、持久化 HITL 审批、成本上限、PII 改写、admin kill switch
 
 ## 适用场景
 
-- 在现有 Spring Boot/JVM 栈中构建有治理的人工在环 agent 服务
-- 让同一 agent 代码跨 Spring AI、LangChain4j、Anthropic 等运行时移植
-- 通过 MCP/A2A/AG-UI 及 Slack/Telegram 等渠道对外暴露 agent
+- 在既有 JVM/Spring 技术栈里运行带治理与人工审批的 agent
+- 同一 agent 代码在多个 AI 框架适配器间切换而无需改端点
+- 把 agent 通过 MCP/A2A/AG-UI 暴露给多客户端与消息渠道
+- 需要重连、断点恢复与回放的长时 agent 会话
 
 ## 场景标签
 
@@ -37,21 +38,22 @@
 
 ## 证据(README 行号)
 
+> L5:  The real-time engine for AI agents on the JVM. Tokens flow from the LLM runtime to the client through a broadcaster
 > L20: |Swap AI integrations|One `AgentRuntime` SPI with twelve runtime adapters and contract-tested capability flags|
-> L35: |Runtime dispatch|`atmosphere-ai` `AgentRuntime` SPI + 12 adapters with contract-tested capability flags|Model host
+> L130: `atmosphere-ai` ships the `AgentRuntime` SPI plus the Built-in OpenAI-compatible adapter. Eleven additional adapte
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Atmosphere/atmosphere 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 3820 --> 3837
-    line [3821, 3823, 3824, 3825, 3827, 3828, 3823, 3830, 3833, 3834, 3836, 3835, 3835]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 3820 --> 3838
+    line [3821, 3823, 3824, 3825, 3827, 3828, 3823, 3830, 3833, 3834, 3836, 3835, 3837]
 ```
 
-2026-10-20 3,821 → 2026-11-22 3,835（+14）
+2026-10-21 3,821 → 2026-11-23 3,837（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `4a44c82760c7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c905ffed2920` · [字段定义](../../DATASET.md)*

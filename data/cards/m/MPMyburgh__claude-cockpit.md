@@ -1,6 +1,6 @@
 # MPMyburgh/claude-cockpit
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/MPMyburgh/claude-cockpit) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/MPMyburgh/claude-cockpit) · 个人维护
 
 **给 Claude Code 用户显示各子代理运行状态的侧边栏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MPMyburgh/claude-cockpit 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 2 --> 10
-    line [3, 6, 8, 9, 9]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 2 --> 11
+    line [3, 6, 8, 9, 10]
 ```
 
-2026-11-13 3 → 2026-11-22 9（+6）
+2026-11-13 3 → 2026-11-23 10（+7）
 
 
 ---

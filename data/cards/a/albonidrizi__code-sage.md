@@ -46,12 +46,12 @@ GitHub Pull Request 异步审查服务的参考实现：校验 GitHub webhook（
 ```mermaid
 xychart-beta
     title "albonidrizi/code-sage 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-20 22 → 2026-11-22 22（+0）
+2026-10-21 22 → 2026-11-23 22（+0）
 
 
 ---

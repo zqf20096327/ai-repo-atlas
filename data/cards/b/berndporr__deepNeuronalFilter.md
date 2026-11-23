@@ -1,6 +1,6 @@
 # berndporr/deepNeuronalFilter
 
-⭐ 15 · C++ · GPL-3.0 · 推送 2025-11-26 · [GitHub](https://github.com/berndporr/deepNeuronalFilter) · [官网](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277974) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **闭环深度学习滤波库：借助噪声参考信号去除信号噪声**
 
@@ -11,7 +11,7 @@ C++ 实现的 Deep Neuronal Filter（DNF）库，用深度学习进行闭环自�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

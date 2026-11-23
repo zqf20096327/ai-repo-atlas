@@ -1,6 +1,6 @@
 # five-plus-one/AI-Marker-Suite-Docs
 
-⭐ 10 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/five-plus-one/AI-Marker-Suite-Docs) · [官网](https://aimarking.five-plus-one.com/) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/five-plus-one/AI-Marker-Suite-Docs) · [官网](https://aimarking.five-plus-one.com/) · 个人维护 · 中文 README
 
 **AI 批改助手的文档站：查找脚本安装、评分设置与平台阅卷步骤**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "five-plus-one/AI-Marker-Suite-Docs 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-22 10（+0）
+2026-11-20 10 → 2026-11-23 10（+0）
 
 
 ---

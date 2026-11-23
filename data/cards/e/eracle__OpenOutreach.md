@@ -1,57 +1,58 @@
 # eracle/OpenOutreach
 
-⭐ 3,807 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/eracle/OpenOutreach) · [官网](https://openoutreach.app) · 个人维护
+⭐ 3,813 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/eracle/OpenOutreach) · [官网](https://openoutreach.app) · 个人维护
 
-**自托管的 B2B 线索挖掘 AI agent：描述产品即找人选人并发信**
+**自托管 CLI：为 B2B 卖家自动找线索、判定匹配理由并发邮件**
 
-自托管 CLI 编排器，组合两个子程序：OpenOutFind 负责从授权数据源（BetterContact Lead Finder）发现候选、用 LLM 按用户描述所学 ICP 逐个判定并写出理由、经置信门控付费解析工作邮箱；OpenOutSend 负责从用户自己的邮箱撰写并发送开场邮件（含发送窗口/日上限/节奏守卫）。面向自带 LLM 与数据源 API key 的销售/增长人员，无浏览器、无爬取。输出 CSV 兼容 Instantly/Smartlead 导入列名；学习环路部分自述为尚在实验、未证明优于随机。通过 uv 一条命令安装，附带 Claude Code 插件与技能文件。
+自托管的开源线索开发代理：用户输入产品描述与目标市场，系统从授权数据源检索候选者，LLM 依据推断的 ICP 逐人判定是否匹配并写出理由，通过置信门控决定是否付费解析工作邮箱，再从用户自己的邮箱发出开场邮件。由 OpenOutFind（发现/判定/CRM）与 OpenOutSend（发送代理/发信守卫）两个独立程序组成，本仓库为编排器。需要 LLM API key、BetterContact key 与邮箱 SMTP 凭据；状态存于 ~/.openoutreach，无浏览器、无容器。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | Apache-2.0 |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 输入为一句产品描述，LLM 生成检索关键词并在授权数据源中翻页寻人
-- 每个线索附 LLM 写出的文字版入选理由，无评分列
-- 置信门控按需付费：仅对最优线索花费邮箱解析额度
-- 导出 CSV 列名对齐 Instantly/Smartlead，无需列映射即可导入
+- 发现→判定→门控→解析→撰写→发送六步流水线，判定理由随线索以纯文本输出
+- CSV 输出列名兼容 Instantly/Smartlead 导入器，无需字段映射
+- 附带 Claude Code 插件与通用 SKILL.md，其他 agent 可直接调用同一 CLI
+- LLM key 与 SMTP 登录在引导阶段即被验证；状态持久化于 ~/.openoutreach
 
 ## 适用场景
 
-- 我不想上传名单，直接描述产品和目标市场来找潜在客户
-- 在本地跑完整流程：发现、判定、买邮箱、从我的邮箱发出首封邮件
-- 把带理由的线索 CSV 导入我现有的邮件序列工具
+- 用一句话产品描述代替手工整理线索清单
+- 把带判定理由的线索导出到既有邮件序列工具
+- 在 agent 会话里直接调用 find/send 拉取线索
 
 ## 场景标签
 
- · 领域:销售营销自动化
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L20: OpenOutreach is a **self-hosted, open-source lead finder that qualifies for you — and then writes
-> L206: 4. **An LLM qualifies each candidate** against your ICP and **writes down why**. A Gaussian Process
+> L22: OpenOutreach is a **self-hosted, open-source lead finder that qualifies for you — and then writes
+> L216: 4. **An LLM qualifies each candidate** against your ICP and **writes down why**. A Gaussian Process
+> L220: 6. **The outreach agent writes each opener** from the same product description, and the send guards
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "eracle/OpenOutreach 星数(近 26 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3289 --> 3854
-    line [3336, 3377, 3386, 3394, 3411, 3420, 3427, 3433, 3442, 3452, 3458, 3465, 3394, 3555, 3597, 3646, 3673, 3686, 3703, 3720, 3739, 3748, 3764, 3773, 3798, 3807]
+    title "eracle/OpenOutreach 星数(近 27 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3289 --> 3860
+    line [3336, 3377, 3386, 3394, 3411, 3420, 3427, 3433, 3442, 3452, 3458, 3465, 3394, 3555, 3597, 3646, 3673, 3686, 3703, 3720, 3739, 3748, 3764, 3773, 3798, 3807, 3813]
 ```
 
-2026-10-19 3,336 → 2026-11-22 3,807（+471）
+2026-10-20 3,336 → 2026-11-23 3,813（+477）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `dd02e7230547` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2331dffa07df` · [字段定义](../../DATASET.md)*

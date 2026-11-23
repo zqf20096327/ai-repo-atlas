@@ -1,6 +1,6 @@
 # zhengkai15/Awesome-Weather-Forecast
 
-⭐ 22 · MIT · 推送 2026-08-04 · [GitHub](https://github.com/zhengkai15/Awesome-Weather-Forecast) · 个人维护
+⭐ 23 · MIT · 推送 2026-08-04 · [GitHub](https://github.com/zhengkai15/Awesome-Weather-Forecast) · 个人维护
 
 **AI 气象预报论文与资源策展清单，覆盖 10 类主题**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhengkai15/Awesome-Weather-Forecast 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-20 22 → 2026-11-22 22（+0）
+2026-10-21 22 → 2026-11-23 23（+1）
 
 
 ---

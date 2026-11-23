@@ -1,10 +1,10 @@
 # meizhong986/WhisperJAV
 
-⭐ 2,493 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/meizhong986/WhisperJAV) · [官网](https://github.com/meizhong986/WhisperJAV/releases/latest) · 个人维护 · 中文 README
+⭐ 2,499 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/meizhong986/WhisperJAV) · [官网](https://github.com/meizhong986/WhisperJAV/releases/latest) · 个人维护 · 中文 README
 
-**面向 JAV 的本地日文语音字幕生成器（ASR/STT）**
+**本地运行的日语成人视频字幕生成工具，抗噪声与幻觉**
 
-在本地为日本成人视频生成 SRT/WebVTT 字幕的桌面与命令行工具，不上传媒体到云端。针对低信噪比、非语言发声与长音频幻觉三类失败模式设计：按场景切分音频、VAD 钳制只送入真实语音、置信度阈值过滤与日文感知后处理。可选两遍集成流水线（如 Qwen3-ASR + FireRedVAD / Anime-Whisper + TEN VAD）、htdemucs 等语音增强（仅用于 VAD）、Ollama/DeepSeek/Gemini 翻译。支持 Windows 安装包、GUI、CLI、Colab/Kaggle 笔记本；输入依赖 FFmpeg 可读的音视频格式。
+WhisperJAV 是面向日语成人视频（JAV）的语音识别与字幕生成工具，本地运行、不上传媒体。针对长录音低信噪比、非语言发声干扰与 Whisper 类模型的漂移幻觉三类失效模式，采用场景切分、VAD 钳制与防御性解码后处理（幻觉/重复行移除、日语文本重组、时间轴修复）。支持 GUI 与 CLI，输出 SRT/WebVTT，提供单管道与双通道 ensemble 合并模式。Windows 有安装包，也可通过 Colab/Kaggle 笔记本运行。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 模型依赖 | local-ok | 支持本地模型 |
+| 硬件要求 | `gpu-8g` | |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 场景切分 + VAD 钳制 + 防御式解码抑制幻觉
-- 两遍集成流水线：Qwen3-ASR/Anime-Whisper 配 FireRedVAD/TEN VAD
-- htdemucs 语音增强仅驱动 VAD，识别仍用原始音频
-- 运行结束输出 done/empty/suspect/failed 状态表与覆盖率（MILEAGE）
+- 场景切分 + VAD 钳制 + 置信阈值过滤的幻觉防御管线
+- 可互换后端：Qwen3-ASR、anime-whisper、Faster-Whisper、HF Whisper、九条 GGUF (CrispASR) 管道
+- 双通道 ensemble 合并（pass1/pass2、6 种合并策略、GUI 预设）
+- 日语感知后处理：终助词/相槌/方言重组与纯拟声行移除
 
 ## 适用场景
 
-- 为日文长视频本地生成带时间轴的字幕，不上传云端
-- 处理低信噪比、含大量非语言发声的音频并抑制幻觉字幕
-- 批量转写字件夹内视频并按字幕格式输出 SRT/WebVTT
+- 为长篇日语视频批量生成 SRT 字幕
+- 对嘈杂/低信噪比音频做抗幻觉转写
+- 在 Colab/Kaggle 免费算力上跑转写流程
+- 按敏感度与管道组合实验不同音频素材的识别效果
 
 ## 场景标签
 
@@ -39,20 +40,20 @@
 
 > L13: A subtitle generator for Japanese Adult Videos. Free, runs on your own machine, no cloud upload of your media.
 > L29: - **Scene-based segmentation** — split the audio at natural acoustic boundaries so the model always processes a coh
-> L30: - **VAD clamping** — detect where speech actually is, and feed the model only that, with measured padding. This is 
+> L69: - **The ASR model** turns speech into text.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "meizhong986/WhisperJAV 星数(近 26 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2339 --> 2507
-    line [2353, 2367, 2370, 2374, 2376, 2378, 2383, 2387, 2392, 2400, 2411, 2413, 2374, 2442, 2449, 2451, 2455, 2462, 2464, 2467, 2470, 2476, 2480, 2485, 2487, 2493]
+    title "meizhong986/WhisperJAV 星数(近 27 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2339 --> 2513
+    line [2353, 2367, 2370, 2374, 2376, 2378, 2383, 2387, 2392, 2400, 2411, 2413, 2374, 2442, 2449, 2451, 2455, 2462, 2464, 2467, 2470, 2476, 2480, 2485, 2487, 2493, 2499]
 ```
 
-2026-10-19 2,353 → 2026-11-22 2,493（+140）
+2026-10-20 2,353 → 2026-11-23 2,499（+146）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `748278eccc01` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `6c6b35b33625` · [字段定义](../../DATASET.md)*

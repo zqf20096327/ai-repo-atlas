@@ -1,6 +1,6 @@
 # tolitius/cupel
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tolitius/cupel) · [官网](https://cupel.run) · 个人维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/tolitius/cupel) · [官网](https://cupel.run) · 个人维护
 
 **本地与云端 LLM 评分排行榜工具，带可配置裁判模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tolitius/cupel 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 63 --> 66
     line [64, 65, 65]
 ```
 
-2026-10-20 64 → 2026-11-22 65（+1）
+2026-10-21 64 → 2026-11-23 65（+1）
 
 
 ---

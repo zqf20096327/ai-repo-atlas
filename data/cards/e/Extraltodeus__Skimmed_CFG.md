@@ -1,6 +1,6 @@
 # Extraltodeus/Skimmed_CFG
 
-⭐ 234 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/Extraltodeus/Skimmed_CFG) · 个人维护
+⭐ 235 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/Extraltodeus/Skimmed_CFG) · 个人维护
 
 **ComfyUI 节点集：抑制高 CFG 下的图像烧灼伪影**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Extraltodeus/Skimmed_CFG 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 233 --> 235
-    line [234, 234]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 233 --> 236
+    line [234, 235]
 ```
 
-2026-10-20 234 → 2026-11-22 234（+0）
+2026-10-21 234 → 2026-11-23 235（+1）
 
 
 ---

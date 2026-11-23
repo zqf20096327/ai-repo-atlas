@@ -1,6 +1,6 @@
 # ModelCloud/Evalution
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/ModelCloud/Evalution) · [官网](https://x.com/Qubitium) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ModelCloud/Evalution) · [官网](https://x.com/Qubitium) · 组织维护
 
 **多引擎 LLM 基准评测工具包，面向快速、忠于基准的模型评估**
 
@@ -46,12 +46,12 @@ Evalution 是 Python 编写的 LLM 评测工具包，内置 153 个基准套件�
 ```mermaid
 xychart-beta
     title "ModelCloud/Evalution 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 15 --> 18
     line [16, 17, 16, 17, 17]
 ```
 
-2026-10-19 16 → 2026-11-22 17（+1）
+2026-10-20 16 → 2026-11-23 17（+1）
 
 
 ---

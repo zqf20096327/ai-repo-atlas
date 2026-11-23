@@ -1,6 +1,6 @@
 # dsAI-Q/locmodel-downloader
 
-⭐ 7 · C# · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/dsAI-Q/locmodel-downloader) · 个人维护 · 中文 README
+⭐ 9 · C# · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/dsAI-Q/locmodel-downloader) · 个人维护 · 中文 README
 
 **给 LocModel 等本地模型运行器用的三站模型下载器（Windows）**
 
@@ -45,13 +45,13 @@ Windows 下的模型下载工具，从 HuggingFace、魔搭 ModelScope、Civitai
 
 ```mermaid
 xychart-beta
-    title "dsAI-Q/locmodel-downloader 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 2 --> 8
-    line [3, 5, 6, 7]
+    title "dsAI-Q/locmodel-downloader 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 10
+    line [3, 5, 6, 7, 9]
 ```
 
-2026-11-16 3 → 2026-11-22 7（+4）
+2026-11-16 3 → 2026-11-23 9（+6）
 
 
 ---

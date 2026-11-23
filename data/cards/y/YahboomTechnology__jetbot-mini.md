@@ -1,6 +1,6 @@
 # YahboomTechnology/jetbot-mini
 
-⭐ 11 · 推送 2025-11-26 · [GitHub](https://github.com/YahboomTechnology/jetbot-mini) · [官网](https://category.yahboom.net/products/jetbot-mini) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 Jetson Nano 2GB 的 ROS AI 视觉机器人套件**
 

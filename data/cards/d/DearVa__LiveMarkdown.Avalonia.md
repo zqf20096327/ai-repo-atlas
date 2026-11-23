@@ -1,6 +1,6 @@
 # DearVa/LiveMarkdown.Avalonia
 
-⭐ 185 · C# · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/DearVa/LiveMarkdown.Avalonia) · 个人维护 · 中文 README
+⭐ 186 · C# · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/DearVa/LiveMarkdown.Avalonia) · 个人维护 · 中文 README
 
 **面向 Avalonia 应用的实时 Markdown 渲染控件，适配 LLM 流式输出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DearVa/LiveMarkdown.Avalonia 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
-    y-axis "stars" 178 --> 186
-    line [179, 180, 181, 182, 180, 183, 185, 185]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23"]
+    y-axis "stars" 178 --> 187
+    line [179, 180, 181, 182, 180, 183, 185, 186]
 ```
 
-2026-10-20 179 → 2026-11-22 185（+6）
+2026-10-21 179 → 2026-11-23 186（+7）
 
 
 ---

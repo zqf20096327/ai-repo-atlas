@@ -1,6 +1,6 @@
 # phil65/LLMling
 
-⭐ 19 · Python · MIT · 推送 2025-12-09 · [GitHub](https://github.com/phil65/LLMling) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/phil65/LLMling) · 个人维护
 
 **YAML 声明式定义 MCP 服务器与 AI Agent 的 Python 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "phil65/LLMling 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-19 19 → 2026-11-22 19（+0）
+2026-10-20 19 → 2026-11-23 19（+0）
 
 
 ---

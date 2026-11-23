@@ -1,6 +1,6 @@
 # gravewhisper/yomikae
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/gravewhisper/yomikae) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravewhisper/yomikae) · 个人维护
 
 **浏览器内日文漫画原位翻译工具：OCR+LLM+图像修复**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gravewhisper/yomikae 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
+    title "gravewhisper/yomikae 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    line [11, 12, 13, 13]
 ```
 
-2026-11-08 11 → 2026-11-22 13（+2）
+2026-11-08 11 → 2026-11-23 13（+2）
 
 
 ---

@@ -1,10 +1,10 @@
 # AgriciDaniel/claude-blog
 
-⭐ 2,835 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/AgriciDaniel/claude-blog) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 2,836 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/AgriciDaniel/claude-blog) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
-**面向 Claude Code 的博客写作与 SEO 优化技能套件**
+**Claude Code 插件：调研来源并生成经审校打分的博客文章**
 
-claude-blog 是运行于 Claude Code 的博客内容技能套件：1 个编排器 + 31 个子技能 + 30 个 /blog 命令 + 5 个专用 agent，覆盖选题策略、写作、改写、SEO 校验、JSON-LD schema、多语言发布、音频朗读与内容衰退检测。核心机制为 5 关交付契约：每篇文章按 100 分评分，低于 90 分阻断交付，最多迭代 3 次；每篇产出 markdown/HTML/PDF/截图等工件。MIT 许可，需 Python 3.11+，面向个人博主、营销团队与 Claude Code 技能开发者。注意：v1.9.0 交付契约等版本描述与 v2.3.1 并存。
+以 Claude Code 插件形式分发的博客写作工具集：32 个 skills、5 个专职 agent、30 条 /blog 命令。输入主题后执行调研（分层引用来源并带日期）、写作、SEO 检查、独立 reviewer 百分制打分（低于 90 分或有 P0 问题即阻断），通过全部五道交付门后才输出成品，产物含 Markdown、HTML、PDF、hero 图与多尺寸截图。支持多语言本地化与 hreflang、/blog factcheck 逐条核验引用页、适配 Next.js/Astro/Hugo 等多种发布平台。需 Claude Code 与 Python 3.11+，渲染与截图依赖可选的 presentation extra。
 
 ## 筛选速览
 
@@ -13,24 +13,24 @@ claude-blog 是运行于 Claude Code 的博客内容技能套件：1 个编排�
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 32 个技能目录（1 编排器 + 31 子技能）、30 个 /blog 命令、5 个专用 agent
-- 5 关交付契约：100 分评分制，低于 90 分阻断交付，最多迭代 3 次
-- 每篇产出完整工件包：md/HTML/PDF/hero 图/3 视口截图/review/preflight 报告
-- AI 引用就绪启发式评分（AI Overview/Perplexity/ChatGPT 视角，0-100 非校准）
+- 5 个专职 agent 分工：researcher 是唯一可联网的，仅 writer/translator 可改文件
+- reviewer 百分制打分并可阻断交付（<90 分或 P0 即拦截）
+- /blog factcheck 抓取每条引用页面核验声明是否存在于原文
+- 30 条命令覆盖策略、选题聚类、审计、翻译本地化、图像与音频生成
 
 ## 适用场景
 
-- 我作为个人博主想批量产出带 SEO 与 schema 的文章
-- 营销团队跨品牌、多语言跑一致的多文章工作流
-- 审计已有博客的质量并检测关键词蚕食与内容衰退
-- 研究分层 Agent Skills 架构的 Claude Code 技能开发者
+- 给一个主题一句话生成一篇带来源和评分的博客文章
+- 内容团队按统一流程对每篇文章打分、溯源与 SEO 检查
+- 把文章翻译本地化成多语言版本并加 hreflang
+- 用 /blog audit 检查整个博客目录的健康状况
 
 ## 场景标签
 
@@ -38,21 +38,22 @@ claude-blog 是运行于 Claude Code 的博客内容技能套件：1 个编排�
 
 ## 证据(README 行号)
 
-> L17: **claude-blog is a Claude Code skill suite that writes, optimizes, audits, localizes, and refreshes blog content at
-> L42: Current v2.3.1 shape: **32 skill directories = 1 orchestrator + 31 sub-skills; 30 user-facing /blog commands (`blog
+> L5:  Free, open-source AI blog writer for Claude Code.
+> L24: **Claude Blog is a free blog writing skill for Claude Code.** Give it a topic and it researches current sources, wr
+> L34: Claude Blog is built from 32 skills and 5 specialist agents, with 30 `/blog` commands for everything around the pos
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-blog 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2389 --> 2875
-    line [2429, 2435, 2473, 2487, 2508, 2522, 2537, 2549, 2563, 2574, 2589, 2600, 2606, 2508, 2677, 2702, 2719, 2731, 2747, 2751, 2758, 2768, 2783, 2810, 2823, 2826, 2835]
+    title "AgriciDaniel/claude-blog 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2389 --> 2876
+    line [2429, 2435, 2473, 2487, 2508, 2522, 2537, 2549, 2563, 2574, 2589, 2600, 2606, 2508, 2677, 2702, 2719, 2731, 2747, 2751, 2758, 2768, 2783, 2810, 2823, 2826, 2835, 2836]
 ```
 
-2026-10-20 2,429 → 2026-11-22 2,835（+406）
+2026-10-21 2,429 → 2026-11-23 2,836（+407）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `b1d1370ee121` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `526a6dc430a2` · [字段定义](../../DATASET.md)*

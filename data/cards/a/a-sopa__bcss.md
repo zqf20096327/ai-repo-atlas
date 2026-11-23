@@ -42,6 +42,18 @@
 > L105: - **Docker Engine** (v24.0+) and **Docker Compose v2** (`docker compose`)
 > L129: docker compose up -d --build
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "a-sopa/bcss 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `09f8a6c36884` · [字段定义](../../DATASET.md)*

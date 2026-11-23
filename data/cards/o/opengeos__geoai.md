@@ -1,10 +1,10 @@
 # opengeos/geoai
 
-⭐ 3,479 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/opengeos/geoai) · [官网](https://opengeoai.org) · 个人维护
+⭐ 3,481 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/opengeos/geoai) · [官网](https://opengeoai.org) · 个人维护
 
-**将深度学习应用于地理空间数据的 Python 工具包**
+**面向地理空间研究者的 AI 遥感分析 Python 包**
 
-面向地理空间研究者、AI 从业者与教学场景的 Python 包，统一封装数据获取与预处理、训练样本自动生成（图像切片与标签）、分类/检测/分割模型训练与推理、交互式可视化（Leafmap/MapLibre），并通过专用插件在 QGIS 桌面环境内无代码运行 AI 工作流。底层集成 PyTorch、Transformers、PyTorch Segmentation Models 及 torchange 等库；内置 20 个遥感基础模型目录，可按类别/模态/任务筛选并加载 TerraTorch 支持的骨干网络。支持 GPU 加速的自动设备管理，提供 pip/conda/mamba 安装与配套书籍。
+GeoAI 是一个将 AI 与地理空间数据分析结合的 Python 包，提供卫星影像/航空影像/矢量数据的处理框架，覆盖数据检索下载、训练数据制备、分类/检测/分割模型训练、推理管线与交互式可视化六项核心能力，底层集成 PyTorch、Transformers、PyTorch Segmentation Models 等框架。支持 GeoTIFF 等多种格式，GPU 可用时自动管理设备加速；通过专用 QGIS 插件可在桌面端无代码运行 AI 工作流。附配套书籍与视频教程，MIT 许可开源。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 六项核心能力：数据搜索下载、训练集生成、模型训练、推理、可视化、QGIS 插件
-- 内置 20 个遥感基础模型目录，支持按类别/模态/任务筛选与元数据查询
-- 支持 GeoTIFF/GeoJSON/Shapefile/GeoPackage 等多种格式与 GPU 自动设备管理
-- 提供配套书籍、文档、教程视频与示例 notebook
+- 六项核心能力：影像检索下载、数据集制备、模型训练、推理、可视化、QGIS 插件
+- 收录 20 个遥感基础模型的目录，可按类别/模态/任务过滤并直接加载 TerraTorch 支持的骨干
+- 支持 GeoTIFF、GeoJSON、Shapefile、GeoPackage 等多种数据格式
+- GPU 可用时自动设备管理加速
 
 ## 适用场景
 
-- 从卫星影像提取建筑足迹、水体、太阳能板等地物并导出为矢量格式
-- 对土地覆盖/土地利用做分类与多时相变化检测
-- 微调预训练遥感模型并用自有数据做迁移学习
-- 在 QGIS 中不写代码运行 AI 地理空间工作流
+- 从卫星影像提取建筑物轮廓、土地覆盖分类与变化检测
+- 自动生成影像切片与标注的训练数据集
+- 在 QGIS 桌面环境无代码运行 AI 地理分析工作流
+- 检索与浏览遥感基础模型目录用于下游任务
 
 ## 场景标签
 
-`目标检测` `微调` `教程课程` · 领域:学习与行业
+`目标检测` `模型训练` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L19: GeoAI is a comprehensive Python package designed to bridge artificial intelligence (AI) and geospatial data analysi
 > L25: 3. Model training for tasks such as classification, detection, and segmentation.
-> L26: 4. Inference pipelines for applying models to new geospatial datasets.
+> L28: 6. Seamless QGIS integration via a dedicated GeoAI plugin, enabling users to run AI-powered geospatial workflows di
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "opengeos/geoai 星数(近 23 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3428 --> 3484
-    line [3432, 3433, 3434, 3436, 3438, 3441, 3443, 3445, 3446, 3447, 3449, 3450, 3438, 3461, 3463, 3466, 3470, 3473, 3474, 3477, 3480, 3479, 3479]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 3428 --> 3485
+    line [3432, 3433, 3434, 3436, 3438, 3441, 3443, 3445, 3446, 3447, 3449, 3450, 3438, 3461, 3463, 3466, 3470, 3473, 3474, 3477, 3480, 3479, 3481]
 ```
 
-2026-10-20 3,432 → 2026-11-22 3,479（+47）
+2026-10-21 3,432 → 2026-11-23 3,481（+49）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c332699c422c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3b8541e440f5` · [字段定义](../../DATASET.md)*

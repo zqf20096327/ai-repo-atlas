@@ -1,6 +1,6 @@
 # kentzjh-cmd/tmem
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kentzjh-cmd/tmem) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kentzjh-cmd/tmem) · 个人维护 · 中文 README
 
 **给 Coding Agent 的本地记忆插件：压缩存档、按需翻历史**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kentzjh-cmd/tmem 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-22 3（+0）
+2026-11-21 3 → 2026-11-23 3（+0）
 
 
 ---

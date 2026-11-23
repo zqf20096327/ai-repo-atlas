@@ -1,6 +1,6 @@
 # AnayGarodia/sketchling
 
-⭐ 29 · TypeScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/AnayGarodia/sketchling) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/AnayGarodia/sketchling) · 个人维护
 
 **供 LLM/编码代理使用的手绘插画与动画语言**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AnayGarodia/sketchling 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 25 --> 30
-    line [26, 27, 26, 27, 28, 29, 29]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-23"]
+    y-axis "stars" 25 --> 31
+    line [26, 27, 26, 27, 28, 29, 30]
 ```
 
-2026-10-19 26 → 2026-11-22 29（+3）
+2026-10-20 26 → 2026-11-23 30（+4）
 
 
 ---

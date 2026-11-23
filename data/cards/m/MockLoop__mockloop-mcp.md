@@ -1,6 +1,6 @@
 # MockLoop/mockloop-mcp
 
-⭐ 18 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MockLoop/mockloop-mcp) · [官网](https://mockloop.com) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MockLoop/mockloop-mcp) · [官网](https://mockloop.com) · 组织维护
 
 **MCP 服务器：从 OpenAPI 规范生成 Mock API 并做测试分析**
 
@@ -46,12 +46,12 @@ MockLoop MCP 是面向 AI 辅助 API 开发工作流的 Model Context Protocol (
 ```mermaid
 xychart-beta
     title "MockLoop/mockloop-mcp 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-21", "2026-11-23"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-20 17 → 2026-11-22 18（+1）
+2026-10-21 17 → 2026-11-23 18（+1）
 
 
 ---

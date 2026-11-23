@@ -1,6 +1,6 @@
 # mcheemaa/mistri
 
-⭐ 20 · Ruby · MIT · 推送 2026-11-12 · [GitHub](https://github.com/mcheemaa/mistri) · [官网](https://mistri.sh) · 个人维护
+⭐ 20 · Ruby · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mcheemaa/mistri) · [官网](https://mistri.sh) · 个人维护
 
 **Ruby 应用的 AI agent 框架：托管 agent 循环与持久会话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mcheemaa/mistri 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-11", "2026-11-23"]
     y-axis "stars" 17 --> 21
     line [18, 19, 20, 20]
 ```
 
-2026-10-20 18 → 2026-11-22 20（+2）
+2026-10-21 18 → 2026-11-23 20（+2）
 
 
 ---

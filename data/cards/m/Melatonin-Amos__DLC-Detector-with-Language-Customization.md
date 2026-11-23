@@ -1,6 +1,6 @@
 # Melatonin-Amos/DLC-Detector-with-Language-Customization
 
-⭐ 15 · Python · MIT · 推送 2025-12-26 · [GitHub](https://github.com/Melatonin-Amos/DLC-Detector-with-Language-Customization) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2025-12-26 · [GitHub](https://github.com/Melatonin-Amos/DLC-Detector-with-Language-Customization) · 组织维护 · 中文 README
 
 **基于 CLIP/FG-CLIP 的零样本场景识别智能养老摄像头系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Melatonin-Amos/DLC-Detector-with-Language-Customization 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-20 15 → 2026-11-22 15（+0）
+2026-10-21 15 → 2026-11-23 14（-1）
 
 
 ---

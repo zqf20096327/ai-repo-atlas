@@ -45,12 +45,12 @@ Hugging Face 维护的 🤗 Transformers 与 Graphcore IPU 之间的接口库：
 ```mermaid
 xychart-beta
     title "huggingface/optimum-graphcore 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 86 --> 88
     line [87, 87]
 ```
 
-2026-10-20 87 → 2026-11-22 87（+0）
+2026-10-21 87 → 2026-11-23 87（+0）
 
 
 ---

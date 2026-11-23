@@ -1,6 +1,6 @@
 # InterwebAlchemy/obsidian-ai-research-assistant
 
-⭐ 133 · TypeScript · MIT-0 · 推送 2026-06-05 · [GitHub](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) · 个人维护
+⭐ 132 · TypeScript · MIT-0 · 推送 2026-06-05 · [GitHub](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) · 个人维护
 
 **Obsidian 提示工程研究插件：对话、记忆与上下文实验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "InterwebAlchemy/obsidian-ai-research-assistant 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 132 --> 134
-    line [133, 133]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 131 --> 134
+    line [133, 132]
 ```
 
-2026-10-20 133 → 2026-11-22 133（+0）
+2026-10-21 133 → 2026-11-23 132（-1）
 
 
 ---

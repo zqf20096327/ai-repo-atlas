@@ -1,6 +1,6 @@
 # timothywarner-org/context-engineering
 
-⭐ 28 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/timothywarner-org/context-engineering) · [官网](https://techtrainertim.com) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/timothywarner-org/context-engineering) · [官网](https://techtrainertim.com) · 个人维护
 
 **MCP 上下文工程教学仓库：语义记忆课程与配套教学应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "timothywarner-org/context-engineering 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-13", "2026-11-22"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-21", "2026-11-13", "2026-11-23"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-20 27 → 2026-11-22 28（+1）
+2026-10-21 27 → 2026-11-23 29（+2）
 
 
 ---

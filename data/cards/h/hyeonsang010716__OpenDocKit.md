@@ -1,6 +1,6 @@
 # hyeonsang010716/OpenDocKit
 
-⭐ 42 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hyeonsang010716/OpenDocKit) · [官网](https://pypi.org/project/opendockit/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hyeonsang010716/OpenDocKit) · [官网](https://pypi.org/project/opendockit/) · 个人维护
 
 **把多格式文档转为 LLM 可用 Markdown 的转换库**
 
@@ -46,13 +46,13 @@ Python 库，将 PDF、Office、HWP/HWPX、ODF、RTF、EPUB、HTML、邮件与�
 
 ```mermaid
 xychart-beta
-    title "hyeonsang010716/OpenDocKit 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 9 --> 45
-    line [12, 16, 17, 37, 42]
+    title "hyeonsang010716/OpenDocKit 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 46
+    line [12, 16, 17, 37, 42, 43]
 ```
 
-2026-11-15 12 → 2026-11-22 42（+30）
+2026-11-15 12 → 2026-11-23 43（+31）
 
 
 ---

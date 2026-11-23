@@ -1,6 +1,6 @@
 # The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Builder
 
-⭐ 10 · Python · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Builder) · 个人维护
+⭐ 11 · Python · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Builder) · 个人维护
 
 **给 ComfyUI 用户的 MiniMax H3 角色设定图生成节点包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Builder 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 6 --> 11
-    line [7, 9, 8, 9, 7, 10, 10]
+    x-axis ["2026-10-21", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 6 --> 12
+    line [7, 9, 8, 9, 7, 10, 11]
 ```
 
-2026-10-20 7 → 2026-11-22 10（+3）
+2026-10-21 7 → 2026-11-23 11（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # neerajdad123-byte/moe
 
-⭐ 10 · Cuda · MIT · 推送 2026-11-01 · [GitHub](https://github.com/neerajdad123-byte/moe) · 个人维护
+⭐ 11 · Cuda · MIT · 推送 2026-11-01 · [GitHub](https://github.com/neerajdad123-byte/moe) · 个人维护
 
 **在 6GB 笔记本 GPU 上以约 68 tok/s 运行 Qwen3.6-35B MoE 的本地推理运行时**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "neerajdad123-byte/moe 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-18", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-18 10 → 2026-11-22 10（+0）
+2026-11-18 10 → 2026-11-23 11（+1）
 
 
 ---

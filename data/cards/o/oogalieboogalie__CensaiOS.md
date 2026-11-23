@@ -1,6 +1,6 @@
 # oogalieboogalie/CensaiOS
 
-⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/oogalieboogalie/CensaiOS) · [官网](https://www.censaios.com) · 个人维护
+⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/oogalieboogalie/CensaiOS) · [官网](https://www.censaios.com) · 个人维护
 
 **自托管的多人无限画布，让应用窗口与 AI agent 同板协作**
 
@@ -40,6 +40,18 @@ CensaiOS 是一个自托管的协作画布：聊天、文档、表格、终端�
 
 > L3: **One canvas where your apps and your AI agents live together.** Chat, docs, sheets, a browser,
 > L179: - Run with Ollama locally or use OpenAI-compatible, OpenRouter, Gemini, and other configured providers.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "oogalieboogalie/CensaiOS 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-22 4 → 2026-11-23 4（+0）
 
 
 ---

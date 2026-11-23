@@ -1,6 +1,6 @@
 # JansenChang/claude-terminal-translate
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/JansenChang/claude-terminal-translate) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 Claude Code 终端用户的中文交互翻译插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

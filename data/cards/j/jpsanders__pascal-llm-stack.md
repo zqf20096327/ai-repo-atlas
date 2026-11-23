@@ -41,6 +41,18 @@
 > L24: sudo ./pascal-llm run driver           # then build-tools, cuda, llama, services, tailscale, smoke-test
 > L87: `03-inference/build-llama-cpp.sh` contains them: `-DCMAKE_CUDA_COMPILER` pointed at nvcc explicitly (cmake does not
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jpsanders/pascal-llm-stack 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `e7a982eac8e0` · [字段定义](../../DATASET.md)*

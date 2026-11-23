@@ -1,6 +1,6 @@
 # iamajmeena/neonclipping
 
-⭐ 1,715 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/iamajmeena/neonclipping) · 个人维护
+⭐ 2,079 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/iamajmeena/neonclipping) · 个人维护
 
 **本地运行的视频转 9:16 字幕剪辑工具，粘贴链接生成短视频片段**
 
@@ -40,6 +40,18 @@ NeonClipping 将 YouTube/Twitch/Kick 长视频或本地 MP4 转为带标题、ho
 
 > L5: NeonClipping turns long YouTube / Twitch / Kick videos (or your own MP4) into vertical, captioned clips with a title
 > L45: 4. Take the best moments, read each one's transcript with a local LLM (Ollama) and let it score the moment, write a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iamajmeena/neonclipping 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 1679 --> 2115
+    line [1715, 2079]
+```
+
+2026-11-22 1,715 → 2026-11-23 2,079（+364）
 
 
 ---

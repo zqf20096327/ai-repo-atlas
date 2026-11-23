@@ -1,6 +1,6 @@
 # ramajoballester/UC3M-LP
 
-⭐ 28 · Python · ODbL-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/ramajoballester/UC3M-LP) · 组织维护
+⭐ 28 · Python · ODbL-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/ramajoballester/UC3M-LP) · 组织维护
 
 **西班牙车牌检测与识别标注数据集（UC3M-LP）**
 
@@ -44,12 +44,12 @@ UC3M-LP 是面向欧洲（西班牙）车牌检测与识别任务的开放标注
 ```mermaid
 xychart-beta
     title "ramajoballester/UC3M-LP 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-20 28 → 2026-11-22 28（+0）
+2026-10-21 28 → 2026-11-23 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # opencues/opencues
 
-⭐ 73 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/opencues/opencues) · [官网](https://www.opencues.com) · 个人维护
+⭐ 74 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/opencues/opencues) · [官网](https://www.opencues.com) · 个人维护
 
 **把任意文本框变成双向 LLM 通道的内联 AI 标准与 CLI**
 
@@ -46,12 +46,12 @@ OpenCues 以 CLI 与集成方式，把 Claude Code、OpenCode、Gemini CLI、Chr
 ```mermaid
 xychart-beta
     title "opencues/opencues 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 68 --> 74
-    line [69, 70, 69, 70, 69, 71, 72, 73, 73]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 68 --> 75
+    line [69, 70, 69, 70, 69, 71, 72, 73, 74]
 ```
 
-2026-10-20 69 → 2026-11-22 73（+4）
+2026-10-21 69 → 2026-11-23 74（+5）
 
 
 ---

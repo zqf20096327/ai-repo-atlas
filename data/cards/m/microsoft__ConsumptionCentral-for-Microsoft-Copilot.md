@@ -1,6 +1,6 @@
 # microsoft/ConsumptionCentral-for-Microsoft-Copilot
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/ConsumptionCentral-for-Microsoft-Copilot) · 组织维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/ConsumptionCentral-for-Microsoft-Copilot) · 组织维护
 
 **Microsoft Copilot 额度消耗与成本分析的 Power BI 模板/应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ConsumptionCentral-for-Microsoft-Copilot 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-23"]
     y-axis "stars" 28 --> 36
     line [29, 30, 31, 29, 33, 34, 35, 35]
 ```
 
-2026-10-19 29 → 2026-11-22 35（+6）
+2026-10-20 29 → 2026-11-23 35（+6）
 
 
 ---

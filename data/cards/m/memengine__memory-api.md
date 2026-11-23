@@ -41,6 +41,18 @@ MemoryOS 是面向聊天机器人与 agent 开发者的记忆存储服务：保�
 > L5: Building a chatbot or agent? Use MemoryOS to save useful information from conversations and services, then fetch the
 > L45: Start the API and save a memory with Python or TypeScript, then connect your agent. The Docker beta requires `OPENA
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "memengine/memory-api 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-22 13 → 2026-11-23 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `507e337fdf45` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # redlinedtm-jpg/vllm-v100-2080ti-recipes
 
-⭐ 12 · MIT · 推送 2026-08-19 · [GitHub](https://github.com/redlinedtm-jpg/vllm-v100-2080ti-recipes) · [官网](https://nextgen-pc.online/) · 个人维护
+⭐ 11 · MIT · 推送 2026-08-19 · [GitHub](https://github.com/redlinedtm-jpg/vllm-v100-2080ti-recipes) · [官网](https://nextgen-pc.online/) · 个人维护
 
 **在 V100/2080 Ti 等旧 NVIDIA GPU 上运行大型 LLM 的实测指南集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "redlinedtm-jpg/vllm-v100-2080ti-recipes 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-11", "2026-11-23"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    line [10, 11, 12, 11]
 ```
 
-2026-10-22 10 → 2026-11-22 12（+2）
+2026-10-22 10 → 2026-11-23 11（+1）
 
 
 ---

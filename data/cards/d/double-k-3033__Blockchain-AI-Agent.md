@@ -1,6 +1,6 @@
 # double-k-3033/Blockchain-AI-Agent
 
-⭐ 13 · TypeScript · 推送 2025-11-26 · [GitHub](https://github.com/double-k-3033/Blockchain-AI-Agent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多链区块链自主 AI Agent：监听、分析并执行链上交易**
 

@@ -1,6 +1,6 @@
 # openwizdev/OpenWiz
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/openwizdev/OpenWiz) · [官网](https://openwiz.dev) · 组织维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openwizdev/OpenWiz) · [官网](https://openwiz.dev) · 组织维护
 
 **agent 工厂的开放内核：驱动代理编写、构建、审查并合并**
 
@@ -45,12 +45,12 @@ OpenWiz 自称 agent 工厂的开放内核，本仓库为内核本体，其他�
 ```mermaid
 xychart-beta
     title "openwizdev/OpenWiz 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-21", "2026-11-23"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-21 4 → 2026-11-22 4（+0）
+2026-11-21 4 → 2026-11-23 5（+1）
 
 
 ---

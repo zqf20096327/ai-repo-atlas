@@ -1,6 +1,6 @@
 # Nikhil-creat/aanu-jewellers
 
-⭐ 4 · HTML · 推送 2026-10-11 · [GitHub](https://github.com/Nikhil-creat/aanu-jewellers) · [官网](https://nikhil-creat.github.io/aanu-jewellers/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为珠宝店提供静态网店：价目锁价、3D 展示与 AI 助手**
 

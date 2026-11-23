@@ -44,13 +44,13 @@ Sigstore 维护的 ML 供应链安全项目：对模型文件生成哈希清单�
 
 ```mermaid
 xychart-beta
-    title "sigstore/model-transparency 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "sigstore/model-transparency 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 248 --> 251
-    line [249, 250]
+    line [249, 250, 250]
 ```
 
-2026-10-20 249 → 2026-11-22 250（+1）
+2026-10-21 249 → 2026-11-23 250（+1）
 
 
 ---

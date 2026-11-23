@@ -1,6 +1,6 @@
 # JERRIYHAN/tongji-online
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JERRIYHAN/tongji-online) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JERRIYHAN/tongji-online) · 个人维护 · 中文 README
 
 **同济学生的 AI 技能包：自然语言查询校园服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JERRIYHAN/tongji-online 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 4 --> 13
-    line [5, 7, 8, 9, 10, 11, 7, 12, 12]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 4 --> 14
+    line [5, 7, 8, 9, 10, 11, 7, 12, 13]
 ```
 
-2026-10-24 5 → 2026-11-22 12（+7）
+2026-10-24 5 → 2026-11-23 13（+8）
 
 
 ---

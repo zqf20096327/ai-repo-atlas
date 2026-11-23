@@ -1,6 +1,6 @@
 # hukukca-cloud/baran-dogan-makaleler
 
-⭐ 23 · Python · 推送 2026-11-01 · [GitHub](https://github.com/hukukca-cloud/baran-dogan-makaleler) · 个人维护
+⭐ 24 · Python · 推送 2026-11-01 · [GitHub](https://github.com/hukukca-cloud/baran-dogan-makaleler) · 个人维护
 
 **土耳其律师法律文章的 AI 友好分类档案，供 Claude/ChatGPT 使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hukukca-cloud/baran-dogan-makaleler 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 13 --> 24
-    line [14, 17, 19, 21, 22, 23, 23]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 13 --> 25
+    line [14, 17, 19, 21, 22, 23, 24]
 ```
 
-2026-11-02 14 → 2026-11-22 23（+9）
+2026-11-02 14 → 2026-11-23 24（+10）
 
 
 ---

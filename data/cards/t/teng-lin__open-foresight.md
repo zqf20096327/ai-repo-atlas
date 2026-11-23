@@ -1,6 +1,6 @@
 # teng-lin/open-foresight
 
-⭐ 4 · Dart · MIT · 推送 2026-11-15 · [GitHub](https://github.com/teng-lin/open-foresight) · 个人维护
+⭐ 4 · Dart · MIT · 推送 2026-11-22 · [GitHub](https://github.com/teng-lin/open-foresight) · 个人维护
 
 **Linux/macOS 本地离线会议转写与带引用问答的知识库应用**
 
@@ -46,12 +46,12 @@ Flutter 桌面应用，记录并转写麦克风与系统音频，将简短笔记
 ```mermaid
 xychart-beta
     title "teng-lin/open-foresight 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-22"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-23 3 → 2026-11-22 4（+1）
+2026-10-23 3 → 2026-11-23 4（+1）
 
 
 ---

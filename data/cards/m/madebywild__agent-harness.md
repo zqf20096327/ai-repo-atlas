@@ -45,12 +45,12 @@ Agent Harness 是一个 TypeScript CLI 工具与库，将 AI agent 配置（可�
 ```mermaid
 xychart-beta
     title "madebywild/agent-harness 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-20 16 → 2026-11-22 16（+0）
+2026-10-21 16 → 2026-11-23 16（+0）
 
 
 ---

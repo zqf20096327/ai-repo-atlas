@@ -1,6 +1,6 @@
 # zenoyang-ai/nihaixia-knowledge-graph
 
-⭐ 102 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/zenoyang-ai/nihaixia-knowledge-graph) · [官网](https://www.nihaixia-knowledge.xyz) · 个人维护 · 中文 README
+⭐ 103 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/zenoyang-ai/nihaixia-knowledge-graph) · [官网](https://www.nihaixia-knowledge.xyz) · 个人维护 · 中文 README
 
 **倪海厦中医与易经资料库：图谱网站+笔记+AI语料**
 
@@ -41,6 +41,18 @@
 > L25: 1. **搭了一个免费在线网站**：把人纪和天纪拆成五个层级、69 个核心节点，配好学习顺序、关系图谱和基于资料库的 AI 问答。
 > L38: |喂给 NotebookLM / Claude / Dify|`knowledge/02-AI知识库语料包/`|合并单文件 `nihaixia-corpus-all.md`、结构化 `jsonl`、提示词合集与 `MANIFEST
 > L41: |在 AI 编程工具里用天纪提示词|`skills/nihaixia-tianji/`|可直接安装的 Agent Skill，覆盖八字、紫微斗数、易经三才和小六壬|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zenoyang-ai/nihaixia-knowledge-graph 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 101 --> 104
+    line [102, 103]
+```
+
+2026-11-22 102 → 2026-11-23 103（+1）
 
 
 ---

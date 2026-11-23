@@ -1,6 +1,6 @@
 # CHSZLab/AgenticAlgorithmEngineering
 
-⭐ 37 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/CHSZLab/AgenticAlgorithmEngineering) · [官网](https://chszlab.github.io/AgenticAlgorithmEngineering/) · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CHSZLab/AgenticAlgorithmEngineering) · [官网](https://chszlab.github.io/AgenticAlgorithmEngineering/) · 组织维护
 
 **让自主 agent 按算法工程循环优化代码性能的方法论插件**
 
@@ -40,6 +40,18 @@ Agentic Algorithm Engineering (AAE) 是一套方法论与 agent 技能/插件，
 > L5: This repository contains the program definition for **Agentic Algorithm Engineering (AAE)**, a methodology that turn
 > L41: /plugin install aae --marketplace CHSZLab/AgenticAlgorithmEngineering
 > L51: Agentic Algorithm Engineering takes this methodology and hands the cycle to an autonomous AI agent. The agent formu
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CHSZLab/AgenticAlgorithmEngineering 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 36 --> 38
+    line [37, 37]
+```
+
+2026-11-22 37 → 2026-11-23 37（+0）
 
 
 ---

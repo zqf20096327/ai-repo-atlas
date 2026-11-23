@@ -1,6 +1,6 @@
 # bthanhtung/squad-devkit
 
-⭐ 6 · Shell · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/bthanhtung/squad-devkit) · 个人维护
+⭐ 8 · Shell · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/bthanhtung/squad-devkit) · 个人维护
 
 **多 agent 编码编排 CLI：经理规划、worker 隔离构建、合并前校验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bthanhtung/squad-devkit 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-13", "2026-11-22"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 6, 6]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-13", "2026-11-23"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 6, 8]
 ```
 
-2026-10-30 3 → 2026-11-22 6（+3）
+2026-10-30 3 → 2026-11-23 8（+5）
 
 
 ---

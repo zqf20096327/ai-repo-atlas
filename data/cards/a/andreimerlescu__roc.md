@@ -1,6 +1,6 @@
 # andreimerlescu/roc
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/andreimerlescu/roc) · [官网](https://github.com/playandprosper) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让编码 agent 在一次性 Docker 容器内无审批运行的 Rust CLI**
 
@@ -11,7 +11,7 @@ roc 是一个 Rust 命令行工具，把 opencode、Claude Code、Codex 或 goos
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

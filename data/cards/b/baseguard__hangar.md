@@ -1,6 +1,6 @@
 # baseguard/hangar
 
-⭐ 87 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/baseguard/hangar) · [官网](https://hangar.bot) · 组织维护
+⭐ 100 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/baseguard/hangar) · [官网](https://hangar.bot) · 组织维护
 
 **在 Mac 虚拟机中隔离运行 AI 编码 agent 的沙箱工具**
 
@@ -46,13 +46,13 @@ Hangar 在 Mac 上以虚拟机方式运行 AI 编码 agent，提供 macOS/Linux/
 
 ```mermaid
 xychart-beta
-    title "baseguard/hangar 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 70 --> 88
-    line [71, 87]
+    title "baseguard/hangar 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 69 --> 102
+    line [71, 87, 100]
 ```
 
-2026-11-21 71 → 2026-11-22 87（+16）
+2026-11-21 71 → 2026-11-23 100（+29）
 
 
 ---

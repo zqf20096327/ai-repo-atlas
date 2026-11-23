@@ -1,6 +1,6 @@
 # socrates8300/rswarm
 
-⭐ 14 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/socrates8300/rswarm) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/socrates8300/rswarm) · 个人维护
 
 **Rust 库：为生产后端构建多轮 Agent 式 LLM 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "socrates8300/rswarm 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-19 14 → 2026-11-22 14（+0）
+2026-10-20 14 → 2026-11-23 14（+0）
 
 
 ---

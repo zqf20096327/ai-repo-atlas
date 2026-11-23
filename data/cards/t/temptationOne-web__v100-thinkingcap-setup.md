@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "temptationOne-web/v100-thinkingcap-setup 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-18", "2026-11-22"]
+    title "temptationOne-web/v100-thinkingcap-setup 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-18", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6]
+    line [3, 4, 5, 6, 6]
 ```
 
-2026-11-08 3 → 2026-11-22 6（+3）
+2026-11-08 3 → 2026-11-23 6（+3）
 
 
 ---

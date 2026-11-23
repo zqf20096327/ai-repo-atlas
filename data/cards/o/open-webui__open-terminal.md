@@ -1,10 +1,10 @@
 # open-webui/open-terminal
 
-⭐ 3,632 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/open-webui/open-terminal) · [官网](https://openterminal.sh/) · 组织维护
+⭐ 3,638 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/open-webui/open-terminal) · [官网](https://openterminal.sh/) · 组织维护
 
-**给 AI agent 提供的远程终端/代码执行环境（REST API）**
+**给 AI agent 提供自托管命令/文件/代码/浏览器执行环境的 REST API 服务器**
 
-自托管的轻量终端服务：通过 REST API 向 AI 助手和自动化工具提供命令执行、文件管理、搜索与代码运行能力。提供 Docker 隔离沙箱（内置 Python/Node.js/git/ffmpeg/LibreOffice 等工具链）与 pip 安装的裸机模式（命令直接运行于宿主机）两种运行方式；提供 4 种镜像变体（latest/slim/alpine/openshift），支持环境变量运行时装包、挂载 Docker socket、外部工作区存储与多用户模式。与 Open WebUI 有集成通道（文件导航侧边栏）。注意：多用户模式不构成安全边界，README 明示不建议生产多用户部署。
+以自托管 REST API 形式提供一台供 agent 使用的"计算机"：运行命令、管理文件、执行代码、操作浏览器与桌面，可接入 Open WebUI 或自有工具。提供 Docker（latest/agents/cuda/slim/alpine/openshift 镜像变体）与 Python 3.11+ 两种部署方式，支持本地 IPC socket/named pipe、SSH bridge、多用户工作区。agents 镜像内置 Codex 与 Claude Code CLI，聊天中以 <agent>/<model> 形式发现 agent 模型，支持任意 ACP agent 免代码接入。生产多用户部署需 Open WebUI Enterprise License。
 
 ## 筛选速览
 
@@ -13,46 +13,47 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- REST API 提供命令执行、文件管理与代码运行
-- Docker 沙箱与 pip 裸机两种部署方式
-- 4 种镜像变体，latest 约 4GB 含完整工具链、alpine 约 230MB
-- 多用户模式为每用户分配独立 Linux 账户与工作区（非安全隔离）
+- 通过 REST API 提供命令执行、文件管理、代码执行、浏览器与桌面操作
+- agents 镜像内置 Codex 与 Claude Code CLI，支持用自有账号登录使用
+- 支持 15+ 编码 agent 及任意 ACP agent 的免代码接入（环境变量配置）
+- 支持本地 IPC socket/named pipe、SSH bridge 与多用户工作区
 
 ## 适用场景
 
-- 为 AI 助手提供沙箱化的命令执行与文件操作环境
-- 在 Open WebUI 中让 AI 直接操作终端与项目文件
-- 为自动化脚本提供可通过 curl 调用的远程执行环境
+- 为 Open WebUI 聊天中的编码 agent 提供可执行命令的终端环境
+- 自托管一个供自动化 agent 调用的沙箱式 REST API 执行环境
+- 在隔离容器中运行 Codex/Claude Code 等编码 agent
+- 跨机器通过 SSH 访问远程 agent 执行环境
 
 ## 场景标签
 
- · 领域:AI 基础设施/开发者工具
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L3: A lightweight, self-hosted terminal that gives AI agents and automation tools a dedicated environment to run command
-> L7: AI assistants are great at writing code, but they need somewhere to *run* it. Open Terminal is that place — a remote
-> L197: Open Terminal integrates with Open WebUI, giving your AI assistants the ability to run commands, manage files, and
+> L3: **A computer for your AI agents.** Run commands, search and manage files, execute code, and work with browsers and d
+> L87: ## Connect to Open WebUI
+> L99: Install and sign in to the agent CLIs as the user running Open Terminal. In a compatible Open WebUI checkout, selec
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "open-webui/open-terminal 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3355 --> 3657
-    line [3380, 3397, 3405, 3414, 3418, 3425, 3435, 3439, 3444, 3450, 3455, 3458, 3463, 3418, 3520, 3538, 3552, 3558, 3571, 3578, 3584, 3593, 3605, 3617, 3623, 3626, 3632]
+    title "open-webui/open-terminal 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3355 --> 3663
+    line [3380, 3397, 3405, 3414, 3418, 3425, 3435, 3439, 3444, 3450, 3455, 3458, 3463, 3418, 3520, 3538, 3552, 3558, 3571, 3578, 3584, 3593, 3605, 3617, 3623, 3626, 3632, 3638]
 ```
 
-2026-10-20 3,380 → 2026-11-22 3,632（+252）
+2026-10-21 3,380 → 2026-11-23 3,638（+258）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `8f188d510edd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `834d1447cd31` · [字段定义](../../DATASET.md)*

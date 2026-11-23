@@ -1,6 +1,6 @@
 # 4ndr0666/gpt
 
-⭐ 26 · Python · 推送 2026-11-15 · [GitHub](https://github.com/4ndr0666/gpt) · 个人维护
+⭐ 27 · Python · 推送 2026-11-15 · [GitHub](https://github.com/4ndr0666/gpt) · 个人维护
 
 **面向 LLM 对齐测试的红队提示注入与越狱载荷合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "4ndr0666/gpt 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-20 26 → 2026-11-22 26（+0）
+2026-10-21 26 → 2026-11-23 27（+1）
 
 
 ---

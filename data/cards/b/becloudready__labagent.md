@@ -1,6 +1,6 @@
 # becloudready/labagent
 
-⭐ 8 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/becloudready/labagent) · [官网](https://becloudready.com/labs) · 组织维护
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/becloudready/labagent) · [官网](https://becloudready.com/labs) · 组织维护
 
 **为培训/黑客松一键创建和销毁云与 AI 动手实验环境的 CLI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "becloudready/labagent 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
+    title "becloudready/labagent 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 9
-    line [3, 4, 6, 7, 8]
+    line [3, 4, 6, 7, 8, 8]
 ```
 
-2026-11-15 3 → 2026-11-22 8（+5）
+2026-11-15 3 → 2026-11-23 8（+5）
 
 
 ---

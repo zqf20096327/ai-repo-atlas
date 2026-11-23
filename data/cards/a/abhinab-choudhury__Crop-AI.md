@@ -1,6 +1,6 @@
 # abhinab-choudhury/Crop-AI
 
-⭐ 12 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/abhinab-choudhury/Crop-AI) · [官网](https://deepwiki.com/abhinab-choudhury/Crop-AI) · 个人维护
+⭐ 12 · Jupyter Notebook · 推送 2026-11-22 · [GitHub](https://github.com/abhinab-choudhury/Crop-AI) · [官网](https://deepwiki.com/abhinab-choudhury/Crop-AI) · 个人维护
 
 **面向农民的作物病害诊断与多语言离线 AI 助手应用**
 
@@ -46,12 +46,12 @@ SIH 2025 黑客松项目的全栈农业平台：移动端（React Native + Expo�
 ```mermaid
 xychart-beta
     title "abhinab-choudhury/Crop-AI 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

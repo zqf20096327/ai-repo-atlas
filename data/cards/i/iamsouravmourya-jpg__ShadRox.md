@@ -1,6 +1,6 @@
 # iamsouravmourya-jpg/ShadRox
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/iamsouravmourya-jpg/ShadRox) · [官网](https://www.shadrox.cyou) · 个人维护
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/iamsouravmourya-jpg/ShadRox) · [官网](https://www.shadrox.cyou) · 个人维护
 
 **面向开发者的 Windows 本地 AI 编码工作区：编辑器+BYOK聊天+Agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -40,6 +40,18 @@
 > L13: ShadRox is a native Electron desktop app that puts a code editor, BYOK AI chat and agent, live project preview, Git
 > L20: - **AI chat (BYOK)** — Gemini, Groq, or any OpenAI-compatible endpoint with your own key; Ask/Plan/Agent modes, `@`
 > L32: 1. **Download** the installer: ShadRox-v0.1.3-Setup.exe (Windows 10/11, 64-bit). The build is unsigned — if SmartSc
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iamsouravmourya-jpg/ShadRox 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

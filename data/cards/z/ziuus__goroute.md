@@ -1,6 +1,6 @@
 # ziuus/goroute
 
-⭐ 8 · Go · MIT · 推送 2026-11-13 · [GitHub](https://github.com/ziuus/goroute) · [官网](https://goroute-website.vercel.app/) · 个人维护
+⭐ 8 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ziuus/goroute) · [官网](https://goroute-website.vercel.app/) · 个人维护
 
 **面向编码代理的单二进制 LLM 网关与多账户路由器**
 
@@ -46,12 +46,12 @@ Go 编写的单二进制 LLM 网关，部署在开发工具/编码代理与上�
 ```mermaid
 xychart-beta
     title "ziuus/goroute 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-23"]
     y-axis "stars" 3 --> 10
     line [4, 6, 7, 8, 9, 8, 8]
 ```
 
-2026-10-22 4 → 2026-11-22 8（+4）
+2026-10-22 4 → 2026-11-23 8（+4）
 
 
 ---

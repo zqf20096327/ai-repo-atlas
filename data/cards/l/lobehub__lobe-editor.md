@@ -1,6 +1,6 @@
 # lobehub/lobe-editor
 
-⭐ 183 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lobehub/lobe-editor) · [官网](https://editor.lobehub.com) · 组织维护
+⭐ 184 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lobehub/lobe-editor) · [官网](https://editor.lobehub.com) · 组织维护
 
 **面向 AI 应用的 React 富文本编辑器（基于 Lexical）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lobehub/lobe-editor 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 175 --> 184
-    line [176, 179, 180, 179, 181, 182, 183, 183]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 175 --> 185
+    line [176, 179, 180, 179, 181, 182, 183, 184]
 ```
 
-2026-10-20 176 → 2026-11-22 183（+7）
+2026-10-21 176 → 2026-11-23 184（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # shanraisshan/draw-json-architecture-skill
 
-⭐ 11 · HTML · 推送 2026-06-01 · [GitHub](https://github.com/shanraisshan/draw-json-architecture-skill) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
+⭐ 12 · HTML · 推送 2026-06-01 · [GitHub](https://github.com/shanraisshan/draw-json-architecture-skill) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
 
 **为编码 agent 提供的架构图技能：按流程生成交互式 HTML 查看器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shanraisshan/draw-json-architecture-skill 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-20 10 → 2026-11-22 11（+1）
+2026-10-21 10 → 2026-11-23 12（+2）
 
 
 ---

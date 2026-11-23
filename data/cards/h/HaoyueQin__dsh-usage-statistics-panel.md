@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的 web 插件，作为插件页与左侧栏的独立�
 ```mermaid
 xychart-beta
     title "HaoyueQin/dsh-usage-statistics-panel 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-19 27 → 2026-11-22 28（+1）
+2026-10-20 27 → 2026-11-23 28（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ZenHG/ComfyUI-H3-Latent-Relay
 
-⭐ 46 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ZenHG/ComfyUI-H3-Latent-Relay) · [官网](https://registry.comfy.org/nodes/h3-latent-relay) · 个人维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ZenHG/ComfyUI-H3-Latent-Relay) · [官网](https://registry.comfy.org/nodes/h3-latent-relay) · 个人维护 · 中文 README
 
 **MiniMax-H3 多段视频续接的 ComfyUI 节点包：latent 桥零重编码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZenHG/ComfyUI-H3-Latent-Relay 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 35 --> 47
-    line [36, 38, 39, 40, 38, 40, 42, 44, 45, 46]
+    title "ZenHG/ComfyUI-H3-Latent-Relay 星数(近 11 点)"
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 35 --> 48
+    line [36, 38, 39, 40, 38, 40, 42, 44, 45, 46, 47]
 ```
 
-2026-10-20 36 → 2026-11-22 46（+10）
+2026-10-21 36 → 2026-11-23 47（+11）
 
 
 ---

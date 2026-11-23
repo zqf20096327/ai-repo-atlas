@@ -1,6 +1,6 @@
 # Alran-AI/code
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Alran-AI/code) · [官网](https://alran.dev) · 组织维护
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Alran-AI/code) · [官网](https://alran.dev) · 组织维护
 
 **终端 AI 编码 agent：读写代码、运行测试并迭代到任务完成**
 
@@ -47,12 +47,12 @@ Alran Code 是面向终端的 AI 编码 agent CLI，读取并编辑代码、运�
 ```mermaid
 xychart-beta
     title "Alran-AI/code 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-22 3（+0）
+2026-11-19 3 → 2026-11-23 3（+0）
 
 
 ---

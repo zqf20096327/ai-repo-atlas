@@ -45,12 +45,12 @@ Lehtinen 等 2018 年 Noise2Noise 论文的非官方 PyTorch 复现：用带噪�
 ```mermaid
 xychart-beta
     title "joeylitalien/noise2noise-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 343 --> 345
     line [344, 344]
 ```
 
-2026-10-20 344 → 2026-11-22 344（+0）
+2026-10-21 344 → 2026-11-23 344（+0）
 
 
 ---

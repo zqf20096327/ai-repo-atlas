@@ -1,6 +1,6 @@
 # sickpyramid/ReaFuse
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/sickpyramid/ReaFuse) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/sickpyramid/ReaFuse) · 个人维护
 
 **基于 REA 的 CLI：拆解两个项目并融合生成一个新项目**
 
@@ -46,12 +46,12 @@ ReaFuse 是构建在 REA（Reverse Engineer Anything）之上的 Node.js CLI 工
 ```mermaid
 xychart-beta
     title "sickpyramid/ReaFuse 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 4 --> 13
-    line [5, 6, 7, 6, 7, 8, 9, 10, 12, 12]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-23"]
+    y-axis "stars" 4 --> 14
+    line [5, 6, 7, 6, 7, 8, 9, 10, 12, 13]
 ```
 
-2026-10-20 5 → 2026-11-22 12（+7）
+2026-10-21 5 → 2026-11-23 13（+8）
 
 
 ---

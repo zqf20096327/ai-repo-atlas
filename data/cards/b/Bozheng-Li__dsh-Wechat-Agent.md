@@ -1,6 +1,6 @@
 # Bozheng-Li/dsh-Wechat-Agent
 
-⭐ 3 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Bozheng-Li/dsh-Wechat-Agent) · [官网](https://www.npmjs.com/package/dsh-plugin-wechat-agent) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Bozheng-Li/dsh-Wechat-Agent) · [官网](https://www.npmjs.com/package/dsh-plugin-wechat-agent) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 助手接入微信的插件：聊天、记忆、任务与朋友圈自动化**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Bozheng-Li/dsh-Wechat-Agent 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-22 3（+0）
+2026-11-19 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -1,10 +1,10 @@
 # QwenLM/Qwen-MM-Plugins
 
-⭐ 3,209 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/QwenLM/Qwen-MM-Plugins) · 组织维护 · 中文 README
+⭐ 3,207 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/QwenLM/Qwen-MM-Plugins) · 组织维护 · 中文 README
 
-**让任意 agent 框架获得原生多模态能力的 Qwen 官方插件集**
+**为 agent harness 提供原生气多模态插件的 Qwen 工具集**
 
-Qwen 团队维护的多模态插件集合：每个能力以 Skill 加可选 MCP server 形式独立安装，为 Claude Code、Codex、Qwen Code、Gemini CLI 等十余种 agent 框架注入图像/视频/文档/3D 读取、长视频记忆、视频生成编辑、Blender/FreeCAD 驱动、硬件操控等能力。core 插件默认本地原生模式无需 API key；api/search/video-memory 等插件需 DashScope 或搜索服务凭据，部分能力依赖 ffmpeg、Node、Blender 等本机程序。提供 curl 一键安装脚本与配置校验动作。
+Qwen 团队发布的插件集，将图像、视频、文档、音频与 3D 文件的读取和处理能力以 Skill 加可选 MCP server 的形式安装到各类 agent harness 中。每个能力独立安装并按主模型类型分组：通用能力（core 本地读图/视频/文档、api 调模型服务、search、mhs 操作硬件）、面向 Qwen VL 系列的能力（长视频记忆、视频编辑、3D 空间问答、Blender/FreeCAD 驱动、教育视频生成）与面向 Qwen Omni 系列的能力（视频切剪、视频转笔记、技能生成、视听记忆、深度研究）。提供 curl 引导安装器与 update 命令，共享配置位于 ~/.qwen-mm-plugins/config。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@ Qwen 团队维护的多模态插件集合：每个能力以 Skill 加可选 MCP 
 
 ## 能力要点
 
-- 每个能力独立安装为 Skill + 可选 MCP server
-- core 插件原生读取图像/视频/文档/3D，默认模式无需 API key
-- 覆盖十余种 agent 框架（Claude Code、Codex、Gemini CLI 等）的引导式安装
-- 能力涉及长视频记忆、视频生成编辑、Blender/FreeCAD、物理硬件操控（MHS）
+- 每个能力独立安装为 Skill 加可选 MCP server（qwen-mm-plugins-<capability>）
+- core 插件默认原生模式读图/视频/文件，无需 API key
+- 引导安装器支持 Claude Code、Codex、Qwen Code 等多种 harness
+- mhs 插件经 Model Hardware Standard 适配器操作真实硬件，含安全限制与紧急停止
 
 ## 适用场景
 
-- 让编程 agent 直接读取和总结 PDF、会议录像等多模态文件
-- 为长视频建立层级记忆后做带时间戳的问答
-- 通过 agent 驱动 Blender/FreeCAD 做 3D 建模与参数化 CAD
-- 把演示视频转成可复用的 Agent Skill
+- 让 agent 直接读取并总结本地 PDF、视频与图片
+- 用 Omni 模型给带说话人标签的会议视频做转录
+- 把教程视频转成带插图的 PDF 笔记
+- 通过 agent 驱动 Blender/FreeCAD 做建模与参数化 CAD
 
 ## 场景标签
 
-`多模态` `视频生成` · 领域:内容生成
+`多模态` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L5: Native multimodal plugins for Qwen models. Make any agent harness multimodal-native.
 > L64: Each capability is installed independently as a **Skill** plus an optional **MCP server**, named
-> L65: `qwen-mm-plugins-<capability>`. Pick by your agent's main model. We strongly recommend the `core`
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen-MM-Plugins 星数(近 23 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22"]
+    title "QwenLM/Qwen-MM-Plugins 星数(近 24 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3137 --> 3216
-    line [3143, 3147, 3150, 3151, 3152, 3151, 3150, 3157, 3160, 3165, 3163, 3166, 3152, 3190, 3198, 3202, 3203, 3205, 3207, 3209, 3210, 3208, 3209]
+    line [3143, 3147, 3150, 3151, 3152, 3151, 3150, 3157, 3160, 3165, 3163, 3166, 3152, 3190, 3198, 3202, 3203, 3205, 3207, 3209, 3210, 3208, 3209, 3207]
 ```
 
-2026-10-20 3,143 → 2026-11-22 3,209（+66）
+2026-10-21 3,143 → 2026-11-23 3,207（+64）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `594e249a2a54` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a5a5d6921fa8` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ Python 命令行工具，调用 Cohere API 按指定主题生成文章，输出 
 ```mermaid
 xychart-beta
     title "OCEANOFANYTHINGOFFICIAL/AI-Blog-Article-Generator 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-20 19 → 2026-11-22 19（+0）
+2026-10-21 19 → 2026-11-23 19（+0）
 
 
 ---

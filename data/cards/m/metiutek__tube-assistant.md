@@ -1,6 +1,6 @@
 # metiutek/tube-assistant
 
-⭐ 41 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/metiutek/tube-assistant) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/metiutek/tube-assistant) · 个人维护
 
 **全自动运营 YouTube 频道的 AI agent，Telegram 操控**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "metiutek/tube-assistant 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 31 --> 42
-    line [32, 33, 34, 35, 33, 37, 39, 40, 41]
+    title "metiutek/tube-assistant 星数(近 10 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 31 --> 43
+    line [32, 33, 34, 35, 33, 37, 39, 40, 41, 42]
 ```
 
-2026-10-20 32 → 2026-11-22 41（+9）
+2026-10-21 32 → 2026-11-23 42（+10）
 
 
 ---

@@ -45,12 +45,12 @@ DeepMind 研究者发布的论文配套代码：包含两篇关于梯度下降�
 ```mermaid
 xychart-beta
     title "google-deepmind/discretisation_drift 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 11（+0）
 
 
 ---

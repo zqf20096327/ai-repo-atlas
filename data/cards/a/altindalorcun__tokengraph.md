@@ -1,6 +1,6 @@
 # altindalorcun/tokengraph
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/altindalorcun/tokengraph) · [官网](https://tokengraph.app) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/altindalorcun/tokengraph) · [官网](https://tokengraph.app) · 个人维护
 
 **把 AI 编码 agent 的 token 用量生成 GitHub 风格贡献图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "altindalorcun/tokengraph 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 11
-    line [3, 4, 5, 6, 10]
+    title "altindalorcun/tokengraph 星数(近 6 点)"
+    x-axis ["2026-11-11", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 12
+    line [3, 4, 5, 6, 10, 11]
 ```
 
-2026-11-11 3 → 2026-11-22 10（+7）
+2026-11-11 3 → 2026-11-23 11（+8）
 
 
 ---

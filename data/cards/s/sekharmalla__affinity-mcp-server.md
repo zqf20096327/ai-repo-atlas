@@ -1,6 +1,6 @@
 # sekharmalla/affinity-mcp-server
 
-⭐ 37 · TypeScript · MIT · 推送 2026-07-03 · [GitHub](https://github.com/sekharmalla/affinity-mcp-server) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-07-03 · [GitHub](https://github.com/sekharmalla/affinity-mcp-server) · 个人维护
 
 **让 AI 助手通过 MCP 控制 macOS 上 Affinity 设计套件的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sekharmalla/affinity-mcp-server 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 27 --> 38
-    line [28, 29, 30, 29, 33, 34, 35, 36, 37, 37]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 27 --> 39
+    line [28, 29, 30, 29, 33, 34, 35, 36, 37, 38]
 ```
 
-2026-10-20 28 → 2026-11-22 37（+9）
+2026-10-21 28 → 2026-11-23 38（+10）
 
 
 ---

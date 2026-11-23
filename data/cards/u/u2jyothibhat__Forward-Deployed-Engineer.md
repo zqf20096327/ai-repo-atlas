@@ -1,6 +1,6 @@
 # u2jyothibhat/Forward-Deployed-Engineer
 
-⭐ 3 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/u2jyothibhat/Forward-Deployed-Engineer) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/u2jyothibhat/Forward-Deployed-Engineer) · 个人维护
 
 **企业 AI 系统书籍配套实验代码，按章组织**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "u2jyothibhat/Forward-Deployed-Engineer 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-02", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-02 3 → 2026-11-22 3（+0）
+2026-11-02 3 → 2026-11-23 4（+1）
 
 
 ---

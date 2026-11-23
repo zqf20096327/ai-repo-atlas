@@ -1,6 +1,6 @@
 # cogvera-labs/akeratos
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/cogvera-labs/akeratos) · [官网](https://cogveralabs.ai/akeratos) · 组织维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cogvera-labs/akeratos) · [官网](https://cogveralabs.ai/akeratos) · 组织维护
 
 **在 Apple Silicon Mac 上从零预训练小语言模型的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cogvera-labs/akeratos 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-22 3（+0）
+2026-11-20 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Moe-Sakura/frontend
 
-⭐ 27 · Vue · MIT · 推送 2026-09-04 · [GitHub](https://github.com/Moe-Sakura/frontend) · [官网](https://www.searchgal.top) · 个人维护 · 中文 README
+⭐ 28 · Vue · MIT · 推送 2026-09-04 · [GitHub](https://github.com/Moe-Sakura/frontend) · [官网](https://www.searchgal.top) · 个人维护 · 中文 README
 
 **面向 Galgame 玩家的资源聚合搜索前端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Moe-Sakura/frontend 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-20 27 → 2026-11-22 27（+0）
+2026-10-21 27 → 2026-11-23 28（+1）
 
 
 ---

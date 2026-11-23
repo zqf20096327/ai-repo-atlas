@@ -1,6 +1,6 @@
 # lambda-calculus-LLM/lambda-RLM
 
-⭐ 309 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/lambda-calculus-LLM/lambda-RLM) · 组织维护
+⭐ 308 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/lambda-calculus-LLM/lambda-RLM) · 组织维护
 
 **面向 LLM 长上下文推理的 λ-演算类型化递归框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lambda-calculus-LLM/lambda-RLM 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-14", "2026-11-23"]
     y-axis "stars" 307 --> 310
-    line [308, 309, 309]
+    line [308, 309, 308]
 ```
 
-2026-10-19 308 → 2026-11-22 309（+1）
+2026-10-20 308 → 2026-11-23 308（+0）
 
 
 ---

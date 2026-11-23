@@ -1,6 +1,6 @@
 # hclivess/ollama-batch-processor
 
-⭐ 36 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/hclivess/ollama-batch-processor) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/hclivess/ollama-batch-processor) · 个人维护
 
 **PySide6 桌面应用：经 Ollama 整本书翻译、有声书备稿与清理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hclivess/ollama-batch-processor 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-20 36 → 2026-11-22 36（+0）
+2026-10-21 36 → 2026-11-23 37（+1）
 
 
 ---

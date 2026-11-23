@@ -1,6 +1,6 @@
 # jmbarrancoml/awesome-european-ai
 
-⭐ 48 · Python · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/jmbarrancoml/awesome-european-ai) · 个人维护
+⭐ 48 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/jmbarrancoml/awesome-european-ai) · 个人维护
 
 **欧洲 AI 生态策展清单：收录公司、研究实验室与开源项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jmbarrancoml/awesome-european-ai 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-22"]
+    title "jmbarrancoml/awesome-european-ai 星数(近 11 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 38 --> 49
-    line [39, 40, 42, 40, 42, 43, 44, 46, 47, 48]
+    line [39, 40, 42, 40, 42, 43, 44, 46, 47, 48, 48]
 ```
 
-2026-10-20 39 → 2026-11-22 48（+9）
+2026-10-21 39 → 2026-11-23 48（+9）
 
 
 ---

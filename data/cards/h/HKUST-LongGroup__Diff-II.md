@@ -45,12 +45,12 @@ Diff-II（Inversion Circle Interpolation）的官方 PyTorch 实现，为 CVPR 2
 ```mermaid
 xychart-beta
     title "HKUST-LongGroup/Diff-II 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-20 31 → 2026-11-22 31（+0）
+2026-10-21 31 → 2026-11-23 31（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Confluent 提供的官方 quickstart 仓库，含四个动手实验：MCP 工具
 ```mermaid
 xychart-beta
     title "confluentinc/quickstart-streaming-agents 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-20 91 → 2026-11-22 91（+0）
+2026-10-21 91 → 2026-11-23 91（+0）
 
 
 ---

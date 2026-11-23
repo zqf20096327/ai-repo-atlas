@@ -1,6 +1,6 @@
 # SamsungLabs/WhiFlash
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SamsungLabs/WhiFlash) · [官网](https://samsunglabs.github.io/WhiFlash/) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SamsungLabs/WhiFlash) · [官网](https://samsunglabs.github.io/WhiFlash/) · 组织维护
 
 **面向 LLM 研究者的投机解码加速方法实现：token 级路由两种 drafter**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SamsungLabs/WhiFlash 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-22 10（+0）
+2026-11-08 10 → 2026-11-23 11（+1）
 
 
 ---

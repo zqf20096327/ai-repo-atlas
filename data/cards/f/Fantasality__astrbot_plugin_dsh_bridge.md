@@ -41,6 +41,18 @@ AstrBot 插件，为主智能体提供 `dsh_ask`/`dsh_ping` 两个函数工具�
 > L5: - AstrBot 主智能体获得两个函数工具 —— `dsh_ask`（把任务投递给 DSH 智能体并取回最终回复）和 `dsh_ping`（连通性检测）；
 > L111: > 该 API 仅绑定回环地址且无鉴权，因此插件无需任何密钥即可驱动本机 DSH。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Fantasality/astrbot_plugin_dsh_bridge 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-22 11 → 2026-11-23 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a48e04e5d4e9` · [字段定义](../../DATASET.md)*

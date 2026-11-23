@@ -1,6 +1,6 @@
 # ariel-frischer/autospec
 
-⭐ 149 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ariel-frischer/autospec) · [官网](https://ariel-frischer.github.io/autospec/) · 个人维护
+⭐ 150 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ariel-frischer/autospec) · [官网](https://ariel-frischer.github.io/autospec/) · 个人维护
 
 **开发者 CLI：自动化 spec→plan→tasks→implement 的规范驱动开发**
 
@@ -45,13 +45,13 @@ Go 编写的单二进制命令行工具，编排 AI 编码代理完成规范驱�
 
 ```mermaid
 xychart-beta
-    title "ariel-frischer/autospec 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 145 --> 150
-    line [146, 147, 148, 149]
+    title "ariel-frischer/autospec 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-11", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 145 --> 151
+    line [146, 147, 148, 149, 150]
 ```
 
-2026-10-20 146 → 2026-11-22 149（+3）
+2026-10-21 146 → 2026-11-23 150（+4）
 
 
 ---

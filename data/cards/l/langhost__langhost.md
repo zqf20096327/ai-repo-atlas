@@ -1,6 +1,6 @@
 # langhost/langhost
 
-⭐ 76 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/langhost/langhost) · [官网](https://github.com/langhost/langhost) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/langhost/langhost) · [官网](https://github.com/langhost/langhost) · 个人维护
 
 **自托管开源 LangGraph Agent Server 运行时：MIT 许可、Postgres+Redis 持久化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langhost/langhost 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 63 --> 77
-    line [64, 65, 66, 67, 65, 71, 74, 75, 74, 76, 76]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 63 --> 78
+    line [64, 65, 66, 67, 65, 71, 74, 75, 74, 76, 77]
 ```
 
-2026-10-20 64 → 2026-11-22 76（+12）
+2026-10-21 64 → 2026-11-23 77（+13）
 
 
 ---

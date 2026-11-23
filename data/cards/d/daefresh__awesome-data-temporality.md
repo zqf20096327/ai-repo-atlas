@@ -40,6 +40,18 @@
 > L2: > A curated list to help you manage temporal data across many modalities 🚀.
 > L130: This list started as personal collection of interesting things about data versioning. Your contributions and sugge
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "daefresh/awesome-data-temporality 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 124 --> 126
+    line [125, 125]
+```
+
+2026-11-22 125 → 2026-11-23 125（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1435472d3454` · [字段定义](../../DATASET.md)*

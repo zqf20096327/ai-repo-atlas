@@ -1,6 +1,6 @@
 # paypal/gators
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/paypal/gators) · [官网](https://paypal.github.io/gators/) · 组织维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/paypal/gators) · [官网](https://paypal.github.io/gators/) · 组织维护
 
 **给数据科学家的 Polars 预处理与特征工程库，108 个转换器**
 
@@ -46,12 +46,12 @@ PayPal PSP Data Team 开发的 Python 数据预处理与特征工程库，基于
 ```mermaid
 xychart-beta
     title "paypal/gators 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-20 29 → 2026-11-22 30（+1）
+2026-10-21 29 → 2026-11-23 31（+2）
 
 
 ---

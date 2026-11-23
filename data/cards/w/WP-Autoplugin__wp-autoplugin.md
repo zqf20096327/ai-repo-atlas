@@ -1,6 +1,6 @@
 # WP-Autoplugin/wp-autoplugin
 
-⭐ 400 · PHP · 推送 2026-10-11 · [GitHub](https://github.com/WP-Autoplugin/wp-autoplugin) · [官网](https://wp-autoplugin.com) · 组织维护
+⭐ 401 · PHP · 推送 2026-10-11 · [GitHub](https://github.com/WP-Autoplugin/wp-autoplugin) · [官网](https://wp-autoplugin.com) · 组织维护
 
 **在 WordPress 后台用 AI 代理创建、修改与审查插件的工具**
 
@@ -46,12 +46,12 @@ WordPress 管理后台内的代理式编码工作流：通过 Plan → Code → 
 ```mermaid
 xychart-beta
     title "WP-Autoplugin/wp-autoplugin 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 396 --> 401
-    line [397, 399, 397, 400, 400]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 396 --> 402
+    line [397, 399, 397, 400, 401]
 ```
 
-2026-10-20 397 → 2026-11-22 400（+3）
+2026-10-21 397 → 2026-11-23 401（+4）
 
 
 ---

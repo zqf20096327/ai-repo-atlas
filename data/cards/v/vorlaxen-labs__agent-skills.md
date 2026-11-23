@@ -41,6 +41,18 @@ Vorlaxen Labs 出品的 npm CLI，提供 init/add/hub/update/remove/doctor/list 
 > L26: |**Loader CLI**|`init`, `add`, `hub`, `update`, `remove`, `doctor`, `list`|
 > L40: - Projects that need **reproducible** skill installs via **`skills-lock.json`** (compatible with vercel-labs/skills
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vorlaxen-labs/agent-skills 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2f09c355395a` · [字段定义](../../DATASET.md)*

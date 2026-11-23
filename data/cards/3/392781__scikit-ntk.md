@@ -43,12 +43,12 @@ Neural Tangent Kernel 的 scikit-learn 集成实现，源自一篇硕士论文�
 ```mermaid
 xychart-beta
     title "392781/scikit-ntk 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-20 27 → 2026-11-22 27（+0）
+2026-10-21 27 → 2026-11-23 27（+0）
 
 
 ---

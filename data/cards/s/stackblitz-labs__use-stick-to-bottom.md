@@ -1,6 +1,6 @@
 # stackblitz-labs/use-stick-to-bottom
 
-⭐ 785 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/stackblitz-labs/use-stick-to-bottom) · [官网](https://use-stick-to-bottom.samdenty.io/) · 个人维护
+⭐ 786 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/stackblitz-labs/use-stick-to-bottom) · [官网](https://use-stick-to-bottom.samdenty.io/) · 个人维护
 
 **面向 AI 聊天界面的 React 吸底滚动 Hook**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stackblitz-labs/use-stick-to-bottom 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 781 --> 786
-    line [782, 783, 784, 785, 784, 785, 785]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 781 --> 787
+    line [782, 783, 784, 785, 784, 785, 786]
 ```
 
-2026-10-20 782 → 2026-11-22 785（+3）
+2026-10-21 782 → 2026-11-23 786（+4）
 
 
 ---

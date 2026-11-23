@@ -1,6 +1,6 @@
 # boromat/polcv
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/boromat/polcv) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/boromat/polcv) · 个人维护
 
 **面向波兰求职者的本地简历定制生成器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "boromat/polcv 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-22 3（+0）
+2026-11-13 3 → 2026-11-23 3（+0）
 
 
 ---

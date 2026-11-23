@@ -42,6 +42,18 @@
 > L5: Hold a shortcut to talk, or use an optional toggle shortcut for hands-free capture. Whispur records, transcribes, op
 > L30: - Local-first by default: with no cloud speech key, Whispur uses NVIDIA Parakeet on Apple silicon (Apple on-device 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sophiie-ai/whispur 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `90c816ef4206` · [字段定义](../../DATASET.md)*

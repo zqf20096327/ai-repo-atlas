@@ -1,6 +1,6 @@
 # sh-lee97/grafx
 
-⭐ 141 · Python · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/sh-lee97/grafx) · [官网](https://sh-lee97.github.io/grafx/) · 个人维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/sh-lee97/grafx) · [官网](https://sh-lee97.github.io/grafx/) · 个人维护
 
 **PyTorch 音频处理图开源库**
 
@@ -42,12 +42,12 @@ GRAFX 是一个基于 PyTorch 的音频处理图（Audio Processing Graphs）开
 ```mermaid
 xychart-beta
     title "sh-lee97/grafx 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 140 --> 142
-    line [141, 141]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 140 --> 143
+    line [141, 142]
 ```
 
-2026-10-20 141 → 2026-11-22 141（+0）
+2026-10-21 141 → 2026-11-23 142（+1）
 
 
 ---

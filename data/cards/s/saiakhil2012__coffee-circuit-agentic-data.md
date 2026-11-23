@@ -1,6 +1,6 @@
 # saiakhil2012/coffee-circuit-agentic-data
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/saiakhil2012/coffee-circuit-agentic-data) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **单机可运行的 AI 代理数据架构参考实现：混合检索+RAG+MCP+人工审批写入**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

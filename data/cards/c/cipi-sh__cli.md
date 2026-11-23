@@ -1,6 +1,6 @@
 # cipi-sh/cli
 
-⭐ 10 · Go · 推送 2026-11-19 · [GitHub](https://github.com/cipi-sh/cli) · [官网](https://cipi.sh/docs/cli-client) · 组织维护
+⭐ 10 · Go · 推送 2026-11-21 · [GitHub](https://github.com/cipi-sh/cli) · [官网](https://cipi.sh/docs/cli-client) · 组织维护
 
 **从终端管理 Cipi 服务器、应用、数据库与部署的 CLI 客户端**
 
@@ -44,12 +44,12 @@ Cipi 平台的命令行客户端：通过 API endpoint 加 token 以 profile 形
 ```mermaid
 xychart-beta
     title "cipi-sh/cli 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-22 10（+0）
+2026-11-08 10 → 2026-11-23 10（+0）
 
 
 ---

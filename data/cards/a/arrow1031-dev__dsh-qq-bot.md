@@ -1,6 +1,6 @@
 # arrow1031-dev/dsh-qq-bot
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/arrow1031-dev/dsh-qq-bot) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/arrow1031-dev/dsh-qq-bot) · 个人维护 · 中文 README
 
 **把 QQ 消息接入 DSH Agent 的插件，每会话独立**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arrow1031-dev/dsh-qq-bot 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-22"]
-    y-axis "stars" 2 --> 11
-    line [3, 10]
+    title "arrow1031-dev/dsh-qq-bot 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 12
+    line [3, 10, 11]
 ```
 
-2026-10-29 3 → 2026-11-22 10（+7）
+2026-10-29 3 → 2026-11-23 11（+8）
 
 
 ---

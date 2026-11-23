@@ -1,6 +1,6 @@
 # duola15/awesome-chinese-open-models
 
-⭐ 23 · 推送 2026-11-21 · [GitHub](https://github.com/duola15/awesome-chinese-open-models) · 组织维护 · 中文 README
+⭐ 23 · 推送 2026-11-22 · [GitHub](https://github.com/duola15/awesome-chinese-open-models) · 组织维护 · 中文 README
 
 **中文开源 AI 模型自动更新索引：基准、硬件匹配、部署与许可**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "duola15/awesome-chinese-open-models 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-08", "2026-11-23"]
     y-axis "stars" 20 --> 24
     line [21, 22, 23, 23]
 ```
 
-2026-10-20 21 → 2026-11-22 23（+2）
+2026-10-21 21 → 2026-11-23 23（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AaltoDictionaryofML/AaltoDictionaryofML.github.io
 
-⭐ 57 · TeX · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/AaltoDictionaryofML/AaltoDictionaryofML.github.io) · [官网](https://aaltodictionaryofml.github.io/) · 组织维护
+⭐ 58 · TeX · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/AaltoDictionaryofML/AaltoDictionaryofML.github.io) · [官网](https://aaltodictionaryofml.github.io/) · 组织维护
 
 **面向学生与研究者的多语机器学习术语词典（PDF+MCP）**
 
@@ -45,12 +45,12 @@ Aalto 大学机器学习组维护的开放获取机器学习/AI 术语表，含 
 ```mermaid
 xychart-beta
     title "AaltoDictionaryofML/AaltoDictionaryofML.github.io 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-20 57 → 2026-11-22 57（+0）
+2026-10-21 57 → 2026-11-23 58（+1）
 
 
 ---

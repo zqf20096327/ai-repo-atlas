@@ -1,6 +1,6 @@
 # ultralytics/sdk
 
-⭐ 19 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ultralytics/sdk) · [官网](https://platform.ultralytics.com/api/docs) · 组织维护 · 中文 README
+⭐ 19 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ultralytics/sdk) · [官网](https://platform.ultralytics.com/api/docs) · 组织维护 · 中文 README
 
 **Ultralytics 平台 API 的类型化官方 Python SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ultralytics/sdk 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23"]
     y-axis "stars" 12 --> 20
     line [13, 14, 13, 17, 19, 19]
 ```
 
-2026-10-20 13 → 2026-11-22 19（+6）
+2026-10-21 13 → 2026-11-23 19（+6）
 
 
 ---

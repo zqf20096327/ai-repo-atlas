@@ -1,6 +1,6 @@
 # nimcap/nimcap-screenshot
 
-⭐ 32 · C# · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/nimcap/nimcap-screenshot) · [官网](https://jietu.nimcap.com/) · 个人维护 · 中文 README
+⭐ 33 · C# · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/nimcap/nimcap-screenshot) · [官网](https://jietu.nimcap.com/) · 个人维护 · 中文 README
 
 **Windows 离线截图工具：OCR、翻译、抠图、录屏一站式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nimcap/nimcap-screenshot 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
-    y-axis "stars" 29 --> 33
-    line [30, 32]
+    title "nimcap/nimcap-screenshot 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 29 --> 34
+    line [30, 32, 33]
 ```
 
-2026-11-20 30 → 2026-11-22 32（+2）
+2026-11-20 30 → 2026-11-23 33（+3）
 
 
 ---

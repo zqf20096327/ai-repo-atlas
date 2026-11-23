@@ -1,6 +1,6 @@
 # midas-research/audino
 
-⭐ 1,148 · TypeScript · NOASSERTION · 推送 2026-02-03 · [GitHub](https://github.com/midas-research/audino) · 组织维护
+⭐ 1,149 · TypeScript · NOASSERTION · 推送 2026-02-03 · [GitHub](https://github.com/midas-research/audino) · 组织维护
 
 **开源音频标注工具：为语音任务制作转写与标签数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "midas-research/audino 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-31", "2026-11-02", "2026-11-10", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-31", "2026-11-02", "2026-11-10", "2026-11-20", "2026-11-23"]
     y-axis "stars" 1146 --> 1150
-    line [1148, 1147, 1148, 1149, 1148, 1148]
+    line [1148, 1147, 1148, 1149, 1148, 1149]
 ```
 
-2026-10-20 1,148 → 2026-11-22 1,148（+0）
+2026-10-21 1,148 → 2026-11-23 1,149（+1）
 
 
 ---

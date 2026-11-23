@@ -1,6 +1,6 @@
 # active-ai-reading/active-ai-reading.github.io
 
-⭐ 3 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/active-ai-reading/active-ai-reading.github.io) · [官网](https://active-ai-reading.github.io) · 组织维护
+⭐ 3 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/active-ai-reading/active-ai-reading.github.io) · [官网](https://active-ai-reading.github.io) · 组织维护
 
 **师生共读 AI 论文并改写/复现的 Jekyll 课程博客**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "active-ai-reading/active-ai-reading.github.io 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-22 3（+0）
+2026-11-13 3 → 2026-11-23 3（+0）
 
 
 ---

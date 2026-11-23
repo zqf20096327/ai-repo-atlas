@@ -1,6 +1,6 @@
 # open-chinese/poetry-collection
 
-⭐ 56 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/open-chinese/poetry-collection) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/open-chinese/poetry-collection) · 个人维护 · 中文 README
 
 **37 万首中文诗词曲赋的统一建模数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "open-chinese/poetry-collection 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-23"]
     y-axis "stars" 52 --> 58
     line [53, 54, 55, 56, 54, 57, 56, 56]
 ```
 
-2026-10-19 53 → 2026-11-22 56（+3）
+2026-10-20 53 → 2026-11-23 56（+3）
 
 
 ---

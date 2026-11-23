@@ -1,6 +1,6 @@
 # Hy4ri/antigravity-flake
 
-⭐ 10 · Nix · 推送 2026-11-20 · [GitHub](https://github.com/Hy4ri/antigravity-flake) · [官网](https://antigravity.google/) · 个人维护
+⭐ 11 · Nix · 推送 2026-11-21 · [GitHub](https://github.com/Hy4ri/antigravity-flake) · [官网](https://antigravity.google/) · 个人维护
 
 **用 Nix flake 安装 Google Antigravity 全家桶的工具**
 
@@ -40,6 +40,18 @@
 
 > L8: Run and install the Google Antigravity tools on NixOS, Home Manager, nix-darwin, or any system with Nix: the CLI, th
 > L117: The Antigravity apps are proprietary software by Google, under the Google Antigravity license terms; Nix marks the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Hy4ri/antigravity-flake 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-22 10 → 2026-11-23 11（+1）
 
 
 ---

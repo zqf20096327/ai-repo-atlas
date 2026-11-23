@@ -1,10 +1,10 @@
 # datawhalechina/deepagents-in-action
 
-⭐ 2,995 · Jupyter Notebook · 推送 2026-11-17 · [GitHub](https://github.com/datawhalechina/deepagents-in-action) · [官网](https://datawhalechina.github.io/deepagents-in-action/) · 组织维护 · 中文 README
+⭐ 2,996 · Jupyter Notebook · 推送 2026-11-17 · [GitHub](https://github.com/datawhalechina/deepagents-in-action) · [官网](https://datawhalechina.github.io/deepagents-in-action/) · 组织维护 · 中文 README
 
-**中文开源课程：基于 LangChain/LangGraph 从零构建生产级 AI Agent**
+**基于 LangChain/LangGraph 构建生产级 AI Agent 的中文开源课程**
 
-由 DataWhale 组织、LangChain 官方认证大使沧海九粟编写的中文课程，配套 16 章图文、B 站视频与实验模板，覆盖任务规划、虚拟文件系统、子 Agent 协作、长期记忆、MCP、沙箱执行等主题。基于 AgentSeek 套件创建实验模板（uv/npm 安装、agentseek 命令启动），示例默认通过硅基流动接入模型，用 MODEL_NAME 环境变量配置。网站以 Astro 构建，内容 CC BY-NC-SA 4.0、源码 MIT 双协议发布。
+DataWhale 上的中文开源教程，17 章图文与实验模板，配套 AgentSeek 工程化套件创建各章模板并运行实验，覆盖任务规划、虚拟文件系统、子 Agent 协作、上下文管理、MCP、沙箱执行与流式事件等主题；课程围绕 Deep Agents 0.7.x 版本，各章节标注依赖版本要求，示例默认通过硅基流动接入支持工具调用的模型。课程内容采用 CC BY-NC-SA 4.0，网站源码为 MIT。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 16 章课程配套每章实验模板（agentseek create 创建）
-- 跟踪 Deep Agents v0.7 版本变化并给出迁移说明
-- 示例默认接入硅基流动模型服务，含新用户代金券与实验配额补贴池
-- Astro 静态站点 + Markdown 内容流水线构建
+- 17 章图文与实验模板，按认知/核心/进阶/前沿预览组织
+- 通过 AgentSeek CLI 创建各章专属模板并检查环境、启动应用
+- 配套 LangChain 开发指南与 LangSmith Trace 调试两个 AI 编码助手技能
+- 标注各功能对应的 deepagents 版本要求与迁移指南
 
 ## 适用场景
 
-- 系统学习用 Deep Agents/LangGraph 构建生产级 Agent
-- 按章节模板动手复现子 Agent、MCP、沙箱等实验
-- 了解 Deep Agents v0.5→v0.7 的行为变化与迁移路径
+- 系统学习 Deep Agents/LangChain/LangGraph 的 Agent 开发
+- 按章节模板动手复现任务规划、子 Agent 与沙箱实验
+- 从 Deep Agents 0.5/0.6 升级到 0.7 时参考迁移说明
 
 ## 场景标签
 
@@ -37,22 +37,21 @@
 
 ## 证据(README 行号)
 
-> L17: 基于 LangChain / LangGraph 的中文开源课程，配套 **16 章图文、视频与实验模板**。从第一个 Agent 开始，逐步掌握任务规划、文件系统、子 Agent 协作与上下文管理。
-> L39: ## 课程大纲
-> L41: **想先看 Deep Agents 的整体架构？** 第 1 章的三层选择与组合解释 Deep Agents、LangChain 与 LangGraph 的分工；整体架构图展示 Middleware、工具、Backend 和运行时
+> L4:  Deep Agents 实战 — 基于 LangChain / LangGraph 的中文开源课程，感谢 2,000+ GitHub Stars
+> L20: 基于 LangChain / LangGraph 的中文开源课程，配套 **17 章图文与实验模板，并持续补充视频**。从第一个 Agent 开始，逐步掌握任务规划、文件系统、子 Agent 协作与上下文管理。
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/deepagents-in-action 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2709 --> 3021
-    line [2735, 2761, 2778, 2788, 2797, 2800, 2806, 2813, 2824, 2832, 2840, 2847, 2852, 2797, 2900, 2914, 2922, 2930, 2954, 2957, 2963, 2973, 2982, 2992, 2993, 2994, 2995]
+    title "datawhalechina/deepagents-in-action 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2709 --> 3022
+    line [2735, 2761, 2778, 2788, 2797, 2800, 2806, 2813, 2824, 2832, 2840, 2847, 2852, 2797, 2900, 2914, 2922, 2930, 2954, 2957, 2963, 2973, 2982, 2992, 2993, 2994, 2995, 2996]
 ```
 
-2026-10-20 2,735 → 2026-11-22 2,995（+260）
+2026-10-21 2,735 → 2026-11-23 2,996（+261）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b3ba35f51efc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cfa07c87d73e` · [字段定义](../../DATASET.md)*

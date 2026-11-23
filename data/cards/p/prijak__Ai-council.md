@@ -1,6 +1,6 @@
 # prijak/Ai-council
 
-⭐ 19 · JavaScript · 推送 2026-02-24 · [GitHub](https://github.com/prijak/Ai-council) · [官网](https://council.gameinghub.com/) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · 推送 2026-02-24 · [GitHub](https://github.com/prijak/Ai-council) · [官网](https://council.gameinghub.com/) · 个人维护 · 中文 README
 
 **自托管 Web 应用：多模型议会式商议与 Agent 对话平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "prijak/Ai-council 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-20 19 → 2026-11-22 19（+0）
+2026-10-21 19 → 2026-11-23 20（+1）
 
 
 ---

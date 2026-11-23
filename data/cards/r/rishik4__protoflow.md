@@ -1,6 +1,6 @@
 # rishik4/protoflow
 
-⭐ 21 · 推送 2026-10-30 · [GitHub](https://github.com/rishik4/protoflow) · [官网](https://www.protoflow.ai) · 个人维护
+⭐ 22 · 推送 2026-10-30 · [GitHub](https://github.com/rishik4/protoflow) · [官网](https://www.protoflow.ai) · 个人维护
 
 **带 AI 助手的跨平台免费 PCB 设计桌面应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "rishik4/protoflow 星数(近 6 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 12 --> 22
-    line [13, 15, 18, 19, 20, 21]
+    title "rishik4/protoflow 星数(近 7 点)"
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 12 --> 23
+    line [13, 15, 18, 19, 20, 21, 22]
 ```
 
-2026-10-31 13 → 2026-11-22 21（+8）
+2026-10-31 13 → 2026-11-23 22（+9）
 
 
 ---

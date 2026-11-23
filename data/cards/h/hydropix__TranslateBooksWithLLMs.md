@@ -1,10 +1,10 @@
 # hydropix/TranslateBooksWithLLMs
 
-⭐ 2,604 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [官网](https://github.com/hydropix/TranslateBooksWithLLMs/wiki) · 个人维护 · 中文 README
+⭐ 2,605 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [官网](https://github.com/hydropix/TranslateBooksWithLLMs/wiki) · 个人维护
 
-**用本地或云端 LLM 翻译整本书籍与文档的桌面/自托管应用**
+**用 LLM 翻译整本书籍与文档的桌面应用，保留格式**
 
-TBL 是一个翻译长篇书籍、字幕与文档的桌面应用（也可从源码运行或 Docker 部署），支持 EPUB、SRT、DOCX、PDF、TXT 格式，保留原格式与结构（扫描 PDF 不支持、无 OCR）。通过智能分块处理无大小限制的文档，断点续译，支持从样书提取可复用文风预设与自动术语表。翻译后端可选 Ollama 本地运行或 DeepSeek、Gemini、Mistral、OpenAI、OpenRouter、Poe、NVIDIA NIM 及任意 OpenAI 兼容端点（llama.cpp、LM Studio、vLLM、LocalAI）。附带 Web UI（localhost:5000）与 CLI，多设备共享同一工作区，支持 API key 轮换与完成通知（L8-L17, L30-L60, L125-L144）。
+桌面/本地 Web 应用，调用 LLM 翻译整本电子书、字幕与文档，支持 EPUB、SRT、DOCX、PDF、TXT、PGN 格式。核心机制：分块处理不限文件大小，保留 EPUB 格式、SRT 时间码与标签，断点续译，可提取复用写作风格预设，自动从文档派生术语表与风格。翻译提供方可选本地 Ollama 或多家云 API；提供 Web UI、CLI 与 Docker 部署。限制：扫描版 PDF 不支持（无 OCR），PDF 与 PGN 暂不可用二次润色。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@ TBL 是一个翻译长篇书籍、字幕与文档的桌面应用（也可从源�
 
 ## 能力要点
 
-- EPUB/SRT/DOCX/PDF/TXT 格式翻译且保留原格式与时间码
-- 断点续译检查点系统，无文件大小限制
-- 本地 Ollama 或多家云端 provider 及 OpenAI 兼容端点
-- 自动术语表（NER 提取）与可复用文风预设
+- 支持 EPUB/SRT/DOCX/PDF/TXT/PGN 格式翻译并保留格式与时间码
+- 分块处理无文件大小限制，检查点机制支持中断后续译
+- 多翻译提供方：Ollama 本地运行及 DeepSeek、Gemini、OpenAI 等云 API
+- 自动术语表与写作风格预设，支持 API key 轮换与并行翻译
 
 ## 适用场景
 
-- 把整本外文电子书翻译成目标语言并保留排版
-- 用本地 Ollama 模型离线翻译敏感文档
-- 翻译字幕文件且保持时间码同步
+- 翻译整本 EPUB 电子书并保留原有排版结构
+- 用本地 Ollama 模型离线翻译文档，内容不出本机
+- 批量翻译字幕文件并保持时间码同步
+- 长篇翻译任务中断后从断点继续
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:翻译/文档工具
 
 ## 证据(README 行号)
 
 > L8: A desktop app that translates **books**, **subtitles**, and **documents** with AI - local or cloud. Drop a file, pic
-> L106: |`--provider`|ollama/openrouter/openai/gemini/mistral/deepseek/poe/nim|ollama|
+> L31: That's it (就这么简单 · これだけ · 이게 다예요). On first launch, you choose a translation provider:
+> L107: |`--provider`|ollama/openrouter/openai/gemini/mistral/deepseek/poe/nim|ollama|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "hydropix/TranslateBooksWithLLMs 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2519 --> 2611
-    line [2526, 2535, 2538, 2539, 2541, 2544, 2547, 2550, 2552, 2554, 2556, 2558, 2560, 2541, 2579, 2583, 2587, 2588, 2590, 2594, 2597, 2598, 2599, 2601, 2603, 2602, 2604]
+    title "hydropix/TranslateBooksWithLLMs 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2519 --> 2612
+    line [2526, 2535, 2538, 2539, 2541, 2544, 2547, 2550, 2552, 2554, 2556, 2558, 2560, 2541, 2579, 2583, 2587, 2588, 2590, 2594, 2597, 2598, 2599, 2601, 2603, 2602, 2604, 2605]
 ```
 
-2026-10-20 2,526 → 2026-11-22 2,604（+78）
+2026-10-21 2,526 → 2026-11-23 2,605（+79）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9c6ec8843c5c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4ecb9a21cc86` · [字段定义](../../DATASET.md)*

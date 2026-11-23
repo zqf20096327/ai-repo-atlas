@@ -1,6 +1,6 @@
 # Thecsiz/tastemaker
 
-⭐ 10 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Thecsiz/tastemaker) · [官网](https://thecsiz.github.io/tastemaker/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 Claude Code/Codex 用的设计评审 skill：批判工艺与品味**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

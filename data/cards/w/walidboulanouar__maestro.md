@@ -46,12 +46,12 @@ Maestro 是一个自托管的 LLM 路由/编排服务，自称 Sakana Fugu 的�
 ```mermaid
 xychart-beta
     title "walidboulanouar/maestro 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-20 67 → 2026-11-22 67（+0）
+2026-10-21 67 → 2026-11-23 67（+0）
 
 
 ---

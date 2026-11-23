@@ -47,12 +47,12 @@ APERIT 是 Windows/macOS 桌面应用，以 PATET 协议驱动：AI 逐行写出
 ```mermaid
 xychart-beta
     title "fidenit/aperit 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-22 10（+0）
+2026-11-19 10 → 2026-11-23 10（+0）
 
 
 ---

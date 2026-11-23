@@ -1,6 +1,6 @@
 # linny006/prompt-tools-live
 
-⭐ 11 · Python · 推送 2026-11-02 · [GitHub](https://github.com/linny006/prompt-tools-live) · [官网](https://github.com/linny006?utm_source=github&utm_medium=about&utm_campaign=prompt-tools-live) · 个人维护 · 中文 README
+⭐ 12 · Python · 推送 2026-11-02 · [GitHub](https://github.com/linny006/prompt-tools-live) · [官网](https://github.com/linny006?utm_source=github&utm_medium=about&utm_campaign=prompt-tools-live) · 个人维护 · 中文 README
 
 **每15分钟自动更新的提示工程工具追踪清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "linny006/prompt-tools-live 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 12（+1）
 
 
 ---

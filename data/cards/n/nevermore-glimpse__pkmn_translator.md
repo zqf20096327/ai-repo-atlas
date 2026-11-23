@@ -1,6 +1,6 @@
 # nevermore-glimpse/pkmn_translator
 
-⭐ 13 · Ruby · MIT · 推送 2026-11-18 · [GitHub](https://github.com/nevermore-glimpse/pkmn_translator) · 个人维护 · 中文 README
+⭐ 14 · Ruby · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nevermore-glimpse/pkmn_translator) · 个人维护 · 中文 README
 
 **面向玩家的宝可梦同人游戏批量汉化工具，本地/云端 LLM 驱动**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nevermore-glimpse/pkmn_translator 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 11, 12, 13, 13]
+    x-axis ["2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 12, 13, 14]
 ```
 
-2026-10-22 11 → 2026-11-22 13（+2）
+2026-10-22 11 → 2026-11-23 14（+3）
 
 
 ---

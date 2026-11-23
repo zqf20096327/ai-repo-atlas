@@ -1,6 +1,6 @@
 # natnew/awesome-physical-ai
 
-⭐ 177 · MDX · MIT · 推送 2026-11-21 · [GitHub](https://github.com/natnew/awesome-physical-ai) · [官网](https://natnew.github.io/awesome-physical-ai/) · 个人维护
+⭐ 178 · MDX · MIT · 推送 2026-11-21 · [GitHub](https://github.com/natnew/awesome-physical-ai) · [官网](https://natnew.github.io/awesome-physical-ai/) · 个人维护
 
 **Physical AI / 具身智能资源策展清单（235 条，14 类）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "natnew/awesome-physical-ai 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 164 --> 178
-    line [165, 167, 168, 169, 167, 172, 173, 174, 176, 177, 177]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 164 --> 179
+    line [165, 167, 168, 169, 167, 172, 173, 174, 176, 177, 178]
 ```
 
-2026-10-20 165 → 2026-11-22 177（+12）
+2026-10-21 165 → 2026-11-23 178（+13）
 
 
 ---

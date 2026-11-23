@@ -1,6 +1,6 @@
 # dosco/deeporg
 
-⭐ 3,239 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dosco/deeporg) · [官网](https://deeporg.io) · 个人维护
+⭐ 3,239 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dosco/deeporg) · [官网](https://deeporg.io) · 个人维护
 
 **企业组织的 AI agent：用自然语言查询并操作数据库、API、文件与代码**
 
@@ -39,6 +39,18 @@ DeepORG（前身为 GraphJin）是一个面向企业内部系统的 AI agent：�
 
 > L11: DeepORG is an AI agent that answers questions and makes changes across the
 > L13: source code. Ask it in plain words; it finds the right tables, has the database
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dosco/deeporg 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3238 --> 3240
+    line [3239, 3239]
+```
+
+2026-11-22 3,239 → 2026-11-23 3,239（+0）
 
 
 ---

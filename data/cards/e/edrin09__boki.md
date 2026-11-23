@@ -1,6 +1,6 @@
 # edrin09/boki
 
-⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/edrin09/boki) · [官网](https://edrin09.github.io/boki/) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/edrin09/boki) · [官网](https://edrin09.github.io/boki/) · 个人维护 · 中文 README
 
 **离线优先的开源财务软件，AI 帮小微企业记账**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "edrin09/boki 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-13", "2026-11-22"]
+    title "edrin09/boki 星数(近 5 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-13", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 10
-    line [3, 7, 8, 9]
+    line [3, 7, 8, 9, 9]
 ```
 
-2026-10-31 3 → 2026-11-22 9（+6）
+2026-10-31 3 → 2026-11-23 9（+6）
 
 
 ---

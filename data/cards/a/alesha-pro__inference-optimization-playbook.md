@@ -1,6 +1,6 @@
 # alesha-pro/inference-optimization-playbook
 
-⭐ 39 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/alesha-pro/inference-optimization-playbook) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/alesha-pro/inference-optimization-playbook) · 个人维护
 
 **消费级 GPU 上运行大型 MoE LLM 的调优经验手册**
 
@@ -40,6 +40,18 @@
 > L3: A map of 115 tested ideas for making huge LLMs fast on consumer GPUs. Each one has a verdict (worked, failed, or wor
 > L37: - **Coding agents** that do the tuning for them. The repo root is a ready skill.
 > L56: playbook/    16 chapters by mechanism
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alesha-pro/inference-optimization-playbook 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 36 --> 80
+    line [39, 77]
+```
+
+2026-11-22 39 → 2026-11-23 77（+38）
 
 
 ---

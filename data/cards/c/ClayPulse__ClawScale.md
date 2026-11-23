@@ -41,6 +41,18 @@ ClawScale 是一个自托管的即时通讯网关，将消息渠道层与 AI 后
 > L96: 3. ClawScale routes the message to the right AI backend(s), keeping each user's conversation history isolated
 > L221: |**Architecture**|Monolithic — gateways + agent in one process|Decoupled — gateway layer + pluggable agent backend
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ClayPulse/ClawScale 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `40aec1abb7fa` · [字段定义](../../DATASET.md)*

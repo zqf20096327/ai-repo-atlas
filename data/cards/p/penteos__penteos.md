@@ -1,6 +1,6 @@
 # penteos/penteos
 
-⭐ 6 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/penteos/penteos) · [官网](https://penteos.com) · 组织维护
+⭐ 7 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/penteos/penteos) · [官网](https://penteos.com) · 组织维护
 
 **给渗透测试者的 AI 测试工作台：侦察到报告一站完成**
 
@@ -41,6 +41,18 @@
 > L24: Penteos is a desktop workbench for penetration testing. Scope, recon, real tools, an intercepting
 > L25: proxy, evidence, findings and the client report live in one project. Its AI agent, the **Maestro**,
 > L60: ### 1. Your client's data is masked before the AI reads it
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "penteos/penteos 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-22 6 → 2026-11-23 7（+1）
 
 
 ---

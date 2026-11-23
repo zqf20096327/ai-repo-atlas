@@ -1,6 +1,6 @@
 # lingyzhu0101/Awesome_GLC
 
-⭐ 14 · 推送 2026-05-09 · [GitHub](https://github.com/lingyzhu0101/Awesome_GLC) · 组织维护 · 中文 README
+⭐ 15 · 推送 2026-05-09 · [GitHub](https://github.com/lingyzhu0101/Awesome_GLC) · 组织维护 · 中文 README
 
 **生成式学习压缩（GLC）论文清单：图像/视频生成压缩与评测条件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lingyzhu0101/Awesome_GLC 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 15（+1）
 
 
 ---

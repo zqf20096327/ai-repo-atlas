@@ -46,12 +46,12 @@ three.ws agent 的本地运行时包：在本机跑与服务端相同的 agent �
 ```mermaid
 xychart-beta
     title "nirholas/three-ws-agent-cli 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-22 3 → 2026-11-22 3（+0）
+2026-10-22 3 → 2026-11-23 3（+0）
 
 
 ---

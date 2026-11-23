@@ -41,6 +41,18 @@
 > L23: - **Image generation model**: produces the assets when you approve a brief.
 > L41: - **Google Gemini Developer API** — `GOOGLE_API_KEY` (a Google AI Studio key), built on the official `@google/genai
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aldevvv/aestry 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-22 5 → 2026-11-23 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `a0c52cec4d0f` · [字段定义](../../DATASET.md)*

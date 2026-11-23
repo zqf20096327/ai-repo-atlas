@@ -1,6 +1,6 @@
 # idan-rubin/browserclaw-agent
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/idan-rubin/browserclaw-agent) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/idan-rubin/browserclaw-agent) · 个人维护
 
 **面向开发者的 AI 浏览器自动化 Agent，提示词驱动并生成可复用技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "idan-rubin/browserclaw-agent 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

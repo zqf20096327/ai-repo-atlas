@@ -46,12 +46,12 @@ Argus 是一个记录 AI agent 行为的防篡改账本库：将每个操作追�
 ```mermaid
 xychart-beta
     title "Perseus-Computing-LLC/argus 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-22 4（+0）
+2026-11-08 4 → 2026-11-23 4（+0）
 
 
 ---

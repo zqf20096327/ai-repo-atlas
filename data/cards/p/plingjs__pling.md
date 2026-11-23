@@ -1,6 +1,6 @@
 # plingjs/pling
 
-⭐ 126 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/plingjs/pling) · [官网](https://plingjs.dev) · 组织维护 · 中文 README
+⭐ 126 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/plingjs/pling) · [官网](https://plingjs.dev) · 组织维护 · 中文 README
 
 **让网页向 AI agent 声明可控能力边界的开放能力层**
 
@@ -45,12 +45,12 @@ Pling 是面向 Web 应用的开放能力层：页面声明 agent 可检查与�
 ```mermaid
 xychart-beta
     title "plingjs/pling 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-23"]
     y-axis "stars" 12 --> 136
     line [22, 59, 92, 117, 121, 126, 126]
 ```
 
-2026-11-08 22 → 2026-11-22 126（+104）
+2026-11-08 22 → 2026-11-23 126（+104）
 
 
 ---

@@ -1,6 +1,6 @@
 # jnMetaCode/agency-agents-pt-BR
 
-⭐ 42 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-pt-BR) · [官网](https://www.npmjs.com/package/agency-agents-pt-br) · 个人维护
+⭐ 43 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-pt-BR) · [官网](https://www.npmjs.com/package/agency-agents-pt-br) · 个人维护
 
 **巴西葡萄牙语版 AI agent 人格库：187 个即用系统提示词**
 
@@ -45,12 +45,12 @@ agency-agents 的巴西社区版：将上游 184 个 agent 人格完整翻译为
 ```mermaid
 xychart-beta
     title "jnMetaCode/agency-agents-pt-BR 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 32 --> 43
-    line [33, 34, 35, 36, 37, 35, 40, 42, 42]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 32 --> 44
+    line [33, 34, 35, 36, 37, 35, 40, 42, 43]
 ```
 
-2026-10-19 33 → 2026-11-22 42（+9）
+2026-10-20 33 → 2026-11-23 43（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # palindrome-rl/AGENT8088
 
-⭐ 16 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/palindrome-rl/AGENT8088) · [官网](https://palindromerl.com) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/palindrome-rl/AGENT8088) · [官网](https://palindromerl.com) · 组织维护
 
 **面向小模型可靠任务完成的开源 agent 运行框架**
 
@@ -44,13 +44,13 @@ Palindrome Research Labs 开源的 agentic harness，围绕模型处理小模型
 
 ```mermaid
 xychart-beta
-    title "palindrome-rl/AGENT8088 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-22"]
+    title "palindrome-rl/AGENT8088 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-22", "2026-11-23"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16]
+    line [14, 15, 16, 16]
 ```
 
-2026-11-08 14 → 2026-11-22 16（+2）
+2026-11-08 14 → 2026-11-23 16（+2）
 
 
 ---

@@ -1,10 +1,10 @@
 # TanStack/ai
 
-⭐ 3,375 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/TanStack/ai) · [官网](https://tanstack.com/ai/latest) · 组织维护
+⭐ 3,378 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TanStack/ai) · [官网](https://tanstack.com/ai/latest) · 组织维护
 
-**TypeScript AI SDK：类型安全、多提供商地构建流式聊天/Agent/多模态应用**
+**面向 TypeScript 开发者的类型安全多供应商 LLM 应用 SDK**
 
-TanStack 出品的 TypeScript AI SDK，由可组合的活动（activity）与提供商适配器构成：支持流式聊天、类型安全工具调用、结构化输出（Zod/ArkType/Valibot）、图像/音频/视频/语音/转录生成、实时语音聊天，以及让 LLM 在隔离沙箱中编写并执行 TypeScript 的 Code Mode。官方适配器覆盖 OpenAI、Anthropic、Gemini、Vertex、OpenRouter（300+ 模型）、Ollama 本地模型、Grok、Groq、ElevenLabs、fal.ai、Cloudflare 等十余家；并提供 React/Solid/Vue/Svelte/Preact 框架包与 headless 客户端，适配器按活动可 tree-shake。面向在应用中接入模型能力的 Web/全栈开发者。
+TanStack AI 是一组 TypeScript 包，提供流式聊天、工具调用、结构化输出、实时语音、图像/音频/视频生成与转写等能力的统一抽象。核心包 @tanstack/ai 配合官方 provider 适配器（OpenRouter、OpenAI、Anthropic、Gemini、Ollama、Groq 等）与框架包（React/Solid/Vue/Svelte/Preact hooks 及无头客户端）使用；适配器按 activity tree-shake，支持运行时切换供应商、中间件与 OpenTelemetry 追踪。通过 pnpm/npm 安装，文档以网站形式提供。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@ TanStack 出品的 TypeScript AI SDK，由可组合的活动（activity）与提
 
 ## 能力要点
 
-- 十余个官方提供商适配器，含 Ollama 本地模型与 OpenRouter 多模型通道
-- 类型安全工具定义与结构化输出（Zod/ArkType/Valibot/JSON Schema）
-- Code Mode：LLM 在隔离沙箱中编写执行 TypeScript 以编排工具
-- React/Solid/Vue/Svelte/Preact 框架绑定与 headless 客户端
+- 类型安全的 toolDefinition() 契约，服务端/客户端共享实现
+- 官方适配器覆盖 16 个 provider 包，可 tree-shake 与运行时切换
+- React/Solid/Vue/Svelte/Preact 框架 hooks 与无头 UI 组件
+- Code Mode：模型在隔离沙箱中编写并执行 TypeScript 编排工具
 
 ## 适用场景
 
-- 在 React/Vue 等前端框架中构建流式聊天界面
-- 编写跨服务端/客户端共享的类型安全工具调用
-- 通过统一接口在多个模型提供商之间切换或接入本地 Ollama
-- 构建实时语音、多模态生成类应用
+- 在前端应用中构建流式聊天与工具调用界面
+- 通过 OpenRouter 单一 API key 接入多个模型
+- 接入本地 Ollama 模型构建 AI 应用
+- 为多模态生成（图像/语音/视频）统一客户端模式
 
 ## 场景标签
 
-`多模态` `Agent 框架` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L37: Type-safe, provider-agnostic TypeScript SDK for building streaming chat,
 > L41: TanStack AI is built from composable activities and provider adapters. Use one
-> L186: |Package|Use it for|
+> L182: ## Providers
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "TanStack/ai 星数(近 26 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3187 --> 3392
-    line [3204, 3209, 3213, 3227, 3241, 3246, 3256, 3262, 3265, 3283, 3293, 3306, 3319, 3241, 3340, 3344, 3347, 3351, 3358, 3357, 3359, 3362, 3369, 3371, 3375, 3375]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 3187 --> 3395
+    line [3204, 3209, 3213, 3227, 3241, 3246, 3256, 3262, 3265, 3283, 3293, 3306, 3319, 3241, 3340, 3344, 3347, 3351, 3358, 3357, 3359, 3362, 3369, 3371, 3375, 3378]
 ```
 
-2026-10-20 3,204 → 2026-11-22 3,375（+171）
+2026-10-21 3,204 → 2026-11-23 3,378（+174）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f32b44b960e2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `94e875a7a47e` · [字段定义](../../DATASET.md)*

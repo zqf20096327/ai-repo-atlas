@@ -46,12 +46,12 @@ Python 包与 CLI 工具，通过确定性节点图评估 LLM、RAG 与 agentic 
 ```mermaid
 xychart-beta
     title "harnexa/nexa-gauge 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-19 40 → 2026-11-22 40（+0）
+2026-10-20 40 → 2026-11-23 40（+0）
 
 
 ---

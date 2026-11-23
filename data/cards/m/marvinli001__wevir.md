@@ -1,6 +1,6 @@
 # marvinli001/wevir
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/marvinli001/wevir) · [官网](https://wevir.si) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/marvinli001/wevir) · [官网](https://wevir.si) · 个人维护 · 中文 README
 
 **本地优先桌面工作区：统一运行多个 AI 编码 agent**
 
@@ -47,12 +47,12 @@ Wevir 是开源、本地优先的 agent 工作区，可在同一界面并排运�
 ```mermaid
 xychart-beta
     title "marvinli001/wevir 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 3 --> 10
     line [4, 6, 7, 8, 9, 6, 9, 9]
 ```
 
-2026-10-24 4 → 2026-11-22 9（+5）
+2026-10-24 4 → 2026-11-23 9（+5）
 
 
 ---

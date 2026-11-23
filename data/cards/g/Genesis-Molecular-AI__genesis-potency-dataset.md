@@ -1,6 +1,6 @@
 # Genesis-Molecular-AI/genesis-potency-dataset
 
-⭐ 11 · CC-BY-SA-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/Genesis-Molecular-AI/genesis-potency-dataset) · 组织维护
+⭐ 13 · CC-BY-SA-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/Genesis-Molecular-AI/genesis-potency-dataset) · 组织维护
 
 **面向药效预测模型的 540 万条公开蛋白-配体 potency 数据集**
 
@@ -39,6 +39,18 @@ GenesisPotency-2026 数据集：5,410,616 行来自 ChEMBL 37、BindingDB 与 Pu
 
 > L4: **5.4 million public protein–ligand potency and activity measurements, with full upstream provenance.**
 > L15: - **5,410,616 rows** from ChEMBL 37, BindingDB (2026-07) and PubChem HTS bioassays.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Genesis-Molecular-AI/genesis-potency-dataset 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 10 --> 14
+    line [11, 13]
+```
+
+2026-11-22 11 → 2026-11-23 13（+2）
 
 
 ---

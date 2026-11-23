@@ -1,6 +1,6 @@
 # mostlyharmless-ai/watercooler
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/mostlyharmless-ai/watercooler) · [官网](https://github.com/mostlyharmless-ai/watercooler) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/mostlyharmless-ai/watercooler) · [官网](https://github.com/mostlyharmless-ai/watercooler) · 组织维护
 
 **为 AI 协作编程团队保存代码背后决策与理由的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Watercooler 是一个 git-backed 的 MCP 服务器，为使用 AI agent 的编�
 ```mermaid
 xychart-beta
     title "mostlyharmless-ai/watercooler 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-19 14 → 2026-11-22 14（+0）
+2026-10-20 14 → 2026-11-23 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # duliangkuan/raise-an-ai
 
-⭐ 39 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/duliangkuan/raise-an-ai) · [官网](https://raiseai.dufengyun.xyz) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/duliangkuan/raise-an-ai) · [官网](https://raiseai.dufengyun.xyz) · 个人维护 · 中文 README
 
 **养鲸鱼娘的开源平台：接入自备模型，伴聊、B站探索与飞书互动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "duliangkuan/raise-an-ai 星数(近 5 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22"]
+    title "duliangkuan/raise-an-ai 星数(近 6 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 33 --> 110
-    line [104, 89, 103, 85, 39]
+    line [104, 89, 103, 85, 39, 44]
 ```
 
-2026-11-01 104 → 2026-11-22 39（-65）
+2026-11-01 104 → 2026-11-23 44（-60）
 
 
 ---

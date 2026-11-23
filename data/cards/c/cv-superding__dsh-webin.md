@@ -1,6 +1,6 @@
 # cv-superding/dsh-webin
 
-⭐ 13 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/cv-superding/dsh-webin) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/cv-superding/dsh-webin) · 个人维护 · 中文 README
 
 **DSH 插件：用真实浏览器驱动 DeepSeek 等网页版模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cv-superding/dsh-webin 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
     y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    line [11, 13, 12]
 ```
 
-2026-10-20 11 → 2026-11-22 13（+2）
+2026-10-21 11 → 2026-11-23 12（+1）
 
 
 ---

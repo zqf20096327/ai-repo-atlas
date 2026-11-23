@@ -1,6 +1,6 @@
 # BrianV1981/aim
 
-⭐ 13 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BrianV1981/aim) · [官网](https://x.com/BrianV1981) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BrianV1981/aim) · [官网](https://x.com/BrianV1981) · 个人维护
 
 **面向编码 Agent 的外置记忆系统（已弃用）**
 
@@ -43,12 +43,12 @@ A.I.M.（Actual Intelligent Memory）原为长期运行的 Gemini CLI / ChatGPT 
 ```mermaid
 xychart-beta
     title "BrianV1981/aim 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-20 13 → 2026-11-22 13（+0）
+2026-10-21 13 → 2026-11-23 14（+1）
 
 
 ---

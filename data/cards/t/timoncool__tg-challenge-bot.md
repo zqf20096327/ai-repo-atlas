@@ -1,6 +1,6 @@
 # timoncool/tg-challenge-bot
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/timoncool/tg-challenge-bot) · [官网](https://t.me/nerual_dreming) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/timoncool/tg-challenge-bot) · [官网](https://t.me/nerual_dreming) · 个人维护
 
 **Telegram 群组 AI 挑战赛机器人：AI 生成主题，Cloudflare Workers 免费部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "timoncool/tg-challenge-bot 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "timoncool/tg-challenge-bot 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 9 --> 12
-    line [11, 10]
+    line [11, 10, 10]
 ```
 
-2026-10-20 11 → 2026-11-22 10（-1）
+2026-10-21 11 → 2026-11-23 10（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # azadhmhd/interview-command-center
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/azadhmhd/interview-command-center) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/azadhmhd/interview-command-center) · 个人维护
 
 **自托管求职跟踪与 AI 辅助面试准备工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "azadhmhd/interview-command-center 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-22"]
+    x-axis ["2026-10-26", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-26 3 → 2026-11-22 3（+0）
+2026-10-26 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dfbustosus/llmrace
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dfbustosus/llmrace) · [官网](https://github.com/dfbustosus/llmrace#readme) · 个人维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dfbustosus/llmrace) · [官网](https://github.com/dfbustosus/llmrace#readme) · 个人维护
 
 **在终端对多个 LLM 提供商做并发延迟基准竞速的 Rust CLI**
 
@@ -46,12 +46,12 @@ llmrace 是一个 Rust 编写的命令行基准工具：对多个 LLM 提供商�
 ```mermaid
 xychart-beta
     title "dfbustosus/llmrace 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-22"]
+    x-axis ["2026-11-14", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-22 3（+0）
+2026-11-14 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Extraltodeus/ComfyUI-AutomaticCFG
 
-⭐ 432 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/Extraltodeus/ComfyUI-AutomaticCFG) · [官网](https://www.patreon.com/extraltodeus) · 个人维护
+⭐ 433 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/Extraltodeus/ComfyUI-AutomaticCFG) · [官网](https://www.patreon.com/extraltodeus) · 个人维护
 
 **ComfyUI 采样节点：自动重标定 CFG 防过曝并加速生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Extraltodeus/ComfyUI-AutomaticCFG 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 431 --> 434
-    line [433, 432, 433, 432, 432]
+    line [433, 432, 433, 432, 433]
 ```
 
-2026-10-20 433 → 2026-11-22 432（-1）
+2026-10-21 433 → 2026-11-23 433（+0）
 
 
 ---

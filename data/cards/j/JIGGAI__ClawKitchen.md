@@ -1,6 +1,6 @@
 # JIGGAI/ClawKitchen
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/JIGGAI/ClawKitchen) · [官网](https://clawkitchen.ai) · 组织维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/JIGGAI/ClawKitchen) · [官网](https://clawkitchen.ai) · 组织维护
 
 **OpenClaw 多 agent 管理控制台插件（Web 仪表盘）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JIGGAI/ClawKitchen 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-20 19 → 2026-11-22 19（+0）
+2026-10-21 19 → 2026-11-23 19（+0）
 
 
 ---

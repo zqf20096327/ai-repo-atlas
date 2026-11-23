@@ -41,6 +41,18 @@ MOKI 是 DeepSeek Harness Desktop 的插件，在桌面端添加项目任务台�
 > L9: MOKI adds a project taskboard to DeepSeek Harness Desktop. Track requests from chats, dispatch tasks to DSH sessions
 > L98: Reopen DSH and select MOKI Taskboard for DSH in the sidebar. Files open in the right-hand preview. Approval notific
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JKZeng-cell/moki-taskboard-for-dsh 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `400e95444c66` · [字段定义](../../DATASET.md)*

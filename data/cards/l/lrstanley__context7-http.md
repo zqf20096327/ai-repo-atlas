@@ -1,6 +1,6 @@
 # lrstanley/context7-http
 
-⭐ 23 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/lrstanley/context7-http) · 个人维护
+⭐ 23 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lrstanley/context7-http) · 个人维护
 
 **Context7 的 HTTP/SSE MCP 服务器封装，可远程调用文档检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lrstanley/context7-http 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-19 23 → 2026-11-22 23（+0）
+2026-10-20 23 → 2026-11-23 23（+0）
 
 
 ---

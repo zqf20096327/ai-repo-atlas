@@ -1,6 +1,6 @@
 # danielroe/carpenter
 
-⭐ 76 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/danielroe/carpenter) · [官网](https://github.com/nuxt/nuxt) · 个人维护
+⭐ 76 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/danielroe/carpenter) · [官网](https://github.com/nuxt/nuxt) · 个人维护
 
 **面向 Nuxt 仓库的 LLM 驱动 issue 分类机器人**
 
@@ -46,12 +46,12 @@ Carpenter 是部署在 Vercel 上的 GitHub 机器人，通过 webhook 监听 Nu
 ```mermaid
 xychart-beta
     title "danielroe/carpenter 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-19 76 → 2026-11-22 76（+0）
+2026-10-20 76 → 2026-11-23 76（+0）
 
 
 ---

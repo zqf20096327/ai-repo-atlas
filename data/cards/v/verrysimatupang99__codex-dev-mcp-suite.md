@@ -1,6 +1,6 @@
 # verrysimatupang99/codex-dev-mcp-suite
 
-⭐ 96 · JavaScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/verrysimatupang99/codex-dev-mcp-suite) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向独立开发者的四个本地 MCP 服务器：持久记忆、会话交接、检查点、项目简报**
 
@@ -11,7 +11,7 @@ npm 发布的 MCP 服务器套件，含四个组件：project-memory（Obsidian 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

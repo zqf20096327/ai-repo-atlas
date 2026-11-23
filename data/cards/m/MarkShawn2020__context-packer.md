@@ -1,6 +1,6 @@
 # MarkShawn2020/context-packer
 
-⭐ 10 · Python · MIT · 推送 2025-11-26 · [GitHub](https://github.com/MarkShawn2020/context-packer) · [官网](https://pypi.org/project/context-packer/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把整个项目打包成单个 markdown 文件供 LLM 使用**
 
@@ -11,7 +11,7 @@ Python 编写的命令行工具（pip 安装，命令 ctxpack），将项目目�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

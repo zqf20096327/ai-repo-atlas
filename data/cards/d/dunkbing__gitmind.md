@@ -1,6 +1,6 @@
 # dunkbing/gitmind
 
-⭐ 3 · Go · 推送 2026-11-21 · [GitHub](https://github.com/dunkbing/gitmind) · [官网](https://gitmind.app) · 个人维护
+⭐ 3 · Go · 推送 2026-11-22 · [GitHub](https://github.com/dunkbing/gitmind) · [官网](https://gitmind.app) · 个人维护
 
 **为编码 agent 提供基于 git 的共享记忆的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dunkbing/gitmind 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-22 3（+0）
+2026-11-10 3 → 2026-11-23 3（+0）
 
 
 ---

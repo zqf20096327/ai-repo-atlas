@@ -40,6 +40,18 @@
 > L3: A Claude Code skill that makes a small open LLM better at a goal by **editing its
 > L31: Clone it into your Claude Code skills folder: user-wide (`~/.claude/skills/`) or per project (`.claude/skills/`).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "di37/weight-space-programming-skill 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-22 12 → 2026-11-23 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7a64e6da1787` · [字段定义](../../DATASET.md)*

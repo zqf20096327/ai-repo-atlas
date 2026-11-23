@@ -1,6 +1,6 @@
 # gravion-ux/TRISHUL
 
-⭐ 3 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/gravion-ux/TRISHUL) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravion-ux/TRISHUL) · 个人维护
 
 **面向授权安全测试者的 AI 驱动漏洞扫描平台**
 
@@ -40,6 +40,18 @@ TRISHUL 是一个授权范围内的 AI 安全测试平台，按 Recon→Scan→F
 > L3: **TRISHUL** is an authorized-scope, AI-powered security testing platform. It runs a real
 > L51: - **Eight-stage pipeline.** `Recon → Scan → Fuzz → Detect → Verify → PoC → Guide → Report`.
 > L55: - **AI with full authority over verdicts.** Severity, confidence (0–100) and the verified
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/TRISHUL 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

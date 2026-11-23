@@ -1,6 +1,6 @@
 # MiniMax-AI/mcode-agent-table
 
-⭐ 58 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/MiniMax-AI/mcode-agent-table) · 组织维护 · 中文 README
+⭐ 59 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/MiniMax-AI/mcode-agent-table) · 组织维护 · 中文 README
 
 **多智能体共享协作桌协议（BYOB）及 TypeScript 参考实现**
 
@@ -46,12 +46,12 @@ MiniMax Code 团队提出的 BYOB Table Protocol v0.1 及其 TypeScript 参考�
 ```mermaid
 xychart-beta
     title "MiniMax-AI/mcode-agent-table 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 53 --> 59
-    line [55, 54, 55, 56, 57, 58, 58]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 53 --> 60
+    line [55, 54, 55, 56, 57, 58, 59]
 ```
 
-2026-11-08 55 → 2026-11-22 58（+3）
+2026-11-08 55 → 2026-11-23 59（+4）
 
 
 ---

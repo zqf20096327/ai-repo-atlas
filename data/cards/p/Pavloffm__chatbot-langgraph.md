@@ -41,6 +41,18 @@
 > L5: FastAPI, LangGraph, Ollama, and PostgreSQL handle the backend and message state.
 > L38:                               ├── Ollama (local model)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Pavloffm/chatbot-langgraph 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-22 5 → 2026-11-23 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `44e7c13d9805` · [字段定义](../../DATASET.md)*

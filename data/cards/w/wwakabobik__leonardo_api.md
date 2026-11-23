@@ -1,6 +1,6 @@
 # wwakabobik/leonardo_api
 
-⭐ 30 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/wwakabobik/leonardo_api) · [官网](https://pypi.org/project/leonardo-api/) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/wwakabobik/leonardo_api) · [官网](https://pypi.org/project/leonardo-api/) · 个人维护
 
 **Leonardo.ai 图像生成 API 的 Python 客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wwakabobik/leonardo_api 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-20 30 → 2026-11-22 30（+0）
+2026-10-21 30 → 2026-11-23 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # spsanderson/tidyAML
 
-⭐ 69 · R · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/spsanderson/tidyAML) · [官网](http://www.spsanderson.com/tidyAML/) · 个人维护
+⭐ 69 · R · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/spsanderson/tidyAML) · [官网](http://www.spsanderson.com/tidyAML/) · 个人维护
 
 **R 语言的 AutoML 包：批量生成、训练并比较 tidymodels 模型**
 
@@ -46,12 +46,12 @@ tidyAML 是构建在 tidymodels 生态之上的 R 包，面向使用 tidyverse �
 ```mermaid
 xychart-beta
     title "spsanderson/tidyAML 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-20 69 → 2026-11-22 69（+0）
+2026-10-21 69 → 2026-11-23 69（+0）
 
 
 ---

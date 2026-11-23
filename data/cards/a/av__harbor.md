@@ -1,10 +1,10 @@
 # av/harbor
 
-⭐ 3,277 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/av/harbor) · [官网](https://discord.gg/8nDRphrhSF) · 个人维护
+⭐ 3,281 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/av/harbor) · [官网](https://discord.gg/8nDRphrhSF) · 个人维护
 
-**本地 LLM 全栈编排 CLI：一条命令拉起预接线的推理与配套服务**
+**一条命令拉起本地 LLM 全栈的 CLI 与配套应用**
 
-Harbor 是一个 CLI 工具与配套桌面应用，通过 Docker Compose 编排本地 LLM 栈：后端（Ollama、llama.cpp、vLLM 等）、前端（Open WebUI 等）及卫星服务（SearXNG 搜索、Speaches 语音、ComfyUI 图像生成、n8n/Dify 工作流、MCP 管理等），服务间预接线开箱互通。支持 harbor launch 将后端接入 coding agent CLI，Boost 模块可编排研究/审计等工作流；提供配置 profile、命令历史、QR 手机访问、隧道暴露与 eject 导出独立 compose 文件。作者自述定位为本地 LLM 开发环境辅助工具，非部署方案。
+Harbor 提供 CLI 与配套桌面应用，通过 `harbor up` 以 Docker Compose 编排启动本地 LLM 栈：推理后端（Ollama、llama.cpp、vLLM 等）、前端（Open WebUI 等）及搜索、语音、图像生成等配套服务，并自动完成跨服务接线。另含 MCP 管理、配置 profile、命令历史、隧道暴露与 eject 导出 docker-compose 功能。作者定位为本地开发环境的助手工具，非部署方案；服务运行依赖 Docker。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ Harbor 是一个 CLI 工具与配套桌面应用，通过 Docker Compose 编排�
 
 ## 能力要点
 
-- 单条 harbor up 命令启动预接线的完整本地 LLM 栈
-- harbor launch 将 OpenAI 兼容后端接入 claude/codex/copilot 等 12 种 coding CLI
-- 目录收录上百个后端与卫星服务（UI、工作流、MCP、RAG 等）
+- 单命令启动预连线的本地 LLM 栈（harbor up ollama/searxng 等）
+- 支持多种推理引擎与 macOS Metal / Linux GPU 宿主推理（dmr/mlx/omlx）
+- harbor launch 将 OpenAI 兼容后端接入 claude/codex/copilot 等 12 种编码 CLI
 - eject 可将当前配置导出为独立 docker-compose 文件
 
 ## 适用场景
 
-- 本地一键搭建 Open WebUI + 推理后端的 LLM 环境
-- 让 Codex/Claude Code 等 coding agent 使用本地模型后端
-- homelab 中集中管理多个自托管 AI 服务的配置与数据
+- 快速在本地搭建带 Web UI 的 LLM 试验环境
+- 让本地编码 Agent CLI 使用自托管后端模型
+- 一键启动带联网搜索 RAG、语音对话或图像生成的聊天栈
 
 ## 场景标签
 
-`推理引擎` `工作流自动化` · 领域:效率与自动化
+`图像生成` `RAG` `推理引擎` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L26: Harbor is a CLI and companion app that lets you spin up a complete local LLM stack—backends like Ollama, llama.cpp,
-> L290: - Harbor is not designed as a deployment solution, but rather as a helper for the local LLM development environmen
+> L28: Harbor is a CLI and companion app that lets you spin up a complete local LLM stack—backends like Ollama, llama.cpp,
+> L292: - Harbor is not designed as a deployment solution, but rather as a helper for the local LLM development environmen
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "av/harbor 星数(近 20 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3245 --> 3283
-    line [3249, 3248, 3249, 3252, 3256, 3255, 3256, 3258, 3259, 3252, 3264, 3267, 3270, 3273, 3277, 3279, 3280, 3279, 3278, 3277]
+    title "av/harbor 星数(近 21 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3245 --> 3284
+    line [3249, 3248, 3249, 3252, 3256, 3255, 3256, 3258, 3259, 3252, 3264, 3267, 3270, 3273, 3277, 3279, 3280, 3279, 3278, 3277, 3281]
 ```
 
-2026-10-20 3,249 → 2026-11-22 3,277（+28）
+2026-10-21 3,249 → 2026-11-23 3,281（+32）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `51781791d645` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `ae2e2b9b049f` · [字段定义](../../DATASET.md)*

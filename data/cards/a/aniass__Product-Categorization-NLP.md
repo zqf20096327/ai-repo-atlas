@@ -1,6 +1,6 @@
 # aniass/Product-Categorization-NLP
 
-⭐ 98 · Jupyter Notebook · 推送 2025-11-26 · [GitHub](https://github.com/aniass/Product-Categorization-NLP) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于商品描述的美妆产品多分类文本分类项目**
 

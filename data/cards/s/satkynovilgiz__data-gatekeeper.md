@@ -1,6 +1,6 @@
 # satkynovilgiz/data-gatekeeper
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/satkynovilgiz/data-gatekeeper) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/satkynovilgiz/data-gatekeeper) · 个人维护
 
 **数据集画像、清洗与质量评分的自动化流水线后端**
 
@@ -39,6 +39,18 @@
 
 > L7: A backend engine that **profiles, cleans, and validates** any dataset before it is used.
 > L19: |2. Cleaning & Transformation|🔄 **in progress**: Sprint 4 ✅ core pipeline (schema inference, cleaning steps, cleani
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "satkynovilgiz/data-gatekeeper 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

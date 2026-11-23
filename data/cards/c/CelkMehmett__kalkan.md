@@ -1,6 +1,6 @@
 # CelkMehmett/kalkan
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/CelkMehmett/kalkan) · [官网](https://celkmehmett.github.io/kalkan/) · 个人维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/CelkMehmett/kalkan) · [官网](https://celkmehmett.github.io/kalkan/) · 个人维护
 
 **土耳其语文本 PII 掩码引擎：LLM 请求前脱敏、回复中还原**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CelkMehmett/kalkan 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-22 3（+0）
+2026-11-20 3 → 2026-11-23 3（+0）
 
 
 ---

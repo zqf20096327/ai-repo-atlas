@@ -1,6 +1,6 @@
 # StatMixedML/LightGBMLSS
 
-⭐ 397 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/StatMixedML/LightGBMLSS) · [官网](https://statmixedml.github.io/LightGBMLSS/) · 个人维护
+⭐ 398 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/StatMixedML/LightGBMLSS) · [官网](https://statmixedml.github.io/LightGBMLSS/) · 个人维护
 
 **LightGBM 的概率建模扩展：预测完整条件分布**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "StatMixedML/LightGBMLSS 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 395 --> 398
-    line [397, 396, 397, 397]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 395 --> 399
+    line [397, 396, 397, 398]
 ```
 
-2026-10-20 397 → 2026-11-22 397（+0）
+2026-10-21 397 → 2026-11-23 398（+1）
 
 
 ---

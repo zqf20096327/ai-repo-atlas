@@ -1,6 +1,6 @@
 # hec-ovi/text-to-3D-skill
 
-⭐ 47 · C++ · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/hec-ovi/text-to-3D-skill) · 个人维护
+⭐ 48 · C++ · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/hec-ovi/text-to-3D-skill) · 个人维护
 
 **AMD 核显上本地文生带贴图 GLB 并自动绑骨的 agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hec-ovi/text-to-3D-skill 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 43 --> 48
-    line [44, 45, 46, 47, 47]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 43 --> 49
+    line [44, 45, 46, 47, 48]
 ```
 
-2026-10-20 44 → 2026-11-22 47（+3）
+2026-10-21 44 → 2026-11-23 48（+4）
 
 
 ---

@@ -46,12 +46,12 @@ Atlas Cloud 官方维护的 ComfyUI 自定义节点包：通过 AtlasCloud Clien
 ```mermaid
 xychart-beta
     title "AtlasCloudAI/atlascloud_comfyui 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-08", "2026-11-23"]
     y-axis "stars" 29 --> 32
     line [30, 31, 30, 30]
 ```
 
-2026-10-20 30 → 2026-11-22 30（+0）
+2026-10-21 30 → 2026-11-23 30（+0）
 
 
 ---

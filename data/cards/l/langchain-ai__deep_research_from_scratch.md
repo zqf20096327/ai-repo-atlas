@@ -1,6 +1,6 @@
 # langchain-ai/deep_research_from_scratch
 
-⭐ 811 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/deep_research_from_scratch) · 组织维护
+⭐ 812 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/deep_research_from_scratch) · 组织维护
 
 **从零构建深度研究 agent 的 LangGraph 教程（5 个 notebook）**
 
@@ -45,12 +45,12 @@ LangChain 官方团队的教学仓库，用 5 个递进式 Jupyter notebook 从�
 ```mermaid
 xychart-beta
     title "langchain-ai/deep_research_from_scratch 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 802 --> 812
-    line [803, 807, 809, 810, 809, 810, 809, 810, 811, 811]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 802 --> 813
+    line [803, 807, 809, 810, 809, 810, 809, 810, 811, 812]
 ```
 
-2026-10-20 803 → 2026-11-22 811（+8）
+2026-10-21 803 → 2026-11-23 812（+9）
 
 
 ---

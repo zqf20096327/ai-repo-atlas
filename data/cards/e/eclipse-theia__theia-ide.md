@@ -1,6 +1,6 @@
 # eclipse-theia/theia-ide
 
-⭐ 619 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/eclipse-theia/theia-ide) · [官网](https://theia-ide.org/) · 组织维护
+⭐ 620 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/eclipse-theia/theia-ide) · [官网](https://theia-ide.org/) · 组织维护
 
 **面向云与桌面的开源 AI IDE，支持自带 LLM 密钥**
 
@@ -45,12 +45,12 @@ Eclipse Theia IDE 是基于 Theia 平台构建的开源 IDE，提供桌面安装
 ```mermaid
 xychart-beta
     title "eclipse-theia/theia-ide 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-21", "2026-11-23"]
     y-axis "stars" 618 --> 621
-    line [620, 619, 619]
+    line [620, 619, 620]
 ```
 
-2026-11-19 620 → 2026-11-22 619（-1）
+2026-11-19 620 → 2026-11-23 620（+0）
 
 
 ---

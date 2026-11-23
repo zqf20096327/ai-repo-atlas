@@ -1,6 +1,6 @@
 # Yamoon-jjang/comfyui-Ultra-Tools
 
-⭐ 8 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Yamoon-jjang/comfyui-Ultra-Tools) · 个人维护
+⭐ 8 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Yamoon-jjang/comfyui-Ultra-Tools) · 个人维护
 
 **给 ComfyUI 用户的 12 个实用自定义节点合集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Yamoon-jjang/comfyui-Ultra-Tools 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-23"]
     y-axis "stars" 4 --> 9
     line [5, 6, 7, 8, 8]
 ```
 
-2026-11-02 5 → 2026-11-22 8（+3）
+2026-11-02 5 → 2026-11-23 8（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # my-piper/piper
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/my-piper/piper) · [官网](https://piper.my) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/my-piper/piper) · [官网](https://piper.my) · 组织维护
 
 **面向高负载项目的可视化 AI 流水线编辑器与运行平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "my-piper/piper 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-20 17 → 2026-11-22 17（+0）
+2026-10-21 17 → 2026-11-23 17（+0）
 
 
 ---

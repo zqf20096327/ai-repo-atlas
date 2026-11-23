@@ -46,12 +46,12 @@ noskip 是面向开发者的 AI agent 反作弊工具：当 Claude Code、Codex�
 ```mermaid
 xychart-beta
     title "DariusHQ/noskip 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-20 3 → 2026-11-22 3（+0）
+2026-10-21 3 → 2026-11-23 3（+0）
 
 
 ---

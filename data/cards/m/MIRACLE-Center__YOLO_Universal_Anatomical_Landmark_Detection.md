@@ -1,6 +1,6 @@
 # MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection
 
-⭐ 98 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection) · 组织维护 · 中文 README
+⭐ 99 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection) · 组织维护 · 中文 README
 
 **医学影像解剖标志点检测的通用模型 PyTorch 实现**
 
@@ -45,12 +45,12 @@ MICCAI 2021 论文 You Only Learn Once 的官方 PyTorch 实现：在混合数�
 ```mermaid
 xychart-beta
     title "MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-22"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    x-axis ["2026-11-02", "2026-11-23"]
+    y-axis "stars" 97 --> 100
+    line [98, 99]
 ```
 
-2026-11-02 98 → 2026-11-22 98（+0）
+2026-11-02 98 → 2026-11-23 99（+1）
 
 
 ---

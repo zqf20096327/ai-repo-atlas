@@ -1,6 +1,6 @@
 # abdelhalimyasser/machine-learning-models-2026-fcai-cu
 
-⭐ 3 · Jupyter Notebook · 推送 2026-11-21 · [GitHub](https://github.com/abdelhalimyasser/machine-learning-models-2026-fcai-cu) · 个人维护
+⭐ 3 · Jupyter Notebook · 推送 2026-11-22 · [GitHub](https://github.com/abdelhalimyasser/machine-learning-models-2026-fcai-cu) · 个人维护
 
 **开罗资本大学机器学习课程三个分类/回归模型作业仓库**
 
@@ -44,12 +44,12 @@ Capital大学计算与人工智能学院 AI-330 机器学习课程的团队项�
 ```mermaid
 xychart-beta
     title "abdelhalimyasser/machine-learning-models-2026-fcai-cu 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-22"]
+    x-axis ["2026-11-14", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-22 3（+0）
+2026-11-14 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -2,15 +2,15 @@
 
 ⭐ 2,737 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/CVCUDA/CV-CUDA) · [官网](https://cvcuda.github.io) · 组织维护 · 中文 README
 
-**GPU 加速的计算机视觉算子库：为 AI 流水线做高速图像/视频处理**
+**面向 AI 流水线的 GPU 加速图像/视频处理库**
 
-由 NVIDIA 与字节跳动合作发起的开源 GPU 加速计算机视觉算子库，以 C++/Python API 提供高吞吐、低延迟的图像与视频处理，面向 NVIDIA 云、桌面与边缘平台上的 AI 流水线。提供预编译 Python wheel（CUDA 12/13）、Debian 包与源码构建三种途径；要求 NVIDIA GPU（≥SM7.5）与对应驱动，不支持原生 Windows（仅 WSL2），同时只能安装一个 CUDA 版本的包。
+NVIDIA 与字节跳动合作开源的 GPU 加速计算机视觉算法库，为云端、桌面与边缘平台的 AI 流水线提供高吞吐、低延迟的图像/视频处理算子（如 GPU 加速的图像缩放，示例中与 nvImageCodec 配合）。提供 C/C++ 与 Python 接口，可接入主流图像与 AI 框架。发布形式包括 PyPI wheels（分 CUDA 12/13）、Debian 包、tar 归档及源码构建；不支持原生 Windows（仅 WSL2），v0.16 起弃用 CUDA 11、SM7、Ubuntu 20.04 与 Python 3.8。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- GPU 加速的图像/视频处理算子，供 C/C++ 与 Python 图像/AI 框架调用
-- 预编译 wheel 覆盖 Python 3.10-3.14、x86_64 与 aarch64（含 Jetson）
-- 兼容 nvImageCodec 等实现全 GPU 流水线（如 GPU 端图像缩放）
-- Apache-2.0 许可，源自 NVIDIA 与 ByteDance 合作
+- GPU 加速的图像/视频处理算子库，支持 C/C++ 与 Python
+- Python 3.10–3.14（含 free-threaded 3.14t），Linux x86_64 与 aarch64 SBSA/Jetson
+- 提供 wheels、Debian 包、tar 归档与 Docker devel 镜像源码构建路径
+- Apache-2.0 许可
 
 ## 适用场景
 
-- 为云端推理服务构建高吞吐图像预处理/后处理流水线
-- 在边缘设备（Jetson）上做 GPU 加速视频处理
-- 替代 CPU 图像处理路径以降低 AI 视觉流水线延迟
+- 为云端 AI 视觉流水线添加 GPU 加速的图像预处理/后处理
+- 在 Jetson 边缘设备上部署图像/视频处理算子
+- 与 nvImageCodec 等框架配合构建视觉搜索、视频增强应用
 
 ## 场景标签
 
@@ -38,7 +38,6 @@
 ## 证据(README 行号)
 
 > L14: CV-CUDA is an open-source library of GPU-accelerated computer vision algorithms designed for speed and scalability.
-> L24: Fully GPU-accelerated image resizing with nvImageCodec and CV-CUDA.
 > L88: CV-CUDA originated as a collaboration between [NVIDIA][NVIDIA Develop] and [ByteDance][ByteDance].
 
 ## 星数曲线
@@ -46,13 +45,13 @@
 ```mermaid
 xychart-beta
     title "CVCUDA/CV-CUDA 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2729 --> 2739
     line [2731, 2730, 2731, 2730, 2733, 2734, 2735, 2737, 2738, 2737, 2737]
 ```
 
-2026-10-20 2,731 → 2026-11-22 2,737（+6）
+2026-10-21 2,731 → 2026-11-23 2,737（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `24579d606c37` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4a7c8c8ea9a9` · [字段定义](../../DATASET.md)*

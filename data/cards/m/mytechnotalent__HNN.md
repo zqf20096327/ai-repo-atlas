@@ -1,6 +1,6 @@
 # mytechnotalent/HNN
 
-⭐ 31 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/mytechnotalent/HNN) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **神经网络内部计算的逐步教学 notebook，面向学习者**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # ivan-magda/swift-coding-agent
 
-⭐ 185 · Swift · MIT · 推送 2026-06-26 · [GitHub](https://github.com/ivan-magda/swift-coding-agent) · [官网](https://ivanmagda.dev/posts/s00-bootstrapping-the-project/) · 个人维护
+⭐ 186 · Swift · MIT · 推送 2026-06-26 · [GitHub](https://github.com/ivan-magda/swift-coding-agent) · [官网](https://ivanmagda.dev/posts/s00-bootstrapping-the-project/) · 个人维护
 
 **Swift 重写的 Claude Code 风格编码 agent，分阶段探索架构**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ivan-magda/swift-coding-agent 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 182 --> 186
-    line [183, 184, 185, 185]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 182 --> 187
+    line [183, 184, 185, 186]
 ```
 
-2026-10-20 183 → 2026-11-22 185（+2）
+2026-10-21 183 → 2026-11-23 186（+3）
 
 
 ---

@@ -1,10 +1,10 @@
 # openlake-project/openlake
 
-⭐ 3,089 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openlake-project/openlake) · 组织维护
+⭐ 3,086 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openlake-project/openlake) · 组织维护
 
-**面向 LLM 推理与 GPU 训练的高吞吐分布式存储引擎**
+**面向 LLM 推理与 GPU 训练的分布式存储引擎**
 
-用 Rust 编写的 AI 基础设施存储引擎，基于 Linux io_uring 与 RDMA/GPUDirect Storage 提供低延迟、可持久化的存储层。能力包括 PB 级 KV Cache 卸载（配合 vLLM 的专用 connector，免改代码）、向量库索引与服务、RL/ML 检查点高速存取、小文件训练 I/O 与 agentic 上下文存储，另提供 S3 兼容的 PB 级对象存储。安装途径为 pip 安装 vLLM connector 或从源码 cargo 构建；构建需安装 cmake、clang、libhwloc 等系统依赖，支持 Ubuntu、macOS（开发）与 Windows WSL2。Apache 2.0 许可，由 openlake-project 团队维护。
+基于 Rust 与 Linux io_uring 的分布式存储引擎，为 AI 基础设施提供高吞吐小 I/O 与持久化缓存能力。核心机制包括 GPUDirect Storage 与 RDMA 零拷贝路径、每核 pinned compio 异步运行时、信用流控的 PacedRDMA，以及 SIMD Reed Solomon 纠删码。提供 KV Cache Offload、S3 兼容对象存储、checkpoint 存取等功能。通过 pip 安装 vLLM 连接器，或以 cargo 从源码构建；README 声明 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 基于 io_uring 与 compio 的 per-core 异步 I/O，GPUDirect Storage/RDMA 零拷贝到 GPU 显存
-- vLLM 专用 KV connector，跨 GPU 节点共享 KV 前缀池
-- S3 兼容对象存储，SIMD Reed-Solomon 纠删码提供持久性
-- PacedRDMA 信用流控应对突发请求
+- KV Cache Offload：GPU 主机上共置的 PB 级 KV cache 存储
+- GPUDirect Storage 与 RDMA 实现存储到 GPU 显存的零拷贝传输
+- S3 兼容对象存储，可用任意 S3 客户端访问
+- 提供 vLLM KV 连接器，无需代码改动接入
 
 ## 适用场景
 
-- 长上下文 LLM 推理的 KV Cache 卸载以降低成本、加速首 token
-- GPU 集群上高速保存与恢复训练/RL 检查点
-- 构建 PB 级 S3 兼容对象存储服务 GPU 训练数据
-- 为 agentic 应用存储大规模对话与上下文供快速检索
+- 为 vLLM 推理集群卸载与共享 KV cache
+- RL/ML 训练任务的快速 checkpoint 存取
+- GPU 集群上的 PB 级对象存储
+- Agent 场景下大规模对话与上下文的快速检索
 
 ## 场景标签
 
-`向量数据库` · 领域:知识与检索
+ · 领域:AI 基础设施/存储
 
 ## 证据(README 行号)
 
-> L12: 🔥 Distributed storage for GPU workloads. Built on Rust on `io_uring`, OpenLake is a state of the art storage engine
-> L26: OpenLake is a storage engine for AI infrastructure. With OpenLake you get high throughput for small I/O and cache l
+> L23: 🔥 Distributed storage for GPU workloads. Built on Rust on `io_uring`, OpenLake is a state of the art storage engine
+> L37: OpenLake is a storage engine for AI infrastructure. With OpenLake you get high throughput for small I/O and cache l
+> L70: vllm serve <model_name> --kv-transfer-config '{"kv_connector":"OpenLakeConnector","kv_connector_module_path":"openl
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "openlake-project/openlake 星数(近 19 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2586 --> 3144
-    line [2641, 2640, 2638, 2637, 2636, 2635, 2633, 2632, 2633, 2640, 2846, 3095, 3098, 3096, 3095, 3093, 3092, 3089, 3089]
+    line [2641, 2640, 2638, 2637, 2636, 2635, 2633, 2632, 2633, 2640, 2846, 3095, 3098, 3096, 3095, 3093, 3092, 3089, 3086]
 ```
 
-2026-10-19 2,641 → 2026-11-22 3,089（+448）
+2026-10-20 2,641 → 2026-11-23 3,086（+445）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8ea525a4b5a6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `7147440cf25d` · [字段定义](../../DATASET.md)*

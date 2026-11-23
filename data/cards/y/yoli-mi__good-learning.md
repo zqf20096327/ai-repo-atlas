@@ -1,6 +1,6 @@
 # yoli-mi/good-learning
 
-⭐ 362 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/yoli-mi/good-learning) · 个人维护 · 中文 README
+⭐ 364 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/yoli-mi/good-learning) · 个人维护 · 中文 README
 
 **为 AI agent 提供学习计划、错题复盘与 LaTeX PDF 生成能力的 skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yoli-mi/good-learning 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 349 --> 363
-    line [350, 355, 358, 362]
+    title "yoli-mi/good-learning 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 349 --> 365
+    line [350, 355, 358, 362, 364]
 ```
 
-2026-11-19 350 → 2026-11-22 362（+12）
+2026-11-19 350 → 2026-11-23 364（+14）
 
 
 ---

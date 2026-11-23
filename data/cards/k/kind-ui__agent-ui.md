@@ -1,6 +1,6 @@
 # kind-ui/agent-ui
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kind-ui/agent-ui) · [官网](https://kindui.dev/docs/agent-ui/) · 组织维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kind-ui/agent-ui) · [官网](https://kindui.dev/docs/agent-ui/) · 组织维护
 
 **面向 React/Web Components 的 agent 界面组件库**
 
@@ -41,6 +41,18 @@
 > L3: AI interface components that people and agents can both use, for React and Web Components, built on UI SDK.
 > L18: - **56 components** for AI chat and agent interfaces: conversations and streaming markdown, the steps an agent take
 > L21: - **Agent-operable.** An agent connected with UI SDK's `createAgent` reads the same components a person sees and ru
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kind-ui/agent-ui 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

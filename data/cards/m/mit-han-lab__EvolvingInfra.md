@@ -1,6 +1,6 @@
 # mit-han-lab/EvolvingInfra
 
-⭐ 173 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/mit-han-lab/EvolvingInfra) · [官网](https://inference-rsi.com/) · 组织维护
+⭐ 175 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/mit-han-lab/EvolvingInfra) · [官网](https://inference-rsi.com/) · 组织维护
 
 **面向 agent 工作负载自适应的 LLM 推理服务系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mit-han-lab/EvolvingInfra 星数(近 10 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 0 --> 189
-    line [12, 25, 39, 48, 69, 105, 143, 162, 172, 173]
+    title "mit-han-lab/EvolvingInfra 星数(近 11 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 0 --> 191
+    line [12, 25, 39, 48, 69, 105, 143, 162, 172, 173, 175]
 ```
 
-2026-11-12 12 → 2026-11-22 173（+161）
+2026-11-12 12 → 2026-11-23 175（+163）
 
 
 ---

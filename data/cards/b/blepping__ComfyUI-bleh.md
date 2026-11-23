@@ -1,6 +1,6 @@
 # blepping/ComfyUI-bleh
 
-⭐ 155 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/blepping/ComfyUI-bleh) · 个人维护
+⭐ 156 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/blepping/ComfyUI-bleh) · 个人维护
 
 **ComfyUI 节点集：改进 TAESD 预览与模型 patch 功能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "blepping/ComfyUI-bleh 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 154 --> 156
-    line [155, 155]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 154 --> 157
+    line [155, 156]
 ```
 
-2026-10-20 155 → 2026-11-22 155（+0）
+2026-10-21 155 → 2026-11-23 156（+1）
 
 
 ---

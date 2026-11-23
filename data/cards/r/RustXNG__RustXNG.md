@@ -1,6 +1,6 @@
 # RustXNG/RustXNG
 
-⭐ 996 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/RustXNG/RustXNG) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 AI agent 的自托管元搜索与 grounding 引擎（基于 SearXNG）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

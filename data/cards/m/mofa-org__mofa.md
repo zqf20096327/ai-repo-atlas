@@ -1,6 +1,6 @@
 # mofa-org/mofa
 
-⭐ 299 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mofa-org/mofa) · [官网](https://mofa.ai) · 组织维护 · 中文 README
+⭐ 300 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mofa-org/mofa) · [官网](https://mofa.ai) · 组织维护 · 中文 README
 
 **面向企业的 Agent 运行时与计费计量一体化 LLM 基础设施**
 
@@ -40,6 +40,18 @@ MoFA（Modular Framework for Agents）以 Rust 微内核为核心，通过 UniFF
 
 > L42: MoFA (Modular Framework for Agents) is enterprise-grade LLM infrastructure.
 > L43: Enterprises use MoFA to deliver agent capabilities for business AI integration, while MoFA runs the complete chain 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mofa-org/mofa 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 298 --> 301
+    line [299, 300]
+```
+
+2026-11-22 299 → 2026-11-23 300（+1）
 
 
 ---

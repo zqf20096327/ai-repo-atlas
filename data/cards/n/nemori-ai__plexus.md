@@ -1,6 +1,6 @@
 # nemori-ai/plexus
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nemori-ai/plexus) · [官网](https://plexus.vibecoding.icu/) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nemori-ai/plexus) · [官网](https://plexus.vibecoding.icu/) · 组织维护
 
 **给开发者：本地 AI agent 能力网关，受控暴露本机软件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nemori-ai/plexus 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-20 15 → 2026-11-22 15（+0）
+2026-10-21 15 → 2026-11-23 16（+1）
 
 
 ---

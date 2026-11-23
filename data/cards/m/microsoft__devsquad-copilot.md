@@ -1,6 +1,6 @@
 # microsoft/devsquad-copilot
 
-⭐ 51 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/devsquad-copilot) · [官网](https://aka.ms/devsquad-copilot) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 GitHub Copilot 的团队交付框架：从业务意图到实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

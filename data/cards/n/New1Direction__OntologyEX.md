@@ -1,6 +1,6 @@
 # New1Direction/OntologyEX
 
-⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/New1Direction/OntologyEX) · [官网](https://new1direction.github.io/OntologyEX/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/New1Direction/OntologyEX) · [官网](https://new1direction.github.io/OntologyEX/) · 个人维护
 
 **让 AI 代理理解代码背后业务的可移植本体提取工具包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "New1Direction/OntologyEX 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-23", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-23 10 → 2026-11-22 11（+1）
+2026-10-23 10 → 2026-11-23 12（+2）
 
 
 ---

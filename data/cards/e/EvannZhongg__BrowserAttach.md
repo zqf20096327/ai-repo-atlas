@@ -1,6 +1,6 @@
 # EvannZhongg/BrowserAttach
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EvannZhongg/BrowserAttach) · [官网](https://www.npmjs.com/package/@evan_zhong/browser-attach) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EvannZhongg/BrowserAttach) · [官网](https://www.npmjs.com/package/@evan_zhong/browser-attach) · 个人维护 · 中文 README
 
 **MCP server：让客户端控制已登录的 Chrome/Edge 标签页**
 
@@ -45,12 +45,12 @@ BrowserAttach 是一个 stdio MCP server，通过本地配对的浏览器扩展�
 ```mermaid
 xychart-beta
     title "EvannZhongg/BrowserAttach 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-22"]
+    x-axis ["2026-10-23", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-23 4 → 2026-11-22 4（+0）
+2026-10-23 4 → 2026-11-23 4（+0）
 
 
 ---

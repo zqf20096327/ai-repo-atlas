@@ -1,6 +1,6 @@
 # qianlima-lab/awesome-lifelong-llm-agent
 
-⭐ 339 · Python · 推送 2026-11-06 · [GitHub](https://github.com/qianlima-lab/awesome-lifelong-llm-agent) · [官网](https://arxiv.org/abs/2501.07278) · 组织维护 · 中文 README
+⭐ 339 · Python · 推送 2026-11-22 · [GitHub](https://github.com/qianlima-lab/awesome-lifelong-llm-agent) · [官网](https://arxiv.org/abs/2501.07278) · 组织维护 · 中文 README
 
 **LLM Agent 终身学习综述配套论文清单：感知/记忆/行动三模块组织**
 
@@ -44,12 +44,12 @@ TPAMI 2026 综述论文 'Lifelong Learning of LLM based Agents: A Roadmap' 的�
 ```mermaid
 xychart-beta
     title "qianlima-lab/awesome-lifelong-llm-agent 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 337 --> 341
     line [338, 339, 340, 339, 340, 339, 339]
 ```
 
-2026-10-19 338 → 2026-11-22 339（+1）
+2026-10-20 338 → 2026-11-23 339（+1）
 
 
 ---

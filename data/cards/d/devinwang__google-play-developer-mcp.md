@@ -46,12 +46,12 @@ TypeScript 实现的 Model Context Protocol 服务器，封装 Android Publisher
 ```mermaid
 xychart-beta
     title "devinwang/google-play-developer-mcp 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-10-28", "2026-10-29", "2026-11-13", "2026-11-23"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-28 10 → 2026-11-22 12（+2）
+2026-10-28 10 → 2026-11-23 12（+2）
 
 
 ---

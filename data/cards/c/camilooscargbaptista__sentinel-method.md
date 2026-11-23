@@ -46,12 +46,12 @@ TypeScript/Node.js 编写的代码质量门禁工具：对 AI 生成的代码运
 ```mermaid
 xychart-beta
     title "camilooscargbaptista/sentinel-method 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-22 13（+0）
+2026-10-20 13 → 2026-11-23 13（+0）
 
 
 ---

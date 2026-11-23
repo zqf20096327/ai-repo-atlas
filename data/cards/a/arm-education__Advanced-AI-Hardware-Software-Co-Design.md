@@ -1,6 +1,6 @@
 # arm-education/Advanced-AI-Hardware-Software-Co-Design
 
-⭐ 42 · Jupyter Notebook · NOASSERTION · 推送 2025-12-08 · [GitHub](https://github.com/arm-education/Advanced-AI-Hardware-Software-Co-Design) · [官网](https://github.com/arm-education/Advanced-AI-Hardware-Software-Co-Design#advanced-quantization--a-practical-course) · 组织维护
+⭐ 43 · Jupyter Notebook · NOASSERTION · 推送 2025-12-08 · [GitHub](https://github.com/arm-education/Advanced-AI-Hardware-Software-Co-Design) · [官网](https://github.com/arm-education/Advanced-AI-Hardware-Software-Co-Design#advanced-quantization--a-practical-course) · 组织维护
 
 **面向 ML 工程师的极量化与端侧 LLM 部署实训课程**
 
@@ -45,12 +45,12 @@ Arm 教育团队发布的实操课程（两部曲 Part 1），主题为极端模
 ```mermaid
 xychart-beta
     title "arm-education/Advanced-AI-Hardware-Software-Co-Design 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-19 41 → 2026-11-22 42（+1）
+2026-10-20 41 → 2026-11-23 43（+2）
 
 
 ---

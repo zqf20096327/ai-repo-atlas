@@ -1,6 +1,6 @@
 # Rudy-114/wechat-article-reader
 
-⭐ 3 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Rudy-114/wechat-article-reader) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Rudy-114/wechat-article-reader) · 个人维护 · 中文 README
 
 **让 AI Agent 读取微信公众号文章的本地转换工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rudy-114/wechat-article-reader 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-20", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-20 3 → 2026-11-22 3（+0）
+2026-11-20 3 → 2026-11-23 4（+1）
 
 
 ---

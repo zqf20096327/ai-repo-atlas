@@ -45,13 +45,13 @@ DeepSeek Harness（DSH）的社区插件，通过订阅 API Key 或设备登录�
 
 ```mermaid
 xychart-beta
-    title "BaronCyrus/dsh-kimi-subscription 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-22"]
+    title "BaronCyrus/dsh-kimi-subscription 星数(近 3 点)"
+    x-axis ["2026-11-11", "2026-11-22", "2026-11-23"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-11 10 → 2026-11-22 11（+1）
+2026-11-11 10 → 2026-11-23 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # shyhirt/AutoDub
 
-⭐ 31 · Python · 推送 2026-05-04 · [GitHub](https://github.com/shyhirt/AutoDub) · 个人维护
+⭐ 32 · Python · 推送 2026-05-04 · [GitHub](https://github.com/shyhirt/AutoDub) · 个人维护
 
 **给视频创作者的自动转录、翻译与配音命令行工具**
 
@@ -46,12 +46,12 @@ Python 命令行脚本：用 OpenAI Whisper 转录视频音频并带时间戳，
 ```mermaid
 xychart-beta
     title "shyhirt/AutoDub 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 30, 31, 31]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 30, 31, 32]
 ```
 
-2026-10-20 30 → 2026-11-22 31（+1）
+2026-10-21 30 → 2026-11-23 32（+2）
 
 
 ---

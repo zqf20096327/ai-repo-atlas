@@ -1,10 +1,10 @@
 # presenton/presenton
 
-⭐ 11,985 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/presenton/presenton) · [官网](https://presenton.ai) · 组织维护
+⭐ 12,004 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/presenton/presenton) · [官网](https://presenton.ai) · 组织维护
 
-**开源 AI 演示文稿生成器与 API，自托管生成 PPTX**
+**自托管 AI 演示文稿生成器与 API，产出可编辑 PPTX/PDF**
 
-自托管的 AI 演示文稿生成应用：从提示词、上传文档或自有 PowerPoint 设计生成演示文稿，提供内置模板、拖拽编辑界面，导出完全可编辑的 PPTX 或 PDF。支持自备 API key 接入 OpenAI、Gemini、Vertex AI、Azure OpenAI、Anthropic 等多种模型提供方，或经 Ollama 本地运行开源模型。提供 Docker 一键部署、Electron 桌面应用（Mac/Windows/Linux）以及可供团队调用的 AI Presentation Generation API，内置 MCP Server 与多用户工作区管理。Apache 2.0 许可，另提供云端与 Enterprise（Helm/K8s、SSO）版本。
+Presenton 是开源（Apache 2.0）的 AI 演示文稿生成工具，支持从提示词或上传文档生成幻灯片，可拖拽编辑并导出可编辑的 PPTX/PDF。运行方式包括 Docker 单命令部署、Electron 桌面应用（macOS/Windows/Linux）及云托管；提供 HTTP 生成 API、内置 MCP Server、多用户工作区与内置管理面板。支持自带 API Key 接入多家模型服务，也可用 Ollama 本地运行模型；另提供带 Helm Chart、SSO（OAuth/OIDC/SCIM）的 Enterprise 版本。
 
 ## 筛选速览
 
@@ -20,18 +20,16 @@
 
 ## 能力要点
 
-- 从提示词或文档生成演示文稿，导出完全可编辑的 PPTX/PDF
-- BYOK 多提供方接入：OpenAI/Gemini/Vertex/Azure/Anthropic 或任意 OpenAI 兼容端点
-- Ollama 集成实现本地开源模型运行，全流程本地处理
-- Docker 一键部署（含 GPU 配置）与 Mac/Windows/Linux 桌面应用
-- 内置 MCP Server 与多用户工作区/管理面板
+- 从提示词、文档或自定义 PowerPoint 设计生成完全可编辑的 PPTX/PDF
+- 接入 Ollama、OpenAI、Gemini、Azure OpenAI、Anthropic 等 OpenAI 兼容服务，支持 BYOK
+- 内置 MCP Server，可通过 Model Context Protocol 生成演示文稿
+- Docker 一命令部署，Electron 桌面应用支持三大平台
 
 ## 适用场景
 
-- 输入提示词或上传文档快速生成可编辑的演示文稿
-- 在自有基础设施上部署 AI 演示生成能力并经 API 供团队调用
-- 用自有 API key 或本地 Ollama 模型生成幻灯片，数据不出本机
-- 复用公司自有 PowerPoint 模板生成符合品牌规范的演示文稿
+- 自托管环境里用自有模型生成商务/教育演示文稿
+- 为团队托管演示生成 API 服务并管理多用户工作区
+- 通过 MCP 让 agent 调用演示文稿生成能力
 
 ## 场景标签
 
@@ -40,21 +38,21 @@
 ## 证据(README 行号)
 
 > L15: # Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternativ
-> L30: - Comes with AI Presentation Generation API
+> L29: - Works with Ollama, LM Studio, OpenAI, Gemini, Vertex AI, Azure OpenAI, Amazon Bedrock, Fireworks, Together AI, An
 > L44: Create presentations from a prompt, an uploaded document, or your own PowerPoint design. Choose from built-in templ
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "presenton/presenton 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 11140 --> 12061
-    line [11216, 11252, 11275, 11291, 11304, 11334, 11383, 11422, 11447, 11488, 11540, 11574, 11607, 11304, 11810, 11846, 11863, 11878, 11889, 11904, 11917, 11932, 11950, 11964, 11976, 11980, 11985]
+    title "presenton/presenton 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 11138 --> 12082
+    line [11216, 11252, 11275, 11291, 11304, 11334, 11383, 11422, 11447, 11488, 11540, 11574, 11607, 11304, 11810, 11846, 11863, 11878, 11889, 11904, 11917, 11932, 11950, 11964, 11976, 11980, 11985, 12004]
 ```
 
-2026-10-20 11,216 → 2026-11-22 11,985（+769）
+2026-10-21 11,216 → 2026-11-23 12,004（+788）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `e5c14f0ac7bd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f7cb989bcd01` · [字段定义](../../DATASET.md)*

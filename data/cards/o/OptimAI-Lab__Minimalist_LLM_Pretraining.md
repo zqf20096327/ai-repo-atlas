@@ -46,12 +46,12 @@ ICML 2026 论文 "Memory-Efficient LLM Pretraining via Minimalist Optimizer Desi
 ```mermaid
 xychart-beta
     title "OptimAI-Lab/Minimalist_LLM_Pretraining 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-19 24 → 2026-11-22 24（+0）
+2026-10-20 24 → 2026-11-23 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Plantcore-AI/Iteron
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Plantcore-AI/Iteron) · [官网](https://plantcore-ai.github.io/Iteron/) · 组织维护 · 中文 README
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Plantcore-AI/Iteron) · [官网](https://plantcore-ai.github.io/Iteron/) · 组织维护 · 中文 README
 
 **面向开发者的 Rust 终端编码 agent 运行时与 CLI**
 
@@ -46,12 +46,12 @@ Iteron 是一个用 Rust 编写的开源平台，为特定领域 AI agent 的 ha
 ```mermaid
 xychart-beta
     title "Plantcore-AI/Iteron 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 11（+0）
 
 
 ---

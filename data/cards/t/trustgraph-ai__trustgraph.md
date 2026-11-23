@@ -1,10 +1,10 @@
 # trustgraph-ai/trustgraph
 
-⭐ 3,185 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/trustgraph-ai/trustgraph) · [官网](https://TrustGraph.ai) · 组织维护
+⭐ 3,218 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/trustgraph-ai/trustgraph) · [官网](https://TrustGraph.ai) · 组织维护
 
-**企业级语义 Agent 治理平台：本体化的操作图与策略运行时**
+**面向 AI agent 的开源本体运行时与知识治理平台**
 
-TrustGraph 将企业知识、系统与业务逻辑构建为基于 W3C RDF 1.2/OWL 的操作图，配合策略运行时在 Agent 执行动作前校验权限、范围与证据，并以 PROV-O 溯源记录每次决策。提供非结构化数据摄取（PDF/DOCX/HTML 等）、SPARQL 与 GraphRAG 查询、自带 Agent Runtime 与 API Gateway、以及覆盖主流 LLM API 与开源自托管（vLLM/TGI/Ollama 等）的推理栈。以 Docker 容器集合部署，通过 npx 命令行一步配置，提供 Web UI 与 TypeScript 客户端库。
+TrustGraph 将文档与结构化数据转为基于本体的知识图谱，运行 Docker/Podman/Kubernetes 部署的一组容器。核心机制包括：OntologyRAG 用本体引导三元组抽取并按约束校验、SHACL-AF 策略对每条查询做节点级过滤、PROV-O 溯源与推理轨迹、GraphRAG/DocumentRAG 检索，以及 ReAct 等 agent 编排与 MCP server。知识以 W3C 标准（RDF/OWL/SPARQL）存储，可打包为 Context Cores 迁移。README 注明它不是完整 OWL 推理器。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ TrustGraph 将企业知识、系统与业务逻辑构建为基于 W3C RDF 1.2/OW
 
 ## 能力要点
 
-- 基于 RDF 1.2/OWL/SHACL/PROV-O 的本体驱动操作图
-- Agent 动作执行前的策略校验与可查询溯源
-- 集成 vLLM/TGI/Ollama 等的开源模型推理栈，可不依赖第三方 API key
-- Web UI 含 Agent Console、GraphRAG View、本体编辑器等工具
+- 基于 W3C 标准（RDF、OWL、SHACL、PROV-O）存储本体与溯源，支持 Turtle/TriG 导入导出
+- SHACL-AF 策略对 REST API、SPARQL、GraphRAG 查询做三态（Allowed/Filtered/Violation）过滤并发布审计事件
+- OntologyRAG 以本体引导抽取并校验 domain/range 与子类约束；另提供 GraphRAG 与混合检索
+- MCP server 与 ReAct、Plan-then-Execute、Supervisor 三种 agent 编排模式
 
 ## 适用场景
 
-- 为企业 AI Agent 提供受策略治理的知识与行动平台
-- 把文档与业务数据转成带溯源的语义知识图供 Agent 检索
-- 自托管部署需可解释、可审计 Agent 决策的 LLM 应用
+- 企业需要把文档与数据沉淀为本体约束的知识图谱供 agent 查询
+- 对 agent 回答做节点级访问控制与可查询的审计溯源
+- 在自有云或本地环境运行知识图谱服务，避免绑定单一平台
+- 通过 MCP 或 SPARQL 将知识图谱接入现有 agent 流程
 
 ## 场景标签
 
-`知识图谱` `RAG` `Agent 框架` · 领域:Agent 开发
+`知识图谱` `RAG` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L13: TrustGraph turns enterprise knowledge, systems, and business logic into an ontology-grounded operating graph connec
-> L65: - **Agent Runtime** — Bring your own agent framework and integrate via the TrustGraph API Gateway, or use the nativ
-> L69: - **Full LLM Inference Stack** — Connect to all major LLM provider APIs, or self-host open-weight models on Nvidia,
+> L7: ### The open-source ontology runtime for AI agents
+> L73: - **MCP server** with tools for graph queries, SPARQL, GraphQL over structured data and embeddings, with bearer-tok
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "trustgraph-ai/trustgraph 星数(近 26 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2780 --> 3221
-    line [2816, 2819, 2823, 2829, 2831, 2834, 2842, 2845, 2848, 2854, 2859, 2861, 2831, 2902, 2906, 2908, 2911, 2917, 2921, 2922, 2926, 2934, 2939, 2940, 3074, 3185]
+    title "trustgraph-ai/trustgraph 星数(近 27 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2776 --> 3258
+    line [2816, 2819, 2823, 2829, 2831, 2834, 2842, 2845, 2848, 2854, 2859, 2861, 2831, 2902, 2906, 2908, 2911, 2917, 2921, 2922, 2926, 2934, 2939, 2940, 3074, 3185, 3218]
 ```
 
-2026-10-20 2,816 → 2026-11-22 3,185（+369）
+2026-10-21 2,816 → 2026-11-23 3,218（+402）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `24da55ee28b1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `ab6b5531884a` · [字段定义](../../DATASET.md)*

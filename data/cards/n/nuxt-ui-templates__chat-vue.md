@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nuxt-ui-templates/chat-vue 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "nuxt-ui-templates/chat-vue 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 100 --> 103
-    line [102, 101]
+    line [102, 101, 101]
 ```
 
-2026-10-20 102 → 2026-11-22 101（-1）
+2026-10-21 102 → 2026-11-23 101（-1）
 
 
 ---

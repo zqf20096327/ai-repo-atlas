@@ -1,6 +1,6 @@
 # marc2332/term
 
-⭐ 20 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/marc2332/term) · [官网](https://term.mespin.me/) · 个人维护
+⭐ 21 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/marc2332/term) · [官网](https://term.mespin.me/) · 个人维护
 
 **用 Rust 与 Freya 构建的个人向终端模拟器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "marc2332/term 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-20 20 → 2026-11-22 20（+0）
+2026-10-21 20 → 2026-11-23 21（+1）
 
 
 ---

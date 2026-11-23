@@ -46,12 +46,12 @@ moyu（意为"摸鱼"）是 Claude Code / DeepSeek Harness 的插件：用户说
 ```mermaid
 xychart-beta
     title "cucarol/moyu 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-22 3（+0）
+2026-11-08 3 → 2026-11-23 3（+0）
 
 
 ---

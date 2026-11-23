@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ccarter01011/traxagent-claude-plugin 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    title "ccarter01011/traxagent-claude-plugin 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 68 --> 143
-    line [74, 137]
+    line [74, 137, 137]
 ```
 
-2026-11-21 74 → 2026-11-22 137（+63）
+2026-11-21 74 → 2026-11-23 137（+63）
 
 
 ---

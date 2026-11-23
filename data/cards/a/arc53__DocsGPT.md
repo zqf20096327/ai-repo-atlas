@@ -1,10 +1,10 @@
 # arc53/DocsGPT
 
-⭐ 18,374 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/arc53/DocsGPT) · [官网](https://app.docsgpt.cloud/) · 组织维护
+⭐ 18,373 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/arc53/DocsGPT) · [官网](https://app.docsgpt.cloud/) · 组织维护
 
-**面向企业与开发者的自托管文档问答与 AI Agent 平台**
+**企业级私有化 AI 问答与 Agent 平台：文档接地回答**
 
-DocsGPT 将文档、网站与已连接的应用转为可引用出处的 AI Agent：支持可视化工作流编排、知识同步（Google Drive、SharePoint、Confluence、GitHub、S3 等）与 GraphRAG，每个回答附带来源引用。模型可任选云端（OpenAI、Anthropic、Groq 等）或本地（Ollama、vLLM），整个栈运行在用户自身环境内。提供一键安装脚本、`docsgpt` CLI 管理命令，另有 Docker Compose、pip、Kubernetes 及离线部署途径；MIT 许可，包含 SSO、团队与配额等团队功能。
+自托管的 AI 平台，将文档、网站和接入的应用转化为带出处的 AI 代理：内置代理构建器、可视化工作流、深度研究模式、多源知识同步（Google Drive、SharePoint、Confluence、GitHub、S3 等）与 GraphRAG。每个回答附引用来源，支持 OpenAI 兼容 API、聊天挂件、MCP 服务器、Discord/Slack/Telegram 机器人等交付形式。全部组件运行在用户自己的环境内，MIT 许可，提供单命令安装脚本与 docsgpt CLI 管理栈。
 
 ## 筛选速览
 
@@ -27,40 +27,40 @@ DocsGPT 将文档、网站与已连接的应用转为可引用出处的 AI Agent
 
 ## 能力要点
 
-- Agent 与深度研究模式：自定义提示、知识与工具，支持多步回答
-- 拖拽式可视化工作流：串联 Agent、条件与沙箱代码
-- 答案带来源引用，知识源可从多平台持续同步
-- OpenAI 兼容 API、MCP server、网站 widget、Discord/Slack/Telegram 机器人与 CLI 多种接入方式
+- 代理与可视化工作流：提示词、知识、工具与模型可组合编排
+- 知识源同步与 GraphRAG，回答附文档引用
+- 多模型接入：OpenAI、Anthropic、Groq、Ollama、vLLM 等 OpenAI 兼容服务器
+- 团队功能：OIDC/SCIM 单点登录、角色权限、用量配额与 OpenTelemetry 观测
 
 ## 适用场景
 
-- 在企业内网自建文档问答与知识检索系统
-- 把产品手册做成嵌入网站的客服 Agent
-- 需要数据不出本地环境的私有化 LLM 应用部署
-- 通过可视化工作流串联多个 Agent 处理业务流程
+- 在企业内网自托管文档问答助手
+- 为产品支持页面嵌入带出处的聊天挂件
+- 把内部知识库通过 MCP 服务器暴露给 Claude、Cursor 等客户端
+- 搭建定时运行或 webhook 触发的自动化代理
 
 ## 场景标签
 
-`文档问答` `RAG` `工作流自动化` `Agent 框架` · 领域:Agent 开发
+`文档问答` `RAG` `知识图谱` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L3:  Open-source AI agents grounded in your docs. Private, self-hosted, any model.
-> L45: DocsGPT turns your documents, sites and connected apps into AI agents that answer with sources. Build agents and
-> L66: - 🧠 **Any model:** OpenAI, Anthropic, Google, Groq, OpenRouter, or local models through Ollama, vLLM and other Open
+> L44: DocsGPT turns your documents, sites and connected apps into AI agents that answer with sources. Build agents and
+> L63: - 🔎 **Answers with sources:** every answer cites the documents it came from.
+> L65: - 🧠 **Any model:** OpenAI, Anthropic, Google, Groq, OpenRouter, or local models through Ollama, vLLM and other Open
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "arc53/DocsGPT 星数(近 20 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 18319 --> 18381
-    line [18324, 18331, 18333, 18334, 18333, 18334, 18335, 18340, 18344, 18349, 18352, 18333, 18365, 18369, 18373, 18375, 18373, 18376, 18374, 18374]
+    line [18324, 18331, 18333, 18334, 18333, 18334, 18335, 18340, 18344, 18349, 18352, 18333, 18365, 18369, 18373, 18375, 18373, 18376, 18374, 18373]
 ```
 
-2026-10-20 18,324 → 2026-11-22 18,374（+50）
+2026-10-21 18,324 → 2026-11-23 18,373（+49）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `884449f4b35c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ef46aec0e0a7` · [字段定义](../../DATASET.md)*

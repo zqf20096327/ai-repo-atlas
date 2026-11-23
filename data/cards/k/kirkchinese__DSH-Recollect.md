@@ -1,6 +1,6 @@
 # kirkchinese/DSH-Recollect
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kirkchinese/DSH-Recollect) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kirkchinese/DSH-Recollect) · 个人维护 · 中文 README
 
 **为 DSH 提供兼容 Claude Code 约定的持久记忆插件**
 
@@ -46,12 +46,12 @@ Recollect 是 DeepSeek Harness（DSH）的插件，提供一套兼容 Claude Cod
 ```mermaid
 xychart-beta
     title "kirkchinese/DSH-Recollect 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-08 5 → 2026-11-22 5（+0）
+2026-11-08 5 → 2026-11-23 6（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Comfy-Org/awesome-comfy
 
-⭐ 4 · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/Comfy-Org/awesome-comfy) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ComfyUI 生态资源清单：应用、影视案例、工作流与 SDK**
 
@@ -11,7 +11,7 @@ Comfy Org 维护的精选清单，收录用 ComfyUI 构建的工具、应用、�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

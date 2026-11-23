@@ -1,6 +1,6 @@
 # ariannamethod/notorch
 
-⭐ 29 · C · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/ariannamethod/notorch) · [官网](https://ariannamethod.com) · 个人维护
+⭐ 30 · C · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/ariannamethod/notorch) · [官网](https://ariannamethod.com) · 个人维护
 
 **纯 C 实现的神经网络框架：训练并运行 LLM 等模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ariannamethod/notorch 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-22"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-23"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30]
 ```
 
-2026-10-20 28 → 2026-11-22 29（+1）
+2026-10-21 28 → 2026-11-23 30（+2）
 
 
 ---

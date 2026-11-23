@@ -1,6 +1,6 @@
 # potlakai/nus
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/potlakai/nus) · [官网](https://pdaime.github.io/nus/) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/potlakai/nus) · [官网](https://pdaime.github.io/nus/) · 个人维护
 
 **给大学生的 AI 学期管家：读教学大纲安排整学期**
 
@@ -41,6 +41,18 @@
 > L9: *Nūs* (from the Greek *noûs*, the mind) is an AI semester organizer built on Claude Code. Every "AI assistant" demo 
 > L13: - **`/setup`** learns who you are and what you're aiming for, then reads your syllabus PDFs and builds a master dea
 > L22: 1. Install Claude Code (needs a Claude subscription).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "potlakai/nus 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 11 --> 18
+    line [12, 17]
+```
+
+2026-11-22 12 → 2026-11-23 17（+5）
 
 
 ---

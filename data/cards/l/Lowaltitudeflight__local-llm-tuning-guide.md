@@ -1,6 +1,6 @@
 # Lowaltitudeflight/local-llm-tuning-guide
 
-⭐ 80 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Lowaltitudeflight/local-llm-tuning-guide) · [官网](https://lowaltitudeflight.github.io/local-llm-tuning-guide/) · 个人维护 · 中文 README
+⭐ 82 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Lowaltitudeflight/local-llm-tuning-guide) · [官网](https://lowaltitudeflight.github.io/local-llm-tuning-guide/) · 个人维护 · 中文 README
 
 **无 NVLink 多 GPU 本地 LLM 部署的决策库，结论均带证据分级**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lowaltitudeflight/local-llm-tuning-guide 星数(近 12 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
+    title "Lowaltitudeflight/local-llm-tuning-guide 星数(近 13 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 9 --> 129
-    line [21, 19, 42, 67, 77, 87, 97, 105, 118, 119, 114, 80]
+    line [21, 19, 42, 67, 77, 87, 97, 105, 118, 119, 114, 80, 82]
 ```
 
-2026-10-20 21 → 2026-11-22 80（+59）
+2026-10-21 21 → 2026-11-23 82（+61）
 
 
 ---

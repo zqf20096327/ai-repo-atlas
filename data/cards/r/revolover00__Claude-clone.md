@@ -1,6 +1,6 @@
 # revolover00/Claude-clone
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/revolover00/Claude-clone) · [官网](https://claude-clone.ai.studio/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **开发者自托管的多模型 BYOK 聊天界面，复刻 Claude.ai 体验**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | MIT |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

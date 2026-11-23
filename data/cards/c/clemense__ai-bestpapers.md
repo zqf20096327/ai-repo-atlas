@@ -1,6 +1,6 @@
 # clemense/ai-bestpapers
 
-⭐ 48 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/clemense/ai-bestpapers) · [官网](http://www.aibestpape.rs) · 个人维护
+⭐ 48 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/clemense/ai-bestpapers) · [官网](http://www.aibestpape.rs) · 个人维护
 
 **各 AI 相关会议最佳论文获奖清单**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "clemense/ai-bestpapers 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-22"]
+    x-axis ["2026-11-01", "2026-11-23"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-11-01 48 → 2026-11-22 48（+0）
+2026-11-01 48 → 2026-11-23 48（+0）
 
 
 ---

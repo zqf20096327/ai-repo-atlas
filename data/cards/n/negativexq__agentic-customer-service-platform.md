@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "negativexq/agentic-customer-service-platform 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "negativexq/agentic-customer-service-platform 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 9 --> 13
-    line [11, 10, 11, 12]
+    line [11, 10, 11, 12, 12]
 ```
 
-2026-10-28 11 → 2026-11-22 12（+1）
+2026-10-28 11 → 2026-11-23 12（+1）
 
 
 ---

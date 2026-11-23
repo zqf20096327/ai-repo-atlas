@@ -1,6 +1,6 @@
 # ion-elgreco/rivers
 
-⭐ 107 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ion-elgreco/rivers) · [官网](https://orchestrator.rs) · 个人维护
+⭐ 108 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ion-elgreco/rivers) · [官网](https://orchestrator.rs) · 个人维护
 
 **面向数据/ML 管道的 Rust 编排平台，Python 定义管道**
 
@@ -41,6 +41,18 @@
 > L5: rivers is a Rust-powered orchestration platform built around data assets. Define pipelines in Python; rivers resolve
 > L11: - **Asset-based orchestration** — define data assets as Python functions; rivers resolves the dependency graph auto
 > L16: - **Parallel & distributed execution** — `Executor.parallel()` for concurrent subprocess workers, `Executor.kuberne
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ion-elgreco/rivers 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 106 --> 109
+    line [107, 108]
+```
+
+2026-11-22 107 → 2026-11-23 108（+1）
 
 
 ---

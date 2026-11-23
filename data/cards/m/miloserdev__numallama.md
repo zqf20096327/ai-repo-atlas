@@ -1,6 +1,6 @@
 # miloserdev/numallama
 
-⭐ 7 · C · MIT · 推送 2026-11-21 · [GitHub](https://github.com/miloserdev/numallama) · 个人维护 · 中文 README
+⭐ 8 · C · MIT · 推送 2026-11-22 · [GitHub](https://github.com/miloserdev/numallama) · 个人维护 · 中文 README
 
 **面向大 NUMA Arm 服务器的 Llama/Qwen 系列本地 CPU 推理引擎**
 
@@ -40,6 +40,18 @@
 > L3: # numallama — fast NUMA-aware CPU inference for Llama 3.x, Qwen2.5, Qwen3 / Qwen3-MoE and Qwen3.5 / 3.8
 > L32: - **OpenAI-compatible server** (`-m server`): `/v1/chat/completions` with streaming, tool calls and
 > L131: - **One request at a time.** A request already uses every core, so concurrent requests wait in the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "miloserdev/numallama 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
+```
+
+2026-11-22 7 → 2026-11-23 8（+1）
 
 
 ---

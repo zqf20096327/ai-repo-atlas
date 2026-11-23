@@ -1,6 +1,6 @@
 # acnlabs/OpenPersona
 
-⭐ 59 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/acnlabs/OpenPersona) · [官网](https://openpersona.co) · 组织维护
+⭐ 61 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/acnlabs/OpenPersona) · [官网](https://openpersona.co) · 组织维护
 
 **四层架构的 AI persona 生命周期框架：声明、生成、约束与演化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "acnlabs/OpenPersona 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 53 --> 60
-    line [54, 55, 56, 54, 57, 58, 59, 59]
+    x-axis ["2026-10-21", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 53 --> 62
+    line [54, 55, 56, 54, 57, 58, 59, 61]
 ```
 
-2026-10-20 54 → 2026-11-22 59（+5）
+2026-10-21 54 → 2026-11-23 61（+7）
 
 
 ---

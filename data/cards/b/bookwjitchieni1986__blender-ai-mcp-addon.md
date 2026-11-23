@@ -1,6 +1,6 @@
 # bookwjitchieni1986/blender-ai-mcp-addon
 
-⭐ 2,224 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) · 个人维护
+⭐ 2,744 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) · 个人维护
 
 **Blender 的 AI 助手插件：对话式检查、构建与编辑 3D 场景**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bookwjitchieni1986/blender-ai-mcp-addon 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 200 --> 2408
-    line [384, 1657, 2224]
+    title "bookwjitchieni1986/blender-ai-mcp-addon 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 148 --> 2980
+    line [384, 1657, 2224, 2744]
 ```
 
-2026-11-20 384 → 2026-11-22 2,224（+1,840）
+2026-11-20 384 → 2026-11-23 2,744（+2,360）
 
 
 ---

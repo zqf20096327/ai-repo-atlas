@@ -45,13 +45,13 @@ Spotify Basic Pitch 的非官方 Rust 移植：读取 WAV/AIFF/CAF/FLAC/MP3/Ogg/
 
 ```mermaid
 xychart-beta
-    title "AThevon/basic-pitch-rs 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-16", "2026-11-22"]
+    title "AThevon/basic-pitch-rs 星数(近 4 点)"
+    x-axis ["2026-11-11", "2026-11-16", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    line [3, 4, 5, 5]
 ```
 
-2026-11-11 3 → 2026-11-22 5（+2）
+2026-11-11 3 → 2026-11-23 5（+2）
 
 
 ---

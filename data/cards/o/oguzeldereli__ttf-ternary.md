@@ -1,6 +1,6 @@
 # oguzeldereli/ttf-ternary
 
-⭐ 48 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/oguzeldereli/ttf-ternary) · 个人维护
+⭐ 50 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/oguzeldereli/ttf-ternary) · 个人维护
 
 **三值 LLM 训练框架：免全精度主权重，约1字节优化器状态/权重**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "oguzeldereli/ttf-ternary 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 22 --> 50
-    line [24, 32, 41, 43, 44, 45, 46, 47, 48]
+    title "oguzeldereli/ttf-ternary 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 22 --> 52
+    line [24, 32, 41, 43, 44, 45, 46, 47, 48, 50]
 ```
 
-2026-11-10 24 → 2026-11-22 48（+24）
+2026-11-10 24 → 2026-11-23 50（+26）
 
 
 ---

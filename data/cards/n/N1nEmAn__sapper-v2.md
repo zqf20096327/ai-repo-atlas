@@ -1,10 +1,10 @@
 # N1nEmAn/sapper-v2
 
-⭐ 2,530 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/N1nEmAn/sapper-v2) · [官网](https://github.com/N1nEmAn/nvwabase) · 个人维护 · 中文 README
+⭐ 2,552 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/N1nEmAn/sapper-v2) · [官网](https://github.com/N1nEmAn/nvwabase) · 个人维护 · 中文 README
 
-**AI 多智能体军团自主渗透测试框架，含分层事实图谱**
+**面向授权渗透测试的多 Agent 自主编排军团（CTF 冠军方案）**
 
-多智能体自动化渗透测试系统：一个 AI 指挥官读取战场板、决策并派发任务，将军与士兵 tmux 窗格中并行攻击，脚本 watchdog 负责保活、密钥轮换与收尾。知识沉淀为三层（标题/摘要/证据文档）事实-意图图谱。模型分级：指挥官/将军用 GLM-5.3，士兵/侦察用 DeepSeek V4.1 Flash。获腾讯智能攻防线上赛冠军（634 队、8 小时无人值守、1B tokens）。仅限授权安全测试，提供 install.sh CLI 与 Docker 两种部署。
+sapper 是一个多 Agent 编排框架，不绑定具体模型或 CLI，每个角色背后的 agent 与模型均可替换（Claude Code/Codex/DeepSeek 等）。运行时由三个窗口组成：指挥官读盘调度、TMux 中的 AI 军团并行攻击、纯脚本 watchdog 负责保活与续跑。知识沉淀于分层事实-意图图谱（title/summary/evidence 三层），会话结束后由后继者接续。设计面向腾讯攻防挑战赛 CTF 场景，迁移到其他场景需改写教义与环境接线；提供 nvwabase 通用基座供任意长程协作场景迭代。仅限授权安全测试。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 指挥官/将军/侦察/士兵多角色分工的 tmux 运行时架构
-- 三层（标题/摘要/证据）事实-意图图谱作为持久知识层
-- 模型分级策略：精英模型决策、轻量模型量产
-- 零策略 watchdog：崩溃重启、密钥轮换、超时收尾
+- 多 Agent 编排：指挥官/将军/侦察兵/士兵分工，agent 与模型可自由替换
+- 分层事实-意图图谱作为跨会话共享记忆
+- 模型分层使用（指挥层与执行层用不同模型）
+- 提供 nvwabase 通用基座（纯 Python stdlib、零依赖）
 
 ## 适用场景
 
-- 授权 CTF/攻防比赛中无人值守自动化渗透
-- 长周期多目标安全评估任务的并行协作
-- 研究多智能体分工与知识传承的涌现行为
+- CTF 攻防竞赛中无人值守的多 Agent 自动解题
+- 授权渗透测试的自动化编排
+- 基于 nvwabase 搭建其他长程多 Agent 协作任务
 
 ## 场景标签
 
-`多智能体` `网络安全` · 领域:Agent 开发
+`多智能体` `网络安全` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L14: sapper is not a smarter single agent. It is a legion of AIs that divide labor,
-> L86: - **Economy** — model tiering: commander and generals run GLM-5.3, soldiers
+> L26: **sapper is a multi-agent orchestration harness, not a single agent.** It does
+> L70: sapper is not a smarter single agent. It is a legion of AIs that divide labor,
+> L99: sapper is the Nüwa foundation's first real campaign, in the penetration-testing
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "N1nEmAn/sapper-v2 星数(近 16 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 0 --> 2774
-    line [90, 334, 432, 1598, 1858, 1975, 2018, 2042, 2087, 2108, 2138, 2314, 2439, 2489, 2514, 2530]
+    title "N1nEmAn/sapper-v2 星数(近 17 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 0 --> 2798
+    line [90, 334, 432, 1598, 1858, 1975, 2018, 2042, 2087, 2108, 2138, 2314, 2439, 2489, 2514, 2530, 2552]
 ```
 
-2026-10-31 90 → 2026-11-22 2,530（+2,440）
+2026-10-31 90 → 2026-11-23 2,552（+2,462）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `a1c2686ca69e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `8046d2b5b7a1` · [字段定义](../../DATASET.md)*

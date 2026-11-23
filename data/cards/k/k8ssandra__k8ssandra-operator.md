@@ -45,12 +45,12 @@ K8ssandra Operator 是管理 Apache Cassandra 与 DataStax Enterprise（DSE）�
 ```mermaid
 xychart-beta
     title "k8ssandra/k8ssandra-operator 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-16", "2026-11-23"]
     y-axis "stars" 242 --> 245
     line [243, 244, 244]
 ```
 
-2026-10-20 243 → 2026-11-22 244（+1）
+2026-10-21 243 → 2026-11-23 244（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L9: Model comparisons drift: one report ranks by intelligence, the next by price, a third by whatever the model felt lik
 > L71: Metrics cover intelligence, benchmarks, price, performance and capabilities. Each declares a direction, so lower pr
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bitgineer/artificial-analysis-skill 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `9dff3bec1c35` · [字段定义](../../DATASET.md)*

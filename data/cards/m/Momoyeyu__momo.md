@@ -1,6 +1,6 @@
 # Momoyeyu/momo
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Momoyeyu/momo) · [官网](https://momoyeyu.github.io/momo/) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Momoyeyu/momo) · [官网](https://momoyeyu.github.io/momo/) · 个人维护 · 中文 README
 
 **以相处、记忆与共同成长为核心的开源 AI 陪伴游戏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Momoyeyu/momo 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-22 3（+0）
+2026-11-16 3 → 2026-11-23 3（+0）
 
 
 ---

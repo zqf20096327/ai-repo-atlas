@@ -1,6 +1,6 @@
 # LearnPrompt/goodcase
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/LearnPrompt/goodcase) · [官网](https://goodcase.ai/?utm_source=goodcase-repo&utm_medium=github&utm_campaign=repo-home) · 组织维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LearnPrompt/goodcase) · [官网](https://goodcase.ai/?utm_source=goodcase-repo&utm_medium=github&utm_campaign=repo-home) · 组织维护 · 中文 README
 
 **AI 案例站点 goodcase.ai 的开源版：clone 即跑同款 UI**
 
@@ -46,12 +46,12 @@ goodcase.ai 的开源站点部分，提供完整前台 UI（首页、案例库�
 ```mermaid
 xychart-beta
     title "LearnPrompt/goodcase 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-14", "2026-11-19", "2026-11-23"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-11-14 12 → 2026-11-22 13（+1）
+2026-11-14 12 → 2026-11-23 13（+1）
 
 
 ---

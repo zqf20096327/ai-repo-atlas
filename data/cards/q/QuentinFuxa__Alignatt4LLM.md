@@ -46,13 +46,13 @@ IWSLT 2026 同声传译任务的研究代码：将 AlignAtt 策略适配到 deco
 
 ```mermaid
 xychart-beta
-    title "QuentinFuxa/Alignatt4LLM 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-11", "2026-11-22"]
+    title "QuentinFuxa/Alignatt4LLM 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-11-11", "2026-11-22", "2026-11-23"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-10-28 10 → 2026-11-22 12（+2）
+2026-10-28 10 → 2026-11-23 12（+2）
 
 
 ---

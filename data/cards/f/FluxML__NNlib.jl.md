@@ -1,6 +1,6 @@
 # FluxML/NNlib.jl
 
-⭐ 258 · Julia · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/FluxML/NNlib.jl) · 组织维护
+⭐ 258 · Julia · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/FluxML/NNlib.jl) · 组织维护
 
 **Julia 神经网络基础算子库，供 Flux.jl 等加载使用**
 
@@ -45,12 +45,12 @@ NNlib.jl 是 Julia 语言的神经网络基础函数库，提供 softmax、sigmo
 ```mermaid
 xychart-beta
     title "FluxML/NNlib.jl 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-23"]
     y-axis "stars" 257 --> 261
     line [259, 260, 259, 258, 258]
 ```
 
-2026-10-20 259 → 2026-11-22 258（-1）
+2026-10-21 259 → 2026-11-23 258（-1）
 
 
 ---

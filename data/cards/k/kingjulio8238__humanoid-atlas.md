@@ -1,6 +1,6 @@
 # kingjulio8238/humanoid-atlas
 
-⭐ 91 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/kingjulio8238/humanoid-atlas) · [官网](https://www.humanoids.fyi) · 个人维护
+⭐ 92 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/kingjulio8238/humanoid-atlas) · [官网](https://www.humanoids.fyi) · 个人维护
 
 **人形机器人产业供应链情报平台，浏览器内可视化与AI分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kingjulio8238/humanoid-atlas 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 90 --> 92
-    line [91, 91]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 90 --> 93
+    line [91, 92]
 ```
 
-2026-10-20 91 → 2026-11-22 91（+0）
+2026-10-21 91 → 2026-11-23 92（+1）
 
 
 ---

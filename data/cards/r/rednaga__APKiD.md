@@ -1,10 +1,10 @@
 # rednaga/APKiD
 
-⭐ 2,634 · YARA · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/rednaga/APKiD) · 个人维护
+⭐ 2,638 · YARA · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/rednaga/APKiD) · 组织维护
 
-**识别 APK 编译器/加壳/混淆工具的静态分析工具**
+**面向 Android 安全分析者的 APK 构建方式识别工具**
 
-APKiD 对 Android APK/DEX 文件做静态识别，输出其使用的编译器、加壳器、混淆器、AppShielding 与 RASP SDK 等信息，定位为 Android 版 PEiD。基于 YARA 规则匹配，通过 pip 安装为命令行工具，也提供 Docker 构建方式；支持自定义规则提交与社区扩充规则库。采用 GPL 与商业双许可。面向恶意软件分析与安全研究人员。
+APKiD 分析 APK/DEX 文件，识别其编译器、打包器、混淆器及反调试/反虚拟机等特征，定位为 Android 版 PEiD。以 pip 包与 Docker 镜像提供，命令行支持扫描深度、超时、JSON 输出等参数。识别基于规则库，开发者可通过 GitHub issue 提交新特征并以 pull request 贡献规则；规则更新后需用 prep-release.py 重新编译，开发依赖 yara-python 与 yara-python-dex。许可证为商业许可与 GPL 双许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ APKiD 对 Android APK/DEX 文件做静态识别，输出其使用的编译器、
 
 ## 能力要点
 
-- 识别 APK 中的编译器、加壳器、混淆器与 RASP SDK 等构件
-- 基于 YARA 规则，支持社区提交新规则
-- 提供 CLI 与 Docker 两种运行方式
-- GPL/商业双许可
+- 识别 APK/DEX 的编译器、打包器、混淆器等构建特征
+- 支持检测 AppShielding 产品与移动 RASP SDK
+- pip 安装与 Docker 两种运行方式
+- 支持社区通过 issue/PR 提交新检测规则
 
 ## 适用场景
 
-- 分析可疑 APK 是否被加壳或混淆
-- 识别盗版或恶意 Android 应用的构建来源
-- 研究移动端 AppShielding 与 RASP 产品指纹
+- 恶意 Android 应用分析中识别加壳与混淆手段
+- 检测盗版应用使用的构建/保护工具
+- 快速识别应用集成的 AppShielding 与 RASP SDK
 
 ## 场景标签
 
@@ -38,20 +38,20 @@ APKiD 对 Android APK/DEX 文件做静态识别，输出其使用的编译器、
 ## 证据(README 行号)
 
 > L9: APKiD gives you information about how an APK was made. It identifies many compilers, packers, obfuscators, and other
-> L61: This tool is available under a dual license: a commercial one suitable for closed source projects and a GPL license
+> L43: usage: apkid [-h] [-v] [-t TIMEOUT] [-r] [--scan-depth SCAN_DEPTH]
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "rednaga/APKiD 星数(近 20 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 2597 --> 2637
-    line [2600, 2601, 2600, 2601, 2604, 2605, 2606, 2607, 2608, 2609, 2604, 2613, 2614, 2616, 2618, 2623, 2625, 2629, 2632, 2634]
+    title "rednaga/APKiD 星数(近 21 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2597 --> 2641
+    line [2600, 2601, 2600, 2601, 2604, 2605, 2606, 2607, 2608, 2609, 2604, 2613, 2614, 2616, 2618, 2623, 2625, 2629, 2632, 2634, 2638]
 ```
 
-2026-10-20 2,600 → 2026-11-22 2,634（+34）
+2026-10-21 2,600 → 2026-11-23 2,638（+38）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `19d7a6125b41` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `b3d0f9678cad` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ EPAM AI DIAL 生态的管理端 UI：基于 Next.js 与 NX 构建的 Web 应用�
 ```mermaid
 xychart-beta
     title "epam/ai-dial-admin-frontend 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-22 13（+0）
+2026-10-20 13 → 2026-11-23 13（+0）
 
 
 ---

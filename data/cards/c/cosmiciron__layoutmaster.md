@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cosmiciron/layoutmaster 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "cosmiciron/layoutmaster 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 42 --> 45
-    line [44, 43]
+    line [44, 43, 43]
 ```
 
-2026-10-20 44 → 2026-11-22 43（-1）
+2026-10-21 44 → 2026-11-23 43（-1）
 
 
 ---

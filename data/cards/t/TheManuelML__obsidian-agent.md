@@ -1,6 +1,6 @@
 # TheManuelML/obsidian-agent
 
-⭐ 71 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/TheManuelML/obsidian-agent) · [官网](https://community.obsidian.md/plugins/ai-agent) · 个人维护
+⭐ 72 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/TheManuelML/obsidian-agent) · [官网](https://community.obsidian.md/plugins/ai-agent) · 个人维护
 
 **Obsidian 插件：用 AI agent 读写搜索笔记库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TheManuelML/obsidian-agent 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-23"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 72]
 ```
 
-2026-10-20 70 → 2026-11-22 71（+1）
+2026-10-21 70 → 2026-11-23 72（+2）
 
 
 ---

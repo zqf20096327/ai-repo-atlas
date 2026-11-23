@@ -1,6 +1,6 @@
 # AEON-7/comfyui-aeon-spark
 
-⭐ 90 · Shell · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/comfyui-aeon-spark) · [官网](https://ghcr.io/aeon-7/comfyui-aeon-spark) · 个人维护
+⭐ 92 · Shell · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/comfyui-aeon-spark) · [官网](https://ghcr.io/aeon-7/comfyui-aeon-spark) · 个人维护
 
 **专为 NVIDIA DGX Spark 打造的 ComfyUI 发行版：预置图/视频/音乐模型运行环境**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AEON-7/comfyui-aeon-spark 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 85 --> 91
-    line [86, 87, 88, 89, 87, 89, 90, 90]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 85 --> 93
+    line [86, 87, 88, 89, 87, 89, 90, 92]
 ```
 
-2026-10-20 86 → 2026-11-22 90（+4）
+2026-10-21 86 → 2026-11-23 92（+6）
 
 
 ---

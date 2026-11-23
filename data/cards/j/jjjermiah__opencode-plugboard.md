@@ -1,6 +1,6 @@
 # jjjermiah/opencode-plugboard
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jjjermiah/opencode-plugboard) · [官网](https://jjjermiah.github.io/opencode-plugboard/) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jjjermiah/opencode-plugboard) · [官网](https://jjjermiah.github.io/opencode-plugboard/) · 个人维护
 
 **将 OpenCode 已登录模型以 OpenAI/Anthropic/Gemini API 形式对外提供**
 
@@ -46,12 +46,12 @@ OpenCode V2 插件：在 OpenCode 服务器内开启 HTTP 监听，把请求转�
 ```mermaid
 xychart-beta
     title "jjjermiah/opencode-plugboard 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-10 4 → 2026-11-22 4（+0）
+2026-11-10 4 → 2026-11-23 4（+0）
 
 
 ---

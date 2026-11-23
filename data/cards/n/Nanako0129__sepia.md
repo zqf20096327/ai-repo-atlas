@@ -1,10 +1,10 @@
 # Nanako0129/sepia
 
-⭐ 3,916 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Nanako0129/sepia) · 个人维护 · 中文 README
+⭐ 3,929 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Nanako0129/sepia) · 个人维护 · 中文 README
 
-**面向 Agent 的去 AI 味写作技能包，修复叙事结构与文体**
+**给 Agent 兼容 agent 用的去 AI 味写作技能包**
 
-一个可移植的 Agent Skill（单一 SKILL.md）：通过支持 77+ agent 的 Skills CLI 一条命令安装，Claude Code、Codex、Grok Build、Antigravity、QwenPaw 获得原生插件封装。基于 StoryScope 研究的叙事结构层检测发现，对小说先修叙事架构再做话语与表层风格的三遍修订；对发布说明、PR 回复、故障复盘等职业文体按场合配规则文件。提供 write/review/refactor/recreate 四种操作与 30 项诊断量表，另支持叠加声线技能（Hemingway、台湾长文等）与中文校准。不支持独立 wrapper 安装，依赖宿主 agent。
+一个可移植的 Agent Skill（SKILL.md 格式），为兼容该标准的 agent 提供去 AI 味写作与改写协议；由 Skills CLI 一条命令安装，官方称支持 77+ agents，另为 Claude Code、Codex、Grok Build、Antigravity、QwenPaw 提供原生插件包。小说走三遍式修改：先修叙事架构、再修语篇流、最后修表层文风；专业文体（发布说明、PR 回复、复盘、工单、技术文章等）各有对应场所的规则文件。四个操作：write、review、refactor、recreate，另有可选的 voice/persona 声音叠加接口与中文句长节奏校准。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单一 SKILL.md 跨 77+ agent 安装，五个平台原生插件封装
-- write/review/refactor/recreate 四操作 + 30 项诊断量表
-- 三遍修订协议：叙事架构→话语流→表层风格
-- 按文体场合（发布说明/PR/复盘/报道等）配规则，含中文证据校准
+- 单一 SKILL.md，Skills CLI 一条命令安装，支持 77+ agents
+- 小说三遍式协议：叙事架构→语篇流→表层文风
+- 按模型家族（Claude/GPT/Gemini/DeepSeek/Kimi）的指纹诊断规则
+- 可选 voice/persona 叠加接口与中文校准文件（references/languages/zh.md）
 
 ## 适用场景
 
-- 让写作 agent 生成或修订小说时去除叙事结构层面的 AI 特征
-- 撰写符合场合规范的技术文档、PR 回复与故障复盘
-- 诊断已有文本的 AI 痕迹并做最小限度修订
+- 改写小说，去除叙事层面的 AI 痕迹后再调文风
+- 按发布说明、复盘、工单等文体的场所规则润色专业文档
+- 在 Claude Code 等宿主中用 /sepia-write 等命令直接产出或修订文本
+- 为中文文本按句长节奏与语料校准做去 AI 味处理
 
 ## 场景标签
 
@@ -38,21 +39,21 @@
 ## 证据(README 行号)
 
 > L9: A portable Agent Skill: any agent that speaks the standard can load it, and the Skills CLI, which supports 77+ agent
-> L15: Every popular humanizer edits word choice and syntax. StoryScope (Russell et al., 2026: 61,608 stories, human + 5 f
-> L52: The complete plugin package gives Claude Code, Codex, Grok Build, Antigravity, and QwenPaw a general router plus fi
+> L17: sepia turns those measured gaps, together with the related studies digested in `research/`, into a three-pass writi
+> L115: python3 scripts/check_persona.py <file>
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Nanako0129/sepia 星数(近 26 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3182 --> 3982
-    line [3248, 3422, 3440, 3454, 3472, 3500, 3516, 3536, 3549, 3559, 3563, 3570, 3454, 3690, 3767, 3787, 3798, 3807, 3816, 3821, 3840, 3865, 3889, 3901, 3912, 3916]
+    title "Nanako0129/sepia 星数(近 27 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3180 --> 3997
+    line [3248, 3422, 3440, 3454, 3472, 3500, 3516, 3536, 3549, 3559, 3563, 3570, 3454, 3690, 3767, 3787, 3798, 3807, 3816, 3821, 3840, 3865, 3889, 3901, 3912, 3916, 3929]
 ```
 
-2026-10-19 3,248 → 2026-11-22 3,916（+668）
+2026-10-20 3,248 → 2026-11-23 3,929（+681）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f29fa8830c48` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `67bed0c2c4ee` · [字段定义](../../DATASET.md)*

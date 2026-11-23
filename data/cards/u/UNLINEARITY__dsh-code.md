@@ -1,6 +1,6 @@
 # UNLINEARITY/dsh-code
 
-⭐ 49 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/UNLINEARITY/dsh-code) · 个人维护 · 中文 README
+⭐ 50 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/UNLINEARITY/dsh-code) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的终端编码界面（TUI 插件）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "UNLINEARITY/dsh-code 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 41 --> 50
-    line [42, 43, 44, 42, 48, 47, 48, 49, 49]
+    x-axis ["2026-10-20", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 41 --> 51
+    line [42, 43, 44, 42, 48, 47, 48, 49, 50]
 ```
 
-2026-10-19 42 → 2026-11-22 49（+7）
+2026-10-20 42 → 2026-11-23 50（+8）
 
 
 ---

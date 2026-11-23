@@ -1,6 +1,6 @@
 # momoraul/Lupen
 
-⭐ 33 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/momoraul/Lupen) · 个人维护
+⭐ 32 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/momoraul/Lupen) · 个人维护
 
 **给 Claude Code/Codex 会话做逐轮成本核算的 macOS 菜单栏应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "momoraul/Lupen 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 31 --> 34
+    line [33, 32]
 ```
 
-2026-10-20 33 → 2026-11-22 33（+0）
+2026-10-21 33 → 2026-11-23 32（-1）
 
 
 ---

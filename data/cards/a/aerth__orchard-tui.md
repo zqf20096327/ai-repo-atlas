@@ -1,6 +1,6 @@
 # aerth/orchard-tui
 
-⭐ 3 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/aerth/orchard-tui) · [官网](https://github.com/aerth/orchard) · 个人维护
+⭐ 4 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/aerth/orchard-tui) · [官网](https://github.com/aerth/orchard) · 个人维护
 
 **终端里的 AI Agent 聊天界面，接本地/远程 LLM 执行工具**
 
@@ -46,12 +46,12 @@ Orchard AI Agent 的终端界面（BETA），以单个 Go 可执行文件运行�
 ```mermaid
 xychart-beta
     title "aerth/orchard-tui 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-21", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-21 3 → 2026-11-22 3（+0）
+2026-11-21 3 → 2026-11-23 4（+1）
 
 
 ---

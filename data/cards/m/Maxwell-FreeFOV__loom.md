@@ -47,12 +47,12 @@ Loom 是一个面向 AI 编程助手的 Agent Skill，把长期项目中的对�
 ```mermaid
 xychart-beta
     title "Maxwell-FreeFOV/loom 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-22"]
+    x-axis ["2026-10-23", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-23 4 → 2026-11-22 4（+0）
+2026-10-23 4 → 2026-11-23 4（+0）
 
 
 ---

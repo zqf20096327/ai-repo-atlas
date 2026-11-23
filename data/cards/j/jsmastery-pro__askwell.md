@@ -1,6 +1,6 @@
 # jsmastery-pro/askwell
 
-⭐ 10 · TypeScript · 推送 2026-11-06 · [GitHub](https://github.com/jsmastery-pro/askwell) · [官网](https://askwell-rho.vercel.app) · 组织维护
+⭐ 11 · TypeScript · 推送 2026-11-06 · [GitHub](https://github.com/jsmastery-pro/askwell) · [官网](https://askwell-rho.vercel.app) · 组织维护
 
 **把业务文档变成网站可嵌入 AI 客服机器人的 SaaS 教程项目**
 
@@ -45,12 +45,12 @@ AskWell 是一个配套 JavaScript Mastery YouTube 教程的 SaaS 项目代码�
 ```mermaid
 xychart-beta
     title "jsmastery-pro/askwell 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-22"]
-    y-axis "stars" 5 --> 11
-    line [6, 8, 9, 10, 10]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-23"]
+    y-axis "stars" 5 --> 12
+    line [6, 8, 9, 10, 11]
 ```
 
-2026-11-08 6 → 2026-11-22 10（+4）
+2026-11-08 6 → 2026-11-23 11（+5）
 
 
 ---

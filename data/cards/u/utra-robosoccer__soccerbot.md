@@ -1,6 +1,6 @@
 # utra-robosoccer/soccerbot
 
-⭐ 164 · C · BSD-3-Clause · 推送 2026-06-13 · [GitHub](https://github.com/utra-robosoccer/soccerbot) · [官网](https://utra-robosoccer.github.io/) · 组织维护
+⭐ 163 · C · BSD-3-Clause · 推送 2026-06-13 · [GitHub](https://github.com/utra-robosoccer/soccerbot) · [官网](https://utra-robosoccer.github.io/) · 组织维护
 
 **多伦多大学 RoboCup 人形机器人足球队的机器人软件栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "utra-robosoccer/soccerbot 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 162 --> 165
+    line [164, 163]
 ```
 
-2026-10-20 164 → 2026-11-22 164（+0）
+2026-10-21 164 → 2026-11-23 163（-1）
 
 
 ---

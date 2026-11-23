@@ -1,6 +1,6 @@
 # aaryansamanta/aaryansamanta.github.io
 
-⭐ 320 · HTML · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/aaryansamanta/aaryansamanta.github.io) · 个人维护
+⭐ 320 · HTML · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/aaryansamanta/aaryansamanta.github.io) · 个人维护
 
 **机器学习研究者的个人静态作品集网站（GitHub Pages）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aaryansamanta/aaryansamanta.github.io 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 319 --> 322
     line [321, 320, 320]
 ```
 
-2026-10-20 321 → 2026-11-22 320（-1）
+2026-10-21 321 → 2026-11-23 320（-1）
 
 
 ---

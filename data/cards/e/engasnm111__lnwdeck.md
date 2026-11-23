@@ -46,12 +46,12 @@ Windows 桌面应用（Rust/React/SQLite 栈），读取本地 AI 工具已生�
 ```mermaid
 xychart-beta
     title "engasnm111/lnwdeck 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-20 13 → 2026-11-22 13（+0）
+2026-10-21 13 → 2026-11-23 13（+0）
 
 
 ---

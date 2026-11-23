@@ -1,10 +1,10 @@
 # amitshekhariitbhu/ai-engineering-interview-questions
 
-⭐ 3,713 · Markdown · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 3,729 · Markdown · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**AI 工程面试题与答案清单，覆盖 LLM/RAG/Agent 等主题**
+**AI 工程面试问答清单：面向 AI 工程类岗位的备考资料**
 
-由 Amit Shekhar（Outcome School 创始人）维护的 AI 工程面试问答仓库：以条目形式列出面试题，部分附有指向其视频/文章的答案链接。内容按 LLM 基础、提示工程等章节组织，覆盖 Transformer 架构、KV cache、量化、微调、RLHF/PPO/DPO、MCP、Agent 等主题，并包含大量故障排查型情景题。面向 AI Engineer、LLM Engineer、MLOps Engineer 等求职者。以 Markdown 文档形式提供，无需安装运行。
+由 Outcome School 创始人维护的 AI 工程面试题库，以问题列表形式组织，答案以外部视频链接给出。可见部分覆盖 LLM 基础（Transformer、注意力机制、tokenization、KV cache、MoE、采样策略）、场景式故障排查题（幻觉、上下文窗口、记忆管理）以及 Prompt Engineering 章节（CoT、ReAct、注入攻击等）。目录还包含 RAG、MCP、Agent、微调、量化等主题；声明会持续更新题目。无代码、无安装步骤，仅问答内容本身。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 按主题分章节的面试题清单（LLM 基础、提示工程等）
-- 部分答案以链接形式指向维护者的视频/文章
-- 包含大量生产故障排查型情景题（幻觉、上下文超限、prompt 注入等）
-- 声明将持续更新内容
+- 覆盖 LLM 基础、RAG、MCP、Agent、Fine-tuning、量化等主题的问答清单
+- 含场景式排查题（幻觉、KV cache 内存、上下文管理）
+- 答案以视频讲解链接形式提供
+- 面向 11 类 AI 工程相关岗位角色
 
 ## 适用场景
 
-- 准备 AI/LLM 工程岗位面试时按主题刷题
-- 系统梳理 LLM 推理优化与提示工程知识点
-- 通过情景题了解生产环境常见 LLM 故障与处理思路
+- 准备 AI Engineer / LLM Engineer 等岗位面试
+- 按主题自查 AI 工程知识盲区
+- 查找 Transformer、RLHF、Prompt 工程等概念的讲解视频
 
 ## 场景标签
 
-`教程课程` `精选清单` · 领域:学习与行业
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: > AI Engineering Interview Questions and Answers - Your Cheat Sheet For AI Engineering Interviews
-> L57: - What are foundation models, and how have they changed AI engineering?
-> L203: - What is prompt engineering, and why is it critical for AI applications?
+> L44: ### Must Know
+> L55: ### LLM Fundamentals
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/ai-engineering-interview-questions 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3459 --> 3736
-    line [3482, 3514, 3523, 3530, 3541, 3553, 3568, 3573, 3583, 3584, 3590, 3595, 3598, 3541, 3620, 3632, 3637, 3641, 3649, 3654, 3657, 3667, 3671, 3677, 3678, 3680, 3713]
+    title "amitshekhariitbhu/ai-engineering-interview-questions 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3458 --> 3753
+    line [3482, 3514, 3523, 3530, 3541, 3553, 3568, 3573, 3583, 3584, 3590, 3595, 3598, 3541, 3620, 3632, 3637, 3641, 3649, 3654, 3657, 3667, 3671, 3677, 3678, 3680, 3713, 3729]
 ```
 
-2026-10-20 3,482 → 2026-11-22 3,713（+231）
+2026-10-21 3,482 → 2026-11-23 3,729（+247）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `5feb5575c74d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `80f791890a86` · [字段定义](../../DATASET.md)*

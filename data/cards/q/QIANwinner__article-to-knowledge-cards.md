@@ -1,6 +1,6 @@
 # QIANwinner/article-to-knowledge-cards
 
-⭐ 4 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/QIANwinner/article-to-knowledge-cards) · [官网](https://qianwinner.github.io/article-to-knowledge-cards/) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/QIANwinner/article-to-knowledge-cards) · [官网](https://qianwinner.github.io/article-to-knowledge-cards/) · 个人维护 · 中文 README
 
 **把文章/本地 Markdown 转成可溯源知识卡片的 Agent Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QIANwinner/article-to-knowledge-cards 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-20 3 → 2026-11-22 4（+1）
+2026-10-21 3 → 2026-11-23 4（+1）
 
 
 ---

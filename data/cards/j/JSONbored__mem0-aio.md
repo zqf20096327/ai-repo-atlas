@@ -1,6 +1,6 @@
 # JSONbored/mem0-aio
 
-⭐ 21 · Python · 推送 2026-11-21 · [GitHub](https://github.com/JSONbored/mem0-aio) · [官网](https://aethereal.dev) · 个人维护
+⭐ 21 · Python · 推送 2026-11-22 · [GitHub](https://github.com/JSONbored/mem0-aio) · [官网](https://aethereal.dev) · 个人维护
 
 **Mem0 OpenMemory 一体化自托管 Docker 部署（Unraid 优先）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JSONbored/mem0-aio 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-20 21 → 2026-11-22 21（+0）
+2026-10-21 21 → 2026-11-23 21（+0）
 
 
 ---

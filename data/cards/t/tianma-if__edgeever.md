@@ -1,10 +1,10 @@
 # tianma-if/edgeever
 
-⭐ 3,475 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/tianma-if/edgeever) · [官网](https://edgeever.org) · 个人维护 · 中文 README
+⭐ 3,495 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/tianma-if/edgeever) · [官网](https://edgeever.org) · 个人维护 · 中文 README
 
-**自托管/Serverless 知识库笔记，可接 AI Agent 与多端同步**
+**开源笔记与知识库应用：三栏工作流+AI Agent+多端同步**
 
-开源笔记与个人知识库工作台，保留三栏式（树目录·笔记列表·编辑器）布局，支持桌面/移动/网页多端即时同步与离线队列。部署方式：Cloudflare 免费额度（D1+R2，免服务器）或 Docker 自托管（VPS/NAS，amd64/arm64），数据为标准 SQLite，支持 ZIP 备份与 Markdown 导入导出。AI 部分为侧边栏助手（摘要/校对/翻译）、BYOK 兼容 OpenAI/Claude/Gemini、内置 MCP/ACP 协议、AI 多维表格与图表生成；另含浏览器剪藏扩展（20+ 平台深度结构化剪辑）与知识库一键发布。
+开源笔记与知识库工作区，保留树视图·笔记列表·编辑器的三栏布局，支持富文本/Markdown 双模式编辑、无限层级目录、全文检索、多模态笔记（表格/思维导图/Mermaid 图/海报）与 20+ 平台网页剪藏。AI 侧提供侧边栏助手（BYOK 接入 OpenAI/Anthropic/Gemini 等）、内置 MCP 与 ACP 协议、音视频转写。可免费部署于 Cloudflare 免费额度，或用 Docker 自托管于 VPS/NAS；提供 macOS/Windows/Linux/iOS/Android 客户端与浏览器剪藏扩展。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- Cloudflare 免费额度运行或 Docker 一键自托管（GHCR 镜像 + install.sh）
-- 内置 MCP 与 ACP 协议，供外部 Agent 读写及驱动本地编码 Agent
-- BYOK 兼容 OpenAI/Claude/Gemini 与自定义端点
-- 全平台客户端（macOS/Windows/Linux/iOS/Android）+ 浏览器剪藏扩展（20+ 平台）
+- Cloudflare 免费额度零服务器部署，或 Docker 自托管
+- 三栏工作流+富文本/Markdown 双模式编辑+毫秒级全文检索
+- 原生 MCP 与 ACP 协议，可驱动本地 Agent（Codex/Claude Code 等）
+- Evernote/Obsidian/Notion/SiYuan/flomo/Joplin 一键迁移导入
 
 ## 适用场景
 
-- 搭建免费的多端同步个人知识库，数据自己掌控
-- 让外部 AI Agent 通过 MCP 直接读写我的笔记库
-- 通过剪藏扩展从小红书、X、知乎等平台收集内容
+- 多设备即时同步的个人知识库
+- 网页内容剪藏与微信聊天记录归档到笔记
+- 通过对话生成思维导图/架构图/信息图
+- 把笔记本一键发布为静态知识库网站
 
 ## 场景标签
 
@@ -37,21 +38,22 @@
 
 ## 证据(README 行号)
 
-> L21: EdgeEver is a modern, open-source notes and knowledge base workspace. It preserves the classic, high-efficiency thr
-> L76: |**AI & Ecosystem**|• Companion sidebar AI assistant for summaries, proofreading & translations • BYOK (Bring Your 
+> L24: EdgeEver is a modern, open-source notes and knowledge base workspace. It preserves the classic, high-efficiency thr
+> L80: |**AI & Agent Collaboration**|• **Companion AI Assistant & BYOK**: Sidebar AI for summaries, proofreading, translat
+> L82: |**Multi-Device Sync & Self-Hosted Foundation**|• **Cross-Platform Instant Sync & Offline-First**: Official apps fo
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "tianma-if/edgeever 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2224 --> 3588
-    line [2337, 2441, 2489, 2525, 2539, 2744, 2895, 2936, 2993, 3026, 3048, 3058, 3071, 2539, 3167, 3189, 3206, 3218, 3231, 3243, 3252, 3278, 3328, 3392, 3436, 3458, 3475]
+    title "tianma-if/edgeever 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2222 --> 3610
+    line [2337, 2441, 2489, 2525, 2539, 2744, 2895, 2936, 2993, 3026, 3048, 3058, 3071, 2539, 3167, 3189, 3206, 3218, 3231, 3243, 3252, 3278, 3328, 3392, 3436, 3458, 3475, 3495]
 ```
 
-2026-10-20 2,337 → 2026-11-22 3,475（+1,138）
+2026-10-21 2,337 → 2026-11-23 3,495（+1,158）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `bef3a275c5a1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d7f3cf330899` · [字段定义](../../DATASET.md)*

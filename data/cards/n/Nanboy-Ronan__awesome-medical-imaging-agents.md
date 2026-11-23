@@ -1,6 +1,6 @@
 # Nanboy-Ronan/awesome-medical-imaging-agents
 
-⭐ 90 · Python · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents) · 个人维护
+⭐ 91 · Python · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents) · 个人维护
 
 **医学影像 AI agent 论文与系统策展清单（放射/病理/超声等）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nanboy-Ronan/awesome-medical-imaging-agents 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 70 --> 91
-    line [71, 74, 75, 77, 78, 79, 80, 77, 83, 86, 87, 89, 90]
+    title "Nanboy-Ronan/awesome-medical-imaging-agents 星数(近 14 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 69 --> 93
+    line [71, 74, 75, 77, 78, 79, 80, 77, 83, 86, 87, 89, 90, 91]
 ```
 
-2026-10-20 71 → 2026-11-22 90（+19）
+2026-10-21 71 → 2026-11-23 91（+20）
 
 
 ---

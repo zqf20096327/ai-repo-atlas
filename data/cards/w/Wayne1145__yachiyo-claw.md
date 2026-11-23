@@ -1,6 +1,6 @@
 # Wayne1145/yachiyo-claw
 
-⭐ 14 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Wayne1145/yachiyo-claw) · 组织维护 · 中文 README
+⭐ 14 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Wayne1145/yachiyo-claw) · 组织维护 · 中文 README
 
 **Android 端开源 AI 聊天与设备 Agent 应用，支持端侧模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Wayne1145/yachiyo-claw 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-11", "2026-11-23"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-20 13 → 2026-11-22 14（+1）
+2026-10-21 13 → 2026-11-23 14（+1）
 
 
 ---

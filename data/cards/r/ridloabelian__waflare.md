@@ -41,6 +41,18 @@
 > L13: Instead of gluing together separate bots for WhatsApp webhooks, MCP servers, CRM inboxes, Whisper voice transcripti
 > L31: |**4. Autonomous AI, `/sql` vs `/rag` & Vertical Skills**|`src/agents/orchestrator.ts`, `src/agents/memory.ts`, `sr
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ridloabelian/waflare 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-22 17 → 2026-11-23 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9784b195f056` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # aashir-athar/MiND-Shot
 
-⭐ 10 · Python · 推送 2026-11-21 · [GitHub](https://github.com/aashir-athar/MiND-Shot) · [官网](https://aashir-athar.github.io/MiND-Shot/) · 个人维护
+⭐ 10 · Python · 推送 2026-11-22 · [GitHub](https://github.com/aashir-athar/MiND-Shot) · [官网](https://aashir-athar.github.io/MiND-Shot/) · 个人维护
 
 **跑在 GitHub Actions 上的 BTC/ETH 加密货币交易信号引擎，推送 Telegram 提醒**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aashir-athar/MiND-Shot 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-22"]
+    x-axis ["2026-11-11", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-22 10（+0）
+2026-11-11 10 → 2026-11-23 10（+0）
 
 
 ---

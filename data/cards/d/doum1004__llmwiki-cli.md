@@ -1,6 +1,6 @@
 # doum1004/llmwiki-cli
 
-⭐ 104 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/doum1004/llmwiki-cli) · 个人维护
+⭐ 105 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/doum1004/llmwiki-cli) · 个人维护
 
 **供 LLM Agent 读写维基文件的命令行知识库工具**
 
@@ -45,12 +45,12 @@ npm 安装的 CLI，提供 wiki init/read/write/search/lint/links 等命令，�
 ```mermaid
 xychart-beta
     title "doum1004/llmwiki-cli 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 102 --> 105
-    line [103, 104, 104]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 102 --> 106
+    line [103, 104, 105]
 ```
 
-2026-10-19 103 → 2026-11-22 104（+1）
+2026-10-20 103 → 2026-11-23 105（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # starlinghq/starling
 
-⭐ 216 · C# · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/starlinghq/starling) · [官网](https://starling.rocks) · 组织维护
+⭐ 234 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/starlinghq/starling) · [官网](https://starling.rocks) · 组织维护
 
 **面向 .NET 开发者的本地 AI 模型 NuGet 包：免 Python 免 API key**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "starlinghq/starling 星数(近 8 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 0 --> 237
-    line [3, 95, 102, 143, 169, 168, 211, 216]
+    title "starlinghq/starling 星数(近 9 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 0 --> 257
+    line [3, 95, 102, 143, 169, 168, 211, 216, 234]
 ```
 
-2026-11-13 3 → 2026-11-22 216（+213）
+2026-11-13 3 → 2026-11-23 234（+231）
 
 
 ---

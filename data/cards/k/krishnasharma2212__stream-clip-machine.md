@@ -1,6 +1,6 @@
 # krishnasharma2212/stream-clip-machine
 
-⭐ 8 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/krishnasharma2212/stream-clip-machine) · [官网](https://krishnasharma.online) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/krishnasharma2212/stream-clip-machine) · [官网](https://krishnasharma.online) · 个人维护
 
 **全天监控直播聊天热点并用 Claude 剪成竖屏短视频自动发布**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "krishnasharma2212/stream-clip-machine 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 3 --> 9
-    line [4, 8]
+    title "krishnasharma2212/stream-clip-machine 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 13
+    line [4, 8, 12]
 ```
 
-2026-11-21 4 → 2026-11-22 8（+4）
+2026-11-21 4 → 2026-11-23 12（+8）
 
 
 ---

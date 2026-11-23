@@ -1,6 +1,6 @@
 # RegaLabs/lorasmith
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/RegaLabs/lorasmith) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/RegaLabs/lorasmith) · 个人维护
 
 **一条命令在自有数据上微调开源 LLM 的 Rust 工具**
 
@@ -40,6 +40,18 @@
 > L19: Training a LoRA adapter today means PyTorch, CUDA versions that have to line up, half a dozen Hugging Face librarie
 > L53: lorasmith train qwen2.5:0.5b pirate.jsonl
 > L137: When memory runs out, lorasmith says so and suggests, in this order: `--qlora`, `--batch-size 1`, a lower `--max-l
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "RegaLabs/lorasmith 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

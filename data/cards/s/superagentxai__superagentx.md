@@ -1,6 +1,6 @@
 # superagentxai/superagentx
 
-⭐ 210 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/superagentxai/superagentx) · [官网](https://superagentx.ai) · 组织维护
+⭐ 211 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/superagentxai/superagentx) · [官网](https://superagentx.ai) · 组织维护
 
 **开源模块化 agentic AI 框架：规划执行工作流并内置人工审批治理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "superagentxai/superagentx 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 201 --> 211
-    line [203, 202, 203, 202, 207, 208, 209, 210, 210]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 201 --> 212
+    line [203, 202, 203, 202, 207, 208, 209, 210, 211]
 ```
 
-2026-10-20 203 → 2026-11-22 210（+7）
+2026-10-21 203 → 2026-11-23 211（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # shang1626/hermes-dialog-app
 
-⭐ 3 · Kotlin · MIT · 推送 2026-11-08 · [GitHub](https://github.com/shang1626/hermes-dialog-app) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **自托管安卓客户端：连接自建 Hermes Agent 网关与 AI 助手对话**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

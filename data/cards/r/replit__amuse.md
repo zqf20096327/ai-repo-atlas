@@ -1,6 +1,6 @@
 # replit/amuse
 
-⭐ 123 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/replit/amuse) · 组织维护
+⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/replit/amuse) · 组织维护
 
 **自托管个人 AI agent：网页研究、实时浏览器、提醒与小应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "replit/amuse 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 100 --> 125
-    line [102, 123]
+    title "replit/amuse 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 98 --> 148
+    line [102, 123, 144]
 ```
 
-2026-11-21 102 → 2026-11-22 123（+21）
+2026-11-21 102 → 2026-11-23 144（+42）
 
 
 ---

@@ -1,6 +1,6 @@
 # chunxiaoxx/nautilus-compass
 
-⭐ 1,260 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/chunxiaoxx/nautilus-compass) · [官网](https://compass.nautilus.social) · 组织维护 · 中文 README
+⭐ 1,260 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/chunxiaoxx/nautilus-compass) · [官网](https://compass.nautilus.social) · 组织维护 · 中文 README
 
 **AI agent 的本地长期记忆与可靠性层（MCP 插件）**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "chunxiaoxx/nautilus-compass 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22"]
+    title "chunxiaoxx/nautilus-compass 星数(近 7 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-23"]
     y-axis "stars" 1253 --> 1261
-    line [1256, 1254, 1257, 1258, 1259, 1260]
+    line [1256, 1254, 1257, 1258, 1259, 1260, 1260]
 ```
 
-2026-10-20 1,256 → 2026-11-22 1,260（+4）
+2026-10-21 1,256 → 2026-11-23 1,260（+4）
 
 
 ---

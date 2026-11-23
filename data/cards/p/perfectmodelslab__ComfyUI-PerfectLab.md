@@ -1,6 +1,6 @@
 # perfectmodelslab/ComfyUI-PerfectLab
 
-⭐ 25 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) · [官网](https://registry.comfy.org/publishers/perfectmodelslab/nodes/comfyui-perfectlab) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) · [官网](https://registry.comfy.org/publishers/perfectmodelslab/nodes/comfyui-perfectlab) · 组织维护
 
 **ComfyUI 单节点摄影棚提示词构建器：一键生成多镜头拍摄提示词**
 
@@ -45,12 +45,12 @@ PerfectLab Studio 是一个 ComfyUI 自定义节点：在单一节点面板内�
 ```mermaid
 xychart-beta
     title "perfectmodelslab/ComfyUI-PerfectLab 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-13", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 20 --> 26
-    line [21, 22, 23, 24, 23, 22, 24, 25, 25]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-13", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 23, 24, 23, 22, 24, 25, 26]
 ```
 
-2026-10-20 21 → 2026-11-22 25（+4）
+2026-10-21 21 → 2026-11-23 26（+5）
 
 
 ---

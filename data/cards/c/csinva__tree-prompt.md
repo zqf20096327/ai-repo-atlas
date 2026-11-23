@@ -44,12 +44,12 @@ EMNLP 2023 论文 Tree Prompting 的官方代码：以 scikit-learn 风格接口
 ```mermaid
 xychart-beta
     title "csinva/tree-prompt 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-22"]
+    x-axis ["2026-11-11", "2026-11-23"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-11-11 41 → 2026-11-22 41（+0）
+2026-11-11 41 → 2026-11-23 41（+0）
 
 
 ---

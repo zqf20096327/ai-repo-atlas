@@ -1,6 +1,6 @@
 # Herenn/Infralens
 
-⭐ 76 · Go · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Herenn/Infralens) · 个人维护
+⭐ 77 · Go · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Herenn/Infralens) · 个人维护
 
 **eBPF 零侵入服务拓扑观测工具，附 AI 生成服务文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Herenn/Infralens 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 68 --> 77
-    line [70, 69, 70, 76, 76]
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 68 --> 78
+    line [70, 69, 70, 76, 77]
 ```
 
-2026-10-19 70 → 2026-11-22 76（+6）
+2026-10-20 70 → 2026-11-23 77（+7）
 
 
 ---

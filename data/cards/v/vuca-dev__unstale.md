@@ -1,6 +1,6 @@
 # vuca-dev/unstale
 
-⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/vuca-dev/unstale) · [官网](https://unstale.sh) · 组织维护
+⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/vuca-dev/unstale) · [官网](https://unstale.sh) · 组织维护
 
 **向编码 agent 通报所用依赖库的上游变更的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vuca-dev/unstale 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-22"]
+    x-axis ["2026-10-28", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-28 4 → 2026-11-22 4（+0）
+2026-10-28 4 → 2026-11-23 4（+0）
 
 
 ---

@@ -1,10 +1,10 @@
 # Zipstack/unstract
 
-⭐ 7,463 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Zipstack/unstract) · [官网](https://unstract.com) · 组织维护
+⭐ 7,465 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Zipstack/unstract) · [官网](https://unstract.com) · 组织维护
 
-**用 LLM 从非结构化文档抽取结构化 JSON 的平台，面向金融/保险/医疗团队**
+**用 LLM 将非结构化文档抽取为结构化 JSON 的平台**
 
-Unstract 通过自然语言 prompt 定义抽取 schema，用 LLM 从 PDF、图片、扫描件等文档生成结构化 JSON，可部署为 REST API 或 ETL 管道（源含 S3/GCS/Dropbox 等，目标含 Snowflake/BigQuery 等）。提供 Prompt Studio 界面、MCP Server 供 AI agent 接入、n8n 节点。支持 OpenAI/Anthropic/Bedrock/Ollama 等多种 LLM 提供商，本地运行需 Linux/macOS、Docker 与 8GB 内存，通过 git clone 加 run-platform.sh 启动。另有付费云/企业版（SSO、SOC 2 等）。
+Unstract 是一个文档抽取平台：通过自然语言提示定义抽取模式，将 PDF、图片、扫描件等文档转为结构化 JSON，可部署为 REST API 或 ETL 流水线。提供 Prompt Studio 定义抽取模式、MCP Server 连接 AI agents、n8n 节点接入自动化流程；支持多种 LLM 提供商、向量数据库、文本抽取器与数据仓库目的地。本地部署需 Docker Compose 与至少 8 GB 内存；另有面向企业的云托管版本。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Unstract 通过自然语言 prompt 定义抽取 schema，用 LLM 从 PDF、图�
 
 ## 能力要点
 
-- 自然语言 prompt 定义抽取 schema，输出 JSON
-- REST API 部署与 ETL 管道（多种云存储源与数据仓库目标）
-- 支持 OpenAI/Anthropic/Bedrock/Ollama 等 LLM 提供商及多种向量库
-- 提供 MCP Server 与 n8n 节点接入自动化流程
+- Prompt Studio 用自然语言定义文档抽取模式
+- REST API 与 ETL 流水线两种部署方式
+- MCP Server 连接 Claude 等 AI agents
+- 支持 OpenAI、Anthropic、Bedrock、Ollama 等多种 LLM 提供商
 
 ## 适用场景
 
-- 把 KYC/发票等 PDF 批量转为结构化数据入仓库
-- 在 ETL 流水线中自动抽取文档字段
-- 通过 API 向业务系统提供文档抽取服务
+- 把财务/保险/医疗类 PDF 文档批量抽取为 JSON 入库
+- 为 KYC 合规流程提供文档结构化接口
+- 从 S3/Google Drive 拉取文档抽取后写入 Snowflake/BigQuery
+- 通过 n8n 把文档抽取嵌入现有自动化工作流
 
 ## 场景标签
 
@@ -38,21 +39,21 @@ Unstract 通过自然语言 prompt 定义抽取 schema，用 LLM 从 PDF、图�
 ## 证据(README 行号)
 
 > L27: Unstract uses LLMs to extract structured JSON from documents — PDFs, images, scans, you name it. Define what you wa
-> L29: Built for teams in **finance**, **insurance**, **healthcare**, **KYC/compliance**, and much more.
-> L51: **API Deployment** — Send a document over REST API, get JSON back. Docs →
+> L37: |LLM integration|Build your own pipeline|Plug in any provider (OpenAI, Anthropic, Bedrock, Ollama)|
+> L49: Prompt Studio
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Zipstack/unstract 星数(近 24 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 7274 --> 7480
-    line [7291, 7296, 7297, 7296, 7297, 7299, 7302, 7347, 7353, 7358, 7375, 7391, 7296, 7433, 7441, 7443, 7445, 7448, 7450, 7455, 7457, 7459, 7461, 7463]
+    title "Zipstack/unstract 星数(近 25 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 7274 --> 7482
+    line [7291, 7296, 7297, 7296, 7297, 7299, 7302, 7347, 7353, 7358, 7375, 7391, 7296, 7433, 7441, 7443, 7445, 7448, 7450, 7455, 7457, 7459, 7461, 7463, 7465]
 ```
 
-2026-10-19 7,291 → 2026-11-22 7,463（+172）
+2026-10-20 7,291 → 2026-11-23 7,465（+174）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f9c835bc2221` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c2ae32be1824` · [字段定义](../../DATASET.md)*

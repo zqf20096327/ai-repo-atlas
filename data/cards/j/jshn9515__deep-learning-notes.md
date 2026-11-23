@@ -1,6 +1,6 @@
 # jshn9515/deep-learning-notes
 
-⭐ 79 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/jshn9515/deep-learning-notes) · [官网](https://jshn9515.github.io/deep-learning-notes/) · 个人维护 · 中文 README
+⭐ 78 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/jshn9515/deep-learning-notes) · [官网](https://jshn9515.github.io/deep-learning-notes/) · 个人维护 · 中文 README
 
 **个人深度学习学习笔记与教程，覆盖基础到 LLM 推理框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jshn9515/deep-learning-notes 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-23"]
     y-axis "stars" 76 --> 80
-    line [77, 78, 77, 78, 79, 78, 79, 79]
+    line [77, 78, 77, 78, 79, 78, 79, 78]
 ```
 
-2026-10-20 77 → 2026-11-22 79（+2）
+2026-10-21 77 → 2026-11-23 78（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # design-gurus/grokking-system-design
 
-⭐ 410 · CC-BY-4.0 · 推送 2026-11-21 · [GitHub](https://github.com/design-gurus/grokking-system-design) · [官网](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-system-design&utm_content=repo-homepage) · 组织维护
+⭐ 423 · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/design-gurus/grokking-system-design) · [官网](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-system-design&utm_content=repo-homepage) · 组织维护
 
 **面向系统设计面试的免费模式化学习知识库（30 模式/59 题）**
 
@@ -45,13 +45,13 @@ DesignGurus.io 维护的免费开源学习内容库，作为其付费课程 Grok
 
 ```mermaid
 xychart-beta
-    title "design-gurus/grokking-system-design 星数(近 23 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 340 --> 416
-    line [346, 350, 353, 354, 356, 358, 359, 361, 362, 354, 375, 380, 385, 387, 389, 391, 394, 396, 398, 397, 400, 401, 410]
+    title "design-gurus/grokking-system-design 星数(近 24 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 339 --> 430
+    line [346, 350, 353, 354, 356, 358, 359, 361, 362, 354, 375, 380, 385, 387, 389, 391, 394, 396, 398, 397, 400, 401, 410, 423]
 ```
 
-2026-10-19 346 → 2026-11-22 410（+64）
+2026-10-20 346 → 2026-11-23 423（+77）
 
 
 ---

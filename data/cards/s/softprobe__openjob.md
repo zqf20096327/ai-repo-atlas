@@ -1,6 +1,6 @@
 # softprobe/openjob
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/softprobe/openjob) · [官网](https://openjob.softprobe.ai) · 组织维护
+⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/softprobe/openjob) · [官网](https://openjob.softprobe.ai) · 组织维护
 
 **供 AI agent 读取的公开职位数据库与招聘板**
 
@@ -46,12 +46,12 @@ OpenJob 是一个面向 AI agent 的公开职位数据库：职位、人才档�
 ```mermaid
 xychart-beta
     title "softprobe/openjob 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-22 3（+0）
+2026-11-20 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # NHID-Clinical/NHID-Clinical
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NHID-Clinical/NHID-Clinical) · [官网](https://nhid-clinical.org/) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NHID-Clinical/NHID-Clinical) · [官网](https://nhid-clinical.org/) · 组织维护
 
 **医疗语音 AI 代理合规评测框架：检查来电代理是否先亮明 AI 身份**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NHID-Clinical/NHID-Clinical 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 11（+0）
 
 
 ---

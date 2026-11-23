@@ -1,6 +1,6 @@
 # demiralpdev/Caphlon-Model
 
-⭐ 19 · HTML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/demiralpdev/Caphlon-Model) · [官网](https://demiralpdev.github.io/Caphlon-Model/) · 个人维护
+⭐ 20 · HTML · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/demiralpdev/Caphlon-Model) · [官网](https://caphlon.dev) · 个人维护
 
 **Qwen 3.8 27B 的 6.87 GiB GGUF 轻量版模型权重**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "demiralpdev/Caphlon-Model 星数(近 6 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 3 --> 20
-    line [4, 10, 13, 18, 19, 19]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 3 --> 21
+    line [4, 10, 13, 18, 19, 20]
 ```
 
-2026-10-30 4 → 2026-11-22 19（+15）
+2026-10-30 4 → 2026-11-23 20（+16）
 
 
 ---

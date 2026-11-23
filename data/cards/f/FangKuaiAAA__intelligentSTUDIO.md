@@ -42,6 +42,18 @@
 > L15: 核心助手名为 **Dony**——一个实时唤醒、可操作系统级任务的 Agent，支持快速模式与任务模式，优先通过 Windows API、Shell、MCP 等直接型操作完成任务，而非间接的 GUI 点击。
 > L21: ||**Dony 系统级助手**|`Alt+Space` 唤醒键入模式、`Alt+D` 唤醒语音模式（通知中心菜单），唤醒动画为类似 Apple 智能的彩虹跑马灯；通过 Function Calling 调用工具，完成文件读写、应
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FangKuaiAAA/intelligentSTUDIO 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-22 14 → 2026-11-23 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6b7cbde2d36f` · [字段定义](../../DATASET.md)*

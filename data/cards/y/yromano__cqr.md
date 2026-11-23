@@ -1,6 +1,6 @@
 # yromano/cqr
 
-⭐ 324 · Jupyter Notebook · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/yromano/cqr) · [官网](https://sites.google.com/view/cqr) · 个人维护
+⭐ 325 · Jupyter Notebook · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/yromano/cqr) · [官网](https://sites.google.com/view/cqr) · 个人维护
 
 **Python 实现的保形化分位数回归预测区间构建库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "yromano/cqr 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 318 --> 325
-    line [319, 320, 319, 320, 321, 323, 324, 324]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23"]
+    y-axis "stars" 318 --> 326
+    line [319, 320, 319, 320, 321, 323, 324, 325]
 ```
 
-2026-10-20 319 → 2026-11-22 324（+5）
+2026-10-21 319 → 2026-11-23 325（+6）
 
 
 ---

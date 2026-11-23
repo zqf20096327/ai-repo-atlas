@@ -46,12 +46,12 @@ Girth 是一个 Rust 编写的 CLI 与 Agent Skills 技能：任务进行时按�
 ```mermaid
 xychart-beta
     title "mohessaid/girth 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-20 4 → 2026-11-22 4（+0）
+2026-10-21 4 → 2026-11-23 4（+0）
 
 
 ---

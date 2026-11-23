@@ -1,6 +1,6 @@
 # nothing0here/humanizer-zh
 
-⭐ 14 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/nothing0here/humanizer-zh) · 个人维护 · 中文 README
+⭐ 16 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/nothing0here/humanizer-zh) · 个人维护 · 中文 README
 
 **去除中文文本“AI味”的 Agent 技能（SKILL.md 提示词规范）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nothing0here/humanizer-zh 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 13, 14, 14]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 14, 16]
 ```
 
-2026-11-10 11 → 2026-11-22 14（+3）
+2026-11-10 11 → 2026-11-23 16（+5）
 
 
 ---

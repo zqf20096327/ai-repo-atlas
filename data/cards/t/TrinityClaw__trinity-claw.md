@@ -1,6 +1,6 @@
 # TrinityClaw/trinity-claw
 
-⭐ 12 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/TrinityClaw/trinity-claw) · [官网](https://trinityclaw.com) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TrinityClaw/trinity-claw) · [官网](https://trinityclaw.com) · 个人维护
 
 **本地自托管的自改进 AI agent：思考、执行任务、记忆持久化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TrinityClaw/trinity-claw 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-20 11 → 2026-11-22 12（+1）
+2026-10-21 11 → 2026-11-23 12（+1）
 
 
 ---

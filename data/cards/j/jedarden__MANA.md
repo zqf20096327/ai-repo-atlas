@@ -1,6 +1,6 @@
 # jedarden/MANA
 
-⭐ 10 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/jedarden/MANA) · [官网](https://jedarden.com/projects/mana/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Claude Code 提供模式记忆与上下文注入的 Rust 工具**
 
@@ -11,7 +11,7 @@ Rust 编写的 CLI 与后台守护进程，通过 Claude Code 的 hook 系统工
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

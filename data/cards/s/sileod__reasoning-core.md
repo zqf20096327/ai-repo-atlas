@@ -1,6 +1,6 @@
 # sileod/reasoning-core
 
-⭐ 53 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sileod/reasoning-core) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sileod/reasoning-core) · 个人维护
 
 **程序化生成可验证推理数据的 Python 库：面向预训练/后训练/评测/RL**
 
@@ -46,12 +46,12 @@ Reasoning Core 以 Python 库形式程序化生成一阶逻辑、符号数学、
 ```mermaid
 xychart-beta
     title "sileod/reasoning-core 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53, 53]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 50 --> 55
+    line [51, 52, 53, 54]
 ```
 
-2026-10-19 51 → 2026-11-22 53（+2）
+2026-10-20 51 → 2026-11-23 54（+3）
 
 
 ---

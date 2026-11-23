@@ -1,6 +1,6 @@
 # llm-d/llm-d.github.io
 
-⭐ 12 · MDX · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/llm-d/llm-d.github.io) · [官网](https://llm-d.ai) · 组织维护
+⭐ 12 · MDX · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/llm-d/llm-d.github.io) · [官网](https://llm-d.ai) · 组织维护
 
 **llm-d 项目官网与文档站（llm-d.ai）的源码仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "llm-d/llm-d.github.io 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ricardocabral/icuvisor
 
-⭐ 41 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ricardocabral/icuvisor) · [官网](https://icuvisor.app/) · 个人维护
+⭐ 42 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ricardocabral/icuvisor) · [官网](https://icuvisor.app/) · 个人维护
 
 **连接 AI 客户端与 intervals.icu 训练数据的本地 MCP 服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ricardocabral/icuvisor 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-23"]
     y-axis "stars" 39 --> 43
-    line [40, 41, 42, 41, 41]
+    line [40, 41, 42, 41, 42]
 ```
 
-2026-10-20 40 → 2026-11-22 41（+1）
+2026-10-21 40 → 2026-11-23 42（+2）
 
 
 ---

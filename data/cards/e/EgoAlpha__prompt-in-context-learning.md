@@ -1,6 +1,6 @@
 # EgoAlpha/prompt-in-context-learning
 
-⭐ 2,251 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护 · 中文 README
+⭐ 2,251 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护 · 中文 README
 
 **上下文学习与提示工程的开源资源清单：论文、提示技术与LLM使用指南**
 
@@ -46,12 +46,12 @@ EgoAlpha Lab 维护的 Awesome 类资源汇编，按 Papers、Playground、Promp
 ```mermaid
 xychart-beta
     title "EgoAlpha/prompt-in-context-learning 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2246 --> 2254
     line [2247, 2249, 2248, 2249, 2250, 2251, 2248, 2250, 2251, 2252, 2253, 2251, 2251]
 ```
 
-2026-10-20 2,247 → 2026-11-22 2,251（+4）
+2026-10-21 2,247 → 2026-11-23 2,251（+4）
 
 
 ---

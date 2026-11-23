@@ -1,6 +1,6 @@
 # Sillyanonymous/SillyTavern-CharacterLibrary
 
-⭐ 172 · JavaScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Sillyanonymous/SillyTavern-CharacterLibrary) · [官网](https://discord.gg/YpWrpqT4DF) · 个人维护
+⭐ 174 · JavaScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Sillyanonymous/SillyTavern-CharacterLibrary) · [官网](https://discord.gg/YpWrpqT4DF) · 个人维护
 
 **SillyTavern 角色卡库管理扩展：发现、整理与管理角色库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sillyanonymous/SillyTavern-CharacterLibrary 星数(近 11 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 161 --> 173
-    line [162, 163, 164, 166, 167, 168, 169, 168, 169, 171, 172]
+    title "Sillyanonymous/SillyTavern-CharacterLibrary 星数(近 12 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 161 --> 175
+    line [162, 163, 164, 166, 167, 168, 169, 168, 169, 171, 172, 174]
 ```
 
-2026-11-08 162 → 2026-11-22 172（+10）
+2026-11-08 162 → 2026-11-23 174（+12）
 
 
 ---

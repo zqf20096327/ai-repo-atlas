@@ -1,6 +1,6 @@
 # EL4CTEO/godot-skills
 
-⭐ 32 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EL4CTEO/godot-skills) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EL4CTEO/godot-skills) · 个人维护
 
 **面向 AI 编码 agent 的 Godot 4.7 技能包（18 个）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EL4CTEO/godot-skills 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 34
-    line [4, 19, 32]
+    title "EL4CTEO/godot-skills 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 1 --> 41
+    line [4, 19, 32, 38]
 ```
 
-2026-11-20 4 → 2026-11-22 32（+28）
+2026-11-20 4 → 2026-11-23 38（+34）
 
 
 ---

@@ -1,6 +1,6 @@
 # gravion-ux/gravion-trainner
 
-⭐ 3 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/gravion-ux/gravion-trainner) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravion-ux/gravion-trainner) · 组织维护
 
 **对 OpenAI 兼容端点运行 JSONL 数据集评测的启发式冒烟测试工具**
 
@@ -39,6 +39,18 @@
 
 > L3: Model quality evaluation starter for OpenAI-compatible chat-completions endpoints (including compatible local runtim
 > L12: python -m gravion_trainner.cli evaluate --dataset data/sample.jsonl --output reports/report.json
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/gravion-trainner 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

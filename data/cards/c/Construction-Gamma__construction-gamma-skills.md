@@ -1,6 +1,6 @@
 # Construction-Gamma/construction-gamma-skills
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-02-28 · [GitHub](https://github.com/Construction-Gamma/construction-gamma-skills) · [官网](https://constructiongamma.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向建筑项目经理的 Claude 技能库：47 个领域技能加 5 个命令**
 
@@ -11,7 +11,7 @@ Construction Gamma 维护的建筑管理 Claude Cowork 技能库：包含 47 个
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

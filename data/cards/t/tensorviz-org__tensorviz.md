@@ -1,6 +1,6 @@
 # tensorviz-org/tensorviz
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tensorviz-org/tensorviz) · [官网](https://tensorviz.dev) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tensorviz-org/tensorviz) · [官网](https://tensorviz.dev) · 组织维护
 
 **给 PyTorch/JAX 开发者把模型可视化为交互式计算图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tensorviz-org/tensorviz 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 9
-    line [3, 7, 8]
+    title "tensorviz-org/tensorviz 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 11
+    line [3, 7, 8, 10]
 ```
 
-2026-11-20 3 → 2026-11-22 8（+5）
+2026-11-20 3 → 2026-11-23 10（+7）
 
 
 ---

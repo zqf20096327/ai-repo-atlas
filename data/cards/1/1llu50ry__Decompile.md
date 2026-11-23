@@ -1,6 +1,6 @@
 # 1llu50ry/Decompile
 
-⭐ 587 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/1llu50ry/Decompile) · [官网](https://github.com/1llu50ry/Decompile) · 个人维护
+⭐ 598 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/1llu50ry/Decompile) · [官网](https://github.com/1llu50ry/Decompile) · 个人维护
 
 **面向逆向工程/游戏安全的 MCP 服务器：聚合 RE 工具与 6000+ 技能库**
 
@@ -41,6 +41,18 @@
 > L3: ### One MCP for reverse engineering across binaries, applications, and runtime behavior.
 > L21: 1. **Aggregates 60+ RE / debug MCP backends** behind one connection — `smart_decompile` picks IDA when running, fal
 > L25: 5. **Ships a one-shot CLI** (`decompile setup`, `decompile analyze <path>`, `decompile capabilities`, `decompile do
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "1llu50ry/Decompile 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 586 --> 599
+    line [587, 598]
+```
+
+2026-11-22 587 → 2026-11-23 598（+11）
 
 
 ---

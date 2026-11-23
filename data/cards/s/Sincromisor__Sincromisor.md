@@ -1,6 +1,6 @@
 # Sincromisor/Sincromisor
 
-⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Sincromisor/Sincromisor) · 组织维护 · 中文 README
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Sincromisor/Sincromisor) · 组织维护 · 中文 README
 
 **自托管 Web 服务基盘：浏览器中与 3D 角色语音对话/变声直播**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sincromisor/Sincromisor 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-19 25 → 2026-11-22 25（+0）
+2026-10-20 25 → 2026-11-23 25（+0）
 
 
 ---

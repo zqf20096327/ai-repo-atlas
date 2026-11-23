@@ -1,6 +1,6 @@
 # mariadb-operator/mariadb-operator
 
-⭐ 1,038 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mariadb-operator/mariadb-operator) · [官网](https://github.com/mariadb-operator/mariadb-operator/blob/main/docs/README.md) · 组织维护
+⭐ 1,039 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mariadb-operator/mariadb-operator) · [官网](https://github.com/mariadb-operator/mariadb-operator/blob/main/docs/README.md) · 组织维护
 
 **Kubernetes 上以 CRD 声明式运维 MariaDB 的 operator**
 
@@ -45,12 +45,12 @@ mariadb-operator 是一个用 Go 编写的 Kubernetes operator，通过自定义
 ```mermaid
 xychart-beta
     title "mariadb-operator/mariadb-operator 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 1026 --> 1040
-    line [1027, 1028, 1030, 1032, 1027, 1034, 1035, 1036, 1037, 1038, 1039, 1038, 1038]
+    line [1027, 1028, 1030, 1032, 1027, 1034, 1035, 1036, 1037, 1038, 1039, 1038, 1039]
 ```
 
-2026-10-20 1,027 → 2026-11-22 1,038（+11）
+2026-10-21 1,027 → 2026-11-23 1,039（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # OpenVanguard/remma-o1
 
-⭐ 34 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/OpenVanguard/remma-o1) · [官网](https://remma-o1-landing-page.vercel.app/) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/OpenVanguard/remma-o1) · [官网](https://remma-o1-landing-page.vercel.app/) · 组织维护
 
 **1.17B 参数开源小语言模型（从零用 PyTorch 构建）**
 
@@ -45,12 +45,12 @@ OpenVanguard 发起的开源小语言模型项目，参数量 1177.79M，用 PyT
 ```mermaid
 xychart-beta
     title "OpenVanguard/remma-o1 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-19 34 → 2026-11-22 34（+0）
+2026-10-20 34 → 2026-11-23 35（+1）
 
 
 ---

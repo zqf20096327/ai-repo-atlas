@@ -1,6 +1,6 @@
 # WestWaters/hermes-live-translator
 
-⭐ 12 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/WestWaters/hermes-live-translator) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/WestWaters/hermes-live-translator) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 个人维护
 
 **本地运行的实时通话翻译器：双方各听母语、保留原声**
 
@@ -41,6 +41,18 @@ Hermes Agent 插件与桌面应用，在本地执行识别、翻译、语音合�
 > L3: **Talk to anyone, in any language, live — in their own voice.**
 > L14: Someone speaks Chinese. You hear Spanish, a couple of seconds later, in **their** voice. You answer in Spanish;
 > L90:   vad --> asr[Hearing<br/>Qwen3-ASR · Whisper]
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WestWaters/hermes-live-translator 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 11 --> 16
+    line [12, 15]
+```
+
+2026-11-22 12 → 2026-11-23 15（+3）
 
 
 ---

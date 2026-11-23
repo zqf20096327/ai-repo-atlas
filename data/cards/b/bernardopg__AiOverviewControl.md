@@ -1,6 +1,6 @@
 # bernardopg/AiOverviewControl
 
-⭐ 37 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bernardopg/AiOverviewControl) · [官网](https://duxlabs.dev/plugins) · 个人维护 · 中文 README
+⭐ 37 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bernardopg/AiOverviewControl) · [官网](https://duxlabs.dev/plugins) · 个人维护 · 中文 README
 
 **Dank Material Shell 插件：在桌面栏统一查看 39 家 AI 服务的配额与用量**
 
@@ -46,12 +46,12 @@ Qt/Quickshell 编写的 DankMaterialShell（DMS）插件，面向 Linux 桌面�
 ```mermaid
 xychart-beta
     title "bernardopg/AiOverviewControl 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-23"]
     y-axis "stars" 23 --> 39
     line [24, 26, 28, 30, 26, 32, 34, 37, 38, 37, 37]
 ```
 
-2026-10-20 24 → 2026-11-22 37（+13）
+2026-10-21 24 → 2026-11-23 37（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # atlasmarkz/tacc-agentforge
 
-⭐ 3 · Python · 推送 2026-11-21 · [GitHub](https://github.com/atlasmarkz/tacc-agentforge) · [官网](https://tacc-agentforge.pages.dev) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/atlasmarkz/tacc-agentforge) · [官网](https://tacc-agentforge.pages.dev) · 个人维护
 
 **基于 TACC 集群与量化 27B 模型的购物推荐 agent（课程项目）**
 
@@ -11,7 +11,7 @@ CSIT6000V 课程项目：用户描述需求与预算，agent 在带来源链接�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ CSIT6000V 课程项目：用户描述需求与预算，agent 在带来源链接�
 ```mermaid
 xychart-beta
     title "atlasmarkz/tacc-agentforge 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-22 3（+0）
+2026-11-08 3 → 2026-11-23 3（+0）
 
 
 ---

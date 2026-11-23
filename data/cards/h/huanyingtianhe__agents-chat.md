@@ -1,6 +1,6 @@
 # huanyingtianhe/agents-chat
 
-⭐ 26 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/huanyingtianhe/agents-chat) · [官网](https://wljytt.japaneast.cloudapp.azure.com/) · 个人维护
+⭐ 27 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/huanyingtianhe/agents-chat) · [官网](https://wljytt.japaneast.cloudapp.azure.com/) · 个人维护
 
 **多 AI agent 聊天与编排界面，直连 ACP 协议 CLI agent**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "huanyingtianhe/agents-chat 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-20 26 → 2026-11-22 26（+0）
+2026-10-21 26 → 2026-11-23 27（+1）
 
 
 ---

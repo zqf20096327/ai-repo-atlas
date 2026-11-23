@@ -1,6 +1,6 @@
 # datallmhub/agentflow4j
 
-⭐ 50 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/datallmhub/agentflow4j) · [官网](https://datallmhub.github.io/agentflow4j/) · 组织维护
+⭐ 51 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/datallmhub/agentflow4j) · [官网](https://datallmhub.github.io/agentflow4j/) · 组织维护
 
 **JVM 上的治理型多智能体框架与运行时**
 
@@ -41,6 +41,18 @@
 > L5: AF4J is a framework and runtime for governed, stateful multi-agent systems on the JVM.
 > L7: Human approvals · Checkpoints · Budget controls · Tool policies · Durable execution
 > L15: - Run natively on the JVM and Spring ecosystem
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datallmhub/agentflow4j 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
+```
+
+2026-11-22 50 → 2026-11-23 51（+1）
 
 
 ---

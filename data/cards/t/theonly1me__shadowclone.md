@@ -1,6 +1,6 @@
 # theonly1me/shadowclone
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/theonly1me/shadowclone) · [官网](https://shadowclone.co) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/theonly1me/shadowclone) · [官网](https://shadowclone.co) · 个人维护
 
 **统一管理并分发个人编码规范技能到多种编码 agent 的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "theonly1me/shadowclone 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 20 --> 28
-    line [21, 22, 23, 21, 25, 26, 27]
+    title "theonly1me/shadowclone 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 20 --> 29
+    line [21, 22, 23, 21, 25, 26, 27, 28]
 ```
 
-2026-10-19 21 → 2026-11-22 27（+6）
+2026-10-20 21 → 2026-11-23 28（+7）
 
 
 ---

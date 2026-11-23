@@ -1,6 +1,6 @@
 # tgel0/crssnt
 
-⭐ 97 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/tgel0/crssnt) · [官网](https://crssnt.com) · 个人维护
+⭐ 97 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tgel0/crssnt) · [官网](https://crssnt.com) · 个人维护
 
 **把 RSS/Atom 订阅源转换为 LLM 友好 Markdown/JSON 的 API 服务**
 
@@ -45,12 +45,12 @@ crssnt 是开源的 feed 转换服务：读取 RSS/Atom 订阅源 URL（最多 1
 ```mermaid
 xychart-beta
     title "tgel0/crssnt 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-19 97 → 2026-11-22 97（+0）
+2026-10-20 97 → 2026-11-23 97（+0）
 
 
 ---

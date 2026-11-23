@@ -1,6 +1,6 @@
 # tattn/LocalLLMClient
 
-⭐ 219 · Swift · MIT · 推送 2026-08-26 · [GitHub](https://github.com/tattn/LocalLLMClient) · 个人维护
+⭐ 220 · Swift · MIT · 推送 2026-08-26 · [GitHub](https://github.com/tattn/LocalLLMClient) · 个人维护
 
 **Swift 包：在 iOS/macOS/Linux 上运行本地 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tattn/LocalLLMClient 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 218 --> 220
-    line [219, 219]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 218 --> 221
+    line [219, 220]
 ```
 
-2026-10-19 219 → 2026-11-22 219（+0）
+2026-10-20 219 → 2026-11-23 220（+1）
 
 
 ---

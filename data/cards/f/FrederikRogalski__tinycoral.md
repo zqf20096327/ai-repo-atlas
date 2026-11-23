@@ -1,6 +1,6 @@
 # FrederikRogalski/tinycoral
 
-⭐ 19 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/FrederikRogalski/tinycoral) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/FrederikRogalski/tinycoral) · 个人维护
 
 **让 tinygrad 模型直接跑在 Coral Edge TPU 上的编译器与驱动**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FrederikRogalski/tinycoral 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 16 --> 20
-    line [17, 19, 17, 19, 19]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 16 --> 21
+    line [17, 19, 17, 19, 20]
 ```
 
-2026-10-20 17 → 2026-11-22 19（+2）
+2026-10-21 17 → 2026-11-23 20（+3）
 
 
 ---

@@ -1,10 +1,10 @@
 # modelcontextprotocol/ext-apps
 
-⭐ 3,130 · TypeScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/modelcontextprotocol/ext-apps) · [官网](https://apps.extensions.modelcontextprotocol.io/) · 组织维护
+⭐ 3,137 · TypeScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/modelcontextprotocol/ext-apps) · [官网](https://apps.extensions.modelcontextprotocol.io/) · 组织维护
 
-**MCP Apps 协议规范与 SDK：让 MCP 工具在聊天客户端内渲染交互 UI**
+**为 MCP 工具构建内嵌聊天界面交互 UI 的协议规范与 SDK**
 
-Model Context Protocol 官方的扩展协议仓库，包含 MCP Apps 规范与 TypeScript SDK：允许 MCP 工具声明 ui:// HTML 资源，由宿主客户端在对话内以沙箱 iframe 渲染图表、表单、仪表盘等交互界面，并通过通知与工具调用双向通信。SDK 面向三类角色——应用开发者（构建 View）、宿主开发者（嵌入 View）、MCP 服务器作者（注册带 UI 元数据的工具）。要求 Node.js 20+，附参考宿主 basic-host、多个示例与四个 Agent Skills 用于脚手架生成与迁移。
+MCP Apps 是 MCP 协议的扩展规范与配套 SDK，用于让 MCP 工具通过 `ui://` 资源声明交互式界面（图表、表单、仪表盘等），在支持规范的宿主客户端中以沙箱 iframe 内联渲染，并与宿主双向通信、调用其他工具。面向三类角色：构建 View 的应用开发者、嵌入 View 的宿主开发者、注册带 UI 元数据工具的 MCP 服务器作者。仓库附带四个 Agent Skills 供 AI 编码代理脚手架或迁移应用，示例可用 basic-host 参考宿主或 stdio 客户端运行。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Model Context Protocol 官方的扩展协议仓库，包含 MCP Apps 规范与 T
 
 ## 能力要点
 
-- 工具声明 ui:// 资源，宿主在沙箱 iframe 中内联渲染交互 UI
-- 四包 SDK 覆盖 View 构建、React hooks、宿主桥接与服务器注册
-- 四个 Agent Skills 支持新建、从 OpenAI Apps 迁移、为 MCP 服务器加 UI、Web 应用混合化
-- 规范含 2026-01-26 稳定版与草案版
+- tools 通过 ui:// 资源声明 HTML 界面，宿主以沙箱 iframe 渲染
+- SDK 覆盖 View 构建（App 类、React hooks）、宿主嵌入（app-bridge）、服务器端工具注册
+- 提供 4 个 Agent Skills（create-mcp-app / migrate-oai-app / add-app-to-server / convert-web-app）
+- 含规范文档（2026-01-26 Stable 与 draft 版本）及多种示例应用与多框架模板
 
 ## 适用场景
 
-- 为我的 MCP 服务器工具添加内联交互界面（图表、表单、画布）
-- 在我的聊天客户端中嵌入并渲染 MCP Apps View
-- 把现有 Web 应用转换为混合 web + MCP App
+- 为 MCP 服务器工具添加可在聊天中内联渲染的图表/表单 UI
+- 在支持规范的宿主客户端中嵌入第三方工具的交互界面
+- 借助 AI 编码代理脚手架新的 MCP App 或迁移现有 Web/OpenAI App
 
 ## 场景标签
 
- · 领域:LLM 基础设施/MCP 协议
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L83: MCP Apps provide a standardized way to deliver interactive UIs from MCP servers.
-> L88: MCP Apps extend the Model Context Protocol by letting tools declare UI
 > L135: The SDK serves three roles: app developers building interactive Views, host
+> L101: Requires Node.js 20+. The base MCP SDK packages are `^2.0.0` peers of
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "modelcontextprotocol/ext-apps 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2965 --> 3145
-    line [2980, 2992, 2997, 3003, 3005, 3007, 3008, 3012, 3017, 3025, 3028, 3030, 3032, 3005, 3061, 3070, 3078, 3088, 3095, 3097, 3102, 3106, 3112, 3118, 3122, 3129, 3130]
+    title "modelcontextprotocol/ext-apps 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2965 --> 3152
+    line [2980, 2992, 2997, 3003, 3005, 3007, 3008, 3012, 3017, 3025, 3028, 3030, 3032, 3005, 3061, 3070, 3078, 3088, 3095, 3097, 3102, 3106, 3112, 3118, 3122, 3129, 3130, 3137]
 ```
 
-2026-10-20 2,980 → 2026-11-22 3,130（+150）
+2026-10-21 2,980 → 2026-11-23 3,137（+157）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `6d4cc29ad2f5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `86f2bed2d5d6` · [字段定义](../../DATASET.md)*

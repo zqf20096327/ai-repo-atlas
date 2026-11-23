@@ -1,6 +1,6 @@
 # janishar/h3c-studio
 
-⭐ 20 · Go · MIT · 推送 2026-10-13 · [GitHub](https://github.com/janishar/h3c-studio) · 个人维护
+⭐ 20 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/janishar/h3c-studio) · 个人维护
 
 **在 Apple Silicon 上本地驱动 h3.c 生成 MiniMax-H3 视频音频的 Web 工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "janishar/h3c-studio 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-23"]
     y-axis "stars" 13 --> 21
     line [14, 16, 18, 19, 20, 20]
 ```
 
-2026-10-20 14 → 2026-11-22 20（+6）
+2026-10-21 14 → 2026-11-23 20（+6）
 
 
 ---

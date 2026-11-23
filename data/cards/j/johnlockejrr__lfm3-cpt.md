@@ -1,6 +1,6 @@
 # johnlockejrr/lfm3-cpt
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/johnlockejrr/lfm3-cpt) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/johnlockejrr/lfm3-cpt) · 个人维护
 
 **面向开发者的 LFM3 模型土耳其语继续预训练 CLI 工具**
 
@@ -39,6 +39,18 @@
 
 > L4: TRL + LoRA, turned from the Liquid cookbook notebook into a CLI project. It has a live Rich training dashboard,
 > L62: |`info`|CUDA/ROCm detection, memory, bf16/TF32, library versions, suggested profile|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "johnlockejrr/lfm3-cpt 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

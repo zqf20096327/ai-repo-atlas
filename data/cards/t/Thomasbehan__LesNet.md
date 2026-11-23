@@ -1,6 +1,6 @@
 # Thomasbehan/LesNet
 
-⭐ 18 · Python · MPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Thomasbehan/LesNet) · 个人维护
+⭐ 18 · Python · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Thomasbehan/LesNet) · 个人维护
 
 **开源深度学习皮肤病变分类工具，用于皮肤癌分诊研究**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Thomasbehan/LesNet 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-20 18 → 2026-11-22 18（+0）
+2026-10-21 18 → 2026-11-23 18（+0）
 
 
 ---

@@ -47,12 +47,12 @@ Saturn 定义了一个 mDNS/DNS-SD 服务类型 `_saturn._tcp.local.` 的协议�
 ```mermaid
 xychart-beta
     title "jperrello/Saturn 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

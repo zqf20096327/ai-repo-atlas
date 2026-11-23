@@ -1,6 +1,6 @@
 # aoreshkov/oracle-forms-mcp
 
-⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/aoreshkov/oracle-forms-mcp) · [官网](https://registry.modelcontextprotocol.io/) · 个人维护
+⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aoreshkov/oracle-forms-mcp) · [官网](https://registry.modelcontextprotocol.io/) · 个人维护
 
 **把 Oracle Forms 模块内容暴露给 AI 助手的 MCP 服务器**
 
@@ -46,12 +46,12 @@ MCP 服务器，扫描目录中的 Oracle Forms 二进制模块（.fmb/.mmb/.pll
 ```mermaid
 xychart-beta
     title "aoreshkov/oracle-forms-mcp 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-22 10（+0）
+2026-11-10 10 → 2026-11-23 10（+0）
 
 
 ---

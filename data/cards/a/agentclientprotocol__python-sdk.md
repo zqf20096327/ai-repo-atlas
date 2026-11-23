@@ -1,6 +1,6 @@
 # agentclientprotocol/python-sdk
 
-⭐ 352 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/agentclientprotocol/python-sdk) · [官网](https://agentclientprotocol.github.io/python-sdk/) · 组织维护
+⭐ 354 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/agentclientprotocol/python-sdk) · [官网](https://agentclientprotocol.github.io/python-sdk/) · 组织维护
 
 **Agent Client Protocol 的 Python SDK：构建 ACP 客户端与 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentclientprotocol/python-sdk 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 338 --> 353
-    line [339, 340, 341, 342, 343, 344, 341, 346, 347, 348, 349, 352, 352]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 338 --> 355
+    line [339, 340, 341, 342, 343, 344, 341, 346, 347, 348, 349, 352, 354]
 ```
 
-2026-10-20 339 → 2026-11-22 352（+13）
+2026-10-21 339 → 2026-11-23 354（+15）
 
 
 ---

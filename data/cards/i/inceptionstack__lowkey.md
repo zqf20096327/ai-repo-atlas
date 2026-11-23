@@ -1,6 +1,6 @@
 # inceptionstack/lowkey
 
-⭐ 74 · Shell · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/inceptionstack/lowkey) · 组织维护
+⭐ 74 · Shell · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/inceptionstack/lowkey) · 组织维护
 
 **把多种自托管 AI 编程 Agent 一键部署到 AWS 的安装器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "inceptionstack/lowkey 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 72 --> 75
     line [73, 74, 73, 74, 74]
 ```
 
-2026-10-20 73 → 2026-11-22 74（+1）
+2026-10-21 73 → 2026-11-23 74（+1）
 
 
 ---

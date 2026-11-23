@@ -1,6 +1,6 @@
 # jeremiebergel/context-manager-intelligence
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jeremiebergel/context-manager-intelligence) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jeremiebergel/context-manager-intelligence) · 个人维护
 
 **本地代理：压缩编码 agent 上下文，延长订阅用量降低 API 账单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jeremiebergel/context-manager-intelligence 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-23"]
     y-axis "stars" 3 --> 12
-    line [4, 8, 9, 10, 11, 11]
+    line [4, 8, 9, 10, 11, 10]
 ```
 
-2026-11-10 4 → 2026-11-22 11（+7）
+2026-11-10 4 → 2026-11-23 10（+6）
 
 
 ---

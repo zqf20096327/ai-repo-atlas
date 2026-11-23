@@ -1,6 +1,6 @@
 # js05212/BayesianDeepLearning-Survey
 
-⭐ 523 · 推送 2026-07-04 · [GitHub](https://github.com/js05212/BayesianDeepLearning-Survey) · 个人维护
+⭐ 522 · 推送 2026-07-04 · [GitHub](https://github.com/js05212/BayesianDeepLearning-Survey) · 个人维护
 
 **贝叶斯深度学习论文综述清单：按领域持续更新收录 BDL 论文**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "js05212/BayesianDeepLearning-Survey 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 522 --> 524
-    line [523, 523]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 521 --> 524
+    line [523, 522]
 ```
 
-2026-10-20 523 → 2026-11-22 523（+0）
+2026-10-21 523 → 2026-11-23 522（-1）
 
 
 ---

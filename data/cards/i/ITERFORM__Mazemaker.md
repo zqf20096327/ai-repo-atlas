@@ -41,6 +41,18 @@
 > L203: |MCP tools|✅|✅|
 > L249: |`docs/mcp-tools.md`|Nine tools, input/output JSON, integration shapes, quick-starts|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ITERFORM/Mazemaker 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 53 --> 55
+    line [54, 54]
+```
+
+2026-11-22 54 → 2026-11-23 54（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `41894157c908` · [字段定义](../../DATASET.md)*

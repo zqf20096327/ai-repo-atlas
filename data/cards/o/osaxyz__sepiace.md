@@ -1,6 +1,6 @@
 # osaxyz/sepiace
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/osaxyz/sepiace) · [官网](https://sepiace.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给编码 agent 提供长期记忆的插件与托管服务**
 
@@ -11,7 +11,7 @@ sepiace 以一句话自然语言为接口，为 AI agent 提供记忆的保存�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

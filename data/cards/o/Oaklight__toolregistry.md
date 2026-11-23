@@ -1,6 +1,6 @@
 # Oaklight/toolregistry
 
-⭐ 67 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Oaklight/toolregistry) · [官网](https://toolregistry.readthedocs.io) · 个人维护 · 中文 README
+⭐ 67 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Oaklight/toolregistry) · [官网](https://toolregistry.readthedocs.io) · 个人维护 · 中文 README
 
 **为函数调用 LLM 应用统一注册与执行工具的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Oaklight/toolregistry 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-11-21 67 → 2026-11-22 67（+0）
+2026-11-21 67 → 2026-11-23 67（+0）
 
 
 ---

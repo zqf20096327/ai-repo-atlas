@@ -2,9 +2,9 @@
 
 ⭐ 2,720 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/openai/openai-dotnet) · [官网](https://www.nuget.org/packages/OpenAI) · 组织维护
 
-**OpenAI 官方 .NET SDK：.NET 应用调用 OpenAI REST API**
+**.NET 开发者访问 OpenAI REST API 的官方客户端库**
 
-由 OpenAI 官方维护并与 Microsoft 合作开发的 .NET 客户端库，基于 OpenAPI 规范生成，为 .NET 应用提供对 OpenAI REST API 的访问。按功能命名空间组织 14 个客户端类（Chat/Audio/Embeddings/FineTuning/Realtime/VectorStores 等），支持流式补全、工具函数调用、结构化输出、音频输入输出、异步与同步变体，可注册为 ASP.NET Core 依赖注入单例，并支持自定义 base URL 连接 OpenAI 兼容端点。需 OpenAI API key，通过 NuGet 安装，兼容 .NET Standard 2.0。
+OpenAI 官方与 Microsoft 协作、由 OpenAPI 规范生成的 .NET 客户端库，从 .NET 应用中访问 OpenAI REST API。按功能域划分命名空间（Chat、Audio、Embeddings、Images、FineTuning、Realtime、VectorStores 等 16 个客户端类），每个同步方法提供对应异步变体，支持流式聊天补全、函数调用/工具、结构化输出、聊天音频输入输出。客户端线程安全，可注册为 ASP.NET Core 依赖注入单例；可通过自定义 base URL 接入代理或 OpenAI 兼容端点。安装经 NuGet 包，兼容 .NET Standard 2.0 应用。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@
 
 ## 能力要点
 
-- 14 个功能命名空间客户端覆盖 Chat/Realtime/Embeddings/FineTuning 等功能
-- 支持流式补全、工具函数调用与结构化输出
-- 支持自定义 base URL 连接 OpenAI 兼容 API 或自托管端点
-- 客户端线程安全，可注册为 ASP.NET Core DI 单例
+- 由 OpenAPI 规范生成、与 Microsoft 协作的官方 .NET 客户端
+- 16 个功能域客户端类，同步/异步方法成对提供
+- 支持流式补全、函数调用、结构化输出与音频输入输出
+- 兼容 .NET Standard 2.0，支持依赖注入与自定义 base URL
 
 ## 适用场景
 
-- 在 .NET 应用中调用 OpenAI 对话补全与嵌入接口
-- 构建带工具调用与结构化输出的 agent 应用
-- 通过代理或自托管 OpenAI 兼容服务接入
+- 在 C#/.NET 应用中调用聊天补全、嵌入、图像、语音等 OpenAI API
+- 用 ASP.NET Core 依赖注入方式在服务端接入 OpenAI 客户端
+- 接入代理或自托管的 OpenAI 兼容 LLM 端点
+- 实现带工具/函数调用的对话应用
 
 ## 场景标签
 
- · 领域:LLM 基础设施/API SDK
+ · 领域:LLM 基础设施/客户端 SDK
 
 ## 证据(README 行号)
 
 > L5: The OpenAI .NET library provides convenient access to the OpenAI REST API from .NET applications.
-> L46: If you need to connect to an alternative API endpoint (for example, a proxy or self-hosted OpenAI-compatible LLM), 
+> L7: It is generated from our OpenAPI specification in collaboration with Microsoft.
+> L66: |`OpenAI.Chat`|`ChatClient`|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "openai/openai-dotnet 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2712 --> 2722
     line [2713, 2715, 2716, 2715, 2716, 2717, 2718, 2717, 2715, 2719, 2721, 2720, 2720]
 ```
 
-2026-10-20 2,713 → 2026-11-22 2,720（+7）
+2026-10-21 2,713 → 2026-11-23 2,720（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5559a8fd4fdc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `102a85f16add` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # joaobarrosodev/leis-portugal
 
-⭐ 3 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/joaobarrosodev/leis-portugal) · 个人维护
+⭐ 3 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/joaobarrosodev/leis-portugal) · 个人维护
 
 **葡萄牙法律法规开放数据仓库，面向公众与 AI 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joaobarrosodev/leis-portugal 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-22 3（+0）
+2026-11-13 3 → 2026-11-23 3（+0）
 
 
 ---

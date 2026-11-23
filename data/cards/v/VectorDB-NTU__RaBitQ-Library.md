@@ -1,6 +1,6 @@
 # VectorDB-NTU/RaBitQ-Library
 
-⭐ 298 · C++ · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/VectorDB-NTU/RaBitQ-Library) · [官网](https://vectordb-ntu.github.io/RaBitQ-Library/) · 组织维护
+⭐ 298 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/VectorDB-NTU/RaBitQ-Library) · [官网](https://vectordb-ntu.github.io/RaBitQ-Library/) · 组织维护
 
 **RaBitQ 向量量化与近邻搜索的官方轻量 C++/Python 库**
 
@@ -44,13 +44,13 @@ RaBitQ 论文算法的官方实现库，提供向量量化与近似最近邻搜�
 
 ```mermaid
 xychart-beta
-    title "VectorDB-NTU/RaBitQ-Library 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-22"]
+    title "VectorDB-NTU/RaBitQ-Library 星数(近 10 点)"
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-22", "2026-11-23"]
     y-axis "stars" 290 --> 299
-    line [291, 292, 291, 295, 296, 297, 296, 297, 298]
+    line [291, 292, 291, 295, 296, 297, 296, 297, 298, 298]
 ```
 
-2026-10-20 291 → 2026-11-22 298（+7）
+2026-10-21 291 → 2026-11-23 298（+7）
 
 
 ---

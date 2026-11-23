@@ -1,6 +1,6 @@
 # Prysai/Prysai-LLM-Playbook
 
-⭐ 437 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Prysai/Prysai-LLM-Playbook) · [官网](https://docs.prysai.com/llm-playbook/) · 组织维护 · 中文 README
+⭐ 438 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Prysai/Prysai-LLM-Playbook) · [官网](https://docs.prysai.com/llm-playbook/) · 组织维护 · 中文 README
 
 **面向学习者的 LLM 使用课程：五单元基础路线与平台适配层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Prysai/Prysai-LLM-Playbook 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 431 --> 438
-    line [434, 435, 434, 435, 432, 433, 436, 437, 437]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 431 --> 439
+    line [434, 435, 434, 435, 432, 433, 436, 437, 438]
 ```
 
-2026-10-20 434 → 2026-11-22 437（+3）
+2026-10-21 434 → 2026-11-23 438（+4）
 
 
 ---

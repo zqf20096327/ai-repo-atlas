@@ -1,6 +1,6 @@
 # douglasjordan2/c0
 
-⭐ 23 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/douglasjordan2/c0) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/douglasjordan2/c0) · 个人维护
 
 **给 LLM 用的外置记忆：双时态知识图谱+混合检索**
 
@@ -45,12 +45,12 @@ Rust 编写的 LLM 外置记忆层：把知识存为 Neo4j 中的 Concept 节点
 ```mermaid
 xychart-beta
     title "douglasjordan2/c0 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-20 22 → 2026-11-22 23（+1）
+2026-10-21 22 → 2026-11-23 23（+1）
 
 
 ---

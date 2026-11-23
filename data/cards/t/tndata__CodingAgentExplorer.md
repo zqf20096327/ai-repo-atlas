@@ -1,6 +1,6 @@
 # tndata/CodingAgentExplorer
 
-⭐ 53 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tndata/CodingAgentExplorer) · [官网](https://nestenius.se/ai/introducing-the-coding-agent-explorer-net/) · 个人维护
+⭐ 54 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tndata/CodingAgentExplorer) · [官网](https://nestenius.se/ai/introducing-the-coding-agent-explorer-net/) · 个人维护
 
 **给开发者的 .NET 实时代理与仪表盘，检视 Claude Code API 调用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tndata/CodingAgentExplorer 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-22"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-11-02", "2026-11-23"]
+    y-axis "stars" 52 --> 55
+    line [53, 54]
 ```
 
-2026-11-02 53 → 2026-11-22 53（+0）
+2026-11-02 53 → 2026-11-23 54（+1）
 
 
 ---

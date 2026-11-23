@@ -41,6 +41,18 @@ pymfe 是一个 Python 元特征提取库，按 General、Statistical、Informat
 > L51: In this package, We provided the following meta-features groups:
 > L30: Meta-features are used in MtL and AutoML tasks in general, to
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ealcobaca/pymfe 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 146 --> 148
+    line [147, 147]
+```
+
+2026-11-22 147 → 2026-11-23 147（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f800d7a6e425` · [字段定义](../../DATASET.md)*

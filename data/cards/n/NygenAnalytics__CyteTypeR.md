@@ -1,6 +1,6 @@
 # NygenAnalytics/CyteTypeR
 
-⭐ 41 · R · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/NygenAnalytics/CyteTypeR) · [官网](https://www.biorxiv.org/content/10.1101/2025.11.06.686964v1.full-text) · 组织维护
+⭐ 43 · R · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/NygenAnalytics/CyteTypeR) · [官网](https://www.biorxiv.org/content/10.1101/2025.11.06.686964v1.full-text) · 组织维护
 
 **面向单细胞 RNA-seq 的 R 端到端细胞类型注释系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NygenAnalytics/CyteTypeR 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 40 --> 44
+    line [41, 43]
 ```
 
-2026-10-19 41 → 2026-11-22 41（+0）
+2026-10-20 41 → 2026-11-23 43（+2）
 
 
 ---

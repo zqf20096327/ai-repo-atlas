@@ -1,6 +1,6 @@
 # Metabuilder-Labs/tokenjam
 
-⭐ 125 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Metabuilder-Labs/tokenjam) · [官网](https://tokenjam.dev/oss) · 组织维护
+⭐ 125 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Metabuilder-Labs/tokenjam) · [官网](https://tokenjam.dev/oss) · 组织维护
 
 **读取 AI agent 遥测数据、定位 token 超额使用并给出修复建议的本地工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Metabuilder-Labs/tokenjam 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
     y-axis "stars" 123 --> 126
     line [124, 125, 125]
 ```
 
-2026-10-19 124 → 2026-11-22 125（+1）
+2026-10-20 124 → 2026-11-23 125（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fitzyracing1/system-on-an-agent 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    title "fitzyracing1/system-on-an-agent 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 19 --> 34
-    line [20, 31, 33]
+    line [20, 31, 33, 33]
 ```
 
-2026-11-20 20 → 2026-11-22 33（+13）
+2026-11-20 20 → 2026-11-23 33（+13）
 
 
 ---

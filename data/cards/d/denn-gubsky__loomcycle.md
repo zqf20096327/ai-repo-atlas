@@ -1,6 +1,6 @@
 # denn-gubsky/loomcycle
 
-⭐ 18 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/denn-gubsky/loomcycle) · [官网](https://loomcycle.dev) · 个人维护
+⭐ 18 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/denn-gubsky/loomcycle) · [官网](https://loomcycle.dev) · 个人维护
 
 **自托管的 agent 系统内核：单 Go 二进制运行多 agent 循环**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "denn-gubsky/loomcycle 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 14 --> 19
     line [15, 17, 15, 18, 18]
 ```
 
-2026-10-20 15 → 2026-11-22 18（+3）
+2026-10-21 15 → 2026-11-23 18（+3）
 
 
 ---

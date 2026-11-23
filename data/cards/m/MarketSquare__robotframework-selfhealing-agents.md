@@ -46,12 +46,12 @@ Robot Framework 测试库，在测试失败时通过多 Agent LLM 工作流自�
 ```mermaid
 xychart-beta
     title "MarketSquare/robotframework-selfhealing-agents 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-20 27 → 2026-11-22 27（+0）
+2026-10-21 27 → 2026-11-23 27（+0）
 
 
 ---

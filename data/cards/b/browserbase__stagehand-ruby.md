@@ -45,12 +45,12 @@ Browserbase 官方维护的 Ruby 3.2.0+ 库，通过 REST API 访问 Stagehand A
 ```mermaid
 xychart-beta
     title "browserbase/stagehand-ruby 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-22"]
+    x-axis ["2026-10-24", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-22 10（+0）
+2026-10-24 10 → 2026-11-23 10（+0）
 
 
 ---

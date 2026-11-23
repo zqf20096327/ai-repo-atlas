@@ -1,6 +1,6 @@
 # GoBeromsu/obsidian-open-connections
 
-⭐ 22 · TypeScript · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/GoBeromsu/obsidian-open-connections) · 个人维护
+⭐ 23 · TypeScript · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/GoBeromsu/obsidian-open-connections) · 个人维护
 
 **Obsidian 插件：本地或 API 嵌入的语义关联笔记与语义搜索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GoBeromsu/obsidian-open-connections 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-11-08 22 → 2026-11-22 22（+0）
+2026-11-08 22 → 2026-11-23 23（+1）
 
 
 ---

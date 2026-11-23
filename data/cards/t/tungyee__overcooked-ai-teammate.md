@@ -1,6 +1,6 @@
 # tungyee/overcooked-ai-teammate
 
-⭐ 4 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tungyee/overcooked-ai-teammate) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tungyee/overcooked-ai-teammate) · 个人维护 · 中文 README
 
 **Overcooked! 2 的实时 AI 队友：边做菜边听懂语音指令**
 
@@ -46,12 +46,12 @@ CoChef 以虚拟手柄身份作为 Player 2 加入 Overcooked! 2 本地双人合
 ```mermaid
 xychart-beta
     title "tungyee/overcooked-ai-teammate 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-22"]
+    x-axis ["2026-11-18", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-18 4 → 2026-11-22 4（+0）
+2026-11-18 4 → 2026-11-23 4（+0）
 
 
 ---

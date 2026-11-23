@@ -1,6 +1,6 @@
 # zhaotututu/ComfyUI-TutuBanana
 
-⭐ 147 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/zhaotututu/ComfyUI-TutuBanana) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **ComfyUI 的 Gemini 图像生成节点套件，接多平台 API**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

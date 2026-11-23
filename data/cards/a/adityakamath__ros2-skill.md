@@ -45,12 +45,12 @@ Agent Skill 形式的 ROS 2 机器人控制工具：AI agent 读取 SKILL.md 理
 ```mermaid
 xychart-beta
     title "adityakamath/ros2-skill 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-11", "2026-11-23"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-20 20 → 2026-11-22 21（+1）
+2026-10-21 20 → 2026-11-23 21（+1）
 
 
 ---

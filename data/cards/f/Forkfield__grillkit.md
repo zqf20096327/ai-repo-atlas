@@ -1,6 +1,6 @@
 # Forkfield/grillkit
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Forkfield/grillkit) · 个人维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Forkfield/grillkit) · 个人维护
 
 **自托管 AI 技术面试训练器：语音作答与实时评分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Forkfield/grillkit 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-23"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 13]
 ```
 
-2026-10-24 11 → 2026-11-22 13（+2）
+2026-10-24 11 → 2026-11-23 13（+2）
 
 
 ---

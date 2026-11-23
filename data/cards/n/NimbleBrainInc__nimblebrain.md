@@ -1,6 +1,6 @@
 # NimbleBrainInc/nimblebrain
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NimbleBrainInc/nimblebrain) · [官网](https://nimblebrain.ai) · 组织维护
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NimbleBrainInc/nimblebrain) · [官网](https://nimblebrain.ai) · 组织维护
 
 **自托管的 MCP 应用与 agent 任务运行平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NimbleBrainInc/nimblebrain 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 24 --> 29
     line [25, 26, 27, 28, 27, 28, 28]
 ```
 
-2026-10-19 25 → 2026-11-22 28（+3）
+2026-10-20 25 → 2026-11-23 28（+3）
 
 
 ---

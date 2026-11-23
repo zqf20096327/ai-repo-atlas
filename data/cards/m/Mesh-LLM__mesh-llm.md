@@ -1,10 +1,10 @@
 # Mesh-LLM/mesh-llm
 
-⭐ 4,189 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Mesh-LLM/mesh-llm) · [官网](http://meshllm.cloud/) · 组织维护
+⭐ 4,198 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Mesh-LLM/mesh-llm) · [官网](http://meshllm.cloud/) · 组织维护
 
-**跨机汇聚 GPU/内存的分布式 LLM 推理网格，暴露 OpenAI 兼容 API**
+**跨机器共享 GPU 组网为 OpenAI 兼容 API 的分布式 LLM 服务**
 
-Mesh LLM 将多台机器的 GPU 与内存组成网格，经 Skippy（补丁版 llama.cpp 运行时）执行原生推理与分层切分（stage splits），对外在 9337 端口提供一个 OpenAI 兼容 API 与网页控制台。节点间用 QUIC 端到端加密传输，公共网格经 Nostr 发现、私有网格用邀请令牌；单机放不下的模型按层分包到多个节点。支持约 72 个 P0/P1 模型家族（Qwen/Llama/GLM/DeepSeek 等），提供安装脚本、Homebrew 公式、各平台 CUDA/ROCm/Vulkan 构建包，也可用 just 从源码构建。MoA 网关（model:mesh）为实验性功能。
+用 Rust 编写的分布式 LLM 服务工具：将多台机器的 GPU 与内存汇聚为一个 mesh，对外暴露统一的 OpenAI 兼容 API（默认端口 9337）。内含 Skippy 运行时负责模型管理与原生推理（llama.cpp 补丁运行时、GGUF），Mesh 层提供节点发现（Nostr 公开发现）、QUIC 加密传输、按 model 字段路由、层拆分执行与插件系统。单机可独立运行，大模型可用 stage splits 分片到多节点。支持 brew/安装脚本/多平台二进制包，源码构建需 just/cmake/Rust/Node.js。
 
 ## 筛选速览
 
@@ -16,44 +16,43 @@ Mesh LLM 将多台机器的 GPU 与内存组成网格，经 Skippy（补丁版 l
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多节点 GPU/内存池化，单机放不下的模型按层切分到多节点执行
-- 对外统一 OpenAI 兼容 API（/v1），按 model 字段路由到可服务节点
-- QUIC 端到端加密的节点间传输，公共/私有两种网格加入方式
-- 覆盖 72 个 P0/P1 模型家族，多平台 CPU/CUDA/ROCm/Vulkan 发行包
+- 多节点组网后对外暴露单一 OpenAI 兼容 API（localhost:9337）
+- QUIC 端到端加密的节点间传输与 Iroh 中继
+- 大模型 Skippy stage splits 层级拆分与 GGUF 分片包
+- 支持 Qwen/Llama/DeepSeek/GLM 等 72 个 P0/P1 模型家族
 
 ## 适用场景
 
-- 把手头多台机器的算力拼起来跑超出单机容量的模型
-- 在局域网或朋友间搭一个私有的 OpenAI 兼容推理服务
-- 用 model:mesh 把一个提问并发发给网格内所有模型再仲裁
+- 把家里几台机器的 GPU 拼起来跑单个大模型
+- 在局域网内搭建私有推理服务给 agent 工具调用
+- 通过公开 mesh 或邀请 token 与他人共享算力
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: Mesh LLM pools GPUs and memory across machines and exposes the result as one
 > L6: OpenAI-compatible API at `http://localhost:9337/v1`. Start one node, add more
-> L13: execution and OpenAI serving. Mesh adds peer discovery,
-> L14: transport, routing, plugins and the console around the same Skippy serving
+> L121: - **Mesh routing.** Every node exposes the same `/v1` API. Requests are routed
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Mesh-LLM/mesh-llm 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3460 --> 4255
-    line [3526, 3533, 3542, 3546, 3551, 3552, 3556, 3558, 3590, 3633, 3676, 3703, 3747, 3551, 3985, 4034, 4070, 4094, 4099, 4107, 4123, 4138, 4151, 4163, 4172, 4181, 4189]
+    title "Mesh-LLM/mesh-llm 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3459 --> 4265
+    line [3526, 3533, 3542, 3546, 3551, 3552, 3556, 3558, 3590, 3633, 3676, 3703, 3747, 3551, 3985, 4034, 4070, 4094, 4099, 4107, 4123, 4138, 4151, 4163, 4172, 4181, 4189, 4198]
 ```
 
-2026-10-20 3,526 → 2026-11-22 4,189（+663）
+2026-10-21 3,526 → 2026-11-23 4,198（+672）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7d5beddd3638` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f5c445a3ada6` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # madroidmaq/mlx-omni-server
 
-⭐ 746 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/madroidmaq/mlx-omni-server) · [官网](https://deepwiki.com/madroidmaq/mlx-omni-server/1-overview) · 个人维护
+⭐ 745 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/madroidmaq/mlx-omni-server) · [官网](https://deepwiki.com/madroidmaq/mlx-omni-server/1-overview) · 个人维护
 
 **Apple Silicon 上的本地推理服务器，兼容 OpenAI 与 Anthropic API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madroidmaq/mlx-omni-server 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-23"]
     y-axis "stars" 744 --> 748
-    line [745, 746, 747, 746, 746]
+    line [745, 746, 747, 746, 745]
 ```
 
-2026-10-20 745 → 2026-11-22 746（+1）
+2026-10-21 745 → 2026-11-23 745（+0）
 
 
 ---

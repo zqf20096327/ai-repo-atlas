@@ -2,9 +2,9 @@
 
 ⭐ 3,247 · C++ · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/onnx/onnx-tensorrt) · 组织维护
 
-**将 ONNX 模型解析为 TensorRT 引擎的解析器后端**
+**ONNX 模型的 TensorRT 后端解析器，供开发者转换运行**
 
-ONNX 的 TensorRT 后端实现：解析 ONNX 模型并构建 TensorRT 引擎用于执行，提供 C++ 解析器库 libnvonnxparser、Python 绑定及 Python 后端接口。支持动态 shape，当前分支面向 TensorRT 11.4 与 ONNX 1.21.0。需从源码用 CMake 编译构建，依赖 CUDA 工具链；另提供 trtexec 与 polygraphy 两个官方工具用于快速验证 ONNX 模型能否解析并构建引擎。InstanceNormalization 提供原生与插件两种实现可选。
+解析 ONNX 模型以在 TensorRT 上执行的解析器库，由 NVIDIA 维护，当前分支面向 TensorRT 11.5。提供 C++ 库（libnvonnxparser.so，头文件 NvOnnxParser.h）与 Python 绑定（.whl / setup.py 安装），配套 trtexec 与 polygraphy 两个官方工具用于解析并构建 TensorRT engine。支持 ONNX 1.22.0，内置 InstanceNormalization 的 native 与 plugin 两种实现，可通过 kNATIVE_INSTANCENORM 标志切换；附 ONNX backend 测试脚本。构建依赖 CUDA，建议参照 TensorRT 主仓库的构建说明。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ONNX 的 TensorRT 后端实现：解析 ONNX 模型并构建 TensorRT 引擎用�
 
 ## 能力要点
 
-- 解析 ONNX 模型并构建 TensorRT 引擎，含 C++ 库与 Python 绑定
-- 支持 full-dimensions 与动态 shape
-- trtexec / polygraphy 两个官方工具快速验证模型可解析性
-- InstanceNormalization 提供原生与插件两种实现切换
+- 提供 C++ 解析库与 Python 绑定两种接入方式
+- trtexec 与 polygraphy 工具可直接解析并构建 ONNX 模型
+- InstanceNormalization 支持通过解析器标志切换两种实现
+- 附 onnx_backend_test.py 后端测试脚本
 
 ## 适用场景
 
-- 把已导出的 ONNX 模型部署到 TensorRT 推理引擎
-- 验证 ONNX 模型在 TensorRT 上的算子支持情况
-- 在 C++ 或 Python 中集成 ONNX 解析能力
+- 把 ONNX 格式模型转换成 TensorRT engine 用于推理
+- 验证某个 ONNX 模型能否被 TensorRT 解析和构建
+- 在 Python 中通过 backend 接口用 TensorRT 执行 ONNX 模型
 
 ## 场景标签
 
@@ -38,20 +38,21 @@ ONNX 的 TensorRT 后端实现：解析 ONNX 模型并构建 TensorRT 引擎用�
 ## 证据(README 行号)
 
 > L3: Parses ONNX models for execution with TensorRT.
-> L29:  - TensorRT 11.4
+> L35: For building within Docker or on Windows, we recommend using the build instructions in the main TensorRT repository
+> L81: Python bindings for the ONNX-TensorRT parser are packaged in the shipped `.whl` files.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "onnx/onnx-tensorrt 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 3240 --> 3248
     line [3241, 3242, 3243, 3244, 3243, 3244, 3246, 3245, 3247, 3247]
 ```
 
-2026-10-20 3,241 → 2026-11-22 3,247（+6）
+2026-10-21 3,241 → 2026-11-23 3,247（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `83fb6aed906b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `4c66e5f8e665` · [字段定义](../../DATASET.md)*

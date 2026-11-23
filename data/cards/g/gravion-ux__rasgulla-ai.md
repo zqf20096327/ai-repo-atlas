@@ -1,6 +1,6 @@
 # gravion-ux/rasgulla-ai
 
-⭐ 3 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/gravion-ux/rasgulla-ai) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravion-ux/rasgulla-ai) · 个人维护
 
 **面向安全研究者的本地静态代码分析工作台**
 
@@ -40,6 +40,18 @@
 > L11: - Provider-neutral model adapter interface (no API key required for static mode).
 > L27: rasgulla ./src                                # analyze a directory and print the report
 > L46: |Rule|Severity|Detects|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/rasgulla-ai 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

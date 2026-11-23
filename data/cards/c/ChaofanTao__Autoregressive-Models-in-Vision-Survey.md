@@ -1,6 +1,6 @@
 # ChaofanTao/Autoregressive-Models-in-Vision-Survey
 
-⭐ 805 · 推送 2026-05-05 · [GitHub](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey) · [官网](https://arxiv.org/abs/2411.05902) · 组织维护 · 中文 README
+⭐ 804 · 推送 2026-05-05 · [GitHub](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey) · [官网](https://arxiv.org/abs/2411.05902) · 组织维护 · 中文 README
 
 **视觉自回归模型论文策展清单（TMLR 2025 综述配套）**
 
@@ -45,12 +45,12 @@ TMLR 2025 综述论文《Autoregressive Models in Vision: A Survey》的配套�
 ```mermaid
 xychart-beta
     title "ChaofanTao/Autoregressive-Models-in-Vision-Survey 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 804 --> 808
-    line [807, 805, 805]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 803 --> 808
+    line [807, 805, 804]
 ```
 
-2026-10-20 807 → 2026-11-22 805（-2）
+2026-10-21 807 → 2026-11-23 804（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # fan3cn/bayeschat
 
-⭐ 4 · JavaScript · 推送 2026-11-13 · [GitHub](https://github.com/fan3cn/bayeschat) · [官网](https://bayeschat.xyz) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/fan3cn/bayeschat) · [官网](https://bayeschat.xyz) · 个人维护 · 中文 README
 
 **iOS/iPadOS 隐私 AI 聊天客户端：BYOK、MCP、记忆与预设**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fan3cn/bayeschat 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-22 4 → 2026-11-22 4（+0）
+2026-10-22 4 → 2026-11-23 4（+0）
 
 
 ---

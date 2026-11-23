@@ -1,6 +1,6 @@
 # CognotEngine/amberpipeline
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/CognotEngine/amberpipeline) · [官网](https://ap.popolili.com) · 组织维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/CognotEngine/amberpipeline) · [官网](https://ap.popolili.com) · 组织维护
 
 **把 AI 生成图像转换为游戏资产的中间件工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CognotEngine/amberpipeline 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 15（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Quick Apps (2.0) 是构建 DIAL 应用的组合器：通过 JSON-schema 校验�
 ```mermaid
 xychart-beta
     title "epam/ai-dial-quickapps-backend 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-22 10（+0）
+2026-10-20 10 → 2026-11-23 10（+0）
 
 
 ---

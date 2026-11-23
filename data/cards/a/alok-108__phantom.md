@@ -1,6 +1,6 @@
 # alok-108/phantom
 
-⭐ 6 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/alok-108/phantom) · [官网](https://github.com/hayagrivai-labs/phantom/blob/main/docs/QUICKSTART.md) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/alok-108/phantom) · [官网](https://github.com/hayagrivai-labs/phantom/blob/main/docs/QUICKSTART.md) · 个人维护 · 中文 README
 
 **给 Python 开发者的双层注释指令层：校验与 LLM 差异化生成**
 
@@ -45,12 +45,12 @@ Phantom 是一个双层编程概念的工具：普通 Python 源码之外，在�
 ```mermaid
 xychart-beta
     title "alok-108/phantom 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-23"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-11-01 5 → 2026-11-22 6（+1）
+2026-11-01 5 → 2026-11-23 6（+1）
 
 
 ---

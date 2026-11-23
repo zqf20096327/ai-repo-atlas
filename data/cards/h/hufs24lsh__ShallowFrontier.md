@@ -1,6 +1,6 @@
 # hufs24lsh/ShallowFrontier
 
-⭐ 6 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hufs24lsh/ShallowFrontier) · 组织维护
+⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hufs24lsh/ShallowFrontier) · 组织维护
 
 **面向 LLM 微调的低能耗数据选择方法实现（研究代码）**
 
@@ -46,12 +46,12 @@ ShallowFrontier 是一个用于指令微调的 label-free 数据选择方法的�
 ```mermaid
 xychart-beta
     title "hufs24lsh/ShallowFrontier 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-20 6 → 2026-11-22 6（+0）
+2026-11-20 6 → 2026-11-23 6（+0）
 
 
 ---

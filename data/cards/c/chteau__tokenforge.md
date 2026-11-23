@@ -47,12 +47,12 @@ TokenForge 是一个 Claude Code 插件，通过改变工作组织方式减少�
 ```mermaid
 xychart-beta
     title "chteau/tokenforge 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-10-20 6 → 2026-11-22 6（+0）
+2026-10-21 6 → 2026-11-23 6（+0）
 
 
 ---

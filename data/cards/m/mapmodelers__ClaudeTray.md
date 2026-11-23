@@ -1,6 +1,6 @@
 # mapmodelers/ClaudeTray
 
-⭐ 5 · PowerShell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mapmodelers/ClaudeTray) · [官网](https://mapmodelers.github.io/ClaudeTray/) · 个人维护
+⭐ 5 · PowerShell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mapmodelers/ClaudeTray) · [官网](https://mapmodelers.github.io/ClaudeTray/) · 个人维护
 
 **Windows 托盘面板：集中管理 claude.ai 聊天与 Claude Code 会话**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mapmodelers/ClaudeTray 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-22 5（+0）
+2026-11-08 5 → 2026-11-23 5（+0）
 
 
 ---

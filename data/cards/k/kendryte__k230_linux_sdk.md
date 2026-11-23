@@ -44,13 +44,13 @@ Canaan Kendryte 官方维护的 K230/K230D Linux 开发套件。基于 Buildroot
 
 ```mermaid
 xychart-beta
-    title "kendryte/k230_linux_sdk 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    title "kendryte/k230_linux_sdk 星数(近 4 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 65 --> 69
-    line [66, 67, 68]
+    line [66, 67, 68, 68]
 ```
 
-2026-10-20 66 → 2026-11-22 68（+2）
+2026-10-21 66 → 2026-11-23 68（+2）
 
 
 ---

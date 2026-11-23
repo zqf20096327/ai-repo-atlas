@@ -1,6 +1,6 @@
 # onepunk/llmsizer
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/onepunk/llmsizer) · [官网](https://llmsizer.com) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/onepunk/llmsizer) · [官网](https://llmsizer.com) · 个人维护
 
 **浏览器端检测 GPU 并估算哪些 LLM 能装进你的显存**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "onepunk/llmsizer 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-22"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-23"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-19 11 → 2026-11-22 12（+1）
+2026-10-20 11 → 2026-11-23 13（+2）
 
 
 ---

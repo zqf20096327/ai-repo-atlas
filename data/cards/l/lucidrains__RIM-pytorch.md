@@ -44,12 +44,12 @@ lucidrains 对 Goyal 等人（MILA）提出的 Recurrent Independent Mechanisms�
 ```mermaid
 xychart-beta
     title "lucidrains/RIM-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-20 27 → 2026-11-22 27（+0）
+2026-10-21 27 → 2026-11-23 27（+0）
 
 
 ---

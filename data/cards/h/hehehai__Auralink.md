@@ -41,6 +41,18 @@
 > L16: It runs no models on your Mac. You choose the speech and language services (StepFun, Doubao, Alibaba Cloud, DeepSee
 > L103: At least one speech service is required. A language model is needed for the clean-up, Translate and Rewrite.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hehehai/Auralink 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `afdf3eaa7883` · [字段定义](../../DATASET.md)*

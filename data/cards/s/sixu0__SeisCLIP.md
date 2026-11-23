@@ -1,6 +1,6 @@
 # sixu0/SeisCLIP
 
-⭐ 57 · Jupyter Notebook · MIT · 推送 2025-11-26 · [GitHub](https://github.com/sixu0/SeisCLIP) · [官网](https://ieeexplore.ieee.org/document/10400506) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **地震学基础模型：多模态预训练支持多任务地震特征提取**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

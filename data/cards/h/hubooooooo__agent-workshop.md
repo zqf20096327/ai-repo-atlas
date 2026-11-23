@@ -1,6 +1,6 @@
 # hubooooooo/agent-workshop
 
-⭐ 37 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hubooooooo/agent-workshop) · 个人维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hubooooooo/agent-workshop) · 个人维护 · 中文 README
 
 **本地运行的 Agent 产品推导引擎：从点子推导 PRD、架构方案与骨架验收**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hubooooooo/agent-workshop 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 22 --> 38
-    line [23, 35, 36, 37]
+    title "hubooooooo/agent-workshop 星数(近 5 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 22 --> 39
+    line [23, 35, 36, 37, 38]
 ```
 
-2026-11-01 23 → 2026-11-22 37（+14）
+2026-11-01 23 → 2026-11-23 38（+15）
 
 
 ---

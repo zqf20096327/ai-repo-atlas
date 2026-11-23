@@ -46,12 +46,12 @@ Rookhold 是一个有界作业运行器，用于执行短期 Python、Node、Bas
 ```mermaid
 xychart-beta
     title "sambai-dev/rookhold 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-22"]
+    x-axis ["2026-10-23", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-22 10（+0）
+2026-10-23 10 → 2026-11-23 10（+0）
 
 
 ---

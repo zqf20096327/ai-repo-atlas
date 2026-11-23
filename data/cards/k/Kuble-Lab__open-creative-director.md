@@ -1,6 +1,6 @@
 # Kuble-Lab/open-creative-director
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Kuble-Lab/open-creative-director) · 组织维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Kuble-Lab/open-creative-director) · 组织维护
 
 **本地优先的聊天式 AI 创意制作工具：规划并生成图像、视频、语音与动图**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Kuble-Lab/open-creative-director 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-31", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-31 10 → 2026-11-22 10（+0）
+2026-10-31 10 → 2026-11-23 11（+1）
 
 
 ---

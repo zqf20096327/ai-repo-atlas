@@ -1,6 +1,6 @@
 # reverie-0606/Axiom-AI-Aimbot
 
-⭐ 59 · Python · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/reverie-0606/Axiom-AI-Aimbot) · 个人维护 · 中文 README
+⭐ 60 · Python · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/reverie-0606/Axiom-AI-Aimbot) · 个人维护 · 中文 README
 
 **Windows 计算机视觉自瞄工具：检测目标并自动控制鼠标**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "reverie-0606/Axiom-AI-Aimbot 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    x-axis ["2026-11-10", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 57 --> 61
+    line [58, 59, 60]
 ```
 
-2026-11-10 58 → 2026-11-22 59（+1）
+2026-11-10 58 → 2026-11-23 60（+2）
 
 
 ---

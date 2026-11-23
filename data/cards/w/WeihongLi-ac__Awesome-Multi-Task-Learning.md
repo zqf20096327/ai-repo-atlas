@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "WeihongLi-ac/Awesome-Multi-Task-Learning 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 378 --> 380
     line [379, 379]
 ```
 
-2026-10-20 379 → 2026-11-22 379（+0）
+2026-10-21 379 → 2026-11-23 379（+0）
 
 
 ---

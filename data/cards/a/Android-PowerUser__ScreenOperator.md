@@ -1,6 +1,6 @@
 # Android-PowerUser/ScreenOperator
 
-⭐ 16 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/Android-PowerUser/ScreenOperator) · 个人维护
+⭐ 16 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/Android-PowerUser/ScreenOperator) · 个人维护
 
 **Android 应用：用视觉 LLM 的指令操作手机屏幕**
 
@@ -45,12 +45,12 @@ Android 端应用，接收视觉 LLM 下发的指令并执行屏幕操作，可�
 ```mermaid
 xychart-beta
     title "Android-PowerUser/ScreenOperator 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-23"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-24 14 → 2026-11-22 16（+2）
+2026-10-24 14 → 2026-11-23 16（+2）
 
 
 ---

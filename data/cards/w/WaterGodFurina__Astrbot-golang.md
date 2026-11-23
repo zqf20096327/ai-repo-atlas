@@ -1,6 +1,6 @@
 # WaterGodFurina/Astrbot-golang
 
-⭐ 16 · Go · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/WaterGodFurina/Astrbot-golang) · 个人维护 · 中文 README
+⭐ 16 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/WaterGodFurina/Astrbot-golang) · 个人维护 · 中文 README
 
 **AstrBot 的 Go 移植版：多平台聊天机器人框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WaterGodFurina/Astrbot-golang 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 14 --> 17
     line [15, 16, 15, 16, 16]
 ```
 
-2026-10-20 15 → 2026-11-22 16（+1）
+2026-10-21 15 → 2026-11-23 16（+1）
 
 
 ---

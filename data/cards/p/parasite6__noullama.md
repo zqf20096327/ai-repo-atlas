@@ -1,6 +1,6 @@
 # parasite6/noullama
 
-⭐ 3 · Rust · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/parasite6/noullama) · [官网](https://noullama.dev) · 个人维护
+⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/parasite6/noullama) · [官网](https://noullama.dev) · 个人维护
 
 **本地决策模型工作台与 API，基于 llama.cpp 运行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -40,6 +40,18 @@
 
 > L6:  A local workbench and API for decision models using llama.cpp
 > L77: - A compatible **llama-server**. Download builds under **Runtime → llama.cpp**, or use your own. Native decision mo
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "parasite6/noullama 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

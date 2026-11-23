@@ -1,6 +1,6 @@
 # stackitcloud/rag-template
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/stackitcloud/rag-template) · [官网](https://www.stackit.de/en/) · 组织维护
+⭐ 85 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/stackitcloud/rag-template) · [官网](https://www.stackit.de/en/) · 组织维护
 
 **STACKIT 维护的 RAG 应用模板：构建 AI 聊天与文档管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stackitcloud/rag-template 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23"]
     y-axis "stars" 84 --> 88
     line [87, 86, 87, 86, 85, 85]
 ```
 
-2026-10-20 87 → 2026-11-22 85（-2）
+2026-10-21 87 → 2026-11-23 85（-2）
 
 
 ---

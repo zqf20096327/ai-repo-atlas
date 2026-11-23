@@ -46,12 +46,12 @@ Terraform 模块，用于在 AWS 上创建运行 Metaflow 所需的生产环境�
 ```mermaid
 xychart-beta
     title "outerbounds/terraform-aws-metaflow 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-19 70 → 2026-11-22 70（+0）
+2026-10-20 70 → 2026-11-23 70（+0）
 
 
 ---

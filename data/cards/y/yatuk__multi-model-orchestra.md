@@ -1,6 +1,6 @@
 # yatuk/multi-model-orchestra
 
-⭐ 27 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yatuk/multi-model-orchestra) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yatuk/multi-model-orchestra) · 个人维护
 
 **多模型编码任务路由技能：贵模型指挥、廉价模型干活**
 
@@ -40,6 +40,18 @@
 > L8: Skills for Claude Code (or anything that reads <code>SKILL.md</code> files) that hand work to Claude Opus, Sonnet an
 > L29:  <code>mmo-run</code> is the one runner for every provider, with hard status codes and a timeout on every call. Wri
 > L23:  Each job goes to the cheapest tier that can pass its check, by difficulty. A lane moves up only after it fails the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yatuk/multi-model-orchestra 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 26 --> 44
+    line [27, 43]
+```
+
+2026-11-22 27 → 2026-11-23 43（+16）
 
 
 ---

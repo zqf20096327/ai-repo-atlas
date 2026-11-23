@@ -46,12 +46,12 @@ OceanBase 官方维护的 Python SDK，统一封装 seekdb 与 OceanBase AI sear
 ```mermaid
 xychart-beta
     title "oceanbase/pyseekdb 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-23"]
     y-axis "stars" 60 --> 63
     line [62, 61, 61]
 ```
 
-2026-10-19 62 → 2026-11-22 61（-1）
+2026-10-20 62 → 2026-11-23 61（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-email
 
-⭐ 141 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/AgriciDaniel/claude-email) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
+⭐ 142 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/AgriciDaniel/claude-email) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
 
 **面向 Claude Code 的邮件管理与营销技能包（6 子技能/4 agent）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/claude-email 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 131 --> 142
-    line [132, 133, 136, 138, 139, 140, 141, 141]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 131 --> 143
+    line [132, 133, 136, 138, 139, 140, 141, 142]
 ```
 
-2026-10-20 132 → 2026-11-22 141（+9）
+2026-10-21 132 → 2026-11-23 142（+10）
 
 
 ---

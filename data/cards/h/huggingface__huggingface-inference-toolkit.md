@@ -46,12 +46,12 @@ Hugging Face 维护的推理服务工具包：为 Transformers、Diffusers、Sen
 ```mermaid
 xychart-beta
     title "huggingface/huggingface-inference-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 96 --> 99
     line [97, 98, 97, 98, 98]
 ```
 
-2026-10-20 97 → 2026-11-22 98（+1）
+2026-10-21 97 → 2026-11-23 98（+1）
 
 
 ---

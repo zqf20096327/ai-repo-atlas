@@ -1,6 +1,6 @@
 # Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers
 
-⭐ 261 · NOASSERTION · 推送 2026-07-24 · [GitHub](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) · 个人维护
+⭐ 262 · NOASSERTION · 推送 2026-07-24 · [GitHub](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) · 个人维护
 
 **LLM 量化交易论文与基准的策展清单，面向量化/金融 AI 研究者**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 256 --> 262
-    line [257, 258, 259, 260, 257, 260, 261, 260, 261, 261]
+    x-axis ["2026-10-20", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 256 --> 263
+    line [257, 258, 259, 260, 257, 260, 261, 260, 261, 262]
 ```
 
-2026-10-19 257 → 2026-11-22 261（+4）
+2026-10-20 257 → 2026-11-23 262（+5）
 
 
 ---

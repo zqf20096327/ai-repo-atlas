@@ -1,6 +1,6 @@
 # NightFrost42/dsh-compaction-weave
 
-⭐ 23 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/NightFrost42/dsh-compaction-weave)
+⭐ 56 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NightFrost42/dsh-compaction-weave) · [官网](https://www.npmjs.com/package/dsh-compaction-weave)
 
 **DeepSeek Harness 长对话上下文压缩插件：保留要求与进度**
 
@@ -39,6 +39,18 @@
 
 > L5: 面向 DeepSeek Harness 的上下文压缩插件，让长对话带着明确的目标、有效约束和下一步继续推进。
 > L35: 支持 **DeepSeek Harness `>=0.2.2-rc.1 <1.0.0-0`**（`0.2.2-rc.1` 起的 `0.2.x–0.x` 系列），原生原子事务已实测 **DSH `0.2.2-rc.1`、`0.2.2
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NightFrost42/dsh-compaction-weave 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 20 --> 59
+    line [23, 56]
+```
+
+2026-11-22 23 → 2026-11-23 56（+33）
 
 
 ---

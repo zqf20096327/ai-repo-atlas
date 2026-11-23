@@ -1,6 +1,6 @@
 # stoneorwater/baka-helper
 
-⭐ 5 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/stoneorwater/baka-helper) · [官网](https://github.com/stoneorwater/baka-helper/blob/main/docs/USAGE.md) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **学习通课程辅助用户脚本：视频续播与 AI 答题**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

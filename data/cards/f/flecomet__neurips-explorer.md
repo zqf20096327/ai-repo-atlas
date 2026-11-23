@@ -1,6 +1,6 @@
 # flecomet/neurips-explorer
 
-⭐ 12 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/flecomet/neurips-explorer) · [官网](https://flecomet.github.io/neurips-explorer/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/flecomet/neurips-explorer) · [官网](https://flecomet.github.io/neurips-explorer/) · 个人维护
 
 **NeurIPS 2026 论文交互式语义地图：聚类浏览与检索 9,110 篇论文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "flecomet/neurips-explorer 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 8 --> 13
-    line [9, 10, 9, 11, 12, 12]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 8 --> 14
+    line [9, 10, 9, 11, 12, 13]
 ```
 
-2026-10-20 9 → 2026-11-22 12（+3）
+2026-10-21 9 → 2026-11-23 13（+4）
 
 
 ---

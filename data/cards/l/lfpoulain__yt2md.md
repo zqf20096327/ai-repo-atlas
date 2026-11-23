@@ -1,6 +1,6 @@
 # lfpoulain/yt2md
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lfpoulain/yt2md) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lfpoulain/yt2md) · 个人维护
 
 **全本地转录 YouTube 频道并生成 RAG 语料库的工具**
 
@@ -40,6 +40,18 @@
 > L12: YT2MD télécharge des vidéos YouTube, les transcrit mot à mot avec horodatage, décrit ce qu'on y voit à l'écran, pui
 > L31:  Pipeline : YouTube, yt-dlp et FFmpeg, puis Qwen3-ASR pour l’audio et Qwen3.5 pour l’image, fusionnés en Markdown, 
 > L133: |Transcription|`Qwen/Qwen3-ASR-1.7B-hf` en BF16, langue imposée, silences écartés par Silero|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lfpoulain/yt2md 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

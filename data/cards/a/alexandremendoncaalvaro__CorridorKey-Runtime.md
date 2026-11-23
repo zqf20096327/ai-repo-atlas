@@ -1,6 +1,6 @@
 # alexandremendoncaalvaro/CorridorKey-Runtime
 
-⭐ 787 · C++ · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) · [官网](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/releases/latest) · 个人维护
+⭐ 788 · C++ · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) · [官网](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/releases/latest) · 个人维护
 
 **AI 抠像/Keying 运行时与 OFX 插件，面向 DaVinci Resolve/Nuke 用户**
 
@@ -45,12 +45,12 @@ Corridor Digital 协作开发的本地 AI 抠像工具，提供三种产品面�
 ```mermaid
 xychart-beta
     title "alexandremendoncaalvaro/CorridorKey-Runtime 星数(近 15 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 768 --> 788
-    line [769, 771, 774, 777, 779, 780, 782, 785, 774, 784, 786, 785, 786, 787, 787]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 768 --> 789
+    line [769, 771, 774, 777, 779, 780, 782, 785, 774, 784, 786, 785, 786, 787, 788]
 ```
 
-2026-10-20 769 → 2026-11-22 787（+18）
+2026-10-21 769 → 2026-11-23 788（+19）
 
 
 ---

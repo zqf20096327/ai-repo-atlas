@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "luanfrombrazil/llmresources_hades 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-22"]
+    title "luanfrombrazil/llmresources_hades 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3 --> 9
-    line [4, 5, 7, 8]
+    line [4, 5, 7, 8, 8]
 ```
 
-2026-10-24 4 → 2026-11-22 8（+4）
+2026-10-24 4 → 2026-11-23 8（+4）
 
 
 ---

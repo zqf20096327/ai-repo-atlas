@@ -44,12 +44,12 @@ Devinterview.io 维护的 XGBoost 面试准备知识库：以 36 个问答条目
 ```mermaid
 xychart-beta
     title "Devinterview-io/xgboost-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-20 28 → 2026-11-22 28（+0）
+2026-10-21 28 → 2026-11-23 28（+0）
 
 
 ---

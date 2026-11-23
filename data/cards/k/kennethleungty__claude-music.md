@@ -1,6 +1,6 @@
 # kennethleungty/claude-music
 
-⭐ 26 · Shell · MIT · 推送 2026-04-12 · [GitHub](https://github.com/kennethleungty/claude-music) · 个人维护
+⭐ 27 · Shell · MIT · 推送 2026-04-12 · [GitHub](https://github.com/kennethleungty/claude-music) · 个人维护
 
 **在 Claude Code 会话中播放背景音乐的插件，含 AI DJ 选曲**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kennethleungty/claude-music 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 25, 26, 26]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 26, 27]
 ```
 
-2026-10-20 25 → 2026-11-22 26（+1）
+2026-10-21 25 → 2026-11-23 27（+2）
 
 
 ---

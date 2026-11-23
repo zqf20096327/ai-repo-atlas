@@ -1,6 +1,6 @@
 # AIAnytime/Awesome-MCP-Servers
 
-⭐ 86 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/AIAnytime/Awesome-MCP-Servers) · [官网](https://mcp.aianytime.net) · 组织维护
+⭐ 87 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AIAnytime/Awesome-MCP-Servers) · [官网](https://mcp.aianytime.net) · 组织维护
 
 **MCP 服务器策展目录＋Python 参考实现教学仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIAnytime/Awesome-MCP-Servers 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 75 --> 87
-    line [76, 77, 79, 81, 79, 83, 84, 85, 86]
+    title "AIAnytime/Awesome-MCP-Servers 星数(近 10 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 75 --> 88
+    line [76, 77, 79, 81, 79, 83, 84, 85, 86, 87]
 ```
 
-2026-10-19 76 → 2026-11-22 86（+10）
+2026-10-20 76 → 2026-11-23 87（+11）
 
 
 ---

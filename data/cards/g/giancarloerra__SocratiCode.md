@@ -1,10 +1,10 @@
 # giancarloerra/SocratiCode
 
-⭐ 3,380 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/giancarloerra/SocratiCode) · [官网](https://socraticode.cloud) · 个人维护
+⭐ 3,381 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/giancarloerra/SocratiCode) · [官网](https://socraticode.cloud) · 个人维护
 
-**给 AI 助手的代码库上下文引擎：零配置本地索引与语义检索**
+**给 AI 助手提供代码库语义检索与依赖图分析的 MCP 引擎**
 
-面向 AI 编码助手的开源代码库上下文引擎，以 MCP 服务器、Claude Code 插件或 VS Code/Cursor 扩展形式接入。功能包括混合语义+BM25 检索（RRF 融合）、AST 感知分块、18 种语言的依赖图与符号级影响分析（blast-radius、调用流）、交互式 HTML 图浏览器，以及数据库/API/基础设施文档的可搜索工件。默认通过 Docker 自动管理本地 Qdrant 与 Ollama，无需 API key，数据不离开本机；索引支持断点续传、文件监听增量更新与多仓库多分支。需 Node.js 18.17+ 与 Docker。
+以 MCP 服务器、Claude Code/Codex 插件和 VS Code 扩展形式发布的代码库上下文引擎：提供混合语义+BM25 检索、多语言依赖图、符号级影响分析与调用流追踪、HTML 图谱查看器，以及数据库/API/基础设施配置的可搜索上下文。默认本地 Docker 运行 Qdrant 与 Ollama，无需 API key，数据不出本机；支持断点续传索引、文件监视自动更新与多分支多仓库索引。要求 Node.js 18.17+，采用 AGPL-3.0 许可，另有 Cloud 私测托管版。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 混合语义+BM25（RRF 融合）代码检索与 AST 感知分块
-- 18 种语言的符号级影响分析与调用流追踪
-- 断点续传索引与文件监听自动增量更新，支持千万行级仓库
-- 默认本地 Docker 管理 Qdrant 与 Ollama，无 API key、数据不出本机
+- 18 种语言的 AST 感知分块与混合语义+BM25（RRF 融合）检索
+- 符号级影响分析、blast-radius 与调用流追踪及循环依赖可视化
+- 批处理可断点续传索引，文件监视器自动保持索引更新
+- 多智能体共享同一索引并自动协调，零配置
 
 ## 适用场景
 
-- 让 Claude Code/VS Code/Cursor 等 AI 助手快速理解大型代码库
-- 改动前做符号级影响分析与依赖可视化
-- 跨项目、跨分支检索代码与基础设施/API/数据库文档
+- 让 Claude Code/VS Code 里的 AI 助手理解 4000 万行级企业代码库
+- 在改动前查询某个符号的影响范围与调用链
+- 把数据库 schema、API 规范、基础设施配置纳入 AI 可检索上下文
+- 多个 AI 智能体同时在同一代码库上协作开发
 
 ## 场景标签
 
-`语义搜索` `RAG` · 领域:知识与检索
+`编码 Agent` `AI 助手` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L36: **One thing, done well: deep codebase intelligence with zero setup, no bloat, and full automation.** SocratiCode gi
-> L44: The first Qdrant‑based MCP/Claude Plugin/Skill that pairs auto‑managed, zero‑config local Docker deployment with **
+> L52: > **Requirements:** Node.js 18.17 or newer with `npx` on `PATH`, plus Docker running for the default local Qdrant a
 > L110: SocratiCode can be installed as a native agent plugin, a VS Code editor extension, or a directly configured local 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "giancarloerra/SocratiCode 星数(近 21 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    title "giancarloerra/SocratiCode 星数(近 22 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3343 --> 3385
-    line [3346, 3349, 3352, 3354, 3355, 3356, 3357, 3360, 3362, 3363, 3354, 3368, 3370, 3372, 3374, 3375, 3377, 3380, 3381, 3382, 3380]
+    line [3346, 3349, 3352, 3354, 3355, 3356, 3357, 3360, 3362, 3363, 3354, 3368, 3370, 3372, 3374, 3375, 3377, 3380, 3381, 3382, 3380, 3381]
 ```
 
-2026-10-20 3,346 → 2026-11-22 3,380（+34）
+2026-10-21 3,346 → 2026-11-23 3,381（+35）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `00a146e5221a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ede7996f17db` · [字段定义](../../DATASET.md)*

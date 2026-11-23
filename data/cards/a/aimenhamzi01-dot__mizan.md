@@ -1,6 +1,6 @@
 # aimenhamzi01-dot/mizan
 
-⭐ 13 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/aimenhamzi01-dot/mizan) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/aimenhamzi01-dot/mizan) · 个人维护
 
 **安全漏洞报告分诊工作台：AI 辅助整理证据，人工做决定**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aimenhamzi01-dot/mizan 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 10 --> 15
+    line [11, 13, 14]
 ```
 
-2026-11-08 11 → 2026-11-22 13（+2）
+2026-11-08 11 → 2026-11-23 14（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # mebokihq/meboki
 
-⭐ 4 · Swift · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/mebokihq/meboki) · [官网](https://meboki.com/) · 个人维护
+⭐ 10 · Swift · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/mebokihq/meboki) · [官网](https://meboki.com/) · 个人维护
 
 **macOS 本地私有语法检查工具：开源 LLM 在本机运行**
 
@@ -39,6 +39,18 @@
 
 > L5:  A private grammar checker for macOS.
 > L18: - **Runs on your Mac:** Gemma 4 through a bundled llama.cpp server. Works offline after the model download.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mebokihq/meboki 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 11
+    line [4, 10]
+```
+
+2026-11-22 4 → 2026-11-23 10（+6）
 
 
 ---

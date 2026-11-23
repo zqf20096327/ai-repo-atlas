@@ -44,12 +44,12 @@ Heddes 等人在 Google Research 提出的 DeepCrossAttention（DCA）的 PyTorc
 ```mermaid
 xychart-beta
     title "lucidrains/deep-cross-attention 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 106 --> 108
     line [107, 107]
 ```
 
-2026-10-20 107 → 2026-11-22 107（+0）
+2026-10-21 107 → 2026-11-23 107（+0）
 
 
 ---

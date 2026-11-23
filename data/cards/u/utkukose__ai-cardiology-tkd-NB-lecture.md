@@ -1,6 +1,6 @@
 # utkukose/ai-cardiology-tkd-NB-lecture
 
-⭐ 3 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/utkukose/ai-cardiology-tkd-NB-lecture) · [官网](https://utkukose.github.io/ai-cardiology-tkd-NB-lecture/) · 组织维护
+⭐ 3 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/utkukose/ai-cardiology-tkd-NB-lecture) · [官网](https://utkukose.github.io/ai-cardiology-tkd-NB-lecture/) · 组织维护
 
 **面向心脏病医生的 11 周 Python 与 AI 培训课程**
 
@@ -40,6 +40,18 @@
 > L7: *Eleven weeks of Python and artificial intelligence for cardiologists and other specialist physicians: a virtual car
 > L36: This repository holds the open materials of *Artificial Intelligence with Python: A Hands-on Training Program for C
 > L38: The thread of the course is a virtual cardiology clinic. The course package `vclinic` creates a registry of synthet
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "utkukose/ai-cardiology-tkd-NB-lecture 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

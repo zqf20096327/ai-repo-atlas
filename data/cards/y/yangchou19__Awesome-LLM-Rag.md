@@ -1,6 +1,6 @@
 # yangchou19/Awesome-LLM-Rag
 
-⭐ 12 · 推送 2026-08-25 · [GitHub](https://github.com/yangchou19/Awesome-LLM-Rag) · 个人维护
+⭐ 13 · 推送 2026-08-25 · [GitHub](https://github.com/yangchou19/Awesome-LLM-Rag) · 个人维护
 
 **RAG 领域论文与资源策展清单，面向 LLM 研究者与开发者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yangchou19/Awesome-LLM-Rag 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-23"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-20 11 → 2026-11-22 12（+1）
+2026-10-21 11 → 2026-11-23 13（+2）
 
 
 ---

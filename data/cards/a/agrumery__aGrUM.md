@@ -1,6 +1,6 @@
 # agrumery/aGrUM
 
-⭐ 61 · Jupyter Notebook · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/agrumery/aGrUM) · [官网](https://agrum.org) · 组织维护
+⭐ 61 · Jupyter Notebook · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/agrumery/aGrUM) · [官网](https://agrum.org) · 组织维护
 
 **C++/Python 图模型库：贝叶斯网络学习、推断与因果分析**
 
@@ -47,12 +47,12 @@ aGrUM 是 C++20 编写的图模型库，覆盖贝叶斯网络、影响图、决�
 ```mermaid
 xychart-beta
     title "agrumery/aGrUM 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 59 --> 62
     line [60, 61, 60, 61, 61]
 ```
 
-2026-10-20 60 → 2026-11-22 61（+1）
+2026-10-21 60 → 2026-11-23 61（+1）
 
 
 ---

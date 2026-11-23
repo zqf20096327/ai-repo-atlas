@@ -1,6 +1,6 @@
 # rokoss21/soul.md
 
-⭐ 147 · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/rokoss21/soul.md) · [官网](https://github.com/rokoss21/soul.md) · 个人维护
+⭐ 148 · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/rokoss21/soul.md) · [官网](https://github.com/rokoss21/soul.md) · 个人维护
 
 **AI agent 人设的跨平台可移植规范（Soul.md RFC-1）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rokoss21/soul.md 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-23"]
     y-axis "stars" 146 --> 160
-    line [158, 159, 158, 157, 147, 147]
+    line [158, 159, 158, 157, 147, 148]
 ```
 
-2026-10-20 158 → 2026-11-22 147（-11）
+2026-10-21 158 → 2026-11-23 148（-10）
 
 
 ---

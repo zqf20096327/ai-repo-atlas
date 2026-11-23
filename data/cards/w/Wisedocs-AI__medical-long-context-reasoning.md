@@ -1,6 +1,6 @@
 # Wisedocs-AI/medical-long-context-reasoning
 
-⭐ 12 · Python · 推送 2026-08-31 · [GitHub](https://github.com/Wisedocs-AI/medical-long-context-reasoning) · [官网](https://www.wisedocs.ai/blogs/medical-long-context-reasoning) · 组织维护
+⭐ 13 · Python · 推送 2026-08-31 · [GitHub](https://github.com/Wisedocs-AI/medical-long-context-reasoning) · [官网](https://www.wisedocs.ai/blogs/medical-long-context-reasoning) · 组织维护
 
 **评测 LLM 长文本医学文档推理能力的基准与评测框架**
 
@@ -46,12 +46,12 @@ MLCR 是一个配置驱动的基准与评测框架，衡量 LLM 在真实文档�
 ```mermaid
 xychart-beta
     title "Wisedocs-AI/medical-long-context-reasoning 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 9 --> 13
-    line [10, 12, 12]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 9 --> 14
+    line [10, 12, 13]
 ```
 
-2026-10-31 10 → 2026-11-22 12（+2）
+2026-10-31 10 → 2026-11-23 13（+3）
 
 
 ---

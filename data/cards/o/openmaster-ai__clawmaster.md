@@ -46,12 +46,12 @@ ClawMaster 是 OpenClaw 引擎的配套管理工具：提供 CLI 与 Web 控制�
 ```mermaid
 xychart-beta
     title "openmaster-ai/clawmaster 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-20 19 → 2026-11-22 19（+0）
+2026-10-21 19 → 2026-11-23 19（+0）
 
 
 ---

@@ -45,12 +45,12 @@ TPTT 是一个模块化 Python 库，把 Titans 论文中的 Memory as Gate 等�
 ```mermaid
 xychart-beta
     title "fabienfrfr/tptt 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-20 66 → 2026-11-22 66（+0）
+2026-10-21 66 → 2026-11-23 66（+0）
 
 
 ---

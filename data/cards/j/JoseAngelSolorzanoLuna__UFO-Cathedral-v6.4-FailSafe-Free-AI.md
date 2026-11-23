@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 11 --> 14
-    line [13, 12]
+    line [13, 12, 12]
 ```
 
-2026-10-20 13 → 2026-11-22 12（-1）
+2026-10-21 13 → 2026-11-23 12（-1）
 
 
 ---

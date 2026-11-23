@@ -1,6 +1,6 @@
 # beniz/codex-prism
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/beniz/codex-prism) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **科研写作桌面应用：并行 Codex 会话协作写 LaTeX 论文/幻灯片**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

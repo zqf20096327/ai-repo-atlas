@@ -1,6 +1,6 @@
 # Arkya-AI/claude-additional-models-mcp
 
-⭐ 47 · JavaScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/Arkya-AI/claude-additional-models-mcp) · [官网](https://arkya.ai/) · 组织维护
+⭐ 46 · JavaScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/Arkya-AI/claude-additional-models-mcp) · [官网](https://arkya.ai/) · 组织维护
 
 **让 Claude Desktop 通过 MCP 调用 Gemini/GLM-5 的委托服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Arkya-AI/claude-additional-models-mcp 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 44 --> 48
-    line [45, 46, 45, 47, 47]
+    line [45, 46, 45, 47, 46]
 ```
 
-2026-10-19 45 → 2026-11-22 47（+2）
+2026-10-20 45 → 2026-11-23 46（+1）
 
 
 ---

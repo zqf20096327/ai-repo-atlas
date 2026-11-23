@@ -1,6 +1,6 @@
 # DecapodLabs/decapod
 
-⭐ 239 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/DecapodLabs/decapod) · [官网](http://decapodlabs.ai) · 组织维护
+⭐ 240 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DecapodLabs/decapod) · [官网](http://decapodlabs.ai) · 组织维护
 
 **治理 AI 编码 agent 工作的 Rust CLI 内核**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DecapodLabs/decapod 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 236 --> 240
-    line [237, 239, 238, 239]
+    title "DecapodLabs/decapod 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 236 --> 241
+    line [237, 239, 238, 239, 240]
 ```
 
-2026-10-20 237 → 2026-11-22 239（+2）
+2026-10-21 237 → 2026-11-23 240（+3）
 
 
 ---

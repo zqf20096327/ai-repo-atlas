@@ -1,6 +1,6 @@
 # NeoMei/SuperWagie
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NeoMei/SuperWagie) · [官网](https://www.superwagie.com/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NeoMei/SuperWagie) · [官网](https://www.superwagie.com/) · 个人维护 · 中文 README
 
 **面向办公与编程的本地 AI 工作台，支持文档与 PPT 生成**
 
@@ -46,12 +46,12 @@ SuperWagie 是面向 macOS 和 Windows 的本地 AI 工作台，基于 OpenChamb
 ```mermaid
 xychart-beta
     title "NeoMei/SuperWagie 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-22"]
+    x-axis ["2026-11-15", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-22 3（+0）
+2026-11-15 3 → 2026-11-23 3（+0）
 
 
 ---

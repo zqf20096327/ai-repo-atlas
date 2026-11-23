@@ -1,6 +1,6 @@
 # burnjohn/ai-code-reviewer-workshop
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/burnjohn/ai-code-reviewer-workshop) · [官网](https://burnjohn.github.io/ai-code-reviewer-workshop/) · 个人维护
+⭐ 6 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/burnjohn/ai-code-reviewer-workshop) · [官网](https://burnjohn.github.io/ai-code-reviewer-workshop/) · 个人维护
 
 **45 分钟动手教程：构建基于 GitHub Action 的 AI 代码评审器**
 
@@ -41,6 +41,18 @@ GDG DevFest Warsaw 2026 的 45 分钟动手 workshop 教程：参与者从模板
 > L5: Hands-on workshop, GDG DevFest Warsaw 2026 · 45 minutes.
 > L9: You build a reviewer that runs as a GitHub Action, reads the repository (not only the diff), calls a model through O
 > L36: Each step has a spec in `specs/` with a prompt for your coding agent. Steps are cumulative: step N starts from the 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "burnjohn/ai-code-reviewer-workshop 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-22 5 → 2026-11-23 6（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "devopsfortunato/Qwen3.8-Flash-Next-FP4-Local-DGX-Spark 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-22"]
+    title "devopsfortunato/Qwen3.8-Flash-Next-FP4-Local-DGX-Spark 星数(近 6 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 9
-    line [3, 5, 6, 7, 8]
+    line [3, 5, 6, 7, 8, 8]
 ```
 
-2026-10-20 3 → 2026-11-22 8（+5）
+2026-10-21 3 → 2026-11-23 8（+5）
 
 
 ---

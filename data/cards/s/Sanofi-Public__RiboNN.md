@@ -1,6 +1,6 @@
 # Sanofi-Public/RiboNN
 
-⭐ 70 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/Sanofi-Public/RiboNN) · 组织维护
+⭐ 71 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/Sanofi-Public/RiboNN) · 组织维护
 
 **深度学习模型：从 mRNA 序列预测翻译效率**
 
@@ -45,12 +45,12 @@ Sanofi 公开的深度学习模型代码，读取 mRNA 序列（5'UTR/CDS/3'UTR 
 ```mermaid
 xychart-beta
     title "Sanofi-Public/RiboNN 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 68 --> 71
-    line [69, 70, 70]
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 71]
 ```
 
-2026-10-20 69 → 2026-11-22 70（+1）
+2026-10-21 69 → 2026-11-23 71（+2）
 
 
 ---

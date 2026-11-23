@@ -1,6 +1,6 @@
 # AEON-7/aeon-movie-maker
 
-⭐ 13 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/aeon-movie-maker) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/aeon-movie-maker) · 个人维护
 
 **基于 LTX 2.3 22B 的电影级视频生成 CLI 工具**
 
@@ -46,12 +46,12 @@ Python CLI 工具，通过 HTTP 向 ComfyUI 发送 LTX 2.3 22B（fp8）工作流
 ```mermaid
 xychart-beta
     title "AEON-7/aeon-movie-maker 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 12 --> 15
-    line [14, 13, 13]
+    line [14, 13, 14]
 ```
 
-2026-10-20 14 → 2026-11-22 13（-1）
+2026-10-21 14 → 2026-11-23 14（+0）
 
 
 ---

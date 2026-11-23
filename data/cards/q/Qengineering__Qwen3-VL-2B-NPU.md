@@ -45,12 +45,12 @@ Qengineering 提供的 C++ 应用，将 Qwen3-VL-2B 视觉语言模型部署到 
 ```mermaid
 xychart-beta
     title "Qengineering/Qwen3-VL-2B-NPU 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-20 42 → 2026-11-22 42（+0）
+2026-10-21 42 → 2026-11-23 42（+0）
 
 
 ---

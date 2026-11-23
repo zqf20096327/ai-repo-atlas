@@ -1,6 +1,6 @@
 # yantrikos/yantrikdb-hermes-plugin
 
-⭐ 97 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/yantrikos/yantrikdb-hermes-plugin) · [官网](https://yantrikdb.com) · 个人维护
+⭐ 97 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yantrikos/yantrikdb-hermes-plugin) · [官网](https://yantrikdb.com) · 个人维护
 
 **为 Hermes Agent 提供自维护记忆的 YantrikDB 记忆插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yantrikos/yantrikdb-hermes-plugin 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-23"]
     y-axis "stars" 94 --> 98
     line [96, 95, 96, 95, 96, 97, 97]
 ```
 
-2026-10-20 96 → 2026-11-22 97（+1）
+2026-10-21 96 → 2026-11-23 97（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PerryLink/dsh-draw
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/dsh-draw) · [官网](https://www.npmjs.com/package/dsh-draw) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-draw) · [官网](https://www.npmjs.com/package/dsh-draw) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的统一静态图像生成路由插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-draw 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
+    title "PerryLink/dsh-draw 星数(近 7 点)"
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-23"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 10, 12, 13, 14]
+    line [10, 11, 10, 12, 13, 14, 14]
 ```
 
-2026-10-20 10 → 2026-11-22 14（+4）
+2026-10-21 10 → 2026-11-23 14（+4）
 
 
 ---

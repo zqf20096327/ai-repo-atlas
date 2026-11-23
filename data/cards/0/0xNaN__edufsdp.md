@@ -1,6 +1,6 @@
 # 0xNaN/edufsdp
 
-⭐ 12 · Python · 推送 2026-01-26 · [GitHub](https://github.com/0xNaN/edufsdp) · 个人维护
+⭐ 13 · Python · 推送 2026-01-26 · [GitHub](https://github.com/0xNaN/edufsdp) · 个人维护
 
 **面向教学的 FSDP 最小实现：展示分布式训练分片机制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0xNaN/edufsdp 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 13（+1）
 
 
 ---

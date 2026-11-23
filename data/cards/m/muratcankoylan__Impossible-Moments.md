@@ -45,12 +45,12 @@ Impossible Moments（IM）是面向 AI 系统的创造性约束满足与推理�
 ```mermaid
 xychart-beta
     title "muratcankoylan/Impossible-Moments 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-22 12（+0）
+2026-10-20 12 → 2026-11-23 12（+0）
 
 
 ---

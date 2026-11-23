@@ -1,6 +1,6 @@
 # alizahidraja/isnad
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/alizahidraja/isnad) · [官网](http://isnadhq.com) · 个人维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/alizahidraja/isnad) · [官网](http://isnadhq.com) · 个人维护
 
 **为 RAG 与多智能体系统提供来源链评级与审计记录的 Python 库**
 
@@ -45,13 +45,13 @@ Python 库（Apache-2.0，pip 安装），将圣训传述链科学（isnād–ri
 
 ```mermaid
 xychart-beta
-    title "alizahidraja/isnad 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-20", "2026-11-22"]
+    title "alizahidraja/isnad 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 51 --> 55
-    line [52, 53, 54, 53]
+    line [52, 53, 54, 53, 54]
 ```
 
-2026-10-20 52 → 2026-11-22 53（+1）
+2026-10-21 52 → 2026-11-23 54（+2）
 
 
 ---

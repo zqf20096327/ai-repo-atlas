@@ -1,6 +1,6 @@
 # The127/aibox
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/The127/aibox) · [官网](https://the127.github.io/aibox/) · 组织维护
+⭐ 11 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/The127/aibox) · [官网](https://the127.github.io/aibox/) · 组织维护
 
 **在安全微虚拟机中运行 Claude Code 的沙箱工具**
 
@@ -46,12 +46,12 @@ aibox 把 Claude Code 放进一个小型虚拟机里运行：VM 有独立内核�
 ```mermaid
 xychart-beta
     title "The127/aibox 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-20", "2026-11-23"]
     y-axis "stars" 8 --> 12
     line [9, 10, 11, 11]
 ```
 
-2026-10-20 9 → 2026-11-22 11（+2）
+2026-10-21 9 → 2026-11-23 11（+2）
 
 
 ---

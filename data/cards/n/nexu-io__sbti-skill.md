@@ -1,6 +1,6 @@
 # nexu-io/sbti-skill
 
-⭐ 31 · JavaScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/nexu-io/sbti-skill) · [官网](https://github.com/nexu-io/nexu) · 组织维护 · 中文 README
+⭐ 32 · JavaScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/nexu-io/sbti-skill) · [官网](https://github.com/nexu-io/nexu) · 组织维护 · 中文 README
 
 **给 AI agent 的 SBTI 赛博人格测试技能，30 题出 27 种人格**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nexu-io/sbti-skill 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-20 31 → 2026-11-22 31（+0）
+2026-10-21 31 → 2026-11-23 32（+1）
 
 
 ---

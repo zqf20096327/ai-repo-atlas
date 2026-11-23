@@ -1,6 +1,6 @@
 # Cloud-CV/GSoC-Ideas
 
-⭐ 131 · HTML · 推送 2026-02-23 · [GitHub](https://github.com/Cloud-CV/GSoC-Ideas) · [官网](https://gsoc.cloudcv.org) · 组织维护
+⭐ 130 · HTML · 推送 2026-02-23 · [GitHub](https://github.com/Cloud-CV/GSoC-Ideas) · [官网](https://gsoc.cloudcv.org) · 组织维护
 
 **CloudCV 的 GSoC 项目创意清单站点：Jekyll 构建维护**
 
@@ -44,12 +44,12 @@ CloudCV 组织的 Google Summer of Code 项目创意集合：以 Jekyll + Bootst
 ```mermaid
 xychart-beta
     title "Cloud-CV/GSoC-Ideas 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 129 --> 132
+    line [131, 130]
 ```
 
-2026-10-20 131 → 2026-11-22 131（+0）
+2026-10-21 131 → 2026-11-23 130（-1）
 
 
 ---

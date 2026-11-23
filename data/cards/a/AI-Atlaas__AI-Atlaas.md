@@ -1,6 +1,6 @@
 # AI-Atlaas/AI-Atlaas
 
-⭐ 58 · GPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/AI-Atlaas/AI-Atlaas) · [官网](https://ai-atlas.mosn.me/) · 个人维护
+⭐ 58 · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/AI-Atlaas/AI-Atlaas) · [官网](https://ai-atlas.mosn.me/) · 个人维护
 
 **网络 AI 工具名录：按类别收录免费与付费 AI 工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AI-Atlaas/AI-Atlaas 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-20 58 → 2026-11-22 58（+0）
+2026-10-21 58 → 2026-11-23 58（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Eclipse-Softworks/IRIS
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Eclipse-Softworks/IRIS) · [官网](https://iris-lang.dev) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Eclipse-Softworks/IRIS) · [官网](https://iris-lang.dev) · 组织维护
 
 **面向智能/并发/信息物理软件的静态类型双后端编程语言**
 
@@ -47,12 +47,12 @@ IRIS 是一门静态类型编程语言及其单一工具链，统一 Python 建�
 ```mermaid
 xychart-beta
     title "Eclipse-Softworks/IRIS 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-22"]
+    x-axis ["2026-11-14", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-14 12 → 2026-11-22 12（+0）
+2026-11-14 12 → 2026-11-23 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # musamaanjum/ai-engineer-roadmap
 
-⭐ 18 · 推送 2026-03-02 · [GitHub](https://github.com/musamaanjum/ai-engineer-roadmap) · 个人维护
+⭐ 19 · 推送 2026-03-02 · [GitHub](https://github.com/musamaanjum/ai-engineer-roadmap) · 个人维护
 
 **软件工程师转 AI/LLM 工程师的学习路线图与资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "musamaanjum/ai-engineer-roadmap 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 17, 18, 18]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 18, 19]
 ```
 
-2026-10-20 17 → 2026-11-22 18（+1）
+2026-10-21 17 → 2026-11-23 19（+2）
 
 
 ---

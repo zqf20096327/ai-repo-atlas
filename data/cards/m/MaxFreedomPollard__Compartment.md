@@ -1,6 +1,6 @@
 # MaxFreedomPollard/Compartment
 
-⭐ 472 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/MaxFreedomPollard/Compartment) · [官网](https://maxfreedompollard.github.io/Compartment/) · 个人维护
+⭐ 472 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/MaxFreedomPollard/Compartment) · [官网](https://maxfreedompollard.github.io/Compartment/) · 个人维护
 
 **给 AI agent 的本地加密持久记忆库（MCP server）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaxFreedomPollard/Compartment 星数(近 12 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "MaxFreedomPollard/Compartment 星数(近 13 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 461 --> 595
-    line [583, 584, 577, 576, 579, 578, 579, 577, 569, 485, 473, 472]
+    line [583, 584, 577, 576, 579, 578, 579, 577, 569, 485, 473, 472, 472]
 ```
 
-2026-10-20 583 → 2026-11-22 472（-111）
+2026-10-21 583 → 2026-11-23 472（-111）
 
 
 ---

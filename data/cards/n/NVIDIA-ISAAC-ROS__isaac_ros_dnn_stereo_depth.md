@@ -46,12 +46,12 @@ Isaac ROS 系列中的 DNN 双目深度估计包，通过 ESS 与 FoundationSter
 ```mermaid
 xychart-beta
     title "NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-12", "2026-11-23"]
     y-axis "stars" 158 --> 161
     line [159, 160, 160]
 ```
 
-2026-10-20 159 → 2026-11-22 160（+1）
+2026-10-21 159 → 2026-11-23 160（+1）
 
 
 ---

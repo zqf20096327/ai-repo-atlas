@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KavinduLaX/LibertyWing-Airline-Delay-Prediction-System 星数(近 6 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-22"]
+    title "KavinduLaX/LibertyWing-Airline-Delay-Prediction-System 星数(近 7 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-22", "2026-11-23"]
     y-axis "stars" 5 --> 19
-    line [6, 18, 16, 15, 16, 15]
+    line [6, 18, 16, 15, 16, 15, 15]
 ```
 
-2026-10-31 6 → 2026-11-22 15（+9）
+2026-10-31 6 → 2026-11-23 15（+9）
 
 
 ---

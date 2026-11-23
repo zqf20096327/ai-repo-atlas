@@ -47,12 +47,12 @@ Autodesk Fusion 插件，通过连接 Aura Friday MCP-Link 服务器将 Fusion �
 ```mermaid
 xychart-beta
     title "AuraFriday/Fusion-360-MCP-Server 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 126 --> 129
     line [127, 128, 128]
 ```
 
-2026-10-20 127 → 2026-11-22 128（+1）
+2026-10-21 127 → 2026-11-23 128（+1）
 
 
 ---

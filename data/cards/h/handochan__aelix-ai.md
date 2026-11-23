@@ -1,6 +1,6 @@
 # handochan/aelix-ai
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/handochan/aelix-ai) · [官网](https://handochan.github.io/aelix-ai/) · 个人维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/handochan/aelix-ai) · [官网](https://handochan.github.io/aelix-ai/) · 个人维护 · 中文 README
 
 **自托管、可审计的纯 Python agent 运行时与扩展平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "handochan/aelix-ai 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

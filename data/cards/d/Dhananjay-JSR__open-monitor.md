@@ -41,6 +41,18 @@
 > L71: |`LLM_API_KEY`, `LLM_BASE_URL`, `LLM_MODEL`|Judge over an OpenAI-compatible API. Defaults: OpenRouter, model `openr
 > L86: Each candidate (a new search result, or a page diff) gets one LLM call that scores it from 0 to 1 against the monit
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Dhananjay-JSR/open-monitor 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e8a665788575` · [字段定义](../../DATASET.md)*

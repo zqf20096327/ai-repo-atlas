@@ -1,6 +1,6 @@
 # JayeeeJY/awesome-stock
 
-⭐ 9 · Python · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/JayeeeJY/awesome-stock) · [官网](https://github.com/JayeeeJY/awesome-stock/releases/latest) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **个人投资者的 AI 投资复盘工作台：记录决策依据并复盘**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

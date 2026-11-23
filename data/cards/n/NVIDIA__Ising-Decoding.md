@@ -1,6 +1,6 @@
 # NVIDIA/Ising-Decoding
 
-⭐ 122 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/Ising-Decoding) · [官网](https://developer.nvidia.com/ising) · 组织维护
+⭐ 124 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/Ising-Decoding) · [官网](https://developer.nvidia.com/ising) · 组织维护
 
 **量子纠错解码器的神经网络预解码训练方案**
 
@@ -46,12 +46,12 @@ NVIDIA 发布的 AI 量子纠错预解码器训练与推理方案：用 3D 卷�
 ```mermaid
 xychart-beta
     title "NVIDIA/Ising-Decoding 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 118 --> 123
-    line [119, 120, 121, 122, 122]
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 118 --> 125
+    line [119, 120, 121, 122, 124]
 ```
 
-2026-10-19 119 → 2026-11-22 122（+3）
+2026-10-20 119 → 2026-11-23 124（+5）
 
 
 ---

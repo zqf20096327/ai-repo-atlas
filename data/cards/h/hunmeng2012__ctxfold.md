@@ -1,6 +1,6 @@
 # hunmeng2012/ctxfold
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hunmeng2012/ctxfold) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hunmeng2012/ctxfold) · 个人维护 · 中文 README
 
 **给 Pi Agent 分层注入与按任务裁剪系统提示词的控制台**
 
@@ -40,6 +40,18 @@
 > L5: **Pi Agent 的提示词控制台：分层注入、按任务裁剪、一键清洗、原生桌面壳。**
 > L25: Pi Agent 的系统提示词来自三处：内置提示词、`~/.pi/agent/AGENTS.md`、以及扩展在 `before_agent_start` 里塞进去的内容。想改其中任何一处，一般都得手工编辑文件、算好顺序、还要担心下
 > L65: |扩展（默认）|`~/.pi/agent/extensions/ctxfold/index.ts`，每轮在 `before_agent_start` 里注入|日常|与 `AGENTS.md` 并存，排在后面|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hunmeng2012/ctxfold 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

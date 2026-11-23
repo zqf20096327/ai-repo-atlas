@@ -1,10 +1,10 @@
 # open-multi-agent/open-multi-agent
 
-⭐ 7,067 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/open-multi-agent/open-multi-agent) · [官网](https://open-multi-agent.com/go/repo) · 组织维护 · 中文 README
+⭐ 7,071 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/open-multi-agent/open-multi-agent) · [官网](https://open-multi-agent.com/go/repo) · 组织维护 · 中文 README
 
-**自托管 TypeScript 多 Agent 运行时：审批门与可验证运行记录**
+**给企业自托管的 TypeScript 多智能体运行时，带审批与可验证运行记录**
 
-OMA 是以 npm 库形式提供的自托管 TypeScript agent 运行时，支持单 agent（runAgent）、显式流水线（runTasks）与目标规划（runTeam）三种执行模式，内置调度器、检查点、持久化人工审批门、运行日志与离线 Run Viewer。提供 Anthropic/OpenAI/Azure/Bedrock/Gemini 及 DeepSeek、豆包等内置适配器，Ollama/vLLM/llama-server 经 baseURL 接入，可配置 offline/allowlist 出站策略。无遥测、无托管控制面；需 Node.js 20+。MIT 许可，另有可选 OpenTelemetry 适配包与脚手架 create-oma-app。
+OMA 是一个自托管的 TypeScript 智能体运行时库，用于协调多个 agent、插入人工审批门并在离线状态下检查运行记录。核心机制包括：持久化存储下的可恢复审批流程、记录模型输入/工具调用/结果的运行日志与离线一致性校验 verifyRun()、声明角色与执行顺序的治理检查，以及由两次模型调用加确定性调度器组成的可选协调器。MIT 许可，无遥测、无托管控制面，通过 npm 包分发，含 CLI 与离线 Run Viewer。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ OMA 是以 npm 库形式提供的自托管 TypeScript agent 运行时，支持�
 
 ## 能力要点
 
-- 持久化人工审批门：重启后可从已审核内容继续
-- 运行日志记录模型输入/工具调用/结果，verifyRun() 离线核验一致性
-- 无遥测、无托管控制面，密钥与模型归用户所有
-- 离线 Run Viewer 回放任务 DAG 与 span 瀑布图
+- 持久化人工审批门：进程重启后可从已审内容继续
+- 可验证运行日志：离线校验 run journal 的来源与内容一致性
+- 治理底线检查：声明所需角色与执行顺序并核对实际运行
+- 无遥测、无托管后端，支持本地模型与 OpenAI 兼容端点
 
 ## 适用场景
 
-- 在自有后端中编排多 agent 流水线并加人工审批
-- 对 agent 运行过程做离线审计与治理检查
-- 用本地模型（Ollama/vLLM）自托管运行 agent，不经托管控制面
+- 企业内部自托管多智能体系统并保留审计记录
+- 在工具调用前插入人工审批环节
+- 在离线或本地模型环境下运行智能体编排
 
 ## 场景标签
 
@@ -38,20 +38,20 @@ OMA 是以 npm 库形式提供的自托管 TypeScript agent 运行时，支持�
 ## 证据(README 行号)
 
 > L4:  OMA (Open Multi-Agent) is a self-hosted TypeScript agent runtime for coordinating agents, adding human approval gat
-> L52: `runAgent()` runs a single agent, `runTasks()` executes an explicit pipeline, and `runTeam()` plans from a goal. Th
+> L69: - **Your keys, your models.** Built-in adapters for Anthropic, OpenAI, Azure OpenAI, Bedrock, Gemini, Grok, NVIDIA,
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "open-multi-agent/open-multi-agent 星数(近 23 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 7000 --> 7075
-    line [7006, 7010, 7015, 7018, 7021, 7023, 7024, 7025, 7028, 7033, 7039, 7041, 7021, 7051, 7056, 7058, 7059, 7061, 7065, 7068, 7069, 7067, 7067]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 7000 --> 7077
+    line [7006, 7010, 7015, 7018, 7021, 7023, 7024, 7025, 7028, 7033, 7039, 7041, 7021, 7051, 7056, 7058, 7059, 7061, 7065, 7068, 7069, 7067, 7071]
 ```
 
-2026-10-20 7,006 → 2026-11-22 7,067（+61）
+2026-10-21 7,006 → 2026-11-23 7,071（+65）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `9eaa94ef06dc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `96a976a85d8a` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # kongbai9420/dsh-boss-worker
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kongbai9420/dsh-boss-worker) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **DeepSeek Harness 多模型多智能体流程编排插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

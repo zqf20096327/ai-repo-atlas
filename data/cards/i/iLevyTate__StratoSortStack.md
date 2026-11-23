@@ -1,6 +1,6 @@
 # iLevyTate/StratoSortStack
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/iLevyTate/StratoSortStack) · [官网](https://stratosort.com/docs/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地离线 AI 文件整理与语义搜索桌面应用**
 
@@ -11,7 +11,7 @@ Electron 桌面应用，读取文档、表格、图片、音视频等 100 余种
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

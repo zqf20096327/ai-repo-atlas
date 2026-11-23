@@ -1,6 +1,6 @@
 # SonAIengine/graph-tool-call
 
-⭐ 19 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/SonAIengine/graph-tool-call) · [官网](https://pypi.org/project/graph-tool-call/) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/SonAIengine/graph-tool-call) · [官网](https://pypi.org/project/graph-tool-call/) · 组织维护
 
 **LLM agent 大工具目录的图结构检索与 schema 精简层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SonAIengine/graph-tool-call 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    title "SonAIengine/graph-tool-call 星数(近 6 点)"
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 17, 18, 19]
+    line [17, 18, 17, 18, 19, 18]
 ```
 
-2026-10-20 17 → 2026-11-22 19（+2）
+2026-10-21 17 → 2026-11-23 18（+1）
 
 
 ---

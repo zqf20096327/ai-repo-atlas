@@ -46,12 +46,12 @@ Aurite Agents 是一个 Python 框架，用于构建、测试和运行 AI agent�
 ```mermaid
 xychart-beta
     title "Aurite-ai/aurite-agents 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-20 17 → 2026-11-22 17（+0）
+2026-10-21 17 → 2026-11-23 17（+0）
 
 
 ---

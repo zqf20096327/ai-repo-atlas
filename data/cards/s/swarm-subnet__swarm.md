@@ -1,6 +1,6 @@
 # swarm-subnet/swarm
 
-⭐ 44 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/swarm-subnet/swarm) · [官网](https://swarm124.com/) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/swarm-subnet/swarm) · [官网](https://swarm124.com/) · 组织维护
 
 **开放无人机自主飞行竞技场：训练模型参赛并排名**
 
@@ -46,12 +46,12 @@ Bittensor Subnet 124 上的无人机导航基准与竞赛网络：参与者在�
 ```mermaid
 xychart-beta
     title "swarm-subnet/swarm 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23"]
     y-axis "stars" 38 --> 45
     line [39, 42, 39, 43, 44, 44]
 ```
 
-2026-10-20 39 → 2026-11-22 44（+5）
+2026-10-21 39 → 2026-11-23 44（+5）
 
 
 ---

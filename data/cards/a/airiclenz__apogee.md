@@ -1,6 +1,6 @@
 # airiclenz/apogee
 
-⭐ 12 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/airiclenz/apogee) · [官网](https://airiclenz.com) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/airiclenz/apogee) · [官网](https://airiclenz.com) · 个人维护
 
 **面向本地 LLM 的终端 AI 编码 agent，Go 单二进制**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "airiclenz/apogee 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-14", "2026-11-23"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-11-01 10 → 2026-11-22 12（+2）
+2026-11-01 10 → 2026-11-23 12（+2）
 
 
 ---

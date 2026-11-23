@@ -1,6 +1,6 @@
 # douglasjunior/agent-remote-control
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/douglasjunior/agent-remote-control) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/douglasjunior/agent-remote-control) · 个人维护
 
 **远程指挥多个 AI 编码代理协作写码并开 PR 的自托管服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "douglasjunior/agent-remote-control 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-18", "2026-11-23"]
     y-axis "stars" 2 --> 11
     line [3, 6, 10, 10]
 ```
 
-2026-11-01 3 → 2026-11-22 10（+7）
+2026-11-01 3 → 2026-11-23 10（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyegomez/LFM
 
-⭐ 231 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/LFM) · [官网](https://discord.com/servers/agora-999382051935506503) · 个人维护
+⭐ 232 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/LFM) · [官网](https://discord.com/servers/agora-999382051935506503) · 个人维护
 
 **Liquid AI 液态基础模型（LFM）的开源 PyTorch 实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/LFM 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-11", "2026-11-23"]
     y-axis "stars" 230 --> 233
-    line [231, 232, 231, 231]
+    line [231, 232, 231, 232]
 ```
 
-2026-10-20 231 → 2026-11-22 231（+0）
+2026-10-21 231 → 2026-11-23 232（+1）
 
 
 ---

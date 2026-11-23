@@ -1,6 +1,6 @@
 # alexjbarnes/cockpit
 
-⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/alexjbarnes/cockpit) · 个人维护
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/alexjbarnes/cockpit) · 个人维护
 
 **Claude Code 的 Web UI：多会话、定时任务与多模型接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alexjbarnes/cockpit 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-20", "2026-11-23"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-20 16 → 2026-11-22 18（+2）
+2026-10-21 16 → 2026-11-23 18（+2）
 
 
 ---

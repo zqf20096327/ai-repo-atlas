@@ -1,6 +1,6 @@
 # daoif/tokless
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/daoif/tokless) · [官网](https://www.npmjs.com/package/tokless) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/daoif/tokless) · [官网](https://www.npmjs.com/package/tokless) · 个人维护 · 中文 README
 
 **给 AI 编程 Agent 削减盲目读取与 Token 消耗的省流套件**
 
@@ -39,6 +39,18 @@
 
 > L13: **面向主流 AI 编程 Agent（原生支持 Google Antigravity、Claude Code、Codex CLI，开放 `targets/` 插件架构扩展更多工具）的纯 Node.js 零依赖省流套件——毫秒级 `
 > L100: `tokless` 把「跨所有 AI 编程工具通用的省流内核」与「特定客户端的深度钩子/日志解析」拆得清清楚楚，绝不混为一谈：
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "daoif/tokless 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 12 --> 28
+    line [13, 27]
+```
+
+2026-11-22 13 → 2026-11-23 27（+14）
 
 
 ---

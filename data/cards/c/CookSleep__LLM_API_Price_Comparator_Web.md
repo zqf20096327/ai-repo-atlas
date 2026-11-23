@@ -1,6 +1,6 @@
 # CookSleep/LLM_API_Price_Comparator_Web
 
-⭐ 19 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/CookSleep/LLM_API_Price_Comparator_Web) · [官网](https://cooksleep.github.io/LLM_API_Price_Comparator_Web/) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CookSleep/LLM_API_Price_Comparator_Web) · [官网](https://cooksleep.github.io/LLM_API_Price_Comparator_Web/) · 个人维护 · 中文 README
 
 **比较各 LLM API 服务商调用同一模型价格的在线工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CookSleep/LLM_API_Price_Comparator_Web 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-19 19 → 2026-11-22 19（+0）
+2026-10-20 19 → 2026-11-23 19（+0）
 
 
 ---

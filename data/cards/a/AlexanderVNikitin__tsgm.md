@@ -1,6 +1,6 @@
 # AlexanderVNikitin/tsgm
 
-⭐ 234 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/AlexanderVNikitin/tsgm) · [官网](https://tsgm.readthedocs.io) · 组织维护
+⭐ 234 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/AlexanderVNikitin/tsgm) · [官网](https://tsgm.readthedocs.io) · 组织维护
 
 **合成时间序列数据集的生成与评估框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AlexanderVNikitin/tsgm 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-14", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-14", "2026-11-15", "2026-11-23"]
     y-axis "stars" 231 --> 235
     line [232, 233, 234, 234]
 ```
 
-2026-10-20 232 → 2026-11-22 234（+2）
+2026-10-21 232 → 2026-11-23 234（+2）
 
 
 ---

@@ -1,16 +1,16 @@
 # any4ai/AnyCrawl
 
-⭐ 3,582 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/any4ai/AnyCrawl) · [官网](https://anycrawl.dev) · 组织维护
+⭐ 3,583 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/any4ai/AnyCrawl) · [官网](https://anycrawl.dev) · 组织维护
 
-**面向 LLM 数据准备的网页抓取与 SERP 采集工具包**
+**把网页转为 LLM 可用数据的 Node.js 爬虫工具包**
 
-Node.js/TypeScript 编写的抓取工具包，提供三类能力：单页抓取（cheerio/playwright/puppeteer 引擎、代理与缓存控制）、全站遍历爬取、Google 搜索结果（SERP）提取，并支持批量任务与多线程/多进程。可选的 LLM 提取功能通过 OpenAI 兼容的 Atlas Cloud 提供商从页面生成结构化 JSON。提供托管 API 与自托管两种方式，自托管基于 pnpm 与 Docker Compose，可启用 API key 认证与按量计费（credits）。浏览器引擎由 CloakBrowser 启动，要求 Node.js 20+。
+Node.js/TypeScript 编写的爬取与抓取工具包，提供三类能力：SERP 抓取、单页内容提取、整站遍历爬取，支持多线程/多进程与批量任务。抓取结果输出 LLM 友好格式（如 Markdown），并提供基于 LLM 的页面结构化 JSON 提取功能。支持 cheerio/playwright/puppeteer 三种引擎，自托管经 Docker 部署，需 Redis；可启用 API Key 鉴权，按 credits 计费计量。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,39 +20,38 @@ Node.js/TypeScript 编写的抓取工具包，提供三类能力：单页抓取�
 
 ## 能力要点
 
-- cheerio/playwright/puppeteer 三种抓取引擎，支持 HTTP/SOCKS 代理
-- 单页抓取、全站爬取、批量任务与 SERP 搜索四类 API 端点
-- LLM 提取：通过 Atlas Cloud（OpenAI 兼容）生成页面结构化 JSON
-- 自托管支持 Docker Compose、API key 认证与 credits 计费
+- 三种抓取引擎：cheerio（静态 HTML）、playwright、puppeteer（JS 渲染）
+- SERP 批量抓取（README 中支持引擎为 Google）
+- LLM 驱动的页面结构化 JSON 提取，可配置 OpenAI 兼容 provider
+- 多线程/多进程批量任务与缓存控制参数
 
 ## 适用场景
 
-- 为 RAG 系统批量抓取并清洗网站内容
-- 采集 Google 搜索结果做竞品或关键词研究
-- 自托管一套带认证与计费的抓取 API 服务
+- 为 RAG 知识库批量抓取并转换网页内容
+- 批量采集搜索引擎结果页数据
+- 整站爬取并提取结构化 JSON 数据
 
 ## 场景标签
 
-`网页抓取` · 领域:效率与自动化
+`网页抓取` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L38: - **AI extraction**: LLM‑powered structured data (JSON) extraction from pages
-> L130: AnyCrawl supports Atlas Cloud as an OpenAI-compatible LLM provider for extraction and summarization workloads.
+> L40: LLM‑friendly. Easy to integrate and use.
 > L244: We build simple, reliable, and scalable tools for the AI ecosystem.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "any4ai/AnyCrawl 星数(近 18 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3472 --> 3592
-    line [3482, 3483, 3485, 3484, 3485, 3487, 3483, 3523, 3528, 3532, 3537, 3547, 3553, 3560, 3566, 3571, 3578, 3582]
+    title "any4ai/AnyCrawl 星数(近 19 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3472 --> 3593
+    line [3482, 3483, 3485, 3484, 3485, 3487, 3483, 3523, 3528, 3532, 3537, 3547, 3553, 3560, 3566, 3571, 3578, 3582, 3583]
 ```
 
-2026-10-20 3,482 → 2026-11-22 3,582（+100）
+2026-10-21 3,482 → 2026-11-23 3,583（+101）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `2f42b5b898b2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `9b7520f486c6` · [字段定义](../../DATASET.md)*

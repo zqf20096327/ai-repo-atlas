@@ -1,6 +1,6 @@
 # simranjeet97/Awsome_AI_Agents
 
-⭐ 232 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/simranjeet97/Awsome_AI_Agents) · 个人维护
+⭐ 233 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/simranjeet97/Awsome_AI_Agents) · 个人维护
 
 **AI Agent 教学与 15+ Agent 项目合集（含视频课程）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "simranjeet97/Awsome_AI_Agents 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 228 --> 233
-    line [230, 229, 230, 229, 230, 231, 232]
+    title "simranjeet97/Awsome_AI_Agents 星数(近 8 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 228 --> 234
+    line [230, 229, 230, 229, 230, 231, 232, 233]
 ```
 
-2026-10-20 230 → 2026-11-22 232（+2）
+2026-10-21 230 → 2026-11-23 233（+3）
 
 
 ---

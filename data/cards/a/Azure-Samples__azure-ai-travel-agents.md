@@ -1,6 +1,6 @@
 # Azure-Samples/azure-ai-travel-agents
 
-⭐ 483 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Azure-Samples/azure-ai-travel-agents) · [官网](https://azure-samples.github.io/azure-ai-travel-agents/) · 组织维护
+⭐ 484 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Azure-Samples/azure-ai-travel-agents) · [官网](https://azure-samples.github.io/azure-ai-travel-agents/) · 组织维护
 
 **旅行社 AI 多智能体参考应用：MCP 工具编排与本地免费预览**
 
@@ -45,12 +45,12 @@ Azure-Samples 出品的模块化企业参考应用：用 LangChain.js、LlamaInd
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-ai-travel-agents 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 480 --> 484
-    line [482, 481, 482, 483, 482, 481, 482, 483, 483]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 480 --> 485
+    line [482, 481, 482, 483, 482, 481, 482, 483, 484]
 ```
 
-2026-10-20 482 → 2026-11-22 483（+1）
+2026-10-21 482 → 2026-11-23 484（+2）
 
 
 ---

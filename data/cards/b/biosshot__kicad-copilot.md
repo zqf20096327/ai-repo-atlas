@@ -1,6 +1,6 @@
 # biosshot/kicad-copilot
 
-⭐ 23 · TypeScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/biosshot/kicad-copilot) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/biosshot/kicad-copilot) · 个人维护
 
 **面向 AI agent 的 KiCad MCP 服务器：自然语言生成原理图与 PCB**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "biosshot/kicad-copilot 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 17 --> 24
-    line [18, 19, 20, 21, 22, 19, 23, 23]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 17 --> 25
+    line [18, 19, 20, 21, 22, 19, 23, 24]
 ```
 
-2026-10-20 18 → 2026-11-22 23（+5）
+2026-10-21 18 → 2026-11-23 24（+6）
 
 
 ---

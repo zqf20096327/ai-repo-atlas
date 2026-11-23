@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "TensorTonic/llm-interview-questions 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22"]
+    title "TensorTonic/llm-interview-questions 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 33 --> 40
-    line [34, 36, 38, 39]
+    line [34, 36, 38, 39, 39]
 ```
 
-2026-11-16 34 → 2026-11-22 39（+5）
+2026-11-16 34 → 2026-11-23 39（+5）
 
 
 ---

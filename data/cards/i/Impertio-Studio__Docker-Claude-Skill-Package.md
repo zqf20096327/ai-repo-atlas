@@ -1,6 +1,6 @@
 # Impertio-Studio/Docker-Claude-Skill-Package
 
-⭐ 10 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Impertio-Studio/Docker-Claude-Skill-Package) · 组织维护
+⭐ 11 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Impertio-Studio/Docker-Claude-Skill-Package) · 组织维护
 
 **面向 Claude 用户的 Docker 技能包：22 条确定性技能教模型写与调试容器配置**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Impertio-Studio/Docker-Claude-Skill-Package 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 11（+1）
 
 
 ---

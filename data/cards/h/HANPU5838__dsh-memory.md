@@ -1,6 +1,6 @@
 # HANPU5838/dsh-memory
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/HANPU5838/dsh-memory) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HANPU5838/dsh-memory) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 提供本地长期记忆的插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "HANPU5838/dsh-memory 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-22"]
+    x-axis ["2026-11-15", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-15 4 → 2026-11-22 4（+0）
+2026-11-15 4 → 2026-11-23 4（+0）
 
 
 ---

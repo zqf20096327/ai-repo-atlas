@@ -1,6 +1,6 @@
 # jagdishpal02000/apple-llm
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/jagdishpal02000/apple-llm) · [官网](https://jagdishpal02000.github.io/apple-llm/) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jagdishpal02000/apple-llm) · [官网](https://jagdishpal02000.github.io/apple-llm/) · 个人维护
 
 **调用 Mac 内置 Apple 模型与语音能力的 Node/Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jagdishpal02000/apple-llm 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-23"]
     y-axis "stars" 34 --> 42
     line [35, 37, 39, 41, 41]
 ```
 
-2026-11-08 35 → 2026-11-22 41（+6）
+2026-11-08 35 → 2026-11-23 41（+6）
 
 
 ---

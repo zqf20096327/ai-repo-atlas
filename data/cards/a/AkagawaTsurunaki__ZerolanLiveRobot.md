@@ -1,6 +1,6 @@
 # AkagawaTsurunaki/ZerolanLiveRobot
 
-⭐ 834 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/AkagawaTsurunaki/ZerolanLiveRobot) · [官网](https://github.com/AkagawaTsurunaki/ZerolanLiveRobot) · 个人维护 · 中文 README
+⭐ 835 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/AkagawaTsurunaki/ZerolanLiveRobot) · [官网](https://github.com/AkagawaTsurunaki/ZerolanLiveRobot) · 个人维护 · 中文 README
 
 **开源 AI VTuber：直播、聊天与 Minecraft 游玩的直播机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AkagawaTsurunaki/ZerolanLiveRobot 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 815 --> 835
-    line [816, 817, 818, 819, 820, 821, 822, 819, 830, 832, 833, 834, 834]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 815 --> 836
+    line [816, 817, 818, 819, 820, 821, 822, 819, 830, 832, 833, 834, 835]
 ```
 
-2026-10-20 816 → 2026-11-22 834（+18）
+2026-10-21 816 → 2026-11-23 835（+19）
 
 
 ---

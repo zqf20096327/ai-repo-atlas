@@ -1,6 +1,6 @@
 # kinzaaliakbar18u-netizen/flux-lora-forge
 
-⭐ 53 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/kinzaaliakbar18u-netizen/flux-lora-forge) · 个人维护 · 中文 README
+⭐ 53 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/kinzaaliakbar18u-netizen/flux-lora-forge) · 个人维护 · 中文 README
 
 **面向 Flux1 的 LoRA 微调训练工具包，强调可复现与可观测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kinzaaliakbar18u-netizen/flux-lora-forge 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-20 53 → 2026-11-22 53（+0）
+2026-10-21 53 → 2026-11-23 53（+0）
 
 
 ---

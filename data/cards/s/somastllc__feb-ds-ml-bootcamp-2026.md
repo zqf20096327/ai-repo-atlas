@@ -1,6 +1,6 @@
 # somastllc/feb-ds-ml-bootcamp-2026
 
-⭐ 99 · Jupyter Notebook · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/feb-ds-ml-bootcamp-2026) · [官网](https://www.goobolabs.so) · 组织维护
+⭐ 100 · Jupyter Notebook · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/feb-ds-ml-bootcamp-2026) · [官网](https://www.goobolabs.so) · 组织维护
 
 **一个月 DS/ML 训练营课程仓库：课程视频与作业资源**
 
@@ -44,12 +44,12 @@ Goobo Labs 主办的一个月数据科学与机器学习训练营的课程资料
 ```mermaid
 xychart-beta
     title "somastllc/feb-ds-ml-bootcamp-2026 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-22"]
-    y-axis "stars" 97 --> 100
-    line [98, 99, 99]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-23"]
+    y-axis "stars" 97 --> 101
+    line [98, 99, 100]
 ```
 
-2026-10-20 98 → 2026-11-22 99（+1）
+2026-10-21 98 → 2026-11-23 100（+2）
 
 
 ---

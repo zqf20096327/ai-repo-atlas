@@ -1,6 +1,6 @@
 # hao-ai-lab/d3LLM
 
-⭐ 158 · Python · 推送 2026-05-01 · [GitHub](https://github.com/hao-ai-lab/d3LLM) · [官网](https://arxiv.org/abs/2601.07568) · 组织维护
+⭐ 159 · Python · 推送 2026-05-01 · [GitHub](https://github.com/hao-ai-lab/d3LLM) · [官网](https://arxiv.org/abs/2601.07568) · 组织维护
 
 **ICML'26 论文官方实现：伪轨迹蒸馏的高速扩散语言模型及训练评测代码**
 
@@ -46,12 +46,12 @@ d3LLM 的官方开源实现，包含三个已发布于 HuggingFace 的模型（d
 ```mermaid
 xychart-beta
     title "hao-ai-lab/d3LLM 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 156 --> 159
-    line [157, 158, 158]
+    x-axis ["2026-10-20", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 156 --> 160
+    line [157, 158, 159]
 ```
 
-2026-10-19 157 → 2026-11-22 158（+1）
+2026-10-20 157 → 2026-11-23 159（+2）
 
 
 ---

@@ -45,12 +45,12 @@ Spiral 维护的 PHP Composer 包：通过 Generator::generate 读取 DTO 类（
 ```mermaid
 xychart-beta
     title "spiral/json-schema-generator 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-16", "2026-11-23"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-11-16 115 → 2026-11-22 115（+0）
+2026-11-16 115 → 2026-11-23 115（+0）
 
 
 ---

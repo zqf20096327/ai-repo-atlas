@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CursedPrograms/GloriosaAI 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-11", "2026-11-22"]
+    title "CursedPrograms/GloriosaAI 星数(近 4 点)"
+    x-axis ["2026-10-21", "2026-11-11", "2026-11-22", "2026-11-23"]
     y-axis "stars" 16 --> 19
-    line [18, 17, 18]
+    line [18, 17, 18, 18]
 ```
 
-2026-10-20 18 → 2026-11-22 18（+0）
+2026-10-21 18 → 2026-11-23 18（+0）
 
 
 ---

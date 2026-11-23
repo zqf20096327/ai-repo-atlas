@@ -1,6 +1,6 @@
 # quo-ai/quo
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/quo-ai/quo) · [官网](https://quo.computer) · 组织维护
+⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/quo-ai/quo) · [官网](https://quo.computer) · 组织维护
 
 **在本地设备离线运行的私有 AI 应用，提供聊天、编码代理与图片生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "quo-ai/quo 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-13", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-13 3 → 2026-11-22 3（+0）
+2026-11-13 3 → 2026-11-23 4（+1）
 
 
 ---

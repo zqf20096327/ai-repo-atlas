@@ -42,6 +42,18 @@
 > L69: 多 Agent（LangChain / LangGraph）协作：源码侧经 MCP（文件系统、ripgrep）与语言服务器按需取上下文；CodeQL 侧用内部知识库约束生成，并用 CodeQL LSP 做语法闭环。支持 DeepS
 > L106: 内置：`deepseek` · `siliconflow` · `zhipu` · `kimi` · `gemini`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Fruit-Guardians/PureAutoCodeql 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b68f62625360` · [字段定义](../../DATASET.md)*

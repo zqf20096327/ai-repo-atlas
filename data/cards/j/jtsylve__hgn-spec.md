@@ -1,6 +1,6 @@
 # jtsylve/hgn-spec
 
-⭐ 11 · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/jtsylve/hgn-spec) · 个人维护
+⭐ 12 · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/jtsylve/hgn-spec) · 个人维护
 
 **halogen HGN 权重格式的净室规范文档集，面向推理引擎移植者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jtsylve/hgn-spec 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "jtsylve/hgn-spec 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-20 10 → 2026-11-22 11（+1）
+2026-10-21 10 → 2026-11-23 12（+2）
 
 
 ---

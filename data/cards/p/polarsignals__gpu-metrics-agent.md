@@ -44,12 +44,12 @@ Polar Signals 开发的 GPU 可观测性代理：通过 NVML 采集 GPU 计算�
 ```mermaid
 xychart-beta
     title "polarsignals/gpu-metrics-agent 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-20 28 → 2026-11-22 28（+0）
+2026-10-21 28 → 2026-11-23 28（+0）
 
 
 ---

@@ -41,6 +41,18 @@
 > L28: - **Model Engine:** `Ma7ee7/Qwen3.8_4B_Distilled_GGUF:Q4_K_M`
 > L30: - **Local Server:** Ollama Native HuggingFace GGUF
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "47thtechcorner/RayCodes_Qwen3.8 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d1388aca61aa` · [字段定义](../../DATASET.md)*

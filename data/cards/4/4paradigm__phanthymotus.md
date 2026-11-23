@@ -1,6 +1,6 @@
 # 4paradigm/phanthymotus
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/4paradigm/phanthymotus) · [官网](https://motus.phanthy.com/) · 组织维护 · 中文 README
+⭐ 56 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/4paradigm/phanthymotus) · [官网](https://motus.phanthy.com/) · 组织维护 · 中文 README
 
 **给机器人开发者的具身智能 Agent 框架与平台（ROS2 基础）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "4paradigm/phanthymotus 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 42 --> 56
-    line [43, 45, 46, 47, 48, 49, 47, 54, 55, 55]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 42 --> 57
+    line [43, 45, 46, 47, 48, 49, 47, 54, 55, 56]
 ```
 
-2026-10-20 43 → 2026-11-22 55（+12）
+2026-10-21 43 → 2026-11-23 56（+13）
 
 
 ---

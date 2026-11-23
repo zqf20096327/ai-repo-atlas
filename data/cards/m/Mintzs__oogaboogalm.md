@@ -45,12 +45,12 @@ OogaBoogaLM 是基于 Qwen2.5-7B-Instruct 与 Qwen3-8B 的 QLoRA 微调模型（
 ```mermaid
 xychart-beta
     title "Mintzs/oogaboogalm 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-19 50 → 2026-11-22 50（+0）
+2026-10-20 50 → 2026-11-23 50（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # redhat-community-ai-tools/harness-eval
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/redhat-community-ai-tools/harness-eval) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/redhat-community-ai-tools/harness-eval) · 组织维护
 
 **对 AI 编程 agent 配置做确定性检查（lint/安全/门禁）的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "redhat-community-ai-tools/harness-eval 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    title "redhat-community-ai-tools/harness-eval 星数(近 8 点)"
+    x-axis ["2026-10-21", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 31 --> 37
-    line [32, 33, 34, 35, 32, 35, 36]
+    line [32, 33, 34, 35, 32, 35, 36, 36]
 ```
 
-2026-10-20 32 → 2026-11-22 36（+4）
+2026-10-21 32 → 2026-11-23 36（+4）
 
 
 ---

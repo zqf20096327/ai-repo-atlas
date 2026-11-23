@@ -1,6 +1,6 @@
 # maxsoldev/eduagent
 
-⭐ 3 · TypeScript · 推送 2026-11-12 · [GitHub](https://github.com/maxsoldev/eduagent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向开发者的 coding-agent 工作原理教学：可读复现+可视化**
 

@@ -43,12 +43,12 @@ Florian Marquardt 主讲课程《Machine Learning for Physicists》的配套代�
 ```mermaid
 xychart-beta
     title "FlorianMarquardt/machine-learning-for-physicists 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-23"]
     y-axis "stars" 347 --> 352
     line [348, 349, 350, 351, 350, 350]
 ```
 
-2026-10-20 348 → 2026-11-22 350（+2）
+2026-10-21 348 → 2026-11-23 350（+2）
 
 
 ---

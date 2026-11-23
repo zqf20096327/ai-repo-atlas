@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-21 4 → 2026-11-22 4（+0）
+2026-11-21 4 → 2026-11-23 4（+0）
 
 
 ---

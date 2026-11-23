@@ -1,10 +1,10 @@
 # samugit83/redamon
 
-⭐ 3,462 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/samugit83/redamon) · [官网](https://www.redamon.org) · 个人维护
+⭐ 3,467 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/samugit83/redamon) · [官网](https://www.redamon.org) · 组织维护
 
-**自主 AI 渗透测试框架：侦察→利用→修复→开 PR 全流水线**
+**自托管 AI 渗透测试平台：攻击面建图、授权利用、生成修复 PR**
 
-自托管的开源渗透测试框架，以 Docker 容器栈（webapp、Postgres、Neo4j、agent、Kali 沙箱等 7-11 个容器）部署。将多个安全扫描工具并行链接做侦察，结果合并为 Neo4j 攻击面知识图谱；随后自主 AI agent 验证 CVE 可利用性，CypherFix 分类去重漏洞发现，CodeFix agent 克隆仓库实现修复并提交 GitHub PR，关键步骤设有人工审批门。LLM 后端支持 OpenAI、Anthropic、OpenRouter、Bedrock 及 OpenAI 兼容端点（Ollama、vLLM、Groq 等）。限定授权安全测试用途。
+自托管的多用户、多租户 AI 渗透测试平台，支持基于角色的访问控制、交战规则约束与只增审计日志。六阶段侦察引擎将攻击面（子域名、端口、端点、参数）并行扫描并合并为 Neo4j 知识图谱；AI agent 在 Kali 沙箱中验证 CVE 可利用性等，带人工审批门；CypherFix 分诊 agent 关联去重发现，CodeFix agent 克隆仓库实施修复并开 GitHub PR。集成 Metasploit、OpenVAS 等 100+ 安全工具与 185,000+ 检测规则，支持本地模型部署。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 并行多工具侦察流水线，结果合并为 Neo4j 攻击面知识图谱
-- CypherFix AI 分类去重 + CodeFix agent 自动修复并开 GitHub PR
-- 关键步骤人工审批门，Kali 沙箱内执行利用
-- MCP 双向：可接入任意 MCP server 作为工具，也可被 Claude Code 驱动
+- 攻击面并行侦察并合并为 Neo4j 知识图谱，可自然语言查询
+- Kali 沙箱内自主利用，带人工审批门与审计日志
+- CypherFix/CodeFix agent 关联分诊发现并生成修复 PR
+- 支持接入 MCP server 作为工具，支持本地模型
 
 ## 适用场景
 
-- 授权范围内对企业资产做自动化渗透测试与漏洞验证
-- 发现漏洞后自动生成修复补丁并提交 PR 供人工审核
-- 将攻击面以知识图谱形式管理并用自然语言查询
+- 对自己拥有或获书面授权的基础设施做全范围安全评估
+- 用知识图谱统一管理多工具侦察结果
+- 让 AI 分诊安全发现并以 PR 形式交付修复供人工审核
 
 ## 场景标签
 
-`网络安全` `知识图谱` · 领域:知识与检索
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L7:  An autonomous AI framework that chains reconnaissance, exploitation, and post-exploitation into a single pipeline, 
-> L61: RedAmon doesn't stop at finding vulnerabilities, it fixes them. The pipeline starts with a 6-phase reconnaissance e
-> L175: - **LLM Providers** -- add API keys for OpenAI, Anthropic, OpenRouter, AWS Bedrock, or any OpenAI-compatible endpo
+> L7:  RedAmon is a next-generation, enterprise-grade platform for AI-driven penetration testing, at the forefront of agen
+> L63: RedAmon doesn't stop at finding vulnerabilities, it fixes them. The pipeline starts with a 6-phase reconnaissance e
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "samugit83/redamon 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3130 --> 3492
-    line [3160, 3178, 3188, 3201, 3205, 3212, 3219, 3225, 3231, 3239, 3247, 3256, 3261, 3205, 3330, 3365, 3372, 3386, 3393, 3398, 3405, 3419, 3428, 3436, 3450, 3456, 3462]
+    title "samugit83/redamon 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3130 --> 3497
+    line [3160, 3178, 3188, 3201, 3205, 3212, 3219, 3225, 3231, 3239, 3247, 3256, 3261, 3205, 3330, 3365, 3372, 3386, 3393, 3398, 3405, 3419, 3428, 3436, 3450, 3456, 3462, 3467]
 ```
 
-2026-10-20 3,160 → 2026-11-22 3,462（+302）
+2026-10-21 3,160 → 2026-11-23 3,467（+307）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `6309c2039ba6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `2e22975f9259` · [字段定义](../../DATASET.md)*

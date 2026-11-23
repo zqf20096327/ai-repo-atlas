@@ -1,6 +1,6 @@
 # ShehabEddin64/Cue_Space
 
-⭐ 4 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ShehabEddin64/Cue_Space) · [官网](https://shehabeddin64.github.io/Cue_Space/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Mac 活动工作区启动器：一键打开链接、应用、文件并排布窗口**
 
@@ -11,7 +11,7 @@ macOS 桌面效率工具，核心概念是 Cue：把一个活动所需的链接�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

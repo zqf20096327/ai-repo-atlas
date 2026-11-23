@@ -1,6 +1,6 @@
 # seniqs-as/idea-to-launch
 
-⭐ 6 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/seniqs-as/idea-to-launch) · [官网](https://seniqs.no) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **结构化访谈式 AI prompt/skill：从模糊想法收敛到已验证的项目方案**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

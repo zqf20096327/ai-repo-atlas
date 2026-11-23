@@ -1,10 +1,10 @@
 # agentscope-ai/ReMe
 
-⭐ 3,829 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/agentscope-ai/ReMe) · [官网](https://reme.agentscope.io/) · 组织维护 · 中文 README
+⭐ 3,828 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/agentscope-ai/ReMe) · [官网](https://reme.agentscope.io/) · 组织维护 · 中文 README
 
-**面向 AI agent 的本地优先记忆管理工具包**
+**面向 AI agent 的本地文件式长期记忆管理工具包**
 
-ReMe 将对话与外部资源逐步转化为可读、可编辑的 Markdown 记忆文件（含 frontmatter 与 wikilinks），按 capture→index→consolidate→recall 循环运行，支持 auto_memory/auto_resource/auto_index/auto_dream/proactive_read 等能力。检索采用 BM25 加可选向量（RRF 融合），默认无需嵌入模型或 LLM API key。可通过 CLI、HTTP、MCP、Python API 供多个 agent 共享同一本地记忆工作区，并为 DeepSeek Harness、OpenClaw、QwenPaw、Claude Code、Hermes、Codex 等提供集成；要求 Python 3.11+。
+ReMe 将对话与资源转化为可读、可编辑、可检索的 Markdown 记忆文件（带 frontmatter 与 wikilink），按 capture→index→consolidate→recall 循环维护工作区。默认 BM25 检索，嵌入语义检索为可选并需额外配置；基础文件操作与搜索无需 LLM 凭据。通过 CLI、HTTP、MCP 或 Python API 供多种 agent 运行时共享同一本地工作区，并提供针对 DeepSeek Harness、OpenClaw、Claude Code、Codex 等的插件。需要 Python 3.11+，支持 pip、源码与 Docker 部署。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ReMe 将对话与外部资源逐步转化为可读、可编辑的 Markdown 记�
 
 ## 能力要点
 
-- 记忆以普通 Markdown 文件存储，索引与元数据可重建
-- BM25 + 可选向量检索经 RRF 融合，返回行级片段与 wikilink 邻居
-- 为 6+ 种 agent 运行时提供原生插件或 MCP/HTTP/CLI 集成
-- 基础文件操作、BM25 搜索与 wikilink 遍历无需 LLM 凭证
+- 记忆以普通 Markdown 文件存储，用户可直接查看、编辑与备份
+- BM25 + 可选 embeddings + wikilink 扩展的行级检索
+- 提供 MCP、HTTP、CLI、Python API 四种接入方式
+- 支持多模态记忆：图像随对话上下文入库并保留来源
 
 ## 适用场景
 
-- 让个人助手与编码 agent 共享同一份本地长期记忆
-- 把聊天记录和本地资源沉淀为可编辑的知识库
-- 为 agent 增加 recall、自动记忆与定期整理能力
+- 为个人助手或编码 agent 添加跨会话长期记忆
+- 多个 agent 共享同一份本地知识工作区
+- 让 agent 定期整理对话为新知识与摘要节点
 
 ## 场景标签
 
@@ -37,22 +37,22 @@ ReMe 将对话与外部资源逐步转化为可读、可编辑的 Markdown 记�
 
 ## 证据(README 行号)
 
-> L16:  A local-first, self-evolving personal knowledge base for AI agents.
-> L200: ReMe can run as a local memory service accessed through the CLI, HTTP API, or MCP server, or it can be embedded in
-> L252: ReMe follows a capture → index → consolidate → recall loop. Workspace files remain the durable source of truth;
+> L24: 🧠 ReMe turns conversations and resources into readable, editable, searchable, and interconnected Markdown memory. A
+> L35: - **One memory workspace works across agents.** Personal assistants, coding agents, and other agent runtimes can sh
+> L208: ReMe can run as a local memory service accessed through the CLI, HTTP API, or MCP server, or it can be embedded in
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/ReMe 星数(近 26 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    title "agentscope-ai/ReMe 星数(近 27 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3637 --> 3846
-    line [3654, 3664, 3671, 3678, 3680, 3683, 3693, 3701, 3707, 3720, 3724, 3729, 3733, 3680, 3770, 3784, 3792, 3796, 3798, 3802, 3807, 3812, 3813, 3820, 3827, 3829]
+    line [3654, 3664, 3671, 3678, 3680, 3683, 3693, 3701, 3707, 3720, 3724, 3729, 3733, 3680, 3770, 3784, 3792, 3796, 3798, 3802, 3807, 3812, 3813, 3820, 3827, 3829, 3828]
 ```
 
-2026-10-20 3,654 → 2026-11-22 3,829（+175）
+2026-10-21 3,654 → 2026-11-23 3,828（+174）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `72a35e857c2c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `691ead6b458d` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # mzattera/predictive-powers
 
-⭐ 15 · Java · Apache-2.0 · 推送 2026-01-04 · [GitHub](https://github.com/mzattera/predictive-powers) · [官网](https://mzattera.github.io/predictive-powers/) · 个人维护
+⭐ 15 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mzattera/predictive-powers) · [官网](https://mzattera.github.io/predictive-powers/) · 个人维护
 
 **Java 库：用生成式 AI 服务创建自主 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mzattera/predictive-powers 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-20 15 → 2026-11-22 15（+0）
+2026-10-21 15 → 2026-11-23 15（+0）
 
 
 ---

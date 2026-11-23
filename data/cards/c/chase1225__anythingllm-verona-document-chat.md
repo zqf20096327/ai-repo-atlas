@@ -1,6 +1,6 @@
 # chase1225/anythingllm-verona-document-chat
 
-⭐ 149 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/chase1225/anythingllm-verona-document-chat) · 个人维护
+⭐ 146 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chase1225/anythingllm-verona-document-chat) · 个人维护
 
 **面向本地文档问答的桌面客户端，回答附带来源引文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chase1225/anythingllm-verona-document-chat 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    title "chase1225/anythingllm-verona-document-chat 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 143 --> 150
-    line [144, 149]
+    line [144, 149, 146]
 ```
 
-2026-11-21 144 → 2026-11-22 149（+5）
+2026-11-21 144 → 2026-11-23 146（+2）
 
 
 ---

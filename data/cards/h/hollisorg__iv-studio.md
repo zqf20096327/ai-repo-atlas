@@ -1,6 +1,6 @@
 # hollisorg/iv-studio
 
-⭐ 115 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hollisorg/iv-studio) · [官网](https://infinitevariance.ai/studio) · 组织维护
+⭐ 116 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hollisorg/iv-studio) · [官网](https://infinitevariance.ai/studio) · 组织维护
 
 **本地 AI 短片制作桌面应用：固定角色演员+剪辑+语音音乐**
 
@@ -45,13 +45,13 @@ Infinite Variance 出品的免费开源桌面应用，用于在本地 PC 制作�
 
 ```mermaid
 xychart-beta
-    title "hollisorg/iv-studio 星数(近 8 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 102 --> 116
-    line [103, 104, 105, 106, 109, 111, 112, 115]
+    title "hollisorg/iv-studio 星数(近 9 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 102 --> 117
+    line [103, 104, 105, 106, 109, 111, 112, 115, 116]
 ```
 
-2026-11-12 103 → 2026-11-22 115（+12）
+2026-11-12 103 → 2026-11-23 116（+13）
 
 
 ---

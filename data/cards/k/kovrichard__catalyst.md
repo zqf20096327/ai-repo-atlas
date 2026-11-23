@@ -1,6 +1,6 @@
 # kovrichard/catalyst
 
-⭐ 470 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/kovrichard/catalyst) · [官网](https://catalyst.konvert7.com) · 个人维护
+⭐ 471 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/kovrichard/catalyst) · [官网](https://catalyst.konvert7.com) · 个人维护
 
 **面向 AI agent 的 Next.js 全栈启动模板：自检 agent 输出并内置 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kovrichard/catalyst 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-23"]
     y-axis "stars" 468 --> 472
-    line [470, 469, 470, 469, 470, 471, 470, 470]
+    line [470, 469, 470, 469, 470, 471, 470, 471]
 ```
 
-2026-10-20 470 → 2026-11-22 470（+0）
+2026-10-21 470 → 2026-11-23 471（+1）
 
 
 ---

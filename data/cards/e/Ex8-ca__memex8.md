@@ -1,6 +1,6 @@
 # Ex8-ca/memex8
 
-⭐ 19 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Ex8-ca/memex8) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Ex8-ca/memex8) · 个人维护
 
 **自托管 AI agent 长期记忆系统：衰减/关联/夜间整合与 Web UI**
 
@@ -46,12 +46,12 @@ Rust 实现的 agent 记忆服务器，存储后端为 Qdrant，向量经 TurboQ
 ```mermaid
 xychart-beta
     title "Ex8-ca/memex8 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-23"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-11-13 18 → 2026-11-22 19（+1）
+2026-11-13 18 → 2026-11-23 19（+1）
 
 
 ---

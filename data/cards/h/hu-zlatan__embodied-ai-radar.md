@@ -1,6 +1,6 @@
 # hu-zlatan/embodied-ai-radar
 
-⭐ 6 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hu-zlatan/embodied-ai-radar) · [官网](https://embodied-ai-radar.com/) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hu-zlatan/embodied-ai-radar) · [官网](https://embodied-ai-radar.com/) · 个人维护 · 中文 README
 
 **给具身智能研究者提供每日更新的中英双语论文/代码/数据集导航**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hu-zlatan/embodied-ai-radar 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-14", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-14", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 7
     line [3, 4, 5, 6, 6]
 ```
 
-2026-11-08 3 → 2026-11-22 6（+3）
+2026-11-08 3 → 2026-11-23 6（+3）
 
 
 ---

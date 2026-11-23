@@ -1,6 +1,6 @@
 # thevibeworks/opus-5-5-for-everyone
 
-⭐ 3 · JavaScript · 推送 2026-10-07 · [GitHub](https://github.com/thevibeworks/opus-5-5-for-everyone) · [官网](https://thevibeworks.github.io/opus-5-5-for-everyone/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **展示 Claude Opus 5.5 以交互界面作答的概念演示页**
 

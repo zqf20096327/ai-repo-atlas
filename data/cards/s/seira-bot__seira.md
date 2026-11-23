@@ -1,6 +1,6 @@
 # seira-bot/seira
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/seira-bot/seira) · [官网](https://seira.bot) · 组织维护
+⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/seira-bot/seira) · [官网](https://seira.bot) · 组织维护
 
 **把 Claude Code、Codex 等 25+ AI 引擎组队放进一个聊天桌面应用**
 
@@ -41,6 +41,18 @@
 > L7:  Seira is a free, open source desktop app for Windows and Linux. It runs Claude Code, Codex, Gemini, and more than 2
 > L50:  One small harness server on <code>127.0.0.1</code> owns every agent process. Transcripts and keys stay on your com
 > L107: The harness server owns every agent process.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "seira-bot/seira 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 21 --> 25
+    line [22, 24]
+```
+
+2026-11-22 22 → 2026-11-23 24（+2）
 
 
 ---

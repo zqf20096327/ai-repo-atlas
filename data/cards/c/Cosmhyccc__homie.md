@@ -1,6 +1,6 @@
 # Cosmhyccc/homie
 
-⭐ 4 · Swift · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Cosmhyccc/homie) · [官网](https://homie-mac.vercel.app) · 个人维护
+⭐ 8 · Swift · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Cosmhyccc/homie) · [官网](https://homie-mac.vercel.app) · 个人维护
 
 **Mac 刘海中的本地离线语音助手：按住说话即完成操作**
 
@@ -40,6 +40,18 @@
 > L5: **A voice buddy in your Mac's notch that runs entirely on your Mac.**
 > L6: Press fn , talk. It sets timers, plays music, reads your calendar, flips dark mode, looks at what you circle on scre
 > L74: Requires an **Apple silicon** Mac (M1 or newer) on **macOS 26+**.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Cosmhyccc/homie 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 9
+    line [4, 8]
+```
+
+2026-11-22 4 → 2026-11-23 8（+4）
 
 
 ---

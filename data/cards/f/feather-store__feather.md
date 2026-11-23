@@ -42,6 +42,18 @@
 > L22: hop. It is an embedded vector store with the things a memory actually needs:
 > L50: Integrations that already exist: an **MCP server** for Claude Desktop and Claude
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "feather-store/feather 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-22 11 → 2026-11-23 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4bff7a614e1e` · [字段定义](../../DATASET.md)*

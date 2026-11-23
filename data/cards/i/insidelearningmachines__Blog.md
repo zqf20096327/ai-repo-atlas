@@ -1,6 +1,6 @@
 # insidelearningmachines/Blog
 
-⭐ 28 · Jupyter Notebook · 推送 2026-10-18 · [GitHub](https://github.com/insidelearningmachines/Blog) · [官网](https://www.insidelearningmachines.com) · 个人维护
+⭐ 29 · Jupyter Notebook · 推送 2026-10-18 · [GitHub](https://github.com/insidelearningmachines/Blog) · [官网](https://www.insidelearningmachines.com) · 个人维护
 
 **博客文章配套的 Python/Jupyter 代码示例集**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "insidelearningmachines/Blog 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-20 28 → 2026-11-22 28（+0）
+2026-10-21 28 → 2026-11-23 29（+1）
 
 
 ---

@@ -1,10 +1,10 @@
 # unslothai/unsloth
 
-⭐ 79,904 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
+⭐ 79,987 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
 
-**桌面应用：本地运行并微调 LLM 与扩散模型**
+**本地运行与训练 LLM/扩散模型的桌面应用**
 
-Unsloth 提供三种使用形态：Desktop 桌面应用（Windows/macOS/Linux 安装包）、Studio Web UI 和 Core 代码库版本，用于本地运行与训练 LLM、GGUF、MLX、扩散、TTS、嵌入等模型。微调支持 LoRA/QLoRA/GRPO/DPO 等方法，并可导出 GGUF、FP8 等格式部署。通过 unsloth start 命令可将 Claude Code、Codex 等 agent 接入本地模型；提供 OpenAI 兼容 API、RAG、网页搜索与 LAN/远程 HTTPS 访问。支持 Docker 部署与免费训练 notebooks。
+Unsloth 提供三种形态：Desktop 桌面应用、Studio Web UI 和 Core 代码版，用于在本地运行与训练 LLM、扩散、决策、嵌入、音频等模型，覆盖 Qwen、DeepSeek、Gemma、Kimi 等型号。训练侧支持 LoRA/QLoRA、GRPO/DPO 等，并导出 GGUF 等格式；推理侧提供 OpenAI 兼容 API、RAG、浏览器操作，以及通过 unsloth start 一条命令把 Claude Code、Codex 等 agent 接到本地模型。支持 Windows/macOS/Linux 安装包、Docker 镜像与 Homebrew/winget 安装。
 
 ## 筛选速览
 
@@ -27,40 +27,40 @@ Unsloth 提供三种使用形态：Desktop 桌面应用（Windows/macOS/Linux �
 
 ## 能力要点
 
-- 运行与微调 LLM、GGUF、MLX、扩散、决策、嵌入、音频模型
-- unsloth start 一条命令连接 Claude Code/Codex 等到本地模型
-- OpenAI 兼容 API、RAG、网页搜索与 LAN/Cloudflare 远程访问
-- 免费 notebooks 覆盖 GRPO、TTS、视觉等训练场景
+- 三种使用形态：Desktop 桌面应用、Studio Web UI、Core 代码版
+- 支持 LoRA、QLoRA、GRPO、DPO、FP8 等训练方式，导出 GGUF/NVFP4/FP8
+- unsloth start 一条命令将 Claude Code、Codex 等 agent 连接本地模型
+- 多平台安装：安装包、install.sh 脚本、Docker、Homebrew、winget
 
 ## 适用场景
 
-- 在本地桌面运行开源模型进行对话或图像生成
-- 微调模型后导出 GGUF 等格式部署
-- 让 Claude Code/Codex 等 agent 使用本地模型
-- 通过局域网或远程 HTTPS 访问本地模型服务
+- 在本地电脑上运行开源 LLM 并通过 OpenAI 兼容 API 提供服务
+- 微调 LLM 或扩散模型并导出 GGUF 部署
+- 把 Claude Code/Codex 等 agent 接入本地模型
+- 从 PDF/CSV/DOCX 构建训练数据集
 
 ## 场景标签
 
-`微调` `强化学习` `推理引擎` `图像生成` · 领域:内容生成
+`微调` `强化学习` `RAG` `图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L6: Unsloth is the first desktop app to run and train models.
 > L80: * **Agents & Tools:** Use local models with Claude Code, Codex, and MCP, including tool calling and code execution.
-> L89: * **Fine-tuning:** Train LLMs, diffusion, decision, TTS, and embedding models 2× faster with 70% less VRAM with no 
+> L115: Unsloth can be used in three ways: **Unsloth Desktop**, the desktop app; **Unsloth Studio**, the web UI; or **Unsl
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "unslothai/unsloth 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 78108 --> 80067
-    line [78271, 78366, 78425, 78474, 78514, 78551, 78596, 78631, 78695, 78757, 78819, 78868, 78917, 78514, 79193, 79293, 79333, 79393, 79446, 79500, 79563, 79620, 79699, 79746, 79792, 79843, 79904]
+    title "unslothai/unsloth 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 78100 --> 80158
+    line [78271, 78366, 78425, 78474, 78514, 78551, 78596, 78631, 78695, 78757, 78819, 78868, 78917, 78514, 79193, 79293, 79333, 79393, 79446, 79500, 79563, 79620, 79699, 79746, 79792, 79843, 79904, 79987]
 ```
 
-2026-10-20 78,271 → 2026-11-22 79,904（+1,633）
+2026-10-21 78,271 → 2026-11-23 79,987（+1,716）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6fe419123131` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `eff5f75e8e0a` · [字段定义](../../DATASET.md)*

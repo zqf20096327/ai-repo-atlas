@@ -1,6 +1,6 @@
 # AEON-7/aeon-music-maker
 
-⭐ 13 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/aeon-music-maker) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/aeon-music-maker) · 个人维护
 
 **面向音乐创作者的 ACE Step 文生音乐 CLI，带母带处理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AEON-7/aeon-music-maker 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 12 --> 16
+    line [13, 15]
 ```
 
-2026-10-20 13 → 2026-11-22 13（+0）
+2026-10-21 13 → 2026-11-23 15（+2）
 
 
 ---

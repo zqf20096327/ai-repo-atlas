@@ -1,10 +1,10 @@
 # microsoft/PhiCookBook
 
-⭐ 3,907 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/PhiCookBook) · 组织维护
+⭐ 3,908 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/PhiCookBook) · 组织维护
 
-**微软 Phi 系列小语言模型的上手示例与教程合集**
+**微软 Phi 系列小模型的上手示例教程集**
 
-微软官方维护的 Phi 系列 SLM 实操教程仓库（Cookbook），覆盖 Phi-3/Phi-4 及 mini/multimodal 等变体的使用示例。内容包括在 Microsoft Foundry、GitHub Model Catalog、Hugging Face 上体验和定制 Phi 模型，构建云端或边缘设备上的生成式 AI 应用，并提供 Codespaces 与 Dev Containers 两种开发环境。仓库含 50+ 种语言翻译，可经 sparse checkout 跳过翻译目录以减小下载量；另附负责任 AI 与 Azure AI 评估 SDK 的指引。以 git clone 方式获取，无桌面构建物。
+微软官方维护的 Phi 系列开源小语言模型（SLM）教程仓库，提供在云与边缘设备上使用和部署 Phi 模型的示例与入门路径，覆盖文本/聊天生成、代码、图像、音频等场景。仓库含 50+ 语言翻译（可用 sparse-checkout 加速克隆），介绍 Microsoft Foundry 模型目录、Azure AI Playground 与 Hugging Face/Hugging Chat 体验入口，并附负责任 AI 内容与微软其他系列课程索引。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖 Phi-3/Phi-4 系列模型的使用与 E2E 解决方案示例
-- 支持 GitHub Codespaces 与 Dev Containers 开发环境
-- 50+ 语言翻译，可用 sparse checkout 跳过以加速克隆
-- 演示在 Microsoft Foundry / GitHub Models / Hugging Face 三个渠道使用 Phi
+- Phi 模型在云与边缘设备上部署的示例集合
+- 支持 GitHub Codespaces / Dev Containers 直接打开使用
+- 50+ 语言翻译，提供 sparse-checkout 快速克隆方式
+- 提供 Microsoft Foundry、Azure AI Playground、Hugging Face 多个体验入口
 
 ## 适用场景
 
-- 跟着示例学习微软 Phi 系列小语言模型的用法
-- 查找云端或边缘设备上部署 Phi 构建 AI 应用的方案
-- 在 Codespaces 或 Dev Containers 中直接运行示例环境
+- 入门使用微软 Phi 系列小语言模型
+- 在有限算力设备上构建生成式 AI 应用的参考
+- 查找 Phi 模型在云/边缘不同硬件上的部署示例
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 ## 证据(README 行号)
 
 > L1: # Phi Cookbook: Hands-On Examples with Microsoft's Phi Models
-> L17: Phi is a series of open source AI models developed by Microsoft.
-> L25: 2. **Clone the Repository**: `git clone https://github.com/microsoft/PhiCookBook.git`
+> L23: Follow these steps to get started using these resource :
+> L62: You can learn how to use Microsoft Phi and how to build E2E solutions in your different hardware devices. To experi
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "microsoft/PhiCookBook 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23"]
     y-axis "stars" 3900 --> 3909
-    line [3901, 3902, 3903, 3902, 3901, 3906, 3907, 3906, 3907, 3908, 3907, 3907]
+    line [3901, 3902, 3903, 3902, 3901, 3906, 3907, 3906, 3907, 3908, 3907, 3908]
 ```
 
-2026-10-19 3,901 → 2026-11-22 3,907（+6）
+2026-10-20 3,901 → 2026-11-23 3,908（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `3094906000dd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `46cfc6ff7125` · [字段定义](../../DATASET.md)*

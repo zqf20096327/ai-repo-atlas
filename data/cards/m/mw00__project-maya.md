@@ -1,10 +1,10 @@
 # mw00/project-maya
 
-⭐ 3,153 · Cuda · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mw00/project-maya) · [官网](https://huggingface.co/peasantsmith) · 个人维护
+⭐ 3,218 · Cuda · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mw00/project-maya) · [官网](https://huggingface.co/peasantsmith) · 个人维护
 
-**在自有 GPU 上私有运行 GLM-5.3-Flash/DeepSeek-V4.1-Flash 的推理套件**
+**在自己 GPU 上本地运行多个大型 MoE 模型的推理引擎与 API 服务**
 
-面向想在本地硬件上运行超大规模 MoE 模型的用户：为 GLM-5.3-Flash（321B）和 DeepSeek-V4.1-Flash-1017（748B）提供专用引擎，支持 1-16 张 NVIDIA GPU 或部分 AMD 卡，通过自研量化把常驻专家放在 VRAM/RAM/NVMe 分层管理，并按机器测量自动调参。提供浏览器聊天界面、实时监控、图像输入与 OpenAI/Anthropic 兼容 API（含工具调用），最多 8 个并发请求。一条 git clone + setup.sh 命令安装，首次构建 20-40 分钟。AMD 与 Windows 支持为实验性。
+Project Maya 为 GLM-5.3、GLM-5.3-Flash、DeepSeek-V4.1-Flash、MiniMax-M3.1-Flash、Hy4-Flash 等混合专家模型提供每模型专属的推理引擎，把专家权重按使用频率分层放置在 GPU、RAM 与 NVMe SSD 之间并在对话中调度，自动测量硬件并自行调参。提供 OpenAI 与 Anthropic 兼容 API、工具调用、最多 8 路并发、浏览器内聊天界面与模型管理页。通过 git clone 加 setup.sh 一键安装，支持 NVIDIA（V100/RTX 20 起）、AMD 与 Windows，最低 8 GB 显存起步。
 
 ## 筛选速览
 
@@ -12,47 +12,47 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 自研多档量化（Maya-S/S24/M/L），保留 MTP 块并给出与 FP8 原版的准确率对照
-- 专家分层放置（GPU→RAM→NVMe SSD）并按硬件自动调参
-- OpenAI/Anthropic 兼容 API，支持工具调用，最多 8 路并发
-- 浏览器内聊天、实时监控与图像输入，一命令安装
+- 专家权重在 GPU/RAM/SSD 间分层存放并随对话移动
+- OpenAI- 与 Anthropic-兼容 API，支持工具调用
+- 并发响应最多 8 路请求
+- 提供各量化档相对原模型 next-token 一致率与零样本准确率数据
 
 ## 适用场景
 
-- 在 1-16 张消费级/专业卡上私有部署超大 MoE 模型
-- 通过 OpenAI/Anthropic 兼容 API 接入自己的编码 agent 与工具
-- 在单机多人或单人多会话场景下并行跑多个请求
+- 在自己的 PC 或多卡工作站上运行 744B/748B 级别模型
+- 为编码 agent 提供本地兼容 API 后端
+- 多人共用一台机器并发调用本地模型
 
 ## 场景标签
 
-`推理引擎` `模型量化` · 领域:训练与推理
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L3:  GLM-5.3-Flash (321 B) and DeepSeek-V4.1-Flash-1017 (748 B) on your own GPU
-> L24: - **Plugs into your tools:** OpenAI- and Anthropic-compatible API with tool calls, ready for coding agents.
-> L139: git clone https://github.com/mw00/project-maya.git && cd project-maya
+> L26: **GLM-5.3**, **GLM-5.3-Flash**, **DeepSeek-V4.1-Flash-1017**, **MiniMax-M3.1-Flash** and **Hy4-Flash**. Each model 
+> L35: - **Plugs into your tools:** OpenAI- and Anthropic-compatible API with tool calls, ready for coding agents.
+> L44: git clone https://github.com/mw00/project-maya.git && cd project-maya
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "mw00/project-maya 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 872 --> 3360
-    line [1079, 1359, 1477, 1646, 1748, 1842, 1975, 2069, 2141, 2196, 2269, 2323, 2366, 1748, 2688, 2766, 2800, 2832, 2873, 2895, 2931, 2966, 2995, 3028, 3067, 3120, 3153]
+    title "mw00/project-maya 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 866 --> 3431
+    line [1079, 1359, 1477, 1646, 1748, 1842, 1975, 2069, 2141, 2196, 2269, 2323, 2366, 1748, 2688, 2766, 2800, 2832, 2873, 2895, 2931, 2966, 2995, 3028, 3067, 3120, 3153, 3218]
 ```
 
-2026-10-20 1,079 → 2026-11-22 3,153（+2,074）
+2026-10-21 1,079 → 2026-11-23 3,218（+2,139）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `0234c664a4b9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f9104e09cd94` · [字段定义](../../DATASET.md)*

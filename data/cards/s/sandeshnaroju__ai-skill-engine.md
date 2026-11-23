@@ -1,6 +1,6 @@
 # sandeshnaroju/ai-skill-engine
 
-⭐ 18 · JavaScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/sandeshnaroju/ai-skill-engine) · 个人维护
+⭐ 18 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/sandeshnaroju/ai-skill-engine) · 个人维护
 
 **自托管多租户 AI 网关：OpenAI 兼容 API+沙箱执行+技能中心**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sandeshnaroju/ai-skill-engine 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-23"]
     y-axis "stars" 17 --> 20
     line [18, 19, 18, 18]
 ```
 
-2026-10-20 18 → 2026-11-22 18（+0）
+2026-10-21 18 → 2026-11-23 18（+0）
 
 
 ---

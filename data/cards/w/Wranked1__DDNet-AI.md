@@ -1,6 +1,6 @@
 # Wranked1/DDNet-AI
 
-⭐ 55 · TypeScript · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/Wranked1/DDNet-AI) · [官网](https://wranked1.github.io/DDNet-AI/) · 个人维护
+⭐ 55 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Wranked1/DDNet-AI) · [官网](https://wranked1.github.io/DDNet-AI/) · 个人维护
 
 **在 DDNet 中自主游玩 block 模式的 Windows 机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Wranked1/DDNet-AI 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-23"]
     y-axis "stars" 53 --> 56
     line [54, 55, 55]
 ```
 
-2026-10-20 54 → 2026-11-22 55（+1）
+2026-10-21 54 → 2026-11-23 55（+1）
 
 
 ---

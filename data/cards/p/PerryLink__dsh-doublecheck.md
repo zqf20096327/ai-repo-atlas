@@ -1,6 +1,6 @@
 # PerryLink/dsh-doublecheck
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/dsh-doublecheck) · [官网](https://www.npmjs.com/package/dsh-doublecheck) · 个人维护 · 中文 README
+⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-doublecheck) · [官网](https://www.npmjs.com/package/dsh-doublecheck) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的交付质量门插件：拷问需求、测试实现、证明交付**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-doublecheck 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-19", "2026-11-21", "2026-11-22"]
+    title "PerryLink/dsh-doublecheck 星数(近 11 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 55 --> 62
-    line [57, 56, 58, 59, 60, 59, 58, 59, 60, 61]
+    line [57, 56, 58, 59, 60, 59, 58, 59, 60, 61, 61]
 ```
 
-2026-10-20 57 → 2026-11-22 61（+4）
+2026-10-21 57 → 2026-11-23 61（+4）
 
 
 ---

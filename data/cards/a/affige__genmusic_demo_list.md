@@ -1,6 +1,6 @@
 # affige/genmusic_demo_list
 
-⭐ 802 · 推送 2026-11-11 · [GitHub](https://github.com/affige/genmusic_demo_list) · 个人维护
+⭐ 803 · 推送 2026-11-11 · [GitHub](https://github.com/affige/genmusic_demo_list) · 个人维护
 
 **自动音乐生成研究 demo 网站清单**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "affige/genmusic_demo_list 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 797 --> 803
-    line [798, 799, 798, 801, 802, 802]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 797 --> 804
+    line [798, 799, 798, 801, 802, 803]
 ```
 
-2026-10-20 798 → 2026-11-22 802（+4）
+2026-10-21 798 → 2026-11-23 803（+5）
 
 
 ---

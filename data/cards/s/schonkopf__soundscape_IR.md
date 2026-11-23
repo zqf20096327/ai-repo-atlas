@@ -44,13 +44,13 @@ Python 工具箱 soundscape_IR，面向声学生态学研究者，提供两大�
 
 ```mermaid
 xychart-beta
-    title "schonkopf/soundscape_IR 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    title "schonkopf/soundscape_IR 星数(近 4 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 45 --> 49
-    line [46, 47, 48]
+    line [46, 47, 48, 48]
 ```
 
-2026-10-20 46 → 2026-11-22 48（+2）
+2026-10-21 46 → 2026-11-23 48（+2）
 
 
 ---

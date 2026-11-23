@@ -1,6 +1,6 @@
 # SamurAIGPT/Text-To-Video-AI
 
-⭐ 7 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/SamurAIGPT/Text-To-Video-AI) · [官网](https://www.vadoo.tv/text-to-video-ai) · 组织维护
+⭐ 8 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/SamurAIGPT/Text-To-Video-AI) · [官网](https://www.vadoo.tv/text-to-video-ai) · 组织维护
 
 **从文本提示自动生成带配音字幕的短视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SamurAIGPT/Text-To-Video-AI 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 5, 3, 6, 7, 7]
+    x-axis ["2026-10-21", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 5, 3, 6, 7, 8]
 ```
 
-2026-10-20 3 → 2026-11-22 7（+4）
+2026-10-21 3 → 2026-11-23 8（+5）
 
 
 ---

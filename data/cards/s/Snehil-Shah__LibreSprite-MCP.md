@@ -1,6 +1,6 @@
 # Snehil-Shah/LibreSprite-MCP
 
-⭐ 48 · JavaScript · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Snehil-Shah/LibreSprite-MCP) · [官网](https://pypi.org/project/libresprite-mcp) · 个人维护
+⭐ 50 · JavaScript · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Snehil-Shah/LibreSprite-MCP) · [官网](https://pypi.org/project/libresprite-mcp) · 个人维护
 
 **让 LLM 通过 MCP 远程操作 LibreSprite 的服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Snehil-Shah/LibreSprite-MCP 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 35 --> 49
-    line [36, 37, 38, 39, 37, 45, 46, 47, 48, 48]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 35 --> 51
+    line [36, 37, 38, 39, 37, 45, 46, 47, 48, 50]
 ```
 
-2026-10-23 36 → 2026-11-22 48（+12）
+2026-10-23 36 → 2026-11-23 50（+14）
 
 
 ---

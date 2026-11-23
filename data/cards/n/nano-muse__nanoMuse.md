@@ -1,10 +1,10 @@
 # nano-muse/nanoMuse
 
-⭐ 3,628 · Swift · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/nano-muse/nanoMuse) · [官网](https://nanomuse.cn/) · 组织维护 · 中文 README
+⭐ 3,637 · Swift · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/nano-muse/nanoMuse) · [官网](https://nanomuse.cn/) · 个人维护 · 中文 README
 
-**跨设备个人 agent：一个账号贯通手机/桌面/网页，代做事并跨设备协同**
+**面向个人用户的开源跨设备自主代理：替你操作设备而非只回答**
 
-面向终端用户的开源个人 agent 套件：Android/iOS/桌面/网页应用加一个可自托管的中继组成，GPL-3.0-or-later，由浙江大学团队维护。agent 可通过 Linux shell、浏览器、MCP 与屏幕操作（Hands on）执行任务，删除/发送/支付前暂停询问；任务可跨设备调度（如手机下指令、PC 执行），应用关闭后按计划继续运行；记忆与配置以 Markdown 文件存放。模型来源为社区中继免费额度、21 家提供商的自有 key 或已有订阅（ChatGPT/Claude/Kimi）。桌面端基于 DeepSeek Harness，手机端基于 OpenMinis。
+运行在用户自己的手机、桌面与浏览器上的个人代理，核心能力包括执行任务（Linux shell、浏览器、MCP 服务器与技能、通过截屏操作无 API 的手机/电脑应用）、不可逆操作前先征询确认、跨设备派发任务、定时例程在应用关闭后继续运行、以可编辑的 Markdown 文件存储记忆。各设备各自运行代理实例，经自托管或社区 relay 同步会话；模型接入支持 relay 免费额度、用户自有 key 或已有订阅。提供 Android APK、TestFlight、macOS/Windows/Linux 安装包与 Docker 自托管脚本，GPL-3.0-or-later 许可。
 
 ## 筛选速览
 
@@ -13,47 +13,47 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 跨设备：手机/桌面/网页共享一个账号与对话，任务可跨设备派发
-- 执行能力覆盖 shell、浏览器、MCP、技能与屏幕操作（截图式 GUI 操控）
-- 不可逆操作前暂停询问，登录与验证码交还用户
-- 中继可自托管，对话文本经中继、文件与截图留在本地设备
+- 截屏操作无 API 的手机应用与电脑窗口（iOS 因系统限制除外）
+- 删除/发送/支付等不可逆操作前先询问并记住选择
+- 跨设备派发任务，会话经 relay 同步，文件与截图留在本地
+- 记忆、人格与唤醒规则为可读可编辑的 Markdown 文件
 
 ## 适用场景
 
-- 让一个 agent 替我在手机和电脑上完成实际任务
-- 手机上发指令、家里服务器或 PC 执行的跨设备自动化
-- 在飞书/钉钉/企业微信/Telegram 中使用同一个 agent
-- 完全自托管：自己的中继加自己的模型 key
+- 让代理代为操作手机应用和电脑上没有 API 的软件
+- 在手机上发起任务、由家中电脑执行并回传确认
+- 设定定时目标与晨报例程，应用关闭后仍持续运行
+- 用自有 key 或自托管 relay 保持数据不出家门
 
 ## 场景标签
 
-`AI 助手` `GUI 自动化` `浏览器自动化` · 领域:效率与自动化
+`GUI 自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L27: **nanoMuse is an open-source personal agent for every device you own.** One agent with a name and a look of its own
-> L66:  Does things. A Linux shell, a browser, MCP servers and skills, and, with Hands on, the apps on your phone and the 
-> L76:  Any model. The relay's allowance, your own key at one of twenty-one providers (Bailian, OpenRouter, OpenAI, Gemini
+> L67:  Does things. A Linux shell, a browser, MCP servers and skills, and, with Hands on, the apps on your phone and the 
+> L77:  Any model. The relay's allowance, your own key at one of twenty-eight providers (Bailian, OpenRouter, OpenAI, Gemi
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "nano-muse/nanoMuse 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 1311 --> 3838
-    line [1521, 2068, 2296, 2421, 2504, 2576, 2639, 2722, 2796, 2850, 2899, 2935, 2980, 2504, 3324, 3384, 3411, 3436, 3463, 3482, 3511, 3530, 3557, 3581, 3603, 3618, 3628]
+    title "nano-muse/nanoMuse 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 1310 --> 3848
+    line [1521, 2068, 2296, 2421, 2504, 2576, 2639, 2722, 2796, 2850, 2899, 2935, 2980, 2504, 3324, 3384, 3411, 3436, 3463, 3482, 3511, 3530, 3557, 3581, 3603, 3618, 3628, 3637]
 ```
 
-2026-10-20 1,521 → 2026-11-22 3,628（+2,107）
+2026-10-21 1,521 → 2026-11-23 3,637（+2,116）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3f3f868d0739` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5209bee01ac7` · [字段定义](../../DATASET.md)*

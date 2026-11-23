@@ -1,6 +1,6 @@
 # Krako-Labs/kora-doctor
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/Krako-Labs/kora-doctor) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **本地 CLI：审计 agent 用量记录，找出可疑浪费的 LLM 调用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

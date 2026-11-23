@@ -1,6 +1,6 @@
 # sunsided/pddl-rs
 
-⭐ 22 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/sunsided/pddl-rs) · [官网](https://docs.rs/pddl/latest/pddl/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Rust 编写的 PDDL 3.1 解析库，供自动规划开发使用**
 

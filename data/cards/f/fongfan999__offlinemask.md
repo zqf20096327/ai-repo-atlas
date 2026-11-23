@@ -1,6 +1,6 @@
 # fongfan999/offlinemask
 
-⭐ 6 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/fongfan999/offlinemask) · [官网](https://offlinemask.com) · 个人维护
+⭐ 6 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/fongfan999/offlinemask) · [官网](https://offlinemask.com) · 个人维护
 
 **粘贴给外部 AI 前在本地脱敏敏感数据的桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fongfan999/offlinemask 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-22"]
+    x-axis ["2026-11-12", "2026-11-23"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-12 6 → 2026-11-22 6（+0）
+2026-11-12 6 → 2026-11-23 6（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SioKCronin/swarmopt
 
-⭐ 37 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/SioKCronin/swarmopt) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SioKCronin/swarmopt) · 个人维护
 
 **Python 群体智能优化算法库：PSO 变体求解成本函数优化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SioKCronin/swarmopt 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-20 37 → 2026-11-22 37（+0）
+2026-10-21 37 → 2026-11-23 37（+0）
 
 
 ---

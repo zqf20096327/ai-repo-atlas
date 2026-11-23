@@ -1,6 +1,6 @@
 # danger-dream/Parrot
 
-⭐ 24 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/danger-dream/Parrot) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/danger-dream/Parrot) · 个人维护 · 中文 README
 
 **多渠道 AI 协议代理网关，TG Bot 图形化管理上游账号**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "danger-dream/Parrot 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-21", "2026-11-23"]
     y-axis "stars" 21 --> 25
     line [22, 23, 24, 24]
 ```
 
-2026-10-20 22 → 2026-11-22 24（+2）
+2026-10-21 22 → 2026-11-23 24（+2）
 
 
 ---

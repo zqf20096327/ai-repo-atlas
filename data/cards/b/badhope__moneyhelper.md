@@ -1,6 +1,6 @@
 # badhope/moneyhelper
 
-⭐ 105 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/badhope/moneyhelper) · [官网](https://badhope.github.io/moneyhelper/) · 个人维护 · 中文 README
+⭐ 105 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/badhope/moneyhelper) · [官网](https://badhope.github.io/moneyhelper/) · 个人维护 · 中文 README
 
 **自托管记账软件：一句话自动生成凭证、对账并结账**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "badhope/moneyhelper 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 103 --> 106
     line [104, 105, 105]
 ```
 
-2026-11-20 104 → 2026-11-22 105（+1）
+2026-11-20 104 → 2026-11-23 105（+1）
 
 
 ---

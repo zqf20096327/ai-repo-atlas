@@ -41,6 +41,18 @@
 > L5: **Private mock interviews for tech roles, graded by a local LLM on your own computer.**
 > L22: * **Graded with evidence.** The grader has to quote your own words for every mistake it claims. A mistake it cannot
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Yuvakunaal/local-ai-interviewer 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `d7c690f750d0` · [字段定义](../../DATASET.md)*

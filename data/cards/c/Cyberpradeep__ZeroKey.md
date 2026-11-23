@@ -1,6 +1,6 @@
 # Cyberpradeep/ZeroKey
 
-⭐ 14 · Python · 推送 2026-09-18 · [GitHub](https://github.com/Cyberpradeep/ZeroKey) · 个人维护
+⭐ 15 · Python · 推送 2026-09-18 · [GitHub](https://github.com/Cyberpradeep/ZeroKey) · 个人维护
 
 **把 ChatGPT 网页订阅转成本地 OpenAI 兼容 API 的桥接工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Cyberpradeep/ZeroKey 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 7 --> 15
-    line [8, 9, 8, 10, 12, 13, 14, 14]
+    x-axis ["2026-10-21", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 7 --> 16
+    line [8, 9, 8, 10, 12, 13, 14, 15]
 ```
 
-2026-10-20 8 → 2026-11-22 14（+6）
+2026-10-21 8 → 2026-11-23 15（+7）
 
 
 ---

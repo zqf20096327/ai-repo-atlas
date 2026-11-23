@@ -1,6 +1,6 @@
 # DingyangLyu/MatOS
 
-⭐ 35 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/DingyangLyu/MatOS) · [官网](https://github.com/bjzgcai) · 组织维护 · 中文 README
+⭐ 38 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/DingyangLyu/MatOS) · [官网](https://github.com/bjzgcai) · 组织维护 · 中文 README
 
 **材料研究的 agent 操作系统：版本化科研资产+有状态工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DingyangLyu/MatOS 星数(近 11 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 4 --> 37
-    line [6, 7, 8, 10, 12, 13, 25, 26, 28, 31, 35]
+    title "DingyangLyu/MatOS 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 41
+    line [6, 7, 8, 10, 12, 13, 25, 26, 28, 31, 35, 38]
 ```
 
-2026-10-26 6 → 2026-11-22 35（+29）
+2026-10-26 6 → 2026-11-23 38（+32）
 
 
 ---

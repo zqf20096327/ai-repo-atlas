@@ -1,6 +1,6 @@
 # tiancaixiexiong1997/deepseek-pojia
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/tiancaixiexiong1997/deepseek-pojia) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/tiancaixiexiong1997/deepseek-pojia) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 安装破甲/红队评测插件的一键安装器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tiancaixiexiong1997/deepseek-pojia 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-14 3 → 2026-11-22 4（+1）
+2026-11-14 3 → 2026-11-23 5（+2）
 
 
 ---

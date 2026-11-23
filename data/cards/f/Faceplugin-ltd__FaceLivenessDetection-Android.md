@@ -45,12 +45,12 @@ FacePlugin 的 Android 活体检测 SDK 演示仓库：运行时为闭源 AAR（
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceLivenessDetection-Android 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-20", "2026-11-23"]
     y-axis "stars" 45 --> 48
     line [47, 46, 46]
 ```
 
-2026-10-20 47 → 2026-11-22 46（-1）
+2026-10-21 47 → 2026-11-23 46（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # furkancak1r/dsh-composer-plus
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/furkancak1r/dsh-composer-plus) · [官网](https://www.npmjs.com/package/dsh-composer-plus) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/furkancak1r/dsh-composer-plus) · [官网](https://www.npmjs.com/package/dsh-composer-plus) · 个人维护 · 中文 README
 
 **DeepSeek Harness (dsh) 的社区插件：为 coding agent 界面补足一批操作功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "furkancak1r/dsh-composer-plus 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 8
     line [3, 4, 3, 6, 7, 7]
 ```
 
-2026-10-20 3 → 2026-11-22 7（+4）
+2026-10-21 3 → 2026-11-23 7（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # aicage/aicage
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/aicage/aicage) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aicage/aicage) · 组织维护
 
 **在 Docker 容器中运行 AI 编码代理并隔离其访问范围**
 
@@ -47,12 +47,12 @@ aicage 是一个 CLI 包装器，让用户在容器中运行 AI 编码代理（�
 ```mermaid
 xychart-beta
     title "aicage/aicage 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-22"]
+    x-axis ["2026-10-25", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-22 10（+0）
+2026-10-25 10 → 2026-11-23 10（+0）
 
 
 ---

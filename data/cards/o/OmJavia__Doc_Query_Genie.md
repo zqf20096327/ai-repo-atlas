@@ -40,6 +40,18 @@
 > L3: 🚀 **Ask questions about your PDFs with a local LLM.** Retrieval-Augmented Generation (RAG) with Llama 3, LangChain, 
 > L9: Upload a PDF, then ask questions about it. Doc_Query_Genie finds the most relevant passages and has a local LLM answ
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "OmJavia/Doc_Query_Genie 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-22 20 → 2026-11-23 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `aadf5c978513` · [字段定义](../../DATASET.md)*

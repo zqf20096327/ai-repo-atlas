@@ -1,6 +1,6 @@
 # byjameson/stream-finetune
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/byjameson/stream-finetune) · [官网](https://huggingface.co/spaces/byjameson/will-it-fit) · 个人维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/byjameson/stream-finetune) · [官网](https://pypi.org/project/streamft/1.0.1/) · 个人维护
 
 **让 6 GB 笔记本 GPU 微调 32B 模型的流式 NF4 训练器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "byjameson/stream-finetune 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-10 3 → 2026-11-22 4（+1）
+2026-11-10 3 → 2026-11-23 4（+1）
 
 
 ---

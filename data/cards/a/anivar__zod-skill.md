@@ -1,6 +1,6 @@
 # anivar/zod-skill
 
-⭐ 24 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/anivar/zod-skill) · [官网](https://skills.sh/anivar/zod-skill) · 个人维护
+⭐ 24 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/anivar/zod-skill) · [官网](https://skills.sh/anivar/zod-skill) · 个人维护
 
 **教 AI agent 正确使用 Zod v4 的技能包（27 条规则）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anivar/zod-skill 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 22 --> 25
     line [23, 24, 23, 24, 24]
 ```
 
-2026-10-20 23 → 2026-11-22 24（+1）
+2026-10-21 23 → 2026-11-23 24（+1）
 
 
 ---

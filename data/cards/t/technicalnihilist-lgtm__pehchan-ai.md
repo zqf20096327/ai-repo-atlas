@@ -1,6 +1,6 @@
 # technicalnihilist-lgtm/pehchan-ai
 
-⭐ 7 · Java · MIT · 推送 2026-11-19 · [GitHub](https://github.com/technicalnihilist-lgtm/pehchan-ai) · [官网](https://github.com/technicalnihilist-lgtm/pehchan-ai/releases/latest) · 个人维护
+⭐ 8 · Java · MIT · 推送 2026-11-19 · [GitHub](https://github.com/technicalnihilist-lgtm/pehchan-ai) · [官网](https://github.com/technicalnihilist-lgtm/pehchan-ai/releases/latest) · 个人维护
 
 **Android 离线图片物体识别应用：本地模型识别照片中的物体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "technicalnihilist-lgtm/pehchan-ai 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
 ```
 
-2026-11-08 7 → 2026-11-22 7（+0）
+2026-11-08 7 → 2026-11-23 8（+1）
 
 
 ---

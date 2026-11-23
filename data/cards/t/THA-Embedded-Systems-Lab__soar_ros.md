@@ -1,6 +1,6 @@
 # THA-Embedded-Systems-Lab/soar_ros
 
-⭐ 21 · C++ · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/THA-Embedded-Systems-Lab/soar_ros) · [官网](https://tha-embedded-systems-lab.github.io/soar_ros/) · 组织维护
+⭐ 22 · C++ · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/THA-Embedded-Systems-Lab/soar_ros) · [官网](https://tha-embedded-systems-lab.github.io/soar_ros/) · 组织维护
 
 **将 Soar 认知架构接入 ROS 2 的接口包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "THA-Embedded-Systems-Lab/soar_ros 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-23"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-20 20 → 2026-11-22 21（+1）
+2026-10-21 20 → 2026-11-23 22（+2）
 
 
 ---

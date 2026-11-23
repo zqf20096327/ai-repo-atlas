@@ -1,6 +1,6 @@
 # jordan-gibbs/ochre
 
-⭐ 7 · Rust · MIT · 推送 2026-11-04 · [GitHub](https://github.com/jordan-gibbs/ochre) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **开源跨平台语音听写工具：本地转写+AI润色+免提唤醒**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

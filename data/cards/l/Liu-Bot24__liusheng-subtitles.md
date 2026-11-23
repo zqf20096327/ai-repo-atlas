@@ -1,6 +1,6 @@
 # Liu-Bot24/liusheng-subtitles
 
-⭐ 63 · JavaScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/Liu-Bot24/liusheng-subtitles) · [官网](https://blog.liu-qi.cn/tools) · 个人维护 · 中文 README
+⭐ 63 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Liu-Bot24/liusheng-subtitles) · [官网](https://blog.liu-qi.cn/tools) · 个人维护 · 中文 README
 
 **为网页视频生成与翻译字幕的 Chrome 扩展（ASR+LLM）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Liu-Bot24/liusheng-subtitles 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 59 --> 64
     line [60, 61, 60, 63, 63]
 ```
 
-2026-10-19 60 → 2026-11-22 63（+3）
+2026-10-20 60 → 2026-11-23 63（+3）
 
 
 ---

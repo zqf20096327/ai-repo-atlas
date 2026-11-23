@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ilo-love7/battery-lifetime-guide 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-22 3（+0）
+2026-11-16 3 → 2026-11-23 3（+0）
 
 
 ---

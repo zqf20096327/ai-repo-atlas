@@ -2,9 +2,9 @@
 
 ⭐ 4,080 · HTML · MIT · 推送 2026-11-04 · [GitHub](https://github.com/mergisi/awesome-openclaw-agents) · [官网](https://crewclaw.com) · 个人维护
 
-**OpenClaw 生态的 AI agent 模板策展清单（205 个 SOUL.md，多类别）**
+**面向 OpenClaw 生态的 197 个 SOUL.md agent 模板清单**
 
-面向 OpenClaw agent 框架的模板聚合仓库：收录 205 个可直接复制使用的 SOUL.md 配置模板，按生产力、开发、营销内容、商务、个人、DevOps 等类别组织，每个条目标注专长与适用场景。使用方式为复制 SOUL.md、通过 openclaw agents add 注册并启动网关；仓库含 agents.json 机器可读版本与 quickstart 工程（git clone + npm install + node bot.js）。部分模板标注需 OpenClaw v2026.4.5+，仓库同时导流至付费部署包生成服务 CrewClaw 与 Newsletter。
+为 OpenClaw 生态整理的 agent 模板精选清单，共 197 个可直接复制的 SOUL.md 配置文件，按生产力、开发、营销内容、商业、个人、DevOps 等 24 个类别组织。每个模板标注专长与适用场景，复制后通过 `openclaw agents add` 注册并启动 gateway 即可运行；所有 agent 与模型配置另以 agents.json 机器可读格式提供。仓库附带快速开始脚本（git clone + npm install + node bot.js），并引导用户使用 CrewClaw 生成含 Dockerfile 的部署包；部分多媒体模板要求 OpenClaw v2026.4.5+。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 205 个 SOUL.md 格式的 agent 模板，复制即用
-- agents.json 提供全量机器可读版本
-- quickstart 工程含 git clone + npm + node 启动流程
-- 模板覆盖开发、营销、商务、个人、DevOps 等多类别
+- 197 个 SOUL.md 模板，24 个类别组织，标注专长与适用场景
+- 复制 SOUL.md 后经 openclaw agents add 注册即可运行
+- 所有 agent 与模型配置提供 agents.json 机器可读格式
+- quickstart 脚本支持 git clone 后 npm install 直接启动
 
 ## 适用场景
 
-- 为 OpenClaw agent 网关挑选现成的角色模板
-- 浏览不同类别 agent 的能力与适用场景
-- 通过 agents.json 程序化获取模板清单
+- 为 OpenClaw agent 按岗位挑选现成的 SOUL.md 模板
+- 给团队找 PR 审查、客服分诊、DevOps 监控等场景的 agent 配置
+- 把博客内容再加工为短视频/社交帖子的营销自动化配置
 
 ## 场景标签
 
-`精选清单` `提示工程` · 领域:Agent 开发
+`精选清单` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L10: > A curated collection of **205 production-ready AI agent templates** for the OpenClaw ecosystem. Every template is
+> L10: > A curated collection of **197 production-ready AI agent templates** for the OpenClaw ecosystem. Every template is
 > L30: Ready-to-use SOUL.md templates for your AI agents. Copy the SOUL.md, register with `openclaw agents add`, and start
+> L42: > **Skip the setup?** CrewClaw generates a full deploy package (Dockerfile + docker-compose + bot + README) for any
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "mergisi/awesome-openclaw-agents 星数(近 23 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "mergisi/awesome-openclaw-agents 星数(近 24 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 4008 --> 4086
-    line [4014, 4020, 4023, 4024, 4023, 4027, 4031, 4033, 4037, 4039, 4042, 4024, 4058, 4063, 4064, 4067, 4068, 4070, 4074, 4076, 4077, 4079, 4080]
+    line [4014, 4020, 4023, 4024, 4023, 4027, 4031, 4033, 4037, 4039, 4042, 4024, 4058, 4063, 4064, 4067, 4068, 4070, 4074, 4076, 4077, 4079, 4080, 4080]
 ```
 
-2026-10-19 4,014 → 2026-11-22 4,080（+66）
+2026-10-20 4,014 → 2026-11-23 4,080（+66）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `c16168dd8bdb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `de82c2bd8d7e` · [字段定义](../../DATASET.md)*

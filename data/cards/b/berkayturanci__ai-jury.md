@@ -1,6 +1,6 @@
 # berkayturanci/ai-jury
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/berkayturanci/ai-jury) · [官网](https://ai-jury.dev) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/berkayturanci/ai-jury) · [官网](https://ai-jury.dev) · 个人维护
 
 **多供应商 AI 评审团 CLI：多 agent 交叉评审 PR/diff 出裁定**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "berkayturanci/ai-jury 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-22"]
+    x-axis ["2026-10-26", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-22 10（+0）
+2026-10-26 10 → 2026-11-23 10（+0）
 
 
 ---

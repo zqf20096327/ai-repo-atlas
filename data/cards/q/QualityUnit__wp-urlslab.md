@@ -1,6 +1,6 @@
 # QualityUnit/wp-urlslab
 
-⭐ 12 · PHP · GPL-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/QualityUnit/wp-urlslab) · [官网](https://www.urlslab.com) · 组织维护
+⭐ 12 · PHP · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/QualityUnit/wp-urlslab) · [官网](https://www.urlslab.com) · 组织维护
 
 **面向 WordPress 的 SEO/性能优化插件，含 AI 内容生成功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QualityUnit/wp-urlslab 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

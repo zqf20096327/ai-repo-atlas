@@ -1,6 +1,6 @@
 # LibirSoft/grannyFlow
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/LibirSoft/grannyFlow) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LibirSoft/grannyFlow) · 个人维护
 
 **把开发计划变成可提 PR 分支的多 agent 代码审查工作流技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LibirSoft/grannyFlow 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-22 4（+1）
+2026-11-08 3 → 2026-11-23 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # csinva/agentic-imodels
 
-⭐ 16 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/csinva/agentic-imodels) · [官网](https://arxiv.org/abs/2605.03808) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/csinva/agentic-imodels) · [官网](https://arxiv.org/abs/2605.03808) · 个人维护
 
 **面向 AI agent 的可解释回归模型库，由 coding agent 自动研究演化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "csinva/agentic-imodels 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-20 16 → 2026-11-22 16（+0）
+2026-10-21 16 → 2026-11-23 15（-1）
 
 
 ---

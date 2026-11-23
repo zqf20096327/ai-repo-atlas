@@ -1,6 +1,6 @@
 # microsoft/agent365-skills
 
-⭐ 56 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/agent365-skills) · 组织维护
+⭐ 57 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/agent365-skills) · 组织维护
 
 **面向 Microsoft Agent 365 的 AI 编程技能与 MCP 配置集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/agent365-skills 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 49 --> 57
-    line [50, 51, 52, 53, 54, 55, 56, 56]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 49 --> 58
+    line [50, 51, 52, 53, 54, 55, 56, 57]
 ```
 
-2026-10-19 50 → 2026-11-22 56（+6）
+2026-10-20 50 → 2026-11-23 57（+7）
 
 
 ---

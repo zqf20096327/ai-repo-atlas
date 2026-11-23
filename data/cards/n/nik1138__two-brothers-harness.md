@@ -46,12 +46,12 @@ TypeScript 编写的 CLI harness，编排两个 AI agent 的协作：senior（�
 ```mermaid
 xychart-beta
     title "nik1138/two-brothers-harness 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-23"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-10 4 → 2026-11-22 5（+1）
+2026-11-10 4 → 2026-11-23 5（+1）
 
 
 ---

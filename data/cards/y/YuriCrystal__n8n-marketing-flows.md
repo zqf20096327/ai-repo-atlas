@@ -1,6 +1,6 @@
 # YuriCrystal/n8n-marketing-flows
 
-⭐ 184 · MIT · 推送 2026-06-27 · [GitHub](https://github.com/YuriCrystal/n8n-marketing-flows) · 个人维护 · 中文 README
+⭐ 185 · MIT · 推送 2026-06-27 · [GitHub](https://github.com/YuriCrystal/n8n-marketing-flows) · 个人维护 · 中文 README
 
 **n8n 行销自动化工作流模板库（81 支 JSON，含免 key 本机版）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YuriCrystal/n8n-marketing-flows 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 180 --> 185
-    line [181, 182, 183, 181, 184, 184]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 180 --> 186
+    line [181, 182, 183, 181, 184, 185]
 ```
 
-2026-10-20 181 → 2026-11-22 184（+3）
+2026-10-21 181 → 2026-11-23 185（+4）
 
 
 ---

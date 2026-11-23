@@ -1,6 +1,6 @@
 # auto-differentiation/xad-py
 
-⭐ 21 · C++ · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/auto-differentiation/xad-py) · [官网](https://www.xcelerit.com/xad/docs/) · 组织维护
+⭐ 22 · C++ · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/auto-differentiation/xad-py) · [官网](https://www.xcelerit.com/xad/docs/) · 组织维护
 
 **XAD 自动微分库的 Python 绑定，计算一阶导数**
 
@@ -44,12 +44,12 @@ C++ 自动微分库 XAD 的 Python 绑定，以 Python 库形式提供一阶前�
 ```mermaid
 xychart-beta
     title "auto-differentiation/xad-py 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-20 21 → 2026-11-22 21（+0）
+2026-10-21 21 → 2026-11-23 22（+1）
 
 
 ---

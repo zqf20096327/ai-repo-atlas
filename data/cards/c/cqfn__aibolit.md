@@ -1,6 +1,6 @@
 # cqfn/aibolit
 
-⭐ 113 · Java · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cqfn/aibolit) · [官网](https://pypi.org/project/aibolit/) · 组织维护
+⭐ 113 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cqfn/aibolit) · [官网](https://pypi.org/project/aibolit/) · 组织维护
 
 **面向 Java 的机器学习静态分析器：定位最需重构的反模式**
 
@@ -46,12 +46,12 @@ Aibolit 是一个用 Python 编写的 Java 静态分析工具：读取 Java 源�
 ```mermaid
 xychart-beta
     title "cqfn/aibolit 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 112 --> 114
     line [113, 113]
 ```
 
-2026-10-20 113 → 2026-11-22 113（+0）
+2026-10-21 113 → 2026-11-23 113（+0）
 
 
 ---

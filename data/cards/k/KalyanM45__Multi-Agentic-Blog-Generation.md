@@ -44,13 +44,13 @@ BlogBoard 是端到端自动化博客平台：通过 LangGraph 执行有状态�
 
 ```mermaid
 xychart-beta
-    title "KalyanM45/Multi-Agentic-Blog-Generation 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-13", "2026-11-18", "2026-11-22"]
+    title "KalyanM45/Multi-Agentic-Blog-Generation 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-11-13", "2026-11-18", "2026-11-22", "2026-11-23"]
     y-axis "stars" 33 --> 38
-    line [34, 35, 36, 37]
+    line [34, 35, 36, 37, 37]
 ```
 
-2026-10-20 34 → 2026-11-22 37（+3）
+2026-10-21 34 → 2026-11-23 37（+3）
 
 
 ---

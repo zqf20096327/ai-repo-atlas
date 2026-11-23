@@ -1,6 +1,6 @@
 # emrewyt/apex-re
 
-⭐ 4 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/emrewyt/apex-re) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/emrewyt/apex-re) · 个人维护
 
 **为 AI 编码 Agent 提供逆向工程技能包与分析脚本**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "emrewyt/apex-re 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-19 3 → 2026-11-22 4（+1）
+2026-11-19 3 → 2026-11-23 5（+2）
 
 
 ---

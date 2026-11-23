@@ -1,6 +1,6 @@
 # Automate-Workflow/n8n-projects
 
-⭐ 3 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Automate-Workflow/n8n-projects) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **n8n 自动化工作流学习目录：50 个分类项目与四阶段路径**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

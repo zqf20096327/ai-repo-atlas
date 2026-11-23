@@ -41,6 +41,18 @@
 > L25: |Local models on Apple Silicon and cloud models run the same five back-office tasks (CRM extraction, intent classif
 > L137: 5. **Route.** The planner keeps, per task, the candidates that met the quality bar on `calib`, orders them by USD 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "B0yko/local-enough 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-22 11 → 2026-11-23 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `7278b6c73738` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # chrisjq/AICoderNetBeansPlugin
 
-⭐ 10 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/chrisjq/AICoderNetBeansPlugin) · 个人维护
+⭐ 10 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chrisjq/AICoderNetBeansPlugin) · 个人维护
 
 **NetBeans IDE 内多后端 AI 编码对话插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chrisjq/AICoderNetBeansPlugin 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-22 10（+0）
+2026-11-20 10 → 2026-11-23 10（+0）
 
 
 ---

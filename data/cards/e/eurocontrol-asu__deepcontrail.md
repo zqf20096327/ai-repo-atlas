@@ -1,6 +1,6 @@
 # eurocontrol-asu/deepcontrail
 
-⭐ 5 · Python · EUPL-1.2 · 推送 2026-11-20 · [GitHub](https://github.com/eurocontrol-asu/deepcontrail) · [官网](https://huggingface.co/eurocontrol-asu/deepcontrail-segmentation) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **对开发者提供 GOES-16 卫星影像中的凝结尾迹检测分割库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | EUPL-1.2 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

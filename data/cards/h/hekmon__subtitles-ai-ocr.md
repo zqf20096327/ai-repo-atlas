@@ -1,6 +1,6 @@
 # hekmon/subtitles-ai-ocr
 
-⭐ 11 · Go · MIT · 推送 2026-07-24 · [GitHub](https://github.com/hekmon/subtitles-ai-ocr) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-07-24 · [GitHub](https://github.com/hekmon/subtitles-ai-ocr) · 个人维护
 
 **用视觉语言模型把 PGS/VobSub 图形字幕转成 SRT 文本的工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "hekmon/subtitles-ai-ocr 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-02", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-02", "2026-11-11", "2026-11-23"]
     y-axis "stars" 10 --> 13
-    line [12, 11, 12, 11, 11]
+    line [12, 11, 12, 11, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 11（-1）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

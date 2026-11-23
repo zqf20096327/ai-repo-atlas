@@ -1,6 +1,6 @@
 # Lucki74/draggy
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Lucki74/draggy) · [官网](https://draggy.org) · 个人维护
+⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Lucki74/draggy) · [官网](https://draggy.org) · 个人维护
 
 **跨平台本地 AI 助手与编码 Agent 桌面应用**
 
@@ -47,12 +47,12 @@ Draggy 是一款 Windows/macOS/Linux 桌面应用，通过内嵌 llama.cpp 引�
 ```mermaid
 xychart-beta
     title "Lucki74/draggy 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 2 --> 8
     line [3, 4, 6, 3, 7, 7]
 ```
 
-2026-10-22 3 → 2026-11-22 7（+4）
+2026-10-22 3 → 2026-11-23 7（+4）
 
 
 ---

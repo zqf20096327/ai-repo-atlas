@@ -1,6 +1,6 @@
 # shashikantdev3/attention-span
 
-⭐ 5 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/shashikantdev3/attention-span) · [官网](https://shashikantdev3.github.io/attention-span/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shashikantdev3/attention-span) · [官网](https://shashikantdev3.github.io/attention-span/) · 个人维护
 
 **每日 AI 新闻简报生成器：事实核查并溯源到出处**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shashikantdev3/attention-span 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 3 --> 6
     line [4, 5, 4, 5, 5]
 ```
 
-2026-10-20 4 → 2026-11-22 5（+1）
+2026-10-21 4 → 2026-11-23 5（+1）
 
 
 ---

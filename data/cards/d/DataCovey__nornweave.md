@@ -1,6 +1,6 @@
 # DataCovey/nornweave
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/DataCovey/nornweave) · [官网](https://nornweave.datacovey.com/) · 个人维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/DataCovey/nornweave) · [官网](https://nornweave.datacovey.com/) · 个人维护
 
 **为 AI Agent 提供的自托管收件箱即服务（Inbox-as-a-Service）API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DataCovey/nornweave 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-22"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-23"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-19 29 → 2026-11-22 30（+1）
+2026-10-20 29 → 2026-11-23 31（+2）
 
 
 ---

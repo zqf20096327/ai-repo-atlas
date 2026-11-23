@@ -1,6 +1,6 @@
 # jmrenouard/MicroLLM
 
-⭐ 8 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jmrenouard/MicroLLM) · 个人维护
+⭐ 8 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/jmrenouard/MicroLLM) · 个人维护
 
 **为 AI Agent 提供本地 CPU 低延迟校准决策引擎**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jmrenouard/MicroLLM 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 3 --> 9
     line [4, 5, 7, 8, 4, 8, 8]
 ```
 
-2026-10-24 4 → 2026-11-22 8（+4）
+2026-10-24 4 → 2026-11-23 8（+4）
 
 
 ---

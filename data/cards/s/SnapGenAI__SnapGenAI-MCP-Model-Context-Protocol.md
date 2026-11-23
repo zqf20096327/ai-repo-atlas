@@ -45,12 +45,12 @@ SnapGen 官方的 MCP 服务器：通过 stdio（本地）或 Streamable HTTP（
 ```mermaid
 xychart-beta
     title "SnapGenAI/SnapGenAI-MCP-Model-Context-Protocol 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-13", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-10-29", "2026-11-13", "2026-11-14", "2026-11-23"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-29 3 → 2026-11-22 5（+2）
+2026-10-29 3 → 2026-11-23 5（+2）
 
 
 ---

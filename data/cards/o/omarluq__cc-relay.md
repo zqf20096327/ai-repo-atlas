@@ -1,6 +1,6 @@
 # omarluq/cc-relay
 
-⭐ 102 · Go · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/omarluq/cc-relay) · [官网](https://cc-relay.ai) · 个人维护
+⭐ 103 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/omarluq/cc-relay) · [官网](https://cc-relay.ai) · 个人维护
 
 **Go 编写的 LLM API 网关：多密钥池化与跨供应商故障转移**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "omarluq/cc-relay 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 98 --> 103
-    line [99, 100, 101, 102, 102]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 98 --> 104
+    line [99, 100, 101, 102, 103]
 ```
 
-2026-10-20 99 → 2026-11-22 102（+3）
+2026-10-21 99 → 2026-11-23 103（+4）
 
 
 ---

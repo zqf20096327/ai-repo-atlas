@@ -1,6 +1,6 @@
 # ashishpatel26/harness-eval
 
-⭐ 3 · Python · 推送 2026-10-07 · [GitHub](https://github.com/ashishpatel26/harness-eval) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 coding-agent harness 变更做配对重复评测并给出裁决的工具**
 

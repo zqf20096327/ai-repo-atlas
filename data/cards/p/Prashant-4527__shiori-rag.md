@@ -1,6 +1,6 @@
 # Prashant-4527/shiori-rag
 
-⭐ 3 · Python · 推送 2026-11-17 · [GitHub](https://github.com/Prashant-4527/shiori-rag) · 个人维护
+⭐ 3 · Python · 推送 2026-11-22 · [GitHub](https://github.com/Prashant-4527/shiori-rag) · 个人维护
 
 **针对 METI 贸易白皮书的日英双语 RAG 问答原型，带页级引用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Prashant-4527/shiori-rag 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-22"]
+    x-axis ["2026-10-24", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-24 3 → 2026-11-22 3（+0）
+2026-10-24 3 → 2026-11-23 3（+0）
 
 
 ---

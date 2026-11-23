@@ -1,6 +1,6 @@
 # handsomestWei/customer-service-ai-agent
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/handsomestWei/customer-service-ai-agent) · 个人维护 · 中文 README
+⭐ 140 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/handsomestWei/customer-service-ai-agent) · 个人维护 · 中文 README
 
 **基于 LangGraph 的多智能体客服系统：多业务专家路由应答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "handsomestWei/customer-service-ai-agent 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 125 --> 140
-    line [126, 127, 128, 129, 127, 132, 135, 137, 138, 139, 139]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 125 --> 141
+    line [126, 127, 128, 129, 127, 132, 135, 137, 138, 139, 140]
 ```
 
-2026-10-20 126 → 2026-11-22 139（+13）
+2026-10-21 126 → 2026-11-23 140（+14）
 
 
 ---

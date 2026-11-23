@@ -1,6 +1,6 @@
 # Cyprien-png/HEIG-Kit
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Cyprien-png/HEIG-Kit) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Cyprien-png/HEIG-Kit) · 个人维护
 
 **HEIG-VD 学生的终端/claude课程工具箱：课表成绩与RAG课程问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Cyprien-png/HEIG-Kit 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-22 3（+0）
+2026-11-08 3 → 2026-11-23 3（+0）
 
 
 ---

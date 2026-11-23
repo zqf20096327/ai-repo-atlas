@@ -1,6 +1,6 @@
 # GustavoBaranda/chatflow-agent
 
-⭐ 25 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/GustavoBaranda/chatflow-agent) · [官网](https://chatflowagent.org/) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/GustavoBaranda/chatflow-agent) · [官网](https://chatflowagent.org/) · 个人维护
 
 **面向 WhatsApp/Telegram/Webhook 的轻量异步多智能体框架**
 
@@ -46,12 +46,12 @@ Python 编写的多智能体编排框架，仅 2 个运行时依赖（pydantic�
 ```mermaid
 xychart-beta
     title "GustavoBaranda/chatflow-agent 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-23"]
     y-axis "stars" 20 --> 26
     line [21, 23, 24, 25, 25]
 ```
 
-2026-10-20 21 → 2026-11-22 25（+4）
+2026-10-21 21 → 2026-11-23 25（+4）
 
 
 ---

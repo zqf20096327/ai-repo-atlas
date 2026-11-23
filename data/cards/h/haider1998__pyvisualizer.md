@@ -1,6 +1,6 @@
 # haider1998/pyvisualizer
 
-⭐ 12 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/haider1998/pyvisualizer) · [官网](https://haider1998.github.io/pyvisualizer/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/haider1998/pyvisualizer) · [官网](https://haider1998.github.io/pyvisualizer/) · 个人维护
 
 **Python 项目调用图的静态分析与可视化工具（AST 确定性）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "haider1998/pyvisualizer 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-19 11 → 2026-11-22 12（+1）
+2026-10-20 11 → 2026-11-23 13（+2）
 
 
 ---

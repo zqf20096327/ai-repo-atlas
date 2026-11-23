@@ -1,6 +1,6 @@
 # HiveForensics-AI/knolo-core
 
-⭐ 151 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/HiveForensics-AI/knolo-core) · [官网](https://knolo.org) · 组织维护
+⭐ 153 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/HiveForensics-AI/knolo-core) · [官网](https://knolo.org) · 组织维护
 
 **AI agent 间共享知识的开源框架：可验证的便携知识镜像**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HiveForensics-AI/knolo-core 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 37 --> 161
-    line [66, 108, 109, 51, 47, 151]
+    title "HiveForensics-AI/knolo-core 星数(近 7 点)"
+    x-axis ["2026-11-11", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 37 --> 163
+    line [66, 108, 109, 51, 47, 151, 153]
 ```
 
-2026-11-11 66 → 2026-11-22 151（+85）
+2026-11-11 66 → 2026-11-23 153（+87）
 
 
 ---

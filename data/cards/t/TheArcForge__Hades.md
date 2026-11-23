@@ -1,6 +1,6 @@
 # TheArcForge/Hades
 
-⭐ 29 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/TheArcForge/Hades) · 组织维护
+⭐ 29 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/TheArcForge/Hades) · 组织维护
 
 **为 Claude Code 提供 Unity 项目知识图谱的本地 MCP 桌面应用**
 
@@ -46,12 +46,12 @@ macOS（Windows beta）菜单栏/托盘桌面应用，将 Unity 项目的场景�
 ```mermaid
 xychart-beta
     title "TheArcForge/Hades 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23"]
     y-axis "stars" 27 --> 30
     line [29, 28, 29, 28, 29, 29]
 ```
 
-2026-10-20 29 → 2026-11-22 29（+0）
+2026-10-21 29 → 2026-11-23 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hal9ai/hal9
 
-⭐ 181 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/hal9ai/hal9) · [官网](https://hal9.com/docs/learn/code/) · 组织维护
+⭐ 181 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hal9ai/hal9) · [官网](https://hal9.com/docs/learn/code/) · 组织维护
 
 **面向生成式 AI 应用的创建与部署平台/CLI，让开发者免写框架**
 
@@ -45,12 +45,12 @@ Hal9 提供以 pip 安装的 Python 包和 CLI（hal9 create/run/deploy），用
 ```mermaid
 xychart-beta
     title "hal9ai/hal9 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 180 --> 182
     line [181, 181]
 ```
 
-2026-10-20 181 → 2026-11-22 181（+0）
+2026-10-21 181 → 2026-11-23 181（+0）
 
 
 ---

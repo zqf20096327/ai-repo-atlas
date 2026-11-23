@@ -46,12 +46,12 @@ TypeScript + Solidity 全栈平台，供 Web3 开发者部署在多链上执行�
 ```mermaid
 xychart-beta
     title "kawacukennedy/kuberna-labs 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-20 51 → 2026-11-22 51（+0）
+2026-10-21 51 → 2026-11-23 51（+0）
 
 
 ---

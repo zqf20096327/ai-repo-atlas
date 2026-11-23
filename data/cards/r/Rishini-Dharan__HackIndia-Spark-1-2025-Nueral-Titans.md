@@ -40,6 +40,18 @@
 > L3: **Predicts CO₂ output and machine failure for mining equipment, then recommends the filtration system that fits the 
 > L27:   ├── Machine failure + CO₂ predictor ── Streamlit app, scikit-learn + TensorFlow → Datadeveloper03/co2-and-machine
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Rishini-Dharan/HackIndia-Spark-1-2025-Nueral-Titans 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 65 --> 67
+    line [66, 66]
+```
+
+2026-11-22 66 → 2026-11-23 66（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 low · 依据 README sha `90070b4c578b` · [字段定义](../../DATASET.md)*

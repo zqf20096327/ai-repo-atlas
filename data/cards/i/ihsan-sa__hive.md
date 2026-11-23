@@ -1,6 +1,6 @@
 # ihsan-sa/hive
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ihsan-sa/hive) · [官网](https://hivelab.ca) · 组织维护
+⭐ 6 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ihsan-sa/hive) · [官网](https://hivelab.ca) · 组织维护
 
 **在你的机器上自托管的多 agent 协作系统，持续推进你的项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ihsan-sa/hive 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-21 6 → 2026-11-22 6（+0）
+2026-11-21 6 → 2026-11-23 6（+0）
 
 
 ---

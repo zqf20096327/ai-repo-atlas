@@ -1,10 +1,10 @@
 # alibaba/zvec
 
-⭐ 16,275 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/alibaba/zvec) · [官网](https://zvec.org) · 组织维护 · 中文 README
+⭐ 16,274 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/alibaba/zvec) · [官网](https://zvec.org) · 组织维护 · 中文 README
 
-**面向应用开发者的嵌入式向量数据库，提供进程内相似度检索**
+**嵌入式进程内向量数据库，面向应用开发者提供相似度检索**
 
-以进程内库形式运行的向量数据库，直接嵌入应用程序，无需独立服务。支持稠密与稀疏向量、多种索引类型（内存到磁盘）、关键词全文检索，并可在单条查询中融合向量相似度、全文与结构化过滤。通过预写日志（WAL）保证持久化，支持多进程并发读。官方提供 Python/Node.js/Go/Rust/Dart SDK，及 zvec-grep 搜索 CLI 与 Zvec Studio 可视化工具。预编译二进制覆盖 Linux/macOS/Windows/Android/iOS。
+以库形式直接嵌入应用的向量数据库，无需独立服务进程。提供稠密/稀疏向量索引、原生全文检索、以及向量相似度+全文+结构化过滤的混合查询；支持从内存到磁盘的多种索引类型（HNSW、IVF、DiskANN、RaBitQ 等）、WAL 持久化与多进程并发读。提供 Python/Node.js/Go/Rust/Java/Dart 六种语言的官方 SDK，覆盖 Linux/macOS/Windows/Android/iOS 平台。Python 需 64 位 3.10–3.14。
 
 ## 筛选速览
 
@@ -15,7 +15,7 @@
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
@@ -27,39 +27,40 @@
 
 ## 能力要点
 
-- 稠密+稀疏向量、多向量查询，索引类型覆盖内存到磁盘
-- 混合检索：向量相似度、全文检索与结构化过滤单查询融合
-- WAL 持久化与多进程并发读取
-- 提供 Python/Node.js/Go/Rust/Dart 官方 SDK
+- 进程内嵌入运行，纯本地、无服务、无配置
+- 稠密+稀疏向量与混合检索（向量+FTS+过滤）
+- WAL 持久化，进程崩溃或断电数据不丢失
+- 六语言官方 SDK，覆盖桌面、服务器与移动端
 
 ## 适用场景
 
-- 为本地或边缘应用嵌入相似度搜索能力
-- 构建 RAG 应用的向量与全文混合检索层
-- 为 AI agent 提供本地记忆/工作区搜索后端
+- 为 RAG 应用提供本地向量存储与检索
+- 为 Agent 记录长期记忆数据
+- 在边缘设备或移动端离线运行语义搜索
+- 关键字与向量混合检索代码或文档
 
 ## 场景标签
 
-`向量数据库` · 领域:知识与检索
+`向量数据库` `RAG` `语义搜索` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L22: **Zvec** is an open-source, in-process vector database — lightweight, lightning-fast, and designed to embed directl
-> L28: > - **ReMe integration**: zvec is now a file store backend in ReMe, the memory management kit for agents, providing
-> L43: - **Hybrid Search**: Fuse vector similarity, full-text search, and structured filters in a single query for precise
+> L20: **Zvec** is an open-source, in-process vector database — lightweight, lightning-fast, and designed to embed directl
+> L41: - **Hybrid Search**: Fuse vector similarity, full-text search, and structured filters in a single query for precise
+> L44: - **Runs Anywhere**: As an in-process library, Zvec runs wherever your code runs — notebooks, servers, CLI tools, o
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "alibaba/zvec 星数(近 25 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "alibaba/zvec 星数(近 26 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 16113 --> 16289
-    line [16127, 16130, 16138, 16144, 16148, 16153, 16156, 16161, 16164, 16168, 16169, 16144, 16212, 16224, 16226, 16231, 16235, 16242, 16244, 16250, 16260, 16265, 16268, 16273, 16275]
+    line [16127, 16130, 16138, 16144, 16148, 16153, 16156, 16161, 16164, 16168, 16169, 16144, 16212, 16224, 16226, 16231, 16235, 16242, 16244, 16250, 16260, 16265, 16268, 16273, 16275, 16274]
 ```
 
-2026-10-20 16,127 → 2026-11-22 16,275（+148）
+2026-10-21 16,127 → 2026-11-23 16,274（+147）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ad14580bd246` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `7164f075b921` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # bayesml/BayesML
 
-⭐ 29 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/bayesml/BayesML) · [官网](https://bayesml.github.io/BayesML/) · 组织维护
+⭐ 28 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/bayesml/BayesML) · [官网](https://bayesml.github.io/BayesML/) · 组织维护
 
 **面向教学科研的贝叶斯机器学习 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bayesml/BayesML 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
-    y-axis "stars" 28 --> 31
-    line [30, 29, 29]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-23"]
+    y-axis "stars" 27 --> 31
+    line [30, 29, 28]
 ```
 
-2026-10-20 30 → 2026-11-22 29（-1）
+2026-10-21 30 → 2026-11-23 28（-2）
 
 
 ---

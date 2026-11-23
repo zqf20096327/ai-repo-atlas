@@ -1,6 +1,6 @@
 # maquina-app/recuerd0
 
-⭐ 28 · Ruby · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/maquina-app/recuerd0) · [官网](https://recuerd0.ai) · 个人维护
+⭐ 28 · Ruby · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/maquina-app/recuerd0) · [官网](https://recuerd0.ai) · 个人维护
 
 **自托管 Web 应用：保存、版本化并组织 AI 对话中的知识**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "maquina-app/recuerd0 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
     y-axis "stars" 27 --> 30
     line [29, 28, 28]
 ```
 
-2026-10-19 29 → 2026-11-22 28（-1）
+2026-10-20 29 → 2026-11-23 28（-1）
 
 
 ---

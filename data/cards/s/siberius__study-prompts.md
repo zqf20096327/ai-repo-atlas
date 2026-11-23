@@ -1,6 +1,6 @@
 # siberius/study-prompts
 
-⭐ 4 · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/siberius/study-prompts) · [官网](https://vibemaker.cz/clanek/master-prompt-gemini-notebook/) · 个人维护
+⭐ 5 · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/siberius/study-prompts) · [官网](https://vibemaker.cz/clanek/master-prompt-gemini-notebook/) · 个人维护
 
 **面向教师与学生的源文本学习提示词库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "siberius/study-prompts 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-15 3 → 2026-11-22 4（+1）
+2026-11-15 3 → 2026-11-23 5（+2）
 
 
 ---

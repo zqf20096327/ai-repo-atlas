@@ -1,6 +1,6 @@
 # wangyingxuan383-ai/lishi-chuanyue
 
-⭐ 13 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/wangyingxuan383-ai/lishi-chuanyue) · [官网](https://github.com/wangyingxuan383-ai/lishi-chuanyue/releases) · 个人维护 · 中文 README
+⭐ 13 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/wangyingxuan383-ai/lishi-chuanyue) · [官网](https://github.com/wangyingxuan383-ai/lishi-chuanyue/releases) · 个人维护 · 中文 README
 
 **装在手机和电脑里的历史穿越 AI 互动小说应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wangyingxuan383-ai/lishi-chuanyue 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-23"]
     y-axis "stars" 7 --> 14
     line [8, 12, 13, 12, 13, 13]
 ```
 
-2026-10-20 8 → 2026-11-22 13（+5）
+2026-10-21 8 → 2026-11-23 13（+5）
 
 
 ---

@@ -1,10 +1,10 @@
 # athasdev/athas
 
-⭐ 3,194 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/athasdev/athas) · [官网](https://athas.dev) · 组织维护
+⭐ 3,213 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/athasdev/athas) · [官网](https://athas.dev) · 组织维护
 
-**给开发者的轻量跨平台 Rust 代码编辑器，含 AI agents 与 Git**
+**为开发者提供带 AI agents 与 vim 键位的跨平台代码编辑器**
 
-用 Rust 编写、基于 GPUI 进行 GPU 渲染的跨平台代码编辑器，功能包括 AI agents、Git 集成、语法高亮、LSP、Vim 键位、集成终端、数据库查看器、协作以及企业策略控制（托管模式与扩展白名单）。安装方面提供官方安装脚本（含 SHA256 校验）、Homebrew/APT/DNF 包管理器及 GitHub Releases 预编译包；开发者可从源码构建，Linux 下需先安装链接库。
+用 Rust 编写、基于 GPUI 以 GPU 绘制的跨平台代码编辑器，提供 AI agents、Git 集成、语法高亮、LSP、vim 键位、集成终端、数据库查看器、协作功能，并带有企业策略控制（managed mode 与扩展白名单）。安装方面提供 macOS/Linux/Windows 的 curl/powershell 脚本、Homebrew cask、APT 与 DNF 仓库、预编译包（.deb/.rpm/AppImage/tar.gz）；源码构建需 Rust 工具链及 Linux 下的若干系统库。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- AI agents 为列出的首项功能
-- GPU 渲染（GPUI）与 Vim 键位、LSP 支持
-- 提供官方一键安装脚本并校验 SHA256
-- 企业策略控制（托管模式 + 扩展白名单）
+- AI agents、Git 集成、LSP、vim 键位、集成终端等编辑器能力
+- macOS/Linux/Windows 三平台安装脚本并校验 SHA256
+- 提供 Homebrew、APT、DNF 包管理器安装渠道
+- Linux 源码构建给出 Debian/Ubuntu 与 Fedora 的依赖库清单
 
 ## 适用场景
 
-- 在 macOS/Windows/Linux 上使用轻量编辑器写代码
+- 跨平台编辑代码并使用 vim 键位
 - 在编辑器中使用 AI agents 辅助开发
-- 需要 Vim 键位与 Git 集成的日常工作流
+- 企业环境通过 managed mode 与扩展白名单管控
+- 从源码构建并参与开发
 
 ## 场景标签
 
@@ -40,6 +41,18 @@
 > L3:  A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI age
 > L8: - AI agents
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "athasdev/athas 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3193 --> 3214
+    line [3194, 3213]
+```
+
+2026-11-22 3,194 → 2026-11-23 3,213（+19）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `93a003bd39e1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3e2b53d8c029` · [字段定义](../../DATASET.md)*

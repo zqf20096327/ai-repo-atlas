@@ -1,6 +1,6 @@
 # luoyi0914/ofm-gateway-android
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/luoyi0914/ofm-gateway-android) · [官网](https://github.com/luoyi0914/ofm-gateway-magisk) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/luoyi0914/ofm-gateway-android) · [官网](https://github.com/luoyi0914/ofm-gateway-magisk) · 个人维护 · 中文 README
 
 **把 OFM 本机 AI 网关打包成免 root 的 Android 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "luoyi0914/ofm-gateway-android 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 8 --> 14
-    line [9, 10, 9, 10, 13, 13]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 8 --> 15
+    line [9, 10, 9, 10, 13, 14]
 ```
 
-2026-11-08 9 → 2026-11-22 13（+4）
+2026-11-08 9 → 2026-11-23 14（+5）
 
 
 ---

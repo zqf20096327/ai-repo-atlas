@@ -1,6 +1,6 @@
 # voyager67/The-Sharks
 
-⭐ 3 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/voyager67/The-Sharks) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **五专家 agent 创业评估框架：质询商业模式并给出修复清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

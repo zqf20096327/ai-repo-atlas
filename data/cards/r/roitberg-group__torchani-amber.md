@@ -1,6 +1,6 @@
 # roitberg-group/torchani-amber
 
-⭐ 18 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/roitberg-group/torchani-amber) · 组织维护
+⭐ 18 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/roitberg-group/torchani-amber) · 组织维护
 
 **在 Amber 分子动力学软件中接入 ANI 等神经网势的接口**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "roitberg-group/torchani-amber 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-20 18 → 2026-11-22 18（+0）
+2026-10-21 18 → 2026-11-23 18（+0）
 
 
 ---

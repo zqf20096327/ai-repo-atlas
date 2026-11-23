@@ -1,6 +1,6 @@
 # K-Dense-AI/drug-discovery-agent-skills
 
-⭐ 57 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/K-Dense-AI/drug-discovery-agent-skills) · [官网](www.k-dense.ai) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/K-Dense-AI/drug-discovery-agent-skills) · [官网](www.k-dense.ai) · 组织维护
 
 **药物研发 agent 技能包：37 个技能教编码代理使用计算化学与生物学工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "K-Dense-AI/drug-discovery-agent-skills 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 42 --> 58
-    line [43, 45, 47, 48, 49, 50, 47, 54, 55, 56, 57]
+    title "K-Dense-AI/drug-discovery-agent-skills 星数(近 12 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 42 --> 59
+    line [43, 45, 47, 48, 49, 50, 47, 54, 55, 56, 57, 58]
 ```
 
-2026-10-20 43 → 2026-11-22 57（+14）
+2026-10-21 43 → 2026-11-23 58（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # kamalkraj/MedGem
 
-⭐ 11 · Kotlin · MIT · 推送 2026-02-24 · [GitHub](https://github.com/kamalkraj/MedGem) · [官网](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/MedGem) · 个人维护
+⭐ 12 · Kotlin · MIT · 推送 2026-02-24 · [GitHub](https://github.com/kamalkraj/MedGem) · [官网](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/MedGem) · 个人维护
 
 **在 Android 设备上离线运行医学多模态大模型的应用**
 
@@ -45,12 +45,12 @@ Kotlin Jetpack Compose 构建的 Android 应用，在本地离线运行 MedGemma
 ```mermaid
 xychart-beta
     title "kamalkraj/MedGem 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-22 10 → 2026-11-22 11（+1）
+2026-10-22 10 → 2026-11-23 12（+2）
 
 
 ---

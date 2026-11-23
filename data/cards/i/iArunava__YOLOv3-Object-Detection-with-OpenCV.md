@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "iArunava/YOLOv3-Object-Detection-with-OpenCV 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-22"]
+    title "iArunava/YOLOv3-Object-Detection-with-OpenCV 星数(近 3 点)"
+    x-axis ["2026-11-15", "2026-11-22", "2026-11-23"]
     y-axis "stars" 358 --> 361
-    line [359, 360]
+    line [359, 360, 360]
 ```
 
-2026-11-15 359 → 2026-11-22 360（+1）
+2026-11-15 359 → 2026-11-23 360（+1）
 
 
 ---

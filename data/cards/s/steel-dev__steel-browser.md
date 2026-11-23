@@ -2,9 +2,9 @@
 
 ⭐ 7,999 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/steel-dev/steel-browser) · [官网](https://steel.dev) · 组织维护
 
-**面向 AI agent 的开源浏览器 API 与托管沙箱服务**
+**面向 AI Agents 与应用的浏览器自动化 API 沙箱**
 
-由 Steel 公司维护的开源浏览器 API：以 Docker 镜像或 Node.js 运行本地实例，底层用 Puppeteer 与 CDP 管理 Chrome 进程，提供会话管理（状态/cookie/本地存储跨请求保持）、代理链与 IP 轮换、Chrome 扩展加载、反检测指纹、请求日志调试 UI，以及 /scrape、/screenshot、/pdf 快捷端点。供 Puppeteer/Playwright/Selenium 客户端连接，并发放 Python 与 Node SDK；另有 Steel Cloud 托管服务，处于公开测试阶段。
+开源浏览器 API 服务，封装浏览器基础设施供开发者构建与运行网页自动化流程和 AI Agent：管理会话、页面与浏览器进程，维护 cookies 与本地存储，内置代理链、指纹管理、请求日志与会话回放 UI。通过 REST API 暴露 /sessions、/scrape、/screenshot、/pdf 等端点，可经 Puppeteer、Playwright、Selenium 或 Python/Node SDK 接入；Commands API 面向 AI Agent 提供页面快照与元素操作，默认关闭需环境变量开启。提供 Docker 镜像、docker compose 与 Node.js 三种运行方式，另设 Steel Cloud 托管服务。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 基于 Puppeteer/CDP 的会话管理，保持 cookie 与浏览器状态
-- 内置代理链管理、反检测插件与指纹管理
-- 提供 /scrape、/screenshot、/pdf 快捷 API 与调试 UI
-- 提供 Python 与 Node SDK，兼容自托管与 Steel Cloud
+- 会话管理：跨请求保持浏览器状态、cookies 与本地存储
+- 兼容 Puppeteer、Playwright、Selenium 三种客户端接入
+- 内置代理链、反检测插件与指纹管理
+- 面向 AI Agent 的 Commands API：快照页面并按 ref 操作元素
 
 ## 适用场景
 
-- 为 AI agent 提供可编程控制的浏览器环境
-- 在自动化流程中抓取网页、截图或导出 PDF
-- 复用现有 Selenium 工作流接入 Steel 浏览器会话
+- 为 AI Agent 提供可托管的浏览器执行环境
+- 批量抓取网页并转换为 markdown、截图或 PDF
+- 需要代理轮换与会话保持的有状态爬取流程
+- 接入已有 Selenium 工作流获得增强能力
 
 ## 场景标签
 
@@ -37,21 +38,22 @@
 
 ## 证据(README 行号)
 
-> L7:  The open-source browser API for AI agents & apps.
 > L33: Steel.dev is an open-source browser API that makes it easy to build AI apps and agents that interact with the web. 
+> L35: Under the hood, it manages sessions, pages, and browser processes, allowing you to perform complex browsing tasks p
+> L281: The `/sessions/{sessionId}/commands` endpoint drives the session's browser with high-level commands. It is built f
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "steel-dev/steel-browser 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "steel-dev/steel-browser 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 7825 --> 8014
-    line [7840, 7852, 7857, 7861, 7862, 7865, 7870, 7875, 7879, 7888, 7891, 7898, 7900, 7862, 7941, 7942, 7948, 7953, 7959, 7966, 7971, 7974, 7980, 7986, 7993, 7995, 7999]
+    line [7840, 7852, 7857, 7861, 7862, 7865, 7870, 7875, 7879, 7888, 7891, 7898, 7900, 7862, 7941, 7942, 7948, 7953, 7959, 7966, 7971, 7974, 7980, 7986, 7993, 7995, 7999, 7999]
 ```
 
-2026-10-20 7,840 → 2026-11-22 7,999（+159）
+2026-10-21 7,840 → 2026-11-23 7,999（+159）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f246e75cb88e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `92b1f8be19ee` · [字段定义](../../DATASET.md)*

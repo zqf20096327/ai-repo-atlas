@@ -45,12 +45,12 @@ Python 辅助库，用于在 FastAPI 后端实现 Vercel AI SDK 协议，使 Nex
 ```mermaid
 xychart-beta
     title "doganarif/fastapi-ai-sdk 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-20 62 → 2026-11-22 62（+0）
+2026-10-21 62 → 2026-11-23 62（+0）
 
 
 ---

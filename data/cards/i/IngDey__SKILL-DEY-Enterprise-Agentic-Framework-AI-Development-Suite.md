@@ -1,6 +1,6 @@
 # IngDey/SKILL-DEY-Enterprise-Agentic-Framework-AI-Development-Suite
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/IngDey/SKILL-DEY-Enterprise-Agentic-Framework-AI-Development-Suite) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 AI 辅助开发提供质量守护与撤销机制的开发框架**
 
@@ -11,7 +11,7 @@ SKILL DEY 是面向 AI 辅助编程的质量框架：任务在通过全项目审
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

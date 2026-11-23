@@ -46,12 +46,12 @@ Android 平台（Kotlin + Jetpack Compose）的 AI 伴侣客户端：角色具�
 ```mermaid
 xychart-beta
     title "Xccx11/tongpin-companion 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-22"]
+    x-axis ["2026-11-12", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-22 3（+0）
+2026-11-12 3 → 2026-11-23 3（+0）
 
 
 ---

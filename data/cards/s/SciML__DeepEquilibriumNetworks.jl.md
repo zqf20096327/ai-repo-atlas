@@ -1,6 +1,6 @@
 # SciML/DeepEquilibriumNetworks.jl
 
-⭐ 59 · Julia · MIT · 推送 2026-11-17 · [GitHub](https://github.com/SciML/DeepEquilibriumNetworks.jl) · [官网](https://docs.sciml.ai/DeepEquilibriumNetworks/stable/) · 组织维护
+⭐ 59 · Julia · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SciML/DeepEquilibriumNetworks.jl) · [官网](https://docs.sciml.ai/DeepEquilibriumNetworks/stable/) · 组织维护
 
 **Julia 框架：训练与推理深度平衡网络（无限深神经网络）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SciML/DeepEquilibriumNetworks.jl 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-20 59 → 2026-11-22 59（+0）
+2026-10-21 59 → 2026-11-23 59（+0）
 
 
 ---

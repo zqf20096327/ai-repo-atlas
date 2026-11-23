@@ -1,6 +1,6 @@
 # brittain9/speech-kit-obsidian-plugin
 
-⭐ 32 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/brittain9/speech-kit-obsidian-plugin) · [官网](https://community.obsidian.md/plugins/local-dictation) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/brittain9/speech-kit-obsidian-plugin) · [官网](https://community.obsidian.md/plugins/local-dictation) · 个人维护
 
 **Obsidian 语音工具箱：本地听写、转写、翻译与朗读**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "brittain9/speech-kit-obsidian-plugin 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 25 --> 33
-    line [26, 27, 26, 27, 28, 29, 30, 32, 32]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 25 --> 34
+    line [26, 27, 26, 27, 28, 29, 30, 32, 33]
 ```
 
-2026-10-19 26 → 2026-11-22 32（+6）
+2026-10-20 26 → 2026-11-23 33（+7）
 
 
 ---

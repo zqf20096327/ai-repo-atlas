@@ -1,6 +1,6 @@
 # scalattice/scalattice-agent
 
-⭐ 11 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/scalattice/scalattice-agent) · [官网](https://scalattice.com) · 组织维护
+⭐ 11 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/scalattice/scalattice-agent) · [官网](https://scalattice.com) · 组织维护
 
 **GPU 提供者的接入代理：把本地 GPU 接入 Scalattice 推理网络接单**
 
@@ -46,12 +46,12 @@ Scalattice 推理网络（Robottik Ltd 产品）的 GPU agent：在有 GPU 的�
 ```mermaid
 xychart-beta
     title "scalattice/scalattice-agent 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-14", "2026-11-23"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-20 10 → 2026-11-22 11（+1）
+2026-10-21 10 → 2026-11-23 11（+1）
 
 
 ---

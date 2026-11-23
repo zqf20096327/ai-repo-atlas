@@ -1,6 +1,6 @@
 # Anhao1314/FCode-FlowCredit
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Anhao1314/FCode-FlowCredit) · 个人维护 · 中文 README
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Anhao1314/FCode-FlowCredit) · 个人维护 · 中文 README
 
 **本地可审计的 Agent 运行时，审计其他 agent 应用**
 
@@ -46,12 +46,12 @@ FCode 是一个本地优先、可恢复、可审计的单 Agent Runtime：模型
 ```mermaid
 xychart-beta
     title "Anhao1314/FCode-FlowCredit 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-22"]
+    x-axis ["2026-11-02", "2026-11-23"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-02 7 → 2026-11-22 7（+0）
+2026-11-02 7 → 2026-11-23 7（+0）
 
 
 ---

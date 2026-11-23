@@ -1,6 +1,6 @@
 # linsaftw/lean-agents
 
-⭐ 74 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/linsaftw/lean-agents) · 个人维护
+⭐ 75 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/linsaftw/lean-agents) · 个人维护
 
 **给编码 agent 的精简提示词工作流：共享策略+并行分工**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "linsaftw/lean-agents 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 57 --> 75
-    line [58, 71, 72, 73, 74, 74]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 57 --> 76
+    line [58, 71, 72, 73, 74, 75]
 ```
 
-2026-11-12 58 → 2026-11-22 74（+16）
+2026-11-12 58 → 2026-11-23 75（+17）
 
 
 ---

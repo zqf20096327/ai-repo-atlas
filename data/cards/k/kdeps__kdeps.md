@@ -1,6 +1,6 @@
 # kdeps/kdeps
 
-⭐ 38 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/kdeps/kdeps) · [官网](https://kdeps.com) · 组织维护
+⭐ 38 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kdeps/kdeps) · [官网](https://kdeps.com) · 组织维护
 
 **用 YAML 定义 AI 工作流与 Agent 的 Git 原生构建工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kdeps/kdeps 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-20 37 → 2026-11-22 38（+1）
+2026-10-21 37 → 2026-11-23 38（+1）
 
 
 ---

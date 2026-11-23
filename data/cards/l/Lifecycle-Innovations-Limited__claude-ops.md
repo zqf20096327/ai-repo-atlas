@@ -1,6 +1,6 @@
 # Lifecycle-Innovations-Limited/claude-ops
 
-⭐ 556 · Shell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Lifecycle-Innovations-Limited/claude-ops) · [官网](https://github.com/Lifecycle-Innovations-Limited/claude-ops/wiki) · 组织维护
+⭐ 557 · Shell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Lifecycle-Innovations-Limited/claude-ops) · [官网](https://github.com/Lifecycle-Innovations-Limited/claude-ops/wiki) · 组织维护
 
 **把 Claude Code 变成企业运营操作系统的插件（68 技能/多 agent）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lifecycle-Innovations-Limited/claude-ops 星数(近 12 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 544 --> 557
-    line [547, 545, 546, 547, 545, 548, 551, 553, 554, 555, 556, 556]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 544 --> 558
+    line [547, 545, 546, 547, 545, 548, 551, 553, 554, 555, 556, 557]
 ```
 
-2026-10-20 547 → 2026-11-22 556（+9）
+2026-10-21 547 → 2026-11-23 557（+10）
 
 
 ---

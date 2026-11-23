@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mutlumehmet/ai-portfolio-builder 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-22"]
+    title "mutlumehmet/ai-portfolio-builder 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    line [3, 4, 5, 5]
 ```
 
-2026-10-26 3 → 2026-11-22 5（+2）
+2026-10-26 3 → 2026-11-23 5（+2）
 
 
 ---

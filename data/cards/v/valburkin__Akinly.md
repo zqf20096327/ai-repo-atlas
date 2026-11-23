@@ -1,6 +1,6 @@
 # valburkin/Akinly
 
-⭐ 5 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/valburkin/Akinly) · 个人维护
+⭐ 5 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/valburkin/Akinly) · 个人维护
 
 **.NET 短文本增量聚类库，模糊案例可交由 LLM 判定**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "valburkin/Akinly 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-21 5 → 2026-11-22 5（+0）
+2026-11-21 5 → 2026-11-23 5（+0）
 
 
 ---

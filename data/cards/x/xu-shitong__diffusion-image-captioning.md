@@ -1,6 +1,6 @@
 # xu-shitong/diffusion-image-captioning
 
-⭐ 56 · Jupyter Notebook · 推送 2025-11-26 · [GitHub](https://github.com/xu-shitong/diffusion-image-captioning) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于扩散语言模型的图像描述生成研究实现**
 

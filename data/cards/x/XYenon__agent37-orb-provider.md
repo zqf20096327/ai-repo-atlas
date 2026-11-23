@@ -1,6 +1,6 @@
 # XYenon/agent37-orb-provider
 
-⭐ 3 · Shell · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/XYenon/agent37-orb-provider) · 个人维护
+⭐ 3 · Shell · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/XYenon/agent37-orb-provider) · 个人维护
 
 **让 Amp 自托管 orbs 运行在 Agent37 云沙箱上的 Bash 提供者**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "XYenon/agent37-orb-provider 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-22"]
+    x-axis ["2026-11-11", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-22 3（+0）
+2026-11-11 3 → 2026-11-23 3（+0）
 
 
 ---

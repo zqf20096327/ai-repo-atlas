@@ -1,6 +1,6 @@
 # Nikhil-creat/iris-x
 
-⭐ 4 · TypeScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Nikhil-creat/iris-x) · [官网](https://nikhil-creat.github.io/iris-x/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基础设施 3D 数字孪生控制台：多 agent 协同巡检与处置**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

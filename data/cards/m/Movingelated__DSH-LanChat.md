@@ -1,6 +1,6 @@
 # Movingelated/DSH-LanChat
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Movingelated/DSH-LanChat) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **局域网消息/文件互传 Windows 工具，带 DSH 插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

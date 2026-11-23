@@ -1,6 +1,6 @@
 # wahyunuriman999/Muse-Skill-Hub
 
-⭐ 14 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/wahyunuriman999/Muse-Skill-Hub) · [官网](https://github.com/wahyunuriman999/Muse-Skill-Hub) · 个人维护
+⭐ 13 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/wahyunuriman999/Muse-Skill-Hub) · [官网](https://github.com/wahyunuriman999/Muse-Skill-Hub) · 个人维护
 
 **面向 AI agent 的 LLM 无关能力运行时：97 技能封装为 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wahyunuriman999/Muse-Skill-Hub 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23"]
     y-axis "stars" 8 --> 15
-    line [9, 10, 9, 12, 14, 14]
+    line [9, 10, 9, 12, 14, 13]
 ```
 
-2026-10-20 9 → 2026-11-22 14（+5）
+2026-10-21 9 → 2026-11-23 13（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # orka-agents/orka
 
-⭐ 50 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/orka-agents/orka) · [官网](https://orka-agents.github.io/orka/) · 组织维护
+⭐ 50 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/orka-agents/orka) · [官网](https://orka-agents.github.io/orka/) · 组织维护
 
 **在 Kubernetes 上运行 AI agent 任务的开源编排平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "orka-agents/orka 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-22"]
+    title "orka-agents/orka 星数(近 10 点)"
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-22", "2026-11-23"]
     y-axis "stars" 32 --> 51
-    line [33, 34, 36, 38, 34, 46, 47, 49, 50]
+    line [33, 34, 36, 38, 34, 46, 47, 49, 50, 50]
 ```
 
-2026-10-20 33 → 2026-11-22 50（+17）
+2026-10-21 33 → 2026-11-23 50（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # ProjectIdris/talkthrough
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ProjectIdris/talkthrough) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ProjectIdris/talkthrough) · 个人维护
 
 **屏幕内容讲解助手：语音加图示与3D模型覆盖页面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ProjectIdris/talkthrough 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-22"]
+    x-axis ["2026-11-12", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-22 3（+0）
+2026-11-12 3 → 2026-11-23 3（+0）
 
 
 ---

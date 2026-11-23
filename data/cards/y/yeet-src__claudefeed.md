@@ -46,12 +46,12 @@ claudefeed 是基于 eBPF 的 Linux 会话审计工具：在内核中按进程�
 ```mermaid
 xychart-beta
     title "yeet-src/claudefeed 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-19 16 → 2026-11-22 16（+0）
+2026-10-20 16 → 2026-11-23 16（+0）
 
 
 ---

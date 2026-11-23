@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "squallopen/superpowers-zh-adapters 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
+    title "squallopen/superpowers-zh-adapters 星数(近 4 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-22", "2026-11-23"]
     y-axis "stars" 37 --> 41
-    line [38, 39, 40]
+    line [38, 39, 40, 40]
 ```
 
-2026-10-20 38 → 2026-11-22 40（+2）
+2026-10-21 38 → 2026-11-23 40（+2）
 
 
 ---

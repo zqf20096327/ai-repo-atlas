@@ -1,6 +1,6 @@
 # niatheelf777/xiaofeiyu
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/niatheelf777/xiaofeiyu) · [官网](https://xfy.tospeak.top) · 个人维护 · 中文 README
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/niatheelf777/xiaofeiyu) · [官网](https://xfy.tospeak.top) · 个人维护 · 中文 README
 
 **本地运行 Gemma 人格气泡对话引擎：保留原始智力同时输出真人短气泡口吻**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "niatheelf777/xiaofeiyu 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-18", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-18 3 → 2026-11-22 4（+1）
+2026-11-18 3 → 2026-11-23 5（+2）
 
 
 ---

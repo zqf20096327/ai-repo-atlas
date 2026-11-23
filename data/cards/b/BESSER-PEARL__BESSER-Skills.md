@@ -46,12 +46,12 @@ BESSER 低代码平台的 Agent Skills 集合，包含 besser-user、besser-gene
 ```mermaid
 xychart-beta
     title "BESSER-PEARL/BESSER-Skills 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-22"]
+    x-axis ["2026-11-14", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-14 10 → 2026-11-22 10（+0）
+2026-11-14 10 → 2026-11-23 10（+0）
 
 
 ---

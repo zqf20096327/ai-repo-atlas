@@ -1,6 +1,6 @@
 # ZeroTang05/VideoAdGuard
 
-⭐ 777 · TypeScript · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ZeroTang05/VideoAdGuard) · [官网](https://vag.xiaobaozi.cn) · 个人维护 · 中文 README
+⭐ 778 · TypeScript · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ZeroTang05/VideoAdGuard) · [官网](https://vag.xiaobaozi.cn) · 个人维护 · 中文 README
 
 **基于大语言模型的B站视频植入广告检测与跳过浏览器插件**
 
@@ -44,13 +44,13 @@ VideoAdGuard 是面向B站观众的浏览器插件（Edge/Chrome/Firefox 及油�
 
 ```mermaid
 xychart-beta
-    title "ZeroTang05/VideoAdGuard 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 760 --> 778
-    line [765, 761, 762, 763, 766, 767, 766, 775, 776, 777]
+    title "ZeroTang05/VideoAdGuard 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 760 --> 779
+    line [765, 761, 762, 763, 766, 767, 766, 775, 776, 777, 778]
 ```
 
-2026-10-18 765 → 2026-11-22 777（+12）
+2026-10-18 765 → 2026-11-23 778（+13）
 
 
 ---

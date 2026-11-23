@@ -45,12 +45,12 @@ modebox 将 agent 生成的脚本运行在 WebAssembly 沙箱中，沙箱仅暴�
 ```mermaid
 xychart-beta
     title "farming-labs/modebox 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-22"]
+    x-axis ["2026-10-28", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-28 3 → 2026-11-22 3（+0）
+2026-10-28 3 → 2026-11-23 3（+0）
 
 
 ---

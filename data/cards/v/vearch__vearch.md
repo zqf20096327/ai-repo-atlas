@@ -1,6 +1,6 @@
 # vearch/vearch
 
-⭐ 2,333 · Python · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/vearch/vearch) · [官网](https://vearch.github.io) · 组织维护 · 中文 README
+⭐ 2,334 · Python · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/vearch/vearch) · [官网](https://vearch.github.io) · 组织维护 · 中文 README
 
 **面向 AI 应用的云原生分布式向量数据库，支持混合检索**
 
@@ -45,12 +45,12 @@ Vearch 是用于 embedding 向量相似度检索的分布式向量数据库，�
 ```mermaid
 xychart-beta
     title "vearch/vearch 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-23"]
     y-axis "stars" 2329 --> 2335
-    line [2330, 2331, 2333, 2334, 2333, 2333]
+    line [2330, 2331, 2333, 2334, 2333, 2334]
 ```
 
-2026-10-20 2,330 → 2026-11-22 2,333（+3）
+2026-10-21 2,330 → 2026-11-23 2,334（+4）
 
 
 ---

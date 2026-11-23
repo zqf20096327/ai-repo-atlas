@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WharfBoulderColander/Gemini-Config-Checker- 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
+    title "WharfBoulderColander/Gemini-Config-Checker- 星数(近 5 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 468 --> 476
-    line [475, 473, 472, 469]
+    line [475, 473, 472, 469, 469]
 ```
 
-2026-11-15 475 → 2026-11-22 469（-6）
+2026-11-15 475 → 2026-11-23 469（-6）
 
 
 ---

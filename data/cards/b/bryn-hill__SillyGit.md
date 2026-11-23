@@ -1,6 +1,6 @@
 # bryn-hill/SillyGit
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/bryn-hill/SillyGit) · [官网](https://bryn-hill.github.io/SillyGit/) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bryn-hill/SillyGit) · [官网](https://bryn-hill.github.io/SillyGit/) · 个人维护
 
 **内置 Claude Code 的桌面 Git 客户端，带合并编辑器与提交图**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bryn-hill/SillyGit 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-22 3（+0）
+2026-11-10 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # push-based/ai-performance-coach
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/push-based/ai-performance-coach) · [官网](https://push-based.github.io/ai-performance-coach/) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/push-based/ai-performance-coach) · [官网](https://push-based.github.io/ai-performance-coach/) · 个人维护
 
 **Obsidian 知识库的 AI 学习与规划系统：PARA 整理＋七步学习＋计划**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "push-based/ai-performance-coach 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    title "push-based/ai-performance-coach 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 18 --> 30
-    line [19, 20, 26, 27, 29]
+    line [19, 20, 26, 27, 29, 29]
 ```
 
-2026-11-15 19 → 2026-11-22 29（+10）
+2026-11-15 19 → 2026-11-23 29（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # mybigday/llama.node
 
-⭐ 23 · C++ · 推送 2026-11-17 · [GitHub](https://github.com/mybigday/llama.node) · 个人维护
+⭐ 23 · C++ · 推送 2026-11-22 · [GitHub](https://github.com/mybigday/llama.node) · 个人维护
 
 **llama.cpp 的 Node.js 绑定，供 Node 与浏览器运行 LLaMA 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mybigday/llama.node 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-23"]
     y-axis "stars" 20 --> 24
     line [21, 22, 23, 23]
 ```
 
-2026-10-19 21 → 2026-11-22 23（+2）
+2026-10-20 21 → 2026-11-23 23（+2）
 
 
 ---

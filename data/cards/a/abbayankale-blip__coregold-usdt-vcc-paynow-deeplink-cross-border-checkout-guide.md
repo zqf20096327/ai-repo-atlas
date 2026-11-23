@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-21 13 → 2026-11-22 13（+0）
+2026-11-21 13 → 2026-11-23 13（+0）
 
 
 ---

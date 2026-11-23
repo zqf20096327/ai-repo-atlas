@@ -43,13 +43,13 @@ brand.md 是一个结构化 Markdown 文件规范，放在项目根目录，向 
 
 ```mermaid
 xychart-beta
-    title "Sameness-Design/brand.md 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "Sameness-Design/brand.md 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-20 10 → 2026-11-22 11（+1）
+2026-10-21 10 → 2026-11-23 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Big-Dao/dsh-plugin-wsl-env
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Big-Dao/dsh-plugin-wsl-env) · [官网](https://github.com/Big-Dao/dsh-plugin-wsl-env#readme) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Big-Dao/dsh-plugin-wsl-env) · [官网](https://github.com/Big-Dao/dsh-plugin-wsl-env#readme) · 个人维护
 
 **让 DeepSeek Harness 桌面会话在 WSL 发行版内执行的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Big-Dao/dsh-plugin-wsl-env 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-22"]
+    title "Big-Dao/dsh-plugin-wsl-env 星数(近 6 点)"
+    x-axis ["2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 6 --> 13
-    line [7, 8, 10, 11, 12]
+    line [7, 8, 10, 11, 12, 12]
 ```
 
-2026-11-12 7 → 2026-11-22 12（+5）
+2026-11-12 7 → 2026-11-23 12（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # RajatDandekar/build-a-world-model-from-scratch
 
-⭐ 48 · Jupyter Notebook · 推送 2026-10-06 · [GitHub](https://github.com/RajatDandekar/build-a-world-model-from-scratch) · 组织维护
+⭐ 49 · Jupyter Notebook · 推送 2026-10-06 · [GitHub](https://github.com/RajatDandekar/build-a-world-model-from-scratch) · 组织维护
 
 **世界模型从零构建讲授课件、源码与 Colab 笔记本系列**
 
@@ -45,12 +45,12 @@ Vizuara AI 出品的世界模型系列课程：按 0–15 讲组织，每讲含�
 ```mermaid
 xychart-beta
     title "RajatDandekar/build-a-world-model-from-scratch 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-22"]
-    y-axis "stars" 34 --> 49
-    line [35, 36, 38, 39, 40, 41, 36, 45, 46, 48, 48]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-23"]
+    y-axis "stars" 34 --> 50
+    line [35, 36, 38, 39, 40, 41, 36, 45, 46, 48, 49]
 ```
 
-2026-10-20 35 → 2026-11-22 48（+13）
+2026-10-21 35 → 2026-11-23 49（+14）
 
 
 ---

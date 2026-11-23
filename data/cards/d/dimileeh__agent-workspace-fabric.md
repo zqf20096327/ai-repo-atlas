@@ -1,6 +1,6 @@
 # dimileeh/agent-workspace-fabric
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dimileeh/agent-workspace-fabric) · [官网](https://aira.pro/awf) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dimileeh/agent-workspace-fabric) · [官网](https://aira.pro/awf) · 个人维护
 
 **编排 AI 编码 agent 的控制平面：隔离工作区+PR 全生命周期管理**
 
@@ -46,12 +46,12 @@ AI 编码 agent 的本地控制平面（alpha）：为 Codex、Claude Code、Cur
 ```mermaid
 xychart-beta
     title "dimileeh/agent-workspace-fabric 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-19 13 → 2026-11-22 13（+0）
+2026-10-20 13 → 2026-11-23 13（+0）
 
 
 ---

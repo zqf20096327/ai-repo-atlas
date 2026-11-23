@@ -1,6 +1,6 @@
 # TomasLucasUTN/godot-mcp-bridge
 
-⭐ 13 · GDScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/TomasLucasUTN/godot-mcp-bridge) · [官网](https://github.com/TomasLucasUTN/godot-mcp-bridge) · 个人维护
+⭐ 15 · GDScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/TomasLucasUTN/godot-mcp-bridge) · [官网](https://github.com/TomasLucasUTN/godot-mcp-bridge) · 个人维护
 
 **让 Claude/Cursor 等 MCP 客户端操作 Godot 4 编辑器的 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TomasLucasUTN/godot-mcp-bridge 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 13, 13]
+    x-axis ["2026-10-25", "2026-11-18", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 13, 15]
 ```
 
-2026-10-25 10 → 2026-11-22 13（+3）
+2026-10-25 10 → 2026-11-23 15（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # StarkChristian/StarkLLM
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/StarkChristian/StarkLLM) · [官网](https://www.starkllm.com) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/StarkChristian/StarkLLM) · [官网](https://www.starkllm.com) · 个人维护
 
 **Windows 本地文档问答助手，模型经 Ollama 在本机运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "StarkChristian/StarkLLM 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-22 10（+0）
+2026-11-20 10 → 2026-11-23 10（+0）
 
 
 ---

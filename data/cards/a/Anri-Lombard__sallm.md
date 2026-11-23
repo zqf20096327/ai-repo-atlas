@@ -1,6 +1,6 @@
 # Anri-Lombard/sallm
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Anri-Lombard/sallm) · 个人维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Anri-Lombard/sallm) · 个人维护
 
 **面向南非11种官方语言的LLM训练与评测框架**
 
@@ -40,6 +40,18 @@
 > L3: **An open corpus, pretrained language models, and training/evaluation framework for all eleven official South Africa
 > L9: This repository accompanies **"MzansiText and MzansiLM: An Open Corpus and Decoder-Only Language Model for South Afr
 > L33: Matched multi-architecture pretraining runs through `sallm.pretrain` with identical packed `uint16` token streams (
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Anri-Lombard/sallm 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 42 --> 44
+    line [43, 43]
+```
+
+2026-11-22 43 → 2026-11-23 43（+0）
 
 
 ---

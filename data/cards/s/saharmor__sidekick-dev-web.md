@@ -44,13 +44,13 @@ Web 应用（React 前端 + FastAPI 后端），读取公开 GitHub 仓库，借
 
 ```mermaid
 xychart-beta
-    title "saharmor/sidekick-dev-web 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-22"]
+    title "saharmor/sidekick-dev-web 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-10-24", "2026-11-22", "2026-11-23"]
     y-axis "stars" 116 --> 119
-    line [118, 117, 118]
+    line [118, 117, 118, 118]
 ```
 
-2026-10-19 118 → 2026-11-22 118（+0）
+2026-10-20 118 → 2026-11-23 118（+0）
 
 
 ---

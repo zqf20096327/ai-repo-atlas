@@ -1,6 +1,6 @@
 # tubeagentkit/youtube-transcript-hermes-plugin
 
-⭐ 10 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/tubeagentkit/youtube-transcript-hermes-plugin) · [官网](https://getyoutubetranscript.com/youtube-mcp-server) · 组织维护
+⭐ 9 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/tubeagentkit/youtube-transcript-hermes-plugin) · [官网](https://getyoutubetranscript.com/youtube-mcp-server) · 组织维护
 
 **给 Hermes Agent 接入 YouTube 转录与检索的 MCP 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tubeagentkit/youtube-transcript-hermes-plugin 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 9 --> 13
-    line [12, 10, 10]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 8 --> 13
+    line [12, 10, 9]
 ```
 
-2026-11-08 12 → 2026-11-22 10（-2）
+2026-11-08 12 → 2026-11-23 9（-3）
 
 
 ---

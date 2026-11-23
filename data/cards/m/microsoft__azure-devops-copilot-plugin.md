@@ -1,6 +1,6 @@
 # microsoft/azure-devops-copilot-plugin
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/microsoft/azure-devops-copilot-plugin) · 组织维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/microsoft/azure-devops-copilot-plugin) · 组织维护
 
 **让 GitHub Copilot App 中查看和操作 Azure DevOps 工作的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/azure-devops-copilot-plugin 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-12", "2026-11-22"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-23"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-26 10 → 2026-11-22 11（+1）
+2026-10-26 10 → 2026-11-23 12（+2）
 
 
 ---

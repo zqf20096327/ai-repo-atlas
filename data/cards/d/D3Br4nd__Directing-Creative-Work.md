@@ -40,6 +40,18 @@
 > L43: No setup, no dependencies, no API keys: the skill is pure instructions. Other install options are below.
 > L192: None. The skill contains only instructions: no scripts, no network, no packages.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "D3Br4nd/Directing-Creative-Work 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-22 4 → 2026-11-23 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dcb0285e9659` · [字段定义](../../DATASET.md)*

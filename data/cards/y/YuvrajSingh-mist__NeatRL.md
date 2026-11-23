@@ -1,6 +1,6 @@
 # YuvrajSingh-mist/NeatRL
 
-⭐ 240 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/YuvrajSingh-mist/NeatRL) · [官网](https://www.neatrl.com) · 个人维护
+⭐ 241 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/YuvrajSingh-mist/NeatRL) · [官网](https://www.neatrl.com) · 个人维护
 
 **单文件 PyTorch 深度强化学习算法库，供研究与实验**
 
@@ -44,13 +44,13 @@ NeatRL 提供 DQN、Dueling DQN、REINFORCE、DDPG、A2C、TD3、SAC、PPO、PPO
 
 ```mermaid
 xychart-beta
-    title "YuvrajSingh-mist/NeatRL 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 230 --> 241
-    line [231, 232, 233, 234, 235, 232, 238, 239, 240]
+    title "YuvrajSingh-mist/NeatRL 星数(近 10 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 230 --> 242
+    line [231, 232, 233, 234, 235, 232, 238, 239, 240, 241]
 ```
 
-2026-10-20 231 → 2026-11-22 240（+9）
+2026-10-21 231 → 2026-11-23 241（+10）
 
 
 ---

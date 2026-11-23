@@ -1,6 +1,6 @@
 # krumjahn/applehealth
 
-⭐ 470 · Python · 推送 2026-11-11 · [GitHub](https://github.com/krumjahn/applehealth) · [官网](https://applehealthdata.com) · 个人维护
+⭐ 471 · Python · 推送 2026-11-11 · [GitHub](https://github.com/krumjahn/applehealth) · [官网](https://applehealthdata.com) · 个人维护
 
 **与 Apple Health 导出数据对话的终端 AI 分析器**
 
@@ -47,12 +47,12 @@ Python CLI 工具（3.9+），读取 Apple Health 的 export.xml，转换为 CSV
 ```mermaid
 xychart-beta
     title "krumjahn/applehealth 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 464 --> 471
-    line [465, 466, 467, 466, 467, 469, 470, 470]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 464 --> 472
+    line [465, 466, 467, 466, 467, 469, 470, 471]
 ```
 
-2026-10-20 465 → 2026-11-22 470（+5）
+2026-10-21 465 → 2026-11-23 471（+6）
 
 
 ---

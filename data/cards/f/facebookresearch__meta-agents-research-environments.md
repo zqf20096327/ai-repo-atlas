@@ -1,6 +1,6 @@
 # facebookresearch/meta-agents-research-environments
 
-⭐ 581 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/facebookresearch/meta-agents-research-environments) · [官网](https://facebookresearch.github.io/meta-agents-research-environments/) · 组织维护
+⭐ 582 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/facebookresearch/meta-agents-research-environments) · [官网](https://facebookresearch.github.io/meta-agents-research-environments/) · 组织维护
 
 **面向 AI agent 的动态环境评测平台，运行 Gaia2 基准**
 
@@ -46,12 +46,12 @@ Meta Agents Research Environments（ARE）是用于在动态、演化场景中�
 ```mermaid
 xychart-beta
     title "facebookresearch/meta-agents-research-environments 星数(近 12 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 567 --> 582
-    line [568, 570, 573, 574, 575, 576, 574, 578, 579, 580, 581, 581]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 567 --> 583
+    line [568, 570, 573, 574, 575, 576, 574, 578, 579, 580, 581, 582]
 ```
 
-2026-10-20 568 → 2026-11-22 581（+13）
+2026-10-21 568 → 2026-11-23 582（+14）
 
 
 ---

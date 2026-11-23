@@ -1,6 +1,6 @@
 # jagreehal/ai-sdk-ollama
 
-⭐ 132 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/jagreehal/ai-sdk-ollama) · 个人维护
+⭐ 133 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/jagreehal/ai-sdk-ollama) · 个人维护
 
 **面向 Vercel AI SDK 的 Ollama 接入 provider 库**
 
@@ -46,12 +46,12 @@ TypeScript 库，基于官方 ollama 包实现，为 Vercel AI SDK 提供 Ollama
 ```mermaid
 xychart-beta
     title "jagreehal/ai-sdk-ollama 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 130 --> 133
-    line [131, 132, 131, 132, 132]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 130 --> 134
+    line [131, 132, 131, 132, 133]
 ```
 
-2026-10-20 131 → 2026-11-22 132（+1）
+2026-10-21 131 → 2026-11-23 133（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # devops-thiago/ThrillhouseBot
 
-⭐ 38 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/devops-thiago/ThrillhouseBot) · 个人维护
+⭐ 38 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/devops-thiago/ThrillhouseBot) · 个人维护
 
 **自托管的 AI 代码审查 GitHub App：审 PR diff 并给内联建议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "devops-thiago/ThrillhouseBot 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23"]
     y-axis "stars" 35 --> 39
     line [36, 37, 36, 37, 38, 38]
 ```
 
-2026-10-20 36 → 2026-11-22 38（+2）
+2026-10-21 36 → 2026-11-23 38（+2）
 
 
 ---

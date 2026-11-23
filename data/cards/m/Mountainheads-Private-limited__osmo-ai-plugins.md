@@ -1,6 +1,6 @@
 # Mountainheads-Private-limited/osmo-ai-plugins
 
-⭐ 11 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Mountainheads-Private-limited/osmo-ai-plugins) · [官网](https://getosmo.app/for-my-ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **让 ChatGPT/Claude 等 AI 客户端代打电话的 MCP 服务**
 
@@ -11,7 +11,7 @@ OsmO 提供一个托管的 MCP 服务器（https://api.getosmo.app/mcp，Streama
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

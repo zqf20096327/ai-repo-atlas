@@ -1,6 +1,6 @@
 # realZillionX/InspireSkill
 
-⭐ 577 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/realZillionX/InspireSkill) · 组织维护 · 中文 README
+⭐ 577 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/realZillionX/InspireSkill) · 组织维护 · 中文 README
 
 **让 AI Agent 经 CLI 调度启智平台算力的本地工具套件**
 
@@ -41,6 +41,18 @@
 > L1: Inspire Skill: the Agent-Native cockpit for the Inspire compute platform
 > L11: 本着过渡到大 Agent 时代、将一切重复性机械工作交给 Agent 的初衷，我们创办了 InspireSkill 项目，旨在将启智平台 GUI 打平为 CLI，并建立了 CLI + Skill 的一体化系统，让 InspireS
 > L21: - **`inspire` CLI**：把资源查询、Notebook 连接、GPU Job / HPC / Ray 提交、Serving 部署、TensorBoard 曲线读取、镜像与模型管理整合为命令行工具。所有资源直接按名称和
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "realZillionX/InspireSkill 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 576 --> 578
+    line [577, 577]
+```
+
+2026-11-22 577 → 2026-11-23 577（+0）
 
 
 ---

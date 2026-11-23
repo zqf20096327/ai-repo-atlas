@@ -1,6 +1,6 @@
 # lii-lii321/Math_Tutor_RAG
 
-⭐ 17 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/lii-lii321/Math_Tutor_RAG) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lii-lii321/Math_Tutor_RAG) · 个人维护 · 中文 README
 
 **面向师生的数学错题本应用：拍照AI解析+RAG相似题+SM-2复习**
 
@@ -47,12 +47,12 @@ Streamlit + FastAPI 构建的智能错题本 Web 应用：上传错题照片后�
 ```mermaid
 xychart-beta
     title "lii-lii321/Math_Tutor_RAG 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-23"]
     y-axis "stars" 10 --> 18
     line [11, 13, 14, 15, 17, 17]
 ```
 
-2026-11-08 11 → 2026-11-22 17（+6）
+2026-11-08 11 → 2026-11-23 17（+6）
 
 
 ---

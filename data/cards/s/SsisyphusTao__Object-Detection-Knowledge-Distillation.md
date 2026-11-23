@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SsisyphusTao/Object-Detection-Knowledge-Distillation 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    title "SsisyphusTao/Object-Detection-Knowledge-Distillation 星数(近 6 点)"
+    x-axis ["2026-10-21", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 225 --> 228
-    line [227, 226, 227, 226, 227]
+    line [227, 226, 227, 226, 227, 227]
 ```
 
-2026-10-20 227 → 2026-11-22 227（+0）
+2026-10-21 227 → 2026-11-23 227（+0）
 
 
 ---

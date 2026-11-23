@@ -1,6 +1,6 @@
 # BenGJ10/Complete-Machine-Learning-Notes
 
-⭐ 56 · 推送 2026-04-19 · [GitHub](https://github.com/BenGJ10/Complete-Machine-Learning-Notes) · 个人维护
+⭐ 57 · 推送 2026-04-19 · [GitHub](https://github.com/BenGJ10/Complete-Machine-Learning-Notes) · 个人维护
 
 **机器学习/深度学习/LLM 学习笔记合集（手写笔记+资源）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BenGJ10/Complete-Machine-Learning-Notes 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 50 --> 57
-    line [51, 52, 53, 54, 55, 56, 56]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 50 --> 58
+    line [51, 52, 53, 54, 55, 56, 57]
 ```
 
-2026-10-20 51 → 2026-11-22 56（+5）
+2026-10-21 51 → 2026-11-23 57（+6）
 
 
 ---

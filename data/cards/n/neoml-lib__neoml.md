@@ -1,6 +1,6 @@
 # neoml-lib/neoml
 
-⭐ 800 · C++ · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/neoml-lib/neoml) · [官网](https://www.abbyy.com/neoml/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ABBYY 的跨平台机器学习框架：构建、训练与部署深度/传统 ML 模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

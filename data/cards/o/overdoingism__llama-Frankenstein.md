@@ -1,6 +1,6 @@
 # overdoingism/llama-Frankenstein
 
-⭐ 3 · PowerShell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/overdoingism/llama-Frankenstein) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AMD RDNA4 GPU 上 llama.cpp 推理的优化补丁集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Etamus/NeveAI
 
-⭐ 66 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Etamus/NeveAI) · [官网](https://huggingface.co/NeveAI) · 个人维护
+⭐ 65 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Etamus/NeveAI) · [官网](https://huggingface.co/NeveAI) · 个人维护
 
 **本地隐私优先的 AI 平台：离线运行 LLM 对话、生成图像/音乐/视频**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Etamus/NeveAI 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-12", "2026-11-23"]
     y-axis "stars" 64 --> 67
-    line [66, 65, 66, 65, 66, 66]
+    line [66, 65, 66, 65, 66, 65]
 ```
 
-2026-10-19 66 → 2026-11-22 66（+0）
+2026-10-20 66 → 2026-11-23 65（-1）
 
 
 ---

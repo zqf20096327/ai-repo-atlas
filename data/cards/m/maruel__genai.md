@@ -1,6 +1,6 @@
 # maruel/genai
 
-⭐ 33 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/maruel/genai) · 个人维护
+⭐ 34 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/maruel/genai) · 个人维护
 
 **Go 语言的 LLM 多后端 SDK：一套类型安全 API 接入 20+ 家模型服务商**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maruel/genai 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-20 32 → 2026-11-22 33（+1）
+2026-10-21 32 → 2026-11-23 34（+2）
 
 
 ---

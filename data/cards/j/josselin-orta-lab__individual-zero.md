@@ -1,6 +1,6 @@
 # josselin-orta-lab/individual-zero
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/josselin-orta-lab/individual-zero) · [官网](https://zenodo.org/records/23543637) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **具身 AI 与认知架构的开源研究计划：可检验的人工个体机制**
 
@@ -11,7 +11,7 @@ Individual Zero 是一个开源研究计划，探讨在统一人工系统中，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

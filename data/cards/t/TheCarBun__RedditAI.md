@@ -1,6 +1,6 @@
 # TheCarBun/RedditAI
 
-⭐ 11 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/TheCarBun/RedditAI) · [官网](https://reddit-ai-one.vercel.app) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/TheCarBun/RedditAI) · [官网](https://reddit-ai-one.vercel.app) · 个人维护
 
 **给 Reddit 用户：用 Gemini 生成帖子评论的 AI 摘要**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TheCarBun/RedditAI 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 12（+1）
 
 
 ---

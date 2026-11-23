@@ -1,10 +1,10 @@
 # lynote-ai/humanize-text
 
-⭐ 3,523 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lynote-ai/humanize-text) · [官网](https://lynote.ai/ai-humanizer) · 组织维护 · 中文 README
+⭐ 3,477 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lynote-ai/humanize-text) · [官网](https://lynote.ai/ai-humanizer) · 组织维护 · 中文 README
 
-**将 AI 生成文本改写为自然人类文风的开源管线**
+**给开发者的 AI 文本改写管线：把 AI 生成文本改写为自然文风**
 
-Lynote 团队开源的 AI 文本人性化改写管线，供需要降低 AI 痕迹的开发者与写作者本地运行。当前方法为 structure-first 数据管线，构建 SFT+KTO 训练数据（不发布权重与端点）；可运行的旧版 v1.x 翻译链为：LLM（DeepSeek 默认，OpenRouter 可选，temp 1.3）中→日两轮改写，再经 Google→Niutrans 两次机器翻译回到英文。提供 three tiers、n8n 工作流导入与 CLI 运行方式；README 明确不保证绕过检测、不得用于隐瞒作者身份，并推广其付费 Lynote.ai 与 Humanizer API。
+开源的 AI 文本 humanizer 管线：标准档由两次高温 LLM 改写加两次机器翻译跳转（中文→日文→芬兰语→英文，分别经 Google Translate 与 Niutrans）组成，每一步中间结果可通过 --json/--verbose 追踪。默认使用 DeepSeek，可配置 OpenRouter、Atlas Cloud、OrcaRouter、LiteLLM 或任何 OpenAI 兼容端点。提供 Python CLI、n8n 工作流与 Docker 三种运行方式；另开源自研改写模型的结构优先训练数据管线（代码与策略，不含权重）。使用需自备 LLM 与 Niutrans 的 API key。
 
 ## 筛选速览
 
@@ -12,47 +12,48 @@ Lynote 团队开源的 AI 文本人性化改写管线，供需要降低 AI 痕�
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- v1.x 翻译链：LLM 双语改写（中→日）+ 双引擎 MT 回译（Google→Niutrans）
-- structure-first 数据管线生成 SFT+KTO 训练数据，确定性可审计（SHA256、种子切分、YAML 策略）
-- 可配置 LLM 提供方：DeepSeek（默认）/OpenRouter/Atlas Cloud/OrcaRouter，支持 base_url 覆盖
-- 提供 n8n 工作流（humanize_standard.json）与 Python CLI 两种运行方式
+- 2 次 LLM 改写 + 2 次跨引擎翻译的四级改写链，每步可追踪
+- 支持 DeepSeek/OpenRouter/Atlas Cloud/OrcaRouter/LiteLLM 及任意 OpenAI 兼容端点
+- standard/advanced/focus 三档，focus 含检测引导的反馈回路
+- 附结构优先的训练数据管线（SFT→KTO），含策略与测试
 
 ## 适用场景
 
-- 把 AI 辅助生成的草稿改得更自然、更接近人类写作节奏
-- 通过 n8n 无代码工作流批量处理文本
-- 复用其训练数据管线方法构建自己的改写模型训练集
+- 让 AI 辅助生成的英文草稿读起来更自然
+- 无代码用户通过 n8n 工作流接入文本改写
+- 自托管 REST 端点批量处理 AI 生成文本
+- 研究 AI 文本特征改写的数据构建方法
 
 ## 场景标签
 
-`AI 写作` `模型训练` · 领域:内容生成
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L3: **An open-source pipeline for rewriting AI-generated text into natural human prose**
-> L28: The current method is a **structure-first data pipeline** that builds the SFT + preference (KTO) training data for 
-> L70: python -m src.standard.pipeline --input draft.txt
+> L3: **Open-source AI humanizer: rewrite AI-generated drafts into natural, human-sounding prose — and see every step it t
+> L51: The open pipeline combines two LLM rewrites with two machine-translation hops across distant languages and differen
+> L46: - **Three ways to run it.** Python CLI, a no-code n8n workflow, or Docker.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "lynote-ai/humanize-text 星数(近 25 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "lynote-ai/humanize-text 星数(近 26 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3438 --> 3530
-    line [3448, 3445, 3452, 3448, 3449, 3453, 3458, 3460, 3467, 3474, 3477, 3479, 3448, 3486, 3497, 3500, 3506, 3511, 3512, 3513, 3516, 3520, 3516, 3522, 3523]
+    line [3448, 3445, 3452, 3448, 3449, 3453, 3458, 3460, 3467, 3474, 3477, 3479, 3448, 3486, 3497, 3500, 3506, 3511, 3512, 3513, 3516, 3520, 3516, 3522, 3523, 3477]
 ```
 
-2026-10-19 3,448 → 2026-11-22 3,523（+75）
+2026-10-20 3,448 → 2026-11-23 3,477（+29）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `e04497e30f4d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d09220fe7062` · [字段定义](../../DATASET.md)*

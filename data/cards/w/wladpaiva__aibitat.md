@@ -1,6 +1,6 @@
 # wladpaiva/aibitat
 
-⭐ 152 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/wladpaiva/aibitat) · 个人维护
+⭐ 153 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/wladpaiva/aibitat) · 个人维护
 
 **TypeScript 多智能体对话框架，支持人类参与**
 
@@ -45,12 +45,12 @@ AIbitat 是用 TypeScript 编写的多智能体对话框架，自称 AutoGen 的
 ```mermaid
 xychart-beta
     title "wladpaiva/aibitat 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
-    y-axis "stars" 150 --> 153
-    line [151, 152, 152]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
+    y-axis "stars" 150 --> 154
+    line [151, 152, 153]
 ```
 
-2026-10-20 151 → 2026-11-22 152（+1）
+2026-10-21 151 → 2026-11-23 153（+2）
 
 
 ---

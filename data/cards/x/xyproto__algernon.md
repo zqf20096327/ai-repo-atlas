@@ -1,10 +1,10 @@
 # xyproto/algernon
 
-⭐ 3,028 · JavaScript · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/xyproto/algernon) · [官网](https://algernon.roboticoverlords.org) · 个人维护
+⭐ 3,028 · JavaScript · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/xyproto/algernon) · [官网](https://algernon.roboticoverlords.org) · 个人维护
 
-**单文件纯 Go Web 服务器，内置 Lua/Markdown/Ollama 等多种支持**
+**给开发者的自包含 Go Web 服务器：内置 Lua/模板渲染与 LLM 内容生成**
 
-用 Go 编写的自包含 Web 服务器，编译为单一可执行文件，支持 HTTP/2、HTTP/3(QUIC)、Lua/Teal 脚本作为请求处理器、Markdown/Pongo2/Amber/Sass/GCSS/JSX/TypeScript 渲染，以及 BoltDB/Redis/PostgreSQL/MySQL 等数据库后端。AI 部分为内置 Ollama 接入：通过 index.prompt 文件指定 Ollama 模型与提示词生成内容。面向需要在无外部依赖环境下快速搭建网站或 Web 应用的开发者；自动刷新功能目前仅限 Linux/macOS，Redis 缺省时回退到内置 Bolt 数据库。
+单个可执行文件的 Go Web 服务器，内置 HTTP/2、HTTP/3 (QUIC)、Lua/Teal 脚本处理、Markdown/Pongo2/Amber 模板渲染、Sass/GCSS 样式处理、npm-less React 19/JSX/TSX 转译，以及 Redis、内置 BoltDB、PostgreSQL、SQLite、MariaDB/MySQL、MSSQL 多种数据库后端。支持用户权限、限流、插件（JSON-RPC）、自动刷新预览和 REPL。其中 LLM 相关功能为 index.prompt 文件：指定内容类型、Ollama 模型与提示词后生成内容。默认 Redis，无 Redis 时回退到内置 Bolt，无需配置即可启动。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 单一自包含可执行文件，纯 Go 编写，无外部依赖
-- 内置 Lua/Teal 脚本处理 HTTP 请求，可加载插件（JSON-RPC）
-- index.prompt 文件指定 Ollama 模型与提示词生成 LLM 内容
-- npm-less React 19：内置 JSX/TSX 到 JavaScript 的转译（esbuild）
+- 单文件自包含可执行，无外部依赖，覆盖 Linux/macOS/64 位 Windows
+- 内置 Lua/Teal 脚本、Markdown/Pongo2/Amber 渲染、JSX/TSX 转译等多种文件类型处理
+- 支持 HTTP/2 与 HTTP/3 (QUIC)、限流、插件、用户权限系统
+- index.prompt 文件可通过 Ollama 模型生成页面内容
 
 ## 适用场景
 
-- 用 Markdown/Amber/Lua 快速搭建和预览网站
-- 通过 index.prompt 结合 Ollama 生成 LLM 内容
-- 在无数据库主机的环境下用内置 Bolt 运行 Web 应用
+- 零配置快速搭建 Lua 脚本驱动的动态网站
+- 本地预览 Markdown 文件与静态页面开发（auto-refresh）
+- 无需 npm 构建 React/JSX/TypeScript 前端页面
+- 轻量环境下（如树莓派）运行带数据库后端的 Web 服务
 
 ## 场景标签
 
- · 领域:Web 服务器/开发工具
+ · 领域:Web 开发/基础设施
 
 ## 证据(README 行号)
 
@@ -45,13 +46,13 @@
 ```mermaid
 xychart-beta
     title "xyproto/algernon 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-23"]
     y-axis "stars" 3027 --> 3033
     line [3031, 3032, 3031, 3032, 3031, 3030, 3028, 3028]
 ```
 
-2026-10-20 3,031 → 2026-11-22 3,028（-3）
+2026-10-21 3,031 → 2026-11-23 3,028（-3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `621a096d2b56` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1435c20745bd` · [字段定义](../../DATASET.md)*

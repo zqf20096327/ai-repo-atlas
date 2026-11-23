@@ -47,12 +47,12 @@ omega-ml 提供 Python 库与集成平台，支持从 Jupyter Notebook 或任意
 ```mermaid
 xychart-beta
     title "omegaml/omegaml 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-10-20 109 → 2026-11-22 109（+0）
+2026-10-21 109 → 2026-11-23 109（+0）
 
 
 ---

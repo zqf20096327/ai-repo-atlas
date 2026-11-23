@@ -44,12 +44,12 @@ Invariant Labs 开源的 Agent trace 检查工具，用于对 AI agent 的执行
 ```mermaid
 xychart-beta
     title "invariantlabs-ai/explorer 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-20 64 → 2026-11-22 64（+0）
+2026-10-21 64 → 2026-11-23 64（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # guuguo/agent-control
 
-⭐ 10 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/guuguo/agent-control) · [官网](https://hub.guuguo.top/agent-control) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/guuguo/agent-control) · [官网](https://hub.guuguo.top/agent-control) · 个人维护 · 中文 README
 
 **电脑与手机远程统一管理多个编程智能体的自托管控制台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guuguo/agent-control 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 5 --> 11
-    line [6, 7, 9, 10, 10]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 5 --> 12
+    line [6, 7, 9, 10, 11]
 ```
 
-2026-11-18 6 → 2026-11-22 10（+4）
+2026-11-18 6 → 2026-11-23 11（+5）
 
 
 ---

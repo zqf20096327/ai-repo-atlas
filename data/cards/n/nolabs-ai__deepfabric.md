@@ -1,6 +1,6 @@
 # nolabs-ai/deepfabric
 
-⭐ 896 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/nolabs-ai/deepfabric) · [官网](http://docs.deepfabric.dev) · 组织维护
+⭐ 896 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nolabs-ai/deepfabric) · [官网](http://docs.deepfabric.dev) · 组织维护
 
 **为 LLM 与 agent 训练生成合成数据集并评测的流水线库**
 
@@ -45,12 +45,12 @@ DeepFabric 为语言模型和 agent 评测生成合成训练数据：通过主�
 ```mermaid
 xychart-beta
     title "nolabs-ai/deepfabric 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-23"]
     y-axis "stars" 890 --> 898
     line [891, 895, 897, 896, 897, 896, 896]
 ```
 
-2026-10-20 891 → 2026-11-22 896（+5）
+2026-10-21 891 → 2026-11-23 896（+5）
 
 
 ---

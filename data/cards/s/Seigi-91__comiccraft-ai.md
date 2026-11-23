@@ -1,6 +1,6 @@
 # Seigi-91/comiccraft-ai
 
-⭐ 9 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Seigi-91/comiccraft-ai) · [官网](https://seigi-91.github.io/comiccraft-ai/) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Seigi-91/comiccraft-ai) · [官网](https://seigi-91.github.io/comiccraft-ai/) · 个人维护 · 中文 README
 
 **面向漫画创作者的本机 AI 漫画工作室，支持编辑与回退**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Seigi-91/comiccraft-ai 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 7 --> 10
-    line [8, 9]
+    title "Seigi-91/comiccraft-ai 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-08 8 → 2026-11-22 9（+1）
+2026-11-08 8 → 2026-11-23 10（+2）
 
 
 ---

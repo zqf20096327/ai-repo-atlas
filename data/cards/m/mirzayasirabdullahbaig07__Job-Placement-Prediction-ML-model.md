@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Job-Placement-Prediction-ML-model
 
-⭐ 45 · Jupyter Notebook · 推送 2025-11-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Job-Placement-Prediction-ML-model) · [官网](https://job-placement-prediction-ml-model-007.streamlit.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Streamlit Web 应用：预测求职者能否被录用**
 

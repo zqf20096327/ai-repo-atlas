@@ -1,6 +1,6 @@
 # SystemSculpt/obsidian-systemsculpt-ai
 
-⭐ 196 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) · [官网](https://systemsculpt.com/?utm_source=github&utm_medium=repo&utm_campaign=evergreen&utm_content=obsidian-plugin) · 组织维护
+⭐ 196 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) · [官网](https://systemsculpt.com/?utm_source=github&utm_medium=repo&utm_campaign=evergreen&utm_content=obsidian-plugin) · 组织维护
 
 **让 Claude Code/Codex 或托管 AI 处理 Obsidian 笔记的插件**
 
@@ -46,12 +46,12 @@ Obsidian 插件，把用户自己安装的桌面版 Claude Code 或 Codex（以�
 ```mermaid
 xychart-beta
     title "SystemSculpt/obsidian-systemsculpt-ai 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-20", "2026-11-23"]
     y-axis "stars" 194 --> 197
     line [195, 196, 196]
 ```
 
-2026-11-08 195 → 2026-11-22 196（+1）
+2026-11-08 195 → 2026-11-23 196（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # membaseai/membase
 
-⭐ 143 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/membaseai/membase) · [官网](https://membase.com) · 组织维护
+⭐ 143 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/membaseai/membase) · [官网](https://membase.com) · 组织维护
 
 **给 AI agent 提供统一记忆层的 SDK、CLI 与 MCP server**
 
@@ -41,6 +41,18 @@ Membase 为 AI agent 提供记忆层：将事实、文档、网页及 Claude/Cha
 > L20: Membase is the memory layer for AI agents. It keeps one memory for everything you and your agents
 > L28: This repository is the developer side: Python and TypeScript clients, the `membase` command line
 > L29: and an MCP server. The memory lives in your Membase account, which the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "membaseai/membase 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 142 --> 144
+    line [143, 143]
+```
+
+2026-11-22 143 → 2026-11-23 143（+0）
 
 
 ---

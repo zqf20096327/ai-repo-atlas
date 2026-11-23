@@ -1,6 +1,6 @@
 # radlab-dev-group/llm-router
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/radlab-dev-group/llm-router) · [官网](https://llm-router.cloud/) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/radlab-dev-group/llm-router) · [官网](https://llm-router.cloud/) · 组织维护
 
 **可本地部署的开源 LLM 网关：统一接口、负载均衡与安全审查**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "radlab-dev-group/llm-router 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-20 15 → 2026-11-22 16（+1）
+2026-10-21 15 → 2026-11-23 16（+1）
 
 
 ---

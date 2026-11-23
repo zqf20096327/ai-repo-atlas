@@ -1,6 +1,6 @@
 # AdaptInfer/CompBioDatasetsForMachineLearning
 
-⭐ 211 · 推送 2026-09-02 · [GitHub](https://github.com/AdaptInfer/CompBioDatasetsForMachineLearning) · 组织维护
+⭐ 212 · 推送 2026-09-02 · [GitHub](https://github.com/AdaptInfer/CompBioDatasetsForMachineLearning) · 组织维护
 
 **计算生物学机器学习数据集策展清单（13 类）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AdaptInfer/CompBioDatasetsForMachineLearning 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 208 --> 212
-    line [209, 210, 211, 211]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 208 --> 213
+    line [209, 210, 211, 212]
 ```
 
-2026-10-20 209 → 2026-11-22 211（+2）
+2026-10-21 209 → 2026-11-23 212（+3）
 
 
 ---

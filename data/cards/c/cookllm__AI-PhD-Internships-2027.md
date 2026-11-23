@@ -1,6 +1,6 @@
 # cookllm/AI-PhD-Internships-2027
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/cookllm/AI-PhD-Internships-2027) · [官网](https://cookllm.com/en/jobs/board?utm_source=github&utm_medium=readme&utm_campaign=phd-internships&utm_content=about) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cookllm/AI-PhD-Internships-2027) · [官网](https://cookllm.com/en/jobs/board?utm_source=github&utm_medium=readme&utm_campaign=phd-internships&utm_content=about) · 个人维护
 
 **面向 PhD 求职者的 2027 AI/ML 研究实习岗位清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cookllm/AI-PhD-Internships-2027 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "cookllm/AI-PhD-Internships-2027 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-20 3 → 2026-11-22 4（+1）
+2026-11-20 3 → 2026-11-23 5（+2）
 
 
 ---

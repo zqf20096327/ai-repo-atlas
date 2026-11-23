@@ -1,6 +1,6 @@
 # SepineTam/mcp-for-stata
 
-⭐ 281 · Python · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/SepineTam/mcp-for-stata) · [官网](https://aidea-labs.com/open/projects/mcp-for-stata) · 个人维护 · 中文 README
+⭐ 283 · Python · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/SepineTam/mcp-for-stata) · [官网](https://aidea-labs.com/open/projects/mcp-for-stata) · 个人维护 · 中文 README
 
 **让 AI agent 调用本地 Stata 做回归与实证研究的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SepineTam/mcp-for-stata 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 266 --> 282
-    line [267, 269, 270, 271, 272, 270, 275, 276, 277, 278, 279, 281]
+    title "SepineTam/mcp-for-stata 星数(近 13 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 266 --> 284
+    line [267, 269, 270, 271, 272, 270, 275, 276, 277, 278, 279, 281, 283]
 ```
 
-2026-10-19 267 → 2026-11-22 281（+14）
+2026-10-20 267 → 2026-11-23 283（+16）
 
 
 ---

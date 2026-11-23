@@ -1,6 +1,6 @@
 # kubeflow/katib
 
-⭐ 1,707 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/kubeflow/katib) · [官网](https://www.kubeflow.org/docs/components/katib) · 组织维护
+⭐ 1,707 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kubeflow/katib) · [官网](https://www.kubeflow.org/docs/components/katib) · 组织维护
 
 **Kubernetes 上的 AutoML 系统：超参调优、早停与神经架构搜索**
 
@@ -45,12 +45,12 @@ Kubeflow 生态的 Kubernetes 原生 AutoML 项目，提供超参数调优、早
 ```mermaid
 xychart-beta
     title "kubeflow/katib 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-11", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-11", "2026-11-20", "2026-11-23"]
     y-axis "stars" 1705 --> 1709
     line [1706, 1707, 1708, 1707, 1707]
 ```
 
-2026-10-20 1,706 → 2026-11-22 1,707（+1）
+2026-10-21 1,706 → 2026-11-23 1,707（+1）
 
 
 ---

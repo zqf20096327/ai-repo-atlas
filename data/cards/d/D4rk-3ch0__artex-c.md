@@ -1,6 +1,6 @@
 # D4rk-3ch0/artex-c
 
-⭐ 10 · Go · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/D4rk-3ch0/artex-c) · 个人维护 · 中文 README
+⭐ 11 · Go · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/D4rk-3ch0/artex-c) · 个人维护 · 中文 README
 
 **授权环境下的 LLM 多 agent 自主渗透测试系统**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "D4rk-3ch0/artex-c 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-22"]
-    y-axis "stars" 4 --> 11
-    line [5, 9, 10, 10]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-23"]
+    y-axis "stars" 4 --> 12
+    line [5, 9, 10, 11]
 ```
 
-2026-11-02 5 → 2026-11-22 10（+5）
+2026-11-02 5 → 2026-11-23 11（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # rvion/comfy-ts
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rvion/comfy-ts) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rvion/comfy-ts) · 个人维护
 
 **给 TypeScript 开发者的 ComfyUI 类型安全 SDK 与 CLI 工具包**
 
@@ -46,13 +46,13 @@ comfy-ts 提供 TypeScript 编写和运行 ComfyUI 工作流的完整工具链�
 
 ```mermaid
 xychart-beta
-    title "rvion/comfy-ts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 9 --> 25
-    line [10, 11, 22, 24]
+    title "rvion/comfy-ts 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 26
+    line [10, 11, 22, 24, 25]
 ```
 
-2026-10-18 10 → 2026-11-22 24（+14）
+2026-10-18 10 → 2026-11-23 25（+15）
 
 
 ---

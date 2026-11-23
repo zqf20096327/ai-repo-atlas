@@ -1,10 +1,10 @@
 # microsoft/Generative-AI-for-beginners-dotnet
 
-⭐ 3,245 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) · [官网](https://aka.ms/genainet) · 组织维护
+⭐ 3,246 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) · [官网](https://aka.ms/genainet) · 组织维护 · 中文 README
 
-**微软面向 .NET 开发者的生成式 AI 入门课程（5 课）**
+**.NET 开发者的生成式 AI 实战课程（5 课）**
 
-微软维护的动手实践课程，教 .NET 开发者在应用中接入生成式 AI：5 节课覆盖生成式 AI 概念、Microsoft.Extensions.AI 抽象、RAG 与语义搜索、Microsoft Agent Framework 构建 agent 与 MCP 集成、负责任 AI。每课配 5-10 分钟视频与可运行的 .NET 代码示例，支持 GitHub Codespaces 一键环境或 Azure 自动部署脚本（setup.ps1，部署 gpt-5-mini 等资源），也可用 Ollama 本地运行模型。提供 8 种语言的 README 翻译。
+微软维护的 .NET 生成式 AI 教程仓库，共 5 课：生成式 AI 入门、技术基础（聊天、嵌入、Microsoft.Extensions.AI）、模式与应用（语义搜索、RAG）、Microsoft Agent Framework 构建 Agent、负责任 AI。每课含视频、可运行代码样例与分步指引。提供 Ollama 本地路线与 Azure 路线（setup.ps1 自动部署资源），样例统一指向 .NET 11 并锁定 NuGet 版本，另提供 8 种语言的翻译 README。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 5 节课覆盖 chat/RAG/agent/MCP/负责任 AI，含可运行 .NET 示例
-- GitHub Codespaces 一键环境或 setup.ps1 自动部署 Azure 资源
-- 支持 Azure OpenAI / Microsoft Foundry 云端与 Ollama 本地模型两种路径
-- 28 个 Microsoft Agent Framework v1.0 示例与 Foundry Local 本地运行示例
+- 5 课覆盖从文本生成到 RAG 与多 Agent 编排
+- Ollama 本地路线无需 Azure 账号与 API key
+- 28 个 Microsoft Agent Framework 样例已升级至 stable v1.0
+- 提供 GitHub Codespaces 集成与多语言翻译
 
 ## 适用场景
 
-- 作为 .NET 开发者系统学习生成式 AI 应用开发
-- 在 Codespaces 中免配置运行课程示例
-- 参考 Agent Framework 多 agent 与 MCP 集成示例代码
+- 学习在 .NET 项目中实现生成式 AI 功能
+- 通过样例上手 Semantic Kernel 与 Agent Framework
+- 在本地用 Ollama 离线跑通 RAG 与 Agent 样例
 
 ## 场景标签
 
@@ -37,22 +37,22 @@
 
 ## 证据(README 行号)
 
+> L1: # Generative AI for Beginners .NET - A Course
 > L21: Welcome to **Generative AI for Beginners .NET**, the hands-on course for .NET developers diving into the world of G
-> L92: |#|**Lesson Link**|**Description**|
-> L94: |01|**Introduction to Generative AI**|What generative AI is and how it differs from traditional programming Why .NE
+> L96: ## 🗃️ Lessons
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "microsoft/Generative-AI-for-beginners-dotnet 星数(近 26 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3126 --> 3255
-    line [3136, 3142, 3150, 3154, 3156, 3157, 3163, 3166, 3172, 3175, 3182, 3189, 3156, 3213, 3216, 3218, 3220, 3223, 3225, 3227, 3230, 3235, 3234, 3241, 3244, 3245]
+    title "microsoft/Generative-AI-for-beginners-dotnet 星数(近 27 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3125 --> 3257
+    line [3136, 3142, 3150, 3154, 3156, 3157, 3163, 3166, 3172, 3175, 3182, 3189, 3156, 3213, 3216, 3218, 3220, 3223, 3225, 3227, 3230, 3235, 3234, 3241, 3244, 3245, 3246]
 ```
 
-2026-10-20 3,136 → 2026-11-22 3,245（+109）
+2026-10-21 3,136 → 2026-11-23 3,246（+110）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `34ad67df3114` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `25ee9ca56f6d` · [字段定义](../../DATASET.md)*

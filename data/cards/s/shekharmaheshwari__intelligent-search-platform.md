@@ -1,6 +1,6 @@
 # shekharmaheshwari/intelligent-search-platform
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/shekharmaheshwari/intelligent-search-platform) · [官网](https://shekharmaheshwari.github.io/intelligent-search-platform/) · 个人维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/shekharmaheshwari/intelligent-search-platform) · [官网](https://shekharmaheshwari.github.io/intelligent-search-platform/) · 个人维护
 
 **自托管混合搜索后端：索引内容并提供词法+语义检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shekharmaheshwari/intelligent-search-platform 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23"]
     y-axis "stars" 5 --> 53
     line [9, 12, 17, 20, 23, 44, 48, 49, 49]
 ```
 
-2026-11-10 9 → 2026-11-22 49（+40）
+2026-11-10 9 → 2026-11-23 49（+40）
 
 
 ---

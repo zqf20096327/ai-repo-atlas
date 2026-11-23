@@ -1,6 +1,6 @@
 # zjunlp/DataMind
 
-⭐ 154 · Python · 推送 2026-09-29 · [GitHub](https://github.com/zjunlp/DataMind) · [官网](https://zjunlp.github.io/DataMind/) · 组织维护 · 中文 README
+⭐ 155 · Python · 推送 2026-09-29 · [GitHub](https://github.com/zjunlp/DataMind) · [官网](https://zjunlp.github.io/DataMind/) · 组织维护 · 中文 README
 
 **面向研究者：开源 LLM 数据分析 agent 的多项目研究合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zjunlp/DataMind 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 148 --> 155
-    line [149, 150, 151, 150, 151, 153, 154, 154]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 148 --> 156
+    line [149, 150, 151, 150, 151, 153, 154, 155]
 ```
 
-2026-10-20 149 → 2026-11-22 154（+5）
+2026-10-21 149 → 2026-11-23 155（+6）
 
 
 ---

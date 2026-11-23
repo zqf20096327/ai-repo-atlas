@@ -1,6 +1,6 @@
 # interfere-inc/landmines
 
-⭐ 698 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/interfere-inc/landmines) · [官网](https://www.npmjs.com/package/@interfere/landmines) · 组织维护
+⭐ 705 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/interfere-inc/landmines) · [官网](https://www.npmjs.com/package/@interfere/landmines) · 组织维护
 
 **约束 AI 生成代码诚实性的 Oxlint 规则集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "interfere-inc/landmines 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 0 --> 767
-    line [4, 5, 6, 45, 569, 680, 696, 698]
+    title "interfere-inc/landmines 星数(近 9 点)"
+    x-axis ["2026-10-30", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 0 --> 775
+    line [4, 5, 6, 45, 569, 680, 696, 698, 705]
 ```
 
-2026-10-30 4 → 2026-11-22 698（+694）
+2026-10-30 4 → 2026-11-23 705（+701）
 
 
 ---

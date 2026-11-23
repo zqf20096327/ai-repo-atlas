@@ -1,6 +1,6 @@
 # NikolayS/pgaibench
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NikolayS/pgaibench) · [官网](https://pgaibench.dev) · 组织维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NikolayS/pgaibench) · [官网](https://pgaibench.dev) · 组织维护
 
 **评测 LLM 能否安全变更生产 Postgres 的基准测试**
 
@@ -46,12 +46,12 @@ PGAIBench 是一个基准测试项目：给定加列、改配置、修数据等�
 ```mermaid
 xychart-beta
     title "NikolayS/pgaibench 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-22 3（+0）
+2026-11-19 3 → 2026-11-23 3（+0）
 
 
 ---

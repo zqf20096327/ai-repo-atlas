@@ -1,6 +1,6 @@
 # c-dyang/night-watch
 
-⭐ 3 · HTML · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/c-dyang/night-watch) · 个人维护 · 中文 README
+⭐ 3 · HTML · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/c-dyang/night-watch) · 个人维护 · 中文 README
 
 **无人值守个人 agent 服务器的技术架构白皮书（中英双语）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "c-dyang/night-watch 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-22"]
+    x-axis ["2026-10-26", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-26 3 → 2026-11-22 3（+0）
+2026-10-26 3 → 2026-11-23 3（+0）
 
 
 ---

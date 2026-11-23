@@ -1,6 +1,6 @@
 # SujalXplores/v0.diy
 
-⭐ 173 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/SujalXplores/v0.diy) · [官网](https://v0-diy.vercel.app) · 个人维护
+⭐ 173 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SujalXplores/v0.diy) · [官网](https://v0-diy.vercel.app) · 个人维护
 
 **自托管的 v0.app 克隆：自然语言生成 React 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SujalXplores/v0.diy 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    title "SujalXplores/v0.diy 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-22", "2026-11-23"]
     y-axis "stars" 171 --> 174
-    line [172, 173]
+    line [172, 173, 173]
 ```
 
-2026-11-16 172 → 2026-11-22 173（+1）
+2026-11-16 172 → 2026-11-23 173（+1）
 
 
 ---

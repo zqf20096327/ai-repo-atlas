@@ -46,12 +46,12 @@ Zapier 维护的 Zap 模板合集：用户在 AI agent 中粘贴一行提示，a
 ```mermaid
 xychart-beta
     title "zapier/awesome-zaps 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-22 3（+0）
+2026-11-21 3 → 2026-11-23 3（+0）
 
 
 ---

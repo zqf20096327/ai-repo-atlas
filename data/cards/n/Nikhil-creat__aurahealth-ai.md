@@ -1,6 +1,6 @@
 # Nikhil-creat/aurahealth-ai
 
-⭐ 4 · Python · 推送 2026-10-07 · [GitHub](https://github.com/Nikhil-creat/aurahealth-ai) · [官网](https://nikhil-creat.github.io/aurahealth-ai/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向个人用户的 AI 健康健身应用：食物扫描与多智能体教练**
 

@@ -1,6 +1,6 @@
 # groundgrounder/Hortus
 
-⭐ 6 · Swift · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/groundgrounder/Hortus) · 个人维护 · 中文 README
+⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/groundgrounder/Hortus) · 个人维护 · 中文 README
 
 **面向 AI agent 的原生 macOS Markdown 知识库阅读器**
 
@@ -40,6 +40,18 @@
 > L4: Hortus is a native macOS Markdown knowledge viewer built for reading alongside AI agents. Open your notes directly, 
 > L39: - Before launching an agent, Hortus captures a full-vault snapshot (using APFS copy-on-write clones where supported
 > L40: - Open **Settings (`⌘,`) → Agent** to scan your login shell `PATH` and common macOS directories for installed CLIs 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "groundgrounder/Hortus 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-22 6 → 2026-11-23 7（+1）
 
 
 ---

@@ -47,12 +47,12 @@ Kibisis 是 Perseus Computing LLC 的 Telarch 三库之一，为 agent 提供本
 ```mermaid
 xychart-beta
     title "Perseus-Computing-LLC/kibisis 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-21", "2026-11-23"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-08 4 → 2026-11-22 5（+1）
+2026-11-08 4 → 2026-11-23 5（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # barbarabax/sonora-studio
 
-⭐ 39 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/barbarabax/sonora-studio) · [官网](https://barichord.com) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/barbarabax/sonora-studio) · [官网](https://barichord.com) · 个人维护
 
 **本地优先的 ACE-Step 1.5 AI 音乐创作工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "barbarabax/sonora-studio 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 23 --> 40
-    line [24, 25, 28, 33, 34, 36, 37, 38, 39, 39]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 23 --> 41
+    line [24, 25, 28, 33, 34, 36, 37, 38, 39, 40]
 ```
 
-2026-10-20 24 → 2026-11-22 39（+15）
+2026-10-21 24 → 2026-11-23 40（+16）
 
 
 ---

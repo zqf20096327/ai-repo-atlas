@@ -1,6 +1,6 @@
 # ekristen/guppi
 
-⭐ 14 · Go · MIT · 推送 2026-04-20 · [GitHub](https://github.com/ekristen/guppi) · [官网](https://guppi.sh) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-04-20 · [GitHub](https://github.com/ekristen/guppi) · [官网](https://guppi.sh) · 个人维护
 
 **浏览器里监控所有 tmux 会话中 AI agent 状态的单用户工具**
 
@@ -45,12 +45,12 @@ Go 后端加嵌入式 React 前端组成单二进制，通过 PTY 与 tmux attac
 ```mermaid
 xychart-beta
     title "ekristen/guppi 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 14, 15, 14, 14]
+    line [14, 15, 14, 15, 14, 15]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 15（+1）
 
 
 ---

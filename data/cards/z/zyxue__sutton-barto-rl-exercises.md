@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "zyxue/sutton-barto-rl-exercises 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "zyxue/sutton-barto-rl-exercises 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 83 --> 86
-    line [84, 85]
+    line [84, 85, 85]
 ```
 
-2026-10-20 84 → 2026-11-22 85（+1）
+2026-10-21 84 → 2026-11-23 85（+1）
 
 
 ---

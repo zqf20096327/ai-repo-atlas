@@ -1,6 +1,6 @@
 # dbetteb/early-ML
 
-⭐ 13 · Jupyter Notebook · GPL-3.0 · 推送 2026-03-25 · [GitHub](https://github.com/dbetteb/early-ML) · 个人维护
+⭐ 13 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/dbetteb/early-ML) · 个人维护
 
 **面向学习者的 Python 机器学习与优化分步教程库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "dbetteb/early-ML 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-20 13 → 2026-11-22 13（+0）
+2026-10-21 13 → 2026-11-23 13（+0）
 
 
 ---

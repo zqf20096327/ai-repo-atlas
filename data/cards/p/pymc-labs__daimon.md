@@ -1,6 +1,6 @@
 # pymc-labs/daimon
 
-⭐ 26 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/pymc-labs/daimon) · [官网](https://daimon.pymc-labs.com/) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pymc-labs/daimon) · [官网](https://daimon.pymc-labs.com/) · 组织维护
 
 **面向团队聊天的开源数据科学 agent，运行分析并回帖**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pymc-labs/daimon 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-11-20", "2026-11-23"]
     y-axis "stars" 21 --> 27
     line [22, 23, 24, 26, 26]
 ```
 
-2026-10-20 22 → 2026-11-22 26（+4）
+2026-10-21 22 → 2026-11-23 26（+4）
 
 
 ---

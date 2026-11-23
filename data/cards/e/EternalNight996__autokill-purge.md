@@ -1,6 +1,6 @@
 # EternalNight996/autokill-purge
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/EternalNight996/autokill-purge) · [官网](https://www.npmjs.com/package/autokill-purge) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/EternalNight996/autokill-purge) · [官网](https://www.npmjs.com/package/autokill-purge) · 个人维护 · 中文 README
 
 **面向 DSH/MengBot/AutoKill 三宿主的补丁控制台**
 
@@ -40,6 +40,18 @@
 > L5:  三宿主（DSH / MengBot / AutoKill）的破甲控制台 —— 83 条宿主补丁可视化 · 载荷生成 · 装备发放 · 备份还原 · 一键装/卸
 > L47: |提示词层|宿主往 system prompt 里塞的「安全边界 / 拒答话术 / 身份句」|**83 条宿主补丁**逐条字节替换（可视化勾选、可回滚）|
 > L123: |**DeepSeek Harness**|@deepseek-ai · deepseek-harness|宿主本体（0.1.7 / 0.2.2 两代布局差异是兼容层的工作对象）|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EternalNight996/autokill-purge 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 8
+    line [3, 7]
+```
+
+2026-11-22 3 → 2026-11-23 7（+4）
 
 
 ---

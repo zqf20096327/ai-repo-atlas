@@ -1,6 +1,6 @@
 # liuchaoqi-7/DA_Multi_Agent_Workflow
 
-⭐ 37 · JavaScript · MIT · 推送 2026-04-03 · [GitHub](https://github.com/liuchaoqi-7/DA_Multi_Agent_Workflow) · 个人维护 · 中文 README
+⭐ 37 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/liuchaoqi-7/DA_Multi_Agent_Workflow) · 个人维护 · 中文 README
 
 **电商多平台数据中台：n8n+LLM 实现 ETL、数仓建模与飞书智能问数**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "liuchaoqi-7/DA_Multi_Agent_Workflow 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-23"]
     y-axis "stars" 31 --> 38
     line [32, 33, 34, 35, 34, 35, 36, 37, 37]
 ```
 
-2026-10-19 32 → 2026-11-22 37（+5）
+2026-10-20 32 → 2026-11-23 37（+5）
 
 
 ---

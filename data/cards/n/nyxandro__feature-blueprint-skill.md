@@ -1,6 +1,6 @@
 # nyxandro/feature-blueprint-skill
 
-⭐ 4 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/nyxandro/feature-blueprint-skill) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/nyxandro/feature-blueprint-skill) · 个人维护
 
 **为 AI agent 写功能规格与实现计划的 Claude Code 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nyxandro/feature-blueprint-skill 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-08 3 → 2026-11-22 4（+1）
+2026-11-08 3 → 2026-11-23 5（+2）
 
 
 ---

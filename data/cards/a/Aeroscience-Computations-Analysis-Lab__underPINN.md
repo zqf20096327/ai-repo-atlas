@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aeroscience-Computations-Analysis-Lab/underPINN 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-12", "2026-11-22"]
+    title "Aeroscience-Computations-Analysis-Lab/underPINN 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-12", "2026-11-22", "2026-11-23"]
     y-axis "stars" 36 --> 41
-    line [37, 38, 39, 40]
+    line [37, 38, 39, 40, 40]
 ```
 
-2026-10-20 37 → 2026-11-22 40（+3）
+2026-10-21 37 → 2026-11-23 40（+3）
 
 
 ---

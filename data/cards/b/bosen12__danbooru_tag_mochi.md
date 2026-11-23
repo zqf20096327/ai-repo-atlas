@@ -1,6 +1,6 @@
 # bosen12/danbooru_tag_mochi
 
-⭐ 3 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/bosen12/danbooru_tag_mochi) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/bosen12/danbooru_tag_mochi) · 个人维护 · 中文 README
 
 **将 Danbooru 标签以卡片形式组合生成图像，并连接到本地 ComfyUI 的工具。**
 
@@ -46,12 +46,12 @@ Mochi 是一个面向本地 ComfyUI（WAI/Illustrious SDXL）的卡片式工作�
 ```mermaid
 xychart-beta
     title "bosen12/danbooru_tag_mochi 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-01", "2026-11-06", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 3, 3]
 ```
 
-2026-10-20 3 → 2026-11-22 3（+0）
+2026-10-21 3 → 2026-11-23 3（+0）
 
 
 ---

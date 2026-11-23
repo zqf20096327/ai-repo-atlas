@@ -1,6 +1,6 @@
 # maumoya/adhd-status
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/maumoya/adhd-status) · [官网](https://maumoya.github.io/adhd-status/progress.html) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/maumoya/adhd-status) · [官网](https://maumoya.github.io/adhd-status/progress.html) · 个人维护
 
 **给 ADHD 开发者的 Claude Code 状态板 skill：一句 STATUS 出微型任务表**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maumoya/adhd-status 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-22 3（+0）
+2026-11-10 3 → 2026-11-23 3（+0）
 
 
 ---

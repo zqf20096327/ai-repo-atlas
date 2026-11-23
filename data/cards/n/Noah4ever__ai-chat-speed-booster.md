@@ -1,6 +1,6 @@
 # Noah4ever/ai-chat-speed-booster
 
-⭐ 105 · TypeScript · MIT · 推送 2026-05-20 · [GitHub](https://github.com/Noah4ever/ai-chat-speed-booster) · [官网](https://projects.thiering.org/ai-chat-speed-booster/) · 个人维护
+⭐ 106 · TypeScript · MIT · 推送 2026-05-20 · [GitHub](https://github.com/Noah4ever/ai-chat-speed-booster) · [官网](https://projects.thiering.org/ai-chat-speed-booster/) · 个人维护
 
 **浏览器扩展：让长 AI 对话只加载最近消息以保持流畅**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Noah4ever/ai-chat-speed-booster 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-16", "2026-11-23"]
     y-axis "stars" 104 --> 107
-    line [106, 105, 105]
+    line [106, 105, 106]
 ```
 
-2026-10-20 106 → 2026-11-22 105（-1）
+2026-10-21 106 → 2026-11-23 106（+0）
 
 
 ---

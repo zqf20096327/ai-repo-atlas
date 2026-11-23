@@ -1,6 +1,6 @@
 # han938/open-webui-private-ai-desk
 
-⭐ 151 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/han938/open-webui-private-ai-desk) · 个人维护
+⭐ 148 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/han938/open-webui-private-ai-desk) · 个人维护
 
 **本地自托管私有 AI 工作台：聊天、文档问答与模型管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "han938/open-webui-private-ai-desk 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    title "han938/open-webui-private-ai-desk 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 140 --> 152
-    line [141, 151]
+    line [141, 151, 148]
 ```
 
-2026-11-21 141 → 2026-11-22 151（+10）
+2026-11-21 141 → 2026-11-23 148（+7）
 
 
 ---

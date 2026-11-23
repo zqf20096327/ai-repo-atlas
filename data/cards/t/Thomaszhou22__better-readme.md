@@ -1,6 +1,6 @@
 # Thomaszhou22/better-readme
 
-⭐ 10 · Python · 推送 2026-11-15 · [GitHub](https://github.com/Thomaszhou22/better-readme) · 个人维护 · 中文 README
+⭐ 11 · Python · 推送 2026-11-15 · [GitHub](https://github.com/Thomaszhou22/better-readme) · 个人维护 · 中文 README
 
 **给项目 README 打分、生成与优化的 AI agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Thomaszhou22/better-readme 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-22 10（+0）
+2026-11-08 10 → 2026-11-23 11（+1）
 
 
 ---

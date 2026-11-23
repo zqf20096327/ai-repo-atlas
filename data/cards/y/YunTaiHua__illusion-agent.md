@@ -1,6 +1,6 @@
 # YunTaiHua/illusion-agent
 
-⭐ 83 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/YunTaiHua/illusion-agent) · [官网](https://github.com/YunTaiHua/illusion-agent/releases/latest) · 个人维护 · 中文 README
+⭐ 83 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YunTaiHua/illusion-agent) · [官网](https://github.com/YunTaiHua/illusion-agent/releases/latest) · 个人维护 · 中文 README
 
 **跨终端与浏览器的多模型开源 AI agent 平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YunTaiHua/illusion-agent 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-23"]
     y-axis "stars" 73 --> 85
     line [74, 75, 76, 77, 78, 79, 80, 81, 77, 83, 84, 83, 83]
 ```
 
-2026-10-20 74 → 2026-11-22 83（+9）
+2026-10-21 74 → 2026-11-23 83（+9）
 
 
 ---

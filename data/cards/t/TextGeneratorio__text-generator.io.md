@@ -46,12 +46,12 @@ text-generator.io 的服务端系统：在磁盘、RAM 与 GPU 间平衡调度�
 ```mermaid
 xychart-beta
     title "TextGeneratorio/text-generator.io 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-20 38 → 2026-11-22 38（+0）
+2026-10-21 38 → 2026-11-23 38（+0）
 
 
 ---

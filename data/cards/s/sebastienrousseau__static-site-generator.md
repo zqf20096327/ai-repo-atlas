@@ -1,6 +1,6 @@
 # sebastienrousseau/static-site-generator
 
-⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/sebastienrousseau/static-site-generator) · [官网](https://docs.static-site-generator.com/) · 个人维护
+⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sebastienrousseau/static-site-generator) · [官网](https://docs.static-site-generator.com/) · 个人维护
 
 **面向无障碍与安全的 Rust 静态网站生成器，含本地 LLM 内容管线**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sebastienrousseau/static-site-generator 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-16", "2026-11-23"]
     y-axis "stars" 57 --> 62
     line [58, 60, 61, 61]
 ```
 
-2026-10-19 58 → 2026-11-22 61（+3）
+2026-10-20 58 → 2026-11-23 61（+3）
 
 
 ---

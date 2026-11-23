@@ -1,6 +1,6 @@
 # mgorshkov/np
 
-⭐ 10 · C++ · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mgorshkov/np) · [官网](https://mgorshkov.github.io/np) · 个人维护
+⭐ 15 · C++ · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mgorshkov/np) · [官网](https://mgorshkov.github.io/np) · 个人维护
 
 **C++ 版 NumPy 风格 N 维数组库，支持 CUDA GPU 与 SIMD 加速**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mgorshkov/np 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 9 --> 16
+    line [10, 15]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 15（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # SysAdminDoc/VideoSubtitleRemover
 
-⭐ 114 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SysAdminDoc/VideoSubtitleRemover) · [官网](https://github.com/SysAdminDoc/VideoSubtitleRemover/releases/latest) · 个人维护
+⭐ 115 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SysAdminDoc/VideoSubtitleRemover) · [官网](https://github.com/SysAdminDoc/VideoSubtitleRemover/releases/latest) · 个人维护
 
 **本地去除视频硬字幕与文字的 Windows 桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SysAdminDoc/VideoSubtitleRemover 星数(近 14 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 99 --> 115
-    line [100, 101, 102, 103, 104, 101, 109, 110, 111, 112, 114, 113, 114, 114]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 99 --> 116
+    line [100, 101, 102, 103, 104, 101, 109, 110, 111, 112, 114, 113, 114, 115]
 ```
 
-2026-10-20 100 → 2026-11-22 114（+14）
+2026-10-21 100 → 2026-11-23 115（+15）
 
 
 ---

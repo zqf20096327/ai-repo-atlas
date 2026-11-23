@@ -1,6 +1,6 @@
 # anote-ai/Ourogen-Product
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/anote-ai/Ourogen-Product) · [官网](https://chat.anote.ai/) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/anote-ai/Ourogen-Product) · [官网](https://chat.anote.ai/) · 组织维护
 
 **面向开发者的多智能体 AI 系统框架与配套助手**
 
@@ -40,6 +40,18 @@ Anote 的 monorepo，包含多智能体 AI 系统的核心组件：Orchestrator 
 > L22: Ourogen grew out of Autonomous Intelligence, an open-source research project by
 > L32: |**Orchestrator**|Central hub for task assignment, execution, and monitoring. Manages agent interactions and refine
 > L37: |**Models**|Backbone of intelligent agents, enabling capabilities like natural language understanding and reasoning
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anote-ai/Ourogen-Product 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 35 --> 37
+    line [36, 36]
+```
+
+2026-11-22 36 → 2026-11-23 36（+0）
 
 
 ---

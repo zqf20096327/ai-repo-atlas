@@ -1,6 +1,6 @@
 # dnexdev/tiramisu
 
-⭐ 21 · C++ · MIT · 推送 2026-09-17 · [GitHub](https://github.com/dnexdev/tiramisu) · [官网](https://tiramisu.dnex.dev/) · 个人维护
+⭐ 21 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dnexdev/tiramisu) · [官网](https://tiramisu.dnex.dev/) · 个人维护
 
 **C++20 从零实现的类 PyTorch 机器学习框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dnexdev/tiramisu 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-20 21 → 2026-11-22 21（+0）
+2026-10-21 21 → 2026-11-23 21（+0）
 
 
 ---

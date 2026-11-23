@@ -1,6 +1,6 @@
 # Ninnix/lokey
 
-⭐ 9 · Kotlin · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Ninnix/lokey) · 个人维护
+⭐ 10 · Kotlin · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Ninnix/lokey) · 个人维护
 
 **本地 AI 的 Android 原生键盘：预测/听写/翻译离线运行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Ninnix/lokey 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 4 --> 10
-    line [5, 7, 8, 9, 9]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 4 --> 11
+    line [5, 7, 8, 9, 10]
 ```
 
-2026-11-11 5 → 2026-11-22 9（+4）
+2026-11-11 5 → 2026-11-23 10（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mahmud-Mahi/Seren--Your-IELTS-Tutor
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Mahmud-Mahi/Seren--Your-IELTS-Tutor) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Mahmud-Mahi/Seren--Your-IELTS-Tutor) · 个人维护
 
 **AI 雅思口语陪练应用：模拟考试、CEFR 评估与个性化课程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mahmud-Mahi/Seren--Your-IELTS-Tutor 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-23"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10]
 ```
 
-2026-11-13 10 → 2026-11-22 11（+1）
+2026-11-13 10 → 2026-11-23 10（+0）
 
 
 ---

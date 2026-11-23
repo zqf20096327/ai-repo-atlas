@@ -1,6 +1,6 @@
 # protonspy/harness-for-rea
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/protonspy/harness-for-rea) · 组织维护
+⭐ 32 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/protonspy/harness-for-rea) · 组织维护
 
 **双 agent 沙箱化的软件逆向分析桌面应用与终端 UI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "protonspy/harness-for-rea 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 25 --> 32
-    line [26, 27, 28, 30, 31, 31]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 25 --> 33
+    line [26, 27, 28, 30, 31, 32]
 ```
 
-2026-11-08 26 → 2026-11-22 31（+5）
+2026-11-08 26 → 2026-11-23 32（+6）
 
 
 ---

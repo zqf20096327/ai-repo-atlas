@@ -1,6 +1,6 @@
 # kyegomez/BitNet
 
-⭐ 1,949 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kyegomez/BitNet) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
+⭐ 1,950 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kyegomez/BitNet) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
 
 **BitNet 论文的 PyTorch 实现：1-bit Transformer 模块库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/BitNet 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 1946 --> 1950
-    line [1947, 1948, 1949, 1948, 1949, 1948, 1949, 1949]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 1946 --> 1951
+    line [1947, 1948, 1949, 1948, 1949, 1948, 1949, 1950]
 ```
 
-2026-10-20 1,947 → 2026-11-22 1,949（+2）
+2026-10-21 1,947 → 2026-11-23 1,950（+3）
 
 
 ---

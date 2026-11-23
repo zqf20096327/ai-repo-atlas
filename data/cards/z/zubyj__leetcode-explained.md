@@ -45,12 +45,12 @@ Chrome/Firefox 浏览器扩展，在 LeetCode 题目页注入功能：Python/Jav
 ```mermaid
 xychart-beta
     title "zubyj/leetcode-explained 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 113 --> 115
     line [114, 114]
 ```
 
-2026-10-20 114 → 2026-11-22 114（+0）
+2026-10-21 114 → 2026-11-23 114（+0）
 
 
 ---

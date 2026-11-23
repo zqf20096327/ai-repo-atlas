@@ -1,6 +1,6 @@
 # daniel-eai/Prefill-Free-Multi-Agent-LLMs
 
-⭐ 12 · Python · 推送 2026-10-13 · [GitHub](https://github.com/daniel-eai/Prefill-Free-Multi-Agent-LLMs) · 组织维护
+⭐ 13 · Python · 推送 2026-10-13 · [GitHub](https://github.com/daniel-eai/Prefill-Free-Multi-Agent-LLMs) · 组织维护
 
 **论文官方实现：跨模型家族 KV cache 迁移以省去接收端 prefill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daniel-eai/Prefill-Free-Multi-Agent-LLMs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 6 --> 13
-    line [7, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 6 --> 14
+    line [7, 11, 12, 13]
 ```
 
-2026-10-18 7 → 2026-11-22 12（+5）
+2026-10-18 7 → 2026-11-23 13（+6）
 
 
 ---

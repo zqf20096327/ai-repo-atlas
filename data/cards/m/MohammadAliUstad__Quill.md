@@ -1,6 +1,6 @@
 # MohammadAliUstad/Quill
 
-⭐ 22 · Kotlin · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/MohammadAliUstad/Quill) · 组织维护
+⭐ 22 · Kotlin · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/MohammadAliUstad/Quill) · 组织维护
 
 **Android 原生 EPUB 阅读器，内置防剧透的 AI 阅读问答助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | GPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MohammadAliUstad/Quill 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-23"]
     y-axis "stars" 16 --> 23
     line [17, 18, 17, 19, 21, 22, 22]
 ```
 
-2026-10-20 17 → 2026-11-22 22（+5）
+2026-10-21 17 → 2026-11-23 22（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # JuliaFirstOrder/ProximalAlgorithms.jl
 
-⭐ 143 · Julia · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl) · 组织维护
+⭐ 143 · Julia · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl) · 组织维护
 
 **Julia 非光滑优化算法库：近端梯度、ADMM 等分裂法**
 
@@ -45,12 +45,12 @@ Julia 语言的开源数值优化包，提供针对含非光滑项目标函数�
 ```mermaid
 xychart-beta
     title "JuliaFirstOrder/ProximalAlgorithms.jl 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-18", "2026-11-23"]
     y-axis "stars" 140 --> 144
     line [141, 142, 143, 143]
 ```
 
-2026-10-20 141 → 2026-11-22 143（+2）
+2026-10-21 141 → 2026-11-23 143（+2）
 
 
 ---

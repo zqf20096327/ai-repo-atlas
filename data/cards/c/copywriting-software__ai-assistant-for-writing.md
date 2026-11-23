@@ -1,6 +1,6 @@
 # copywriting-software/ai-assistant-for-writing
 
-⭐ 3 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/copywriting-software/ai-assistant-for-writing) · [官网](https://copywriting-software.github.io/ai-assistant-for-writing/) · 个人维护
+⭐ 7 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/copywriting-software/ai-assistant-for-writing) · [官网](https://copywriting-software.github.io/ai-assistant-for-writing/) · 个人维护
 
 **macOS 系统级 AI 写作助手：ghost text 补全、语法/布局修复**
 
@@ -40,6 +40,18 @@
 
 > L3: Фоновый AI-ассистент для письма на **Rust** и нативном слое **macOS** (`AppKit` + `AXUIElement` + `CGEventTap`). Раб
 > L17: - **Local-First + BYOK**: работает с бесплатной локальной моделью **Ollama** (`qwen2.5:1.5b`), OpenAI-совместимым A
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "copywriting-software/ai-assistant-for-writing 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 8
+    line [3, 7]
+```
+
+2026-11-22 3 → 2026-11-23 7（+4）
 
 
 ---

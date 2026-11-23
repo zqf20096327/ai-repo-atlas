@@ -42,6 +42,18 @@
 > L24: 本项目的价值在于：**同一份吟诵数据、同一套 LoRA 框架，横向比较 CosyVoice 1、CosyVoice 2、CosyVoice 3 三代，并把论文中的架构差异落实成可运行的训练、推理和诊断代码。**
 > L34: |CosyVoice 1|`cosy1_weight/`|`FunAudioLLM/CosyVoice-300M`|第一代 300M 基座，项目中的 `Cosy1-LoRA` 在此基础上挂载 LLM/Flow LoRA|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "leeoisaboy/lora-cosyvoice123-chanting 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f8640339c8c3` · [字段定义](../../DATASET.md)*

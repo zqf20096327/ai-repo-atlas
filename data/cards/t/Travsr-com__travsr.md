@@ -1,6 +1,6 @@
 # Travsr-com/travsr
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Travsr-com/travsr) · [官网](https://travsr.com) · 组织维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Travsr-com/travsr) · [官网](https://travsr.com) · 组织维护
 
 **面向 AI agent 的代码图 MCP 服务器：提供真实调用边上的代码智能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Travsr-com/travsr 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-22"]
+    x-axis ["2026-10-26", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-22 10（+0）
+2026-10-26 10 → 2026-11-23 10（+0）
 
 
 ---

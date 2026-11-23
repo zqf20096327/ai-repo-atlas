@@ -45,12 +45,12 @@ Decisera 是一个客户端-服务器架构的表格 ML 决策平台：前端 Re
 ```mermaid
 xychart-beta
     title "josephkamau32/AI-Decision-Intelligence-System 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

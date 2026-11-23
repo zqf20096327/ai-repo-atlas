@@ -45,12 +45,12 @@ Statuser 官方发布的 Model Context Protocol 服务器，使 Claude Code、Cu
 ```mermaid
 xychart-beta
     title "statuser-cloud/mcp 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-11-08 24 → 2026-11-22 24（+0）
+2026-11-08 24 → 2026-11-23 24（+0）
 
 
 ---

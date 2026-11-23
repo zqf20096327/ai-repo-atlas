@@ -1,6 +1,6 @@
 # ctrlaltjakub/scatter
 
-⭐ 18 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ctrlaltjakub/scatter) · [官网](https://scatter.study) · 个人维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ctrlaltjakub/scatter) · [官网](https://scatter.study) · 个人维护
 
 **自带 API key 的 AI 思维导图知识探索 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ctrlaltjakub/scatter 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 14 --> 19
-    line [15, 17, 18, 18]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 14 --> 20
+    line [15, 17, 18, 19]
 ```
 
-2026-11-18 15 → 2026-11-22 18（+3）
+2026-11-18 15 → 2026-11-23 19（+4）
 
 
 ---

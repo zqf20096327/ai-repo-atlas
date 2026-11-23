@@ -1,10 +1,10 @@
 # kubeflow/pipelines
 
-⭐ 4,269 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/kubeflow/pipelines) · [官网](https://www.kubeflow.org/docs/components/pipelines/) · 组织维护
+⭐ 4,269 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kubeflow/pipelines) · [官网](https://www.kubeflow.org/docs/components/pipelines/) · 组织维护
 
-**Kubernetes 上的端到端 ML 工作流编排服务**
+**在 Kubernetes 上编排端到端机器学习工作流的流水线服务**
 
-Kubeflow 生态中的流水线组件：用 Pipelines SDK 构建可复用的端到端 ML 工作流，在 Kubernetes 上编排、实验与管理。目标包括端到端编排、简化实验试错、组件与流水线复用。可随 Kubeflow 平台安装或作为独立服务部署；流水线执行使用 Argo Emissary executor（不依赖 K8s 容器运行时）。依赖 Argo Workflows（KFP 3.0 支持 4.x）与 MySQL v8，提供 Python SDK、API 文档与源码构建指南。
+Kubeflow Pipelines 是 Kubeflow 的 ML 工作流编排组件，用户通过 Python SDK 构建可复用的端到端 ML 流水线，服务提供端到端编排、实验管理与组件复用三类目标能力。流水线执行使用独立于 Kubernetes 容器运行时的 Argo Emissary executor，可随 Kubeflow 平台安装或作为独立服务部署，依赖 Argo Workflows v4.x 与 MySQL v8。README 另提供 SDK/API 文档入口、贡献指南与可选的 just 命令行封装。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Kubeflow 生态中的流水线组件：用 Pipelines SDK 构建可复用的端�
 
 ## 能力要点
 
-- 基于 SDK 的可复用端到端 ML 流水线构建
-- Kubernetes 原生编排，Argo Emissary executor 执行
-- 可随 Kubeflow 平台安装或独立部署
-- 提供 Python SDK 与 API 文档
+- 通过 Python SDK 构建可复用的端到端 ML 工作流
+- 支持随 Kubeflow 平台安装或独立服务部署
+- 使用 Argo Emissary executor，独立于容器运行时
+- 维护 Argo Workflows/MySQL 依赖兼容矩阵
 
 ## 适用场景
 
-- 在 Kubernetes 上编排机器学习训练与部署流程
-- 管理多次实验与试错并复用流水线组件
-- 构建从数据处理到模型服务的端到端 MLOps 流程
+- 在 Kubernetes 集群上编排训练与部署工作流
+- 管理和对比多个实验与 trial
+- 以组件复用方式拼装端到端 ML 解决方案
 
 ## 场景标签
 
@@ -39,19 +39,20 @@ Kubeflow 生态中的流水线组件：用 Pipelines SDK 构建可复用的端�
 
 > L11: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes s
 > L13: **Kubeflow pipelines** are reusable end-to-end ML workflows built using the Kubeflow Pipelines SDK.
+> L17: * End to end orchestration: enabling and simplifying the orchestration of end to end machine learning pipelines
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "kubeflow/pipelines 星数(近 22 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
+    title "kubeflow/pipelines 星数(近 23 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 4246 --> 4271
-    line [4248, 4250, 4251, 4252, 4254, 4257, 4259, 4260, 4262, 4261, 4254, 4261, 4262, 4264, 4263, 4262, 4264, 4266, 4267, 4266, 4268, 4269]
+    line [4248, 4250, 4251, 4252, 4254, 4257, 4259, 4260, 4262, 4261, 4254, 4261, 4262, 4264, 4263, 4262, 4264, 4266, 4267, 4266, 4268, 4269, 4269]
 ```
 
-2026-10-20 4,248 → 2026-11-22 4,269（+21）
+2026-10-21 4,248 → 2026-11-23 4,269（+21）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `214ef5a7538b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `fba8126d511b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # ecornell/ai-tools-ahk
 
-⭐ 92 · AutoHotkey · MIT · 推送 2025-11-26 · [GitHub](https://github.com/ecornell/ai-tools-ahk) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 全局热键工具：在任意窗口对文本运行自定义 AI 提示词**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

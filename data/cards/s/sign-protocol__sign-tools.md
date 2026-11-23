@@ -45,12 +45,12 @@ SIGN（Sigil Intelligence Graph Notation）开源项目的参考实现与工具�
 ```mermaid
 xychart-beta
     title "sign-protocol/sign-tools 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-22 11（+0）
+2026-10-20 11 → 2026-11-23 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIScientists-Dev/AI-Powered-PDF-Accessibility
 
-⭐ 10 · Python · 推送 2026-01-21 · [GitHub](https://github.com/AIScientists-Dev/AI-Powered-PDF-Accessibility) · [官网](https://agentlab.morphmind.ai) · 组织维护
+⭐ 11 · Python · 推送 2026-01-21 · [GitHub](https://github.com/AIScientists-Dev/AI-Powered-PDF-Accessibility) · [官网](https://agentlab.morphmind.ai) · 组织维护
 
 **为 PDF 无障碍改造生成替代文本与结构标注的 MCP 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIScientists-Dev/AI-Powered-PDF-Accessibility 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 11（+1）
 
 
 ---

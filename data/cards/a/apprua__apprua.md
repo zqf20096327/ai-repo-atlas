@@ -1,6 +1,6 @@
 # apprua/apprua
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/apprua/apprua) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/apprua/apprua) · 个人维护 · 中文 README
 
 **给非开发者的自托管发布平台：一句话让 AI 把应用部署到自己机器**
 
@@ -45,12 +45,12 @@ Apprua 是一个自托管的 PaaS，用于发布用 AI 聊天工具构建的应�
 ```mermaid
 xychart-beta
     title "apprua/apprua 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-22 3（+0）
+2026-11-10 3 → 2026-11-23 3（+0）
 
 
 ---

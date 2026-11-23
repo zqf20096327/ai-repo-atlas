@@ -1,6 +1,6 @@
 # RikyZ90/ShibaClaw
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/RikyZ90/ShibaClaw) · [官网](https://rikyz90.github.io/ShibaClaw/) · 个人维护 · 中文 README
+⭐ 83 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/RikyZ90/ShibaClaw) · [官网](https://rikyz90.github.io/ShibaClaw/) · 个人维护 · 中文 README
 
 **自托管安全优先的 AI agent：自带 WebUI 与 28 个模型接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RikyZ90/ShibaClaw 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-23"]
     y-axis "stars" 81 --> 86
-    line [82, 84, 85, 84, 82, 82]
+    line [82, 84, 85, 84, 82, 83]
 ```
 
-2026-10-20 82 → 2026-11-22 82（+0）
+2026-10-21 82 → 2026-11-23 83（+1）
 
 
 ---

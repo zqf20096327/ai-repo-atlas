@@ -1,6 +1,6 @@
 # gizmax/Sandcastle
 
-⭐ 91 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/gizmax/Sandcastle) · [官网](https://sandcastle-ai.eu) · 组织维护
+⭐ 93 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/gizmax/Sandcastle) · [官网](https://sandcastle-ai.eu) · 组织维护
 
 **面向主权与合规场景的开源 AI agent 工作流编排器**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "gizmax/Sandcastle 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-12", "2026-11-22"]
-    y-axis "stars" 88 --> 92
-    line [89, 91, 91]
+    x-axis ["2026-10-21", "2026-11-12", "2026-11-23"]
+    y-axis "stars" 88 --> 94
+    line [89, 91, 93]
 ```
 
-2026-10-20 89 → 2026-11-22 91（+2）
+2026-10-21 89 → 2026-11-23 93（+4）
 
 
 ---

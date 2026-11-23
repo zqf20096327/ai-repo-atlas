@@ -1,6 +1,6 @@
 # yyh-001/llm-value-rankings
 
-⭐ 31 · CSS · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yyh-001/llm-value-rankings) · [官网](https://yyh-001.github.io/llm-value-rankings/) · 个人维护 · 中文 README
+⭐ 31 · CSS · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yyh-001/llm-value-rankings) · [官网](https://yyh-001.github.io/llm-value-rankings/) · 个人维护 · 中文 README
 
 **每日更新的 300+ 大模型性价比排行榜静态站点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yyh-001/llm-value-rankings 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-08", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-08", "2026-11-21", "2026-11-23"]
     y-axis "stars" 27 --> 32
     line [28, 29, 30, 31, 31]
 ```
 
-2026-10-20 28 → 2026-11-22 31（+3）
+2026-10-21 28 → 2026-11-23 31（+3）
 
 
 ---

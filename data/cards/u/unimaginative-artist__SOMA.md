@@ -1,6 +1,6 @@
 # unimaginative-artist/SOMA
 
-⭐ 29 · HTML · MIT · 推送 2026-10-07 · [GitHub](https://github.com/unimaginative-artist/SOMA) · 个人维护
+⭐ 29 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/unimaginative-artist/SOMA) · 个人维护
 
 **本地优先的认知操作系统：百余个认知仲裁器并行运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "unimaginative-artist/SOMA 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-23"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-20 28 → 2026-11-22 29（+1）
+2026-10-21 28 → 2026-11-23 29（+1）
 
 
 ---

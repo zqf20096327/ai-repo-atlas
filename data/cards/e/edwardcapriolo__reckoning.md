@@ -1,6 +1,6 @@
 # edwardcapriolo/reckoning
 
-⭐ 45 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/edwardcapriolo/reckoning) · 个人维护
+⭐ 50 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/edwardcapriolo/reckoning) · 个人维护
 
 **Java 实现的 LLM 推理引擎：本地生成、嵌入与分类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edwardcapriolo/reckoning 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-23"]
+    y-axis "stars" 43 --> 51
+    line [44, 45, 50]
 ```
 
-2026-11-10 44 → 2026-11-22 45（+1）
+2026-11-10 44 → 2026-11-23 50（+6）
 
 
 ---

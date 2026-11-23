@@ -44,13 +44,13 @@ Microsoft Research 的研究项目代码库：将 GSM8K、BIRD-SQL、BrowseComp+
 
 ```mermaid
 xychart-beta
-    title "microsoft/evolving-intent 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    title "microsoft/evolving-intent 星数(近 3 点)"
+    x-axis ["2026-10-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 29 --> 32
-    line [30, 31]
+    line [30, 31, 31]
 ```
 
-2026-10-19 30 → 2026-11-22 31（+1）
+2026-10-20 30 → 2026-11-23 31（+1）
 
 
 ---

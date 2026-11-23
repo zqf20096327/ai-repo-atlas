@@ -2,9 +2,9 @@
 
 ⭐ 2,607 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/miantiao-me/hacker-podcast) · [官网](https://hacker-podcast.agi.li) · 个人维护 · 中文 README
 
-**AI 自动生成的 Hacker News 中文播客站，每日更新**
+**每天将 Hacker News 热文转成 AI 中文播客的项目**
 
-自动化内容流水线项目：定时抓取 Hacker News 每日热门文章，用 OpenAI API 生成中文摘要与播报文稿，经 TTS 转为音频，存储于 Cloudflare R2/KV，通过 RSS、网页及 Apple Podcasts、小宇宙、Spotify 等渠道分发。技术栈为 vinext（Vite + React Server Components）+ Cloudflare Workers 部署，包含负责抓取与音频处理的 Worker 和展示与订阅的 Web 程序。限制：音频合并依赖 Cloudflare 浏览器呈现，不支持本地开发，需远程调试。
+该项目的 Worker 定时抓取 Hacker News 每日热门文章，调用 OpenAI API 生成中文摘要与播报文稿，再经 TTS 合成音频，结果存入 Cloudflare R2 和 KV，并通过 RSS feed 与网页对外提供，支持在播客 App 订阅收听。部署目标是 Cloudflare Workers，本地开发需 pnpm 安装依赖并配置环境变量；合并音频依赖 Cloudflare 浏览器端呈现，不支持纯本地运行，需远程调试。项目声明与 Hacker News 及 Y Combinator 无关联。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 每日定时抓取 Hacker News 热门文章并生成中文摘要与播报文稿
-- TTS 生成中文播报音频，存储于 Cloudflare R2/KV
-- 通过 RSS、网页及多家播客平台分发
-- 基于 Cloudflare Workers 的 Worker + Web 双程序架构
+- 每日自动抓取 Hacker News 热门文章并生成中文总结
+- 通过 TTS 生成中文播报音频
+- 存储到 Cloudflare R2 与 KV，经 RSS feed 分发
+- 支持网页和播客 App 收听
 
 ## 适用场景
 
-- 订阅收听 Hacker News 每日热文的中文播客
-- 查看热门文章的中文 AI 摘要与完整播报文本
-- 参考其工作流搭建自己的自动化 AI 播客流水线
+- 通勤时用播客 App 收听每日 Hacker News 中文摘要
+- 自部署一个 HN 内容的中文播客站
+- 作为 Cloudflare Workers 全栈项目的参考实现
 
 ## 场景标签
 
-`语音合成` `网页抓取` · 领域:效率与自动化
+`语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L3: 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
-> L17: - 🎙️ 通过 TTS 生成中文播报
-> L27: - OpenAI API 内容生成
+> L16: - 🎯 使用 AI 智能总结文章内容和评论
+> L34: 2. 使用 AI 生成中文摘要和播报文稿
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "miantiao-me/hacker-podcast 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-22"]
+    title "miantiao-me/hacker-podcast 星数(近 10 点)"
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2596 --> 2608
-    line [2597, 2599, 2600, 2601, 2599, 2603, 2605, 2606, 2607]
+    line [2597, 2599, 2600, 2601, 2599, 2603, 2605, 2606, 2607, 2607]
 ```
 
-2026-10-20 2,597 → 2026-11-22 2,607（+10）
+2026-10-21 2,597 → 2026-11-23 2,607（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `30861d714440` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `cc4eb3373981` · [字段定义](../../DATASET.md)*

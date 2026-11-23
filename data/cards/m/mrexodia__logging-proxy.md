@@ -1,6 +1,6 @@
 # mrexodia/logging-proxy
 
-⭐ 21 · Go · 推送 2026-11-21 · [GitHub](https://github.com/mrexodia/logging-proxy) · 个人维护
+⭐ 21 · Go · 推送 2026-11-22 · [GitHub](https://github.com/mrexodia/logging-proxy) · 个人维护
 
 **记录 LLM 流量的反向/正向代理，附只读 Web 查看器**
 
@@ -45,12 +45,12 @@ Go 编写的 HTTP 代理工具：同一二进制可启动基于路由规则的�
 ```mermaid
 xychart-beta
     title "mrexodia/logging-proxy 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-19 21 → 2026-11-22 21（+0）
+2026-10-20 21 → 2026-11-23 21（+0）
 
 
 ---

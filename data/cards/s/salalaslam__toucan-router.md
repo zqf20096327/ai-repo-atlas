@@ -1,6 +1,6 @@
 # salalaslam/toucan-router
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/salalaslam/toucan-router) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/salalaslam/toucan-router) · 个人维护
 
 **将 WhatsApp/Teams/邮件请求路由到编码代理线程并跟踪回复**
 
@@ -46,12 +46,12 @@ Toucan Router 是一个命令行路由工具，把同事通过 WhatsApp、Micros
 ```mermaid
 xychart-beta
     title "salalaslam/toucan-router 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-22"]
+    x-axis ["2026-11-14", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-14 4 → 2026-11-22 4（+0）
+2026-11-14 4 → 2026-11-23 4（+0）
 
 
 ---

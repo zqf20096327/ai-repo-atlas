@@ -1,6 +1,6 @@
 # Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2) · [官网](https://huggingface.co/BlackwellBoy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-EXL3-2.9bpw-TP2) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2) · [官网](https://huggingface.co/BlackwellBoy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-EXL3-2.9bpw-TP2) · 个人维护
 
 **在双 DGX Spark 上运行 DeepSeek-V4.1-Flash 的 TP2 部署配方**
 
@@ -40,6 +40,18 @@
 > L5: **Uncensored, fast, and checked.** DeepSeek-V4.1-Flash-1017 (763B MoE) on two DGX Sparks: JailbreakBench
 > L13: This is the TP2 recipe: how to run BLACKFOLD on two GB10 nodes with TensorFold's native engine, the three engine
 > L62: OpenAI-compatible API on port 18191: 1M context, 4 parallel streams, vision, tool calls, thinking on by default
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 62 --> 65
+    line [63, 64]
+```
+
+2026-11-22 63 → 2026-11-23 64（+1）
 
 
 ---

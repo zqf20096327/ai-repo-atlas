@@ -1,6 +1,6 @@
 # chenjunxing888-beep/FREE-huangguo-ai-drama-
 
-⭐ 6 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/chenjunxing888-beep/FREE-huangguo-ai-drama-) · 个人维护 · 中文 README
+⭐ 7 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/chenjunxing888-beep/FREE-huangguo-ai-drama-) · 个人维护 · 中文 README
 
 **面向新手的 AI 短剧制作资料整理与黄果短剧入口**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chenjunxing888-beep/FREE-huangguo-ai-drama- 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-21", "2026-11-23"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
 ```
 
-2026-11-21 6 → 2026-11-22 6（+0）
+2026-11-21 6 → 2026-11-23 7（+1）
 
 
 ---

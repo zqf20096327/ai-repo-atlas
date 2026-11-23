@@ -1,6 +1,6 @@
 # JordanCoin/openfoia
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/JordanCoin/openfoia) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/JordanCoin/openfoia) · 个人维护
 
 **本地优先的 FOIA 调查工具包：文档提取、实体抽取与请求跟踪**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "JordanCoin/openfoia 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-20 13 → 2026-11-22 14（+1）
+2026-10-21 13 → 2026-11-23 15（+2）
 
 
 ---

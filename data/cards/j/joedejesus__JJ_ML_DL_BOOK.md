@@ -1,6 +1,6 @@
 # joedejesus/JJ_ML_DL_BOOK
 
-⭐ 23 · Jupyter Notebook · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/joedejesus/JJ_ML_DL_BOOK) · [官网](https://github.com/joedejesus/JJ_ML_DL_BOOK) · 个人维护
+⭐ 24 · Jupyter Notebook · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/joedejesus/JJ_ML_DL_BOOK) · [官网](https://github.com/joedejesus/JJ_ML_DL_BOOK) · 个人维护
 
 **西班牙语数据科学与机器学习实践教程书（143 个 Jupyter 笔记本）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "joedejesus/JJ_ML_DL_BOOK 星数(近 6 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 3 --> 24
-    line [4, 6, 7, 19, 23, 23]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 2 --> 26
+    line [4, 6, 7, 19, 23, 24]
 ```
 
-2026-11-11 4 → 2026-11-22 23（+19）
+2026-11-11 4 → 2026-11-23 24（+20）
 
 
 ---

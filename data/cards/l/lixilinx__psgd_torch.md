@@ -1,6 +1,6 @@
 # lixilinx/psgd_torch
 
-⭐ 208 · Python · 推送 2026-05-30 · [GitHub](https://github.com/lixilinx/psgd_torch) · 个人维护
+⭐ 209 · Python · 推送 2026-05-30 · [GitHub](https://github.com/lixilinx/psgd_torch) · 个人维护
 
 **面向研究者的 PyTorch 二阶优化器 PSGD 实现库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lixilinx/psgd_torch 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 206 --> 209
-    line [207, 208, 207, 208, 208]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 206 --> 210
+    line [207, 208, 207, 208, 209]
 ```
 
-2026-10-20 207 → 2026-11-22 208（+1）
+2026-10-21 207 → 2026-11-23 209（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # thebozturk/yokla
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/thebozturk/yokla) · [官网](https://www.npmjs.com/package/yokla) · 个人维护
+⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/thebozturk/yokla) · [官网](https://www.npmjs.com/package/yokla) · 个人维护
 
 **对话式 AI 助手的端到端测试 CLI：确定性校验回答质量与安全**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "thebozturk/yokla 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-20 5 → 2026-11-22 5（+0）
+2026-11-20 5 → 2026-11-23 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # stoneforge-ai/stoneforge
 
-⭐ 205 · TypeScript · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/stoneforge-ai/stoneforge) · [官网](https://stoneforge.ai) · 组织维护
+⭐ 204 · TypeScript · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/stoneforge-ai/stoneforge) · [官网](https://stoneforge.ai) · 组织维护
 
 **编排多个 AI 编码 agent 的 Web 仪表盘与运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stoneforge-ai/stoneforge 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 193 --> 206
-    line [194, 196, 197, 198, 200, 196, 203, 205, 205]
+    line [194, 196, 197, 198, 200, 196, 203, 205, 204]
 ```
 
-2026-10-20 194 → 2026-11-22 205（+11）
+2026-10-21 194 → 2026-11-23 204（+10）
 
 
 ---

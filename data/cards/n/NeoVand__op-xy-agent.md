@@ -1,6 +1,6 @@
 # NeoVand/op-xy-agent
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/NeoVand/op-xy-agent) · [官网](https://neovand.github.io/op-xy-agent/) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/NeoVand/op-xy-agent) · [官网](https://neovand.github.io/op-xy-agent/) · 个人维护
 
 **给 OP-XY 用户：可玩的浏览器复刻加读手册、能编程真机的 AI agent**
 
@@ -49,12 +49,12 @@
 ```mermaid
 xychart-beta
     title "NeoVand/op-xy-agent 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 3 --> 12
-    line [4, 6, 7, 10, 11, 11]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-23"]
+    y-axis "stars" 3 --> 13
+    line [4, 6, 7, 10, 11, 12]
 ```
 
-2026-10-26 4 → 2026-11-22 11（+7）
+2026-10-26 4 → 2026-11-23 12（+8）
 
 
 ---

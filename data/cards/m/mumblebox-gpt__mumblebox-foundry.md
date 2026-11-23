@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "mumblebox-gpt/mumblebox-foundry 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-16", "2026-11-22"]
+    title "mumblebox-gpt/mumblebox-foundry 星数(近 4 点)"
+    x-axis ["2026-11-11", "2026-11-16", "2026-11-22", "2026-11-23"]
     y-axis "stars" 7 --> 11
-    line [8, 9, 10]
+    line [8, 9, 10, 10]
 ```
 
-2026-11-11 8 → 2026-11-22 10（+2）
+2026-11-11 8 → 2026-11-23 10（+2）
 
 
 ---

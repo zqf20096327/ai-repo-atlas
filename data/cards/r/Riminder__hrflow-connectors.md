@@ -46,12 +46,12 @@ HrFlow.ai 公司维护的开源 Python 连接器仓库：提供低代码方式�
 ```mermaid
 xychart-beta
     title "Riminder/hrflow-connectors 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-20 42 → 2026-11-22 42（+0）
+2026-10-21 42 → 2026-11-23 42（+0）
 
 
 ---

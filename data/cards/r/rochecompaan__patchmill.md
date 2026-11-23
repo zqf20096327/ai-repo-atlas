@@ -1,6 +1,6 @@
 # rochecompaan/patchmill
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rochecompaan/patchmill) · [官网](https://patchmill.dev) · 个人维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rochecompaan/patchmill) · [官网](https://patchmill.dev) · 个人维护
 
 **面向团队的 agent 驱动软件工厂，把议题自动变成已审查的代码变更**
 
@@ -45,12 +45,12 @@ Patchmill 是一个 npm 分发的 CLI 工具，连接 issue 托管平台（GitHu
 ```mermaid
 xychart-beta
     title "rochecompaan/patchmill 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-11", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-11", "2026-11-12", "2026-11-23"]
     y-axis "stars" 14 --> 21
     line [15, 18, 20, 20]
 ```
 
-2026-10-20 15 → 2026-11-22 20（+5）
+2026-10-21 15 → 2026-11-23 20（+5）
 
 
 ---

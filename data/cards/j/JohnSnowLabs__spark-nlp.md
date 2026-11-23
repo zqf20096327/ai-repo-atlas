@@ -2,9 +2,9 @@
 
 ⭐ 4,162 · Scala · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/JohnSnowLabs/spark-nlp) · [官网](https://sparknlp.org/) · 组织维护
 
-**基于 Apache Spark 的 NLP 与 LLM 库：给 Python/JVM 开发者**
+**给开发者提供基于 Apache Spark 的分布式 NLP 与 LLM 推理库**
 
-构建在 Apache Spark 之上的 NLP 与 LLM 库，面向 Python、Scala、Java、Kotlin 开发者，覆盖分词、词性标注、命名实体识别、情感分析、机器翻译、问答、文本生成、语音识别、图像分类等任务。提供 100000+ 预训练模型与 pipeline，支持 200+ 语言，可导入 TensorFlow、ONNX、OpenVINO、Llama.cpp (GGUF) 模型。兼容 Databricks、Amazon EMR、Dataproc 等平台，支持 GPU 与离线使用；运行需要 Java（Spark 3.x 用 Java 8/11，Spark 4.x 用 Java 17）。
+构建在 Apache Spark 之上的 NLP 库，为机器学习流水线提供分词、词性标注、命名实体识别、翻译、摘要、问答、文本生成、语音识别、图像分类等任务能力，内置 100000+ 预训练流水线与模型、覆盖 200+ 语言。可从 TensorFlow、ONNX、OpenVINO、Llama.cpp (GGUF) 导入模型，向 Python、R 与 JVM 生态（Java/Scala/Kotlin）暴露接口；提供 Maven、PyPI/Anaconda 包与离线使用方式，兼容 Databricks、Amazon EMR、Dataproc 等平台。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 100000+ 预训练模型与 pipeline，支持 200+ 语言
-- 任务覆盖 NER、词性标注、机器翻译、问答、ASR、图像分类等
-- 可导入 TensorFlow / ONNX / OpenVINO / Llama.cpp (GGUF) 模型
-- 同时支持 Python 与 JVM 生态（Java/Scala/Kotlin）及分布式运行
+- 提供 Tokenization、NER、机器翻译、摘要、问答、语音识别等多类 NLP/多模态任务
+- 预训练流水线与模型 100000+，覆盖 200+ 语言
+- 支持从 TensorFlow、ONNX、OpenVINO、Llama.cpp (GGUF) 导入模型
+- 支持 Python、R 与 JVM（Java/Scala/Kotlin），兼容 Databricks/EMR/Dataproc
 
 ## 适用场景
 
-- 在 Spark 集群上做大规模文本处理与 NER/分类
-- 复用预训练模型快速搭建多语言 NLP pipeline
-- 在 Databricks / EMR / Dataproc 上运行 NLP 工作负载
+- 在 Spark 集群上大规模运行命名实体识别、文本分类等 NLP 流水线
+- 用 JVM（Java/Scala/Kotlin）在分布式环境调用预训练 NLP 模型
+- 在 Databricks/EMR 平台上部署 NLP 训练与推理任务
+- 离线环境下加载预训练模型处理多语言文本
 
 ## 场景标签
 
-`语音识别` `目标检测` · 领域:感知与多模态
+`推理引擎` `语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
@@ -46,13 +47,13 @@
 ```mermaid
 xychart-beta
     title "JohnSnowLabs/spark-nlp 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-23"]
     y-axis "stars" 4158 --> 4165
     line [4160, 4159, 4160, 4159, 4160, 4163, 4164, 4163, 4162, 4162]
 ```
 
-2026-10-20 4,160 → 2026-11-22 4,162（+2）
+2026-10-21 4,160 → 2026-11-23 4,162（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `5203a3a4258f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ee259fee665b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Alexl-git/Delphi-RAG-Lint
 
-⭐ 22 · Pascal · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Alexl-git/Delphi-RAG-Lint) · [官网](https://www.delphi-rag-lint.com) · 个人维护
+⭐ 22 · Pascal · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Alexl-git/Delphi-RAG-Lint) · [官网](https://www.delphi-rag-lint.com) · 个人维护
 
 **Delphi/Pascal 源码的符号索引、检索、lint 与重构工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Alexl-git/Delphi-RAG-Lint 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
     y-axis "stars" 17 --> 23
     line [18, 19, 22, 22]
 ```
 
-2026-10-20 18 → 2026-11-22 22（+4）
+2026-10-21 18 → 2026-11-23 22（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # coq-tactician/coq-tactician
 
-⭐ 87 · OCaml · MIT · 推送 2026-11-07 · [GitHub](https://github.com/coq-tactician/coq-tactician) · [官网](https://coq-tactician.github.io) · 组织维护
+⭐ 88 · OCaml · MIT · 推送 2026-11-07 · [GitHub](https://github.com/coq-tactician/coq-tactician) · [官网](https://coq-tactician.github.io) · 组织维护
 
 **Coq 定理证明器的战术学习与证明合成插件**
 
@@ -44,12 +44,12 @@ Coq 证明助手的插件，通过机器学习从既有 tactic 脚本中学习�
 ```mermaid
 xychart-beta
     title "coq-tactician/coq-tactician 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 86 --> 89
+    line [87, 88]
 ```
 
-2026-10-20 87 → 2026-11-22 87（+0）
+2026-10-21 87 → 2026-11-23 88（+1）
 
 
 ---

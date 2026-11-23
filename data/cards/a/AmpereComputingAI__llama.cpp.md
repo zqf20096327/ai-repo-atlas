@@ -44,13 +44,13 @@ AmpereComputing 维护的 llama.cpp 优化构建，以 Docker 镜像形式发布
 
 ```mermaid
 xychart-beta
-    title "AmpereComputingAI/llama.cpp 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-12", "2026-11-22"]
+    title "AmpereComputingAI/llama.cpp 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-12", "2026-11-22", "2026-11-23"]
     y-axis "stars" 41 --> 45
-    line [44, 42, 43, 44]
+    line [44, 42, 43, 44, 44]
 ```
 
-2026-10-20 44 → 2026-11-22 44（+0）
+2026-10-21 44 → 2026-11-23 44（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 3,329 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/vectara/hallucination-leaderboard) · [官网](https://vectara.com) · 组织维护
 
-**公开 LLM 幻觉率排行榜：基于 HHEM 评测摘要忠实度**
+**用 HHEM 模型评测各 LLM 摘要幻觉率的排行榜**
 
-Vectara 维护的公开 LLM 幻觉率排行榜：将 7700+ 篇多领域文章喂给各 LLM 做仅基于原文的摘要，再用其商用评测模型 HHEM-2.3 计算幻觉率与事实一致性率，同时统计拒答率与平均摘要长度。评测数据集不公开以避免模型过拟合，调用时温度设为 0。README 以静态表格形式列出百余个模型的排名，另在 Hugging Face 提供交互版，并附方法论、提示词与各 API 接入细节。
+Vectara 维护的公开 LLM 排行榜，使用其 HHEM-2.3 幻觉评测模型计算各家 LLM 在短文档摘要任务中的幻觉率、事实一致率与回答率。评测方法：将约 7700 篇不公开的文章（50 词至 24K 词）喂给各 LLM 要求仅依据原文生成摘要，温度设为 0，再计算事实一致性。README 同时给出所用提示词、API 调用细节、往期版本链接及Hugging Face 交互式版本入口。限制：评测仅覆盖摘要任务，数据集不公开以防过拟合。
 
 ## 筛选速览
 
@@ -13,23 +13,22 @@ Vectara 维护的公开 LLM 幻觉率排行榜：将 7700+ 篇多领域文章喂
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 基于 Vectara HHEM-2.3 幻觉评测模型计算排名
-- 7700+ 篇不公开文章，覆盖新闻/科技/医学/法律等领域，长度 50 至 24K 词
-- 指标含幻觉率、事实一致性率、拒答率与平均摘要长度
-- Hugging Face 提供交互版排行榜，开源版模型 HHEM-2.1-Open 可在 HF/Kaggle 获取
+- 用 HHEM-2.3 计算幻觉率、事实一致率、回答率三项指标
+- 评测集含 7700+ 篇多领域文章，不公开以防过拟合
+- 提供 Hugging Face 交互式排行榜与往期版本链接
 
 ## 适用场景
 
-- 选型时对比各 LLM 在摘要任务上的幻觉率
-- 评估 LLM 用于 RAG 或 Agentic 摘要场景的可靠性参考
-- 追踪新模型发布后的幻觉表现变化
+- 选型时查看各 LLM 在摘要任务上的幻觉率数据
+- 了解 RAG/Agent 场景下模型作为摘要器的事实一致性表现
+- 追踪各版本排行榜随模型更新的变化
 
 ## 场景标签
 
@@ -38,21 +37,21 @@ Vectara 维护的公开 LLM 幻觉率排行榜：将 7700+ 篇多领域文章喂
 ## 证据(README 行号)
 
 > L3: Public LLM leaderboard computed using Vectara's Hallucination Evaluation Model, also known as HHEM. This evaluates h
-> L130: This leaderboard uses HHEM-2.3, Vectara's commercial hallucination evaluation model, to compute the LLM rankings. 
-> L157: To build this leaderboard, fed the full set of documents in the dataset to each of the LLMs and asked them to summ
+> L132: This leaderboard uses HHEM-2.3, Vectara's commercial hallucination evaluation model, to compute the LLM rankings. 
+> L135: The dataset used for this leaderboard is carefully curated as follows:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "vectara/hallucination-leaderboard 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 3321 --> 3331
     line [3322, 3323, 3322, 3323, 3322, 3326, 3327, 3329, 3330, 3329, 3329]
 ```
 
-2026-10-19 3,322 → 2026-11-22 3,329（+7）
+2026-10-20 3,322 → 2026-11-23 3,329（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7c86fe428d6e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `76f015346e69` · [字段定义](../../DATASET.md)*

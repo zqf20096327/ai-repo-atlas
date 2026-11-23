@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-awesome-machine-learning
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-machine-learning) · 个人维护
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-machine-learning) · 个人维护
 
 **机器学习框架与库的策展清单（按语言分类，附星标数）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Correia-jpv/fucking-awesome-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-20 18 → 2026-11-22 18（+0）
+2026-10-21 18 → 2026-11-23 18（+0）
 
 
 ---

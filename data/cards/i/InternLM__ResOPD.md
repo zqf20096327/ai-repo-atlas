@@ -1,6 +1,6 @@
 # InternLM/ResOPD
 
-⭐ 67 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/InternLM/ResOPD) · [官网](https://arxiv.org/abs/2610.04882) · 组织维护 · 中文 README
+⭐ 68 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/InternLM/ResOPD) · [官网](https://arxiv.org/abs/2610.04882) · 组织维护 · 中文 README
 
 **稀疏在线策略蒸馏的尾部残差化训练方法实现**
 
@@ -46,12 +46,12 @@ ResOPD 是一种在线策略蒸馏（OPD）梯度估计方法的研究实现，�
 ```mermaid
 xychart-beta
     title "InternLM/ResOPD 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
-    y-axis "stars" 65 --> 68
-    line [66, 67, 67]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
+    y-axis "stars" 65 --> 69
+    line [66, 67, 68]
 ```
 
-2026-10-20 66 → 2026-11-22 67（+1）
+2026-10-21 66 → 2026-11-23 68（+2）
 
 
 ---

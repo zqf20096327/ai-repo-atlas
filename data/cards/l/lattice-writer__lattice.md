@@ -1,6 +1,6 @@
 # lattice-writer/lattice
 
-⭐ 548 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lattice-writer/lattice) · [官网](https://lattice-writer.github.io/lattice/) · 组织维护 · 中文 README
+⭐ 550 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lattice-writer/lattice) · [官网](https://lattice-writer.github.io/lattice/) · 组织维护 · 中文 README
 
 **macOS 本地优先 LaTeX 写作应用，集成 agent 编辑论文**
 
@@ -41,6 +41,18 @@
 > L7: A local-first LaTeX workspace for macOS, with your papers, your co-authors and an AI agent in the same window
 > L42: The Agent panel runs Claude Code or Codex, or another agent CLI on your Mac such as Cursor, OpenCode or Droid, sign
 > L44: Lattice comes with no model and no AI subscription of its own.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lattice-writer/lattice 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 547 --> 551
+    line [548, 550]
+```
+
+2026-11-22 548 → 2026-11-23 550（+2）
 
 
 ---

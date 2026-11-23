@@ -1,6 +1,6 @@
 # solla-h/dsh-mobile-app
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/solla-h/dsh-mobile-app) · [官网](https://fatwhale.app) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/solla-h/dsh-mobile-app) · [官网](https://fatwhale.app) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Android 客户端：手机查看与继续 agent 会话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "solla-h/dsh-mobile-app 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-22"]
+    x-axis ["2026-11-11", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-22 3（+0）
+2026-11-11 3 → 2026-11-23 3（+0）
 
 
 ---

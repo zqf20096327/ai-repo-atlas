@@ -1,6 +1,6 @@
 # Dicklesworthstone/chat_shared_conversation_to_file
 
-⭐ 29 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Dicklesworthstone/chat_shared_conversation_to_file) · 个人维护
+⭐ 29 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Dicklesworthstone/chat_shared_conversation_to_file) · 个人维护
 
 **把 AI 聊天分享链接转为 Markdown/HTML 转录的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dicklesworthstone/chat_shared_conversation_to_file 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-20 29 → 2026-11-22 29（+0）
+2026-10-21 29 → 2026-11-23 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jgravelle/jdocmunch-mcp
 
-⭐ 207 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/jgravelle/jdocmunch-mcp) · [官网](https://j.gravelle.us/jDocMunch) · 个人维护
+⭐ 207 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/jgravelle/jdocmunch-mcp) · [官网](https://j.gravelle.us/jDocMunch) · 个人维护
 
 **面向编码 agent 的 MCP 文档检索服务器：按章节索引精确取用**
 
@@ -46,12 +46,12 @@ jDocMunch 是一个 MCP 服务器，供编码 agent 检索文档时按章节而�
 ```mermaid
 xychart-beta
     title "jgravelle/jdocmunch-mcp 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-11", "2026-11-23"]
     y-axis "stars" 205 --> 208
     line [206, 207, 206, 207, 207]
 ```
 
-2026-10-19 206 → 2026-11-22 207（+1）
+2026-10-20 206 → 2026-11-23 207（+1）
 
 
 ---

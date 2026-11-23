@@ -1,6 +1,6 @@
 # Xiang-CH/zhipu-ai-provider
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/Xiang-CH/zhipu-ai-provider) · [官网](https://www.npmjs.com/package/zhipu-ai-provider) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Xiang-CH/zhipu-ai-provider) · [官网](https://www.npmjs.com/package/zhipu-ai-provider) · 个人维护 · 中文 README
 
 **让 Vercel AI SDK 直接调用智谱 GLM 系列模型的社区 Provider**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Xiang-CH/zhipu-ai-provider 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-20 20 → 2026-11-22 20（+0）
+2026-10-21 20 → 2026-11-23 20（+0）
 
 
 ---

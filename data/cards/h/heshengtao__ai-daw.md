@@ -1,6 +1,6 @@
 # heshengtao/ai-daw
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/heshengtao/ai-daw) · 个人维护 · 中文 README
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/heshengtao/ai-daw) · 个人维护 · 中文 README
 
 **可被 AI Agent 通过 MCP 操作的本地优先数字音频工作站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heshengtao/ai-daw 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-23"]
     y-axis "stars" 2 --> 9
     line [3, 4, 5, 6, 7, 8, 8]
 ```
 
-2026-11-02 3 → 2026-11-22 8（+5）
+2026-11-02 3 → 2026-11-23 8（+5）
 
 
 ---

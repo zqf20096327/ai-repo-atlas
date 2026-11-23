@@ -1,6 +1,6 @@
 # calculusteam/liu
 
-⭐ 5 · C · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/calculusteam/liu) · [官网](https://liu.software) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **给开发者的终端：统一浏览、恢复并排运行多个 AI 编码 agent**
 
@@ -11,7 +11,7 @@ C 语言编写的原生终端（macOS/Linux，GPU 加速），围绕 AI 编码 C
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

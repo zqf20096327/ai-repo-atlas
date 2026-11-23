@@ -1,6 +1,6 @@
 # Mesutcydev/ios-local-llm
 
-⭐ 22 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Mesutcydev/ios-local-llm) · [官网](https://ondevice.fun/local-ai-studio/) · 个人维护
+⭐ 23 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mesutcydev/ios-local-llm) · [官网](https://ondevice.fun/local-ai-studio/) · 个人维护
 
 **iPhone/Apple silicon 本地运行 LLM 的 SwiftUI 离线工作台**
 
@@ -46,12 +46,12 @@ SwiftUI 编写的本地优先 AI 工作台，在 iPhone 与 Apple silicon Mac（
 ```mermaid
 xychart-beta
     title "Mesutcydev/ios-local-llm 星数(近 12 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 10 --> 23
-    line [11, 13, 14, 13, 17, 18, 19, 21, 22, 21, 22, 22]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 10 --> 24
+    line [11, 13, 14, 13, 17, 18, 19, 21, 22, 21, 22, 23]
 ```
 
-2026-10-20 11 → 2026-11-22 22（+11）
+2026-10-21 11 → 2026-11-23 23（+12）
 
 
 ---

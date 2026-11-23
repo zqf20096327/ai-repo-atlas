@@ -1,6 +1,6 @@
 # TKY-27/Mackani
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TKY-27/Mackani) · [官网](https://github.com/TKY-27/Mackani/releases/latest) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/TKY-27/Mackani) · [官网](https://github.com/TKY-27/Mackani/releases/latest) · 个人维护
 
 **macOS 本地 LLM 推理引擎：运行 YASAKANI 模型并附带聊天应用**
 
@@ -46,12 +46,12 @@ YASAKANI 的非官方 Apple Silicon 移植，用 Rust 从零实现，通过 Meta
 ```mermaid
 xychart-beta
     title "TKY-27/Mackani 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-16", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-16 4 → 2026-11-22 4（+0）
+2026-11-16 4 → 2026-11-23 4（+0）
 
 
 ---

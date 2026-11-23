@@ -44,12 +44,12 @@ GetStream 维护的示例工程，演示 Google Generative AI SDK（google_gener
 ```mermaid
 xychart-beta
     title "GetStream/generative_ai_with_flutter 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-20 15 → 2026-11-22 15（+0）
+2026-10-21 15 → 2026-11-23 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # InternLM/ARC-VL
 
-⭐ 48 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/InternLM/ARC-VL) · [官网](https://arxiv.org/pdf/2511.15703) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **ARC-AGI 任务的视觉-语言协同推理方法官方实现（CVPR 2026 论文）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -45,12 +45,12 @@ SillyTavern 前端扩展加可选 Server Plugin，为每个角色私聊设置独
 ```mermaid
 xychart-beta
     title "NANA3333333/ST-AutoPulse 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-19 15 → 2026-11-22 15（+0）
+2026-10-20 15 → 2026-11-23 15（+0）
 
 
 ---

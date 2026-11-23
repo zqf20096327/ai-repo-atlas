@@ -43,12 +43,12 @@ text2markdown 是一个 Python 库，通过 Isaacus enrichment API 将非结构�
 ```mermaid
 xychart-beta
     title "isaacus-dev/text2markdown 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-20 19 → 2026-11-22 19（+0）
+2026-10-21 19 → 2026-11-23 19（+0）
 
 
 ---

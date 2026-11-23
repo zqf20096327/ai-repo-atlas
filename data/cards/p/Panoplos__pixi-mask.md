@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Panoplos/pixi-mask 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    title "Panoplos/pixi-mask 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 8
-    line [3, 7]
+    line [3, 7, 7]
 ```
 
-2026-11-21 3 → 2026-11-22 7（+4）
+2026-11-21 3 → 2026-11-23 7（+4）
 
 
 ---

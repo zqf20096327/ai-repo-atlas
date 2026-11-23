@@ -1,6 +1,6 @@
 # cxc1344/BotHive
 
-⭐ 3 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cxc1344/BotHive) · [官网](https://github.com/cxc1344/BotHive/releases/download/v0.6.1/BotHive-v0.6.1.apk) · 个人维护 · 中文 README
+⭐ 3 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cxc1344/BotHive) · [官网](https://github.com/cxc1344/BotHive/releases/download/v0.6.1/BotHive-v0.6.1.apk) · 个人维护 · 中文 README
 
 **安卓多 Bot 协作应用：用自有 API Key 自建 AI 员工团队**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cxc1344/BotHive 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-22 3（+0）
+2026-11-10 3 → 2026-11-23 3（+0）
 
 
 ---

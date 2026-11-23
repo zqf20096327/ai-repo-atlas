@@ -1,6 +1,6 @@
 # madfam-org/tezca
 
-⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/madfam-org/tezca) · [官网](https://tezca.mx) · 组织维护
+⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/madfam-org/tezca) · [官网](https://tezca.mx) · 组织维护
 
 **面向墨西哥法律场景的法律数据平台：30,000+ 部法律可检索可机读**
 
@@ -41,6 +41,18 @@
 > L7: **The definitive digital platform for Mexican legal research** - comprehensive, machine-readable database of Mexican
 > L64: - ✅ **REST API** - Machine-readable access for legal tech (paginated, filtered, rate-limited)
 > L73: - ✅ **Trilingual UI** - ES/EN/NAH (Classical Nahuatl) language toggle across all components (law content remains Sp
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "madfam-org/tezca 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
 
 
 ---

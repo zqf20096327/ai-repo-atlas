@@ -1,6 +1,6 @@
 # 2005selene2005-a11y/purr
 
-⭐ 7 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/2005selene2005-a11y/purr) · 个人维护 · 中文 README
+⭐ 8 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/2005selene2005-a11y/purr) · 个人维护 · 中文 README
 
 **给 AI 一个微信式聊天页：拆条、已读、撤回、朋友圈与便签记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "2005selene2005-a11y/purr 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 4 --> 8
-    line [5, 6, 7, 7]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 4 --> 9
+    line [5, 6, 7, 8]
 ```
 
-2026-11-10 5 → 2026-11-22 7（+2）
+2026-11-10 5 → 2026-11-23 8（+3）
 
 
 ---

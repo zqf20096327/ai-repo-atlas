@@ -1,6 +1,6 @@
 # maikotrindade/mobile-tester-agent
 
-⭐ 100 · Kotlin · MIT · 推送 2026-05-28 · [GitHub](https://github.com/maikotrindade/mobile-tester-agent) · [官网](https://maikotrindade.com/ai/kotlin/android/development/agents/2025/08/19/building-agentic-ai-mobile-tester-koog-kotlin.html) · 个人维护
+⭐ 103 · Kotlin · MIT · 推送 2026-05-28 · [GitHub](https://github.com/maikotrindade/mobile-tester-agent) · [官网](https://maikotrindade.com/ai/kotlin/android/development/agents/2025/08/19/building-agentic-ai-mobile-tester-koog-kotlin.html) · 个人维护
 
 **用自然语言驱动 Android/iOS 真机自动测试的 LLM agent 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maikotrindade/mobile-tester-agent 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 99 --> 104
+    line [100, 103]
 ```
 
-2026-10-20 100 → 2026-11-22 100（+0）
+2026-10-21 100 → 2026-11-23 103（+3）
 
 
 ---

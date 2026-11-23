@@ -46,12 +46,12 @@ Python 库 token_guard：记录 LLM API 调用的精确 token 用量，按策略
 ```mermaid
 xychart-beta
     title "abhijitgunjal/token_guard 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-10", "2026-11-23"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-19 20 → 2026-11-22 21（+1）
+2026-10-20 20 → 2026-11-23 21（+1）
 
 
 ---

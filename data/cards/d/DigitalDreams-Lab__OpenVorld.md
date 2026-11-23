@@ -1,6 +1,6 @@
 # DigitalDreams-Lab/OpenVorld
 
-⭐ 20 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/DigitalDreams-Lab/OpenVorld) · [官网](https://openvorld.com) · 组织维护
+⭐ 25 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/DigitalDreams-Lab/OpenVorld) · [官网](https://openvorld.com) · 组织维护
 
 **给 AI agent 团队一个像素风 RPG 世界看板的本地优先工作台**
 
@@ -44,13 +44,13 @@ OpenVorld 将 AI agent 协作过程可视化为像素 RPG 世界：每个项目�
 
 ```mermaid
 xychart-beta
-    title "DigitalDreams-Lab/OpenVorld 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 2 --> 21
-    line [3, 7, 8, 20]
+    title "DigitalDreams-Lab/OpenVorld 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 1 --> 27
+    line [3, 7, 8, 20, 25]
 ```
 
-2026-11-16 3 → 2026-11-22 20（+17）
+2026-11-16 3 → 2026-11-23 25（+22）
 
 
 ---

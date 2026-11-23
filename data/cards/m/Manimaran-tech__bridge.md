@@ -1,6 +1,6 @@
 # Manimaran-tech/bridge
 
-⭐ 25 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Manimaran-tech/bridge) · [官网](https://www.npmjs.com/package/@markmayandi/bridge) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Manimaran-tech/bridge) · [官网](https://www.npmjs.com/package/@markmayandi/bridge) · 个人维护 · 中文 README
 
 **把本地代码目录通过 MCP 隧道安全接入网页版 AI 客户端的 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Manimaran-tech/bridge 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 5 --> 26
-    line [6, 25]
+    title "Manimaran-tech/bridge 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 47
+    line [6, 25, 44]
 ```
 
-2026-11-21 6 → 2026-11-22 25（+19）
+2026-11-21 6 → 2026-11-23 44（+38）
 
 
 ---

@@ -1,6 +1,6 @@
 # joergmlpts/nature-id
 
-⭐ 53 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/joergmlpts/nature-id) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/joergmlpts/nature-id) · 个人维护
 
 **对照片中的植物、鸟类和昆虫做物种识别的命令行工具**
 
@@ -40,6 +40,18 @@
 > L3: This repository provides Python code that identifies plants, birds, and insects in photos.
 > L9: This code is based on the trained models provided by Google. It was written to experiment with identifying species f
 > L15: This is a command-line tool. It is invoked with images or directories containing images and identifies the plants, 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "joergmlpts/nature-id 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 52 --> 54
+    line [53, 53]
+```
+
+2026-11-22 53 → 2026-11-23 53（+0）
 
 
 ---

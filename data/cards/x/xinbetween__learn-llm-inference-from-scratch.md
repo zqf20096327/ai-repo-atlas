@@ -41,6 +41,18 @@
 > L38: **No GPU. No downloads. No PyTorch.** 6,700 lines of NumPy that run on a laptop in
 > L41: ## Who this is for
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xinbetween/learn-llm-inference-from-scratch 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `b7cde92b84f5` · [字段定义](../../DATASET.md)*

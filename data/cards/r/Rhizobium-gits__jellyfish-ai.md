@@ -1,6 +1,6 @@
 # Rhizobium-gits/jellyfish-ai
 
-⭐ 3 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Rhizobium-gits/jellyfish-ai) · 个人维护 · 中文 README
+⭐ 3 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Rhizobium-gits/jellyfish-ai) · 个人维护 · 中文 README
 
 **桌面像素水母即独立 AI 代理的 macOS 应用**
 
@@ -40,6 +40,18 @@ macOS 常驻应用，屏幕上每只像素水母是一个独立 AI 代理，底�
 
 > L13:  デスクトップ上にAIエージェントが常駐し、1 体ずつが独立した AI エージェント（Claude Code・Codex・Gemini）として動く macOS アプリです。
 > L41: |**チャット**|ChatGPT・Claude・Gemini のアプリのように、**表・数式・図とグラフ・色分けしたコード** をそのまま表示。画像・PDF はサムネイル、Web ページは表紙とタイトル。🎙 Mac の音声入力、
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Rhizobium-gits/jellyfish-ai 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

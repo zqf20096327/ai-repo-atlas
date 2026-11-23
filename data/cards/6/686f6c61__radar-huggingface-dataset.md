@@ -1,6 +1,6 @@
 # 686f6c61/radar-huggingface-dataset
 
-⭐ 21 · JavaScript · CC-BY-4.0 · 推送 2026-11-21 · [GitHub](https://github.com/686f6c61/radar-huggingface-dataset) · [官网](https://radar-huggingface.686f6c61.dev) · 个人维护
+⭐ 21 · JavaScript · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/686f6c61/radar-huggingface-dataset) · [官网](https://radar-huggingface.686f6c61.dev) · 个人维护
 
 **HuggingFace 模型生态的开策展数据集：西语模型档案与退出追踪**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "686f6c61/radar-huggingface-dataset 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 11 --> 22
     line [12, 13, 14, 16, 13, 21, 21]
 ```
 
-2026-10-20 12 → 2026-11-22 21（+9）
+2026-10-21 12 → 2026-11-23 21（+9）
 
 
 ---

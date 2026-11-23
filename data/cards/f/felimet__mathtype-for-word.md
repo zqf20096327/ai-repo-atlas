@@ -1,6 +1,6 @@
 # felimet/mathtype-for-word
 
-⭐ 23 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/felimet/mathtype-for-word) · 个人维护 · 中文 README
+⭐ 24 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/felimet/mathtype-for-word) · 个人维护 · 中文 README
 
 **让 AI agent 在 Word/PowerPoint 中创建可编辑 MathType 公式的技能与 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "felimet/mathtype-for-word 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 15 --> 24
-    line [16, 18, 16, 19, 20, 21, 23, 23]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 15 --> 25
+    line [16, 18, 16, 19, 20, 21, 23, 24]
 ```
 
-2026-10-20 16 → 2026-11-22 23（+7）
+2026-10-21 16 → 2026-11-23 24（+8）
 
 
 ---

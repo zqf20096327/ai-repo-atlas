@@ -1,6 +1,6 @@
 # mascanho/RustySEO-Releases
 
-⭐ 16 · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mascanho/RustySEO-Releases) · [官网](https://rustyseo.com) · 个人维护
+⭐ 17 · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mascanho/RustySEO-Releases) · [官网](https://rustyseo.com) · 个人维护
 
 **面向 SEO/GEO 分析的跨平台桌面爬虫与日志分析工具，含 AI 功能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mascanho/RustySEO-Releases 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 9 --> 17
-    line [10, 15, 16, 16]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 9 --> 18
+    line [10, 15, 16, 17]
 ```
 
-2026-10-22 10 → 2026-11-22 16（+6）
+2026-10-22 10 → 2026-11-23 17（+7）
 
 
 ---

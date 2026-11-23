@@ -1,6 +1,6 @@
 # netresearch/php-modernization-skill
 
-⭐ 68 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/netresearch/php-modernization-skill) · 组织维护
+⭐ 68 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/netresearch/php-modernization-skill) · 组织维护
 
 **PHP 8.x 现代化的 Agent Skill：类型安全与静态分析工具契约**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "netresearch/php-modernization-skill 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-23"]
     y-axis "stars" 53 --> 69
     line [54, 55, 57, 54, 61, 62, 63, 64, 65, 66, 67, 68, 68]
 ```
 
-2026-10-20 54 → 2026-11-22 68（+14）
+2026-10-21 54 → 2026-11-23 68（+14）
 
 
 ---

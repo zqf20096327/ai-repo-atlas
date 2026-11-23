@@ -1,6 +1,6 @@
 # JRS1986/CodingScaffold
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/JRS1986/CodingScaffold) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/JRS1986/CodingScaffold) · 个人维护
 
 **为 AI 编码代理准备项目上下文与治理脚手架的 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "JRS1986/CodingScaffold 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 11（+1）
 
 
 ---

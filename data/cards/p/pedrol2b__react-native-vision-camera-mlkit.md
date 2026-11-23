@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pedrol2b/react-native-vision-camera-mlkit 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-20 58 → 2026-11-22 58（+0）
+2026-10-21 58 → 2026-11-23 58（+0）
 
 
 ---

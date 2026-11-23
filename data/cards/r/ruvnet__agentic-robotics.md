@@ -1,6 +1,6 @@
 # ruvnet/agentic-robotics
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ruvnet/agentic-robotics) · [官网](https://ruv.io) · 个人维护
+⭐ 44 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ruvnet/agentic-robotics) · [官网](https://ruv.io) · 个人维护
 
 **面向机器人开发者的 Agentic 框架：Rust 核心+LLM/MCP 集成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ruvnet/agentic-robotics 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 39 --> 44
-    line [40, 41, 42, 43, 43]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 39 --> 45
+    line [40, 41, 42, 43, 44]
 ```
 
-2026-11-10 40 → 2026-11-22 43（+3）
+2026-11-10 40 → 2026-11-23 44（+4）
 
 
 ---

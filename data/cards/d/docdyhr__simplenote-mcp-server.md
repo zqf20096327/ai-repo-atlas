@@ -1,6 +1,6 @@
 # docdyhr/simplenote-mcp-server
 
-⭐ 21 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/docdyhr/simplenote-mcp-server) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/docdyhr/simplenote-mcp-server) · 个人维护
 
 **让 Claude Desktop 读写 Simplenote 笔记的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "docdyhr/simplenote-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-20 21 → 2026-11-22 21（+0）
+2026-10-21 21 → 2026-11-23 21（+0）
 
 
 ---

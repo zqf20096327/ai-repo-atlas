@@ -1,6 +1,6 @@
 # EdouardRichard/dsh-superpowers-preset
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/EdouardRichard/dsh-superpowers-preset) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **把 obra/superpowers 方法论做成 DeepSeek Harness 的可选 Agent 模式**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

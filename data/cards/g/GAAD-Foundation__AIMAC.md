@@ -1,6 +1,6 @@
 # GAAD-Foundation/AIMAC
 
-⭐ 28 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/GAAD-Foundation/AIMAC) · [官网](https://aimac.ai) · 组织维护
+⭐ 29 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/GAAD-Foundation/AIMAC) · [官网](https://aimac.ai) · 组织维护
 
 **评测 LLM 生成网页无障碍性的基准工具**
 
@@ -45,12 +45,12 @@ AIMAC 通过 OpenRouter API 调用多个 LLM 生成 HTML 页面，用 Playwright
 ```mermaid
 xychart-beta
     title "GAAD-Foundation/AIMAC 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 24 --> 29
-    line [25, 28, 28]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 24 --> 30
+    line [25, 28, 29]
 ```
 
-2026-10-19 25 → 2026-11-22 28（+3）
+2026-10-20 25 → 2026-11-23 29（+4）
 
 
 ---

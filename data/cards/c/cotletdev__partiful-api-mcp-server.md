@@ -1,6 +1,6 @@
 # cotletdev/partiful-api-mcp-server
 
-⭐ 7 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/partiful-api-mcp-server) · [官网](https://cotlet.dev/integrations/partiful-api-mcp-server) · 组织维护
+⭐ 8 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/partiful-api-mcp-server) · [官网](https://cotlet.dev/integrations/partiful-api-mcp-server) · 组织维护
 
 **让 AI 助手操作 Partiful 的 API 与 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cotletdev/partiful-api-mcp-server 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
 ```
 
-2026-11-08 7 → 2026-11-22 7（+0）
+2026-11-08 7 → 2026-11-23 8（+1）
 
 
 ---

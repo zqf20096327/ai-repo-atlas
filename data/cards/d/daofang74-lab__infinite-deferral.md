@@ -1,6 +1,6 @@
 # daofang74-lab/infinite-deferral
 
-⭐ 3 · TeX · 推送 2026-11-05 · [GitHub](https://github.com/daofang74-lab/infinite-deferral) · 个人维护 · 中文 README
+⭐ 3 · TeX · 推送 2026-11-22 · [GitHub](https://github.com/daofang74-lab/infinite-deferral) · 个人维护 · 中文 README
 
 **递归自改进 agent 无限推迟自修改与背叛风险的 AI 安全理论预印本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daofang74-lab/infinite-deferral 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-22 3（+0）
+2026-11-21 3 → 2026-11-23 3（+0）
 
 
 ---

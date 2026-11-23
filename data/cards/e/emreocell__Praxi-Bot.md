@@ -1,6 +1,6 @@
 # emreocell/Praxi-Bot
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/emreocell/Praxi-Bot) · 个人维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/emreocell/Praxi-Bot) · 个人维护
 
 **本地优先的开源桌面 AI agent 平台，权限引擎控制每一步操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "emreocell/Praxi-Bot 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 11
-    line [3, 10]
+    title "emreocell/Praxi-Bot 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 17
+    line [3, 10, 16]
 ```
 
-2026-11-21 3 → 2026-11-22 10（+7）
+2026-11-21 3 → 2026-11-23 16（+13）
 
 
 ---

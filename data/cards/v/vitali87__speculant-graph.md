@@ -1,6 +1,6 @@
 # vitali87/speculant-graph
 
-⭐ 10 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/vitali87/speculant-graph) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vitali87/speculant-graph) · 个人维护
 
 **用 n-gram 图替代小模型的投机解码框架：加速 LLM 推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vitali87/speculant-graph 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-22 10（+0）
+2026-10-20 10 → 2026-11-23 10（+0）
 
 
 ---

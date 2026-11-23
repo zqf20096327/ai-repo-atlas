@@ -1,6 +1,6 @@
 # morriszdweck/liquid-agent
 
-⭐ 42 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/morriszdweck/liquid-agent) · 个人维护
+⭐ 43 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/morriszdweck/liquid-agent) · 个人维护
 
 **macOS/Linux 本地私有 AI 代理：LFM3 双模型加语音与浏览器操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "morriszdweck/liquid-agent 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 4 --> 45
-    line [7, 16, 20, 28, 39, 41, 42, 42]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 4 --> 46
+    line [7, 16, 20, 28, 39, 41, 42, 43]
 ```
 
-2026-10-30 7 → 2026-11-22 42（+35）
+2026-10-30 7 → 2026-11-23 43（+36）
 
 
 ---

@@ -1,6 +1,6 @@
 # theheavenlyd3mon/hermes-profiles
 
-⭐ 60 · Python · 推送 2026-08-13 · [GitHub](https://github.com/theheavenlyd3mon/hermes-profiles) · 个人维护
+⭐ 61 · Python · 推送 2026-08-13 · [GitHub](https://github.com/theheavenlyd3mon/hermes-profiles) · 个人维护
 
 **Hermes Agent 的角色配置集合：编排/编码/科研等专用 agent 人格**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "theheavenlyd3mon/hermes-profiles 星数(近 10 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 50 --> 61
-    line [51, 53, 54, 55, 51, 57, 58, 59, 60, 60]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-23"]
+    y-axis "stars" 50 --> 62
+    line [51, 53, 54, 55, 51, 57, 58, 59, 60, 61]
 ```
 
-2026-10-19 51 → 2026-11-22 60（+9）
+2026-10-20 51 → 2026-11-23 61（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # CiscoDevNet/foundry-security-spec
 
-⭐ 231 · NOASSERTION · 推送 2026-05-12 · [GitHub](https://github.com/CiscoDevNet/foundry-security-spec) · 组织维护
+⭐ 232 · NOASSERTION · 推送 2026-05-12 · [GitHub](https://github.com/CiscoDevNet/foundry-security-spec) · 组织维护
 
 **agentic AI 安全评估系统的开放规格书（Cisco，无代码）**
 
@@ -45,12 +45,12 @@ Cisco 高级安全倡议组将内部多轮迭代的 agentic 安全评估系统�
 ```mermaid
 xychart-beta
     title "CiscoDevNet/foundry-security-spec 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-22"]
-    y-axis "stars" 223 --> 232
-    line [224, 225, 226, 227, 225, 228, 229, 231, 231]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-23"]
+    y-axis "stars" 223 --> 233
+    line [224, 225, 226, 227, 225, 228, 229, 231, 232]
 ```
 
-2026-10-20 224 → 2026-11-22 231（+7）
+2026-10-21 224 → 2026-11-23 232（+8）
 
 
 ---

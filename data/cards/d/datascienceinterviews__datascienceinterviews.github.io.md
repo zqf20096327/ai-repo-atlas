@@ -1,6 +1,6 @@
 # datascienceinterviews/datascienceinterviews.github.io
 
-⭐ 23 · HTML · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/datascienceinterviews/datascienceinterviews.github.io) · [官网](https://dsprep.com/) · 组织维护
+⭐ 24 · HTML · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/datascienceinterviews/datascienceinterviews.github.io) · [官网](https://dsprep.com/) · 组织维护
 
 **数据科学面试题解开源清单与学习资源平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datascienceinterviews/datascienceinterviews.github.io 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-20 23 → 2026-11-22 23（+0）
+2026-10-21 23 → 2026-11-23 24（+1）
 
 
 ---

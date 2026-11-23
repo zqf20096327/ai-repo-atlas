@@ -1,6 +1,6 @@
 # guo-yu/skills
 
-⭐ 240 · Shell · 推送 2026-01-23 · [GitHub](https://github.com/guo-yu/skills) · [官网](http://skill.guoyu.me/) · 个人维护 · 中文 README
+⭐ 241 · Shell · 推送 2026-01-23 · [GitHub](https://github.com/guo-yu/skills) · [官网](http://skill.guoyu.me/) · 个人维护 · 中文 README
 
 **面向 Claude Code 的个人技能集：端口分配、技能开源、权限分析等**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "guo-yu/skills 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 239 --> 241
-    line [240, 240]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 239 --> 242
+    line [240, 241]
 ```
 
-2026-10-19 240 → 2026-11-22 240（+0）
+2026-10-20 240 → 2026-11-23 241（+1）
 
 
 ---

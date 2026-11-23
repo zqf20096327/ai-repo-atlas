@@ -1,6 +1,6 @@
 # alphabet-h/grooveseek
 
-⭐ 11 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/alphabet-h/grooveseek) · 个人维护
+⭐ 11 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/alphabet-h/grooveseek) · 个人维护
 
 **面向知识库的 MCP 语义混合搜索服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alphabet-h/grooveseek 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-18", "2026-11-23"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-20 10 → 2026-11-22 11（+1）
+2026-10-21 10 → 2026-11-23 11（+1）
 
 
 ---

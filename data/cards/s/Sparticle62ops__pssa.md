@@ -1,6 +1,6 @@
 # Sparticle62ops/pssa
 
-⭐ 120 · Rust · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Sparticle62ops/pssa) · [官网](https://sparticle62ops.github.io/pssa/) · 个人维护
+⭐ 121 · Rust · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Sparticle62ops/pssa) · [官网](https://sparticle62ops.github.io/pssa/) · 个人维护
 
 **用 Rust 从零实现的非 Transformer 语言模型（塑性状态空间架构）**
 
@@ -46,12 +46,12 @@ PSSA 是一个用 Rust 从零编写的小型语言模型，不依赖 PyTorch/Ten
 ```mermaid
 xychart-beta
     title "Sparticle62ops/pssa 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 115 --> 121
-    line [116, 117, 119, 116, 120, 120]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 115 --> 122
+    line [116, 117, 119, 116, 120, 121]
 ```
 
-2026-10-20 116 → 2026-11-22 120（+4）
+2026-10-21 116 → 2026-11-23 121（+5）
 
 
 ---

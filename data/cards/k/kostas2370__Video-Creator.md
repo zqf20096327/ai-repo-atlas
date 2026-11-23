@@ -1,6 +1,6 @@
 # kostas2370/Video-Creator
 
-⭐ 28 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/kostas2370/Video-Creator) · 个人维护
+⭐ 28 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/kostas2370/Video-Creator) · 个人维护
 
 **自托管的 AI 视频生成 Web 应用：提示词生成可编辑视频**
 
@@ -46,12 +46,12 @@ Viddie 是一个 React 前端 + Django API + Celery worker 的 Web 应用：用�
 ```mermaid
 xychart-beta
     title "kostas2370/Video-Creator 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 26 --> 29
     line [27, 28, 27, 28, 28]
 ```
 
-2026-10-20 27 → 2026-11-22 28（+1）
+2026-10-21 27 → 2026-11-23 28（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hisea/radian
 
-⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/hisea/radian) · [官网](https://getrad.dev) · 个人维护 · 中文 README
+⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/hisea/radian) · [官网](https://getrad.dev) · 个人维护 · 中文 README
 
 **单 Rust 二进制的终端编码 Agent，带任务编排器 arc**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hisea/radian 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 7
     line [3, 4, 5, 3, 5, 6, 6]
 ```
 
-2026-10-23 3 → 2026-11-22 6（+3）
+2026-10-23 3 → 2026-11-23 6（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio
 
-⭐ 349 · Jupyter Notebook · 推送 2026-10-03 · [GitHub](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) · 个人维护
+⭐ 349 · Jupyter Notebook · 推送 2026-11-22 · [GitHub](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) · 个人维护
 
 **个人数据科学与 AI 项目合集：ML/DL/数据工程/教程策展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-23"]
     y-axis "stars" 348 --> 358
     line [355, 354, 355, 354, 356, 357, 349, 349]
 ```
 
-2026-10-20 355 → 2026-11-22 349（-6）
+2026-10-21 355 → 2026-11-23 349（-6）
 
 
 ---

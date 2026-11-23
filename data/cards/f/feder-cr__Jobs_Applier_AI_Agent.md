@@ -1,10 +1,10 @@
 # feder-cr/Jobs_Applier_AI_Agent
 
-⭐ 32,603 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/feder-cr/Jobs_Applier_AI_Agent) · 个人维护
+⭐ 32,613 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/feder-cr/Jobs_Applier_AI_Agent) · 组织维护
 
-**面向求职者的自动化职位搜索与自动投递机器人**
+**给求职者自动搜索职位并代填代投简历的 AI bot**
 
-AIHawk 是一个求职自动化工具：读取用户简历生成搜索条件，在本机检索 37 个公开来源近 30 天的职位发布（每五小时重建），用 AI 对职位与简历的匹配度按 1-5 评分，用户挑选后由自动化 Firefox 浏览器填写公司站点的申请表、附上简历并提交，并记录每次申请的页面回复与截图。提供 Windows/Linux/macOS 脚本安装，首次启动下载约 250 MB；使用需 OrcaRouter API key 且需预充值，每次申请消耗少量费用；macOS 目前只能搜索评分，无法发送申请。
+AIHawk 读取用户简历，将其转为搜索条件，在本机检索 37 个公开来源近 30 天的职位贴（每五小时重建）；对每条贴子按简历匹配度打 1-5 分，用户挑选后由 Firefox 浏览器打开公司官方申请表单，自动填写字段、附上简历并提交，并保存每次申请的页面答复与截图。依赖 OrcaRouter key 支付 AI 调用费用。Windows/Linux 有脚本安装，macOS 仅能搜索打分，尚不能发送申请；Linux 需桌面环境。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ AIHawk 是一个求职自动化工具：读取用户简历生成搜索条件，�
 
 ## 能力要点
 
-- 读取简历生成搜索条件，本机检索 37 个公开来源职位
-- AI 按简历匹配度对职位 1-5 评分
-- Firefox 浏览器自动填写申请表、附简历并提交
-- 记录每次申请的回复与截图
+- 37 个公开来源职位聚合，每五小时重建，本地检索
+- 按简历匹配度对职位打 1-5 分
+- Firefox 自动填写公司表单、附 CV 并提交
+- 记录每次申请的页面答复与截图
 
 ## 适用场景
 
-- 批量筛选与简历匹配的职位并自动投递
-- 跟踪每次申请的结果与页面截图
-- 按简历生成职位搜索条件
+- 睡觉时自动批量投递匹配简历的职位
+- 先按匹配度筛选职位再人工挑选后一键投递
+- 留存每个申请的提交记录与页面回复截图
 
 ## 场景标签
 
@@ -38,21 +38,21 @@ AIHawk 是一个求职自动化工具：读取用户简历生成搜索条件，�
 ## 证据(README 行号)
 
 > L3:  An AI job application bot: automated job search, then it auto-applies to the jobs that match your resume, while you
-> L24: |**2. Searches**|Millions of postings of the last 30 days from 37 public sources, rebuilt every five hours, searche
 > L25: |**3. Scores**|Asks of every posting, against your resume, one question: is it in line with you? How sure the answe
+> L27: |**5. Applies**|First a quick check that the posting is still open, on the sites where that can be told without a b
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "feder-cr/Jobs_Applier_AI_Agent 星数(近 13 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 32387 --> 32622
-    line [32406, 32452, 32474, 32499, 32512, 32524, 32542, 32561, 32582, 32593, 32575, 32587, 32603]
+    title "feder-cr/Jobs_Applier_AI_Agent 星数(近 14 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 32386 --> 32633
+    line [32406, 32452, 32474, 32499, 32512, 32524, 32542, 32561, 32582, 32593, 32575, 32587, 32603, 32613]
 ```
 
-2026-11-08 32,406 → 2026-11-22 32,603（+197）
+2026-11-08 32,406 → 2026-11-23 32,613（+207）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `161ad4407e9a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `75d0cc22d520` · [字段定义](../../DATASET.md)*

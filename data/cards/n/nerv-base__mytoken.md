@@ -1,6 +1,6 @@
 # nerv-base/mytoken
 
-⭐ 8 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nerv-base/mytoken) · 组织维护
+⭐ 8 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nerv-base/mytoken) · 组织维护
 
 **本地 AI 编码工具的 token 用量与成本追踪器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nerv-base/mytoken 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 4 --> 9
     line [5, 7, 5, 7, 8, 8]
 ```
 
-2026-10-22 5 → 2026-11-22 8（+3）
+2026-10-22 5 → 2026-11-23 8（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # hulatu/Publishing_Platform
 
-⭐ 3 · TypeScript · 推送 2026-11-15 · [GitHub](https://github.com/hulatu/Publishing_Platform) · [官网](https://publish.hulatu.com) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/hulatu/Publishing_Platform) · [官网](https://publish.hulatu.com) · 个人维护 · 中文 README
 
 **把一篇 Markdown 分发到 11 个平台的内容发布台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hulatu/Publishing_Platform 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-22"]
+    x-axis ["2026-11-15", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-22 3（+0）
+2026-11-15 3 → 2026-11-23 3（+0）
 
 
 ---

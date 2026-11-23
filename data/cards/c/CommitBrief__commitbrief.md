@@ -1,6 +1,6 @@
 # CommitBrief/commitbrief
 
-⭐ 13 · Go · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/CommitBrief/commitbrief) · [官网](https://commitbrief.com) · 组织维护
+⭐ 13 · Go · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CommitBrief/commitbrief) · [官网](https://commitbrief.com) · 组织维护
 
 **本地 LLM 对 git diff 做 code review 的终端 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CommitBrief/commitbrief 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-14", "2026-11-23"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 13]
 ```
 
-2026-10-20 11 → 2026-11-22 13（+2）
+2026-10-21 11 → 2026-11-23 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AbdelStark/jev-benchmarks
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/AbdelStark/jev-benchmarks) · [官网](https://github.com/AbdelStark/jev-benchmarks#readme) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/AbdelStark/jev-benchmarks) · [官网](https://github.com/AbdelStark/jev-benchmarks#readme) · 个人维护
 
 **类型化决策模型的概率感知评测框架：校准、选择性风险与延迟**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AbdelStark/jev-benchmarks 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 25 --> 29
-    line [26, 27, 28, 28]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 28, 29]
 ```
 
-2026-10-20 26 → 2026-11-22 28（+2）
+2026-10-21 26 → 2026-11-23 29（+3）
 
 
 ---

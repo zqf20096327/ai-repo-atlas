@@ -45,12 +45,12 @@ aws-samples 提供的参考实现：通过 AWS CDK（Python）一键部署文档
 ```mermaid
 xychart-beta
     title "aws-samples/serverless-rag-demo 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 222 --> 224
     line [223, 223]
 ```
 
-2026-10-20 223 → 2026-11-22 223（+0）
+2026-10-21 223 → 2026-11-23 223（+0）
 
 
 ---

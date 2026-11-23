@@ -1,6 +1,6 @@
 # debuffjp/decidekit
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/debuffjp/decidekit) · [官网](https://debuff.jp/decide/) · 组织维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/debuffjp/decidekit) · [官网](https://debuff.jp/decide/) · 组织维护
 
 **浏览器内运行的文本分类决策模型库，设备端本地推断与学习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "debuffjp/decidekit 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
 ```
 
-2026-11-08 6 → 2026-11-22 6（+0）
+2026-11-08 6 → 2026-11-23 7（+1）
 
 
 ---

@@ -46,13 +46,13 @@ Create World 将一句话、小说梗概、剧本或 SRT 字幕输入，交由�
 
 ```mermaid
 xychart-beta
-    title "Leizhidong-creator/CreateWorld 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    title "Leizhidong-creator/CreateWorld 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3 --> 6
-    line [4, 5]
+    line [4, 5, 5]
 ```
 
-2026-11-20 4 → 2026-11-22 5（+1）
+2026-11-20 4 → 2026-11-23 5（+1）
 
 
 ---

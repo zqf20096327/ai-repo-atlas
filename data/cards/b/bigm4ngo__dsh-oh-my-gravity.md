@@ -1,6 +1,6 @@
 # bigm4ngo/dsh-oh-my-gravity
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/bigm4ngo/dsh-oh-my-gravity) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bigm4ngo/dsh-oh-my-gravity) · 个人维护
 
 **将已登录的 Antigravity CLI 作为 DeepSeek Harness 模型提供方的插件**
 
@@ -40,6 +40,18 @@
 > L3: Run your signed-in Antigravity CLI (`agy`) as a model provider inside DSH: no API key, the login `agy` already has.
 > L13: - DSH's tools (subagents, jobs, skills, …) available to AGY, each call approved through DSH.
 > L38: DSH starts `agy acp --sandbox` per DSH session and talks to it over the Agent Client Protocol. ACP is used instead 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bigm4ngo/dsh-oh-my-gravity 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

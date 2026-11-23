@@ -1,10 +1,10 @@
 # HKUDS/LightRAG
 
-⭐ 40,805 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护
+⭐ 40,815 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护 · 中文 README
 
-**给开发者的图结构 RAG 框架：文档入库、知识图谱检索与问答服务**
+**给开发者的图结构化检索增强生成框架与服务器**
 
-LightRAG 是一个检索增强生成（RAG）框架，提供基于知识图谱的索引与检索流程，并附带 API 服务器和预构建 WebUI 用于文档插入、查询与图谱可视化。支持多种文本分块策略、按角色独立的 LLM 配置、重排序、引用溯源与文档删除后图谱重建；通过 RAG-Anything 集成 MinerU/Docling 实现多模态文档解析。存储可用 PostgreSQL、Neo4j、MongoDB、OpenSearch 等后端，集成 RAGAS 评测与 Langfuse 追踪。通过 PyPI、源码或 Docker Compose 部署，需配置 LLM 与 embedding 的 API key。
+LightRAG 提供基于知识图谱的检索增强生成（RAG）实现，包含 Python 库与带 WebUI 的 API 服务器（默认端口 9621）。机制上：文档经解析与分块后抽取实体构建知识图谱，查询支持多模式检索与 reranker；存储支持本地文件、PostgreSQL、Neo4j、MongoDB、OpenSearch 等后端；通过 RAG-Anything 集成 MinerU/Docling 做多模态解析，集成 RAGAS 评估与 Langfuse 追踪。限制：需配置 LLM 与嵌入模型的 API key 或兼容端点；服务器默认绑定 0.0.0.0 且认证默认关闭，README 提示共享网络部署前需绑定私有地址或启用认证。
 
 ## 筛选速览
 
@@ -27,16 +27,17 @@ LightRAG 是一个检索增强生成（RAG）框架，提供基于知识图谱�
 
 ## 能力要点
 
-- 知识图谱索引与检索流程，支持 Fix/Recursive/Vector/Paragraph 分块策略
-- EXTRACT/QUERY/KEYWORDS/VLM 四种角色的独立 LLM 配置
-- WebUI 支持文档插入、查询与知识可视化，API 返回检索上下文
-- PostgreSQL/Neo4j/MongoDB/OpenSearch 等统一存储后端与 Docker 部署
+- 知识图谱索引与检索流程（indexing/retrieval flowchart 提供图示）
+- 多存储后端：PostgreSQL/Neo4j/MongoDB/OpenSearch 可作一体化存储
+- WebUI、REST API 与 Ollama 兼容路由（/api/*）
+- 交互式 setup wizard 与 Docker Compose 部署
 
 ## 适用场景
 
-- 把批量文档构建成知识图谱后做检索问答
-- 需要引用溯源和多模态文档（PDF/Office/表格）解析的 RAG 应用
-- 用 RAGAS 评测与 Langfuse 追踪来观测 RAG 系统质量
+- 把文档库建成知识图谱并提供 WebUI 查询
+- 部署带来源引用（citation）的 RAG 问答服务
+- 对 PDF/Office/表格/公式等多模态文档做解析与检索
+- 离线/内网环境下预装依赖部署 RAG 服务
 
 ## 场景标签
 
@@ -45,21 +46,21 @@ LightRAG 是一个检索增强生成（RAG）框架，提供基于知识图谱�
 ## 证据(README 行号)
 
 > L3: # 🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation
-> L29: - [2024.11]🎯[New Feature] Introducing the LightRAG WebUI — an interface that allows you to insert, query, and visua
-> L155: |`LLM_BINDING_API_KEY`|**Required.** Set your OpenAI API key|
+> L41: ## Installation
+> L119: Open `http://localhost:9621/webui` for the WebUI. The interactive REST API docs are at `http://localhost:9621/docs
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "HKUDS/LightRAG 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 40153 --> 40864
-    line [40212, 40253, 40269, 40295, 40310, 40326, 40348, 40370, 40393, 40420, 40443, 40450, 40467, 40310, 40608, 40641, 40661, 40673, 40687, 40693, 40708, 40722, 40746, 40761, 40777, 40792, 40805]
+    title "HKUDS/LightRAG 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 40152 --> 40875
+    line [40212, 40253, 40269, 40295, 40310, 40326, 40348, 40370, 40393, 40420, 40443, 40450, 40467, 40310, 40608, 40641, 40661, 40673, 40687, 40693, 40708, 40722, 40746, 40761, 40777, 40792, 40805, 40815]
 ```
 
-2026-10-20 40,212 → 2026-11-22 40,805（+593）
+2026-10-21 40,212 → 2026-11-23 40,815（+603）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `21c15446eba7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `bcd726939d40` · [字段定义](../../DATASET.md)*

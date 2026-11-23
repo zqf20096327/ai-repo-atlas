@@ -46,12 +46,12 @@ KeepContext 是一个带 Web 仪表盘和单一 MCP 端点的自托管服务器�
 ```mermaid
 xychart-beta
     title "darshanbajgain/keepcontext 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-22 5（+0）
+2026-11-08 5 → 2026-11-23 5（+0）
 
 
 ---

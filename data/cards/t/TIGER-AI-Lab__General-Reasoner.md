@@ -46,12 +46,12 @@ TIGER-AI-Lab 发布的 LLM 推理研究工作（NeurIPS25）：在 GRPO 框架�
 ```mermaid
 xychart-beta
     title "TIGER-AI-Lab/General-Reasoner 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 232 --> 234
     line [233, 233]
 ```
 
-2026-10-19 233 → 2026-11-22 233（+0）
+2026-10-20 233 → 2026-11-23 233（+0）
 
 
 ---

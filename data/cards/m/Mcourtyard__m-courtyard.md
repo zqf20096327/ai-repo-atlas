@@ -1,6 +1,6 @@
 # Mcourtyard/m-courtyard
 
-⭐ 182 · TypeScript · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/Mcourtyard/m-courtyard) · 个人维护 · 中文 README
+⭐ 183 · TypeScript · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/Mcourtyard/m-courtyard) · 个人维护 · 中文 README
 
 **Apple Silicon 零代码本地 LLM 微调桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mcourtyard/m-courtyard 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-22"]
-    y-axis "stars" 178 --> 183
-    line [179, 180, 179, 181, 182, 182]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23"]
+    y-axis "stars" 178 --> 184
+    line [179, 180, 179, 181, 182, 183]
 ```
 
-2026-10-20 179 → 2026-11-22 182（+3）
+2026-10-21 179 → 2026-11-23 183（+4）
 
 
 ---

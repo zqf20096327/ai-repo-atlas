@@ -1,6 +1,6 @@
 # valentineRutto/OrbMotionKMPLibrary
 
-⭐ 10 · Kotlin · MIT · 推送 2026-11-19 · [GitHub](https://github.com/valentineRutto/OrbMotionKMPLibrary) · [官网](https://klibs.io/project/valentineRutto/OrbMotionKMPLibrary) · 个人维护
+⭐ 11 · Kotlin · MIT · 推送 2026-11-19 · [GitHub](https://github.com/valentineRutto/OrbMotionKMPLibrary) · [官网](https://klibs.io/project/valentineRutto/OrbMotionKMPLibrary) · 个人维护
 
 **面向 Android/iOS 开发者的 AI 活动指示动画 Compose 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "valentineRutto/OrbMotionKMPLibrary 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-21", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-21 10 → 2026-11-22 10（+0）
+2026-11-21 10 → 2026-11-23 11（+1）
 
 
 ---

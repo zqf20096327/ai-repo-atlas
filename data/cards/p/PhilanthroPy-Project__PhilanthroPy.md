@@ -1,6 +1,6 @@
 # PhilanthroPy-Project/PhilanthroPy
 
-⭐ 13 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/PhilanthroPy-Project/PhilanthroPy) · [官网](https://PhilanthroPy-Project.github.io/PhilanthroPy/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/PhilanthroPy-Project/PhilanthroPy) · [官网](https://PhilanthroPy-Project.github.io/PhilanthroPy/) · 个人维护
 
 **面向非营利筹款的 sklearn 兼容捐赠者预测分析库**
 
@@ -45,12 +45,12 @@ Python 库，直接嵌入 sklearn.pipeline.Pipeline，覆盖非营利与学术�
 ```mermaid
 xychart-beta
     title "PhilanthroPy-Project/PhilanthroPy 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-11", "2026-11-23"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 13]
 ```
 
-2026-10-20 11 → 2026-11-22 13（+2）
+2026-10-21 11 → 2026-11-23 13（+2）
 
 
 ---

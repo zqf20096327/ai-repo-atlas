@@ -1,6 +1,6 @@
 # SysAdminDoc/OpenCut
 
-⭐ 71 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/SysAdminDoc/OpenCut) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/SysAdminDoc/OpenCut) · 个人维护
 
 **Adobe Premiere Pro 的本地 AI 视频编辑自动化扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SysAdminDoc/OpenCut 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 63 --> 72
-    line [64, 66, 67, 68, 69, 70, 71]
+    title "SysAdminDoc/OpenCut 星数(近 8 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 63 --> 73
+    line [64, 66, 67, 68, 69, 70, 71, 72]
 ```
 
-2026-10-20 64 → 2026-11-22 71（+7）
+2026-10-21 64 → 2026-11-23 72（+8）
 
 
 ---

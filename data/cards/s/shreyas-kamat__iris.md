@@ -1,6 +1,6 @@
 # shreyas-kamat/iris
 
-⭐ 3 · Dart · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/shreyas-kamat/iris) · [官网](https://iris.shreyaskamat.in/) · 个人维护
+⭐ 4 · Dart · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/shreyas-kamat/iris) · [官网](https://iris.shreyaskamat.in/) · 个人维护
 
 **自托管 Hermes Agent 的直连手机客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shreyas-kamat/iris 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-18 3 → 2026-11-22 3（+0）
+2026-11-18 3 → 2026-11-23 4（+1）
 
 
 ---

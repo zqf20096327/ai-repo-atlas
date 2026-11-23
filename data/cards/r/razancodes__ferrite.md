@@ -1,6 +1,6 @@
 # razancodes/ferrite
 
-⭐ 5 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/razancodes/ferrite) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Rust 编写的 Qwen3.5 CPU 推理引擎，面向无 GPU 笔记本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

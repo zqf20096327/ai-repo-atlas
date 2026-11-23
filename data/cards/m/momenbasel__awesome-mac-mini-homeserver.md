@@ -1,6 +1,6 @@
 # momenbasel/awesome-mac-mini-homeserver
 
-⭐ 32 · Shell · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/momenbasel/awesome-mac-mini-homeserver) · [官网](https://momenbasel.github.io/awesome-mac-mini-homeserver/) · 个人维护
+⭐ 33 · Shell · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/momenbasel/awesome-mac-mini-homeserver) · [官网](https://momenbasel.github.io/awesome-mac-mini-homeserver/) · 个人维护
 
 **Mac mini 家庭服务器与本地 agentic AI 工具策展清单（260+ 条）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "momenbasel/awesome-mac-mini-homeserver 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 29, 28, 30, 31, 32, 32]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 26 --> 34
+    line [27, 28, 29, 28, 30, 31, 32, 33]
 ```
 
-2026-10-20 27 → 2026-11-22 32（+5）
+2026-10-21 27 → 2026-11-23 33（+6）
 
 
 ---

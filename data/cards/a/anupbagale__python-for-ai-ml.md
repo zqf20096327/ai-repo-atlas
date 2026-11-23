@@ -1,6 +1,6 @@
 # anupbagale/python-for-ai-ml
 
-⭐ 9 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/anupbagale/python-for-ai-ml) · 个人维护
+⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/anupbagale/python-for-ai-ml) · 个人维护
 
 **面向 AI/ML 初学者的 Python 动手课程：21 模块、Colab 运行**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "anupbagale/python-for-ai-ml 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 7 --> 10
-    line [8, 9]
+    title "anupbagale/python-for-ai-ml 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-21 8 → 2026-11-22 9（+1）
+2026-11-21 8 → 2026-11-23 10（+2）
 
 
 ---

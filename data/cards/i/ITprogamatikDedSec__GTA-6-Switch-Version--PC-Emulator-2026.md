@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ITprogamatikDedSec/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    title "ITprogamatikDedSec/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 30 --> 37
-    line [36, 31]
+    line [36, 31, 31]
 ```
 
-2026-11-20 36 → 2026-11-22 31（-5）
+2026-11-20 36 → 2026-11-23 31（-5）
 
 
 ---

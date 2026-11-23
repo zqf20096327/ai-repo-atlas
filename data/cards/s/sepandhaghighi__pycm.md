@@ -1,6 +1,6 @@
 # sepandhaghighi/pycm
 
-⭐ 1,507 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sepandhaghighi/pycm) · [官网](http://pycm.io) · 个人维护
+⭐ 1,507 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sepandhaghighi/pycm) · [官网](http://pycm.io) · 个人维护
 
 **多分类混淆矩阵 Python 库：分类模型评估指标计算**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sepandhaghighi/pycm 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-23"]
     y-axis "stars" 1506 --> 1510
     line [1509, 1508, 1509, 1508, 1507, 1507]
 ```
 
-2026-10-20 1,509 → 2026-11-22 1,507（-2）
+2026-10-21 1,509 → 2026-11-23 1,507（-2）
 
 
 ---

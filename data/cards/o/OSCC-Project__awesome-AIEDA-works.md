@@ -1,6 +1,6 @@
 # OSCC-Project/awesome-AIEDA-works
 
-⭐ 18 · 推送 2025-12-03 · [GitHub](https://github.com/OSCC-Project/awesome-AIEDA-works) · 组织维护
+⭐ 19 · 推送 2025-12-03 · [GitHub](https://github.com/OSCC-Project/awesome-AIEDA-works) · 组织维护
 
 **AI for EDA 论文与工具策展清单：覆盖芯片设计自动化研究**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "OSCC-Project/awesome-AIEDA-works 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-21", "2026-11-11", "2026-11-23"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-20 17 → 2026-11-22 18（+1）
+2026-10-21 17 → 2026-11-23 19（+2）
 
 
 ---

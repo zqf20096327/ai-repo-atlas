@@ -1,6 +1,6 @@
 # KKWANG4444/ai-api-proxy-china-guide
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/KKWANG4444/ai-api-proxy-china-guide) · [官网](https://docs.aifast.hk/start/?utm_source=github&utm_medium=repository&utm_campaign=developer_acquisition&utm_content=repo-about-guide) · 组织维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/KKWANG4444/ai-api-proxy-china-guide) · [官网](https://docs.aifast.hk/start/?utm_source=github&utm_medium=repository&utm_campaign=developer_acquisition&utm_content=repo-about-guide) · 组织维护 · 中文 README
 
 **国内开发者接入 AI API 中转站的配置与排错指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KKWANG4444/ai-api-proxy-china-guide 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-10-31", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-10-31", "2026-11-23"]
     y-axis "stars" 9 --> 12
     line [11, 10, 11, 11]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 11（+0）
 
 
 ---

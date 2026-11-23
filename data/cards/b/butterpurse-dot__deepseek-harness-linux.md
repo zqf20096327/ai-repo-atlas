@@ -1,6 +1,6 @@
 # butterpurse-dot/deepseek-harness-linux
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/butterpurse-dot/deepseek-harness-linux) · [官网](https://butterpurse-dot.github.io/deepseek-harness-linux/) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/butterpurse-dot/deepseek-harness-linux) · [官网](https://butterpurse-dot.github.io/deepseek-harness-linux/) · 个人维护
 
 **为 DeepSeek Harness 桌面版提供社区 Linux 打包发布**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "butterpurse-dot/deepseek-harness-linux 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-16", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-10", "2026-11-16", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-10 3 → 2026-11-22 5（+2）
+2026-11-10 3 → 2026-11-23 6（+3）
 
 
 ---

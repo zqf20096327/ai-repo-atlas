@@ -1,6 +1,6 @@
 # Mr-Abood/GPTFree
 
-⭐ 54 · 推送 2025-12-07 · [GitHub](https://github.com/Mr-Abood/GPTFree) · [官网](https://algion.dev/) · 个人维护
+⭐ 53 · 推送 2025-12-07 · [GitHub](https://github.com/Mr-Abood/GPTFree) · [官网](https://algion.dev/) · 个人维护
 
 **免费 OpenAI 兼容 API 服务：免注册获取密钥调用多家模型**
 
@@ -45,12 +45,12 @@ Algion 是一个托管的 OpenAI 兼容 API 服务：用户通过 Telegram 机�
 ```mermaid
 xychart-beta
     title "Mr-Abood/GPTFree 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 53 --> 56
-    line [55, 54, 54]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 52 --> 56
+    line [55, 54, 53]
 ```
 
-2026-10-20 55 → 2026-11-22 54（-1）
+2026-10-21 55 → 2026-11-23 53（-2）
 
 
 ---

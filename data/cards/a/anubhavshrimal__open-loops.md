@@ -46,12 +46,12 @@ Open Loops 从 Tracker 取 Task，将每个 Ready 状态的 Task 交给一个编
 ```mermaid
 xychart-beta
     title "anubhavshrimal/open-loops 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-22 3（+0）
+2026-11-10 3 → 2026-11-23 3（+0）
 
 
 ---

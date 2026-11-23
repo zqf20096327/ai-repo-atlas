@@ -1,6 +1,6 @@
 # LingyiChen-AI/beetle
 
-⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/LingyiChen-AI/beetle) · 个人维护 · 中文 README
+⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/LingyiChen-AI/beetle) · 个人维护 · 中文 README
 
 **把飞书群里 @ 机器人的问题交给本机 Claude Code/Codex 处理的托盘客户端**
 
@@ -40,6 +40,18 @@
 > L3: 常驻系统托盘的桌面客户端：把飞书群里 @ 机器人的问题，交给本机的 Claude Code / Codex 处理，内置「查 bug」流程。
 > L11: - **查 bug 流程**：读取群聊上下文 → 同步最新 release 代码 → 只读查询项目关联的数据源 → 给出根因与修复建议。
 > L47: - Claude Code 或 Codex CLI（至少一个）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LingyiChen-AI/beetle 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-22 4 → 2026-11-23 4（+0）
 
 
 ---

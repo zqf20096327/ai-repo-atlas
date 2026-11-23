@@ -1,6 +1,6 @@
 # ncchen99/pickfit
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ncchen99/pickfit) · [官网](https://pickfit.app) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ncchen99/pickfit) · [官网](https://pickfit.app) · 个人维护 · 中文 README
 
 **为人和 AI agent 推荐并沙箱实测软件的工具顾问**
 
@@ -46,12 +46,12 @@ pickfit 读取开源项目，在全新沙箱中安装并验证功能，离线回
 ```mermaid
 xychart-beta
     title "ncchen99/pickfit 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-22 3（+0）
+2026-11-20 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DirectorySurf/awesome-ai-agents-directories 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 162 --> 164
     line [163, 163]
 ```
 
-2026-10-20 163 → 2026-11-22 163（+0）
+2026-10-21 163 → 2026-11-23 163（+0）
 
 
 ---

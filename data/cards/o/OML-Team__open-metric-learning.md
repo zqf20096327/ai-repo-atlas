@@ -1,6 +1,6 @@
 # OML-Team/open-metric-learning
 
-⭐ 999 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/OML-Team/open-metric-learning) · [官网](https://open-metric-learning.readthedocs.io/en/latest/index.html) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **PyTorch 度量学习框架：训练嵌入模型并构建检索流水线**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

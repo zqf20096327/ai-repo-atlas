@@ -1,6 +1,6 @@
 # mlnjsh/ai-research-radar
 
-⭐ 12 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mlnjsh/ai-research-radar) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mlnjsh/ai-research-radar) · 个人维护
 
 **自更新的 arXiv AI 论文追踪器，每 6 小时自动汇总分类**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mlnjsh/ai-research-radar 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

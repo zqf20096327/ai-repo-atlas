@@ -1,6 +1,6 @@
 # alpha03123/vsummary
 
-⭐ 289 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/alpha03123/vsummary) · [官网](https://vsummary.net/) · 个人维护 · 中文 README
+⭐ 292 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/alpha03123/vsummary) · [官网](https://vsummary.net/) · 个人维护 · 中文 README
 
 **面向普通用户的视频 AI 总结与本地知识库工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "alpha03123/vsummary 星数(近 6 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 276 --> 290
-    line [277, 278, 283, 285, 288, 289]
+    title "alpha03123/vsummary 星数(近 7 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 276 --> 293
+    line [277, 278, 283, 285, 288, 289, 292]
 ```
 
-2026-11-16 277 → 2026-11-22 289（+12）
+2026-11-16 277 → 2026-11-23 292（+15）
 
 
 ---

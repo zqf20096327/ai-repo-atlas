@@ -1,6 +1,6 @@
 # Plexito-de/spantruth
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Plexito-de/spantruth) · [官网](https://plexito-de.github.io/spantruth/) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Plexito-de/spantruth) · [官网](https://plexito-de.github.io/spantruth/) · 个人维护
 
 **校验 LLM 埋点遥测是否与 provider 实际响应一致的测试工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Plexito-de/spantruth 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 6
     line [3, 4, 3, 4, 5, 5]
 ```
 
-2026-10-20 3 → 2026-11-22 5（+2）
+2026-10-21 3 → 2026-11-23 5（+2）
 
 
 ---

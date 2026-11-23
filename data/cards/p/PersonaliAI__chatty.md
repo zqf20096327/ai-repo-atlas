@@ -1,6 +1,6 @@
 # PersonaliAI/chatty
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/PersonaliAI/chatty) · [官网](https://chatty.personaliai.com) · 组织维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PersonaliAI/chatty) · [官网](https://chatty.personaliai.com) · 组织维护 · 中文 README
 
 **面向商店与企业的开源 AI 客服平台，Zendesk/Intercom 替代**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PersonaliAI/chatty 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-23"]
     y-axis "stars" 9 --> 24
     line [10, 15, 20, 22, 23, 23]
 ```
 
-2026-11-02 10 → 2026-11-22 23（+13）
+2026-11-02 10 → 2026-11-23 23（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIcivilization/dsh-vps
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/AIcivilization/dsh-vps) · [官网](https://aicivilization.github.io/dsh-vps/) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AIcivilization/dsh-vps) · [官网](https://aicivilization.github.io/dsh-vps/) · 个人维护 · 中文 README
 
 **给开发者一键部署 DeepSeek Harness 到 VPS 的部署工具**
 
@@ -45,13 +45,13 @@ dsh-vps 是 DeepSeek Harness（DSH）的 VPS 部署工具，解决 DSH 特权接
 
 ```mermaid
 xychart-beta
-    title "AIcivilization/dsh-vps 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
+    title "AIcivilization/dsh-vps 星数(近 9 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 6 --> 14
-    line [7, 8, 9, 10, 11, 9, 12, 13]
+    line [7, 8, 9, 10, 11, 9, 12, 13, 13]
 ```
 
-2026-10-20 7 → 2026-11-22 13（+6）
+2026-10-21 7 → 2026-11-23 13（+6）
 
 
 ---

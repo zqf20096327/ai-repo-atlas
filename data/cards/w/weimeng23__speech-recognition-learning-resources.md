@@ -1,6 +1,6 @@
 # weimeng23/speech-recognition-learning-resources
 
-⭐ 79 · CC-BY-SA-4.0 · 推送 2026-04-01 · [GitHub](https://github.com/weimeng23/speech-recognition-learning-resources) · [官网](https://github.com/weimeng23/speech-recognition-learning-resources) · 个人维护 · 中文 README
+⭐ 80 · CC-BY-SA-4.0 · 推送 2026-04-01 · [GitHub](https://github.com/weimeng23/speech-recognition-learning-resources) · [官网](https://github.com/weimeng23/speech-recognition-learning-resources) · 个人维护 · 中文 README
 
 **语音识别学习资源清单：课程、书籍、论文、模型与工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "weimeng23/speech-recognition-learning-resources 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 78 --> 81
-    line [80, 79, 79]
+    line [80, 79, 80]
 ```
 
-2026-10-20 80 → 2026-11-22 79（-1）
+2026-10-21 80 → 2026-11-23 80（+0）
 
 
 ---

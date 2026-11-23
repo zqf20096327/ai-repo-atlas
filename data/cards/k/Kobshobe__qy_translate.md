@@ -1,6 +1,6 @@
 # Kobshobe/qy_translate
 
-⭐ 86 · JavaScript · GPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/Kobshobe/qy_translate) · 个人维护 · 中文 README
+⭐ 86 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Kobshobe/qy_translate) · 个人维护 · 中文 README
 
 **Chrome 网页翻译扩展：传统引擎与 AI 大模型翻译**
 
@@ -45,12 +45,12 @@ Chrome 浏览器翻译扩展，基于 Vue 3 与 TypeScript 构建。功能包括
 ```mermaid
 xychart-beta
     title "Kobshobe/qy_translate 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-19 86 → 2026-11-22 86（+0）
+2026-10-20 86 → 2026-11-23 86（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jowinjohnchemban/kritapilot
 
-⭐ 4 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/jowinjohnchemban/kritapilot) · [官网](https://pypi.org/project/kritapilot/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jowinjohnchemban/kritapilot) · [官网](https://pypi.org/project/kritapilot/) · 个人维护
 
 **让 AI 代理与内置聊天在 Krita 中作画、修图、生成动画视频的 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jowinjohnchemban/kritapilot 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "jowinjohnchemban/kritapilot 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-19 3 → 2026-11-22 4（+1）
+2026-11-19 3 → 2026-11-23 5（+2）
 
 
 ---

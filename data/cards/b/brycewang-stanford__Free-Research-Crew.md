@@ -1,6 +1,6 @@
 # brycewang-stanford/Free-Research-Crew
 
-⭐ 266 · Python · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/brycewang-stanford/Free-Research-Crew) · 组织维护 · 中文 README
+⭐ 267 · Python · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/brycewang-stanford/Free-Research-Crew) · 组织维护 · 中文 README
 
 **免费助研 AI 团队：协作完成 CS 与社科论文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brycewang-stanford/Free-Research-Crew 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 261 --> 267
-    line [262, 263, 265, 266]
+    title "brycewang-stanford/Free-Research-Crew 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 261 --> 268
+    line [262, 263, 265, 266, 267]
 ```
 
-2026-11-19 262 → 2026-11-22 266（+4）
+2026-11-19 262 → 2026-11-23 267（+5）
 
 
 ---

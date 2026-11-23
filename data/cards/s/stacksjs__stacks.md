@@ -1,6 +1,6 @@
 # stacksjs/stacks
 
-⭐ 637 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/stacksjs/stacks) · [官网](https://stacksjs.com) · 组织维护
+⭐ 637 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/stacksjs/stacks) · [官网](https://stacksjs.com) · 组织维护
 
 **TypeScript 全栈应用与库的快速开发框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "stacksjs/stacks 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-23"]
     y-axis "stars" 633 --> 639
     line [634, 636, 638, 637, 638, 637, 637]
 ```
 
-2026-10-20 634 → 2026-11-22 637（+3）
+2026-10-21 634 → 2026-11-23 637（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # natnew/awesome-recursive-self-improvement
 
-⭐ 23 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/natnew/awesome-recursive-self-improvement) · 个人维护
+⭐ 24 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/natnew/awesome-recursive-self-improvement) · 个人维护
 
 **AI 递归自我改进主题的资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "natnew/awesome-recursive-self-improvement 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 16 --> 24
-    line [17, 18, 19, 20, 21, 22, 23]
+    title "natnew/awesome-recursive-self-improvement 星数(近 8 点)"
+    x-axis ["2026-10-21", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 16 --> 25
+    line [17, 18, 19, 20, 21, 22, 23, 24]
 ```
 
-2026-10-20 17 → 2026-11-22 23（+6）
+2026-10-21 17 → 2026-11-23 24（+7）
 
 
 ---

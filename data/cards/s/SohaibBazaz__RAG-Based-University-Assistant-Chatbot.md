@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SohaibBazaz/RAG-Based-University-Assistant-Chatbot 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "SohaibBazaz/RAG-Based-University-Assistant-Chatbot 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 12 --> 15
-    line [13, 14]
+    line [13, 14, 14]
 ```
 
-2026-10-20 13 → 2026-11-22 14（+1）
+2026-10-21 13 → 2026-11-23 14（+1）
 
 
 ---

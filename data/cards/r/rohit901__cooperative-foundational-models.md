@@ -45,12 +45,12 @@ WACV 2025 论文 "Enhancing Novel Object Detection via Cooperative Foundational 
 ```mermaid
 xychart-beta
     title "rohit901/cooperative-foundational-models 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-10-20 84 → 2026-11-22 84（+0）
+2026-10-21 84 → 2026-11-23 84（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Python 包，封装 Ross Quinlan 的 Cubist v2.07 规则回归模型，并以 sc
 ```mermaid
 xychart-beta
     title "pjaselin/Cubist 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-20 62 → 2026-11-22 62（+0）
+2026-10-21 62 → 2026-11-23 62（+0）
 
 
 ---

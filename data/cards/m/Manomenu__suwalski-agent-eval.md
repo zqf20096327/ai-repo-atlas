@@ -1,6 +1,6 @@
 # Manomenu/suwalski-agent-eval
 
-⭐ 3 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Manomenu/suwalski-agent-eval) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI agent 做回归测试与生产监控的评测框架**
 
@@ -11,7 +11,7 @@ Suwageval 用单元测试的方式测试 LLM agent：场景以 YAML 形式存放
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

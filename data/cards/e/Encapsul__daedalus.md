@@ -1,6 +1,6 @@
 # Encapsul/daedalus
 
-⭐ 28 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Encapsul/daedalus) · [官网](https://encapsul.netlify.app) · 个人维护
+⭐ 28 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Encapsul/daedalus) · [官网](https://encapsul.netlify.app) · 个人维护
 
 **把应用打包成单个自解压 Linux ELF 的跨平台 CLI 工具**
 
@@ -46,12 +46,12 @@ Rust 编写的打包 CLI：将应用目录连同运行时打包为单个自解�
 ```mermaid
 xychart-beta
     title "Encapsul/daedalus 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-12", "2026-11-23"]
     y-axis "stars" 25 --> 29
     line [26, 27, 28, 28]
 ```
 
-2026-10-20 26 → 2026-11-22 28（+2）
+2026-10-21 26 → 2026-11-23 28（+2）
 
 
 ---

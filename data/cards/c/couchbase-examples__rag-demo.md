@@ -46,12 +46,12 @@ Streamlit 演示应用：上传 PDF 后在聊天框提问，用 Couchbase 向量
 ```mermaid
 xychart-beta
     title "couchbase-examples/rag-demo 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-20 25 → 2026-11-22 25（+0）
+2026-10-21 25 → 2026-11-23 25（+0）
 
 
 ---

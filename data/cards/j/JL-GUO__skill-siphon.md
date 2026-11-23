@@ -1,6 +1,6 @@
 # JL-GUO/skill-siphon
 
-⭐ 29 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/JL-GUO/skill-siphon) · 个人维护 · 中文 README
+⭐ 29 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/JL-GUO/skill-siphon) · 个人维护 · 中文 README
 
 **把高星 Agent Skill 提炼为可学习资料的技能工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JL-GUO/skill-siphon 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    title "JL-GUO/skill-siphon 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 24 --> 30
-    line [25, 27, 29]
+    line [25, 27, 29, 29]
 ```
 
-2026-11-20 25 → 2026-11-22 29（+4）
+2026-11-20 25 → 2026-11-23 29（+4）
 
 
 ---

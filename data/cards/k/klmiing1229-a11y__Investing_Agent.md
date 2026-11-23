@@ -1,6 +1,6 @@
 # klmiing1229-a11y/Investing_Agent
 
-⭐ 4 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/klmiing1229-a11y/Investing_Agent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给个人投资者的量化分析 Agent：14 技术面+9 基本面打分给出倾向**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

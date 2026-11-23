@@ -1,6 +1,6 @@
 # MarsTechHAN/deepseek-harness-tui-cardputer
 
-⭐ 7 · Rust · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/MarsTechHAN/deepseek-harness-tui-cardputer) · 个人维护
+⭐ 8 · Rust · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/MarsTechHAN/deepseek-harness-tui-cardputer) · 个人维护
 
 **在 M5Stack Cardputer 掌机上运行的 DeepSeek agent 终端界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MarsTechHAN/deepseek-harness-tui-cardputer 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 7, 7]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 7, 8]
 ```
 
-2026-11-19 4 → 2026-11-22 7（+3）
+2026-11-19 4 → 2026-11-23 8（+4）
 
 
 ---

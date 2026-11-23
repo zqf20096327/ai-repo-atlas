@@ -1,6 +1,6 @@
 # phuetz/code-buddy
 
-⭐ 51 · TypeScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/phuetz/code-buddy) · [官网](https://phuetz.github.io/code-buddy/) · 个人维护
+⭐ 52 · TypeScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/phuetz/code-buddy) · [官网](https://phuetz.github.io/code-buddy/) · 个人维护
 
 **终端本地优先的 AI 编码 agent，支持 64 个 LLM 提供方**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "phuetz/code-buddy 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
-    y-axis "stars" 46 --> 52
-    line [47, 48, 49, 48, 50, 51, 51]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23"]
+    y-axis "stars" 46 --> 53
+    line [47, 48, 49, 48, 50, 51, 52]
 ```
 
-2026-10-20 47 → 2026-11-22 51（+4）
+2026-10-21 47 → 2026-11-23 52（+5）
 
 
 ---

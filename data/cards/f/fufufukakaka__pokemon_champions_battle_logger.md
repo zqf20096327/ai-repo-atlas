@@ -1,6 +1,6 @@
 # fufufukakaka/pokemon_champions_battle_logger
 
-⭐ 55 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/fufufukakaka/pokemon_champions_battle_logger) · [官网](https://fufufukakaka.github.io/pokemon_champions_battle_logger/) · 个人维护
+⭐ 57 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/fufufukakaka/pokemon_champions_battle_logger) · [官网](https://fufufukakaka.github.io/pokemon_champions_battle_logger/) · 个人维护
 
 **宝可梦对战自动记录分析工具：直播/录像识别对战数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fufufukakaka/pokemon_champions_battle_logger 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 47 --> 56
-    line [48, 49, 50, 49, 53, 54, 55]
+    title "fufufukakaka/pokemon_champions_battle_logger 星数(近 8 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 47 --> 58
+    line [48, 49, 50, 49, 53, 54, 55, 57]
 ```
 
-2026-10-20 48 → 2026-11-22 55（+7）
+2026-10-21 48 → 2026-11-23 57（+9）
 
 
 ---

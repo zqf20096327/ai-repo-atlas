@@ -1,6 +1,6 @@
 # hoppscotch/hoppscotch-mcp-server
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hoppscotch/hoppscotch-mcp-server) · [官网](https://docs.hoppscotch.io/documentation/clients/mcp-server) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hoppscotch/hoppscotch-mcp-server) · [官网](https://docs.hoppscotch.io/documentation/clients/mcp-server) · 组织维护
 
 **让 AI agent 操作 Hoppscotch API 工作区的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Hoppscotch 官方维护的 Model Context Protocol 服务器，供 Claude Code、
 ```mermaid
 xychart-beta
     title "hoppscotch/hoppscotch-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-23"]
     y-axis "stars" 10 --> 17
     line [11, 12, 14, 11, 14, 15, 16, 16]
 ```
 
-2026-10-20 11 → 2026-11-22 16（+5）
+2026-10-21 11 → 2026-11-23 16（+5）
 
 
 ---

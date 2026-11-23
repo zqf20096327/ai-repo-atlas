@@ -1,6 +1,6 @@
 # 7sen1ot/zcode2api
 
-⭐ 158 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/7sen1ot/zcode2api) · [官网](https://github.com/7sen1ot/zcode2api) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **ZCode 免费账号的反向代理网关，兼容 OpenAI/Anthropic 协议**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

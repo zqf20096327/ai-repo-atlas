@@ -1,6 +1,6 @@
 # BUPT-GAMMA/GammaGL
 
-⭐ 263 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/BUPT-GAMMA/GammaGL) · 组织维护 · 中文 README
+⭐ 261 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/BUPT-GAMMA/GammaGL) · 组织维护 · 中文 README
 
 **多后端图神经网络库：一套代码跑四种深度学习框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BUPT-GAMMA/GammaGL 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 262 --> 264
-    line [263, 263]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 260 --> 264
+    line [263, 261]
 ```
 
-2026-10-20 263 → 2026-11-22 263（+0）
+2026-10-21 263 → 2026-11-23 261（-2）
 
 
 ---

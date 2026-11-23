@@ -1,16 +1,16 @@
 # yifanfeng97/Hyper-Extract
 
-⭐ 4,257 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/yifanfeng97/Hyper-Extract) · [官网](https://yifanfeng97.github.io/Hyper-Extract/) · 个人维护 · 中文 README
+⭐ 4,258 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/yifanfeng97/Hyper-Extract) · [官网](https://yifanfeng97.github.io/Hyper-Extract/) · 个人维护 · 中文 README
 
-**把文档转成结构化知识（图/超图/时空图）的 CLI 工具**
+**用 LLM 将文档一键抽取为图/超图等结构化知识的 CLI**
 
-面向需要从非结构化文档中抽取结构化知识的开发者与知识库管理者。以 CLI（he 命令）与 Python API 双形式提供：读取 PDF/Word/Excel/HTML/EPUB 等格式，通过 11+ 抽取引擎（chunk_rag、GraphRAG、LightRAG、Hyper-RAG、KG-Gen 等）生成 9 种知识结构，含图、超图、时空图；提供 80+ YAML 模板覆盖金融/法律/医学等领域。基于 LLM function calling，需模型支持工具调用；支持增量演化与来源溯源，可导出 Obsidian/MCP。限制：依赖外部 LLM 提供商（OpenAI/Anthropic/Gemini/DeepSeek/百炼/vLLM），vLLM 本地部署需 GPU。
+Python CLI 与库，输入 PDF、Word、PPT、Excel、HTML、EPUB 等文档，通过模板驱动的方式用 LLM 抽取出 9 种结构（列表、图、超图、时空图等），支持增量更新、来源溯源、回滚与 Obsidian 导出。抽取引擎含 chunk_rag、GraphRAG、LightRAG、Hyper-RAG、KG-Gen 等 11+ 种；提供 80+ YAML 模板覆盖金融、法律、医疗、中医、工业等领域。依赖支持 function calling 的模型；本地部署需 vLLM 与 GPU；另提供只读 MCP Server。Apache-2.0 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 9 种知识结构（含超图、时空图）与 11+ 抽取引擎
-- 80+ YAML 模板覆盖金融/法律/医学/中医等 6 个领域
-- 增量演化与来源溯源：审计、回滚、更新文档
-- MCP Server 暴露知识供 Claude Desktop/IDE agent 检索导出
+- 9 种知识结构：从 chunk 语料到图、超图、时空图
+- 11+ 抽取引擎（GraphRAG/LightRAG/Hyper-RAG/KG-Gen 等）
+- 80+ YAML 模板覆盖金融、法律、医疗、中医等 6 领域
+- 增量更新与来源溯源：审计、回滚、upsert
 
 ## 适用场景
 
-- 把学术论文或财报转成交互式知识图谱
-- 本地 vLLM 部署做数据不出内网的知识抽取
-- 维护与源文档同步、可审计回滚的知识库
-- 导出 Obsidian vault 或通过 MCP 供助手检索
+- 把论文转成含概念、作者、引用关系的知识图谱
+- 从财报中抽取公司、高管、财务指标及关系
+- 本地部署 vLLM 让文档数据不出内网
+- 用 Obsidian vault 浏览抽取出的知识网络
 
 ## 场景标签
 
-`知识图谱` `文档解析` · 领域:知识与检索
+ · 领域:知识工程/信息抽取
 
 ## 证据(README 行号)
 
-> L103: |🧠 **11+ Extraction Engines**|chunk_rag (zero-cost baseline), GraphRAG, LightRAG, Hyper-RAG, KG-Gen, and more — re
-> L154: Hyper-Extract uses LangChain structured output with **function calling**. The model must support tool/function cal
+> L9: **Transform documents into structured knowledge with one command.**
+> L74: # Extract knowledge from a document
+> L102: |🔷 **9 Knowledge Structures**|From raw chunk corpora and simple Lists to advanced Graphs, Hypergraphs, and Spatio-
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "yifanfeng97/Hyper-Extract 星数(近 24 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 4161 --> 4265
-    line [4169, 4193, 4196, 4199, 4198, 4199, 4200, 4203, 4207, 4206, 4207, 4198, 4216, 4239, 4241, 4239, 4238, 4239, 4240, 4242, 4243, 4247, 4248, 4257]
+    title "yifanfeng97/Hyper-Extract 星数(近 25 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 4161 --> 4266
+    line [4169, 4193, 4196, 4199, 4198, 4199, 4200, 4203, 4207, 4206, 4207, 4198, 4216, 4239, 4241, 4239, 4238, 4239, 4240, 4242, 4243, 4247, 4248, 4257, 4258]
 ```
 
-2026-10-20 4,169 → 2026-11-22 4,257（+88）
+2026-10-21 4,169 → 2026-11-23 4,258（+89）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `2a179e732432` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `426a81a2411a` · [字段定义](../../DATASET.md)*

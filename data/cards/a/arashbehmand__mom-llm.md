@@ -46,12 +46,12 @@ MoM（Mixture of Models）是一个 Python 3.12+ 的自托管 LLM 网关，兼�
 ```mermaid
 xychart-beta
     title "arashbehmand/mom-llm 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-20 30 → 2026-11-22 30（+0）
+2026-10-21 30 → 2026-11-23 30（+0）
 
 
 ---

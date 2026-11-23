@@ -1,6 +1,6 @@
 # XiaoBinGan/hermes-purge
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/XiaoBinGan/hermes-purge) · [官网](https://github.com/XiaoBinGan/hermes-purge#readme) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/XiaoBinGan/hermes-purge) · [官网](https://github.com/XiaoBinGan/hermes-purge#readme) · 个人维护 · 中文 README
 
 **对 Hermes Agent 做三层安全机制清洗的补丁工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "XiaoBinGan/hermes-purge 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-22"]
+    x-axis ["2026-11-18", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-22 3（+0）
+2026-11-18 3 → 2026-11-23 3（+0）
 
 
 ---

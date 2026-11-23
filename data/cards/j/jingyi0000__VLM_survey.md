@@ -2,9 +2,9 @@
 
 ⭐ 3,132 · 推送 2026-11-16 · [GitHub](https://github.com/jingyi0000/VLM_survey) · 组织维护
 
-**视觉语言模型（VLM）视觉任务综述的配套论文清单**
+**面向科研者系统整理 VLM 视觉任务论文与数据集的清单**
 
-TPAMI 2024 论文《Vision-Language Models for Vision Tasks: A Survey》的配套仓库：按 VLM 预训练、迁移学习、知识蒸馏、合成数据等类别收录论文及代码链接，并整理 VLM 预训练与评测数据集（含图像分类、图文检索、动作识别、目标检测、语义分割）的规模与评测指标表。面向计算机视觉研究者，通过 PR 收录新论文，README 标注最后更新时间并维护 arXiv 版本计划。
+配套 TPAMI 2024 综述论文《Vision-Language Models for Vision Tasks: A Survey》的论文集仓库：按 VLM 与合成数据、预训练方法、迁移学习（提示学习/测试时适配）、知识蒸馏（检测/分割等）分类收录论文条目，每条含论文链接、会议与代码/项目链接；另整理 VLM 预训练与评测数据集表格（图像分类、图文检索、动作识别、目标检测、语义分割）。接受 Pull Request 补充遗漏论文，README 给出贡献格式模板。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ TPAMI 2024 论文《Vision-Language Models for Vision Tasks: A Survey》的配�
 
 ## 能力要点
 
-- 配套 TPAMI 2024 综述论文，系统覆盖 VLM 预训练/迁移学习/知识蒸馏方法
-- 收录论文按会议与主题分类并附代码链接
-- 整理 VLM 预训练与多任务评测数据集表格（规模/语言/指标）
-- 通过 PR 流程持续收录新论文
+- 按预训练/迁移学习/知识蒸馏等类别组织的 VLM 论文清单
+- 收录 VLM 预训练与多任务评测数据集对照表
+- 配套 TPAMI 2024 综述论文并提供引用条目
+- 提供 PR 贡献格式模板，欢迎补充新论文
 
 ## 适用场景
 
-- 查找 VLM 在分类、检测、分割等任务上的方法与代码
-- 了解 VLM 预训练与评测常用数据集及指标
-- 跟进 VLM 与合成数据方向的新论文
+- 查找某类视觉任务可用的 VLM 方法论文与代码
+- 为 VLM 实验挑选预训练或评测数据集
+- 跟踪视觉语言模型领域的最新会议论文
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`科研工具` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: This is the repository of **Vision Language Models for Vision Tasks: a Survey**, a systematic survey of VLM studies 
-> L86: Most visual recognition studies rely heavily on crowd-labelled data in deep neural networks (DNNs) training, and th
+> L19: - b. Add the Title, Paper link, Conference, Project/Code link in `README.md` using the following format:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "jingyi0000/VLM_survey 星数(近 14 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 3127 --> 3136
     line [3128, 3129, 3131, 3132, 3133, 3129, 3132, 3133, 3134, 3135, 3134, 3133, 3132, 3132]
 ```
 
-2026-10-20 3,128 → 2026-11-22 3,132（+4）
+2026-10-21 3,128 → 2026-11-23 3,132（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `840d5f72ad86` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e073cc205724` · [字段定义](../../DATASET.md)*

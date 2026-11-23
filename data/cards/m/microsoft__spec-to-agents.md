@@ -1,6 +1,6 @@
 # microsoft/spec-to-agents
 
-⭐ 115 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/microsoft/spec-to-agents) · [官网](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview) · 组织维护
+⭐ 116 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/microsoft/spec-to-agents) · [官网](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview) · 组织维护
 
 **基于 Microsoft Agent Framework 的多智能体活动策划示例**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/spec-to-agents 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 114 --> 116
-    line [115, 115]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 114 --> 117
+    line [115, 116]
 ```
 
-2026-10-19 115 → 2026-11-22 115（+0）
+2026-10-20 115 → 2026-11-23 116（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # aws-solutions-library-samples/global-capacity-orchestrator-on-aws
 
-⭐ 55 · Python · MIT-0 · 推送 2026-11-21 · [GitHub](https://github.com/aws-solutions-library-samples/global-capacity-orchestrator-on-aws) · [官网](https://aws-solutions-library-samples.github.io/global-capacity-orchestrator-on-aws/) · 组织维护
+⭐ 55 · Python · MIT-0 · 推送 2026-11-22 · [GitHub](https://github.com/aws-solutions-library-samples/global-capacity-orchestrator-on-aws) · [官网](https://aws-solutions-library-samples.github.io/global-capacity-orchestrator-on-aws/) · 组织维护
 
 **AWS 多区域加速算力编排平台：一个 API 调度 GPU 训练与推理**
 
@@ -45,12 +45,12 @@ AWS 官方 Solutions Guidance，将 LLM 训练/推理、批量 ML 与 HPC 工作
 ```mermaid
 xychart-beta
     title "aws-solutions-library-samples/global-capacity-orchestrator-on-aws 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-23"]
     y-axis "stars" 51 --> 56
     line [52, 53, 52, 53, 55, 55]
 ```
 
-2026-10-19 52 → 2026-11-22 55（+3）
+2026-10-20 52 → 2026-11-23 55（+3）
 
 
 ---

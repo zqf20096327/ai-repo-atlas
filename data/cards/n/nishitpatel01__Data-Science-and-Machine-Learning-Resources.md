@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "nishitpatel01/Data-Science-and-Machine-Learning-Resources 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 76 --> 79
     line [77, 78, 78]
 ```
 
-2026-10-20 77 → 2026-11-22 78（+1）
+2026-10-21 77 → 2026-11-23 78（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # pavlovfilmdirector/ComfyUI-VFX-Suite
 
-⭐ 23 · JavaScript · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/pavlovfilmdirector/ComfyUI-VFX-Suite) · 个人维护
+⭐ 24 · JavaScript · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/pavlovfilmdirector/ComfyUI-VFX-Suite) · 个人维护
 
 **ComfyUI 内本地 VFX 工作室：素材进、成片出，全程开源权重模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "pavlovfilmdirector/ComfyUI-VFX-Suite 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 14 --> 24
-    line [15, 21, 22, 23, 23]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 14 --> 25
+    line [15, 21, 22, 23, 24]
 ```
 
-2026-11-08 15 → 2026-11-22 23（+8）
+2026-11-08 15 → 2026-11-23 24（+9）
 
 
 ---

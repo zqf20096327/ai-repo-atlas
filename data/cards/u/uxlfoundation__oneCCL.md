@@ -1,6 +1,6 @@
 # uxlfoundation/oneCCL
 
-⭐ 274 · C++ · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/uxlfoundation/oneCCL) · [官网](https://oneapi-src.github.io/oneCCL) · 组织维护
+⭐ 275 · C++ · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/uxlfoundation/oneCCL) · [官网](https://oneapi-src.github.io/oneCCL) · 组织维护
 
 **面向深度学习的集合通信库，实现高效通信模式**
 
@@ -45,12 +45,12 @@ oneAPI Collective Communications Library (oneCCL) 提供深度学习中常用通
 ```mermaid
 xychart-beta
     title "uxlfoundation/oneCCL 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 270 --> 275
-    line [271, 272, 271, 273, 274, 274]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 270 --> 276
+    line [271, 272, 271, 273, 274, 275]
 ```
 
-2026-10-20 271 → 2026-11-22 274（+3）
+2026-10-21 271 → 2026-11-23 275（+4）
 
 
 ---

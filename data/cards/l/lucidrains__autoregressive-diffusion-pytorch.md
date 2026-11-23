@@ -1,6 +1,6 @@
 # lucidrains/autoregressive-diffusion-pytorch
 
-⭐ 441 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/lucidrains/autoregressive-diffusion-pytorch) · 个人维护
+⭐ 442 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/lucidrains/autoregressive-diffusion-pytorch) · 个人维护
 
 **PyTorch 实现的无向量量化自回归图像生成架构库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/autoregressive-diffusion-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 440 --> 442
-    line [441, 441]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 440 --> 443
+    line [441, 442]
 ```
 
-2026-10-20 441 → 2026-11-22 441（+0）
+2026-10-21 441 → 2026-11-23 442（+1）
 
 
 ---

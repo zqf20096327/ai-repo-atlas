@@ -44,12 +44,12 @@ AI Native Dev 维护的社区策展清单（Landscape）的数据仓库，收录
 ```mermaid
 xychart-beta
     title "AINativeDev/ai-native-dev-landscape 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-20 69 → 2026-11-22 69（+0）
+2026-10-21 69 → 2026-11-23 69（+0）
 
 
 ---

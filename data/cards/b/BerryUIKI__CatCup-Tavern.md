@@ -1,6 +1,6 @@
 # BerryUIKI/CatCup-Tavern
 
-⭐ 7 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/BerryUIKI/CatCup-Tavern) · 个人维护
+⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/BerryUIKI/CatCup-Tavern) · [官网](https://berryuiki.github.io/CatCup-Tavern/) · 个人维护
 
 **面向 SillyTavern 用户的 AI 角色扮演 Web/桌面客户端**
 
@@ -40,6 +40,18 @@ local-first 的 AI 角色扮演客户端，提供 Windows 安装包、浏览器�
 > L8: A **local-first AI roleplay client** with a modern interface, a server-owned generation pipeline and a desktop build
 > L79: **Providers.** OpenAI-compatible (including local servers), OpenRouter, Anthropic and Ollama. API keys live in `dat
 > L87: - **Compatibility is a hard constraint.** Field names, JSONL headers and preset semantics follow SillyTavern, and a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BerryUIKI/CatCup-Tavern 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 6 --> 13
+    line [7, 12]
+```
+
+2026-11-22 7 → 2026-11-23 12（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # virtuehearts/ceti-node
 
-⭐ 15 · Python · 推送 2026-11-19 · [GitHub](https://github.com/virtuehearts/ceti-node) · [官网](ceti.darknet.ca) · 个人维护
+⭐ 19 · Python · 推送 2026-11-19 · [GitHub](https://github.com/virtuehearts/ceti-node) · [官网](ceti.darknet.ca) · 个人维护
 
 **本地 P2P 知识节点：从自有本地存储检索作答，不按 token 计费**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "virtuehearts/ceti-node 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 6 --> 16
-    line [7, 8, 10, 14, 15]
+    title "virtuehearts/ceti-node 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 6 --> 20
+    line [7, 8, 10, 14, 15, 19]
 ```
 
-2026-11-08 7 → 2026-11-22 15（+8）
+2026-11-08 7 → 2026-11-23 19（+12）
 
 
 ---

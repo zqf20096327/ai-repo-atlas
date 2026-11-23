@@ -1,6 +1,6 @@
 # vinsoc-cyber/VulnHunterX
 
-⭐ 17 · Python · LGPL-2.1 · 推送 2026-11-13 · [GitHub](https://github.com/vinsoc-cyber/VulnHunterX) · 组织维护 · 中文 README
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/vinsoc-cyber/VulnHunterX) · 组织维护 · 中文 README
 
 **给安全工程师：静态分析结果配 LLM 多轮验证以甄别误报**
 
@@ -11,7 +11,7 @@ Python 框架，将 CodeQL/Semgrep/OpenGrep 的 SARIF 发现送入多轮 LLM 验
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | LGPL-2.1 |
+| 许可风险 | `viral` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Python 框架，将 CodeQL/Semgrep/OpenGrep 的 SARIF 发现送入多轮 LLM 验
 ```mermaid
 xychart-beta
     title "vinsoc-cyber/VulnHunterX 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 16, 17, 17]
 ```
 
-2026-10-19 15 → 2026-11-22 17（+2）
+2026-10-20 15 → 2026-11-23 17（+2）
 
 
 ---

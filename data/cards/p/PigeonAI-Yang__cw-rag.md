@@ -45,12 +45,12 @@ CW RAG 是供 Codex 使用的本地 Skill：把 MapleStory Classic World 客户�
 ```mermaid
 xychart-beta
     title "PigeonAI-Yang/cw-rag 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-20 3 → 2026-11-22 4（+1）
+2026-10-21 3 → 2026-11-23 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cromford-ai/cromford
 
-⭐ 29 · Shell · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/cromford-ai/cromford) · [官网](https://cromford.dev) · 组织维护
+⭐ 29 · Shell · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cromford-ai/cromford) · [官网](https://cromford.dev) · 组织维护
 
 **无人值守的开源软件工厂：从工单到合并部署全自动**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cromford-ai/cromford 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 22 --> 30
     line [23, 26, 27, 28, 27, 29, 29]
 ```
 
-2026-10-20 23 → 2026-11-22 29（+6）
+2026-10-21 23 → 2026-11-23 29（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # felipebasurto/testectomy
 
-⭐ 15 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/felipebasurto/testectomy) · 个人维护
+⭐ 16 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/felipebasurto/testectomy) · 个人维护
 
 **给 AI agent 用的测试治理技能：修剪低价值测试并沉淀 SPEC.md**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "felipebasurto/testectomy 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 13 --> 16
-    line [14, 15]
+    title "felipebasurto/testectomy 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-11-21 14 → 2026-11-22 15（+1）
+2026-11-21 14 → 2026-11-23 16（+2）
 
 
 ---

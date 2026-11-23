@@ -1,6 +1,6 @@
 # shaxntanu/Turbofan-RUL-Prediction-using-LSTM
 
-⭐ 3 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/shaxntanu/Turbofan-RUL-Prediction-using-LSTM) · [官网](https://turbofan-rul-prediction-using-lstm.vercel.app) · 个人维护
+⭐ 3 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shaxntanu/Turbofan-RUL-Prediction-using-LSTM) · [官网](https://turbofan-rul-prediction-using-lstm.vercel.app) · 个人维护
 
 **基于 NASA C-MAPSS 数据的涡扇发动机 RUL 预测研究项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shaxntanu/Turbofan-RUL-Prediction-using-LSTM 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-22"]
+    x-axis ["2026-10-31", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-31 3 → 2026-11-22 3（+0）
+2026-10-31 3 → 2026-11-23 3（+0）
 
 
 ---

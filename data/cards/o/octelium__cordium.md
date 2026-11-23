@@ -1,6 +1,6 @@
 # octelium/cordium
 
-⭐ 88 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/octelium/cordium) · [官网](https://octelium.com/docs/cordium) · 组织维护
+⭐ 88 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/octelium/cordium) · [官网](https://octelium.com/docs/cordium) · 组织维护
 
 **面向开发者与 AI Agent 的自托管沙箱平台，提供无凭证基础设施访问**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "octelium/cordium 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-23"]
     y-axis "stars" 83 --> 89
     line [84, 85, 86, 87, 88, 88]
 ```
 
-2026-10-20 84 → 2026-11-22 88（+4）
+2026-10-21 84 → 2026-11-23 88（+4）
 
 
 ---

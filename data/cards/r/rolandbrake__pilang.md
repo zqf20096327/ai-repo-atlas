@@ -1,6 +1,6 @@
 # rolandbrake/pilang
 
-⭐ 23 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rolandbrake/pilang) · [官网](https://pi-lang.netlify.app/) · 个人维护
+⭐ 24 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rolandbrake/pilang) · [官网](https://pi-lang.netlify.app/) · 个人维护
 
 **C 实现的数值计算与可视化脚本语言，面向实验型开发者**
 
@@ -46,12 +46,12 @@ Pilang 是用 C 编写的轻量通用脚本语言，定位为数值计算、仿�
 ```mermaid
 xychart-beta
     title "rolandbrake/pilang 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 18 --> 24
-    line [19, 20, 21, 22, 19, 23, 23]
+    x-axis ["2026-10-21", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 21, 22, 19, 23, 24]
 ```
 
-2026-10-20 19 → 2026-11-22 23（+4）
+2026-10-21 19 → 2026-11-23 24（+5）
 
 
 ---

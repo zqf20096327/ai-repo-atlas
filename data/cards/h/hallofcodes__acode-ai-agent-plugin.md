@@ -1,6 +1,6 @@
 # hallofcodes/acode-ai-agent-plugin
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/hallofcodes/acode-ai-agent-plugin) · [官网](https://acode.app/plugin/hallofcodes.rutex.coding_agent) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/hallofcodes/acode-ai-agent-plugin) · [官网](https://acode.app/plugin/hallofcodes.rutex.coding_agent) · 个人维护
 
 **Acode 移动编辑器的自主 AI 编码代理插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hallofcodes/acode-ai-agent-plugin 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 19, 19]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20]
 ```
 
-2026-10-20 18 → 2026-11-22 19（+1）
+2026-10-21 18 → 2026-11-23 20（+2）
 
 
 ---

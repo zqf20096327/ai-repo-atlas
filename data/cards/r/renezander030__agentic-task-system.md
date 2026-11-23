@@ -1,6 +1,6 @@
 # renezander030/agentic-task-system
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/renezander030/agentic-task-system) · [官网](https://www.npmjs.com/package/@reneza/ats-cli) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/renezander030/agentic-task-system) · [官网](https://www.npmjs.com/package/@reneza/ats-cli) · 个人维护
 
 **给 AI agent 的任务上下文层：MCP 服务 + CLI，覆盖 TickTick/Notion/GitHub 等**
 
@@ -45,12 +45,12 @@ MCP server 与 CLI，把 TickTick、Notion、GitHub、Obsidian、Airtable 等既
 ```mermaid
 xychart-beta
     title "renezander030/agentic-task-system 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-18", "2026-11-23"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-20 17 → 2026-11-22 18（+1）
+2026-10-21 17 → 2026-11-23 18（+1）
 
 
 ---

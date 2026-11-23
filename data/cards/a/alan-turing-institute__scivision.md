@@ -1,6 +1,6 @@
 # alan-turing-institute/scivision
 
-⭐ 110 · JavaScript · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/alan-turing-institute/scivision) · [官网](https://alan-turing-institute.github.io/scivision/) · 组织维护
+⭐ 110 · JavaScript · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/alan-turing-institute/scivision) · [官网](https://alan-turing-institute.github.io/scivision/) · 组织维护
 
 **科研图像计算机视觉模型与数据集目录及 Python 加载框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alan-turing-institute/scivision 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 109 --> 111
     line [110, 110]
 ```
 
-2026-10-20 110 → 2026-11-22 110（+0）
+2026-10-21 110 → 2026-11-23 110（+0）
 
 
 ---

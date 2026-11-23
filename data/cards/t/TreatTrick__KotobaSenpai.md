@@ -1,6 +1,6 @@
 # TreatTrick/KotobaSenpai
 
-⭐ 10 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/TreatTrick/KotobaSenpai) · [官网](https://treattrick.github.io/KotobaSenpai/) · 个人维护 · 中文 README
+⭐ 10 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TreatTrick/KotobaSenpai) · [官网](https://treattrick.github.io/KotobaSenpai/) · 个人维护 · 中文 README
 
 **日文 galgame 的 AI 阅读伴侣：注音、音调与译文覆盖显示**
 
@@ -40,6 +40,18 @@
 > L7: An AI reading companion for Japanese visual novels. Furigana, pitch accents, contextual explanations, and sentence t
 > L53: KotobaSenpai uses the surrounding sentence to explain words and meaningful grammar patterns, including expressions 
 > L75: KotobaSenpai is a Windows desktop app built with **.NET 10** and **WPF**. Its focused interface and in-window overl
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TreatTrick/KotobaSenpai 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
 
 
 ---

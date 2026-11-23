@@ -1,6 +1,6 @@
 # Blackcat-Informatics/gmeow-ontology
 
-⭐ 13 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Blackcat-Informatics/gmeow-ontology) · [官网](https://blackcatinformatics.ca/gmeow) · 组织维护
+⭐ 13 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Blackcat-Informatics/gmeow-ontology) · [官网](https://blackcatinformatics.ca/gmeow) · 组织维护
 
 **面向 agent 记忆的溯源声明本体引擎：LLM 输出即声明而非事实**
 
@@ -46,12 +46,12 @@ GMEOW 是一个以 RDF 1.2 为底层的本体引擎与词汇表，把 LLM/RAG �
 ```mermaid
 xychart-beta
     title "Blackcat-Informatics/gmeow-ontology 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 11, 13, 13]
 ```
 
-2026-10-19 11 → 2026-11-22 13（+2）
+2026-10-20 11 → 2026-11-23 13（+2）
 
 
 ---

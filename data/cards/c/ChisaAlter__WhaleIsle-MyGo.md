@@ -1,6 +1,6 @@
 # ChisaAlter/WhaleIsle-MyGo
 
-⭐ 6 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ChisaAlter/WhaleIsle-MyGo) · 个人维护 · 中文 README
+⭐ 6 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ChisaAlter/WhaleIsle-MyGo) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 做成原生桌面客户端的 AI 编码工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChisaAlter/WhaleIsle-MyGo 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-22"]
+    title "ChisaAlter/WhaleIsle-MyGo 星数(近 3 点)"
+    x-axis ["2026-11-11", "2026-11-22", "2026-11-23"]
     y-axis "stars" 4 --> 7
-    line [5, 6]
+    line [5, 6, 6]
 ```
 
-2026-11-11 5 → 2026-11-22 6（+1）
+2026-11-11 5 → 2026-11-23 6（+1）
 
 
 ---

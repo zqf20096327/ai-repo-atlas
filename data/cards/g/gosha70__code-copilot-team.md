@@ -1,6 +1,6 @@
 # gosha70/code-copilot-team
 
-⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gosha70/code-copilot-team) · [官网](https://gosha70.github.io/code-copilot-team/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gosha70/code-copilot-team) · [官网](https://gosha70.github.io/code-copilot-team/) · 个人维护
 
 **给开发者提供多 agent 编码规则与安全护栏的统一 harness**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gosha70/code-copilot-team 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-13 10 → 2026-11-22 10（+0）
+2026-11-13 10 → 2026-11-23 10（+0）
 
 
 ---

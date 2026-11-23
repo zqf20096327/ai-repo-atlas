@@ -1,6 +1,6 @@
 # Nurysso/eulix
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Nurysso/eulix) · [官网](https://nurysso.github.io/eulix-site/) · 个人维护
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Nurysso/eulix) · [官网](https://nurysso.github.io/eulix-site/) · 个人维护
 
 **本地优先的大型代码库索引与检索工具：符号、调用图、可选 LLM 问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Nurysso/eulix 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-23"]
     y-axis "stars" 20 --> 23
     line [21, 22, 21, 22, 22]
 ```
 
-2026-10-19 21 → 2026-11-22 22（+1）
+2026-10-20 21 → 2026-11-23 22（+1）
 
 
 ---

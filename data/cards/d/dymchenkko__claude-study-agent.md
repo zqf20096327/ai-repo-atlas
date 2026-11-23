@@ -1,6 +1,6 @@
 # dymchenkko/claude-study-agent
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dymchenkko/claude-study-agent) · [官网](https://dymchenkko.github.io/claude-study-agent/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dymchenkko/claude-study-agent) · [官网](https://dymchenkko.github.io/claude-study-agent/) · 个人维护
 
 **大学生的考试复习 AI 私教：用自己的课件教学并安排复习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dymchenkko/claude-study-agent 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-22"]
+    x-axis ["2026-11-11", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-22 3（+0）
+2026-11-11 3 → 2026-11-23 3（+0）
 
 
 ---

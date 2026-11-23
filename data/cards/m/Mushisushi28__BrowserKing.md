@@ -1,6 +1,6 @@
 # Mushisushi28/BrowserKing
 
-⭐ 31 · JavaScript · 推送 2026-03-18 · [GitHub](https://github.com/Mushisushi28/BrowserKing) · 个人维护
+⭐ 32 · JavaScript · 推送 2026-03-18 · [GitHub](https://github.com/Mushisushi28/BrowserKing) · 个人维护
 
 **多模型浏览器 agent Chrome 扩展：用任意 LLM 控制浏览器操作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mushisushi28/BrowserKing 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-20 31 → 2026-11-22 31（+0）
+2026-10-21 31 → 2026-11-23 32（+1）
 
 
 ---

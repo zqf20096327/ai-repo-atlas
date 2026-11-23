@@ -1,6 +1,6 @@
 # pengcong2020520/learn-codex-harness
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/pengcong2020520/learn-codex-harness) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pengcong2020520/learn-codex-harness) · 个人维护 · 中文 README
 
 **开发者用 Codex harness 逐步搭建云端 Agent 的 19 章教程与脚手架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pengcong2020520/learn-codex-harness 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    title "pengcong2020520/learn-codex-harness 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-20 3 → 2026-11-22 4（+1）
+2026-11-20 3 → 2026-11-23 4（+1）
 
 
 ---

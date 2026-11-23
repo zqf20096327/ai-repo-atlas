@@ -42,12 +42,12 @@ Harrison Kinsley 与 Daniel Kukiela 所著《Neural Networks From Scratch》一�
 ```mermaid
 xychart-beta
     title "JohnMachado11/Neural-Networks-from-Scratch-in-Python 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 51 --> 54
     line [52, 53, 53]
 ```
 
-2026-10-20 52 → 2026-11-22 53（+1）
+2026-10-21 52 → 2026-11-23 53（+1）
 
 
 ---

@@ -45,12 +45,12 @@ PyTorch 实现的 SwarmFormer 架构，用于英文文本分类（情感分析�
 ```mermaid
 xychart-beta
     title "takara-ai/SwarmFormer 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-20 16 → 2026-11-22 16（+0）
+2026-10-21 16 → 2026-11-23 16（+0）
 
 
 ---

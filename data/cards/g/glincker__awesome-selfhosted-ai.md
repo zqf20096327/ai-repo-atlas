@@ -1,6 +1,6 @@
 # glincker/awesome-selfhosted-ai
 
-⭐ 133 · JavaScript · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/glincker/awesome-selfhosted-ai) · [官网](https://github.com/glincker/awesome-selfhosted-ai/blob/main/LIVE.md) · 个人维护
+⭐ 134 · JavaScript · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/glincker/awesome-selfhosted-ai) · [官网](https://github.com/glincker/awesome-selfhosted-ai/blob/main/LIVE.md) · 个人维护
 
 **自托管开源 AI 项目策展清单（303 个，按周健康检查）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "glincker/awesome-selfhosted-ai 星数(近 14 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 34 --> 142
-    line [43, 66, 116, 118, 120, 124, 125, 124, 125, 126, 127, 129, 132, 133]
+    title "glincker/awesome-selfhosted-ai 星数(近 15 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 34 --> 143
+    line [43, 66, 116, 118, 120, 124, 125, 124, 125, 126, 127, 129, 132, 133, 134]
 ```
 
-2026-11-01 43 → 2026-11-22 133（+90）
+2026-11-01 43 → 2026-11-23 134（+91）
 
 
 ---

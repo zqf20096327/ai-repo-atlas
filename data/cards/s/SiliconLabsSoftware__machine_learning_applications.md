@@ -45,12 +45,12 @@ Silicon Labs 维护的嵌入式机器学习应用集合，按用例类别组织�
 ```mermaid
 xychart-beta
     title "SiliconLabsSoftware/machine_learning_applications 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-23"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-20 12 → 2026-11-22 13（+1）
+2026-10-21 12 → 2026-11-23 13（+1）
 
 
 ---

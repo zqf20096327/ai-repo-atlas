@@ -1,6 +1,6 @@
 # Hariketsu/bilidude
 
-⭐ 4 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Hariketsu/bilidude) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Hariketsu/bilidude) · 个人维护 · 中文 README
 
 **Chrome 侧边栏扩展：用自己的大模型总结和提问 B 站视频**
 
@@ -45,12 +45,12 @@ BiliDude 是一个 Chrome 扩展，读取当前 B 站视频的字幕并发给用
 ```mermaid
 xychart-beta
     title "Hariketsu/bilidude 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-02", "2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-02 3 → 2026-11-22 4（+1）
+2026-11-02 3 → 2026-11-23 4（+1）
 
 
 ---

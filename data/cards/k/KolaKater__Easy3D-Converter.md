@@ -1,6 +1,6 @@
 # KolaKater/Easy3D-Converter
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/KolaKater/Easy3D-Converter) · [官网](https://www.facebook.com/search/top?q=3d%20stereo%20lover) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/KolaKater/Easy3D-Converter) · [官网](https://www.facebook.com/search/top?q=3d%20stereo%20lover) · 个人维护 · 中文 README
 
 **把单张图片/视频转为 SBS 立体 3D 的 GPU 工具**
 
@@ -46,12 +46,12 @@ Easy3D Converter 是一个免费开源的 2D 转 SBS 立体 3D 生成工具，�
 ```mermaid
 xychart-beta
     title "KolaKater/Easy3D-Converter 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-22 3（+0）
+2026-11-20 3 → 2026-11-23 3（+0）
 
 
 ---

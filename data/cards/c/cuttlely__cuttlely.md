@@ -1,6 +1,6 @@
 # cuttlely/cuttlely
 
-⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/cuttlely/cuttlely) · [官网](https://cuttlely.com) · 组织维护
+⭐ 8 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cuttlely/cuttlely) · [官网](https://cuttlely.com) · 组织维护
 
 **自托管可视化编排 AI agent 团队的平台**
 
@@ -45,12 +45,12 @@ Cuttlely 以可视化方式构建 AI agent 团队（harness）：lead agent（Ha
 ```mermaid
 xychart-beta
     title "cuttlely/cuttlely 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-23"]
     y-axis "stars" 2 --> 9
     line [3, 4, 5, 6, 7, 4, 7, 8, 8]
 ```
 
-2026-10-20 3 → 2026-11-22 8（+5）
+2026-10-21 3 → 2026-11-23 8（+5）
 
 
 ---

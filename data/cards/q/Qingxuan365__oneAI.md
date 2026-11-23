@@ -1,6 +1,6 @@
 # Qingxuan365/oneAI
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Qingxuan365/oneAI) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Qingxuan365/oneAI) · 个人维护 · 中文 README
 
 **在单一桌面窗口并排运行多个 AI 编码 CLI 的工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Qingxuan365/oneAI 星数(近 6 点)"
-    x-axis ["2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 15
-    line [3, 6, 8, 9, 13, 14]
+    title "Qingxuan365/oneAI 星数(近 7 点)"
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 16
+    line [3, 6, 8, 9, 13, 14, 15]
 ```
 
-2026-11-15 3 → 2026-11-22 14（+11）
+2026-11-15 3 → 2026-11-23 15（+12）
 
 
 ---

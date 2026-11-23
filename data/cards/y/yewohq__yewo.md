@@ -1,6 +1,6 @@
 # yewohq/yewo
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/yewohq/yewo) · [官网](https://tryyewo.dev) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/yewohq/yewo) · [官网](https://tryyewo.dev) · 个人维护
 
 **AI 驱动的 Android/iOS 端到端测试 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yewohq/yewo 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 5 --> 10
-    line [6, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 5 --> 11
+    line [6, 8, 9, 10]
 ```
 
-2026-11-08 6 → 2026-11-22 9（+3）
+2026-11-08 6 → 2026-11-23 10（+4）
 
 
 ---

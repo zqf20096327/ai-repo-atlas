@@ -41,6 +41,18 @@ Windows 桌面应用，把物体照片转成 3D 模型并编辑已有模型：3D
 > L7: **No NVIDIA GPU needed.** Modelado runs its models through DirectML, so any DirectX 12 graphics
 > L31: |**3D Object**|U²-Net (cut-out) → TripoSR (encoder + decoder) → marching cubes|A closed mesh with front, sides and 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alegauss/modelado 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `9a0bcf82c030` · [字段定义](../../DATASET.md)*

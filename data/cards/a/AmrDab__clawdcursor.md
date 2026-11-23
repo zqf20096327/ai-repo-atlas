@@ -1,6 +1,6 @@
 # AmrDab/clawdcursor
 
-⭐ 407 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/AmrDab/clawdcursor) · [官网](https://clawdcursor.com) · 个人维护
+⭐ 408 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AmrDab/clawdcursor) · [官网](https://clawdcursor.com) · 个人维护
 
 **本地 MCP 服务器：让任意 AI agent 安全控制桌面 GUI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmrDab/clawdcursor 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-22"]
+    title "AmrDab/clawdcursor 星数(近 8 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-22", "2026-11-23"]
     y-axis "stars" 404 --> 409
-    line [405, 406, 407, 408, 407, 406, 407]
+    line [405, 406, 407, 408, 407, 406, 407, 408]
 ```
 
-2026-10-20 405 → 2026-11-22 407（+2）
+2026-10-21 405 → 2026-11-23 408（+3）
 
 
 ---

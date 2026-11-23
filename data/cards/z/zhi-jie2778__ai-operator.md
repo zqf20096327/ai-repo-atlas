@@ -1,6 +1,6 @@
 # zhi-jie2778/ai-operator
 
-⭐ 3 · 推送 2026-11-02 · [GitHub](https://github.com/zhi-jie2778/ai-operator) · [官网](https://v.douyin.com/TvPY5BB35k8/) · 个人维护 · 中文 README
+⭐ 4 · 推送 2026-11-02 · [GitHub](https://github.com/zhi-jie2778/ai-operator) · [官网](https://v.douyin.com/TvPY5BB35k8/) · 个人维护 · 中文 README
 
 **用视觉模型替人操作 PC 游戏键鼠的 Windows 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhi-jie2778/ai-operator 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-08 3 → 2026-11-22 3（+0）
+2026-11-08 3 → 2026-11-23 4（+1）
 
 
 ---

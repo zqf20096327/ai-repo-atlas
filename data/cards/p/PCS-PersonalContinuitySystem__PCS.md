@@ -1,6 +1,6 @@
 # PCS-PersonalContinuitySystem/PCS
 
-⭐ 17 · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/PCS-PersonalContinuitySystem/PCS) · [官网](https://pcs-personalcontinuitysystem.github.io/PCS-site/) · 个人维护
+⭐ 18 · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/PCS-PersonalContinuitySystem/PCS) · [官网](https://pcs-personalcontinuitysystem.github.io/PCS-site/) · 个人维护
 
 **个人拥有的 AI 连续性工作区：跨模型保留记忆与笔记**
 
@@ -45,13 +45,13 @@ PCS 是一款 Windows 桌面应用，把 AI 对话、可修订记忆、阅读材
 
 ```mermaid
 xychart-beta
-    title "PCS-PersonalContinuitySystem/PCS 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3 --> 18
-    line [4, 7, 6, 8, 11, 10, 8, 10, 14, 16, 17]
+    title "PCS-PersonalContinuitySystem/PCS 星数(近 12 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 19
+    line [4, 7, 6, 8, 11, 10, 8, 10, 14, 16, 17, 18]
 ```
 
-2026-10-20 4 → 2026-11-22 17（+13）
+2026-10-21 4 → 2026-11-23 18（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # Core-Mate/Pixel-Perfect-Web-Replica
 
-⭐ 15 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/Core-Mate/Pixel-Perfect-Web-Replica) · [官网](https://github.com/Core-Mate/Pixel-Perfect-Web-Replica) · 组织维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/Core-Mate/Pixel-Perfect-Web-Replica) · [官网](https://github.com/Core-Mate/Pixel-Perfect-Web-Replica) · 组织维护 · 中文 README
 
 **让 Codex/Claude Code 把公开网页复刻为本地像素级副本的 AI 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Core-Mate/Pixel-Perfect-Web-Replica 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 12, 13, 14, 11, 14, 15, 15]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-23"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 12, 13, 14, 11, 14, 15, 16]
 ```
 
-2026-10-20 10 → 2026-11-22 15（+5）
+2026-10-21 10 → 2026-11-23 16（+6）
 
 
 ---

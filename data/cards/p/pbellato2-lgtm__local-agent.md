@@ -1,6 +1,6 @@
 # pbellato2-lgtm/local-agent
 
-⭐ 7 · JavaScript · 推送 2026-11-11 · [GitHub](https://github.com/pbellato2-lgtm/local-agent) · 个人维护
+⭐ 8 · JavaScript · 推送 2026-11-11 · [GitHub](https://github.com/pbellato2-lgtm/local-agent) · 个人维护
 
 **Windows 本地 AI Agent 桌面客户端，直连所选 AI 提供商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pbellato2-lgtm/local-agent 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7, 7]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 6, 7, 8]
 ```
 
-2026-11-12 4 → 2026-11-22 7（+3）
+2026-11-12 4 → 2026-11-23 8（+4）
 
 
 ---

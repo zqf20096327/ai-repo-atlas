@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/JavaScript-AI-Buildathon 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 123 --> 125
     line [124, 124]
 ```
 
-2026-10-20 124 → 2026-11-22 124（+0）
+2026-10-21 124 → 2026-11-23 124（+0）
 
 
 ---

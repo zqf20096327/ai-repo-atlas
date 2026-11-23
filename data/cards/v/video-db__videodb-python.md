@@ -1,6 +1,6 @@
 # video-db/videodb-python
 
-⭐ 118 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/video-db/videodb-python) · [官网](https://pypi.org/project/videodb) · 组织维护
+⭐ 118 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/video-db/videodb-python) · [官网](https://pypi.org/project/videodb) · 组织维护
 
 **VideoDB 云视频基础设施的 Python SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "video-db/videodb-python 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 112 --> 119
     line [113, 114, 115, 116, 115, 117, 118, 118]
 ```
 
-2026-10-20 113 → 2026-11-22 118（+5）
+2026-10-21 113 → 2026-11-23 118（+5）
 
 
 ---

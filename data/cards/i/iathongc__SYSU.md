@@ -1,6 +1,6 @@
 # iathongc/SYSU
 
-⭐ 49 · C++ · 推送 2026-02-25 · [GitHub](https://github.com/iathongc/SYSU) · 个人维护 · 中文 README
+⭐ 50 · C++ · 推送 2026-02-25 · [GitHub](https://github.com/iathongc/SYSU) · 个人维护 · 中文 README
 
 **中山大学信计专业本科课程资料整理合集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "iathongc/SYSU 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-12", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    x-axis ["2026-10-21", "2026-11-12", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 46 --> 51
+    line [47, 48, 49, 50]
 ```
 
-2026-10-20 47 → 2026-11-22 49（+2）
+2026-10-21 47 → 2026-11-23 50（+3）
 
 
 ---

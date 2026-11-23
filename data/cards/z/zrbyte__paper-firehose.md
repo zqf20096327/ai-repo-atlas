@@ -1,6 +1,6 @@
 # zrbyte/paper-firehose
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/zrbyte/paper-firehose) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zrbyte/paper-firehose) · 个人维护
 
 **科研小组的论文追踪工具：RSS 过滤排名并生成 LLM 摘要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zrbyte/paper-firehose 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-22"]
+    x-axis ["2026-11-15", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-15 10 → 2026-11-22 10（+0）
+2026-11-15 10 → 2026-11-23 10（+0）
 
 
 ---

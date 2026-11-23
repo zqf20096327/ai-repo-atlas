@@ -45,12 +45,12 @@ V-CARA 是基于 Soft Actor-Critic 的视觉强化学习智能体，面向 CarRa
 ```mermaid
 xychart-beta
     title "nishantsirohi23/vcara 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-20 3 → 2026-11-22 3（+0）
+2026-10-21 3 → 2026-11-23 3（+0）
 
 
 ---

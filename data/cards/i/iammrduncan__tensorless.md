@@ -1,6 +1,6 @@
 # iammrduncan/tensorless
 
-⭐ 3 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/iammrduncan/tensorless) · [官网](https://tensorless.dev) · 个人维护
+⭐ 4 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/iammrduncan/tensorless) · [官网](https://tensorless.dev) · 个人维护
 
 **面向 Tesla P100 显卡的一命令量化 LLM 推理引擎**
 
@@ -40,6 +40,18 @@
 > L13: Custom engine + quant inference for P100s. A ~$100 GPU card, and we will make it fly.
 > L21: The first target is the NVIDIA Tesla P100 (16 GB, sm_60), running Qwen3.8-27B-PN3: a 3-bit quantization of Qwen3.8-
 > L65: - **Engine** (`engine/`): the inference engine source, a llama.cpp fork, published at each release.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iammrduncan/tensorless 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

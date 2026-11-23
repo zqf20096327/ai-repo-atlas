@@ -1,6 +1,6 @@
 # yw0nam/YUI
 
-⭐ 22 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/yw0nam/YUI) · [官网](https://yw0nam.github.io/YUI/) · 个人维护
+⭐ 22 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/yw0nam/YUI) · [官网](https://yw0nam.github.io/YUI/) · 个人维护
 
 **桌面 VRM 陪伴角色：为任意 OpenAI 兼容后端提供形象、语音与桌面存在感**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yw0nam/YUI 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22"]
+    title "yw0nam/YUI 星数(近 8 点)"
+    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-23"]
     y-axis "stars" 15 --> 23
-    line [16, 17, 16, 19, 20, 21, 22]
+    line [16, 17, 16, 19, 20, 21, 22, 22]
 ```
 
-2026-10-19 16 → 2026-11-22 22（+6）
+2026-10-20 16 → 2026-11-23 22（+6）
 
 
 ---

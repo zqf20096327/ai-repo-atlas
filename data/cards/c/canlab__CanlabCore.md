@@ -1,6 +1,6 @@
 # canlab/CanlabCore
 
-⭐ 173 · MATLAB · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/canlab/CanlabCore) · [官网](https://canlab.github.io/CanlabCore/) · 组织维护
+⭐ 173 · MATLAB · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/canlab/CanlabCore) · [官网](https://canlab.github.io/CanlabCore/) · 组织维护
 
 **MATLAB 神经影像（fMRI/PET）分析核心工具箱**
 
@@ -45,12 +45,12 @@ Canlab 认知与情感神经科学实验室（Tor Wager 组）维护的 MATLAB �
 ```mermaid
 xychart-beta
     title "canlab/CanlabCore 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 170 --> 174
     line [171, 172, 171, 173, 173]
 ```
 
-2026-10-20 171 → 2026-11-22 173（+2）
+2026-10-21 171 → 2026-11-23 173（+2）
 
 
 ---

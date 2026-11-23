@@ -1,10 +1,10 @@
 # brightdata/brightdata-mcp
 
-⭐ 2,733 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
+⭐ 2,733 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
 
-**为 AI 代理提供公开网络访问的 MCP 服务器（32 个工具）**
+**给 AI agent 提供网页搜索、抓取与浏览器自动化的 MCP 服务器**
 
-Bright Data 公司维护的 MCP 服务器，向 AI 代理和 LLM 提供实时公开网络数据访问：网页搜索（Google/Bing/Yandex）、页面抓取为 Markdown/HTML、1,200+ 预建结构化抓取器（Amazon、LinkedIn、TikTok、npm、PyPI 等）、14 个远程浏览器自动化工具，以及收集 ChatGPT/Perplexity 回答的工具。所有请求经 Bright Data 反封锁基础设施处理（验证码、代理轮换）。支持托管远程服务器（一个 URL）或本地 npx 运行，每月 5,000 次免费请求，超出按量计费。
+Bright Data 的 MCP 服务器，向 AI agent 与 LLM 客户端暴露 30 个工具：网页搜索（Bing/Google）、任意 URL 转 Markdown/HTML/JSON-LD、1,200+ 预构建爬虫的结构化 JSON 输出、远程浏览器自动化（导航/点击/截图），以及向 ChatGPT/Perplexity 发送提示并取回回答文本。提供托管远程服务器（一个 URL）与本地 npx 实例两种部署方式。每账号含每月 5,000 次免费请求，超出后按量计费；工具可按分组加载以减少上下文占用。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@ Bright Data 公司维护的 MCP 服务器，向 AI 代理和 LLM 提供实时公
 
 ## 能力要点
 
-- 32 个工具：搜索、抓取、结构化提取、浏览器自动化、LLM 回答收集
-- 1,200+ 预建抓取器输出结构化 JSON，无需解析 HTML
-- 每次请求内置反爬处理（验证码、代理轮换、地理定位）
-- 托管远程服务器或本地 npx 两种部署方式，工具可按组裁剪
+- 30 个 MCP 工具覆盖搜索、抓取、结构化数据与浏览器自动化
+- 1,200+ 预构建爬虫（Amazon、LinkedIn、TikTok、npm、PyPI 等）输出 JSON
+- 托管远程服务器与本地 npx 两种部署方式
+- 工具分组机制（GROUPS/TOOLS）控制加载范围以减少上下文
 
 ## 适用场景
 
-- 让 AI 代理查询实时网络信息替代训练数据
-- 抓取电商、社交媒体等受保护站点的结构化数据
-- 编程代理按需查询 npm/PyPI 包信息
-- 对比不同 LLM 如何描述品牌以做生成引擎优化
+- 让 agent 用实时网页数据回答问题而非依赖训练数据
+- 批量采集电商产品的价格、库存与评论数据
+- 为编码 agent 按需获取 npm/PyPI 包与 GitHub 仓库信息
+- 监控社交媒体平台上账号与内容的互动指标
 
 ## 场景标签
 
-`浏览器自动化` `网页抓取` · 领域:效率与自动化
+`网页抓取` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L7:  Web search, page scraping, structured data extraction, and browser automation for AI agents and LLMs over the Model
-> L26: The Bright Data MCP server gives AI agents real-time access to public web data. It exposes **32 tools** covering:
-> L36: Two deployment options: a hosted remote server (one URL, no installation) or a local instance via `npx @brightdata/
+> L26: The Bright Data MCP server gives AI agents real-time access to public web data. It exposes **30 tools** covering:
+> L34: Two deployment options: a hosted remote server (one URL, no installation) or a local instance via `npx @brightdata/
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "brightdata/brightdata-mcp 星数(近 23 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
+    title "brightdata/brightdata-mcp 星数(近 24 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2680 --> 2737
-    line [2684, 2685, 2686, 2687, 2691, 2693, 2695, 2696, 2698, 2703, 2686, 2715, 2718, 2722, 2724, 2726, 2727, 2729, 2728, 2730, 2733, 2732, 2733]
+    line [2684, 2685, 2686, 2687, 2691, 2693, 2695, 2696, 2698, 2703, 2686, 2715, 2718, 2722, 2724, 2726, 2727, 2729, 2728, 2730, 2733, 2732, 2733, 2733]
 ```
 
-2026-10-19 2,684 → 2026-11-22 2,733（+49）
+2026-10-20 2,684 → 2026-11-23 2,733（+49）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `68da7d26f734` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `1d16cd930dc5` · [字段定义](../../DATASET.md)*

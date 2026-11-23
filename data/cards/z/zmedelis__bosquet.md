@@ -1,6 +1,6 @@
 # zmedelis/bosquet
 
-⭐ 380 · Clojure · EPL-1.0 · 推送 2026-09-30 · [GitHub](https://github.com/zmedelis/bosquet) · [官网](https://zmedelis.github.io/bosquet/) · 个人维护
+⭐ 379 · Clojure · EPL-1.0 · 推送 2026-09-30 · [GitHub](https://github.com/zmedelis/bosquet) · [官网](https://zmedelis.github.io/bosquet/) · 个人维护
 
 **Clojure 的 LLM 应用构建工具库：提示模板、Agent 与记忆管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zmedelis/bosquet 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 378 --> 382
-    line [381, 380, 381, 379, 380, 380]
+    line [381, 380, 381, 379, 380, 379]
 ```
 
-2026-10-20 381 → 2026-11-22 380（-1）
+2026-10-21 381 → 2026-11-23 379（-2）
 
 
 ---

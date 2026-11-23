@@ -46,12 +46,12 @@ TypeScript 编写的 AI 产品基础组件：通过 @core/models 提供统一 pr
 ```mermaid
 xychart-beta
     title "Cognitive-Interface-Lab/core 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-22 3 → 2026-11-22 3（+0）
+2026-10-22 3 → 2026-11-23 3（+0）
 
 
 ---

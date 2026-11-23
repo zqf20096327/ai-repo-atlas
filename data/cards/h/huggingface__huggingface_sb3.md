@@ -45,12 +45,12 @@ Hugging Face 官方维护的 Stable-Baselines3 扩展库：从 Hub 下载训练�
 ```mermaid
 xychart-beta
     title "huggingface/huggingface_sb3 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 98 --> 100
     line [99, 99]
 ```
 
-2026-10-20 99 → 2026-11-22 99（+0）
+2026-10-21 99 → 2026-11-23 99（+0）
 
 
 ---

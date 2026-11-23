@@ -44,12 +44,12 @@ UiPath 官方 Python SDK，作为 UiPath Python SDK 的扩展，实现 UiPath Ru
 ```mermaid
 xychart-beta
     title "UiPath/uipath-langchain-python 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-20 74 → 2026-11-22 74（+0）
+2026-10-21 74 → 2026-11-23 74（+0）
 
 
 ---

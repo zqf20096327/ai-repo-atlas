@@ -1,6 +1,6 @@
 # nosterdream/hard-hat-detection
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nosterdream/hard-hat-detection) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nosterdream/hard-hat-detection) · 个人维护
 
 **检测图像/视频中人员是否佩戴安全帽的 YOLOv8 模型**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "nosterdream/hard-hat-detection 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-23"]
     y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    line [17, 18, 17]
 ```
 
-2026-10-20 17 → 2026-11-22 18（+1）
+2026-10-21 17 → 2026-11-23 17（+0）
 
 
 ---

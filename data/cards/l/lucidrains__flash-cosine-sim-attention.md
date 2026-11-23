@@ -46,12 +46,12 @@ lucidrains 维护的 PyTorch 库，以 Flash Attention 风格实现融合的余�
 ```mermaid
 xychart-beta
     title "lucidrains/flash-cosine-sim-attention 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 220 --> 222
     line [221, 221]
 ```
 
-2026-10-20 221 → 2026-11-22 221（+0）
+2026-10-21 221 → 2026-11-23 221（+0）
 
 
 ---

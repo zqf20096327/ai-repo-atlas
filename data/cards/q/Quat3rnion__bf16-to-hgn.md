@@ -1,6 +1,6 @@
 # Quat3rnion/bf16-to-hgn
 
-⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/Quat3rnion/bf16-to-hgn) · 个人维护
+⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/Quat3rnion/bf16-to-hgn) · 个人维护
 
 **面向 Qwen3.8 Flash-Next 权重的 Rust 格式转换 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Quat3rnion/bf16-to-hgn 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6, 6]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 3 --> 8
+    line [4, 5, 6, 7]
 ```
 
-2026-10-22 4 → 2026-11-22 6（+2）
+2026-10-22 4 → 2026-11-23 7（+3）
 
 
 ---

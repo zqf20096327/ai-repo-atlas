@@ -1,6 +1,6 @@
 # raistlinsha-plus/inkstone
 
-⭐ 7 · HTML · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/raistlinsha-plus/inkstone) · [官网](https://raistlinsha-plus.github.io/inkstone/) · 个人维护 · 中文 README
+⭐ 7 · HTML · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/raistlinsha-plus/inkstone) · [官网](https://raistlinsha-plus.github.io/inkstone/) · 个人维护 · 中文 README
 
 **面向 macOS 用户的本地优先 Markdown 工作台，支持带引用的文档问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "raistlinsha-plus/inkstone 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 8
     line [3, 5, 7, 7]
 ```
 
-2026-11-19 3 → 2026-11-22 7（+4）
+2026-11-19 3 → 2026-11-23 7（+4）
 
 
 ---

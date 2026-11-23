@@ -1,6 +1,6 @@
 # openmed-labs/openmed-agent
 
-⭐ 36 · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/openmed-labs/openmed-agent) · [官网](http://agent.openmed.life/) · 组织维护
+⭐ 37 · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/openmed-labs/openmed-agent) · [官网](http://agent.openmed.life/) · 组织维护
 
 **面向临床工作流的终端 AI agent：预授权、编码审计与文档**
 
@@ -46,12 +46,12 @@ OpenMed Agent 是运行在终端的临床工作流 agent，供临床医生、医
 ```mermaid
 xychart-beta
     title "openmed-labs/openmed-agent 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 33 --> 37
-    line [35, 34, 35, 34, 36, 36]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 33 --> 38
+    line [35, 34, 35, 34, 36, 37]
 ```
 
-2026-10-20 35 → 2026-11-22 36（+1）
+2026-10-21 35 → 2026-11-23 37（+2）
 
 
 ---

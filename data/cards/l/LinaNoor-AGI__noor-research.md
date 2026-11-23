@@ -45,12 +45,12 @@ Noor Research Collective 的元项目仓库，收录支撑 Noor 认知体系的�
 ```mermaid
 xychart-beta
     title "LinaNoor-AGI/noor-research 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-20 15 → 2026-11-22 15（+0）
+2026-10-21 15 → 2026-11-23 15（+0）
 
 
 ---

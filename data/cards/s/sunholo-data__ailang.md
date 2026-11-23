@@ -1,6 +1,6 @@
 # sunholo-data/ailang
 
-⭐ 38 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/sunholo-data/ailang) · [官网](http://ailang.sunholo.com/) · 组织维护
+⭐ 38 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sunholo-data/ailang) · [官网](http://ailang.sunholo.com/) · 组织维护
 
 **面向 AI 编码代理的确定性纯函数式编程语言及 CLI**
 
@@ -46,12 +46,12 @@ AILANG 是一门纯函数式、带效果类型系统的编程语言，定位为 
 ```mermaid
 xychart-beta
     title "sunholo-data/ailang 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 34 --> 39
     line [35, 36, 37, 35, 38, 38]
 ```
 
-2026-10-20 35 → 2026-11-22 38（+3）
+2026-10-21 35 → 2026-11-23 38（+3）
 
 
 ---

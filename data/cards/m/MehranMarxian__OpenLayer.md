@@ -1,6 +1,6 @@
 # MehranMarxian/OpenLayer
 
-⭐ 57 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/MehranMarxian/OpenLayer) · [官网](https://mehran-ahmadi.com/OpenLayer/) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MehranMarxian/OpenLayer) · [官网](https://mehran-ahmadi.com/OpenLayer/) · 个人维护
 
 **面向 Photoshop 的 ComfyUI 插件：本地生成 AI 图层并返回可编辑图层**
 
@@ -44,13 +44,13 @@ Adobe UXP 面板，嵌入 Photoshop 后连接本地 ComfyUI 服务器，提供 1
 
 ```mermaid
 xychart-beta
-    title "MehranMarxian/OpenLayer 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-22"]
+    title "MehranMarxian/OpenLayer 星数(近 14 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 40 --> 58
-    line [41, 42, 43, 44, 45, 43, 48, 50, 51, 52, 54, 55, 57]
+    line [41, 42, 43, 44, 45, 43, 48, 50, 51, 52, 54, 55, 57, 57]
 ```
 
-2026-10-20 41 → 2026-11-22 57（+16）
+2026-10-21 41 → 2026-11-23 57（+16）
 
 
 ---

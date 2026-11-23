@@ -1,6 +1,6 @@
 # IsaacEryn/humanizer-ko
 
-⭐ 48 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/IsaacEryn/humanizer-ko) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/IsaacEryn/humanizer-ko) · 个人维护
 
 **去除韩语文本中 AI 写作痕迹的 Claude Code 代理技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IsaacEryn/humanizer-ko 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 31 --> 49
-    line [32, 40, 48, 48]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 31 --> 50
+    line [32, 40, 48, 49]
 ```
 
-2026-11-18 32 → 2026-11-22 48（+16）
+2026-11-18 32 → 2026-11-23 49（+17）
 
 
 ---

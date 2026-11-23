@@ -1,6 +1,6 @@
 # harryopo/tdsf-terminal-agent
 
-⭐ 92 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/harryopo/tdsf-terminal-agent) · [官网](https://harryopo.github.io/tdsf-terminal-agent/) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/harryopo/tdsf-terminal-agent) · [官网](https://harryopo.github.io/tdsf-terminal-agent/) · 个人维护 · 中文 README
 
 **终端优先的 Linux AI 运维工作台，Agent 在真实 shell 中执行并逐步审批**
 
@@ -47,12 +47,12 @@ Tauri 2 桌面应用，面向 Linux 运维人员与学习者：本地 PTY、WSL�
 ```mermaid
 xychart-beta
     title "harryopo/tdsf-terminal-agent 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-21", "2026-11-23"]
     y-axis "stars" 89 --> 100
     line [99, 98, 90, 91, 92, 92]
 ```
 
-2026-10-20 99 → 2026-11-22 92（-7）
+2026-10-21 99 → 2026-11-23 92（-7）
 
 
 ---

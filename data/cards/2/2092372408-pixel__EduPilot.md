@@ -1,6 +1,6 @@
 # 2092372408-pixel/EduPilot
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/2092372408-pixel/EduPilot) · [官网](https://github.com/2092372408-pixel/EduPilot/releases/latest) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/2092372408-pixel/EduPilot) · [官网](https://github.com/2092372408-pixel/EduPilot/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的教材 AI 成课与复习学习工作台**
 
@@ -41,6 +41,18 @@
 > L11: EduPilot 是运行在自己电脑上的 AI 学习工作台。导入教材，跟随章节预习、学习与复习；通过代码练习检验理解，用个人知识图谱整理所学。课程、对话和学习记录保存在本机，AI 讲解与问答接入你选择的模型服务。
 > L29: 导入中英文 PDF、Word、PowerPoint、Markdown、TXT 或 JSON，按章节组织学习内容。结合教材检索（RAG）查看讲解、追问细节、完成配套选择题，让学习围绕自己的资料展开。
 > L54: 2. **接入模型**：在 **设置 → LLM 模型** 中选择供应商、填写 API Key，测试连接后保存。支持 DeepSeek、Qwen、OpenAI、GLM、Kimi 等服务及兼容接口。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "2092372408-pixel/EduPilot 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

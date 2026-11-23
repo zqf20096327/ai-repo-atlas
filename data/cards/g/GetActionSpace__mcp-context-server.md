@@ -1,6 +1,6 @@
 # GetActionSpace/mcp-context-server
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/GetActionSpace/mcp-context-server) · [官网](https://www.alexfeel.info/promo/mcp-context-server/) · 组织维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/GetActionSpace/mcp-context-server) · [官网](https://www.alexfeel.info/promo/mcp-context-server/) · 组织维护
 
 **为 LLM agent 提供持久化多模态上下文存储的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GetActionSpace/mcp-context-server 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-22 10（+0）
+2026-11-08 10 → 2026-11-23 10（+0）
 
 
 ---

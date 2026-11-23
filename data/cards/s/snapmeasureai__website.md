@@ -1,6 +1,6 @@
 # snapmeasureai/website
 
-⭐ 22 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/snapmeasureai/website) · [官网](https://snapmeasureai.com/) · 组织维护
+⭐ 22 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/snapmeasureai/website) · [官网](https://snapmeasureai.com/) · 组织维护
 
 **面向产品的 3D 人体测量 API：两张照片生成 100+ 尺寸**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "snapmeasureai/website 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-20 22 → 2026-11-22 22（+0）
+2026-10-21 22 → 2026-11-23 22（+0）
 
 
 ---

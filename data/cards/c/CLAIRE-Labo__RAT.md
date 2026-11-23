@@ -45,12 +45,12 @@ RAT（Recurrent Attention with dilated inter-chunk attention）的官方实现�
 ```mermaid
 xychart-beta
     title "CLAIRE-Labo/RAT 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-19 26 → 2026-11-22 26（+0）
+2026-10-20 26 → 2026-11-23 26（+0）
 
 
 ---

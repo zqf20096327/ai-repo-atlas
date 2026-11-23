@@ -2,9 +2,9 @@
 
 ⭐ 2,826 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/leptonai/leptonai) · [官网](https://lepton.ai/) · 组织维护
 
-**操作 NVIDIA DGX Cloud Lepton 平台的 Python 库与 lep CLI**
+**NVIDIA DGX Cloud Lepton 平台的 Python 库与 lep CLI**
 
-LeptonAI 官方的 Python SDK 与命令行工具，用于从 Python 和终端管理 NVIDIA DGX Cloud Lepton 平台：创建与管理端点、Dynamo 图部署（vLLM/SGLang/TensorRT-LLM 后端）、批量作业、开发 Pod、Ray 集群、微调作业与托管 Slurm 集群，并提供基于端点 OpenAPI schema 的 Client 调用接口与经 HTTPS 隧道的交互式 shell。另附带 agent 技能插件，可让 Claude Code、Codex 或 Cursor 通过自然语言驱动 lep CLI。通过 pip 安装，Apache 2.0 许可。
+LeptonAI Python 库与 lep 命令行工具，用于从 Python 和终端操作 NVIDIA DGX Cloud Lepton 平台。 lep CLI 管理端点、Dynamo 图部署、批处理作业、dev pod、Ray 集群、微调作业、存储与密钥，并检查托管 Slurm 集群；通过 Teleport 支持 pod/endpoint/job/Slurm 节点的交互式 shell，无需 SSH 公网地址；提供 token 认证与端点访问控制选项；Dynamo 部署支持 vLLM/SGLang/TensorRT-LLM 后端的多服务 LLM 推理配置；另提供让 Claude Code/Codex 等代理驱动 lep CLI 的技能插件。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@ LeptonAI 官方的 Python SDK 与命令行工具，用于从 Python 和终端管
 
 ## 能力要点
 
-- lep CLI 管理端点、Dynamo 部署、批量作业、dev pod、Ray 集群与 Slurm 集群
-- Client 读取端点 OpenAPI schema 并把各路径暴露为 Python 方法
-- Teleport SSH 与经工作区 API 隧道的交互式 shell（无需 SSH key）
-- 内置 Claude Code/Codex/Cursor 的 agent 技能插件
+- lep CLI 管理端点、批作业、dev pod、Ray 集群、Slurm 等资源
+- 通过 Teleport 的 HTTPS 隧道交互式 shell，无需 SSH key 与公网 IP
+- Dynamo 图部署支持 vLLM/SGLang/TensorRT-LLM 后端与多节点 worker
+- 提供 Claude Code/Codex/Cursor 的 agent 技能插件，以自然语言操作平台
 
 ## 适用场景
 
-- 用命令行或 Python 管理云端 AI 推理端点与作业
-- 部署多服务的 Dynamo LLM 推理图（vLLM/SGLang/TensorRT-LLM 后端）
-- 让 Claude Code 或 Codex 通过自然语言操作 Lepton 工作负载
+- 在 DGX Cloud Lepton 上部署与检查模型服务端点
+- 从命令行提交批处理训练作业与开发 pod
+- 配置多服务 LLM 推理的 Dynamo 图部署
+- 让 AI 编码代理代为查看和管理云端工作负载
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+ · 领域:云平台/模型部署基础设施
 
 ## 证据(README 行号)
 
 > L10: The LeptonAI Python library lets you operate the NVIDIA DGX Cloud Lepton platform from Python and the command line.
-> L12: - A `lep` command-line tool to create and manage endpoints, Dynamo graph deployments, batch jobs, dev pods, Ray clu
+> L14: - Skills that let agents operate the Lepton platform for you.
+> L205: Dynamo graph deployments (multi-service LLM inference with a vLLM, SGLang, or
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "leptonai/leptonai 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2823 --> 2828
     line [2824, 2825, 2826, 2827, 2825, 2826, 2827, 2826, 2826]
 ```
 
-2026-10-20 2,824 → 2026-11-22 2,826（+2）
+2026-10-21 2,824 → 2026-11-23 2,826（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `53612daabf23` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d5aaa7e1eab1` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # BruceKe365/STM32F411-PPG-Pulse-Monitor
 
-⭐ 12 · C · MIT · 推送 2026-10-08 · [GitHub](https://github.com/BruceKe365/STM32F411-PPG-Pulse-Monitor) · 个人维护 · 中文 README
+⭐ 13 · C · MIT · 推送 2026-10-08 · [GitHub](https://github.com/BruceKe365/STM32F411-PPG-Pulse-Monitor) · 个人维护 · 中文 README
 
 **基于 STM32F411 与 MAX30102 的便携式心率血氧与房颤风险提示装置**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BruceKe365/STM32F411-PPG-Pulse-Monitor 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-10", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-01", "2026-11-10", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-01 10 → 2026-11-22 12（+2）
+2026-11-01 10 → 2026-11-23 13（+3）
 
 
 ---

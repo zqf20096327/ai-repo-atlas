@@ -1,10 +1,10 @@
 # foryourhealth111-pixel/Vibe-Skills
 
-⭐ 3,837 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills) · 个人维护 · 中文 README
+⭐ 3,838 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills) · 个人维护 · 中文 README
 
-**面向 AI agent 的本地 Skill 路由与工作流编排工具**
+**为 AI agent 自动路由本地 Skills 并编排工作流的通用 Skill**
 
-VibeSkills 是一个通用 Skill，为 AI agent 提供从接收任务到验收交付的流程：确认需求、推荐 L/XL 两种规模级别、将任务拆解为子任务、扫描本地配置的 Skill 文件夹（含 SKILL.md）并按依赖关系为各部分分派合适 Skill，执行后逐项核对计划完成情况。Skill 发现在本地进行，先提取名称/描述等紧凑信息做候选筛选，再按需读取完整 SKILL.md，以控制上下文开销。任务记录（需求、计划、进度、验收）保存在同一记录中，可跨会话续作。README 报告在 SkillsBench（DeepSeekV4Flash-VE + OpenHands 基线）上平均任务得分 +21.12%、token 消耗 -29.6% 的测量结果。
+VibeSkills 本身是一个通用 Skill，面向使用 agent/harness 框架的开发者：读取本地配置的 Skill 文件夹，提取名称、描述、用途等索引信息，将复杂任务拆解为可验证子任务并从中筛选匹配的 Skills 分配给各模块，最后按计划逐项检查交付结果。提供 L/XL 两级流程，XL 支持最多两个非冲突部分并行；代码任务可进入 TDD 循环；完成/失败/阻塞状态被记录以便后续会话继续。官方在 SkillsBench 上基于 DeepSeekV4Flash-VE 与 OpenHands 基线报告了对照实验结果，并提供可复现的研究数据仓库。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ VibeSkills 是一个通用 Skill，为 AI agent 提供从接收任务到验收�
 
 ## 能力要点
 
-- 任务拆解为可验证子任务，按依赖顺序编排本地 Skill
-- L/XL 两级任务规模，XL 支持最多两个不冲突部分并行
-- 本地索引 + 候选筛选 + 按需读取 SKILL.md 以控制 token 开销
-- 任务记录含需求、计划、进度与验收，支持跨会话续作
+- 本地 Skill 索引与候选短名单机制，按需读取 SKILL.md 而非全量入上下文
+- L/XL 两级任务分解，XL 支持最多两个非冲突部分并行
+- SKILL.md 路由与工作单元分配记录（agent_skill_organization / module_assignments）
+- 17 项交付前检查与状态记录以支持跨会话续作
 
 ## 适用场景
 
-- 本地装了大量 Skill 后，让 agent 自动发现并选用合适的 Skill
-- 把复杂任务拆解为子任务并为各部分匹配不同领域 Skill
-- 对 agent 交付结果做计划逐项核对与验收
+- 本地安装了大量 Skills 后让 agent 自动发现、选择并编排相关 Skill
+- 把机器学习实验等多交付物任务拆分为可检查的工作单元
+- 减少 agent 反复试错带来的 token 与工具调用开销
 
 ## 场景标签
 
-`Agent 框架` `工作流自动化` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7:  VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness
-> L113: VibeSkills reviews the local Skill folders you configure, then
+> L48: Instead, it first clarifies the task objective and delivery requirements, then decomposes a complex task into sever
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "foryourhealth111-pixel/Vibe-Skills 星数(近 24 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3719 --> 3847
-    line [3729, 3759, 3760, 3764, 3769, 3770, 3772, 3776, 3778, 3785, 3786, 3789, 3764, 3808, 3812, 3817, 3816, 3821, 3822, 3828, 3831, 3833, 3836, 3837]
+    title "foryourhealth111-pixel/Vibe-Skills 星数(近 25 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3719 --> 3848
+    line [3729, 3759, 3760, 3764, 3769, 3770, 3772, 3776, 3778, 3785, 3786, 3789, 3764, 3808, 3812, 3817, 3816, 3821, 3822, 3828, 3831, 3833, 3836, 3837, 3838]
 ```
 
-2026-10-19 3,729 → 2026-11-22 3,837（+108）
+2026-10-20 3,729 → 2026-11-23 3,838（+109）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `f7bb22c40021` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cf60bef8351a` · [字段定义](../../DATASET.md)*

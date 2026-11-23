@@ -41,6 +41,18 @@
 > L7: A curated handout of **the AI tools we actually use and star** — agent harnesses, coding agents, skills and MCP serv
 > L12: 2. **Starred by d123d** — every GitHub repo d123d has starred — **297 public repos** as of Nov 19, 2026 (1 private 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "d123d/awesome-ai-tools 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `07267fb90d64` · [字段定义](../../DATASET.md)*

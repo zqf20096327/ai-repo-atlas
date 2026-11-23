@@ -1,6 +1,6 @@
 # yazinsai/audio-keyboard
 
-⭐ 6 · Kotlin · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/yazinsai/audio-keyboard) · 个人维护
+⭐ 7 · Kotlin · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/yazinsai/audio-keyboard) · 个人维护
 
 **面向 Android 用户的 AI 键盘：仿 Gboard 手感并生成回复与听写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yazinsai/audio-keyboard 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 3 --> 7
-    line [4, 6, 6]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 3 --> 8
+    line [4, 6, 7]
 ```
 
-2026-11-19 4 → 2026-11-22 6（+2）
+2026-11-19 4 → 2026-11-23 7（+3）
 
 
 ---

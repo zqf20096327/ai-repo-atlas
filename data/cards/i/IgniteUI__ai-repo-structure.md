@@ -1,6 +1,6 @@
 # IgniteUI/ai-repo-structure
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/IgniteUI/ai-repo-structure) · [官网](https://igniteui.github.io/ai-repo-structure/) · 组织维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/IgniteUI/ai-repo-structure) · [官网](https://igniteui.github.io/ai-repo-structure/) · 组织维护
 
 **面向开发者的 AI-ready 仓库结构指南与模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IgniteUI/ai-repo-structure 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-10", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-01", "2026-11-10", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-01 10 → 2026-11-22 12（+2）
+2026-11-01 10 → 2026-11-23 13（+3）
 
 
 ---

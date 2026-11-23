@@ -1,6 +1,6 @@
 # ponytojas/Refract
 
-⭐ 8 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ponytojas/Refract) · 个人维护
+⭐ 8 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ponytojas/Refract) · 个人维护
 
 **自托管 LaTeX 工作区，AI 助手以 diff 形式提议修改**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ponytojas/Refract 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-22"]
+    title "ponytojas/Refract 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3 --> 9
-    line [4, 5, 6, 7, 8]
+    line [4, 5, 6, 7, 8, 8]
 ```
 
-2026-11-08 4 → 2026-11-22 8（+4）
+2026-11-08 4 → 2026-11-23 8（+4）
 
 
 ---

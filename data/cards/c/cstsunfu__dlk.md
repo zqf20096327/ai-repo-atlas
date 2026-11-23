@@ -45,12 +45,12 @@ DLK 以 lightning 的 Trainer 为训练核心、intc 为 config 管理系统，�
 ```mermaid
 xychart-beta
     title "cstsunfu/dlk 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-20 24 → 2026-11-22 24（+0）
+2026-10-21 24 → 2026-11-23 24（+0）
 
 
 ---

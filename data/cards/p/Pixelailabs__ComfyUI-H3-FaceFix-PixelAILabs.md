@@ -1,6 +1,6 @@
 # Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs
 
-⭐ 34 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs) · [官网](https://pixelailabs.com) · 组织维护
+⭐ 74 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs) · [官网](https://pixelailabs.com) · 组织维护
 
 **ComfyUI 工作流+节点：修复 MiniMax H3 视频中的远景人脸**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 5 --> 36
-    line [7, 34]
+    title "Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 1 --> 80
+    line [7, 34, 74]
 ```
 
-2026-11-21 7 → 2026-11-22 34（+27）
+2026-11-21 7 → 2026-11-23 74（+67）
 
 
 ---

@@ -1,6 +1,6 @@
 # context-dot-dev/enrichable
 
-⭐ 292 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/context-dot-dev/enrichable) · [官网](https://www.enrichable.io) · 组织维护
+⭐ 297 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/context-dot-dev/enrichable) · [官网](https://www.enrichable.io) · 组织维护
 
 **面向销售/增长团队的 AI 数据富化电子表格**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "context-dot-dev/enrichable 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 12 --> 317
-    line [37, 275, 292]
+    title "context-dot-dev/enrichable 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 11 --> 323
+    line [37, 275, 292, 297]
 ```
 
-2026-11-20 37 → 2026-11-22 292（+255）
+2026-11-20 37 → 2026-11-23 297（+260）
 
 
 ---

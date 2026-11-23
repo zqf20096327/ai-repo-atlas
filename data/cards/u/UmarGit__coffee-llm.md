@@ -1,6 +1,6 @@
 # UmarGit/coffee-llm
 
-⭐ 5 · Python · 推送 2026-11-12 · [GitHub](https://github.com/UmarGit/coffee-llm) · [官网](https://umargit.github.io/coffee-llm/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **研究小型模型输出格式以降低点单解析静默错误的论文与系统**
 

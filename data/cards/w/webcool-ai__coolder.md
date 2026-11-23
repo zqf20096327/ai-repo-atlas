@@ -1,6 +1,6 @@
 # webcool-ai/coolder
 
-⭐ 4 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/webcool-ai/coolder) · [官网](https://webcool.cn/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地部署的浏览器版 AI 编程智能体工作台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

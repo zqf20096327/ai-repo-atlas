@@ -2,9 +2,9 @@
 
 ⭐ 3,306 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/mljar/mljar-supervised) · [官网](https://mljar.com) · 组织维护
 
-**面向表格数据的 Python AutoML 库：自动建模调参与报告**
+**表格数据 AutoML Python 库：自动训练、调参并生成报告**
 
-mljar-supervised 是处理表格数据的 AutoML Python 包，面向数据科学家：自动完成预处理、特征工程、多算法训练（Baseline/Linear/Random Forest/LightGBM/Xgboost/CatBoost/神经网络等）、超参数调优、集成与堆叠，并为每个模型生成 Markdown 报告与 SHAP/特征重要性解释。提供 Explain/Perform/Compete/Optuna 四种工作模式，训练后可基于 Mercury 自动生成交互式预测 Web 应用；自 1.0.0 起支持传入敏感特征的公平性感知训练。模型自动保存与断点续训。
+面向表格数据的 AutoML Python 包：自动完成特征工程、超参调优、模型训练与对比，输出排行榜、模型报告（特征重要性、学习曲线、混淆矩阵、SHAP 解释）及 Markdown/JSON 结构化报告。内置线性模型、随机森林、XGBoost、LightGBM、CatBoost 等经典算法，可选安装 RealMLP、TabM 神经后端与 Kumo、TabICLv2 表格基础模型后端。支持公平性评估与重加权训练、分组验证、自定义指标，可将训练好的模型导出为本地网页预测应用。需 Python 3.11+。
 
 ## 筛选速览
 
@@ -15,23 +15,22 @@ mljar-supervised 是处理表格数据的 AutoML Python 包，面向数据科学
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `high` | 编译与系统依赖俱全 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 9 类算法自动训练、集成与堆叠，四种内置模式（Explain/Perform/Compete/Optuna）
-- 每个模型自动生成 Markdown 报告与 SHAP/置换特征重要性解释
-- 训练后可自动生成本地或可发布的 Mercury 预测 Web 应用
-- 公平性感知训练：fairness_metric、敏感特征与两种偏差缓解方法
-- Kumo/TabICLv2 算法需可选 [tfm] 依赖与 SDM 后端，Python 3.11+
+- 四档模式（Explain/Perform/Compete/Optuna）控制搜索预算
+- 自动报告：排行榜、SHAP 解释、特征重要性，可导出 Markdown/JSON
+- 可选后端：RealMLP、TabM、Kumo、TabICLv2 表格基础模型
+- 公平性指标与重加权训练、分组验证、自定义损失函数
 
 ## 适用场景
 
-- 我有一份 CSV 表格数据，想自动训练并挑选最优模型
-- 想为每个模型生成可解释报告与 SHAP 分析
-- 训练完成后把模型分享给不懂代码的业务同事做预测
-- 需要在训练中使用敏感特征并控制模型公平性
+- 在 CSV 表格数据上快速训练分类/回归模型并对比
+- 自动生成可交付的模型解释文档与报告
+- 检测并缓解模型对敏感群体的偏差
+- 把训练好的模型导出成本地网页预测应用
 
 ## 场景标签
 
@@ -39,21 +38,22 @@ mljar-supervised 是处理表格数据的 AutoML Python 包，面向数据科学
 
 ## 证据(README 行号)
 
-> L33: The `mljar-supervised` is an Automated Machine Learning Python package that works with tabular data. It is designed
-> L37:  - trying many different machine learning models (Algorithm Selection and Hyper-Parameters tuning),
+> L5:  A Python AutoML package to train models, discover features, and explain predictions.
+> L23: |Classic machine learning|Linear models, Random Forest, XGBoost, LightGBM, CatBoost|Included in the base install|
+> L249: |Mode|Starting point for|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mljar/mljar-supervised 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 3301 --> 3308
     line [3302, 3303, 3304, 3305, 3306, 3307, 3303, 3307, 3306, 3306]
 ```
 
-2026-10-20 3,302 → 2026-11-22 3,306（+4）
+2026-10-21 3,302 → 2026-11-23 3,306（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `f93d7976ad54` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `26589f7f0005` · [字段定义](../../DATASET.md)*

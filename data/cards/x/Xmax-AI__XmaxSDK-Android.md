@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-Android
 
-⭐ 76 · Kotlin · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Android) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
+⭐ 76 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Android) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
 
 **面向 Android 开发者的 Xmax 实时交互式视频生成 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Xmax-AI/XmaxSDK-Android 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-16", "2026-11-23"]
     y-axis "stars" 51 --> 78
     line [53, 54, 56, 64, 75, 76, 75, 76, 76]
 ```
 
-2026-10-20 53 → 2026-11-22 76（+23）
+2026-10-21 53 → 2026-11-23 76（+23）
 
 
 ---

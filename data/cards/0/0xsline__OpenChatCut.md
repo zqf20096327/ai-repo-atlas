@@ -1,10 +1,10 @@
 # 0xsline/OpenChatCut
 
-⭐ 3,255 · TypeScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/0xsline/OpenChatCut) · [官网](https://openchatcut.com) · 个人维护 · 中文 README
+⭐ 3,272 · TypeScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/0xsline/OpenChatCut) · [官网](https://openchatcut.com) · 个人维护 · 中文 README
 
-**开源本地优先的对话式 AI 视频编辑器，Agent 可直接编辑真实时间线**
+**本地优先的对话式 AI 视频编辑器，代理直接写真实时间线**
 
-基于 TypeScript/React/Remotion/Electron 的开源视频编辑器，提供多轨道时间线、转场、LUT、WebGL 特效、字幕与转写编辑、动作图形模板及 MP4/FCPXML 等导出。AI 部分：内置对话 Agent 与外部 MCP 客户端（Codex、Claude Code）共享同一套编辑工具，以提案方式写入真实轨道并可撤销；支持图像/视频/语音/音乐生成任务。项目与媒体默认保存在本地，未配置第三方密钥时时间线编辑等本地功能仍可用。macOS 包未签名需手动批准，源码运行需 Node.js 24.x。
+基于 Electron/React/Remotion 的桌面视频编辑器，将多轨时间线编辑与对话式 Agent 结合：内置 Agent 与外部 MCP 客户端共享同一套编辑工具，编辑以提案形式写入可撤销的真实轨道、片段、转场、字幕与媒体，而非一次性生成不可改的视频。支持逐词转录驱动的文本剪辑、图像/视频/语音/音乐生成、WebGL 特效、LUT 与动态图形模板，导出 MP4、SRT、FCFPXML 及完整工程。采用 AGPL 许可，项目与媒体默认保留在本地，API key 保留在服务端。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 内置 Agent 与 MCP 外部客户端共享同一套编辑工具，编辑可审查、可撤销
-- 词级转写驱动的文本剪辑、自动字幕与说话人识别
-- 多轨道时间线、WebGL 特效、LUT、动作图形模板与 FCPXML/MP4 导出
-- 本地优先：项目与媒体保存在本机，API 密钥保留在服务端
+- 内置 Agent 与外部 MCP Agent 共享同一套编辑工具
+- 编辑写入真实时间线轨道，可撤销、可版本化、可继续手动编辑
+- 逐词转录驱动剪辑：文本删除口误/停顿，字幕自动避开人脸
+- 导出 MP4、音频、SRT 字幕、FCPXML 与完整工程数据
 
 ## 适用场景
 
-- 口播/访谈视频转写后按文本剪掉口误与停顿并自动生成字幕
-- 用自然语言让 Agent 完成粗剪、转场、配乐与多格式成片
-- 通过 MCP 让 Codex 或 Claude Code 检查并修改真实剪辑工程
-- 制作短视频并经确认后一键发布到多个社交平台
+- 口播/访谈视频：转录后通过文本删除错误、停顿并自动生成字幕
+- 让 Agent 完成粗剪、转场、配乐与节奏，再手动精修
+- 为短视频平台重构画幅并生成标题、字幕、配音与音乐
+- 开发者用 Codex/Claude Code 经 MCP 检查和修改真实工程
 
 ## 场景标签
 
-`语音识别` `图像视频处理` `视频生成` · 领域:内容生成
+ · 领域:视频创作/桌面工具
 
 ## 证据(README 行号)
 
-> L43: OpenChatCut is an **open-source ChatCut alternative**: a video editor that brings **conversational agents** and **p
-> L194: Only add the model or media-service credentials you actually use to `.env.local`. Features without configured thir
+> L45: OpenChatCut is an **open-source ChatCut alternative**: a video editor that brings **conversational agents** and **p
+> L51: OpenChatCut is built for creators and developers who want AI to participate in the actual editing workflow without 
+> L196: Only add the model or media-service credentials you actually use to `.env.local`. Features without configured thir
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "0xsline/OpenChatCut 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2458 --> 3327
-    line [2530, 2584, 2614, 2642, 2654, 2672, 2690, 2724, 2747, 2776, 2798, 2818, 2830, 2654, 2993, 3044, 3066, 3085, 3102, 3118, 3129, 3151, 3176, 3199, 3227, 3243, 3255]
+    title "0xsline/OpenChatCut 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2456 --> 3346
+    line [2530, 2584, 2614, 2642, 2654, 2672, 2690, 2724, 2747, 2776, 2798, 2818, 2830, 2654, 2993, 3044, 3066, 3085, 3102, 3118, 3129, 3151, 3176, 3199, 3227, 3243, 3255, 3272]
 ```
 
-2026-10-20 2,530 → 2026-11-22 3,255（+725）
+2026-10-21 2,530 → 2026-11-23 3,272（+742）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `465d06660b4a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `410356306f30` · [字段定义](../../DATASET.md)*

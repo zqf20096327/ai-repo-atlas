@@ -1,6 +1,6 @@
 # Donnadieu/one
 
-⭐ 4 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Donnadieu/one) · [官网](https://donnadieu.github.io/one) · 个人维护
+⭐ 4 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Donnadieu/one) · [官网](https://donnadieu.github.io/one) · 个人维护
 
 **给非技术用户的 Mac 本地个人 AI 助手，一键安装语音引导**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Donnadieu/one 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-01", "2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-01 3 → 2026-11-22 4（+1）
+2026-11-01 3 → 2026-11-23 4（+1）
 
 
 ---

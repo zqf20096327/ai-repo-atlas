@@ -1,6 +1,6 @@
 # tigusigalpa/nebula-go
 
-⭐ 13 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/tigusigalpa/nebula-go) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tigusigalpa/nebula-go) · 个人维护
 
 **为 Go 开发者提供的 Nebula 公共 API 客户端 SDK（41 个操作）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tigusigalpa/nebula-go 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-21 13 → 2026-11-22 13（+0）
+2026-11-21 13 → 2026-11-23 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # regulad/vnc-mcp
 
-⭐ 13 · Python · AGPL-3.0 · 推送 2026-03-26 · [GitHub](https://github.com/regulad/vnc-mcp) · [官网](https://vnc-mcp.readthedocs.io/) · 个人维护
+⭐ 13 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/regulad/vnc-mcp) · [官网](https://vnc-mcp.readthedocs.io/) · 个人维护
 
 **让 MCP 兼容 LLM 通过 VNC 操作任意远程桌面的服务器**
 
@@ -45,12 +45,12 @@ Python 实现的 MCP 服务器：通过 pyvnc 连接符合 RFC6143 RFB 规范的
 ```mermaid
 xychart-beta
     title "regulad/vnc-mcp 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-20 13 → 2026-11-22 13（+0）
+2026-10-21 13 → 2026-11-23 13（+0）
 
 
 ---

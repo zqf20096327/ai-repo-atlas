@@ -41,6 +41,18 @@ TheWebConf'25 论文 Legommenders 的官方配套库，采用模块化分层架�
 > L109: Legommenders is built with **a modular, layered architecture**:
 > L112: - **Content Operator**: Encodes item content using static (e.g., Glove) or deep models (e.g., CNN, BERT, GPT). Sup
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Jyonn/Legommenders 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 33 --> 35
+    line [34, 34]
+```
+
+2026-11-22 34 → 2026-11-23 34（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `fdb593c826b4` · [字段定义](../../DATASET.md)*

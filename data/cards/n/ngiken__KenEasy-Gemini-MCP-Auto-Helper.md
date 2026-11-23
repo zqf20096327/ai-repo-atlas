@@ -1,6 +1,6 @@
 # ngiken/KenEasy-Gemini-MCP-Auto-Helper
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper) · [官网](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper/releases/tag/v0.1.0) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper) · [官网](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper/releases/latest) · 个人维护 · 中文 README
 
 **为 Gemini 网页版自动放行 MCP 权限并连续点击的浏览器扩展**
 
@@ -39,6 +39,18 @@
 
 > L5:  An intelligent automation extension tailored for Google Gemini web UI: auto-approves MCP tool permissions with "Alw
 > L71: |**MCP Auto-Approval**|Always Allow Priority|Prefers and auto-clicks `Always allow / 始终允许`, penetrating Material We
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ngiken/KenEasy-Gemini-MCP-Auto-Helper 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
+```
+
+2026-11-22 15 → 2026-11-23 16（+1）
 
 
 ---

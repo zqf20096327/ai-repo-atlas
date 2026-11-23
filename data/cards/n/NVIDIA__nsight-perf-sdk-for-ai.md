@@ -1,6 +1,6 @@
 # NVIDIA/nsight-perf-sdk-for-ai
 
-⭐ 116 · CMake · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/NVIDIA/nsight-perf-sdk-for-ai) · [官网](https://developer.nvidia.com/nsight-perf-sdk) · 组织维护
+⭐ 117 · CMake · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/NVIDIA/nsight-perf-sdk-for-ai) · [官网](https://developer.nvidia.com/nsight-perf-sdk) · 组织维护
 
 **面向 AI 负载的 GPU/CUDA 常驻低开销性能追踪 SDK**
 
@@ -46,12 +46,12 @@ NVIDIA 提供的 C++ 客户端 API 与命令行工具 SDK，用于持续采集 N
 ```mermaid
 xychart-beta
     title "NVIDIA/nsight-perf-sdk-for-ai 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 65 --> 120
-    line [69, 97, 99, 106, 112, 114, 115, 116, 116]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 65 --> 121
+    line [69, 97, 99, 106, 112, 114, 115, 116, 117]
 ```
 
-2026-11-08 69 → 2026-11-22 116（+47）
+2026-11-08 69 → 2026-11-23 117（+48）
 
 
 ---

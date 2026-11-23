@@ -1,6 +1,6 @@
 # YOalphabet/YOalphabet
 
-⭐ 22 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/YOalphabet/YOalphabet) · [官网](https://yoalphabet.github.io/YOalphabet/) · 个人维护
+⭐ 22 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YOalphabet/YOalphabet) · [官网](https://yoalphabet.github.io/YOalphabet/) · 个人维护
 
 **16 字符的 4-bit 几何文字系统：字形由二进制码生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YOalphabet/YOalphabet 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-11-10 22 → 2026-11-22 22（+0）
+2026-11-10 22 → 2026-11-23 22（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Moxxkidd/foam
 
-⭐ 125 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/Moxxkidd/foam) · 个人维护 · 中文 README
+⭐ 130 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/Moxxkidd/foam) · 个人维护 · 中文 README
 
 **Kali 上的 LLM 渗透测试 harness：模型自主驱动安全工具链**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Moxxkidd/foam 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 31 --> 133
-    line [39, 80, 115, 123, 125]
+    title "Moxxkidd/foam 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 30 --> 139
+    line [39, 80, 115, 123, 125, 130]
 ```
 
-2026-11-18 39 → 2026-11-22 125（+86）
+2026-11-18 39 → 2026-11-23 130（+91）
 
 
 ---

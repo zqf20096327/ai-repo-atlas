@@ -1,6 +1,6 @@
 # zer0int/CLIP-fine-tune
 
-⭐ 274 · Python · 推送 2026-06-09 · [GitHub](https://github.com/zer0int/CLIP-fine-tune) · 个人维护
+⭐ 275 · Python · 推送 2026-06-09 · [GitHub](https://github.com/zer0int/CLIP-fine-tune) · 个人维护
 
 **CLIP 模型微调工具套件：训练、评测与几何诊断**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zer0int/CLIP-fine-tune 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 273 --> 275
-    line [274, 274]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 273 --> 276
+    line [274, 275]
 ```
 
-2026-10-20 274 → 2026-11-22 274（+0）
+2026-10-21 274 → 2026-11-23 275（+1）
 
 
 ---

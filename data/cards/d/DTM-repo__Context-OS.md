@@ -41,6 +41,18 @@
 > L39: `MANIFEST.md` tells the agent how much to load:
 > L96: - **Plain Markdown, no lock-in.** Every file is human-readable and tool-agnostic. No runtime, no install.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DTM-repo/Context-OS 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-22 14 → 2026-11-23 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ae396c438c10` · [字段定义](../../DATASET.md)*

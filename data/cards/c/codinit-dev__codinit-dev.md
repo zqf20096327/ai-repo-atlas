@@ -1,6 +1,6 @@
 # codinit-dev/codinit-dev
 
-⭐ 273 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/codinit-dev/codinit-dev) · [官网](https://codinit.dev/download) · 组织维护
+⭐ 274 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/codinit-dev/codinit-dev) · [官网](https://codinit.dev/download) · 组织维护
 
 **开源本地优先的 AI 全栈应用构建平台，面向开发者**
 
@@ -46,12 +46,12 @@ CodinIT.dev 是开源的 AI 全栈开发平台，帮助开发者从浏览器或�
 ```mermaid
 xychart-beta
     title "codinit-dev/codinit-dev 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 269 --> 275
-    line [270, 271, 272, 271, 274, 273, 273]
+    line [270, 271, 272, 271, 274, 273, 274]
 ```
 
-2026-10-20 270 → 2026-11-22 273（+3）
+2026-10-21 270 → 2026-11-23 274（+4）
 
 
 ---

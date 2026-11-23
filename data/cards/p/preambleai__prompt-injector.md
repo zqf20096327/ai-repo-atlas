@@ -1,6 +1,6 @@
 # preambleai/prompt-injector
 
-⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-02-14 · [GitHub](https://github.com/preambleai/prompt-injector) · [官网](https://preamble.com) · 组织维护
+⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-02-14 · [GitHub](https://github.com/preambleai/prompt-injector) · [官网](https://preamble.com) · 组织维护
 
 **面向安全研究者的 LLM 提示注入测试桌面应用**
 
@@ -46,12 +46,12 @@ Preamble 公司开源的 AI 安全测试 Electron 桌面应用，面向安全研
 ```mermaid
 xychart-beta
     title "preambleai/prompt-injector 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 33, 34, 34]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 33, 34, 35]
 ```
 
-2026-10-20 33 → 2026-11-22 34（+1）
+2026-10-21 33 → 2026-11-23 35（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Qredence/fleet-rlm
 
-⭐ 54 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Qredence/fleet-rlm) · [官网](https://docs.qredence.ai/fleet-rlm/overview) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Qredence/fleet-rlm) · [官网](https://docs.qredence.ai/fleet-rlm/overview) · 组织维护
 
 **Python agent 运行时：文件分析、代码执行与任务委派**
 
@@ -46,12 +46,12 @@ Fleet-RLM（又称 Fleet RLM Lite）是用 Python 编写的 agent 运行时，�
 ```mermaid
 xychart-beta
     title "Qredence/fleet-rlm 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 52 --> 55
     line [53, 54, 54]
 ```
 
-2026-10-20 53 → 2026-11-22 54（+1）
+2026-10-21 53 → 2026-11-23 54（+1）
 
 
 ---

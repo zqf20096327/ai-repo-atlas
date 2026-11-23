@@ -1,6 +1,6 @@
 # leapmux/leapmux
 
-⭐ 120 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/leapmux/leapmux) · [官网](https://leapmux.dev) · 组织维护
+⭐ 120 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/leapmux/leapmux) · [官网](https://leapmux.dev) · 组织维护
 
 **在单一工作区内并行运行多个 AI 编程 Agent 的多路复用器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leapmux/leapmux 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23"]
     y-axis "stars" 115 --> 121
     line [116, 118, 116, 119, 120, 120]
 ```
 
-2026-10-20 116 → 2026-11-22 120（+4）
+2026-10-21 116 → 2026-11-23 120（+4）
 
 
 ---

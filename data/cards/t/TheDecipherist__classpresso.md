@@ -44,13 +44,13 @@ Classpresso 是一个在项目构建（npm run build）之后运行的 CLI 工�
 
 ```mermaid
 xychart-beta
-    title "TheDecipherist/classpresso 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    title "TheDecipherist/classpresso 星数(近 4 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 77 --> 80
-    line [78, 79, 78]
+    line [78, 79, 78, 78]
 ```
 
-2026-10-20 78 → 2026-11-22 78（+0）
+2026-10-21 78 → 2026-11-23 78（+0）
 
 
 ---

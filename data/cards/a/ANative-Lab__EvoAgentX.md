@@ -1,10 +1,10 @@
 # ANative-Lab/EvoAgentX
 
-⭐ 3,447 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/ANative-Lab/EvoAgentX) · [官网](https://anative-lab.github.io/EvoAgentX/) · 组织维护 · 中文 README
+⭐ 3,445 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/ANative-Lab/EvoAgentX) · [官网](https://anative-lab.github.io/EvoAgentX/) · 组织维护 · 中文 README
 
-**自进化多智能体工作流框架：从目标自动构建并优化 agent 工作流**
+**面向开发者与研究者的自演化多智能体工作流框架**
 
-开源 LLM agent 框架，面向 AI 研究者、workflow 工程师与创业团队。核心机制：从单一自然语言目标自动生成结构化多智能体工作流，内置任务评分评估器，通过自进化算法迭代优化工作流；支持短/长期记忆、人在环路（HITLManager 审批与输入注入）、20+ 内置工具（代码解释器、搜索、数据库、浏览器等）与 MCP 工具接入。模型经 LiteLLM/siliconflow/openrouter 接入 OpenAI、Claude、DeepSeek、Qwen 等，本地部署可用 LiteLLM。以 pip 包提供，附 arXiv 框架论文。
+EvoAgentX 是一个开源 Python 框架，用于构建、评估并迭代优化基于 LLM 的智能体与多智能体工作流：从自然语言目标自动生成结构化工作流，内置任务导向的评估器与自演化算法，通过反馈循环改进工作流。提供短期/长期记忆模块、人机协同（HITL）审批与输入收集机制，以及覆盖代码执行、搜索、文件系统、数据库、图像与浏览器自动化的内置工具集，并支持 MCP 工具。通过 pip 或源码安装，LLM 经 API key 或 LiteLLM 接入。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@
 
 ## 能力要点
 
-- 从自然语言目标自动生成多智能体工作流（WorkFlowGenerator/AgentManager）
-- 内置自动评估器与自进化算法迭代优化工作流
-- 短/长期记忆模块与 Human-in-the-Loop 审批/输入机制
-- 20+ 内置工具（代码、搜索、数据库、图像、浏览器）及 MCP 工具支持
+- 从单个 prompt 自动构建多智能体工作流（WorkFlowGenerator）
+- 内置评估器与自演化算法，通过迭代反馈优化工作流
+- 短期与长期记忆模块，支持跨交互的记忆与反思
+- 内置 20 余种工具（代码沙箱、搜索、数据库、浏览器）并支持 MCP
 
 ## 适用场景
 
-- 从模糊想法快速搭建可运行的多智能体系统
-- 基于自有数据集自动优化 agentic workflow
-- 需要人工审核关键决策的交互式 agent 工作流
+- 基于自有数据集自动演化优化智能体工作流
+- 需要人工审批环节的多智能体业务流程
+- 为研究者提供自演化 agent 算法实验框架
+- 让智能体调用搜索/代码/浏览器等工具执行实际任务
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `工作流自动化` `Agent 记忆` · 领域:Agent 开发
+`多智能体` `Agent 记忆` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L19: EvoAgentX is an open-source framework for building, evaluating, and evolving LLM-based agents or agentic workflows 
-> L33:  Agents don’t just work—they learn. EvoAgentX improves workflows using self-evolving algorithms.
+> L178: 2. Generate the workflow with `WorkFlowGenerator`
+> L36:  Easily integrate original OpenAI and qwen or other popular models, including Claude, Deepseek, kimi models through
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ANative-Lab/EvoAgentX 星数(近 23 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23"]
     y-axis "stars" 3381 --> 3453
-    line [3387, 3396, 3395, 3401, 3402, 3403, 3404, 3405, 3407, 3409, 3411, 3402, 3425, 3429, 3432, 3434, 3435, 3436, 3437, 3442, 3445, 3447, 3447]
+    line [3387, 3396, 3395, 3401, 3402, 3403, 3404, 3405, 3407, 3409, 3411, 3402, 3425, 3429, 3432, 3434, 3435, 3436, 3437, 3442, 3445, 3447, 3445]
 ```
 
-2026-10-20 3,387 → 2026-11-22 3,447（+60）
+2026-10-21 3,387 → 2026-11-23 3,445（+58）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `29bfa78970fa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `48eff9007d6c` · [字段定义](../../DATASET.md)*

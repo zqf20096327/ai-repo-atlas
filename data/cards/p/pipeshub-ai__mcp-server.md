@@ -45,12 +45,12 @@ PipesHub 官方的本地/远程 MCP 服务器组件包，通过 Streamable HTTP 
 ```mermaid
 xychart-beta
     title "pipeshub-ai/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-22"]
+    x-axis ["2026-10-25", "2026-11-23"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-25 17 → 2026-11-22 17（+0）
+2026-10-25 17 → 2026-11-23 17（+0）
 
 
 ---

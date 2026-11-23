@@ -45,12 +45,12 @@ R 实现的 e-means 算法（Bessa et al., 2026, arXiv:2611.09501），作为 Ll
 ```mermaid
 xychart-beta
     title "ToledoEM/emeansR 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-22 3（+0）
+2026-11-20 3 → 2026-11-23 3（+0）
 
 
 ---

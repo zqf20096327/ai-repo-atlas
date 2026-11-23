@@ -1,6 +1,6 @@
 # Deep-Spark/DeepSparkInference
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Deep-Spark/DeepSparkInference) · [官网](https://gitee.com/deep-spark/deepsparkinference) · 组织维护 · 中文 README
+⭐ 38 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Deep-Spark/DeepSparkInference) · [官网](https://gitee.com/deep-spark/deepsparkinference) · 组织维护 · 中文 README
 
 **面向国产 GPU 的推理模型库：300 个模型的推理示例与评测**
 
@@ -46,12 +46,12 @@ DeepSpark 开源社区的推理模型库，2024 年 3 月开源，收录约 300 
 ```mermaid
 xychart-beta
     title "Deep-Spark/DeepSparkInference 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 36, 37, 37]
+    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 36, 37, 38]
 ```
 
-2026-10-19 36 → 2026-11-22 37（+1）
+2026-10-20 36 → 2026-11-23 38（+2）
 
 
 ---

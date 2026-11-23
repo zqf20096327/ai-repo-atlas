@@ -45,12 +45,12 @@ Weilliptic Hackathon 2026 参赛项目。LexAudit 是一个法律合同审查 ag
 ```mermaid
 xychart-beta
     title "arywk40-hue/welliptic 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-16", "2026-11-23"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-11-16 16 → 2026-11-22 16（+0）
+2026-11-16 16 → 2026-11-23 16（+0）
 
 
 ---

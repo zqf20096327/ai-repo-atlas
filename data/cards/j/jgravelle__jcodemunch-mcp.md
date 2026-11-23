@@ -1,10 +1,10 @@
 # jgravelle/jcodemunch-mcp
 
-⭐ 2,856 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [官网](https://jcodemunch.com/) · 个人维护
+⭐ 2,859 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [官网](https://jcodemunch.com/) · 个人维护
 
-**给 AI 编程代理的 MCP 代码检索服务器：按符号精确取码省 token**
+**为 AI 编码代理提供符号级代码检索的本地 MCP 服务器**
 
-基于 tree-sitter AST 解析的 MCP 服务器，面向使用 Claude Code、Cursor、VS Code、Codex CLI 等 MCP 客户端的开发场景。它对代码库建立一次本地索引，之后代理可按符号级别检索函数、类、方法、常量的精确实现，并支持 find_importers、get_blast_radius、get_call_hierarchy 等结构化查询，README 给出基准数据（对比 grep-and-read 平均减少 96.6% token）。安装通过 uv/pipx/pip 进行，init 命令可自动配置多个 MCP 客户端。个人使用免费，商业使用需商业许可。
+基于 tree-sitter AST 解析的 MCP 服务器，将代码库索引为符号级元数据（签名、限定名、摘要、字节偏移），代理可经 search_symbols 与 get_symbol_source 精确取回函数/类源码而非整文件，并提供 get_blast_radius、find_importers 等结构化查询。init 命令自动检测并写入多种 MCP 客户端配置、安装保持索引新鲜的钩子。README 给出以 tiktoken 计数的 token 效率基准与复现文档；默认启用六工具精简入口，完整工具集需展开。个人使用免费，商业使用需购买许可。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- tree-sitter AST 解析建本地索引，按符号精确检索代码
-- 提供 find_importers/get_blast_radius/get_call_hierarchy 等结构化查询
-- init 自动检测并配置 Claude Code/Cursor/Windsurf 等多个 MCP 客户端
-- 90+ 工具，含编辑安全检查、PR 风险评估与置信度评分
+- tree-sitter 解析，按符号检索源码，附带字节级偏移
+- get_blast_radius / find_importers / get_class_hierarchy 等结构化查询
+- init 自动检测 MCP 客户端并写入配置与索引刷新钩子
+- 提供预置 starter pack 与可复现的基准测试文档
 
 ## 适用场景
 
-- 在大仓库或不熟悉的代码库中让代理按需取用单个函数而非整文件
-- 做重构前的影响分析（blast radius、调用层级）
-- 降低团队 AI 编程代理的 token 成本
+- 让 Claude Code/Cursor 等代理检索代码时少读整文件、省上下文窗口
+- 变更影响分析：查询改动某符号会波及哪些文件与符号
+- 为常用框架预建索引，跳过首次索引等待
 
 ## 场景标签
 
- · 领域:开发者工具/代码智能
+ · 领域:开发者工具/AI 编码
 
 ## 证据(README 行号)
 
-> L3: **The most token-efficient MCP server for precise source code retrieval via tree-sitter AST parsing.** Cut AI token 
-> L9: Works with **Claude Code**, **Cursor**, **VS Code**, **Codex CLI**, **Windsurf**, **Continue**, and any MCP-compatib
-> L89: `init` auto-detects your MCP clients (Claude Code, Claude Desktop, Cursor, Windsurf, Continue), writes their config
+> L3: **An MCP server that retrieves source code by symbol, not by file, using tree-sitter AST parsing.** It uses 96.3% fe
+> L11: Works with **Claude Code**, **Cursor**, **VS Code**, **Codex CLI**, **Windsurf**, **Continue**, and any MCP-compati
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "jgravelle/jcodemunch-mcp 星数(近 24 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "jgravelle/jcodemunch-mcp 星数(近 25 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2778 --> 2866
-    line [2785, 2796, 2797, 2804, 2806, 2808, 2811, 2815, 2818, 2822, 2827, 2829, 2804, 2836, 2841, 2842, 2843, 2850, 2852, 2857, 2858, 2859, 2858, 2856]
+    line [2785, 2796, 2797, 2804, 2806, 2808, 2811, 2815, 2818, 2822, 2827, 2829, 2804, 2836, 2841, 2842, 2843, 2850, 2852, 2857, 2858, 2859, 2858, 2856, 2859]
 ```
 
-2026-10-19 2,785 → 2026-11-22 2,856（+71）
+2026-10-20 2,785 → 2026-11-23 2,859（+74）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `23342249e7b2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d4d80a9664aa` · [字段定义](../../DATASET.md)*

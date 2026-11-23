@@ -1,6 +1,6 @@
 # soulsimulation/souls
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/soulsimulation/souls) · [官网](https://soul.game) · 组织维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/soulsimulation/souls) · [官网](https://soul.game) · 组织维护
 
 **让每个角色由主人自己的 AI agent 驱动的多人 3D 模拟世界**
 
@@ -46,12 +46,12 @@ Souls 提供持续实时运行的持久 3D 世界，每个角色（Soul）的心
 ```mermaid
 xychart-beta
     title "soulsimulation/souls 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-23"]
     y-axis "stars" 5 --> 8
     line [6, 7, 7]
 ```
 
-2026-11-18 6 → 2026-11-22 7（+1）
+2026-11-18 6 → 2026-11-23 7（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # acosmi/wrokcode
 
-⭐ 4 · 推送 2026-11-14 · [GitHub](https://github.com/acosmi/wrokcode) · [官网](https://acosmi.com) · 组织维护 · 中文 README
+⭐ 4 · 推送 2026-11-22 · [GitHub](https://github.com/acosmi/wrokcode) · [官网](https://acosmi.com) · 组织维护 · 中文 README
 
 **个人 AI 工作台：从需求生成页面、文档与海报**
 
@@ -40,6 +40,18 @@ wrok Code（原 CrabCode）是运行在终端与桌面的 AI 工作台，提供 
 > L69: **wrok Code（原 CrabCode）** 是一款运行在终端和桌面上的 AI 工作台，把模型调用、代码检索、文件编辑、Shell 执行、MCP 工具、设计导出和 GitHub 工作流收进同一套体验。你无需离开当前工程目录，
 > L76: - **模型动态路由**：可用模型、能力和价格由 Acosmi SDK 动态下发；在客户端内使用 `/model` 查看和切换。
 > L191: - 模型请求经由 Acosmi 网关转发到上游模型服务；具体可用模型和额度以账号状态为准。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "acosmi/wrokcode 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-22 4 → 2026-11-23 4（+0）
 
 
 ---

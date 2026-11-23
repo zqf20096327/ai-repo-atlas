@@ -1,6 +1,6 @@
 # Master0fFate/fateUI
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Master0fFate/fateUI) · [官网](https://github.com/Master0fFate/fateUI/releases/) · 个人维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Master0fFate/fateUI) · [官网](https://github.com/Master0fFate/fateUI/releases/) · 个人维护
 
 **本地优先的 Pi 编码 agent 桌面工作台**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Master0fFate/fateUI 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-22"]
+    x-axis ["2026-10-29", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-29 13 → 2026-11-22 13（+0）
+2026-10-29 13 → 2026-11-23 13（+0）
 
 
 ---

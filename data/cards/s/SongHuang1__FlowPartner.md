@@ -46,12 +46,12 @@ FlowPartner 是为无计算机背景用户设计的开源 AI Agent 桌面应用�
 ```mermaid
 xychart-beta
     title "SongHuang1/FlowPartner 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

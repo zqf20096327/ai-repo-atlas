@@ -46,12 +46,12 @@ Santander AI Lab 开源的 Python CLI/技能：为单个或多个代码仓库创
 ```mermaid
 xychart-beta
     title "SantanderAI/ralph-vault-skill 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 68 --> 71
     line [70, 69, 69]
 ```
 
-2026-10-20 70 → 2026-11-22 69（-1）
+2026-10-21 70 → 2026-11-23 69（-1）
 
 
 ---

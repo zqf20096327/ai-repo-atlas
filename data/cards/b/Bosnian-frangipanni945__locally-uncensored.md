@@ -37,6 +37,18 @@ README 可见内容仅一行标题，无法验证具体功能细节。仓库描�
 
 > L1: # locally-uncensored
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Bosnian-frangipanni945/locally-uncensored 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 low · 依据 README sha `0196cf173993` · [字段定义](../../DATASET.md)*

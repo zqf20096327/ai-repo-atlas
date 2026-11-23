@@ -1,6 +1,6 @@
 # Gerijacki/WhereAreMyTokens
 
-⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Gerijacki/WhereAreMyTokens) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Gerijacki/WhereAreMyTokens) · 个人维护
 
 **给 Claude Code 订阅用户的自托管用量成本分析面板**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Gerijacki/WhereAreMyTokens 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-20 3 → 2026-11-22 5（+2）
+2026-10-21 3 → 2026-11-23 5（+2）
 
 
 ---

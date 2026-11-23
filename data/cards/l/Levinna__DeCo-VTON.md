@@ -44,13 +44,13 @@ ECCV 2026 论文的官方 PyTorch 实现，最初以 Re-CatVTON 发布。单一 
 
 ```mermaid
 xychart-beta
-    title "Levinna/DeCo-VTON 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    title "Levinna/DeCo-VTON 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 9 --> 13
-    line [10, 12]
+    line [10, 12, 12]
 ```
 
-2026-11-08 10 → 2026-11-22 12（+2）
+2026-11-08 10 → 2026-11-23 12（+2）
 
 
 ---

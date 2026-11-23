@@ -46,12 +46,12 @@ Python 库 pactus（Path Classification Tools for Unifying Strategies），用�
 ```mermaid
 xychart-beta
     title "yupidevs/pactus 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-22"]
+    x-axis ["2026-11-15", "2026-11-23"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-11-15 45 → 2026-11-22 45（+0）
+2026-11-15 45 → 2026-11-23 45（+0）
 
 
 ---

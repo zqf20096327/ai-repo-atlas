@@ -44,12 +44,12 @@ Typesense 官方 showcase 项目：基于 NextJS 的示例 Web 应用，演示"G
 ```mermaid
 xychart-beta
     title "typesense/showcase-natural-language-search-cars-genkit 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-19 14 → 2026-11-22 14（+0）
+2026-10-20 14 → 2026-11-23 14（+0）
 
 
 ---

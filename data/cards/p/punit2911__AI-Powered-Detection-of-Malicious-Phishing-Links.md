@@ -1,6 +1,6 @@
 # punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links
 
-⭐ 75 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links) · [官网](https://phishprobeai.streamlit.app/) · 个人维护
+⭐ 76 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links) · [官网](https://phishprobeai.streamlit.app/) · 个人维护
 
 **面向安全研究者的钓鱼 URL 机器学习检测原型与演示**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 47 --> 77
-    line [49, 64, 73, 75]
+    title "punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 47 --> 78
+    line [49, 64, 73, 75, 76]
 ```
 
-2026-11-19 49 → 2026-11-22 75（+26）
+2026-11-19 49 → 2026-11-23 76（+27）
 
 
 ---

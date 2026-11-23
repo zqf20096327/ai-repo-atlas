@@ -46,12 +46,12 @@ Azure 官方示例模板：一个全栈 Next.js 应用，使用 LlamaIndex.TS �
 ```mermaid
 xychart-beta
     title "Azure-Samples/llama-index-javascript 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-19 76 → 2026-11-22 76（+0）
+2026-10-20 76 → 2026-11-23 76（+0）
 
 
 ---

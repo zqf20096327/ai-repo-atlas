@@ -1,6 +1,6 @@
 # GMS64260/gleba
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/GMS64260/gleba) · [官网](https://gleba.fr/) · 个人维护
+⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/GMS64260/gleba) · [官网](https://gleba.fr/) · 个人维护
 
 **面向小型农场的开源农场管理软件，内置 AI 助手与 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GMS64260/gleba 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-22 10（+0）
+2026-11-08 10 → 2026-11-23 10（+0）
 
 
 ---

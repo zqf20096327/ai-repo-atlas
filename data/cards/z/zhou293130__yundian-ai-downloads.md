@@ -1,6 +1,6 @@
 # zhou293130/yundian-ai-downloads
 
-⭐ 4 · 推送 2026-11-15 · [GitHub](https://github.com/zhou293130/yundian-ai-downloads) · [官网](https://www.ai-yundian.com/) · 组织维护 · 中文 README
+⭐ 5 · 推送 2026-11-15 · [GitHub](https://github.com/zhou293130/yundian-ai-downloads) · [官网](https://www.ai-yundian.com/) · 组织维护 · 中文 README
 
 **面向电商商家的 Windows 自动化工作台：AI 生图与批量上架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zhou293130/yundian-ai-downloads 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-20 3 → 2026-11-22 4（+1）
+2026-11-20 3 → 2026-11-23 5（+2）
 
 
 ---

@@ -46,12 +46,12 @@ macOS 上的语音识别助手应用，基于 Python 调用 Apple SFSpeechRecogn
 ```mermaid
 xychart-beta
     title "rainygirl/rspeaker 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-20 27 → 2026-11-22 27（+0）
+2026-10-21 27 → 2026-11-23 27（+0）
 
 
 ---

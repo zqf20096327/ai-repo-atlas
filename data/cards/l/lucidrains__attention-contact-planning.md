@@ -1,6 +1,6 @@
 # lucidrains/attention-contact-planning
 
-⭐ 21 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lucidrains/attention-contact-planning) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lucidrains/attention-contact-planning) · 个人维护
 
 **ETH 论文的注意力接触规划 PyTorch 实现，wip**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/attention-contact-planning 星数(近 8 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 4 --> 22
-    line [5, 10, 14, 15, 16, 19, 21, 21]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 4 --> 23
+    line [5, 10, 14, 15, 16, 19, 21, 22]
 ```
 
-2026-10-26 5 → 2026-11-22 21（+16）
+2026-10-26 5 → 2026-11-23 22（+17）
 
 
 ---

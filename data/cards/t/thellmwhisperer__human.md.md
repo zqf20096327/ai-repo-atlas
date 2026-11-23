@@ -1,6 +1,6 @@
 # thellmwhisperer/human.md
 
-⭐ 24 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/thellmwhisperer/human.md) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/thellmwhisperer/human.md) · 个人维护
 
 **约束 AI 编程助手作息的配置框架与守护脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thellmwhisperer/human.md 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 19 --> 25
-    line [20, 21, 22, 24, 24]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 19 --> 26
+    line [20, 21, 22, 24, 25]
 ```
 
-2026-10-20 20 → 2026-11-22 24（+4）
+2026-10-21 20 → 2026-11-23 25（+5）
 
 
 ---

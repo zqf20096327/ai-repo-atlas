@@ -46,12 +46,12 @@ StillDesk 通过一个 CLI 和一个 MCP server，为运行在用户机器上的
 ```mermaid
 xychart-beta
     title "YangBY-117/stilldesk 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-10 4 → 2026-11-22 4（+0）
+2026-11-10 4 → 2026-11-23 4（+0）
 
 
 ---

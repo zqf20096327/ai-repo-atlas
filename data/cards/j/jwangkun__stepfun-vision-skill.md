@@ -45,12 +45,12 @@ Codex Skill 脚本：当主模型（如 DeepSeek deepseek-v4-flash）不支持�
 ```mermaid
 xychart-beta
     title "jwangkun/stepfun-vision-skill 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-19 16 → 2026-11-22 16（+0）
+2026-10-20 16 → 2026-11-23 16（+0）
 
 
 ---

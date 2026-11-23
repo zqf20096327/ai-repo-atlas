@@ -45,12 +45,12 @@ Afferm 维护的 Python 概率校准工具包：提供 LinearSplineLogisticRegre
 ```mermaid
 xychart-beta
     title "Affirm/splinator 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-20 26 → 2026-11-22 26（+0）
+2026-10-21 26 → 2026-11-23 26（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Bergschloss/Refine-Cycle-for-Hermes-Agent
 
-⭐ 45 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Bergschloss/Refine-Cycle-for-Hermes-Agent) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Bergschloss/Refine-Cycle-for-Hermes-Agent) · 个人维护
 
 **Hermes Agent 自我改进插件：跨会话识别重复错误并写入最小修正**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bergschloss/Refine-Cycle-for-Hermes-Agent 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 41 --> 46
-    line [42, 43, 42, 44, 45, 45]
+    x-axis ["2026-10-21", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 41 --> 47
+    line [42, 43, 42, 44, 45, 46]
 ```
 
-2026-10-20 42 → 2026-11-22 45（+3）
+2026-10-21 42 → 2026-11-23 46（+4）
 
 
 ---

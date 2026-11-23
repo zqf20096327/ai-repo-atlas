@@ -41,6 +41,18 @@
 > L8: - Our survey paper on arXiv: Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Imag
 > L114: ## Medical Imaging
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xmindflow/Awesome_Mamba 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 270 --> 272
+    line [271, 271]
+```
+
+2026-11-22 271 → 2026-11-23 271（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `80fe2845e300` · [字段定义](../../DATASET.md)*

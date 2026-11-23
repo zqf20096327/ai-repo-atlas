@@ -41,6 +41,18 @@
 > L266: 这需要同时微调两个模块：
 > L407: ### 联合训练（推荐）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "leeoisaboy/cosyvoice-lora-finetune-framework 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-22 14 → 2026-11-23 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f8a30704390b` · [字段定义](../../DATASET.md)*

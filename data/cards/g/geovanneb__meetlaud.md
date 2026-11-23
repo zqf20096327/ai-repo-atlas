@@ -1,6 +1,6 @@
 # geovanneb/meetlaud
 
-⭐ 3 · Swift · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/geovanneb/meetlaud) · 个人维护
+⭐ 3 · Swift · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/geovanneb/meetlaud) · 个人维护
 
 **iOS/Android 离线会议记录应用：录音、转写、区分说话人、摘要与提问全在本机**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "geovanneb/meetlaud 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-22 3（+0）
+2026-11-21 3 → 2026-11-23 3（+0）
 
 
 ---

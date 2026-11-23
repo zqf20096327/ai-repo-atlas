@@ -1,6 +1,6 @@
 # Joanium/Joanium-Classic
 
-⭐ 32 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Joanium/Joanium-Classic) · [官网](https://www.joanium.com) · 组织维护
+⭐ 32 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Joanium/Joanium-Classic) · [官网](https://www.joanium.com) · 组织维护
 
 **本地优先的 AI 桌面助手：多模型聊天、定时自动化与后台 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Joanium/Joanium-Classic 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-20 32 → 2026-11-22 32（+0）
+2026-10-21 32 → 2026-11-23 32（+0）
 
 
 ---

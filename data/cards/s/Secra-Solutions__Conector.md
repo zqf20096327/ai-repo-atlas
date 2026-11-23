@@ -1,6 +1,6 @@
 # Secra-Solutions/Conector
 
-⭐ 5 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Secra-Solutions/Conector) · [官网](https://secra.es) · 组织维护
+⭐ 6 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Secra-Solutions/Conector) · [官网](https://secra.es) · 组织维护
 
 **自托管 MCP 网关：一次接入 1,178 个应用供 47 个 AI agent 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Secra-Solutions/Conector 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 4, 5, 5]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 4, 5, 6]
 ```
 
-2026-10-20 4 → 2026-11-22 5（+1）
+2026-10-21 4 → 2026-11-23 6（+2）
 
 
 ---

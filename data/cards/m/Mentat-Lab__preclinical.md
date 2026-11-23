@@ -1,6 +1,6 @@
 # Mentat-Lab/preclinical
 
-⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/Mentat-Lab/preclinical) · [官网](https://preclinical.dev/) · 组织维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/Mentat-Lab/preclinical) · [官网](https://preclinical.dev/) · 组织维护
 
 **医疗 AI agent 安全测试平台：对抗多轮对话模拟与自动评分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mentat-Lab/preclinical 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-20 18 → 2026-11-22 18（+0）
+2026-10-21 18 → 2026-11-23 19（+1）
 
 
 ---

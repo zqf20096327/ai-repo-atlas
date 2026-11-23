@@ -1,6 +1,6 @@
 # taskvanguard/taskvanguard
 
-⭐ 45 · Go · AGPL-3.0 · 推送 2026-02-07 · [GitHub](https://github.com/taskvanguard/taskvanguard) · 个人维护
+⭐ 46 · Go · AGPL-3.0 · 推送 2026-02-07 · [GitHub](https://github.com/taskvanguard/taskvanguard) · 个人维护
 
 **TaskWarrior 的 LLM 增强命令行包装器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "taskvanguard/taskvanguard 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-20 45 → 2026-11-22 45（+0）
+2026-10-21 45 → 2026-11-23 46（+1）
 
 
 ---

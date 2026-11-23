@@ -1,6 +1,6 @@
 # dzotyara/ai-forge
 
-⭐ 3 · JavaScript · 推送 2026-11-21 · [GitHub](https://github.com/dzotyara/ai-forge) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/dzotyara/ai-forge) · 个人维护 · 中文 README
 
 **把 Claude Code/Codex 审批与问答转发到 Discord/Telegram 远程操作**
 
@@ -41,6 +41,18 @@
 > L5:  AI Forge turns Discord and Telegram into the control room for Claude Code.
 > L74: Everything runs on your machine: a small background service and the plugin's hooks. There is no AI Forge server and
 > L99: claude plugin marketplace add dzotyara/ai-forge
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dzotyara/ai-forge 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

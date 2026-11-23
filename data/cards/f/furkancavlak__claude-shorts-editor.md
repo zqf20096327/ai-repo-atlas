@@ -41,6 +41,18 @@
 > L22: Short motoru video üreten bir yapay zekâ değil, bir kurgucudur: sen ham görüntüyü verirsin (kendi oyun kaydın, kull
 > L40: 1. **Motor:** her video için bir iş klasörü ve bir izleme sayfası (ilerleme, çıkan videolar, tarz defteri). Uzun ka
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "furkancavlak/claude-shorts-editor 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4f36835138be` · [字段定义](../../DATASET.md)*

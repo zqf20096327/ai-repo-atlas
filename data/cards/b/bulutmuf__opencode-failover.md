@@ -1,6 +1,6 @@
 # bulutmuf/opencode-failover
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/bulutmuf/opencode-failover) · [官网](https://www.npmjs.com/package/opencode-failover) · 个人维护
+⭐ 53 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/bulutmuf/opencode-failover) · [官网](https://www.npmjs.com/package/opencode-failover) · 个人维护
 
 **OpenCode 插件：跨多把 API key 自动故障转移与轮换**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bulutmuf/opencode-failover 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-15", "2026-11-23"]
     y-axis "stars" 50 --> 54
-    line [51, 53, 52, 52]
+    line [51, 53, 52, 53]
 ```
 
-2026-10-20 51 → 2026-11-22 52（+1）
+2026-10-21 51 → 2026-11-23 53（+2）
 
 
 ---

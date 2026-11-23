@@ -1,6 +1,6 @@
 # erolilhan/DataForge-Lua
 
-⭐ 68 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/erolilhan/DataForge-Lua) · 个人维护
+⭐ 68 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/erolilhan/DataForge-Lua) · 个人维护
 
 **纯 Lua 编写的机器学习/强化学习模型库，含 120+ 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "erolilhan/DataForge-Lua 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-20 68 → 2026-11-22 68（+0）
+2026-10-21 68 → 2026-11-23 68（+0）
 
 
 ---

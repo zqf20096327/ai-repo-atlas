@@ -45,12 +45,12 @@ B-AROL-O 团队基于 Mangdang MiniPupper 与 ROS2 Humble 的四足机器狗项�
 ```mermaid
 xychart-beta
     title "B-AROL-O/FREISA 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-20 19 → 2026-11-22 19（+0）
+2026-10-21 19 → 2026-11-23 19（+0）
 
 
 ---

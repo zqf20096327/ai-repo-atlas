@@ -45,12 +45,12 @@ Datalayer 维护的 Jupyter 平台管理界面：以可视化方式替代 shell 
 ```mermaid
 xychart-beta
     title "datalayer/jupyter-manager 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-20 17 → 2026-11-22 17（+0）
+2026-10-21 17 → 2026-11-23 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # HatsyRei/maid-native
 
-⭐ 19 · Kotlin · MIT · 推送 2026-11-16 · [GitHub](https://github.com/HatsyRei/maid-native) · 个人维护 · 中文 README
+⭐ 20 · Kotlin · MIT · 推送 2026-11-16 · [GitHub](https://github.com/HatsyRei/maid-native) · 个人维护 · 中文 README
 
 **连接任意 OpenAI 兼容接口的原生 Android 聊天客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HatsyRei/maid-native 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 10 --> 20
-    line [11, 12, 15, 16, 18, 19, 19]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 10 --> 21
+    line [11, 12, 15, 16, 18, 19, 20]
 ```
 
-2026-10-20 11 → 2026-11-22 19（+8）
+2026-10-21 11 → 2026-11-23 20（+9）
 
 
 ---

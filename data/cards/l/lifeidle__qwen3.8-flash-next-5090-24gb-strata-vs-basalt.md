@@ -1,6 +1,6 @@
 # lifeidle/qwen3.8-flash-next-5090-24gb-strata-vs-basalt
 
-⭐ 35 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lifeidle/qwen3.8-flash-next-5090-24gb-strata-vs-basalt) · [官网](https://lifeidle.github.io/qwen3.8-flash-next-5090-24gb-strata-vs-basalt/) · 个人维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lifeidle/qwen3.8-flash-next-5090-24gb-strata-vs-basalt) · [官网](https://lifeidle.github.io/qwen3.8-flash-next-5090-24gb-strata-vs-basalt/) · 个人维护 · 中文 README
 
 **RTX 5090 24GB 上运行 Qwen3.8-Flash-Next 177B 的实测基准记录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lifeidle/qwen3.8-flash-next-5090-24gb-strata-vs-basalt 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 30 --> 36
-    line [31, 32, 33, 35]
+    title "lifeidle/qwen3.8-flash-next-5090-24gb-strata-vs-basalt 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 30 --> 37
+    line [31, 32, 33, 35, 36]
 ```
 
-2026-11-14 31 → 2026-11-22 35（+4）
+2026-11-14 31 → 2026-11-23 36（+5）
 
 
 ---

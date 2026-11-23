@@ -1,6 +1,6 @@
 # Stability-AI/marble
 
-⭐ 41 · Python · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/Stability-AI/marble) · 组织维护
+⭐ 42 · Python · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/Stability-AI/marble) · 组织维护
 
 **图像材质迁移/混合/参数化编辑的官方实现（CVPR 2025）**
 
@@ -45,12 +45,12 @@ MARBLE（Material Recomposition and Blending in CLIP-Space）的官方代码实�
 ```mermaid
 xychart-beta
     title "Stability-AI/marble 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-12", "2026-11-22"]
-    y-axis "stars" 39 --> 42
-    line [41, 40, 41, 41]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-12", "2026-11-23"]
+    y-axis "stars" 39 --> 43
+    line [41, 40, 41, 42]
 ```
 
-2026-10-20 41 → 2026-11-22 41（+0）
+2026-10-21 41 → 2026-11-23 42（+1）
 
 
 ---

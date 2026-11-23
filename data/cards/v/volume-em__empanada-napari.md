@@ -45,12 +45,12 @@ empanada-napari 是一个 napari 插件，用于在 2D 与 3D 电子显微镜细
 ```mermaid
 xychart-beta
     title "volume-em/empanada-napari 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-20 38 → 2026-11-22 38（+0）
+2026-10-21 38 → 2026-11-23 38（+0）
 
 
 ---

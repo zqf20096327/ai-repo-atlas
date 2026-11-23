@@ -1,6 +1,6 @@
 # YesWeAreBot/YesImBot
 
-⭐ 194 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/YesWeAreBot/YesImBot) · [官网](https://docs.yesimbot.chat) · 组织维护 · 中文 README
+⭐ 195 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/YesWeAreBot/YesImBot) · [官网](https://docs.yesimbot.chat) · 组织维护 · 中文 README
 
 **基于 Koishi 的群聊 AI 插件与运行时，让 LLM 融入群聊**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YesWeAreBot/YesImBot 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 191 --> 195
-    line [192, 193, 194, 193, 194, 194]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 191 --> 196
+    line [192, 193, 194, 193, 194, 195]
 ```
 
-2026-10-20 192 → 2026-11-22 194（+2）
+2026-10-21 192 → 2026-11-23 195（+3）
 
 
 ---

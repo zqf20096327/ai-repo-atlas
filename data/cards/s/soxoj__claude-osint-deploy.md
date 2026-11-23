@@ -1,6 +1,6 @@
 # soxoj/claude-osint-deploy
 
-⭐ 28 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/soxoj/claude-osint-deploy) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/soxoj/claude-osint-deploy) · 个人维护
 
 **Claude Code 技能：自动安装并验证 GitHub 上的 OSINT 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "soxoj/claude-osint-deploy 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 22 --> 29
-    line [23, 24, 25, 26, 27, 28, 28]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 22 --> 30
+    line [23, 24, 25, 26, 27, 28, 29]
 ```
 
-2026-10-20 23 → 2026-11-22 28（+5）
+2026-10-21 23 → 2026-11-23 29（+6）
 
 
 ---

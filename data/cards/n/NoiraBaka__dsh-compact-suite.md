@@ -1,6 +1,6 @@
 # NoiraBaka/dsh-compact-suite
 
-⭐ 6 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/NoiraBaka/dsh-compact-suite) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 DSH 加上下文压缩控制面板的插件：管理压缩时机与摘要模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

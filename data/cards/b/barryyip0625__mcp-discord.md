@@ -1,6 +1,6 @@
 # barryyip0625/mcp-discord
 
-⭐ 112 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/barryyip0625/mcp-discord) · 个人维护
+⭐ 113 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/barryyip0625/mcp-discord) · 个人维护
 
 **让 AI 助手操作 Discord 的 MCP 服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "barryyip0625/mcp-discord 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 106 --> 113
-    line [107, 108, 111, 112, 112]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 106 --> 114
+    line [107, 108, 111, 112, 113]
 ```
 
-2026-10-20 107 → 2026-11-22 112（+5）
+2026-10-21 107 → 2026-11-23 113（+6）
 
 
 ---

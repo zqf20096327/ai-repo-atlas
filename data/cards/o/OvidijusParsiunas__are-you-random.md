@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OvidijusParsiunas/are-you-random 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "OvidijusParsiunas/are-you-random 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-10-20 11 → 2026-11-22 12（+1）
+2026-10-21 11 → 2026-11-23 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # theappfoundryco/personal-homelab-server
 
-⭐ 9 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/theappfoundryco/personal-homelab-server) · [官网](https://theappfoundry.co/homelab) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/theappfoundryco/personal-homelab-server) · [官网](https://theappfoundry.co/homelab) · 组织维护
 
 **自托管个人助理套件：仪表盘+Telegram机器人+本地AI可选应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "theappfoundryco/personal-homelab-server 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 7 --> 10
-    line [8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-08 8 → 2026-11-22 9（+1）
+2026-11-08 8 → 2026-11-23 10（+2）
 
 
 ---

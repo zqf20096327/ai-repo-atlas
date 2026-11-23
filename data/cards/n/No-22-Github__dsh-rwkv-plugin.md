@@ -1,6 +1,6 @@
 # No-22-Github/dsh-rwkv-plugin
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/No-22-Github/dsh-rwkv-plugin) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/No-22-Github/dsh-rwkv-plugin) · 个人维护 · 中文 README
 
 **把 RWKV-7 G1 接入 DeepSeek Harness 的模型提供方插件**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）桌面版的插件：注册 `rwkv` 模型提供方，�
 ```mermaid
 xychart-beta
     title "No-22-Github/dsh-rwkv-plugin 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-22 3（+0）
+2026-11-16 3 → 2026-11-23 3（+0）
 
 
 ---

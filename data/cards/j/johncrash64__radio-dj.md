@@ -1,6 +1,6 @@
 # johncrash64/radio-dj
 
-⭐ 61 · Go · MIT · 推送 2026-08-12 · [GitHub](https://github.com/johncrash64/radio-dj) · 个人维护
+⭐ 62 · Go · MIT · 推送 2026-08-12 · [GitHub](https://github.com/johncrash64/radio-dj) · 个人维护
 
 **单个 Go 二进制运行 24/7 AI DJ 网络电台**
 
@@ -45,12 +45,12 @@ radio-dj 是一个约 9 MB 的 Go 单二进制程序，指向本地音乐文件�
 ```mermaid
 xychart-beta
     title "johncrash64/radio-dj 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    x-axis ["2026-10-20", "2026-10-23", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 58 --> 63
+    line [59, 60, 61, 62]
 ```
 
-2026-10-19 59 → 2026-11-22 61（+2）
+2026-10-20 59 → 2026-11-23 62（+3）
 
 
 ---

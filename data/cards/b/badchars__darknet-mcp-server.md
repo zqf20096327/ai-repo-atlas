@@ -1,6 +1,6 @@
 # badchars/darknet-mcp-server
 
-⭐ 542 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/badchars/darknet-mcp-server) · [官网](https://www.npmjs.com/package/darknet-mcp-server) · 个人维护 · 中文 README
+⭐ 541 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/badchars/darknet-mcp-server) · [官网](https://www.npmjs.com/package/darknet-mcp-server) · 个人维护 · 中文 README
 
 **给 AI agent 的暗网与威胁情报 MCP 服务器（66 工具/16 源）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "badchars/darknet-mcp-server 星数(近 11 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "badchars/darknet-mcp-server 星数(近 12 点)"
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 519 --> 544
-    line [521, 524, 526, 527, 528, 527, 530, 531, 538, 541, 542]
+    line [521, 524, 526, 527, 528, 527, 530, 531, 538, 541, 542, 541]
 ```
 
-2026-10-31 521 → 2026-11-22 542（+21）
+2026-10-31 521 → 2026-11-23 541（+20）
 
 
 ---

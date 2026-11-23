@@ -1,6 +1,6 @@
 # Wendystar0628/AI-High-Pressure-Challenge
 
-⭐ 81 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Wendystar0628/AI-High-Pressure-Challenge) · [官网](https://octathlon.wendystars.com) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 AI 编程智能体的限时评测基准：10 类 13 题**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | MIT |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

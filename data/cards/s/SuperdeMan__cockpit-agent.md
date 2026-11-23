@@ -1,6 +1,6 @@
 # SuperdeMan/cockpit-agent
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/SuperdeMan/cockpit-agent) · 个人维护 · 中文 README
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SuperdeMan/cockpit-agent) · 个人维护 · 中文 README
 
 **云边协同的智能座舱 AI Agent 系统，语音入口办车控与出行任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SuperdeMan/cockpit-agent 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-23"]
     y-axis "stars" 24 --> 31
     line [25, 26, 28, 27, 29, 30, 30]
 ```
 
-2026-10-20 25 → 2026-11-22 30（+5）
+2026-10-21 25 → 2026-11-23 30（+5）
 
 
 ---

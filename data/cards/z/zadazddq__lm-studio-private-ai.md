@@ -1,6 +1,6 @@
 # zadazddq/lm-studio-private-ai
 
-⭐ 149 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/zadazddq/lm-studio-private-ai) · 个人维护
+⭐ 146 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/zadazddq/lm-studio-private-ai) · 个人维护
 
 **本地运行大语言模型的桌面软件，数据不出本机**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zadazddq/lm-studio-private-ai 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 58 --> 157
-    line [66, 149, 149]
+    line [66, 149, 146]
 ```
 
-2026-11-20 66 → 2026-11-22 149（+83）
+2026-11-20 66 → 2026-11-23 146（+80）
 
 
 ---

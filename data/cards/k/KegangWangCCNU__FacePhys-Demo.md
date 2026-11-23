@@ -1,6 +1,6 @@
 # KegangWangCCNU/FacePhys-Demo
 
-⭐ 65 · JavaScript · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/KegangWangCCNU/FacePhys-Demo) · [官网](https://kegangwangccnu.github.io/FacePhys-Demo/) · 个人维护
+⭐ 65 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/KegangWangCCNU/FacePhys-Demo) · [官网](https://kegangwangccnu.github.io/FacePhys-Demo/) · 个人维护
 
 **网页端 rPPG 生理监测演示：摄像头面部视频测心率**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KegangWangCCNU/FacePhys-Demo 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-10", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-10", "2026-11-20", "2026-11-23"]
     y-axis "stars" 62 --> 66
     line [64, 63, 64, 65, 65]
 ```
 
-2026-10-20 64 → 2026-11-22 65（+1）
+2026-10-21 64 → 2026-11-23 65（+1）
 
 
 ---

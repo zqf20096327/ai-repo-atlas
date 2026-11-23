@@ -1,6 +1,6 @@
 # uonick/axiom
 
-⭐ 3 · Astro · 推送 2026-11-17 · [GitHub](https://github.com/uonick/axiom) · [官网](https://getaxiom.ru) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向开发者的本地优先 AI 桌面编程助手应用**
 

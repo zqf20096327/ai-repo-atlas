@@ -1,6 +1,6 @@
 # sl251/astrbot_plugin_antigravity_acp
 
-⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sl251/astrbot_plugin_antigravity_acp) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sl251/astrbot_plugin_antigravity_acp) · 个人维护
 
 **把 Google Antigravity 经 agy CLI 接成 AstrBot 原生 Provider 的插件**
 
@@ -44,13 +44,13 @@ AstrBot 插件，通过本机官方 agy 客户端的 ACP 协议（stdio 管道�
 
 ```mermaid
 xychart-beta
-    title "sl251/astrbot_plugin_antigravity_acp 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    title "sl251/astrbot_plugin_antigravity_acp 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 7 --> 12
-    line [8, 9, 10, 11]
+    line [8, 9, 10, 11, 11]
 ```
 
-2026-11-18 8 → 2026-11-22 11（+3）
+2026-11-18 8 → 2026-11-23 11（+3）
 
 
 ---

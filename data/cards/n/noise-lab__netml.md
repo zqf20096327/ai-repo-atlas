@@ -41,6 +41,18 @@
 > L12: Detect novelties / anomalies, via different models, such as OCSVM.
 > L130: * `--algorithm`: selection of model-training algorithms, such as One-Class Support Vector Machine (OCSVM), Kernel 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noise-lab/netml 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 75 --> 77
+    line [76, 76]
+```
+
+2026-11-22 76 → 2026-11-23 76（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0132a9279a4a` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # timoncool/angry-switcher
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/timoncool/angry-switcher) · [官网](https://timoncool.github.io/angry-switcher/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/timoncool/angry-switcher) · [官网](https://timoncool.github.io/angry-switcher/) · 个人维护 · 中文 README
 
 **Claude Code 插件：在你输入的提示发送前清洗错字、错布局与脏话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "timoncool/angry-switcher 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-22"]
+    x-axis ["2026-11-02", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-22 3（+0）
+2026-11-02 3 → 2026-11-23 3（+0）
 
 
 ---

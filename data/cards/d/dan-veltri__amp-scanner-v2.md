@@ -45,12 +45,12 @@ AMP Scanner v2 是 2018 年 Bioinformatics 论文 'Deep learning improves antimi
 ```mermaid
 xychart-beta
     title "dan-veltri/amp-scanner-v2 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-20 13 → 2026-11-22 14（+1）
+2026-10-21 13 → 2026-11-23 14（+1）
 
 
 ---

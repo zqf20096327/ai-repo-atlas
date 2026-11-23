@@ -1,6 +1,6 @@
 # cc6pzupa/cc-deal-hunter
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/cc6pzupa/cc-deal-hunter) · [官网](https://wool.eshop.us.ci) · 个人维护 · 中文 README
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/cc6pzupa/cc-deal-hunter) · [官网](https://wool.eshop.us.ci) · 个人维护 · 中文 README
 
 **给 AI agent 装的薅羊毛技能：发现、核对、去重并自动领优惠**
 
@@ -40,6 +40,18 @@
 > L5: 让 Grok Bot、Muse、ChatGPT Work 这类自带云电脑的 AI 帮你薅羊毛：**全网找羊毛 → 回官方页核对 → 分类去重 → 用你登录好的浏览器自动领 → 过期归档 → 出日报。** 你用什么语言跟它说话，它就用
 > L28: > **给 AI 看的说明 / For AI agents**：「安装」= 在这一轮里把全部设置做完，不要只复制文件就停。不能安装 skill 的（Grok Bot、Muse、ChatGPT Work 等）：读取 `PROMPT.
 > L65:   SKILL.md                  主流程（中英双语）：发现 → 核对 → 记账 → 领取 → 汇报 → 定时
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cc6pzupa/cc-deal-hunter 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

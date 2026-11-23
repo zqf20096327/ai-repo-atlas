@@ -1,6 +1,6 @@
 # eduardoabreu81/visage-forge-neo
 
-⭐ 7 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/eduardoabreu81/visage-forge-neo) · 个人维护
+⭐ 8 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/eduardoabreu81/visage-forge-neo) · 个人维护
 
 **Forge Neo 的换脸/修脸/精修扩展，纯 ONNX 无需编译**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "eduardoabreu81/visage-forge-neo 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 3, 7, 7]
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 3, 7, 8]
 ```
 
-2026-10-23 3 → 2026-11-22 7（+4）
+2026-10-23 3 → 2026-11-23 8（+5）
 
 
 ---

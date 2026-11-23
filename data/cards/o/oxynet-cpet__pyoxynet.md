@@ -1,6 +1,6 @@
 # oxynet-cpet/pyoxynet
 
-⭐ 27 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/oxynet-cpet/pyoxynet) · [官网](https://oxynet-cpet.github.io/pyoxynet/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/oxynet-cpet/pyoxynet) · [官网](https://oxynet-cpet.github.io/pyoxynet/) · 个人维护
 
 **本地分析心肺运动测试数据的深度学习模型包，输出运动强度域与通气阈**
 
@@ -46,12 +46,12 @@ Oxynet 研究论文的开源模型 Python 包：输入逐秒或逐呼吸的 CPET
 ```mermaid
 xychart-beta
     title "oxynet-cpet/pyoxynet 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-23"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-11-08 26 → 2026-11-22 27（+1）
+2026-11-08 26 → 2026-11-23 27（+1）
 
 
 ---

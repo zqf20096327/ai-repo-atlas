@@ -40,6 +40,18 @@
 > L8: Stdlib-first tool for removing AI provenance marks from text and files —
 > L51: > **3. Generic AI-tool invisible-character and metadata marks — reliably removed.**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AryamanSi17/claude-watermark-remover 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f726b481b31a` · [字段定义](../../DATASET.md)*

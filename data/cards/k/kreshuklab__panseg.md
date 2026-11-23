@@ -1,6 +1,6 @@
 # kreshuklab/panseg
 
-⭐ 139 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kreshuklab/panseg) · [官网](https://kreshuklab.github.io/panseg/latest/) · 组织维护
+⭐ 139 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kreshuklab/panseg) · [官网](https://kreshuklab.github.io/panseg/latest/) · 组织维护
 
 **密集 3D 体积图像的细胞实例分割工具（含预训练模型）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kreshuklab/panseg 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23"]
     y-axis "stars" 134 --> 140
     line [135, 136, 135, 138, 139, 139]
 ```
 
-2026-10-20 135 → 2026-11-22 139（+4）
+2026-10-21 135 → 2026-11-23 139（+4）
 
 
 ---

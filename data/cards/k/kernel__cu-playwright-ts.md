@@ -1,6 +1,6 @@
 # kernel/cu-playwright-ts
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kernel/cu-playwright-ts) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kernel/cu-playwright-ts) · 组织维护
 
 **把 Claude Computer Use 映射到 Playwright 的浏览器自动化 TypeScript SDK**
 
@@ -44,12 +44,12 @@ TypeScript SDK，将 Anthropic 的 Computer Use 能力与 Playwright 结合：�
 ```mermaid
 xychart-beta
     title "kernel/cu-playwright-ts 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-13", "2026-11-23"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-19 12 → 2026-11-22 13（+1）
+2026-10-20 12 → 2026-11-23 13（+1）
 
 
 ---

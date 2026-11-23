@@ -1,6 +1,6 @@
 # natnew/Awesome-Prompt-Engineering
 
-⭐ 115 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/natnew/Awesome-Prompt-Engineering) · [官网](https://natnew.github.io/Awesome-Prompt-Engineering/) · 个人维护
+⭐ 116 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/natnew/Awesome-Prompt-Engineering) · [官网](https://natnew.github.io/Awesome-Prompt-Engineering/) · 个人维护
 
 **提示工程/上下文工程资源策展清单，面向开发与研究者**
 
@@ -46,12 +46,12 @@ Awesome 系列的提示工程资源聚合仓库：收录从基础提示技巧到
 ```mermaid
 xychart-beta
     title "natnew/Awesome-Prompt-Engineering 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 112 --> 116
-    line [113, 114, 115, 115]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 112 --> 117
+    line [113, 114, 115, 116]
 ```
 
-2026-10-20 113 → 2026-11-22 115（+2）
+2026-10-21 113 → 2026-11-23 116（+3）
 
 
 ---

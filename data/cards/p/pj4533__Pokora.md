@@ -1,6 +1,6 @@
 # pj4533/Pokora
 
-⭐ 54 · Swift · MIT · 推送 2025-12-29 · [GitHub](https://github.com/pj4533/Pokora) · 个人维护
+⭐ 53 · Swift · MIT · 推送 2025-12-29 · [GitHub](https://github.com/pj4533/Pokora) · 个人维护
 
 **本地 Stable Diffusion 视频 AI 创作平台（macOS SwiftUI 应用）**
 
@@ -45,12 +45,12 @@ macOS 原生 SwiftUI 视频创作应用：读取本地视频，抽取帧并用 S
 ```mermaid
 xychart-beta
     title "pj4533/Pokora 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
-    y-axis "stars" 53 --> 56
-    line [55, 54, 54]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
+    y-axis "stars" 52 --> 56
+    line [55, 54, 53]
 ```
 
-2026-10-20 55 → 2026-11-22 54（-1）
+2026-10-21 55 → 2026-11-23 53（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # axisvela/praxo-core-java
 
-⭐ 3 · Java · MIT · 推送 2026-11-21 · [GitHub](https://github.com/axisvela/praxo-core-java) · [官网](https://axisvela.github.io/praxo-core/languages/java/) · 组织维护
+⭐ 4 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core-java) · [官网](https://axisvela.github.io/praxo-core/languages/java/) · 组织维护
 
 **可嵌入 Java 应用的 AI Agent 框架实现**
 
@@ -46,12 +46,12 @@ PRAXO-CORE 契约的 Java 实现，以 Maven 包（com.axisvela:praxo-core）发
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-java 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-19", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-19 3 → 2026-11-22 3（+0）
+2026-11-19 3 → 2026-11-23 4（+1）
 
 
 ---

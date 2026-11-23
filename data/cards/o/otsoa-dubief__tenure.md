@@ -1,6 +1,6 @@
 # otsoa-dubief/tenure
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/otsoa-dubief/tenure) · [官网](https://hermes-agent.nousresearch.com/marketplace/tenure) · 个人维护 · 中文 README
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/otsoa-dubief/tenure) · [官网](https://hermes-agent.nousresearch.com/marketplace/tenure) · 个人维护 · 中文 README
 
 **为 Hermes agent 提供可撤销信任与自治分级管理**
 
@@ -46,12 +46,12 @@ tenure 是 Hermes Agent 的插件，按动作类型管理代理的自治程度�
 ```mermaid
 xychart-beta
     title "otsoa-dubief/tenure 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23"]
     y-axis "stars" 7 --> 12
     line [8, 9, 10, 11, 11]
 ```
 
-2026-11-15 8 → 2026-11-22 11（+3）
+2026-11-15 8 → 2026-11-23 11（+3）
 
 
 ---

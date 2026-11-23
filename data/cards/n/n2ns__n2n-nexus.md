@@ -1,6 +1,6 @@
 # n2ns/n2n-nexus
 
-⭐ 17 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/n2ns/n2n-nexus) · [官网](https://n2ns.com/projects/n2n-nexus) · 组织维护 · 中文 README
+⭐ 17 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/n2ns/n2n-nexus) · [官网](https://n2ns.com/projects/n2n-nexus) · 组织维护 · 中文 README
 
 **本地优先的 MCP 协调中枢：让多个 AI 助手共享项目状态**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "n2ns/n2n-nexus 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-21", "2026-11-22"]
+    title "n2ns/n2n-nexus 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17]
+    line [14, 15, 16, 17, 17]
 ```
 
-2026-10-20 14 → 2026-11-22 17（+3）
+2026-10-21 14 → 2026-11-23 17（+3）
 
 
 ---

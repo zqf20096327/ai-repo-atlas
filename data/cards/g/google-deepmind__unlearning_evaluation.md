@@ -45,12 +45,12 @@ DeepMind 发布的竞赛评测代码，用于为 NeurIPS 2023 Machine Unlearning
 ```mermaid
 xychart-beta
     title "google-deepmind/unlearning_evaluation 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-20 20 → 2026-11-22 20（+0）
+2026-10-21 20 → 2026-11-23 20（+0）
 
 
 ---

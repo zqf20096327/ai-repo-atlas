@@ -42,6 +42,18 @@
 > L81: ### AI Mask (optional add-on)
 > L98: - Runs locally with Ollama and the model of your choice. Long videos are read in parts
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bioheater/Vitool 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-22 12 → 2026-11-23 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `44f2dc462bd9` · [字段定义](../../DATASET.md)*

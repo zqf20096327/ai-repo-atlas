@@ -1,6 +1,6 @@
 # enescingoz/mac-llm-bench
 
-⭐ 46 · Shell · MIT · 推送 2026-04-22 · [GitHub](https://github.com/enescingoz/mac-llm-bench) · 个人维护
+⭐ 47 · Shell · MIT · 推送 2026-04-22 · [GitHub](https://github.com/enescingoz/mac-llm-bench) · 个人维护
 
 **Apple Silicon 上本地运行 LLM 的社区性能基准数据库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "enescingoz/mac-llm-bench 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47]
 ```
 
-2026-10-20 45 → 2026-11-22 46（+1）
+2026-10-21 45 → 2026-11-23 47（+2）
 
 
 ---

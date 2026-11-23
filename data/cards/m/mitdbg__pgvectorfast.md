@@ -1,6 +1,6 @@
 # mitdbg/pgvectorfast
 
-⭐ 24 · C · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/mitdbg/pgvectorfast) · 组织维护
+⭐ 26 · C · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/mitdbg/pgvectorfast) · 组织维护
 
 **加速 pgvector 向量检索的 PostgreSQL 扩展（Calico 缓冲池）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mitdbg/pgvectorfast 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 10 --> 25
-    line [11, 17, 21, 23, 24]
+    title "mitdbg/pgvectorfast 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 10 --> 27
+    line [11, 17, 21, 23, 24, 26]
 ```
 
-2026-11-16 11 → 2026-11-22 24（+13）
+2026-11-16 11 → 2026-11-23 26（+15）
 
 
 ---

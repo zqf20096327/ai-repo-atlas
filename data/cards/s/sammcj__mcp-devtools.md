@@ -1,6 +1,6 @@
 # sammcj/mcp-devtools
 
-⭐ 165 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/sammcj/mcp-devtools) · [官网](https://smcleod.net) · 个人维护
+⭐ 165 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sammcj/mcp-devtools) · [官网](https://smcleod.net) · 个人维护
 
 **面向 AI 编程 agent 的 Go 单二进制 MCP 服务器，聚合常用开发工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sammcj/mcp-devtools 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 160 --> 166
     line [161, 164, 165, 165]
 ```
 
-2026-10-20 161 → 2026-11-22 165（+4）
+2026-10-21 161 → 2026-11-23 165（+4）
 
 
 ---

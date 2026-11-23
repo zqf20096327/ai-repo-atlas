@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hanzo-Huang/rk3576-home-assistant-voice 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-20", "2026-11-22"]
+    title "Hanzo-Huang/rk3576-home-assistant-voice 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 18 --> 22
-    line [19, 20, 21]
+    line [19, 20, 21, 21]
 ```
 
-2026-10-19 19 → 2026-11-22 21（+2）
+2026-10-20 19 → 2026-11-23 21（+2）
 
 
 ---

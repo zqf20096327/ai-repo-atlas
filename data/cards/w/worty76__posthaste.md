@@ -1,6 +1,6 @@
 # worty76/posthaste
 
-⭐ 11 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/worty76/posthaste) · [官网](https://posthaste.ink) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/worty76/posthaste) · [官网](https://posthaste.ink) · 个人维护
 
 **本地优先、键盘驱动的待办笔记应用，可选 AI 润色**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "worty76/posthaste 星数(近 7 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3 --> 12
-    line [4, 5, 6, 9, 10, 11, 11]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 3 --> 13
+    line [4, 5, 6, 9, 10, 11, 12]
 ```
 
-2026-11-15 4 → 2026-11-22 11（+7）
+2026-11-15 4 → 2026-11-23 12（+8）
 
 
 ---

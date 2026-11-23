@@ -1,10 +1,10 @@
 # nteract/semiotic
 
-⭐ 2,716 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/nteract/semiotic) · [官网](https://semiotic.nteract.io) · 组织维护
+⭐ 2,716 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nteract/semiotic) · [官网](https://semiotic.nteract.io) · 组织维护
 
-**面向 AI 辅助开发的 React 数据可视化库**
+**面向 AI 辅助开发的 React 数据可视化组件库**
 
-nteract 维护的 React 图表库，覆盖 XY、分类、网络图、地理、实时流式与联动视图等 6 类 60 余个组件；实时图表以 canvas 60fps 渲染并支持 ref 推送 API。面向需要在前端嵌入复杂可视化的开发者，AI 定位是辅助开发：提供 semiotic/ai 能力目录、机器可读 schema、MCP 服务器（npx semiotic-mcp）、CLI doctor 校验与 anti-pattern 诊断，供编码助手生成和修复图表配置。需 React 18.1+/19，npm 安装。限制：不保证 AI 一次生成正确；超大规模点渲染场景建议其他库。
+提供 XY、分类、网络、地理、实时流、物理模拟等家族的 React 图表组件，共用 accessor 驱动的 prop API；实时图表基于 canvas 渲染并通过 ref 推送数据，支持 LinkedCharts 联动视图与 Vega-Lite spec 翻译。针对 AI 辅助开发场景，附带 schema 驱动的组件目录、MCP 服务器、CLI 校验工具、反模式诊断与数据预检，以及 AGENTS.md/llms.txt 等机器可读文档；每个图表内置错误边界、开发态校验警告与键盘/无障碍支持。需 React 18.1+ 或 19，经 npm 安装。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ nteract 维护的 React 图表库，覆盖 XY、分类、网络图、地理、�
 
 ## 能力要点
 
-- 41 个稳定入口、60+ 图表组件（XY/分类/网络/地理/实时/联动）
-- MCP 服务器 + CLI doctor + diagnoseConfig 用于生成/校验/修复图表配置
-- 实时流式图表 canvas 60fps 渲染，带 decay/pulse/staleness 编码
-- Vega-Lite spec 可经 fromVegaLite 转换为 Semiotic 配置
+- 覆盖 XY/分类/网络/地理/实时/物理等家族的 React 图表组件
+- 提供 semiotic-mcp MCP 服务器与 CLI doctor 校验工具
+- schema 驱动的组件目录与 diagnoseConfig 反模式检测
+- LinkedCharts 跨图表联动与 Vega-Lite 双向翻译
 
 ## 适用场景
 
-- 在 React 应用中嵌入网络图、实时监控流式图表与联动视图
-- 让编码助手（MCP 客户端/Copilot/Claude）按 schema 生成并自动校验图表代码
-- 将笔记本或 AI 生成的 Vega-Lite 规格转换为 React 图表组件
+- 为 React 应用添加流式监控大盘与实时图表
+- 构建网络关系图、桑基图与地理可视化
+- 让编码助手基于 schema 生成并校验图表配置
 
 ## 场景标签
 
- · 领域:前端数据可视化
+ · 领域:开发者工具/数据可视化
 
 ## 证据(README 行号)
 
 > L12: A React data visualization library designed for AI-assisted development and streaming data.
-> L49: Semiotic provides a workflow for generating, checking and repairing chart
+> L199: Semiotic provides a workflow for generating, checking and repairing chart
+> L203: - **`semiotic/ai`** — a single import with the schema-backed chart capability catalog (XY, ordinal, network, realt
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "nteract/semiotic 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23"]
     y-axis "stars" 2715 --> 2718
     line [2716, 2717, 2716, 2717, 2716, 2716]
 ```
 
-2026-10-20 2,716 → 2026-11-22 2,716（+0）
+2026-10-21 2,716 → 2026-11-23 2,716（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7cd1364f4b8c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1492991e38a2` · [字段定义](../../DATASET.md)*

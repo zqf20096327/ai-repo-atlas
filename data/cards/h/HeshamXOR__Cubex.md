@@ -1,6 +1,6 @@
 # HeshamXOR/Cubex
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/HeshamXOR/Cubex) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **连接任意模型的桌面编码 Agent，逐块审查代码改动**
 
@@ -11,7 +11,7 @@ Cubex 是 Electron 桌面应用，用于在本地代码库上运行编码 Agent�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Phoenix-chaser/CodeAgent-R
 
-⭐ 7 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Phoenix-chaser/CodeAgent-R) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Phoenix-chaser/CodeAgent-R) · 个人维护 · 中文 README
 
 **面向代码修复的后训练实验平台：可审计地微调与评测模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Phoenix-chaser/CodeAgent-R 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-08 7 → 2026-11-22 7（+0）
+2026-11-08 7 → 2026-11-23 7（+0）
 
 
 ---

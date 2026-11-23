@@ -1,6 +1,6 @@
 # sgl-project/sgl-kernel-xpu
 
-⭐ 38 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sgl-project/sgl-kernel-xpu) · 组织维护
+⭐ 39 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sgl-project/sgl-kernel-xpu) · 组织维护
 
 **SGLang 框架面向 Intel XPU 的官方 kernel 库**
 
@@ -45,12 +45,12 @@ sglang-kernel-xpu 是 SGLang 框架在 Intel XPU 平台上的官方计算 kernel
 ```mermaid
 xychart-beta
     title "sgl-project/sgl-kernel-xpu 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 36, 37, 38, 38]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 36, 37, 38, 39]
 ```
 
-2026-10-20 36 → 2026-11-22 38（+2）
+2026-10-21 36 → 2026-11-23 39（+3）
 
 
 ---

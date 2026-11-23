@@ -45,12 +45,12 @@ App Use 是一个 Python 库，用于连接 AI agent 与 iOS/Android 移动应�
 ```mermaid
 xychart-beta
     title "erickjtorres/app-use 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-19 69 → 2026-11-22 69（+0）
+2026-10-20 69 → 2026-11-23 69（+0）
 
 
 ---

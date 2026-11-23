@@ -1,6 +1,6 @@
 # cognizant-ai-labs/agentic-web
 
-⭐ 28 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/cognizant-ai-labs/agentic-web) · [官网](https://worldwideagenticweb.org/) · 组织维护
+⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cognizant-ai-labs/agentic-web) · [官网](https://worldwideagenticweb.org/) · 组织维护
 
 **开放 Agentic Web 挑战：让网站在浏览器中运行可互联的 agent 网络**
 
@@ -44,13 +44,13 @@ Cognizant AI Labs 维护的开放 agentic web 规范与示例仓库：定义公�
 
 ```mermaid
 xychart-beta
-    title "cognizant-ai-labs/agentic-web 星数(近 9 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 2 --> 30
-    line [4, 13, 15, 17, 21, 23, 24, 25, 28]
+    title "cognizant-ai-labs/agentic-web 星数(近 10 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 33
+    line [4, 13, 15, 17, 21, 23, 24, 25, 28, 31]
 ```
 
-2026-11-12 4 → 2026-11-22 28（+24）
+2026-11-12 4 → 2026-11-23 31（+27）
 
 
 ---

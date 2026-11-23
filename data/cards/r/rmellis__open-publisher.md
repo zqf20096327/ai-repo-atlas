@@ -1,6 +1,6 @@
 # rmellis/open-publisher
 
-⭐ 42 · JavaScript · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rmellis/open-publisher) · [官网](https://openpublisher.app) · 个人维护
+⭐ 42 · JavaScript · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rmellis/open-publisher) · [官网](https://openpublisher.app) · 个人维护
 
 **免费跨平台桌面排版软件：替代 Microsoft Publisher 设计印刷品**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rmellis/open-publisher 星数(近 4 点)"
-    x-axis ["2026-11-12", "2026-11-15", "2026-11-16", "2026-11-22"]
+    title "rmellis/open-publisher 星数(近 5 点)"
+    x-axis ["2026-11-12", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-23"]
     y-axis "stars" 38 --> 43
-    line [39, 40, 41, 42]
+    line [39, 40, 41, 42, 42]
 ```
 
-2026-11-12 39 → 2026-11-22 42（+3）
+2026-11-12 39 → 2026-11-23 42（+3）
 
 
 ---

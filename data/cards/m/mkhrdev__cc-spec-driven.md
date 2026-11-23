@@ -1,6 +1,6 @@
 # mkhrdev/cc-spec-driven
 
-⭐ 30 · 推送 2026-01-26 · [GitHub](https://github.com/mkhrdev/cc-spec-driven) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Claude Code 插件：以规格文档驱动开发，管理需求与变更追踪**
 

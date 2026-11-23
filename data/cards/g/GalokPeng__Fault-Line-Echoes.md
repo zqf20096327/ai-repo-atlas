@@ -1,6 +1,6 @@
 # GalokPeng/Fault-Line-Echoes
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/GalokPeng/Fault-Line-Echoes) · [官网](https://fault-line-echoes.vercel.app) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/GalokPeng/Fault-Line-Echoes) · [官网](https://fault-line-echoes.vercel.app) · 个人维护 · 中文 README
 
 **浏览器 3D 冒险游戏及供 agent 构建自有游戏世界的技能包**
 
@@ -40,6 +40,18 @@
 > L3:  An original first-person browser adventure and an installable agent skill for building a game world of your own.
 > L11: Tell the agent **what the player does, which choice is difficult and what changes afterward**. You can speak Englis
 > L13: **Install.** Open the bilingual guide, choose **Download the skill**, unzip it and put the entire `build-game-world
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GalokPeng/Fault-Line-Echoes 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

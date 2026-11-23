@@ -1,6 +1,6 @@
 # AzureAnimations/AzureAnimations.github.io
 
-⭐ 32 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/AzureAnimations/AzureAnimations.github.io) · [官网](https://azureanimations.github.io/) · 组织维护
+⭐ 32 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/AzureAnimations/AzureAnimations.github.io) · [官网](https://azureanimations.github.io/) · 组织维护
 
 **以动画讲解 Azure 云与 AI 概念的学习站点**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AzureAnimations/AzureAnimations.github.io 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-20 32 → 2026-11-22 32（+0）
+2026-10-21 32 → 2026-11-23 32（+0）
 
 
 ---

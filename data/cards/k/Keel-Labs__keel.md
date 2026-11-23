@@ -1,6 +1,6 @@
 # Keel-Labs/keel
 
-⭐ 50 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/Keel-Labs/keel) · [官网](https://github.com/Keel-Labs/keel/releases/latest) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/Keel-Labs/keel) · [官网](https://github.com/Keel-Labs/keel/releases/latest) · 个人维护
 
 **本地优先的 Mac/Windows AI 助手，记忆存为 markdown 归用户所有**
 
@@ -46,12 +46,12 @@ Electron 桌面应用（macOS/Windows）：以磁盘上的纯 markdown 文件夹
 ```mermaid
 xychart-beta
     title "Keel-Labs/keel 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 46 --> 51
-    line [47, 48, 49, 48, 50, 50]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 46 --> 52
+    line [47, 48, 49, 48, 50, 51]
 ```
 
-2026-10-20 47 → 2026-11-22 50（+3）
+2026-10-21 47 → 2026-11-23 51（+4）
 
 
 ---

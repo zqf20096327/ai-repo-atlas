@@ -1,6 +1,6 @@
 # adachi0130/Adachi-Inpaint-Workbench
 
-⭐ 3 · JavaScript · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/adachi0130/Adachi-Inpaint-Workbench) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/adachi0130/Adachi-Inpaint-Workbench) · 个人维护 · 中文 README
 
 **ComfyUI 内联蒙版局部重绘与图像对比节点包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adachi0130/Adachi-Inpaint-Workbench 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 3, 3]
 ```
 
-2026-10-20 3 → 2026-11-22 3（+0）
+2026-10-21 3 → 2026-11-23 3（+0）
 
 
 ---

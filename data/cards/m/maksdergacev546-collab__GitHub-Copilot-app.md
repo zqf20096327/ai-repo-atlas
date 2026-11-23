@@ -45,13 +45,13 @@ GitHub 官方发布的桌面应用，定位为 agent-native 的软件工作管�
 
 ```mermaid
 xychart-beta
-    title "maksdergacev546-collab/GitHub-Copilot-app 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "maksdergacev546-collab/GitHub-Copilot-app 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 51 --> 63
-    line [62, 57, 56, 52]
+    line [62, 57, 56, 52, 52]
 ```
 
-2026-11-18 62 → 2026-11-22 52（-10）
+2026-11-18 62 → 2026-11-23 52（-10）
 
 
 ---

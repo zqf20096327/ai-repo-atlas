@@ -1,6 +1,6 @@
 # loong64/ollama
 
-⭐ 12 · Dockerfile · MIT · 推送 2026-11-10 · [GitHub](https://github.com/loong64/ollama) · [官网](https://github.com/ollama/ollama) · 组织维护
+⭐ 12 · Dockerfile · MIT · 推送 2026-11-22 · [GitHub](https://github.com/loong64/ollama) · [官网](https://github.com/ollama/ollama) · 组织维护
 
 **本地大模型运行时：下载、运行与管理 LLM 及其 API**
 
@@ -45,12 +45,12 @@ Ollama 是在 macOS、Windows、Linux 与 Docker 上本地运行大语言模型�
 ```mermaid
 xychart-beta
     title "loong64/ollama 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

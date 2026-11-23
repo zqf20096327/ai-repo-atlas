@@ -45,13 +45,13 @@ GitHub 官方维护的 agent 桌面应用，用于管理从想法到拉取请求
 
 ```mermaid
 xychart-beta
-    title "TurquoiseConsultant/GitHub-Copilot-app 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
+    title "TurquoiseConsultant/GitHub-Copilot-app 星数(近 5 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 372 --> 379
-    line [378, 377, 376, 373]
+    line [378, 377, 376, 373, 373]
 ```
 
-2026-11-15 378 → 2026-11-22 373（-5）
+2026-11-15 378 → 2026-11-23 373（-5）
 
 
 ---

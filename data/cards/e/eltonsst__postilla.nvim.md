@@ -1,6 +1,6 @@
 # eltonsst/postilla.nvim
 
-⭐ 21 · Lua · MIT · 推送 2026-08-20 · [GitHub](https://github.com/eltonsst/postilla.nvim) · 个人维护
+⭐ 22 · Lua · MIT · 推送 2026-08-20 · [GitHub](https://github.com/eltonsst/postilla.nvim) · 个人维护
 
 **Neovim 插件：逐行给 AI 代理代码写行内评审注释并导出反馈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eltonsst/postilla.nvim 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-20 21 → 2026-11-22 21（+0）
+2026-10-21 21 → 2026-11-23 22（+1）
 
 
 ---

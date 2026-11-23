@@ -1,6 +1,6 @@
 # nefelibata5136-code/deepseek-harness-digital-life
 
-⭐ 31 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nefelibata5136-code/deepseek-harness-digital-life) · 个人维护 · 中文 README
+⭐ 32 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nefelibata5136-code/deepseek-harness-digital-life) · 个人维护 · 中文 README
 
 **基于 DeepSeek Harness 的多 agent 持久数字生命实验性基础设施**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nefelibata5136-code/deepseek-harness-digital-life 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 1 --> 33
-    line [3, 9, 14, 19, 25, 29, 30, 31, 14, 31, 31]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 1 --> 34
+    line [3, 9, 14, 19, 25, 29, 30, 31, 14, 31, 32]
 ```
 
-2026-10-23 3 → 2026-11-22 31（+28）
+2026-10-23 3 → 2026-11-23 32（+29）
 
 
 ---

@@ -1,6 +1,6 @@
 # lanesket/llm.log
 
-⭐ 28 · Go · MIT · 推送 2026-04-04 · [GitHub](https://github.com/lanesket/llm.log) · [官网](https://github.com/lanesket/llm.log) · 个人维护
+⭐ 27 · Go · MIT · 推送 2026-04-04 · [GitHub](https://github.com/lanesket/llm.log) · [官网](https://github.com/lanesket/llm.log) · 个人维护
 
 **本地代理记录 LLM 调用：成本、token 与完整请求响应**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lanesket/llm.log 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 24 --> 29
-    line [25, 27, 28, 28]
+    line [25, 27, 28, 27]
 ```
 
-2026-10-20 25 → 2026-11-22 28（+3）
+2026-10-21 25 → 2026-11-23 27（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hthoene/plainboard
 
-⭐ 129 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hthoene/plainboard) · 个人维护
+⭐ 138 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hthoene/plainboard) · 个人维护
 
 **自托管多智能体团队：经理规划、专职智能体写软件**
 
@@ -45,13 +45,13 @@ PlainBoard 以看板形式组织一组 AI 智能体协作开发软件：用户�
 
 ```mermaid
 xychart-beta
-    title "hthoene/plainboard 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 0 --> 141
-    line [6, 57, 119, 129]
+    title "hthoene/plainboard 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 0 --> 151
+    line [6, 57, 119, 129, 138]
 ```
 
-2026-11-19 6 → 2026-11-22 129（+123）
+2026-11-19 6 → 2026-11-23 138（+132）
 
 
 ---

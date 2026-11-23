@@ -1,6 +1,6 @@
 # jayin92/toefl-prep-tool
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/jayin92/toefl-prep-tool) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/jayin92/toefl-prep-tool) · 个人维护 · 中文 README
 
 **TOEFL iBT 自学者本地练习应用，四科练习与 AI 评分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jayin92/toefl-prep-tool 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 5 --> 9
-    line [6, 7, 8, 8]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 5 --> 10
+    line [6, 7, 8, 9]
 ```
 
-2026-11-13 6 → 2026-11-22 8（+2）
+2026-11-13 6 → 2026-11-23 9（+3）
 
 
 ---

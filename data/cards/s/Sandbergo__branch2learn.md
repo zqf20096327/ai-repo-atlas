@@ -41,6 +41,18 @@
 > L36: ### Generate Dataset
 > L43: python branch2learn/02_train.py -p $PROBLEM -m $MODEL -g $DEVICE
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Sandbergo/branch2learn 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-22 20 → 2026-11-23 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `91f8dcafd89c` · [字段定义](../../DATASET.md)*

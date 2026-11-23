@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/ArtifactsBenchmark
 
-⭐ 282 · Python · NOASSERTION · 推送 2025-12-30 · [GitHub](https://github.com/Tencent-Hunyuan/ArtifactsBenchmark) · [官网](https://artifactsbenchmark.github.io/) · 组织维护 · 中文 README
+⭐ 283 · Python · NOASSERTION · 推送 2025-12-30 · [GitHub](https://github.com/Tencent-Hunyuan/ArtifactsBenchmark) · [官网](https://artifactsbenchmark.github.io/) · 组织维护 · 中文 README
 
 **面向交互式可视代码生成的自动化多模态评测基准（1,825 任务）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/ArtifactsBenchmark 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-22"]
-    y-axis "stars" 280 --> 283
-    line [281, 282, 282]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-23"]
+    y-axis "stars" 280 --> 284
+    line [281, 282, 283]
 ```
 
-2026-10-20 281 → 2026-11-22 282（+1）
+2026-10-21 281 → 2026-11-23 283（+2）
 
 
 ---

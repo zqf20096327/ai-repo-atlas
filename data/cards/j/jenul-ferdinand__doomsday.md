@@ -42,6 +42,18 @@
 > L45: |Local AI|llama.cpp: runs open models on a plain CPU and serves a chat page|Gemma 4 E4B (4.6 GB, needs 8 GB RAM)|
 > L46: |Local internet|iiab: Internet-in-a-Box turns a Raspberry Pi into an offline Wi-Fi hotspot with Wikipedia, maps and
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jenul-ferdinand/doomsday 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d1346427c04e` · [字段定义](../../DATASET.md)*

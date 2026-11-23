@@ -1,6 +1,6 @@
 # IanuaIDP/ianua
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/IanuaIDP/ianua) · [官网](https://ianuaidp.github.io/ianua/) · 个人维护
+⭐ 18 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/IanuaIDP/ianua) · [官网](https://ianuaidp.github.io/ianua/) · 个人维护
 
 **给团队应用与 AI agent 提供统一登录、网关与权限管控**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IanuaIDP/ianua 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 7 --> 16
-    line [8, 10, 15]
+    title "IanuaIDP/ianua 星数(近 4 点)"
+    x-axis ["2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 7 --> 19
+    line [8, 10, 15, 18]
 ```
 
-2026-11-19 8 → 2026-11-22 15（+7）
+2026-11-19 8 → 2026-11-23 18（+10）
 
 
 ---

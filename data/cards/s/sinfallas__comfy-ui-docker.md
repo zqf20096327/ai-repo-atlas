@@ -1,6 +1,6 @@
 # sinfallas/comfy-ui-docker
 
-⭐ 12 · Shell · GPL-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/sinfallas/comfy-ui-docker) · [官网](https://hub.docker.com/r/sinfallas/comfyui) · 个人维护
+⭐ 12 · Shell · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sinfallas/comfy-ui-docker) · [官网](https://hub.docker.com/r/sinfallas/comfyui) · 个人维护
 
 **ComfyUI 的非官方 Docker 镜像封装**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sinfallas/comfy-ui-docker 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-12", "2026-11-23"]
     y-axis "stars" 10 --> 13
     line [12, 11, 12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

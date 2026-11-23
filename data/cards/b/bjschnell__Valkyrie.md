@@ -1,6 +1,6 @@
 # bjschnell/Valkyrie
 
-⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/bjschnell/Valkyrie) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给多 agent 开发者用的终端 agent 管理器：统一队列减少打断**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

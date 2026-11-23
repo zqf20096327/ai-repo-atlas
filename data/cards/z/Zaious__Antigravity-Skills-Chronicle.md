@@ -1,6 +1,6 @@
 # Zaious/Antigravity-Skills-Chronicle
 
-⭐ 39 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/Zaious/Antigravity-Skills-Chronicle) · [官网](https://open-vsx.org/extension/ChronicleCore/antigravity-skills-chronicle) · 个人维护
+⭐ 40 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/Zaious/Antigravity-Skills-Chronicle) · [官网](https://open-vsx.org/extension/ChronicleCore/antigravity-skills-chronicle) · 个人维护
 
 **管理 AI Agent 技能、工作流与规则的 VS Code 扩展**
 
@@ -46,12 +46,12 @@ VS Code 扩展，提供 AI agent 技能/工作流/规则的图形化管理：d3-
 ```mermaid
 xychart-beta
     title "Zaious/Antigravity-Skills-Chronicle 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 36 --> 40
-    line [37, 39, 37, 39, 39]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 36 --> 41
+    line [37, 39, 37, 39, 40]
 ```
 
-2026-10-20 37 → 2026-11-22 39（+2）
+2026-10-21 37 → 2026-11-23 40（+3）
 
 
 ---

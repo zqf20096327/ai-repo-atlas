@@ -1,10 +1,10 @@
 # zilliztech/memsearch
 
-⭐ 2,917 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zilliztech/memsearch) · [官网](https://zilliztech.github.io/memsearch/) · 组织维护 · 中文 README
+⭐ 2,922 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zilliztech/memsearch) · [官网](https://zilliztech.github.io/memsearch/) · 组织维护
 
-**跨 AI 编程 agent 的持久统一记忆层（Markdown+Milvus）**
+**为 AI 编码 agent 提供跨平台持久化记忆层**
 
-为 Claude Code、Codex、DeepSeek Harness、OpenClaw、OpenCode 等 AI 编程 agent 提供统一持久记忆：以插件形式自动捕获对话，写入人类可读的 .md 文件作为唯一事实源，Milvus 作为可重建的影子索引；检索采用稠密向量+BM25+RRF 混合三层召回。默认 ONNX bge-m3 本地 CPU 嵌入（约 558MB），支持 OpenAI/Ollama 嵌入提供方与 Milvus Lite/Zilliz Cloud/自托管 Milvus 后端。另有 PROJECT.md/USER.md 背景维护与从记忆蒸馏可安装技能（默认关闭）。面向 agent 用户（装插件即用）与开发者（CLI/Python API）。
+MemSearch 为 Claude Code、Codex、DeepSeek Harness、OpenClaw、OpenCode、WorkBuddy 等 agent 提供统一的持久记忆：每次对话回合被自动摘要为 Markdown 日志，经嵌入索引后可在任一 agent 中召回。记忆以 .md 文件为源，Milvus 仅作可重建的影子索引；检索采用三层渐进式召回与 dense+BM25+RRF 混合搜索，SHA-256 哈希去重，文件监视器实时同步。另含 PROJECT.md/USER.md 后台维护与从重复工作流蒸馏 agent skill 的程序性记忆层，均默认关闭。普通用户装插件即用，开发者可用 CLI 与 Python API。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- Markdown 为事实源、Milvus 为可重建影子索引
-- 稠密向量+BM25+RRF 的三层混合检索
-- 覆盖 Claude Code/Codex/DSH/OpenClaw/OpenCode 五平台插件
-- 从重复工作流蒸馏可安装 agent 技能（Agent Skills 开放标准）
+- 记忆跨 6 个 agent 平台共享，Markdown 为源、Milvus 作影子索引
+- 3 层渐进式召回与 dense+BM25+RRF 混合搜索，SHA-256 去重与实时同步
+- 可选 ONNX bge-m3 本地 CPU 嵌入，无需 API key
+- 从重复工作流蒸馏可安装的 agent skills（程序性记忆层）
 
 ## 适用场景
 
-- 在一个 agent 里的对话成为其他 agent 可检索的上下文
-- 恢复历史调试线索与架构决策理由
-- 让多平台 agent 共享同一项目记忆
+- 在新的 agent 会话中恢复上次的调试过程与上下文
+- 查询项目先前为何选择某个架构或库的决策理由
+- 让 Claude Code 与 Codex 共享同一份项目记忆
+- 把重复执行的工作流固化成可复用的 agent skill
 
 ## 场景标签
 
-`Agent 记忆` `语义搜索` · 领域:Agent 开发
+ · 领域:AI 开发工具/Agent 基础设施
 
 ## 证据(README 行号)
 
 > L4:  Cross-platform semantic memory for AI coding agents.
-> L32: - 🌐 **All Platforms, One Memory** — memories flow across Claude Code, Codex, DeepSeek Harness, OpenClaw, and OpenCo
+> L32: - 🌐 **All Platforms, One Memory** — memories flow across Claude Code, Codex, DeepSeek Harness, OpenClaw, OpenCode, 
 > L33: - 👥 **For Agent Users**, install a plugin and get persistent memory with zero effort; **for Agent Developers**, use
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "zilliztech/memsearch 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2747 --> 2932
-    line [2762, 2768, 2775, 2782, 2787, 2792, 2796, 2801, 2803, 2805, 2810, 2812, 2815, 2787, 2836, 2856, 2862, 2865, 2872, 2878, 2882, 2891, 2893, 2899, 2909, 2912, 2917]
+    title "zilliztech/memsearch 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2746 --> 2938
+    line [2762, 2768, 2775, 2782, 2787, 2792, 2796, 2801, 2803, 2805, 2810, 2812, 2815, 2787, 2836, 2856, 2862, 2865, 2872, 2878, 2882, 2891, 2893, 2899, 2909, 2912, 2917, 2922]
 ```
 
-2026-10-20 2,762 → 2026-11-22 2,917（+155）
+2026-10-21 2,762 → 2026-11-23 2,922（+160）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d5ca8f1f33e2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4919dad0d797` · [字段定义](../../DATASET.md)*

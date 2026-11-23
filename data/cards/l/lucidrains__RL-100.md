@@ -1,6 +1,6 @@
 # lucidrains/RL-100
 
-⭐ 66 · Python · MIT · 推送 2025-11-26 · [GitHub](https://github.com/lucidrains/RL-100) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **RL-100 论文的机器人真世界强化学习实现**
 
@@ -11,7 +11,7 @@ lucidrains 对论文《RL-100: Performant Robotic Manipulation with Real-World R
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # akynazh/tg-search-bot
 
-⭐ 202 · Python · GPL-3.0 · 推送 2026-08-30 · [GitHub](https://github.com/akynazh/tg-search-bot) · 个人维护 · 中文 README
+⭐ 203 · Python · GPL-3.0 · 推送 2026-08-30 · [GitHub](https://github.com/akynazh/tg-search-bot) · 个人维护 · 中文 README
 
 **Telegram 影视磁力搜索机器人：AI 理解自然语言并自动存 PikPak**
 
@@ -45,12 +45,12 @@ Python 3 编写的 Telegram 机器人，用于搜索影视磁力链接：聚合 
 ```mermaid
 xychart-beta
     title "akynazh/tg-search-bot 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-19", "2026-11-23"]
     y-axis "stars" 201 --> 206
-    line [205, 204, 202, 202]
+    line [205, 204, 202, 203]
 ```
 
-2026-10-20 205 → 2026-11-22 202（-3）
+2026-10-21 205 → 2026-11-23 203（-2）
 
 
 ---

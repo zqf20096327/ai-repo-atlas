@@ -45,12 +45,12 @@ Turftopic 是一个主题建模库，使用 sentence-transformers 产生的上�
 ```mermaid
 xychart-beta
     title "x-tabdeveloping/turftopic 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-23"]
     y-axis "stars" 126 --> 129
     line [127, 128, 128]
 ```
 
-2026-10-20 127 → 2026-11-22 128（+1）
+2026-10-21 127 → 2026-11-23 128（+1）
 
 
 ---

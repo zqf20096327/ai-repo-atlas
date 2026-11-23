@@ -1,6 +1,6 @@
 # EdwardAThomson/StoryDaemon
 
-⭐ 44 · Python · 推送 2026-11-19 · [GitHub](https://github.com/EdwardAThomson/StoryDaemon) · 个人维护
+⭐ 44 · Python · 推送 2026-11-21 · [GitHub](https://github.com/EdwardAThomson/StoryDaemon) · 个人维护
 
 **自主 agent 生成长篇小说：规划、写作并演化叙事**
 
@@ -46,12 +46,12 @@ Python 编写的长篇小说生成系统：LLM 驱动的 agent 通过迭代“st
 ```mermaid
 xychart-beta
     title "EdwardAThomson/StoryDaemon 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 40 --> 45
     line [42, 41, 43, 44, 44]
 ```
 
-2026-10-20 42 → 2026-11-22 44（+2）
+2026-10-21 42 → 2026-11-23 44（+2）
 
 
 ---

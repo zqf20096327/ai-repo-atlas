@@ -1,6 +1,6 @@
 # monurcan/simit_paper
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/monurcan/simit_paper) · [官网](https://monurcan.github.io/simit) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/monurcan/simit_paper) · [官网](https://monurcan.github.io/simit) · 组织维护
 
 **SIMIT 测试时自改进 VLM 框架的论文官方实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "monurcan/simit_paper 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 11
     line [3, 5, 8, 10, 10]
 ```
 
-2026-10-28 3 → 2026-11-22 10（+7）
+2026-10-28 3 → 2026-11-23 10（+7）
 
 
 ---

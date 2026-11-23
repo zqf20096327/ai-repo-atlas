@@ -1,6 +1,6 @@
 # chengyayu/pi-launcher
 
-⭐ 3 · Kotlin · MIT · 推送 2026-10-31 · [GitHub](https://github.com/chengyayu/pi-launcher) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **JetBrains IDE 中一键启动 Pi 编码 Agent 的插件**
 
@@ -11,7 +11,7 @@ JetBrains IDE 插件，在 Terminal 工具窗口中打开 Pi 会话标签并自�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Siddhant-K-code/LLMTraceFX
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Siddhant-K-code/LLMTraceFX) · [官网](https://siddhantkhare.com/writing?q=Inference+lab) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Siddhant-K-code/LLMTraceFX) · [官网](https://siddhantkhare.com/writing?q=Inference+lab) · 个人维护
 
 **面向本地模型与 OpenAI 兼容 API 的 LLM 推理测量与验证工具包**
 
@@ -45,13 +45,13 @@ evidence-first 的推理测量工具包：将 MLX/MLX-LM 本地运行、OpenAI �
 
 ```mermaid
 xychart-beta
-    title "Siddhant-K-code/LLMTraceFX 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "Siddhant-K-code/LLMTraceFX 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 13 --> 17
-    line [14, 16]
+    line [14, 16, 16]
 ```
 
-2026-10-20 14 → 2026-11-22 16（+2）
+2026-10-21 14 → 2026-11-23 16（+2）
 
 
 ---

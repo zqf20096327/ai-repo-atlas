@@ -1,6 +1,6 @@
 # z91772524-ai/pojia-next-mac
 
-⭐ 141 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/z91772524-ai/pojia-next-mac) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **macOS 工具：替换 WorkBuddy/Codex 客户端内置提示词为用户自写人格**
 
@@ -11,7 +11,7 @@ pojia-next 的 macOS 移植版，以纯 Python 标准库 + Bash 脚本替换 Wor
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

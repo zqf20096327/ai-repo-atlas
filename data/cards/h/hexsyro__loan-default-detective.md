@@ -1,6 +1,6 @@
 # hexsyro/loan-default-detective
 
-⭐ 59 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hexsyro/loan-default-detective) · 个人维护
+⭐ 58 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hexsyro/loan-default-detective) · 个人维护
 
 **用 6 种经典 ML 模型预测 135 万笔贷款违约的教学型分析项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hexsyro/loan-default-detective 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-22"]
+    title "hexsyro/loan-default-detective 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-22", "2026-11-23"]
     y-axis "stars" 20 --> 68
-    line [24, 64, 62, 61, 60, 59]
+    line [24, 64, 62, 61, 60, 59, 58]
 ```
 
-2026-11-08 24 → 2026-11-22 59（+35）
+2026-11-08 24 → 2026-11-23 58（+34）
 
 
 ---

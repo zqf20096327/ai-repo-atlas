@@ -1,6 +1,6 @@
 # beam-cloud/examples
 
-⭐ 25 · Python · 推送 2026-10-21 · [GitHub](https://github.com/beam-cloud/examples) · [官网](https://docs.beam.cloud) · 组织维护
+⭐ 25 · Python · 推送 2026-11-22 · [GitHub](https://github.com/beam-cloud/examples) · [官网](https://docs.beam.cloud) · 组织维护
 
 **Beam 云平台示例程序集合，供用户运行参考**
 
@@ -42,12 +42,12 @@ beam-cloud 维护的官方示例仓库，README 仅说明 examples 文件夹包�
 ```mermaid
 xychart-beta
     title "beam-cloud/examples 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-23"]
     y-axis "stars" 24 --> 27
     line [26, 25, 25]
 ```
 
-2026-10-20 26 → 2026-11-22 25（-1）
+2026-10-21 26 → 2026-11-23 25（-1）
 
 
 ---

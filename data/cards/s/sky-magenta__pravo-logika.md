@@ -1,6 +1,6 @@
 # sky-magenta/pravo-logika
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/sky-magenta/pravo-logika) · [官网](https://sky-magenta.github.io/pravo-logika/) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/sky-magenta/pravo-logika) · [官网](https://sky-magenta.github.io/pravo-logika/) · 个人维护
 
 **面向俄罗斯法律从业者的法律论证形式审查技能**
 
@@ -47,12 +47,12 @@ pravo-logika 是一个安装在 AI 助手（Claude Cowork / Claude Code / Cursor
 ```mermaid
 xychart-beta
     title "sky-magenta/pravo-logika 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-20 13 → 2026-11-22 13（+0）
+2026-10-21 13 → 2026-11-23 14（+1）
 
 
 ---

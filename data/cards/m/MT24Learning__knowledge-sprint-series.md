@@ -46,12 +46,12 @@ MT24 Learning 出品的开源可视化学习系列，规划 90 个 sprint、27 �
 ```mermaid
 xychart-beta
     title "MT24Learning/knowledge-sprint-series 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-22"]
+    x-axis ["2026-11-11", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-22 3（+0）
+2026-11-11 3 → 2026-11-23 3（+0）
 
 
 ---

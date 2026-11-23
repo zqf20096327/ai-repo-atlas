@@ -1,6 +1,6 @@
 # andreagemelli/doc2graph
 
-⭐ 142 · Jupyter Notebook · MIT · 推送 2026-11-03 · [GitHub](https://github.com/andreagemelli/doc2graph) · [官网](https://deepwiki.com/andreagemelli/doc2graph/1-overview) · 个人维护
+⭐ 142 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/andreagemelli/doc2graph) · [官网](https://deepwiki.com/andreagemelli/doc2graph/1-overview) · 个人维护
 
 **将文档转成图并用 GNN 做任务无关理解的 PyTorch 库**
 
@@ -45,12 +45,12 @@ ECCV 2022 TiE 论文的官方实现：把文档（表单、业务文档等）表
 ```mermaid
 xychart-beta
     title "andreagemelli/doc2graph 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 141 --> 143
     line [142, 142]
 ```
 
-2026-11-08 142 → 2026-11-22 142（+0）
+2026-11-08 142 → 2026-11-23 142（+0）
 
 
 ---

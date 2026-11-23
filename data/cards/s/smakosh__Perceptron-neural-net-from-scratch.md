@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "smakosh/Perceptron-neural-net-from-scratch 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-11-08 18 → 2026-11-22 18（+0）
+2026-11-08 18 → 2026-11-23 18（+0）
 
 
 ---

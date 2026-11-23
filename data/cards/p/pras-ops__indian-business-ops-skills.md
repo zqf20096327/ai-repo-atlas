@@ -1,6 +1,6 @@
 # pras-ops/indian-business-ops-skills
 
-⭐ 3 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/pras-ops/indian-business-ops-skills) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向印度企业合规运营的 Claude Agent 技能包（GST/TDS/工资/ROC）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -46,12 +46,12 @@ Codindex 用 tree-sitter 解析仓库 AST，把函数清单、调用图、模块
 ```mermaid
 xychart-beta
     title "Bencibr/codindex 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-22 3（+0）
+2026-11-13 3 → 2026-11-23 3（+0）
 
 
 ---

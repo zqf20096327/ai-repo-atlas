@@ -1,6 +1,6 @@
 # ogrodje/metaos
 
-⭐ 5 · Kotlin · 推送 2026-11-21 · [GitHub](https://github.com/ogrodje/metaos) · [官网](https://ogrodje.si) · 组织维护
+⭐ 5 · Kotlin · 推送 2026-11-22 · [GitHub](https://github.com/ogrodje/metaos) · [官网](https://ogrodje.si) · 组织维护
 
 **为 Ogrodje 媒体组织提供代理化运营管理框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ogrodje/metaos 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-19", "2026-11-23"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-31 3 → 2026-11-22 5（+2）
+2026-10-31 3 → 2026-11-23 5（+2）
 
 
 ---

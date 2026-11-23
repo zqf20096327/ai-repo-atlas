@@ -1,6 +1,6 @@
 # cleversnail/lang-chain-js-cn
 
-⭐ 9 · TypeScript · 推送 2026-10-07 · [GitHub](https://github.com/cleversnail/lang-chain-js-cn) · [官网](https://cleversnail.github.io/lang-chain-js-cn/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 JS/TS 开发者的 LangChain.js 中文入门电子书教程**
 

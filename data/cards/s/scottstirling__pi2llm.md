@@ -1,6 +1,6 @@
 # scottstirling/pi2llm
 
-⭐ 17 · JavaScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/scottstirling/pi2llm) · [官网](https://scottstirling.github.io/pi2llm/) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/scottstirling/pi2llm) · [官网](https://scottstirling.github.io/pi2llm/) · 个人维护
 
 **在 PixInsight 内调用 LLM 的天文摄影处理助手脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "scottstirling/pi2llm 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-19 17 → 2026-11-22 17（+0）
+2026-10-20 17 → 2026-11-23 18（+1）
 
 
 ---

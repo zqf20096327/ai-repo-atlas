@@ -1,6 +1,6 @@
 # DLR-RM/NeMO
 
-⭐ 43 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/DLR-RM/NeMO) · [官网](https://sebastian-jung.github.io/nemo/) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/DLR-RM/NeMO) · [官网](https://sebastian-jung.github.io/nemo/) · 组织维护
 
 **少样本感知研究库：从图像生成神经记忆对象做分割/检测/6DoF位姿估计**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "DLR-RM/NeMO 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-20 43 → 2026-11-22 43（+0）
+2026-10-21 43 → 2026-11-23 44（+1）
 
 
 ---

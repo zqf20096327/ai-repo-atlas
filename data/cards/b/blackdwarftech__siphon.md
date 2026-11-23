@@ -1,6 +1,6 @@
 # blackdwarftech/siphon
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-05-12 · [GitHub](https://github.com/blackdwarftech/siphon) · [官网](https://siphon.blackdwarf.in) · 组织维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-05-12 · [GitHub](https://github.com/blackdwarftech/siphon) · [官网](https://siphon.blackdwarf.in) · 组织维护
 
 **自托管 AI 电话基础设施：SIP 桥接 LLM 的语音通话框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "blackdwarftech/siphon 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 59 --> 64
-    line [60, 61, 62, 63, 63]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 59 --> 65
+    line [60, 61, 62, 63, 64]
 ```
 
-2026-10-19 60 → 2026-11-22 63（+3）
+2026-10-20 60 → 2026-11-23 64（+4）
 
 
 ---

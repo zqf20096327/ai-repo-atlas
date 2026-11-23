@@ -1,6 +1,6 @@
 # colinhacks/frizz
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/colinhacks/frizz) · [官网](https://www.npmjs.com/package/frizz) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/colinhacks/frizz) · [官网](https://www.npmjs.com/package/frizz) · 个人维护
 
 **本地运行的 Claude Code / Codex 编排控制台与任务队列**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "colinhacks/frizz 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-23"]
     y-axis "stars" 25 --> 32
     line [26, 28, 29, 28, 29, 30, 31, 31]
 ```
 
-2026-10-20 26 → 2026-11-22 31（+5）
+2026-10-21 26 → 2026-11-23 31（+5）
 
 
 ---

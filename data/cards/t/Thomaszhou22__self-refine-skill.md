@@ -1,6 +1,6 @@
 # Thomaszhou22/self-refine-skill
 
-⭐ 12 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Thomaszhou22/self-refine-skill) · 个人维护 · 中文 README
+⭐ 13 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Thomaszhou22/self-refine-skill) · 个人维护 · 中文 README
 
 **为 AI agent 提供系统性自我反思流程的 SKILL.md 技能文件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Thomaszhou22/self-refine-skill 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-20 10 → 2026-11-22 12（+2）
+2026-10-21 10 → 2026-11-23 13（+3）
 
 
 ---

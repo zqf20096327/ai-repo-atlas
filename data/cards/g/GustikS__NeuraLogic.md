@@ -46,12 +46,12 @@ Lifted Relational Neural Networks 概念的官方 Java 后端实现：用类 Dat
 ```mermaid
 xychart-beta
     title "GustikS/NeuraLogic 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 121 --> 123
     line [122, 122]
 ```
 
-2026-10-20 122 → 2026-11-22 122（+0）
+2026-10-21 122 → 2026-11-23 122（+0）
 
 
 ---

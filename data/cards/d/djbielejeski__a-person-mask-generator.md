@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "djbielejeski/a-person-mask-generator 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 406 --> 408
     line [407, 407]
 ```
 
-2026-10-20 407 → 2026-11-22 407（+0）
+2026-10-21 407 → 2026-11-23 407（+0）
 
 
 ---

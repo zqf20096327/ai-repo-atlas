@@ -1,6 +1,6 @@
 # skrun-dev/skrun
 
-⭐ 210 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/skrun-dev/skrun) · [官网](https://github.com/skrun-dev/skrun) · 组织维护
+⭐ 211 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/skrun-dev/skrun) · [官网](https://github.com/skrun-dev/skrun) · 组织维护
 
 **将 Agent Skill 部署为 POST /run API 的多模型自托管运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skrun-dev/skrun 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-23"]
     y-axis "stars" 208 --> 212
-    line [210, 209, 210, 211, 210, 210]
+    line [210, 209, 210, 211, 210, 211]
 ```
 
-2026-10-19 210 → 2026-11-22 210（+0）
+2026-10-20 210 → 2026-11-23 211（+1）
 
 
 ---

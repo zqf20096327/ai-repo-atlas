@@ -41,6 +41,18 @@
 > L8: **一个 Key 调用 Claude、GPT、Gemini 官方模型的开源接入工具包。** 一条命令自检接入，十余个可直接运行的示例，主流 AI 编程工具的现成配置，以及能逐笔核对账单的本地验算器。
 > L17: |**两种原生协议**|OpenAI 兼容（`/v1/chat/completions`、`/v1/responses`）与 Anthropic 原生（`/v1/messages`）同时支持，现有 SDK 改地址和 Key 即可|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "XinchengLabs/302api-developer-kit 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 110 --> 112
+    line [111, 111]
+```
+
+2026-11-22 111 → 2026-11-23 111（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `468a1e35cbb9` · [字段定义](../../DATASET.md)*

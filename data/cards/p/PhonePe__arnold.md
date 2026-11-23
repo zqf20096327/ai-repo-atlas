@@ -41,6 +41,18 @@
 > L4: draft reviews, a personal merge queue, review stats) and runs AI review workflows that post inline suggestions back 
 > L11: Requires JDK 17, Maven 3.9 and Docker (or Podman) with Compose.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PhonePe/arnold 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ab962f0fba42` · [字段定义](../../DATASET.md)*

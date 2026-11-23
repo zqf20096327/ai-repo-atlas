@@ -1,6 +1,6 @@
 # ZiChuanLan/inception-web-api
 
-⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/ZiChuanLan/inception-web-api) · 个人维护 · 中文 README
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/ZiChuanLan/inception-web-api) · 个人维护 · 中文 README
 
 **Mercury 3 扩散模型的 OpenAI 兼容反向代理网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZiChuanLan/inception-web-api 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-23"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-22 10（+0）
+2026-11-08 10 → 2026-11-23 11（+1）
 
 
 ---

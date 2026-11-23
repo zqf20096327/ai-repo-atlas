@@ -1,6 +1,6 @@
 # rootLocalGhost/ArtTic-LAB
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-01-15 · [GitHub](https://github.com/rootLocalGhost/ArtTic-LAB) · [官网](https://arttic-lab.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向开发者与艺术家的本地 AI 图像生成平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |

@@ -46,12 +46,12 @@ Python 命令行聊天工具：通过本地运行的 Ollama 或 Llama-Cpp 服务
 ```mermaid
 xychart-beta
     title "jeromeboivin/ollama-chat 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-20 23 → 2026-11-22 23（+0）
+2026-10-21 23 → 2026-11-23 23（+0）
 
 
 ---

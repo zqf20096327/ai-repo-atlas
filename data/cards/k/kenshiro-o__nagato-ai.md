@@ -1,6 +1,6 @@
 # kenshiro-o/nagato-ai
 
-⭐ 119 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/kenshiro-o/nagato-ai) · 个人维护
+⭐ 118 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/kenshiro-o/nagato-ai) · 个人维护
 
 **跨多家 LLM 构建 AI Agent 系统的 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kenshiro-o/nagato-ai 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 117 --> 120
+    line [119, 118]
 ```
 
-2026-10-20 119 → 2026-11-22 119（+0）
+2026-10-21 119 → 2026-11-23 118（-1）
 
 
 ---

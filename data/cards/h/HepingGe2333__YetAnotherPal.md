@@ -1,6 +1,6 @@
 # HepingGe2333/YetAnotherPal
 
-⭐ 3 · Kotlin · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/HepingGe2333/YetAnotherPal) · 个人维护 · 中文 README
+⭐ 3 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/HepingGe2333/YetAnotherPal) · 个人维护 · 中文 README
 
 **Android+iOS 双端 AI 陪伴应用：把人格建模成长期联系人**
 
@@ -46,12 +46,12 @@ Yap 是一个 Android（Kotlin/Compose）+ iOS（SwiftUI）双端共享数据模
 ```mermaid
 xychart-beta
     title "HepingGe2333/YetAnotherPal 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-22"]
+    x-axis ["2026-11-18", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-22 3（+0）
+2026-11-18 3 → 2026-11-23 3（+0）
 
 
 ---

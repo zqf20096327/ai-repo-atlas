@@ -1,6 +1,6 @@
 # itsphatto/BreezeCode
 
-⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/itsphatto/BreezeCode) · [官网](https://breezecode.site) · 个人维护
+⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/itsphatto/BreezeCode) · [官网](https://www.breezecode.site) · 个人维护
 
 **面向开发者的接入多家 coding agent 的 Rust 引擎代码编辑器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "itsphatto/BreezeCode 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-23"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-02 3 → 2026-11-22 5（+2）
+2026-11-02 3 → 2026-11-23 5（+2）
 
 
 ---

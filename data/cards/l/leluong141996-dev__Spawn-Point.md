@@ -1,6 +1,6 @@
 # leluong141996-dev/Spawn-Point
 
-⭐ 4 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/leluong141996-dev/Spawn-Point) · [官网](https://leluong141996-dev.github.io/Spawn-Point/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **一句话生成可玩 2D 像素游戏，本地运行面向新手与 game jam**
 
@@ -11,7 +11,7 @@ Spawn Point 接收一句自然语言描述（支持英文与越南语），由�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

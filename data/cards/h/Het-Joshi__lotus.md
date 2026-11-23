@@ -1,6 +1,6 @@
 # Het-Joshi/lotus
 
-⭐ 5 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Het-Joshi/lotus) · [官网](https://het-joshi.github.io/lotus/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Ollama 小模型的本地终端 agent 工具**
 
@@ -11,7 +11,7 @@ lotus 是一个纯 Python 的终端 agent，驱动本机 Ollama 模型执行文�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

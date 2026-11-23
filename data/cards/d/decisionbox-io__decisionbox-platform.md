@@ -1,6 +1,6 @@
 # decisionbox-io/decisionbox-platform
 
-⭐ 123 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/decisionbox-io/decisionbox-platform) · [官网](https://decisionbox.io) · 组织维护
+⭐ 123 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/decisionbox-io/decisionbox-platform) · [官网](https://decisionbox.io) · 组织维护
 
 **面向数据仓库的自主 AI 数据洞察发现平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "decisionbox-io/decisionbox-platform 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-15", "2026-11-23"]
     y-axis "stars" 119 --> 124
     line [120, 122, 123, 123]
 ```
 
-2026-10-20 120 → 2026-11-22 123（+3）
+2026-10-21 120 → 2026-11-23 123（+3）
 
 
 ---

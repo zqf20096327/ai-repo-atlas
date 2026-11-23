@@ -42,6 +42,18 @@
 > L150: > SecLists-style payload collection for AI security testing.
 > L289: > Structured roadmap from zero to AI security expert. Full paths: learning-paths/README.md
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sonuoffsec/AI-Security-Hub 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-22 19 → 2026-11-23 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `98267d87e8e2` · [字段定义](../../DATASET.md)*

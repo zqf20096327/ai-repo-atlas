@@ -1,6 +1,6 @@
 # whyisitworking/llama-bro
 
-⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/whyisitworking/llama-bro) · 个人维护
+⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/whyisitworking/llama-bro) · 个人维护
 
 **Android 离线运行 GGUF 模型的 Kotlin SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "whyisitworking/llama-bro 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-22"]
+    x-axis ["2026-11-13", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-13 10 → 2026-11-22 10（+0）
+2026-11-13 10 → 2026-11-23 10（+0）
 
 
 ---

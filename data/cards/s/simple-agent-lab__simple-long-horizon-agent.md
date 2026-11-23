@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "simple-agent-lab/simple-long-horizon-agent 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-22"]
+    title "simple-agent-lab/simple-long-horizon-agent 星数(近 4 点)"
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 33 --> 38
-    line [34, 36, 37]
+    line [34, 36, 37, 37]
 ```
 
-2026-10-19 34 → 2026-11-22 37（+3）
+2026-10-20 34 → 2026-11-23 37（+3）
 
 
 ---

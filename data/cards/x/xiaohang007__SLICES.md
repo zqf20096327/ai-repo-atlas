@@ -1,6 +1,6 @@
 # xiaohang007/SLICES
 
-⭐ 146 · Python · LGPL-2.1 · 推送 2026-11-09 · [GitHub](https://github.com/xiaohang007/SLICES) · [官网](https://www.nature.com/articles/s41467-023-42870-7) · 个人维护 · 中文 README
+⭐ 147 · Python · LGPL-2.1 · 推送 2026-11-09 · [GitHub](https://github.com/xiaohang007/SLICES) · [官网](https://www.nature.com/articles/s41467-023-42870-7) · 个人维护 · 中文 README
 
 **晶体结构可逆字符串表示工具：编码/重构晶体并生成新材料**
 
@@ -46,12 +46,12 @@ SLICES 提供晶体结构的可逆、不变字符串表示：可将晶体编码�
 ```mermaid
 xychart-beta
     title "xiaohang007/SLICES 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 144 --> 147
-    line [145, 146, 146]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 144 --> 148
+    line [145, 146, 147]
 ```
 
-2026-10-20 145 → 2026-11-22 146（+1）
+2026-10-21 145 → 2026-11-23 147（+2）
 
 
 ---

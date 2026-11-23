@@ -1,6 +1,6 @@
 # renezander030/skillgate
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/renezander030/skillgate) · [官网](https://www.npmjs.com/package/@reneza/skillgate) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/renezander030/skillgate) · [官网](https://www.npmjs.com/package/@reneza/skillgate) · 个人维护
 
 **给 AI 编码代理加确定性完成门禁的 CLI：不通过不许提交**
 
@@ -47,12 +47,12 @@ skillgate 是运行在模型之外的确定性评估器：以 .skillgate/done.ya
 ```mermaid
 xychart-beta
     title "renezander030/skillgate 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-22 10（+0）
+2026-11-10 10 → 2026-11-23 10（+0）
 
 
 ---

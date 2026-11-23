@@ -1,6 +1,6 @@
 # nowaliraza/skills
 
-⭐ 4 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nowaliraza/skills) · 个人维护
+⭐ 5 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nowaliraza/skills) · 个人维护
 
 **面向生产环境工程师的 AI Agent 代码审查技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nowaliraza/skills 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-21", "2026-11-23"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-21 4 → 2026-11-22 4（+0）
+2026-11-21 4 → 2026-11-23 5（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Magpie 的 provider 插件，让用户在 Magpie 中使用 ZenMux Builder Plan �
 ```mermaid
 xychart-beta
     title "bluenoah1991/magpie-zenmux 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-22 3（+0）
+2026-11-10 3 → 2026-11-23 3（+0）
 
 
 ---

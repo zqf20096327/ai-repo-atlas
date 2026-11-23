@@ -1,6 +1,6 @@
 # jing-ying-dev/whale-ying-memory
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jing-ying-dev/whale-ying-memory) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jing-ying-dev/whale-ying-memory) · 个人维护
 
 **给 AI agent 提供结构化长期记忆的 Python 工具库**
 
@@ -41,6 +41,18 @@
 > L3: ### Structured long-term memory for AI agents
 > L15: WhaleYing Memory turns conversations and long documents into a structured memory store. Instead of treating every r
 > L46: |**Answer-model flexibility**|Uses an OpenAI-compatible answer endpoint; tested with DeepSeek, gpt-4o-mini, and a l
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jing-ying-dev/whale-ying-memory 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

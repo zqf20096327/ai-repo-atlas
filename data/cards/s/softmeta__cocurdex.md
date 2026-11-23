@@ -1,6 +1,6 @@
 # softmeta/cocurdex
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/softmeta/cocurdex) · [官网](https://cocurdex.com) · 组织维护 · 中文 README
+⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/softmeta/cocurdex) · [官网](https://cocurdex.com) · 组织维护 · 中文 README
 
 **桌面优先的多 AI 编码 Agent 工作区，集中管理各会话**
 
@@ -45,12 +45,12 @@ Electron 桌面应用，将聊天、终端、编辑器与浏览器预览集成�
 ```mermaid
 xychart-beta
     title "softmeta/cocurdex 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-16", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-22 10（+0）
+2026-11-16 10 → 2026-11-23 10（+0）
 
 
 ---

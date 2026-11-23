@@ -45,12 +45,12 @@ Kotlin Multiplatform + Compose 构建的多端应用，覆盖 Android、iOS、De
 ```mermaid
 xychart-beta
     title "yassineAbou/LLMS 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-20 71 → 2026-11-22 71（+0）
+2026-10-21 71 → 2026-11-23 71（+0）
 
 
 ---

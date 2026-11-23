@@ -1,6 +1,6 @@
 # cosai-oasis/secure-ai-tooling
 
-⭐ 107 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/cosai-oasis/secure-ai-tooling) · 组织维护
+⭐ 108 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cosai-oasis/secure-ai-tooling) · 组织维护
 
 **AI 系统安全风险地图：风险、控制措施与角色的结构化框架**
 
@@ -46,12 +46,12 @@ CoSAI（OASIS 开放项目）维护的 AI 安全框架仓库，核心为 CoSAI R
 ```mermaid
 xychart-beta
     title "cosai-oasis/secure-ai-tooling 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 100 --> 108
-    line [101, 102, 101, 103, 105, 107, 107]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23"]
+    y-axis "stars" 100 --> 109
+    line [101, 102, 101, 103, 105, 107, 108]
 ```
 
-2026-10-20 101 → 2026-11-22 107（+6）
+2026-10-21 101 → 2026-11-23 108（+7）
 
 
 ---

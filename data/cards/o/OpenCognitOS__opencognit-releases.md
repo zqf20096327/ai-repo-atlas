@@ -1,6 +1,6 @@
 # OpenCognitOS/opencognit-releases
 
-⭐ 4 · 推送 2026-11-20 · [GitHub](https://github.com/OpenCognitOS/opencognit-releases) · [官网](https://opencognit.com) · 组织维护
+⭐ 4 · 推送 2026-11-21 · [GitHub](https://github.com/OpenCognitOS/opencognit-releases) · [官网](https://opencognit.com) · 组织维护
 
 **在一个窗口中并行运行多个 AI 编码代理的桌面控制台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenCognitOS/opencognit-releases 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-22 4 → 2026-11-22 4（+0）
+2026-10-22 4 → 2026-11-23 4（+0）
 
 
 ---

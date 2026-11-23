@@ -1,6 +1,6 @@
 # aisathome/aisathome
 
-⭐ 3 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/aisathome/aisathome) · [官网](https://aisathome.org) · 组织维护
+⭐ 3 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aisathome/aisathome) · [官网](https://aisathome.org) · 组织维护
 
 **志愿者 GPU 分发式服务开源模型的网关与节点**
 
@@ -41,6 +41,18 @@
 > L4: company's data centre. Volunteers run a node on their own GPU; a gateway (the project
 > L5: server) takes requests from the chat and the OpenAI-compatible API and routes them to
 > L32: |`gateway/`|`aisathome-gateway`: the OpenAI-compatible API, routing with queueing and failover, accounts and sign-i
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aisathome/aisathome 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # devladinci/saystack
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/devladinci/saystack) · [官网](https://devladinci.github.io/saystack/) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/devladinci/saystack) · [官网](https://devladinci.github.io/saystack/) · 个人维护
 
 **给 LLM 聊天 UI 的语音输入输出库：朗读、跟读高亮与听写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "devladinci/saystack 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 13 --> 16
     line [14, 15, 14, 15, 15]
 ```
 
-2026-10-20 14 → 2026-11-22 15（+1）
+2026-10-21 14 → 2026-11-23 15（+1）
 
 
 ---

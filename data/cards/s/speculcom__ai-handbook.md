@@ -1,6 +1,6 @@
 # speculcom/ai-handbook
 
-⭐ 3 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/speculcom/ai-handbook) · [官网](https://learn.specul.com) · 个人维护 · 中文 README
+⭐ 3 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/speculcom/ai-handbook) · [官网](https://learn.specul.com) · 个人维护 · 中文 README
 
 **学AI、AI工具、AI模型的中文手册内容源**
 
@@ -46,12 +46,12 @@ specul.com 站群三个内容栏目（learn / tools / models）的合并内容�
 ```mermaid
 xychart-beta
     title "speculcom/ai-handbook 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-22"]
+    x-axis ["2026-10-28", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-28 3 → 2026-11-22 3（+0）
+2026-10-28 3 → 2026-11-23 3（+0）
 
 
 ---

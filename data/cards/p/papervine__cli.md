@@ -1,6 +1,6 @@
 # papervine/cli
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/papervine/cli) · [官网](https://www.papervine.io) · 组织维护
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/papervine/cli) · [官网](https://www.papervine.io) · 组织维护
 
 **开源 MDX 文档站生成器，Mintlify 兼容并带 AI 问答助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "papervine/cli 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 13, 14, 14]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15]
 ```
 
-2026-10-20 13 → 2026-11-22 14（+1）
+2026-10-21 13 → 2026-11-23 15（+2）
 
 
 ---

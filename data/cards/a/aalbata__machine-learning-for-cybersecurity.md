@@ -1,6 +1,6 @@
 # aalbata/machine-learning-for-cybersecurity
 
-⭐ 23 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/aalbata/machine-learning-for-cybersecurity) · [官网](https://aalbata.github.io/machine-learning-for-cybersecurity/) · 组织维护
+⭐ 24 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/aalbata/machine-learning-for-cybersecurity) · [官网](https://aalbata.github.io/machine-learning-for-cybersecurity/) · 组织维护
 
 **免费机器学习与网络安全课程：11 单元含实验、习题与测验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aalbata/machine-learning-for-cybersecurity 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 22, 23, 22, 23, 23]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 23, 22, 23, 24]
 ```
 
-2026-10-20 20 → 2026-11-22 23（+3）
+2026-10-21 20 → 2026-11-23 24（+4）
 
 
 ---

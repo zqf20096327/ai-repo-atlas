@@ -1,6 +1,6 @@
 # aliengiraffe/vigilante
 
-⭐ 41 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/aliengiraffe/vigilante) · 个人维护
+⭐ 42 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/aliengiraffe/vigilante) · 个人维护
 
 **面向编码 agent 的沙箱优先编排层：issue 到 PR 的受控流水线**
 
@@ -46,12 +46,12 @@ Go 实现的本地编排守护服务：监控绑定 GitHub 远端的仓库，读
 ```mermaid
 xychart-beta
     title "aliengiraffe/vigilante 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-23"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42]
 ```
 
-2026-10-20 40 → 2026-11-22 41（+1）
+2026-10-21 40 → 2026-11-23 42（+2）
 
 
 ---

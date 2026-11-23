@@ -1,6 +1,6 @@
 # Skeletonxf/easy-ml
 
-⭐ 25 · Rust · MPL-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Skeletonxf/easy-ml) · [官网](https://crates.io/crates/easy-ml) · 个人维护
+⭐ 25 · Rust · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Skeletonxf/easy-ml) · [官网](https://crates.io/crates/easy-ml) · 个人维护
 
 **纯 Rust 机器学习库：张量、矩阵、线性代数与自动微分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Skeletonxf/easy-ml 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-23"]
     y-axis "stars" 24 --> 27
     line [26, 25, 25]
 ```
 
-2026-10-20 26 → 2026-11-22 25（-1）
+2026-10-21 26 → 2026-11-23 25（-1）
 
 
 ---

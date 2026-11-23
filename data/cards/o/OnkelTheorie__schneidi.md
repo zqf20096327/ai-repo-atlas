@@ -1,6 +1,6 @@
 # OnkelTheorie/schneidi
 
-⭐ 10 · C++ · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/OnkelTheorie/schneidi) · [官网](https://github.com/OnkelTheorie/schneidi/releases/latest) · 个人维护
+⭐ 10 · C++ · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/OnkelTheorie/schneidi) · [官网](https://github.com/OnkelTheorie/schneidi/releases/latest) · 个人维护
 
 **可与 AI 助手对话协作剪辑的开源 Linux 视频编辑器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OnkelTheorie/schneidi 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 11
     line [3, 7, 8, 10, 10]
 ```
 
-2026-11-10 3 → 2026-11-22 10（+7）
+2026-11-10 3 → 2026-11-23 10（+7）
 
 
 ---

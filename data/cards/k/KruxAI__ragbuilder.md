@@ -1,6 +1,6 @@
 # KruxAI/ragbuilder
 
-⭐ 1,542 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/KruxAI/ragbuilder) · [官网](https://ragbuilder.pages.dev) · 组织维护
+⭐ 1,541 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/KruxAI/ragbuilder) · [官网](https://ragbuilder.pages.dev) · 组织维护
 
 **自动调优并生成生产级 RAG 管线的 Python 工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KruxAI/ragbuilder 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-23"]
     y-axis "stars" 1538 --> 1544
-    line [1539, 1540, 1539, 1542, 1543, 1542, 1542]
+    line [1539, 1540, 1539, 1542, 1543, 1542, 1541]
 ```
 
-2026-10-20 1,539 → 2026-11-22 1,542（+3）
+2026-10-21 1,539 → 2026-11-23 1,541（+2）
 
 
 ---

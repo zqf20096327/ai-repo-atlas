@@ -1,6 +1,6 @@
 # sikkeep/morphinui
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sikkeep/morphinui) · [官网](https://morphin.dev) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sikkeep/morphinui) · [官网](https://morphin.dev) · 个人维护
 
 **面向 AI 产品的 React 组件库：CLI 复制源码进项目**
 
@@ -44,13 +44,13 @@ morphin-ui 是 morphin.dev 使用的 React 组件集合，基于 React 19、Type
 
 ```mermaid
 xychart-beta
-    title "sikkeep/morphinui 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 7 --> 18
-    line [8, 9, 10, 11, 13, 14, 16, 17]
+    title "sikkeep/morphinui 星数(近 9 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 7 --> 19
+    line [8, 9, 10, 11, 13, 14, 16, 17, 18]
 ```
 
-2026-10-30 8 → 2026-11-22 17（+9）
+2026-10-30 8 → 2026-11-23 18（+10）
 
 
 ---

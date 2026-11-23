@@ -1,6 +1,6 @@
 # felixthosharon/vyrse
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/felixthosharon/vyrse) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/felixthosharon/vyrse) · 个人维护
 
 **本机运行的语音优先 AI 助手，支持 PC/手机/Echo 控制**
 
@@ -46,12 +46,12 @@ VYRSE 是部署在个人 PC 上的语音优先 AI 助手：唤醒词交互、本
 ```mermaid
 xychart-beta
     title "felixthosharon/vyrse 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-22 3（+0）
+2026-11-08 3 → 2026-11-23 3（+0）
 
 
 ---

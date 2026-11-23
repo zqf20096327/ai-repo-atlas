@@ -1,6 +1,6 @@
 # Sfgangloff/writing-rules
 
-⭐ 11 · Python · CC-BY-4.0 · 推送 2026-11-09 · [GitHub](https://github.com/Sfgangloff/writing-rules) · 个人维护
+⭐ 12 · Python · CC-BY-4.0 · 推送 2026-11-09 · [GitHub](https://github.com/Sfgangloff/writing-rules) · 个人维护
 
 **供 Claude Code 使用的学术写作规则集与插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sfgangloff/writing-rules 星数(近 8 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 2 --> 12
-    line [3, 4, 5, 6, 8, 9, 10, 11]
+    title "Sfgangloff/writing-rules 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 13
+    line [3, 4, 5, 6, 8, 9, 10, 11, 12]
 ```
 
-2026-10-26 3 → 2026-11-22 11（+8）
+2026-10-26 3 → 2026-11-23 12（+9）
 
 
 ---

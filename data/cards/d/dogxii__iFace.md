@@ -1,6 +1,6 @@
 # dogxii/iFace
 
-⭐ 153 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dogxii/iFace) · [官网](https://face.dogxi.me) · 个人维护 · 中文 README
+⭐ 154 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dogxii/iFace) · [官网](https://face.dogxi.me) · 个人维护 · 中文 README
 
 **本地存储的工程师面试刷题工具，配 AI 面试教练**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dogxii/iFace 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 151 --> 154
-    line [152, 153, 152, 153, 153]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 151 --> 155
+    line [152, 153, 152, 153, 154]
 ```
 
-2026-10-20 152 → 2026-11-22 153（+1）
+2026-10-21 152 → 2026-11-23 154（+2）
 
 
 ---

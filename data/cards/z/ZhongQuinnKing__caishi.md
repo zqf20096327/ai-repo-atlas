@@ -1,6 +1,6 @@
 # ZhongQuinnKing/caishi
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/ZhongQuinnKing/caishi) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 AI Agent 的中文互联网读取能力包：一条命令读 33+ 站点**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

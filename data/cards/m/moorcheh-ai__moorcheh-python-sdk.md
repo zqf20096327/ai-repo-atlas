@@ -46,12 +46,12 @@ Moorcheh 官方 Python SDK，封装 Moorcheh 语义搜索 API v1：提供同步�
 ```mermaid
 xychart-beta
     title "moorcheh-ai/moorcheh-python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-20 52 → 2026-11-22 52（+0）
+2026-10-21 52 → 2026-11-23 52（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # stems-arraign-48/neurocursor-ai
 
-⭐ 40 · C++ · 推送 2026-08-20 · [GitHub](https://github.com/stems-arraign-48/neurocursor-ai) · [官网](https://neurocursor-ai.freedev.app/) · 个人维护
+⭐ 39 · C++ · 推送 2026-08-20 · [GitHub](https://github.com/stems-arraign-48/neurocursor-ai) · [官网](https://neurocursor-ai.freedev.app/) · 个人维护
 
 **用普通摄像头实现免手操鼠标光标控制的桌面应用**
 
@@ -46,12 +46,12 @@ C++ 编写的开源应用，将普通网络摄像头变为免手操作的指针�
 ```mermaid
 xychart-beta
     title "stems-arraign-48/neurocursor-ai 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 38 --> 41
+    line [40, 39]
 ```
 
-2026-10-20 40 → 2026-11-22 40（+0）
+2026-10-21 40 → 2026-11-23 39（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Danilqa/kombinat
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Danilqa/kombinat) · [官网](https://kombinat.tech) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Danilqa/kombinat) · [官网](https://kombinat.tech) · 个人维护
 
 **在仓库 markdown 文件中定义例程，让 Claude Code/Codex 等 CLI agent 定时或 webhook 运行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Danilqa/kombinat 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 7 --> 18
-    line [8, 9, 11, 13, 15, 16, 17, 17]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 7 --> 19
+    line [8, 9, 11, 13, 15, 16, 17, 18]
 ```
 
-2026-11-02 8 → 2026-11-22 17（+9）
+2026-11-02 8 → 2026-11-23 18（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # franzmoca/hy4-gufo-extension
 
-⭐ 3 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/franzmoca/hy4-gufo-extension) · 个人维护
+⭐ 5 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/franzmoca/hy4-gufo-extension) · 个人维护
 
 **在 AMD Strix Halo 上本地运行腾讯 Hy4 Flash 模型的 Gufo 扩展**
 
@@ -40,6 +40,18 @@
 > L3: An experimental Gufo source extension for Tencent's
 > L7: **Status:** experimental. `gufo serve llm` serves chat, tool calls, reasoning,
 > L44: gufo serve llm -m Hy4-flash-Q4_K_M-00001-of-00002.gguf \
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "franzmoca/hy4-gufo-extension 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-22 3 → 2026-11-23 5（+2）
 
 
 ---

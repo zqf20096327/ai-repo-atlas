@@ -1,6 +1,6 @@
 # rakshazi/krea2-prompting
 
-⭐ 48 · CC-BY-SA-4.0 · 推送 2026-11-18 · [GitHub](https://github.com/rakshazi/krea2-prompting) · [官网](https://rakshazi.me/blog/krea2-prompting-skill/) · 个人维护
+⭐ 80 · Python · CC-BY-SA-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/rakshazi/krea2-prompting) · [官网](https://rakshazi.me/blog/krea2-prompting-skill/) · 个人维护
 
 **Krea 2 (Turbo) 文生图提示词 agent 技能库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rakshazi/krea2-prompting 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 26 --> 50
-    line [28, 32, 33, 35, 36, 37, 38, 33, 43, 45, 46, 47, 48]
+    title "rakshazi/krea2-prompting 星数(近 14 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 23 --> 85
+    line [28, 32, 33, 35, 36, 37, 38, 33, 43, 45, 46, 47, 48, 80]
 ```
 
-2026-10-20 28 → 2026-11-22 48（+20）
+2026-10-21 28 → 2026-11-23 80（+52）
 
 
 ---

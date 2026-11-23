@@ -1,6 +1,6 @@
 # osanoai/multicli
 
-⭐ 76 · TypeScript · 推送 2026-09-14 · [GitHub](https://github.com/osanoai/multicli) · 组织维护
+⭐ 77 · TypeScript · 推送 2026-09-14 · [GitHub](https://github.com/osanoai/multicli) · 组织维护
 
 **让多个 AI 编码 CLI 互调的 MCP 桥接服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "osanoai/multicli 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 75, 76, 76]
+    x-axis ["2026-10-21", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 75, 76, 77]
 ```
 
-2026-10-20 75 → 2026-11-22 76（+1）
+2026-10-21 75 → 2026-11-23 77（+2）
 
 
 ---

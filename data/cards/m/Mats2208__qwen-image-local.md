@@ -1,6 +1,6 @@
 # Mats2208/qwen-image-local
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/Mats2208/qwen-image-local) · [官网](https://mats2208.github.io/qwen-image-local/) · 个人维护
+⭐ 16 · Rust · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/Mats2208/qwen-image-local) · [官网](https://mats2208.github.io/qwen-image-local/) · 个人维护
 
 **在小显存 GPU 上本地运行 Qwen-Image-2.1 的文生图与修图应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mats2208/qwen-image-local 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 8 --> 16
-    line [9, 10, 11, 12, 10, 12, 13, 14, 15, 15]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 8 --> 17
+    line [9, 10, 11, 12, 10, 12, 13, 14, 15, 16]
 ```
 
-2026-10-20 9 → 2026-11-22 15（+6）
+2026-10-21 9 → 2026-11-23 16（+7）
 
 
 ---

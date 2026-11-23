@@ -1,6 +1,6 @@
 # sangharshadhyeta/Strata-HotRod
 
-⭐ 68 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sangharshadhyeta/Strata-HotRod) · [官网](https://sangharshadhyeta.github.io/Strata-HotRod/) · 个人维护
+⭐ 74 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sangharshadhyeta/Strata-HotRod) · [官网](https://sangharshadhyeta.github.io/Strata-HotRod/) · 个人维护
 
 **在单张游戏显卡上本地运行 125B MoE 模型的推理引擎分支**
 
@@ -45,13 +45,13 @@ Strata 的 fork，面向低配硬件用户：把 Qwen3.8-Flash-Next（125B，78-
 
 ```mermaid
 xychart-beta
-    title "sangharshadhyeta/Strata-HotRod 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 8 --> 73
-    line [13, 14, 38, 61, 68]
+    title "sangharshadhyeta/Strata-HotRod 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 7 --> 80
+    line [13, 14, 38, 61, 68, 74]
 ```
 
-2026-11-08 13 → 2026-11-22 68（+55）
+2026-11-08 13 → 2026-11-23 74（+61）
 
 
 ---

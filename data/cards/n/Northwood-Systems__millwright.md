@@ -1,6 +1,6 @@
 # Northwood-Systems/millwright
 
-⭐ 48 · Rust · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/Northwood-Systems/millwright) · [官网](https://northwoodsystems.ai/research/projects/millwright/docs) · 组织维护
+⭐ 49 · Rust · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/Northwood-Systems/millwright) · [官网](https://northwoodsystems.ai/research/projects/millwright/docs) · 组织维护
 
 **自托管的 LLM 路由器：单 Rust 二进制实现成本与缓存亲和路由**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Northwood-Systems/millwright 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-12", "2026-11-22"]
-    y-axis "stars" 45 --> 49
-    line [46, 47, 48, 48]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-12", "2026-11-23"]
+    y-axis "stars" 45 --> 50
+    line [46, 47, 48, 49]
 ```
 
-2026-10-19 46 → 2026-11-22 48（+2）
+2026-10-20 46 → 2026-11-23 49（+3）
 
 
 ---

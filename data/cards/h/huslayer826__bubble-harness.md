@@ -1,6 +1,6 @@
 # huslayer826/bubble-harness
 
-⭐ 3 · HTML · 推送 2026-11-10 · [GitHub](https://github.com/huslayer826/bubble-harness) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给开发者的桌面端，集中运行多个编码 agent**
 

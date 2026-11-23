@@ -1,6 +1,6 @@
 # Clawhunt-Site/awwo-canvas
 
-⭐ 8 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Clawhunt-Site/awwo-canvas) · 组织维护 · 中文 README
+⭐ 8 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Clawhunt-Site/awwo-canvas) · [官网](https://clawhunt.store/awwo) · 组织维护 · 中文 README
 
 **面向开发者的智能体画布：类型化节点编排与热插拔执行器**
 
@@ -46,12 +46,12 @@ AwwO 智能体画布的开源版，包含三部分：画布框架（文档模型
 ```mermaid
 xychart-beta
     title "Clawhunt-Site/awwo-canvas 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 5 --> 9
     line [6, 8, 6, 8, 8]
 ```
 
-2026-10-20 6 → 2026-11-22 8（+2）
+2026-10-21 6 → 2026-11-23 8（+2）
 
 
 ---

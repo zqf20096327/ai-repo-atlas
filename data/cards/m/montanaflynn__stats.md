@@ -2,9 +2,9 @@
 
 ⭐ 3,031 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/montanaflynn/stats) · [官网](https://pkg.go.dev/github.com/montanaflynn/stats) · 个人维护
 
-**无依赖的 Go 语言统计学函数库**
+**给 Go 开发者的零依赖统计函数库**
 
-以 Go 包形式提供的统计学函数库，覆盖中位数、百分位、相关性等统计计算，无第三方依赖。供需要在 Go 程序中进行数值与统计分析的开发者使用，通过 go get 安装，API 文档发布于 pkg.go.dev，也可用 go doc 离线查看。项目采用 MIT 许可，发布流程由 GoReleaser 与 GitHub Actions 自动化，贡献需遵循 Conventional Commits 规范。
+纯 Go 编写的统计库，无第三方依赖，提供中位数、百分位数、相关性等统计函数（导出 API 列表见 README），包含错误类型定义（空输入、NaN 处理）。通过 go get 安装，API 文档发布在 pkg.go.dev，也支持 go doc 离线查看。项目采用 Conventional Commits 规范，用 GoReleaser 自动化发布流程，MIT 许可。主题标签含 machine-learning，可配合数据分析流程使用。
 
 ## 筛选速览
 
@@ -20,36 +20,38 @@
 
 ## 能力要点
 
-- 提供中位数、百分位、相关系数等统计函数
-- 无第三方依赖
-- API 文档发布于 pkg.go.dev 并支持 go doc 离线查看
+- 零第三方依赖的纯 Go 统计函数库
+- API 文档发布在 pkg.go.dev 并支持 go doc 离线查看
+- GoReleaser + GitHub Actions 自动化发布
+- MIT 许可
 
 ## 适用场景
 
-- 在 Go 程序中直接调用统计函数处理 float64 数据
-- 数据分析与科学计算场景的数值统计
-- 需要零依赖、易于引入的统计计算包
+- Go 项目中计算中位数、百分位数等统计量
+- 数据分析流程中做相关性计算
+- 需要零依赖统计能力的服务端代码
 
 ## 场景标签
 
- · 领域:数据分析/统计
+ · 领域:软件开发/统计计算
 
 ## 证据(README 行号)
 
 > L5: A well tested and comprehensive Golang statistics library / package / module with no dependencies.
+> L12: go get github.com/montanaflynn/stats
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "montanaflynn/stats 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
+    title "montanaflynn/stats 星数(近 8 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3028 --> 3032
-    line [3031, 3030, 3029, 3030, 3031, 3030, 3031]
+    line [3031, 3030, 3029, 3030, 3031, 3030, 3031, 3031]
 ```
 
-2026-10-20 3,031 → 2026-11-22 3,031（+0）
+2026-10-21 3,031 → 2026-11-23 3,031（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 low · 依据 README sha `0e5356f2069f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2ff24e3fdbff` · [字段定义](../../DATASET.md)*

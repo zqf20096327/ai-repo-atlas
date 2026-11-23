@@ -1,6 +1,6 @@
 # MiniMax-AI/Research
 
-⭐ 12 · TeX · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/MiniMax-AI/Research) · 组织维护
+⭐ 52 · TeX · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/MiniMax-AI/Research) · 组织维护
 
 **MiniMax 发布内部模型产出的研究成果与论文**
 
@@ -39,6 +39,18 @@ MiniMax 用于发布其内部模型所产生研究成果的仓库，首个栏目
 
 > L5: In this repository, we plan to share research projects and findings from MiniMax internal models.
 > L9: The `Cryptography` directory contains results in cryptography and cryptanalysis, along with papers and supporting ar
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MiniMax-AI/Research 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 8 --> 56
+    line [12, 52]
+```
+
+2026-11-22 12 → 2026-11-23 52（+40）
 
 
 ---

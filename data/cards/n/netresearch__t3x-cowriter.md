@@ -47,12 +47,12 @@ TYPO3 CMS 扩展，在 CKEditor 中提供 AI 写作对话框：改进/摘要/扩
 ```mermaid
 xychart-beta
     title "netresearch/t3x-cowriter 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

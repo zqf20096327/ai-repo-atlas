@@ -41,6 +41,18 @@ ccr 是一个 agentic 代码审查流水线：将代码变更组织为最小可�
 > L96: ### Review 1 discovers; Review 2 verifies; Review 3 gates
 > L104: The analogy explains separation of duties; these are code-review stages, not legal simulations. Review 1 is encour
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "compforge/case-code-review 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `db075c9ea1cf` · [字段定义](../../DATASET.md)*

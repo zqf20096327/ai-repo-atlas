@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shashank-Tripathi-07/awesome-ml-systems-engineering 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "Shashank-Tripathi-07/awesome-ml-systems-engineering 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 25 --> 28
-    line [27, 26]
+    line [27, 26, 26]
 ```
 
-2026-10-20 27 → 2026-11-22 26（-1）
+2026-10-21 27 → 2026-11-23 26（-1）
 
 
 ---

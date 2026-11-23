@@ -45,13 +45,13 @@ TensorFold 项目的部署配方仓库：给出在 3 或 4 台 NVIDIA DGX Spark 
 
 ```mermaid
 xychart-beta
-    title "LakyFx/deepseek-v41-flash-exl3-tp3-tp4-spark 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-22"]
+    title "LakyFx/deepseek-v41-flash-exl3-tp3-tp4-spark 星数(近 5 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-22", "2026-11-23"]
     y-axis "stars" 14 --> 22
-    line [15, 17, 20, 21]
+    line [15, 17, 20, 21, 21]
 ```
 
-2026-11-01 15 → 2026-11-22 21（+6）
+2026-11-01 15 → 2026-11-23 21（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # Jovancoding/Network-AI
 
-⭐ 90 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Jovancoding/Network-AI) · [官网](https://network-ai.org/) · 个人维护
+⭐ 91 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Jovancoding/Network-AI) · [官网](https://network-ai.org/) · 个人维护
 
 **给多智能体开发者的 TypeScript 编排框架：共享状态、护栏与治理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jovancoding/Network-AI 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 78 --> 91
-    line [79, 80, 79, 87, 88, 89, 90, 90]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 78 --> 92
+    line [79, 80, 79, 87, 88, 89, 90, 91]
 ```
 
-2026-10-20 79 → 2026-11-22 90（+11）
+2026-10-21 79 → 2026-11-23 91（+12）
 
 
 ---

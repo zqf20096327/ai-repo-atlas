@@ -1,6 +1,6 @@
 # Max-Null/seek-soul-in-darkness
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Max-Null/seek-soul-in-darkness) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Max-Null/seek-soul-in-darkness) · 个人维护 · 中文 README
 
 **基于 DeepSeek DSH 的桌面 AI 应用：改壳装插件开箱即用**
 
@@ -47,12 +47,12 @@ SSiD（思灵）是在官方 DeepSeek Harness 桌面端底座上做 fork 改造�
 ```mermaid
 xychart-beta
     title "Max-Null/seek-soul-in-darkness 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-22 10（+0）
+2026-11-08 10 → 2026-11-23 10（+0）
 
 
 ---

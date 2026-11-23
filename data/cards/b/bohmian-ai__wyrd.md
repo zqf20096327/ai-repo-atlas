@@ -1,6 +1,6 @@
 # bohmian-ai/wyrd
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/bohmian-ai/wyrd) · [官网](https://docs.bohmian.ai/) · 组织维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/bohmian-ai/wyrd) · [官网](https://docs.bohmian.ai/) · 组织维护
 
 **为应用构建实时验证工作流的开源组件集**
 
@@ -46,12 +46,12 @@ Wyrd 提供用于构建验证系统的开源组件：以 YAML 声明需求并绑
 ```mermaid
 xychart-beta
     title "bohmian-ai/wyrd 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-22", "2026-11-20", "2026-11-23"]
     y-axis "stars" 3 --> 11
     line [4, 10, 10]
 ```
 
-2026-10-22 4 → 2026-11-22 10（+6）
+2026-10-22 4 → 2026-11-23 10（+6）
 
 
 ---

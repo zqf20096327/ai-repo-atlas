@@ -1,6 +1,6 @@
 # Theorvane/OpenScene
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Theorvane/OpenScene) · [官网](https://openscene.app) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Theorvane/OpenScene) · [官网](https://openscene.app) · 个人维护
 
 **本地优先桌面视频剪辑器，AI Agent 可直接操作时间线**
 
@@ -46,12 +46,12 @@ Electron 桌面视频编辑器（另有共享同一编辑核心的 React Native 
 ```mermaid
 xychart-beta
     title "Theorvane/OpenScene 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-22 11（+0）
+2026-11-10 11 → 2026-11-23 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kIieret/TraceAI
 
-⭐ 30 · Python · 推送 2026-11-01 · [GitHub](https://github.com/kIieret/TraceAI) · 组织维护
+⭐ 30 · Python · 推送 2026-11-22 · [GitHub](https://github.com/kIieret/TraceAI) · 组织维护
 
 **基于 OpenTelemetry 的 AI 应用可观测性工具，追踪 LLM 调用与 agent 决策**
 
@@ -46,12 +46,12 @@ traceAI 是面向 AI 应用的开源可观测性插桩库：将每次 LLM 调用
 ```mermaid
 xychart-beta
     title "kIieret/TraceAI 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-20", "2026-11-23"]
     y-axis "stars" 29 --> 32
     line [31, 30, 30]
 ```
 
-2026-11-08 31 → 2026-11-22 30（-1）
+2026-11-08 31 → 2026-11-23 30（-1）
 
 
 ---

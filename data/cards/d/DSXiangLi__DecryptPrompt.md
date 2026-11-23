@@ -2,9 +2,9 @@
 
 ⭐ 3,453 · 推送 2026-11-16 · [GitHub](https://github.com/DSXiangLi/DecryptPrompt) · 个人维护 · 中文 README
 
-**LLM/Prompt 论文与资源中文汇总仓库（博客+清单）**
+**Prompt与LLM论文解读博客及资源汇总清单**
 
-个人维护的中文 LLM 知识汇总仓库：以'解密Prompt'系列博客（72 篇）为主线覆盖 Prompt、COT、RLHF、RAG、Agent、MCP 等主题，配套论文分类清单（Harness、Skill Evolution、Post Train、Context Engineer、新模型架构等），并汇总开源模型榜单、推理/微调/Agent/RAG 框架、SFT/RLHF 数据集与 AIGC 应用等资源链接。另含'和AI一起搞事情'实战记录系列。无安装运行实体，以阅读检索为主。
+以「解密Prompt」系列博客为核心的论文解读与资源汇总仓库：持续更新 70+ 篇 Prompt/CoT/RLHF/Agent/RAG 主题的论文串读文章，另汇总开源模型评测榜单、微调与预训练数据集、推理/微调/Agent/RAG 框架、AIGC 应用与 Prompt 教程等资源链接，并按 Harness、Skill Evolution、图像生成、Post Train、Context Engineering、模型架构等类别整理论文列表。面向学习 LLM/Prompt 技术的研究者与开发者，内容以链接目录形式组织，不含可运行代码。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 72 篇'解密Prompt'中文博客覆盖 Prompt/COT/RLHF/RAG/Agent
-- 论文按 Harness、Skill Evolution、Post Train、Context Engineer 等主题分类汇总
-- LLM 资源汇总：开源模型榜单、框架、数据集、AIGC 应用
+- 70+ 篇「解密Prompt」系列论文解读博客，覆盖 Prompt/CoT/RLHF/Agent/RAG/MCP
+- 汇总开源模型评测榜单、SFT/RLHF/Pretrain 数据集与各类框架资源
+- 按 Harness、Skill Evolution、Post Train、Context Engineering 等类别整理论文列表
+- 「和AI一起搞事情」系列实战复盘文章
 
 ## 适用场景
 
-- 系统跟进 Prompt、思维链与 Agent 方向的论文脉络
-- 查找 LLM 推理、微调、RAG 相关的开源框架与数据集
-- 阅读中文解读博客入门 LLM 各子领域
+- 系统学习 Prompt 工程与思维链相关论文
+- 查找 RLHF、Agent 训练、RAG 优化的文献与开源数据集入口
+- 跟进 LLM 推理缩放与 Context Engineering 的最新论文
 
 ## 场景标签
 
-`精选清单` `教程课程` · 领域:学习与行业
+`教程课程` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L5: ## LLM资源汇总
 > L13: ## 跟着博客读论文
-> L97: ## 论文汇总
+> L98: ## 论文汇总
+> L6: - 开源模型和评测榜单
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "DSXiangLi/DecryptPrompt 星数(近 14 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23"]
     y-axis "stars" 3447 --> 3455
     line [3451, 3450, 3449, 3448, 3449, 3450, 3449, 3451, 3453, 3452, 3453, 3454, 3453, 3453]
 ```
 
-2026-10-20 3,451 → 2026-11-22 3,453（+2）
+2026-10-21 3,451 → 2026-11-23 3,453（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `2304d00b45ad` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d576597035c0` · [字段定义](../../DATASET.md)*

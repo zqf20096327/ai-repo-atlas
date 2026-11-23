@@ -1,6 +1,6 @@
 # Crazyfourrrrrrrrrrr/XingGou
 
-⭐ 17 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Crazyfourrrrrrrrrrr/XingGou) · 个人维护 · 中文 README
+⭐ 18 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Crazyfourrrrrrrrrrr/XingGou) · 个人维护 · 中文 README
 
 **千星奇域（原神）本机场景编辑器，文字生成布局并导出 GIA/GLB**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Crazyfourrrrrrrrrrr/XingGou 星数(近 9 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 5 --> 18
-    line [6, 10, 11, 12, 13, 14, 15, 16, 17]
+    title "Crazyfourrrrrrrrrrr/XingGou 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 5 --> 19
+    line [6, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 ```
 
-2026-10-26 6 → 2026-11-22 17（+11）
+2026-10-26 6 → 2026-11-23 18（+12）
 
 
 ---

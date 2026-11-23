@@ -1,1 +1,82 @@
-{"fn": "ValueCell-ai/ClawX", "sha": "732d6cbf63af", "source": "readme", "identity": {"one_liner": "给普通用户的 OpenClaw AI Agent 桌面图形界面客户端", "review": "基于 Electron + React 的桌面应用，为 OpenClaw AI Agent 提供图形界面，内嵌 OpenClaw 运行时，将命令行编排转为无需终端的桌面体验。功能覆盖多会话聊天界面（流式 Markdown、@agent 路由、/skill 卡片）、Agent 生命周期管理、多渠道管理（微信/钉钉插件）、Cron 定时任务、本地技能管理与文档处理技能、语音听写（Developer Mode）、本地 Computer Use 驱动，以及统一的服务商配置面板（凭据存于系统钥匙串）。预置推荐模型服务商配置，支持 Windows 与多语言界面；另有面向企业的定制服务版。", "highlights": ["内嵌 OpenClaw 运行时，图形界面完成配置与管理，无需终端", "多渠道管理：捆绑微信个人渠道插件与钉钉连接器", "Cron 定时自动化、本地技能管理与 pdf/xlsx/docx/pptx 处理技能", "macOS/Windows 本地 Computer Use 操作（窗口/辅助功能/桌面）"], "use_cases": ["用图形界面配置和运行 OpenClaw AI Agent，不想碰命令行", "定时让 Agent 监控信息并把结果推送到微信/钉钉等渠道", "用 Agent 做日常助手：写邮件、总结文档、自动化工作流"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["桌面应用", "AI Agent", "OpenClaw 客户端", "自动化", "多渠道接入"], "domain": "AI Agent 工具/桌面客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文版官网 clawx.com.cn", "README 提供简体中文翻译", "捆绑腾讯微信个人渠道插件"]}, "trust": {"confidence": "mid", "evidence": ["L26: **ClawX** bridges the gap between powerful AI agents and everyday users. Built on top of OpenClaw, it transforms command", "L47: Building AI agents shouldn't require mastering the command line. ClawX was designed with a simple philosophy: **powerful"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-22", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ValueCell-ai/ClawX",
+ "sha": "732d6cbf63af",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给普通用户的 OpenClaw AI Agent 桌面图形界面客户端",
+  "review": "基于 Electron + React 的桌面应用，为 OpenClaw AI Agent 提供图形界面，内嵌 OpenClaw 运行时，将命令行编排转为无需终端的桌面体验。功能覆盖多会话聊天界面（流式 Markdown、@agent 路由、/skill 卡片）、Agent 生命周期管理、多渠道管理（微信/钉钉插件）、Cron 定时任务、本地技能管理与文档处理技能、语音听写（Developer Mode）、本地 Computer Use 驱动，以及统一的服务商配置面板（凭据存于系统钥匙串）。预置推荐模型服务商配置，支持 Windows 与多语言界面；另有面向企业的定制服务版。",
+  "highlights": [
+   "内嵌 OpenClaw 运行时，图形界面完成配置与管理，无需终端",
+   "多渠道管理：捆绑微信个人渠道插件与钉钉连接器",
+   "Cron 定时自动化、本地技能管理与 pdf/xlsx/docx/pptx 处理技能",
+   "macOS/Windows 本地 Computer Use 操作（窗口/辅助功能/桌面）"
+  ],
+  "use_cases": [
+   "用图形界面配置和运行 OpenClaw AI Agent，不想碰命令行",
+   "定时让 Agent 监控信息并把结果推送到微信/钉钉等渠道",
+   "用 Agent 做日常助手：写邮件、总结文档、自动化工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面应用",
+   "AI Agent",
+   "OpenClaw 客户端",
+   "自动化",
+   "多渠道接入"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文版官网 clawx.com.cn",
+   "README 提供简体中文翻译",
+   "捆绑腾讯微信个人渠道插件"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L26: **ClawX** bridges the gap between powerful AI agents and everyday users. Built on top of OpenClaw, it transforms command",
+   "L47: Building AI agents shouldn't require mastering the command line. ClawX was designed with a simple philosophy: **powerful"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

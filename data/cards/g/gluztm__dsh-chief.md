@@ -1,6 +1,6 @@
 # gluztm/dsh-chief
 
-⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/gluztm/dsh-chief) · [官网](https://awesome-dsh-plugin.com/p/gluztm/dsh-chief/) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/gluztm/dsh-chief) · [官网](https://awesome-dsh-plugin.com/p/gluztm/dsh-chief/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的多代理看护面板：压缩防丢、权限审批、子代理监控**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gluztm/dsh-chief 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 6 --> 12
-    line [7, 8, 9, 10, 11]
+    title "gluztm/dsh-chief 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 6 --> 13
+    line [7, 8, 9, 10, 11, 12]
 ```
 
-2026-11-18 7 → 2026-11-22 11（+4）
+2026-11-18 7 → 2026-11-23 12（+5）
 
 
 ---

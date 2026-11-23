@@ -1,10 +1,10 @@
 # poco-ai/Agentero
 
-⭐ 2,727 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/poco-ai/Agentero) · [官网](https://agentero.app) · 组织维护 · 中文 README
+⭐ 2,762 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/poco-ai/Agentero) · [官网](https://agentero.app) · 组织维护 · 中文 README
 
-**人与 Agent 协作的一站式科研文献工作台（桌面应用）**
+**与 Agent 协同读论文的本地科研工作台，含 PDF 问答与笔记**
 
-桌面端科研工作台，面向科研人员：保留 PDF 阅读批注体验，同时把论文解析为结构化 Markdown/LaTeX 供模型消费；文献、笔记与交互记录以标准文件形式存储于本地。Agent 部分基于 ACP 协议连接本地运行的 Agent（如 Claude Code、OpenCode、Codex），并可作 MCP Server 让 ChatGPT Web、Claude Desktop 等客户端检索本地文献库；另提供 CLI 批量自动化。支持 Zotero 一键迁移、S3 同步、arXiv 推荐与 RSS 订阅。Linux 需 Ubuntu 22.04+ 且依赖 webkit2gtk 4.1。
+面向科研人员与 AI Agent 协作的文献工作台：本地保存论文、笔记与对话，读 PDF 时可将选中原文、图表或批注发给 Agent 分析。通过 ACP 协议连接本机 Agent（如 Claude Code），内置 MCP 服务让 ChatGPT Web、Claude Desktop 等客户端查询文献库。提供结构化 PDF 解析（公式/表格转 Markdown/LaTeX）、双链笔记、学术雷达（Cool Papers/arXiv Daily）、Zotero 迁移、S3 同步与 CLI 批量处理。桌面端覆盖 macOS/Windows/Linux。
 
 ## 筛选速览
 
@@ -15,45 +15,45 @@
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 论文公式/表格自动解析为结构化 Markdown 与 LaTeX 上下文
-- ACP 协议连接本地 Agent，内置 MCP Server 供外部客户端调用本地文献库
-- Zotero 数据库一键迁移，兼容浏览器扩展与 BibTeX 导出
-- 本地透明存储（PDF/Markdown 标准文件）+ S3 同步 + CLI 自动化
+- 通过 ACP 连接 Claude Code、OpenCode、Codex 等本机 Agent 伴读 PDF
+- 内置 MCP 服务，外部客户端可查询本地文献库
+- 公式、伪代码、表格解析为 Markdown/LaTeX 供 Agent 读取
+- 兼容 Zotero 生态，支持迁移导入与 BibTeX 导出
 
 ## 适用场景
 
-- 文献阅读时让本地 Agent 基于论文原文答疑与推导
-- 把本地文献库接入 ChatGPT/Claude 等外部 AI 客户端作上下文
-- 从 Zotero 迁移并继续管理已有文献与笔记
-- 通过脚本批量导入文献、抓取元数据与写笔记
+- 读论文时把选中段落和图发给 Agent 一起分析
+- 把分散在 Zotero、Obsidian、网页对话里的资料集中到一个工作台
+- 通过 MCP 让其他 AI 客户端检索自己的文献库
+- 批量导入新论文并自动补齐元数据
 
 ## 场景标签
 
-`科研工具` `文档问答` `知识库管理` · 领域:知识与检索
+`科研工具` `知识库管理` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L30: **Agentero 并非旨在替代 Zotero，而是探索一种人与 Agent 协同处理科研上下文的新方式**：
-> L51: * **基于 ACP 协议连接本地 Agent**：底层遵循 Agent Client Protocol，支持连接各类本地运行的 Agent（如 Claude Code、OpenCode、Codex 或本地模型），不绑定特定厂商，
-> L52: * **内置 MCP (Model Context Protocol)**：可作为 MCP Server 运行，允许 ChatGPT Web、Claude Desktop 等外部客户端直接检索并调用本地文献库作为上下文。
+> L3:  用来找论文、做笔记和跟 Agent 一起读文献的科研工作台
+> L52: * **用 ACP 连接 Agent。** 通过 Agent Client Protocol 使用本机上的 Claude Code、OpenCode、Codex 等 Agent，也可以用支持本地模型的 Agent。发送消息时，问题
+> L53: * **通过 MCP 访问文献库。** 开启内置的 Model Context Protocol 服务后，可以让 ChatGPT Web、Claude Desktop 等支持 MCP 的客户端查询知识库。不同客户端有各自的连接方式
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "poco-ai/Agentero 星数(近 16 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 899 --> 2893
-    line [1065, 1066, 1070, 1995, 2305, 2371, 2433, 2487, 2505, 2534, 2563, 2611, 2643, 2686, 2716, 2727]
+    title "poco-ai/Agentero 星数(近 17 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 896 --> 2931
+    line [1065, 1066, 1070, 1995, 2305, 2371, 2433, 2487, 2505, 2534, 2563, 2611, 2643, 2686, 2716, 2727, 2762]
 ```
 
-2026-10-31 1,065 → 2026-11-22 2,727（+1,662）
+2026-10-31 1,065 → 2026-11-23 2,762（+1,697）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `c19b8f560e13` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e22f56126389` · [字段定义](../../DATASET.md)*

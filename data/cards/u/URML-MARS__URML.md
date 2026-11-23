@@ -1,6 +1,6 @@
 # URML-MARS/URML
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/URML-MARS/URML) · [官网](https://www.urml.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **机器人意图描述语言：规范、校验器与参考运行时**
 
@@ -11,7 +11,7 @@ URML 是一种描述机器人意图的开放语言规范，附带参考实现：
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

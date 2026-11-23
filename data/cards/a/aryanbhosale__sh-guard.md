@@ -1,6 +1,6 @@
 # aryanbhosale/sh-guard
 
-⭐ 29 · Rust · GPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/aryanbhosale/sh-guard) · [官网](https://sh-guard.pages.dev) · 个人维护
+⭐ 30 · Rust · GPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/aryanbhosale/sh-guard) · [官网](https://sh-guard.pages.dev) · 个人维护
 
 **面向 AI 编程 agent 的 shell 命令风险分类器（Rust，<100μs）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aryanbhosale/sh-guard 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-22"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30]
 ```
 
-2026-10-20 28 → 2026-11-22 29（+1）
+2026-10-21 28 → 2026-11-23 30（+2）
 
 
 ---

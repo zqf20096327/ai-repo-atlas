@@ -1,6 +1,6 @@
 # martinholovsky/SOTA-skills
 
-⭐ 29 · Python · CC-BY-4.0 · 推送 2026-11-20 · [GitHub](https://github.com/martinholovsky/SOTA-skills) · [官网](https://probably.group) · 个人维护
+⭐ 29 · Python · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/martinholovsky/SOTA-skills) · [官网](https://probably.group) · 个人维护
 
 **给 AI 编程助手的工程规范技能库：43 个技能按任务路由加载**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "martinholovsky/SOTA-skills 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    title "martinholovsky/SOTA-skills 星数(近 7 点)"
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23"]
     y-axis "stars" 22 --> 30
-    line [23, 24, 23, 27, 28, 29]
+    line [23, 24, 23, 27, 28, 29, 29]
 ```
 
-2026-10-19 23 → 2026-11-22 29（+6）
+2026-10-20 23 → 2026-11-23 29（+6）
 
 
 ---

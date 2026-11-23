@@ -44,13 +44,13 @@ PaCMAP（Pairwise Controlled Manifold Approximation）的纯 MLX 实现，面向
 
 ```mermaid
 xychart-beta
-    title "hanxiao/pacmap-mlx 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "hanxiao/pacmap-mlx 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 19 --> 22
-    line [21, 20]
+    line [21, 20, 20]
 ```
 
-2026-10-20 21 → 2026-11-22 20（-1）
+2026-10-21 21 → 2026-11-23 20（-1）
 
 
 ---

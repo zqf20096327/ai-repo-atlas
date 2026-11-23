@@ -1,6 +1,6 @@
 # nothans/abode101
 
-⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nothans/abode101) · [官网](https://nothans.com/abode-101-a-practical-project-to-learn-the-open-knowledge-format-okf) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nothans/abode101) · [官网](https://nothans.com/abode-101-a-practical-project-to-learn-the-open-knowledge-format-okf) · 个人维护
 
 **AI 维护的家庭知识库框架：Markdown 文件夹+代理契约**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nothans/abode101 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-20 12 → 2026-11-22 13（+1）
+2026-10-21 12 → 2026-11-23 14（+2）
 
 
 ---

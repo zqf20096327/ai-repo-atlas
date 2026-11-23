@@ -1,6 +1,6 @@
 # YAN-LIU05/Tongji_DS_Courses
 
-⭐ 14 · C++ · 推送 2026-07-22 · [GitHub](https://github.com/YAN-LIU05/Tongji_DS_Courses) · 个人维护 · 中文 README
+⭐ 15 · C++ · 推送 2026-07-22 · [GitHub](https://github.com/YAN-LIU05/Tongji_DS_Courses) · 个人维护 · 中文 README
 
 **同济大学数据科学专业课程资料与作业代码归档**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "YAN-LIU05/Tongji_DS_Courses 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-22"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-23"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-20 13 → 2026-11-22 14（+1）
+2026-10-21 13 → 2026-11-23 15（+2）
 
 
 ---

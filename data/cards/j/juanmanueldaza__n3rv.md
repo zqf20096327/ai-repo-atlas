@@ -1,6 +1,6 @@
 # juanmanueldaza/n3rv
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/juanmanueldaza/n3rv) · [官网](https://n3rv.daza.ar) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/juanmanueldaza/n3rv) · [官网](https://n3rv.daza.ar) · 个人维护
 
 **面向 opencode AI agent 的运行时基础设施库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "juanmanueldaza/n3rv 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 12（+1）
 
 
 ---

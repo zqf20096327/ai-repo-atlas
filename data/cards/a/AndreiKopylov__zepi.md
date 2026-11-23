@@ -1,6 +1,6 @@
 # AndreiKopylov/zepi
 
-⭐ 6 · Rust · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/AndreiKopylov/zepi) · 个人维护
+⭐ 6 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/AndreiKopylov/zepi) · 个人维护
 
 **Windows 代码与办公文档编辑器，内置 agent**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AndreiKopylov/zepi 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-23"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-11-08 5 → 2026-11-22 6（+1）
+2026-11-08 5 → 2026-11-23 6（+1）
 
 
 ---

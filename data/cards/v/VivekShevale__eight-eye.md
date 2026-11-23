@@ -40,6 +40,18 @@ eight-eye 是面向 Claude Code 的 Agent Skills 集合，按领域拆分技能�
 > L3: Agent Skills for Claude Code: production-grade code standards, one skill per area.
 > L25: **Claude Code**: copy the skills you want into your skills folder:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "VivekShevale/eight-eye 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `70f789a870dc` · [字段定义](../../DATASET.md)*

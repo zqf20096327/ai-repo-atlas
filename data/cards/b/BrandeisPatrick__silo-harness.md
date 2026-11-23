@@ -1,6 +1,6 @@
 # BrandeisPatrick/silo-harness
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/BrandeisPatrick/silo-harness) · [官网](https://brandeispatrick.github.io/silo-harness/) · 个人维护
+⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BrandeisPatrick/silo-harness) · [官网](https://brandeispatrick.github.io/silo-harness/) · 个人维护
 
 **开源 Claude Code 风格 macOS agent 客户端，支持本地与托管模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BrandeisPatrick/silo-harness 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-22"]
+    x-axis ["2026-11-18", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-22 3（+0）
+2026-11-18 3 → 2026-11-23 3（+0）
 
 
 ---

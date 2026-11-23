@@ -1,6 +1,6 @@
 # stuinfla/Repo-Explainer
 
-⭐ 69 · JavaScript · 推送 2026-11-09 · [GitHub](https://github.com/stuinfla/Repo-Explainer) · [官网](https://repo-explainer-six.vercel.app) · 个人维护
+⭐ 68 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/stuinfla/Repo-Explainer) · [官网](https://repo-explainer-six.vercel.app) · 个人维护
 
 **把任意 GitHub 仓库自动生成可视化讲解页的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stuinfla/Repo-Explainer 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-23"]
     y-axis "stars" 62 --> 70
-    line [63, 64, 65, 66, 64, 67, 68, 69, 69]
+    line [63, 64, 65, 66, 64, 67, 68, 69, 68]
 ```
 
-2026-10-20 63 → 2026-11-22 69（+6）
+2026-10-21 63 → 2026-11-23 68（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # adc-trust-ai/trust-free
 
-⭐ 16 · Jupyter Notebook · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/adc-trust-ai/trust-free) · [官网](https://adc-trust-ai.github.io/trust/) · 个人维护
+⭐ 16 · Jupyter Notebook · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/adc-trust-ai/trust-free) · [官网](https://whiteboxlab.ai/) · 个人维护
 
 **可解释线性模型树回归/分类库，附自动解释报告**
 
@@ -45,12 +45,12 @@ TRUST 算法的官方 Python 实现：基于稀疏线性模型树（叶节点拟
 ```mermaid
 xychart-beta
     title "adc-trust-ai/trust-free 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-20 16 → 2026-11-22 16（+0）
+2026-10-21 16 → 2026-11-23 16（+0）
 
 
 ---

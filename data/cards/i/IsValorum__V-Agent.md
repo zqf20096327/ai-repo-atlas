@@ -1,6 +1,6 @@
 # IsValorum/V-Agent
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/IsValorum/V-Agent) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/IsValorum/V-Agent) · 个人维护
 
 **Windows 本地优先 AI agent：运行 GGUF 模型并提供真实工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IsValorum/V-Agent 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 6 --> 15
-    line [7, 8, 9, 10, 12, 14]
+    title "IsValorum/V-Agent 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 6 --> 21
+    line [7, 8, 9, 10, 12, 14, 20]
 ```
 
-2026-11-13 7 → 2026-11-22 14（+7）
+2026-11-13 7 → 2026-11-23 20（+13）
 
 
 ---

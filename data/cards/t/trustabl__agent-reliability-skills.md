@@ -1,6 +1,6 @@
 # trustabl/agent-reliability-skills
 
-⭐ 62 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/trustabl/agent-reliability-skills) · 组织维护
+⭐ 62 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/trustabl/agent-reliability-skills) · 组织维护
 
 **为 agent 仓库生成编码前可靠性 skill 的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Trustabl Forge 的 MCP 服务器：读取仓库的依赖清单（package.json、
 ```mermaid
 xychart-beta
     title "trustabl/agent-reliability-skills 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    x-axis ["2026-11-21", "2026-11-23"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-11-21 62 → 2026-11-22 62（+0）
+2026-11-21 62 → 2026-11-23 62（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Prestical/BreadPilot
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Prestical/BreadPilot) · 个人维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Prestical/BreadPilot) · 个人维护
 
 **把硬件点子变成 3D 面包板接线步骤与 MicroPython 代码的桌面应用**
 
@@ -46,12 +46,12 @@ BreadPilot 是面向 Raspberry Pi Pico 2 W 的桌面应用（Electron，macOS/Wi
 ```mermaid
 xychart-beta
     title "Prestical/BreadPilot 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-23"]
     y-axis "stars" 3 --> 12
     line [4, 7, 8, 9, 11, 11]
 ```
 
-2026-11-08 4 → 2026-11-22 11（+7）
+2026-11-08 4 → 2026-11-23 11（+7）
 
 
 ---

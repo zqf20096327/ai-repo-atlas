@@ -1,6 +1,6 @@
 # ZJU-REAL/TTPO
 
-⭐ 74 · Python · 推送 2026-10-02 · [GitHub](https://github.com/ZJU-REAL/TTPO) · [官网](https://zju-real.github.io/TTPO/) · 组织维护 · 中文 README
+⭐ 75 · Python · 推送 2026-10-02 · [GitHub](https://github.com/ZJU-REAL/TTPO) · [官网](https://zju-real.github.io/TTPO/) · 组织维护 · 中文 README
 
 **无标签测试时策略优化训练框架，供 LLM 推理能力研究**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZJU-REAL/TTPO 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 69 --> 75
-    line [70, 71, 72, 74, 72, 74, 74]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 69 --> 76
+    line [70, 71, 72, 74, 72, 74, 75]
 ```
 
-2026-10-19 70 → 2026-11-22 74（+4）
+2026-10-20 70 → 2026-11-23 75（+5）
 
 
 ---

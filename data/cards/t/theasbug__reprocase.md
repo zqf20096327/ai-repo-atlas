@@ -1,6 +1,6 @@
 # theasbug/reprocase
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/theasbug/reprocase) · [官网](https://theasbug.github.io/reprocase/) · 个人维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/theasbug/reprocase) · [官网](https://theasbug.github.io/reprocase/) · 个人维护
 
 **IDOR/BOLA 授权漏洞的可复现证明工具，给赏金猎人用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "theasbug/reprocase 星数(近 7 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 2 --> 20
-    line [3, 4, 7, 11, 15, 18, 19]
+    title "theasbug/reprocase 星数(近 8 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 21
+    line [3, 4, 7, 11, 15, 18, 19, 20]
 ```
 
-2026-11-13 3 → 2026-11-22 19（+16）
+2026-11-13 3 → 2026-11-23 20（+17）
 
 
 ---

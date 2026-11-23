@@ -1,6 +1,6 @@
 # aws-samples/sagemaker-distributed-training-workshop
 
-⭐ 153 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/aws-samples/sagemaker-distributed-training-workshop) · 组织维护
+⭐ 154 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/aws-samples/sagemaker-distributed-training-workshop) · 组织维护
 
 **SageMaker 分布式训练与托管的动手实验教程**
 
@@ -44,12 +44,12 @@ AWS 官方 samples 组织发布的动手研讨会材料，包含数据并行与�
 ```mermaid
 xychart-beta
     title "aws-samples/sagemaker-distributed-training-workshop 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-23"]
     y-axis "stars" 152 --> 155
-    line [154, 153, 153]
+    line [154, 153, 154]
 ```
 
-2026-10-20 154 → 2026-11-22 153（-1）
+2026-10-21 154 → 2026-11-23 154（+0）
 
 
 ---

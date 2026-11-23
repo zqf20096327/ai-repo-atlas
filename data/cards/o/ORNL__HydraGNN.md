@@ -1,6 +1,6 @@
 # ORNL/HydraGNN
 
-⭐ 128 · Python · BSD-3-Clause · 推送 2026-11-09 · [GitHub](https://github.com/ORNL/HydraGNN) · 组织维护
+⭐ 129 · Python · BSD-3-Clause · 推送 2026-11-09 · [GitHub](https://github.com/ORNL/HydraGNN) · 组织维护
 
 **多图多头图神经网络的分布式 PyTorch 框架，面向科学计算**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ORNL/HydraGNN 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 126 --> 129
-    line [127, 128, 127, 128, 128]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 126 --> 130
+    line [127, 128, 127, 128, 129]
 ```
 
-2026-10-20 127 → 2026-11-22 128（+1）
+2026-10-21 127 → 2026-11-23 129（+2）
 
 
 ---

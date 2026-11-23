@@ -1,6 +1,6 @@
 # ankitjha67/JARVIS
 
-⭐ 4 · Python · 推送 2026-11-21 · [GitHub](https://github.com/ankitjha67/JARVIS) · 个人维护
+⭐ 11 · Python · 推送 2026-11-22 · [GitHub](https://github.com/ankitjha67/JARVIS) · 个人维护
 
 **Windows 个人 AI 桌面助手：语音控制 + 164 工具操作电脑**
 
@@ -41,6 +41,18 @@
 > L5:  Personal AI Desktop Assistant for Windows
 > L14: JARVIS is a full-stack personal AI assistant that runs entirely on your Windows machine. It routes requests to loca
 > L35: - **8 LLM providers** out of the box: LM Studio, Ollama, NVIDIA NIM, Anthropic, OpenAI, Google Gemini, OpenRouter, 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ankitjha67/JARVIS 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 12
+    line [4, 11]
+```
+
+2026-11-22 4 → 2026-11-23 11（+7）
 
 
 ---

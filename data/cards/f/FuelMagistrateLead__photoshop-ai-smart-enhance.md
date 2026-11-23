@@ -1,6 +1,6 @@
 # FuelMagistrateLead/photoshop-ai-smart-enhance
 
-⭐ 112 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance) · 个人维护
+⭐ 112 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance) · 个人维护
 
 **Photoshop CC 2024+ 的机器学习图像增强扩展插件**
 
@@ -45,12 +45,12 @@ Adobe Photoshop 的 UXP 原生扩展（CC 2024+），用机器学习算法自动
 ```mermaid
 xychart-beta
     title "FuelMagistrateLead/photoshop-ai-smart-enhance 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-01", "2026-11-02", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-01", "2026-11-02", "2026-11-23"]
     y-axis "stars" 111 --> 114
     line [112, 113, 112, 112]
 ```
 
-2026-10-20 112 → 2026-11-22 112（+0）
+2026-10-21 112 → 2026-11-23 112（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Python CLI 工具（rb），供使用 Claude Code/Codex 等 coding agent 做机�
 ```mermaid
 xychart-beta
     title "rabbit-brain/rb 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-22"]
+    x-axis ["2026-11-12", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-22 3（+0）
+2026-11-12 3 → 2026-11-23 3（+0）
 
 
 ---

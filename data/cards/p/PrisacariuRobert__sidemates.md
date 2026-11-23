@@ -1,6 +1,6 @@
 # PrisacariuRobert/sidemates
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/PrisacariuRobert/sidemates) · [官网](https://openbots.foundation) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/PrisacariuRobert/sidemates) · [官网](https://openbots.foundation) · 个人维护
 
 **Mac 本地多 AI 队友应用：代操作 Mail/Calendar/浏览器并先请示**
 
@@ -47,12 +47,12 @@ macOS 上的开源 AI 助手团队应用：多个命名队友各自拥有私有�
 ```mermaid
 xychart-beta
     title "PrisacariuRobert/sidemates 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 5 --> 11
-    line [6, 10, 10]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 5 --> 14
+    line [6, 10, 13]
 ```
 
-2026-10-18 6 → 2026-11-22 10（+4）
+2026-10-18 6 → 2026-11-23 13（+7）
 
 
 ---

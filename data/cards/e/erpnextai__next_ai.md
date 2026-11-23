@@ -45,13 +45,13 @@ Frappe 定制应用，将 Google Gemini LLM 接入 ERPNext：在文本编辑器�
 
 ```mermaid
 xychart-beta
-    title "erpnextai/next_ai 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "erpnextai/next_ai 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 31 --> 34
-    line [32, 33]
+    line [32, 33, 33]
 ```
 
-2026-10-20 32 → 2026-11-22 33（+1）
+2026-10-21 32 → 2026-11-23 33（+1）
 
 
 ---

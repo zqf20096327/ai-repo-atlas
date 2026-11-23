@@ -1,6 +1,6 @@
 # amanhij/Zikkaron
 
-⭐ 61 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/amanhij/Zikkaron) · [官网](https://zikkaron-frontend.vercel.app) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/amanhij/Zikkaron) · [官网](https://zikkaron-frontend.vercel.app) · 个人维护
 
 **给 Claude Code 的本地持久记忆引擎（MCP，SQLite）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amanhij/Zikkaron 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
-    y-axis "stars" 60 --> 63
-    line [62, 61, 61]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-23"]
+    y-axis "stars" 59 --> 63
+    line [62, 61, 60]
 ```
 
-2026-10-20 62 → 2026-11-22 61（-1）
+2026-10-21 62 → 2026-11-23 60（-2）
 
 
 ---

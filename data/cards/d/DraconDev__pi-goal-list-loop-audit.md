@@ -1,6 +1,6 @@
 # DraconDev/pi-goal-list-loop-audit
 
-⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/DraconDev/pi-goal-list-loop-audit) · [官网](https://pi.dev/packages/pi-goal-list-loop-audit) · 个人维护
+⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/DraconDev/pi-goal-list-loop-audit) · [官网](https://pi.dev/packages/pi-goal-list-loop-audit) · 个人维护
 
 **Pi 编码代理的长期任务监督扩展：目标跟踪与完成审计**
 
@@ -46,13 +46,13 @@ GLLA 是 Pi 编码代理的扩展包，将长期开发工作转为受监督过�
 
 ```mermaid
 xychart-beta
-    title "DraconDev/pi-goal-list-loop-audit 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 26 --> 31
-    line [27, 28, 29, 28, 29, 28, 29, 30]
+    title "DraconDev/pi-goal-list-loop-audit 星数(近 9 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 26 --> 32
+    line [27, 28, 29, 28, 29, 28, 29, 30, 31]
 ```
 
-2026-10-19 27 → 2026-11-22 30（+3）
+2026-10-20 27 → 2026-11-23 31（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # vostride/id-agent
 
-⭐ 83 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/vostride/id-agent) · [官网](https://vostride.com/) · 组织维护
+⭐ 84 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/vostride/id-agent) · [官网](https://vostride.com/) · 组织维护
 
 **面向 AI agent 的词组式 ID 生成库，替代 UUID 省约 token**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vostride/id-agent 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 80 --> 84
-    line [81, 83, 83]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 80 --> 85
+    line [81, 83, 84]
 ```
 
-2026-10-20 81 → 2026-11-22 83（+2）
+2026-10-21 81 → 2026-11-23 84（+3）
 
 
 ---

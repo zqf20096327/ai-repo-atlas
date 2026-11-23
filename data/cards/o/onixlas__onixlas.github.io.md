@@ -1,6 +1,6 @@
 # onixlas/onixlas.github.io
 
-⭐ 14 · HTML · MIT · 推送 2026-11-13 · [GitHub](https://github.com/onixlas/onixlas.github.io) · [官网](https://onixlas.github.io/) · 组织维护
+⭐ 14 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/onixlas/onixlas.github.io) · [官网](https://onixlas.github.io/) · 组织维护
 
 **面向学者的 Jekyll 个人网站主题（al-folio 实例）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "onixlas/onixlas.github.io 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 14（+0）
 
 
 ---

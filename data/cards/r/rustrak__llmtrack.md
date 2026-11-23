@@ -1,6 +1,6 @@
 # rustrak/llmtrack
 
-⭐ 7 · Rust · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/rustrak/llmtrack) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管 LLM 网关：统一 API、虚拟密钥与团队用量计费**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

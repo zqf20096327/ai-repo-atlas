@@ -1,6 +1,6 @@
 # itsdecodingai/building-a-coding-agent-from-scratch-course
 
-⭐ 1,227 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/itsdecodingai/building-a-coding-agent-from-scratch-course) · 组织维护
+⭐ 1,238 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/itsdecodingai/building-a-coding-agent-from-scratch-course) · 组织维护
 
 **从零构建编码代理的免费开源课程（8篇文章+6视频）**
 
@@ -45,13 +45,13 @@ Decoding AI 与 Modal、Opik、Kitaru 合作的开源课程，共 8 篇文章与
 
 ```mermaid
 xychart-beta
-    title "itsdecodingai/building-a-coding-agent-from-scratch-course 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 1225 --> 1228
-    line [1226, 1227]
+    title "itsdecodingai/building-a-coding-agent-from-scratch-course 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 1225 --> 1239
+    line [1226, 1227, 1238]
 ```
 
-2026-11-21 1,226 → 2026-11-22 1,227（+1）
+2026-11-21 1,226 → 2026-11-23 1,238（+12）
 
 
 ---

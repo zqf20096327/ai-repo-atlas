@@ -1,10 +1,10 @@
 # google/tunix
 
-⭐ 2,517 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/google/tunix) · 组织维护
+⭐ 2,519 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/google/tunix) · 组织维护
 
-**基于 JAX 的 LLM 后训练库：支持 SFT、RL 与 Agentic RL**
+**JAX 生态 LLM 后训练库：SFT/RL/Agentic RL 微调**
 
-Tunix（Tune-in-JAX）是 Google 维护的 JAX 后训练库，覆盖监督微调（全量、PEFT、DPO、ORPO）、强化学习（PPO、GRPO、GSPO-Token、DAPO、Dr.GRPO）与 Agentic RL（多轮工具使用、异步 rollout、轨迹批处理）。它位于 Flax/Optax/Orbax 等基础工具与 MaxText/MaxDiffusion 优化模型之间，通过 vLLM 和 SGLang-JAX 做 rollout，支持 Pathways 多主机分布式训练与容错。支持 Gemma、Llama、Qwen 系列模型，面向 TPU 训练场景；当前处于 V2 阶段、仍在活跃开发中。
+Tunix 是运行在 TPU/加速器上的 LLM 后训练库，基于 JAX 构建，位于 Flax/Optax/Orbax 等基础工具与 MaxText 等优化模型之间的中间层。提供监督微调（全量/PEFT/DPO/ORPO）、强化学习（PPO/GRPO/GSPO-Token/DAPO/Dr.GRPO）与 Agentic RL（多轮工具调用、异步 rollout）能力，通过 vLLM 做 rollout，支持 Pathways 多主机分布式训练、检查点容错与 XProf 性能剖析。项目处于早期开发阶段，贡献流程仍在规范化。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Tunix（Tune-in-JAX）是 Google 维护的 JAX 后训练库，覆盖监督微调
 
 ## 能力要点
 
-- SFT（全量/PEFT/DPO/ORPO）与多种 RL 算法（PPO/GRPO/GSPO-Token/DAPO/Dr.GRPO）
-- Agentic RL：多轮工具使用、异步 rollout、轨迹批处理与分组
-- vLLM 与 SGLang-JAX 的 rollout 集成，Pathways 多主机分布式可扩展至数千设备
-- 基于 JAX 栈（Flax NNX、Optax、Orbax、MaxText），面向 TPU 训练性能
+- 覆盖 SFT、DPO/ORPO 偏好优化与 PPO/GRPO 等多种 RL 算法
+- Agentic RL 支持多轮工具调用与异步 rollout
+- vLLM on TPU 原生集成用于 rollout，MaxText 原生集成
+- Pathways 多主机分布式训练可扩展至数千设备
 
 ## 适用场景
 
-- 在 TPU 上对 Gemma/Llama/Qwen 模型做 SFT 或 RL 后训练
-- 开展 Agentic RL 训练（多轮工具使用与异步轨迹采集）
-- 在 JAX 生态中构建可扩展的分布式 LLM 训练流程
+- 在 TPU 上对 Gemma/Llama/Qwen 模型做监督微调或 DPO 训练
+- 对 LLM 进行 GRPO/PPO 强化学习后训练
+- 构建多轮工具调用的 Agentic RL 训练流程
 
 ## 场景标签
 
@@ -37,21 +37,22 @@ Tunix（Tune-in-JAX）是 Google 维护的 JAX 后训练库，覆盖监督微调
 
 ## 证据(README 行号)
 
-> L3: **Tunix (Tune-in-JAX)** is a JAX based library designed to streamline the
+> L1: # Tunix: A Lightweight LLM Post-Training Library
+> L3: **Tunix (Tune-in-Accelerators)** is a unified library designed to streamline the
 > L25: Tunix serves as a state-of-the-art post-training library within the JAX training
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "google/tunix 星数(近 18 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2484 --> 2520
-    line [2487, 2491, 2492, 2493, 2494, 2497, 2499, 2500, 2493, 2504, 2507, 2510, 2508, 2512, 2511, 2513, 2515, 2517]
+    title "google/tunix 星数(近 19 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2484 --> 2522
+    line [2487, 2491, 2492, 2493, 2494, 2497, 2499, 2500, 2493, 2504, 2507, 2510, 2508, 2512, 2511, 2513, 2515, 2517, 2519]
 ```
 
-2026-10-19 2,487 → 2026-11-22 2,517（+30）
+2026-10-20 2,487 → 2026-11-23 2,519（+32）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c70a41d21171` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `862af1a60550` · [字段定义](../../DATASET.md)*

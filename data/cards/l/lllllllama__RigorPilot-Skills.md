@@ -1,6 +1,6 @@
 # lllllllama/RigorPilot-Skills
 
-⭐ 489 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lllllllama/RigorPilot-Skills) · [官网](https://lllllllama.github.io/research-reproduction/) · 个人维护 · 中文 README
+⭐ 490 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lllllllama/RigorPilot-Skills) · [官网](https://lllllllama.github.io/research-reproduction/) · 个人维护 · 中文 README
 
 **供 agent 使用的科研仓库 README 复现技能包：有界执行+留证**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lllllllama/RigorPilot-Skills 星数(近 12 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 483 --> 490
-    line [485, 486, 484, 485, 486, 487, 486, 484, 486, 487, 489, 489]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 483 --> 491
+    line [485, 486, 484, 485, 486, 487, 486, 484, 486, 487, 489, 490]
 ```
 
-2026-10-20 485 → 2026-11-22 489（+4）
+2026-10-21 485 → 2026-11-23 490（+5）
 
 
 ---

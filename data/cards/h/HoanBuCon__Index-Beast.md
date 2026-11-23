@@ -1,6 +1,6 @@
 # HoanBuCon/Index-Beast
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/HoanBuCon/Index-Beast) · 组织维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/HoanBuCon/Index-Beast) · 组织维护
 
 **面向玩家的 Elden Ring 问答助手：网页与 Discord RAG 问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HoanBuCon/Index-Beast 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-20 5 → 2026-11-22 5（+0）
+2026-10-21 5 → 2026-11-23 5（+0）
 
 
 ---

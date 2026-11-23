@@ -1,6 +1,6 @@
 # Meko1/llm-interview-guide
 
-⭐ 38 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Meko1/llm-interview-guide) · [官网](https://meko1.github.io/llm-interview-guide/) · 个人维护 · 中文 README
+⭐ 39 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Meko1/llm-interview-guide) · [官网](https://meko1.github.io/llm-interview-guide/) · 个人维护 · 中文 README
 
 **面向中文读者的大模型面试知识库，问答式整理高频考点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Meko1/llm-interview-guide 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 25 --> 39
-    line [26, 28, 29, 32, 35, 28, 38, 38]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 25 --> 40
+    line [26, 28, 29, 32, 35, 28, 38, 39]
 ```
 
-2026-10-20 26 → 2026-11-22 38（+12）
+2026-10-21 26 → 2026-11-23 39（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # MiyanoShihoo/camty
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/MiyanoShihoo/camty) · 个人维护 · 中文 README
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/MiyanoShihoo/camty) · 个人维护 · 中文 README
 
 **给红队/安全测试者的全链渗透测试自动化工作台**
 
@@ -39,6 +39,18 @@
 
 > L29: LLM 规划者读台账与资产覆盖度生成攻击链 todolist，N 个 worker 并行领意图执行并写回；资产图（真值库 + 覆盖度）与探索图（意图血缘）断点续跑；限流退避、连续失败自动降级确定性模式、人在环路随时转向。
 > L16: Camty 是一套**可审计的红队交战工作台**：把一次渗透测试的全部动作——侦察测绘、漏洞验证、权限提升、横向移动、证据归档、报告生成——纳入同一条流水线，用范围护栏、审计哈希链和证据台账保证**每一步都合规、可回放、可交付**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MiyanoShihoo/camty 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 7
+    line [4, 6]
+```
+
+2026-11-22 4 → 2026-11-23 6（+2）
 
 
 ---

@@ -46,12 +46,12 @@ basal-lite 将 basal-serve 围绕模型的逻辑（prompt 格式、选项排序�
 ```mermaid
 xychart-beta
     title "lukaszpodgorski-pl/basal-lite 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-22"]
+    x-axis ["2026-10-30", "2026-11-23"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-10-30 6 → 2026-11-22 6（+0）
+2026-10-30 6 → 2026-11-23 6（+0）
 
 
 ---

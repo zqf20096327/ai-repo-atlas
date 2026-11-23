@@ -1,6 +1,6 @@
 # yeasy/llm_internals
 
-⭐ 138 · Python · 推送 2026-11-21 · [GitHub](https://github.com/yeasy/llm_internals) · [官网](https://yeasy.gitbook.io/llm_internals/) · 个人维护 · 中文 README
+⭐ 138 · Python · 推送 2026-11-22 · [GitHub](https://github.com/yeasy/llm_internals) · [官网](https://yeasy.gitbook.io/llm_internals/) · 个人维护 · 中文 README
 
 **讲解 Transformer 与大模型架构、训练、推理部署的中文开源书籍**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yeasy/llm_internals 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
+    title "yeasy/llm_internals 星数(近 11 点)"
+    x-axis ["2026-10-21", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 125 --> 139
-    line [126, 128, 129, 130, 126, 134, 135, 136, 137, 138]
+    line [126, 128, 129, 130, 126, 134, 135, 136, 137, 138, 138]
 ```
 
-2026-10-20 126 → 2026-11-22 138（+12）
+2026-10-21 126 → 2026-11-23 138（+12）
 
 
 ---

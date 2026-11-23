@@ -1,6 +1,6 @@
 # cpj-dev/dsh-plugin-cc
 
-⭐ 104 · JavaScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/cpj-dev/dsh-plugin-cc) · 个人维护 · 中文 README
+⭐ 105 · JavaScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/cpj-dev/dsh-plugin-cc) · 个人维护 · 中文 README
 
 **在 Claude Code 中运行 DeepSeek Harness 的斜杠命令插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cpj-dev/dsh-plugin-cc 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-23"]
     y-axis "stars" 103 --> 106
-    line [105, 104, 104]
+    line [105, 104, 105]
 ```
 
-2026-10-20 105 → 2026-11-22 104（-1）
+2026-10-21 105 → 2026-11-23 105（+0）
 
 
 ---

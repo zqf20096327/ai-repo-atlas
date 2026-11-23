@@ -1,6 +1,6 @@
 # textvec/textvec
 
-⭐ 197 · Python · MIT · 推送 2025-11-26 · [GitHub](https://github.com/textvec/textvec) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **监督文本向量化工具：面向文本分类的 TFIDF 替代方法集**
 
@@ -11,7 +11,7 @@ Python 库，实现 11 种经典监督式文本向量化方法（TfIcf、Tfor、
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

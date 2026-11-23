@@ -1,6 +1,6 @@
 # joungminsung/OpenPhoneUse
 
-⭐ 34 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/joungminsung/OpenPhoneUse) · [官网](https://joungminsung.github.io/OpenPhoneUse/) · 个人维护
+⭐ 38 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/joungminsung/OpenPhoneUse) · [官网](https://joungminsung.github.io/OpenPhoneUse/) · 个人维护
 
 **让 AI 代理代你操作安卓手机的开源应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "joungminsung/OpenPhoneUse 星数(近 10 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 11 --> 36
-    line [13, 15, 18, 20, 22, 23, 25, 29, 32, 34]
+    title "joungminsung/OpenPhoneUse 星数(近 11 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 11 --> 40
+    line [13, 15, 18, 20, 22, 23, 25, 29, 32, 34, 38]
 ```
 
-2026-11-12 13 → 2026-11-22 34（+21）
+2026-11-12 13 → 2026-11-23 38（+25）
 
 
 ---

@@ -1,6 +1,6 @@
 # aibtcdev/aibtc-mcp-server
 
-⭐ 12 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/aibtcdev/aibtc-mcp-server) · 组织维护
+⭐ 12 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/aibtcdev/aibtc-mcp-server) · 组织维护
 
 **面向 AI agent 的比特币原生 MCP 服务器：钱包、DeFi 与支付工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aibtcdev/aibtc-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

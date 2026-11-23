@@ -1,6 +1,6 @@
 # frogCaller/Pietato
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/frogCaller/Pietato) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/frogCaller/Pietato) · 个人维护
 
 **把树莓派变成集成 AI 机器人的媒体中心系统**
 
@@ -46,12 +46,12 @@ Pietato 将树莓派和游戏手柄组成一体化的媒体中心，提供电视
 ```mermaid
 xychart-beta
     title "frogCaller/Pietato 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-15", "2026-11-22"]
+    x-axis ["2026-11-11", "2026-11-15", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-11 3 → 2026-11-22 4（+1）
+2026-11-11 3 → 2026-11-23 4（+1）
 
 
 ---

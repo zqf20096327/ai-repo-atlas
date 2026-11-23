@@ -1,6 +1,6 @@
 # Elhelali/vram-manager
 
-⭐ 3 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Elhelali/vram-manager) · [官网](https://elhelali.dev/vram-manager) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Linux 顶栏 GPU 显存监视器：查看占用进程并可手动结束**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

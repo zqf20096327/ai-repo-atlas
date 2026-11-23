@@ -1,6 +1,6 @@
 # anormang1992/vre
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/anormang1992/vre) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/anormang1992/vre) · 个人维护
 
 **Python 库：用知识图谱对 AI agent 的行动做认知边界拦截**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anormang1992/vre 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-20 15 → 2026-11-22 15（+0）
+2026-10-21 15 → 2026-11-23 16（+1）
 
 
 ---

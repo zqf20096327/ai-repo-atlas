@@ -1,6 +1,6 @@
 # Amery2010/open-builder
 
-⭐ 112 · TypeScript · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/Amery2010/open-builder) · [官网](https://builder.u14.app) · 个人维护 · 中文 README
+⭐ 113 · TypeScript · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/Amery2010/open-builder) · [官网](https://builder.u14.app) · 个人维护 · 中文 README
 
 **通过自然语言对话生成可运行 Web 应用的桌面端 AI 生成器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Amery2010/open-builder 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 92 --> 113
-    line [93, 109, 110, 111, 112]
+    title "Amery2010/open-builder 星数(近 6 点)"
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 91 --> 115
+    line [93, 109, 110, 111, 112, 113]
 ```
 
-2026-10-20 93 → 2026-11-22 112（+19）
+2026-10-21 93 → 2026-11-23 113（+20）
 
 
 ---

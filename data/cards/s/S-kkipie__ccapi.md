@@ -1,6 +1,6 @@
 # S-kkipie/ccapi
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/S-kkipie/ccapi) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/S-kkipie/ccapi) · 个人维护
 
 **把 Claude Code 订阅变成本地 Anthropic 兼容 API 的代理**
 
@@ -45,12 +45,12 @@ ccapi 通过在 tmux 中运行带两个 mod 的 Claude Code 会话，在 127.0.0
 ```mermaid
 xychart-beta
     title "S-kkipie/ccapi 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-22"]
+    x-axis ["2026-10-26", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-26 4 → 2026-11-22 4（+0）
+2026-10-26 4 → 2026-11-23 4（+0）
 
 
 ---

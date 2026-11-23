@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Beyond-Horizons-Institute/symbio-basic 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-22"]
+    title "Beyond-Horizons-Institute/symbio-basic 星数(近 4 点)"
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-22", "2026-11-23"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16]
+    line [14, 15, 16, 16]
 ```
 
-2026-10-20 14 → 2026-11-22 16（+2）
+2026-10-21 14 → 2026-11-23 16（+2）
 
 
 ---

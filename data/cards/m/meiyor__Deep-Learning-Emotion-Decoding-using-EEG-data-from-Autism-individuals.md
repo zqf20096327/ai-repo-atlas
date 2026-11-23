@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "meiyor/Deep-Learning-Emotion-Decoding-using-EEG-data-from-Autism-individuals 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-16", "2026-11-23"]
     y-axis "stars" 58 --> 61
     line [59, 60, 60]
 ```
 
-2026-10-20 59 → 2026-11-22 60（+1）
+2026-10-21 59 → 2026-11-23 60（+1）
 
 
 ---

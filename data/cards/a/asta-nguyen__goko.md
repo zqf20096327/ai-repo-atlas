@@ -1,6 +1,6 @@
 # asta-nguyen/goko
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/asta-nguyen/goko) · [官网](https://goko.astalife.co) · 个人维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/asta-nguyen/goko) · [官网](https://goko.astalife.co) · 个人维护
 
 **按项目管理交互式命令行 AI Agent 的跨平台桌面应用**
 
@@ -40,6 +40,18 @@ Goko 是一个运行于 macOS、Linux 和 Windows 的桌面应用，用于按项
 > L5: Goko is a desktop app for macOS, Linux and Windows for running interactive
 > L6: command-line agents by project. The native Rune app (`apps/rune`) talks to the
 > L20: |`crates/app-core`|`goko.db` store, Git/worktrees, agents, ACP, language servers|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "asta-nguyen/goko 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-22 8 → 2026-11-23 8（+0）
 
 
 ---

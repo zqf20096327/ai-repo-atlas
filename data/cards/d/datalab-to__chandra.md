@@ -1,10 +1,10 @@
 # datalab-to/chandra
 
-⭐ 12,743 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/datalab-to/chandra) · [官网](https://www.datalab.to) · 组织维护
+⭐ 12,744 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/datalab-to/chandra) · [官网](https://www.datalab.to) · 组织维护
 
-**OCR 模型：将图像/PDF 转为保留版面的 Markdown/HTML/JSON**
+**把图片/PDF 转为结构化 Markdown/HTML/JSON 的 OCR 模型**
 
-Datalab 开发的文档智能 OCR 模型 Chandra 2，将图像和 PDF 转换为结构化的 HTML/Markdown/JSON 并保留布局信息，支持 90+ 语言、手写体、表格、数学公式与表单（含复选框）重建，可提取图像与图表并生成题注。提供两种推理模式：本地 HuggingFace 加载与远程 vLLM 服务，安装后通过 CLI、Streamlit 应用（chandra_app）或 vLLM 启动器（chandra_vllm，Docker 容器）使用。代码 Apache 2.0，模型权重采用修改版 OpenRAIL-M 许可，商业自托管需另行授权。
+Datalab 开源的 OCR 模型（Chandra OCR 2），将图像与 PDF 转换为带版式信息的 Markdown/HTML/JSON，输出布局块边界框与标签、提取图片与图表并生成说明。支持 90+ 语言、表格、数学公式、手写与表单复选框。提供两种推理方式：本地 HuggingFace 与远程 vLLM 服务器，附带 CLI、Python SDK、交互式 Web 查看器与 AI agent skill 安装。代码 Apache 2.0，模型权重采用修改版 OpenRAIL-M 许可，商业自托管需另行授权。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Datalab 开发的文档智能 OCR 模型 Chandra 2，将图像和 PDF 转换为�
 
 ## 能力要点
 
-- 图像/PDF 转 Markdown/HTML/JSON，保留完整布局信息
-- 支持 90+ 语言、手写体、表格、数学公式与表单复选框重建
-- 两种推理模式：本地 HuggingFace 与远程 vLLM 服务
-- CLI 支持 PDF 页码范围、并行 worker、批量大小等选项
+- 图像/PDF 转 Markdown/HTML/JSON 并保留版式与布局块边界框
+- 支持 90+ 语言、表格、数学、手写与含复选框的表单
+- 两种推理模式：本地 HuggingFace 与远程 vLLM 服务器
+- 提供 CLI、Python SDK、零依赖交互式 Web 查看器
 
 ## 适用场景
 
-- 把扫描文档或 PDF 转成可用的 Markdown/HTML 结构化文本
-- 批量处理含表格、数学、多栏版面的文档
-- 识别手写笔记与表单并保留勾选框等结构
+- 把扫描件和 PDF 批量转成结构化文本入库
+- 识别包含复杂表格与数学公式的文档
+- 转录手写笔记并保留版面结构
 
 ## 场景标签
 
-`OCR` `文档解析` · 领域:知识与检索
+`文档解析` `OCR` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L19: Chandra OCR 2 is a state of the art OCR model that converts images and PDFs into structured HTML/Markdown/JSON whil
-> L39: - Convert documents to markdown, html, or json with detailed layout information
-> L45: - Two inference modes: local (HuggingFace) and remote (vLLM server)
+> L41: - Convert documents to markdown, html, or json with detailed layout information
+> L47: - Two inference modes: local (HuggingFace) and remote (vLLM server)
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "datalab-to/chandra 星数(近 26 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 12493 --> 12765
-    line [12515, 12523, 12534, 12559, 12564, 12576, 12587, 12610, 12625, 12639, 12645, 12653, 12656, 12564, 12696, 12699, 12700, 12711, 12718, 12724, 12726, 12729, 12732, 12736, 12738, 12743]
+    title "datalab-to/chandra 星数(近 27 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 12493 --> 12766
+    line [12515, 12523, 12534, 12559, 12564, 12576, 12587, 12610, 12625, 12639, 12645, 12653, 12656, 12564, 12696, 12699, 12700, 12711, 12718, 12724, 12726, 12729, 12732, 12736, 12738, 12743, 12744]
 ```
 
-2026-10-20 12,515 → 2026-11-22 12,743（+228）
+2026-10-21 12,515 → 2026-11-23 12,744（+229）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `8256acf4be0e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4d3d11f271e7` · [字段定义](../../DATASET.md)*

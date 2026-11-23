@@ -1,6 +1,6 @@
 # Burakkylmz/llm-token-economics-lab
 
-⭐ 22 · Python · 推送 2026-11-17 · [GitHub](https://github.com/Burakkylmz/llm-token-economics-lab) · 个人维护
+⭐ 23 · Python · 推送 2026-11-17 · [GitHub](https://github.com/Burakkylmz/llm-token-economics-lab) · 个人维护
 
 **面向学习者的 LLM 工程实验集：token 成本与 API 性能实测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Burakkylmz/llm-token-economics-lab 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 6 --> 23
-    line [7, 15, 17, 18, 22, 22]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 6 --> 24
+    line [7, 15, 17, 18, 22, 23]
 ```
 
-2026-10-28 7 → 2026-11-22 22（+15）
+2026-10-28 7 → 2026-11-23 23（+16）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 3,878 · Rust · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/golutra/golutra) · [官网](https://www.golutra.com) · 个人维护 · 中文 README
 
-**把现有 AI CLI 编排为多智能体并行协作的桌面工作空间**
+**多智能体编排桌面平台：统一调度已有 AI CLI 工具并行协作**
 
-基于 Vue 3 + Rust 的 Tauri 桌面应用（Windows/macOS/Linux），将 Claude Code、Gemini CLI、Codex CLI、OpenCode、Qwen Code、OpenClaw 及任意 CLI 接入统一的多智能体工作空间：不限数量的并行执行、从分析到部署的自动编排、自定义工作流与模板导入导出、Agent 日志查看与终端流提示词注入、隐形后台终端。可调用 EverOS 作记忆层，golutra-mcp 提供基于 golutra-cli 的 MCP 接入。采用 BSL 1.1 许可，由个人独立开发，README 自述处于早期阶段。
+Tauri 桌面应用（Vue 3 + Rust），将用户已有的 CLI Agent 工具（golutra-agent、Claude Code、Codex CLI、Gemini CLI、OpenClaw 等 15 种及自定义 CLI）接入同一工作空间，提供多智能体并行执行、任务派发与状态追踪、可视化日志查看、向终端流注入提示词、自定义工作流及模板一键导入导出，面向长期运行的自动化协作场景。通过 golutra-mcp 可接入 MCP 工作流，可调用 EverOS 作为跨会话记忆层。安装方式为 GitHub Releases 下载，支持 Windows/macOS/Linux。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 多智能体并行执行（不限数量）与自动编排
-- CLI 兼容层：Claude/Gemini/Codex/OpenCode/Qwen/OpenClaw/任意 CLI
-- 自定义工作流与模板一键导入导出
-- EverOS 记忆层与 golutra-mcp 的 MCP 接入
+- 接入 15 种 CLI Agent 工具及自定义启动命令，统一编排调度
+- 多智能体并行执行，结果自动回传同一工作流
+- 自定义工作流，模板一键导入导出
+- 配套 golutra-mcp 与 EverOS 记忆层扩展
 
 ## 适用场景
 
-- 把正在用的 AI CLI 组成多人协作团队并行执行任务
-- 长期运行的自动化工作流（一人公司、自动写小说、内容发布）
-- 在一个界面里跨 CLI 统一调度与状态追踪
+- 把多个 AI CLI 工具放进同一界面并行跑任务、统一看日志
+- 为一人公司搭建跨任务的自动化 AI 工作流
+- 自动化写小说、发布小红书、视频制作等长流程场景
 
 ## 场景标签
 
@@ -37,21 +37,21 @@
 
 ## 证据(README 行号)
 
-> L50: golutra is a next-generation multi-agent workspace that transforms your existing CLI tools into a unified AI collab
-> L75: - CLI compatibility: Claude, Gemini, Codex, OpenCode, Qwen, OpenClaw, Any CLI
+> L68: golutra is a next-generation multi-agent workspace that transforms your existing CLI tools into a unified AI collab
+> L93: - CLI compatibility: golutra-agent, Claude Code, Antigravity CLI, Codex CLI, Grok CLI, PI, DeepSeek Harness, Hermes
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "golutra/golutra 星数(近 20 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "golutra/golutra 星数(近 21 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3859 --> 3879
-    line [3860, 3861, 3860, 3862, 3863, 3862, 3861, 3863, 3861, 3863, 3865, 3867, 3868, 3867, 3866, 3867, 3871, 3870, 3877, 3878]
+    line [3860, 3861, 3860, 3862, 3863, 3862, 3861, 3863, 3861, 3863, 3865, 3867, 3868, 3867, 3866, 3867, 3871, 3870, 3877, 3878, 3878]
 ```
 
-2026-10-20 3,860 → 2026-11-22 3,878（+18）
+2026-10-21 3,860 → 2026-11-23 3,878（+18）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `31b4bdb9b723` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2486e048de3e` · [字段定义](../../DATASET.md)*

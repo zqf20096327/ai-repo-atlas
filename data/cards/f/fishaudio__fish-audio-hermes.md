@@ -1,6 +1,6 @@
 # fishaudio/fish-audio-hermes
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/fishaudio/fish-audio-hermes) · [官网](https://fish.audio) · 组织维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/fishaudio/fish-audio-hermes) · [官网](https://fish.audio) · 组织维护
 
 **让 Hermes agent 说和听：接入 Fish Audio 语音合成与转写**
 
@@ -45,13 +45,13 @@ Fish Audio 的官方 Hermes Agent 插件，由 Electric Sheep 维护，运行于
 
 ```mermaid
 xychart-beta
-    title "fishaudio/fish-audio-hermes 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 61 --> 65
-    line [63, 62, 64]
+    title "fishaudio/fish-audio-hermes 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 61 --> 66
+    line [63, 62, 64, 65]
 ```
 
-2026-11-20 63 → 2026-11-22 64（+1）
+2026-11-20 63 → 2026-11-23 65（+2）
 
 
 ---

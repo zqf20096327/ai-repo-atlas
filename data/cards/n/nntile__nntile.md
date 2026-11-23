@@ -1,6 +1,6 @@
 # nntile/nntile
 
-⭐ 57 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nntile/nntile) · 组织维护
+⭐ 57 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nntile/nntile) · 组织维护
 
 **训练大型神经网络的任务级并行框架（基于 StarPU）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nntile/nntile 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-20 57 → 2026-11-22 57（+0）
+2026-10-21 57 → 2026-11-23 57（+0）
 
 
 ---

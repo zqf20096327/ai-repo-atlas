@@ -2,9 +2,9 @@
 
 ⭐ 2,969 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/MacPaw/OpenAI) · 组织维护
 
-**Swift 社区维护的 OpenAI API 客户端 SDK，供 iOS/macOS 开发者调用**
+**Swift 开发者接入 OpenAI 公开 API 的社区维护 SDK**
 
-MacPaw 维护的 Swift 包，按 OpenAI REST API 文档封装类型与方法，覆盖 Responses、Chat Completions（含流式）、Function calling、图像生成/编辑/变体、语音合成/转录/翻译及音频输入输出。通过 Swift Package Manager 集成到 Xcode 项目，支持 Closure、Combine 与 Swift Concurrency 三种调用方式并可取消请求；经 .relaxed 解析选项也可对接 OpenAI 兼容的其他提供方。README 提醒 API key 需经自有后端保管，勿在客户端暴露。
+由 MacPaw 维护的 Swift 社区实现，封装 OpenAI 公开 REST API 的类型与方法。支持 Swift Package Manager 集成，覆盖 Responses、Chat Completions、Function calling、图像生成/编辑/变体、语音合成（含流式）、音频转录与翻译、带音频输入输出的对话等端点。支持 Swift Concurrency、闭包回调与 Combine 三种调用方式及请求取消；通过 .relaxed 解析选项可接入兼容 OpenAI API 的其他提供方。需自备 API token，官方建议客户端应用经后端代理转发请求以保护密钥。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@ MacPaw 维护的 Swift 包，按 OpenAI REST API 文档封装类型与方法，�
 
 ## 能力要点
 
-- 覆盖 Responses / Chat Completions / 图像 / 音频端点的类型化封装
-- Closure、Combine、Swift Concurrency 三种调用方式，均支持取消
-- .relaxed 解析选项支持 OpenAI 兼容的其他提供方
-- Configuration 可自定义 host/basePath/port/scheme/customHeaders
+- 封装 Responses、Chat Completions、Function calling、图像与音频等 OpenAI API 端点
+- 支持 Swift Concurrency / 闭包 / Combine 三种调用方式与请求取消
+- 配置 .relaxed 解析后可接入 OpenAI 兼容 API 的其他提供方
+- 通过 Swift Package Manager 集成，可自定义 host/basePath/port 等配置
 
 ## 适用场景
 
-- 在 Swift 应用中调用 OpenAI 文本、图像与音频 API
-- 构建 Function calling 与流式输出的对话功能
-- 通过自定义 host 接入 OpenAI 兼容的自建服务
+- 在 iOS/macOS 应用中调用 Chat Completions 生成文本
+- 在 Swift 应用中实现图像生成、编辑与变体功能
+- 在 Swift 应用中接入语音合成、转录与翻译功能
+- 接入兼容 OpenAI API 的第三方提供方
 
 ## 场景标签
 
- · 领域:LLM API 客户端/移动开发
+`图像生成` `语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L9: This repository contains Swift community-maintained implementation over OpenAI public API.
+> L63: ### Using the SDK for other providers except OpenAI
 > L65: This SDK is more focused on working with OpenAI Platform, but also works with other providers that support OpenAI-c
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "MacPaw/OpenAI 星数(近 15 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-22"]
+    title "MacPaw/OpenAI 星数(近 16 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2950 --> 2970
-    line [2951, 2952, 2953, 2954, 2956, 2958, 2953, 2962, 2963, 2964, 2965, 2964, 2965, 2966, 2969]
+    line [2951, 2952, 2953, 2954, 2956, 2958, 2953, 2962, 2963, 2964, 2965, 2964, 2965, 2966, 2969, 2969]
 ```
 
-2026-10-20 2,951 → 2026-11-22 2,969（+18）
+2026-10-21 2,951 → 2026-11-23 2,969（+18）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `dda912490723` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f5a451890371` · [字段定义](../../DATASET.md)*

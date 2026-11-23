@@ -1,6 +1,6 @@
 # rybakov-ks/ParticleAnalyzer
 
-⭐ 38 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/rybakov-ks/ParticleAnalyzer) · [官网](https://particleanalyzer.ru) · 个人维护 · 中文 README
+⭐ 39 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/rybakov-ks/ParticleAnalyzer) · [官网](https://particleanalyzer.ru) · 个人维护 · 中文 README
 
 **电镜图像中纳米颗粒的自动分割与尺寸分析工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rybakov-ks/ParticleAnalyzer 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-20 38 → 2026-11-22 38（+0）
+2026-10-21 38 → 2026-11-23 39（+1）
 
 
 ---

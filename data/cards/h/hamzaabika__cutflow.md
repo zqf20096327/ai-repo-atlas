@@ -1,6 +1,6 @@
 # hamzaabika/cutflow
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hamzaabika/cutflow) · [官网](https://getcutflow.pages.dev/) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hamzaabika/cutflow) · [官网](https://getcutflow.pages.dev/) · 个人维护
 
 **免费开源的跨平台桌面视频编辑器，含 AI 助手与自动字幕**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hamzaabika/cutflow 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    x-axis ["2026-11-10", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-10 5 → 2026-11-22 6（+1）
+2026-11-10 5 → 2026-11-23 7（+2）
 
 
 ---

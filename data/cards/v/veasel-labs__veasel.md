@@ -1,6 +1,6 @@
 # veasel-labs/veasel
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/veasel-labs/veasel) · [官网](https://www.veasel.dev) · 组织维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/veasel-labs/veasel) · [官网](https://www.veasel.dev) · 组织维护
 
 **V 语言编写的开源终端 AI 编码代理，本地运行、审批生效**
 
@@ -46,12 +46,12 @@ Veasel Code 是一个用 V 实现的开源 AI 编码代理，包含回环 HTTP �
 ```mermaid
 xychart-beta
     title "veasel-labs/veasel 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-20 3 → 2026-11-22 4（+1）
+2026-10-21 3 → 2026-11-23 4（+1）
 
 
 ---

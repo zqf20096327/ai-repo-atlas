@@ -1,6 +1,6 @@
 # appautomaton/v0-chat-2api
 
-⭐ 12 · TypeScript · 推送 2026-03-06 · [GitHub](https://github.com/appautomaton/v0-chat-2api) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-03-06 · [GitHub](https://github.com/appautomaton/v0-chat-2api) · 个人维护
 
 **将 Vercel v0 聊天封装为本地 OpenAI 兼容 API 的代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "appautomaton/v0-chat-2api 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-21", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-20 11 → 2026-11-22 12（+1）
+2026-10-21 11 → 2026-11-23 13（+2）
 
 
 ---

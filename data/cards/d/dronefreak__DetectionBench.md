@@ -1,6 +1,6 @@
 # dronefreak/DetectionBench
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/dronefreak/DetectionBench) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dronefreak/DetectionBench) · 个人维护
 
 **面向非 COCO 检测数据集的标准化评测框架**
 
@@ -46,12 +46,12 @@ Hydra 驱动的目标检测基准框架：通过统一的数据集适配器、�
 ```mermaid
 xychart-beta
     title "dronefreak/DetectionBench 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

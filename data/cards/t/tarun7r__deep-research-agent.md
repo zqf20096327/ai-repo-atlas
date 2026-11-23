@@ -1,6 +1,6 @@
 # tarun7r/deep-research-agent
 
-⭐ 191 · Python · MIT · 推送 2026-04-04 · [GitHub](https://github.com/tarun7r/deep-research-agent) · 个人维护
+⭐ 192 · Python · MIT · 推送 2026-04-04 · [GitHub](https://github.com/tarun7r/deep-research-agent) · 个人维护
 
 **多智能体自主研究系统：自动检索并生成带引用的研究报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tarun7r/deep-research-agent 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 187 --> 192
-    line [188, 189, 190, 189, 191, 191]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 187 --> 193
+    line [188, 189, 190, 189, 191, 192]
 ```
 
-2026-10-20 188 → 2026-11-22 191（+3）
+2026-10-21 188 → 2026-11-23 192（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # franciscovillaescusa/Quijote-simulations
 
-⭐ 107 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/franciscovillaescusa/Quijote-simulations) · 个人维护
+⭐ 107 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/franciscovillaescusa/Quijote-simulations) · 个人维护
 
 **宇宙学 N 体模拟大型套件（README 迁移中）**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "franciscovillaescusa/Quijote-simulations 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 106 --> 108
     line [107, 107]
 ```
 
-2026-10-20 107 → 2026-11-22 107（+0）
+2026-10-21 107 → 2026-11-23 107（+0）
 
 
 ---

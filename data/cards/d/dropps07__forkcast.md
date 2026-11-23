@@ -1,6 +1,6 @@
 # dropps07/forkcast
 
-⭐ 47 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dropps07/forkcast) · [官网](https://forkcast-frontend.onrender.com) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dropps07/forkcast) · [官网](https://forkcast-frontend.onrender.com) · 个人维护
 
 **面向个人用户的多天个性化膳食计划与食谱清单应用**
 
@@ -45,13 +45,13 @@ Web 应用，根据用户的饮食、预算与烹饪时间生成多天膳食计�
 
 ```mermaid
 xychart-beta
-    title "dropps07/forkcast 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 0 --> 51
-    line [4, 8, 45, 47]
+    title "dropps07/forkcast 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 0 --> 53
+    line [4, 8, 45, 47, 49]
 ```
 
-2026-11-19 4 → 2026-11-22 47（+43）
+2026-11-19 4 → 2026-11-23 49（+45）
 
 
 ---

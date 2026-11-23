@@ -44,12 +44,12 @@ LobeHub 维护的 LobeChat 插件，把 Open Interpreter 集成到 LobeChat 中�
 ```mermaid
 xychart-beta
     title "lobehub/chat-plugin-open-interpreter 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-20 24 → 2026-11-22 24（+0）
+2026-10-21 24 → 2026-11-23 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # techwithtk/gta6-trim
 
-⭐ 11 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/techwithtk/gta6-trim) · [官网](https://gta6trim.com) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/techwithtk/gta6-trim) · [官网](https://gta6trim.com) · 个人维护
 
 **为 GTA 6 主播/剪辑号自动从直播切出竖屏 Shorts**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "techwithtk/gta6-trim 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 8 --> 12
-    line [9, 11]
+    title "techwithtk/gta6-trim 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 8 --> 13
+    line [9, 11, 12]
 ```
 
-2026-11-21 9 → 2026-11-22 11（+2）
+2026-11-21 9 → 2026-11-23 12（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # toxy4ny/kevlar-benchmark
 
-⭐ 37 · Python · MIT · 推送 2026-01-20 · [GitHub](https://github.com/toxy4ny/kevlar-benchmark) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-01-20 · [GitHub](https://github.com/toxy4ny/kevlar-benchmark) · 个人维护
 
 **面向 AI Agent 安全的红队测试框架，覆盖 OWASP ASI 十大风险**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "toxy4ny/kevlar-benchmark 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 32 --> 38
-    line [33, 34, 35, 36, 37, 37]
+    x-axis ["2026-10-21", "2026-10-24", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 32 --> 40
+    line [33, 34, 35, 36, 37, 39]
 ```
 
-2026-10-20 33 → 2026-11-22 37（+4）
+2026-10-21 33 → 2026-11-23 39（+6）
 
 
 ---

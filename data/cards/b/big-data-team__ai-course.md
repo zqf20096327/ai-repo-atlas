@@ -1,6 +1,6 @@
 # big-data-team/ai-course
 
-⭐ 10 · Python · 推送 2026-11-20 · [GitHub](https://github.com/big-data-team/ai-course) · [官网](https://bigdatateam.org/ru/artificial-intelligence-course) · 组织维护
+⭐ 11 · Python · 推送 2026-11-20 · [GitHub](https://github.com/big-data-team/ai-course) · [官网](https://bigdatateam.org/ru/artificial-intelligence-course) · 组织维护
 
 **AI Agents 工程师课程的代码作业与练习仓库**
 
@@ -46,12 +46,12 @@ Big Data Team 用于其 AI Agents 工程师专项课程（Practical AI Course）
 ```mermaid
 xychart-beta
     title "big-data-team/ai-course 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 2 --> 11
-    line [3, 5, 8, 10, 10]
+    x-axis ["2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 2 --> 12
+    line [3, 5, 8, 10, 11]
 ```
 
-2026-11-10 3 → 2026-11-22 10（+7）
+2026-11-10 3 → 2026-11-23 11（+8）
 
 
 ---

@@ -46,12 +46,12 @@ docproc 是文档到 Markdown 的提取引擎，将 PDF、DOCX、PPTX、XLSX 转
 ```mermaid
 xychart-beta
     title "rithulkamesh/docproc 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-22 10（+0）
+2026-11-08 10 → 2026-11-23 10（+0）
 
 
 ---

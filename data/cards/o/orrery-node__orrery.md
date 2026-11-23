@@ -1,6 +1,6 @@
 # orrery-node/orrery
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/orrery-node/orrery) · [官网](https://orrerynode.com) · 组织维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/orrery-node/orrery) · [官网](https://orrerynode.com) · 组织维护
 
 **P2P AI 推理路由器：直连节点用 Solana 按答案付款，零抽成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "orrery-node/orrery 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22"]
+    title "orrery-node/orrery 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6]
+    line [3, 4, 5, 6, 6]
 ```
 
-2026-11-08 3 → 2026-11-22 6（+3）
+2026-11-08 3 → 2026-11-23 6（+3）
 
 
 ---

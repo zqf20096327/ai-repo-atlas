@@ -1,6 +1,6 @@
 # MuseLinn/MusePi
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/MuseLinn/MusePi) · [官网](https://muselinn.github.io/MusePi/) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MuseLinn/MusePi) · [官网](https://muselinn.github.io/MusePi/) · 个人维护 · 中文 README
 
 **桌面优先的 AI 编程智能体：Electron GUI + TUI/CLI + 守护进程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MuseLinn/MusePi 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-23"]
     y-axis "stars" 16 --> 22
     line [17, 18, 19, 20, 21, 21]
 ```
 
-2026-10-19 17 → 2026-11-22 21（+4）
+2026-10-20 17 → 2026-11-23 21（+4）
 
 
 ---

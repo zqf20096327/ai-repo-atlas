@@ -1,6 +1,6 @@
 # salmiyounes/Sisyphus
 
-⭐ 23 · C · MIT · 推送 2026-11-19 · [GitHub](https://github.com/salmiyounes/Sisyphus) · [官网](https://lichess.org/@/Sisyphus-engine) · 个人维护
+⭐ 23 · C · MIT · 推送 2026-11-21 · [GitHub](https://github.com/salmiyounes/Sisyphus) · [官网](https://lichess.org/@/Sisyphus-engine) · 个人维护
 
 **C 后端的 Python 国际象棋引擎与棋局库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "salmiyounes/Sisyphus 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-20 23 → 2026-11-22 23（+0）
+2026-10-21 23 → 2026-11-23 23（+0）
 
 
 ---

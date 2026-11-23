@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Copilot-Managed-Runtime 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-22"]
+    title "microsoft/Copilot-Managed-Runtime 星数(近 4 点)"
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-22", "2026-11-23"]
     y-axis "stars" 9 --> 15
-    line [10, 13, 14]
+    line [10, 13, 14, 14]
 ```
 
-2026-11-14 10 → 2026-11-22 14（+4）
+2026-11-14 10 → 2026-11-23 14（+4）
 
 
 ---

@@ -44,13 +44,13 @@ Stable Diffusion WebUI Forge Neo 的默认扩展索引：以 AUTOMATIC1111 经�
 
 ```mermaid
 xychart-beta
-    title "eduardoabreu81/forge-neo-extensions 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "eduardoabreu81/forge-neo-extensions 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 8 --> 14
-    line [9, 10, 12, 13]
+    line [9, 10, 12, 13, 13]
 ```
 
-2026-11-16 9 → 2026-11-22 13（+4）
+2026-11-16 9 → 2026-11-23 13（+4）
 
 
 ---

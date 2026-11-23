@@ -1,6 +1,6 @@
 # swastiksingh-dev/Aura-Components-MCP
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/swastiksingh-dev/Aura-Components-MCP) · [官网](https://aura-mcp-web.vercel.app/) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/swastiksingh-dev/Aura-Components-MCP) · [官网](https://aura-mcp-web.vercel.app/) · 个人维护
 
 **面向 agent 的 Aura 公共目录 MCP 服务器：检索组件/技能/资产/设计系统**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "swastiksingh-dev/Aura-Components-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-22"]
-    y-axis "stars" 5 --> 12
-    line [6, 11]
+    title "swastiksingh-dev/Aura-Components-MCP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 5 --> 14
+    line [6, 11, 13]
 ```
 
-2026-10-18 6 → 2026-11-22 11（+5）
+2026-10-18 6 → 2026-11-23 13（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # guzus/ai-research-arm
 
-⭐ 14 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/guzus/ai-research-arm) · [官网](https://ara.guzus.xyz) · 个人维护
+⭐ 14 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/guzus/ai-research-arm) · [官网](https://ara.guzus.xyz) · 个人维护
 
 **自动运行的 AI 新闻情报管线：多源 agent 采集并自动出版日报与维基**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guzus/ai-research-arm 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-08", "2026-11-23"]
     y-axis "stars" 13 --> 16
     line [14, 15, 14, 14]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 14（+0）
 
 
 ---

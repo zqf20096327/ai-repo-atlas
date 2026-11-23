@@ -1,6 +1,6 @@
 # rickiepark/intro_ml_with_python_2nd_revised
 
-⭐ 62 · Jupyter Notebook · MIT · 推送 2026-02-27 · [GitHub](https://github.com/rickiepark/intro_ml_with_python_2nd_revised) · 个人维护
+⭐ 61 · Jupyter Notebook · MIT · 推送 2026-02-27 · [GitHub](https://github.com/rickiepark/intro_ml_with_python_2nd_revised) · 个人维护
 
 **《파이썬 라이브러리를 활용한 머신러닝》(개정2판) 翻译书配套代码仓库**
 
@@ -45,12 +45,12 @@ Andreas Müller 与 Sarah Guido 所著《Introduction to Machine Learning with P
 ```mermaid
 xychart-beta
     title "rickiepark/intro_ml_with_python_2nd_revised 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 60 --> 63
+    line [62, 61]
 ```
 
-2026-10-20 62 → 2026-11-22 62（+0）
+2026-10-21 62 → 2026-11-23 61（-1）
 
 
 ---

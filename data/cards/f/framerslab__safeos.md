@@ -1,6 +1,6 @@
 # framerslab/safeos
 
-⭐ 58 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/framerslab/safeos) · [官网](https://safeos.sh/) · 组织维护
+⭐ 58 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/framerslab/safeos) · [官网](https://safeos.sh/) · 组织维护
 
 **浏览器端本地运行的宠物/婴儿/老人 AI 监控 PWA**
 
@@ -46,12 +46,12 @@ Progressive Web App，将带摄像头和麦克风的设备变为深度学习监�
 ```mermaid
 xychart-beta
     title "framerslab/safeos 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-18", "2026-11-23"]
     y-axis "stars" 56 --> 59
     line [58, 57, 58, 58]
 ```
 
-2026-10-20 58 → 2026-11-22 58（+0）
+2026-10-21 58 → 2026-11-23 58（+0）
 
 
 ---

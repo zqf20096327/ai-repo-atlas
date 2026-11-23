@@ -46,12 +46,12 @@ Unity 编辑器插件，通过 OpenClaw 网关或 MCP 直连两种模式，向 A
 ```mermaid
 xychart-beta
     title "TomLeeLive/openclaw-unity-plugin 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 106 --> 108
     line [107, 107]
 ```
 
-2026-10-20 107 → 2026-11-22 107（+0）
+2026-10-21 107 → 2026-11-23 107（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # gitcommit90/1Helm
 
-⭐ 8 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/gitcommit90/1Helm) · [官网](https://1helm.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **部署到自有 Cloudflare 账户的个人 AI 工作区，带持久记忆与沙盒计算机**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

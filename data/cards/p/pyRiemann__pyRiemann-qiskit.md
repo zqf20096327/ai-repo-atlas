@@ -46,12 +46,12 @@ Python 库，将 Qiskit 的量子分类算法与 pyRiemann 的黎曼几何结合
 ```mermaid
 xychart-beta
     title "pyRiemann/pyRiemann-qiskit 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-20 30 → 2026-11-22 30（+0）
+2026-10-21 30 → 2026-11-23 30（+0）
 
 
 ---

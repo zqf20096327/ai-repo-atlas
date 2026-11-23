@@ -1,6 +1,6 @@
 # nekokaito/KagojMind
 
-⭐ 4 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/nekokaito/KagojMind) · [官网](https://kagojmind.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **文档智能工作区：上传文档并获取带来源引用的 RAG 问答**
 

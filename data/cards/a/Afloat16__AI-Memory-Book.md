@@ -1,6 +1,6 @@
 # Afloat16/AI-Memory-Book
 
-⭐ 4 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Afloat16/AI-Memory-Book) · 个人维护 · 中文 README
+⭐ 5 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Afloat16/AI-Memory-Book) · 个人维护 · 中文 README
 
 **给 AI 编程客户端提供本地化、可溯源的对话记忆书库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Afloat16/AI-Memory-Book 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-13", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-13 3 → 2026-11-22 4（+1）
+2026-11-13 3 → 2026-11-23 5（+2）
 
 
 ---

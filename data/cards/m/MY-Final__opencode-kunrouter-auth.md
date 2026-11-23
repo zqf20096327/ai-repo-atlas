@@ -1,6 +1,6 @@
 # MY-Final/opencode-kunrouter-auth
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MY-Final/opencode-kunrouter-auth) · [官网](https://wcnmb.si) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MY-Final/opencode-kunrouter-auth) · [官网](https://wcnmb.si) · 个人维护 · 中文 README
 
 **为 Magpie/OpenCode 接入 KunRouter 供应商的授权与额度插件**
 
@@ -45,12 +45,12 @@ KunRouter 站点的 Magpie/OpenCode 供应商插件：提供浏览器 PKCE 一�
 ```mermaid
 xychart-beta
     title "MY-Final/opencode-kunrouter-auth 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-23"]
     y-axis "stars" 3 --> 7
     line [4, 6, 6]
 ```
 
-2026-11-08 4 → 2026-11-22 6（+2）
+2026-11-08 4 → 2026-11-23 6（+2）
 
 
 ---

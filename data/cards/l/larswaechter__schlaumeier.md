@@ -41,6 +41,18 @@ Python 编写的机器人，通过 ADB 截取 Android 手机屏幕，用 OpenCV+
 > L14: Simply put, the script operates by creating a screenshot, extracting the question / answers and passing them to an 
 > L69: - For the Python script: an LLM, like a ChatGPT API Key, Claude API Key, Ollama or any OpenAI compatible API
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "larswaechter/schlaumeier 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0e23b6efff78` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # YASSERRMD/barq-db
 
-⭐ 29 · Rust · MIT · 推送 2026-07-24 · [GitHub](https://github.com/YASSERRMD/barq-db) · 个人维护
+⭐ 30 · Rust · MIT · 推送 2026-07-24 · [GitHub](https://github.com/YASSERRMD/barq-db) · 个人维护
 
 **Rust 编写的面向 AI 应用的检索数据系统：向量+BM25 混合搜索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YASSERRMD/barq-db 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-20 29 → 2026-11-22 29（+0）
+2026-10-21 29 → 2026-11-23 30（+1）
 
 
 ---

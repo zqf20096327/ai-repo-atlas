@@ -1,6 +1,6 @@
 # bryan-pakulski/munet-releases
 
-⭐ 24 · Rust · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/bryan-pakulski/munet-releases) · 个人维护
+⭐ 24 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/bryan-pakulski/munet-releases) · 个人维护
 
 **MuNet 预编译二进制：将 ONNX 编译为 Vulkan compute kernel 的神经网络运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bryan-pakulski/munet-releases 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-23"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-11-16 23 → 2026-11-22 24（+1）
+2026-11-16 23 → 2026-11-23 24（+1）
 
 
 ---

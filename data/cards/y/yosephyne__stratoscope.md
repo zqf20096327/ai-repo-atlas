@@ -1,6 +1,6 @@
 # yosephyne/stratoscope
 
-⭐ 9 · C# · MIT · 推送 2026-11-09 · [GitHub](https://github.com/yosephyne/stratoscope) · 个人维护
+⭐ 9 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yosephyne/stratoscope) · 个人维护
 
 **菜单栏实时仪表：显示本地 LLM 引擎的速度、缓存与资源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yosephyne/stratoscope 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-23"]
     y-axis "stars" 4 --> 10
     line [5, 6, 7, 8, 9, 9]
 ```
 
-2026-11-10 5 → 2026-11-22 9（+4）
+2026-11-10 5 → 2026-11-23 9（+4）
 
 
 ---

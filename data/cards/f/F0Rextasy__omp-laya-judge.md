@@ -1,6 +1,6 @@
 # F0Rextasy/omp-laya-judge
 
-⭐ 13 · HTML · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/F0Rextasy/omp-laya-judge) · 个人维护
+⭐ 12 · HTML · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/F0Rextasy/omp-laya-judge) · 个人维护
 
 **oh-my-pi 的本地 System-1 判决 MCP 服务器：毫秒级类型化决策**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "F0Rextasy/omp-laya-judge 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 8 --> 14
-    line [9, 10, 11, 12, 10, 12, 13, 13]
+    line [9, 10, 11, 12, 10, 12, 13, 12]
 ```
 
-2026-10-20 9 → 2026-11-22 13（+4）
+2026-10-21 9 → 2026-11-23 12（+3）
 
 
 ---

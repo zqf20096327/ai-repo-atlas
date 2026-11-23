@@ -1,6 +1,6 @@
 # ZantFoundation/Z-Ant
 
-⭐ 389 · Zig · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/ZantFoundation/Z-Ant) · [官网](https://zantfoundation.github.io/Website/) · 组织维护
+⭐ 387 · Zig · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/ZantFoundation/Z-Ant) · [官网](https://zantfoundation.github.io/Website/) · 组织维护
 
 **面向 MCU 的神经网络编译与推理框架，ONNX 转静态库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZantFoundation/Z-Ant 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-11-22"]
-    y-axis "stars" 388 --> 391
-    line [389, 390, 389, 389]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-11-23"]
+    y-axis "stars" 386 --> 391
+    line [389, 390, 389, 387]
 ```
 
-2026-10-20 389 → 2026-11-22 389（+0）
+2026-10-21 389 → 2026-11-23 387（-2）
 
 
 ---

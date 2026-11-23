@@ -1,6 +1,6 @@
 # SamueleMoscatelli/pulse
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SamueleMoscatelli/pulse) · 个人维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SamueleMoscatelli/pulse) · 个人维护
 
 **AI 资产静态分析与质量门禁 CLI：扫描安全、token 冗余与矛盾**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SamueleMoscatelli/pulse 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-22 3（+0）
+2026-11-08 3 → 2026-11-23 3（+0）
 
 
 ---

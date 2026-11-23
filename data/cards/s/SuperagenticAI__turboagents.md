@@ -46,12 +46,12 @@ turboagents 是一个 Python 包，提供 TurboQuant 风格的 KV-cache 与向�
 ```mermaid
 xychart-beta
     title "SuperagenticAI/turboagents 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-19 11 → 2026-11-22 11（+0）
+2026-10-20 11 → 2026-11-23 11（+0）
 
 
 ---

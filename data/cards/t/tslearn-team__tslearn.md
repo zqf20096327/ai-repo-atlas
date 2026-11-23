@@ -2,9 +2,9 @@
 
 ⭐ 3,194 · Python · BSD-2-Clause · 推送 2026-11-20 · [GitHub](https://github.com/tslearn-team/tslearn) · [官网](https://tslearn.readthedocs.io) · 组织维护
 
-**Python 时间序列机器学习工具包**
+**Python 时间序列机器学习工具库，覆盖分类/聚类/回归**
 
-面向 Python 开发者与科研用户的时间序列机器学习库，提供分类、聚类、回归、早期分类等模型以及 DTW 等距离度量、预处理与数据转换工具。模型遵循 scikit-learn API 并与其工具（超参调优、pipeline）兼容；数据以 3D numpy 数组表示，支持变长时间序列，可加载 UCR 数据集或生成合成数据。要求 Python 3.10+，通过 PyPI、Conda 或 Git 安装。附有 JMLR 论文供学术引用。
+面向 Python 的时间序列机器学习工具库：数据需转换为 (n_ts, max_sz, d) 的 3D numpy 数组格式，支持变长时间序列，可从 UCR 数据集加载或用 generators 模块合成数据。提供预处理（缩放、分段变换）、聚类（TimeSeriesKMeans、KShape）、分类/回归（KNN、SVC/SVR、MLP、LearningShapelets）与距离度量（DTW、GAK、Matrix Profile）等模块。模型遵循 scikit-learn API 且与其完全兼容，可用超参调优与 pipeline。要求 Python 3.11+，经 PyPI/Conda/Git 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 遵循 scikit-learn API，兼容其超参调优与 pipeline 工具
-- 覆盖 TimeSeriesKMeans/KShape/LearningShapelets/早期分类等模型
-- 提供 DTW、全局对齐核、Matrix Profile 等度量与 barycenter 计算
-- 支持变长时间序列、UCR 数据集加载与合成数据生成
+- 支持变长时间序列与 3D numpy 数据格式转换
+- 聚类/分类/回归模型遵循 scikit-learn API 并与其兼容
+- 内置 DTW、GAK、Barycenters、Matrix Profile 等距离度量
+- 支持加载 UCR 数据集与合成数据生成
 
 ## 适用场景
 
-- 对时间序列做分类、聚类或回归建模
+- 对时间序列做分类或聚类建模
 - 用 DTW 等度量计算时间序列间距离
-- 在 scikit-learn 工作流中处理时间序列数据
+- 加载 UCR 基准数据集做实验
+- 在 scikit-learn pipeline 中接入时间序列模型
 
 ## 场景标签
 
@@ -39,19 +40,20 @@
 
 > L74: After getting the data in the right format, a model can be trained. Depending on the use case, tslearn supports dif
 > L84: As can be seen, the models in tslearn follow the same API as those of the well-known scikit-learn. Moreover, they a
+> L92: |data|processing|clustering|classification|regression|metrics|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "tslearn-team/tslearn 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22"]
+    title "tslearn-team/tslearn 星数(近 11 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 3186 --> 3195
-    line [3187, 3189, 3190, 3191, 3190, 3191, 3192, 3194, 3193, 3194]
+    line [3187, 3189, 3190, 3191, 3190, 3191, 3192, 3194, 3193, 3194, 3194]
 ```
 
-2026-10-20 3,187 → 2026-11-22 3,194（+7）
+2026-10-21 3,187 → 2026-11-23 3,194（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `efcd6b464ba1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `dc33d111d0b7` · [字段定义](../../DATASET.md)*

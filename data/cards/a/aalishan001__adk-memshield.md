@@ -1,6 +1,6 @@
 # aalishan001/adk-memshield
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/aalishan001/adk-memshield) · [官网](https://pypi.org/project/adk-memshield/) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aalishan001/adk-memshield) · [官网](https://pypi.org/project/adk-memshield/) · 个人维护
 
 **为 Google ADK/MCP agent 提供数据库强制的多租户安全语义记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aalishan001/adk-memshield 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-10-25 3 → 2026-11-22 5（+2）
+2026-10-25 3 → 2026-11-23 5（+2）
 
 
 ---

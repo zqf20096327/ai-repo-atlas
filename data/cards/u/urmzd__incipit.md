@@ -1,6 +1,6 @@
 # urmzd/incipit
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/urmzd/incipit) · 个人维护
+⭐ 12 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/urmzd/incipit) · 个人维护
 
 **结构化简历数据转多格式文档的 CLI，附可管道化的 AI 提示词**
 
@@ -46,12 +46,12 @@ Go 编写的命令行工具：读取 JSON/Markdown 格式的简历数据，通�
 ```mermaid
 xychart-beta
     title "urmzd/incipit 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 12（+0）
 
 
 ---

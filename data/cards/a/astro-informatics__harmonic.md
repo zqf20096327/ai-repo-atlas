@@ -45,12 +45,12 @@ Python 实现的 learned harmonic mean estimator（McEwen et al. 2021），用�
 ```mermaid
 xychart-beta
     title "astro-informatics/harmonic 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-20 92 → 2026-11-22 92（+0）
+2026-10-21 92 → 2026-11-23 92（+0）
 
 
 ---

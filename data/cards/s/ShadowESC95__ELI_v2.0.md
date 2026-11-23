@@ -1,6 +1,6 @@
 # ShadowESC95/ELI_v2.0
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ShadowESC95/ELI_v2.0) · [官网](https://geteli.tech) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ShadowESC95/ELI_v2.0) · [官网](https://geteli.tech) · 个人维护
 
 **完全本地运行的 AI 桌面助手：语音/视觉/记忆，离线默认**
 
@@ -47,12 +47,12 @@ ELI 是一个在用户自己硬件上完整运行的 AI 助手与'认知运行�
 ```mermaid
 xychart-beta
     title "ShadowESC95/ELI_v2.0 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

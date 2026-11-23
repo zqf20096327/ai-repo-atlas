@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/windows-ai-studio-templates 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-19 54 → 2026-11-22 54（+0）
+2026-10-20 54 → 2026-11-23 54（+0）
 
 
 ---

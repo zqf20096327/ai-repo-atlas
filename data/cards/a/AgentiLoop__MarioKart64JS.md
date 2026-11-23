@@ -1,6 +1,6 @@
 # AgentiLoop/MarioKart64JS
 
-⭐ 3 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/AgentiLoop/MarioKart64JS) · [官网](https://mk64js.gokart.games) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在浏览器中重制 Mario Kart 64 的粉丝研究项目**
 

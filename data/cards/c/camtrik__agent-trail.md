@@ -1,6 +1,6 @@
 # camtrik/agent-trail
 
-⭐ 45 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/camtrik/agent-trail) · [官网](https://camtrik.github.io/agent-trail/) · 个人维护 · 中文 README
+⭐ 46 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/camtrik/agent-trail) · [官网](https://camtrik.github.io/agent-trail/) · 个人维护 · 中文 README
 
 **本地 AI 编码 agent 会话观测面板：token/成本/回放**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "camtrik/agent-trail 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 36 --> 46
-    line [37, 38, 39, 40, 42, 44, 45, 45]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-23"]
+    y-axis "stars" 36 --> 47
+    line [37, 38, 39, 40, 42, 44, 45, 46]
 ```
 
-2026-10-20 37 → 2026-11-22 45（+8）
+2026-10-21 37 → 2026-11-23 46（+9）
 
 
 ---

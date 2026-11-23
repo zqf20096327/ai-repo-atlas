@@ -1,6 +1,6 @@
 # open-free-llm-api/free-llm-models-python
 
-⭐ 9 · Python · 推送 2026-10-18 · [GitHub](https://github.com/open-free-llm-api/free-llm-models-python) · [官网](https://freellm.net) · 组织维护
+⭐ 10 · Python · 推送 2026-10-18 · [GitHub](https://github.com/open-free-llm-api/free-llm-models-python) · [官网](https://freellm.net) · 组织维护
 
 **免费 LLM API 目录库：Python/CLI 查询 537+ 模型数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "open-free-llm-api/free-llm-models-python 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 3 --> 10
-    line [4, 5, 8, 9, 9]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 3 --> 11
+    line [4, 5, 8, 9, 10]
 ```
 
-2026-10-26 4 → 2026-11-22 9（+5）
+2026-10-26 4 → 2026-11-23 10（+6）
 
 
 ---

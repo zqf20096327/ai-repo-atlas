@@ -1,6 +1,6 @@
 # wm1634208243/Video-Subtitle-OCR
 
-⭐ 18 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/wm1634208243/Video-Subtitle-OCR) · [官网](https://github.com/wm1634208243/Video-Subtitle-OCR) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/wm1634208243/Video-Subtitle-OCR) · [官网](https://github.com/wm1634208243/Video-Subtitle-OCR) · 个人维护 · 中文 README
 
 **本机运行的视频字幕 OCR 工具：提取硬/软字幕并导出 SRT/TXT**
 
@@ -46,12 +46,12 @@ FastAPI 单服务加浏览器前端的本地字幕提取工具：优先导出内
 ```mermaid
 xychart-beta
     title "wm1634208243/Video-Subtitle-OCR 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 14, 16, 17, 18, 18]
+    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 14, 16, 17, 18, 19]
 ```
 
-2026-10-19 14 → 2026-11-22 18（+4）
+2026-10-20 14 → 2026-11-23 19（+5）
 
 
 ---

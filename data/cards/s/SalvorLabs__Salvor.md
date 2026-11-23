@@ -1,6 +1,6 @@
 # SalvorLabs/Salvor
 
-⭐ 13 · Shell · MIT · 推送 2026-09-22 · [GitHub](https://github.com/SalvorLabs/Salvor) · [官网](https://salvorknows.dev/) · 组织维护
+⭐ 14 · Shell · MIT · 推送 2026-09-22 · [GitHub](https://github.com/SalvorLabs/Salvor) · [官网](https://salvorknows.dev/) · 组织维护
 
 **给编码代理的仓库内工程知识层：留存决策、失败与待办**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SalvorLabs/Salvor 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-26 12 → 2026-11-22 13（+1）
+2026-10-26 12 → 2026-11-23 14（+2）
 
 
 ---

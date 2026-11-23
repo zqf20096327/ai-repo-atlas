@@ -1,6 +1,6 @@
 # Blandskron/AgenteIADocumental
 
-⭐ 12 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Blandskron/AgenteIADocumental) · [官网](https://blandskron.com/) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Blandskron/AgenteIADocumental) · [官网](https://blandskron.github.io/AgenteIADocumental/) · 组织维护
 
 **面向文档管理与问答的开源 RAG 平台**
 
@@ -39,6 +39,18 @@
 
 > L3: Aplicación de código abierto para la gestión y consulta documental, desarrollada por Blandskron. Permite cargar y or
 > L5: La web usa React y TypeScript. Django administra la identidad y once servicios de aplicación en total cubren el reco
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Blandskron/AgenteIADocumental 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
+```
+
+2026-11-22 12 → 2026-11-23 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vcruz305/GLM-5.3-Flash-EXL3-K2-DGX-Spark-recipe
 
-⭐ 26 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/vcruz305/GLM-5.3-Flash-EXL3-K2-DGX-Spark-recipe) · 个人维护
+⭐ 27 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/vcruz305/GLM-5.3-Flash-EXL3-K2-DGX-Spark-recipe) · 个人维护
 
 **在单台 DGX Spark 上用 vLLM fork 部署 GLM-5.3-Flash EXL3 量化模型的运行方案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vcruz305/GLM-5.3-Flash-EXL3-K2-DGX-Spark-recipe 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-19 26 → 2026-11-22 26（+0）
+2026-10-20 26 → 2026-11-23 27（+1）
 
 
 ---

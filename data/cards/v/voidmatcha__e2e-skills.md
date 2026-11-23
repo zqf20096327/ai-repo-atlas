@@ -1,6 +1,6 @@
 # voidmatcha/e2e-skills
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/voidmatcha/e2e-skills) · [官网](https://voidmatcha.art/talks/awskrug-e2e-2026-en) · 个人维护 · 中文 README
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/voidmatcha/e2e-skills) · [官网](https://voidmatcha.art/talks/awskrug-e2e-2026-en) · 个人维护 · 中文 README
 
 **供 AI 编码 agent 使用的 Playwright/Cypress E2E 测试技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "voidmatcha/e2e-skills 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 20 --> 28
-    line [21, 23, 26, 27, 27]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 20 --> 29
+    line [21, 23, 26, 27, 28]
 ```
 
-2026-10-20 21 → 2026-11-22 27（+6）
+2026-10-21 21 → 2026-11-23 28（+7）
 
 
 ---

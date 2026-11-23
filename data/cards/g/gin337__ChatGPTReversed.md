@@ -1,6 +1,6 @@
 # gin337/ChatGPTReversed
 
-⭐ 86 · TypeScript · 推送 2025-12-30 · [GitHub](https://github.com/gin337/ChatGPTReversed) · [官网](https://www.npmjs.com/package/chatgptreversed) · 个人维护
+⭐ 87 · TypeScript · 推送 2025-12-30 · [GitHub](https://github.com/gin337/ChatGPTReversed) · [官网](https://www.npmjs.com/package/chatgptreversed) · 个人维护
 
 **教学向 Node.js 库：逆向 ChatGPT 网页端 API 与前端令牌机制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gin337/ChatGPTReversed 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-23"]
     y-axis "stars" 84 --> 88
-    line [85, 86, 85, 86, 87, 86, 86]
+    line [85, 86, 85, 86, 87, 86, 87]
 ```
 
-2026-10-20 85 → 2026-11-22 86（+1）
+2026-10-21 85 → 2026-11-23 87（+2）
 
 
 ---

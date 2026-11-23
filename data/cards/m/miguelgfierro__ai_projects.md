@@ -1,6 +1,6 @@
 # miguelgfierro/ai_projects
 
-⭐ 872 · Jupyter Notebook · NOASSERTION · 推送 2026-02-09 · [GitHub](https://github.com/miguelgfierro/ai_projects) · [官网](https://miguelgfierro.com/) · 个人维护
+⭐ 873 · Jupyter Notebook · NOASSERTION · 推送 2026-02-09 · [GitHub](https://github.com/miguelgfierro/ai_projects) · [官网](https://miguelgfierro.com/) · 个人维护
 
 **多领域机器学习项目代码示例集合（附博客讲解）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "miguelgfierro/ai_projects 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 869 --> 873
-    line [870, 871, 870, 871, 872, 872]
+    x-axis ["2026-10-21", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-23"]
+    y-axis "stars" 869 --> 874
+    line [870, 871, 870, 871, 872, 873]
 ```
 
-2026-10-20 870 → 2026-11-22 872（+2）
+2026-10-21 870 → 2026-11-23 873（+3）
 
 
 ---

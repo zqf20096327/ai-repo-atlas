@@ -42,6 +42,18 @@ BugX 是通过 MCP 接入 Claude Code、Codex、Cline、OpenCode、ZCode 等宿�
 > L175: 一款装进 AI 编程助手的自主代码审计 Agent：通过 MCP 在 Claude Code、Codex、Cline、OpenCode、ZCode 内运行，也可作为独立 CLI 使用；按单元跟踪审计覆盖，并对每条发现做真实执行验
 > L190: 基于 tree-sitter 的多语言静态与行为分析（Python、JavaScript/TypeScript、Java、Go、Rust 等），外加 native / Python / JVM / Electron / Andr
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Bencibr/bugx 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bd440eb45287` · [字段定义](../../DATASET.md)*

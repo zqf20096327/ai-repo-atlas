@@ -1,6 +1,6 @@
 # gravion-ux/llm-redteam-kit
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gravion-ux/llm-redteam-kit) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravion-ux/llm-redteam-kit) · 个人维护
 
 **面向开发者的 LLM 红队评测工具：注入/越狱探针与 CI 回归门禁**
 
@@ -40,6 +40,18 @@
 > L5: **An authorized LLM red-teaming evaluation toolkit.** Run a curated pack of
 > L9: transparent heuristic detectors, and gate your CI pipeline on the result.
 > L47: |Regression gate|`--threshold` (minimum pass rate) and `--baseline` (previous report) — exit code `2` on regression
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/llm-redteam-kit 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

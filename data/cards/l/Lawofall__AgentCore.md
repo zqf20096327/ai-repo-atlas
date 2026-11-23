@@ -43,12 +43,12 @@ AgentCore 是一个 Multi-Agent AI 工作台，定位为面向大众的桌面应
 ```mermaid
 xychart-beta
     title "Lawofall/AgentCore 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 89 --> 91
     line [90, 90]
 ```
 
-2026-10-20 90 → 2026-11-22 90（+0）
+2026-10-21 90 → 2026-11-23 90（+0）
 
 
 ---

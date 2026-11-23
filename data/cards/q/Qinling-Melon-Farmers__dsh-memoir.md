@@ -1,6 +1,6 @@
 # Qinling-Melon-Farmers/dsh-memoir
 
-⭐ 40 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Qinling-Melon-Farmers/dsh-memoir) · [官网](https://www.npmjs.com/package/dsh-memoir) · 组织维护 · 中文 README
+⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Qinling-Melon-Farmers/dsh-memoir) · [官网](https://www.npmjs.com/package/dsh-memoir) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的本地跨会话项目记忆插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Qinling-Melon-Farmers/dsh-memoir 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 35 --> 41
-    line [36, 37, 38, 36, 39, 40, 40]
+    x-axis ["2026-10-21", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 35 --> 42
+    line [36, 37, 38, 36, 39, 40, 41]
 ```
 
-2026-10-20 36 → 2026-11-22 40（+4）
+2026-10-21 36 → 2026-11-23 41（+5）
 
 
 ---

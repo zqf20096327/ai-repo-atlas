@@ -45,12 +45,12 @@ Nightdev 是一个 TypeScript 编写的 Telegram 机器人，用户以自然语�
 ```mermaid
 xychart-beta
     title "hiramgabriel1/nightdev_rep 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-20 11 → 2026-11-22 11（+0）
+2026-10-21 11 → 2026-11-23 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # OxWearables/Sensori
 
-⭐ 19 · Jupyter Notebook · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/OxWearables/Sensori) · [官网](https://oxwearables.github.io/Sensori/) · 组织维护
+⭐ 18 · Jupyter Notebook · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/OxWearables/Sensori) · [官网](https://oxwearables.github.io/Sensori/) · 组织维护
 
 **从24小时腕部加速度数据学习健康表征的自监督基础模型**
 
@@ -45,12 +45,12 @@ Sensori 是一个自监督基础模型，直接从连续 24 小时三轴腕部�
 ```mermaid
 xychart-beta
     title "OxWearables/Sensori 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 17, 18, 19, 19]
+    line [17, 18, 17, 18, 19, 18]
 ```
 
-2026-10-20 17 → 2026-11-22 19（+2）
+2026-10-21 17 → 2026-11-23 18（+1）
 
 
 ---

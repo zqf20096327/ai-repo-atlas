@@ -1,10 +1,10 @@
 # Natively-AI-assistant/natively-cluely-ai-assistant
 
-⭐ 3,360 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [官网](https://natively.software) · 组织维护
+⭐ 3,366 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [官网](https://natively.software) · 组织维护
 
-**面向面试与会议的桌面 AI 副驾：实时转录、隐形答案与本地 RAG**
+**开源 AI 会议助手与面试辅助工具，本地运行实时转录与作答**
 
-在 macOS/Windows 上本地运行的面试助手与会议记录工具：Rust 原生音频采集（<500ms）、本地 Whisper/ONNX 语音转文字（支持 Moonshine、Parakeet 等模型与 CoreML/DirectML 加速）、双通道（系统音频/麦克风）转录管线。功能含隐形模式（对屏幕共享、Dock、任务栏、进程列表隐藏）、Auto Answer、Visual Answers 系统设计图、9 种模式角色、Chrome 伴生插件、SQLite 向量检索的本地 RAG 记忆与 BYOK 任意模型（可经 Ollama 全离线）。个人/非商业用途免费、源码可见。限制：隐形为 best-effort，不针对专业监考软件。
+面向会议与面试场景的桌面应用（macOS 12+/Windows 10/11），提供实时转录、屏幕截图分析、自动生成回答、会议笔记与仪表盘。转录由本地 ONNX 模型（Moonshine/Whisper/Parakeet）或 Apple Speech 在设备端完成；LLM 接入支持内置计划、自带 API key 或本地 Ollama 离线运行；本地 RAG 用 SQLite 向量搜索检索历史会议。个人/教育/非商业用途免费，商业使用需付费计划；安装提供 Homebrew cask。
 
 ## 筛选速览
 
@@ -15,44 +15,45 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 本地 Whisper STT（ONNX，Moonshine/Parakeet 多模型，CoreML/DirectML/int8 加速）
-- 隐形模式：对屏幕共享、Dock、任务栏、进程列表隐藏，进程名伪装
-- 本地 RAG 记忆（SQLite 向量检索）+ PDF/DOCX/TXT 参考文件注入实时上下文
-- BYOK 任意 LLM，可经本地 Ollama 100% 离线运行
+- 本地 Whisper/Moonshine/Parakeet STT，支持 CoreML/Metal/DirectML 加速
+- 本地 Ollama 模型可 100% 离线运行，BYOK 支持
+- SQLite 向量搜索的本地 RAG 会议记忆
+- 9 种内置 persona 模式与隐藏于屏幕共享的 stealth 模式
 
 ## 适用场景
 
-- 技术面试中获取实时转录、答案生成与系统设计图辅助
-- 会议/讲座记录并事后通过本地 RAG 检索历史内容
-- 在不信任云端的前提下用本地模型全离线完成语音转写与问答
+- 面试/会议中获得实时转录与作答建议
+- 课程与研讨会录音并生成笔记
+- 本地保存会议记录并按历史内容提问
+- 需要离线、数据不出设备的会议助手场景
 
 ## 场景标签
 
-`AI 助手` `语音识别` `文档问答` · 领域:对话与助手
+`AI 助手` `RAG` `语音识别` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L95: - **Native Audio Capture (<500ms):** Built with Rust and Zero-Copy ABI transfers, bypassing generic web-audio limit
-> L96: - **Local Whisper STT (On-Device):** 100% on-device speech-to-text using optimized ONNX models (Moonshine-tiny, Moo
-> L111: - **Fully Offline Capable:** Don't trust the cloud? Run Natively 100% offline using local Ollama models and local 
+> L3: # Natively — AI Interview Copilot & Meeting Assistant
+> L103: - **Local Whisper STT (On-Device):** 100% on-device speech-to-text using optimized ONNX models (Moonshine-tiny, Mo
+> L122: - **Fully Offline, If You Want It:** Rather nothing left your machine? Run Natively 100% offline with local Ollama
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Natively-AI-assistant/natively-cluely-ai-assistant 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2993 --> 3393
-    line [3026, 3044, 3058, 3065, 3074, 3078, 3088, 3101, 3117, 3126, 3134, 3140, 3149, 3074, 3213, 3236, 3261, 3278, 3287, 3291, 3305, 3316, 3325, 3336, 3346, 3353, 3360]
+    title "Natively-AI-assistant/natively-cluely-ai-assistant 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2992 --> 3400
+    line [3026, 3044, 3058, 3065, 3074, 3078, 3088, 3101, 3117, 3126, 3134, 3140, 3149, 3074, 3213, 3236, 3261, 3278, 3287, 3291, 3305, 3316, 3325, 3336, 3346, 3353, 3360, 3366]
 ```
 
-2026-10-20 3,026 → 2026-11-22 3,360（+334）
+2026-10-21 3,026 → 2026-11-23 3,366（+340）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `1b3c8014a5e3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `9fc9233d621f` · [字段定义](../../DATASET.md)*

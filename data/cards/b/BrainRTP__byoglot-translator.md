@@ -47,12 +47,12 @@ Manifest V3 的 Chrome/Firefox 扩展，按需翻译网页与选中文本，模�
 ```mermaid
 xychart-beta
     title "BrainRTP/byoglot-translator 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-22 3（+0）
+2026-11-10 3 → 2026-11-23 3（+0）
 
 
 ---

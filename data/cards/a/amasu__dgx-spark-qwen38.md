@@ -1,6 +1,6 @@
 # amasu/dgx-spark-qwen38
 
-⭐ 13 · Shell · MIT · 推送 2026-11-09 · [GitHub](https://github.com/amasu/dgx-spark-qwen38) · 个人维护
+⭐ 14 · Shell · MIT · 推送 2026-11-09 · [GitHub](https://github.com/amasu/dgx-spark-qwen38) · 个人维护
 
 **在 DGX Spark (GB10) 上用 Docker Compose 部署 Qwen3.8-27B 的推理服务配置集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amasu/dgx-spark-qwen38 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-20", "2026-11-23"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-19 13 → 2026-11-22 13（+0）
+2026-10-20 13 → 2026-11-23 14（+1）
 
 
 ---

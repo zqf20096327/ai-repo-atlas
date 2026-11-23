@@ -1,6 +1,6 @@
 # dvdsosa/zotero-native-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/dvdsosa/zotero-native-mcp) · [官网](https://github.com/dvdsosa/zotero-native-mcp#readme) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/dvdsosa/zotero-native-mcp) · [官网](https://github.com/dvdsosa/zotero-native-mcp#readme) · 个人维护
 
 **离线读写 Zotero 10+ 文献库的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dvdsosa/zotero-native-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 8 --> 14
-    line [9, 10, 11, 12, 10, 13, 13]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 8 --> 15
+    line [9, 10, 11, 12, 10, 13, 14]
 ```
 
-2026-10-18 9 → 2026-11-22 13（+4）
+2026-10-18 9 → 2026-11-23 14（+5）
 
 
 ---

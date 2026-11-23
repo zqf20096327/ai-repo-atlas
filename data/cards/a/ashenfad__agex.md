@@ -45,12 +45,12 @@ agex 是构建在 nontainer 工作区（文件系统、shell、沙箱 Python）�
 ```mermaid
 xychart-beta
     title "ashenfad/agex 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-19 44 → 2026-11-22 44（+0）
+2026-10-20 44 → 2026-11-23 44（+0）
 
 
 ---

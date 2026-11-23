@@ -1,6 +1,6 @@
 # AkshatRaj00/Heart-diseaseprediction
 
-⭐ 10 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AkshatRaj00/Heart-diseaseprediction) · [官网](https://heart-diseaseprediction-zhl7t64qx8w9h5zna3vrce.streamlit.app/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AkshatRaj00/Heart-diseaseprediction) · [官网](https://heart-diseaseprediction-zhl7t64qx8w9h5zna3vrce.streamlit.app/) · 个人维护
 
 **基于健康参数预测心脏病风险的机器学习 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AkshatRaj00/Heart-diseaseprediction 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

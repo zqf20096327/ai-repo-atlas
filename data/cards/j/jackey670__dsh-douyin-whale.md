@@ -1,6 +1,6 @@
 # jackey670/dsh-douyin-whale
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/jackey670/dsh-douyin-whale) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jackey670/dsh-douyin-whale) · 个人维护 · 中文 README
 
 **给 DSH agent 接入抖音的工具层：热榜/搜索/抽帧/私信**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jackey670/dsh-douyin-whale 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 3 --> 8
     line [4, 5, 6, 7, 7]
 ```
 
-2026-10-26 4 → 2026-11-22 7（+3）
+2026-10-26 4 → 2026-11-23 7（+3）
 
 
 ---

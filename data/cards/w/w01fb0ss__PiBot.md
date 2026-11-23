@@ -1,6 +1,6 @@
 # w01fb0ss/PiBot
 
-⭐ 148 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/w01fb0ss/PiBot) · [官网](https://pibot.space) · 个人维护 · 中文 README
+⭐ 362 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/w01fb0ss/PiBot) · [官网](https://pibot.space) · 个人维护 · 中文 README
 
 **桌面本地优先的多 Bot 协作 AI 代理应用**
 
@@ -40,6 +40,18 @@
 > L3: **An open-source, local-first AI agent team for your desktop.** Named AI Bots work on your own
 > L20: Pi Bot is a desktop app in which a team of named Bots works on your own computer. You chat with a
 > L41: - **Models.** Local models through Ollama, OpenRouter, your own API keys, and supported
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "w01fb0ss/PiBot 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 127 --> 383
+    line [148, 362]
+```
+
+2026-11-22 148 → 2026-11-23 362（+214）
 
 
 ---

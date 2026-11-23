@@ -1,6 +1,6 @@
 # PerryLink/dsh-output-styles
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/dsh-output-styles) · [官网](https://www.npmjs.com/package/dsh-output-styles) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-output-styles) · [官网](https://www.npmjs.com/package/dsh-output-styles) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：运行时切换模型输出风格并会话级持久化**
 
@@ -44,13 +44,13 @@ Claude Code outputStyles 在 DeepSeek Harness（DSH）中的对应实现：提�
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-output-styles 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-19", "2026-11-22"]
+    title "PerryLink/dsh-output-styles 星数(近 5 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-23"]
     y-axis "stars" 12 --> 16
-    line [14, 13, 14, 15]
+    line [14, 13, 14, 15, 15]
 ```
 
-2026-10-20 14 → 2026-11-22 15（+1）
+2026-10-21 14 → 2026-11-23 15（+1）
 
 
 ---

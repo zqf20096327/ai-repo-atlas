@@ -1,6 +1,6 @@
 # wet86y/voice-terminal
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/wet86y/voice-terminal) · [官网](https://github.com/wet86y/voice-terminal/releases/latest) · 个人维护 · 中文 README
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wet86y/voice-terminal) · [官网](https://github.com/wet86y/voice-terminal/releases/latest) · 个人维护 · 中文 README
 
 **Windows 上的个人语音 Agent，提供低延迟语音交互**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wet86y/voice-terminal 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 6]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-11-10 3 → 2026-11-22 6（+3）
+2026-11-10 3 → 2026-11-23 7（+4）
 
 
 ---

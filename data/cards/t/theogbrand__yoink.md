@@ -46,12 +46,12 @@ YOINK 是一个 Claude Code 插件，以 AI agent 形式将第三方 Python 依�
 ```mermaid
 xychart-beta
     title "theogbrand/yoink 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-20 38 → 2026-11-22 38（+0）
+2026-10-21 38 → 2026-11-23 38（+0）
 
 
 ---

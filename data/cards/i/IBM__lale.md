@@ -1,6 +1,6 @@
 # IBM/lale
 
-⭐ 351 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/IBM/lale) · [官网](https://lale.readthedocs.io) · 组织维护 · 中文 README
+⭐ 352 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/IBM/lale) · [官网](https://lale.readthedocs.io) · 组织维护 · 中文 README
 
 **面向数据科学家的半自动机器学习 Python 库**
 
@@ -45,12 +45,12 @@ IBM 维护的 Python 库，为兼容 scikit-learn 的流水线提供算法自动
 ```mermaid
 xychart-beta
     title "IBM/lale 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-20", "2026-11-23"]
     y-axis "stars" 349 --> 353
-    line [352, 350, 351, 352, 351, 351]
+    line [352, 350, 351, 352, 351, 352]
 ```
 
-2026-10-20 352 → 2026-11-22 351（-1）
+2026-10-21 352 → 2026-11-23 352（+0）
 
 
 ---

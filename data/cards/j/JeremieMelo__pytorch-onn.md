@@ -1,6 +1,6 @@
 # JeremieMelo/pytorch-onn
 
-⭐ 333 · Python · MIT · 推送 2026-01-13 · [GitHub](https://github.com/JeremieMelo/pytorch-onn) · 个人维护
+⭐ 334 · Python · MIT · 推送 2026-01-13 · [GitHub](https://github.com/JeremieMelo/pytorch-onn) · 个人维护
 
 **光子神经网络仿真与协同设计的 PyTorch 库，面向光子 AI 研究者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JeremieMelo/pytorch-onn 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 329 --> 334
-    line [330, 331, 332, 330, 332, 333, 333]
+    x-axis ["2026-10-21", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 329 --> 335
+    line [330, 331, 332, 330, 332, 333, 334]
 ```
 
-2026-10-20 330 → 2026-11-22 333（+3）
+2026-10-21 330 → 2026-11-23 334（+4）
 
 
 ---

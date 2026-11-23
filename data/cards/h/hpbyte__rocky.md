@@ -1,6 +1,6 @@
 # hpbyte/rocky
 
-⭐ 18 · Python · 推送 2026-04-13 · [GitHub](https://github.com/hpbyte/rocky) · 个人维护
+⭐ 19 · Python · 推送 2026-04-13 · [GitHub](https://github.com/hpbyte/rocky) · 个人维护
 
 **让 agent 用《挽救计划》Rocky 语气回复的技能插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hpbyte/rocky 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-20 18 → 2026-11-22 18（+0）
+2026-10-21 18 → 2026-11-23 19（+1）
 
 
 ---

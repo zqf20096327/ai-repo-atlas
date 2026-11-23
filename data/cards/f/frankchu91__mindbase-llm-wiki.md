@@ -1,6 +1,6 @@
 # frankchu91/mindbase-llm-wiki
 
-⭐ 138 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/frankchu91/mindbase-llm-wiki) · [官网](https://frankchu91.github.io/mindbase-llm-wiki/) · 个人维护
+⭐ 139 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/frankchu91/mindbase-llm-wiki) · [官网](https://frankchu91.github.io/mindbase-llm-wiki/) · 个人维护
 
 **AI 自动维护个人 Markdown 维基的知识库工具**
 
@@ -46,12 +46,12 @@ Karpathy LLM Wiki 想法的开源实现：用户投入论文、文章、笔记�
 ```mermaid
 xychart-beta
     title "frankchu91/mindbase-llm-wiki 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 133 --> 139
-    line [134, 135, 136, 137, 135, 137, 138, 138]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 133 --> 140
+    line [134, 135, 136, 137, 135, 137, 138, 139]
 ```
 
-2026-10-20 134 → 2026-11-22 138（+4）
+2026-10-21 134 → 2026-11-23 139（+5）
 
 
 ---

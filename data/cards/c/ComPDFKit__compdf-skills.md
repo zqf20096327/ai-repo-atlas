@@ -1,6 +1,6 @@
 # ComPDFKit/compdf-skills
 
-⭐ 110 · 推送 2026-08-12 · [GitHub](https://github.com/ComPDFKit/compdf-skills) · [官网](https://www.compdf.com/?utm_source=github&utm_medium=skills_about&utm_campaign=compdf_github_skills_about_repo&ref_platform_id=github_compdfkit) · 组织维护 · 中文 README
+⭐ 111 · 推送 2026-08-12 · [GitHub](https://github.com/ComPDFKit/compdf-skills) · [官网](https://www.compdf.com/?utm_source=github&utm_medium=skills_about&utm_campaign=compdf_github_skills_about_repo&ref_platform_id=github_compdfkit) · 组织维护 · 中文 README
 
 **面向 39+ 编码代理的 PDF/图像处理技能包，含转换编辑解析**
 
@@ -46,12 +46,12 @@ ComPDFKit 公司发布的 AI 代理技能（Skills）集合：以 SKILL.md 目�
 ```mermaid
 xychart-beta
     title "ComPDFKit/compdf-skills 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 108 --> 111
-    line [109, 110, 110]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 108 --> 112
+    line [109, 110, 111]
 ```
 
-2026-10-20 109 → 2026-11-22 110（+1）
+2026-10-21 109 → 2026-11-23 111（+2）
 
 
 ---

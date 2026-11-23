@@ -1,6 +1,6 @@
 # KotokaYuzu/stardew-ai-coop
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/KotokaYuzu/stardew-ai-coop) · 个人维护 · 中文 README
+⭐ 6 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/KotokaYuzu/stardew-ai-coop) · 个人维护 · 中文 README
 
 **通过局域网联机加入星露谷农场、执行中文指令的 AI 队友**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KotokaYuzu/stardew-ai-coop 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 2 --> 7
+    line [3, 5, 6]
 ```
 
-2026-10-29 3 → 2026-11-22 5（+2）
+2026-10-29 3 → 2026-11-23 6（+3）
 
 
 ---

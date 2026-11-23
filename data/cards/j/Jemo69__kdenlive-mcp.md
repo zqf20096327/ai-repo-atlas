@@ -1,6 +1,6 @@
 # Jemo69/kdenlive-mcp
 
-⭐ 3 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Jemo69/kdenlive-mcp) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Jemo69/kdenlive-mcp) · 个人维护
 
 **让 MCP 客户端直接读写 Kdenlive 工程文件的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jemo69/kdenlive-mcp 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-21", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-21 3 → 2026-11-22 3（+0）
+2026-11-21 3 → 2026-11-23 4（+1）
 
 
 ---

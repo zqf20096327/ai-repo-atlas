@@ -1,6 +1,6 @@
 # sous-labs/songe
 
-⭐ 150 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/sous-labs/songe) · [官网](https://souslabs.ai/songe) · 组织维护
+⭐ 217 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sous-labs/songe) · [官网](https://souslabs.ai/songe) · 组织维护
 
 **利用空闲算力在本地持续微调你的本地模型的训练引擎**
 
@@ -40,6 +40,18 @@ Songe 是一个本地模型训练引擎：以本地代理服务器（127.0.0.1:7
 > L3:  A training engine for your local model, using your idle compute.
 > L73: |Model servers|LM Studio, vLLM, Ollama, llama.cpp, mlx-lm|LM Studio (macOS), vLLM (Linux)|
 > L110:  (on-policy distillation). Earlier skills are rehearsed so they stay.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sous-labs/songe 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 144 --> 223
+    line [150, 217]
+```
+
+2026-11-22 150 → 2026-11-23 217（+67）
 
 
 ---

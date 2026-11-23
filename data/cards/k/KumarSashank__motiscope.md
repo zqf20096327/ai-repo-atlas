@@ -1,6 +1,6 @@
 # KumarSashank/motiscope
 
-⭐ 131 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/KumarSashank/motiscope) · [官网](https://kumarsashank.github.io/motiscope/) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/KumarSashank/motiscope) · [官网](https://kumarsashank.github.io/motiscope/) · 个人维护
 
 **给编码代理用的动效复刻工具：从录屏测量并重建动画代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KumarSashank/motiscope 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 123 --> 132
-    line [124, 125, 126, 127, 128, 125, 128, 130, 131, 131]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 123 --> 133
+    line [124, 125, 126, 127, 128, 125, 128, 130, 131, 132]
 ```
 
-2026-10-20 124 → 2026-11-22 131（+7）
+2026-10-21 124 → 2026-11-23 132（+8）
 
 
 ---

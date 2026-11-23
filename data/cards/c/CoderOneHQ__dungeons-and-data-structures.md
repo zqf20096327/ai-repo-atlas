@@ -47,12 +47,12 @@ Coder One AI Sports Challenge 2020 的游戏环境，供参赛者用 Python 编�
 ```mermaid
 xychart-beta
     title "CoderOneHQ/dungeons-and-data-structures 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-20 22 → 2026-11-22 22（+0）
+2026-10-21 22 → 2026-11-23 22（+0）
 
 
 ---

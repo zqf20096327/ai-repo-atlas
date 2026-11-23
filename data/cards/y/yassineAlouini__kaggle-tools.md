@@ -1,6 +1,6 @@
 # yassineAlouini/kaggle-tools
 
-⭐ 32 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/yassineAlouini/kaggle-tools) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yassineAlouini/kaggle-tools) · 个人维护
 
 **Kaggle 竞赛 Python 工具库与 Claude Code 技能插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yassineAlouini/kaggle-tools 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-20 32 → 2026-11-22 32（+0）
+2026-10-21 32 → 2026-11-23 32（+0）
 
 
 ---

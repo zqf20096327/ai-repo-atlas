@@ -1,6 +1,6 @@
 # timoheimonen/macOS-memory-benchmark
 
-⭐ 23 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/timoheimonen/macOS-memory-benchmark) · 个人维护
+⭐ 24 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/timoheimonen/macOS-memory-benchmark) · 个人维护
 
 **Apple Silicon 内存性能测量 CLI：CPU/GPU 带宽与合成 LLM 访存剖析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "timoheimonen/macOS-memory-benchmark 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 20, 22, 23, 23]
+    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 20, 22, 23, 24]
 ```
 
-2026-10-19 20 → 2026-11-22 23（+3）
+2026-10-20 20 → 2026-11-23 24（+4）
 
 
 ---

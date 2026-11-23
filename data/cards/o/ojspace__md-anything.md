@@ -1,6 +1,6 @@
 # ojspace/md-anything
 
-⭐ 50 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ojspace/md-anything) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ojspace/md-anything) · 个人维护
 
 **本地优先的文件转 Markdown CLI + MCP 服务器，供 agent 摄取文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ojspace/md-anything 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51]
 ```
 
-2026-10-20 49 → 2026-11-22 50（+1）
+2026-10-21 49 → 2026-11-23 51（+2）
 
 
 ---

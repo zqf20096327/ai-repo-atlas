@@ -1,6 +1,6 @@
 # vivoCameraResearch/AdaRefSR
 
-⭐ 73 · Python · 推送 2026-05-19 · [GitHub](https://github.com/vivoCameraResearch/AdaRefSR) · 组织维护 · 中文 README
+⭐ 74 · Python · 推送 2026-05-19 · [GitHub](https://github.com/vivoCameraResearch/AdaRefSR) · 组织维护 · 中文 README
 
 **基于参考图的单步扩散超分辨率研究框架（ICLR 2026）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vivoCameraResearch/AdaRefSR 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 69 --> 74
-    line [70, 71, 72, 71, 73, 73]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 69 --> 75
+    line [70, 71, 72, 71, 73, 74]
 ```
 
-2026-10-20 70 → 2026-11-22 73（+3）
+2026-10-21 70 → 2026-11-23 74（+4）
 
 
 ---

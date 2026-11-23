@@ -1,6 +1,6 @@
 # IamBlum/pm-copilot
 
-⭐ 51 · Shell · MIT · 推送 2026-09-20 · [GitHub](https://github.com/IamBlum/pm-copilot) · [官网](https://imdanielblum.com) · 个人维护
+⭐ 52 · Shell · MIT · 推送 2026-09-20 · [GitHub](https://github.com/IamBlum/pm-copilot) · [官网](https://imdanielblum.com) · 个人维护
 
 **面向产品经理的 Claude 插件：代跑周会准备、晨报等例行动作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IamBlum/pm-copilot 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 43 --> 52
-    line [44, 45, 46, 47, 49, 50, 51, 51]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 43 --> 53
+    line [44, 45, 46, 47, 49, 50, 51, 52]
 ```
 
-2026-10-20 44 → 2026-11-22 51（+7）
+2026-10-21 44 → 2026-11-23 52（+8）
 
 
 ---

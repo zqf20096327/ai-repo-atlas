@@ -1,6 +1,6 @@
 # sylviangth/awesome-remote-mcp-servers
 
-⭐ 75 · JavaScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/sylviangth/awesome-remote-mcp-servers) · 组织维护
+⭐ 77 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sylviangth/awesome-remote-mcp-servers) · 组织维护
 
 **托管/远程 MCP 服务器策展清单：按 URL 端点即接即用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sylviangth/awesome-remote-mcp-servers 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 72 --> 76
-    line [73, 74, 73, 74, 75, 75]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 72 --> 78
+    line [73, 74, 73, 74, 75, 77]
 ```
 
-2026-10-20 73 → 2026-11-22 75（+2）
+2026-10-21 73 → 2026-11-23 77（+4）
 
 
 ---

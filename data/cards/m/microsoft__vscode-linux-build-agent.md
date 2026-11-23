@@ -1,6 +1,6 @@
 # microsoft/vscode-linux-build-agent
 
-⭐ 46 · Shell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/vscode-linux-build-agent) · 组织维护
+⭐ 46 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/vscode-linux-build-agent) · 组织维护
 
 **VS Code 的 Linux 构建代理工具**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/vscode-linux-build-agent 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-23"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-19 46 → 2026-11-22 46（+0）
+2026-10-20 46 → 2026-11-23 46（+0）
 
 
 ---

@@ -45,12 +45,12 @@ JigsawStack 官方的 JS/TS 客户端库，通过单一 API key 接入其托管 
 ```mermaid
 xychart-beta
     title "InterfazeAI/jigsawstack-js 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-20 27 → 2026-11-22 27（+0）
+2026-10-21 27 → 2026-11-23 27（+0）
 
 
 ---

@@ -46,12 +46,12 @@ shareAI-lab/learn-claude-code（Python 版）的 Java 重写，把 Claude Code �
 ```mermaid
 xychart-beta
     title "arrayadd/learn_claude_code_by_java 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-20 16 → 2026-11-22 16（+0）
+2026-10-21 16 → 2026-11-23 16（+0）
 
 
 ---

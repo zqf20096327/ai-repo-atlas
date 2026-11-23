@@ -46,12 +46,12 @@ Steel MCP Server 让 Claude、Cursor 等 MCP 客户端通过 16 个工具操作�
 ```mermaid
 xychart-beta
     title "steel-dev/steel-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-20 58 → 2026-11-22 58（+0）
+2026-10-21 58 → 2026-11-23 58（+0）
 
 
 ---

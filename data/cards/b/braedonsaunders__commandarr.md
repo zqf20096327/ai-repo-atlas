@@ -1,6 +1,6 @@
 # braedonsaunders/commandarr
 
-⭐ 12 · TypeScript · 推送 2026-04-28 · [GitHub](https://github.com/braedonsaunders/commandarr) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-04-28 · [GitHub](https://github.com/braedonsaunders/commandarr) · 个人维护
 
 **面向 Plex/*arr 自托管媒体栈的 LLM agent 统一控制台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "braedonsaunders/commandarr 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-08 10 → 2026-11-22 12（+2）
+2026-11-08 10 → 2026-11-23 13（+3）
 
 
 ---

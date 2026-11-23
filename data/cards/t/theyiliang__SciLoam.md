@@ -1,6 +1,6 @@
 # theyiliang/SciLoam
 
-⭐ 3 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/theyiliang/SciLoam) · 个人维护 · 中文 README
+⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/theyiliang/SciLoam) · 个人维护 · 中文 README
 
 **给小型科研团队：带权限、版本与可溯源问答的知识协同工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "theyiliang/SciLoam 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-20", "2026-11-23"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-20 3 → 2026-11-22 3（+0）
+2026-11-20 3 → 2026-11-23 5（+2）
 
 
 ---

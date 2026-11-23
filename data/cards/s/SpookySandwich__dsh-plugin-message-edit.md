@@ -1,6 +1,6 @@
 # SpookySandwich/dsh-plugin-message-edit
 
-⭐ 30 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/SpookySandwich/dsh-plugin-message-edit) · 个人维护 · 中文 README
+⭐ 31 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/SpookySandwich/dsh-plugin-message-edit) · 个人维护 · 中文 README
 
 **DSH 聊天界面的消息编辑与对话分叉插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SpookySandwich/dsh-plugin-message-edit 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 22 --> 31
-    line [23, 24, 25, 26, 28, 25, 30, 30]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 22 --> 32
+    line [23, 24, 25, 26, 28, 25, 30, 31]
 ```
 
-2026-10-19 23 → 2026-11-22 30（+7）
+2026-10-20 23 → 2026-11-23 31（+8）
 
 
 ---

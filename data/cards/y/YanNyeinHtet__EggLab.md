@@ -1,6 +1,6 @@
 # YanNyeinHtet/EggLab
 
-⭐ 72 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YanNyeinHtet/EggLab) · [官网](https://github.com/YanNyeinHtet/EggLab/releases/latest) · 个人维护
+⭐ 79 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YanNyeinHtet/EggLab) · [官网](https://github.com/YanNyeinHtet/EggLab/releases/latest) · 个人维护
 
 **Windows 本地 AI 图像生成编辑客户端：驱动 PhotoCraft 画布的设计代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YanNyeinHtet/EggLab 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 50 --> 74
-    line [52, 68, 72]
+    title "YanNyeinHtet/EggLab 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 50 --> 81
+    line [52, 68, 72, 79]
 ```
 
-2026-11-20 52 → 2026-11-22 72（+20）
+2026-11-20 52 → 2026-11-23 79（+27）
 
 
 ---

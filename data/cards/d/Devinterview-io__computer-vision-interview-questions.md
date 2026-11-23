@@ -46,12 +46,12 @@ Devinterview.io 维护的计算机视觉面试题合集，收录 54 道基础问
 ```mermaid
 xychart-beta
     title "Devinterview-io/computer-vision-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-19", "2026-11-23"]
     y-axis "stars" 129 --> 132
     line [131, 130, 130]
 ```
 
-2026-10-20 131 → 2026-11-22 130（-1）
+2026-10-21 131 → 2026-11-23 130（-1）
 
 
 ---

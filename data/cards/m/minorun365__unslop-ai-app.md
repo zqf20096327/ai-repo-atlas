@@ -1,6 +1,6 @@
 # minorun365/unslop-ai-app
 
-⭐ 45 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/minorun365/unslop-ai-app) · 个人维护
+⭐ 48 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/minorun365/unslop-ai-app) · 个人维护
 
 **让 AI Agent 生成不像“AI 味”界面的技能集与检查脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "minorun365/unslop-ai-app 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 38 --> 46
-    line [39, 41, 43, 42, 43, 45, 45]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 38 --> 49
+    line [39, 41, 43, 42, 43, 45, 48]
 ```
 
-2026-11-10 39 → 2026-11-22 45（+6）
+2026-11-10 39 → 2026-11-23 48（+9）
 
 
 ---

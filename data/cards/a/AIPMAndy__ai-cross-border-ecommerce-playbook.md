@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/ai-cross-border-ecommerce-playbook 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-10", "2026-11-23"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-10 4 → 2026-11-22 4（+0）
+2026-11-10 4 → 2026-11-23 4（+0）
 
 
 ---

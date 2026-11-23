@@ -45,12 +45,12 @@ OneLLM 是一个 provider 无关的 Python 库，遵循 OpenAI 客户端 API 设
 ```mermaid
 xychart-beta
     title "muxi-ai/onellm 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-20 52 → 2026-11-22 52（+0）
+2026-10-21 52 → 2026-11-23 52（+0）
 
 
 ---

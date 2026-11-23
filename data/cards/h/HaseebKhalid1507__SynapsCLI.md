@@ -1,6 +1,6 @@
 # HaseebKhalid1507/SynapsCLI
 
-⭐ 59 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/HaseebKhalid1507/SynapsCLI) · 个人维护
+⭐ 60 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/HaseebKhalid1507/SynapsCLI) · 个人维护
 
 **Rust 编写的终端原生 AI agent 运行时，多 agent 并行与守护进程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HaseebKhalid1507/SynapsCLI 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 50 --> 60
-    line [51, 52, 56, 57, 58, 59]
+    title "HaseebKhalid1507/SynapsCLI 星数(近 7 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 50 --> 61
+    line [51, 52, 56, 57, 58, 59, 60]
 ```
 
-2026-10-20 51 → 2026-11-22 59（+8）
+2026-10-21 51 → 2026-11-23 60（+9）
 
 
 ---

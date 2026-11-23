@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanWorld-Voyager
 
-⭐ 1,610 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
+⭐ 1,611 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
 
 **单图生成世界一致 3D 点云视频的可交互 RGBD 视频扩散模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HunyuanWorld-Voyager 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 1602 --> 1611
-    line [1604, 1606, 1605, 1603, 1606, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1610]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 1602 --> 1612
+    line [1604, 1606, 1605, 1603, 1606, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611]
 ```
 
-2026-10-20 1,604 → 2026-11-22 1,610（+6）
+2026-10-21 1,604 → 2026-11-23 1,611（+7）
 
 
 ---

@@ -45,12 +45,12 @@ Keras 实现的 Deep Temporal Clustering (DTC) 模型，对多元时间序列进
 ```mermaid
 xychart-beta
     title "FlorentF9/DeepTemporalClustering 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 239 --> 241
     line [240, 240]
 ```
 
-2026-10-20 240 → 2026-11-22 240（+0）
+2026-10-21 240 → 2026-11-23 240（+0）
 
 
 ---

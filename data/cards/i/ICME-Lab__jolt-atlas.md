@@ -1,6 +1,6 @@
 # ICME-Lab/jolt-atlas
 
-⭐ 83 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ICME-Lab/jolt-atlas) · [官网](https://blog.icme.io/sumcheck-good-lookups-good-jolt-good-particularly-for-zero-knowledge-machine-learning/) · 组织维护
+⭐ 83 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ICME-Lab/jolt-atlas) · [官网](https://blog.icme.io/sumcheck-good-lookups-good-jolt-good-particularly-for-zero-knowledge-machine-learning/) · 组织维护
 
 **zkML 框架：为 ONNX 模型推理生成零知识证明并验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ICME-Lab/jolt-atlas 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 78 --> 84
     line [79, 83, 83]
 ```
 
-2026-10-20 79 → 2026-11-22 83（+4）
+2026-10-21 79 → 2026-11-23 83（+4）
 
 
 ---

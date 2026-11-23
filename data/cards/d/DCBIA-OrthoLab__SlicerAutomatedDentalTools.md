@@ -1,6 +1,6 @@
 # DCBIA-OrthoLab/SlicerAutomatedDentalTools
 
-⭐ 186 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) · 组织维护
+⭐ 188 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) · 组织维护
 
 **3D Slicer 牙科/颅面自动分析扩展：分割、定位点、定向**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DCBIA-OrthoLab/SlicerAutomatedDentalTools 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 181 --> 187
-    line [182, 184, 185, 186, 186]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 181 --> 189
+    line [182, 184, 185, 186, 188]
 ```
 
-2026-10-20 182 → 2026-11-22 186（+4）
+2026-10-21 182 → 2026-11-23 188（+6）
 
 
 ---

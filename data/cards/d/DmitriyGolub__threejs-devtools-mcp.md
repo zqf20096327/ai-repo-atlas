@@ -1,6 +1,6 @@
 # DmitriyGolub/threejs-devtools-mcp
 
-⭐ 134 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/DmitriyGolub/threejs-devtools-mcp) · [官网](https://www.npmjs.com/package/threejs-devtools-mcp) · 个人维护
+⭐ 135 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/DmitriyGolub/threejs-devtools-mcp) · [官网](https://www.npmjs.com/package/threejs-devtools-mcp) · 个人维护
 
 **Three.js 场景的 MCP 工具服务器：让 AI agent 实时检查与修改 3D 场景**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DmitriyGolub/threejs-devtools-mcp 星数(近 13 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 121 --> 135
-    line [122, 123, 124, 125, 126, 128, 126, 129, 130, 131, 132, 134, 134]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 121 --> 136
+    line [122, 123, 124, 125, 126, 128, 126, 129, 130, 131, 132, 134, 135]
 ```
 
-2026-10-20 122 → 2026-11-22 134（+12）
+2026-10-21 122 → 2026-11-23 135（+13）
 
 
 ---

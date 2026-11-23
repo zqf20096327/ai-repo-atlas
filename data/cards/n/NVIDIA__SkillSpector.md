@@ -1,10 +1,10 @@
 # NVIDIA/SkillSpector
 
-⭐ 27,166 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/SkillSpector) · [官网](https://docs.nvidia.com/skills/scanning-agent-skills) · 组织维护
+⭐ 27,290 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/SkillSpector) · [官网](https://docs.nvidia.com/skills/scanning-agent-skills) · 组织维护
 
-**AI agent 技能安装前的安全扫描器**
+**面向开发者的 AI agent 技能安装前安全扫描器**
 
-面向 AI agent 技能（SKILL.md 等）的安装前安全扫描工具：支持扫描 Git 仓库、URL、zip、目录或单文件，内置 71 种漏洞模式（17 类），覆盖提示注入、数据外泄、供应链、MCP 最小权限与工具投毒等；采用静态分析加可选 LLM 语义评估的两阶段流程，输出 0-100 风险分与 SARIF/JSON/Markdown 报告，并支持 OSV.dev 实时 CVE 查询、基线抑制、批量递归扫描与 MCP 注册表快照对比。目标用户是需要在安装 agent 技能前评估其安全性的开发者与团队。
+NVIDIA 出品的 agent 技能安全扫描工具：在安装前对 Claude Code、Codex、Gemini CLI 等使用的 agent 技能做静态与可选 LLM 语义分析，检测提示注入、数据外泄、供应链、提权、MCP 工具投毒等 17 类共 71 种漏洞模式，输出 0-100 风险评分与终端/JSON/Markdown/SARIF 报告。支持扫描 Git 仓库、URL、zip、目录及 MCP registry 快照对比，提供基线误报抑制与递归/批量扫描，多语言检测覆盖中日韩。依赖 Python 3.12/3.13 以获得预编译 YARA 轮子，否则需本地源码编译。
 
 ## 筛选速览
 
@@ -26,17 +26,16 @@
 
 ## 能力要点
 
-- 71 种漏洞模式 / 17 类，含 MCP 最小权限（LP1–LP4）与工具投毒（TP1–TP4）检测
-- 静态分析 + 可选 LLM 语义评估的两阶段扫描，支持多 API key 池提升并发
-- 多格式输入（Git/URL/zip/目录/文件）与 Terminal/JSON/Markdown/SARIF 报告输出
-- 支持 OSV.dev 实时漏洞查询（SC4）、基线误报抑制与注册表快照对比
+- 71 种漏洞模式检测，覆盖提示注入、数据外泄、供应链与 MCP 工具投毒等 17 类
+- 两阶段分析：静态扫描 + 可选 LLM 语义评估，SC4 实时查询 OSV.dev CVE 数据
+- 支持 Git/URL/zip/目录/单文件多格式输入与 SARIF/JSON/Markdown 报告输出
+- MCP registry 快照对比与批量并行扫描，支持 CI fail-on-incomplete
 
 ## 适用场景
 
-- 在安装 Claude Code / Codex / MCP 技能前扫描是否存在恶意模式
-- 在 CI 中用 --fail-on-incomplete 门禁技能安装流程
-- 批量扫描技能集合并生成 JSON/SARIF 报告供安全审计
-- 对比 MCP Registry 前后快照，监控服务端配置变化
+- 安装社区 agent 技能前检查是否存在恶意模式或提示注入
+- CI 流水线中批量扫描技能集合并拦截不完整覆盖
+- 对比 MCP registry 前后快照，审查服务器版本变更带来的风险
 
 ## 场景标签
 
@@ -46,20 +45,20 @@
 
 > L3: **Security scanner for AI agent skills.** Detect vulnerabilities, malicious patterns, and security risks before inst
 > L14: SkillSpector is part of the NVIDIA Verified Skills pipeline, which scans, evaluates, and signs agent skills before 
-> L33: - **71 vulnerability patterns** across 17 categories: prompt injection, data exfiltration, privilege escalation, su
+> L34: - **Two-stage analysis**: Fast static analysis + optional LLM semantic evaluation
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/SkillSpector 星数(近 26 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 19920 --> 27824
-    line [20578, 20783, 20960, 21074, 21227, 21571, 22025, 22704, 23038, 23332, 23513, 23672, 23832, 21227, 24898, 25438, 25677, 25877, 26030, 26199, 26446, 26639, 26805, 26947, 27059, 27166]
+    title "NVIDIA/SkillSpector 星数(近 27 点)"
+    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 19907 --> 27961
+    line [20578, 20783, 20960, 21074, 21227, 21571, 22025, 22704, 23038, 23332, 23513, 23672, 23832, 21227, 24898, 25438, 25677, 25877, 26030, 26199, 26446, 26639, 26805, 26947, 27059, 27166, 27290]
 ```
 
-2026-10-19 20,578 → 2026-11-22 27,166（+6,588）
+2026-10-20 20,578 → 2026-11-23 27,290（+6,712）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `0adf97f4cd81` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `7c6b514476aa` · [字段定义](../../DATASET.md)*

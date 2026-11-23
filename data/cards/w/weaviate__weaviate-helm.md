@@ -44,12 +44,12 @@ Weaviate 官方维护的 Helm chart，用于在 Kubernetes 集群上部署 Weavi
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-helm 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-20 69 → 2026-11-22 69（+0）
+2026-10-21 69 → 2026-11-23 69（+0）
 
 
 ---

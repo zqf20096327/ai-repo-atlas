@@ -1,6 +1,6 @@
 # aialvi/lets-learn-lms
 
-⭐ 17 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/aialvi/lets-learn-lms) · 个人维护
+⭐ 18 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/aialvi/lets-learn-lms) · 个人维护
 
 **面向自学课程与组织培训的学习管理系统（LMS）**
 
@@ -45,12 +45,12 @@ Let's Learn 是自托管的学习管理系统，基于 Next.js 15 前端与 Nest
 ```mermaid
 xychart-beta
     title "aialvi/lets-learn-lms 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-21", "2026-11-14", "2026-11-23"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-20 16 → 2026-11-22 17（+1）
+2026-10-21 16 → 2026-11-23 18（+2）
 
 
 ---

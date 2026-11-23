@@ -1,10 +1,10 @@
 # taishi-i/awesome-ChatGPT-repositories
 
-⭐ 3,385 · Python · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/taishi-i/awesome-ChatGPT-repositories) · [官网](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) · 个人维护
+⭐ 3,387 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/taishi-i/awesome-ChatGPT-repositories) · [官网](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) · 个人维护
 
-**ChatGPT/OpenAI 相关开源仓库策展清单（2733 条）**
+**ChatGPT 相关开源仓库策展清单，可通过 Claude Code/Codex 技能检索**
 
-策展型 awesome 清单：收录与 ChatGPT、OpenAI API、Codex 相关的开源 GitHub 仓库共 2733 条，按 Chatbots、Browser-extensions、CLIs、NLP、Others 等类别组织，含最新收录与更新日期。提供可在 Claude Code、Codex 中安装的搜索技能插件，以及通过 npx skills 兼容 Cursor、Gemini CLI、GitHub Copilot 等代理的通用安装方式，支持按类别、语言过滤与多语言查询的评分排序搜索；另有 Hugging Face Spaces 上的网页搜索工具。面向开发者与 AI 生态选型场景。
+收录与 ChatGPT、OpenAI API、Codex 相关的开源 GitHub 仓库的策展清单，共 2,755 条，按 Chatbots、Browser-extensions、CLIs、NLP、Others 等类别组织，并以 Awesome-lists 等分节维护。除网页浏览外，提供 Claude Code 与 Codex 插件形式的检索技能，支持按类别、编程语言过滤与多语言查询，结果按相关性、star 数与项目质量排序；其他 agent 可通过 npx skills 安装。另有 Hugging Face Spaces 上的检索工具。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录 2733 个 ChatGPT/OpenAI 相关开源仓库并按类别组织
-- 提供 Claude Code / Codex 插件形式的仓库搜索技能
-- npx skills 安装方式兼容 Cursor、Gemini CLI、GitHub Copilot 等代理
-- 支持按类别/语言过滤与多语言查询的评分排序
+- 收录 2,755 个 ChatGPT/OpenAI API/Codex 相关开源仓库并按类别组织
+- 提供 Claude Code/Codex 插件技能，从 agent 内直接检索，无需浏览器
+- 支持按类别（如 CLIs、NLP）、编程语言过滤与日/中/韩等多语言查询
+- 结果按相关性、star 数与项目质量排序，并持续更新
 
 ## 适用场景
 
-- 我想为 agent 框架查找 RAG、agent 库或 CLI 类开源项目
-- 按编程语言或类别筛选 ChatGPT 生态相关工具
-- 直接在 Claude Code/Codex 会话中搜索清单收录的仓库
+- 为项目查找 RAG 框架、agent 库、chatbot UI、CLI 工具等仓库
+- 在 Claude Code/Codex 中用自然语言检索相关开源项目
+- 按类别或语言筛选特定领域的 LLM 工具清单
 
 ## 场景标签
 
@@ -38,21 +38,20 @@
 ## 证据(README 行号)
 
 > L11: A curated list of resources dedicated to open source GitHub repositories related to ChatGPT.
-> L105: _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
 > L18: Search 2,500+ curated repositories directly from Claude Code or Codex — no browser needed, just describe what you'r
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "taishi-i/awesome-ChatGPT-repositories 星数(近 22 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 3304 --> 3392
-    line [3311, 3319, 3322, 3324, 3325, 3328, 3331, 3333, 3334, 3336, 3339, 3325, 3359, 3366, 3369, 3370, 3375, 3379, 3381, 3384, 3383, 3385]
+    title "taishi-i/awesome-ChatGPT-repositories 星数(近 23 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3304 --> 3394
+    line [3311, 3319, 3322, 3324, 3325, 3328, 3331, 3333, 3334, 3336, 3339, 3325, 3359, 3366, 3369, 3370, 3375, 3379, 3381, 3384, 3383, 3385, 3387]
 ```
 
-2026-10-20 3,311 → 2026-11-22 3,385（+74）
+2026-10-21 3,311 → 2026-11-23 3,387（+76）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `676f5f5b2426` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b9e871e30d10` · [字段定义](../../DATASET.md)*

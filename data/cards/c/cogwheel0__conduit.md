@@ -1,10 +1,10 @@
 # cogwheel0/conduit
 
-⭐ 2,488 · Dart · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/cogwheel0/conduit) · [官网](https://conduit.mobile) · 个人维护
+⭐ 2,492 · Dart · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/cogwheel0/conduit) · [官网](https://conduit.mobile) · 个人维护
 
-**iOS/Android 原生客户端：接入 Open WebUI、自有端点与自托管 agent**
+**自托管 LLM 服务器的原生 iOS/Android 移动客户端**
 
-用 Flutter 构建的移动端聊天客户端，面向自托管用户：可连接 Open WebUI 服务器（支持 LDAP/SSO/反向代理等多种认证路径）、OpenAI 兼容端点、原生 Ollama、OpenRouter，以及 iOS 专属的 Apple 本地模型与 Private Cloud Compute；还可接入自托管的 Hermes agent，观看工具执行并批准敏感步骤。聊天数据存于设备本地，凭据使用 Keychain/Keystore，无第三方分析 SDK。另提供企业/白标定制联系渠道。
+基于 Flutter 的原生移动客户端，支持连接 Open WebUI、LibreChat、OpenAI 兼容端点、Ollama、OpenRouter、Apple 本地/私有云模型以及自托管 Hermes agent。针对移动场景处理反向代理认证、后台流式响应、多模态输入等；聊天记录存储在本设备，凭据存放于 Keychain/Keystore，不经维护者后端。通过 App Store 与 Google Play 分发，另有 Apple Silicon Mac 桌面版，可从源码构建。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | GPL-3.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- 五类连接方式：Open WebUI、Direct（OpenAI 兼容/Ollama/OpenRouter/LM Studio）、Apple On-Device、Apple PCC、Hermes agent
-- 支持反向代理（oauth2-proxy/Authelia/Authentik 等）与 LDAP/SSO/JWT 认证路径
-- 原生 Flutter 界面：代码高亮、Mermaid 图表、LaTeX、推理/工具调用折叠区
-- 语音通话模式、14 种语言、离线笔记与本地数据存储
+- 支持 6 种连接方式：Open WebUI、LibreChat、Direct、Apple 本地/云模型、Hermes agent
+- WebSocket 逐 token 流式输出与多模态输入（图片/音频粘贴）
+- 覆盖 Open WebUI 全部认证路径：LDAP、JWT、SSO/OAuth 及多种反向代理
+- 聊天与凭据仅存于设备，无第三方分析或广告 SDK
 
 ## 适用场景
 
-- 在手机上使用自托管的 Open WebUI 服务器并保持完整功能
-- 直连本机 Ollama 或 OpenAI 兼容端点进行聊天
-- 在 iOS 设备上离线使用 Apple 本地模型
-- 通过手机管理并批准自托管 Hermes agent 的定时任务
+- 在手机上访问自托管的 Open WebUI 或 LibreChat 服务器
+- 无需服务器，直连本地 Ollama 或 OpenAI 兼容端点聊天
+- 在 iOS 26+ 设备上离线使用 Apple 本地模型
+- 连接自托管 Hermes agent，审批敏感工具调用并管理定时任务
 
 ## 场景标签
 
-`AI 助手` `聊天机器人` · 领域:对话与助手
+ · 领域:LLM 客户端/移动应用
 
 ## 证据(README 行号)
 
 > L10:  A native mobile client for Open WebUI, your own model endpoints, and self-hosted agents.
-> L95: |**Open WebUI**|Your self-hosted server|Full feature set: chats, folders, notes, channels, workspace, tools, web se
-> L96: |**Direct**|OpenAI-compatible, Ollama, OpenRouter|Talk straight to a provider or a model on your own machine. No Op
+> L97: |**Direct**|OpenAI-compatible, Ollama, OpenRouter|Talk straight to a provider or a model on your own machine. No Op
+> L186: Writing Open WebUI filters or tools? Conduit never runs their JavaScript, but
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "cogwheel0/conduit 星数(近 26 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 2331 --> 2502
-    line [2345, 2352, 2357, 2364, 2371, 2373, 2379, 2382, 2388, 2390, 2394, 2397, 2399, 2371, 2427, 2431, 2438, 2442, 2449, 2457, 2462, 2466, 2473, 2481, 2485, 2488]
+    title "cogwheel0/conduit 星数(近 27 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 2331 --> 2506
+    line [2345, 2352, 2357, 2364, 2371, 2373, 2379, 2382, 2388, 2390, 2394, 2397, 2399, 2371, 2427, 2431, 2438, 2442, 2449, 2457, 2462, 2466, 2473, 2481, 2485, 2488, 2492]
 ```
 
-2026-10-20 2,345 → 2026-11-22 2,488（+143）
+2026-10-21 2,345 → 2026-11-23 2,492（+147）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `81445fea8b42` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ba09f142e4fb` · [字段定义](../../DATASET.md)*

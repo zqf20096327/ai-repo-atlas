@@ -47,12 +47,12 @@ AgentBeam 是面向 AI coding agent 的本地安全层 CLI（beam）。beam setu
 ```mermaid
 xychart-beta
     title "whyashthakker/beam-cli 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-25", "2026-11-23"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-20 14 → 2026-11-22 15（+1）
+2026-10-21 14 → 2026-11-23 15（+1）
 
 
 ---

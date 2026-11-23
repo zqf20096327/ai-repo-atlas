@@ -1,10 +1,10 @@
 # qingchencloud/clawpanel
 
-⭐ 2,936 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/qingchencloud/clawpanel) · [官网](https://claw.qt.cool) · 组织维护 · 中文 README
+⭐ 2,937 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/qingchencloud/clawpanel) · [官网](https://claw.qt.cool) · 组织维护 · 中文 README
 
-**多 AI Agent 框架的可视化管理桌面面板，内置可操作系统级 AI 助手**
+**管理多个 AI Agent 框架的桌面/Web 可视化面板，内置排障助手**
 
-基于 Tauri v2 的跨平台桌面应用（另有纯 Web 版与 Docker 部署），统一管理 OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode 及实验版 Pi 五种 Agent 引擎：启停控制、版本检测、模型渠道同步、Agent/记忆/消息渠道/定时任务与 Token 用量管理。内置 AI 助手提供 4 种权限模式与 8 个工具（执行命令、读写文件、进程/端口检测等），可诊断配置、一键排障、整理 Issue 并生成修复 PR。桌面版提供 macOS/Windows/Linux 安装包，Web 版需 Node.js 18+。配套晴辰云免费测试平台与第三方赞助推广接入。给需要在本地或服务器集中运营多个 Agent 的用户使用。
+ClawPanel 是基于 Tauri v2 的跨平台管理面板，用于安装、启动、配置和监控 OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode 及实验版 Pi 等多类 Agent 运行时，功能覆盖服务启停、模型渠道同步、消息渠道接入（Telegram/Discord/飞书/钉钉/QQ）、Token 用量统计、记忆文件编辑与日志查看。内置 AI 助手提供 4 种权限模式、8 个工具（执行命令/读写文件/检测端口等）与 ask_user 交互问答，可自动诊断配置并生成修复 PR。提供 Windows/macOS/Linux 安装包、Docker 镜像与无 GUI 的 Web 部署模式，支持 ARM64 开发板；Web 版需 Node.js 18+。
 
 ## 筛选速览
 
@@ -16,43 +16,43 @@
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 支持 OpenClaw / Hermes / DSH / OpenCode / Pi 五种引擎的统一管理与切换
-- 内置 AI 助手：4 种操作模式（聊天/规划/执行/无限）+ 8 个系统操作工具
-- PR 助手可分析 Bug、定位代码并通过 git 命令完成 Fork/Branch/Commit/Push
-- 多引擎消息渠道（Telegram/Discord/飞书/钉钉/QQ）统一管理与 Token 用量统计
+- 多引擎架构：OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode、Pi 独立管理与切换
+- 内置 AI 助手：聊天/规划/执行/无限四种模式，工具调用需确认可控
+- Hermes 长期记忆与人格在线编辑，会话与工具调用链路可视化
+- 三种部署形态：桌面安装包、Docker、零 GUI 的 Web 版（兼容 ARM64 开发板）
 
 ## 适用场景
 
-- 在一台机器上集中安装、启动和升级多个 AI Agent 引擎
-- 让内置 AI 助手读取配置和日志，自动诊断并修复常见问题
-- 在无桌面环境的 Linux 服务器上通过浏览器远程管理 Agent
+- 在一台服务器或开发板上统一部署和管理多个 Agent 运行时
+- 不熟悉命令行时用 AI 助手自动诊断 Gateway 配置并排障
+- 统一接入 Telegram/Discord/飞书/钉钉/QQ 等消息渠道并统计 Token 用量
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`AI 助手` `LLM 可观测性` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L26: ClawPanel 是支持多 AI Agent 框架的可视化管理面板，目前支持 OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode 和实验版 Pi。**内置智能 AI 助手**，帮你一键
-> L366: - **🧩 多引擎架构** — 支持 OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode，以及实验版 Pi；自由切换，各自独立管理
-> L368: - **🧪 DeepSeek Harness 工作台** — 面板内完成受管安装、模型渠道同步和完整 DSH Web 操作，无需另开页面或额外开放端口
+> L353: - **🧩 多引擎架构** — 支持 OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode，以及实验版 Pi；自由切换，各自独立管理
+> L362: - **运行时管理** — OpenClaw Gateway 以及 DSH、OpenCode、Pi 独立运行时的状态、版本和生命周期控制
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "qingchencloud/clawpanel 星数(近 19 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23"]
     y-axis "stars" 2932 --> 2942
-    line [2933, 2936, 2937, 2938, 2937, 2935, 2937, 2938, 2937, 2939, 2938, 2941, 2938, 2937, 2935, 2933, 2935, 2936, 2936]
+    line [2933, 2936, 2937, 2938, 2937, 2935, 2937, 2938, 2937, 2939, 2938, 2941, 2938, 2937, 2935, 2933, 2935, 2936, 2937]
 ```
 
-2026-10-20 2,933 → 2026-11-22 2,936（+3）
+2026-10-21 2,933 → 2026-11-23 2,937（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `0b0ae098bbc1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0166b3469bec` · [字段定义](../../DATASET.md)*

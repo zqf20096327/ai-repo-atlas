@@ -1,6 +1,6 @@
 # MuzzammilShah/Road-to-AI
 
-⭐ 21 · Jupyter Notebook · MIT · 推送 2026-11-07 · [GitHub](https://github.com/MuzzammilShah/Road-to-AI) · [官网](https://docs.muhammedshah.com) · 个人维护
+⭐ 21 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MuzzammilShah/Road-to-AI) · [官网](https://docs.muhammedshah.com) · 个人维护
 
 **个人 GPT/神经网络学习路径的文档站与知识笔记**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MuzzammilShah/Road-to-AI 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-20 20 → 2026-11-22 21（+1）
+2026-10-21 20 → 2026-11-23 21（+1）
 
 
 ---

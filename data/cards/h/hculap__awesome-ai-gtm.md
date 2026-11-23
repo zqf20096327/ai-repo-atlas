@@ -1,6 +1,6 @@
 # hculap/awesome-ai-gtm
 
-⭐ 23 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/hculap/awesome-ai-gtm) · [官网](https://szymonpaluch.com) · 个人维护
+⭐ 25 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/hculap/awesome-ai-gtm) · [官网](https://szymonpaluch.com) · 个人维护
 
 **AI 驱动的 Go-to-Market 工具与 agent 策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "hculap/awesome-ai-gtm 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22"]
-    y-axis "stars" 17 --> 24
-    line [18, 19, 20, 21, 19, 21, 22, 23, 23]
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-23"]
+    y-axis "stars" 17 --> 26
+    line [18, 19, 20, 21, 19, 21, 22, 23, 25]
 ```
 
-2026-10-20 18 → 2026-11-22 23（+5）
+2026-10-21 18 → 2026-11-23 25（+7）
 
 
 ---

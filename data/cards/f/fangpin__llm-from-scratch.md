@@ -1,6 +1,6 @@
 # fangpin/llm-from-scratch
 
-⭐ 136 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/fangpin/llm-from-scratch) · [官网](https://fangpin.github.io/llm-from-scratch/) · 个人维护 · 中文 README
+⭐ 136 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fangpin/llm-from-scratch) · [官网](https://fangpin.github.io/llm-from-scratch/) · 个人维护 · 中文 README
 
 **从零实现 LLM 的教育性 PyTorch 项目：含训练/微调全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fangpin/llm-from-scratch 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 134 --> 137
     line [135, 136, 135, 136, 136]
 ```
 
-2026-10-19 135 → 2026-11-22 136（+1）
+2026-10-20 135 → 2026-11-23 136（+1）
 
 
 ---

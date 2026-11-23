@@ -1,6 +1,6 @@
 # mckinsey/agents-at-scale-ark
 
-⭐ 441 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mckinsey/agents-at-scale-ark) · [官网](https://mckinsey.github.io/agents-at-scale-ark/) · 组织维护
+⭐ 441 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mckinsey/agents-at-scale-ark) · [官网](https://mckinsey.github.io/agents-at-scale-ark/) · 组织维护
 
 **Kubernetes 上的声明式 Agent 运行时框架，供团队构建可移植 agentic 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mckinsey/agents-at-scale-ark 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-23"]
     y-axis "stars" 429 --> 442
     line [430, 431, 432, 433, 432, 438, 439, 440, 441, 441]
 ```
 
-2026-10-20 430 → 2026-11-22 441（+11）
+2026-10-21 430 → 2026-11-23 441（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # np-n/ai-ml-roadmap
 
-⭐ 12 · MIT · 推送 2026-06-28 · [GitHub](https://github.com/np-n/ai-ml-roadmap) · 个人维护
+⭐ 13 · MIT · 推送 2026-06-28 · [GitHub](https://github.com/np-n/ai-ml-roadmap) · 个人维护
 
 **面向初学者的 AI/ML 学习路线资源清单（Python 到 GenAI）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "np-n/ai-ml-roadmap 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-20 12 → 2026-11-22 12（+0）
+2026-10-21 12 → 2026-11-23 13（+1）
 
 
 ---

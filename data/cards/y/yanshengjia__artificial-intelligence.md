@@ -1,6 +1,6 @@
 # yanshengjia/artificial-intelligence
 
-⭐ 528 · Jupyter Notebook · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/yanshengjia/artificial-intelligence) · 个人维护
+⭐ 529 · Jupyter Notebook · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/yanshengjia/artificial-intelligence) · 个人维护
 
 **AI 教学练习项目集：搜索/遗传算法/神经网络等多类实现**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "yanshengjia/artificial-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 527 --> 529
-    line [528, 528]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 527 --> 530
+    line [528, 529]
 ```
 
-2026-10-20 528 → 2026-11-22 528（+0）
+2026-10-21 528 → 2026-11-23 529（+1）
 
 
 ---

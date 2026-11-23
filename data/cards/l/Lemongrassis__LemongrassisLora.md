@@ -1,6 +1,6 @@
 # Lemongrassis/LemongrassisLora
 
-⭐ 3 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Lemongrassis/LemongrassisLora) · 个人维护
+⭐ 3 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Lemongrassis/LemongrassisLora) · 个人维护
 
 **本地 Web 工作室：一站式训练 LoRA/LoKr/LoHa 适配器**
 
@@ -40,6 +40,18 @@
 > L5: **A local web studio for training LoRA / LoKr adapters for Anima, Krea 2 and MOSS Image.**
 > L21: Dataset → curation → preprocess → tags → reg set → training → queue → generation. The sidebar shows where you are, 
 > L170: |**GPU**|NVIDIA 6 GB (Anima) / 12 GB (Krea 2, MOSS)|NVIDIA 16 GB+|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lemongrassis/LemongrassisLora 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-22 3 → 2026-11-23 3（+0）
 
 
 ---

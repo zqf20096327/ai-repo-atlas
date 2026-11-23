@@ -41,6 +41,18 @@
 > L15: > **技术说明**：应用通过 npm 安装官方公开发布的 `@deepseek-ai/dsh`（官方使用方式为 `npx @deepseek-ai/dsh web`），使用 Electron + electron-builder
 > L42: - 后台任务需要已配置模型 API 凭据（在内嵌 Web UI 的 Models 页面配置即可）。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gatesenman/dsh-desktop 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-22 10 → 2026-11-23 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `542a478d9b08` · [字段定义](../../DATASET.md)*

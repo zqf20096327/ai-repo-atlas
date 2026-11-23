@@ -1,6 +1,6 @@
 # rodrigogs/whats-reader
 
-⭐ 277 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/rodrigogs/whats-reader) · [官网](https://rodrigogs.github.io/whats-reader/) · 个人维护 · 中文 README
+⭐ 278 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/rodrigogs/whats-reader) · [官网](https://rodrigogs.github.io/whats-reader/) · 个人维护 · 中文 README
 
 **离线浏览 WhatsApp 聊天导出文件的桌面/网页应用，含本地语音转写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rodrigogs/whats-reader 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 273 --> 278
-    line [275, 274, 275, 274, 275, 277, 277]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 273 --> 279
+    line [275, 274, 275, 274, 275, 277, 278]
 ```
 
-2026-10-20 275 → 2026-11-22 277（+2）
+2026-10-21 275 → 2026-11-23 278（+3）
 
 
 ---

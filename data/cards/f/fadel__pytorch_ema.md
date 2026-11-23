@@ -1,6 +1,6 @@
 # fadel/pytorch_ema
 
-⭐ 446 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/fadel/pytorch_ema) · 个人维护
+⭐ 445 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/fadel/pytorch_ema) · 个人维护
 
 **PyTorch 小库：维护模型参数的指数移动平均**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fadel/pytorch_ema 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 445 --> 447
-    line [446, 446]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 444 --> 447
+    line [446, 445]
 ```
 
-2026-10-20 446 → 2026-11-22 446（+0）
+2026-10-21 446 → 2026-11-23 445（-1）
 
 
 ---

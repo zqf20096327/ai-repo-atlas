@@ -45,12 +45,12 @@ TypeScript 编写的 Model Context Protocol 服务器，向 MCP 客户端提供 
 ```mermaid
 xychart-beta
     title "pinkpixel-dev/notification-mcp 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # malkreide/swisstopo-mcp
 
-⭐ 12 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/malkreide/swisstopo-mcp) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/malkreide/swisstopo-mcp) · 个人维护
 
 **瑞士联邦地理数据的 MCP 服务器：让 AI 助手查询官方地理信息**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "malkreide/swisstopo-mcp 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-20 11 → 2026-11-22 12（+1）
+2026-10-21 11 → 2026-11-23 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-rust
 
-⭐ 99 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/milvus-io/milvus-sdk-rust) · 组织维护
+⭐ 100 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/milvus-io/milvus-sdk-rust) · 组织维护
 
 **给 Rust 开发者的 Milvus 向量数据库官方 SDK**
 
@@ -45,12 +45,12 @@ Milvus 官方 Rust SDK，3.x 版本线对应 Milvus 3.x 服务端，MSRV 为 Rus
 ```mermaid
 xychart-beta
     title "milvus-io/milvus-sdk-rust 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-20 99 → 2026-11-22 99（+0）
+2026-10-21 99 → 2026-11-23 100（+1）
 
 
 ---

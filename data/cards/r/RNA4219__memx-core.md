@@ -1,6 +1,6 @@
 # RNA4219/memx-core
 
-⭐ 23 · Go · MIT · 推送 2026-03-10 · [GitHub](https://github.com/RNA4219/memx-core) · 个人维护
+⭐ 23 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/RNA4219/memx-core) · 个人维护
 
 **本地优先的个人记忆/知识存储，供 LLM agent 使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RNA4219/memx-core 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-20 23 → 2026-11-22 23（+0）
+2026-10-21 23 → 2026-11-23 23（+0）
 
 
 ---

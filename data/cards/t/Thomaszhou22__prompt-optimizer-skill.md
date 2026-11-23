@@ -1,6 +1,6 @@
 # Thomaszhou22/prompt-optimizer-skill
 
-⭐ 25 · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Thomaszhou22/prompt-optimizer-skill) · 个人维护 · 中文 README
+⭐ 26 · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Thomaszhou22/prompt-optimizer-skill) · 个人维护 · 中文 README
 
 **跨平台提示词优化技能包：模板匹配+宿主 AI 优化提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Thomaszhou22/prompt-optimizer-skill 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-22"]
-    y-axis "stars" 15 --> 26
-    line [16, 17, 19, 17, 20, 21, 23, 25, 25]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-23"]
+    y-axis "stars" 15 --> 27
+    line [16, 17, 19, 17, 20, 21, 23, 25, 26]
 ```
 
-2026-10-20 16 → 2026-11-22 25（+9）
+2026-10-21 16 → 2026-11-23 26（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # jmanhype/ace-playbook
 
-⭐ 38 · Python · 推送 2026-08-11 · [GitHub](https://github.com/jmanhype/ace-playbook) · 个人维护
+⭐ 39 · Python · 推送 2026-08-11 · [GitHub](https://github.com/jmanhype/ace-playbook) · 个人维护
 
 **自我改进的 LLM 系统：从执行反馈在线学习并维护经验手册**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jmanhype/ace-playbook 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 37, 38, 38]
+    x-axis ["2026-10-21", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 37, 38, 39]
 ```
 
-2026-10-20 37 → 2026-11-22 38（+1）
+2026-10-21 37 → 2026-11-23 39（+2）
 
 
 ---

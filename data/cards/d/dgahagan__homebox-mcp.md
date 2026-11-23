@@ -1,6 +1,6 @@
 # dgahagan/homebox-mcp
 
-⭐ 18 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/dgahagan/homebox-mcp) · [官网](https://pypi.org/project/homebox-mcp/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/dgahagan/homebox-mcp) · [官网](https://pypi.org/project/homebox-mcp/) · 个人维护
 
 **让 Claude 等 MCP 客户端用自然语言管理 Homebox 家庭库存的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dgahagan/homebox-mcp 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22"]
-    y-axis "stars" 10 --> 19
-    line [11, 13, 14, 16, 14, 17, 18, 18]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
+    y-axis "stars" 10 --> 20
+    line [11, 13, 14, 16, 14, 17, 18, 19]
 ```
 
-2026-10-20 11 → 2026-11-22 18（+7）
+2026-10-21 11 → 2026-11-23 19（+8）
 
 
 ---

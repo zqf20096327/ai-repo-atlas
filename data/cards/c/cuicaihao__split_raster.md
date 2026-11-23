@@ -45,12 +45,12 @@ Python 包 splitraster，将大尺寸栅格图像（含遥感 GeoTIFF）切分�
 ```mermaid
 xychart-beta
     title "cuicaihao/split_raster 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-20 27 → 2026-11-22 27（+0）
+2026-10-21 27 → 2026-11-23 27（+0）
 
 
 ---

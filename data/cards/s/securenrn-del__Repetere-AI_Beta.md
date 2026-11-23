@@ -47,12 +47,12 @@ Windows 原生 C++ 桌面应用（GLFW + Dear ImGui + OpenGL 3，无 Electron/Py
 ```mermaid
 xychart-beta
     title "securenrn-del/Repetere-AI_Beta 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-23"]
     y-axis "stars" 5 --> 9
     line [6, 7, 8, 8]
 ```
 
-2026-11-11 6 → 2026-11-22 8（+2）
+2026-11-11 6 → 2026-11-23 8（+2）
 
 
 ---

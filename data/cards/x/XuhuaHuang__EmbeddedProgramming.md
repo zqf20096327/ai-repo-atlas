@@ -1,6 +1,6 @@
 # XuhuaHuang/EmbeddedProgramming
 
-⭐ 13 · C++ · MIT · 推送 2026-10-20 · [GitHub](https://github.com/XuhuaHuang/EmbeddedProgramming) · 个人维护
+⭐ 13 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/XuhuaHuang/EmbeddedProgramming) · 个人维护
 
 **个人现代 C++ 学习与实践代码集合：按主题分目录、CMake 构建**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "XuhuaHuang/EmbeddedProgramming 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 13, 13]
 ```
 
-2026-10-20 12 → 2026-11-22 13（+1）
+2026-10-21 12 → 2026-11-23 13（+1）
 
 
 ---

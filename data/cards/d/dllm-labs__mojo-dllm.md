@@ -1,6 +1,6 @@
 # dllm-labs/mojo-dllm
 
-⭐ 546 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dllm-labs/mojo-dllm) · [官网](https://dllm-labs.github.io/mojo-dllm/) · 组织维护
+⭐ 548 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dllm-labs/mojo-dllm) · [官网](https://dllm-labs.github.io/mojo-dllm/) · 组织维护
 
 **扩散语言模型本地推理运行时，支持 LLaDA/Dream 的 GGUF 量化模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dllm-labs/mojo-dllm 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 545 --> 547
-    line [546, 546]
+    x-axis ["2026-11-21", "2026-11-23"]
+    y-axis "stars" 545 --> 549
+    line [546, 548]
 ```
 
-2026-11-21 546 → 2026-11-22 546（+0）
+2026-11-21 546 → 2026-11-23 548（+2）
 
 
 ---

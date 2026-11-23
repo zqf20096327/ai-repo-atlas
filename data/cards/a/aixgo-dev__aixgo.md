@@ -1,6 +1,6 @@
 # aixgo-dev/aixgo
 
-⭐ 14 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/aixgo-dev/aixgo) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Go 语言的厂商中立多智能体编排框架，YAML 定义拓扑**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

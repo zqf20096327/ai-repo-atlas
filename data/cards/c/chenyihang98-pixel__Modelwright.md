@@ -1,6 +1,6 @@
 # chenyihang98-pixel/Modelwright
 
-⭐ 28 · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/chenyihang98-pixel/Modelwright) · [官网](https://chenyihang98-pixel.github.io/Modelwright/) · 个人维护 · 中文 README
+⭐ 28 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/chenyihang98-pixel/Modelwright) · [官网](https://chenyihang98-pixel.github.io/Modelwright/) · 个人维护 · 中文 README
 
 **给游戏开发者的 AI 3D 生成桌面工作台，模型一键进 Unity**
 
@@ -45,13 +45,13 @@ Windows 桌面应用（Electron）：输入图片或文字，调用 Tripo、Mesh
 
 ```mermaid
 xychart-beta
-    title "chenyihang98-pixel/Modelwright 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-22"]
+    title "chenyihang98-pixel/Modelwright 星数(近 6 点)"
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-22", "2026-11-23"]
     y-axis "stars" 21 --> 29
-    line [22, 25, 26, 27, 28]
+    line [22, 25, 26, 27, 28, 28]
 ```
 
-2026-10-20 22 → 2026-11-22 28（+6）
+2026-10-21 22 → 2026-11-23 28（+6）
 
 
 ---

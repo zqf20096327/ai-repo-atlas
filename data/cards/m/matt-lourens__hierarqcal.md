@@ -45,12 +45,12 @@ HierarQcal 是一个开源、框架无关的量子电路构建 Python 包，提�
 ```mermaid
 xychart-beta
     title "matt-lourens/hierarqcal 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-20 54 → 2026-11-22 54（+0）
+2026-10-21 54 → 2026-11-23 54（+0）
 
 
 ---

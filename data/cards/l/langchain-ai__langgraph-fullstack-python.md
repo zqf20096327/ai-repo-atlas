@@ -45,12 +45,12 @@ langchain-ai 维护的 Python 模板项目，演示用 LangGraph 的 HTTP 配置
 ```mermaid
 xychart-beta
     title "langchain-ai/langgraph-fullstack-python 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-23"]
     y-axis "stars" 156 --> 159
     line [157, 158, 158]
 ```
 
-2026-10-20 157 → 2026-11-22 158（+1）
+2026-10-21 157 → 2026-11-23 158（+1）
 
 
 ---

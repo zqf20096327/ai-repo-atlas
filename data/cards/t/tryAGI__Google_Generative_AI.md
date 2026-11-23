@@ -1,6 +1,6 @@
 # tryAGI/Google_Generative_AI
 
-⭐ 10 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tryAGI/Google_Generative_AI) · [官网](https://tryagi.github.io/Google_Generative_AI/) · 组织维护
+⭐ 10 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tryAGI/Google_Generative_AI) · [官网](https://tryagi.github.io/Google_Generative_AI/) · 组织维护
 
 **面向 .NET 开发者的 Google Gemini API C# SDK**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tryAGI/Google_Generative_AI 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-22 10（+0）
+2026-10-21 10 → 2026-11-23 10（+0）
 
 
 ---

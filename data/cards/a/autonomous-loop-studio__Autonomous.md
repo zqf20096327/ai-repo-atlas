@@ -1,6 +1,6 @@
 # autonomous-loop-studio/Autonomous
 
-⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/autonomous-loop-studio/Autonomous) · [官网](https://autonomous-loop-studio.github.io/Autonomous/) · 个人维护
+⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/autonomous-loop-studio/Autonomous) · [官网](https://autonomous-loop-studio.github.io/Autonomous/) · 个人维护
 
 **自托管 AI agent 控制台：让任意模型在本地跑真实工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "autonomous-loop-studio/Autonomous 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    x-axis ["2026-11-16", "2026-11-23"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-22 3（+0）
+2026-11-16 3 → 2026-11-23 3（+0）
 
 
 ---

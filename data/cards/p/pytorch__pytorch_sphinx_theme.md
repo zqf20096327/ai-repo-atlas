@@ -1,6 +1,6 @@
 # pytorch/pytorch_sphinx_theme
 
-⭐ 106 · CSS · MIT · 推送 2026-09-02 · [GitHub](https://github.com/pytorch/pytorch_sphinx_theme) · 组织维护
+⭐ 107 · CSS · MIT · 推送 2026-09-02 · [GitHub](https://github.com/pytorch/pytorch_sphinx_theme) · 组织维护
 
 **PyTorch 文档与教程的 Sphinx 主题（已弃用维护）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pytorch/pytorch_sphinx_theme 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-12", "2026-11-22"]
-    y-axis "stars" 104 --> 107
-    line [105, 106, 106]
+    x-axis ["2026-10-21", "2026-11-12", "2026-11-23"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 107]
 ```
 
-2026-10-20 105 → 2026-11-22 106（+1）
+2026-10-21 105 → 2026-11-23 107（+2）
 
 
 ---

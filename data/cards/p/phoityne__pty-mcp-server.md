@@ -1,6 +1,6 @@
 # phoityne/pty-mcp-server
 
-⭐ 41 · Haskell · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/phoityne/pty-mcp-server) · [官网](https://hackage.haskell.org/package/pty-mcp-server) · 个人维护
+⭐ 42 · Haskell · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/phoityne/pty-mcp-server) · [官网](https://hackage.haskell.org/package/pty-mcp-server) · 个人维护
 
 **让 AI agent 控制 PTY/进程/文件系统/套接字/串口的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "phoityne/pty-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-20 41 → 2026-11-22 41（+0）
+2026-10-21 41 → 2026-11-23 42（+1）
 
 
 ---

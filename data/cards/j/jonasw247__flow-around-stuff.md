@@ -1,6 +1,6 @@
 # jonasw247/flow-around-stuff
 
-⭐ 10 · Python · CC-BY-4.0 · 推送 2026-11-16 · [GitHub](https://github.com/jonasw247/flow-around-stuff) · [官网](https://flow-around-stuff.com) · 个人维护
+⭐ 11 · Python · CC-BY-4.0 · 推送 2026-11-16 · [GitHub](https://github.com/jonasw247/flow-around-stuff) · [官网](https://flow-around-stuff.com) · 个人维护
 
 **从 3D 表面网格快速预测物体周围气流的推理模型**
 
@@ -45,12 +45,12 @@ fas 模型接收任意三维物体的表面网格，预测定常不可压缩流�
 ```mermaid
 xychart-beta
     title "jonasw247/flow-around-stuff 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 5 --> 11
-    line [6, 8, 9, 10, 10]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 5 --> 12
+    line [6, 8, 9, 10, 11]
 ```
 
-2026-11-18 6 → 2026-11-22 10（+4）
+2026-11-18 6 → 2026-11-23 11（+5）
 
 
 ---

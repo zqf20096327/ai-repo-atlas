@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy4-flash
 
-⭐ 86 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4-flash) · 组织维护 · 中文 README
+⭐ 87 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4-flash) · 组织维护 · 中文 README
 
 **腾讯开源的多模态 MoE 模型：文本图像输入、文本生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy4-flash 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 51 --> 89
-    line [54, 70, 84, 86]
+    title "Tencent-Hunyuan/Hy4-flash 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 51 --> 90
+    line [54, 70, 84, 86, 87]
 ```
 
-2026-11-19 54 → 2026-11-22 86（+32）
+2026-11-19 54 → 2026-11-23 87（+33）
 
 
 ---

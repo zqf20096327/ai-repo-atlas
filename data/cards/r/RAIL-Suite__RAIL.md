@@ -45,12 +45,12 @@ RAIL（Remote Agent Invocation Layer）提供一套由多个子项目组成的�
 ```mermaid
 xychart-beta
     title "RAIL-Suite/RAIL 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-20 14 → 2026-11-22 14（+0）
+2026-10-21 14 → 2026-11-23 14（+0）
 
 
 ---

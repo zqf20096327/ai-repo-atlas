@@ -1,6 +1,6 @@
 # hibuka-labs/phimint
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/hibuka-labs/phimint) · [官网](https://hibuka-labs.github.io/phimint/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **终端 AI 编码 agent：读码改码编译测试的全流程循环**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # wozniakalan323-bit/opencode-project-workbench
 
-⭐ 151 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/wozniakalan323-bit/opencode-project-workbench) · 个人维护
+⭐ 148 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/wozniakalan323-bit/opencode-project-workbench) · 个人维护
 
 **为 OpenCode 项目管理工作区生命周期的 Windows 命令行工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wozniakalan323-bit/opencode-project-workbench 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    title "wozniakalan323-bit/opencode-project-workbench 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 92 --> 156
-    line [97, 151]
+    line [97, 151, 148]
 ```
 
-2026-11-21 97 → 2026-11-22 151（+54）
+2026-11-21 97 → 2026-11-23 148（+51）
 
 
 ---

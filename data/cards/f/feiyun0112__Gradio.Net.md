@@ -1,6 +1,6 @@
 # feiyun0112/Gradio.Net
 
-⭐ 338 · C# · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/feiyun0112/Gradio.Net) · 个人维护 · 中文 README
+⭐ 338 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/feiyun0112/Gradio.Net) · 个人维护 · 中文 README
 
 **Gradio 的 .NET 移植：用 C# 几行代码为模型/API 构建 Web 界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "feiyun0112/Gradio.Net 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-22"]
+    title "feiyun0112/Gradio.Net 星数(近 6 点)"
+    x-axis ["2026-10-31", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 336 --> 340
-    line [337, 338, 339, 337, 338]
+    line [337, 338, 339, 337, 338, 338]
 ```
 
-2026-10-31 337 → 2026-11-22 338（+1）
+2026-10-31 337 → 2026-11-23 338（+1）
 
 
 ---

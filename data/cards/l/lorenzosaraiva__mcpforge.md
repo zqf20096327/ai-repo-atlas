@@ -1,6 +1,6 @@
 # lorenzosaraiva/mcpforge
 
-⭐ 18 · TypeScript · 推送 2026-11-15 · [GitHub](https://github.com/lorenzosaraiva/mcpforge) · 个人维护
+⭐ 18 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/lorenzosaraiva/mcpforge) · 个人维护
 
 **从 OpenAPI 规格或文档页生成并验证 MCP 服务器的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lorenzosaraiva/mcpforge 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-20 18 → 2026-11-22 18（+0）
+2026-10-21 18 → 2026-11-23 18（+0）
 
 
 ---

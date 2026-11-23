@@ -1,6 +1,6 @@
 # GiorgosPanagopoulos/bidpilot
 
-⭐ 11 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/GiorgosPanagopoulos/bidpilot) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/GiorgosPanagopoulos/bidpilot) · 个人维护
 
 **供应商端标书智能后端：语义匹配、资格审查与引用式标书起草**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GiorgosPanagopoulos/bidpilot 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-22 11（+1）
+2026-10-25 10 → 2026-11-23 11（+1）
 
 
 ---

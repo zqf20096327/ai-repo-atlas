@@ -1,6 +1,6 @@
 # Deyht/CIANNA
 
-⭐ 57 · C · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Deyht/CIANNA) · 组织维护
+⭐ 57 · C · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Deyht/CIANNA) · 组织维护
 
 **面向天体物理的 GPU 深度学习框架，含射电星系检测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Deyht/CIANNA 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-20 57 → 2026-11-22 57（+0）
+2026-10-21 57 → 2026-11-23 57（+0）
 
 
 ---

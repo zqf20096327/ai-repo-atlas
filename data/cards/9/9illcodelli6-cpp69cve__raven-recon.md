@@ -1,6 +1,6 @@
 # 9illcodelli6-cpp69cve/raven-recon
 
-⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/9illcodelli6-cpp69cve/raven-recon) · 个人维护
+⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/9illcodelli6-cpp69cve/raven-recon) · 个人维护
 
 **面向漏洞赏金与渗透测试者的范围感知侦察与 AI 辅助测试工作台**
 
@@ -45,13 +45,13 @@ RAVEN Recon 是一个安全测试工作台：按程序划分工作区并强制�
 
 ```mermaid
 xychart-beta
-    title "9illcodelli6-cpp69cve/raven-recon 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 3 --> 6
-    line [4, 5]
+    title "9illcodelli6-cpp69cve/raven-recon 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-21 4 → 2026-11-22 5（+1）
+2026-11-21 4 → 2026-11-23 6（+2）
 
 
 ---

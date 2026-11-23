@@ -1,6 +1,6 @@
 # pipeshub-ai/documentation
 
-⭐ 20 · MDX · 推送 2026-11-21 · [GitHub](https://github.com/pipeshub-ai/documentation) · [官网](https://docs.pipeshub.com) · 组织维护
+⭐ 20 · MDX · 推送 2026-11-22 · [GitHub](https://github.com/pipeshub-ai/documentation) · [官网](https://docs.pipeshub.com) · 组织维护
 
 **PipesHub（AI 搜索/上下文层）官方文档站源码仓库**
 
@@ -43,12 +43,12 @@ docs.pipeshub.com 文档站的源码仓库，基于 Mintlify 构建：页面为 
 ```mermaid
 xychart-beta
     title "pipeshub-ai/documentation 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-22"]
+    x-axis ["2026-11-14", "2026-11-23"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-11-14 20 → 2026-11-22 20（+0）
+2026-11-14 20 → 2026-11-23 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Echoxiawan/Astra
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Echoxiawan/Astra) · 个人维护 · 中文 README
+⭐ 68 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Echoxiawan/Astra) · 个人维护 · 中文 README
 
 **用自然语言在真机上跑移动端 UI 测试并生成 pytest+Appium 脚本**
 
@@ -41,6 +41,18 @@
 > L17: Astra is an open-source UI automation platform for real Android and iOS devices. Testers describe preconditions, ac
 > L36: |AI execution|Yes|New cases, exploration, initial script generation|Generates a script after a manual, non-debug si
 > L41: - **AI execution and script capture** — Multimodal models read the page tree and screenshots; successful traces bec
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Echoxiawan/Astra 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 55 --> 69
+    line [56, 68]
+```
+
+2026-11-22 56 → 2026-11-23 68（+12）
 
 
 ---

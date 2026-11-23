@@ -1,6 +1,6 @@
 # chrisgleissner/c64bridge
 
-⭐ 43 · JavaScript · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/chrisgleissner/c64bridge) · 个人维护
+⭐ 47 · JavaScript · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/chrisgleissner/c64bridge) · 个人维护
 
 **让 AI 客户端通过 MCP 控制和编程 Commodore 64 的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chrisgleissner/c64bridge 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
-    y-axis "stars" 38 --> 44
-    line [39, 40, 41, 39, 41, 43, 43]
+    x-axis ["2026-10-21", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23"]
+    y-axis "stars" 38 --> 48
+    line [39, 40, 41, 39, 41, 43, 47]
 ```
 
-2026-10-20 39 → 2026-11-22 43（+4）
+2026-10-21 39 → 2026-11-23 47（+8）
 
 
 ---

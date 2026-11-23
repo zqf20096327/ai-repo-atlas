@@ -1,6 +1,6 @@
 # neucine/affon
 
-⭐ 24 · TypeScript · MPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/neucine/affon) · [官网](https://affon.ai) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/neucine/affon) · [官网](https://affon.ai) · 个人维护 · 中文 README
 
 **面向科研计算与机器学习的 TypeScript 运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "neucine/affon 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 19 --> 25
-    line [20, 21, 22, 24]
+    title "neucine/affon 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 19 --> 28
+    line [20, 21, 22, 24, 27]
 ```
 
-2026-11-19 20 → 2026-11-22 24（+4）
+2026-11-19 20 → 2026-11-23 27（+7）
 
 
 ---

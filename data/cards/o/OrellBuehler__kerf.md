@@ -1,6 +1,6 @@
 # OrellBuehler/kerf
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/OrellBuehler/kerf) · [官网](https://orellbuehler.github.io/kerf/) · 个人维护
+⭐ 15 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/OrellBuehler/kerf) · [官网](https://orellbuehler.github.io/kerf/) · 个人维护
 
 **内嵌 MCP 服务器的跨平台非破坏性视频编辑器，供 LLM 驱动剪辑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OrellBuehler/kerf 星数(近 6 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-22"]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-23"]
     y-axis "stars" 9 --> 16
     line [10, 12, 13, 14, 15, 15]
 ```
 
-2026-10-30 10 → 2026-11-22 15（+5）
+2026-10-30 10 → 2026-11-23 15（+5）
 
 
 ---

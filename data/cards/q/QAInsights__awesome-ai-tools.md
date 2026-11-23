@@ -1,6 +1,6 @@
 # QAInsights/awesome-ai-tools
 
-⭐ 35 · JavaScript · 推送 2026-11-21 · [GitHub](https://github.com/QAInsights/awesome-ai-tools) · [官网](https://ai.dosa.dev) · 个人维护
+⭐ 36 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/QAInsights/awesome-ai-tools) · [官网](https://ai.dosa.dev) · 个人维护
 
 **AI 编程工具的策展分类清单（225+ 工具，10+ 类别）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QAInsights/awesome-ai-tools 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 26 --> 36
-    line [27, 28, 30, 34, 35]
+    title "QAInsights/awesome-ai-tools 星数(近 6 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 26 --> 37
+    line [27, 28, 30, 34, 35, 36]
 ```
 
-2026-10-30 27 → 2026-11-22 35（+8）
+2026-10-30 27 → 2026-11-23 36（+9）
 
 
 ---

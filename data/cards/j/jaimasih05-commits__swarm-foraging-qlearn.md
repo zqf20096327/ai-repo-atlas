@@ -1,6 +1,6 @@
 # jaimasih05-commits/swarm-foraging-qlearn
 
-⭐ 119 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/jaimasih05-commits/swarm-foraging-qlearn) · 个人维护
+⭐ 119 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/jaimasih05-commits/swarm-foraging-qlearn) · 个人维护
 
 **多智能体 Q-Learning 觅食仿真：网格环境中研究群体涌现行为**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jaimasih05-commits/swarm-foraging-qlearn 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23"]
     y-axis "stars" 117 --> 120
     line [119, 118, 119, 118, 119, 119]
 ```
 
-2026-10-20 119 → 2026-11-22 119（+0）
+2026-10-21 119 → 2026-11-23 119（+0）
 
 
 ---

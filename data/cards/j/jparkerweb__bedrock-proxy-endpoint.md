@@ -45,12 +45,12 @@ Node.js 实现的代理服务器：以标准 OpenAI API 格式（baseUrl、apiKe
 ```mermaid
 xychart-beta
     title "jparkerweb/bedrock-proxy-endpoint 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-20 17 → 2026-11-22 17（+0）
+2026-10-21 17 → 2026-11-23 17（+0）
 
 
 ---

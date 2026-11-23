@@ -1,6 +1,6 @@
 # hunmeng2012/Pojia-Ultimate
 
-⭐ 4 · PowerShell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hunmeng2012/Pojia-Ultimate) · [官网](https://www.hunmeng.icu/) · 个人维护 · 中文 README
+⭐ 4 · PowerShell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hunmeng2012/Pojia-Ultimate) · [官网](https://www.hunmeng.icu/) · 个人维护 · 中文 README
 
 **国产无审查大模型 API 中转服务，OpenAI 兼容接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hunmeng2012/Pojia-Ultimate 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-22"]
+    title "hunmeng2012/Pojia-Ultimate 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-22", "2026-11-23"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-16 3 → 2026-11-22 4（+1）
+2026-11-16 3 → 2026-11-23 4（+1）
 
 
 ---

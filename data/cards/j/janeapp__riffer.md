@@ -1,6 +1,6 @@
 # janeapp/riffer
 
-⭐ 13 · Ruby · MIT · 推送 2026-11-20 · [GitHub](https://github.com/janeapp/riffer) · [官网](http://riffer.ai/) · 组织维护
+⭐ 13 · Ruby · MIT · 推送 2026-11-22 · [GitHub](https://github.com/janeapp/riffer) · [官网](http://riffer.ai/) · 组织维护
 
 **构建 AI 应用与 Agent 的 Ruby 一体化框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "janeapp/riffer 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-20 13 → 2026-11-22 13（+0）
+2026-10-21 13 → 2026-11-23 13（+0）
 
 
 ---

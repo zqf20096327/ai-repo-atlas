@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SandyPandyMandy/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22"]
+    title "SandyPandyMandy/GTA-6-Switch-Version--PC-Emulator-2026 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 29 --> 37
-    line [36, 35, 30]
+    line [36, 35, 30, 30]
 ```
 
-2026-11-20 36 → 2026-11-22 30（-6）
+2026-11-20 36 → 2026-11-23 30（-6）
 
 
 ---

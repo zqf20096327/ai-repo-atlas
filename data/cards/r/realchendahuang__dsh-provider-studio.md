@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的供应商管理插件，替换内置 Models 设置�
 ```mermaid
 xychart-beta
     title "realchendahuang/dsh-provider-studio 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-22"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-23"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-22 11（+1）
+2026-11-08 10 → 2026-11-23 11（+1）
 
 
 ---

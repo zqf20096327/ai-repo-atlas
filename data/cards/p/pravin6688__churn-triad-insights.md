@@ -1,6 +1,6 @@
 # pravin6688/churn-triad-insights
 
-⭐ 115 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/pravin6688/churn-triad-insights) · 个人维护
+⭐ 115 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/pravin6688/churn-triad-insights) · 个人维护
 
 **LLM 驱动的客户流失风险分析工具：自然语言查询加风险解读**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pravin6688/churn-triad-insights 星数(近 5 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 114 --> 117
     line [116, 115, 116, 115, 115]
 ```
 
-2026-10-20 116 → 2026-11-22 115（-1）
+2026-10-21 116 → 2026-11-23 115（-1）
 
 
 ---

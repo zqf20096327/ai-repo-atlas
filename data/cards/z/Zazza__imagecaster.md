@@ -1,6 +1,6 @@
 # Zazza/imagecaster
 
-⭐ 26 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Zazza/imagecaster) · 个人维护 · 中文 README
+⭐ 28 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Zazza/imagecaster) · 个人维护 · 中文 README
 
 **本地 Stable Diffusion + LLM 桌面图像生成与编辑应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Zazza/imagecaster 星数(近 7 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 11 --> 27
-    line [12, 13, 23, 24, 25, 26, 26]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-21", "2026-11-23"]
+    y-axis "stars" 11 --> 29
+    line [12, 13, 23, 24, 25, 26, 28]
 ```
 
-2026-11-01 12 → 2026-11-22 26（+14）
+2026-11-01 12 → 2026-11-23 28（+16）
 
 
 ---

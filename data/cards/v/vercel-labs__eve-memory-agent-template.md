@@ -1,6 +1,6 @@
 # vercel-labs/eve-memory-agent-template
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/eve-memory-agent-template) · [官网](https://vercel.com/templates/eve/eve-memory-agent) · 组织维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/eve-memory-agent-template) · [官网](https://vercel.com/templates/eve/eve-memory-agent) · 组织维护
 
 **保存并回忆用户偏好的 Slack AI 助手模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vercel-labs/eve-memory-agent-template 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 3, 5, 6, 6]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 3, 5, 6, 7]
 ```
 
-2026-10-24 3 → 2026-11-22 6（+3）
+2026-10-24 3 → 2026-11-23 7（+4）
 
 
 ---

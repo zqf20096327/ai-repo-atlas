@@ -1,6 +1,6 @@
 # dazedanon/DazedTL
 
-⭐ 18 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/dazedanon/DazedTL) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/dazedanon/DazedTL) · 个人维护
 
 **面向玩家的 AI 游戏翻译工具，支持 RPG Maker 系列引导式翻译**
 
@@ -44,13 +44,13 @@ DazedTL 是运行在 Windows/Linux 的游戏翻译工具，用用户自己的 AI
 
 ```mermaid
 xychart-beta
-    title "dazedanon/DazedTL 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 10 --> 19
-    line [11, 13, 14, 15, 16, 17, 18]
+    title "dazedanon/DazedTL 星数(近 8 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 10 --> 20
+    line [11, 13, 14, 15, 16, 17, 18, 19]
 ```
 
-2026-11-02 11 → 2026-11-22 18（+7）
+2026-11-02 11 → 2026-11-23 19（+8）
 
 
 ---

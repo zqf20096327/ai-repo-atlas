@@ -45,12 +45,12 @@ Python 科研代码包，使用类似 VGGNet 的卷积神经网络对石墨烯�
 ```mermaid
 xychart-beta
     title "phanakata/ML_for_kirigami_design 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-20 30 → 2026-11-22 30（+0）
+2026-10-21 30 → 2026-11-23 30（+0）
 
 
 ---

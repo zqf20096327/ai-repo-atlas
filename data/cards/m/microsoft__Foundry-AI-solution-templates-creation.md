@@ -1,6 +1,6 @@
 # microsoft/Foundry-AI-solution-templates-creation
 
-⭐ 14 · MIT · 推送 2026-04-23 · [GitHub](https://github.com/microsoft/Foundry-AI-solution-templates-creation) · 组织维护
+⭐ 13 · MIT · 推送 2026-04-23 · [GitHub](https://github.com/microsoft/Foundry-AI-solution-templates-creation) · 组织维护
 
 **面向 AI 编码 agent 的 Azure 项目脚手架生成技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Foundry-AI-solution-templates-creation 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-11-19", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-11-19", "2026-11-23"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13]
 ```
 
-2026-10-19 13 → 2026-11-22 14（+1）
+2026-10-20 13 → 2026-11-23 13（+0）
 
 
 ---

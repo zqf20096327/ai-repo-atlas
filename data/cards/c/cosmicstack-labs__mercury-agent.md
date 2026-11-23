@@ -1,10 +1,10 @@
 # cosmicstack-labs/mercury-agent
 
-⭐ 4,055 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) · [官网](https://mercuryagent.sh/) · 组织维护 · 中文 README
+⭐ 4,060 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) · [官网](https://mercuryagent.sh/) · 组织维护 · 中文 README
 
-**常驻本地的个人 AI agent：多通道对话、权限管控与记忆**
+**本地常驻个人 AI agent：权限管控、记忆与多渠道接入**
 
-以单一后台进程运行的开源 agent，可通过终端、Telegram、Discord、Slack、Signal 与本地 Web 仪表盘访问同一 agent 与同一记忆。内置约 50 个工具（文件、shell、git、GitHub、web、调度、子 agent），文件访问按文件夹划定读写范围，shell 命令经黑名单与审批步骤，每轮受每日 token 预算约束。记忆以 SQLite（FTS5）存于本地 ~/.mercury。支持 DeepSeek、OpenAI、Anthropic、Grok、Ollama（云与本地）、LM Studio 及 OpenAI 兼容端点，含自动回退。安装提供一键脚本与 npm（Node.js 22+），运行于 macOS/Linux/Windows/Termux。
+运行在用户机器上的开源 AI agent：单个后台进程承载终端、Telegram、Discord、Slack、Signal 与本地 Web 看板等多个渠道，共享同一套权限、记忆与预算。内置约 50 个工具（文件、shell、git、GitHub、网络、调度器、子 agent），shell 命令经黑名单与审批步骤，文件按文件夹限定读写范围，每日 token 预算在每轮强制生效。记忆为本地 SQLite 文件，人格由可编辑的 Markdown 文件定义。另提供 Mercury Code 编码会话与 Mercury Bots 持久化子 agent，支持 macOS/Linux/Windows 与 Termux。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@
 
 ## 能力要点
 
-- 单一后台进程承载全部通道与记忆，崩溃自动恢复并以登录服务常驻
-- 权限系统：shell 黑名单、按文件夹的读写范围、审批提示、SSRF 防护、日志密钥脱敏
-- Second Brain：10 类记忆类型，SQLite + FTS5 本地存储，答案前自动召回
-- Mercury Code 仓库内编码（测试通过才算完成）与 Mercury Bots 持久专家 agent 舰队
+- 多渠道访问同一常驻 agent：终端、Telegram、Discord、Slack、Signal、本地 Web 看板
+- 权限体系：shell 不可覆盖黑名单、按文件夹读写范围、审批提示、每日 token 预算
+- Second Brain 本地记忆：SQLite+FTS5，10 种记忆类型，自动抽取与召回
+- Mercury Code 仅在构建/测试/类型检查通过后报告任务完成
 
 ## 适用场景
 
-- 通过 Telegram/Discord/Slack/Signal 等消息渠道随时指挥同一个本地 agent
-- 让 agent 按日程与预算在后台完成任务并交付文件
-- 在仓库内用 Mercury Code 做经验证的编码工作
+- 通过终端或 Telegram 与个人 AI 助手对话并执行文件与命令任务
+- 在仓库内用编码会话完成任务并通过测试验证
+- 按 cron 调度运行子 agent 交付文件到指定目录
 
 ## 场景标签
 
-`AI 助手` `知识库管理` `编码 Agent` · 领域:编码与开发
+`AI 助手` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L24: Mercury is an open-source agent with a personality you write yourself, a memory that stays on your disk, and a perm
-> L42: |**Models**|DeepSeek, OpenAI, Anthropic, Grok, Ollama (cloud and local), LM Studio, any OpenAI-compatible endpoint,
+> L27: Mercury is an open-source agent with a personality you write yourself, a memory that stays on your disk, and a perm
+> L45: |**Models**|DeepSeek, OpenAI, Anthropic, Grok, Ollama (cloud and local), LM Studio, any OpenAI-compatible endpoint,
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "cosmicstack-labs/mercury-agent 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 3371 --> 4117
-    line [3433, 3437, 3438, 3442, 3461, 3560, 3620, 3651, 3679, 3690, 3748, 3752, 3756, 3461, 3885, 3891, 3897, 3901, 3902, 3914, 3996, 4027, 4032, 4039, 4045, 4050, 4055]
+    title "cosmicstack-labs/mercury-agent 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 3371 --> 4122
+    line [3433, 3437, 3438, 3442, 3461, 3560, 3620, 3651, 3679, 3690, 3748, 3752, 3756, 3461, 3885, 3891, 3897, 3901, 3902, 3914, 3996, 4027, 4032, 4039, 4045, 4050, 4055, 4060]
 ```
 
-2026-10-20 3,433 → 2026-11-22 4,055（+622）
+2026-10-21 3,433 → 2026-11-23 4,060（+627）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `72f53b17f927` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `797f2bc2e938` · [字段定义](../../DATASET.md)*

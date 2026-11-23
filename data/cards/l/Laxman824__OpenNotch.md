@@ -1,6 +1,6 @@
 # Laxman824/OpenNotch
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Laxman824/OpenNotch) · [官网](https://laxman824.github.io/opennotch/) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Laxman824/OpenNotch) · [官网](https://laxman824.github.io/opennotch/) · 个人维护
 
 **驻留 MacBook 刘海的本地优先 AI 助手，附桌面伴侣**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Laxman824/OpenNotch 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23"]
     y-axis "stars" 6 --> 11
     line [7, 8, 9, 10, 7, 10, 10]
 ```
 
-2026-10-20 7 → 2026-11-22 10（+3）
+2026-10-21 7 → 2026-11-23 10（+3）
 
 
 ---

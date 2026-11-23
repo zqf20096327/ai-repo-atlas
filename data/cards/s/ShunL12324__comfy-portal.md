@@ -1,6 +1,6 @@
 # ShunL12324/comfy-portal
 
-⭐ 88 · TypeScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/ShunL12324/comfy-portal) · [官网](https://shunl12324.github.io/comfy-portal) · 个人维护
+⭐ 89 · TypeScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/ShunL12324/comfy-portal) · [官网](https://shunl12324.github.io/comfy-portal) · 个人维护
 
 **手机上连接并运行 ComfyUI 工作流的原生 iOS/Android 客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ShunL12324/comfy-portal 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-22"]
-    y-axis "stars" 80 --> 89
-    line [81, 82, 83, 82, 83, 82, 87, 86, 87, 88, 88]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-23"]
+    y-axis "stars" 80 --> 90
+    line [81, 82, 83, 82, 83, 82, 87, 86, 87, 88, 89]
 ```
 
-2026-10-20 81 → 2026-11-22 88（+7）
+2026-10-21 81 → 2026-11-23 89（+8）
 
 
 ---

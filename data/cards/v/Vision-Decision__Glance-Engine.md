@@ -1,6 +1,6 @@
 # Vision-Decision/Glance-Engine
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Vision-Decision/Glance-Engine) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Vision-Decision/Glance-Engine) · 组织维护
 
 **视觉决策模型推理引擎：一次前向回答多问题、一问扫描多图**
 
@@ -40,6 +40,18 @@ Glance Engine 是面向视觉决策模型的服务引擎：读取一张图像后
 > L3: **Ask a vision model 32 questions about an image and get 32 typed answers in 49 ms.** Glance Engine serves decision
 > L4: models: it reads an image once, answers every question in one forward pass with readout heads instead of generated
 > L183: - Serves Glance and Glance-X models. The v1 engine is tuned and measured on one GPU class (RTX PRO 6000, SM120), a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Vision-Decision/Glance-Engine 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 19 --> 29
+    line [20, 28]
+```
+
+2026-11-22 20 → 2026-11-23 28（+8）
 
 
 ---

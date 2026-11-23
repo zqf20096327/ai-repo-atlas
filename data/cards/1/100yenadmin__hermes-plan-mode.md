@@ -1,6 +1,6 @@
 # 100yenadmin/hermes-plan-mode
 
-⭐ 45 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/100yenadmin/hermes-plan-mode) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/100yenadmin/hermes-plan-mode) · 个人维护
 
 **Hermes Agent 的计划模式插件：只读探索并锁定编辑工具直到审批**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "100yenadmin/hermes-plan-mode 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22"]
+    title "100yenadmin/hermes-plan-mode 星数(近 5 点)"
+    x-axis ["2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 41 --> 49
-    line [48, 43, 42, 45]
+    line [48, 43, 42, 45, 46]
 ```
 
-2026-11-10 48 → 2026-11-22 45（-3）
+2026-11-10 48 → 2026-11-23 46（-2）
 
 
 ---

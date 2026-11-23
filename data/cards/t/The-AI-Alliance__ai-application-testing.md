@@ -45,13 +45,13 @@ AI Alliance 发布的用户指南与配套工具仓库，探讨当生成式 AI �
 
 ```mermaid
 xychart-beta
-    title "The-AI-Alliance/ai-application-testing 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-10", "2026-11-22"]
+    title "The-AI-Alliance/ai-application-testing 星数(近 4 点)"
+    x-axis ["2026-10-21", "2026-11-10", "2026-11-22", "2026-11-23"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    line [11, 12, 13, 13]
 ```
 
-2026-10-20 11 → 2026-11-22 13（+2）
+2026-10-21 11 → 2026-11-23 13（+2）
 
 
 ---

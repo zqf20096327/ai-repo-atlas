@@ -1,6 +1,6 @@
 # Bowen1314/inkdove
 
-⭐ 19 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Bowen1314/inkdove) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Bowen1314/inkdove) · 个人维护 · 中文 README
 
 **给外贸团队的 WhatsApp/LINE/Telegram 工作台，AI 依知识库起草回复**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bowen1314/inkdove 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-22"]
-    y-axis "stars" 6 --> 20
-    line [7, 10, 11, 13, 14, 19]
+    title "Bowen1314/inkdove 星数(近 7 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 6 --> 26
+    line [7, 10, 11, 13, 14, 19, 25]
 ```
 
-2026-10-20 7 → 2026-11-22 19（+12）
+2026-10-21 7 → 2026-11-23 25（+18）
 
 
 ---

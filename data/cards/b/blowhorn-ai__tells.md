@@ -41,6 +41,18 @@
 > L5: It runs at tells.blowhorn.ai as one Cloudflare Worker with static assets. Use it to test your own browser, or point 
 > L23: ## API for scripts
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "blowhorn-ai/tells 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-22 8 → 2026-11-23 8（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `75ed86e49f55` · [字段定义](../../DATASET.md)*

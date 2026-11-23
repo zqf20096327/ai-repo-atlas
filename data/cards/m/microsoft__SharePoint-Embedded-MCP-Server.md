@@ -1,6 +1,6 @@
 # microsoft/SharePoint-Embedded-MCP-Server
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/SharePoint-Embedded-MCP-Server) · 组织维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/SharePoint-Embedded-MCP-Server) · 组织维护
 
 **微软官方的 SharePoint Embedded MCP 服务器：让 AI 客户端管理 SPE 资源**
 
@@ -46,12 +46,12 @@ Microsoft 维护的 Model Context Protocol 服务器，以 stdio 方式经 npx �
 ```mermaid
 xychart-beta
     title "microsoft/SharePoint-Embedded-MCP-Server 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-22"]
+    x-axis ["2026-10-20", "2026-10-22", "2026-11-08", "2026-11-23"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    line [13, 14, 15, 14]
 ```
 
-2026-10-19 13 → 2026-11-22 15（+2）
+2026-10-20 13 → 2026-11-23 14（+1）
 
 
 ---

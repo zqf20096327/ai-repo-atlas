@@ -1,6 +1,6 @@
 # opennote-org/opennote
 
-⭐ 25 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/opennote-org/opennote) · 个人维护 · 中文 README
+⭐ 25 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/opennote-org/opennote) · 个人维护 · 中文 README
 
 **纯 Rust 编写的本地优先 AI 笔记应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "opennote-org/opennote 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-11-14", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-11-14", "2026-11-23"]
     y-axis "stars" 20 --> 26
     line [21, 24, 25, 25]
 ```
 
-2026-10-20 21 → 2026-11-22 25（+4）
+2026-10-21 21 → 2026-11-23 25（+4）
 
 
 ---

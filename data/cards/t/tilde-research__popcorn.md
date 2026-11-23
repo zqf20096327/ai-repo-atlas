@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tilde-research/popcorn 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    title "tilde-research/popcorn 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 37 --> 40
-    line [38, 39]
+    line [38, 39, 39]
 ```
 
-2026-10-20 38 → 2026-11-22 39（+1）
+2026-10-21 38 → 2026-11-23 39（+1）
 
 
 ---

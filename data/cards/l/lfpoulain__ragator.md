@@ -1,6 +1,6 @@
 # lfpoulain/ragator
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lfpoulain/ragator) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lfpoulain/ragator) · 个人维护
 
 **对 YouTube 频道问答并给出精确时间戳引用**
 
@@ -46,12 +46,12 @@ Ragator 对一个或多个 YouTube 频道的转写文本与视觉描述建立索
 ```mermaid
 xychart-beta
     title "lfpoulain/ragator 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-21", "2026-11-23"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-21 4 → 2026-11-22 4（+0）
+2026-11-21 4 → 2026-11-23 5（+1）
 
 
 ---

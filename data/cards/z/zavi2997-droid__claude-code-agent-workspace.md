@@ -1,6 +1,6 @@
 # zavi2997-droid/claude-code-agent-workspace
 
-⭐ 150 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/zavi2997-droid/claude-code-agent-workspace) · 个人维护
+⭐ 147 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/zavi2997-droid/claude-code-agent-workspace) · 个人维护
 
 **为 Claude Code agent 提供隔离工作区与编排的 Windows CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zavi2997-droid/claude-code-agent-workspace 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-22"]
+    title "zavi2997-droid/claude-code-agent-workspace 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
     y-axis "stars" 99 --> 154
-    line [103, 150]
+    line [103, 150, 147]
 ```
 
-2026-11-21 103 → 2026-11-22 150（+47）
+2026-11-21 103 → 2026-11-23 147（+44）
 
 
 ---

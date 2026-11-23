@@ -1,6 +1,6 @@
 # shardreel/clipforge
 
-⭐ 5 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/shardreel/clipforge) · [官网](https://shardreel.com) · 个人维护
+⭐ 6 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/shardreel/clipforge) · [官网](https://shardreel.com) · 个人维护
 
 **本地把长游戏录像切成 9:16 竖版短视频的工具**
 
@@ -46,12 +46,12 @@ Rust 编写的本地流水线：将长游戏录像转为 Shorts/Reels/TikTok 竖
 ```mermaid
 xychart-beta
     title "shardreel/clipforge 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    x-axis ["2026-11-15", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-15 4 → 2026-11-22 5（+1）
+2026-11-15 4 → 2026-11-23 6（+2）
 
 
 ---

@@ -45,12 +45,12 @@ GenAssist 是一个用于构建、管理和部署 AI agent 的开源平台，内
 ```mermaid
 xychart-beta
     title "RitechSolutions/genassist 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
+    x-axis ["2026-10-21", "2026-11-23"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-20 64 → 2026-11-22 64（+0）
+2026-10-21 64 → 2026-11-23 64（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # CyberHorizon-be/sleuthline
 
-⭐ 14 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/CyberHorizon-be/sleuthline) · [官网](https://cyberhorizon.be/) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/CyberHorizon-be/sleuthline) · [官网](https://cyberhorizon.be/) · 组织维护
 
 **Windows DFIR 流水线：从取证采集到有证据支撑的应急响应报告**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "CyberHorizon-be/sleuthline 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-22"]
-    y-axis "stars" 7 --> 15
-    line [8, 11, 12, 13, 14, 14]
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-23"]
+    y-axis "stars" 7 --> 16
+    line [8, 11, 12, 13, 14, 15]
 ```
 
-2026-10-22 8 → 2026-11-22 14（+6）
+2026-10-22 8 → 2026-11-23 15（+7）
 
 
 ---

@@ -1,10 +1,10 @@
 # tt-a1i/archify
 
-⭐ 98,560 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
+⭐ 98,767 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
 
-**让 AI agent 把想法或代码库生成为交互式图表的技能**
+**让编码 Agent 把想法/代码库变成可交互架构图的技能**
 
-Archify 是一个面向 Claude Code、Codex、Cursor、OpenCode 等 coding agent 的技能（skill）：用户用自然语言描述想法、计划或让 agent 读取仓库，agent 据此生成可交互的 HTML 图表或单页解释页（explainer）。输出为自包含 HTML 文件，含节点详情、路径追踪、明暗主题切换、PNG/WebP/JPG 长图与 PDF 导出、路线分享卡；解释页中声明附编号来源、仓库摘录固定到 commit。支持通过 llms.txt、npx skills 或 DSH 插件方式安装，带可选的更新检查（可用环境变量关闭）。
+一个面向 AI 编码代理（Claude Code、Codex CLI、Cursor、OpenCode 等）的技能包：用户用一句话描述想法或让 Agent 读取仓库，生成可探索、可分享的自包含交互式 HTML 图表。功能包括带来源引用的架构图（钉住 commit、可回链源码）、仓库依赖分析与诊断（依赖环、耦合热点，支持 JS/TS、Python、Java、Go、Rust、C/C++）、解释页（explainer）模式、Story 视频导出与 PR/MR 评注。Apache-2.0 许可，查看输出无需安装本产品。
 
 ## 筛选速览
 
@@ -26,40 +26,40 @@ Archify 是一个面向 Claude Code、Codex、Cursor、OpenCode 等 coding agent
 
 ## 能力要点
 
-- 从描述或仓库生成自包含 HTML 交互图表，无需安装即可在浏览器查看
-- explainer 单页模式：结论先行、声明附编号来源、仓库摘录固定到 commit
-- 支持 npx skills / DSH 插件安装，覆盖 cursor、codex、claude-code、opencode 四种 agent
-- 导出 PNG/WebP/JPG 长图、PDF 打印及路线分享卡
+- 读取仓库生成带 commit 锚定来源引用的架构图
+- 内置架构诊断：依赖环、耦合模块、复杂度热点、分层规则违规
+- 输出单文件离线 HTML，支持 PNG/WebP/JPG 导出与 1080p 故事视频
+- 通过 llms.txt 一句话指令即可让 Agent 完成安装
 
 ## 适用场景
 
-- 让 agent 读取仓库生成带源码出处的运行时架构图
-- 把一段流程描述变成可探索、可分享的交互图表
-- 生成旅行行程、学习地图等自定义交互页面
-- 向 agent 提问并获得结论先行的单页解释
+- 让 Agent 读取陌生仓库，生成带源码链接的系统地图
+- 诊断项目的模块耦合与依赖循环并交给 Agent 修复
+- 把复杂问题答成一页可分享的解释页
+- 在 PR/MR 上附上标注变更的架构图
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+ · 领域:开发者工具/代码可视化
 
 ## 证据(README 行号)
 
 > L9:  Start with an idea, a question, or a plan. Describe it to your AI agent, and Archify turns it into an interactive H
-> L26:  Works with Claude Code, Codex, Cursor, and OpenCode
-> L45: Works with Cursor, Claude Code, Codex CLI, and OpenCode. See installation options below for additional integrations
+> L138: **Architecture Diagnosis** reads a repository and shows how it actually hangs together: dependency cycles, tightly
+> L46: Works with Cursor, Claude Code, Codex CLI, and OpenCode. See installation options below for additional integrations
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "tt-a1i/archify 星数(近 26 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 84530 --> 99835
-    line [85805, 87529, 88236, 88640, 89076, 89725, 90353, 90932, 91391, 91787, 92085, 92340, 88640, 94683, 95353, 95610, 95890, 96197, 96419, 96726, 97158, 97463, 97722, 98025, 98299, 98560]
+    title "tt-a1i/archify 星数(近 27 点)"
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    y-axis "stars" 84509 --> 100063
+    line [85805, 87529, 88236, 88640, 89076, 89725, 90353, 90932, 91391, 91787, 92085, 92340, 88640, 94683, 95353, 95610, 95890, 96197, 96419, 96726, 97158, 97463, 97722, 98025, 98299, 98560, 98767]
 ```
 
-2026-10-19 85,805 → 2026-11-22 98,560（+12,755）
+2026-10-20 85,805 → 2026-11-23 98,767（+12,962）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e0e6fbeb9a0f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2442ac6c4d77` · [字段定义](../../DATASET.md)*

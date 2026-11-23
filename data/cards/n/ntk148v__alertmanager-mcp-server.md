@@ -1,6 +1,6 @@
 # ntk148v/alertmanager-mcp-server
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ntk148v/alertmanager-mcp-server) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ntk148v/alertmanager-mcp-server) · 个人维护
 
 **让 AI 助手查询和管理 Prometheus Alertmanager 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ntk148v/alertmanager-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-21", "2026-11-23"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-20 25 → 2026-11-22 25（+0）
+2026-10-21 25 → 2026-11-23 26（+1）
 
 
 ---

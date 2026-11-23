@@ -1,10 +1,10 @@
 # michaelfeil/infinity
 
-⭐ 2,988 · C++ · MIT · 推送 2026-11-12 · [GitHub](https://github.com/michaelfeil/infinity) · [官网](https://michaelfeil.github.io/infinity/) · 个人维护
+⭐ 2,989 · C++ · MIT · 推送 2026-11-12 · [GitHub](https://github.com/michaelfeil/infinity) · [官网](https://michaelfeil.github.io/infinity/) · 个人维护
 
-**面向开发者的文本嵌入/重排/CLIP 等模型的 REST 推理服务引擎**
+**给开发者的 embedding/rerank 模型 REST 推理服务引擎**
 
-基于 FastAPI 的 REST API 推理服务，用于部署 text-embeddings、reranking、CLIP/CLAP、ColBERT/ColPali 及文本分类模型，支持从 HuggingFace 加载多种已验证架构。推理后端可选 PyTorch、optimum（ONNX/TensorRT）与 CTranslate2，使用 FlashAttention 与动态批处理，支持 CUDA、ROCm、CPU、AWS INF2、Apple MPS 等加速器。可通过 pip 或预构建 Docker 镜像安装，v2 CLI 支持环境变量、API key 与多模型同时启动，API 规范对齐 OpenAI 的 embeddings 规格。限制：ctranslate2 引擎仅支持 BERT 模型，ColPali 不支持 LoRA 适配器，纯视觉模型不支持。
+通过 REST API 提供 embeddings、reranking、分类与 typed decision 模型服务的引擎。原生 v3 服务器用 Rust 编写，基于 LibTorch（PyTorch 的 C++ 接口）做推理；另有 Python/v2 服务器（infinity-emb 包）支持多模型、多模态及 ONNX、TensorRT 等部署选项。Docker 镜像直接启动服务器，默认使用所有可见 CUDA GPU 并在每个 GPU 上放置完整模型副本；支持 MoE 检查点但每个 GPU 需容纳完整模型。v3 采用自定义 source-available 许可证。
 
 ## 筛选速览
 
@@ -14,22 +14,22 @@
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | `cpu-ok` | |
+| 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 支持 text-embeddings、reranking、CLIP/CLAP 多模态嵌入、ColBERT/ColPali 晚交互嵌入与文本分类
-- 推理后端可选 torch / optimum（ONNX/TensorRT）/ ctranslate2，含动态批处理与 FlashAttention
-- v2 CLI 支持多模型混部署、环境变量启动与 --api-key 鉴权，OpenAPI 对齐 OpenAI 规范
-- 提供通用、CPU、ROCm、TensorRT-ONNX 等多种 Docker 镜像及 Python asyncio API
+- REST API 覆盖 dense/多模态/token 级 embeddings、rerank、分类、NER、SPLADE 稀疏向量等端点
+- v3 原生服务器为 Rust + LibTorch 实现
+- Docker 镜像直接启动，默认使用全部可见 CUDA GPU
+- 提供交互式 API 文档与 /health 就绪检查
 
 ## 适用场景
 
-- 私有化部署 OpenAI 风格的文本嵌入与重排服务，用于检索和 RAG
-- 在同一服务中混部署多个嵌入/重排/多模态模型
-- 用 Docker 在 CPU/CUDA/ROCm 等不同硬件上运行嵌入推理
+- 为检索系统部署 embedding 与 rerank 服务
+- 统一托管多个文本嵌入模型的推理端点
+- 需要序列分类或命名实体识别的推理服务场景
 
 ## 场景标签
 
@@ -37,22 +37,21 @@
 
 ## 证据(README 行号)
 
-> L14: Infinity is a high-throughput, low-latency REST API for serving text-embeddings, reranking models, clip, clap and c
-> L18: * **Fast inference backends**: The inference server is built on top of PyTorch, optimum (ONNX/TensorRT) and CTransl
-> L175: Infinity aims to be the inference server supporting most functionality for embeddings, reranking and related RAG t
+> L3: Infinity serves embeddings, reranking, classification, and typed decision models
+> L4: through a REST API. The native v3 server is written in Rust and uses LibTorch,
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "michaelfeil/infinity 星数(近 17 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22"]
-    y-axis "stars" 2960 --> 2990
-    line [2962, 2967, 2968, 2970, 2971, 2973, 2977, 2978, 2968, 2984, 2985, 2986, 2987, 2988, 2987, 2988, 2988]
+    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23"]
+    y-axis "stars" 2960 --> 2991
+    line [2962, 2967, 2968, 2970, 2971, 2973, 2977, 2978, 2968, 2984, 2985, 2986, 2987, 2988, 2987, 2988, 2989]
 ```
 
-2026-10-19 2,962 → 2026-11-22 2,988（+26）
+2026-10-20 2,962 → 2026-11-23 2,989（+27）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `3def1fdad0f5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `7e401bf25b1f` · [字段定义](../../DATASET.md)*

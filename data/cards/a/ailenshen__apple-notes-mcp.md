@@ -1,6 +1,6 @@
 # ailenshen/apple-notes-mcp
 
-⭐ 17 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ailenshen/apple-notes-mcp) · 个人维护 · 中文 README
+⭐ 17 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ailenshen/apple-notes-mcp) · 个人维护 · 中文 README
 
 **让 Claude 直接读写 Apple Notes 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ailenshen/apple-notes-mcp 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22"]
+    title "ailenshen/apple-notes-mcp 星数(近 9 点)"
+    x-axis ["2026-10-21", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-23"]
     y-axis "stars" 11 --> 18
-    line [12, 13, 14, 15, 13, 15, 16, 17]
+    line [12, 13, 14, 15, 13, 15, 16, 17, 17]
 ```
 
-2026-10-20 12 → 2026-11-22 17（+5）
+2026-10-21 12 → 2026-11-23 17（+5）
 
 
 ---

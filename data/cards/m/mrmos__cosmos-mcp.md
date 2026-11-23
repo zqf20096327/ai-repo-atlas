@@ -1,6 +1,6 @@
 # mrmos/cosmos-mcp
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mrmos/cosmos-mcp) · [官网](https://www.npmjs.com/package/cosmos-mcp) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mrmos/cosmos-mcp) · [官网](https://www.npmjs.com/package/cosmos-mcp) · 个人维护
 
 **给 AI 客户端用的 cosmos.so 非官方 MCP 服务器：搜索与收藏视觉素材**
 
@@ -46,12 +46,12 @@ cosmos.so 视觉发现站的非官方 MCP 服务器，让 Claude、Cursor 等 MC
 ```mermaid
 xychart-beta
     title "mrmos/cosmos-mcp 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-22"]
-    y-axis "stars" 10 --> 18
-    line [11, 12, 11, 15, 17, 17]
+    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-23"]
+    y-axis "stars" 10 --> 19
+    line [11, 12, 11, 15, 17, 18]
 ```
 
-2026-10-20 11 → 2026-11-22 17（+6）
+2026-10-21 11 → 2026-11-23 18（+7）
 
 
 ---

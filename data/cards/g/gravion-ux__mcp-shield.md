@@ -1,6 +1,6 @@
 # gravion-ux/mcp-shield
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gravion-ux/mcp-shield) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravion-ux/mcp-shield) · 个人维护
 
 **给 MCP 服务器做安全审计的 CLI：检测工具投毒与配置漂移**
 
@@ -40,6 +40,18 @@
 > L5: **A defensive security auditor for MCP (Model Context Protocol) servers.**
 > L7: `mcp-shield` statically audits MCP server configurations and tool definitions
 > L10: into a foothold. Pure Python standard library: **zero runtime dependencies**.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/mcp-shield 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-22 3 → 2026-11-23 4（+1）
 
 
 ---

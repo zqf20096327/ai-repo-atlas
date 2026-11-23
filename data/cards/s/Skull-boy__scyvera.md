@@ -41,6 +41,18 @@
 > L11: MCP and A2A standardize how agents talk to tools and to each other. Scyvera defines the layer above
 > L109: - **Enforce** is default-deny: undeclared calls raise, approval boundaries stop execution, and every
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Skull-boy/scyvera 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-23"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-22 25 → 2026-11-23 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0457343a8a1e` · [字段定义](../../DATASET.md)*
