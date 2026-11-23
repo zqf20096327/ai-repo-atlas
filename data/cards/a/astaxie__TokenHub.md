@@ -2,9 +2,9 @@
 
 ⭐ 1,449 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/astaxie/TokenHub) · [官网](https://thinkinai-labs.github.io/tokenhome/) · 个人维护 · 中文 README
 
-**企业级 AI 模型访问治理网关：统一路由、权限与成本核算**
+**企业级 AI 模型访问治理网关：路由、权限与成本归因**
 
-面向企业的 Token 治理基础设施：以网关形式统一接入 OpenAI、Azure OpenAI、Anthropic、Gemini、DeepSeek、Qwen、Codex 订阅及本地模型等上游，提供模型路由（优先级/权重/故障转移）、按项目与团队的 API key 权限管理、配额与并发控制、用量归因与账单对账、预算控制，以及 OAuth/OIDC 身份源、RBAC 和审计。对外暴露 OpenAI 兼容 API（chat/completions、embeddings、images）与 Anthropic Messages API。SQLite 单机或 PostgreSQL 多实例部署，支持原生 systemd 安装脚本与 Docker Compose。
+面向企业的 Token 治理基础设施，在模型调用之前设置治理层：模型路由、按人/团队/项目的密钥与权限分配、缓存与配额降本、用量归因及与上游账单的对账。平台区分用户、团队负责人、管理员三种角色工作区，提供 OpenAI 兼容及 Anthropic Messages 格式 API，支持 SQLite 单机与 PostgreSQL 多实例部署，提供 systemd 与 Docker Compose 两种安装方式。基于 Go 1.26 构建。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 原生 Provider 适配器覆盖 OpenAI/Azure/Anthropic/Gemini/DeepSeek/Qwen 等，另有 150+ 供应商模板
-- 项目级 key 管理：成员权限、配额、并发控制
-- 模型路由策略：优先级、权重、failover、路由健康诊断
-- 用量按用户/项目/团队/模型归因，支持供应商账单对账
+- 项目级密钥管理：成员权限、配额与并发控制
+- 路由策略支持优先级、权重、故障转移与健康诊断
+- 用量按用户/项目/团队/模型/成本中心归因并可对账
+- OAuth/OIDC 企业登录、RBAC 与审计日志
 
 ## 适用场景
 
-- 企业统一管控各团队的 AI 模型调用与费用
-- 为应用发放项目级 API key 而非直接分发供应商原始密钥
-- 财务与平台团队核对内部用量与供应商账单
+- 企业内统一管理多团队的模型密钥与访问权限
+- 按场景、成本与健康状况路由模型调用
+- 将内部用量与上游账单对账以核算 AI 成本
+- 私有化部署一套模型接入治理平台
 
 ## 场景标签
 
@@ -38,7 +39,7 @@
 ## 证据(README 行号)
 
 > L5:  TokenHub is enterprise Token Governance infrastructure for AI: model routing, access control, token cost optimizati
-> L75: Provider support is TokenHub's integration boundary. Hosted APIs, subscription channels, local models, and custom u
+> L65: - OpenAI-compatible model APIs: `/v1/chat/completions`, `/v1/responses`, `/v1/embeddings`; Anthropic Messages APIs:
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5b45f8323965` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `99976cd5ebba` · [字段定义](../../DATASET.md)*

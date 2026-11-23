@@ -2,9 +2,9 @@
 
 ⭐ 1,786 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/NVIDIA/Personal-AI-Router) · 组织维护
 
-**家庭局域网多机本地推理路由器：跨设备分发请求**
+**家庭局域网内多机本地推理请求路由器**
 
-NVIDIA Personal AI Router (PAIR) 是面向同一局域网内多台兼容电脑的本地推理路由器：发现参与节点、管理推理引擎（Ollama、LM Studio、llama.cpp），并提供 Ollama 兼容、OpenAI 兼容与 Anthropic Messages API 的本地代理端点；按引擎可用性、模型可用性与负载将独立请求路由到合适节点，适用于多 agent 并发场景。限制：不做 GPU 内存池化、不分片单模型、不拆分单次推理。提供 Windows/Linux/macOS 桌面安装包与终端界面。
+NVIDIA Personal AI Router (PAIR) 是面向同一网络内多台兼容计算机的本地推理路由器：发现参与节点，管理受支持的推理引擎，提供 Ollama 兼容、OpenAI 兼容与 Anthropic Messages API 的本地代理端点，按引擎可用性、模型可用性与当前负载把独立请求路由到合适节点。适用于多智能体等并发本地负载；不合并 GPU 显存、不做模型分片。提供 Windows/Linux/macOS 安装包，也支持源码构建与终端界面。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ NVIDIA Personal AI Router (PAIR) 是面向同一局域网内多台兼容电脑�
 
 ## 能力要点
 
-- 跨 Windows/Linux/macOS 节点组网，按引擎/模型可用性与负载路由请求
-- 提供 Ollama 兼容、OpenAI 兼容与 Anthropic Messages API 本地代理端点
-- 内置安装与管理 Ollama、LM Studio、llama.cpp 推理引擎，可下载 GGUF 模型
-- 提供签名安装包（exe/deb/dmg）、终端界面与 JSON-RPC API
+- 提供 Ollama/OpenAI/Anthropic Messages API 兼容的本地代理端点
+- 按引擎、模型可用性与负载将请求路由到局域网内节点
+- 支持 Ollama、LM Studio、llama.cpp、vLLM 引擎的安装与管理
+- 六位 PIN 配对组网，跨 Windows/Linux/macOS 混合节点
 
 ## 适用场景
 
-- 把家里多台电脑组成集群分担本地推理请求
-- 多 agent 应用并发跑本地模型而不冲突
-- 通过六位 PIN 配对第二台机器扩展算力节点
+- 把多台家用电脑组成本地推理集群供应用调用
+- 多智能体应用的并发本地推理负载分发
+- 无桌面环境的机器通过终端界面运行推理服务
 
 ## 场景标签
 
-`模型网关` `推理引擎` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: local inference router for a group of compatible computers on the same network. It discovers participating nodes,
 > L8: manages supported inference engines, and presents local proxy endpoints for
-> L9: Ollama-compatible, OpenAI-compatible, and Anthropic Messages API requests.
+> L10: Independent requests can be routed to eligible nodes according to engine
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a3ec76f0a648` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `74d322996ac1` · [字段定义](../../DATASET.md)*

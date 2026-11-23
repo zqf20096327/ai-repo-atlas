@@ -1,10 +1,10 @@
 # hanzohanzhe/Grandet
 
-⭐ 1,468 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/hanzohanzhe/Grandet) · [官网](https://grandet.ai) · 组织维护 · 中文 README
+⭐ 1,468 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/hanzohanzhe/Grandet) · [官网](https://grandet.ai) · 个人维护 · 中文 README
 
-**为 AI agent 查找并接入各渠道最低价模型 API 的技能与 MCP 服务**
+**帮 AI agent 用户查找并接入最便宜的模型 API**
 
-由 grandet.ai 支持的 Agent Skill 与匿名 MCP 服务器：基于 1,800+ 官方、推理与中转渠道的标价数据，比较指定模型的最低报价（区分 USD/CNY 与现金价、标注附带条件），查询免费额度与试用活动，并可在 Codex、Claude Code 等 9 个应用内代为修改配置接入所选 API（密钥不进入对话、写入前备份确认）。另提供 HTTP 查询接口与 JSON 数据目录，本地开发需 Node.js 20+ 且无第三方依赖。仅按标价排序，不对站点质量做判断。
+Grandet 由 grandet.ai 价格数据支撑，提供 Agent Skill 与匿名远程 MCP server 两种形态：按官方 API、推理供应商与中转站的挂牌价比较同一模型的最低报价，列出免费额度（免费层、试用金、签到/免费分组），并可代为修改 Codex、Claude Code 等客户端的配置以接入所选 API（备份文件、确认后写入、可 undo）。仅按挂牌价排序，不评价站点质量；价格查询无需账号或 API key。git 安装需 Node.js 20+，无 Node 时可手动复制技能文件夹。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 跨 1,800+ 官方/推理/中转渠道比较模型标价并区分币种与条件
-- 查询免费额度、试用与签到活动，标注是否需绑卡或实名
-- Skill 内置 connect 程序可代为修改 9 个应用的配置接入 API，支持撤销
-- 匿名 MCP 服务器与 HTTP 查询接口，无需注册或 API key
+- 跨官方、推理与中转供应商比较同一模型的挂牌价并给出最低几档
+- 远程 MCP server 匿名可用，无需注册或 API key
+- Skill 可自动改写客户端配置接入所选 API，支持备份与 undo
+- 提供免费额度检索与中转术语（官转/逆向）词汇表
 
 ## 适用场景
 
-- 在 Claude Code/Codex 等编码 agent 内直接查询并接入最便宜的模型 API
-- 查找无需信用卡的免费模型额度
-- 按月度 token 用量估算并比较各渠道成本
+- 在多个中转和官方渠道间为常用模型找最低挂牌价
+- 查询无信用卡可用的免费 API 额度
+- 让 agent 直接把选中的 API 接入 Codex/Claude Code 等编码工具
 
 ## 场景标签
 
- · 领域:LLM API 基础设施/比价
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: **Grandet compares listed API prices for each model across official APIs, inference providers and relay sites. Your 
-> L57: For Codex, Claude Code, OpenCode, Kilo Code, Continue, Gemini CLI, Hermes, OpenClaw and WorkBuddy, the Skill's own 
-> L76: |**Grandet Skill**|Find the lowest price, find free credit and connect the chosen API from inside your agent|
+> L10: |Remote MCP server|`https://grandet.ai/mcp` (Streamable HTTP, no sign-up, no API key)|
+> L55: Tools: `grandet_find_cheapest_api`, `grandet_find_free_credits`, `grandet_resolve_model`, `grandet_quote_evidence`,
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `98cb33a39990` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e9b10e4d3a25` · [字段定义](../../DATASET.md)*

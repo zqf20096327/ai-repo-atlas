@@ -1,10 +1,10 @@
 # mayneyao/eidos
 
-⭐ 3,212 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/mayneyao/eidos) · [官网](https://eidos.space) · 个人维护
+⭐ 3,212 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/mayneyao/eidos) · [官网](https://eidos.space) · 组织维护 · 中文 README
 
-**面向用户与 AI agent 的单文件关系型电子表格**
+**本地优先的单文件关系型表格数据库，供用户与 agent 使用**
 
-Eidos 定义了基于标准 SQLite 的开放单文件格式 Eidos File，并配套多端应用：桌面端 Eidos Lite 操作本地文件夹与 Eidos 文件，Android/iOS 应用提供离线浏览与 Markdown 编辑，浏览器版免安装编辑 .eidos 文件，另有 agent 优先的 CLI 负责创建、查询与本地服务。CLI 支持 macOS/Linux/Windows 脚本安装，桌面与 Android 提供下载安装包，iOS 需从源码构建（标注 experimental）。仓库含 TypeScript 共享包与私有 Rust crate 工作区，AGPL v3 许可。
+Eidos 以标准 SQLite 为基础定义单文件格式（Eidos File），并提供桌面应用 Eidos Lite、Android/iOS 移动端、浏览器编辑器与 CLI 多种入口；支持 Markdown 编辑、表格与记录管理、本地文件夹工作、离线使用、局域网同步与版本历史（基于 Graft）。CLI 可创建、检查、查询、更新并以本地服务器方式提供 Eidos Files，文档指出其面向 agent 与自动化工作流。仓库采用 AGPL v3 许可，桌面与 Android 提供安装包，iOS 为实验性、需从源码构建。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Eidos 定义了基于标准 SQLite 的开放单文件格式 Eidos File，并配�
 
 ## 能力要点
 
-- 基于标准 SQLite 的单文件开放格式 Eidos File
-- 桌面/Android/iOS/浏览器/CLI 多端应用，本地使用无需账号
-- agent 优先的 CLI：创建、查询、更新与本地服务 Eidos 文件
-- 使用 Graft 做本地版本历史与可选同步
+- 基于标准 SQLite 的开放单文件格式（Eidos File）
+- 桌面/Android/iOS/浏览器/CLI 五种访问方式，本地使用无需账号
+- CLI 支持 create/inspect/query/update/serve 与 agent 自动化工作流
+- 基于 Graft 的本地版本历史与可选局域网同步
 
 ## 适用场景
 
-- 在本地单文件中管理结构化数据表，无需账号
-- 让 AI agent 通过 CLI 读写和查询 Eidos 文件
-- 在手机上离线编辑 Markdown 与表格并通过局域网同步
+- 本地离线管理结构化表格与 Markdown 笔记
+- 让 agent 通过 CLI 创建、查询和更新数据文件
+- 手机与桌面在同一局域网内同步本地 Space
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Eidos 定义了基于标准 SQLite 的开放单文件格式 Eidos File，并配�
 ## 证据(README 行号)
 
 > L3:  A single-file relational spreadsheet, for you and your agent.
-> L81: - `apps/cli` contains the agent-first CLI and local server.
+> L37: - **CLI:** Install `eidos` to create, inspect, query, update, and serve Eidos Files.
+> L61: See the Eidos CLI guide for agent and automation workflows.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 low · 依据 README sha `f6c2ac65b525` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `4d736c13960e` · [字段定义](../../DATASET.md)*

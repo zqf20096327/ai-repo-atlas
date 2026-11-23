@@ -2,9 +2,9 @@
 
 ⭐ 1,649 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/mujoco_warp) · 组织维护
 
-**面向 NVIDIA GPU 的 MuJoCo 物理仿真加速版，服务机器人研究**
+**面向机器人研究的 GPU 加速 MuJoCo 物理仿真器**
 
-由 Google DeepMind 与 NVIDIA 作为 Newton 项目一部分维护的 GPU 加速物理仿真器，基于 NVIDIA Warp 实现 MuJoCo 的高吞吐仿真，覆盖刚体接触、软体、布料、SDF 等；要求 NVIDIA GPU 获得快速仿真，CPU 可用于开发调试。可作为 MuJoCo 的直接替代安装，也可经 MJX 用于 JAX 生态、经 Newton 接入 Isaac Lab，或配合 mjlab 用于 PyTorch 机器人研究。部分 MuJoCo 功能尚未支持（IMPLICITFAST 积分器、PGS 求解器、PLUGIN 类型等），Warp 可微性尚不可用；另含 GPU 批量渲染器。
+MuJoCo 物理仿真器的 GPU 加速实现，由 Google DeepMind 与 NVIDIA 作为 Newton 项目的一部分维护，面向机器人研究提供高吞吐仿真。支持刚体、软体、布料、符号距离场等物理系统仿真；包含面向多并行仿真世界相机渲染的 GPU 批量渲染器，可在 NVIDIA GPU 上以百万帧率级渲染场景。可作为 MuJoCo 的替代直接安装使用，亦可经 MJX（JAX）、Isaac Lab 或 mjlab（PyTorch）接入；部分 MuJoCo 特性（IMPLICITFAST、PGS、PLUGIN、可微性）尚不支持。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- GPU 加速高吞吐仿真，支持刚体/软体/布料/SDF
-- 可作为 MuJoCo 的直接替代（drop-in replacement）安装
-- GPU 批量渲染器，支持多并行世界多相机光线追踪渲染
-- 经 MJX 接入 JAX、经 Newton 接入 Isaac Lab
+- GPU 加速的高吞吐物理仿真，支持刚体/软体/布料/SDF 等系统
+- GPU 批量渲染器：mesh、纹理、高度场、高斯泼溅、多相机异构支持
+- 可作为 MuJoCo 的直接替代（drop-in replacement）使用
+- 支持经 MJX（JAX）、Isaac Lab（Newton）、mjlab（PyTorch）集成
 
 ## 适用场景
 
-- 机器人物理仿真研究的高吞吐并行环境
-- 需要大规模并行渲染多个仿真世界相机画面
-- 在 JAX/PyTorch 机器人学习工作流中使用 MuJoCo 模型
+- 机器人研究中的并行高吞吐物理仿真
+- 在 JAX 或 PyTorch 工作流中接入 MuJoCo 仿真
+- 多并行仿真世界的相机批量渲染
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L8: MJWarp is a GPU-accelerated version of the MuJoCo physics simulator, designed for NVIDIA hardware. MJWarp delivers h
-> L91: If you prefer the JAX ecosystem, you can use MJWarp via MJX. See MuJoCo Playground for robotics machine learning re
+> L97: If you prefer the JAX ecosystem, you can use MJWarp via MJX. See MuJoCo Playground for robotics machine learning re
+> L101: * Isaac Lab integrates MJWarp via Newton. This setup enables powerful, highly extensible multi-physics simulation 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c9e1e55d50f8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d22bf325e728` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 2,095 · Emacs Lisp · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/xenodium/agent-shell) · [官网](https://xenodium.com) · 个人维护
 
-**在 Emacs 缓冲区中接入多种 AI 编码 agent 的 ACP 客户端**
+**在 Emacs 中接入 24 个 ACP AI agent 的客户端**
 
-Emacs Lisp 包，通过 ACP（Agent Client Protocol）将 Claude Agent、Codex、Gemini CLI、Goose、Grok Build 等 23 个 AI agent 引入 Emacs，以原生缓冲区和快捷键交互，不做终端模拟。依赖 acp.el 与各 agent 自身的 CLI/ACP 适配器（多为 npm 全局安装或各官方安装脚本），经 MELPA 分发，另有社区开发的侧栏、队列、通知等约 25 个扩展包。
+一个 Emacs 包（MELPA 提供），基于 Agent Client Protocol（ACP）通过 acp.el 与 AI agent 通信，把 agent 会话放入 Emacs 原生 buffer 与键位绑定中，不依赖终端模拟。README 列出 24 个兼容 agent（Claude Agent、Codex、Gemini CLI、Goose 等），各 agent 需单独安装对应 CLI/适配器并加入 PATH；另有 30 余个社区扩展包及系列博客说明功能演进。安装依赖 Node 生态的 npm 全局包（如 claude-agent-acp、codex-acp）。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@ Emacs Lisp 包，通过 ACP（Agent Client Protocol）将 Claude Agent、Codex�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 支持 23 个 agent 及任何讲 ACP 的其他 agent
-- 原生 Emacs 缓冲区与快捷键交互，无终端模拟
-- 依赖 acp.el 通过 ACP 与 agent 通信
-- 周边有约 25 个社区扩展包（侧栏/队列/通知/Org 集成等）
+- 通过 ACP 协议支持 24 个 agent 及任意 ACP 兼容 agent
+- 在 Emacs 原生 buffer 中运行，无终端模拟
+- 依赖 acp.el 处理 agent 通信
+- 30 余个社区扩展包（会话管理、通知、Docker 沙箱运行等）
 
 ## 适用场景
 
-- 在 Emacs 内直接与 Claude、Codex、Gemini 等 AI 编码 agent 对话
-- 用熟悉的 Emacs 工作流运行多个 agent 会话
-- 通过社区扩展（队列/侧栏/Org 转录）组织 agent 工作流
+- 在 Emacs 工作流中直接与 Claude Agent / Codex / Gemini CLI 等 agent 交互
+- 统一界面管理多个 AI 编码 agent 会话
+- 通过社区包实现多 agent 协调、会话恢复与代码审查
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ Emacs Lisp 包，通过 ACP（Agent Client Protocol）将 Claude Agent、Codex�
 ## 证据(README 行号)
 
 > L20: =agent-shell= brings your favorite AI agents to [[https://www.gnu.org/software/emacs/][Emacs]], keeping you at home
-> L79: =agent-shell= relies on [[https://github.com/xenodium/acp.el][acp.el]] to communicate with agents via ACP ([[https:
-> L22: Works with 23 agents today, and any other that speaks ACP:
+> L22: Works with 24 agents today, and any other that speaks ACP:
+> L84: =agent-shell= relies on [[https://github.com/xenodium/acp.el][acp.el]] to communicate with agents via ACP ([[https:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `c8bf342d96c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `a88c670ed1b5` · [字段定义](../../DATASET.md)*

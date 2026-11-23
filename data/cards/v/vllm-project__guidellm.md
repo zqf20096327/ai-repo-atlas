@@ -1,10 +1,10 @@
 # vllm-project/guidellm
 
-⭐ 1,803 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vllm-project/guidellm) · [官网](https://vllm-project.github.io/guidellm/) · 组织维护
+⭐ 1,803 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vllm-project/guidellm) · [官网](https://vllm-project.github.io/guidellm/) · 组织维护 · 中文 README
 
-**面向 SLO 的 LLM 推理服务基准测试与评估平台**
+**面向工程团队的 LLM 推理服务基准评测平台**
 
-vLLM 项目下的 LLM 推理基准评测平台：模拟与 OpenAI 兼容及 vLLM 原生服务器的端到端交互，生成同步/并发/恒定速率/泊松/sweep 等流量模式，采集 TTFT、ITL、端到端延迟等 token 级统计，输出 JSON/CSV/HTML/PLOT 报告。支持 HuggingFace 数据集、本地文件与合成文本/图像/视频数据，可测聊天补全、补全、嵌入、音频转录等 API。面向工程与 ML 团队做部署调优与容量规划。以 pip 安装、源码安装及多架构容器镜像提供。
+GuideLLM 是一个评测 LLM 推理服务在真实负载下表现的基准平台：向 OpenAI 兼容或 vLLM 原生服务端发起模拟请求，生成同步、并发、速率型等多种流量模式，采集 TTFT/ITL 与端到端延迟的完整分布，并按 SLO 输出 JSON/CSV/HTML 等格式报告。支持真实数据集、HuggingFace 数据集与合成文本/图像/视频数据，带预热、冷却、过饱和检测等测量控制，以 pip 包与多架构容器镜像分发，要求 Python 3.11-3.15、Linux 或 macOS。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ vLLM 项目下的 LLM 推理基准评测平台：模拟与 OpenAI 兼容及 vLLM
 
 ## 能力要点
 
-- TTFT/ITL/端到端全分布延迟统计的 SLO 驱动评估
-- synchronous/concurrent/constant/poisson/sweep 等可复现流量模式
-- 支持 HuggingFace 数据集、本地文件及合成文本/图像/视频多模态数据
-- 输出 JSON/CSV/HTML/PLOT 标准化报告，提供 CLI 与 API
+- SLO 导向的 TTFT/ITL/端到端延迟完整分布统计
+- sweep 模式扫描最大性能与安全运行区间
+- 支持 synthetic_image/synthetic_video 合成多模态基准数据
+- 多架构容器镜像（linux/amd64 与 linux/arm64），适配 Docker/Podman/Kubernetes/OpenShift
 
 ## 适用场景
 
-- 对部署的 LLM 服务做压测，找出安全运行的速率区间
-- 比较不同推理配置下的延迟与吞吐表现
-- 为生产环境容量规划提供 SLO 依据
-- 对 VLM 视觉语言服务做合成图像/视频基准测试
+- 部署 LLM 服务前评估容量与资源需求
+- 用恒定/泊松速率负载做压测定位性能拐点
+- 跨版本回归跟踪推理服务性能变化
+- 无需自备数据集即可测试 VLM 服务配置
 
 ## 场景标签
 
@@ -38,9 +38,8 @@ vLLM 项目下的 LLM 推理基准评测平台：模拟与 OpenAI 兼容及 vLLM
 
 ## 证据(README 行号)
 
-> L3: SLO-aware Benchmarking and Evaluation Platform for Optimizing Real-World LLM Inference
-> L11: **GuideLLM** is a platform for evaluating how language models perform under real workloads and configurations. It s
-> L17: - **Captures complete latency and token-level statistics for SLO-driven evaluation**, including full distributions 
+> L13: **GuideLLM** is a platform for evaluating how language models perform under real workloads and configurations. It s
+> L23: - **Delivers high-throughput, extensible benchmarking** with multiprocessing, threading, async execution, and a fle
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2dc5efed3073` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `88d9b1ed46ca` · [字段定义](../../DATASET.md)*

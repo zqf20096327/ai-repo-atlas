@@ -4,7 +4,7 @@
 
 **开源 AI 学习平台：把学习资料转成测验、闪卡、笔记与播客**
 
-面向学生、教师与研究者的 Web 教育平台（受 NotebookLM 启发）：上传 PDF/DOCX/Markdown/TXT 后可进行文档问答、自动生成 Cornell 风格笔记、间隔重复闪卡、带讲解的测验，并用 TTS 将内容转为音频播客；另有语音转写、作业规划、模拟考试、AI 辩论与学习伴侣功能。后端为 Node.js/TypeScript，基于 LangChain，支持十余种 LLM 提供商（含本地 Ollama）与多种 TTS 引擎，通过环境变量配置提供商，支持 Docker Compose 部署。采用 CaviraOSS Community License，商用需书面许可。
+PageLM 是一个面向学生、教师与研究人员的开源教育平台，将上传的学习资料（PDF、DOCX、Markdown、TXT）转换为互动学习资源。核心机制：通过可配置的多 LLM 提供商与 TTS 引擎生成 Cornell 式笔记、间隔重复闪卡、带提示与评分的测验、音频播客，并支持文档上下文聊天、语音转录、考试模拟与 AI 辩论。后端为 Node.js + LangChain，WebSocket 流式输出，嵌入检索支持 JSON 或向量数据库。采用 CaviraOSS Community License，个人与教育用途免费，商业使用需事先书面许可。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 学习资料转化为测验、闪卡、笔记、播客等交互资源
-- 支持 Gemini/GPT/Claude/Grok/Ollama 等多种 LLM 提供商可配置切换
-- WebSocket 流式输出实时生成聊天、笔记与播客
-- 语音转写将讲课录音转为可搜索的学习材料
+- 上传文档生成测验、闪卡、Cornell 式笔记与 AI 播客
+- 支持多家 LLM 提供商与本地 Ollama，多 TTS 引擎可配置
+- WebSocket 流式实时生成聊天、笔记与播客
+- 语音转录将讲课录音转为可检索学习材料
 
 ## 适用场景
 
-- 把课件和文献上传后生成闪卡和测验来备考
-- 用 AI 播客在通勤时收听自己的学习内容
-- 对着上传的文档提问并生成结构化笔记
+- 把课件 PDF 一键转成复习测验和闪卡
+- 把笔记转成播客在路上听
+- 上传讲课录音自动整理成结构化学习资料
+- 考前用 ExamLab 模拟考试并获得反馈
 
 ## 场景标签
 
-`文档问答` `语音合成` `语音识别` · 领域:内容生成
+`语音合成` `RAG` `文档问答` · 领域:内容生成
 
 ## 证据(README 行号)
 
+> L7: **An open source AI powered education platform that transforms study materials into interactive learning experiences
 > L50: PageLM converts study material into **interactive resources** including quizzes, flashcards, structured notes, and 
-> L59: - **AI Podcast** – Convert notes and topics into engaging audio content for learning on the go
+> L51: The platform provides a modern interface for students, educators, and researchers to **enhance learning efficiency*
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2d48d277724e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1364244f361b` · [字段定义](../../DATASET.md)*

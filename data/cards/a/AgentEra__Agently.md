@@ -1,10 +1,10 @@
 # AgentEra/Agently
 
-⭐ 1,673 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/AgentEra/Agently) · [官网](http://agently.tech) · 组织维护 · 中文 README
+⭐ 1,673 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/AgentEra/Agently) · [官网](http://agently.tech) · 组织维护
 
-**面向工程化落地的 AI 应用运行时框架**
+**Python AI 应用运行时框架：构建可靠 GenAI 服务后端**
 
-Python（≥3.10）AI 应用开发框架，供从原型走向可靠服务的团队使用：以统一请求/运行时契约封装模型接入、提示槽位、结构化输出解析、重试校验、Action Runtime（含 MCP、shell/Python/Node/SQLite 执行）、运行时 Skills、TriggerFlow 事件驱动工作流（暂停/恢复/快照）与 FastAPI 服务暴露。支持切换模型不重写业务逻辑、模型池、instant 流式结构化输出。README 提供与 LangChain/LangGraph 等的定位对比。
+面向从模型原型走向可靠应用的工程团队，提供 Python 运行时框架：结构化输出契约（.output schema、字段校验、重试）、可观测 Actions 与运行时 Skills、MCP 能力、事件驱动的 TriggerFlow 工作流（支持暂停/恢复/快照）、模型池切换及 FastAPI 服务化辅助。统一 provider 设置与响应解析契约，使更换模型不需重写业务逻辑。要求 Python ≥3.10，pip 安装。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Python（≥3.10）AI 应用开发框架，供从原型走向可靠服务的团�
 
 ## 能力要点
 
-- 统一请求契约下切换模型提供方无需重写业务逻辑
-- 结构化输出由框架保证（schema 提示、重试、校验处理器）
-- TriggerFlow 事件驱动工作流支持暂停/恢复与快照
-- Action Runtime 支持 MCP、shell/Python/Node/SQLite 等可观察 Action
+- 统一请求/运行时契约，切换模型供应商无需重写业务逻辑
+- 结构化输出框架级保障：schema、ensure_keys、校验与重试
+- TriggerFlow 事件驱动工作流：fan-out、暂停/恢复、保存/加载
+- instant 流式模式在最终 token 前暴露结构化字段
 
 ## 适用场景
 
-- 构建助手、内部 copilot、知识工具等 AI 服务后端
-- 在多个模型提供方之间切换而保持业务代码稳定
-- 以事件驱动工作流管理复杂 GenAI 执行逻辑
-- 用 FastAPI 暴露流式结构化输出服务
+- 构建 AI 助手、内部 copilot 或知识类后端服务
+- 搭建需要在更换模型后保持稳定的 AI API 服务
+- 用 TriggerFlow 编排带人工介入的多步骤 GenAI 流程
+- 为复杂模型应用补充可观测性与调试能力
 
 ## 场景标签
 
-`Agent 框架` `工作流自动化` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: # Agently 4.1.4.10 - AI Application Runtime Framework
+> L3: # Agently 4.1.4.11 - AI Application Runtime Framework
 > L5: > Build AI service backends with structured outputs, observable Actions, runtime Skills, MCP capabilities, process s
-> L56: - **Model switching should not rewrite business logic** - Agently normalizes provider setup, prompt slots, response
+> L22: Agently is for teams moving from "the model can do it once" to "the application must do it reliably":
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `21a920df6920` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `69332eb9384c` · [字段定义](../../DATASET.md)*

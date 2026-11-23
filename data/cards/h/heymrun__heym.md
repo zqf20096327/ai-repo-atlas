@@ -2,9 +2,9 @@
 
 ⭐ 1,844 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/heymrun/heym) · [官网](https://heym.run) · 组织维护
 
-**自托管的 agent 系统构建与运行平台，覆盖编排/评测/人审**
+**自托管 agentic 系统编排运行时平台：构建、运行、观测与人工控制**
 
-Heym 是自托管的 agentic 系统运行时与平台：通过可视化画布或 AI 助手构建 agent 与确定性工作流，支持多 agent 编排、并行执行、重试与人工审核检查点；运行时可记录执行历史、trace、token 与模型成本，提供提示词评测与跨模型对比。系统通过 REST、SSE、MCP 工具与 Portal 聊天界面对外暴露，内置 RAG（Qdrant/pgvector）、浏览器自动化与看板式 agent 任务。本地运行需 Bun、Python 3.11+、UV 与 Docker，许可为 MIT 加 Commons Clause。
+自托管的 agent 系统运行时与平台，覆盖构建、编排、执行、观测、评估与控制全生命周期：通过可视化画布或 AI 助手生成由 agent、确定性节点、工具与数据组成的工作流图，运行时负责依赖与并行调度、执行历史记录与人工审核检查点；可观测模型请求、token、延迟与成本，支持跨模型 prompt 评测，并提供 REST/SSE/MCP 暴露方式。前置依赖 Bun、Python 3.11+、UV、Docker；许可为 MIT 附 Commons Clause 条款。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Heym 是自托管的 agentic 系统运行时与平台：通过可视化画布或
 
 ## 能力要点
 
-- 可视化画布与 AI 助手生成/编辑工作流
-- 人工审核检查点：暂停执行、保存状态、人工决策后继续
-- 执行 trace、模型成本（USD）计算与 OpenTelemetry 导出
-- 工作流可发布为 MCP 工具供 Claude、ChatGPT、Cursor 调用
+- 多 agent 编排：orchestrator 可并发调用命名的 sub-agent 与子工作流
+- RAG 知识检索支持 Qdrant 或 PostgreSQL/pgvector，并提供 per-agent 知识图谱
+- 人工审核检查点：暂停 agent 执行，人工决策后从保存快照恢复
+- 执行追踪与成本核算：token、延迟、USD 成本，可导出 OpenTelemetry
 
 ## 适用场景
 
-- 构建并编排多 agent 业务自动化流程
-- 对 agent 执行做观测、成本统计与提示词评测
-- 在自托管基础设施上运行带人工审核的 agent 系统
+- 在企业自有基础设施上部署并运维多 agent 业务流程
+- 通过人工审核检查点保持对 agent 执行的控制
+- 将工作流以 MCP 工具、REST 接口或聊天界面发布给应用与用户
+- 对 prompt 与模型做跨模型评测并追踪运行成本
 
 ## 场景标签
 
-`多智能体` `Agent 框架` `模型评测` `浏览器自动化` · 领域:Agent 开发
+`多智能体` `Agent 框架` `LLM 可观测性` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7:  Heym is a self-hosted runtime and platform for building, orchestrating, running, observing, evaluating, and control
-> L50: |**Build**|Compose agents and deterministic workflows visually, generate them with AI, or start from reusable templ
-> L54: |**Evaluate**|Test prompts and model responses against expected outputs, compare results across models, and inspect
+> L36: In Heym, a workflow defines how agents, deterministic steps, tools, and data work together. The runtime executes th
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f8a5ca855058` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `9e4c64172d83` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,308 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Nixtla/mlforecast) · [官网](https://nixtlaverse.nixtla.io/mlforecast) · 组织维护
 
-**面向机器学习模型的时间序列预测框架，支持分布式扩展**
+**面向数据科学者的机器学习时间序列预测框架**
 
-mlforecast 是一个用机器学习模型做时间序列预测的 Python 框架：将滞后特征、滞后变换、日期特征等特征工程自动化，可用任意遵循 scikit-learn API 的回归器（如 LightGBM、LinearRegression）训练数百万条时间序列，采用 .fit/.predict 语法与递归预测策略。兼容 pandas、polars、spark、dask、ray，可借助远程集群扩展到大规模数据；支持 Conformal Prediction 概率预测、外生变量与静态协变量、交叉验证与迁移学习。面向需在生产环境做大规模时序预测的开发者，通过 pip 或 conda-forge 安装。
+mlforecast 是一个用机器学习模型做时间序列预测的 Python 框架，通过滞后特征、滞后变换与日期特征等特征工程，将任何遵循 scikit-learn fit/predict 接口的回归器（示例使用 LightGBM、LinearRegression）用于拟合大规模时间序列，并支持 Dask、Ray、Spark 集群分布式训练、Conformal Prediction 概率预测区间、外生变量与静态协变量，预测采用递归策略自动更新特征。通过 PyPI 或 conda-forge 安装，文档含端到端教程与多个示例笔记本。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ mlforecast 是一个用机器学习模型做时间序列预测的 Python 框架�
 
 ## 能力要点
 
-- 自动化时序特征工程（滞后、滞后变换、日期特征、目标变换）
-- 兼容任意 sklearn API 回归器，.fit/.predict 语法
-- pandas/polars/spark/dask/ray 后端与分布式集群训练
-- Conformal Prediction 概率预测、外生变量与静态协变量支持
+- 兼容 pandas、polars、spark、dask、ray 的数据输入
+- Conformal Prediction 生成预测区间
+- 支持外生变量与静态协变量
+- 可经 Dask/Ray/Spark 集群分布式训练
 
 ## 适用场景
 
-- 用 LightGBM 等模型批量预测海量时间序列
-- 在生产环境中做端到端时序训练、评估与选型
-- 用电负荷预测等需要预测区间与峰值检测的场景
-- 用 Dask/Ray/Spark 集群扩展训练规模
+- 对海量时间序列批量训练机器学习模型做预测
+- 需要预测区间的不确定性估计场景
+- 在集群上分布式训练电力负荷等需求预测模型
 
 ## 场景标签
 
- · 领域:机器学习/时间序列预测
+ · 领域:数据科学/时间序列预测
 
 ## 证据(README 行号)
 
 > L15: **mlforecast** is a framework to perform time series forecasting using
-> L66: - Fastest implementations of feature engineering for time series
+> L70: - Probabilistic Forecasting with Conformal Prediction.
+> L106: use a Dask, Ray or Spark cluster to train models at scale.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `128c06cfc7ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b5f956302de5` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 2,831 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/datachain-ai/datachain) · [官网](https://docs.datachain.ai) · 组织维护
 
-**把 S3/GCS/Azure 文件变成版本化类型化数据集的 Python 库**
+**面向开发者的非结构化数据处理库：跨云文件构建类型化版本化数据集**
 
-面向数据工程师与 AI agent 开发者的数据处理库：将对象存储中的文件索引为带 Pydantic schema 的版本化数据集，数据不复制，只存元数据与文件指针；提供并行计算引擎、检查点恢复、增量更新、向量化查询与向量检索。附带的 agent skill 可将 Knowledge Base（markdown 数据目录）接入 Claude Code、Cursor、Codex 等编码 agent，使其理解数据集结构。Studio 云服务提供团队共享、分布式计算与 MCP 端点。本地以 pip 安装，元数据存于 SQLite。
+Python 库，用于处理 S3/GCS/Azure/本地存储中的大规模文件集合，支持对图像、视频、音频和传感器记录运行读取器与模型，并将结果保存为类型化、版本化的数据集。内置并行 worker、下载重叠与断点续跑机制，支持 delta 更新复用已有结果；元数据查询可基于标签、嵌入构建新训练选择而无需重跑处理。可安装 skill 供编码代理（Claude Code/Codex 等）在项目目录中检查保存结果并续接工作。Apache-2.0，本地使用无需账号或服务器。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- S3/GCS/Azure/本地文件索引为版本化类型化数据集，数据不搬移
-- 检查点恢复与增量更新：崩溃后从断点续跑，仅处理新增文件
-- Dataset DB 内置向量检索与亚秒级过滤/join/group_by
-- Agent skill 生成 dc-knowledge/ 目录供 Claude Code、Cursor、Codex 等 agent 读取
+- 对图像/视频/音频/传感器文件运行读取器与模型，保存为类型化版本化数据集
+- delta 更新仅处理变更文件并复用已保存结果
+- LeRobot episodes、MCAP 时间窗口、WebDataset 样本共用同一 Python API
+- 提供 skill 使编码代理可检查保存结果并在新会话续接工作
 
 ## 适用场景
 
-- 对数千万级文件做带检查点与增量更新的嵌入/标注流水线
-- 让 Claude Code 等 agent 读取数据集 schema 并生成处理管道
-- 在元数据层做向量相似度检索与结构化过滤的组合查询
+- 从机器人演示录制中筛选并整理训练数据
+- 调查模型失败案例、发现数据覆盖缺口
+- 在读取内容前用存储元数据盘点百万级对象
+- 将已保存的数据选择导出到 PyTorch 等训练工具
 
 ## 场景标签
 
-`MLOps` · 领域:训练与推理
+ · 领域:数据基础设施/MLOps
 
 ## 证据(README 行号)
 
-> L9: **A Python library that turns files in S3, GCS, and Azure into versioned, typed datasets, queryable at warehouse spe
-> L17: - **Agent Harness**: a skill that plugs all three into Claude Code, Cursor, Codex, GitHub Copilot, and Pi, so they 
-> L80: Code harnesses (Claude Code, Cursor, Codex, GitHub Copilot, Pi) give agents repo context, dedicated tools, and memo
+> L7: DataChain is a Python library for processing large file collections in S3, GCS, Azure and local storage.
+> L8: Run your readers and models over images, video, audio and sensor recordings, then save the results as typed, version
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `62663180157d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `8a19a5637b46` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,811 · JavaScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ayaka-notes/ayakaleaf-pro) · [官网](https://ayakaleaf-home.ayaka.space/) · 组织维护
 
-**自托管的 Overleaf 社区版增强版，补齐 Pro 功能与 AI 助手**
+**自托管开源 LaTeX 编辑器，替代 Overleaf 社区版并补充其专业版功能**
 
-对 Overleaf Community Edition 进行增强并自行托管部署的 LaTeX 在线编辑平台：在开源免费基础上补入接近 Pro 版的功能，包括 SSO（LDAP/SAML/OAuth 2.0）、双向 GitHub/GitLab/Dropbox 同步、修订追踪、沙箱编译、Zotero/Mendeley 集成，以及 AI 相关能力——AI 聊天助手、编译错误解释修复助手、供 AI Agent 编辑/编译/评论的 MCP Server。通过 Docker 镜像与 Toolkit 安装，另有 GitHub Codespaces Playground 试用环境。AGPLv3 许可，与 Overleaf 公司无关联。
+基于 Overleaf Community Edition 的增强分支，面向需要自托管 LaTeX 协作写作环境的用户。提供双双向 Dropbox/GitHub/GitLab/Gitea 同步、Git-Bridge、Zotero/Mendeley 集成、Track Changes、完整项目历史、沙盒编译（texlive-full 镜像）、模板系统、管理面板、LDAP/SAML/OAuth 2.0 SSO，以及 AI 聊天助手、编译错误解释修复助手和供 AI Agent 编辑编译评论的 MCP Server。支持 18 种语言界面与 Docker x86_64/arm64 部署；项目独立于 Overleaf, Inc.，采用 AGPL-3.0 许可。
 
 ## 筛选速览
 
@@ -21,25 +21,26 @@
 ## 能力要点
 
 - AI 聊天助手与编译错误解释修复助手
-- MCP Server 供 AI Agent 编辑、编译与评论文档
-- SSO（LDAP/SAML/OAuth 2.0）与 Git/GitHub/GitLab/Dropbox 双向同步
-- 沙箱编译（texlive-full 镜像）与 Docker x86_64/arm64 支持
+- MCP Server 使 AI Agent 可编辑、编译和评论项目
+- Dropbox/GitHub/GitLab/Gitea 双向同步与 Git-Bridge
+- 沙盒编译（texlive-full 镜像）与 SSO（LDAP/SAML/OAuth 2.0）
 
 ## 适用场景
 
-- 团队或机构自托管 LaTeX 协作写作平台并接入门户登录
-- 写作时用 AI 助手聊天、改稿与修复编译错误
-- 经 Git 或 Dropbox 与本地及代码托管平台同步项目
+- 为团队或学校自建 LaTeX 在线协作写作平台
+- 通过 Git 或 Dropbox 在本地与在线项目间同步稿件
+- 用 AI 助手解释和修复 LaTeX 编译错误
+- 对接 Zotero/Mendeley 管理参考文献
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+ · 领域:学术写作/文档协作工具
 
 ## 证据(README 行号)
 
-> L19: Ayakaleaf Pro is an enhanced version of Overleaf with almost all features and capabilities. For details, please che
-> L22: - MCP Server (Let AI Agents Edit, Compile and Comment)
-> L23: - AI Chat Assistant (Chat, Edit and Fix with AI)
+> L38: Ayakaleaf Pro is an enhanced version of Overleaf with almost all features and capabilities. For details, please che
+> L41: - MCP Server (Let AI Agents Edit, Compile and Comment)
+> L64: - ARM Support(x86_64/arm64 on Docker)
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9ae7fd711c56` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c27587e19d96` · [字段定义](../../DATASET.md)*

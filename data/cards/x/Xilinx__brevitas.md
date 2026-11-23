@@ -2,15 +2,15 @@
 
 ⭐ 1,601 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Xilinx/brevitas) · [官网](https://xilinx.github.io/brevitas/) · 组织维护
 
-**PyTorch 神经网络量化库，支持 PTQ 与 QAT**
+**PyTorch 神经网络量化库：支持 PTQ 与 QAT**
 
-Xilinx（AMD）名下的 PyTorch 量化研究库，支持训练后量化（PTQ）与量化感知训练（QAT）。在 brevitas.nn 下提供常见层的量化实现（QuantConv2d、QuantLSTM、QuantMultiheadAttention 等），输入、权重、偏置、输出等各类张量的量化可分别按位宽、缩放粒度等参数调优；并提供 ImageNet 分类模型 PTQ 示例流程。README 声明这是研究项目而非官方 Xilinx 产品。要求 Python>=3.10、PyTorch 1.13–2.13，GPU 加速为可选项。
+面向 PyTorch 的神经网络量化库，同时支持训练后量化（PTQ）与量化感知训练（QAT）。在 brevitas.nn 下提供 QuantConv2d、QuantMultiheadAttention、QuantLSTM 等常见层的量化实现，可对输入、权重、偏置、输出等张量逐项配置量化参数（位宽、scale 粒度等），并附 ImageNet 分类模型的 PTQ 示例流程。面向需要量化模型的研究与开发人员，声明为研究项目而非 Xilinx 官方产品。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@ Xilinx（AMD）名下的 PyTorch 量化研究库，支持训练后量化（PTQ�
 
 ## 能力要点
 
+- 提供常见 PyTorch 层的量化实现（QuantConv2d、QuantRNN、QuantLSTM 等）
 - 支持 PTQ 与 QAT 两种量化路径
-- 提供 QuantConv/QuantRNN/QuantLSTM 等常见层量化实现
-- 各张量（输入/权重/偏置/输出）量化行为可逐项配置
-- 附 ImageNet 分类 PTQ 参考流程（brevitas_examples）
+- 量化张量可逐项配置（位宽、scale 粒度等）
+- 附 ImageNet 分类 PTQ 示例流程
 
 ## 适用场景
 
-- 压缩 PyTorch 模型以部署到 FPGA 等量化友好硬件
-- 通过量化感知训练在保持精度的同时降低模型位宽
-- 实验不同位宽与缩放粒度配置下的 PTQ 效果
+- 把训练好的 torchvision 模型做训练后量化
+- 训练中以量化感知方式得到可部署的量化模型
+- 为 FPGA 等硬件部署准备低比特神经网络
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7d4bcf4189be` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `47e3d79ad86b` · [字段定义](../../DATASET.md)*

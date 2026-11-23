@@ -2,9 +2,9 @@
 
 ⭐ 2,077 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/stripe/ai) · [官网](https://docs.stripe.com/agents) · 组织维护
 
-**Stripe 官方 AI 集成集合：SDK、MCP 服务与 agent 技能**
+**为开发者提供在 Stripe 上构建 AI 产品的 agent 插件与技能**
 
-Stripe 维护的 AI 集成仓库：提供 @stripe/ai-sdk（将 Stripe 计费接入 Vercel 的 ai/@ai-sdk 库）与 @stripe/token-meter（将计费接入 OpenAI、Anthropic、Google Gemini 原生 SDK，无框架依赖）；托管远程 MCP 服务器 mcp.stripe.com，支持 OAuth 安全访问；另提供 agent 技能集合及面向 Claude Code、Codex、Cursor、Grok Build 的官方插件安装命令。面向在 AI 产品中接入 Stripe 计费的开发者，MIT 许可。
+Stripe 官方维护的仓库，包含 agent 插件、agent skills 与基准，用于在 Stripe 之上构建 AI 驱动的产品与业务。Stripe 托管远程 MCP 服务器（mcp.stripe.com），支持 OAuth 的 MCP 客户端访问，并可用于构建自主 agent。提供面向 Claude Code、Codex、Cursor、Grok Build、Gemini 等 agent 宿主的官方插件安装命令，以及通过 npx 的手动技能安装方式。旧版 npm 包（agent-toolkit/mcp/ai-sdk/token-meter）已弃用，仅保留源码供参考。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Stripe 维护的 AI 集成仓库：提供 @stripe/ai-sdk（将 Stripe 计费接�
 
 ## 能力要点
 
-- @stripe/ai-sdk 对接 Vercel ai/@ai-sdk 库
-- @stripe/token-meter 对接 OpenAI/Anthropic/Gemini 原生 SDK
-- 托管远程 MCP 服务器（OAuth 访问）
-- 面向 4 种 agent 客户端的官方插件安装命令
+- 托管远程 MCP 服务器，OAuth 安全接入
+- 面向 Claude Code/Codex/Cursor/Grok Build/Gemini 的官方插件
+- 提供 agent skills 集合与手动安装途径
+- 旧包已弃用并给出迁移联系方式
 
 ## 适用场景
 
-- 给 LLM 应用按 token 用量做 Stripe 计费
-- 通过 MCP 让 agent 安全访问 Stripe 功能
-- 为 Claude Code/Cursor 等工具安装 Stripe agent 技能
+- 让 agent 在开发中按 Stripe 最佳实践集成支付
+- 通过 MCP 将 Stripe 接入自主 agent
+- 为团队统一安装 Stripe agent 插件
 
 ## 场景标签
 
- · 领域:支付/LLM 基础设施
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L7: It contains a collection of SDKs to help you integrate Stripe with LLMs and agent frameworks, including:
-> L9: * `@stripe/ai-sdk` - for integrating Stripe's billing infrastructure with Vercel's `ai` and `@ai-sdk` libraries.
-> L10: * `@stripe/token-meter` - for integrating Stripe's billing infrastructure with native SDKs from OpenAI, Anthropic, 
+> L5: This repository contains Stripe agent plugins and skills, and benchmarks for building AI-powered products and busine
+> L20: Stripe hosts a remote MCP server at `https://mcp.stripe.com`. This allows secure MCP client access via OAuth. View 
+> L26: Agent skills are instructions that agents can use to build faster and more accurately. Stripe offers a collection o
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c56af36dd7d4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `8d92ca353ddb` · [字段定义](../../DATASET.md)*

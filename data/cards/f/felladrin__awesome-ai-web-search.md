@@ -1,10 +1,10 @@
 # felladrin/awesome-ai-web-search
 
-⭐ 1,521 · HTML · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/felladrin/awesome-ai-web-search) · [官网](https://hf.co/spaces/felladrin/awesome-ai-web-search) · 个人维护 · 中文 README
+⭐ 1,521 · HTML · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/felladrin/awesome-ai-web-search) · [官网](https://hf.co/spaces/felladrin/awesome-ai-web-search) · 个人维护
 
-**AI 网络搜索软件策展清单：按时间线收录开源与闭源产品**
+**AI 网页搜索软件的策展清单：开源/闭源/搜索 API 三表**
 
-由个人维护的 awesome 清单，收录 LLM 与网络搜索结合的软件，按三条时间线组织：开源软件（含首次提交日期与预览链接，2021-2025 共 70 余项）、闭源产品（按上线日期排列，含 Perplexity、Kimi、ChatGPT Search 等）、面向 AI Agent 的网络搜索 API 与 MCP 服务（SearXNG、Tavily、Exa 等）。收录范围限于通用网页搜索，领域专用搜索 API 不在范围内。清单本身托管于 Hugging Face Spaces。
+聚焦 LLM 与网页搜索结合的软件清单，按时间线组织为三部分：开源软件（Khoj、Perplexica、Morphic 等约 70 条，附 Demo/截图链接）、闭源服务（Perplexity、Kimi 等约 50 条）、可接入 AI Agent 的网页搜索 API 与 MCP 构件（SearXNG、Tavily、Exa 等），并注明限定通用搜索、排除学术/代码等领域专用搜索。清单托管于 Hugging Face Space。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 开源/闭源/Agent 工具三类时间线组织，共 170 余条目
-- 开源条目附首次提交日期与 Demo/截图等预览链接
-- 单独收录可接入 AI Agent 的搜索 API 与 MCP 服务
+- 开源软件时间线表约 70 条，附 Demo/截图/主页链接
+- 闭源 AI 搜索服务表约 50 条按上线日期排列
+- 面向 AI Agent 的搜索 API/MCP 构件专表
+- 声明范围为通用网页搜索，排除领域专用搜索 API
 
 ## 适用场景
 
-- 寻找可自托管的开源 AI 搜索引擎项目
-- 了解 AI 网络搜索产品的上线时间线
-- 为自建 AI Agent 挑选网页搜索 API
+- 查找支持 LLM 网页搜索的开源软件并直达演示
+- 为自建 AI Agent 挑选可接入的网页搜索 API
+- 按时间线了解 AI 搜索产品的发展脉络
 
 ## 场景标签
 
@@ -38,6 +39,7 @@
 
 > L3: A curated list of AI-powered web search software, focusing on the intersection of Large Language Models (LLMs) and w
 > L5: The list is organized as a timeline, containing software that support the following use cases:
+> L146: Web-search APIs you can wire into your own AI agents by pointing the agent at the API docs, or via an MCP server w
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `82f4ce7b2ada` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5e87eb0e2b0a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,766 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/bespokelabsai/curator) · [官网](https://docs.bespokelabs.ai/bespoke-curator) · 组织维护 · 中文 README
 
-**面向后训练的合成数据生成与批量推理 Python 库**
+**面向后训练数据准备的开发者库：批量推理与合成数据生产**
 
-Bespoke Labs 维护的 Python 库，用于构建合成数据流水线与结构化数据提取：通过继承 curator.LLM 定义 prompt/parse 方法批量调用 LLM，输出 HuggingFace Dataset；内置异步、缓存、重试与故障恢复优化，支持结构化输出、batch 模式（OpenAI/Anthropic 等）、多后端（OpenAI 兼容、LiteLLM、Ollama、vLLM、kluster.ai），并集成 Tinker 与 Fireworks AI 做托管 LoRA 微调。以 pip 包分发，带查看器监控数据生成过程。限制：需外部 LLM API key；Ollama 后端需本地服务运行。
+Bespoke Curator 是一个 Python 库，用于构建合成数据管道与结构化数据提取：开发者定义 prompt 与 parse 函数，库以异步批量推理生成数据并输出 HuggingFace Dataset。内置缓存、重试与故障恢复，支持 OpenAI/Anthropic 批处理 API 降低成本；通过 LiteLLM、vLLM、Ollama 等后端接入多种模型，并提供 Tinker、Fireworks AI 的 LoRA 微调训练器接口。安装为 pip 包，需自行设置所调模型的环境变量 API key。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Bespoke Labs 维护的 Python 库，用于构建合成数据流水线与结构�
 
 ## 能力要点
 
-- 批量推理与合成数据流水线库，输出 HuggingFace Dataset
-- 内置异步、缓存、重试与故障恢复优化
-- 支持 OpenAI/LiteLLM/Ollama/vLLM/kluster.ai 等多种后端
-- Tinker 与 Fireworks AI 托管 LoRA 微调集成
+- curator.LLM 块式接口做批量推理与结构化输出，可直接转 HuggingFace Dataset
+- 支持 OpenAI/Anthropic 等批量 API（batch 模式）以降低 token 成本
+- 通过 LiteLLM、vLLM、Ollama、DeepSeek、kluster.ai 等后端接入多种模型
+- TinkerTrainer/FireworksTrainer 统一接口，从数据到 LoRA 微调，支持 checkpoint 恢复
 
 ## 适用场景
 
-- 为模型微调/蒸馏生成训练数据集
-- 批量调用 LLM 做结构化数据提取
-- 生成后接 LoRA 微调的端到端流水线
+- 为微调/蒸馏生成推理类合成数据集
+- 从文本中批量提取结构化字段（如情感分析、特征抽取）
+- 大预算下用 batch API 降低大规模数据生成成本
+- 用本地 Ollama 或 vLLM 模型做离线数据生产
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Bespoke Labs 维护的 Python 库，用于构建合成数据流水线与结构�
 
 ## 证据(README 行号)
 
-> L8:  Bulk Inference and Scalable Data Curation for Post-Training
 > L34: Bespoke Curator makes it easy to create synthetic data pipelines. Whether you are training a model or extracting st
-> L36: * Rich Python based library for generating and curating synthetic data.
+> L39: * Support for a wide range of inference options via LiteLLM, vLLM, and popular batch APIs.
+> L238: Curator integrates with the Tinker SDK so you can go from curated data to a LoRA fine-tuned model in a few lines o
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9c99320b7b05` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `39b3c674d014` · [字段定义](../../DATASET.md)*

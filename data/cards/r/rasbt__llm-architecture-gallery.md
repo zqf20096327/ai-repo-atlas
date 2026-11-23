@@ -2,9 +2,9 @@
 
 ⭐ 1,610 · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/rasbt/llm-architecture-gallery) · [官网](https://sebastianraschka.com/llm-architecture-gallery/) · 个人维护
 
-**LLM Architecture Gallery 的模型元数据源数据仓库**
+**LLM 架构图集的元数据公开快照库**
 
-存放 LLM Architecture Gallery（sebastianraschka.com 在线画廊）的源模型元数据。仓库定位为画廊元数据的轻量公开数据导出，而非完整网站实现；用户可通过该数据了解各 LLM 的架构信息，或在 Live gallery 中浏览。README 本身仅说明仓库用途与定位，未提供安装或使用命令。
+这是 Sebastian Raschka 维护的 LLM Architecture Gallery 的公开数据导出仓库：每季度更新一次图集元数据快照，交互式图集网站本身独立托管在作者个人站点并免费开放。每周元数据导出与架构图片 ZIP 打包仅面向其付费订阅（Ahead of AI）订阅者，订阅用于支持图集的持续维护。仓库定位为轻量级公开数据导出，而非完整网站实现。
 
 ## 筛选速览
 
@@ -20,14 +20,14 @@
 
 ## 能力要点
 
-- 提供画廊源模型元数据的公开数据导出
-- 配套在线画廊 sebastianraschka.com/llm-architecture-gallery
-- 定位为轻量数据导出，不含完整网站实现
+- 每季度更新的图集元数据公开快照
+- 交互式图集网站免费公开并可在线访问
+- 每周导出与图片 ZIP 作为订阅者福利提供
 
 ## 适用场景
 
-- 获取各 LLM 架构元数据用于查阅或分析
-- 浏览在线画廊了解不同 LLM 的架构设计
+- 在线浏览 LLM 架构图集
+- 获取图集元数据的公开快照数据
 
 ## 场景标签
 
@@ -35,8 +35,8 @@
 
 ## 证据(README 行号)
 
-> L3: This repository contains the source model metadata for the LLM Architecture Gallery.
-> L17: This repository is intended as a lightweight public data export of the gallery metadata rather than the full websit
+> L3: This repository contains a public snapshot of the LLM Architecture Gallery metadata, updated quarterly.
+> L21: This repository is intended as a lightweight public data export of the gallery metadata rather than the full websit
 
 ## 星数曲线
 
@@ -52,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `63d1f86fffab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `30f7ff565e78` · [字段定义](../../DATASET.md)*

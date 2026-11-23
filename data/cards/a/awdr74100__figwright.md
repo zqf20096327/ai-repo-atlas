@@ -1,10 +1,10 @@
 # awdr74100/figwright
 
-⭐ 1,497 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/awdr74100/figwright) · 个人维护
+⭐ 1,497 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/awdr74100/figwright)
 
-**给编码 agent 的双向 Figma MCP 服务器：设计转代码、代码回写画布**
+**双向 Figma MCP 服务器：设计转代码、代码回写画布**
 
-Figwright 是一个 MCP 服务器，通过本地 WebSocket 中继连接一个 Figma 插件，使 Claude Code、Cursor、Codex 等 MCP 客户端里的 AI agent 能读取 Figma 选区生成贴合项目技术栈的代码，并反向在画布上创建/编辑帧、文本、自动布局、组件、动效等。共暴露 125 个 MCP 工具，含设计上下文接地与 design_diff；配合可安装的 agent skills 使用。需要 Node.js 20.19+/22.12+ 与 Figma 免费版桌面端，全部在本机运行，数据不外发。限制：插件暂未上架 Figma Community，需从 GitHub Release 手动导入。
+通过本地 WebSocket 中继连接 MCP 服务器与 Figma 插件，让 Claude Code、Cursor、Codex 等 MCP 客户端读写 Figma 画布：读取方向将选区转为贴合项目框架与样式体系的代码，写入方向支持直接创建编辑 frame、文本、auto-layout、组件、变量等，共 147 个工具。提供两个可安装的 agent skills。全部进程在本机运行，免费 Figma 档即可使用，不需要付费 Dev Mode 席位。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Figwright 是一个 MCP 服务器，通过本地 WebSocket 中继连接一个 Fi
 
 ## 能力要点
 
-- 125 个 MCP 工具，覆盖读取与写入 Figma 画布
-- 双向工作流：Figma 选区转框架感知代码 / 从代码或描述构建设计
-- 检测项目实际技术栈并复用已有组件、tokens、图标
-- 完全本机运行（stdio + 127.0.0.1 WebSocket），设计数据不外发
+- 双向 147 个 MCP 工具，覆盖读取与写入画布
+- 读取选区生成感知框架与样式体系的代码
+- 多 agent 各占用一个文件并行工作
+- 本机运行，设计数据不外发
 
 ## 适用场景
 
-- 让编码 agent 把选中的 Figma 设计转成贴合我项目栈的组件
-- 用 agent 直接在 Figma 画布上搭建界面
-- 设计变更后只更新受影响的代码（design_diff）
+- 把 Figma 设计稿转成 React 等框架组件代码
+- 在 Figma 画布上直接搭建页面或定价区块
+- 复用现有代码库的组件、tokens 与图标
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ Figwright 是一个 MCP 服务器，通过本地 WebSocket 中继连接一个 Fi
 
 ## 证据(README 行号)
 
+> L3:  A free, two-way Figma MCP server for coding agents.
 > L17: Figwright connects an **MCP server** to a **Figma plugin** over a local WebSocket relay, so an AI agent (Claude Cod
-> L106: Figwright exposes **125 MCP tools** in three groups:
+> L34: - **Bidirectional**: not read-only. **147 tools** span reading _and_ writing the canvas, so an agent can both imple
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `596d29b1a202` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d830cb970e21` · [字段定义](../../DATASET.md)*

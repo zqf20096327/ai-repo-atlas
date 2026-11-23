@@ -2,9 +2,9 @@
 
 ⭐ 1,346 · 推送 2026-11-21 · [GitHub](https://github.com/valeman/awesome-conformal-prediction) · 个人维护
 
-**共形预测（Conformal Prediction）资源策展清单：教程/书籍/论文/课程**
+**共形预测（Conformal Prediction）资源的策展清单**
 
-由 Dr. Valeriy Manokhin（Vladimir Vovk 指导下的机器学习博士）维护的共形预测主题 awesome 清单，收录视频、教程、书籍、论文、硕博论文、文章与开源库，主题覆盖预测区间、不确定性量化、模型校准、LLM 不确定性、时间序列与异常检测。README 附共形预测方法简介（校准集与非一致性分数分位数构造预测集）、基于 crepes 的最小代码示例与可运行 notebook，并推广作者本人的付费课程与两版书籍（Gumroad 发售）。资源按🔥分级标注，内容声称定期更新至 2025–2026。
+由 Valery Manokhin（PhD）维护的共形预测资源指南，收录教程、研究论文、Python/R 库与可运行示例，覆盖预测区间、分类集合、时间序列预测、异常检测与 LLM 不确定性等主题。条目按重要性编排，作者本人的书籍、课程与资源置于各节开头；🔥 标注经审阅的核心参考文献，🕒 标注时间序列资源，并附 Quickstart 笔记本演示回归与分类的校准流程。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | — |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录教程、课程、书籍、文章等多类型共形预测资源并按热度分级
-- README 含共形预测方法说明（校准集、非一致性分数、1−α 分位数）
-- 提供基于 crepes 库的最小可运行示例与 examples/ 目录 notebook
-- 覆盖 LLM 不确定性、时间序列、异常检测等应用主题
+- 覆盖教程、论文、书籍、硕博论文与开源库的资源聚合
+- 🔥/🕒 标记核心参考文献与时间序列资源
+- 附 NumPy/scikit-learn 可运行 Quickstart 笔记本
+- 收录 Python 与 R 共形预测库清单
 
 ## 适用场景
 
-- 系统性学习共形预测方法并找到入门路径
-- 查找共形预测的开源库与实践文章
-- 为不确定性量化和模型校准需求定位教程与书籍
+- 查找共形预测的入门教程与核心论文
+- 为机器学习模型的不确定性量化选库
+- 了解 LLM 与视觉等领域的共形预测最新研究
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: # Conformal Prediction: The Definitive Resource Awesome DOI
-> L5: ⭐ **The definitive resource for conformal prediction: methods, libraries, tutorials, benchmarks, and production guid
-> L75: This collection is curated by **Dr. Valeriy Manokhin**, who completed his PhD in Machine Learning under the supervi
+> L1: # Awesome Conformal Prediction
+> L11: A curated guide to **conformal prediction**, also known as conformal inference. Find tutorials, research papers, Py
+> L78: ## Table of Contents
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `231afa4d1230` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `f96a01df6f51` · [字段定义](../../DATASET.md)*

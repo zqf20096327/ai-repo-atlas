@@ -2,9 +2,9 @@
 
 ⭐ 2,116 · Vue · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/zhimaAi/chatwiki) · [官网](https://chatwiki.ai) · 组织维护 · 中文 README
 
-**面向微信生态的 AI 知识库与工作流 Agent 平台**
+**面向微信公众号生态的 AI 知识库工作流 Agent 平台**
 
-ChatWiki 是聚焦微信公众号生态的工作流自动化平台：通过拖拽编排对话式工作流、插件工作流与 Agent 模式，整合公众号私信/评论/关注等触发场景，实现文章改写、AI 评论回复、私信自动应答。内置文档知识库（AI 分段、知识图谱、混合向量检索）、QA 知识库与人工客服转接，支持 20+ 主流模型接入，可发布为 WebApp、嵌入网站或公众号。社区版用 Docker 部署，技术栈为 vue.js + golang/python + PostgreSQL16/pgvector；另提供企业版/旗舰版云服务。
+ChatWiki 是一个聚焦微信生态的工作流自动化平台，通过拖拽方式将公众号变为 AI Agent，支持私聊自动回复、评论 AI 回复、文章一键改写等场景。核心机制包括：可视化工作流编排（含 MCP 双向接入与 Agent 模式）、文档与 QA 知识库（URL 读取、批量导入、混合检索）、机器人与人工客服协作。提供 Docker 部署的社区版，技术栈为 Vue.js 前端与 Golang+Python 后端，PostgreSQL16+pgvector 作向量与全文检索存储。更新日志中区分 [STD] 标注与社区版条目。
 
 ## 筛选速览
 
@@ -13,32 +13,34 @@ ChatWiki 是聚焦微信公众号生态的工作流自动化平台：通过拖�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 公众号私信/评论/关注等触发场景的拖拽式工作流编排
-- 文档知识库支持 AI 分段、知识图谱、混合向量检索
-- 支持 20+ 主流模型（DeepSeek R1、doubao pro、qwen max、OpenAI、Claude 等）
-- 双向 MCP 集成与完整 OpenAPI 接口
+- 拖拽式工作流编排，含基础节点、双向 MCP、Agent 模式与用户交互
+- 文档/QA 知识库：URL 读取、批量导入、AI 分段、父子分段、混合检索
+- 支持 20+ 主流模型接入（DeepSeek R1、doubao pro、qwen max、OpenAI、Claude 等）
+- 多种部署与发布形态：桌面客户端、WebApp、网站与公众号嵌入
 
 ## 适用场景
 
-- 让微信公众号自动回复私信与评论，运营 AI 客服
-- 抓取公众号文章一键构建知识库做问答
-- 编排工作流生成与发布公众号文章
+- 为微信公众号搭建自动回复与 AI 客服机器人
+- 从公众号文章抓取素材一键构建知识库
+- 用可视化工作流编排内容生成与发布流程
+- 机器人处理常见咨询、复杂问题转人工协作
 
 ## 场景标签
 
-`工作流自动化` `RAG` `文档问答` · 领域:效率与自动化
+`工作流自动化` `RAG` `聊天机器人` `AI 写作` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L10: ChatWiki is a workflow automation platform focused on the WeChat ecosystem, dedicated to making every official acco
 > L33: - **Workflow Orchestration**: Conversational workflows, plugin workflows, including basic workflow nodes, bidirecti
+> L45: - **Model Support**: Supports over 20 mainstream global models, including DeepSeek R1, doubao pro, qwen max, OpenAI
+> L69: ChatWiki Community Edition is deployed using Docker and can be installed in just a few simple steps:
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7d2b6997dea8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0db4253c5737` · [字段定义](../../DATASET.md)*

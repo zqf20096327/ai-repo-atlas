@@ -2,9 +2,9 @@
 
 ⭐ 2,275 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/atomicstrata/llm-wiki-compiler) · [官网](https://llmwiki.atomicstrata.ai) · 个人维护
 
-**将原始资料编译为带引用的互联 wiki 的知识编译器**
+**把原始资料编译为可引用、可复用的互联 wiki 知识库的 CLI**
 
-面向需要持久化知识库的开发者与 agent 使用场景：llmwiki 以两阶段 LLM 流水线从论文、笔记、PDF、网页等原始资料抽取概念并生成带类型与引用的 wiki 页面，实现 Karpathy 的 LLM Wiki 模式——把查询期工作移到编译期。提供配置化的生命周期 Profile、混合检索（语义+BM25+wikilink 图扩展）、本地只读浏览器、lint/eval 健康检查、MCP server 与 TypeScript SDK，支持 OKF/JSON/JSON-LD 等多种导出。限制：不作为通用静态站点生成器或快速变化日志的临时搜索替代。
+实现 Karpathy 所述 LLM Wiki 模式的编译器：通过两阶段 LLM 流水线把论文、笔记、README、转录、PDF、网页等源文件一次性编译为带类型页面（concept/entity/comparison/overview）和源引用的 markdown wiki，查询时直接消费已编译产物而非重复检索原始分块。面向需要持久知识库的开发者与 agent 用户，提供 CLI、本地查看器、MCP server、TypeScript SDK 四种入口；通过 .llmwiki/profile.json 声明实体 schema、生命周期状态机与信任门，由运行时强制执行；内置审查队列、新鲜度修复与健康度评估。不适合当通用静态站点生成器或重型本体数据库。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 两阶段 LLM 流水线生成 concept/entity/comparison/overview 类型页面，段落与声明引用源文件及行号
-- 混合检索（语义块搜索+BM25 重排+wikilink 图扩展）构建证据包
-- MCP server（llmwiki serve）暴露 ingest/compile/query/lint/eval/context-pack 等工具
-- 签名模板分发（Ed25519 签名、密钥轮换、撤销）与 OKF 导入导出
+- 两阶段 LLM 流水线生成带段落级源引用的 typed wiki 页面
+- 混合检索：语义分块搜索 + BM25 重排 + wikilink 图扩展生成证据包
+- MCP server 向兼容 agent 暴露 ingest/compile/query/context-pack 等工具
+- CLP 生命周期配置：实体 schema、审查门与工作流由运行时强制、fail-closed
 
 ## 适用场景
 
-- 把研究论文、笔记、README 编译成可复用、可审计的知识库
-- 为 agent 提供带引用的稳定上下文包而非散落文件
-- 建立带评审队列、新鲜度检查与质量门的知识生产流程
+- 把一批论文和实验笔记编译成可查询、可审查的领域知识库
+- 给 agent 提供带引用的稳定上下文包而非散乱原始文件
+- 通过审查队列保持 AI 生成知识页的可审计与新鲜度
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L52: Compile raw sources into an interlinked, citation-traceable markdown wiki that agents and humans can browse, query,
-> L80: - **MCP server.** `llmwiki serve` exposes ingest, compile, query, lint, read, status, eval, context-pack, and OKF e
-> L117: The key shift is moving work from query time to compile time. Traditional RAG repeatedly retrieves raw chunks and 
+> L68: - Give agents a stable, citation-aware context pack instead of a pile of loose files.
+> L87: - **MCP server.** `llmwiki serve` exposes ingest, compile, query, lint, read, status, eval, context-pack, and OKF e
+> L88: - **SDK.** `createWiki({ root })` drives ingest, compile, query, context, status, export, eval, and OKF import/expo
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3091f75f3feb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `0a84b7beacd4` · [字段定义](../../DATASET.md)*

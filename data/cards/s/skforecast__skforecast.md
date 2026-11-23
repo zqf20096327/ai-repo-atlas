@@ -1,10 +1,10 @@
 # skforecast/skforecast
 
-⭐ 1,551 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/skforecast/skforecast) · [官网](https://skforecast.org) · 组织维护
+⭐ 1,551 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/skforecast/skforecast) · [官网](https://skforecast.org) · 组织维护 · 中文 README
 
-**Python 时间序列预测库：统一 API 训练/回测机器学习与统计模型**
+**时间序列预测 Python 库：统一接口训练、评估与部署预测模型**
 
-面向数据科学与生产环境的时间序列预测 Python 库：以统一 API 封装任意 scikit-learn 兼容回归器（LightGBM/XGBoost/CatBoost）、ARIMA/SARIMAX/ETS 等统计模型、Keras RNN/LSTM，以及 Chronos-2、TimesFM、Moirai-2、TabPFN-TS 等预训练基础模型的零样本预测。提供回测（含重训练/间隔/滑动窗口）、概率预测、Optuna 调参、全局多序列建模与特征工程。附带 skforecast-ai 助手、MCP server 与无代码 Studio。BSD-3-Clause 许可，NumFOCUS 附属项目。
+面向数据科学与工程团队的时间序列预测库，统一封装四类模型：scikit-learn 兼容回归器（LightGBM/XGBoost/CatBoost）、预训练基础模型（Chronos-2、TimesFM 等零样本预测）、统计模型（ARIMA/SARIMAX/ETS）与 Keras 深度学习模型。核心机制包括递归/直接多步预测策略、多序列全局模型、回测、概率预测（conformal prediction/分位数）、Optuna 调参与漂移监测。经 pip/conda 安装，另提供 MCP server 与无代码工具 Skforecast Studio。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 统一 API 覆盖机器学习/统计/深度学习/基础模型四类预测器
-- 回测支持重训练、间隔、fold 步长与固定/扩展窗口
-- 概率预测（bootstrapping/conformal/分位数）与 CRPS 评估
-- 附带 MCP server、Claude Code 插件与 llms.txt 供 AI 助手生成代码
+- 统一 API 覆盖机器学习、统计、深度学习与基础模型四类预测方法
+- 回测机制支持 refit、gap、固定/扩展窗口等生产场景模拟
+- 概率预测含 bootstrapping、conformal prediction 与 CRPS 评估
+- 发布 llms.txt、Claude Code 插件与 MCP server 供 AI 辅助编码
 
 ## 适用场景
 
-- 用 LightGBM/XGBoost 等回归器做单序列或多序列时间序列预测
-- 在真实使用方式下回测与调参，评估模型上线表现
-- 零样本调用 Chronos-2/TimesFM 等预训练基础模型做预测
-- 让编码 agent 通过 MCP 或插件用自然语言生成预测脚本
+- 为单条或多条时间序列训练并回测预测模型
+- 用 Chronos-2 等基础模型零样本生成预测
+- 带外生变量（温度、节假日）的电力需求等业务预测
+- 通过自然语言让 coding agent 产出预测脚本与回测指标
 
 ## 场景标签
 
@@ -39,7 +39,8 @@
 ## 证据(README 行号)
 
 > L12: **Time series forecasting, from prototype to production.** Skforecast is a Python library for time series forecasti
-> L49: - **Foundation models**: zero-shot forecasting with pre-trained models such as Chronos-2, TimesFM, Moirai-2 or TabP
+> L48: - **Machine learning**: any scikit-learn compatible regressor, such as LightGBM, XGBoost or CatBoost, with lags, ro
+> L53: Train, predict, tune and backtest the same way, whatever the model: see them compared on three datasets.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `1080da27ce2c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `2e9c566e450d` · [字段定义](../../DATASET.md)*

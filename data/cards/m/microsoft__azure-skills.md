@@ -1,10 +1,10 @@
 # microsoft/azure-skills
 
-⭐ 1,666 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/azure-skills) · 组织维护 · 中文 README
+⭐ 1,666 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/azure-skills) · 组织维护
 
-**微软官方 Azure 技能插件：给编码 agent 提供 Azure 知识与 MCP 工具**
+**为编码 Agent 提供 Azure 技能与 MCP 服务器配置的插件**
 
-面向兼容编码 agent 的插件包，由三层组成：策展的 Azure 技能（准备/验证/部署/诊断/成本/RBAC 等工作流与守则）、Azure MCP Server（覆盖 40+ Azure 服务的 200+ 结构化工具）以及面向 Microsoft Foundry 的 Foundry MCP。支持通过 APM、GitHub Copilot CLI、VS Code、Claude Code、Gemini CLI、Cursor、Codex、IntelliJ IDEA 等多种宿主安装，另支持 Azure China Cloud 与 Azure US Government 主权云配置。前置要求包括 Azure 订阅、Node.js 18+、Azure CLI 登录。
+微软官方发布的 Agent 插件，包含三层内容：Azure 技能层（azure-prepare/azure-deploy/azure-diagnostics/azure-cost 等，提供工作流、决策树与守则）、Azure MCP Server（覆盖 40+ Azure 服务的 200+ 结构化工具）以及面向 Microsoft Foundry 场景的 Foundry MCP。插件支持多宿主安装，包括 GitHub Copilot CLI、VS Code、Claude Code、Gemini CLI、Cursor、Codex CLI 与 IntelliJ IDEA，并提供主权云（Azure 中国/美国政府云）配置说明。安装前提包括 Node.js 18+、Azure CLI 及 azd 认证。
 
 ## 筛选速览
 
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- 三层能力：Azure 技能 + Azure MCP Server（200+ 工具/40+ 服务）+ Foundry MCP
-- 多宿主支持：Copilot CLI/VS Code/Claude Code/Gemini CLI/Cursor/Codex/IntelliJ
-- APM 单命令跨环境安装（apm install）
-- 主权云（Azure China / US Government）配置支持
+- 打包 200+ Azure 技能与 Azure MCP Server 的 200+ 结构化工具
+- 多宿主支持：Copilot、Claude Code、Cursor、Gemini CLI、Codex、IntelliJ
+- 包含 Foundry MCP 用于模型发现、部署与 Agent 工作流
+- 提供主权云（Azure China Cloud / US Government）配置路径
 
 ## 适用场景
 
-- 让编码 agent 按 Azure 工作流准备、验证并部署应用
-- 通过对话查询 Azure 资源、成本与诊断信息
-- 在 agent 内完成 Microsoft Foundry 模型发现与部署
-- 国内 Azure China Cloud 环境下接入 agent 工具链
+- 让编码 Agent 执行真实的 Azure 部署、验证与诊断操作
+- 查询 Azure 资源、价格、日志与配额等实时信息
+- 在 Microsoft Foundry 中进行模型发现与部署
+- 为 Azure 中国云或美国政府云环境配置 Agent 工具链
 
 ## 场景标签
 
- · 领域:云开发/AI agent 工具
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `62cd67dd24a2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ab45abee2832` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,861 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/kwaroran/Risuai) · [官网](https://risuai.net) · 个人维护
 
-**面向终端用户的跨平台 LLM 角色扮演聊天软件**
+**面向用户的跨平台 LLM 角色扮演聊天应用**
 
-基于 Svelte/TypeScript/Tauri 的跨平台 AI 聊天软件与 Web 应用，用于 LLM 角色扮演。支持 OpenAI、Claude、Gemini、OpenRouter 等多种 API 接入；提供群聊多角色、情绪图片、正则脚本改写输出、Lorebook 世界书、TTS、自动翻译、HypaMemoryV2/V3 与 SupaMemory 长期记忆、插件扩展等功能。通过官网或 GitHub Releases 安装，也可用 Docker 自托管 Web 版访问 localhost:6001；开发需 Node.js 20.19+/22.12+ 与 pnpm。
+基于 Svelte/TypeScript/Tauri/Vite/Tailwind 的跨平台 AI 聊天软件与 Web 应用，面向进行 LLM 角色扮演对话的用户。提供多 API 接入、聊天内资产嵌入、正则脚本、群聊、Lorebook 记忆、TTS 语音、自动翻译、HypaMemoryV2/V3 与 SupaMemory 长期记忆压缩等功能。用户通过官网或 GitHub Releases 安装，也可用 Docker 部署 Web 版（本地访问 6001 端口）。开发需 Node.js 22.13+ 与 pnpm。
 
 ## 筛选速览
 
@@ -13,27 +13,28 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多 API 接入：OpenAI、Claude、Gemini、OpenRouter 等
-- 正则脚本改写模型输出、Lorebook 世界书与群聊多角色
-- HypaMemoryV2/V3、SupaMemory 长期记忆系统
-- 插件机制可添加自定义功能与 provider
+- 支持 OpenAI、Claude、Gemini、DeepInfra、Ooba、OpenRouter 等多个 API
+- HypaMemoryV2/V3 与 SupaMemory 长期记忆与上下文管理
+- 群聊、情绪图片、正则脚本自定义 GUI、插件扩展
+- TTS 语音输出与输入输出自动翻译
 
 ## 适用场景
 
-- 与多个 LLM 角色扮演角色进行对话
-- 通过群聊让多个角色同场互动
-- 自托管 Web 版供团队或社区使用
+- 与多个角色进行 LLM 角色扮演对话
+- 在一个聊天里让多个角色群聊互动
+- 用 Lorebook 与长期记忆维持长对话设定
+- 跨平台或自托管 Web 端使用聊天应用
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+`聊天机器人` `语音合成` · 领域:对话与助手
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1763132ba487` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `175a1bf7428f` · [字段定义](../../DATASET.md)*

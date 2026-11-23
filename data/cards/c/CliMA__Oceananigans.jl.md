@@ -2,9 +2,9 @@
 
 ⭐ 1,456 · Julia · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CliMA/Oceananigans.jl) · [官网](https://clima.github.io/OceananigansDocumentation/stable) · 组织维护
 
-**Julia 写的海洋流体动力学有限体积模拟库（CPU/GPU）**
+**海洋流体动力学 Julia 仿真库：CPU/GPU 求解 Boussinesq 方程**
 
-面向科研的 Julia 软件包，用有限体积法在 Cartesian 与球壳域上求解非静力与静力 Boussinesq 方程，模拟海洋湍流、对流等流体动力学过程，可在 CPU 与 CUDA GPU 上运行。提供高层数据网格与模型构造接口、WENO 平流等数值方案，配套文档、教程、性能基准面板与社区讨论区。安装方式为 Julia 1.10+ 内 Pkg.add 注册包。机器学习仅出现在其科研应用（如 ML 增强边界层参数化 NORi）中，本体是通用流体模拟框架。
+Julia 语言编写的有限体积海洋流体仿真包，求解非静力与静力 Boussinesq 方程，支持笛卡尔与球壳域，可在 CPU 与 GPU 上运行。以注册 Julia 包形式分发，通过 Pkg.add 安装；改用 GPU() 架构即可在 Nvidia CUDA GPU 上运行同一仿真代码。由学界与业界贡献者社区驱动开发，测试基础设施由 atdepth 与 Climate Modeling Alliance 提供，附文档、示例、教程与持续性能基准面板。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 有限体积法求解非静力/静力 Boussinesq 方程，CPU 与 GPU 运行
-- 加载 CUDA.jl 后将 CPU() 换为 GPU() 即可在 Nvidia GPU 上运行
-- 配套文档、教程、性能基准面板与持续基准测试
-- 多篇论文描述模型发展与数值方案（WENO、CATKE、自由表面算法等）
+- 有限体积求解非静力/静力 Boussinesq 方程，支持笛卡尔与球壳域
+- 同一仿真代码可将 CPU() 换为 GPU() 运行于 Nvidia CUDA GPU
+- MIT 许可的注册 Julia 包，含文档、教程与性能基准面板
+- 社区维护多篇开发论文，含 ML 增强的边界层参数化 NORi
 
 ## 适用场景
 
-- 运行海洋湍流、对流等流体动力学数值模拟
-- 在 GPU 上进行高分辨率海洋/气候模拟研究
-- 教学与科研中复现和扩展海洋模式实验
+- 模拟海洋湍流、深对流等不可压缩流体动力学过程
+- 在 GPU 上开展中尺度分辨率的全球海洋气候仿真
+- 科研与教学中构建和运行数值海洋模型实验
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L3:  🌊 Fast and friendly ocean-flavored Julia software for simulating incompressible fluid dynamics in Cartesian and sph
 > L44: Oceananigans is a fast, friendly, flexible software package for finite volume simulations of the nonhydrostatic
-> L146:  *This paper describes the development of NORi, a machine-learning-augmented parameterization for ocean boundary l
+> L86: But there's more: loading CUDA.jl (via `using CUDA`) and changing `CPU()` to `GPU()` makes this code run on a CUDA-
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3531b0062758` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c38f74e60a10` · [字段定义](../../DATASET.md)*

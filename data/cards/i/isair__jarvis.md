@@ -2,9 +2,9 @@
 
 ⭐ 2,397 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/isair/jarvis) · [官网](https://barissencan.com/jarvis/) · 个人维护
 
-**桌面端私有本地 AI 语音/文字助手，带个人记忆与 MCP 工具**
+**本地优先的桌面 AI 语音助手，语音/文字对话**
 
-跨平台（macOS/Windows/Linux）桌面 AI 助手应用：语音与文字聊天、本地听写、个人记忆（日记与知识图谱存储在本机）、内置网页搜索/天气/OCR/营养追踪等工具，并可通过 MCP 接入浏览器自动化、Home Assistant 等外部工具。语音识别、语言模型与语音合成默认本地运行，使用 Ollama 或任意 OpenAI 兼容服务端（LM Studio/llama.cpp 等）。主要在 macOS 上开发，Windows/Linux 行为可能有差异；macOS 26+ 听写不可用，无移动端。
+面向桌面用户的本地 AI 助手：语音与文字对话、语音听写输入、本地日记与知识图谱记忆、截图 OCR、营养追踪等内置工具，并支持通过 MCP 服务器接入浏览器自动化、智能家居等外部工具。语音识别、语言模型与语音合成均可在用户自有硬件上本地运行，安装向导引导选择模型服务器，敏感信息在进入模型上下文前做脱敏处理。macOS 开发为主，Windows/Linux 行为可能不同；Linux 听写需 X11。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 语音优先交互：按名唤起、加入现场对话并利用滚动转写上下文
-- 本地个人记忆（日记+知识图），敏感信息在进入模型上下文或存档前被脱敏
-- MCP 工具接入：浏览器自动化、Home Assistant、GitHub、数据库等
-- 全局热键听写到其他应用，配合任务中心本地排队执行
+- 语音优先对话：名字唤醒并结合近期对话上下文参与讨论
+- 支持 Ollama 或 OpenAI 兼容本地模型服务器（LM Studio、oMLX、llama.cpp）
+- MCP 服务器接入自定义工具，支持无限记忆与自学习
+- 本地听写：按住快捷键说话、松开粘贴转写文本
 
 ## 适用场景
 
-- 在桌面用语音或文字与本地 AI 助手对话讨论想法
-- 让助手记住跨会话的偏好、计划与过往对话
-- 通过 MCP 把浏览器自动化、智能家居等工具接入助手
+- 在桌面端进行完全本地化的语音 AI 对话
+- 通过语音听写向任意应用输入转写文本
+- 让助手记住并查询历史对话、偏好与计划
+- 接入 MCP 服务器控制智能家居或浏览器
 
 ## 场景标签
 
-`AI 助手` `语音 Agent` `Agent 记忆` · 领域:Agent 开发
+`语音 Agent` `AI 助手` `语音识别` `OCR` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L5: A private, local-first AI assistant with voice and text chat.
 > L16: Address Jarvis by name anywhere in a sentence and follow up naturally. Speech recognition, language models and spee
-> L18: Your diary and knowledge graph stay on your computer. Speech and chat models run locally when you use a local model
+> L35: **2. Choose your local models.** The setup wizard guides you through speech recognition and a model server. Use Oll
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f0fec813aec7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3569952e2777` · [字段定义](../../DATASET.md)*

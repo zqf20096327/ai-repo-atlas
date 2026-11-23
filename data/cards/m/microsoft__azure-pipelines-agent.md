@@ -2,9 +2,9 @@
 
 ⭐ 1,930 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/azure-pipelines-agent) · 组织维护
 
-**微软出品的 Azure Pipelines 跨平台 CI/CD 构建代理**
+**Azure Pipelines 与 TFS 的跨平台构建发布代理**
 
-Azure Pipelines 与 Team Foundation Server/Azure DevOps Server 使用的跨平台构建与发布代理，用 C# 基于 .NET Core 编写，支持 Windows（x64/x86/ARM64）、macOS 与多种 Linux 发行版。以预编译发布包形式提供，含 Latest 与 Pre-release 两种发布标签，分批向用户推出（约 6-8 天全量）。README 同时公告因迁移到 .NET 6，AZP_AGENT_USE_LEGACY_HTTP 遗留 HTTP 旋钮将在迁移后失效。
+微软维护的 Azure Pipelines 与 Azure DevOps Server（TFS 2015 及以上）所使用的跨平台构建与发布代理，以 C# / .NET Core 编写，运行于 Windows、macOS 及多种 Linux 发行版（x64/x86/ARM 架构），用于在目标机器上执行流水线任务。README 未含安装命令，安装入口指向外部入门文档；当前版本正在移除捆绑的旧版 Node.js 任务运行器，需要旧运行器的任务需迁移。
 
 ## 筛选速览
 
@@ -15,29 +15,31 @@ Azure Pipelines 与 Team Foundation Server/Azure DevOps Server 使用的跨平�
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 跨平台支持 Windows/macOS/Linux 多架构（含 ARM/ARM64）
-- 服务 Azure Pipelines 与 Azure DevOps Server（TFS 2015+）
-- 发布标签 Latest / Pre-release 分批推送机制
+- 跨平台构建与发布代理，支持 Windows/macOS/Linux 多架构
+- 支持 Azure Pipelines 与 Azure DevOps Server（TFS 2015+）
+- 以 C# / .NET Core 编写
+- 公告将移除 Node.js 6/10/16 及 pipelines-agent 中的 Node.js 20 运行器
 
 ## 适用场景
 
-- 在自管机器上运行 Azure Pipelines 构建任务
-- 企业内为 Azure DevOps Server 搭建本地构建代理
-- 在 ARM 架构设备上运行 CI 代理
+- 在自托管机器上为 Azure Pipelines 执行 CI/CD 任务
+- 为本地部署的 Azure DevOps Server / TFS 提供构建代理
+- 为多平台（含 ARM）流水线提供运行节点
 
 ## 场景标签
 
- · 领域:DevOps/CI-CD 工具
+ · 领域:软件开发/持续集成
 
 ## 证据(README 行号)
 
-> L11: The cross-platform build and release agent for Azure Pipelines and Team Foundation Server 2015 and beyond.
-> L35: This agent can be used for both Azure Pipelines and Azure DevOps Server (Team Foundation Server).
+> L17: The cross-platform build and release agent for Azure Pipelines and Team Foundation Server 2015 and beyond.
+> L20: Supported on Windows, macOS, and several Linux flavors.
+> L21: Written for .NET Core in C#.
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 low · 依据 README sha `be87db51ee7c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `422542ddf599` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,378 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ciddwd/overlay-translator) · 个人维护 · 中文 README
 
-**无需 ROOT 的 Android 屏幕实时翻译工具，覆盖游戏/漫画/视觉小说**
+**给游戏/漫画/视觉小说用户的安卓无 ROOT 屏幕实时翻译工具**
 
-通过 MediaProjection 或 Shizuku 截屏，经端侧或云端 OCR（ML Kit、PaddleOCR、日漫 OCR、百度/腾讯/有道等）识别文字，再由 LLM 或机器翻译引擎译成目标语言，以悬浮窗叠加在原文上，并可用系统语音或在线 TTS 朗读。支持全离线运行（含 Sakura/Hy-MT2 端侧 LLM），也支持自建局域网 OCR 与语音服务。面向在手机上阅读外文游戏、漫画、视觉小说的用户，仅发布 arm64-v8a APK。
+安卓端实时屏幕翻译应用：通过系统截屏、Shizuku、无障碍或 Root 获取画面，经端侧或云端 OCR 识别文字，再用 LLM 或机器翻译引擎翻译，译文以悬浮窗叠加显示；还支持相册图片批量翻译、视频语音双语字幕和划词字典。可全离线运行（本地 OCR + 本地翻译模型 + 系统语音），也可接入多种云服务。从 Releases 下载 APK 安装，目前仅发布 arm64-v8a 架构，最低 Android 8.0，代码采用 Apache-2.0。
 
 ## 筛选速览
 
@@ -20,26 +20,28 @@
 
 ## 能力要点
 
-- 截屏→OCR→翻译→叠加显示→TTS 朗读各环节可独立配置，可全离线运行
-- 端侧 OCR 含 ML Kit、PaddleOCR v5/v6、日漫 OCR（manga-ocr ONNX）
-- 翻译支持 DeepSeek/ChatGPT/Claude 等 OpenAI/Anthropic 兼容 LLM 与端侧 Sakura/Hy-MT2
-- 漫画气泡检测、竖排日漫识别、按 App 保存术语与译法库
+- 无 ROOT 截屏 + 端侧 OCR（ML Kit/PaddleOCR/manga-ocr）可完全离线
+- 本地翻译模型支持 llama.cpp GGUF 导入与 Sakura/Qwen 等系列
+- 漫画场景：竖排识别、气泡检测擦除原文并按气泡排版译文
+- 视频实时语音识别生成双语字幕，本地可选 SenseVoice/Zipformer/Whisper
 
 ## 适用场景
 
-- 玩外文游戏或视觉小说时实时把译文盖在原文上
-- 阅读日文/韩文漫画时按气泡形状替换并翻译文字
-- 划词查生词并让 AI 给出完整字典释义
-- 批量翻译相册中的截图与漫画图片
+- 玩日文游戏或视觉小说时，点悬浮球即时翻译屏幕对话
+- 看竖排日漫，译文自动贴进气泡并擦除原文
+- 给无字幕的外语视频生成实时双语字幕
+- 把玩过的生词框选出来，用 LLM 查音标、例句和释义
 
 ## 场景标签
 
-`OCR` `语音合成` · 领域:内容生成
+`语音识别` `OCR` `图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L17: 通过 MediaProjection / Shizuku 截屏 → 端侧或云端 OCR → LLM / 机器翻译 → 悬浮窗叠加显示。
-> L57: - **大语言模型**：DeepSeek / ChatGPT / Claude / 智谱 / 自建服务……支持 OpenAI 或 Anthropic 兼容方式，一边翻一边显示
+> L17: **无需 ROOT，最低支持 Android 8.0，单机可用**，支持视觉小说、漫画、游戏对话等任意屏上文字翻译，以及视频语音实时翻译与双语对照字幕（视频翻译需要 Android 10 或更高版本）。
+> L19: 通过系统截屏、Shizuku、无障碍或 Root 获取画面 → 端侧或云端 OCR → LLM / 机器翻译 → 悬浮窗叠加显示。
+> L70: - **大语言模型**：DeepSeek / ChatGPT / Claude / 智谱 / 自建服务……支持 OpenAI 或 Anthropic 兼容方式，一边翻一边显示
+> L72: - **本机翻译**：Google ML Kit 下载语言包后可离线使用；本地模型管理支持 Sakura、Hy-MT2、Index-Translate、Qwen、LFM 和 Gemma 系列，也可导入 GGUF 文件，详见下方模型
 
 ## 星数曲线
 
@@ -55,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c7138a05ce5f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `12b413f93f52` · [字段定义](../../DATASET.md)*

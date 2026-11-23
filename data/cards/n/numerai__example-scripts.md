@@ -2,9 +2,9 @@
 
 ⭐ 1,201 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/numerai/example-scripts) · [官网](https://numer.ai/) · 组织维护
 
-**Numerai 官方入门脚本与教程 notebook 合集**
+**Numerai 锦标赛官方入门脚本与教程笔记本集合**
 
-Numerai 官方维护的示例仓库，帮助用户快速上手其数据科学锦标赛：提供教程 notebook（探索数据集、构建并上传第一个模型，可在线在 Colab 打开），以及使用 AI agent 的入门路径——克隆仓库后安装 Numerai MCP 脚本，用 codex 执行自然语言指令（如寻找预测目标的最优神经网络架构）。面向参与 Numerai 锦标赛的数据科学与量化建模用户。
+Numerai 官方提供的入门资料库：包含代理（Agent）使用示例——克隆仓库后安装 MCP 脚本并执行自然语言任务；数据构建示例（用本地语言模型给 SEC 文件打分并按 ticker/日期拼接特征、时序滚动特征构建）；以及 Colab 教程笔记本，覆盖数据集探索、首个模型搭建和模型上传流程。面向参加 Numerai 锦标赛的用户，要求具备 git 与命令行使用能力。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ Numerai 官方维护的示例仓库，帮助用户快速上手其数据科学锦
 
 ## 能力要点
 
-- 官方入门 notebook：探索数据集并构建上传模型
-- 可在 Google Colab 中直接打开运行教程
-- 提供 agent 工作流：安装 Numerai MCP 后用 codex 自然语言驱动
+- Agent 使用路径：git clone + 安装 MCP 脚本 + 自然语言执行任务
+- 用本地语言模型对 SEC 财报打分并构建特征
+- 提供 hello_numerai 与模型上传两个 Colab 教程笔记本
+- 官方入门入口，指向 Discord 社区支持
 
 ## 适用场景
 
-- 作为 Numerai 锦标赛的新手起点
-- 在 Colab 中快速跑通第一个 Numerai 模型
-- 用 AI agent 方式探索数据并构建预测模型
+- 初次参加 Numerai 锦标赛需要快速上手
+- 用 AI 代理探索并构建预测特征
+- 按教程搭建并上传首个模型
 
 ## 场景标签
 
@@ -36,8 +37,9 @@ Numerai 官方维护的示例仓库，帮助用户快速上手其数据科学锦
 
 ## 证据(README 行号)
 
+> L1: # Numerai Example Scripts
 > L2: The official place to start playing the Numerai tournaments.
-> L18: - Hello Numerai: Start here if you are new! Explore the dataset and build your first model. <a target="_blank" href
+> L21: We highly recommend getting started with Agents using the above section. But, if you're looking to kill some time o
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5b54caf5b9fd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2e144c960651` · [字段定义](../../DATASET.md)*

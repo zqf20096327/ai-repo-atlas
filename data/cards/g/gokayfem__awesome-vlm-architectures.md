@@ -2,9 +2,9 @@
 
 ⭐ 1,368 · Markdown · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/gokayfem/awesome-vlm-architectures) · 个人维护
 
-**155+ 视觉-语言模型架构的可视化编目清单**
+**200+ 视觉语言模型架构的策展目录：论文、图示与时间线**
 
-由个人维护的 VLM/MLLM 架构策展目录，收录 155 个模型条目，覆盖对比编码器、多模态 LLM、原生多模态、统一理解生成、视频、OCR、GUI 智能体与具身 AI 等方向。每条目链接原始论文，概述架构、模态对齐/融合、训练阶段、数据集与设计要点，附架构图（如有）。按发布日期提供年表索引与时间线表格（2020 ViT 至 2026 年 7 月），供研究者比较多模态模型家族、追溯架构演进。维护者声明内容为文献指南，主张引用时以原论文为准。
+以引用为先的视觉语言模型（VLM/MLLM）架构目录，收录 200 条架构条目，覆盖对比编码器、多模态 LLM、原生多模态模型、统一理解与生成、视频、OCR、GUI agent 与具身 AI。每条条目链接原始论文，概述模型架构、模态对齐或融合方式、训练阶段、数据集与设计取舍，并尽可能附架构图。目录按发布日期倒序组织，提供带来源链接的发布时间线，审核更新至 2026 年 10 月。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录 155 个 VLM/MLLM 架构，条目链接原始论文
-- 按发布日期组织的时间线索引（含特色贡献列）
-- 覆盖 CLIP、Flamingo 等基础系统到当前多模态推理与智能体模型
-- 每条目概述架构、模态融合、训练阶段与数据集并附架构图
+- 收录 200 条 VLM/MLLM 架构条目，每条链接一手来源
+- 按发布日期倒序的编年模型索引与发布时间线
+- 条目概述架构、模态融合、训练阶段与数据集
+- 附 BibTeX 引用信息
 
 ## 适用场景
 
-- 比较多模态模型家族的架构设计
-- 按时间线追溯视觉-语言架构思想的演进
-- 为研究或 agent 工作流检索有出处的文献参考
+- 对比不同多模态模型家族的架构设计
+- 追溯视觉语言模型架构思想的演进脉络
+- 为研究写作或 agent 工作流检索有出处的文献参考
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: **Awesome VLM Architectures** is a citation-first visual catalog of **155+ Vision-Language Model (VLM/MLLM) architec
+> L5: **Awesome VLM Architectures** is a citation-first visual catalog of **200 Vision-Language Model (VLM/MLLM) architect
 > L7: Use this repository to compare multimodal model families, trace architectural ideas over time, or retrieve grounded 
+> L13: October 2026 review: additions since the August 1 review, earlier omissions, family updates, date evidence, and ava
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `43014d372be1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `76f6b71f138b` · [字段定义](../../DATASET.md)*

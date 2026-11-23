@@ -2,9 +2,9 @@
 
 ⭐ 1,200 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/aspire-samples) · [官网](https://aspire.dev/reference/samples/) · 组织维护
 
-**微软 Aspire 的官方示例集合，覆盖多语言云原生与 AI 场景**
+**Aspire 开发者工具集的多语言场景示例集**
 
-微软维护的 .NET Aspire 官方示例仓库，按场景组织数十个可运行的示例工程：全栈 JavaScript/TypeScript、多语言全栈（Python/Java/Go/C#）、后端集成、交互式终端、云/AI/事件驱动（含 RAG 问答、Python OpenAI Agent、Azure Functions、指标可视化）等。示例使用 Aspire 13.6.0 CLI 与 SDK，README 给出安装命令；附带 devcontainer 配置与 eShop 参考应用。示例仅供演示概念，声明不适用于生产环境。
+微软 Aspire 的官方示例仓库，按场景组织示例应用：前端集成（React/Vue/Angular）、多语言全栈（Python/Java/Go/Node 与 .NET 混合）、交互式终端、云/AI/事件驱动等。每个示例标注工作负载语言、AppHost 类型与部署方式（Run only/Docker Compose/Azure）。运行前需安装匹配版本的 Aspire CLI（17.0.0），另提供 Dev Container 与 GitHub Codespaces 配置。README 声明代码仅用于演示概念，不用于生产部署。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 6 类场景组织的多语言示例（C#/JS/TS/Python/Go/Java）
-- 含 RAG 文档问答与 Python OpenAI Agent 等 AI 示例
-- 提供 devcontainer/Codespaces 环境与 eShop 参考应用
-- 随 Aspire 13.6.0 版本发布并含 CI 配置
+- 按场景分类的示例目录：前端、Polyglot 全栈、后端集成、终端、云/AI
+- 多语言 AppHost 支持：C#、TypeScript、Go 编写的 AppHost
+- 提供 Dev Container 与 GitHub Codespaces 开发环境配置
+- 含 eShop 电商参考应用
 
 ## 适用场景
 
-- 学习如何用 Aspire 集成前后端、容器与数据库
-- 参考 RAG 问答或 AI agent 在 Aspire 中的写法
-- 在 Codespaces 中快速搭建示例开发环境
+- 学习如何用 Aspire 编排前端、API、容器与数据库
+- 参考 FastAPI/Go/Java 应用与 .NET 的集成方式
+- 在 Codespaces 中快速运行分布式应用示例
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L5: Samples for Aspire.
-> L7: Aspire is a developer-first toolset that streamlines integrating front-ends, APIs, containers, and databases with yo
-> L29: ## Browse by scenario
+> L30: ## Browse by scenario
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `43484eaf4b8d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `b132c37ae1ad` · [字段定义](../../DATASET.md)*

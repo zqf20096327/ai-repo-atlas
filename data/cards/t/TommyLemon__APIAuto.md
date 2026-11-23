@@ -2,9 +2,9 @@
 
 ⭐ 2,221 · JavaScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/TommyLemon/APIAuto) · [官网](http://apijson.cn/api) · 个人维护 · 中文 README
 
-**带 AI 问答与机器学习测试的 HTTP 接口开发测试工具**
+**机器学习零代码测试 HTTP 接口的一站式工具**
 
-纯静态 SPA 网页形式的 HTTP 接口一站式工具，集合文档生成、接口测试、Mock、调试与用例管理；机器学习部分提供零代码自动测试接口、自动生成多语言前后端代码、静态检查与注释生成，另有 AI 问答。支持从 Postman/Swagger/YApi 一键导入用例与文档，提供 Headless 无 UI 模式通过 HTTP API 集成到 Jenkins 等 CI/CD 流水线。生成文档与用例管理功能需部署 APIJSON 后端。浏览器打开 index.html 即可运行，Headless 模式需 Node 环境。
+纯静态 SPA 网页形式的 HTTP 接口工具，集合文档、测试、Mock、调试、管理功能；支持机器学习零代码测试接口、自动生成多语言前后端代码与静态检查、自动生成文档与悬浮注释、测试用例管理与一键共享，可从 Postman/Swagger/YApi/Rap 一键导入用例。提供 Headless 无 UI 模式的 HTTP API 以集成 Jenkins 等流水线。文档与用例管理功能需另行部署 APIJSON 后端；第三方不支持 CORS 的接口需开启托管服务代理。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 机器学习零代码自动测试接口
-- 自动生成接口文档、多语言代码与光标悬浮注释
-- 从 Postman/Swagger/YApi/Rap 一键导入用例和文档
-- Headless 无 UI 模式可通过 HTTP API 集成 CI/CD 流水线
+- 机器学习零代码测试接口，测试用例自动管理与一键共享
+- 自动生成多语言前后端代码、文档与光标悬浮注释
+- Headless 无 UI 模式，通过 HTTP API 集成 CI/CD 流水线
+- 从 Postman/Swagger/YApi/Rap 等平台一键导入用例和文档
 
 ## 适用场景
 
-- 开发和调试 RESTful、类 RESTful、GRPC 接口
-- 零代码自动生成接口测试用例并批量回归测试
-- 在 CI/CD 流水线中无 UI 执行接口测试
+- 为团队 RESTful 或 GRPC 接口生成文档并管理测试用例
+- 把接口回归测试集成到 Jenkins、蓝盾等 CI/CD 流水线
+- 调试百度、搜狗等第三方公网 HTTP 接口并录制请求
+- 从 Postman/Swagger/YApi 迁移既有接口用例
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+ · 领域:开发者工具/API 测试
 
 ## 证据(README 行号)
 
 > L3:  ☔ HTTP 接口 机器学习零代码测试 和 一站式智能开发管理 工具
-> L11: 敏捷开发最强大易用的 HTTP 接口工具，机器学习零代码测试、生成代码与静态检查、生成文档与光标悬浮注释。
 > L72: * 自动机器学习零代码测试接口，一键运行
+> L121: 本项目是纯静态 SPA 网页，下载源码解压后：
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3b07e9c1d97d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `8d4dc5f62da8` · [字段定义](../../DATASET.md)*

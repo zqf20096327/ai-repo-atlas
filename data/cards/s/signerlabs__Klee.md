@@ -2,9 +2,9 @@
 
 ⭐ 1,788 · Swift · 推送 2026-11-16 · [GitHub](https://github.com/signerlabs/Klee) · [官网](https://kleedesktop.com) · 组织维护
 
-**Apple Silicon 本地运行的 macOS 原生 AI 聊天应用**
+**Apple Silicon 上全本地推理的 macOS AI 聊天应用**
 
-基于 MLX 在 Apple Silicon 上本地推理的原生 macOS AI agent，SwiftUI 构建，约 75MB。无需账号与 API key，支持一键下载 4-bit 量化模型（Qwen/Gemma/DeepSeek 系列，来自 mlx-community）、流式输出、推理过程展示、视觉输入与内置工具调用（文件读写、网页抓取、shell 执行）。网页搜索需自配 Jina AI 免费 key。要求 macOS 15+ 与 Apple Silicon，16GB 起步内存对应不同规模模型。分发为签名 dmg，亦可从源码构建（需 Xcode 16+）。
+基于 MLX 在 Apple Silicon 上直接运行大语言模型的原生 macOS 应用，对话数据不离开本机，无需账号或 API key。提供一键模型下载（mlx-community 4-bit 量化）、流式响应、思考过程展示、视觉模型图片输入，并通过原生工具调用实现文件读写、网页搜索（Jina API）与 shell 命令执行。要求 macOS 15+、M1 芯片及 16 GB 起内存；分发签名的 .zip 安装包，也可用 Xcode 从源码构建。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- MLX 全本地推理，数据不离设备，无需账号
-- 原生工具调用（文件/web_fetch/shell_exec 等 7 个内置工具）
-- 支持视觉模型与流式输出、内联思考过程展示
-- 一键下载 4-bit 量化模型，按内存推荐模型规模
+- 100% 本地推理，无需账号与 API key
+- 一键下载 mlx-community 4-bit 量化模型，按 RAM 推荐适配模型
+- 原生工具调用：文件读写、网页搜索/抓取、shell 执行（30s 超时）
+- 约 60 MB 原生 SwiftUI 应用，无 Electron/Docker/后台服务
 
 ## 适用场景
 
-- 在 Mac 上离线进行本地 LLM 对话与文件操作
-- 让 AI 代为执行 shell 命令与网页查询
-- 按本机内存选择并下载合适的量化模型
+- 在 Mac 上离线与本地大模型对话
+- 让 AI 直接读写本地文件并执行 shell 命令
+- 对数据隐私有要求、不希望对话上云的日常问答
+- 按内存容量选择运行不同规模的本地模型
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+`聊天机器人` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L3: A native macOS AI agent that runs entirely on your Mac. No cloud, no account, no subscription.
-> L5: Klee uses MLX to run large language models directly on Apple Silicon, so your conversations never leave your device.
+> L11: A native macOS AI agent that runs entirely on your Mac. No cloud, no account, no subscription.
+> L13: Klee uses MLX to run large language models directly on Apple Silicon, so your conversations never leave your device
+> L17: - **100% local inference** -- your data stays on your Mac
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f41c140337e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `17e56ae9a939` · [字段定义](../../DATASET.md)*

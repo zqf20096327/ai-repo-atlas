@@ -2,9 +2,9 @@
 
 ⭐ 1,251 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/renezander030/capcut-cli) · [官网](https://renezander.com/projects/capcut-cli) · 个人维护 · 中文 README
 
-**LLM agent 可调用的 CapCut/剪映草稿本地编辑 CLI**
+**CLI 直接编辑 CapCut/剪映草稿，可供 LLM agent 驱动**
 
-独立非官方的 Node.js 命令行工具，直接读写本地 CapCut/JianYing 草稿 JSON（draft_content.json 等），完成字幕、剪辑、变速、音量、模板、长转短等编辑，输出仍可在剪映/CapCut 中继续编辑的可编辑轨道，无需上传、API 或服务端。设计上面向 LLM agent 驱动：提供 agent skill 安装、Claude Code 插件、无外部能力的只读 Wasm 工具（inspect/diff/lint-portable）及 JSONL 队列 runner。可选配合 Whisper（字幕）、FFmpeg（渲染）与 ANTHROPIC_API_KEY（翻译）。剪映/CapCut 为字节跳动商标，项目与其无关联；Wasm 沙箱与 agent sandbox 标注为实验性。
+非官方独立 CLI，直接读写本地 CapCut/剪映草稿 JSON（draft_content.json 等），无上传、无 API、无 MCP 服务器；命令覆盖字幕导入导出、翻译、剪辑、变速、转场、模板、长视频切条等，输出仍可在 CapCut 中继续编辑。安装方式包括 npm、便携压缩包、Python 包装与源码构建；`caption --cloud` 是唯一外发音频的可选实验功能。维护者声明与 ByteDance 无关联。
 
 ## 筛选速览
 
@@ -20,26 +20,28 @@
 
 ## 能力要点
 
-- 直接读写本地草稿 JSON，JSON 进 JSON 出，原子写入并留 .bak
-- npx skills add 一条命令向 Claude Code 等安装 capcut-edit 技能
-- 零依赖 Wasm 只读工具供 agent 安全检查草稿（实验性）
-- 长视频转短视频：detect-scenes / detect-silence / detect-retakes / cut
+- 直接读写本地草稿 JSON，零依赖、无服务器
+- 四类用法：CLI、TypeScript 库、JSONL 队列 runner、实验性 Wasm 只读工具
+- 一条命令向 Claude Code/Codex/Cursor 等安装 capcut-edit 技能
+- 支持中英日三语文档与 `--jianying` 剪映命名空间
 
 ## 适用场景
 
-- 让 AI agent 按草稿 JSON 边界自动加字幕、剪辑、套模板
-- 批量把长视频切成短视频并生成可继续编辑的剪映草稿
-- 自动化流水线（n8n/Make/Coze）通过 JSONL 队列驱动剪辑
+- 从终端批量剪辑视频并生成可继续编辑的 CapCut 工程
+- 让 LLM agent 检查、构建草稿或切长视频为短片
+- 导入 SRT 字幕并克隆多语言版本草稿
+- 自动化流水线（n8n/Make/Coze）通过 serve 队列处理剪辑任务
 
 ## 场景标签
 
-`图像视频处理` · 领域:感知与多模态
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L1: capcut-cli — the CapCut/JianYing CLI any LLM agent can drive: zero dependencies, no server, both namespaces
 > L13: **Create and edit real CapCut / JianYing projects from the terminal — or any LLM agent.**
-> L56: JSON in, JSON out: every command reads and writes the local draft store directly, with no MCP server or HTTP daemon
-> L144: CapCut/JianYing store each project as local JSON. capcut-cli loads that store, validates against a version-aware s
+> L87: - **CLI** — `npm install -g capcut-cli`, then `capcut <command> <project>`
+> L94: One command installs the `capcut-edit` skill into Claude Code, Codex, Cursor, OpenCode and the other agents the `sk
 
 ## 星数曲线
 
@@ -55,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2a0988e78639` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3866490533a6` · [字段定义](../../DATASET.md)*

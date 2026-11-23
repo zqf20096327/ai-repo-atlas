@@ -2,9 +2,9 @@
 
 ⭐ 1,586 · Python · CC-BY-SA-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/RyanAlberts/best-of-Agent-Harnesses) · [官网](https://ryanalberts.github.io/best-of-Agent-Harnesses/) · 个人维护
 
-**AI agent harness（运行时框架）排行榜单与配套模板/技能/MCP 服务**
+**给构建 agent 系统的开发者策展的 187 个 agent harness 排名清单**
 
-收录 167 个 AI agent harness（工具循环、权限、生命周期、护栏所在运行时层）的策展排行榜，按相关性（环境/编排/生命周期/护栏）与星标/活跃度每周重打分，提供可搜索站点、按自主性与故障恢复分层的图表。配套内容：复制即用的模板（AGENTS.md、Claude Code 安全设置、约 180 行 Python 最小 harness）、分步 Playbook、10 个可安装的自检技能，以及供 agent 查询的 MCP 服务器（recommend/pick_harness），附 llms.txt 与 JSON 接口。面向构建/选型 agent 运行时的开发者。
+按周重新评分的 AI agent harness 清单，收录 187 个项目并按环境、编排、生命周期、护栏等 harness 关注维度与 stars/活跃度排序。除清单外提供：可按能力、自治度、故障恢复过滤的检索站点、模板与分步 playbook（AGENTS.md、安全设置、约 180 行的最小 harness）、10 个可安装的技能脚本（检测 agent 可访问范围、护栏有效性、token 开销），以及一个 MCP server（recommend/pick_harness）供 agent 程序化查询选择 harness。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 167 个 agent harness 按护栏关注度与星标/活跃度每周重打分
-- MCP 服务器（recommend、pick_harness）与 llms.txt/JSON 供 agent 查询选型
-- 10 个可安装技能：自检工具权限、护栏有效性、token/费用浪费与测试声明核验
-- 模板与 Playbook：统一 AGENTS.md、安全设置、约 180 行 Python 最小 harness
+- 187 个 agent harness 条目，每周重新评分
+- MCP server 供 agent 调用 recommend/pick_harness 选择 harness
+- 10 个可安装技能：护栏检测、tests-pass 声明核验、token 开销报告
+- 模板与 playbook：统一 AGENTS.md、安全设置、约 180 行最小 harness
 
 ## 适用场景
 
-- 为我的模型和任务挑选合适的 agent harness
-- 配置统一的 AGENTS.md 与 Claude Code 安全权限
-- 检测我的编码 agent 护栏是否拦得住危险命令、是否虚报测试通过
-- 分析我的编码 agent 会话里 token 和钱的浪费点
+- 为我的模型和任务挑一个匹配的 coding agent harness
+- 检查现有 agent 设置的护栏能否拦截危险命令
+- 分析我的 coding agent 会话里 token 和费用浪费在哪
 
 ## 场景标签
 
@@ -39,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3:  🏆&nbsp; Curated list of AI agent harnesses, orchestration frameworks, and harness techniques for reliable agentic s
-> L21: Better models make harnesses more important: more capabilities mean more failure modes, and production needs retry 
+> L13:  🤖 Agents can query this list — an MCP server (<code>recommend</code>, <code>pick_harness</code>, …), llms.txt &amp
+> L123: _Reader's index: pick by what you want to do, not by category. Tag chips (e.g. `mcp` · `memory` ) next to each row
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `8d8048b1fa54` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `875a704a5689` · [字段定义](../../DATASET.md)*

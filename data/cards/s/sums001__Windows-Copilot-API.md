@@ -2,9 +2,9 @@
 
 ⭐ 1,271 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sums001/Windows-Copilot-API) · 个人维护
 
-**将 Microsoft Copilot 网页版逆向封装为 OpenAI 兼容本地 API**
+**将 Windows Copilot 逆向为 OpenAI 兼容 API 的本地桥接服务**
 
-非官方项目，把个人 Microsoft Copilot 免费网页聊天账户逆向为可编程接口：以 Python 库（CopilotClient，支持流式与多轮对话）或本地 FastAPI 服务器（http://localhost:8000/v1，OpenAI 兼容格式）两种方式使用，官方 openai SDK 可直接指向 localhost。需用 Microsoft 或 Google 账户浏览器登录一次，session 保存于本地并自动刷新；自动处理 Cloudflare 人机验证（约 30 分钟过期）。限制：单账户、请求串行执行（实测最高并发 4）、默认限速 12 rpm、仅暴露单一 copilot 模型。提供 Docker 运行方式与压力/诊断测试脚本。
+以 Python 库与本地服务器两种形式，把已登录的 copilot.com 网页聊天桥接为 OpenAI 格式的 HTTP 接口：服务器暴露 /v1/chat/completions 与 /v1/models，官方 openai SDK 可直接指向 localhost 使用。登录一次后 token 自动刷新，后续走纯 HTTP；服务器串行处理上游请求，自带令牌桶限速（默认 12 rpm）。为非官方项目，依赖个人账户，仅支持文本、单一模型，日用量受免费额度限制。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 把免费 Copilot 网页账户转为 OpenAI 兼容 API，无需 API key 与计费
-- Python 库与 OpenAI 格式本地服务器两种用法，官方 openai SDK 可直连
-- 自动处理 Cloudflare cf_clearance 验证与 session 刷新
-- 内置并发压力测试、速率限制（令牌桶）与诊断工具
+- 提供 Python 库（client.chat/stream）与 OpenAI 兼容本地服务器两种用法
+- 浏览器登录一次后 token 自动刷新，后续无需浏览器
+- 内置并发压测、限速调节与诊断报告工具
+- 支持 Docker 运行，挂载 session 目录保持登录
 
 ## 适用场景
 
-- 用已有 Copilot 账户在代码中免费调用 LLM
-- 让现有 OpenAI SDK/应用不改代码切换到本地 Copilot 端点
-- 个人项目或脚本中原型验证 LLM 功能而不产生 API 费用
+- 把已登录的 Copilot 账户当成本地 OpenAI 接口供脚本调用
+- 让现有 OpenAI 兼容工具改指 localhost 使用
+- 个人低并发（约 1–4 路）聊天请求场景
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L10: - 🔌 **As a local OpenAI-compatible API:** runs a server at `http://localhost:8000/v1` that speaks the OpenAI format
-> L103: ## Usage 2: As an OpenAI-compatible server
+> L133: |`POST`|`/v1/chat/completions`|Chat (supports `"stream": true` and an optional `"conversation_id"`)|
+> L238: |server/|The FastAPI OpenAI-compatible server|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `51cea7923e6d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `e08f2952175b` · [字段定义](../../DATASET.md)*

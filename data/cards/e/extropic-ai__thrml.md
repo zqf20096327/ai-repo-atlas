@@ -2,9 +2,9 @@
 
 ⭐ 1,177 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/extropic-ai/thrml) · [官网](https://docs.thrml.ai/en/latest/) · 组织维护
 
-**JAX 概率图模型构建与采样库，支持块 Gibbs 采样**
+**面向概率图模型的 JAX 库：构建与块吉布斯采样**
 
-面向研究者的 Python/JAX 库，用于构建和采样概率图模型：提供稀疏异构图上的 GPU 加速块 Gibbs 采样、任意 PyTree 节点状态、异构图模型支持与离散能量模型工具。内部将因子交互编译为紧凑全局状态表示，减少 Python 循环、最大化数组级并行。Extropic 正开发针对离散 PGM 采样的专用硬件，本库可在当前 GPU 上原型化并对接未来硬件。需 Python 3.10+，pip 安装。
+THRML 是一个 JAX 库，用于构建概率图模型并进行采样，聚焦块吉布斯采样与能量模型。内部将基于因子的交互编译为紧凑的全局状态表示，减少 Python 循环并利用 JAX 数组级并行，支持稀疏异构图上的 GPU 加速采样。维护方 Extropic 同时在开发用于离散 PGM 采样的硬件，THRML 提供面向该硬件的早期实验接口，采样后端可通过外部包接入。需要 Python 3.10+。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 概率图模型的块 Gibbs 采样（GPU 加速）
-- 任意 PyTree 节点状态与异构图模型支持
-- 离散能量模型（EBM）工具
-- 因子交互编译为全局状态表示以提升 JAX 数组级并行
+- 针对 PGM 的块吉布斯采样（含 Ising 链两色分块示例）
+- 支持异构图模型与任意 PyTree 节点状态
+- 离散 EBM 工具
+- 可插拔采样后端机制，支持外部包接入
 
 ## 适用场景
 
-- 在 GPU 上对稀疏离散 PGM 做块 Gibbs 采样实验
-- 构建异构能量模型并采样
-- 为未来 Extropic 采样硬件做原型验证
+- 在 GPU 上对稀疏异构图上的 PGM 做块吉布斯采样
+- 研究/构建离散能量模型（EBM）
+- 为未来 Extropic 硬件做前期算法实验
 
 ## 场景标签
 
- · 领域:机器学习/概率计算
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L5: THRML is a JAX library for building and sampling probabilistic graphical models, with a focus on efficient block Gib
 > L9: - Blocked Gibbs sampling for PGMs
-> L12: - Discrete EBM utilities
+> L15: From a technical point of view, the internal structure compiles factor-based interactions to a compact "global" sta
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `39070cabc306` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ccea0c0538ff` · [字段定义](../../DATASET.md)*

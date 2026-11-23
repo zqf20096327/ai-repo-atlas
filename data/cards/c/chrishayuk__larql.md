@@ -2,9 +2,9 @@
 
 ⭐ 1,196 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/chrishayuk/larql) · [官网](https://vindex3.org) · 个人维护
 
-**Rust 模型运行时：运行/服务/查询/编辑模型并可观察内部**
+**Rust 模型运行时：运行/服务/查询/编辑模型并观测内部状态**
 
-用 Rust 编写的模型运行时，基于可执行且可检查的 VINDEX3 模型格式：从 Hugging Face 下载模型并转换缓存后，可运行对话、以 OpenAI 兼容 API 提供服务、用 LQL 查询语言推断与捕获激活/权重、以补丁形式对运行中会话做权重编辑并可导出 GGUF。提供预编译二进制（macOS Apple Silicon/Windows）与源码构建两种安装方式；macOS 构建使用 Metal，另有可移植 CPU 后端。已端到端支持 Qwen3、Gemma 3/4、Granite 4.1。
+用 Rust 编写的模型运行时，指向 Hugging Face 模型即可运行：转换为其 VINDEX3 可执行且可检查的模型格式并缓存；提供 CLI 聊天、OpenAI 兼容 API 服务（larql serve）、查询语言 LQL（TOP-K 推断、HELP/REPL）、逐层运行记录（observe），以及以 .vlp 补丁形式对权重做临时编辑，可编译导出为 GGUF。macOS 预编译二进制（Metal 后端）、Windows zip、Linux/Windows CPU 后端源码构建；下载前按格式检查模型可运行性。
 
 ## 筛选速览
 
@@ -13,34 +13,33 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- LQL 查询语言：推断、观察各层贡献、捕获激活/权重到 NumPy 文件
-- 以 .vlp 补丁对运行中会话做权重编辑，可撤销、可编译为新的 VINDEX3 并导出 GGUF
 - OpenAI 兼容 API 服务（larql serve）
-- 运行前检查模型各部分是否可运行，缺失则拒绝并列出缺失项
-- 提供预编译二进制与 Python 绑定
+- LQL 查询语言：TOP-K 推断、observe 逐层记录、REPL
+- 权重补丁编辑（.vlp）不落盘改动原模型，可导出 GGUF
+- 下载前读取文件头校验模型是否可完整运行
 
 ## 适用场景
 
-- 本地运行 Hugging Face 模型并通过 OpenAI 兼容 API 提供给应用或 agent
-- 机械可解释性研究：观察各层贡献、导出激活与权重
-- 实验性权重编辑并导出到 llama.cpp 或 Ollama 使用
-- 量化压缩模型并测量代价
+- 本地命令行运行/聊天/服务 Hugging Face 模型
+- 为应用或 agent 提供 OpenAI 兼容 API 服务
+- 检查模型内部逐层行为并做权重实验
+- 量化/压缩模型并测量代价
 
 ## 场景标签
 
-`推理引擎` `模型量化` · 领域:训练与推理
+`模型量化` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L5: LARQL is a model runtime written in Rust. Point it at a Hugging Face model and
-> L75: **2. Serve it** over an OpenAI-compatible API:
+> L7: in a query language (LQL), record what happens inside it while it runs, and
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `b1683a4e0178` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2ed748c6ff7c` · [字段定义](../../DATASET.md)*

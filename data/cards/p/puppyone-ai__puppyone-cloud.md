@@ -2,9 +2,9 @@
 
 ⭐ 1,301 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/puppyone-ai/puppyone-cloud) · [官网](https://www.puppyone.ai) · 组织维护
 
-**面向 AI agent 的 Git 原生上下文托管平台**
+**托管 agent 项目为 Git 仓库的团队云基础设施**
 
-Puppyone 提供供 AI agent 使用的上下文托管：以 Git 版本控制与文件级权限（FLS）为核心，将 GitHub、Gmail、Google Drive、网页、Supabase 等来源的数据转换为 Markdown/JSON 等 agent 友好格式，存入共享的 Context Drive。每个 agent 通过 MCP 端点、沙箱、REST API、CLI、SSH 等受限 Access Point 访问。提供 Cloud 托管与 Docker 自托管两种部署方式，自托管包含 PostgreSQL 17、Redis、MinIO 等完整栈；agent 聊天需自行配置 ANTHROPIC_API_KEY。
+puppyone 的云端基础设施，把项目作为真实 Git 仓库托管，使团队与 agent 可通过 Web 应用、Git、MCP、CLI 或 REST API 访问，所有写入经同一版本引擎发布到 PostgreSQL 与 S3，可回滚。提供组织、角色、邀请与审计日志，并支持在云中运行 agent 的托管工作区（Early Access）。本仓库包含 API、Web 应用、版本引擎与数据库迁移，可用 Docker 自托管；本地 Docker 栈默认含账户与文件读写，上传管线、导入源、MCP 与 agent 运行需额外的后端进程。
 
 ## 筛选速览
 
@@ -16,29 +16,31 @@ Puppyone 提供供 AI agent 使用的上下文托管：以 Git 版本控制与�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- Git 版本控制、文件级版本历史与一键回滚
-- 文件级安全（FLS）：agent 无权限的文件在其环境中物理不存在
-- 内置 GitHub/Gmail/Google Drive 等十余种数据源连接器
-- 通过 MCP、沙箱、REST API、CLI 等多种 Access Point 供 agent 访问
+- 每个云项目是标准 Git 仓库，原生 git 客户端即可克隆/推送
+- Web、Git、MCP、CLI、REST 多入口经同一版本引擎发布，历史一致可回滚
+- 每条 MCP/Git/CLI 连接有独立凭据，可暂停或吊销
+- 托管工作区支持合盖后 agent 继续运行（Early Access）
 
 ## 适用场景
 
-- 为多个 AI agent 提供统一的、带版本管理的上下文存储
-- 按 agent 分配不同的文件访问权限并留存审计日志
-- 让 Cursor、Claude Desktop 等 MCP 客户端读取我的 Context Drive
+- 让团队和 agent 在云端协作同一份项目代码与文件
+- 为每个接入 agent 发放可独立吊销的凭据
+- 自托管一套带审计与回滚的项目托管服务
+- 把 GitHub、Gmail、Google Drive 等来源接入项目
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+ · 领域:AI 基础设施/项目托管
 
 ## 证据(README 行号)
 
-> L6:  Puppyone provides context hosting for AI agents, with Git version control and file-level scoped permissions for eve
-> L17: It supports CLI, MCP, Git, bash/SSH, and web app interactions through Access Points for different AI agents.
+> L6:  Hosts your projects as Git repositories, keeps them online, and controls which people and agents can reach them.
+> L13: puppyone is the folder your agents live in. It runs on your computer and needs no account. Cloud is the optional pa
+> L17: This repository contains that infrastructure: the API, the Cloud web app, the version engine and the database migra
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `baa576a51b18` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c8a5c94caf98` · [字段定义](../../DATASET.md)*

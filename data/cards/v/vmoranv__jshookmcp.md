@@ -2,9 +2,9 @@
 
 ⭐ 2,123 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/vmoranv/jshookmcp) · [官网](https://vmoranv.github.io/jshookmcp/) · 个人维护 · 中文 README
 
-**面向 AI agent 的 JS 逆向工程 MCP 服务器（735 工具/36 域）**
+**面向 AI agent 的 JS 逆向工程 MCP 服务器，735+ 工具覆盖 36 领域**
 
-以 MCP 服务器形式向 AI agent 提供前端与二进制逆向工程工具集：内置 735 个工具、36 个自动发现的域，覆盖浏览器自动化（Chromium/Camoufox/CDP、反检测）、网络拦截（MITM CA、HTTP/2 帧、WebSocket 捕获、Burp 桥）、JS 反混淆与 AST 分析、WASM 反汇编（wabt/Binaryen）、Frida/Ghidra/IDA 桥、进程内存取证与 APK 分析。核心机制是 search-first 的分级 profile（search 约 3K tokens / workflow / full 约 109K tokens）以控制 token 成本，支持 stdio 与 Streamable HTTP 两种传输及会话恢复。需 Node.js 22.22.2+，通过 MCP 客户端配置或 npm 安装。
+基于 MCP 协议的前端逆向工程工具服务器：通过 stdio 或 Streamable HTTP 向 AI agent 提供 36 个领域、700+ 工具，覆盖浏览器自动化（CDP、反检测、CAPTCHA 显式输入求解）、网络拦截（MITM 代理、HTTP/2、GraphQL/Burp 桥）、WASM 反汇编、Frida/Ghidra/IDA 桥接、APK 分析等。采用 search/workflow/full 三档工具画像控制 token 开销，支持会话恢复、多 agent 状态隔离与热加载插件。Node.js 22.22.2+ 运行，AGPLv3 许可，默认开启可关闭的遥测。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 735 个内置工具、36 个自动发现的域，单一 MCP 工具面
-- search/workflow/full 三级 profile 控制 token 成本（3K→109K）
-- 浏览器自动化（CDP/反检测/显式输入 CAPTCHA）、MITM 网络拦截、WASM 反汇编、Frida/Ghidra/IDA 桥
-- 热重载插件、YAML 声明式工作流、Streamable HTTP 会话状态恢复
+- search/workflow/full 三档工具画像：约 3K token 元数据到全量 739 工具
+- Chromium/Camoufox 浏览器自动化，含反检测预设与显式输入 CAPTCHA 求解
+- wabt WASM 反汇编、Frida/Ghidra/IDA 桥接、硬件断点、PE 检查
+- Streamable HTTP 会话恢复与多 agent 浏览器状态隔离
 
 ## 适用场景
 
-- 让 agent 反混淆压缩后的 JS bundle 并理解代码逻辑
-- 抓取并重放 OAuth 流程等网络请求
-- 对可疑 APK 做静态分诊与反编译
-- 多个 agent 共享一个本地逆向工作守护进程
+- 让 AI agent 反混淆压缩的 JS bundle 并理解代码
+- 抓取并重放 OAuth 或 GraphQL 请求流程
+- 逆向 WASM 加密例程并生成钩子
+- 对可疑 APK 做静态分诊与反编译分析
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L11: **A search-first, profile-aware reverse-engineering workspace for AI agents.**
-> L66: - **Search-first, profile-aware.** The `search` profile loads about 3K tokens of tool metadata; the `full` profile 
-> L78: |**Tool profiles**|`search` (~3K tokens, BM25 + hybrid vector ranking) · `workflow` (composite scripts) · `full` (a
+> L13: **A search-first, profile-aware reverse-engineering workspace for AI agents.**
+> L58: Most MCP servers for JS analysis expose a handful of hand-rolled tools or wrap a single browser engine. jshook is c
+> L118: **This is a Node.js service, not a browser library.** It runs over stdio or a local
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cd298a7484c0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b08b0cd3f0a7` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,798 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/emarco177/langchain-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
 
-**基于项目的 LangChain/LangGraph AI agent 开发课程仓库**
+**LangChain/LangGraph 开发者的实战课程代码仓库**
 
-Eden Marco 维护的 Udemy 配套课程仓库：通过 7 个端到端项目教授用 LangChain v1+ 与 LangGraph 构建 AI agent，涵盖搜索 agent（Tavily 集成）、RAG、代码解释器、反射/Reflexion agent 等。学习方式为按分支（project/* 分支）克隆代码并跟随 commit 顺序逐步学习，部分项目在外部仓库。要求 Python 3.10+、任一 Python 包管理器（uv/poetry/pipenv，不含 conda）及可访问的 LLM。声明非零基础课程，需具备 git、Python、测试调试等软件工程基础。
+配套 Udemy 课程的代码仓库，按分支组织 7 个 AI agent 项目（hello-world、search-agent、rag-gist、code-interpreter 等），另有 Ice Breaker、Reflection Agent 等外部仓库项目。学习路径分基础、实战应用、进阶三阶段，按提交顺序跟学。前置要求 Python 3.10+ 与软件工程基础，明确声明不适合零基础者，需要访问 LLM（可用 Ollama 或云服务商）。
 
 ## 筛选速览
 
@@ -20,20 +20,19 @@ Eden Marco 维护的 Udemy 配套课程仓库：通过 7 个端到端项目教�
 
 ## 能力要点
 
-- 7 个项目分支/外部仓库，从 hello-world 到 agentic RAG
-- 跟随 commit 时间线逐步学习，每个 commit 对应一课
-- 技术栈含 LangGraph、Pinecone、FAISS、Streamlit
-- LLM 可选开源（Ollama）或云厂商（OpenAI/Anthropic/Gemini）
+- 7 个实战 agent 项目按 git 分支组织，提交对应课程步骤
+- 覆盖 search agent、RAG、reflection/reflexion agent、code interpreter
+- 技术栈含 LangChain v1+、LangGraph、Pinecone、FAISS、Streamlit
 
 ## 适用场景
 
-- 跟随项目分支系统学习 LangChain 与 LangGraph agent 开发
-- 参考搜索 agent、RAG、代码解释器等实现代码
-- 按 commit 回溯理解 agent 功能的开发过程
+- 跟学分阶段构建 LangChain agent 项目
+- 按提交历史逐步学习 agent 开发流程
+- 为 RAG 与自纠正 agent 项目找参考实现
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3e5db3e24ffe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0cdac44977f7` · [字段定义](../../DATASET.md)*

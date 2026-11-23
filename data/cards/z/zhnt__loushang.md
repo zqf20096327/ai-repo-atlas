@@ -2,9 +2,9 @@
 
 ⭐ 2,104 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/zhnt/loushang) · 个人维护 · 中文 README
 
-**Python 编写的 AI-native 编码工作流 agent harness（CLI 终端工作台）**
+**面向开发者的 AI 编码 agent CLI：意图到可验证交付**
 
-面向软件开发的 CLI 与终端工作台 `loushang code`，以方法（Method）作为工作契约，将阶段、角色、工具、会话与工作产物作为运行时对象管理。提供持久化可恢复/可分叉/可导出的编码会话、内置编码工具与可配置工具面、项目级扩展钩子，以及带模型注册表、流式、工具调用与成本统计的 provider-aware AI SDK（loushang.ai），通过模型目录解析具体模型服务商端点。当前处于早期开发阶段，推荐从源码运行（git clone + make bootstrap），路线图上的 work/research/ppt 表面为演进方向。
+基于 Python 的 AI-native agent harness，当前产品为 `loushang code` CLI 与终端工作台，提供模型路由、持久会话（恢复/分叉/导出/诊断）、工具治理、项目级扩展钩子与方法引导的交付流程；同时提供 `loushang.ai` SDK（模型注册、流式、工具调用、成本辅助）。使用前需配置所选 provider 的 API key 或 OAuth。项目处于早期开发阶段，推荐从源码运行，Makefile 提供 bootstrap 与本地二进制安装目标。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 持久化编码会话：可恢复、分叉、导出与诊断
-- provider-aware AI SDK：模型注册表、流式、工具调用、成本辅助
+- 多模型路由：GPT、Claude、DeepSeek、Qwen、Kimi、GLM、MiniMax（见仓库描述）
+- 持久会话支持恢复、分叉、导出与诊断
+- 方法/阶段/角色/工具作为运行时对象的治理机制
 - 项目级扩展：钩子、自定义工具、动态资源与命令
-- 方法引导（method-guided）的编码轮次与可复用工作流资产
 
 ## 适用场景
 
-- 在终端里用多模型 agent 执行从意图到可验证交付的编码任务
-- 需要会话可恢复、可审计的长期编码工作流
-- 通过项目级扩展为 agent 注入自定义工具与命令
+- 用 CLI 把复杂编码任务从意图推进到经验证的交付
+- 需要可恢复、可审计的有状态 agent 编码会话
+- 统一接入多家 LLM provider 并做模型路由与成本管理
 
 ## 场景标签
 
@@ -38,6 +38,7 @@
 ## 证据(README 行号)
 
 > L7: Current focus: `loushang code`, a CLI and terminal workbench for software development with model routing, persistent
+> L15: Method is the work contract, work is the runtime fact, agent is the execution kernel, ai is the model access layer,
 > L20: - `loushang.ai`: a provider-aware AI SDK with model registry, streaming, tool calls, and cost helpers.
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `481208416fd2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3279fa3f288e` · [字段定义](../../DATASET.md)*

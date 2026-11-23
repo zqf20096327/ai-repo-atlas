@@ -1,10 +1,10 @@
 # zilliztech/VectorDBBench
 
-⭐ 1,201 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/zilliztech/VectorDBBench) · [官网](https://zilliz.com/vector-database-benchmark-tool) · 组织维护
+⭐ 1,201 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/zilliztech/VectorDBBench) · [官网](https://zilliz.com/vector-database-benchmark-tool) · 组织维护 · 中文 README
 
-**向量数据库性能与成本效益基准测试工具**
+**面向开发者的向量数据库性能与性价比基准测试工具**
 
-由 Zilliz 维护的向量数据库基准测试工具，覆盖 20 余种开源向量库与云服务（Milvus、Qdrant、Pinecone、Weaviate、Elastic、pgvector 系、Redis、MongoDB 等），提供可重复的插入、向量搜索、过滤搜索与 BM25 全文搜索工作负载；内置数据集涵盖 SIFT/GIST、Cohere/OpenAI 嵌入及 Hugging Face 上的 VIBE 多模态数据集。提供可视化界面 init_bench 与 CLI 两种运行方式，输出 QPS、时延、召回率及云服务成本效益报告。需 Python 3.11 以上，按后端安装对应 extras。
+VDBBench 是一个向量数据库基准测试工具，除提供主流数据库与云服务的基准结果外，允许用户自行复现结果或测试新系统。它为插入、向量搜索、过滤搜索和全文搜索提供可复现的工作负载，注册数据集涵盖 SIFT、GIST、Cohere Wikipedia、OpenAI C4 嵌入及托管在 Hugging Face 的多模态数据集。提供 Web 可视化界面（init_bench）与 vectordbbench 命令行两种运行方式，针对云服务生成性价比报告。要求 Python ≥ 3.11，默认安装仅含 PyMilvus 客户端，其余数据库客户端通过 extras 按需安装。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 支持 20 余种向量数据库后端的可重复基准测试
-- 覆盖插入、向量搜索、过滤搜索与 BM25 全文搜索负载
-- 注册数据集含 SIFT/GIST、Cohere/OpenAI 嵌入与 Hugging Face 多模态数据集
-- 提供可视化界面与 CLI 两种运行方式，输出成本效益报告
+- 支持插入、向量搜索、过滤搜索、全文搜索的可复现工作负载
+- 提供 Web 界面（init_bench）与 vectordbbench CLI 两种运行方式
+- 注册数据集覆盖不同语料规模、维度、模态、距离度量与查询分布
+- 通过 pip extras 支持数十种数据库客户端按需安装
 
 ## 适用场景
 
-- 选型时对比多个向量数据库或云服务的性能
-- 复现公开榜单结果或测试自有部署
-- 评估云服务在真实工作负载下的成本效益
+- 在自建集群上复现向量数据库排行榜的测试用例
+- 对比不同云向量服务在真实负载下的性价比
+- 用 Hugging Face 托管数据集测试新接入的向量数据库
+- 以命令行参数化方式批量运行性能与召回测试
 
 ## 场景标签
 
- · 领域:数据库/评测工具
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L6: ## What is VDBBench
+> L7: VDBBench is not just an offering of benchmark results for mainstream vector databases and cloud services, it's your 
 > L12: VectorDBBench provides repeatable workloads for insertion, vector search,
+> L57: pip install vectordb-bench
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `16f4d93e92a0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `df42648f6d0d` · [字段定义](../../DATASET.md)*

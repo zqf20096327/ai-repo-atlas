@@ -2,9 +2,9 @@
 
 ⭐ 1,534 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mirascope/mirascope) · [官网](https://mirascope.com) · 组织维护
 
-**统一接口调用各类前沿 LLM 的 Python/TS 库**
+**统一接口调用任意前沿 LLM 的 Python/TypeScript 库**
 
-自称「LLM Anti-Framework」的库：以装饰器方式用统一接口调用任意前沿 LLM，支持通过 Pydantic 获取结构化输出、构建带工具调用的 Agent，并提及流式、异步与多轮对话等能力（详见文档）。仓库为 monorepo，含 Python 与 TypeScript 两种实现及各自示例，另有营销网站与统一文档；使用语义化版本，MIT 许可证。面向构建 LLM 应用的开发者。
+Mirascope 是一个 Python 与 TypeScript 双实现的 LLM 接入库，提供统一接口调用不同前沿模型。核心用法包括装饰器方式发起 LLM 调用、基于 Pydantic 模型获取结构化输出、以工具构建 Agent；支持流式输出、异步与多轮对话（见其文档）。项目为 monorepo 结构，含 Python/TypeScript 实现与示例、统一跨语言文档及营销网站，采用语义化版本与 MIT 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 装饰器方式统一接口调用 LLM
-- 基于 Pydantic 的结构化输出
-- 带工具调用的 Agent 构建
-- 同时提供 Python 与 TypeScript 实现
+- 统一接口调用任意前沿 LLM
+- 装饰器方式调用 LLM 并获取基于 Pydantic 的结构化输出
+- 提供带工具的 Agent 构建方式，支持流式/异步/多轮对话
+- Python 与 TypeScript 双语言实现及跨语言统一文档
 
 ## 适用场景
 
-- 用同一套代码切换不同 LLM 提供商
-- 从 LLM 获取符合 Schema 的结构化数据
-- 构建带工具调用的 Agent 应用
+- 在 Python 项目中用一套接口切换不同 LLM 提供商
+- 用 Pydantic 定义结构从模型获取结构化输出
+- 构建带工具调用的 LLM Agent
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L13: Welcome to Mirascope, which allows you to use any frontier LLM with one unified interface.
-> L25: ```python
+> L40: ### Build an Agent with Tools
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2026fb671573` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b2bfc58a181d` · [字段定义](../../DATASET.md)*

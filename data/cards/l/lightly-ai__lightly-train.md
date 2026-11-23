@@ -2,9 +2,9 @@
 
 ⭐ 1,744 · Python · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/lightly-ai/lightly-train) · [官网](https://docs.lightly.ai/train) · 组织维护
 
-**面向视觉模型的预训练、微调与蒸馏一体化训练框架**
+**视觉模型训练框架：预训练/微调/蒸馏检测分割深度模型**
 
-Lightly 公司维护的计算机视觉训练框架，覆盖模型开发全流程：在无标注数据上预训练 DINOv2/v3 视觉基础模型、从 DINOv2/v3 蒸馏到任意架构（YOLO、RT-DETR、Faster R-CNN 等）、以及在检测/分割/分类任务上微调，另提供 Depth Anything V2/V3 深度估计推理与基于预训练模型的自标注命令。给出 COCO、COCO-Stuff、Cityscapes、ImageNet-1K 等基准结果，支持 ONNX/TensorRT FP16 导出。通过 pip 安装，Python 3.8+，Windows/Linux/macOS；商业用途需联系获取 Commercial License。
+Python 训练框架，覆盖视觉模型开发生命周期：在无标注数据上预训练 DINOv2/v3 类基础模型，微调 LTDETR/DINOv3/EoMT 系列做目标检测、实例/语义/全景分割、图像分类，并用 DINOv2/v3 蒸馏将知识迁移到 YOLOv8/v11、RT-DETR 等任意架构；另提供 Depth Anything 系列的单目深度推理。各任务给出 COCO/Cityscapes 基准表与 TensorRT/ONNX 导出路径。pip 安装，支持 Windows/Linux/macOS，Python 3.8+；商业使用需联系获取商业许可。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ Lightly 公司维护的计算机视觉训练框架，覆盖模型开发全流程
 
 ## 能力要点
 
-- DINOv2/v3 预训练与知识蒸馏（含自定义教师模型）
-- 目标检测/实例分割/语义分割/全景分割/分类的微调训练
-- Depth Anything V2/V3 单目深度推理（含自蒸馏小模型）
-- ONNX/TensorRT FP16 导出与自标注命令
+- 无标注数据上预训练 DINOv2/v3 基础模型
+- 蒸馏 DINOv2/v3 权重到任意架构（YOLO、RT-DETR、Faster R-CNN）
+- LTDETRv2/EoMT 检测与分割模型训练，支持 ONNX/TensorRT 导出
+- Depth Anything V2/V3 单目深度推理与自蒸馏小模型
 
 ## 适用场景
 
-- 用自有无标注图像预训练或蒸馏视觉基础模型
-- 为边缘部署微调检测与分割模型并导出 TensorRT
-- 用预训练模型为无标注图像自动打标以扩充训练集
+- 在自有无标注数据上做视觉预训练提升下游检测精度
+- 训练边缘部署用的小参数量检测/分割模型
+- 用蒸馏把基础模型知识迁移到 YOLO 等生产模型
+- 部署单目深度估计推理
 
 ## 场景标签
 
-`模型训练` `微调` · 领域:训练与推理
+ · 领域:计算机视觉/深度学习训练
 
 ## 证据(README 行号)
 
 > L16: LightlyTrain is the leading framework for transforming your data into state-of-the-art
-> L18: pretraining DINOv2/v3 vision foundation models on your unlabeled data to fine-tuning
+> L19: transformer and YOLO models on detection and segmentation tasks for edge deployment.
+> L88: pip install lightly-train
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `53963aaf4206` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c535e84926fc` · [字段定义](../../DATASET.md)*

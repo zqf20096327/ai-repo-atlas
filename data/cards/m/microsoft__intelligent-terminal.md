@@ -4,7 +4,7 @@
 
 **带原生 Agent 集成的 Windows Terminal 实验性分支**
 
-微软维护的 Windows Terminal 分支，在终端中内置 Agent 窗格、Agent 状态栏、会话管理与命令面板提示等能力。通过 Agent Client Protocol (ACP) 兼容任意 agent CLI，首次启动自动检测已装的 Copilot/Claude/Codex/Gemini/OpenCode 等，默认 GitHub Copilot CLI。支持 BYOK 自定义 provider（OpenAI 兼容端点，含本地 Ollama 无 key 端点）、错误检测与修复建议、斜杠命令。要求 Windows 10 2004 及以上，经 Microsoft Store/WinGet/安装包分发，README 标注为实验性 fork。
+Windows Terminal 的实验性分支，保留标签页、配置文件、主题、Shell 与快捷键等原有功能，并新增 agent 面板：兼容任何支持 Agent Client Protocol (ACP) 的 agent CLI，可感知所有 Shell（PowerShell、Bash/WSL）的输出上下文，建议命令需用户显式批准运行。支持自定义快捷键、错误检测（可自动发送失败上下文给 agent）、会话管理、token 用量显示、BYOK 自定义端点，API key 存于 Windows 凭据管理器。安装途径包括 Microsoft Store、WinGet 与 App Installer，要求 Windows 10 2004 (19041) 或更高版本。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- ACP 协议兼容任意 agent CLI，自动检测多个已装 agent
-- Agent 窗格可读取 shell 输出上下文，命令执行需用户批准
-- BYOK 自定义 provider（OpenAI 兼容端点，支持本地 Ollama）
-- 错误自动检测、/fix 诊断建议与 token 用量显示
+- 兼容任意 ACP 协议的 agent CLI，自动检测本机 agent（Copilot/Claude/Codex/Gemini/OpenCode/Antigravity）
+- agent 面板感知全部 Shell 输出上下文，命令执行需用户显式批准
+- BYOK 自定义端点：OpenAI 兼容 Chat Completions 接口，支持无 key 的本地 Ollama 端点
+- 错误检测与自动修复、会话管理、token 用量与成本显示
 
 ## 适用场景
 
-- 在终端里直接向 agent 提问并让其解释命令错误
-- 把本地 Ollama 模型接入终端 agent 窗格
-- 跨多个 agent CLI（Copilot/Claude/Codex/Gemini 等）在同一终端内切换使用
+- 在命令行中直接与 AI agent 对话排障，无需复制粘贴 Shell 输出
+- 为不同 profile（含 WSL 发行版内）配置不同的 agent
+- 接入本地模型端点进行离线/私有化的 agent 会话
+- 管理多个并行 agent 会话并查看历史会话
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L13: Intelligent Terminal is an experimental fork of Windows Terminal with native agent integration.
 > L15: Intelligent Terminal works with any Agent Client Protocol (ACP)-compatible agent CLI. All you need is to install yo
-> L81: |Agent and model|GitHub Copilot (default), or any ACP-compatible agent CLI, including custom or local agents. Confi
+> L17: Intelligent Terminal takes all the features you love in Windows Terminal such as: tabs, profiles, themes, settings,
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8303c2b7a9c7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e0d2adeae2de` · [字段定义](../../DATASET.md)*

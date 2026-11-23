@@ -2,9 +2,9 @@
 
 ⭐ 1,892 · HTML · 推送 2026-11-21 · [GitHub](https://github.com/thinkwee/AgentsMeetRL) · [官网](https://thinkwee.top/amr/) · 个人维护
 
-**Agentic RL 开源仓库策展清单：LLM Agent 强化学习训练项目汇总**
+**用强化学习训练 LLM Agent 的开源仓库清单**
 
-汇总用强化学习训练 LLM Agent 的开源仓库的 awesome list，按 16 个类别组织（基础框架、Search & RAG、Web & GUI、Tool-Use、Multi-Agent RL、Safety、VLM Agent 等）。收录标准要求项目含多轮交互或工具使用，并逐仓库核验含真实 RL 训练代码；每个条目附技术细节表，枚举 RL 算法、奖励类型、单/多轮、工具使用等维度。另将语料打包为 Claude Code Skill（agents-meet-rl，411 项目快照），可按需安装用于训练调试问答。README 自述基于 LLM coding agent 的代码分析生成，可能含疏漏。
+一个 awesome 类清单，汇总使用强化学习训练 LLM Agent 的开源仓库。收录标准是项目须具备多轮交互或工具使用；条目按 16 个类别组织（基础框架、搜索与 RAG、Web/GUI、工具使用、代码与 SWE、安全等），并标注各项目依赖的 RL 框架、算法、奖励与环境等技术选择。清单同时打包为 Claude Code Skill（含 467 个项目的机器可读语料），支持按症状查询训练问题的答案并锚定到具体论文与仓库。收录项目需经人工核验含有真实 RL 训练或可执行环境代码。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 16 类 taxonomy 覆盖 200+ 个 agentic RL 开源仓库
-- 逐仓库核验含真实 RL 训练代码，未开源论文列入 Under Review
-- 每条目附技术细节表（RL 算法/奖励类型/单多轮/工具使用）
-- 另打包为 Claude Code Skill（411 项目机器可读语料）
+- 按 16 个分类组织的 LLM Agent 强化学习训练仓库清单
+- 标注各项目依赖的 RL 框架、算法、奖励与环境（技术细节表）
+- 打包为 Claude Code Skill，含 467 个项目的机器可读语料与工程手册
+- 收录需核验仓库含真实 RL 训练或可执行环境代码，代码未公开的论文列入 Under Review
 
 ## 适用场景
 
-- 为多轮/工具使用型 agent 选型 RL 训练框架与算法
-- 调研 agentic RL 各子方向的开源项目分布
-- 排查 GRPO/PPO 训练问题时检索相关论文与仓库
+- 为多轮工具使用 Agent 选择 RL 训练框架与算法
+- 调研某类 Agent（如搜索、GUI、具身）的 RL 训练方案与技术选型
+- 通过 Claude Code Skill 排查 GRPO/PPO 训练中奖励不涨、KL 爆炸等问题
 
 ## 场景标签
 
-`精选清单` `强化学习` `科研工具` · 领域:学习与行业
+`精选清单` `强化学习` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L27: **AgentsMeetRL** is an awesome list that summarizes **open-source repositories** for training LLM Agents using rein
 > L35: Taxonomy:
+> L74: This list is also packaged as a **Claude Code Skill** — `agents-meet-rl` — that turns the corpus into an on-demand 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1f36dc248c65` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ea6a30d9deba` · [字段定义](../../DATASET.md)*

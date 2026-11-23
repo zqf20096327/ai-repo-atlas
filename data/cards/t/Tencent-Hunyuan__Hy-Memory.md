@@ -2,9 +2,9 @@
 
 ⭐ 2,092 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) · 组织维护 · 中文 README
 
-**面向自进化 LLM agent 的双系统认知记忆引擎与 Python SDK**
+**面向 LLM Agent 的双系统认知记忆引擎与 SDK**
 
-腾讯混元开源的认知记忆引擎与 Python SDK（hy-memory），为自进化 LLM agent 提供三类场景记忆管线：Chat 场景的 8 层（L0–L7）层级长期记忆、Working 场景的双层事实与可复用经验记忆、Coding 场景的版本演化 diff 链追踪。配置仅需任意 OpenAI 兼容的 LLM 与 embedding 端点；提供 lite/pro/ultra 三种模式（lite 零 LLM 调用），向量存储默认 ChromaDB，可选 Qdrant/FAISS，图存储用 Kuzu/Neo4j。配套 MemHub 桌面/CLI 产品统一管理跨应用记忆，另有 30B-A3B MoE 记忆写入模型与论文。
+腾讯混元开源的 Python SDK（hy-memory）与配套桌面/CLI 产品 MemHub，为自进化 LLM Agent 提供跨 Chat、Working、Coding 三类场景的记忆管线：Chat 场景用 L0–L7 分层认知记忆，Working/Coding 场景用事实+可复现经验两层记忆，Coding 另含代码版本演化 diff 链。配置仅需一个 OpenAI 兼容的 LLM 与嵌入端点，本地运行时需通过环境变量提供 API key。以 PyPI 包分发，Apache-2.0 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 三场景记忆管线：Chat 8 层层级记忆、Working/Coding 双层事实+经验记忆
-- Coding 版本演化 diff 链：零 LLM 调用存储每版代码真实 diff
-- lite/pro/ultra 三模式，lite 零 LLM 成本，仅做向量读写
-- 任意 OpenAI 兼容 LLM/embedding 端点即可运行
+- 三种记忆场景：chat 分层认知、working/coding 两层事实+经验记忆
+- coding 场景的版本演化 diff 链，零 LLM 调用存储每次代码变更
+- lite/pro/ultra 三种模式，lite 无 LLM 调用、ultra 含 System 2 schema 归纳
+- MemHub 桌面/CLI 统一管理 Claude Code、Cursor 等应用的对话与编码轨迹
 
 ## 适用场景
 
-- 为 LLM agent 接入长期个人对话记忆
-- 让编码 agent 保留可复用工程经验与代码修订轨迹
-- 跨 AI 应用（Claude Code/Cursor/Codex 等）统一召回记忆
+- 为对话型 Agent 添加长期个人记忆与冲突调和
+- 为编码 Agent 保存可复用的工程经验与代码修改轨迹
+- 通过 MemHub 统一管理多个 AI 编程工具的跨应用记忆召回
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L5:  Production-grade dual-system cognitive memory for LLM agents.
 > L20: **Hy Memory** (Official Website) is a production-grade dual-system cognitive memory engine and Python SDK (`hy-memo
-> L55: pip install hy-memory==2.0.3              # core (includes ChromaDB and Kuzu)
-> L83: from hy_memory import HyMemoryClient
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `992bd30ec228` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d580a5cf6a13` · [字段定义](../../DATASET.md)*

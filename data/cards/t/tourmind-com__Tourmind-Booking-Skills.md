@@ -2,9 +2,9 @@
 
 ⭐ 2,416 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tourmind-com/Tourmind-Booking-Skills) · [官网](https://tourmind.com/skills) · 组织维护 · 中文 README
 
-**让 AI Agent 完成酒店与机票搜索、比价、预订与支付的技能包**
+**让 AI agent 搜索比价并预订全球酒店与机票的技能包**
 
-TourMind 维护的 Agent Skills 仓库：为支持 Skills 的 Agent 客户端（ChatGPT Codex、Claude Code、Cursor、Kimi、豆包等）提供端到端酒店与机票预订能力，通过 TourMind API 搜索全球酒店与实时机票、对比 OTA 与供应商的实时价格、核验最终价格，并在用户明确确认后完成预订、支付、订单查询与酒店取消。搜索无需 Token，验证、预订与支付需 TourMind Skill Token；机票技能不支持退改签与辅助服务购买。通过 npx skills add 或让 Agent 自行安装。
+TourMind 提供的 agent 技能仓库，包含酒店（tourmind-booking）与机票（flight-booking-ai）两个 Skill：在全球库存中搜索酒店与航班、跨 OTA 与供应商比对实时价格、复核可用性与最终价格，并完成预订、支付、订单查询与符合条件的酒店取消。通过 npx 安装到检测到的 agent 客户端，搜索与比价免 Token，预订/支付/取消需 TourMind Skill Token 且每步需用户明确确认。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ TourMind 维护的 Agent Skills 仓库：为支持 Skills 的 Agent 客户端（
 
 ## 能力要点
 
-- 酒店与机票搜索、实时比价、价格核验一体化 Skills
-- 预订、支付、取消前需用户在会话中明确确认
-- 搜索无需 Token，交易类操作经 Skill Token 认证
-- 支付支持 Stripe（加收 3.5% 手续费）及 CNY 订单的微信/支付宝/网银
+- 酒店与机票两个 Skill，一次 npx 命令安装到多个 agent 客户端
+- 搜索与比价免 Token；预订、支付、取消需 Token 与显式确认
+- 交易前展示关键细节并等待确认，搜索不产生订单
+- 同一 Skill Token 覆盖两个 Skill，本地文件权限 chmod 600 保护
 
 ## 适用场景
 
-- 让 AI Agent 按预算和偏好搜索并对比酒店与机票
-- 确认前核验实时房价/票价，再由 Agent 完成预订与支付
-- 行程规划时同时搜索机票与酒店并查询订单状态
+- 在 agent 对话中搜索并比对东京酒店实时房价后预订
+- 查找上海往返东京航班并核对行李额与总价
+- 让 agent 规划含机票与酒店的整体行程
+- 查询已下单机票/酒店的订单状态与支付方式
 
 ## 场景标签
 
@@ -39,6 +40,7 @@ TourMind 维护的 Agent Skills 仓库：为支持 Skills 的 Agent 客户端（
 
 > L23: Give your AI Agent end-to-end hotel booking and worldwide flight search and booking capabilities. Without leaving y
 > L57: TourMind Booking Skills can be used with ChatGPT (Work or Codex mode), Claude Code, WorkBuddy, QClaw, Marvis, OpenC
+> L61: This Skill repository combines hotel and flight support for both personal (ToC) and business (ToB) users. MCP packa
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9164f2763944` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `365681741ecc` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,719 · PHP · MIT · 推送 2026-11-18 · [GitHub](https://github.com/LLPhant/LLPhant) · 组织维护
 
-**PHP 生成式 AI 应用开发框架，接入多种 LLM 与向量数据库**
+**PHP 生成式 AI 框架：构建 LLM 应用与向量检索**
 
-面向 PHP 开发者的生成式 AI 框架，兼容 Symfony 与 Laravel。提供构建 AI 应用的工具集，支持 OpenAI、Anthropic、Mistral、Ollama、LM Studio、Atlas Cloud 等多种 LLM 服务及 OpenAI API 兼容服务（如 LocalAI），可用 Ollama 本地运行 Llama 2。包含 JevClassifier 类型化分类功能（Noul/Choice/Score），可检测恶意提示注入，相关代码已抽取为独立库 Jev-PHP。通过 Composer 安装，要求 PHP 8.1+，主要客户端基于 OpenAI PHP SDK。
+面向 PHP 开发者的生成式 AI 框架，提供构建 LLM 应用的工具集，兼容 Symfony 与 Laravel。支持 OpenAI、Anthropic、Mistral、Ollama、LM Studio 及 OpenAI API 兼容服务等多种 LLM 接入，其中 Ollama 可本地运行 Llama 2 等模型。提供 JevClassifier 类型化分类能力，返回 token 用量元数据，并可用于检测提示注入。通过 Composer 安装，要求 PHP 8.1+，文档位于 docs 目录及在线站点。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 支持 OpenAI、Anthropic、Mistral、Ollama、LM Studio 等多种 LLM 服务
-- 兼容 Symfony 与 Laravel 框架
-- JevClassifier 类型化分类与恶意提示注入检测
-- 支持 OpenAI API 兼容服务（如 LocalAI）
+- 兼容 Symfony 与 Laravel 的 PHP 生成式 AI 框架
+- 支持 OpenAI/Anthropic/Mistral/Ollama/LM Studio 等多种 LLM 接入
+- JevClassifier 类型化分类并暴露 inputTokens/outputTokens 元数据
+- ClassifierPromptInjectionQueryTransformer 检测恶意提示注入
 
 ## 适用场景
 
-- 在 PHP/Laravel/Symfony 项目中接入 LLM 构建生成式 AI 应用
-- 通过 Ollama 等本地运行 LLM 进行开发
-- 对问答系统做提示注入检测
+- 在 PHP/Symfony/Laravel 项目中接入 LLM 构建应用
+- 使用 Ollama 在本地运行 Llama 2 等模型
+- 构建基于向量数据库的检索应用
+- 对问答结果做分类并检测提示注入
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L1: # LLPhant - The PHP library for Gen AI and Vector Databases
-> L5: We designed this framework to be as simple as possible, while still providing you with the tools you need to build p
-> L8: We are working to expand the support of different LLMs. Right now, we are supporting OpenAI, Anthropic, Mistral, Oll
+> L10: We are working to expand the support of different LLMs. Right now, we are supporting OpenAI, Anthropic, Mistral, Ol
+> L55: First, install LLPhant via the Composer package manager:
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4c694be9ba4b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0c522ebf34d0` · [字段定义](../../DATASET.md)*

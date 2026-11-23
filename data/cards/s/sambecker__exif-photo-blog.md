@@ -2,9 +2,9 @@
 
 ⭐ 1,729 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/sambecker/exif-photo-blog) · [官网](https://photos.sambecker.com) · 个人维护
 
-**基于 Next.js 的照片博客，展示每张照片的 EXIF 相机参数**
+**摄影博客模板：为每张照片记录并展示 EXIF 参数**
 
-面向摄影爱好者/个人摄影师的相册博客模板：上传照片时自动提取 EXIF（光圈、快门、ISO 等），按标签、相机、镜头、胶片模拟等分类组织，支持认证后台、无限滚动、OG 图生成、CMD-K 搜索与 RSS/JSON feed。可选启用 AI 生成照片文字描述与色彩分析（通过 Vercel AI Gateway 或 OpenAI 兼容端点）。部署主路径为 Vercel（Vercel Postgres + Blob），也可用 Cloudflare R2/AWS S3/MinIO 作为存储适配器，本地开发需 pnpm 与 Vercel CLI。
+基于 Next.js 的照片博客模板，部署到 Vercel 使用 Vercel Postgres 与 Vercel Blob 存储。提供内置鉴权、带 EXIF 提取的照片上传、标签组织、无限滚动、明暗模式、OG 图自动生成、CMD-K 搜索与 RSS/JSON 订阅，并支持富士及 OM SYSTEM/Olympus 胶片模拟配方展示。可选启用 AI 功能：通过 Vercel AI Gateway 或 OpenAI（含 OpenAI 兼容端点）生成照片的文字描述与颜色分析；位置元数据依赖 Google Places/Geocoding API。更新通过 fork 仓库获取。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 上传时自动提取 EXIF 相机参数并展示
-- AI 生成照片标题/描述/标签与色彩分析（可选用）
-- 四种存储适配器：Vercel Blob、Cloudflare R2、AWS S3、MinIO
-- 标签/相机/镜头/胶片模拟等多维分类与色彩排序
+- 照片上传时自动提取 EXIF（光圈、快门、ISO 等）
+- 可选 AI 生成标题/描述/标签/语义字段，支持 OpenAI 兼容端点
+- 支持 S3、Cloudflare R2、MinIO 等存储后端的程序化上传脚本
+- 按相机、镜头、配方、焦距等多维分类浏览与排序
 
 ## 适用场景
 
 - 搭建展示拍摄参数的个人摄影博客
-- 让 AI 自动为上传的照片生成标题、描述与标签
-- 按相机、镜头、胶片配方整理和浏览照片
+- 管理带标签与分类的摄影作品集
+- 上传照片时自动生成标题与描述文案
 
 ## 场景标签
 
-`多模态` · 领域:感知与多模态
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L21: - Photo upload with EXIF extraction
-> L27: - AI-generated text descriptions
-> L103: To enable AI-powered color analysis and text descriptions of photos, configure a provider. Vercel AI Gateway is th
+> L26: - Photo upload with EXIF extraction
+> L32: - AI-generated text descriptions
+> L109: To enable AI-powered color analysis and text descriptions of photos, configure a provider. Vercel AI Gateway is th
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `20fcc3e9633c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d221fa65721f` · [字段定义](../../DATASET.md)*

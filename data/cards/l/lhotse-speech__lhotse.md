@@ -2,9 +2,9 @@
 
 ⭐ 1,166 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/lhotse-speech/lhotse) · [官网](https://lhotse.readthedocs.io/en/latest/) · 组织维护
 
-**语音/多模态机器学习数据准备与加载的 Python 库**
+**多模态数据集准备与 PyTorch 数据管道构建库**
 
-面向语音与多模态（音频、视频、图像、文本）机器学习项目的数据准备工具库，与 k2 共同构成下一代 Kaldi。提供标准数据准备 recipe、人类可读的 manifest 格式、audio cuts 概念（on-the-fly 混合/截断/填充）、Lhotse Shar 顺序 I/O 存储格式，以及与 PyTorch DataLoader 集成的任务专属 Dataset 类。支持分布式多节点训练的数据随机化与去重。需要 Python 3.10+，torchaudio、lilcom、webdataset 等均为可选依赖。
+Python 库，为音频、视频、图像和文本提供清单（manifest）表示，配合在线增强、动态分批、分片存储与可断点续传的 dataloading，用于构建可扩展的 PyTorch 数据管道。核心抽象是 RecordingSet、SupervisionSet 与 CutSet，清单以 JSONL 懒加载方式流式处理，无需全部载入内存。要求 Python 3.11+ 与 PyTorch；torchaudio、TorchCodec、FFmpeg 等为可选后端。安装走 PyPI 或源码，另提供 Colab 教程与常用语料库的 recipe。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- audio cuts 抽象支持 on-the-fly 混合、截断、填充以节省存储
-- Lhotse Shar 顺序 I/O 存储格式（类似 webdataset），支持 WebDataset 集成
-- 面向常用语料的标准化数据准备 recipe 与 PyTorch Dataset 类
-- Kaldi 兼容层（kaldi_native_io、kaldifeat）与 lilcom 特征压缩可选安装
+- 多模态清单表示（音频/视频/图像/文本），含 Python 与 CLI API
+- JSONL 清单懒加载与流式过滤、混洗、数据集混合
+- 按时长动态分批与分布式 rank 切分，减少 padding
+- Lhotse Shar 分片存储与索引化、可断点续传的 dataloading
 
 ## 适用场景
 
-- 为语音识别/语音任务训练准备和加载数据
-- 将多语料数据集混合、去重后用于分布式训练
-- 把数据编译为 WebDataset tarball 提升读取效率
+- 为语音识别/多模态训练准备大规模数据集清单
+- 构建可断点续传的多 worker PyTorch DataLoader
+- 导入导出 Kaldi 格式数据或对接 WebDataset
+- 在 Colab 中运行数据管道教程笔记本
 
 ## 场景标签
 
-`MLOps` · 领域:训练与推理
+`语音识别` `多模态` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L13: Lhotse is a Python library aiming to make multimodal (speech, audio, video, image, text) data preparation flexible 
-> L52: Like Kaldi, Lhotse provides standard data preparation recipes, but extends that with a seamless PyTorch integration
+> L15: Lhotse is a Python library for preparing multimodal datasets and building scalable
+> L16: PyTorch data pipelines. It provides manifests for audio, video, images, and text,
+> L118: - Icefall: speech recognition recipes combining
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `03353d0bc0b7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cdca38c36881` · [字段定义](../../DATASET.md)*

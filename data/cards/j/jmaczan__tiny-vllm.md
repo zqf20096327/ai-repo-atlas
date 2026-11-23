@@ -2,9 +2,9 @@
 
 ⭐ 1,207 · C++ · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/jmaczan/tiny-vllm) · 个人维护
 
-**用 C++/CUDA 从零实现 LLM 推理引擎的教学课程与源码**
+**教你用 C++/CUDA 从零实现 LLM 推理引擎的课程+源码**
 
-包含两部分：一个可构建运行的推理服务器完整源码，以及带领读者从零推导并实现引擎的课程。引擎从 Safetensors 加载 Llama 3.2 1B Instruct，实现 prefill+decode 前向、KV cache、静态/连续批处理、online softmax（FlashAttention 风格）与 PagedAttention，全部计算用 CUDA kernel。需 NVIDIA GPU 自行编译（./test.sh），也支持经 ROCm/HIP 在 AMD GPU 上构建。面向学习者与高校教学，不做模型训练。
+仓库由两部分组成：完整的推理服务器源码（C++/CUDA 实现）与配套教学课程，作者引导学习者从零推导实现思路。引擎功能包括加载 Safetensors 权重（Llama 3.2 1B Instruct）、完整前向过程（prefill+decode）、KV cache、静态与连续批处理、FlashAttention-like softmax 与 PagedAttention。面向高技术水平的读者与讲师，可作学习或教学资源；训练与模型设计不在课程范围内，需 NVIDIA GPU（AMD GPU 可经 ROCm/HIP 构建）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Safetensors 加载 Llama 3.2 1B Instruct 并实现完整前向（prefill+decode）
-- KV cache、静态/连续批处理、online softmax、PagedAttention
-- 全部计算以 CUDA kernel 实现，cuBLAS 辅助
-- 支持经 ROCm/HIP 在 AMD GPU（gfx90a/gfx1100/gfx1201）构建
+- CUDA 内核实现全部计算，含 KV cache 与连续批处理
+- 实现 PagedAttention 与 FlashAttention-like 机制
+- 读取 Safetensors 格式模型权重（Llama 3.2 1B Instruct）
+- 支持 AMD GPU：通过 ROCm/HIP 构建路径复用 CUDA 源码
 
 ## 适用场景
 
-- 学习 LLM 推理引擎内部原理并亲手实现
-- 高校课程的教学资源
-- 理解 PagedAttention、连续批处理等推理优化机制
+- 学习 LLM 推理引擎内部实现与 CUDA 编程
+- 讲师将引擎实现过程用作高校教学资源
+- 理解 PagedAttention、连续批处理等推理机制的工程实现
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: You're going to build a high performance LLM inference engine with C++ and CUDA - tiny-vllm, a younger and smaller s
-> L9: The inference engine consists of:
-> L16: - [x] continuous batching
+> L7: This repository consists of two things: 1. a full source code of the inference server and 2. a course where I lead y
+> L47: 3. **Serve the model (we are here)** - The file with weights can't be ran on a computer. It's not an executable. It
+> L53: > Out of scope: The training phase of an LLM is something we don't do in this course. We take a trained LLM and wri
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `11ee2c2fc482` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a67ab3adf818` · [字段定义](../../DATASET.md)*

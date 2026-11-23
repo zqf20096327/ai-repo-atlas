@@ -2,9 +2,9 @@
 
 ⭐ 1,855 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/IliasHad/orcah-studio) · [官网](https://orcah.app) · 个人维护
 
-**本地自托管视频知识库：索引视频并用自然语言搜索**
+**本地自托管视频知识库：自然语言检索视频内容**
 
-自托管的视频知识库应用（原 Edit Mind）：后台服务监视新视频文件并队列化处理，用 Whisper 转录、人脸识别、物体与文字检测、场景分析提取元数据，多模型嵌入后写入 ChromaDB，支持对视频或单个场景的自然语言语义搜索。全程本地运行，通过 Docker Compose 部署，NLP 可选本地 Ollama 或 Gemini。README 声明处于活跃开发、尚非生产就绪。另有付费原生 macOS 应用（orcah.app）。
+自托管的本地视频知识库：后台服务监视视频文件夹，对入库视频做转录、人脸识别、物体与文字检测、场景分析，并用多模型嵌入写入 ChromaDB 向量库，随后支持以自然语言在视频或单个场景级别做语义检索。以 Docker Compose 部署的 Web 应用形式运行，ML 服务基于 Python/PyTorch/OpenAI Whisper，NLP 可选本地 Ollama 或 Gemini。README 声明项目处于活跃开发中，尚未 production-ready。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 后台服务自动监视并索引新视频文件
-- Whisper 转录、人脸识别、物体/文字检测等多模态元数据提取
-- 基于 ChromaDB 的自然语言语义搜索（视频与场景级）
-- Docker Compose 一键部署，提供 NVIDIA GPU 专用 compose 文件
+- 转录+人脸识别+物体/文字检测+场景分析的多模态索引
+- 基于 ChromaDB 的向量语义搜索，支持按口述内容/人脸/物体检索
+- 本地运行，视频库保留在本机，仅将所选目录挂载给 Docker
+- 提供 NVIDIA GPU 专用 docker-compose.cuda.yml
 
 ## 适用场景
 
-- 把本地视频库变成可搜索的知识库，按语音内容找片段
-- 按出现的人物、物体、场景检索视频
-- 在自有服务器上私密地管理视频素材
+- 在海量本地视频库中用自然语言找到某个片段
+- 按人脸或出现的物体检索家庭/监控录像
+- 在本地服务器上自托管隐私优先的视频检索服务
 
 ## 场景标签
 
-`语义搜索` `人脸识别` `目标检测` · 领域:知识与检索
+`语义搜索` `语音识别` `人脸识别` `目标检测` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3: **Orcah Studio** (formerly **Edit Mind**) is a self-hosted video knowledge base. It indexes your videos — including 
 > L35: * **AI-Powered Video Analysis:** Extracts metadata like face recognition, transcription, object & text detection, s
+> L36: * **Vector-Based Semantic Search:** Powerful natural language search capabilities on video content using ChromaDB.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `01dd8040ab1a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `dc4a56b4d901` · [字段定义](../../DATASET.md)*

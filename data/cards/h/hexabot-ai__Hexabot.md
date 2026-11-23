@@ -2,9 +2,9 @@
 
 ⭐ 1,164 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/hexabot-ai/Hexabot) · [官网](https://docs.hexabot.ai) · 组织维护
 
-**给开发者的 AI 工作流自动化平台：跨渠道构建与运行 agent 工作流**
+**给开发者的 AI 工作流自动化平台：YAML 构建跨渠道 agentic 工作流**
 
-Hexabot v3 是将工作流、动作、agent 与会话渠道合并于同一运行时的自动化平台。开发者用 YAML 定义 agentic 工作流，动作以 schema 校验的输入/输出/设置定义行为，另有绑定系统、显式内存定义、MCP 集成点与多渠道支持，并广泛使用 Zod 做校验。数据层采用 TypeORM，本地默认 SQLite，生产支持 Postgres。通过 npm 安装的 CLI 创建并运行项目（hexabot create/dev），可选 Docker 服务，需 Node.js ^24.17.0；hexabot create 需交互式终端以设置管理员凭据。
+Hexabot v3 是一个具备 AI 能力的自动化平台，将工作流、动作、agent 与对话渠道整合在统一运行时中。工作流以 YAML 定义并带类型化运行时契约，动作通过 schema 校验输入/输出/设置，提供绑定系统、显式内存定义、MCP 集成与 RAG 支持。分发形式为 CLI：`hexabot create` 生成项目并可交互式设置管理员凭据，支持 `--docker` 运行服务，默认本地提供 Admin UI、API 与 API docs 端点。数据层默认 SQLite，生产环境一等支持 Postgres，经 `DB_TYPE` 配置。`hexabot create` 需要 TTY，CI 环境需先在本地终端执行。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Hexabot v3 是将工作流、动作、agent 与会话渠道合并于同一运行
 
 ## 能力要点
 
-- YAML 定义 agentic 工作流，带类型化运行时契约
-- 支持 MCP 集成点、显式内存定义与 RAG/工具（L10）
-- 多渠道会话支持与绑定系统复用能力配置
-- CLI 生成项目并运行，本地默认 SQLite、生产支持 Postgres
+- YAML 工作流定义与类型化运行时契约
+- MCP 集成点支持工具/上下文互操作
+- 多渠道连续性、显式内存定义与运行时内存集成
+- CLI 支持 create/dev/start/stop/migrate 等命令，可搭配 Docker
 
 ## 适用场景
 
-- 跨消息渠道构建并运行对话式 agent 工作流
-- 用 YAML 与动作系统编排自动化任务
-- 接入 MCP 工具与内存构建带上下文的 agent
+- 用 YAML 编排跨多个对话渠道的 agentic 工作流
+- 为对话应用接入 MCP 工具与 RAG 能力
+- 本地快速搭建带 Admin UI 与 API 的自动化项目
 
 ## 场景标签
 
-`工作流自动化` `Agent 框架` · 领域:Agent 开发
+`工作流自动化` `聊天机器人` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L10:  Build and run agentic workflows across channels with YAML, tools, MCP, memory and RAG.
 > L20: Hexabot v3 is an automation platform with first-class AI capabilities, combining workflows, actions, and conversati
 > L90: - **Agentic workflows:** YAML workflow definitions with typed runtime contracts.
-> L94: - **MCP integration points:** Model Context Protocol support for tool/context interoperability.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `923628584c48` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4ab42286f0a8` · [字段定义](../../DATASET.md)*

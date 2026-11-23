@@ -2,9 +2,9 @@
 
 ⭐ 1,246 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2.5) · 组织维护 · 中文 README
 
-**全开源多模态模型训练框架与 LLaVA-OneVision 系列模型发布**
+**全开源多模态模型家族：图像/视频理解与训练代码全量发布**
 
-LLaVA-OneVision 家族的完整开源发布仓库：包含 2.5-4B（支持单图、多图、离线与流式视频输入）、2-8B 多模态模型，以及 HEVC 风格的 OneVision-Encoder 视觉编码器。训练管线端到端开放：4 个数据集、编码器权重、训练代码、配置与训练日志均可获取；提供四阶段训练课程与基于编解码块选择的推理方案，并给出 Blackwell/Hopper GPU 上的 SFT 加速预设脚本。面向需要自行训练或复现多模态模型的研究者与开发者。
+LLaVA-OneVision 系列的发布仓库：提供 2.5-4B（支持流式视频，逐帧决定是否输出）与 2-8B 等多模态模型权重，以及配套的 4 个开源数据集、OneVision-Encoder 视觉编码器权重、训练代码、配置与训练日志。训练管线分四阶段课程，从视频字幕引导到长视频与空间推理；另提供基于 GPU 架构预设的训练加速脚本。面向需要自训练、复现或部署多模态模型的研究者与开发者。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ LLaVA-OneVision 家族的完整开源发布仓库：包含 2.5-4B（支持单图
 
 ## 能力要点
 
-- LLaVA-OneVision-2.5-4B 单一权重同时支持离线与流式视频两种模式
-- OneVision-Encoder 采用 codec 风格块选择，同 token 预算下时间覆盖提升 3 倍
-- 数据集、编码器权重、训练代码、配置与训练日志端到端开放
-- 提供按 GPU 架构（Blackwell/Hopper）选择的训练加速预设
+- 4B 模型统一单图/多图/视频输入并支持流式视频输出
+- HEVC 风格编码器：仅保留运动与残差丰富 patch，同 token 预算下 3 倍时域覆盖
+- 端到端开源：数据、编码器权重、训练代码、配置与训练日志
+- 提供 Blackwell/Hopper GPU 预设的训练加速脚本（2.2–3.0×）
 
 ## 适用场景
 
-- 复现或微调一个图像/视频/空间理解统一的多模态模型
-- 训练自己领域的多模态 instruct 模型时参考其四阶段课程与数据配方
-- 长视频或流式视频理解场景选型 4B 级开源模型
+- 训练或微调自己的图像与视频多模态模型
+- 对流式视频做逐帧的实时理解判断
+- 基于公开数据集与日志复现模型训练流程
 
 ## 场景标签
 
-`多模态` `微调` `模型训练` · 领域:感知与多模态
+`多模态` `模型训练` `微调` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L23: **LLaVA-OneVision-2.5** is the latest release of the family. LLaVA-OneVision-2.5-4B-Instruct is a 4B model for sing
+> L25: **LLaVA-OneVision-2** is the next-generation release of the LLaVA-OneVision family — a fully open 8B multimodal mod
 > L48: And unlike most "open" releases, *everything* ships alongside them: encoder weights, training code, configs, and fu
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `69f27b895f96` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e132b6f90a22` · [字段定义](../../DATASET.md)*

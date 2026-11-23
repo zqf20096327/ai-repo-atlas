@@ -1,16 +1,16 @@
 # akdeb/ElatoAI
 
-⭐ 2,124 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/akdeb/ElatoAI) · [官网](https://www.elatoai.com) · 个人维护
+⭐ 2,124 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/akdeb/ElatoAI) · [官网](https://www.elatoai.com) · 组织维护 · 中文 README
 
-**在 ESP32 上搭建实时语音 AI 的开源全栈方案**
+**让 ESP32 硬件设备接入 100+ 语音 AI 模型实时对话**
 
-面向 AI 玩具与陪伴设备的实时语音 AI 项目：ESP32 固件经安全 WebSocket 连接 Deno Edge 或 Cloudflare Workers 边缘函数，接入 100+ 语音模型（OpenAI Realtime、Gemini Live、xAI Grok、ElevenLabs、Hume EVI-4 等），也可用 FastAPI + Pipecat 自建流水线，并支持 Qwen/Mistral 等本地模型。附带 Next.js 前端、设备管理与认证、OTA 更新。限制：2-3 秒冷启动、ESP32 无语音打断检测。
+面向 AI 玩具、桌面伴侣与 IoT 设备的实时语音 AI 项目，由三部分组成：Next.js 前端（Vercel 托管）、Deno Edge/Cloudflare Workers 边缘函数（处理 WebSocket 与 LLM API 调用）、ESP32 Arduino/PlatformIO IoT 客户端。支持 OpenAI Realtime、Gemini Live、xAI Grok 等 6 个边缘语音 API，以及 Cloudflare Workers 上 80+ LLM、10+ TTS、5 个 STT 模型组合，还可通过 FastAPI/Pipecat 自建语音管线；支持 MLX 本地模型。功能含服务器端 VAD、Opus 压缩、OTA 固件升级、设备管理与工具调用；无需 PSRAM，实测连续对话最长 17 分钟，冷启动 2-3 秒。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 100+ STT/LLM/TTS 模型，五种语音到语音实时 API 通道
-- Deno Edge / Cloudflare Workers 双边缘部署方案
-- 支持 Qwen、Mistral 等本地模型与 TTS（MLX）
-- 设备管理、OTA 更新、WiFi captive portal、OAuth 等 24 项功能
+- Deno Edge/Cloudflare Workers 双边缘路径接入 100+ STT/LLM/TTS 模型
+- ESP32-S3 客户端无需 PSRAM，支持 OTA 升级与触摸/按键控制
+- Secure WebSockets 传输、AES-256 API Key 加密、Postgres RLS
+- 支持 MLX 本地运行 Qwen、Mistral 等本地 LLM/TTS
 
 ## 适用场景
 
-- DIY 会说话的 AI 玩具或陪伴设备
-- 搭建低延迟全球语音 AI 设备网络
-- 为 ESP32 硬件项目接入多种语音模型流水线
+- 给 DIY AI 玩具或桌面伴侣加上实时语音对话能力
+- 搭建可全球低延迟访问的语音 AI 设备服务
+- 用 FastAPI/Pipecat 自定义 STT-LLM-TTS 语音管线
+- 通过手机网页端管理设备、角色与音色
 
 ## 场景标签
 
@@ -37,9 +38,8 @@
 
 ## 证据(README 行号)
 
-> L17: # 👾 ElatoAI: Realtime Voice AI Models on Arduino ESP32
-> L19: Realtime AI Speech powered by 100+ Voice AI models on ESP32, with Secure WebSockets & Edge Functions for >20-minute
-> L66: 1. **Realtime Speech-to-Speech**: Instant speech conversion powered by OpenAI's Realtime API, Gemini's Live API, xA
+> L95: 2. **Edge Server Functions** (`Deno Edge` or `Cloudflare Workers`) - to handle the websocket connections from the E
+> L105: |IoT Client|PlatformIO, Arduino Framework, ESP32-S3|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8be86055a52b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0bd9bbd6ead8` · [字段定义](../../DATASET.md)*

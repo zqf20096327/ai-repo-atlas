@@ -1,10 +1,10 @@
 # tickernelz/opencode-mem
 
-⭐ 1,884 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tickernelz/opencode-mem) · [官网](https://opencode-mem.zhafron.my.id) · 个人维护 · 中文 README
+⭐ 1,884 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tickernelz/opencode-mem) · [官网](https://opencode-mem.zhafron.my.id) · 个人维护
 
-**给 OpenCode 编码 agent 加持久记忆的向量数据库插件**
+**为 OpenCode 编码 agent 提供跨会话持久记忆的插件**
 
-面向 OpenCode 编码 agent 的持久记忆插件：基于嵌入式 Turso/libSQL 本地向量数据库（F32_BLOB + 精确余弦搜索）存储跨会话记忆，支持会话空闲时自动提取记忆、用户画像学习、12+ 本地嵌入模型（CPU 运行、无需 GPU）与多 AI 提供商（OpenAI/Anthropic）自动捕获。提供 Web UI 浏览编辑、AES-256-GCM 静态加密与手动 memory 工具。限制：不支持 Intel Mac（无 x64 原生绑定），自动捕获需支持结构化/工具调用输出的提供商。
+面向 OpenCode 编码 agent 的记忆插件：会话空闲时由后台 AI 请求自动抽取项目记忆，并在后续会话将相关记忆与用户画像注入模型上下文。内嵌 Turso/libSQL 数据库做向量检索（精确余弦距离），12+ 本地 CPU 嵌入模型或 OpenAI 兼容嵌入 API 可选。提供记忆去重、可恢复回收站、Markdown 导出导入、凭证脱敏与静态加密，附带 Web UI 管理记忆时间线与画像。以 npm 包形式安装，支持 OpenCode v1/v2 配置接入。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 嵌入式 Turso/libSQL 本地向量搜索，无需单独向量数据库
-- 会话空闲时自动提取记忆并在后续会话注入上下文
-- 12+ 本地嵌入模型经 @huggingface/transformers 在 CPU 运行
-- Web UI（http://127.0.0.1:4747）浏览/编辑记忆与技能库
+- 内嵌 Turso/libSQL 向量检索，无需独立向量数据库
+- 会话空闲时后台自动抽取记忆并注入模型上下文
+- 捕获前凭证脱敏（GitHub token、API key、PEM 私钥等格式）与 <private> 标签保护
+- 12+ 本地 CPU 嵌入模型，无需 GPU
 
 ## 适用场景
 
-- 让编码 agent 在不同会话间记住项目决策与排错经验
-- 自动学习我的编码偏好供后续会话使用
-- 手动存取和检索长期记忆（memory 工具）
+- 让编码 agent 跨会话记住项目上下文和我的偏好
+- 在本地离线环境中为 agent 提供持久记忆
+- 多项目管理用户画像与技能库，并通过 Web UI 查看记忆健康状态
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L12: A persistent memory system for AI coding agents that enables long-term context retention across sessions using loca
-> L16: Local Turso/libSQL database with native vector search, persistent project memories, automatic user profile learning
+> L14: A persistent memory system for AI coding agents that enables long-term context retention across sessions using loca
+> L23: - **Multi-provider AI support:** any provider configured in OpenCode (`opencodeProvider` / `opencodeModel`), or a m
+> L78: - Auto-capture and user profile learning require an AI provider that can return structured/tool-call output. Memory
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f81c00ae1b12` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f0b8bea0dda0` · [字段定义](../../DATASET.md)*

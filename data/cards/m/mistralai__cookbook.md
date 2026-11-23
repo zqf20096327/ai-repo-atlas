@@ -2,9 +2,9 @@
 
 ⭐ 2,367 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mistralai/cookbook) · 组织维护
 
-**Mistral 官方示例集：API、RAG、Agent 等 notebook 教程**
+**Mistral 模型用例示例集：官方与社区贡献的 notebook 合集**
 
-由 Mistral 及其社区、合作伙伴贡献的示例教程仓库，以 notebook 与 Markdown 形式展示 Mistral 模型与 API 的用法，涵盖 chat、embeddings、RAG、function calling、评估、moderation、OCR、数据生成、微调与 agent 构建等类别。另收录 LangChain、LlamaIndex、Ollama、Arize Phoenix 等第三方工具的集成示例。提交需符合格式（.md/.ipynb、尽量可在 Colab 运行、标注包版本）等规范；仓库内含 Quarto 本地预览站点。
+由 Mistral AI 维护的示例手册仓库，收录官方与社区、合作伙伴贡献的 notebook 和 Markdown 示例，覆盖聊天、嵌入、RAG、function calling、评估、OCR、内容审核、agent 等类别，第三方部分展示与 LangChain、LLamaIndex、Ollama 等工具的搭配用法。仓库提供提交规范（格式、Colab 可运行、版本标注）和基于 Quarto 的本地预览站点用于浏览内容，预览不执行 notebook 代码。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 30 余个官方示例 notebook，覆盖 RAG、function calling、评估、OCR、moderation 等
-- 第三方工具示例表收录 LangChain、LlamaIndex、Ollama、MLflow 等集成
-- 提供基于 Quarto 的本地预览站点（不执行 notebook 代码）
+- 主 notebooks 覆盖 RAG、function calling、OCR、评估、审核、agent 等类别
+- 第三方工具章节收录与 LangChain、LLamaIndex、Ollama 等的搭配示例
+- 提供 Quarto 本地预览站点，渲染已提交的 notebook 内容
+- 接受社区通过 PR 提交示例并有提交规范
 
 ## 适用场景
 
-- 学习 Mistral API 的 RAG、function calling 等用法
-- 查找 Mistral 与 LangChain/LlamaIndex 等框架的集成示例
-- 参考评估、moderation、OCR 等场景的实现模板
+- 学习如何调用 Mistral API 实现 RAG 和 function calling
+- 查找 Mistral 模型与主流框架搭配的示例代码
+- 参考 OCR、结构化输出、内容审核等具体用例的写法
 
 ## 场景标签
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `bcfb93030f28` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `203b598de661` · [字段定义](../../DATASET.md)*

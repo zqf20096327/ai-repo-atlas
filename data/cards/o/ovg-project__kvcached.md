@@ -2,9 +2,9 @@
 
 ⭐ 2,054 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ovg-project/kvcached) · 组织维护
 
-**共享 GPU 上 LLM 服务的弹性 KV 缓存内存管理库**
+**给 LLM 推理引擎提供共享 GPU 上弹性 KV cache 的库**
 
-面向 LLM serving/training 的 KV cache 守护库，将 OS 式虚拟内存抽象引入 LLM 系统：解耦 GPU 虚拟地址与物理内存分配，按需为 KV 缓存分配显存，支持动态负载下的多模型共享 GPU。以插件形式接入 SGLang（≥v0.5.11）与 vLLM（≥v0.17.0），提供弹性 KV 缓存、内存限额控制、前端路由与模型休眠、自动前缀缓存；支持 NVIDIA 与 AMD ROCm。通过 pip 或 Docker 安装，需 PyTorch ≥2.10，从源码构建。
+kvcached 是面向 LLM serving/training 场景的 KV cache 库，引入操作系统式虚拟内存抽象，将 GPU 虚拟地址与物理内存分配解耦：先保留虚拟内存，缓存实际使用时再绑定物理显存，实现按需分配与多模型弹性共享。以插件形式集成到 SGLang 与 vLLM，通过环境变量启用，支持前缀缓存、流水线并行、内存上限控制、前端路由与空闲休眠，提供 PyPI、源码与 Docker 三种安装方式，要求 Python 3.10-3.13 与 PyTorch ≥ 2.10。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 弹性 KV 缓存：按实时负载动态分配与回收 KV 显存
-- 以插件形式接入 SGLang 与 vLLM，无需修改引擎
-- 前端路由与模型空闲休眠，支持多模型共享单卡
-- 自动前缀缓存（vLLM APC / SGLang RadixCache）
+- KV cache 弹性分配与回收，运行时映射解耦逻辑与物理显存
+- 以插件方式集成 SGLang 与 vLLM，环境变量启用无需改引擎
+- 支持 vLLM APC 与 SGLang RadixCache 前缀缓存、流水线并行
+- 支持 NVIDIA CUDA 与 AMD ROCm，ROCm 默认非连续布局
 
 ## 适用场景
 
-- 多模型共享单张 GPU 部署，避免静态显存切分
-- Serverless 场景按需启停模型的 KV 缓存分配
-- LLM 推理与训练等其他 GPU 负载共存
-- A100 等单卡上并发服务多个 LLM 降低成本
+- 多个 LLM 在同一 GPU 上弹性共存部署，省去静态显存划分
+- Serverless 场景下模型按需启停、按需分配 KV 内存
+- 检索/推理/摘要等多模型流水线在有限显存上运行
+- LLM 推理与训练、微调等其他 GPU 任务共存
 
 ## 场景标签
 
@@ -40,6 +40,7 @@
 
 > L18: kvcached (KV cache daemon) is a KV cache library for LLM serving/training on **shared GPUs**. By bringing OS-style 
 > L29: - **Support mainstream serving engines**: integrate with SGLang and vLLM.
+> L96: - SGLang (tested with v0.5.20) or vLLM (tested with v0.30.0)
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4f8d6df3a532` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2fc4cbccf5ae` · [字段定义](../../DATASET.md)*

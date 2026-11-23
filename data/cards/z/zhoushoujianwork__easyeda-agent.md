@@ -2,15 +2,15 @@
 
 ⭐ 1,167 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/zhoushoujianwork/easyeda-agent) · [官网](https://eda.daboluo.cc) · 个人维护 · 中文 README
 
-**让 AI Agent 直接操作嘉立创 EDA 专业版的自动化层**
+**EasyEDA Pro 的 AI 自动化工具：生成原理图与 PCB**
 
-EasyEDA Pro 的 AI 自动化工具：把原理图/PCB 操作封装为 typed actions，通过 CLI/daemon、运行在 EDA 内的 Connector 和 Agent Skill 三部分组成，支持 stdio MCP 接入。Agent 可读取真实工程数据，经官方 eda.* API 完成建库、原理图、布局布线、铺铜、丝印、DRC 等操作，写入前后回读校验。面向使用 Codex、Claude Code 等客户端的开发者；要求 EasyEDA Pro V4 宿主，稠密板布线需外部 Freerouting。
+easyeda-agent 是嘉立创 EDA 专业版的 AI 自动化层：用户用自然语言描述电路需求，Agent 读取真实工程数据，通过官方 eda.* API 完成 Symbol/Footprint 建库、原理图整理、PCB 布局布线、丝印调整与 DRC/DFM 检查，并在写入前后做器件身份与几何校验。以 CLI/daemon、EasyEDA 内连接器与 AI 客户端 Skill 三部分组成，要求 EasyEDA Pro V4。配套的 EdaDesk Desktop 为独立专有软件，本仓库仅发布其安装包与反馈。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,26 @@ EasyEDA Pro 的 AI 自动化工具：把原理图/PCB 操作封装为 typed acti
 
 ## 能力要点
 
-- typed 原理图/PCB 动作封装，写入前检查、写入后回读校验
-- CLI / Agent Skill / stdio MCP 三形态接入
-- 从 PDF 数据手册建库并保留证据页码
-- 原理图 layout-lint → check → bridge-check → DRC 分项报告
+- 从 PDF 数据手册读取证据自动建库并校验 pin↔pad 映射
+- 自然语言需求到选型、原理图、布局布线、铺铜、DRC 的完整流程
+- 写入前检查、写入后回读对账的工作流机制
+- 提供 CLI、Agent Skill 与 MCP 三种接入方式
 
 ## 适用场景
 
-- 用自然语言让 Agent 从需求完成原理图到 PCB 的全流程
-- 按 LCSC C 号标准化原理图器件并保留位号
-- 整理 PCB 丝印并自动避开焊盘与禁区
-- 检查并修复已有 EasyEDA 工程的悬空、短路等问题
+- 根据芯片数据手册 PDF 快速创建器件库
+- 从需求文档生成 ESP32 等最小系统板到 DRC 完成
+- 批量标准化已有原理图中的非标准器件
+- 检查并修复现有工程的连接、几何与 DRC 问题
 
 ## 场景标签
 
-`GUI 自动化` · 领域:效率与自动化
+ · 领域:电子设计自动化/硬件设计
 
 ## 证据(README 行号)
 
-> L15: `easyeda-agent` 是 EasyEDA Pro（嘉立创 EDA 专业版）的 AI 自动化层。你可以直接描述想做的
-> L142: easyeda-agent 由三部分组成：`easyeda` CLI/daemon、运行在 EasyEDA 内的
+> L17: `easyeda-agent` 是 EasyEDA Pro（嘉立创 EDA 专业版）的 AI 自动化层。你可以直接描述想做的
+> L58: |**从需求做到一块板**|从自然语言需求完成选型、原理图、分区布局、PCB、板框、叠层、布线、铺铜、丝印、DRC 和制造检查|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c6a46191ea55` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `437fb4921aae` · [字段定义](../../DATASET.md)*

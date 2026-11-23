@@ -2,16 +2,16 @@
 
 ⭐ 2,111 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/trycompai/comp) · [官网](https://trycomp.ai) · 组织维护
 
-**开源合规平台：AI 协助企业完成 SOC 2/ISO 27001 等合规**
+**开源自托管合规平台，自动化企业合规取证流程**
 
-面向企业合规的开源平台，覆盖 SOC 2、ISO 27001、HIPAA、GDPR 等框架，自动化证据收集、政策管理与控制实施，数据与基础设施由用户掌控。基于 Next.js、Trigger.dev、Prisma、Upstash 等构建，本地运行需 Node.js、Bun 与 Postgres，并需配置 Google OAuth、Trigger.dev、Upstash Redis 等外部服务。采用 Open Core 模式：99% 代码 AGPLv3 开源，约 1% 企业版功能需商业许可。Docker/Vercel 部署文档标注'即将推出'。
+Comp AI Community Edition 是可自托管的开源合规平台，面向需要满足 SOC 2、ISO 27001、HIPAA、GDPR 等框架的企业，自动化证据收集、策略管理与控制项实施。技术栈为 Next.js + Prisma + Trigger.dev + Upstash，需 Node.js、Bun 与 Postgres 运行，通过 Docker 启动数据库，依赖 Google OAuth、Trigger.dev Cloud、Resend、Upstash 等外部服务凭据。仓库版本为 AGPLv3 许可，官方另提供独立代码库的付费托管版 Comp AI Cloud。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 自动化证据收集、政策管理与控制实施
-- 支持 SOC 2、ISO 27001、HIPAA、GDPR 等合规框架
-- AGPLv3 开源，Open Core 模式含企业版商业许可
-- 以 Turborepo 组织，发布 @trycompai 系列内部包到 npm
+- 自动化证据收集、策略管理与控制项实施
+- 支持 SOC 2、ISO 27001、HIPAA、GDPR 等框架
+- 自托管（AGPLv3）与付费托管云版双形态
+- Turborepo 单仓多应用，发布 npm 包（db/email/kv/ui）
 
 ## 适用场景
 
-- 初创公司准备 SOC 2 或 ISO 27001 认证时收集证据和管理政策
-- 在自有基础设施上运行合规平台掌控数据
-- 替代 Vanta/Drata 等商业合规 SaaS 自托管部署
+- 企业准备 SOC 2 / ISO 27001 审计时的证据收集
+- 需要数据留在自有基础设施的合规管理
+- 安全团队集中管理合规策略与控制项
 
 ## 场景标签
 
- · 领域:企业合规/信息安全
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L28: ### AI that handles compliance for you in hours.
-> L30: Comp AI is the fastest way to get compliant with frameworks like SOC 2, ISO 27001, HIPAA and GDPR. Comp AI automate
-> L352: Comp AI, Inc. is a commercial open source company, which means some parts of this open source repository require a
+> L29: ### AI that handles compliance for you in hours.
+> L31: Comp AI is the fastest way to get compliant with frameworks like SOC 2, ISO 27001, HIPAA and GDPR. Comp AI automate
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `508fd835f700` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `8fd1558e37dc` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 2,239 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/sixtysevenlf/dsh-blender-plugin) · 个人维护 · 中文 README
 
-**让 AI 模型实时驱动 GUI Blender 的 DSH 插件（15 个模型工具）**
+**让 DSH agent 在真实 Blender 会话中建模的工具插件**
 
-面向 DSH（DeepSeek Harness）的 Blender 直连插件：提供 15 个模型工具（视口取景、执行验证、无头会话、规划器 33 family/217 op、事务快照、参考图量具、装配扫描等），让模型在 GUI Blender 会话中'看-改-验'，无头模式为备用路径。附带 blender-modeling 技能包并可注册到 DSH 技能目录。用户可在 Blender 中原生选中对象一键送入 DSH 草稿。要求 Blender 4.x/5.x、Node.js ≥20 与 DSH 宿主，支持 WSL/Windows/macOS；上游 MCP for Blender 插件自 v2.3 起不被支持。
+将 DeepSeek Harness 接入 Blender 的插件：agent 通过 6 个模型面工具（session/op/py/see/run/inspect）驱动 GUI 会话，读写场景、截取视口帧、提交渲染或无头作业；能力目录为 34 family / 228 op 契约层，支持事务快照回滚、装配审计、参数化曲面与 GLB/FBX/OBJ 导出。GUI 优先，无 GUI 时走 headless 作业路径；随包附带建模 skill，支持 npm 安装或源码构建。
 
 ## 筛选速览
 
@@ -12,34 +12,35 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | BSD-3-Clause |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 15 个模型工具：视口取景 55–160 ms、exec 0–2 ms、内环搜索 160 ticks/s
-- 无头交互会话：持久 blender -b 进程，see 往返 53–85 ms，空闲 15 分钟回收
-- 随包 blender-modeling 技能（rank 600），非 DSH 宿主可复制为 SKILL.md
-- 原生选中/集合/子元素直送 DSH 当前草稿，活动状态 idle/human/agent/both
+- 6 个模型面工具，228 个 op 契约化能力目录
+- GUI 交互优先，headless 作业路径返回渲染帧
+- 事务快照/标记回滚与交付门（defect gate）
+- dsh-TUI 选中 chip、@ 提及与 /blender 命令
 
 ## 适用场景
 
-- 让 DSH 中的模型在真实 Blender 会话里建模并逐步验证效果
-- 无 GUI/批处理场景下用无头会话执行多视角渲染等重活
-- 用参考图量具从照片提取比例数据辅助重建模型
-- 装配检查：全对分类 clash/contact/gap 等
+- 让 agent 在真实 Blender 会话中逐步建模并验证
+- 无 GUI 环境提交批量渲染或脚本作业
+- 装配体检、碰撞分类与自动修复后导出模型
+- 为视频模型生成 turntable 参考素材
 
 ## 场景标签
 
-`GUI 自动化` · 领域:效率与自动化
+`GUI 自动化` `图像生成` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L72: 4. **DSH (DeepSeek Harness)** — this package is a DSH plugin (`inject: ['tools']`, declares `dsh.bundle`). WSL host
-> L14: > 15 model tools, no MCP assembly, no CLI adapter; and **you** can select objects natively in Blender and push them
+> L5: DSH × Blender connects DeepSeek Harness to Blender so an agent can build, inspect, validate, and export 3D scenes in
+> L28: - DSH (DeepSeek Harness) installed and working.
+> L143: The plugin exposes exactly 6 model-facing tools; all planning, audit, assembly, export, and evaluation operations 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1eaa45243e9f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `6223aff6443f` · [字段定义](../../DATASET.md)*

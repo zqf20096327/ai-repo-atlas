@@ -2,9 +2,9 @@
 
 ⭐ 1,794 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/software-mansion/react-native-executorch) · [官网](https://executorch.swmansion.com) · 组织维护
 
-**React Native 应用内的端侧 AI 推理库，基于 ExecuTorch 运行模型**
+**React Native 端侧 AI 推理库：手机本地运行模型**
 
-面向 React Native 开发者的端侧推理库：通过 Meta 的 ExecuTorch 运行时把机器学习模型直接跑在用户手机上，零网络调用、全离线。提供两层架构——开箱即用的 use<Task> Hook（LLM、计算机视觉、语音、嵌入）与低层级运行时以 TypeScript 构建自定义流水线；附预导出模型目录（Hugging Face Collection），也支持自带 .pte 模型。执行后端含 XNNPACK、Core ML/MLX、Vulkan。要求 New Architecture、RN 0.83+/Expo SDK 55+（不支持 Expo Go）、iOS 17+/Android 13+。
+基于 Meta ExecuTorch 运行时的 React Native 端侧推理库，支持零网络调用、完全离线、数据不出设备的模型推理。内置覆盖计算机视觉、LLM、语音转文字、文字转语音等任务的预导出模型目录（托管于 Hugging Face），也可加载自定义 .pte 模型或用 TypeScript 低层原语构建自定义管线。要求 React Native 新架构、RN 0.83+/Expo SDK 55+（不支持 Expo Go），iOS 17+ / Android 8+。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 端侧推理，零网络调用与全离线运行
-- use<Task> Hook 覆盖 LLM、CV、语音、嵌入，含自动缓存与生命周期管理
-- 低层级运行时支持 TypeScript 自定义流水线与张量运算
-- 预导出模型目录（Hugging Face Collection）开箱即用，支持自带 .pte 模型
+- 硬件加速后端：XNNPACK (CPU)、Core ML 与 MLX (Apple Silicon)、Vulkan (Android GPU)
+- use<Task> 任务钩子开箱支持 LLM、视觉、语音与嵌入，含缓存与生命周期管理
+- 预导出模型目录 + 自定义 .pte 模型接入
+- 提供面向 AI coding agent 的 consumer skill 安装
 
 ## 适用场景
 
-- 在 React Native 应用中集成离线 LLM 对话或转录功能
-- 构建零云端成本、数据不出设备的隐私优先 AI 功能
-- 复用现成 CV/OCR/目标检测模型或接入自定义 .pte 模型
+- 在移动应用中离线运行 LLM 对话
+- 端侧图像检测、OCR 等视觉任务
+- 移动端语音转文字与文字转语音
+- 在设备本地文档上做 RAG
 
 ## 场景标签
 
-`推理引擎` `目标检测` `OCR` `语音识别` · 领域:感知与多模态
+`语音合成` `RAG` `目标检测` `OCR` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L11: **React Native ExecuTorch** is an on-device AI inference library for React Native, powered by ExecuTorch — Meta's o
-> L29:  - **Lower-level Runtime & Custom Orchestration**: Build custom pipelines entirely in TypeScript using low-level te
+> L31:  - **Ready-to-use Task Hooks (`use<Task>`)**: Out-of-the-box support for LLMs, computer vision, speech, and embeddi
+> L28: - **Native Hardware Acceleration**: Optimized execution delegates across backends: **XNNPACK** (CPU), **Core ML** &
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `487004b44f26` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `dabcaada10b7` · [字段定义](../../DATASET.md)*

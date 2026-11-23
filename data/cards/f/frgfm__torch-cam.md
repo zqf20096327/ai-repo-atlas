@@ -2,9 +2,9 @@
 
 ⭐ 2,302 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/frgfm/torch-cam) · [官网](https://frgfm.github.io/torch-cam/) · 个人维护 · 中文 README
 
-**为 PyTorch 模型生成类激活图（CAM）的可解释性库**
+**为 PyTorch 模型生成类激活图的可解释性库**
 
-TorchCAM 是基于 PyTorch hook 机制的可解释性库：以包装器形式挂接用户模型，为图像分类、检测、分割及 VLM 生成 12 种 CAM 方法（CAM、Grad-CAM 系、Score-CAM 系、LayerCAM、LeGrad、RefineCAM 等）的类激活图/热力图，并为文本分类器提供 TokenAblation 与 TokenIG 两种 token 贡献度量；内置 average drop、increase in confidence 等忠实性指标。面向调试模型决策的开发者与研究者，运行时依赖仅 4 项（PyTorch、NumPy、Pillow、Matplotlib），另有 Streamlit 演示应用（BLIP、Qwen3-VL、Gemma、Laya 等）与基准脚本。0.5.0 版要求 PyTorch>=2.4.1、Python 3.11+；macOS 上使用官方 wheel 需 Apple Silicon。TokenAblation/TokenIG 仅在开发版可用。
+基于 PyTorch hook 机制的类激活图提取库：包装用户的图像分类、检测、分割模型与文本决策模型，生成 13 种 CAM 方法（CAM、Grad-CAM 系列、Score-CAM 系列、EigenCAM、LeGrad、RefineCAM 等）的可视化热力图，并支持 ViT 的目标层自动解析与 token 贡献分析（TokenAblation/TokenIG）。仅 4 个运行时依赖（PyTorch、NumPy、Pillow、Matplotlib），内置忠实度指标（Average Drop、Increase in Confidence）。面向需要解释模型决策的 PyTorch 使用者，附带 Streamlit 演示应用与示例脚本。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ TorchCAM 是基于 PyTorch hook 机制的可解释性库：以包装器形式挂
 
 ## 能力要点
 
-- 12 种 CAM 方法覆盖 CNN 与 Vision Transformer，自动解析目标层
-- TokenAblation / TokenIG 度量文本分类器各 token 的类别贡献
-- 内置 average drop、increase in confidence 等忠实性指标
-- explain() 输出可由人类与编码 agent 校验的 manifest 证据包
+- 13 种 CAM 方法，覆盖 CNN 与 Vision Transformer
+- 扩展到检测、分割、嵌入与文本分类的 token 归因（TokenAblation/TokenIG）
+- 内置忠实度指标：Average Drop 与 Increase in Confidence
+- explain() 输出可校验的 manifest 证据包，支持编码 agent 工作流
 
 ## 适用场景
 
-- 调试图像分类器为何给出某个预测结果
-- 对比多种 CAM 方法在同一图像上的热力图
-- 分析文本决策模型中各 token 对分类得分的影响
-- 为 VLM 生成 token 级注意力归因图
+- 调试分类器给出意外预测时定位关注的图像区域
+- 为论文或模型审计生成激活图可视化
+- 分析文本分类器中各 token 对决策的贡献
+- 比较多种 CAM 方法在同一图像上的表现
 
 ## 场景标签
 
- · 领域:深度学习可解释性
+ · 领域:深度学习/模型可解释性
 
 ## 证据(README 行号)
 
 > L39: Explain PyTorch decisions: activation maps for image classifiers, detectors, segmenters and VLMs, and token contrib
-> L50: - **12 CAM methods plus VLM token maps**: from CAM and Grad-CAM to LeGrad, RefineCAM and TAM.
 > L92: TorchCAM leverages PyTorch hooking mechanisms to seamlessly retrieve all required information to produce the class 
+> L157: Python 3.11 or higher and uv/pip are required to install TorchCAM. TorchCAM requires PyTorch 2.13 or higher within
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3481d8a8691d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `13ff47a399b0` · [字段定义](../../DATASET.md)*

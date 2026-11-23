@@ -2,9 +2,9 @@
 
 ⭐ 2,185 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/anthropic-sdk-typescript) · [官网](https://www.npmjs.com/package/@anthropic-ai/sdk) · 组织维护
 
-**Anthropic 官方 TypeScript SDK：在 TS/JS 应用中调用 Claude API**
+**面向服务端 TypeScript/JavaScript 开发者的 Claude API 官方 SDK**
 
-Anthropic 官方维护的 TypeScript/JavaScript SDK，供服务端应用访问 Claude API。提供流式输出、结构化输出、工具助手与工具运行器等辅助功能，并内置浏览器与计算机工具集类的独立指南。支持 Node.js 20+、Deno、Bun、Cloudflare Workers、Vercel Edge 等运行时；浏览器支持默认关闭以避免泄露 API 密钥，React Native 暂不支持。集成了 OpenTelemetry 追踪，每次 API 调用默认上报为 span，可通过客户端选项或环境变量配置。
+官方 TypeScript SDK，供服务端 TS/JS 应用接入 Claude API。通过 npm 安装，代码示例展示客户端初始化与调用方式。支持 Node.js 20+、Deno、Bun、Cloudflare Workers、Vercel Edge、Nitro 等运行时；浏览器默认禁用以防 API 密钥泄露，需显式开启；React Native 目前不支持。采用 Apache 2.0 许可，早期版本及此前合并的第三方贡献保留 MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,23 @@ Anthropic 官方维护的 TypeScript/JavaScript SDK，供服务端应用访问 C
 
 ## 能力要点
 
-- 提供流式输出、结构化输出、工具助手与工具运行器等 SDK 辅助功能
 - 支持 Node.js/Deno/Bun/Cloudflare Workers/Vercel Edge 等多种运行时
-- OpenTelemetry 集成：API 调用默认生成 span，支持内容模式与传播配置
-- 浏览器支持默认禁用，需显式设置 dangerouslyAllowBrowser 开启
+- 浏览器默认禁用，需显式设置 dangerouslyAllowBrowser
+- npm 安装，TypeScript >= 5.0
 
 ## 适用场景
 
-- 在 TypeScript/Node.js 服务端应用中调用 Claude API
-- 为 Claude 应用接入 OpenTelemetry 可观测性
-- 在边缘运行时（Cloudflare Workers/Vercel Edge）中使用 Claude SDK
+- 在服务端 TypeScript/JavaScript 应用中调用 Claude API
+- 在 Edge 运行时（Cloudflare Workers/Vercel Edge）中接入 Claude
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发 SDK
+ · 领域:LLM 基础设施/SDK
 
 ## 证据(README 行号)
 
-> L5: The Claude SDK for TypeScript provides access to the Claude API from server-side TypeScript or JavaScript applicatio
-> L9: SDK helpers (streaming, structured outputs, tool helpers and the tool runner) are documented in helpers.md. The brow
+> L5: The Anthropic SDK for TypeScript provides access to the Claude API from server-side TypeScript or JavaScript applica
+> L30: The following runtimes are supported:
 
 ## 星数曲线
 
@@ -54,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4db66f379e55` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d88edee46832` · [字段定义](../../DATASET.md)*

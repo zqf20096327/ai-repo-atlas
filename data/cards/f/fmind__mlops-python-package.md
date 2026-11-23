@@ -2,9 +2,9 @@
 
 ⭐ 1,420 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/fmind/mlops-python-package) · [官网](https://fmind.github.io/mlops-python-package/) · 个人维护
 
-**面向 MLOps 工程的 Python 参考代码库与最佳实践模板**
+**面向 MLOps 工程师的 Python 包模板与课程配套参考实现**
 
-提供生产形态的 Python 代码库，作为 MLOps Coding Course 的参考实现：基于 MLflow 做实验跟踪与模型注册、scikit-learn 训练、Pydantic/Pandera 做数据与配置校验，用 uv 管理环境、mise 运行统一任务（install/format/check/test/build）。内置 UCI 自行车共享数据集的完整训练、调参、评估、晋升与推理流水线，附带三条 GitHub Actions 工作流（CI/CD/安全扫描）与 Docker Compose 支持。开发者可克隆仓库改造成自己的 MLOps 项目，或作为库安装使用。要求 Python>=3.14。
+一个按生产形态组织的 Python MLOps 代码库，同时是 MLOps Coding Course 的参考实现。提供 TrainingJob/PipelineJob 等作业抽象，覆盖数据处理、训练、调优、评估、晋升别名与推理的完整流程；内置 UCI Bike Sharing 示例数据。工程化机制包括 mise 统一任务（install/format/check/test/build）、Lefthook git hooks、GitHub Actions CI/CD 与安全扫描、Pydantic 判别联合的配置解析、100% 覆盖率门槛。要求 Python>=3.14 与 uv，可用 Databricks 或 AWS 作为计算与模型注册平台。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- MLflow 实验跟踪、模型注册与 Champion 别名晋升机制
-- Pydantic Discriminated Unions 按配置自动选择训练/调参/评估/推理任务
-- mise 统一任务词汇表，供 git hooks 与 CI 共用（mise run all）
-- 三条 GitHub Actions 工作流：CI、带 Docker 镜像扫描的发布、每周安全扫描（gitleaks/trivy）
+- mise 统一任务词表，git hooks 与 CI 共享同一命令
+- TrainingJob/PipelineJob 流水线：调优、评估、Champion 别名晋升
+- GitHub Workflows 覆盖 CI、发布门禁与每周安全扫描
+- Pydantic Discriminated Unions 自动选择作业类型
 
 ## 适用场景
 
-- 作为 MLOps 项目的起始模板并按需改造代码
-- 学习包含调参、评估、晋升门槛的完整模型流水线实现
-- 复用其 CI/CD 与安全扫描工作流自动化包管理任务
+- 作为 MLOps 工具包或平台的起点模板
+- 跟随 MLOps Coding Course 学习搭建可维护的代码库
+- 参考 MLflow 训练/注册/评估/晋升的工程实践
+- 用 Cookiecutter 从该模式生成新项目
 
 ## 场景标签
 
-`MLOps` `教程课程` · 领域:学习与行业
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L5: **This repository contains a Python code base with best practices designed to support your MLOps initiatives.**
 > L9: You can use this package as part of your MLOps toolkit or platform (e.g., Model Registry, Experiment Tracking, Realt
-> L63: The `PipelineJob` in `confs/pipeline.yaml` passes the full tuned model configuration and selected parameters into t
+> L14: - **MLOps Coding Course (Learning)**: Learn how to create, develop, and maintain a state-of-the-art MLOps code base
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `e4f1a681d6ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 low · 依据 README sha `27b09598cb62` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 2,333 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) · [官网](https://leoaido.com/crv-pro/) · 个人维护 · 中文 README
 
-**本地视频转关键帧+字幕转录工具，让 LLM 能"看"视频**
+**让 Claude/LLM 真正读取视频的本地帧+转录提取 CLI**
 
-Python 包（crv），从 URL 或本地视频提取场景变化关键帧、去重、用 Whisper/faster-whisper 转录音频，输出 frames/*.jpg、frames.json、transcript 与 MANIFEST.TXT，供粘贴给任意 LLM 使用。处理全部在本地运行，无需 API key。支持时间窗截取、说话人分离、字幕锚定帧、--grid 拼接图等选项；另提供 crv-web 本地网页界面与 Claude Code/Codex 等 agent 技能安装命令。帧提取无 ML 模型依赖，转录需安装 [whisper] extra；系统需 ffmpeg。有付费版 crv Pro（Capafy 销售）。
+crv 是一个本地运行的 Python CLI/Web 工具：对 URL（YouTube/Reels/TikTok）或本地视频做场景变化检测取帧、滑窗去重、音频转录（Whisper/faster-whisper/mlx-whisper）与字幕/OCR 辅助文本锚点，输出帧图、带时间戳的 transcript 和 MANIFEST，供粘贴给任意 LLM 提问。处理全部在本机完成，视频不上传；可选 --from/--to 时间窗、--speakers 说话人分离、--why 意图聚焦。面向 Claude Code/Cursor/Codex 等 agent 用户及普通终端使用者，另以 crv Pro（付费附加）提供镜头语言与时间线分析、Codex 专用构建。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Python 包（crv），从 URL 或本地视频提取场景变化关键帧、去�
 
 ## 能力要点
 
-- 场景变化检测选帧+滑窗去重，替代固定间隔采样
-- 本地 Whisper/faster-whisper 转录，含 VAD 防幻听与 Apple Silicon GPU 加速
-- 支持 yt-dlp URL 输入、--from/--to 时间窗、说话人分离、--grid 接触表
-- 可一键安装为 Claude Code/Cursor/Codex/Copilot 等 agent 技能
+- 场景变化检测取帧+去重，替代固定 1fps 采样，减少 token 消耗
+- 本地转录支持 whisper、faster-whisper（Silero VAD 门控）、mlx-whisper（Apple Silicon GPU）
+- npx skills add 一条命令安装技能到 Claude Code/Cursor/Codex/Copilot/Gemini CLI 等 50+ agent 宿主
+- 提供 crv-web 本地网页界面（繁/简中文、英文）与 --viewer 本地查看器
 
 ## 适用场景
 
-- 把视频链接变成帧+转录文件交给 Claude/ChatGPT 提问
-- 长会议录像中截取关键片段做 LLM 分析
-- 作为通用视频关键帧提取器（不带转录）使用
+- 让 Claude 分析 YouTube/短视频链接或本地视频内容
+- 会议录屏只取关键时间窗的帧与逐字稿
+- 给 agent 安装看视频技能后直接粘贴链接提问
+- 独立用作通用视频关键帧提取器（无需下载 ML 模型）
 
 ## 场景标签
 
-`语音识别` `多模态` · 领域:感知与多模态
+`语音识别` `图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L52: fixed quota), throws away the near-duplicates, transcribes the audio, and hands
-> L179: Transcription uses the `whisper` CLI (installed by the `[whisper]` extra, or
-> L84: pip install "claude-real-video[whisper]"
+> L17: **Let Claude — or any LLM — actually watch a video.**
+> L50: `claude-real-video` does it differently, and **the processing runs locally**: point it at a URL or a
+> L161: pip install "claude-real-video[whisper]"   # recommended: frames + dedup + audio transcription
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `267fa182825c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e2041989b0fe` · [字段定义](../../DATASET.md)*

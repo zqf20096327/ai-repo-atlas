@@ -2,9 +2,9 @@
 
 ⭐ 1,276 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/mrwadams/attackgen) · 个人维护
 
-**用 LLM 生成网络安全事件响应演练场景的工具**
+**基于 LLM 与 MITRE ATT&CK 生成事件响应演练场景的安全测试工具**
 
-面向安全团队的桌面推演（tabletop exercise）生成工具：基于 MITRE ATT&CK Enterprise/ICS 与 ATLAS 框架，结合用户选择的威胁 Actor 组、AI 攻击案例或自定义技术清单，生成定制化事件响应场景，含成功标准、指标、artefact 与演练规则等章节，可下载 Markdown。支持 AI Insider Threat 场景与场景修订 Assistant 聊天界面。模型接入经 LiteLLM 统一路由，支持 OpenAI/Anthropic/Google/Mistral/Groq 及 Ollama、LM Studio、Azure OpenAI、OpenRouter 等 OpenAI 兼容端点。提供 Docker 镜像与 PyPI 安装；要求 Python 3.11 以上。
+面向安全团队的的事件响应测试工具：按用户选择的威胁组织或 ATLAS 案例，结合组织规模与行业信息，通过大语言模型生成定制化事件响应场景，输出 Markdown 下载件、检测与响应报告及 ATT&CK Navigator 层。支持 ATT&CK Enterprise/ICS/ATLAS 三套框架、自定义技术组合、AI 内部威胁场景模板，并提供聊天助手修改场景、MCP server 与 agent skill 供 agentic 客户端调用。模型调用统一经 LiteLLM 路由；需用户自备各模型提供商的 API key，场景生成质量依赖所选模型。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 基于威胁 Actor 组或 ATLAS 案例生成定制事件响应场景
-- 支持 ATT&CK Enterprise/ICS 与 ATLAS 框架，含 AI Insider Threat 场景
-- 模型接入统一经 LiteLLM 路由，支持多家 API 与 OpenAI 兼容端点
-- 场景可下载为 Markdown，含 ATT&CK Navigator 层与 Detection & Response 报告
+- 按威胁组织、ATLAS 案例或自定义 ATT&CK 技术组合生成事件响应场景
+- 支持 ATT&CK Enterprise/ICS/ATLAS 框架及 AI 增强对手、紫队叙事开关
+- 生成检测策略、分析、日志源与缓解措施的配套报告及 Navigator layer 下载
+- MCP server 与 attackgen-tabletop Agent Skill 供 agentic 客户端调用
 
 ## 适用场景
 
-- 安全团队按威胁 Actor 定制事件响应桌面推演
-- 针对 AI/ML 系统攻击（ATLAS）开展演练
-- 紫队演练叙事与检测响应报告生成
+- 为紫队桌面推演快速生成针对特定威胁组织的事件响应场景
+- 按本组织规模与行业定制事件响应演练脚本
+- 为场景中的技术生成检测策略与缓解措施清单
+- 通过 MCP 在 agent 客户端中生成与查询演练场景
 
 ## 场景标签
 
@@ -38,7 +39,8 @@
 ## 证据(README 行号)
 
 > L3: AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and th
-> L25: - Use the OpenAI API, Anthropic API (Claude models), Google AI API, Mistral API, Groq API, or any custom OpenAI-com
+> L29: - Use the OpenAI API, Anthropic API (Claude models), Google AI API, Mistral API, Groq API, or any custom OpenAI-com
+> L30: - Available as a Docker container image for easy deployment.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ee0aa77a0e6f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d18381e579e3` · [字段定义](../../DATASET.md)*

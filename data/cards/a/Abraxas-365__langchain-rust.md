@@ -1,10 +1,10 @@
 # Abraxas-365/langchain-rust
 
-⭐ 1,364 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Abraxas-365/langchain-rust) · 个人维护
+⭐ 1,364 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Abraxas-365/langchain-rust) · 组织维护
 
-**LangChain 的 Rust 实现：用 Rust 组合式构建 LLM 应用**
+**为 Rust 开发者提供的 LangChain 框架实现**
 
-以 Rust 语言实现 LangChain 的 LLM 应用构建库，面向 Rust 开发者。支持多种 LLM 提供商（OpenAI、Azure OpenAI、Ollama、Anthropic Claude）、多种 Embeddings 后端（含本地 FastEmbed）、向量存储（OpenSearch/Postgres/Qdrant/Sqlite/SurrealDB）、Chain 与 Agent、语义路由及 PDF/HTML/CSV/Git 提交等文档加载器。通过 cargo 以 feature flags 按需安装各后端，serde_json 为必需依赖。
+LangChain 的 Rust 语言实现，以 crates.io 库形式分发。功能覆盖 LLM/嵌入模型接入、多种向量存储、链式编排（对话、SQL、Map-reduce、路由、Constitutional 等）、输出解析器、持久化记忆、带工具的 Agent 与多种文档加载器（PDF、HTML、CSV、Git commits、Notion 等）。安装通过 cargo add 完成，serde_json 为必需依赖，各向量存储以后端 feature flag 形式可选启用；sqlite-vss/sqlite-vec 需额外下载扩展库。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 支持 OpenAI、Azure OpenAI、Ollama、Anthropic Claude 四种 LLM 提供商
-- 向量存储覆盖 OpenSearch、Postgres、Qdrant、Sqlite、SurrealDB（feature flags 按需启用）
-- Chain、Agent（含工具调用）与语义路由（静态/动态）
-- PDF/HTML/CSV/Git 提交/源码等多种文档加载器
+- 支持 14 种向量存储（MongoDB Atlas、Postgres、Qdrant、Milvus 等）
+- 多种 Chain 编排：SQL、API、Router、Constitutional、Map-reduce 检索问答
+- Agent 支持工具调用、ReAct 回退、流式事件与取消、tracing span
+- 文档加载器覆盖 PDF/HTML/CSV/Git commits/Notion/AssemblyAI 转录
 
 ## 适用场景
 
-- 在 Rust 项目中构建对话链或检索问答应用
-- 接入 Ollama 等本地或云端模型做 LLM 应用开发
-- 用语义路由按用户意图分发请求
+- 用 Rust 构建 LLM 对话与检索问答应用
+- 在 Rust 项目中为 Agent 接入多种模型与工具
+- 为 Rust 应用添加文档摄取与向量检索能力
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L5: ⚡ Building applications with LLMs through composability, with Rust! ⚡
-> L12: This is the Rust language implementation of LangChain.
+> L13: This is the Rust language implementation of LangChain.
+> L17: - LLMs
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `23581bd6b7d5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b9c3f88fe998` · [字段定义](../../DATASET.md)*

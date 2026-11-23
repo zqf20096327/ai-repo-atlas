@@ -2,9 +2,9 @@
 
 ⭐ 1,520 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/ai-dev-gallery) · 组织维护
 
-**面向 Windows 开发者的 AI 集成示例库与本地模型浏览工具**
+**给 Windows 开发者学习在应用中集成本地 AI 模型的示例库**
 
-微软开源的 Windows 桌面应用，供 Windows 开发者学习如何将 AI（本地模型与 API）加入应用：内置 25+ 个交互式 C# 示例，可从 Hugging Face 与 GitHub 浏览、下载并本地运行模型，一键查看源码并导出独立 Visual Studio 工程。示例在应用内运行；下载模型后导出的工程可独立运行。需 Windows 10 1809 及以上，推荐 16GB 内存、20GB 磁盘、8GB VRAM GPU。当前处于公开预览阶段。
+微软面向 Windows 开发者的示例应用（公开预览）：内置 25+ 个基于本地 AI 模型的交互式示例，可浏览并下载 Hugging Face 与 GitHub 上的模型，运行时无需联网；每个示例可查看 C# 源码并一键导出为独立 Visual Studio 项目。运行需 Windows 10 (1809+)，x64/ARM64 架构，推荐 16GB 内存、20GB 磁盘空间、8GB 显存；构建需 Visual Studio 2022。可从 Microsoft Store 安装或源码构建。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 25+ 个本地模型驱动的交互式示例
-- 从 Hugging Face 与 GitHub 浏览、下载并运行模型
-- 查看 C# 源码并一键导出独立 Visual Studio 工程
-- 模型本地下载后应用可离线运行
+- 25+ 个由本地模型驱动的交互式示例
+- 浏览、下载并运行 Hugging Face / GitHub 模型，离线可用
+- 查看 C# 源码并一键导出独立 Visual Studio 项目
+- 模型可选用，支持 GPU 与 NPU 相关场景（DirectML/ONNX Runtime GenAI）
 
 ## 适用场景
 
-- Windows 应用开发者学习如何在应用中加入本地 AI 模型
-- 浏览和下载开源模型并直接试用
-- 将示例导出为 Visual Studio 工程作为开发起点
+- 学习在 WinUI 应用中调用本地模型实现 AI 功能
+- 挑选合适的本地模型并直接试用效果
+- 把示例导出为 VS 项目作为自己应用的开发起点
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`图像生成` `语音识别` `教程课程` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8fff0a34e109` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ed3f3d5edf08` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,916 · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/wq2012/awesome-diarization) · [官网](https://wq2012.github.io/awesome-diarization/) · 个人维护
 
-**说话人分离（diarization）论文、软件、数据集策展清单**
+**说话人分离领域的论文/库/数据集策展清单**
 
-awesome 系列策展仓库，收录说话人分离（speaker diarization）领域的综述与专题论文（含 LLM 后处理、联合 ASR、在线分离、音视频分离、DIHARD 等评测）、框架与工具软件（pyannote-audio、SpeechBrain、FunASR、sherpa-onnx 等）、评测工具（pyannote-metrics、DER 计算）及聚类算法条目，按类别与年份组织，通过 PR 贡献新条目。本体为资源清单，不提供可安装运行的软件。
+面向说话人分离研究的资源清单，收录软件框架、评测工具、聚类与说话人嵌入方法、变检测、特征提取与数据增强等相关项目，按类别组织为表格，含语言与简要描述。社区可通过 pull request 提交新条目，仓库维护方为 Google 语音团队研究人员，条目多为第三方开源工具的链接汇编。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ awesome 系列策展仓库，收录说话人分离（speaker diarization）领�
 
 ## 能力要点
 
-- 论文按专题分类：LLM 后处理、联合 ASR、在线分离、音视频分离、评测挑战赛
-- 收录框架、评测工具、聚类算法三类软件条目并标注实现语言
-- 条目通过 pull request 社区贡献
+- 按框架/评测/聚类/嵌入/变检测等类别组织的软件清单
+- 收录 FunASR、NVIDIA NeMo、pyannote-audio、ESPnet 等主流工具条目
+- 包含论文、数据集等其他资源分类
+- 社区可通过 PR 贡献条目
 
 ## 适用场景
 
-- 查找说话人分离方向的研究论文与技术脉络
-- 为项目挑选 diarization 框架或 DER 评测工具
-- 了解相关数据集与评测挑战赛资源
+- 调研说话人分离可用的开源工具与模型
+- 为论文写作查找相关方法与数据集
+- 对比不同 diarization 框架的功能范围
 
 ## 场景标签
 
-`精选清单` `语音识别` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L7: This is a curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
-> L151: ## Software
+> L13: ## Software
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `430ffa11cbb3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `be09bd3fb42e` · [字段定义](../../DATASET.md)*

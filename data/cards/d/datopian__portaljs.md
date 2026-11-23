@@ -2,15 +2,15 @@
 
 ⭐ 2,372 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/datopian/portaljs) · [官网](https://www.portaljs.com) · 组织维护
 
-**AI 原生框架：用 agent 技能从需求简报搭建数据门户**
+**AI 技能驱动的数据门户构建框架，从需求描述生成门户**
 
-由 Datopian 维护的开源数据门户构建框架，MIT 许可。核心是一组 Claude Code slash 命令技能：/portaljs-architect 根据数据规模与治理需求推荐存储/目录/托管架构，/portaljs-new-portal 生成 Home、Catalog、Showcase 三个页面的普通 Next.js 代码（无锁定），另有添加数据集、图表、地图、DCAT 输出、CKAN 接入与整库迁移等十余个技能。通过 DataProvider 接缝支持 CKAN、GitHub、Frictionless 等后端；推荐路径为 git+R2+Parquet 配 DuckDB 的开放 lakehouse。也可不经 AI 直接用 npm create 或 tiged 使用纯模板，需 Node 22+。
+PortalJS 是构建数据门户的框架，提供 Home、目录搜索（/search）与数据集展示页三个页面。核心机制是一组 Claude Code 斜杠命令技能：/portaljs-architect 根据数据规模与治理需求推荐架构，/portaljs-new-portal 脚手架生成 Next.js 代码，另有加载 CSV/GeoJSON 数据、生成 DCAT feed、连接 CKAN 后端、迁移既有目录、部署到 Cloudflare 等十余个技能。模板为纯 Next.js 代码无锁定，也可完全不经 AI 手动构建。需 Node 22+。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Claude Code 技能把简报转为可编辑的 Next.js 门户（三页面结构）
-- 十余个技能：添加数据集/图表/地图、DCAT 输出、CKAN 接入、整库迁移、部署
-- DataProvider 接缝支持 CKAN、DKAN、DataHub、GitHub、Frictionless 等后端
-- 可完全绕过 AI，用 npm create 或 tiged 直接脚手架纯模板
+- 13 个 Claude Code 技能覆盖架构建议、脚手架、数据加载、迁移与部署
+- 通过 DataProvider 接口解耦数据源（CKAN/DKAN/DataHub/GitHub/静态文件）
+- /portaljs-add-dcat 输出 DCAT 2/3、DCAT-AP 等标准 feed 供开放数据门户收割
+- 推荐 git + Cloudflare R2 + Parquet + DuckDB 的 open lakehouse 路径
 
 ## 适用场景
 
-- 数据团队从需求简报快速搭建开放数据门户
-- 把现有 CKAN/ArcGIS/Socrata 目录迁移到独立门户
-- 为数据集生成带图表、地图与 DCAT 元数据的展示页
+- 为政府或机构搭建开放数据发布门户
+- 把现有 CKAN/Socrata/ArcGIS 目录迁移到静态门户
+- 给 CSV/GeoJSON 数据集自动生成带图表和地图的展示页
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L4:  The AI-native framework for building data portals.
+> L33: **Build it with your AI assistant** — PortalJS ships Claude Code
 > L70: PortalJS is an **open-source, agentic skills framework that helps data teams build,
-> L110: PortalJS ships Claude Code skills that turn a brief into
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `10b2eb811691` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cffb7762c511` · [字段定义](../../DATASET.md)*

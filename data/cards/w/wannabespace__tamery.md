@@ -2,9 +2,9 @@
 
 ⭐ 1,471 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/wannabespace/tamery) · [官网](https://tamery.app) · 组织维护
 
-**面向用户与 AI agent 的桌面/网页数据库客户端**
+**面向用户与 AI agent 的多数据库桌面/Web 客户端**
 
-支持 PostgreSQL、MySQL、MariaDB、SQL Server、ClickHouse 与 SQLite（含 Turso、Cloudflare D1）的数据库客户端，提供表浏览与单元格编辑、感知 schema 的查询编辑器、schema 可视化、SSH 隧道与 SSL、跨设备连接同步。AI 部分：可编写/解释/修复 SQL 的 AI 助手（Pro 功能），及内置 MCP server 供 Claude Code、Cursor 等 agent 查询数据库，写入操作需用户点击确认。可下载桌面应用或用 pnpm/Bun/Docker 自行运行，不接受 PR。
+一款数据库客户端，支持 PostgreSQL、MySQL、MariaDB、SQL Server、Oracle、ClickHouse、MongoDB、SQLite、DuckDB 等多种数据库，提供表格浏览与单元格编辑、带 schema 感知自动补全的查询编辑器、schema 可视化、SSH 隧道与 SSL、跨设备连接同步。AI 方面内置可编写、解释、修复 SQL 的助手，并以 MCP server 形式让 Claude Code、Cursor 等 agent 查询数据库，所有写操作需用户点击确认。桌面版可离线使用，无账号可跳过登录。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 支持 PostgreSQL/MySQL/MariaDB/MSSQL/ClickHouse/SQLite（含 Turso、D1）
-- AI 助手编写/解释/修复 SQL，改动数据前须确认
-- 内置 MCP server，Claude Code/Cursor 等 agent 可查询数据库
-- 连接字符串加密，Metadata only 模式下不出本机
+- 内置 AI 助手编写、解释和修复 SQL，写数据前需确认
+- MCP server 让 Claude Code、Cursor 等 agent 查询数据库，写操作等待用户点击
+- 支持连接串、.env、JDBC URL、psql 命令的自动识别
+- 连接串始终加密，Metadata only 模式下不出本机
 
 ## 适用场景
 
-- 我需要一个能可视化浏览表和编辑数据的数据库客户端
-- 让 Claude Code 或 Cursor 直接查询我的数据库
-- 在本地安全保存连接串并跨设备同步连接
+- 用一个客户端管理多种数据库的表浏览与查询
+- 让 AI agent 通过 MCP 受控查询生产数据库
+- 通过对话生成和修复 SQL 查询
+- 本地离线环境下的数据库连接管理
 
 ## 场景标签
 
- · 领域:数据库工具
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L3: _The AI-powered database client and MCP server for desktop and web_
-> L35: - AI assistant that writes, explains and fixes SQL. It never changes data without asking.
-> L39: - MCP server. Claude Code, Cursor and other agents can query your databases. Every write waits for your click.
+> L41: - MCP server. Claude Code, Cursor and other agents can query your databases. Every write waits for your click.
+> L48: - Everyday features are free. Pro adds the full AI assistant.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `45968634b1bf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `b0fa006da620` · [字段定义](../../DATASET.md)*

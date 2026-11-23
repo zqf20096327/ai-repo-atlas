@@ -2,9 +2,9 @@
 
 ⭐ 1,705 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Haidra-Org/AI-Horde) · 组织维护
 
-**众包分布式 AI 推理集群中间件：志愿者共享算力生成图像与文本**
+**社区共享 GPU 的分布式图像与文本生成推理服务**
 
-AI Horde 是一个社区驱动的众包分布式推理集群中间件，支持图像与文本生成任务的调度。志愿者通过运行 worker 贡献闲置 GPU 算力，系统以 kudos 积分（不可买卖）分配队列优先级，匿名用户也可通过 API key '0000000000' 免费使用。技术栈为 Python 3.9+、PostgreSQL、Redis，支持 Docker 容器化部署；既可作公共服务使用，也可在企业内私有化部署。第三方网站、游戏和应用可通过 REST API 接入。文本 worker 可通过 KoboldAI/KoboldCPP/Aphrodite 等后端桥接。
+由志愿者运行的分布式推理集群：服务器接收图像/文本生成请求，路由到在线的志愿 GPU worker，收集结果并维护 kudos 积分账本；worker 贡献算力获得 kudos，可换取更高队列优先级。支持 Stable Diffusion、SDXL、Flux 等模型家族的文生图、img2img、inpainting，以及通过 OpenAI 兼容端点的流式聊天补全。由卢森堡注册非营利组织 Haidra 运营，匿名可免费使用，注册用户优先级更高；服务器可私有部署但需自备 worker。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ AI Horde 是一个社区驱动的众包分布式推理集群中间件，支持�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,27 @@ AI Horde 是一个社区驱动的众包分布式推理集群中间件，支持�
 
 ## 能力要点
 
-- 众包分布式推理中间件，同时支持图像与文本生成
-- kudos 积分体系保障队列优先级公平性，积分不可买卖
-- 支持匿名免费使用，第三方客户端经 REST API 接入
-- 可私有化部署，支持 Docker 容器化
+- 志愿者 GPU 集群，worker 可随时加入/离开并动态路由
+- OpenAI 兼容聊天端点（/v1/chat/completions、/v1/models）
+- kudos 事件溯源账本，记录并审计每笔扣费与支付
+- Docker Compose 全栈私有部署，GitHub Container Registry 提供镜像
 
 ## 适用场景
 
-- 没有高性能 GPU 的个人用户免费生成 AI 图像与文本
-- 贡献闲置 GPU 算力并换取生成优先级
-- 企业内部私有化部署分布式推理集群
-- 第三方网站、游戏、应用经 REST API 集成生成能力
+- 没有高性能 GPU 时通过网页免费生成图像和文本
+- 为机器人/游戏/应用接入 Horde 的 REST API 或 OpenAI 兼容端点
+- 团队/组织私有部署，汇集自有 GPU 做生成服务
+- 贡献闲置 GPU 算力换取 kudos 提升自身请求优先级
 
 ## 场景标签
 
-`图像生成` `推理引擎` · 领域:内容生成
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L19: The AI Horde is an enterprise-level ML-Ops crowd-sourced distributed inference cluster for AI Models. This middlewa
-> L29: The public version allows individuals without powerful GPUs to use advanced AI models like Stable Diffusion or Larg
+> L14: The AI Horde is a free, community-run service for AI image generation and text generation. Volunteers run workers o
+> L32: The AI Horde is a distributed inference service. The server queues requests, matches them to volunteer workers, col
+> L53: The Horde has an OpenAI-compatible endpoint at `https://oai.aihorde.net/v1`. It supports `POST /v1/chat/completions
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d02697b23fb5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4cee75225bcc` · [字段定义](../../DATASET.md)*

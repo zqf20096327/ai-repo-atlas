@@ -2,17 +2,17 @@
 
 ⭐ 1,497 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/limecloud/lime) · [官网](https://limeai.run) · 组织维护 · 中文 README
 
-**开源全栈 AI Agent：桌面与 CLI/TUI 中完成编码、研究与内容交付**
+**面向开发者与创作者的桌面/CLI 全栈 AI agent**
 
-面向用户与团队的开源全栈 AI Agent，以 Electron 桌面应用与 CLI/TUI 两种形态提供。Agent 循环整合文件读写、终端命令、工具调用、MCP、Skills、多模态输入输出、模型路由与多 Agent 协作，任务以 Thread/Turn/Item 结构可暂停、审查与恢复。自身不提供模型，用户自行配置 Provider 与凭据；材料默认保存在本地。GPLv3 许可，桌面端目前仅发布 macOS 与 Windows 构建，Linux 桌面构建暂停。
+开源的全栈 AI agent，提供 Desktop 与 CLI/TUI 两种形态，围绕可审查的工作流组织任务：读取上下文、使用用户启用的工具、执行文件编辑与命令、产出可检查的结果（diff、报告、文件整理、内容草稿等）。本体不提供模型，需自行配置 provider 与凭据；本地数据默认留存，仅向所选服务发送远程请求所需内容；支持 MCP 工具接入、Skills 可复用流程，以及阿里云 ECS 云电脑的购买、安装、备份与释放管理。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | GPL-3.0 |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 许可风险 | `viral` | GPL-3.0 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- Agent 循环整合文件、终端、MCP、Skills 与多 Agent 协作
-- Thread/Turn/Item 任务链，支持暂停、审查、恢复
-- 桌面与 CLI/TUI 双形态，共用同一 App Server 与数据模型
-- 多模态输入（图像/音视频/PDF/表格）与多模态产物生成
+- Desktop 与 CLI/TUI 双形态，CLI 基于 Node.js 18+，npm 全局安装
+- 本身不内置模型，用户自选 provider/model 并接入 MCP 工具与 Skills
+- 任务产出可审查：文件变更、命令结果、完成检查可在同一任务内继续
+- 集成阿里云 ECS 云电脑的购买、运行时分发验证、备份与释放流程
 
 ## 适用场景
 
-- 让 Agent 读仓库、定位 bug、改代码并跑测试
-- 把网页、笔记、截图等材料整理为报告或交付物
-- 把重复流程编码为可复用 Skill 供 Agent 调用
-- 在 SSH/服务器/CI 场景用 CLI 非交互执行任务
+- 让 agent 修复 bug 或实现功能并给出带测试结果的 diff
+- 对资料文件夹做研究并生成带来源的可编辑报告
+- 用 Skills 把重复性工作流固化为带输入与审查标准的流程
+- 购买并管理阿里云 ECS 作为 agent 的持久云端执行环境
 
 ## 场景标签
 
-`编码 Agent` `AI 写作` `科研工具` `多智能体` · 领域:Agent 开发
+`编码 Agent` `AI 助手` `科研工具` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L26: Lime is an open-source full-stack AI agent for users and teams worldwide, available as an Electron Desktop app and 
-> L45: - **Multimodal understanding and generation**: work with text, code, images, screenshots, audio, video, PDFs, table
+> L7: An open-source full-stack AI agent for **Desktop and CLI/TUI**.
+> L77: Lime hosts the agent workspace; it does not supply AI models. Choose your provider and model, connect MCP tools as 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8bac8973f648` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4213a65d2695` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,782 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/StartLuxLabs/StartLux-Decision) · [官网](https://decision.startlux.com/) · 组织维护
 
-**开源决策模型族（0.8B-27B）：一次前向给出每个选项的校准概率**
+**0.8B–27B 开放决策模型家族及推理引擎：一次前向输出每选项概率**
 
-提供 0.8B 到 27B 的开源决策模型与配套推理引擎/HTTP 服务器：输入状态（文本/JSON/图像）与带类型的问题集（choice/noul/score），模型对每个选项返回概率。Instant 变体单次前向作答；AutoThink 变体在最高概率低于门槛（默认 0.6）时先生成短推理再读答案。引擎支持 vLLM（含专用插件）、llama.cpp、MLX 与 transformers 后端，提供 GGUF/MLX 量化构建、API 密钥与 HTTPS 等生产部署功能，以及 bamboonode.dev 免费托管。
+StartLux-Decision 是开放权重决策模型家族与本仓库提供的推理引擎及 HTTP 服务器。给定文本、JSON 或图像状态与类型化问题（choice/noul/score），模型为每个选项返回概率：Instant 模型单次前向作答；AutoThink 模型在最高概率低于 gate（默认 0.6）时生成短推理后再次读取答案。API 兼容 /v1/systemone。引擎支持 vLLM、StartLux-Prism、llama.cpp、MLX 等后端，提供 bench/eval/quantize 工具与 GGUF、MLX、FP8 量化构建。代码 Apache 2.0，权重另行发布。
 
 ## 筛选速览
 
@@ -15,31 +15,31 @@
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 对 choice/noul/score 三类问题逐选项输出概率
-- AutoThink：低置信时触发短推理，RLCD² 训练
-- 支持 vLLM（专用插件）、llama.cpp、MLX、transformers 四种引擎
-- 提供 none_probability 无匹配选项检测与 bench/eval/quantize 命令
+- 类型化问题接口：choice/noul/score 三种题型均输出概率分布
+- AutoThink 双路径：置信门控（gate）决定是否生成短推理
+- none_probability 控制项检测"选项均不适用"的情形
+- 多引擎矩阵：vLLM/Prism/llama.cpp/MLX/transformers，支持 GGUF 与 MLX 量化构建
 
 ## 适用场景
 
-- 客服工单分类、路由等需要带置信度决策的场景
-- 游戏/机器人每帧实时决策（示例含国际象棋、StarCraft II）
-- 在自有 GPU 或 Apple Silicon 上部署量化决策模型服务
+- 为游戏或机器人决策流实时输出每选项概率
+- 客服工单分类等需要概率而非纯文本答案的判定
+- 在 Apple Silicon 或无 vLLM 的机器上通过 llama.cpp/MLX 运行模型
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `模型量化` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L14: StartLux-Decision is a family of open decision models. Given a state (text, JSON or images) and a set of typed
-> L16: (`choice`), a yes or no judgement (`noul`), or a level on a scale (`score`). Instant models answer in a single forw
 > L20: This repository contains the inference engine and HTTP server for both variants. The API is compatible with System
+> L78: On NVIDIA GPUs, StartLux-Prism is our inference engine written for
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6d9f2c1cc8ee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c7ab301e86c2` · [字段定义](../../DATASET.md)*

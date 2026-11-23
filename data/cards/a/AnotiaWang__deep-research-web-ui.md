@@ -1,10 +1,10 @@
 # AnotiaWang/deep-research-web-ui
 
-⭐ 2,230 · TypeScript · 推送 2026-11-15 · [GitHub](https://github.com/AnotiaWang/deep-research-web-ui) · [官网](https://deep-research.ataw.top) · 个人维护 · 中文 README
+⭐ 2,230 · TypeScript · 推送 2026-11-15 · [GitHub](https://github.com/AnotiaWang/deep-research-web-ui) · [官网](https://deep-research.ataw.top) · 个人维护
 
-**把研究问题转为带引用报告的自托管 deep-research Web 应用**
+**自托管研究 Agent：把问题变成带引用的报告**
 
-基于 Nuxt 的自托管 Web 应用：接收研究问题后规划搜索、浏览网页、抓取全文验证证据，生成带编号引用的研究报告，可导出 Markdown/PDF；用户可点击引用查看来源摘录并发起追问，追问结果保存为新历史条目而不改动原报告。AI 支持多种 provider（OpenAI 兼容、DeepSeek、OpenRouter、Ollama、LiteLLM 等），搜索支持 Tavily、Firecrawl、Google PSE 等。提供 Client Mode（浏览器本地保存 API key）与 Server Mode（环境变量配置）两种部署方式，Docker 一行命令部署。
+基于 Nuxt 的 Web 应用，将研究问题转化为带引用的报告：规划搜索、抓取网页、按来源页面核验证据，并支持逐条引用追溯与后续追问更新报告。提供 Client Mode（浏览器本地保存 API key）与 Server Mode（服务端环境变量）两种部署方式，支持 Docker 一行命令部署，搜索过程以树状结构可视化，报告可导出 Markdown/PDF。历史记录存于浏览器，需自行导出保留。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 引用可检查：报告引用可查看来源摘录、检索时间并追问更新
-- 搜索过程以树结构可视化，支持多语言搜索
-- 证据不足时改写查询重试，并按需抓取全文提取逐字证据
-- Client/Server 双模式，Client Mode 下配置与 API 请求留在浏览器本地
+- 引用可逐条查看来源摘录、检索时间，并支持追问后局部更新报告
+- Client Mode 下配置与 API 请求留在浏览器本地，Server Mode 走服务端密钥
+- 证据不足时自动改写查询重试一次，并按 token/请求预算按需读取整页
+- 支持 Docker 部署、EdgeOne Pages / Railway 一键部署与源码自建镜像
 
 ## 适用场景
 
-- 把一个研究问题变成带可核查引用的研究报告
-- 自托管部署并用自有 API key 运行研究，不在第三方留存配置
-- 对报告中的某个发现继续追问并更新相关段落
+- 把一个研究问题变成带引用的调研报告
+- 核验报告中每条结论对应的原始网页摘录
+- 自托管一个用自己 API key 的深度研究工具
+- 需要导出 Markdown/PDF 报告留档的场景
 
 ## 场景标签
 
@@ -38,7 +39,7 @@
 ## 证据(README 行号)
 
 > L5: Deep Research Web UI turns a research question into a cited report: it plans searches, browses the web, verifies fin
-> L22: - AI: OpenAI compatible, ApiSmart, SiliconFlow, DeepSeek, OpenRouter, Requesty, Ollama, LiteLLM and more
+> L16: - 🔎 **Evidence and follow-ups**: Inspect source excerpts from report citations, then research a finding further and
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `beeba31bab3e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `c7985fcd9293` · [字段定义](../../DATASET.md)*

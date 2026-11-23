@@ -1,1 +1,80 @@
-{"fn": "youssofal/MTPLX", "sha": "795208acc91a", "source": "readme", "identity": {"one_liner": "Mac 用户在 Apple Silicon 上本地运行 LLM 的推理引擎", "review": "提供 Mac 应用与命令行两种形态，使用模型自身的多 token 预测（MTP）头在 Apple Silicon 上运行本地语言模型，通过批量前向验证与拒绝采样实现投机解码。按机型芯片与统一内存推荐适配的模型包（含量化档位），自动下载模型并配置 Python 引擎、PATH 与解码深度。支持通过 OpenAI/Anthropic 兼容 API 接入 OpenCode、Claude Code 等客户端。硬件要求 Apple Silicon（M1 及以上）与 macOS 14+。", "highlights": ["基于模型自身 MTP 头的投机解码，带拒绝采样与残差校正", "Mac 应用按芯片与内存自动推荐并下载适配的模型包", "提供 OpenAI 与 Anthropic 兼容的本地 API 端点", "brew 与 pip 两种 CLI 安装方式"], "use_cases": ["在 Mac 上本地运行 Qwen、Inkling 等开源模型", "将本地模型接入 OpenCode、Claude Code、Cline 等编码客户端", "按 Mac 内存选择合适的量化模型档位"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM推理引擎", "本地LLM", "Apple Silicon", "投机解码", "macOS"], "domain": "LLM 基础设施/本地推理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: MTPLX is a native Mac app and a command line that runs local language models on Apple Silicon with the model's own multi", "L39: **The Mac app** is the easiest way in. Download the DMG at mtplx.com, drag it to Applications, and the app takes care of", "L83: Then point OpenCode, Pi, Hermes, Claude Code, Cline, Cursor or anything that speaks the OpenAI or Anthropic API at `http"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-23", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "youssofal/MTPLX",
+ "sha": "795208acc91a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Mac 用户在 Apple Silicon 上本地运行 LLM 的推理引擎",
+  "review": "提供 Mac 应用与命令行两种形态，使用模型自身的多 token 预测（MTP）头在 Apple Silicon 上运行本地语言模型，通过批量前向验证与拒绝采样实现投机解码。按机型芯片与统一内存推荐适配的模型包（含量化档位），自动下载模型并配置 Python 引擎、PATH 与解码深度。支持通过 OpenAI/Anthropic 兼容 API 接入 OpenCode、Claude Code 等客户端。硬件要求 Apple Silicon（M1 及以上）与 macOS 14+。",
+  "highlights": [
+   "基于模型自身 MTP 头的投机解码，带拒绝采样与残差校正",
+   "Mac 应用按芯片与内存自动推荐并下载适配的模型包",
+   "提供 OpenAI 与 Anthropic 兼容的本地 API 端点",
+   "brew 与 pip 两种 CLI 安装方式"
+  ],
+  "use_cases": [
+   "在 Mac 上本地运行 Qwen、Inkling 等开源模型",
+   "将本地模型接入 OpenCode、Claude Code、Cline 等编码客户端",
+   "按 Mac 内存选择合适的量化模型档位"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理引擎",
+   "本地LLM",
+   "Apple Silicon",
+   "投机解码",
+   "macOS"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: MTPLX is a native Mac app and a command line that runs local language models on Apple Silicon with the model's own multi",
+   "L39: **The Mac app** is the easiest way in. Download the DMG at mtplx.com, drag it to Applications, and the app takes care of",
+   "L83: Then point OpenCode, Pi, Hermes, Claude Code, Cline, Cursor or anything that speaks the OpenAI or Anthropic API at `http"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

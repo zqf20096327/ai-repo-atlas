@@ -2,9 +2,9 @@
 
 ⭐ 1,774 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/amitshekhariitbhu/llm-internals) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**LLM 内部原理的分步学习资源清单（博客+视频）**
+**面向开发者的 LLM 内部原理系列教程（分词→注意力→推理优化）**
 
-由 Outcome School 创始人 Amit Shekhar 维护的 LLM 原理学习内容索引：以博客与视频条目形式覆盖分词与 BPE、Stop Tokens、Attention 数学（Q/K/V、√dₖ 缩放、因果掩码）、反向传播、交叉熵损失、Transformer 架构、KV Cache、Paged Attention、Flash Attention、投机解码与 Medusa 等主题。README 本身不提供代码安装或运行方式，每条目附博客/视频链接，作者声明系列将持续更新。
+由 Outcome School 创始人 Amit Shekhar 编写的 LLM 原理学习资料索引，以博客与视频形式逐步讲解分词、BPE、注意力机制（Q/K/V 数学、√dₖ 缩放、因果掩码）、Transformer 架构、反向传播与交叉熵损失、KV Cache、Paged Attention、Flash Attention 等主题，每篇附带 covered 目录。仓库本身不含可运行代码产品，内容持续增长中，定位为系统学习 LLM 内部机制的教程集合。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 从分词到注意力机制再到推理优化的分步主题覆盖
-- 含 KV Cache、Paged Attention、Flash Attention、投机解码等推理优化专题
-- 数学专题（Q/K/V、√dₖ、反向传播、交叉熵）配逐步数值示例
+- 覆盖从 tokenization 到 attention 再到推理优化（KV Cache/Paged Attention/Flash Attention）的系列文章与视频
+- 注意力 Q/K/V、√dₖ 缩放、因果掩码均附逐步数值示例
+- 包含反向传播与交叉熵损失的数学推导与 Python 实现
+- 每篇列出详细 covered 目录便于按主题检索
 
 ## 适用场景
 
 - 系统学习 LLM 从分词到推理优化的内部原理
-- 查找 Attention、KV Cache、Flash Attention 等专题的讲解材料
-- 作为 AI 面试或自学的主题路线图
+- 通过数值示例理解注意力与反向传播的数学细节
+- 为团队培训寻找 LLM 基础教学材料
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: **Learn LLM internals step by step - from tokenization to attention to inference optimization.**
-> L9: **Note: This series will continue to grow as I write more blogs and create more videos on new topics. Keep learning.
+> L7: Prepared and maintained by the **Founder** of Outcome School: Amit Shekhar
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7e52bc9af714` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b42f6e9fcdbd` · [字段定义](../../DATASET.md)*

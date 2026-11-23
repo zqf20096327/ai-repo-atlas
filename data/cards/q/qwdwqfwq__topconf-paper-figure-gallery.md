@@ -2,9 +2,9 @@
 
 ⭐ 1,937 · JavaScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) · [官网](https://qwdwqfwq.github.io/topconf-paper-figure-gallery/) · 个人维护 · 中文 README
 
-**顶会论文主图画廊（3,452 张）+ 浏览器端主图初稿生成工具**
+**给科研人员提供顶会论文主图版式参考画廊与生图初稿工具**
 
-收录 ICLR、ICML、NeurIPS、CVPR、ACL、AAAI（2023–2026）共 3,452 张 Figure 1 / Teaser 图，每张卡片链接原文并记录会议、年份、作者、录取等级角标与视觉模式标签，支持按会议/年份/等级/模式筛选与全文搜索，采集管线开源可复现。站点为纯静态 HTML/CSS/JS，克隆后双击或本地起服务即可离线浏览。附带 FigureForge（Beta）：在浏览器本地运行，用 CLIP+BM25 检索画廊参考图，自带 API Key 调用大模型生成 Figure 1 初稿（SVG/位图）。限制：图片版权归作者与出版方，教育用途、72 小时下架政策。
+收录 ICLR/ICML/NeurIPS/CVPR/ACL/AAAI 2023–2026 共 3,452 张 Figure 1 / Teaser，按会议、年份、录取等级与视觉模式筛选，支持标题/作者/关键词全文搜索；每张图经规则初筛加人工复核。纯静态站点，克隆后本地打开即可用，数据管线开源可复现。附带 FigureForge 浏览器端工具：以画廊图为版式参考（CLIP+BM25 混合检索），结合视觉模型生成主图初稿，API Key 仅存本机。图片版权属原作者，设 72 小时下架政策。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 六大顶会 3,452 张主图，含 Oral/Spotlight/Best 角标与视觉模式标签
-- 25 条以上启发式规则 + 人工逐页复核的收录管线，开源可复现
-- FigureForge 浏览器端 CLIP+BM25 混合检索 + 自带 Key 生成主图初稿
-- 纯静态站点，无后端无构建，数据内联可离线打开
+- 3,452 张六大顶会主图，带 Best/Oral/Spotlight 等级角标
+- FigureForge 在浏览器本地生成主图初稿，支持 SVG/位图两种模式
+- 人工复核管线：规则剔除默认图/表格/截图后逐页检查
+- 纯静态、零构建，数据管线开源可复现
 
 ## 适用场景
 
-- 画论文 Figure 1 前查找顶会主图的版式设计参考
-- 按视觉模式（framework/pipeline/conceptual 等）筛选同类图找灵感
-- 用 FigureForge 基于参考图快速生成可编辑的主图初稿
+- 写论文主图前查找同类型顶会图的版式与配色参考
+- 用 FigureForge 生成论文 Figure 1 初稿再手动编辑
+- 按录取等级浏览顶会代表性论文的视觉设计
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` `科研工具` `图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L56: **Top-Conf Figure Gallery** collects Figure 1 / teaser figures (concept diagrams, system frameworks, pipelines, arc
-> L33: A searchable, filterable gallery of Figure 1 / teaser figures. Static HTML/CSS/JS, no build, works offline.
-> L230: > 版本对照 / Versioning — releases 遵循 0.x semver：**v0.3**（六个会议，2,298 张，2026-09-20 发布）、**v0.4**（录取等级角标，2,730 张）、**v0.5*
+> L104: **顶会论文主图灵感画廊**收录六大 ML/AI 顶会 2023–2026 的 Figure 1 / Teaser：概念图、系统框架、流程图、架构图、任务全景。它是排版设计参考，不是论文排名。每张卡片链接原文，并记录会议、年份、
+> L113: ### 🛠️ FigureForge Beta
+> L115: FigureForge 基于画廊生成你的 Figure 1 初稿：描述论文，3,452 张顶会主图作为版式参考。免注册、无服务器，全部在浏览器本地运行。**立即试用 →**
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `adb694bed1bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b01fe270b9d9` · [字段定义](../../DATASET.md)*

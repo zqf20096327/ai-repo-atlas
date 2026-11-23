@@ -2,9 +2,9 @@
 
 ⭐ 1,706 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sunlabuiuc/PyHealth) · [官网](https://pyhealth.dev) · 组织维护
 
-**面向临床预测建模的医疗深度学习 Python 工具包**
+**面向医疗研究的临床深度学习训练工具包**
 
-面向 ML 研究者与医疗从业者的临床深度学习工具包，提供模块化五阶段流水线：数据集（MIMIC-III/IV、eICU、OMOP-CDM 等）、任务定义（药物推荐、死亡率/再入院预测、睡眠分期等）、33+ 预置模型（RNN/Transformer/SafeDrug 等）、训练器与评估指标，官方称 10 行代码即可搭建一条医疗 AI 流水线。另含可独立使用的医学编码本体查询与跨编码系统映射模块（ICD9CM↔CCSCM、NDC→RxNorm/ATC）。PyHealth 2.0 要求 Python ≥3.12,<3.14，旧版 1.16 支持 3.9+。
+基于 PyTorch 的医疗 AI 工具包，按五阶段流水线组织：数据集读取（MIMIC-III/IV、eICU、OMOP-CDM、睡眠 EEG、胸片等）、任务样本构建（死亡率、再入院、药物推荐、睡眠分期等）、模型训练（33+ 模型，统一接口，可一行切换）、训练器（自动保存最优检查点）与评估指标（校准、bootstrap 置信区间）。附带独立的医学编码查询与映射模块（ICD/CCS/ATC/NDC/RxNorm）和代码 tokenizer。主要面向临床研究人员与开发者。要求 Python 3.12–3.13。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 模块化五阶段流水线：datasets/tasks/models/trainer/metrics
-- 支持 MIMIC-III/IV、eICU、OMOP-CDM 等临床数据集与 10+ 医疗任务
-- 33+ 预置模型（RNN、Transformer、RETAIN、SafeDrug 等）
-- 医学编码本体查询与跨系统映射模块（ICD9CM、NDC、RxNorm、ATC）可独立使用
+- 支持 MIMIC-III/IV、eICU、OMOP-CDM、EHRShot、睡眠与 EEG 数据集的读取
+- 33+ 模型统一接口（RETAIN、SafeDrug、GAMENet、StageNet 等），换模型改一行
+- 患者级数据划分、校准指标与 bootstrap 置信区间的可复现评估
+- 医学编码查询与跨系统映射模块可独立使用
 
 ## 适用场景
 
-- 在 MIMIC 等临床数据上训练死亡率/再入院预测等模型
-- 快速复现论文中的医疗预测模型与基准
-- 做医学编码（ICD/ATC/NDC）的查询与跨系统映射
+- 在 MIMIC 数据上训练院内死亡率或再入院预测模型
+- 复现已发表的临床预测基准实验
+- 在 ICD、ATC、RxNorm 等编码系统间做术语映射
+- 对临床文本、生理信号与医学影像建模
 
 ## 场景标签
 
-`模型训练` `科研工具` · 领域:学习与行业
+`模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L82: PyHealth is a comprehensive deep learning toolkit for supporting clinical predictive modeling, which is designed fo
-> L88: - 33+ pre-built models and production-ready trainer/metrics
+> L5: PyHealth is an open-source PyTorch toolkit for building, benchmarking and reproducing clinical AI models. It works w
+> L51: - **Ready-made clinical tasks.** Mortality, readmission, length of stay, drug recommendation, medical coding, sleep
+> L128: - **ML models**: ``RNN``, ``LSTM``, ``GRU``, ``Transformer``, ``RETAIN``, ``SafeDrug``, ``GAMENet``, ``MoleRec``, 
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `95ccab62b474` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `73ab486afaed` · [字段定义](../../DATASET.md)*

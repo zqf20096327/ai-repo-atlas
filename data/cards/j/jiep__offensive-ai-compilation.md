@@ -2,9 +2,9 @@
 
 ⭐ 1,449 · HTML · CC-BY-SA-4.0 · 推送 2026-11-01 · [GitHub](https://github.com/jiep/offensive-ai-compilation) · [官网](https://jiep.github.io/offensive-ai-compilation/) · 个人维护
 
-**Offensive AI 资源策展清单：攻击与防御论文/工具汇编**
+**Offensive AI 资源策展清单：攻击与防御论文/工具集**
 
-一个围绕 Offensive AI（对抗性机器学习滥用方向）的策展资源清单：按 Abuse 分类组织，覆盖 Adversarial Machine Learning 四类攻击（提取、反演/推断、投毒/后门、逃逸），每类附攻击原理说明、防御措施列表与论文/工具链接，如模型窃取、成员推断、BadNets 后门、FGSM/Carlini & Wagner 对抗样本等；还含 prompt injection 防御与越狱状态等 LLM 相关条目。面向 AI 安全研究者与红队/攻防学习者，仅收录链接与简介，不含可运行代码。
+一个关于 Offensive AI 的资源聚合清单，围绕 AI 模型漏洞利用组织内容：按对抗机器学习四类攻击（模型窃取/extraction、推断/inversion、投毒/poisoning、逃逸/evasion）逐类给出攻击机制说明、限制条件、防御措施与论文链接。条目覆盖白盒/黑盒攻击、成员推断、后门植入、FGSM 等常见逃逸攻击及相应防御（差分隐私、对抗训练、Neural Cleanse 等），并收录部分相关开源工具箱与追踪仓库。受众为研究 AI 安全攻防的读者。
 
 ## 筛选速览
 
@@ -20,23 +20,25 @@
 
 ## 能力要点
 
-- 按提取/反演/投毒/逃逸四类攻击组织的分类体系
-- 每类攻击附防御措施与论文/工具链接汇编
-- 覆盖 LLM 相关条目（prompt injection 防御、GPT 越狱状态、训练数据提取）
+- 按 extraction/inversion/poisoning/evasion 四类攻击结构化组织
+- 每类攻击附防御措施与论文链接
+- 收录 BadNets、FGSM、C&W 等代表性攻击与防御资源
+- 含部分开源工具箱（BackdoorBox、Backdoor Toolbox 等）与追踪仓库链接
 
 ## 适用场景
 
-- 系统性查找对抗性机器学习攻击与防御的论文和工具
-- 学习模型提取、成员推断、后门、对抗样本等攻击类型的原理
-- 跟踪 LLM 安全（prompt injection、越狱）相关资源
+- 系统学习 AI 模型窃取、成员推断、投毒与逃逸攻击的原理与文献
+- 为对抗鲁棒性研究查找防御方法的参考资料
+- 了解 LLM 提示注入、越狱等新兴攻击的资源入口
 
 ## 场景标签
 
-`精选清单` `网络安全` · 领域:学习与行业
+`网络安全` `科研工具` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: A curated list of useful resources that cover Offensive AI.
+> L12: ### 🧠 Adversarial Machine Learning 🧠
 > L18: It is organized into four types of attacks: extraction, inversion, poisoning and evasion.
 
 ## 星数曲线
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `49bff4e470ec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `05709ffb1e93` · [字段定义](../../DATASET.md)*

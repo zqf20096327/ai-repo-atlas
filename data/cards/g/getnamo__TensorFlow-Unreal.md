@@ -2,9 +2,9 @@
 
 ⭐ 1,223 · C++ · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/getnamo/TensorFlow-Unreal) · 个人维护
 
-**在 Unreal Engine 中运行/训练 TensorFlow 模型的插件（蓝图+C++）**
+**为 Unreal Engine 提供 TensorFlow/Keras 的 Blueprint/C++ 接入插件**
 
-Unreal Engine 5.8 的 TensorFlow/Keras 插件：用户用 Python 编写模型脚本（继承 TFPluginAPI），插件在进程外的嵌入解释器与项目级 venv 中运行、训练模型，通过蓝图组件向脚本送入 JSON、张量、渲染目标与音频输入，并以事件返回结果；训练/推理过程中 Python 崩溃不会带崩编辑器。提供四种环境 profile（tensorflow-cpu 默认、Linux CUDA、Keras 3 on torch 后端、自定义 requirements），打包版可携带解释器与依赖。面向在 UE 中集成 ML 的游戏开发者，已测试 Win64 与 Linux x86_64。
+面向 Unreal Engine 5.8 的插件：用户在 Python 中编写 TensorFlow/Keras 模型，插件在编辑器或打包游戏中以独立进程的嵌入式解释器运行它，支持训练、推理，并可将输入、渲染目标纹理与音频送入模型，结果与事件回传 Blueprint。2.0 架构改为通过 PythonCLI 管理每项目虚拟环境，崩溃不影响编辑器；1.x 脚本 API 保持兼容，但 TF1 会话脚本需迁移到 TF2/Keras 3。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Unreal Engine 5.8 的 TensorFlow/Keras 插件：用户用 Python 编写模型脚
 
 ## 能力要点
 
-- 蓝图与 C++ 双 API：Send Json/Tensor/Texture Input、Begin Training 等节点与 on_json_input 等钩子
-- Python 进程外运行（PythonCLI/CLISystem），TensorFlow 崩溃不影响编辑器与游戏线程
-- 渲染目标/音频/游戏数据流（Python Render Target Stream 等）逐帧输入模型
-- 四种环境 profile，含 Windows GPU 下的 Keras 3 + torch CUDA 后端方案
+- 独立进程运行 Python，模型崩溃不影响编辑器
+- Blueprint 组件提供训练/推理调用与异步节点、自定义事件回传
+- 环境 profile 支持 tensorflow-cpu、CUDA(Linux) 与 Keras on PyTorch(Windows GPU)
+- 提供纹理/渲染目标/音频/游戏数据流式输入与 MNIST 示例地图
 
 ## 适用场景
 
-- 在 UE 游戏中运行训练好的模型做实时分类/预测
-- 用场景捕获或摄像头渲染目标流做实时视觉推理
-- 在编辑器内直接训练模型并保存/加载（如 MNIST 示例）
+- 在 Unreal 项目中训练和运行 Keras CNN 并将预测结果接入游戏逻辑
+- 把场景捕获的渲染目标逐帧送入 Python 模型做分类
+- 打包 Win64/Linux 游戏时随包携带 Python 环境与模型脚本
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+ · 领域:游戏开发/机器学习集成
 
 ## 证据(README 行号)
 
 > L8: TensorFlow and Keras for Unreal Engine 5.8, from Blueprints and C++. You write the model in Python. The plugin runs 
-> L79: **TensorFlow component.** It is a Python ML component, and runs in PythonCLI's shared Python process by default.
+> L11: - Python runs out of process, in an embedded interpreter with a per-project virtual environment, through PythonCLI 
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b8adae336bab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `718c6aadda35` · [字段定义](../../DATASET.md)*

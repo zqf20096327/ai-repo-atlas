@@ -2,9 +2,9 @@
 
 ⭐ 2,098 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/shcherbak-ai/contextgem) · [官网](https://contextgem.shcherbak.ai/) · 个人维护
 
-**用 LLM 与决策模型从文档抽取结构化数据的 Python 框架**
+**开发者用声明式框架从文档中抽取结构化数据与洞察**
 
-面向需要从单份文档做深度抽取的开发者：以自然语言描述要抽取的 Aspect 与 Concept，框架自动生成 prompt 并输出经校验的类型化结果（文本/数值/日期/布尔/标签/评分/JSON），每条结果回溯到原句或段落，可附理由。支持两类模型：经 LiteLLM 接入任意云端或本地 LLM；决策模型回答封闭问题并给出各答案概率。模型组可按问题类型分派并设置回退。设计上逐段通读全文而非检索切片，不做跨文档查询。以 Python 包（pip/uv）提供，Apache 2.0 许可。
+开源 Python 框架，通过 LLM 与决策模型从文档中提取结构化数据：用户以自然语言描述要抽取的概念，框架自动生成提示词、定义数据模型、校验输出类型，并将每条抽取结果回溯到来源段落或句子。支持 aspects/concepts 的嵌套上下文、可复用与可序列化的抽取管线，并通过 Docling 转换 PDF、DOCX 等多种文件格式。1.0 版新增决策模型，对封闭问题输出各答案的概率；模型组可将不同问题路由给 LLM 或决策模型并支持回退。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 自然语言描述抽取目标，自动生成 prompt，输出类型化且经校验的结果
-- 每条抽取结果回溯到原文段落或句子，可附 justification
-- 决策模型对封闭问题输出各答案概率，模型组按问题类型分派并支持回退
-- 通过 LiteLLM 接入 OpenAI/Anthropic/Azure/Ollama/LM Studio 等云端与本地模型
+- 自然语言描述即抽取，提示词由框架生成，无需手写
+- 每条抽取结果回溯到来源段落/句子，可附带理由
+- LLM 与决策模型组成模型组，按问题类型路由并支持回退
+- 经 Docling 支持 PDF、DOCX、图像等约 30 种文件格式转换
 
 ## 适用场景
 
-- 从合同等法律文档中抽取条款、当事人、日期等结构化字段并溯源
-- 在 agent 工作流中作为文档抽取工具或决策点的封闭问题判定
-- 批量处理需要逐段通读、不容漏检的单文档深度分析任务
+- 从合同中抽取付款条款、终止条款等并保留原文出处
+- 批量对文档回答封闭问题（是/否、标签、评级）并按阈值决策
+- 在 agent 工作流中作为文档抽取工具或文档摄取元数据环节
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L19:  You write a concept in plain language and make one call. You get every extracted fact with the line of the documen
-> L27: ContextGem is a free, open-source framework that does the work around the models for you: the prompts, the data mod
-> L52: |**How it answers**|Writes the answer, which ContextGem validates into typed items|Gives the probability of each po
+> L31: ContextGem is a free, open-source framework that does the work around the models for you: the prompts, the data mod
+> L60: |**Models**|Any cloud or local LLM through LiteLLM: OpenAI, Anthropic, Google, Azure OpenAI, xAI, Ollama, LM Studio
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e66ebc8a0ee2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `fa0b6e835d49` · [字段定义](../../DATASET.md)*

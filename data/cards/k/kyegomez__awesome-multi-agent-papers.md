@@ -2,9 +2,9 @@
 
 ⭐ 1,720 · TeX · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/kyegomez/awesome-multi-agent-papers) · [官网](https://swarms.ai) · 组织维护
 
-**多智能体（Multi-Agent）研究论文策展清单**
+**面向多智能体研究者的论文聚合清单**
 
-由 Swarms 团队维护的 awesome list，汇编多智能体系统研究论文，按主题分类：协作与系统设计、框架与基准、以及软件工程、医疗、数据与 ML、安全、多模态等应用领域。条目格式为论文名加链接，覆盖协作机制、测试时扩展、通信协议、基准评测等方向。页面顶部链接 Swarms 框架、官网与 Discord。仓库本身为静态清单，不含可安装代码。
+由 Swarms 团队维护的多智能体研究论文清单，以 [标题][链接] 格式收录论文，按多智能体协作与系统设计、框架与基准、应用方向（软件工程、医疗、数据与机器学习、安全、多模态）分类组织。清单与 Swarms 框架、官网及 Discord 社区关联，不含安装步骤或运行代码，仅作论文导航用途。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 按主题分区的论文清单：协作与系统设计、框架与基准、应用领域
-- 应用领域细分软件工程、医疗、数据与 ML、安全、多模态等
-- 由 Swarms 团队维护并关联 Swarms 框架与社区
+- 按协作机制、框架基准、应用领域分类组织论文条目
+- 覆盖软件工程、医疗、数据科学、安全、多模态等应用方向
+- 由 Swarms 团队维护并附 Discord 社区入口
 
 ## 适用场景
 
-- 查找多智能体 LLM 系统的研究论文
-- 按应用领域（软件工程/医疗/安全等）检索相关工作
-- 了解多智能体框架与基准的论文分布
+- 查找多智能体系统方向的论文阅读起点
+- 按应用领域检索相关多智能体研究
+- 跟踪多智能体框架与基准的论文脉络
 
 ## 场景标签
 
-`精选清单` `多智能体` · 领域:Agent 开发
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L35:  This is an awesome list of the best multi-agent research papers, compiled by the Swarms Team. Our mission at Swarm
-> L41: ## Multi-Agent Collaboration & System Design
+> L37:  This is an awesome list of the best multi-agent research papers, compiled by the Swarms Team. Our mission at Swarm
+> L39: ## Format
+> L43: ## Multi-Agent Collaboration & System Design
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `71092fb850c3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ac584318a44b` · [字段定义](../../DATASET.md)*

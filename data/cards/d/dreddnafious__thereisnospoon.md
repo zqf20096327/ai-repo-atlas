@@ -2,9 +2,9 @@
 
 ⭐ 1,247 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dreddnafious/thereisnospoon) · 个人维护
 
-**面向工程师的机器学习第一性原理入门读物**
+**为工程师从第一性原理讲解机器学习的入门读物**
 
-单一 Markdown 文件构成的机器学习心智模型入门读物，目标读者是已有软件工程经验但缺乏 ML 直觉的工程师。内容分三部分：基础（神经元、组合、反向传播、泛化、表示）、架构（卷积/注意力/循环/图/SSM 组合规则、Transformer 详解、训练框架）、门控与控制系统；以物理与工程类比作为主要解释方式，数学为辅。支持独自阅读，或将文档喂给 AI 编程助手做对话式探索（作者记录其通过与 Claude 的对话构建而成）。12 张插图由 scripts/ 目录下的 Python 脚本生成，需 matplotlib 与 numpy。
+以单一 markdown 文件提供的机器学习原理读本，面向有软件工程背景、缺乏 ML 直觉的工程师。内容分三部分：基础（神经元、反向传播、泛化）、架构（卷积/注意力/Transformer/SSM、训练框架）、门控控制。全篇以工程类比作为主要解释手段，附 25 幅由 Python 脚本生成的可视化图，另有一份讲电路与能力形成过程的配套文档及 PDF。建议用法包括让 AI 编码助手围绕文本进行对话式讲解。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 单一 Markdown 文件覆盖基础/架构/门控三部分
-- 以物理与工程类比（偏振滤光片、折纸、齿轮系等）作为主要解释手段
-- 提供与 AI agent 对话式学习的使用方式与提示词模板
-- 12 张插图可由 scripts/ 下 Python 脚本重新生成
+- 单一 markdown 文件 + 配套 circuits-primer.pdf 的读本形式
+- 25 幅内联可视化图，全部由 scripts/ 下 Python 脚本生成
+- 以物理/工程类比（纸张折叠、齿轮链等）作为主要解释方式
+- 提供喂给 AI 编码助手进行对话式学习的提示词模板
 
 ## 适用场景
 
-- 软件工程师建立机器学习系统的设计直觉
-- 结合 AI 编程助手对话式地检验自己的理解
-- 查阅常见问题到架构选型的映射（Design Patterns/Diagnostics 章节）
+- 软件工程师建立机器学习的概念心智模型
+- 按 SYLLABUS 主题表逐节自学深度学习基础与 Transformer
+- 配合 AI 助手对文本内容做问答式深入探索
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L5: A machine learning primer built from first principles.
 > L18: This isn't a textbook or a tutorial. It's a **mental model** — the abstractions you need to reason about ML systems
+> L49: The primer is a single markdown file with inline visualizations:
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `856a2193fae5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `bef54512aef6` · [字段定义](../../DATASET.md)*

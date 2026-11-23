@@ -2,9 +2,9 @@
 
 ⭐ 2,430 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/e2b-dev/code-interpreter) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=code-interpreter) · 组织维护
 
-**在云端安全沙箱中运行 AI 生成代码的 Python/JS SDK**
+**给 AI 应用执行生成代码的云端沙箱 SDK**
 
-E2B 提供的开源基础设施 SDK：通过 JavaScript/TypeScript 与 Python 包在云端安全隔离沙箱中启动、控制并执行代码，沙箱内运行代码解释器可执行 AI 生成的代码并返回结果。使用需注册 E2B 账号并设置 E2B_API_KEY。注意：SDK 源码已迁入 E2B monorepo，本仓库保留沙箱模板与图表数据提取器，且产品标注为 Preview 状态。支持构建自定义沙箱模板。
+E2B 提供云端隔离沙箱基础设施，供 AI 应用运行 AI 生成的代码，通过 JavaScript/Python SDK 启动并控制沙箱，在沙箱内执行代码解释器并读取执行结果。使用前需注册获取 E2B API key 并设置环境变量；SDK 源码已迁入 E2B monorepo，本仓库保留沙箱模板（含图表数据提取器），支持自定义沙箱模板以添加依赖包或更换运行时。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@ E2B 提供的开源基础设施 SDK：通过 JavaScript/TypeScript 与 Python �
 
 ## 能力要点
 
-- Python 与 JS/TS 双语言 SDK
-- 云端隔离沙箱内执行 AI 生成代码并返回结果
-- 可构建自定义沙箱模板（不同运行时/额外包）
-- 提供 Cookbook 示例集合
+- Python 与 JS/TS 双 SDK，云端隔离沙箱中运行 AI 生成代码
+- 沙箱模板含图表数据提取器，可自定义模板与运行时
+- Cookbook 提供不同 LLM 与 AI 框架的示例
 
 ## 适用场景
 
-- 为 AI 应用添加安全的代码执行能力
-- 构建数据分析类 agent 时隔离运行生成代码
-- 按需扩展沙箱运行时环境
+- 在 AI 应用中安全执行大模型生成的 Python/JS 代码
+- 为 LLM 代理提供代码解释与数据分析执行环境
+- 按需构建带额外依赖的代码执行沙箱模板
 
 ## 场景标签
 
-`数据分析` · 领域:效率与自动化
+ · 领域:LLM 基础设施/代码执行
 
 ## 证据(README 行号)
 
-> L16: ## What is E2B?
 > L17: E2B is an open-source infrastructure that allows you to run AI-generated code in secure isolated sandboxes in the c
+> L65: Visit our Cookbook to get inspired by examples with different LLMs and AI frameworks.
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ff49628bcb90` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5192b074afa4` · [字段定义](../../DATASET.md)*

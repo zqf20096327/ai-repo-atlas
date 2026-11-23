@@ -2,9 +2,9 @@
 
 ⭐ 1,312 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Vincentqyw/image-matching-webui) · [官网](https://huggingface.co/spaces/Realcat/image-matching-webui) · 个人维护
 
-**图像特征匹配 WebUI：多种算法比对两图关键点并可视化**
+**给研究者的多算法图像关键点匹配 WebUI 工具**
 
-基于 Gradio 的图像匹配工具（IMCUI）：选择两张本地或摄像头图像与一种匹配算法，输出关键点匹配结果，支持 LoFTR、SuperGlue、LightGlue、SIFT 等数十种局部特征与匹配算法，并用 RANSAC 过滤外点。提供 pip 安装、Docker 镜像与命令行接口，模型权重托管于 HuggingFace；开发者可通过子模块方式接入自己的特征提取器或匹配器。代码基于 Hierarchical-Localization 构建。
+基于 gradio 的图形界面工具，用户选择两张图片（本地或摄像头）与一种匹配算法，即输出两图关键点匹配结果。内置数十种特征提取与匹配算法（LoFTR、SuperGlue、LightGlue、SIFT 等），部分算法以 git submodule 方式接入第三方仓库；支持 pip 安装、源码部署、Docker 部署、命令行调用与 API 服务模式，模型托管于 Huggingface，并提供扩展自定义特征/匹配器的示例。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 收录数十种图像匹配算法（SuperGlue、LightGlue、LoFTR、SIFT 等）
-- Gradio Web 界面支持本地图像与摄像头输入，RANSAC 过滤外点
-- 支持 pip 安装、Docker 镜像与命令行接口及配置文件
-- 可通过 git submodule 接入自定义特征提取器/匹配器
+- 集成数十种已发表的特征匹配算法（LoFTR、SuperGlue、LightGlue、RoMa、SIFT 等）
+- gradio WebUI 选择两张图片即可获得匹配结果，支持摄像头输入
+- 提供 pip 包 imcui、Docker 镜像、CLI 与 API 服务多种运行方式
+- 提供添加自定义特征/匹配器的示例与步骤文档
 
 ## 适用场景
 
-- 可视化对比不同图像匹配算法的效果
-- 为三维重建/定位任务检查图像对的特征匹配质量
-- 快速试验新发表的特征提取与匹配模型
+- 为 SfM/SLAM/位姿估计任务获取两幅图像的关键点对应关系
+- 在网页界面上对比不同匹配算法的输出
+- 接入自己的特征提取器并用统一界面测试
 
 ## 场景标签
 
-`图像视频处理` · 领域:感知与多模态
+`图像视频处理` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L13: `Image Matching WebUI (IMCUI)` efficiently matches image pairs using multiple famous image matching algorithms. The
-> L24: The tool currently supports various popular image matching algorithms, namely:
+> L14: `Image Matching WebUI (IMCUI)` efficiently matches image pairs using multiple famous image matching algorithms. The
+> L25: The tool currently supports various popular image matching algorithms, namely:
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4d45d3ee7bab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2a28fe4d38ca` · [字段定义](../../DATASET.md)*

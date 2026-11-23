@@ -2,9 +2,9 @@
 
 ⭐ 1,478 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/growilabs/growi) · [官网](https://growi.org) · 组织维护
 
-**团队协作用 Markdown Wiki / 知识库软件**
+**面向团队的 Markdown 协作 wiki 软件**
 
-GROWI 是基于 Node.js/React/TypeScript 的团队协作 wiki 软件：以 Markdown 编辑层级页面，支持多人同时编辑、LDAP/AD/OAuth 认证、SAML 单点登录、Slack/Mattermost/IFTTT 集成与插件机制。部署方式包括 docker-compose、Helm Chart（实验性）与 on-premise 安装。开发依赖 Node.js v24、pnpm 11、Turborepo、MongoDB；可选 Redis 与 ElasticSearch（全文搜索，需 kuromoji/ICU 插件）。MIT 许可。
+GROWI 是一款基于 Markdown 的团队协作 wiki 软件，支持创建层级页面、多人同时编辑，认证方面支持 LDAP/Active Directory、OAuth 与 SAML SSO，可集成 Slack/Mattermost 与 IFTTT，并通过 npm 或 GitHub 提供插件扩展机制。部署提供 docker-compose、Helm Chart（实验性）及 Ubuntu/CentOS 本地安装文档；开发依赖 Node.js v24.x、pnpm、MongoDB v6.x/v8.x，全文检索需可选安装 ElasticSearch 及日语分词等插件。README 未描述 AI 相关功能细节。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@ GROWI 是基于 Node.js/React/TypeScript 的团队协作 wiki 软件：以 Markd
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Markdown 层级页面与多人同时编辑
-- LDAP/Active Directory/OAuth 认证与 SAML SSO
-- Slack/Mattermost/IFTTT 集成与 npm/GitHub 插件机制
-- Docker 与 Docker Compose 部署支持
+- Markdown 层级页面创建与多人同时编辑
+- LDAP/Active Directory、OAuth 认证与 SAML SSO
+- npm/GitHub 插件扩展机制
+- docker-compose 与 Helm Chart 部署支持
 
 ## 适用场景
 
-- 团队搭建内部知识库与文档 wiki
-- 企业内通过 SSO 集成统一认证访问 wiki
-- 以 Docker Compose 快速部署协作站点
+- 团队用 Markdown 搭建内部知识库
+- 需要与企业 LDAP/SSO 认证体系对接的 wiki 部署
+- 通过 docker-compose 在自托管服务器上运行多人协作文档站点
 
 ## 场景标签
 
@@ -38,6 +38,7 @@ GROWI 是基于 Node.js/React/TypeScript 的团队协作 wiki 软件：以 Markd
 ## 证据(README 行号)
 
 > L12: # GROWI
+> L26: - **Features**
 > L27:  - Create hierarchical pages with markdown -> Try GROWI on the demo site
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d7622ca2ffa0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `eb0f4a20efff` · [字段定义](../../DATASET.md)*

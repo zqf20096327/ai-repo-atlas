@@ -2,9 +2,9 @@
 
 ⭐ 1,186 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/tylerprogramming/ai) · 个人维护
 
-**YouTube 博主的 AI agent 框架示例与教程代码合集**
+**YouTube 频道配套的 AI Agent 框架教程与示例代码库**
 
-个人教学向代码仓库，收录基于 AutoGen、CrewAI、PydanticAI、Smolagents、OpenAI Agents 等框架的 agent 示例项目与集成代码，作为其 YouTube 频道的配套源码。附各框架版本要点速查（AutoGen v0.7+ 新 API、CrewAI Flow 等）、Claude Code 技能 agent-builder、以及本地 LLM（Ollama / LM Studio）运行前提。示例多为独立工程，进入目录安装依赖后运行 main.py 即可。
+面向其 YouTube 频道观众的 AI agent 学习仓库，汇集 AutoGen、CrewAI、PydanticAI、Smolagents、OpenAI Agents SDK/AgentOps 等框架的教程代码与简单示例。2026 年 10 月起所有项目按固定版本表更新并做离线冒烟测试（LLM 调用被模拟、外部服务打桩）。README 提供各框架 v0.7+/v1.15+/v2.x 的快速参考代码片段、环境要求（Python 3.11–3.13、Ollama 或 LM Studio）、两种示例运行方式，并附一个可脚手架 agent 项目的 Claude Code skill。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 覆盖 AutoGen/CrewAI/PydanticAI/Smolagents 等多框架示例
-- AutoGen v0.7+ 新 API 速查与迁移说明
-- 含 Claude Code 技能 agent-builder（脚手架生成 agent 项目）
-- 示例支持 Ollama 与 LM Studio 本地 LLM
+- 覆盖 7 个 agent 框架并给出统一版本矩阵与离线冒烟测试说明
+- 提供 AutoGen v0.7 异步 API、CrewAI v1.15、PydanticAI v2.x 等快速参考片段
+- 包含 Claude Code skill agent-builder 用于脚手架生成 agent 项目
+- 多数示例为独立脚本，带 requirements.txt 或 CrewAI CLI 运行方式
 
 ## 适用场景
 
-- 学习各 AI agent 框架的入门示例
-- 跟练 YouTube 教程并获取对应源码
-- 参考 AutoGen v0.7+ 新 API 写法
+- 按视频教程运行对应的 agent 框架示例代码
+- 查看 AutoGen v0.2 迁移到 v0.7 的 API 变化写法
+- 用本地 Ollama/LM Studio 模型跑通示例
 
 ## 场景标签
 
-`Agent 框架` `教程课程` · 领域:Agent 开发
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L7: A collection of AI agent projects, framework tutorials, and integrations. This is the main hub for code from my YouT
-> L14: ├── frameworks/           # AI framework projects (simple examples, not full courses)
-> L16: │   ├── autogen/         # AutoGen projects (includes v0.7+ examples)
+> L16: ├── frameworks/           # AI framework projects (simple examples, not full courses)
+> L22: ## Framework Versions (October 2026)
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `68a3d610f64d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `235b185fd24e` · [字段定义](../../DATASET.md)*

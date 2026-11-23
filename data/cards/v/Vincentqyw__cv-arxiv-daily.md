@@ -2,9 +2,9 @@
 
 ⭐ 1,520 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Vincentqyw/cv-arxiv-daily) · [官网](https://papers.vincentqin.tech) · 个人维护
 
-**每日自动更新的计算机视觉 arXiv 论文清单**
+**为 CV/机器人研究者每日自动更新的 arXiv 论文清单**
 
-利用 GitHub Actions 自动抓取并每日更新计算机视觉方向的 arXiv 论文列表，按 SLAM、SFM、视觉定位、关键点检测、图像匹配、NeRF、高斯泼溅、3D 重建、世界模型、VLA/VLN 等关键词分类组织。每条论文记录发布日期、标题、作者、PDF 编号与代码链接，并按年份和关键词生成归档统计表。面向 CV 与机器人方向的研究者追踪新论文使用。
+通过 GitHub Actions 每日自动抓取并更新计算机视觉相关 arXiv 论文的清单仓库。条目按 SLAM、SFM、Visual Localization、Keypoint Detection、Image Matching、NeRF、Gaussian Splatting、3D Reconstruction、World Model、VLA/VLN 等 10 个主题分类组织，每条记录发布日期、标题、作者、PDF 链接与代码链接；另按年份归档全部论文，每主题每年一个 markdown 文件。面向跟踪 CV 与机器人前沿研究的科研人员，README 主体为论文目录表格。
 
 ## 筛选速览
 
@@ -21,25 +21,24 @@
 ## 能力要点
 
 - GitHub Actions 每日自动更新论文列表
-- 覆盖 SLAM/NeRF/3D 重建等 10 个 CV 子方向
-- 按年份与关键词生成论文数量归档表
-- 条目含 arXiv PDF 编号与代码链接
+- 10 个主题分类（SLAM/SFM/NeRF/3D 重建等）加按年归档
+- 每条论文含发布日期、作者、PDF 与代码链接
 
 ## 适用场景
 
-- 每日追踪 SLAM 与 3D 重建方向的新论文
-- 按关键词分类浏览历年 CV 论文
-- 通过代码链接找到论文开源实现
+- 每日快速浏览 SLAM、3D 重建等方向的新论文
+- 按年份回溯某个主题的历史论文列表
+- 查找某篇论文是否开源了代码
 
 ## 场景标签
 
-`科研工具` `精选清单` · 领域:学习与行业
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L1: ## Updated on 2026.10.19
-> L7:  SLAM
-> L24: |2026|181|96|175|39|51|114|10|10|9|10|
+> L4:  Table of Contents
+> L22: |Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|Worl
+> L33: |Publish Date|Title|Authors|PDF|Code|
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0016a8e64867` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `013c9d17b25e` · [字段定义](../../DATASET.md)*

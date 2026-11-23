@@ -2,9 +2,9 @@
 
 ⭐ 2,136 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Comfy-Org/ComfyUI_frontend) · [官网](https://www.comfy.org/) · 组织维护
 
-**ComfyUI 官方前端实现：节点画布等图形界面**
+**ComfyUI 官方前端：生成式 AI 节点工作流界面**
 
-Comfy-Org 维护的 ComfyUI 官方前端项目，提供节点图编辑（Litegraph 画布、分组、链接操作）、节点库与队列/历史侧栏、模糊搜索、快捷键自定义、内置服务器终端（Ctrl+`）及 14 种语言的原生翻译等功能。面向 ComfyUI 用户与扩展开发者，提供扩展注册 API（toast、命令、快捷键、侧栏标签、设置项等）。采用三阶段重叠的周期发布流程，每晚发布 nightly 版本，可通过 ComfyUI 启动参数 --front-end-version 指定版本。
+ComfyUI 的官方前端实现，为节点式生成式 AI 工作流提供界面：包含节点库侧边栏（拖放、过滤、模糊搜索）、队列/历史标签页、蒙版编辑器、集成服务端终端、快捷键自定义与画布交互（分组、连线自动转换、平移模式）等。内置 14 种语言的 i18n 翻译。为扩展开发者提供扩展 API（toast/对话框/设置/命令/侧边栏标签等注册接口）。采用三阶段发布流程（开发→冻结→发布），提供每日 nightly 版本，通过 ComfyUI 启动参数选用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Comfy-Org 维护的 ComfyUI 官方前端项目，提供节点图编辑（Litegra
 
 ## 能力要点
 
-- Litegraph 节点画布编辑与多项 QoL 操作（分组、多选、自动连线）
-- 原生 i18n 支持 14 种语言
-- 面向扩展开发者的 API：toast、命令/快捷键、侧栏标签、设置项注册
-- 每晚 nightly 发布，可经 --front-end-version 参数切换版本
+- 节点库、队列/历史侧边栏与蒙版编辑器等界面能力
+- 原生 i18n 支持 14 种界面语言
+- 面向扩展开发者的扩展 API（toast、对话框、设置、命令、侧边栏标签）
+- 结构化发布流程与每日 nightly 版本
 
 ## 适用场景
 
-- 通过节点画布搭建和管理 ComfyUI 工作流
-- 开发 ComfyUI 前端扩展并注册命令、面板与设置项
-- 跟随 nightly 版本试用前端新功能
+- 为 ComfyUI 用户操作节点工作流提供图形界面
+- 为 ComfyUI 扩展开发者调用前端扩展 API
+- 需要多语言界面（如简体中文）的 ComfyUI 使用者
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Comfy-Org 维护的 ComfyUI 官方前端项目，提供节点图编辑（Litegra
 ## 证据(README 行号)
 
 > L3: **Official front-end implementation of ComfyUI.**
-> L372: ## Contributing
+> L35: To use the latest nightly release, add the following command line argument to your ComfyUI launch script:
+> L186: ### Developer APIs
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8f43df6bb9d5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `8392123b6e13` · [字段定义](../../DATASET.md)*

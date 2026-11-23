@@ -1,1 +1,83 @@
-{"fn": "yilewang/llm-for-zotero", "sha": "2970385db9ec", "source": "readme", "identity": {"one_liner": "把 LLM 助手与文献 Agent 嵌入 Zotero 阅读器的插件", "review": "以 Zotero 插件（.xpi）形式安装，在 Zotero PDF 阅读器侧边栏提供论文问答、摘要、选中解释、图表截图解读与多论文对比，引用可点击跳回原文段落。Agent Mode（默认关闭）提供库内搜索、元数据/标签写入、批量笔记、文献发现等工具，写入操作需确认且可撤销。后端可选 API 提供商、本地 OpenAI 兼容模型、WebChat、Codex App Server 与 Claude Code；笔记可导出为 Markdown 到 Obsidian/Logseq 目录。", "highlights": ["带来源引用的论文问答，点击引用跳回 PDF 原文段落", "Agent Mode 提供库读写、文献发现、批量笔记等 30+ 工具，写入可确认与撤销", "支持多种协议后端：responses_api/openai_chat_compat/anthropic_messages/gemini_native，含本地模型", "Markdown 笔记写入 Obsidian/Logseq 目录，使用 Pandoc 引用语法"], "use_cases": ["在 Zotero 里直接向 PDF 提问并生成带引用的回答", "让 Agent 批量整理库内条目的标签、元数据与笔记", "跨多篇论文做对比综述并导出到 Obsidian", "通过 OpenAlex/arXiv/Europe PMC 查找相关论文并导入库中"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/c3c80e9c-a8cd-487f-9b1c-49ff717f514c", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Zotero插件", "文献阅读", "RAG", "研究Agent"], "domain": "科研工具/文献管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供中文文档"]}, "trust": {"confidence": "mid", "evidence": ["L13: **LLM-for-Zotero** brings Large Language Models into the Zotero reader, so", "L96: On the first message, the model loads the current paper as context. Follow-up", "L211: ## Agent Mode (beta)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-23", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yilewang/llm-for-zotero",
+ "sha": "2970385db9ec",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 LLM 助手与文献 Agent 嵌入 Zotero 阅读器的插件",
+  "review": "以 Zotero 插件（.xpi）形式安装，在 Zotero PDF 阅读器侧边栏提供论文问答、摘要、选中解释、图表截图解读与多论文对比，引用可点击跳回原文段落。Agent Mode（默认关闭）提供库内搜索、元数据/标签写入、批量笔记、文献发现等工具，写入操作需确认且可撤销。后端可选 API 提供商、本地 OpenAI 兼容模型、WebChat、Codex App Server 与 Claude Code；笔记可导出为 Markdown 到 Obsidian/Logseq 目录。",
+  "highlights": [
+   "带来源引用的论文问答，点击引用跳回 PDF 原文段落",
+   "Agent Mode 提供库读写、文献发现、批量笔记等 30+ 工具，写入可确认与撤销",
+   "支持多种协议后端：responses_api/openai_chat_compat/anthropic_messages/gemini_native，含本地模型",
+   "Markdown 笔记写入 Obsidian/Logseq 目录，使用 Pandoc 引用语法"
+  ],
+  "use_cases": [
+   "在 Zotero 里直接向 PDF 提问并生成带引用的回答",
+   "让 Agent 批量整理库内条目的标签、元数据与笔记",
+   "跨多篇论文做对比综述并导出到 Obsidian",
+   "通过 OpenAlex/arXiv/Europe PMC 查找相关论文并导入库中"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/c3c80e9c-a8cd-487f-9b1c-49ff717f514c",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Zotero插件",
+   "文献阅读",
+   "RAG",
+   "研究Agent"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "research-tools",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文文档"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: **LLM-for-Zotero** brings Large Language Models into the Zotero reader, so",
+   "L96: On the first message, the model loads the current paper as context. Follow-up",
+   "L211: ## Agent Mode (beta)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -2,9 +2,9 @@
 
 ⭐ 1,270 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/qualcomm/ai-hub-models) · [官网](https://aihub.qualcomm.com/models) · 组织维护
 
-**Qualcomm 设备用的优化模型库：浏览、导出并部署 ML 模型**
+**面向 Qualcomm 设备部署的优化 ML 模型集合**
 
-Qualcomm 维护的机器学习模型集合与配套 Python CLI：收录生成式 AI、计算机视觉等类别模型，提供浏览目录、下载可部署资产、查看性能/精度数据的能力；通过 Qualcomm AI Hub Workbench 可将模型量化、编译为 tflite/ONNX/QNN 等运行时格式，并在云端真机上剖析与评测。支持 Snapdragon 手机、计算、汽车与 IoT 芯片系列，导出需 Qualcomm ID 与 API token。本地演示可经 PyTorch 在 CPU/GPU 运行。
+高通官方维护的机器学习模型库，收录生成式 AI 与计算机视觉类模型（文本生成、图像分类、超分辨率、语义分割等），模型针对性能（延迟、内存）优化。提供 qai-hub-models CLI 浏览目录、下载可部署资产（TFLite/ONNX/QNN 等运行时格式），并借助 Qualcomm AI Hub Workbench 在云端托管真机上进行量化、编译、性能剖析与评估。以 pip 包分发，需 Qualcomm ID 与 API token 使用云端流程；Windows ARM64 Python 不受支持。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Qualcomm 维护的机器学习模型集合与配套 Python CLI：收录生成式
 
 ## 能力要点
 
-- CLI 支持浏览目录、下载资产、查看性能与精度结果
-- 经 AI Hub Workbench 量化、编译并在云端真机剖析/评测模型
-- 支持 Qualcomm AI Engine Direct、LiteRT、ONNX 运行时与多种精度
-- 提供带前后处理的 Python 示例应用与端到端 demo
+- 提供 CLI 浏览模型目录、查看性能与评估数据并下载可部署资产
+- 支持导出到 Qualcomm AI Engine Direct、LiteRT (TFLite)、ONNX 三类设备端运行时
+- 覆盖 CPU/GPU/NPU 计算单元，支持 FP32/FP16/INT8/INT16 精度量化
+- 面向 Snapdragon 手机、PC、汽车、IoT、XR 等平台芯片
 
 ## 适用场景
 
-- 为 Snapdragon 设备查找并下载优化过的 ML 模型
-- 把 PyTorch 模型量化编译为端侧运行时并测性能
-- 在真机上跑通模型端到端推理示例
+- 为 Snapdragon 设备准备可直接部署的量化模型
+- 在云端托管真机上剖析模型延迟与内存表现
+- 下载 TFLite/ONNX 等格式的部署资产用于端侧应用
+- 按类别查找可部署的视觉与生成式 AI 模型
 
 ## 场景标签
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7fa9979d12db` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a89f57386590` · [字段定义](../../DATASET.md)*

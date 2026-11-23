@@ -1,1 +1,77 @@
-{"fn": "yahootattoo1-commits/1b-free-token-muse", "sha": "4db54b4dd6bb", "source": "readme", "identity": {"one_liner": "Muse AI 邀请码兑换教程：新用户领取 10 亿免费 tokens", "review": "一份非官方的社区指南，介绍如何使用邀请码 8XBCL6 在 Muse（Meta 的个人 AI 助手）注册后 48 小时内兑换 10 亿 tokens 使用额度。内容覆盖注册步骤、兑换入口路径、限制条件（仅限新账户、每码约 20 次、地区可用性）与常见问题，以英文加波斯文双语呈现。仓库本身不包含代码，仅托管该指南与 muse.ai 的注册链接。", "highlights": ["提供邀请码 8XBCL6 的完整兑换流程（Settings → Redeem Code）", "说明 48 小时兑换窗口与每码约 20 次使用上限等限制", "英文与波斯文双语指南", "声明为非官方社区指南，与 Meta/Muse 无隶属关系"], "use_cases": ["新注册 Muse 账户后按步骤兑换邀请码奖励", "排查邀请码无法兑换的原因（窗口过期/码满/复制错误）", "波斯语用户参考本地语言版兑换说明"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["邀请码/推荐计划", "AI助手", "教程/指南", "双语(英/波斯)"], "domain": "AI 产品推荐/教程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: ## ✨ What is Muse?", "L52: ## 🚀 How to redeem in 2 minutes", "L118: *Disclaimer: This is an unofficial community guide, not affiliated with Meta or Muse. Rewards, limits, availability and "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-23", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yahootattoo1-commits/1b-free-token-muse",
+ "sha": "4db54b4dd6bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Muse AI 邀请码兑换教程：新用户领取 10 亿免费 tokens",
+  "review": "一份非官方的社区指南，介绍如何使用邀请码 8XBCL6 在 Muse（Meta 的个人 AI 助手）注册后 48 小时内兑换 10 亿 tokens 使用额度。内容覆盖注册步骤、兑换入口路径、限制条件（仅限新账户、每码约 20 次、地区可用性）与常见问题，以英文加波斯文双语呈现。仓库本身不包含代码，仅托管该指南与 muse.ai 的注册链接。",
+  "highlights": [
+   "提供邀请码 8XBCL6 的完整兑换流程（Settings → Redeem Code）",
+   "说明 48 小时兑换窗口与每码约 20 次使用上限等限制",
+   "英文与波斯文双语指南",
+   "声明为非官方社区指南，与 Meta/Muse 无隶属关系"
+  ],
+  "use_cases": [
+   "新注册 Muse 账户后按步骤兑换邀请码奖励",
+   "排查邀请码无法兑换的原因（窗口过期/码满/复制错误）",
+   "波斯语用户参考本地语言版兑换说明"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "邀请码/推荐计划",
+   "AI助手",
+   "教程/指南",
+   "双语(英/波斯)"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: ## ✨ What is Muse?",
+   "L52: ## 🚀 How to redeem in 2 minutes",
+   "L118: *Disclaimer: This is an unofficial community guide, not affiliated with Meta or Muse. Rewards, limits, availability and "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

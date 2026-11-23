@@ -2,9 +2,9 @@
 
 ⭐ 1,406 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ngxson/wllama) · [官网](https://huggingface.co/spaces/ngxson/wllama) · 个人维护
 
-**llama.cpp 的 WebAssembly 绑定，在浏览器内直接运行 LLM 推理**
+**在浏览器内直接运行 llama.cpp 推理的 WebAssembly 绑定库**
 
-面向 Web 开发者的 TypeScript/npm 库，将 llama.cpp 编译为 Wasm 在浏览器中执行推理，无需后端或 GPU；通过 WebAssembly SIMD 与 worker 运行，不阻塞 UI 渲染。V3 支持 WebGPU（可调 n_gpu_layers 控制层数下放）、多模态输入、工具调用与 OpenAI 兼容 API。支持 GGUF 模型分片并行加载，单文件上限 2GB；多线程需配置 COEP/COOP 头。npm 包预构建，自行编译需 Docker。
+将 llama.cpp 编译为 WebAssembly 供前端调用的 npm 库：开发者加载 GGUF 模型文件后，推理在浏览器内的 worker 中完成，无需后端服务器。支持 WebGPU 卸载（模型放不下 GPU 时 CPU+GPU 混合运行）、OpenAI 兼容 API、多模态输入、语音合成/转写/实时会话、tool calling、投机解码与 LoRA 适配器；模型缓存于 OPFS，支持大于 4GB 的单文件加载与跨 worker 分片。限制包括多线程需要特定 COOP/COEP 响应头，wasm 单实例内存上限 4GB。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 浏览器内直接推理（Wasm SIMD），无需后端或 GPU
-- WebGPU 支持与可调 GPU 层数下放
-- 多模态（图像/音频）、工具调用与 OpenAI 兼容 API
-- GGUF 模型分片并行下载加载（单文件限 2GB）
+- 浏览器内推理（WebAssembly SIMD），无需后端或 GPU
+- WebGPU 卸载，模型超出显存时 CPU+GPU 混合运行，可设 n_gpu_layers
+- GGUF 文件按原样加载，超 4GB 自动跨 worker 分片，OPFS 缓存与断点续传
+- 语音能力：TTS、转写、实时全双工音频会话（OpenAI realtime 风格事件）
 
 ## 适用场景
 
-- 在网页中直接加载 GGUF 模型做补全或嵌入
-- 构建无需后端的浏览器端 LLM 应用
-- 多模态视觉补全与工具调用的前端原型
+- 在前端网页中直接跑 GGUF 模型做补全、嵌入或视觉理解
+- 网页端实现语音对话、实时转写或语音翻译
+- 开发不依赖服务端、模型在用户浏览器本地运行的 LLM 应用
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L1: # wllama - Wasm binding for llama.cpp
-> L25: - Can run inference directly on browser (using WebAssembly SIMD), no backend or GPU is needed!
+> L3: WebAssembly binding for llama.cpp
+> L26: - Can run inference directly on browser (using WebAssembly SIMD), no backend or GPU is needed!
+> L33: - Pre-built npm package @wllama/wllama
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3926778538bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f3549023aa16` · [字段定义](../../DATASET.md)*

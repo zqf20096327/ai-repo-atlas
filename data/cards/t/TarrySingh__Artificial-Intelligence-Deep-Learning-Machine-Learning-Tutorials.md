@@ -2,9 +2,9 @@
 
 ⭐ 4,027 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) · [官网](https://synapsa.realai.eu) · 组织维护
 
-**免费动手 AI 课程库：77 节可在浏览器本地运行的自测课**
+**免费实操 AI 课程库：在 Colab/Jupyter 上做中学**
 
-Synapsa 团队维护的实践型 AI 课程仓库，共 77 节通过 14 项质量门与独立评审的课程，以 Jupyter notebook 交付，可在 Colab、Kaggle、Binder、Codespaces 或本地 Jupyter 运行；每节练习填空后自动判分并给出提示。内容分轨道（语言模型、推理系统、RAG、Agent 等）与行业项目（EU AI Act 合规、文档抽取、预测性维护、模型风险、蛋白质组学、仿真人形机器人）。多数课程 CPU 即可运行，7 节含 C/C++ 练习需 make 与编译器，PyTorch 为可选安装。2017-2025 旧教程已归档。
+原 2017-2025 教程已退役，现改为 Synapsa Commons 课程集：108 个可自动评分的 notebook 课程，覆盖 EU AI Act 合规证据、模型验证、预测性维护、文档抽取、检索与 RAG、agent 与 MCP、模拟人形机器人等，按 7 个 programme 与 11 个 track 组织。课程在 Colab/Kaggle/Binder/Codespaces/本地 Jupyter 打开，每个练习运行即自检，部分 C/C++ 练习需 make 与编译器。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Synapsa 团队维护的实践型 AI 课程仓库，共 77 节通过 14 项质量
 
 ## 能力要点
 
-- 77 节课程全部通过 QUALITY.md 的 14 项质量门并经独立评审
-- 练习单元运行即自检，配两级提示与进度板
-- 覆盖 EU AI Act 合规、文档智能、预测性维护、模型风险等行业项目
-- notebook 可在 Colab/Kaggle/Binder/Codespaces/本地 Jupyter 五种环境运行
+- 108 个课程均通过 14 项质量门并独立评审
+- 每个 notebook 在 Colab、Kaggle、Binder、Codespaces 或本地 Jupyter 打开
+- 练习自动评分：运行即判对错并给出两级提示
+- 每周一/三/五更新新课程
 
 ## 适用场景
 
-- 想系统学习 AI 工程与推理系统的 ML 工程师按轨道进阶
-- 受监管行业从业者学习 EU AI Act 合规证据与模型验证
-- 零基础者在浏览器中动手完成第一门 8GB 入门课
+- 零基础按入门路径逐步学 Python 与 AI
+- ML 工程师按 track 学 agent、RAG、推理系统与治理
+- 行业专家学 EU AI Act 合规、信贷风控等领域课程
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
+> L1: Synapsa Commons: learn AI by building it
 > L3:  Free, hands-on AI courses that run anywhere , from the team building Synapsa, an AI-native learning platform.
-> L52: **77 lessons, every one passing all 14 gates in `QUALITY.md` and independently reviewed.** 7 are compiled C or C++ 
+> L52: **108 lessons, every one passing all 14 gates in `QUALITY.md` and independently reviewed.** 8 are compiled C or C++
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `785acef1dc7a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1577c1b5ee6b` · [字段定义](../../DATASET.md)*

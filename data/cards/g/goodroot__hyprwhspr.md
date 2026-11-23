@@ -2,9 +2,9 @@
 
 ⭐ 1,288 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/goodroot/hyprwhspr) · [官网](https://hyprwhspr.com) · 个人维护
 
-**Linux 原生系统级语音听写工具，本地语音转文字**
+**Linux 全系统级语音听写工具：本地离线转写并自动粘贴**
 
-面向 Linux 桌面用户的系统级语音听写应用：按键触发录音，将语音转录为文字并自动粘贴到任意活动输入框。默认使用内存中的本地模型离线转录，支持 Cohere Transcribe、Parakeet TDT V3、Whisper、Qwen3-ASR、REST API 或实时 WebSocket 作为后端；Qwen3-ASR 面向中日韩语言，onnx-asr 用于 CPU 加速，可选 CUDA/Vulkan GPU 加速，云端 API 为可选项。提供 AUR 包、安装脚本、源码安装与 Nix flake（beta）等安装途径，附带 CLI 管理模型、配置与 systemd 服务。
+面向 Linux 桌面用户的系统级语音听写工具，通过热键（默认 Super+Alt+D）录音并将语音转写为文本，粘贴到当前活动窗口。支持多种转写后端（本地 onnx-asr 模型、Whisper.cpp、Qwen3-ASR、Parakeet，以及可选的云端 REST API），默认离线运行，转写不经外部服务。提供交互式 setup 命令、CLI 管理命令（模型下载/卸载、录制控制、文件转写）、状态栏可视化、CJK 语言支持与非英语到英语的翻译。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 多转录后端：Cohere Transcribe / Parakeet TDT V3 / Whisper / Qwen3-ASR / REST API / WebSocket
-- 默认本地离线转录，云端 API 完全可选
-- Qwen3-ASR 支持中/日/韩，onnx-asr 优化 CPU 速度
-- 自动粘贴到任意活动输入框，支持 Wayland 与 X11
+- 热键触发的系统级听写，转写文本自动粘贴到活动窗口
+- 默认本地离线转写，云 API 完全可选
+- 多后端可选：onnx-asr/Whisper.cpp/Qwen3-ASR/Parakeet/云端 API
+- 提供 CLI 管理命令与 WAV/MP3 文件转写
 
 ## 适用场景
 
-- Linux 桌面上系统级语音听写，替代打字
-- 中日韩等多语言语音输入
-- 离线隐私优先的本地转录（也可转录 WAV/MP3 文件）
+- 在任意输入框中按热键口述输入文本
+- 离线环境下进行私密语音转写
+- 长篇口述写作（支持暂停续录保存）
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3:  Native speech-to-text for Linux - Fast, accurate, private and hackable system-wide dictation
-> L93: 1. ✅ Configure transcription backend (Cohere Transcribe, Parakeet TDT V3, Whisper, Qwen3-ASR, REST API, or Realtime
+> L14: - **Very fast defaults** - Nearly instant and accurate performance via in-memory models
+> L15: - **Offline and private** - Transcription never leaves your machine. Cloud APIs are fully optional.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `95a356c795c9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `06f9cae382dc` · [字段定义](../../DATASET.md)*

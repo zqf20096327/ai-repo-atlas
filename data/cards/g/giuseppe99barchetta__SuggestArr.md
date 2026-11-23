@@ -2,9 +2,9 @@
 
 ⭐ 1,396 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/giuseppe99barchetta/SuggestArr) · [官网](https://giuseppe99barchetta.github.io/SuggestArr/) · 个人维护
 
-**基于观影历史自动推荐并向 Seer 提交下载请求的媒体自动化工具**
+**根据观看历史自动向 Seer 提交影视推荐请求的工具**
 
-面向 Jellyfin/Plex/Emby 家庭媒体服务器用户：读取最近观看内容，通过 TMDb API 检索相似影片，并向 Jellyseerr/Overseerr（Seer）自动提交下载请求。提供 Web 界面、cron 调度、请求审批与暂停策略、清理自动化、Trakt 观影历史集成。AI 为可选 beta 功能：任意 OpenAI 兼容 API（含本地 Ollama）生成个性化推荐与自然语言搜片，LLM 不可用时回退到 TMDb 算法。需 Python 3.x 或 Docker、TMDb API Key 与已配置的 Seer。
+读取 Jellyfin/Plex/Emby 的观看记录，通过 TMDb 或 OpenAI 兼容 LLM 生成相似内容推荐，并自动向 Jellyseerr/Overseerr 或直接向 Radarr/Sonarr 提交下载请求。提供 Web 界面管理配置、定时任务与实时日志，支持请求审批、待处理暂停、清理旧请求等控制机制，可选接入 Trakt/Simkl 历史与 MDBList 公开列表导入。需 Docker 或 Python 3 运行，须配置 TMDb API key 与媒体服务器。
 
 ## 筛选速览
 
@@ -13,33 +13,32 @@
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 读取 Jellyfin/Plex/Emby 观看历史，经 TMDb 检索相似内容并自动向 Seer 提交请求
-- AI 推荐 beta：任意 OpenAI 兼容 LLM（OpenAI/Ollama/OpenRouter/LiteLLM），LLM 失败回退 TMDb 算法
-- AI 搜索 beta：自然语言描述观片需求，LLM 转为 TMDb 结构化过滤
-- 请求审批、待审暂停、清理自动化等安全机制；支持外部 PostgreSQL/MySQL
+- 从 Jellyfin/Plex/Emby 观看历史生成推荐并自动提交下载请求
+- 推荐来源支持 TMDb 或任意 OpenAI 兼容 LLM，附每条推荐理由
+- AI Search 支持自然语言描述想看的内容并一键请求
+- 提供公开 REST API 与 Swagger UI，支持 SQLite/PostgreSQL/MySQL
 
 ## 适用场景
 
-- 让媒体库根据观看历史自动补充新内容
-- 用自然语言描述想看什么让 AI 找片并一键请求
-- 多人共用环境下按用户管理自动请求与审批
+- 自动根据我看过的剧集向 Overseerr 提交相似内容请求
+- 定期从 Trakt 或 MDBList 导入片单并定时请求
+- 自动清理没人收藏的旧请求及其媒体文件
 
 ## 场景标签
 
-`推荐系统` · 领域:学习与行业
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L10: SuggestArr is a project designed to automate media content recommendations and download requests based on user acti
-> L25: - **AI-Powered Recommendations** *(beta)*: Uses any OpenAI-compatible LLM (OpenAI, Ollama, Gemini, LiteLLM…) to gen
-> L157: > If the LLM is unavailable or returns no results, SuggestArr falls back to the standard TMDb-based recommendation
+> L10: SuggestArr automates media recommendations and download requests based on what you watch on **Jellyfin**, **Plex** 
+> L15: - **Recommendations** from TMDb, or from any OpenAI-compatible LLM (OpenAI, Ollama, OpenRouter, LiteLLM…) with a sh
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1a7d9bf52d23` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1e5ce0491a17` · [字段定义](../../DATASET.md)*

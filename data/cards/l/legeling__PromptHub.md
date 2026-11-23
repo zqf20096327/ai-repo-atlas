@@ -2,9 +2,9 @@
 
 ⭐ 1,833 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/legeling/PromptHub) · [官网](https://prompthub.click) · 个人维护 · 中文 README
 
-**本地优先的 Prompt、Skill 与 Agent 资产管理桌面工作台**
+**Prompt/Skill/Agent 资产的本地管理工作台，一键分发技能**
 
-基于 Electron/React/SQLite 的跨平台桌面应用，面向使用多个 AI 编程工具的用户：集中管理 Prompt、SKILL.md、Rules、MCP、Plugin 等资产，可把同一份 Skill 以 symlink 或 copy 方式一键分发到 Claude Code、Cursor、Codex 等 15+ 平台；提供 Prompt 模板变量、FTS5 全文搜索、版本历史与回滚、多模型 AI 测试与生成。数据默认存本地，支持 WebDAV/S3 同步、.phub.gz 备份与 Docker 自部署 Web 版，另有独立 CLI。
+基于 Electron+SQLite 的本地优先工作台，集中管理 Prompt、SKILL.md、MCP、Plugin 和 AI 编程规则文件，支持把 Skill 按 symlink/copy 两种模式一键安装到 Claude Code、Cursor、Codex 等 15+ 工具目录。提供 Prompt 版本历史与回滚、多模型并行测试与 AI 生成草稿、WebDAV/S3 同步及自部署 Web 快照备份，附带独立 CLI 用于脚本化批量导入导出。桌面版覆盖 macOS/Windows/Linux。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- Skill 一键分发到 15+ AI 编程平台（symlink/copy 双模式）
-- Prompt/Skill/Rules 版本历史、差异对比与回滚
-- 内置 20+ 精选技能的商店，可添加自定义商店源
-- WebDAV/S3 同步与 Docker 自部署 Web 备份，数据本地优先
+- Skill 一键安装到 Claude Code、Cursor 等 15+ 平台，symlink/copy 双模式
+- Prompt/Skill 版本历史、差异对比与一键回滚
+- 本地优先存储，支持 WebDAV/S3 同步与自部署 Web 快照备份
+- 多服务商端点管理，同一 Prompt 多模型并行对比测试
 
 ## 适用场景
 
-- 在多个 AI 编程工具间统一管理和分发 Skills 与 Rules
-- 给 Prompt 做版本管理并在多个模型上并行测试
-- 通过 WebDAV 或自部署 Web 在多设备间同步 AI 资产
+- 集中管理散落在多个 AI 编程工具里的 Prompt 与 SKILL.md
+- 把技能资产批量分发到多个 agent 工具目录
+- 为 Prompt 建立版本控制与回滚机制
+- 在 NAS/局域网自部署网页版做备份快照
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
+> L5: 本地优先的 Prompt、Skill 与 AI 编程资产工作台。
 > L31: PromptHub 把你的 Prompt、SKILL.md 和项目级 AI 编程资产放进一个本地工作区。它能把同一份 Skill 一键安装到 Claude Code、Cursor、Codex、Windsurf、Antigravit
-> L123: - **一键安装到平台**：Claude Code、Cursor、Windsurf、Codex、Antigravity、Kiro、Kilo Code、Cline、Qoder、QoderWork、CodeBuddy、Trae、Tr
-> L147: - 内置 AI 测试，主流国内外服务商都能配（OpenAI、Anthropic、Gemini、Azure、自定义 endpoint 等）
+> L125: - **一键安装到平台**：Claude Code、Cursor、Windsurf、Codex、Antigravity、Kiro、Kilo Code、Cline、Qoder、QoderWork、CodeBuddy、Trae、Tr
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f91a6c812c89` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ddb5e6cac986` · [字段定义](../../DATASET.md)*

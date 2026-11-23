@@ -2,15 +2,15 @@
 
 ⭐ 1,320 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kantord/SeaGOAT) · [官网](https://kantord.github.io/SeaGOAT/) · 个人维护
 
-**本地优先的语义代码搜索引擎，向量嵌入+正则检索**
+**本地运行的语义代码搜索引擎，向量化检索代码库**
 
-面向开发者的代码搜索工具：在本地启动 SeaGOAT 服务器，对代码库建立向量嵌入（ChromaDB），以 gt/seagoat 命令做语义查询，查询中可混用正则表达式，同时结合 ripgrep 提供正则/关键词匹配。默认不依赖远程 API，生成式搜索（--generative）默认走本地 Ollama，可配置 openai/minimax 云端（需显式开启）。依赖 Python 3.10+ 与 ripgrep，bat 为可选；支持 12 类文本/代码文件格式，处理大仓库时低占用后台索引，索引完成前也可查询但结果带精度警告。服务器可自托管到其他机器，但自身不内置安全机制。
+基于向量嵌入的本地代码搜索工具：通过常驻 server 对仓库建立向量索引（ChromaDB + 本地嵌入模型），支持自然语言语义查询与正则表达式查询，并结合 ripgrep 提供关键词/正则匹配结果。可选用 `--generative` 标志让 LLM 增强搜索结果，默认走本地 Ollama。全流程默认本地执行，不依赖第三方远程 API；支持 YAML 配置、远程自托管 server、.gitignore 过滤。通过 pipx 安装，依赖 Python 3.11-3.14 与 ripgrep，支持 12 种文本/编程语言格式。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 向量嵌入（ChromaDB）+ ripgrep 的语义与正则混合检索
-- 本地运行，默认无远程 API，离线可用
-- --generative 生成式搜索默认本地 Ollama，云端 provider 需显式选择
-- 支持 12 种文件格式，索引期间可查询并给出精度估计
+- 本地向量嵌入 + ChromaDB 的语义代码搜索，无第三方 API 依赖
+- 语义结果与 ripgrep 正则/关键词结果结合返回
+- 可选 generative 模式接 Ollama/OpenAI/MiniMax 增强
+- server-client 架构，支持远程自托管与多仓库共用实例
 
 ## 适用场景
 
-- 在大型代码库中用自然语言描述查找代码位置
-- 语义查询中混用正则表达式精确定位
-- 私有代码离线语义检索，不发送数据到第三方
+- 用自然语言在本地代码库中定位功能实现位置
+- 语义搜索与正则搜索混合查询大型仓库
+- 离线环境下对私有代码做语义检索
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 
 > L7: A code search engine for the AI age. SeaGOAT is a local search tool that
 > L8: leverages vector embeddings to enable you to search your codebase semantically.
-> L208: mind that SeaGOAT is not a code generator but a code search engine, therefore
-> L211: That being said, a language model *is* being used to generate vector
+> L185: SeaGOAT does not rely on 3rd party APIs or any remote APIs and executes all
+> L190: database called ChromaDB, with a local vector embedding engine and
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f2eb3ef20503` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5a9648be1ded` · [字段定义](../../DATASET.md)*

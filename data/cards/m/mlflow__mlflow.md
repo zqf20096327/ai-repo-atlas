@@ -2,9 +2,9 @@
 
 ⭐ 28,931 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mlflow/mlflow) · [官网](https://mlflow.org) · 组织维护
 
-**AI 工程 平台：调试/评估/监控 agent 与 LLM 应用**
+**面向 agents、LLM 与 ML 模型的开源 AI 工程平台**
 
-面向 agents、LLM 与 ML 模型的开源 AI 工程平台，功能包括基于 OpenTelemetry 的可观测性追踪、带 50+ 内置指标与 LLM judge 的系统化评估、带版本与血缘的 prompt 管理与自动优化、以及提供 OpenAI 兼容接口的 AI Gateway；另覆盖实验追踪、模型注册与部署等传统 ML 生命周期管理。支持 Python、TypeScript/JavaScript、Java 等语言，对 60+ 框架提供一行式自动追踪，可本地、本地集群或云平台部署。
+MLflow 为团队提供 agents 与 LLM 应用的构建、调试、评估与部署工具集：基于 OpenTelemetry 的可观测性追踪、50+ 内置指标与 LLM judges 的系统评估、带版本与血缘追踪的 prompt 管理与自动优化，以及统一管理模型访问、限流、回退与成本的 AI Gateway。同时覆盖 ML 生命周期的实验追踪、模型评估、模型注册与部署（Docker/Kubernetes 等）。支持 Python、TypeScript/JavaScript、Java 等语言，可本地、自托管或托管服务运行，声明为 vendor-neutral。
 
 ## 筛选速览
 
@@ -26,27 +26,27 @@
 
 ## 能力要点
 
-- 基于 OpenTelemetry 的 LLM/agent 追踪可观测性，支持 60+ 框架一行接入
-- 50+ 内置评估指标与 LLM judge，跟踪质量指标与回归
-- AI Gateway：OpenAI 兼容统一网关，含限流、回退、凭证管理与 A/B 流量切分
-- 实验追踪、模型评估、模型注册与部署（Docker/Kubernetes/Azure ML/AWS SageMaker）
+- 基于 OpenTelemetry 的 LLM/agent 追踪，支持任意提供商与框架
+- 50+ 内置指标与 LLM judges 的系统化评估
+- OpenAI 兼容接口的 AI Gateway（限流、回退、凭据管理、A/B 流量切分）
+- 对 60+ 框架提供一行代码自动追踪
 
 ## 适用场景
 
-- 为 LLM 应用与 agent 建立生产环境的调用链追踪与监控
-- 系统化评估模型质量并跟踪回归
-- 版本化与自动优化 prompt
-- 管理 ML 实验与模型部署生命周期
+- 为生产中的 LLM 应用与 agent 追踪调用链并监控质量与成本
+- 上线前对 LLM 应用做系统性评估并捕捉回归
+- 集中管理 prompt 版本与血缘
+- 统一 API 网关管理多模型访问与成本
 
 ## 场景标签
 
-`LLM 可观测性` `模型评测` `MLOps` `提示工程` · 领域:Agent 开发
+`提示工程` `LLM 可观测性` `模型评测` `MLOps` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: MLflow is the largest open source **AI engineering platform for agents, LLMs, and ML models**. MLflow enables teams 
-> L73: MLflow provides everything you need to build, debug, evaluate, and deploy production-quality LLM applications and A
-> L122: MLflow supports all agent frameworks, LLM providers, tools, and programming languages. We offer one-line automatic
+> L12: MLflow's comprehensive feature set for agents and LLM applications includes production-grade observability, evaluat
+> L106:  Unified API gateway for all LLM providers. Route requests, manage rate limits, handle fallbacks, and control cost
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `23c13649e58c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `03f1ffb89937` · [字段定义](../../DATASET.md)*

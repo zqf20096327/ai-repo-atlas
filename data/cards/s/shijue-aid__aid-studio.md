@@ -2,9 +2,9 @@
 
 ⭐ 1,509 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shijue-aid/aid-studio) · [官网](https://www.aidstudio.com.cn/) · 组织维护 · 中文 README
 
-**自托管的 AI 漫剧/短剧/电影与漫画创作平台**
+**面向创作者的开源自托管 AI 漫剧/短剧/短片制作工作台**
 
-开源（MIT）的 AI 动态漫画与短剧创作平台，覆盖剧本、分镜工作台、图片/视频生成、多音色配音到成片预览的端到端流程，也支持短片与静态漫画。面向创作者、团队与自部署开发者：通过统一 Providers 配置文本/图像/视频/语音模型与 API 网关，凭各厂商 API 凭证调用（调用与存储产生费用）。提供 Docker 与 systemd 两种部署模式、统一任务队列、计费与用户体系，含 aid-updater 在线升级与回滚。
+可自托管的开源影视创作工作台，覆盖从剧本到成片的流程：撰写或导入剧本、准备角色与场景素材、按分镜生成视频、配音、音画同步与成片预览。提供无限画布（节点连线编排多媒体素材、多人协作）、导演台（机位、构图、运镜）、3D 预演台（白模、灯光、动作与时间轴回放录制）及管理后台（模型配置、计费、Agent/Skill/计算节点管理）。支持 Docker 与 systemd 部署，代码为 MIT 协议，模型调用与存储可能产生费用。
 
 ## 筛选速览
 
@@ -12,34 +12,34 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 剧本/分镜/图像/视频/配音的端到端 AI 创作工作流与工作流画布
-- 多模型接入：统一 Providers 配置文本、图像、视频、语音模型及 API 网关
-- 统一任务系统：生成队列、并发调度、重试与补偿
-- Docker 与 systemd 两种部署模式，支持在线升级与回滚（aid-updater）
+- 剧本→分镜→视频→配音→成片的流程化创作
+- 无限画布用节点连线编排文本/图片/视频/音频并支持协作
+- 导演台与 3D 预演台支持机位、运镜与预演片段录制
+- 管理后台可配置供应商、模型能力、计费与任务并发
 
 ## 适用场景
 
-- 制作 AI 动态漫画或短剧剧集，从剧本到配音成片在一个项目内完成
-- 团队自部署平台并配置自有模型与 API 凭证
-- 创作 AI 短片或静态漫画，管理角色与场景资产保持视觉一致性
+- 自托管搭建漫剧/短剧制作流水线
+- 用画布节点管理多模态素材并团队协作
+- 在 3D 预演台排布机位与灯光后生成成片
 
 ## 场景标签
 
-`视频生成` `图像生成` `语音合成` · 领域:内容生成
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L5: **AID Studio is an open-source AI motion comic creation platform for AI short dramas, films and comics, with an end-
-> L43: - **Complete creative workflow**: Organize scripts, characters, scenes, storyboards, images, videos and voiceovers 
-> L54: AID focuses on **AI motion comics and short dramas**, and also supports cinematic short films and static comics. Cr
+> L9: AID Studio 是可自托管的开源影视创作工作台，适合做漫剧、短剧和短片。
+> L33: |**流程化创作**|撰写或导入剧本，准备角色和场景素材，按分镜生成视频，再配音、同步音画并预览成片。|
+> L53: - **自行部署**：支持 Docker 和 systemd，后台可配置供应商、计费和任务并发。
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-02 · 置信度 high · 依据 README sha `6d8b0adba427` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1d0521298efd` · [字段定义](../../DATASET.md)*

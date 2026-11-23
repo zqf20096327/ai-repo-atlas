@@ -1,10 +1,10 @@
 # codeaholicguy/ai-devkit
 
-⭐ 1,672 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/codeaholicguy/ai-devkit) · [官网](https://ai-devkit.com) · 个人维护 · 中文 README
+⭐ 1,672 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/codeaholicguy/ai-devkit) · [官网](https://ai-devkit.com) · 个人维护
 
-**AI 编程代理的本地控制平面：统一配置、控制台与记忆**
+**多 AI 编码代理的本地控制面：统一配置、会话监管与技能**
 
-面向已使用多个 AI 编程代理（Claude Code、Codex CLI、Cursor、Gemini CLI 等）的开发者，AI DevKit 提供一层本地运行的操作层：`.ai-devkit.json` 单一配置文件对各代理生成规则、MCP 与技能；`agent console` TUI 仪表盘监视本地代理会话，`agent send` 在代理间路由提示与日志；本地 SQLite 存储项目决策与规范供按需检索（通过 MCP 与 CLI 暴露）；内置 `dev-lifecycle`、`verify`、`tdd` 等九个可组合工程技能，`skill add` 可从 30+ 发布者拉取。Apache-2.0，本地运行无遥测。自声明不替代这些代理工具，仅配置、监督与协调。
+面向同时使用多个 AI 编码代理（Claude Code、Codex CLI、Gemini CLI、Cursor 等）的开发者，提供本地运行的统一管理层：一份 `.ai-devkit.json` 配置同步各代理的规则、MCP 与技能安装；`agent console`/`agent list`/`agent send` 监管并向运行中的 CLI 会话（tmux 承载）发送提示与日志；本地 SQLite 存储项目决策与约定，代理按需检索；内置 28 个以 `dev-lifecycle` 为锚的工程技能（verify/tdd/debug/security 等）。经 npm 安装，Apache-2.0 许可，无遥测；控制面仅支持 macOS/Linux，Windows 不支持 console。
 
 ## 筛选速览
 
@@ -13,24 +13,24 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单一配置 `.ai-devkit.json` 对 15 种编程代理生成规则/MCP/技能
-- `agent console` TUI 监视运行中的多代理会话，`agent send` 跨代理路由消息
-- 本地 SQLite 记忆经 MCP/CLI 按需检索，避免上下文膨胀
-- 九个内置工程技能（dev-lifecycle/verify/tdd 等），可从 30+ 发布者追加技能
+- 一份 `.ai-devkit.json` 跨代理统一配置与技能安装
+- agent console/list/send 对运行中 tmux CLI 会话的监管与消息路由
+- 本地 SQLite 记忆库经 MCP/CLI 按需检索，避免上下文膨胀
+- 28 个内置技能与 30+ 发布者技能注册表（skill add）
 
 ## 适用场景
 
-- 团队统一维护多个 AI 编程代理的配置与规则
-- 从单一控制台监视并远程操控多个运行中的代理会话
-- 让代理跨会话检索项目决策与编码规范
-- 用 dev-lifecycle 等技能约束代理按需求-设计-实现-测试流程工作
+- 团队多个 AI 编码代理需要共享一套规则与技能配置
+- 向运行中的代理会话发送日志、提示或后续任务
+- 要求代理在声明完成前提供新的测试/构建证据
+- 跨会话留存并检索项目决策与编码约定
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
+> L5: **The control plane for AI coding agents.**
 > L7: AI DevKit gives Claude Code, Codex CLI, Gemini CLI, opencode, Pi, Cursor, GitHub Copilot, Devin, and other coding ag
-> L10: - **One console for running sessions** — `agent console` is a live TUI dashboard for supervising local agents acros
-> L24: |Retrieval-based memory|Local SQLite memory exposed through MCP and CLI, searched only when useful|
+> L205: - **Not a replacement for Claude Code, Codex, Cursor, Gemini CLI, or opencode.** AI DevKit configures, supervises,
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5a99d2914a80` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e472122ae170` · [字段定义](../../DATASET.md)*

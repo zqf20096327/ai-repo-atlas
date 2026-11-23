@@ -2,9 +2,9 @@
 
 ⭐ 1,812 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Tencent/AngelSlim) · [官网](https://angelslim.readthedocs.io) · 组织维护 · 中文 README
 
-**腾讯开源的大模型压缩工具包：量化、蒸馏、投机解码、稀疏注意力**
+**面向开发者的大模型压缩工具包：量化与投机解码**
 
-面向开发者的统一模型压缩工具包，将主流压缩算法集成到单一框架中：支持 LLM/VLM/语音/扩散模型的 FP8/INT8/INT4/NVFP4/1.25-bit 等量化（PTQ、QAD、QAT 蒸馏）、Eagle3/MTP/DFly/DFlare 等投机解码训练（经 AngelSpec 子模块）、稀疏注意力与视觉 token 剪枝，覆盖 Hunyuan、Qwen、DeepSeek、GLM、FLUX 等模型系列。通过 pip 安装，提供一键脚本与 Python Engine API，量化产物可经 vLLM/SGLang 部署 OpenAI 兼容 API。由腾讯团队维护并持续开源算法与模型权重。
+腾讯开源的模型压缩工具包，将量化（FP8/INT8/INT4/NVFP4 等）、投机解码训练（经子模块集成 AngelSpec）、稀疏注意力、蒸馏与缓存等压缩策略整合到统一框架。覆盖 LLM、VLM、扩散模型与语音模型，列出对 Hunyuan/Qwen/DeepSeek 等模型的支持矩阵。通过 pip 安装或源码安装，以 Python 命令行脚本与 Python Engine API 启动量化任务。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 统一框架集成量化、蒸馏、投机解码、稀疏注意力、token 剪枝等压缩技术
-- 支持 LLM/VLM/语音/扩散四类模型，覆盖 Hunyuan/Qwen/DeepSeek/GLM/FLUX 等系列
-- AngelSpec 投机解码训练框架以 git 子模块提供，支持 vLLM/SGLang/HF 多后端
-- 量化模型可经 vLLM/SGLang 部署 OpenAI 兼容 API 服务
+- 统一框架集成 FP8/INT4/NVFP4/TEQUILA 等多种量化算法
+- 集成 AngelSpec 投机解码训练框架，支持 DFly/MTP 等草案方法
+- 覆盖 LLM/VLM/扩散/语音四类模型的压缩策略矩阵
+- 单 GPU 量化大模型的流程（如 Qwen3-235B、DeepSeek-R1）
 
 ## 适用场景
 
-- 对 Qwen/DeepSeek 等大模型做 FP8/INT4 量化以降低部署成本
-- 训练 Eagle3/MTP 等投机解码草稿模型加速推理
-- 压缩 FLUX/SDXL 等扩散模型并在线推理
-- 对 VLM 做视觉 token 剪枝以压缩上下文
+- 对本地或 HuggingFace 上的 LLM 做 FP8/INT4 离线量化
+- 训练投机解码草案模型以加速推理
+- 量化扩散模型并直接在线推理验证效果
 
 ## 场景标签
 
-`模型量化` `微调` · 领域:训练与推理
+`模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L5: A more accessible, comprehensive, and efficient toolkit for large model compression.
-> L39: - **Highly Integrated**: This toolkit integrates mainstream compression algorithms into a unified framework, offeri
-> L41: - **Performance-Driven**: We continuously optimize end-to-end performance in model compression workflows and algori
+> L44: - **Highly Integrated**: This toolkit integrates mainstream compression algorithms into a unified framework, offeri
+> L157: ## 🛎️How to Use
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9c197efbf951` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b046032080f5` · [字段定义](../../DATASET.md)*

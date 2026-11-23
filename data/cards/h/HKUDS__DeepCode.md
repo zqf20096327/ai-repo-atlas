@@ -2,21 +2,21 @@
 
 ⭐ 16,860 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HKUDS/DeepCode) · [官网](http://arxiv.org/abs/2512.07921) · 组织维护 · 中文 README
 
-**开源多智能体编码 Agent：理解项目、改代码并验证完成**
+**面向工程实战的开源编码 Agent，多客户端共享本地服务**
 
-面向真实软件工程的开源 Coding Agent：给定小改动或数十步的长期目标，它读取与编辑文件、运行命令与测试、以 diff 展示修改，并用确认的检查清单与可选独立评审来验证完成声明；Goal 与会话由本地后台服务持久化，可在 TUI、Desktop、Web 与 headless 四种客户端间延续。机制上含压缩保词上下文、卡死自动停止、权限分级与 OS 沙箱；自进化（从验证过的运行中学习）为规划中特性，尚未发布。
+DeepCode 是一个开源编码 Agent：读取项目结构、编辑文件、运行命令与测试，以 Goal 形式执行长程任务。其机制包括完成度核验（运行用户确认的检查清单并可选独立评审）、压缩上下文保留原句、由本地后台服务持久化 Goal 与会话，支持中断/重启/切换模型后继续。提供 TUI、Desktop、Web 与 headless 四种客户端共享同一服务，支持 Ask/Read only/Full access 权限分级与 OS 沙箱；自我演化功能为规划中、尚未发布。安装需 Python 3.12+ 与支持工具调用的模型。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -26,27 +26,26 @@
 
 ## 能力要点
 
-- Verified completion：运行确认清单并由独立评审以证据证明每条需求
-- 本地后台服务持久化 Goal/会话，四种客户端共享同一服务
-- 14 个内置 provider 模板，兼容 OpenAI/Anthropic API 与本地模型
-- MCP 接入（stdio/SSE/Streamable HTTP），并可把自身暴露为 MCP 服务器
+- 完成度核验机制：运行确认清单并可选独立评审，不达标回退给 Agent
+- 本地后台服务持久化 Goals、会话与审批，跨客户端续接
+- 权限分级（Ask/Read only/Full access）与 shell 沙箱、编辑以 diff 展示
+- 内置 14 个 provider 模板，支持自定义 OpenAI/Anthropic 兼容端点
 
 ## 适用场景
 
-- 让 Agent 在真实仓库中完成跨多轮的重构或修 bug 任务
-- 脚本/CI 中以 headless 方式跑一轮编码任务并收集 NDJSON 事件
-- 把论文或技术文档转成代码库（Paper2Code）
-- 定时自动运行保存的指令（Automations）
+- 让 Agent 在真实仓库中完成多步骤修改并自动跑测试核验
+- 在终端与浏览器之间续接同一个开发会话
+- 接入自有模型端点或本地模型驱动编码任务
 
 ## 场景标签
 
-`编码 Agent` `多智能体` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L78: DeepCode is an open-source Coding Agent for real software engineering. Give it
-> L115: - **One session, four clients.** Turns run in a local background service,
-> L236: |Model|An API key for a supported provider, or a local Ollama or vLLM server. The model must support tool calling;
+> L76: DeepCode is an open-source Coding Agent for real software engineering. Give it
+> L123: - **Any model.** Use any of 14 built-in providers, your own OpenAI- or
+> L113: - **One session, four clients.** Turns run in a local background service,
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c1e2ff975795` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f4f9c2ddb7c9` · [字段定义](../../DATASET.md)*

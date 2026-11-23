@@ -2,9 +2,9 @@
 
 ⭐ 1,614 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/steel-dev/awesome-web-agents) · 组织维护
 
-**构建 AI 网页智能体的工具与框架策展清单**
+**构建 AI 网页 Agent 的工具与资源清单**
 
-由 Steel 维护的 awesome 清单，收录用于构建可浏览和操作网页的 AI 智能体的工具、框架与资源，按自主网页智能体（含 computer-use）、AI 网页自动化、开发者工具、AI 爬虫/抓取器、网页搜索与查询工具等类别组织，每条目附一句描述与 GitHub 星标。README 同时介绍维护方 Steel——一个面向 AI 智能体的开源浏览器 API，提供免费起步入口。清单本身无安装或运行方式。
+由 Steel.dev 维护的 awesome 清单，收录用于构建可浏览并与网页交互的 AI Agent 的工具、框架与资源，按自主网页 Agent、Computer-use Agent、网页自动化工具（含 Dev Tools）、AI 网页爬虫等类别组织；条目为外部项目的一行式介绍并附 GitHub 链接，清单同时推介维护者自己的开源浏览器 API 产品 Steel。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按自主智能体/自动化/开发工具/爬虫/搜索五大类组织条目
-- 每个条目附一句事实性描述与 GitHub 星标
-- 由 Steel（面向 AI 智能体的开源浏览器 API）团队维护并附带自家产品介绍
+- 按自主网页 Agent、Computer-use、自动化工具、爬虫等类别组织条目
+- 收录开源与商业项目，附 GitHub 仓库链接
+- 覆盖浏览器扩展、headless 浏览器 API、agent 框架等多种形态
 
 ## 适用场景
 
-- 为网页智能体项目选型时查找框架与工具
-- 了解网页智能体、爬虫与搜索 API 的生态版图
-- 对比 computer-use 与浏览器智能体的开源实现
+- 为构建网页 Agent 选型浏览器自动化框架或基础设施
+- 了解网页 Agent 生态中各项目的分布与形态
+- 查找 AI 网页爬取/抓取工具
 
 ## 场景标签
 
@@ -37,8 +37,7 @@
 ## 证据(README 行号)
 
 > L13: A curated list of tools, frameworks, and resources for building AI agents that can browse and interact with the web
-> L29: ## Autonomous Web Agents
-> L114: ## AI Web Scrapers/Crawlers
+> L25:  Contents
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `085bf9818b8c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `660586e66d80` · [字段定义](../../DATASET.md)*

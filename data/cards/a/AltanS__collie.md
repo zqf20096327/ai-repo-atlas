@@ -2,9 +2,9 @@
 
 ⭐ 1,692 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AltanS/collie) · [官网](https://colliepwa.dev/) · 个人维护
 
-**从手机驱动终端 AI 编码 agent 的自托管 PWA 客户端**
+**在手机上查看并回复终端 AI 编码 agent 的自托管 PWA**
 
-ColliePWA 是开源（MIT）的自托管移动 Web 应用，用于从 iPhone/Android 远程操作运行在 Herdr（对 tmux/zellij 的支持为实验性）中的终端 AI agent，如 Claude Code、Codex、OpenCode。提供以待输入 agent 为首的状态仪表盘、推送通知、可自定义的特殊按键面板、文件与 git diff 查看（只读）、设备配对、多机 Crews 与跨会话消息。默认经 Tailscale serve 部署，单用户设计，提供 API 即等于远程 shell 访问，明确禁止公网暴露。安装为 curl 脚本，不上架应用商店。
+ColliePWA 是一个 MIT 开源、自托管的手机端 Web 应用，与 Herdr 或 tmux/zellij 等多路复用器一起运行在用户自己的电脑上，通过 Tailscale tailnet 提供访问。它显示终端中运行的 AI agent（如 Claude Code、Codex、OpenCode），支持远程回复、从手机启动新 agent、推送通知、语音转文字、查看 git diff、跨会话消息（WalkyTalky）、多主机 Crews 等功能。通过浏览器添加到主屏幕安装，不经过应用商店。严格单用户设计，无多租户认证。
 
 ## 筛选速览
 
@@ -16,29 +16,30 @@ ColliePWA 是开源（MIT）的自托管移动 Web 应用，用于从 iPhone/And
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 状态仪表盘优先展示需要输入的 agent，并推送通知
-- 可自定义特殊按键面板（Esc/Ctrl+C/方向键/组合键与预设）
-- 文件屏展示工作区文件、git diff 与最近提交（只读）
-- 设备配对、Crews 多机单 URL 与跨会话消息（walky talky）
+- 仪表盘优先展示等待输入的 agent，agent 提示转为可点按钮
+- WalkyTalky 支持跨程序、跨机器的 agent 会话间消息与回执
+- 内置语音引擎 Whistle 与推送通知（agent 暂停/完成时提醒）
+- Crews 将多台主机聚合到一个 URL 并支持手动故障转移
 
 ## 适用场景
 
-- 在外出时从手机查看并回复 Claude Code 等终端 agent 的提问
-- 从手机启动新 agent 会话、worktree 或自定义命令
-- 在多台机器上集中监控 agent 并接收阻塞提醒
+- SSH 断开后在手机上继续管理 tmux/Herdr 里的 Claude Code 会话
+- agent 停下等待批准时收到推送并一键回复
+- 从手机为某目录或 git worktree 启动新的编码 agent
 
 ## 场景标签
 
- · 领域:开发者工具/AI agent 运维
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L11: self-hosted web app (PWA) for driving terminal AI agents such as Claude Code, Codex and OpenCode
-> L75: Collie is for developers running AI agents in a terminal multiplexer who want to resume sessions
+> L9: ColliePWA is an open-source (MIT) web app for your phone. It displays your terminal AI agents,
+> L107: Collie is for developers running terminal-multiplexed AI agents who want phone access via a touch
+> L64: COLLIE_MUX=herdr collie start          # or: herdr-core, tmux, zellij, tuios, tern, rex
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `783d4c068a57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `799b33d20288` · [字段定义](../../DATASET.md)*

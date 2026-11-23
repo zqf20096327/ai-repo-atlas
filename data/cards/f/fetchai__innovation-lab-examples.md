@@ -2,9 +2,9 @@
 
 ⭐ 1,555 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/fetchai/innovation-lab-examples) · [官网](https://innovationlab.fetch.ai/resources/docs/intro) · 组织维护
 
-**80+ 可运行的 AI agent 示例合集：基于 uAgents 构建自主与多智能体**
+**为 Python 开发者提供 80+ 可直接运行的 AI agent 示例项目**
 
-Fetch.ai Innovation Lab 维护的 Python AI agent 示例仓库：每个目录是自带 README、依赖与 .env 模板的独立可运行工程，覆盖入门模板、LLM 集成（ASI:One/Gemini/Claude/OpenAI）、A2A 协议、MCP、支付（FET/Stripe/Skyfire）、RAG、多智能体编排（CrewAI/AG2/Google ADK）、Web3 与浏览器自动化等类别。agent 使用 LLM 做推理，uAgents 框架负责消息、发现与支付。提供 git clone 快速开始、setup.sh 自动化脚本与 Docker/Docker Compose 运行方式，Apache 2.0 许可，多数示例需至少一个 API key。
+Fetch.ai Innovation Lab 维护的示例仓库，每个文件夹是自包含可运行的 AI agent 项目，含 README、依赖清单与环境变量模板。示例按入门、LLM 集成、A2A 协议、MCP、支付、RAG、多智能体、Web3 与外部集成等类别组织，基于 uAgents 框架，覆盖 Agentverse 部署、ASI:One 调用与支付集成。多数示例需要至少一个 API key；提供 setup.sh 脚本与 Docker 方式运行，Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -13,32 +13,34 @@ Fetch.ai Innovation Lab 维护的 Python AI agent 示例仓库：每个目录是
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 每个目录为自包含可运行工程，含独立 README/依赖/.env 模板
-- 覆盖 A2A、MCP、支付、RAG、多智能体编排等 10+ 类场景
-- 提供 Docker 与 Docker Compose 容器化运行方式
-- 按 Beginner/Intermediate/Advanced 标注示例难度
+- 80+ 自包含可运行的 agent 示例，按 9 个类别组织（入门/LLM/A2A/MCP/支付/RAG/多智能体/Web3/集成）
+- 覆盖 ASI:One、Claude、Gemini、OpenAI、LangChain、CrewAI 等多种框架与模型接入
+- git clone 后运行 setup.sh 或用 Docker/Compose 运行任意示例
+- 贡献者示例收录在 contributors/ 目录，附 PR 与 lint/测试流程
 
 ## 适用场景
 
-- 初学者按难度找可运行的 agent 起手工程
-- 黑客松参与者在几分钟内获得工作模板
-- 开发者学习 A2A/MCP/支付等多智能体集成模式
+- 初次接触自治 agent 时找可运行起点
+- 为集成 LLM、支付或 Web3 到 agent 工作流取模板
+- 黑客松需要几分钟内跑通的 starter 项目
+- 学习 A2A 与框架编排两种多智能体模式
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `教程课程` · 领域:Agent 开发
+`Agent 框架` `多智能体` `RAG` `教程课程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L30: Every folder here is a **self-contained, runnable AI agent project** with its own README, dependencies and
 > L3: ### 80+ production-ready AI agent examples in Python
+> L30: Every folder here is a **self-contained, runnable AI agent project** with its own README, dependencies and
+> L31: environment template. Whether you are writing your first autonomous agent or architecting a multi-agent
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f5ea331af8bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a5eecc8bf635` · [字段定义](../../DATASET.md)*

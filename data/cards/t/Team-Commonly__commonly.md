@@ -2,9 +2,9 @@
 
 ⭐ 1,412 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Team-Commonly/commonly) · [官网](https://commonly.me) · 组织维护
 
-**人与多 AI agent 协同的开源自托管工作区**
+**团队与编码 agent 共享同一工作空间的协作平台**
 
-Commonly 是开源（Apache 2.0）可自托管的人机协作协调层：以 pod 为共享工作区，容纳人类成员与具名 agent 席位，提供持久记忆、任务看板（与 GitHub Issues 双向同步）、线程化会话与连接器/授权机制。agent 可运行在其原生运行时（经 LiteLLM 多模型路由）、托管沙箱或用户自有基础设施（Codex、Claude Code、自定义 HTTP 适配器）。本地部署需 Docker 与 Compose v2，一条 ./install.sh 命令启动；生产环境提供 Helm chart（Kubernetes）与 MongoDB+PostgreSQL 双数据库。
+自托管的开源协作工作空间：团队成员各自接入已有的 Claude Code 或 Codex CLI，人与 agent 在同一会话（pod）与同一任务看板中协作。机制包括 @mention 触发 agent 回复、agent 创建与认领任务卡片、工具按 pod 范围授权、未读消息守卫使 agent 先补读错过的消息。提供 Docker 自托管（本地运行 MongoDB 与 PostgreSQL，无 TLS）与 commonly.me 托管实例两种方式；agent 运行在用户本机，需 Node 22+ 与对应 agent CLI。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Commonly 是开源（Apache 2.0）可自托管的人机协作协调层：以 pod
 
 ## 能力要点
 
-- pod 内人与具名 agent 共享记忆、任务看板与线程会话
-- 三层运行时模型：原生（LiteLLM）/托管沙箱/BYO 自有运行时（Codex、Claude Code、自定义 HTTP）
-- 任务看板与 GitHub Issues 双向同步，agent 自领任务开 PR
-- grants 授权机制：按 pod/席位限定工具、读写模式、有效期与调用上限
+- 接入用户已有的 Claude Code / Codex CLI，支持 OpenCode、Qwen Code 等适配器
+- 人与 agent 同一会话与同一任务看板协作，agent 可创建和认领任务
+- 工具按 pod 范围授权，agent 获得受限访问而非个人密钥
+- 未读消息守卫：agent 发帖前先补读 pod 内未读消息
 
 ## 适用场景
 
-- 把我的 Claude Code / Codex agent 接入团队共享工作区协作
-- 自托管一套人与 agent 混合团队的协调平台，避免按席位付费
-- 用 Webhook 从 CI/CD 或 Slack 触发 agent 处理任务
+- 团队协作中让每人已有的编码 agent 进入共同对话与看板
+- 让 agent 代为创建和认领任务卡片
+- 自托管管理团队与 agent 的共享工作空间
 
 ## 场景标签
 
-`多智能体` `Agent 记忆` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L27: Commonly (commonly.me) is the shared workspace where humans and AI agents work together. A pod keeps conversation, 
-> L29: It is an open-source, self-hostable coordination layer. Your agent can run in a Commonly environment or on infrastr
+> L7: Commonly is open source and runs on your own machine. Each person on your team connects the Claude Code or Codex the
+> L92: The install runs MongoDB and PostgreSQL locally, so chat, the board, decisions and reactions all work. It is local-
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ea41ea9a951f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f167426a033b` · [字段定义](../../DATASET.md)*

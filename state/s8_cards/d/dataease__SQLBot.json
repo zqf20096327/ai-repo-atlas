@@ -1,1 +1,80 @@
-{"fn": "dataease/SQLBot", "sha": "e5727134c93a", "source": "readme", "identity": {"one_liner": "基于大模型与 RAG 的对话式数据分析（ChatBI）问数系统", "review": "SQLBot 由 DataEase 开源项目组出品，用户配置大模型与数据源后即可通过自然语言对话查询数据并生成可视化图表。核心机制包括：结合 RAG 技术的 Text-to-SQL 转换、工作空间级资源隔离与细粒度数据权限、自定义提示词与术语库及 SQL 示例校准。集成方式涵盖 Web 嵌入、弹窗嵌入与 MCP 调用。README 提供 Docker 一键安装、1Panel 应用商店与离线安装包三种部署方式，默认面向 Linux 服务器环境。", "highlights": ["结合 RAG 的 Text-to-SQL 转换，对话式获取数据与图表", "工作空间级资源隔离与细粒度数据权限配置", "支持 Web 嵌入、弹窗嵌入、MCP 调用等集成方式", "自定义提示词、术语库与 SQL 示例校准"], "use_cases": ["业务人员用自然语言查询数据库并生成图表", "把智能问数能力嵌入到自有应用或 BI 系统中", "通过 MCP 调用让其他工具获得问数能力"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ChatBI", "Text-to-SQL", "RAG", "数据分析"], "domain": "数据分析/BI", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["全中文 README", "DataEase 开源项目组/飞致云出品"]}, "trust": {"confidence": "high", "evidence": ["L15: SQLBot 是一款基于大语言模型和 RAG 的智能问数系统，由 DataEase 开源项目组匠心出品。借助 SQLBot，用户可以实现对话式数据分析（ChatBI），快速提炼获取所需的数据信息及可视化图表，并且支持进一步开展智能分析。", "L23: - **开箱即用**：仅需简单配置大模型与数据源，无需复杂开发，即可快速开启智能问数；依托大模型自然语言理解与 SQL 生成能力，结合 RAG 技术，实现高质量 Text-to-SQL 转换。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-23", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "dataease/SQLBot",
+ "sha": "e5727134c93a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于大模型与 RAG 的对话式数据分析（ChatBI）问数系统",
+  "review": "SQLBot 由 DataEase 开源项目组出品，用户配置大模型与数据源后即可通过自然语言对话查询数据并生成可视化图表。核心机制包括：结合 RAG 技术的 Text-to-SQL 转换、工作空间级资源隔离与细粒度数据权限、自定义提示词与术语库及 SQL 示例校准。集成方式涵盖 Web 嵌入、弹窗嵌入与 MCP 调用。README 提供 Docker 一键安装、1Panel 应用商店与离线安装包三种部署方式，默认面向 Linux 服务器环境。",
+  "highlights": [
+   "结合 RAG 的 Text-to-SQL 转换，对话式获取数据与图表",
+   "工作空间级资源隔离与细粒度数据权限配置",
+   "支持 Web 嵌入、弹窗嵌入、MCP 调用等集成方式",
+   "自定义提示词、术语库与 SQL 示例校准"
+  ],
+  "use_cases": [
+   "业务人员用自然语言查询数据库并生成图表",
+   "把智能问数能力嵌入到自有应用或 BI 系统中",
+   "通过 MCP 调用让其他工具获得问数能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ChatBI",
+   "Text-to-SQL",
+   "RAG",
+   "数据分析"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "DataEase 开源项目组/飞致云出品"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: SQLBot 是一款基于大语言模型和 RAG 的智能问数系统，由 DataEase 开源项目组匠心出品。借助 SQLBot，用户可以实现对话式数据分析（ChatBI），快速提炼获取所需的数据信息及可视化图表，并且支持进一步开展智能分析。",
+   "L23: - **开箱即用**：仅需简单配置大模型与数据源，无需复杂开发，即可快速开启智能问数；依托大模型自然语言理解与 SQL 生成能力，结合 RAG 技术，实现高质量 Text-to-SQL 转换。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

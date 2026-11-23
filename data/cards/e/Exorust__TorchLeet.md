@@ -2,9 +2,9 @@
 
 ⭐ 2,649 · Jupyter Notebook · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Exorust/TorchLeet) · [官网](https://torch-leet.vercel.app) · 个人维护
 
-**68 道 PyTorch/ML 面试实战题库，含 MCP AI 导师**
+**面向 ML/AI 求职者的 68 道真实面试 PyTorch 题集**
 
-面向准备 ML/AI 工程师面试的开发者：收集据称来自 Google、Meta、Anthropic 等公司面试的 68 道 PyTorch 实操题，以 Jupyter notebook 形式提供题目文件与 _SOLN 解答文件，分 Basics、LLM 从零构建学习路径、Advanced 三条轨道，题目按公司标注优先级。另提供 MCP 服务器（torchleet-mcp，npm 发布），把任意 AI 助手（Claude Desktop/Cursor/VS Code）接入为渐进提示式导师，包含四种学习指南。README 明确建议不要直接用 GPT 求解。
+从 Google、Meta、Anthropic 等公司真实面试经历整理的 PyTorch 练习题集，以 Jupyter notebook 呈现，每题含问题文件与 _SOLN 解答文件，用户填写 TODO 后对照答案。按 Basics、LLM Learning Path、Advanced 三条轨道组织，覆盖注意力实现、LoRA/DPO/GRPO、采样解码、KV Cache、Triton 核等主题，并附按公司分类的优先题表。另提供 MCP server 形式的 AI Tutor，接入 Claude Desktop/Cursor 等助手后提供渐进提示与模拟面试，README 明确建议不要用 GPT 直接解答案。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 68 道题分三条轨道：基础、LLM 从零构建、高级专题
-- 题目与解答 notebook 配对，含公司标签与优先级速查表
-- MCP AI Tutor 提供渐进提示、模拟面试、代码评审四种指南
-- 覆盖 LoRA/DPO/PPO/GRPO、FlashAttention-2、FSDP 等实现题
+- 68 道题目分 Basics / LLM 学习路径 / Advanced 三条轨道，均配问题与解答 notebook
+- 按公司标签（Google、Anthropic、OpenAI、DeepMind 等）给出优先练习题表
+- MCP server 形式的 AI Tutor：渐进提示、模拟面试、代码点评、概念讲解四类指南
+- LLM 学习路径按从零实现 SmolLM 的顺序编排基础到对齐推理的题目
 
 ## 适用场景
 
-- 我要系统准备 ML/AI 工程师面试的 PyTorch 手写题
-- 按从零实现路线学习 Transformer 与 LLM 训练全流程
-- 让 AI 助手以不剧透方式给我提示辅导刷题
+- 准备 ML/AI 工程师岗位的技术面试
+- 按顺序从零实现一个 LLM 来系统学习 PyTorch
+- 面试前按目标公司标签优先练习对应题目
+- 借助 MCP AI Tutor 获取不泄露答案的渐进提示
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L3: **68 PyTorch problems from real ML/AI interviews at Google, Meta, Anthropic, and more.**
-> L17: Turn any AI assistant into your PyTorch interview coach. The TorchLeet MCP server gives your AI access to all 68 pr
-> L41: |`torchleet-tutor`|Guides you through problems with progressive hints|
+> L48: 68 problems across three tracks:
+> L15: ## AI Tutor (NEW)
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7f1f60ca793b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `03c13f47747e` · [字段定义](../../DATASET.md)*

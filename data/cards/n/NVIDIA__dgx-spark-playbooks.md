@@ -2,9 +2,9 @@
 
 ⭐ 1,500 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/dgx-spark-playbooks) · 组织维护
 
-**NVIDIA DGX Spark 设备上部署 AI/ML 工作流的操作手册集**
+**DGX Spark 设备上搭建 AI/ML 工作负载的步骤式指南合集**
 
-NVIDIA 维护的分步操作手册（playbooks）集合，面向 DGX Spark（Blackwell 架构 GB10）设备用户，覆盖 AI 框架安装配置、本地 LLM 推理与微调（llama.cpp/vLLM/SGLang/TensorRT-LLM）、多机互联与分布式工作负载、ComfyUI 图像视频生成、RAG 与 agent 应用搭建等主题。每份手册包含前置条件、分步说明、故障排查与示例代码。仓库本身为文档集合，不含可安装的软件。
+NVIDIA 官方维护的 playbook 合集，面向使用 Blackwell 架构 DGX Spark 设备的用户，提供部署 AI/ML 工作负载的分步说明。内容涵盖安装配置 AI 框架、运行优化模型推理、搭建开发环境、设备连接与管理，以及多机分布式部署、模型微调、本地 LLM 服务等约 70 个指南条目。每个 playbook 包含前置条件、步骤说明、故障排查与示例代码；README 本身是目录，未包含具体安装命令。
 
 ## 筛选速览
 
@@ -20,24 +20,27 @@ NVIDIA 维护的分步操作手册（playbooks）集合，面向 DGX Spark（Bla
 
 ## 能力要点
 
-- 70+ 篇覆盖推理、微调、分布式、agent 应用等主题的操作手册
-- 含多台 DGX Spark 互联（ring 拓扑、交换机、NCCL）的组网手册
-- 每篇手册附前置条件、步骤、故障排查与示例代码
+- 约 70 个覆盖推理、微调、多机分布式、开发环境配置的 playbook 目录
+- 每个 playbook 含前置条件、分步说明、故障排查与示例代码
+- 覆盖本地 LLM 服务（llama.cpp/Ollama/LM Studio/vLLM/SGLang 等）与 Agent 搭建指南
+- 附 NVIDIA 官方文档与开发者论坛链接
 
 ## 适用场景
 
-- 按手册在 DGX Spark 上部署本地 LLM 推理或微调环境
-- 组建多台 DGX Spark 的分布式训练/推理集群
-- 查找 ComfyUI、RAG、机器人仿真等具体工作负载的搭建步骤
+- 拿到 DGX Spark 后按步骤配置 AI 框架与开发环境
+- 在 DGX Spark 上部署本地 LLM 推理服务
+- 连接多台 DGX Spark 搭建分布式工作负载
+- 参考官方指南微调专用 LLM 与图像生成模型
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `微调` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DGX Spark devices with Blackwell archi
-> L15: Each playbook includes prerequisites, step-by-step instructions, troubleshooting guidance, and example code.
+> L9: These playbooks provide detailed instructions for:
+> L17: ## Available Playbooks
 
 ## 星数曲线
 
@@ -53,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1447c3290951` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a86d91250391` · [字段定义](../../DATASET.md)*

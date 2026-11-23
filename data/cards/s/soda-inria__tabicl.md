@@ -2,9 +2,9 @@
 
 ⭐ 1,503 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/soda-inria/tabicl) · [官网](https://tabicl.readthedocs.io/en/latest/) · 组织维护
 
-**表格数据基础模型：零样本分类/回归/时序预测**
+**表格数据基础模型库：零微调做表格分类、回归与预测**
 
-TabICLv2 是开源表格基础模型（ICML 2026），提供 scikit-learn 兼容的 TabICLClassifier/Regressor/Forecaster，通过预训练 Transformer 在单次前向传播中同时完成 fit 与 predict，无需超参调优。支持 KV 缓存加速重复推理、CPU/磁盘卸载扩展至更大数据集、SHAP 可解释性、单数据集微调（AdamW、多 GPU）及时序预测；预训练代码与合成数据生成脚本开源。基准覆盖 300–48K 训练样本、约 2–100 列，特征数大幅超出 100 可能性能下降。以 pip 包形式提供，H100 上 5 万样本/100 特征数据集 fit+predict 低于 10 秒。
+TabICL/TabICLv2 的官方实现，是面向表格数据的基础模型，通过预训练 Transformer 的单次前向传播（in-context learning）完成 fit 与 predict，支持零样本分类、回归和时间序列预测。以 scikit-learn 兼容的 Python 包发布，提供 KV 缓存加速重复推理、SHAP 可解释性集成、单数据集微调（多 GPU torchrun）与含合成数据生成的完整预训练流程，并附最小架构实现 nanotabicl。较大数据集推荐 GPU，可经 CPU/磁盘 offloading 扩展。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ TabICLv2 是开源表格基础模型（ICML 2026），提供 scikit-learn 兼容
 
 ## 能力要点
 
-- 单次前向传播完成 fit 与 predict，无需超参调优
-- scikit-learn 兼容接口，pip 安装
-- KV 缓存加速同一训练数据的重复推理
-- 微调、SHAP 解释、时序预测、预训练代码均可选安装
+- 单次前向传播完成 fit 与 predict，支持 KV 缓存加速重复推理
+- 零样本分类/回归，另有时间序列预测 TabICLForecaster
+- 提供完整预训练代码（合成数据在线生成）与单数据集微调（多 GPU）
+- scikit-learn 兼容，pip 安装，集成 SHAP 解释
 
 ## 适用场景
 
-- 跳过调参直接对表格数据做分类或回归
-- 在单个重要数据集上快速微调模型
-- 零样本时序预测与模型解释分析
+- 对表格数据做零样本分类或回归而无需调参流程
+- 对时间序列做零样本预测
+- 在重要下游数据集上花几分钟微调专用模型
+- 研究表格基础模型的预训练流程与架构
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ TabICLv2 是开源表格基础模型（ICML 2026），提供 scikit-learn 兼容
 
 ## 证据(README 行号)
 
-> L7: This repository is the official implementation of **TabICLv2** (ICML 2026)
-> L264: TabICL is a tabular foundation model (like TabPFN).
-> L267: `y_pred = model(X_train, y_train, X_test)` (this is called inside `predict()`).
+> L5: # TabICLv2: An open tabular foundation model
+> L12: TabICLv2 is a competitive model for tabular classification and regression
+> L22: forward pass through a pre-trained transformer model.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0066369e2849` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `264d974b646a` · [字段定义](../../DATASET.md)*

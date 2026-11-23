@@ -2,9 +2,9 @@
 
 ⭐ 1,349 · C++ · MIT · 推送 2026-11-16 · [GitHub](https://github.com/lean-dojo/LeanCopilot) · [官网](https://leandojo.org/leancopilot.html) · 组织维护
 
-**在 Lean 中原生运行 LLM 做定理证明辅助的库**
+**让 LLM 原生嵌入 Lean 4 的定理证明辅助工具**
 
-面向 Lean 4 形式化数学用户与定理证明研究者的库：提供 suggest_tactics 生成 tactic 建议、search_proof 结合 LLM 与 aesop 搜索多步证明、select_premises 检索前提，内置来自 LeanDojo 的模型（从 Hugging Face 下载），也支持通过 ExternalGenerator/ExternalEncoder 接入本地或云端自定义模型。本地推理基于 CTranslate2 经 FFI 链接，下游项目通常下载预构建版本，无需自行编译；要求 Lean v4.3.0-rc2 以上，Linux/macOS 为优先支持平台。
+以 Lean 4 依赖包形式将 LLM 接入定理证明流程：提供 suggest_tactics（生成策略建议）、search_proof（结合 aesop 搜索多步证明）、select_premises（基于 LeanDojo 检索器选取前提）三个 tactic，并支持在 Lean 中运行任意 LLM 推理（本地经 CTranslate2/FFI 或远程经 ExternalGenerator）。内置四个可从 Hugging Face 下载的 LeanDojo 模型，也允许自带模型。要求 Lean ≥ v4.3.0-rc2，平台以 Linux/macOS 为优先。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- suggest_tactics/search_proof/select_premises 三个证明辅助 tactic
-- 内置 LeanDojo 模型（tacgen/retriever/byt5-small），从 Hugging Face 自动下载
-- 通过 ExternalGenerator/ExternalEncoder 接入任意本地或远程模型
-- 本地推理由 CTranslate2 经 FFI 支持，可不依赖 GPU
+- suggest_tactics / search_proof / select_premises 三个证明自动化 tactic
+- 内置 4 个可下载模型，支持无 GPU 本地运行或云端推理
+- Model API 支持 generators 与 encoders，可经 ExternalGenerator 接入任意模型
+- select_premises 使用 LeanDojo 检索器从固定 Lean/mathlib4 快照中选取前提
 
 ## 适用场景
 
-- 写 Lean 证明时获取 tactic 建议与自动前提检索
-- 让 LLM 搜索并插入完整多步证明
-- 在 Lean 中运行自定义 LLM 构建证明自动化或其他应用
+- 在 Lean 4 证明卡住时生成候选 tactic 并一键插入
+- 用 LLM 生成 tactic 结合 aesop 搜索完整证明
+- 在 Lean 环境中调用自建或本地 LLM 推理构建自定义自动化
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+`编码 Agent` `代码生成` `科研工具` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L5: Lean Copilot allows large language models (LLMs) to be used natively in Lean for proof automation, e.g., suggesting 
 > L75: After `import LeanCopilot`, you can use the tactic `suggest_tactics` to generate tactic suggestions. You can click 
+> L97: You can also run the inference of any LLMs in Lean, which can be used to build customized proof automation or other
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `2217f724162c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1478b78e195d` · [字段定义](../../DATASET.md)*

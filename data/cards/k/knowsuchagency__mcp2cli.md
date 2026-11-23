@@ -2,9 +2,9 @@
 
 ⭐ 2,445 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/knowsuchagency/mcp2cli) · [官网](https://pypi.org/project/mcp2cli/) · 个人维护
 
-**把 MCP/OpenAPI/GraphQL 服务在运行时转为 CLI 的工具**
+**把 MCP/OpenAPI/GraphQL 服务器在运行时转成 CLI 的工具**
 
-面向开发者与 AI agent 的命令行工具：在运行时连接 MCP 服务器（HTTP/SSE/stdio）、OpenAPI 规范与 GraphQL 端点，动态发现工具与操作并转为 CLI 子命令，无需代码生成。内置 OAuth 授权码+PKCE 流程与令牌缓存、env:/file: 密钥读取、bake 模式保存连接配置、基于本地调用频率的工具排序以降低 LLM token 消耗，并强制 --json 输出。附带可安装技能，教 Claude Code/Cursor/Codex 等 AI 编码 agent 使用本工具。通过 uvx 直接运行或 uv 全局安装。
+一个 Python CLI 工具：运行时内省 MCP 服务器、OpenAPI 规范或 GraphQL 端点，动态生成子命令供人在终端或 LLM agent 调用，无需代码生成。机制包括压缩工具 schema 以减少 token 消耗、OAuth 认证（含无浏览器主机的手动回调流程）、命名会话守护进程复用 MCP 连接、本地使用频率排序、强制 JSON 输出与规范缓存。通过 uv 安装，另提供可供 AI 编码 agent 安装的技能包。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 运行时将 MCP/OpenAPI/GraphQL 动态转为 CLI 子命令，零代码生成
-- OAuth 授权码+PKCE 流程，令牌持久化与自动刷新，支持无浏览器主机的手动回调
-- bake 模式将连接与认证配置保存为命名配置，支持 include/exclude/methods 过滤
-- 基于本地调用频率的工具排序与强制 JSON 输出，面向 LLM agent 降低 token 成本
+- 运行时将 MCP/OpenAPI/GraphQL 转为 CLI 子命令，零代码生成
+- OAuth 开箱即用，支持 headless 主机的手动回调流程
+- 命名会话守护进程复用 MCP 连接（Unix socket/回环 TCP + 令牌鉴权）
+- 本地使用统计驱动的工具排序与强制 JSON 输出，面向 LLM agent
 
 ## 适用场景
 
-- 把 MCP 服务器或 OpenAPI/GraphQL API 当作本地命令行直接调用
-- AI 编码 agent 通过本工具发现并调用 MCP/OpenAPI 工具
-- 为 LLM agent 精简工具列表以减少每轮 token 消耗
+- 在终端直接调用 MCP 服务器工具而不用写客户端代码
+- 让 AI coding agent 以更低 token 成本发现并调用 API
+- 为 OpenAPI/GraphQL 端点生成可复用的 baked 配置工具
 
 ## 场景标签
 
- · 领域:AI 工具链/CLI
+ · 领域:开发工具/API 接入
 
 ## 证据(README 行号)
 
 > L5:  Turn any MCP server, OpenAPI spec, or GraphQL endpoint into a CLI — at runtime, with zero codegen.
 > L21: mcp2cli ships with an installable skill that teaches AI coding agents (Claude Code, Cursor, Codex) how to use it. O
-> L163: mcp2cli tracks tool invocations locally and uses that data to rank `--list` output, reducing token costs for LLM a
+> L216: mcp2cli tracks tool invocations locally and uses that data to rank `--list` output, reducing token costs for LLM a
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `24c431616173` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `5bdfc7457992` · [字段定义](../../DATASET.md)*

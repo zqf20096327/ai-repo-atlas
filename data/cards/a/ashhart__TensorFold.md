@@ -2,9 +2,9 @@
 
 ⭐ 2,376 · Zig · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ashhart/TensorFold) · [官网](https://tensorfold.dev) · 个人维护
 
-**在 Apple Silicon 与 NVIDIA GPU 上直接运行 LLM 的 Zig 推理引擎**
+**面向 Apple Silicon 与 NVIDIA GPU 的本地 LLM 推理服务引擎**
 
-以单一 Zig 二进制提供语言模型服务：读取检查点、分词请求并直接运行 Metal 或 CUDA 内核，无需安装 Python 或 MLX。通过 `tensorfold pull/serve` 拉取并服务 MLX 4-bit 等格式的检查点（Qwen、Nemotron、GLM、Gemma 等），提供兼容 OpenAI/Anthropic 的本地 HTTP API，并附带 Mac 桌面工作区。实验性 Living Weights 功能可在运行中把新事实写入模型权重文件。限制：DeepSeek 检查点尚不能被任何发布二进制服务，部分模型需两台机器或特定硬件。
+TensorFold 以 Zig 二进制形式在 Apple Silicon 和 NVIDIA GPU 上提供语言模型服务：读取模型 checkpoint、对请求分词，并直接运行 Metal 或 CUDA 内核，服务过程无需 Python 或 MLX 环境。提供 OpenAI 兼容的 chat/completions、completions、Responses 及 Anthropic Messages API，附带 tensorfold chat 终端聊天命令。模型权重遵循各自许可证，Linux 需 glibc 2.28+ 与 NVIDIA 驱动 R580+。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单一 Zig 二进制直接运行 Metal/CUDA 内核，无需 Python 或 MLX
-- 提供 OpenAI 风格 completions/Responses 及 Anthropic Messages API
-- 实验性 Living Weights：向运行中的模型权重写入新事实，支持回滚
-- 附带 Apple-silicon Mac 桌面工作区（引擎、模型下载、生成指标）
+- Zig 二进制直接运行 Metal/CUDA 内核，无 Python/MLX 依赖
+- 同时提供 chat/completions、Responses 与 Anthropic Messages API
+- tensorfold chat 命令一键启动服务器并流式聊天
+- Living Weights（实验性）：向运行中的模型权重写入新事实
 
 ## 适用场景
 
-- 在 Mac 或 NVIDIA GPU 上本地部署 LLM 并以 OpenAI 兼容 API 调用
-- 通过 Homebrew 或发布归档快速安装并服务 MLX 4-bit 检查点
-- 在实验环境中向模型权重写入事实并观察与回滚
+- 在 Mac Apple Silicon 上本地部署并服务量化 LLM checkpoint
+- 在 NVIDIA GPU Linux 机器上运行推理服务器供脚本调用
+- 用 curl 或终端命令直接与本地模型对话
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs.
-> L4: The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly.
+> L8: TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs.
+> L9: The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly.
+> L51: The API also serves completions, Responses and Anthropic Messages. `/v1/models` lists the served name.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `591f3741fee5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cf08e2d07bad` · [字段定义](../../DATASET.md)*

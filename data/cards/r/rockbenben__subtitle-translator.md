@@ -2,9 +2,9 @@
 
 ⭐ 1,206 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/rockbenben/subtitle-translator) · [官网](https://tools.newzone.top/en/subtitle-translator) · 个人维护 · 中文 README
 
-**浏览器端整季字幕批量翻译工具，时轴本地保护**
+**浏览器端批量字幕翻译工具：整季一次译完且不动时轴**
 
-免费、纯客户端的批量字幕翻译工具，支持 .srt/.ass/.vtt/.lrc 自动识别与格式互转。核心机制：时轴、序号、ASS 头在本地剥离，仅将台词文本发送至翻译引擎，翻译后回插，时间轴不可被模型改动。可接入 8 个传统机器翻译 API 与 27 个 LLM 提供商/网关，翻译为 120+ 语言或一次输出多目标语言，支持双语字幕、上下文感知翻译（LLM）与 IndexedDB 无限缓存。提供在线 Demo、yarn cli 无头命令行（同引擎、可断点续跑）及源码自部署，运行需 Node.js >= 24。
+面向需要批量翻译字幕的用户，读取 .srt/.ass/.vtt/.lrc 文件，在本地剥离时间轴与 cue 编号后仅将台词文本发送至翻译引擎，翻译后重组还原时轴。支持 8 个传统机器翻译 API 与 27 个 LLM 提供商/网关、120+ 目标语言、一次输出多语言文件、双语字幕导出。默认运行在浏览器中（数据与 API key 不出本地），另提供 yarn cli 以命令行无头运行同一引擎，支持断点续译与本地缓存。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 本地剥离时轴仅发送台词，时间轴不受模型影响
-- 整季批量上传，多目标语言单次输出各自成文件
-- 8 传统 MT API + 27 LLM 提供商/网关，120+ 语言
-- 纯浏览器端运行，字幕与 API key 不经过服务器；CLI 可断点续跑
+- 本地剥离时轴后仅发送台词，翻译结果重组时间轴
+- 批量上传整季字幕，逐文件独立翻译并导出汇总结果
+- 支持 8 个传统 MT API 与 27 个 LLM 提供商/网关，120+ 语言
+- LLM 模式支持上下文台词、自定义 prompt、温度与思考模式
 
 ## 适用场景
 
-- 把一整季视频字幕批量翻译成目标语言
-- 生成原文在上、译文在下的双语字幕文件
-- 用 LLM 带上下文翻译对白并保持人名术语一致
-- 脚本化批量翻译字幕/Markdown/JSON 语言文件
+- 一次翻译整季动漫/剧集的字幕文件
+- 制作原文+译文的双语字幕
+- 将 LRC 歌词或 Markdown、JSON 文案批量翻译成多语言
 
 ## 场景标签
 
@@ -39,7 +38,8 @@
 ## 证据(README 行号)
 
 > L12: **Subtitle Translator** is a free, browser-based batch subtitle translation tool for `.srt`, `.ass`, `.vtt`, and `.
-> L26: - **Structural Separation**: Timecodes, cue numbers, ASS headers, and VTT cue IDs are extracted locally — only dial
+> L55: **DeepSeek**, **OpenAI**, **Claude**, **Gemini**, **Qwen**, **Moonshot (Kimi)**, **Doubao**, **Xiaomi MiMo**, **Zhi
+> L59: **OpenRouter**, **OpenCode Zen**, **Groq**, **SiliconFlow**, **Atlas Cloud**, **GitHub Models**, **Nvidia NIM**, **
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1112b0ff12e3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a635066a59af` · [字段定义](../../DATASET.md)*

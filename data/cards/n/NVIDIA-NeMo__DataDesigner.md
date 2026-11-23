@@ -4,42 +4,42 @@
 
 **面向开发者的多模态合成数据生成框架**
 
-NVIDIA NeMo 团队维护的合成数据生成 Python 框架：通过采样器、LLM、图像模型或种子数据集生成文本、结构化数据与图像，支持依赖感知的字段关系控制、Python/SQL/LLM 裁判验证，以及经 MCP 服务器连接外部工具并捕获交互轨迹。可安装 NVIDIA 官方插件包扩展数据源与处理能力，提供 CLI 配置模型与插件管理。默认支持 NVIDIA Build、OpenAI、OpenRouter 作为模型提供方，需设置 API key。以 pip 包与源码两种方式安装，Apache 2.0 许可，附带技术报告。
+NVIDIA NeMo 平台下的 Python 库，用于从零或基于种子数据生成合成数据集：支持采样器、LLM 列、图像模型生成文本、结构化数据与图像，通过依赖感知生成控制字段间关系，用 Python/SQL/自定义校验器和 LLM judge 校验打分输出，并可通过本地或远程 MCP 服务器接入外部工具并记录交互轨迹。提供插件机制扩展数据源与生成能力，支持预览、恢复与监控生成过程。通过 pip 安装，使用 NVIDIA Build、OpenAI 或 OpenRouter 等 API key 调用模型。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 采样器+LLM+图像模型生成多模态合成数据，支持字段间依赖关系控制
-- Python/SQL/自定义验证器与 LLM 裁判对输出打分
-- 通过本地或远程 MCP 服务器连接外部工具并捕获交互轨迹
-- 插件体系（data-designer plugin install）扩展数据源与处理步骤
+- 采样器+LLM/图像模型的多模态生成（文本、结构化数据、图像、音视频上下文）
+- 依赖感知的字段关系控制与 Python/SQL/LLM judge 校验打分
+- 本地/远程 MCP 服务器工具调用与交互轨迹捕获
+- 插件机制（GitHub 种子读取、检索训练 SDG 工具包）与 CLI 管理
 
 ## 适用场景
 
-- 从零或从种子数据批量生成训练/评测用合成数据集
-- 构建带验证与打分的生产级合成数据流水线
-- 为检索模型训练生成问答数据（Retrieval SDG 插件）
+- 为模型训练生成从零构建或基于种子数据的合成数据集
+- 生成带统计分布与字段相关性的结构化数据
+- 为检索器训练生成问答数据并导出训练格式
 
 ## 场景标签
 
- · 领域:AI 数据工程/合成数据生成
+ · 领域:AI 数据基础设施/合成数据生成
 
 ## 证据(README 行号)
 
-> L13: Data Designer helps you create synthetic datasets that go beyond simple LLM prompting. Whether you need diverse sta
+> L7: **Generate high-quality synthetic datasets from scratch or using your own seed data.**
 > L17: - **Generate diverse text, structured data, and images** using samplers, LLMs, image models, or existing seed datas
-> L21: - **Validate and score outputs** with Python, SQL, custom validators, and LLM judges
+> L13: Data Designer helps you create synthetic datasets that go beyond simple LLM prompting. Whether you need diverse sta
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `7a3b78345799` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3e27c34bebe0` · [字段定义](../../DATASET.md)*

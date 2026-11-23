@@ -1,16 +1,16 @@
 # a-r-j/graphein
 
-⭐ 1,207 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/a-r-j/graphein) · [官网](https://graphein.ai/) · 组织维护
+⭐ 1,207 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/a-r-j/graphein) · [官网](https://graphein.ai/) · 个人维护
 
-**蛋白质/ RNA 结构与生物互作网络的图构建库**
+**为研究者生成蛋白质/分子/网络图结构的 Python 库**
 
-面向结构生物学与计算生物学的 Python 库，将蛋白质、RNA、分子结构及蛋白质互作网络、基因调控网络转换为几何图表示，兼容 PyData 生态与主流深度学习库的图对象格式，并提供 PyTorch Geometric 的 DataLoader。支持从 PDB 与 AlphaFold 数据库构建蛋白图、从 dotbracket 构建 RNA 图、从 SMILES 构建分子图，提供 CLI 批处理与 Docker 部署。限制：pip 基础安装不含 ML/DL 库；DSSP、PyMol 等可选工具需通过 conda 安装。
+Graphein 是用于构建蛋白质、RNA 结构与生物相互作用网络几何表示的 Python 库，输出兼容 PyData 格式及 PyTorch Geometric、DGL 等深度学习库的图对象。支持从 PDB、AlphaFold 数据库、SMILES/.sdf 文件、点括号 RNA 记号等输入构建图与网格，提供程序化 API 与 YAML 配置的 CLI 批处理。pip 基础安装不含深度学习依赖；可选工具（PyMol、GetContacts）需 conda 安装。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 从 PDB/AlphaFold 结构构建蛋白质图（残基层/原子层）
-- RNA 图（dotbracket）、分子图（SMILES/sdf/mol2/pdb）、PPI 与基因调控网络图构建
-- PyTorch Geometric 等 DL 库的现成 DataLoader 与格式兼容
-- 提供 Python API、CLI（yaml 配置批量处理）与 CPU/GPU Docker 部署
+- 从 PDB、AlphaFold 数据库、SMILES、点括号记号等多来源构建蛋白质、分子、RNA、PPI、基因调控网络图
+- 提供 CLI 以 YAML 配置批量处理图构建
+- 提供 PyTorch Geometric 现成的 Dataloaders 与 Protein Tensor 模块
+- DSSP 二级结构与溶剂可及性特征原生计算，无需安装 mkdssp
 
 ## 适用场景
 
-- 把蛋白质/RNA 结构转成图数据用于几何深度学习模型训练
-- 构建蛋白质互作网络或基因调控网络用于网络分析
-- 批量处理 PDB 文件生成分子图数据集
+- 为图神经网络准备蛋白质结构与相互作用网络的训练数据
+- 从 AlphaFold 数据库批量构建蛋白结构图数据集
+- 对 SMILES 或结构文件构建分子图
+- 用 CLI 按配置批量处理 PDB 文件目录
 
 ## 场景标签
 
- · 领域:生物信息学/几何深度学习
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L25: Protein & Interactomic Graph Library
-> L27: This package provides functionality for producing geometric representations of protein and RNA structures, and biol
-> L39: |1.3.0|Ready-to-go Dataloaders for PyTorch Geometric|Open In Colab|
+> L24: Protein & Interactomic Graph Library
+> L26: This package provides functionality for producing geometric representations of protein and RNA structures, and biol
+> L239:   title={Graphein - a Python Library for Geometric Deep Learning and Network Analysis on Biomolecular Structures a
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `407850fd3501` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `9b781a817f02` · [字段定义](../../DATASET.md)*

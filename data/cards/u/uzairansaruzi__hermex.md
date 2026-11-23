@@ -2,9 +2,9 @@
 
 ⭐ 1,784 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/uzairansaruzi/hermex) · [官网](https://hermexapp.com/) · 个人维护
 
-**从 iPhone 控制自托管 Hermes agent 的原生 SwiftUI 客户端**
+**连接自托管 Hermes Agent 的原生成 iOS 客户端**
 
-面向自建 hermes-webui 服务器用户的原生 iOS 应用（SwiftUI，iOS 18+）：手机作为控制平面连接用户自己的服务器，提供流式聊天、会话浏览与恢复、模型切换、定时任务管理、技能浏览、服务器文件浏览与内存/用量面板。应用本身不含后端，需用户自行部署服务器并通过 HTTPS 隧道、Tailscale 或局域网接入。免费无订阅，推送通知默认关闭且可自托管中继。App Store 提供下载，也可用 Xcode 从源码构建。
+Hermex 是一款 Swift/SwiftUI 编写的 iPhone/iPad 原生应用，作为自托管 Hermes Agent 服务器的客户端：从手机启动与引导会话、流式查看 agent 思考与工具调用、回复审批提问、审阅文件改动并执行 Git 暂存/提交/推送。支持语音输入与播报、会话管理、Bots 一对一及群聊、定时任务与看板、多服务器切换。应用本身免费、无内购；不含服务器端，用户需自行安装并暴露 Hermes Agent（0.21.3+）。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 流式聊天，支持模型/推理力度/工作区选项与文件图片附件
-- 会话管理、定时任务编辑、技能浏览、服务器文件浏览
-- 仅连接用户自有服务器，无分析无追踪，推送中继可自托管
-- 兼容 hermes-webui 固定测试 commit，对未知字段容错解码
+- 原生 SwiftUI 应用，非 Web 封装，要求 iOS/iPadOS 18+
+- 流式对话、审批应答、HTML 报告内嵌渲染与 Git 操作
+- 语音输入输出依赖主机端 speech-to-text 与 voice
+- 推送通知经可自托管的开源 relay，不上传消息文本
 
 ## 适用场景
 
-- 在外出时用手机操控家里服务器上运行的 AI agent
-- 查看和恢复历史会话、管理 agent 定时任务与技能
-- 通过 Tailscale 等私有网络安全访问自托管 agent
+- 在手机上远程引导和监控自托管 agent 的工作会话
+- 移动端审阅并提交 agent 的代码改动
+- 通过定时任务和看板管理 agent 的长期工作
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+`编码 Agent` `聊天机器人` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L23: Hermex is a native SwiftUI iPhone app for driving a self-hosted hermes-webui server — a mobile cockpit for an AI ag
-> L49: Hermex is a client only — it does not ship with, host, or provision a backend. You bring your own hermes-webui serv
+> L26: Hermex is a native SwiftUI app for iPhone and iPad. It connects directly to a Hermes Agent host that you run. From 
+> L49: Hermex is a client only. It doesn't ship, host, or provision a server. You run Hermes Agent on a machine you contro
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ac6e62c9b3ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e46dbd8fbc69` · [字段定义](../../DATASET.md)*

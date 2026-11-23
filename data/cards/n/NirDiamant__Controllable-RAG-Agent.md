@@ -2,9 +2,9 @@
 
 ⭐ 1,634 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/NirDiamant/Controllable-RAG-Agent) · 个人维护
 
-**基于确定性图的复杂问答 RAG Agent 参考实现**
+**图控 RAG 代理：对自有数据回答复杂多跳问题**
 
-用 LangChain/LangGraph 构建的可控 RAG Agent：加载 PDF 并分章、LLM 生成章节摘要、将原文与摘要编码进 FAISS 向量库；对问题做匿名化后生成高层计划，再拆解为检索或作答任务逐步执行，带内容验证与重规划循环，并以 Ragas 指标评估。以《哈利·波特》第一册为演示用例，提供 Jupyter 教程与 Streamlit 实时可视化，支持 Docker 或源码方式运行，需自备 LLM API key（OpenAI/Groq 等）。
+一个面向复杂问答的检索增强生成方案实现：用确定性图作为代理的"大脑"，对自有 PDF 文档执行分章加载、摘要、向量入库，问答时对问题做匿名化、生成计划、拆解为检索/回答任务、蒸馏检索内容、链式推理生成答案，并进行基于上下文的验证与重规划以约束答案仅来自提供的数据。评估采用 Ragas 指标（正确性、忠实度、相关性、召回、相似度）。提供 Harry Potter 书籍分析的 step-by-step notebook 与 Streamlit 实时可视化，支持 pip 或 Docker 运行，需自备 LLM 提供商 API key。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 确定性图作为 Agent 控制核心，任务分解与自适应规划
-- 问题匿名化以规避 LLM 预训练知识偏差
-- 答案落地验证与重规划循环（参考 Self-RAG）
-- Ragas 指标评估（正确性/忠实度/相关性等）
+- 确定性图驱动的可控代理，多步任务拆解与自适应重规划
+- 问题匿名化以避免 LLM 预训练知识干扰计划生成
+- 基于上下文的答案验证（引用 Self-RAG 论文方法）
+- Ragas 指标评估与 Streamlit 实时代理可视化
 
 ## 适用场景
 
-- 在自有 PDF 数据上做需要多跳推理的复杂问答
-- 学习或演示可控 RAG Agent 的规划与验证机制
-- 对比确定性图 Agent 与传统单步检索 RAG 的差异
+- 对自己的长文档（如整本书）做多跳推理问答
+- 需要答案严格限定在检索资料、防止编造的场景
+- 学习高级 RAG 流水线（计划、蒸馏、验证环节）的实现方式
 
 ## 场景标签
 
-`RAG` `教程课程` · 领域:知识与检索
+`RAG` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L9: An advanced Retrieval-Augmented Generation (RAG) solution designed to tackle complex questions that simple semantic 
-> L78: - **Sophisticated Deterministic Graph**: Acts as the "brain" of the agent, enabling complex reasoning.
-> L130: The agent's ability to break down and solve such complex queries demonstrates its sophisticated reasoning capabili
+> L13: An advanced Retrieval-Augmented Generation (RAG) solution designed to tackle complex questions that simple semantic
+> L65: 6. **Question Processing**:
+> L76: 9. **Final Answer Generation**: Produce the final answer using accumulated context and chain-of-thought reasoning.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `74d03e61dfe0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `48153825443b` · [字段定义](../../DATASET.md)*

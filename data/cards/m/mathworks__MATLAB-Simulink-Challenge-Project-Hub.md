@@ -2,9 +2,9 @@
 
 ⭐ 2,280 · HTML · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) · 组织维护
 
-**MathWorks 维护的学生挑战项目清单：工科研究/设计课题策展**
+**为本科生/研究生提供 MATLAB+Simulink 挑战课题清单**
 
-由 MathWorks 维护的 MATLAB 与 Simulink 挑战项目清单，面向学生与研究人员提供具有产业关联的研究和设计课题创意。条目按技术趋势（人工智能、自动驾驶、计算机视觉、机器人、无线通信等）组织，每个项目标注影响说明、可习得技能方向、产业合作方与提交情况；完成项目并公开成果可获得 MathWorks 颁发的证书与背书。清单附带交互式项目浏览器，并要求提交者遵守生成式 AI 使用指南，未经核实的 AI 生成内容不被接受。
+MathWorks 维护的挑战项目目录，列出带产业背景的设计与研究课题，覆盖 AI、自动驾驶、计算机视觉、无人机、能源、机器人、无线通信等方向。每个条目给出问题描述、影响说明与所需技能，标注行业合作方与提交情况；参与者通过报名表提交意向，开放成果可获得 MathWorks 证书与背书。提交需遵守生成式 AI 使用指南，未经验证的 AI 产出不被接受；课题以 MATLAB/Simulink 工具链为核心。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 按 10 类技术趋势组织的项目课题清单
-- 每个条目标注影响、技能方向与产业合作方
-- 完成项目可获 MathWorks 证书与研究人员背书
-- 附交互式 Project Explorer 过滤工具与生成式 AI 使用准则
+- 按技术趋势分类的挑战课题清单（AI、自动驾驶、CV、能源等 10 类）
+- 每个课题标注所需技能、影响与行业合作方
+- 提供交互式 Project Explorer 按技术/领域筛选课题
+- 完成开放项目可获 MathWorks 证书与背书
 
 ## 适用场景
 
-- 为毕业设计/毕业论文寻找有产业背景的课题方向
-- 了解 MATLAB/Simulink 相关技术趋势与产业方向
-- 通过完成挑战项目获得 MathWorks 官方认证
+- 为毕业设计或学位论文寻找有产业背景的 MATLAB/Simulink 课题
+- 通过完成挑战项目获得 MathWorks 的证书与认可
+- 按技术方向筛选适合自己技能积累的项目
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`教程课程` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L8: Explore this list of challenge projects to learn about technology trends, gain practical skills with MATLAB and Simu
+> L6: Are you looking for a design or research project idea with real industry relevance and societal impact?
+> L30: ## Projects by technology trends :file_cabinet:
 > L31: - Artificial Intelligence
-> L42: ## All projects :file_folder:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `866ef3959dc4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `85e5d2103008` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,167 · TypeScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cloudflare/sandbox-sdk) · [官网](https://sandbox.cloudflare.com/) · 组织维护
 
-**在 Cloudflare 边缘网络运行 Linux 沙箱容器执行不可信代码**
+**在 Cloudflare 边缘运行沙箱代码环境的 SDK**
 
-Cloudflare 官方的沙箱 SDK：基于 Durable Object 与 Container，让 Worker 为每个用户、任务或会话启动隔离的 Linux 沙箱，并控制其可访问的主机与凭据。1.0 版本由用户自己的 Durable Object 启动容器，npm 包提供 Files（流式文件进出）、S3Mount（挂载 S3 兼容桶且凭据不入沙箱）、DirectoryBackup（目录存 R2 并可恢复到新镜像容器）三项能力。附带十余个可部署示例（终端、预览、网络管控、coding agents 等）。需构建镜像 shim、Worker 需 nodejs_compat。
+Cloudflare 官方 SDK，在边缘网络上为单个用户、任务或会话提供 Linux 沙箱，用于运行不可信或生成的代码。沙箱由 Durable Object 启动并管理容器，提供文件流式读写、S3 兼容桶挂载、目录备份到 R2 并跨容器恢复等能力，凭证经 Worker 签名不进入沙箱。支持后台进程、浏览器终端、端口预览、网络访问控制，含多个可部署示例。需 nodejs_compat，0.x 需迁移。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@ Cloudflare 官方的沙箱 SDK：基于 Durable Object 与 Container，让 Worke
 
 ## 能力要点
 
-- 以 Durable Object + Container 形式运行每用户/会话独立的 Linux 沙箱
-- Files/S3Mount/DirectoryBackup：文件流传输、S3 挂载（凭据不入沙箱）、目录备份恢复
-- Worker 层控制沙箱可访问的主机与凭据
-- 提供 coding agents、终端、Web 预览等十余个可部署示例
+- 每个沙箱对应一个用户/任务/会话的隔离 Linux 环境
+- Files 文件流、S3Mount 桶挂载、DirectoryBackup 备份恢复三组扩展
+- 凭证由 Worker 签名，不进入沙箱
+- 提供 coding agents、终端、预览等多个可部署示例模板
 
 ## 适用场景
 
-- 为 AI coding agent 提供隔离的代码执行环境
-- 在浏览器中打开沙箱终端或预览运行中的应用
-- 按会话隔离地运行不可信或生成的代码
+- 为 AI 生成的代码提供隔离执行环境
+- 在沙箱中运行编码 agent 操作代码仓库
+- 在浏览器中打开远程 shell 调试
+- 挂载 R2/S3 桶处理文件并保存工作区快照
 
 ## 场景标签
 
- · 领域:云基础设施/开发者工具
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e7cd60d9bba7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `9e76b3258670` · [字段定义](../../DATASET.md)*

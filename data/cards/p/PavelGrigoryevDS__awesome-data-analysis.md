@@ -2,9 +2,9 @@
 
 ⭐ 2,226 · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/PavelGrigoryevDS/awesome-data-analysis) · [官网](https://pavelgrigoryevds.github.io/awesome-data-analysis/) · 个人维护
 
-**数据分析与数据科学资源策展清单（500+ 条，多分类）**
+**数据分析与数据科学资源清单：收录 500+ 工具、教程与学习路径**
 
-以 awesome-list 形式收录数据分析与数据科学相关资源 500 余条，按学习路线图、Python 工具、SQL 与数据库、自动化 EDA 与可视化、数据校验、特征工程等主题分类组织；条目涵盖教程、路线图、速查表、面试准备、开源工具库与数据库系统，面向初学者到有经验的从业者。内容为链接聚合，提供 Web 版阅读入口，采用 CC0 许可，接受 PR 与 Discussions 建议。
+一个按类别组织的 curated list，收录数据科学与数据分析领域的资源：学习路线图、Python/Pandas/NumPy 教程、自动化 EDA 与可视化工具、数据质量与特征工程库、SQL 教程及多种数据库系统列表。面向从零基础到专业不同阶段的学习者，提供学习路径、练习资源与工具索引。以 Markdown 清单形式维护，提供网页版阅读界面，接受社区 PR 与讨论区建议，采用 CC0 许可。
 
 ## 筛选速览
 
@@ -20,15 +20,17 @@
 
 ## 能力要点
 
-- 500+ 条资源覆盖 Python 工具、SQL、路线图、速查表与面试准备
-- 按数据操作、自动化 EDA、数据质量、特征工程、数据库等细分类目组织
-- 收录 PandasAI、EverSQL 等 LLM/AI 相关数据分析工具条目
+- 收录 500+ 数据分析与数据科学资源
+- 按 Python、SQL、路线图、工具等类别组织条目
+- 覆盖数据库选型列表（PostgreSQL/DuckDB/ClickHouse 等十余种）
+- 提供网页版阅读界面与社区协作渠道
 
 ## 适用场景
 
-- 系统性地查找数据分析学习路线与教程资源
-- 按类目挑选数据处理、可视化与数据校验的 Python 工具库
-- 比较和选型开源数据库（OLAP、时序、图、文档等）
+- 我自学数据分析，想找一条系统的学习路线图
+- 我需要为数据清洗、自动化 EDA 挑选合适的 Python 工具
+- 我在选型数据库，想了解开源数据库的概览清单
+- 我在准备数据分析师面试，找练习和速查表
 
 ## 场景标签
 
@@ -37,8 +39,7 @@
 ## 证据(README 行号)
 
 > L7: 500+ curated resources for data analysis and data science: tools, libraries, roadmaps, cheatsheets, interview guides
-> L17: ## 📑 Contents
-> L21: ## 🏆 Awesome Data Science Repositories
+> L23: Curated collections of high-quality GitHub repos for inspiration and learning.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `02778acd86bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `8c99f6134d93` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 1,761 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/gi-dellav/zerostack) · [官网](https://gi-dellav.github.io/zerostack/) · 个人维护
 
-**Rust 编写的轻量编程 agent，面向终端使用**
+**面向开发者的 Rust 轻量终端编码 Agent，注重内存与性能**
 
-用 Rust 实现的命令行编程 agent，受 pi 与 opencode 启发。提供多模型接入（OpenRouter/OpenAI/Anthropic/Gemini/Ollama 及自定义 provider）、标准编码工具、五级权限模式、会话保存与自动压缩、crossterm 终端 UI、14 种内置系统提示（code/plan/review/debug 等）与提示链、MCP 支持、子代理、持久 Markdown 记忆、生命周期钩子、ACP 协议与可选沙箱（bubblewrap/zerobox）。自称二进制 26MB、平均内存约 16MB。安装途径含脚本、cargo、Homebrew 与 Nix；Windows 未测试。
+以 Rust 编写的终端编码 Agent，提供多模型提供方接入（OpenRouter 为默认）、标准编码工具集、五级权限系统、会话保存/恢复与自动压缩、MCP 服务器接入、子代理并行探索、持久化 Markdown 记忆及十余种可切换的系统提示模式。安装提供脚本、Cargo、Homebrew、Nix 等方式，可选 bubblewrap/zerobox 沙箱隔离 bash 命令。README 未包含 Windows 实测说明，沙箱为可选组件。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 多 provider 接入：OpenRouter、OpenAI、Anthropic、Gemini、Ollama 及自定义
-- 14 种内置系统提示模式与 brainstorm→plan→code→review 提示链
-- 五级权限模式 + 会话允许列表 + doom-loop 检测
-- 持久 Markdown 记忆、MCP、ACP、生命周期钩子、可选 bubblewrap/zerobox 沙箱
+- 多提供方支持：OpenRouter、OpenAI、Anthropic、Gemini、Ollama 及自定义提供方
+- 五级权限模式、按工具 glob 规则与会话允许列表、Doom-loop 检测
+- 15 种内置提示模式（code/plan/review/debug 等）与提示链式推进
+- 可选沙箱模式：bubblewrap/zerobox 后端，凭证目录掩蔽与网络隔离选项
 
 ## 适用场景
 
-- 在终端用自然语言让 AI 读写代码、执行命令与调试
-- 以低内存占用长时间运行编程 agent
-- 通过权限模式与沙箱控制 agent 的文件与网络访问
+- 在终端用命令行 Agent 完成代码编写、审查与重构任务
+- 以低内存占用环境运行编码 Agent
+- 通过权限规则与沙箱控制 Agent 可执行的命令范围
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `43ab224ba577` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `98aa27db1c2a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,343 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/braindecode/braindecode) · [官网](https://braindecode.org/) · 组织维护
 
-**用深度学习解码 EEG/ECoG/MEG 脑电信号的 Python 工具箱**
+**面向神经科学家的 EEG/ECoG/MEG 深度学习解码工具箱**
 
-开源 Python 工具箱，面向原始电生理脑信号的深度学习解码：内置数据集获取器、预处理与可视化工具、多种深度学习架构实现及数据增强方法，覆盖 EEG、ECoG 与 MEG 分析。目标用户为想使用深度学习的神经科学研究者，以及想处理神经生理数据的深度学习研究者。安装需先装 PyTorch，再 pip 安装；配套 MOABB 可选用于下载 EEG 数据集。BSD-3-Clause 许可，部分组件另有许可，文档在线提供。
+开源 Python 工具箱，用深度学习模型解码原始电生理脑信号，覆盖 EEG、ECoG 和 MEG。内置数据集获取器、数据预处理与可视化工具，以及多个深度学习架构实现和数据增强方法。面向想使用深度学习的神经科学家与想处理神经生理数据的深度学习研究者。安装需先安装 PyTorch；如需从 MOABB 下载 EEG 数据集可另行安装 moabb。主体采用 BSD-3-Clause 许可，部分组件采用 CC BY-NC 4.0 等其他许可。
 
 ## 筛选速览
 
@@ -21,15 +21,15 @@
 ## 能力要点
 
 - 提供 EEG/ECoG/MEG 数据集获取、预处理与可视化工具
-- 实现多种深度学习架构与数据增强方法
-- 基于 PyTorch，pip 安装
-- 可选配合 MOABB 下载 EEG 数据集
+- 内置多个深度学习架构实现与数据增强方法
+- 提供在线文档（stable 与 dev 版本）
+- 提供 Zenodo DOI 引用入口与 BibTeX 条目
 
 ## 适用场景
 
-- 对 EEG/MEG 脑电数据做深度学习解码分析
-- 神经科学研究中复用已有的脑信号深度学习模型
-- 快速获取与预处理公开脑电数据集并训练模型
+- 对 EEG 信号做深度学习解码分析
+- 处理 ECoG 或 MEG 神经生理数据
+- 复现脑机接口相关的深度学习研究
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `205b996057a8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ce507a9dddd5` · [字段定义](../../DATASET.md)*

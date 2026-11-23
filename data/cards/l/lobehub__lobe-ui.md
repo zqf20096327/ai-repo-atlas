@@ -1,10 +1,10 @@
 # lobehub/lobe-ui
 
-⭐ 2,279 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lobehub/lobe-ui) · [官网](https://ui.lobehub.com) · 组织维护 · 中文 README
+⭐ 2,279 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lobehub/lobe-ui) · [官网](https://ui.lobehub.com) · 组织维护
 
-**构建 AIGC Web 应用的开源 React UI 组件库**
+**为开发者提供构建 AI 聊天与 AIGC Web 应用的 React 组件库**
 
-LobeHub 维护的 TypeScript/React 组件库，面向构建 AIGC Web 应用的开发者。提供基于级联层（lobe-base/lobe-popup/lobe-ui）的样式体系、data-attribute 运行时主题（外观/主色/中性色）、ThemeScope 子树主题、i18n 资源包、依赖 motion/react 动画的 ConfigProvider，以及 StyleX token 复用与 Tailwind v4 共存方案。包为 ESM only，NextJS page router SSR 需配置 transpilePackages，v5 升级 v6 提供 codemod 迁移命令。
+LobeHub 的开源 React 组件库，用于构建 AI 聊天与 AIGC Web 应用。提供渲染 LLM 输出（Markdown、代码、Mermaid 图、diff、HTML 预览）的组件与聊天界面，覆盖从落地页到管理后台的统一设计语言；支持单属性切换明暗主题与主色，类名稳定可用 CSS/Tailwind 覆写，内置英文与简体中文文案。ESM-only，依赖 React 19 及若干 peer 依赖；v6 起移除 Ant Design。文档面向编码代理提供 skills.md 与 llms.txt，并附 v6 迁移 skill 与 Codemod。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ LobeHub 维护的 TypeScript/React 组件库，面向构建 AIGC Web 应用的�
 
 ## 能力要点
 
-- ESM only 的 React UI 组件库，pnpm add @lobehub/ui 安装
-- CSS 级联层（lobe-base/lobe-popup/lobe-ui）与 Tailwind v4 共存方案
-- data-attribute 主题系统与运行时 setLobeTheme / ThemeScope
-- 内置 i18n provider 与组件 texts 属性文本定制
+- 渲染 LLM 输出的组件：Markdown、代码、Mermaid、diff、HTML 预览
+- 单属性切换明暗模式与主色，无首载闪烁
+- 面向编码代理的 skills.md / llms.txt 文档与 v6 迁移 Codemod
+- 多个入口包：chat、mobile、dashboard、pro-table、form 等
 
 ## 适用场景
 
-- 为 AIGC 聊天应用快速搭建界面组件
-- 在 NextJS / Tailwind v4 项目中接入并定制主题
-- 为组件做多语言文本切换
+- 用 React 搭建 AI 聊天界面而无需从零实现
+- 构建 AIGC Web 应用的落地页与后台管理界面
+- 让编码代理依据组件文档生成页面代码
 
 ## 场景标签
 
- · 领域:前端/UI 组件库
+ · 领域:前端开发/UI 组件库
 
 ## 证据(README 行号)
 
-> L3: Lobe UI is an open-source UI component library for building _AIGC_ web apps
-> L184: - **🍭 Lobe UI** - An open-source UI component library for building AIGC web apps.
+> L5: LobeHub's open-source React component library for building AI chat and AIGC web apps.
+> L32: Lobe UI is the React component library behind LobeHub, made for building AI chat and AIGC web apps.
+> L39: - **AI-native docs**: coding agents read every component's usage and props through skills.md and llms.txt.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fb2e08f7be5c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `81d9c3855720` · [字段定义](../../DATASET.md)*

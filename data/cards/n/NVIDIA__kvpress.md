@@ -2,9 +2,9 @@
 
 ⭐ 1,258 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/NVIDIA/kvpress) · 组织维护
 
-**面向研究者的 LLM KV cache 压缩方法库与评测工具**
+**给研究者的 LLM KV cache 压缩方法实现与评测库**
 
-基于 🤗 transformers 实现的 Python 库，提供 30 余种训练无关的 KV cache 压缩方法（presses），在 prefilling 阶段（以及实验性的 decoding 阶段）通过 forward hook 剪枝 KV 对，降低长上下文推理的显存占用与解码耗时。附带自定义生成 pipeline、CLI 评测工具（长上下文数据集准确性、速度与显存）、RULER 排行榜与 KV cache 量化支持。面向该领域的研究者与开发者，部分 press 依赖模型架构，官方测试覆盖 Llama、Mistral、Phi3、Qwen2/3、Gemma3。
+基于 🤗 transformers 的 KV cache 压缩库：在 prefill 阶段（及实验性的解码阶段）通过 "presses" 对注意力层注册 forward hook 剪除或压缩 KV 对，提供 40 余种 training-free 方法（KNorm、SnapKV、ExpectedAttention、KVzip 等）及组合包装器，压缩比与 target_size 可配置。面向研究该领域的开发者和研究人员，简化新方法的开发与基准评测；附 RULER 等长上下文基准的 CLI 评测、速度/内存测量 notebook 与 Hugging Face Leaderboard。部分 press 依赖模型架构，已测试 Llama/Mistral/Phi3/Qwen2/Qwen3/Gemma3 等实现。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 30 余种 KV cache 压缩方法（ScorerPress 及多种 wrapper，可组合）
-- 压缩默认发生在 prefilling 阶段，DecodingPress 支持解码期周期压缩
-- CLI 在多个长上下文数据集上评测 press 的准确性/速度/显存
-- 支持 QuantizedCache KV 量化与 accelerate 多 GPU 推理
+- 实现 40 余种 KV cache 压缩方法（presses），均为 training-free（少量除外）
+- 注册为 transformers pipeline（kv-press-text-generation），自动处理 chat template 与 tokenization
+- 提供 CLI 在长上下文基准上评测各 press 的准确性，以及速度/内存测量 notebook
+- 通过 accelerate 支持多 GPU 推理，支持经 transformers QuantizedCache 的 KV cache 量化
 
 ## 适用场景
 
-- 在长上下文推理中压缩 KV cache 以降低显存与加快解码
-- 对比评测不同 KV 压缩方法在 RULER 等基准上的表现
-- 研究人员基于 BasePress 快速实现新的压缩方法
+- 长上下文 LLM 部署时降低 KV cache 内存占用
+- 为新的 KV cache 压缩方法做开发与基准对比
+- 测量不同压缩比下的显存节省与解码提速
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型评测` `模型量化` `推理引擎` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L11: Deploying long-context LLMs is costly due to the linear growth of the key-value (KV) cache in transformer models. F
 > L37: KVPress provides a set of "presses" that compress the KV cache during the prefilling-phase. Each press is associate
+> L131: We provide a simple CLI to evaluate the performance of different presses on several long-context datasets.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1fae38da7d06` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `6738c33b3669` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 6,669 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/BlockRunAI/ClawRouter) · [官网](https://www.npmjs.com/package/@blockrun/clawrouter) · 组织维护
 
-**面向自主 agent 的开源 LLM 路由器：本地路由+USDC 微支付**
+**面向自主 agent 的本地 LLM 路由器，支持钱包签名与 USDC 支付**
 
-ClawRouter 是 MIT 许可的智能 LLM 路由器，聚合 9 家提供商的 88 个聊天模型（另有图像/视频/语音与实时数据工具），在本地按 15 个维度打分、以约束优先排序为每个请求选择模型，路由延迟低于 1ms。面向自主 agent：无需账户和 API key，首次运行本地生成钱包，用 x402 协议在 Solana/Base 上按请求以 USDC 付费；也支持信用卡充值账户余额的 API key 方式，并提供 7 个免注册免费模型。可作为 OpenClaw 插件安装，或以本地代理（端口 8402）配合 Cursor、continue.dev 等 OpenAI 兼容客户端使用；macOS 另有 Electron 控制面板。计费依赖 BlockRun 网关。
+ClawRouter 是一个 MIT 许可的开源 LLM 路由器，以本地代理形式运行（默认端口 8402），在本地按 15 维度对请求评分并在 1ms 内选择模型，覆盖 91 个聊天模型及图像、视频、语音等 API。认证方式为本地生成钱包、以 x402 协议的 USDC 每请求结算（Solana/Base），也可通过 user.blockrun.ai 注册并用信用卡充值获取 API key；另有 8 个免费模型无需注册即可使用。安装方式为 npm 全局包，可作为 OpenClaw 插件或独立代理对接 continue.dev、Cursor 及 OpenAI 兼容客户端，macOS 另有 Electron 桌面控制面板。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@ ClawRouter 是 MIT 许可的智能 LLM 路由器，聚合 9 家提供商的 88 �
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 15 维本地评分+约束优先排序，路由延迟 <1ms，无外部 API 调用
-- 88 个聊天模型来自 9 家提供商，统一端点与余额
-- x402+USDC 按 agent 钱包签名逐请求付费（Solana/Base），或信用卡 API key
-- 7 个模型免注册免密钥免费使用
+- 15 维度本地评分路由，1ms 内选择模型，无需外部依赖
+- 钱包签名即认证，x402 协议 USDC 按请求结算（Solana/Base），也支持信用卡 API key
+- 8 个免费模型无需注册、key 或钱包即可使用
+- 提供 OpenClaw 插件安装路径、独立本地代理与 macOS Electron 控制面板
 
 ## 适用场景
 
-- 让自主 agent 自主支付并调用多家 LLM，无需人工注册账户
-- 在 Cursor/continue.dev 等 OpenAI 兼容客户端中按请求自动选最便宜可用模型
-- 以 7 个免费模型零成本试用或学习
+- 给自主 agent 配置免注册的模型调用与按请求付费通道
+- 在 continue.dev/Cursor 等客户端接入统一的多模型路由端点
+- 通过自动选模型降低 API 调用支出
 
 ## 场景标签
 
@@ -39,7 +39,7 @@ ClawRouter 是 MIT 许可的智能 LLM 路由器，聚合 9 家提供商的 88 �
 
 > L33: > **ClawRouter** is an open-source smart LLM router that reduces AI API costs by up to 84 %. It analyzes each reque
 > L48: **ClawRouter is how an agent reaches it.** BlockRun is the gateway and the billing; ClawRouter is the MIT-licensed 
-> L61: - **No model selection** — 15 -dimension scoring + constraint-first ranking (router-core) picks the right model aut
+> L173: No OpenClaw required. ClawRouter runs as a local proxy on port 8402.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `943f382312b9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `548736452bae` · [字段定义](../../DATASET.md)*

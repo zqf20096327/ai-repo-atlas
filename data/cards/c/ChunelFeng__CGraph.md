@@ -2,9 +2,9 @@
 
 ⭐ 2,321 · C++ · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ChunelFeng/CGraph) · [官网](http://www.chunel.cn) · 个人维护 · 中文 README
 
-**纯 C++/Python 的跨平台 DAG 图流程并行执行框架**
+**给开发者用的无依赖跨平台 C++/Python DAG 流程框架**
 
-一套无任何第三方依赖、基于 C++11 标准库的跨平台有向无环图（DAG）流程执行框架，兼容 macOS、Linux、Windows 和 Android。使用者继承 GNode 节点类实现 run() 方法并设定依赖关系，即可实现任务图化/流水线执行；通过 GPipeline 底层调度提供依赖依次执行、非依赖并发执行，以及暂停、恢复、超时设定的 eDAG 调度。支持 GGroup 控制条件判断、循环和并发逻辑。另提供 Python 版本 pycgraph（pip 安装），支持 C++/Python 混合编程，并有 C#、Java、Go 等其他语言版本。
+CGraph（色丶图）是一套基于纯 C++11 的图流程执行框架，无第三方依赖，兼容 macOS/Linux/Windows/Android。使用者继承 GNode 并实现 run()、设定依赖关系，即可实现任务的图化或流水线执行，通过 GPipeline 调度支持依赖串行、非依赖并发、条件、循环、超时、暂停恢复等机制，并提供 group/aspect/param/message/event 等扩展模块。提供 Python 版 pycgraph（pip 安装）以及 C#/Java/Go 的同接口实现，另有 dockerfile 构建环境与性能分析 perf 功能。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 纯 C++11 编写，无任何第三方依赖，跨四平台
-- eDAG 调度：依赖依次执行、非依赖并发、暂停/恢复/超时
-- Python 版 pycgraph 支持 pip3 install 安装与混合编程
-- 提供 aspect 切面、message 消息、perf 性能分析、docker 环境等功能
+- 纯 C++11 标准库实现，无第三方依赖，跨四大平台
+- 支持依赖串行、并发、条件、循环、超时、暂停/恢复等 DAG 调度
+- 提供 Python 版 pycgraph，支持 Python/C++ 混合编程
+- 提供 graphviz 可视化、perf 性能分析与一键编译脚本
 
 ## 适用场景
 
-- 用图结构编排任务依赖与并发执行逻辑
-- 构建多线程流水线并进行调度资源管控
-- C++/Python 混合开发场景下的流程编排
+- 将多阶段任务编排为依赖图并行执行
+- 用 Python 搭建可暂停/超时控制的流水线
+- 对多线程调度性能做分析与优化实验
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `dd8a22ee6fb1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `90e68a09bf94` · [字段定义](../../DATASET.md)*

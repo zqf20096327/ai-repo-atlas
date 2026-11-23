@@ -2,16 +2,16 @@
 
 ⭐ 1,903 · Swift · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/john-rocky/CoreML-Models) · [官网](https://john-rocky.github.io/) · 个人维护
 
-**iOS/macOS 的 Core ML 模型动物园：含转换脚本与示例 App**
+**面向 iOS/macOS 开发者的 Core ML 模型库目录**
 
-由个人维护的 Core ML 模型目录：将 PyTorch 等来源的模型转换为可直接使用的 .mlpackage，条目按图像分类、目标检测（YOLO 系列）、分割、语音、视觉-语言等任务组织，每条列出 Google Drive 下载链接、模型大小、输出格式、原始项目与许可证，部分附带 SwiftUI 示例工程与 Colab 转换脚本。面向在 Apple 平台集成本地模型的开发者；模型许可证随各自原始项目，另有姊妹仓库覆盖 Core AI（iOS/macOS 27）与端侧 LLM。
+收录已转换为 Core ML（.mlpackage）格式的模型清单，覆盖图像分类、目标检测、分割、图像生成、修复、上色、人脸识别、语音分离、TTS、Stable Diffusion 等类别。每个条目提供 Google Drive 下载链接、模型大小、输出格式、原始项目与许可证信息，部分条目附 Colab 转换脚本与 SwiftUI 示例工程。模型许可遵循各自原始项目；README 未提供统一安装命令，模型按条目单独下载。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | Apache-2.0 |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -20,24 +20,24 @@
 
 ## 能力要点
 
-- 覆盖图像分类、目标检测、跟踪、分割、语音、TTS 等多任务类别的 Core ML 模型目录
-- 每个条目提供下载链接、大小、输出张量格式、原始项目与许可证信息
-- 部分模型附带转换脚本（Colab）与示例 App 工程
-- ByteTrack 提供纯 Swift 端侧跟踪实现（无需下载模型）
+- 按任务类别组织的 Core ML 模型目录（检测、分割、生成、语音等）
+- 每个模型附 Google Drive 下载链接与许可证来源标注
+- 部分条目提供 Colab 转换脚本与 SwiftUI 示例工程
+- 附带纯 Swift 实现的 ByteTrack 跟踪器，可叠加于检测结果
 
 ## 适用场景
 
-- 为 iOS/macOS 应用寻找可直接集成的 Core ML 模型
-- 查看模型转换后的输出格式与输入约束再决定集成方式
-- 通过示例工程学习 Core ML 模型在 Xcode 项目中的用法
+- 为 iOS/macOS 应用寻找可直接打包的 Core ML 模型
+- 参考示例工程学习模型在 Xcode 中的接入方式
+- 用 Colab 转换脚本自行转换 PyTorch 模型
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`图像生成` `语音合成` `人脸识别` `图像视频处理` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L9: This repository provides Core ML models and sample apps. Use the catalog below for existing Core ML integrations, ea
+> L13: Take a look this model zoo, and if you found the CoreML model you want,
 > L100: You can get the model converted to CoreML format from the link of Google drive.
 
 ## 星数曲线
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f00b883bb347` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `60fd9b8787ab` · [字段定义](../../DATASET.md)*

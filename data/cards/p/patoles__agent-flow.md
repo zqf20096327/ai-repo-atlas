@@ -1,10 +1,10 @@
 # patoles/agent-flow
 
-⭐ 1,806 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/patoles/agent-flow) · [官网](https://marketplace.visualstudio.com/items?itemName=simon-p.agent-flow) · 组织维护
+⭐ 1,806 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/patoles/agent-flow) · [官网](https://marketplace.visualstudio.com/items?itemName=simon-p.agent-flow) · 个人维护
 
-**Claude Code/Codex agent 执行的实时可视化工具**
+**可视化 Claude Code/Codex agent 执行过程的调试工具**
 
-面向使用 Claude Code 与 Codex CLI 的开发者，实时读取其会话事件（hooks HTTP 服务器、rollout JSONL 文件、JSONL 事件日志），以交互式节点图展示 agent 的思考、分支、工具调用与协调过程，并提供时间线、转录与文件注意力热力图面板。支持多会话标签页与双运行时并发监视。提供 npx 一键启动浏览器版、pnpm 源码运行与 VS Code 扩展三种入口。默认遥测仅在内置 npx 二进制中开启，可环境变量关闭。
+以交互式节点图实时展示 Claude Code 与 Codex agent 会话的执行过程：工具调用、分支、子 agent 协作与返回流。通过 Claude Code hooks 的 HTTP 服务器接收事件，通过读取 Codex rollout JSONL 文件获取事件流；支持多会话标签页、时间线、转录面板与文件关注热力图，也可回放任意 JSONL 事件日志。提供 VS Code 扩展、npx 浏览器版与源码运行三种入口，要求 Node.js 20+ 与 Claude Code CLI。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 实时节点图展示 agent 分支、工具调用与返回流
-- 同时监视 Claude Code 与 Codex 会话，可按 runtime 限定
-- 通过 Claude Code hooks 实现 HTTP 事件流式接收
-- 支持任意 JSONL 事件日志回放与监视
+- 实时节点图展示 agent 工具调用、分支与子 agent 协调
+- 同时自动检测 Claude Code 与 Codex 会话并可按运行时过滤
+- Claude Code hooks HTTP 服务器接收事件流；支持 JSONL 日志回放
+- 提供 VS Code 扩展 / npx 浏览器版 / 源码三种运行入口
 
 ## 适用场景
 
-- 调试 Claude Code/Codex agent 的工具调用链与决策序列
-- 定位 agent 执行中耗时或冗余的分支与调用
-- 通过观察 agent 解读提示词的方式改进提示词写法
+- 调试 agent 工具调用链，追踪出错的决策序列
+- 观察 agent 行为以改进提示词
+- 定位耗时的工具调用与冗余分支
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L20: - **Live agent visualization**: Watch agent execution as an interactive node graph with real-time tool calls, branc
-> L22: - **Claude Code hooks**: Lightweight HTTP hook server receives events directly from Claude Code for zero-latency st
+> L3: Real-time visualization of Claude Code and Codex agent orchestration. Watch your agents think, branch, and coordinat
+> L22: - **Live agent visualization**: Watch agent execution as an interactive node graph with real-time tool calls, branc
+> L24: - **Claude Code hooks**: Lightweight HTTP hook server receives events directly from Claude Code for zero-latency st
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fbbc995cdcbc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d2bac4ca0b72` · [字段定义](../../DATASET.md)*

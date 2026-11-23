@@ -2,9 +2,9 @@
 
 ⭐ 1,270 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/diodiogod/TTS-Audio-Suite) · 个人维护
 
-**ComfyUI 多引擎本地 TTS 与语音转换节点套件**
+**给 ComfyUI 用户提供多引擎本地 TTS 与语音转换节点**
 
-ComfyUI 自定义节点扩展，统一集成 19 个 TTS/语音转换/ASR 引擎（F5-TTS、Chatterbox、Qwen3-TTS、CosyVoice3、IndexTTS-2、Higgs Audio、RVC 等），提供多引擎 TTS、声音设计、声音转换、ASR 转写、Text-to-SRT 构建、集成 RVC 模型训练与音频后处理。核心场景为字幕工作流：从 SRT 生成对齐语音、重建字幕时间轴。架构上主环境运行于 Transformers 5，为旧栈引擎提供运行时隔离。面向使用 ComfyUI 的内容创作者，通过源码或 ComfyUI-Manager 安装。
+一个 ComfyUI 自定义节点扩展，通过统一接口接入 20 个 TTS/ASR/语音转换引擎（ChatterBox、F5-TTS、Higgs Audio、VibeVoice、IndexTTS、RVC 等），提供文本转语音、语音克隆、声音转换、ASR 转写、SRT 字幕同步生成、音频后处理与 RVC 模型训练工作流。采用模块化架构，新版对脆弱旧引擎提供运行时隔离，主环境运行在 Transformers 5。SRT 节点支持分段缓存，仅重新生成修改过的片段。
 
 ## 筛选速览
 
@@ -16,30 +16,31 @@ ComfyUI 自定义节点扩展，统一集成 19 个 TTS/语音转换/ASR 引擎�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-24g` | |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 19 个引擎的统一 TTS/VC/ASR 节点（F5-TTS、Chatterbox、Qwen3-TTS、RVC 等）
-- SRT 字幕工作流：SRT 生成 TTS、智能时间轴、分段级缓存
-- 静音视频口型分析（MediaPipe）生成基础 SRT 时间模板
-- Transformers 5 主环境 + 脆弱引擎运行时隔离架构
+- 统一接入 20 个 TTS/语音转换引擎，含语言与显存对比表
+- SRT 字幕工作流：转写生成 SRT、按编辑稿重建字幕、分段缓存
+- 集成 RVC 模型训练工作流与语音设计器
+- 运行时隔离架构：主环境 Transformers 5，脆弱引擎用共享旧版运行时
 
 ## 适用场景
 
-- 在 ComfyUI 中用多个本地 TTS 引擎为视频/动画配音
-- 基于 SRT 字幕生成时间对齐的语音
-- 用 RVC 做实时语音转换并训练自定义模型
-- 从静音视频的口型运动生成字幕时间草稿
+- 在 ComfyUI 里用多引擎生成配音和克隆声音
+- 为视频生成与字幕时间轴同步的 TTS 音频
+- 从静音视频自动生成基础字幕时间模板
+- 训练 RVC 声音转换模型
 
 ## 场景标签
 
-`语音合成` `语音识别` `图像视频处理` · 领域:内容生成
+`语音合成` `语音识别` `模型训练` · 领域:内容生成
 
 ## 证据(README 行号)
 
+> L11: *Universal multi-engine TTS extension for ComfyUI - evolved from the original ChatterBox Voice project.*
 > L15: A comprehensive ComfyUI extension providing unified Text-to-Speech, Voice Conversion, Audio Editing, and integrated
-> L82: - 🎤 **Multi-Engine TTS**
+> L83: - 🎤 **Multi-Engine TTS**
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d0b4ca9fe027` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3de61081dd0a` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # leofan90/Awesome-World-Models
 
-⭐ 2,059 · Python · BSD-3-Clause · 推送 2026-11-13 · [GitHub](https://github.com/leofan90/Awesome-World-Models) · 个人维护
+⭐ 2,059 · Python · BSD-3-Clause · 推送 2026-11-13 · [GitHub](https://github.com/leofan90/Awesome-World-Models) · 组织维护
 
-**世界模型论文策展清单：视频生成/具身智能/自动驾驶方向**
+**面向研究者的世界模型论文清单（视频生成/具身/自驾）**
 
-由个人维护的 Awesome 类论文清单，收录 World Models 定义及在通用视频生成、具身智能、自动驾驶方向应用的论文、代码与网站链接。内容按基础论文、博客/技术报告、综述三类组织，条目附 Paper/Website/Code 链接；维护者可通过 arXiv 候选管道发现新论文供审阅，接受社区 PR 补充。模板来自 Awesome-LLM-Robotics 与 Awesome-World-Model。
+收录世界模型相关论文的策展清单，覆盖通用视频生成、具身智能与自动驾驶三个方向，条目附论文、代码与相关网站链接；含奠基论文、博客/技术报告与综述三个板块，模板来自 Awesome-LLM-Robotics 与 Awesome-World-Model。维护者可使用 arXiv 候选流水线发现新论文，接受 PR 与邮件投稿，无安装或运行步骤。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按基础论文/技术报告/综述三段组织的论文清单
-- 条目附论文、代码与网站链接
-- 提供 arXiv 候选管道供维护者发现新论文
+- 覆盖视频生成、具身智能、自动驾驶三大方向的世界模型论文
+- 条目附论文、代码、网站链接
+- 提供 arXiv 候选流水线辅助发现新论文
 
 ## 适用场景
 
-- 查找世界模型方向的综述与技术报告
-- 追踪视频生成、具身智能与自动驾驶领域的世界模型研究
-- 获取可复现代码的论文条目
+- 进入世界模型研究领域时查找论文与代码入口
+- 按方向浏览世界模型综述与技术报告
+- 跟踪机器人操控、自驾仿真等方向的最新模型
 
 ## 场景标签
 
@@ -37,7 +37,8 @@
 ## 证据(README 行号)
 
 > L3: This repository provides a curated list of **papers for World Models for General Video Generation, Embodied AI, and 
-> L68: ## Survey
+> L9: Maintainers can use the arXiv candidate pipeline to discover recent papers for review.
+> L15: ## Foundation paper of World Model
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e2186619eedb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c2d26980b2ab` · [字段定义](../../DATASET.md)*

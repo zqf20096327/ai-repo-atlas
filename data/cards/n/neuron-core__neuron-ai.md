@@ -2,9 +2,9 @@
 
 ⭐ 2,182 · PHP · MIT · 推送 2026-11-20 · [GitHub](https://github.com/neuron-core/neuron-ai) · [官网](https://neuron-ai.dev) · 组织维护
 
-**PHP 生态的 AI Agent 开发框架：编排 LLM、工具与 RAG**
+**PHP 生态构建生产级 AI Agent 的框架**
 
-Neuron AI 是用于创建和编排 AI Agent 的 PHP 框架，提供 Agent 基类、工具/工具箱、MCP 连接器、结构化输出、RAG、多组件编排的 Workflow（含 human-in-the-loop）与流式输出等能力。支持约 17 种 LLM 提供商切换，同一 Agent 实现无需改动。要求 PHP ^8.1，通过 composer 安装，提供 CLI 脚手架命令生成 Agent 与 RAG，并配套文档、教程与 Inspector 监控渠道。
+Neuron AI 是面向 PHP 开发者的 Agent 框架，覆盖从 LLM 接口、数据加载、多 Agent 编排到监控调试的完整开发生命周期。核心机制包括可扩展的 Agent 类（内置记忆、工具、RAG）、带检查点与人在环的 Workflow、MCP 连接器、结构化输出、流式与 UI 协议集成（AG-UI、Vercel AI SDK）。要求 PHP ^8.1，通过 composer 安装，另提供 Skills 与 MCP server 供 AI 编码助手获取上下文。配套教程、电子书与 Inspector 监控服务。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Neuron AI 是用于创建和编排 AI Agent 的 PHP 框架，提供 Agent 基类
 
 ## 能力要点
 
-- Agent 基类自动管理记忆、工具与 RAG 机制
-- 一行代码切换约 17 种 LLM 提供商（Anthropic/OpenAI/Ollama/Gemini/AWS Bedrock 等）
-- Workflow 支持从零编排多 Agent 系统与 human-in-the-loop 人工干预
-- 提供 MCP 连接器、结构化输出与 CLI 脚手架（make:agent / make:rag）
+- 一行代码切换 17 种 LLM provider（含 Ollama、Bedrock、DashScope）
+- Workflow 支持检查点、人在环、中断与多 Agent 编排
+- MCP 连接器直接接入外部 MCP server 工具
+- 提供 AI 辅助开发资源（Skills、MCP server）
 
 ## 适用场景
 
-- 在 PHP 应用中构建带工具调用与记忆的 AI Agent
-- 搭建基于向量库与嵌入的 RAG 问答
-- 编排含人工审批环节的多 Agent 工作流
+- 在 PHP 应用中集成带记忆与工具调用的 Agent
+- 构建需要人工审批环节的多 Agent 工作流
+- 用向量库与嵌入搭建 RAG 聊天机器人
+- 让 Agent 自然语言查询数据库并输出结构化结果
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `81432d1398d2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `34d9a791f298` · [字段定义](../../DATASET.md)*

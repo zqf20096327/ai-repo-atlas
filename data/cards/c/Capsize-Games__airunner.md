@@ -1,45 +1,45 @@
 # Capsize-Games/airunner
 
-⭐ 1,317 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Capsize-Games/airunner) · [官网](https://airunner.art) · 组织维护
+⭐ 1,317 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Capsize-Games/airunner) · [官网](https://airunner.art) · 个人维护
 
-**离线桌面 AI 伴侣与 AI 艺术生成应用（本地运行）**
+**面向应用的离线推理引擎：美术、语音对话、LLM 聊天与自动化工作流**
 
-GPL-3.0 桌面应用：可定制姓名、性格、语音与长期记忆的 AI 伴侣（含 TTS/STT 实时语音对话、RAG 记忆召回），叠加多层画布式 AI 图像生成（草图转图、图生图、修复、滤镜）。默认全部在本地硬件运行，无需 API key 或订阅；LLM 经 llama.cpp sidecar 运行 GGUF 模型，内置 HuggingFace 与 Civitai 模型下载器。提供桌面安装包、Docker、apt、PyPI 多种安装途径，最低要求 16GB 内存。
+AI Runner 提供 headless 服务形态的模型 worker、运行时编排、持久化与 HTTP/WebSocket API，供其他应用接入；原 Qt 桌面应用与付费桌面商店已退役。仓库拆分为 services（守护进程、FastAPI 路由、下载与持久化）、native（启动器与运行时布局，构建并发布 llama.cpp 与 whisper.cpp sidecar）等包。需要 Python 3.13.3+，Linux CUDA profile 固定 CUDA 12.9 PyTorch 栈。README 明确记录部分 extras（TTS 相关）因依赖 airunner-tts-vendor 在公共索引不可解析，PyPI 发布处于暂停状态；文档声明硬件与语言支持矩阵未经验证，要求随工作负载而变。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | `gpu-8g` | |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 可定制性格/语音/长期记忆的 AI 伴侣，支持实时语音对话
-- 多层画布 AI 图像生成：草图转图、图生图、修复、背景移除
-- 本地离线运行，llama.cpp sidecar 跑 GGUF LLM，whisper.cpp 做 STT
-- 内置 HuggingFace 与 Civitai 模型下载器及 NSFW/违规内容过滤器
+- 模型 worker + FastAPI HTTP/WebSocket API 的 headless 服务架构
+- 构建并发布 llama.cpp 与 whisper.cpp sidecar
+- extras 按 LLM/STT/art/TTS 拆分，含 linux-release 聚合与 V6 hash lock 离线校验
+- 非回环绑定需 AIRUNNER_API_KEY，提供 /health 健康端点
 
 ## 适用场景
 
-- 在本地运行一个有记忆和语音的私人 AI 伴侣
-- 在分层画布上绘制并生成、迭代 AI 图像
-- 无网络、无 API key 环境下使用 LLM 对话与语音交互
+- 为自有应用提供离线 LLM/语音/美术生成的后端服务
+- 在无网络环境下自托管推理 API 并挂载本地 Hugging Face 缓存
+- 用 Docker Compose 部署 systemd 化的推理守护进程
 
 ## 场景标签
 
-`聊天机器人` `语音 Agent` `Agent 记忆` `图像生成` · 领域:Agent 开发
+`聊天机器人` `图像生成` `语音合成` `语音识别` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L5: AI Runner is a private AI companion you shape — name, personality, voice, memory — and a layered canvas for AI art g
-> L53: |**🤖 AI Companion**|Shape a named, voiced companion with persistent personality, shifting mood, and long-term memor
-> L56: |**🗣️ Voice Conversation**|Full TTS and STT — speak to your companion and hear it respond in a voice you choose|
+> L3: AI Runner provides model workers, runtime orchestration, persistence, and HTTP/WebSocket APIs for other applications
+> L13: |`services/`|Daemon, FastAPI routes, runtime orchestration, downloads, and persistence|
+> L16: |`airunner-native`|Builds and publishes the llama.cpp and whisper.cpp sidecars|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c1193a906f88` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `7ee8d8295362` · [字段定义](../../DATASET.md)*

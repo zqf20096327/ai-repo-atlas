@@ -2,9 +2,9 @@
 
 ⭐ 6,922 · Python · CC-BY-SA-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) · [官网](https://cc.bruniaux.com/) · 个人维护
 
-**面向开发者的 Claude Code 工程化使用教程与参考指南**
+**Claude Code 工程实践指南：教程、模板与 MCP 服务器**
 
-一份关于 Claude Code 的综合指南，配套网站为主阅读界面，仓库保存规范 Markdown 源文件、可复用模板、机器可读索引（navigation.json、llms.txt、reference.yaml）与贡献历史。内容覆盖安装与认证、学习路径、Agent harness 与循环/图工程、上下文与记忆工程、多种工作流、安全加固与沙箱隔离、可观测性、团队指标与 AI 成本核算等。另提供可通过 npx 安装的 stdio MCP 服务器（17 个工具、7 个资源），供任意 MCP 客户端查询指南内容。文档许可证为 CC BY-SA 4.0。
+以 Markdown 源文件形式收录的 Claude Code 使用与工程指南，配套网站作为主阅读界面。内容按 Start/Build/Scale 组织，覆盖智能体工程、上下文与记忆、工作流、安全加固、可观测性、团队采纳与成本核算等章节，并按角色给出多条学习路径。仓库提供可运行的 agents/skills/hooks 示例文件、测验、速查表、EPUB/PDF 电子书，以及通过 npx 分发的 stdio MCP 服务器（17 个工具、7 个资源），可在 Claude Code、Codex、Cursor、VS Code 等 MCP 客户端中查询指南内容。指南采用 CC BY-SA 4.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 Start/Build/Scale/Resources 组织的多条角色化学习路径
-- 17 个工具与 7 个资源的 stdio MCP 服务器，支持从任意 MCP 客户端查询
-- 机器可读索引（llms.txt、reference.yaml）供 AI 助手检索
-- 提供 Agent、skill、hook、workflow 等可运行示例与模板
+- MCP 服务器形式分发指南（17 个工具、7 个资源、1 个 prompt）
+- 覆盖智能体工程、上下文工程、安全加固、企业治理与 AI FinOps 章节
+- 按角色（开发者/管理者/安全/PM）提供多条学习路径
+- 附可运行示例文件与 CLAUDE.md 模板
 
 ## 适用场景
 
-- 系统学习 Claude Code 的安装、上下文工程与工作流
-- 为团队制定安全加固与企业治理方案时查阅参考
-- 通过 MCP 服务器在编码客户端中直接检索指南内容
+- 系统学习 Claude Code 的智能体工作流与 hooks/skills/MCP 用法
+- 为团队制定 Claude Code 安全边界与治理规范
+- 在 IDE 编码客户端中通过 MCP 查询指南内容
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L16: Learn Claude Code, build reliable agents, and scale their use safely. The website is the primary reading and discov
 > L34: Claude Code documentation explains the product. This guide connects product behavior to engineering decisions: what
+> L237: ## MCP Server: Use the guide from any coding client
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `76f2ecd37c89` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1ba678077eec` · [字段定义](../../DATASET.md)*

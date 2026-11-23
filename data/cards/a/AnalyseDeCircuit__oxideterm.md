@@ -1,10 +1,10 @@
 # AnalyseDeCircuit/oxideterm
 
-⭐ 1,971 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [官网](https://oxideterm.app) · 组织维护 · 中文 README
+⭐ 1,971 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [官网](https://oxideterm.app) · 个人维护 · 中文 README
 
-**带 BYOK AI 助手的原生 SSH 客户端与远程运维工作台**
+**给运维和开发者的原生多协议远程工作区客户端**
 
-用 Rust+GPUI 编写的桌面 SSH 客户端与远程操作工作台，覆盖 SSH/Mosh/Telnet/Serial/RDP/VNC/SFTP、端口转发、tmux 控制模式、内置编辑器与主机监控，终端、文件、转发共享同一 SSH 连接池。AI 部分为可选的 OxideSens 助手：自带 API key 接入 OpenAI/Anthropic/Gemini/Ollama 或 OpenAI 兼容端点，支持 MCP、Agent Skills、本地 RAG（BM25+HNSW），动作需用户批准，发送前做凭据脱敏。SSH 栈为纯 Rust（russh+ring）。仅桌面端（macOS/Windows/Linux）。
+用 Rust 与 GPUI 构建的 SSH 客户端，覆盖 macOS、Windows 和 Linux，无 WebView 与遥测。每个服务器连接对应一个工作区，聚合终端、SFTP 文件管理、端口转发、远程 IDE、主机监控与远程桌面（RDP/VNC，插件形式）。支持从 ~/.ssh/config 及 SecureCRT、Xshell、Termius 等客户端导入连接，会话按组管理。AI 部分为可选的 OxideSens 助手，使用用户自选的供应商与 API key。以 GPL-3.0 开源，提供安装包下载。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 多协议会话：SSH/Mosh/Telnet/Serial/RDP/VNC/SFTP，多跳路由与 Grace Period 断线重连
-- OxideSens BYOK AI 助手：支持 OpenAI/Anthropic/Gemini/Ollama/兼容端点，MCP、本地 RAG、动作批准制
-- GPU 渲染原生界面（GPUI），无 Electron/WebView，SSH 栈为纯 Rust（russh+ring）
-- 三种插件路径（Manifest/WASM/Process）与独立 headless CLI
+- 单窗口工作区聚合终端、SFTP、端口转发、IDE 与主机监控
+- 原生 GPUI 渲染，空闲内存约 81 MB（macOS）/24 MB（Windows）
+- 纯 Rust SSH 栈（russh + ring），不依赖 OpenSSL/libssh2
+- 支持从 ~/.ssh/config 及 8 种其他客户端导入连接
 
 ## 适用场景
 
-- 在一个工作台里管理服务器的终端、文件传输、端口转发与远程桌面
-- 运维时让 AI 助手检查会话并执行经批准的操作
-- 跨平台本地优先使用 SSH，无需账号订阅与遥测
+- 用带断线恢复的 SSH 终端管理多台远程服务器
+- 在同一工作区内进行双栏 SFTP 传文件和远程代码编辑
+- 通过一键转发快速访问服务器上监听的服务端口
+- 自带 key 接入 AI 助手辅助操作
 
 ## 场景标签
 
@@ -37,9 +38,8 @@
 
 ## 证据(README 行号)
 
-> L5: **A free, native SSH client and remote operations workspace with a bring-your-own-key AI assistant.**
-> L28: 5. **Optional: turn on AI.** In Settings, add your own OpenAI, Anthropic, Gemini, Ollama, or OpenAI-compatible endp
-> L88: OxideSens is an optional assistant that can inspect your live sessions and perform workspace actions **only after y
+> L28: OxideTerm is an SSH client for macOS, Windows and Linux. Each server you connect to gets its own workspace in one w
+> L35: - **Bring your own AI.** The OxideSens assistant runs on the provider and API key you choose. There are no OxideTer
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4f2588e38c75` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b751cbf19699` · [字段定义](../../DATASET.md)*

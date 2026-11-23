@@ -2,9 +2,9 @@
 
 ⭐ 1,907 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sgl-project/sglang-omni) · [官网](https://sgl-project.github.io/sglang-omni/) · 组织维护
 
-**语音与全模态模型的推理服务运行时框架**
+**面向语音/全模态模型的多阶段高性能推理服务运行时**
 
-面向 omni、语音与 TTS 模型的多阶段推理服务运行时：将生成过程拆分为预处理、编码器、自回归引擎、解码器、声码器等阶段，各阶段由匹配负载的调度器运行，控制面协调请求、中继数据面经共享内存/NCCL/NIXL/Mooncake 传输张量。对外提供 OpenAI 兼容端点（多模态聊天、语音生成、批量/流式语音、转写），并组合 SGLang 执行自回归调度。服务模型覆盖 Qwen3-Omni/TTS/ASR、MOSS-TTS、Higgs Audio v3、MiniMax Music 3 等，另含多 worker 路由器。后端支持 NVIDIA CUDA（默认）、Apple Silicon（实验）、Intel XPU（实验）。
+SGLang-Omni 是一个多阶段服务运行时，用于部署 omni、语音与 TTS 模型：将生成过程拆分为预处理、编码器、自回归引擎、talker、解码器、声码器等阶段，由各阶段专属调度器协调，并通过共享内存、NCCL、NIXL、Mooncake 等后端传输张量数据。对外提供 OpenAI 兼容端点，覆盖多模态对话、全双工实时会话、TTS、ASR 转写、说话人分离、语音翻译与音乐生成。需要时可与 SGLang 组合完成自回归调度与模型执行。支持 NVIDIA CUDA（默认）、Intel GPU 与实验性的 Apple Silicon。
 
 ## 筛选速览
 
@@ -16,29 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多阶段解码运行时：阶段化调度与传输感知执行
-- OpenAI 兼容端点：语音生成、批量/流式、上传音色、转写
-- 多 worker OpenAI 兼容 Router（健康、能力发现）
-- 支持 NVIDIA CUDA / Apple Silicon / Intel XPU 三类后端
+- 多阶段运行时：管线拓扑、阶段生命周期与跨阶段传输管理
+- OpenAI 兼容端点覆盖聊天、TTS、ASR、实时语音等接口
+- 支持 CUDA、Intel XPU 与实验性 Apple Silicon 后端
+- 级联语音助手：ASR→LLM→TTS 组合为流式对话
 
 ## 适用场景
 
-- 部署 TTS/ASR/全模态模型并对外提供 OpenAI 兼容 API
-- 本地运行 Qwen3-ASR 等语音识别与转写（含说话人分离）
-- 多卡/多 worker 场景下做语音模型生产部署
+- 部署 Qwen3-Omni、MiniCPM-o 等全模态模型的推理服务
+- 搭建支持打断与轮次切换的实时语音助手
+- 提供批量与流式 TTS、ASR 转写 API 服务
+- 在 Intel Arc GPU 上端到端运行语音模型
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`语音 Agent` `语音合成` `语音识别` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L32: SGLang-Omni is a multi-stage serving runtime for omni, speech, and TTS models. Its design target is multi-stage dec
-> L37: - **API surface**: OpenAI-compatible endpoints expose multimodal chat, speech generation, batch speech, streaming s
+> L38: SGLang-Omni is a multi-stage serving runtime for omni, speech, and TTS models. Its design target is multi-stage dec
+> L43: - **API surface**: OpenAI-compatible endpoints expose multimodal chat, speech generation, batch speech, streaming s
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `673212fefd99` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `84f6f58b6113` · [字段定义](../../DATASET.md)*

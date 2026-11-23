@@ -2,9 +2,9 @@
 
 ⭐ 1,569 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openai/openai-java) · 组织维护
 
-**OpenAI API 官方 Java SDK：在 Java 应用中调用 OpenAI REST API**
+**Java 应用访问 OpenAI REST API 的官方 SDK**
 
-OpenAI 官方维护的 Java 库，封装对 OpenAI REST API 的访问：通过 Responses API 与 Chat Completions API 生成文本，支持流式响应、异步客户端、结构化输出（从 Java 类自动派生 JSON schema 并反序列化为实例）。客户端可通过系统属性、环境变量或代码配置，支持工作负载身份认证（Kubernetes/Azure/GCP 短期令牌、X.509 客户端证书）。另提供可选 openai-java-bedrock 构件，以 AWS 凭证调用 Amazon Bedrock 上的 OpenAI 兼容 API。要求 Java 8+。
+由 OpenAI 维护的 Java SDK，供 Java 应用调用 OpenAI REST API。以 Gradle/Maven 依赖发布到 Maven Central，要求 Java 8 及以上。主要接口为 Responses API，同时支持 Chat Completions API；提供同步/异步客户端、SSE 流式响应与流式累积辅助类、JSON schema 结构化输出。支持系统属性/环境变量/手动三种客户端配置方式，并内置 Kubernetes、Azure、GCP 等云环境的工作负载身份认证与 X.509 客户端证书认证。另提供可选的 openai-java-bedrock 构件接入 Amazon Bedrock 上的 OpenAI 兼容 API。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@ OpenAI 官方维护的 Java 库，封装对 OpenAI REST API 的访问：通过 R
 
 ## 能力要点
 
-- Responses API 与 Chat Completions API 文本生成，支持流式与异步客户端
-- 结构化输出：从任意 Java 类自动派生 JSON schema 并反序列化响应
-- 工作负载身份认证（K8s/Azure/GCP 令牌、X.509 证书）替代长期 API key
-- 可选 openai-java-bedrock 构件访问 Amazon Bedrock 的 OpenAI 兼容 API
+- 支持 Responses API 与 Chat Completions API 生成文本
+- 同步与异步客户端、SSE 流式响应及流式累积辅助类
+- 内置云环境工作负载身份认证（Kubernetes/Azure/GCP）与 X.509 证书认证
+- 可选 openai-java-bedrock 构件，用 AWS 凭证调用 Bedrock 上的 OpenAI 兼容 API
 
 ## 适用场景
 
-- 在 Java 服务中集成 OpenAI 模型的文本生成能力
-- 用自定义 baseUrl 接入 OpenAI 兼容的第三方或本地推理端点
-- 企业云环境中用短期工作负载凭证替代长期 API key
+- 在 Java 后端服务中接入 OpenAI API 生成文本
+- 需要流式输出或结构化 JSON 输出的 Java 应用
+- 在 Kubernetes/Azure/GCP 云环境中用短期令牌替代长期 API key 认证
+- 通过 AWS 凭证调用 Amazon Bedrock 上的 OpenAI 兼容模型
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+ · 领域:LLM 基础设施/API SDK
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `28ba768b4d86` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b817e4461f9a` · [字段定义](../../DATASET.md)*

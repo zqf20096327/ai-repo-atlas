@@ -2,9 +2,9 @@
 
 ⭐ 1,675 · Elixir · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/elixir-nx/bumblebee) · 组织维护
 
-**Elixir 预训练神经网络库：加载 Hugging Face 模型执行 ML 任务**
+**Elixir 预训练模型库：数行代码加载并运行 HF 模型任务**
 
-基于 Axon 的 Elixir 库，集成 Hugging Face Models，可下载预训练模型并通过少量代码执行机器学习任务。提供 load_model/load_tokenizer 接口与 serving 式端到端 pipeline；需模型架构在 Bumblebee 中有实现方可加载，tokenizer 仅支持 Rust 实现的 fast tokenizer（tokenizer.json）。搭配 EXLA 可在 CPU/GPU 上即时编译运行（需设置 XLA_TARGET），另有 Livebook Smart Cells 与 Phoenix 示例。
+构建在 Axon 之上的 Elixir 预训练神经网络模型库，集成 Hugging Face Hub，可加载 Transformers 格式模型并按需导入参数；通过 Nx/EXLA 后端在 CPU/GPU 上即时编译运行，并以 serving 管道形式提供端到端任务执行。要求模型类型在库内有实现方可加载，tokenizer 依赖 tokenizer.json 文件（缺省时可从原模型仓库查找或转换生成）。通过 mix.exs 依赖或 Mix.install 安装，另提供 Phoenix 应用单文件示例与 Livebook Smart Cells 入门路径。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 从 Hugging Face Hub 下载 Transformers 格式模型参数并构建对应 Axon 模型
-- serving 形式的端到端任务 pipeline 高层 API
-- 支持 PyTorch (.bin) 与 Safetensors 参数格式，不支持 Flax/TensorFlow 格式
-- tokenizer 依赖 Rust Tokenizers 绑定，仅支持 fast tokenizer 文件
+- 从 Hugging Face Hub 加载 Transformers 格式模型并配对参数
+- serving 管道形式执行任务（加载→建模型→推理）
+- EXLA 后端支持 CPU/GPU 即时编译运行
+- 支持 PyTorch .bin 与 Safetensors 参数格式
 
 ## 适用场景
 
-- 在 Elixir/Phoenix 应用中直接运行 BERT 等预训练模型
-- 通过 Livebook Smart Cells 快速尝试神经网络任务
-- 将 Hugging Face 上的模型导入 Elixir 生态部署
+- 在 Elixir/Phoenix 应用中接入预训练模型完成 ML 任务
+- 用 Livebook Smart Cells 快速搭建模型实验
+- 加载自有 Transformers 格式微调模型到 Elixir 运行时
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L6: Bumblebee provides pre-trained Neural Network models on top of Axon. It includes integration with 🤗 Models, allowing
 > L69: Model repositories are regular Git repositories, therefore they can store arbitrary files. However, most repositori
+> L61: We load the BERT model from Hugging Face Hub, then plug it into an end-to-end pipeline in the form of "serving", fi
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c5931a693171` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4d3c35187910` · [字段定义](../../DATASET.md)*

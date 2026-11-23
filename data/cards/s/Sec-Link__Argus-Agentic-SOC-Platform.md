@@ -2,9 +2,9 @@
 
 ⭐ 1,282 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Sec-Link/Argus-Agentic-SOC-Platform) · [官网](https://siem.seclink.info) · 组织维护 · 中文 README
 
-**开源 AI 原生 Agentic SOC 平台，覆盖告警、工单、CMDB 与自动化**
+**开源 AI 原生 Agentic SOC 安全运营平台**
 
-面向安全运营团队的开源 SOC 平台：整合告警接入与检索、工单管理、CMDB 资产管理、仪表盘、关联规则、工作流编排等核心 SOC 对象，并内置面向安全的 AI 助手（对话界面、MCP 风格工具注册表与 JSON-RPC 连接器、工单上下文查询、相似案例检索、可观察项抽取）。架构松耦合、API 优先，可整体部署或集成进既有 SOC 生态。技术栈为 Next.js 15 前端 + Django/DRF 后端 + PostgreSQL（可选 Elasticsearch），提供 Docker Compose 与 Kubernetes 部署清单。
+面向安全运营中心场景的开源平台，可整体部署为完整 SOC 平台，也可通过松耦合 API-first 架构接入既有安全生态。功能覆盖告警接入与管理、工单生命周期、CMDB 资产上下文、关联检测规则（Sigma）、工作流自动化编排，以及内置 AI 助手（对话式分析、MCP 工具注册与 JSON-RPC 连接、工单上下文查询与相似案例检索）。前端 Next.js，后端 Django + DRF，PostgreSQL 为主存储，支持 Docker Compose 与 Kubernetes 部署。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 统一 SOC 能力：告警、工单、CMDB、仪表盘、关联规则、工作流编排
-- 内置 AI 助手：MCP 风格工具注册表与 JSON-RPC 连接器
-- 开箱即用检测用例与 Sigma 规则（一次编写、随处运行）
-- 提供 docker-compose（dev/prod）与 K8s 部署清单
+- 内置 AI 助手：MCP 风格工具注册与 JSON-RPC 连接、工单上下文查询与相似案例检索
+- 松耦合 API-first 架构，可扩展并接入既有 SOC 生态
+- Sigma 规则检测即代码、规则版本化与关联分析
+- 工作流编排、定时执行与审计日志
 
 ## 适用场景
 
-- 作为完整 SOC 平台部署，统一管理告警与工单
-- 把平台集成进既有安全运营生态（API 优先架构）
-- 通过 AI 助手做工单上下文查询与相似案例检索
-- 用 Detection-as-code 与 Sigma 规则管理检测逻辑
+- 集中管理告警、工单与资产上下文的安全运营
+- 将告警处置流程编排为自动化工作流
+- 通过 AI 助手在工单上下文中做调查分析
+- 编写 Sigma 检测规则并统一运行
 
 ## 场景标签
 
-`网络安全` `工作流自动化` · 领域:效率与自动化
+`工作流自动化` `AI 助手` `网络安全` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L22: - ✅AI-powered Investigation
+> L17: **Argus** is an open-source **AI-native Agentic SOC platform** designed for modern security operations.
 > L45: - **AI Assistant**: security-focused intelligent analysis and MCP tool integration
-> L67: ### AI Features
+> L28: At the same time, Argus is built with a **loosely coupled and API-first architecture**, allowing organizations to:
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `7a40178aa4a1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b2468c41e382` · [字段定义](../../DATASET.md)*

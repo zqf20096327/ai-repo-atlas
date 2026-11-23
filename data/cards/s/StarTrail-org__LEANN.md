@@ -1,45 +1,46 @@
 # StarTrail-org/LEANN
 
-⭐ 13,808 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/StarTrail-org/LEANN) · [官网](https://arxiv.org/abs/2506.08276) · 组织维护
+⭐ 13,808 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/StarTrail-org/LEANN) · [官网](https://arxiv.org/abs/2506.08276) · 组织维护 · 中文 README
 
-**本地优先的轻量向量数据库与 RAG 框架，索引个人数据**
+**本地 RAG 向量数据库：在个人设备上省 97% 存储做检索问答**
 
-LEANN 是面向个人设备的向量数据库与 RAG 系统，通过图结构选择性重计算与保高度剪枝，按需计算嵌入向量而非全部存储，README 称以约 97% 更少存储（60M 文本块索引 6GB）索引并检索个人数据（文件、邮件、浏览器历史、微信/iMessage 聊天、代码库、MCP 实时数据）。提供声明式 Python API（LeannBuilder/LeannSearcher/LeannChat）与 CLI，支持 OpenAI 兼容接口接入多种 LLM/嵌入提供商，含 Ollama 等本地推理引擎，可作为 Claude Code 的语义搜索 MCP 服务。源码构建需安装 libomp、boost 等系统依赖。
+LEANN 是一个向量数据库与 RAG 工具库，通过图结构选择性重算嵌入（按需计算而非全量存储）实现约 97% 的存储节省。提供 LeannBuilder/LeannSearcher/LeannChat 的 Python API 与 CLI，可对文件系统、邮件、浏览器历史、聊天记录、代码库等数据源建索并进行语义检索与问答，生成端可接 Ollama、OpenAI 兼容端点等多种 LLM 提供方。另可作为 MCP 服务接入 Claude Code 做语义检索。提供 PyPI 安装与多平台源码构建说明，macOS 预编译 wheel 要求 macOS 15+。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 图结构选择性重计算按需计算嵌入，替代全量嵌入存储
-- 支持个人数据源（邮件/浏览器历史/微信/iMessage/agent 记忆/MCP 实时数据）RAG
-- 兼容 OpenAI API 格式的 LLM 与嵌入提供商，支持 Ollama/vLLM 等本地引擎
-- 可作为 Claude Code 的语义搜索 MCP 服务
+- 图结构选择性重算，按需计算嵌入实现约 97% 存储节省
+- 支持对文件、邮件、微信/iMessage、浏览器历史、代码库等数据源建索引
+- 通过 OpenAI 兼容格式接入 Ollama/vLLM/llama.cpp 等本地推理引擎与多家云服务
+- 提供 MCP 服务形态，兼容 Claude Code 做语义检索
 
 ## 适用场景
 
-- 在笔记本上对个人文件与聊天记录做本地语义搜索问答
-- 为编程 agent 提供代码库语义检索的 MCP 服务
-- 在无云端依赖的隐私要求下运行 RAG 应用
+- 在笔记本上对个人文件与聊天记录做本地语义搜索和问答
+- 给 Claude Code 加装语义检索 MCP 服务替代关键词搜索
+- 构建不联网、数据不出本机的私有 RAG 应用
+- 在代码库上为编码 agent 提供相关代码检索
 
 ## 场景标签
 
-`向量数据库` `RAG` `语义搜索` · 领域:知识与检索
+`RAG` `向量数据库` `语义搜索` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
+> L30:  The smallest vector index in the world. RAG Everything with LEANN!
 > L32: LEANN is an innovative vector database that democratizes personal AI. Transform your laptop into a powerful RAG sys
-> L169: from leann import LeannBuilder, LeannSearcher, LeannChat
-> L183: LEANN supports many LLM providers for text generation (HuggingFace, Ollama, Anthropic, and Any OpenAI compatible A
+> L36: **Ready to RAG Everything?** Transform your laptop into a personal AI assistant that can semantic search your **fil
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `6297b8ab92a4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `fda8cedf37eb` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,298 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/legeling/awesome-codex-pet) · [官网](https://codexpet.top) · 个人维护 · 中文 README
 
-**社区 Codex 桌宠策展目录：351 个像素宠物包，一键安装**
+**给 Codex 用户安装社区像素桌宠的画廊目录**
 
-codexpet.top 背后的宠物资源源目录仓库：收录 351 个社区制作的 Codex 桌宠包（含精灵图、元数据与创作者署名），按游戏角色、动漫角色、原创角色、吉祥物等分类组织，提供 npx 一条命令安装（macOS/Linux/Windows 通用，无需克隆仓库），安装器校验 manifest 与 SHA-256 哈希。宠物资产遵循 CC BY-NC 4.0，代码为 MIT。贡献者可借助 Codex 创建、修复并提交宠物；Codex 内置 v1→v2 的 AI 辅助升级流程，生成 16 方向注视动画图集。
+社区制作的 Codex 宠物资源目录，收录 386 个宠物、11 个分类（游戏角色/动漫角色/原创角色等），每个宠物以 pets/<slug>/ 目录打包（submission.json + pet.json + spritesheet.webp）。通过 npx @legeling/codex-pet 一条命令安装，无需克隆仓库；安装时校验清单与 SHA-256 哈希、先暂存后激活，默认写入 ~/.codex/pets/。宠物分 v1/v2 两版图集规格，v2 支持朝向观看动画；代码 MIT、素材 CC BY-NC 4.0。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ codexpet.top 背后的宠物资源源目录仓库：收录 351 个社区制作�
 
 ## 能力要点
 
-- 351 个宠物包、11 种语言命名，npx 一条命令跨平台安装
-- 安装器验证 manifest 与 SHA-256，支持版本固定与可复现安装
-- v1/v2 两种精灵图版本，v2 含 16 方向注视动画
-- 支持无制图技能的角色请求，由社区志愿者认领制作
+- 386 个宠物、11 类目录，带动画预览与创作者署名
+- npx 一条命令安装，跨 macOS/Linux/Windows，含哈希校验
+- v2 图集规格支持 16 个朝向的观看动画
+- 免费角色点单：提交角色由社区贡献者志愿制作
 
 ## 适用场景
 
-- 给 Codex 挑选并一键安装喜欢的桌宠
-- 提交角色请求让社区志愿者代做宠物
-- 作为贡献者借助 Codex 制作并提交桌宠包
+- 为 Codex CLI 换一个喜欢的像素桌宠
+- 不克隆仓库直接按宠物 ID 安装
+- 提交新角色给社区贡献者志愿制作
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ codexpet.top 背后的宠物资源源目录仓库：收录 351 个社区制作�
 
 ## 证据(README 行号)
 
-> L13: pets: 351 categories: 11 languages: en | zh--CN | ko | ja | es code: MIT assets: CC BY--NC 4.0 install: one command
-> L15: This repository is the source catalog behind codexpet.top: it keeps installable pet packages, creator attribution, 
-> L19: - **One-command install** — no clone, no manual setup, works on macOS / Linux / Windows
+> L7:  Awesome Codex Pet is a free community pet gallery. Browse complete animations like a pet store, install a favorite 
+> L13: pets: 386 categories: 11 languages: en | zh--CN | ko | ja | es code: MIT assets: CC BY--NC 4.0 install: one command
+> L22: - **AI-first contributions** — contributors can create, repair, and submit pets with Codex; advanced contributors c
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `91c605d25ec0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `e085dea8a445` · [字段定义](../../DATASET.md)*

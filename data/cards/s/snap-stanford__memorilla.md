@@ -2,9 +2,9 @@
 
 ⭐ 1,576 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/snap-stanford/memorilla) · [官网](https://memory.stanford.edu) · 组织维护
 
-**给冻结 LLM 的隐式语义记忆系统：文档集压缩为 16 个记忆 token**
+**面向 LLM 的潜在语义记忆系统：把文档集合压缩为 16 个记忆 token**
 
-基于同名论文的研究代码库：训练一个记忆模块，将整个文档集合（如用户历史对话、长书）压缩为固定数量（默认 16 个）的查询相关记忆 token，交给冻结的 LM（如 Qwen3-8B）使用，从而突破上下文窗口限制。支持三阶段训练、八个基准评测、自有数据训练、个性化基准 PersonalizationV4，以及在 TextWorld 上用 GRPO 做强化学习。需要 Linux + CUDA GPU（配方在 4×H100 80GB 上运行），通过 uv 从源码安装，检查点发布于 Hugging Face。
+提供训练与评估代码的研究项目：训练一个记忆模块，将整份文档集合编码为固定数量的查询相关记忆 token，供冻结 LLM 使用；官方支持 Qwen3-8B 解码器与 Qwen3-Embedding-4B 编码器，基于 vLLM 推理，提供记忆缓存、TextWorld 上的 GRPO 强化学习训练（SkyRL fork）与自定义 parquet 数据训练接口。需要 Linux + CUDA GPU，配方在 H100 80GB 上运行；另发布 PersonaMem-v2 与 PersonalizationV4 基准。Apache-2.0 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 将文档集压缩为 16 个查询相关记忆 token 供冻结 LLM 使用
-- 提供三阶段训练配方与 8 个基准评测脚本
-- 支持自有 parquet 数据无改码训练评估
-- 记忆模块可在 TextWorld 上以 GRPO 强化学习训练
+- 将整份文档集合压缩为 16 个查询相关记忆 token 输入冻结 LLM
+- 提供记忆缓存：问题查询时只需对缓存的 cross-attention KV 做 attention
+- 支持 TextWorld 文本冒险上的 GRPO 强化学习（SkyRL-Memorilla fork）
+- 支持自定义问答数据集训练，无需改代码
 
 ## 适用场景
 
-- 让 LLM 利用远超上下文窗口的个人历史对话回答问题
-- 压缩长文档（书、剧本）以低成本问答
-- 为强化学习 agent 提供可训练记忆并从奖励中学习
+- 让助手基于用户历史 107 段对话回答偏好类问题
+- 长文档/书籍问答时压缩上下文降低推理延迟
+- 训练 agent 从自身交互历史持续学习
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`RAG` `强化学习` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L8: This repository provides code for training and evaluating Memorilla, a memory system that gathers information from a
-> L9: entire document collection into a fixed number of query-dependent memory tokens for a frozen LLM. The code is based 
-> L12: A frozen LLM can only use what fits in its context window, so Memorilla reads an entire document collection, such a
+> L14: This repository provides code for training and evaluating Memorilla, a memory system that gathers information from 
+> L30: Memorilla needs Linux with CUDA GPUs and Python 3.11; the recipes were run on NVIDIA H100 80GB GPUs. Install it wit
+> L191: Memorilla can also serve as the memory of an agent and learn from reward alone. `rl/` trains the
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `b9324685fe08` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `bd2a25b98727` · [字段定义](../../DATASET.md)*

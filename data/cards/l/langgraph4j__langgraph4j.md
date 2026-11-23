@@ -1,10 +1,10 @@
 # langgraph4j/langgraph4j
 
-⭐ 2,119 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/langgraph4j/langgraph4j) · [官网](https://langgraph4j.github.io/langgraph4j/) · 个人维护
+⭐ 2,119 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/langgraph4j/langgraph4j) · [官网](https://langgraph4j.github.io/langgraph4j/) · 组织维护
 
-**Java 版 LangGraph：用有环图构建有状态多 Agent 应用**
+**Java 版有状态多 Agent 图编排库，构建 LLM 智能体应用**
 
-受 Python LangGraph 启发的 Java 库，用于构建有状态、多 Agent 的 LLM 应用，设计为与 Langchain4j 和 Spring AI 配合使用。核心机制：StateGraph 定义节点与边，支持有环图、条件路由、共享状态与 Reducer；可编译为可运行的 CompiledGraph，以 stream/invoke 执行；提供 CheckpointSaver 持久化（MySQL/PostgreSQL/Redis/MongoDB 模块）、PlantUML/Mermaid 图可视化，以及可嵌入的 Studio Web UI。要求 Java 17+，1.8.x 为 LTS 分支，1.9.x 含实验特性。
+LangGraph4j 是一个 Java 库，用于构建基于 LLM 的有状态多智能体应用，设计上与 Langchain4j 和 Spring AI 框架协作。核心机制：StateGraph 定义节点与边（支持条件边与循环图）、AgentState 共享状态与 reducer 更新规则、编译为不可变的 CompiledGraph 运行，支持同步/异步、流式输出、Checkpoint 持久化（内存/MySQL/PostgreSQL/Redis/MongoDB/文件）、PlantUML/Mermaid 图可视化及 Studio Web 调试界面。发行线 1.9.x 为 Java 17+，1.8.x 分支提供 LTS 维护。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 支持有环图与条件路由的有状态执行模型
-- Checkpoint 持久化（内存/MySQL/PostgreSQL/Redis/MongoDB saver 模块）
-- PlantUML/Mermaid 图可视化与可嵌入 Studio Web UI
-- 与 Langchain4j 和 Spring AI 集成
+- 支持循环图与条件边的有状态 Agent 编排
+- Checkpoint 持久化支持 MySQL/PostgreSQL/Redis/MongoDB/文件等后端
+- Studio Web UI 可视化检查、运行与调试图
+- 与 Langchain4j 和 Spring AI 框架集成
 
 ## 适用场景
 
-- 在 Java 生态中构建带记忆与循环控制的 Agent 工作流
-- 长时运行 Agent 流程的检查点保存与恢复
-- 可视化调试与检视 Agent 图结构
+- 在 Java/Spring 项目中构建多 Agent 协作工作流
+- 需要检查点恢复的长时运行 Agent 流程
+- 通过可视化 Studio 调试 Agent 图结构
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5bef95103bd8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c3b4333e216f` · [字段定义](../../DATASET.md)*

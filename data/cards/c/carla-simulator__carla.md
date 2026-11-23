@@ -2,15 +2,15 @@
 
 ⭐ 14,676 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/carla-simulator/carla) · [官网](http://carla.org) · 组织维护
 
-**开源自动驾驶研究仿真器，支持系统开发、训练与验证**
+**自动驾驶研究开源仿真器：训练、验证驾驶系统**
 
-基于 Unreal Engine 的开源自动驾驶仿真平台，提供开放数字资产（城市布局、建筑、车辆）、可配置的传感器套件与环境条件，配套 Python API、ROS 桥接、排行榜与基准测试等生态仓库。当前 README 对应 UE 5.8 开发分支（ue58-dev），与 UE 4.26 分支并行且差异显著。构建需先获取 CARLA 定制的 Unreal Engine 5.8 fork（需绑定 Epic Games 账号），经 CarlaSetup 脚本与 cmake 编译，或经官网下载页获取打包版本。推荐 32GB 内存与 RTX 3070 级以上显卡，仅支持 Ubuntu 22.04/24.04 或 Windows 11。
+CARLA 是面向自动驾驶研究的开源仿真平台，从底层设计用于自动驾驶系统的开发、训练与验证。提供开源数字资产（城市布局、建筑、车辆）并支持灵活配置传感器套件与环境条件。围绕平台有排行榜、Scenario_Runner、ROS-bridge、Driving-benchmarks 等生态仓库。本分支为 UE5.8 版（与 UE4.26 版并行维护），需链接 Epic Games 账户获取 Unreal Engine fork 后从源码构建，Linux/Windows 均给出配置与重建命令；代码 MIT 许可，资产 CC-BY 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,20 +27,21 @@
 
 ## 能力要点
 
-- 提供城市布局、建筑、车辆等开放数字资产
-- 支持传感器套组与环境条件的灵活配置
-- 配套 Python API、ROS-bridge、排行榜与基准工具等生态仓库
-- 有 CoRL'17 论文可引用
+- 开源代码、协议与可自由使用的数字资产（城市布局、建筑、车辆）
+- 支持灵活指定传感器套件与环境条件
+- 生态含自动驾驶排行榜、Scenario_Runner、ROS-bridge、基准工具
+- 提供 Python API 并可随构建安装
 
 ## 适用场景
 
-- 自动驾驶系统（含模仿学习/强化学习模型）的训练与验证
-- 交通场景执行与自动驾驶排行榜评测
-- 与 ROS/AutoWare 栈联动的仿真测试
+- 训练与验证自动驾驶算法栈
+- 在仿真中运行条件模仿学习/强化学习模型
+- 通过 ROS-bridge 或 AutoWare 桥接接入机器人系统
+- 生成交通场景做基准测试
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型评测` `强化学习` `科研工具` · 领域:评测与运维
 
 ## 证据(README 行号)
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `65524ccf7b8b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `136d002f3c77` · [字段定义](../../DATASET.md)*

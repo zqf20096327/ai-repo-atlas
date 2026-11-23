@@ -2,9 +2,9 @@
 
 ⭐ 1,377 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zanllp/infinite-image-browsing) · 个人维护 · 中文 README
 
-**面向 AI 绘图用户的图片/视频管理与语义搜索应用**
+**面向 AI 生成图的本地管理与语义搜索工具**
 
-图片/视频浏览管理应用，可读取 SD-webui、ComfyUI、Fooocus、NovelAI、StableSwarmUI、Invoke.AI 等软件生成的图片元数据，将 prompt、模型、Lora 转为标签做精确/模糊/类 Google 高级搜索。支持 SD-webui 扩展、独立 Python 运行、桌面版与 iframe 嵌入四种形态。AI 部分为基于 embedding 的语义聚类整理（Smart Organize）与自然语言检索，需配置 OPENAI_BASE_URL/OPENAI_API_KEY 与 numpy、hnswlib 依赖。
+IIB 是一个图片/视频管理应用，支持以 SD-webui 扩展、独立 Python 程序、桌面安装包或嵌入库四种方式运行。读取 Stable Diffusion web UI、ComfyUI、Fooocus、NovelAI、StableSwarmUI 等工具生成的元数据，提供标签/模糊/高级搜索、缩略图缓存、全屏预览、文件操作、批量下载与贡献热力图统计。Smart Organize 功能基于 embeddings 对图像做语义聚类并生成文件夹名，需配置 OPENAI_BASE_URL/OPENAI_API_KEY 及 numpy、hnswlib，且操作前可预览确认。
 
 ## 筛选速览
 
@@ -12,35 +12,35 @@
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 读取多种 AI 绘图软件的元数据并转为可搜索标签
-- 基于 embedding 的语义聚类整理与 AI 生成文件夹名
-- SD-webui 扩展/独立 Python/桌面版/iframe 库四种使用形态
-- 文件树浏览、多选操作、批量下载、Walk 模式（27,000+ 文件测试）
+- 读取 SD-webui/ComfyUI/Fooocus/NovelAI/StableSwarmUI/Invoke.AI 等工具的生成元数据
+- Smart Organize 基于语义聚类自动整理并生成文件夹名，操作前可预览
+- 支持标签搜索、自动翻译、模糊搜索与自定义搜索路径
+- 提供 SD-webui 扩展、独立运行、桌面安装包与 iframe 库四种使用方式
 
 ## 适用场景
 
-- 管理和检索 SD-webui/ComfyUI 等生成的大量图片
-- 按 prompt 语义自动聚类整理图片到文件夹
-- 用自然语言检索自己的图片库
-- 通过 iframe 嵌入自己的应用作为文件浏览器
+- 管理本地 AI 绘图工具生成的大量图片并按元数据检索
+- 按语义自动归类整理生成图片文件夹
+- 在远程服务器上浏览和预览图片/视频
+- 作为嵌入组件为其他应用提供文件浏览能力
 
 ## 场景标签
 
-`语义搜索` `图像视频处理` · 领域:知识与检索
+`语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L12: |Stable Diffusion web UI|Supported|Built-in|
-> L91: - **Semantic Clustering**: Automatically groups similar images based on prompt semantics using AI embeddings
-> L97: > **Requirements**: Same as Topic Search - requires `OPENAI_BASE_URL`, `OPENAI_API_KEY`, and Python dependencies `n
+> L50: - You can install it as an extension on SD-webui.
+> L89: AI-powered automatic file organization
+> L172: IIB can be used with AI agents like Claude Code, Cursor, and OpenClaw. See AI Agents Documentation for details.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `26bc649488f2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `18bddf30ea2e` · [字段定义](../../DATASET.md)*

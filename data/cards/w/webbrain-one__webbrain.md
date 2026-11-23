@@ -2,9 +2,9 @@
 
 ⭐ 1,750 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/webbrain-one/webbrain) · [官网](https://webbrain.one) · 组织维护 · 中文 README
 
-**浏览器侧边栏 AI agent 扩展：对话操作网页与多步任务**
+**浏览器扩展型 AI agent：读页、问答与多步任务自动化**
 
-面向终端用户的 Chrome/Firefox/Edge 浏览器扩展，在侧边栏中提供 AI agent：可读取页面（经无障碍树）、回答问题，并以点击、输入、导航等方式执行浏览器任务。支持三档模式（Ask 只读、Act 操作、Dev 含页面源码与调试），提供计划审批、最多 195 步的多步 agent 循环、可保存/复用的工作流、定时任务与页面监控（/schedule、/watch）及斜杠命令集。模型可选本地 llama.cpp/Ollama/vLLM 等 OpenAI 兼容服务器，或 OpenAI、Anthropic、Gemini 等云 API，共 112 张内置 provider 卡。限制：Firefox 版因缺少 DevTools 协议等价物，无 shadow-DOM 穿透与 CDP 截图等功能。
+WebBrain 是面向 Chrome、Firefox、Edge 的开源浏览器扩展，在侧边栏提供 AI agent：读取当前页面文本、链接、表单、PDF（经可访问性树），并可点击、输入、导航、上传下载，以 Ask/Act/Dev 三种模式限制 agent 权限。支持 Ask/Act/Dev 三种模式控制权限、Vision 截图模式、最多 195 步的多步工具循环、可复用工作流、定时与轮询任务、技能系统、分标签页对话与本地记忆。模型可自选：托管默认模型、125 张内置云端 provider 卡，或指向任意 OpenAI 兼容的本地服务器（llama.cpp/Ollama/vLLM 等）。安装来自三家应用商店或源码加载；Firefox 永久安装需签名。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 经无障碍树读取页面（文本/链接/表格/PDF），Act 模式执行点击/输入/上传/下载
-- Plan-before-Act 计划审批、最多 195 步的多步 agent 循环
-- 工作流保存/复用、/schedule 定时任务、/watch 页面条件监控
-- 支持本地 llama.cpp/Ollama/vLLM 及 OpenAI/Anthropic/Gemini 等 112 张 provider 卡
+- Ask/Act/Dev 三模式控制 agent 权限，提供结构化 Act 前置计划审批
+- 多步 agent 循环上限可配（默认 130 步，最大 195 步），支持保存与复用工作流
+- 经可访问性树读取页面，Vision 模式按截图坐标操作
+- 内置 125 张 provider 卡（Chromium），并支持 llama.cpp/Ollama/vLLM 等本地服务器与桌面端 Companion 应用
 
 ## 适用场景
 
-- 在侧边栏里让 AI 总结当前页面或查找页面信息
-- 用自然语言让 agent 代填表单、搜索、下载等浏览器操作
-- 把成功运行保存为可复用工作流，或定时/监控页面条件触发任务
-- 接入本地 Ollama/llama.cpp 模型，在不发 API key 的情况下使用
+- 在浏览器里对当前页面提问、总结、提取链接
+- 让 agent 代为填表、点击、跨页执行多步流程
+- 用本地模型跑一个不依赖云 API 的浏览器 agent
+- 定时/轮询监控页面变化并自动执行动作
 
 ## 场景标签
 
-`浏览器自动化` `AI 助手` · 领域:效率与自动化
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L5:  Open-source AI browser agent for chatting with pages, automating tasks, and running multi-step workflows with your 
-> L21: WebBrain is a web browser extension that puts an AI agent in a side panel next to
-> L109: **Cloud APIs** — OpenAI, Anthropic Claude, Google Gemini, Azure OpenAI, AWS
+> L24: WebBrain is a web browser extension that puts an AI agent in a side panel next to
+> L153: - **Multi-step agent** — autonomous tool-use loop, configurable up to 195 steps
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `7cb9d86b2486` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `d3a9deff9953` · [字段定义](../../DATASET.md)*

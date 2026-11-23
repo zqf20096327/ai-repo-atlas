@@ -2,9 +2,9 @@
 
 ⭐ 2,333 · TypeScript · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/anthropics/cwc-workshops) · 组织维护
 
-**Anthropic 官方 Code with Claude 工作坊材料合集**
+**Anthropic Code with Claude 工作坊教程材料合集**
 
-Anthropic 举办的 Code with Claude 系列工作坊的教学材料仓库，含 9 个独立工作坊目录：模型选型与评测扫描、多智能体拆解、AI 辅助产品工作流、托管 Agent 构建、Agent 对抗赛、记忆机制、评测驱动开发、M&A 多智能体研究与 SEC 研究台等，均围绕 Claude Code、Skills、MCP 与 Claude Managed Agents 展开。仓库声明不再维护且不接受贡献，采用 Apache 2.0 许可，未提供安装说明。
+Anthropic 主办的 Code with Claude 工作坊材料仓库，含 9 个工作坊目录，覆盖模型选型评估、多 Agent 系统组合、Claude Code 工作流、Managed Agent 构建、记忆机制、评估驱动开发与 Messages API 基础功能演示等主题。README 声明不再维护且不接受贡献。许可为 Apache 2.0。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@ Anthropic 举办的 Code with Claude 系列工作坊的教学材料仓库，含 
 
 ## 能力要点
 
-- 9 个工作坊覆盖模型选型、多智能体、记忆、评测驱动开发等主题
-- 材料基于 Claude Code Skills、MCP 与 Claude Managed Agents
-- Apache License 2.0 开源
+- 9 个工作坊材料目录，覆盖从模型选型到生产级 Agent 开发
+- 含评估驱动的 Agent 开发教程（两层评分器：程序化指标 + LLM-as-judge）
+- 基于 Claude Managed Agents、Skills、MCP 等平台的实践练习
 
 ## 适用场景
 
-- 学习 Claude Code 与 Managed Agents 的官方工作坊材料
-- 参考评测驱动 Agent 开发与多智能体架构的教学案例
-- 自学 AI 辅助产品工作流与 Agent 记忆机制
+- 按工作坊材料学习 Claude 平台的 Agent 构建功能
+- 参考评估驱动的 Agent 开发流程与打分方案
+- 了解多 Agent 系统、记忆与工具调用的组合方式
 
 ## 场景标签
 
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6238aa6fb9d9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cbaaae5fccb8` · [字段定义](../../DATASET.md)*

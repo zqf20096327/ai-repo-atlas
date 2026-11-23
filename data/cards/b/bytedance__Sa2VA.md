@@ -2,9 +2,9 @@
 
 ⭐ 1,702 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/bytedance/Sa2VA) · 组织维护
 
-**像素级接地多模态大模型家族：SAM-2 与 MLLM 结合的图像视频分割理解**
+**像素级多模态大模型研究代码库，供视觉理解开发者使用**
 
-字节跳动维护的 Pixel LLMs 代码库，核心是 Sa2VA：将 SAM-2 与多模态大模型结合，支持指代分割、接地对话、视觉提示与图像/视频聊天，可选 InternVL2.5/3 与 Qwen2.5-VL/Qwen3-VL 骨干。家族还包括 VRT（目标级接地推理，附评测基准与训练数据）、SAMTok（两词表示任意掩码的统一接口）、SaSaSa2VA（ICCV 2025 LSVOS RVOS 赛道第一名）与 Pixel-SAIL 扩展。依赖用 uv 管理，提供 setup_env.sh 脚本统一环境。
+Pixel LLMs 项目家族的官方代码库，核心模型 Sa2VA 将 SAM-2 与多模态 LLM 结合，支持指代分割、视觉提示、图像/视频对话等任务，可选 InternVL2.5/3 与 Qwen2.5-VL/Qwen3-VL 骨干。附带 VRT 视觉推理追踪（含 VRT-Bench 评测集与 VRT-80k 训练数据）、SAMTok 掩码词元接口及 SaSaSa2VA、Pixel-SAIL 扩展。依赖用 uv 管理，经 setup_env.sh 或 uv sync 配置环境后进行训练与评测。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- Sa2VA：SAM-2 + MLLM，支持指代分割/接地对话/视觉提示/图像视频对话
+- Sa2VA 统一模型支持指代分割、grounded 对话、图像/视频聊天
 - 支持 InternVL2.5/3 与 Qwen2.5-VL/Qwen3-VL 骨干
-- VRT 附带 VRT-Bench 评测基准与 VRT-80k 训练数据
-- SaSaSa2VA 获 ICCV 2025 LSVOS Challenge RVOS 赛道第一名
+- 提供 VRT-Bench 评测基准与 VRT-80k 训练数据
+- uv 锁定依赖实现跨机器可复现环境
 
 ## 适用场景
 
-- 对图像和视频做像素级指代分割与接地对话
-- 在多模态大模型研究项目中复现或扩展 Sa2VA
-- 使用 VRT-Bench 评测目标级视觉推理能力
+- 训练或评测视频指代分割与 grounded 理解模型
+- 在自研 MLLM 中接入掩码词元接口生成/理解掩码
+- 基于 Sa2VA 构建目标级视觉推理扩展
 
 ## 场景标签
 
-`多模态` `目标检测` · 领域:感知与多模态
+`模型评测` `多模态` · 领域:评测与运维
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `e3cdb2e2547c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `69917c7f5a1a` · [字段定义](../../DATASET.md)*

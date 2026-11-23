@@ -2,9 +2,9 @@
 
 ⭐ 1,221 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Zen4-bit/Proxima) · [官网](https://www.proximamcp.in/) · 个人维护
 
-**本地 MCP 网关：把浏览器登录的网页模型与本地模型接入编码工具**
+**将网页版 AI 会话接入本地 MCP 服务器的开发网关**
 
-Electron 桌面应用，作为本地开发网关在 127.0.0.1 聚合多种模型来源，供 Cursor、VS Code、Windsurf、Claude Desktop 等 MCP 客户端调用。两种路由模式：Session 模式复用 ChatGPT/Claude/Gemini/Perplexity 的已登录浏览器会话，无需 API key（README 自述可能不符合部分服务商 ToS）；BYOK 模式支持 OpenAI、Anthropic、DeepSeek、Groq 等官方 key 及 Ollama/LM Studio 本地引擎。附带 Python 编写的 proxima-agent，具备自愈调试、浏览器控制与 SQLite 跨会话记忆。许可证为 Non-Commercial。
+本地桌面网关（127.0.0.1），把 ChatGPT、Claude、Gemini、Perplexity 的登录浏览器会话转换为标准 MCP 端点，供 Cursor、VS Code、Windsurf、Claude Desktop 等开发工具调用，无需 API key；另提供 BYOK 模式接入多家 API 与 Ollama/LM Studio 本地模型。附带 Python agent，支持自愈调试循环、CDP 浏览器控制、动态技能生成，并用四个 SQLite 库维护跨会话记忆。许可证为 Non-Commercial，Session 模式自动浏览器会话可能超出部分服务商服务条款。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Electron 桌面应用，作为本地开发网关在 127.0.0.1 聚合多种模型
 
 ## 能力要点
 
-- Session 模式通过渲染层拦截 WebSocket/API 流复用已登录浏览器会话，无需 API key
-- BYOK 模式支持 OpenAI/Anthropic/Google/DeepSeek/Groq/xAI/OpenRouter 等及 Ollama/LM Studio 本地引擎
-- 内置自愈调试循环、CDP 浏览器控制与动态技能生成的 Python agent
-- 四个 SQLite 本地数据库实现会话谱系、经验学习与程序性技能管理
+- Session Routing 复用已登录浏览器会话，无需 API key
+- BYOK 模式支持 OpenAI、Anthropic、DeepSeek、Groq、OpenRouter 等多服务商
+- Python agent 具备自愈调试、CDP 浏览器控制与动态技能生成
+- 四个本地 SQLite 库提供跨会话记忆与技能管理
 
 ## 适用场景
 
-- 在 Cursor/VS Code 等编辑器中调用多个前沿模型而不购买 API 订阅
-- 通过 Ollama/LM Studio 完全本地运行模型保护代码隐私
-- 让 agent 自动定位 bug、修改代码并运行测试直至通过
+- 不购买 API 订阅，让 Cursor 通过 MCP 调用网页版模型
+- 用本地 Ollama 模型为编辑器 agent 提供推理后端
+- 让 Python agent 自动修 bug 并跑通测试
+- 在开发工具中统一接入多家模型服务
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `dfa462276670` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `81f89f0144e1` · [字段定义](../../DATASET.md)*

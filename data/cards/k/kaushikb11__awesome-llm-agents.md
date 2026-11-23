@@ -2,9 +2,9 @@
 
 ⭐ 1,625 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/kaushikb11/awesome-llm-agents) · 个人维护
 
-**LLM agent 框架策展清单：按类别收录开源框架与工具**
+**LLM Agent 框架策展清单：按类别组织、每周更新指标**
 
-收录开源 LLM agent 框架、运行时与工具的策展清单，按核心框架、多智能体编排、CLI Agent 工具、低代码构建器、检索与数据、记忆与上下文、安全评测、领域专用、研究实验、2023 自主智能体浪潮及不活跃项目等约 12 个类别组织。每个条目列出星标数、语言、许可证与更新时间，指标每周刷新（当前标注 2026-10-18）。条目数据存放于 data/frameworks/，README 由其生成，新增项目通过 CONTRIBUTING.md 提交。
+开源 LLM agent 框架、运行时与工具的聚合清单，内容按核心框架、多智能体编排、CLI agent 工具、低代码构建器、检索与数据、记忆与上下文、基础设施、安全评估、领域 agent、研究实验等分类组织，每个条目列出 Stars、语言、许可证与更新时间，指标每周刷新。条目数据存放于 data/frameworks/，README 由其生成，收录通过 CONTRIBUTING.md 提交；另设 Inactive 区标注已归档或长期未更新的项目。清单本身以 CC0 1.0 许可发布。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 约 12 个类别组织百余个开源 agent 框架与工具条目
-- 每条含星标数、语言、许可证、更新时间，指标每周刷新
-- 单独维护 Inactive 分区，标注归档或超过 12 个月未更新的项目
-- 条目数据存于 data/frameworks/，README 自动生成，支持社区贡献
+- 按 10+ 类别组织的 agent 框架清单，每条目含 Stars/语言/许可证/更新时间
+- 指标每周刷新，标注已归档与 2023 wave 自主 agent 的现状
+- 条目存于 data/frameworks/，README 由数据自动生成
+- 设 Inactive 专区说明被广泛引用但不再活跃的项目状态
 
 ## 适用场景
 
-- 选型时按类别浏览和比较 LLM agent 框架
-- 了解哪些 agent 项目已归档或停止维护
-- 跟踪 agent 生态中记忆、安全评测等细分方向的工具
+- 为构建 LLM agent 选型时浏览可用的框架与运行时
+- 按类别查找多智能体编排、记忆层或安全评估工具
+- 了解 2023 年自主 agent 项目的当前维护状态
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L3: A curated list of open-source frameworks, runtimes and tooling for building LLM
-> L6: To suggest a project, see CONTRIBUTING.md — entries live in
+> L11: ## Core Frameworks
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d34dfecc9343` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a3d7c2eab4b2` · [字段定义](../../DATASET.md)*

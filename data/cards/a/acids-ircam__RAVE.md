@@ -2,9 +2,9 @@
 
 ⭐ 1,835 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/acids-ircam/RAVE) · 组织维护
 
-**实时神经音频变分自编码器：训练/导出自定义音频生成模型**
+**音乐人与研究者的实时神经音频合成变分自编码器**
 
-RAVE 模型的官方实现，供音频/音乐研究者与创作者在自有音频数据上训练神经合成模型。流程分数据集预处理、训练、导出三步，均通过 rave 命令行执行；提供 v1/v2/v3、离散（类似 SoundStream/EnCodec）、onnx、raspberry 等多种配置及数据增强选项，不同配置标注最低 GPU 显存需求。模型可导出为 torchscript（含流式缓存卷积），经 nn~ 在 Max/MSP 或 PureData 中实时用于重建、隐变量操控与风格迁移，也可离线批量生成；另支持为离散模型训练 prior。IRCAM 团队维护，附 VST beta 与 Colab 训练笔记本。
+RAVE（Realtime Audio Variational autoEncoder）的官方实现，由 IRCAM 的 Antoine Caillon 与 Philippe Esling 发布。提供命令行工具完成音频数据预处理、模型训练、微调、导出（.ts/torchscript）与离线生成，支持多种架构配置（v1-v4、discrete、raspberry 等）与数据增强。导出的流式模型可在 nn~、VST 或 Max 8 中实时运行，也可在 Google Colab 上免本地 GPU 训练。当前为 v2.4 beta，API 可能变动。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ RAVE 模型的官方实现，供音频/音乐研究者与创作者在自有音�
 
 ## 能力要点
 
-- CLI 覆盖 preprocess/train/export/generate 完整流程
-- 多种架构配置（v2/v3/discrete/onnx/raspberry 等）与数据增强
-- --streaming 导出缓存卷积实现实时处理，经 nn~ 接入 Max/MSP 与 PureData
-- 隐变量操控与基于 Adaptive Instance Normalization 的风格迁移
+- 支持训练→微调→导出→离线生成的完整命令行流程
+- 多种架构配置可选（含树莓派 4 实时推理的轻量配置）
+- 导出 --streaming 模型后可在 nn~/VST/Max 中实时处理
+- 提供 Windows/Mac/Linux 的 RAVE VST 与 Colab 免费训练笔记本
 
 ## 适用场景
 
-- 在自己的音频数据上训练神经合成模型
-- 在 Max/MSP 或 PureData 中做实时音色重建与风格迁移
-- 离线批量转换大量音频文件
-- 在树莓派 4 等嵌入式平台做实时推理
+- 用自己的音频数据训练神经合成模型并在 DAW 中实时演奏
+- 在 Max 8 中对音频做实时音色转换
+- 在 Google Colab 免费账号上训练和微调模型
+- 在树莓派 4 上部署轻量音频模型
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+`微调` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L5: Official implementation of _RAVE: A variational autoencoder for fast and high-quality neural audio synthesis_ (artic
-> L51: Training a RAVE model usually involves 3 separate steps, namely _dataset preparation_, _training_ and _export_.
-> L194: A pretrained RAVE model named `darbouka.gin` available on your computer can be loaded inside `nn~` using the follo
+> L5: # RAVE: Realtime Audio Variational autoEncoder
+> L65: Training a RAVE model usually involves 3 separate steps, namely _dataset preparation_, _training_ and _export_. All
+> L97: rave train --name give_a_name --db_path /processed/path --out_path /model/out --device cuda:0
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b983345c47a5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d87c25f51953` · [字段定义](../../DATASET.md)*

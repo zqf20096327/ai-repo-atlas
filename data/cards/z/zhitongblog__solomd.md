@@ -2,9 +2,9 @@
 
 ⭐ 1,704 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zhitongblog/solomd) · [官网](https://solomd.app) · 个人维护 · 中文 README
 
-**本地优先的 Markdown 编辑器，内置 MCP 供外部 agent 驱动笔记库**
+**本地优先的 Markdown 笔记编辑器，内置 MCP 服务器供 AI 客户端操作 vault**
 
-基于 Tauri 2 + Vue 3 + CodeMirror 6 的 Markdown 编辑器，笔记以 .md 文件存于本地文件夹。内置 solomd-mcp 服务器（16 个工具），可被 Claude Code / Cursor / Cline 等 MCP 客户端从外部驱动同一笔记库；编辑器内有 Agent 面板（对话、引用、Insert/Copy 落盘）与 YAML 声明式 recipes（cron/on-save/on-commit/on-tag-add 触发），每次 agent 写入落在独立 AutoGit 分支，接受后才合入 main。支持 14 个 AI 供应商 BYOK（密钥存 OS keychain），Ollama 自动探测。另有 4.6 版知识图谱层（YAML frontmatter 类型/关系、关系图、tldraw 白板）。MIT 许可，~15–32 MB。提供 macOS dmg、Windows msi、Linux AppImage/deb/rpm、iPad App Store 版本；受限之处：无订阅但需自带 AI key，Windows 7/8 不支持。
+基于 Tauri 2 + Vue 3 + Rust 的 Markdown 编辑器，覆盖 macOS/Windows/Linux/iOS/Android 五平台。提供 WYSIWYG/Live Preview/分屏三种写作模式、9 种格式导出、加密云与 Git 同步、AutoGit 快照、离线语义 RAG 搜索。AI 部分：内置 Agent Panel 对 vault 问答与内联改写，OPR 自动发现本地模型服务，支持 20+ BYOK 云服务商（密钥存于系统钥匙串），并捆绑 16 工具的 solomd-mcp 服务器供 Claude Desktop/Cursor 等客户端操作笔记。
 
 ## 筛选速览
 
@@ -20,28 +20,26 @@
 
 ## 能力要点
 
-- 内置 solomd-mcp 服务器（16 个 MCP 工具，stdio/HTTP，默认只读、--allow-write 可选）
-- Agent 面板对话笔记库，回复可 Insert/Copy 到活动笔记
-- 声明式 YAML recipes 支持 cron/on-save/on-commit/on-tag-add 触发，agent 写入落独立 AutoGit 分支后人工接受
-- 14 个 AI 供应商 BYOK，密钥存 OS keychain；Ollama 本地自动探测
-- 4.6 知识图谱层：类型化 frontmatter、关系图、保存的过滤视图、tldraw 白板
+- 捆绑 16 工具 MCP 服务器，支持多 vault federation 与 stdio/HTTP 传输
+- OPR 一键自动发现本地 Ollama/LM Studio/Jan/vLLM/llama.cpp 服务
+- 9 种格式导出内置，无需外部 Pandoc
+- 每平台原生安装包，约 14-30 MB，MIT 许可
 
 ## 适用场景
 
-- 用 Markdown 文件本地管理个人知识库，跨设备经 GitHub 私有仓库同步
-- 让 Claude Code / Cursor 等外部 agent 通过 MCP 读写我的笔记库
-- 定时跑 AI recipes（周报生成、TODO 提取、翻译、链接失效检查）并逐次审阅改动
-- 在编辑器内直接与笔记对话，把回复插入当前笔记
+- 本地文件夹式管理笔记并用 wikilink 与反链组织知识库
+- 让 Claude Code/Cursor 通过 MCP 直接读写、检索、导出笔记
+- 内联改写与翻译选中文本，或对整库做多轮问答
+- 在无网络环境下使用语义搜索自己的笔记
 
 ## 场景标签
 
-`知识库管理` `知识图谱` `文档问答` · 领域:知识与检索
+`知识库管理` `语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L30: Your notes live in a folder. **SoloMD is the editor on top — with a first-class agent surface inside the editor, an
-> L50: **The editor.** WYSIWYG live edit (Typora-style), tabs + split panes, KaTeX + Mermaid, image paste to `_assets/`, s
-> L63: |**AI rewrite, BYOK**|14 providers — OpenAI · Claude · Gemini · DeepSeek · Qwen · GLM · Kimi · Doubao · SiliconFlow
+> L33: Your notes live in a plain folder. **SoloMD gives you Typora’s quiet, centered writing feel, Obsidian’s local-first
+> L50: 3. **Local AI & MCP endpoint.** Inline AI rewrite (`⌘J`), right-side Agent Panel (streamed chat-with-vault, `[[wiki
 
 ## 星数曲线
 
@@ -57,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `536492f7e965` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `fdf07dc1261f` · [字段定义](../../DATASET.md)*

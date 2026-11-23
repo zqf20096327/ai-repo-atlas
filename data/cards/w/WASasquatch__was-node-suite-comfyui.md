@@ -2,44 +2,44 @@
 
 ⭐ 1,902 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/WASasquatch/was-node-suite-comfyui) · 个人维护
 
-**ComfyUI 节点套件：527 个图像处理与工作流扩展节点**
+**ComfyUI 的 757 节点图像处理与 Llama-Index 套件**
 
-面向 ComfyUI 用户的节点扩展包（WAS-NS v3），提供 527 个节点，覆盖图像处理、滤镜与色彩、遮罩、图层、文本与提示词、逻辑与流程、数字、latents 与采样、文件与文档导出、动画视频及 Three.js 3D 场景等 48 个类别。安装后不自动 pip 安装任何包、不发起外网请求，第三方文件（three.js、八个人脸级联、Kandinsky 6 网络等 162 个）随仓库分发并各自保留许可证。功能按 config.yaml 的 22 个可选组开关控制，旧 v2 工作流加载时自动迁移。28 个节点已标记废弃并注明替代。
+为 ComfyUI 提供的节点套件，包含 757 个节点，覆盖图像处理、滤镜与色彩、遮罩、文本与提示词、逻辑流程、数值、latent 与采样、文件、动画视频等类别；其中 Llama-Index 节点组把文档加载、向量库、检索、查询与聊天引擎、agent 等接入画布，可索引文本与图像帧并调用已加载的模型或本地/托管服务。套件本体零依赖安装（git clone 即可），四个可选功能组（文档导出、llm、向量库、chroma）需另行安装包；不主动下载，network 默认关闭。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 527 个节点覆盖 48 个类别，包括 43 个 Three.js 场景节点与 28 个文件/文档节点
-- 零默认依赖安装、零外网请求，权重下载需显式开启 network 开关
-- v2 工作流加载时自动迁移节点与连线，四个退役节点可在缺失对话框中一键替换
-- config.yaml 提供 22 个功能组开关与按节点禁用
+- 757 个节点覆盖图像、滤镜、遮罩、文本、逻辑、latent、文件、动画等 75 类
+- Llama-Index 节点组：文档加载器、向量库、检索器、chat 引擎与 agent 以节点形式接线
+- 本体安装零依赖、零下载、不自行运行 pip，第三方内容随仓库附带
+- 人脸检测、渐变映射、背景去除等改在 torch 上运行，不再安装 OpenCV/rembg 等库
 
 ## 适用场景
 
-- 在 ComfyUI 工作流中做图像滤镜、遮罩、图层与色彩处理
-- 构建带逻辑分支与数字/文本处理的复杂生成流程
-- 导出 .docx/.odt/.pdf 文档（需启用可选的 document_export 组）
-- 生成 Three.js 3D 场景与动画视频节点
+- 在 ComfyUI 画布上组合图像处理、遮罩与滤镜工作流
+- 把本地笔记文件夹和图片接入 Llama-Index 节点做检索问答与提示词撰写
+- 迁移 v2 旧工作流并在加载时自动替换退役节点
 
 ## 场景标签
 
-`图像视频处理` `图像生成` · 领域:内容生成
+`图像生成` `图像视频处理` `文档解析` `RAG` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L8: The pack contains **527 nodes for ComfyUI**, across images, filters and colour, masking,
-> L16: **ComfyUI Manager**, search for `WAS Node Suite v3` and install. This is the recommended route.
+> L8: The pack contains **757 nodes for ComfyUI**, across images, filters and colour, masking,
+> L12: **Llama-Index in ComfyUI** puts llama-index on the canvas. Models, document loaders, splitters,
+> L82: seamless textures, colour matching, levels, palettes, masks and deconvolution all run on torch,
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `67042bd8fbf0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `a5f425a9c5ac` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,442 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/callstackincubator/ai) · [官网](https://react-native-ai.dev) · 组织维护
 
-**React Native 端侧 LLM 开发库，兼容 Vercel AI SDK**
+**React Native 端侧 LLM 运行库，兼容 Vercel AI SDK**
 
-面向 React Native 开发者的端侧 AI 原语集合：通过 Apple 系统模型（Foundation Models、嵌入、转写、语音合成）、llama.rn 运行 GGUF 模型、MLC LLM 运行开源模型三条通道，在用户设备上完成文本生成、嵌入、语音转写与合成，数据不离开本地。API 兼容 Vercel AI SDK（0.11 以下对应 v5、0.12 以上对应 v6）。各 provider 以独立 npm 包分发；Llama 与 MLC 需下载模型，Apple 内置无需下载；文本生成需 iOS 26+ 且 Apple Intelligence 设备。另含基于 OpenTelemetry 的 DevTools 性能分析插件与 agent skills。
+为 React Native 应用提供端侧 AI 原语集合，通过多个 provider 包在用户设备上直接运行模型，无需服务器与 API key（云模型为可选项）。内置 Apple Foundation Models 与 Android Gemini Nano（经 ML Kit GenAI）两条系统模型通道，另有 Core AI 运行时与基于 llama.rn 的 GGUF 模型通道（需从 HuggingFace 下载）。能力覆盖文本生成、嵌入、语音转写/合成、图像与视频生成及视觉任务；API 与 Vercel AI SDK 的 generateText/streamText/embed 等函数对齐，并附 DevTools Profiler 插件采集 OpenTelemetry span。各 provider 按平台有 iOS/Android 版本要求。
 
 ## 筛选速览
 
@@ -13,32 +13,33 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Apple/llama.rn/MLC 三种端侧推理通道，覆盖 iOS 与 Android（Llama/MLC）
-- Vercel AI SDK 兼容 API，按版本对应 v5/v6
-- 端到端能力：文本生成、嵌入、语音转写、语音合成
-- AI SDK Profiler 插件经 OpenTelemetry 捕获请求并在 DevTools 展示
+- 兼容 Vercel AI SDK 的 generateText/streamText/embed 等函数调用本地模型
+- 内置 Apple 与 Android 系统模型通道，无需下载模型与 API key
+- 支持 GGUF 模型（经 llama.rn），覆盖文本、嵌入与语音
+- JSON UI：工具调用模型可构建 React Native 界面
 
 ## 适用场景
 
-- 在 React Native 应用中集成离线 LLM 对话与 RAG 嵌入
-- iOS 应用直接调用系统模型实现免下载的 AI 功能
-- 为端侧 AI 应用做隐私合规与性能剖析
+- 在移动应用中离线运行 LLM，数据不出设备
+- 为 React Native 应用添加转写、嵌入或图像生成能力
+- 用熟悉的 AI SDK API 接入端侧小模型
 
 ## 场景标签
 
-`语音合成` `语音识别` · 领域:内容生成
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L5: A collection of on-device AI primitives for React Native with first-class Vercel AI SDK support. Run AI models direc
-> L11: - 🎯 **Vercel AI SDK compatible** - Drop-in replacement with familiar APIs
+> L11: - 🎯 **Vercel AI SDK compatible** - Use `generateText`, `streamText`, `embed` and other AI SDK functions with local 
+> L43: |Provider|Built-in|Platforms|Runtime|Description|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cfa330eef901` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `bfb41e78678e` · [字段定义](../../DATASET.md)*

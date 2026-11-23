@@ -2,9 +2,9 @@
 
 ⭐ 1,202 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Azure/agent-landing-zone) · [官网](https://aka.ms/agentlz) · 组织维护
 
-**Azure 上部署企业 AI agent 应用的安全落地区模板**
+**面向企业的 AI Agent 应用 Azure 落地基础架构模板**
 
-微软维护的企业级 landing zone 项目（前身为 GPT-RAG），用于在 Azure 上部署 AI agent 应用所需的安全基础设施与默认 agent 应用，基于 Microsoft Foundry 与 Microsoft Agent Framework 构建，包含 Zero Trust 网络架构、可观测性与基础设施即代码。支持三种部署模式：全栈、仅基础设施、部署自定义应用。组件版本在 manifest.json 中固定，UI/Orchestrator/Ingestion 等组件来自独立仓库。MIT 许可。
+基于 Microsoft Foundry 与 Microsoft Agent Framework 的 Azure 落地基础架构项目，前身是 GPT-RAG，项目范围扩展为企业级 Agent 的基础设施与应用。提供三种部署路径：全栈（基础设施+默认 Agent 应用）、仅基础设施、在基础之上部署自定义应用。内置 Zero-Trust 私有网络参考架构，组件版本通过 manifest.json 固定，UI、编排器、可选的数据摄取与 MCP 服务器等组件来自独立的 Azure 仓库。通过 Azure Developer CLI 部署，使用 Bicep 实现 IaC。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 支持全栈、仅基础设施、自定义应用三种部署模式
-- 基于 Microsoft Foundry 与 Microsoft Agent Framework，含 Zero Trust 架构
-- 组件版本在 manifest.json 中固定
-- 前身为 GPT-RAG 项目，同一项目更名扩展
+- 提供全栈/仅基础设施/自定义应用三种部署路径
+- Zero-Trust 私有网络参考架构
+- 组件版本固定于 manifest.json，UI/编排器/摄取/MCP 服务器分仓维护
+- 基于 Microsoft Foundry 与 Microsoft Agent Framework 构建
 
 ## 适用场景
 
-- 企业在 Azure 上快速部署符合 Zero Trust 的 agent 应用基础设施
-- 在既有落地区之上部署自己的 agent 应用
-- 参考企业级 agent 应用的参考架构与 IaC 实现
+- 在 Azure 上以私有网络方式部署企业 Agent 应用
+- 为自研 Agent 应用搭建安全的基础设施底座
+- 从 GPT-RAG 旧部署迁移到新架构
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L5: Secure, enterprise-ready landing zone for deploying AI agent applications on Microsoft Foundry.
-> L12: > **GPT-RAG has evolved into Agent Landing Zone.** Same project, new name and broader scope: infrastructure and app
+> L25: - Full stack — Deploy the infrastructure and default agent application.
+> L26: - Infrastructure only — Provision the foundation without deploying application images.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `027b20512664` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3700335957c9` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # openairymax/agentrt
 
-⭐ 1,243 · C · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/openairymax/agentrt) · [官网](https://atomgit.com/openairymax) · 个人维护 · 中文 README
+⭐ 1,243 · C · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/openairymax/agentrt) · [官网](https://atomgit.com/openairymax) · 组织维护 · 中文 README
 
-**AI Agent 多智能体运行时平台，含跨平台构建与发布自动化**
+**AI Agent 运行时平台的自动化构建与发布工程目录**
 
-AgentRT 是 Airymax 维护的 AI Agent 运行时平台，以 git 子模块聚合 7 个叶子仓库（atoms/commons/cupolas/daemons/gateway/heapstore/protocols），交付微内核原语、认知循环、内存分层、安全隔离、IPC 协议、网关与守护进程等 OS 级机制。本 README 描述其 .github 自动化工程：三平台门禁测试、sanitizer、契约代码生成校验、覆盖 8 平台的 fail-closed 发布流水线（cosign/GPG 签名，AtomGit 为权威源，GitHub/Gitee 镜像），并提供自包含安装包与安装脚本，从源码构建需 cmake。
+该仓库是 AgentRT 项目的 `.github/` 自动化工程目录，承载跨平台构建测试、静态质量门禁、sanitizer 检测、契约生成校验、发布流水线与镜像同步。AgentRT 本体是一个 AI Agent 运行时平台，将多智能体认知循环、记忆演进、安全隔离与协议互操作收敛为统一运行时，以 git 子模块聚合 7 个叶子源码仓库，交付微内核原语、内存分层、网关服务与守护进程等 OS 级机制。面向使用者和参与开发者分别提供安装与贡献入口。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ AgentRT 是 Airymax 维护的 AI Agent 运行时平台，以 git 子模块聚合
 
 ## 能力要点
 
-- git 子模块聚合 7 个叶子仓库，交付记忆分层、安全隔离与 IPC 网关等运行时机制
-- 每次提交跑 Linux/macOS/Windows 构建与 ASan/UBSan 检测
-- Release 覆盖 8 个平台（Linux/macOS/Windows x86 与 arm），三段式签名发布
-- 安装包自包含全部依赖，提供 install.sh / install.ps1 脚本
+- 提供 9 个平台的自包含安装包（Linux 5 架构、macOS 2、Windows 2）
+- push/PR 触发三平台构建、静态质量门禁与 ASan/UBSan 检测
+- 发布前在干净环境做离线安装与 daemon 启动核验，fail-closed
+- 发布资产含 SHA256 校验、cosign 签名与清单，GitHub/Gitee/AtomGit 三端分发
 
 ## 适用场景
 
-- 在本地运行多智能体认知循环与分层记忆的 Agent 运行时
-- 需要跨平台（含 arm）自包含部署与可验证签名的 Agent 基础设施
-- 从 Release 页面离线安装并校验制品完整性
+- 为 Agent 运行时平台获取多平台自包含安装包
+- 按签名与清单校验发布资产完整性后离线安装
+- 参与贡献时依赖流水线自动完成跨平台验证
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+ · 领域:AI Agent 基础设施/工程化
 
 ## 证据(README 行号)
 
 > L15: AgentRT（AirymaxAgentRT）是 AI Agent 运行时平台工程——定位类似于 Kubernetes
-> L20: daemons / gateway / heapstore / protocols），对外交付微内核原语、认知循环、
+> L17: 与协议互操作收敛为一套统一运行时，定义 AI Agent 团队如何运行。
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3de23eeb3968` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `061cdf0ccf12` · [字段定义](../../DATASET.md)*

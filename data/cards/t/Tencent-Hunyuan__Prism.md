@@ -2,9 +2,9 @@
 
 ⭐ 1,518 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/Tencent-Hunyuan/Prism) · [官网](https://francis-rings.github.io/Prism) · 组织维护 · 中文 README
 
-**面向研究者的动态稀疏注意力联合视频-音频生成训练框架**
+**2K 视频-音频联合生成的动态稀疏注意力训练框架**
 
-腾讯混元与复旦、浙大联合发布的动态稀疏注意力框架，用于原生训练 2K 分辨率的联合视频-音频生成模型。将 token 序列组织为时空宏区，依据视频特征方差与音频-视频交叉注意力范数为每个区动态分配块形状，并以混合块选择策略确定稀疏度。提供 720p/1080p/2K 的推理与训练代码、数据预处理流水线（WAN VAE latent 提取与多分辨率分桶）和预览版权重，训练需 FSDP + 序列并行，运行依赖 CUDA ≥ 12.4 与系统级 ffmpeg。
+来自腾讯混元、复旦大学与浙江大学的研究项目：将 token 序列组织为时空宏区，依据视频特征方差与音频-视频交叉注意力信号动态分配块形状，配合混合块选择策略实现逐查询稀疏化。官方声称相比全注意力训练加速 2.5 倍。提供预览模型检查点、数据预处理（WAN VAE 潜变量提取与分桶 CSV 构建）、训练与推理代码，支持 720p/1080p/2K 分辨率的原生联合视频-音频生成与训练，推理可用 DeepSpeed 或 FSDP 多 GPU 方式运行。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 原生 720p/1080p/2K 联合视频-音频生成与训练
-- 动态稀疏注意力（块稀疏 + 动态块形状分配）
-- 提供训练/微调/推理代码与数据预处理（latent 提取、分桶 CSV）工具
-- 支持 DeepSpeed 与 FSDP 多卡推理、CPU offload 与 VAE 空间分块
+- 动态稀疏注意力：时空宏区分块与逐查询稀疏度选择
+- 支持 720p/1080p/2K 原生联合视频-音频训练与推理
+- 提供潜变量提取、多分辨率分桶 CSV 构建的完整数据预处理流程
+- 单 GPU 80GB 或 4+ GPU（FSDP/DeepSpeed）推理方案
 
 ## 适用场景
 
-- 在自有视频-音频数据上原生训练高分辨率联合生成模型
-- 运行预览权重生成 720p–2K 带音频视频
-- 研究稀疏注意力在视频-音频联合建模中的应用
+- 以文本与音频提示生成带声音的视频
+- 在 2K 分辨率下微调视频-音频联合生成模型
+- 基于参考图做图生视频并配音频
 
 ## 场景标签
 
-`视频生成` `模型训练` · 领域:内容生成
+`视频生成` `微调` `多模态` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L30: To address this, we propose Prism, a dynamic sparse attention framework for natively training joint video-audio gen
-> L160: Prism provides two inference scripts: `prism_infer.sh` for single-GPU or DeepSpeed-based multi-GPU inference, and 
-> L197: Prism supports native joint video-audio training at 720p, 1080p, and 2K resolutions. The training pipeline uses FS
+> L32: To address this, we propose Prism, a dynamic sparse attention framework for natively training joint video-audio gen
+> L54: The Preview Model supports native joint video-audio generation at 720p, 1080p, and 2K resolutions, as well as nativ
+> L199: Prism supports native joint video-audio training at 720p, 1080p, and 2K resolutions. The training pipeline uses FS
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `463747dc27dc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f3249f84dae0` · [字段定义](../../DATASET.md)*

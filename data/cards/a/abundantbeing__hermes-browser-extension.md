@@ -2,9 +2,9 @@
 
 ⭐ 1,871 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/abundantbeing/hermes-browser-extension) · 个人维护
 
-**连接本地 Hermes Agent 运行时的浏览器侧边栏扩展**
+**为 Hermes Agent 提供浏览器侧栏客户端：接入本地/云/远程网关**
 
-面向 Hermes Agent（Nous Research）用户的 Chromium 侧边栏/Firefox 侧栏扩展，把浏览器页面上下文接入本地网关、Hermes Cloud 或自托管远程网关。复用 Hermes 已配置的模型、工具、技能、会话、记忆与 MCP 服务器。提供 Bot Mode 群聊、文件附件、标签页截图、Hermes Control 标签操作（仅 Chromium）、实时会话与工具活动视图等。需先安装 Hermes Agent 与 Node.js 20+，通过 git clone 加 npm 构建生成 dist 后以开发者模式加载，Firefox 经 AMO 安装。群聊模式下页面上下文投递尚不可靠；Cloud 连接仅限 Chat-only。
+面向 Hermes Agent（Nous Research）用户的社区浏览器扩展，在 Chromium 侧栏或 Firefox 侧边栏中提供聊天与页面上下文接入。支持三种连接：本地网关、Hermes Cloud、自托管远程 API/dashboard；可复用 Hermes 已配置的模型、工具、会话、记忆与 MCP 服务器。Hermes Control 功能支持代理操作标签页（点击、输入、滚动），Chromium 上完整，Firefox 上受限（无 debugger API，仅可读取/打开/切换标签页）。页面上下文共享默认关闭，需逐连接显式批准。需 Node.js 20+ 从源码构建 Chromium 版本，Firefox 版经 Mozilla Add-ons 分发。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 三种连接模式：本地网关（默认 127.0.0.1:8642）/ Hermes Cloud / 自托管远程网关
-- Hermes Control 允许 agent 操作指定标签页（仅 Chromium，需 opt-in，风险动作需审批）
-- Bot Mode 多 agent 群聊、附件管理、标签页截图、实时会话（Steer/Queue/Stop）
-- 安全模型：页面内容作为不可信上下文包装，凭据 URL 被剔除，无 cookies/history 权限
+- 三通道连接：本地网关、Hermes Cloud、自托管远程 API/dashboard
+- Hermes Control 代理操作标签页（点击/输入/导航），风险动作需审批
+- Bot Mode 多 Agent 群聊、实时会话跟进（Steer/Queue/Stop）
+- 页面上下文共享需逐连接显式批准，截图不自动采集
 
 ## 适用场景
 
-- 浏览网页时让 Hermes Agent 总结或操作当前页面
-- 在浏览器侧边栏管理与多个 Hermes agent 的群聊会话
-- 让 AI 在指定标签页内代为点击、输入、滚动（Chromium）
+- 在浏览器侧栏直接与本地运行的 Hermes Agent 对话
+- 让 Hermes 代理操作当前标签页完成任务
+- 多 Agent 群聊中向多个配置好的 agent 同时提问
 
 ## 场景标签
 
-`多智能体` `浏览器自动化` · 领域:Agent 开发
+`聊天机器人` `浏览器自动化` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L15: Hermes Browser Extension is not a browser chatbot. It is a Chromium side panel or Firefox sidebar for the real Herm
-> L3: Browser-native side panel for Hermes Agent — connect active web context through a local gateway, Hermes Cloud, or a 
+> L31: Hermes Browser Extension is not a browser chatbot. It is a Chromium side panel or Firefox sidebar for the real Herm
+> L67: - Chrome, Edge, Brave, Comet, or another Chromium browser with Side Panel API support (Chrome 116+), or Firefox 142
+> L68: - Node.js 20+ to build the Chromium extension from source. `npm run build:firefox` is for local/dev Firefox builds 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6dec80bec9f2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e44e7163d634` · [字段定义](../../DATASET.md)*

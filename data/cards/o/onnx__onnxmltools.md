@@ -2,9 +2,9 @@
 
 ⭐ 1,179 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/onnx/onnxmltools) · [官网](https://onnx.ai) · 组织维护
 
-**将各类机器学习框架模型转换为 ONNX 格式的 Python 库**
+**将多种机器学习工具包模型转换为 ONNX 格式的转换库**
 
-ONNX 官方生态的模型转换工具：把 TensorFlow、scikit-learn、Core ML、LightGBM、XGBoost、CatBoost、H2O、libsvm、Spark ML（实验性）等框架训练的模型转换为 ONNX 格式，以便在任意 ONNX 后端上计算预测。转换时可通过 target_opset 参数指定目标 ONNX 版本，转换器按算子逐个映射并取各算子最高 opset。以 pip 安装的 Python 库形式提供，依赖 ONNX、NumPy 和 ProtoBuf，源码安装需设置 ONNX_ML=1，兼容 Python 3.9+。
+ONNXMLTools 是 onnx 组织下的 Python 库，把 LightGBM、XGBoost、CatBoost、Core ML、H2O MOJO、libsvm、Spark ML 等工具包训练的模型转换为 ONNX 格式，scikit-learn 与 TensorFlow/Keras 分别经由 skl2onnx、tf2onnx 包装支持。每个转换器返回 onnx.ModelProto，可通过 target_opset 控制目标算子集（最高 15）以兼容旧运行时。要求 Python 3.11+、ONNX、NumPy 与 protobuf，转换时需安装产出模型的原始工具包。CI 在 Linux/macOS/Windows 上测试。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@ ONNX 官方生态的模型转换工具：把 TensorFlow、scikit-learn、Core ML
 
 ## 能力要点
 
-- 支持 TensorFlow、scikit-learn、Core ML、LightGBM、XGBoost、CatBoost、H2O 等 9 类框架的模型转换
-- target_opset 参数控制目标 ONNX 版本，按算子逐个映射取最高 opset
-- TensorFlow/scikit-learn 转换分别封装 tf2onnx 与 skl2onnx 转换器
+- 支持 LightGBM/XGBoost/CatBoost/Core ML/H2O/libsvm/Spark ML 等 7 类模型转换
+- target_opset 参数控制算子集版本（最高 15），保持旧运行时可加载
+- 每个转换器返回 onnx.ModelProto 并提供保存工具
+- CI 覆盖 Linux/macOS/Windows 与多版本组合矩阵
 
 ## 适用场景
 
-- 把 scikit-learn 或 LightGBM 模型转为 ONNX 以便跨运行时部署
-- 统一多来源模型的交换格式用于推理后端
-- 查看转换后模型的 opset 版本并验证兼容性
+- 把已有 XGBoost/LightGBM 模型转为 ONNX 以便跨平台部署
+- 将 Core ML 模型迁移为 ONNX 格式
+- 为旧版推理运行时生成低 opset 的 ONNX 模型
 
 ## 场景标签
 
- · 领域:机器学习工具链/模型互操作
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L9: ONNXMLTools enables you to convert models from different machine learning toolkits into ONNX. Currently the followin
-> L94: *onnxmltools* converts models into the ONNX format which
+> L9: ONNXMLTools converts models from machine learning toolkits into ONNX. It supports:
+> L18: * scikit-learn, as a wrapper of skl2onnx
+> L40: ONNXMLTools requires Python **3.11+**, ONNX, NumPy and protobuf.
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `783d96da5130` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5163384d9343` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 1,412 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/koaning/scikit-lego) · [官网](https://koaning.github.io/scikit-lego/) · 组织维护
 
-**为 scikit-learn 流水线提供额外转换器、模型与指标的库**
+**给 scikit-learn 用户提供额外的 transformers/模型/指标组件库**
 
-scikit-lego 收录一批 scikit-learn 未提供的自定义组件：预处理转换器（列选择/去相关/单调样条等）、线性模型（分位数回归、人口平等约束分类器等）、混合模型分类与离群检测器、元模型（分组预测、阈值搜索）、公平性指标、分组时间序列交叉验证与调试流水线，另含多个内置数据集。以 Python 库形式通过 pip 与 conda-forge 安装，由多家荷兰公司发起、全球贡献者参与维护，与 scikit-learn 项目无正式关联。
+面向 scikit-learn 用户的补充组件包：提供自定义 transformers、metrics、模型与 meta-estimator，按 scikit-learn 接口规范实现，可像 sklearn 组件一样导入并用于 Pipeline。功能覆盖数据集加载、公平性约束分类器（DemographicParity/EqualOpportunity）、GMM 分类与离群检测、分组与时间序列交叉验证、调试 pipeline 等。该项目由荷兰多家公司协作发起，与 scikit-learn 项目无官方隶属关系。支持 pip 与 conda 安装。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@ scikit-lego 收录一批 scikit-learn 未提供的自定义组件：预处理转
 
 ## 能力要点
 
-- 提供 50+ 个 scikit-learn 兼容的转换器、模型与指标
-- 含公平性约束分类器与公平性评分指标
-- 分组时间序列交叉验证（GroupTimeSeriesSplit/TimeGapSplit）
-- 内置 8 个示例数据集与 DebugPipeline 调试工具
+- 提供 60 余个符合 scikit-learn 接口的 transformers、模型、meta-estimator 与指标
+- 含公平性约束分类器与公平性指标（demographic parity、equal opportunity、p_percent）
+- 提供分组/时间序列交叉验证与 DebugPipeline 调试工具
+- 内置多个数据集加载与模拟函数
 
 ## 适用场景
 
-- 在现有 sklearn 流水线中直接引入额外的预处理与回归组件
-- 构建带公平性约束或公平性评估的分类模型
-- 对分组时间序列数据做交叉验证
+- 在 sklearn Pipeline 中使用分组建模或时间序列交叉验证
+- 训练带公平性约束的分类器并跟踪公平性指标
+- 加载内置数据集做教学与实验
 
 ## 场景标签
 
@@ -39,6 +39,7 @@ scikit-lego 收录一批 scikit-learn 未提供的自定义组件：预处理转
 
 > L10: We love scikit learn but very often we find ourselves writing
 > L51: We offer custom metrics, models and transformers. You can import them just like you would
+> L65: - `sklego.datasets.load_abalone` loads in the abalone dataset
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6f4644ec4226` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `8a2f2124bdd4` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,655 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/DeadWaveWave/opencove) · 组织维护 · 中文 README
 
-**面向 AI 编码 agent 的无限画布式空间开发工作区（桌面应用）**
+**给 AI 编码 agent 用的无限画布工作区**
 
-基于 Electron + React + TypeScript 的空间开发工作区：把 Claude Code、Codex 等 CLI agent 会话、终端、任务与笔记放在同一张无限 2D 画布上，支持多 agent 并行监视、工作区持久化恢复、空间快照、全局搜索与项目隔离（目录/git worktree）。提供 macOS/Windows/Linux 桌面安装包、CLI/服务器安装脚本与实验性 Worker 托管 Web UI；macOS 构建未签名需手动解除隔离，整体处于 Alpha 阶段，面向早期用户。0.4.0 起支持插件与主题独立安装。
+基于 Electron + React + TypeScript 的桌面应用，把 Claude Code、Codex 等 CLI agent 会话、终端、任务与笔记放在同一张无限 2D 画布上，支持并行运行多个 agent 会话、持久化布局与 agent 状态、空间快照归档、全局搜索与工作区隔离（目录/git worktree）。提供 macOS/Windows/Linux 安装包与独立 CLI/Server，可无头启动并托管 Web UI。当前处于 Alpha 阶段，官方建议早期使用者与高级用户尝试。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- Claude Code / Codex 等 CLI agent 会话与终端、任务、笔记同画布并行管理
-- 工作区持久化：重启后恢复视口、布局、终端输出与 agent 状态
-- 空间快照（Space archives）回访历史工作区状态
-- 独立安装的插件与主题体系及 Worker 托管 Web UI
+- 无限空间画布统一承载 agent 会话、终端、任务与笔记
+- 多 agent 并行会话与重启后恢复布局、输出与状态
+- 独立 CLI 支持 agent 协调（配额管理、节点读写、会话终止）
+- 可无头部署 Worker 并托管局域网 Web UI
 
 ## 适用场景
 
-- 同时跑多个 Claude Code / Codex 会话并并排监控执行
-- 把任务计划、笔记与终端输出收在同一个可见的工作区
-- 无头服务器上托管 Web UI 从浏览器访问画布
+- 并排运行多个 Claude Code / Codex 会话并对比输出
+- 把任务计划、笔记和终端输出放在同一工作区管理
+- 无头服务器上通过浏览器远程访问画布工作区
 
 ## 场景标签
 
- · 领域:开发者工具/桌面工作区
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7d0ff57b269c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `7c09c9e62d8b` · [字段定义](../../DATASET.md)*

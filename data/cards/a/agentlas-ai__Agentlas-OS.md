@@ -2,9 +2,9 @@
 
 ⭐ 1,401 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/agentlas-ai/Agentlas-OS) · [官网](https://agentlas.cloud) · 组织维护 · 中文 README
 
-**在 Claude Code/Codex/Cursor 等宿主内组建专家 agent 团队的开源路由引擎**
+**本地运行的 AI Agent 编排 OS：任务分解、招聘执行、凭据校验**
 
-Agentlas OS（Hephaestus）是运行在 CLI agent 宿主（Claude Code、Codex、Cursor、Antigravity 等）中的构建与路由引擎：把请求拆分为带角色与交接顺序的任务，从本机、私有云和公共 Hub 三个来源为每个任务匹配候选 agent，由用户模型自行选择；运行中规划、执行、综合与验证分开调用，需独立验证器通过。遵循 A2A v1.0 agent card 标准，支持签名卡身份验证、按 digest 固定版本。通过 curl 脚本安装，不写 $HOME 之外；另有桌面应用与免费公共 Hub。角色本体除开发外还含保险精算、并购尽调等非开发领域。
+Agentlas OS 是一个开源（Apache-2.0）本地优先的 agent 运行时，核心是 Hephaestus 引擎：将目标分解为任务图，从本地工具、私有 Agent Cloud 与公共 Hub 三层招募执行者，任务完成需独立 verifier 校验执行凭据。附带 One/Finance/Science 三个工作流、按项目隔离的记忆治理（memory-hooks、Policy Gate）、A2A 打包，以及桌面与手机配对的决策卡片交互。模型接入采用 BYOM：可挂接 Claude Code、Codex、Cursor 等编码代理，或用 Ollama 等本地模型。安装走 curl 脚本或签名桌面安装包。
 
 ## 筛选速览
 
@@ -13,32 +13,32 @@ Agentlas OS（Hephaestus）是运行在 CLI agent 宿主（Claude Code、Codex�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 任务拆分→agent 匹配→独立验证的三步流程
-- A2A v1.0 标准 agent card 读写与签名身份验证
-- 候选列表不排名，由用户模型选择并记录理由
-- 自动配置机器上发现的所有受支持宿主（MCP/插件/命令注册）
+- Hephaestus 三阶段引擎：任务分解→三层招募→独立校验执行凭据
+- 本地优先，无需 VM，代理直接操作本机文件与工具
+- 按项目隔离的记忆治理（Memory Curator、Policy Gate）
+- BYOM：Claude Code/Codex/Cursor 挂接或 Ollama 本地模型
 
 ## 适用场景
 
-- 在 Claude Code/Cursor 里让多领域专家 agent 分工完成复杂任务
-- 构建并发布自己的专家 agent 到私有云或公共 Hub
-- 管理本机与云端 agent，按需为每个任务匹配候选人
+- 让自主代理在本机完成跨多步骤的项目型任务
+- 个人投资研究报告生成并保留计算依据
+- 跨多台电脑与手机配对管理多个代理
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`多智能体` `GUI 自动化` `AI 助手` `金融量化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L194: |**Agentlas OS (Hephaestus)**|This repo — the open-source build and routing engine and command surface for your CL
-> L71: - **A2A v1.0, as written.** Agent cards are read and written at the standard
+> L22: Built to lead entire projects rather than isolated prompts. Model-agnostic (BYOM) and native to Claude Code, Codex,
+> L51: Give Agentlas OS one objective. The Hephaestus engine decomposes it, searches for specialists on your computer, in 
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `02bd87f9c392` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `689ce9a546db` · [字段定义](../../DATASET.md)*

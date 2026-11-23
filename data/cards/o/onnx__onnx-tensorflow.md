@@ -2,17 +2,17 @@
 
 ⭐ 1,328 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/onnx/onnx-tensorflow) · 组织维护
 
-**将 ONNX 模型转换为 TensorFlow 模型的转换器（已宣布弃用）**
+**将 ONNX 模型转换为 TensorFlow 运行的后端（已归档）**
 
-ONNX 官方生态中的 TensorFlow 后端项目：把 ONNX 格式模型转换为 TensorFlow 模型，再交由 TensorFlow 执行产出输出；也可通过 backend.prepare 直接加载 ONNX 模型推理。提供 CLI（onnx-tf convert）与 Python API 两种方式。要求 TensorFlow == 2.8.0 且不自动安装 TensorFlow，由用户自行选择 CPU/GPU 变体。README 明确声明该仓库不再积极维护并将弃用，前端代码已合并到 tensorflow-onnx，建议用户迁移。面向使用 TensorFlow 运行 ONNX 模型的开发者。
+ONNX-TF 提供 ONNX 模型到 TensorFlow 的转换，并作为 ONNX backend 通过 TensorFlow 运行模型。项目已归档：最终版本为 2022 年 3 月发布的 1.10.0，最终自动化测试环境为 ONNX 1.10.2、TensorFlow 2.8.0、Python 3.8-3.9；不再提供兼容性更新、缺陷修复或安全修复。README 建议运行 ONNX 模型改用 ONNX Runtime，转换需求参考社区维护的 onnx2tf；历史文档保留在 doc/ 与仓库 wiki。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 许可风险 | `permissive` | Apache-2.0 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,25 +20,25 @@ ONNX 官方生态中的 TensorFlow 后端项目：把 ONNX 格式模型转换为
 
 ## 能力要点
 
-- ONNX → TensorFlow 模型转换（CLI 与 Python API 两种方式）
-- backend.prepare 支持直接加载 ONNX 模型在 TensorFlow 上推理
-- 明确要求 TensorFlow == 2.8.0，不自动安装 TensorFlow
-- 官方声明不再维护并将弃用，建议迁移到 tf-onnx
+- 将 ONNX 模型转换为 TensorFlow 并暴露 ONNX backend 运行
+- 最终版本 1.10.0（2022 年 3 月），测试环境 ONNX 1.10.2 / TF 2.8.0 / Python 3.8-3.9
+- 历史文档保留：命令行参考、Python API、算子支持表
+- Apache License 2.0 许可
 
 ## 适用场景
 
-- 把手头的 ONNX 模型转成 TensorFlow 模型继续训练或部署
-- 在 TensorFlow 技术栈内直接运行 ONNX 模型做推理
-- 需要批量验证 ONNX Model Zoo 模型可转换性的场景
+- 查阅历史版本的 ONNX 到 TensorFlow 转换实现
+- 评估旧模型转换结果的历史复现
+- 寻找接手维护该项目的社区信息
 
 ## 场景标签
 
- · 领域:深度学习/模型互操作
+ · 领域:深度学习/模型转换工具
 
 ## 证据(README 行号)
 
-> L9: TensorFlow Backend for ONNX makes it possible to use ONNX models as input for TensorFlow. The ONNX model is first co
-> L31: ## ONNX Model Inference with TensorFlow Backend
+> L9: ONNX-TF converted ONNX models to TensorFlow and exposed an ONNX backend for
+> L4: > This project is no longer maintained and is being archived.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9bf8c8d97528` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e5457f34fc73` · [字段定义](../../DATASET.md)*

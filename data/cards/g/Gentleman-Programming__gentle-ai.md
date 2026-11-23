@@ -2,9 +2,9 @@
 
 ⭐ 9,472 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Gentleman-Programming/gentle-ai) · [官网](https://gentlemanprogramming.com/) · 组织维护
 
-**为已有 AI 编码 agent 统一配置记忆、工作流与审查**
+**为已有 AI 编码 agent 配置记忆、工作流与审查的开源工具**
 
-Gentle-AI 是一个对现有 AI 编码 agent 进行统一配置的工具：为 Pi、OpenCode、Claude Code、Codex、Cursor 等 17 个 agent 写入原生配置，提供 Engram 项目记忆层、ODD 工作流、按风险分层的 RDD 审查、技能库、Context7 MCP、CodeGraph 与安全拒绝列表等组件。状态由 gentle-ai 二进制从磁盘文件读取并确定性返回四种公开状态之一；RDD 审查默认开启，可用命令关闭。MIT 许可，通过 Homebrew、go 或安装脚本安装。
+一个配置工具（MIT，Go 实现），为用户已使用的 17+ 个编码 agent（Claude Code、Cursor、Codex 等）统一配置持久记忆（Engram）、ODD 工作流、技能库、MCP 服务器、personas 与可选的有界审查（RDD）。通过读取磁盘文件状态输出四个固定状态（Working/Checking/Ready/Needs your decision），配置写入前自动快照备份，并带安全拒绝列表与 `gentle-ai doctor` 健康检查。提供 brew、go install 与安装脚本三种安装途径。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Gentle-AI 是一个对现有 AI 编码 agent 进行统一配置的工具：为 P
 
 ## 能力要点
 
-- 为 17 个编码 agent 写入各自原生配置，无 agent 锁定
-- Engram 记忆层跨会话保存项目决策与上下文
-- gentle-ai 二进制从磁盘状态确定性返回下一个有效转移（Working/Checking/Ready/Needs your decision）
-- 安全拒绝列表阻断 ~/.ssh、.env 与凭据文件，每次写入前快照配置备份
+- Engram 持久记忆层：跨会话保存决策并在后续会话先读记忆
+- ODD 工作流：小改动内联执行，大改动生成可恢复的特性文档
+- RDD 有界审查：候选冻结后按风险分级选择审查深度，默认开启可关闭
+- 统一配置 17 个编码 agent，使用各 agent 原生能力
 
 ## 适用场景
 
-- 为团队内多种 AI 编码 agent 统一配置工作流与记忆
-- 让 agent 跨会话记住项目决策而不必每天重讲
-- 对高风险变更执行分层的自动化审查流程
+- 让 Claude Code/Cursor 等 agent 跨会话记住项目决策
+- 为编码 agent 增加带证据的变更审查流程
+- 在一个团队里统一多个 agent 的工作流配置
 
 ## 场景标签
 
-`代码审查` `Agent 记忆` · 领域:Agent 开发
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L5:  The deterministic engineering environment for the AI agent you already use.
 > L169: Gentle-AI brings its shared workflow to Pi, OpenCode, Claude Code, Codex, and thirteen more agents. Each integrati
+> L171: **Docs →**
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5a8b0e61ec25` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1ef79d86d3ab` · [字段定义](../../DATASET.md)*

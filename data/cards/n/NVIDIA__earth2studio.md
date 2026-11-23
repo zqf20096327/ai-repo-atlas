@@ -2,15 +2,15 @@
 
 ⭐ 1,253 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/earth2studio) · [官网](https://nvidia.github.io/earth2studio/) · 组织维护
 
-**构建与部署 AI 天气气候工作流的 Python 推理工具包**
+**天气预报与气候 AI 建模的 Python 框架，供研究与部署**
 
-NVIDIA 维护的 Python 包，提供统一 API 接入第三方天气/气候 AI 模型（FourCastNet3、AIFS、GraphCast、CorrDiff、FuXi-S2S 等）、数据源（GFS/IFS/ERA5 等）与输出后端（Zarr），核心组件可组合以链式构建多数据源、多模型的推理流水线，并支持换用替代组件。提供模型动物园与云数据存储访问。注意：模型、权重与数据集的许可归各自提供方所有。附带可配合编码 agent（Claude/Codex 等）的安装与预测技能。
+NVIDIA 开源的深度学习框架，以单一 Python 包汇集天气与气候 AI 模型、生产级数据源、可组合的推理 API 与 GPU 加速工作流。功能覆盖全球与区域预测模型的预报、降水/风速等派生场诊断、稀疏观测同化、公开数据获取、集合与多模型耦合编排，结果可存储为 Zarr/NetCDF。1.0.0 为大版本重构，与 1.0 前版本不兼容，官方提供迁移指南；各模型依赖不同，需按安装指南配置。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,25 @@ NVIDIA 维护的 Python 包，提供统一 API 接入第三方天气/气候 AI �
 
 ## 能力要点
 
-- 统一 API 接入多种天气/气候 AI 模型与数据源
-- 可组合的推理流水线（数据→模型→输出链式连接）
-- 模型动物园与云数据存储优化访问
-- 提供 agent 辅助安装与首个确定性预报的技能集
+- 接入天气与气候 AI 模型集合，含预测、诊断、数据源 API
+- 支持观测同化与集合、多模型耦合工作流组合
+- 结果输出支持 Zarr、NetCDF 等格式
+- 提供 AGENTS.md 与 skills 供编码 agent 引导安装使用
 
 ## 适用场景
 
-- 用几行代码运行 AI 天气预报（如 FourCastNet3）
-- 组合多数据源与多模型搭建气候/天气推理流水线
-- 从 ERA5 到 HRRR 的生成式降尺度实验
+- 用 AI 模型生成全球或区域天气预报
+- 从公开数据源获取并处理分析、预报与观测数据
+- 组合多模型工作流并部署为推理服务
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+ · 领域:气象/气候科学
 
 ## 证据(README 行号)
 
-> L11: Earth2Studio is a Python-based package designed to get users up and running
-> L113: Earth2Studio is an *AI inference pipeline toolkit* focused on weather and climate
-> L114: applications that is designed to ride on top of different AI frameworks, model
+> L22: Access a leading collection of weather and climate AI models, production-ready data sources,
+> L66: - [**Forecast**][e2studio_px_api] with global and regional prognostic AI models.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d74dd566caf7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `32c215c73bb2` · [字段定义](../../DATASET.md)*

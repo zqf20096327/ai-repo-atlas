@@ -2,9 +2,9 @@
 
 ⭐ 1,332 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aegra/aegra) · [官网](https://aegra.dev) · 组织维护
 
-**LangSmith Deployments 的自托管开源替代：运行 LangGraph agent 后端**
+**自托管 AI agent 后端，替代 LangSmith Deployments**
 
-基于 FastAPI、PostgreSQL 与 Redis 的自托管 AI agent 后端，作为 LangSmith Deployments 的 drop-in 替代：复用同一 LangGraph SDK 与 API，在自有基础设施上部署 agent。提供 Agent Protocol v2 流式（线程级 SSE、内容块事件、human-in-the-loop 恢复）、定时 cron 任务、可配置认证（JWT/OAuth/Firebase）、pgvector 语义存储、OTLP 可观测性。通过 aegra-cli（pip 安装）或源码 + Docker Compose 运行，要求 Python 3.12+。
+基于 FastAPI 与 PostgreSQL 的自托管 agent 后端服务，兼容 LangGraph SDK 与 Agent Protocol，现有 LangGraph 代码无需修改即可接入。提供 worker 架构（Redis 任务队列、多实例水平扩展）、定时任务、webhook、人机协作审批门、SSE 流式输出、PostgreSQL 检查点持久化、pgvector 语义存储与 OpenTelemetry 追踪。鉴权支持 JWT/OAuth/Firebase。安装方式为 aegra-cli、源码加 docker compose。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 复用 LangGraph SDK 与 API 的自托管部署后端
-- Agent Protocol v2 线程级 SSE 流式与 human-in-the-loop
-- Redis 任务队列（每实例 30 并发）与多实例横向扩展
-- 内置定时 cron、可配置认证与 pgvector 语义存储
+- 兼容 LangGraph SDK 与 Agent Protocol v2 线程级 SSE 流式
+- Redis 任务队列 worker 架构，每实例 30 并发 run 与租约式崩溃恢复
+- 定时任务、webhook 回调与人机协作审批门
+- pgvector 语义存储与 OpenTelemetry 追踪分发
 
 ## 适用场景
 
-- 把 LangGraph agent 从 LangChain 云端迁到自有基础设施部署
-- 自托管运行 agent 并保持同一 LangGraph SDK 调用方式
-- 需要数据驻留在本地的 agent 生产部署
+- 在自己的服务器上部署 LangGraph agent，无需使用 LangSmith 云
+- 需要自定义 JWT/OAuth 鉴权与自有 Postgres 数据库的 agent 后端
+- 为 agent 运行添加定时触发与 webhook 通知
+- 将追踪数据分发到 Langfuse、Phoenix 等 OTLP 后端
 
 ## 场景标签
 
@@ -38,7 +39,8 @@
 ## 证据(README 行号)
 
 > L18: Aegra is a drop-in replacement for LangSmith Deployments. Use the same LangGraph SDK, same APIs, but run it on your
-> L5:  Self-hosted LangSmith Deployments alternative. Your infrastructure, your rules.
+> L79: - **Worker architecture** - Redis job queue with 30 concurrent runs per instance, lease-based crash recovery, and h
+> L84: - **Persistent state** - PostgreSQL checkpoints via LangGraph
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7d521a193e97` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5de731134157` · [字段定义](../../DATASET.md)*

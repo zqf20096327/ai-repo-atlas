@@ -2,9 +2,9 @@
 
 ⭐ 1,566 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/RayBytes/ChatMock) · 个人维护
 
-**把 ChatGPT 账号的 Codex 模型暴露为 OpenAI/Ollama 兼容本地 API**
+**让 Codex 模型以 OpenAI/Ollama 兼容 API 供聊天工具调用的本地服务器**
 
-以 ChatGPT 账号登录后，在本地 127.0.0.1:8000 启动服务，将账号可用的 gpt-5.x 系列模型通过 OpenAI 兼容 /v1/responses（HTTP+WebSocket）与 Ollama 兼容端点对外提供，供 Raycast、Terax 等聊天应用和编码工具接入。支持工具调用、视觉输入、思考摘要与推理力度配置、可选网页搜索与 fast mode，模型目录自动发现与刷新。提供 Homebrew、pipx/pip、GUI 安装包与 Docker 文档；声明与 OpenAI 无关联，需自担风险使用。
+基于 Codex 的本地代理服务器：用户登录 ChatGPT 账号后，启动服务在本地 8000 端口暴露 OpenAI 兼容的 /v1 接口与 Ollama 兼容端点，使 Raycast、Terax 等聊天与编码工具无需 API key 即可调用账号内可用模型。自动发现账号可用模型清单，支持工具调用、结构化输出、视觉输入、思维摘要、联网搜索等特性，可通过命令行标志或环境变量配置。README 声明项目与 OpenAI 无关联。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- OpenAI 兼容 /v1/responses（HTTP + WebSocket）与 Ollama 兼容端点
-- 自动发现并同步 ChatGPT 账号可用模型
-- 工具调用、视觉输入、思考摘要与可配置推理力度
-- 可选网页搜索与 fast mode
+- 暴露 OpenAI 兼容 /v1/responses（HTTP + WebSocket）与 Ollama 兼容端点
+- 自动发现登录账号可用的模型清单，支持 --no-model-sync 静态列表
+- 支持工具/函数调用、JSON schema 结构化输出、视觉输入、思维摘要与推理力度配置
+- 提供 Homebrew、pipx 与 Docker 三种安装方式
 
 ## 适用场景
 
-- 让 Raycast 等仅支持 OpenAI/Ollama 协议的应用调用 Codex 模型
-- 在编码工具中以 OpenAI 兼容 API 使用 ChatGPT 账号模型
-- 通过 API 请求开启网页搜索或 fast mode
+- 在 Raycast AI Chat 中直接使用 ChatGPT 账号内的模型
+- 将 Codex 模型接入支持 OpenAI Compatible provider 的终端工具
+- 在无界面服务器上以 headless 模式运行本地模型服务
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L42: The server runs at `http://127.0.0.1:8000` by default. Use `http://127.0.0.1:8000/v1` as your base URL for OpenAI-c
-> L90: - Ollama-compatible endpoints
+> L3: **Allows Codex to work in your favourite chat apps and coding tools.**
+> L39: The server runs at `http://127.0.0.1:8000` by default. Use `http://127.0.0.1:8000/v1` as your base URL for OpenAI-c
+> L88: - Ollama-compatible endpoints
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b9324af12c5e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e04699f5c51e` · [字段定义](../../DATASET.md)*

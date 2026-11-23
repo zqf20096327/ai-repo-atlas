@@ -2,9 +2,9 @@
 
 ⭐ 1,909 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) · 组织维护
 
-**面向工程师的 AI 基础设施生产级学习路径（10 模块+3 项目）**
+**面向工程师的 AI 基础设施学习课程（10 模块 500+ 小时）**
 
-AI Career Curriculum 生态下的开源课程仓库：以 10 个模块（共 500+ 小时）覆盖云平台、Docker、Kubernetes、数据管道、MLOps、GPU 计算、监控、IaC 与 LLM 基础设施，配 3 个实战项目（模型服务、MLOps 管道、LLM 部署平台）与 265+ 道测验题。面向有 2-4 年经验、已完成初级课程或具备 Python/Linux/K8s 基础的学习者；通过 git clone 获取，练习解答放在配对 solutions 仓库。2026 年更新中对完成度声明做了逐模块核算修正。
+面向有 2-4 年经验工程师的开源 AI 基础设施学习路径：10 个模块各 50 小时，覆盖云计算、容器化、Kubernetes、数据管道、MLOps、GPU 训练、监控、IaC 与 LLM 基础设施；含 62 个实验、265+ 道测验题与 3 个实战项目（模型服务、MLOps 管道、LLM 部署平台），配套练习解答在独立仓库中。入门要求 Python 3.9+、Linux CLI、Git、Docker/K8s 基础与 ML 基础知识。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ AI Career Curriculum 生态下的开源课程仓库：以 10 个模块（共 500
 
 ## 能力要点
 
-- 10 模块 207 文件约 95,000+ 行，覆盖基础设施到 LLM 部署
-- 3 个生产级项目（模型服务/MLOps 管道/LLM 部署平台）
-- 模块 102-110 配 265+ 道测验题
-- 提供高级与 Staff 工程师两条延伸阅读路径
+- 10 个学习模块共 130 个文件，约 500 小时学习内容
+- 62 个可运行实验与 265+ 道模块测验题
+- 3 个生产级项目：模型服务、MLOps 管道、LLM 部署平台
+- 学习材料声明可在云服务免费额度内完成
 
 ## 适用场景
 
-- 系统学习从容器编排到 LLM 推理服务的 ML 基础设施技能
-- 按模块测验自检云、Kubernetes、MLOps 掌握程度
-- 通过三个实战项目积累生产部署经验
+- 系统学习从 Docker/K8s 到 LLM 推理基础设施的工程技能
+- 准备 AI 基础设施工程师岗位所需的技术栈
+- 按实验步骤搭建模型服务与 MLOps 流水线练手
 
 ## 场景标签
 
-`教程课程` `MLOps` · 领域:学习与行业
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L18: This repository contains a **complete, production-ready learning path** for becoming an **AI Infrastructure Enginee
-> L70: ### 10 Complete Learning Modules (130 Files)
-> L72: |Module|Topic|Hours|Status|Quiz|
+> L38: - 🚀 **Progressive**: 10 modules building from basics to advanced LLM infrastructure
+> L48: - 🧪 **All 62 promised labs authored** across all 10 modules (foundations → LLM infrastructure). Each lab is a subst
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `7d8f5bc67866` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `fa7a7aec9cea` · [字段定义](../../DATASET.md)*

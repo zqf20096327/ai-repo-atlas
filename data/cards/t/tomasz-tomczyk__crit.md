@@ -2,9 +2,9 @@
 
 ⭐ 1,351 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tomasz-tomczyk/crit) · [官网](https://crit.md) · 个人维护
 
-**在浏览器中审阅 AI 编码 agent 的计划、diff 与运行中应用的工具**
+**开发者在浏览器中审查 AI agent 的计划、diff 与运行中的应用**
 
-本地优先的单一二进制 CLI：将 agent 产出的 markdown 计划渲染为可评论页面、把 git 变更显示为语法高亮 diff、代理运行中的开发服务器或静态 HTML 并叠加评论层。点击行号留评论后，agent 通过集成命令读取反馈并继续修改，形成审阅循环。支持 Claude Code、Cursor、Copilot 等十余种 agent 集成，提供 GitHub PR/GitLab MR 双向同步、异步分享 URL 与可选的 LLM 驱动 story mode（单独计费）。
+一个本地运行的 CLI 工具，为 AI coding agent 产出提供浏览器审查界面：markdown 计划文件渲染注释、git 变更显示为 diff、dev server 经代理叠加审查层、静态 HTML 与 Excalidraw 画布支持点选评论。通过 /crit 斜杠命令集成到多种 agent，agent 启动 Crit、等待评论后据此修改，循环至通过。story mode 由 LLM 生成分章概览（额外 LLM 开销），Share 功能可上传生成公开 URL，支持 GitHub PR / GitLab MR 双向评论同步。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- plan/diff/运行中应用/静态 HTML 各自独立的审阅 UI
-- 行级与范围评论，agent 可经 `crit comment` 程序化添加评论
-- GitHub PR 与 GitLab MR 评论双向同步（pull/push）
-- 分享审阅生成公开 URL，支持多人彩色标注评论
+- 为计划/diff/运行应用/HTML/Excalidraw 各类型输出提供专属审查 UI
+- 本地运行的单二进制，支持 brew/go/nix/Arch/Windows 多渠道安装
+- /crit 命令自动化审查循环，评论直接回传给 agent
+- GitHub PR 与 GitLab MR 评论双向同步
 
 ## 适用场景
 
-- 让 AI 编码 agent 完成工作后，我点行留评论并让它按反馈修改
-- 把 agent 的计划文档在浏览器里逐条批注再交给它执行
-- 对运行中的开发服务器页面直接圈点问题反馈给 agent
-- 把审阅分享给同事做异步二次评审，再同步回 GitHub/GitLab
+- 让 AI agent 改代码后逐行审查 diff 并留评论
+- 审查 agent 写的技术方案文档
+- 代理审查正在运行的本地 dev server 界面
+- 把评审链接分享给他人异步提意见
 
 ## 场景标签
 
@@ -39,7 +39,8 @@
 ## 证据(README 行号)
 
 > L8: Review your coding agent's plans, diffs and running apps in the browser. Click a line, leave a comment, and the agen
-> L60: Crit also works with Cursor, GitHub Copilot, OpenCode, OMO, omp, Codex, Gemini, Qwen, Hermes, Windsurf, Cline, Grok
+> L67: Crit also works with Cursor, GitHub Copilot, OpenCode, OMO, omp, Codex, Gemini, Qwen, Hermes, Windsurf, Cline, Grok
+> L24: Everything runs locally from a single binary.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `4fa86eb20010` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `007392a3c21c` · [字段定义](../../DATASET.md)*

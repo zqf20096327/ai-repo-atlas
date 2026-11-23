@@ -2,9 +2,9 @@
 
 ⭐ 1,779 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google/adk-java) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
-**Google 开源的 Java 版 AI agent 构建工具包**
+**面向开发者的 Java 代码优先 AI Agent 构建工具包**
 
-Agent Development Kit (ADK) 的 Java 实现：以代码优先方式在 Java 中定义 agent 行为、编排与工具调用，支持组合多 agent 层级、复用预置工具/自定义函数/OpenAPI 规格工具，并与 Google Cloud 服务及 Google 生态集成。提供与 Python ADK 相同的特性与接口、内置开发 UI（测试/评估/调试 agent），评估功能标注 Coming soon，并集成 A2A 协议实现远程 agent 间通信。经 Maven Central 分发，Apache 2.0 许可。README 声明部分功能处于 Pre-GA 阶段，可能支持有限。
+Agent Development Kit (ADK) 的 Java 版本，供需要在构建高级 AI Agent 时获得细粒度控制与灵活性的开发者使用。支持在 Java 代码中直接定义 Agent 行为、编排与工具使用，便于调试、版本管理与部署。提供预构建工具、自定义函数、OpenAPI 规格接入的工具生态，支持将多个专用 Agent 组合为多 Agent 层级系统，并内置开发 UI 用于测试、评估与调试。与 Google Cloud 服务及 Python ADK 保持一致，Agent 评估功能尚未发布（标注 Coming soon）。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@ Agent Development Kit (ADK) 的 Java 实现：以代码优先方式在 Java 中�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 在 Java 代码中定义 agent 逻辑、工具与编排
-- 组合多个专门 agent 成层级式多 agent 系统
-- 内置开发 UI 用于测试、调试与展示 agent
-- 集成 A2A 协议的远程 agent 间通信
+- 代码优先：在 Java 中直接定义 Agent 逻辑、工具与编排
+- 模块化多 Agent 系统与丰富的工具生态（预构建工具/自定义函数/OpenAPI）
+- 内置开发 UI 用于测试、评估、调试与展示 Agent
+- 集成 A2A 协议实现远程 Agent 间通信
 
 ## 适用场景
 
-- 用 Java 构建与 Google Cloud 服务集成的 AI agent 应用
-- 在代码中编排多 agent 层级系统
-- 使用内置开发 UI 测试和调试 agent
+- 用 Java 构建与 Google Cloud 服务深度集成的 AI Agent
+- 组合多个专用 Agent 构建多 Agent 应用
+- 使用开发 UI 调试与展示自己的 Agent
+- 通过 A2A 协议实现 Agent 间远程通信
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Agent Development Kit (ADK) 的 Java 实现：以代码优先方式在 Java 中�
 
 ## 证据(README 行号)
 
+> L10:  An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexi
 > L19: Agent Development Kit (ADK) is designed for developers seeking fine-grained
-> L22: behavior, orchestration, and tool use directly in code, enabling robust
-> L34: - **Modular Multi-Agent Systems**: Design scalable applications by composing
+> L20: control and flexibility when building advanced AI agents that are tightly
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b9aeca853747` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f7d182b206d0` · [字段定义](../../DATASET.md)*

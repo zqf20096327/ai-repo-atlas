@@ -2,9 +2,9 @@
 
 ⭐ 1,540 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Gsync/jobsync) · [官网](https://jobsync.ca) · 个人维护
 
-**自托管求职助手：AI 简历评审、岗位匹配与投递追踪**
+**自托管的求职申请追踪器，附 AI 简历评审与职位匹配**
 
-面向求职者的自托管 Web 应用：集中管理投递记录、简历、联系人、面试题目与任务，并通过 AI 助手完成简历评审打分、简历-岗位匹配、求职信撰写、从粘贴的招聘信息中抽取建岗。支持定时从 Greenhouse/Lever/Ashby 公司招聘板自动发现新岗位并用 AI 匹配简历。可用 Ollama 本地运行模型，或配置云厂商 API key；另暴露 MCP server 供 Claude Desktop 等 agent 直接录入岗位与题目。通过 Docker Compose 部署，数据留在用户服务器。AI 模型需支持结构化输出与工具调用。
+面向求职者的自托管应用：追踪投递记录、面试、联系人、任务与公司信息，支持 PDF 简历导出与导入；AI 部分提供简历评审、职位匹配评分、求职信生成、从粘贴的职位描述中提取结构化信息，以及定时抓取 Greenhouse/Lever/Ashby 职位板并按简历做匹配排名。模型可通过 Ollama 本地运行或接入云服务商 API，密钥保存在设置中并可加密；通过 Docker Compose 部署，内置 Postgres，暴露 MCP server 供 Claude Desktop 等 agent 客户端写入数据。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- AI 简历评审、岗位匹配评分与求职信生成，结果保存回简历/岗位
-- Greenhouse/Lever/Ashby 定时自动发现岗位并用 AI 匹配简历
-- Ollama 本地模型默认支持，或配置云厂商 API key
-- MCP server 供 Claude Desktop 等 agent 直接添加岗位与面试题
+- AI 助手聊天面板：简历评审、职位匹配评分、求职信生成
+- 定时自动化抓取 Greenhouse/Lever/Ashby 职位板并做 AI 匹配
+- MCP server 支持 Claude Desktop、Hermes、OpenClaw 等 agent 客户端添加职位与题库条目
+- AI 调用按 provider/model/feature 统计 tokens、响应时间与失败
 
 ## 适用场景
 
-- 在一处集中管理我的全部求职投递、简历与联系人
-- 用 AI 审简历、评估岗位匹配度并生成求职信
-- 定时自动发现目标公司新岗位并按简历相关度排序
+- 集中管理求职投递、面试轮次与联系人记录
+- 让 AI 评审简历并给职位打匹配分、生成求职信
+- 定时监控目标公司职位板，自动发现新岗位
+- 通过 Claude Desktop 等 agent 语音/对话式录入职位信息
 
 ## 场景标签
 
-`AI 助手` `网页抓取` · 领域:效率与自动化
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L16: Track every application, get AI resume reviews and job matches, and discover new openings automatically — **free, o
-> L47: - **AI Assistant:** A docked chat that reviews resumes, scores job matches, writes cover letters and adds jobs you 
+> L35: - **Application Tracker:** Record every application with its company, title, dates and current status.
+> L49: - **AI Assistant:** A docked chat that reviews resumes, scores job matches, writes cover letters and adds jobs you 
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ea5ff496a278` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cdb94ed9ae92` · [字段定义](../../DATASET.md)*

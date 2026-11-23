@@ -1,16 +1,16 @@
 # keinsaasforever/better-chatbot
 
-⭐ 1,196 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/keinsaasforever/better-chatbot) · [官网](https://app.keinsaas.com/) · 个人维护
+⭐ 1,196 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/keinsaasforever/better-chatbot) · [官网](https://app.keinsaas.com/) · 组织维护
 
-**面向个人与团队的开源 AI 聊天工作台，支持 MCP 与自动化**
+**自托管的 AI 对话与 agent 工作平台**
 
-基于 Next.js 与 Vercel AI SDK 构建的开源聊天应用（原 better-chatbot，现名 Keinsaas Navigator）：接入 OpenAI、Anthropic、Google、xAI、Ollama 等多家模型提供商，需至少一个 API key。功能包括 MCP 协议工具调用、网页搜索（Exa）、JS/Python 执行、AI 图像生成、可视化工作流、自定义 agent、实时语音助手与团队共享配置。可通过 Vercel 一键部署或 Docker Compose/pnpm 本地运行，数据存储依赖 Postgres 与 Vercel Blob。
+keinsaas Navigator（前身 better-chatbot）是一个可自托管的开源 AI 工作区：提供流式对话、文件附件、@提及的 agent、可视化 workflow 编辑器、MCP 服务器连接（HTTP/stdio、OAuth）、定时任务、实时语音与 pgvector 本地检索。模型默认经 Vercel AI Gateway 单 key 接入多家服务商，也可改连 Ollama/LM Studio 或任意 OpenAI 兼容端点。部署支持 Vercel 一键部署、Docker Compose 与本地 pnpm 开发环境；桌面应用（beta）支持本地 stdio MCP。许可证为 MIT。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 多模型接入（OpenAI/Anthropic/Google/xAI/Ollama 等）
-- MCP 协议工具调用与 @mention 快速调用机制
-- 可视化工作流与自定义 agent 可发布为聊天内可调用工具
-- 内置实时语音助手、网页搜索、图像生成与代码执行
+- agent/skills/workflow 三层组织，@提及即可在对话中调用
+- MCP 工具服务器连接（HTTP 与 stdio，含 OAuth）
+- pgvector 本地文档检索，无需外部服务
+- 单 AI_GATEWAY_API_KEY 接入多家模型，或改连 Ollama/LM Studio 本地模型
 
 ## 适用场景
 
-- 个人或团队搭建自带工具调用能力的 AI 聊天助手
-- 通过自定义 agent 与工作流把 MCP 工具组合成自动化流程
-- 自托管部署（Vercel/Docker）一个多用户 AI 工作台
+- 在自己的服务器上搭建多模型对话与 agent 工作区
+- 用可视化编辑器把 LLM 调用、HTTP、代码步骤编排成 workflow 工具
+- 连接 MCP 服务器让 agent 调用自有工具与应用
+- 在本地运行模型并让数据不出本机
 
 ## 场景标签
 
-`聊天机器人` `工作流自动化` `语音 Agent` `图像生成` · 领域:效率与自动化
+`聊天机器人` `工作流自动化` `语音 Agent` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L28: **Keinsaas Navigator** - A better open-source AI chatbot for individuals and teams, inspired by ChatGPT, Claude, Gr
-> L30: • **Multi-AI Support** - Integrates all major LLMs: OpenAI, Anthropic, Google, xAI, Ollama, and more
-> L39: Built with Vercel AI SDK and Next.js, combining the best features of leading AI services into one platform.
+> L7: **An open-source AI chat and agent platform you can host yourself.**
+> L9: Talk to any model, attach your files, connect MCP tool servers, build workflows,
+> L174: **MCP tool servers.** Connect any Model Context Protocol server over HTTP or
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3423e0cf15a2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `2ec8e670dc4f` · [字段定义](../../DATASET.md)*

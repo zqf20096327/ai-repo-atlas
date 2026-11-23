@@ -2,9 +2,9 @@
 
 ⭐ 2,089 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/HaD0Yun/CozyClay) · [官网](https://cozyclay.org) · 个人维护
 
-**浏览器端开源预演软件：搭建场景、调度镜头后交给 AI 视频模型**
+**给影视/动画创作者：浏览器内3D预演并导出到AI视频模型**
 
-运行于浏览器标签页的开源 previs 工具：用图元搭景、放置绑骨角色或替身胶囊，通过自然语言让 agent 生成 motion spec 并由浏览器内确定性编译器烘焙动作，QA 检查碰撞、脚滑、接触等；时间线上排布镜头、绘制轨道，导出首尾帧、greybox 参考视频、深度/法线通道、prompt 与 OTIO 剪辑表，供 AI 视频模型生成画面。支持 Agent 面板（ChatGPT 登录或自有 key）、MCP 服务与 CLI 三种驱动方式。安装仅需 npx cozyclay 与 Node 22.19+、Chromium，无需 GPU/Python/模型下载。
+浏览器中的开源 previs（预演）工具：用基础几何搭建场景、放置绑定角色、编排镜头运动与剪辑，随后将首末帧、灰盒参考片段、相机参数与提示词打包导出给 AI 视频模型。动作描述由 agent 生成 motion spec，浏览器内确定性编译器逐帧烘焙，并有碰撞/滑步等 QA 检查。可通过 Agent 面板、MCP 服务器或终端三种方式驱动。需 Node.js 22.19+ 与 Chromium 浏览器，无需 GPU、Python 或模型下载，AGPL-3.0 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 3D 场景调度 + 确定性动作编译与 QA（碰撞、脚滑、接触检查）
-- 导出关键帧包：首尾帧、greybox 视频、深度/法线通道、prompt、OTIO 剪辑表
-- 三种 AI 驱动界面：studio 内 Agent 面板、MCP 服务器、cclay live CLI
-- 无需 GPU/Python/模型下载，npx 一条命令启动
+- 导出关键帧包（首末帧、灰盒片段、相机、提示词）、mp4、深度/法线通道与 OTIO 剪辑清单
+- 自然语言动作生成 motion spec，浏览器内确定性编译器烘焙每一帧，附碰撞/滑步/触及 QA 检查
+- 三种 AI 驱动入口：工作室内 Agent 面板、MCP 服务器（Claude Desktop/Code/Cursor）、终端 JSON 协议
+- npx 一条命令启动，不需要 GPU、Python 或模型下载
 
 ## 适用场景
 
-- 在 3D 里先定走位与镜头，再让 AI 视频模型按调度生成画面，减少按次付费的试错
-- 用 Claude/Cursor 等 MCP 客户端实时驱动场景编排
-- 制作分镜板、动态分镜（animatic）与镜头参照素材
+- 在花钱调用视频模型前，先用 3D 灰盒确定走位、镜头与剪辑点
+- 通过 MCP 让 Claude Desktop/Cursor 等客户端直接操作预演场景
+- 制作分镜板（storyboard）与动态分镜（animatic）
 
 ## 场景标签
 
-`视频生成` · 领域:内容生成
+ · 领域:创作工具/影视预演与AI视频
 
 ## 证据(README 行号)
 
-> L4:  Open source previs in a browser tab: block the set, move the cast, cut the camera, hand the shot to an AI video mod
-> L30: CozyClay lets you make those decisions first, in 3D, where they are cheap to change. Then the video
+> L15:  Open source previs in a browser tab: block the set, move the cast, cut the camera, hand the shot to an AI video mo
+> L42: model gets the shot as a first frame, a greybox reference clip and a prompt that describes the
+> L76: |**Shoot**|Put shots on a timeline, draw dolly rails, look through the lens. Each shot knows the limits of the vide
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `29040d0140cd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ccb68e0c420e` · [字段定义](../../DATASET.md)*

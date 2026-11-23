@@ -2,9 +2,9 @@
 
 ⭐ 1,517 · Go · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/pgrundev/pgbot) · [官网](https://pgbot.dev) · 个人维护
 
-**只读 PostgreSQL 诊断 CLI，可选 AI 解读结果**
+**面向 DBA 与 AI agent 的 Postgres 只读健康诊断 CLI**
 
-Go 编写的单二进制 PostgreSQL 诊断工具：以 pg_monitor 只读角色连接，读取 Postgres 自身统计视图，生成健康报告、慢查询排名、索引/表/vacuum 分析、ER 图等，并以本地基线对比展示变化；--json 输出为版本化契约，并提供 MCP 服务供 AI agent 读取结构化发现。inspect/queries 等核心命令完全确定性、无需 API key；可选的 ask/explain 命令调用 LLM 对同一发现做自然语言解读，AI 层只解释、不生成发现。支持 PostgreSQL 14–18，需 pg_monitor 角色可选依赖 pg_stat_statements/hypopg。
+单个静态二进制，以只读 pg_monitor 角色连接 PostgreSQL 14–18，读取数据库自身统计视图，输出以发现为先的健康报告（缓存命中、锁等待、回滚、空闲索引等），并从第三次运行起对比本地基线指出变化。所有发现由 Go 从 SQL 确定性计算；可选的 ask/explain 层仅对发现做自然语言解释，不生成发现。提供 --json 版本化契约与 MCP 服务，供 AI agent 消费结构化结果。无需部署任何服务，不要求写权限。
 
 ## 筛选速览
 
@@ -20,27 +20,28 @@ Go 编写的单二进制 PostgreSQL 诊断工具：以 pg_monitor 只读角色�
 
 ## 能力要点
 
-- 确定性发现计算，可选 AI 层只解释不生成
-- 本地基线存储，报告变化与回归原因（diff/why）
-- 版本化 --json 契约与 pgbot mcp 服务供 agent 接入
-- 单静态二进制，无需部署采集器或数据库服务
+- 只读保障基于 pg_monitor 角色，叠加会话级只读与超时锁定
+- 本地基线记录，可输出与上次运行相比的变化与回归解释
+- --json 版本化契约（schema 1.5.0）与 pgbot mcp 服务面向 AI agent
+- 可选 AI 层仅解释确定性发现，无 key 的功能完全离线运行
 
 ## 适用场景
 
-- 快速诊断我负责或不拥有的 Postgres 实例健康状态
-- 在 CI 中用 lint 与 --fail-on 做数据库门禁
-- 让 AI agent 通过 MCP 读取结构化 Postgres 发现做推理
-- 排查慢查询、未使用索引与 autovacuum 积压
+- 快速体检一台不熟悉的 PostgreSQL 数据库而不部署监控平台
+- 在 CI 中以退出码门禁拦截引入严重发现的迁移 PR
+- 让 AI agent 通过 MCP 获取结构化的数据库诊断发现
+- 排查变慢的查询、未使用索引与 autovacuum 滞后
 
 ## 场景标签
 
- · 领域:数据库运维/可观测性
+ · 领域:数据库/可观测性
 
 ## 证据(README 行号)
 
-> L63: Everything else — `inspect`, `queries`, `indexes`, MCP, CI — is fully
+> L82: `pgbot explain` put a plain-language AI reading on top of the same findings.
 > L98: |**Findings are deterministic**|Every finding is computed in Go from SQL. The optional AI layer explains findings; 
-> L208: |`ask "…"` · `explain`|a plain-language AI reading of the same deterministic findings|
+> L100: |**Built for agents**|`--json` is a versioned, PII-free contract; `pgbot mcp` exposes the same findings over the M
+> L211: |`mcp`|serve the findings to an AI agent over MCP|
 
 ## 星数曲线
 
@@ -56,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a44667b8e2fd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `18391ace1f32` · [字段定义](../../DATASET.md)*

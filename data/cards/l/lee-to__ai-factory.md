@@ -2,9 +2,9 @@
 
 ⭐ 1,165 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/lee-to/ai-factory) · [官网](https://aif.cutcode.dev) · 个人维护
 
-**一条命令为各类 AI 编程代理安装技能与配置的开发环境工具**
+**为 AI 编程 agent 一键配置技能、提示与工作流的 CLI**
 
-面向使用 AI 编程代理的开发者的 CLI 工具：通过 ai-factory init 交互式向导或命令行参数，安装 aif-* 技能集、配置 MCP 服务器与多种代理（Claude Code、Cursor、Codex、Gemini CLI 等）的集成，形成规范驱动（spec-driven）的开发工作流，包含 explore/plan/implement/fix/evolve 等斜杠命令。技能也可不经完整安装，单独经 skills.sh 用 npx skills 添加。以 npm 全局包分发，声明与语言/框架无关，MIT 许可。
+一个 npm 分发的 CLI 工具（ai-factory init），为 AI 编程 agent 搭建开发环境：交互式向导安装相关 skills、配置 MCP 服务器、生成 slash 命令，采用 spec-driven 开发流程（explore/grounded/plan/implement/fix/evolve 等）。支持 Claude Code、Cursor、Codex CLI、Gemini CLI 等多种 agent，语言与框架无关；技能可经 skills.sh 单独安装（仅技能文件，不含 CLI 与 MCP 配置）。MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- ai-factory init 一条命令安装技能、配置 MCP 与代理集成
-- 支持 Claude Code、Cursor、Codex、Gemini CLI 等十余种代理
-- 规范驱动开发流程：explore/plan/implement/fix/evolve 斜杠命令
-- 技能可单独经 skills.sh 安装（npx skills add）
+- 一条命令安装技能、配置 MCP 与集成，支持交互与非交互（--agents/--mcp/--skills）模式
+- spec-driven 开发工作流：explore、grounded、plan、fix、implement、evolve 等 slash 命令
+- 支持 Claude Code、Cursor、Codex、Gemini CLI、GitHub Copilot 等多种 agent，栈无关
+- reflex loop（生成→评估→批判→精炼）与技能自进化（/aif-fix 反哺 /aif-evolve）
 
 ## 适用场景
 
-- 为常用 AI 编程代理快速搭建技能与 MCP 配置
-- 用规范驱动的计划-实现-修复流程组织 AI 辅助开发
-- 只取用 aif-* 技能文件到已有环境
+- 新项目中快速为团队选定的 AI agent 配置统一开发工作流
+- 以 spec 驱动方式让 AI 按计划实现功能而非自由探索
+- 仅安装 aif-* 技能文件到现有 agent 环境中
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+ · 领域:开发者工具/AI 编程工作流
 
 ## 证据(README 行号)
 
-> L22: ai-factory init
-> L32: - **Multi-agent support** — Claude Code, Cursor, Windsurf, Roo Code, Kilo Code, Antigravity 2.0, OpenCode, Warp, Ze
-> L58: This will:
+> L29: - **Spec-driven development** — AI follows plans, not random exploration. Predictable, resumable, reviewable
+> L32: - **Multi-agent support** — Claude Code, Cursor, Devin CLI, Devin Desktop (formerly Windsurf), Roo Code, Kilo Code,
+> L39: npm install -g ai-factory
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4d7edf3f8dbc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `71f92d362a96` · [字段定义](../../DATASET.md)*

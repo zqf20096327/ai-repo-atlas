@@ -2,9 +2,9 @@
 
 ⭐ 2,284 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/OpenCoworkAI/open-cowork) · [官网](https://github.com/OpenCoworkAI/open-cowork) · 组织维护 · 中文 README
 
-**给普通用户的开源 AI agent 桌面应用，一键安装多模型办公自动化**
+**普通用户可一键安装的 AI agent 桌面应用（Win/macOS）**
 
-面向 Windows/macOS 用户的 Electron 桌面应用，把 Claude Code、OpenAI、Gemini、DeepSeek、GLM、MiniMax、Kimi 等模型封装进 GUI，无需命令行即可使用。提供内置 Skills 系统生成 PPTX/DOCX/XLSX/PDF、MCP 连接器接入浏览器与 Notion、GUI 自动化操作、飞书/Slack 远程控制，以及 WSL2/Lima VM 级沙箱隔离。MIT 许可，应用本身免费，模型 API 费用自理；Linux 需从源码构建。
+Electron 桌面应用，将 Claude、OpenAI 兼容 API、GLM 等模型封装进图形界面，免代码配置 API Key 即可运行 agent。提供沙箱隔离（Windows 走 WSL2、macOS 走 Lima 虚拟机，无 VM 时回退到路径限制）、内置 PPTX/DOCX/XLSX/PDF 文档生成 Skills、MCP 连接器（浏览器、Notion 等）、GUI 自动化操作，以及通过飞书/Slack 远程控制。支持自定义 Skill，操作轨迹面板可查看推理与工具执行过程。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 内置 Skills 生成 PPTX/DOCX/XLSX/PDF，支持自定义技能
+- 三级沙箱：路径限制 + WSL2/Lima VM 级隔离，命令在隔离环境执行
+- 内置 Skills 系统生成 PPTX/DOCX/PDF/XLSX，支持自定义创建
 - MCP 连接器接入浏览器、Notion 等外部服务
-- WSL2 (Windows)/Lima (macOS) VM 级沙箱隔离
-- 飞书 (Lark) 与 Slack 远程控制
+- 多模型配置：OpenRouter/Anthropic 及 GLM、MiniMax、Kimi，含 GUI 自动化与飞书/Slack 远程控制
 
 ## 适用场景
 
-- 不写代码就让我读财报 CSV 并生成 PowerPoint 摘要
-- 让 AI agent 在沙箱里管理文件和操作桌面 GUI 应用
-- 通过飞书或 Slack 远程向本机 agent 下达指令
+- 不写代码在桌面跑 AI agent 处理文件、生成 PPT/表格
+- 让 AI 在虚拟机沙箱内安全地操作本地文件
+- 通过飞书/Slack 远程给家中电脑的 agent 下指令
+- 接入 Notion、浏览器等桌面应用扩展 agent 能力
 
 ## 场景标签
 
-`GUI 自动化` `编码 Agent` `AI 助手` · 领域:效率与自动化
+`GUI 自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L20: Open Cowork is a free, open-source AI agent desktop application for Windows and macOS. It wraps Claude Code, OpenAI
-> L202: Open Cowork is a free, open-source desktop application that provides a local AI agent workspace. It wraps AI model
-> L204: **How is Open Cowork different from Claude Cowork?**
+> L39: - **One-Click Install, Ready to Use**: Pre-built installers for Windows and macOS, no environment setup needed—just
+> L49: - **VM-Level Isolation**: WSL2 (Windows) and Lima (macOS) VM isolation—all commands execute in an isolated VM to pr
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `72a0df4ba813` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0071b79006d3` · [字段定义](../../DATASET.md)*

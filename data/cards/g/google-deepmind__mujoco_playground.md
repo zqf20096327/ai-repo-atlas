@@ -2,15 +2,15 @@
 
 ⭐ 2,331 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/google-deepmind/mujoco_playground) · [官网](https://playground.mujoco.org) · 组织维护
 
-**GPU 加速的机器人学习环境套件，支持 sim-to-real 迁移**
+**面向机器人研究者的仿真-真机 RL 环境与工作流库**
 
-基于 MuJoCo MJX 构建的 GPU 加速机器人学习环境库，收录 dm_control 经典控制、四足/双足运动、非抓取与灵巧操作等环境，并通过 MJWarp 批量渲染器提供视觉支持。面向机器人学习研究者，支持 MuJoCo MJX（JAX）与 MuJoCo Warp 两种后端，提供 CLI 训练脚本（PPO）、Colab 教程与 rscope 训练可视化。限制：从源码安装需 Python 3.10+ 与 CUDA 12 的 JAX；NVIDIA Ampere GPU 上存在 TF32 精度导致的复现性问题。
+MuJoCo 团队维护的机器人环境套件，用 PyTorch 编写，构建于 MuJoCo 与 MuJoCo Warp 之上，覆盖控制、操作与人形全身跟踪任务。支持 GPU 大批量 RL 训练、leader-follower 遥操作与 MCAP 日志、系统辨识（mujoco.sysid）、零样本 sim-to-real 策略部署（同一任务层以 --mode=sim/real 切换），并提供 VLM 桌面操作示例（SO-101、i2rt YAM）。安装走 PyPI/uv，硬件 SDK 为可选 extras，RSS 2025 JAX/MJX 环境保留在 rss2025 目录。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 覆盖经典控制、四足/双足运动与灵巧操作的环境集合
-- 支持 MuJoCo MJX（JAX）与 MuJoCo Warp 双后端训练
-- MJWarp 批量渲染器提供视觉环境支持
-- 提供 CLI 训练命令、Colab 教程与 rscope 可视化
+- 覆盖控制、操作、人形全身跟踪的 RL 环境与 GPU 大批量训练
+- 同一任务层与策略在仿真与硬件间切换（--mode=sim/real）
+- 系统辨识：用 mujoco.sysid 将仿真关节动力学拟合到真机轨迹
+- 提供 train/play/deploy/teleop/sysid/view_log 六个 CLI 命令
 
 ## 适用场景
 
-- 在 GPU 上大规模并行训练机器人 RL 策略
-- 将仿真中训练的策略迁移到真实机器人（sim-to-real）
-- 跟随 Colab 教程快速上手运动/操作/视觉环境
+- 在 GPU 上并行训练机械臂抓取等 PPO 策略并部署到真机
+- 用编码 agent 通过 prompt 启动 sim/real 桌面操作任务
+- 从真机日志辨识仿真关节动力学参数
+- 配合 SO-101/YAM 硬件做遥操作与 sim-to-real 实验
 
 ## 场景标签
 
@@ -37,10 +38,9 @@
 
 ## 证据(README 行号)
 
-> L7: A comprehensive suite of GPU-accelerated environments for robot learning research and sim-to-real, built with MuJoCo
-> L11: - Classic control environments from `dm_control`.
-> L12: - Quadruped and bipedal locomotion environments.
-> L13: - Non-prehensile and dexterous manipulation environments.
+> L9: MuJoCo Playground is a suite of robot environments, reinforcement learning tasks, and hardware workflows written in 
+> L54: To get started, try controlling a sim/real robot with your coding agent, or train an RL policy in sim and deploy it
+> L67: ### Train, visualize, and deploy an RL policy
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `545feb04a446` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `684f7a2e8c8f` · [字段定义](../../DATASET.md)*

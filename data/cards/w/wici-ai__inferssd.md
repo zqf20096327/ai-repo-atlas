@@ -1,10 +1,10 @@
 # wici-ai/inferssd
 
-⭐ 1,289 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wici-ai/inferssd) · [官网](https://wici.ai/wici-infer) · 组织维护
+⭐ 1,289 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wici-ai/inferssd) · [官网](https://wici.ai/wici-infer) · 组织维护 · 中文 README
 
-**从 SSD 流式加载 MoE 专家的推理引擎，可跑超内存大模型**
+**本地 LLM 推理运行时：从 SSD 流式加载超出内存的 MoE 模型**
 
-基于 llama.cpp/ggml 构建的推理运行时，将 MoE 模型的专家权重存放于 SSD 并按需流式加载，使总参数量超过 RAM/VRAM 的模型在消费级与工作站硬件上运行。使用标准 GGUF 文件，目前测试支持 DeepSeek-V4.1-Flash-1017（763B）与 Muse-Spark-Open（816B），提供终端聊天、浏览器 Web UI 与 OpenAI 兼容 API。通过脚本从源码编译安装（约 2-12 分钟），尚无预编译包；支持 macOS/Metal 与 Linux/CUDA，Windows 开发中。首次运行下载约 470 GiB 模型文件。
+基于 llama.cpp 构建的推理引擎，通过从 SSD 流式读取 MoE 专家权重，运行超出 RAM/VRAM 容量的大模型；使用标准 GGUF 文件，提供终端聊天、浏览器 Web UI 与 OpenAI 兼容 API（默认端口 8080，无鉴权）。macOS/Windows 提供预编译安装包，Linux 由安装脚本从源码构建，需 Git、Python 3.9+、C/C++ 编译器、systemd cgroup v2 及 CUDA 或 ROCm SDK。另有基于该引擎的免费桌面应用 WiCi Infer。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- SSD 流式加载 MoE 专家，运行超过 RAM/VRAM 的模型
-- 标准 GGUF 文件，OpenAI 兼容 API 与浏览器聊天界面
-- 无内存配置项，自动使用可用内存
-- macOS/Metal 与 Linux/CUDA 支持，Windows 进行中
+- SSD 流式加载 MoE 专家权重，无需模型适配内存
+- 使用标准 GGUF 文件，列出多款模型的多档量化（233–508 GB）
+- 提供 OpenAI 兼容 API（/v1）与浏览器聊天界面
+- README 附四种硬件平台上的 token/s 基准表
 
 ## 适用场景
 
-- 在 48GB MacBook Pro 或 8GB 显存显卡上运行 700B+ 参数 MoE 模型
-- 通过 OpenAI 兼容 API 在本地服务大模型
-- 对比 llama.cpp 在大 MoE 模型上的推理吞吐
+- 在 16–48 GB 内存的机器上运行 700+ B 参数的 MoE 模型
+- 本地起一个 OpenAI 兼容 API 供其他客户端调用
+- 在无终端的桌面环境下通过 WiCi Infer 下载模型并聊天
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L14: **Run models larger than your RAM or VRAM.** InferSSD builds on llama.cpp to run large mixture-of-experts (MoE) mod
-> L99: Built on llama.cpp and ggml, with thanks to their contributors and the model-adaptation community.
+> L17: **Run models larger than your RAM or VRAM.** InferSSD builds on llama.cpp to run large mixture-of-experts (MoE) mod
+> L116: **Desktop app.** WiCi Infer is a free app for macOS (Apple silicon) and Windows (x64), built on InferSSD. It sets 
+> L130: On macOS 15 or later on Apple silicon and on Windows 10 or 11 x64, the installer downloads the release's prebuilt 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `5865d7f1440e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `dca6107c3214` · [字段定义](../../DATASET.md)*

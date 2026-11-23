@@ -2,9 +2,9 @@
 
 ⭐ 1,301 · Kotlin · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/JMAN730/opendroid) · [官网](https://jman730.github.io/opendroid/) · 个人维护
 
-**Android 全自主 AI 代理：本地/云端 LLM 驱动手机自动化**
+**Android 端自主规划 AI Agent，用 LLM 与无障碍服务自动化操作手机**
 
-运行在 Android 手机上的自主 AI 代理应用：将自然语言指令拆解为多步计划并逐步执行、验证与重规划，通过 Accessibility API 与无障碍树实现系统设置、WhatsApp/Telegram 消息、通话、日历、叫车、UPI 支付等设备控制。内置基于 LiteRT-LM 的本地模型下载与导入管理，支持 13 家 LLM 提供商及自动故障切换，提供离线唤醒词、语音识别与屏幕视觉理解。面向终端用户，从源码用 Gradle 构建，需 JDK 21 与 Android SDK 35。
+运行在 Android 手机上的自主 AI Agent 应用：将用户的自然语言指令分解为多个步骤并逐一执行、验证、失败时重新规划。通过 Android Accessibility API 驱动 UI 自动化，覆盖系统设置、消息、通话、日程、导航、支付等操作；截图送入视觉 LLM 做屏幕理解，内置 LiteRT-LM 本地模型管理器支持下载/导入本地模型，另含唤醒词语音接口与个人知识图谱记忆。以 Kotlin/Jetpack Compose 构建的 Android 应用形式分发，需从源码构建并授予无障碍等多项权限。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 自规划引擎：任务拆解、依赖跟踪、失败时动态重规划
-- LiteRT-LM 本地模型管理：下载、SHA-256 校验、离线导入 .task/.litertlm 文件
-- 13 家 LLM 提供商支持与自动故障切换
-- 视觉引擎 + 4 层个人知识图谱 + 离线唤醒词语音接口
+- 自主规划引擎：步骤分解、依赖跟踪、失败重规划
+- 13 家 LLM 提供商接入与自动故障转移链
+- 基于 Accessibility API 的全设备控制与屏幕理解
+- LiteRT-LM 本地模型管理器，支持 Hugging Face 门控模型下载与离线导入
 
 ## 适用场景
 
-- 用一句话让手机代为完成多步任务（查天气、发消息、设闹钟）
-- 完全离线运行本地模型执行设备自动化
-- 自动挖掘日常 App 使用规律并生成一键例程
+- 用一句话让手机完成查天气、发消息、设闹钟的组合任务
+- 挖掘每日重复的应用使用序列并一键自动化
+- 完全离线场景下配合本地模型运行语音指令
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L24: OpenDroid isn't just another chatbot. It's a **fully autonomous AI agent** that lives on your Android phone and act
-> L28: OpenDroid will **plan** this as 3 steps, **execute** each one, **verify** the results, and **adapt** if anything fa
-> L118: OpenDroid supports **13 LLM providers** with automatic failover:
+> L116: ## 🔌 Supported LLM Providers
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `28e823b471e8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4c4071f0302d` · [字段定义](../../DATASET.md)*

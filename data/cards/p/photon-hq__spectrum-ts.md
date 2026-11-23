@@ -2,9 +2,9 @@
 
 ⭐ 2,206 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/photon-hq/spectrum-ts) · [官网](https://photon.codes/spectrum) · 组织维护
 
-**多渠道 agent 框架：让 AI agent 运行在 iMessage/SMS 等真实通讯界面**
+**让 AI agent 通过 iMessage/SMS/邮件等真实渠道触达用户的 TypeScript 框架**
 
-Photon 公司开源的多渠道 agent 框架（TypeScript，npm 包 spectrum-ts）：将 AI agent 接入 iMessage、WhatsApp Business、Telegram、Slack、终端等用户已有的通讯界面，而非仅限网页聊天。SDK 内含运行时与标准 provider 集合，也支持依赖 @spectrum-ts/core 按需精简安装；可完全独立运行，如通过 @spectrum-ts/imessage-local 连接本地 iMessage 数据库、自带 gRPC 端点或用 definePlatform 自建 provider。另提供 Spectrum Cloud 托管服务（app.photon.codes 注册获取项目 ID 与 secret）。
+Spectrum 是 Photon 开源的多渠道 agent 框架，提供运行时与一组平台 provider，使 AI agent 可通过 iMessage、SMS、邮件、Slack、Discord、Telegram、语音等人们已有的通信界面收发消息，而非局限在网页聊天中。SDK 以 npm 包分发，`spectrum-ts` 为 batteries-included 安装（含标准 provider 集），也可按需只装 `@spectrum-ts/core` 与所用 provider。支持 Spectrum Cloud 托管基础设施，也可完全独立运行：连接本地 iMessage 数据库、自带 gRPC 端点或自建 provider。启动阶段支持 AbortSignal 取消及失败时的资源清理。许可证为 Apache-2.0。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ Photon 公司开源的多渠道 agent 框架（TypeScript，npm 包 spectrum-ts�
 
 ## 能力要点
 
-- 接入 iMessage、WhatsApp Business、Telegram、Slack、终端等多平台
-- SDK 内含运行时与标准 provider 集，也可按需精简安装
-- 支持独立运行：本地 iMessage 数据库、自有 gRPC 端点、definePlatform 自建 provider
+- 多渠道接入：iMessage、SMS、email、Slack、Discord、Telegram、语音等
+- batteries-included 安装或按 provider 拆分安装两种方式
+- 支持 Spectrum Cloud 托管或完全自托管（本地 iMessage 数据库/自建 provider）
+- 启动取消机制：AbortSignal 传递、失败清理与 SpectrumStartupCleanupError
 
 ## 适用场景
 
-- 把自己的 AI agent 部署到 iMessage/Telegram/Slack 等用户日常使用的渠道
-- 构建跨多个通讯平台统一接入的 agent 服务
-- 通过 Spectrum Cloud 快速获得 iMessage 等平台托管凭据
+- 让 agent 通过 iMessage/SMS 与用户对话
+- 在 Slack/Discord/Telegram 中接入同一个 agent
+- 自托管连接本地 iMessage 数据库运行 agent
 
 ## 场景标签
 
@@ -36,8 +37,9 @@ Photon 公司开源的多渠道 agent 框架（TypeScript，npm 包 spectrum-ts�
 
 ## 证据(README 行号)
 
+> L4:  Photon (photon.codes) builds Spectrum, a multi-channel agent framework that makes AI agents reachable over real con
 > L16: Spectrum is Photon’s open-source multi-channel agent framework, enabling AI agents to communicate through interface
-> L14: **Photon** builds infrastructure for AI agents that operate over real communication channels.
+> L41: Spectrum also runs fully standalone — you can connect to a local iMessage database with the separate `@spectrum-ts/
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d62234bb7437` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `9f5e1ebf1055` · [字段定义](../../DATASET.md)*

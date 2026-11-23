@@ -2,9 +2,9 @@
 
 ⭐ 1,355 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/langchain-skills) · 组织维护
 
-**LangChain/LangGraph/Deep Agents 的 agent 技能库（21 个 SKILL.md）**
+**为 LangChain/LangGraph/LangSmith 开发提供技能包的插件仓库**
 
-LangChain 官方维护的编码 agent 技能集合：提供 21 个 SKILL.md 格式技能，覆盖 LangChain/LangGraph/Deep Agents 框架入门、快速启动模板、RAG、人机协同、持久化、编排与基于 Harbor 的评测工程等内容。通过 npx skills 安装到支持 Agent Skills 规范的编码 agent（Claude Code、Cursor、Windsurf、Codex 等），也可作为 Claude Code 插件或经 install.sh 脚本安装。项目自述处于早期开发阶段，API 与技能内容可能变化。
+由 LangChain 团队维护的编码 Agent 技能（skills）集合，为使用 Deep Agents、LangGraph、LangChain 构建应用、用 LangSmith 做评测、以及编写 Harbor 基准提供指导性技能内容。以 Claude Code/Codex/Deep Agents Code 插件形式安装，捆绑官方文档与 API 参考 MCP 服务器；也支持 npx skills 单独安装或克隆仓库用 install.sh/install.ps1 链接或复制安装。项目处于早期开发阶段，API 与技能内容可能变更。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ LangChain 官方维护的编码 agent 技能集合：提供 21 个 SKILL.md 格�
 
 ## 能力要点
 
-- 21 个技能覆盖 LangChain / LangGraph / Deep Agents 全栈主题
-- 支持 npx skills、Claude Code 插件、install.sh 脚本三种安装方式
-- 兼容任何支持 Agent Skills 规范的编码 agent
-- eval-engineering 技能需配合 Harbor（Docker 本地或云端）运行
+- 插件安装捆绑 langchain-docs 与 langchain-reference 两个文档 MCP 服务器
+- 支持 Claude Code、Codex、Deep Agents Code 三种插件市场安装方式
+- 兼容 Agent Skills 规范的代理可经 npx skills 安装，含全局/项目级、链接/复制模式
+- CI 校验技能中引用的 LangSmith CLI 命令与 flag 的有效性
 
 ## 适用场景
 
-- 让 Claude Code / Cursor 等编码 agent 掌握 LangChain 生态开发知识
-- 快速生成 LangChain 或 LangGraph 项目起步代码
-- 在编码 agent 中设计基于 Harbor 的评测任务
+- 让 Claude Code 等编码代理掌握 LangChain/LangGraph 开发指南
+- 在编码代理中查询官方文档与 API 参考（含离线回退路径）
+- 通过 LangSmith CLI 由代理查询与管理评测工作区
 
 ## 场景标签
 
-`代码生成` `模型评测` `教程课程` · 领域:编码与开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L5: Agent skills for building agents with LangChain, LangGraph, and Deep Agents.
-> L98: ## Available Skills (21)
+> L5: Opinionated skills for building applications with Deep Agents, LangGraph, and
+> L15: For agents that support the Agent Skills specification,
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ef3a270375cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `62ce4b572075` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 2,402 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Player-YN/BrowserKitten) · 个人维护 · 中文 README
 
-**Chrome 侧边栏 Web Agent 扩展：选区描述任务，带走可编辑文档**
+**Chrome 侧边栏浏览器 Agent：读登录页、执行操作、本地跟进**
 
-Chrome MV3 unpacked 扩展（爪爪·完全解放版），在侧边栏运行 agent，可驱动当前标签页、在浏览器内执行 guest JS，并在会话中保留表格/Univer 文档/站点 HTML 等产物。BYOK 模式：粘贴 OpenAI 兼容 API key（存于 chrome.storage.local），无托管模型、无服务器。不在 Chrome Web Store 上架，需开发者模式手动加载，无 package.json 与构建步骤，要求 Chrome 135+。
+MIT 许可的 Chrome MV3 扩展，在侧边栏提供 agent，可读取用户已登录的页面内容、将点击/表单/导航委托给执行模型、在工作区保存文档与文件，并支持本地定时跟进任务。采用 BYOK（自带密钥）配置，推理与执行需分别配置模型端点；对话、工作区与任务数据保存在本机。安装无需构建步骤，加载源码目录即可；无云执行环境与 OS/终端控制。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Chrome MV3 unpacked 扩展（爪爪·完全解放版），在侧边栏运行 age
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,26 @@ Chrome MV3 unpacked 扩展（爪爪·完全解放版），在侧边栏运行 age
 
 ## 能力要点
 
-- Chrome MV3 unpacked 扩展，侧边栏 agent 驱动当前标签页
-- BYOK：OpenAI 兼容 API key，无托管模型、无服务器
-- 会话内保留表格 / Univer 文档 / 站点 HTML 产物
-- 提供 Node 回归测试与 Playwright 浏览器冒烟测试
+- 读取已登录页面并委托点击、表单、导航给单独配置的执行模型
+- 会话工作区生成文档、HTML、数据等交付物
+- 本地定时跟进任务（分钟级调度，任务抽屉管理）
+- OpenAI 兼容 /chat/completions 端点的 BYOK 配置，无需订阅
 
 ## 适用场景
 
-- 在已登录的网页上让 agent 代为完成操作并产出文档
-- 把网页内容整理成可编辑的表格或文档
-- 本地自带 API key 使用浏览器自动化 agent
+- 在已登录的网页上让 agent 收集信息并汇总成文档
+- 让 agent 代为执行页面点击与表单填写
+- 设置本地定时检查任务并接收变更报告
 
 ## 场景标签
 
-`浏览器自动化` · 领域:效率与自动化
+`浏览器自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L7: Treat the already-logged-in Chrome as a programmable computer. 爪爪 is the agent on that machine.
-> L9: **爪爪 · 完全解放版** (`PawWork_ZhuaZhua`) is a Chrome MV3 **unpacked** extension. It runs a side-panel agent that can driv
-> L17: 3. Open the side panel → paste an OpenAI-compatible API key (BYOK; stored in `chrome.storage.local`) → send a task 
+> L16: Browser Kitten is an MIT-licensed Chrome MV3 extension with an agent in the side panel. It works with your existing
+> L50: Open **Settings** from the side-panel menu. For a bring-your-own-key setup:
+> L58: Inference and System1 can use the same provider, but must be configured separately. The unpacked build accepts your
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `12041d6970b4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1b376431fc57` · [字段定义](../../DATASET.md)*

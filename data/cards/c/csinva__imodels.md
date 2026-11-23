@@ -2,9 +2,9 @@
 
 ⭐ 1,630 · Jupyter Notebook · MIT · 推送 2026-11-13 · [GitHub](https://github.com/csinva/imodels) · [官网](https://csinva.io/imodels) · 组织维护
 
-**可解释机器学习 Python 库：20+ 种透明预测模型，兼容 sklearn**
+**面向数据科学者的可解释预测建模 Python 库**
 
-提供规则集、规则列表、规则树与代数模型等 20 多种可解释模型的统一 scikit-learn 接口，覆盖二分类、多分类与回归任务，含蒸馏、层级收缩、AutoML 选择等包装器。所有模型遵循 sklearn estimator API，可在 pipeline 与网格搜索中使用；规则型模型通过 get_rules() 以 DataFrame 输出所学规则，树模型可用 dtreeviz 可视化。面向数据科学与科研用户，pip 安装。
+提供与 scikit-learn 兼容的可解释模型集合，覆盖规则集、规则列表、规则树与代数模型四类形式，包括 RuleFit、贝叶斯规则列表、FIGS、分层收缩等约 30 种模型。统一使用 fit/predict 接口，可嵌入 sklearn pipeline 与网格搜索；规则型模型通过 get_rules() 输出所学规则，树模型暴露特征重要度与叶节点分配。部分模型依赖 numba 或 xgboost，贝叶斯类模型速度较慢，部分分类器仅支持二分类。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 20+ 种可解释模型（RuleFit、FIGS、Bayesian rule list、层级收缩等）统一 sklearn 接口
-- get_rules() 以 DataFrame 输出规则，支持 feature_importances_ 与 apply(X)
-- 蒸馏、AutoML 选择、后验正则化等包装器
-- 提供演示 notebook 与临床决策规则示例
+- 约 30 种可解释模型，统一 sklearn estimator API 并有测试保障
+- get_rules() 以 DataFrame 形式统一暴露规则型模型所学规则
+- 分层收缩等后处理包装器可作用于任意 sklearn 树模型
+- 支持 dtreeviz 绘树与特征重要度、叶节点分配检查
 
 ## 适用场景
 
-- 用规则列表/规则树替代黑箱模型做可解释预测
-- 从数据中提炼临床决策规则或风险评分
-- 训练后检视、可视化和解释模型所学规则
+- 用规则列表/规则树替代黑盒模型以获得可解释预测
+- 在临床数据上构建临床决策规则
+- 对已训练的树模型做后验解释与不确定性分析
 
 ## 场景标签
 
- · 领域:机器学习/数据科学
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L13: Modern machine-learning models are increasingly complex, often making them difficult to interpret. This package pro
-> L94: Different models support different machine-learning tasks. Current support for different models is given below (eac
+> L96: All of these models follow the standard sklearn estimator API, which is checked for every model in tests/model_api_
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e565031389a7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e11d0bb84b2b` · [字段定义](../../DATASET.md)*

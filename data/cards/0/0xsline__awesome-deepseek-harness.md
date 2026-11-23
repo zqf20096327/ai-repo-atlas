@@ -2,9 +2,9 @@
 
 ⭐ 1,393 · Python · CC0-1.0 · 推送 2026-11-06 · [GitHub](https://github.com/0xsline/awesome-deepseek-harness) · [官网](https://deepseekdocs.com/) · 个人维护
 
-**DeepSeek Harness 插件与生态工具的策展清单**
+**DeepSeek Harness (DSH) 插件与工具的策展清单**
 
-面向 DeepSeek Harness（DSH）编码代理运行时的 awesome 类生态清单：条目来源于 dsh-external/hub 目录与公开 dsh-plugin topic，收录插件、工具与基础设施，按 Core & Bundles、Agents & Orchestration 等类别组织。条目覆盖插件市场、多智能体编排、任务调度、会话迁移、模型评测与自进化引擎等。清单页同时给出官方运行时安装方式（npx @deepseek-ai/dsh）与通过 pnpm 安装外部 profile bundle 的命令；部分 dsh-external 仓库链接可能需要组织权限访问。
+面向 DeepSeek Harness (DSH) 生态的 curated 清单，条目来自 dsh-external/hub 目录与公开的 GitHub dsh-plugin 主题。内容覆盖安装方式、核心与 bundle 类插件（配置安装器、深度研究、工作流引擎、插件市场）、Agent 与编排类插件（多智能体协作、任务监督、双模型评测、子代理调度、自动恢复等）。部分 dsh-external 仓库链接仍需组织权限；插件仅当声明 dsh.bundle.patch 时才成为活动 profile 层。
 
 ## 筛选速览
 
@@ -13,22 +13,23 @@
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `viral` | CC0-1.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 条目来自 dsh-external/hub 目录与公开 GitHub dsh-plugin topic 两个来源
-- 收录插件市场、多智能体编排、任务调度、迁移向导等类别的生态项目
-- 给出官方运行时（npx）与 profile bundle（dsh plugin）两种安装途径
+- 条目来源为 dsh-external/hub 目录与公开 dsh-plugin 主题
+- 提供 npx 安装官方运行时与 pnpm 驱动的插件包安装流程
+- 覆盖多智能体编排、任务监督、双模型评测、会话恢复等插件类别
+- 含从 Claude Code/Codex/Cursor 等 14 个平台迁移技能的工具
 
 ## 适用场景
 
-- 为 DeepSeek Harness 查找可安装的插件与工具
-- 了解 DSH 生态中多智能体编排与工作流类项目的分布
-- 寻找从 Claude Code、Cursor 等平台迁移配置到 DSH 的工具
+- 为 DSH 查找可安装的插件与技能包
+- 搭建多智能体协作或任务编排工作流
+- 将其他 agent 平台的技能与配置迁移到 DSH
 
 ## 场景标签
 
@@ -36,8 +37,8 @@
 
 ## 证据(README 行号)
 
+> L4:  Awesome DeepSeek Harness
 > L15:  Curated DeepSeek Harness (DSH) ecosystem: plugins, tools &amp; infrastructure. Sources: dsh-external/hub catalog a
-> L6: # Awesome DeepSeek Harness Awesome
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3798903f9440` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `21eb6ac7ff2e` · [字段定义](../../DATASET.md)*

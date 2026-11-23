@@ -34,7 +34,7 @@ MemSearch 为 Claude Code、Codex、DeepSeek Harness、OpenClaw、OpenCode、Wor
 
 ## 场景标签
 
- · 领域:AI 开发工具/Agent 基础设施
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

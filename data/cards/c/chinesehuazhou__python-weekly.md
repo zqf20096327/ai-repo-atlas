@@ -1,10 +1,10 @@
 # chinesehuazhou/python-weekly
 
-⭐ 1,912 · 推送 2026-11-18 · [GitHub](https://github.com/chinesehuazhou/python-weekly) · [官网](https://weekly.pythoncat.top) · 组织维护 · 中文 README
+⭐ 1,912 · 推送 2026-11-18 · [GitHub](https://github.com/chinesehuazhou/python-weekly) · [官网](https://weekly.pythoncat.top) · 个人维护 · 中文 README
 
-**Python 生态中英文内容策展周刊（付费订阅制）**
+**面向 Python 开发者的中英文内容精选周刊**
 
-由 Python Cat 运营的周刊，从 400+ 中英文信息源筛选文章、教程、开源项目、软件工具、播客视频与热门话题，每期约 12 篇文章加 12 个开源项目，并附摘要与编者点评。制作流程采用 AI 聚合加人工筛选。已出版 171 期，累计收录 2071 篇文章与 1998 个项目；自第 47 期起转为付费订阅（Patreon），早期内容逐步免费开放（第 n+50 期）。通过官网、Telegram、微信等渠道分发。
+由 Python Cat 制作的技术周刊，从 400+ 中英文信息源中筛选文章、教程、开源项目、播客视频与热门话题，每期含 12 篇技术文章与 12 个开源项目，并附编辑摘要与补充材料。累计 175 期，收录 2119 篇文章、2046 个项目。自第 47 期起转为付费订阅（Patreon），旧期内容随更新逐步免费开放，通过官网、Telegram、微信、Twitter 等渠道分发。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 从 400+ 中英文信息源筛选内容
-- 每期约 12 篇文章加 12 个开源项目，附摘要与编者点评
-- AI 聚合加人工编辑的筛选流程
-- 已出版 171 期，累计 2071 篇文章与 1998 个项目
+- 每期精选 12 篇文章与 12 个开源项目，附编辑摘要与补充材料
+- 聚合 400+ 中英文信息源，双语发布
+- 对 1000+ star 的开源项目做特殊标注
+- 已发布 175 期，累计收录 2119 篇文章、2046 个项目
 
 ## 适用场景
 
-- 跟踪 Python 生态的文章与开源项目动态
-- 了解 Python 语言演进与社区热门话题
-- 按期回溯查找往期精选资源
+- 每周追踪 Python 生态的文章、教程与新开源项目
+- 了解 CPython、PEP、类型检查器等社区动态与热门话题
+- 作为学习资料源提升 Python 技能
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L18: Python Trending Weekly is produced by **Python Cat**, carefully curating over 400+ Chinese and English information 
-> L36: Each issue features 12 carefully selected technical articles plus 12 open-source projects, enhanced with multimedia
-> L40: AI technology efficiently aggregates massive information streams, while human editors apply rigorous standards to e
+> L38: ### 🤖 AI-Powered + Human-Curated
+> L52: Starting from issue #47, this weekly newsletter has transitioned to a paid model. If you'd like to learn more about
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `de041d69c1b7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `b793f95079e3` · [字段定义](../../DATASET.md)*

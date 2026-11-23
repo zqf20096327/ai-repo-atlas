@@ -2,9 +2,9 @@
 
 ⭐ 2,332 · Python · 推送 2026-11-17 · [GitHub](https://github.com/datawhalechina/zero-to-sglang) · [官网](https://datawhalechina.github.io/zero-to-sglang/) · 组织维护 · 中文 README
 
-**从零构建 LLM 推理引擎的 SGLang 实战教程课程**
+**从零构建 mini-sglang 的 LLM 推理教程课程**
 
-由 Datawhale 与 RadixArk（SGLang 团队创立的公司）联合推出的 LLM 推理教程：先讲解 KV Cache、prefill/decode、compute-bound 等推理基础概念，随后带领学习者从 0 到 1 手写 mini-sglang（前向传播、KV Cache、HTTP 服务、Continuous Batching、Paged KV Cache、RadixAttention），最后深入真实 SGLang 源码讲解量化、分层缓存等优化并指导完成首个 PR。课程仍在开发中（Part II/III 部分章节进行中），提供中英双语版本，Part I 无需 GPU，Part II 多数代码可在 CPU 上调试。
+Datawhale 与 RadixArk（SGLang 团队创立的公司）联合推出的 LLM 推理课程，提供英文与中文双语版本。内容分五部分：推理基础概念（KV Cache、prefill/decode、benchmark 指标）、从零手写 mini-sglang（前向生成、HTTP 服务、Continuous Batching、Paged KV Cache、RadixAttention）、对照真实 SGLang 源码讲解前沿优化（量化、分层缓存、PD 分离），以及 profiling 与 SGLang PR 工作流。Part I 无需 GPU，Part II 大部分可在 CPU 调试，完整性能测试建议用 GPU。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 四阶段课程：推理概念 → 手写 mini-sglang → 深读 SGLang 源码 → 贡献 PR
-- 覆盖 KV Cache、Continuous Batching、Paged KV Cache、RadixAttention 等核心机制
-- Part I 无需 GPU，Part II 大部分可在 CPU 调试
-- 中英双语版本，部分章节由 SGLang 核心成员撰写
+- 从 0 到 1 手写 mini-sglang，每步落地代码
+- 对照真实 SGLang 源码讲解 RadixAttention、Paged KV Cache、Continuous Batching 实现
+- 覆盖量化、分层缓存、DP Attention/EP/PP、Prefill-Decode 分离等前沿主题
+- 包含 profiling、trace 分析与完整 SGLang PR 工作流
 
 ## 适用场景
 
 - 系统学习 LLM 推理引擎的原理与实现
-- 跟随教程从零手写一个 mini-sglang
-- 为向 SGLang 贡献代码做准备（profiling 与 PR 流程）
+- 为向 SGLang 贡献首个 PR 做准备
+- 在 CPU 上调试 mini-sglang，在 GPU 云环境做性能测试
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L8:  A hands-on tutorial on LLM inference: build a mini-sglang from scratch, then read the real SGLang source.
-> L25: &emsp;&emsp;This course fills that gap. The first half starts from the core questions of inference: why KV Cache ex
+> L26: &emsp;&emsp;This course fills that gap. The first half starts from the core questions of inference: why KV Cache ex
+> L64: |Part I — Foundations (concepts only, no code, no GPU)|||
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `157684096c73` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `73e311a0e8fe` · [字段定义](../../DATASET.md)*

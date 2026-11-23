@@ -2,9 +2,9 @@
 
 ⭐ 2,191 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) · [官网](https://arxiv.org/abs/2503.17407) · 个人维护
 
-**LLM 长上下文建模论文与博客的策展清单**
+**面向研究者的长上下文语言建模论文/博客精选清单**
 
-收录长上下文语言建模领域的论文与技术博客的 Awesome 清单，主题覆盖综述、高效注意力、KV cache 优化、位置编码与长度外推、长上下文训练、长期记忆、RAG、上下文压缩、长 CoT、长视频、长程 agent、评测基准与技术报告等类别。以周为单位更新 Week Papers 条目，并与 LCLM-Horizon 合作维护一份长上下文建模学术综述（arXiv:2503.17407），README 中给出该综述的引用格式。面向从事长上下文建模研究的科研人员与开发者。
+该仓库按主题整理长上下文语言建模相关的论文与博客，覆盖高效注意力、KV-cache 优化、循环 Transformer 与状态空间模型、位置编码与长度外推、长期记忆、检索增强生成、上下文压缩、长推理、长视频理解、基准评测及技术报告等方向。内容按周/月滚动更新，附分类图与配套 arXiv 综述论文，供研究人员查阅与引用。仓库本身不包含代码，仅提供文献索引。
 
 ## 筛选速览
 
@@ -20,24 +20,22 @@
 
 ## 能力要点
 
-- 按 18 个左右主题类别组织长上下文建模论文与博客
-- 按日期持续更新 Week Papers 条目
-- 关联合作维护的学术综述《A Comprehensive Survey on Long Context Language Modeling》
-- 提供 mermaid 分类图概览整个领域结构
+- 按周/月更新的论文清单，覆盖 16+ 长上下文子方向
+- 提供 mermaid 分类图与配套 arXiv 综述（2503.17407）
+- 条目含论文链接与 GitHub 仓库信息
 
 ## 适用场景
 
-- 查找长上下文建模各子方向（KV cache、长程记忆、压缩等）的论文
-- 跟踪该领域每周新发表的论文与博客
-- 作为长上下文建模入门的分类导航
+- 查找长上下文建模方向的必读论文
+- 跟踪 KV cache、长度外推等子方向的最新进展
+- 撰写综述或调研时作为文献索引起点
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L1: # Large Language Model Based Long Context Modeling Papers and Blogs
 > L19: This repository curates papers and blogs on long-context language modeling, covering surveys; efficient attention; 
 > L21: 🔥 Must-read papers for LLM-based Long Context Modeling.
 
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1091771f9e0d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `aee2d24f10e9` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,322 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ENTERPILOT/GoModel) · [官网](https://gomodel.enterpilot.io/?utm_source=github_desc) · 组织维护
 
-**Go 编写的 AI 网关：统一 OpenAI/Anthropic 兼容 API 接入多家模型**
+**Go 编写的 AI 网关：统一多家 LLM 的 API 接入**
 
-用 Go 实现的自托管 AI 网关/控制平面，将 OpenAI、Anthropic、Gemini、Groq、xAI、Ollama、vLLM 等约 25 家提供方聚合为 OpenAI 兼容（/v1）与 Anthropic 兼容（/v1/messages）两种 API，官方 SDK 改 base URL 即可用。机制上提供缓存、成本追踪与预算、限流、虚拟模型负载均衡、会话固定、故障转移、guardrails、插件（含 .so 动态加载）、MCP 网关、Prometheus/OpenTelemetry 可观测性与 Web 仪表盘。通过 curl 安装脚本或 Docker 运行；另有商业版 GoModel Pro 提供提示压缩、智能路由、OIDC 单点登录。
+用 Go 编写的 AI 网关/控制平面，提供 OpenAI 兼容（/v1）与 Anthropic 兼容（/v1/messages）两类端点，官方 SDK 无需改动即可接入。功能覆盖响应缓存、成本跟踪、预算与限流、虚拟模型负载均衡、会话粘滞、故障转移、护栏、插件、MCP 聚合网关，以及 Prometheus/OpenTelemetry 可观测性。通过 Docker、macOS/Linux/Windows 安装脚本部署，带管理仪表盘。另有商业版 GoModel Pro 提供提示压缩、智能路由与 OIDC 单点登录。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 统一 OpenAI/Anthropic 兼容 API，覆盖 25+ 提供方（含 Ollama、vLLM、Bedrock）
-- 缓存、预算硬限、虚拟模型负载均衡、故障转移与会话固定
-- guardrails 与插件体系（内置/编译/启动时加载 .so）
-- Prometheus 指标、OpenTelemetry 追踪、审计日志与仪表盘实时请求流
+- OpenAI 与 Anthropic 双兼容 API，官方 SDK 直接对接
+- 缓存、预算、限流、故障转移与智能路由等网关能力
+- Prometheus 指标、OpenTelemetry 追踪与仪表盘可观测性
+- MCP 聚合网关与插件机制
 
 ## 适用场景
 
-- 统一管理多家 LLM 提供方的 API 调用与密钥轮换
-- 按用户/团队/密钥控制预算、限流与模型访问权限
-- 为 MCP 服务器聚合一个带鉴权的统一入口
-- 通过仪表盘分析 token 用量与成本
+- 为团队统一接入多家 LLM 提供商并跟踪成本
+- 通过缓存与路由降低推理支出
+- 为应用提供稳定的 OpenAI 兼容端点与故障转移
 
 ## 场景标签
 
-`模型网关` `LLM 可观测性` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L15:  GoModel is the fastest and the most resource-efficient AI Gateway (the self-reproducible benchmarks). It's an alte
-> L82: - OpenAI-compatible at `/v1`
-> L83: - Anthropic-compatible at `/v1/messages`
+> L17:  GoModel is the fastest and the most resource-efficient AI Gateway (the self-reproducible benchmarks). It's an alte
+> L84: - OpenAI-compatible at `/v1`
+> L176: - MCP gateway - aggregate your MCP servers behind one authenticated endpoint
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `f4cd52de5d8e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `6d00b7a7decf` · [字段定义](../../DATASET.md)*

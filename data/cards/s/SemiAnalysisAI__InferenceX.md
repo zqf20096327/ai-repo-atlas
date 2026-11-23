@@ -2,9 +2,9 @@
 
 ⭐ 2,075 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX) · [官网](https://inferencex.com/) · 组织维护 · 中文 README
 
-**开源 LLM 推理性能持续基准测试与仪表盘平台**
+**持续基准测试开源推理框架与 GPU 性能的研究平台**
 
-由 SemiAnalysis 维护的开源推理研究平台，对主流开源推理框架（SGLang、vLLM、TensorRT-LLM 等）在多种 GPU/加速器硬件（NVIDIA Blackwell/Hopper、AMD MI 系列、TPU 等）上进行自动化、持续更新的端到端推理服务基准测试，并以在线仪表盘免费公开结果。仓库含端到端服务基准、集合通信基准、算子/内核级基准与系统级功耗建模等子项目；另发布 AgentX 长上下文多轮 Agent 基准。实验性子项目标注为 Beta。
+InferenceX（前身为 InferenceMAX）是一个开源推理性能研究平台，对主流开源推理框架在多种 GPU 硬件上进行端到端推理服务、网络通信、算子/内核、硬件微基准等多层基准测试，并通过公开 dashboard 实时发布结果；项目以 Apache 2.0 许可发布，README 未提供安装步骤，官方结果仅以本仓库为准，fork 结果需标注 Unofficial。硬件支持清单覆盖 NVIDIA、AMD 及 TPU 多个 SKU，部分标注 Coming Soon。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 端到端推理服务基准 + 网络/集合通信与算子内核级基准（Beta）
-- 官方支持 13+ 种 GPU/XPUs 硬件 SKU，另有多种 Coming Soon
-- Apache 2.0 开源，公开免费在线仪表盘持续更新
-- AgentX：百万级长上下文多轮 Agent 基准
+- 多层级基准：端到端服务、集合通信、算子/内核、硬件微基准
+- 公开实时 dashboard（inferencex.com）持续发布结果
+- 官方支持硬件清单覆盖 NVL72、MI355X、B200/B300、H100/H200、TPUv7x 等
+- 默认采集多节点运行的系统级功耗数据并提供开源功耗模型
 
 ## 适用场景
 
-- 对比推理框架在不同 GPU 硬件上的实时性能
-- 跟踪新模型（DeepSeek、Kimi、GLM 等）Day 0 之后的持续基准结果
-- 为推理服务选型参考端到端与内核级性能数据
+- 跟踪最新推理框架在不同 GPU 上的性能进展
+- 为硬件选型查看公开的推理基准 dashboard
+- 以 Apache 2.0 许可复用基准方法做推理研究
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L41: InferenceX™ (formerly InferenceMAX) is an inference performance research platform dedicated to continually analyzin
-> L55: AI software like SGLang, vLLM, TensorRT-LLM, CUDA, ROCm and achieve this continuous improvement in performance thro
-> L61: |SKU|Status|
+> L49: InferenceX™ (formerly InferenceMAX) is an inference performance research platform dedicated to continually analyzin
+> L59: InferenceX™, an open-source, under Apache2 license, automated benchmark designed to move at the same rapid speed as
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `297838171270` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d0d7c6466f33` · [字段定义](../../DATASET.md)*

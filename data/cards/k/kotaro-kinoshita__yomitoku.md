@@ -1,10 +1,10 @@
 # kotaro-kinoshita/yomitoku
 
-⭐ 1,709 · Python · 推送 2026-11-19 · [GitHub](https://github.com/kotaro-kinoshita/yomitoku) · [官网](https://kotaro-kinoshita.github.io/yomitoku/) · 组织维护
+⭐ 1,709 · Python · 推送 2026-11-19 · [GitHub](https://github.com/kotaro-kinoshita/yomitoku) · [官网](https://kotaro-kinoshita.github.io/yomitoku/) · 个人维护
 
-**日本語特化の文書画像 AI 解析引擎：OCR 与布局/表格解析**
+**面向日语文档图像的 OCR 与版面解析 Python 包**
 
-面向日语文档图像的 Document AI Python 包：内置文字检测、文字识别、版面分析、表格结构识别 4 个在日语数据集上训练的模型，支持 7000+ 日语字符、手写与竖排，兼用英语。提供全文 OCR、阅读顺序估计、图/表/图像抽取，输出 md/html/json/csv 与可搜索 PDF；另有表语义解析（Key-Value/网格）与基于 YAML 模式的结构化数据抽取（规则式与 LLM 式，后者可配 vLLM）。GPU 推荐 VRAM 8GB 以内，轻量模型可在 CPU 运行；浏览器版 YomiToku Studio 全部本地推理。源码与模型权重采用 CC BY-NC-SA 4.0，商用需另购许可。
+YomiToku 是针对日语的文档图像分析（Document AI）包：内置四个自训练模型（文字检测、文字识别、版面解析、表格结构识别），支持 7000+ 日文字符、手写与竖排文档。处理流程含可选几何校正（--dewarp）、OCR、版面解析与阅读顺序估计，输出 html/markdown/json/csv 与可检索 PDF。通过 pip 安装，提供 CLI 与 Python API；源代码与模型权重为 CC BY-NC-SA 4.0，商业使用需购买产品版许可。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 4 种日语数据集自训模型（检测/识别/版面/表格结构）
-- 输出 md/html/json/csv/可搜索 PDF，可抽取图表图像
-- Table Semantic Parser 与 YAML 模式结构化抽取（规则式/LLM 式）
-- 浏览器版 Studio 以 WebAssembly/WebGPU 全本地推理
+- 四个自训练模型：文字检测、文字识别、版面解析、表格结构识别
+- 输出 html/markdown/json/csv 及可检索 PDF，支持图表提取
+- --dewarp 页面检测与非线性几何校正预处理
+- 轻量模型（--lite）支持 CPU 推理，VRAM 8GB 以内运行
 
 ## 适用场景
 
-- 把日语扫描文档/图片转成 Markdown 或可搜索 PDF
-- 从帳票中抽取 Key-Value 或网格表格数据
-- 没有高端 GPU 时用轻量模型在 CPU 上做 OCR
+- 日文扫描文档转 markdown 或可检索 PDF
+- 从帳票图片提取表格的 Key-Value 与网格结构
+- 按 YAML schema 从表单图像抽取结构化字段
+- 手机拍摄的弯曲/倾斜文档校正后解析
 
 ## 场景标签
 
@@ -39,6 +40,7 @@
 
 > L16: YomiToku は日本語に特化した AI 文章画像解析エンジン(Document AI)です。画像内の文字の全文 OCR およびレイアウト解析機能を有しており、画像内の文字情報や図表を認識、抽出、変換します。
 > L18: - 🤖 日本語データセットで学習した 4 種類(文字位置の検知、文字列認識、レイアウト解析、表の構造認識)の AI モデルを搭載しています。4 種類のモデルはすべて独自に学習されたモデルで日本語文書に対して、高精度に推論可能です。
+> L22: - ⚡ GPU 環境で高速に動作し、効率的に文書の文字起こし解析が可能です。また、VRAM も 8GB 以内で動作し、ハイエンドな GPU を用意する必要はありません。軽量モデルを用いれば CPU でも高速に推論が可能です。
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `ddf532038870` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `1542223f8cd9` · [字段定义](../../DATASET.md)*

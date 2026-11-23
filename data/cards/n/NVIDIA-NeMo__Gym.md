@@ -2,9 +2,9 @@
 
 ⭐ 1,350 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA-NeMo/Gym) · [官网](https://docs.nvidia.com/nemo/gym/main/about/) · 组织维护
 
-**评测与训练模型/智能体的环境库**
+**面向开发者的模型与 agent 环境化评测/训练框架**
 
-NVIDIA NeMo 生态下的评测与训练基础设施库：以『环境』为核心抽象（数据集+智能体挂具+验证器+执行状态），提供可扩展接口、基准环境库、并发数千环境的规模化运行，以及与自选 RL 框架衔接的训练流程。内置多种 agent harness 与沙箱后端（Docker、OpenSandbox 等），支持 vLLM 本地/托管推理与 OpenTelemetry 追踪。面向需要在有状态环境中做可复现评测或大规模 RL 训练的开发团队；库本身无需 GPU，Python 3.13+ 通过 git clone + uv 安装。
+NVIDIA NeMo 生态中的 Python 库，通过「环境」统一评测与训练：每个环境由任务数据集、agent harness、verifier 与状态组成。提供环境开发接口、可扩展运行的本地服务器、常用基准与训练环境集合，支持从评测过渡到 SFT/RL 训练，并可接入外部训练框架与 agent harness。requirements 标注无需 GPU，需 Python 3.13.14+ 与 Git，通过 git clone 与 uv 安装，另提供容器镜像。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ NVIDIA NeMo 生态下的评测与训练基础设施库：以『环境』为核�
 
 ## 能力要点
 
-- 环境抽象=数据集+agent 挂具+验证器+状态，模块化可扩展
-- 并发扩展至数千环境，衔接自选 RL 框架做训练
-- 多种沙箱后端（Docker/OpenSandbox/Enroot 等）与内置 agent 挂具
-- vLLM/Megatron token 级训练轨迹捕获，Slurm 断点恢复调度
+- 模块化 agent/环境/任务/verifier 接口与环境中心
+- 支持大规模并发评测与训练（数千并发环境）
+- 可搭配 NeMo RL、Unsloth、VeRL 等训练框架
+- 内置多种 agent harness（OpenHands、Mini SWE Agent、LangGraph 等）
 
 ## 适用场景
 
-- 在代码执行、工具调用等有状态环境中评测模型或 agent
-- 团队间用共享环境与验证器做可复现评测
-- 大规模并发跑评测与 RL 训练任务
+- 在有状态环境中评测模型或 agent（代码执行、工具调用、沙箱）
+- 团队间用共享环境与 verifier 做可复现评测
+- 对 agent 进行 SFT 或 RL 训练
+- 自建自定义评测/训练环境
 
 ## 场景标签
 
-`模型评测` `强化学习` · 领域:评测与运维
+`Agent 框架` `模型评测` `强化学习` `微调` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L11: NeMo Gym is a library for evaluating and improving models and agents using environments. NeMo Gym provides infrastr
-> L30: - Train with the RL framework of your choice
+> L38: NeMo Gym is a component of NVIDIA NeMo, a GPU-accelerated platform for training generative AI models and optimizing
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `4cdb649dba17` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `57ecab79d412` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,703 · Rust · EUPL-1.2 · 推送 2026-11-19 · [GitHub](https://github.com/nobodywho-ooo/nobodywho) · [官网](https://nobodywho.ai) · 组织维护
 
-**多平台本地 LLM 推理引擎，提供六种语言绑定**
+**让开发者在本地设备上运行 GGUF 格式 LLM 的推理引擎**
 
-基于 llama.cpp 的本地推理引擎，以 Kotlin、Swift、React Native/Expo、Flutter、Python、Godot 六种绑定形式嵌入应用，在桌面与移动设备上离线运行 GGUF 格式的任意聊天 LLM。支持 Vulkan/Metal GPU 加速、显存不足时部分层卸载到 CPU，提供工具调用语法自动生成、图像/音频多模态输入、Kokoro/Whisper/Silero 等语音能力，以及 Hugging Face 模型下载与实验性 OpenAI 兼容本地服务器。限制：无 Web 导出、Windows ARM64 不支持、Godot 无 iOS 导出。
+面向多端应用开发的本地 LLM 推理引擎，底层基于 llama.cpp，通过 Kotlin、Swift、React Native/Expo、Flutter、Python、Godot 六种绑定分发到 Maven Central、SPM、npm、pub.dev、PyPI 与 Godot AssetLib。支持运行任意 GGUF 格式聊天模型、从函数签名自动生成工具调用语法、图像/音频多模态输入、Whisper 转写与 Kokoro 等语音合成，另提供实现 OpenAI Chat Completions API 的实验性本地服务器。限制：不支持 Windows ARM64 与 web 导出，Godot 无 iOS 导出。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 六种语言/引擎绑定，覆盖桌面（Linux/macOS/Windows）与 iOS/Android
-- 运行任意 GGUF 模型，支持 hf:owner/repo:QUANT 引用自动下载
-- 工具调用结构化语法自动生成、多模态输入、TTS/STT/VAD
-- 实验性本地服务器实现 OpenAI Chat Completions API
+- 六种语言/平台绑定（Kotlin/Swift/React Native/Flutter/Python/Godot）
+- 支持任意 GGUF 模型，可从 Hugging Face 引用或任意 URL 加载
+- 从函数签名自动生成结构化工具调用语法
+- 多模态输入、语音转写/合成与语音活动检测
 
 ## 适用场景
 
-- 在 Flutter/Godot/原生应用中嵌入离线运行的 LLM 对话能力
-- 移动端 App 集成本地语音对话（STT+LLM+TTS）
-- 通过 OpenAI 兼容接口在本地提供模型服务
+- 在移动应用中离线集成 LLM 对话能力
+- 为 Godot 游戏接入本地模型与语音功能
+- 用本地服务器向本机应用提供 OpenAI 兼容接口
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L14:  NobodyWho is an inference engine that lets you run LLMs locally and efficiently.
-> L37: * Compatible with thousands of pre-trained LLMs — use any LLM in the GGUF format
+> L13:  NobodyWho is an inference engine that lets you run LLMs locally and efficiently.
+> L38: * Powered by the wonderful llama.cpp
+> L46: |**Kotlin**|Maven Central|Desktop, Android|docs.nobodywho.ooo/kotlin|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5195ee07e60d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `41d63095f1b2` · [字段定义](../../DATASET.md)*

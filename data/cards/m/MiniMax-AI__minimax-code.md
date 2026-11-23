@@ -2,9 +2,9 @@
 
 ⭐ 2,271 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MiniMax-AI/minimax-code) · [官网](https://agent.minimax.io/download) · 组织维护 · 中文 README
 
-**终端编码 Agent CLI：用 MiniMax 或自有模型把提示词变成可运行代码**
+**开发者终端里的开源编码代理 CLI，由 MiniMax 模型驱动**
 
-MiniMax 开源的终端编码 Agent（MCode）：提供交互式 TUI、headless exec 与 ACP 三种入口，可读文件、改代码、跑命令与测试，带权限与沙箱控制、会话恢复、AGENTS.md 项目指引生成与 lightweight 对话模式。默认登录 MiniMax 账号（含国内/Global 区域），也支持 BYOK 接入 OpenAI 兼容或 Anthropic 兼容的自有/自托管模型端点，可设上下文与输出上限。安装提供官方脚本（macOS/Linux/WSL、Windows PowerShell）与 npm 两条途径，要求 Node.js 22.19+/24.2+/25/26；单文件安装脚本不支持 Alpine/musl Linux。
+运行于终端的编码代理（MCode），提供交互式 TUI、headless（mcode exec）、ACP 与 TypeScript SDK 四种入口，可读取文件、检查 diff、运行 shell 命令与测试，并通过权限与沙箱控制工具执行。默认接入 MiniMax 账号（Token Plan 需可用额度），也支持 BYOK：以 openai-completions、openai-responses 或 anthropic-messages 格式接入第三方或自托管端点。安装方式为官方一键脚本或 npm 全局包，需 Node.js 22.19+；Alpine/musl 不支持一键安装脚本。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ MiniMax 开源的终端编码 Agent（MCode）：提供交互式 TUI、headless 
 
 ## 能力要点
 
-- 交互式 TUI、headless exec、ACP 三种入口，支持会话恢复与权限/沙箱控制
-- BYOK 接入 openai-completions/openai-responses/anthropic-messages 三种 API 格式
-- 一键安装脚本无需 sudo，自动准备兼容 Node.js 运行时
-- lightweight 模式用于纯对话，不携带工具 schema 与工作区上下文
+- 四种入口：TUI、headless exec、ACP、TypeScript SDK
+- BYOK 支持三种 API 格式接入自定义/本地模型
+- 权限与沙箱控制工具执行，支持会话恢复与子 agent
+- 提供 lightweight 会话模式（不加载工具与工作区上下文）
 
 ## 适用场景
 
-- 在终端用自然语言让 Agent 修 bug、跑测试并审查改动
-- CI/脚本中用 mcode exec 批量执行编码任务
-- 接入自有 OpenAI/Anthropic 兼容模型端点做编码助手
+- 在终端里让代理查找并修复失败测试后运行验证
+- 在 CI 或脚本中以 headless 模式批量执行编码任务
+- 用自有 API key 或自托管端点驱动编码代理
+- 通过 MCP 与媒体工具进行搜索和媒体处理
 
 ## 场景标签
 
@@ -38,7 +39,7 @@ MiniMax 开源的终端编码 Agent（MCode）：提供交互式 TUI、headless 
 ## 证据(README 行号)
 
 > L4:  Turn a prompt into something that works. Build, test, and keep iterating from your terminal—with MiniMax or your ow
-> L239: |**Choose your model**|Use a MiniMax account / Token Plan, or custom providers with OpenAI- or Anthropic-compatibl
+> L93: Supported API formats: `openai-completions`, `openai-responses`, and `anthropic-messages`. See the model examples f
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `725eebaa2e6f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4f9a6adf3df3` · [字段定义](../../DATASET.md)*

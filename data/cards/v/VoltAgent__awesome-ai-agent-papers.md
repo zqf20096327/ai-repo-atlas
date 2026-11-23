@@ -2,9 +2,9 @@
 
 ⭐ 1,914 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/VoltAgent/awesome-ai-agent-papers) · [官网](https://starterkit.getdesign.md/) · 组织维护
 
-**2026 年 AI Agent 研究论文策展清单，按主题分类并每周更新**
+**面向 AI 工程师与研究者的 2026 年 agent 论文精选清单**
 
-由 VoltAgent 维护的 arXiv 论文精选清单，仅收录 2026 年 1 月起发表的论文，主题覆盖多智能体协作、记忆与 RAG、工具使用、评测与可观测性、安全等 AI agent 生态核心方向。维护方每周从 arXiv 筛选与 agent 生态直接相关的论文并分类，面向构建 agent 系统的工程师、研究架构的研究者及将 LLM agent 集成到产品的开发者。当前 README 展示 Multi-Agent 类别 54 篇，条目附标题与摘要说明。
+由 VoltAgent 维护的论文聚合清单，从 arXiv 筛选 2026 年起发表的 AI agent 相关研究并按多智能体协同、记忆与 RAG、工具、评测与可观测性、安全等主题分类，每周更新。面向构建 agent 系统的工程师、研究新架构的研究者以及将 LLM agent 集成到产品的开发者，用于跟踪领域进展；附 Discord 社区与赞助栏目。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 仅收录 2026 年 1 月后发表的 arXiv 论文
-- 覆盖多智能体、记忆/RAG、评测、安全等主题分类
-- 每周从 arXiv 更新并做相关性筛选
+- 从 arXiv 每周筛选并分类 agent 相关论文
+- 覆盖多智能体协同、记忆与 RAG、评测与可观测性、安全等主题
+- 仅收录 2026 年 1 月起的论文
 
 ## 适用场景
 
-- 跟踪 AI agent 领域最新研究进展
-- 按主题查找多智能体协作、记忆与评测方向的论文
-- 了解 agent 研究中正在验证的方法与发现
+- 为 agent 系统开发查找相关研究论文
+- 跟踪 AI agent 领域的最新研究方向
+- 按主题快速定位评测或安全方向的文献
 
 ## 场景标签
 
@@ -37,7 +37,6 @@
 ## 证据(README 行号)
 
 > L14: A curated collection of research papers **published in 2026** and sourced from arXiv, covering core topics from the
-> L16: Whether you're an AI engineer building agent systems, a researcher exploring new architectures, or a developer inte
 > L22: Hundreds of papers are published on arXiv every week, and a growing number of them touch on AI agents. We go throug
 
 ## 星数曲线
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4b2e9ac21a43` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2e07e13216d5` · [字段定义](../../DATASET.md)*

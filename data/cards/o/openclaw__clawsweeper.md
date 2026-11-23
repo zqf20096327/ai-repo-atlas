@@ -2,9 +2,9 @@
 
 ⭐ 2,007 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/openclaw/clawsweeper) · [官网](https://clawsweeper.bot) · 组织维护
 
-**面向 OpenClaw 仓库的议题/PR 保守审阅机器人**
+**OpenClaw 仓库的自动审查机器人：扫描 issue/PR 并提出关闭建议**
 
-定期扫描开源仓库的开放 issues 与 PR，生成含决策、证据与建议评论的审阅记录，仅在通过确定性安全闸门（如已在 main 实现、重复、长期无响应等情形）时提出关闭建议。审阅上下文与决策包由 Codex 生成，代码侧负责校验、落盘（Durable Object + R2）与受控 apply。运行于 GitHub Actions 与 Cloudflare Worker，提供仪表盘与 @clawsweeper 评论命令。
+面向 OpenClaw 系列仓库的保守型 review bot：定时与事件驱动地扫描开放的 issue 和 PR，生成含决策、证据、建议评论与快照哈希的审查记录，经确定性安全门后应用高置信度关闭提案。通过 marker 标记的单一公开评论原位同步、维护者命令（review/re-review/explain/stop）、GitHub 标签投影与 Cloudflare Worker/Durable Object/R2 状态存储运行。仅当条目命中明确定义的关闭类别（已实现、不可复现、重复、过期等）时才提案关闭，其余保持开放。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 定时与事件驱动的 issue/PR 审阅，生成持久化记录与单一同步评论
-- 关闭建议须经确定性安全闸门（实现/复现/重复/停滞等 11 类条件）
-- Codex 生成结构化决策包，代码侧校验意图后持久化
-- 提供 /triage、/pr-proof-triage 等只读维护者视图
+- 定时扫描全部开放 issue/PR 并生成含证据的审查记录
+- 确定性安全门限制关闭提案，仅命中明确类别时才关闭
+- 维护者评论命令：@clawsweeper review/re-review/explain/stop
+- 审查结论投影为只读的建议性 GitHub 标签与 triage 面板
 
 ## 适用场景
 
-- 我维护的仓库积压大量 issue/PR，希望有机器人定期审阅并给出关闭建议
-- 通过 @clawsweeper 命令请求单项只读审阅或解释结果
-- 在仪表盘查看队列、审阅与发布状态
+- 自动审查 OpenClaw 仓库积压的 issue 与 PR
+- 让维护者按建议性标签过滤当前可复现/待修复的条目
+- 对外部低信号或长期停滞的 PR 做保守的关闭清理
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L5: ClawSweeper is the conservative review bot for OpenClaw repositories. It keeps
-> L84: maintainer ruling. Codex supplies the exact question, rationale, options,
+> L27: one-item reviews. Each review writes
+> L226: - review lane: scheduled and event-driven issue/PR reviews, durable reports, and
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `affc0e2215fe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a6624417c4b3` · [字段定义](../../DATASET.md)*

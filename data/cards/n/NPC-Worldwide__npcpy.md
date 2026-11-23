@@ -2,9 +2,9 @@
 
 ⭐ 1,530 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NPC-Worldwide/npcpy) · 组织维护
 
-**多智能体与知识图谱研发的 Python 库，支持本地/云端模型**
+**多模态 LLM、Agent 与知识图谱研发的 Python 库**
 
-面向研究者和开发者的 Python 库，为多模态 LLM、agentic AI 与知识图谱提供构建原语：NPC/Agent/ToolAgent/CodingAgent 等智能体类、多智能体 Team 编排、Jinx（Jinja 执行模板）工作流、MCP 服务器/客户端接入、图像/音频/视频生成、知识图谱的睡/梦生命周期演化（含 Sememolution 种群演化）、SFT/DPO 微调与 Flask 部署。支持本地运行时（ollama、llama.cpp、LM Studio 等）与云端服务商，通过 pip 安装，并提供交互式 Shell（npcsh）与可执行 .npc/.jinx 文件。README 中含推广性质的产品链接。
+npcpy 提供面向多模态语言模型、Agent 与知识图谱开发的 Python 原语：支持本地（llama.cpp/LM Studio/ollama/omlx）与云端的 LLM 调用，NPC/Agent/ToolAgent/CodingAgent 类构建带工具的代理，NPCArray 做多代理辩论与并行执行，Team 支持 .npc/.jinx/team.ctx 文件定义与 MCP 服务器接入，知识图谱模块提供唤醒/睡眠/梦境生命周期与混合搜索，另有决策模型接口（choice/score/predict）与图像、音频、视频生成函数。通过 pip 安装，可经 Flask 服务化 NPC 团队。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- Agent 体系：Agent/ToolAgent/CodingAgent，默认工具与 MCP 服务器接入
-- 多智能体 Team 编排与 NPCArray 并行执行
-- 知识图谱睡/梦生命周期与 Sememolution 种群演化
-- SFT/DPO/扩散模型微调与 Flask REST 部署
+- 统一的 get_llm_response 接口支持本地与云端多 provider
+- NPC/Agent/ToolAgent/CodingAgent 与多代理团队编排（.npc/.jinx/team.ctx 文件格式）
+- 知识图谱构建、演化与睡眠/梦境巩固机制
+- MCP 服务器集成与 Pydantic/JSON 结构化输出
 
 ## 适用场景
 
-- 构建带工具调用的多智能体团队完成分析、写作等任务
-- 从文本构建并持续演化知识图谱
-- 对工具调用 agent 做 DPO 强化学习训练或 SFT
-- 通过 MCP 服务器为 agent 接入外部数据库与 API
+- 为多模态 LLM 应用构建带自定义工具的代理
+- 搭建多代理团队并接入 MCP 外部工具
+- 从文本构建并演化知识图谱、抽取结构化记忆
+- 以决策模型接口获取可阈值化的标签/评分输出
 
 ## 场景标签
 
-`多智能体` `知识图谱` `微调` · 领域:Agent 开发
+`知识图谱` `Agent 框架` `编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L10: `npcpy` is a library that provides key primitives for research and development with multimodal language models, age
-> L411: - **Agents (NPCs)** — Agents with personas, directives, and tool calling. Subclasses: `Agent` (default tools), `To
-> L412: - **Multi-Agent Teams** — Team orchestration with a coordinator (forenpc)
+> L116: The `Agent` class in `npcpy` comes with a set of default tools (sh, python, edit_file, web_search, etc.)
+> L419:  Knowledge graphs
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d9393c2bdd79` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e5c368c03e47` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,629 · PowerShell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/hve-core) · 组织维护
 
-**面向 GitHub Copilot 的规范驱动 agentic SDLC 框架**
+**面向 GitHub Copilot 用户的 SDLC 框架插件（agents/instructions/skills）**
 
-微软维护的 agentic 软件开发生命周期框架，以 agents、instructions、skills 形式向 GitHub Copilot 注入上下文：编码标准、约 80 项标准、安全要求、合规流程与架构评审等组织知识被编码进工作流，遵循 RPI（Research/Plan/Implement/Review）方法论。安装方式为 VS Code 扩展市场或 Copilot CLI 插件。README 明确声明其为快速演进、观点鲜明的框架，建议作为模式与学习来源而非稳定的生产依赖，接口可能不向后兼容。
+Microsoft 出品的 agentic 软件开发生命周期（SDLC）框架，以插件形式安装在 VS Code 或 GitHub Copilot CLI 中。核心机制包括：上下文管理、治理、约 80 项标准的编码化、可复用的组织知识，以及 RPI（Research, Plan, Implement, Review）工作流；提供研究/规划/实现/评审等专用 agents、自动应用编码标准的 instructions、含斜杠命令入口的 skills。README 明示框架处于快速演进状态，接口可能发生不向后兼容的变更，建议作为模式与学习来源而非生产依赖。MIT 许可，部分源自 OWASP 的 skill 内容为 CC BY-SA 4.0。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- Agents/instructions/skills 三类可复用工作流构件，含斜杠命令入口
-- 将编码标准、安全要求、合规流程、架构评审编码进开发工作流
-- RPI 工作流方法论（Research/Plan/Implement/Review）
-- 通过 VS Code 扩展市场或 Copilot CLI 插件安装
+- 提供 agents/instructions/skills 三类结构化工作流构件
+- RPI 工作流（Research, Plan, Implement, Review）
+- 内置约 80 项标准、安全与合规流程的编码化
+- 支持 VS Code 插件与 GitHub Copilot CLI 两种安装路径
 
 ## 适用场景
 
-- 在 GitHub Copilot 中引入团队统一的工程规范与上下文管理
-- 把安全要求与合规流程前置到日常开发工作流
-- 为新项目快速搭建规范驱动的 agentic 开发流程
+- 为团队统一接入基于 GitHub Copilot 的标准化开发工作流
+- 将安全要求与合规流程自动带入工程任务
+- 组织级推广统一的编码标准与评审实践
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`Agent 框架` `编码 Agent` `代码审查` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L26: HVE Core is a highly opinionated agentic software development lifecycle (SDLC) framework. Its core value lies in co
 > L34: * Agents for specialized tasks such as research, planning, implementation, and review
-> L49: 2. Open any project and launch GitHub Copilot Chat (`Ctrl+Alt+I`).
+> L46: 1. Install the `hve-core` plugin. In VS Code, run **Chat: Open Customizations**, select **Browse**, add the `micros
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `49a37f7ddb9a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2326a020a2ce` · [字段定义](../../DATASET.md)*

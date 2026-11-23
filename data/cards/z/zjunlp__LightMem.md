@@ -1,10 +1,10 @@
 # zjunlp/LightMem
 
-⭐ 1,228 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zjunlp/LightMem) · 组织维护 · 中文 README
+⭐ 1,228 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zjunlp/LightMem) · 组织维护
 
-**面向 LLM 与 Agent 的轻量级长期记忆管理框架**
+**为 LLM 与 AI Agent 提供长期记忆的轻量管理框架**
 
-为 LLM 和 AI Agent 提供记忆存储、检索与更新的模块化框架，ICLR 2026 论文（arXiv:2510.18866）。核心流程包含预压缩（llmlingua-2/entropy_compress）、话题分割、记忆管理与检索（Qdrant/FAISS/BM25），支持 OpenAI/DeepSeek 云 API 与 Ollama/vLLM/Transformers 本地部署。仓库同时收录 FluxMem、EM²Mem、StructMem 等多个记忆方法，提供 LoCoMo/LongMemEval 复现脚本、基线评测框架、教程 Notebook 与 MCP Server。安装目前以源码为主，pip 标注 Coming soon。
+面向大语言模型与 AI Agent 的记忆管理框架，提供记忆的存储、检索与更新机制，支持构建带长期记忆能力的应用。采用模块化架构，各组件可插拔替换：预压缩、主题分段、记忆管理、嵌入、检索各模块均支持多种后端（如 llmlingua-2、Qdrant、FAISS、BM25）。提供 LoCoMo 与 LongMemEval 数据集的复现脚本及基线评测框架，并附带 MCP Server、示例 Notebook 与实验结果。安装方式为源码克隆或 pip（标注即将提供）。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 预压缩+话题分割+记忆管理+检索的模块化可插拔管线
-- 支持 OpenAI/DeepSeek 云 API 与 Ollama/vLLM/Transformers 本地部署
-- 提供 LoCoMo/LongMemEval 复现脚本与多记忆层基线评测框架
-- 提供 MCP Server 支持客户端调用
+- 模块化设计，各组件支持可插拔后端（llmlingua-2/Qdrant/FAISS/BM25 等）
+- 支持云端 API（OpenAI、DeepSeek）与本地模型（Ollama、vLLM、Transformers）
+- 提供 LoCoMo/LongMemEval 复现脚本与 Mem0、A-MEM 等基线评测框架
+- 提供 MCP Server 与多场景 Tutorial Notebook（旅行规划、代码助手）
 
 ## 适用场景
 
-- 为对话 Agent 或 Chatbot 增加长期记忆能力
-- 在 LoCoMo/LongMemEval 基准上评测记忆层方法
-- 通过 MCP 客户端调用记忆工具
+- 给聊天机器人或 Agent 增加长期记忆能力
+- 在 LoCoMo/LongMemEval 上评测与对比记忆层方案
+- 通过 MCP Server 让本地客户端调用记忆管理工具
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `6e950244346e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `becf66560853` · [字段定义](../../DATASET.md)*

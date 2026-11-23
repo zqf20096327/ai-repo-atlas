@@ -2,9 +2,9 @@
 
 ⭐ 1,575 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/qdrant/mcp-server-qdrant) · [官网](https://qdrant.tech) · 组织维护
 
-**为 LLM 客户端提供基于 Qdrant 的语义记忆层 MCP 服务器**
+**为 MCP 客户端提供 Qdrant 语义记忆存取的服务器**
 
-Qdrant 官方维护的 Model Context Protocol 服务器实现，在 Qdrant 向量数据库之上提供语义记忆存储与检索层。提供 qdrant-store 与 qdrant-find 两个工具，通过环境变量配置 Qdrant 连接（服务器 URL 或本地路径）、嵌入模型（目前仅支持 FastEmbed，默认 all-MiniLM-L6-v2）与搜索参数。支持 stdio/SSE/streamable-http 三种传输协议，可通过 uvx 直接运行或 Docker 构建，并可接入 Claude Desktop、Cursor、Windsurf、VS Code 等 MCP 兼容客户端，支持只读模式。
+Qdrant 官方的 Model Context Protocol 服务器实现，在 Qdrant 向量数据库之上提供语义记忆层：暴露 qdrant-store 与 qdrant-find 两个工具，供 LLM 应用存储和检索信息。通过环境变量配置 Qdrant URL/本地路径、默认集合、嵌入模型（目前仅支持 FastEmbed）、只读模式等；支持 stdio/SSE/streamable-http 传输，基于 FastMCP 构建。可经 uvx 直接运行、Docker 构建或 Smithery 安装，适配 Claude Desktop、Cursor、Windsurf、VS Code、Claude Code 等客户端。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Qdrant 官方维护的 Model Context Protocol 服务器实现，在 Qdrant 向�
 
 ## 能力要点
 
-- qdrant-store / qdrant-find 两个记忆存储与语义检索工具
+- 提供 qdrant-store / qdrant-find 两个 MCP 工具，实现信息的语义存取
 - 支持 stdio、SSE、streamable-http 三种传输协议
-- 可通过自定义工具描述改造为代码片段语义搜索工具
-- 支持远程 Qdrant 服务器或本地路径两种存储模式
+- 嵌入默认使用 FastEmbed 的 all-MiniLM-L6-v2 模型，支持本地或远程 Qdrant
+- 可定制工具描述，将服务器改造为代码语义搜索工具
 
 ## 适用场景
 
-- 为 Claude Desktop / Cursor 等 MCP 客户端添加持久记忆能力
-- 团队共享的代码片段语义搜索服务
-- 为 AI 工作流提供可检索的知识/笔记存储
+- 让 Claude Desktop / Cursor 等 MCP 客户端保存并检索长期记忆
+- 为代码库搭建语义搜索：存储代码片段并用自然语言查询
+- 团队通过 SSE 在远程/云环境中共享同一个 MCP 服务器
 
 ## 场景标签
 
-`语义搜索` `Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `语义搜索` `向量数据库` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: > The Model Context Protocol (MCP) is an open protocol that enables
+> L10: This repository is an example of how to create a MCP server for Qdrant, a vector search engine.
 > L14: An official Model Context Protocol server for keeping and retrieving memories in the Qdrant vector search engine.
+> L15: It acts as a semantic memory layer on top of the Qdrant database.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `24fb164d7567` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cc493a4b51d9` · [字段定义](../../DATASET.md)*

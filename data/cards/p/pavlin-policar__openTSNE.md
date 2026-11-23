@@ -1,10 +1,10 @@
 # pavlin-policar/openTSNE
 
-⭐ 1,624 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/pavlin-policar/openTSNE) · [官网](https://opentsne.rtfd.io) · 组织维护
+⭐ 1,624 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/pavlin-policar/openTSNE) · [官网](https://opentsne.rtfd.io) · 个人维护
 
-**t-SNE 降维算法的模块化 Python 实现库**
+**给数据分析师提供并行加速的 t-SNE 降维嵌入 Python 库**
 
-提供 t-SNE 降维算法的并行、可扩展 Python 实现，用于高维数据可视化。纳入多项算法改进：向已有嵌入添加新数据点、多线程与 Barnes-Hut/FIt-SNE 两种高效实现以扩展到百万级数据点、多尺度核技巧改善全局结构对齐。通过 conda-forge 与 PyPI 安装；从源码安装需系统有 C/C++ 编译者（OpenMP 用于多线程），FFTW3 为可选加速依赖。面向数据分析与单细胞转录组等场景的开发者与科研用户，附文档、教程与示例。
+模块化的 t-SNE Python 实现，用于高维数据可视化降维。整合 t-SNE 算法最新改进：支持向已有嵌入添加新数据点、可扩展至数百万数据点的加速实现（默认 FIt-SNE，另有 Barnes-Hut），以及改善全局对齐的多尺度核技巧。通过 conda-forge 或 PyPI 安装，源码安装需 C/C++ 编译器（支持 OpenMP 方可多线程），可选安装 FFTW3 提升 FFT 性能。提供文档、教程与四组示例，配套 2024 年论文。BSD-3-Clause 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- Barnes-Hut 与 FIt-SNE 两种高效 t-SNE 实现，可扩展到百万级数据点
-- 支持向已有嵌入添加新数据点
-- 多尺度核技巧改善可视化的全局对齐
-- 以 Python 库形式提供，含文档、教程与示例
+- 支持向已有嵌入添加新数据点（transform 能力）
+- 实现 FIt-SNE 与 Barnes-Hut 两种高效 t-SNE 算法，可扩展至数百万数据点
+- 多尺度核技巧改善全局对齐
+- 并行实现，需编译器支持 OpenMP 以启用多线程
 
 ## 适用场景
 
-- 对高维数据集做 t-SNE 降维并可视化
-- 将新样本添加进已有 t-SNE 嵌入（如单细胞批次效应处理）
-- 在单细胞转录组等大数据集上运行 t-SNE
+- 单细胞转录组等高维生物数据的二维可视化
+- 数十万至百万级样本的加速降维嵌入
+- 将新样本映射到已有的 t-SNE 嵌入空间
 
 ## 场景标签
 
-`数据分析` `科研工具` · 领域:效率与自动化
+ · 领域:机器学习/数据可视化
 
 ## 证据(README 行号)
 
 > L5: openTSNE is a modular Python implementation of t-Distributed Stochasitc Neighbor Embedding (t-SNE) [1]_, a popular d
-> L86:  embedding = TSNE().fit(x)
+> L53: in the root directory to install the appropriate dependencies and compile the necessary binary files.
+> L55: Please note that openTSNE requires a C/C++ compiler to be available on the system.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2c0b6c06c0ba` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1e33814d7e50` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,371 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada) · [官网](https://unipds.com.br/org-erick-wendel/?utm_source=github&utm_medium=bio&utm_campaign=bolsa_47&utm_term=&utm_content=perfil_erick) · 组织维护
 
-**软件工程与应用 AI 研究生课程的参考资料与示例代码清单**
+**面向学员的 AI 应用软件工程课程参考链接合集**
 
-葡萄牙语研究生课程（Pós em Engenharia de Software com IA Aplicada）配套仓库：README 按模块（1-10 及模块 04）组织课程参考链接，覆盖 ML/DL 基础、Web AI、强化学习示例、Prompt Engineering、AI 编码工具、MCP 与自动化测试、开源与本地模型（Ollama/vLLM/OpenRouter 示例工程）、RAG 与嵌入（Neo4j/LangChain JS）。仓库内含多个示例项目目录（exemplo-01 至 exemplo-13 等），面向课程学员自学。
+这是面向巴西「AI 应用软件工程」研究生课程（Pós）的参考资料仓库，由授课团队维护。README 按课程模块与子模块组织链接：机器学习与深度学习基础、浏览器端 Web AI（TensorFlow.js、WebGPU、Chrome 内置 AI）、提示工程、MCP 与自动化、本地模型运行、RAG 与向量数据库、自主 Agent 开发等。每节多为外部教程与项目链接，部分模块配有示例项目目录（如推荐系统、游戏 AI、Neo4j RAG、Playwright 测试等）。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按 10+ 模块组织的课程参考链接清单
-- 含 13+ 个示例项目目录（电商推荐、WebAI、Playwright 测试、Ollama、OpenRouter、Neo4j RAG 等）
-- 覆盖 LangChain JS、MCP、RAG、本地模型运行等主题
+- 按课程模块组织的分类参考链接集
+- 覆盖 Web AI、MCP、本地模型运行、RAG、Agent 等主题
+- 多个模块配有示例项目目录（exemplo-01 至 exemplo-13 等）
+- 包含 JavaScript/TypeScript 生态（LangChain JS、TF.js）示例
 
 ## 适用场景
 
-- 课程学员按模块查找补充学习资料
-- 跟随示例工程实践 Web AI、RAG 与本地模型运行
-- 了解课程各模块对应的实践项目
+- 学习在浏览器中运行机器学习与 LLM 推理
+- 查找 LangChain JS 与 Neo4j 构建 RAG 的资料
+- 了解 MCP 及 AI 辅助测试、导航等开发工作流
 
 ## 场景标签
 
@@ -37,7 +38,7 @@
 ## 证据(README 行号)
 
 > L3: Abaixo são as referências e links complementares às aulas, dividido por módulos e submodulos:
-> L242: Projeto em exemplo-10-ollama/
+> L5: ## Modulo 01 - Fundamentos de IA e LLMs para Programadores
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `1b9919bfe817` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `c0df8da99a53` · [字段定义](../../DATASET.md)*

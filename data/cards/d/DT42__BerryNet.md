@@ -2,9 +2,9 @@
 
 ⭐ 1,614 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/DT42/BerryNet) · [官网](https://dt42.io) · 组织维护
 
-**树莓派等边缘设备上的深度学习智能网关**
+**把树莓派变成离线深度学习网关，本地分析摄像头图像**
 
-在 Raspberry Pi 上本地运行深度学习推理的 AIoT 网关：通过 MQTT 连接摄像头客户端、AI 引擎（LiteRT 或 ONNX Runtime）与 Freeboard 仪表盘等独立组件，支持 MobileNet 分类与 SSD MobileNet/YOLOv4 目标检测模型，全程离线在设备端完成，多台边缘设备可组成分布式 AIoT 网络。结果以 MQTT 主题发布，可经数据采集器存储快照与推理结果。面向边缘计算与 IoT 开发者，支持树莓派摄像头/USB 摄像头/IP 摄像头输入，经 configure 脚本或 Docker 安装运行。
+在 Raspberry Pi 上运行的深度学习网关：摄像头帧与推理结果以 MQTT 消息经 Mosquitto broker 在组件间交换，由 supervisor 管理。提供分类（MobileNet）与目标检测（SSD MobileNet、Ultralytics YOLO）两类 AI 引擎，模型经 LiteRT 或 ONNX Runtime 运行，全程离线在边缘设备本地完成；检测结果可在 Freeboard 仪表盘展示，或经 Telegram/Gmail 客户端按标签发送通知，还可监听 Zigbee 土壤湿度传感器。需树莓派 4/5 及 64 位 Raspberry Pi OS。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- MQTT 连接摄像头、AI 引擎与仪表盘的组件化架构
-- LiteRT 与 ONNX Runtime 双推理引擎，MobileNet/SSD/YOLOv4 模型
-- 支持树莓派摄像头、USB 摄像头与 IP 摄像头
-- Freeboard Web 仪表盘展示检测图像与文本结果
+- 目标检测与图像分类双引擎，LiteRT/ONNX Runtime 两种运行时可选
+- 组件经 MQTT（Mosquitto）交换数据，supervisor 统一管理
+- 离线运行，支持多边缘设备组成分布式 AIoT 网络
+- 支持 YOLO26 模型导出后端到端推理，并提供 Telegram/Gmail 通知客户端
 
 ## 适用场景
 
-- 在树莓派上离线监控摄像头画面并实时检测物体
-- 搭建分布式 AIoT 网络，多台边缘设备协同处理
-- 存储快照与推理结果用于后续数据分析
+- 用摄像头监控场所，检测到特定目标时经 Telegram 或邮件提醒
+- 在无互联网的边缘环境本地运行图像分析
+- 监听 Zigbee 土壤湿度传感器并向 Telegram 推送告警与定时报告
+- 将快照与推理结果存档用于后续数据分析
 
 ## 场景标签
 
-`目标检测` `推理引擎` · 领域:感知与多模态
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `7a8785083f76` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `804d4eb06f0a` · [字段定义](../../DATASET.md)*

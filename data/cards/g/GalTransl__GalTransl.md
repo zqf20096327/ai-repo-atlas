@@ -2,9 +2,9 @@
 
 ⭐ 2,417 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/GalTransl/GalTransl) · 组织维护 · 中文 README
 
-**用大模型自动翻译 Galgame 台词并制作内嵌翻译补丁的桌面工具**
+**为Galgame汉化者提供基于大语言模型的自动化翻译流水线**
 
-面向视觉小说汉化场景的自动化翻译流水线：读取 name-message 格式 JSON，调用 GPT/Claude/Deepseek/Sakura 等大模型完成日译中，通过 GPT 字典注入人设与术语、译前/译后/条件字典、规则化自动找错与翻译缓存断点续翻保障流程可修正。现提供 Tauri+React 桌面端，并新增 Agent 模式（自然语言驱动、含译后校对子 Agent）。配合 VNTextPatch、注入框架等外部工具完成解包到回写全流程；也支持 srt/lrc/vtt/epub 等文件直接翻译，并发布本地模型 GalTransl-7B/14B。
+GalTransl是一套面向视觉小说的自动化翻译工具，核心是自动化翻译流水线：提取脚本为JSON后调用大语言模型翻译，再回写为内嵌翻译补丁。提供基于Tauri+React的桌面图形界面与命令行两种运行方式，支持GPT字典、译前/译后/条件字典、翻译缓存断点续翻、自动化找错与批量重翻，并支持Agent模式自主推进提取与翻译流程。使用本工具发布未校对补丁时要求标注AI翻译补丁。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 桌面端图形界面（Tauri+React）+ Agent 模式自然语言驱动翻译流程
-- GPT 字典注入角色人设，译前/译后/条件字典系统
-- 翻译缓存、断点续翻与规则化自动找错
-- 配套本地模型 GalTransl-7B/14B（6G VRAM 以上可部署）
+- 支持GPT/Claude/Deepseek/Sakura等模型与OpenAI兼容接口
+- GPT字典系统可定义人名与人设，配合译前/译后/条件字典
+- 翻译缓存、断点续翻、自动化找错与按问题批量重翻
+- 桌面端提供提取Agent，可自动识别引擎并提取/回写台词
 
 ## 适用场景
 
-- 我想给一款 Galgame 制作内嵌中文机翻补丁
-- 我需要用字典固定人名和术语的翻译质量
-- 我想让 AI Agent 自主推进并校对整个翻译任务
+- 把Galgame脚本提取后自动翻译为中文并制作内嵌补丁
+- 直接翻译srt、lrc、vtt、mtool json、t++ excel、epub文件
+- 部署GalTransl-7B/14B本地模型进行视觉小说翻译
+- 通过字典固定人名译法并修正常见翻译问题
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+`AI 写作` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3:  支持GPT/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 > L7:  GalTransl是一套将数个基础功能上的改进与对GPT提示工程（Prompt Engineering）的深度利用相结合的Galgame自动化翻译工具，用于制作内嵌式翻译补丁。现在提供**桌面端图形界面**，无需命令行操作即可完成
-> L45: * 2026.8: 更新v8，新增Agent模式，由AI自主完成翻译流程
+> L26: &ensp;&ensp;&ensp;&ensp;GalTransl的核心是一组自动化翻译流水线，解决了使用ChatGPT自动化翻译Gal过程中已知的大部分问题，并提高了整体的翻译质量。同时，通过与其他项目的组合，打通了制作补丁的完
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `88cc989c98ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `4a47d0f29ef3` · [字段定义](../../DATASET.md)*

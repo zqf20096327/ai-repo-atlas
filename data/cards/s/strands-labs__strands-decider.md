@@ -2,9 +2,9 @@
 
 ⭐ 1,253 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/strands-labs/strands-decider) · [官网](https://strandsagents.com/docs/labs/) · 组织维护
 
-**面向 agent 工作流的小型快速决策模型（system one 模型）**
+**给 agentic 工作流的快速决策模型：选项判定与打分**
 
-一种新型“决策模型”：基于预训练 decoder LLM 躯干（如 Qwen3.5-2B-Base），去掉语言建模头、换成约百万参数的指针头，单次前向输出选项选择（choice）、是非判断（noul）与量表评分（score）三类结果，每个决策附带校准置信度；比 LLM 响应更快，且无需训练传统分类器。以 pip 包与 CLI 提供，可本地运行或以 HTTP 服务器部署，支持 CPU/MPS/CUDA/MLX 设备与视觉输入（Qwen3.5 模型）。模型发布在 Hugging Face 的 StrandsAgents 与 amazon 组织下，覆盖 2B 至 26B 多个尺寸。
+Strands Decider 是一个决策模型（自称 system one 模型）：在预训练 LLM 主干上丢弃语言建模头，换成约百万参数的指针头，单次前向即可从选项中挑选或按量表打分，不做文本生成。提供三种问题类型（noul 是/否、choice 多选一、score 有序评分），每次决策附带校准置信度。以 CLI 和 HTTP 服务器形式提供，基于 Qwen3.5 与 Gemma 4 基座，支持 CPU、CUDA、MPS、MLX 设备，模型权重发布在 Hugging Face。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- choice/noul/score 三类问题共用同一 masked softmax，标签集由请求定义
-- 每个决策输出校准置信度（置信度≥0.9 时准确率约 95%）
-- 单次前向无生成循环：2B 模型在 RTX 3090 上中位延迟 115 ms
-- 文本只读一次，同一文本多问题各只加自身 token，成本低
+- 单次前向输出的指针头架构，不做生成与解码循环
+- 三种问题类型：choice/noul/score，附带校准置信度
+- 以 CLI 与 HTTP 服务器形式提供，支持 --vision 图像输入
+- 提供 2B 至 26B-A4B 多个尺寸，全部可在 CPU 运行
 
 ## 适用场景
 
-- 在 agent 工作流中做路由/分诊等快速二选一或多项选择
-- 对文本做情感、紧急度等量表评分并获取置信度
-- 以 HTTP 服务形式给其他系统提供低延迟决策接口
+- 在 agent 工作流中做路由决策（如按工单内容选择处理团队）
+- 对文本做快速情感/紧急度打分
+- 对文档图像做是/否判断（如签名栏是否填写）
 
 ## 场景标签
 
- · 领域:AI 模型/agent 基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L18: Strands decider is one of a new class of **decision models**, or "system one" models. Unlike an
-> L19: LLM, which can generate arbitrary text, a decision model picks between sets of options and
-> L20: rates things on a scale. This class of model works best for problems that fall between LLMs
-> L63: choice_0 -> billing (confidence 0.659)
+> L20: Strands decider is one of a new class of **decision models**, or "system one" models. Unlike an
+> L23: and traditional classification models: it is a general-purpose classification and scoring
+> L26: agentic workflows built with the Strands Agents SDK.
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ce095ea448ed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cb86d5d3f95c` · [字段定义](../../DATASET.md)*

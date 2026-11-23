@@ -1,45 +1,44 @@
 # freestylefly/WeChatBridge
 
-⭐ 2,430 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/freestylefly/WeChatBridge) · [官网](https://render.qmuse.pub/p/muse/2413870555736078/index.html) · 个人维护 · 中文 README
+⭐ 2,430 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/freestylefly/WeChatBridge) · [官网](https://render.qmuse.pub/p/muse/2413870555736078/index.html) · 组织维护 · 中文 README
 
-**把微信聊天记录一键转发到 AI Agent 与 Obsidian 的 macOS 工具**
+**macOS 微信用户把聊天记录一键转发给 AI Agent 与 Obsidian 的工具**
 
-原生 macOS Share Extension 工具：利用微信 4.1.13+ 的合并转发功能，把包含 TXT、图片和视频的 ZIP 归档转发到 Codex、Claude、豆包、千问办公、DeepSeek Harness 等 AI Agent 桌面应用（激活目标 App 并自动粘贴），或沉淀为 Obsidian Markdown 笔记并保留原始附件。支持分批收集、场景提示词、SKILL.md 技能管理与自定义转发目标。隐私边界明确：不读取微信数据库，Share Extension 无网络权限。要求 macOS 14+，安装包经蓝奏云发布。
+基于 macOS 微信 4.1.13「合并转发到其他应用」机制的原生工具：注册十二个 Share Extension 入口，把微信导出的聊天归档 ZIP 附上场景提示词后转发给 Codex、Claude、豆包、千问办公等 Agent 应用，或生成 Markdown 笔记存入 Obsidian/文件夹；支持单群场景提示词、SKILL.md 技能包、超 100 条消息的分批收集、批次记录与失败兜底。不读数据库、不注入微信，Share Extension 在沙盒中运行且无网络权限。提供蓝奏云安装包，源码可用 SwiftPM 构建。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 十二个原生转发入口，直接出现在微信转发菜单
-- 转发时激活目标 AI Agent 应用并自动粘贴聊天归档
-- 沉淀到 Obsidian：生成 Markdown 笔记并按聊天名组织、保留原始 ZIP
-- 分批收集超过 100 条聊天记录，收齐后一次发送
+- 十二个原生 Share Extension 入口，转发菜单中直接选择目标
+- 按群聊保存场景提示词并管理 SKILL.md 技能包
+- 分批收集超 100 条消息后一次发送
+- 本地化隐私设计：不读微信数据库，Share Extension 沙盒无网络权限
 
 ## 适用场景
 
-- 把群聊讨论记录交给 AI Agent 处理或总结
-- 将微信聊天记录归档进 Obsidian 本地知识库
-- 为不同群聊配置场景提示词后批量转发
+- 把群聊几百条消息一键交给 AI 生成总结和待办
+- 把微信聊天记录和附件按聊天名归档进 Obsidian
+- 为不同微信群配置各自的转发提示词场景
 
 ## 场景标签
 
-`知识库管理` · 领域:知识与检索
+`知识库管理` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L3:  从微信转发菜单，把聊天记录送进 AI Agent 与本地知识库。
-> L22: 系统的“转发到其他应用”列表只展示带有 Share Extension 的 App。微信流补齐这层入口，让一次转发直接抵达 Codex、Claude、豆包、千问办公、WorkBuddy、WeSight、DeepSeek Harne
-> L48: |发给 Codex|激活 ChatGPT/Codex 并粘贴聊天归档|
+> L31:  转发到 Codex、Claude、豆包、千问办公、WorkBuddy 等，自动带上提示词并粘贴好聊天记录，回车就出总结、待办和纪要。
+> L4:  在微信「转发到其他应用」里直接选 Codex、Claude、豆包、千问、Obsidian……不读数据库、不注入微信，全程本地。
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `bf3257de82d3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `38330524e98e` · [字段定义](../../DATASET.md)*

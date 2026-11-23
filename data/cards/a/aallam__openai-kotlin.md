@@ -2,9 +2,9 @@
 
 ⭐ 1,851 · Kotlin · MIT · 推送 2026-10-31 · [GitHub](https://github.com/aallam/openai-kotlin) · 个人维护
 
-**面向 Kotlin 开发者的 OpenAI API 多平台客户端库**
+**Kotlin 开发者接入 OpenAI API 的多平台协程客户端**
 
-为 Kotlin/JVM/JS/Wasm 等多平台项目提供 OpenAI API 的客户端库，基于 Kotlin 协程与 Ktor 引擎构建。覆盖 Responses、Chat、Images、Embeddings、Files、Fine-tuning、Audio、Batch 等正式特性，以及 Assistants、Vector Stores 等 Beta 特性；Completions 等已弃用。通过 Maven Central 分发，支持 Gradle BOM 与 Maven（JVM 限定）两种接入方式，内置 ProGuard/R8 规则，附带示例应用与活体集成测试开关。属非官方库，与 OpenAI 无隶属关系。
+Kotlin 编写的 OpenAI API 客户端库，支持 Kotlin 多平台（含 JVM/JS/wasmJs 等目标）与协程。通过 Maven Central/Gradle BOM/Maven 分发，需搭配 Ktor 引擎依赖。支持 Chat、Images、Embeddings、Audio、Files、Fine-tuning、Batch、Vector Stores、Realtime 等 API 能力，保留已退役的 Assistants 相关接口供存量用户使用，Completions 标记为 legacy。附带示例应用、ProGuard/R8 规则与 opt-in 的付费集成测试；README 声明为非官方库。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- Kotlin 多平台支持（JVM/JS/Wasm，Maven 仅限 JVM）
-- 基于 Kotlin 协程与可选 Ktor 引擎
-- 覆盖 Responses/Chat/Images/Embeddings/Batch 等正式特性及 Assistants 等 Beta 特性
-- 通过 Maven Central 分发，支持 Gradle BOM
+- Kotlin 多平台客户端，支持协程
+- 覆盖 Chat、Embeddings、Audio、Realtime、Vector Stores 等 OpenAI API 能力
+- 支持 Gradle、Maven、BOM 多种依赖接入方式
+- 内置 ProGuard/R8 规则，无需额外配置混淆
 
 ## 适用场景
 
-- 在 Kotlin 多平台项目中接入 OpenAI API
-- 在 Android（R8）项目中调用 OpenAI 的 Chat 与 Embeddings 能力
-- JVM Maven 项目中集成 OpenAI 接口
+- 在 Kotlin/JVM 项目中调用 OpenAI 的聊天与嵌入接口
+- 构建 Kotlin Multiplatform 应用时统一访问 OpenAI API
+- 对现有 Assistants 接口代码做迁移与维护
 
 ## 场景标签
 
- · 领域:LLM SDK/开发库
+ · 领域:开发工具/LLM SDK
 
 ## 证据(README 行号)
 
 > L7: Kotlin client for OpenAI's API with multiplatform and coroutines
-> L85: - Responses
+> L83: ### Supported features
+> L197: **This is an unofficial library, it is not affiliated with nor endorsed by OpenAI**. Contributions are welcome.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a5c01ce6b0da` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ecbf36b2fba5` · [字段定义](../../DATASET.md)*

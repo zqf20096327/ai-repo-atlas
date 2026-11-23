@@ -1,16 +1,16 @@
 # DEEIX-AI/DEEIX-Chat
 
-⭐ 1,639 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/DEEIX-AI/DEEIX-Chat) · [官网](https://deeix.com) · 组织维护 · 中文 README
+⭐ 1,639 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/DEEIX-AI/DEEIX-Chat) · [官网](https://deeix.com) · 组织维护
 
-**面向个人/团队/企业的自托管多模型 AI 聊天与网关平台**
+**企业 AI 工作台：多模型接入、路由、RAG、计费与运维一体**
 
-开源可部署的一体化 AI 平台：统一接入 OpenAI、Anthropic、Google/Gemini、xAI、OpenRouter 及 OpenAI 兼容协议，提供多模态对话、模型路由（优先级/权重/熔断）、文件上传与 RAG 检索、MCP 工具、按次计费与订阅（Stripe/EPay）、SSO/2FA 身份、审计日志等。前后端分离开发（Next.js/React + Go），单运行时部署；文档抽取与 OCR 为可选服务。支持 SQLite 轻量部署或 PostgreSQL/Redis 全栈 Compose，并提供 macOS/Linux/Windows 桌面构建流程。
+开源可自部署的 AI 平台，为个人、团队和企业提供对多个上游模型供应商的统一入口。功能覆盖多模态对话（流式、分支、分享）、平台级模型路由（通道绑定、优先级、熔断）、文件上传与 RAG 语义检索、MCP 工具生态、用量计费（Stripe/EPay）、身份认证（SSO/OIDC/2FA）与审计日志。前端 Next.js、后端 Go 单运行时部署，支持 SQLite 轻量配置或 PostgreSQL/Redis 生产栈，提供 Docker Compose 三种部署档位与桌面版构建流水线。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 统一协议适配：OpenAI、Anthropic、Gemini、xAI、OpenRouter 及 OpenAI 兼容协议
-- 模型路由层：路由绑定、优先级、权重、熔断、厂商映射
-- 文件与 RAG：上传、抽取、OCR、分块、嵌入与语义检索进入对话上下文
-- MCP 工具集成与计费/身份/审计的企业运营能力
+- 统一接入 OpenAI、Anthropic、Gemini、xAI、OpenRouter 及 OpenAI 兼容协议
+- 平台模型路由层：通道绑定、优先级、权重、熔断与厂商映射
+- 文件上传、OCR 抽取、分块嵌入与语义检索进入对话上下文
+- 内置计费、订阅、余额与用量台账，含 Stripe/EPay 支付
 
 ## 适用场景
 
-- 团队或企业自托管统一入口访问多家模型供应商
-- 在对话中直接检索自有文件资料（RAG）
-- 为组织内部按用量计费、管理与审计模型使用
-- 低依赖场景用 SQLite 单容器部署做评估或个人使用
+- 企业自托管统一网关，聚合多家模型供应商并做路由管理
+- 团队内部署带文件 RAG 与 MCP 工具的对话工作台
+- 对外提供模型服务并按用量计费的场景
 
 ## 场景标签
 
@@ -39,7 +38,8 @@
 ## 证据(README 行号)
 
 > L18: DEEIX Chat is an open-source, deployable AI platform for individuals, teams, and enterprises that need long-term, s
-> L28: |Conversations|A multimodal chat interface for daily use, with streaming, branches, retries, edits, feedback, shari
+> L29: |Models and routing|A platform-model layer for upstream channels, real models, route bindings, priority, weights, c
+> L65: |Deployment runtime|Lightweight single-node deployment or multi-node production deployment|Docker, Docker Compose, 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `2a671b3cdee7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `9f85231a2cdb` · [字段定义](../../DATASET.md)*

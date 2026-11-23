@@ -1,10 +1,10 @@
 # razzant/ouroboros
 
-⭐ 1,699 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/razzant/ouroboros) · [官网](https://ouroboros-agent.ai/) · 个人维护 · 中文 README
+⭐ 1,699 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/razzant/ouroboros) · [官网](https://ouroboros-agent.ai/) · 组织维护
 
-**开源通用自进化 AI agent，跨任务持续身份与记忆**
+**跨任务保持记忆与身份的通用自主桌面 AI agent**
 
-以原生桌面应用或 headless CLI 形式运行的通用 AI agent：跨任务与重启保持身份、持久记忆与历史；可修改自身运行的代码、架构、提示词、工具与依赖，自变更通过 Git 历史与审查证据保持可追踪。支持并行专家 agent 群协作、外部项目工作区、后台反思。模型推理可配置远程 provider API 或本地 GGUF 模型，桌面安装包内捆绑可选 CLI 安装器。基准结果为自报口径。
+开源通用 AI agent，以桌面应用或无头 CLI 运行：仓库、持久记忆、历史与界面保留在本地机器上，模型推理走用户配置的远程 API 或本地 GGUF 模型。支持协调多个专家 agent 的 swarm、委托编码与审查（捆绑 Claudexor 执行层）、浏览器与计算机操作工具，并能在审查流程约束下改写自身代码、提示词与依赖。默认不发送遥测，内置 $200/$50/$20 三档支出限额，首个运行向导配置模型访问、审查策略与预算。提供技术报告与 Terminal-Bench 2.1、OSWorld-Verified 等自报告基准图表。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 跨任务与重启持续的身份、记忆与历史（自述传记机制）
-- 可重写自身代码、架构、提示词与依赖，变更入 Git 历史并可审查
-- 专家 agent 群并行协作与外部项目工作区
-- 支持远程 provider API 或本地 GGUF 模型填充认知角色
+- 持久记忆与身份跨任务、跨重启延续
+- 可改写自身实现（代码/架构/提示词/工具），须经 CONTRIBUTING 定义的独立 agent 审查流程
+- 默认无遥测，本地历史留在机器上
+- 内置支出限额与后台意识（background consciousness）24 小时 $20 预算
 
 ## 适用场景
 
-- 作为常驻桌面 agent 处理跨会话的长期项目
-- 通过 CLI/headless 方式运行受管理的自动化任务
-- 观察一个自我修改实现且变更留有 Git 证据的 agent 系统
+- 在本地桌面以一个持续记忆的 agent 处理跨任务工作
+- 委托编码任务并让独立 agent 做审查
+- 用本地 GGUF 模型离线运行 agent
+- 协调多个专家 agent 分工完成外部项目
 
 ## 场景标签
 
-`多智能体` `GUI 自动化` `Agent 记忆` · 领域:Agent 开发
+`多智能体` `编码 Agent` `GUI 自动化` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L17: Ouroboros is an open-source, general-purpose AI agent whose identity, durable memory, and history continue across t
-> L91: - **Modify its implementation.** Its editable surface spans application code, architecture, prompts, tools, and dep
-> L94: - **Think between requests.** Background consciousness supports reflection, initiative, and preparation outside the
+> L18: Ouroboros is an open-source, general-purpose AI agent whose identity, durable memory, and history continue across t
+> L20: It runs as a native desktop app or through a headless CLI. The runtime keeps its repository, durable memory, histor
+> L82: To run tasks, choose a connected Codex account as the Main model source, configure a supported remote provider API 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `87cf8174c49d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 low · 依据 README sha `444619920d6d` · [字段定义](../../DATASET.md)*

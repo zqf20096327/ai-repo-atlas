@@ -1,10 +1,10 @@
 # JosssphZhou/poki
 
-⭐ 1,830 · Swift · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/JosssphZhou/poki) · [官网](https://poki.bot) · 个人维护
+⭐ 1,830 · Swift · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/JosssphZhou/poki) · [官网](https://poki.bot) · 个人维护 · 中文 README
 
-**在 iPhone 上直接运行、代用户操作手机应用的 GUI agent 应用**
+**在 iPhone 上运行的开源手机操作 agent 应用**
 
-Poki 是安装在 iPhone 上的开源 agent 应用：读取屏幕并在真实应用内点击、输入、滑动，替代用户完成多步骤操作。安装需先经 Mac 或 Windows PC 通过 USB 完成，之后可脱离电脑独立运行；模型侧由用户自备账号（ChatGPT Plus/Pro 登录、各家 API key 或 OpenAI 兼容服务器）。支付、删除、Wallet 类操作需用户逐次确认；锁屏或需审批时暂停。设备要求 iOS 18+，并需配置外链路由与签名续期。
+Poki 是直接安装并运行在 iPhone 上的开源 agent 应用：读取屏幕并在真实应用内执行点击、输入、滑动等操作，支持聊天、Action Button 或 Siri 触发，可将常用流程保存为技能一键或语音启动。模型侧使用用户自己的账号（ChatGPT Plus/Pro 登录或多家 API key）。支付、删除、Wallet 等操作会暂停等待用户确认；锁屏或需审批时自动暂停。安装需先从 Mac 或 Windows PC 完成，之后可脱离电脑独立运行。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Poki 是安装在 iPhone 上的开源 agent 应用：读取屏幕并在真实应
 
 ## 能力要点
 
-- 在 iPhone 上独立运行，读取屏幕并在真实应用内点击/输入/滑动
-- 支持 ChatGPT Plus/Pro 登录或 Anthropic/OpenAI/Gemini/DeepSeek/OpenRouter 等 API key 及 OpenAI 兼容服务器
-- 支付、删除、Wallet 操作强制用户确认；动态岛中后台运行
-- 保存技能可从主屏幕或语音启动
+- 应用直接运行在 iPhone 上，可脱离电脑独立操作
+- 读取屏幕并在真实应用中执行点击、输入、滑动
+- 支付/删除/Wallet 操作强制用户确认
+- 支持保存技能，从主屏幕或语音启动重复流程
 
 ## 适用场景
 
-- 让 agent 代我完成点外卖、查天气、建备忘录等日常多步操作
-- 把常用流程存成技能，一键或语音复跑
-- 不开电脑的情况下自动化我的手机
+- 让 agent 代为完成查询天气、记笔记、订餐等日常操作
+- 把每天重复的手机操作流程保存为技能一键执行
+- 用自己的模型账号驱动手机自动化任务
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `2a3536204ac6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `bae1ed46cc73` · [字段定义](../../DATASET.md)*

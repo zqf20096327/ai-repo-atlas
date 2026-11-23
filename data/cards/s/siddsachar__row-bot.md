@@ -2,9 +2,9 @@
 
 ⭐ 1,696 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/siddsachar/row-bot) · [官网](https://row-bot.ai) · 个人维护
 
-**本地优先的个人 AI 助手：对话驱动工具、记忆与多端访问**
+**本地优先的桌面 AI 助手：记忆、代理工作流与工具执行**
 
-单用户多设备的桌面/服务器 AI 助手：以对话方式处理设计稿、代码、文档与工作流，将重要信息存入本地知识图谱（含 Dream Cycle 整理与 Obsidian 兼容 vault），危险操作需 Approve/Deny 确认。模型可经 Ollama 本地运行，或接入 ChatGPT/Claude/Grok 订阅、API key 及 OpenAI 兼容端点。提供 Windows/macOS/Linux 安装包与 Docker 镜像，支持 Telegram/WhatsApp 等渠道及语音。无账号系统与托管推理，数据留在本机。
+面向个人用户的本地优先桌面 AI 助手，以对话方式执行任务：本地知识图谱记忆、目标与委派 agent、工作流（定时/webhook/链式）、风险操作审批机制、设计文档与代码面板、可连接 GitHub/Notion 等服务。模型来源可选本机模型服务器（Ollama/LM Studio/vLLM/llama.cpp）、ChatGPT/Claude/Grok 订阅、API key 或 OpenRouter 免费模型。单属主多设备架构，非多用户托管。提供 Windows/macOS 安装包、Linux 安装脚本、Docker 镜像与 Railway 托管路径。
 
 ## 筛选速览
 
@@ -16,31 +16,30 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 本地知识图谱记忆与 Obsidian 兼容 vault
-- 经 Ollama 本地运行模型，或接入 ChatGPT/Claude/Grok 订阅与 OpenAI 兼容端点
-- 风险操作需 Approve/Deny 审批，支持目标持续执行的委派 agent
-- Telegram/WhatsApp/Discord/Slack/SMS 渠道与本地 Whisper/SenseVoice 语音
+- 本地知识图谱记忆，含记忆审阅、合并与 Obsidian 兼容 vault
+- 风险操作需 Approve/Deny 审批，Activity log 记录全部动作
+- 本地 Whisper/SenseVoice/Kokoro 语音听写与朗读
+- 桌面安装包、浏览器、Docker 与 Railway 多种运行形态
 
 ## 适用场景
 
-- 在本地运行一个能读写文件、执行 shell 与浏览器自动化的个人 AI 助手
-- 用个人知识图谱与提醒管理日常事务（如生日、待办）
-- 通过 QR 码从手机或其他电脑远程访问同一实例
-- 以定时/ webhook 工作流自动执行任务并推送到聊天渠道
+- 让助手在本机文件与代码库里持续完成指定任务
+- 将 ChatGPT 等助手的记忆迁移到本地私有助手
+- 通过 Telegram/WhatsApp 等渠道与个人助手交互
+- 在手机上审批助手发起的风险操作
 
 ## 场景标签
 
-`AI 助手` `知识图谱` `浏览器自动化` `工作流自动化` · 领域:效率与自动化
+`AI 助手` `工作流自动化` `知识图谱` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L12: Row-Bot is a local-first desktop AI assistant for doing real work with models,
-> L16: risky. It runs local models through Ollama, provider API
-> L25: - **Conversations that do the work** - ask for a deck, an app or a report and
+> L189: 1. On first launch Row-Bot asks **How should Row-Bot think?**: on this
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `89b724df83d3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `8a83686942a4` · [字段定义](../../DATASET.md)*

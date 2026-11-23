@@ -2,9 +2,9 @@
 
 ⭐ 2,253 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/google-deepmind/alphagenome) · [官网](https://www.alphagenomedocs.com) · 组织维护
 
-**DeepMind DNA 调控预测模型 AlphaGenome 的 Python API 客户端**
+**科研人员调用 AlphaGenome 模型的 Python API 客户端**
 
-Google DeepMind 官方提供的 AlphaGenome API 客户端库、示例与文档：通过 API key 调用 AlphaGenome 模型，对最长 100 万碱基对的 DNA 序列输出基因表达、剪接、染色质特征、接触图等多模态预测，多数输出达单碱基分辨率；并提供覆盖全人类基因组的预计算变异效应数据集 Atlas（AVI 分数、特征重要性）。非商业用途免费，输出仅限理论研究、不得用于临床决策；商业使用需经 Google Cloud。附带 Colab 快速入门 notebook 与可视化库。
+alphagenome 包以 PyPI 分发，为 Google DeepMind 的 AlphaGenome 系列模型与 AlphaGenome Atlas 提供程序化访问：可运行 DNA 序列预测、变异效应评分、基于自身 scRNA-seq 数据的表达条件化，以及查询 Atlas 预计算的 90 亿人类变异变异效应分数。API 免费供非商业用途，查询速率随负载变化，实时预测适合小规模分析；商业使用需经 Google Cloud。预测仅限理论建模与研究，禁止用于临床决策。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Google DeepMind 官方提供的 AlphaGenome API 客户端库、示例与文档�
 
 ## 能力要点
 
-- 对最长 1Mb DNA 序列的多模态预测（表达/剪接/染色质/接触图）
-- 多数输出达单碱基分辨率，覆盖变异效应预测任务
-- Atlas 全基因组预计算变异效应分数（AVI）与特征重要性
-- 提供 matplotlib 可视化库与 Colab 入门 notebook
+- 访问 AlphaGenome 2 多模态 DNA 序列模型，支持表达条件化与跨 1Mb 序列的模态插补
+- 查询 AlphaGenome Atlas 90 亿人类变异的预计算变异效应分数与 AVI 分数
+- 提供 Colab 教程、用户指南、端到端生物分析案例与完整 API 参考
+- 非商业用途免费，商业使用经 Google Cloud 提供
 
 ## 适用场景
 
-- 预测基因组区域的基因表达与剪接等调控输出
-- 对非编码变异做变异效应打分与优先级排序
-- 在 Colab 中快速运行入门示例并可视化预测结果
+- 对基因组变异做 in silico 变异效应评分以辅助非编码变异解读
+- 用自有 scRNA-seq 数据做表达条件化预测
+- 在 Colab 笔记本中跟教程学习变异评分与可视化流程
 
 ## 场景标签
 
- · 领域:生物信息学/基因组学
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L15: The AlphaGenome API provides access to AlphaGenome, Google DeepMind’s unifying
-> L20: AlphaGenome offers multimodal predictions, encompassing diverse functional
-> L23: sequences of up to 1 million base pairs in length and can deliver predictions at
+> L15: The `alphagenome` package provides programmatic access to the AlphaGenome family
+> L18: - **AlphaGenome 2**: Our latest multimodal DNA sequence model, with improved
+> L31: demand: pre-computed Atlas lookups support higher query rates than live model
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `97e5a1048794` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `183b505e0353` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,870 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/e2b-dev/runtime) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime) · 组织维护
 
-**AI agent 沙箱运行时：Firecracker microVM 运行不受信代码**
+**为 AI agent 提供快照恢复型 Firecracker 沙箱的开源运行时**
 
-E2B 的开源后端运行时，用 Go 编写，为每个 agent 会话提供一个硬件隔离的 Firecracker microVM Linux 沙箱，可从快照恢复、暂停/恢复、fork 运行中的沙箱。包含控制面 API、节点编排器、VM 内 envd 进程/文件系统 API、边缘路由与模板构建器。同一代码服务公有云、企业私有部署与单机 Embed 包（docker compose 自托管，需 Linux + KVM），SDK 提供 JavaScript 与 Python。
+E2B Cloud 背后的完整后端运行时：控制面 API、驱动 Firecracker 的节点编排器、VM 内的 envd 服务、边缘路由与模板构建器，为每个 agent 会话提供隔离的 Linux 沙箱。沙箱从预启动快照恢复而非冷启动内核，经 userfaultfd 惰性加载内存页、CoW overlay 根文件系统，支持暂停/恢复与运行中沙箱的检查点分叉。Go 编写，Apache-2.0 许可，同一份代码服务公有云、企业专有部署与单机 Embed 包。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ E2B 的开源后端运行时，用 Go 编写，为每个 agent 会话提供一�
 
 ## 能力要点
 
-- 每个沙箱一个 Firecracker microVM，独立 cgroup/网络命名空间/nftables 出口防火墙
-- 快照恢复式创建：userfaultfd 懒加载内存页 + CoW 根文件系统
-- 暂停/恢复与在运行沙箱上 fork（单次最多 100 个）
-- 单机 Embed 包经 docker compose 自托管，另有 Terraform（GCP/AWS/Azure）与 Kubernetes 清单
+- Firecracker microVM 硬件隔离沙箱，每沙箱独立 cgroup 与网络命名空间及 nftables 出口防火墙
+- 快照恢复式创建：userfaultfd 惰性内存加载 + CoW 根文件系统
+- 暂停/恢复与运行中沙箱分叉（单次最多百个）
+- envd 在 VM 内暴露进程、PTY、文件系统与端口转发 API，可热升级
 
 ## 适用场景
 
-- 为 AI agent 提供隔离的代码执行沙箱并追踪到底层内核
-- 平台团队在自己云账号内运行 agent 执行基础设施
-- 研究 Firecracker 与快照调度在规模化下的实现
+- 为 agent 会话运行不受信代码并提供内核级隔离
+- 在自有云账户/单机上部署 agent 执行基础设施
+- 本地运行与生产一致的沙箱运行时进行开发调试
 
 ## 场景标签
 
- · 领域:AI agent 基础设施/云原生
+ · 领域:AI agent 基础设施/云运行时
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8f025525f924` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cc70dbff0774` · [字段定义](../../DATASET.md)*

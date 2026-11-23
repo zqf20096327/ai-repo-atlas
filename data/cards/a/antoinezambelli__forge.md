@@ -2,9 +2,9 @@
 
 ⭐ 2,268 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/antoinezambelli/forge) · 个人维护
 
-**自托管 LLM 工具调用的可靠性层框架与代理**
+**自托管 LLM 工具调用的可靠性层与代理服务**
 
-Python 框架，面向自托管 LLM 的工具调用与多步 agentic 工作流提供可靠性保障：响应校验、畸形工具调用解析（如 Mistral/Qwen 格式）、带纠错提示的重试循环、必选步骤/前置条件约束与上下文压缩。提供三种用法：兼容 OpenAI/Anthropic API 的 drop-in 代理服务器、管理完整生命周期的 WorkflowRunner（含共享推理槽 SlotWorker）、可组合的 guardrails 中间件。支持 llama-server、Ollama、Llamafile、vLLM 等后端。限制：非多 agent 编排器；代理模式单次请求、不压缩调用方历史、不认证调用者。
+面向自托管模型的工具调用可靠性框架：以代理服务器、WorkflowRunner 循环运行器、可组合中间件三种方式使用，提供响应校验、畸形工具调用抢救解析（支持 Mistral/Qwen 格式）、带纠错提示的重试循环等护栏。代理兼容 OpenAI chat-completions 与 Anthropic Messages 两种 API，可接入现有客户端；另提供 SlotWorker 共享推理槽队列。自述非多 agent 编排器、非编码 harness，代理模式不做会话压缩与调用方鉴权。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Python 框架，面向自托管 LLM 的工具调用与多步 agentic 工作流�
 
 ## 能力要点
 
-- 代理模式同时兼容 OpenAI chat-completions 与 Anthropic Messages API，无需改写现有客户端
-- 对畸形工具调用做救援解析（Mistral [TOOL_CALLS]、Qwen XML 等）并规范化重发
-- WorkflowRunner 提供必选步骤/前置条件/终止工具等工作流约束与上下文压缩
-- Managed 模式可拉起 llama-server、Llamafile、vLLM 或挂接 Ollama 守护进程
+- 独立代理进程（forge-proxy）无需宿主 Python，兼容 OpenAI/Anthropic 两种 API
+- 畸形工具调用抢救解析（JSON code fence、Mistral [TOOL_CALLS]、Qwen XML）
+- 支持 llama.cpp/llama-server、Ollama、Llamafile、vLLM、Anthropic 多后端
+- SlotWorker 提供优先级队列与自动抢占的共享推理槽
 
 ## 适用场景
 
-- 给本地小模型的工具调用加校验与重试，提升现有编码代理可靠性
-- 在不改代码的前提下让 OpenAI/Anthropic 兼容客户端获得 guardrails
-- 构建带步骤约束的多步 agent 工作流并共享单 GPU 推理槽
+- 为本地 8B 模型的工具调用增加校验与重试护栏
+- 不改代码地给 opencode/aider/Continue 等现有编码代理套上护栏
+- 构建多步结构化 agent 工作流并管理上下文压缩
+- 多 agent 场景下多个工作流共享一个 GPU 推理槽
 
 ## 场景标签
 
-`Agent 框架` `工作流自动化` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9: A reliability layer for self-hosted LLM tool-calling. You give forge a set of tools; the model calls whichever it wa
 > L19: - **Proxy server** — Drop-in proxy (`forge-proxy` from the standalone distribution, or `python -m forge.proxy` from
-> L23: - **Guardrails middleware** — Use forge's reliability stack (composable middleware) inside your own orchestration l
+> L25: Supports generic OpenAI-compatible endpoints, Ollama, llama-server (llama.cpp),
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `aa48f588fa5b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `066d451d4eee` · [字段定义](../../DATASET.md)*

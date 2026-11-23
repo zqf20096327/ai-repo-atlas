@@ -2,9 +2,9 @@
 
 ⭐ 2,276 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ermig1979/Simd) · [官网](http://ermig1979.github.io/Simd) · 个人维护
 
-**面向 C/C++ 的 SIMD 优化图像处理与机器学习库**
+**给 C/C++ 程序员的 SIMD 优化图像处理与机器学习库**
 
-C/C++ 图像处理与机器学习库，提供像素格式转换、图像缩放滤波、统计信息提取、运动检测与神经网络等算法，并针对 SSE/AVX/AVX-512/AMX（x86/x64）、NEON/SVE/SVE2（ARM）等 SIMD CPU 扩展优化，支持运行时自动选择更快的指令集实现。同时提供 C API、C++ 封装类、Python wrapper，支持 Windows/Linux、MSVS/G++/Clang 与 CMake 构建，含测试框架、fuzzing 目标与 vcpkg 安装途径，另支持与 OpenCV 的类型互转。使用需自行从源码构建（或经 vcpkg 安装）。
+面向 C/C++ 程序员的开源图像处理与机器学习库，提供像素格式转换、图像缩放与滤波、统计信息提取、运动检测及神经网络等算法，并按 CPU 扩展（SSE/AVX/AVX-512/AMX、NEON/SVE/SVE2、HVX）优化。提供 C API 与 C++ 封装及 Python 包装；支持动态/静态链接、Windows/Linux 32/64 位、MSVS/G++/Clang，用 MSVS 项目或 CMake 从源码构建，也可经 vcpkg 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ C/C++ 图像处理与机器学习库，提供像素格式转换、图像缩放�
 
 ## 能力要点
 
-- 像素格式转换、缩放滤波、统计提取、运动检测、神经网络等算法
-- 针对 SSE/AVX/AVX-512/AMX/NEON/SVE/SVE2 的 SIMD 优化与运行时算法选择
-- 提供 C API、C++ 类封装与 Python wrapper
-- 含测试框架、fuzzing 目标与 OpenCV 类型互转支持
+- 算法按 SIMD CPU 扩展优化，支持 x86/x64 与 ARM/Hexagon
+- 提供 C API、C++ 类封装与 Python 包装
+- 内置测试框架与 fuzzing 目标，可做正确性与性能测试
+- 与 OpenCV 类型可互转（SIMD_OPENCV_ENABLE 宏）
 
 ## 适用场景
 
-- 在 C/C++ 项目中集成高性能图像处理与神经网络推理
-- 利用 CPU SIMD 扩展（含 AMX/SVE）加速图像算法
-- 通过 vcpkg 或 CMake 在 Windows/Linux 上构建使用
+- 在 C++ 图像处理管线中用 SIMD 优化缩放、滤波等运算
+- 实现视频运动检测
+- 为神经网络推理加速做底层优化
 
 ## 场景标签
 
@@ -39,7 +39,7 @@ C/C++ 图像处理与机器学习库，提供像素格式转换、图像缩放�
 
 > L3: The Simd Library is a free open source image processing and machine learning library, designed for C and C++ program
 > L5: pixel format conversion, image scaling and filtration, extraction of statistic information from images, motion detec
-> L8: The algorithms are optimized with using of different SIMD CPU extensions.
+> L6: neural network.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `da6fc444a754` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cfb940250733` · [字段定义](../../DATASET.md)*

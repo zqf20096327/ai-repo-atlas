@@ -2,9 +2,9 @@
 
 ⭐ 1,425 · Kotlin · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ximeiorg/Xime) · [官网](https://ime.ximei.me) · 个人维护 · 中文 README
 
-**基于 Rime 的安卓中文输入法，AI 提供预测与语音输入**
+**基于 Rime 的安卓中文输入法，本地 AI 模型增强预测**
 
-以 Rime（librime）为引擎的 Android 输入法，内置五笔 86/98、拼音及混输方案，支持通过方案市场或无线导入自定义方案（双拼、笔画等）。键盘布局覆盖全键盘、T9 拼音、笔画九键、手写、数字面板，另提供悬浮键盘、剪贴板管理与同步、Lua 插件市场。AI 部分：Transformer 预测文本、本地离线 ASR（zipformer2 流式引擎）及在线 ASR 插件（FunAsr、Volc 等）。要求 Android 9.0 及以上，GPLv3 许可。
+基于 Rime 引擎构建的安卓输入法，支持五笔 86/98、拼音及混合方案，可通过方案市场或无线导入自定义方案（双拼、笔画等）。键盘布局覆盖 QWERTY、T9 拼音、笔画九键、手写、数字键盘与悬浮键盘。本地 AI 部分包括基于 Transformer 的预测文本模型与内置 streaming zipformer2 的离线语音识别，另有 FunAsr、火山引擎等在线 ASR 插件。支持 Lua 插件市场、WebDAV 备份、剪贴板同步，要求 Android 9.0+，提供 APK 下载与源码构建。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- Rime 引擎，内置五笔 86/98、拼音与混输，支持自定义方案
-- Transformer 预测文本与本地离线 ASR（zipformer2 流式引擎）
-- Lua 插件市场（.xipk 格式），含在线 ASR、剪贴板同步等扩展
-- 提供 arm64-v8a / armeabi-v7a / x86_64 / universal 架构 APK
+- 内置五笔 86/98、拼音、混合方案，支持自定义方案导入
+- 基于 Transformer 的本地预测文本模型加速输入
+- 离线语音识别（streaming zipformer2）与在线 ASR 插件
+- Lua 插件市场可扩展表情、剪贴板同步等功能
 
 ## 适用场景
 
-- 在安卓手机上使用五笔或拼音输入中文
-- 通过方案市场或无线导入使用双拼、笔画等自定义方案
-- 离线语音转文字输入，或按需加装在线 ASR 插件
-- 通过 WebDAV 同步与备份输入方案和设置
+- 在安卓手机上使用五笔或拼音高效输入中文
+- 离线环境下的语音转文字输入
+- 通过方案市场安装双拼、笔画等自定义输入方案
+- 多设备间同步剪贴板内容
 
 ## 场景标签
 
@@ -38,9 +38,8 @@
 
 ## 证据(README 行号)
 
-> L13: An Android input method built on the Rime engine, designed for efficient Chinese text input with Wubi (五笔) and Piny
-> L43: - **Voice-to-Text** - Local offline ASR (built-in streaming zipformer2 engine) plus online ASR plugins (FunAsr, Vol
-> L44: - **AI Enhancement** - Transformer-based predictive text for faster input
+> L22: An Android input method built on the Rime engine, designed for efficient Chinese text input with Wubi (五笔) and Piny
+> L53: - **AI Enhancement** - Transformer-based predictive text for faster input
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c76d66fa5bd7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5a54f883a97c` · [字段定义](../../DATASET.md)*

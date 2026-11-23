@@ -2,9 +2,9 @@
 
 ⭐ 1,182 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openai/openai-cli) · 组织维护
 
-**OpenAI REST API 官方命令行客户端**
+**开发者的 OpenAI API 官方命令行工具**
 
-OpenAI 官方维护的 CLI，用资源式命令结构调用 OpenAI REST API：创建 responses、生成并保存图像、上传下载文件、查询组织用量等；支持标准 API key 与 Admin key 两种认证，以及 mTLS 客户端证书（beta）。输出格式可选 text/json/jsonl/yaml 等，支持 GJSON 语法的数据转换、自定义请求头、base-url 指向后端、Tab 补全与本地文件作为参数（含不可信 stdin 模式）。面向在终端或脚本中调用 OpenAI API 的开发者。
+OpenAI 官方发布的命令行工具，按 API 资源组织命令，覆盖 responses/chat completions、图像生成、文件上传下载、批量请求、向量库、音频、本地分词计数等端点操作。安装方式包括预编译二进制、Linux 包管理器、Homebrew 与 go install。支持 OPENAI_API_KEY/OPENAI_ADMIN_KEY 认证、json/jsonl/yaml 输出格式、GJSON 字段提取、调试日志与 shell 补全，另提供可装入 Codex/Claude Code 等编码 agent 的 CLI skill。不含编码 agent 本身。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ OpenAI 官方维护的 CLI，用资源式命令结构调用 OpenAI REST API：�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,27 @@ OpenAI 官方维护的 CLI，用资源式命令结构调用 OpenAI REST API：�
 
 ## 能力要点
 
-- 资源式命令结构覆盖标准 API 与 Admin 端点（responses/images/files/admin 等）
-- 多输出格式（json/jsonl/yaml/raw 等）与 GJSON 语法的 --transform 数据提取
-- mTLS 客户端证书认证（beta）与自定义请求头、base-url 自定义后端
-- 图像生成自动保存到 ~/Downloads/gpt-images/ 并打印路径
+- 覆盖 responses/images/files/batches/vector stores/audio 等 API 资源的命令
+- 本地离线分词计数与 explore 命令搜索（无需 API key）
+- json/jsonl/yaml/raw 输出与 GJSON --transform 字段提取
+- 可安装到 Codex/Claude Code/Cursor 等 agent 的 CLI skill
 
 ## 适用场景
 
-- 在终端或脚本中调用 OpenAI API 完成对话与图像生成
-- 上传、查询并下载 OpenAI 文件资源
-- 用 Admin key 查询组织与项目的用量统计
-- 以 --format json 与 --transform 提取数据用于自动化流水线
+- 在终端直接调用 OpenAI API 生成文本或图像
+- 用 JSONL 提交批量请求并下载结果
+- 脚本中导出 API 数据做自动化处理
+- 为编码 agent 配置 OpenAI API 命令使用技能
 
 ## 场景标签
 
-`图像生成` · 领域:内容生成
+ · 领域:开发工具/API 客户端
 
 ## 证据(README 行号)
 
-> L3: The official CLI for the OpenAI REST API.
-> L53: openai <resource> [subresource...] <command> [flags...]
+> L3:  The official command-line tool for the OpenAI REST API.
+> L15: > Looking for the coding agent? Use Codex CLI.
+> L255: ## Use the CLI from a coding agent
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6d4dfa6ff9f5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `204f528510d9` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 2,081 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aipoch/medical-research-skills) · [官网](https://aipoch.com/agent-skills) · 组织维护
 
-**面向医学研究的 agent 技能库：550+ 条 SKILL.md 技能**
+**面向医学研究者、提供 550+ 医学研究 agent 技能的技能库**
 
-AIPOCH 维护的医学研究 agent 技能策展库，收录 550+ 条自主研发的 SKILL.md 格式技能，兼容 Claude Code、Codex 等 SKILL.md 兼容平台。按研究阶段组织为文献与证据发现、研究设计与方案开发、组学与生物信息分析、临床研究与 Meta 分析等类别，覆盖检索策略、方案生成、R/Python 生信代码、统计建模与学术写作。每条技能上线前经自研 MedSkillAudit 领域审计框架评审，部分技能收录于 AIPOCH Open-Science 工作台。
+由 AIPOCH 创建的医学研究 agent 技能库，含 550+ 条 SKILL.md 格式技能，兼容 Claude Code、Codex 等 agent 平台，面向医学与生物医学研究者。按证据洞察、方案设计、数据分析、学术写作等五大类组织，并按研究阶段细分（文献检索 79 项、研究设计 68 项、组学生信 52 项、临床与荟萃分析 61 项等）。技能上线前经其 MedSkillAudit 领域审计框架评审。配套的开源工作台 AIPOCH Open-Science 含该库的子集。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ AIPOCH 维护的医学研究 agent 技能策展库，收录 550+ 条自主研发
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,17 @@ AIPOCH 维护的医学研究 agent 技能策展库，收录 550+ 条自主研发
 
 ## 能力要点
 
-- 550+ 条 SKILL.md 格式医学研究技能，兼容 Claude Code/Codex 等平台
-- 按研究阶段组织：证据发现、方案设计、组学分析、临床与 Meta 分析
-- 每条技能经 MedSkillAudit 领域审计框架评审
-- 覆盖单细胞 RNA-seq、差异表达、免疫浸润、网络药理学等生信工作流
+- 550+ 条 SKILL.md 格式技能，兼容 Claude Code / Codex 等 agent 平台
+- 按证据洞察、方案设计、数据分析、学术写作等五大类组织
+- 技能经 MedSkillAudit 领域审计框架评审后上线
+- 覆盖文献检索、研究设计、组学生信、荟萃分析等研究阶段
 
 ## 适用场景
 
-- 为 Claude Code/Codex 类 agent 配备医学研究技能
-- 文献筛选、研究方案与 Meta 分析全流程辅助
-- 生成 R/Python 生物信息分析代码与图表
+- 为医学研究 agent 查找文献检索与证据评估类技能
+- 生成临床/转化研究方案与样本量计算
+- 执行单细胞、转录组、荟萃分析等生信流程
+- 撰写 SCI 论文草稿与投稿材料
 
 ## 场景标签
 
@@ -38,7 +39,7 @@ AIPOCH 维护的医学研究 agent 技能策展库，收录 550+ 条自主研发
 ## 证据(README 行号)
 
 > L9: A curated library of 550+ medical research agent skills created by AIPOCH, designed to work with **Claude Code, Code
-> L13: Every skill in this library is reviewed and evaluated through **MedSkillAudit** — A Domain-Specific Audit Framework
+> L27: All skills in AIPOCH are ​**originally designed and developed in-house**​, built to reflect medical research workfl
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `668a235d08bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `824d8f63ca54` · [字段定义](../../DATASET.md)*

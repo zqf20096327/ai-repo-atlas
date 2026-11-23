@@ -2,9 +2,9 @@
 
 ⭐ 1,427 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/e2b-dev/e2b-cookbook) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b-cookbook) · 组织维护
 
-**E2B 沙箱 SDK 的示例代码与指南集合，面向 AI agent 开发者**
+**面向使用 E2B SDK 构建的开发者的示例与指南集**
 
-E2B 官方维护的 Cookbook 仓库：汇集用 E2B SDK 构建代码解释器、AI agent、computer use 应用的示例代码与指南，覆盖 Python 与 TypeScript。按 LLM 提供商（OpenAI、Anthropic、Meta、Mistral、Groq、Together 等）、AI 框架（LangChain、LangGraph、CrewAI、Vercel AI SDK 等）、MCP、强化学习与远程执行集成组织条目。每个示例每晚由 tests/run-examples.ts 在真实 E2B 沙箱中运行验证，需 E2B_API_KEY 及相应提供商 key。
+收录使用 E2B SDK 的示例代码与指南：覆盖 LLM 提供商接入（OpenAI、Anthropic、Google、Mistral、Groq、Fireworks、Together、WatsonX 等）、AI 框架集成（LangChain、LangGraph、CrewAI、Pydantic AI、Vercel AI SDK 等）、强化学习、MCP、远程执行集成与具体用例。每个示例按 Python/TypeScript 提供，并配有夜间测试套件：示例被上传到全新沙箱安装运行，以退出码判定通过，需配置 E2B_API_KEY 及所用提供商密钥。
 
 ## 筛选速览
 
@@ -20,15 +20,17 @@ E2B 官方维护的 Cookbook 仓库：汇集用 E2B SDK 构建代码解释器、
 
 ## 能力要点
 
-- 按 LLM 提供商、AI 框架、MCP 等维度组织的示例目录（Python/TypeScript）
-- 所有示例每晚上传到新沙箱安装运行并按退出码判定通过
-- 测试判定以沙箱为准而非模型输出，模型非确定性行为记为 skipped
+- 按 LLM 提供商、框架集成、MCP、强化学习等分类组织的示例目录
+- 每个示例提供 Python 与/或 TypeScript 两种语言版本
+- 夜间测试套件自动在真实 E2B 沙箱中运行全部示例并报告结果
+- hello-world 示例仅需 E2B_API_KEY 即可运行
 
 ## 适用场景
 
-- 为 AI agent 寻找沙箱内代码执行的参考实现
-- 查找特定 LLM 提供商或框架与 E2B 的集成示例
-- 学习 MCP 客户端/自定义模板的搭建方式
+- 查找将 E2B 沙箱接入特定 LLM 提供商的示例代码
+- 参考 LangChain/CrewAI 等框架与代码解释器的集成方式
+- 了解在沙箱中运行 Claude Code、Codex 等 CLI 工具的做法
+- 在沙箱中执行数据分析、代码解释、Web 自动化等任务时参考用例
 
 ## 场景标签
 
@@ -38,6 +40,7 @@ E2B 官方维护的 Cookbook 仓库：汇集用 E2B SDK 构建代码解释器、
 
 > L6: Example code and guides for building with E2B SDK.
 > L10: ## Examples
+> L345: Every example is exercised nightly against live E2B by `tests/run-examples.ts`: each
 
 ## 星数曲线
 
@@ -53,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `db1e0a3bf1bd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `26f82fe4e995` · [字段定义](../../DATASET.md)*

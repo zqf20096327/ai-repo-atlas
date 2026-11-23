@@ -1,10 +1,10 @@
 # yakhyo/uniface
 
-⭐ 2,286 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yakhyo/uniface) · [官网](https://yakhyo.github.io/uniface/) · 个人维护
+⭐ 2,286 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yakhyo/uniface) · [官网](https://yakhyo.github.io/uniface/) · 个人维护 · 中文 README
 
-**Python 人脸分析统一库：检测/识别/关键点/属性等 15 类任务**
+**Python 人脸分析库：检测/识别/属性等 15 类任务**
 
-面向计算机视觉开发者的 Python 人脸分析库，在统一 API 下覆盖检测、识别、跟踪、关键点、面部网格、解析、抠图、视线估计、头姿、人口属性、情绪、人脸状态、质量评估、反欺骗与匿名化共 15 类任务，各任务对应多种预训练模型（RetinaFace、AdaFace、BiSeNet、MODNet 等），并提供 FAISS 向量检索嵌入。FaceAnalyzer 单次调用完成检测-对齐-识别，属性模型按需启用。支持 CPU、Apple Silicon 与 CUDA，权重首次使用时下载并经 SHA-256 校验。库为 MIT 许可，部分预训练权重许可不同，商用需自查。需注意与 Rocket Software 的 Uniface 无关联。
+统一的 Python 人脸分析库，覆盖 15 类任务：检测、识别、跟踪、关键点、face mesh、解析、抠图、视线估计、头部姿态、人口属性、情绪、面部状态、质量评估、活体检测与匿名化。核心入口 FaceAnalyzer 一次调用完成检测、对齐与识别，属性模型按需启用。提供 Model Zoo 列出各任务对应模型（RetinaFace、AdaFace 等），权重首次使用时下载，支持 CPU、Apple Silicon 与 CUDA，附 Notebooks 与文档站。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 统一 API 覆盖 15 类人脸任务，各任务多模型可选
+- 15 类人脸分析任务单一库覆盖，Model Zoo 列明各任务模型
 - FaceAnalyzer 一次调用完成检测、对齐与识别
-- 支持 CPU、Apple Silicon 与 CUDA，权重下载经 SHA-256 校验
-- 内置 FAISS 向量检索支持的嵌入搜索
+- CPU / Apple Silicon / CUDA 均可运行，权重首次使用时下载
+- FAISS 向量存储支持嵌入检索
 
 ## 适用场景
 
-- 在应用中做人脸检测、识别与嵌入检索
-- 视频流中跟踪人脸并提取关键点、头姿与视线
-- 做人脸属性分析、质量评估或活体反欺骗
-- 对人脸图像做模糊匿名化处理
+- 在视频上做人脸检测、跟踪与识别
+- 从人脸读取年龄、性别、情绪、眼镜口罩等状态
+- 活体检测区分真人影像与重放攻击
+- 对图像中人脸做模糊匿名化处理
 
 ## 场景标签
 
@@ -39,7 +39,8 @@
 ## 证据(README 行号)
 
 > L15:  UniFace is a lightweight, production-ready Python library for face detection, recognition,
-> L48: |Task|Models|
+> L53: |Task|Models|
+> L71: Runs on CPU, Apple Silicon and CUDA. Weights download on first use.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2666669efb30` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4ce031813b5e` · [字段定义](../../DATASET.md)*

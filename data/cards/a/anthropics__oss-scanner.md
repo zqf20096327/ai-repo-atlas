@@ -2,9 +2,9 @@
 
 ⭐ 1,849 · Dockerfile · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/anthropics/oss-scanner) · 组织维护
 
-**开源仓库安全扫描服务的报名配置仓库（Anthropic 运营）**
+**开源项目维护者的 AI 安全漏洞扫描服务接入目录**
 
-该仓库是 Anthropic OSS Scanner 服务的项目登记处：开源项目通过 PR 添加 projects/<name> 目录、填写 project.yaml（仓库地址、联系人、可选 PGP 等）并提供 Dockerfile 即可报名。服务在隔离 VM 中构建项目，断网后扫描安全漏洞，将模型生成的报告（含复现步骤和建议补丁，不经过人工审查）邮件发给项目联系人；支持可选 threat_model.md 定制严重性评级口径。本地仅提供 validate 与 check 两个校验工具，需主机装有 git、Docker、Python 3 与 PyYAML。
+Anthropic 运营的服务：开源项目通过提交 PR 在 projects/<name> 目录登记，扫描器在隔离 VM 中构建项目，随后在无互联网环境中分析，将模型生成的漏洞报告（含复现步骤与建议补丁）发送给登记的联系邮箱。登记需提供 project.yaml 与 Dockerfile，可选提供威胁模型及报告/补丁格式指南。仓库本身不含扫描器，仅收录登记配置与本地预检工具（tools/validate.py、tools/check），且仅接受登记类 PR。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 通过 PR 提交 project.yaml 与 Dockerfile 登记开源项目
-- 隔离 VM 内断网扫描，报告含复现步骤与建议补丁
-- 报告由模型生成、不经人工审查，不设 90 天披露期
-- 支持 OpenPGP 加密报告与 threat_model.md 定制评级标准
+- 通过 PR 登记项目，由 Anthropic 运营的扫描器自动分析
+- 隔离 VM 构建后离线扫描，报告附复现步骤与建议补丁
+- 支持 PGP 加密邮件与 GitHub 私密漏洞报告两种输出渠道
+- 提供 tools/validate.py 与 tools/check 本地预检工具
 
 ## 适用场景
 
-- 开源维护者为自己的关键仓库登记安全扫描
-- 提交前用 tools/check 本地验证项目能否被扫描器构建
-- 通过威胁模型文档定制漏洞严重性评级口径
+- 为我的开源项目登记自动安全扫描
+- 配置漏洞报告的接收渠道与最低严重级别
+- 本地预演扫描器构建流程以确认兼容
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L3: OSS Scanner is a service by Anthropic to scan critical open-source repositories for security vulnerabilities. Learn 
 > L15: Our security scanner builds your project in an isolated VM, then analyses it with no Internet access and emails wha
-> L69: * `tools/check` installs Claude Code into the image it builds (as the scanner does). Claude Code is covered by its 
+> L81: 2. We scan the project for vulnerabilities.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d77950ce37c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `5bd37dd0c51a` · [字段定义](../../DATASET.md)*

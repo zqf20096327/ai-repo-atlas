@@ -2,9 +2,9 @@
 
 ⭐ 1,705 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/intel/auto-round) · 组织维护 · 中文 README
 
-**面向 LLM/VLM 的训练后量化工具包，兼顾精度与量化成本**
+**LLM/VLM 训练后量化工具包，低比特压缩部署**
 
-Intel 维护的 LLM 与视觉语言模型训练后量化（PTQ）工具包，核心算法为 SignRoundV1/V2，支持 W4A16、INT2、MXFP4、NVFP4、FP8 及 GGUF 等低比特色格式，并可用 AutoScheme 在数分钟内生成混合比特方案。提供 CLI 与 Python API，可导出 auto_round/AutoAWQ/AutoGPTQ/GGUF/llm_compressor 多种格式，与 Transformers、vLLM、SGLang 集成，部署覆盖 Intel CPU/XPU、Gaudi 与 NVIDIA GPU。校准默认使用 NeelNanda/pile-10k，量化 7B 模型约需单卡 10 分钟。
+面向大语言模型与视觉语言模型的训练后量化工具包，提供 SignRoundV1/V2 等低比特与自适应比特算法，支持 WNA16、MXFP4、NVFP4、FP8 数据类型及 GGUF 格式，可导出 AutoRound/AutoAWQ/AutoGPTQ/GGUF 多种格式。与 Transformers、vLLM、SGLang 集成，部署目标覆盖 Intel CPU/XPU、Gaudi 加速器与 NVIDIA GPU。提供 CLI 与 Python API，多档 recipe（best/light/opt-rtn/rtn）平衡耗时与精度，7B 模型单 GPU 约 10 分钟完成量化。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Intel 维护的 LLM 与视觉语言模型训练后量化（PTQ）工具包，核
 
 ## 能力要点
 
-- SignRoundV1/V2 算法与 W2-W8 多种量化 scheme
-- AutoScheme 分钟级生成混合比特/混合精度方案
-- 导出 auto_round/AutoAWQ/AutoGPTQ/GGUF/llm_compressor 多格式
-- 支持 10+ 视觉语言模型与多 GPU 量化、多校准数据集
+- 支持 W2A16 至 W8A8、MXFP4/NVFP4/FP8 及 GGUF 导出格式
+- 多档量化 recipe：auto-round-best/light/opt-rtn/rtn 可按成本选择
+- 与 Transformers、vLLM、SGLang 集成，支持 10+ 运行时后端
+- 支持多 GPU 量化、多校准数据集与 AutoScheme 混合比特方案生成
 
 ## 适用场景
 
-- 把大模型压到 4bit/2bit 以降低部署显存与内存占用
-- 生成 GGUF 格式供 llama.cpp 等运行时使用
-- 为 vLLM/Transformers/SGLang 部署准备低比特量化模型
+- 将 LLM/VLM 量化到 INT4/INT2 用于本地或服务端部署
+- 为 vLLM/SGLang 推理服务生成低比特模型
+- 在 Intel Xeon/Gaudi/NVIDIA GPU 上做量化实验与精度评估
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ Intel 维护的 LLM 与视觉语言模型训练后量化（PTQ）工具包，核
 ## 证据(README 行号)
 
 > L20: AutoRound is an easy-to-use post-training quantization toolkit for Large Language Models (LLMs) and Vision-Language
-> L22: AutoRound is designed to deliver strong accuracy at ultra-low bit widths while keeping quantization costs reasonabl
 > L23: It integrates with popular ecosystems including Transformers, vLLM, and SGLang, and supports deployment across Inte
+> L101: ## Installation
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `59cead61b952` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2ec75f8eedc6` · [字段定义](../../DATASET.md)*

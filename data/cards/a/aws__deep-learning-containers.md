@@ -2,9 +2,9 @@
 
 ⭐ 1,211 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/aws/deep-learning-containers) · [官网](https://aws.github.io/deep-learning-containers/) · 组织维护
 
-**AWS 的深度学习预构建 Docker 镜像集合，用于运行 AI/ML 工作负载**
+**在 AWS 上运行 AI/ML 工作负载的预构建 Docker 镜像集**
 
-AWS 维护的预构建 Docker 镜像仓库，覆盖 PyTorch、TensorFlow、vLLM、vLLM-Omni、SGLang、Ray 等训练与推理框架，每个镜像经过测试与安全补丁。镜像以 EC2 与 SageMaker 两种变体发布，支持 GPU（CUDA 13.x）与 Graviton ARM64 CPU 等环境。README 指出 Ubuntu 基础的 vLLM/SGLang 镜像因缺 Ubuntu Pro 授权无法保证安全补丁，建议迁移到 Amazon Linux 镜像。面向在 AWS 上部署 AI/ML 的开发与企业用户。
+AWS Deep Learning Containers 提供一组预先构建的 Docker 镜像，用于在 AWS（EC2、SageMaker、EKS/ECS、Lambda）上运行 AI/ML 工作负载。每张镜像经过测试并修补安全漏洞，按框架自动发布版本：覆盖 PyTorch、TensorFlow 训练/推理、vLLM、vLLM-Omni、SGLang、Ray、NVIDIA Dynamo 等运行时，区分 GPU/CPU/ARM64 变体。README 给出发布日志、支持政策（如 Ubuntu 镜像停止安全补丁、PyTorch 2.6 延长支持期限）、博客与工作坊链接；许可证为 Apache-2.0。
 
 ## 筛选速览
 
@@ -12,33 +12,34 @@ AWS 维护的预构建 Docker 镜像仓库，覆盖 PyTorch、TensorFlow、vLLM�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | `cpu-ok` | |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 预构建并经安全测试的 PyTorch/TensorFlow/vLLM/SGLang/Ray 镜像
-- 提供 EC2 与 SageMaker 两种镜像变体
-- vLLM Server ARM64 CPU 版支持 Graviton 无 GPU 运行
-- 定期发布版本更新与支持周期公告
+- 预构建 Docker 镜像，覆盖训练、推理与 LLM 服务框架
+- 自动发布流程跟踪 PyTorch/TensorFlow/vLLM/SGLang/Ray 版本
+- 提供 EC2、SageMaker、EKS、Lambda 等多目标平台的镜像变体
+- 镜像经测试并修补安全漏洞，附支持时间线说明
 
 ## 适用场景
 
-- 在 EC2 或 SageMaker 上部署 vLLM/SGLang 推理服务
-- 在 Amazon EKS 上进行分布式训练
-- 获得免手动配置 CUDA 与版本维护的预测试深度学习环境
+- 在 SageMaker 或 EKS 上部署 vLLM/SGLang 的 LLM 推理服务
+- 在 EC2 GPU 实例上运行分布式训练任务
+- 用预置 CUDA 环境的镜像免去手动维护框架版本
+- 在 Lambda 上运行 GPU 加速函数
 
 ## 场景标签
 
- · 领域:AI/ML 基础设施
+`推理引擎` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
+> L5:  One stop shop for running AI/ML on AWS
 > L22: AWS Deep Learning Containers (DLCs) are pre-built Docker images for running AI/ML workloads on AWS. Each image is t
-> L28: - **[2026/10/09]** vLLM v0.31.0 (Ubuntu) — EC2: `0.31.0-gpu-py312-ec2` · SageMaker: `0.31.0-gpu-py312` · DeepSeek-V
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `917cc07e141e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `59e05e1b839d` · [字段定义](../../DATASET.md)*

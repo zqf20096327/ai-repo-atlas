@@ -2,9 +2,9 @@
 
 ⭐ 1,243 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/datawhalechina/torch-rechub) · [官网](https://datawhalechina.github.io/torch-rechub/) · 组织维护 · 中文 README
 
-**PyTorch 推荐系统框架：30+ 主流模型开箱即用并支持 ONNX 部署**
+**面向开发者的 PyTorch 推荐系统模型训练框架**
 
-基于 PyTorch 的推荐算法框架，提供 30+ 个模型实现，覆盖排序（13）、匹配（12）、多任务（5）与生成式推荐（3，含 HSTU/HLLM/TIGER）四类；配套统一的数据加载、训练与评测流水线，提供 CTRTrainer 等训练器与 DataGenerator，声称约十行代码即可完成训练。支持导出 ONNX 部署、PySpark 数据处理及 WandB/SwanLab/TensorBoardX 实验跟踪。面向推荐算法工程师与研究者，支持 CPU/CUDA/ROCm/华为昇腾 NPU。
+Datawhale 维护的推荐算法 PyTorch 框架，收录 30+ 模型及对应论文，覆盖检索（DSSM、YouTubeDNN 等）、排序（DeepFM、DIN 等）、多任务（MMoE、PLE 等）与序列/生成式推荐（HSTU、TIGER、RQ-VAE）。支持稀疏/稠密/序列特征组合与共享 embedding 表，每个任务配独立 trainer；检索模型可分别生成用户与物品向量后用 Annoy/Faiss/Milvus 做近邻搜索，部分模型可导出 ONNX。支持 Jupyter 示例教学、竞赛 baseline 训练与单机多卡训练，MIT 许可，中英双语文档。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 30+ 推荐模型实现（排序/匹配/多任务/生成式推荐四类）
-- 统一训练与评测流水线，统一 Trainer 与 DataGenerator
-- ONNX 导出与可选 Annoy/FAISS/Milvus 检索服务依赖组
-- 支持 CPU、NVIDIA CUDA、AMD ROCm、华为昇腾 NPU
+- 30+ 推荐模型及配套论文，含检索/排序/多任务/生成式四类
+- 检索模型双塔向量生成 + Annoy/Faiss/Milvus 近邻搜索
+- 部分支持模型导出 ONNX 供推理服务使用
+- 支持 NVIDIA(CUDA)/AMD(ROCm)/华为昇腾 NPU(CANN)/CPU 训练
 
 ## 适用场景
 
-- 用 DeepFM/DSSM 等模型在 MovieLens/Criteo 等数据集上训练 CTR 或召回模型
-- 对比多种推荐算法的实验效果并跟踪记录
-- 训练后导出 ONNX 用于线上部署
+- 按论文逐步学习推荐模型的 PyTorch 实现
+- 在统一数据划分上训练竞赛 baseline 并对比 AUC/Recall@K
+- 小团队在单机多 GPU 上训练排序模型并导出 ONNX 部署
 
 ## 场景标签
 
-`推荐系统` · 领域:学习与行业
+`推荐系统` `模型训练` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L25: **Torch-RecHub** —— **Build production-grade recommender systems in 10 lines of code**. 30+ mainstream models out-o
-> L31: * **Rich Model Library:** Covers **30+** classic and cutting-edge recommendation algorithms (Matching, Ranking, Mul
-> L35: * **ONNX Export:** Export trained models to ONNX format for seamless production deployment.
+> L3: **Study 30+ PyTorch recommender models alongside their papers, from two-tower retrieval to generative recommendation
+> L73: * **Retrieval** — DSSM, FaceBookDSSM, YouTubeDNN, YouTubeSBC, MIND, SINE, ComiRec (DR and SA), GRU4Rec, SASRec, NAR
+> L74: * **Ranking** — Wide & Deep, DeepFM, DCN, DCNv2, EDCN, AFM, AutoInt, FiBiNET, DeepFFM, FAT-DeepFFM, DIN, DIEN, and 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b5556f587d85` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `495c5cd08e39` · [字段定义](../../DATASET.md)*

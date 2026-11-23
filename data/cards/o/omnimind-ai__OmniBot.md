@@ -2,9 +2,9 @@
 
 ⭐ 2,154 · Dart · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/omnimind-ai/OmniBot) · [官网](https://omnibot.omnimind.com.cn) · 组织维护 · 中文 README
 
-**运行在 Android 设备上的本地 AI 代理应用：聊天加系统级任务执行**
+**安卓端侧 AI Agent 应用：操作终端并完成 Android 设备任务**
 
-用原生 Kotlin 与 Flutter 构建的 Android 端 AI 代理应用，围绕理解→决策→执行→反思循环工作。功能包括技能生态、内置 Alpine 环境、浏览器、终端与文件工作区、MCP、定时任务与闹钟日历、无 root 的个人上下文查询（日历/联系人/通知/短信/通话记录）、带嵌入的短期长期记忆。模型由用户在设置中配置 AI 提供商，记忆嵌入需配 embedding 模型；另提供连接 PC/Mac 上 Codex CLI 的 codex-bridge 通道与独立 React WebUI。开发构建需 Flutter 3.47.2+、JDK 17+。
+基于 Android Kotlin 与 Flutter 构建的端侧 AI 助手应用，围绕理解-决策-执行-反思闭环工作。提供可扩展工具生态（Skills、Alpine 环境、浏览器、MCP、Android 系统级工具），可免 root 查询日历、联系人、通知、短信等个人上下文，支持定时子代理任务、记忆系统（含嵌入）、Root/Shizuku 可选控制、技能商店与远程 Codex 桥接。开发需 Flutter SDK、JDK 17+ 与 Node.js/pnpm，从源码构建 APK。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 内置 Alpine 环境、终端、浏览器与文件工作区
-- 无 root/Shizuku/无障碍访问日历、联系人、通知、短信等个人上下文
-- 技能仓库：发送仓库链接即可安装技能
-- 短期/长期记忆系统，嵌入检索需 embedding 模型
-- codex-bridge 远程连接 PC/Mac 上的 Codex CLI
+- 操作终端与 Android 系统级动作（定时任务、闹钟、日历、音频控制）
+- 免 root 读取日历/联系人/通知/短信/通话记录等个人上下文
+- 技能商店：发送仓库链接即可安装技能，支持 MCP
+- 远程 Codex 桥接：扫码连接 PC/Mac 上的 Codex CLI
 
 ## 适用场景
 
-- 在手机上让 AI 代理操作终端、浏览器和文件完成完整任务
-- 通过授权让 AI 查询日历、通知等个人上下文并管理日程联系人
-- 设置定时子代理任务与提醒
+- 在手机上让 AI 代理执行终端命令和自动化任务
+- 通过自然语言查询和管理日历、联系人、通知
+- 定时运行子代理完成完整任务流程
+- 连接桌面端 Codex 进行远程协作
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` `GUI 自动化` · 领域:效率与自动化
+`AI 助手` `GUI 自动化` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L23: > OmniBot runs directly on your Android device and combines chat, agent tools, local workspaces, and system integra
 > L26: OmniBot is an on-device AI agent built with native Android Kotlin and Flutter. Instead of stopping at chat, it focu
-> L30: - **Extensible tool ecosystem**: Skills, Alpine environment, browser access, MCP, and Android system-level tools.
+> L32: - **Personal context**: Query authorized calendars, contacts, notifications, app usage, location, media, documents,
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `6d0a8e9a622d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `6b74bf603461` · [字段定义](../../DATASET.md)*

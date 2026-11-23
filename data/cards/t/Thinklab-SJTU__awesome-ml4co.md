@@ -2,9 +2,9 @@
 
 ⭐ 2,176 · Python · 推送 2026-11-14 · [GitHub](https://github.com/Thinklab-SJTU/awesome-ml4co) · 组织维护 · 中文 README
 
-**机器学习求解组合优化的论文资源清单（36 类问题）**
+**机器学习求解组合优化问题的论文资源清单**
 
-上海交大 Thinklab 维护的 awesome 论文清单，收录用机器学习技术求解组合优化问题的研究资源：按 TSP、JSSP、图匹配、MIP、EDA、Predict+Optimize 等 36 个问题类别组织，含综述论文与各问题下的论文条目（附 paper/code 链接与 Thinklab 自贡献的 ⭐ 标记）。TSP 部分带基于原论文数据的基准结果图表（Beta 功能，硬件未归一化）。README 同时发布博士后招聘信息。仅作编目，不含可运行代码或安装步骤。
+由上海交通大学 Thinklab 团队成员维护的资源列表，收录利用机器学习技术求解组合优化问题的论文。内容按综述与 36 类问题组织，覆盖 TSP、JSSP、图匹配、MIP、车辆路径等；部分条目标注 code 链接，Thinklab 成员贡献的条目以星号标记。TSP 部分附基准结果图表（Beta），由 CSV 数据生成，展示各方法在共同基准上的性能演进。
 
 ## 筛选速览
 
@@ -16,29 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 按 36 个组合优化问题类别组织论文条目
-- 收录 20 篇综述论文
-- TSP 部分提供由原论文数据生成的基准结果图表（Beta）
-- Thinklab 自贡献工作以 ⭐ 标记
+- 按 36 类组合优化问题组织的论文分类目录
+- 综述部分收录 20 篇调研论文
+- TSP 基准结果图表由 data/benchmark_results.csv 生成（Beta）
+- 部分条目附 code 链接
 
 ## 适用场景
 
-- 查找特定组合优化问题（如 TSP、MIP）的机器学习方法论文
-- 了解神经组合优化领域的综述脉络
-- 对比 TSP 基准上各方法的表现数据
+- 调研机器学习求解组合优化的文献进展
+- 按问题类型（如 TSP、MIP）查找相关论文与代码
+- 了解 TSP 等问题的基准性能演进
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L1: # Awesome Machine Learning for Combinatorial Optimization Resources
 > L2: We would like to maintain a list of resources that utilize machine learning technologies to solve combinatorial opti
+> L6: *Maintained by members in SJTU-Thinklab: Chang Liu, Runzhong Wang, Jiayi Zhang, Zelin Zhao, Haoyu Geng, Tianzhe Wang
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9d97e0785ae4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `57141a67ddc3` · [字段定义](../../DATASET.md)*

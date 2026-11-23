@@ -2,9 +2,9 @@
 
 ⭐ 2,135 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bilibili/Index-Translate) · [官网](https://index-translate.bilibili.com) · 组织维护 · 中文 README
 
-**B站开源的多语言多模态翻译模型家族（150 种语言）**
+**B 站发布的多语言多模态翻译模型家族，含免费 API**
 
-基于 Qwen3.5 构建的翻译模型家族，文本模型覆盖 150 种语言并支持术语表、格式保持等指令约束；家族扩展出 Index-Echo（语音转字幕 S2TT 与保留音色的跨语种配音 S2ST）、Index-Homura（按音节数控制的翻译）、Index-NativeLong（长文档翻译）。提供 2B/9B/35B-A3B 权重，发布 GGUF（llama.cpp 本地推理）与 FP8/NVFP4（vLLM 服务）量化版本，并提供免费 OpenAI 兼容公共 API 与本地桥接代理配合沉浸式翻译浏览器扩展。面向开发者与需要翻译能力的用户。
+Bilibili 发布的翻译模型家族，基于 Qwen3.5，文本模型覆盖 150 种语言并遵循术语、格式等翻译指令。家族包含文本与图像翻译（Index-Translate）、语音转字幕与克隆配音（Index-Echo）、音节控制配音（Index-Homura）与长文档翻译（Index-NativeLong），Omni 版本整合文本、图像、中英文语音识别与语音到文本翻译。提供 2B/9B/35B-A3B 权重（Hugging Face 与 ModelScope）、GGUF/FP8/FP4 量化版、免费 OpenAI 兼容 API 与在线 Demo。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 文本翻译覆盖 150 种语言，支持硬性/软性指令约束（术语表、格式、风格）
-- 原生视觉编码器的图像翻译，无 OCR 依赖
-- 语音到字幕（S2TT）与保留源说话人音色的跨语种配音（S2ST）
-- GGUF/FP8/NVFP4 量化版本与免费 OpenAI 兼容 API
+- 文本翻译覆盖 150 种语言，支持术语与格式等翻译指令
+- Omni 版本支持图像翻译、中英文 ASR 与中英双向语音翻译
+- 提供 GGUF（llama.cpp）、FP8/FP4（vLLM）官方量化版
+- 免费公开 API，OpenAI 兼容，零 GPU 调用
 
 ## 适用场景
 
-- 本地部署 vLLM 或 llama.cpp 做多语言文本/图像翻译
-- 为视频生成字幕或保留音色的跨语种配音
-- 浏览器内双语阅读（配合沉浸式翻译扩展）
-- 按目标音节数控制的翻译用于配音对口型
+- 调用免费 API 做多语言文本与图像翻译
+- 语音转字幕或保留说话人音色的跨语言配音
+- 保持术语一致的长文档整篇翻译
+- 用 llama.cpp 在本地跑量化权重做翻译
 
 ## 场景标签
 
-`多模态` · 领域:感知与多模态
+`语音识别` `多模态` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L18: Index-Translate is a family of multilingual, multimodal translation models built on Qwen3.5. The text models cover 
-> L20: - **Index-Translate (Text & Multimodal Vision)**: Covers 150 languages for text translation, with native support fo
-> L21: - **Index-Echo (Multimodal Audio & Speech)**: End-to-end speech-to-subtitles (S2TT) and cross-lingual voice-cloned 
+> L82: Index-Translate is a family of multilingual, multimodal translation models built on Qwen3.5. The text models cover 
+> L84: - **Index-Translate (Text & Multimodal Vision)**: Covers 150 languages for text translation, with native support fo
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `75bf1ce3f219` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `ad85a98ef450` · [字段定义](../../DATASET.md)*

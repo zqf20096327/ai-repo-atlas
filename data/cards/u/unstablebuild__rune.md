@@ -2,9 +2,9 @@
 
 ⭐ 1,834 · Go · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/unstablebuild/rune) · [官网](https://rune.build) · 组织维护
 
-**GPU 加速的 IDE 与终端复用器，内置编程 agent**
+**面向开发者的 GPU 加速 IDE 与终端复用器，含内置 agent**
 
-Rune 是面向开发者的原生图形管线 IDE 与终端多路复用器，用 OpenGL（Linux）/Metal（macOS）渲染，提供九个工作区槽位、无限终端与标签页、生产级语言智能、插件包安装机制。内置 agent 并可为用户自己的 agent 提供 IDE 级技能，定位同时服务自动与手动编程。各实例通过端到端加密的 headscale 网络互联，可跨设备继续工作；支持 headless Docker 节点共享工作区。由 Unstable Build, LLC 开发，GPLv3 许可。
+Rune 是一个用 Go 编写的原生图形应用（Linux 用 OpenGL、macOS 用 Metal，无 Electron），兼作 IDE 与终端复用器：提供九个工作区槽位、多终端/标签/窗口的屏幕复用 UI、开箱即用的语言智能、插件与扩展系统（可从 Git 仓库安装社区扩展包）。多个 Rune 实例通过 headscale 组成端到端加密的点对点网络，可跨设备连接工作区；支持 headless 模式以 Docker 部署工作区节点，并可用 systemd/launchd 等作为服务运行。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ Rune 是面向开发者的原生图形管线 IDE 与终端多路复用器，用 
 
 ## 能力要点
 
-- 内置 agent 与 IDE 级技能，支持自动与手动编程
-- 多实例经端到端加密网络互联，跨设备接续工作
-- 原生 OpenGL/Metal 图形管线，非 Electron
-- 官方插件包与社区 Git 仓库插件安装
+- 原生图形管线：Linux 用 OpenGL、macOS 用 Metal，无 Electron
+- 多实例组成 e2e 加密点对点网络，可从任意设备连接工作区
+- 内置 agent 与 IDE 级 skills，语言包按需安装
+- headless 模式经 Docker 部署，支持 systemd/launchd/OpenRC/runit 服务化
 
 ## 适用场景
 
-- 在一个窗口内组织多终端、标签与工作区进行开发
-- 跨设备远程接入自己的开发工作区
-- 以 headless 节点向多台开发机共享项目工作区
+- 在终端与 IDE 一体界面中组织多工作区、多终端开发环境
+- 从笔记本远程连接工作站上的开发工作区
+- 用 Docker 在服务器上托管 headless 工作区节点供多机接入
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+ · 领域:开发者工具/IDE 与终端
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b059d22ecc1d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `d265d4b37edc` · [字段定义](../../DATASET.md)*

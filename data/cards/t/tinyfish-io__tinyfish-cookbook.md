@@ -2,9 +2,9 @@
 
 ⭐ 2,334 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tinyfish-io/tinyfish-cookbook) · [官网](https://tinyfish.ai) · 组织维护
 
-**TinyFish web agent 的示例应用与配方集合**
+**基于 TinyFish web agent 的示例应用与 recipes 集合**
 
-TinyFish（面向 AI agent 的 web 层服务）官方社区示例库：每个目录为独立项目，按用途分为精选在线 Demo、AABW 越南黑客松样例、购物比价、旅行住宿、研究与市场情报、教育发现、开发者工具、金融决策、生活健康及 n8n 工作流等类别。同时展示 TinyFish 四个端点（Search/Fetch/Agent/Browser）的接入方式：REST、MCP Server、CLI、Raycast 脚本、Agent Skill 与 Python/TypeScript SDK。代码按 AS-IS 提供，社区贡献不代表官方支持产品。
+TinyFish 官方维护的 cookbook 仓库，收录基于其 web agent 平台构建的示例应用与 recipes：平台提供 Search、Fetch、Agent、Browser 四个端点，分别对应结构化搜索、URL 转 markdown/JSON、自然语言多步浏览器自动化与托管云浏览器；Search 与 Fetch 端点免费。仓库提供 REST API、MCP Server、CLI、Agent Skill、Python/TypeScript SDK 等接入方式，并按购物、旅行、研究、教育、开发者工具、金融等类别组织数十个独立 recipe 项目，含 n8n 工作流示例。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ TinyFish（面向 AI agent 的 web 层服务）官方社区示例库：每个目
 
 ## 能力要点
 
-- 每个配方为独立项目，含多个可在线体验的部署 Demo
-- 展示 Search/Fetch/Agent/Browser 四端点的多种接入方式（REST/MCP/CLI/SDK）
-- 提供可导入的 n8n 预置工作流
-- 声明社区内容 AS-IS，官方无维护义务
+- Search 与 Fetch 端点免费，返回 rank-stable 的 JSON 结果
+- Agent 端点接收 URL + 自然语言目标，返回结构化 JSON
+- 提供 REST API、MCP Server、CLI、Agent Skill、Python/TypeScript SDK 多种接入方式
+- 数十个按类别组织的独立 recipe 项目，含 n8n 工作流
 
 ## 适用场景
 
-- 学习如何用 TinyFish 为 agent 接入网页搜索、抓取与浏览器自动化
-- 寻找比价、竞品监控、房源检索等场景的现成示例项目参考
-- 为 Claude Code/Cursor 等编码 agent 安装 use-tinyfish 技能
+- 为 agent 接入实时网页搜索与页面读取能力
+- 通过示例学习如何把无 API 的网站转为可编程数据源
+- 用 MCP Server 在 Claude Code、Cursor 等客户端中调用 web agent
+- 参考 recipe 构建比价、聚合、监控类自动化应用
 
 ## 场景标签
 
@@ -38,8 +39,8 @@ TinyFish（面向 AI agent 的 web 层服务）官方社区示例库：每个目
 ## 证据(README 行号)
 
 > L22: Welcome to the **TinyFish Cookbook!** A growing collection of recipes, demos, and automations built on TinyFish — t
+> L28: TinyFish gives you four endpoints, layered from lightning-fast retrieval to fully managed browser automation. **Sea
 > L116: Each folder is a standalone project. Categorized below by what they do, not what's under the hood.
-> L267: This repository is a community-driven space for sharing derivatives, code samples, and best practices related to T
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `ffecc866acdc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `773b4ac022d0` · [字段定义](../../DATASET.md)*

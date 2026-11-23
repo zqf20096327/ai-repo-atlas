@@ -2,9 +2,9 @@
 
 ⭐ 1,637 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dyoshikawa/rulesync) · [官网](http://rulesync.dyoshikawa.com/) · 个人维护
 
-**从统一 AI 规则文件生成多种 AI 编码工具配置的 CLI**
+**为开发者统一生成多种 AI 编码工具配置文件的 CLI**
 
-Node.js 命令行工具：以 .rulesync/ 目录下的统一规则文件为单一事实源，为 50 余种 AI 编码工具（Claude Code、Cursor、GitHub Copilot、Codex CLI、Kiro、OpenCode 等）及 AGENTS.md 等开放标准生成 rules、commands、MCP、permissions、subagents、skills、hooks 等配置文件。支持从既有配置导入（import）、跨工具直接转换（convert，不落地中间文件）与选择性生成。安装途径为 npm、Homebrew tap 与单二进制脚本。ignore 特性已声明弃用，由 permissions 取代；部分目标工具（如 Continue、Roo Code）按冻结兼容方式维护。
+Node.js CLI 工具，从统一的 AI 规则文件自动生成各 AI 开发工具的配置文件，覆盖 rules、ignore、MCP、commands、subagents、skills、hooks、permissions 等特性。支持从 CLAUDE.md、.cursorrules 等既有配置导入到 .rulesync 目录，也提供 convert 子命令在不同工具间直接转换配置而无需落地中间文件。支持约 60 个工具目标及 AGENTS.md 等开放标准，README 中逐工具列出特性支持矩阵并对多个目标给出弃用/维护状态说明。安装方式包括 npm、Homebrew tap 与单二进制脚本。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Node.js 命令行工具：以 .rulesync/ 目录下的统一规则文件为单一
 
 ## 能力要点
 
-- 统一规则文件生成 50+ AI 编码工具的配置
-- import 导入既有配置、convert 跨工具直接转换
-- 覆盖 rules/MCP/permissions/subagents/skills/hooks 等特性维度
-- 兼容 AGENTS.md、AgentsSkills 等开放标准
+- 从统一规则文件生成多工具配置，支持 rules/MCP/commands/subagents/skills/hooks/permissions
+- rulesync import 从既有配置导入，convert 子命令直接跨工具转换
+- 支持约 60 个 AI 编码工具及 AGENTS.md 开放标准
+- npm、Homebrew tap、单二进制脚本三种安装途径
 
 ## 适用场景
 
-- 在多个 AI 编码工具间复用同一套规则与命令配置
-- 把 Cursor 规则一次性转换到 Copilot 和 Claude Code
-- 从已有 CLAUDE.md / .cursorrules 迁移到统一管理工作流
+- 团队同时使用多种 AI 编码工具时统一维护一份规则源
+- 从 Cursor 规则一键转换出 Copilot 与 Claude Code 配置
+- 将现有 CLAUDE.md/.cursorrules 导入为可管理的统一格式
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+ · 领域:开发者工具/AI 编码工具配置管理
 
 ## 证据(README 行号)
 
 > L14: A Node.js CLI tool that automatically generates configuration files for various AI development tools from unified A
-> L78: ### AI Coding Tools
+> L76: The tables below show whether each tool supports a given feature (✅ = supported, blank = not supported). A ✅ means 
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c42b02e3b60d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `07717e0059b7` · [字段定义](../../DATASET.md)*

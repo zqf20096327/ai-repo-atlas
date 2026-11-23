@@ -2,9 +2,9 @@
 
 ⭐ 1,602 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vercel-labs/dev3000) · [官网](https://dev3000.ai) · 组织维护
 
-**给编码代理的本地 Web 调试运行时：统一采集开发时间线**
+**给编码 agent 提供托管浏览器与统一调试时间线**
 
-面向编码代理（coding agent）的本地 Web 调试运行时：启动 dev server，打开受管理的 Chrome 浏览器（项目级稳定 profile），并把服务端日志、浏览器错误、网络请求、用户交互与截图汇入一条带时间戳的统一时间线。默认通过 Portless 为每个应用提供稳定的本地 HTTPS URL，端口变化不影响浏览器状态。主要接口是 d3k 技能，让代理以非交互方式接管运行时并读取统一证据；也保留独立 TUI。支持 Next.js/Vite/React/Vue/Svelte/Astro/Django/Flask/FastAPI/Rails 等项目的自动检测。需 Node.js 24+，Portless 一次性配置需管理员授权。
+d3k 为编码 agent 提供一个受管浏览器和共享时间线，将服务端输出、浏览器控制台消息、异常、网络请求与交互事件按统一时间戳收集，供 agent 复现问题并读取证据。支持 cursor 增量读取、错误过滤、截图命令，网络证据含脱敏头与耗时指标，时间线上限 5,000 条事件或 8 MiB，退出即消失。本地模式由 runtime 管理启动；远程模式经 Vercel Sandbox 在远端克隆并运行项目，本地 Chrome 陪跑，Sandbox 模式目前仅限 macOS。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 统一时间线采集：服务端日志、浏览器错误、网络请求、交互、截图、DevTools 事件
-- 项目级稳定 Portless URL 与持久化 Chrome profile（登录态跨会话保留）
-- d3k 技能让编码代理非交互启动并接管运行时（支持 claude/codex/opencode）
-- 自动检测常见 Web 框架项目，可用 --command 自定义 dev server
+- server 与 browser 事件共享序号的统一时间线（上限 5,000 事件/8 MiB）
+- 网络证据含脱敏请求/响应头、CDP 计时与请求体预览
+- 远程模式连接 Vercel Sandbox，无需本地项目 checkout
+- macOS OS 级沙箱策略限制 Chrome 文件与剪贴板访问
 
 ## 适用场景
 
-- 让编码代理在复现 bug 时读取统一日志与截图进行调试
-- OAuth 等登录敏感流程中保留浏览器身份跨会话调试
-- 开发者用独立 TUI 终端面板查看应用的完整开发时间线
+- 让 agent 复现 checkout 流程的 bug 并读取事件证据
+- 调试时把服务端日志与浏览器控制台/网络事件对齐查看
+- 远端项目在本地 Chrome 中验证，本地不留仓库
 
 ## 场景标签
 
- · 领域:开发者工具/Web 调试
+`编码 Agent` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L3: d3k is an agent-first local web debugging runtime. It starts your dev server, opens a monitored browser with a proje
-> L33: Install the d3k skill for your coding agents:
+> L3: d3k gives your coding agent a managed browser and a shared timeline of server output, browser console messages, exce
+> L5: Install the skill, then ask your agent to run the project, reproduce an issue, and inspect what happened:
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `23dc9b4dbd2d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `c884036888a0` · [字段定义](../../DATASET.md)*

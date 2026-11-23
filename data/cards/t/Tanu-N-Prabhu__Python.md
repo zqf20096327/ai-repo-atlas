@@ -2,9 +2,9 @@
 
 ⭐ 2,328 · Jupyter Notebook · 推送 2026-11-22 · [GitHub](https://github.com/Tanu-N-Prabhu/Python) · [官网](https://github.com/Tanu-N-Prabhu) · 个人维护
 
-**从零学习 Python、数据科学与机器学习的教程仓库**
+**Python/数据科学/机器学习入门教程笔记本合集**
 
-面向初学者到进阶开发者的 Python 编程与数据科学学习资源库：内容按章节组织，覆盖 Python 基础概念、内置函数、常用库（Numpy/Pandas）、API 使用、练习题、测验、面试题与设计原则；另含数据科学材料（数据探索、网页爬取、预处理）与机器学习路径（回归分类、聚类降维、深度学习、MLOps）及多个端到端项目（房价预测、情感分析、欺诈检测等）。以 Jupyter Notebook 与 Markdown 形式提供，推荐在本地或 Google Colab 中运行。
+以 Jupyter/Colab 笔记本为主的教程仓库，内容分三块：Python 编程（基础概念、内置函数、NumPy/Pandas 等库、API 使用、设计原则、练习与面试题）、数据科学（分 Level 0-5 的路径、数据抓取、EDA 与真实数据分析问答）、机器学习（数学基础、回归/分类、聚类、神经网络、部署与监控，以及房价预测、情感分析等端到端项目）。面向从零开始的初学者到进阶开发者，推荐配合 VS Code、Jupyter Notebook 与 Google Colab 使用，无独立安装包。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- Python 基础到内置函数、库与 API 的分章节教程
-- 机器学习路径覆盖回归、聚类、神经网络与 MLOps
-- 含房价预测、信用卡欺诈检测等端到端实战项目
-- 提供练习题、测验与面试准备材料
+- Python 从基础到设计原则与面试准备的分章节教程
+- 机器学习路径覆盖回归、聚类、神经网络到部署与监控
+- 包含约 10 个端到端 ML 项目（房价、欺诈检测、MNIST 等）
+- 推荐 VS Code / Jupyter / Google Colab 作为学习工具
 
 ## 适用场景
 
-- 从零开始系统学习 Python 编程
-- 按路径学习数据科学与机器学习
-- 准备 Python 或机器学习面试
+- 从零开始系统学习 Python 编程基础
+- 按分级路径入门数据科学与数据分析
+- 通过端到端项目练习机器学习建模
+- 准备 Python 与机器学习面试
 
 ## 场景标签
 
@@ -39,8 +40,7 @@
 
 > L3:  The Best Place to Learn Python, Data Science and Machine Learning!
 > L130: #### 4. Machine Learning Materials
-> L138: #### 5. Data Science Materials
-> L405: ## Machine Learning
+> L207: #### This repository is divided into two parts such as Python Coding and Data Science for Beginners.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a3323c99e460` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `592cbd7e453a` · [字段定义](../../DATASET.md)*

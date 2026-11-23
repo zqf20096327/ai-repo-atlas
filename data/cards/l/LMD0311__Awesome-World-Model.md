@@ -2,9 +2,9 @@
 
 ⭐ 2,306 · 推送 2026-11-21 · [GitHub](https://github.com/LMD0311/Awesome-World-Model) · [官网](https://arxiv.org/abs/2502.10498) · 组织维护
 
-**自动驾驶/机器人世界模型论文追踪清单，配合综述使用**
+**自动驾驶（及机器人）世界模型论文策展清单**
 
-作为作者团队综述（The Role of World Models in Shaping Autonomous Driving）的补充资料，收录并按年份组织自动驾驶与机器人领域世界模型相关论文，含早期经典论文、技术博客与视频、多篇综述、2026 年最新论文条目，并附 CVPR 系列相关 Workshop 与 Challenge 信息。条目多带 Paper/Code/Project 链接，接受社区通过 PR 与 issue 补充。
+作为一篇世界模型综述论文的配套仓库，用于记录、跟踪和基准测试近年自动驾驶与机器人领域的世界模型方法。内容按类别组织：Workshop & Challenge 信息、世界模型原始论文、技术博客与视频、综述论文列表，以及按年份分组的论文条目（附 Paper/Code/Project 链接）。维护者欢迎通过 pull request 或 issue 补充被遗漏的论文。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按年份与类别组织的世界模型论文条目，多数带 Paper/Code/Project 链接
-- 收录 CVPR 23-25 相关 Workshop 与 Challenge 信息
-- 作为 FCS 综述论文的补充，支持社区 PR/issue 补充条目
+- 配套综述论文《The Role of World Models in Shaping Autonomous Driving》的论文清单
+- 收录自动驾驶/机器人世界模型论文并附 Paper/Code/Project 链接
+- 收录 CVPR 等相关 Workshop & Challenge 信息
+- 接受社区通过 PR/issue 补充条目
 
 ## 适用场景
 
-- 查找自动驾驶/机器人世界模型的最新论文
-- 了解世界模型相关的综述与研讨会脉络
-- 作为综述论文的配套追踪清单使用
+- 检索自动驾驶世界模型方向的论文与代码
+- 跟踪该领域综述与 workshop 动态
+- 为相关研究寻找引用与调研起点
 
 ## 场景标签
 
@@ -37,7 +38,7 @@
 ## 证据(README 行号)
 
 > L5: This repo is used for recording, tracking, and benchmarking several recent World Models (for Autonomous Driving or R
-> L43: ### Survey
+> L29: ## Papers
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `40e19b9c59cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `36be0e5628fd` · [字段定义](../../DATASET.md)*

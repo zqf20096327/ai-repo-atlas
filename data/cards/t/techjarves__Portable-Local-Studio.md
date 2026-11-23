@@ -2,9 +2,9 @@
 
 ⭐ 2,087 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/techjarves/Portable-Local-Studio) · [官网](https://youtu.be/u89EoYOkA6U?si=AjTHc6zO8TYaIDcP) · 个人维护
 
-**零配置本地离线 AI 工作台：图像生成/LLM 对话/语音转文字/TTS**
+**零配置离线桌面 AI 工作室：本地运行图像生成、LLM 对话、语音转写与合成**
 
-面向桌面用户的自包含本地 AI 应用，整合四种能力：Stable Diffusion 图像生成（stable-diffusion.cpp 后端，支持 SD1.5/SDXL 单文件权重）、GGUF 格式 LLM 对话（llama.cpp 后端）、Whisper 语音转文字（whisper.cpp）、Kokoro TTS。运行时自带便携 Node.js，通过启动脚本（windows.bat/linux.sh/mac.sh）双击或命令行启动，浏览器访问 localhost:1420。自动检测 CUDA/ROCm/Vulkan/Metal/OpenVINO 后端；文本与图像引擎互斥以节省内存；macOS 仅支持 Apple Silicon，Linux 需 glibc 2.38+。
+面向 Windows/Linux/macOS 的自包含离线 AI 桌面应用，通过浏览器访问本地 Web UI（端口 1420）。整合四类能力：基于 stable-diffusion.cpp 的图像生成（.safetensors/.gguf/.ckpt 权重）、基于 llama.cpp 的 GGUF 文本对话、whisper.cpp 语音转写、Kokoro-82M ONNX 文本转语音。运行时自带便携 Node.js 与预编译 GPU 后端，自动检测硬件加载 CUDA/ROCm/Vulkan/Metal/OpenVINO。文本与图像引擎互斥运行以避免内存耗尽。无登录、无遥测、无 API key。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 四合一能力：Stable Diffusion 出图、GGUF LLM 对话、Whisper 转录、Kokoro TTS，全部本地离线
-- 零安装便携运行时：自带 Node.js 与后端二进制，无全局系统改动
-- 自动检测 CUDA/ROCm/Vulkan/Metal/OpenVINO 加速后端
-- 内置模型管理器：粘贴 Hugging Face URL 下载或拖放导入权重
+- 四合一离线工作区：Stable Diffusion 图像生成、GGUF 聊天、Whisper 转写、Kokoro 语音合成
+- 自动检测硬件并加载 CUDA/ROCm/Vulkan/Metal/OpenVINO 后端
+- 内置模型管理器：粘贴 Hugging Face URL 下载或拖入本地权重
+- 实时监控 CPU/RAM/GPU/VRAM 利用率，输出图片与 prompt 元数据一同存档
 
 ## 适用场景
 
-- 离线生成图像、与本地 LLM 对话、转录语音、合成语音，不联网不上传数据
-- 在 Windows/Linux/macOS 自有 GPU/NPU 硬件上运行本地 AI 工作台
-- 通过单一界面管理图像、文本、语音多类本地模型文件
+- 无网络环境下本地生成和编辑图片
+- 私有对话，数据不出本机
+- 本地转写语音录音为文字
+- 离线将文本转成自然语音
 
 ## 场景标签
 
@@ -37,10 +38,9 @@
 
 ## 证据(README 行号)
 
-> L23: 1. **🎨 Image Generation (Stable Diffusion):** Generate and edit high-quality images offline using `.safetensors`, `
-> L24: 2. **💬 Text Chat (LLMs):** Converse privately with open-source language models (GGUF format) powered by official, h
-> L25: 3. **🎙️ Speech-to-Text (Whisper):** Transcribe voice recordings and speech to text in real-time with an integrated 
-> L26: 4. **🗣️ Text-to-Speech (Kokoro TTS):** Convert text outputs into highly natural, lifelike vocal audio offline using
+> L40: **Portable AI Studio** is a completely offline, zero-setup, self-contained AI studio for Windows, Linux, and macOS.
+> L42: It unifies four major local AI capabilities into one high-performance desktop interface:
+> L50: * **100% Offline & Private:** Run inferences locally. No internet, telemetry, cloud logging, or API keys required.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4cbb1f36fab3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ce2ff43283f4` · [字段定义](../../DATASET.md)*

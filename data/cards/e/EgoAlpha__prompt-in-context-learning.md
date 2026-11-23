@@ -1,10 +1,10 @@
 # EgoAlpha/prompt-in-context-learning
 
-⭐ 2,251 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护 · 中文 README
+⭐ 2,251 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护
 
-**上下文学习与提示工程的开源资源清单：论文、提示技术与LLM使用指南**
+**学习者的上下文学习与提示工程资源清单**
 
-EgoAlpha Lab 维护的 Awesome 类资源汇编，按 Papers、Playground、Prompt Engineering、ChatGPT Prompt、LLMs Usage Guide 五类组织内容。论文部分细分为 Survey、Prompt Design、Chain of Thought、In-context Learning、RAG、Evaluation & Reliability、Agent、Multimodal Prompt 等主题，每类列出近期论文条目并提供完整列表外链；首页设每日更新的 Trending Research Papers 板块。LLMs Usage Guide 提到通过 LangChain 快速上手大模型的方法。资源以 Markdown 清单形式发布，无安装步骤。
+EgoAlpha Lab 维护的 Awesome 类资源聚合仓库，收录 In-Context Learning、Prompt Engineering、Agent、Foundation Models 相关论文，按 Survey、Prompt Design、Chain of Thought、RAG、Evaluation、Agent、Multimodal Prompt、应用等类别组织，每条附 arXiv 链接与日期。另设有 Playground（提示实验用 LLM）、ChatGPT Prompt 示例、以及基于 LangChain 的 LLM 使用入门指南，宣称每日更新。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ EgoAlpha Lab 维护的 Awesome 类资源汇编，按 Papers、Playground、Promp
 
 ## 能力要点
 
-- 覆盖 In-context Learning、Prompt Engineering、Agent、Foundation Models 方向的论文清单
-- 每日更新的 Trending Research Papers 板块（标注日期与作者）
-- 包含 ChatGPT 提示词示例与基于 LangChain 的 LLM 使用指南
-- 论文按 Survey/CoT/RAG/评测/Agent/多模态等十余个主题分类
+- 按 Survey/Prompt Design/CoT/ICL/RAG/评估/Agent/多模态等类别组织的论文清单
+- 每条论文附 arXiv 链接与发表日期
+- 提供 ChatGPT Prompt 示例与基于 LangChain 的 LLM 入门指南
+- 设有 AI Spotlight 板块跟踪最新研究论文
 
 ## 适用场景
 
-- 查找上下文学习与提示工程方向的最新论文
-- 学习可直接复用的提示技术与 ChatGPT 提示词示例
-- 按主题（CoT、RAG、Agent、多模态）跟踪 LLM 研究进展
+- 查找上下文学习与提示工程方向的论文入口
+- 按主题浏览 CoT、RAG、多模态提示等研究进展
+- 获取可直接套用的 ChatGPT 提示示例
 
 ## 场景标签
 
-`精选清单` `提示工程` `科研工具` · 领域:Agent 开发
+`提示工程` `精选清单` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4a9f96469602` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c48f145fa628` · [字段定义](../../DATASET.md)*

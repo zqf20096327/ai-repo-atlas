@@ -1,10 +1,10 @@
 # Paritok-official/paritok-4b-v1
 
-⭐ 1,439 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Paritok-official/paritok-4b-v1) · [官网](https://www.paritok.com/) · 组织维护
+⭐ 1,439 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Paritok-official/paritok-4b-v1) · [官网](https://www.paritok.com/) · 组织维护 · 中文 README
 
-**AI 编程 agent 的无损 token 压缩网关，降低输入 token 账单**
+**面向 coding agent 的压缩网关：代理转发并削减输入 token**
 
-部署在 agent 与 LLM API 之间的代理层：agent 指向 Paritok 而非 Anthropic/OpenAI，网关在每轮请求中过滤工具 schema、用自研 4B 压缩模型（Qwen3-4B 骨干，45K 轨迹训练）压缩文件读取与工具输出、摘要陈旧历史，再转发上游；压缩内容可通过 read_original 按需还原。兼容 Claude Code、Cursor、Codex、OpenHands 及任何支持 BASE_URL 的 agent。声称省 token 约 25%（首轮）到 85%+（长会话）。支持 GPU 与纯 CPU 部署。
+以代理形式运行在 coding agent 与 LLM API 之间的中间层：agent 将 BASE_URL 指向本网关，请求经三层处理——基于嵌入模型的工具 schema 过滤、由自研 4B 模型（Qwen3-4B 底座，45K 条 agent 轨迹训练）执行的内容压缩（文件读取/工具输出/历史，压至约 26%）、以及窗口满时的历史摘要——再转发至上游，按压缩后 token 计费。被压缩内容打 REF 标签，agent 可通过 read_original/gateway_search_tools API 按需取回原始字节。提供 /stats 可视化面板与 VS Code 扩展。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 三机制叠加：嵌入工具 schema 过滤、4B 模型内容压缩（约 26% 原尺寸）、历史摘要
-- 非破坏性：压缩片段可按需还原原始字节，过滤的工具可经 gateway_search_tools 取回
-- 兼容 Claude Code / Cursor / Codex / OpenHands 及任何 BASE_URL agent，无需改 agent 代码
-- 自带 VS Code 扩展与 /stats 实时节省看板
+- 三个独立节省杠杆：嵌入过滤工具 schema、4B 模型内容压缩、历史摘要
+- 非破坏性设计：压缩/过滤内容可经 read_original 等本地 API 即时取回
+- 工具过滤用 BAAI/bge-small-en-v1.5 嵌入模型，纯 CPU 本地运行
+- README 提供逐 turn 节省测算表与按团队规模的费用测算
 
 ## 适用场景
 
-- 降低 Claude Code / Cursor 等编程 agent 的输入 token 费用
-- 在同一上下文窗口中容纳更多对话轮次
-- 长会话中避免上下文溢出触发的有损压缩
+- 给 Claude Code/Cursor 等 agent 代理接入以降低长会话 token 账单
+- MCP 工具繁多时按语义过滤无关工具 schema
+- 长调试/大代码库审计等读取密集型多轮会话中扩展上下文可用 turn 数
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L4:  Paritok sits between your agent and the LLM as a drop-in proxy. On every request it strips the tool-schema bloat, c
+> L3:  A non-destructive compression gateway for coding agents — cut your input-token bill without changing your agent.
 > L43: Paritok runs as a **middle layer between your agent and the LLM API** — your agent points at Paritok instead of Ant
-> L49:   → forwarded to Anthropic / OpenAI  (billed on the compressed tokens)
+> L37: - **2026-07-15** &nbsp; **Paritok gateway v1.0.0** open-sourced — the proxy/middleware that turns the 4B model into
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `888c48d81667` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `32adf5652298` · [字段定义](../../DATASET.md)*

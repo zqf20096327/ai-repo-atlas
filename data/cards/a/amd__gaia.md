@@ -2,9 +2,9 @@
 
 ⭐ 1,632 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/amd/gaia) · [官网](https://github.com/amd/gaia) · 组织维护
 
-**AMD 开源本地 Agent 工厂：在 Ryzen AI 硬件上构建/运行本地智能体**
+**AMD 面向开发者在 Ryzen AI PC 上本地构建 AI agent 的框架**
 
-AMD 维护的开源 agent 框架，提供 Agent SDK（工具编排、状态管理、错误恢复）、技能系统（SKILL.md 无代码扩展）、评测基准与 gaia eval agent --fix 自动修复循环，用于构建默认本地运行的 agent harness，并附带桌面应用与终端 UI 的 GAIA agent 示例。本地推理基于 Lemonade Server，使用 Ryzen AI 处理器的 NPU + iGPU 加速，支持气隙部署；可选接入 Fireworks AI 与 AMD LLM Gateway 云端对话。另有 C++17 移植版供原生嵌入。系统要求 AMD Ryzen AI 300 系列及以上处理器，推荐 64GB 内存。
+GAIA 是 AMD 开源的 agent 构建框架与运行环境：通过 SKILL.md 技能、评测基准和 gaia eval agent --fix 自修复循环构建 agent harness，默认在 AMD Ryzen AI 硬件上本地推理。提供桌面应用与终端 UI 两类入口，底层有 Python（gaiapy）与 C++（gaiacpp）两个可切换 harness，附 Agent SDK 基类、50+ 文件格式的 RAG 索引检索、Whisper/Kokoro 语音与 Qwen3-VL 视觉能力。需 AMD Ryzen AI 300 系列以上处理器，最低 16GB 内存。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ AMD 维护的开源 agent 框架，提供 Agent SDK（工具编排、状态管�
 
 ## 能力要点
 
-- Agent SDK 含工具编排、状态管理与错误恢复
-- 技能系统用 SKILL.md 无代码扩展 agent 能力
-- 评测基准加 gaia eval agent --fix 自动修复循环
-- RAG 文档索引支持 50+ 文件格式的语义问答；Whisper ASR + Kokoro TTS 语音交互
+- Skills + eval 基准 + --fix 自修复循环的 Agent Factory
+- Python 与 C++ 两个可互换 harness，C++ 版无 Python 依赖
+- RAG 支持 50+ 文件格式的索引与语义检索
+- 可选 Fireworks AI / AMD LLM Gateway 云端 chat 及 local_ai_only 网络策略
 
 ## 适用场景
 
-- 在 AMD Ryzen AI PC 上本地构建和运行隐私优先的 AI agent
-- 通过技能与评测机制迭代改进自己的 agent harness
-- 气隙/离线环境下部署具备 RAG 与语音能力的智能助手
+- 在 Ryzen AI PC 上离线/气隙环境运行本地 agent
+- 用 SDK 构建带工具编排的自定义 agent harness
+- 对本地文档做索引与语义问答
+- 通过 SKILL.md 无代码扩展 agent 能力
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`Agent 框架` `模型评测` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L13: **GAIA** is AMD's open-source agent factory. It uses coding-agent skills, evals and an auto-fix loop to improve and
-> L15: Anyone can build an agent harness with GAIA. The **GAIA agent** is the one we built to show what it can do: convers
-> L60: - **Agent Factory** — Skills, an eval benchmark, and `gaia eval agent --fix`, which patches failing scenarios and r
+> L14: **GAIA** is AMD's open-source agent factory. It uses coding-agent skills, evals and an auto-fix loop to improve and
+> L48: The SDK is the base layer under the GAIA agent. A minimal harness is a class with a prompt and tools:
+> L61: - **Agent Factory** — Skills, an eval benchmark, and `gaia eval agent --fix`, which patches failing scenarios and r
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `58e0ff6d4070` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ac5bfcc3711f` · [字段定义](../../DATASET.md)*

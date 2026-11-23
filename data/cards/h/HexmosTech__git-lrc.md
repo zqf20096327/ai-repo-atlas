@@ -2,9 +2,9 @@
 
 ⭐ 1,494 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/HexmosTech/git-lrc) · [官网](https://hexmos.com/livereview/git-lrc/) · 组织维护
 
-**挂在 git commit 上的 AI 代码审查工具：提交前自动审查 diff**
+**开发者的 git commit 时自动 AI 代码审查工具**
 
-git-lrc 在 git commit 环节插入 AI 审查钩子：提交前对 diff 运行 AI 评审，覆盖 10 个风险类别与 100+ 失败模式，产出带严重度的行内评论、风险评分视图与变更摘要幻灯片。支持自动(commit 触发)与手动(git lrc review)两种模式，提供 vouch(人工担保)/skip(跳过)与面向编码代理和 CI 的 --agent-mode(非交互、JSON 输出)。安装附带 claude-lrc，可在 Claude Code 内以斜杠命令执行同一流程。设置需 LiveReview API key 与 Gemini API key，免费层每月 30k 行代码。
+git-lrc 是一个在 git commit 时触发的 AI 代码审查工具：通过 git hook 在每次提交前对暂存 diff 运行 AI 审查，覆盖 10 个风险类别与 100+ 失败模式，提供浏览器审查 UI、严重度过滤的 Issue Navigator、按影响范围排序的风险评分视图，以及自动生成的摘要幻灯片。附带 claude-lrc，在 Claude Code 内提供 review/vouch/skip 斜杠命令；支持 --agent-mode 以 JSON 输出供编码 agent 与 CI 使用。按 LOC 计费，免费档每月 30k LOC。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ git-lrc 在 git commit 环节插入 AI 审查钩子：提交前对 diff 运行 A
 
 ## 能力要点
 
-- commit 时自动对 diff 运行 AI 审查（10 风险类别、100+ 失败模式）
-- Issue Navigator 按类别/严重度/区域过滤审查发现
-- --agent-mode 非交互 JSON 输出，供编码代理与 CI 使用
-- vouch/skip 决策与迭代次数、覆盖率被记录到 git log
+- commit 时自动触发 AI 审查，全局 hook 一次设置覆盖所有仓库
+- Issue Navigator 按严重度/风险类别/类型过滤审查结果
+- Agent Mode 非交互输出 JSON，记录 agent-reviewed/vouched/skipped attestation
+- 迭代与覆盖率追踪：记录 AI 审查迭代次数与 diff 覆盖百分比
 
 ## 适用场景
 
-- AI 代理生成代码后在提交前拦截泄露凭据、逻辑删除等问题
-- 在 Claude Code 等编码代理流程中嵌入自动化审查
-- 通过风险评分视图优先处理大 diff 中的高风险变更
+- AI 生成的代码在提交前被自动审查，拦截泄露的凭据与高危云调用
+- 通过审查循环把问题清单回喂给编码 agent 迭代修复
+- 团队在 commit 环节统一执行代码审查，不依赖 IDE 或特定 AI 助手
+- 用摘要幻灯片与 git log 覆盖历史做新人上手与事后复盘
 
 ## 场景标签
 
-`代码审查` · 领域:编码与开发
+`代码审查` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L18: **`git-lrc` is your braking system.** It hooks into `git commit` and runs an AI review on every diff _before_ it la
-> L158: # review launches automatically before the commit goes through
-> L241: git lrc review --agent-mode
+> L22: **At a glance:** 10 risk categories &middot; 100+ failure patterns tracked &middot; every commit scanned automatica
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9f98ffa4eca5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e58f771198a9` · [字段定义](../../DATASET.md)*

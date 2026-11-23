@@ -2,9 +2,9 @@
 
 ⭐ 1,677 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/shanliuling/dsh-image-gen) · [官网](https://github.com/shanliuling/dsh-image-gen#readme) · 个人维护 · 中文 README
 
-**DeepSeek Harness 的 AI 图像创作插件：对话生图、画布与多模型对比**
+**DeepSeek Harness 对话生图插件：批量生成、编辑与多模型对比**
 
-面向 DeepSeek Harness（DSH）的图像生成插件：在对话中完成文生图、图生图与连续编辑，提供无限画布草稿创作、Studio 批量生成、多模型横向对比、500+ Prompt 灵感库、图库与收藏管理。接入 Gemini、OpenAI 及兼容渠道、Seedream、DashScope、Grok Imagine、GLM-Image 与本地 ComfyUI 等多类 Provider，支持 BYOK 与 ChatGPT/Grok/Google 订阅账号免 Key 登录。限制：Studio 与多模型对比仅支持云端 Provider，ComfyUI 未接入；需 DSH 稳定版与 Node.js 22.19+/24+。
+作为 DeepSeek Harness 的原生插件，让 Agent 在对话中直接产出图像：一条消息批量规划并逐张生成（单次最多 10 张、单张失败不中断）、读取画布选区做草图转成图与局部圈选编辑、维护角色一致性、生成 GIF 与 SVG。内置 500+ Prompt 灵感库、Studio 工作台、多模型横向对比与图库管理，支持本地 ComfyUI 多工作流。需 Node.js 22.19+ 环境与 DeepSeek Harness 稳定版，通过 pnpm 插件命令安装，按 Provider 填 API Key 或用订阅账号免 Key 登录。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 对话文生图/图生图/连续编辑与版本切换
-- AI 创作画布：草稿绘制+参考图组合生成成图
-- 同一 Prompt 并发调用多模型横向对比
-- 本地 ComfyUI 多命名工作流接入（限对话生图/单图编辑）
+- 对话批量生图：单次最多 10 张，逐张生成、失败自动列出原因
+- AI 画布：读取草图与圈选区域，做草图转成图与局部编辑
+- 内置 500+ Prompt 灵感库与 Studio 工作台、多模型对比
+- 支持本地 ComfyUI 多命名工作流与订阅账号免 Key 登录
 
 ## 适用场景
 
-- 在 DSH 对话中直接生成与迭代修改图片
-- 用已有 ChatGPT/Grok/Google 订阅免 Key 生图
-- 在画布上组合草稿与参考图做视觉创作
-- 用本地 ComfyUI 工作流私有化生图
+- 给文章、笔记批量配一组风格统一的插图
+- 在画布上圈出图片局部并指定修改内容
+- 同一 Prompt 并发调用多个模型对比出图效果
+- 用本地 ComfyUI 工作流在对话中私有化绘图
 
 ## 场景标签
 
@@ -38,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L36: **为 DeepSeek Harness 带来完整的 AI 图像创作工作流。**
-> L44: 支持：Gemini · OpenAI / Compatible · Seedream · DashScope · Grok Imagine · GLM-Image · 本地 ComfyUI
+> L35: `dsh-image-gen` 是 DeepSeek Harness 的原生图像创作插件。它不是在对话框里塞一个生图按钮，而是让 **Agent 本身学会画图**：它能一次规划并生成一整组图，能看懂你在画布上的涂鸦和圈选，能自己去
+> L76: 环境要求：DeepSeek Harness 稳定版本，Node.js `^22.19.0` 或 `>= 24.0.0`。
+> L258: ## Provider 支持情况
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cc661578e11e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d12453ebf366` · [字段定义](../../DATASET.md)*

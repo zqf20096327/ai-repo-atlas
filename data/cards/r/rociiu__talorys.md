@@ -2,9 +2,9 @@
 
 ⭐ 1,481 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/rociiu/talorys) · [官网](https://rociiu.github.io/talorys/) · 个人维护
 
-**部署在自己 Cloudflare 账号的单用户个人 AI 助手**
+**部署在用户自己 Cloudflare 账户的单人 AI 助手**
 
-开源单用户个人 AI 助手，通过 npx create-talorys@latest 一条命令部署到用户自己的 Cloudflare 账号：前端 Pages + 私有 Worker（无公开 URL），所有数据存于 SQLite Durable Object，聊天模型用 Workers AI（@cf/zai-org/glm-4.7-flash）。功能含流式对话、持久记忆（可选语义召回与事实历史）、任务/笔记/项目管理、基于 Durable Object alarms 的定时提醒与推送通知。单用户设计、无遥测，设计上兼容 Cloudflare 免费额度；AI 配额耗尽时任务/笔记/提醒仍可工作。
+在用户自己的 Cloudflare 账户内运行的个人 AI 助手，一条 npx 命令完成部署。功能包括流式聊天、可查看编辑的记忆管理、任务/笔记/项目、基于 Durable Object 定时器的提醒与自动化、可选语义召回、远程 MCP 服务器接入和 Tavily/Exa 网页搜索。聊天模型使用 Cloudflare Workers AI 的 GLM 模型，数据存于账户内的 SQLite Durable Object，无遥测代码。免费套餐额度用尽时 AI 功能暂停，其余功能仍可用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 一条 npx 命令部署到自己 Cloudflare 账号，私有 Worker 无公开 URL
-- 持久记忆：可选语义召回、事实历史（现役/过去事实）与冲突审查
-- 基于 Durable Object alarms 的定时提醒/每日摘要与端到端加密 Web Push
-- Workers AI 不可用时任务、笔记、记忆、提醒继续工作
+- 一条 npx 命令部署到用户自己的 Cloudflare 账户，无开发者运营的服务器
+- 记忆可查看、编辑、删除，且随时间变化时可确认为历史事实
+-  Workers AI 免费额度用尽后聊天暂停但其余功能继续工作
+- 设置面板内一键导出/导入 JSON 备份
 
 ## 适用场景
 
-- 在自己的 Cloudflare 免费额度内自托管一个私人 AI 助手
-- 让助手通过对话管理任务、笔记、项目与定时提醒
-- 跨设备登录使用同一助手并接收系统推送通知
+- 在不依赖第三方托管服务的前提下运行私人 AI 助手
+- 通过对话创建任务、计划目标并接收定时提醒
+- 接入远程 MCP 服务器扩展助手的可用工具
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L7: Talorys is a free, open-source personal AI assistant that runs entirely inside
-> L8: **your own Cloudflare account**. It chats with you, remembers what matters,
-> L71: |Workers AI|Chat model (`@cf/zai-org/glm-4.7-flash`)|Yes, daily allocation|
+> L78: |Workers AI|Chat model (`@cf/zai-org/glm-4.7-flash`)|Yes, daily allocation|
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4281a1628759` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `48dcae741d2c` · [字段定义](../../DATASET.md)*

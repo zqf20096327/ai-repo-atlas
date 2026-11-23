@@ -2,9 +2,9 @@
 
 ⭐ 1,371 · 推送 2026-11-16 · [GitHub](https://github.com/jxzhangjhu/Awesome-LLM-RAG) · 个人维护
 
-**LLM RAG 论文与资源策展清单，面向科研者**
+**面向 LLM RAG 研究者的论文与资源清单**
 
-Awesome 系列的 RAG 主题策展仓库：收录检索增强生成方向的学术论文（按综述/基准、检索增强 LLM、指令微调、上下文学习、嵌入、模拟器等类别组织）、工作坊与教程、书籍（Manning 等出版社的 RAG 主题书目），并附工具资源列表。条目标注作者、发表会议/时间与论文/代码链接，通过 PR 接收社区更新。面向做 RAG 研究与选型的科研人员和开发者，仓库本身无可运行代码，仅 MIT 许可的内容清单。
+以清单形式记录大语言模型检索增强生成（RAG）方向的进阶论文，按综述与基准、检索增强 LLM、指令微调、上下文学习、嵌入等主题分类收录，并附工作坊/教程、书籍和相关开源工具条目。欢迎研究者通过 pull request 提交更新其论文信息。内容以论文条目与链接为主，本身不提供可运行的 RAG 实现或安装步骤。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Awesome 系列的 RAG 主题策展仓库：收录检索增强生成方向的学�
 
 ## 能力要点
 
-- 按 8+ 个学术类别组织 RAG 论文条目，含作者与会议/时间标注
-- 收录 RAG 主题书籍（含免费电子书）与工作坊教程
-- 工具资源区收录分块调优、ETL 索引构建、文档压缩等开源项目
-- 通过 pull request 接收研究者自荐论文更新
+- 按主题分类收录 RAG 论文（综述基准、检索增强 LLM、微调、嵌入等）
+- 收录教程、书籍与相关开源工具资源
+- 接受研究者通过 pull request 更新论文条目
+- MIT 许可
 
 ## 适用场景
 
-- 查找 RAG 方向的经典与最新论文
-- 了解 RAG 相关书籍与教程资源
-- 按类别（嵌入、微调、检索增强等）浏览研究脉络
+- 查找 RAG 方向的论文与基准作为研究入口
+- 了解 RAG 领域的教程与书籍资源
+- 调研 RAG 嵌入与检索技术的相关工具
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Awesome 系列的 RAG 主题策展仓库：收录检索增强生成方向的学�
 ## 证据(README 行号)
 
 > L8: This repo aims to record advanced papers on Retrieval Augmented Generation (RAG) in LLMs.
-> L97: # Papers
+> L101: # Papers
+> L105: **Benchmarking Large Language Models in Retrieval-Augmented Generation** \
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `fdec52ff3891` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `244ce960a3b8` · [字段定义](../../DATASET.md)*

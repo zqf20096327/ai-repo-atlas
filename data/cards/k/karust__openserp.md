@@ -2,9 +2,9 @@
 
 ⭐ 1,610 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/karust/openserp) · [官网](https://openserp.org) · 个人维护
 
-**自托管的 SERP 搜索 API 与 CLI，供 LLM/Agent 检索用**
+**自托管网页搜索 API，为 AI agent 与 SEO 提供搜索结果**
 
-用 Go 编写的开源 SERP API 服务器与命令行工具，通过浏览器渲染对 Google、Yandex、Baidu、Bing、DuckDuckGo、Ecosia 六个引擎执行搜索，返回统一 JSON/Markdown 等格式的结构化结果。提供多引擎合并去重的 Megasearch、目标页内容提取、图片搜索、代理与缓存等能力，配套 JS/Python SDK 与 MCP server 供 AI agent 接入。无 API key、按次计费，可通过 Docker、go install 或源码部署，另有同 API 的托管云版本。
+用 Go 编写的自托管网络搜索服务，以真实浏览器渲染 Google、Bing、Yandex、百度、DuckDuckGo、Ecosia 六个引擎的搜索结果页，返回统一 JSON（保留来源引擎与排名），可将结果页读取为干净的 Markdown。提供 REST API、CLI、MCP server 及 Python/JS SDK，无需 API key、按次计费；支持代理、缓存、重试、限流与熔断。Docker 或预编译二进制安装；PDF 抽取依赖 mutool。作者声明存在 CAPTCHA 与限流风险。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 六个搜索引擎的专用端点，JSON 结构统一
-- Megasearch 一次查询多引擎并去重合并
-- URL 提取：搜索结果附带目标页 clean markdown
-- 提供 MCP server（@openserp/mcp）供 AI agent 使用
-- 支持 HTTP/SOCKS5 代理与预构建 Docker 镜像
+- 六个搜索引擎统一 JSON schema，保留来源引擎与排名
+- extract=N 单次调用返回搜索结果与页面 Markdown，批量最多 20 个 URL
+- 提供 MCP server、REST API、CLI 及 Python/JS SDK
+- 支持 HTTP/SOCKS5 代理池、缓存、重试、限流与熔断
 
 ## 适用场景
 
-- 为 LLM 或 agent 提供自托管联网搜索后端
-- SEO 关键词排名追踪，无需付费 SERP API
-- 批量抓取搜索结果并提取页面内容做数据管道
+- 给 MCP 客户端（Claude Code、Cursor 等）接入联网搜索工具
+- 为 RAG 管道获取网页上下文
+- SEO 排名监控与多引擎排名对比
+- 从终端直接查询搜索引擎并输出 Markdown/JSON
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L11: **OpenSERP** is a free, open-source SERP API and CLI for Google, Yandex, Baidu, Bing, DuckDuckGo, and Ecosia.
-> L13: No API keys, no per-search billing: one command gives you live, structured search results on localhost - including 
-> L80: |MCP server (AI agents)|`@openserp/mcp`|openserpapi/mcp|`npx @openserp/mcp`|
+> L12: OpenSERP is a **free self-hosted web search for AI agents and SEO.** REST API and CLI for Google, Bing, Yandex, Bai
+> L14: No API keys, no per-search billing. It loads search results in browser and returns structured JSON with source engi
+> L16: Works with Claude Code, Cursor, Codex, Claude Desktop and any MCP client, Open WebUI (built-in provider), n8n, and 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `56fe6164b8ad` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f605aff55368` · [字段定义](../../DATASET.md)*

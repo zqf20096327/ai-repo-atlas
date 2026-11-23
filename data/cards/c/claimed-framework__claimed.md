@@ -2,9 +2,9 @@
 
 ⭐ 2,302 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/claimed-framework/claimed) · 组织维护
 
-**把脚本/笔记本编译为容器化 AI 组件与 Kubeflow 流水线的工具**
+**将脚本/笔记本编译为可部署 AI 组件的低代码工具链**
 
-CLAIMED Component Compiler（C3）是 CLAIMED 低代码框架的核心项目：读取 Jupyter notebook、Python 或 R 脚本，自动安装依赖、构建容器镜像并推送镜像仓库，生成 Kubeflow Pipeline 组件（执行引擎可插拔）与 Kubernetes/Openshift 作业配置，可由 CI/CD 流水线触发。网格并行化支持 AI 负载分布式执行，MLX 作为后端负责资产追踪（数据/模型/作业）与生命周期管理。README 后半部分捆绑了 terratorch-iterate 文档：基于 MLFlow、Optuna、Ray 的基准测试与超参优化工具，支持 Slurm/LSF 工作负载管理器。由 EU Horizon Europe 等资助，Apache 2.0 许可。
+CLAIMED 框架的核心项目 C3：以 Jupyter notebook、Python 或 R 脚本为输入，自动构建容器镜像并推送到镜像仓库，自动安装依赖，生成 KubeFlow Pipeline 组件与 Kubernetes/OpenShift 作业配置，可由 CI/CD 管道触发。内置网格计算并行化以在异构计算环境分布式执行 AI 工作负载，并以机器学习交换（MLX）作为后端跟踪数据、模型与作业等资产。仓库还捆绑 terratorch-iterate，一个基于 MLFlow、Optuna 与 Ray 的基准测试与超参数优化工具。pip 安装，Apache-2.0 许可，由欧盟 Horizon Europe 等项目资助。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ CLAIMED Component Compiler（C3）是 CLAIMED 低代码框架的核心项目：�
 
 ## 能力要点
 
-- 脚本/笔记本自动构建容器镜像并推送仓库
-- 生成 Kubeflow Pipeline 组件与 Kubernetes 作业配置（引擎可插拔）
-- MLX 作为网格计算后端追踪数据/模型/作业等资产
-- 捆绑 terratorch-iterate：基于 MLFlow/Optuna/Ray 的基准测试与超参优化
+- 自动将脚本/笔记本转为容器镜像与 KubeFlow Pipeline 组件
+- 网格计算并行化支持异构环境的分布式执行
+- MLX 后端统一跟踪数据、模型、作业等资产
+- 捆绑 terratorch-iterate 提供 HPO 与基准测试
 
 ## 适用场景
 
-- 把现有 Python/R 脚本快速容器化为可复用的流水线组件
-- 在 Kubernetes/OpenShift 集群上分布式运行 AI 工作负载
-- 对 TerraTorch 模型做多任务基准测试与超参调优
+- 把现有 notebook/脚本快速容器化并部署到 Kubernetes 集群
+- 在 CI/CD 流水线中触发组件构建与部署
+- 对 TerraTorch 骨干模型做基准测试与超参数调优
 
 ## 场景标签
 
-`工作流自动化` `MLOps` · 领域:效率与自动化
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L10: - creates KubeFlow Pipeline components (target workflow execution engines are pluggable)
+> L14: C3 (CLAIMED Component Compiler) is the central project of the CLAIMED framework.
 > L15: It automates the transformation of arbitrary code assets — such as Jupyter notebooks, Python scripts, or R scripts 
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `efe4f2d76c83` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3aab86dc255b` · [字段定义](../../DATASET.md)*

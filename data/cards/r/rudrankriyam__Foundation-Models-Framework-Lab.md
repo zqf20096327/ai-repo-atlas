@@ -2,9 +2,9 @@
 
 ⭐ 1,194 · Swift · MIT · 推送 2026-11-07 · [GitHub](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab) · 个人维护
 
-**开发者学习测试 Apple Foundation Models 框架的 iOS/macOS 工作台**
+**测试 Apple 基础模型框架的 iOS/macOS 实验工作台**
 
-原生 iOS/macOS 应用，面向使用 Apple Foundation Models 框架的开发者：Library 提供 18 个可编辑 recipe 与 14 个 guided lab，Playground 支持编辑提示词、配置模型与工具、流式多轮对话、语音输入与 Swift 导出，Runs 记录运行证据。内置 9 个工具 recipe（天气、日历、HealthKit 等），支持结构化输出、RAG 检索、适配器对比。要求 iOS/macOS 26.0+、Apple Silicon 与 Apple Intelligence，模型实机运行需物理设备，从 Xcode 工程源码构建。
+原生 iOS 与 macOS 应用，围绕 Apple Foundation Models 框架组织学习与实验流程：包含 18 个可编辑配方、14 个引导实验、工作区与 Playground，可编辑提示词与指令、配置运行时与工具、流式输出、持久化运行历史并导出 Swift 代码与可复现证据。内置九个工具配方（天气、搜索、HealthKit 等），支持结构化输出、多语言会话、RAG 检索，另附适配器训练工具与独立 CLI 仓库。需 Apple Silicon 设备并启用 Apple Intelligence 才能实机运行模型。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 18 个可编辑 recipe、14 个 guided lab 与 3 个 workshop
-- Playground 支持流式多轮对话、工具配置与 Swift 导出
-- 9 个内置工具 recipe（HealthKit、日历、位置等）
-- 适配器对比 workspace 与 Xcode 27 专属实验室
+- Library/Playground/Runs 三区结构：配方运行、提示编辑、运行证据检查
+- 九个内置工具配方与可组合的工具界面
+- 结构化输出（@Generable/@Guide）、多语言会话与 RAG 检索
+- macOS 适配器对比工作区与 fmas 训练导出 CLI
 
 ## 适用场景
 
-- 学习和实验 Apple Foundation Models 各 API
-- 对比不同提示词、配置与适配器的运行效果
-- 检查每次运行的 transcript、工具调用与 token 用量
+- 为 Apple Foundation Models 框架的各 API 逐项跑通示例
+- 对比适配器前后同一提示词的输出与耗时
+- 构建基于 HealthKit 授权数据的本地模型应用原型
+- 导出 Playground 配置为 Swift 代码用于自建应用
 
 ## 场景标签
 
-`提示工程` `教程课程` · 领域:Agent 开发
+`提示工程` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: Foundation Lab is a native iOS and macOS workbench for learning, testing, and
 > L4: shipping with Apple's Foundation Models framework. It keeps the prompt,
-> L32: |Library|Browse 18 editable recipes, 14 guided labs, three workshops, saved experiments, and one workspace.|
+> L39: - **Guided Lab** uses a focused interface for a specific Foundation Models API.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `93d8a1c772fc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `b45285605b88` · [字段定义](../../DATASET.md)*

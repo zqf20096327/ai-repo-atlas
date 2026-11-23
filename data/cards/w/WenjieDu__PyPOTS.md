@@ -1,10 +1,10 @@
 # WenjieDu/PyPOTS
 
-⭐ 2,097 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/WenjieDu/PyPOTS) · [官网](https://pypots.com) · 个人维护 · 中文 README
+⭐ 2,097 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/WenjieDu/PyPOTS) · [官网](https://pypots.com) · 个人维护
 
-**含缺失值时间序列的机器学习工具箱：插补/分类/聚类/预测/异常检测**
+**面向不完整时间序列的 Python 机器学习工具箱**
 
-面向含缺失值多元时间序列（POTS）的 Python 工具箱，覆盖插补、分类、聚类、预测、异常检测五类任务，收录 50 余个经典与神经网络算法（SAITS、BRITS、TimesNet、Transformer 等），提供统一 API。对非 POTS 原生的模型（如 Informer、PatchTST）采用 SAITS 论文的嵌入策略与 ORT+MIT 训练方式使其可处理缺失数据。配套 TSDB（172 个公开数据集加载）、PyGrinder（缺失模拟）、BenchPOTS（基准评测）与 BrewPOTS（教程）组成生态，v2 起用 Optuna 做超参优化。经 PyPI 与 Anaconda 发行，BSD-3 许可。
+针对含缺失值的部分观测时间序列（POTS）提供统一 Python 工具箱，覆盖插补、分类、聚类、预测、异常检测及表示学习任务，收录 50 余种算法（含 SAITS、GRU-D、CSDI、Time-LLM 等），并以表格标注各算法支持的任务类型；v2 起基于 Optuna 提供超参数优化支持。通过 pip/conda 安装，配套 TSDB 数据加载、PyGrinder 缺失模拟、BenchPOTS 基准与 BrewPOTS 教程生态。面向处理工业等场景不完整时序数据的工程师与研究者。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 5 类任务 × 50 余个算法的统一 API
-- 非 POTS 模型经 ORT+MIT 策略适配缺失值输入
-- 配套 TSDB/PyGrinder/BenchPOTS/BrewPOTS 生态
-- TS2Vec 时间序列表示学习与向量化
+- 50+ 算法覆盖插补/分类/聚类/预测/异常检测 5 类任务及表示学习
+- 统一 API、文档与交互式教程，支持 Optuna 超参数优化
+- 生态包含 TSDB（172 个数据集加载）、PyGrinder、BenchPOTS、BrewPOTS
+- 对不适配缺失输入的模型统一应用 SAITS 的 ORT+MIT 嵌入与训练策略
 
 ## 适用场景
 
-- 工业传感器数据有缺失时做插补或预测
-- 医疗等不完整时间序列的分类与聚类分析
-- 复现和对比 POTS 算法、做学术基准实验
+- 对含传感器缺失的工业时序数据做插补与清洗
+- 在不完整医疗时序数据上做分类与异常检测
+- 对多变量时序做预测并对比不同算法性能
+- 加载公开时序数据集并模拟 MCAR/MAR/MNAR 缺失
 
 ## 场景标签
 
- · 领域:时间序列机器学习/数据挖掘
+ · 领域:数据科学/时间序列分析
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a37f376d543f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `057289afaa5a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,394 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/panxunying/ai-coding-welfare) · [官网](https://panxunying.github.io/ai-coding-welfare/) · 个人维护 · 中文 README
 
-**AI 编码工具免费额度的中转/公益站导航合集**
+**免费使用 Claude Code / Codex 的中转公益站收录与配置导航**
 
-收录 11 个提供免费 Claude Code / Codex 可用额度的 API 中转站与公益站，按表格展示在线状态、首日可得额度、兼容协议（Anthropic/OpenAI）、签到规则与邀请码；模型、价格、在线状态由脚本抓取站点公开接口自动更新。每个站点附详细条目：注册要求、实时数据、接入配置（Claude Code / Codex CLI / OpenAI SDK 环境变量与 Base URL）、公告同步与风险提示。提供 quickstart 一键脚本（macOS/Linux/Windows）交互式写好 Claude Code 环境变量。
+收录多个提供免费额度的 Claude Code / Codex 中转站与公益站，以表格形式列出各站首日可得额度、额度构成、兼容协议与注册条件，站点状态、模型与价格由脚本抓取公开接口自动更新，并提供变动日志与 Atom 订阅。配套一键 quickstart 脚本（bash/PowerShell）写入 ANTHROPIC_BASE_URL 等环境变量，站点详情页给出 Claude Code、Codex CLI、OpenAI SDK 的接入配置示例与连通性自测命令，同时标注各站的注册限制与风险提示。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 11 个站点的额度、协议、签到与邀请码对照表
-- 脚本自动抓取站点公开接口更新模型、价格与在线状态
-- quickstart.sh / quickstart.ps1 一键配置 Claude Code 环境变量
-- 每站附风险提示（计价单位、倍率、域名与稳定性）
+- 收录 11+ 个中转/公益站，含额度构成、邀请码与注册门槛明细
+- 站点在线状态、模型与价格由脚本抓取公开接口自动更新，附变动日志与 Atom 订阅
+- 提供 bash/PowerShell 一键脚本写入环境变量，覆盖 Claude Code / Codex CLI 配置示例
+- 各站附使用前必读：计价倍率、证书与域名风险、封号规则等提示
 
 ## 适用场景
 
-- 找免费额度跑 Claude Code / Codex 而不充值
-- 对比各中转站的协议兼容、额度与签到规则
-- 按站点详情页的环境变量配置接入编码客户端
+- 想找免费额度接入 Claude Code 或 Codex CLI 的开发者
+- 对比多个中转站的额度、倍率与注册条件后选择注册
+- 按站点详情页的示例快速配置环境变量与客户端
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L1: AI Coding 福利站导航
 > L5:  免费额度 · 白嫖 Claude Code / Codex / Cursor 的中转与公益站合集
-> L47: > 「首日可得」= 注册基础额度 + 本页邀请链接额度 + 当天能领的签到额度（每日重置额度池的站点按一天的池子算）；模型、价格、在线状态由脚本抓取站点公开接口自动生成，最后更新：`2026-10-19 13:20 UTC`。
+> L54: > 「首日可得」= 注册基础额度 + 本页邀请链接额度 + 当天能领的签到额度（每日重置额度池的站点按一天的池子算）；模型、价格、在线状态由脚本抓取站点公开接口自动生成，最后更新：`2026-11-22 19:43 UTC`。
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `fa6cc2f44d77` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `9c34ca3d6848` · [字段定义](../../DATASET.md)*

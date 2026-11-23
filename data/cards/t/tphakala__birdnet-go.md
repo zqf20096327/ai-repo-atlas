@@ -2,9 +2,9 @@
 
 ⭐ 2,471 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/tphakala/birdnet-go) · 个人维护
 
-**自托管 24/7 实时鸟鸣与蝙蝠声音识别系统，可跑在树莓派上**
+**树莓派上 24/7 本地运行的野生动物声景实时识别监测器**
 
-用 Go 编写的实时声景分析器：从声卡或 RTSP 流采集音频，本地运行多模型推理——BirdNET v2.4（内嵌，6500+ 鸟类）、Google Perch v2（ONNX，14795 物种）、BattyBirdNET 区域蝙蝠模型（支持 256 kHz 超声）与 BirdNET Geomodel v3.0，支持多模型并行与跨模型共识提升置信度。检测结果通过 Svelte Web UI 呈现（实时频谱图、热图），并可经告警规则引擎推送到 Discord/Telegram/MQTT/Home Assistant 等渠道。默认纯本地运行，数据存 SQLite 或 MySQL，可在树莓派 4 上运行。
+自托管的实时声景分析系统：持续监听本地麦克风或 RTSP 网络音频流，用 BirdNET、Google Perch、蝙蝠模型在本地推理识别物种，在 Web 仪表盘呈现检测结果、频谱图与录音片段。支持多模型并行与跨模型共识、误报过滤、40+ 物种语言、多种告警推送与 Home Assistant/MQTT 集成。单二进制部署，Docker 多架构镜像支持，可运行在树莓派 4 上。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 多模型 AI 画廊：BirdNET v2.4 / Perch v2 / BattyBirdNET / Geomodel 应用内安装，无需重建
-- 多模型并行推理与跨模型共识机制提升检测置信度
-- 支持声卡与 RTSP 流、最高 256 kHz 采样率的蝙蝠超声检测
-- 告警规则引擎接入 Discord/Telegram/MQTT(Home Assistant 自动发现)/BirdWeather 等多个目标
+- 多模型并行推理：BirdNET v2.4、BirdNET+ v3.0、Google Perch v2、蝙蝠模型，Web UI 内安装无需重编译
+- 本地麦克风与 RTSP 流多源分析，支持跨模型共识过滤
+- 告警规则引擎：Discord/Slack/Telegram/MQTT/Home Assistant/BirdWeather 等多种投递目标
+- 单静态二进制，树莓派 4 可 24/7 运行，OpenVINO 加速可选
 
 ## 适用场景
 
-- 在树莓派上 24/7 监测庭院或野外的鸟类声音并收到通知
-- 接入 Home Assistant 做智慧家庭物种检测联动
-- 用超声设备做区域蝙蝠声学监测
-- 为观鸟直播（OBS）叠加实时频谱图与检测结果
+- 在树莓派或家庭服务器上搭建 24/7 鸟类声学监测站
+- 检测院子/喂鸟器的到访物种并推送到手机或 Home Assistant
+- 用超声波采样率记录和识别蝙蝠
+- 将检测结果上传 BirdWeather 参与社区声学数据共享
 
 ## 场景标签
 
-`语音识别` · 领域:感知与多模态
+ · 领域:生物声学/生态监测
 
 ## 证据(README 行号)
 
-> L34: **Realtime soundscape analyser for birds, wildlife, and bats.**
-> L36: Self-hosted, 24/7, local AI inference. BirdNET-Go ingests soundcard input or network audio streams, runs multi-mode
+> L34: **24/7 self-hosted AI sound monitor for birds, bats, and other wildlife.**
+> L36: BirdNET-Go listens continuously to local microphones or network audio streams, identifies species locally using Bir
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `69be8fe60427` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ef02f8967756` · [字段定义](../../DATASET.md)*

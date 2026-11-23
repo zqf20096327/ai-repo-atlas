@@ -1,10 +1,10 @@
 # Guang000/Awesome-Dataset-Distillation
 
-⭐ 1,985 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation) · [官网](https://guang000.github.io/Awesome-Dataset-Distillation/) · 组织维护
+⭐ 1,985 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation) · [官网](https://guang000.github.io/Awesome-Dataset-Distillation/) · 个人维护
 
-**数据集蒸馏领域论文策展清单，按方法类别组织**
+**数据集蒸馏领域论文策展清单（awesome-list）**
 
-数据集蒸馏领域的论文聚合清单，由 Guang Li、Bo Zhao、Tongzhou Wang 维护。领域任务定义：从大规模真实数据集合 成小型合成数据集，使在其上训练的模型在原数据集上保持性能。清单按梯度/轨迹匹配、分布/特征匹配、核方法、参数化、生成式蒸馏等方法类别组织条目，每条含作者、发表会议与项目页/代码/bibtex 链接，并设 Latest Updates 板块跟踪新论文，接受 PR 提交。
+围绕 dataset distillation（将大数据集合成为小型合成数据集）任务的论文聚合清单，按代理目标（梯度/轨迹匹配、分布/特征匹配）、核方法、参数化方式、生成式蒸馏（GAN/Diffusion）等类别组织条目，每条附项目页、代码与 bibtex 链接，持续更新收录 NeurIPS/CVPR/ICLR 等会议论文，面向需要检索该领域文献的研究者，由 Guang Li、Bo Zhao、Tongzhou Wang 维护。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 按 5+ 个方法类别（梯度匹配、分布匹配、核方法、参数化、生成式等）组织论文条目
-- 每条目提供作者、会议、项目页/代码/bibtex 链接
-- 设 Latest Updates 板块跟踪近期论文
-- 通过 pull request 接受社区投稿
+- 按代理目标、核方法、参数化、生成式蒸馏等类别组织论文条目
+- 每条论文附项目页、代码仓库与 bibtex 引用链接
+- 含 Latest Updates 区块持续收录新会议论文
 
 ## 适用场景
 
-- 查找数据集蒸馏领域的论文与开源代码
-- 按方法类别梳理领域研究脉络
-- 跟踪该方向最新发表的工作
+- 入门数据集蒸馏方向时快速了解任务定义与代表性方法
+- 写综述或相关工作时按类别查找论文与引用格式
+- 寻找某个蒸馏方法的官方代码实现
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L6: **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillatio
-> L8: **Dataset distillation** is the task of synthesizing a small dataset such that models trained on it achieve high per
-> L12: **This project is curated and maintained by Guang Li, Bo Zhao, and Tongzhou Wang.**
+> L29: ## Contents
+> L31: ## Main
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `702fa4307661` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `350e1b8b03ff` · [字段定义](../../DATASET.md)*

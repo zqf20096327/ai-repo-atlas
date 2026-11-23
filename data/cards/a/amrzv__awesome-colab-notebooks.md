@@ -2,9 +2,9 @@
 
 ⭐ 1,673 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/amrzv/awesome-colab-notebooks) · 个人维护
 
-**Google Colab 机器学习实验笔记本的策展清单（课程/项目）**
+**面向 ML 学习者的 Google Colab 笔记本清单，一键打开即跑**
 
-面向 ML 从业者与学习者的 Colab 笔记本聚合清单：按 Courses 与 Projects 两大板块组织条目，每个条目给出名称、简介、作者、外部链接（arXiv/GitHub/YouTube 等）以及 Open In Colab 的直接打开入口，并标注更新日期。内容覆盖强化学习、深度学习、时间序列、LLM、语音识别等课程，以及 Kornia、SHAP、YOLOv8、AlphaFold、NeMo 等项目。清单以 README 表格形式呈现，不提供自身代码或安装包。
+一个聚合 Colab 笔记本条目的策展清单：按 Courses（数十门机器学习/深度学习/强化学习课程，每门附 Open In Colab 直达链接与更新日期）和 Projects（Litellm、YOLOv8、BERT 微调、Transformer 教程等项目条目）两类组织，另设 Trending 板块列出趋势仓库、论文与包。条目附作者、外部资源（arxiv/git/视频）链接。内容仅由 README 表格构成，不包含本产品自身的安装或运行说明。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- Courses 与 Projects 双板块组织条目
-- 每条目提供 Open In Colab 直达链接与更新日期
-- 覆盖 RL、深度学习、LLM、语音、CV 等领域课程与项目
+- 数十门 ML/DL/RL 课程条目均附 Open In Colab 直达入口
+- 按 Courses / Projects / Trending 三类组织条目
+- 每条目注明作者、外部资源链接与最近更新日期
+- Trending 板块追踪趋势仓库、论文与包三类列表
 
 ## 适用场景
 
-- 找可直接在 Colab 上运行的课程配套笔记本
-- 查找知名 ML 项目的 Colab 入口与相关资料
-- 按更新时间了解可用的实验笔记本资源
+- 在 Colab 上找一门深度学习入门课程跟着练
+- 为某个项目（如 YOLOv8、BERT 微调）寻找可直接运行的示例笔记本
+- 浏览当前机器学习领域的热门仓库与论文
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`教程课程` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L7: # Awesome colab notebooks collection for ML experiments
-> L16: |name|description|authors|links|colaboratory|update|
+> L12: ## Courses
+> L48: ## Projects
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `be5e96637efc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `f578cbd26032` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,954 · C · MIT · 推送 2026-11-02 · [GitHub](https://github.com/yoanbernabeu/grepai) · [官网](https://yoanbernabeu.github.io/grepai/) · 个人维护
 
-**面向 AI 代理的本地语义代码搜索与调用图 CLI**
+**面向 AI 编码 agent 的本地语义代码搜索 CLI**
 
-Go 编写的隐私优先 CLI 工具，用向量嵌入实现按语义（意图）搜索代码，支持自然语言查询与调用图追踪（trace callers）。索引通过文件监听守护进程自动更新，全程本地运行，代码不出本机。可配置为 MCP server，供 Claude Code、Cursor、Windsurf 等 AI 代理作为工具直接调用，目标是减少代理输入 token。嵌入需外部 provider：默认 Ollama，也可用 LM Studio 或 OpenAI。安装提供 Homebrew、curl 脚本与 PowerShell 三种途径，并支持多 shell 自动补全。
+Go 编写的隐私优先 CLI：用向量嵌入对代码库建索引，支持自然语言语义搜索、调用图追踪（trace callers/callees）与文件监听自动更新索引；同时提供 MCP server 供 AI agent 作为工具直接调用，宣称可降低 agent 输入 token。100% 本地运行，代码不出机器。通过 Homebrew/脚本安装，需配置 embedding provider（默认 Ollama，也支持 LM Studio、OpenAI）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Go 编写的隐私优先 CLI 工具，用向量嵌入实现按语义（意图）
 
 ## 能力要点
 
-- 向量嵌入语义搜索，自然语言查询定位代码
-- 调用图追踪（trace callers）
-- 100% 本地运行，文件监听自动更新索引
-- 可作为 MCP server 被 AI 代理直接调用
+- 自然语言语义搜索：按意图（如 authentication logic）定位相关代码
+- 调用图追踪：变更前查看函数的调用方
+- MCP server 模式，agent 可将 grepai 作为工具调用
+- 文件监听自动保持索引最新，全程本地运行
 
 ## 适用场景
 
-- 用自然语言在代码库中查找概念相关代码
-- 改动函数前追踪谁调用了它
-- 为 Claude Code/Cursor 等代理提供精简上下文以减少 token 消耗
+- 给 Claude Code/Cursor 等编码 agent 提供语义检索上下文
+- 重构前确认某函数被哪些代码调用
+- 命名风格不统一的大代码库中按概念查找代码
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fa4f272c7d0e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `6c3ba31363c3` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,719 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zebbern/claude-code-guide) · 个人维护
 
-**面向开发者的 Claude Code 使用指南（安装/命令/配置/MCP/技能）**
+**Claude Code 使用指南：从安装到高级工作流的命令与技巧手册**
 
-社区维护的 Claude Code 教程类知识库：以章节化文档覆盖入门安装、环境变量与配置文件、斜杠命令与 CLI 参考、权限与安全、自动化脚本（PR Review、Issue Triage）以及第三方集成（如 DeepSeek 接入示例）。安装部分罗列原生安装脚本、brew/winget/npm 等途径并给出系统要求；命令部分提供快照表格并声明以官方文档为权威。内容为 Markdown 参考文档，无本产品代码安装。
+围绕 Anthropic 的 Claude Code CLI 工具编写的第三方参考文档，按章节组织为安装（原生安装脚本、Homebrew/WinGet/npm 分发）、系统要求、环境变量与配置文件、斜杠命令、MCP、子代理与技能、安全权限、自动化脚本及第三方集成（DeepSeek、云平台网关）。内容注明命令与模型映射更新频繁，以官方文档为权威来源。面向从入门到进阶的 Claude Code 用户查阅。
 
 ## 筛选速览
 
@@ -12,24 +12,25 @@
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 覆盖安装、配置、命令、安全、自动化与第三方集成的分章指南
-- 提供 settings.json 与 CLAUDE.md 多层级配置文件说明
-- 斜杠命令参考表（含实验性功能标注）
-- 声明命令与模型映射变化快，以官方文档为权威来源
+- 覆盖安装、配置、命令、MCP、子代理、技能、安全等章节的目录化参考
+- 提供 macOS/Linux/Windows 三平台安装命令与包管理器分发说明
+- 收录环境变量目录与 settings.json 多层级配置优先级说明
+- 含第三方集成章节（DeepSeek、云服务与网关）
 
 ## 适用场景
 
-- 初次上手 Claude Code 时按 Quick Start 完成安装与登录
-- 查找斜杠命令和配置文件的作用
-- 了解权限、安全与企业级策略文件的组织方式
+- 首次安装与登录配置 Claude Code CLI
+- 查找斜杠命令、快捷键与 CLI 参数的用法
+- 配置环境变量、多作用域 settings.json 与权限策略
+- 排查安装、认证与运行中的常见问题
 
 ## 场景标签
 
@@ -39,8 +40,7 @@
 
 > L1: Claude Code Guide
 > L3: _For reference and contributions, visit the official Claude Code documentation_
-> L40: - **Getting Started**
-> L72: - **Third-Party Integrations**
+> L5: _Commands and provider model mappings change quickly; the linked official references remain authoritative._
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `65fcc097dc47` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `6b0fcf37e9df` · [字段定义](../../DATASET.md)*

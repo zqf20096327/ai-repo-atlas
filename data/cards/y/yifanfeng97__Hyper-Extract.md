@@ -34,7 +34,7 @@ Python CLI 与库，输入 PDF、Word、PPT、Excel、HTML、EPUB 等文档，�
 
 ## 场景标签
 
- · 领域:知识工程/信息抽取
+`知识图谱` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 

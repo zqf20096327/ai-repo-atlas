@@ -1,1 +1,78 @@
-{"fn": "Aadithya-kl/tinyinfer", "sha": "eeaa2d116442", "source": "readme", "identity": {"one_liner": "从零手写 CUDA 内核的 Llama 系推理引擎，可在笔记本 GPU 上本地运行", "review": "用约 2,200 行 C++/CUDA 实现的 Llama 家族模型推理引擎，不依赖 PyTorch 与 cuBLAS。热路径内核全部手写并与 CPU 参考实现对拍，参考实现再与 HuggingFace transformers 核验（logits 相对误差约 1e-3）。支持 f16/INT8/INT4 分组权重量化、flash-decoding attention、GQA 与 CUDA Graph 回放解码；.tinf 单文件封装配置、tokenizer 与权重。README 记录 RTX 3050 6GB 笔记本 GPU 上 TinyLlama q4 达 235 tok/s。需 NVIDIA Turing 及以上 GPU、CUDA Toolkit 12/13、CMake 编译；仅支持 Llama-2 家族 safetensors 检查点。", "highlights": ["手写 f16/q8/q4 GEMV、RMSNorm、fused RoPE+KV 写入、flash-decoding attention 内核", "分组 INT8/INT4 权重量化，TinyLlama-1.1B 约 0.7 GB、Llama-2-7B 约 3.8 GB 可在 6 GB GPU 运行", "CUDA Graph 一次捕获整个解码步并每 token 回放", "GPU 内核与 CPU 参考实现逐单元对拍，端到端与 transformers logits 核验"], "use_cases": ["在无 PyTorch 环境的笔记本 GPU 上本地运行 TinyLlama/Llama-2/Vicuna 对话模型", "学习 CUDA 内核优化（GEMV、attention、CUDA Graph）的可读参考实现", "对 Llama-2 家族 safetensors 检查点做 q4/q8 量化本地推理"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "high", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地推理", "CUDA内核", "量化", "llama"], "domain": "LLM 推理引擎/GPU 计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: **A from-scratch CUDA inference engine for Llama-family LLMs. Hand-written kernels, INT4/INT8 weight quantization, CUDA-", "L14: Tinyinfer runs chat models such as TinyLlama-1.1B, Llama-2-7B and Vicuna on a laptop GPU. It is", "L57: - **Cross-platform.** Windows (MSVC) and Linux (GCC), CUDA 12 and 13, GPUs from sm_75 (Turing) up."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-23", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Aadithya-kl/tinyinfer",
+ "sha": "eeaa2d116442",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从零手写 CUDA 内核的 Llama 系推理引擎，可在笔记本 GPU 上本地运行",
+  "review": "用约 2,200 行 C++/CUDA 实现的 Llama 家族模型推理引擎，不依赖 PyTorch 与 cuBLAS。热路径内核全部手写并与 CPU 参考实现对拍，参考实现再与 HuggingFace transformers 核验（logits 相对误差约 1e-3）。支持 f16/INT8/INT4 分组权重量化、flash-decoding attention、GQA 与 CUDA Graph 回放解码；.tinf 单文件封装配置、tokenizer 与权重。README 记录 RTX 3050 6GB 笔记本 GPU 上 TinyLlama q4 达 235 tok/s。需 NVIDIA Turing 及以上 GPU、CUDA Toolkit 12/13、CMake 编译；仅支持 Llama-2 家族 safetensors 检查点。",
+  "highlights": [
+   "手写 f16/q8/q4 GEMV、RMSNorm、fused RoPE+KV 写入、flash-decoding attention 内核",
+   "分组 INT8/INT4 权重量化，TinyLlama-1.1B 约 0.7 GB、Llama-2-7B 约 3.8 GB 可在 6 GB GPU 运行",
+   "CUDA Graph 一次捕获整个解码步并每 token 回放",
+   "GPU 内核与 CPU 参考实现逐单元对拍，端到端与 transformers logits 核验"
+  ],
+  "use_cases": [
+   "在无 PyTorch 环境的笔记本 GPU 上本地运行 TinyLlama/Llama-2/Vicuna 对话模型",
+   "学习 CUDA 内核优化（GEMV、attention、CUDA Graph）的可读参考实现",
+   "对 Llama-2 家族 safetensors 检查点做 q4/q8 量化本地推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "CUDA内核",
+   "量化",
+   "llama"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **A from-scratch CUDA inference engine for Llama-family LLMs. Hand-written kernels, INT4/INT8 weight quantization, CUDA-",
+   "L14: Tinyinfer runs chat models such as TinyLlama-1.1B, Llama-2-7B and Vicuna on a laptop GPU. It is",
+   "L57: - **Cross-platform.** Windows (MSVC) and Linux (GCC), CUDA 12 and 13, GPUs from sm_75 (Turing) up."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

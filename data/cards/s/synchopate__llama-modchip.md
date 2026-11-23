@@ -1,10 +1,10 @@
 # synchopate/llama-modchip
 
-⭐ 1,403 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/synchopate/llama-modchip) · [官网](https://synchopate.github.io/) · 组织维护
+⭐ 1,403 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/synchopate/llama-modchip) · [官网](https://synchopate.github.io/) · 个人维护
 
-**面向 16/32/64GB 内存的 CPU 优先 llama.cpp 推理引擎与压缩模型分发**
+**在纯 CPU 上运行 30B-284B 级 MoE 大模型的本地推理引擎**
 
-基于 llama.cpp 的推理引擎（v3.0），配合自研 MaxQ 压缩 GGUF 检查点，在纯 CPU（0 GPU）上运行 Qwen3.8-Flash-Next、DeepSeek-V4 284B、Nemotron-3.5 30B 等模型。单一二进制自动检测 RAM 档位与 CPU ISA（AVX-512/AVX2/ARM64 NEON/Apple Metal），内置 NextN MTP 投解码、Stockfish-PVS 投射采样、SSE 网关（:8787）与后台 llama-server（:8789）。提供 ./modchip 命令行管理 setup/chat/web/bench/eval 等操作，支持 Linux/macOS/Windows，并提供 Claude Code CLI 对接命令。提供可选 abliterated（消拒）检查点，需显式确认安装。
+基于 llama.cpp 的推理引擎与量化检查点集合，提供 16/32/64 GB 三档 RAM 分级的预量化 MoE 模型（Qwen3.8、DeepSeek-V4 284B、Nemotron-30B），通过 RouteCrack 2.0、量化 Split-KV 解码与 HARP-Cache 实现零 GPU 的 CPU 推理。单一二进制自动检测 CPU ISA（AVX-512/AVX2/NEON/Metal）、内存档位与模型家族，附带 ./modchip 脚本完成下载、启动 llama-server/SSE 网关、终端聊天、基准测试与 Claude Code 接线。需按预设采样参数运行。
 
 ## 筛选速览
 
@@ -14,22 +14,23 @@
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单一 v3.0 二进制自动检测 RAM 档位（16/32/64GB）与 CPU ISA
-- 内置 NextN MTP 投解码与 Stockfish-PVS v2 投射采样
-- 0 GPU 要求，DeepSeek-V4 284B 在 64GB RAM 内运行（57.99 GiB 占用）
-- MaxQ-32GB 通过 Cgroup v2 严格验证（≤28.5 GiB，mmap 需求分页 PLE 表）
+- 零 GPU 纯 CPU 解码，附 Cold Cgroup v2 内存峰值与 tok/s 基准数据
+- 单一二进制自动检测 CPU ISA 与 16/32/64 GB RAM 档位
+- 预量化 MaxQ 检查点含 512/512 未剪枝专家与 MTP 模块
+- ./modchip 一条命令完成下载、服务启动、聊天与评测
 
 ## 适用场景
 
-- 在 64GB 无独显的机器上本地运行 284B/大参数 MoE 模型
-- 在 16/32GB 消费级电脑上跑 30B 级 MoE 模型
-- 把 Claude Code CLI 接到本地推理引擎工作
+- 在没有 GPU 的机器上本地运行 30B-284B 级 MoE 模型
+- 按内存档位选择能完整装入本机 RAM 的量化检查点
+- 把本地引擎接到 Claude Code CLI 做终端编码助手
+- 跑 CPU 推理基准并生成可分享的评分卡
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L3: ### Unified 16 GB · 32 GB · 64 GB MaxQ Inference Engine for `Qwen3.8-Flash-Next`, `DeepSeek-V4 284B` & `Nemotron-3.5
-> L26: One unified `llama-modchip v3.0` binary (`GLIBC <= 2.30`, static `libstdc++` & `libgomp`, zero external OpenMP `.so
-> L75: |**`./modchip setup`**|Auto-detects RAM tier (`16 / 32 / 64 GB`) & CPU ISA, installs `v3.0` engine + SHA-256 verifi
+> L27: One unified `llama-modchip v3.2.0` binary (`GLIBC <= 2.30`, static `libstdc++` & `libgomp`, zero external OpenMP `.
+> L43: ./modchip setup    # Auto-detects 16GB / 32GB / 64GB RAM + CPU ISA, verifies SHA-256, writes start_server.sh
+> L79: |**`./modchip claude`**|Launches Claude Code CLI wired to the local engine with `/dev/shm` Slot-0 warm restore|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `ff0de4c223cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `5414f02b2f62` · [字段定义](../../DATASET.md)*

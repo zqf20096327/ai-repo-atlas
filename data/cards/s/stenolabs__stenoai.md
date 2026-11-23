@@ -2,9 +2,9 @@
 
 ⭐ 1,394 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/stenolabs/stenoai) · [官网](https://stenoai.co/) · 组织维护
 
-**隐私优先的本地 AI 会议记录应用，供保密场合录音转写与摘要**
+**面向机密会议的本地 AI 记事本与会议记录工具**
 
-面向政府、国防及高管等保密需求的桌面 AI 记事应用：在设备本地完成录音、实时转写（Apple Silicon 上用 Parakeet TDT v3，Whisper Large V3 Turbo 处理更多语言）、说话人分离与摘要（默认经 Ollama 运行 gemma4 等模型），输出可编辑的 Markdown 笔记，支持笔记问答与图表。云端模型（OpenAI/Anthropic/Bedrock/自定义端点）为可选项。macOS 提供 DMG 安装（Apple Silicon，macOS 14.4+），Windows 10/11 x64 为 alpha 版本。
+隐私优先的桌面端 AI 会议记事本，默认在本机完成录音转写、摘要与问答：实时转写用 Parakeet TDT v3（Apple Silicon/MLX），录音结束后 Whisper 支持最多 99 种语言；摘要与聊天经 Ollama 运行 Gemma、Qwen、gpt-oss 等本地模型。提供说话人分离、自动检测会议、系统音频采集、Markdown 导出与报告模板。云模型（OpenAI/Anthropic/Bedrock/自定义端点）与云转写为可选并需确认。Windows 处于 alpha，macOS 需 Apple Silicon 与 macOS 14.4+。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 本地运行转写与摘要模型，数据不出设备，云端模型为可选
-- 实时说话人标签与录后声道分离，语音档案仅存本机
-- 99 种语言转写（Whisper）+ 25 种欧洲语言实时转写（Parakeet）
-- 笔记问答、图表生成、报告模板与 .stenomeeting 包导入导出
+- 默认本地 AI：录音、转写、摘要、问答均在设备上处理
+- Parakeet 实时转写 25 种欧洲语言，Whisper 支持总计 99 种语言
+- /steno agent 技能让 Claude Code/Codex 读取本地笔记并跨会议问答
+- 可选云模型：OpenAI、Anthropic、AWS Bedrock 或自定义端点
 
 ## 适用场景
 
-- 在保密会议中本地录音并自动生成摘要与行动项
-- 对历史会议笔记提问或生成周报
-- 在不联网环境下完成转写与总结
+- 政府与国防等场景下对机密会议做本地转写与摘要
+- 自动检测会议开始并录制、生成会议纪要
+- 通过提问检索和汇总跨多次会议的笔记与行动项
+- 从 Granola 迁移并同步既有会议笔记
 
 ## 场景标签
 
-`语音识别` `知识库管理` `文档问答` · 领域:知识与检索
+`知识库管理` `语音识别` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L15:  StenographAI is the privacy-first AI notepad for all your confidential conversations. No cloud, no usage limits an
+> L15:  StenographAI is a privacy-first AI notepad for confidential conversations. Record, summarise, and query meetings w
 > L42: - **Privacy-first**: local AI processes your recordings, transcripts, and summaries on your device. External AI pro
-> L162: - `Parakeet TDT v3` (572 MB): Highest quality, supports live transcription, 25 European languages (English, Spanis
+> L165: - `Parakeet TDT v3` (572 MB): Highest quality, supports live transcription, 25 European languages (English, Spanis
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `491a8b1c51a3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e51242b2ee44` · [字段定义](../../DATASET.md)*

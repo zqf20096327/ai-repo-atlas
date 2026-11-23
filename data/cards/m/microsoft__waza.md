@@ -2,9 +2,9 @@
 
 ⭐ 1,518 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/waza) · [官网](https://microsoft.github.io/waza/) · 组织维护
 
-**评估 agent 技能与工作流的 Go CLI：创建、测试、度量技能质量**
+**面向开发者的 AI agent 工作流评测 CLI：可复现场景、评分与证据**
 
-面向 agent 技能开发者的评估工具链：以 SKILL.md 定义技能，用 waza new 生成技能与评估套件脚手架，通过 preflight（离线静态检查）、run、grade、gate 等命令执行带评分的试运行并检查证据，支持 repository/CLI/MCP 三类场景模板、CI 回归门禁与 opt-in 仪表盘 Lab。执行器包含 copilot-sdk（捆绑 GitHub Copilot CLI）与 mock；README 明确 mock 只验证框架本身而非 agent 质量。提供二进制安装脚本、azd 扩展与源码构建（需 Go/Make/Node/npm）三种安装方式。
+微软出品的 Go 命令行工具，用于对 agent 工作流、技能与自定义 agent 做评测：编写仓库/CLI/MCP 场景，运行带评分器的分级试验，收集证据并接入 CI 回归门禁。提供安装脚本、waza update 自更新与可选源码构建；另有 azd 扩展分发形式。内置执行溯源、checkpoint 恢复、聚合与 OTLP 遥测导出等机制；发布版本默认开启产品使用遥测，可通过多种方式关闭。Mock 结果仅验证测试框架本身，不代表真实 agent 质量。
 
 ## 筛选速览
 
@@ -15,21 +15,21 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- waza init/new 脚手架生成技能定义与评估套件，含 CI/CD 工作流
-- preflight 离线无 agent 检查 schema、任务 ID、grader 配置
-- repository/cli/mcp 三类场景模板与带评分的试运行
-- 捆绑 GitHub Copilot CLI 的 copilot-sdk 执行器，另有 mock 执行器
+- 可复现评测场景 + 评分器 + 证据留存的 CLI 评测框架
+- CI 回归门禁与 azd 扩展两种集成方式
+- checkpoint 创建/恢复与执行 lineage、OTLP 遥测导出
+- 自动版本检查与 waza update 自更新
 
 ## 适用场景
 
-- 为 agent 技能编写评估套件并度量有效性
-- 在 CI 中对技能改动运行回归门禁
-- 离线静态校验评估配置后再执行
+- 为 agent 工作流建立可重复的评测与回归基线
+- 在 CI 中加入评测门禁防止 agent 行为回退
+- 用 agent 辅助编写与维护评测规格
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L3: A Go CLI for evaluating agent workflows, skills, and custom agents — author repository, CLI, and MCP scenarios, run 
-> L133: ### `waza preflight <eval.yaml>`
+> L17: → CI regression gates.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `7c7406e0f3e3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `18b50d2cb7e0` · [字段定义](../../DATASET.md)*

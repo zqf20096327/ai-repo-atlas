@@ -2,9 +2,9 @@
 
 ⭐ 4,097 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/anthropic-sdk-python) · 组织维护
 
-**Anthropic 官方 Python SDK，供应用访问 Claude API**
+**供 Python 应用接入 Claude API 的官方 SDK**
 
-由 Anthropic 官方维护的 Python 库，封装 Claude API 的调用，提供客户端类、工具辅助（@beta_tool、tool runner、ToolError）及浏览器与计算机工具集类的单独文档。内置 OpenTelemetry 集成，每次 API 调用上报为 span，依赖 opentelemetry-api，可通过环境变量控制 span 开关、内容记录与字节数上限。要求 Python 3.10+，MIT 许可，通过 pip 安装。
+Anthropic 官方 Python SDK，为 Python 应用提供访问 Claude API 的入口：pip 安装后导入客户端即可发起请求。README 要求 Python 3.10+，完整文档托管在 platform.claude.com。采用 Apache 2.0 许可，从 MIT 变更前的旧版本及此前合并的第三方贡献仍保留 MIT 许可，提供 v1 迁移指南。
 
 ## 筛选速览
 
@@ -20,25 +20,23 @@
 
 ## 能力要点
 
-- 提供 Claude API 的 Python 客户端访问
-- 工具辅助与浏览器/计算机工具集类
-- 内置 OpenTelemetry span 上报，环境变量可配置
-- MIT 许可，要求 Python 3.10+
+- 从 Python 应用访问 Claude API 的官方 SDK
+- 提供 v1 迁移指南（0.x 升级）
+- Apache 2.0 许可，历史版本保留 MIT
 
 ## 适用场景
 
 - 在 Python 应用中调用 Claude API
-- 通过 OpenTelemetry 追踪 LLM API 调用
-- 构建带工具调用的 Claude 应用
+- 将旧版 0.x SDK 升级到 v1
 
 ## 场景标签
 
- · 领域:LLM API/开发库
+ · 领域:LLM 基础设施/API 客户端
 
 ## 证据(README 行号)
 
-> L5: The Claude SDK for Python provides access to the Claude API from Python applications.
-> L16: pip install anthropic
+> L5: The Anthropic SDK for Python provides access to the Claude API from Python applications.
+> L14: pip install anthropic
 
 ## 星数曲线
 
@@ -54,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `9990d3a64e68` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `613a3c663135` · [字段定义](../../DATASET.md)*

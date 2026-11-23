@@ -2,9 +2,9 @@
 
 ⭐ 1,846 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wzc520pyfm/ant-design-x-vue) · [官网](https://ant-design-x-vue.netlify.app/) · 个人维护 · 中文 README
 
-**Ant Design X 的 Vue 实现：构建 AI 对话界面的组件库**
+**Ant Design X 的 Vue 实现：AI 对话界面组件库**
 
-将 React 版 Ant Design X 组件库移植到 Vue 生态的 UI 组件库，面向需要搭建 AI 对话/LUI 页面的 Vue 开发者。提供 Bubble、XProvider 等组件，覆盖 AI 对话场景组件、数据流管理功能、多种应用模板，可对接符合 OpenAI 标准的模型推理服务。使用 TypeScript 开发并提供完整类型支持，支持细粒度样式调整。通过 npm/yarn/pnpm 安装，需搭配 ant-design-vue 使用，MIT 许可。
+将 Ant Design X（原 React 版）移植到 Vue 的 UI 组件库，基于 RICH 交互范式提供对话类组件（如 Bubble、XProvider），覆盖 AI 对话场景，附数据流管理功能与多种应用模板。采用 TypeScript 开发并支持细粒度样式定制，可对接符合 OpenAI 标准的模型推理服务。通过 npm/yarn/pnpm 安装，面向使用 Vue 构建聊天界面的前端开发者。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- AI 对话场景组件（Bubble、XProvider 等）的 Vue 实现
-- 数据流管理功能与多种 LUI 应用模板
-- 可对接符合 OpenAI 标准的模型推理服务
-- TypeScript 开发，提供完整类型支持
+- 基于 RICH 交互范式的 AI 对话组件（Bubble、XProvider 等）
+- 提供数据流管理与多种 LUI 应用模板
+- TypeScript 开发，完整类型支持
+- 对接符合 OpenAI 标准的模型推理服务
 
 ## 适用场景
 
-- 在 Vue 项目中搭建 AI 聊天/对话界面
-- 对接 OpenAI 标准模型服务并快速启动 LUI 应用开发
-- 复用模板快速构建个性化 AI 交互页面
+- 为 Vue 项目快速搭建 AI 聊天/对话界面
+- 构建个性化 AI 交互页面（LUI 应用）
+- 接入 OpenAI 标准兼容的推理服务做前端展示
 
 ## 场景标签
 
- · 领域:前端/AI 界面组件
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `562dc1067322` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a8f150cfd895` · [字段定义](../../DATASET.md)*

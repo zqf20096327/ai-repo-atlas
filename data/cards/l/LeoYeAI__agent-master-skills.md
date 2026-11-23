@@ -2,9 +2,9 @@
 
 ⭐ 2,220 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LeoYeAI/agent-master-skills) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
-**2700+ 条 agent 技能策展清单，适配多 agent 运行时**
+**面向 agent 运行时的技能策展合集（3200+，每日更新）**
 
-由 MyClaw.ai 维护的 Agent Skills 策展仓库：收录 2703+ 个遵循 Agent Skills 规范（skills/<name>/SKILL.md 目录结构）的技能，按 AI 工具、搜索、办公效率等类别组织索引，声称每日更新。技能本体与运行时解耦，可被 Claude Code、Codex CLI、Cursor、Gemini CLI、OpenClaw 等读取该格式的 agent 运行时消费；提供 clawhub 一键安装或 git clone 后按各 harness 的技能目录放置。
+由 MyClaw.ai 维护的 Agent Skills 合集，收录覆盖 AI、搜索、办公等领域的 SKILL.md 格式技能，README 标注每日更新。主打 harness-agnostic：每个技能为符合 Agent Skills 规范的文件夹，可被 Claude Code、Codex、Cursor、Gemini CLI、OpenClaw 等任何读取该格式的运行时消费；给出各运行时的项目级与全局技能目录对照表。整体安装用 clawhub 命令，单个技能通过 git clone 后复制；README 提供分类技能索引（如 AI & LLM Tools 50 条、Search & Web 21 条）。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 2703+ 技能，harness 无关，遵循 SKILL.md 规范
-- 列出 13+ 种 agent 运行时的项目级与全局技能目录路径
-- clawhub 一键安装整个集合或 git clone 复制单个技能
+- SKILL.md 标准格式，兼容任意读取该格式的 agent 运行时
+- 提供 13 个 harness 的技能目录对照表
+- 分类技能索引（AI/搜索/办公等类别）
+- clawhub 一键安装或 git clone 复制单个技能
 
 ## 适用场景
 
-- 为我的 Claude Code / Cursor / Codex 等 agent 补充领域技能
-- 浏览现成技能避免重复编写提示词与工具配置
-- 查找搜索、文档处理、图像生成等常用任务的技能实现
+- 为我的 Claude Code / Cursor 等运行时批量补充技能
+- 按类别查找现成的搜索、文档处理类 agent 技能
+- 了解 agent skills 生态中有哪些可用技能
 
 ## 场景标签
 
@@ -36,6 +37,7 @@
 
 ## 证据(README 行号)
 
+> L14: **MyClaw.ai** is an AI personal assistant platform that gives every user a fully-featured AI agent running on a ded
 > L20: This is a **harness-agnostic** collection: every skill is a plain `SKILL.md`
 > L64: ## 📦 Skill Index (388 curated skills)
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `7ae48ec0f8d2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0deee733cd76` · [字段定义](../../DATASET.md)*

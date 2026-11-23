@@ -2,9 +2,9 @@
 
 ⭐ 1,479 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionERP) · [官网](https://openconstructionerp.com) · 组织维护
 
-**自托管建筑造价与项目管理 ERP，带 AI 估价功能**
+**面向建筑行业的开源 ERP：算量、BOQ 与 5D 成本估算**
 
-面向建筑企业的开源（AGPL-3.0）一体化平台：工程量清单（BOQ）、CAD/BIM/PDF 算量、4D 进度、5D 成本模型与招投标管理。内置 120,000+ 条价格数据覆盖 40+ 市场、支持 44 种语言与 30+ 区域标准。采用 WordPress 式模块市场架构（190+ 模块），AI 部分通过接入任意 LLM 供应商（Anthropic/OpenAI/Gemini/Mistral/Groq/DeepSeek）实现智能估价，AI 之外的核心业务功能独立存在。提供桌面安装包、pip 与 Docker 三种安装方式。
+自托管的开源建筑工程 ERP 平台，覆盖 BOQ 编辑、IFC/Revit/DWG/PDF 算量、4D 进度计划、5D 成本与招投标管理。内置 120,000+ 条价格项（覆盖 40+ 市场的 9 个成本库）、240+ 模块、DIN 276/NRM/MasterFormat 等规则校验引擎，UI 提供 45 种语言。可通过桌面安装包、pip 或 Docker 部署，无需额外配置数据库；AGPL-3.0 许可，支持 REST API。AI 部分支持接入多家 LLM 生成估算与 PDF 算量。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- BOQ/CAD/BIM/PDF 算量与 4D/5D 成本建模一体化
-- 120,000+ 价格条目、44 语言、30+ 区域标准
-- 可接入多种 LLM 供应商做 AI 估价
-- 190+ 模块的插件式市场架构，自托管
+- 从 IFC/Revit/DWG/PDF 提取工程量并关联到构件
+- 接入多家 LLM 供应商（Anthropic/OpenAI/Gemini/Mistral/Groq/DeepSeek）
+- 120,000+ 价格项覆盖 40+ 市场，含中国、土耳其、巴西等 8 个国家成本库
+- DIN 276、NRM、MasterFormat 规则校验并输出质量评分
 
 ## 适用场景
 
-- 建筑公司自托管管理预算、招投标与进度
-- 从 DWG/PDF/BIM 图纸提取工程量并估价
-- 多国家/多语言团队按当地标准做成本控制
+- 从 BIM 模型或图纸直接提量并生成报价清单
+- 自托管管理项目财务、进度与招投标数据
+- 用文本、照片或表格快速生成初步估算
+- 多语言、多国家标准下的跨境工程报价
 
 ## 场景标签
 
- · 领域:建筑工程/造价管理 ERP
+ · 领域:建筑/工程成本管理
 
 ## 证据(README 行号)
 
-> L5: OpenConstructionERP - open-source construction ERP for BOQ, BIM takeoff, DWG/PDF quantification and 5D cost modeling
-> L146: |**AI-powered**|Connect any LLM provider (Anthropic, OpenAI, Gemini, Mistral, Groq, DeepSeek) for smart estimation
+> L7: **The open-source construction ERP.** BOQ, BIM and CAD takeoff, 4D scheduling, 5D cost and tendering in one self-hos
+> L122: |**AI-powered**|Connect any LLM provider (Anthropic, OpenAI, Gemini, Mistral, Groq, DeepSeek) for smart estimation
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8f2a851f5c5f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `353aff32c11e` · [字段定义](../../DATASET.md)*

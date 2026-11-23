@@ -2,9 +2,9 @@
 
 ⭐ 1,372 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ThousandBirdsInc/chidori) · [官网](https://thousandbirdsinc.github.io/chidori/) · 组织维护
 
-**默认可持久化、可重放、可恢复的 TypeScript agent 运行时框架**
+**面向开发者的可持久化、可回放、可恢复的 TypeScript agent 框架**
 
-用普通 async/await TypeScript 编写 agent，由一个自包含的 Rust 二进制运行时执行：所有 LLM 调用、工具调用与 HTTP 请求都作为被记录的 host call 经过运行时，因此任意一次运行都可落盘 checkpoint、零 LLM 调用地按字节重放、崩溃后在新进程中恢复，或挂起等待人工输入后继续。内嵌纯 Rust JavaScript 引擎，无需 Node/Deno，提供 TypeScript 与 Python SDK（可选）。默认运行时对工具调用、网络与写盘要求终端按键批准，CI 等场景需 --trusted。
+以 Rust 二进制为核心的 agent 运行时：agent 用普通 async TypeScript 编写，所有副作用（LLM 调用、工具调用、HTTP 请求）经由运行时记录为 host call，从而支持将运行 checkpoint 到磁盘、零 token 调用回放得到逐字节一致输出、崩溃后在新进程内恢复。内嵌纯 Rust JavaScript 引擎，无需 Node；提供 TypeScript 与 Python SDK。写法上不使用图或 DSL，运行时通过固定时钟与种子随机性强制确定性。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 所有副作用作为 recorded host call，运行可 checkpoint/重放/恢复
-- 重放零 LLM 调用且字节级一致（固定时钟、种子随机）
-- 单个 Rust 二进制 + 内嵌纯 Rust JS 引擎，无 Node、无原生绑定
-- 默认对工具调用/网络/写盘做审批门控，--trusted 可跳过
+- 每次运行默认 checkpoint，可在崩溃后新进程中恢复
+- 回放零 LLM 调用且输出逐字节一致（固定时钟、种子随机性）
+- 一个自包含 Rust 二进制，内嵌纯 Rust JS 引擎，无 Node/Deno/V8
+- OpenAI 与 Anthropic 两种兼容协议均可接入任意端点
 
 ## 适用场景
 
-- 构建崩溃后可从中断点恢复的长时间运行 agent
-- 把录制的运行提交到 git 作为零成本集成测试
-- 让多步 agent 挂起等待人工审批数小时后再继续
-- 对 agent 运行做免 token 消耗的调试复现
+- 调试多步 agent 运行且需精确复现问题
+- 在 CI 中以 checkpoint 作为零成本集成测试
+- 需要人工审批的长时 agent 暂停与恢复
+- 接入自建或第三方 OpenAI 兼容端点运行 agent
 
 ## 场景标签
 
-`Agent 框架` `LLM 可观测性` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L7:  Write agents as plain async TypeScript. Every side effect — every LLM call, tool call, and
-> L39: The trick is a single boundary. Every side effect an agent performs — every LLM
+> L5:  The agent framework where every run is durable, replayable, and resumable by default.
 > L92: Chidori is **one self-contained binary** — the runtime that runs your agents.
 
 ## 星数曲线
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `e8cb778d4740` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `172d581a54aa` · [字段定义](../../DATASET.md)*

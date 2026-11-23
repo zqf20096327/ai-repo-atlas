@@ -2,9 +2,9 @@
 
 ⭐ 1,860 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ggml-org/Llama-macOS) · [官网](https://llama.app) · 组织维护
 
-**macOS 菜单栏应用：本地运行 LLM 并提供 OpenAI 风格 API**
+**macOS 菜单栏应用：本地运行与管理 LLM**
 
-面向 macOS 用户的本地 LLM 运行应用：基于 llama.cpp 在本机启动服务器（http://localhost:9931/v1），自动配置模型参数并按需加载/卸载以节省内存。支持安装任意 Hugging Face GGUF 模型、推荐适配硬件的模型，模型存于 Hugging Face 缓存与 llama.cpp 共享。内置 WebUI 聊天，可接入编码代理、编辑器等应用，支持通过 models.user.ini 自定义 llama serve 参数，以及 Tailscale/局域网网络访问选项。仅限 macOS，通过 brew cask 或 Releases 安装。
+ggml-org 出品的 macOS 菜单栏应用，在本地运行 LLM。启动后在 localhost:9931 暴露 OpenAI 风格 API，内置 WebUI 聊天，也可供其他应用（编码 agent、聊天 UI、编辑器）接入。基于 llama.cpp 构建，可复用已装的 llama.cpp 二进制与 Hugging Face 缓存，按 Mac 硬件推荐并一键安装 GGUF 模型，模型按需加载、空闲卸载。应用本体 4 MB，提供 brew cask 安装。
 
 ## 筛选速览
 
@@ -20,24 +20,24 @@
 
 ## 能力要点
 
-- 本机运行 LLM 并暴露 OpenAI 风格 API（localhost:9931/v1）
-- 基于 llama.cpp，模型存于 Hugging Face 缓存，与 llama.cpp 共享
-- 按硬件自动配置模型参数，模型按需加载、空闲时卸载
-- models.user.ini 自定义 llama serve 参数与网络访问（Tailscale/局域网）
+- 100% 本地运行，数据不出 Mac
+- 内置 WebUI 与标准 API（/v1/chat/completions）
+- 按硬件推荐模型并一键安装 GGUF
+- models.user.ini 自定义模型参数与草稿模型
 
 ## 适用场景
 
-- 在 Mac 上本地运行 LLM 并通过 API 供其他应用调用
-- 通过内置 WebUI 与本地模型对话
-- 让编码代理、编辑器等工具接入本地模型服务
+- 在 Mac 上托管本地模型供编码 agent 等工具调用
+- 通过 WebUI 与任意本地 GGUF 模型对话
+- Tailscale 下从其他设备访问家中模型
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L19: When you start Llama, it runs a local server at `http://localhost:9931/v1`.
+> L3: Llama is a macOS menu bar app for running local LLMs.
 > L21: If you have llama.cpp installed, Llama uses it. Otherwise, it installs a prebuilt binary for your Mac. Models you'v
 > L23: You can chat with any model in the built-in WebUI, connect other apps (coding agents, chat UIs, editors), or use th
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cad60ce5e215` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1d9899f9e0f6` · [字段定义](../../DATASET.md)*

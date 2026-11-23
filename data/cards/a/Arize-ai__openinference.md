@@ -2,9 +2,9 @@
 
 ⭐ 1,333 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Arize-ai/openinference) · [官网](http://openinf.dev/) · 组织维护
 
-**为 AI 应用提供 OpenTelemetry 兼容追踪规范的插桩库集合**
+**为 AI 应用提供 OpenTelemetry 追踪的插桩规范与库集合**
 
-OpenInference 提供一套与 OpenTelemetry 互补的约定（规范）和插桩插件，用于对 AI 应用进行追踪：记录 LLM 调用、向量检索、外部工具使用等上下文。规范以 markdown 编辑，传输与文件格式无关。以 Python/JavaScript/Java/Go 多语言库形式提供，覆盖 OpenAI、LangChain、LlamaIndex、Ollama 等数十个 SDK 与框架的专用插桩，以及 Span Processor 跨库数据统一；由 Arize 维护，原生支持 Arize Phoenix/AX 后端，也可用于任何 OpenTelemetry 兼容后端。
+基于 OpenTelemetry 构建的 AI 可观测性项目：定义规范（specification）规定 LLM 调用、agent、工具、检索与嵌入在 trace 中的 span 类型与属性，并生成机器可读的 schema registry。按规范提供 Python、JavaScript、Java、Go 四种语言的插桩库，自动追踪主流模型 SDK 与 agent 框架的调用过程；另提供 Span Processor 统一 OpenLIT、OpenLLMetry 等其他插桩库的数据。轨迹可被 Arize Phoenix、Arize AX 及任意兼容 OpenTelemetry 的后端读取。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ OpenInference 提供一套与 OpenTelemetry 互补的约定（规范）和插桩
 
 ## 能力要点
 
-- 提供与 OpenTelemetry 互补的 AI 追踪规范，传输与文件格式无关
-- 数十个 SDK/框架的专用插桩包（OpenAI、LangChain、LlamaIndex、Bedrock、Ollama 等）
-- 支持 Python/JavaScript/Java/Go 多语言发布（PyPI/npm/Maven）
-- Span Processor 用于统一 OpenLIT、OpenLLMetry 等其他插桩库的数据
+- OpenInference 规范定义 LLM/agent/工具/检索 span 与属性约定，并以 schema registry 形式版本化发布
+- 提供 Python、JavaScript、Java、Go 四语言的插桩库，覆盖数十个模型 SDK 与 agent 框架
+- 原生支持 Arize Phoenix 与 Arize AX，兼容任意 OpenTelemetry 后端
+- 提供 Span Processor 归一 OpenLIT 与 OpenLLMetry (Traceloop) 的 trace 数据
 
 ## 适用场景
 
-- 为我的 LLM 应用接入 OpenTelemetry 追踪
-- 将 LangChain/LlamaIndex 等框架的调用链路发送到 Phoenix 等可观测后端
-- 统一多个追踪插桩库产生的 span 数据
+- 为 LLM 应用加入分布式追踪，记录每次模型调用、工具使用与检索步骤
+- 统一不同框架产生的 trace 格式，便于跨框架对比分析
+- 将 agent 应用的调用链路接入现有 OpenTelemetry 观测后端
 
 ## 场景标签
 
@@ -37,10 +37,9 @@ OpenInference 提供一套与 OpenTelemetry 互补的约定（规范）和插桩
 
 ## 证据(README 行号)
 
-> L12: OpenInference is a set of conventions and plugins that is complementary to OpenTelemetry to
-> L13: enable tracing of AI applications. OpenInference is natively supported
-> L26: OpenInference provides a set of instrumentations for popular machine learning SDKs and frameworks in a variety of
-> L27: languages.
+> L9: OpenInference builds on OpenTelemetry to trace AI agents: their LLM calls, tool use,
+> L27: Instrumentation libraries trace popular model providers and agent frameworks automatically, following the
+> L28: specification. They are available for Python, JavaScript, Java and Go.
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `72086d534dbf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `35c4c67c19cb` · [字段定义](../../DATASET.md)*

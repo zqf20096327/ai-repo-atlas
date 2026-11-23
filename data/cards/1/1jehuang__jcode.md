@@ -2,9 +2,9 @@
 
 ⭐ 21,987 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/1jehuang/jcode) · [官网](https://jcode.sh) · 个人维护
 
-**为重度多 agent 开发工作流设计的 Rust 编码 agent 运行壳**
+**面向重度多 Agent 工作流的 Rust 编码 Agent 运行框架**
 
-用 Rust 编写的编码 agent 工具（TUI/CLI），主打在单机上并行运行数十个 agent 会话，官方基准数据列出各会话的内存占用与首输入延迟。核心机制：由服务端管理同一仓库内的多 agent 协作，包括文件变更通知、agent 间私信与广播消息、冲突协调；agent 可通过 swarm 工具自主生成子 agent 形成协调者-工作者结构。支持 Claude OAuth 与 OpenAI Codex OAuth 等多种 provider，提供 self-dev 模式让 agent 修改自身源码并重建重载。macOS/Linux 通过脚本安装。
+以 Rust 编写的终端 TUI 编码 Agent 工具，主打在同一仓库并行运行数十个 Agent 会话：内置服务器管理多 Agent 协作，当 Agent A 修改了 Agent B 已读取的文件时通知后者并可自动解决冲突；Agent 间支持私信、广播与自主生成 Swarm 分工。支持 Claude 与 OpenAI Codex 的 OAuth 接入，提供会话恢复菜单、内联图片与 LaTeX 渲染、KV cache 与 token 优化。安装提供 macOS/Linux 脚本，支持 stable/prerelease 更新通道与热更新。README 中性能数据为自测基准。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,26 +27,26 @@
 
 ## 能力要点
 
-- 服务端管理的多 agent 协作：文件冲突通知、DM 与广播消息
-- agent 可自主 spawn swarm 子 agent，支持 headless/headed
-- 支持 Claude OAuth 与 OpenAI Codex OAuth
-- self-dev 模式：agent 编辑、构建、测试并重载自身二进制
+- 多 Agent 同仓库并行协作，服务器管理冲突通知与解决
+- Agent 可自主 spawn Swarm，主 Agent 转为协调者
+- 支持 Claude OAuth 与 OpenAI Codex OAuth 多提供商
+- self-dev 模式：Agent 修改自身源码并重载二进制
 
 ## 适用场景
 
-- 在同一仓库并行跑多个编码 agent 会话
-- 让多 agent 团队自动协调处理代码变更冲突
-- 低内存环境下批量运行无头 agent
+- 在同一代码仓库同时运行多个编码 Agent 并行开发
+- 让 Agent 自主组建 Swarm 分工完成任务
+- 在低内存机器上并行开多个 Agent 会话
 
 ## 场景标签
 
-`编码 Agent` `多智能体` `工作流自动化` · 领域:Agent 开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7:  High-performance coding agents.
-> L79: Spawn two or more agents in the same repo, and they will automatically be managed by the server to allow native col
-> L85: Supports a wide range of providers, including Claude OAuth and OpenAI Codex OAuth.
+> L83: Spawn two or more agents in the same repo, and they will automatically be managed by the server to allow native col
+> L89: Supports a wide range of providers, including Claude OAuth and OpenAI Codex OAuth.
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e3d5c1ba889c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d2f4fe09a219` · [字段定义](../../DATASET.md)*

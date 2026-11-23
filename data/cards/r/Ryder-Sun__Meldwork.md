@@ -2,9 +2,9 @@
 
 ⭐ 1,601 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Ryder-Sun/Meldwork) · [官网](https://ryder-sun.github.io/Meldwork/) · 个人维护 · 中文 README
 
-**本地优先的多 AI 编码 agent 协作桌面工作台**
+**本地多 Agent 协作工作台：让已有 Agent 共同推进任务**
 
-面向 macOS（Apple silicon）的 Electron 桌面应用，用于编排本机已安装的 12 种 AI 编码 agent CLI（Codex、Claude Code、Gemini CLI、Qwen Code 等）。提供三种协作模式：Direct 单 agent 会话、Concurrent Responses 同任务多 agent 独立回复、Auto Discussion V4 多轮讨论。核心机制为冻结任务快照分发给各 agent、将发现结构化为证据链（Finding→Evidence→Decision→Disposition），文件写入前需人工审批。以非商用源码可得许可发布，商业使用需书面许可。
+面向 Mac 的本地 Electron 应用，把用户已使用的 Agent 工具组成协作小组：用户选定参与者、目标、上下文与权限后，Agent 在 Auto Discussion 中并行提案、讨论、请求同伴贡献、执行授权范围内工作并互相检查交付物。提供 Direct、Concurrent Responses、Auto Discussion V4 三种协作模式，Run Ledger 记录阶段、参与者、产物与人工审批状态；协作历史与运行状态存储在本地。参与者需用户手动选定，尚不支持从更大名单自动选择。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 冻结同一任务快照分发给多个 agent CLI 并行处理
-- 结构化证据链记录（Finding→Evidence→Decision→Disposition）与人工采纳门控
-- 支持 12 种本地 agent CLI，可通过 Agent Connector SDK 扩展
-- 三种协作模式：Direct / Concurrent Responses / Auto Discussion V4
+- 三种协作模式：Direct、Concurrent Responses（同一冻结快照独立响应）、Auto Discussion V4（并行提案+讨论+互查）
+- Run Ledger 保留阶段、参与者、attempt、artifact、恢复与 Human Gate 状态
+- 本地 Electron 应用，渲染进程仅通过窄 preload API 接收校验后的快照
+- 知识访问显式且受限：支持本地 Obsidian 检索与 CLI 拥有的 Feishu/DingTalk 访问模式
 
 ## 适用场景
 
-- 让多个 AI 编码 agent 对同一任务给出独立回复并对比
-- 代码评审或方案分析前获得多 agent 独立证据链
-- 对多 agent 协作过程留痕、审计并在写文件前人工把关
+- 多个 Agent 需要共同推进同一研究、分析或写作任务时减少人工传话
+- 让多个 Agent 对同一任务快照给出独立响应以比较视角
+- 在授权工作区内执行实现任务并由其他 Agent 检查交付物
 
 ## 场景标签
 
-`多智能体` `代码审查` `编码 Agent` · 领域:Agent 开发
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L7: **Coordinate Codex, Claude Code, Gemini CLI, and 9 more agent CLIs from one desktop workspace. Stop manually copying
-> L9: Meldwork is a local-first multi-agent orchestration desktop app for macOS (Apple silicon). It connects the AI coding
-> L45: Meldwork is a local-first multi-agent orchestration desktop app — not a terminal multiplexer, cloud agent fleet, co
+> L7: Meldwork is a local-first multi-Agent collaboration workspace for the Agent tools you already use on your Mac. Once 
+> L56: Meldwork keeps task context, Agent replies, run state, and deliverables locally so you can see how work progressed,
+> L84: Meldwork runs as a local Electron application. Conversations, group configuration, run records, and app-owned attac
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `61fafd6c28e0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `562b7bd9f891` · [字段定义](../../DATASET.md)*

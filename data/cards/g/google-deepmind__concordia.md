@@ -2,9 +2,9 @@
 
 ⭐ 1,918 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/google-deepmind/concordia) · 组织维护
 
-**生成式社会模拟库：用 LLM 驱动 agent 在环境中交互**
+**生成式社会模拟库：构建基于 LLM 的多智能体社会仿真**
 
-Google DeepMind 维护的 Python 库，用于构建与运行生成式 agent 社会模拟：实体以自然语言描述意图，Game Master 实体翻译为环境结果并检查物理合理性。实体由组件（记忆、指令、行动选择）构成，提供预置 prefab 与 GUI/CLI 编辑界面。支持社会科学、AI 安全、经济学、合成数据生成等应用。运行需接入标准 LLM API 与文本嵌入器，任何支持采样的 LLM API 均可配合。
+Concordia 是一个用于构建与运行生成式智能体模拟的 Python 库，采用桌面角色扮演游戏式交互模式：Game Master 实体模拟环境，玩家实体以自然语言描述行动并由 GM 判定结果。模拟由实体、组件、Prefab 模板与引擎组织，支持回合制、同步与异步执行。需访问一个支持文本采样的 LLM API，并需提供文本嵌入器用于联想记忆，另有 GUI 与 CLI 编辑器。面向社会科学、AI 安全、认知神经科学、经济学等研究场景。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ Google DeepMind 维护的 Python 库，用于构建与运行生成式 agent 社�
 
 ## 能力要点
 
-- Game Master 模式模拟环境并裁决实体行动结果
-- 实体-组件架构与预置 prefab 模板
-- 模块包含记忆系统、LLM 集成封装与 prompt 管理工具
-- 提供 GUI/CLI 编辑器、教程与 Colab 示例
+- Game Master/玩家实体分工的桌游式交互模拟模式
+- 实体-组件架构与预置 Prefab 模板可参数化实例化
+- 支持任意可采样文本的 LLM API（bring your own LLM）
+- 提供 GUI/CLI 实体组件编辑器与教程示例
 
 ## 适用场景
 
-- 搭建社会科学或经济学领域的生成式 agent 模拟
-- 生成合成数据用于个性化或服务评估
-- 研究 AI 安全与伦理场景下的 agent 行为
+- 开展社会科学中的生成式智能体仿真实验
+- 为个性化场景生成合成数据
+- 通过模拟使用评估真实服务的表现
+- AI 安全与伦理相关研究中的智能体行为模拟
 
 ## 场景标签
 
-`多智能体` `Agent 框架` · 领域:Agent 开发
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L15: Concordia is a library for constructing and running generative agent-based
 > L59: * **`concordia/language_model`**: LLM
+> L140: Concordia requires access to an LLM API. Any LLM API that supports sampling
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6509e707b2e0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c05f9cae2d90` · [字段定义](../../DATASET.md)*

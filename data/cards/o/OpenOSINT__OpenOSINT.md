@@ -2,9 +2,9 @@
 
 ⭐ 1,960 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/OpenOSINT/OpenOSINT) · [官网](https://openosint.tech) · 组织维护
 
-**面向安全研究者的 OSINT 代理：21 种调查工具+自然语言/MCP 驱动**
+**面向调查人员的自然语言 OSINT agent（21 个公开来源工具+MCP）**
 
-为安全研究人员和分析师提供的开源情报（OSINT）引擎：将 21 种调查工具（WHOIS、DNS、Shodan、VirusTotal、Censys、GitHub、泄露查询等）置于自然语言接口之后，由 AI 代理自主选择并串联工具；提供 REPL、CLI、MCP 服务器与浏览器 Web UI 四种形态。支持 Anthropic Claude（默认）、本地 Ollama 或任意 OpenAI 兼容端点。默认被动模式：触碰目标或高噪音的工具默认不启用、不向模型暴露；每次请求受工具调用数上限约束。声明仅限合法授权使用。
+开源 OSINT agent，把 21 个公开来源查询工具封装在自然语言聊天界面之后，输出带来源引用的调查结论；提供 Web UI（聊天、3D 地球、实体图谱）、REPL、MCP server 和 Claude Code 插件四种形态。默认仅启用被动查询工具，接触目标的主动操作需 --allow-active 显式开启；大部分工具免 API key 即可启动，部分工具需自行配置密钥。Python 3.10+，支持 pip/uvx/Docker 安装。
 
 ## 筛选速览
 
@@ -13,32 +13,32 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 21 种模块化调查工具，代理按发现自动串联执行
-- 原生 MCP 服务器，任意 MCP 兼容客户端可直接驱动
-- 默认被动模式：触碰目标/高噪音工具默认关闭且不出现在 tools/list
-- 每次请求设工具调用上限（默认 15），并自动生成 PDF/Markdown 报告
+- 21 个公开来源查询工具，每条结论附工具调用出处
+- MCP server 兼容 Claude Desktop/Claude Code/Cursor 等 MCP 客户端
+- 默认被动查询，主动扫描需显式 --allow-active 开启
+- Web UI 含流式聊天、新闻地球仪与 FollowTheMoney 实体图谱
 
 ## 适用场景
 
-- 我对邮箱、用户名、域名、IP 等目标做被动开源情报调查
-- 我通过 Claude 等 MCP 客户端直接调用这套 OSINT 工具
-- 我在授权的安全研究中生成可溯源的调查报告（含工具调用记录）
+- 对域名/IP/公司做被动情报收集与暴露面评估
+- 在 Claude Code 或 MCP 客户端中以对话方式发起 OSINT 调查
+- 查看带图谱与地球仪可视化的调查结果并逐点下钻
 
 ## 场景标签
 
-`网络安全` · 领域:学习与行业
+`网络安全` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L5:  An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21 investigation tools behind a na
-> L62: |Three AI backends|Anthropic Claude (default), local Ollama, or any OpenAI-compatible endpoint (LiteLLM, vLLM, LM S
+> L2:  OpenOSINT is an open-source OSINT agent for investigators and security researchers: 21 public-source tools behind a
+> L76: Tools run as real Python code and every finding cites the call that produced it. Compared with SpiderFoot, OpenOSIN
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `763de0e5dea3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `03324ed6c932` · [字段定义](../../DATASET.md)*

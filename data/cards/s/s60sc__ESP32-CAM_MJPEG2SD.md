@@ -2,9 +2,9 @@
 
 ⭐ 1,792 · C++ · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) · 个人维护
 
-**ESP32 摄像头应用：运动检测录像存 SD 卡并串流到浏览器**
+**ESP32 相机应用：移动侦测录 AVI 到 SD 卡并 MJPEG 推流**
 
-运行于 ESP32/ESP32S3 与 OV2640/OV3660/OV5640/PY260 摄像头的固件应用：将 JPEG 帧录制为 AVI 文件存入 SD 卡，并以 MJPEG 方式回放/串流到浏览器，支持 RTSP 推流。功能包括运动检测（摄像头/PIR/雷达/加速度计）、延时与行车记录仪式连续录制、I2S/PDM 麦克风录音、云台舵机、Telegram/邮件告警、FTP/HTTPS/WebDAV 传输、MQTT 接入 Home Assistant、机器学习接口与摄像头集线器。通过 Arduino IDE 编译烧录，需 arduino-esp32 core v3.1.1 以上；ESP32 因堆内存限制无法启用全部功能，推荐 ESP32S3 板（如 Freenove）以获得更好性能。
+运行于 ESP32/ESP32S3 与 OV2640/OV3660/OV5640/PY260 相机的 Arduino 固件应用，将 JPEG 帧合成 AVI 存入 SD 卡，并可通过 MJPEG/RTSP 向浏览器或 NVR 推流。支持相机或 PIR/雷达/加速度计触发的移动侦测、延时与行车记录仪式连续录制、I2S/PDM 麦克风录音、云台舵机与灯光控制、Telegram/Email 告警、FTP/HTTPS/WebDAV 传输及 Home Assistant 集成。经 Arduino IDE 编译烧录，需 PSRAM 启用与指定分区方案；README 提示 ESP32 堆内存不足以支持全部功能。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 运动检测或连续录制，JPEG 合成 AVI 存 SD 卡，浏览器 MJPEG 回放
-- 支持 RTSP 推流、FTP/HTTPS/WebDAV 上传与浏览器下载
-- MQTT 控制并可集成 Home Assistant，支持 Telegram/邮件告警
-- 提供机器学习支持接口与摄像头集线器功能
+- 移动侦测与连续录制（Time Lapse / DashCam 两种模式）
+- AVI 录制可在媒体播放器以正确帧率回放，含音频 WAV 轨
+- MQTT 控制并集成 Home Assistant，支持 Telegram/Email 告警
+- 提供 Machine Learning 接口与多设备 Camera Hub 功能
 
 ## 适用场景
 
-- 用 ESP32-CAM 搭建安防摄像头或野生动物监测
-- 行车记录仪式或延时摄影连续录制
-- FPV 载具的远程控制与飞行监测
-- 接入 Home Assistant 做 MQTT 联动监控
+- 搭建安防摄像头，侦测到移动时录像并推送告警
+- 野外或火箭飞行监测等场景的长时间录像
+- FPV 遥控车辆的摄像头与遥测记录
+- 拍摄照片用于 3D 成像的摄影测量
 
 ## 场景标签
 
- · 领域:物联网/嵌入式视频采集
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L3: Application for ESP32 / ESP32S3 with OV2640 / OV3660 / OV5640 / PY260 camera to record JPEGs to SD card as AVI files
 > L19: * Interface for Machine Learning support.
-> L52: The application enables video capture of motion detection or continuous recording. Examples include security camera
+> L38: The application enables video capture of motion detection or continuous recording. Examples include security camera
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8302200e9209` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cb50995bbb36` · [字段定义](../../DATASET.md)*
